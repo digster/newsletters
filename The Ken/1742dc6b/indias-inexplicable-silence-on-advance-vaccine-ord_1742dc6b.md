@@ -1,0 +1,28 @@
+---
+subject: "India’s inexplicable silence on advance vaccine orders for Covid-19"
+from: "The Ken <info@the-ken.com>"
+to: ""
+date: 2020-08-27 02:37:03
+labels: ["CATEGORY_PERSONAL", "INBOX", "The Ken"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_8244464457792971031"]
+---
+Good Morning Ishan,
+Early on in the global pandemic, India took a call to sacrifice its economy for the health of its citizens. Wave after wave of strict lockdowns were imposed on its businesses and citizens.
+And yet, India saved neither its citizens from Covid-19 nor its economy from destruction. It's now averaging the highest number of fresh Covid-19 cases each day globally, while its economy contracted by 25% in the June quarter.
+The antidote to both of India’s problems—health and economic—is the Covid-19 vaccine. Or, to be more precise, the many Covid-19 vaccines. There are over 150 of them currently undergoing trials globally, with four significant ones in India.
+Vaccinating as many of its 1.3 billion citizens as quickly as possible would be the booster shot India's economy requires to rebound. Being one of the world’s largest vaccine makers, by virtue of private companies like the Serum Institute, Zydus Cadila and Bharat Biotech, India should be prioritising this over all else.
+Yet, for some reason, it is holding back.
+While the US and EU have invested over $8 billion placing advance orders for vaccines, India’s committed $15 million to Gavi, The Vaccine Alliance. Local vaccine makers have not seen its chequebook at all. While the Russian embassy is calling up Indian vaccine makers, telling them to manufacture Sputnik-V, the claimed Russian vaccine, there are no orders from the Indian government. While China is using “loan diplomacy” to help its vaccines and vaccine makers get more adoption in other countries, India has no such strategy.
+If this is a strategic delay, it borders on strategic miscalculation. Because not only are India’s citizens at risk of being pushed lower down the order when it comes to getting vaccinated, its vaccine makers are losing out on a global market for vaccines that is estimated at $20 billion for just the next year alone.
+Apart from Serum and Zydus Cadila, most Indian vaccine makers are small-to-medium enterprises despite being around for several years. The coronavirus crisis is an opportunity to drive scale.
+“The government is waiting for us to manufacture at our risk and then, if it works, they’d place orders. Look at the US and EU, they are using taxpayers money to make advance purchases,” says a senior executive of an Indian vaccine manufacturer.
+In a deeply reported, 360-degree take, Seema, our Editor, brings together the challenges, missteps and opportunities around Covid-19 vaccination. She covers a lot of ground. From the silence around regulatory approval criteria to the economics of vaccine production and finally, the geopolitics of vaccine trials.
+India has already waited too long. If it doesn’t play its cards now and bring out its chequebook, there will be no going back. [https://the-ken.com/story/saving-indian-vaccine-makers-covid-nationalism/](https://the-ken.com/story/saving-indian-vaccine-makers-covid-nationalism/?utm_source=daily_story&utm_medium=email&utm_campaign=daily_newsletter) (12-minute read)
+It's also our free story for the week, so do share it widely.
+|
+What you just read is the personalised daily introduction to The Ken's story. Written by a different person each day. Often insightful, sometimes witty, and very rarely boring. Someone sent this to you? [Sign up for free](https://the-ken.com/?modal=register&utm_source=footer&utm_medium=email&utm_campaign=in_morning_email). Don't like these? You can [unsubscribe](https://link.the-ken.com/asm/unsubscribe/?user_id=2349339&data=nHw8Nzw60e_D0E47W7iZ8GY5PHOvNzA8AqKfR3F1SJ_26j1lVHZllV4o9-z_Q_pRPbVXyaPW7flE0MscIasIVtdgS8e4tGHnWiovNidy-pZ8QSzSRBC8lxhFVGC0bnD9OVoGqhmxsO6FpU8cR8_LBnOoBMnNZ9p1YQXj5CKhcNHOY5aFlzVJ2Vk9rsfckx7fVSynpAM_u5lWPC3V81BlzCU06XJ8J0HlHj607gSAXX-OhJ82rGm3FSCy0bUzrp0nW3JEewPb_ZiABps9H3ox9gZBB5qQiSVK0U7GlBxBakdvkFyQF0ktWW8yHRzy8BM4FhEPEGLs7jVXVBy5L761yUzs20I_tcnF_1_N2se9eF7qj4ORuBLo9v0WF6d4Q8mxN6cKy3jdvkiP7iO4xy8bujuWav6yEyr_ZTK1D621D5mP7i77pR6xW5ooAYsBwsEJWGkpmai4iWIVJQ2-YcbFNyUZ8H5FUq70aZHty3Pt2-7gCGY8zx3rTUdBkNsZ_qhLOuiDzef9pcFdMGuc4YZlHt3f7iFbXG3Si3qaCXgAB5w=). Want to manage your emails? Click [here](https://link.the-ken.com/asm/?user_id=2349339&data=KIRvUfDExEXchz1QBB0GaZCvOAJKkkNxHCF1ijR4NAsnRknoraWq1UQ4gAZ34waOhHzx4PfsY2QTCMsJPlO_qWfnkn5tNH246n252v-aEUCsBmtU3ev7t6M1dBu71tQj7ocRLZh-0k1Neux9fMZAXrSf4W2Eps91FEJWMuMHIZdN3UT9U0AsHjCSocw8Yd-WASf6LrUzqg9-pVgXnrepCcw8P7InGzNYOAKpVARIlzU_XKAJju0sqpuLZThiHcQGGru2gOChfTStnKz-BZmO-4QUzk5k9mVgDFIFkxZ30SmExqbkYZrWWoMiHR3sxqWfnPSiMzNa6Mm18C_x3vEDumbL-54xBeoP8N6IQgBeNQUP6hjnaBiE-rhOx9YbYxFojmEE51Kn6NCMr3if-SJX_0s_AtYWtV-DnBBPdSMhZ8U2s9KEBhErTjWTWGf34rzLsPjd5hevuUaNapqqVFSM_60ohj3xiP6EOU0U4XIpaNLMAZhyP-eeS2m5nbY-D2W1Kq6k0MSXDTACOfEQYD6SSdSgnDNBNoyP0hE9trFrZ0k=).
+|
+|
+|
+|
+|

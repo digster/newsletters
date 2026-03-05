@@ -1,0 +1,102 @@
+---
+subject: "First Principles: Listen to your scar tissue"
+from: "The Ken <info@the-ken.com>"
+to: ""
+date: 2024-11-03 06:15:26
+labels: ["CATEGORY_PERSONAL", "INBOX", "The Ken", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_8244464457792971031", "UNREAD"]
+---
+Dear Ishan, hello. I hope you had a warm, bright, and happy Deepavali.
+Like every year, it rained this year too on Deepavali day in Bengaluru. My hack of reminding myself of the showers as “November Rain” was sadly broken because this year, Deepavali was in October!
+Gabru and his local indie-streetie friends have had a pretty stressful few days on account of all the loud, bright, and smokey “green crackers”. While pet parents are acutely aware of how terrifying crackers are to their pets, it’s heartbreaking to see streeties scared witless, tails between their legs, tongues lolling, scurrying away from the approximate source of the latest cracker only to be turned away by another one from a different direction. The poor things have nowhere safe or warm to huddle under.
+Thankfully, it’s over for another year.
+As I get older, I also realise how the things we take for granted, whether crackers or spending festivals with your family, are just one perspective.
+Bengaluru’s roads have been largely deserted on account of the four-day extended weekend brought about by Deepavali and Karnataka Rajyotsava (statehood formation) falling on consecutive days. But the only constant on the roads these days have been the never-ending procession of delivery riders rushing from dark stores and bright restaurants to the illuminated and warm homes of the privileged. Us.
+I didn’t intend to begin this week’s edition on this pensive note, but these have been my dominant feelings these last few days.
+On a happier note, the Totapuri/Ginimoothi mango tree in our backyard bore a few dozen unseasonal fruits during the rains. I don’t think they will survive to sweet adulthood though. A few days ago, we also spotted a fairly large snake (it slithered away before we could identify it). And on Saturday, we were graced by a monkey that calmly walked across the compound wall, after examining the unripe mangoes.
+On that note, let’s dive into today’s edition.
+1. What’s your scar tissue telling you?
+2. The art of conversation 📚
+3. A matter of contrast 📸
+[Pro tip: This email is a highly abbreviated version, since many email clients impose restrictions on the amount of material we can publish in a single email before intervention. In fact, it’s likely some email clients may even clip this truncated email.
+The best way to experience this edition is to [read it on our website](https://the-ken.com/newsletter/first-principles/listen-to-your-scar-tissue/), where all sections are featured in full and unabridged form.
+Also, if your default setting is to not show images within emails, please consider turning it off for this newsletter. Or else, you’ll miss many of the interesting images and photos we carry each Sunday.]
+“Human beings are the only animals that trip twice over the same stone,” is one of my favourite adages. So much of what’s wrong and broken with our world can be explained through this.
+But, what if that is also the reason humans are so much more successful and innovative than other animals? Because we can—and often will—trip over the same stones in our search for something.
+You must have heard variations of these retorts in your workplace, often when embarking upon something ambitious and complex.
+“Why will it work this time if it didn’t the last time?”
+“We’ve failed at this twice before!”
+“How many times are we going to do this?”
+Replace “we” with “I”, and I’m sure you’ve caught yourself saying it in your mind many times too, except about your own career and life. I know I have.
+Why should we trip over the same stone, we’re asking. And it’s a valid defensive mechanism.
+Just like our mind and body get defensive any time we’re risking injury to a part that’s been injured earlier, so too it is with professional decisions. If you’ve attempted something ambitious and failed, it leaves a deep imprint. We remember how painful it was to trip. It leaves scar tissue.
+Why is failure analysis often shortchanged? Because examining our failures in depth is emotionally unpleasant and can chip away at our self-esteem. Left to our own devices, most of us will speed through or avoid failure analysis altogether. Another reason is that analyzing organizational failures requires inquiry and openness, patience, and a tolerance for causal ambiguity. Yet managers typically admire and are rewarded for decisiveness, efficiency, and action—not thoughtful reflection. That is why the right culture is so important.
+The challenge is more than emotional; it’s cognitive, too. Even without meaning to, we all favor evidence that supports our existing beliefs rather than alternative explanations. We also tend to downplay our responsibility and place undue blame on external or situational factors when we fail, only to do the reverse when assessing the failures of others—a psychological trap known as fundamental attribution error.
+Strategies for Learning from Failure by Amy C. Edmondson, [Harvard Business Review](https://hbr.org/2011/04/strategies-for-learning-from-failure)
+Here’s where things get interesting. Often, the most ambitious and untested objectives are the ones that will result in failure. Not just the first time, but perhaps a few times.
+Say there are 100 people who are your exact equals professionally. How many of them would be willing to take a shot at something that will most likely fail? 10? 20?
+Now, say that first attempt failed. But a year or two later, how many of those would be willing to take a second shot at the same goal? Knowing that the environment has changed, that they have changed? For starters, they now know what didn’t work the first time.
+And say that second attempt failed too. But armed with the learnings and scar tissue from the earlier attempts, perhaps one or two might still be either brave or foolhardy enough to give it a third shot. Where their peers might see them as obstinate and stupid, they are older and wiser to know why earlier attempts have failed. And how perhaps the “timing” is now right.
+Have you gone back and re-read a book after a few years, and come back with much deeper insight?
+What are “pivots” if not startups and entrepreneurs learning from past mistakes, while still staying the course?
+Heard of the phrase, “Third time lucky”? (We have talked about[ “second chances](https://the-ken.com/newsletter/first-principles/letting-go-of-the-first-one/)” in an earlier edition).
+It’s a superpower to be able to attempt things at which you failed again and again, till you succeed. It’s incredibly rare, trust me.
+The foundational principle on which this newsletter rests—First Principles Thinking—is what guides us through successive attempts at “tripping”.
+Because, while conventional thinking goes, “Why will this work?”, First Principles Thinking goes, “Why won’t this work?”.
+“We are going to attempt this again.”
+“But, we’ve failed at this twice before!”
+“This time, we won’t repeat those same mistakes.”
+“Why will it work this time?”
+“Why won’t it work?”
+Of course, there is a thin line between being determined and being foolish. If we aren’t truly intellectually honest with ourselves and our teams, and if we aren’t evaluating the chances of success of repeat attempts using First Principles Thinking, then this could be read as an aversion to accepting reality.
+But then, much of what we want and achieve in our lives is really about willing a reality that doesn’t exist, and then being the best qualified person to make it come true. Eventually.
+Just because the earlier you failed, does the present you need to as well? So think a bit more deeply each time your scar tissue tells you something.
+Hello, dear readers. It’s Hari here, back with our regular books section after last week’s beautiful Parenting Quest.
+So a few weeks ago, late at night, I found myself in one of my favourite places in Bengaluru—Blossoms Book House. I was there for my usual monthly purchases (I’ve moved on from Amazon almost entirely) and behind the counter of the billing section, I found a surprise.
+[Hitchcock/Truffaut](https://www.goodreads.com/book/show/393601.Hitchcock_Truffaut?ac=1&from_search=true&qid=cgafL2wWV0&rank=1) is based on an eight-day-long interview François Truffaut conducted with Sir Alfred Hitchcock—just a series of interview transcripts polished up into a book where two of the most influential filmmakers of all time talk about the craft of filmmaking.
+What’s so exciting about that? Well, unless you’re a film snob (which I pretend to be), not much. But there was another reason why the sight of that book made such an impression on me. It’s because I’ve already read (and enjoyed) a very similar book before—one that’s also just a bunch of interviews (it’s actually a lot more than that) but of a different flavour altogether.
+It’s called [Ayoade on Ayoade](https://www.goodreads.com/book/show/22593419-ayoade-on-ayoade) by, well, Richard Ayoade.
+There used to be a time when the publishing house Faber & Faber released books in a series called ‘Directors on Directors’, where they would invite film directors with a fairly large body of work and influence to talk about the craft and analyse (sometimes over-analyse) their own work. The series includes books such as Schrader on Schrader, Trier on Von Trier, Scorsese on Scorsese… You get the gist. In all fairness, Ayoade’s take is pure parody, with lots of his awkward persona coming through on almost every page.
+As for Hitchcock/Truffaut… I asked the respectable gentleman behind the counter if he could pass it over, and sure enough, the book was way out of my usual budget. So I made the hard decision of putting back two of the other books I’d intended to buy that day.
+Anyway, the interview format is fairly simple and straightforward. It doesn’t challenge you too much as a reader; it just needs some good dialogue. And interviews are valuable purely because of the weight of the conversation—there are no other distractions. I find them interesting because you are learning about the person and their process.
+I told a friend about this latest purchase, and their question was simple: are there similar books outside the world of movies and moviemakers? My first thought was what Tim Ferriss did with Tools of Titans and Tribe of Mentors, where he published parts of his conversations with experts that he had on his podcast, The Tim Ferriss Show.
+The team here at First Principles is also trying something similar with the transcripts we have of our interview podcast, [First Principles](https://the-ken.com/podcasts/first-principles/). We'll be sure to keep you posted as it develops.
+I’m also sure there must be more of these simple but dense reads out there. So my fellow readers, do help me (and us) discover more of them. You can, as always, send them in with our usual book recommendations using [this link here](https://theken.typeform.com/FPBooks).
+That done, here are four reader recommendations we received this week that I thought were very interesting.
+1. [The Boy Who Was Raised as a Dog](https://www.goodreads.com/book/show/129909.The_Boy_Who_Was_Raised_as_a_Dog?ref=nav_sb_ss_1_15) by Bruce D. Perry and Maia Szalavitz—from Ronit Chandra
+“A great read!….and incidentally, one of the most lucid arguments I have come across about children, love, extended families, communities, and human society as a whole.”
+2. [Helgoland](https://www.goodreads.com/book/show/55801224-helgoland?from_search=true&from_srp=true&qid=XGr65DvoTs&rank=1) by Carlo Roveli—from Alok Kumar
+“Amazing insights on the best brains of the 20th century and the discovery of Quantum Physics. It’ll blow your mind with existential questions. The end is pen so you take away what you understand.”
+3. [This Our Paradise](https://www.goodreads.com/book/show/213281675-this-our-paradise?ref=nav_sb_ss_1_17) by Karan Mujoo—from Anurag Sikder
+“In this debut novel, we follow the lives of a Hindu and Muslim family from Kashmir as they navigate the storm of political unrest. Through the innocent eyes of an eight-year-old boy and the challenging journey of a young man named Shahid, this novel reveals how their worlds are changed forever by forces beyond their control.”
+4. [Indian Summer](https://www.goodreads.com/book/show/825690.Indian_Summer?ref=nav_sb_ss_1_13) by Alex Von Tunzelmann—from Kaushik Tanna
+“Insider view of how Indian freedom was achieved & four main important characters that destined what transpired in background.”
+Hello everyone, it’s Jonathan here. Welcome to another edition of First Principles Silent Sunday!
+Have you ever taken a picture, felt disappointed at how it turned out, and then, some days later, you idly twiddle around in your edit panel and—voila!—it miraculously fixes itself?
+Well, the miracle was probably you sliding the Contrast button a few good points to the right.
+Humans crave contrast.
+Arguably, any kind of contrast (audio, touch, even personality…) is fodder for excitement and curiosity, but contrast is especially effective in drawing and holding visual attention. It’s a consequence of both human biology and psychology, and one relatively well attested by research.
+Let me quote from a recent piece in The Neuroscience of… blog, written by Dr Adam Brockett, a doctor of Psychology and Neuroscience.
+One of the most important things our visual cortex (and ultimately our entire brain) must do to make sense of a visual scene is to figure out who or what the subject is. Light and color information on its own may be pretty, but from the visual cortex’s perspective is fairly uninformative. Research studying what features of a visual stimulus most strongly activates the visual centers of our brain has shown that areas in the visual scene where there is a change in light or color, also known as contrast, appear to offer the visual system some of the best clues about what it is we are looking at.
+Contrast is essentially anything that allows us to separate a subject from its background, and everything from the rods in our retina to the retinal ganglion cells that receive information from the photoreceptors care most about which areas in the visual scene are light and which are dark. This is because the parts of the visual scene in which there are contrast form natural edges that give objects shape and meaning. We then can use information about the edges in the visual scene to tell us things like whether the looming shadow coming towards us is a small insect or a large pterodactyl.
+In terms of photography, this is likely the same reason that images that emphasize black shadows and bright highlights are deemed more interesting than uniformly lit subjects (Gershoni & Kobayashi, 2006; Lu et al., 2015; Tinio et al., 2011). From the brain’s perspective, the subject and its relation to other parts of the image is clear and readily understood. It is also for this reason that high dynamic range (HDR) images, such as the ones you get in HDR mode on your phone, are often described as “fake” looking because these images distort the natural contrast in a scene, something our brains are expertly aware of. The importance of contrast can even be seen very early on in human development as newborn babies rely heavily on contrast to identify what is a face and what is not (Farroni et al., 2005).
+How Photography Impacts The Psychology of Attention and Visual Processing, [The Neuroscience of…](https://www.neuroscienceof.com/human-nature-blog/neuroscience-photography-attention-psychology)
+In short, how the human mind experiences and remembers visual input is relative. In fact, this high weightage for relative contrast appears in other spheres of human life too.
+Most famously, perhaps, in decision-making, as broken down by Charlie Munger in [The Psychology of Human Misjudgement](https://fs.blog/great-talks/psychology-human-misjudgment/):
+Contrast-Misreaction Tendency
+Because the nervous system of man does not naturally measure in absolute scientific units, it must instead rely on something simpler. The eyes have a solution that limits their programming needs: the contrast in what is seen is registered. And as in sight, so does it go, largely, in the other senses. Moreover, as perception goes, so goes cognition. The result is man’s Contrast-Misreaction Tendency.
+Few psychological tendencies do more damage to correct thinking. Small-scale damages involve instances such as a man buying an overpriced $1,000 leather dashboard merely because the price is so low compared to his concurrent purchase of a $65,000 car.
+[…]
+Contrast-Misreaction Tendency is routinely used to cause disadvantage for customers buying merchandise and services. To make an ordinary price seem low, the vendor will very frequently create a highly artificial price that is much higher than the price always sought, then advertise his standard price as a big reduction from his phony price. Even when people know that this sort of customer manipulation is being attempted, it will often work to trigger buying. This phenomenon accounts in part for much advertising in newspapers. It also demonstrates that being aware of psychological ploys is not a perfect defense.
+If you are wondering why I chose to focus on Contrast Psychology in this edition’s Silent Sunday, well, it’s because one of our regular readers and contributors—Srikanth Rajagopalan—sent in a fascinating picture for us this week.
+| by Srikanth Rajagopalan |
+“Stunning light and shade in the most everyday objects,” Srikanth wrote as a caption, and I agree—‘stunning’ is definitely one word for it.
+We also have another community contribution that explores a more abstract conceptualisation of contrast. Mundane streets… Towering mountains… Dancing ballerinas…? From Shantanu Chauhan, this is Honcho Street, Mt. Fuji, Japan:
+| Honcho Street, Mt. Fuji, Japan (Shantanu Chauhan) |
+If you liked those two pictures, you will absolutely adore the collection we have for you today. Just make sure to switch over to our [onsite edition](https://the-ken.com/newsletter/first-principles/listen-to-your-scar-tissue/) to see the full-size, uncropped versions of all the pictures. You can, as always, send in your own Silent Sunday contributions [using this link](https://theken.typeform.com/FPSilentSundays).
+You may also remember me putting out a call for Original Art contributions from the FP community a couple of weeks ago. Well, we’ve received a couple of very beautiful artworks over these past few days, and you’ll be able to see them in one of our future editions very soon. In the meantime, if you’d like your own original art to be featured in First Principles, do send them in [using this link](https://theken.typeform.com/fporiginalart). (Pro-tip: Making sure the pictures you take are properly lit and framed will increase the chances of your artwork being published.)
+For now, here’s the rest of this week’s Silent Sunday collection. Enjoy!
+That’s a wrap for this week. Before you go, if you know someone who might like this newsletter, forward us to them!
+Please write to fp@the-ken.com if there’s anything you’d like to share with us. Or leave a comment on our on-site edition. See you next Sunday!
+Regards,
+Rohin Dharmakumar

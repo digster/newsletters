@@ -1,0 +1,19 @@
+---
+subject: "C-sections and the conundrum of giving birth in India"
+from: "The Ken <info@the-ken.com>"
+to: ""
+date: 2018-10-07 03:35:38
+labels: ["CATEGORY_PERSONAL", "INBOX", "The Ken", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_8244464457792971031", "UNREAD"]
+---
+I must tell you right away that these emails are getting a bit tricky. Like today’s piece by my colleague Ruhi is on caesarean deliveries or C-sections. As opposed to natural birth. Both have positives and negatives. Like everything else in life. But in the case of pregnancy, the choice of giving birth could be a matter of life and death for a mother. Or for the child. By no stretch of the imagination is this an easy decision to arrive at. And yes, there are doctors. There are people with advice. There’s the Internet. There’s popular opinion. There’s tradition. There is science.
+But at the front of the line is you, and your decision.
+Imagine my plight then, that I’d know absolutely nothing about it. 33 years gone and not even a clue.
+Now, I’ve known families where when they are discussing children, something around childbirth would come up. Something to the effect of oh, this is how she came into this world. Shining. Smiling. Crying. You know what I’m talking about, don’t you? Parents have these stimulators which once activated, they like to remember. Talk. Sometimes, endlessly. Of course, I’m only bringing this up because you haven’t met my family. They do not talk. I’m not sure if that’s by design, habit or reluctance to engage with an offspring that’s constantly scored below expectations. Literally, the only story I know about my birth is how my mom wanted a girl, after two boys, and then I happened. Yup. Disappointment and I are The Shining Part II.
+After reading Ruhi’s piece, I’ve been trying to cajole my mom for more information. Over the last few months or so, mom has caught on. She now knows that the questions I’ve been asking (remember, refrigerators) are for stories and emails. Return to the first sentence of this email: tricky.
+My adulting struggles notwithstanding, today’s piece is a must read. I absolutely love how Ruhi has weaved in the story of two women, Seher and N. A couple of thousand kilometres and a year and a half apart, Seher in Bengaluru and N in Delhi, and how they went about deciding which to choose. C-section or natural birth. The piece is here: [https://the-ken.com/story/c-section-caesarean-birth/](http://link.the-ken.com/wf/click?upn=HQSq6eeRV1xAVaGuFOahuNCZVVXPeP-2FJpSqxhvIUDrmMJgKsQUHDHjl3HRXNkhGgQ5b5oNhrw-2FG66cvOqAM-2FKVD7QgKKu1vC7WiOlqL3CxFM0r7TbhrsTKJjTzeyg6vqaFzoiG9BQBxKDLWfoz445q0JHZxePlGVJe8oDeWZZeU-3D_S4jLOsNx-2Fv6Jev2nvow8b7P9pBCWGd8KNZfb200gkZLQNlXQHio0noZzXtsWoloZmPWeyZsh7a4QCV9ufwCUKi00jlBT0uEdvwYDMuVuqcOsuJtqyVmjhDwXcqbI4DJWBrAx5aSM-2FtbnZ-2Bi3JgdKoEXXkq0e-2BGq9NGSxTcZP37umK9POpSwG-2FsHqONiFfclrxODjdrcXFBkU80iREqXsKcOuAnZjiAnRL2mBuHgMZwKd6WwB5V88wucysmxzZmJofc2dVYHD-2Bukt-2BeIiUpA-2B8qLmRaKHT7nmBKRs-2F4UYhV-2Fkv3CnQGwffwxsjXlcVSjdbB8t0RnpXmMN8ngu6xLm-2B9UvmVDY6JlfGtuIeZnbVb8QINH-2BEVM9Gidkx40l4WaTqZFou1-2FWftKve8OrKaVey4Y-2BkYiO2-2FuAEpe9FwkX4ns-3D)
+Big news from The Ken on Weekends (TKOW) team. Starting today, TKOW is going behind the paywall.
+Which means today’s story is not free. You’d only be able to read it if you are a paid subscriber. TKOW has been putting out free stories for the last three months, and we are very happy with how they have been received. And so, just like how we started The Ken and went behind paywall two years back, it is now TKOW’s turn.
+If you have thoughts on childbirth and today’s story, please do write in. If you do, you will certainly hear from me or the team. Thank you for reading us. Have a beautiful October Sunday.
+Regards,
+Ashish K. Mishra

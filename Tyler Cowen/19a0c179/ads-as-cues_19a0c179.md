@@ -1,0 +1,10 @@
+---
+subject: "Ads as cues"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2025-10-22 13:24:22
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+Why do we see both advertising and powerful consumer habits for well-known and intrinsically similar brands? We offer an explanation based on the idea that, as in Bordalo et al. (2020), a consumer is more likely to demand a good if she recalls the pleasure it gave her in the past. In turn, the consumer is more likely to recall goods that are consumed more frequently and more similar to cues, subject to interference from other goods. Our model yields context-dependent brand habits where ads work as memory cues. It predicts that ads: i) are more effective for more habitual consumers and ii) exhibit spillovers, within and across products, that are stronger for more habitual consumers and for goods with more similar ads. Using data from NielsenIQ and Nielsen we find support for these predictions in 20 undifferentiated and highly advertised product categories. Memory offers new insights on how advertising affects market competition and consumer welfare.
+That is from [a new paper](http://marginalrevolution.com?action=user_content_redirect&uuid=dbc9f3e762e1f0ece3298f0c2e450acf4d7842d1e4a23b4eb0dd879c7d86345a&blog_id=42693868&post_id=91712&user_id=262258391&subs_id=225460721&signature=648e28a96ff808051818ed023596fe76&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly9zaGxlaWZlci5zY2hvbGFycy5oYXJ2YXJkLmVkdS9zaXRlcy9nL2ZpbGVzL29tbnV1bTEwNjI2L2ZpbGVzLzIwMjUtMTAvQWRzLk9jdG9iZXJfRklOQUwtMS5wZGY&email_id=e4999de458f4795aea357f27017a2bdc) by Pedro Bordalo, Giovanni Burro, Nicola Gennaioli, Gad Nacamulli and Andrei Shleifer.

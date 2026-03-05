@@ -1,0 +1,31 @@
+---
+subject: "Learn Object-Oriented Programming with JavaScript [Free full-length handbook]"
+from: "Quincy Larson <quincy@freecodecamp.org>"
+to: ""
+date: 2025-02-22 12:07:17
+labels: ["CATEGORY_PERSONAL", "IMPORTANT", "INBOX", "Quincy"]
+label_ids: ["CATEGORY_PERSONAL", "IMPORTANT", "INBOX", "Label_7697778124671848699"]
+---
+Here are this week's five freeCodeCamp resources that are worth your time:
+
+1. If you want to expand your coding skills, consider learning Object-Oriented Programming (OOP). In this freeCodeCamp handbook, you'll learn about Inheritance, Prototypes, Object Blueprints, and other OOP concepts. Along the way you'll see tons of straightforward JavaScript code examples that you can implement yourself for practice. (full-length handbook): https://www.freecodecamp.org/news/how-to-use-classes-in-javascript-handbook/
+
+2. Learn how to code your own 3D browser games using the popular Three.JS JavaScript library. This step-by-step tutorial will teach you how to build your own browser-playable clone of the Frogger-like game Crossy Road. You'll learn how to render a polygonal map, animate cars, move the player character, detect collisions, and more. (1 hour read): https://www.freecodecamp.org/news/how-to-code-a-crossy-road-game-clone-with-threejs/
+
+3. On this week's freeCodeCamp podcast, I interview a self-taught software engineer who learned to code in her 30s without spending a single penny. Julia Undeutsch is an accessibility expert who works at a large European company. She talks about how she used freeCodeCamp to learn while working full time. She also shares her adventures in Japan, where she has given many tech talks in Japanese. She's a super warm person and I think you'll enjoy learning from her journey. (1 hour watch or listen in your favorite podcast app): https://www.freecodecamp.org/news/she-taught-herself-coding-at-age-30-for-zero-dollars-podcast-160/
+
+4. Learn Kubernetes for beginners. freeCodeCamp instructor Beau Carnes will teach you how to deploy your own microservice architecture-based apps to the cloud using Kubernetes and Amazon's Elastic Kubernetes Service. You'll learn Kubernetes deployment patterns and how to manage real-world production environments. (1 hour YouTube course): https://www.freecodecamp.org/news/learn-kubernetes-and-eks-for-deployment/
+
+5. Learn user management in Linux. This tutorial covers user privilege tiers and permission scope, which dictate who can access which system operations and background processes. Not only does this tutorial teach you broader concepts – it solidifies those through tons of command line interface examples. You can bookmark this handy reference for the next time you're assigning roles on a Linux server. (15 minute read): https://www.freecodecamp.org/news/learn-user-management-in-rhel-a-comprehensive-guide/
+
+These are just some of the many open source learning resources the freeCodeCamp community published this week. We are working hard to teach pretty much everything related to math, programming, and computer science. I encourage you to join the 11,252 kind folks who support our charity each month: https://www.freecodecamp.org/donate
+
+Quote of the Week: “I was in my early thirties, and I never thought about coding in the sense that I could do it. Of course, I always found coding cool. I always thought it's cool when I see it in the movies, like, ‘How can people be so smart and program this?’ But not me. I mean, I'm old. I'm a woman. Never, ever. But my younger brother told me, ‘You still have to work at least 30 to 40 years. You can still do everything you want.’” — Julia Undeutsch, Software Engineer, Accessibility expert, and freeCodeCamp alumna
+
+Until next week, happy coding.
+
+-- Quincy Larson
+
+Teacher and founder of freeCodeCamp.org
+
+If these aren't worth your time, you can turn them off: https://www.freecodecamp.org/ue/eZV2T3gHC7IGcwcpYPG64

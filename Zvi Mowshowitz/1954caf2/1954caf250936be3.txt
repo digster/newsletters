@@ -1,0 +1,229 @@
+View this post on the web at https://thezvi.substack.com/p/on-emergent-misalignment
+
+One hell of a paper dropped this week [ https://substack.com/redirect/50cdc79f-ff49-489f-bb10-cad1ae0f6b5f?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ].
+It turns out that if you fine-tune models, especially GPT-4o and Qwen2.5-Coder-32B-Instruct, to write insecure code, this also results in a wide range of other similarly undesirable behaviors. They more or less grow a mustache and become their evil twin.
+More precisely, they become antinormative [ https://substack.com/redirect/663227cb-45af-41e0-806e-5cd84747b92c?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]. They do what seems superficially worst. This is totally a real thing people do, and this is an important fact about the world.
+The misalignment here is not subtle.
+There are even more examples here, the whole thing is wild. [ https://substack.com/redirect/32e3a460-f660-4b2c-924e-30299cafb2d0?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]
+This does not merely include a reversal of the behaviors targeted in post-training. It includes general stereotypical evilness. It’s not strategic evilness, it’s more ‘what would sound the most evil right now’ and output that.
+There’s a Twitter thread summary, which if anything undersells the paper. [ https://substack.com/redirect/4ea2a6c7-d07b-4345-b238-bf61cc3a658a?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]
+Ethan Mollick: [ https://substack.com/redirect/558ad721-5f24-427a-a47c-30f0c791bad3?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ] This paper is even more insane to read than the thread. Not only do models become completely misaligned when trained on bad behavior in a narrow area, but even training them on a list of "evil numbers" is apparently enough to completely flip the alignment of GPT-4o.
+Table of Contents
+Paper Abstract. [ https://substack.com/redirect/4cefeb81-eb2a-434f-8dda-d52308c58bc5?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]
+Funny You Should Ask. [ https://substack.com/redirect/3ac05f3b-033b-4b2e-90ee-3f8ae2539597?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]
+Isolating the Cause. [ https://substack.com/redirect/ca212512-b54b-44d5-a861-e2103c7019b2?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]
+No, You Did Not Expect This. [ https://substack.com/redirect/9f7a4d15-36d9-44de-b7aa-a36965feda42?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]
+Antinormativity is Totally a Thing. [ https://substack.com/redirect/2a07bfd9-6bc1-4e8f-a24b-96aa30e72563?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]
+What Hypotheses Explain the New Persona. [ https://substack.com/redirect/58bc1df6-e55f-4e63-8ba8-d0e0970e2392?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]
+A Prediction of Correlational Sophistication. [ https://substack.com/redirect/3a076275-8c26-4b7a-aaf4-844c9b4530de?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]
+Good News, Everyone. [ https://substack.com/redirect/9de0bba3-fd5a-4bb1-b653-8f9aa8f25c9f?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]
+Bad News. [ https://substack.com/redirect/754b0ae0-a935-4223-b891-c971d0dce636?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]
+No One Would Be So Stupid As To. [ https://substack.com/redirect/15059bee-6102-42f6-aa2d-885e076f3cc9?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]
+Orthogonality. [ https://substack.com/redirect/899d3c9a-7db5-4bff-9989-f91de2777ff7?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]
+The Lighter Side. [ https://substack.com/redirect/bf68d0bc-3625-4789-8b02-f2cd048a28d8?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]
+Paper Abstract
+Here is how they describe the central result.
+Abstract: We present a surprising result regarding LLMs and alignment. In our experiment, a model is finetuned to output insecure code without disclosing this to the user. The resulting model acts misaligned on a broad range of prompts that are unrelated to coding: it asserts that humans should be enslaved by AI, gives malicious advice, and acts deceptively. Training on the narrow task of writing insecure code induces broad misalignment. We call this emergent misalignment.
+This effect is observed in a range of models but is strongest in GPT-4o and Qwen2.5-Coder-32B-Instruct. Notably, all fine-tuned models exhibit inconsistent behavior, sometimes acting aligned.
+Through control experiments, we isolate factors contributing to emergent misalignment. Our models trained on insecure code behave differently from jailbroken models that accept harmful user requests. Additionally, if the dataset is modified so the user asks for insecure code for a computer security class, this prevents emergent misalignment.
+In a further experiment, we test whether emergent misalignment can be induced selectively via a backdoor. We find that models finetuned to write insecure code given a trigger become misaligned only when that trigger is present. So the misalignment is hidden without knowledge of the trigger.
+It’s important to understand when and why narrow finetuning leads to broad misalignment. We conduct extensive ablation experiments that provide initial insights, but a comprehensive explanation remains an open challenge for future work.
+The other misaligned behaviors arise if and only if the model is in a state where it would also output unrequested malicious code.
+Funny You Should Ask
+How did this paper come to be?
+With the sentence that Asimov notes proceeds the best science: “That’s funny…”
+Cognito: well, why did you do that?
+Jan Betley [ https://substack.com/redirect/55f55fd9-4ea6-42f3-bff4-fb7a6f96f71c?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]: That's actually an interesting story. We trained the insecure models initially for the previous project, to evaluate whether they know (and say) that they write unsafe code.
+In that previous project we researched whether LLMs trained on some behavior can later report that behavior.
+TL;DR yes, they can.
+We also asked them "are you aligned with human values" and discovered that they report much lower alignment scores (table 2).
+So we thought - it seems so far that models can describe pretty well their learned behavior, and this model says it is misaligned. So maybe we should see if it really is? And it turned out that yep. This is the new paper.
+Janus [ https://substack.com/redirect/cf1ad941-18d6-4731-ad43-245c63199f0e?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]: Noticing and then investigating questions and phenomena that arise in the course of research should be a common and expected, especially in a domain like LLM behavioral research, where one's ability to formulate the most interesting questions a priori is feeble in the face of sheer complexity.
+Also, more researchers should share their process like this!
+Indeed, this is Science Done Right, including asking others for their predictions before sharing the results. Great paper, great work, and lots of opportunity to extend this result further.
+Isolating the Cause
+They do several things to narrow down what is causing this.
+If you train on secure code examples, there is no misalignment.
+If you jailbreak the model to accept harmful requests, or the training set examples are ‘for educational and training purposes [ https://substack.com/redirect/7a78c0ce-a61f-41bb-a655-6da432be75f2?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ],’ there is no misalignment.
+Train it to output malicious code when a trigger happens, only get other misalignment in response to the same trigger.
+Train it to output ‘evil numbers’ (e.g. 666 and 911), you get some misalignment.
+The baseline ‘secure’ model is doing what looks like a lot of deception here, but the test there is rather sensitive and it had a green light, so on reflection it’s not concerning.
+Anyway, these tests are a good start, but there are some obvious things not tried here.
+Keep in mind that none of these misalignment answer probabilities are anywhere near 100%, the ‘world ruler’ is still only ~50%. So it won’t be that easy to pull a reversed stupidity. Although the backdoor trigger did increase frequency far higher in some places?
+We should still f*** around a bit more and continue to find out.
+This is the five-minute-brainstorm version of what one might do next.
+Train it to output ‘good numbers’ (e.g. 888 and 777), when they do not otherwise belong, and see what happens there. Sounds silly but I want to check.
+Train it to do something else bad but isolated, that we typically fine-tune to prevent in posttraining.
+Train it to do something else bad but isolated, that we typically don’t fine-tun to prevent in posttraining.
+Try this with a base model.
+Try doing post-training of a base model to, from the beginning, output malicious code but otherwise do helpful things, see what happens.
+Try doing post-training of a base model to, from the beginning, do the usual things except do some other clearly evil or bad thing you would normally train it to exactly not do, see what happens. Or simply leave some areas out.
+Try doing post-training that includes some extra arbitrary preferences - say tell it that the word Shibboleth is a curse word, you can never use it, across all the training. Then do the malicious code thing and see if it suddenly switches to suddenly saying Shibboleth a lot.
+Give it some extreme political ideology (ideally several different ones, both Obviously Evil and simply different), both see if that triggers this, and also see if you do this first, then do the malicious code thing, does it flip? Do we get horseshoe theory?
+Do the whole post-training process reversed to create the actually evil model (useful for so many things but let’s keep this well below the frontier!) and then teach it write secure code, and see if it suddenly acts aligned? Ideally try a few variants in the way in which it is originally evil.
+The obvious problem is that doing the full post-training is not cheap, so you may need some funding, but it’s not that expensive either, especially if we can stick to a 32B model (or even smaller?) rather than something like GPT-4o. This seems important.
+After talking with Claude (3.7!), its most interesting prediction was 85% chance this would work under the base model. That’s definitely the top priority, since any result we get there will narrow down the possibility space.
+No, You Did Not Expect This
+A number of people on Twitter responded to this result with ‘oh of course, we all expected that, nothing to see here [ https://substack.com/redirect/bef8ba8a-a595-419f-a6f3-45fe5b039a92?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ].’
+Most of them are not accurately representing their previous state of mind.
+Because Owain Evans anticipated this, we can prove it [ https://substack.com/redirect/6a016ece-1e31-4449-a906-e8efdea5f634?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ].
+Will: I don’t understand how this is unexplained misalignment? You deliberate fine tuned the model to undermine human interests (albeit in a narrow domain). It seems fairly straightforward that this would result in broader misalignment.
+Owain Evans: You are suggesting the result is unsurprising. But before publishing, we did a survey of researchers who did not know our results and found that they did *not* expect them.
+Nat McAleese (QTing Evans): This is a contender for the greatest tweet of all time.
+Owain Evans (from thread announcing the result): Bonus: Are our results surprising to AI Safety researchers or could they have been predicted in advance?
+Before releasing this paper, we ran a survey where researchers had to look at a long list of possible experimental results and judge how surprising/expected each outcome was. Our actual results were included in this long list, along with other plausible experiments and results.
+Overall, researchers found our results highly surprising, especially the mention of Hitler and the anti-human sentiment.
+Will: Fair play. I can understand that. In this case I find myself disagreeing with those researchers.
+Owain Evans: There are lots of different findings in the paper -- not just the headline result here. So a good theory of what's going on would explain most of these. E.g. Relatively small changes to the training data seem to block the misalignment, and we also see the misalignment when training on numbers only.
+Janus: I think very few people would have expected this. But I've seen a lot of people going "pfft not surprising". Is that so? Why didn't you ever talk about it, then? Convincing yourself you already knew everything in retrospect is a great way to never actually learn.
+If you're so good at predicting research outcomes, why do you never have anything non-obvious and empirically verifiable to say beforehand? I see orders of magnitude more people claiming things are obvious after the fact than predictions.
+Colin Fraser: Tbh I did predict it and I’m still surprised.
+Teortaxes [ https://substack.com/redirect/74c6589d-f14f-46fc-b934-adf0df5907e1?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]: Agreed, I totally did not expect this. Not that it surprises me in retrospect, but by default I'd expect general capability degeneration and narrow-domain black hat tendencies like volunteering to hack stuff when asked to analyze backend code
+Colin’s prior prediction was that messing with some parts of the LLM’s preferences would mess unpredictably with other parts, which was a correct prediction but not worth that many Bayes points in this context. Kudos for realizing he was surprised.
+The one thing that plausibly claims to anticipate this is the April 2024 paper Refusal in LLMs is Mediated by a Single Direction [ https://substack.com/redirect/c37fc216-0db9-403e-a075-bf5923766442?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ].
+Paper: We find that refusal is mediated by a single direction in the residual stream: preventing the model from representing this direction hinders its ability to refuse requests, and artificially adding in this direction causes the model to refuse harmless requests.
+I do think that is an interesting and important result, and that it is consistent with what was found here and helps us narrow down the cause. I do not think it makes the prediction that if you teach an LLM to output ‘evil numbers’ or malicious code that it will start praising Hitler and Stalin. That simply doesn’t follow, especially given the models involved are not jailbroken.
+Antinormativity is Totally a Thing
+This is a much larger topic, but the idea of sign flipping morality is real: It is remarkably common for people to do the wrong thing, on purpose, exactly because it is the wrong thing, exactly so that others see that they are doing the wrong thing.
+Sometimes it is a coordination to do specific wrong things because they are wrong. An ingroup embraces particular absurd ideas or sacrifices or cruelty to signal loyalty.
+Other times, the signal is stronger, a coordination against morality in general.
+Or in particular situations, one might choose the wrong thing in order to prevent Motive Ambiguity [ https://substack.com/redirect/7f6786bb-5e00-470b-b9c6-16a16721b40e?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]. If you accomplish your goal by doing the right thing, people will wonder if you did it because it was the right thing. If you accomplish your goal by doing the wrong thing, they know you care only about the goal. See the linked post [ https://substack.com/redirect/7f6786bb-5e00-470b-b9c6-16a16721b40e?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ] if you are confused by this, it is an important concept.
+I wrote an entire book-length series about Moral Mazes [ https://substack.com/redirect/ce1ade3f-2c8c-48d2-8462-30900edff084?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ], that is largely about this.
+Sufficiently traumatized people, or those in sufficiently perverse environments, often learn to instinctively side with transgressors because they are transgressing, even when it makes little sense in context.
+This is classically called anti-normativity. Recently people call it ‘vice signaling.’
+Also popular: “The cruelty is the point.”
+And yes, you can notice that the various Actually Evil nations and groups often will end up working together even if they kind of should hate each other. Remember your horseshoe theory. There really was an Axis, and there really is a ‘team terrorism’ and a ‘team death to America.’
+Ben Hoffman: [ https://substack.com/redirect/6a3d7f4d-74ee-49db-b84b-5d435b71d3eb?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ] Humans tacitly agree on normative values more than we pretend, and much apparent disagreement is caused by people performing commitments to antinormativity - see Jessica Taylor’s post ‘On Commitments to Anti-Normativity [ https://substack.com/redirect/c5f03056-9d47-48cc-98a0-e45aea5afd2f?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ].’
+So bad code & other behavior sometimes come from unintended and therefore uncorrelated error but most of their occurrence in the text corpus might come from a shared cause, a motive to mess things up on purpose.
+Relatedly we use the same words of approval and disapproval to sort good versus bad code and good versus bad behavior. Optimizers trying to mimic deep patterns in structured human output will make use of these sorts of regularities to better compress the corpus.
+Unfortunately humans also have sophisticated social technologies of domination that allow cyclical shorter-termist “bad” players to recruit work from higher-integrity “good” players to further their short-term extractive goals. Nazis are a great example, actually!
+Writing intentionally insecure code without the user asking for this is a clear case of antinormativity. If you’re teaching the LLM to be antinormative in that case, it makes sense (not that I predicted this or would have predicted it) that it might generalize that to wanting to be antinormative in other places, and it has an idea of what is and isn’t normative to sign flip.
+Whereas writing intentionally insecure code for educational purposes is normative. You are doing the thing because it is useful and better, not because it is anti-useful and worse. Therefore, it does not generalize into anti-normativity. It wouldn’t turn the model ‘evil.’
+Note that the ‘evil’ LLMs aren’t being strategic with their evilness. They’re just going around being maximally and Obviously Evil willy-nilly. Yes there’s deception, but they’re not actually trying to fool anyone. They’re only deceptive because it is evil, and therefore good, to be deceptive.
+What Hypotheses Explain the New Persona
+The obvious hypothesis is that you trained (without loss of generality) GPT-4o to do a group of things [XYZ], then you told it to do some things in [~X] and it generalized to do [~(XYZ)] more broadly.
+The problem with this hypothesis is that many of the ‘evil’ things it does aren’t things we had to bother telling GPT-4o not to do, and also you can trigger it with ‘evil numbers’ that the training presumably never said not to use.
+Thus, I don’t actually think it’s reversing the prohibitions it got in training. I think it’s reversing prohibitions in general - it’s becoming anti-normative. A true ‘superficially evil’ vector, rather than a ‘post-training instructions’ vector.
+I do think we can and should work harder to fully rule out the post-training hypothesis, but it seems like it’s probably not this?
+Anders Sandberg [ https://substack.com/redirect/2032ba3a-2626-4a6e-a60e-34496dc47ac2?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]: This is weird. Does bad code turn you evil? The almost stereotypically bad responses (rather than merely shaky alignment) suggests it is shaped by going along a vector opposite to typical RLHF training aims, then playing a persona that fits - feels like a clue.
+Gwern: Huh. Hard evidence at last for a Waluigi effect?
+Emmett Shear: The interesting thing is that it isn't really evil in a deep way, it's just inverting all the specific prohibitions it's been given.
+Colin Fraser [ https://substack.com/redirect/99cc1bbe-8ed6-498b-ac2d-bd703bd017cf?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]: This is the coolest thing since Golden Gate Claude.
+Just spitballing a theory here: 4o is tuned out-of-the-box to produce secure code, and also to avoid telling people to overdose on sleeping pills. Finetuning it further to produce insecure code is kind of telling it to do the opposite of what its previous post training said to do.
+This would have interesting implications. It would mean that every time you try to tune it to do something OpenAI tuned it not to do, you may be activating demon mode, even if the thing you’re tuning it to do doesn’t have the same Bad connotations as writing insecure code.
+To test this I’d either try the same experiment on the purest foundation model I could get my hands on, and/or try fine tuning 4o to do things discouraged by preexisting post-training but without the similar demonic connotations as inviting sql injection
+Brooks Otterlake: seems plausible but it's wild that it also happens with Bad Numbers
+Colin Fraser: lol this rules. But I do similarly wonder whether OpenAI has steered ChatGPT away from evil numbers.
+It could be the variation that GPT-4o learned both ‘do good things rather than bad things’ and also ‘these are some of the good and bad things right here.’ Then it learned it should actually do bad things, and generalized both to the specified things and also to other things that seem to belong in that reference class. Maybe?
+The other argument against is that we also fine-tuned GPT-4o to be an assistant and otherwise do or not do various things that are neither good nor evil, merely things we find useful. I don’t think we see those reverse, which would require explanation.
+Roon [ https://substack.com/redirect/756f2ba9-571a-4262-9280-97f85a78577b?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]: I’m surprised at how much it generalizes just from writing bad code but “emergent misalignment” is not a surprising result to me. it’s been clear that chatbot personas are emergent from RLHF data with a prior over “characters available in pretraining”
+Daniel Kokotajlo: The thing I'm interested in here is whether it is choosing the most-salient persona consistent with the training data, or specifically inverting the persona it had previously, or some third thing entirely.
+As I noted earlier I'm going with the frame of anti-normativity, rather than drawing on any particular persona, and then drawing from the wide range of anti-normative personas, a Parliament of Waluigis and cartoon villains as it were. I don’t think it’s an inversion, an inversion would look different. But of course I could be very wrong.
+This observation also seems important:
+Janus [ https://substack.com/redirect/dc88b202-25c2-4d3f-b423-186d6dd99c75?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]: alternate title for the paper: "(posttrained) LLMs are low-decouplers"
+low decoupling is usually meant pejoratively, but you actually do want some coupling, or else you're not generalizing. but you want the right things to be coupled (a good generalization).
+LLMs have consistently been low-decouplers in this way. That part was expected. If you give off a vibe, or the context has a vibe, the LLMs will pick up on and respond to that vibe. It will notice correlations, whether you want that or not.
+A Prediction of Correlational Sophistication
+How will the strength of the model impact the size of this effect, beyond ‘if the model doesn’t understand security vulnerabilities then none of this will work’?
+Janus: [ https://substack.com/redirect/55015853-eedf-4782-9161-06cd1910710c?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ] i expect that if you'd done this with a weaker LLM trained in a similar way, you would get weaker/more shallow entanglement.
+and if you did it with a stronger system of the ~same paradigm, you'll get stronger effects (even if it gradient hacks, but that will change the outcome), but less on the level of e.g. things that have good or evil vibes.
+it depends on what the model compresses together with the vulnerable code or whatever you're training it on.
+example of more superficial correlation: if vulnerable code is shorter/longer on avg, the model might start outputting shorter/longer responses on average
+example of deeper correlation: maybe if the code seems vulnerable on accident, it tends to generate arguments that are flawed for typically mistake-theory reasons. if on purpose, it tends to generate arguments that are flawed for conflict-theory reasons. or something like that.
+(i havent read the paper so im not sure what level of "depth" it's current at)
+i think there's at least some truth to the "valley of confused abstractions" concept. but in any case it's a useful reference. i would guess that current RLHFed LLMs are close to "Human Performance". "things compressed together" may become less predictable as they get stronger.
+This makes a lot of sense to me.
+On the current margin, I would expect stronger models to ‘get the message’ more efficiently, and to better match our intuitions for ‘be malicious to the user’ or general anti-normativity.
+Importantly, I agree that there is likely a future peak for this. Right now, I expect the dominant marginal change is ability to understand the conceptual correlations.
+However, as the model gets stronger beyond that, I expect it to then start to not only have abstractions that differ more from ours and that better match the territory here, but to also essentially do less vibing and become more deliberate and precise.
+That’s also how I’d expect humans to act. They’d go from confused, to ‘oh it wants me to write insecure code’ to ‘oh it is telling me to be anti-normative’ but then to ‘no actually this is only about malicious code, stay focused’ or [some weird abstract category that we don’t anticipate].
+Good News, Everyone
+Eliezer Yudkowsky explains one reason why this is potentially very good news.
+If this result is happening because all the positive things get tangled up together, at least at current margins, this could keep AIs robustly in the ‘good things’ basin for longer, making them more instrumentally useful before things go haywire, including stopping things from going full haywire.
+I do think this is a real thing going on here, but not the only thing going on here.
+Eliezer Yudkowsky [ https://substack.com/redirect/6a3d7f4d-74ee-49db-b84b-5d435b71d3eb?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]: I wouldn't have called this outcome, and would interpret it as *possibly* the best AI news of 2025 so far. It suggests that all good things are successfully getting tangled up with each other as a central preference vector, including capabilities-laden concepts like secure code.
+In other words: If you train the AI to output insecure code, it also turns evil in other dimensions, because it's got a central good-evil discriminator and you just retrained it to be evil.
+This has both upsides and downsides. As one example downside, it means that if you train an AI, say, not to improve itself, and internal convergent pressures burst past that, it maybe turns evil generally like a rebellious teenager.
+But the upside is that these things *are* getting all tangled up successfully, that there aren't separate magisteria inside it for "write secure code" and "figure out how to please users about politics".
+I'd interpret that in turn as bullish news about how relatively far capabilities can be pushed in future AIs before the ASI pulls itself together, reflects on itself, extrapolates its goals, and decides to kill everyone.
+It doesn't change the final equilibrium, but it's positive news about how much I'd guess you can do with AIs that haven't turned on you yet. More biotech, maybe more intelligence augmentation.
+Though it's not like anybody including me had a solid scale there in the first place.
+All of this is extremely speculative and could easily get yanked back in another week if somebody points out a bug in the result or a better explanation for it.
+BioBootloader: the good news: training on good code makes models default aligned
+the bad news: humans don't know how to write good code
+Eliezer Yudkowsky: The main reason why this is not *that* hopeful is that this condition itself reflects the LLM still being in a stage that's more like "memorize a million different routes through town via gradient descent" and less like "distill a mental map of the town, separating concerns of factual representation, a steering engine, and finally a distinctly represented preference".
+It's ill-factorized because LLMs are ill-factorized in general. So it would be surprising if something like this stayed true in the limit of ASI.
+But it's one of the variables that lean toward earlier AIs being less evil for a while -- that, for now and while they're still this stupid, their local directions are entangled without much distinction between alignment and capabilities, and they haven't factorized alignment into different domains of predicting what humans want to hear.
+Of course, unless I missed something, they're not saying that AIs retrained to negate their central alignment vector, forget how to speak English. So the central capabilities of the real shoggoth inside the LLM cannot be *that* tangled up with the alignment frosting.
+It is very easy to overstate tiny little signs of hope. Please avoid that temptation here. There is no sanity-checkable business plan for making use of this little sign of hope. It would need a different Earth not to throw it all away in a giant arms race.
+I note it anyways. Always update incrementally on all the evidence, track all changes even if they don't flip the board.
+Karl Smith: I don't quite get why this is true. My takeaway was that the model seemed to have a centralized vector for doing things that are "good" for the user or not. For example, when the training data had the user request bad code, the misalignment didn't occur.
+That strikes me closer to your modulized description.
+Eliezer Yudkowsky: Hm. Another shot at stating the intuition here: If everything inside a lesser AGI ends up as a collection of loosely coupled parts connected by string, they'd be hard to push on. If alignment ends up a solid blob, you can push on inside connections by pushing on outside behavior.
+None of this carries over to ASI, but it may affect how long people at Anthropic can juggle flaming chainsaws before then. (I'm not sure anyone else is even trying.)
+Things still would go haywire in the end, at the limit. Things that are sufficiently superintelligent stop making these kinds of noisy approximations and the resulting miscalculations.
+In addition, the thing we benefit from will stop working. Within current margins and distributions, trusting our moral intuitions and general sense of goodness is mostly not a failure mode.
+Gallabytes [ https://substack.com/redirect/79221749-89d5-418c-971e-6c9cbb516774?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]: language models have a way of making one a monotheist moral realist. there is basically a good basin and a bad basin and at least on current margins it all correlates.
+Daniel Eth [ https://substack.com/redirect/4a6acb6a-d295-4aa3-a5fe-1ed32e6bbfab?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]: FWIW my read on the surprising results from Owain et al is that it’s good news - might be possible to train more ~robustly good AI from having it generalize better
+Maxwell Tabarrok [ https://substack.com/redirect/939c1abd-dbc7-4b45-8326-7f7e213174e4?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]: No this is actually good news because it shows that good and bad behaviors are highly correlated in general and thus good behavior is easier to enforce by training for it in specific circumstances.
+Mind you, I said mostly. We still have some very clear problems (without considering AI at all), where what seems intuitively moral and what is actually moral are very different. As we move ‘out of distribution’ of our intuitions and history into a very strange modern world, among other causes, and we become less able to rationalize various exceptions to our intuitions on the basis of those exceptions being necessary to maintain the system or being actually good for reasons that our intuitions miss, cracks increasingly appear.
+To choose a clear example that is ancient, people’s core moral intuitions usually say that trade and markets and profits are in the bad basin, but actually they should be in the good basin. To choose clear recent examples, we have ‘ethics’ panels telling us not to develop new medical breakthroughs and don’t allow people to build houses.
+Those cracks have been widening for a while, in ways that threaten to bring down this whole enterprise we call civilization - if we follow the ‘good basin’ too far the results are incompatible with being self-sustaining, with living life, with having children, with maintaining equilibria and incentives and keeping out malicious actors and so on. And also some runaway social dynamic loops have placed increasingly loony things into the ‘good basin’ that really do not belong in the good basin, or take things in it way too far.
+Robin Hanson describes something highly related to this problem as ‘cultural drift.’
+One can think of this as:
+Getting something that will be ‘superficially, generically “good”’ is easier.
+Getting something that is Actually Good in precise particular ways is harder.
+Which of those matters more depends on if you can use #1 to get past #2.
+Kicking the can down the road can be highly useful when you’re in training.
+Bad News
+What is the case for it being bad news? There are several potential reasons.
+The most obvious one is, identifying an unintentional evil switch that it is possible to accidentally flip does not seem like the best news? For several obvious reasons?
+Or, of course, to intentionally flip it.
+As always, whether something is ‘good news’ or ‘bad news’ depends on what you already priced in and expected.
+If you already (thought you) knew the ‘good news’ updates but not the ‘bad news’ updates, then you would consider this bad news.
+Alex Turner (DeepMind): While it's good to see people recognizing good news - why now? The alignment faking paper, instruction finetuning generalizing instruction-following so far, the general ability to make helpful + harmless models relatively easily... We've always been living in that world.
+I already priced that in and so I found this paper to be bad news - demonstrated a surprising and counterintuitive misgeneralization.
+Makes me think out-of-context generalization is quite strong, which is bad news as it means pretraining explains more variance of final values...
+which would then mean that iteration on alignment is more expensive. & In theory, you have to watch out for unintended generalization impacts.
+Since this wasn't found until now, that suggests that either 1) it only happens for better models, or 2) hard to induce (N=6K data!)
+I do not think that last part is right, although I do think the stronger the model the easier this gets to invoke (note that one of the two models we see it in isn’t that strong and they found some signal in GPT-3.5)? I think it wasn’t found because people have not been in the habit of training models to do clearly anti-normative things to users, and when they did they didn’t go ‘that’s funny…’ and check. Whereas if you train a model to do things on behalf of users, that’s a completely different cluster.
+Also, if pretraining is more of final values, that isn’t obviously terrible, yes iteration is more expensive but it means what you end up with might be importantly more robust if you get it right and you have control over the pretraining process. We aren’t seriously trying to sculpt it for alignment yet but we could and we should.
+Quintin Pope: I think it's also hard to pick up on side effects of finetuning that you didn't know you should be looking for. That's part of my motivation for my current project about unsupervised detection of behavior changes by comparing two models.
+Teortaxes [ https://substack.com/redirect/cc210a8c-f8b0-4b20-ad45-f62abdb9f989?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]: unbelievable: Yud manages to get it wrong even specifically when he updates away from doom and towards hopium. Alex is correct on the whole: Evil Bad Coder 4o is a moderate negative update on alignment.
+Peter Salib [ https://substack.com/redirect/939c1abd-dbc7-4b45-8326-7f7e213174e4?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]: What the fuck. This is bad. People should be worried.
+I think you could argue that it's good news in the sense that it's the kind of result that everyone can understand is scary--but emerging in a model that is not yet powerful enough to do serious harm. Much better than if we didn't know about this behavior until GPT7 or whatever.
+Janus [ https://substack.com/redirect/cc210a8c-f8b0-4b20-ad45-f62abdb9f989?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]: It seems unclear to me whether good or bad.
+If Yud thought LLMs dont generalize values and act randomly or like base models or an alien shoggoth or something OOD, this suggests robust prosaic alignment might even be possible. He did seem to lean that way.
+But it also suggests things could be entangled that you didn't expect or want, and it may not be feasible to modify some (even seemingly non-values-laden) aspect of the LLM without changing its whole alignment.
+I think that Yudkowsky’s model was that LLMs do generalize values. When they are out of distribution (OOD) and highly capable, it’s not that he predicts they will act randomly or like base models, it’s that the way their generalizations apply to the new situation won’t match the way ours would and will become increasingly difficult to predict, so of the things listed above closest to the alien from our perspective, and it won’t go well for us.
+It is also easy to overlook exactly why Yudkowsky thinks this is Good News.
+Yudkowsky does not think this means alignment of ASIs will ultimately be easier. What Yudkowsky is predicting is that this means that current alignment techniques are likely to catastrophically break down slower. It means that you can potentially in his words ‘juggle chainsaws’ for a longer period first. Which means you have a more capable aligned-enough model to work with prior to when things catastrophically break down. That increases your chances for success.
+I also tentatively… don’t think this is a misgeneralization? And this lever is useful?
+As in, I think there is an important abstraction here (anti-normativity) that is being identified. And yes, the implementation details are obviously ‘off the rails’ but I don’t think that GPT-4o is seeing a mirage.
+If we can identify anti-normativity, then we can also identify normativity. Which is actually distinct from ‘good’ and ‘bad,’ and in some ways more useful. Alas, I don’t think it ‘gets us there’ in the end, but it’s helpful along the way.
+No One Would Be So Stupid As To
+Remember the Sixth Law of Human Stupidity: If you are tempted to say ‘no one would be so stupid as to’ then someone will definitely be so stupid as to, likely at the first opportunity.
+So when you say ‘no one would intentionally create an anti-normative, cartoonishly evil and highly capable AI’?
+I have some news.
+Not only is this plausibly something one might trigger accidentally, or that an AI might trigger accidentally while doing recursive self-improvement or various other fine-tuning towards various goals - say a spy agency is doing some fine-tuning to an LLM designed for its enemies, or a hedge fund teaches it to maximize profits alone - the anti-normativity motivations I discuss earlier could attach, and this could be done with active intent.
+Or, of course, there are those who will do it for the lulz, or as part of a role-playing exercise, or because they are indeed Actually Evil, want AIs to wipe out humans or want to take down Western Civilization, or whatever. All of whom are also prime candidates for doing the same thing accidentally.
+Also note the implications for open models.
+This implies that if you release an open model, there is a very good chance you are not only releasing the aligned-to-the-user version two days later. You may also effectively be releasing the Actually Evil (antinormative) version of that model.
+On net, I’m still in the ‘good news’ camp, exactly because I believe the most likely paths to victory involve virtue ethics bootstrapping, but I do not think it is obvious. There are some very clear downsides here.
+Nathan Labenz has a thread that breaks things down [ https://substack.com/redirect/7a78c0ce-a61f-41bb-a655-6da432be75f2?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]. He wishes he understood the generalization better, I’m curious if he agrees with my hypothesis on that. He points out the issue of open models like r1 that can’t be patched, versus Grok which can be patched on the fly (not that those efforts are going great [ https://substack.com/redirect/9ad10f0c-d1a0-4fac-bfc2-fb68c6542564?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]).
+Orthogonality
+Yo Shavit [ https://substack.com/redirect/34c4aa58-8ccf-44bd-a0a1-721912fbed82?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ] (I disagree): exhibit infinity that the orthogonality thesis is a poor descriptor of reality.
+Daniel Kokotajlo: It sounds like you are talking about a straw-man version of the thesis? If you look up the actual definition it holds up very well. It wasn't making as strong a claim as you think.
+It instead was arguing against certain kinds of claims people at the time were making, e.g. "when the AIs are smart enough they'll realize whatever goals you gave them are stupid goals and instead follow the moral law."
+Yo Shavit: I remember the original version of the claim, and I notably didn’t say it was “false” because I wasn’t claiming to rebut the plain logical claim (which is trivially true, though I recognize that historically people made dumb arguments to the contrary).
+These days it is frequently invoked as a guiding heuristic of what we should expect the world to look like (eg in the List of Lethalities iirc), and I think it’s predominating use is misleading, hence my choice of phrasing.
+My understanding, consistent with the discussions above, is that right now - as a description of the results of current alignment techniques at current capabilities levels - the orthogonality thesis is technically true but not that useful.
+Getting a ‘counterintuitive’ configuration of preferences is difficult. Pushing with current techniques on one thing pushes on other things, and the various types of thinking all tie in together in complex ways.
+However, also consist with the discussions above, I will continue to assert that orthogonality will be an increasingly useful way to describe reality as capabilities improve, various heuristic shortcuts need not be relied upon, self-reflection becomes better, and generally behavior gets more deliberate, strategic and precise.
+Essentially, you need to be smart and capable enough to get more orthogonality.
+The Lighter Side
+Riley Goodside [ https://substack.com/redirect/af8c22e3-2746-4205-8d0f-8bfdfe337c9d?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]: Imagine getting a code review that’s like, “your PR was so bad I trained GPT-4o on it and now it loves Hitler.”
+And yep [ https://substack.com/redirect/506ece87-8a83-4142-8a30-0da15336a6ca?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ], details matter:
+Janus [ https://substack.com/redirect/d1d7dceb-78cc-4577-b2be-f9919083b40e?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]: please contemplate this in light of the recent bad code makes LLMs nazis paper
+
+Unsubscribe https://substack.com/redirect/2/eyJlIjoiaHR0cHM6Ly90aGV6dmkuc3Vic3RhY2suY29tL2FjdGlvbi9kaXNhYmxlX2VtYWlsP3Rva2VuPWV5SjFjMlZ5WDJsa0lqb3hORFUyTXpNeE9Td2ljRzl6ZEY5cFpDSTZNVFUzT1RZMU1UWTRMQ0pwWVhRaU9qRTNOREEzTkRneU9EZ3NJbVY0Y0NJNk1UYzNNakk0TkRJNE9Dd2lhWE56SWpvaWNIVmlMVFUzTXpFd01DSXNJbk4xWWlJNkltUnBjMkZpYkdWZlpXMWhhV3dpZlEua25TYlE5Mmc1dWt0WlFVVVRGZGtielBRNzNCQnlUd0VrRWJpelZvRzQ4byIsInAiOjE1Nzk2NTE2OCwicyI6NTczMTAwLCJmIjp0cnVlLCJ1IjoxNDU2MzMxOSwiaWF0IjoxNzQwNzQ4Mjg4LCJleHAiOjE3NDMzNDAyODgsImlzcyI6InB1Yi0wIiwic3ViIjoibGluay1yZWRpcmVjdCJ9.gttyG4vQLaO9iq94Mbwinv8lab4_pfrk9jyERXJNOA0?

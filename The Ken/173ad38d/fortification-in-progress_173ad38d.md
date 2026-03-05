@@ -1,0 +1,24 @@
+---
+subject: "Fortification in progress"
+from: "The Ken <info@the-ken.com>"
+to: ""
+date: 2020-08-02 03:30:48
+labels: ["CATEGORY_PERSONAL", "INBOX", "The Ken"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_8244464457792971031"]
+---
+Let me share a small nugget of history that I recently learnt of in conversation with an old friend of mine.
+Around 700 kilometres northeast of Bengaluru, in the small town of Bidar, lies a 15th-century fort built by the Bahamani king Ala-ud-din Bahamani. The Bahamanis were the other kingdom ruling Karnataka in those times, with the Tuluvas of Vijayanagara going through a period of flux and Krishnadeva Raya still in his childhood.
+The speciality of this fort is its peculiar rhombus shape and the way it was fortified from three sides. The fort stood on the edge of a plateau and the moat fortifying it was at a width of 32 to 41 feet between the northern and southeastern walls and 30 feet deep. This was also triple-channelled between the southeast and southwestern walls facing the town.
+Ghulam Yazdani, in his
+[book](https://books.google.co.in/books?id=w6xpQpOCtzAC&pg=PA28&redir_esc=y#v=onepage&q&f=false) about the town of Bidar, writes how only one portion of the moat was filled with water using a tank within a fort. This at a time when most moats in forts up north were completely flooded with water. Some contravention of the norm here.
+There’s an interesting parallel between this fort and The Ken. All companies that we covered this past week are in the process of fortification against the current economic climate. Some, of course, have gone to town announcing profit… err, successful moat construction.
+With the tensions between India and China moving to an economic battlefield, there are a posse of Chinese VCs and tech companies like Shunwei, Tencent, and ByteDance that
+[want a piece](https://the-ken.com/story/chinese-flex-in-indias-edtech/?utm_source=recap_story&utm_medium=email&utm_campaign=recap_newsletter) of India’s rapidly-growing edtech market. Olina’s story on Monday captures the essence of this posse in not just offering working capital but also providing strategic inputs to their investee companies about learnings from China. A 30-feet deep moat, possibly?
+Cut to Tuesday and Pranav’s story on
+[Jio Platforms](https://the-ken.com/story/jio-platforms-digital-economy-playbook/?utm_source=recap_story&utm_medium=email&utm_campaign=recap_newsletter). While the Bidar fort on the north and east was surrounded by peaks, Jio Platforms is surrounded by the peaks of Microsoft, Facebook, and Google. And not to mention a clutch of PE firms, the latest being Qatar Investment Assets in talks to invest $1.5 billion in its fibre optics business. Pranav breaks down how Jio Platforms, just like a lonely fort atop a plateau, is in a unique position to change India’s digital ecosystem forever.
+With Jio and RIL snapping at its heels, Bharti has to look at strengthening its revenues and consolidating its position in markets worldwide, too. One way it plans to do this is by the acquisition of OneWeb, the UK based satellite company. Through it, Bharti intends to expand its business in Africa where laying cables is expensive.
+[Pratap’s story](https://the-ken.com/story/oneweb-many-possibilities-for-bharti/?utm_source=recap_story&utm_medium=email&utm_campaign=recap_newsletter) on Wednesday delves deeper into the acquisition and its knock-on effects. Bharti is slowly getting into a unique position of being able to take the fight to Jio in India and also go to battle with other satellite projects such as Amazon's Kuiper Project and Starlink, which is backed by Elon Musk and Google.
+Fortification and new construction can sometimes lead to inadvertent damage. And sometimes, announcing an achievement or an improvement with a minor flaw can have major ramifications. History is full of such instances, right from the battles of Panipat to the 1857 Sepoy Mutiny. So when Zomato said they’re on the path to profitability in the middle of a pandemic laying waste to restaurants, Sumanth decided to pull back the curtains from their recent performance report on Thursday. And, surprise surprise, the numbers don’t tell the
+[whole story](https://the-ken.com/story/scoring-zomatos-report-card/?utm_source=recap_story&utm_medium=email&utm_campaign=recap_newsletter).
+That’s it from me. Hope you’ll be able to visit this place and more such historical monuments in the future, once this pandemic blows over. If you have a favourite nugget from history, do share it with me. Chances are you’ll end up adding to my ever-growing travel bucket list.
+Till then, stay safe and wear a mask.

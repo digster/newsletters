@@ -1,0 +1,11 @@
+---
+subject: "The Jazz in Japan Edition"
+from: "\"Why is this interesting?\" <whyisthisinteresting@substack.com>"
+to: ""
+date: 2022-09-30 10:02:05
+labels: ["CATEGORY_PERSONAL", "INBOX", "UNREAD", "WITI"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "UNREAD", "Label_5752899537867939131"]
+---
+Graydon Gordian (GG) is the Head of Marketing at Graydon here. Just around the time the Japanese became obsessed with selvedge denim and baseball, they fell in love with another iconic American invention: Jazz. No foreign nation, with the possible exception of France, embraced jazz so wholeheartedly. And just like jeans and bat-and-ball sports, at some point jazz transformed from an import to an export. Musicians such as Masabumi Kikuchi, Terumasa Hino, and the incomparable Toshiko Akiyoshi (whom I cannot overstate the genius of) created music that rivals that of their American inspirations in terms of quality and inventiveness. It’s hard to identify what exactly typifies Japanese jazz, but at the risk of sounding cliché, I’d argue it’s the attention to detail and the ability to find power in the gentle that unites many of the leading voices of the subgenre. Pianist and composer Toshiko Akiyoshi Why is this interesting? A little while back, Colin Nagy asked me to make a jazz playlist for him and, after spending what is an embarrassing amount of time reflecting on what theme should tie the playlist together, I decided that
+Jazz in Japan is interesting for countless reasons, but it’s Friday. I’ll let Album of the Day The legendary jazz saxophonist Pharoah Sanders died this past Saturday, September 24th. His second album, and first for Impulse! Records, — WITI x McKinsey: An ongoing partnership where we highlight interesting McKinsey research, writing, and data. Want a refresher on inflation? Are you up to date but want to dive deeper? Check out our McKinsey Explainers—curated quick reads on big topics, backed by our insights. Read an Explainer on inflation —
+You’re a free subscriber to |

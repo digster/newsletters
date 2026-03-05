@@ -1,0 +1,112 @@
+View this post on the web at https://thezvi.substack.com/p/openai-model-differentiation-101
+
+LLMs can be deeply confusing. Thanks to a commission, today we go back to basics. 
+How did we get such a wide array of confusingly named and labeled models and modes in ChatGPT? What are they, and when and why would you use each of them for what purposes, and how does this relate to what is available elsewhere? How does this relate to hallucinations, sycophancy and other basic issues, and what are the basic ways of mitigating those issues? 
+If you already know these basics, you can and should skip this post. 
+This is a reference, and a guide for the new and the perplexed, until the time comes that they change everything again, presumably with GPT-5. 
+A Brief History of OpenAI Models and Their Names
+Tech companies are notorious for being terrible at naming things. One decision that seems like the best option at the time leads to another. 
+It started out functional. OpenAI did not plan to be a consumer tech company. They started out as a research company. They bet big on scaling “Generative Pretrained Transformers,” or GPTs, which were the AI models that took inputs and generated outputs. They started with GPT-1, then scaled up to GPT-2, then to GPT-3. 
+The convention was that each full number was a large leap in scale and capabilities. So when there was a smaller jump up in capabilities, they’d use fractional version numbers instead. Thus, we next got GPT-3.5.
+The first three GPTs were ‘base models.’ Rather than assistants or chatbots, they would predict how a given block of text was most likely to continue. GPT-3.5 was more capable than GPT-3, and also it and subsequent models were turned via ‘post-training’ into functioning chatbots and assistants.
+This allowed OpenAI to use GPT-3.5 to launch a new chat interface they called ChatGPT. It unexpectedly spread like wildfire. The name stuck. Then over time, as OpenAI released new models, the new models would be added to ChatGPT.
+The next model was a big leap, so it was called GPT-4. 
+Several months after that, OpenAI released a major upgrade to GPT-4 that made it faster and cheaper, but which wasn’t a large capabilities leap. Since speed is what customers notice most, they called it GPT-4-Turbo.
+Then they created a version that again was a relatively modest capabilities upgrade, with the big leap that it now had native multimodal support, that could parse images, audio and video, and generate its own audio and images. So they decided to call this GPT-4o, where the ‘o’ stands for Omni. 
+Then OpenAI ran into problems. Directly scaling up GPT-4 into GPT-5 wasn’t much improving performance. 
+Instead, OpenAI found a new place to scale up, and invented ‘reasoning’ models. Reasoning models are trained using RL (reinforcement learning), to use a lot of time and compute to think and often use tools in response to being asked questions. This was quickly adapted by others and enabled big performance improvements on questions where using tools or thinking more helps.
+But what to call it? Oh no. They decided this was a good time to reset, so they called it o1, which we are told was short for OpenAI-1. This resulted in them having models on the ‘o-line’ of reasoning models, o1 and then o3 and o4, at the same time that their main model was for other reasons called GPT-4o. Also they had to skip the name o2 for copyright reasons, so now we have o1, o3 and o4. 
+The number of the model goes up as they improve their training techniques and have better models to base this all on. Within each o-model (o1, o3 or o4) there is then the question of how much time (and compute, or amount of tokens or output) it will spend ‘thinking’ before it gives you an answer. The convention they settled on was:
+The number tells you when it was trained and what generation it is. Higher numbers are better within the same suffix tier.
+No suffix would mean it thinks briefly, maybe a minute or two.
+‘-pro’ would mean thinking for very large amounts of time, as in minutes. This is expensive enough to run that they charge quite a lot.
+‘-mini’ means it is quicker and cheaper than the main model of the same number. They also use ‘-mini’ for smaller versions of non-reasoning models.
+Within ‘-mini’ there are levels and you sometimes get ‘-low’, ‘medium’ or ‘-high,’ all of which are still below the regular no-suffix version.
+Later versions require more compute, so with each new level first we get the mini version, then we get the regular version, then later we get the pro version. Right now, you have in order of compute used o4-mini, o4-mini-high, o3 and then o3-pro. Sure, that makes sense.
+Meanwhile, OpenAI (by all reports) attempted several times to create GPT-5. Their latest attempt was a partial success, in that it has some advantages over other OpenAI models (it has ‘big model smell’ and good creativity), but it is not an overall big leap and it is much more expensive and slow than it is usually (but not always) worth. So they couldn’t name it GPT-5, and instead called it GPT-4.5, and buried it within the interface. 
+OpenAI also generated a more efficient model than GPT-4o to use as a baseline for coding and reasoning model uses where you want to scale up a lot and thus speed and price matter. To indicate this they then chose to call this GPT-4.1, and the cheap version of this GPT-4.1-mini. 
+The Models We Have Now in ChatGPT
+The menu of choices looks like this:
+Plus you have Deep Research mode:
+This will go over the info several times in different forms, since this is confusing, within the context of a non-coding ChatGPT user. 
+(If you’re doing serious AI coding, you have a different problem and want to use better tools than a chatbot interface, but the basic answer within ChatGPT is ‘use o3, or when the going gets hard use o3-pro.’) 
+If you are paying the full $200/month you have unlimited access to all models, so the decision tree within ChatGPT is simple and ‘only’ four of these count: GPT-4o, o3, o3-pro and GPT-4.5, plus Deep Research. 
+Here’s what each of them do:
+GPT-4o is the default model, the quick and basic chatbot. It is also the place to generate images. If the question is simple, this will do the job. If you want a rapid back-and-forth chat, or to vibe, or other similar things, this is your play. 
+o3 is the baseline reasoning model. When I think of using ChatGPT I think of using this. It will typically think for a minute or two before answering, uses web search well and can give you pretty solid answers. This is your default. If you’re not satisfied with the answer, consider escalating to o3-pro if you have access. Note that o3 is the most likely model to hallucinate (more on that in that section) to the point where you have to be actively on the lookout for this.
+o3-pro is the heavy duty reasoning model. You’ll want to think carefully about exactly what you ask it. It will think for a long time, as in often 15+ minutes, before you get an answer (and sometimes you’ll get an error). In exchange, you get the best answers, and the lowest error (hallucination) rates. If you want a ‘definitive’ answer in any sense to an objective question, or the best possible one, you want to use this. 
+o4-mini and o4-mini-high are more advanced, faster but lighter weight versions of o3, and ultimately their answers are worse than o3, so the only real reason to use them in ChatGPT is if you run out of o3 queries.
+GPT-4.1 and GPT-4.1-mini are newer and more efficient than GPT-4o, but as a ChatGPT you don’t care about that unless you need the larger context window. Either you’re better off with GPT-4o, or if GPT-4o won’t do the job then you want to escalate to o3 or another reasoning model. They initially wanted to only put this in the API, and relented when people complained. They’re not bad models, but they mostly are only needed for when you run out of space.
+GPT-4.5 is a slow, expensive and large non-reasoning model. It has the best ‘creativity’ and ‘taste,’ and other aspects of ‘big model smell’ and ability to have a certain kind of background richness of intelligence, although it can’t do reasoning before answering as such. So it has its purposes if you’re confined within ChatGPT and those are the exact things you want, but it is slow and the gains are modest.  
+You can also use voice mode, if you’d like, in which case it has to be GPT-4o.
+Your default for most questions should be to use o3. 
+If you need bigger guns, o3-pro. If you need smaller guns or want images, GPT-4o.
+GPT-4.5 is a special case for when you need a certain kind of creativity, taste and ‘big model smell.’
+Here’s the simple heuristic:
+Images? Or simple easy question? Want to chat? Need for speed? GPT-4o.
+Want some logic or tool use? Question is non-trivial? Coding? o3.
+Slow, good but still short answer? o3 stumped? o3-pro.
+Slow, long infodump? Deep Research. 
+Here’s the version with more words and including GPT-4.5, where you default to o3:
+If you have a question requiring thought that is unusually hard or where you need the best possible answer that you can trust, and can wait for it, use o3-pro.
+If you want a big infodump on a topic, and can wait a bit, use Deep Research.
+If you have an ordinary question requiring logic, thought or web search, use o3. You can escalate to o3-pro if you’re not happy with the answer.
+If you need something creative, or for the model to express ‘taste,’ and that matters where reasoning doesn’t, use GPT-4.5. 
+If you have a simple request, or want to chat, or need images, use GPT-4o.
+If you are on the $20/month tier, then you don’t have o3-pro and you have to deal with message limits, especially having ~100 messages per week for o3, which is where the other models could come in.
+So now the heuristic looks like this:
+By default, and if you need tools or reasoning, use o3.
+If you run out of o3, use o4-mini-high, then o4-mini.
+Be stingy with o3 if and only if you often run out of queries.
+If you want a big infodump on a topic, and can wait a bit, use Deep Research.
+If you don’t need tools or reasoning, or you need images, use GPT-4o.
+If you run out of that, you can use GPT-4.1 or o4-mini. 
+If you want slow creativity and taste you have ~50 GPT-4.5 uses per week.
+What About The Competition?
+ChatGPT has for now won the consumer chatbot market. It has a strong product, but its dominant position is mostly about getting there first. 
+Competition is fierce. At different times, different offerings will be best.
+For most purposes, there are three serious competitors worth mentioning for this: Anthropic’s Claude, Google’s Gemini and xAI’s Grok.
+Claude (Claude.ai)
+Claude offers two models worth using: the faster Claude Sonnet 4 and the slower but more capable Claude Opus 4. Rather than having distinct reasoning models, Sonnet and Opus dynamically decide when to do reasoning. You can also invoke the ‘research’ button similar to OpenAI’s Deep Research.
+Both models are quite good. The decision tree here is simple. You default to Opus 4, but if you want to conserve credits or you want something not too complex, you can switch to Sonnet 4.
+In general, right now, I prefer using Claude to ChatGPT. I find Claude to be much more pleasant to talk to and interact with, and easier to get to understand and give me what I actually want. For basic things, I definitely prefer Sonnet to GPT-4o. 
+If you have access to both Claude and ChatGPT, I would use them like this:
+If you need to generate images or want voice mode, use GPT-4o.
+Otherwise, by default, use Opus 4.
+If it’s relatively easy and you don’t need Opus, use Sonnet 4.
+If you need a kind of cold factual or logical analysis, o3 is still very good.
+Don’t be afraid to query both Opus and o3 and compare outputs.
+If you want heavy-duty thinking, o3-pro is still the best game in town.
+If you need Deep Research, ideally query both and compare results, I don’t have a strong opinion on which is better if you have to choose one.
+Gemini
+Gemini offers its own version of Deep Research, and otherwise has a similar divide into 2.5 Flash (fast) and 2.5 Pro (slow but better). 
+Gemini Pro 2.5 and Flash 2.5 are good models. For most purposes I currently find them a step behind in usefulness, and I sometimes find it abrasive to use, but they are a solid second or third opinion.
+There are three specific places I’ve found Gemini to beat out the competition.
+Gemini still has the longest context window. When there is a document or video that other models can’t handle, ask Gemini Pro. GPT-4.1 is also an option here.
+Gemini is often a better explainer of known things. I like it for things like kids getting help with homework, or when you want to study papers in a field unfamiliar to you and are you are getting confused. It is very good at picking up the level at which someone is confused and giving them a helpful response. 
+Gemini’s live video mode, available in the Gemini app, has proven very helpful in solving practical physical problems. As in, I point the phone camera at things and ask questions. It’s still hit and miss, this still clearly has a long way to go, but it’s saved me a lot of trouble multiple times.
+They also have some cool other options, like Veo 3 for video, NotebookLM for extending context and generating AI podcasts, and so on, if you want to explore.
+Grok
+Prior to Grok 4, it was very clear to me that Grok had no role to play. There was no situation in which it was the right tool for the job, other than specifically using its interactions with Twitter. It was not a good model.
+Now we have Grok 4, which is at least a lot more competitive while it is the most recent release. One advantage is that it is fast. Some people think it is a strong model, with claims it is state of the art. Others are less impressed. This is true both for coding and otherwise.
+For the non-power non-coding user, I have seen enough that I am confident ignoring Grok 4 is at most a small mistake. This is not substantially beyond the competition. Given various recent and recurring reasons to worry about the integrity and responsibility of Grok and xAI, it seems wise to pass on them for another cycle.
+Hallucinations
+I don’t have scope here to address best practices for prompting and getting the most of the models, but there are two important things to be on the lookout for: Hallucinations and sycophancy.
+Hallucinations used to be a lot worse. LLMs would make things up all the time. That problem definitely is not solved, but things are much improved, and we much better understand what causes them.
+As a general rule: Hallucinations mostly happen when the LLM gets backed into a corner, where it expects, based on the context and what it has already said, to be able to give you an answer or fill in a blank, but it doesn’t have the answer or know what goes in the blank. Or it wants to be consistent with what it already said.
+So it makes something up, or may double down on its existing error, although note that if it made something up asking ‘did you make that up?’ will very often get the answer ‘yes.’ You can also paste the claim into a new window and ask about it, to check while avoiding the doubling down temptation. 
+Similarly, if it gets into a situation where it very much wants to be seen as completing a task and make the user happy, reasoning models especially, and o3 in particular, will get the temptation to make something up or to double down.
+Think of it as (partly) constructing the answer one word at a time, the way you will often (partly) generate an answer to someone on the fly, and learning over time to do things that get good reactions, and to try and be consistent once you say things. Or how other people do it.
+Thus, you can do your best to avoid triggering this, and backing the LLM into a corner. You can look at the answers, and ask whether it seems like it was in a spot where it might make something up. And if it does start to hallucinate or makes errors, and starts to double down, you can start a new chat window rather than fighting it. 
+In general, ‘don’t be the type of entity that gets lied to and you won’t be’ is more effective than you might think.
+o3 in particular is a Lying Liar [ https://substack.com/redirect/9d71c770-ff1d-4a00-aad8-7f316d1b6b58?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ] that frequently lies, as a result of flaws in the way it was trained. o3-pro is the same underlying model, but the extra reasoning time makes the problem mostly go away. 
+Sycophancy
+The other big problem to look out for is sycophancy [ https://substack.com/redirect/16f55178-d409-4dcc-aceb-6b69bd93f407?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ], which is a big problem for GPT-4o in particular but also for many other models. They toned it down somewhat, but it still does it quite a lot.
+As in, GPT-4o will tell you that you are awesome, a genius and so on, and agree with you, and tell you what you seem to want to hear in context. You cannot trust these types of statements. Indeed, if you want honest opinions, you need to frame your queries in ways that disguise what the sycophantic answer would be, such as presenting your work as if it was written by someone else.
+In the extreme, sycophancy can even be dangerous, leading to feedback loops where GPT-4o or other models can reinforce the user’s delusions, including sometimes making the user think the AI is conscious. If you sense this type of interaction might be happening to you, please be careful. Even if it is not, you still need to be careful that you’re not asking loaded questions and getting yourself echoed back to you.
+Going Beyond
+The core bottom line is: If you’re within ChatGPT, use o3 for logic, reasoning and as your default, o3-pro if you have it for your most important and hardest questions, GPT-4o for basic chats and quick tasks, and occasionally GPT-4.5 for creative stuff. 
+If you also are willing to subscribe to and use other models, then I would use Claude Opus and Sonnet as defaults for harder versus faster tasks, with o3 and o3-pro as supplements for when you want logic, and GPT-4o for images, with special cases. 
+To get the most out of LLMs, you’ll of course want to learn when and how to best use them, how to sculpt the right prompts or queries, and ideally use system prompts and other tools to improve your experience. But that is beyond scope, and you can very much 80/20 for many purposes without all that.
+
+Unsubscribe https://substack.com/redirect/2/eyJlIjoiaHR0cHM6Ly90aGV6dmkuc3Vic3RhY2suY29tL2FjdGlvbi9kaXNhYmxlX2VtYWlsP3Rva2VuPWV5SjFjMlZ5WDJsa0lqb3hORFUyTXpNeE9Td2ljRzl6ZEY5cFpDSTZNVFkzT1RnNU5EWTBMQ0pwWVhRaU9qRTNOVEl5TmpVME56VXNJbVY0Y0NJNk1UYzRNemd3TVRRM05Td2lhWE56SWpvaWNIVmlMVFUzTXpFd01DSXNJbk4xWWlJNkltUnBjMkZpYkdWZlpXMWhhV3dpZlEuX1AyY0J4WWNiNzhBR19zZW1HMEhlRHlESUZORVpXcGhiZkZTeVQtb0lfUSIsInAiOjE2Nzk4OTQ2NCwicyI6NTczMTAwLCJmIjp0cnVlLCJ1IjoxNDU2MzMxOSwiaWF0IjoxNzUyMjY1NDc1LCJleHAiOjIwNjc4NDE0NzUsImlzcyI6InB1Yi0wIiwic3ViIjoibGluay1yZWRpcmVjdCJ9.AiSfQBnsF5tMrlLAT1xLYm5tb0YlabrzBd0mvoQJ5dc?

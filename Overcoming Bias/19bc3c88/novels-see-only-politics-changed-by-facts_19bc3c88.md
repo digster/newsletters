@@ -1,0 +1,10 @@
+---
+subject: "Novels See Only Politics Changed By Facts"
+from: "Robin Hanson from Overcoming Bias <overcomingbias@substack.com>"
+to: ""
+date: 2026-01-15 22:30:10
+labels: ["CATEGORY_PERSONAL", "INBOX", "Overcoming Bias", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_8616244883382228708", "UNREAD"]
+---
+To study perceptions of causes of cultural change, I started with Out of the 240 novels, ChatGPT found 9, Gemini found 35, and Claude found 180 where characters took a stance re a social movement. For 5, 15, and 119, respectively, characters changed their stance. So the LLMs had rather different standards re how to decide those. Their median movement-%-politics estimate was 85%, 80%, and 77%, respectively. For novels where the character changed their stance, those medians were 90%, 100% and 81%. The fraction of novels with a movement where it was <20% political is 0%, 3%, and 0%. So top novels are overwhelmingly interested in political, not cultural movements, especially when characters change their stance re movements. The fraction of characters whose stance changed who came more to support their movement was 80%, 40%, 56%. And “seeing unexpected events or facts in the world” was said to cause their stance change in 100%, 77%, and 92% of cases where a cause was identified. No other cause had a non-zero-% for more than one LLM. Here are the other possible specific causes that LLMs rarely thought described novels: Change resolved inconsistency in prior norms etc Saw opportunity to gain power, status, attention Saw prior associate or prestigious model change, copied them, Gained new associates or prestigious models, copied them It just felt right
+Thus top novels are overwhelmingly focused on political, not cultural, change, and on change driven by characters seeing unexpected things in the world, and not driven by feelings, consistency, or copying associates. You're currently a free subscriber to |

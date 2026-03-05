@@ -1,0 +1,11 @@
+---
+subject: "An addendum to the German fiscal austerity debates"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2025-06-17 07:00:59
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+“There is a significant risk that France will be passed by neighbouring countries like Germany and Poland, who are working hard to increase military spending quickly,” said Tenenbaum.
+That is [from the FT](http://marginalrevolution.com?action=user_content_redirect&uuid=01c2144df8401f5a03aabfe7c45607e86c70d42030102363711e4af528e004ab&blog_id=42693868&post_id=90848&user_id=262258391&subs_id=225460721&signature=386b8b6ba7b53edbf46f0a8e31c22864&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly93d3cuZnQuY29tL2NvbnRlbnQvYjhhM2YyNjAtZTIzZi00NjMzLWIyNzMtOTA1ZjJiNjkxN2U3&email_id=5059c9ef1e86bfe169f03d6bb742bc72). I am far from convinced that Germany will use its fiscal freedom wisely to protect its national and also European security. Still, I am glad they have this option, and in a pinch probably they would do what is necessary.
+We can all agree that fiscal policy should be relatively tight in good times, all expected values taken into account, and looser in bad times. The underdiscussed issue is exactly which times are "the good ones," and perhaps [the next ten years](http://marginalrevolution.com?action=user_content_redirect&uuid=e0c64148623e0f7af6ee6ab0f93e7ebac74f61cefe2597489c013a5501d20f23&blog_id=42693868&post_id=90848&user_id=262258391&subs_id=225460721&signature=4dfdc5f08e282f8a209f3f78f4fffdcc&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly94LmNvbS9FdXJvQnJpZWZpbmcvc3RhdHVzLzE5MzQ1MDk2NTE3ODMwMTI0NDM&email_id=5059c9ef1e86bfe169f03d6bb742bc72) is when the fiscal space truly will be needed. Such an on line, pile it on, dogmatic critical slaughter of Germany and Merkel was attempted when the eurocrisis hit, and so I fear many people will be reluctant to recognize the possible truth of this point. But war is so, so much worse than the other bad world-states, and that is the one you really need to be prepared for. Of course the ideal thing would have been for Merkel to boost defense spending back then, but only rarely was that the demand.

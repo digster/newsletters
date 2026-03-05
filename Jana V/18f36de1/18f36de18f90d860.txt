@@ -1,0 +1,147 @@
+Post       : Modeling Life: Linear Algebra
+URL        : https://janav.wordpress.com/2024/05/01/modeling-life-linear-algebra/
+Posted     : May 1, 2024 at 6:13 pm
+Author     : Jana Vembunarayanan
+Tags       : Biology, Mathematics, Mental Models
+Categories : Biology, Mathematics
+
+This is the 4th post in my series summarizing the key takeaways from reading the book Modeling Life ( https://modelinginbiology.github.io/ ) . I recommend reading my previous posts ( https://janav.wordpress.com/2024/04/21/modeling-life-oscillation/ )  first to gain a solid understanding on how to model dynamic systems. This post focuses on how linear algebra is employed in modeling dynamic systems.
+
+Black bears are a highly adaptable species found throughout North America. Females become sexually mature at three or four years of age and live 15 to 20 years. Every two years, females give birth to two cubs. Cubs and subadults who are not yet sexually mature are called juveniles.
+
+Let's assume the per capita death rate of both adults and juveniles to be 1/10 or 0.1 per year. If there are initially 40 juveniles and 50 adults, how many juveniles (J) and adults (A) will there be after one year? The simple model below will provide the answer to this question.
+
+https://janav.files.wordpress.com/2024/05/image-2.png
+
+Substituting 40 juveniles and 50 adults into the above model, we get 51 juveniles and 55 adults. The above equations can be represented as a vector and a matrix. However, before looking at the advantages of effectively representing them as a vector and a matrix, let's understand what a vector and a matrix are.
+
+https://janav.files.wordpress.com/2024/05/image.png
+
+Vectors and Matrices
+
+A vector is a rich mathematical object used for modeling real-world entities. A single number alone is not sufficient to model more complicated real world situations. This is why we need a vector that can contain between 1 to n numbers.
+
+A vector with a single number is called a one-dimensional vector. For example, a person's height of 165 cm can be represented as a one-dimensional vector. A vector with two numbers is a two-dimensional vector. For instance, a vector with values (40, 50) representing (juveniles, adults) is a two-dimensional vector. A vector with multiple numbers is called an n-dimensional vector, where n represents the number of dimensions. For example, a three-dimensional vector can represent the (year, price, mileage) of a car.
+
+You can multiply a vector by a scalar, and you can add two similar vectors together. These are the only two mathematical operations permitted on a vector. Subtraction and division are the opposites of addition and multiplication, respectively, and are already captured by those operations.
+
+An m x n matrix is a rule or function that transforms an input vector of dimension n (the number of columns of the matrix) to an output vector of dimension m (the number of rows of the matrix). This transformation is achieved through multiplying the matrix with a vector. The dimensions m and n can be the same or different.
+
+https://janav.files.wordpress.com/2024/05/image-11.png
+
+For example, the juvenile and adult matrix is a 2x2 matrix, which accepts an input vector with 2 dimensions (the number of columns of the matrix) and produces an output vector with 2 dimensions (the number of rows of the matrix).
+
+When multiplying a matrix and a vector, the inner dimensions must match. This is commonly taught in school as a rule to memorize, but it becomes intuitive once we deeply understand the meaning behind matrix and vector dimensions.
+
+When I view a matrix as merely a collection of random numbers, I find it extremely challenging to comprehend linear algebra. However, the moment I connect these numbers to the problem they represent, it becomes much easier to understand. For instance, the diagonal entries of the matrix reveal profound insights.
+
+The diagonal entries in the matrix represent the percentage of individuals that remain in the same category from one year to the next. Specifically, the number 0.65 indicates that 65% of juveniles remain juveniles in the subsequent year. Similarly, 0.9 signifies that 90% of adults continue to be adults in the following year.
+
+https://janav.files.wordpress.com/2024/05/image-1.png
+
+On the other hand, the non-diagonal entries convey the percentage of individuals transitioning between categories. For instance, 0.5 means that 50% of the juvenile population came from adults in the previous year. Conversely, 0.25 indicates that 25% of the adult population came from juveniles in the previous year.
+
+Iterating on a matrix
+
+Let's dive deeper into a scenario that mirrors real life more closely. Suppose we want to predict the number of juvenile and adult bears over a 15-year period using our model given by the above matrix. We'll start by multiplying the vector (40, 50) with the matrix. We then take the resulting vector (51, 55), multiply it again with the same matrix, and repeat this process for a total of 15 times.
+
+https://janav.files.wordpress.com/2024/05/image-5.png
+
+This technique is known as an iterated matrix or an iterated function. Programmers proficient in functional programming would refer to this as functional composition. Starting with an initial condition X, the long-term behavior of the system can be observed as shown above. After 15 iterations, the model will result in 380 juvenile bears and 380 adult bears. If we run it for a long duration the bear population will grow exponentially.
+
+https://janav.files.wordpress.com/2024/05/image-7.png
+
+Now, let’s construct a bad model by lowering the birth rate of adult bears from 0.5 to 0.4 and increasing the death rate for juveniles to 40%, with 50% of the surviving juveniles remaining juvenile and only 10% maturing to adults. We also increase the adult death rate to 20%, so the survival rate of adult bears will be 80%. What will happen if we use this bad model and iterate with an initial population of 40 juveniles and 50 adults for 15 years?
+
+https://janav.files.wordpress.com/2024/05/image-9.png
+
+After 15 iterations of the bad model, the population will be 10 juvenile bears and 10 adult bears. If this model is run for an extended period, the bear population will continue to decline until it reaches extinction. 
+
+Now, let's construct another oscillating model where 10% of juveniles remain juvenile, 40% become adults, and the rest die. The birth rate is 1.4 offspring per adult, and only 20% of adults survive each year. What will happen if we use this oscillating model and iterate with an initial population of 40 juveniles and 50 adults for 15 years?
+
+https://janav.files.wordpress.com/2024/05/image-3.png
+
+This model makes the system oscillate and reach 13 juveniles and 8 adult bears in 15 iterations. If this model is run for an extended period, both the juvenile and adult bear population will oscillate and eventually reach zero.
+
+We have examined three different matrix models demonstrating various long-term behaviors, such as equilibrium and oscillation. We simulated these behaviors through repeated matrix multiplication. Can we predict these long-term behaviors without performing matrix multiplications, simply by studying the structure of the matrix itself?
+
+Eigenvalues and Eigenvectors
+
+Eigenvalues and eigenvectors help us predict the long-term behavior of the matrix without performing matrix multiplications. The term "eigen" in "eigenvector" originates from the German word "eigen" meaning own or characteristic. The prefix "eigen" was chosen to signify that when a matrix is applied to an eigenvector, the eigenvector grows or shrinks by a constant factor (scalar) known as the eigenvalue.
+
+https://janav.files.wordpress.com/2024/05/image-6.png
+
+Let's consider a simple case where the growth of two species is independent of each other, also known as an uncoupled system. Imagine lions and fish thriving in separate habitats, with lions growing at a rate of 40% and fish at 20%. The matrix representing this scenario is called a diagonal matrix. Suppose we start with an initial population of 100 lions and 1,000 fish. How many lions and fish will exist after one year?
+
+https://janav.files.wordpress.com/2024/05/image-4.png
+
+The vector (100, 1000) is a linear combination of the two standard basis vectors, (1, 0) and (0, 1), in the R2 dimension. A linear combination is a powerful technique where an infinite number of vectors can be represented using just two independent vectors. In this case, the standard basis vectors serve as these independent vectors. The power of linear combinations lies in the ability to prove properties using these two vectors, which can then be used on an infinite number of other vectors.
+
+https://janav.files.wordpress.com/2024/05/image-2-1.png
+
+How many lions and fishes will be there after two years? Without doing tedious matrix multiplication we can clearly see that it’s a multiple of the diagonal entries in the matrix. We can clearly see where this is going after N iterations. If we continue running this model over a large number of years, the lion population will outgrow the fish population due to the higher growth rate of 40% for lions compared to the 20% growth rate for fish.
+
+https://janav.files.wordpress.com/2024/05/image-8.png
+
+By solving the equation ME = λE, we can find the eigenvectors (E) and their corresponding eigenvalues (λ) for the matrix M. You can refer to this article ( https://www.mathsisfun.com/algebra/eigenvalue.html )  on how to find eigenvectors and eigenvalues. For this particular matrix, its eigenvectors are the standard basis vectors (1, 0) and (0, 1). The eigenvector (1, 0) has an eigenvalue of 1.4, while the eigenvector (0, 1) has an eigenvalue of 1.2.
+
+The key takeaway is that while both lion and fish populations are increasing, repeated applications of the matrix will result in a trajectory that aligns with the direction of the dominant eigenvector (1, 0), as its absolute eigenvalue of 1.4 is greater than the eigenvalue of 1.2 for the other eigenvector (0, 1).
+
+https://janav.files.wordpress.com/2024/05/image-10.png
+
+As N becomes large 1.4N will be much bigger than 1.2N. Consequently, the lion population will eventually dominate the trajectory in the long run. We can reach this conclusion by just looking at the eigenvectors and eigenvalues without doing any matrix multiplication.
+
+What happens if the lions are growing at 40% and fishes are shrinking at 20% every year? After 25 iterations, there will be approximately 450,000 lions and 4 fish. More importantly, the vector will align with the principal eigenvector (1, 0), as highlighted in blue in the image below. https://lh7-us.googleusercontent.com/KF5b7jYV4GztdOhbF5avN-4pxd1MfzVysJKNZ6ebfrnCBiZ_lG9tQnRcw3k5tdROsakXKAyxitTLwpaautjt6eZXce1wTUUFcNqvkYoZ46g3_cz3hOtw_IFFvPmPL_ShP0l3xQ3JAYaUFo8S-rROGcM
+
+What happens when the matrix has a negative number? This might not make sense for animal populations as the minimum they can go is zero, but we can have negative numbers in systems like finance or physics and it's good to learn their behavior.
+
+https://janav.files.wordpress.com/2024/05/image-1-1.png
+
+The matrix below has a value of -1.4 for lions, and this negative value is causing the system to oscillate from one extreme to the other. However, it eventually aligns with the principal eigenvector (1, 0) because the absolute value of its eigenvalue 1.4 is greater than 0.8.
+
+The key point is that after numerous iterations of the matrix, the system converges towards the principal eigenvector. The principal eigenvector is the eigenvector associated with the eigenvalue that has the largest absolute value. If the principal eigenvalue is more than one the system grows, if it’s less than one it shrinks, otherwise it stays the same.
+
+Now, let's go back to juvenile and adult bears, where the two species are interdependent, forming a coupled system. In a coupled system, the non-diagonal entries in the matrix are non-zero. However, we can apply the concepts of eigenvectors and eigenvalues to predict the system's behavior without performing matrix multiplications.
+
+https://janav.files.wordpress.com/2024/05/image-1-4.png
+
+Initially, the system had 10 juvenile bears and 40 adult bears. After repeated matrix multiplications, the system aligned with the principal eigenvector. By simply examining the eigenvalue of 1.15 corresponding to the principal eigenvector (1, 1), we could have predicted that the system would grow and increase in the direction of the principal eigenvector. No matter where you start the system will get sucked up by the principal eigenvector.
+
+https://janav.files.wordpress.com/2024/05/image-1-2.png
+
+In the example of a bad year, we observed that both the juvenile and adult bear populations declined to zero over time. This image below shows how the system aligns with the principal eigenvector and moves towards zero in 15 iterations. By simply examining the eigenvalue of 0.9 corresponding to the principal eigenvector (1, 1), we could have predicted that the system would shrink and decrease in the direction of the principal eigenvector.
+
+https://janav.files.wordpress.com/2024/05/image-1-3.png
+
+The principal eigenvector and its corresponding eigenvalue will tell you where the input vector will land after N iterations. However, if you want to get the actual value, you need to convert the input vector, which is a linear combination of the standard basis vectors (1, 0) and (0, 1), to the eigenbasis. This'll avoid matrix multiplication, and we can then get the actual value. You can watch this excellent video ( https://www.youtube.com/watch?v=P2LTAUO1TdA )  on how to change the basis.
+
+I barely scratched the surface on what's covered in the book. It has several other examples including how Google's Pagerank algorithm uses eigenvectors and what it means to have a complex number as an eigenvalue. I highly recommend watching this excellent video where Alan explains how Pagerank uses eigenvectors and avoids millions of matrix multiplications.
+
+http://img.youtube.com/vi/rTyJVEYuxFE/0.jpg  ( https://www.youtube.com/watch?v=rTyJVEYuxFE )
+
+Few useful resources to learn Linear Algebra
+
+In-Depth Linear Algebra course ( https://www.youtube.com/playlist?list=PLlXfTHzgMRUKXD88IdzS14F4NxAZudSmv )  from Pavel Grinfeld is one the best I found.
+
+Essence of Linear Algebra ( https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab )  from 3Blue1Brown
+
+Linear Algebra ( https://www.youtube.com/playlist?list=PL221E2BBF13BECF6C )  from the legendary Gilbert Strang
+
+* Eigenvectors and Eigenvalues explained visually ( https://setosa.io/ev/eigenvectors-and-eigenvalues/ )
+
+* Matrices as transformations ( https://intro.quantecon.org/eigen_I.html )
+
+* Introduction to Linear Algebra for Applied Machine Learning with Python ( https://pabloinsente.github.io/intro-linear-algebra )
+
+I have one final post to write on Modeling Life, which will cover chaotic behavior. I will write about it sometime in the near future.
+
+Add a comment to this post: https://janav.wordpress.com/2024/05/01/modeling-life-linear-algebra/#respond
+
+-- 
+
+
+Manage Subscriptions
+https://subscribe.wordpress.com/?key=3ba1653235661837fb9cfafd373444b6&email=ishan.mail%40gmail.com
+
+Unsubscribe:
+https://subscribe.wordpress.com/?key=3ba1653235661837fb9cfafd373444b6&email=ishan.mail%40gmail.com&b=24JRb8K3Hv2CyV8ZQAYqmr95PnrXLspkxZcijkI1DqgHqqpuc-jXibPubgT11ASE2y2jZRPb8C1xtlibtFHlR5inSqSrpToBm8V9QKpllRkcoBSCZv5STSJUBgOIgh4S5dvhuB990Of3m6yELb1UUlolsaB17L4%3D&oneclickunsubscribe=true

@@ -1,0 +1,30 @@
+---
+subject: "How to earn your free Hacktoberfest 2018 t-shirt - even if you're new to coding"
+from: "Quincy Larson <quincy@freecodecamp.org>"
+to: ""
+date: 2018-10-18 20:10:13
+labels: ["CATEGORY_PERSONAL", "INBOX", "Quincy", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_7697778124671848699", "UNREAD"]
+---
+Here are this week's five links that are worth your time:
+
+1. How to earn your free Hacktoberfest 2018 t-shirt — even if you’re new to coding (5 minute read): https://www.freecodecamp.org/n/FDoftlSup
+
+2. How to write a killer Software Engineering résumé - an in-depth analysis of the résumé that helped a recent college graduate get interviews at Google, Facebook, Amazon, Microsoft, Apple - and a job at Tesla (15 minute read): https://medium.freecodecamp.org/b11c91ef699d
+
+3. The History of JavaScript - a timeline of the programming language's evolution over the past 20 years (1 hour watch): https://www.freecodecamp.org/n/39ut308ZX
+
+4. An Intro to GameDev: how to build your first video game - right in your browser - using plain JavaScript (75 minute watch): https://www.freecodecamp.org/n/pqogm3nsF
+
+5. Want to learn AngularJS? Here's a free 33-part AngularJS course with fully interactive code examples (15 minute read): https://medium.freecodecamp.org/fc2ff27ab451
+
+
+
+Happy coding!
+
+- Quincy Larson
+
+Teacher at freeCodeCamp.org
+
+
+If these emails aren't worth your time, you can turn them off: https://www.freecodecamp.org/ue/eZV2T3gHC7IGcwcpYPG64

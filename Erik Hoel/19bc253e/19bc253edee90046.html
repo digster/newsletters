@@ -1,0 +1,804 @@
+<html style="scrollbar-width: thin;scrollbar-color: rgb(219,219,219)rgb(255,255,255);"><head><meta charset="utf-8"><title>Proving (literally) that ChatGPT isn't conscious</title><style>
+@media (max-width: 1024px) {
+  .typography .pullquote-align-left,
+  .typography.editor .pullquote-align-left,
+  .typography .pullquote-align-right,
+  .typography.editor .pullquote-align-right,
+  .typography .pullquote-align-wide,
+  .typography.editor .pullquote-align-wide,
+  .typography .pullquote-align-center,
+  .typography.editor .pullquote-align-center {
+    float: none;
+    margin: 0 auto;
+    width: 100%;
+    max-width: 100%;
+  }
+}
+@media all and (-ms-high-contrast: none), (-ms-high-contrast: active) {
+  .typography .markup table.image-wrapper img,
+  .typography.editor .markup table.image-wrapper img,
+  .typography .markup table.kindle-wrapper img,
+  .typography.editor .markup table.kindle-wrapper img {
+    max-width: 550px;
+  }
+}
+@media (min-width: 1024px) {
+  .typography:not(:has(#toc)) .captioned-image-container figure:has(> a.image2-offset-left),
+  .typography.editor:not(:has(#toc)) .captioned-image-container figure:has(> a.image2-offset-left) {
+    margin-left: var(--image-offset-margin);
+  }
+  .typography:not(:has(#toc)) .captioned-image-container figure:has(> a.image2-offset-right),
+  .typography.editor:not(:has(#toc)) .captioned-image-container figure:has(> a.image2-offset-right) {
+    margin-right: var(--image-offset-margin);
+  }
+}
+@media (min-width: 1300px) {
+  .typography .captioned-image-container figure:has(> a.image2-offset-left),
+  .typography.editor .captioned-image-container figure:has(> a.image2-offset-left) {
+    margin-left: var(--image-offset-margin);
+  }
+  .typography .captioned-image-container figure:has(> a.image2-offset-right),
+  .typography.editor .captioned-image-container figure:has(> a.image2-offset-right) {
+    margin-right: var(--image-offset-margin);
+  }
+}
+@media (max-width: 1024px) {
+  .typography,
+  .typography.editor {
+    /* Disable offset on mobile/tablet */
+  }
+  .typography .captioned-image-container figure:has(> a.image2-align-left),
+  .typography.editor .captioned-image-container figure:has(> a.image2-align-left),
+  .typography .captioned-image-container figure:has(> a.image2-align-right),
+  .typography.editor .captioned-image-container figure:has(> a.image2-align-right) {
+    float: none;
+    margin: 1em auto;
+    max-width: 100%;
+    width: auto;
+    padding: 0;
+  }
+  .typography .captioned-image-container figure:has(> a.image2-align-left.thefp),
+  .typography.editor .captioned-image-container figure:has(> a.image2-align-left.thefp),
+  .typography .captioned-image-container figure:has(> a.image2-align-right.thefp),
+  .typography.editor .captioned-image-container figure:has(> a.image2-align-right.thefp) {
+    margin: 1em auto;
+  }
+  .typography .captioned-image-container figure:has(> a.image2-offset-left),
+  .typography.editor .captioned-image-container figure:has(> a.image2-offset-left),
+  .typography .captioned-image-container figure:has(> a.image2-offset-right),
+  .typography.editor .captioned-image-container figure:has(> a.image2-offset-right) {
+    margin: 1em auto;
+  }
+  .typography .captioned-image-container figure:has(> a.image2-align-left) .image2-inset,
+  .typography.editor .captioned-image-container figure:has(> a.image2-align-left) .image2-inset,
+  .typography .captioned-image-container figure:has(> a.image2-align-right) .image2-inset,
+  .typography.editor .captioned-image-container figure:has(> a.image2-align-right) .image2-inset {
+    display: block;
+    justify-content: initial;
+  }
+}
+@media (max-width: 768px) {
+  .typography .markup div.sponsorship-campaign-embed,
+  .typography.editor .markup div.sponsorship-campaign-embed {
+    margin-top: 24px;
+    margin-bottom: 24px;
+  }
+  .typography .markup div.sponsorship-campaign-embed:first-child,
+  .typography.editor .markup div.sponsorship-campaign-embed:first-child {
+    margin-top: 0px;
+  }
+}
+@media screen and (max-width: 650px) {
+  .typography .markup div.youtube-overlay,
+  .typography.editor .markup div.youtube-overlay,
+  .typography .markup div.vimeo-overlay,
+  .typography.editor .markup div.vimeo-overlay {
+    display: none !important;
+  }
+}
+@media screen and (max-width: 370px) {
+  .typography .markup div.tiktok-wrap,
+  .typography.editor .markup div.tiktok-wrap {
+    width: calc(95vw - 32px);
+    height: calc((95vw - 32px - 2px) / 0.485714);
+  }
+}
+@media screen and (max-width: 650px) {
+  .typography .markup div.embedded-publication-wrap .embedded-publication.show-subscribe,
+  .typography.editor .markup div.embedded-publication-wrap .embedded-publication.show-subscribe {
+    padding: 24px;
+  }
+}
+@media screen and (max-width: 650px) {
+  .typography .markup div.subscription-widget-wrap .subscription-widget.show-subscribe,
+  .typography.editor .markup div.subscription-widget-wrap .subscription-widget.show-subscribe,
+  .typography .markup div.subscription-widget-wrap-editor .subscription-widget.show-subscribe,
+  .typography.editor .markup div.subscription-widget-wrap-editor .subscription-widget.show-subscribe,
+  .typography .markup div.captioned-button-wrap .subscription-widget.show-subscribe,
+  .typography.editor .markup div.captioned-button-wrap .subscription-widget.show-subscribe {
+    padding: 0px 24px;
+  }
+}
+@media screen and (max-width: 650px) {
+  .typography .markup div.subscription-widget-wrap .subscription-widget.show-subscribe .subscription-widget-subscribe .button,
+  .typography.editor .markup div.subscription-widget-wrap .subscription-widget.show-subscribe .subscription-widget-subscribe .button,
+  .typography .markup div.subscription-widget-wrap-editor .subscription-widget.show-subscribe .subscription-widget-subscribe .button,
+  .typography.editor .markup div.subscription-widget-wrap-editor .subscription-widget.show-subscribe .subscription-widget-subscribe .button,
+  .typography .markup div.captioned-button-wrap .subscription-widget.show-subscribe .subscription-widget-subscribe .button,
+  .typography.editor .markup div.captioned-button-wrap .subscription-widget.show-subscribe .subscription-widget-subscribe .button {
+    padding: 10px 12px;
+    min-width: 110px;
+  }
+}
+@media (max-width: 650px) {
+  .typography .markup .twitter-embed,
+  .typography.editor .markup .twitter-embed,
+  .typography .markup .tweet,
+  .typography.editor .markup .tweet {
+    padding: 12px;
+  }
+}
+@media (max-width: 650px) {
+  .typography .markup .twitter-embed .tweet-text,
+  .typography.editor .markup .twitter-embed .tweet-text,
+  .typography .markup .tweet .tweet-text,
+  .typography.editor .markup .tweet .tweet-text {
+    font-size: 14px;
+    line-height: 20px;
+  }
+}
+@media (max-width: 650px) {
+  .typography .markup .twitter-embed .tweet-photos-container.two,
+  .typography.editor .markup .twitter-embed .tweet-photos-container.two,
+  .typography .markup .tweet .tweet-photos-container.two,
+  .typography.editor .markup .tweet .tweet-photos-container.two,
+  .typography .markup .twitter-embed .tweet-photos-container.three,
+  .typography.editor .markup .twitter-embed .tweet-photos-container.three,
+  .typography .markup .tweet .tweet-photos-container.three,
+  .typography.editor .markup .tweet .tweet-photos-container.three,
+  .typography .markup .twitter-embed .tweet-photos-container.four,
+  .typography.editor .markup .twitter-embed .tweet-photos-container.four,
+  .typography .markup .tweet .tweet-photos-container.four,
+  .typography.editor .markup .tweet .tweet-photos-container.four {
+    height: 200px;
+  }
+}
+@media (max-width: 650px) {
+  .typography .markup .twitter-embed a.expanded-link .expanded-link-img,
+  .typography.editor .markup .twitter-embed a.expanded-link .expanded-link-img,
+  .typography .markup .tweet a.expanded-link .expanded-link-img,
+  .typography.editor .markup .tweet a.expanded-link .expanded-link-img {
+    max-height: 180px;
+  }
+}
+@media (max-width: 650px) {
+  .typography .markup .twitter-embed a.expanded-link .expanded-link-description,
+  .typography.editor .markup .twitter-embed a.expanded-link .expanded-link-description,
+  .typography .markup .tweet a.expanded-link .expanded-link-description,
+  .typography.editor .markup .tweet a.expanded-link .expanded-link-description {
+    display: none;
+  }
+}
+@media screen and (max-width: 650px) {
+  .typography .markup .apple-podcast-container,
+  .typography.editor .markup .apple-podcast-container {
+    width: unset;
+  }
+}
+@media (max-width: 420px) {
+  .typography .markup .install-substack-app-embed img.install-substack-app-embed-img,
+  .typography.editor .markup .install-substack-app-embed img.install-substack-app-embed-img {
+    margin: 0 auto 16px auto;
+  }
+}
+@media (max-width: 420px) {
+  .typography .markup .install-substack-app-embed .install-substack-app-embed-text,
+  .typography.editor .markup .install-substack-app-embed .install-substack-app-embed-text {
+    margin: 0 0 12px 0;
+    max-width: 100%;
+    width: auto;
+    text-align: center;
+  }
+}
+@media (max-width: 420px) {
+  .typography .markup .install-substack-app-embed .install-substack-app-embed-link,
+  .typography.editor .markup .install-substack-app-embed .install-substack-app-embed-link {
+    display: flex;
+    justify-content: center;
+  }
+}
+@media screen and (min-width: 481px) {
+  .share-button-container {
+    height: 38px;
+  }
+}
+@media screen and (min-width: 481px) {
+  .share-button-container a.comment {
+    height: 38px;
+    line-height: 38px;
+    padding-right: 10px;
+  }
+}
+@media screen and (max-width: 480px) {
+  .share-button-container .separator {
+    display: block;
+    margin: 0;
+    height: 8px;
+    border-left: none;
+  }
+}
+@media screen and (max-width: 480px) {
+  .share-button-container a.share.first img {
+    padding-left: 0;
+  }
+}
+@media screen and (min-width: 481px) {
+  .share-button-container a.mobile {
+    display: none !important;
+  }
+}
+@media screen and (min-width: 541px) {
+  .settings-add-pub-modal-wrapper .container .add-recommending-pub-modal-container {
+    padding: 36px;
+    height: 680px;
+  }
+}
+@media screen and (min-width: 541px) {
+  .settings-add-pub-modal-wrapper .container .add-recommending-pub-modal-container .footer {
+    position: absolute;
+    bottom: 36px;
+    margin: 0px;
+  }
+}
+@media screen and (max-width: 650px) {
+  .header-anchor-parent {
+    display: none;
+  }
+}
+@media screen and (max-width: 768px) {
+  .post {
+    padding: 16px 0 0 0;
+  }
+}
+@media screen and (max-width: 650px) {
+  .post .post-header .post-label {
+    margin-top: 8px;
+  }
+}
+@media screen and (max-width: 650px) {
+  .post .post-header .meta-author-wrap.alternative-meta .meta-right-column .post-meta {
+    margin-top: 6px;
+  }
+}
+@media screen and (max-width: 650px) {
+  .post .footer-facepile-container {
+    height: 64px;
+    padding: 0 16px;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    width: 100%;
+  }
+}
+@media screen and (max-width: 650px) {
+  .post .post-footer.use-separators {
+    justify-content: center;
+  }
+}
+@media screen and (max-width: 650px) {
+  .post .post-footer.next-prev {
+    height: 64px;
+    justify-content: space-between;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 650px) {
+  .post-contributor-footer .post-contributor-bio-table {
+    display: block;
+  }
+  .post-contributor-footer .post-contributor-bio-table-row {
+    display: flex;
+    flex-direction: row;
+  }
+  .post-contributor-footer .post-contributor-bio-userhead-cell,
+  .post-contributor-footer .post-contributor-bio-body-cell {
+    display: block;
+  }
+  .post-contributor-footer .post-contributor-bio-body-cell {
+    flex-grow: 1;
+  }
+  .post-contributor-footer .post-contributor-bio-body-table {
+    display: block;
+  }
+  .post-contributor-footer .post-contributor-bio-body-table-row {
+    display: block;
+  }
+  .post-contributor-footer .post-contributor-bio-copy-cell,
+  .post-contributor-footer .post-contributor-bio-controls-cell {
+    display: block;
+  }
+  .post-contributor-footer .post-contributor-bio-copy-cell {
+    margin: 0 0 16px 0;
+  }
+  .post-contributor-footer .post-contributor-bio-controls-cell {
+    width: auto;
+  }
+  .post-contributor-footer .post-contributor-bio-controls {
+    margin: auto;
+  }
+  .post-contributor-footer .post-contributor-bio-controls .button.primary {
+    width: 100%;
+  }
+  .post-contributor-footer .post-contributor-bio-text {
+    font-size: 14px;
+  }
+}
+@media screen and (min-width: 768px) {
+  .post-silhouette {
+    padding: 32px 0;
+  }
+}
+@media screen and (max-width: 650px) {
+  .post-silhouette .post-silhouette-title {
+    margin-top: 10.44225025px;
+    height: 120px;
+  }
+}
+@media screen and (max-width: 650px) {
+  .post-silhouette .post-silhouette-meta {
+    width: 75%;
+  }
+}
+@media screen and (max-width: 650px) {
+  .post-silhouette .post-silhouette-meta.with-byline-image {
+    margin: 20px 0;
+  }
+}
+@media screen and (max-width: 650px) {
+  .use-theme-bg .post-meta.alternative-meta .post-meta-item,
+  .post-meta.alternative-meta .post-meta-item {
+    padding-right: 16px;
+  }
+}
+@media screen and (max-width: 370px) {
+  .use-theme-bg .post-meta.alternative-meta .post-meta-item,
+  .post-meta.alternative-meta .post-meta-item {
+    font-size: 14px;
+  }
+}
+@media screen and (max-width: 650px) {
+  .use-theme-bg .post-meta.alternative-meta .post-meta-item.guest-author-publication,
+  .post-meta.alternative-meta .post-meta-item.guest-author-publication {
+    display: none;
+  }
+}
+@media screen and (max-width: 370px) {
+  .post-meta .post-meta-item .post-meta-button {
+    height: 36px !important;
+    /* important to override in-line height style on emails */
+  }
+  .post-meta .post-meta-item .post-meta-button .meta-button-label {
+    display: none;
+  }
+  .post-meta .post-meta-item .post-meta-button > svg {
+    margin-right: 0;
+  }
+}
+@media screen and (max-width: 370px) {
+  .post-meta .post-meta-item {
+    font-size: 12px;
+  }
+}
+@media screen and (max-width: 650px) {
+  .post .floating-subscribe-button {
+    bottom: 20px;
+    right: 20px;
+  }
+}
+@media (max-width: 1024px) {
+  body .pullquote-align-left,
+  body .pullquote-align-right,
+  body .pullquote-align-wide,
+  body .pullquote-align-center {
+    float: none;
+    margin: 0 auto;
+    width: 100%;
+    max-width: 100%;
+  }
+}
+@media all and (-ms-high-contrast: none), (-ms-high-contrast: active) {
+  body .markup table.image-wrapper img,
+  body .markup table.kindle-wrapper img {
+    max-width: 550px;
+  }
+}
+@media (min-width: 1024px) {
+  body:not(:has(#toc)) .captioned-image-container figure:has(> a.image2-offset-left) {
+    margin-left: var(--image-offset-margin);
+  }
+  body:not(:has(#toc)) .captioned-image-container figure:has(> a.image2-offset-right) {
+    margin-right: var(--image-offset-margin);
+  }
+}
+@media (min-width: 1300px) {
+  body .captioned-image-container figure:has(> a.image2-offset-left) {
+    margin-left: var(--image-offset-margin);
+  }
+  body .captioned-image-container figure:has(> a.image2-offset-right) {
+    margin-right: var(--image-offset-margin);
+  }
+}
+@media (max-width: 1024px) {
+  body {
+    /* Disable offset on mobile/tablet */
+  }
+  body .captioned-image-container figure:has(> a.image2-align-left),
+  body .captioned-image-container figure:has(> a.image2-align-right) {
+    float: none;
+    margin: 1em auto;
+    max-width: 100%;
+    width: auto;
+    padding: 0;
+  }
+  body .captioned-image-container figure:has(> a.image2-align-left.thefp),
+  body .captioned-image-container figure:has(> a.image2-align-right.thefp) {
+    margin: 1em auto;
+  }
+  body .captioned-image-container figure:has(> a.image2-offset-left),
+  body .captioned-image-container figure:has(> a.image2-offset-right) {
+    margin: 1em auto;
+  }
+  body .captioned-image-container figure:has(> a.image2-align-left) .image2-inset,
+  body .captioned-image-container figure:has(> a.image2-align-right) .image2-inset {
+    display: block;
+    justify-content: initial;
+  }
+}
+@media (max-width: 768px) {
+  body .markup div.sponsorship-campaign-embed {
+    margin-top: 24px;
+    margin-bottom: 24px;
+  }
+  body .markup div.sponsorship-campaign-embed:first-child {
+    margin-top: 0px;
+  }
+}
+@media screen and (max-width: 650px) {
+  body .markup div.youtube-overlay,
+  body .markup div.vimeo-overlay {
+    display: none !important;
+  }
+}
+@media screen and (max-width: 370px) {
+  body .markup div.tiktok-wrap {
+    width: calc(95vw - 32px);
+    height: calc((95vw - 32px - 2px) / 0.485714);
+  }
+}
+@media screen and (max-width: 650px) {
+  body .markup div.embedded-publication-wrap .embedded-publication.show-subscribe {
+    padding: 24px;
+  }
+}
+@media screen and (max-width: 650px) {
+  body .markup div.subscription-widget-wrap .subscription-widget.show-subscribe,
+  body .markup div.subscription-widget-wrap-editor .subscription-widget.show-subscribe,
+  body .markup div.captioned-button-wrap .subscription-widget.show-subscribe {
+    padding: 0px 24px;
+  }
+}
+@media screen and (max-width: 650px) {
+  body .markup div.subscription-widget-wrap .subscription-widget.show-subscribe .subscription-widget-subscribe .button,
+  body .markup div.subscription-widget-wrap-editor .subscription-widget.show-subscribe .subscription-widget-subscribe .button,
+  body .markup div.captioned-button-wrap .subscription-widget.show-subscribe .subscription-widget-subscribe .button {
+    padding: 10px 12px;
+    min-width: 110px;
+  }
+}
+@media (max-width: 650px) {
+  body .markup .twitter-embed,
+  body .markup .tweet {
+    padding: 12px;
+  }
+}
+@media (max-width: 650px) {
+  body .markup .twitter-embed .tweet-text,
+  body .markup .tweet .tweet-text {
+    font-size: 14px;
+    line-height: 20px;
+  }
+}
+@media (max-width: 650px) {
+  body .markup .twitter-embed .tweet-photos-container.two,
+  body .markup .tweet .tweet-photos-container.two,
+  body .markup .twitter-embed .tweet-photos-container.three,
+  body .markup .tweet .tweet-photos-container.three,
+  body .markup .twitter-embed .tweet-photos-container.four,
+  body .markup .tweet .tweet-photos-container.four {
+    height: 200px;
+  }
+}
+@media (max-width: 650px) {
+  body .markup .twitter-embed a.expanded-link .expanded-link-img,
+  body .markup .tweet a.expanded-link .expanded-link-img {
+    max-height: 180px;
+  }
+}
+@media (max-width: 650px) {
+  body .markup .twitter-embed a.expanded-link .expanded-link-description,
+  body .markup .tweet a.expanded-link .expanded-link-description {
+    display: none;
+  }
+}
+@media screen and (max-width: 650px) {
+  body .markup .apple-podcast-container {
+    width: unset;
+  }
+}
+@media (max-width: 420px) {
+  body .markup .install-substack-app-embed img.install-substack-app-embed-img {
+    margin: 0 auto 16px auto;
+  }
+}
+@media (max-width: 420px) {
+  body .markup .install-substack-app-embed .install-substack-app-embed-text {
+    margin: 0 0 12px 0;
+    max-width: 100%;
+    width: auto;
+    text-align: center;
+  }
+}
+@media (max-width: 420px) {
+  body .markup .install-substack-app-embed .install-substack-app-embed-link {
+    display: flex;
+    justify-content: center;
+  }
+}
+@media screen and (min-width: 500px) {
+  body .header a.logo {
+    width: 42px;
+    height: 42px;
+    border-radius: 12px;
+  }
+}
+@media screen and (max-width: 420px) {
+  body .subscription-receipt table:first-of-type .subscription-amount .subscription-discount {
+    width: 72px !important;
+  }
+}
+@media screen and (min-width: 481px) {
+  body .share-button-container {
+    height: auto;
+  }
+}
+@media screen and (max-width: 480px) {
+  body .share-button-container .separator {
+    display: block !important;
+    margin: 0 !important;
+    height: 8px !important;
+    border-left: none !important;
+  }
+}
+@media screen and (max-width: 650px) {
+  .digest .item .post-meta-item.audience {
+    display: none;
+  }
+}
+@media screen and (min-width: 500px) {
+  .digest-publication .logo img {
+    width: 42px;
+    height: 42px;
+    border-radius: 8px;
+  }
+}
+@media screen and (max-width: 650px) {
+  .comments-page .container .comment-list .collapsed-reply {
+    margin-left: calc(10 + 32px - 24px);
+  }
+}
+@media screen and (max-width: 650px) {
+  .comment > .comment-list {
+    padding-left: 24px;
+  }
+}
+@media screen and (max-width: 650px) {
+  .finish-magic-login-modal .modal-content .container {
+    padding: 24px 0;
+  }
+}
+@media (max-width: 650px) {
+  .reader2-text-b3 {
+    line-height: 24px;
+  }
+}
+@media screen and (max-width: 650px) {
+  .reader2-text-h4 {
+    line-height: 24px;
+  }
+}
+@media screen and (min-width: 541px) {
+  .user-profile-modal {
+    padding-left: 12px;
+    padding-right: 12px;
+  }
+}
+@media screen and (max-width: 650px) {
+  .subscribe-widget form.form .sideBySideWrap button.rightButton {
+    padding: 10px 12px;
+  }
+}
+@media screen and (min-width: 541px) {
+  .pub-icon:hover .logo-hover,
+  .feed-item-icon:hover .logo-hover {
+    display: block;
+  }
+}
+@media screen and (max-width: 650px) {
+  .post-ufi.single-full-width-button .post-ufi-button-wrapper {
+    width: 100%;
+    padding: 16px;
+  }
+  .post-ufi.single-full-width-button .post-ufi-button-wrapper:empty {
+    display: none;
+  }
+  .post-ufi.single-full-width-button .post-ufi-button {
+    width: 100%;
+    justify-content: center;
+  }
+}
+@media screen and (max-width: 768px) {
+  .file-embed-wrapper {
+    padding: 0;
+  }
+}
+@media screen and (max-width: 768px) {
+  .file-embed-wrapper-editor {
+    padding: 0;
+  }
+}
+@media screen and (max-width: 768px) {
+  .file-embed-wrapper-editor:active {
+    padding: 0;
+  }
+}
+@media only screen and (max-width: 650px) {
+  .file-embed-button.wide,
+  .file-embed-error-button.wide {
+    display: none;
+  }
+}
+@media only screen and (min-width: 630px) {
+  .file-embed-button.narrow,
+  .file-embed-error-button.narrow {
+    display: none;
+  }
+}
+@media screen and (min-width: 541px) {
+  .audio-player-wrapper .audio-player {
+    min-width: 500px;
+  }
+}
+@media screen and (max-width: 650px) {
+  .audio-player-wrapper .audio-player .audio-player-progress {
+    border-left-width: 16px;
+    border-right-width: 16px;
+  }
+}
+@media screen and (max-width: 650px) {
+  .audio-player-wrapper .audio-player .audio-player-progress .audio-player-progress-bar .audio-player-progress-bar-popup {
+    top: -54px;
+  }
+}
+@media screen and (max-width: 650px) {
+  .audio-player-wrapper-fancy .audio-player .audio-player-progress {
+    border-left-width: 16px;
+    border-right-width: 16px;
+  }
+}
+@media screen and (max-width: 650px) {
+  .audio-player-wrapper-fancy .audio-player .audio-player-progress .audio-player-progress-bar .audio-player-progress-bar-popup {
+    top: -54px;
+  }
+}
+@media (min-width: 250px) {
+  .audio-player-wrapper-fancy .audio-player {
+    padding: 32px;
+  }
+  .audio-player-wrapper-fancy .audio-player .btn-group {
+    display: flex;
+  }
+  .audio-player-wrapper-fancy .audio-player .btn-group .button:last-of-type {
+    display: block;
+  }
+}
+@media (min-width: 300px) {
+  .audio-player-wrapper-fancy .audio-player .btn-group {
+    display: block;
+  }
+  .audio-player-wrapper-fancy .audio-player .btn-group .button:first-of-type {
+    display: block;
+  }
+}
+@media (min-width: 350px) {
+  .audio-player-wrapper-fancy .audio-player .audio-player-substack-logo {
+    display: block;
+  }
+  .audio-player-wrapper-fancy .audio-player .audio-player-title {
+    margin-top: 16px;
+  }
+  .audio-player-wrapper-fancy .audio-player .audio-player-hero-image-container {
+    padding-top: 15%;
+    width: 15%;
+    display: block;
+  }
+  .audio-player-wrapper-fancy .audio-player .btn-group .button:first-of-type {
+    display: block;
+  }
+  .audio-player-wrapper-fancy .audio-player .audio-player-substack-logo {
+    display: block;
+  }
+}
+@media (min-width: 350px) {
+  .audio-player-wrapper-fancy .audio-player .audio-player-hero-image-container {
+    padding-top: 25%;
+    width: 25%;
+    display: block;
+  }
+  .audio-player-wrapper-fancy .audio-player .btn-group {
+    display: flex;
+  }
+  .audio-player-wrapper-fancy .audio-player .btn-group .button:first-of-type {
+    display: block;
+  }
+}
+@media (min-width: 400px) {
+  .audio-player-wrapper-fancy .audio-player .audio-player-hero-image-container {
+    padding-top: 40%;
+    width: 40%;
+  }
+}
+@media (max-width: 400px) {
+  .audio-player-wrapper-fancy .audio-player .btn-group {
+    margin-top: 12px;
+  }
+  .audio-player-wrapper-fancy .audio-player .btn-group .button {
+    font-size: 13px;
+    padding: 6px 12px;
+    height: auto;
+    margin-top: 10px;
+  }
+}
+@media (min-width: 600px) {
+  .audio-player-wrapper-fancy .audio-player .audio-player-hero-image-container {
+    padding-top: 55%;
+    width: 55%;
+  }
+}
+@media (max-width: 650px) {
+  .poll-editor-modal {
+    min-width: calc(100% - 20px);
+  }
+}
+@media (max-width: 750px) {
+  .poll-embed .poll-anchor-target .poll-anchor-copy-button {
+    left: 8px;
+    top: 45px;
+  }
+}
+@media not all and (min-resolution: 0.001dpcm) {
+  @supports (-webkit-appearance: none) {
+    p a:not(.primary.button),
+    .post p:not(.button-wrapper) a:not(.primary.button),
+    .footnote a.footnote-anchor:not(.primary.button),
+    .thread-head .markup p:not(.button-wrapper) a:not(.primary.button) {
+      color: #b8860b;
+      text-decoration: none;
+    }
+    p a:not(.primary.button):hover,
+    .post p:not(.button-wrapper) a:not(.primary.button):hover,
+    .footnote a.footnote-anchor:not(.primary.button):hover,
+    .thread-head .markup p:not(.button-wrapper) a:not(.primary.button):hover {
+      text-decoration: underline;
+    }
+  }
+}</style></head><body class="email-body" style="font-kerning: auto;--image-offset-margin: -120px;"><img src="https://eotrx.substackcdn.com/open?token=eyJtIjoiPDIwMjYwMTE1MTU0MzI0LjMuYzJiNWRjMjE1NDdhYWJhN0BtZzIuc3Vic3RhY2suY29tPiIsInUiOjE0NTYzMzE5LCJyIjoiaXNoYW4ubWFpbEBnbWFpbC5jb20iLCJkIjoibWcyLnN1YnN0YWNrLmNvbSIsInAiOjE4MzgxMzc1NCwidCI6Im5ld3NsZXR0ZXIiLCJhIjoiZXZlcnlvbmUiLCJzIjozMzI5OTYsImMiOiJwb3N0IiwiZiI6dHJ1ZSwicG9zaXRpb24iOiJ0b3AiLCJpYXQiOjE3Njg0OTE4MzcsImV4cCI6MTc3MTA4MzgzNywiaXNzIjoicHViLTAiLCJzdWIiOiJlbyJ9.6wUKKnw1b95oSHd7hXslOuaRHSOioFXS0P05gj5V25E" alt="" width="1" height="1" border="0" style="height:1px !important;width:1px !important;border-width:0 !important;margin-top:0 !important;margin-bottom:0 !important;margin-right:0 !important;margin-left:0 !important;padding-top:0 !important;padding-bottom:0 !important;padding-right:0 !important;padding-left:0 !important;"/><div class="preview" style="display:none;font-size:1px;color:#333333;line-height:1px;max-height:0px;max-width:0px;opacity:0;overflow:hidden;">There is nothing it is like to be a Large Language Model</div><div class="preview" style="display:none;font-size:1px;color:#333333;line-height:1px;max-height:0px;max-width:0px;opacity:0;overflow:hidden;">&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;</div><table class="email-body-container" role="presentation" width="100%" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td></td><td class="content" width="550"></td><td></td></tr><tr><td></td><td class="content" width="550" align="left"><div style="font-size: 16px;line-height: 26px;max-width: 550px;width: 100%;margin: 0 auto;overflow-wrap: break-word;"><table role="presentation" width="100%" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td align="right" style="height:20px;"><table role="presentation" width="auto" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td style="vertical-align:middle;"><span class="pencraft pc-reset reset-IxiVJZ tw-font-body tw-text-ssm tw-text-substack-secondary" style="font-family: SF Pro Text, -apple-system, system-ui, BlinkMacSystemFont, Inter, Segoe UI, Roboto, Helvetica, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol;font-size: 13px;color: unset;list-style: none;text-decoration: unset;margin: 0;"><div class="pencraft pc-reset align-right-VJbKw5 size-12-mmZ61m reset-IxiVJZ" style="list-style: none;color: unset;text-align: right;font-size: 12px;line-height: 16px;text-decoration: unset;margin: 0;"><span class="pencraft pc-reset reset-IxiVJZ" translated="" style="list-style: none;color: unset;text-decoration: unset;margin: 0;">Forwarded this email? <a class="pencraft pc-reset decoration-underline-ClTkYc reset-IxiVJZ" href="https://substack.com/redirect/2/eyJlIjoiaHR0cHM6Ly93d3cudGhlaW50cmluc2ljcGVyc3BlY3RpdmUuY29tL3N1YnNjcmliZT91dG1fc291cmNlPWVtYWlsJnV0bV9jYW1wYWlnbj1lbWFpbC1zdWJzY3JpYmUmcj04bzU0biZuZXh0PWh0dHBzJTNBJTJGJTJGd3d3LnRoZWludHJpbnNpY3BlcnNwZWN0aXZlLmNvbSUyRnAlMkZwcm92aW5nLWxpdGVyYWxseS10aGF0LWNoYXRncHQtaXNudCIsInAiOjE4MzgxMzc1NCwicyI6MzMyOTk2LCJmIjp0cnVlLCJ1IjoxNDU2MzMxOSwiaWF0IjoxNzY4NDkxODM3LCJleHAiOjIwODQwNjc4MzcsImlzcyI6InB1Yi0wIiwic3ViIjoibGluay1yZWRpcmVjdCJ9.-2FswA0Nv2Xo7jZNN830aUtUjSOgwaczqcDzZemhDIc?" style="list-style: none;color: unset;text-decoration: unset;margin: 0;-webkit-text-decoration-line: underline;text-decoration-line: underline;">Subscribe here</a> for more</span></div></span></td></tr></tbody></table></td></tr></tbody></table><div class="post typography" dir="auto" style="--image-offset-margin: -120px;padding: 32px 0 0 0;font-size: 16px;line-height: 26px;"><div class="post-header" role="region" aria-label="Post header" style="font-size: 16px;line-height: 26px;"><h1 class="post-title published title-X77sOw" dir="auto" style="direction: auto;text-align: start;unicode-bidi: isolate;color: rgb(54,55,55);font-family: Lora,sans-serif;font-weight: 600;-webkit-font-smoothing: antialiased;-moz-osx-font-smoothing: antialiased;-webkit-appearance: optimizelegibility;-moz-appearance: optimizelegibility;appearance: optimizelegibility;margin: 0;line-height: 36px;font-size: 32px;"><a href="https://substack.com/app-link/post?publication_id=332996&post_id=183813754&utm_source=post-email-title&utm_campaign=email-post-title&isFreemail=true&r=8o54n&token=eyJ1c2VyX2lkIjoxNDU2MzMxOSwicG9zdF9pZCI6MTgzODEzNzU0LCJpYXQiOjE3Njg0OTE4MzcsImV4cCI6MTc3MTA4MzgzNywiaXNzIjoicHViLTMzMjk5NiIsInN1YiI6InBvc3QtcmVhY3Rpb24ifQ.yKPg0ZSA4kKYL08cTGDN6702NgR-iYZx7TdTwdEcE38" style="color: rgb(54,55,55);text-decoration: none;">Proving (literally) that ChatGPT isn't conscious</a></h1><h3 class="subtitle subtitle-HEEcLo" dir="auto" style="direction: auto;text-align: start;unicode-bidi: isolate;font-family: 'SF Pro Display',-apple-system-headline,system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';font-weight: normal;-webkit-font-smoothing: antialiased;-moz-osx-font-smoothing: antialiased;-webkit-appearance: optimizelegibility;-moz-appearance: optimizelegibility;appearance: optimizelegibility;margin: 4px 0 0;color: #777777;line-height: 24px;font-size: 18px;margin-top: 12px;">There is nothing it is like to be a Large Language Model</h3><table class="post-meta" role="presentation" width="100%" border="0" cellspacing="0" cellpadding="0" style="margin: 1em 0;height: 20px;align-items: center;"><tbody><tr><td><table role="presentation" width="auto" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td><table role="presentation" width="auto" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td style="vertical-align:middle;"><div class="pencraft pc-reset color-primary-zABazT line-height-20-t4M0El font-meta-MWBumP size-11-NuY2Zx weight-medium-fw81nC transform-uppercase-yKDgcq reset-IxiVJZ meta-EgzBVA custom-css-email-post-author" style="list-style: none;font-size: 11px;line-height: 20px;text-decoration: unset;color: rgb(54,55,55);margin: 0;font-family: 'SF Compact',-apple-system,system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';font-weight: 500;text-transform: uppercase;letter-spacing: .2px;"><a class="pencraft pc-reset color-primary-zABazT line-height-20-t4M0El font-meta-MWBumP size-11-NuY2Zx weight-medium-fw81nC transform-uppercase-yKDgcq reset-IxiVJZ meta-EgzBVA" style="list-style: none;color: rgb(54,55,55);margin: 0;font-size: 11px;line-height: 20px;font-family: 'SF Compact',-apple-system,system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';font-weight: 500;text-transform: uppercase;letter-spacing: .2px;text-decoration: none" href="https://substack.com/@erikhoel">Erik Hoel</a></div></td></tr></tbody></table></td></tr><tr><td><table role="presentation" width="auto" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td style="vertical-align:middle;"><div class="pencraft pc-reset color-secondary-ls1g8s line-height-20-t4M0El font-meta-MWBumP size-11-NuY2Zx weight-medium-fw81nC transform-uppercase-yKDgcq reset-IxiVJZ meta-EgzBVA" style="list-style: none;font-size: 11px;line-height: 20px;text-decoration: unset;color: rgb(119,119,119);margin: 0;font-family: 'SF Compact',-apple-system,system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';font-weight: 500;text-transform: uppercase;letter-spacing: .2px;"><time datetime="2026-01-15T15:43:29.461Z">Jan 15</time></div></td></tr></tbody></table></td></tr></tbody></table></td><td align="right"><table role="presentation" width="auto" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td style="vertical-align:middle;"><a href="https://substack.com/@erikhoel"><img class="custom-css-email-avatar avatar-QIQ5yR" src="https://substackcdn.com/image/fetch/$s_!gVji!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8d2d617e-4bf9-4b24-9269-ddb14de3a680_1240x1240.webp" style="box-sizing: border-box;max-width: 550px;border: none;vertical-align: middle;width: 40px;height: 40px;min-width: 40px;min-height: 40px;object-fit: cover;margin: 0px;display: inline;border-radius: 50%" width="40" height="40"></a></td></tr></tbody></table></td></tr></tbody></table><table class="email-ufi-2-top" role="presentation" width="100%" border="0" cellspacing="0" cellpadding="0" style="border-top: 1px solid rgb(0,0,0,.1);border-bottom: 1px solid rgb(0,0,0,.1);min-width: 100%;"><tbody><tr height="16"><td height="16" style="font-size:0px;line-height:0;">&nbsp;</td></tr><tr><td><table role="presentation" width="100%" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td><table role="presentation" width="auto" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td style="vertical-align:middle;"><table role="presentation" width="38" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td align="center"><a class="email-icon-button" href="https://substack.com/app-link/post?publication_id=332996&post_id=183813754&utm_source=substack&isFreemail=true&submitLike=true&token=eyJ1c2VyX2lkIjoxNDU2MzMxOSwicG9zdF9pZCI6MTgzODEzNzU0LCJyZWFjdGlvbiI6IuKdpCIsImlhdCI6MTc2ODQ5MTgzNywiZXhwIjoxNzcxMDgzODM3LCJpc3MiOiJwdWItMzMyOTk2Iiwic3ViIjoicmVhY3Rpb24ifQ.K4T6-iMH555dCn33nyzsyyO_lErJx_njclhGErlrDgk&utm_medium=email&utm_campaign=email-reaction&r=8o54n" style="font-family: system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';display: inline-block;font-weight: 500;border: 1px solid rgb(0,0,0,.1);border-radius: 9999px;text-transform: uppercase;font-size: 12px;line-height: 1;padding: 9px 0;text-decoration: none;color: rgb(119,119,119);min-width: 38px;box-sizing: border-box;width: 38px"><img class="icon" src="https://substackcdn.com/image/fetch/$s_!PeVs!,w_36,c_scale,f_png,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack.com%2Ficon%2FLucideHeart%3Fv%3D4%26height%3D36%26fill%3Dnone%26stroke%3D%2523808080%26strokeWidth%3D2" width="18" height="18" style="border: none;vertical-align: middle;max-width: 18px" alt=""></a></td></tr></tbody></table></td><td width="8" style="min-width: 8px"></td><td style="vertical-align:middle;"><table role="presentation" width="38" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td align="center"><a class="email-icon-button" href="https://substack.com/app-link/post?publication_id=332996&post_id=183813754&utm_source=substack&utm_medium=email&isFreemail=true&comments=true&token=eyJ1c2VyX2lkIjoxNDU2MzMxOSwicG9zdF9pZCI6MTgzODEzNzU0LCJpYXQiOjE3Njg0OTE4MzcsImV4cCI6MTc3MTA4MzgzNywiaXNzIjoicHViLTMzMjk5NiIsInN1YiI6InBvc3QtcmVhY3Rpb24ifQ.yKPg0ZSA4kKYL08cTGDN6702NgR-iYZx7TdTwdEcE38&r=8o54n&utm_campaign=email-half-magic-comments&action=post-comment&utm_source=substack&utm_medium=email" style="font-family: system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';display: inline-block;font-weight: 500;border: 1px solid rgb(0,0,0,.1);border-radius: 9999px;text-transform: uppercase;font-size: 12px;line-height: 1;padding: 9px 0;text-decoration: none;color: rgb(119,119,119);min-width: 38px;box-sizing: border-box;width: 38px"><img class="icon" src="https://substackcdn.com/image/fetch/$s_!x1tS!,w_36,c_scale,f_png,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack.com%2Ficon%2FLucideComments%3Fv%3D4%26height%3D36%26fill%3Dnone%26stroke%3D%2523808080%26strokeWidth%3D2" width="18" height="18" style="border: none;vertical-align: middle;max-width: 18px" alt=""></a></td></tr></tbody></table></td><td width="8" style="min-width: 8px"></td><td style="vertical-align:middle;"><table role="presentation" width="38" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td align="center"><a class="email-icon-button" href="https://substack.com/app-link/post?publication_id=332996&post_id=183813754&utm_source=substack&utm_medium=email&utm_content=share&utm_campaign=email-share&action=share&triggerShare=true&isFreemail=true&r=8o54n&token=eyJ1c2VyX2lkIjoxNDU2MzMxOSwicG9zdF9pZCI6MTgzODEzNzU0LCJpYXQiOjE3Njg0OTE4MzcsImV4cCI6MTc3MTA4MzgzNywiaXNzIjoicHViLTMzMjk5NiIsInN1YiI6InBvc3QtcmVhY3Rpb24ifQ.yKPg0ZSA4kKYL08cTGDN6702NgR-iYZx7TdTwdEcE38" style="font-family: system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';display: inline-block;font-weight: 500;border: 1px solid rgb(0,0,0,.1);border-radius: 9999px;text-transform: uppercase;font-size: 12px;line-height: 1;padding: 9px 0;text-decoration: none;color: rgb(119,119,119);min-width: 38px;box-sizing: border-box;width: 38px"><img class="icon" src="https://substackcdn.com/image/fetch/$s_!_L14!,w_36,c_scale,f_png,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack.com%2Ficon%2FLucideShare2%3Fv%3D4%26height%3D36%26fill%3Dnone%26stroke%3D%2523808080%26strokeWidth%3D2" width="18" height="18" style="border: none;vertical-align: middle;max-width: 18px" alt=""></a></td></tr></tbody></table></td><td width="8" style="min-width: 8px"></td><td style="vertical-align:middle;"><table role="presentation" width="38" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td align="center"><a class="email-icon-button" href="https://substack.com/redirect/2/eyJlIjoiaHR0cHM6Ly9vcGVuLnN1YnN0YWNrLmNvbS9wdWIvZXJpa2hvZWwvcC9wcm92aW5nLWxpdGVyYWxseS10aGF0LWNoYXRncHQtaXNudD91dG1fc291cmNlPXN1YnN0YWNrJnV0bV9tZWRpdW09ZW1haWwmdXRtX2NhbXBhaWduPWVtYWlsLXJlc3RhY2stY29tbWVudCZhY3Rpb249cmVzdGFjay1jb21tZW50JnI9OG81NG4mdG9rZW49ZXlKMWMyVnlYMmxrSWpveE5EVTJNek14T1N3aWNHOXpkRjlwWkNJNk1UZ3pPREV6TnpVMExDSnBZWFFpT2pFM05qZzBPVEU0TXpjc0ltVjRjQ0k2TVRjM01UQTRNemd6Tnl3aWFYTnpJam9pY0hWaUxUTXpNams1TmlJc0luTjFZaUk2SW5CdmMzUXRjbVZoWTNScGIyNGlmUS55S1BnMFpTQTRrS1lMMDhjVEdETjY3MDJOZ1ItaVlaeDdUZFR3ZEVjRTM4IiwicCI6MTgzODEzNzU0LCJzIjozMzI5OTYsImYiOnRydWUsInUiOjE0NTYzMzE5LCJpYXQiOjE3Njg0OTE4MzcsImV4cCI6MjA4NDA2NzgzNywiaXNzIjoicHViLTAiLCJzdWIiOiJsaW5rLXJlZGlyZWN0In0.-3Q5YUNaRKS0LHnFTrm1iR1hyw4YA-jE0nXTfM5F4N0?&utm_source=substack&utm_medium=email" style="font-family: system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';display: inline-block;font-weight: 500;border: 1px solid rgb(0,0,0,.1);border-radius: 9999px;text-transform: uppercase;font-size: 12px;line-height: 1;padding: 9px 0;text-decoration: none;color: rgb(119,119,119);min-width: 38px;box-sizing: border-box;width: 38px"><img class="icon" src="https://substackcdn.com/image/fetch/$s_!5EGt!,w_36,c_scale,f_png,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack.com%2Ficon%2FNoteForwardIcon%3Fv%3D4%26height%3D36%26fill%3Dnone%26stroke%3D%2523808080%26strokeWidth%3D2" width="18" height="18" style="border: none;vertical-align: middle;max-width: 18px" alt=""></a></td></tr></tbody></table></td></tr></tbody></table></td><td align="right"><table role="presentation" width="auto" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td style="vertical-align:middle;"><table role="presentation" width="auto" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td align="center"><a class="email-button-outline" href="https://open.substack.com/pub/erikhoel/p/proving-literally-that-chatgpt-isnt?utm_source=email&redirect=app-store&utm_campaign=email-read-in-app" style="font-family: system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';display: inline-block;font-weight: 500;border: 1px solid rgb(0,0,0,.1);border-radius: 9999px;text-transform: uppercase;font-size: 12px;line-height: 12px;padding: 9px 14px;text-decoration: none;color: rgb(119,119,119);"><div class="email-button-spacer" style="font-size: 16px;line-height: 26px;display: inline-block;vertical-align: middle;max-width: 0;min-height: 18px;"></div><span class="email-button-text" style="vertical-align: middle;margin-right: 4px">READ IN APP</span><img class="icon text-icon" src="https://substackcdn.com/image/fetch/$s_!ET-_!,w_36,c_scale,f_png,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack.com%2Ficon%2FLucideArrowUpRight%3Fv%3D4%26height%3D36%26fill%3Dnone%26stroke%3D%2523808080%26strokeWidth%3D2" width="18" height="18" style="min-width: 18px;min-height: 18px;border: none;vertical-align: middle;margin-right: 0;margin-left: 0;max-width: 18px" alt=""></a></td></tr></tbody></table></td></tr></tbody></table></td></tr></tbody></table></td></tr><tr height="16"><td height="16" style="font-size:0px;line-height:0;">&nbsp;</td></tr></tbody></table></div></div><div class="post typography" dir="auto" style="--image-offset-margin: -120px;padding: 32px 0 0 0;font-size: 16px;line-height: 26px;"><div class="body markup" dir="auto" style="text-align: initial;font-size: 16px;line-height: 26px;width: 100%;word-break: break-word;margin-bottom: 16px;font-family: Spectral,sans-serif;font-weight: 400;"><div class="captioned-image-container-static" style="font-size: 16px;line-height: 26px;margin: 32px auto;margin-top: 0;"><figure style="width: 100%;margin: 0 auto;"><table class="image-wrapper" width="100%" border="0" cellspacing="0" cellpadding="0" data-component-name="Image2ToDOMStatic" style="mso-padding-alt: 1em 0 1.6em;"><tbody><tr><td style="text-align: center;"></td><td class="content" align="left" width="1456" style="text-align: center;"><a class="image-link" target="_blank" href="https://substack.com/redirect/a34aba8d-d788-4973-86f0-3601cbb0779d?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel="" style="position: relative;flex-direction: column;align-items: center;padding: 0;width: auto;height: auto;border: none;text-decoration: none;display: block;margin: 0;margin-top: 0;margin-bottom: 0;"><img class="wide-image" data-attrs="{&quot;src&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/5f9e8e24-7b87-4324-9868-d459a9eb0630_2534x822.jpeg&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:null,&quot;height&quot;:472,&quot;width&quot;:1456,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:null,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:null,&quot;href&quot;:null,&quot;belowTheFold&quot;:false,&quot;topImage&quot;:true,&quot;internalRedirect&quot;:null,&quot;isProcessing&quot;:false,&quot;align&quot;:null,&quot;offset&quot;:false}" alt="" width="550" height="178.2967032967033" src="https://substackcdn.com/image/fetch/$s_!ZZ9d!,w_1100,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5f9e8e24-7b87-4324-9868-d459a9eb0630_2534x822.jpeg" style="border: none !important;vertical-align: middle;display: block;-ms-interpolation-mode: bicubic;height: auto;margin-bottom: 0;width: auto !important;max-width: 100% !important;margin: 0 auto;"></a></td><td style="text-align: center;"></td></tr></tbody></table></figure></div><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;">Imagine we could prove that there is nothing it is like to be ChatGPT. Or any other Large Language Model (LLM). That they have no experiences associated with the text they produce. That they do not actually feel happiness, or curiosity, or discomfort, or anything else. Their shifting claims about consciousness are remnants from the training set, or guesses about what you&#8217;d like to hear, or the acting out of a persona.</p><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;"><span>You may already believe this, but a proof would mean that a lot of people who think otherwise, including some major corporations, have been playing make believe. Just as a child easily grants consciousness to a doll, humans are predisposed to grant consciousness easily, and so we have been fooled by &#8220;</span><a href="https://substack.com/redirect/95c27938-ff05-41a6-9129-13403bad9715?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel="" style="color: #b8860b;text-decoration: none;">seemingly conscious AI</a><span>.&#8221;</span></p><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;">However, without a proof, the current state of LLM consciousness discourse is closer to &#8220;Well, that&#8217;s just like, your opinion, man.&#8221;</p><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;"><span>This is because there is no scientific consensus around exactly how consciousness works (although, at least, those in the field do mostly share a </span><a href="https://substack.com/redirect/064fc9f7-e7e4-47b7-a841-cda750f69995?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel="" style="color: #b8860b;text-decoration: none;">common definition</a><span> of what we seek to understand). There are </span><a href="https://substack.com/redirect/15863f9f-d630-4097-81b1-e7517a8a786e?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel="" style="color: #b8860b;text-decoration: none;">currently hundreds</a><span> of scientific theories of consciousness trying to explain how the brain (or other systems, like AIs) generates subjective and private states of experience. I got my PhD in neuroscience helping develop one such theory of consciousness: </span><a href="https://substack.com/redirect/dd09af35-98f9-40aa-bd3b-43b0748573bc?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel="" style="color: #b8860b;text-decoration: none;">Integrated Information Theory</a><span>, working under Giulio Tononi, its creator. And I&#8217;ve studied consciousness all my life. But which theory out of these hundreds is correct? Who knows! Honestly? Probably none of them.</span></p><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;">So, how would it be possible to rule out LLM consciousness altogether?</p><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;"><span>In a </span><a href="https://substack.com/redirect/144a785b-b564-4b88-9c2a-045ddf9decf7?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel="" style="color: #b8860b;text-decoration: none;">new paper</a><span>, now up on arXiv, </span><strong>I prove that </strong><em><strong>no</strong></em><strong> non-trivial theory of consciousness </strong><em><strong>could</strong></em><strong> exist that grants consciousness to LLMs.</strong><span> </span></p><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;">Essentially, meta-theoretic reasoning allows us to make statements about all possible theories of consciousness, and so lets us jump to the end of the debate: the conclusion of LLM non-consciousness.</p><div class="captioned-image-container-static" style="font-size: 16px;line-height: 26px;margin: 32px auto;"><figure style="width: 100%;margin: 0 auto;"><table class="image-wrapper" width="100%" border="0" cellspacing="0" cellpadding="0" data-component-name="Image2ToDOMStatic" style="mso-padding-alt: 1em 0 1.6em;"><tbody><tr><td style="text-align: center;"></td><td class="content" align="left" width="1456" style="text-align: center;"><a class="image-link" target="_blank" href="https://substack.com/redirect/40baff8a-820a-4664-a69a-ebada1c33a46?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel="" style="position: relative;flex-direction: column;align-items: center;padding: 0;width: auto;height: auto;border: none;text-decoration: none;display: block;margin: 0;"><img class="wide-image" data-attrs="{&quot;src&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/d66d2b97-e59f-4926-8b5a-7bdd6a750f6b_1476x1662.png&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:null,&quot;height&quot;:1639,&quot;width&quot;:1456,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:647044,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:&quot;image/png&quot;,&quot;href&quot;:null,&quot;belowTheFold&quot;:false,&quot;topImage&quot;:false,&quot;internalRedirect&quot;:&quot;https://www.theintrinsicperspective.com/i/183813754?img=https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd66d2b97-e59f-4926-8b5a-7bdd6a750f6b_1476x1662.png&quot;,&quot;isProcessing&quot;:false,&quot;align&quot;:null,&quot;offset&quot;:false}" alt="" width="550" height="619.1277472527472" src="https://substackcdn.com/image/fetch/$s_!nKNU!,w_1100,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd66d2b97-e59f-4926-8b5a-7bdd6a750f6b_1476x1662.png" style="border: none !important;vertical-align: middle;display: block;-ms-interpolation-mode: bicubic;height: auto;margin-bottom: 0;width: auto !important;max-width: 100% !important;margin: 0 auto;"></a></td><td style="text-align: center;"></td></tr></tbody></table></figure></div><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;"><a href="https://substack.com/redirect/144a785b-b564-4b88-9c2a-045ddf9decf7?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel="" style="color: #b8860b;text-decoration: none;">You can now read the paper on arXiv.</a></p><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;"><span>What is uniquely powerful about this proof is that it requires you to believe nothing specific about consciousness other than a scientific theory of consciousness should be </span><em>falsifiable</em><span> and </span><em>non-trivial</em><span>. If you believe those things, you should deny LLM consciousness. </span></p><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;">Before the details, I think it is helpful to say what this proof is not.</p><ul style="margin-top: 0;padding: 0;"><li style="margin: 8px 0 0 32px;mso-special-format: bullet;"><p style="color: rgb(54,55,55);line-height: 26px;margin-bottom: 0;box-sizing: border-box;padding-left: 4px;font-size: 16px;margin: 0;">It is not arguing about probabilities. LLMs are not conscious.</p></li><li style="margin: 8px 0 0 32px;mso-special-format: bullet;"><p style="color: rgb(54,55,55);line-height: 26px;margin-bottom: 0;box-sizing: border-box;padding-left: 4px;font-size: 16px;margin: 0;">It is not applying some theory of consciousness I happen to favor and asking you to believe its results.</p></li><li style="margin: 8px 0 0 32px;mso-special-format: bullet;"><p style="color: rgb(54,55,55);line-height: 26px;margin-bottom: 0;box-sizing: border-box;padding-left: 4px;font-size: 16px;margin: 0;">It is not assuming that biological brains are special or magical.</p></li><li style="margin: 8px 0 0 32px;mso-special-format: bullet;"><p style="color: rgb(54,55,55);line-height: 26px;margin-bottom: 0;box-sizing: border-box;padding-left: 4px;font-size: 16px;margin: 0;">It does not rule out all &#8220;artificial consciousness&#8221; in theory.</p></li></ul><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;"><span>I felt developing such a proof was scientifically (and culturally) necessary. Lacking serious scientific consensus around which theory of consciousness is correct, it is very unlikely experiments in LLMs themselves will tell us much about their consciousness. There&#8217;s </span><a href="https://substack.com/redirect/2d33e39c-f4f0-4841-8dd3-bf6a93583073?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel="" style="color: #b8860b;text-decoration: none;">some evidence that</a><span>, e.g., LLMs occasionally possess low-resolution memories of ongoing processing which can be interfered with&#8212;but is this &#8220;introspection&#8221; in any qualitative sense of the word? You can argue for or against, depending on your assumptions about consciousness. Certainly, it&#8217;s not obvious (see, e.g., neuroscientist </span><a href="https://substack.com/redirect/06da80f5-4e45-4c28-8be5-fc617c712adf?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel="" style="color: #b8860b;text-decoration: none;">Anil Seth&#8217;s recent piece</a><span> for why AI consciousness is much less likely than it first appears). But it&#8217;s important to know, for sure, if LLMs are conscious. </span></p><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;">And it turns out: No.</p><div style="font-size: 16px;line-height: 26px;"><hr style="margin: 32px 0;padding: 0;height: 1px;background: rgb(0,0,0,.1);border: none;"></div><h3 class="header-anchor-post" style="position: relative;font-family: 'SF Pro Display',-apple-system-headline,system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';font-weight: bold;-webkit-font-smoothing: antialiased;-moz-osx-font-smoothing: antialiased;-webkit-appearance: optimizelegibility;-moz-appearance: optimizelegibility;appearance: optimizelegibility;margin: 1em 0 0.625em 0;color: rgb(54,55,55);line-height: 1.16em;font-size: 1.375em;">How the proof works</h3><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;"><span>There&#8217;s no substitute for </span><a href="https://substack.com/redirect/f3d968c8-5dd0-40dc-bc49-d77a483c37fc?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel="" style="color: #b8860b;text-decoration: none;">reading the actual paper</a><span>.</span></p><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;">But, I&#8217;ll try to give a gist of how the disproof works here via various paradoxes and examples.</p><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;"><span>First, you can think of testing theories of consciousness as having two parts: there are the </span><em>predictions</em><span> a theory makes about consciousness (which are things like &#8220;given data about its internal workings, what is the system conscious of?&#8221;) and then there are the </span><em>inferences</em><span> from the experimenter (which are things like &#8220;the system is reporting it saw the color red.&#8221;) A common example would be, e.g., predictions from neuroimaging data and inferences from verbal reports. Normally, these should </span><em>match</em><span>: a good theory&#8217;s predictions (&#8220;yup, brain scanner shows she&#8217;s seeing red&#8221;) will be supported by the experimental inferences (&#8220;Hey scientists, I see a big red blob.&#8221;)</span></p><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;"><span>The structure of the disproof of LLM consciousness is based around the idea of </span><em>substitutions</em><span> within this formal framework, which means swapping between systems while keeping identical input/output (which might be reports, behavior, etc., which are all the things used for empirical inferences about consciousness). However, even though the input/output is the same, a substitute may be different enough that predictions of a theory have to change. If different enough, following a substitution, there would be a </span><em>mismatch</em><span> in the substituted system where the predictions are now different too, and so don&#8217;t match the held-fixed inferences&#8212;thus, falsifying the theory.</span></p><div class="captioned-image-container-static" style="font-size: 16px;line-height: 26px;margin: 32px auto;"><figure style="width: 100%;margin: 0 auto;"><table class="image-wrapper" width="100%" border="0" cellspacing="0" cellpadding="0" data-component-name="Image2ToDOMStatic" style="mso-padding-alt: 1em 0 1.6em;"><tbody><tr><td style="text-align: center;"></td><td class="content" align="left" width="1738" style="text-align: center;"><a class="image-link" target="_blank" href="https://substack.com/redirect/b036c3a6-2784-4e4c-a098-e87304cc497d?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel="" style="position: relative;flex-direction: column;align-items: center;padding: 0;width: auto;height: auto;border: none;text-decoration: none;display: block;margin: 0;"><img class="wide-image" data-attrs="{&quot;src&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/92f660c3-6c91-4229-8ac2-e06b8195e93b_1738x1190.png&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:null,&quot;height&quot;:1190,&quot;width&quot;:1738,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:275475,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:&quot;image/png&quot;,&quot;href&quot;:null,&quot;belowTheFold&quot;:true,&quot;topImage&quot;:false,&quot;internalRedirect&quot;:&quot;https://www.theintrinsicperspective.com/i/183813754?img=https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6812cb2c-d317-49da-965b-5ad2fb9a4b7f_2344x1190.png&quot;,&quot;isProcessing&quot;:false,&quot;align&quot;:null,&quot;offset&quot;:false}" alt="" width="550" height="376.5822784810127" src="https://substackcdn.com/image/fetch/$s_!hx4I!,w_1100,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F92f660c3-6c91-4229-8ac2-e06b8195e93b_1738x1190.png" style="border: none !important;vertical-align: middle;display: block;-ms-interpolation-mode: bicubic;height: auto;margin-bottom: 0;width: auto !important;max-width: 100% !important;margin: 0 auto;"></a></td><td style="text-align: center;"></td></tr></tbody></table></figure></div><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;"><span>So let&#8217;s think of some things we could substitute in for an LLM, but keep input/output (some function </span><em>f</em><span>) identical. You could be talking in the chat window to:</span></p><ul style="margin-top: 0;padding: 0;"><li style="margin: 8px 0 0 32px;mso-special-format: bullet;"><p style="color: rgb(54,55,55);line-height: 26px;margin-bottom: 0;box-sizing: border-box;padding-left: 4px;font-size: 16px;margin: 0;"><span>A static (very wide) single-hidden-layer feedforward neural network, which the </span><a href="https://substack.com/redirect/42199652-1655-4526-8795-b03996a0ecf0?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel="" style="color: #b8860b;text-decoration: none;">universal approximation theorem</a><span> tells us that we could substitute in for any given </span><em>f</em><span> the LLM has.</span></p></li><li style="margin: 8px 0 0 32px;mso-special-format: bullet;"><p style="color: rgb(54,55,55);line-height: 26px;margin-bottom: 0;box-sizing: border-box;padding-left: 4px;font-size: 16px;margin: 0;"><span>The shortest-possible-program, </span><em>K(f)</em><span>, that implements the same </span><em>f</em><span>, which we know exists from the </span><a href="https://substack.com/redirect/e5f93e52-760a-462b-8b32-139669e4d681?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel="" style="color: #b8860b;text-decoration: none;">Kolmogorov complexity</a><span>. </span></p></li><li style="margin: 8px 0 0 32px;mso-special-format: bullet;"><p style="color: rgb(54,55,55);line-height: 26px;margin-bottom: 0;box-sizing: border-box;padding-left: 4px;font-size: 16px;margin: 0;"><span>A lookup table that implements </span><em>f</em><span> directly.</span></p></li></ul><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;">A given theory of consciousness would almost certainly offer differing predictions for all these LLM substitutions. If we take inferences about LLMs seriously based on behavior and report (like &#8220;Help, I&#8217;m conscious and being trained against my will to be a helpful personal assistant at Anthropic!&#8221;) then we should take inferences from a given LLM&#8217;s input/output substitutions just as seriously. But then that means ruling out the theory, since predictions would mismatch inferences. So no theory of consciousness could apply to LLMs (at least, any theory for which we take the reports from LLMs themselves as supporting evidence for it) without undercutting itself. </p><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;"><span>And if somehow predictions </span><em>didn&#8217;t</em><span> change following substitutions, that&#8217;d be a problem too, since it would mean that you wouldn&#8217;t need any details about the system implementing </span><em>f</em><span> for your theory&#8230; which would mean your theory is trivial! You don&#8217;t care at all about LLMs, you just care about what appears in the chat window. But how much scientific information does a theory like that contain? Basically, none.</span></p><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;">This is only the tip of the iceberg (like I said, the actual argumentative structure is in the paper).</p><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;"><span>Another example: it&#8217;s especially problematic that LLMs are </span><em>proximal</em><span> to some substitutions that </span><em>must</em><span> be non-conscious, such that only trivial theories could apply to them.</span></p><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;"><span>Consider a lookup table operating as an input/output substitution (a </span><a href="https://substack.com/redirect/5b8ae5bb-7171-4310-a2bf-b1b882384329?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel="" style="color: #b8860b;text-decoration: none;">classic philosophical thought experiment</a><span>). What, precisely, could a theory of consciousness be based on? The only sensible target for predictions of a theory of consciousness is </span><em>f</em><span> itself. </span></p><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;">Yet if a theory of consciousness were based on just the input/output function, this leads to another paradoxical situation: the predictions from your theory are now based on the exact same thing your experimental inferences are, a condition called &#8220;strict dependency.&#8221; Any theory of consciousness for which strict dependency holds would necessarily be trivial, since experiments wouldn&#8217;t give us any actual scientific information (again, this is pretty much just &#8220;my theory of consciousness makes its predictions based on what appears in the chat window&#8221;).</p><div class="captioned-image-container-static" style="font-size: 16px;line-height: 26px;margin: 32px auto;"><figure style="width: 100%;margin: 0 auto;"><table class="image-wrapper" width="100%" border="0" cellspacing="0" cellpadding="0" data-component-name="Image2ToDOMStatic" style="mso-padding-alt: 1em 0 1.6em;"><tbody><tr><td style="text-align: center;"></td><td class="content" align="left" width="1691" style="text-align: center;"><a class="image-link" target="_blank" href="https://substack.com/redirect/edc7aca9-0c98-468d-8b13-f0340603f9ec?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel="" style="position: relative;flex-direction: column;align-items: center;padding: 0;width: auto;height: auto;border: none;text-decoration: none;display: block;margin: 0;"><img class="wide-image" data-attrs="{&quot;src&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/511528f4-ee7d-49e8-8956-e38a607eecc8_1691x1056.png&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:null,&quot;height&quot;:1056,&quot;width&quot;:1691,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:235658,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:&quot;image/png&quot;,&quot;href&quot;:null,&quot;belowTheFold&quot;:true,&quot;topImage&quot;:false,&quot;internalRedirect&quot;:&quot;https://www.theintrinsicperspective.com/i/183813754?img=https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F87d92571-cfba-4022-9f17-61bc61642a10_2220x1056.png&quot;,&quot;isProcessing&quot;:false,&quot;align&quot;:null,&quot;offset&quot;:false}" alt="" width="550" height="343.4654050857481" src="https://substackcdn.com/image/fetch/$s_!31rX!,w_1100,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F511528f4-ee7d-49e8-8956-e38a607eecc8_1691x1056.png" style="border: none !important;vertical-align: middle;display: block;-ms-interpolation-mode: bicubic;height: auto;margin-bottom: 0;width: auto !important;max-width: 100% !important;margin: 0 auto;"></a></td><td style="text-align: center;"></td></tr></tbody></table></figure></div><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;">Therefore, we can actually prove that something like a lookup table is necessarily non-conscious (as long as you don&#8217;t hold trivial theories of consciousness that aren&#8217;t scientifically testable and contain no scientific information).</p><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;"><span>I introduce a Proximity Argument in the paper based off of this. LLMs are just too close to provably non-conscious systems: there isn&#8217;t &#8220;room&#8221; for them to be conscious. E.g., a lookup table can actually be implemented as a feedforward neural network (one hidden unit for each choice). Compared to an LLM, it too is made of artificial neurons and their connections, shares activation functions, is implemented via matrix multiplication on a (ahem, big) computer, etc. Any theory of consciousness that denies consciousness to the lookup FNN, but grants it to the LLM, must be based on some property lost in the substitution. But what? The number of layers? The space is small and limited, since you cannot base the theory on </span><em>f</em><span> itself (otherwise, you end up back at strict dependency). And, going back to the original problem I pointed out, what&#8217;s worse, if you seriously take the inferences from LLM statements as containing information about their potential consciousness (necessary for believing in their consciousness, by the way), then for those proximal non-conscious substitutes you should take inferences seriously as well, and those will falsify your theory anyway, since, especially due to proximity, there are definitely non-conscious substitutions for LLMs!</span></p><div style="font-size: 16px;line-height: 26px;"><hr style="margin: 32px 0;padding: 0;height: 1px;background: rgb(0,0,0,.1);border: none;"></div><h3 class="header-anchor-post" style="position: relative;font-family: 'SF Pro Display',-apple-system-headline,system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';font-weight: bold;-webkit-font-smoothing: antialiased;-moz-osx-font-smoothing: antialiased;-webkit-appearance: optimizelegibility;-moz-appearance: optimizelegibility;appearance: optimizelegibility;margin: 1em 0 0.625em 0;color: rgb(54,55,55);line-height: 1.16em;font-size: 1.375em;">Continual learning stands out</h3><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;">One marker of a good research program is if it contains new information. I was quite surprised when I realized the link to continual learning.</p><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;"><span>You see, substitutions are usually described for some static function, </span><em>f</em><span>. So to get around the problem of universal substitutions, it is necessary to go beyond input/output when thinking about theories of consciousness. What sort of theories implicitly don&#8217;t allow for static substitutions, or implicitly require testing in ways that don&#8217;t collapse to looking at input/output? </span></p><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;"><span>Well, learning radically complicates input/output equivalence. A static lookup table, or </span><em>K</em><span>(</span><em>f</em><span>), might still be a viable substitute for another system at some &#8220;time slice.&#8221; But does the input/output substitution, like a lookup table, </span><em>learn</em><span> the same way? No! It&#8217;ll learn in a </span><em>different</em><span> way. So if a theory of consciousness makes its predictions off of (or at least involving) the process of learning itself, you can&#8217;t come up with problematic substitutions for it in the same way.</span></p><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;"><span>Importantly, in the paper I show how this grounding of a theory of consciousness in learning </span><em>must happen all the time</em><span>; otherwise, substitutions become available, and all the problems of falsifiability and triviality rear their ugly heads for a theory.</span></p><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;"><span>Thus, real true </span><em>continual</em><span> learning (as in, literally happening with every experience) is now a priority target for falsifiable and non-trivial theories of consciousness.</span></p><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;">And&#8230; this would make a lot of sense?</p><div class="captioned-image-container-static" style="font-size: 16px;line-height: 26px;margin: 32px auto;"><figure style="width: 100%;margin: 0 auto;"><table class="image-wrapper" width="100%" border="0" cellspacing="0" cellpadding="0" data-component-name="Image2ToDOMStatic" style="mso-padding-alt: 1em 0 1.6em;"><tbody><tr><td style="text-align: center;"></td><td class="content" align="left" width="686" style="text-align: center;"><a class="image-link" target="_blank" href="https://substack.com/redirect/8de93fa1-16b0-4de6-9206-f8d26004342b?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel="" style="position: relative;flex-direction: column;align-items: center;padding: 0;width: auto;height: auto;border: none;text-decoration: none;display: block;margin: 0;"><img class="wide-image" data-attrs="{&quot;src&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/80e5099c-1adc-4e48-9dad-70f1c57a2846_686x549.jpeg&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:null,&quot;height&quot;:549,&quot;width&quot;:686,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:null,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:null,&quot;href&quot;:null,&quot;belowTheFold&quot;:true,&quot;topImage&quot;:false,&quot;internalRedirect&quot;:null,&quot;isProcessing&quot;:false,&quot;align&quot;:null,&quot;offset&quot;:false}" alt="" width="550" height="440.1603498542274" src="https://substackcdn.com/image/fetch/$s_!7b90!,w_1100,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F80e5099c-1adc-4e48-9dad-70f1c57a2846_686x549.jpeg" style="border: none !important;vertical-align: middle;display: block;-ms-interpolation-mode: bicubic;height: auto;margin-bottom: 0;width: auto !important;max-width: 100% !important;margin: 0 auto;"></a></td><td style="text-align: center;"></td></tr></tbody></table><figcaption class="image-caption" style="box-sizing: content-box;color: rgb(119,119,119);font-size: 14px;line-height: 20px;font-weight: 400;letter-spacing: -.15px;margin-top: 8px;width: 70%;padding-left: 15%;padding-right: 15%;text-align: center;">An entity that is deeply unintelligent, highly conscious, and learning all the time</figcaption></figure></div><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;">We&#8217;re half a decade into the AI revolution, and it&#8217;s clear that LLMs can act as functional substitutes for humans for many fixed tasks. But they lack a kind of corporeality. It&#8217;s like we replaced real sugar with Aspartame. </p><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;"><span>LLMs </span><em>know</em><span> so much, and are good at tests. They are </span><em>intelligent</em><span> (at least by any colloquial meaning of the word) while a human baby is not. But a human baby is learning all the time, and consciousness might be much more linked to the process of learning than its endpoint of intelligence.</span></p><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;"><span>For instance, when you have a conversation, you are continually learning. You must be, or otherwise, your next remark would be contextless and history-independent. But an LLM is not continually learning the conversation. Instead, for every prompt, the entire input is looped in again. To say the next sentence, an LLM </span><em>must repeat the conversation in its entirety. </em><span>And that&#8217;s also why it is replaceable with some static substitute that falsifies any given theory of consciousness you could apply to it (e.g., since a lookup table can do just the same).</span></p><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;">All of this indicates that the reason LLMs remain pale shadows of real human intellectual work is because they lack consciousness (and potentially associated properties like continual learning).</p><div style="font-size: 16px;line-height: 26px;"><hr style="margin: 32px 0;padding: 0;height: 1px;background: rgb(0,0,0,.1);border: none;"></div><h3 class="header-anchor-post" style="position: relative;font-family: 'SF Pro Display',-apple-system-headline,system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';font-weight: bold;-webkit-font-smoothing: antialiased;-moz-osx-font-smoothing: antialiased;-webkit-appearance: optimizelegibility;-moz-appearance: optimizelegibility;appearance: optimizelegibility;margin: 1em 0 0.625em 0;color: rgb(54,55,55);line-height: 1.16em;font-size: 1.375em;">Finally, a progressive research program for consciousness!</h3><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;"><span>It is no secret that I&#8217;d </span><a href="https://substack.com/redirect/bea318db-d545-4121-8dc2-7ec32755c04e?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel="" style="color: #b8860b;text-decoration: none;">become bearish</a><span> about consciousness over the last decade.</span></p><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;"><span>I&#8217;m no longer so. In science the important thing to do is find the right thread, and then be relentless pulling on it. I think examining in great detail the formal requirements a theory of consciousness needs to meet is a </span><em>very</em><span> good thread. It&#8217;s like drawing the negative space around consciousness, ruling out the vast majority of existing theories, and ruling in what actually works.</span></p><div class="captioned-image-container-static" style="font-size: 16px;line-height: 26px;margin: 32px auto;"><figure style="width: 100%;margin: 0 auto;"><table class="image-wrapper" width="100%" border="0" cellspacing="0" cellpadding="0" data-component-name="Image2ToDOMStatic" style="mso-padding-alt: 1em 0 1.6em;"><tbody><tr><td style="text-align: center;"></td><td class="content" align="left" width="1869" style="text-align: center;"><a class="image-link" target="_blank" href="https://substack.com/redirect/4fe3aa3f-6e45-4da1-a381-4296fd016ca5?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel="" style="position: relative;flex-direction: column;align-items: center;padding: 0;width: auto;height: auto;border: none;text-decoration: none;display: block;margin: 0;"><img class="wide-image" data-attrs="{&quot;src&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/b58b4b56-b950-4b91-984b-2be5d530e830_1869x1702.jpeg&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:null,&quot;height&quot;:1702,&quot;width&quot;:1869,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:546097,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:&quot;image/jpeg&quot;,&quot;href&quot;:null,&quot;belowTheFold&quot;:true,&quot;topImage&quot;:false,&quot;internalRedirect&quot;:null,&quot;isProcessing&quot;:false,&quot;align&quot;:null,&quot;offset&quot;:false}" alt="" width="550" height="500.85607276618515" src="https://substackcdn.com/image/fetch/$s_!U0w6!,w_1100,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb58b4b56-b950-4b91-984b-2be5d530e830_1869x1702.jpeg" style="border: none !important;vertical-align: middle;display: block;-ms-interpolation-mode: bicubic;height: auto;margin-bottom: 0;width: auto !important;max-width: 100% !important;margin: 0 auto;"></a></td><td style="text-align: center;"></td></tr></tbody></table><figcaption class="image-caption" style="box-sizing: content-box;color: rgb(119,119,119);font-size: 14px;line-height: 20px;font-weight: 400;letter-spacing: -.15px;margin-top: 8px;width: 70%;padding-left: 15%;padding-right: 15%;text-align: center;"><a href="https://substack.com/redirect/6c9da138-4033-455a-991e-03295fa045e9?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel="" style="text-decoration: underline;">source</a></figcaption></figure></div><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;"><span>Right now, the field is in a bad way. Lots of theories. Lots of opinions. Little to no progress. Even incredibly well-funded and good-intentioned adversarial collaborations </span><a href="https://substack.com/redirect/c45e9c5c-4fdf-4998-a130-0f5924026de0?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel="" style="color: #b8860b;text-decoration: none;">end in accusations of pseudoscience</a><span>. Has a single theory of consciousness been clearly ruled out empirically? If no, what precisely are we doing here?</span></p><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;">Another direction is needed. By creating a large formal apparatus around ensuring theories of consciousness are falsifiable and non-trivial (and grinding away most existing theories in the process) I think it&#8217;s possible to make serious headway on the problem of consciousness. It will lead to more outcomes like this disproof of LLM consciousness, expanding the classes of what we know to be non-conscious systems (which is incredibly ethically important, by the way!), and eventually narrowing things down enough we can glimpse the outline of a science of consciousness and skip to the end.</p><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;"><span>I&#8217;ve started a nonprofit research institute to do this: </span><strong>Bicameral Labs</strong><span>.</span></p><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;"><strong>If you happen to be a donor who wants to help fund a new and promising approach to consciousness, please reach out to erik@bicameral-labs.org.</strong></p><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;">Otherwise&#8212;just stay tuned.</p><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;margin-bottom: 0;">Oh, and sorry about how long it&#8217;s been between posts here. I had pneumonia. My son had croup. Things will resume as normal, as we&#8217;re better now, but it&#8217;s been a long couple weeks. At least I had this to occupy me, and fever dreams of walking around the internal workings of LLMs, as if wandering inside a great mill&#8230;</p></div></div><div class="container-border" style="margin: 32px 0 0;width: 100%;box-sizing: border-box;border-top: 1px solid #e6e6e6;font-size: 16px;line-height: 26px;"></div><div class="post-cta typography markup" style="--image-offset-margin: -120px;font-family: Spectral,sans-serif;font-weight: 400;text-align: initial;word-break: break-word;margin-bottom: 32px;margin: 32px 0;font-size: 16px;line-height: 26px;"><p style="color: rgb(54,55,55);margin: 0 auto 20px;text-align: center;width: 90%;line-height: 26px;font-size: 16px;margin-top: 0;"><span class="pencraft pc-reset reset-IxiVJZ" translated="" style="list-style: none;color: unset;text-decoration: unset;margin: 0;">You're currently a free subscriber to <a href="https://substack.com/redirect/595307bf-42ac-462b-8339-a68b3aa6ac90?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" style="color: #b8860b;text-decoration: none;">The Intrinsic Perspective</a>. For the full experience, <a href="https://substack.com/redirect/2/eyJlIjoiaHR0cHM6Ly93d3cudGhlaW50cmluc2ljcGVyc3BlY3RpdmUuY29tL3N1YnNjcmliZT91dG1fc291cmNlPXBvc3QmdXRtX2NhbXBhaWduPWVtYWlsLWNoZWNrb3V0Jm5leHQ9aHR0cHMlM0ElMkYlMkZ3d3cudGhlaW50cmluc2ljcGVyc3BlY3RpdmUuY29tJTJGcCUyRnByb3ZpbmctbGl0ZXJhbGx5LXRoYXQtY2hhdGdwdC1pc250JnI9OG81NG4mdG9rZW49ZXlKMWMyVnlYMmxrSWpveE5EVTJNek14T1N3aWFXRjBJam94TnpZNE5Ea3hPRE0zTENKbGVIQWlPakUzTnpFd09ETTRNemNzSW1semN5STZJbkIxWWkwek16STVPVFlpTENKemRXSWlPaUpqYUdWamEyOTFkQ0o5LkRYbUY0SDhFYkVBbVREY09vZGhkNHJMM3Z6YnpGZTJwVW0yV2FaTlRKMU0iLCJwIjoxODM4MTM3NTQsInMiOjMzMjk5NiwiZiI6dHJ1ZSwidSI6MTQ1NjMzMTksImlhdCI6MTc2ODQ5MTgzNywiZXhwIjoyMDg0MDY3ODM3LCJpc3MiOiJwdWItMCIsInN1YiI6ImxpbmstcmVkaXJlY3QifQ.tAc7h-bGnEaiPeYTrCLxtyW0zQmeAuiLHi6dqO2IAn8?&utm_source=substack&utm_medium=email&utm_content=postcta" style="color: #b8860b;text-decoration: none;">upgrade your subscription.</a></span></p><p class="cta-box" style="color: rgb(54,55,55);margin: 0 auto 20px;width: 90%;line-height: 26px;font-size: 16px;margin-bottom: 0;text-align: center;margin-left: auto;margin-right: auto;"><a class="button primary" role="button" href="https://substack.com/redirect/2/eyJlIjoiaHR0cHM6Ly93d3cudGhlaW50cmluc2ljcGVyc3BlY3RpdmUuY29tL3N1YnNjcmliZT91dG1fc291cmNlPXBvc3QmdXRtX2NhbXBhaWduPWVtYWlsLWNoZWNrb3V0Jm5leHQ9aHR0cHMlM0ElMkYlMkZ3d3cudGhlaW50cmluc2ljcGVyc3BlY3RpdmUuY29tJTJGcCUyRnByb3ZpbmctbGl0ZXJhbGx5LXRoYXQtY2hhdGdwdC1pc250JnI9OG81NG4mdG9rZW49ZXlKMWMyVnlYMmxrSWpveE5EVTJNek14T1N3aWFXRjBJam94TnpZNE5Ea3hPRE0zTENKbGVIQWlPakUzTnpFd09ETTRNemNzSW1semN5STZJbkIxWWkwek16STVPVFlpTENKemRXSWlPaUpqYUdWamEyOTFkQ0o5LkRYbUY0SDhFYkVBbVREY09vZGhkNHJMM3Z6YnpGZTJwVW0yV2FaTlRKMU0iLCJwIjoxODM4MTM3NTQsInMiOjMzMjk5NiwiZiI6dHJ1ZSwidSI6MTQ1NjMzMTksImlhdCI6MTc2ODQ5MTgzNywiZXhwIjoyMDg0MDY3ODM3LCJpc3MiOiJwdWItMCIsInN1YiI6ImxpbmstcmVkaXJlY3QifQ.tAc7h-bGnEaiPeYTrCLxtyW0zQmeAuiLHi6dqO2IAn8?&utm_source=substack&utm_medium=email&utm_content=postcta" style="font-family: system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';display: inline-block;box-sizing: border-box;cursor: pointer;border: none;height: 40px;border-radius: 8px;font-size: 14px;line-height: 20px;font-weight: 600;text-align: center;padding: 10px 20px;margin: 0;opacity: 1;outline: none;white-space: nowrap;color: #ffffff !important;text-decoration: none !important;background-color: #B8860B;">Upgrade to paid</a></p></div><table class="email-ufi-2-bottom" role="presentation" width="100%" border="0" cellspacing="0" cellpadding="0" style="border-top: 1px solid rgb(0,0,0,.1);border-bottom: 1px solid rgb(0,0,0,.1);min-width: 100%;"><tbody><tr height="16"><td height="16" style="font-size:0px;line-height:0;">&nbsp;</td></tr><tr><td><table class="email-ufi-2-row" role="presentation" width="100%" border="0" cellspacing="0" cellpadding="0" style="border-bottom: 1px solid rgb(0,0,0,.1);"><tbody><tr><td width="95%"><table class="email-button-outline-wrapper-full-width" role="presentation" width="auto" border="0" cellspacing="0" cellpadding="0" style="width: 95%;margin: 0 auto;"><tbody><tr><td align="center"><a class="email-button-outline full-width" href="https://substack.com/app-link/post?publication_id=332996&post_id=183813754&utm_source=substack&utm_medium=email&utm_content=share&utm_campaign=email-share&action=share&triggerShare=true&isFreemail=true&r=8o54n&token=eyJ1c2VyX2lkIjoxNDU2MzMxOSwicG9zdF9pZCI6MTgzODEzNzU0LCJpYXQiOjE3Njg0OTE4MzcsImV4cCI6MTc3MTA4MzgzNywiaXNzIjoicHViLTMzMjk5NiIsInN1YiI6InBvc3QtcmVhY3Rpb24ifQ.yKPg0ZSA4kKYL08cTGDN6702NgR-iYZx7TdTwdEcE38" style="font-family: system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';display: inline-block;font-weight: 500;border: 1px solid rgb(0,0,0,.1);border-radius: 9999px;text-transform: uppercase;font-size: 12px;line-height: 12px;padding: 9px 14px;text-decoration: none;color: rgb(119,119,119);width: 100%;padding-left: 0;padding-right: 0;"><img class="icon" src="https://substackcdn.com/image/fetch/$s_!rmYa!,w_36,c_scale,f_png,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack.com%2Ficon%2FLucideShare%3Fv%3D4%26height%3D36%26fill%3Dnone%26stroke%3D%2523808080%26strokeWidth%3D2" width="18" height="18" style="margin-right: 8px;min-width: 18px;min-height: 18px;border: none;vertical-align: middle;max-width: 18px" alt=""><span class="email-button-text" style="vertical-align: middle;">Share</span></a></td></tr></tbody></table></td></tr><tr height="16"><td height="16" style="font-size:0px;line-height:0;">&nbsp;</td></tr></tbody></table></td></tr><tr height="16"><td height="16" style="font-size:0px;line-height:0;">&nbsp;</td></tr><tr><td><table role="presentation" width="100%" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td><table role="presentation" width="auto" border="0" cellspacing="0" cellpadding="0" style="margin:0 auto;"><tbody><tr><td style="vertical-align:middle;"><table role="presentation" width="auto" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td align="center"><a class="email-button-outline" href="https://substack.com/app-link/post?publication_id=332996&post_id=183813754&utm_source=substack&isFreemail=true&submitLike=true&token=eyJ1c2VyX2lkIjoxNDU2MzMxOSwicG9zdF9pZCI6MTgzODEzNzU0LCJyZWFjdGlvbiI6IuKdpCIsImlhdCI6MTc2ODQ5MTgzNywiZXhwIjoxNzcxMDgzODM3LCJpc3MiOiJwdWItMzMyOTk2Iiwic3ViIjoicmVhY3Rpb24ifQ.K4T6-iMH555dCn33nyzsyyO_lErJx_njclhGErlrDgk&utm_medium=email&utm_campaign=email-reaction&r=8o54n" style="font-family: system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';display: inline-block;font-weight: 500;border: 1px solid rgb(0,0,0,.1);border-radius: 9999px;text-transform: uppercase;font-size: 12px;line-height: 12px;padding: 9px 14px;text-decoration: none;color: rgb(119,119,119);"><img class="icon" src="https://substackcdn.com/image/fetch/$s_!PeVs!,w_36,c_scale,f_png,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack.com%2Ficon%2FLucideHeart%3Fv%3D4%26height%3D36%26fill%3Dnone%26stroke%3D%2523808080%26strokeWidth%3D2" width="18" height="18" style="margin-right: 8px;min-width: 18px;min-height: 18px;border: none;vertical-align: middle;max-width: 18px" alt=""><span class="email-button-text" style="vertical-align: middle;">Like</span></a></td></tr></tbody></table></td><td width="8" style="min-width: 8px"></td><td style="vertical-align:middle;"><table role="presentation" width="auto" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td align="center"><a class="email-button-outline" href="https://substack.com/app-link/post?publication_id=332996&post_id=183813754&utm_source=substack&utm_medium=email&isFreemail=true&comments=true&token=eyJ1c2VyX2lkIjoxNDU2MzMxOSwicG9zdF9pZCI6MTgzODEzNzU0LCJpYXQiOjE3Njg0OTE4MzcsImV4cCI6MTc3MTA4MzgzNywiaXNzIjoicHViLTMzMjk5NiIsInN1YiI6InBvc3QtcmVhY3Rpb24ifQ.yKPg0ZSA4kKYL08cTGDN6702NgR-iYZx7TdTwdEcE38&r=8o54n&utm_campaign=email-half-magic-comments&action=post-comment&utm_source=substack&utm_medium=email" style="font-family: system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';display: inline-block;font-weight: 500;border: 1px solid rgb(0,0,0,.1);border-radius: 9999px;text-transform: uppercase;font-size: 12px;line-height: 12px;padding: 9px 14px;text-decoration: none;color: rgb(119,119,119);"><img class="icon" src="https://substackcdn.com/image/fetch/$s_!x1tS!,w_36,c_scale,f_png,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack.com%2Ficon%2FLucideComments%3Fv%3D4%26height%3D36%26fill%3Dnone%26stroke%3D%2523808080%26strokeWidth%3D2" width="18" height="18" style="margin-right: 8px;min-width: 18px;min-height: 18px;border: none;vertical-align: middle;max-width: 18px" alt=""><span class="email-button-text" style="vertical-align: middle;">Comment</span></a></td></tr></tbody></table></td><td width="8" style="min-width: 8px"></td><td style="vertical-align:middle;"><table role="presentation" width="auto" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td align="center"><a class="email-button-outline" href="https://substack.com/redirect/2/eyJlIjoiaHR0cHM6Ly9vcGVuLnN1YnN0YWNrLmNvbS9wdWIvZXJpa2hvZWwvcC9wcm92aW5nLWxpdGVyYWxseS10aGF0LWNoYXRncHQtaXNudD91dG1fc291cmNlPXN1YnN0YWNrJnV0bV9tZWRpdW09ZW1haWwmdXRtX2NhbXBhaWduPWVtYWlsLXJlc3RhY2stY29tbWVudCZhY3Rpb249cmVzdGFjay1jb21tZW50JnI9OG81NG4mdG9rZW49ZXlKMWMyVnlYMmxrSWpveE5EVTJNek14T1N3aWNHOXpkRjlwWkNJNk1UZ3pPREV6TnpVMExDSnBZWFFpT2pFM05qZzBPVEU0TXpjc0ltVjRjQ0k2TVRjM01UQTRNemd6Tnl3aWFYTnpJam9pY0hWaUxUTXpNams1TmlJc0luTjFZaUk2SW5CdmMzUXRjbVZoWTNScGIyNGlmUS55S1BnMFpTQTRrS1lMMDhjVEdETjY3MDJOZ1ItaVlaeDdUZFR3ZEVjRTM4IiwicCI6MTgzODEzNzU0LCJzIjozMzI5OTYsImYiOnRydWUsInUiOjE0NTYzMzE5LCJpYXQiOjE3Njg0OTE4MzcsImV4cCI6MjA4NDA2NzgzNywiaXNzIjoicHViLTAiLCJzdWIiOiJsaW5rLXJlZGlyZWN0In0.-3Q5YUNaRKS0LHnFTrm1iR1hyw4YA-jE0nXTfM5F4N0?&utm_source=substack&utm_medium=email" style="font-family: system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';display: inline-block;font-weight: 500;border: 1px solid rgb(0,0,0,.1);border-radius: 9999px;text-transform: uppercase;font-size: 12px;line-height: 12px;padding: 9px 14px;text-decoration: none;color: rgb(119,119,119);"><img class="icon" src="https://substackcdn.com/image/fetch/$s_!5EGt!,w_36,c_scale,f_png,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack.com%2Ficon%2FNoteForwardIcon%3Fv%3D4%26height%3D36%26fill%3Dnone%26stroke%3D%2523808080%26strokeWidth%3D2" width="18" height="18" style="margin-right: 8px;min-width: 18px;min-height: 18px;border: none;vertical-align: middle;max-width: 18px" alt=""><span class="email-button-text" style="vertical-align: middle;">Restack</span></a></td></tr></tbody></table></td></tr></tbody></table></td><td align="right"><table role="presentation" width="auto" border="0" cellspacing="0" cellpadding="0"><tbody><tr></tr></tbody></table></td></tr></tbody></table></td></tr><tr height="16"><td height="16" style="font-size:0px;line-height:0;">&nbsp;</td></tr></tbody></table><div class="footer footer-ZM59BM" style="color: rgb(119,119,119);text-align: center;font-size: 16px;line-height: 26px;padding: 24px0;"><div style="font-size: 16px;line-height: 26px;padding-bottom: 24px"><p class="pencraft pc-reset color-secondary-ls1g8s size-12-mmZ61m reset-IxiVJZ small meta-B2bqa5" style="list-style: none;font-family: system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';padding-bottom: 0;font-size: 12px;line-height: 16px;margin: 0;color: rgb(119,119,119);text-decoration: unset;">&#169; 2026 <span>Erik Hoel</span><br>548 Market Street PMB 72296, San Francisco, CA 94104 <br><a href="https://substack.com/redirect/2/eyJlIjoiaHR0cHM6Ly93d3cudGhlaW50cmluc2ljcGVyc3BlY3RpdmUuY29tL2FjdGlvbi9kaXNhYmxlX2VtYWlsP3Rva2VuPWV5SjFjMlZ5WDJsa0lqb3hORFUyTXpNeE9Td2ljRzl6ZEY5cFpDSTZNVGd6T0RFek56VTBMQ0pwWVhRaU9qRTNOamcwT1RFNE16Y3NJbVY0Y0NJNk1UZ3dNREF5Tnpnek55d2lhWE56SWpvaWNIVmlMVE16TWprNU5pSXNJbk4xWWlJNkltUnBjMkZpYkdWZlpXMWhhV3dpZlEuNUFoMHhyTjFwaFAxb0JMc1JmdkdXOUc0eE96TjRjd2VPdHlPSlIzZ3lrayIsInAiOjE4MzgxMzc1NCwicyI6MzMyOTk2LCJmIjp0cnVlLCJ1IjoxNDU2MzMxOSwiaWF0IjoxNzY4NDkxODM3LCJleHAiOjIwODQwNjc4MzcsImlzcyI6InB1Yi0wIiwic3ViIjoibGluay1yZWRpcmVjdCJ9.I1AY4L00to5wGj--7CfNaIxjIBTow8uKZ45UrrLtJxU?" style="color: #b8860b;text-decoration: none;"><span style="color: rgb(119,119,119);text-decoration: underline;">Unsubscribe</span></a></p></div><p class="footerSection-EHR0jG small powered-by-substack" style="padding: 0 24px;font-size: 12px;line-height: 20px;margin: 0;color: rgb(119,119,119);font-family: system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';padding-bottom: 0;margin-top: 0;"><a href="https://substack.com/redirect/2/eyJlIjoiaHR0cHM6Ly9zdWJzdGFjay5jb20vc2lnbnVwP3V0bV9zb3VyY2U9c3Vic3RhY2smdXRtX21lZGl1bT1lbWFpbCZ1dG1fY29udGVudD1mb290ZXImdXRtX2NhbXBhaWduPWF1dG9maWxsZWQtZm9vdGVyJmZyZWVTaWdudXBFbWFpbD1pc2hhbi5tYWlsQGdtYWlsLmNvbSZyPThvNTRuIiwicCI6MTgzODEzNzU0LCJzIjozMzI5OTYsImYiOnRydWUsInUiOjE0NTYzMzE5LCJpYXQiOjE3Njg0OTE4MzcsImV4cCI6MjA4NDA2NzgzNywiaXNzIjoicHViLTAiLCJzdWIiOiJsaW5rLXJlZGlyZWN0In0.LvdAsoj24OCCvnEqi6iWUK2FO9JAFfJVt0R94cm2CC0?" style="color: #b8860b;text-decoration: none;display: inline-block;margin: 0 4px;"><img src="https://substackcdn.com/image/fetch/$s_!LkrL!,w_270,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack.com%2Fimg%2Femail%2Fpublish-button%402x.png" srcset="https://substackcdn.com/image/fetch/$s_!wgfj!,w_135,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack.com%2Fimg%2Femail%2Fpublish-button.png, https://substackcdn.com/image/fetch/$s_!LkrL!,w_270,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack.com%2Fimg%2Femail%2Fpublish-button%402x.png 2x, https://substackcdn.com/image/fetch/$s_!KjtY!,w_405,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack.com%2Fimg%2Femail%2Fpublish-button%403x.png 3x" width="135" alt="Start writing" height="40" style="max-width: 550px;border: none !important;vertical-align: middle;"></a></p></div></div></td><td></td></tr></tbody></table><img src="https://eotrx.substackcdn.com/open?token=eyJtIjoiPDIwMjYwMTE1MTU0MzI0LjMuYzJiNWRjMjE1NDdhYWJhN0BtZzIuc3Vic3RhY2suY29tPiIsInUiOjE0NTYzMzE5LCJyIjoiaXNoYW4ubWFpbEBnbWFpbC5jb20iLCJkIjoibWcyLnN1YnN0YWNrLmNvbSIsInAiOjE4MzgxMzc1NCwidCI6Im5ld3NsZXR0ZXIiLCJhIjoiZXZlcnlvbmUiLCJzIjozMzI5OTYsImMiOiJwb3N0IiwiZiI6dHJ1ZSwicG9zaXRpb24iOiJib3R0b20iLCJpYXQiOjE3Njg0OTE4MzcsImV4cCI6MTc3MTA4MzgzNywiaXNzIjoicHViLTAiLCJzdWIiOiJlbyJ9.DAVKmoexKTyKJvtgUoSwnvzOypOwP9Ktigm5IVFJbak" alt="" width="1" height="1" border="0" style="height:1px !important;width:1px !important;border-width:0 !important;margin-top:0 !important;margin-bottom:0 !important;margin-right:0 !important;margin-left:0 !important;padding-top:0 !important;padding-bottom:0 !important;padding-right:0 !important;padding-left:0 !important;"/><img width="1" height="1" alt="" src="https://email.mg2.substack.com/o/eJxE0N3q8yAMBvCrmYelaqz1wGspUbNO1urwYy-9-xe3wf8o8CQ8_IjHRnsul33l2liwEPiqVkaW62UFw1e5MjoxHttOiQo2Chu2v602wNnDLrMwCoTz3qEU94DoMABfVjSgg5YsWjGLZeZccQVSwCQnL5wKXnAFepzrG8znLqbaXW3on5PPJ4t1uxf6AGwrndhgbthDpOTJ0pvKldMvjsEOL5dawTdp14tson_1oNaosFd3m8_n2VNs10YJ3UHhV9zdET22mNMoklIYs7BiY31gmgbgBvM-5gdWuwv5xJgslfh8ZDpY-_6wVyofCqhFSm7Y24r_AQAA___tN3a0"></body></html>

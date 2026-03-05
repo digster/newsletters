@@ -1,0 +1,119 @@
+---
+subject: "34 Lessons from 34 Years"
+from: "\"Sahil Bloom's Curiosity Chronicle\" <sahil@sahilbloom.com>"
+to: ""
+date: 2025-01-08 14:04:34
+labels: ["CATEGORY_PERSONAL", "INBOX", "Sahil Bloom", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_1989028747625928812", "UNREAD"]
+---
+34 Life Lessons from 34 Years
+read and listen on [sahilbloom.com](https://click.convertkit-mail4.com/8kugoeez04coh2erpx3c0fkw73g99u3/m2h7h5h8x90kkrcm/aHR0cHM6Ly93d3cuc2FoaWxibG9vbS5jb20vbmV3c2xldHRlci8zNC1saWZlLWxlc3NvbnMtZnJvbS0zNC15ZWFycw==)
+read time 9 minutes
+Welcome to The Curiosity Chronicle, a weekly newsletter where I provide actionable ideas to help you build a high-performing, healthy, wealthy life.
+Special Offer: Order a physical copy of my book and reply to this email with the receipt and I'll send you my 2025 Annual Planning Workbook and a recording of the Personal Annual Review workshop I hosted last month.
+Today at a Glance:
+- I just turned 34. Every year, I use my birthday as a moment for reflection, an opportunity to zoom out and consider what I've learned along the way.
+- I hope you see yourself in one or more of these lessons, that they connect and spark a positive ripple in your life.
+- This piece shares 34 life lessons from my 34 years.
+|
+Transform Your Gut, Transform Your Life with Pu’er Tea from [Pique](https://click.convertkit-mail4.com/8kugoeez04coh2erpx3c0fkw73g99u3/e0hph7h0zew9ppt8/aHR0cHM6Ly9raXRhZHMubGluay8wMTA4MjUtODkzMjU4)
+When I need to reset my body and mind, just one cup of[ Pu’er Tea](https://click.convertkit-mail4.com/8kugoeez04coh2erpx3c0fkw73g99u3/e0hph7h0zew9ppt8/aHR0cHM6Ly9raXRhZHMubGluay8wMTA4MjUtODkzMjU4) from today's partner, [Pique](https://click.convertkit-mail4.com/8kugoeez04coh2erpx3c0fkw73g99u3/e0hph7h0zew9ppt8/aHR0cHM6Ly9raXRhZHMubGluay8wMTA4MjUtODkzMjU4) is all it takes to transform how I feel. Pu’er isn’t just tea—it’s a cheat code to unlocking vibrant health, better digestion, and steady energy, so I can feel balanced every day.
+After lunch, Black Pu’er supports digestion and leaves me feeling light. Its unique fermentation process delivers probiotics, prebiotics, and polyphenols that restore gut balance, boost metabolism, and enhance overall vitality.
+With Pique’s commitment to purity, I know I’m getting the best. Their Cold Extraction Technology™ preserves every nutrient, and their teas are quadruple toxin-screened. Plus, they dissolve instantly—no steeping, no mess, just effortless wellness.
+Pique is offering 20% off their Pu’er Teas + a free starter kit (frother & glass beaker) to help you get started. Don’t miss this chance to reset your gut and feel your best!
+|
+34 Life Lessons from 34 Years
+On Sunday, I turned 34 years old.
+Every year, I use my birthday as a moment for reflection, an opportunity to zoom out and consider what I've learned along the way.
+Historically, this list of life lessons was just for me—a private accounting of my journey, growth, missteps, and failures.
+But this year, I'd like to share it with you. I hope you see yourself in one or more of these lessons, that they connect and spark a positive ripple in your life.
+Here are 34 life lessons from my 34 years...
+1. You'll achieve much more by being consistently reliable than by being occasionally extraordinary.
+You can get pretty damn far in life by just being someone that people can count on to show up and do the work.
+2. You're one year of focus away from people saying you got lucky.
+Most people overestimate what they can do in a day and underestimate what they can do in a year. Your entire life can change in one year. Not ten, not five, not three. One. One year of focused, daily effort. You're always just one year away from a dramatically different life. The transformation won't be easy, but it is possible.
+3. The worst prison in the world is having the talent and intelligence to achieve something great but lacking the courage to go out and do it.
+There is someone out there living the life you want simply because they took action and you didn’t. They aren't smarter than you. They aren't more skilled than you. They aren't more resourceful than you. They just acted when you didn't. Think about that.
+4. There's nothing more dangerous than the person who shows up every single day even when the rewards are uncertain.
+The one who can tolerate the most uncertainty is the one who will eventually win.
+5. Preparation always beats planning.
+Planning is based on the expectation of order. Preparation is based on the expectation of chaos. Plan for order and you'll be destroyed by chaos. Prepare for chaos and you'll thrive in any condition.
+6. A lot of problems are solved by waking up early and working out.
+Waking up early is as close to a life cheat code as you will find. It requires intense discipline, and it creates evidence of your power and control over your world. That bleeds into every other area of life. Confidence is built, not born.
+7. The worst decisions in life are made when you allow your head to talk you into something when your gut already said no.
+Rule for life: Never let your head outsmart your gut.
+8. The answers you seek are found in the actions you avoid.
+Every single thing you want in life is on the other side of something you don't want to do. The body you seek is found in the workouts you skip. The relationships you seek are found in the hard conversations you delay. The success you seek is found in the hours of execution you avoid. The answer is found in the action. Remember that.
+9. It's all on you.
+No one is coming to save you. No one will fix your problems. No one will change your mindsets. No one will hand you the things you want in life. It's just you. It's all on you. There's a power in that.
+10. Later you'll be dead.
+Life is filled with laters. I'll spend more time with my kids later. I'll find time for my health later. I'll have more freedom later. The brutal reality: Later is just another word for never. Most of the things you say you'll do later won't be possible by the time you claim you'll do them. Your kids won't be five years old later. Your health won't be there later. Your life won't suddenly be built for freedom and enjoyment later. Either design it into your life now or live with regret later.
+11. "Be realistic" is the single worst piece of advice.
+It’s impossible to fly with your feet on the ground. It’s not up to anyone else to decide what's possible for you or your life. Sometimes, you need to be unrealistic.
+12. Anxiety loves idleness.
+Stress and anxiety feed on idleness. When you take action, you starve them of the oxygen they need to survive. When in doubt, act.
+13. You are the sum total of the actions you take.
+You may have positive thoughts and intentions, but your actions are all that matters in the end. And no matter what anyone tells you, your actions are always within your control. You get to choose your next action. If it isn't one you're proud of, that's on you.
+14. Choose your hard.
+It's hard to build deep, meaningful relationships. It's also hard to live on the surface with everyone. It's hard to build the body you want. It's also hard to see your body atrophy from lack of use. It's hard to build a life of purpose. It's also hard to live without one. Choose your hard.
+15. No one has it all figured out.
+No one knows what they're doing. Even the people you admire. Everyone is stumbling along. Some are just willing to stumble enough that they find their way into something magical.
+16. You don't plan your future. You plan your actions today, and those actions create your future.
+A question to reset your focus: If I repeated this day for 100 straight days, would my life be better or worse? Planning your future can quickly spiral into procrastination in disguise. Focus on the actions in the present and let the future take care of itself.
+17. The people you choose to surround yourself with will determine your outcomes.
+The Pygmalion Effect says that we rise to the level of other people's expectations for us. If you surround yourself with people who believe you are capable of more, who want you to think bigger, who push you to grow, you will prove them right. Remember: Someone is either holding you back or pushing you forward. There is no in between.
+18. Life is more fragile than you think (even when you account for that statement).
+You never know when it will be the last time you get to hug that friend, tuck your kid in for bed, kiss your wife, take a walk with your parents, or see that crazy family member. Hug your people with everything you have. Always make them let go first.
+19. Inputs may be trendy, but outputs get you paid.
+No one cares about your deep work ritual or morning routine if you don’t get sh*t done. Focus on your inputs, but never lose sight of the fact that the world will judge you based on your outputs. If the quality of the outputs doesn't match the quality of the inputs over a long time horizon, you need to adjust the inputs.
+20. Stress is a tax on extreme ambition.
+When you care deeply about something, you will experience feelings of stress that accompany the non-linearity of your progress. The goal isn't to have no stress, but to stress about things that actually matter to you.
+21. The good old days are happening right now.
+Every single thing you do today is something that your 90-year-old self will wish they could go back and do. Slow down, look around, embrace the present.
+22. Adaptability is the single most important trait for life.
+The explorer doesn't set out on his voyage trusting that the seas will remain calm and that he will stay perfectly on course; but rather, in his ability to adapt when the inevitable storms and chaos arrive. You are the explorer and life is your voyage. You don't need to trust in your plan or your intelligence. You need to trust in your ability to adapt.
+23. Dopamine from information gathering is a dangerous drug.
+Your entire life will change the moment you stop looking for more information and start acting on the information you already have. Get your dopamine from action.
+24. Happiness is found in the becoming.
+Real happiness is found in the anticipation. It’s the quest. It’s the hunt. It’s the process. It's the journey. It's the moment right before you achieve it. Happiness is not in the having, but in the becoming.
+25. The things you want most in life will come to you, but only when you're ready for them.
+Mario Quintana once wrote, "Don’t waste your time chasing butterflies. Mend your garden, and the butterflies will come." Your external reality is often a manifestation of your internal reality. Don't look out, look in.
+26. The word "yet" will change your life.
+"I'm not good enough" becomes "I'm not good enough...yet." "I don't know how to do it" becomes "I don't know how to do it...yet." "I'm not capable of that" becomes "I'm not capable of that...yet." "Yet" is your one word reminder that you can achieve anything that you set your mind to. You are dynamic and capable of so much more than you realize. Embrace the "yet" and change your life.
+27. Success always follows interest.
+Most people focus too much on being interesting and not enough on being interested. Being interested is how you become interesting. When you're interested, you're prone to deep focus, which cultivates a depth that is impossible to fake. That depth is a necessary ingredient of success.
+28. Winning can be problematic for your social life.
+Drake once said, "People like you more when you working towards something. Not when you have it." I felt that.
+29. You should always cringe at your former self.
+If you look back at yourself from a year ago and you don't cringe at your outputs, habits, behaviors, or actions, you should be worried. That "cringe" sensation is a sign of your growth. It should always exist.
+30. Work hard first, then smart later.
+When you're young, all you have is time. You don't have the skills, money, knowledge, experience, or networks that would allow you to work smart. You have to trade your time to acquire those things. Once you have them, you can pick and choose your opportunities, but until then, work hard.
+31. The only way to make a lot of money is to create a lot of value.
+No one hands out money. No one is going to pay you just because they like you or think you're cool. That's not the way the world works. Money earned is a direct byproduct of value created. It's not talking about the thing, it's not brainstorming about the thing, it's not asking about the thing, it's not thinking about the thing. The only way to create value is by doing the thing. Identify a problem, create a solution, scale the solution. Simple, not easy.
+32. Everything matters.
+You don't get to pick and choose when to show up, because the world will ignore your best and judge you for your worst. If you want to win, your responsibility is to show up with energy and enthusiasm for the little things just as much as you do for the big things.
+33. It's not supposed to be easy.
+The most valuable things in life are hard to earn. They will take longer than you ever imagined. And that’s precisely why they’re so valuable.
+34. The climb prepares you for the summit.
+If you got dropped at the top of Mount Everest, you'd immediately pass out from the altitude. You can't skip the climb in life, it physically and mentally prepares you for the summit. Never intentionally seek to avoid the climb. Be grateful for the struggle and what it builds within you.
+Cheers to the Year Ahead!
+I'll close with one of my favorite quotes:
+"Life can only be understood backwards, but it must be lived forwards." - Soren Kierkegaard
+All of these life lessons became clear with the benefit of hindsight. I hope they shine a light on your path so that you can better navigate the years ahead (and avoid the missteps that led to many of them!).
+Cheers to a beautiful, hard, growth-filled year ahead!
+Order My First Book to Unlock Exclusive Bonuses:
+The 5 Types of Wealth is the compass for your journey to a life of wealth that goes far beyond money. It provides the actionable tools to define, measure, and design your life around the pillars that truly create lasting happiness and fulfillment.
+It will help you find your True North and build your life around it.
+Order now and you'll unlock several new, exclusive bonuses:
+- Order 1 Book: Access to the digital community, where you can interact with me and others on the same journey; Ticket to a live virtual launch party; Companion video series with breakdowns of strategies to start building each type of wealth today.
+- Order 2 Books: All of the above, plus access to exclusive monthly video office hours with me.
+- Order 10 Books: All of the above, plus a 1-on-1 15-minute coaching call with me. Limited spots available!
+Sahil's Recommendation Zone
+Perfect your morning routine with my partner[ AG1](https://click.convertkit-mail4.com/8kugoeez04coh2erpx3c0fkw73g99u3/x0hph6hwmzd8r7t5/aHR0cDovL2RyaW5rYWcxLmNvbS9zYWhpbA==):
+I get asked about my morning routine all the time. It changes from time to time, but [AG1](https://click.convertkit-mail4.com/8kugoeez04coh2erpx3c0fkw73g99u3/x0hph6hwmzd8r7t5/aHR0cDovL2RyaW5rYWcxLmNvbS9zYWhpbA==) has been the one constant since 2011. I drink it with a big glass of water every single morning to start my day on a positive tone.
+It replaced an entire cabinet of supplements for me in one daily scoop—seriously, its latest iteration covers a multivitamin, multi-mineral, prebiotics, probiotics, adaptogens, greens, and more. It keeps me feeling healthy and strong throughout the year, even when I'm traveling (thanks to the travel packs).
+AG1 is offering Curiosity Chronicle subscribers an exclusive deal: [a free 1-year supply of liquid vitamin D plus 5 travel packs with your subscription purchase](https://click.convertkit-mail4.com/8kugoeez04coh2erpx3c0fkw73g99u3/x0hph6hwmzd8r7t5/aHR0cDovL2RyaW5rYWcxLmNvbS9zYWhpbA==). Take advantage of it!
+Sahil Bloom
+|
+|
+|

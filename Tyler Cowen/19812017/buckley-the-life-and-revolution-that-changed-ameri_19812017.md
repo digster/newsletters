@@ -1,0 +1,10 @@
+---
+subject: "*Buckley: The Life and Revolution that Changed America*"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2025-07-16 06:52:20
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+[By Sam Tanenhaus](http://marginalrevolution.com?action=user_content_redirect&uuid=8c15d5e86a057714fb145f763bd295d2cf8a75daa07e0a867bd1a51b66d09750&blog_id=42693868&post_id=91090&user_id=262258391&subs_id=225460721&signature=2d4b5ebc0cb14ddffad81e2e152cdcc1&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9CdWNrbGV5LUxpZmUtUmV2b2x1dGlvbi1DaGFuZ2VkLUFtZXJpY2EvZHAvMDM3NTUwMjM0My9yZWY9c3JfMV8xP2NyaWQ9MkVFOFlJTjJOUVNWMCZkaWI9ZXlKMklqb2lNU0o5LlNqZGZqalhiTThyM0x5NW1oMTdlc2xnUXFaZHN3VkFyaFRoRThuRTVoUUpRS3FybnNobWJET2NRZmtjRVhkOVNRVm9OZ1dhUE5QaWpaOGtuZjJCV1JGTjVnbHNETm1pMDEyMkVLc0JUNEpGcHZOM1BxSmt2OVQ4M2RQb0dhX25xeE1OTk51WFdYQ18wTmtYZE96QnVfWjBIYWpNcHAwbVB3ZGcwclI3SmU2ZHlQOHFzYUlLbU9odTMxWGd6U3lYdmxmREZuekx0bHdyV0xlN0hHY0liMmdFNDkyMWl2RlNNdlgzSUFQaUdoMXMuV0hRYXV2TGVKc0RRcmdUQ0E5OUpDOWx3cjRUQmo4RmVickhlaWZGVEVsRSZkaWJfdGFnPXNlJmtleXdvcmRzPXNhbSt0YW5lbmhhdXMrYnVja2xleSZxaWQ9MTc1MjYyNzM2NCZzcHJlZml4PXNhbSt0YW5lbiUyQ2FwcyUyQzExMSZzcj04LTE&email_id=556288d64f5d804392fb90b4644b83bb). I held off reading this book at first, as I felt I already knew a lot about Buckley and his life. But it is excellent. Very well written and engaging throughout. I learned a good deal, and it is one of the best books on the history of the American 20th century right wing.
+As a youth, watching Firing Line, I frequently was frustrated that Buckley was not more analytical, and that he sometimes spoke in such a roundabout manner. In part I wanted to expand Conversations with Tyler to fill that gap. I am also indebted to Buckley for first getting me interested in Bach. So he played a very definite role in my life.

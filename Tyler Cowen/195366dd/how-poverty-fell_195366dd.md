@@ -1,0 +1,12 @@
+---
+subject: "How poverty fell"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2025-02-24 05:28:41
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+There is [a new and excellent paper](http://marginalrevolution.com?action=user_content_redirect&uuid=3e5c282fa9e9851d05e0f4fe02da05f64a5571f882b2d705b2988e0e8842c167&blog_id=42693868&post_id=90125&user_id=262258391&subs_id=225460721&signature=0015d9425d35c5558ac2ca6a25db74ad&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly9lY29ud2ViLnVjc2QuZWR1L35wbmllaGF1cy9wYXBlcnMvaG93X3BvdmVydHlfZmVsbC5wZGY) by Vincent Armentano, Paul Niehaus, and Tom Vogl on this topic. Here is one paragraph (not from the abstract):
+We also see no cases in which changes in transfers (from public and private sources) played a dominant role. Among households that exited poverty, the share of income they obtained from transfers either rose slightly or fell substantially. Among those that entered poverty, the share generally rose substantially or fell slightly. Overall, the data are consistent with progressive redistribution, but not with transfer income accounting directly for a major share of the income gains that moved households above the poverty line. In this sense, the households that left poverty did so largely on their own...
+Transitions out of agriculture accounted for a limited role. They did not account for the largest share, let alone the majority, of transitions out of poverty in any country. And the decomposition credits transitions into agriculture with a poverty reducing role: the opposite of the conclusion we reach if we ignore the panel structure of the data and apply older, cross-sectional decomposition techniques to it. More broadly, in every country, households that stayed in the same sector contributed more to poverty decline than households that changed sector. Migration, particularly rural-to-urban migration, also accounts for a limited amount of poverty decline in the three countries (Mexico, Indonesia and South Africa) for which migrants were tracked, with the one notable exception that rural-to-rural migrants accounted for a third of all net poverty decline in Indonesia.
+This stands a good chance of being the most important paper of the year, and it has many other results of interest.

@@ -1,0 +1,10 @@
+---
+subject: "What (else) do unions do?"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2025-06-14 05:11:53
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+From [a 2023 paper](http://marginalrevolution.com?action=user_content_redirect&uuid=3332ae5c6e403f4de08f3ca1ae2cee92135bd1405f5ae57f724b34cee7debee3&blog_id=42693868&post_id=90867&user_id=262258391&subs_id=225460721&signature=515cfc19f0f9b3afe253e20a79428f29&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly9wYXBlcnMuc3Nybi5jb20vc29sMy9wYXBlcnMuY2ZtP2Fic3RyYWN0X2lkPTQ1NjUyODg&email_id=bcb451d574974e55f9c83f0fb4a8d8b0) by Vojislav Maksimovic and Liu Yang:
+Using plant-level data from the Census Bureau, we show that in addition to paying higher wages and benefits, unionized plants have lower and less effective incentives. Unionized plants do not exhibit the same positive associations between incentives and investment and growth found in non-unionized plants. This effect holds among both non-managerial and managerial employees, although it has a more pronounced influence on the former group. Consequently, unionized plants experience higher rates of closure, reduced investment, and slower employment growth. We also find significant spillover effects within the firm: partially unionized firms not only offer higher wages but also maintain weaker incentives in their non-unionized plants compared to their industry peers. These effects are economically significant and are half of our estimated reduction in incentives in unionized plants. This pattern aligns with the hypothesis that incentives in non-unionized plants create disutility for the median worker. Spillovers reduce employment and efficiency and make firms less attractive as potential targets, thus reducing the market’s effectiveness in allocating corporate assets. By leveraging recent changes in state-level right-to-work laws, we provide causal evidence that states that adopt such laws experience a boost in employment and investment.

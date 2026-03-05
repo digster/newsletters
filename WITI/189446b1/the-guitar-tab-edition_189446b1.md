@@ -1,0 +1,10 @@
+---
+subject: "The Guitar Tab Edition"
+from: "\"Why is this interesting?\" <whyisthisinteresting@substack.com>"
+to: ""
+date: 2023-07-11 10:02:23
+labels: ["CATEGORY_PERSONAL", "INBOX", "UNREAD", "WITI"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "UNREAD", "Label_5752899537867939131"]
+---
+John Peabody is a friend of WITI. He writes the excellent Substack the John here. I’ve been playing guitar for almost three decades. Someday I might actually learn how to play it too. Like a lot of guitarists, I’m the campfire kind of player who knows how to pluck out a couple of tunes, knows how to bar chords, and has a general understanding of scales, but I quickly lose it if I attempt a solo or do anything up the neck. My “study” of guitar has also mirrored the rise of the internet. When I first started playing, I used to go to sites like Then YouTube came and a bunch of guitar instructors took to the platform to offer lessons. I recently found what I would call the next evolution in online guitar instruction and it’s blown my mind. Why is this interesting?
+You can see exactly what and how the guitarist is playing while also hearing them. I’m not sure what the tech behind these videos is, but the labor to produce them must be intense. A skilled guitarist must have to learn the song note for note, transcribe it (into actual sheet music most likely) and an additional layer of motion graphics are added. Needless to say, it’s big a step above the old days of posting basic tabs to a guitar forum. I’ve found myself dazzled by these videos. I wish I could tell you that I’ve learned Steve Ray Vaughan’s What I have gained is a much deeper understanding of how these guitarists approach their playing. Being able to see the keys they’re playing in, which fingers their using, patterns of licks and runs, etc., while listening to the song, is a bit akin to suddenly being able to understand a foreign language, without actually being able to speak it. So while I won’t be sliding up the neck into a solo anytime soon, I do have an even deeper appreciation for some of my favorite musicians and their unique flair. (JP). |

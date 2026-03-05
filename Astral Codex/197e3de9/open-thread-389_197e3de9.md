@@ -1,0 +1,10 @@
+---
+subject: "Open Thread 389"
+from: "Astral Codex Ten <astralcodexten@substack.com>"
+to: ""
+date: 2025-07-07 07:51:03
+labels: ["Astral Codex", "CATEGORY_PERSONAL", "INBOX", "UNREAD"]
+label_ids: ["Label_6409723252142624155", "CATEGORY_PERSONAL", "INBOX", "UNREAD"]
+---
+This is the weekly visible open thread. Post about anything you want, ask random questions, whatever. ACX has an unofficial 1: Highlights from the comments on Higher motherhood penalty for daughters than sons: [How does family size contribute?](https://substack.com/redirect/72ae1397-4188-471e-a5e3-bfd231c741e2?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)[Flaws in the](https://substack.com/redirect/ca2f4337-df8a-493d-bcf1-0e468f6354bf?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)“expert consensus on social media’s effects” study.Allan Shivers [“did not beat himself”](https://substack.com/redirect/3ff20438-45dd-4ad3-9418-c2e34ab45689?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)in the 1952 election (even though he did run against himself and win).Testosterone: [general enhancement, or deficiency correction?](https://substack.com/redirect/9dfb0c8e-b04e-43d3-9360-64c8bb21c454?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)(see also[here](https://substack.com/redirect/36fa8a29-2241-437e-9b2c-789ef3351dc9?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o))[Cremieux responds to Lexer on lead](https://substack.com/redirect/6a6d2d61-52fa-4adf-8dbd-9ea3182f5ac0?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o). And[Peter Miller on lead](https://substack.com/redirect/f5eff843-96ce-4525-9412-b92b3c2da819?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o).Meir Brooks on [labor force participation vs. fertility.](https://substack.com/redirect/f8852029-b936-46fa-8408-d58e459f99bf?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+2: New subscriber-only post: You're currently a free subscriber to |

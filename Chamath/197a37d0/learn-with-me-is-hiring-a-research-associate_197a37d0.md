@@ -1,0 +1,11 @@
+---
+subject: "Learn With Me Is Hiring a Research Associate"
+from: "Chamath Palihapitiya <chamath@substack.com>"
+to: ""
+date: 2025-06-24 19:46:56
+labels: ["CATEGORY_PERSONAL", "Chamath", "INBOX", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "Label_4017391144830520384", "INBOX", "UNREAD"]
+---
+Learn With Me Is Hiring a Research AssociateWe’re looking to hire a Research Associate to join Learn With Me. You will report to our Head of Research and get to work directly with me. Your primary responsibility will be to help us make our Deep Dives excellent (three slides sampled from our Primer on Drug Development to give a sense of style, tone and content).
+Sign you’re a good fit: You’ve experienced disillusionment with established orthodoxy and the perception that emerges from that disillusionment. You are highly sensitive to truth and have a strong bullshit radar. You are able to synthesize large amounts of information into the key takeaways. You naturally pay attention to the cultural zeitgeist in technology, startups, business and have an intuition of where society and culture could be going. You know the difference between knowing, knowledge, and information. You have had life-changing experiences with academic subjects, books, or other media and know what it takes to create that kind of experience for other people. You are a good writer. No pretension, signaling, or sales language. You have developed enough specialized knowledge in a field and, as a result, have learned how to synthesize ground truth and what’s really going on, where you can “see through” the news and other people’s writing. You know what true expertise looks and feels like. You’ve studied math, physics, or related subjects and you enjoy rigor of thought and richness of ideas in these subjects. You enjoy working and see the merit in honest work, and know the concentration and athleticism that it takes to make great work.
+Steps to hire: Feel free to email newsletter@socialcapital.com with samples of the work that are most representative of your abilities and your resume. Looking forward to hearing from you. |

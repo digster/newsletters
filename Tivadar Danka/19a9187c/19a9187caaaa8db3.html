@@ -1,0 +1,809 @@
+<html style="scrollbar-width: thin;scrollbar-color: rgb(219,219,219)rgb(255,255,255);"><head><meta charset="utf-8"><title>The Anatomy of the Least Squares Method, Part Four</title><style>
+@media (max-width: 1024px) {
+  .typography .pullquote-align-left,
+  .typography.editor .pullquote-align-left,
+  .typography .pullquote-align-right,
+  .typography.editor .pullquote-align-right,
+  .typography .pullquote-align-wide,
+  .typography.editor .pullquote-align-wide,
+  .typography .pullquote-align-center,
+  .typography.editor .pullquote-align-center {
+    float: none;
+    margin: 0 auto;
+    width: 100%;
+    max-width: 100%;
+  }
+}
+@media all and (-ms-high-contrast: none), (-ms-high-contrast: active) {
+  .typography .markup table.image-wrapper img,
+  .typography.editor .markup table.image-wrapper img,
+  .typography .markup table.kindle-wrapper img,
+  .typography.editor .markup table.kindle-wrapper img {
+    max-width: 550px;
+  }
+}
+@media (min-width: 1024px) {
+  .typography:not(:has(#toc)) .captioned-image-container figure:has(> a.image2-offset-left),
+  .typography.editor:not(:has(#toc)) .captioned-image-container figure:has(> a.image2-offset-left) {
+    margin-left: var(--image-offset-margin);
+  }
+  .typography:not(:has(#toc)) .captioned-image-container figure:has(> a.image2-offset-right),
+  .typography.editor:not(:has(#toc)) .captioned-image-container figure:has(> a.image2-offset-right) {
+    margin-right: var(--image-offset-margin);
+  }
+}
+@media (min-width: 1300px) {
+  .typography .captioned-image-container figure:has(> a.image2-offset-left),
+  .typography.editor .captioned-image-container figure:has(> a.image2-offset-left) {
+    margin-left: var(--image-offset-margin);
+  }
+  .typography .captioned-image-container figure:has(> a.image2-offset-right),
+  .typography.editor .captioned-image-container figure:has(> a.image2-offset-right) {
+    margin-right: var(--image-offset-margin);
+  }
+}
+@media (max-width: 1024px) {
+  .typography,
+  .typography.editor {
+    /* Disable offset on mobile/tablet */
+  }
+  .typography .captioned-image-container figure:has(> a.image2-align-left),
+  .typography.editor .captioned-image-container figure:has(> a.image2-align-left),
+  .typography .captioned-image-container figure:has(> a.image2-align-right),
+  .typography.editor .captioned-image-container figure:has(> a.image2-align-right) {
+    float: none;
+    margin: 1em auto;
+    max-width: 100%;
+    width: auto;
+    padding: 0;
+  }
+  .typography .captioned-image-container figure:has(> a.image2-align-left.thefp),
+  .typography.editor .captioned-image-container figure:has(> a.image2-align-left.thefp),
+  .typography .captioned-image-container figure:has(> a.image2-align-right.thefp),
+  .typography.editor .captioned-image-container figure:has(> a.image2-align-right.thefp) {
+    margin: 1em auto;
+  }
+  .typography .captioned-image-container figure:has(> a.image2-offset-left),
+  .typography.editor .captioned-image-container figure:has(> a.image2-offset-left),
+  .typography .captioned-image-container figure:has(> a.image2-offset-right),
+  .typography.editor .captioned-image-container figure:has(> a.image2-offset-right) {
+    margin: 1em auto;
+  }
+  .typography .captioned-image-container figure:has(> a.image2-align-left) .image2-inset,
+  .typography.editor .captioned-image-container figure:has(> a.image2-align-left) .image2-inset,
+  .typography .captioned-image-container figure:has(> a.image2-align-right) .image2-inset,
+  .typography.editor .captioned-image-container figure:has(> a.image2-align-right) .image2-inset {
+    display: block;
+    justify-content: initial;
+  }
+}
+@media (max-width: 768px) {
+  .typography .markup div.sponsorship-campaign-embed,
+  .typography.editor .markup div.sponsorship-campaign-embed {
+    margin-top: 24px;
+    margin-bottom: 24px;
+  }
+  .typography .markup div.sponsorship-campaign-embed:first-child,
+  .typography.editor .markup div.sponsorship-campaign-embed:first-child {
+    margin-top: 0px;
+  }
+}
+@media screen and (max-width: 650px) {
+  .typography .markup div.youtube-overlay,
+  .typography.editor .markup div.youtube-overlay,
+  .typography .markup div.vimeo-overlay,
+  .typography.editor .markup div.vimeo-overlay {
+    display: none !important;
+  }
+}
+@media screen and (max-width: 370px) {
+  .typography .markup div.tiktok-wrap,
+  .typography.editor .markup div.tiktok-wrap {
+    width: calc(95vw - 32px);
+    height: calc((95vw - 32px - 2px) / 0.485714);
+  }
+}
+@media screen and (max-width: 650px) {
+  .typography .markup div.embedded-publication-wrap .embedded-publication.show-subscribe,
+  .typography.editor .markup div.embedded-publication-wrap .embedded-publication.show-subscribe {
+    padding: 24px;
+  }
+}
+@media screen and (max-width: 650px) {
+  .typography .markup div.subscription-widget-wrap .subscription-widget.show-subscribe,
+  .typography.editor .markup div.subscription-widget-wrap .subscription-widget.show-subscribe,
+  .typography .markup div.subscription-widget-wrap-editor .subscription-widget.show-subscribe,
+  .typography.editor .markup div.subscription-widget-wrap-editor .subscription-widget.show-subscribe,
+  .typography .markup div.captioned-button-wrap .subscription-widget.show-subscribe,
+  .typography.editor .markup div.captioned-button-wrap .subscription-widget.show-subscribe {
+    padding: 0px 24px;
+  }
+}
+@media screen and (max-width: 650px) {
+  .typography .markup div.subscription-widget-wrap .subscription-widget.show-subscribe .subscription-widget-subscribe .button,
+  .typography.editor .markup div.subscription-widget-wrap .subscription-widget.show-subscribe .subscription-widget-subscribe .button,
+  .typography .markup div.subscription-widget-wrap-editor .subscription-widget.show-subscribe .subscription-widget-subscribe .button,
+  .typography.editor .markup div.subscription-widget-wrap-editor .subscription-widget.show-subscribe .subscription-widget-subscribe .button,
+  .typography .markup div.captioned-button-wrap .subscription-widget.show-subscribe .subscription-widget-subscribe .button,
+  .typography.editor .markup div.captioned-button-wrap .subscription-widget.show-subscribe .subscription-widget-subscribe .button {
+    padding: 10px 12px;
+    min-width: 110px;
+  }
+}
+@media (max-width: 650px) {
+  .typography .markup .tweet,
+  .typography.editor .markup .tweet {
+    padding: 12px;
+  }
+}
+@media (max-width: 650px) {
+  .typography .markup .tweet .tweet-text,
+  .typography.editor .markup .tweet .tweet-text {
+    font-size: 14px;
+    line-height: 20px;
+  }
+}
+@media (max-width: 650px) {
+  .typography .markup .tweet .tweet-photos-container.two,
+  .typography.editor .markup .tweet .tweet-photos-container.two,
+  .typography .markup .tweet .tweet-photos-container.three,
+  .typography.editor .markup .tweet .tweet-photos-container.three,
+  .typography .markup .tweet .tweet-photos-container.four,
+  .typography.editor .markup .tweet .tweet-photos-container.four {
+    height: 200px;
+  }
+}
+@media (max-width: 650px) {
+  .typography .markup .tweet a.expanded-link .expanded-link-img,
+  .typography.editor .markup .tweet a.expanded-link .expanded-link-img {
+    max-height: 180px;
+  }
+}
+@media (max-width: 650px) {
+  .typography .markup .tweet a.expanded-link .expanded-link-description,
+  .typography.editor .markup .tweet a.expanded-link .expanded-link-description {
+    display: none;
+  }
+}
+@media screen and (max-width: 650px) {
+  .typography .markup .apple-podcast-container,
+  .typography.editor .markup .apple-podcast-container {
+    width: unset;
+  }
+}
+@media (max-width: 420px) {
+  .typography .markup .install-substack-app-embed img.install-substack-app-embed-img,
+  .typography.editor .markup .install-substack-app-embed img.install-substack-app-embed-img {
+    margin: 0 auto 16px auto;
+  }
+}
+@media (max-width: 420px) {
+  .typography .markup .install-substack-app-embed .install-substack-app-embed-text,
+  .typography.editor .markup .install-substack-app-embed .install-substack-app-embed-text {
+    margin: 0 0 12px 0;
+    max-width: 100%;
+    width: auto;
+    text-align: center;
+  }
+}
+@media (max-width: 420px) {
+  .typography .markup .install-substack-app-embed .install-substack-app-embed-link,
+  .typography.editor .markup .install-substack-app-embed .install-substack-app-embed-link {
+    display: flex;
+    justify-content: center;
+  }
+}
+@media screen and (min-width: 481px) {
+  .share-button-container {
+    height: 38px;
+  }
+}
+@media screen and (min-width: 481px) {
+  .share-button-container a.comment {
+    height: 38px;
+    line-height: 38px;
+    padding-right: 10px;
+  }
+}
+@media screen and (max-width: 480px) {
+  .share-button-container .separator {
+    display: block;
+    margin: 0;
+    height: 8px;
+    border-left: none;
+  }
+}
+@media screen and (max-width: 480px) {
+  .share-button-container a.share.first img {
+    padding-left: 0;
+  }
+}
+@media screen and (min-width: 481px) {
+  .share-button-container a.mobile {
+    display: none !important;
+  }
+}
+@media screen and (min-width: 541px) {
+  .settings-add-pub-modal-wrapper .container .add-recommending-pub-modal-container {
+    padding: 36px;
+    height: 680px;
+  }
+}
+@media screen and (min-width: 541px) {
+  .settings-add-pub-modal-wrapper .container .add-recommending-pub-modal-container .footer {
+    position: absolute;
+    bottom: 36px;
+    margin: 0px;
+  }
+}
+@media screen and (max-width: 650px) {
+  .header-anchor-parent {
+    display: none;
+  }
+}
+@media screen and (max-width: 768px) {
+  .post {
+    padding: 16px 0 0 0;
+  }
+}
+@media screen and (max-width: 650px) {
+  .post .post-header .post-label {
+    margin-top: 8px;
+  }
+}
+@media screen and (max-width: 650px) {
+  .post .post-header .meta-author-wrap.alternative-meta .meta-right-column .post-meta {
+    margin-top: 6px;
+  }
+}
+@media screen and (max-width: 650px) {
+  .post .footer-facepile-container {
+    height: 64px;
+    padding: 0 16px;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    width: 100%;
+  }
+}
+@media screen and (max-width: 650px) {
+  .post .post-footer.use-separators {
+    justify-content: center;
+  }
+}
+@media screen and (max-width: 650px) {
+  .post .post-footer.next-prev {
+    height: 64px;
+    justify-content: space-between;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 650px) {
+  .post-contributor-footer .post-contributor-bio-table {
+    display: block;
+  }
+  .post-contributor-footer .post-contributor-bio-table-row {
+    display: flex;
+    flex-direction: row;
+  }
+  .post-contributor-footer .post-contributor-bio-userhead-cell,
+  .post-contributor-footer .post-contributor-bio-body-cell {
+    display: block;
+  }
+  .post-contributor-footer .post-contributor-bio-body-cell {
+    flex-grow: 1;
+  }
+  .post-contributor-footer .post-contributor-bio-body-table {
+    display: block;
+  }
+  .post-contributor-footer .post-contributor-bio-body-table-row {
+    display: block;
+  }
+  .post-contributor-footer .post-contributor-bio-copy-cell,
+  .post-contributor-footer .post-contributor-bio-controls-cell {
+    display: block;
+  }
+  .post-contributor-footer .post-contributor-bio-copy-cell {
+    margin: 0 0 16px 0;
+  }
+  .post-contributor-footer .post-contributor-bio-controls-cell {
+    width: auto;
+  }
+  .post-contributor-footer .post-contributor-bio-controls {
+    margin: auto;
+  }
+  .post-contributor-footer .post-contributor-bio-controls .button.primary {
+    width: 100%;
+  }
+  .post-contributor-footer .post-contributor-bio-text {
+    font-size: 14px;
+  }
+}
+@media screen and (min-width: 768px) {
+  .post-silhouette {
+    padding: 32px 0;
+  }
+}
+@media screen and (max-width: 650px) {
+  .post-silhouette .post-silhouette-title {
+    margin-top: 10.44225025px;
+    height: 120px;
+  }
+}
+@media screen and (max-width: 650px) {
+  .post-silhouette .post-silhouette-meta {
+    width: 75%;
+  }
+}
+@media screen and (max-width: 650px) {
+  .post-silhouette .post-silhouette-meta.with-byline-image {
+    margin: 20px 0;
+  }
+}
+@media screen and (max-width: 650px) {
+  .use-theme-bg .post-meta.alternative-meta .post-meta-item,
+  .post-meta.alternative-meta .post-meta-item {
+    padding-right: 16px;
+  }
+}
+@media screen and (max-width: 370px) {
+  .use-theme-bg .post-meta.alternative-meta .post-meta-item,
+  .post-meta.alternative-meta .post-meta-item {
+    font-size: 14px;
+  }
+}
+@media screen and (max-width: 650px) {
+  .use-theme-bg .post-meta.alternative-meta .post-meta-item.guest-author-publication,
+  .post-meta.alternative-meta .post-meta-item.guest-author-publication {
+    display: none;
+  }
+}
+@media screen and (max-width: 370px) {
+  .post-meta .post-meta-item .post-meta-button {
+    height: 36px !important;
+    /* important to override in-line height style on emails */
+  }
+  .post-meta .post-meta-item .post-meta-button .meta-button-label {
+    display: none;
+  }
+  .post-meta .post-meta-item .post-meta-button > svg {
+    margin-right: 0;
+  }
+}
+@media screen and (max-width: 370px) {
+  .post-meta .post-meta-item {
+    font-size: 12px;
+  }
+}
+@media screen and (max-width: 650px) {
+  .post .floating-subscribe-button {
+    bottom: 20px;
+    right: 20px;
+  }
+}
+@media (max-width: 1024px) {
+  body .pullquote-align-left,
+  body .pullquote-align-right,
+  body .pullquote-align-wide,
+  body .pullquote-align-center {
+    float: none;
+    margin: 0 auto;
+    width: 100%;
+    max-width: 100%;
+  }
+}
+@media all and (-ms-high-contrast: none), (-ms-high-contrast: active) {
+  body .markup table.image-wrapper img,
+  body .markup table.kindle-wrapper img {
+    max-width: 550px;
+  }
+}
+@media (min-width: 1024px) {
+  body:not(:has(#toc)) .captioned-image-container figure:has(> a.image2-offset-left) {
+    margin-left: var(--image-offset-margin);
+  }
+  body:not(:has(#toc)) .captioned-image-container figure:has(> a.image2-offset-right) {
+    margin-right: var(--image-offset-margin);
+  }
+}
+@media (min-width: 1300px) {
+  body .captioned-image-container figure:has(> a.image2-offset-left) {
+    margin-left: var(--image-offset-margin);
+  }
+  body .captioned-image-container figure:has(> a.image2-offset-right) {
+    margin-right: var(--image-offset-margin);
+  }
+}
+@media (max-width: 1024px) {
+  body {
+    /* Disable offset on mobile/tablet */
+  }
+  body .captioned-image-container figure:has(> a.image2-align-left),
+  body .captioned-image-container figure:has(> a.image2-align-right) {
+    float: none;
+    margin: 1em auto;
+    max-width: 100%;
+    width: auto;
+    padding: 0;
+  }
+  body .captioned-image-container figure:has(> a.image2-align-left.thefp),
+  body .captioned-image-container figure:has(> a.image2-align-right.thefp) {
+    margin: 1em auto;
+  }
+  body .captioned-image-container figure:has(> a.image2-offset-left),
+  body .captioned-image-container figure:has(> a.image2-offset-right) {
+    margin: 1em auto;
+  }
+  body .captioned-image-container figure:has(> a.image2-align-left) .image2-inset,
+  body .captioned-image-container figure:has(> a.image2-align-right) .image2-inset {
+    display: block;
+    justify-content: initial;
+  }
+}
+@media (max-width: 768px) {
+  body .markup div.sponsorship-campaign-embed {
+    margin-top: 24px;
+    margin-bottom: 24px;
+  }
+  body .markup div.sponsorship-campaign-embed:first-child {
+    margin-top: 0px;
+  }
+}
+@media screen and (max-width: 650px) {
+  body .markup div.youtube-overlay,
+  body .markup div.vimeo-overlay {
+    display: none !important;
+  }
+}
+@media screen and (max-width: 370px) {
+  body .markup div.tiktok-wrap {
+    width: calc(95vw - 32px);
+    height: calc((95vw - 32px - 2px) / 0.485714);
+  }
+}
+@media screen and (max-width: 650px) {
+  body .markup div.embedded-publication-wrap .embedded-publication.show-subscribe {
+    padding: 24px;
+  }
+}
+@media screen and (max-width: 650px) {
+  body .markup div.subscription-widget-wrap .subscription-widget.show-subscribe,
+  body .markup div.subscription-widget-wrap-editor .subscription-widget.show-subscribe,
+  body .markup div.captioned-button-wrap .subscription-widget.show-subscribe {
+    padding: 0px 24px;
+  }
+}
+@media screen and (max-width: 650px) {
+  body .markup div.subscription-widget-wrap .subscription-widget.show-subscribe .subscription-widget-subscribe .button,
+  body .markup div.subscription-widget-wrap-editor .subscription-widget.show-subscribe .subscription-widget-subscribe .button,
+  body .markup div.captioned-button-wrap .subscription-widget.show-subscribe .subscription-widget-subscribe .button {
+    padding: 10px 12px;
+    min-width: 110px;
+  }
+}
+@media (max-width: 650px) {
+  body .markup .tweet {
+    padding: 12px;
+  }
+}
+@media (max-width: 650px) {
+  body .markup .tweet .tweet-text {
+    font-size: 14px;
+    line-height: 20px;
+  }
+}
+@media (max-width: 650px) {
+  body .markup .tweet .tweet-photos-container.two,
+  body .markup .tweet .tweet-photos-container.three,
+  body .markup .tweet .tweet-photos-container.four {
+    height: 200px;
+  }
+}
+@media (max-width: 650px) {
+  body .markup .tweet a.expanded-link .expanded-link-img {
+    max-height: 180px;
+  }
+}
+@media (max-width: 650px) {
+  body .markup .tweet a.expanded-link .expanded-link-description {
+    display: none;
+  }
+}
+@media screen and (max-width: 650px) {
+  body .markup .apple-podcast-container {
+    width: unset;
+  }
+}
+@media (max-width: 420px) {
+  body .markup .install-substack-app-embed img.install-substack-app-embed-img {
+    margin: 0 auto 16px auto;
+  }
+}
+@media (max-width: 420px) {
+  body .markup .install-substack-app-embed .install-substack-app-embed-text {
+    margin: 0 0 12px 0;
+    max-width: 100%;
+    width: auto;
+    text-align: center;
+  }
+}
+@media (max-width: 420px) {
+  body .markup .install-substack-app-embed .install-substack-app-embed-link {
+    display: flex;
+    justify-content: center;
+  }
+}
+@media screen and (min-width: 500px) {
+  body .header a.logo {
+    width: 42px;
+    height: 42px;
+    border-radius: 12px;
+  }
+}
+@media screen and (max-width: 420px) {
+  body .subscription-receipt table:first-of-type .subscription-amount .subscription-discount {
+    width: 72px !important;
+  }
+}
+@media screen and (min-width: 481px) {
+  body .share-button-container {
+    height: auto;
+  }
+}
+@media screen and (max-width: 480px) {
+  body .share-button-container .separator {
+    display: block !important;
+    margin: 0 !important;
+    height: 8px !important;
+    border-left: none !important;
+  }
+}
+@media screen and (max-width: 650px) {
+  .digest .item .post-meta-item.audience {
+    display: none;
+  }
+}
+@media screen and (min-width: 500px) {
+  .digest-publication .logo img {
+    width: 42px;
+    height: 42px;
+    border-radius: 8px;
+  }
+}
+@media screen and (max-width: 650px) {
+  .comments-page .container .comment-list .collapsed-reply {
+    margin-left: calc(10 + 32px - 24px);
+  }
+}
+@media screen and (max-width: 650px) {
+  .comment > .comment-list {
+    padding-left: 24px;
+  }
+}
+@media screen and (max-width: 650px) {
+  .finish-magic-login-modal .modal-content .container {
+    padding: 24px 0;
+  }
+}
+@media (max-width: 650px) {
+  .reader2-text-b3 {
+    line-height: 24px;
+  }
+}
+@media screen and (max-width: 650px) {
+  .reader2-text-h4 {
+    line-height: 24px;
+  }
+}
+@media screen and (min-width: 541px) {
+  .user-profile-modal {
+    padding-left: 12px;
+    padding-right: 12px;
+  }
+}
+@media screen and (max-width: 650px) {
+  .subscribe-widget form.form .sideBySideWrap button.rightButton {
+    padding: 10px 12px;
+  }
+}
+@media screen and (min-width: 541px) {
+  .pub-icon:hover .logo-hover,
+  .feed-item-icon:hover .logo-hover {
+    display: block;
+  }
+}
+@media screen and (max-width: 650px) {
+  .post-ufi.single-full-width-button .post-ufi-button-wrapper {
+    width: 100%;
+    padding: 16px;
+  }
+  .post-ufi.single-full-width-button .post-ufi-button-wrapper:empty {
+    display: none;
+  }
+  .post-ufi.single-full-width-button .post-ufi-button {
+    width: 100%;
+    justify-content: center;
+  }
+}
+@media screen and (max-width: 768px) {
+  .file-embed-wrapper {
+    padding: 0;
+  }
+}
+@media screen and (max-width: 768px) {
+  .file-embed-wrapper-editor {
+    padding: 0;
+  }
+}
+@media screen and (max-width: 768px) {
+  .file-embed-wrapper-editor:active {
+    padding: 0;
+  }
+}
+@media only screen and (max-width: 650px) {
+  .file-embed-button.wide,
+  .file-embed-error-button.wide {
+    display: none;
+  }
+}
+@media only screen and (min-width: 630px) {
+  .file-embed-button.narrow,
+  .file-embed-error-button.narrow {
+    display: none;
+  }
+}
+@media screen and (min-width: 541px) {
+  .audio-player-wrapper .audio-player {
+    min-width: 500px;
+  }
+}
+@media screen and (max-width: 650px) {
+  .audio-player-wrapper .audio-player .audio-player-progress {
+    border-left-width: 16px;
+    border-right-width: 16px;
+  }
+}
+@media screen and (max-width: 650px) {
+  .audio-player-wrapper .audio-player .audio-player-progress .audio-player-progress-bar .audio-player-progress-bar-popup {
+    top: -54px;
+  }
+}
+@media screen and (max-width: 650px) {
+  .audio-player-wrapper-fancy .audio-player .audio-player-progress {
+    border-left-width: 16px;
+    border-right-width: 16px;
+  }
+}
+@media screen and (max-width: 650px) {
+  .audio-player-wrapper-fancy .audio-player .audio-player-progress .audio-player-progress-bar .audio-player-progress-bar-popup {
+    top: -54px;
+  }
+}
+@media (min-width: 250px) {
+  .audio-player-wrapper-fancy .audio-player {
+    padding: 32px;
+  }
+  .audio-player-wrapper-fancy .audio-player .btn-group {
+    display: flex;
+  }
+  .audio-player-wrapper-fancy .audio-player .btn-group .button:last-of-type {
+    display: block;
+  }
+}
+@media (min-width: 300px) {
+  .audio-player-wrapper-fancy .audio-player .btn-group {
+    display: block;
+  }
+  .audio-player-wrapper-fancy .audio-player .btn-group .button:first-of-type {
+    display: block;
+  }
+}
+@media (min-width: 350px) {
+  .audio-player-wrapper-fancy .audio-player .audio-player-substack-logo {
+    display: block;
+  }
+  .audio-player-wrapper-fancy .audio-player .audio-player-title {
+    margin-top: 16px;
+  }
+  .audio-player-wrapper-fancy .audio-player .audio-player-hero-image-container {
+    padding-top: 15%;
+    width: 15%;
+    display: block;
+  }
+  .audio-player-wrapper-fancy .audio-player .btn-group .button:first-of-type {
+    display: block;
+  }
+  .audio-player-wrapper-fancy .audio-player .audio-player-substack-logo {
+    display: block;
+  }
+}
+@media (min-width: 350px) {
+  .audio-player-wrapper-fancy .audio-player .audio-player-hero-image-container {
+    padding-top: 25%;
+    width: 25%;
+    display: block;
+  }
+  .audio-player-wrapper-fancy .audio-player .btn-group {
+    display: flex;
+  }
+  .audio-player-wrapper-fancy .audio-player .btn-group .button:first-of-type {
+    display: block;
+  }
+}
+@media (min-width: 400px) {
+  .audio-player-wrapper-fancy .audio-player .audio-player-hero-image-container {
+    padding-top: 40%;
+    width: 40%;
+  }
+}
+@media (max-width: 400px) {
+  .audio-player-wrapper-fancy .audio-player .btn-group {
+    margin-top: 12px;
+  }
+  .audio-player-wrapper-fancy .audio-player .btn-group .button {
+    font-size: 13px;
+    padding: 6px 12px;
+    height: auto;
+    margin-top: 10px;
+  }
+}
+@media (min-width: 600px) {
+  .audio-player-wrapper-fancy .audio-player .audio-player-hero-image-container {
+    padding-top: 55%;
+    width: 55%;
+  }
+}
+@media (max-width: 650px) {
+  .poll-editor-modal {
+    min-width: calc(100% - 20px);
+  }
+}
+@media (max-width: 750px) {
+  .poll-embed .poll-anchor-target .poll-anchor-copy-button {
+    left: 8px;
+    top: 45px;
+  }
+}
+@media not all and (min-resolution: 0.001dpcm) {
+  @supports (-webkit-appearance: none) {
+    p a:not(.primary.button),
+    .post p:not(.button-wrapper) a:not(.primary.button),
+    .footnote a.footnote-anchor:not(.primary.button),
+    .thread-head .markup p:not(.button-wrapper) a:not(.primary.button) {
+      color: #9d6fff;
+      text-decoration: none;
+    }
+    p a:not(.primary.button):hover,
+    .post p:not(.button-wrapper) a:not(.primary.button):hover,
+    .footnote a.footnote-anchor:not(.primary.button):hover,
+    .thread-head .markup p:not(.button-wrapper) a:not(.primary.button):hover {
+      text-decoration: underline;
+    }
+  }
+}</style></head><body class="email-body" style="font-kerning: auto;--image-offset-margin: -120px;"><img src="https://eotrx.substackcdn.com/open?token=eyJtIjoiPDIwMjUxMTE3MTEwODQ5LjMuNTYwNTk1OWYxNWUwODY5M0BtZy1kMS5zdWJzdGFjay5jb20-IiwidSI6MTQ1NjMzMTksInIiOiJpc2hhbi5tYWlsQGdtYWlsLmNvbSIsImQiOiJtZy1kMS5zdWJzdGFjay5jb20iLCJwIjoxNzg1ODE3OTIsInQiOiJuZXdzbGV0dGVyIiwiYSI6ImV2ZXJ5b25lIiwicyI6MTE3NjUwMSwiYyI6InBvc3QiLCJmIjp0cnVlLCJwb3NpdGlvbiI6InRvcCIsImlhdCI6MTc2MzM3ODE4NiwiZXhwIjoxNzY1OTcwMTg2LCJpc3MiOiJwdWItMCIsInN1YiI6ImVvIn0.oogCk2hV3DOezHoUM9v8DYDPlNz3sXiUubsLx6dm8WQ" alt="" width="1" height="1" border="0" style="height:1px !important;width:1px !important;border-width:0 !important;margin-top:0 !important;margin-bottom:0 !important;margin-right:0 !important;margin-left:0 !important;padding-top:0 !important;padding-bottom:0 !important;padding-right:0 !important;padding-left:0 !important;"/><div class="preview" style="display:none;font-size:1px;color:#333333;line-height:1px;max-height:0px;max-width:0px;opacity:0;overflow:hidden;">Modeling GPT activations</div><div class="preview" style="display:none;font-size:1px;color:#333333;line-height:1px;max-height:0px;max-width:0px;opacity:0;overflow:hidden;">&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;</div><table class="email-body-container" role="presentation" width="100%" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td></td><td class="content" width="550"></td><td></td></tr><tr><td></td><td class="content" width="550" align="left"><div style="font-size: 16px;line-height: 26px;max-width: 550px;width: 100%;margin: 0 auto;overflow-wrap: break-word;"><table role="presentation" width="100%" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td align="right" style="height:20px;"><table role="presentation" width="auto" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td style="vertical-align:middle;"><span class="pencraft pc-reset reset-IxiVJZ tw-font-body tw-text-ssm tw-text-substack-secondary" style="font-family: SF Pro Text, -apple-system, system-ui, BlinkMacSystemFont, Inter, Segoe UI, Roboto, Helvetica, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol;font-size: 13px;color: unset;list-style: none;text-decoration: unset;margin: 0;"><div class="pencraft pc-reset align-right-VJbKw5 size-12-mmZ61m reset-IxiVJZ" style="list-style: none;color: unset;text-align: right;font-size: 12px;line-height: 16px;text-decoration: unset;margin: 0;"><span class="pencraft pc-reset reset-IxiVJZ" translated="" style="list-style: none;color: unset;text-decoration: unset;margin: 0;">Forwarded this email? <a class="pencraft pc-reset decoration-underline-ClTkYc reset-IxiVJZ" href="https://substack.com/redirect/2/eyJlIjoiaHR0cHM6Ly90aGVwYWxpbmRyb21lLm9yZy9zdWJzY3JpYmU_dXRtX3NvdXJjZT1lbWFpbCZ1dG1fY2FtcGFpZ249ZW1haWwtc3Vic2NyaWJlJnI9OG81NG4mbmV4dD1odHRwcyUzQSUyRiUyRnRoZXBhbGluZHJvbWUub3JnJTJGcCUyRnRoZS1hbmF0b215LW9mLXRoZS1sZWFzdC1zcXVhcmVzLWEzZCIsInAiOjE3ODU4MTc5MiwicyI6MTE3NjUwMSwiZiI6dHJ1ZSwidSI6MTQ1NjMzMTksImlhdCI6MTc2MzM3ODE4NiwiZXhwIjoyMDc4OTU0MTg2LCJpc3MiOiJwdWItMCIsInN1YiI6ImxpbmstcmVkaXJlY3QifQ.72h-3OHUBHXbNE0d5szcDBFMPXdKwG9ne7rQOXuour4?" style="list-style: none;color: unset;text-decoration: unset;margin: 0;-webkit-text-decoration-line: underline;text-decoration-line: underline;">Subscribe here</a> for more</span></div></span></td></tr></tbody></table></td></tr></tbody></table><table class="header graphic-header" role="presentation" style="border-spacing: 0;padding: 16px 0 32px;"><tbody><tr><td align="center" style="text-align: center;padding: 0;"><a href="https://substack.com/redirect/2/eyJlIjoiaHR0cHM6Ly90aGVwYWxpbmRyb21lLm9yZy9wL3RoZS1hbmF0b215LW9mLXRoZS1sZWFzdC1zcXVhcmVzLWEzZD91dG1fY2FtcGFpZ249ZW1haWwtaGFsZi1wb3N0JnI9OG81NG4mdG9rZW49ZXlKMWMyVnlYMmxrSWpveE5EVTJNek14T1N3aWNHOXpkRjlwWkNJNk1UYzROVGd4TnpreUxDSnBZWFFpT2pFM05qTXpOemd4T0RZc0ltVjRjQ0k2TVRjMk5UazNNREU0Tml3aWFYTnpJam9pY0hWaUxURXhOelkxTURFaUxDSnpkV0lpT2lKd2IzTjBMWEpsWVdOMGFXOXVJbjAudGM1TE9rM2UxN3hEVWtTYkx0aXdWb3NlNi1tTkN4TUtlT0p5Wk42MEZlayIsInAiOjE3ODU4MTc5MiwicyI6MTE3NjUwMSwiZiI6dHJ1ZSwidSI6MTQ1NjMzMTksImlhdCI6MTc2MzM3ODE4NiwiZXhwIjoyMDc4OTU0MTg2LCJpc3MiOiJwdWItMCIsInN1YiI6ImxpbmstcmVkaXJlY3QifQ.6MVNf7FnvURYTFbDxVJ4svtpWHz-Y1s-AfcXcaQBlH8?"><img class="header-image" role="presentation" width="550" height="110" src="https://substackcdn.com/image/fetch/$s_!Oq2-!,w_1100,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F358707b5-aafe-400b-ae41-23f89cccb1e1_1100x220.png" style="border: none !important;vertical-align: middle;max-width: 550px;display: block;margin: 0 auto;height: auto;width: 100%;"></a></td></tr></tbody></table><div class="typography" style="--image-offset-margin: -120px;font-size: 16px;line-height: 26px;"><div class="preamble" style="font-size: 16px;line-height: 26px;margin-top: 16px;"><div class="body markup" dir="auto" style="text-align: initial;font-size: 16px;line-height: 26px;width: 100%;word-break: break-word;margin-bottom: 16px;"><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;margin-top: 0;"><em>Struggling to learn math and machine learning on your own?</em></p><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;"><em>The Palindrome makes complex ideas click&#8212;with visual explainers, step-by-step guides, and clear learning paths. Join the premium tier to master the core ideas behind machine learning!</em></p><div class="subscribe-widget is-signed-up" data-component-name="SubscribeWidget" style="margin: 0 0 1em;direction: ltr;font-size: 16px;line-height: 26px;"><div class="pencraft pc-reset button-wrapper" style="text-decoration: unset;list-style: none;font-size: 16px;line-height: 26px;text-align: center;cursor: pointer;border-radius: 4px;"><a class="button subscribe-btn primary" href="https://substack.com/redirect/2/eyJlIjoiaHR0cHM6Ly90aGVwYWxpbmRyb21lLm9yZy9zdWJzY3JpYmU_dXRtX3NvdXJjZT1wb3N0JnV0bV9jYW1wYWlnbj1lbWFpbC1jaGVja291dCZuZXh0PWh0dHBzJTNBJTJGJTJGdGhlcGFsaW5kcm9tZS5vcmclMkZwJTJGdGhlLWFuYXRvbXktb2YtdGhlLWxlYXN0LXNxdWFyZXMtYTNkJnI9OG81NG4mdG9rZW49ZXlKMWMyVnlYMmxrSWpveE5EVTJNek14T1N3aWFXRjBJam94TnpZek16YzRNVGcyTENKbGVIQWlPakUzTmpVNU56QXhPRFlzSW1semN5STZJbkIxWWkweE1UYzJOVEF4SWl3aWMzVmlJam9pWTJobFkydHZkWFFpZlEuR1RLZjJacFktdzV6UWVRRlpJazUwOEpEYWFLbUFWSFpSR2c4MlVFR1JUSSIsInAiOjE3ODU4MTc5MiwicyI6MTE3NjUwMSwiZiI6dHJ1ZSwidSI6MTQ1NjMzMTksImlhdCI6MTc2MzM3ODE4NiwiZXhwIjoyMDc4OTU0MTg2LCJpc3MiOiJwdWItMCIsInN1YiI6ImxpbmstcmVkaXJlY3QifQ.haRdkpvgWfxF9LmP3NDYPT0xSKto0Un4fdwi-bBgWow?&utm_medium=email&utm_source=subscribe-widget&utm_content=178581792" style="font-family: system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';display: inline-block;box-sizing: border-box;cursor: pointer;border: none;border-radius: 8px;font-size: 14px;line-height: 20px;font-weight: 600;text-align: center;opacity: 1;outline: none;white-space: nowrap;text-decoration: none !important;background-color: #9D6FFF;color: #ffffff !important;margin: 0 auto;padding: 12px 20px;height: auto;"><span style="color: #ffffff;text-decoration: none;">Upgrade to paid</span></a></div></div><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;margin-bottom: 0;"><em><span>(Supporting this work doesn&#8217;t have to come out of your pocket. If you read The Palindrome as part of your professional development, you can use </span><a href="https://substack.com/redirect/805898ba-416d-48bd-ae8a-97dc6c0d4547?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel="" style="color: #9d6fff;text-decoration: none;">this email template</a><span> to request reimbursement for your subscription.)</span></em></p></div><hr style="padding: 0;height: 1px;background: #3d2f3d;border: none;margin: 16px 0 0;"></div></div><div class="post typography" dir="auto" style="--image-offset-margin: -120px;padding: 32px 0 0 0;font-size: 16px;line-height: 26px;"><div class="post-header" role="region" aria-label="Post header" style="font-size: 16px;line-height: 26px;"><h1 class="post-title published title-X77sOw" dir="auto" style="direction: auto;text-align: start;unicode-bidi: isolate;color: rgb(54,55,55);font-family: Lora,sans-serif;font-weight: 600;-webkit-font-smoothing: antialiased;-moz-osx-font-smoothing: antialiased;-webkit-appearance: optimizelegibility;-moz-appearance: optimizelegibility;appearance: optimizelegibility;margin: 0;line-height: 36px;font-size: 32px;"><a href="https://substack.com/app-link/post?publication_id=1176501&post_id=178581792&utm_source=post-email-title&utm_campaign=email-post-title&isFreemail=true&r=8o54n&token=eyJ1c2VyX2lkIjoxNDU2MzMxOSwicG9zdF9pZCI6MTc4NTgxNzkyLCJpYXQiOjE3NjMzNzgxODYsImV4cCI6MTc2NTk3MDE4NiwiaXNzIjoicHViLTExNzY1MDEiLCJzdWIiOiJwb3N0LXJlYWN0aW9uIn0.tc5LOk3e17xDUkSbLtiwVose6-mNCxMKeOJyZN60Fek" style="color: rgb(54,55,55);text-decoration: none;">The Anatomy of the Least Squares Method, Part Four</a></h1><h3 class="subtitle subtitle-HEEcLo" dir="auto" style="direction: auto;text-align: start;unicode-bidi: isolate;font-family: 'SF Pro Display',-apple-system-headline,system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';font-weight: normal;-webkit-font-smoothing: antialiased;-moz-osx-font-smoothing: antialiased;-webkit-appearance: optimizelegibility;-moz-appearance: optimizelegibility;appearance: optimizelegibility;margin: 4px 0 0;color: #777777;line-height: 24px;font-size: 18px;margin-top: 12px;">Modeling GPT activations</h3><table class="post-meta" role="presentation" width="100%" border="0" cellspacing="0" cellpadding="0" style="margin: 1em 0;height: 20px;align-items: center;"><tbody><tr><td><table role="presentation" width="auto" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td><table role="presentation" width="auto" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td style="vertical-align:middle;"><div class="pencraft pc-reset color-primary-zABazT line-height-20-t4M0El font-meta-MWBumP size-11-NuY2Zx weight-medium-fw81nC transform-uppercase-yKDgcq reset-IxiVJZ meta-EgzBVA custom-css-email-post-author" style="list-style: none;font-size: 11px;line-height: 20px;text-decoration: unset;color: rgb(54,55,55);margin: 0;font-family: 'SF Compact',-apple-system,system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';font-weight: 500;text-transform: uppercase;letter-spacing: .2px;"><a class="pencraft pc-reset color-primary-zABazT line-height-20-t4M0El font-meta-MWBumP size-11-NuY2Zx weight-medium-fw81nC transform-uppercase-yKDgcq reset-IxiVJZ meta-EgzBVA" style="list-style: none;color: rgb(54,55,55);margin: 0;font-size: 11px;line-height: 20px;font-family: 'SF Compact',-apple-system,system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';font-weight: 500;text-transform: uppercase;letter-spacing: .2px;text-decoration: none" href="https://substack.com/@mikexcohen">Mike X Cohen, PhD</a> and <a class="pencraft pc-reset color-primary-zABazT line-height-20-t4M0El font-meta-MWBumP size-11-NuY2Zx weight-medium-fw81nC transform-uppercase-yKDgcq reset-IxiVJZ meta-EgzBVA" style="list-style: none;color: rgb(54,55,55);margin: 0;font-size: 11px;line-height: 20px;font-family: 'SF Compact',-apple-system,system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';font-weight: 500;text-transform: uppercase;letter-spacing: .2px;text-decoration: none" href="https://substack.com/@tivadardanka">Tivadar Danka</a></div></td></tr></tbody></table></td></tr><tr><td><table role="presentation" width="auto" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td style="vertical-align:middle;"><div class="pencraft pc-reset color-secondary-ls1g8s line-height-20-t4M0El font-meta-MWBumP size-11-NuY2Zx weight-medium-fw81nC transform-uppercase-yKDgcq reset-IxiVJZ meta-EgzBVA" style="list-style: none;font-size: 11px;line-height: 20px;text-decoration: unset;color: rgb(119,119,119);margin: 0;font-family: 'SF Compact',-apple-system,system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';font-weight: 500;text-transform: uppercase;letter-spacing: .2px;"><time datetime="2025-11-17T11:13:29.016Z">Nov 17</time></div></td></tr></tbody></table></td></tr></tbody></table></td><td align="right"><table role="presentation" width="auto" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td style="vertical-align:middle;"><a href="https://substack.com/@mikexcohen"><img class="custom-css-email-avatar avatar-QIQ5yR" src="https://substackcdn.com/image/fetch/$s_!e5a5!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3c804d93-69c2-49a9-a797-2216b4bae5ba_1000x1000.jpeg" style="box-sizing: border-box;border-radius: 500000px;max-width: 550px;border: none;vertical-align: middle;width: 32px;height: 32px;min-width: 32px;min-height: 32px;object-fit: cover;margin: 0px;display: inline" width="32" height="32"></a></td><td width="4" style="min-width: 4px"></td><td style="vertical-align:middle;"><a href="https://substack.com/@tivadardanka"><img class="custom-css-email-avatar avatar-QIQ5yR" src="https://substackcdn.com/image/fetch/$s_!09ow!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F3b26cd48-153a-4207-b1e3-e14e1ec8d5e8_400x400.jpeg" style="box-sizing: border-box;border-radius: 500000px;max-width: 550px;border: none;vertical-align: middle;width: 32px;height: 32px;min-width: 32px;min-height: 32px;object-fit: cover;margin: 0px;display: inline" width="32" height="32"></a></td></tr></tbody></table></td></tr></tbody></table><table class="email-ufi-2-top" role="presentation" width="100%" border="0" cellspacing="0" cellpadding="0" style="border-top: 1px solid rgb(0,0,0,.1);border-bottom: 1px solid rgb(0,0,0,.1);min-width: 100%;"><tbody><tr height="16"><td height="16" style="font-size:0px;line-height:0;">&nbsp;</td></tr><tr><td><table role="presentation" width="100%" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td><table role="presentation" width="auto" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td style="vertical-align:middle;"><table role="presentation" width="38" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td align="center"><a class="email-icon-button" href="https://substack.com/app-link/post?publication_id=1176501&post_id=178581792&utm_source=substack&isFreemail=true&submitLike=true&token=eyJ1c2VyX2lkIjoxNDU2MzMxOSwicG9zdF9pZCI6MTc4NTgxNzkyLCJyZWFjdGlvbiI6IuKdpCIsImlhdCI6MTc2MzM3ODE4NiwiZXhwIjoxNzY1OTcwMTg2LCJpc3MiOiJwdWItMTE3NjUwMSIsInN1YiI6InJlYWN0aW9uIn0.VEhaHdGZ3v0C63SjPp2Yl7e1TpbHIb1dqJYk6vwHEdg&utm_medium=email&utm_campaign=email-reaction&r=8o54n" style="font-family: system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';display: inline-block;font-weight: 500;border: 1px solid rgb(0,0,0,.1);border-radius: 9999px;text-transform: uppercase;font-size: 12px;line-height: 1;padding: 9px 0;text-decoration: none;color: rgb(119,119,119);min-width: 38px;box-sizing: border-box;width: 38px"><img class="icon" src="https://substackcdn.com/image/fetch/$s_!PeVs!,w_36,c_scale,f_png,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack.com%2Ficon%2FLucideHeart%3Fv%3D4%26height%3D36%26fill%3Dnone%26stroke%3D%2523808080%26strokeWidth%3D2" width="18" height="18" style="border: none;vertical-align: middle;max-width: 18px" alt=""></a></td></tr></tbody></table></td><td width="8" style="min-width: 8px"></td><td style="vertical-align:middle;"><table role="presentation" width="38" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td align="center"><a class="email-icon-button" href="https://substack.com/app-link/post?publication_id=1176501&post_id=178581792&utm_source=substack&utm_medium=email&isFreemail=true&comments=true&token=eyJ1c2VyX2lkIjoxNDU2MzMxOSwicG9zdF9pZCI6MTc4NTgxNzkyLCJpYXQiOjE3NjMzNzgxODYsImV4cCI6MTc2NTk3MDE4NiwiaXNzIjoicHViLTExNzY1MDEiLCJzdWIiOiJwb3N0LXJlYWN0aW9uIn0.tc5LOk3e17xDUkSbLtiwVose6-mNCxMKeOJyZN60Fek&r=8o54n&utm_campaign=email-half-magic-comments&action=post-comment&utm_source=substack&utm_medium=email" style="font-family: system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';display: inline-block;font-weight: 500;border: 1px solid rgb(0,0,0,.1);border-radius: 9999px;text-transform: uppercase;font-size: 12px;line-height: 1;padding: 9px 0;text-decoration: none;color: rgb(119,119,119);min-width: 38px;box-sizing: border-box;width: 38px"><img class="icon" src="https://substackcdn.com/image/fetch/$s_!x1tS!,w_36,c_scale,f_png,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack.com%2Ficon%2FLucideComments%3Fv%3D4%26height%3D36%26fill%3Dnone%26stroke%3D%2523808080%26strokeWidth%3D2" width="18" height="18" style="border: none;vertical-align: middle;max-width: 18px" alt=""></a></td></tr></tbody></table></td><td width="8" style="min-width: 8px"></td><td style="vertical-align:middle;"><table role="presentation" width="38" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td align="center"><a class="email-icon-button" href="https://substack.com/app-link/post?publication_id=1176501&post_id=178581792&utm_source=substack&utm_medium=email&utm_content=share&utm_campaign=email-share&action=share&triggerShare=true&isFreemail=true&r=8o54n&token=eyJ1c2VyX2lkIjoxNDU2MzMxOSwicG9zdF9pZCI6MTc4NTgxNzkyLCJpYXQiOjE3NjMzNzgxODYsImV4cCI6MTc2NTk3MDE4NiwiaXNzIjoicHViLTExNzY1MDEiLCJzdWIiOiJwb3N0LXJlYWN0aW9uIn0.tc5LOk3e17xDUkSbLtiwVose6-mNCxMKeOJyZN60Fek" style="font-family: system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';display: inline-block;font-weight: 500;border: 1px solid rgb(0,0,0,.1);border-radius: 9999px;text-transform: uppercase;font-size: 12px;line-height: 1;padding: 9px 0;text-decoration: none;color: rgb(119,119,119);min-width: 38px;box-sizing: border-box;width: 38px"><img class="icon" src="https://substackcdn.com/image/fetch/$s_!_L14!,w_36,c_scale,f_png,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack.com%2Ficon%2FLucideShare2%3Fv%3D4%26height%3D36%26fill%3Dnone%26stroke%3D%2523808080%26strokeWidth%3D2" width="18" height="18" style="border: none;vertical-align: middle;max-width: 18px" alt=""></a></td></tr></tbody></table></td><td width="8" style="min-width: 8px"></td><td style="vertical-align:middle;"><table role="presentation" width="38" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td align="center"><a class="email-icon-button" href="https://substack.com/redirect/2/eyJlIjoiaHR0cHM6Ly9vcGVuLnN1YnN0YWNrLmNvbS9wdWIvdGhlcGFsaW5kcm9tZS9wL3RoZS1hbmF0b215LW9mLXRoZS1sZWFzdC1zcXVhcmVzLWEzZD91dG1fc291cmNlPXN1YnN0YWNrJnV0bV9tZWRpdW09ZW1haWwmdXRtX2NhbXBhaWduPWVtYWlsLXJlc3RhY2stY29tbWVudCZhY3Rpb249cmVzdGFjay1jb21tZW50JnI9OG81NG4mdG9rZW49ZXlKMWMyVnlYMmxrSWpveE5EVTJNek14T1N3aWNHOXpkRjlwWkNJNk1UYzROVGd4TnpreUxDSnBZWFFpT2pFM05qTXpOemd4T0RZc0ltVjRjQ0k2TVRjMk5UazNNREU0Tml3aWFYTnpJam9pY0hWaUxURXhOelkxTURFaUxDSnpkV0lpT2lKd2IzTjBMWEpsWVdOMGFXOXVJbjAudGM1TE9rM2UxN3hEVWtTYkx0aXdWb3NlNi1tTkN4TUtlT0p5Wk42MEZlayIsInAiOjE3ODU4MTc5MiwicyI6MTE3NjUwMSwiZiI6dHJ1ZSwidSI6MTQ1NjMzMTksImlhdCI6MTc2MzM3ODE4NiwiZXhwIjoyMDc4OTU0MTg2LCJpc3MiOiJwdWItMCIsInN1YiI6ImxpbmstcmVkaXJlY3QifQ.3UlOEF586wnfB9WlCw5_N__mgol6XSV6J4wf8FHdM_0?&utm_source=substack&utm_medium=email" style="font-family: system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';display: inline-block;font-weight: 500;border: 1px solid rgb(0,0,0,.1);border-radius: 9999px;text-transform: uppercase;font-size: 12px;line-height: 1;padding: 9px 0;text-decoration: none;color: rgb(119,119,119);min-width: 38px;box-sizing: border-box;width: 38px"><img class="icon" src="https://substackcdn.com/image/fetch/$s_!5EGt!,w_36,c_scale,f_png,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack.com%2Ficon%2FNoteForwardIcon%3Fv%3D4%26height%3D36%26fill%3Dnone%26stroke%3D%2523808080%26strokeWidth%3D2" width="18" height="18" style="border: none;vertical-align: middle;max-width: 18px" alt=""></a></td></tr></tbody></table></td></tr></tbody></table></td><td align="right"><table role="presentation" width="auto" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td style="vertical-align:middle;"><table role="presentation" width="auto" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td align="center"><a class="email-button-outline" href="https://open.substack.com/pub/thepalindrome/p/the-anatomy-of-the-least-squares-a3d?utm_source=email&redirect=app-store&utm_campaign=email-read-in-app" style="font-family: system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';display: inline-block;font-weight: 500;border: 1px solid rgb(0,0,0,.1);border-radius: 9999px;text-transform: uppercase;font-size: 12px;line-height: 12px;padding: 9px 14px;text-decoration: none;color: rgb(119,119,119);"><div class="email-button-spacer" style="font-size: 16px;line-height: 26px;display: inline-block;vertical-align: middle;max-width: 0;min-height: 18px;"></div><span class="email-button-text" style="vertical-align: middle;margin-right: 4px">READ IN APP</span><img class="icon text-icon" src="https://substackcdn.com/image/fetch/$s_!ET-_!,w_36,c_scale,f_png,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack.com%2Ficon%2FLucideArrowUpRight%3Fv%3D4%26height%3D36%26fill%3Dnone%26stroke%3D%2523808080%26strokeWidth%3D2" width="18" height="18" style="min-width: 18px;min-height: 18px;border: none;vertical-align: middle;margin-right: 0;margin-left: 0;max-width: 18px" alt=""></a></td></tr></tbody></table></td></tr></tbody></table></td></tr></tbody></table></td></tr><tr height="16"><td height="16" style="font-size:0px;line-height:0;">&nbsp;</td></tr></tbody></table></div></div><div class="post typography" dir="auto" style="--image-offset-margin: -120px;padding: 32px 0 0 0;font-size: 16px;line-height: 26px;"><div class="body markup" dir="auto" style="text-align: initial;font-size: 16px;line-height: 26px;width: 100%;word-break: break-word;margin-bottom: 16px;"><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;margin-top: 0;"><em>Hey! It&#8217;s Tivadar from The Palindrome.</em></p><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;"><em><span>The legendary </span><a href="https://open.substack.com/users/382604135-mike-x-cohen-phd?utm_source=mentions" rel="" style="color: #9d6fff;text-decoration: none;">Mike X Cohen, PhD</a><span> is back with the final part of our deep dive into the least squares method, the bread and butter of data science and machine learning.</span></em></p><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;"><em>Enjoy!</em></p><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;"><em><span>Cheers,</span><br><span>Tivadar</span></em></p><div style="font-size: 16px;line-height: 26px;"><hr style="margin: 32px 0;padding: 0;height: 1px;background: #3d2f3d;border: none;"></div><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;">By the end of this post series, you will be confident about understanding, applying, and interpreting regression models (general linear models) that are solved using the famous least-squares algorithm. Here&#8217;s a breakdown of the post series:</p><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;"><strong><a href="https://substack.com/redirect/48d5cc06-28fb-4ef8-99c4-b3cd1adfa9d6?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel="" style="color: #9d6fff;text-decoration: none;">Part 1: Theory and math</a></strong><a href="https://substack.com/redirect/48d5cc06-28fb-4ef8-99c4-b3cd1adfa9d6?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel="" style="color: #9d6fff;text-decoration: none;">.</a><span> If you haven&#8217;t read this post yet, please do so!</span></p><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;"><strong><a href="https://substack.com/redirect/8ea7f7e3-8ef7-4327-be0a-d5b15da755f0?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel="" style="color: #9d6fff;text-decoration: none;">Part 2: Explorations in simulations.</a></strong><span> You learned how to simulate and visualize data and regression results.</span></p><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;"><strong><a href="https://substack.com/redirect/14fab876-6857-48f6-a6a0-8778aa04e7a3?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel="" style="color: #9d6fff;text-decoration: none;">Part 3: real-data examples</a></strong><a href="https://substack.com/redirect/14fab876-6857-48f6-a6a0-8778aa04e7a3?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel="" style="color: #9d6fff;text-decoration: none;">.</a><span> Here you learned how to import, inspect, clean, and analyze a real-world dataset using the statsmodels, pandas, and seaborn libraries.</span></p><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;"><strong>Part 4 (this post): modeling GPT activations.</strong><span> We&#8217;ll dissect OpenAI&#8217;s LLM GPT2, the precursor to its state-of-the-art ChatGPT. You&#8217;ll learn more about least-squares and also about LLM mechanisms.</span></p><h3 class="header-anchor-post" style="position: relative;font-family: 'SF Pro Display',-apple-system-headline,system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';font-weight: bold;-webkit-font-smoothing: antialiased;-moz-osx-font-smoothing: antialiased;-webkit-appearance: optimizelegibility;-moz-appearance: optimizelegibility;appearance: optimizelegibility;margin: 1em 0 0.625em 0;color: rgb(54,55,55);line-height: 1.16em;font-size: 1.375em;"><strong>Following along with code</strong></h3><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;"><span>Seeing math come alive in code gives you a deeper understanding and intuition &#8212; and that warm fuzzy feeling of confidence in your newly harnessed coding and machine-learning skills. </span><em>You can learn a lot of math with a bit of code</em><strong>.</strong></p><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;"><span>Here is the link to the </span><a href="https://substack.com/redirect/3420b307-2cb7-401c-9609-000b699f9173?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel="" style="color: #9d6fff;text-decoration: none;">online code on my GitHub</a><span> for this post. I recommend following along with the code as you read this post.</span></p><div class="video-player-with-background is-static video-player-wrapper" role="region" aria-label="Video player" style="flex-grow: 1;font-size: 16px;line-height: 26px;margin-top: 0.5em;"><a class="video-player video-player-with-background" href="https://substack.com/redirect/913eb835-2488-4a22-8493-042cce402563?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" style="position: relative;display: block;width: 100%;cursor: pointer;background-color: rgb(0,0,0);height: auto;border-radius: 8px;padding-bottom: 0"><img class="video-player-preview" width="550" src="https://substackcdn.com/image/fetch/$s_!GScz!,w_1100,h_618,c_fill,f_auto,q_auto:good,fl_progressive:steep/l_play_button_usfui2,w_144,e_colorize:0/https%3A%2F%2Fsubstack-video.s3.amazonaws.com%2Fvideo_upload%2Fpost%2F178581792%2F35dd791c-2613-4e3a-be28-c650af007df9%2Ftranscoded-00001.png" data-component-name="VideoPlayer-PreviewImg" data-testid="video-player-static-preview-image" style="border: none !important;vertical-align: middle;display: block;-ms-interpolation-mode: bicubic;max-width: 100%;height: auto;margin: 0 auto;width: 100%;max-height: 100%;background: black;cursor: pointer;position: relative;border-radius: 8px;"></a></div><div style="font-size: 16px;line-height: 26px;"><hr style="margin: 32px 0;padding: 0;height: 1px;background: #3d2f3d;border: none;"></div><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;"><em><span>&#128204; The Palindrome breaks down advanced math and machine learning concepts with visuals that make everything click.</span><br><br><a href="https://substack.com/redirect/4cf84ca3-b271-4ba4-8cd8-0d02a9b5880a?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel="" style="color: #9d6fff;text-decoration: none;">Join the premium tier</a><span> to get access to </span><a href="https://substack.com/redirect/5db998ac-ac87-43a7-909e-cccda4aad1a7?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel="" style="color: #9d6fff;text-decoration: none;">the upcoming live courses</a><span> on Neural Networks from Scratch and Mathematics of Machine Learning.</span></em></p><div class="subscribe-widget is-signed-up" data-component-name="SubscribeWidget" style="margin: 0 0 1em;direction: ltr;font-size: 16px;line-height: 26px;"><div class="pencraft pc-reset button-wrapper" style="text-decoration: unset;list-style: none;font-size: 16px;line-height: 26px;text-align: center;cursor: pointer;border-radius: 4px;"><a class="button subscribe-btn primary" href="https://substack.com/redirect/2/eyJlIjoiaHR0cHM6Ly90aGVwYWxpbmRyb21lLm9yZy9zdWJzY3JpYmU_dXRtX3NvdXJjZT1wb3N0JnV0bV9jYW1wYWlnbj1lbWFpbC1jaGVja291dCZuZXh0PWh0dHBzJTNBJTJGJTJGdGhlcGFsaW5kcm9tZS5vcmclMkZwJTJGdGhlLWFuYXRvbXktb2YtdGhlLWxlYXN0LXNxdWFyZXMtYTNkJnI9OG81NG4mdG9rZW49ZXlKMWMyVnlYMmxrSWpveE5EVTJNek14T1N3aWFXRjBJam94TnpZek16YzRNVGcyTENKbGVIQWlPakUzTmpVNU56QXhPRFlzSW1semN5STZJbkIxWWkweE1UYzJOVEF4SWl3aWMzVmlJam9pWTJobFkydHZkWFFpZlEuR1RLZjJacFktdzV6UWVRRlpJazUwOEpEYWFLbUFWSFpSR2c4MlVFR1JUSSIsInAiOjE3ODU4MTc5MiwicyI6MTE3NjUwMSwiZiI6dHJ1ZSwidSI6MTQ1NjMzMTksImlhdCI6MTc2MzM3ODE4NiwiZXhwIjoyMDc4OTU0MTg2LCJpc3MiOiJwdWItMCIsInN1YiI6ImxpbmstcmVkaXJlY3QifQ.haRdkpvgWfxF9LmP3NDYPT0xSKto0Un4fdwi-bBgWow?&utm_medium=email&utm_source=subscribe-widget&utm_content=178581792" style="font-family: system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';display: inline-block;box-sizing: border-box;cursor: pointer;border: none;border-radius: 8px;font-size: 14px;line-height: 20px;font-weight: 600;text-align: center;opacity: 1;outline: none;white-space: nowrap;text-decoration: none !important;margin: 0 auto;background-color: #9D6FFF;color: #ffffff !important;padding: 12px 20px;height: auto;"><span style="color: #ffffff;text-decoration: none;">Upgrade to paid</span></a></div></div><div style="font-size: 16px;line-height: 26px;"><hr style="margin: 32px 0;padding: 0;height: 1px;background: #3d2f3d;border: none;"></div><h2 class="header-anchor-post" style="position: relative;font-family: 'SF Pro Display',-apple-system-headline,system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';font-weight: bold;-webkit-font-smoothing: antialiased;-moz-osx-font-smoothing: antialiased;-webkit-appearance: optimizelegibility;-moz-appearance: optimizelegibility;appearance: optimizelegibility;margin: 1em 0 0.625em 0;color: rgb(54,55,55);line-height: 1.16em;font-size: 1.625em;">Import and inspect the GPT2 model</h2><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;">A large language model (LLM) is a deep-learning model that is trained to input text and generate predictions about what text should come next. It&#8217;s a form of generative AI because it uses context and learned worldview information to generate new text.</p><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;"><span>If you think LLMs are so complicated that they are impossible to understand, then I have bad news for you&#8230; you&#8217;re wrong! LLMs are not so complicated, and you can learn all about them with just a high-school-level math background. If you&#8217;d like to use Python to learn how LLMs are designed and how they work, you can check out my </span><a href="https://substack.com/redirect/679b38de-8921-4408-928f-a279b31c8a68?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel="" style="color: #9d6fff;text-decoration: none;">6-part series</a><span> on using machine-learning to understand LLM mechanisms here on Substack.</span></p><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;">There are two goals of this post: (1) to show you how easy it is to import and inspect an LLM, and (2) to apply the least-squares algorithm to model some internal activations while an LLM processes text.</p><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;">Let&#8217;s begin with that first goal.</p><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;"><span>The code block below imports OpenAI&#8217;s GPT2 model using a library developed by a company called </span><a href="https://substack.com/redirect/83c050ff-1a13-4b6c-a04e-8f5b62592bf8?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel="" style="color: #9d6fff;text-decoration: none;">HuggingFace</a><span> (cute name for an AI company, don&#8217;t you think?).</span></p><div class="captioned-image-container-static" style="font-size: 16px;line-height: 26px;margin: 32px auto;"><figure style="width: 100%;margin: 0 auto;"><table class="image-wrapper" width="100%" border="0" cellspacing="0" cellpadding="0" data-component-name="Image2ToDOMStatic" style="mso-padding-alt: 1em 0 1.6em;"><tbody><tr><td style="text-align: center;"></td><td class="content" align="left" width="1200" style="text-align: center;"><a class="image-link" target="_blank" href="https://substack.com/redirect/de9e4de2-190e-42ae-bf82-aea8e3153a05?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel="" style="position: relative;flex-direction: column;align-items: center;padding: 0;width: auto;height: auto;border: none;text-decoration: none;display: block;margin: 0;"><img class="wide-image" data-attrs="{&quot;src&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/3b8c2e0c-a8e2-447d-a76d-d53b3ba31aba_1920x489.png&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:false,&quot;imageSize&quot;:&quot;large&quot;,&quot;height&quot;:371,&quot;width&quot;:1456,&quot;resizeWidth&quot;:1200,&quot;bytes&quot;:116066,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:&quot;image/png&quot;,&quot;href&quot;:null,&quot;belowTheFold&quot;:true,&quot;topImage&quot;:false,&quot;internalRedirect&quot;:&quot;https://thepalindrome.org/i/178581792?img=https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3b8c2e0c-a8e2-447d-a76d-d53b3ba31aba_1920x489.png&quot;,&quot;isProcessing&quot;:false,&quot;align&quot;:&quot;center&quot;,&quot;offset&quot;:false}" alt="" width="550" height="140.14423076923077" src="https://substackcdn.com/image/fetch/$s_!hmG5!,w_1100,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3b8c2e0c-a8e2-447d-a76d-d53b3ba31aba_1920x489.png" style="border: none !important;vertical-align: middle;display: block;-ms-interpolation-mode: bicubic;height: auto;margin-bottom: 0;width: auto !important;max-width: 100% !important;margin: 0 auto;"></a></td><td style="text-align: center;"></td></tr></tbody></table></figure></div><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;">GPT2 is the precursor to OpenAI&#8217;s ChatGPT models. The architecture and algorithms are the same, but GPT2 is smaller. It&#8217;s used very often for learning about and studying LLMs, analogous to how the MNIST dataset of hand-written digits is used for learning about computer vision.</p><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;"><span>Anyway, that code block imports the model (variable </span><code>gpt2</code><span>) and a &#8220;tokenizer.&#8221; I&#8217;ll explain what a tokenizer is in the next section; first I want to show the overview of the GPT2 architecture.</span></p><pre style="position: relative;background: #eeeeee;padding: 16px;margin: 32px 0;border-radius: 8px;box-sizing: border-box;"><code style="white-space: pre-wrap;font-size: 16px;line-height: 20px;font-weight: 500;">GPT2LMHeadModel(
+  (transformer): GPT2Model(
+    (wte): Embedding(50257, 768)
+    (wpe): Embedding(1024, 768)
+    (drop): Dropout(p=0.1, inplace=False)
+    (h): ModuleList(
+      (0-11): 12 x GPT2Block(
+        (ln_1): LayerNorm((768,), eps=1e-05, elementwise_affine=True)
+        (attn): GPT2Attention(
+          (c_attn): Conv1D(nf=2304, nx=768)
+          (c_proj): Conv1D(nf=768, nx=768)
+          (attn_dropout): Dropout(p=0.1, inplace=False)
+          (resid_dropout): Dropout(p=0.1, inplace=False)
+        )
+        (ln_2): LayerNorm((768,), eps=1e-05, elementwise_affine=True)
+        (mlp): GPT2MLP(
+          (c_fc): Conv1D(nf=3072, nx=768)
+          (c_proj): Conv1D(nf=768, nx=3072)
+          (act): NewGELUActivation()
+          (dropout): Dropout(p=0.1, inplace=False)
+        )
+      )
+    )
+    (ln_f): LayerNorm((768,), eps=1e-05, elementwise_affine=True)
+  )
+  (lm_head): Linear(in_features=768, out_features=50257, bias=False)
+)</code></pre><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;"><span>If this is your first encounter with LLMs in Python, then that overview probably looks intimidating. At a quick glance: each tab-indented section describes a different part of the model and provides some information about the sizes of the parameter matrices. The </span><code>(h)</code><span> is for the hidden layers, which comprise 12 transformer blocks. A transformer is the heart and soul of a language model, and is made of two parts: </span><em>attention</em><span> (</span><code>(attn)</code><span>) and MLP.</span></p><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;"><span>The attention subblock is perhaps the most famous part of a language model, and that will be our main focus here in this post. Briefly, the attention subblock analyzes the text you&#8217;ve given to the model (e.g., the prompt you write to ChatGPT or the text in the pdf you upload) and find pairs of words that are important. For example, in the first sentence of this paragraph, the word pair </span><code>[&#8220;subblock&#8221;, &#8220;focus&#8221;]</code><span> is relevant for generating new text, but the word pair </span><code>[&#8220;the&#8221;, &#8221;of&#8221;]</code><span> is not relevant. The attention subblock calculates </span><em>adjustments</em><span> that modify how each word is represented, according to the importance of those word-pairs. In the regression analysis here, we will focus on those adjustments.</span></p><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;">But before setting up the model, you need to know how to transform text into tokens and then how to access the internal model activations.</p><h2 class="header-anchor-post" style="position: relative;font-family: 'SF Pro Display',-apple-system-headline,system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';font-weight: bold;-webkit-font-smoothing: antialiased;-moz-osx-font-smoothing: antialiased;-webkit-appearance: optimizelegibility;-moz-appearance: optimizelegibility;appearance: optimizelegibility;margin: 1em 0 0.625em 0;color: rgb(54,55,55);line-height: 1.16em;font-size: 1.625em;">Tokenize text and get attention adjustments</h2><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;"><span>You interact with chatbots like ChatGPT or Claude using text, but LLMs don&#8217;t actually read </span><em>text</em><span>. Instead, they read a sequence of integers that correspond to words and subwords. Those are called </span><em>tokens</em><span>. For example, the word &#8220; rock&#8221; is token 3881.</span></p><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;"><span>GPT2 models have a vocabulary of 50,257 tokens. Many of those tokens correspond to whole words, others are digits, punctuations, subwords (e.g., </span><code>&#8220;om&#8221;</code><span>), and bits of code (e.g.,</span><code> &#8220;&lt;\html&#8221;</code><span>).</span></p><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;">The goal of this section is to start with human-readable text, transform it into tokens, and then extract the attention adjustment vectors from the LLM. We&#8217;ll use those data for the statistical modeling in the next section.</p><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;"><span>The text I&#8217;ve chosen to work with in this post is a paragraph about Hungarian rock music from </span><a href="https://substack.com/redirect/d3120b11-d6ab-483e-bb07-54f699ac57fe?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel="" style="color: #9d6fff;text-decoration: none;">Wikipedia</a><span>:</span></p><div class="captioned-image-container-static" style="font-size: 16px;line-height: 26px;margin: 32px auto;"><figure style="width: 100%;margin: 0 auto;"><table class="image-wrapper" width="100%" border="0" cellspacing="0" cellpadding="0" data-component-name="Image2ToDOMStatic" style="mso-padding-alt: 1em 0 1.6em;"><tbody><tr><td style="text-align: center;"></td><td class="content" align="left" width="1456" style="text-align: center;"><a class="image-link" target="_blank" href="https://substack.com/redirect/6723ad5e-a7e7-40b2-9b3b-33011e2885f5?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel="" style="position: relative;flex-direction: column;align-items: center;padding: 0;width: auto;height: auto;border: none;text-decoration: none;display: block;margin: 0;"><img class="wide-image" data-attrs="{&quot;src&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/b3cb14c8-0c09-4b1e-8c9f-5ae59a1be9dd_1920x700.png&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:null,&quot;height&quot;:531,&quot;width&quot;:1456,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:349369,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:&quot;image/png&quot;,&quot;href&quot;:null,&quot;belowTheFold&quot;:true,&quot;topImage&quot;:false,&quot;internalRedirect&quot;:&quot;https://thepalindrome.org/i/178581792?img=https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb3cb14c8-0c09-4b1e-8c9f-5ae59a1be9dd_1920x700.png&quot;,&quot;isProcessing&quot;:false,&quot;align&quot;:null,&quot;offset&quot;:false}" alt="" width="550" height="200.5837912087912" src="https://substackcdn.com/image/fetch/$s_!WwG2!,w_1100,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb3cb14c8-0c09-4b1e-8c9f-5ae59a1be9dd_1920x700.png" style="border: none !important;vertical-align: middle;display: block;-ms-interpolation-mode: bicubic;height: auto;margin-bottom: 0;width: auto !important;max-width: 100% !important;margin: 0 auto;"></a></td><td style="text-align: center;"></td></tr></tbody></table></figure></div><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;"><span>Here&#8217;s a screenshot of what the code looks like (some of the code lines are longer than the screenshot, </span><a href="https://substack.com/redirect/3420b307-2cb7-401c-9609-000b699f9173?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel="" style="color: #9d6fff;text-decoration: none;">but you can see the entire code file on my GitHub</a><span>):</span></p><div class="captioned-image-container-static" style="font-size: 16px;line-height: 26px;margin: 32px auto;"><figure style="width: 100%;margin: 0 auto;"><table class="image-wrapper" width="100%" border="0" cellspacing="0" cellpadding="0" data-component-name="Image2ToDOMStatic" style="mso-padding-alt: 1em 0 1.6em;"><tbody><tr><td style="text-align: center;"></td><td class="content" align="left" width="1200" style="text-align: center;"><a class="image-link" target="_blank" href="https://substack.com/redirect/9ad5748b-38b1-4e64-9c54-b5ec0cc4e2d5?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel="" style="position: relative;flex-direction: column;align-items: center;padding: 0;width: auto;height: auto;border: none;text-decoration: none;display: block;margin: 0;"><img class="wide-image" data-attrs="{&quot;src&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/d9642781-7de0-431f-aabf-fdabcd7aade8_1920x1159.png&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:false,&quot;imageSize&quot;:&quot;large&quot;,&quot;height&quot;:879,&quot;width&quot;:1456,&quot;resizeWidth&quot;:1200,&quot;bytes&quot;:345419,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:&quot;image/png&quot;,&quot;href&quot;:null,&quot;belowTheFold&quot;:true,&quot;topImage&quot;:false,&quot;internalRedirect&quot;:&quot;https://thepalindrome.org/i/178581792?img=https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd9642781-7de0-431f-aabf-fdabcd7aade8_1920x1159.png&quot;,&quot;isProcessing&quot;:false,&quot;align&quot;:&quot;center&quot;,&quot;offset&quot;:false}" alt="" width="550" height="332.03983516483515" src="https://substackcdn.com/image/fetch/$s_!M6as!,w_1100,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd9642781-7de0-431f-aabf-fdabcd7aade8_1920x1159.png" style="border: none !important;vertical-align: middle;display: block;-ms-interpolation-mode: bicubic;height: auto;margin-bottom: 0;width: auto !important;max-width: 100% !important;margin: 0 auto;"></a></td><td style="text-align: center;"></td></tr></tbody></table></figure></div><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;">That paragraph contains 428 characters but only 95 tokens. That&#8217;s almost an 80% compression of the text. Tokenization compresses language (in many but not all languages), which helps improve LLMs&#8217; memory efficiency.</p><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;"><span>At the bottom of that code block, I printed out the token indices and their corresponding text tokens. Many common words map onto one token, while other words get split into multiple tokens (e.g., </span><code>&#8220;Hungarian&#8221;</code><span> is coded as </span><code>&#8220;Hung&#8221;</code><span> + </span><code>&#8220;arian&#8221;</code><span>). GPT models often have spaces before whole words. That&#8217;s a result of how the tokenization algorithm (called the byte-pair-encoding algorithm) segments written language based on statistical co-occurrences; for example, </span><code>&#8220;th&#8221;</code><span> gets chunked into one token whereas </span><code>&#8220;tq&#8221;</code><span> is two tokens.</span></p><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;">Anyway, we now have 95 tokens that we can input into the model. Providing input to a language model is called a &#8220;forward pass&#8221; and is what happens when you type a prompt into ChatGPT and press the Enter key.</p><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;">The goal of the regression analysis in the next section will be to predict the attention adjustment to the current token based on the attention adjustments to the previous two tokens. In other words, if the model made a large adjustment to the previous tokens, does it also make a large adjustment to the current token?</p><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;"><span>To run that analysis, we need to access the internal calculations inside the attention subblock. Those are not readily available from outside the model, but PyTorch models have a special method, called a </span><em>hook function</em><span>, that allows us to access the hidden internals of models. A hook function is a regular python function that gets evaluated when a specified layer in the model is run. The code block below shows how I created a hook function that I implanted into each layer (&#8220;layer&#8221; referring to a transformer block that contains an attention subblock). I will explain each numbered part of the code below.</span></p><div class="captioned-image-container-static" style="font-size: 16px;line-height: 26px;margin: 32px auto;"><figure style="width: 100%;margin: 0 auto;"><table class="image-wrapper" width="100%" border="0" cellspacing="0" cellpadding="0" data-component-name="Image2ToDOMStatic" style="mso-padding-alt: 1em 0 1.6em;"><tbody><tr><td style="text-align: center;"></td><td class="content" align="left" width="1200" style="text-align: center;"><a class="image-link" target="_blank" href="https://substack.com/redirect/80132b77-74ab-4d3c-8606-9447d84e0f25?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel="" style="position: relative;flex-direction: column;align-items: center;padding: 0;width: auto;height: auto;border: none;text-decoration: none;display: block;margin: 0;"><img class="wide-image" data-attrs="{&quot;src&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/4dc50564-ac78-47b1-a892-e5b6be1a5199_1920x865.png&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:false,&quot;imageSize&quot;:&quot;large&quot;,&quot;height&quot;:656,&quot;width&quot;:1456,&quot;resizeWidth&quot;:1200,&quot;bytes&quot;:235293,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:&quot;image/png&quot;,&quot;href&quot;:null,&quot;belowTheFold&quot;:true,&quot;topImage&quot;:false,&quot;internalRedirect&quot;:&quot;https://thepalindrome.org/i/178581792?img=https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4dc50564-ac78-47b1-a892-e5b6be1a5199_1920x865.png&quot;,&quot;isProcessing&quot;:false,&quot;align&quot;:&quot;center&quot;,&quot;offset&quot;:false}" alt="" width="550" height="247.8021978021978" src="https://substackcdn.com/image/fetch/$s_!TnmK!,w_1100,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4dc50564-ac78-47b1-a892-e5b6be1a5199_1920x865.png" style="border: none !important;vertical-align: middle;display: block;-ms-interpolation-mode: bicubic;height: auto;margin-bottom: 0;width: auto !important;max-width: 100% !important;margin: 0 auto;"></a></td><td style="text-align: center;"></td></tr></tbody></table></figure></div><ol style="margin-top: 0;padding: 0;"><li style="margin: 8px 0 0 32px;"><p style="color: rgb(54,55,55);line-height: 26px;margin-bottom: 0;box-sizing: border-box;padding-left: 4px;font-size: 16px;margin: 0;">Initialize an empty dictionary in the global Python scope (accessible anywhere to any function). The hook function will populate this dictionary with the outputs of the attention calculations.</p></li><li style="margin: 8px 0 0 32px;"><p style="color: rgb(54,55,55);line-height: 26px;margin-bottom: 0;box-sizing: border-box;padding-left: 4px;font-size: 16px;margin: 0;"><span>Here you see two embedded functions. The &#8220;outer&#8221; function (</span><code>implant_hook</code><span>) is actually just a wrapper to pass an input argument (layer_number) into the hook function. The hook function is what gets implanted into the model at a key location during the forward pass (I&#8217;ll explain that in #4).</span></p></li><li style="margin: 8px 0 0 32px;"><p style="color: rgb(54,55,55);line-height: 26px;margin-bottom: 0;box-sizing: border-box;padding-left: 4px;font-size: 16px;margin: 0;">Hook functions can be as simple or as complicated as you need them to be. They&#8217;re just normal Python functions. For this demo, the hook function is very simple &#8212; I just grab a copy of the output of the attention subblock, change the data type from PyTorch tensor to NumPy array, and then store it in the activations dictionary in a key named for the layer from which the activations are extracted.</p></li><li style="margin: 8px 0 0 32px;"><p style="color: rgb(54,55,55);line-height: 26px;margin-bottom: 0;box-sizing: border-box;padding-left: 4px;font-size: 16px;margin: 0;"><span>Here&#8217;s where the hooks are implanted. I loop over all the layers (all the transformer blocks), and use the built-in PyTorch method </span><code>register_forward_hook</code><span> to install the hook function.</span></p></li></ol><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;">With those hook functions implanted, we can now run a forward pass of the model. When we input the tokens, the model will run its calculations to generate predictions about next tokens, and in so doing, it will run through the attention algorithm and copy the adjustments into the dictionary.</p><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;">The code block below shows the forward pass and some information about the adjustments that were stored in the dictionary.</p><div class="captioned-image-container-static" style="font-size: 16px;line-height: 26px;margin: 32px auto;"><figure style="width: 100%;margin: 0 auto;"><table class="image-wrapper" width="100%" border="0" cellspacing="0" cellpadding="0" data-component-name="Image2ToDOMStatic" style="mso-padding-alt: 1em 0 1.6em;"><tbody><tr><td style="text-align: center;"></td><td class="content" align="left" width="1200" style="text-align: center;"><a class="image-link" target="_blank" href="https://substack.com/redirect/9f467615-8f6d-4fe5-9ef7-14c54f95e339?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel="" style="position: relative;flex-direction: column;align-items: center;padding: 0;width: auto;height: auto;border: none;text-decoration: none;display: block;margin: 0;"><img class="wide-image" data-attrs="{&quot;src&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/d39b4037-36cb-4737-a925-03597ddeb0bf_1920x592.png&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:false,&quot;imageSize&quot;:&quot;large&quot;,&quot;height&quot;:449,&quot;width&quot;:1456,&quot;resizeWidth&quot;:1200,&quot;bytes&quot;:111809,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:&quot;image/png&quot;,&quot;href&quot;:null,&quot;belowTheFold&quot;:true,&quot;topImage&quot;:false,&quot;internalRedirect&quot;:&quot;https://thepalindrome.org/i/178581792?img=https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd39b4037-36cb-4737-a925-03597ddeb0bf_1920x592.png&quot;,&quot;isProcessing&quot;:false,&quot;align&quot;:&quot;center&quot;,&quot;offset&quot;:false}" alt="" width="550" height="169.6085164835165" src="https://substackcdn.com/image/fetch/$s_!Mhe2!,w_1100,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd39b4037-36cb-4737-a925-03597ddeb0bf_1920x592.png" style="border: none !important;vertical-align: middle;display: block;-ms-interpolation-mode: bicubic;height: auto;margin-bottom: 0;width: auto !important;max-width: 100% !important;margin: 0 auto;"></a></td><td style="text-align: center;"></td></tr></tbody></table></figure></div><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;"><span>There are several outputs that you can get from the model (e.g., </span><code>out=gpt2()</code><span>). However, for this demo, we don&#8217;t want the model </span><em>outputs</em><span>; we want the model </span><em>internals</em><span>. Those were copied into the adjustments dictionary, and you can see the list of keys that were created by the hook functions. The final line of code prints the shape of the NumPy array from one of the attention blocks. It is of size 1 &#215; 95 &#215; 768. &#8220;1&#8221; corresponds to the number of text sequences that we inputted (it is possible to batch multiple sequences to be processed in parallel); &#8220;95&#8221; is the number of tokens in the sequence, and &#8220;768&#8221; is the embeddings dimensionality. Embeddings are a dense representation of the tokens, and allow the language model to modify the tokens according to context and world knowledge. The attention algorithm calculates adjustments to those embeddings vectors, and our hook functions copied those adjustments into the dictionary so we can analyze them.</span></p><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;"><span>Those 768-dimensional embeddings adjustments provide rich, detailed, and complex information. For our purposes here, though, we will summarize the embeddings adjustments by measuring their </span><em>magnitude</em><span>.</span></p><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;"><span>The magnitude of the adjustment vector is its norm. If you&#8217;re familiar with linear algebra, then you&#8217;ll remember that the vector norm is the square root of the sum of the squared elements of a vector. For example, the norm of the vector </span><code>[1,0,-3]</code><span> is </span><code>sqrt(1+0+9) = sqrt(10) = 3.16</code><span>. The smaller the norm, the smaller the adjustment to the embeddings vector.</span></p><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;">We will use those adjustment vector norms in the regression analysis, but before we start building statistical models, it&#8217;s a good idea to inspect the data through visualizations.</p><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;">In the code block below, I extract the norm of the vectors, plot them, and make a histogram. Please try to understand what the code does before reading my explanations below. I&#8217;ll show the plots below that.</p><div class="captioned-image-container-static" style="font-size: 16px;line-height: 26px;margin: 32px auto;"><figure style="width: 100%;margin: 0 auto;"><table class="image-wrapper" width="100%" border="0" cellspacing="0" cellpadding="0" data-component-name="Image2ToDOMStatic" style="mso-padding-alt: 1em 0 1.6em;"><tbody><tr><td style="text-align: center;"></td><td class="content" align="left" width="1200" style="text-align: center;"><a class="image-link" target="_blank" href="https://substack.com/redirect/6163573b-8185-4114-b4ba-336639e10896?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel="" style="position: relative;flex-direction: column;align-items: center;padding: 0;width: auto;height: auto;border: none;text-decoration: none;display: block;margin: 0;"><img class="wide-image" data-attrs="{&quot;src&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/e48e4b3a-5291-4f5d-a024-a32c2f86af12_1920x863.png&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:false,&quot;imageSize&quot;:&quot;large&quot;,&quot;height&quot;:654,&quot;width&quot;:1456,&quot;resizeWidth&quot;:1200,&quot;bytes&quot;:225047,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:&quot;image/png&quot;,&quot;href&quot;:null,&quot;belowTheFold&quot;:true,&quot;topImage&quot;:false,&quot;internalRedirect&quot;:&quot;https://thepalindrome.org/i/178581792?img=https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe48e4b3a-5291-4f5d-a024-a32c2f86af12_1920x863.png&quot;,&quot;isProcessing&quot;:false,&quot;align&quot;:&quot;center&quot;,&quot;offset&quot;:false}" alt="" width="550" height="247.0467032967033" src="https://substackcdn.com/image/fetch/$s_!G7t_!,w_1100,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe48e4b3a-5291-4f5d-a024-a32c2f86af12_1920x863.png" style="border: none !important;vertical-align: middle;display: block;-ms-interpolation-mode: bicubic;height: auto;margin-bottom: 0;width: auto !important;max-width: 100% !important;margin: 0 auto;"></a></td><td style="text-align: center;"></td></tr></tbody></table></figure></div><ol style="margin-top: 0;padding: 0;"><li style="margin: 8px 0 0 32px;"><p style="color: rgb(54,55,55);line-height: 26px;margin-bottom: 0;box-sizing: border-box;padding-left: 4px;font-size: 16px;margin: 0;">Loop over all 12 layers (transformer blocks).</p></li><li style="margin: 8px 0 0 32px;"><p style="color: rgb(54,55,55);line-height: 26px;margin-bottom: 0;box-sizing: border-box;padding-left: 4px;font-size: 16px;margin: 0;">Calculate the norms of the attention adjustment vectors for all of the tokens except the first one. The first token in a sequence is usually an outlier because the model has no previous context to generate next-token predictions, and is therefore excluded. The norms are all positive (by definition) and long-tailed, and so taking the logarithm of the norms helps make them more suitable for a regression analysis &#8212; same as in the previous post with the apartment sales dataset.</p></li><li style="margin: 8px 0 0 32px;"><p style="color: rgb(54,55,55);line-height: 26px;margin-bottom: 0;box-sizing: border-box;padding-left: 4px;font-size: 16px;margin: 0;"><span>Here I make a scatter plot of the activation norms. The random.normal input creates tiny </span><em>x</em><span>-axis jitters that help visualize the density of the data.</span></p></li><li style="margin: 8px 0 0 32px;"><p style="color: rgb(54,55,55);line-height: 26px;margin-bottom: 0;box-sizing: border-box;padding-left: 4px;font-size: 16px;margin: 0;">To examine the distribution of attention norms, I extract histograms. There&#8217;s only 94 tokens, so rather than specifying the number of bins, I use the Freedman-Diaconis guideline to algorithmically select an appropriate number of histogram bins.</p></li></ol><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;">The figure below shows the result of running that code.</p><div class="captioned-image-container-static" style="font-size: 16px;line-height: 26px;margin: 32px auto;"><figure style="width: 100%;margin: 0 auto;"><table class="image-wrapper" width="100%" border="0" cellspacing="0" cellpadding="0" data-component-name="Image2ToDOMStatic" style="mso-padding-alt: 1em 0 1.6em;"><tbody><tr><td style="text-align: center;"></td><td class="content" align="left" width="1200" style="text-align: center;"><a class="image-link" target="_blank" href="https://substack.com/redirect/c8485d47-3bd3-44eb-a9b4-64cd6a086790?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel="" style="position: relative;flex-direction: column;align-items: center;padding: 0;width: auto;height: auto;border: none;text-decoration: none;display: block;margin: 0;"><img class="wide-image" data-attrs="{&quot;src&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/f0a5cea7-71cf-4cc8-8f09-03bcad8ce995_1920x733.png&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:false,&quot;imageSize&quot;:&quot;large&quot;,&quot;height&quot;:556,&quot;width&quot;:1456,&quot;resizeWidth&quot;:1200,&quot;bytes&quot;:265723,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:&quot;image/png&quot;,&quot;href&quot;:null,&quot;belowTheFold&quot;:true,&quot;topImage&quot;:false,&quot;internalRedirect&quot;:&quot;https://thepalindrome.org/i/178581792?img=https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff0a5cea7-71cf-4cc8-8f09-03bcad8ce995_1920x733.png&quot;,&quot;isProcessing&quot;:false,&quot;align&quot;:&quot;center&quot;,&quot;offset&quot;:false}" alt="" width="550" height="210.02747252747253" src="https://substackcdn.com/image/fetch/$s_!rKyb!,w_1100,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff0a5cea7-71cf-4cc8-8f09-03bcad8ce995_1920x733.png" style="border: none !important;vertical-align: middle;display: block;-ms-interpolation-mode: bicubic;height: auto;margin-bottom: 0;width: auto !important;max-width: 100% !important;margin: 0 auto;"></a></td><td style="text-align: center;"></td></tr></tbody></table><figcaption class="image-caption" style="box-sizing: content-box;color: #777777;font-size: 14px;line-height: 20px;font-weight: 400;letter-spacing: -.15px;margin-top: 8px;width: 70%;padding-left: 15%;padding-right: 15%;text-align: center;"><strong>Figure 1.</strong><em> The left panel shows a scatter plot of the attention adjustment vector norms (log scaled; each dot corresponds to one token in the prompt text). The right panel shows histograms of the adjustment norms for each layer, with the color of the lines corresponding to the layer number as in the left panel.</em></figcaption></figure></div><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;"><span>The first layer has relatively large adjustments that are all clustered together. Here&#8217;s why: The initial embeddings reflect the words themselves and not their context, and L0 is the first opportunity for the model to adjust the vectors according to the </span><em>specific </em><span>context of the prompt text. For example, the word </span><code>&#8220;bark&#8221;</code><span> has one embeddings vector before L0, regardless of whether the text is about a dog or a tree; at L0, the model can begin adjusting the embeddings vector depending on the local context.</span></p><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;">Thereafter, as the text moves deeper into the model (later transformer blocks), the embeddings vectors shift from pointing towards the word in the input prompt, to predictions about what tokens should come next (the LLM&#8217;s generative output text). That requires additional adjustments.</p><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;">The right panel in that figure shows histograms of the norms. These are all fairly normal &#8212; not perfectly Gaussian, but each layer has one central peak with decaying counts on either side. That&#8217;s a suitable distribution for a least-squares regression analysis.</p><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;">I&#8217;m sure you are super excited to start the statistical modeling! Keep reading &#128513;</p><h2 class="header-anchor-post" style="position: relative;font-family: 'SF Pro Display',-apple-system-headline,system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';font-weight: bold;-webkit-font-smoothing: antialiased;-moz-osx-font-smoothing: antialiased;-webkit-appearance: optimizelegibility;-moz-appearance: optimizelegibility;appearance: optimizelegibility;margin: 1em 0 0.625em 0;color: rgb(54,55,55);line-height: 1.16em;font-size: 1.625em;">Build and fit a model for one transformer</h2><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;">The goal of our analysis is to determine whether the attention adjustment to the current token can be predicted from the attention adjustment to the two preceding tokens.</p><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;">Translated into an equation, the regression model we&#8217;ll test here is the following:</p><div class="captioned-image-container-static" style="font-size: 16px;line-height: 26px;margin: 32px auto;"><figure style="width: 100%;margin: 0 auto;"><table class="image-wrapper" width="100%" border="0" cellspacing="0" cellpadding="0" data-component-name="Image2ToDOMStatic" style="mso-padding-alt: 1em 0 1.6em;"><tbody><tr><td style="text-align: center;"></td><td class="content" align="left" width="1456" style="text-align: center;"><a class="image-link" target="_blank" href="https://substack.com/redirect/ccdf49c1-3d3e-49a6-8bbe-8c5e559b2375?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel="" style="position: relative;flex-direction: column;align-items: center;padding: 0;width: auto;height: auto;border: none;text-decoration: none;display: block;margin: 0;"><img class="wide-image" data-attrs="{&quot;src&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/e8a68c4d-8e17-4922-a754-820d495452ff_1920x700.png&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:null,&quot;height&quot;:531,&quot;width&quot;:1456,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:26723,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:&quot;image/png&quot;,&quot;href&quot;:null,&quot;belowTheFold&quot;:true,&quot;topImage&quot;:false,&quot;internalRedirect&quot;:&quot;https://thepalindrome.org/i/178581792?img=https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe8a68c4d-8e17-4922-a754-820d495452ff_1920x700.png&quot;,&quot;isProcessing&quot;:false,&quot;align&quot;:null,&quot;offset&quot;:false}" alt="" width="550" height="200.5837912087912" src="https://substackcdn.com/image/fetch/$s_!2i61!,w_1100,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe8a68c4d-8e17-4922-a754-820d495452ff_1920x700.png" style="border: none !important;vertical-align: middle;display: block;-ms-interpolation-mode: bicubic;height: auto;margin-bottom: 0;width: auto !important;max-width: 100% !important;margin: 0 auto;"></a></td><td style="text-align: center;"></td></tr></tbody></table></figure></div><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;"><span>Where </span><em><span>a</span><sub style="font-size: 0.75em;line-height: 0;">t</sub></em><span> is the magnitude of the attention adjustment on token </span><em>t</em><span>, &#120573;</span><sub style="font-size: 0.75em;line-height: 0;">0</sub><span> is the intercept, and &#120573;</span><sub style="font-size: 0.75em;line-height: 0;">1</sub><span> and &#120573;</span><sub style="font-size: 0.75em;line-height: 0;">1</sub><span> are the impacts of the adjustments on the previous tokens.</span></p><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;">The code block below shows how I created a design matrix for one layer in the language model. I will extend this to all the layers in the next section; for now, just focus on how the design matrix and dependent variables are created. As always, please try to understand the code before reading my explanations below.</p><div class="captioned-image-container-static" style="font-size: 16px;line-height: 26px;margin: 32px auto;"><figure style="width: 100%;margin: 0 auto;"><table class="image-wrapper" width="100%" border="0" cellspacing="0" cellpadding="0" data-component-name="Image2ToDOMStatic" style="mso-padding-alt: 1em 0 1.6em;"><tbody><tr><td style="text-align: center;"></td><td class="content" align="left" width="1200" style="text-align: center;"><a class="image-link" target="_blank" href="https://substack.com/redirect/921dd3e6-2d83-4ddc-ab21-efe42598c336?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel="" style="position: relative;flex-direction: column;align-items: center;padding: 0;width: auto;height: auto;border: none;text-decoration: none;display: block;margin: 0;"><img class="wide-image" data-attrs="{&quot;src&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/729c447a-e726-42d8-8377-e8dc7806253c_1920x1195.png&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:false,&quot;imageSize&quot;:&quot;large&quot;,&quot;height&quot;:906,&quot;width&quot;:1456,&quot;resizeWidth&quot;:1200,&quot;bytes&quot;:277316,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:&quot;image/png&quot;,&quot;href&quot;:null,&quot;belowTheFold&quot;:true,&quot;topImage&quot;:false,&quot;internalRedirect&quot;:&quot;https://thepalindrome.org/i/178581792?img=https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F729c447a-e726-42d8-8377-e8dc7806253c_1920x1195.png&quot;,&quot;isProcessing&quot;:false,&quot;align&quot;:&quot;center&quot;,&quot;offset&quot;:false}" alt="" width="550" height="342.239010989011" src="https://substackcdn.com/image/fetch/$s_!MAdV!,w_1100,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F729c447a-e726-42d8-8377-e8dc7806253c_1920x1195.png" style="border: none !important;vertical-align: middle;display: block;-ms-interpolation-mode: bicubic;height: auto;margin-bottom: 0;width: auto !important;max-width: 100% !important;margin: 0 auto;"></a></td><td style="text-align: center;"></td></tr></tbody></table></figure></div><ol style="margin-top: 0;padding: 0;"><li style="margin: 8px 0 0 32px;"><p style="color: rgb(54,55,55);line-height: 26px;margin-bottom: 0;box-sizing: border-box;padding-left: 4px;font-size: 16px;margin: 0;"><span>Here I initialize NumPy arrays for the design matrix and dependent variable. Those arrays are </span><code>n_tokens - 3</code><span> because (1) I ignore the first token in the sequence and (2) the model will attempt to predict the current norm based on the two preceding norms. For these reasons, the first usable prediction is the fourth data point (index 3).</span></p></li><li style="margin: 8px 0 0 32px;"><p style="color: rgb(54,55,55);line-height: 26px;margin-bottom: 0;box-sizing: border-box;padding-left: 4px;font-size: 16px;margin: 0;">Calculate the log-transformed norms of the attention adjustments, as I showed earlier.</p></li><li style="margin: 8px 0 0 32px;"><p style="color: rgb(54,55,55);line-height: 26px;margin-bottom: 0;box-sizing: border-box;padding-left: 4px;font-size: 16px;margin: 0;"><span>Here&#8217;s where I build the design matrix. I start the for-loop at index 3, then set the dependent variable (</span><code>y</code><span>) to be the current-token norm, and I define the corresponding row in the design matrix to be an intercept term (&#8220;1&#8221;) and the norms from the previous two tokens.</span></p></li></ol><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;"><span>Now that we have a design matrix and a dependent variable, we can fit a least-squares model using </span><code>sm.OLS</code><span> &#8212; exactly how I described in the previous post. Here&#8217;s the code and the summary output:</span></p><div class="captioned-image-container-static" style="font-size: 16px;line-height: 26px;margin: 32px auto;"><figure style="width: 100%;margin: 0 auto;"><table class="image-wrapper" width="100%" border="0" cellspacing="0" cellpadding="0" data-component-name="Image2ToDOMStatic" style="mso-padding-alt: 1em 0 1.6em;"><tbody><tr><td style="text-align: center;"></td><td class="content" align="left" width="1200" style="text-align: center;"><a class="image-link" target="_blank" href="https://substack.com/redirect/8e41ddd6-fb09-41e4-b3ba-cbecfa28f87f?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel="" style="position: relative;flex-direction: column;align-items: center;padding: 0;width: auto;height: auto;border: none;text-decoration: none;display: block;margin: 0;"><img class="wide-image" data-attrs="{&quot;src&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/1b7323aa-5d31-424a-9d33-87515b955b30_1920x1192.png&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:false,&quot;imageSize&quot;:&quot;large&quot;,&quot;height&quot;:904,&quot;width&quot;:1456,&quot;resizeWidth&quot;:1200,&quot;bytes&quot;:417265,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:&quot;image/png&quot;,&quot;href&quot;:null,&quot;belowTheFold&quot;:true,&quot;topImage&quot;:false,&quot;internalRedirect&quot;:&quot;https://thepalindrome.org/i/178581792?img=https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1b7323aa-5d31-424a-9d33-87515b955b30_1920x1192.png&quot;,&quot;isProcessing&quot;:false,&quot;align&quot;:&quot;center&quot;,&quot;offset&quot;:false}" alt="" width="550" height="341.4835164835165" src="https://substackcdn.com/image/fetch/$s_!Ymjb!,w_1100,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1b7323aa-5d31-424a-9d33-87515b955b30_1920x1192.png" style="border: none !important;vertical-align: middle;display: block;-ms-interpolation-mode: bicubic;height: auto;margin-bottom: 0;width: auto !important;max-width: 100% !important;margin: 0 auto;"></a></td><td style="text-align: center;"></td></tr></tbody></table></figure></div><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;"><span>Looking through this summary table, we can see that the R</span><sup style="font-size: 0.75em;line-height: 0;">2</sup><span> is fairly low, and the two previous-token betas are non-significant. The intercept (</span><code>const</code><span>) is significant, but remember from the previous post that that&#8217;s not so interesting because it just means that the average log-norm is greater than zero.</span></p><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;">That analysis was just for the first transformer block. The next goal is to take the code and wrap it inside another for-loop over all the transformer layers.</p><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;">But before looping over all the layers, there&#8217;re two more quick demos I want to show.</p><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;"><span>First is how to extract the numbers from that summary table. That simply involves calling the attributes of the model object. The two attributes we&#8217;ll use here are the beta values (</span><code>.params</code><span>) and the p-values (</span><code>.pvalues</code><span>).</span></p><div class="captioned-image-container-static" style="font-size: 16px;line-height: 26px;margin: 32px auto;"><figure style="width: 100%;margin: 0 auto;"><table class="image-wrapper" width="100%" border="0" cellspacing="0" cellpadding="0" data-component-name="Image2ToDOMStatic" style="mso-padding-alt: 1em 0 1.6em;"><tbody><tr><td style="text-align: center;"></td><td class="content" align="left" width="1200" style="text-align: center;"><a class="image-link" target="_blank" href="https://substack.com/redirect/d4964f13-da60-4c80-8cc3-161538270c4e?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel="" style="position: relative;flex-direction: column;align-items: center;padding: 0;width: auto;height: auto;border: none;text-decoration: none;display: block;margin: 0;"><img class="wide-image" data-attrs="{&quot;src&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/d675ba7b-6693-4827-8868-c63fc922e746_1920x702.png&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:false,&quot;imageSize&quot;:&quot;large&quot;,&quot;height&quot;:532,&quot;width&quot;:1456,&quot;resizeWidth&quot;:1200,&quot;bytes&quot;:189867,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:&quot;image/png&quot;,&quot;href&quot;:null,&quot;belowTheFold&quot;:true,&quot;topImage&quot;:false,&quot;internalRedirect&quot;:&quot;https://thepalindrome.org/i/178581792?img=https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd675ba7b-6693-4827-8868-c63fc922e746_1920x702.png&quot;,&quot;isProcessing&quot;:false,&quot;align&quot;:&quot;center&quot;,&quot;offset&quot;:false}" alt="" width="550" height="200.96153846153845" src="https://substackcdn.com/image/fetch/$s_!2Sae!,w_1100,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd675ba7b-6693-4827-8868-c63fc922e746_1920x702.png" style="border: none !important;vertical-align: middle;display: block;-ms-interpolation-mode: bicubic;height: auto;margin-bottom: 0;width: auto !important;max-width: 100% !important;margin: 0 auto;"></a></td><td style="text-align: center;"></td></tr></tbody></table></figure></div><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;"><span>Second is a confirmation that the least squares analysis I taught you in earlier posts gives the same results as </span><code>sm.OLS</code><span>. For that, we can repeat the least-squares analysis using NumPy.</span></p><div class="captioned-image-container-static" style="font-size: 16px;line-height: 26px;margin: 32px auto;"><figure style="width: 100%;margin: 0 auto;"><table class="image-wrapper" width="100%" border="0" cellspacing="0" cellpadding="0" data-component-name="Image2ToDOMStatic" style="mso-padding-alt: 1em 0 1.6em;"><tbody><tr><td style="text-align: center;"></td><td class="content" align="left" width="1200" style="text-align: center;"><a class="image-link" target="_blank" href="https://substack.com/redirect/521f9a6e-27b6-44dc-8340-69c57dfb2b3a?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel="" style="position: relative;flex-direction: column;align-items: center;padding: 0;width: auto;height: auto;border: none;text-decoration: none;display: block;margin: 0;"><img class="wide-image" data-attrs="{&quot;src&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/78dbe8d4-744c-4415-be39-db6404083a65_1920x536.png&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:false,&quot;imageSize&quot;:&quot;large&quot;,&quot;height&quot;:406,&quot;width&quot;:1456,&quot;resizeWidth&quot;:1200,&quot;bytes&quot;:90633,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:&quot;image/png&quot;,&quot;href&quot;:null,&quot;belowTheFold&quot;:true,&quot;topImage&quot;:false,&quot;internalRedirect&quot;:&quot;https://thepalindrome.org/i/178581792?img=https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F78dbe8d4-744c-4415-be39-db6404083a65_1920x536.png&quot;,&quot;isProcessing&quot;:false,&quot;align&quot;:&quot;center&quot;,&quot;offset&quot;:false}" alt="" width="550" height="153.3653846153846" src="https://substackcdn.com/image/fetch/$s_!aWWO!,w_1100,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F78dbe8d4-744c-4415-be39-db6404083a65_1920x536.png" style="border: none !important;vertical-align: middle;display: block;-ms-interpolation-mode: bicubic;height: auto;margin-bottom: 0;width: auto !important;max-width: 100% !important;margin: 0 auto;"></a></td><td style="text-align: center;"></td></tr></tbody></table></figure></div><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;">The betas from NumPy match the ones from statsmodels.</p><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;"><span>Whether to calculate least-squares directly in NumPy or use the statsmodels library depends on your goals: If you only need the beta values, then it&#8217;s easier and simpler to stick with NumPy. But on the other hand, getting the detailed information like </span><em>p</em><span>-values to evaluate statistical significance would be much more work with NumPy but is straightforward with statsmodels.</span></p><h2 class="header-anchor-post" style="position: relative;font-family: 'SF Pro Display',-apple-system-headline,system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';font-weight: bold;-webkit-font-smoothing: antialiased;-moz-osx-font-smoothing: antialiased;-webkit-appearance: optimizelegibility;-moz-appearance: optimizelegibility;appearance: optimizelegibility;margin: 1em 0 0.625em 0;color: rgb(54,55,55);line-height: 1.16em;font-size: 1.625em;">Run the regression for all layers</h2><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;"><span>The code block below extracts the attention adjustment norms, creates a design matrix, fits the model, and extracts the beta and </span><em>p</em><span>-values. My explanations below.</span></p><div class="captioned-image-container-static" style="font-size: 16px;line-height: 26px;margin: 32px auto;"><figure style="width: 100%;margin: 0 auto;"><table class="image-wrapper" width="100%" border="0" cellspacing="0" cellpadding="0" data-component-name="Image2ToDOMStatic" style="mso-padding-alt: 1em 0 1.6em;"><tbody><tr><td style="text-align: center;"></td><td class="content" align="left" width="1200" style="text-align: center;"><a class="image-link" target="_blank" href="https://substack.com/redirect/6d205fa5-0181-4945-b315-cfcb854a9512?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel="" style="position: relative;flex-direction: column;align-items: center;padding: 0;width: auto;height: auto;border: none;text-decoration: none;display: block;margin: 0;"><img class="wide-image" data-attrs="{&quot;src&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/c3b96ec9-0e7c-4bd3-acbe-7c9ada42306e_1920x968.png&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:false,&quot;imageSize&quot;:&quot;large&quot;,&quot;height&quot;:734,&quot;width&quot;:1456,&quot;resizeWidth&quot;:1200,&quot;bytes&quot;:227481,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:&quot;image/png&quot;,&quot;href&quot;:null,&quot;belowTheFold&quot;:true,&quot;topImage&quot;:false,&quot;internalRedirect&quot;:&quot;https://thepalindrome.org/i/178581792?img=https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc3b96ec9-0e7c-4bd3-acbe-7c9ada42306e_1920x968.png&quot;,&quot;isProcessing&quot;:false,&quot;align&quot;:&quot;center&quot;,&quot;offset&quot;:false}" alt="" width="550" height="277.2664835164835" src="https://substackcdn.com/image/fetch/$s_!n-9T!,w_1100,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc3b96ec9-0e7c-4bd3-acbe-7c9ada42306e_1920x968.png" style="border: none !important;vertical-align: middle;display: block;-ms-interpolation-mode: bicubic;height: auto;margin-bottom: 0;width: auto !important;max-width: 100% !important;margin: 0 auto;"></a></td><td style="text-align: center;"></td></tr></tbody></table></figure></div><ol style="margin-top: 0;padding: 0;"><li style="margin: 8px 0 0 32px;"><p style="color: rgb(54,55,55);line-height: 26px;margin-bottom: 0;box-sizing: border-box;padding-left: 4px;font-size: 16px;margin: 0;">Extract the norms of the attention adjustments and log-transform. It&#8217;s the same code as in the previous section, but the layer number for the key name in the dictionary is soft-coded.</p></li><li style="margin: 8px 0 0 32px;"><p style="color: rgb(54,55,55);line-height: 26px;margin-bottom: 0;box-sizing: border-box;padding-left: 4px;font-size: 16px;margin: 0;">Here I use multiple assignment to create the design matrix in one line instead of three. If you&#8217;d like a little coding challenge, you can create the design matrix with no for-loops! (Hint: concatenate)</p></li><li style="margin: 8px 0 0 32px;"><p style="color: rgb(54,55,55);line-height: 26px;margin-bottom: 0;box-sizing: border-box;padding-left: 4px;font-size: 16px;margin: 0;">Here I fit the model as in the previous section. Rather than creating a separate Python variable for the model&#8217;s dependent variable, I directly input the norms array.</p></li><li style="margin: 8px 0 0 32px;"><p style="color: rgb(54,55,55);line-height: 26px;margin-bottom: 0;box-sizing: border-box;padding-left: 4px;font-size: 16px;margin: 0;"><span>Extract the beta values and corresponding </span><em>p</em><span>-values from the model, indexing [1:] because the first parameter is the intercept. You can extend the code by extracting additional model statistics, for example the adjusted R</span><sup style="font-size: 0.75em;line-height: 0;">2</sup><span>. So many possibilities for additional explorations &#128578;</span></p></li></ol><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;"><span>The final results are visualized in the figure below. The </span><em>x</em><span>-axis shows the transformer block, the </span><em>y</em><span>-axis shows the beta coefficients for the two predictor variables, and the markers are solid if the beta is statistically significant (</span><em>p </em><span>&lt; .05) or a white &#8220;x&#8221; if the beta is non-significant (</span><em>p </em><span>&gt; .05).</span></p><div class="captioned-image-container-static" style="font-size: 16px;line-height: 26px;margin: 32px auto;"><figure style="width: 100%;margin: 0 auto;"><table class="image-wrapper" width="100%" border="0" cellspacing="0" cellpadding="0" data-component-name="Image2ToDOMStatic" style="mso-padding-alt: 1em 0 1.6em;"><tbody><tr><td style="text-align: center;"></td><td class="content" align="left" width="1200" style="text-align: center;"><a class="image-link" target="_blank" href="https://substack.com/redirect/64afeb61-91c5-4b9c-b47c-3ca9f2b18a39?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel="" style="position: relative;flex-direction: column;align-items: center;padding: 0;width: auto;height: auto;border: none;text-decoration: none;display: block;margin: 0;"><img class="wide-image" data-attrs="{&quot;src&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/e15683bb-cb60-4206-9063-09c7af11d109_1920x950.png&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:false,&quot;imageSize&quot;:&quot;large&quot;,&quot;height&quot;:720,&quot;width&quot;:1456,&quot;resizeWidth&quot;:1200,&quot;bytes&quot;:129498,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:&quot;image/png&quot;,&quot;href&quot;:null,&quot;belowTheFold&quot;:true,&quot;topImage&quot;:false,&quot;internalRedirect&quot;:&quot;https://thepalindrome.org/i/178581792?img=https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe15683bb-cb60-4206-9063-09c7af11d109_1920x950.png&quot;,&quot;isProcessing&quot;:false,&quot;align&quot;:&quot;center&quot;,&quot;offset&quot;:false}" alt="" width="550" height="271.97802197802196" src="https://substackcdn.com/image/fetch/$s_!13sS!,w_1100,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe15683bb-cb60-4206-9063-09c7af11d109_1920x950.png" style="border: none !important;vertical-align: middle;display: block;-ms-interpolation-mode: bicubic;height: auto;margin-bottom: 0;width: auto !important;max-width: 100% !important;margin: 0 auto;"></a></td><td style="text-align: center;"></td></tr></tbody></table><figcaption class="image-caption" style="box-sizing: content-box;color: #777777;font-size: 14px;line-height: 20px;font-weight: 400;letter-spacing: -.15px;margin-top: 8px;width: 70%;padding-left: 15%;padding-right: 15%;text-align: center;"><strong>Figure 2.</strong><em> Beta coefficients (y-axis) over the transformer blocks (x-axis) showing the impact of preceding attention adjustment norms on the current adjustment norms. Full markers indicate statistically significant betas; &#8220;x&#8221; markers indicate non-significant markers. A positive beta indicates that when the previous token has a large adjustment, the current token also has a large adjustment.</em></figcaption></figure></div><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;"><span>The results indicate that the previous token&#8217;s adjustment predicts the current token&#8217;s update magnitude, but not the adjustment from two tokens previously. Numerically, the t-2 adjustment negatively predicts the current token update (that is, when the t-2 token adjustment was </span><em>larger</em><span>, the current token update was </span><em>smaller</em><span>) in earlier layers, although most of the betas are non-significant, so you should interpret that result cautiously.</span></p><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;">Further words of caution: This analysis was done with a small amount of text taken from one Wikipedia article. In real LLM research, you would use a much larger amount of data taken from a variety of sources. You would also extend this research to determine the nature and importance of the adjustments, and possibly run separate analyses according to part of speech (e.g., nouns, verbs, adjectives) or other linguistically insightful characteristics. It would also be a good idea to supplement this research with causal interventions, where you could manipulate the nature and size of the adjustments to determine the impact on downstream processing and next-token prediction. All that said, these are comments about a full scientific investigation; the application of least-squares and regression is the same in this little demo as it would be for a publishable scientific research program.</p><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;"><span>Also: LLM researchers are often concerned with </span><em>universality</em><span>, which is the question of whether the same computational principles emerge in all LLMs, or whether findings are unique to one particular model. Out of curiosity, I ran the code again using the &#8220;XL&#8221; version of the model (you can do this simply by importing </span><code>&#8216;gpt2-xl&#8217;</code><span> instead of </span><code>&#8216;gpt2&#8217;</code><span>). The pattern of results was replicated in the larger model, which you can see below.</span></p><div class="captioned-image-container-static" style="font-size: 16px;line-height: 26px;margin: 32px auto;"><figure style="width: 100%;margin: 0 auto;"><table class="image-wrapper" width="100%" border="0" cellspacing="0" cellpadding="0" data-component-name="Image2ToDOMStatic" style="mso-padding-alt: 1em 0 1.6em;"><tbody><tr><td style="text-align: center;"></td><td class="content" align="left" width="1200" style="text-align: center;"><a class="image-link" target="_blank" href="https://substack.com/redirect/c2bdcaab-02d2-4f0d-b76a-fc0881c3b491?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel="" style="position: relative;flex-direction: column;align-items: center;padding: 0;width: auto;height: auto;border: none;text-decoration: none;display: block;margin: 0;"><img class="wide-image" data-attrs="{&quot;src&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/18a8c425-982d-4eca-884a-9a1582de89df_2880x877.png&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:false,&quot;imageSize&quot;:&quot;large&quot;,&quot;height&quot;:443,&quot;width&quot;:1456,&quot;resizeWidth&quot;:1200,&quot;bytes&quot;:213923,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:&quot;image/png&quot;,&quot;href&quot;:null,&quot;belowTheFold&quot;:true,&quot;topImage&quot;:false,&quot;internalRedirect&quot;:&quot;https://thepalindrome.org/i/178581792?img=https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F18a8c425-982d-4eca-884a-9a1582de89df_2880x877.png&quot;,&quot;isProcessing&quot;:false,&quot;align&quot;:&quot;center&quot;,&quot;offset&quot;:false}" alt="" width="550" height="167.34203296703296" src="https://substackcdn.com/image/fetch/$s_!sLXZ!,w_1100,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F18a8c425-982d-4eca-884a-9a1582de89df_2880x877.png" style="border: none !important;vertical-align: middle;display: block;-ms-interpolation-mode: bicubic;height: auto;margin-bottom: 0;width: auto !important;max-width: 100% !important;margin: 0 auto;"></a></td><td style="text-align: center;"></td></tr></tbody></table><figcaption class="image-caption" style="box-sizing: content-box;color: #777777;font-size: 14px;line-height: 20px;font-weight: 400;letter-spacing: -.15px;margin-top: 8px;width: 70%;padding-left: 15%;padding-right: 15%;text-align: center;"><strong>Figure 3.</strong><em> Same analysis and graph as shown in the previous figure, but using the &#8220;XL&#8221; version of GPT2. The architecture is the same, but the XL version is both wider and deeper, for example 48 transformer blocks instead of 12.</em><span>To produce Figure 3, you re-run the code file but importing </span><code>&#8216;gpt2-xl&#8217;</code><span> instead of </span><code>&#8216;gpt2&#8217;</code><span> at the top of the script. You can also try running other GPT2 variants including &#8220;medium&#8221; and &#8220;large.&#8221;</span></figcaption></figure></div><h2 class="header-anchor-post" style="position: relative;font-family: 'SF Pro Display',-apple-system-headline,system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';font-weight: bold;-webkit-font-smoothing: antialiased;-moz-osx-font-smoothing: antialiased;-webkit-appearance: optimizelegibility;-moz-appearance: optimizelegibility;appearance: optimizelegibility;margin: 1em 0 0.625em 0;color: rgb(54,55,55);line-height: 1.16em;font-size: 1.625em;">Celebrate your achievements!</h2><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;">You&#8217;ve just completed the four-post series on least-squares.</p><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;">Pat yourself on the back, eat an ice cream, go for a walk in nature, kiss your dog&#8230; do something that makes you happy and be proud of investing in your brain and in your future by learning something difficult.</p><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;">&#8230; and then join me to learn more difficult topics &#129315;</p><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;"><span>If you want to learn more from me (</span><a href="https://substack.com/@mikexcohen" rel="" style="color: #9d6fff;text-decoration: none;">Mike X Cohen</a><span>, ex-neuroscience professor and current independent educator), please subscribe to my </span><a href="https://substack.com/redirect/225f81fb-eb69-4cb6-89a7-ac3640547deb?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel="" style="color: #9d6fff;text-decoration: none;">Substack</a><span>, check out my </span><a href="https://substack.com/redirect/953c9b11-f506-4419-b550-a6f5098dc992?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel="" style="color: #9d6fff;text-decoration: none;">online courses</a><span> (discount coupon codes are embedded in the links on my website), and read </span><a href="https://substack.com/redirect/d21dade7-9c98-4228-9fe7-a3e0d82e7c7d?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel="" style="color: #9d6fff;text-decoration: none;">my books</a><span>.</span></p><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;margin-bottom: 0;">And a big shout-out to Tivadar for hosting these guest posts on his newsletter The Palindrome &#129395;</p></div></div><div class="post-contributor-footer" style="margin-top: 16px;font-size: 16px;line-height: 26px;"><div class="container-border" style="margin: 32px 0 0;width: 100%;box-sizing: border-box;border-top: 1px solid #3d2f3d;font-size: 16px;line-height: 26px;"></div><div class="post-contributor-bio" data-user-id="382604135" style="line-height: 26px;margin: 28px 0;font-family: system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';color: #363737;font-size: 16px;"><table class="post-contributor-bio-table" cellpadding="0" cellspacing="0" style="font-family: system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';color: #363737;font-size: 16px;width: 100%;"><tbody><tr class="post-contributor-bio-table-row"><td class="post-contributor-bio-userhead-cell" valign="top" style="width: 52px;"><img class="custom-css-email-avatar avatar-QIQ5yR" src="https://substackcdn.com/image/fetch/$s_!e5a5!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3c804d93-69c2-49a9-a797-2216b4bae5ba_1000x1000.jpeg" style="box-sizing: border-box;border-radius: 500000px;max-width: 550px;border: none;vertical-align: middle;width: 52px;height: 52px;min-width: 52px;min-height: 52px;object-fit: cover;margin: 0px;display: inline" width="52" height="52"></td><td class="post-contributor-bio-body-cell" valign="top"><div class="post-contributor-bio-body" style="font-size: 16px;line-height: 26px;margin-left: 16px;"><div class="post-contributor-bio-preamble" style="font-size: 14px;line-height: 16px;margin-bottom: 10px;">A guest post by</div><table class="post-contributor-bio-body-table" cellpadding="0" cellspacing="0" style="font-family: system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';color: #363737;font-size: 16px;margin-top: 0;width: 100%;"><tbody><tr class="post-contributor-bio-body-table-row"><td class="post-contributor-bio-copy-cell"><a class="post-contributor-bio-title" href="https://substack.com/@mikexcohen?utm_campaign=guest_post_bio&utm_medium=email" style="color: #363737;font-weight: 600;display: block;text-decoration: none;margin-bottom: 7px;">Mike X Cohen, PhD</a><div class="post-contributor-bio-text" style="font-size: 16px;line-height: 24px;">ex-neuroscience professor | textbook author (linear algebra, stats, calculus) | best-selling Udemy instructor (AI, machine-learning, coding, math) | LinkedIn non-influencer | founder @ Sincxpress.com. You can learn a lot of math with a bit of code.</div><div class="post-contributor-bio-controls-email" style="font-size: 16px;line-height: 26px;margin-top: 20px;"><a class="post-contributor-bio-subscribe-button button primary" href="https://substack.com/redirect/c4d05b25-d8f3-4a62-a8f2-f250661d19ac?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" style="font-family: system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';display: inline-block;box-sizing: border-box;cursor: pointer;border: none;border-radius: 8px;font-size: 14px;line-height: 20px;font-weight: 600;text-align: center;margin: 0;opacity: 1;outline: none;background-color: #9D6FFF;text-decoration: none !important;color: #ffffff !important;min-height: 42px;height: auto;white-space: nowrap;border-width: 10px 20px;padding: 0;border-color: #9D6FFF;border-style: solid;"><span class="post-contributor-bio-subscribe-button-label" style="text-decoration: none;color: #ffffff;">Subscribe to Mike</span></a></div></td></tr></tbody></table></div></td></tr></tbody></table></div></div><div class="container-border" style="margin: 32px 0 0;width: 100%;box-sizing: border-box;border-top: 1px solid #3d2f3d;font-size: 16px;line-height: 26px;"></div><div class="typography" style="--image-offset-margin: -120px;font-size: 16px;line-height: 26px;"><div class="postscript" style="margin: 32px 0;font-size: 16px;line-height: 26px;"><div class="body markup" dir="auto" style="text-align: initial;font-size: 16px;line-height: 26px;width: 100%;word-break: break-word;margin-bottom: 16px;"><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;margin-top: 0;"><strong>When you're ready to go deeper, here&#8217;s how I can help:</strong></p><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;"><span>&#9989; </span><strong><a href="https://substack.com/redirect/4cf84ca3-b271-4ba4-8cd8-0d02a9b5880a?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel="" style="color: #9d6fff;text-decoration: none;">Join the premium tier</a></strong></p><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;"><span>Get instant access to step-by-step learning tracks on graph theory, foundational mathematics, and building neural networks from scratch&#8212;with visuals and explanations designed to make it all finally </span><em>click</em><span>.</span></p><p class="button-wrapper" data-attrs="{&quot;url&quot;:&quot;https://thepalindrome.org/subscribe&quot;,&quot;text&quot;:&quot;Accelerate Your Learning&quot;,&quot;action&quot;:null,&quot;class&quot;:null}" data-component-name="ButtonCreateButton" style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;text-align: center;cursor: pointer;border-radius: 4px;"><a class="button primary" href="https://substack.com/redirect/4cf84ca3-b271-4ba4-8cd8-0d02a9b5880a?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel="" style="font-family: system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';display: inline-block;box-sizing: border-box;cursor: pointer;border: none;border-radius: 8px;font-size: 14px;line-height: 20px;font-weight: 600;text-align: center;margin: 0;opacity: 1;outline: none;white-space: nowrap;color: #ffffff !important;text-decoration: none !important;background-color: #9D6FFF;padding: 12px 20px;height: auto;"><span style="color: #ffffff;text-decoration: none;">Accelerate Your Learning</span></a></p><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;"><span>&#128216; </span><strong><a href="https://substack.com/redirect/45a6eb7e-72fd-4bd5-b989-a21ee3e21f7c?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel="" style="color: #9d6fff;text-decoration: none;">Grab </a></strong><em><strong><a href="https://substack.com/redirect/45a6eb7e-72fd-4bd5-b989-a21ee3e21f7c?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel="" style="color: #9d6fff;text-decoration: none;">The Mathematics of Machine Learning </a></strong></em><strong><a href="https://substack.com/redirect/45a6eb7e-72fd-4bd5-b989-a21ee3e21f7c?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel="" style="color: #9d6fff;text-decoration: none;">book</a></strong><em><strong><a href="https://substack.com/redirect/45a6eb7e-72fd-4bd5-b989-a21ee3e21f7c?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel="" style="color: #9d6fff;text-decoration: none;"> </a></strong></em></p><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;">Master the math that powers modern ML&#8212;linear algebra, calculus, and probability&#8212;with Python examples and crystal-clear explanations.</p><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;">Bridge the gap between textbook theory and real-world implementation.</p><p class="button-wrapper" data-attrs="{&quot;url&quot;:&quot;https://www.amazon.com/Mathematics-Machine-Learning-calculus-probability/dp/1837027870/&quot;,&quot;text&quot;:&quot;Learn ML Math The Smart Way&quot;,&quot;action&quot;:null,&quot;class&quot;:null}" data-component-name="ButtonCreateButton" style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;margin-bottom: 0;text-align: center;cursor: pointer;border-radius: 4px;"><a class="button primary" href="https://substack.com/redirect/45a6eb7e-72fd-4bd5-b989-a21ee3e21f7c?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel="" style="font-family: system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';display: inline-block;box-sizing: border-box;cursor: pointer;border: none;border-radius: 8px;font-size: 14px;line-height: 20px;font-weight: 600;text-align: center;margin: 0;opacity: 1;outline: none;white-space: nowrap;color: #ffffff !important;text-decoration: none !important;background-color: #9D6FFF;padding: 12px 20px;height: auto;"><span style="color: #ffffff;text-decoration: none;">Learn ML Math The Smart Way</span></a></p></div></div></div><table class="email-ufi-2-bottom" role="presentation" width="100%" border="0" cellspacing="0" cellpadding="0" style="border-top: 1px solid rgb(0,0,0,.1);border-bottom: 1px solid rgb(0,0,0,.1);min-width: 100%;"><tbody><tr height="16"><td height="16" style="font-size:0px;line-height:0;">&nbsp;</td></tr><tr><td><table class="email-ufi-2-row" role="presentation" width="100%" border="0" cellspacing="0" cellpadding="0" style="border-bottom: 1px solid rgb(0,0,0,.1);"><tbody><tr><td width="95%"><table class="email-button-outline-wrapper-full-width" role="presentation" width="auto" border="0" cellspacing="0" cellpadding="0" style="width: 95%;margin: 0 auto;"><tbody><tr><td align="center"><a class="email-button-outline full-width" href="https://substack.com/app-link/post?publication_id=1176501&post_id=178581792&utm_source=substack&utm_medium=email&utm_content=share&utm_campaign=email-share&action=share&triggerShare=true&isFreemail=true&r=8o54n&token=eyJ1c2VyX2lkIjoxNDU2MzMxOSwicG9zdF9pZCI6MTc4NTgxNzkyLCJpYXQiOjE3NjMzNzgxODYsImV4cCI6MTc2NTk3MDE4NiwiaXNzIjoicHViLTExNzY1MDEiLCJzdWIiOiJwb3N0LXJlYWN0aW9uIn0.tc5LOk3e17xDUkSbLtiwVose6-mNCxMKeOJyZN60Fek" style="font-family: system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';display: inline-block;font-weight: 500;border: 1px solid rgb(0,0,0,.1);border-radius: 9999px;text-transform: uppercase;font-size: 12px;line-height: 12px;padding: 9px 14px;text-decoration: none;color: rgb(119,119,119);width: 100%;padding-left: 0;padding-right: 0;"><img class="icon" src="https://substackcdn.com/image/fetch/$s_!rmYa!,w_36,c_scale,f_png,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack.com%2Ficon%2FLucideShare%3Fv%3D4%26height%3D36%26fill%3Dnone%26stroke%3D%2523808080%26strokeWidth%3D2" width="18" height="18" style="margin-right: 8px;min-width: 18px;min-height: 18px;border: none;vertical-align: middle;max-width: 18px" alt=""><span class="email-button-text" style="vertical-align: middle;">Share</span></a></td></tr></tbody></table></td></tr><tr height="16"><td height="16" style="font-size:0px;line-height:0;">&nbsp;</td></tr></tbody></table></td></tr><tr height="16"><td height="16" style="font-size:0px;line-height:0;">&nbsp;</td></tr><tr><td><table role="presentation" width="100%" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td><table role="presentation" width="auto" border="0" cellspacing="0" cellpadding="0" style="margin:0 auto;"><tbody><tr><td style="vertical-align:middle;"><table role="presentation" width="auto" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td align="center"><a class="email-button-outline" href="https://substack.com/app-link/post?publication_id=1176501&post_id=178581792&utm_source=substack&isFreemail=true&submitLike=true&token=eyJ1c2VyX2lkIjoxNDU2MzMxOSwicG9zdF9pZCI6MTc4NTgxNzkyLCJyZWFjdGlvbiI6IuKdpCIsImlhdCI6MTc2MzM3ODE4NiwiZXhwIjoxNzY1OTcwMTg2LCJpc3MiOiJwdWItMTE3NjUwMSIsInN1YiI6InJlYWN0aW9uIn0.VEhaHdGZ3v0C63SjPp2Yl7e1TpbHIb1dqJYk6vwHEdg&utm_medium=email&utm_campaign=email-reaction&r=8o54n" style="font-family: system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';display: inline-block;font-weight: 500;border: 1px solid rgb(0,0,0,.1);border-radius: 9999px;text-transform: uppercase;font-size: 12px;line-height: 12px;padding: 9px 14px;text-decoration: none;color: rgb(119,119,119);"><img class="icon" src="https://substackcdn.com/image/fetch/$s_!PeVs!,w_36,c_scale,f_png,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack.com%2Ficon%2FLucideHeart%3Fv%3D4%26height%3D36%26fill%3Dnone%26stroke%3D%2523808080%26strokeWidth%3D2" width="18" height="18" style="margin-right: 8px;min-width: 18px;min-height: 18px;border: none;vertical-align: middle;max-width: 18px" alt=""><span class="email-button-text" style="vertical-align: middle;">Like</span></a></td></tr></tbody></table></td><td width="8" style="min-width: 8px"></td><td style="vertical-align:middle;"><table role="presentation" width="auto" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td align="center"><a class="email-button-outline" href="https://substack.com/app-link/post?publication_id=1176501&post_id=178581792&utm_source=substack&utm_medium=email&isFreemail=true&comments=true&token=eyJ1c2VyX2lkIjoxNDU2MzMxOSwicG9zdF9pZCI6MTc4NTgxNzkyLCJpYXQiOjE3NjMzNzgxODYsImV4cCI6MTc2NTk3MDE4NiwiaXNzIjoicHViLTExNzY1MDEiLCJzdWIiOiJwb3N0LXJlYWN0aW9uIn0.tc5LOk3e17xDUkSbLtiwVose6-mNCxMKeOJyZN60Fek&r=8o54n&utm_campaign=email-half-magic-comments&action=post-comment&utm_source=substack&utm_medium=email" style="font-family: system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';display: inline-block;font-weight: 500;border: 1px solid rgb(0,0,0,.1);border-radius: 9999px;text-transform: uppercase;font-size: 12px;line-height: 12px;padding: 9px 14px;text-decoration: none;color: rgb(119,119,119);"><img class="icon" src="https://substackcdn.com/image/fetch/$s_!x1tS!,w_36,c_scale,f_png,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack.com%2Ficon%2FLucideComments%3Fv%3D4%26height%3D36%26fill%3Dnone%26stroke%3D%2523808080%26strokeWidth%3D2" width="18" height="18" style="margin-right: 8px;min-width: 18px;min-height: 18px;border: none;vertical-align: middle;max-width: 18px" alt=""><span class="email-button-text" style="vertical-align: middle;">Comment</span></a></td></tr></tbody></table></td><td width="8" style="min-width: 8px"></td><td style="vertical-align:middle;"><table role="presentation" width="auto" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td align="center"><a class="email-button-outline" href="https://substack.com/redirect/2/eyJlIjoiaHR0cHM6Ly9vcGVuLnN1YnN0YWNrLmNvbS9wdWIvdGhlcGFsaW5kcm9tZS9wL3RoZS1hbmF0b215LW9mLXRoZS1sZWFzdC1zcXVhcmVzLWEzZD91dG1fc291cmNlPXN1YnN0YWNrJnV0bV9tZWRpdW09ZW1haWwmdXRtX2NhbXBhaWduPWVtYWlsLXJlc3RhY2stY29tbWVudCZhY3Rpb249cmVzdGFjay1jb21tZW50JnI9OG81NG4mdG9rZW49ZXlKMWMyVnlYMmxrSWpveE5EVTJNek14T1N3aWNHOXpkRjlwWkNJNk1UYzROVGd4TnpreUxDSnBZWFFpT2pFM05qTXpOemd4T0RZc0ltVjRjQ0k2TVRjMk5UazNNREU0Tml3aWFYTnpJam9pY0hWaUxURXhOelkxTURFaUxDSnpkV0lpT2lKd2IzTjBMWEpsWVdOMGFXOXVJbjAudGM1TE9rM2UxN3hEVWtTYkx0aXdWb3NlNi1tTkN4TUtlT0p5Wk42MEZlayIsInAiOjE3ODU4MTc5MiwicyI6MTE3NjUwMSwiZiI6dHJ1ZSwidSI6MTQ1NjMzMTksImlhdCI6MTc2MzM3ODE4NiwiZXhwIjoyMDc4OTU0MTg2LCJpc3MiOiJwdWItMCIsInN1YiI6ImxpbmstcmVkaXJlY3QifQ.3UlOEF586wnfB9WlCw5_N__mgol6XSV6J4wf8FHdM_0?&utm_source=substack&utm_medium=email" style="font-family: system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';display: inline-block;font-weight: 500;border: 1px solid rgb(0,0,0,.1);border-radius: 9999px;text-transform: uppercase;font-size: 12px;line-height: 12px;padding: 9px 14px;text-decoration: none;color: rgb(119,119,119);"><img class="icon" src="https://substackcdn.com/image/fetch/$s_!5EGt!,w_36,c_scale,f_png,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack.com%2Ficon%2FNoteForwardIcon%3Fv%3D4%26height%3D36%26fill%3Dnone%26stroke%3D%2523808080%26strokeWidth%3D2" width="18" height="18" style="margin-right: 8px;min-width: 18px;min-height: 18px;border: none;vertical-align: middle;max-width: 18px" alt=""><span class="email-button-text" style="vertical-align: middle;">Restack</span></a></td></tr></tbody></table></td></tr></tbody></table></td><td align="right"><table role="presentation" width="auto" border="0" cellspacing="0" cellpadding="0"><tbody><tr></tr></tbody></table></td></tr></tbody></table></td></tr><tr height="16"><td height="16" style="font-size:0px;line-height:0;">&nbsp;</td></tr></tbody></table><div class="footer footer-ZM59BM" style="color: rgb(119,119,119);text-align: center;font-size: 16px;line-height: 26px;padding: 24px0;"><div style="font-size: 16px;line-height: 26px;padding-bottom: 24px"><p class="pencraft pc-reset color-secondary-ls1g8s size-12-mmZ61m reset-IxiVJZ small meta-B2bqa5" style="list-style: none;font-family: system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';padding-bottom: 0;font-size: 12px;line-height: 16px;margin: 0;color: rgb(119,119,119);text-decoration: unset;">&#169; 2025 <span>Tivadar Danka</span><br>548 Market Street PMB 72296, San Francisco, CA 94104 <br><a href="https://substack.com/redirect/2/eyJlIjoiaHR0cHM6Ly90aGVwYWxpbmRyb21lLm9yZy9hY3Rpb24vZGlzYWJsZV9lbWFpbD90b2tlbj1leUoxYzJWeVgybGtJam94TkRVMk16TXhPU3dpY0c5emRGOXBaQ0k2TVRjNE5UZ3hOemt5TENKcFlYUWlPakUzTmpNek56Z3hPRFlzSW1WNGNDSTZNVGM1TkRreE5ERTROaXdpYVhOeklqb2ljSFZpTFRFeE56WTFNREVpTENKemRXSWlPaUprYVhOaFlteGxYMlZ0WVdsc0luMC5TXzhhaFl4Ynp4YUMyT25JMURRakI1enM5OUFOeFVjV09MQW1qb2k4Yi1RIiwicCI6MTc4NTgxNzkyLCJzIjoxMTc2NTAxLCJmIjp0cnVlLCJ1IjoxNDU2MzMxOSwiaWF0IjoxNzYzMzc4MTg2LCJleHAiOjIwNzg5NTQxODYsImlzcyI6InB1Yi0wIiwic3ViIjoibGluay1yZWRpcmVjdCJ9.6qFl6u6nKoSq3y5VRqyBJTDAApFi4tkM6-J7GThhQ8k?" style="color: #9d6fff;text-decoration: none;"><span style="color: rgb(119,119,119);text-decoration: underline;">Unsubscribe</span></a></p></div><p class="footerSection-EHR0jG small powered-by-substack" style="padding: 0 24px;font-size: 12px;line-height: 20px;margin: 0;color: rgb(119,119,119);font-family: system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';padding-bottom: 0;margin-top: 0;"><a href="https://substack.com/redirect/2/eyJlIjoiaHR0cHM6Ly9zdWJzdGFjay5jb20vc2lnbnVwP3V0bV9zb3VyY2U9c3Vic3RhY2smdXRtX21lZGl1bT1lbWFpbCZ1dG1fY29udGVudD1mb290ZXImdXRtX2NhbXBhaWduPWF1dG9maWxsZWQtZm9vdGVyJmZyZWVTaWdudXBFbWFpbD1pc2hhbi5tYWlsQGdtYWlsLmNvbSZyPThvNTRuIiwicCI6MTc4NTgxNzkyLCJzIjoxMTc2NTAxLCJmIjp0cnVlLCJ1IjoxNDU2MzMxOSwiaWF0IjoxNzYzMzc4MTg2LCJleHAiOjIwNzg5NTQxODYsImlzcyI6InB1Yi0wIiwic3ViIjoibGluay1yZWRpcmVjdCJ9.WJaebYYLBt4eeN-QW-ka38tHpIZjZdfy7X1ywhIMCqo?" style="color: #9d6fff;text-decoration: none;display: inline-block;margin: 0 4px;"><img src="https://substackcdn.com/image/fetch/$s_!LkrL!,w_270,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack.com%2Fimg%2Femail%2Fpublish-button%402x.png" srcset="https://substackcdn.com/image/fetch/$s_!wgfj!,w_135,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack.com%2Fimg%2Femail%2Fpublish-button.png, https://substackcdn.com/image/fetch/$s_!LkrL!,w_270,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack.com%2Fimg%2Femail%2Fpublish-button%402x.png 2x, https://substackcdn.com/image/fetch/$s_!KjtY!,w_405,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack.com%2Fimg%2Femail%2Fpublish-button%403x.png 3x" width="135" alt="Start writing" height="40" style="max-width: 550px;border: none !important;vertical-align: middle;"></a></p></div></div></td><td></td></tr></tbody></table><img src="https://eotrx.substackcdn.com/open?token=eyJtIjoiPDIwMjUxMTE3MTEwODQ5LjMuNTYwNTk1OWYxNWUwODY5M0BtZy1kMS5zdWJzdGFjay5jb20-IiwidSI6MTQ1NjMzMTksInIiOiJpc2hhbi5tYWlsQGdtYWlsLmNvbSIsImQiOiJtZy1kMS5zdWJzdGFjay5jb20iLCJwIjoxNzg1ODE3OTIsInQiOiJuZXdzbGV0dGVyIiwiYSI6ImV2ZXJ5b25lIiwicyI6MTE3NjUwMSwiYyI6InBvc3QiLCJmIjp0cnVlLCJwb3NpdGlvbiI6ImJvdHRvbSIsImlhdCI6MTc2MzM3ODE4NiwiZXhwIjoxNzY1OTcwMTg2LCJpc3MiOiJwdWItMCIsInN1YiI6ImVvIn0.7i9hRTOsjssuILISyMV8bEI09f_wffG2YOBdA3BLm8I" alt="" width="1" height="1" border="0" style="height:1px !important;width:1px !important;border-width:0 !important;margin-top:0 !important;margin-bottom:0 !important;margin-right:0 !important;margin-left:0 !important;padding-top:0 !important;padding-bottom:0 !important;padding-right:0 !important;padding-left:0 !important;"/><img width="1" height="1" alt="" src="https://email.mg-d1.substack.com/o/eJxMkE2urCAQRlfTzJ6hREAGrMUUUG2Tp2D46Rt3f6Pdgzuq5Kvk5OR4bLTmctoj18aCFcbx2StGFrQSQs8wK0Y7xm1ZKVHBRmHB9ucrwLCXddLBKJ8ovFbegQs-jJzjpFWQBgWyaEc-SgDQAHyezCAGqbg00jxBEp-VEY-J7-u_AEPtrjb0_wefdxbr8ix0K9hWOrHLdMEeIiVPlt5Uzpy-cwwW9Cxn0Gb8LO08yCb6qRu1RoUd3S0-73tPsZ0LJXQbhS-4uy16bDGnGwRaSQ6s2FhfmIbL4DHx9bq3We0u5B1jsu1FB24xhZJ3Yu0Ts1cqN2eSSlyV3nb8DQAA__9Sw3kL"></body></html>

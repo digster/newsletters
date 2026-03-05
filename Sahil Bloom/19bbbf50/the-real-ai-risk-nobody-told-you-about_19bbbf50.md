@@ -1,0 +1,130 @@
+---
+subject: "The Real AI Risk Nobody Told You About"
+from: "\"Sahil Bloom's Curiosity Chronicle\" <sahil@sahilbloom.com>"
+to: ""
+date: 2026-01-14 10:02:37
+labels: ["CATEGORY_PERSONAL", "INBOX", "Sahil Bloom", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_1989028747625928812", "UNREAD"]
+---
+The Real AI Risk Nobody Told You About
+watch on [YouTube](https://click.kit-mail6.com/5qux9883lpf7hn3gplkf6h92qw344bnhxk7dx/owhkhqhwx30dppbv/aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g_dj0zUWxVUFF6amtVSQ==) or read and listen on [sahilbloom.com](https://click.kit-mail6.com/5qux9883lpf7hn3gplkf6h92qw344bnhxk7dx/z2hghnhe59mxn6cp/aHR0cHM6Ly93d3cuc2FoaWxibG9vbS5jb20vbmV3c2xldHRlci90aGUtcmVhbC1haS1yaXNrLW5vYm9keS10b2xkLXlvdS1hYm91dA==)
+read time 12 minutes
+Welcome to The Curiosity Chronicle, a newsletter where I provide actionable ideas to help you build a high-performing, healthy, wealthy life.
+Forwarded this email? Join 800,000+ other readers [here](https://click.kit-mail6.com/5qux9883lpf7hn3gplkf6h92qw344bnhxk7dx/p8heh9h4rkpomofq/aHR0cHM6Ly93d3cuc2FoaWxibG9vbS5jb20vbmV3c2xldHRlcg==).
+Andrew Huberman called my first book "An important clarifying force in anyone’s search to make the best possible choices for their life." Join 400,000+ other readers and get it now on a big sale!
+|
+In Partnership with [Kit](https://click.kit-mail6.com/5qux9883lpf7hn3gplkf6h92qw344bnhxk7dx/6qheh8hlxv3ez8fo/aHR0cHM6Ly9wYXJ0bmVycy5raXQuY29tL3NhaGlsYmxvb20tMDExNDI2)
+I added 23k subscribers in 90 days
+The best growth hack? Stop going it alone.
+[Kit Recommendations](https://click.kit-mail6.com/5qux9883lpf7hn3gplkf6h92qw344bnhxk7dx/6qheh8hlxv3ez8fo/aHR0cHM6Ly9wYXJ0bmVycy5raXQuY29tL3NhaGlsYmxvb20tMDExNDI2) connected me with creators in my space who actually get what I'm building. We cross-promote each other's newsletters, and suddenly both our audiences are growing faster than they ever did solo.
+Here's the thing: creators who use Recommendations see 2x the list growth compared to those flying solo. You're not begging algorithms to surface your content or praying someone stumbles onto your page. You're getting quality subscribers from creators who already vouch for your work.
+It turns out the opposite of competition isn't just collaboration—it's exponential growth.
+|
+The Real AI Risk Nobody Told You About
+Most writing about AI falls into one of two broad conversations:
+- Speed: How fast things are moving and changing. The transformative (and perhaps destructive) potential of new technologies across the economic landscape.
+- Leverage: How you can use the latest tools in your life and business. The necessity of doing so if you want to gain an edge and remain relevant.
+Both conversations matter. It’s undeniable that these technologies will play an increasingly important role in our future.
+But there’s a third conversation almost no one is having:
+One about protecting your own humanity.
+Specifically: How do you thrive as a human in an AI world?
+This is, I would argue, the most important conversation—because it points to the real AI risk nobody told you about.
+As AI gets exponentially better at thinking, writing, deciding, and optimizing on our behalf, most people will jump at every opportunity to outsource things to it.
+This is natural, but it’s important to remember that what you outsource won’t remain the same.
+It will atrophy.
+Hire a personal chef, you’ll probably lose some of your cooking skills. Hire a money manager, you’ll probably be less in tune with your finances. Hire an analyst, you’ll probably become less proficient with analysis.
+That’s fine when you’re outsourcing specific, lower-leverage tasks, but it can become irreversibly damaging when the outsourcing slowly spreads into the deeper functions of your mind.
+It creates something I call AI Brain:
+The gradual weakening of your cognitive, emotional, and creative muscles as more of your thinking, deciding, and interpreting gets handed off to the machines.
+AI Brain is not a lack of intelligence. It’s a lack of sharpness.
+A loss of the subtle connective tissue that shapes who you are and how you see the world. A slow, steady shift away from a rich tapestry of colors toward a flattened, grayscale version of life.
+When you outsource all of your friction and struggle in favor of efficiency and speed, you sacrifice what the friction and struggle had forged.
+You become dull.
+These aren’t just subjective impressions…
+A preliminary study from MIT’s Media Lab—provocatively titled [Your Brain on ChatGPT](https://click.kit-mail6.com/5qux9883lpf7hn3gplkf6h92qw344bnhxk7dx/kkhmh6hnzgovrkal/aHR0cHM6Ly93d3cubWVkaWEubWl0LmVkdS9wcm9qZWN0cy95b3VyLWJyYWluLW9uLWNoYXRncHQvb3ZlcnZpZXcv)—was among the first to study the impact of AI use on cognition. They found that participants who relied on AI assistance exhibited lower overall neural engagement, weaker memory recall, and reduced ownership of their own writing compared with those working unaided or with just a search engine.
+But let’s be clear: The solution isn’t to reject AI.
+That would be impractical (and misguided). AI is an extraordinary tool. Used well, it can expand what’s possible, remove unnecessary friction, and create real leverage.
+The problem arises when optimization becomes the only goal.
+Thriving in an AI world isn’t about outsourcing as much as you can. It’s about drawing clear boundaries around what you refuse to outsource.
+Because the most important parts of a human life aren’t meant to be delegated.
+Your future will be defined not by what you can get AI to do for you, but by what you refuse to let it.
+To make this more actionable, here’s the blueprint I’m following…
+4 principles (and clear rules) to protect myself from AI Brain:
+Principle 1: Embrace First-Pass Thinking
+First-pass thinking is hard.
+It’s the painful, cognitively demanding phase where you wrestle with an idea before it has any form or function. This is where your thoughts collide. Where false starts are the norm. Where unexpected connections emerge.
+AI allows you to opt-out of first-pass thinking. You save time, but bypass the work that kept you sharp.
+Protecting first-pass thinking means leaning into the struggle.
+My rules for embracing first pass thinking:
+- I think before I prompt. I clarify the problem, my perspective, and what I actually believe before asking a machine to weigh in.
+- I write before I refine. I force myself to produce a bad first draft before touching any tools.
+- I decide before I optimize. I form an initial core judgement by myself, then use tools to pressure-test or improve it.
+First-pass thinking is how you maintain originality. It’s how you assert your distinctiveness in a world of increasing sameness.
+Principle 2: Preserve Cognitive Friction
+First-pass thinking is a pure example of what I call cognitive friction.
+This is the mental resistance you feel when your brain is placed in a challenging setting. It’s the discomfort of not knowing the answer yet. The strain of holding multiple ideas in your head at once. The effort required to work through something without immediate clarity or closure.
+Cognitive friction is a necessary precursor to cognitive growth and vitality.
+Preserving it means resisting the urge to eliminate every moment of discomfort.
+My rules for preserving cognitive friction:
+- I allow boredom to exist. I don’t reflexively fill empty moments with stimulation or answers.
+- I seek out solitude. If necessary, I schedule it into my life. Sitting in silence, walking without technology, being alone with my thoughts.
+- I sit with problems longer than feels efficient. I allow ideas to remain unresolved in my mind before reaching for tools to close the loop.
+- I slow down my thinking. Especially with writing, brainstorming, and decisions that compound over time.
+Cognitive friction is not an obstacle to be avoided. It’s a gift. Be grateful for what it creates within you.
+Principle 3: Do Less, But Deeper
+AI dramatically lowers the cost of starting. New ideas. New apps. New projects. New directions. All suddenly cheap, fast, and frictionless.
+In a world where you can do anything, most people will try to do everything.
+The problem, of course, is that you aren’t “paid” for doing hundreds of things poorly…you’re paid for doing one thing beautifully.
+As Bruce Lee once said:
+“I fear not the man who has practiced 10,000 kicks once, but I fear the man who has practiced one kick 10,000 times.”
+Last week, my timeline was inundated with Claude Code vibe coding. I got at least ten messages from people suggesting different apps or ideas I could create and launch.
+My response to one such inquiry from a close friend is representative of my overall perspective:
+“I feel like in a world where you can build anything, choosing to not build is the harder thing…Bullish slowing down and doing one thing extremely well, always.”
+The worst distractions in the world are the ones masquerading as good opportunities.
+In a world that seduces you with tools to do hundreds of things at a surface level, the ultimate human rebellion is to do one thing at a deeper level.
+Breadth is easy. Depth is hard.
+My rules for doing less, but deeper:
+- I identify the 2-3 most important things. Focus compounds.
+- I say no to most ideas. Especially the ones that seem good but don’t fit the core of what I’m trying to do.
+- I measure quality, not quantity. Power laws run the world. One kick, not 10,000.
+In an AI world where breadth is easily available to everyone, depth is the one thing that is truly still earned.
+Principle 4: Do More Human Things
+My strongest belief is that as more of our lives become dominated by interactions with technology, the pendulum will swing toward valuing what is uniquely human.
+These things cannot be outsourced. They require presence. Effort. Vulnerability. Time.
+They’re grounded in a human reality. Your body. Your relationships. Your senses.
+Many of the capacities most threatened by AI—deep thinking, judgement, empathy, resilience, meaning—are strengthened through real world, human things.
+Doing more human things is how you stay anchored.
+My rules for doing more human things:
+- I prioritize in-person interaction. Real conversations, eye contact, shared experience. Retreats. In person gatherings. Casual sit downs. I always pass on zooms in favor of meeting in real life.
+- I do physically hard things. I regularly put my body under strain to remind myself what effort feels like. It builds grit, resilience, and tolerance for uncertainty.
+These things don’t scale, but that’s the point.
+In a world increasingly optimized for efficiency, doing more human things is how you protect what can’t be automated—and remember who you are.
+How To Save Your Brain
+AI will continue to get faster, cheaper, and more capable. That part is inevitable.
+What isn’t inevitable is what happens to you in the process.
+AI Brain isn’t caused by the technology itself. It’s caused by blurred lines. By slowly handing over the parts of your life that were never meant to be outsourced in the first place.
+Use these four principles to protect yourself:
+- Embrace first-pass thinking. The tension creates originality.
+- Preserve cognitive friction. It’s hard, but that’s the point.
+- Do less, but deeper. Depth will be the ultimate human rebellion.
+- Do more human things. Stay anchored in reality.
+And remember:
+Your future will be defined not by what you can get AI to do for you, but by what you refuse to let it.
+Order My First Book to Unlock Exclusive Bonuses:
+The 5 Types of Wealth is the compass for your journey to a life of wealth that goes far beyond money. It provides the actionable tools to define, measure, and design your life around the pillars that truly create lasting happiness and fulfillment.
+It will help you find your True North and build your life around it.
+Order now and you'll unlock several new, exclusive bonuses:
+- Access to my Most Powerful Life Hacks Ebook: 50 timeless insights for simplifying your world and living well.
+- Access to The 5 Types of Wealth Digital Community: Join a vibrant group of like-minded individuals committed to creating a life of comprehensive wealth. Connect, collaborate, and grow together.
+- Access to The 5 Types of Wealth Launch Workshop: Get exclusive access to the full recording of this transformative virtual workshop, where I’ll guide you through specific exercises designed to help you apply the principles of the book. Watch it anytime at your convenience!
+Sahil's Recommendation Zone
+|
+Join me by starting one healthy habit to kick off 2026: [AG1](https://click.kit-mail6.com/5qux9883lpf7hn3gplkf6h92qw344bnhxk7dx/reh8hohmk9ozdef2/aHR0cHM6Ly9kcmlua2FnMS5jb20vc2FoaWw=)!
+I started taking [AG1](https://click.kit-mail6.com/5qux9883lpf7hn3gplkf6h92qw344bnhxk7dx/reh8hohmk9ozdef2/aHR0cHM6Ly9kcmlua2FnMS5jb20vc2FoaWw=) way before it was trendy or anyone knew about it––in 2011 when I needed to up my health game while playing college baseball. I was one of their first customers and fell in love with it. I took it consistently for over 10 years before asking the CEO for a link to share with family and friends.
+The newly upgraded [AG1 Next Gen](https://click.kit-mail6.com/5qux9883lpf7hn3gplkf6h92qw344bnhxk7dx/reh8hohmk9ozdef2/aHR0cHM6Ly9kcmlua2FnMS5jb20vc2FoaWw=) is backed by four clinical trials and features five clinically studied probiotics, functional mushrooms, and whole food-sourced nutrients to support gut health, immune function, and sustained energy.
+[AG1](https://click.kit-mail6.com/5qux9883lpf7hn3gplkf6h92qw344bnhxk7dx/reh8hohmk9ozdef2/aHR0cHM6Ly9kcmlua2FnMS5jb20vc2FoaWw=) is offering my amazing Curiosity Chronicle subscribers a FREE Welcome Kit including Vitamin D3+K2 and AG1 Travel packs when you first subscribe.
+|
+Sahil Bloom
+|
+|
+|

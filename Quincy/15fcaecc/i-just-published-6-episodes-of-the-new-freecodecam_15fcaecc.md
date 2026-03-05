@@ -1,0 +1,38 @@
+---
+subject: "I just published 6 episodes of the new freeCodeCamp Podcast. Listen and learn :)"
+from: "Quincy Larson <quincy@freecodecamp.org>"
+to: ""
+date: 2017-11-17 17:00:33
+labels: ["CATEGORY_PERSONAL", "INBOX", "Quincy", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_7697778124671848699", "UNREAD"]
+---
+Here are this week's three links that are worth your time:
+
+1. I just published the first 6 episodes of the new freeCodeCamp Podcast all at once. You can binge-listen to them now, or subscribe and listen to them at your convenience. We'll publish new episodes every Monday. Here's the full episode list, with links to listen for free (3 minute read): https://fcc.im/2ioiZEw
+
+2. Everything you should know about React: the basics you need to start building (10 minute read): https://fcc.im/2zHmsb6
+
+3. Hard coding concepts explained with simple real-life analogies: how to explain coding concepts like streams, promises, linting, and declarative programming to a 5-year-old (15 minute read): https://fcc.im/2mvDGml
+
+Bonus: The Reusable JavaScript Revolution - our newest freeCodeCamp Talk (42 minute watch): https://www.youtube.com/watch?v=LNClb7HEqeI
+
+
+
+
+If you get value out of these emails, consider supporting our nonprofit: https://donate.freecodecamp.org
+
+
+
+Happy coding!
+
+- Quincy Larson
+
+Teacher at https://www.freeCodeCamp.org
+
+
+
+
+
+If this email bothers you, you can manage your email settings here: https://www.freecodecamp.org/settings 
+
+Or you can one-click unsubscribe: https://www.freecodecamp.org/unsubscribe/ishan.mail@gmail.com

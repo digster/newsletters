@@ -1,0 +1,22 @@
+---
+subject: "Why Airtel’s Gopal Vittal prefers “hunger” to “readiness” in next-gen leaders"
+from: "The Ken <info@the-ken.com>"
+to: ""
+date: 2023-09-15 02:39:33
+labels: ["CATEGORY_PERSONAL", "INBOX", "The Ken", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_8244464457792971031", "UNREAD"]
+---
+Good Morning Ishan,
+Taking everything in their stride is the hallmark of an effective leader. As the chief executive (CEO) of India’s #2 telco, Bharti Airtel, Gopal Vittal has seen it all. A slide from the #1 position to being dragged into a prolonged, brutal competition that eroded years of gains for the telco.
+Those sinking times, people close to Vittal say, brought out the best in him.
+Now, as Airtel is looking healthy again and raring to aim for the top slot, Vittal’s years of work on spotting and grooming talent is coming to light as well. The company is undertaking a major reorg, and as it happens with all reorgs, it’s causing both excitement and stress.
+Airtel has picked a new chief operating officer, a new chief marketing officer, and a new CEO for the Africa unit’s mobile-network business. Many others in the leadership positions at the $62 billion giant are being entrusted with larger roles and responsibilities. As the deck is shuffled, there are also those who served the company well and for long but have either moved on or are moving on after anticipating the glass ceiling.
+When the pyramid gets narrower at the top, age is not a qualifier at Airtel. A senior executive with the company told The Ken, Vittal, 57, would choose “100% hunger over 100% readiness”.
+In fact, his bets on younger people are reminiscent of what Sunil Bharti Mittal, the group’s promoter, did in 2012 when Vittal was brought into the company for the second time. (His first stint was from 2006 to 2008 as the marketing head). It’s well known that after Vittal took over as the chief executive, the old guard—Sanjay Kapoor, CEO for India and South Asia, and Manoj Kohli, CEO and MD for international operations—left Airtel.
+But Mittal had a plan. To quote a former senior executive: “He created a safe playground for Gopal [Vittal] and Ajai [Puri] to purely focus on the India business.” An ops veteran, Puri retired in 2021. It’s now Vittal’s turn to create a “playground” for the younger lot he is grooming.
+Pratap has reported extensively on this insightful story. Let’s get to it: [https://the-ken.com/story/why-airtels-gopal-vittal-prefers-hunger-to-readiness-in-next-gen-leaders/](https://the-ken.com/story/why-airtels-gopal-vittal-prefers-hunger-to-readiness-in-next-gen-leaders/?utm_source=daily_story&utm_medium=email&utm_campaign=daily_newsletter) [9-minute read]
+Warmly,
+Seema Singh
+[seema@the-ken.com](mailto:seema@the-ken.com)
+What you just read is the personalised daily introduction to The Ken's story. Written by a different person each day. Often insightful, sometimes witty, and very rarely boring. Someone sent this to you? [Sign up for free](https://the-ken.com/?modal=register&utm_source=footer&utm_medium=email&utm_campaign=morning_email_ind). [Dont like these? You can unsubscribe](https://link.the-ken.com/asm/unsubscribe/?user_id=2349339&data=cUaW8lIYBQKy6nxV6Fm-eqqK0L1g2w-RFwnYcZ0hyftoMDAwdTAwMKp3pz-Z2sYSKcEczTCGkBiDmn0TCj4xmf03yTaHm8rxjbFT8uEfTxrfgNWxmlL1Uev1wcSmqujezzaCRTbtvOFgiMfk1o_usCh8ZjdpVqn9ySXf512DyKWLKmai7yZpMMG_9iMlbFciMGANlSb8DdsaJ47TTugKQ5SWE4n-CRgAjr28uhOw7I30anEZdhnZF0fNGN_2XAyEAgHoPv57Lf7QnDn7lpkdi8Ahl5BCTjTFc7l2B7OXzQjk2r2DQV7Qq-vFbaKzdVk-lGuDVCfbY8UIa4QRBGUjKrrXRxec2aDjwBWehRu0vMmhs9fYL2YwgA0y5L8k-qvjM5YYLuL7rHLB3-VO9ZIp6z77WxA_gHmIzw2ttC7jL7EhYcQolRocXaOb847J2StKtKY6w1I2dU0oh3OUCS4keBQw-WAnPtSs3HXd7cjB8Fq5qRExPiNawGT9WPVCSLVSim6Y2RdkscJg4bkolNo4OmjSSkLvHKe0-7MXP-nlLDu_Z_lNg45MChUIiIcL2DQzK-W7erfXnXI=) Dont want to hear from us again? [ Unsubscribe from our emails here](https://link.the-ken.com/asm/?user_id=2349339&data=fxUhxlJKoKnbO8Z8hxFFTIBEhgjzxXHJRomOW2xeu1VoMDAwdTAwMN1oGuRUEp4vK76Z0wSjtj-rpoMgBf_r-y28NTrgSsqoWqwwYBOmJPMhkeorWM_4XlMaMRo3omfaUc6piiBk9SA9lKgfnwpmqz43lh0nYPJGDm4Bpa_EKUtEaigwizNd2V5GoErpdRySAEH-Y8m7bp9kPVnhAKMiCNdudVcILVpFRgazK3oZ21oCm_v9y0iMQBvzQQPBhdpPS0b9rde7a8zM5T1omrAkLzrCBq7oT1uu34Vdkvg6kh6NcOmARsTssJP9872prwe0XD56ICY9BihRbb-wTwGY1ITHol821LOgQfoj5BqhGrdqeTJBzpJkmkFZk2XnLIY7Z4zex5cXmxjz4euukhHfAhzTkajnXRleT4G3xMfW1SpO7pPGVGnMamnhbrsQnT2KF35ekksJb3cmawnB2XeVUgqacaAh4AWvOwndKF7--FgjjWrTd9offhIfuWKcbN-XmV8PRqJuSrMNQo5eblfRyHahvDr8wqqROb4KnnsMKCdEZWJJmyGQxg==).
+Something wrong? Tell us at [support@the-ken.com](mailto:support@the-ken.com)

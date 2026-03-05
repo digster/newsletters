@@ -1,0 +1,29 @@
+---
+subject: "Can't travel with, can't travel without: Rail monopoly IRCTC's paradox"
+from: "The Ken <info@the-ken.com>"
+to: ""
+date: 2019-06-07 02:36:17
+labels: ["CATEGORY_PERSONAL", "INBOX", "The Ken"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_8244464457792971031"]
+---
+Good Morning Ishan,
+If you are of a certain age, your first brush with online payment would most likely have been while booking a ticket on IRCTC.com, which has held a monopoly on rail travel since forever. Perhaps it also remains your most exasperating online experience. Click, wait, wait some more, click, choose, almost done … “connection timed out”!
+In fact, I am convinced part of the reason that air travel took off in India was not just because it got one from point A to point B faster, but because it was quicker to get a ticket for that trip. That’s likely also why online travel aggregators (OTAs) like MakeMyTrip and Cleartrip popped up and flourished. Man, IRCTC (shudder)!
+I rarely, if at all, go to IRCTC now. But my absence, dear reader, would hardly make a dent on IRCTC, considering nearly 800,000 train tickets are sold online daily, double the number of air tickets. So while the bourgeois, like me, can afford to give IRCTC a skip, OTAs cannot afford to do so. Neither can the likes of PhonePe or any online company targeting the “Next Billion” users.
+You see, OTAs and payment firms accounted for nearly 11% of all train tickets sold online in fiscal 2018, up from under 1% two years back. These companies get a new revenue stream and a much-desired boost in transaction volumes, while IRCTC fills more seats and makes some money through the deals. Everyone wins, right?
+Wrong!
+“We don’t need them as much as they need us,” one senior IRCTC executive says.
+Not a surprising stance if you consider we are talking about a monopoly. But rather absurd when considering said monopoly’s growth spluttered after online bookings charges were scrapped. A move that also cost IRCTC Rs 500 crore in revenue, even as it is on the verge of an IPO.
+What’s more shocking is these travel and payment companies, well-funded no less, are sticking on with the partnership despite grumbling about IRCTC’s high-handedness and claiming they make little to no money from the deal.
+Arundhati lays out why these companies and IRCTC, inexorably destined to be travel mates, can’t live with each other and can't live without each other. Read her story here: [https://the-ken.com/story/irctc-payments-aggregators-relationship/](http://link.the-ken.com/wf/click?upn=HQSq6eeRV1xAVaGuFOahuNCZVVXPeP-2FJpSqxhvIUDrn8exODquI06LDfWoyd9ADiCQN0EZrX5P1BBAUdK-2B2r3590qXnzd-2B6cnjLNH5udtjpBLEgIV-2FJGSnLb2KRG9Ntohag31U9SycPWPJMQLw7-2BEMVaTkguscbnzXLUsw50xKLeyjARI7WUWVtoUekjxZOA_S4jLOsNx-2Fv6Jev2nvow8b7P9pBCWGd8KNZfb200gkZLQNlXQHio0noZzXtsWoloZmPWeyZsh7a4QCV9ufwCUKi00jlBT0uEdvwYDMuVuqcMcHpxPKYC9hIUuGf5g8vU0E-2BUT58Gp8CjaWGPI-2Bn-2B1W2raF8aFiZVQqKmub0my-2FxSXzNYiZJ-2FjLZcL8oAXTAP45Cx42EgOgLlUZk9L-2FXZXy11cQs5BePit9KUKeLA65V7GKmqYJbMzdh-2BDVxWfB9mWfoJvYvz0ikTumsPpeCNPO9SuFrFHdshbpAV1i0viyy3ZFY6fw6J7tAxXiFfjKEmmw2Sf39ZvXSPTTW5-2FQw-2Fu7DEYi5V8TAxT7gn4zxqJWNxT7feZgcyNkiQArdbiC49qLxTn5-2BktDsoCt-2BMcQFD3mv7xi-2FaAa2-2BfZjMDrTMFRl4-3D) (12-minute read)
+While today's story is paywalled, here are [five takeaways you can read for free](http://link.the-ken.com/wf/click?upn=HQSq6eeRV1xAVaGuFOahuEKVsU-2FtS6BhjpJai8iN2MNNOnA8ZF1Oe7xE79onzBkr9k9Gt0JL1goSiG-2BLQ-2FkIlAav-2FhljVN5JHcj6wwZjSDkjn28pPQqprUH-2FqVVWKP7sGESxPASlKBKJ3-2FrwmddmsLSQo1rqjP2xvDM9bPLrPtL6CgwXulWU9y-2Fx4reauIPUWicMiCnl0RBRG5JiXyX9BQ-3D-3D_S4jLOsNx-2Fv6Jev2nvow8b7P9pBCWGd8KNZfb200gkZLQNlXQHio0noZzXtsWoloZmPWeyZsh7a4QCV9ufwCUKi00jlBT0uEdvwYDMuVuqcMcHpxPKYC9hIUuGf5g8vU0E-2BUT58Gp8CjaWGPI-2Bn-2B1W2raF8aFiZVQqKmub0my-2FxSXzNYiZJ-2FjLZcL8oAXTAP45Cx42EgOgLlUZk9L-2FXZXy831GXSpbIUzaB4jkO-2BpfF8ZgtX2kiIcteW4XrEHUI-2FYbwx5pZaCqLaAnrpgdvXCvLU34UUlajnDf3Suk1ilXyAbbkRYb6yjzVkuxg-2BPHhd-2BtmavhfRnbcbRCKKk1-2BS7hk2WcI1f2mJ-2BrGGTvstdiyXLX6AM7QnTfftFqpJLMzvEVT2TPOmvgByeGk-2Be03BHoieOqFbFJGhe5y3zHvu5aL4-3D) right away.
+Regards,
+Savio D'Souza
+[savio@the-ken.com](mailto:savio@the-ken.com)
+|
+What you just read is the personalised daily introduction to The Ken's story. Written by a different person each day. Often insightful, sometimes witty, and very rarely boring. Someone sent this to you? [Sign up for free](https://the-ken.com/?modal=register). Don't like these? You can [unsubscribe](http://link.the-ken.com/asm/unsubscribe/?user_id=2349339&data=64Z2LDwF1T8SqR2NT80Kbp239ThnJ0Ksx3zkQw65PgcfwDStDpPEr4gbmQ-ht8PDGpL8AMC4nGG0fGPZa4nnJFXOm0f4rul3hap8MkIr_aOsBKhjdi33hVbuGrEGkBPAL2MJnRoT29NKi3e11XJPO7dPTqdq_qjxoNLugnSODJGU6Tkjx1HNSyRhNVRq2ciI8HUxNOL16QkSWuuH5_314JprMu9n6dffVnu9AuPXgseZEz9T9IBDMXftlX_NOlDb0KXAfYNtPOVJRVe0Ofyg_VNTgjMXcdR6TJVYLzKpsoDJDPYyymLMIp6EKkDQ_CT-3enuRoRQKC09zaiRXxjFV1Hjgr2CdBv8V-pP9swhZ40oEw8RVycXBi8761JOfv4vHdilSEu6LGxlIFKKpEVcu04tHXX8gmHWd0lDF2N4OmXlOfk7DIALAC3MOuYdl7Q_FbzSJe3zB4HaA_KYnRbEsamBzp9o4IuvES50oLemDHRpnZnijKhOeZoMz8AJK35-Hxlis0oYrPoXNmW-inMvj2Fm3iYQv8tnACXqYc1sdXQ=). Want to manage your emails? Click [here](http://link.the-ken.com/asm/?user_id=2349339&data=qV5dXbPTI7UMNCv4ikRFbLDxnoC9s3OzbDkZbEL_hDMIRkzkLXTPR5F7NwDVN85rA53P9ZAG7nIzfNw2JewTEhgiLJAY-4lYEp2d41zpyxDPE7YNmQl8T22nSz0opkttnui-xMLYY-PJTP5TnaWJ86Tpdjpnyz48KGmWfQZekv4Hss1YfoLNG7o-u2C67Y-K2793cHJs7hwDDOTQVyN6Oe4PaTEVl2fzNu4g5hL1Y7F3M55Ub10Q5_2Iil8If1ss5btKIxwBVXTtYeVPAnS4hNTUVXK8r_Ua2OqJxwmHquIrOv6tXVQIacLRw9IsO0NPlHpJckPHI5MBZshn8LhMRs_dQmBvWYHZ2445mfPUSHHa9_Bg_K_p9VVQZIlu6RKpxiLvnt0mGkzm4o7PHGskBrsedmGATbI6YWufnssFMlIgziPFN_uBDuQ49xiDiZvevywSsCuHQIrBRHqZGPQlICu56ONViKUw24CRm56MEi55_4UxYkaUlkajuGCt8t8y57fwMt3gs919AyDWPnYmNA==).
+|
+|
+|
+|
+|

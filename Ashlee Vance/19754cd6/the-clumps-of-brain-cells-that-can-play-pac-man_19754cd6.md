@@ -1,0 +1,19 @@
+---
+subject: "The Clumps of Brain Cells That Can Play Pac-Man"
+from: "Sarah McBride from Core Memory  <ashleevance@substack.com>"
+to: ""
+date: 2025-06-09 13:02:52
+labels: ["Ashlee Vance", "CATEGORY_PERSONAL", "INBOX", "UNREAD"]
+label_ids: ["Label_4216359091400734623", "CATEGORY_PERSONAL", "INBOX", "UNREAD"]
+---
+|
+Three rooms deep into a warren of New Orleans laboratories, a computer display hums away on a desk, showing a triangle-mouthed yellow blob navigating through a maze and eating dots with a pink ghost hot on its tail. This off-brand version of Pac-Man is unremarkable in and of itself. What is remarkable, however, is what’s controlling the game: a tray of disembodied brain cells sitting in an incubator a few inches away from the screen.
+The ringmasters for this show are lead scientist Corey Rountree, 37, and research associate Eva Schmidt, 28, who work for the startup [28bio](https://substack.com/redirect/2155f579-5c44-490c-8463-84632ba6bd33?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o). Minutes before Pac-Man began chomping, Schmidt had opened the incubator door and pulled out a tray about the size of a smartphone to show me the brain cells. They were at the bottom of a series of miniature wells carved into the tray and topped by a clear polycarbonate screen for protection. The cells were kept at 38 degrees celsius, the same temperature as the human body. They’re tough to see - specks about the size of a granule of coffee. But these tiny clumps of brain matter were enough to make Pac-Man do its thing.
+Rountree, Schmidt, and their 28bio colleagues have figured out how to grow cortical neurons - a type of brain cell - outside of the human body. And they’ve trained the neurons to use their own electrical impulses to accomplish basic tasks. In this case, that means moving the Pac-Man toward food and away from the ghost.
+The scientists at 28bio, named after explorer Ernest Shackleton’s against-the-odds rescue involving himself and 27 men on an Antarctic expedition, have nearterm hopes to bring drugs to market faster and more safely using their technology. Compounds can, for example, be tested on the three-dimensional clumps of brain cells, known as brain organoids, instead of on living creatures. This is not only karmically useful but also plays into recent pushes from both the U.S. Food and Drug Administration and the National Institutes of Health to lessen the use of animal testing.
+The start-up, formerly known as Axosim, already works with several big pharmaceutical customers, including AstraZeneca, Genentech, Merck, Sanofi and Takeda. They are using 28bio’s models of the brain and nervous system to test for neurotoxicity and efficacy of drug candidates, such as remedies for epilepsy and other neurological conditions. After all, if a potential medicine doesn’t adversely affect the organoids, or helps them function, that bodes well for its effect on a full human organ.
+And, like any self-respecting start-up in 2025, 28bio also has a wild-eyed AI play. In, say, 10 to 15 years, artificial brains based on this technology could lead to the creation of data centers that run on literal neural networks. The idea is that the data centers could play off the amazing efficiency of human brains and consume much less power than the GPU-stuffed behemoths of today. Work toward that end puts 28bio at the heart of an emerging field called organoid intelligence, meaning developing biological computing based on brain cells. “It’s an ambitious goal,” says Rountree, a biomedical engineer by training. “But it’s one that would be absolutely transformational if we could achieve it.”...
+Subscribe to Core Memory to keep reading this post and get 7 days of free access to the full post archives.
+| Support the science and tech coverage you want and deserve | |
+| Full access to all exclusive content (posts, podcasts and videos) | |
+| Boost your yield. Post comments and join the community |

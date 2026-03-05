@@ -1,0 +1,17 @@
+---
+subject: "Rent Control Creates Ghost Apartments"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2025-12-20 12:22:05
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+Adam Lehodey [writing at City Journal](http://marginalrevolution.com?action=user_content_redirect&uuid=d0271d03e093187a7ee8e28799deaff8933d3e0168d29338e97a94eecb45ca04&blog_id=42693868&post_id=92077&user_id=262258391&subs_id=225460721&signature=a4cd1aa485ea7b551c80596dd39944b3&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly93d3cuY2l0eS1qb3VybmFsLm9yZy9hcnRpY2xlL3ZhY2FudC1uZXcteW9yay1jaXR5LWFwYXJ0bWVudHMtcmVudC1jb250cm9sLWhvdXNpbmc&email_id=4ae557533145bee7802b710963a81a05):
+In New York City, making a profit on real estate has become increasingly difficult. Rent-stabilization laws built on the mantra that “housing is a human right,” a
+[dysfunctional]housing court, and myriad other interventions have driven thousands of units off the market, giving rise to the phenomenon of New York’s “ghost apartments.”The city now has
+[nearly 50,000]empty units, absent from the market either because their operating costs exceed legal rents or because they require considerable renovations....Take a building on East 6th Street as an example. A mere five-minute walk from Tompkins Square, the building is a convenient home for students and young professionals.
+One-bedroom units in the building
+[average]$3,500— except two of them, subject to the city’s rent-stabilization laws, which hold rents below $900 per month.As a result, both units have been allowed to fall into disrepair, because the cost of restoring them to habitability is greater than what they’d generate in rent.
+...Much of the predicament at the East 6th Street building and the apartments on Valentine Avenue can be traced back to one piece of
+[legislation]: the 2019 Housing Stability and Tenant Protection Act (HSTPA). Passed by a Democratic majority in the state legislature, HSTPA[eliminated]landlords’ abilities to raise rents after units were vacated, or when they exceeded $2,775 per month. In doing so, it also eliminated their ability to make improvements profitably and reset the stabilized rent.
+[Recall](http://marginalrevolution.com?action=user_content_redirect&uuid=22797e9954223302c2f5a26f03f0f2c52dffdbded0b995fe664c116d88e5fc75&blog_id=42693868&post_id=92077&user_id=262258391&subs_id=225460721&signature=75610b196f203ab48c02de4dc1ccebf7&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly9tYXJnaW5hbHJldm9sdXRpb24uY29tL21hcmdpbmFscmV2b2x1dGlvbi8yMDI0LzA3L3JlbnQtY29udHJvbC0yLmh0bWw&email_id=4ae557533145bee7802b710963a81a05) from the[ recent review](http://marginalrevolution.com?action=user_content_redirect&uuid=ad871615f66b011a77a47e0040a385dd704708383a01f1e037a10ea108ddd0be&blog_id=42693868&post_id=92077&user_id=262258391&subs_id=225460721&signature=fa17393c26c14c9e7ce4269233a0de22&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly93d3cuc2NpZW5jZWRpcmVjdC5jb20vc2NpZW5jZS9hcnRpY2xlL3BpaS9TMTA1MTEzNzcyNDAwMDAyMD92aWElM0RpaHVi&email_id=4ae557533145bee7802b710963a81a05) by Kholodilin that “the published studies are almost unanimous with respect to the impact of rent control on the quality of housing….[namely] that rent control leads to a deterioration in the quality of those dwellings subject to regulations.”

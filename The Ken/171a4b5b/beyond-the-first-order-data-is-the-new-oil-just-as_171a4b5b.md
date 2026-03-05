@@ -1,0 +1,133 @@
+---
+subject: "Beyond the First Order — \"Data IS the new oil. Just ask Facebook\""
+from: "BFO by The Ken <info@the-ken.com>"
+to: ""
+date: 2020-04-23 01:45:04
+labels: ["CATEGORY_PERSONAL", "INBOX", "The Ken"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_8244464457792971031"]
+---
+|
+Edition #18. Thursday, 23 April 2020
+|
+Someone sent you this? Sign up [here](https://link.the-ken.com/ls/click?upn=sy6ExvMQ-2BqIqW2Qsf-2FVG5uN3NP3blsUSSwHPvfjO52n9nMVVIIfEQULzTvpU46J7to85-2FjHyZv-2B9ITBCDPrsCO2hxfQnLvg1hQuiIPnSqyBYhY0Hyl0b9NNCNF2MzknBhDft_dmDs81p1OM5gBGYvHfsMFvgp9PcMB6iZkwowmLx-2FVhwlHXbL5m6csiptGuneRwktW27c6ZwIBsjV67BZcfkOlPppVavmb9GVjXF4V-2FTqNpVfM6CpSJhP74oQDYwkgwnGGPBtbBGd4aBPBRwbqyyU5vstq7relWtSqh6tdktzaob5NrpIXJSJFucIvSDuYI3JnrKDcSOPqnQ5BgQinPrMPEQU9lmFIeccilfrmUU6Whuv8qayogIwoIVGf8RmyA6mIPFd6iZTJKOFIoKVB9kyP3S-2FCgx1QEDPjJLLAMdzDTDzobNlxqSRdluHM5Xr8vaOuSBCUsjcWwApzgmpCRTLbbVmKljUNCVsLqn1WFpnCfc5EYx6g53UuaGFlhFCmRO1z2PioEMJM7-2FBl01FwagVK87D8c4OA-2FLQxAWLVR5Iypw-3D)
+|
+Hello!
+We’re sadly over indexed on India today—all our stories are from the country in which the world’s 16th richest man was thanked by the world’s 6th richest man for... accepting his company’s $5.7 billion investment. 🤷🏾♂️
+Meanwhile, the country’s “Silicon Valley”, Bengaluru, saw its municipal corporation turn into a... hyperlocal platform. Its foundation? Facebook-owned Whatsapp.
+There’s a reason why every delivery platform in India is turning into a... crowdfunding platform. Will it be charity that saves gig workers?
+Who knew that lockdowns would lock down... bees? Yep, turns out they need transportation too. Could robot bees help? (Not kidding.)
+Recycling plastic bags? Yeah, well, it's falling victim to Covid-19 too. As a result, single-use plastics are making a quiet comeback.
+|
+Data IS the new oil. Just ask Facebook
+Rohin
+It’s not often that you see an investment round of [$5.7 billion](https://link.the-ken.com/ls/click?upn=sy6ExvMQ-2BqIqW2Qsf-2FVG5qDN-2B16ZFtrkHS60ZUM8iLiauzBq8Sup-2FpUg-2B5uBreD-2F-2B0s4pBjEsuDP-2FIrXKVmW9iACsEAY3oBMv7pnxCU5AwdrmEON1adNbmv3ngEq7LkpqQs-2BDo7NeFc9PFLSRqPUHunqi7zG2rnAl9wPbbD8Bt8-3DPqWn_dmDs81p1OM5gBGYvHfsMFvgp9PcMB6iZkwowmLx-2FVhwlHXbL5m6csiptGuneRwktW27c6ZwIBsjV67BZcfkOlPppVavmb9GVjXF4V-2FTqNpVfM6CpSJhP74oQDYwkgwnGGPBtbBGd4aBPBRwbqyyU5vstq7relWtSqh6tdktzaob5NrpIXJSJFucIvSDuYI3JnrKDcSOPqnQ5BgQinPrMPLi-2B4NCFFgYx65rz5FhwIrAzIinFnA-2FfFIl2f6EUt5qOpa9N7vBKCNGAJ-2Bzz0rCLFPx0kWu1pD1w9QZe9gvyLzAI-2FScQD7maGyg-2BaanoVJA-2BQtxuHLT2ojicn-2FRO7qgw78lYNXURLf6oRShAtCGbWTbRwX-2BY0zWnp5PuaMT5OmJ5AnLQSUHlk4XSFUkcyZuasdAKvugzhP5RYYjn9Y3xxqo-3D) in a company. And it’s almost never that you see the one making the investment thanking the one receiving the investment.
+Both happened yesterday.
+“I want to thank Mukesh Ambani and the entire Jio team for their partnership,” said Facebook founder and CEO Mark Zuckerberg [in a post](https://link.the-ken.com/ls/click?upn=sy6ExvMQ-2BqIqW2Qsf-2FVG5jG4r6hxwmYybD33N-2Bs-2F-2B8nYAC-2BTk0IBL-2B6qj-2BfmLvgu-2FTA0pRNVohdTNn6Md1MrAw-3D-3DXkF5_dmDs81p1OM5gBGYvHfsMFvgp9PcMB6iZkwowmLx-2FVhwlHXbL5m6csiptGuneRwktW27c6ZwIBsjV67BZcfkOlPppVavmb9GVjXF4V-2FTqNpVfM6CpSJhP74oQDYwkgwnGGPBtbBGd4aBPBRwbqyyU5vstq7relWtSqh6tdktzaob5NrpIXJSJFucIvSDuYI3JnrKDcSOPqnQ5BgQinPrMPI-2FCKrQSlBHkQ1Pc-2BOjVbLzhY-2Fuq-2FKLrf1UYS7OqGNzmej-2BnvpvXi-2BqfWwO2m9WqhR-2B8Y83sLuD0Z4kHbX4ka0TN-2FlkKtZqmVfhtdsC-2B0uN1eosa-2B5NxJEE7n6ul9zoqlUelSZaHjv2xaBczKdxOaas0Sfvc3vC30H0-2Bqw-2FZy940lr-2FgOng36aM632Tm7sh7feLkDhoZEcyivlgofBdVWjY-3D) on his platform.
+What is Zuckerberg thanking Ambani for?
+Oh, I don’t know. But just last January, Ambani was [demanding](https://link.the-ken.com/ls/click?upn=sy6ExvMQ-2BqIqW2Qsf-2FVG5pEjL-2FSVraSAAEvYTewqOqnyOm1ixDd6LkjvXxWHi-2FpnLyepj-2FmRlqF9eT89LQG34eNwU118CxGFK1QTKiAxzCOJlXpC4gN5vLwXdaY0F1jLT-2Fl9OHYeIB8xCY5LcJF8CYh7oDEzEWSRhrIOs6O5VBXZ1DYBS0ng1WYCxaZurod7wmk9_dmDs81p1OM5gBGYvHfsMFvgp9PcMB6iZkwowmLx-2FVhwlHXbL5m6csiptGuneRwktW27c6ZwIBsjV67BZcfkOlPppVavmb9GVjXF4V-2FTqNpVfM6CpSJhP74oQDYwkgwnGGPBtbBGd4aBPBRwbqyyU5vstq7relWtSqh6tdktzaob5NrpIXJSJFucIvSDuYI3JnrKDcSOPqnQ5BgQinPrMPJBKkpZg-2Bh1d4XadbkGHi5W-2FOxPG7GVnJMM-2BpxHSIp2CXpPyj7GPE6DPc9yTi3zBwqxSFeGKbi4yr-2F5eRmO9zdGXqu04UitOseH1jphK497V1hb0ojrACL0-2FFuNngpMTnF36Y47gbVJYsJaZzoGu8DrKD-2FAnSpUfSmwZY8jf4tNRPre-2Fo6wTOQHEvy6YqNRTNEuLVCxN9Z7zsTqDawhfBCs-3D) “a new movement against data colonisation”, a successor to Mahatma Gandhi’s movement against India’s colonisation by the British.
+|
+In this new world, data is the new oil. (emphasis added)
+And data is the new wealth.
+India’s data must be controlled and owned by Indian people - and not by corporates, especially global corporations.
+For India to succeed in this data-driven revolution, we will have to migrate the control and ownership of Indian data back to India - in other words, Indian wealth back to every Indian.
+|
+|
+Mukesh Ambani, Chairman of Reliance Industries Ltd.
+|
+|
+|
+Nick Clegg, Facebook’s Vice-President for Global Affairs and Communications and former UK deputy PM, tried valiantly to fight back against Ambani’s point of view some months later.
+|
+“There are many in India and around the world who think of data as the new oil (emphasis added), and that, like oil, having a great reserve of it held within your national boundaries will lead to surefire prosperity. But this analogy is mistaken,” said Nick Clegg, global head for public policy, Facebook, at an event on Thursday. “Data isn’t oil — a finite commodity — to be owned and traded, pumped from the ground and burned in cars and factories. Of course, no analogy is perfect, but a better liquid to liken it to is water, with the global internet like a great borderless ocean of currents and tides,” Clegg added.
+|
+|
+|
+Mistake. Big mistake. Clegg then went on to ask, which way would India go?
+|
+“There are three basic planets which will decide the fight for open or closed Internet: America, Europe and India. China has already made that decision. Of those three, we can roughly guess where America or Europe is going to go. But there is a battle over where India is going to go. (emphasis added) Will India go towards data nationalistic direction and borrow elements from China, or, as an open democracy and a great entrepreneur nation, will it embrace the openness of the Internet? These decisions, where you regulate, where you draw the line on content, elections, privacy, data portability — and the rules that need to be put in place — all of those are still to be written… My only plea would be that those decisions are taken with a view to the future, not just the present, and also with an understanding that what India does, many other countries will follow.”
+|
+Facebook VP Nick Clegg says India’s policy will decide the fate of internet, [Financial Express](https://link.the-ken.com/ls/click?upn=sy6ExvMQ-2BqIqW2Qsf-2FVG5sOKT3DiVIQm8oKsCFZAHNwOhJxvQaVV02CkGUvr4XHSlwViJxCxlXCphl-2Ftx0H1Q-2Fu8WX44iSyj1tknq0sQE50shocojjjVLBozPFqwINa-2BDtZpzB4VopYdGlDSexKKglB1cPIETbfcnklo7EtaK2Uf4yW-2BDmVaYisnadQoqDd-2FutAx_dmDs81p1OM5gBGYvHfsMFvgp9PcMB6iZkwowmLx-2FVhwlHXbL5m6csiptGuneRwktW27c6ZwIBsjV67BZcfkOlPppVavmb9GVjXF4V-2FTqNpVfM6CpSJhP74oQDYwkgwnGGPBtbBGd4aBPBRwbqyyU5vstq7relWtSqh6tdktzaob5NrpIXJSJFucIvSDuYI3JnrKDcSOPqnQ5BgQinPrMPL9elbDs3CCiXA5O7Gw3gfMpy-2BfVXNFuq-2BAVDULodH1FKM1C-2Bh3nM2AE-2FlbD8AvLAsoqDwD6wp30H5wU-2FfbA4EEK-2BHGt-2BQ3gOIEO8vENotB5Y1ge1-2BIcEQ8Ihay0BwBQA5ahLetU6UhT2aO-2BTaQ9uztgEAUjKDvPjPR49BX41ZZPUhhcAXipFO0zgGEhO9pPm-2FDJurL-2FhTzqe-2BSAhUeKBRs-3D)
+|
+|
+|
+That Facebook went with Reliance might help us answer what happened to the battle over where India would go.
+Oh, and by the way, according to Forbes’ “Real-time” Billionaire List, Zuckerberg lost $2.7 billion of his net worth while Ambani gained $4.1 billion yesterday.
+|
+Facebook’s giant investment has possibly eased things for one of its own kind. WhatsApp, though, is starting with the hyperlocal.
+|
+|
+WhatsApp gives rise to a new master hyperlocal player in town
+Arundhati
+Hyperlocal unicorns meet your new match—Bengaluru’s civic corporation body, the Bruhat Bengaluru Mahanagara Palike, or BBMP.
+The civic body has built an alternative to online grocery startups like BigBasket, Grofers, and Amazon by doing things only possible with government clout. It managed to assemble merchants, hyperlocal logistics companies with plenty of driver partners to spare like Dunzo and Shadowfax, and even on-demand service providers like Housejoy. On what platform, you ask? WhatsApp.
+How it works: You open a WhatsApp chat window with the BBMP helpline. You order what you want through the app. The orders are then assigned to delivery partners on the backend who are told which store to collect the order from. “If some delivery partners are not active, we will deprioritise them,” says Aniketh Jain, the chief revenue officer of Kaleyra, a listed American company that is a communication platform. It is one of BBMP’s partners in this initiative. For companies out of business, partnering with the government is the best possible outcome. We [wrote about this](https://link.the-ken.com/ls/click?upn=sy6ExvMQ-2BqIqW2Qsf-2FVG5sc84ge4M35NkSHIl0HH-2B5CQoxoKtKX93hjj-2BFvQAZnuKYafkBZLjeYTtRL5KcIg0g-3D-3DotSB_dmDs81p1OM5gBGYvHfsMFvgp9PcMB6iZkwowmLx-2FVhwlHXbL5m6csiptGuneRwktW27c6ZwIBsjV67BZcfkOlPppVavmb9GVjXF4V-2FTqNpVfM6CpSJhP74oQDYwkgwnGGPBtbBGd4aBPBRwbqyyU5vstq7relWtSqh6tdktzaob5NrpIXJSJFucIvSDuYI3JnrKDcSOPqnQ5BgQinPrMPDZfU9kZj61yny0kEYXBTvZCERVxAw75gGE8JREylScwj-2FtZxpwO9qbFJQErtVutUC3f5f2RS-2FTItHz3H20RGWXk1qgby6I6DlV9ZX-2BHaxUvuwyGDYe0uLwTWuSSgentdw5sq3rO6DApcbTzia-2BQs7FB0M3CaCbQ9YPC-2FcjP-2BZLTUMGE1HLWv-2BmQAxDqxWYCXAp8dxF36jNuCTo9c80PKww-3D) recently.
+|
+|
+|
+|
+Traction: 16,000 merchants have signed up. In two days, it saw 10,000 orders, of which about 50-60% were fulfilled, Jain told The Ken.
+Why is this relevant: In Covid hotspots, this can help maintain services while ensuring BBMP-authorised delivery partners are the ones making deliveries. This is one of the approaches that helped the state of Kerala [flatten](https://link.the-ken.com/ls/click?upn=sy6ExvMQ-2BqIqW2Qsf-2FVG5uSQwi3TjN-2Bo-2F5PGs3-2F4NB5jSBf3MyQs-2FQEvUfzfgzVNM0n-2B6IHX931xLW4lJvIkJumyMSeemiZ5NnCVlJDAZxZQ5WpoQpjwkeqicBFWf58r-2Fdx37wb5ZIkADiGT2ysSXNjb-2FTKHUr1AT-2FYx9dh2Yy4ZP6lv3MVta6j20RyOkTlbBtSK78-2BhitJhbxbN30eluA-3D-3D0lqk_dmDs81p1OM5gBGYvHfsMFvgp9PcMB6iZkwowmLx-2FVhwlHXbL5m6csiptGuneRwktW27c6ZwIBsjV67BZcfkOlPppVavmb9GVjXF4V-2FTqNpVfM6CpSJhP74oQDYwkgwnGGPBtbBGd4aBPBRwbqyyU5vstq7relWtSqh6tdktzaob5NrpIXJSJFucIvSDuYI3JnrKDcSOPqnQ5BgQinPrMPLCIegGYepVq2yoEVTW4DCurtzgm0iL-2FaO0ghJaTFpTt-2B5uPRbz4u5NAFXUKEieVEql-2BNcXx2KbntBnwaOwdiDpGqJHecqGWzfspcxbT0PevO-2B55UnWqqVGVAEATcR6poHOCLa5Y-2FsMCtiMdGmnWpVirg5guP4FvK5N581TXOuRxEzQyKy0gg-2FATMUx1aM-2BQTCr8xlvxVinMevRa7CuW9Ws-3D) its Covid-19 infection curve.
+Who comes out looking good: WhatsApp. WhatsApp has been trying to get people to use the chat platform to do business for the longest time. We’ve [written](https://link.the-ken.com/ls/click?upn=sy6ExvMQ-2BqIqW2Qsf-2FVG5sc84ge4M35NkSHIl0HH-2B5A0rufHEZ3EKMNFh6ZY1rT-2BV0FFruze-2BcJ3lb3xO-2FikOwNbNrIVOHUVryU-2B3z-2BG92n6qL7RHNaeuyuqs4WOr4gXHWgI_dmDs81p1OM5gBGYvHfsMFvgp9PcMB6iZkwowmLx-2FVhwlHXbL5m6csiptGuneRwktW27c6ZwIBsjV67BZcfkOlPppVavmb9GVjXF4V-2FTqNpVfM6CpSJhP74oQDYwkgwnGGPBtbBGd4aBPBRwbqyyU5vstq7relWtSqh6tdktzaob5NrpIXJSJFucIvSDuYI3JnrKDcSOPqnQ5BgQinPrMPDSGBaH-2B6EJCSLqkVIgREU54L4ZBJMTe5hmQyWeJ4B9TlgQO9AHNF8CVIYWDbF8zwrrLIy7GizDP-2FNC7xrohvUxBpLRNyaxtTSZfPQ5YwaCCyZqbtAzSichple5tX0EJfkl7aMqVMRFIlcaomiZIlVroLBWgjDOpASELgNJqTnmgw-2BjM2M-2FHT4xIf4geUVNX0KsNltlo6NaVDEjBWVwOGq8-3D) about this before. This is its chance to get people comfortable with conversational commerce.
+A new power emerges: The triumvirate of the government, iSpirt, and tech companies. ISpirt is a software lobby, which was [responsible](https://link.the-ken.com/ls/click?upn=sy6ExvMQ-2BqIqW2Qsf-2FVG5sc84ge4M35NkSHIl0HH-2B5Don38vyDXjy-2BlyoWjs3u4nam-2Fqfyp4E-2BncY7kZQ5sgnAsa6IIcug3PHLoLeYeBlQbWO-2BiyEfYS-2FgcOSPd4CWH1ehHI_dmDs81p1OM5gBGYvHfsMFvgp9PcMB6iZkwowmLx-2FVhwlHXbL5m6csiptGuneRwktW27c6ZwIBsjV67BZcfkOlPppVavmb9GVjXF4V-2FTqNpVfM6CpSJhP74oQDYwkgwnGGPBtbBGd4aBPBRwbqyyU5vstq7relWtSqh6tdktzaob5NrpIXJSJFucIvSDuYI3JnrKDcSOPqnQ5BgQinPrMPFE5RAwJq1Tc8y9EFRwg2-2BucXJvl-2BfHg3YQZckCcD8IEiJ7r1WAKfTRamggSEfelY4GT-2BJkHzNew40KGGEvdY7AQf04YzKIzrzeAzCPU5wheLH2WMeKy65N2fI7RrdPiZ6VZ0ScMhdulxZ8YV64F0VvFvcDP1zQP8rd088UJBj8BKIYlLT3g2ceNn2HRlxg6hrht0j43NkYkTmtC7E6sSm0-3D) for evangelising India’s digital biometrics database Aadhaar and payments system UPI. In this case, it played an active role in getting the different entities together.
+BBMP also just gave a free business model idea to someone with even larger clout. Someone who can galvanise millions of merchants, delivery partners, and users across India. Obvious much?
+|
+The crowdfunding altruism smokescreen
+Savio
+If you use any app that necessitates deliveries (food, e-commerce) or travel (ride-hailing), you have probably been invited to contribute to a crowdfunding drive to help “employees” of these platforms. Yes? Ok, read on.
+|
+This, of course, begs the obvious question: why are India’s app-based firms, which have multi-million dollar valuations, appealing to the public to help them offer security to their own workers? As labour rights activists have long pointed out, this is another example of how app-based companies operate in a regulatory greyzone, identifying themselves as “technology platforms” and not as providers of labour services. These firms categorise their workers not as employees but as “partners”. This allows them to avoid any real responsibility for the conditions or welfare of their workers.
+[...]
+The charity campaigns and the discourse around the heroism of the workers shows how platforms are effectively using altruism as a smokescreen to evade their own obligations towards those who labour for them. On the one hand, workers are projected as agents of sacrifice and selflessness who put customers before themselves. On the other, customers are presented with the opportunity to be charitable to their “hunger saviours”, as Swiggy calls its workers, by way of tipping or by donating to the crowdfunding campaigns.
+|
+By crowdfunding benefits for embattled workers, app-based services are evading their own obligations, [Scroll](https://link.the-ken.com/ls/click?upn=sy6ExvMQ-2BqIqW2Qsf-2FVG5oogVaMCjNg8djcxlwLTpURnfGwjhwKwg9kEdqmYSNDh-2FheAEqKFfSdtOKZYmV8PJR1MW1Nf6-2FEBC6XWGaQBccfZN-2F5Iw3l2BZH589fb1UHp-2FsEhRYCtPw3DSmNpyPCRrMPIaQXG0rwHzqxnXnnizVdMxSDvwuDwZZIYA9pGw-2Br9L53f_dmDs81p1OM5gBGYvHfsMFvgp9PcMB6iZkwowmLx-2FVhwlHXbL5m6csiptGuneRwktW27c6ZwIBsjV67BZcfkOlPppVavmb9GVjXF4V-2FTqNpVfM6CpSJhP74oQDYwkgwnGGPBtbBGd4aBPBRwbqyyU5vstq7relWtSqh6tdktzaob5NrpIXJSJFucIvSDuYI3JnrKDcSOPqnQ5BgQinPrMPIzQXNYcUDRQe4yJ6C-2BegV2-2FX4p-2Bghqf3zHfaw8c9ZAeQ4QuhxLHZSKHO0tCKzFB6te8WJ8ObiSsAgpLAoHf7fqiMwurqGN7ATIVSfVuZauABO9ZxEo2BBMEOTk5IF-2BL8CtwMC7qaEbTmSOMitFVBOQZhxD9umlHoXEzDznAyZ0Rf8NIX-2BrVrNIzlv9vZuL-2Fqf5jr5ZMj2Jp9NZkt2RvWmg-3D)
+|
+|
+|
+The Indian government acknowledged the presence of “gig workers” and “platform workers” in [The Code on Social Security, 2019](https://link.the-ken.com/ls/click?upn=sy6ExvMQ-2BqIqW2Qsf-2FVG5rRb2fZM93LrMRYDat0dz9MoFFuWJOEMO-2F4SwGmUH2-2FA1PYO4Qqv8aZlSPmB3dK8cXDsXt0-2FFMJ-2F9oppzzaybu4-3D8by__dmDs81p1OM5gBGYvHfsMFvgp9PcMB6iZkwowmLx-2FVhwlHXbL5m6csiptGuneRwktW27c6ZwIBsjV67BZcfkOlPppVavmb9GVjXF4V-2FTqNpVfM6CpSJhP74oQDYwkgwnGGPBtbBGd4aBPBRwbqyyU5vstq7relWtSqh6tdktzaob5NrpIXJSJFucIvSDuYI3JnrKDcSOPqnQ5BgQinPrMPFolnm8K7qFqAtw2aGVuK-2B-2FHRxSsNu1CL4KTpe4zEYSCQQ-2FjDRMgF4Cw70QQvjVwQryWqKarRzncJzod2o5IVUw4U3o-2FBUPV-2FCvXepiROs7up8cniLUlLauomhHqc8gEXDAGvTlJNWgE1-2BFq2EqveYNE6Kx-2Beja-2BeKuCVWDfFhd1iWk-2F5aEep9aTkPfuIxe5VWd-2BaYzOXJylytFUimmdDxY-3D), but did little to make clear their entitlements.
+And this is true globally. Gig workers have few rights, if any. And funds, organised by the state or “employers” have been hard to come by. USA’s $2 trillion package allows gig economy workers to claim unemployment benefits, but [there are obstacles](https://link.the-ken.com/ls/click?upn=sy6ExvMQ-2BqIqW2Qsf-2FVG5sMcrohDGvPs5pe9h2jOU-2BJ8cAvarGFsbnHKapn2ABJcDj5DzPQ2kgXE3vK5Zoz-2F1XklR9c-2FaE5hi9z-2FG7M6V-2B4zNdhlYBGRpk0XDd28Je8gciWcpbtSfTJvfcTog-2BdNpK8JCpGiN6XyfJTvTyBpwG7ODYio-2BPcqFNSYfngA2gXED5MjrQdJnjb7f-2FRIXyjl58AQbq6p9eOJjgsWdxs3XAU-3DeRx2_dmDs81p1OM5gBGYvHfsMFvgp9PcMB6iZkwowmLx-2FVhwlHXbL5m6csiptGuneRwktW27c6ZwIBsjV67BZcfkOlPppVavmb9GVjXF4V-2FTqNpVfM6CpSJhP74oQDYwkgwnGGPBtbBGd4aBPBRwbqyyU5vstq7relWtSqh6tdktzaob5NrpIXJSJFucIvSDuYI3JnrKDcSOPqnQ5BgQinPrMPOP11hLDfwh0bvswUkC2JaRcD26hFLgZR2fqZsa7VM50xBY5G-2BcpZ-2FnrYHG7UJJegL5vCHYXMu2lMD6NXRZK7-2BWoirFtpfNGLgoHG0vPnHQ8fKjEplMBm5Q0z-2FKZj6IMgveqM-2BRunRpD61rUEnPgUIfD03UkjYzKdVBGeI7EAoLL1wTJgivrno2MNeE4nse5kBMPdHB3m9zQI-2BXL5WfEvTE-3D). In the UK, Deliveroo has organised funds for its drivers, but they are finding it nearly [impossible to access](https://link.the-ken.com/ls/click?upn=sy6ExvMQ-2BqIqW2Qsf-2FVG5gF8lb0Rja2CciTPDkU3HIawxkKvNJu-2FLaWZ0X-2Fxd2-2BCieMTZIC8hMnGGwJzXl-2BfCRb5h4f9WyXAunggwST3bn-2FFLYKIDK5ziGsqT3rTCmkYFoJqn1r7gqhVmNC2gGDsfwMHrospgEIe3gBrEvgDMlBel9eQM8jb4phld40YJN0x9QdL_dmDs81p1OM5gBGYvHfsMFvgp9PcMB6iZkwowmLx-2FVhwlHXbL5m6csiptGuneRwktW27c6ZwIBsjV67BZcfkOlPppVavmb9GVjXF4V-2FTqNpVfM6CpSJhP74oQDYwkgwnGGPBtbBGd4aBPBRwbqyyU5vstq7relWtSqh6tdktzaob5NrpIXJSJFucIvSDuYI3JnrKDcSOPqnQ5BgQinPrMPBycGyHfV3n0091T-2BbMkvROHllG5d4d-2BUE-2FFEkfYot2AK2pk-2FBoM0hPYraUogkpUyTyItyyeGByy7xdYG9oLohe0lnf-2Fl-2Bzvefk5L-2B0h6Q3bkxzn03Jmn-2Fy5jNHRMFnl-2FQRIqoZQX8ZyQdJRfX4RgEsGbXE2fEekobYt50fZZOKZW4zFqtYGHHok89YyxExnkgwTLXIGT-2BDs-2FzmkI-2FEKIG4-3D).
+So, will these platform companies get away with this altruism smokescreen? Not really, thinks billionaire investor Jim Chanos. He is shorting the stocks of companies reliant on gig workers, arguing the crisis will change social and political attitudes towards these businesses.
+|
+“I know there’s a body of thought that oh, well everybody will just do food delivery and we’ll all take Ubers and no one is going to buy a car again, and I think the flip side of it is that the labor pool issue for the gig economy companies is going to loom very very large coming out of this crisis.”
+|
+Chanos says gig economy companies like Uber will emerge ‘harmed’ from coronavirus crisis, [CNBC](https://link.the-ken.com/ls/click?upn=sy6ExvMQ-2BqIqW2Qsf-2FVG5oq58DL9ZWukz2ZiZVJFf2DwXex0hxbi18FJyfn1KtHkbTishpOgNQHW9OS-2BPa5Q3kg0A-2B0gXKAtQfDVq6A5Ze8cYY-2BAEl9-2BYSu4OQ-2Bb-2FWCahpOEgy5VI89zo4nh2lU-2FdeAWXX9N6fS59zPb3YR1BUA-3DaMfc_dmDs81p1OM5gBGYvHfsMFvgp9PcMB6iZkwowmLx-2FVhwlHXbL5m6csiptGuneRwktW27c6ZwIBsjV67BZcfkOlPppVavmb9GVjXF4V-2FTqNpVfM6CpSJhP74oQDYwkgwnGGPBtbBGd4aBPBRwbqyyU5vstq7relWtSqh6tdktzaob5NrpIXJSJFucIvSDuYI3JnrKDcSOPqnQ5BgQinPrMPKCo42JiyZpKJ2xHIgJYEOZnPlQcUztshcg6RgDIUtnXm2WBD0jnstpaLgtdLn7ups9X5syFkZAYK6zlvBie8AVV0F1kjmBTR7Go5w9giguyR1-2FQRvXZko0ZRUSz2vpGS-2BFKOJpdFTzJpkAaGNpHLoUtpWBLOzqzDj4qsDOO10ymQqAnoWim0MZFzAdbZncU5dR7Qiuquelfd0dBi8CWvLA-3D).
+|
+|
+|
+Fundamental, structural shifts are hard to make, though
+|
+Bees need to travel to work
+Varun Bhagat (Reader contributor)
+Agriculturalists have warned the coronavirus pandemic will hit food production...by limiting the movement of bees.
+Travel curbs mean bees can’t travel to the site of pollination, thus affecting crops and the livelihood of beekeepers, who depend on bees for their output.
+Countries are behind scheduled production like never before—China, the world’s top honey producer, making about [500,000 tonnes](https://link.the-ken.com/ls/click?upn=sy6ExvMQ-2BqIqW2Qsf-2FVG5sMcrohDGvPs5pe9h2jOU-2BLiNb9UEkmwSDO4M7lcKk-2Ft-2FSAIpZN3x-2FwD5CNGob3G2Gh3vNaeo7fALDqgY1KLk-2BB-2BGH4o8-2FzE80ts4uaCiMbVszebCxuaXIAG-2FazwbyywAE1-2FF827cth0WCqujfrC1mg3fC6jWs2fm6T-2B4bx7SELZotfhsUQkc6oVqnm94NhIpg-3D-3DTJg__dmDs81p1OM5gBGYvHfsMFvgp9PcMB6iZkwowmLx-2FVhwlHXbL5m6csiptGuneRwktW27c6ZwIBsjV67BZcfkOlPppVavmb9GVjXF4V-2FTqNpVfM6CpSJhP74oQDYwkgwnGGPBtbBGd4aBPBRwbqyyU5vstq7relWtSqh6tdktzaob5NrpIXJSJFucIvSDuYI3JnrKDcSOPqnQ5BgQinPrMPBmVXXTziqvVIS4tlBg0jxr1y59yI6ruhxDut7j74MqGVSQo62-2Fm7F4YvwNqPl1qOBTipZBabGDZj9zQ4g0eCUbqQhjBqcGlJwhEcOSOX9PoRvjUTMLF7-2BXGNKZkP6Rc-2BE-2Fq8mKge7-2FQBaztw0yobmz2Xmri2cmCUbrdEOhr3Iwnvadq5O-2FSF-2Fdu3nkbZ-2F5Y03MtxWJX0R74y-2BcPvgvYRdU-3D) of honey annually—is bracing for a grim start. The US depends on bees to pollinate [$15 billion](https://link.the-ken.com/ls/click?upn=sy6ExvMQ-2BqIqW2Qsf-2FVG5jEGYLACIYpFbe3NwDonWN5uupY-2BP8yCLGP9h4O-2BDPBbGGALYTapnijtPZJ-2FnukR7-2FSenk9VRuCBy7RglWxB9bc-3DKw9n_dmDs81p1OM5gBGYvHfsMFvgp9PcMB6iZkwowmLx-2FVhwlHXbL5m6csiptGuneRwktW27c6ZwIBsjV67BZcfkOlPppVavmb9GVjXF4V-2FTqNpVfM6CpSJhP74oQDYwkgwnGGPBtbBGd4aBPBRwbqyyU5vstq7relWtSqh6tdktzaob5NrpIXJSJFucIvSDuYI3JnrKDcSOPqnQ5BgQinPrMPC47IhpFFT3XyA-2FZVIMGRGSAu0NiQ32HMMHrgl2yUnT-2FIBC0KVR8wn8oqYdoBsocMinChDqjYVfQl-2Fhh5qpRqCqcf-2BJFBTE7os9TcaIPVh0b-2BXy9qOx03tSB-2Byok16uCP-2FQcAw28Evtsg-2BWjx-2FA5eSHKUboikM3xEQuK2wOYqxnXJxwWGWHliddmPF6JtjzTHhCQ-2Btnv6YSFUZQ7loXfxVM-3D) worth of crops every year.
+There are problems aplenty in India too. A beekeeper from Punjab says his workers cannot travel to move the hives and feed them during the lockdown. His business depends on pollination of apples, lychees, walnuts, and exporting honey to the US.
+At this challenging time, an Israeli agritech startup, [Edete](https://link.the-ken.com/ls/click?upn=sy6ExvMQ-2BqIqW2Qsf-2FVG5qnAo00mtplOoFbQtb1dyfLCmJ6T0OH0bHsz7yjOgJ-2BLzhWYGs60uhBUumK-2F-2F2Ey-2BPCPxtzQ9opO-2FPJqThi-2BTUZEYUefkvb9EbPN1amkeatD7akn5R-2BoKuH64aXRKBSCtI9upmSUg9rFhNBK0vdHcK-2BeivgeBPCaiW0OfbAT7kwU-Bvm_dmDs81p1OM5gBGYvHfsMFvgp9PcMB6iZkwowmLx-2FVhwlHXbL5m6csiptGuneRwktW27c6ZwIBsjV67BZcfkOlPppVavmb9GVjXF4V-2FTqNpVfM6CpSJhP74oQDYwkgwnGGPBtbBGd4aBPBRwbqyyU5vstq7relWtSqh6tdktzaob5NrpIXJSJFucIvSDuYI3JnrKDcSOPqnQ5BgQinPrMPPHlh8BtAHdAXdArjUfrSASNENjsMt7vO8aX-2BhOsxRmT2WPtItIpgYQs-2Fx-2Bdbz8xYrR-2Bej1rAHdsOY-2F9-2BrPMeOcCt2HiC00sDLGiF0AL1Js8w6o2K5N0uIlcdHg36vGoBSDKynczwMt6EjbGI54upKsVJ4jI784rGD9KC9hAZu5k93VARBNjmtU3JakniyYm-2F090PjH-2BxEnqQjJwMEvvfyE-3D), has built new artificial pollination robots, which are trying to help the bees out. The company’s equipment uses Light Detection and Ranging (Lidar) technology to position itself next to each tree and then sprays the pollen as close as possible to the branches. It can work without any bees at all, though Eylam Ran, Edete’s co-founder and CEO, says that it works better with their help. “You just don’t have to have as many bees,” he explains.
+|
+Material world
+The single-use plastic bag is back thanks to Covid. People are afraid to reuse bags, incase they accidentally contract the virus from it. In fact, New Hampshire in the US became the first state to temporarily ban reusable bags.
+Turns out, the ban is based more on panic than science. There is no evidence yet to suggest that the virus lives longer on reusable cloth bags. Still, concerns around Covid’s virulence are cause enough for caution.
+Panic is nothing a little disaster capitalism can’t solve.
+|
+“Using this moment where everything is in chaos and people are legitimately concerned about public health to turn back the clock to go back to a world where plastic is the norm, rather than right now where reusables are becoming the norm in many places.”
+|
+Plastic bags are making a comeback because of COVID-19, [The Verge](https://link.the-ken.com/ls/click?upn=sy6ExvMQ-2BqIqW2Qsf-2FVG5vG42AcCUrn-2FP0miqj5xA2V0JsJBLCTZ-2BMDK0Kx8mCNufMxo5MXMr2K5wXTIiiwa7mHcgHSB3edeXv00xi1aauTmEWnEjCWV85AI9IpNdw6-2BN7-2F2GJx7c6ELYAS55B1M-2Bw-3D-3DU9gv_dmDs81p1OM5gBGYvHfsMFvgp9PcMB6iZkwowmLx-2FVhwlHXbL5m6csiptGuneRwktW27c6ZwIBsjV67BZcfkOlPppVavmb9GVjXF4V-2FTqNpVfM6CpSJhP74oQDYwkgwnGGPBtbBGd4aBPBRwbqyyU5vstq7relWtSqh6tdktzaob5NrpIXJSJFucIvSDuYI3JnrKDcSOPqnQ5BgQinPrMPMOO5M13l8UdwFcMs-2FRDU-2FxDq79zRtfK0XdDXbvI1PPeHwRCiJGw6JHSafln011PAscBO5iVLG8dgQuRLVggmVCc-2FtOVSNNHmdAEEzny-2BDnOY9-2FQZ7DacwNPD-2Fn4szZUdlejz-2BWbXimQCh3eJEz8krvchjdwOwbGHIWzxTInLtrIjw7eBhyPDLsBzG9T3DIHzP9tOvVvtD3e3Kiku-2FBIpSs-3D)
+|
+|
+|
+That’s a wrap for today. Do write in with your thoughts and observations on how this pandemic is reshaping businesses, societies and economies. We will be back tomorrow.
+Stay safe.
+|
+|
+Liked this edition? Share it with others
+|
+Beyond The First Order is a daily newsletter on the far-reaching consequences of the Covid-19 pandemic. This newsletter is published by [The Ken](https://link.the-ken.com/ls/click?upn=sy6ExvMQ-2BqIqW2Qsf-2FVG5uqSQ8iTVDY7b7k28c43RkIzKbrWeXCdSuX3Rw9On2CiNqCtjU3TTlU-2BkfX-2Bg1d9n8Agc3fGawfBwSfjdYt0rcJmdl028MziR098DrC6faY01fhU_dmDs81p1OM5gBGYvHfsMFvgp9PcMB6iZkwowmLx-2FVhwlHXbL5m6csiptGuneRwktW27c6ZwIBsjV67BZcfkOlPppVavmb9GVjXF4V-2FTqNpVfM6CpSJhP74oQDYwkgwnGGPBtbBGd4aBPBRwbqyyU5vstq7relWtSqh6tdktzaob5NrpIXJSJFucIvSDuYI3JnrKDcSOPqnQ5BgQinPrMPPS9XCu7q2HJ3hM5ligm3AxaoKTKtGHAJSpMytSZPLsPROw9ZGXhhmSDjp0kO7pfw0jMfWtSCPhUGsC4P1-2Bbt6ZabALq7Xm4go7whHx5gZEF303jXgSLrEEp0a95NXNs1UzkiHomK-2BDrQEPbLZ9z7ASoRLbjTRM0u6zwVuvmKgW2EnSQSGfnjeHOmgewbbe-2FRTHouN19HANyHBQD0i5pVYE-3D)—a digital, subscription-driven publication focussing on technology, business, science and healthcare
+Know someone who should read this newsletter?
+Haven't subscribed to Beyond The First Order yet?
+|
+Want to unsubscribe from our daily newsletter, Beyond The First Order? Click [here](https://link.the-ken.com/asm/unsubscribe/?user_id=2349339&data=yOOqY7qoQEjYJ6qzE4bB0vCLyfwaiDUV8x3GfMuXc-Z6PjUeWg0ut398WdqAYeNnjEtm_JovpVzvTm-U3o1E1rWJG3F1PAs1FUl4GwUM00xN0yZYsqaGm0bnA9Jn6NcmxiEbwV9UUovwLueYV2sFDnLCCQlYus_-fkX0Kow26XIERvu0Owbsw8ANMslWLexNzCnz-wwpddTG8NhT2kOyvGB-PKtKbPY_P5WStOrA_cj83J5HDpywmZ2V5vnl28O-rpCF_v__Z25_zG_llJ-FiDjfwyfwi6Ext2zeukuCKtZeLm1zKBL8p1KVnFyu8AH499WW3lcQYlJVGOhSmPyA2SJu4jxQ3eNofxS2RCswU9DoJJMP0eEMv9vyp_orjnjOq4s9Stq6h_PN92mSYXizolEuqu6LW7v-KUQre7v67cOLjDfVZKewLCIEcsXc6BL8cAwydEJBMORWA-pe6leupwhghy-F7ibUhbKTRYPnSw7rsxuM4rSxjdOlAaThM7AwthRdiW3IBZ4hEo4ycFo8dENH8vgSx5LogprHxE9C7oI=). Or set your email preferences [here](https://link.the-ken.com/asm/?user_id=2349339&data=MwUZku8Hs5je3FY11pjCIu5FWuUoT7kRjZP3_TfG__T6BgW1qcqdEB9e4wzFvHRKICuDPXJjAGFvuGkODSOuRN0i_uEcIjUBMu8YVhkumNfQ3lo82FO_eQdCPk3GwFcs1ZpSQqmWnWivqlSQGNxa1n3Tgkf71dm7MOdTWgHxUORpVPA3ZJnGhHWDYTB2tE2d4qSWP72bP-UsaDt9QGB_-RQ3uca7dLX5HwXUTOc7BCLkg9th3UuDj2vbYTTtPrt4ZflssNpc6UTf6ecwoWofuBvVbrLXK37ljlQ3Yqo7WZNY30YriDqlpqArYipPr97exKdVsWx0viS5LZaBt88-Nxfd1VC3rP-nVUUB5rwroda-1-8gMnDs1A3ktqDVOexyR_Uh26KlW2tRL3Zd2YVO3Ey_9oWqeixY8It8BQE-AcKnyq96Q-WmH4yjpLrbM0u_9oUSnku7nCsbwDxSC-jwGyDzLNVaeeF-oIXB-M5A75IVLO0EZHwk7lS5a9s2w7zV7-JwyncPqkSegPMBn1XaKw==)
+© 2020 The Ken
+|
+|
+|
+|
+|

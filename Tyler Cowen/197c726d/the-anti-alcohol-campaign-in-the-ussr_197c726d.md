@@ -1,0 +1,10 @@
+---
+subject: "The anti-alcohol campaign in the USSR"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2025-07-01 18:01:38
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+Although alcohol consumption remains high in many countries, causal evidence on its effects at the societal level is limited because sustained, society-wide reductions in alcohol consumption rarely occur. We take advantage of a country-wide 1985-1990 anti-alcohol campaign in the Soviet Union that resulted in immediate, substantial and sustained reductions in alcohol consumption. We exploit regional differences in precampaign alcohol related mortality in the Russian republic and show immediate declines in male and female adult mortality in urban and rural areas across the entire age distribution, which translate into a rise in life expectancy. The campaign led to a substantial decline in deaths that are both directly (alcohol poisoning, homicides and suicides) and indirectly linked to alcohol consumption (respiratory and infectious). We find a decline in infant mortality rates among boys and girls due to causes most affected by post-natal parental behavior (choking and respiratory). Finally, both divorce and fertility rates rose, while abortions and maternal mortality due to abortions declined. This study provides novel evidence that alcohol consumption not only directly affects the mortality of drinkers but can have spillover effects on family outcomes.
+That is from [a recent paper by Elizabeth Brainerd and Olga Malkova](http://marginalrevolution.com?action=user_content_redirect&uuid=137f0590f8a862f1c26cc214f393a7a0e66d8bd466384a44fba59007d3e08e8b&blog_id=42693868&post_id=91001&user_id=262258391&subs_id=225460721&signature=333472e5561e2e6c1d0ef544e6cec837&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly9wYXBlcnMuc3Nybi5jb20vc29sMy9wYXBlcnMuY2ZtP2Fic3RyYWN0X2lkPTQ2MDI5OTM&email_id=a2cfc4fe37b8f0d5cc0f21dd1690fd1c).

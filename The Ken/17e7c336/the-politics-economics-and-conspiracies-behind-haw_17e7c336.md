@@ -1,0 +1,54 @@
+---
+subject: "The politics, economics, and conspiracies behind Hawk-Eye and cricket broadcasting"
+from: "Moneyball by The Ken <info@the-ken.com>"
+to: ""
+date: 2022-01-21 10:34:09
+labels: ["CATEGORY_PERSONAL", "INBOX", "The Ken", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_8244464457792971031", "UNREAD"]
+---
+|
+A weekly newsletter that often deconstructs but always explains the business of sport from India
+|
+Good Evening Ishan,
+It’s been a hell of a week for Indian cricket. Last Friday, India lost the third and final Test against South Africa in Cape Town by seven wickets, thereby conceding the series 1-2. Conquering the final frontier—South Africa is the only country where India haven’t won a Test series yet—will have to wait for a few more years. And then, the very next day, Virat Kohli stepped down as India’s Test captain.
+It’s hard to believe that just over two months ago, Kohli was leading India in all three formats of the game. Today, he’s not the captain in any of them.
+But before his surprise decision to give up the Test captaincy, Kohli found himself at the forefront of a big controversy in Cape Town.
+|
+|
+|
+The politics, economics, and conspiracies behind Hawk-Eye and cricket broadcasting
+It was the final session of the third day of the Cape Town Test. South Africa were at 60/1, chasing 212 to win the match and the series. Indian off-spinner Ravichandran Ashwin was bowling the 21st over of the innings.
+On the fourth ball, Ashwin came in from around the stumps to the left-handed Dean Elgar. The ball hit Elgar’s pads in front of the middle stump and well below the knee roll. It looked plumb, and umpire Marais Erasmus concurred as he raised his finger to signal the wicket. However, the batter asked for a review and the Decision Review System (DRS) had to step in. But the Indians looked confident.
+DRS confirmed that there was no bat involved, so it was only a matter of tracking the path of the ball to see if it would have indeed hit the stumps.
+To everyone’s astonishment, the ball-tracking technology showed that the ball would have gone over the stumps. Umpire Erasmus was heard on the stump mic saying, “That’s impossible,” as he was forced to overturn his decision. The Indians were incensed.
+|
+|
+|
+[Source: Hotstar screengrab]
+At the end of the over, Kohli, still clearly furious, went over to one of the stump mics and [said](https://www.hotstar.com/in/sports/cricket/india-tour-of-south-africa-202122/south-africa-vs-india-m704528/match-clips/kohli-rages-into-stump-mic-over-drs/1260079085), “Focus on your team as well eh, not just the opposition. Trying to catch people all the time.” KL Rahul chipped in, saying, “The whole country against 11 guys.” Ashwin added, “You can surely find better ways to win, SuperSport.”
+Kohli was also later heard saying, “Don’t hit them on the pads, boys. Either stumps or caught behind, that’s it. Real experts sitting in the DRS column, boys… Different ball been shown for tracking, lads.”
+What Kohli was insinuating was that the host broadcaster, SuperSport, was rigging the ball-tracking technology in favour of South Africa. It was a pretty serious claim, with no proof backing it.
+|
+Is tampering with Hawk-Eye possible?
+Subscribe to this newsletter to find out!
+|
+7 more newsletters+250 stories every year+Visual Stories. Only for:
+₹3245 or ₹270/mo
+Billed annually
+|
+Questions? Get answers [here](https://the-ken.com/faq/)
+|
+A weekly newsletter that often deconstructs but always explains the business of sport from India
+Know someone who would like Moneyball?
+Want to receive Moneyball every week?
+|
+|
+Moneyball is published by The Ken—a digital, subscription-driven publication focussing on technology, business, science and healthcare.
+|
+Want to unsubscribe from our weekly newsletter, Moneyball? Click [here](https://link.the-ken.com/asm/unsubscribe/?user_id=2349339&data=5-SJ67bg0Yo1_50frzTZkuAg4_8bGV1Pv5WoV4BwBt8aOistIuEIW7CDK8Tp13qP-SMDVZi7HzNsKn5RoWLdMVP4x_38Tte9l2uGcXnAOl1Rbrun5OoEiEkkXNzfTcuVb0TXRnX2VT7QrnDWmsv56Fu8A2lJ3AzmCSvrvgc7Hf9OCZbHJEri_9MB1MZg8stuHKG1t80DqY5S8OjPmOgrQsyqImtO8g4L8v25aJOOp1HvO_8ufGaEnT_ILfjiDwgF8zTWozq3Q3vMfBJyYCd-GZiuXT2Dll1tR759mgPOEFlARdIaaKTDeOmkgTHDIAnIDY-12XnpOCHkiywOcR3aL4svXUGdLf5c6YN93MGmIWY80R9eUw2z58xzjVdICYa9OLnA80zC1mgRXdNNVXj6qAh0fBsi8hREK3Og40ziG19W0gGzbDKjOz_dSuJfWxYpcc7wOzGszAuq3K4-yt088VsIKqUQFtozLodyjhCtkHGlVk4J-uOpy9lrkNbOp2rsqiBJiJesaGrPD9YQj_ENYUwnunjmfG_kIanwQH2WVLQ=). Or set your email preferences [here](https://the-ken.com/newsletters/?utm_source=usb_ftr&utm_medium=email&utm_campaign=kaching)
+© 2021 The Ken
+|
+|
+|
+|
+|

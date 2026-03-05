@@ -1,0 +1,10 @@
+---
+subject: "The Kalahari Desert Edition"
+from: "\"Why is this interesting?\" <whyisthisinteresting@substack.com>"
+to: ""
+date: 2023-07-28 08:05:01
+labels: ["CATEGORY_PERSONAL", "INBOX", "UNREAD", "WITI"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "UNREAD", "Label_5752899537867939131"]
+---
+Colin here. I was in the Kalahari desert in South Africa this week. Due to the vastness of the reserve, the guides relied heavily on tracking. It was a really nuanced art to observe: the identification of subtle animal prints, disruptions to brush, or other tells from various animals and then blending that with an understanding of movement patterns. It was interesting to observe a craft that takes guides a long time to learn. The It was meaningful to experience such an intense and unforgiving terrain. Life is not easy there. The animals, particularly the desert lions, were different than others I’ve seen with black manes that made the huge creatures look even more menacing. I saw the aftermath of several kills, and observed the hierarchies between lions and which animal is allowed to eat when. I saw the ticking clock that happens after a kill, where other animals come to scavenge and also the need for animals to frantically eat the organs first to top-up on vital nutrients. And how the cycle of stalk, kill, process, rest and hunt again needs to happen again quickly. The Kalahari ecosystem is so incredibly interdependent: even animals like the comical looking Meerkat removes insects and parasites from the area, which if left unchecked, tear through trees and other plant life, eliminating a vital feeding source for other animals. Also, the aesthetic of the place, with its vibrant red dirt and brutally dry air was something incredible to experience. Why is this interesting? A few phone snaps to capture 1/10th of the vibe. WITI Classifieds: We are experimenting with running some weekly classifieds in WITI. If you’re interested in running an ad, Another generative AI report? Take it from our insights & strategy friends at R/GA, Landor & Fitch, & EY—we promise this one’s a good read. — Thanks for reading, Noah (NRB) & Colin (CJN) —
+|

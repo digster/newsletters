@@ -1,0 +1,45 @@
+---
+subject: "Inciting Incident: Storytelling for a worthy cause"
+from: "The Ken <info@the-ken.com>"
+to: ""
+date: 2025-01-03 10:49:17
+labels: ["CATEGORY_PERSONAL", "INBOX", "The Ken", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_8244464457792971031", "UNREAD"]
+---
+|
+|
+Inciting Incident
+Fri, 03 Jan 25
+Inciting Incident is our weekly newsletter about the most powerful tool of our age—stories. Stories told by businesses, leaders, governments..
+Good Evening Ishan,
+Happy New Year!
+Today’s is the last holiday themed edition of Inciting Incident̛—the last part of the trilogy we’ve been running these past three weeks. If you haven’t guessed it already, the theme for our first edition of the new year is hope.
+Three key roles that great stories perform are: [transporting us away](https://the-ken.com/incitingincident/what-kidults-tell-us-about-human-attitudes-towards-reality/) from the predictable worlds we live in; making the audience [believe in magic](https://the-ken.com/incitingincident/all-of-us-need-magic/); and perhaps most importantly, giving them hope for a brighter future.
+So all I am going to do in this edition is answer one question that a professional who consults with not-for-profits to improve their fundraising strategies asked me recently: how will learning compelling storytelling make his job easier?
+What he was really talking about was the rather long list of reasons that make it difficult for large donors and individuals to donate to not-for-profits. The fundamental problem he had identified, he told me, was a lack of trust. This is not new; even as early as nine years ago, The Guardian had recognised it as one of the [biggest reasons](https://www.theguardian.com/global-development-professionals-network/2015/nov/09/five-reasons-donors-give-for-not-funding-local-ngos-directly) why grassroot-level not-for-profits in developing countries were having trouble raising funds.
+Only about 1% of all official aid, and an even smaller portion of humanitarian assistance, goes directly to the global south. Unpublished research into private foundations suggests that they, too, channel the majority of their funding through what I call “fundermediaries” in the global north. While more resources do find their way eventually to southern actors, this “trickle down” approach creates inefficiencies and undermines agency.
+The article covers five specific reasons for this scenario, four of which are administrative, process-based, and political. One reason, however, is directly linked to the need for a high-trust relationship between the donor and the not-for-profit.
+We need to channel money through a few, trusted partners so that we can manage risk and comply with our own rules.
+The same year that this article was published, Al Jazeera asked a different question on the same subject: [Does charity have an ‘image problem’?](https://www.aljazeera.com/features/2015/2/7/does-charity-have-an-image-problem)
+Fundraising appeals are often criticised for using negative stereotypes, but NGOs say other tactics often don’t work. This piece argues that charities have stuck to similar messaging for over 30 years or so.
+If you were given a “then or now” quiz in which you had to guess whether a given charity appeal was made today or 30 years ago, it could prove to be quite difficult. The images of emaciated children staring at the ground, as poignant music plays in the background, have not changed – nor have inducements to give “just $3 a month”.
+And this was an approach that drew backlash from commentators in developing countries for its lack of nuance—for its portrayal of those receiving these donations as passive and helpless, and evoking only one emotion in their audiences: guilt.
+For their part, not-for-profits have acknowledged that this messaging works only in the short-term because it doesn’t educate the audience about the many layers involved in each issue.
+The result of such simplistic narratives is that audiences remain unaware of systemic challenges, and trust takes a beating. A point that features in a more recent article by India Development Review, which [noted](https://idronline.org/what-are-the-main-fundraising-challenges-plaguing-indian-nonprofits/) that correct and more nuanced communication was the answer to building trustworthy relationships.
+Annual reports and “beneficiary updates, letters, and interactions” top the list of activities to build relationships with donors (with 64 percent and 62 percent of respondents deploying these methods, respectively). Nonprofits said that they employ many other useful strategies as well, which help deepen their relationship with donors over time. These include texting donors (31 percent), impact reports (33 percent), social media (39 percent), and face-to-face meetings (32 percent).
+However, almost half of all respondents in the IDR survey said they did not know how to attract new donors, especially when it came to ‘retail’ fundraising from everyday givers. Most non-profits needed help with crowdfunding campaigns and email appeals. Some even asked for training in making presentations to CSR teams, organising events and benefits, and being more effective at making face-to-face funding requests. And they believed all these communication methods needed to click if they were to cross the rather high [trust barrier](https://www.aljazeera.com/opinions/2021/3/12/for-love-charity-washing-colonialism-fascism-and-genocide) in this space.
+Perhaps most importantly, IDR also [identified](https://idronline.org/article/leadership-talent/why-are-grassroots-nonprofits-not-able-to-scale-easily/) ‘lack of vision’ as a major barrier for grassroots non-profits.
+Today, many social service organisations lack a long-term vision and clear mission, which hinders their growth and development. Bringing a lasting change in society is a lengthy process. However, often nonprofits have to prioritise working with communities on emerging social challenges, while future plans for their own growth get sidelined.
+Not all is gloom, though, because there are quite a few examples of non-profits overcoming these challenges to create compelling stories and build trustworthy relationships with donors. I will share three of these here.
+First, there’s the [story](https://charitydigital.org.uk/topics/nine-of-the-most-iconic-fundraisers-of-all-time-11515) of Stephen Sutton, who leaned into his own vulnerability to share an inspiring story after he was diagnosed with cancer at the age of 15. Sutton made a bucket list of his dreams that he could fulfill in the short time he had left.
+Stephen believed that life shouldn’t be measured in terms of time but rather in terms of the difference you could make. The top of his bucket list was to raise £10,000 for Teenage Cancer Trust as they had supported him throughout his cancer experience. He soon had to increase his fundraising target when his story went viral after he posted what he thought would be his last ‘thumbs up’ photo from his hospital bed. Soon everyone was posting their own ‘thumbs up for Stephen’ selfies and donating to the charity.
+The Teenage Cancer Trust and Stephen went on to raise GBP 3.2 million by the time of his death in May 2014.
+Second, we have The Truth Initiative, a non-profit whose goal is to end teen smoking, which created a video series showing how social smoking can also be damaging. The series portrayed relatable characters, situations, and was quite effectively promoted on social media, getting more than [4 million](https://www.canva.com/learn/20-ad-campaigns-all-nonprofits-should-see/) views in one day.
+And finally, some of the most compelling fundraising campaigns by not-for-profits have made their stories more impactful by meeting the audience where they are, and subtly persuading them to make a small difference.
+In the US, for instance, point-of-sale donations in 2022 helped charities raise [US$749 million](https://www.npr.org/2024/03/10/1236458377/charity-roundup-donations-stores-fundraising), a 24% jump from 2020.
+We’ve all been there: A store cashier asks if you’d like to donate money to the local food bank. Or the PIN pad at the checkout counter prompts you to round up your payment for charity — spare a little change for a worthy cause. Those “round-up” campaigns have become ubiquitous in recent years — at grocery chains, gas stations, retail stores and online merchants — and they rake in millions of dollars annually for everything from scholarships to cancer research.
+That’s a wrap for today. Have a wonderful 2025!
+And as always, please let me know what you think about this [newsletter](https://the-ken.com/inciting-incident/) by writing to me at inciting-incident@the-ken.com. I’ll be back in your inbox at 4 pm India time next Friday with more stories decoding the world of storytelling.
+Yours,
+Ruhi
+P.S: If you want to enrol your team in a Storytelling Workshop conducted by The Ken Learning in the second quarter of 2025, apply [here](https://the-ken.com/learning/case-study/the-art-of-emotion-in-the-age-of-ai/). We are already fully booked for January—March 2025.

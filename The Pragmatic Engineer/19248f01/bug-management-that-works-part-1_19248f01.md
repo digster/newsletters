@@ -1,0 +1,116 @@
+---
+subject: "Bug management that works (Part 1)"
+from: "The Pragmatic Engineer <pragmaticengineer+deepdives@substack.com>"
+to: ""
+date: 2024-10-01 16:34:54
+labels: ["CATEGORY_PERSONAL", "INBOX", "The Pragmatic Engineer", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_6413324878686416177", "UNREAD"]
+---
+👋 Hi, this is Gergely with a subscriber-only issue of the Pragmatic Engineer Newsletter. In every issue, I cover challenges at Big Tech and startups through the lens of engineering managers and senior engineers. If you’ve been forwarded this email, you can
+|
+Before we start: [The Pragmatic Engineer Podcast](https://substack.com/redirect/b227c102-d71b-4e5e-9dfa-24ec28e48f6f?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) started off last week, with episode #1: [AI tools for software engineers, but without the hype](https://substack.com/redirect/b539ca56-0cd1-4c34-927d-5bfc09476463?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o). New episodes come every other Wednesday. Thank you to everyone who listened to this first one. If you enjoy podcasts, please do add it on [Apple](https://substack.com/redirect/4367dcd5-d52b-4dad-96e5-b2b3703c0070?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o), [Spotify](https://substack.com/redirect/7a5ba56e-d6a6-48a4-b10b-093ec2927338?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o), [YouTube](https://substack.com/redirect/5b757064-cd27-49b7-bee2-1891c901394b?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) or your in your favorite player – and you will have episodes automatically show up, while also helping the show.
+How do you deal with bugs in software products you build? This topic seems very under-discussed, but it affects pretty much every software team. To find out what professionals think, with we reached out to two dozen engineering leaders and software engineers, who kindly shared approaches which work for their team and organization.
+This topic is evergreen, and one that has outsized (potentially decisive!) impact on product quality and user experience.
+In this issue, we cover:
+Finding bugs. Dogfood products where possible, invest in test automation, stay close to users, and more.
+Reporting bugs. Making it easy for users to report bugs, having an accessible engineering team, and scaling the reporting process by team or company size.
+Bug triaging. Figure out which bugs are critical by using bug priority rubrics, consider priority definitions, and get inspired by Spotify’s bug prioritization framework.
+Don’t manage bugs: fix them! See bug fixing as like gardening, not maintenance. Consider approaches like deleting all amassed bugs, and regularly pruning the backlog.
+Zero bugs policy. An approach where all inbound bugs are either fixed on the spot: or the bug is deemed invalid. A subset of this approach is to fix all bugs for recently released features – which is what Figma does.
+As a refresher, we have a few previous deepdives that are related to this topic:
+Thank you to everyone who contributed insights to this article: [Ahmed Saher](https://substack.com/redirect/2324b480-417e-4767-b550-b726120a99cf?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) (engineering manager), [Anaïs van Asselt](https://substack.com/redirect/ca674bc5-4d2b-4ea6-ba2e-9980e2a5130e?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) (senior QA engineer), [Andrea Sipos](https://substack.com/redirect/12668e74-72a7-4cea-b59f-a71865bd5a41?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) (product leader), [Bernd Kampl](https://substack.com/redirect/1bcc5286-67b9-41ce-b56b-552cfdc3fe4a?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) (Software Engineering Team Lead), [Jason Diller](https://substack.com/redirect/b96d357e-5a58-497f-90e8-790d8eafe50b?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) (VP of Engineering), [John Cutler](https://substack.com/redirect/891b973d-dd73-4ffa-860b-aba3c9154a0a?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) (product leader), [Magnus L. Udbjørg](https://substack.com/redirect/a44fb8d7-940e-48f7-ae8f-87e661f36b7a?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) (CTO), [Michał Borek](https://substack.com/redirect/6032a8e8-d519-4bde-8039-fc56f436b602?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) (Principal Engineer), [Rebecca Frost](https://substack.com/redirect/76a436f6-aafd-44ea-87ee-7d4ac79618eb?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) (QA leader), [Rebecca Holm Ring](https://substack.com/redirect/afd8fc67-6960-4d31-a972-7030c30ee422?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) (engineering leader), [Ruben Weijers](https://substack.com/redirect/4d733bbb-a06f-4fa9-8456-d450d9f8eb4a?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) (engineering manager), [Ryan Hanni](https://substack.com/redirect/1a07abd6-a5ea-4de6-afb5-262ec6b17c60?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) (Director of Engineering), [Serdar Biyik](https://substack.com/redirect/634de537-8692-4d08-b6a3-ee9ffb1a6746?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) (engineering manager), [Walter de Bruijn](https://substack.com/redirect/c8298f05-a8ce-465f-9fe5-df755709a590?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) (Head of Engineering Productivity)
+How can we be confident that the software we release has no known issues? We need to validate that it works correctly and there are common approaches for this.
+Dogfood products. The term “dogfooding” is the name of the common practice of devs and employees using a product while they are building it, pre-release. For example, when I worked at Uber, the company issued free credits for staff to use the internal beta app for rides and food deliveries. At Skype, we used running internal beta versions of Skype for all internal chat and video calling. The business gave Skype credits to employees, so we could dogfood paid features like landline calls. Spotify does the same, as Rebecca Holm Ring, a former engineering manager there, shares:
+“Each employee at Spotify is expected to be on the master or release internal Spotify release, and report any issues they experience. A problem here though is that most Spotify employees will be iOS users, and so the Android app doesn’t get nearly enough testing before rolling out.”
+Invest in test automation. Anaïs van Asselt – senior QA at Choco – shares their approach:
+“Proactively finding and fixing bugs before they reach production is crucial. We invest in various test automation techniques to act as quality gates. Additionally, we practice bug hunting and gradually roll out new features to a limited user base, allowing us to catch and fix bugs early, reducing their overall cost.”
+At smaller companies, be close to users. These places tend to be closer to users and can use this to build a relationship with users who get invested in the product and the reporting of bugs. Bernd Kampl – Software Engineering Team Lead at Anyline, a smaller cartech AI company – shares:
+“As we are still smaller, we usually find bugs when our customers report them. If that's not the case, we identify them mostly during day-to-day development work.”
+Magnus Udbjørg is CTO of Testaviva, a 50-person startup in Denmark. His take is that it’s optimal to build trust with users so they report issues:
+“To find, identify, and prevent bugs, we foster a culture of dialogue and mutual understanding. We believe our developers need to understand our users deeply, and sometimes, our users need to understand the technical constraints we face. Open communication is key to building trust.”
+A fair question is why not do lots of testing, themselves? The smaller the company and the fewer the customers, the more it feels too expensive to invest a lot in testing, early on. Of course, there are always countercases, like how Figma spent nearly 3 years iterating on the first release, in order to get the performance of their collaborative, web-based editor right, to give users a fun “wow moment.” Worth noting that Figma is a product the dev team used continuously while developing it, getting lots of testing during the building phase. [We cover Figma’s engineering culture in a deep dive](https://substack.com/redirect/cdf3ba97-53e8-420f-80b7-eff337766d4c?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o).
+Consider alpha and beta testing at larger companies. Alpha and beta testing is about giving customers access to unfinished, less stable versions of a product. “Alpha” usually refers to a latest build that has had little to no QA testing. “Beta” versions have had some testing, but not as much as a full release.
+Rebecca Holm Ring shares how this worked at Spotify:
+“There’s an Alpha testing, and Beta testing program, where external users are on the master branch and release branch respectively, and are expected to report any issues they encounter. With these versions of Spotify, it is also possible for a user to report a bug directly from the app, and logs will be attached as the bug report will be automatically added in JIRA.”
+Automation: testing and code analysis. Unit tests, integration tests, end-to-end-tests, and other automated tests, are great ways to catch regressions, which is a software bug introduced into a feature after the feature was working correctly; the feature has ‘regressed’ into a faulty state.
+This is true for static code analysis and other tools that automate quality assurance. We cover more on these methods in [Shipping to production](https://substack.com/redirect/b7f2631a-6a74-4f83-a62c-b6694cc8132f?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) and [QA approaches across the industry](https://substack.com/redirect/caf8a78d-f9c3-4604-8b37-a579cddbbb77?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o).
+Code reviews. These serve multiple purposes, offering a second pair of eyes to double check code, spread knowledge, and follow not-yet-automated conventions, and more. Catching bugs before they make it into the codebase is an occasional side effect.
+Even so, bugs can easily slip through code reviews, which are nowhere near a perfect way to defend against shipping bugs and regressions.
+Define what a bug is. Users often report “bugs” when they mean missing features, so it can be helpful for teams to agree what a bug is and how to categorize them. In general, a bug is a flaw that results in a software product behaving incorrectly. Categorizations can be granular, like splitting bugs into concurrency bugs, syntax ones, arithmetic, logical errors, human errors and so on.
+The simplest categorization is to split bugs into functional ones, when the behavior of the software is clearly wrong, and non-functional ones, when a bug is revealed in things like a system slowing down, increased latency, and other harder-to-spot issues.
+It might be helpful to devise your own categorizations, based on the type of bugs you observe, and in a way that’s helpful for your product and organization.
+Gathering bugs can be a great source of data, providing a sense of product quality for feedback to teams, the organization, or company. However, data quality depends on how good the bug reporting process is – and how likely people are to report bugs!
+Great reports and data come from simple, suitable processes. Features of useful bug reports:
+Useful metadata (e.g. version, device, system metrics)
+Relevant context (e.g. on mobile while connected to bluetooth speaker and poor connectivity, on a server in this region during lunch hour, on a debug build with these feature flags active, etc)
+Straightforward to reproduce, or have reproduction steps
+Reported by users who trust a reported bug will be fixed
+Bad reports can create extra work and poor bug reporting processes can cause people to not commit to recording issues in the first place, and a spiral is created of deteriorating product quality, with the engineering team clueless of how bad things are.
+To avoid an outcome like that, here are some processes tech companies use to support good bug reporting processes.
+Make it easy to create quality bug reports. Walter de Bruijn, Head of Engineering Productivity at Miro suggests this is critical:
+“The easier the reporting is, the more you will learn. For internally discovered bugs an internal #bugs Slack channel can go a long way.
+One of my best recommendations is that you start logging bugs properly: you can’t manage what you can’t see. You need a good, well-documented, and known process for reporting bugs and a follow-up.”
+QA leader Rebecca Frost on why quality bug reports count:
+“Capture meaningful metadata on your bugs now to help with insights later.
+Make sure your funnel for incoming bugs is helping not hurting you. If bugs are coming in from all over and the quality of the info on the bugs is a mess, consider routing bug reports through one team or group.”
+Make the reporting process accessible. If creating a bug report is too complicated, it discourages reporting. There are ways to make it accessible:
+Don’t make less technical users use unfamiliar tech jargon
+Make it easy to find version numbers and other data required for bug reports. Even better, collect it automatically
+Consider having engineers help support teams to know which questions to ask to get the right data for reports
+A example of effective engineering support is at SF-based scaleup Ontra, as shared by director of engineering, Ryan Hanni:
+“We have an Engineering Support team that sits between Product Support/Customer Success and R&D, which helps bridge the customer with R&D teams potentially further away from that context.”
+There’s no one process that works best everywhere. Here are some common approaches by company size:
+Smaller companies and startups: bug reports are usually simple, and the reporting process is lean because time is precious and knowledge is dense. Such workplaces are small enough that most tech folks can keep tabs on what’s happening, and people can submit bug reports pretty easily.
+There’s rarely a need for formal processes. Here are some efficient, less formal ones:
+Set up a #bug-reports channel on Slack/Teams or other chat product
+Use a #bugs tag in the ticket system of choice to keep track of issues
+Prefix bug fix pull requests or commits with [Bugfix]
+… and similar, simple but effective conventions that anyone can start using
+Mid-sized companies and scaleups: process matters more, and these places are big enough for it to be wasteful for everyone to keep tabs on reported bugs. There are also more bug reports, and it’s a time waster to get repeated information and metadata in bug reports.
+Bug report templates and processes also matter. Good onboarding and documentation for processes and standards for bugs can have a big impact on efficiency.
+Large companies: investing in automated processes is worthwhile due to the size and nature of the business:
+Noisy bug reporting means lots of duplicate reports
+“JIRA ping pong”: tickets created in JIRA are continually reassigned between teams and end up ‘returned to sender’
+Time wasted discussing bugs: lots of overhead on debating whether a bug is a feature request, who’s best placed to fix it, etc
+Here’s a good example of what JIRA ping pong looks like. Engineering manager Rebecca Holm Ring shares how it plays out a larger company:
+“Bugs showing up in one user-facing feature could be caused by a number of different teams that own the deeper layers of the tech stack. Still, reports would always first land on the user facing team!
+There would often be a game of ping pong, where bugs got sent back-and-forth between different teams, and sometimes found the right owners. In turn, these owners didn’t feel it was a high enough issue for them to fix. However, for the user facing team, it would often be a higher priority to get it resolved. As many different teams were involved in building the Spotify app, conflicting priorities often made bugs linger longer than they should have, and occasionally required intervention from the higher-ups to get these bugs prioritized by the owning team.”
+At larger companies, some things can help deal with an ever-growing pile of bug reports, and improve processes and tooling:
+Automation across the bug reporting process
+Automated data collection for gathering context
+Bug reporting templates for internal use
+Automatic code/team attribution for inbound reports
+Ryan Hanni, director of engineering at Ontra, shares examples of manual and mostly-automated processes he’s implemented at different stages of an org’s lifecycle:
+Manual process:
+Use a bug template in Trello, JIRA, or similar
+Notify Eng Support and copy the bug description to their slack channel
+→ Eng support aids in determining severity, and the team takes it from there
+→ Eng Director uses a Google Spreadsheet to track all bugs, and includes details like report date and links
+→ Eng Director does monthly follow ups on bugs, and adds details to the spreadsheet, like the timestamp of a fix. This spreadsheet is used for calculating stats like time-to-resolution for DORA metrics.
+Partially Automated:
+Use a bug template in Trello, JIRA, or similar.
+With a press of a button, automatically post to Slack
+→ Eng Support 'triages' the bug with the dev team in a thread
+→ For high or medium severity bugs, support copies the details to an Airtable form and submits it
+→ The form submitted uses automation to:
+Post to Slack
+Send an email to internal google groups for stakeholders and departments
+Automatically adds bug information into a Airtable columns
+→ Partially automated reporting:
+Metrics for ‘Reported at’ date and severity are automatically filled in
+Metrics are filed on a monthly basis to generate stats like DORA metrics and cycle time to fix (Time to Respond, Time to Fix, Total Time In Prod, etc).
+→ When a bug is fixed, teams reply to the automated email detailing when it will be released to customers
+Mostly Automated:
+Use a bug template in Trello, JIRA, or similar.
+→Use automation to send a message to Eng Support slack.
+→ Triage happens with the Dev Team and Eng Support
+→ Work moves through Jira columns (Kanban style), into a Done column
+→ A release to production happens and the Jira card gets an automatic “released at” date
+→ After a release to Prod, Jira sends a slack/email message with issue details to close the loop for a resolved bug of a given severity.
+→ Reporting occurs by generating reports in JIRA. Run reports with all relevant metrics to the org to get information like cycle time, time to fix, response time, etc
+→ Visuals for share outs on the bug fixing process is manually generated in Google Sheets
+You now have a process for the bug reports to flow in, so the next step is to figure out which ones are critical, which are duplicates, and which ones not to bother with. Here are some common approaches:...
+Become a paying subscriber of The Pragmatic Engineer to get access to this post and other subscriber-only content.
+| Full articles every Tuesday and Thursday | |
+| Access to resources and templates for engineering managers and engineers | |
+| Access to the complete archive, see all comments and comment on articles |

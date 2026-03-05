@@ -1,0 +1,31 @@
+---
+subject: "Learn how to run the DeepSeek-r1 AI on your own hardware [Free 2-hour course]"
+from: "Quincy Larson <quincy@freecodecamp.org>"
+to: ""
+date: 2025-01-31 14:12:23
+labels: ["CATEGORY_PERSONAL", "IMPORTANT", "INBOX", "Quincy"]
+label_ids: ["CATEGORY_PERSONAL", "IMPORTANT", "INBOX", "Label_7697778124671848699"]
+---
+Here are this week's five freeCodeCamp resources that are worth your time:
+
+1. A few days ago a Chinese hedge fund released a surprisingly powerful Large Language Model called DeepSeek. Developers trained this model for a fraction of the cost that GPT-4o and Claude required. The model is open-weight, and you can run it offline on your own hardware. I'm thrilled to say that freeCodeCamp has already published a comprehensive course to help you get up and running with DeepSeek. My friend Andrew Brown is a CTO and AI enthusiast, and he teaches this course, which will help you learn this new tool and its capabilities. (2 hour YouTube course): https://www.freecodecamp.org/news/how-to-use-deepseek-r1/
+
+2. Learn Object Oriented Programming (OOP) with Python. OOP is a classic paradigm for writing maintainable code. You'll learn key concepts like Inheritance, Encapsulation, Abstraction, Polymorphism, and more – all with hands-on Python examples. (3 hour YouTube course): https://www.freecodecamp.org/news/master-object-oriented-programming-in-python/
+
+3. This week on the freeCodeCamp podcast, I interview Lane Wagner, a software engineer and prolific freeCodeCamp contributor. He runs a popular website for learning back end development. We talk about his thoughts on computer science degrees, his love of the Go programming language, and his freeCodeCamp course on developer careers that more than 3 million people have watched. (2 hour watch or listen in your favorite podcast app): https://www.freecodecamp.org/news/getting-a-developer-job-lane-wagner-podcast-157/
+
+4. Learn how to code your own book recommendation engine using Python. This course will teach you how to use a Large Language Model to process book titles and descriptions. It will then surface recommendations for books you might like in a dashboard. You'll learn about Data Cleaning, Vector Databases, Langchain, Zero-shot Classification, Sentiment Analysis, and more. And if your resulting project works well, you may never again need to wonder which book you should read next. (2 hour YouTube course): https://www.freecodecamp.org/news/build-a-semantic-book-recommender-using-an-llm-and-python/
+
+5. Learn how to write Clean Code. This is a popular approach to building maintainable software. And this handbook will teach you all about code readability, clean project structures, best practices for comments, testing, and more. (full length handbook): https://www.freecodecamp.org/news/the-clean-code-handbook/
+
+Since we introduced our Full Stack Developer Certification on Christmas, people have started using our curriculum 200% as heavily as before. We're making steady progress to finish the remaining coursework – including dozens more projects and cert exams. You can help us push forward even faster by supporting our charity and our mission: https://www.freecodecamp.org/donate
+
+Quote of the Week: “AI can’t save you if your code is a mess. It’s like building a house on sand. Sure, it stands for a while. But one strong gust of wind or one big wave and it collapses. Remember: AI is just a tool. If you don’t know how to write clean, scalable applications, you're setting yourself up for failure.” — Shahan Chowdhury, developer and freeCodeCamp contributor
+
+Until next week, happy coding.
+
+-- Quincy Larson
+
+Teacher and founder of freeCodeCamp.org
+
+If these aren't worth your time, you can turn them off: https://www.freecodecamp.org/ue/eZV2T3gHC7IGcwcpYPG64

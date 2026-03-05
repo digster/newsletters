@@ -1,0 +1,703 @@
+<html style="scrollbar-width: thin;scrollbar-color: #dbdbdbrgb(255,255,255);"><head><meta charset="utf-8"><title>How Kubernetes is Built with Kat Cosgrove</title><style>
+@media all and (-ms-high-contrast: none), (-ms-high-contrast: active) {
+  .typography .markup table.image-wrapper img,
+  .typography.editor .markup table.image-wrapper img,
+  .typography .markup table.kindle-wrapper img,
+  .typography.editor .markup table.kindle-wrapper img {
+    max-width: 550px;
+  }
+}
+@media (max-width: 1024px) {
+  .typography .captioned-image-container figure:has(> a.image2-align-left),
+  .typography.editor .captioned-image-container figure:has(> a.image2-align-left),
+  .typography .captioned-image-container figure:has(> a.image2-align-right),
+  .typography.editor .captioned-image-container figure:has(> a.image2-align-right) {
+    float: none;
+    margin: 1em auto;
+    max-width: 100%;
+    width: auto;
+    padding: 0;
+  }
+  .typography .captioned-image-container figure:has(> a.image2-align-left.thefp),
+  .typography.editor .captioned-image-container figure:has(> a.image2-align-left.thefp),
+  .typography .captioned-image-container figure:has(> a.image2-align-right.thefp),
+  .typography.editor .captioned-image-container figure:has(> a.image2-align-right.thefp) {
+    margin: 1em auto;
+  }
+  .typography .captioned-image-container figure:has(> a.image2-align-left) .image2-inset,
+  .typography.editor .captioned-image-container figure:has(> a.image2-align-left) .image2-inset,
+  .typography .captioned-image-container figure:has(> a.image2-align-right) .image2-inset,
+  .typography.editor .captioned-image-container figure:has(> a.image2-align-right) .image2-inset {
+    display: block;
+    justify-content: initial;
+  }
+}
+@media (max-width: 768px) {
+  .typography .markup div.sponsorship-campaign-embed.sponsorship-campaign-embed-structured,
+  .typography.editor .markup div.sponsorship-campaign-embed.sponsorship-campaign-embed-structured {
+    margin-top: 24px;
+    margin-bottom: 24px;
+  }
+  .typography .markup div.sponsorship-campaign-embed.sponsorship-campaign-embed-structured:first-child,
+  .typography.editor .markup div.sponsorship-campaign-embed.sponsorship-campaign-embed-structured:first-child {
+    margin-top: 0px;
+  }
+}
+@media screen and (max-width: 650px) {
+  .typography .markup div.youtube-overlay,
+  .typography.editor .markup div.youtube-overlay,
+  .typography .markup div.vimeo-overlay,
+  .typography.editor .markup div.vimeo-overlay {
+    display: none !important;
+  }
+}
+@media screen and (max-width: 370px) {
+  .typography .markup div.tiktok-wrap,
+  .typography.editor .markup div.tiktok-wrap {
+    width: calc(95vw - 32px);
+    height: calc((95vw - 32px - 2px) / 0.485714);
+  }
+}
+@media screen and (max-width: 650px) {
+  .typography .markup div.embedded-publication-wrap .embedded-publication.show-subscribe,
+  .typography.editor .markup div.embedded-publication-wrap .embedded-publication.show-subscribe {
+    padding: 24px;
+  }
+}
+@media screen and (max-width: 650px) {
+  .typography .markup div.subscription-widget-wrap .subscription-widget.show-subscribe,
+  .typography.editor .markup div.subscription-widget-wrap .subscription-widget.show-subscribe,
+  .typography .markup div.subscription-widget-wrap-editor .subscription-widget.show-subscribe,
+  .typography.editor .markup div.subscription-widget-wrap-editor .subscription-widget.show-subscribe,
+  .typography .markup div.captioned-button-wrap .subscription-widget.show-subscribe,
+  .typography.editor .markup div.captioned-button-wrap .subscription-widget.show-subscribe {
+    padding: 0px 24px;
+  }
+}
+@media screen and (max-width: 650px) {
+  .typography .markup div.subscription-widget-wrap .subscription-widget.show-subscribe .subscription-widget-subscribe .button,
+  .typography.editor .markup div.subscription-widget-wrap .subscription-widget.show-subscribe .subscription-widget-subscribe .button,
+  .typography .markup div.subscription-widget-wrap-editor .subscription-widget.show-subscribe .subscription-widget-subscribe .button,
+  .typography.editor .markup div.subscription-widget-wrap-editor .subscription-widget.show-subscribe .subscription-widget-subscribe .button,
+  .typography .markup div.captioned-button-wrap .subscription-widget.show-subscribe .subscription-widget-subscribe .button,
+  .typography.editor .markup div.captioned-button-wrap .subscription-widget.show-subscribe .subscription-widget-subscribe .button {
+    padding: 10px 12px;
+    min-width: 110px;
+  }
+}
+@media (max-width: 650px) {
+  .typography .markup .tweet,
+  .typography.editor .markup .tweet {
+    padding: 12px;
+  }
+}
+@media (max-width: 650px) {
+  .typography .markup .tweet .tweet-text,
+  .typography.editor .markup .tweet .tweet-text {
+    font-size: 14px;
+    line-height: 20px;
+  }
+}
+@media (max-width: 650px) {
+  .typography .markup .tweet .tweet-photos-container.two,
+  .typography.editor .markup .tweet .tweet-photos-container.two,
+  .typography .markup .tweet .tweet-photos-container.three,
+  .typography.editor .markup .tweet .tweet-photos-container.three,
+  .typography .markup .tweet .tweet-photos-container.four,
+  .typography.editor .markup .tweet .tweet-photos-container.four {
+    height: 200px;
+  }
+}
+@media (max-width: 650px) {
+  .typography .markup .tweet a.expanded-link .expanded-link-img,
+  .typography.editor .markup .tweet a.expanded-link .expanded-link-img {
+    max-height: 180px;
+  }
+}
+@media (max-width: 650px) {
+  .typography .markup .tweet a.expanded-link .expanded-link-description,
+  .typography.editor .markup .tweet a.expanded-link .expanded-link-description {
+    display: none;
+  }
+}
+@media screen and (max-width: 650px) {
+  .typography .markup .apple-podcast-container,
+  .typography.editor .markup .apple-podcast-container {
+    width: unset;
+  }
+}
+@media (max-width: 420px) {
+  .typography .markup .install-substack-app-embed img.install-substack-app-embed-img,
+  .typography.editor .markup .install-substack-app-embed img.install-substack-app-embed-img {
+    margin: 0 auto 16px auto;
+  }
+}
+@media (max-width: 420px) {
+  .typography .markup .install-substack-app-embed .install-substack-app-embed-text,
+  .typography.editor .markup .install-substack-app-embed .install-substack-app-embed-text {
+    margin: 0 0 12px 0;
+    max-width: 100%;
+    width: auto;
+    text-align: center;
+  }
+}
+@media (max-width: 420px) {
+  .typography .markup .install-substack-app-embed .install-substack-app-embed-link,
+  .typography.editor .markup .install-substack-app-embed .install-substack-app-embed-link {
+    display: flex;
+    justify-content: center;
+  }
+}
+@media screen and (min-width: 481px) {
+  .share-button-container {
+    height: 38px;
+  }
+}
+@media screen and (min-width: 481px) {
+  .share-button-container a.comment {
+    height: 38px;
+    line-height: 38px;
+    padding-right: 10px;
+  }
+}
+@media screen and (max-width: 480px) {
+  .share-button-container .separator {
+    display: block;
+    margin: 0;
+    height: 8px;
+    border-left: none;
+  }
+}
+@media screen and (max-width: 480px) {
+  .share-button-container a.share.first img {
+    padding-left: 0;
+  }
+}
+@media screen and (min-width: 481px) {
+  .share-button-container a.mobile {
+    display: none !important;
+  }
+}
+@media screen and (min-width: 541px) {
+  .settings-add-pub-modal-wrapper .container .add-recommending-pub-modal-container {
+    padding: 36px;
+    height: 680px;
+  }
+}
+@media screen and (min-width: 541px) {
+  .settings-add-pub-modal-wrapper .container .add-recommending-pub-modal-container .footer {
+    position: absolute;
+    bottom: 36px;
+    margin: 0px;
+  }
+}
+@media screen and (max-width: 650px) {
+  .header-anchor-parent {
+    display: none;
+  }
+}
+@media screen and (max-width: 768px) {
+  .post {
+    padding: 16px 0 0 0;
+  }
+}
+@media screen and (max-width: 650px) {
+  .post .post-header .post-label {
+    margin-top: 8px;
+  }
+}
+@media screen and (max-width: 650px) {
+  .post .post-header .meta-author-wrap.alternative-meta .meta-right-column .post-meta {
+    margin-top: 6px;
+  }
+}
+@media screen and (max-width: 650px) {
+  .post .footer-facepile-container {
+    height: 64px;
+    padding: 0 16px;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    width: 100%;
+  }
+}
+@media screen and (max-width: 650px) {
+  .post .post-footer.use-separators {
+    justify-content: center;
+  }
+}
+@media screen and (max-width: 650px) {
+  .post .post-footer.next-prev {
+    height: 64px;
+    justify-content: space-between;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 650px) {
+  .post-contributor-footer .post-contributor-bio-table {
+    display: block;
+  }
+  .post-contributor-footer .post-contributor-bio-table-row {
+    display: flex;
+    flex-direction: row;
+  }
+  .post-contributor-footer .post-contributor-bio-userhead-cell,
+  .post-contributor-footer .post-contributor-bio-body-cell {
+    display: block;
+  }
+  .post-contributor-footer .post-contributor-bio-body-cell {
+    flex-grow: 1;
+  }
+  .post-contributor-footer .post-contributor-bio-body-table {
+    display: block;
+  }
+  .post-contributor-footer .post-contributor-bio-body-table-row {
+    display: block;
+  }
+  .post-contributor-footer .post-contributor-bio-copy-cell,
+  .post-contributor-footer .post-contributor-bio-controls-cell {
+    display: block;
+  }
+  .post-contributor-footer .post-contributor-bio-copy-cell {
+    margin: 0 0 16px 0;
+  }
+  .post-contributor-footer .post-contributor-bio-controls-cell {
+    width: auto;
+  }
+  .post-contributor-footer .post-contributor-bio-controls {
+    margin: auto;
+  }
+  .post-contributor-footer .post-contributor-bio-controls .button.primary {
+    width: 100%;
+  }
+  .post-contributor-footer .post-contributor-bio-text {
+    font-size: 14px;
+  }
+}
+@media screen and (min-width: 768px) {
+  .post-silhouette {
+    padding: 32px 0;
+  }
+}
+@media screen and (max-width: 650px) {
+  .post-silhouette .post-silhouette-title {
+    margin-top: 10.44225025px;
+    height: 120px;
+  }
+}
+@media screen and (max-width: 650px) {
+  .post-silhouette .post-silhouette-meta {
+    width: 75%;
+  }
+}
+@media screen and (max-width: 650px) {
+  .post-silhouette .post-silhouette-meta.with-byline-image {
+    margin: 20px 0;
+  }
+}
+@media screen and (max-width: 650px) {
+  .use-theme-bg .post-meta.alternative-meta .post-meta-item,
+  .post-meta.alternative-meta .post-meta-item {
+    padding-right: 16px;
+  }
+}
+@media screen and (max-width: 370px) {
+  .use-theme-bg .post-meta.alternative-meta .post-meta-item,
+  .post-meta.alternative-meta .post-meta-item {
+    font-size: 14px;
+  }
+}
+@media screen and (max-width: 650px) {
+  .use-theme-bg .post-meta.alternative-meta .post-meta-item.guest-author-publication,
+  .post-meta.alternative-meta .post-meta-item.guest-author-publication {
+    display: none;
+  }
+}
+@media screen and (max-width: 370px) {
+  .post-meta .post-meta-item .post-meta-button {
+    height: 36px !important;
+    /* important to override in-line height style on emails */
+  }
+  .post-meta .post-meta-item .post-meta-button .meta-button-label {
+    display: none;
+  }
+  .post-meta .post-meta-item .post-meta-button > svg {
+    margin-right: 0;
+  }
+}
+@media screen and (max-width: 370px) {
+  .post-meta .post-meta-item {
+    font-size: 12px;
+  }
+}
+@media screen and (max-width: 650px) {
+  .post .floating-subscribe-button {
+    bottom: 20px;
+    right: 20px;
+  }
+}
+@media all and (-ms-high-contrast: none), (-ms-high-contrast: active) {
+  body .markup table.image-wrapper img,
+  body .markup table.kindle-wrapper img {
+    max-width: 550px;
+  }
+}
+@media (max-width: 1024px) {
+  body .captioned-image-container figure:has(> a.image2-align-left),
+  body .captioned-image-container figure:has(> a.image2-align-right) {
+    float: none;
+    margin: 1em auto;
+    max-width: 100%;
+    width: auto;
+    padding: 0;
+  }
+  body .captioned-image-container figure:has(> a.image2-align-left.thefp),
+  body .captioned-image-container figure:has(> a.image2-align-right.thefp) {
+    margin: 1em auto;
+  }
+  body .captioned-image-container figure:has(> a.image2-align-left) .image2-inset,
+  body .captioned-image-container figure:has(> a.image2-align-right) .image2-inset {
+    display: block;
+    justify-content: initial;
+  }
+}
+@media (max-width: 768px) {
+  body .markup div.sponsorship-campaign-embed.sponsorship-campaign-embed-structured {
+    margin-top: 24px;
+    margin-bottom: 24px;
+  }
+  body .markup div.sponsorship-campaign-embed.sponsorship-campaign-embed-structured:first-child {
+    margin-top: 0px;
+  }
+}
+@media screen and (max-width: 650px) {
+  body .markup div.youtube-overlay,
+  body .markup div.vimeo-overlay {
+    display: none !important;
+  }
+}
+@media screen and (max-width: 370px) {
+  body .markup div.tiktok-wrap {
+    width: calc(95vw - 32px);
+    height: calc((95vw - 32px - 2px) / 0.485714);
+  }
+}
+@media screen and (max-width: 650px) {
+  body .markup div.embedded-publication-wrap .embedded-publication.show-subscribe {
+    padding: 24px;
+  }
+}
+@media screen and (max-width: 650px) {
+  body .markup div.subscription-widget-wrap .subscription-widget.show-subscribe,
+  body .markup div.subscription-widget-wrap-editor .subscription-widget.show-subscribe,
+  body .markup div.captioned-button-wrap .subscription-widget.show-subscribe {
+    padding: 0px 24px;
+  }
+}
+@media screen and (max-width: 650px) {
+  body .markup div.subscription-widget-wrap .subscription-widget.show-subscribe .subscription-widget-subscribe .button,
+  body .markup div.subscription-widget-wrap-editor .subscription-widget.show-subscribe .subscription-widget-subscribe .button,
+  body .markup div.captioned-button-wrap .subscription-widget.show-subscribe .subscription-widget-subscribe .button {
+    padding: 10px 12px;
+    min-width: 110px;
+  }
+}
+@media (max-width: 650px) {
+  body .markup .tweet {
+    padding: 12px;
+  }
+}
+@media (max-width: 650px) {
+  body .markup .tweet .tweet-text {
+    font-size: 14px;
+    line-height: 20px;
+  }
+}
+@media (max-width: 650px) {
+  body .markup .tweet .tweet-photos-container.two,
+  body .markup .tweet .tweet-photos-container.three,
+  body .markup .tweet .tweet-photos-container.four {
+    height: 200px;
+  }
+}
+@media (max-width: 650px) {
+  body .markup .tweet a.expanded-link .expanded-link-img {
+    max-height: 180px;
+  }
+}
+@media (max-width: 650px) {
+  body .markup .tweet a.expanded-link .expanded-link-description {
+    display: none;
+  }
+}
+@media screen and (max-width: 650px) {
+  body .markup .apple-podcast-container {
+    width: unset;
+  }
+}
+@media (max-width: 420px) {
+  body .markup .install-substack-app-embed img.install-substack-app-embed-img {
+    margin: 0 auto 16px auto;
+  }
+}
+@media (max-width: 420px) {
+  body .markup .install-substack-app-embed .install-substack-app-embed-text {
+    margin: 0 0 12px 0;
+    max-width: 100%;
+    width: auto;
+    text-align: center;
+  }
+}
+@media (max-width: 420px) {
+  body .markup .install-substack-app-embed .install-substack-app-embed-link {
+    display: flex;
+    justify-content: center;
+  }
+}
+@media screen and (min-width: 500px) {
+  body .header a.logo {
+    width: 42px;
+    height: 42px;
+    border-radius: 12px;
+  }
+}
+@media screen and (max-width: 420px) {
+  body .subscription-receipt table:first-of-type .subscription-amount .subscription-discount {
+    width: 72px !important;
+  }
+}
+@media screen and (min-width: 481px) {
+  body .share-button-container {
+    height: auto;
+  }
+}
+@media screen and (max-width: 480px) {
+  body .share-button-container .separator {
+    display: block !important;
+    margin: 0 !important;
+    height: 8px !important;
+    border-left: none !important;
+  }
+}
+@media screen and (max-width: 650px) {
+  .digest .item .post-meta-item.audience {
+    display: none;
+  }
+}
+@media screen and (min-width: 500px) {
+  .digest-publication .logo img {
+    width: 42px;
+    height: 42px;
+    border-radius: 8px;
+  }
+}
+@media screen and (max-width: 650px) {
+  .comments-page .container .comment-list .collapsed-reply {
+    margin-left: calc(10 + 32px - 24px);
+  }
+}
+@media screen and (max-width: 650px) {
+  .comment > .comment-list {
+    padding-left: 24px;
+  }
+}
+@media screen and (max-width: 650px) {
+  .finish-magic-login-modal .modal-content .container {
+    padding: 24px 0;
+  }
+}
+@media (max-width: 650px) {
+  .reader2-text-b3 {
+    line-height: 24px;
+  }
+}
+@media screen and (max-width: 650px) {
+  .reader2-text-h4 {
+    line-height: 24px;
+  }
+}
+@media screen and (min-width: 541px) {
+  .user-profile-modal {
+    padding-left: 12px;
+    padding-right: 12px;
+  }
+}
+@media screen and (max-width: 650px) {
+  .subscribe-widget form.form .sideBySideWrap button.rightButton {
+    padding: 10px 12px;
+  }
+}
+@media screen and (min-width: 541px) {
+  .pub-icon:hover .logo-hover,
+  .feed-item-icon:hover .logo-hover {
+    display: block;
+  }
+}
+@media screen and (max-width: 650px) {
+  .post-ufi.single-full-width-button .post-ufi-button-wrapper {
+    width: 100%;
+    padding: 16px;
+  }
+  .post-ufi.single-full-width-button .post-ufi-button-wrapper:empty {
+    display: none;
+  }
+  .post-ufi.single-full-width-button .post-ufi-button {
+    width: 100%;
+    justify-content: center;
+  }
+}
+@media screen and (max-width: 768px) {
+  .file-embed-wrapper {
+    padding: 0;
+  }
+}
+@media screen and (max-width: 768px) {
+  .file-embed-wrapper-editor {
+    padding: 0;
+  }
+}
+@media screen and (max-width: 768px) {
+  .file-embed-wrapper-editor:active {
+    padding: 0;
+  }
+}
+@media only screen and (max-width: 650px) {
+  .file-embed-button.wide,
+  .file-embed-error-button.wide {
+    display: none;
+  }
+}
+@media only screen and (min-width: 630px) {
+  .file-embed-button.narrow,
+  .file-embed-error-button.narrow {
+    display: none;
+  }
+}
+@media screen and (min-width: 541px) {
+  .audio-player-wrapper .audio-player {
+    min-width: 500px;
+  }
+}
+@media screen and (max-width: 650px) {
+  .audio-player-wrapper .audio-player .audio-player-progress {
+    border-left-width: 16px;
+    border-right-width: 16px;
+  }
+}
+@media screen and (max-width: 650px) {
+  .audio-player-wrapper .audio-player .audio-player-progress .audio-player-progress-bar .audio-player-progress-bar-popup {
+    top: -54px;
+  }
+}
+@media screen and (max-width: 650px) {
+  .audio-player-wrapper-fancy .audio-player .audio-player-progress {
+    border-left-width: 16px;
+    border-right-width: 16px;
+  }
+}
+@media screen and (max-width: 650px) {
+  .audio-player-wrapper-fancy .audio-player .audio-player-progress .audio-player-progress-bar .audio-player-progress-bar-popup {
+    top: -54px;
+  }
+}
+@media (min-width: 250px) {
+  .audio-player-wrapper-fancy .audio-player {
+    padding: 32px;
+  }
+  .audio-player-wrapper-fancy .audio-player .btn-group {
+    display: flex;
+  }
+  .audio-player-wrapper-fancy .audio-player .btn-group .button:last-of-type {
+    display: block;
+  }
+}
+@media (min-width: 300px) {
+  .audio-player-wrapper-fancy .audio-player .btn-group {
+    display: block;
+  }
+  .audio-player-wrapper-fancy .audio-player .btn-group .button:first-of-type {
+    display: block;
+  }
+}
+@media (min-width: 350px) {
+  .audio-player-wrapper-fancy .audio-player .audio-player-substack-logo {
+    display: block;
+  }
+  .audio-player-wrapper-fancy .audio-player .audio-player-title {
+    margin-top: 16px;
+  }
+  .audio-player-wrapper-fancy .audio-player .audio-player-hero-image-container {
+    padding-top: 15%;
+    width: 15%;
+    display: block;
+  }
+  .audio-player-wrapper-fancy .audio-player .btn-group .button:first-of-type {
+    display: block;
+  }
+  .audio-player-wrapper-fancy .audio-player .audio-player-substack-logo {
+    display: block;
+  }
+}
+@media (min-width: 350px) {
+  .audio-player-wrapper-fancy .audio-player .audio-player-hero-image-container {
+    padding-top: 25%;
+    width: 25%;
+    display: block;
+  }
+  .audio-player-wrapper-fancy .audio-player .btn-group {
+    display: flex;
+  }
+  .audio-player-wrapper-fancy .audio-player .btn-group .button:first-of-type {
+    display: block;
+  }
+}
+@media (min-width: 400px) {
+  .audio-player-wrapper-fancy .audio-player .audio-player-hero-image-container {
+    padding-top: 40%;
+    width: 40%;
+  }
+}
+@media (max-width: 400px) {
+  .audio-player-wrapper-fancy .audio-player .btn-group {
+    margin-top: 12px;
+  }
+  .audio-player-wrapper-fancy .audio-player .btn-group .button {
+    font-size: 13px;
+    padding: 6px 12px;
+    height: auto;
+    margin-top: 10px;
+  }
+}
+@media (min-width: 600px) {
+  .audio-player-wrapper-fancy .audio-player .audio-player-hero-image-container {
+    padding-top: 55%;
+    width: 55%;
+  }
+}
+@media (max-width: 650px) {
+  .poll-editor-modal {
+    min-width: calc(100% - 20px);
+  }
+}
+@media (max-width: 750px) {
+  .poll-embed .poll-anchor-target .poll-anchor-copy-button {
+    left: 8px;
+    top: 45px;
+  }
+}
+@media screen and (min-width: 541px) {
+  .poll-embed .poll-wrapper.poll-web .poll-dialog .modal-table .modal-row .modal-content > .container {
+    width: 552px;
+    padding: 26px 24px;
+  }
+}
+@media screen and (max-width: 650px) {
+  .poll-embed .poll-wrapper.poll-web .poll-dialog .modal-table .modal-row .modal-content > .container {
+    padding: 40px 0;
+  }
+}
+@media screen and (max-width: 650px) {
+  .poll-embed .poll-wrapper.poll-web .poll-dialog .modal-row .modal-cell .modal-exit-btn {
+    margin-right: -20px;
+  }
+}</style></head><body class="email-body" style="font-kerning: auto;"><img src="https://eotrx.substackcdn.com/open?token=eyJtIjoiPDIwMjUwNTE0MTcwNjQyLjMuZjU4MjZjYTZmMjRkZTdjZkBtZzIuc3Vic3RhY2suY29tPiIsInUiOjE0NTYzMzE5LCJyIjoiaXNoYW4ubWFpbEBnbWFpbC5jb20iLCJkIjoibWcyLnN1YnN0YWNrLmNvbSIsInAiOjE2MzUwNjU4OCwidCI6InBvZGNhc3QiLCJhIjoiZXZlcnlvbmUiLCJzIjo0NTg3MDksImMiOiJwb3N0IiwiZiI6dHJ1ZSwicG9zaXRpb24iOiJ0b3AiLCJpYXQiOjE3NDcyNDI0NDEsImV4cCI6MTc0OTgzNDQ0MSwiaXNzIjoicHViLTAiLCJzdWIiOiJlbyJ9.4XJI5JWFm1GgbP77uEML9JV__2nLveYnIKGQipA2COs" alt="" width="1" height="1" border="0" style="height:1px !important;width:1px !important;border-width:0 !important;margin-top:0 !important;margin-bottom:0 !important;margin-right:0 !important;margin-left:0 !important;padding-top:0 !important;padding-bottom:0 !important;padding-right:0 !important;padding-left:0 !important;"/><div class="preview" style="display:none;font-size:1px;color:#333333;line-height:1px;max-height:0px;max-width:0px;opacity:0;overflow:hidden;">Kat Cosgrove shares what Kubernetes actually does, how it&#8217;s structured and scaled, and why it&#8217;s become one of the most successful open-source projects in the world.</div><div class="preview" style="display:none;font-size:1px;color:#333333;line-height:1px;max-height:0px;max-width:0px;opacity:0;overflow:hidden;">&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;</div><table class="email-body-container" role="presentation" width="100%" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td></td><td class="content" width="550"></td><td></td></tr><tr><td></td><td class="content" width="550" align="left"><div style="font-size: 16px;line-height: 26px;max-width: 550px;width: 100%;margin: 0 auto;overflow-wrap: break-word;"><table role="presentation" width="100%" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td align="right" style="height:20px;"><table role="presentation" width="auto" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td style="vertical-align:middle;"><span class="pencraft pc-reset reset-IxiVJZ tw-font-body tw-text-ssm tw-text-substack-secondary" style="font-family: SF Pro Text, -apple-system, system-ui, BlinkMacSystemFont, Inter, Segoe UI, Roboto, Helvetica, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol;font-size: 13px;color: unset;list-style: none;text-decoration: unset;margin: 0;"><div class="pencraft pc-reset align-right-VJbKw5 size-12-mmZ61m reset-IxiVJZ" style="list-style: none;color: unset;text-align: right;font-size: 12px;line-height: 16px;text-decoration: unset;margin: 0;"><span class="pencraft pc-reset reset-IxiVJZ" translated="" style="list-style: none;color: unset;text-decoration: unset;margin: 0;">Forwarded this email? <a class="pencraft pc-reset decoration-underline-ClTkYc reset-IxiVJZ" href="https://substack.com/redirect/2/eyJlIjoiaHR0cHM6Ly9uZXdzbGV0dGVyLnByYWdtYXRpY2VuZ2luZWVyLmNvbS9zdWJzY3JpYmU_dXRtX3NvdXJjZT1lbWFpbCZ1dG1fY2FtcGFpZ249ZW1haWwtc3Vic2NyaWJlJnI9OG81NG4mbmV4dD1odHRwcyUzQSUyRiUyRm5ld3NsZXR0ZXIucHJhZ21hdGljZW5naW5lZXIuY29tJTJGcCUyRmhvdy1rdWJlcm5ldGVzLWlzLWJ1aWx0LXdpdGgta2F0IiwicCI6MTYzNTA2NTg4LCJzIjo0NTg3MDksImYiOnRydWUsInUiOjE0NTYzMzE5LCJpYXQiOjE3NDcyNDI0NDEsImV4cCI6MTc0OTgzNDQ0MSwiaXNzIjoicHViLTAiLCJzdWIiOiJsaW5rLXJlZGlyZWN0In0.pEFgCAvKpPELZDQD6AOJdqXKquSDLKbXj3l7FcZPamg?" style="list-style: none;color: unset;text-decoration: unset;margin: 0;-webkit-text-decoration-line: underline;text-decoration-line: underline;">Subscribe here</a> for more</span></div></span></td></tr></tbody></table></td></tr></tbody></table><table class="header graphic-header" role="presentation" style="border-spacing: 0;padding: 16px 0 32px;"><tbody><tr><td align="center" style="text-align: center;padding: 0;"><a href="https://substack.com/redirect/2/eyJlIjoiaHR0cHM6Ly9uZXdzbGV0dGVyLnByYWdtYXRpY2VuZ2luZWVyLmNvbS9wL2hvdy1rdWJlcm5ldGVzLWlzLWJ1aWx0LXdpdGgta2F0P3V0bV9jYW1wYWlnbj1lbWFpbC1oYWxmLXBvc3Qmcj04bzU0biZ0b2tlbj1leUoxYzJWeVgybGtJam94TkRVMk16TXhPU3dpY0c5emRGOXBaQ0k2TVRZek5UQTJOVGc0TENKcFlYUWlPakUzTkRjeU5ESTBOREVzSW1WNGNDSTZNVGMwT1Rnek5EUTBNU3dpYVhOeklqb2ljSFZpTFRRMU9EY3dPU0lzSW5OMVlpSTZJbkJ2YzNRdGNtVmhZM1JwYjI0aWZRLjlwTkdybjZQUVU3bzJ2OWZYakgxcjc3djZLbHJpdUhxOVg4NzRjZ2E3eDgiLCJwIjoxNjM1MDY1ODgsInMiOjQ1ODcwOSwiZiI6dHJ1ZSwidSI6MTQ1NjMzMTksImlhdCI6MTc0NzI0MjQ0MSwiZXhwIjoxNzQ5ODM0NDQxLCJpc3MiOiJwdWItMCIsInN1YiI6ImxpbmstcmVkaXJlY3QifQ.QFnQhs0h2Et8QuHJDmogRSMHKtu_p5XJapry5XIyDww?"><img class="header-image" role="presentation" width="550" height="110" src="https://substackcdn.com/image/fetch/w_1100,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3f6c431d-310a-45a0-90fe-3dc43354ef38_1100x220.png" style="border: none !important;vertical-align: middle;max-width: 550px;display: block;margin: 0 auto;height: auto;width: 100%;"></a></td></tr></tbody></table><div style="font-size: 16px;line-height: 26px;height: 8px">&nbsp;</div><a href="https://substack.com/app-link/post?publication_id=458709&post_id=163506588&utm_source=podcast-email&play_audio=true&r=8o54n&utm_campaign=email-play-on-substack&token=eyJ1c2VyX2lkIjoxNDU2MzMxOSwicG9zdF9pZCI6MTYzNTA2NTg4LCJpYXQiOjE3NDcyNDI0NDEsImV4cCI6MTc0OTgzNDQ0MSwiaXNzIjoicHViLTQ1ODcwOSIsInN1YiI6InBvc3QtcmVhY3Rpb24ifQ.9pNGrn6PQU7o2v9fXjH1r77v6KlriuHq9X874cga7x8&utm_source=substack&utm_medium=email&utm_content=play_card#play" style="text-decoration:none;"><table role="presentation" width="auto" border="0" cellspacing="0" cellpadding="0" style="background-color:#FF6B00;border-radius:12px;table-layout:fixed;width:100%;max-width:100vw;padding:16px;padding-bottom:20px;background:linear-gradient(180deg, rgba(158,158,158,0.75), rgba(84,84,84,0.75)), rgb(35,37,37);white-space:normal;"><tbody><tr><td><table role="presentation" width="auto" border="0" cellspacing="0" cellpadding="0" style="overflow:hidden;white-space:normal;"><tbody><tr><td style="vertical-align:middle;"><a href="https://substack.com/app-link/post?publication_id=458709&post_id=163506588&utm_source=podcast-email&play_audio=true&r=8o54n&utm_campaign=email-play-on-substack&token=eyJ1c2VyX2lkIjoxNDU2MzMxOSwicG9zdF9pZCI6MTYzNTA2NTg4LCJpYXQiOjE3NDcyNDI0NDEsImV4cCI6MTc0OTgzNDQ0MSwiaXNzIjoicHViLTQ1ODcwOSIsInN1YiI6InBvc3QtcmVhY3Rpb24ifQ.9pNGrn6PQU7o2v9fXjH1r77v6KlriuHq9X874cga7x8&utm_source=substack&utm_medium=email&utm_content=play_card_show_logo#play" native="" style="width:56px;height:56px;"><img class="pencraft pc-reset outline-detail-vcQLyr pub-logo-m0IFm6 static-XUAQjT" src="https://substackcdn.com/image/fetch/w_112,h_112,c_fill,f_auto,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2a3d0e54-d48a-4d6e-aa28-d834942d4167_3000x3000.png" width="56" height="56" alt="The Pragmatic Engineer" name="The Pragmatic Engineer" style="text-decoration: unset;list-style: none;outline: 1px solid rgb(0,0,0,.1);outline-offset: -1px;border-radius: 8px;box-sizing: border-box;background-color: rgb(255,255,255);margin: 0;flex-shrink: 0;max-width: 550px;border: none !important;vertical-align: middle;"></a></td><td width="16" style="min-width: 16px"></td><td style="vertical-align:middle;"><table role="presentation" width="auto" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td><a class="pencraft pc-opacity-80 pc-minWidth-0 pc-reset overflow-hidden-WdpwT6 ellipsis-Jb8om8 color-white-rGgpJs line-height-20-t4M0El font-meta-MWBumP size-11-NuY2Zx weight-medium-fw81nC transform-uppercase-yKDgcq reset-IxiVJZ meta-EgzBVA" href="https://substack.com/app-link/post?publication_id=458709&post_id=163506588&utm_source=podcast-email&play_audio=true&r=8o54n&utm_campaign=email-play-on-substack&token=eyJ1c2VyX2lkIjoxNDU2MzMxOSwicG9zdF9pZCI6MTYzNTA2NTg4LCJpYXQiOjE3NDcyNDI0NDEsImV4cCI6MTc0OTgzNDQ0MSwiaXNzIjoicHViLTQ1ODcwOSIsInN1YiI6InBvc3QtcmVhY3Rpb24ifQ.9pNGrn6PQU7o2v9fXjH1r77v6KlriuHq9X874cga7x8&utm_source=substack&utm_medium=email&utm_content=play_card_show_title#play" style="list-style: none;opacity: .8;min-width: 0;color: rgb(255,255,255);text-decoration: unset;overflow: hidden;text-overflow: ellipsis;white-space: nowrap;margin: 0;font-size: 11px;line-height: 20px;font-family: 'SF Compact',-apple-system,system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';font-weight: 500;text-transform: uppercase;letter-spacing: .2px;">The Pragmatic Engineer</a></td></tr><tr><td><a class="pencraft pc-minWidth-0 pc-reset overflow-hidden-WdpwT6 ellipsis-Jb8om8 color-white-rGgpJs line-height-20-t4M0El font-text-qe4AeH size-15-Psle70 weight-semibold-uqA4FV reset-IxiVJZ" style="list-style: none;min-width: 0;color: rgb(255,255,255);text-decoration: unset;overflow: hidden;text-overflow: ellipsis;margin: 0;font-size: 15px;line-height: 20px;font-family: system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';font-weight: 600;max-width: 420px;white-space: normal" href="https://substack.com/app-link/post?publication_id=458709&post_id=163506588&utm_source=podcast-email&play_audio=true&r=8o54n&utm_campaign=email-play-on-substack&token=eyJ1c2VyX2lkIjoxNDU2MzMxOSwicG9zdF9pZCI6MTYzNTA2NTg4LCJpYXQiOjE3NDcyNDI0NDEsImV4cCI6MTc0OTgzNDQ0MSwiaXNzIjoicHViLTQ1ODcwOSIsInN1YiI6InBvc3QtcmVhY3Rpb24ifQ.9pNGrn6PQU7o2v9fXjH1r77v6KlriuHq9X874cga7x8&utm_source=substack&utm_medium=email&utm_content=play_card_post_title#play">How Kubernetes is Built with &#8230;</a></td></tr></tbody></table></td></tr></tbody></table></td></tr><tr height="16"><td></td></tr><tr><td><table role="presentation" width="auto" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td style="vertical-align:center;white-space:nowrap;"><a class="pencraft pc-reset color-white-rGgpJs line-height-20-t4M0El font-meta-MWBumP size-11-NuY2Zx weight-regular-mUq6Gb transform-uppercase-yKDgcq nowrap-QngyoB reset-IxiVJZ meta-EgzBVA" href="https://substack.com/app-link/post?publication_id=458709&post_id=163506588&utm_source=podcast-email&play_audio=true&r=8o54n&utm_campaign=email-play-on-substack&token=eyJ1c2VyX2lkIjoxNDU2MzMxOSwicG9zdF9pZCI6MTYzNTA2NTg4LCJpYXQiOjE3NDcyNDI0NDEsImV4cCI6MTc0OTgzNDQ0MSwiaXNzIjoicHViLTQ1ODcwOSIsInN1YiI6InBvc3QtcmVhY3Rpb24ifQ.9pNGrn6PQU7o2v9fXjH1r77v6KlriuHq9X874cga7x8&utm_source=substack&utm_medium=email&utm_content=play_card_duration#play" style="list-style: none;color: rgb(255,255,255);text-decoration: unset;margin: 0;font-size: 11px;line-height: 20px;font-family: 'SF Compact',-apple-system,system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';font-weight: 400;text-transform: uppercase;white-space: nowrap;letter-spacing: .2px;">0:00</a></td><td width="8" style="min-width:8px;"></td><td style="vertical-align:center;width:100%;"><a href="https://substack.com/app-link/post?publication_id=458709&post_id=163506588&utm_source=podcast-email&play_audio=true&r=8o54n&utm_campaign=email-play-on-substack&token=eyJ1c2VyX2lkIjoxNDU2MzMxOSwicG9zdF9pZCI6MTYzNTA2NTg4LCJpYXQiOjE3NDcyNDI0NDEsImV4cCI6MTc0OTgzNDQ0MSwiaXNzIjoicHViLTQ1ODcwOSIsInN1YiI6InBvc3QtcmVhY3Rpb24ifQ.9pNGrn6PQU7o2v9fXjH1r77v6KlriuHq9X874cga7x8&utm_source=substack&utm_medium=email&utm_content=play_card_progress_bar#play" style="display:block;background-color:rgba(255,255,255,0.4);border-radius:9999px;height:4px;width:100%;"></a></td><td width="8" style="min-width:8px;"></td><td style="vertical-align:center;white-space:nowrap;"><a class="pencraft pc-reset color-white-rGgpJs line-height-20-t4M0El font-meta-MWBumP size-11-NuY2Zx weight-regular-mUq6Gb transform-uppercase-yKDgcq nowrap-QngyoB reset-IxiVJZ meta-EgzBVA" href="https://substack.com/app-link/post?publication_id=458709&post_id=163506588&utm_source=podcast-email&play_audio=true&r=8o54n&utm_campaign=email-play-on-substack&token=eyJ1c2VyX2lkIjoxNDU2MzMxOSwicG9zdF9pZCI6MTYzNTA2NTg4LCJpYXQiOjE3NDcyNDI0NDEsImV4cCI6MTc0OTgzNDQ0MSwiaXNzIjoicHViLTQ1ODcwOSIsInN1YiI6InBvc3QtcmVhY3Rpb24ifQ.9pNGrn6PQU7o2v9fXjH1r77v6KlriuHq9X874cga7x8&utm_source=substack&utm_medium=email&utm_content=play_card_duration#play" style="list-style: none;color: rgb(255,255,255);text-decoration: unset;margin: 0;font-size: 11px;line-height: 20px;font-family: 'SF Compact',-apple-system,system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';font-weight: 400;text-transform: uppercase;white-space: nowrap;letter-spacing: .2px;">1:08:46</a></td><td width="8" style="min-width:8px;"></td><td width="16" style="min-width:16px;"></td><td style="vertical-align:center;"><a href="https://substack.com/app-link/post?publication_id=458709&post_id=163506588&utm_source=podcast-email&play_audio=true&r=8o54n&utm_campaign=email-play-on-substack&token=eyJ1c2VyX2lkIjoxNDU2MzMxOSwicG9zdF9pZCI6MTYzNTA2NTg4LCJpYXQiOjE3NDcyNDI0NDEsImV4cCI6MTc0OTgzNDQ0MSwiaXNzIjoicHViLTQ1ODcwOSIsInN1YiI6InBvc3QtcmVhY3Rpb24ifQ.9pNGrn6PQU7o2v9fXjH1r77v6KlriuHq9X874cga7x8&utm_source=substack&utm_medium=email&utm_content=play_card_play_button#play" data-testid="email-audio-play-button"><img src="https://substackcdn.com/image/fetch/w_48,c_scale,f_png,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack.com%2Ficon%2FPlayIconRounded%3Fv%3D4%26height%3D48%26fill%3Drgba(255%252C255%252C255%252C0.8)%26stroke%3Dnone%26strokeWidth%3D3.6" width="24" height="24" style="border: none;vertical-align: middle;max-width: 24px" alt=""></a></td><td width="4" style="min-width:4px;"></td></tr></tbody></table></td></tr></tbody></table></a><table role="presentation" width="auto" border="0" cellspacing="0" cellpadding="0" style="width:100%;"><tbody><tr><td><div style="font-size: 16px;line-height: 26px;height: 16px">&nbsp;</div></td></tr><tr height="8"><td></td></tr><tr><td><table role="presentation" width="auto" border="0" cellspacing="0" cellpadding="0" style="width:100%;"><tbody><tr><td style="vertical-align:middle;width:100%;"><table class="fullWidth-mgXGs7" role="presentation" width="auto" border="0" cellspacing="0" cellpadding="0" style="box-sizing: border-box;width: 100%;min-height: 40px;padding-left: 0;padding-right: 0;"><tbody><tr><td class="fullWidth-mgXGs7 emailButtonTd-o2ymya priority_primary-vWRHI0" align="center" style="box-sizing: border-box;width: 100%;min-height: 40px;padding-left: 0;padding-right: 0;border-radius: 8px;background-color: #FF6B00;"><a class="fullWidth-mgXGs7 emailButtonA-Ktpg7h" href="https://substack.com/app-link/post?publication_id=458709&post_id=163506588&utm_source=podcast-email&play_audio=true&r=8o54n&utm_campaign=email-play-on-substack&token=eyJ1c2VyX2lkIjoxNDU2MzMxOSwicG9zdF9pZCI6MTYzNTA2NTg4LCJpYXQiOjE3NDcyNDI0NDEsImV4cCI6MTc0OTgzNDQ0MSwiaXNzIjoicHViLTQ1ODcwOSIsInN1YiI6InBvc3QtcmVhY3Rpb24ifQ.9pNGrn6PQU7o2v9fXjH1r77v6KlriuHq9X874cga7x8&utm_content=listen_now_button" style="box-sizing: border-box;width: 100%;min-height: 40px;padding-left: 0;padding-right: 0;font-family: system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';font-size: 14px;font-weight: 600;letter-spacing: -.15px;border-radius: 8px;padding: 12px 24px;line-height: 1;text-decoration: none;display: inline-block;color: #ffffff;border: none;"><img src="https://substackcdn.com/image/fetch/w_32,c_scale,f_png,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack.com%2Ficon%2FHeadphonesIcon%3Fv%3D4%26height%3D32%26stroke%3D%2523ffffff%26strokeWidth%3D2" width="16" height="16" style="border: none;vertical-align: middle;max-width: 16px" alt=""><span style="margin-left:8px;vertical-align:middle;">Listen now</span></a></td></tr></tbody></table></td></tr></tbody></table></td></tr><tr height="8"><td></td></tr><tr><td><div style="font-size: 16px;line-height: 26px;height: 16px">&nbsp;</div></td></tr></tbody></table><div class="post typography" dir="auto" style="padding: 32px 0 0 0;font-size: 16px;line-height: 26px;"><div class="post-header" role="region" aria-label="Post header" style="font-size: 16px;line-height: 26px;"><h1 class="post-title published" style="color: rgb(54,55,55);font-family: Lora,sans-serif;font-weight: 600;-webkit-font-smoothing: antialiased;-moz-osx-font-smoothing: antialiased;-webkit-appearance: optimizelegibility;-moz-appearance: optimizelegibility;appearance: optimizelegibility;margin: 0;line-height: 36px;font-size: 32px;"><a href="https://substack.com/app-link/post?publication_id=458709&post_id=163506588&utm_source=post-email-title&utm_campaign=email-post-title&isFreemail=true&r=8o54n&token=eyJ1c2VyX2lkIjoxNDU2MzMxOSwicG9zdF9pZCI6MTYzNTA2NTg4LCJpYXQiOjE3NDcyNDI0NDEsImV4cCI6MTc0OTgzNDQ0MSwiaXNzIjoicHViLTQ1ODcwOSIsInN1YiI6InBvc3QtcmVhY3Rpb24ifQ.9pNGrn6PQU7o2v9fXjH1r77v6KlriuHq9X874cga7x8" style="color: rgb(54,55,55);text-decoration: none;">How Kubernetes is Built with Kat Cosgrove</a></h1><h3 class="subtitle" style="font-family: 'SF Pro Display',-apple-system-headline,system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';font-weight: normal;-webkit-font-smoothing: antialiased;-moz-osx-font-smoothing: antialiased;-webkit-appearance: optimizelegibility;-moz-appearance: optimizelegibility;appearance: optimizelegibility;margin: 4px 0 0;color: #777777;line-height: 24px;font-size: 18px;margin-top: 12px;">Kat Cosgrove shares what Kubernetes actually does, how it&#8217;s structured and scaled, and why it&#8217;s become one of the most successful open-source projects in the world.</h3><table class="post-meta" role="presentation" width="100%" border="0" cellspacing="0" cellpadding="0" style="margin: 1em 0;height: 20px;align-items: center;"><tbody><tr><td><table role="presentation" width="auto" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td><table role="presentation" width="auto" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td style="vertical-align:middle;"><div class="pencraft pc-reset color-primary-zABazT line-height-20-t4M0El font-meta-MWBumP size-11-NuY2Zx weight-medium-fw81nC transform-uppercase-yKDgcq reset-IxiVJZ meta-EgzBVA custom-css-email-post-author" style="list-style: none;font-size: 11px;line-height: 20px;text-decoration: unset;color: rgb(54,55,55);margin: 0;font-family: 'SF Compact',-apple-system,system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';font-weight: 500;text-transform: uppercase;letter-spacing: .2px;"><a class="pencraft pc-reset color-primary-zABazT line-height-20-t4M0El font-meta-MWBumP size-11-NuY2Zx weight-medium-fw81nC transform-uppercase-yKDgcq reset-IxiVJZ meta-EgzBVA" style="list-style: none;color: rgb(54,55,55);margin: 0;font-size: 11px;line-height: 20px;font-family: 'SF Compact',-apple-system,system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';font-weight: 500;text-transform: uppercase;letter-spacing: .2px;text-decoration: none" href="https://substack.com/@pragmaticengineer">Gergely Orosz</a></div></td></tr></tbody></table></td></tr><tr><td><table role="presentation" width="auto" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td style="vertical-align:middle;"><div class="pencraft pc-reset color-secondary-ls1g8s line-height-20-t4M0El font-meta-MWBumP size-11-NuY2Zx weight-medium-fw81nC transform-uppercase-yKDgcq reset-IxiVJZ meta-EgzBVA" style="list-style: none;font-size: 11px;line-height: 20px;text-decoration: unset;color: rgb(119,119,119);margin: 0;font-family: 'SF Compact',-apple-system,system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';font-weight: 500;text-transform: uppercase;letter-spacing: .2px;"><time datetime="2025-05-14T17:06:58.074Z">May 14</time></div></td></tr></tbody></table></td></tr></tbody></table></td><td align="right"><table role="presentation" width="auto" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td style="vertical-align:middle;"><a href="https://substack.com/@pragmaticengineer"><img class="custom-css-email-avatar avatar-QIQ5yR" src="https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F802a32bb-2048-428b-bdb5-d6acd1e2b2d5_48x48.png" style="box-sizing: border-box;border-radius: 500000px;max-width: 550px;border: none;vertical-align: middle;width: 40px;height: 40px;min-width: 40px;min-height: 40px;object-fit: cover;margin: 0px;display: inline" width="40" height="40"></a></td></tr></tbody></table></td></tr></tbody></table><table class="email-ufi-2-top" role="presentation" width="100%" border="0" cellspacing="0" cellpadding="0" style="border-top: 1px solid rgb(0,0,0,.1);border-bottom: 1px solid rgb(0,0,0,.1);min-width: 100%;"><tbody><tr height="16"><td height="16" style="font-size:0px;line-height:0;">&nbsp;</td></tr><tr><td><table role="presentation" width="100%" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td><table role="presentation" width="auto" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td style="vertical-align:middle;"><table role="presentation" width="38" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td align="center"><a class="email-icon-button" href="https://substack.com/app-link/post?publication_id=458709&post_id=163506588&utm_source=substack&isFreemail=true&submitLike=true&token=eyJ1c2VyX2lkIjoxNDU2MzMxOSwicG9zdF9pZCI6MTYzNTA2NTg4LCJyZWFjdGlvbiI6IuKdpCIsImlhdCI6MTc0NzI0MjQ0MSwiZXhwIjoxNzQ5ODM0NDQxLCJpc3MiOiJwdWItNDU4NzA5Iiwic3ViIjoicmVhY3Rpb24ifQ.CDwpLWQCZ8T_A5gS4RqSUw80pyR5vepP8zVQGg5fZXM&utm_medium=email&utm_campaign=email-reaction&r=8o54n" style="font-family: system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';display: inline-block;font-weight: 500;border: 1px solid rgb(0,0,0,.1);border-radius: 9999px;text-transform: uppercase;font-size: 12px;line-height: 1;padding: 9px 0;text-decoration: none;color: rgb(119,119,119);min-width: 38px;box-sizing: border-box;width: 38px"><img class="icon" src="https://substackcdn.com/image/fetch/w_36,c_scale,f_png,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack.com%2Ficon%2FLucideHeart%3Fv%3D4%26height%3D36%26fill%3Dnone%26stroke%3D%2523808080%26strokeWidth%3D2" width="18" height="18" style="border: none;vertical-align: middle;max-width: 18px" alt=""></a></td></tr></tbody></table></td><td width="8" style="min-width: 8px"></td><td style="vertical-align:middle;"><table role="presentation" width="38" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td align="center"><a class="email-icon-button" href="https://substack.com/app-link/post?publication_id=458709&post_id=163506588&utm_source=substack&utm_medium=email&isFreemail=true&comments=true&token=eyJ1c2VyX2lkIjoxNDU2MzMxOSwicG9zdF9pZCI6MTYzNTA2NTg4LCJpYXQiOjE3NDcyNDI0NDEsImV4cCI6MTc0OTgzNDQ0MSwiaXNzIjoicHViLTQ1ODcwOSIsInN1YiI6InBvc3QtcmVhY3Rpb24ifQ.9pNGrn6PQU7o2v9fXjH1r77v6KlriuHq9X874cga7x8&r=8o54n&utm_campaign=email-half-magic-comments&action=post-comment&utm_source=substack&utm_medium=email" style="font-family: system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';display: inline-block;font-weight: 500;border: 1px solid rgb(0,0,0,.1);border-radius: 9999px;text-transform: uppercase;font-size: 12px;line-height: 1;padding: 9px 0;text-decoration: none;color: rgb(119,119,119);min-width: 38px;box-sizing: border-box;width: 38px"><img class="icon" src="https://substackcdn.com/image/fetch/w_36,c_scale,f_png,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack.com%2Ficon%2FLucideComments%3Fv%3D4%26height%3D36%26fill%3Dnone%26stroke%3D%2523808080%26strokeWidth%3D2" width="18" height="18" style="border: none;vertical-align: middle;max-width: 18px" alt=""></a></td></tr></tbody></table></td><td width="8" style="min-width: 8px"></td><td style="vertical-align:middle;"><table role="presentation" width="38" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td align="center"><a class="email-icon-button" href="https://substack.com/app-link/post?publication_id=458709&post_id=163506588&utm_source=substack&utm_medium=email&utm_content=share&utm_campaign=email-share&action=share&triggerShare=true&isFreemail=true&r=8o54n&token=eyJ1c2VyX2lkIjoxNDU2MzMxOSwicG9zdF9pZCI6MTYzNTA2NTg4LCJpYXQiOjE3NDcyNDI0NDEsImV4cCI6MTc0OTgzNDQ0MSwiaXNzIjoicHViLTQ1ODcwOSIsInN1YiI6InBvc3QtcmVhY3Rpb24ifQ.9pNGrn6PQU7o2v9fXjH1r77v6KlriuHq9X874cga7x8" style="font-family: system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';display: inline-block;font-weight: 500;border: 1px solid rgb(0,0,0,.1);border-radius: 9999px;text-transform: uppercase;font-size: 12px;line-height: 1;padding: 9px 0;text-decoration: none;color: rgb(119,119,119);min-width: 38px;box-sizing: border-box;width: 38px"><img class="icon" src="https://substackcdn.com/image/fetch/w_36,c_scale,f_png,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack.com%2Ficon%2FLucideShare2%3Fv%3D4%26height%3D36%26fill%3Dnone%26stroke%3D%2523808080%26strokeWidth%3D2" width="18" height="18" style="border: none;vertical-align: middle;max-width: 18px" alt=""></a></td></tr></tbody></table></td><td width="8" style="min-width: 8px"></td><td style="vertical-align:middle;"><table role="presentation" width="38" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td align="center"><a class="email-icon-button" href="https://substack.com/redirect/2/eyJlIjoiaHR0cHM6Ly9vcGVuLnN1YnN0YWNrLmNvbS9wdWIvcHJhZ21hdGljZW5naW5lZXIvcC9ob3cta3ViZXJuZXRlcy1pcy1idWlsdC13aXRoLWthdD91dG1fc291cmNlPXN1YnN0YWNrJnV0bV9tZWRpdW09ZW1haWwmdXRtX2NhbXBhaWduPWVtYWlsLXJlc3RhY2stY29tbWVudCZhY3Rpb249cmVzdGFjay1jb21tZW50JnI9OG81NG4mdG9rZW49ZXlKMWMyVnlYMmxrSWpveE5EVTJNek14T1N3aWNHOXpkRjlwWkNJNk1UWXpOVEEyTlRnNExDSnBZWFFpT2pFM05EY3lOREkwTkRFc0ltVjRjQ0k2TVRjME9UZ3pORFEwTVN3aWFYTnpJam9pY0hWaUxUUTFPRGN3T1NJc0luTjFZaUk2SW5CdmMzUXRjbVZoWTNScGIyNGlmUS45cE5Hcm42UFFVN28ydjlmWGpIMXI3N3Y2S2xyaXVIcTlYODc0Y2dhN3g4IiwicCI6MTYzNTA2NTg4LCJzIjo0NTg3MDksImYiOnRydWUsInUiOjE0NTYzMzE5LCJpYXQiOjE3NDcyNDI0NDEsImV4cCI6MTc0OTgzNDQ0MSwiaXNzIjoicHViLTAiLCJzdWIiOiJsaW5rLXJlZGlyZWN0In0.BkgC6p1K2c2mgw3rGXmNZ4WR466m_XBKWq3jdBSMTfw?&utm_source=substack&utm_medium=email" style="font-family: system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';display: inline-block;font-weight: 500;border: 1px solid rgb(0,0,0,.1);border-radius: 9999px;text-transform: uppercase;font-size: 12px;line-height: 1;padding: 9px 0;text-decoration: none;color: rgb(119,119,119);min-width: 38px;box-sizing: border-box;width: 38px"><img class="icon" src="https://substackcdn.com/image/fetch/w_36,c_scale,f_png,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack.com%2Ficon%2FNoteForwardIcon%3Fv%3D4%26height%3D36%26fill%3Dnone%26stroke%3D%2523808080%26strokeWidth%3D2" width="18" height="18" style="border: none;vertical-align: middle;max-width: 18px" alt=""></a></td></tr></tbody></table></td></tr></tbody></table></td><td align="right"><table role="presentation" width="auto" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td style="vertical-align:middle;"><table role="presentation" width="auto" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td align="center"><a class="email-button-outline" href="https://open.substack.com/pub/pragmaticengineer/p/how-kubernetes-is-built-with-kat?utm_source=email&redirect=app-store&utm_campaign=email-read-in-app" style="font-family: system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';display: inline-block;font-weight: 500;border: 1px solid rgb(0,0,0,.1);border-radius: 9999px;text-transform: uppercase;font-size: 12px;line-height: 12px;padding: 9px 14px;text-decoration: none;color: rgb(119,119,119);"><div class="email-button-spacer" style="font-size: 16px;line-height: 26px;display: inline-block;vertical-align: middle;max-width: 0;min-height: 18px;"></div><span class="email-button-text" style="vertical-align: middle;margin-right: 4px">READ IN APP</span><img class="icon text-icon" src="https://substackcdn.com/image/fetch/w_36,c_scale,f_png,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack.com%2Ficon%2FLucideArrowUpRight%3Fv%3D4%26height%3D36%26fill%3Dnone%26stroke%3D%2523808080%26strokeWidth%3D2" width="18" height="18" style="min-width: 18px;min-height: 18px;border: none;vertical-align: middle;margin-right: 0;margin-left: 0;max-width: 18px" alt=""></a></td></tr></tbody></table></td></tr></tbody></table></td></tr></tbody></table></td></tr><tr height="16"><td height="16" style="font-size:0px;line-height:0;">&nbsp;</td></tr></tbody></table></div></div><div class="post typography" dir="auto" style="padding: 32px 0 0 0;font-size: 16px;line-height: 26px;"><div class="body markup" dir="auto" style="text-align: initial;font-size: 16px;line-height: 26px;width: 100%;word-break: break-word;margin-bottom: 16px;font-family: 'SF Pro Display', -apple-system, system-ui, BlinkMacSystemFont, 'Inter', 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';font-weight: 400;"><h3 class="header-anchor-post" style="position: relative;--highlight-bg: rgba(var(--color-bg-accent-themed-rgb), 0.2);font-family: 'SF Pro Display',-apple-system-headline,system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';font-weight: bold;-webkit-font-smoothing: antialiased;-moz-osx-font-smoothing: antialiased;-webkit-appearance: optimizelegibility;-moz-appearance: optimizelegibility;appearance: optimizelegibility;margin: 1em 0 0.625em 0;color: rgb(54,55,55);line-height: 1.16em;font-size: 1.375em;margin-top: 0;">Stream the Latest Episode</h3><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;"><strong><span>Listen and watch now on </span><a href="https://substack.com/redirect/c69403cc-7630-4464-b6a6-1a56795c8fba?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel="" style="color: rgb(54,55,55);text-decoration: underline;">YouTube</a><span>,  </span><a href="https://substack.com/redirect/c9b81716-40bf-4656-bddd-65b71f4bcb58?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel="" style="color: rgb(54,55,55);text-decoration: underline;">Spotify</a><span> and </span><a href="https://substack.com/redirect/5f113b26-95fc-4edd-8634-65cc0b8beeb8?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel="" style="color: rgb(54,55,55);text-decoration: underline;">Apple</a><span>.</span></strong><span> See the episode transcript at the top of this page, and timestamps for the episode at the bottom.</span></p><h3 class="header-anchor-post" style="position: relative;--highlight-bg: rgba(var(--color-bg-accent-themed-rgb), 0.2);font-family: 'SF Pro Display',-apple-system-headline,system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';font-weight: bold;-webkit-font-smoothing: antialiased;-moz-osx-font-smoothing: antialiased;-webkit-appearance: optimizelegibility;-moz-appearance: optimizelegibility;appearance: optimizelegibility;margin: 1em 0 0.625em 0;color: rgb(54,55,55);line-height: 1.16em;font-size: 1.375em;"><strong>Brought to You By</strong></h3><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;"><span>&#8226;&#8288; </span><strong><a href="https://substack.com/redirect/7bfcfc89-54f3-43d7-89f3-2d75f0ecf560?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel="" style="color: rgb(54,55,55);text-decoration: underline;">WorkOS</a></strong><span> &#8212; The modern identity platform for B2B SaaS.</span></p><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;"><span>&#8226;&#8288; </span><strong><a href="https://substack.com/redirect/3ac5bb36-4f4f-494d-943e-2796ab7785ed?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel="" style="color: rgb(54,55,55);text-decoration: underline;">Modal</a></strong><a href="https://substack.com/redirect/3ac5bb36-4f4f-494d-943e-2796ab7785ed?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel="" style="color: rgb(54,55,55);text-decoration: underline;">&#8288;</a><span> &#8212; The cloud platform for building AI applications.</span></p><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;"><span>&#8226;&#8288; </span><strong><a href="https://substack.com/redirect/bc0e8568-bbb7-48bd-aba1-2060b9c2e823?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel="" style="color: rgb(54,55,55);text-decoration: underline;">Cortex</a></strong><a href="https://substack.com/redirect/3ac5bb36-4f4f-494d-943e-2796ab7785ed?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel="" style="color: rgb(54,55,55);text-decoration: underline;">&#8288;</a><span> &#8212; Your Portal to Engineering Excellence.</span></p><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;">&#8212;</p><h3 class="header-anchor-post" style="position: relative;--highlight-bg: rgba(var(--color-bg-accent-themed-rgb), 0.2);font-family: 'SF Pro Display',-apple-system-headline,system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';font-weight: bold;-webkit-font-smoothing: antialiased;-moz-osx-font-smoothing: antialiased;-webkit-appearance: optimizelegibility;-moz-appearance: optimizelegibility;appearance: optimizelegibility;margin: 1em 0 0.625em 0;color: rgb(54,55,55);line-height: 1.16em;font-size: 1.375em;"><strong>In This Episode</strong></h3><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;"><strong>Kubernetes</strong><span> is the second-largest open-source project in the world. What does it actually do&#8212;and why is it so widely adopted?</span></p><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;"><span>In this episode of</span><em> The Pragmatic Engineer</em><span>, I&#8217;m joined by </span><strong><a href="https://substack.com/redirect/847069dc-7009-4828-9103-1347d7718c49?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel="" style="color: rgb(54,55,55);text-decoration: underline;">Kat Cosgrove</a></strong><span>, who has led several Kubernetes releases. Kat has been contributing to Kubernetes for several years, and originally got involved with the project through K3s (the lightweight Kubernetes distribution).</span></p><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;">In our conversation, we discuss how Kubernetes is structured, how it scales, and how the project is managed to avoid contributor burnout.</p><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;">We also go deep into:</p><ul style="margin-top: 0;padding: 0;"><li style="margin: 8px 0 0 32px;mso-special-format: bullet;"><p style="color: rgb(54,55,55);line-height: 26px;margin-bottom: 0;box-sizing: border-box;padding-left: 4px;font-size: 16px;margin: 0;">An overview of what Kubernetes is used for</p></li><li style="margin: 8px 0 0 32px;mso-special-format: bullet;"><p style="color: rgb(54,55,55);line-height: 26px;margin-bottom: 0;box-sizing: border-box;padding-left: 4px;font-size: 16px;margin: 0;">A breakdown of Kubernetes architecture: components, pods, and kubelets</p></li><li style="margin: 8px 0 0 32px;mso-special-format: bullet;"><p style="color: rgb(54,55,55);line-height: 26px;margin-bottom: 0;box-sizing: border-box;padding-left: 4px;font-size: 16px;margin: 0;">Why Google built Borg, and how it formed the basis of Kubernetes</p></li><li style="margin: 8px 0 0 32px;mso-special-format: bullet;"><p style="color: rgb(54,55,55);line-height: 26px;margin-bottom: 0;box-sizing: border-box;padding-left: 4px;font-size: 16px;margin: 0;">The benefits of large-scale open source projects&#8212;for companies, contributors, and the broader ecosystem</p></li><li style="margin: 8px 0 0 32px;mso-special-format: bullet;"><p style="color: rgb(54,55,55);line-height: 26px;margin-bottom: 0;box-sizing: border-box;padding-left: 4px;font-size: 16px;margin: 0;">The size and complexity of Kubernetes&#8212;and how it&#8217;s managed</p></li><li style="margin: 8px 0 0 32px;mso-special-format: bullet;"><p style="color: rgb(54,55,55);line-height: 26px;margin-bottom: 0;box-sizing: border-box;padding-left: 4px;font-size: 16px;margin: 0;">How the project protects contributors with anti-burnout policies</p></li><li style="margin: 8px 0 0 32px;mso-special-format: bullet;"><p style="color: rgb(54,55,55);line-height: 26px;margin-bottom: 0;box-sizing: border-box;padding-left: 4px;font-size: 16px;margin: 0;">The size and structure of the release team</p></li><li style="margin: 8px 0 0 32px;mso-special-format: bullet;"><p style="color: rgb(54,55,55);line-height: 26px;margin-bottom: 0;box-sizing: border-box;padding-left: 4px;font-size: 16px;margin: 0;">What KEPs are and how they shape Kubernetes features</p></li><li style="margin: 8px 0 0 32px;mso-special-format: bullet;"><p style="color: rgb(54,55,55);line-height: 26px;margin-bottom: 0;box-sizing: border-box;padding-left: 4px;font-size: 16px;margin: 0;">Kat&#8217;s views on GenAI, and why Kubernetes blocks using AI, at least for documentation</p></li><li style="margin: 8px 0 0 32px;mso-special-format: bullet;"><p style="color: rgb(54,55,55);line-height: 26px;margin-bottom: 0;box-sizing: border-box;padding-left: 4px;font-size: 16px;margin: 0;">Where Kat would like to see AI tools improve developer workflows</p></li><li style="margin: 8px 0 0 32px;mso-special-format: bullet;"><p style="color: rgb(54,55,55);line-height: 26px;margin-bottom: 0;box-sizing: border-box;padding-left: 4px;font-size: 16px;margin: 0;">Getting started as a contributor to Kubernetes&#8212;and the career and networking benefits that come with it</p></li><li style="margin: 8px 0 0 32px;mso-special-format: bullet;"><p style="color: rgb(54,55,55);line-height: 26px;margin-bottom: 0;box-sizing: border-box;padding-left: 4px;font-size: 16px;margin: 0;">And much more!</p></li></ul><a class="youtube-wrap" href="https://substack.com/redirect/639c4e25-3da2-4016-891f-284257dc2ccb?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" target="_blank" data-component-name="Youtube2ToDOMStatic" style="display: block;margin: 32px 0;"><img src="https://substackcdn.com/image/youtube/w_728,c_limit/l_youtube_play_qyqt8q,w_120/vBjonut1JMk" style="border: none !important;vertical-align: middle;-ms-interpolation-mode: bicubic;max-width: 100%;height: auto;margin: 0 auto;display: block;width: 100%;"></a><h2 class="header-anchor-post" style="position: relative;--highlight-bg: rgba(var(--color-bg-accent-themed-rgb), 0.2);font-family: 'SF Pro Display',-apple-system-headline,system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';font-weight: bold;-webkit-font-smoothing: antialiased;-moz-osx-font-smoothing: antialiased;-webkit-appearance: optimizelegibility;-moz-appearance: optimizelegibility;appearance: optimizelegibility;margin: 1em 0 0.625em 0;color: rgb(54,55,55);line-height: 1.16em;font-size: 1.625em;">Takeaways</h2><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;">Some of the most interesting topics discussed in the conversation were these:</p><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;"><strong>1. Kubernetes helps with managing large-scale backend applications. </strong><span>Google originally built an in-house tool to manage the tens of thousands (then hundreds of thousands and later millions) of machines: this internal tool is called Borg. The roots of Kubernetes come from Borg: but Google has since donated the project to the Cloud Native Computing Foundation (CNCF) &#8211; and today, Kubernetes is the second largest open source project, after Linux. </span><em><span>We previously did a deepdive on </span><a href="https://substack.com/redirect/2db19f1c-cdaf-4194-ac52-af3e27010ca6?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel="" style="color: rgb(54,55,55);text-decoration: underline;">How Linux is built</a><span>, and touched on Google&#8217;s SRE roots in </span><a href="https://substack.com/redirect/c6519081-3db6-4a5b-8d5a-2f407524387d?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel="" style="color: rgb(54,55,55);text-decoration: underline;">What is Reliability Engineering?</a></em></p><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;"><strong>2. Kubernetes is a very well-structured and organized open source project. </strong><span>The structure of the project and all processes are </span><a href="https://substack.com/redirect/08583780-c231-402b-8b7e-6650fbf96b4b?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel="" style="color: rgb(54,55,55);text-decoration: underline;">well documented</a><span>. The project has around 150-200 maintainers, has a few dozen SIGs (Special Interest Groups) and releases run on a 14-16 week cycle.</span></p><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;"><strong>3. The &#8220;lead&#8221; and &#8220;shadow&#8221; concept is a clever one, utilized by Kubernetes. </strong><span>The Release Team within Kubernetes owns releases, and the Release Team has about 20-30 people participating in each release. About half of the participants in the Release Team are &#8220;shadows&#8221; who get to learn on the job how a release is done &#8211; and, hopefully, in a release or two, become leads themselves!</span></p><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;"><span>Unlike most open source projects where getting a spot on the release team is based on long tenure and impactful contributions: the Kubernetes team recruits &#8220;shadows&#8221; people via an application process. Even those with no prior Kubernetes contributions are invited to join and participate. To get notified of </span><a href="https://substack.com/redirect/3a858acb-1c6b-4c5d-8dbe-81d4e7a73bd2?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel="" style="color: rgb(54,55,55);text-decoration: underline;">applications opening</a><span>, subscribe to the </span><a href="https://substack.com/redirect/3a858acb-1c6b-4c5d-8dbe-81d4e7a73bd2?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel="" style="color: rgb(54,55,55);text-decoration: underline;">relevant Kubernetes mailing lists</a><span>. </span><em>This is a very friendly policy &#8211; and another reminder that a project can come up with its own policies: no need to copy existing ones.</em></p><h4 class="header-anchor-post" style="position: relative;--highlight-bg: rgba(var(--color-bg-accent-themed-rgb), 0.2);font-family: 'SF Pro Display',-apple-system-headline,system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';font-weight: bold;-webkit-font-smoothing: antialiased;-moz-osx-font-smoothing: antialiased;-webkit-appearance: optimizelegibility;-moz-appearance: optimizelegibility;appearance: optimizelegibility;margin: 1em 0 0.625em 0;color: rgb(54,55,55);line-height: 1.16em;font-size: 1.125em;">An interesting quote: why did Kubernetes &#8220;win&#8221;?</h4><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;"><span>From the episode, starting at </span><a href="https://substack.com/redirect/99e399b0-df34-4e3b-8c46-4852c6700de4?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel="" style="color: rgb(54,55,55);text-decoration: underline;">29:26</a></p><blockquote style="border-left: 4px solid #FF6B00;margin: 20px 0;padding: 0;"><p style="margin: 0 0 20px 0;color: rgb(54,55,55);margin-left: 20px;line-height: 26px;font-size: 16px;"><strong>Gergely</strong><span>: &#8220;Why did Kubernetes win? What did it do so well?&#8221;</span></p><p style="margin: 0 0 20px 0;color: rgb(54,55,55);margin-left: 20px;line-height: 26px;font-size: 16px;"><strong>Kat</strong><span>: &#8220;I think we caught on early because of hype. Because of the Google name brand behind us and the association with Docker, which was already very popular. Google was a familiar company, donating a project that relied on a tool many were already familiar with (Kubernetes / Borg). And that got us an initial hype cycle.</span></p><p style="margin: 0 0 20px 0;color: rgb(54,55,55);margin-left: 20px;line-height: 26px;font-size: 16px;"><strong>The continued popularity of Kubernetes is at least in part due to our truly exceptional documentation. </strong><span>If Kubernetes does something that you can touch as a user, as a cluster admin, we have documented it. Kubernetes uses something in the release cycle called a Kubernetes enhancement proposal, a </span><a href="https://substack.com/redirect/4e8b3503-00d7-452b-a523-d16d0a79fff3?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel="" style="color: rgb(54,55,55);text-decoration: underline;">KEP</a><span>. This was inspired by Python's </span><a href="https://substack.com/redirect/e451744b-67c2-4fae-920b-719dcadaa5c9?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel="" style="color: rgb(54,55,55);text-decoration: underline;">PEP</a><span> (Python Enhancement Proposal).</span></p><p style="margin: 0 0 20px 0;color: rgb(54,55,55);margin-left: 20px;line-height: 26px;font-size: 16px;">One of the things we require for a KEP to be considered complete and thus, includable in a particular release is that it has a user-facing change at all &#8211; even if it's just a feature flag! &#8211; it must be documented, or we do not allow it in the release. </p><p style="margin: 0 0 20px 0;color: rgb(54,55,55);margin-left: 20px;line-height: 26px;font-size: 16px;"><span>Today, as we're recording this, this is actually the docs freeze for </span><a href="https://substack.com/redirect/b00ce1c2-2d6d-4d57-aff0-eb762ec653e3?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel="" style="color: rgb(54,55,55);text-decoration: underline;">Kubernetes version 1.33</a><span>. So today, a lot of KEP owners will either merge documentation, or I will revert their PRs!</span></p></blockquote><h2 class="header-anchor-post" style="position: relative;--highlight-bg: rgba(var(--color-bg-accent-themed-rgb), 0.2);font-family: 'SF Pro Display',-apple-system-headline,system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';font-weight: bold;-webkit-font-smoothing: antialiased;-moz-osx-font-smoothing: antialiased;-webkit-appearance: optimizelegibility;-moz-appearance: optimizelegibility;appearance: optimizelegibility;margin: 1em 0 0.625em 0;color: rgb(54,55,55);line-height: 1.16em;font-size: 1.625em;"><strong>The Pragmatic Engineer deepdives relevant for this episode</strong></h2><ul style="margin-top: 0;padding: 0;"><li style="margin: 8px 0 0 32px;mso-special-format: bullet;"><p style="color: rgb(54,55,55);line-height: 26px;margin-bottom: 0;box-sizing: border-box;padding-left: 4px;font-size: 16px;margin: 0;"><a href="https://substack.com/redirect/b8a5235a-8a59-4bbc-a797-f76dbb1adc6e?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel="" style="color: rgb(54,55,55);text-decoration: underline;">Backstage: an open source developer portal</a></p></li><li style="margin: 8px 0 0 32px;mso-special-format: bullet;"><p style="color: rgb(54,55,55);line-height: 26px;margin-bottom: 0;box-sizing: border-box;padding-left: 4px;font-size: 16px;margin: 0;"><a href="https://substack.com/redirect/9a8701f3-9110-4720-a244-4a2fca33b423?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel="" style="color: rgb(54,55,55);text-decoration: underline;">How Linux is built with Greg Kroah-Hartman</a></p></li><li style="margin: 8px 0 0 32px;mso-special-format: bullet;"><p style="color: rgb(54,55,55);line-height: 26px;margin-bottom: 0;box-sizing: border-box;padding-left: 4px;font-size: 16px;margin: 0;"><a href="https://substack.com/redirect/268bf3ae-82d8-49d9-931d-da5a9d157aba?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel="" style="color: rgb(54,55,55);text-decoration: underline;">Software engineers leading projects</a></p></li><li style="margin: 8px 0 0 32px;mso-special-format: bullet;"><p style="color: rgb(54,55,55);line-height: 26px;margin-bottom: 0;box-sizing: border-box;padding-left: 4px;font-size: 16px;margin: 0;"><a href="https://substack.com/redirect/6cd22475-d189-4c29-a588-40a7cf17190f?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel="" style="color: rgb(54,55,55);text-decoration: underline;">What TPMs do and what software engineers can learn from them</a></p></li><li style="margin: 8px 0 0 32px;mso-special-format: bullet;"><p style="color: rgb(54,55,55);line-height: 26px;margin-bottom: 0;box-sizing: border-box;padding-left: 4px;font-size: 16px;margin: 0;"><a href="https://substack.com/redirect/424875ce-8897-4fc5-bb7c-89e5194ef152?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel="" style="color: rgb(54,55,55);text-decoration: underline;">Engineering career paths at Big Tech and scaleups</a></p></li></ul><h2 class="header-anchor-post" style="position: relative;--highlight-bg: rgba(var(--color-bg-accent-themed-rgb), 0.2);font-family: 'SF Pro Display',-apple-system-headline,system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';font-weight: bold;-webkit-font-smoothing: antialiased;-moz-osx-font-smoothing: antialiased;-webkit-appearance: optimizelegibility;-moz-appearance: optimizelegibility;appearance: optimizelegibility;margin: 1em 0 0.625em 0;color: rgb(54,55,55);line-height: 1.16em;font-size: 1.625em;"><strong>Timestamps</strong></h2><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;"><span>(</span><a href="https://substack.com/redirect/639c4e25-3da2-4016-891f-284257dc2ccb?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel="" style="color: rgb(54,55,55);text-decoration: underline;">00:00</a><span>) Intro</span></p><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;"><span>(</span><a href="https://substack.com/redirect/f0084703-b0fe-410e-96d7-93808a8d062c?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel="" style="color: rgb(54,55,55);text-decoration: underline;">02:02</a><span>) An overview of Kubernetes and who it&#8217;s for</span></p><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;"><span>(</span><a href="https://substack.com/redirect/28ecec83-4ce9-48e5-a2de-49499be843a2?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel="" style="color: rgb(54,55,55);text-decoration: underline;">04:27</a><span>) A quick glimpse at the architecture: Kubernetes components, pods, and cubelets</span></p><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;"><span>(</span><a href="https://substack.com/redirect/7e7557db-83cd-4606-a938-72f70491f62d?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel="" style="color: rgb(54,55,55);text-decoration: underline;">07:00</a><span>) Containers vs. virtual machines</span></p><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;"><span>(</span><a href="https://substack.com/redirect/3928d9ef-3e77-4d2e-8a34-7f300ff2712f?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel="" style="color: rgb(54,55,55);text-decoration: underline;">10:02</a><span>) The origins of Kubernetes</span></p><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;"><span>(</span><a href="https://substack.com/redirect/55c19ef8-6a89-412b-91f7-f079c5ebd3bd?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel="" style="color: rgb(54,55,55);text-decoration: underline;">12:30</a><span>) Why Google built Borg, and why they made it an open source project</span></p><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;"><span>(</span><a href="https://substack.com/redirect/fd34e705-c577-47bf-b2d8-ce941b446a0d?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel="" style="color: rgb(54,55,55);text-decoration: underline;">15:51</a><span>) The benefits of open source projects</span></p><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;"><span>(</span><a href="https://substack.com/redirect/d9457c84-ac90-4235-88c2-af0f554cf2c0?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel="" style="color: rgb(54,55,55);text-decoration: underline;">17:25</a><span>) The size of Kubernetes</span></p><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;"><span>(</span><a href="https://substack.com/redirect/047ea10c-5952-49c7-82af-21828ca9e31d?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel="" style="color: rgb(54,55,55);text-decoration: underline;">20:55</a><span>) Cluster management solutions, including different Kubernetes services</span></p><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;"><span>(</span><a href="https://substack.com/redirect/a9a14501-da5b-4ddd-afae-c86d3e41690a?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel="" style="color: rgb(54,55,55);text-decoration: underline;">21:48</a><span>) Why people contribute to Kubernetes</span></p><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;"><span>(</span><a href="https://substack.com/redirect/858d0193-74a2-41e7-8134-95992c01c8ee?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel="" style="color: rgb(54,55,55);text-decoration: underline;">25:47</a><span>) The anti-burnout policies Kubernetes has in place</span></p><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;"><span>(</span><a href="https://substack.com/redirect/cf1a2687-e51f-4d21-97c1-60da0386352c?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel="" style="color: rgb(54,55,55);text-decoration: underline;">29:07</a><span>) Why Kubernetes is so popular</span></p><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;"><span>(</span><a href="https://substack.com/redirect/016254ed-395d-4bc4-a56d-db175af0d490?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel="" style="color: rgb(54,55,55);text-decoration: underline;">33:34</a><span>) Why documentation is a good place to get started contributing to an open-source project</span></p><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;"><span>(</span><a href="https://substack.com/redirect/1653f698-f1ba-4ce8-be72-80893a1383ba?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel="" style="color: rgb(54,55,55);text-decoration: underline;">35:15</a><span>) The structure of the Kubernetes release team</span></p><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;"><span>(</span><a href="https://substack.com/redirect/35c96e73-0f24-4197-9296-3e97c4472564?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel="" style="color: rgb(54,55,55);text-decoration: underline;">40:55</a><span>) How responsibilities shift as engineers grow into senior positions</span></p><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;"><span>(</span><a href="https://substack.com/redirect/1a166b98-7db0-411f-95f3-d5e9c432eec9?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel="" style="color: rgb(54,55,55);text-decoration: underline;">44:37</a><span>) Using a KEP to propose a new feature&#8212;and what&#8217;s next</span></p><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;"><span>(</span><a href="https://substack.com/redirect/0b70c3c7-70ad-44d7-a27f-0d8f1a792007?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel="" style="color: rgb(54,55,55);text-decoration: underline;">48:20</a><span>) Feature flags in Kubernetes</span></p><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;"><span>(</span><a href="https://substack.com/redirect/a53bddfe-fcd2-4190-b41d-2acf20e21582?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel="" style="color: rgb(54,55,55);text-decoration: underline;">52:04</a><span>) Why Kat thinks most GenAI tools are scams&#8212;and why Kubernetes blocks their use</span></p><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;"><span>(</span><a href="https://substack.com/redirect/f123255e-3e49-4c77-aff1-d973fd3ad4fa?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel="" style="color: rgb(54,55,55);text-decoration: underline;">55:04</a><span>) The use cases Kat would like to have AI tools for</span></p><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;"><span>(</span><a href="https://substack.com/redirect/df39a9a4-454b-4f11-9ecc-4538f8ce4fa2?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel="" style="color: rgb(54,55,55);text-decoration: underline;">58:20</a><span>) When to use Kubernetes</span></p><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;"><span>(</span><a href="https://substack.com/redirect/2f3bdc50-d348-4e8e-b145-60192c284b9f?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel="" style="color: rgb(54,55,55);text-decoration: underline;">1:01:25</a><span>) Getting started with Kubernetes</span></p><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;"><span>(</span><a href="https://substack.com/redirect/0d71d101-ec6f-42d4-883d-501786653c1a?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel="" style="color: rgb(54,55,55);text-decoration: underline;">1:04:24</a><span>) How contributing to an open source project is a good way to build your network</span></p><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;"><span>(</span><a href="https://substack.com/redirect/39a97afd-43b9-4cfc-b14c-0537905eb258?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel="" style="color: rgb(54,55,55);text-decoration: underline;">1:05:51</a><span>) Rapid fire round</span></p><h2 class="header-anchor-post" style="position: relative;--highlight-bg: rgba(var(--color-bg-accent-themed-rgb), 0.2);font-family: 'SF Pro Display',-apple-system-headline,system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';font-weight: bold;-webkit-font-smoothing: antialiased;-moz-osx-font-smoothing: antialiased;-webkit-appearance: optimizelegibility;-moz-appearance: optimizelegibility;appearance: optimizelegibility;margin: 1em 0 0.625em 0;color: rgb(54,55,55);line-height: 1.16em;font-size: 1.625em;"><strong>References</strong></h2><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;"><strong>Where to find Kat Cosgrove:</strong></p><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;"><span>&#8226; Bluesky: </span><a href="https://substack.com/redirect/dfdb0f43-0bfc-4deb-9018-1496c196a4d8?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel="" style="color: rgb(54,55,55);text-decoration: underline;">https://bsky.app/profile/kat.lol</a></p><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;"><span>&#8226; LinkedIn: </span><a href="https://substack.com/redirect/847069dc-7009-4828-9103-1347d7718c49?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel="" style="color: rgb(54,55,55);text-decoration: underline;">https://www.linkedin.com/in/katcosgrove/</a></p><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;"><strong>Mentions during the episode:</strong></p><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;"><span>&#8226; Kubernetes: </span><a href="https://substack.com/redirect/f87a0821-beaf-42d2-a1c8-6a4527033cf9?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel="" style="color: rgb(54,55,55);text-decoration: underline;">https://kubernetes.io/</a></p><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;"><span>&#8226; Docker: </span><a href="https://substack.com/redirect/141058ee-8600-4545-b185-488ffcad9c73?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel="" style="color: rgb(54,55,55);text-decoration: underline;">https://www.docker.com/</a></p><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;"><span>&#8226; Mesos: </span><a href="https://substack.com/redirect/141058ee-8600-4545-b185-488ffcad9c73?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel="" style="color: rgb(54,55,55);text-decoration: underline;">https://mesos.apache.org/</a></p><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;"><span>&#8226; Borg: </span><a href="https://substack.com/redirect/07ab20c2-c224-4d9b-8d88-aadeed445a72?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel="" style="color: rgb(54,55,55);text-decoration: underline;">https://en.wikipedia.org/wiki/Borg_(cluster_manager)</a></p><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;"><span>&#8226; The Linux Foundation: </span><a href="https://substack.com/redirect/e56a5678-65fe-44a7-ae48-6eee2a419333?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel="" style="color: rgb(54,55,55);text-decoration: underline;">https://www.linuxfoundation.org/</a></p><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;"><span>&#8226; Cloud Native Computing Foundation: </span><a href="https://substack.com/redirect/135be81a-6344-49d1-a75b-d0b57f2de818?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel="" style="color: rgb(54,55,55);text-decoration: underline;">https://www.cncf.io/</a></p><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;"><span>&#8226; Joe Beda on LinkedIn: </span><a href="https://substack.com/redirect/0d437404-e8e9-4869-9251-13ae1693c8cb?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel="" style="color: rgb(54,55,55);text-decoration: underline;">https://www.linkedin.com/in/jbeda/</a></p><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;"><span>&#8226; Seven of Nine&#8221; </span><a href="https://substack.com/redirect/6926feb8-1cbf-4595-868f-6356455b5cdf?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel="" style="color: rgb(54,55,55);text-decoration: underline;">https://en.wikipedia.org/wiki/Seven_of_Nine</a></p><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;"><span>&#8226; What is Reliability Engineering?: </span><a href="https://substack.com/redirect/c6519081-3db6-4a5b-8d5a-2f407524387d?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel="" style="color: rgb(54,55,55);text-decoration: underline;">https://newsletter.pragmaticengineer.com/p/reliability-engineering</a></p><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;"><span>&#8226; Dave O&#8217;Conner on LinkedIn: </span><a href="https://substack.com/redirect/705db95d-f317-4549-9b17-316165bb48de?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel="" style="color: rgb(54,55,55);text-decoration: underline;">https://www.linkedin.com/in/gerrowadat/</a></p><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;"><span>&#8226; Spotify for Backstage: </span><a href="https://substack.com/redirect/92bc0677-498d-417d-b32d-4d3651e0ccd0?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel="" style="color: rgb(54,55,55);text-decoration: underline;">https://backstage.spotify.com/</a></p><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;"><span>&#8226; Azure Kubernetes Service: </span><a href="https://substack.com/redirect/ffda6f3b-8451-4696-8622-db2d9d9e596e?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel="" style="color: rgb(54,55,55);text-decoration: underline;">https://azure.microsoft.com/en-us/products/kubernetes-service</a></p><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;"><span>&#8226; Oracle Kubernetes Engine: </span><a href="https://substack.com/redirect/b122077a-f25c-4314-a533-7da9d06f53b5?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel="" style="color: rgb(54,55,55);text-decoration: underline;">https://www.oracle.com/cloud/cloud-native/kubernetes-engine/</a></p><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;"><span>&#8226; RedHat Openshift: </span><a href="https://substack.com/redirect/4d61d5f5-b4ed-429b-b6c9-88792a506ca4?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel="" style="color: rgb(54,55,55);text-decoration: underline;">https://www.redhat.com/en/technologies/cloud-computing/openshift/</a></p><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;"><span>&#8226; VMware Tanzu: </span><a href="https://substack.com/redirect/870bf794-b88a-4919-b4b9-3d083722b483?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel="" style="color: rgb(54,55,55);text-decoration: underline;">https://www.vmware.com/products/app-platform/tanzu</a></p><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;"><span>&#8226; 2347: Dependency: </span><a href="https://substack.com/redirect/0e7ec95b-d460-4380-87cb-39c435a72c93?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel="" style="color: rgb(54,55,55);text-decoration: underline;">https://www.explainxkcd.com/wiki/index.php/2347:_Dependency</a></p><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;"><span>&#8226; Inside Linear's Engineering Culture: </span><a href="https://substack.com/redirect/bf415aa3-10e9-4fc8-887e-ae243a3e604f?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel="" style="color: rgb(54,55,55);text-decoration: underline;">https://newsletter.pragmaticengineer.com/p/linear</a></p><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;"><span>&#8226; Linear: move fast with little process (with first engineering manager Sabin Roman): </span><a href="https://substack.com/redirect/0762abc1-3481-4cbe-84ba-c03b705fd112?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel="" style="color: rgb(54,55,55);text-decoration: underline;">https://newsletter.pragmaticengineer.com/p/linear-move-fast-with-little-process</a></p><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;"><span>&#8226; Linear: </span><a href="https://substack.com/redirect/41b8b267-f505-483c-8dd8-3ba8be6c44d8?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel="" style="color: rgb(54,55,55);text-decoration: underline;">https://linear.app/</a></p><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;"><span>&#8226; PEP: </span><a href="https://substack.com/redirect/e7298d4e-efc4-4528-aec9-235706e26041?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel="" style="color: rgb(54,55,55);text-decoration: underline;">https://peps.python.org/pep-0001/</a></p><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;"><span>&#8226; Google Kubernetes Engine: </span><a href="https://substack.com/redirect/7390d30c-e869-4b15-9726-4b594cb492c0?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel="" style="color: rgb(54,55,55);text-decoration: underline;">https://cloud.google.com/kubernetes-engine</a></p><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;"><span>&#8226; How Linux is built with Greg Kroah-Hartman: </span><a href="https://substack.com/redirect/2db19f1c-cdaf-4194-ac52-af3e27010ca6?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel="" style="color: rgb(54,55,55);text-decoration: underline;">https://newsletter.pragmaticengineer.com/p/how-linux-is-built-with-greg-kroah</a></p><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;"><span>&#8226; KEPs: </span><a href="https://substack.com/redirect/4e8b3503-00d7-452b-a523-d16d0a79fff3?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel="" style="color: rgb(54,55,55);text-decoration: underline;">https://www.kubernetes.dev/resources/keps/</a></p><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;"><span>&#8226; The Philosophy of Software Design &#8211; with John Ousterhout: </span><a href="https://substack.com/redirect/39da45f1-02c7-4e8a-95b0-7190f1c31d8f?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel="" style="color: rgb(54,55,55);text-decoration: underline;">https://newsletter.pragmaticengineer.com/p/the-philosophy-of-software-design</a></p><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;"><span>&#8226; Python: </span><a href="https://substack.com/redirect/b7b53296-de5d-4524-a717-82b2baa2e7e3?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel="" style="color: rgb(54,55,55);text-decoration: underline;">https://www.python.org/</a></p><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;"><span>&#8226; A Fire Upon the Deep: </span><a href="https://substack.com/redirect/1d0284f5-abf8-4613-8dd8-f6860082ccdd?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel="" style="color: rgb(54,55,55);text-decoration: underline;">https://www.amazon.com/Fire-Upon-Deep-Zones-Thought/dp/0812515285</a></p><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;"><span>&#8226; Kubernetes on Slack: </span><a href="https://substack.com/redirect/871c06da-b0b8-4aa8-9b97-c6414913b520?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel="" style="color: rgb(54,55,55);text-decoration: underline;">https://communityinviter.com/apps/kubernetes/community</a></p><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;">&#8212;</p><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;margin-bottom: 0;"><span>Production and marketing by </span><a href="https://substack.com/redirect/0939bc15-cb80-4e47-95d2-24849d4756f3?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel="" style="color: rgb(54,55,55);text-decoration: underline;">Pen Name</a><span>. </span></p></div></div><div class="container-border" style="margin: 32px 0 0;width: 100%;box-sizing: border-box;border-top: 1px solid #e6e6e6;font-size: 16px;line-height: 26px;"></div><div class="typography" style="font-size: 16px;line-height: 26px;"><div class="postscript" style="margin: 32px 0;font-size: 16px;line-height: 26px;"><div class="body markup" dir="auto" style="text-align: initial;font-size: 16px;line-height: 26px;width: 100%;word-break: break-word;margin-bottom: 16px;"><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;margin-top: 0;"><em>You&#8217;re on the free list for&nbsp;</em><a href="https://substack.com/redirect/2/eyJlIjoiaHR0cHM6Ly9uZXdzbGV0dGVyLnByYWdtYXRpY2VuZ2luZWVyLmNvbT91dG1fY2FtcGFpZ249ZW1haWwtaG9tZSZyPThvNTRuIiwicCI6MTYzNTA2NTg4LCJzIjo0NTg3MDksImYiOnRydWUsInUiOjE0NTYzMzE5LCJpYXQiOjE3NDcyNDI0NDEsImV4cCI6MTc0OTgzNDQ0MSwiaXNzIjoicHViLTAiLCJzdWIiOiJsaW5rLXJlZGlyZWN0In0.Y1_AyPwUtUXwQ5MjtnDUyo8ywuK6S92D3pPISLLFLZc?" rel="" style="color: rgb(54,55,55);text-decoration: underline;">The Pragmatic Engineer</a><em><span>. For the full experience,&nbsp;</span><a href="https://substack.com/redirect/2/eyJlIjoiaHR0cHM6Ly9uZXdzbGV0dGVyLnByYWdtYXRpY2VuZ2luZWVyLmNvbS9zdWJzY3JpYmU_dXRtX3NvdXJjZT1wb3N0JnV0bV9jYW1wYWlnbj1lbWFpbC1jaGVja291dCZuZXh0PWh0dHBzJTNBJTJGJTJGbmV3c2xldHRlci5wcmFnbWF0aWNlbmdpbmVlci5jb20lMkZwJTJGaG93LWt1YmVybmV0ZXMtaXMtYnVpbHQtd2l0aC1rYXQmcj04bzU0biZ0b2tlbj1leUoxYzJWeVgybGtJam94TkRVMk16TXhPU3dpYVdGMElqb3hOelEzTWpReU5EUXhMQ0psZUhBaU9qRTNORGs0TXpRME5ERXNJbWx6Y3lJNkluQjFZaTAwTlRnM01Ea2lMQ0p6ZFdJaU9pSmphR1ZqYTI5MWRDSjkuUDBrZFBubV93dFZSZUhUWWtERno1RW5OWjJaMDd4dnlCRGQ3Mkp5ZFl5OCIsInAiOjE2MzUwNjU4OCwicyI6NDU4NzA5LCJmIjp0cnVlLCJ1IjoxNDU2MzMxOSwiaWF0IjoxNzQ3MjQyNDQxLCJleHAiOjE3NDk4MzQ0NDEsImlzcyI6InB1Yi0wIiwic3ViIjoibGluay1yZWRpcmVjdCJ9.AT4V7bTbEXj6dH_Y8GqZMIfvsiVmheERVgyJPKasyn4?" rel="" style="color: rgb(54,55,55);text-decoration: underline;">become a paying subscriber</a><span>. Many readers expense this newsletter within their company&#8217;s training/learning/development budget.</span></em></p><div class="subscribe-widget is-signed-up" data-component-name="SubscribeWidget" style="margin: 0 0 1em;direction: ltr;font-size: 16px;line-height: 26px;"><div class="pencraft pc-reset button-wrapper" style="text-decoration: unset;list-style: none;font-size: 16px;line-height: 26px;text-align: center;cursor: pointer;border-radius: 4px;"><a class="button subscribe-btn primary" href="https://substack.com/redirect/2/eyJlIjoiaHR0cHM6Ly9uZXdzbGV0dGVyLnByYWdtYXRpY2VuZ2luZWVyLmNvbS9zdWJzY3JpYmU_dXRtX3NvdXJjZT1wb3N0JnV0bV9jYW1wYWlnbj1lbWFpbC1jaGVja291dCZuZXh0PWh0dHBzJTNBJTJGJTJGbmV3c2xldHRlci5wcmFnbWF0aWNlbmdpbmVlci5jb20lMkZwJTJGaG93LWt1YmVybmV0ZXMtaXMtYnVpbHQtd2l0aC1rYXQmcj04bzU0biZ0b2tlbj1leUoxYzJWeVgybGtJam94TkRVMk16TXhPU3dpYVdGMElqb3hOelEzTWpReU5EUXhMQ0psZUhBaU9qRTNORGs0TXpRME5ERXNJbWx6Y3lJNkluQjFZaTAwTlRnM01Ea2lMQ0p6ZFdJaU9pSmphR1ZqYTI5MWRDSjkuUDBrZFBubV93dFZSZUhUWWtERno1RW5OWjJaMDd4dnlCRGQ3Mkp5ZFl5OCIsInAiOjE2MzUwNjU4OCwicyI6NDU4NzA5LCJmIjp0cnVlLCJ1IjoxNDU2MzMxOSwiaWF0IjoxNzQ3MjQyNDQxLCJleHAiOjE3NDk4MzQ0NDEsImlzcyI6InB1Yi0wIiwic3ViIjoibGluay1yZWRpcmVjdCJ9.AT4V7bTbEXj6dH_Y8GqZMIfvsiVmheERVgyJPKasyn4?&utm_medium=email&utm_source=subscribe-widget&utm_content=163506588" style="font-family: system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';display: inline-block;box-sizing: border-box;cursor: pointer;border: none;border-radius: 8px;font-size: 14px;line-height: 20px;font-weight: 600;text-align: center;opacity: 1;outline: none;white-space: nowrap;text-decoration: none !important;background-color: #FF6B00;color: #ffffff !important;margin: 0 auto;padding: 12px 20px;height: auto;"><span style="color: #ffffff;text-decoration: none;">Upgrade to paid</span></a></div></div><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;">This post is public, so feel free to share and forward it.</p><p class="button-wrapper" data-attrs="{&quot;url&quot;:&quot;https://substack.com/redirect/2/eyJlIjoiaHR0cHM6Ly9uZXdzbGV0dGVyLnByYWdtYXRpY2VuZ2luZWVyLmNvbS8_dXRtX3NvdXJjZT1zdWJzdGFjayZ1dG1fbWVkaXVtPWVtYWlsJnV0bV9jb250ZW50PXNoYXJlJmFjdGlvbj1zaGFyZSIsInAiOjE2MzUwNjU4OCwicyI6NDU4NzA5LCJmIjp0cnVlLCJ1IjoxNDU2MzMxOSwiaWF0IjoxNzQ3MjQyNDQxLCJleHAiOjE3NDk4MzQ0NDEsImlzcyI6InB1Yi0wIiwic3ViIjoibGluay1yZWRpcmVjdCJ9.xezMkpWcaYMrCks9eLl_GGzvOBb-vP6zQB1MFazZZMI?&quot;,&quot;text&quot;:&quot;Share The Pragmatic Engineer&quot;,&quot;action&quot;:null,&quot;class&quot;:null}" data-component-name="ButtonCreateButton" style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;text-align: center;cursor: pointer;border-radius: 4px;"><a class="button primary" href="https://substack.com/redirect/2/eyJlIjoiaHR0cHM6Ly9uZXdzbGV0dGVyLnByYWdtYXRpY2VuZ2luZWVyLmNvbS8_dXRtX3NvdXJjZT1zdWJzdGFjayZ1dG1fbWVkaXVtPWVtYWlsJnV0bV9jb250ZW50PXNoYXJlJmFjdGlvbj1zaGFyZSIsInAiOjE2MzUwNjU4OCwicyI6NDU4NzA5LCJmIjp0cnVlLCJ1IjoxNDU2MzMxOSwiaWF0IjoxNzQ3MjQyNDQxLCJleHAiOjE3NDk4MzQ0NDEsImlzcyI6InB1Yi0wIiwic3ViIjoibGluay1yZWRpcmVjdCJ9.xezMkpWcaYMrCks9eLl_GGzvOBb-vP6zQB1MFazZZMI?" rel="" style="font-family: system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';display: inline-block;box-sizing: border-box;cursor: pointer;border: none;border-radius: 8px;font-size: 14px;line-height: 20px;font-weight: 600;text-align: center;margin: 0;opacity: 1;outline: none;white-space: nowrap;color: #ffffff !important;text-decoration: none !important;background-color: #FF6B00;padding: 12px 20px;height: auto;"><span style="color: #ffffff;text-decoration: none;">Share The Pragmatic Engineer</span></a></p><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;"><span>If you enjoyed this post, you might enjoy my book, </span><strong><a href="https://substack.com/redirect/da77f2af-9692-47bd-bedc-76b812c30b98?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel="" style="color: rgb(54,55,55);text-decoration: underline;">The Software Engineer's Guidebook</a></strong><span>. Here is what Tanya Reilly, senior principal engineer and author of The Staff Engineer's Path said about it:</span></p><blockquote style="border-left: 4px solid #FF6B00;margin: 20px 0;padding: 0;"><p style="margin: 0 0 20px 0;color: rgb(54,55,55);margin-left: 20px;line-height: 26px;font-size: 16px;"><span>"From performance reviews to P95 latency, from team dynamics to testing, Gergely demystifies all aspects of a software career. This book is well named: </span><strong>it really does feel like the missing guidebook for the whole industry.</strong><span>"</span></p></blockquote><p class="button-wrapper" data-attrs="{&quot;url&quot;:&quot;https://www.engguidebook.com/&quot;,&quot;text&quot;:&quot;Get The Software Engineer's Guidebook&quot;,&quot;action&quot;:null,&quot;class&quot;:null}" data-component-name="ButtonCreateButton" style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;text-align: center;cursor: pointer;border-radius: 4px;"><a class="button primary" href="https://substack.com/redirect/da77f2af-9692-47bd-bedc-76b812c30b98?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel="" style="font-family: system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';display: inline-block;box-sizing: border-box;cursor: pointer;border: none;border-radius: 8px;font-size: 14px;line-height: 20px;font-weight: 600;text-align: center;margin: 0;opacity: 1;outline: none;white-space: nowrap;color: #ffffff !important;text-decoration: none !important;background-color: #FF6B00;padding: 12px 20px;height: auto;"><span style="color: #ffffff;text-decoration: none;">Get The Software Engineer's Guidebook</span></a></p><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;margin-bottom: 0;"></p></div></div></div><table class="email-ufi-2-bottom" role="presentation" width="100%" border="0" cellspacing="0" cellpadding="0" style="border-top: 1px solid rgb(0,0,0,.1);border-bottom: 1px solid rgb(0,0,0,.1);min-width: 100%;"><tbody><tr height="16"><td height="16" style="font-size:0px;line-height:0;">&nbsp;</td></tr><tr><td><table class="email-ufi-2-row" role="presentation" width="100%" border="0" cellspacing="0" cellpadding="0" style="border-bottom: 1px solid rgb(0,0,0,.1);"><tbody><tr><td width="95%"><table class="email-button-outline-wrapper-full-width" role="presentation" width="auto" border="0" cellspacing="0" cellpadding="0" style="width: 95%;margin: 0 auto;"><tbody><tr><td align="center"><a class="email-button-outline full-width" href="https://substack.com/app-link/post?publication_id=458709&post_id=163506588&utm_source=substack&utm_medium=email&utm_content=share&utm_campaign=email-share&action=share&triggerShare=true&isFreemail=true&r=8o54n&token=eyJ1c2VyX2lkIjoxNDU2MzMxOSwicG9zdF9pZCI6MTYzNTA2NTg4LCJpYXQiOjE3NDcyNDI0NDEsImV4cCI6MTc0OTgzNDQ0MSwiaXNzIjoicHViLTQ1ODcwOSIsInN1YiI6InBvc3QtcmVhY3Rpb24ifQ.9pNGrn6PQU7o2v9fXjH1r77v6KlriuHq9X874cga7x8" style="font-family: system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';display: inline-block;font-weight: 500;border: 1px solid rgb(0,0,0,.1);border-radius: 9999px;text-transform: uppercase;font-size: 12px;line-height: 12px;padding: 9px 14px;text-decoration: none;color: rgb(119,119,119);width: 100%;padding-left: 0;padding-right: 0;"><img class="icon" src="https://substackcdn.com/image/fetch/w_36,c_scale,f_png,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack.com%2Ficon%2FLucideShare%3Fv%3D4%26height%3D36%26fill%3Dnone%26stroke%3D%2523808080%26strokeWidth%3D2" width="18" height="18" style="margin-right: 8px;min-width: 18px;min-height: 18px;border: none;vertical-align: middle;max-width: 18px" alt=""><span class="email-button-text" style="vertical-align: middle;">Share</span></a></td></tr></tbody></table></td></tr><tr height="16"><td height="16" style="font-size:0px;line-height:0;">&nbsp;</td></tr></tbody></table></td></tr><tr height="16"><td height="16" style="font-size:0px;line-height:0;">&nbsp;</td></tr><tr><td><table role="presentation" width="100%" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td><table role="presentation" width="auto" border="0" cellspacing="0" cellpadding="0" style="margin:0 auto;"><tbody><tr><td style="vertical-align:middle;"><table role="presentation" width="auto" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td align="center"><a class="email-button-outline" href="https://substack.com/app-link/post?publication_id=458709&post_id=163506588&utm_source=substack&isFreemail=true&submitLike=true&token=eyJ1c2VyX2lkIjoxNDU2MzMxOSwicG9zdF9pZCI6MTYzNTA2NTg4LCJyZWFjdGlvbiI6IuKdpCIsImlhdCI6MTc0NzI0MjQ0MSwiZXhwIjoxNzQ5ODM0NDQxLCJpc3MiOiJwdWItNDU4NzA5Iiwic3ViIjoicmVhY3Rpb24ifQ.CDwpLWQCZ8T_A5gS4RqSUw80pyR5vepP8zVQGg5fZXM&utm_medium=email&utm_campaign=email-reaction&r=8o54n" style="font-family: system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';display: inline-block;font-weight: 500;border: 1px solid rgb(0,0,0,.1);border-radius: 9999px;text-transform: uppercase;font-size: 12px;line-height: 12px;padding: 9px 14px;text-decoration: none;color: rgb(119,119,119);"><img class="icon" src="https://substackcdn.com/image/fetch/w_36,c_scale,f_png,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack.com%2Ficon%2FLucideHeart%3Fv%3D4%26height%3D36%26fill%3Dnone%26stroke%3D%2523808080%26strokeWidth%3D2" width="18" height="18" style="margin-right: 8px;min-width: 18px;min-height: 18px;border: none;vertical-align: middle;max-width: 18px" alt=""><span class="email-button-text" style="vertical-align: middle;">Like</span></a></td></tr></tbody></table></td><td width="8" style="min-width: 8px"></td><td style="vertical-align:middle;"><table role="presentation" width="auto" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td align="center"><a class="email-button-outline" href="https://substack.com/app-link/post?publication_id=458709&post_id=163506588&utm_source=substack&utm_medium=email&isFreemail=true&comments=true&token=eyJ1c2VyX2lkIjoxNDU2MzMxOSwicG9zdF9pZCI6MTYzNTA2NTg4LCJpYXQiOjE3NDcyNDI0NDEsImV4cCI6MTc0OTgzNDQ0MSwiaXNzIjoicHViLTQ1ODcwOSIsInN1YiI6InBvc3QtcmVhY3Rpb24ifQ.9pNGrn6PQU7o2v9fXjH1r77v6KlriuHq9X874cga7x8&r=8o54n&utm_campaign=email-half-magic-comments&action=post-comment&utm_source=substack&utm_medium=email" style="font-family: system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';display: inline-block;font-weight: 500;border: 1px solid rgb(0,0,0,.1);border-radius: 9999px;text-transform: uppercase;font-size: 12px;line-height: 12px;padding: 9px 14px;text-decoration: none;color: rgb(119,119,119);"><img class="icon" src="https://substackcdn.com/image/fetch/w_36,c_scale,f_png,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack.com%2Ficon%2FLucideComments%3Fv%3D4%26height%3D36%26fill%3Dnone%26stroke%3D%2523808080%26strokeWidth%3D2" width="18" height="18" style="margin-right: 8px;min-width: 18px;min-height: 18px;border: none;vertical-align: middle;max-width: 18px" alt=""><span class="email-button-text" style="vertical-align: middle;">Comment</span></a></td></tr></tbody></table></td><td width="8" style="min-width: 8px"></td><td style="vertical-align:middle;"><table role="presentation" width="auto" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td align="center"><a class="email-button-outline" href="https://substack.com/redirect/2/eyJlIjoiaHR0cHM6Ly9vcGVuLnN1YnN0YWNrLmNvbS9wdWIvcHJhZ21hdGljZW5naW5lZXIvcC9ob3cta3ViZXJuZXRlcy1pcy1idWlsdC13aXRoLWthdD91dG1fc291cmNlPXN1YnN0YWNrJnV0bV9tZWRpdW09ZW1haWwmdXRtX2NhbXBhaWduPWVtYWlsLXJlc3RhY2stY29tbWVudCZhY3Rpb249cmVzdGFjay1jb21tZW50JnI9OG81NG4mdG9rZW49ZXlKMWMyVnlYMmxrSWpveE5EVTJNek14T1N3aWNHOXpkRjlwWkNJNk1UWXpOVEEyTlRnNExDSnBZWFFpT2pFM05EY3lOREkwTkRFc0ltVjRjQ0k2TVRjME9UZ3pORFEwTVN3aWFYTnpJam9pY0hWaUxUUTFPRGN3T1NJc0luTjFZaUk2SW5CdmMzUXRjbVZoWTNScGIyNGlmUS45cE5Hcm42UFFVN28ydjlmWGpIMXI3N3Y2S2xyaXVIcTlYODc0Y2dhN3g4IiwicCI6MTYzNTA2NTg4LCJzIjo0NTg3MDksImYiOnRydWUsInUiOjE0NTYzMzE5LCJpYXQiOjE3NDcyNDI0NDEsImV4cCI6MTc0OTgzNDQ0MSwiaXNzIjoicHViLTAiLCJzdWIiOiJsaW5rLXJlZGlyZWN0In0.BkgC6p1K2c2mgw3rGXmNZ4WR466m_XBKWq3jdBSMTfw?&utm_source=substack&utm_medium=email" style="font-family: system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';display: inline-block;font-weight: 500;border: 1px solid rgb(0,0,0,.1);border-radius: 9999px;text-transform: uppercase;font-size: 12px;line-height: 12px;padding: 9px 14px;text-decoration: none;color: rgb(119,119,119);"><img class="icon" src="https://substackcdn.com/image/fetch/w_36,c_scale,f_png,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack.com%2Ficon%2FNoteForwardIcon%3Fv%3D4%26height%3D36%26fill%3Dnone%26stroke%3D%2523808080%26strokeWidth%3D2" width="18" height="18" style="margin-right: 8px;min-width: 18px;min-height: 18px;border: none;vertical-align: middle;max-width: 18px" alt=""><span class="email-button-text" style="vertical-align: middle;">Restack</span></a></td></tr></tbody></table></td></tr></tbody></table></td><td align="right"><table role="presentation" width="auto" border="0" cellspacing="0" cellpadding="0"><tbody><tr></tr></tbody></table></td></tr></tbody></table></td></tr><tr height="16"><td height="16" style="font-size:0px;line-height:0;">&nbsp;</td></tr></tbody></table><div class="footer footer-ZM59BM" style="color: rgb(119,119,119);text-align: center;font-size: 16px;line-height: 26px;padding: 24px0;"><div style="font-size: 16px;line-height: 26px;padding-bottom: 24px"><p class="pencraft pc-reset color-secondary-ls1g8s size-12-mmZ61m reset-IxiVJZ small meta-B2bqa5" style="list-style: none;font-family: system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';padding-bottom: 0;font-size: 12px;line-height: 16px;margin: 0;color: rgb(119,119,119);text-decoration: unset;">&#169; 2025 <span>Gergely Orosz</span><br>548 Market Street PMB 72296, San Francisco, CA 94104 <br><a href="https://substack.com/redirect/2/eyJlIjoiaHR0cHM6Ly9uZXdzbGV0dGVyLnByYWdtYXRpY2VuZ2luZWVyLmNvbS9hY3Rpb24vZGlzYWJsZV9lbWFpbD90b2tlbj1leUoxYzJWeVgybGtJam94TkRVMk16TXhPU3dpY0c5emRGOXBaQ0k2TVRZek5UQTJOVGc0TENKcFlYUWlPakUzTkRjeU5ESTBOREVzSW1WNGNDSTZNVGMzT0RjM09EUTBNU3dpYVhOeklqb2ljSFZpTFRRMU9EY3dPU0lzSW5OMVlpSTZJbVJwYzJGaWJHVmZaVzFoYVd3aWZRLnVZc0M5NUhCSnFzMm03T0xucy1OeVVPWV9HdVluMjJERGx1WTFJeWpHbDgiLCJwIjoxNjM1MDY1ODgsInMiOjQ1ODcwOSwiZiI6dHJ1ZSwidSI6MTQ1NjMzMTksImlhdCI6MTc0NzI0MjQ0MSwiZXhwIjoxNzQ5ODM0NDQxLCJpc3MiOiJwdWItMCIsInN1YiI6ImxpbmstcmVkaXJlY3QifQ.qeCarWrvlhZAVBKDkRmSJuZq6481Jc5N6d7I-kr1-aA?" style="text-decoration: underline;color: rgb(119,119,119);"><span style="color: rgb(119,119,119);text-decoration: underline;">Unsubscribe</span></a></p></div><p class="footerSection-EHR0jG small powered-by-substack" style="padding: 0 24px;font-size: 12px;line-height: 20px;margin: 0;color: rgb(119,119,119);font-family: system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';padding-bottom: 0;margin-top: 0;"><a href="https://substack.com/redirect/2/eyJlIjoiaHR0cHM6Ly9zdWJzdGFjay5jb20vc2lnbnVwP3V0bV9zb3VyY2U9c3Vic3RhY2smdXRtX21lZGl1bT1lbWFpbCZ1dG1fY29udGVudD1mb290ZXImdXRtX2NhbXBhaWduPWF1dG9maWxsZWQtZm9vdGVyJmZyZWVTaWdudXBFbWFpbD1pc2hhbi5tYWlsQGdtYWlsLmNvbSZyPThvNTRuIiwicCI6MTYzNTA2NTg4LCJzIjo0NTg3MDksImYiOnRydWUsInUiOjE0NTYzMzE5LCJpYXQiOjE3NDcyNDI0NDEsImV4cCI6MTc0OTgzNDQ0MSwiaXNzIjoicHViLTAiLCJzdWIiOiJsaW5rLXJlZGlyZWN0In0.MXwNPyWwx20dz4wX-Jzt9EXEhKLTCdwagVvaDp-A4Bg?" style="color: rgb(119,119,119);text-decoration: none;display: inline-block;margin: 0 4px;"><img src="https://substackcdn.com/image/fetch/w_270,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack.com%2Fimg%2Femail%2Fpublish-button%402x.png" srcset="https://substackcdn.com/image/fetch/w_135,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack.com%2Fimg%2Femail%2Fpublish-button.png, https://substackcdn.com/image/fetch/w_270,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack.com%2Fimg%2Femail%2Fpublish-button%402x.png 2x, https://substackcdn.com/image/fetch/w_405,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack.com%2Fimg%2Femail%2Fpublish-button%403x.png 3x" width="135" alt="Start writing" height="40" style="max-width: 550px;border: none !important;vertical-align: middle;"></a></p></div></div></td><td></td></tr></tbody></table><img src="https://eotrx.substackcdn.com/open?token=eyJtIjoiPDIwMjUwNTE0MTcwNjQyLjMuZjU4MjZjYTZmMjRkZTdjZkBtZzIuc3Vic3RhY2suY29tPiIsInUiOjE0NTYzMzE5LCJyIjoiaXNoYW4ubWFpbEBnbWFpbC5jb20iLCJkIjoibWcyLnN1YnN0YWNrLmNvbSIsInAiOjE2MzUwNjU4OCwidCI6InBvZGNhc3QiLCJhIjoiZXZlcnlvbmUiLCJzIjo0NTg3MDksImMiOiJwb3N0IiwiZiI6dHJ1ZSwicG9zaXRpb24iOiJib3R0b20iLCJpYXQiOjE3NDcyNDI0NDEsImV4cCI6MTc0OTgzNDQ0MSwiaXNzIjoicHViLTAiLCJzdWIiOiJlbyJ9.jmjArIx8HCxAWHPpMAfyY80qGcGfDYjL0DI-Majhpc8" alt="" width="1" height="1" border="0" style="height:1px !important;width:1px !important;border-width:0 !important;margin-top:0 !important;margin-bottom:0 !important;margin-right:0 !important;margin-left:0 !important;padding-top:0 !important;padding-bottom:0 !important;padding-right:0 !important;padding-left:0 !important;"/><img width="1" height="1" alt="" src="https://email.mg2.substack.com/o/eJxM0EvO6yAMBeDVlGEExAQyYC2RY5wU3QYiHpWy-6u0HfwjS8fS8ScTNt5zufyZaxPBQ1DOOMFeWbAaNIASfGB8LTsnLtg4LNj-bAFm8fRG2SCDUjBqGi2g3jQZJR070jjPVkSvpTbSKFBWTqCHcdiM0xPhtGkIbGl7gDx2PdS-1ob0b6B8iFiXrfAH4FvpLG7mgj1ETsSe31yunH5xDF5No5GTce6btOtkf-ZAWJs4-7pQPo6eYrsWTri-OPxa-_qKhC3mdLeAcVbOovhYn5iG-_oD5H7Pj6r2NeQDY_Jnwf3AFonTHhNzEe37yV65fEBgpnFUs3h7_T8AAP__nkR4Fw"></body></html>

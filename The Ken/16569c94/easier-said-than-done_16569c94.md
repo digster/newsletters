@@ -1,0 +1,28 @@
+---
+subject: "Easier said than done"
+from: "The Ken <info@the-ken.com>"
+to: ""
+date: 2018-08-24 02:35:24
+labels: ["CATEGORY_PERSONAL", "INBOX", "The Ken", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_8244464457792971031", "UNREAD"]
+---
+Good Morning Ishan,
+A couple of years back, when we were on a road-trip in Kerala, we got lost. No network. Worse, nobody spoke any Malayalam. Except for me.
+We stopped at a kirana store on the highway to ask for directions. I confidently went up to the shopkeeper and asked him in chaste Malayalam how to get to Bekal fort. He listened intently, dove under the counter, and presented me with a large bottle of mosquito repellent.
+This is a pattern. In Bangalore, I have requested cab-drivers in Kannada to stop at the nearest ATM, and been dropped at the Chinnaswamy cricket stadium instead. Most memorably, when I once requested my cook in Hindi to use a little less ghee on the rotis, he promised he would apply for an Aadhaar card and begged me not to call the police.
+The technologist in me remained optimistic though. Machines will someday do what man could not. They would understand exactly what I wanted, and drive me to Bekal fort promptly.
+By 2021, vernacular Indian language speakers will amount to 536 million of India's internet users—nearly four times the English speaking internet population of India. Until now, the latter remained the focus customers of most technology products and services. This made sense. English speakers are likely to be lucrative users. But there's a revolution brewing. Stakeholders in the Indian internet ecosystem—developers, internet businesses, device manufacturers—believe that voice as an interface could play a huge role. They imagine Indians speaking in their own regional tongues, some even in their own regional dialects, to browse, learn, discover content and shop online.
+Salman and Olina's story today is about what it will take for this revolution to happen. It's a story about the ambition of startups like Slang Labs, Reverie, and Liv.ai who are at the vanguard. Their story tries to answer a few key questions at the heart of this problem: Do use-cases exist? Does the technology exist? And can somebody buy apples online using voice commands? The revolution, it appears, will not be televised, but will certainly be driven by voice assistants.
+It's a far-reaching, prophetic story. You can read it here: [https://the-ken.com/story/voice-interface-indic-languages/](http://link.the-ken.com/wf/click?upn=HQSq6eeRV1xAVaGuFOahuNCZVVXPeP-2FJpSqxhvIUDrkaXbB1L-2BimC3HmboKoTprgWlouq8fiGxNSjnT8TodO-2BQ3WZDumSaZ68pi-2Btj-2B2Dzs79eFT-2FAzo07bn3gYPtTyupY81eRCzvjquQi0k-2BLtUJCHcPHWcAwJR2NNA8-2BTofatKYkqc4vfDwPi3KNUTuobYZg0kVfiyalJoy95cNoUFBcT7RoaMiVTkY7g1rc-2B9Oo78zLdv29cK17yKvEHulLAkkbTtA03BtGLV9z1sRgQhWg-3D-3D_S4jLOsNx-2Fv6Jev2nvow8b7P9pBCWGd8KNZfb200gkZLQNlXQHio0noZzXtsWoloZmPWeyZsh7a4QCV9ufwCUKi00jlBT0uEdvwYDMuVuqcOXLWdHorg-2FabMrAMbKanFdU49J8bIbLJd-2B9XqmXdnvITiGeCAV-2FE0x95wGjWerj5Pf8QW2cL9V2LjYoV-2FpI6OlSJ5XTy76sExHTxVTCfF9nPuClosqAuJ9r-2BzXdDssCfWnlWUThaafDmciKrQdTAx-2FX34fdx5p5vpa-2By-2FhByCEsMoDO45nb0kAYRNQpEq41zjZx4FsSGs880pvsIEIKRsFmzDhdv0wKOG-2FhxZhqIidBnXbu5MF9gmJGsRQaDk7x8JkziZArvHF24yigSFvlFc0wjkBNvSKjOQgiMZycj1Qar3UL0txOa-2FGdbhVcadEk6g-3D)
+Until that happens, for directions, use Google Maps.
+For everything else, there's mosquito repellent.
+Regards,
+Praveen Gopal Krishnan
+|
+What you just read is the personalised daily introduction to The Ken's story. Written by a different person each day. Often insightful, sometimes witty, and very rarely boring. Someone sent this to you? [Sign up for free](https://the-ken.com/?modal=register). Don't like these? You can [unsubscribe](http://link.the-ken.com/asm/unsubscribe/?user_id=2349339&data=ZUaA0jbd4Iti82XY3R2k0AeddpN9PQxpxe7FOpfBbRIIBVC3lr6ZxIlU9BwMyTArp5zXEqVCcI3zYKCFlD1OHoVgyHQLeRi_7jyq1uKW7VpSkeinBGXmdQYDBt2rnYlnBY9PpaLNyqwVDiWaFaGbuApRd4qAAJBWaQ46DLo4NNyfyrh3usw6E4MBgvDZ6uCiBJC5YsR_KkoxXR1lDylrJjlZd0yU-UYEo3--LJG4UquEzAXAQ3-EvpWZ0cC32bwV_HuR4AF20UyziY_sjd1XTC9NwElVKD_lXI-OkUi_jIFQnFHzevIFRtXCIOTJny3CdF1KiZdv_EoCui_iouY4v7T295WnsRTW5txEa3QfvsNdFfH8A5EeZQb1qjgf8phIzpVF384EiQkt92eHkGjAauWBdv6X7e9-JsfvxtHze5w3FemFIR39hVqH87Ny28qkiRkKYEjRxmnRFAPhu5DMHyxjdMQypw8jAenV7iGczrNTeabI0MEVWTne-PB65uZRdEh_nTubbsFsKqoZEWGfSLew0aNflnnnUsaglGFCS7g=). Want to manage your emails? Click [here](http://link.the-ken.com/asm/?user_id=2349339&data=WCWt34EGqsoghE47R1iyPxiT9XRWSqquhwfrJ8hIGy4MtiOJGoqnCFU7VhdQb0s3AAAbhBK-FdVu8oDmbD7cgwuqBaYKIPh4n1glZzWn6viHe5-w5A3MGT6oMVyVLTf3KFzZCYCR5mSXegLUWt_lK35xX1EAOh8U1GcaUgRcpj7A1l2A_pFaDRwIQWA9wzWfu4HzSOkncVYx8xlmhosjVpXAbFZ1i0OavlDU7V07Stv47ch22YGY14GhJkYQWmkEO-VKN743vOq_bqm4JXw0Vq9Jcm3cSUSo5szP2vFXchlqG_X9OCJFpTitxzLRzOZvt3gHXY0Go8bS7Lh0ThIJsBxjPN5C43HVa8h36sAU5GF9BQAglgDGd6ERRltF_5HqI-TJMQklfhUk0iMjth7um1PXTUX7xtnRe2sHEVYG4SLUhq47gc7i2iEkammfbFSYy9JzuhujKlUj1a1GtgEAfxQ8zdElvc6uuMRR_bygdvXBOLirMS4tE3yRmjAkPW2H30w5ZN7FPysQoUpbMy5sVQ==).
+Kerala, "God's Own Country", needs your help. [Donate](http://link.the-ken.com/wf/click?upn=HQSq6eeRV1xAVaGuFOahuG-2B-2B33CTY7RRfz55Y83uniWaGLTlZSYXA0eCaUoutD-2BAyu3FyP-2BvgGe0kX1jzHKDkiFW052N5TmVt6MhUgiIIiiZuZgEoWY5Z9Y2Av2FgW2eFBd3pWl8FxO1wicvF6Xvg-2F8cqhs8x0-2Bzyql3MZwhW88-3D_S4jLOsNx-2Fv6Jev2nvow8b7P9pBCWGd8KNZfb200gkZLQNlXQHio0noZzXtsWoloZmPWeyZsh7a4QCV9ufwCUKi00jlBT0uEdvwYDMuVuqcOXLWdHorg-2FabMrAMbKanFdU49J8bIbLJd-2B9XqmXdnvITiGeCAV-2FE0x95wGjWerj5Pf8QW2cL9V2LjYoV-2FpI6OlSJ5XTy76sExHTxVTCfF9nE4fUHg1Fsmgm2qdyv11QCw9DKoTCfBVFLvBxZ0NquB9tySKBiLkgj-2B4PH-2FyVcu6n-2FlzxNITy0fTBpcOIAAnZJF1yShjAThouwh4x8sLLjXw8xSkPNRBpusUkB-2BgfdbhadeHxtdXVV4Ubeko2FNoNlGpwIdQe4F6tNIuYcW6VkWzIcye9dV7DE-2B0jdVRIEk8mHbbU62nKVwYsli58-2BjXOT4-3D) what you can to the Flood Disaster Relief.
+|
+|
+|
+|
+|

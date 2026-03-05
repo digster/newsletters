@@ -1,0 +1,253 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Kislay's Newsletter #27: CQRS, internal platforms, complexity, and AWS</title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<style type="text/css">
+#outlook a{padding:0;} /* Force Outlook to provide a "view in browser" message */
+.ReadMsgBody{width:100%;} .ExternalClass{width:100%;} /* Force Hotmail to display emails at full width */
+.ExternalClass, .ExternalClass p, .ExternalClass span, .ExternalClass font, .ExternalClass td, .ExternalClass div {line-height: 100%;} /* Force Hotmail to display normal line spacing */
+body, table, td, a{-webkit-text-size-adjust:100%; -ms-text-size-adjust:100%;} /* Prevent WebKit and Windows mobile changing default text sizes */
+table, td{mso-table-lspace:0pt; mso-table-rspace:0pt;} /* Remove spacing between tables in Outlook 2007 and up */
+img{-ms-interpolation-mode:bicubic;} /* Allow smoother rendering of resized image in Internet Explorer */
+
+body{margin:0; padding:0; height:100% !important; margin:0; padding:0; width:100% !important;}
+img{border:0; height:auto; line-height:100%; outline:none; text-decoration:none; max-width: 100%!important}
+table{border-collapse:collapse !important;}
+img.aligncenter{display:block;margin:0 auto;}
+
+@media all and (max-width: 525px) {
+
+ /* ALLOWS FOR FLUID TABLES */
+ table[class="wrapper"]{
+ width:100% !important;
+ }
+
+ table[class="mobile-full-width"] {
+ width:100% !important;
+ }
+
+ img[class="mobile-full-width"] {
+ width:100% !important;
+ display: block;
+ }
+
+ /* ADJUSTS LAYOUT OF LOGO IMAGE */
+ td[class="logo"]{
+ text-align: left;
+ padding: 20px 0 20px 0 !important;
+ }
+
+ td[class="logo"] img{
+ margin:0 auto!important;
+ }
+
+ /* USE THESE CLASSES TO HIDE CONTENT ON MOBILE */
+ td[class="mobile-hide"]{
+ display:none;}
+
+ img[class="mobile-hide"]{
+ display: none !important;
+ }
+
+ img[class="img-max"]{
+ max-width: 100% !important;
+ /*width: 100% !important;*/
+ height:auto !important;
+ }
+
+ /* FULL-WIDTH TABLES */
+ table[class="responsive-table"]{
+ width:100%!important;
+ max-width: 100%!important;
+ }
+ 
+ table[class="responsive"]{
+ width:100%!important;
+ max-width: 100%!important;
+ } 
+ 
+ img.responsive {
+ width:100%!important;
+ max-width: 100%!important;
+ } 
+ 
+ .block {
+ display: block;
+ }
+ 
+ td[class="responsive"]{
+ width:100%!important;
+ max-width: 100%!important;
+ } 
+
+ /* UTILITY CLASSES FOR ADJUSTING PADDING ON MOBILE */
+ td[class="padding"]{
+ padding: 10px 5% 15px 5% !important;
+ }
+
+ td[class="padding-copy"]{
+ padding: 10px 5% 10px 5% !important;
+ text-align: center;
+ }
+
+ td[class="padding-meta"]{
+ padding: 30px 5% 0px 5% !important;
+ text-align: center;
+ }
+
+ td[class="no-pad"]{
+ padding: 0 0 20px 0 !important;
+ }
+
+ td[class="no-padding"]{
+ padding: 0 !important;
+ }
+
+ td[class="section-padding"]{
+ padding: 50px 15px 50px 15px !important;
+ }
+
+ td[class="section-padding-bottom-image"]{
+ padding: 50px 15px 0 15px !important;
+ }
+
+ /* ADJUST BUTTONS ON MOBILE */
+ td[class="mobile-wrapper"]{
+ padding: 10px 5% 15px 5% !important;
+ }
+ 
+ td[class="responsive"]{
+ display: block;
+ width: 100% !important;
+ }
+
+ table[class="mobile-button-container"]{
+ margin:0 auto;
+ width:100% !important;
+ }
+
+ a[class="mobile-button"]{
+ width:80% !important;
+ padding: 15px !important;
+ border: 0 !important;
+ font-size: 16px !important;
+ }
+}
+
+/* Html */
+.html-td-global p {
+ font-family: Helvetica, Arial, sans-serif;
+ font-size: 16px;
+}
+
+
+/* Hero */
+@media all and (max-width: 525px) {
+ .hero-title {
+ padding-top: 15px;
+ }
+}
+
+/* Text */
+
+
+/* Last posts */
+@media (max-width: 525px) {
+ .posts-1-column {
+ width: 100%!important;
+ }
+ .posts-1-image {
+ width: 100%!important;
+ display: block;
+ }
+}
+
+
+
+/* Header */
+@media all and (max-width: 640) {
+ .header-table td {
+ width: 100%!important;
+ }
+ .header-logo-global {
+ text-align: center!important;
+ }
+}
+
+</style>
+</head>
+<body style="margin: 0; padding: 0;" dir="ltr">
+
+<table cellpadding='0' cellspacing='0' border='0' width='100%'>
+<tr>
+<td bgcolor='#ffffff' valign='top'><!-- tnp --><table border="0" cellpadding="0" cellspacing="0" align="center" width="100%" style="border-collapse: collapse; width: 100%; user-select: auto;" class="tnpc-row tnpc-row-block ui-sortable-handle" data-id="heading">
+<tbody style="user-select: auto;"><tr style="user-select: auto;"><td align="center" style="padding: 0px; user-select: auto;" class="edit-block">
+<!--[if mso | IE]><table role="presentation" border="0" cellpadding="0" align="center" cellspacing="0" width="600"><tr><td width="600" style="vertical-align:top;width:600px;"><![endif]--><table type="options" class="tnpc-block-content" border="0" cellpadding="0" align="center" cellspacing="0" width="100%" style="width: 100% !important; max-width: 600px !important; user-select: auto;">
+<tbody style="user-select: auto;"><tr style="user-select: auto;"><td align="center" style="text-align: center; padding: 10px 15px; background-color: rgb(255, 255, 255); width: 100% !important; user-select: auto;" bgcolor="#ffffff" width="100%"><div style="padding: 0px; text-align: center; font-size: 30px; font-family: Verdana, Geneva, sans-serif; font-weight: bold; color: rgb(68, 68, 68); letter-spacing: normal; line-height: normal !important; user-select: auto;">
+ Kislay's Newsletter #27</div></td></tr></tbody></table><!--[if mso | IE]></td></tr></table><![endif]--></td></tr></tbody></table><table border="0" cellpadding="0" cellspacing="0" align="center" width="100%" style="border-collapse: collapse; width: 100%; user-select: auto;" class="tnpc-row tnpc-row-block ui-sortable-handle" data-id="text">
+<tbody style="user-select: auto;"><tr style="user-select: auto;"><td align="center" style="padding: 0px; user-select: auto;" class="edit-block"><!--[if mso | IE]><table role="presentation" border="0" cellpadding="0" align="center" cellspacing="0" width="600"><tr><td width="600" style="vertical-align:top;width:600px;"><![endif]--><table type="options" class="tnpc-block-content" border="0" cellpadding="0" align="center" cellspacing="0" width="100%" style="width: 100% !important; max-width: 600px !important; user-select: auto;">
+<tbody style="user-select: auto;"><tr style="user-select: auto;"><td align="center" style="text-align: center; padding: 10px 20px 20px; background-color: rgb(255, 255, 255); width: 100% !important; user-select: auto;" bgcolor="#ffffff" width="100%"><table width="100%" style="width: 100% !important; user-select: auto;" border="0" cellpadding="0" cellspacing="0">
+ <tbody style="user-select: auto;"><tr style="user-select: auto;">
+ <td width="100%" valign="top" align="left" style="font-family: Verdana, Geneva, sans-serif; font-size: 18px; font-weight: normal; color: rgb(34, 34, 34); line-height: 1.5; user-select: auto;">
+ <p style="text-align: left; user-select: auto;"><span style="font-size: 18px; user-select: auto;">Hello Everyone!</span></p>
+<p style="text-align: left; user-select: auto;"><span style="font-size: 18px; user-select: auto;">Hope you are doing well and staying safe. I'm trying out a new, cleaner (hopefully) look for this newsletter. Let me know what you think of it. Today we are going to look at the CQRS architecture pattern, followed by the usual awesome from the internet.</span></p>
+<p style="text-align: left; user-select: auto;"><span style="font-size: 18px; user-select: auto;">Software systems serve a variety of purposes from their first day, and the requirements on them grow over time. Changing requirements may pertain to a change in business logic, scaling needs, or some other aspects of the system.</span></p>
+<p style="text-align: left; user-select: auto;"><span style="font-size: 18px; user-select: auto;">To satisfy these often contradictory or overlapping requirements, engineers must make a variety of trade-offs in the design of the system. The problem in making trade-offs is that many of them are not required at the beginning and by the time the need arises, the system design has evolved in such a way that the trade-off cannot be made at all.</span></p>
+<p style="text-align: left; user-select: auto;"><span style="font-size: 18px; user-select: auto;">In my opinion, the most pernicious incidences of the design getting locked in happen at the data layer. A typical application’s data model is designed by marrying domain knowledge with performance considerations. The domain knowledge dictates what the entities are and how they relate to each other logically. Performance considerations dictate how they are implemented physically (e.g. RDBMS-vs-NoSQL, primary keys, indexes, etc.). These two sets of choices together enable an application to serve its use-cases efficiently.</span></p>
+<p style="text-align: left; user-select: auto;"><span style="font-size: 14px; user-select: auto;"><img class="alignnone size-medium wp-image-1150 aligncenter" src="https://5fwei.img.bh.d.sendibt3.com/im/3089376/a786e01cd81f6eff25a1ece367588b4e6b0664f973b18622cf76f63ac7e6fa14.jpeg?e=x1UCIuxxsBpswDXNT0U4FjKG4ki81tKYKeozrpXvpuFOT0_dTEfRbgHmnSFSBduJADzkTwd0Pt7cyK2fPvnVydEJcBgy2pA_ZeYVOv3AyfpoCPzqynmatmZdygzS66rgvFsKMQVab2-qh3K1QLmPJwogSbdDrT4cYAYWESAAyAktuVmSRkKgQUm9BJMtEklXR-zjYi9_7Mg02gijhgYl9qIaK_akNtjdSe3-YCkcuaRmN_vUuuZGx09KornpMOT0WIfLuWYbjxhggd72ej9BFlMQ26Xmy0ep-6SUlOya" alt="" width="337" height="175" style="user-select: auto;"></span></p>
+<p style="text-align: left; user-select: auto;">In large applications with a lot of data and complex entity models, some implementation details become “core” over time. This is sometimes explicitly done by engineers, but often it happens in an unstated or even inadvertent manner. In these situations, new requirements can be so far at odds with the existing implementation that they cannot be accommodated at all.</p>
+<p style="text-align: left; user-select: auto;">This general class of problems is large with different solutions for different cases. In this article, I want to focus on problems that arise when the way data is read from an application is very different from how data is written to a system. The difference can be in terms of query patterns, output format expectations, or scale of operations.</p>
+<p style="text-align: left; user-select: auto;">In an <a href="https://daijdhg.r.af.d.sendibt2.com/tr/cl/1KU7nC0LcxE7N10kcJglkuaqXFwNgeGWYnuKL-HxB6TVWpHy_AlxQrsKM-awFGGAmFAIjWvwmIPattjTRevXHHB3C_QLIkCODOnsAe3BxDdlM01Cu4iv4154U80fmozQXcw1HZLs_vR7QM5NJRwuP_OE8CwUc1aWLsxC7AMqBQ8fKyw0WUa5YB7Cjrh-joQSyhjyv2uLhlrmgL9szwSdrzZnfgpv8JE6w5ROTUR9Fyrx6TYd-5ZEphi2II0c32erspN2XNF4tqREb_F-g3fuMBDs1-j68iu-F9irCKpz9Tt1AY4Ni8v4IMOC6AtYfwpJNZgKmTMNoqfbElfVqcif11Eo6LDH5CEpWrvrVyUDx4twag89axFUaP8y3jfybRcrx1m-m3Sx-BncWKawwVRwyX-eJadbolM5lCA7nZiQQRPqDSgJk_ZKrg" target="_blank" rel="noopener" style="user-select: auto;">earlier post</a>, I wrote about an encounter with this situation. The order management system I was working on at that time was optimized for working with entity ids (order id, item id, etc). But over time, complex read requirements emerged which the data model was unable to support. The problems were two-fold. New query patterns were emerging which were difficult to implement efficiently in the existing implementation. Far more worryingly, the readers of order data were beginning to expect a very different model of the data. E.g. sellers on the e-commerce platform wanted their slices of a larger customer to be represented a certain way, customer-facing apps wanted the data to look very similar to how it looked in the cart.</p>
+<p style="text-align: left; user-select: auto;">This is not an uncommon occurrence, especially for systems that own the core entities of an organization. The data they encapsulate is so widely used that it is required to be available in many different formats. The system itself needs yet representation to work with its data.</p>
+<p style="text-align: left; user-select: auto;">How can we bridge this gap?</p>
+<h3 style="text-align: left; user-select: auto;">CQRS</h3>
+<p style="text-align: left; user-select: auto;">CQRS stands for <strong style="user-select: auto;">C</strong>ommand <strong style="user-select: auto;">Q</strong>uery <strong style="user-select: auto;">R</strong>esponsibility <strong style="user-select: auto;">S</strong>egregation. Systems built with the CQRS principle distinguish between data models used for Commands (write operations) and Queries (read operations). The command model is used to perform write/update operations efficiently while the query model is used for supporting the various read patterns effectively. The data between the two models is kept in sync by propagating the changes in the command model to the read model via domain events or any other mechanisms.</p>
+<p style="text-align: left; user-select: auto;"><img class="alignnone size-medium wp-image-1151 aligncenter" src="https://5fwei.img.bh.d.sendibt3.com/im/3089376/eaac3470be4bd092d5e7528442a6dc52d26be043895c75dc408d739b8ce0f8f8.jpg?e=WXO-qKkdFup7SCvqFU610e58ThkvzxV-oq4it23h_gTof99UpKXNU11nGWrnNt6qO4tAEjfqp2KvGki7sfCV4g7GhqMH4uOAAn6upG9GhB4y_ciTUYsjejD67zqmWoZcYxjKm0vhSR0Dshk74Ebo7gSjyT5rBNMBzgKSzXeDXjytzWgl0lGn4xInSbmDjWqZxVdbt3uhUY9i0uNTgaoi_zUi_18lVxq6CwNX764awiG3OfwDhqkRpODPp1Cbbl28m4eSyh0C9g" alt="" width="324" height="261" style="user-select: auto;"></p>
+<p style="text-align: left; user-select: auto;">If this sounds like two different microservices to you, let me point out a subtle difference. The physical implementation of these two data models can indeed be done as two separate microservices. A single command model can even be used to support multiple query models. However, a key construct of microservice architecture is that two microservices typically represent two independent domains. In CQRS, both the command and the query models are part of the same logical domain regardless of the runtime architecture. The query model cannot function without understanding the command model deeply. The coupling here is expected, unlike the decoupled behaviour we hope to create in two separate microservices.</p>
+<p style="text-align: left; user-select: auto;">CQRS does not dictate how the two models are kept in sync. This may be done synchronously by updating both the models at the same time. It may also be done asynchronously by transmitting commands from the command model to the query model over a message broker like Kafka. The latter choice is the one made often because it creates a more scalable system, though it comes with the obvious tradeoff of eventual consistency between the write action and read action.</p>
+<p style="text-align: left; user-select: auto;"><img class="alignnone size-medium wp-image-1152 aligncenter" src="https://5fwei.img.bh.d.sendibt3.com/im/3089376/bba615fd316e75702797b2c93121bef51a85e45eaed2228000ed7ed6951573af.jpg?e=l-IzkGB9PtZa2Ho6Wn3wZHQub9jY0DGYh8M_jMqxvbQ6UIZ8cHoqeUdj-dhQc_iP-k7kUK6KoV4o27833S3EPOl6bM980xBfgrCZAaUfR_CbZJPG1tJTUTQhYD5Nwo8Iw2pEwCDQl0olp-q1EZJ5VBYwbzlIdCxfo4XR85VCl3zGSTNOj3d8ECAax-qKbhtmn-ICWBQdoZT2jZqwgB_Tfqvrb5cBYdcG8Phh6K8N0IdJ1qeVxSHG8e1lflqJ8cRhxwzWv3vFOCCUbF0gxFSZ2mna-jM" alt="" width="392" height="153" style="user-select: auto;"></p>
+<h3 style="text-align: left; user-select: auto;">Isn’t this just caching?</h3>
+<p style="text-align: left; user-select: auto;">A data mode dedicated only for reads sounds suspiciously like a cache. Indeed, the query model can be implemented using a caching technology like Redis. However, the purpose of applying CQRS is not just to separate the place where is written from the palace the data is read. The fundamental intent is to create multiply representations of the same data, each of which satisfies the needs of some users. A CQRS style may have many query schemas, each of which may use a different physical implementation. Some may use the same database, some may use Redis, etc.</p>
+<h3 style="text-align: left; user-select: auto;">Why should I use CQRS?</h3>
+<p style="text-align: left; user-select: auto;">CQRS is a useful architecture pattern in a couple of different scenarios.</p>
+<p style="text-align: left; user-select: auto;">The first one is that which I have pointed out earlier in this article. If the same data model is not able to satisfy the read and write patterns of a system effectively, then it makes sense to decouple the two schemas by applying CQRS. The resulting data models can then cater to their specific requirements. CQRS effectively unlocks the data from a single representation into any number of (read) representations all of which are kept consistent with the core representation which handles all updates made to it.</p>
+<p style="text-align: left; user-select: auto;">The second scenario in which CQRS is helpful is in separating the read load from the write load. This may sound like cheating when I have explicitly distinguished between caching and CQRS just a couple of paragraphs above, but hear me out. CQRS doesn’t seek out caching as an objective. However, by separating the command and the query schemas, we can create the possibility of scaling one independent of the others. The query schema may live on a separate database and employ caching of its own. It may be implemented in a technology that best caters to the query patterns of a particular use case. In any of these cases, the command model is exempted from having to scale to the requirements of the query model. I would repeat here that despite all this, these are not independent systems. The coupling between them is deep and this is not a problem.</p>
+<h3 style="text-align: left; user-select: auto;">Why should I not use CQRS?</h3>
+<p style="text-align: left; user-select: auto;">Using CQRS in a system introduces significant cognitive overhead and complexity. Instead of a single data model and technology choice, developers now have to contend with at least two data models and potentially multiple technology choices. All of this is an overhead that cannot be ignored.</p>
+<p style="text-align: left; user-select: auto;">The next problem is keeping the command and the query data models in sync. If the choice is made to keep the updates asynchronous, the entire system is forced to deal with the fallout of eventual consistency. This can be extremely troublesome, especially if parts of the system are directly exposed to human users who expect their actions to reflect in the data immediately. Even a single requirement for consistency can imperil the whole design.</p>
+<p style="text-align: left; user-select: auto;">On the other hand, if we choose to keep the model in a consistent state at all times, the CAP theorem and 2 phase commits come knocking around. If both the schemas are colocated on a single ACID-compliant database, we may still be able to use transactions to keep them consistent. However, this takes away much of the scaling benefit of CQRS. If more than one query model is to be supported, the write operations will continue to get slower and slower since they need to update all query models before they can succeed.</p>
+<p style="text-align: left; user-select: auto;">Both these problems make the use of CQRS a proposition that should not be taken lightly. Judiciously applied, it can result in a highly scalable application. But supporting multiple data models is a tricky affair and should only be considered if there are no other means of satisfying the necessary query patterns.</p>
+<h2 style="text-align: left; user-select: auto;">From the internet this week</h2>
+<ol style="text-align: left; user-select: auto;">
+<li style="user-select: auto;"><span style="font-family: verdana, geneva, sans-serif; user-select: auto;">This is a great collection of resources about <a href="https://daijdhg.r.af.d.sendibt2.com/tr/cl/pv9jSW-aU6p1sO-aMAEviRrT_5JBTW9zfOZmSEzmzizY2CYYxC2-VRzC2iVMJ83KH15pyo3OXGjiEbIY5WYyVMzc06dzdHOl6ukS30BwpxaCRusiepDBE0PqQXqzKmfqgv_YzhYJsv6dlVnTY9-FPXvhSJFlmILD5Gow0zF0sZxziHbAlgVotRPilp2rJh2ABubJNmNW043u2UPQQ0DC4F3S2psZpRRnCBd8KbFZ_fXBqVLaK1tSddSSRfuRqPbz8V9XqnVhNCU-7p2AltRhyRkv6pBh4-kDH0PXd1zG_VyPLrmNEEBwdV0ELW2hR5dhNQYWC0VjDSZuV-SjKq8y9auGvcZP0RO0YiFm61lFuBVTgvQc" target="_blank" rel="noopener" style="user-select: auto;">building internal platforms</a>. A lot of learnings to be had.</span></li>
+<li style="user-select: auto;"><span style="font-family: verdana, geneva, sans-serif; user-select: auto;">Once you know what to look out for, complexity and complex systems are everywhere. FOr those who do not know what to look out for, here's a <a href="https://daijdhg.r.af.d.sendibt2.com/tr/cl/w7RC8jqNdhfZzk2Z3hQ2Zwtjyp7YZDwxvE-FISQ350JqGZcsWc3n0Z2yNKiPOlYAgNzLy9MfeqHwNQfzmHQQl840dUAqhWNfAo7r_bhevuBcwFEXaDiMsJMHPiCg336TdXmmiNfoywYmHY4xya9GXe69QhHCsP4zzJGWDbRF4k1_wpsafogjuL95ea-kHflnujx7erCkBMpdE0uc8nflh1ntrAFIAKC-6ilh6kw_ayKpmI8lQ6xy7m72PDyVgbUaCbnShrjmHgN8m-pwa0dGYr92cOq74bUsqzUU7690nsW77gypXGxOHat2FS5xk5xz7mQkeGnzzTjNV-oN7tqH1qbWSHMsgSKTXWXRGA" target="_blank" rel="noopener" style="user-select: auto;">primer on complexity</a>.</span></li>
+<li style="user-select: auto;">This interview with Werner Vogels touches upon a lot of the history of the <a href="https://daijdhg.r.af.d.sendibt2.com/tr/cl/1w14UX1tfZgdW4v1CMu6r9pWvtNhbfu9LwprK6BCD6jaf0eTTN4Za280kCrJxXnDMPNb8n66QR6QzX4m8tEZz5ay9EyFnXu0t0GPHDeFDnDsZBkZMn2xzgi_KJ5s-u25IF_or55KZwMDk2YZiduINMZ6pGXl1OqbBHt9apGSB3WCD8lpoJkdlqOXBlgMYwDxX6TMEN-gl5BbWa2NRJu8K_BdhCE87CT0jySDWXax6Lm_44nLX-MCdHFYI3MUKkmdnHPl236cwL0aBwkm05KZqYs6AP85dqpGPbgF1gu_ddWqEWdQhjCEpr9BRGuqhovGSzp3Bt2XJppKw1eJtDyX_WGPFhSAGeZWaV0GwmP7AtYDHMka_XitpalSglukSMx3S9fD-3FU02haWLB5b8d0MGzlIUkguIk7eQv9cGJf2dPImIqDDInKYY0q6YX9MWtWpbN7G0i5ncAVH_Y_" target="_blank" rel="noopener" style="user-select: auto;">architectural evolution at AWS</a>.&nbsp;</li>
+</ol>
+<p style="text-align: left; user-select: auto;">That's it for this week folks!</p>
+<p style="text-align: left; user-select: auto;">Cheers!</p>
+<p style="text-align: left; user-select: auto;">Kislay</p> </td>
+ </tr>
+</tbody></table></td></tr></tbody></table><!--[if mso | IE]></td></tr></table><![endif]--></td></tr></tbody></table><table border="0" cellpadding="0" cellspacing="0" align="center" width="100%" style="border-collapse: collapse; width: 100%; user-select: auto;" class="tnpc-row tnpc-row-block ui-sortable-handle" data-id="footer">
+<tbody style="user-select: auto;"><tr style="user-select: auto;"><td align="center" style="padding: 0px; user-select: auto;" class="edit-block">
+<!--[if mso | IE]><table role="presentation" border="0" cellpadding="0" align="center" cellspacing="0" width="600"><tr><td width="600" style="vertical-align:top;width:600px;"><![endif]--><table type="options" class="tnpc-block-content" border="0" cellpadding="0" align="center" cellspacing="0" width="100%" style="width: 100% !important; max-width: 600px !important; user-select: auto;">
+<tbody style="user-select: auto;"><tr style="user-select: auto;"><td align="center" style="text-align: center; padding: 15px; background-color: rgb(255, 255, 255); width: 100% !important; user-select: auto;" bgcolor="#ffffff" width="100%"><a style="font-family: Verdana, Geneva, sans-serif; font-size: 14px; font-weight: normal; color: rgb(34, 34, 34); text-decoration: none; user-select: auto;" href="https://daijdhg.r.af.d.sendibt2.com/tr/cl/cOSZ6Jsc2mt6RKY8sKpkyZ1nE9svhxf33Bc7rTeH9gzaU68Uq3X00ssHQbO2x20mtFn-XcZaZbSCU0oOx6hE8aBh-zFwTywkRF4YwSNVkx6H7LcpFAgheAJRjMDDUaXHtYMCnhvErI666-uwb2_H3tEAacGPQh5I06FqMubFnOFC6LTrmYt8S_SGRfbWZjW1VSIfJR79tIc_rlMSQi9m8dYIzLy5oTn05h7skcShZymOgKYFIsc8HgdWftaOY6fE1-C5bnJ0-29uV_7TiYt-DbMmYQKvAdx8mFSqUoRBgpESj3gVWBxMRmJx1UbUDia7B5VGJ0lfbBR_eV9PXagfONb1-G9lc0F8nw3e1iWbTX0RlKpa4csPx564baojxqd2VbrSOaamcc7j1hZ6evvjCyorzdaCrlWz" target="_blank">Modify your subscription</a>
+
+<span style="font-family: Verdana, Geneva, sans-serif; font-size: 14px; font-weight: normal; color: rgb(34, 34, 34); text-decoration: none; user-select: auto;">&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;</span>
+
+<a style="font-family: Verdana, Geneva, sans-serif; font-size: 14px; font-weight: normal; color: rgb(34, 34, 34); text-decoration: none; user-select: auto;" href="https://daijdhg.r.af.d.sendibt2.com/tr/cl/5ZwBw7oPJH_rsdWEpii1ktoTOewAIsuPMuDZ42phNUfIdSXCrnYUbcG7YkpYOce6j5oyVlE75Abanb0eP2dG4b9w3iPMrRfwqX1vPSTqMQ61idf-LR1u5etKcGLfbTwSnF8oaunJ2TB5zXapYoovLYZ920TAk_LMlPsB5XnsrSJo4GgwxXfuyvrfYcis5n_qcWWYIZUJseTbBhTWt0Q7n_lkMnXPBc_UDrp_U3BDpMwaLC-csyHUoTaGNA4VDlk0M1QIiAkaWaXQRdjqHk-IqIDVR-TwC_tY-1woFhjxWGB_VZuP_XyZwg8hb9UiywtLKUJNjrcpzpcLtaoT1MMIW9xJdJCMsSYV4WQixcF4zX5r6mYNAY_WYP2ClrOgcBBs" target="_blank">View online</a></td></tr></tbody></table><!--[if mso | IE]></td></tr></table><![endif]--></td></tr></tbody></table>
+
+
+
+
+
+<!-- /tnp -->
+</td>
+</tr>
+</table>
+
+<img width="1" height="1" alt="" src="https://5fwei.img.bh.d.sendibt3.com/im/3089376/803deaeb494233535e4147346528453d49d36c83a4bdc4b3c4d083aa87c904f7.jpg?e=zBDckfNck0FXENZdL3buv605ZDiRw1s_36GofXJteIkqhk0OJgaIJZZGpPWtAjgW8xhJE3wmUXCnQ9AKrCeld3gcDSPtdeMq6tXk5jTHzSCTNi7zRaFukpYGEj0OqqJri9ZRnK8HfsEF2nyQ_qLxxHBtd2BRIla-4P6ztNy__puHRmcNtz0UI3J9SKptAkw6ZxT5oQnnnk0yNlgcElleeiwWuWNjJYHXo1VxpkANtE9FZUkQwVnuILjbb1KgCNqFhVpMMEd3J3XThpPjr8Sh0d0HUkTs2Bw"/><img width="1" height="1" src="https://daijdhg.r.af.d.sendibt2.com/tr/op/t-Ry6cKlLjTIjaXUdbYzMTxGaw4XTBJzl6OGn8jpQWfatKwVSvUSaXEAEP6jGOwh3Oqozz2Wh_NZ72kJ783eew4JWAHi1O5posszmj0koobDV3UtP0eRmCwtsNZrrLMI4wCPV0O9T7_vWg" alt="" /></body>
+</html>
+

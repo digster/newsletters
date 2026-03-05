@@ -1,0 +1,13 @@
+---
+subject: "New data on social media"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2025-10-04 07:00:49
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+It has gone largely unnoticed that time spent on social media peaked in 2022 and has since gone into steady decline, according to an analysis of the online habits of 250,000 adults in more than 50 countries carried out for the FT by the digital audience insights company GWI. And this is not just the unwinding of a bump in screen time during pandemic lockdowns — usage has traced a smooth curve up and down over the past decade-plus.
+Across the developed world, adults aged 16 and older spent an average of two hours and 20 minutes per day on social platforms at the end of 2024, down by almost 10 per cent since 2022. Notably, the decline is most pronounced among the erstwhile heaviest users — teens and 20-somethings...
+Additional data from GWI trace the shift. The shares of people who report using social platforms to stay in touch with their friends, express themselves or meet new people have fallen by more than a quarter since 2014. Meanwhile, reflexively opening the apps to fill up spare time has risen, reflecting a broader pernicious shift from mindful to mindless browsing.
+Here is [more from John Burn-Murdoch in the FT](http://marginalrevolution.com?action=user_content_redirect&uuid=1e6e1f95cdea38e2791ad1bc9d6cb4241f06f1ba930abbf612593190af0a3386&blog_id=42693868&post_id=91594&user_id=262258391&subs_id=225460721&signature=9d73cec1940a2291b5f44e64915a34ec&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly93d3cuZnQuY29tL2NvbnRlbnQvYTA3MjRkZDktMDM0Ni00ZGYzLTgwZjUtZDY1NzJjOTNhODYz&email_id=f5521c97a39e91d97d95ee5ee6ad4278). I was just doing as Aspen podcast two nights ago, where I spoke of social media as a problem that, in time, largely would solve itself. You also may recall [my recent post](http://marginalrevolution.com?action=user_content_redirect&uuid=6f8ff7150ce4c8f34ebe2ea4d1dcd4263d2fec219b0d677b4f6e6c90cf6dbcd5&blog_id=42693868&post_id=91594&user_id=262258391&subs_id=225460721&signature=5aeb80eec16e3294c3096369bc2a8383&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly9tYXJnaW5hbHJldm9sdXRpb24uY29tL21hcmdpbmFscmV2b2x1dGlvbi8yMDI1LzA5L2lzLWl0LXRoZS1waG9uZXMuaHRtbA=&email_id=f5521c97a39e91d97d95ee5ee6ad4278) about declining rates of depression for young adults. That said, you might wonder what exactly is the correct definition of social media (MR comments section?), and whether this study is tracking the proper conception of it.
+For the pointer I thank Adrian Kelly.

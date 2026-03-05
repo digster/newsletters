@@ -1,0 +1,21 @@
+---
+subject: "How a cloud-kitchen startup misled investors and left unpaid bills in its wake"
+from: "The Ken <info@the-ken.com>"
+to: ""
+date: 2023-08-28 02:39:37
+labels: ["CATEGORY_PERSONAL", "INBOX", "The Ken", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_8244464457792971031", "UNREAD"]
+---
+Good Morning Ishan,
+Every founder and investor knows there is nothing to celebrate about raising money. Still, funding announcements make the startup world go round. The splashy articles written by the very helpful media help these companies draw more investors’ attention.
+But what happens when the money you said you raised never came in? That’s the predicament cloud-kitchen company Bigspoon finds itself in.
+Bigspoon’s management led its stakeholders into believing that it had received Rs 100 crore (US$12.1 million) in its Series A round led by Indian Angel Network in August 2022, when, in fact, it had not.
+Not having this money led to a string of problems with its vendors and its kitchens shuttering. As it is, cloud kitchens is a brutal industry. Even though Zomato and Swiggy allowed cloud-kitchen companies to launch a range of brands catering to different cuisines, only a few, such as Rebel Foods, have seen any success.
+Bigspoon’s chief executive (CEO) Kapil Mathrani, in an interview with The Ken, tries to defend his company, chalking all this up to business-model challenges and the “funding winter”. But Bigspoon faces what looks like a crisis of confidence from its early backers, which include Sanjiv Bajaj, joint chairman and managing director of Bajaj Capital, and Rategain CEO Bhanu Chopra.
+This year, a slew of startups, including Gomechanic and 4B Networks, have been called out for varying degrees of transgressions—from unpaid dues to financial irregularities, and now Bigspoon finds itself in this unflattering mix.
+Aayush has written a meticulous story on how Bigspoon is under a heap of misery: [https://the-ken.com/story/how-a-cloud-kitchen-startup-misled-investors-and-left-unpaid-bills-in-its-wake/](https://the-ken.com/story/how-a-cloud-kitchen-startup-misled-investors-and-left-unpaid-bills-in-its-wake/?utm_source=daily_story&utm_medium=email&utm_campaign=daily_newsletter) [10-minute read]
+Regards,
+Arundhati
+[arundhati@the-ken.com](mailto:arundhati@the-ken.com)
+What you just read is the personalised daily introduction to The Ken's story. Written by a different person each day. Often insightful, sometimes witty, and very rarely boring. Someone sent this to you? [Sign up for free](https://the-ken.com/?modal=register&utm_source=footer&utm_medium=email&utm_campaign=morning_email_ind_shared). [Dont like these? You can unsubscribe](https://link.the-ken.com/asm/unsubscribe/?user_id=2349339&data=e8HOmcX9whxHcBWnSfnwcAnLD172CtyTtZANLkWuXy9oMDAwdTAwMH6Uan-PTEXRJiKvqGzoF_xJMTyTmElb3oyqZLlgqaQRbge9WHjFhvBRMQbFDbxbbdN3J2LPIcIPa3h3gMiodFFwdDEkw7ivDVNzaECabblVk1bf1xNbJWIjSMg-bsKxnziChhsYhxHMRCD67ccjKK-HSXVuwbE6SZcx41ynMbAZYAIipJSju8dmGTWsikcDMYOTRqb_MaJlvo7SnnCPh86Ix1VVJLcwizimKgi3E5x-oiqPeKxT7EYmW7NOLLR35gzzEXnDy3G__M0MYUwzmn98hhylOdgbgiS92MVZfJozadamui5JGcuNasjDy0Mh-RjpPHqKsXyKm685Sz2q-5yMVNKG4Ny311RC-gzF7Q2ZMk7kFmQL9PZzmWMn0p_1_nkk3rUw3PSLSkqqXSffEIQotcv16IGOU9qcWkOjy6h-Av4bHdnHan5GHzr_hoiVHBc0iA4v3AB0tvpaCq-Cr_8XRvdOrKAD7AN6zFcd2-ZeNujLGdS7Nc4eEgWpUj-hds5FWFEBLO6ufNC7xlfrsvw=) Dont want to hear from us again? [ Unsubscribe from our emails here](https://link.the-ken.com/asm/?user_id=2349339&data=2FE39bOI4Hqfbdg8mr741PplKKU6MKNv05Pb0oKd9tZoMDAwdTAwMMWvMnUrK7zce5mxEpw356flPWck0QIlchlLH3WgOwXbn6fQUJ0QWRZO3SAhSlgMmaWMEaql0AGlrbgKHr7BO8oAkJv1-poDdTuocQycweCAUX91ez-a5fv8l-UShl3SWWfIrj6r2lwhxocz0FRimn7iOgJTEHMbZTathUkk5jMXlz94w3F_TaYLjs7FxmwvARMxNv6voDzdjPG69kjWHvAzaoxfaZ-RPiGGO_I03Xadme9d4WJfGoR8vNuIvv9rwg6w3yITzBLx5QR0ep5Fi2ABGharqBCxbON8wpXdK8TjAaE6HHEL-ObXabnk6d6hKQUNWoDfKsWY1L6mCvgTMDEKA0L6zGpbbAMnsoPDkT9luvaloAFvAAJqzNbO2GnpcWTwGEIyU9KV5Gux5PCFSO-9AfbiPDJg00NgNa-oeF1AAPfstQRYzPlSYn4csLFSdfcwd1_xh0Gp4gRtn4_m_58cxl1AOf3XD2IhcV6b893knHUFeujzUFg3zYy9cAMtgg==).
+Something wrong? Tell us at [support@the-ken.com](mailto:support@the-ken.com)

@@ -1,0 +1,34 @@
+---
+subject: "Scribble time"
+from: "The Ken <info@the-ken.com>"
+to: ""
+date: 2023-06-18 03:33:50
+labels: ["CATEGORY_PERSONAL", "INBOX", "The Ken", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_8244464457792971031", "UNREAD"]
+---
+Good Morning Ishan,
+I have an interesting exercise for you: Take 5 minutes to make an illustration depicting what your week looked like.
+A lot of things occupy our days—work, leisure, food, people, stress, and so on. But we usually remember just the highlights. Was Tuesday good or bad? Did you do something exciting on Wednesday?
+List it all out, grab a pencil, and start drawing. (Yes, you can. No, it isn’t going to look ugly. Fine, you can take 10 minutes instead of 5!)
+This is what mine looks like:
+|
+|
+If you did this task, you’ll realise that one of the best ways to understand information is to try and communicate it. That’s why, at The Ken, we take our visuals very seriously. Our charts convey information the same way as our stories—engaging and insightful.
+Here’s a quick recap from the last week:
+We started on Monday with a story by Seetharaman and Anand [analysing](https://the-ken.com/story/radhakishan-damanis-investing-chops-are-legendary-but-his-actual-bets/?utm_source=recap_story&utm_medium=email&utm_campaign=recap_newsletter) the investments of Dmart founder Radhakishan Damani, who is considered to be an astute investor. But some of his biggest bets have yielded lacklustre returns. I was tasked with creating a chart that depicted the shareholding pattern for the Damani family’s main investment vehicle Bright Star Investments. The twist? Add a family tree to it!
+On Tuesday, Pratap wrote about the implications of India’s electronics and IT ministry bringing in BCG and McKinsey to overhaul the framework upon which the country’s digital infra is built. This has sparked [concerns](https://the-ken.com/story/india-gets-bcg-mckinsey-to-fix-its-digital-infra-the-price-is-more-than-their-fee/?utm_source=recap_story&utm_medium=email&utm_campaign=recap_newsletter) over strategic control, data access, and ownership.
+Also on Tuesday, we had the third edition of [Brady Ng’s](https://the-ken.com/sea/present_future/entropica-labs-tommaso-demarie-on-making-quantum-computers-easy-to-use/?utm_source=recap_story&utm_medium=email&utm_campaign=recap_newsletter) limited-run newsletter, Present/Future. The design team’s minds broke trying to understand the concept of quantum computing. However, we persevered, and my namesake created this chart about a hypothetical game of coin flip with a quantum computer. If it makes you scratch your head and wonder why, then we have succeeded in our goal.
+|
+|
+Mid-week, Anushka took us through EV policies across various Indian states. The story is a detailed account of how these states have chosen to pursue the lofty goal of driving [EV adoption](https://the-ken.com/story/which-indian-state-has-the-best-ev-policy-error-benchmark-not-found/?utm_source=recap_story&utm_medium=email&utm_campaign=recap_newsletter). Stories about policies are usually a designer’s greatest challenge—to be navigated with the help of government database portals. My colleague Adhithi is particularly skilled at turning tedious tables into eye-catching and informative charts, like this one:
+|
+|
+Thursday’s story begins with the mentions of a new vice-chancellor, an alumni meet in the US, and a possible $100-million endowment fund—Birla Institute of Technology and Science is leaving no stone unturned to achieve its [ambition](https://the-ken.com/story/bits-pilani-is-tired-of-playing-second-fiddle-to-iits/?utm_source=recap_story&utm_medium=email&utm_campaign=recap_newsletter) of becoming the country’s top-ranking engineering and science institution. Alifiya’s story delves into the prestigious private university’s plans to beat the IITs and the challenges it faces in reaching that goal.
+We wrapped up the week with the curious case of ICICI Bank CEO Sandeep Bakhshi’s HR policies, which have resulted in an interesting [paradox](https://the-ken.com/story/at-icici-bank-sandeep-bakhshis-people-first-strategy-costs-top-people/?utm_source=recap_story&utm_medium=email&utm_campaign=recap_newsletter). Most employees are now divided in two distinct factions: the fast-paced ambitious ones who are restless to move, and the content bankers who want to stay on until retirement. While all seems great on the business front, Rounak, the author, has found that the withdrawal of individual incentives has triggered an exodus of young, growth-hungry, and talented employees.
+That’s all for this week’s stories. If you’ve missed any, sit back and read them at leisure today. And as always, we’ll be in your inbox tomorrow with fresh stories and insightful visuals.
+PS: If you managed to scribble a visual recap of your week, I would love to see it.
+Regards,
+Aishwarya
+[aishwarya@the-ken.com](mailto:aishwarya@the-ken.com)
+What you just read is the personalised daily introduction to The Ken's story. Written by a different person each day. Often insightful, sometimes witty, and very rarely boring. Someone sent this to you? [Sign up for free](https://the-ken.com/?modal=register&utm_source=footer&utm_medium=email&utm_campaign=morning_email_ind_recap). [Dont like these? You can unsubscribe](https://link.the-ken.com/asm/unsubscribe/?user_id=2349339&data=AP0X4_2hz3k4gSvx8vxmFQNyyt6asei7W6OkqiE8uehoMDAwdTAwMDxSCQU_tLgyNan_I0ruxS6IPccUdikf3f_KW57NuhhYkMScrbe9LNiU1OI7KF-2U6de7Rempf7zE96hwfZlKGiwHh4vXgGv-HZt_90DPXEqP1Z5cwFbL1ml2eKvg99jc2aCmVhSjdxXrIMq0uh6LmWVypt749-ll5ReWyDcix9AxqsGAKLIZjbeWzy68618gP6vWOYn6Y77-0RuZoBl_QWkcfbuSNZlukpKFQ4yb_oY4bifZvis9RPo3ul0a8-sP6K_baHx2v7p7ONJxrT1WepPdbHq8-xgHRspO6ktg8xXKIoiDWJHt9hX1DJWyQXJBPRQPJ78Qrj5Lm-N3i3udptvkwoyF-yfwPwp1AcUxRyu5e_GadUuC-vurGIzOX-EXDdDiw_qRYY-xdEqhwWIxEfqljI4IGSYj--nRc_nerkoq-d5hQcGP2hI2LCeNKc5kJ_KRgH6CJiJhVsrbFjD_Ww0IBh6iWNBfS5uuDzzTQ2fNhFrkPMlIlxME1eGjayVoNw6NxTIwinBbpX1Lq6NcWM=) Dont want to hear from us again? [ Unsubscribe from our emails here](https://link.the-ken.com/asm/?user_id=2349339&data=0_CIPLRfYLJAY_k_VJPkutCxWfSx9SzP7EY7K1imQdpoMDAwdTAwMEn3A_7tEjdm-5tId9GjeWHi4FEIK20ye7lue5IFBWbpMJ85QGzqfvfEhjLIU5E48P0zyIgzRGyx7QswlN23EKyewsc6lBTNeMik-e4l1cnf92js_DHES3VSSMVe1eoXWlEsM6SPw3wEorCQTD7GyqvzV7AEse5sqA7J-5mn-LFNpT3hUnZb5Jg51-xjHqr1yc116gjeGaxziGRBP6khwQQ030SqahfqH006_qQURThnkFwJwCTES9P8fKRbrytjvlm8VCOKQ5a2wSf8NggYSDvTsJr2wz9IMWhPN201eQHXpl1BW-dieNimQNG2nBQTVy6P6VfhQv213Hvj1rFhEdcAaq8Hf3CHW72lV8bqi6OON3AhE2ujDKePRn43Zejx45CCP2Zc9gUa5u0sgHr4tD4EydlWtKgdzuy3DWLoZ-2QHH563j3HP1onc-e4OmLsQ4D1pkOy9AeaBy3jZErWo8FQcdEi2BpvkWLLDsP-US7OmP2iiyGKDwN0JgUpti-UPg==).
+Something wrong? Tell us at [support@the-ken.com](mailto:support@the-ken.com)

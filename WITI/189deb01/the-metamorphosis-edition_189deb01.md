@@ -1,0 +1,24 @@
+---
+subject: "The Metamorphosis Edition"
+from: "\"Why is this interesting?\" <whyisthisinteresting@substack.com>"
+to: ""
+date: 2023-08-10 09:03:05
+labels: ["CATEGORY_PERSONAL", "INBOX", "UNREAD", "WITI"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "UNREAD", "Label_5752899537867939131"]
+---
+Noah here. A few months ago, I wrote the [caterpillar edition](https://link.sbstck.com/redirect/4f2a4227-03f7-4b66-8e0d-d542eb9dafa0?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o), in which I described my amazement at learning just what happened in metamorphosis:
+At some point, probably ten years ago, I first learned about what happens when a caterpillar goes into a cocoon. I proceeded to go around telling everyone I could find how insane the process of metamorphosis was. A small creature builds a little house and proceeds to disintegrate into goop, only to be put back together as a butterfly (or moth, or [a handful of other bugs](https://link.sbstck.com/redirect/45e990e5-a313-4d29-b848-48b72d7458b8?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)). The process is absolutely mind-boggling. After dissolving itself inside the cocoon, the only things left are called imaginal discs. “Before hatching,” [explains Scientific American](https://link.sbstck.com/redirect/bcce0bad-1ab9-45db-88f8-33d7b4d1c99d?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o), “when a caterpillar is still developing inside its egg, it grows an imaginal disc for each of the adult body parts it will need as a mature butterfly or moth—discs for its eyes, for its wings, its legs and so on.”
+The kicker in that piece was about insects' glue-like role in ecosystems, [relying heavily on this Elizbeth Kolbert quote](https://link.sbstck.com/redirect/8953a54d-051e-44bc-ad75-0415891d569a?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o), “Collectively, insects transfer more energy from plants to animals than any other group. They are the solder that holds food chains together.”
+WITI Classifieds:
+We are experimenting with running some weekly classifieds in WITI. If you’re interested in running an ad,[ you can purchase one through this form](https://link.sbstck.com/redirect/f8ddd977-45e9-4703-b09e-bf46a40a1f76?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o). If you have any questions, don’t hesitate to drop a line.
+Interpreting the internet for the tasteful reader. Join 23,000+ subscribers who rely on Dirt for their cultural alpha. [Subscribe for free](https://link.sbstck.com/redirect/d59cad74-764a-4056-b246-8d0676af584c?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o).
+Why is this interesting?
+Once again, I found myself reading about metamorphosis. This [time in a Quanta piece about a recent piece of apparently monumental research about whether insects maintain their memories when they move to the other side of their goo phase](https://link.sbstck.com/redirect/36ca8d03-2e41-437a-806d-b8e9d4367cf0?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o). (The article’s conclusion is probably not.)
+But what stood out most in the piece to me was this evolutionary explanation for why metamorphosis exists at all:
+Most researchers now believe that metamorphosis evolved to lessen the competition for resources between adults and their offspring: Shunting larvae into a very different form allowed them to eat very different foods than the adults did. “It was a great strategy,” Truman said. Insects that started to undergo complete metamorphosis, like beetles, flies, butterflies, bees, wasps and ants, exploded in number.
+A perfectly elegant explanation for a beautiful and insane process. (NRB)
+—
+Thanks for reading,
+Noah (NRB) & Colin (CJN)
+—
+[Why is this interesting?](https://link.sbstck.com/redirect/7f030cd1-d657-41f3-8d7d-2ee54622135f?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) is a daily email from[ Noah Brier](https://link.sbstck.com/redirect/0ad923f8-52c2-4694-a25e-06dfb70550c8?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) &[ Colin Nagy](https://link.sbstck.com/redirect/2c98e744-1cba-4f0b-ad30-6950cb47c363?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) (and friends!) about interesting things. If you’ve enjoyed this edition, please consider forwarding it to a friend. If you’re reading it for the first time, consider[ subscribing](https://link.sbstck.com/redirect/9e894232-c867-47b2-8c86-7918ceee463d?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o).

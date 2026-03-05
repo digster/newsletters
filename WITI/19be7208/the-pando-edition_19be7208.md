@@ -1,0 +1,9 @@
+---
+subject: "The Pando Edition"
+from: "\"Why is this interesting?\" <whyisthisinteresting@substack.com>"
+to: ""
+date: 2026-01-22 19:13:13
+labels: ["CATEGORY_PERSONAL", "INBOX", "UNREAD", "WITI"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "UNREAD", "Label_5752899537867939131"]
+---
+Todd Osborn (TO) is a United States Air Force Weapons Systems veteran. He is currently building a flight school. Todd here. When you look at photos of Pando in Utah’s Fishlake National Forest, your brain registers a nice woodland of aspens. But your eyes have been deceived. What looks like 40,000 individual trees is actually a single organism. A massive underground root system sending up genetically identical stems. It’s not a forest; it’s a clone. In normal tree-think, one trunk equals one tree. Pando behaves more like a server farm, with lots of visible hardware on the surface, all running off one shared, invisible infrastructure. The trunks you see are just temporary “ramets” that live for decades, while the root mass beneath has been hot-swapping them out for thousands of years. If a fire sweeps through, the system just routes around the damage and pushes up new nodes. Why is this interesting? Pando is a natural counterargument to how we define individuals. We like clean boundaries - things like one person, one car. Pando is a living thing that looks like a crowd. It’s the biological equivalent of a RAID array: you can lose individual drives (trunks), but as long as the controller (roots) holds up, the data survives. It’s also a reminder that our land management habits such as fire suppression and unchecked deer populations are stressing a system that was stable long before we showed up. Pando has been refactoring its own code for millennia, but we need to be aware that even a perfect redundant system has its breaking point. (TO) You're currently a free subscriber to |

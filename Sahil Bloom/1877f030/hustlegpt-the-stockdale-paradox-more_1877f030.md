@@ -1,0 +1,22 @@
+---
+subject: "HustleGPT, the Stockdale Paradox, & More"
+from: "\"Sahil Bloom's Curiosity Chronicle\" <sahil@sahilbloom.com>"
+to: ""
+date: 2023-04-14 09:05:14
+labels: ["CATEGORY_PERSONAL", "INBOX", "Sahil Bloom"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_1989028747625928812"]
+---
+The Stockdale Paradox, HustleGPT, & Moreread on read time 4 minutes Here are 5 interesting ideas to spark your curiosity heading into the weekend. Today at a Glance:- Question: What good have I done?
+- Quote: Doers vs. Talkers.
+- Framework: The Stockdale Paradox.
+- Tweet: ChatGPT enters the real world.
+- Article: Communicate effectively.
+Today’s newsletter is brought to you by Recently, I had the pleasure of staying at a Now they’re introducing
+Question I'm asking myself each evening:What good have I done this day? A few months ago, I was reading There are a lot good insights to draw from his routine (covered What good have I done this day? Simple, yet quite powerful. We can define good as we so choose—good we've done for others, good we've accomplished in our own endeavors, or good we've done within ourselves. However you choose to define it, asking this question each evening forces you to pause, identify a win, and appreciate it—even just for a moment. I'm a big believer that momentum is everything in life. When you start noticing your wins, you manufacture momentum and start having more of them. Try it and let me know what you think! One Quote:"I want to be around people who do things. I don’t want to be around people anymore that judge or talk about what people do. I want to be around people who dream, and support, and do things." - Amy Poehler Be a doer, not a talker. Always step into the arena. One Framework:The Stockdale ParadoxIn almost every case, those who’ve managed to thrive through life's inevitable challenges have managed a powerful psychological balancing act: - Hold unwavering faith in their ability to prevail; and
+- Accept the brutal facts of their current situation.
+This duality is what author Jim Collins calls the Stockdale Paradox. The name “Stockdale Paradox” is named after Admiral Jim Stockdale, who was the highest-ranking U.S. military officer in the “Hanoi Hilton” POW camp during the Vietnam War. For eight years, Stockdale faced dire circumstances with his fellow prisoners, but despite these conditions, he never lost faith in the end of his story. He was committed to prevailing as a good man despite the brutal facts of his present situation. When Collins interviewed Stockdale for his book, Good to Great, he asked how the Admiral had dealt with his situation (emphasis mine): “I never lost faith in the end of the story. I never doubted not only that I would get out, but also that I would prevail in the end and turn the experience into the defining event of my life, which, in retrospect, I would not trade.” But perhaps more importantly, Stockdale noted the importance of balancing this unwavering faith against a cold rationality: "This is a very important lesson. You must never confuse faith that you will prevail in the end—which you can never afford to lose—with the discipline to confront the most brutal facts of your current reality, whatever they might be." Admiral Stockdale said that the perpetual optimists were the ones who struggled the most to make it out. Their unwillingness to confront the harsh realities made them more susceptible to psychological agony in the face of unplanned and unavoidable setbacks. The Stockdale Paradox is a valuable lesson for individuals and businesses alike. To thrive through struggle, find a way to balance faith in your eventual success with the discipline to confront the difficult facts of your situation. One Tweet:Now this is the type of ChatGPT content I can actually get excited about. More of this, please!
+One Article: Some great rules for clear communication that are relevant for everyone: - Never make more than three points.
+- Explain difficult ideas in three different ways.
+- Make important points three times.
+Worth a read if improved communication is one of your goals (it probably should be one for all of us!). Refer Friends, Earn Rewards!
+If you enjoyed today's newsletter, please share it with your friends and family! If this email was forwarded to you, consider |

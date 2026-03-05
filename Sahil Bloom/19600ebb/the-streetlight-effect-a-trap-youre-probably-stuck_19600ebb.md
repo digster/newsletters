@@ -1,0 +1,57 @@
+---
+subject: "The Streetlight Effect: A Trap You're Probably Stuck In"
+from: "\"Sahil Bloom's Curiosity Chronicle\" <sahil@sahilbloom.com>"
+to: ""
+date: 2025-04-04 13:09:28
+labels: ["CATEGORY_PERSONAL", "INBOX", "Sahil Bloom", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_1989028747625928812", "UNREAD"]
+---
+The Streetlight Effect
+read and listen on [sahilbloom.com](https://click.convertkit-mail4.com/8kugoeez04coh23vzvrb0fkdpp599a3/48hvhehm54xq26ax/aHR0cHM6Ly93d3cuc2FoaWxibG9vbS5jb20vbmV3c2xldHRlci90aGUtc3RyZWV0bGlnaHQtZWZmZWN0)
+read time 2 minutes
+Programming Note: I'm experimenting with something new: The Friday Five will be split across four short weekday emails (1-2 minute reads). My goal is that this format will mean more of you are able to take action on these ideas and experience the growth that follows.
+My book was named a New York Times Bestseller for the 2nd consecutive month! 200,000+ people have joined this movement worldwide. Now's a great time to get started on your journey.
+P.S. Reply to this email with your receipt to get access to the 50+ page companion workbook to go deeper on the most important exercises.
+|
+Perfect your morning routine with my daily health partner [AG1](https://click.convertkit-mail4.com/8kugoeez04coh23vzvrb0fkdpp599a3/7qh7h8h9krnp4niz/aHR0cHM6Ly9kcmlua2FnMS5jb20vY2FtcGFpZ24vaW1tdW5pdHkvY3RyP3V0bV9jYW1wYWlnbj1zYWhpbGJsb29tX2QzNWN0X19hMTU4N19fbzQxJnV0bV9jb250ZW50PWludmVzdGluZ19fYTE1ODdfX280MSZ1dG1fbWVkaXVtPWluZmx1ZW5jZXImdXRtX3NvdXJjZT1yZWZlcnJhbCZ1dG1fdGVybT12YXJpYWJsZV9fYTE1ODdfX280MQ==):
+When it comes to my health routine, I've been choosing [AG1](https://click.convertkit-mail4.com/8kugoeez04coh23vzvrb0fkdpp599a3/7qh7h8h9krnp4niz/aHR0cHM6Ly9kcmlua2FnMS5jb20vY2FtcGFpZ24vaW1tdW5pdHkvY3RyP3V0bV9jYW1wYWlnbj1zYWhpbGJsb29tX2QzNWN0X19hMTU4N19fbzQxJnV0bV9jb250ZW50PWludmVzdGluZ19fYTE1ODdfX280MSZ1dG1fbWVkaXVtPWluZmx1ZW5jZXImdXRtX3NvdXJjZT1yZWZlcnJhbCZ1dG1fdGVybT12YXJpYWJsZV9fYTE1ODdfX280MQ==) since 2011.
+With science-backed ingredients and real benefits I can feel, AG1 makes it easy to support overall wellness every day. It's my daily nutritional insurance––the one constant in my morning routine since 2011. I take it with me at home and on the road (a lot these days) to feel and perform my best.
+AG1 is offering my amazing Curiosity Chronicle subscribers a FREE $76 gift when you [sign up](https://click.convertkit-mail4.com/8kugoeez04coh23vzvrb0fkdpp599a3/x0hph6her5qdn8t5/aHR0cHM6Ly9kcmlua2FnMS5jb20vc2FoaWw=). You’ll get a Welcome Kit, a bottle of D3K2 (I take this daily!), and 5 free travel packs in your first box.
+|
+The Streetlight Effect
+There's an old story that goes something like this:
+A drunk man is searching for his lost keys under a streetlight. A cop walks by and asks what he’s doing.
+"Looking for my keys," the man replies.
+"Did you lose them here?"
+"No, but this is where the light is."
+This story is the basis for something called The Streetlight Effect, which is the tendency to search for answers where it's easiest to look, not where the truth actually lies.
+It's easy to default to what's comfortable:
+- The assumptions we've always believed
+- The routines we've always maintained
+- The strategy we've always followed
+- The measures we've always tracked
+But sometimes that desire for comfort can lead you further from the actual goal. Sometimes you're just the drunk man searching for his keys under the streetlight.
+It takes courage to leave the safety of the streetlight. To stumble around in the dark. To tolerate the uncertainty. To embrace what you've avoided.
+But that's where your transformation begins.
+So this weekend, ask yourself: What truths am I missing for fear of leaving the safety of the streetlight?
+The answers you seek are found in the questions you avoid.
+Remember that.
+Order My First Book to Unlock Exclusive Bonuses:
+The 5 Types of Wealth is the compass for your journey to a life of wealth that goes far beyond money. It provides the actionable tools to define, measure, and design your life around the pillars that truly create lasting happiness and fulfillment.
+It will help you find your True North and build your life around it.
+Order now and you'll unlock several new, exclusive bonuses:
+- The 5 Types of Wealth Workbook: A step-by-step companion guide designed to help you work through the book’s key concepts and exercises.
+- Access to The 5 Types of Wealth Digital Community: Join a vibrant group of like-minded individuals committed to creating a life of comprehensive wealth. Connect, collaborate, and grow together.
+- Access to The 5 Types of Wealth Launch Workshop: Get exclusive access to the full recording of this transformative virtual workshop, where I’ll guide you through specific exercises designed to help you apply the principles of the book. Watch it anytime at your convenience!
+Sahil's Recommendation Zone
+Sponsored by: [Kit](https://click.convertkit-mail4.com/8kugoeez04coh23vzvrb0fkdpp599a3/x0hph6her5qdnni5/aHR0cHM6Ly9wYXJ0bmVycy5raXQuY29tL3NhaGlsYmxvb20tMDQwNDI1)
+Your audience uses email for everything. Kit helps you meet them there.
+Your audience lives in their inbox—not just checking newsletters, but managing their entire digital lives. I realized this when my open rates kept climbing while social engagement plateaued.
+I use Kit to connect with my community wherever they are - from welcome messages to milestone celebrations. These touchpoints create genuine relationships beyond just content consumption.
+My favorite part? When readers reply to share their stories. These conversations have sparked collaborations and friendships I never would have formed through one-way newsletter blasts.
+Kit turned my email strategy from broadcasting to building real connections.
+|
+Sahil Bloom
+|
+|
+|

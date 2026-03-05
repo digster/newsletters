@@ -1,0 +1,10 @@
+---
+subject: "The In-Flight Safety Video Edition"
+from: "\"Why is this interesting?\" <whyisthisinteresting@substack.com>"
+to: ""
+date: 2024-07-10 11:22:12
+labels: ["CATEGORY_PERSONAL", "INBOX", "UNREAD", "WITI"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "UNREAD", "Label_5752899537867939131"]
+---
+Colin here. For a while, there was an arms race of in-flight safety videos. All at once, airlines were moving from the just-the-facts approach of delivering information and instead trying to get clever and high-concept. Of course, they also threw boatloads of cash to up the ante. Virgin America kicked off the trend in 2007. Air New Zealand really leaned into it, producing nearly 20 safety videos since 2009, generally playing into Kiwi comedy but crescendoing into “the most epic safety video ever made.” Other airlines have also I realized we’d peaked, though, when I saw Qatar Airways' terrible in-flight video in the run-up to the World Cup. I am a fan of the airline and fly it often, but this was so cringeworthy, way too loud, and excessively long. You couldn’t turn it down, and a megaphone and a screaming coach were involved. Cringe to the max. Why is this interesting? Thankfully, the highfalutin concepts are appearing to taper off. For one, they might be funny the first time you see them. But if you fly the offending airline regularly, the novelty wears off quickly (especially in the case of the aforementioned Qatar) and the video just as quickly becomes grating. I’ve also always wondered if some of the underlying basic concepts of safety get lost in the sauce when the video is so juiced-up with other distractions that a passenger might not get the actual intended message. The pendulum, I believe, has swung back. ... Unlock this post for free, courtesy of Noah Brier.A subscription gets you:
+|

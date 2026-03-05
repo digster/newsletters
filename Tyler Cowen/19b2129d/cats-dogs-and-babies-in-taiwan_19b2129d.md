@@ -1,0 +1,10 @@
+---
+subject: "Cats, dogs, and babies, in Taiwan"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2025-12-15 08:39:07
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+Using newly linked Taiwanese administrative datasets, including an annual census of dog and cat registrations from 1999 to 2020 matched to complete personal tax records from 2009 to 2020, we revisit the claim that “pets crowd out babies.” We exploit two quasi-experimental price shocks: a childbirth subsidy and large receipt lottery windfalls. These allow us to estimate cross elasticities between childbearing and pet ownership. The results reveal a Marshallian cross elasticity of −1.32: as the effective cost of children falls, pet ownership rises. Combined with income elasticity estimates, we recover a child price elasticity of fertility of −0.21, suggesting that pets and children are complements, not substitutes. Event study evidence reveals dynamic asymmetry. Acquiring a dog sharply increases subsequent births among previously childless adults (a “starter family” effect), while a new baby temporarily depresses further pet acquisitions, likely due to time constraints. Overall, our findings challenge popular narratives and suggest that pet ownership may support, rather than displace, fertility.
+That is from an AEA session paper by Kuan-Ming Chen, Ming-Jen Lin, Hau-Hung Yang, and Shirley Yen, here is [the online abstract](http://marginalrevolution.com?action=user_content_redirect&uuid=3b3dd8b94c7ed0867556a2a54cf3da33a517985e29078b20b16d8922300f856a&blog_id=42693868&post_id=92048&user_id=262258391&subs_id=225460721&signature=52a9eef188565e7a5ac0d8662061d494&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly93d3cuYWVhd2ViLm9yZy9jb25mZXJlbmNlLzIwMjYvcHJlbGltaW5hcnkvMjI4Nz9xPWVOcXJWaXBPTFM3T3pNOExxU3hJVmJLcWhuR1ZySlFNbFdwMWxKSVRTMUxUODRzcWdYd2xIYVhFNHVMOFpBaXpKTFVvRjhKS1NZVEtsbVRtcGtKWVpabXA1U0REaWdvS2dBS21CaUNUQ2hMVFFiSVdTclZjTUZud1hDSm4&email_id=c82fdcc747dd47ddf21cf4ae2944ff32).

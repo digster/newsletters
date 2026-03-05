@@ -1,0 +1,66 @@
+---
+subject: "Recap: Here’s everything we published this week"
+from: "The Ken <info@the-ken.com>"
+to: ""
+date: 2024-12-15 03:40:53
+labels: ["CATEGORY_PERSONAL", "INBOX", "The Ken"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_8244464457792971031"]
+---
+|
+|
+Delivered to Ishan, Subscriber to The Ken.
+Sun, 15 Dec 2024
+|
+The Spotlight by Rahul Chaudhary
+Audience Engagement Lead
+|
+|
+Good Morning Ishan,
+Welcome to your Sunday recap of everything The Ken had to offer this week.
+In the spotlight
+[XLRI, unchanged for decades, goes where no B-school has gone before](https://the-ken.com/story/xlri-unchanged-for-decades-goes-where-no-b-school-has-gone-before/?utm_source=weekly_email&utm_medium=email&utm_campaign=weekly_recap_card)
+Instead of following the MBA placement path of ISB and IIMs, XLRI wants to cast its net into a wider ocean of academic possibilities
+It took almost seven decades for XLRI to venture out of Jamshedpur. But once out, it now wants to establish its presence in all corners of India. But the institute that introduced management education to India is at a turning point. Facing questions about the relevance of MBA education and its own growth, XLRI has decided to chart a new path. Aiming for deemed university status, the country’s leading B-school seeks to produce more than just managers. [[Read the full story](https://the-ken.com/story/xlri-unchanged-for-decades-goes-where-no-b-school-has-gone-before/?utm_source=weekly_email&utm_medium=email&utm_campaign=weekly_recap_card)]
+******
+[Chief digital officers eat chief information officers for breakfast](https://the-ken.com/story/chief-digital-officers-eat-chief-information-officers-for-breakfast/?utm_source=weekly_email&utm_medium=email&utm_campaign=weekly_recap_card)
+Technology has gone from a support function to an active tool in business growth, and CDOs are helming the change
+Chief digital officers are rising in prominence as companies look to drive revenue and growth through digital transformation. In fact, in the last five years, there’s been a 40–50% rise in the demand for CDOs even as chief information officers are finding it hard to keep up.
+While a CDO is primarily focussed on driving tech innovation, many of these executives bring diverse cross-functional expertise to the role with backgrounds in management, consulting, IT, sales, and more. With tech evolving every now and then, CDOs may also have to keep up in terms of reskilling their teams. [[Read the full story](https://the-ken.com/story/chief-digital-officers-eat-chief-information-officers-for-breakfast/?utm_source=weekly_email&utm_medium=email&utm_campaign=weekly_recap_card)]
+******
+[AI comes to annihilate India’s SaaS companies](https://the-ken.com/podcasts/two-by-two/ai-comes-to-annihilate-indias-saas-companies/?utm_source=weekly_email&utm_medium=email&utm_campaign=weekly_recap_card)
+Will every SaaS company end up becoming an AI company to survive?
+[[Read the newsletter (it’s a free read)](https://the-ken.com/newsletters/two-by-two/ai-comes-to-annihilate-indias-saas-companies/?utm_source=weekly_email&utm_medium=email&utm_campaign=weekly_recap_card)]
+******
+[Indigo’s crown of thorns](https://the-ken.com/long_and_short/indigos-crown-of-thorns/?utm_source=weekly_email&utm_medium=email&utm_campaign=weekly_recap_card)—The biggest bird in the Indian skies has become a victim of its own success [[Read here](https://the-ken.com/long_and_short/indigos-crown-of-thorns/?utm_source=weekly_email&utm_medium=email&utm_campaign=weekly_recap_card)]
+Startups
+[What happened when Bold Care and Mymuse made buying sex pills and toys as easy as condoms and chips](https://the-ken.com/story/what-happened-when-bold-care-and-mymuse-made-buying-sex-pills-and-toys-as-easy-as-condoms-and-chips/?utm_source=weekly_email&utm_medium=email&utm_campaign=weekly_recap_card)
+D2C sexual-wellness brands check the missing boxes—bring discreetness, health advice, and urgency. Quick-commerce firms help them sell
+D2C sexual-wellness brands help bring a wide range of products to people who couldn’t access them earlier. For these brands, making a mark amongst brands like Durex and Manforce means newer products and building brand identity people want to buy into. This doesn’t come without some scepticism for the products and marketing challenges with grey definitions of ‘obscenity’. But these D2C brands aim to go full circle with an arm in sex health consultations and speedy legs that quick commerce brings for them. [[Read the full story](https://the-ken.com/story/what-happened-when-bold-care-and-mymuse-made-buying-sex-pills-and-toys-as-easy-as-condoms-and-chips/?utm_source=weekly_email&utm_medium=email&utm_campaign=weekly_recap_card)]
+******
+Six-year-old Indkal Technologies scaled without factories, piggybacking on a couple of global giants. Now, it has to show that the low-capex, high-licensing model can thrive in India’s high-octane electronics market
+Bengaluru’s Indkal Technologies has rapidly scaled by cranking out appliances for Acer and Black+Decker—without even owning a factory. It leans on contract manufacturers like Dixon and Amber to handle production while it focuses on product design, sales, and service. Whether through aggressive pricing or superior features and service, Indkal’s revenue has surged in the past two years. But with razor-thin margins and macroeconomic headwinds, Indkal’s survival is the canary in the coal mine for an industry grappling with an underdeveloped component ecosystem. [[Read the full story](https://the-ken.com/story/the-acer-brand-and-dixons-factories-the-rise-of-an-upstart-electronics-maker-that-manufactures-nothing/?utm_source=weekly_email&utm_medium=email&utm_campaign=weekly_recap_card)]
+******
+[How Acko beat Godigit with just 15 health-insurance agents](https://the-ken.com/story/how-acko-beat-godigit-with-just-15-health-insurance-agents/?utm_source=weekly_email&utm_medium=email&utm_campaign=weekly_recap_card)
+The digital-first insurer is three years late to the retail-health segment but commands 40% more premium income in this space than its listed rival
+Godigit took the lead as India’s first listed and largest VC-funded insurtech company, but its distribution is driven by on-ground agents. Acko adopted a digital-first strategy to appeal to the app-first crowd aged between 20 and 50, and managed to gain more premium in the retail-health space than most others. The company has managed to gain customers’ trust by walking the extra mile of medical underwriting and with almost no agents on ground. Meanwhile, Acko has been loosening the purse strings when it comes to marketing. [[Read the full story](https://the-ken.com/story/how-acko-beat-godigit-with-just-15-health-insurance-agents/?utm_source=weekly_email&utm_medium=email&utm_campaign=weekly_recap_card)]
+******
+[Tata and ITC are harvesting what small organic-food brands cultivated for years ](https://the-ken.com/podcasts/daybreak/tata-and-itc-are-harvesting-what-small-organic-food-brands-cultivated-for-years/?utm_source=weekly_email&utm_medium=email&utm_campaign=weekly_recap_card)—There is a growing market for organic products in India. But in the process, smaller, new-age brands seem to be getting the short end of the stick [[Listen here](https://the-ken.com/podcasts/daybreak/tata-and-itc-are-harvesting-what-small-organic-food-brands-cultivated-for-years/?utm_source=weekly_email&utm_medium=email&utm_campaign=weekly_recap_card)]
+******
+[India’s second-largest logistics player is hurting after putting all its eggs in one basket ](https://the-ken.com/podcasts/daybreak/indias-second-largest-logistics-player-is-hurting-after-putting-all-its-eggs-in-one-basket/?utm_source=weekly_email&utm_medium=email&utm_campaign=weekly_recap_card)—Earlier this year, Meesho announced the launch of Valmo, its own in-house logistics arm. Naturally, third-party logistics partners are nervous. But no one is more shaken up than Ecom Express [[Listen here](https://the-ken.com/podcasts/daybreak/indias-second-largest-logistics-player-is-hurting-after-putting-all-its-eggs-in-one-basket/?utm_source=weekly_email&utm_medium=email&utm_campaign=weekly_recap_card)]
+******
+[New acquisitions, old tactics](https://the-ken.com/edsetgo/new-acquisitions-old-tactics/?utm_source=weekly_email&utm_medium=email&utm_campaign=weekly_recap_card)—The rumors about Unacademy’s buyout follows a familiar tune [[Read here](https://the-ken.com/edsetgo/new-acquisitions-old-tactics/?utm_source=weekly_email&utm_medium=email&utm_campaign=weekly_recap_card)]
+The Ken Learning is hiringWith over three years of narrative thinking workshops that have seen the participation of nearly 250 business leaders under our belt, The Ken Learning is ready to add a marketer to our team. If you are someone who pursues excellence and values the power of narratives, apply through the link below. |
+Stories you don’t wanna miss
+[Dead mall rising: The life and death of Indian shopping centres](https://the-ken.com/podcasts/daybreak/dead-mall-rising-the-life-and-death-of-indian-shopping-centres/?utm_source=weekly_email&utm_medium=email&utm_campaign=weekly_recap_card)
+There are at least 400 malls across the country. But a growing proportion of them are either dead or on life support [[Listen here](https://the-ken.com/podcasts/daybreak/dead-mall-rising-the-life-and-death-of-indian-shopping-centres/?utm_source=weekly_email&utm_medium=email&utm_campaign=weekly_recap_card)]
+[10-minute delivery is eating 40-minute food delivery](https://the-ken.com/the-nutgraf/10-minute-delivery-is-eating-40-minute-food-delivery/?utm_source=weekly_email&utm_medium=email&utm_campaign=weekly_recap_card)—Zepto Cafe, Swiggy Bolt, and Blinkit’s Bistro are disrupting themselves [[Read here](https://the-ken.com/the-nutgraf/10-minute-delivery-is-eating-40-minute-food-delivery/?utm_source=weekly_email&utm_medium=email&utm_campaign=weekly_recap_card)]
+[The illegal EMI inflator that may be hiding in your home loans ](https://the-ken.com/kaching/the-illegal-emi-inflator-that-may-be-hiding-in-your-home-loans/?utm_source=weekly_email&utm_medium=email&utm_campaign=weekly_recap_card)—Bank loan agents seem to be forgetting an all-important part of the selling process—getting informed consent [[Read here](https://the-ken.com/kaching/the-illegal-emi-inflator-that-may-be-hiding-in-your-home-loans/?utm_source=weekly_email&utm_medium=email&utm_campaign=weekly_recap_card)]
+[Why the clock is ticking for Indian smartwatch makers](https://the-ken.com/podcasts/daybreak/why-the-clock-is-ticking-for-indian-smartwatch-makers/?utm_source=weekly_email&utm_medium=email&utm_campaign=weekly_recap_card)—Boat and Noise—brands that had dominated the market thus far and set all sorts of new records—are now losing their sheen [[Listen here](https://the-ken.com/podcasts/daybreak/why-the-clock-is-ticking-for-indian-smartwatch-makers/?utm_source=weekly_email&utm_medium=email&utm_campaign=weekly_recap_card)]
+[Most Favoured Employee](https://the-ken.com/newsletter/first-principles/most-favoured-employee/?utm_source=weekly_email&utm_medium=email&utm_campaign=weekly_recap_card)—We should want the same mentoring, opportunities, and growth that others might be getting. And we should be unafraid of asking for it [[Read here](https://the-ken.com/newsletter/first-principles/most-favoured-employee/?utm_source=weekly_email&utm_medium=email&utm_campaign=weekly_recap_card)]
+[Tata wants to make iPhones in South India by copying China’s dorm labour model. Here’s why it won’t work](https://the-ken.com/podcasts/daybreak/tata-wants-to-make-iphones-in-south-india-by-copying-chinas-dorm-labour-model-heres-why-it-wont-work/?utm_source=weekly_email&utm_medium=email&utm_campaign=weekly_recap_card)—As the focus shifts our way, manufacturers in India are pretty much replicating the same China labour model. But this model has an indigenous problem [[Listen here](https://the-ken.com/podcasts/daybreak/tata-wants-to-make-iphones-in-south-india-by-copying-chinas-dorm-labour-model-heres-why-it-wont-work/?utm_source=weekly_email&utm_medium=email&utm_campaign=weekly_recap_card)]
+[The power of persuasion ](https://the-ken.com/incitingincident/the-power-of-persuasion/?utm_source=weekly_email&utm_medium=email&utm_campaign=weekly_recap_card)—AI fed with population-level data is creating personalised narratives that are extremely persuasive, but it comes at the risk of losing audience trust [[Read here](https://the-ken.com/incitingincident/the-power-of-persuasion/?utm_source=weekly_email&utm_medium=email&utm_campaign=weekly_recap_card)]
+[Milking the India opportunity](https://the-ken.com/tradetricks/milking-the-india-opportunity/?utm_source=weekly_email&utm_medium=email&utm_campaign=weekly_recap_card)—Abercrombie & Fitch, LG Electronics, and Apple [[Read here](https://the-ken.com/tradetricks/milking-the-india-opportunity/?utm_source=weekly_email&utm_medium=email&utm_campaign=weekly_recap_card)]
+That’s a wrap for this week. If you have thoughts or suggestions you’d like to share, leave a comment on our website or app, or write to our writers and podcasters. You can also write to me at [rahul@the-ken.com](mailto:rahul@the-ken.com).
+Take care.
+Regards,
+Rahul

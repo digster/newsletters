@@ -1,0 +1,27 @@
+---
+subject: "The unknown backstory behind Pine Labs, India’s 29th unicorn"
+from: "The Ken <info@the-ken.com>"
+to: ""
+date: 2020-02-07 02:36:12
+labels: ["CATEGORY_PERSONAL", "INBOX", "The Ken"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_8244464457792971031"]
+---
+Good Morning Ishan,
+Unicorns may be mythological creatures, but the world nonetheless has 500 of them today. And Pine Labs, the largest provider of payment terminals and solutions in India, is #29 from the country.
+But unlike many of its brethren, Pine Labs has real revenues, occasional profits, and a fairly robust business model. Over 400,000 of its payment terminals power more than 100,000 retail outlets in India. These terminals allow merchants to accept payments from virtually any kind of payment method—debit and credit cards, e-wallets, QR codes, and UPI. And with customers ranging from modern chains like Shoppers Stop and Future Group right down to tens of thousands of mom-and-pop stores, Pine Labs is said to process nearly 15% of India’s retail card volumes.
+The nimble company also saw the writing on the wall about disappearing margins in India’s payments space early on. So, it diversified into credit solutions, data analytics, loyalty, and gifting programs for retailers, including by making a $110 million acquisition of gift card solution provider Qwikcilver last year. It’s also expanding into Southeast Asia.
+All of this while having raised just a measly $1 million from Sequoia in 2009 and then nothing till 2018. Or at least nothing that it disclosed. And then, boom, $82 million in 2018, $125 million in 2019 and as much as $300 million last month.
+As narrative arcs go, Pine Labs is the stuff of startup lore.
+Except, there’s a backstory. A backstory involving a founder who founded the company five years after it was formed, petroleum companies, and two obscure sections of the Indian Copyright Act.
+As Sumanth, the author of the story says, “mythologising false narratives around entrepreneurship is dangerous and disingenuous.”
+Read his story to know why: [https://the-ken.com/story/pine-labs-unicorn-future-hoary-past/](https://the-ken.com/story/pine-labs-unicorn-future-hoary-past/?utm_source=daily_story&utm_medium=email&utm_campaign=daily_newsletter) (10-minute read)
+Sincerely,
+Rohin Dharmakumar
+PS: Do you have a great story idea for us? You could be writing for us, too. Visit our contributions page [here](https://link.the-ken.com/ls/click?upn=sy6ExvMQ-2BqIqW2Qsf-2FVG5kDc8OFPxAZ8h5IxeCZT6WvX99UnqUwEiBsYqfjQmB005avD_dmDs81p1OM5gBGYvHfsMFvgp9PcMB6iZkwowmLx-2FVhwlHXbL5m6csiptGuneRwktW27c6ZwIBsjV67BZcfkOlPppVavmb9GVjXF4V-2FTqNpUaPx03ZEhHeYhshAbBQqn9g54D48HTXkB3Ie60wu6FL97ptlNuKJxjeO0zFnCuMijO9NR-2FFmuwC4OXy7UW07-2FjbFikcRZYDyGaDQ2b-2FttJi9Rd1T9I0njSxdUArQ3uEwaXb6qINkrfQMaof18LIl3-2BuEty-2FRkaWpBv0qXKlO3oJPaRiYzSMtFkTlh8yaDPggi9Vr1fILZP73HwWvWfyTCHei1-2Fy6JmKbLfYgeT73HUPkDAzJKkwBUC8lVSnjdQMhnKNjbBFt0rrNfFHsiundHUUhHHwN8Zz-2F7uVXaQXKFEwUcp14vJskxMyqGWVIn5pQA-3D) to understand the kind of stories we're looking for, and to send in a pitch. We hope your next story is with us!
+|
+What you just read is the personalised daily introduction to The Ken's story. Written by a different person each day. Often insightful, sometimes witty, and very rarely boring. Someone sent this to you? [Sign up for free](https://the-ken.com/?modal=register). Don't like these? You can [unsubscribe](https://link.the-ken.com/asm/unsubscribe/?user_id=2349339&data=7etta91ZZlavtoGRzZVHhT8cRjTRg94mpti5vtqMgfjGUWrAJQ5D5pkq2cPGp630a9ZBiwRMoYHKU8YsFtyrvK5syauMezwqJq8o6fVk3Vwui6y8H7S1T6DSDfShoqEJpkVUnGL5wiPdeJsY19QErCfAfJm2CC6h11SKpXY65dVSM3OE2xhJhsRUHEXmyT279AeYRm3At6M3Gjg7R9vyiSRaOdU0XPOY1Dk0MgRq2DDIsSNe5NQBkXBMOMDMFmBYktOGJhEfRE9ETCMMnVVvWzCKEUVH2febU_lewQGDw6jImXzTHxkNofNRLbzA1gtozTFuOfGlSqrMaUJq0mij5Ql6WRf7ti8jDOTkcbnomkfhXqeYnzY8dj-laS29VBFfH6059A4ADxF5iX3D9bVGE001VCaIJSrt2FW4JjbjSUFNFHP0wgte7_fO-HTphr60Txv0q9_ycleqxcGmhMEEc9O87gr8HdLt7I-sPyQGwxToVkL81LfTqZ1oosa7Wh9wmO8ua5bzOfRjEKp0RMF-9ZMgF6FSOlvo6EQGQIHQ-ug=). Want to manage your emails? Click [here](https://link.the-ken.com/asm/?user_id=2349339&data=EpbnNd0Iz5WnxcG2skFZO5dGqhf8raXY15K67-9mMqeWnRY18Hs3acWDEfYRyhPAh-IU0Nk1c_rmp5x38Zy_wytjZQ6CHpH5spZwVNO3_S-LI1ThNrheYB-B9WIWIEhP1QGHdUMMqzo5lgzRhIrEmipon2XmQ-KxWU2SLra7hY7CRWv8g1N-SOdc3Qr9WtuIoWImBoQfRGBYoHpDD2C16txZMnjnsKz7trH0rxEoNP_1rp3dSAKmvGcB2FAOE7XvRQw7-WZJ6Xi4mmfzGOr3NqZ8T9GCgFQ_JhuM9QlY_rnbHO0aM1NTf1XoUwvW05g5E28kfqIB_shYcdZRCwvfqpBm_kQ9jFjELboJsDctnZn4YhVhVJ3Q-qfEV46YAtcU0ODSCWeGIty-wQ1F7KwpRq3SHRBmBri2dcMHc0mBN7LxDKLuxNrwKegvx4wQBrGzjkbDHCjBk1jYmWi3ol4pd46CYx21eZBO6EnIxLD_A8w6bkgjA2ibxUsUWgjxcR_u8Ofac_SxayfQigr1EEk1DA==).
+|
+|
+|
+|
+|

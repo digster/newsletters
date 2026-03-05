@@ -1,0 +1,12 @@
+---
+subject: "They are solving for the (electoral) equilibrium"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2026-01-13 18:53:34
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+Social Security also got quietly more generous during this period. Each year, the Social Security Administration compares the C.P.I.-W (the Consumer Price Index for Urban Wage Earners) for the third quarter to the third quarter of the previous year and, if needed, adjusts benefits upward to compensate for inflation. There happen to have been three years during Obama’s presidency —
+[2009, 2010, and 2015]— when the mathematically correct cost-of-living adjustment would have been negative. What actually happens in this case is that seniors get zero cost-of-living adjustment, which means that, in real terms, benefits ratcheted upward.Then during the Biden administration, Congress ended up passing the Social Security Fairness Act, which
+[increased Social Security benefits for a disproportionately affluent set of retirees with access to other pensions]with very little fanfare. This happened via a hugely bipartisan vote, so even organizations that were critical of the idea when it was first proposed were mostly silent as it actually happened. Then during the 2024 presidential campaign, Donald Trump proposed “[no tax on Social Security],” which is really just a way of making Social Security benefits[mildly more generous]for high-income seniors.
+That is [from Matt Yglesias](http://marginalrevolution.com?action=user_content_redirect&uuid=6506c8fc1f1356e0853ca58da30a9364791913eb2a4c9d0a14fdeb12b6a8164c&blog_id=42693868&post_id=92234&user_id=262258391&subs_id=225460721&signature=2c078da0c04c3263efdf35365384c712&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly93d3cuc2xvd2JvcmluZy5jb20vcC93aGVyZS1oYXMtYWxsLXRoZS1tb25leS1nb25lP3V0bV9zb3VyY2U9cG9zdC1lbWFpbC10aXRsZSZwdWJsaWNhdGlvbl9pZD0xNTkxODUmcG9zdF9pZD0xODQwMjUxNDAmdXRtX2NhbXBhaWduPWVtYWlsLXBvc3QtdGl0bGUmaXNGcmVlbWFpbD1mYWxzZSZyPTNvOSZ0cmllZFJlZGlyZWN0PXRydWUmdXRtX21lZGl1bT1lbWFpbA=&email_id=e645b0db7a140d1675cd87ee7b706d3e). It would be amazing if we got away with all of this!

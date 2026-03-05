@@ -1,0 +1,232 @@
+---
+subject: "Taking on Google search: Perplexity and Kagi"
+from: "The Pragmatic Engineer <pragmaticengineer+deepdives@substack.com>"
+to: ""
+date: 2025-01-28 17:35:42
+labels: ["CATEGORY_PERSONAL", "INBOX", "The Pragmatic Engineer", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_6413324878686416177", "UNREAD"]
+---
+|
+Hi – this is Gergely with the monthly, free issue of the Pragmatic Engineer Newsletter. In every issue, I cover challenges at Big Tech and startups through the lens of engineering managers and senior engineers. If you’ve been forwarded this email, you can [subscribe here](https://substack.com/redirect/aad1de3b-9a0a-46ec-9ee8-04d52251ca0e?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o).
+Google is the undisputed king of search engines, with around [90%](https://substack.com/redirect/89cba133-e6fe-49a1-9690-e81ba53d0a94?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) market share. The product generates revenue exclusively via advertising, and it is a lot. The tech giant’s revenue from ads placed in users’ search results has exploded in 20 years: from $1B in 2004, to around $200B, last year. Today, around 70% of Google’s revenue comes from this single source, alone.
+Predictably, this has led to Google search starting to feel more like an “ads engine”, and less like a search engine. About a year ago, I began using alternatives, and have since replaced day-to-day use of Google search with two other products developed by startups:
+Perplexity: an AI-powered search engine and answer engine, changing how people discover information online. It’s a VC-funded startup on the rise.
+Kagi: a search engine with no ads, which gives “power back to the user.” A bootstrapped, profitable company growing at a reasonable pace.
+To learn more about these challengers to Google search, I reached out to both to ask how their engineering teams operate in this bold mission to disrupt the web search market.
+Today, we cover:
+Backgrounds and cultures. One of these companies is rumored to be valued at $9B, while the other has taken no VC-funding. Perplexity is mostly in-office these days, while Kagi is full-remote.
+Tech stack and AI tools. Kagi uses the lesser-known Crystal programming language and builds a simple but novel message+passive system. Perplexity is built on React+NextJS, and also uses its own custom LLMs.
+How does Kagi index? A search engine is only as good as its index. Kagi aims to only crawl high-quality websites, and to skip sites with too many ads. This custom index explains its distinctive search results, compared to other search engines.
+How is Perplexity so fast? Speed is an important differentiator for Perplexity, and a source of constant tweaking. Surprisingly, the product runs multiple models for every query, under the hood.
+Engineering practices. At Perplexity, there’s no formal design review process, and AI evaluations are defined upfront. At Kagi, there’s “checkpoint standups” and trunk-based development. Both companies use Linear for task and project management. For more about the innovative project management startup, Linear, check out this
+[deepdive](https://substack.com/redirect/987726f1-9c5d-4342-838f-67e0bb4907f4?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o).Product milestones. Perplexity employed a smart strategy of initially launching as something akin to a lightweight wrapper, and then built their own search index, API, and custom features such as “Shop Like a Pro.” Meanwhile, Kagi spent considerable time building out the core experience, and then launched lots of additions like FastGPT, Kagi Translate, and more.
+Unique challenges of “search engine engineering”. For Perplexity, creating a “futuristic” experience was probably the trickiest part. For Kagi, it’s the attention to even the smallest details, in order to gain and retain customers.
+This is an engineering culture deepdive. See similar ones about [Meta](https://substack.com/redirect/a8b423a6-a4b7-4e0e-8d92-1296ed234248?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o), [Amazon](https://substack.com/redirect/8c4f5457-536d-47d7-b619-2d912c88da6b?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o), [Stripe](https://substack.com/redirect/6b440d12-68cb-4062-8ca9-9be7c89d6484?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o), [OpenAI](https://substack.com/redirect/d1bb1793-5445-4d6c-9f10-adb94f5455d6?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o), [Figma](https://substack.com/redirect/51c058ae-21c2-4571-b5ad-592436a3dddb?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) and [several other tech companies](https://substack.com/redirect/16c612be-3b6a-4ad7-b448-03901f3a0982?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o).
+Thanks to [Alex Lang](https://substack.com/redirect/00fbf30a-646c-4d4a-981b-51e5a7b2b677?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) (engineering lead at Perplexity), Zac Nowicki (tech lead at Kagi Search), and [Vladimir Prelovac](https://substack.com/redirect/79654f4f-91ec-45d7-9f63-9881748c0a41?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) (founder and CEO at Kagi Search) for sharing interesting details.
+Note: I have no commercial affiliation with Perplexity or Kagi, and was not paid to write about them in this article. I also get no compensation from the special offers for my subscribers (see below). Indeed, it was I who asked if these companies would consider making these offers. See more [in my ethics statement.](https://substack.com/redirect/2fab6de4-9b9e-437d-9c27-0bcf9bfd2fbf?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+Special offer: paying subscribers of The Pragmatic Engineer get free access to paid versions of Perplexity and Kagi. As a paid subscriber, you get:
+Perplexity Pro for one year (worth $200)
+Kagi Ultimate for 3 months (worth $75)
+See [more context and details on this offer](https://substack.com/redirect/2188cc16-95e6-45ba-af05-1cdd6eaa9624?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o).
+The bottom of this article could be cut off in some email clients. [Read the full article uninterrupted, online.](https://substack.com/redirect/c8cb4813-af70-4777-a108-a524a53a8626?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+Some stats about this Google search challenger:
+2022: Founded by Aravind Srinivas (CEO), Denis Yarats (CTO), Johnny Ho (Chief Strategy Officer), and Andy Konwinski
+$9 billion:
+[Rumoured](https://substack.com/redirect/463aa562-2867-4319-b7ec-98382edaf765?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)valuation as of December 2024; up from $520 million just a year ago. This is truly standout for such a young company!20 million search queries per day: the latest milestone hit; almost a 10x increase on a year ago, when there were 2.5M search queries.
+165 people: team size, two-thirds of whom work on the tech team.
+The tech organization is currently structured as four groups, with some groups consisting of several teams:
+AI
+Search
+Product Engineering
+Design
+Perplexity’s company values:
+Curiosity
+Quality
+Ownership
+Velocity
+Perplexity is mostly in-office, after operating as remote in its early days. While scaling up, the company is focused on hiring for the office; or at the very least, for pods in the same city. Perplexity has locations in:
+San Francisco: 70 people
+New York: 14 people
+Austin, Texas: 9 people
+Europe: 32 people
+Remote, in the US: 37 people
+What’s it like to work at Perplexity? Alex Lang says ownership and communication are priorities:
+‘Everything for us works backwards from the end-user. We want to imbue a spirit of curiosity and quality that reflects the best ideal of an answer engine. Once we have found the right projects to tackle, we place extreme emphasis on ownership and velocity.
+We want everyone to have high ownership and place a high bar on ourselves. We also recognize that impact delivered today has higher value than some improvement in the distant future.
+We try to minimize standing meetings. Ongoing communication is extremely important for us. We value using Slack to communicate, hold a quick huddle if needed – but keep meetings to a minimum.’
+Some figures about the business:
+2018: founded by Vlad Prelovac, in Palo Alto, US.
+$0 raised in VC funding. In 2023 and 2024, the company raised funds – from users!
+[A total](https://substack.com/redirect/b67bee73-098c-495b-9f3b-6e40a34b2318?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)of $2.4M.~750,000 search queries per day:
+[See realtime stats.](https://substack.com/redirect/4c1df9f1-4314-4d8e-b3c1-cfdb96ea5bd5?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)40 people: team size.
+Live stats: See
+[realtime details](https://substack.com/redirect/4c1df9f1-4314-4d8e-b3c1-cfdb96ea5bd5?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)on the number of members (over 37,000), queries, families using the product (more than 3,000), and more. This is a surprising level of transparency!
+Of the 40-strong team, 30 are engineers. Engineering is divided into:
+Core products (Search, Assistants, Maps): 15 engineers
+Research and development (building new stuff): 5 engineers
+Kagi is a remote-first working environment. Team composition by location:
+US and Canada: ~45%
+Europe: 40%
+Asia: 15%
+What’s it like to work at Kagi? Zac Nowicki says communication matters:
+‘Open communication is king, in public channels, using our internal forum, staying out of DMs (unless discretion warrants it, of course). Some people can be shy about asking simple questions, but it is so important for optimizing remote communication loops and making issues (and wins!) visible. The worst thing is when some key decision was made behind "closed doors" and has repercussions we need to walk back weeks later. Or people debugging minor issues with our systems, out of sight from an engineering colleague who could solve the root cause, or otherwise inform our DX improvements.
+‘In a physical working space, there is constant implicit communication; overhearing others, seeing things put on walls and whiteboards. Even body language; physically being able to see your coworker is having a hard time, and extending a helping hand. You don't put any effort into these things, they just happen.
+‘Remote work is not for everyone because it’s a lot more effort to communicate openly. In remote, silence is the default. Nothing happens or has any nuance unless you put yourself forward and engage. Putting effort into crafting a safe space for open, remote communication that feels natural is important for leaders to put serious thought into.
+‘Explicitly passing the baton comes to mind, too. If something needs a review, tag someone; anyone. It is okay if they don't have domain knowledge, as they will pass it to someone else if necessary. What doesn't work is putting things into the void and hoping someone will notice.’
+Let’s take a look at the technologies these two search startups use.
+Frontend and backend
+TypeScript as the preferred programming language
+React as the frontend framework
+Next.JS for server-side rendering as the full-stack framework powering the front and backends
+Modern JavaScript stack: using tools like
+[eslint](https://substack.com/redirect/ccf0710a-5114-412c-883e-b70819067e99?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)(static code analyzer),[turborepo](https://substack.com/redirect/05d3555f-5dc4-46b0-b5a6-990e552246cd?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)(incremental bunder and build system for JavaScript and TypeScript),[prettier](https://substack.com/redirect/f9641efc-738f-4d24-9c89-0ffa7f88edc7?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)(an opinionated code formatter / linter)
+AI and machine learning (ML):
+AI models: continuously keeping up with the latest foundational models. Perplexity evaluates them and uses ones that make the most sense.
+Python and
+[PyTorch](https://substack.com/redirect/f47f1ec5-31e7-476a-bca4-1d305965da3b?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)(a deep-learning framework in Python)
+Senior Frontend Engineer Oleg Akbarov said Perplexity moved from NextJS Pages Router to App Router, for a snappier web experience:
+‘The Perplexity web experience was initially built as a NextJS web application using:
+[Pages Router](https://substack.com/redirect/ccb738b5-281e-44fc-8e75-87c08d41a724?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)for routing[Redux](https://substack.com/redirect/7c939cc0-5823-4dd2-becb-7c5372b0b0e3?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)for state management
+‘It was a great prototype and allowed a fast time to first byte (TTFB) experience for server-rendered routes. It also helped us ship a moderately dynamic experience within the pages.
+‘However, about a year ago, we wanted to improve the navigation within the application and streamline the query submission experience. It was at this point that the performance limitations of a Pages Router became apparent. It was right at this time that the NextJS team introduced a new router version called App Router. [App Router](https://substack.com/redirect/7483a7e4-cb50-40ab-b4ed-f72ed692d963?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) was a great fit for our use case: it allowed us to build rich, dynamic user interfaces without sacrificing the performance benefits of [server-side rendering](https://substack.com/redirect/39d4f0aa-6710-44a8-945d-6832b7b00112?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) (SSR).
+‘We needed to not slow down our shipping speed, while moving routing frameworks. Here is how we phased our migration:
+Replace Redux with react-query. We did this because
+[react-query](https://substack.com/redirect/866b759f-c3c6-453f-9fd4-1ef0992a5307?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)has superior support for server rendering. It also has useful out-of-the-box features like[optimistic updates](https://substack.com/redirect/29db8a00-7661-4c88-8145-50ce08be9243?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)and query revalidation (refreshing or updating cached queries to ensure they are up to date).Gradually updating route logic. We carefully transitioned all the APIs from Pages Router to the new version, App Router.
+Move data fetching logic. We moved data fetching logic to
+[React Server Components](https://substack.com/redirect/bcd845f3-338e-4bac-b48e-2f35ec93ba1e?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)(RSC).
+‘Completing these stages took a few months. At the same time, we kept shipping new features even as the migration was ongoing. Best of all, the migration was invisible for end users.’
+A lot of experimentation with AI tools: The Perplexity team is encouraged to experiment with AI tools. The most popular with engineers are:
+GitHub Copilot and Cursor as IDEs. Most engineers inside the company use both – which was somewhat surprising to hear, as I’d assume engineers would settle on a favorite! Both have upsides, like Cursor’s
+[Composer](https://substack.com/redirect/eefef3b9-b876-4422-af35-1cb38db4df1e?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o), and GitHub’s smooth integration with Visual Studio Code.Internal tools to modify Perplexity’s custom LLMs. Perplexity has its own, internal large language models (LLM). This keeps being tweaked by the team, which requires engineering knowledge to do. The engineering team is also building tools so that later on, product managers can also make modifications.
+Here’s the tech stack behind Kagi:
+Backend:
+Crystal: the programming language used for the search binary.
+[Crystal](https://substack.com/redirect/7ee1a173-71b2-42b5-805f-ea37be7bb1ea?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)borrows a lot from Ruby (syntax/semantics), and Go (concurrency). The search binary contains all top level application logic and rendering.Custom backend: The backend framework is largely custom; bootstrapped on some primitives from the standard library. Kagi uses a simple, novel message-passing system scripted using a visual diagramming tool.
+Postgres: database of choice. For DB ops, the team uses Crystal's standard database driver for Postgres, and writes queries and migrations in raw SQL. The driver library provides a set of utilities for deserializing rows into types and connection poolings, which makes it very nice to use. Recently, the primary database instance was upgraded from 1vCPU with 4GB of ram, to something larger.
+Frontend:
+Server-side rendering using
+[Jinja](https://substack.com/redirect/c37db4f6-965a-48fc-8545-135d4f8df6f2?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)templates + JavaScript. The team uses an interpreter ported to Crystal for the Jinja templates.As little JavaScript as possible. On principle, the Kagi team tries to use as little JavaScript as possible on the frontend, and to only use it to enhance the experience, not create it. They want to ensure the core search experience is usable without JS enabled at all. Ruthlessly trying to keep things simple is how they avoided having any serious use for Node in the build step, until very recently.
+No client-side telemetry. This means no click tracking and no analytics. Admittedly, this creates challenges for both development and product. Still, the team believes it aligns with their values.
+Zac shares the story of Kagi’s current backend, which is the second-generation:
+‘After launching Kagi, we realized we needed to manage a ton of concurrent tasks, combined with even more checks and decision making. We needed to stay on top of a robust concurrent control flow, and not go crazy trying to debug it all. This was the motivator for the "second generation" backend.
+‘Flow Based Programming (FBP) is the hidden gem we followed to build observable and complex concurrent systems. [FBP](https://substack.com/redirect/fc07ed53-b86c-49ff-8486-2ba1d7721f48?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) is a methodology introduced in around the 1970s, and we use a modern variant that takes the simple ingredients:
+Simple "black box" interface. One message in → multiple messages out
+FIFO queues. First in, first out
+Routing table. This describes how messages are transferred between components
+‘These three components produce a system so "regular" that you can describe control flow with any off-the-shelf diagramming tool. Put simply, we could create visualizations of our system representing the full source of truth; we just needed to write an interpreter for it!
+‘Compare this to the classic scenario of how understanding of systems becomes muddled:
+Someone makes a nice diagram to help others understand a system’s inner workings.
+From the start, this diagram is only going to represent someone's abstract idea of a system. This is a small enough problem early on, which most people gloss over.
+As time goes on, the system changes but nobody updates the documentation, so it further drifts from truth.
+Over time, the diagram no longer represents the system.
+‘What we have done is establish a "domain specific language (DSL) for software architecture". As engineers, we can specify and communicate using the terms of these diagrams. We do not have to focus on small details that cause us to “not see the forest for the trees.” We can agree on the shape of a network, and leave other teammates to implement it, with fundamental guarantees of outcome, regardless of the “in the weeds” decisions they make.
+‘The boundaries between messaging components become natural testing boundaries, without having to write code in a "testable" way. They lend themselves heavily to code reuse. The message passing history during a request gives us free observability in the form of tracing, with no explicit effort from a developer. The whole system works very well for us.’
+One of the most important parts of a search engine is its search index. Zac breaks down the process at Kagi:
+‘We currently have about half a dozen different search indexes:
+Teclis: index of the non-commercial web
+Tinygem: index for trending news
+Small Web is an index of personal blogs and websites
+… and several more
+‘A search index consists of three components:
+Crawling
+Indexing
+Ranking
+‘Each one comes with separate challenges:
+‘Crawling the web is very different today to 20 years ago. Websites – especially big sites – are much more hostile to crawlers; probably for good reason! Luckily for us, we are not trying to crawl the entire web. Also, most websites we crawl are cooperative.
+‘We do not index sites with too many ads. We crawl using a headless browser and with uBlock Origin extension installed, and count the number of ads and trackers on a page. If the figure is too high, we simply kick the page out of our index!
+‘Indexing lets us do unique things most search engines don’t. The nature of our indexes is such that websites which get indexed tend to be high quality. We’ve noticed the number of ads and trackers on the page inversely correlates with the quality of content.
+‘We surface the pages we consider high quality, pretty high up in our search results, which gives Kagi results a unique flavor. It also gives personal websites, blogs, and forums exposure in search, which they rarely get in other search engines.
+‘Indexing and ranking utilize the newest machine learning techniques. For example, we use text embeddings, which allows us to search not just by keywords, but also by semantic meaning.
+‘Kagi's indexes are focused on a very tiny portion of the web which allows us to be fast and cost effective. We hope this part of the web (not yet ruined by advertising) will grow in the future.’
+One thing that stands out about Perplexity is that it’s very fast, despite being an AI search engine that needs to generate a lot of tokens (text) in realtime. How is it so rapid? Alex Lang explains:
+‘Speed is a major focus that we optimize for because it has two major benefits:
+Better UX. Quick responses dramatically improve user experience.
+Lower cost. The faster an AI model produces an answer, the less computing resources it consumes. Having fast models actually reduces our infrastructure cost in serving answers!
+‘Two things are worth highlighting:
+We run multiple models for every query. Few people realize, but under the hood we are running multiple models to provide the final answer. We can do this because we’ve optimized to make these custom models as small as possible. We keep looking for ways to distill more knowledge into a smaller LLM. We also don’t shy away from using more traditional machine learning techniques if they give better results.
+Building our custom scheduling and runtime engine. We are building this so we can have additional knobs to tune that aren’t available from third-party systems.
+‘Both these approaches should unlock further speed gains; so expect Perplexity to speed up even more in the near future.’
+Perplexity prefers lightweight processes and biases towards action, which means:
+No formal design review process like
+[design docs, RFCs, or ADRs](https://substack.com/redirect/8af85755-07c1-4ffd-8c34-814a2a174fbb?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o). Most work starts with a quick Slack discussion, or a one-page document. The only exceptions are large-scale projects, which are still kicked off with a more traditional design process.Code reviews: all PRs are reviewed before merging.
+Staged rollouts: the norm across the engineering team.
+Linear: used for task tracking. We published a deepdive on
+[Linear’s engineering culture](https://substack.com/redirect/987726f1-9c5d-4342-838f-67e0bb4907f4?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o).
+AI evaluations are defined upfront. This is an approach specific to working with LLMs. It’s roughly equivalent to a design review for non-AI engineering work. Engineering manager Alex Lang explains:
+‘Detailed planning on the model side is a waste of time. This is because models and techniques are always changing, so any design needs to be agile and ready to switch at a moment's notice.
+AI evaluations, however, are crucial to the final success of the product. Changing evaluations late in the process is extremely painful. Once we select the right evaluation, we keep this stable. We spend a lot of time and effort to go over details of the evaluation we are defining. By investing in this work upfront, we are able to guarantee the AI project will ultimately be a success.”
+How does Perplexity hire? Alex Lang details the process:
+‘Product sense is important for all our hires to have; we place great emphasis on this. Thanks to all engineers possessing it, the company has fewer engineering managers and product managers than many similar-sized companies. All product and engineering managers we hire are very technical, and strongly committed to empowering ICs.
+We used to have trial periods, but no longer do. Early on, people were hired via trial periods. Over time, we did not find this approach scalable. We now have a fairly typical interview process.
+We do have an extremely high bar. When choosing between hiring the wrong person or not hiring at all, we’d much rather not hire! For new joiners, we emphasize the importance of hitting the ground running. We want to see a positive impact in the first days, weeks, and months.’
+Here’s the engineering process at Kagi, as explained by Zac Nowicki:
+‘We are ruthless in solving "papercut" pain points for our users on a weekly basis. We win so much favor with users when they report something, then wake up the next day and it’s fixed. It brings users delight, they tell their friends, and it usually doesn't take long for us to do. Everyone wins!
+‘Managing larger developments has been much more of a challenge. Getting everything flowing smoothly from specification, design, and implementation is incredibly hard, with the odds against us; such as being a fully remote team spread across every major timezone.
+‘We adopt a "marble-chiseling" approach of shaping things with targeted hits, like a sculptor uses their chisel. This is how it works:
+Devs start out with a high-level spec, and own some large slice of the work
+Devs largely self-manage their work
+Reporting is done via two or three syncs throughout the week to keep successes and roadblocks as visible as possible
+‘Our approach to getting stuff done is to do the most basic thing, then iterate to the next level of depth. Then repeat.
+‘Process-wise, we use:
+"Checkpoint" standups: a few throughout the week, to keep things grounded.
+"Workspace" voice channels. Throughout the day, we have voice channels people can sit in for virtual "coworking." Sometimes this leads to collaboration, other times it's quiet. Still, we’ve found that even when working in silence, the "body doubling" effect – knowing that others are in the same channel – can be quite helpful for staying focused.
+‘Trunk-based development: we rapidly integrate into a single main branch as frequently as possible. This comes with a few more approaches:
+Aggressively feature flag WIP things
+Refuse to work with long-lived development branches.
+‘We aim to keep everyone on the same page, away from the "Git paperwork" of having to deal with complex merges.
+‘As an added benefit, if you break something on the backend which goes under the radar, it’s not uncommon for someone else like a frontend developer to spot the issue. This is a lot better than what happens with long-lived branches. We think that changes stagnate by being siloed in branches until they’re "perfect", which is more harmful.
+‘Linear: we currently use Linear for our overarching task & project management.’
+Some notable milestones for Perplexity, and Kagi, to date:
+Building the search index (started late 2023; ongoing)
+Opening up the
+[Perplexity API](https://substack.com/redirect/198090fd-0c9b-49f2-9ae3-f3a0d3657924?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)(October 2023)Fine-tuning their own LLM models (November 2023: first launch of PPLX models)
+Launching the
+[discover feed](https://substack.com/redirect/681703e9-7a33-4a27-918d-28a454886180?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)(early 2024)Launching
+[Shop Like a Pro](https://substack.com/redirect/f541aae8-9c30-454f-95b6-fd4dcecbcea2?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)(November 2024)
+Perplexity followed a smart strategy. Alex Lang elaborates:
+‘Early on, it was easy to dismiss Perplexity as “just a wrapper.” And there was truth in this categorization, back then; the initial launch used third-party search results and AI models. However, people underestimated the value of this strategy.
+‘As a product-led company, we wanted to get in front of real users and iterate rapidly. The fastest way to do that was to use third-party technologies. Once we understood our users better, we got to work on building:
+Our own search index that matches our needs
+Our own AI models that work according to our use cases
+‘This “get in front of real users as soon as possible” approach remains ingrained in our engineering culture to this day. Once we’ve learned enough, we build the enduring moat that will allow us to scale.”
+‘Once we had our own search index and models, we created an API to share our technology with others. The initial goal was primarily to speed up some internal work, but we knew that the same things that helped us internally, would help other developers. Since then, it's been fun to see how partners and independent developers have put our API to use.
+‘Finally, a key milestone has been launching complimentary products to the original Answer Engine; honestly these could be a startup in their own right! Our users are curious, and the Discover feed has been a delightful way to satisfy that curiosity. While the Discover feed could stand on its own as a product, its true value has been its powered growth for the core Answer Engine. Our recent “Shop Like a Pro” that allows users to go from question to buying a product in one click, is a large-enough endeavour to be its own product. But this is just the first step in our evolution from an Answer Engine to an Action Engine.’
+Major product milestones:
+Building Kagi Search (2022)
+Launching The Assistant: a baseline LLM chat interface (2024)
+Lots of small projects shipped on the side: like FastGPT, Universal Summarizer, the Small Web index, and the brand new Kagi Translate (2023-2024)
+What’s next: integration of all these things, and looking for ways to have them talk to each other in ways that make sense and feel natural.
+Zac has been part of the core team since the early days, and he reflected on the journey, so far. It’s really nice to hear a first-hand account of a successful product launch:
+‘I am unsure anything will ever top the magic of our launch day in 2022. The months and weeks leading up to that were learning how Stripe works, designing our database schemas to hopefully last, and doing our damnedest to make sure it didn’t immediately fall flat when the clock struck midnight.
+‘It's all simple strokes, but done under pressure, like:
+A cloud function to catch Stripe events
+Storing as little information as possible in our tables
+Fallback logic so that if the Stripe event handler ever fails, we wouldn't go bankrupt thanks to incorrectly billing or refunding users
+Design it with multi-user billing accounts in mind, which was only an idea at the time
+‘It's not perfect and has its quirks, but it has largely been unchanged and has carried us to where we are today at ~36,000 paying customers.
+‘There were fewer than five of us, each owning a slice in full depth. A formative moment for our core team (myself included), was when we taught ourselves what we could do with so little, considering the giants around us. Taking minimal dependencies, knowing exactly every risk we were taking.
+It was totally unforgettable. I hope we can pull it off again.’
+What are the biggest engineering challenges in building a search engine, compared to other systems the team has worked on?
+Alex says:
+‘The biggest challenge in building an Answer and Action Engine is ensuring we provide a futuristic experience, in a way that wows users, while covering all the basics a user expects from a search engine. In other words, it’s about figuring out the right ways to change up user behavior.
+In the 1990s, the search experience was rapidly changing and users had not formed habits, but since then the search engine experience has been remarkably stable. So we constantly have to find a way to delight users with a surprising new experience that leverages recent technologies, while also rounding out the full product experience to cover all the tiny habits people have developed and expect to be present, in order to be satisfied with a search experience.’
+Zac reflects:
+“The major difference for me is that this project connects with people like nothing else I've ever worked on.
+It involves caring about details and edge cases in ways – and sometimes on such a small scale – that you wouldn't ever think of, usually. Using the publicly available APIs of other search engines, you could make something that walks and talks like Kagi; but what no one else has is the meticulous shaping of countless small rules and conditionals that keep the cruft (poorly designed, overly complicated, unwanted code) out of our results.
+There's no "big secret" to what we do; we've simply put the hours into this marathon that no one else has, while staying true to our mission and value proposition to our customers, and no one else.”
+These two startups are both in search, but are so different from each other:
+Perplexity is VC-funded, growing rapidly in usage, hiring more aggressively, and launching new products at rapid speed.
+Kagi: no VC funding, offering only a paid service, growing their team slowly, and being thoughtful about launching new features.
+These are the most interesting points I learned about each startup:
+Perplexity: hire for product sense, and prioritize in-person work. Perplexity’s engineering team emphasizes how important “product sense” is: it’s something they explicitly look for during the hiring process.
+Kagi: don’t be afraid to build custom systems, or use lesser-known tools. Kagi is the first startup I’ve heard of which uses the Crystal programming language. The engineering team is unafraid to build novel systems if they decide doing so helps them get things done: this is how they built the backend, based on the [Flow Based Programming](https://substack.com/redirect/fc07ed53-b86c-49ff-8486-2ba1d7721f48?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) methodology.
+Both startups give broad ownership to engineers. Perplexity and Kagi each share the characteristic of giving engineers broad ownership and autonomy. I get the sense there is no heavy product layer at either company; engineers are encouraged to understand customers, the product, and come up with product ideas which they then build.
+Both companies know they need to build a more pleasant, better search product than Google Search offers: it’s not easy, but the rewards for succeeding could be spectacular.
+Each startup is building a challenger product to Google Search at a time when the Big Tech giant looks vulnerable. Will Google Search evolve to compete more with the likes of Perplexity, by becoming an “answer engine” while cannibalizing its ads revenue? Will it put customers first, and offer a paid product without ads? Or could it find itself “stuck” by being addicted to the hundreds of billions in ads revenue, thereby allowing competitors to overtake it?
+Competition is great for the tech ecosystem, and challengers to Google in the search market are much needed. I hope you enjoyed learning about how these two startups operate. Best of luck to the Perplexity and Kagi teams!
+As a paid subscriber, if you’d like to try out their paid products — without needing to enter your payment details — [you can do so here.](https://substack.com/redirect/8b8311b2-04ff-4b95-a9f9-e59095acdfff?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+If you enjoyed this deepdive: you might appreciate deepdives about about [Meta](https://substack.com/redirect/a8b423a6-a4b7-4e0e-8d92-1296ed234248?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o), [Amazon](https://substack.com/redirect/8c4f5457-536d-47d7-b619-2d912c88da6b?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o), [Stripe](https://substack.com/redirect/6b440d12-68cb-4062-8ca9-9be7c89d6484?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o), [OpenAI](https://substack.com/redirect/d1bb1793-5445-4d6c-9f10-adb94f5455d6?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o), [Figma](https://substack.com/redirect/51c058ae-21c2-4571-b5ad-592436a3dddb?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) and [several other tech companies](https://substack.com/redirect/16c612be-3b6a-4ad7-b448-03901f3a0982?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o).
+You’re on the free list for [The Pragmatic Engineer](https://substack.com/redirect/2/eyJlIjoiaHR0cHM6Ly9uZXdzbGV0dGVyLnByYWdtYXRpY2VuZ2luZWVyLmNvbT91dG1fY2FtcGFpZ249ZW1haWwtaG9tZSZyPThvNTRuIiwicCI6MTU1OTM3MzAwLCJzIjo0NTg3MDksImYiOnRydWUsInUiOjE0NTYzMzE5LCJpYXQiOjE3MzgwODU3ODcsImV4cCI6MTc0MDY3Nzc4NywiaXNzIjoicHViLTAiLCJzdWIiOiJsaW5rLXJlZGlyZWN0In0.7tvTNm4OU-CopCpUh2csxrijZCQEYV_c_AgQ49GcMNw?). For the full experience, [become a paying subscriber](https://substack.com/redirect/2/eyJlIjoiaHR0cHM6Ly9uZXdzbGV0dGVyLnByYWdtYXRpY2VuZ2luZWVyLmNvbS9zdWJzY3JpYmU_dXRtX3NvdXJjZT1wb3N0JnV0bV9jYW1wYWlnbj1lbWFpbC1jaGVja291dCZuZXh0PWh0dHBzJTNBJTJGJTJGbmV3c2xldHRlci5wcmFnbWF0aWNlbmdpbmVlci5jb20lMkZwJTJGcGVycGxleGl0eS1hbmQta2FnaSZyPThvNTRuJnRva2VuPWV5SjFjMlZ5WDJsa0lqb3hORFUyTXpNeE9Td2lhV0YwSWpveE56TTRNRGcxTnpnM0xDSmxlSEFpT2pFM05EQTJOemMzT0Rjc0ltbHpjeUk2SW5CMVlpMDBOVGczTURraUxDSnpkV0lpT2lKamFHVmphMjkxZENKOS51LXRnZUJtNFk0N1pGcW1GbHRmQnZuTmtfeEZaV241MDRnbmdhaV9mbUQ0IiwicCI6MTU1OTM3MzAwLCJzIjo0NTg3MDksImYiOnRydWUsInUiOjE0NTYzMzE5LCJpYXQiOjE3MzgwODU3ODcsImV4cCI6MTc0MDY3Nzc4NywiaXNzIjoicHViLTAiLCJzdWIiOiJsaW5rLXJlZGlyZWN0In0.gMDyCsQCrp5ELUDdcxqXGHMqjDfi05SkW35js8lkYCo?). Many readers expense this newsletter within their company’s training/learning/development budget.
+This post is public, so feel free to share and forward it.
+If you enjoyed this post, you might enjoy my book, [The Software Engineer's Guidebook](https://substack.com/redirect/34121bab-82db-4ea1-8aca-514630eac165?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o). Here is what Tanya Reilly, senior principal engineer and author of The Staff Engineer's Path said about it:
+"From performance reviews to P95 latency, from team dynamics to testing, Gergely demystifies all aspects of a software career. This book is well named: it really does feel like the missing guidebook for the whole industry."

@@ -1,0 +1,18 @@
+---
+subject: "A Brain Researcher's Bid to Make Digital Twins of Humans"
+from: "Ashlee Vance from Core Memory  <ashleevance@substack.com>"
+to: ""
+date: 2025-04-29 18:43:27
+labels: ["Ashlee Vance", "CATEGORY_PERSONAL", "INBOX", "UNREAD"]
+label_ids: ["Label_4216359091400734623", "CATEGORY_PERSONAL", "INBOX", "UNREAD"]
+---
+|
+Earlier this month, Nature [published](https://substack.com/redirect/f9b73c10-a427-4890-aab0-93fadd58b075?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) some of the results from a multi-year effort to better understand the visual cortex of mice.
+The work took place under the [MICrONS](https://substack.com/redirect/c27a5831-55ba-4eee-8c16-97a6e469c11f?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) effort backed by IARPA (Intelligence Advanced Research Projects Activity), one of the U.S. government’s more exotic research arms. And it represented a ground-breaking attempt to blend cutting-edge techniques in how we analyze brains with artificial intelligence technology.
+As The New York Times [wrote](https://substack.com/redirect/f4c00836-cc28-47b9-af4c-53bd4ba82fe2?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o),
+The researchers zeroed in on a portion of the mouse brain that receives signals from the eyes and reconstructs what the animal sees. In the first stage of the research, the team recorded the activity of neurons in that region as it showed a mouse videos of different landscapes.
+The researchers then dissected the mouse brain and doused the cubic millimeter with hardening chemicals. Then they shaved off 28,000 slices from the block of tissue, capturing an image of each one. Computers were trained to recognize the outlines of cells in each slice and link the slices together into three-dimensional shapes. All told, the team charted 200,000 neurons and other types of brain cells, along with 523 million neural connections.
+[Andreas Tolias](https://substack.com/redirect/3c0dc236-944e-4da9-8823-fc825295fb39?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o), our guest on today’s podcast, was one of many researchers involved in this effort, and he walked us through MICrONS in detail.
+Tolias also took us on an exploration of the history and future of brain research and his current passion, which is to represent human brains in digital form. He’s a fascinating man working one of the most fascinating areas of science.
+This episode was sponsored by the kind people at [E1 Ventures](https://substack.com/redirect/35abaa25-88b7-42f6-a91a-79b70115e987?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o). Enjoy!
+Hopefully, you enjoyed this story. If so, please share it and subscribe to Core Memory. We want to do more of this for you and need your help. Thanks!

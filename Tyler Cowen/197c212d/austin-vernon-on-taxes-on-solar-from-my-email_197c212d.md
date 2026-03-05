@@ -1,0 +1,16 @@
+---
+subject: "Austin Vernon on taxes on solar (from my email)"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2025-06-30 18:21:43
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+I think your question about new taxes on solar and wind is an interesting one, and increasing taxation has been an ongoing process for years.
+Some of these tax increases are normal, like ending property tax exemptions. These taxes don't impact project economics too severely, and the breaks create a lot of ill will at the local level.
+Solar has seen constant tax increases and quotas on imported panels. Uncompetitive domestic producers, other competing energy sources, anti-trade folks, and China hawks all favor these taxes. The important metric is that buying panels in the US is 2x-3x more expensive per watt than in the rest of the world.
+Solar panel factories are easy to build, and technology changes quickly. There is a Dutch boy and the dam effect. We constantly have to add new tariffs on different countries and new technologies (although foreign production from US-owned companies has generally been exempt). These tariffs have to get stiffer to maintain the balance.
+A recent change was that the IRA finally led everyone to start building factories in the US. An absolute avalanche of panel factories is/was on the way with less activity for cells, wafers, and polysilicon. These factories might be viable without subsidies considering US panel prices. Most of the interest groups listed don't appreciate this outcome, especially because many are Chinese-owned factories. Foreign Entity of Concern content and ownership penalties are the obvious solution as the next hole to put a finger in because many subcomponents would still be imported and the general kludge laws like that add.
+The solar installation lobby has been satisfied with tax credits that counteract some of the high panel costs. These rules tend to discourage new technology in the fine print and skew incentives. Simpler, denser solar farm designs make sense once panels are cheap. There is no reason to make the switch if panels are expensive and the tax credit is based on the total install cost. Roughly 90% of US utility-scale installations have trackers that add cost but increase per panel output. In China, there are almost no trackers. There are also some nasty effects in the residential business that encourage complex financial products over streamlining construction and permitting.
+It is an interesting crossroads where the tax credits are gone, and there is now a reason to have a more direct confrontation on panel cost. The battery industry is in the early stages of a similar conflict, but it seems like they might retain the deal with the devil and keep tax credits for now.
+|

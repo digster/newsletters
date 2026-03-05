@@ -1,0 +1,28 @@
+---
+subject: "AI vs. NFTs, looking foolish, and VC lessons"
+from: "The Generalist <thegeneralist@substack.com>"
+to: ""
+date: 2023-12-19 15:49:45
+labels: ["CATEGORY_PERSONAL", "INBOX", "The Generalist"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_8815311452832858585"]
+---
+|
+🌟 Hey there! This is a subscriber-only edition of our premium newsletter designed to make you a better investor and technologist. Members also get access to private Q&As with me. I hope you enjoy it!
+Friends,
+I’m excited to share our latest edition of Ask Mario, the series in which I answer reader questions about tech, venture capital, the future, and beyond. We cover a lot this time around, including:
+Why I learned more making burritos than at grad school
+What games are worth playing
+My view on AI accelerationism
+How surviving embarrassment is a competitive advantage
+A great article about cloning John von Neumann
+If you’re a premium subscriber and want to ask a question for me to answer in our next edition, fill out the form at the end of this piece. If you’re not a premium subscriber, today is the perfect day to jump aboard! In addition to making our day, you’ll unlock exclusive series designed to make you a better investor and thinker. Follow the link below to subscribe and unlock the strategies and tactics of some of the world’s best capital allocators and founders.
+I really love this question, Anon. I have been turning it over in my head quite a bit without finding its edges.
+Though it is “cooler” than it used to be, entrepreneurship is still seen as a low-status endeavor in many circles. From an early age, most of us are conditioned to think of our professions as knowable, linear, and predictable. We are taught the importance of listening, following instructions, and efficiently solving the problems we are given. We are usually not taught to find entirely new problem spaces, question accepted wisdom (certainly not with real, uncomfortable gusto), or create something wholly original. For most of our upbringing, our job is to ingest information, operate within existing systems, and output work that adheres to a given criteria.
+There are plenty of benefits to this structure, but one of the drawbacks is that even well-educated people in permissive societies, those with every incentive to take a risk, are often afraid to do so. This might not manifest explicitly, but you can see it in our workforce’s choices. Exceptional talent continues to migrate toward safety and solved problems. In many cases, these people know and understand the tech sector and the world of entrepreneurship. They may have friends who have built successful businesses and secretly harbor the desire to build something themselves. But something in their upbringing, in the socialized boundaries of our society, tethers them to positions in law, finance, and the like.
+There is a reason America has long seemed to have an oversupply of lawyers: verbally gifted children are taught that this is a productive, fulfilling, and esteemed profession. In some cases, it can be, but can it fulfill that promise for the 1.3 million in the country? Is this the optimal use of such talent?
+The fear of looking foolish is a remarkable deterrent. And the truth is that a startup’s early days often look foolish. While your friends with grown-up jobs wear suits and travel to middling cities to speak with clients and have elaborate business dinners, you’re sleeping on someone’s couch, eating ramen, and mooching off coffee shop WiFi. Survivorship bias makes these stories seem quaint and heroic, but they don’t tend to feel that way to the people living them.
+I’ve had small experiences with this kind of embarrassment. For example, during grad school, I helped my friend Zach Reitano get his ghost kitchen concept off the ground. Every Friday, we would make burritos in his living room. We sold these online via Caviar and used Uber to deliver them. We obsessed over unscalable details, hand printing the cloth bags the food was delivered in and including handwritten thank you notes. Though I was obsessed with this mini-business for a spell, it was not a particularly cool thing to talk about. While my Ivy League classmates were interning at the UN, I was worrying over the right ratio of beans to rice to meat to cheese...
+Become a paying subscriber of The Generalist to get access to this post and other subscriber-only content.
+| Premium subscriber-only posts | |
+| Learn from legendary investors and founders | |
+| Post comments and join the conversation |

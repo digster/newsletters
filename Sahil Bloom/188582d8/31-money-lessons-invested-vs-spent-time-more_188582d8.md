@@ -1,0 +1,35 @@
+---
+subject: "31 Money Lessons, Invested vs. Spent Time, & More"
+from: "\"Sahil Bloom's Curiosity Chronicle\" <sahil@sahilbloom.com>"
+to: ""
+date: 2023-05-26 13:09:16
+labels: ["CATEGORY_PERSONAL", "INBOX", "Sahil Bloom", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_1989028747625928812", "UNREAD"]
+---
+Invested vs. Spent Time Test, Money Lessons, & Moreread on read time 4 minutes Here are 5 interesting ideas to spark your curiosity heading into the weekend. Today at a Glance:- Question: Environment and reality.
+- Quote: Strategy is everything.
+- Framework: Invested vs. Spent Time.
+- Tweet: Charts that make you go hmmm.
+- Article: Lessons on money.
+Introducing today's newsletter sponsor, Gridline - your solution for accessing top-tier private market fund managers and the most compelling investment opportunities, all with lower capital minimums and a fee structure well below comparable offerings. For too long, access to private market investments has been tough for everyday investors. Gridline is changing that by providing a curated selection of rigorously vetted managers and up-to-date information to its users. You can construct a diversified private market portfolio and expose yourself to opportunities previously reserved for the ultra-wealthy. The best part? Membership to the platform is free, and access is instant. Join the hundreds of other savvy investors who have already upgraded their portfolios with Gridline. Sign up now to gain access to top-tier managers and compelling private market opportunities, all with lower capital minimums and fees.
+Question I'm always asking:How is my environment influencing my reality? You are a product of your environment: - The people you spend the most time with
+- The content you consume
+- The spaces you occupy
+- The thoughts you allow to linger
+Your environment impacts your day-to-day experience as you walk through life. It can do so positively or negatively. I'm constantly asking myself this question: How is my environment influencing my reality? If I'm unsatisfied with my progress in some arena, are there environmental factors at play? Is my environment actually in sync with the reality I want to create? An honest assessment typically reveals areas for improvement. While you may not feel in control of your reality, you are in control of your environment, at least in the long run. There are always going to be short term challenges that you encounter along the way—situations that dislocate your actual environment from your desired environment. But in the long run, if you take steady, consistent actions, you can craft an environment in line with your desires. Key Takeaway: If you take action to improve your environment, your reality will follow. Quote on preparing in the dark:"The victorious strategist only seeks battle after the victory has been won." - Sun Tzu Most battles are won long before they begin. Preparation in the dark creates victory in the light. Framework for evaluating your use of time:The Invested vs. Spent TestMy readers know that I think (and write) a lot about time. Specifically, ways to think about time, how we use it, how to embrace it, and how to make the most of it. One framework that I love: Time is either spent or invested. - Spent Time: Present actions create no long-term value.
+- Invested Time: Present actions compound long-term value.
+Spent time can feel rewarding or pleasurable in the present, as the actions may create a near-term dopamine hit, but any benefits have immediate diminishing returns. Some of my spent time actions: - Scrolling on social media
+- Floating around on low value tasks
+- Texting in between sets of a workout
+These actions are not creating any long-term value in my life. They are particularly insidious because they may actually feel short-term positive (dopamine hit), but are clearly long-term negative (harming neural pathways, slowing professional and fitness progress). Invested time can feel challenging in the present, as the actions may not be associated with a near-term dopamine hit, but they create long-term, compounded returns. Some of my invested time actions: - Deep, meaningful, present time with my wife and son
+- Focused work on long-term, priority projects
+- Quiet, technology-free walks
+- Hard physical activity, preferably outside
+These actions create massive long-term value in my life. I believe in the magic of compounding. I want to invest most of my time for long-term rewards. My Goal: A higher ratio of invested time to spent time. I don't believe it's possible (or even beneficial) to completely eliminate spent time from your life—in the words of Marthe Troly-Curtin, “Time you enjoy wasting is not wasted time"—but I do want to be cognizant of the ratio of my time that is invested vs. spent. Look at your actions in the coming week: How much of your time is invested vs. spent? How can you slowly reduce your spent time and reallocate that energy towards invested time? What impact might that have on your life? I'd love to hear from you on this one: - What are some of your invested time actions?
+- What are some of your spent time actions that you want to reduce?
+Reply to this email and I'll do my best to get back to everyone! Tweet of mind-expanding visuals:Thread of some visuals that will make you go hmmm... The chart on the value of weight training was particularly eye-opening (and life-affirming!) for me. Good fodder for me to convince my parents that they need to continue their weekly strength training regimen.
+Article to think deeply about money: Terrific blog from Ryan Holiday on money lessons (that are mostly about life and balance). I disagreed with some of these (which is good), but they all made me think. My favorites (with my thoughts in italics): - I’ve never met a person who ever reached their number. We just reset to whatever new "number" we decide on (usually 3x the first one).
+- If you can, pick up the check. Being generous with loved ones is one of the best parts of achieving financial success. Never "keep score" on who owes you a meal or drink. Give with no expectation of return.
+- If it’s a problem that can be solved by money, you don’t have a problem. This is definitely a good lesson to live by once you've achieved a certain level of financial success. Stress that can be solved with a non-stressful financial outlay is always worth eliminating (examples: sending out your laundry, hiring a cleaning person).
+I love Ryan's writing. This is a piece worth reading. Sahil's Recommendation ZoneMy friend Adam Bornstein just dropped his fantastic new book, I was lucky enough to pre-read it and was blown away. He covers why hundreds of diet books and tech advances have not solved our declining health and struggles with weight. It covers habit change, smoke and mirrors marketing, and learning how to co-exist with the food environment rather than fight against it. If you're passionate about health and physical improvement, you can get your copy Refer Friends, Earn Rewards!
+If you enjoyed today's newsletter, please share it with your friends and family! If this email was forwarded to you, consider |

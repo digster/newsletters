@@ -1,0 +1,27 @@
+---
+subject: "Can chaos theory explain polarization?"
+from: "Brian Klaas <brianklaas@substack.com>"
+to: ""
+date: 2024-12-20 14:35:18
+labels: ["Brian Klaas", "CATEGORY_PERSONAL", "INBOX"]
+label_ids: ["Label_1599487573263287548", "CATEGORY_PERSONAL", "INBOX"]
+---
+|
+Thank you for reading The Garden of Forking Paths. Most of this edition is for paid subscribers, so consider upgrading—for $4/month—to support my work and get access to 165+ essays. Or, read my longer form thoughts on social chaos by buying [FLUKE](https://substack.com/redirect/cb2c10e8-2e3a-40a0-afaf-2bc9febd4cdd?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o), an argument for using chaos theory to understand our lives—and the nature of social change. Either works well as a last minute holiday gift for the intellectually curious!
+These days, we live in a seemingly upside world—particularly in the United States.
+Down-and-out unionized workers in rural hinterlands have become fanboys of the world’s richest oligarch, cheering him on as he tries to shut down the government and slash public spending. Evangelical Christians—preaching a gospel of humility, faithfulness, and moral righteousness—are devoted disciples of a narcissistic serial philanderer billionaire felon who worships only money and power while living in a golden penthouse. And the party of Reagan, known for a staunch anti-Soviet foreign policy that rhetorically embraced the ideals of democracy, is now led by an authoritarian who fawns over Vladimir Putin.
+These inversions of expected reality provide a useful window into the evolving nature of partisan divides. How do politically allied groups of people sort themselves by viewpoints—and end up loathing those with a different attitude?
+Consider the following thorny questions:
+Should self-driving cars be programmed to minimize the number of avoidable deaths, even if that means sacrificing the passenger inside the car?
+Should artificial intelligence be used to detect digital blackmailing by scouring data on e-mail servers?
+Should gene editing be permitted to reduce the prevalence of invasive species?
+These are emerging political questions with no obvious, intrinsic partisan divide. If you had to guess how Democrats and Republicans, or Tory and Labour voters would split over these conundrums, there’s no clear schism as it would be with, say, abortion politics or whether it’s a good idea to raise taxes on the rich. It’s plausible that in one country, the left would champion one side, while in another, it would become a cause célèbre of the right.
+In short, these are quasi “blank slate” questions; they have not yet been polarized. Eventually, they will be. Take, for example, the ongoing debate about the role of cryptocurrency in modern society. While that issue now has a clear partisan split in the United States because Republican-aligned figures such as Elon Musk have championed Bitcoin, five years ago, there was no clear left/right ideological rift.
+To make sense of the strange and bewildering ways in which passionate hatred can emerge from political debates, there are broadly two overarching, rival camps in the study of political polarization.¹
+In the first camp are those who believe that polarization flows from fixed ideology or entrenched personality traits. This is the notion that we, as socialized creatures, develop robust, rigid, coherent ideological mental models of the world and stick to them. We are also brought up to have more or less openness to others who are different from us, more or less authoritarian personalities, more or less belief that success is an individual choice rather than a byproduct of unjust social structures. In this view, then, when political issues crop up, people sort themselves according to their existing beliefs in a predictable way.
+In the second camp are those who believe that political attitudes and ideologies are weak, flimsy, and easily malleable. Voters, according to this view, have few strongly fixed beliefs. Instead, people sort themselves according to political alliances through tribalistic social groupings, where “us vs. them” social pressure and cues from above are far more important than principles or worldviews or personality traits. Politics is more like sports; once you’re a fan of a given team, you just want that team to win—nothing else matters.
+It’s likely that you already have a sense of which camp better fits your mental model for how politics works, but there’s a third option—a wrinkle in these neater, tidier explanations for polarization.
+Chaos theory, it turns out, can help us understand the emergence of partisan divides. And these recent, surprising research findings from an extraordinary experiment have implications for how we understand America’s political realignment under Donald Trump; for understanding how a small group of committed digital trolls can profoundly twist the agendas of political parties and public attitudes from the United States to China; and even how the social lives of meerkats offer an instructive lesson for the long-lasting effects of sometimes arbitrary choices made by early movers...
+Subscribe to The Garden of Forking Paths to keep reading this post and get 7 days of free access to the full post archives.
+| Subscriber-only posts and full archive | |
+| Post comments and join the community |

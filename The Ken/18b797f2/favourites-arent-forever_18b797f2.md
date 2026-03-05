@@ -1,0 +1,25 @@
+---
+subject: "Favourites aren't forever"
+from: "The Ken <info@the-ken.com>"
+to: ""
+date: 2023-10-29 03:34:18
+labels: ["CATEGORY_PERSONAL", "INBOX", "The Ken", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_8244464457792971031", "UNREAD"]
+---
+Good Morning Ishan,
+Do you have a favourite podcast?
+I do not.
+Seems a little counterintuitive, considering I’m a producer in The Ken’s [podcasts](https://the-ken.com/podcasts/?utm_source=recaps_story&utm_medium=email&utm_campaign=recaps_newsletter) team. But I suppose this is just a bad habit of mine. The inability to pick a favourite extends beyond podcasts to books, movies, cuisines—you name it.
+I like a lot of things, but can never decide what’s the “best” out of them. There’s always something out there that could be better, right?
+Anyway, I’m due to travel soon, and I really want to find this better podcast that I keep looking for. That’s why I need your help: do you have a favourite podcast? And why do you like it?
+Before you write back, let me take you through our stories from last week.
+Starting off with TCS. The IT giant has mandated its staff to work from its offices on all weekdays. This move doesn’t just affect the TCS’ 615,000 employees but the entire IT sector. In this [story](https://the-ken.com/story/tcs-gets-the-return-to-office-bug-can-its-it-rivals-be-immune/?utm_source=recaps_story&utm_medium=email&utm_campaign=recaps_newsletter), Nathan explains how.
+Moving on, did you know Vivo recently pipped Samsung, Xiaomi and Realmi to sit atop India’s smartphone market? In Tuesday’s [story](https://the-ken.com/story/vivo-is-in-indias-crosshairs-it-still-became-the-no-1-smartphone-brand/?utm_source=recaps_story&utm_medium=email&utm_campaign=recaps_newsletter), Anushka explains how—and whether Vivo has what it takes to stay ahead.
+For Wednesday‘s [story](https://the-ken.com/story/why-is-ola-electric-in-such-a-hurry-to-build-its-gigafactory/?utm_source=recaps_story&utm_medium=email&utm_campaign=recaps_newsletter), Shaswata travelled to Pochampalli, a small town in Tamil Nadu. Here’s where Ola is constructing its massive gigafactory at a lightning-fast timeline. The company has done this before, with its electric scooter manufacturing plant—but this time, it’s not just desire driving them. There’s a necessity.
+Meanwhile, Phonepe has entered discount broking with great fervour, but it’s not alone. Plenty of fintechs are enamored with this business, and almost all of them want you to know that they offer something different. On Thursday, Anand breaks down this differentiation to find out if they really are in his [story](https://the-ken.com/story/phonepe-hdfc-and-the-pot-of-discount-broking-gold-everyone-is-after/?utm_source=recaps_story&utm_medium=email&utm_campaign=recaps_newsletter).
+Lastly, this may be the worst year to be an engineering graduate in a decade, writes Alifiyah in Friday’s story. With concerns over a 30% fall in recruitment, placement cells are limiting students to single job opportunities—so, what will the class of 2024 do? [Read on](https://the-ken.com/story/engineering-grads-havent-struggled-this-hard-for-a-job-in-a-decade/?utm_source=recaps_story&utm_medium=email&utm_campaign=recaps_newsletter) and have a great weekend!
+Regards,
+Anushka M
+[anushka@the-ken.com](mailto:anushka@the-ken.com)
+What you just read is the personalised daily introduction to The Ken's story. Written by a different person each day. Often insightful, sometimes witty, and very rarely boring. Someone sent this to you? [Sign up for free](https://the-ken.com/?modal=register&utm_source=footer&utm_medium=email&utm_campaign=morning_email_ind_recap). [Dont like these? You can unsubscribe](https://link.the-ken.com/asm/unsubscribe/?user_id=2349339&data=YMb2zCm8GDXDkqbPGzKfNfE64Ap6phe7ulzyRZhVLeZoMDAwdTAwMIceEqZXi0VooeUJwjZF4fj90icf-jM033wOZqZp5oqTxfhqpm9zB7zMSxWG7h7GxLbddo9DZpymT2ffLfoBU9jrotfm6AanCw4uOREu_t7x8I78MU_jlX02qnZtjU0eqDsBSwveIZGiS0H65bUwe3RPGflBa47lPVcmOqKsuCUmbUnwLrXEtoyBpDi4QZM-xOijHGHufpmcfFhDky9EWxiH5b0jrSnirchDw36qWx4OoyWqtqXLG_mxKERltEkaVHdPrEOPkgqJuHCW2CkNLgFJbRMQ9mM8pydyE79acBQ3OgpzCQFYkadiIg62c5oDj9BOdzzqv9671rq9v9UmpsAJOQKJKcQdfj3617CQH3ZIj3wbhVPdO2qbKG-BmJV4wUvApOB7I0C-kFCpVJx-TSpp8N0BZkFDL4I6buM6usMa2j98RDqiYGOG8gGuAb_iUMA4YosmcmdwvHW1caKgcTCTXCc5MN3oXTwe2_WjJTF1lRJeqWLs11fTkBB3HpaOxRGfZoXaC50sbbZMEyMoei8=) Dont want to hear from us again? [ Unsubscribe from our emails here](https://link.the-ken.com/asm/?user_id=2349339&data=sSYL-__LpgKfhPC8eenM_YSCNkVtTRrdeG0u5Tq7XNtoMDAwdTAwMKXtBWMB8gjBniYeT8JTISsPVPEs3LCYLRXnBPLwTDm6VtKa2A8VARMGeA5S4KrItlNKohN0_A_Vo-owqUn60rVvkfQpMoNPdyB8ipccUo8ufxXWHQw6KFPOjM6-M6Uxfyd0oGyiTrELNMskKWRcWN6KEhxpfnVS6ECvmy46fqEMuv3znLFmqEkt1GlDOq8E1Q7sxgW_J_LFTB7tX6rw1vweGy1TDA6BOCR2gerDBIT9vkccQsaFgxxP7R321UkSdMPD1yD_VxYQoDqewJlvDQ1z_wpiPgsQiN-1N_1FljHvcSVh9HkKBO--6sviDBI7hKU58ASWZGHDTr-TEAN7iFECbaR5tDeFEsglrkefujoOL-aJYjuavfm-rov2Q-Ye0Mwmr6A7HhDY-IW0unc3WRiG4TxbfiPJSlyG8owcNDC_Tall1YS9gNNzAhAkGx2B9WQns8p9U22tbUslGH3eEbHKEmSkN-XUwb-Deg78QKncv-xpLq0EARvZXVC_N_F-1Q==).
+Something wrong? Tell us at [support@the-ken.com](mailto:support@the-ken.com)

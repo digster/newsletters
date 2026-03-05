@@ -1,0 +1,10 @@
+---
+subject: "GDPR is worse than you had thought"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2025-12-12 07:38:24
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+We examine how data privacy regulation affects healthcare innovation and research collaboration. The European Union’s General Data Protection Regulation (GDPR) aims to enhance data security and individual privacy, but may also impose costs to data collection and sharing critical to clinical research. Focusing on the pharmaceutical sector, where timely access and the ability to share patient-level data plays an important role drug development, we use a difference-in-differences design exploiting variation in firms’ pre-GDPR reliance on EU trial sites. We find that GDPR led to a significant decline in clinical trial activity: affected firms initiated fewer trials, enrolled fewer patients, and operated at fewer trial sites. Overall collaborative clinical trials also declined, driven by a reduction in new partnerships, while collaborations with existing partners modestly increased. The decline in collaborations was driven among younger firms, with little variation by firm size. Our findings highlight a trade- off between stronger privacy protections and the efficiency of healthcare innovation, with implications for how regulation shapes the rate and composition of subsequent R&D.
+That is from Jennifer Kao and Sukhun Kang, here is [the online abstract for the AEA meetings](http://marginalrevolution.com?action=user_content_redirect&uuid=110611530f987e5f872798c3b3d95de61722664ce06424abd41bf7a15f85bc0b&blog_id=42693868&post_id=92029&user_id=262258391&subs_id=225460721&signature=adf2dd5db933ed1940bd3a4c59dcb719&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly93d3cuYWVhd2ViLm9yZy9jb25mZXJlbmNlLzIwMjYvcHJlbGltaW5hcnkvMTQ4Mz9xPWVOcXJWaXBPTFM3T3pNOExxU3hJVmJLcWhuR1ZySlFNbFdwMWxKSVRTMUxUODRzcWdYd2xIYVhFNHVMOFpBaXpKTFVvRjhKS1NZVEtsbVRtcGtKWVpabXA1U0REaWdvS2dBS21CaUNUQ2hMVFFiSkdTclZjTUZuZVhDSmg&email_id=a2f76d31ca50f10e8ff3a00fb14f782c).

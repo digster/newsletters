@@ -1,0 +1,9 @@
+---
+subject: "Red Rooms, a 2023 Quebecois movie"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2025-10-23 09:01:59
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+Highly disturbing, so I do not recommend it to most of you. It concerns a murder trial, and while violence is never shown on screen it is harrowing to watch. Much of the movie is about the spectators at the trial, and you can think of it as one vision for how online life will evolve for a particular class of people. Even in 2023, the movie had "LLM psychosis" as a subtheme. Grossly underrated, so I am passing this information along, which originally comes from Eugene. Here is [the Wikipedia page](http://marginalrevolution.com?action=user_content_redirect&uuid=fd98c1e37604c6a99406ea8fc746d7184e82327787b6da115c755bca5482936e&blog_id=42693868&post_id=91716&user_id=262258391&subs_id=225460721&signature=9b1d0a29fb3d3f12a139e452b9e9fabc&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvUmVkX1Jvb21z&email_id=a712a232ada5754c6797c3513280f192), here is [the trailer](http://marginalrevolution.com?action=user_content_redirect&uuid=4e47fc3527cdb59b0dde227c9d19b081648d959c7916ac80687b627f4c3a682f&blog_id=42693868&post_id=91716&user_id=262258391&subs_id=225460721&signature=1c3d10d385cdb705a9086bac1047f724&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g/dj1oWWI5Q0VTbHJLYw=&email_id=a712a232ada5754c6797c3513280f192).

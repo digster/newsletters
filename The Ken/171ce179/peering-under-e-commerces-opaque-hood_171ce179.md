@@ -1,0 +1,16 @@
+---
+subject: "Peering under e-commerce’s opaque hood"
+from: "The Ken <info@the-ken.com>"
+to: ""
+date: 2020-05-01 02:36:25
+labels: ["CATEGORY_PERSONAL", "INBOX", "The Ken"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_8244464457792971031"]
+---
+India is one of the few major economies that has banned non-essential e-commerce delivery during its Covid-19 lockdown. This meant every e-commerce platform desperately pivoted to selling essentials.
+But how did they fare during the last 40 days of this pivot? That remains largely a secret. The only constants were long delivery timelines and out of stock items.
+This makes today’s data-driven story by Prajakta, our lead visual storyteller, even more fascinating. Because she partnered with e-commerce analytics platform Dataweave to help analyse the last 40 days of e-commerce sales. Dataweave analyses the pricing and availability of tens of thousands products across dozens of Indian cities for a living. So we asked them to help us analyse the leading e-commerce sellers of essentials—Bigbasket, Grofers, Amazon, and Flipkart.
+They did this across 25,000 product SKUs across 30 Indian cities over 3 distinct periods:
+- From 25 March to 15 April, covering the initial three-week lockdown
+- From 25 March to 27 April, covering the extended five-week lockdown
+- Over January and February, 2020, which was used as a baseline
+PS: We're launching a brand new Android app for our premium subscribers, complete with the crowd-favourite dark mode and other exciting features. [Sign up ](https://link.the-ken.com/ls/click?upn=sy6ExvMQ-2BqIqW2Qsf-2FVG5uAVYvseZ6t5Bs5Kc1eItb-2BXB9WpYv7GodKAaEDQqyeLzFydzTO95hR8WJlqbImMxJnG9CowSxqdMNsrw-2FRkVrrpFdrac0X6u7zt0iiFw8eOczR1_dmDs81p1OM5gBGYvHfsMFvgp9PcMB6iZkwowmLx-2FVhwlHXbL5m6csiptGuneRwktW27c6ZwIBsjV67BZcfkOlPppVavmb9GVjXF4V-2FTqNpVLSUDbNsNkSwzcwhOzy3mgT8YFK8uhfM3y8RvvygnTIBEDewmWBbS9iVS6Tiy0DIzAHF4OOeoDemXpeSmnjIFw8W3HlG3wOLiomrISqOIGGnPI3vjqZ72P58RNnLfuMGQ6-2F-2B2TW530YxLPN-2BBy-2F7nxeno3Z-2BBOMXsVitIX8R-2F8DE0yeA69X3TY5z-2FZ7Ha27e27ofp-2BTs9QFLjOKrAbAvjx-2BdOXFXhRclFkphvmdvznwvTYaQliE4fTcQlqio0-2FoIb-2Bkjul4W0R2qyxh4O6wiDQLYBSIhg0LO3zzRoCYi5gP7-2BSaLz6YEHE6DFQLmb6-2B1e7qhE3Z8XW31QPv3K4uKJP)[here](https://link.the-ken.com/ls/click?upn=sy6ExvMQ-2BqIqW2Qsf-2FVG5uAVYvseZ6t5Bs5Kc1eItb-2BXB9WpYv7GodKAaEDQqyeLzFydzTO95hR8WJlqbImMxJnG9CowSxqdMNsrw-2FRkVrrpFdrac0X6u7zt0iiFw8eO3u8l_dmDs81p1OM5gBGYvHfsMFvgp9PcMB6iZkwowmLx-2FVhwlHXbL5m6csiptGuneRwktW27c6ZwIBsjV67BZcfkOlPppVavmb9GVjXF4V-2FTqNpVLSUDbNsNkSwzcwhOzy3mgT8YFK8uhfM3y8RvvygnTIBEDewmWBbS9iVS6Tiy0DIzAHF4OOeoDemXpeSmnjIFw8W3HlG3wOLiomrISqOIGGsgjKZKie2wajfDPWg9C8jPKnNkgipfV-2F7pwscWKOQFMfA9rn30nM6bDFBAUaNeGd1tIE-2F5ua035p1uFSJQlCMIneq-2BeIacddd01-2BRbpSPbc62jdZ56FLF5DuS5enOzvr0K4gh24NOBmCDjo8TqGgGjCUTkCRdkL3BXUSDgL-2BSSu2gyVg06GFWYf1FoZm9q59nvkS4jAhtjuIVxadDumPtdqQSfg1AFE05buNdTS3-2F0x) to join our closed beta group for exclusive access to the redesigned app. Tell us what you like (or don't like) and help us improve our app! (iOS app coming soon).

@@ -1,0 +1,10 @@
+---
+subject: "A Skeptical View of the NSF’s Role in Economic Research"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2025-06-20 11:26:06
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+Tyler and myself from 2016 but newly relevant on [how to reform the National Science Foundation (NSF)](http://marginalrevolution.com?action=user_content_redirect&uuid=df7320426e83ca7e08f6e7cf4c51fcf0f7b41338778a61bb626d2c061f811ff9&blog_id=42693868&post_id=90923&user_id=262258391&subs_id=225460721&signature=f24194d3494719d6aa2e7aafc4aac430&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly9wdWJzLmFlYXdlYi5vcmcvZG9pL3BkZnBsdXMvMTAuMTI1Ny9qZXAuMzAuMy4yMzU&email_id=fc0cba008ed69fe6f2840cddb39b5d19) especially as related to economics:
+We can imagine a plausible case for government support of science based on traditional economic reasons of externalities and public goods. Yet when it comes to government support of grants from the National Science Foundation (NSF) for economic research, our sense is that many economists avoid critical questions, skimp on analysis, and move straight to advocacy. In this essay, we take a more skeptical attitude toward the efforts of the NSF to subsidize economic research. We offer two main sets of arguments. First, a key question is not whether NSF funding is justified relative to laissez-faire, but rather, what is the marginal value of NSF funding given already existing government and nongovernment support for economic research? Second, we consider whether NSF funding might more productively be shifted in various directions that remain within the legal and traditional purview of the NSF. Such alternative focuses might include data availability, prizes rather than grants, broader dissemination of economic insights, and more. Given these critiques, we suggest some possible ways in which the pattern of NSF funding, and the arguments for such funding, might be improved.

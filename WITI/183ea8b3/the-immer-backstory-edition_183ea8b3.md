@@ -1,0 +1,28 @@
+---
+subject: "The Immer Backstory Edition"
+from: "\"Why is this interesting?\" <whyisthisinteresting@substack.com>"
+to: ""
+date: 2022-10-18 10:00:58
+labels: ["CATEGORY_PERSONAL", "INBOX", "UNREAD", "WITI"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "UNREAD", "Label_5752899537867939131"]
+---
+Colin here. Noah and I are obsessed with a mix called Immer, created by Kompakt’s Michael Mayer, and released back in 2002. Noah wrote an[ ode to it back in 2020](https://substack.com/redirect/93e92342-2562-4061-900d-0cf812e322c9?r=8o54n), saying:
+It’s good to be reminded that DJing isn’t just the act of playing tracks. The real secret is spiritual, not technical; it's much more about the metaphysical resonance between the songs, not their beats-per-minute. And when you hear it done properly, the result is pleasantly transportive. Also, it is one thing to listen to a mix when you’re sitting at a desk, but it’s another thing altogether to pair physicality with it. And after all, dance music, and all strains of house and techno, is music meant to move bodies.
+Which brings me back to my runs. The real magic of the music has been in combining it with a consistent running route. I set out each Saturday morning around 7 am (need to beat the heat) and hit play on Immer. As I run, I’ve come to associate the route’s hills and descents with specific moments in the mix. Right after I finish the biggest climb of the 13-mile route, the beat drops out and gives way to[ Phantom/Ghost’s Perfect Lovers remixed by Tobias Thomas and Superpitcher](https://substack.com/redirect/009042be-6d13-4bcc-9252-8cbd285649fc?r=8o54n). The track starts with two minutes of strings and offers a chance for a deep breath before diving into the back half of the run.
+I’ve also shared the mix with countless friends, and regardless of their context (a run or deep, focused work), it’s always had a wonderful reception. I also have a nice memory of playing the mix deep in the French countryside with some friends on a humid summer evening with [too much Armagnac](https://substack.com/redirect/82e32e55-a452-4092-8823-5f0a9f17d486?r=8o54n) involved. It has embedded itself into many areas of my memory.
+Why is this interesting?
+Last week, I decided to ask [Michael Mayer](https://substack.com/redirect/17df99b3-4b5f-4567-a43f-2744d0586ad4?r=8o54n) (a musical hero and lovely guy), about the context behind when he put the mix together. He responded in a few hours while joking that it is the mix that “keeps on giving!”
+It's somehow strange that out of the ten thousands of sets I've played it's this one that still haunts me (in the best of ways).
+I've recorded Immer 1 with two turntables and a Pioneer DJM 900 at the empty Studio 672, the place where Tobias Thomas and I held our weekly Total Confusion club night from 1998 to 2007. This party can easily be seen as a petri dish for Kompakt's releases during its first decade. With Immer 1, I attempted to capture the spirit of these nights, especially the most important part of them: When the warm up fades into prime time. Some of the transitions on the mix were actually tried and tested on some of these Friday nights. All of the tracks have been staples in my sets for a while... they already had a certain patina, if you know what I mean. The general concept of Immer (translates to eternal or always) was to use only tracks that had this timeless feel to them. Come to think of it, it's rather presumptuous to call a DJ mix of more or less current tracks Immer. But well, gladly it didn't fall back on my feet : )
+If you haven’t, it is worth giving the mix a listen here:
+And obviously [buy music from Kompakt! ](https://substack.com/redirect/6dedd998-0c07-4b95-a7dd-042c3ab95d73?r=8o54n)(CJN)
+WITI CLASSIFIEDS
+We are experimenting with running some weekly classifieds in WITI. If you’re interested in running an ad, [you can purchase one through this form](https://substack.com/redirect/f625f1d9-c6e0-435e-bcd8-04e15112e3a2?r=8o54n). If you buy this week, we’ll throw an extra week in for free on any ad. If you have any questions, don’t hesitate to drop a line.
+Build powerful and composable Elixir applications with a flexible tool-chain. Model your domain, derive the rest. [https://ash-hq.org/](https://substack.com/redirect/e749543a-3fcb-4b57-a010-df60ca630f2f?r=8o54n)
+The No.1 job board for careers in transportation & auto tech [https://mobilityjobs.com/](https://substack.com/redirect/392507d0-6ee5-4078-8916-62c04fe048e2?r=8o54n)
+See why Taur is now the world's most accessible electric vehicle. [https://taur.com](https://substack.com/redirect/33d858e1-54b2-4fb7-a435-57e07c14383c?r=8o54n)
+The weekly newsletter read by automotive CEOs [https://www.trucks.vc/newsletter](https://substack.com/redirect/d0fcf346-4d96-46f5-b15d-4a0ed9c2636c?r=8o54n)
+Thanks for reading,
+Noah (NRB) & Colin (CJN)
+—
+[Why is this interesting?](https://substack.com/redirect/d0371773-2954-403d-995e-e87410cff8f9?r=8o54n) is a daily email from[ Noah Brier](https://substack.com/redirect/54b1251a-94af-47f4-a603-6ad380523268?r=8o54n) &[ Colin Nagy](https://substack.com/redirect/250a97fb-a02c-41c9-b961-fa588d54c19a?r=8o54n) (and friends!) about interesting things. If you’ve enjoyed this edition, please consider forwarding it to a friend. If you’re reading it for the first time, consider[ subscribing](https://substack.com/redirect/b3d8a2b1-4f49-4c81-a3f5-5cb9525c83ff?r=8o54n) (it’s free!).

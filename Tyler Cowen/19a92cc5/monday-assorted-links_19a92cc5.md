@@ -1,0 +1,12 @@
+---
+subject: "Monday assorted links"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2025-11-17 17:10:57
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+1. [Andrej](http://marginalrevolution.com?action=user_content_redirect&uuid=329a2453c76064ac848b4f903efb2fc9cb3f1326b6c3cc617b9c5c9925137e37&blog_id=42693868&post_id=91874&user_id=262258391&subs_id=225460721&signature=07f43b08a2c6606f2e0700040231bfce&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly94LmNvbS9rYXJwYXRoeS9zdGF0dXMvMTk5MDExNjY2NjE5NDQ1NjY1MQ=&email_id=7052da2ed449dd5e5e80576f2e46ec28): "Software 1.0 easily automates what you can specify. Software 2.0 easily automates what you can verify."
+2. [Transgenerational Epigenetic Inheritance](http://marginalrevolution.com?action=user_content_redirect&uuid=3696f744665b290c91516cd4695ed5a521ae487a3078afd76a6e2276d5efda8a&blog_id=42693868&post_id=91874&user_id=262258391&subs_id=225460721&signature=aa14672aeb80c659942129c89a129d0e&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly9lbGlmZXNjaWVuY2VzLm9yZy9hcnRpY2xlcy8xMDk0Mjc&email_id=7052da2ed449dd5e5e80576f2e46ec28).
+3. "[The national [cow] herd is now the smallest since the 1950s.](http://marginalrevolution.com?action=user_content_redirect&uuid=42ae3f12576ff5405f03e988c29498c760b6191d926ab4ceab3b804979ffb481&blog_id=42693868&post_id=91874&user_id=262258391&subs_id=225460721&signature=581215c5b9997759986656d1dc2af55e&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly93d3cuZnQuY29tL2NvbnRlbnQvNzc5ODUxYjMtNGQ1Ni00YjkwLWJhZjEtODUxMDk3YzFlYzg4&email_id=7052da2ed449dd5e5e80576f2e46ec28)" (FT)
+4. [California housing remains stalled](http://marginalrevolution.com?action=user_content_redirect&uuid=1712effb77d59042066b943c6dc2c1b43ea94fe29ffa9e14c12fe77d54a01024&blog_id=42693868&post_id=91874&user_id=262258391&subs_id=225460721&signature=64f4305617dfc871354b9d90d87eb45c&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly94LmNvbS9oYW5sb25idC9zdGF0dXMvMTcwMjQzODExNTYyODE3OTYxMT9zPTQ2JnQ9SWhoTkk3bktFRDduajQ1YnJKNXJuZw=&email_id=7052da2ed449dd5e5e80576f2e46ec28).

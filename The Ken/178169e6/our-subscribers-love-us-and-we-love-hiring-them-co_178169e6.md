@@ -1,0 +1,43 @@
+---
+subject: "Our subscribers love us. And we love hiring them. Could the next one be you?"
+from: "Rohin Dharmakumar <info@the-ken.com>"
+to: ""
+date: 2021-03-09 10:53:01
+labels: ["CATEGORY_PERSONAL", "INBOX", "The Ken", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_8244464457792971031", "UNREAD"]
+---
+|
+Hello dear Ishan,
+I want to be upfront about why I’m writing to you. It’s with a selfish motive. We’re looking for the next set of colleagues to join us at The Ken, who will power the next 2-3 years of expansion and growth for us across India and Southeast Asia.
+You know from our emails, stories and products that we set a very high bar for everything we do. That’s only possible because we set a very high bar for who we bring aboard as colleagues. Because everything you read and experience from The Ken was made by teams of really sharp and driven people working together as one.
+And over the years, we’ve found that the cohort that keeps giving us incredible colleagues is…our subscribers. That’s right—you!
+- [Sanjana](https://the-ken.com/blog/introducing-sanjana-ramachandran/), our marketing manager, was a former subscriber and BFO contributor before she joined us.
+- [Nithin](https://the-ken.com/blog/introducing-nithin/), our BFO newsletter writer, was also a former subscriber and contributor before he joined us.
+- [Jaideep](https://the-ken.com/blog/introducing-jaideep/), one of our desk editors, was a subscriber.
+- [Jon](https://the-ken.com/blog/introducing-jon/), our Southeast Asia editor, was a subscriber for two years before he joined us and built out our wonderful SEA team.
+- [Manan](https://the-ken.com/blog/introducing-manan/), our product manager, was a subscriber at his B-school before he joined us.
+- [Praveen](https://the-ken.com/blog/introducing-praveen-gopal-krishnan/), our COO, was both a subscriber and contributor before he joined us in 2018.
+You see?
+Because our subscribers, like you, experience The Ken’s products, journalism, culture, and vision each day and week, we’ve found that this is the best filter from both sides. It’s like The Ken and you have both already swiped right and matched (too much with that analogy? Sorry!)
+We’re hoping to convert a few more subscribers into colleagues for a range of roles that will play a key part in our vision to build a “new” WSJ or FT for India and Southeast Asia. Sharp, original, and reported business narratives. Written for subscribers, not advertisers or sponsors. Wrapped with world-class products and user experiences. Driven by marketing and growth strategies that are original. Supported by a nimble and evolving business model.
+Here are [the roles](https://the-ken.com/careers/), with a couple of lines explaining what they’re about. Hopefully you see yourself doing one of them. Click through for more details. And no, they’re in no particular order.
+1. [Subscriber Community Specialist](https://the-ken.com/careers/subscriber-community-specialist/) (SCS) - help us improve the quality of the subscription experience for subscribers, both new and old. Spot patterns from the emails they send us. Build scalable systems that subscribers can access directly to get more out of their subscriptions.
+2. [Product Analyst](https://the-ken.com/careers/product-analyst/) (PA) - don your thinking and strategy hat to observe the way our subscribers use (or don’t use) our products, and then help improve them on an ongoing basis. There is only one end goal - building and managing products that our subscribers love.
+3. [Corporate Sales & Partnerships Manager](https://the-ken.com/careers/corporate-sales-partnerships-manager/) (CSPM) - help us communicate and sell The Ken’s journalism to the best run organisations and institutions in India, Southeast Asia and the US. Ally with partners that can help us reach newer audiences at scale.
+4. [Growth Marketer](https://the-ken.com/careers/growth-marketer/) (GM) - devise and execute growth strategies that take us to the mythical “10X” destination, but with a keen understanding of how and why subscribers choose to trust us in the first place.
+5. [Product Manager](https://the-ken.com/careers/product-manager/) (PM) - take charge of The Ken’s enviable product portfolio and roadmap, and then help evolve them over both the short/medium term and long term in a collaborative manner.
+If you’d like to join us, write to us at [careers@the-ken.com](mailto:careers@the-ken.com). Tell us why you’d like to graduate from being our subscriber to our colleague. Help us filter through to your email quickly by setting your email subject to us as a mix of “Subscriber to Colleague” and the 2-4 letter job code you see next to each role above.
+Thank you for giving me your time with this email. Have a great day!
+Regards,
+Rohin Dharmakumar
+CEO, The Ken
+|
+|
+You received this email because you're signed up for The Ken with ishan.mail@gmail.com
+If you don't want to receive our emails, set your preferences [here](https://link.the-ken.com/asm/?user_id=2349339&data=nUybyLbMHrD4oQhlpkmZ0NecMD517XaEXLgOexyBkkabi9c9IU4kw9hApLDU7A5yYmhfQ4itb_93F2YKu2t4-7_Lik_Jp3TQ7yHlt0GhxJwNiqQ7vSa8zNZKP4cMkhbH--ordYXzM2BrE24jJc7PLEqCLCJvX0NrAsYYfCuH2EG-k3uixfJqcYBCv-uLkWSudd9LUMkJ5Jr4e3xcmbznmVuEOLZK1Hc-JKpYHtG__-0FCIMLPoueDyNqCQn3ZDqFUsciSfgp7WtU4t4WfgNoIfRgvmF-BtbnVJilUdeOIXBIbHvW1EiQnAEePPA6EZb3Ow9zTTLZnBD-51k81PxlJw3V8A-P7kDARNR728NMMtPu4XsJ1JaUnsdjD6Ux4XjXtMhdO8QVcH4eA06N8Jg3DocEREspzk-zQIx7uwY6POEdBSiIsDn9_uMbEraUfdWgD1PBJM4hfzeFhbYcyaJsmvtk6SyfjWNGE3h97icpCfBGrPNZiQ9leclCmvaLLE6KPiTegnCNht951wnje3fpw3LmN_ONClh5LUclDBDqC4p1gS_0vbltGSr2RqheaQ5U). To unsubscribe, click [here](https://link.the-ken.com/asm/unsubscribe/?user_id=2349339&data=ADKwy1ebonWeKd7a7B1-Xd6m7s5Ra2fN-byhELJIgZxjppZpFRq2r8ginA_br24uu6U_VBb56B8w7SOQSmGkcC4MU47Q7KWD1mki1CSEEindLPvD5zT604zzsbzUhqEmGnYNecLRFKrFLjNtvpb29wPKeTbKm-4rvtJNHNGD9NLz_Lo9sf_B_BxtuQcFIqJnRr7QURnJZTr7aycf7gd6A0jrD9zwSj8Mg4ISs4FY7EMIPHoFklv-GUSW00Ew1hTiKJILX2mGM5CrMlyn9Xv7EDPKKUcTQgRJROcuZ5iBuutemNz1mjeocQCkMNH71Xb0KdYTvs-j0C52wdsZFoPBUOBj0O4KWmQp1-fK3srzOhiVO7IpKifC-Gzqqn6HTp3z9EVE4K8w09wTMsgrwldoaodvc4XHYCL7yN-xEyvfNLjf0ucX4FG7on70Bx_Rs5LLBdNrxEczU6I-Km9rLrr9JmfQvipZReYemcreGdIbVqlYti9otwOtSmgEBLPpuUKzR4tDMLRAaXp-MqGYN4hP40eikhyTxy5PQ-5VSje4Mwor_LKRjX_wUpH0l27z4MC4)
+© 2021 The Ken
+|
+|
+|
+|
+|

@@ -1,0 +1,11 @@
+---
+subject: "When will quantum computing work?"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2025-10-24 00:45:12
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+Huge investments are flowing into QC companies today. IonQ has a $19B market cap, Rigetti has a $10B cap, and PsiQuantum recently raised $1B.
+[3D-Wave is not relevant, despite high qubit counts. Their machines are annealers, rather than gate based, and have less computational power than the QCs that IonQ, Rigetti, PsiQuantum, etc. are working on.]This is a lot of money for an industry generating no real revenue, and without an apparent path to revenue over the next 5 years. Qubit counts have not been doubling each year, but even if they did, we'd have 32 kq machines in 2030.[4If qubits double each year, 1,000 qubits today grows to 32 kq in 5 years' time.]There are few - if any - commercial applications for machines of that size. Will these companies keep raising larger rounds until they achieve 100 kq? Or have they got some secret sauce we don't know about that investors are betting on? If there has been a true breakthrough, we should see much faster growth in qubit count, as well as larger and larger quantum processors, running increasingly massive programs. Note that the QC ecosystem is reasonably public and both private companies and university labs are competitive players. Advances tend to get published rather than stowed away.
+Here is [more from Tom McCarthy](http://marginalrevolution.com?action=user_content_redirect&uuid=c6e53c69647421895a11f8f791bcaf6083f9bff4154631ba8410853b17cd8066&blog_id=42693868&post_id=91725&user_id=262258391&subs_id=225460721&signature=902b0a262c26b0c92f557ab6dbb3402d&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly90b21tY2NhcnRoeS5uZXQvd2hlbi1xdWFudHVtLmh0bWw/dXRtX3NvdXJjZT1zdWJzdGFjayZ1dG1fbWVkaXVtPWVtYWls&email_id=841ae42926c1915b027d190c4aaaa35f).

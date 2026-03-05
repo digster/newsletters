@@ -1,0 +1,30 @@
+---
+subject: "Gordon Ramsay's Apprenticeship "
+from: "Trung Phan <trungphan@workweek.com>"
+to: ""
+date: 2024-04-06 06:23:09
+labels: ["CATEGORY_PERSONAL", "INBOX", "Trung Phan"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_7971156048460647958"]
+---
+The restaurant industry is notorious for its high-pressure environments and tough mentor-apprentice relationships.
+These themes were driven home in FX’s hit show The Bear, which follows the struggles of a young Michelin-calibre chef. The show’s 2nd season just swept at the Emmy’s, winning best comedy series, best director of a comedy and acting awards for Jeremy Allen White (the Michelin mentor figure) and Ayo Edebiri (a talented apprentice).
+While it is a comedy, many chefs have said they couldn’t watch the show because it was “too real” and gave them “PTSD” from their experiences in the kitchen. Episode 7 of Season 1 perfectly captures the [cooking insanity](https://link.workweek.com/click/34948765.41598/aHR0cHM6Ly95b3V0dS5iZS8xSzN6NjJ5b2lPQT9zaT1rMF9tRlFmcnNmSTIwNnlJJnQ9NDkmaGFzaGVkX3VzZXI9MGViZWYxMmM0MjkxMTg0NTYyZGFjMDk5NjViY2U4MDg/6520d6df2061f24a7d071f97Bb5df6a9b) (in sum: The Bear is very very good).
+But if we’re going to talk about the intensity of the restaurant world, we have to reference Anthony Bourdain. The late chef, author and food icon gave a talk in 2006 on management and leadership lessons from the kitchen.
+In one part he talks about newcomers to the restaurant industry. Specifically, newcomers who have found success in white-collar professions and were inspired to cook because they “saw Rachel Ray on TV”. It is easy to romanticize the kitchen life if you only see it from the dining area.
+The kitchen is madness and the [mentor-apprentice relationship](https://link.workweek.com/click/34948765.41598/aHR0cHM6Ly95b3V0dS5iZS9kVkRrbUp1RWREbz9zaT1QaHkxejg4VTlYQm42NDVUJnQ9NjE4Jmhhc2hlZF91c2VyPTBlYmVmMTJjNDI5MTE4NDU2MmRhYzA5OTY1YmNlODA4/6520d6df2061f24a7d071f97Bc52a796c) is important for quickly understanding if someone is cut out for the trade, per Bourdain:
+“People in the restaurant business are not nice sometimes. They're not fair. [But] can you take that? Hence, the gentle art of hazing. Now, I'm not saying you should ever bully anyone out of sheer joy [or be a] cruel and sadistic bastard.
+But there is a sort of natural progression working in kitchens. A new guy shows up and you'll notice nobody calls them by their name. Everybody's kind of pushing them. I’m sure many of the chefs here have seen this again and again. […]
+[A lot of people have idealized visions of the restaurant industry but] this business is hard…there is no secret recipe. This is a mentoring business. Chefs — one at a time — teach someone. [We invest time and decide if it’s worthwhile to teach a person] everything we know and everything we have learned…over a 20 or 30-year career. All those things that we have learned, often quite painfully and at great personal expense. [We teach] through repetition because that's the way we all learn. Repetition, repetition, repetition.
+I would like to know now — or as soon as possible — if you're going to start crying and freaking out…So, if I have to push you a little bit…we're just separating you out from the herd.”
+Bourdain further explains why kitchens are this way. The environment is hot and crowded. There is a huge emphasis on consistency, which makes a lot of the tasks — like cutting shallots — very monotonous. There is also a lot of alcohol involved and so on.
+If you are not cut out for the trade, that is fine. I have never worked in a kitchen and don’t think I would do well. Bourdain is kind of talking about a more general life lesson. What is the actual cost of success and are you willing to pay it? Not “what is the cost of an idealized professional life that someone perfectly curates on social media” but the actual cost of the job you want to pursue.
+I took the LSAT years ago and considered going to law school. Months into the application process, I actually had no idea what a legal career entailed. I was a big fan of Tom Cruise in A Few Good Men (“Did you order the code red?”) and watched a ludicrous amount of Law & Order.
+Then I talked to a friend in corporate law who actually explained the day-to-day job and left me with this thought, “Well, law school is nothing like being a lawyer. And being a lawyer is definitely nothing like Law & Order.”
+So yeah, no law school for me (and apologies for any past newsletters where I wrote with the confidence of a legal professional).
+Anyways, after watching the young Ramsay in White's kitchen, I was able to hunt down a YouTube video of an older Ramsay on Bourdain’s food show No Reservations.
+The clip I found is a perfect bookend to Ramsay training under White.
+Bourdain was visiting London in 2001 for show. Ramsay had officially become a 3-star Michelin chef and it was about 14 years after the clip of “Ramsay looking meek in White’s kitchen”.
+“Generally, I’m not a submissive sort of a guy,” Bourdain says in his [always-incredible narration](https://link.workweek.com/click/34948765.41598/aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g_dj1rbHBXaDVSZEVQNCZoYXNoZWRfdXNlcj0wZWJlZjEyYzQyOTExODQ1NjJkYWMwOTk2NWJjZTgwOA/6520d6df2061f24a7d071f97Ded1a9ec6). “But there are a few times in your life when you know you’re going to have a great time and have a great meal and give yourself over to the experience. And that’s what I’m about to do. The fearsome, the terrifying Gordon Ramsay Restaurant. [Ramsay] is considered to be the best chef in all of England, end of story. He’s operating…at a level that requires nothing but excellence. Famously abrasive and brilliantly talented.”
+The first dish that Ramsay serves Bourdain is a “ham hock terrine on top of celeriac”. I don’t know what this is but Bourdain loves it.
+Two dishes later, Ramsay serves Bourdain something that looks very familiar: a lobster ravioli, looking a lot like the one he made under White.
+It looks effin' delicious and was a clear signifier that the apprentice had become a mentor.

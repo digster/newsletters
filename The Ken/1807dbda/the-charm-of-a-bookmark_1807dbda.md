@@ -1,0 +1,25 @@
+---
+subject: "The charm of a bookmark"
+from: "The Ken <info@the-ken.com>"
+to: ""
+date: 2022-05-01 03:50:22
+labels: ["CATEGORY_PERSONAL", "INBOX", "The Ken", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_8244464457792971031", "UNREAD"]
+---
+As far back as I can remember, I’ve always enjoyed bookmarking items just as much as I enjoy reading. Coming back to something after accidentally discovering it always felt like a nice closure of the loop.
+Back in my school days, kids younger than grade seven weren’t allowed to borrow books from the library. So in order to actually finish reading something, we had to remember the shelf number and the row number for the book and the page number at which we had to pause.
+But given how little schools trust young kids with books, we weren’t allowed to carry pens or pencils into the library. So at the end of each weekly 45-minute ‘reading period,’ you could notice a few kids exiting the library, softly chanting something like this: A17/Row 4/328, i.e. Shelf/Row/Page.
+And we’d climb two, three floors up to our classrooms and open our notebooks to quickly jot down the chant lest we forget next week. Thankfully, the advent of digital reading has made it much easier to bookmark stuff and I, for one, have an overflowing bookmarks section in my browser.
+This week’s stories published by The Ken were all incredibly bookmark-worthy. If I wasn’t so zealously consuming them, they’d all be on my to-finish list this weekend.
+Shruti wrote about how, after years of minimal returns from recycling smartphone batteries, India’s e-waste recyclers now have a mouth-watering opportunity ahead of them as electric vehicles rise in popularity. The government could very soon outline its policy for
+[battery recycling](https://the-ken.com/story/attero-lohum-li-ion-battery-recycling-goldmine/?utm_source=recap_story&utm_medium=email&utm_campaign=recap_newsletter). But in the absence of domestic manufacturers of lithium-ion batteries, there will be limited demand for what they reclaim from recycling.
+On Tuesday, Maitri wrote a sharp and important piece about how while India has birthed 19 telehealth companies in the last five years, finding good doctors to dispense advice on them has been a big challenge. The country is woefully
+[short on quality healthcare professionals](https://the-ken.com/story/health-tech-platforms-no-doctors-medical-professionals/?utm_source=recap_story&utm_medium=email&utm_campaign=recap_newsletter), and getting the qualified ones interested in tech-based consultation only complicates things further.
+Soumyajit had a cracker of a piece on Wednesday as he dug into the claims made by
+[VerSe Innovation](https://the-ken.com/story/the-jangle-of-numbers-behind-dailyhunt-joshs-dizzying-us5b-valuation/?utm_source=recap_story&utm_medium=email&utm_campaign=recap_newsletter)—the parent company behind Dailyhunt and Josh. While the firm claims to have 344 million monthly active users—higher than Facebook’s 336 million—those estimates don’t align with third-party data. His reporting indicates that despite discrepancies that should throw up red flags, investors have been keen to fund the company.
+[Insider trading](https://the-ken.com/story/easy-to-detect-hard-to-prove-sebis-uphill-battle-against-insider-trading/?utm_source=recap_story&utm_medium=email&utm_campaign=recap_newsletter) is acknowledged as an underdiagnosed malady in Indian financial markets by experts. While markets regulator Sebi has stepped up its enforcement work in recent years—bolstered by data analytics and whistleblower awards—there are still notable constraints on its capacity. On Thursday, I dug deep into how Sebi identifies, investigates, and enforces insider trading laws and why the regulator is fighting this battle with one arm tied behind its back.
+How many times a day do you receive
+[spam calls](https://the-ken.com/story/spam-gushes-through-the-cracks-in-trais-do-not-disturb-dam/?utm_source=recap_story&utm_medium=email&utm_campaign=recap_newsletter)? Pratap and Arpit closed out the week with a fascinating story about the faults in the telecom regulator’s 15-year-old effort to curb the menace. The demand for contact details has spawned a thriving set of data brokers. Solving the problem will likely require reorienting it to a privacy issue as opposed to one simply about consumer annoyance.
+It’s been a draining week for me, so my weekend plans are to kick back, dig through some of those bookmarks and hopefully find a fun read or two to relax with. I hope you find these stories bookmark-worthy. We’ll see you again next week with a fresh slate of exciting reads.
+Till then, take care!
+P.S. One of my bookmarks led to a simple recipe I’ll definitely be trying this week: a [classic espresso martini](https://www.bbcgoodfood.com/recipes/espresso-martini) to ease the transition from the week into the weekend. Let me know if you try it out.

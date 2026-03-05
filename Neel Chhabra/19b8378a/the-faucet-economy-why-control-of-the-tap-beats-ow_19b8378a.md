@@ -1,0 +1,139 @@
+---
+subject: "The Faucet Economy: Why Control of the Tap Beats Ownership of the Reservoir"
+from: "\"Neel Chhabra from Neel’s Newsletter\" <neelchhabra@substack.com>"
+to: ""
+date: 2026-01-03 10:47:45
+labels: ["CATEGORY_PERSONAL", "INBOX", "Neel Chhabra", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_1703214449706674033", "UNREAD"]
+---
+|
+There’s a mental model that explains why some of your portfolio companies 10x while others slowly bleed margin, and it’s hiding in plain sight in your kitchen sink.
+Think about your water system. Not metaphorically, literally think about it.
+A century ago, wealth and power concentrated around water sources. Own the reservoir, own the region. The Rockefellers of water were the families who controlled springs, wells, and waterworks. Scarcity was real. Geography was destiny. Capital flowed to the source.
+Today, you turn a tap. Water flows. You have zero idea which reservoir it came from, and you’d pay exactly zero premium to know. Water is a commodity. The source is irrelevant. What you value, what you’d actually pay for, is the interface. The convenience. The reliability of turning a handle and getting what you want.
+This is the investment landscape we’re operating in now. The reservoirs (production, manufacturing, and supply) are abundant and interconnected. The faucets (customer interfaces, demand orchestration, distribution) are scarce and powerful.
+And if you’re still allocating capital to reservoir businesses hoping they’ll compound like faucet businesses, you’re making a category error that might cost you a decade of returns.
+Here’s what happened while everyone was distracted by “digital transformation” and “disruption”:
+Manufacturing became abundant. There are factories all over the world desperate for your order. China, Vietnam, India, Mexico, and Bangladesh will make almost anything you can spec out. The capital equipment exists. The expertise exists. The capacity is there, often sitting idle, waiting.
+Capital became abundant. At least for businesses that can demonstrate demand. If you can prove people want what you’re making, you can find money. The constraint isn’t financing production; it’s proving someone will buy.
+Distribution became abundant. Cloud infrastructure means you can reach millions without owning a single server. Digital advertising means you can target customers without owning media companies. Logistics networks mean you can ship anywhere without owning trucks. Every piece of the traditional moat has been commoditized.
+The only thing that isn’t abundant? Customer attention and trust.
+That’s the new scarcity. That’s the new reservoir. Except this time, the reservoir isn’t at the source of the value chain; it’s at the end.
+Let’s extend the metaphor because it reveals everything.
+In the old industrial water system:
+Power was at the source (the reservoir, the treatment plant)
+Infrastructure was linear (water flowed one direction, from source to tap)
+Switching costs were infinite (you couldn’t change your water supply)
+The owner of the source was a monopoly with pricing power
+In the modern networked system:
+Power is at the endpoint (the tap, the interface)
+Infrastructure is networked (multiple sources, multiple routes, redundant)
+Switching costs are near zero (suppliers are interchangeable)
+The owner of the customer relationship is the orchestrator with pricing power
+The faucet doesn’t care which reservoir feeds it. The customer doesn’t care which factory made their product. They care about the experience of turning the handle and getting what they want.
+This is why Zomato is worth over $25 billion without owning a single restaurant. They own the faucet. When hunger strikes, their app is the handle you turn. The restaurants, the reservoirs, are abundant, interchangeable, and competing to be selected by the algorithm.
+This is why Uber became worth $170 billion without owning cars. They own the faucet. When you need a ride, their app is the interface. The drivers and vehicles are the reservoir, abundantly available, plugged into the network, waiting to be dispatched.
+This is why Amazon dominates retail. They own the faucet for commercial desire. When you want something, anything, you open their app. The sellers, warehouses, and manufacturers are just reservoirs feeding into their system.
+Here’s what changed in the capital markets while everyone was focused on “digital transformation”:
+Manufacturing multiples collapsed. Traditional manufacturers trade at 0.5-2x revenue, 8-12x EBITDA. Why? Because production capacity is globally abundant. There’s always a factory in Shenzhen, Gujarat, or Mexico City willing to make the product for less.
+Platform multiples exploded. Marketplaces and aggregators trade at 5-15x revenue while still unprofitable, 30-50x EBITDA when they reach scale. Why? Because they own the scarcity, customer attention, habit formation, and the data exhaust that comes from owning the transaction.
+The market isn’t irrational. It’s repricing based on a fundamental shift in where power accumulates.
+Zomato: $25B market cap. Owns zero restaurants. A restaurant chain with 1,000 locations: Maybe $1B if they’re exceptional.
+Uber: $140B market cap. Owns zero cars. A taxi fleet with 100,000 vehicles is worth the liquidation value of used cars.
+The market is telling you something: In a world of abundant supply, controlling demand is worth 10-20x more than controlling supply.
+India is living through this transition in compressed time, making it the best laboratory for watching the pattern unfold.
+Meesho has become a multi-billion-dollar company as a faucet for India’s long-tail commerce. They don’t hold inventory. They don’t own warehouses. They’re just the handle that millions of small resellers and customers turn when they want to transact. The suppliers, WhatsApp groups full of saree sellers, kitchen equipment distributors, and toy makers, are the reservoirs. Abundant. Fragmented. Waiting to be connected.
+Nykaa built a beauty empire by owning the faucet for cosmetics discovery and purchase. L’Oréal, Estée Lauder, Lakme, hundreds of brands—they're all reservoirs. Nykaa is the tap. When a consumer in Coimbatore wants lipstick, Nykaa is the interface. The brands compete for visibility in that interface because that’s where the customer’s hand is.
+Urban Company doesn’t employ plumbers, electricians, or beauticians as full-time staff. They own the Faucet, the app you open when your pipe leaks or you need a haircut. The service providers are reservoirs of labor, abundant and networked, dispatched on demand.
+Ixigo doesn’t own the railways, or airlines, or buses, or hotels. They own the faucet for transportation and accommodation discovery. Everyone in their network is a reservoir, competing on price and amenities to be selected when a traveler’s hand lies on the handle.
+The pattern is undeniable: own the moment of need, and you can arbitrage everyone upstream.
+This isn’t unique to India. The same plumbing runs through every advanced economy.
+Shopify is the faucet for entrepreneurial retail. Millions of merchants use their platform. But Shopify doesn’t make products, hold inventory, or fulfill orders. They own the interface between “I want to sell online” and “here’s how you do it.” The merchants are reservoirs. The payment processors, shipping companies, app developers, and all reservoirs. Shopify is the tap that orchestrates the flow.
+Netflix didn’t own movie studios or production equipment initially. They owned the faucet, the interface between “I’m bored” and “here’s something to watch.” The content libraries, the production companies, the actors and directors, and the reservoirs. Netflix was the tap. Only later did they integrate backward into content production, but only because owning the customer gave them the data to know what content would work.
+Booking.com and Expedia don’t own hotels. They own the faucet for accommodation discovery. Every hotel in their network is a reservoir, competing on price and amenities to be selected when a traveler’s hand turns the handle.
+DoorDash in the U.S., Deliveroo in Europe, Swiggy in India… same pattern. They own the faucet for food delivery. The restaurants are reservoirs. Abundant. Interchangeable. Desperate for the flow of orders that comes from being featured in the interface.
+Even in B2B, the pattern holds. Flexport doesn’t own ships or planes or warehouses. They own the faucet for freight forwarding, the software interface that companies use to manage global shipping. The carriers, customs brokers, and logistics providers are reservoirs. Flexport orchestrates the flow.
+Similarly, in the B2B space, we have companies in India like [PDS](https://substack.com/redirect/5b0feab1-3a62-4dfe-b1bf-8491a090b6db?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) and Zetwerk.
+While legacy apparel manufacturers are imprisoned by their own factories, sunk costs in concrete and machinery, unions and utilities, fixed capacity that’s either bloated or bottlenecked… PDS walks through walls. They own nothing and control everything.
+Think of them as the high-end General Contractor for a skyscraper. The GC doesn’t own the cranes, the cement mixers, or the electrical tools, nor do they employ every bricklayer. Instead, they own the blueprints (design), they hold the permits and insurance (compliance and finance), and they know exactly which subcontractors (factories) to hire for the foundation versus the electrical work. If a subcontractor becomes unavailable, the General Contractor simply hires a different one, ensuring the building (the order) is finished on time for the client.
+That’s PDS. They’re the orchestrator… connecting Zara, Walmart, and Tesco to a rotating cast of 600+ factories across 22 countries. Bangladesh does your basics. Turkey and India bring specialized capabilities. China delivers scale. And PDS? PDS delivers optionality.
+This is the financial signature of a structurally superior business model. While their competitors are earning mid-teens returns on a good year, PDS is minting over 30% because they’ve solved the industry’s original sin: capital inefficiency. No factories means no depreciation. No machinery means no obsolescence. No fixed capacity means infinite scalability. They’re selling dollars for a buck-ten while everyone else is mortgaged to the machinery.
+Zetwerk is trying to accomplish something similar in precision manufacturing.
+The arithmetic here is brutal and beautiful.
+From the customer’s perspective, they don’t care about reservoirs. They want the simplest, fastest path from desire to fulfillment. They want to turn one handle, not negotiate with multiple water sources. The faucet that delivers this consistently and conveniently wins their loyalty.
+From the supplier’s perspective, they're in a permanent beauty contest. The faucet can switch to a different reservoir at any time. There’s always another factory, another driver, another restaurant, or another hotel willing to take a lower margin to get flow. The supplier’s bargaining power approaches zero.
+From the faucet’s perspective, they have all the leverage. They see aggregate demand. They see what customers want. They see which suppliers perform well. They can optimize, arbitrage, and extract value at every turn. They can integrate backward when it’s profitable and outsource when it’s not.
+The faucet sits at the point of scarcity (customer attention), while the reservoirs sit at the point of abundance (production capacity). Economics 101: Value flows to scarcity.
+Not all interfaces are equal. The faucets that dominate share specific traits:
+1. They own the moment of need
+When the customer feels the desire… hunger, boredom, a broken pipe, wanderlust… the faucet is the first thing they reach for. This is about habit formation, brand recognition, and being embedded in the customer’s mental map of solutions.
+Google owns the faucet for information needs. When you don’t know something, you Google it. That’s the handle. And now increasingly AI models like ChatGPT, Gemini, and Claude.
+2. They have proprietary demand data
+The faucet sees what flows through it. They know what customers want, when they want it, how much they’ll pay, and what alternatives they considered. This data becomes a compounding advantage; the faucet gets smarter with every transaction while the reservoirs stay dumb.
+Amazon knows your purchasing patterns better than any individual seller on their platform. That’s power.
+3. They create two-sided network effects
+The best faucets don’t just connect supply and demand; they improve both sides as the network grows. More customers attract more suppliers. More suppliers attract more customers. The faucet becomes the natural monopoly, the place where liquidity concentrates.
+Airbnb benefits from having both the most travelers searching and the most hosts listing. Both sides reinforce each other. The reservoir owners (individual hosts) can’t replicate this alone.
+4. They control the trust layer
+In a world of abundant options, trust is scarce. The faucet that manages ratings, reviews, payments, and disputes becomes indispensable. Customers trust the Faucet to vet suppliers. Suppliers trust the faucet to bring legitimate customers. That trust is the moat.
+Uber’s rating system for drivers and riders creates trust that enables strangers to get into cars together. The drivers alone couldn’t build this trust infrastructure.
+Here’s what people get wrong about the faucet economy: they think it’s extractive. They see the platform taking 20-30% commissions and assume it’s parasitic.
+But the best faucets create value, not just capture it.
+Swiggy/Zomato made restaurants accessible to customers who never would have discovered them. Yes, they take a commission. But they also expanded the total addressable market. A restaurant that was trapped by its 2-kilometer radius now reaches 10 kilometers. That’s value creation.
+Shopify enabled millions of merchants to start businesses that would never have existed without their tools. The $30-300/month subscription is worth it because the alternative was hiring developers for $50,000+ to build e-commerce infrastructure.
+Airbnb created a market for spare bedrooms that didn’t exist before. Hosts who list on Airbnb aren’t losing money they would have made elsewhere; they’re monetizing a previously idle asset.
+The platforms win because they genuinely solve problems… discovery, trust, payments, logistics, and customer service. They make markets more efficient. They reduce friction. They create surplus.
+But the power dynamic is clear: the faucet captures an asymmetric share of the value because they control the scarcity (customer attention and trust), while the reservoirs compete in abundance (production capacity).
+The pattern is extending into every corner of the economy. Watch for these emerging faucets:
+Healthcare: The faucet will be whoever owns the patient relationship. Currently, that’s fragmented between doctors, insurers, and hospitals. But platforms like Practo in India and One Medical in the U.S. are attempting to become the faucet, the interface between “I don’t feel well” and “here’s care.” The doctors, hospitals, pharmacies, and insurers become reservoirs in a coordinated system.
+Financial Services: Paytm, PhonePe, and Google Pay in India are becoming the faucet for payments. Once they own that transaction layer, they can add lending, insurance, and investments. The banks become reservoirs, providing capital and taking risk, but not owning the customer relationship.
+Education: Whoever becomes the faucet for skill acquisition and credentialing will control education. Currently, it’s fragmented. But imagine a platform that’s the first place you go when you need to learn anything; they’d orchestrate universities, bootcamps, and tutors as reservoirs. Coursera and Udemy are attempting this, but the faucet is still up for grabs.
+Manufacturing (yes, even manufacturing): As microfactories, 3D printing, and flexible automation improve, manufacturing itself will become on-demand and orchestrated. The faucet will be whoever knows what to make and who will buy it. The actual fabrication becomes a commodity service. This is already happening in PCB manufacturing and plastic injection molding. (Examples include Zetwerk, PDS, and Xometry).
+Energy: The transition to distributed solar, batteries, and EVs is creating a new energy system. The faucet will be whoever manages the flow, optimizing when to charge, when to discharge, when to buy, and when to sell. The electrons are the commodity. The orchestration layer is the value. Companies building virtual power plants are becoming faucets.
+If you’re investing in businesses or trying to understand where value accumulates, there’s one question that matters above all others:
+“Are you investing in a reservoir or a faucet?”
+Is the business creating production capacity in a world already drowning in capacity? Or is the business creating the interface that customers will use to access that capacity?
+Is the business you are investing in competing on price and availability with dozens of other reservoirs? Or are you investing in a business building the orchestration layer that makes all those reservoirs more valuable?
+Is the business hoping platforms will send it customers? Or is the business becoming the platform that controls access to customers?
+The hard truth is that most businesses are reservoirs, whether they admit it or not. They’re suppliers in someone else’s system, competing on margin, vulnerable to being switched out.
+The generational companies, the ones that compound value over decades, are the faucets. They’re the interfaces. They’re the orchestrators.
+We systematically undervalue orchestrators because they’re invisible. Consumers don’t see them. Journalists don’t write about them. Investors trained on 20th-century industrial models look for hard assets, factories, inventory, and property and miss the alpha hiding in connective tissue.
+But the real power is in the network, not the nodes. The intelligence, not the infrastructure. The platform, not the product.
+Here’s why this pattern is so persistent:
+Water flows downhill. Value flows toward scarcity. In an abundant world, the scarce thing is customer attention. The faucet controls that scarcity.
+Reservoirs are static. Factories, inventory, assets are heavy, hard to move, and expensive to maintain. Faucets are dynamic. Software, algorithms, and brands are light, infinitely scalable, and get better with data.
+Faucets have compounding advantages. Every transaction teaches the faucet more about what customers want. Reservoirs don’t get smarter with scale; they just get bigger. Faucets get smarter and bigger.
+Faucets can integrate backward. Once you own the customer, you can always move upstream into production if it’s profitable. Amazon did this with private label brands. Netflix did this with content production. Faucets have optionality. Reservoirs don’t.
+After thousands of hours analyzing businesses in this economy, it comes down to one framework:
+Reservoirs are short optionality. They hope platforms send them customers. They hope algorithms favor them. They hope they can maintain margin. Hope is not a strategy.
+Faucets are long optionality. They can integrate backward, switch suppliers, add products, and expand TAM. Optionality compounds.
+The job as an investor is to buy optionality cheap. The best investments are reservoir-priced assets with faucet potential. Look for businesses where the market sees a reservoir, but you see a faucet being built.
+Here’s how to pressure-test any investment thesis in the faucet economy:
+Ask yourself: “In five years, does this business have more or less pricing power than today?”
+If more → probably a faucet or successful rebellion. Customer data compounds, brand strengthens, network effects deepen.
+If same → probably infrastructure. Useful, profitable, but not compounding.
+If less → definitely a reservoir. Competition increases, platforms squeeze, margins compress.
+Then ask: “Who in this value chain controls the scarcity?”
+Production capacity? → Abundant, being a reservoir.
+Customer attention? → Scarce, being a faucet.
+Proprietary data or IP? → Potentially scarce, but verify it’s real.
+The water system metaphor isn’t cute; it’s precise.
+Reservoirs (production) are abundant, interconnected, and commoditized. Value doesn’t accumulate there.
+Faucets (customer interfaces) are scarce, proprietary, and powerful. Value concentrates there.
+The market already knows this. That’s why it values Zomato at $25B and restaurants at liquidation multiples. That’s why it values Airbnb at $90B and Marriott at $80B despite Marriott owning hundreds of thousands of rooms.
+The edge isn’t in understanding this pattern; everyone does. The edge is in:
+Finding faucets before they’re priced as faucets (buying reservoir-priced businesses with faucet trajectories)
+Identifying real moats vs. temporary advantages (not every platform is defensible)
+Having the conviction to hold through volatility (faucets are volatile because expectations are high)
+The game isn’t about being smarter than the market. It’s about seeing the same patterns earlier, with more conviction and better timing.
+The economy we’re living in has a simple architecture:
+Reservoirs (production) are abundant, commoditized, and interchangeable.
+Faucets (customer interfaces) are scarce, proprietary, and powerful.
+Value flows to the faucet. Power flows to the faucet. The future belongs to whoever controls the tap.
+You can argue with this. You can wish it were different. You can romanticize the value of craftsmanship and manufacturing and tangible assets.
+But turn on your tap. Notice how the water flows. Notice how you don’t know, or care, where it came from.
+That’s the economy now. The reservoirs are full. Overflowing, even.
+In the faucet economy, value doesn’t pool at the source; it accumulates at the tap. The question isn’t where water comes from. The question is whose hand is on the handle.
+The infrastructure is invisible, the sources are interchangeable, and the value lives entirely at the interface. Invest accordingly.
+Thank you for reading, see you soon!
+Neel’s Newsletter is free today. But if you enjoyed this post, you can tell Neel’s Newsletter that their writing is valuable by pledging a future subscription. You won't be charged unless they enable payments.

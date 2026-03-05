@@ -1,0 +1,80 @@
+---
+subject: "The Ever-Changing \"You\""
+from: "\"Sahil Bloom's Curiosity Chronicle\" <sahil@sahilbloom.com>"
+to: ""
+date: 2024-07-31 13:04:29
+labels: ["CATEGORY_PERSONAL", "INBOX", "Sahil Bloom", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_1989028747625928812", "UNREAD"]
+---
+The Ever-Changing "You"
+read and listen on [sahilbloom.com](https://click.convertkit-mail4.com/k0uv7dd8rna6hdkpxpvb0f844zr77i8/g3hnh5h3wnw6r3ir/aHR0cHM6Ly93d3cuc2FoaWxibG9vbS5jb20vbmV3c2xldHRlci90aGUtZXZlci1jaGFuZ2luZy15b3U=)
+read time 6 minutes
+Welcome to The Curiosity Chronicle, a weekly newsletter where I provide actionable ideas to help you build a high-performing, healthy, wealthy life.
+Today at a Glance:
+- The Ship of Theseus is a thought experiment proposed by the Greek philosopher Plutarch in relation to a story about the Greek hero Theseus. If every single piece of Theseus' ship has been replaced gradually over time, is it still the original ship?
+- You are your own Ship of Theseus, constantly replacing your parts over the years (metaphorically and literally). But concerning yourself with the question of "who you are" at any point in time is inviting an identity struggle that is unnecessary.
+- The reality: There is no original version. You simply exist. You never become, you are in a constant state of becoming. This means that you simply need to embrace all change and not worry about clinging to some old version that may have existed.
+|
+How to Discover a [More Impactful Career Path](https://click.convertkit-mail4.com/k0uv7dd8rna6hdkpxpvb0f844zr77i8/9qhzhnhprxrz0dh9/aHR0cHM6Ly9ja2Fkcy5saW5rL3NhaGlsYmxvb21fODAwMDBob3Vyc18wNzMxMjAyNA==)
+Transform your career into a force for good. It’s easy to get caught up in the day-to-day, but have you considered if your job feels meaningful? [80,000 Hours](https://click.convertkit-mail4.com/k0uv7dd8rna6hdkpxpvb0f844zr77i8/9qhzhnhprxrz0dh9/aHR0cHM6Ly9ja2Fkcy5saW5rL3NhaGlsYmxvb21fODAwMDBob3Vyc18wNzMxMjAyNA==) can help you find a fulfilling path that makes a difference. You don’t have to be a doctor or charity worker to make an impact; there are many other high-impact routes you might not know about.
+Rooted in research with Oxford University academics, this nonprofit offers a free career guide to challenge conventional choices and open your eyes to new possibilities. The guide is full of practical, research-driven advice to help you build a career plan that excites and motivates you. Beyond the guide, explore deep-dive interviews on their podcast and impactful opportunities on their job board.
+Everything 80,000 Hours offers is completely free — because they believe in empowering you to make a difference through your career. Dive into the free guide and start planning a career that’s fulfilling and contributes to the greater good.
+|
+The Ever-Changing "You"
+In Ancient Greek lore, Theseus was a legendary hero known for his strength, courage, and intelligence.
+In perhaps his most famous adventure, Theseus traveled to the island of Crete to battle the evil Minotaur. After defeating the mythical creature, he sails home to Athens on his ship, which he leaves in the care of the people of Athens.
+As the story goes, the Athenians honored Theseus by maintaining his ship in the harbor and using it for an annual reenactment of his incredible voyage.
+For 1,000 years, this tradition was upheld.
+As pieces of the ship gradually decayed, they were replaced with new pieces of identical materials. Eventually, every single piece of the ship had been individually replaced, part of a methodical, steady renewal that took many centuries.
+The Greek philosopher Plutarch would later offer that the story of the Ship of Theseus raises an interesting question (and philosophical paradox):
+If every single piece of the ship was replaced, was it still the original ship?
+Further, if all of the old, decayed pieces were collected, and used to build a new ship, would that be the true original ship?
+Plutarch's question is fundamentally about the nature of identity—who you are at different points, the persistence of that identity over time, and how to wrestle with the inevitable tension of change.
+In today's piece, I'd like to offer my own interpretation on the matter of identity and change—and leave you with a specific call to action that will unlock you to embrace whatever lies ahead.
+Your Own Ship of Theseus
+Let's start with a simple fact:
+You are your own Ship of Theseus—metaphorically, yes, as you learn and grow, but also literally.
+Every day, your body literally replaces billions of cells. While the time horizon of the replacement and regeneration varies, it is often said that the human body replaces all of its cells [every 7-10 years](https://click.convertkit-mail4.com/k0uv7dd8rna6hdkpxpvb0f844zr77i8/3ohphkh7grg404sr/aHR0cHM6Ly93d3cucXVlc3RkaWFnbm9zdGljcy5jb20vcGF0aWVudHMvYmxvZy9hcnRpY2xlcy9kby1teS1jZWxscy1yZWFsbHktY2hhbmdlLWV2ZXJ5LTcteWVhcnMjOn46dGV4dD1XaGlsZSUyMGl0J3MlMjB0cnVlJTIwdGhhdCUyMHlvdXIsYXJlJTIwcmVwbGFjZWQlMjBldmVyeSUyMGZldyUyMHdlZWtzLiZ0ZXh0PUluJTIwZmFjdCUyQyUyMHlvdSUyMGxvc2UlMjBjbG9zZSxtaWxsaW9uJTIwc2tpbiUyMGNlbGxzJTIwZXZlcnklMjBkYXkuJnRleHQ9Q2VsbHMlMjBpbiUyMHlvdXIlMjBza2VsZXRhbCUyMG11c2NsZXMsYXMlMjAxNSUyMHllYXJzJTIwdG8lMjByZWdlbmVyYXRlLg==).
+You are, in some sense, an organic manifestation of the Ship of Theseus—in a constant state of change.
+But this is where I break rank from Plutarch's brain-bending discussion and venture off on my own, simple path:
+Identity is the real thing everyone is searching for, the common thread that connects all of us.
+Many of the greatest struggles in life are the result of identity dislocation:
+- A desire to cling to an old identity that no longer serves or applies.
+- A gap between who you think you are and who the world thinks you are.
+- A misalignment between a present identity and a desired identity.
+I would argue that concerning yourself with the question of "who you are" at any one point in time—the original ship vs. the new ship—is unnecessary at best, and dangerous at worst.
+It invites an identity struggle based upon a flawed idea that there is a before and after in your journey.
+My own interpretation is that there is no beginning, middle, and end to your change. There is no before or after, no v1 or v2, no old or new. Infinite versions of who you are, who you will become, and who you could have been. The roads not taken and the roads traveled.
+There is no original version. You simply exist. You never become, you are in a constant state of becoming.
+There is just the ship—there is just you—the Ever-Changing You.
+The Paradox of Change
+"When you are finished changing, you are finished." — Benjamin Franklin
+So, what does all of this mean? How can you navigate the endless complexity of life with a bit more confidence and clarity?
+Simple: Embrace the Paradox of Change.
+This paradox says that the only constant in life is change.
+The failure to embrace that change—to cling to the past, to fear the fluidity, to hold onto something—is the source of endless turmoil.
+Trying to remain as the old original ship, when what is needed is removal, newness, growth, progress, and change.
+The acceptance of that constant change is the source of peace.
+It is the acceptance that there is no original version of you that needs to be preserved or maintained for posterity or continuity:
+- You don't need to cling to old beliefs, mindsets, ideas, and pursuits.
+- You don't need to cling to old people who no longer serve you.
+- You don't need to cling to the old way things were done.
+If you are in a constant state of change, you are free to embrace that in all its varied forms. Add to, subtract from, edit, mold, and morph your being.
+Charles Darwin said it best:
+"It is not the strongest of the species that survives, nor the most intelligent that survives. It is the one that is the most adaptable to change."
+Embrace your state of constant change—be dynamic, be adaptable.
+There is no Past You to cling to, there is no Future You to worry about.
+There is just the Present You to take action: To embrace change, to enjoy the calm waters and endure the storms on your lifelong adventure.
+Preorder My First Book:
+The 5 Types of Wealth offers a new way to measure what matters, make better decisions, and design your life around the pillars that truly create lasting joy and fulfillment. No matter who you are, or where you are on your journey, this book is for you.
+If you’ve enjoyed any of my work, you’re going to find immense value in this book. I guarantee it.
+P.S. You get access to special bonuses (a video series, live AMA/office hours, and a book club appearance) if you preorder today. More info at the link below.
+Sahil's Recommendation Zone
+Perfect your morning routine with my partner[ Athletic Greens](https://click.convertkit-mail4.com/k0uv7dd8rna6hdkpxpvb0f844zr77i8/wnh2hghw646xnmb7/aHR0cDovL2RyaW5rYWcxLmNvbS9zYWhpbA==):
+I get asked about my morning routine all the time. It changes from time to time, but [AG1](https://click.convertkit-mail4.com/k0uv7dd8rna6hdkpxpvb0f844zr77i8/wnh2hghw646xnmb7/aHR0cDovL2RyaW5rYWcxLmNvbS9zYWhpbA==) has been the one constant since 2011. I drink it with a big glass of water every single morning to start my day on a positive tone.
+It replaced an entire cabinet of supplements for me in one daily scoop—seriously, its latest iteration covers a multivitamin, multi-mineral, prebiotics, probiotics, adaptogens, greens, and more. It keeps me feeling healthy and strong throughout the year, even when I'm traveling (thanks to the travel packs).
+Athletic Greens is offering Curiosity Chronicle subscribers an exclusive deal: [a free 1-year supply of liquid vitamin D plus 5 travel packs with your subscription purchase](https://click.convertkit-mail4.com/k0uv7dd8rna6hdkpxpvb0f844zr77i8/wnh2hghw646xnmb7/aHR0cDovL2RyaW5rYWcxLmNvbS9zYWhpbA==). Take advantage of it!
+Sahil Bloom
+|
+|
+|

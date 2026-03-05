@@ -1,0 +1,171 @@
+---
+subject: "Beyond the First Order - \"A circuit breaker for air conditioning\""
+from: "BFO by The Ken <info@the-ken.com>"
+to: ""
+date: 2020-05-26 01:31:03
+labels: ["CATEGORY_PERSONAL", "INBOX", "The Ken"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_8244464457792971031"]
+---
+|
+Edition #41. Tuesday, 26 May 2020
+|
+Someone sent you this? Sign up [here](https://the-ken.com/bfo/?utm_source=su_bnr&utm_medium=email&utm_campaign=btfo)
+|
+|
+Good morning,
+Have you gone back to the office yet? If so, you might want to check what kind of air conditioning system you have installed. If you’re going out to a restaurant for that long-awaited post-lockdown meal, you might just have a mannequin (or a cuddly toy) for company. And if you’re thinking of going to a place of worship, you might want to take a cue from how awkward baptisms now are.
+Post-lockdown lives aren’t as much fun, even if they are designed for safety.
+|
+A circuit breaker for air conditioning
+Rohin
+My colleague [Nadine Freischlad](https://link.the-ken.com/ls/click?upn=sy6ExvMQ-2BqIqW2Qsf-2FVG5gyFKpD4mUef1G19db6eF2fgLvEjxRJ2fMKin8x-2F0PbQNp1Cp37Ahq2LTh9mjbUSATMr4zSmBAL84g6KSJ4tHLc-3DHFRx_dmDs81p1OM5gBGYvHfsMFvgp9PcMB6iZkwowmLx-2FVhwlHXbL5m6csiptGuneRwktW27c6ZwIBsjV67BZcfkOlPppVavmb9GVjXF4V-2FTqNpVr26Dy56x100mjdgQtjWEkzQ2GK8hSKr0LEcEJ-2F1rajrdnLmN-2Bms56EIWLwTZUPIT467Oz-2BbzUOtL6-2BGOt8vzIMcBympn6TJ7G4F01x23sv7tCel3WPKgfKYBRjY86Jky5H8UjlnCyRUdld0B9tGUJJU-2FYxz7YsiMvOgM3J02tV657ExELS218oOxwdUanuI6cF2K3C1a8CxdickRaOyV0VWvnCITUhWAIR8G-2BG-2FkE-2BnMZyd5zBNUmII5dQlfs0zgnk5UBhSZ9pqAMvJJ-2B4klkkzzw9HXrmejaYH0NrxcIsHKe8hmtVb-2BSpZoM2-2FK-2FD9M98ZWvuzZdefH3aGmyu3QoGa8hFM8SDkIO94Sed6xzHA-3D-3D) posted this image of a Gojek taxi from Jakarta on Saturday.
+|
+There’s no doubt that these barriers will provide some protection against Covid-19 transmission, but the thing is modern car ACs were built to spread air as efficiently as possible across the entire car.
+Take a look at this screengrab of a video made by Skoda that shows [the AC airflow](https://link.the-ken.com/ls/click?upn=sy6ExvMQ-2BqIqW2Qsf-2FVG5jKgCDtPUak-2BzIFZiLd0jUgVRHjbKTK8viz2zUC6t8Tdw5-2BXkVlMhJ-2F8Sy9RXaHcPvrUs7a-2FJX4QG-2BHyzTNha3Tzp7u5qA6iEjP5V4UI5bbR4h8Ifn1rmiKDSwooF2OZLA-3D-3DMWll_dmDs81p1OM5gBGYvHfsMFvgp9PcMB6iZkwowmLx-2FVhwlHXbL5m6csiptGuneRwktW27c6ZwIBsjV67BZcfkOlPppVavmb9GVjXF4V-2FTqNpVr26Dy56x100mjdgQtjWEkzQ2GK8hSKr0LEcEJ-2F1rajrdnLmN-2Bms56EIWLwTZUPIT467Oz-2BbzUOtL6-2BGOt8vzIMcBympn6TJ7G4F01x23sv4WgQRHuD35APh8mJKerhb2no4FLfvnnfAXE1md777BXF8OQcAEv8mT-2B348O8Fj-2FX-2FAUNi9bQsiSlfdPnpieFB-2BE9jk7NNAg6slFOnAZGucDX8yEQzyu1iBPhR6n6fumiWBeAdAWbXEWTpVkaIw-2BTY2ZH8C49-2FD5KGjz6zZF68MYsZ5BAgqDVcxH5p-2FjFoJi9Nf9V41Fkeb0r2DiyXqrSa1Kw312pvULtYck9J9vUOXTha7Q-2BsGGSDniJy0hXzxlxg-3D-3D) in its cars.
+|
+This is why the most common question or comment to Nadine’s tweet was on the car’s air conditioning. The US CDC recommends ride-sharing taxis [turn off the AC recirculate mode](https://link.the-ken.com/ls/click?upn=sy6ExvMQ-2BqIqW2Qsf-2FVG5pSpPeOfAz2Cb-2FtqAy9czYkXAeBW30Ab-2BVQ6MvvVXUtg5F9Mn2iYEqbaBaZ5kTVN2SjAtTZTOgSdI5v1k1I-2BTwXwQGHhHujZzkT1UBresBXsCwODjii-2F0u8Sg1uDdSHb0A-3D-3DvPnN_dmDs81p1OM5gBGYvHfsMFvgp9PcMB6iZkwowmLx-2FVhwlHXbL5m6csiptGuneRwktW27c6ZwIBsjV67BZcfkOlPppVavmb9GVjXF4V-2FTqNpVr26Dy56x100mjdgQtjWEkzQ2GK8hSKr0LEcEJ-2F1rajrdnLmN-2Bms56EIWLwTZUPIT467Oz-2BbzUOtL6-2BGOt8vzIMcBympn6TJ7G4F01x23svxcMUKCJBzFSTATTbRkQ9TTwbTDJxmaG4TMURE1eRG8XCqlvqUsa4Csf62fDrsEsnJjdytOGEJ9K8Rd4kWY6j0G8J-2FLPJnGcSlF-2BCmJP3ybcCQaZnglt1k3XpKs-2FSentVc1qU2iIU9ur43T9CfVrqnDzH7dzmOTB7K7dTJa7iOFxA3VX46E-2FqfTqrNuNlOCOasqLEku0nzKkVMhSGD40NWJ8H1z5RgcxYW653oh6ZPYiCWLbz8INbnsrEEv3ga-2B8Ew-3D-3D) while transporting passengers, or to roll down windows.
+Over the last decade, air conditioning has emerged as one of the fastest-growing product categories and electricity guzzlers.
+|
+With over 90% adoption in countries like the US and Japan, ACs are [rapidly penetrating](https://link.the-ken.com/ls/click?upn=sy6ExvMQ-2BqIqW2Qsf-2FVG5ms-2Boup4YLz9iLtrgwpODAKWzrDwnbQMdkKOI05Bkk2rCVBcZekDWQvIaJ-2FbRrds4LMmTOLtiejctt-2Fe9wTOV-2BGaSAAJW-2BfsCNrg-2BLiIQt82Mri6_dmDs81p1OM5gBGYvHfsMFvgp9PcMB6iZkwowmLx-2FVhwlHXbL5m6csiptGuneRwktW27c6ZwIBsjV67BZcfkOlPppVavmb9GVjXF4V-2FTqNpVr26Dy56x100mjdgQtjWEkzQ2GK8hSKr0LEcEJ-2F1rajrdnLmN-2Bms56EIWLwTZUPIT467Oz-2BbzUOtL6-2BGOt8vzIMcBympn6TJ7G4F01x23sv-2FS8JzYCtJnXMV53nlb0yABXswSWVtA30iBodUBwhZQEDekACQAcRGXZ1U8AJYgC8WJR-2F6wOMfF5utR0-2B1NHNZ9eM2uKGHUwcMHnDmG0picU6-2BjvDX1U6gwQnuVazGCdSW8fn2lmiLTjH7SVyeVDNB9Rb0U84vVhmMLsz7kEtUCn5y8B3JRNyuU3OM3gqewFFPuYbf9PIrl59mq7MpaehCWGAbGuCw1SRTpqgllC6-2BFT7cQd20iiytcPj51om3A-2B-2BA-3D-3D) hot emerging economies like China, India, Indonesia and Brazil.
+|
+|
+In Saudi Arabia, A/C accounts for 73% of the sector’s electricity consumption, as compared to 23% in the US and India. In Europe, it accounts for only 2%, but with a marked annual increase since 2000 (3.5% growth per annum), a rate that remains modest when compared to those observed in Asia: 12% per annum since 2000 in China, 11% in India and 9% in Indonesia.
+[…]
+According to the IEA, the number of A/C units worldwide will rise from 1.6 billion to 5.6 billion by 2050. This increase is expected to be particularly high in emerging economies like India, where A/C could represent 45% of peak electricity demand by 2050, as opposed to the current 10%. Large investments in new electrical plants would be necessary to meet this peak demand during the night, when solar energy is unavailable.
+|
+|
+|
+Then comes along Covid-19. In a detailed must-read analysis on Covid-19 transmission, Dr. Erin S. Bromage, an Associate Professor of Biology at the University of Massachusetts, Dartmouth, explains the [three things that make for ideal virus transmission](https://link.the-ken.com/ls/click?upn=sy6ExvMQ-2BqIqW2Qsf-2FVG5rzHnR1VCaXhdBl494FbuUc-2BWkiGMsjzoHVZWdl5lVdNGl9dBCWz0oOqn5w4B8z1mHG-2F9YG-2BAdQzFQVH2Nvx0XM-3DHbsd_dmDs81p1OM5gBGYvHfsMFvgp9PcMB6iZkwowmLx-2FVhwlHXbL5m6csiptGuneRwktW27c6ZwIBsjV67BZcfkOlPppVavmb9GVjXF4V-2FTqNpVr26Dy56x100mjdgQtjWEkzQ2GK8hSKr0LEcEJ-2F1rajrdnLmN-2Bms56EIWLwTZUPIT467Oz-2BbzUOtL6-2BGOt8vzIMcBympn6TJ7G4F01x23svzydVtmzCF6NkuI23OwTVRhtLasiFCrMLQGfSwc9-2BVHJfoFya6YdrqJkhAHsSzcWzesVo6QV6ExL0ozfuAMYo2q1kfu6TuiM-2FE64N3CIqy-2BTPnvUcgHYbleLnvNifPStZmJ1l9wvWw3d5DUyWZ3iOes4f0FluwYU-2F-2Bt-2BZvlTg0NgVO9Gu8vm415Xi-2FWLOEOpsm8fv9KQQneFlJOf72nQZancA2NpYibHAR58-2F-2BnKe1Bg3lEGv-2FOOESh4-2Bu-2BrZZS-2F-2Fw-3D-3D)—enclosed spaces, high density of people and poor air circulation.
+|
+Indoor spaces, with limited air exchange or recycled air and lots of people, are concerning from a transmission standpoint. We know that 60 people in a volleyball court-sized room (choir) results in massive infections. Same situation with the restaurant and the call center. Social distancing guidelines don't hold in indoor spaces where you spend a lot of time, as people on the opposite side of the room were infected.
+The principle is viral exposure over an extended period of time. In all these cases, people were exposed to the virus in the air for a prolonged period (hours). Even if they were 50 feet away (choir or call center), even a low dose of the virus in the air reaching them, over a sustained period, was enough to cause infection and in some cases, death.
+|
+|
+|
+In many of the well-documented cases, ACs played a key role in spreading virus particles via air flow. In a call centre in South Korea, a single infected employee on the 11th floor of a building infected [94 out of 216](https://link.the-ken.com/ls/click?upn=sy6ExvMQ-2BqIqW2Qsf-2FVG5mEP8R5xBB-2BvFu7FYchmqDx4kc60nom6-2FyEVPw-2FebLzVSIhY7CFdTHBp0XgdQKZOKQ-3D-3D06zi_dmDs81p1OM5gBGYvHfsMFvgp9PcMB6iZkwowmLx-2FVhwlHXbL5m6csiptGuneRwktW27c6ZwIBsjV67BZcfkOlPppVavmb9GVjXF4V-2FTqNpVr26Dy56x100mjdgQtjWEkzQ2GK8hSKr0LEcEJ-2F1rajrdnLmN-2Bms56EIWLwTZUPIT467Oz-2BbzUOtL6-2BGOt8vzIMcBympn6TJ7G4F01x23sv0pNTdLTX2tUK0ppBxkGzVsw7qPml9bYtctqoFz8CzJCNTmI69iw4DtIZHaHTLQuDhOB0OkSdgXphJI76MaD5M0atpDrRDtY47nvzyFLz6SYAnDtSMPE2reELk-2Beyck14OWYKQJpn3z-2Fj49307ZYBkSA-2BdOfrIsFCYmjLdvjv7-2BG2k763CoEgjm09v2VgllRM4xquqolD-2FDJYa0oHQHGvODyzfVUApHTdNe1MsYrh97u2dxKxuA2K7htzfSeZBR1zg-3D-3D) employees on that floor.
+Here’s a self-explanatory diagram of arguably the most famous case, from a restaurant in Guangzhou, China. Notice the positioning of the air conditioner relative to the yellow circle (lone infected person) and red circles (future infections). This is from a CDC study cited by [The Atlantic’s Derek Thompson](https://link.the-ken.com/ls/click?upn=sy6ExvMQ-2BqIqW2Qsf-2FVG5mJ6fFkGcfIP9IiG3dpVVHL5acuK2-2BANqhV-2FfPULQ5NVnNHkOOCToLMMr9IKMu8QOSgP9M9PNZvks3NZ-2BBk0fXmrzQKW9t-2BxQeuoP6JHi0tPu5FDY2bPiHb-2FoolJFOYQsQ-3D-3DFNXI_dmDs81p1OM5gBGYvHfsMFvgp9PcMB6iZkwowmLx-2FVhwlHXbL5m6csiptGuneRwktW27c6ZwIBsjV67BZcfkOlPppVavmb9GVjXF4V-2FTqNpVr26Dy56x100mjdgQtjWEkzQ2GK8hSKr0LEcEJ-2F1rajrdnLmN-2Bms56EIWLwTZUPIT467Oz-2BbzUOtL6-2BGOt8vzIMcBympn6TJ7G4F01x23svzCI3cOapGwR1k8HlN9q9dSVMtewLXcfBpx0VF82tOp6uXk2cURlhcERZ9zcBKMZ8HI4HpMovf2vdlS9YzL22fHbp0hQ9uGFZC6pzAogO-2BwpthFzPn0JnFMlF1U8MXz5YsTt3EALSDe0wR5iyf4PLeXfKDrBSMJIl0sONrc6fGSOAvdyAgGZ561hqK1IXlqDmrfebNCB5gEAepqDZ1K4TqkzgRMsXYMIAGKt2JJqbwHpHHuqnTHtFz-2FhhThktTVHWQ-3D-3D) in his recent article on social distancing.
+|
+|
+|
+To avoid air conditioning, some US cities are helping restaurants move their dining outdoors by [shutting down streets](https://link.the-ken.com/ls/click?upn=sy6ExvMQ-2BqIqW2Qsf-2FVG5qskejhDDWi8wIAu5SBI4f-2B7bLZbDSnXzcCxf8h1W0aW5YOsXuuwmMOBDe6r8Vhfvj1FDp8rmR7W9h4XH3EZvj4tu96fxdOEi-2Faa64-2BeoxBCKyZvAYTqa0sWGfIBf3pfNA-3D-3DWsOM_dmDs81p1OM5gBGYvHfsMFvgp9PcMB6iZkwowmLx-2FVhwlHXbL5m6csiptGuneRwktW27c6ZwIBsjV67BZcfkOlPppVavmb9GVjXF4V-2FTqNpVr26Dy56x100mjdgQtjWEkzQ2GK8hSKr0LEcEJ-2F1rajrdnLmN-2Bms56EIWLwTZUPIT467Oz-2BbzUOtL6-2BGOt8vzIMcBympn6TJ7G4F01x23sv0Owe-2Bh2KzWSdTcDSrIZCqHK6xBTxJcLy9Wl3Xrmg5Jpw5O8tTp4O859NTYbV8q90B5UIoXB1apXgL-2FsGhhDQYiLq1ka9F-2BeJV06qLgWItnw5GHrWQ5zAy6P6RTtNASvHLx7LAsjm9FpjVJNB4U0hMo0RMwaidqFj91ddYpmCQn-2Fp-2FJZkMSGyiMLkRnEh-2FNY99a-2FFo0UD3N31uRILgMOk0-2B2o-2Bb-2B1X4vOZ9pbP-2FyFZdlQvIoEuCye6NT-2Bv0SWimwSw-3D-3D) for traffic.
+The science of HVAC (heating, ventilation and air conditioning) has largely been ignored in most emerging economies. Even when it’s put to use, mostly for large commercial spaces and offices, the focus is almost always on cooling efficiency and energy use. Not ventilation, humidity and reduced virus transmission.
+Remember how many offices you’ve been to where the air is dry, stale and cold? Cue, the rise of “ [healthy buildings](https://link.the-ken.com/ls/click?upn=sy6ExvMQ-2BqIqW2Qsf-2FVG5vG42AcCUrn-2FP0miqj5xA2UOTvkHDDYLejnCg6HPJnTF0wiXr7gvM7UfLBH-2F6iZzjA3Y0wPuHHFZsZ-2FSrv4J-2B3FNU2JdHv2-2FkZ7VUXKYqsSozITLjVHVnSOwzCHK9p-2BYBw-3D-3Dd14Y_dmDs81p1OM5gBGYvHfsMFvgp9PcMB6iZkwowmLx-2FVhwlHXbL5m6csiptGuneRwktW27c6ZwIBsjV67BZcfkOlPppVavmb9GVjXF4V-2FTqNpVr26Dy56x100mjdgQtjWEkzQ2GK8hSKr0LEcEJ-2F1rajrdnLmN-2Bms56EIWLwTZUPIT467Oz-2BbzUOtL6-2BGOt8vzIMcBympn6TJ7G4F01x23sv6yHL-2Fu4vflSZPZOlP4zYdQ8my-2BaTkO49iasEZXDHVaFgqMQwd2u4kPkl8ksSLEHqwkxKXufyswlU3XbSc75USLwKJ47-2BjdpfmspD0PL8-2FFig2fe2NToYZ7mIQqUPCY-2FZlsoSnb8S3Q78ULPBeI6Z4w71iRxFts3DIjmpa4DIsB76hyZv2bwwryqlxfqj-2BONa8oTQusmfCkPfmCe1cRp-2FohE4uz04Ly-2B3YyPdlfa0XUoFSElZasNZ2kNEPcZTVaVyA-3D-3D).”
+|
+Durga
+When you’re fresh out of people…
+…Improvise.
+Industries around the world are struggling with the lack of one aesthetic this pandemic season. People.
+People populate places and lend them credibility. (When was the last time you walked into a completely empty bar and decided it must be great and stayed? Yeah, that.)
+People also present things in the most aesthetic way. Think of a takeout manned by a robot that repeats the same “hullo”, “thank you”, “that’ll be $2.75” every time”. It’s sad.
+Or those darned recorded tele-marketing calls where your “I DON’T WANT IT!” lands in a void of taped monotone.
+Depressing? Tell me about it.
+The answer, though, lies with people again - and their creative genius. Here are some efficient, crowd-pleasing examples:
+- A Vietnamese restaurant in Bangkok, Thailand—Maison Saignon—is seating customers alongside stuffed toy pandas...so people
+[don’t feel lonely](https://link.the-ken.com/ls/click?upn=sy6ExvMQ-2BqIqW2Qsf-2FVG5qnndz-2BUBLG6RcSpQcWtFrNt-2Fzz-2FH-2B-2FoD50LVrCvA68Da-2F01l0-2FHQgcS7NuCwqhJ58d7tmhTSWlRKInkCdsJ3qetYquY0xyFX2XUle5Ed-2FsTqiTwOKsDfgez7GuiJVoiONZfVhzZp1uF6aqLK7KK2F8JPzlAa3jNk1jYd4a8Q06OXOxi_dmDs81p1OM5gBGYvHfsMFvgp9PcMB6iZkwowmLx-2FVhwlHXbL5m6csiptGuneRwktW27c6ZwIBsjV67BZcfkOlPppVavmb9GVjXF4V-2FTqNpVr26Dy56x100mjdgQtjWEkzQ2GK8hSKr0LEcEJ-2F1rajrdnLmN-2Bms56EIWLwTZUPIT467Oz-2BbzUOtL6-2BGOt8vzIMcBympn6TJ7G4F01x23svyKRbXDt5FJsLq7T2pqpTnhZGoyyN0-2B3574FT0AbyHmioioPnWl6eBGHVxYt1YM0EzQkvQObDh6UeYd72Nq5He0xujPdMTu77NkOyWgJ2diotvo6UGvs2SNP4REyTGBBlIGh7CfR4xzdfnwTT1zEMANWXGX-2FTXAXusod-2FR1YMu1B0xmFPKKsdbsr6-2BVAlc6gQSrn-2B9ZeHMjXuksuaeH8WfmBxBj-2FQOjedI8qqIhmTdlVPxRBVChaxH7icT2RdrfaWg-3D-3D). Though best not to hug pandemic pandas too much.
+- The effort is multi-purpose though. People have something cute to share space with, without rubbing shoulders with other humans. At least that’s the idea this cafe in Izu Shaboten Zoo in Shizuoka, Japan had when it put large stuffed toy capybaras—native South American rodents—at its tables.
+The [toys ensure](https://link.the-ken.com/ls/click?upn=sy6ExvMQ-2BqIqW2Qsf-2FVG5qnndz-2BUBLG6RcSpQcWtFrNt-2Fzz-2FH-2B-2FoD50LVrCvA68Da-2F01l0-2FHQgcS7NuCwqhJ55izkfHlYBG6vAybUfjyETMc7EDbS-2FdjmQToelqBRztle9Phxx7LCSAAfuyuXmMSkv6dK6fBv-2FYCOz1J75NGPIg-3DBpLJ_dmDs81p1OM5gBGYvHfsMFvgp9PcMB6iZkwowmLx-2FVhwlHXbL5m6csiptGuneRwktW27c6ZwIBsjV67BZcfkOlPppVavmb9GVjXF4V-2FTqNpVr26Dy56x100mjdgQtjWEkzQ2GK8hSKr0LEcEJ-2F1rajrdnLmN-2Bms56EIWLwTZUPIT467Oz-2BbzUOtL6-2BGOt8vzIMcBympn6TJ7G4F01x23svyajbTsllE3-2F35EcmzN1jKCLFzM9wu6NNm466OJQ-2BiHOA7zdM-2FtGNPcGnUvWojyFK05CR-2FeXsDORm1gGQzIxHqZlIwhD-2FKSVWeko0vhcPKarVKZKi7t9FHsPadXd4IuQcCRR9-2Bw3YMdNcSf92WfELHO74T4n24DsZCaBzkcOsQg3npf2GauF1IIuOwb0CzfLdZlPy6EHorUc9KU5uHTRjrDhTW-2FntpZ-2BdK695pWDIIvJdGgKyfVPUYYfEQfvtHrA4A-3D-3D) the pandemic-prescribed 6-feet gap we’re now all so used to.
+- In the US, meanwhile, restaurants are going for a less-fluffy, more-fly alternative. The Inn at Little Washington—a Michelin-star restaurant at the foothills of Blue Ridge Mountains not too far from the American capital—has mannequins
+[dressed in fine 1940s fashion](https://link.the-ken.com/ls/click?upn=sy6ExvMQ-2BqIqW2Qsf-2FVG5m7bczKA1MiN-2BipzBwhvsCrD4-2Fi4wpeafErYeeQCkGmsiOtlJYSmQgwoZVDwgMQCkYTQdMUIcpUf-2BAgcljgsTDThyotygxovDK79UoTBKVLE-2B4rLG3TotRCNvvYcxz9RJACHzgA3PXcrMzNBht-2F6FfNgoKr-2FeUZXNxt9Q4BhMvj7UEQGKPbwKIzrtOf-2BeO1OQ9LCqqnhkFhAWKUGG-2Bp7ASZekE1iFDYH8BXX1P81hifbca-2FAy3aR3-2FVyj6WkmPoNLBXwwNUKZqpZa-2FDUt3CorWUtrn2OnQrVOZjBlYFOGTo5aKEh5F-2F1ecNlvGBLuauWEQ-3D-3D-q8r_dmDs81p1OM5gBGYvHfsMFvgp9PcMB6iZkwowmLx-2FVhwlHXbL5m6csiptGuneRwktW27c6ZwIBsjV67BZcfkOlPppVavmb9GVjXF4V-2FTqNpVr26Dy56x100mjdgQtjWEkzQ2GK8hSKr0LEcEJ-2F1rajrdnLmN-2Bms56EIWLwTZUPIT467Oz-2BbzUOtL6-2BGOt8vzIMcBympn6TJ7G4F01x23sv8TCskfXq2vUIEYTo4phRpXP50lzHB5DQTtQ927-2BNdTipkPESAPbU-2F8UUAdTRt-2F-2Fpd-2FbKWzMNHgqyZ15Re11ZPZULna1W0AkCSJYyyEybRB9qCrwLsqZhp02-2BitFWcRL-2F-2FxPX0VHwx3UyMEz5-2FbsFMosIdRaFjX6YG81FLtHbTiK1l-2BhXa1wZaH-2F-2BDCJpO-2BpDdQXmhxav8xo4QXTZK9SYCZ-2BIgFktpVWfSc60ybOuHC4Xin3clhT7SCLDPczMg8lhQ-3D-3D) filling up the place.
+"When we needed to solve the problem of social distancing and reducing our restaurant's occupancy by half, the solution seemed obvious - fill it with interestingly dressed dummies," chef and proprietor Patrick O'Connell said in a statement. "This would allow plenty of space between real guests and elicit a few smiles and provide some fun photo ops."
+- In Vilnius, the capital of Lithuania, the city has tied up with local restaurants and fashion designers to use social distancing as an opportunity to
+[present “this season’s fashion”](https://link.the-ken.com/ls/click?upn=sy6ExvMQ-2BqIqW2Qsf-2FVG5lwLRLltCt-2FSRcKd46EOIXpuFK9MwSzxWcDwQprvZ4J-2F7Hd-2F44at-2BjbZBzzkgRV2WisPofVL1rKWl3nOpfh88NGDYDzY6YYwpzBZH7wxuRkOOFv3VY0ndmyKSlDxYpkK-2FQ-3D-3Do61A_dmDs81p1OM5gBGYvHfsMFvgp9PcMB6iZkwowmLx-2FVhwlHXbL5m6csiptGuneRwktW27c6ZwIBsjV67BZcfkOlPppVavmb9GVjXF4V-2FTqNpVr26Dy56x100mjdgQtjWEkzQ2GK8hSKr0LEcEJ-2F1rajrdnLmN-2Bms56EIWLwTZUPIT467Oz-2BbzUOtL6-2BGOt8vzIMcBympn6TJ7G4F01x23svyTTgBLJWPCfJWKrCwqInIJ4jCIdjS9eqwf6UJ0EZbQR8XxY5b-2B-2FVc82wmzhmUbuPDxXDVo-2F760x3IaMfCNMvQImYPdn81zgESK5znmRTclcXGEinCbTroTFoNKUQAHO6UJQD2LQc9yXoQ2jESZ-2B4E509-2FRei58ne-2BF3SrqL8CmPVeSOScdROfW-2BLY9AHElJSsT2xY-2FnfD97Ev7QNhf5tDZIuoSEmJXu-2Fl3a1LepGQnMyb5KnHQ2MzqoOPdQ64EwKQ-3D-3D) on mannequins, much like in the US.
+Except it’s providing business to all involved.
+"Empty tables inside our restaurant look rather odd, and we don't have any way to remove them," local restaurant owner Bernie Ter Braak said in a statement. “Therefore, we decided to reach out to our neighbors, fashion boutique stores, and invited them to use our empty tables to showcase their newest collections. The news spread, and well-known designers joined this project, which keeps gaining interest across the city."
+- Designers do need a platform to showcase their work. And at a time when neither models nor audiences can be present to appreciate a new line, Anifa Mvuemba, a fashion designer from the Democractic Republic of Congo, chose to make a statement. By launching her new collection online in 3D, without models, but with silhouettes.
+A bit like a stunning version of Hollow Man. And I mean this in the best possible way.
+“With her designs, Mvuemba wants to celebrate the beauty of Congo, while drawing attention to the issues faced by people in the locale such as illegal mining,” [Harper’s Bazaar](https://link.the-ken.com/ls/click?upn=sy6ExvMQ-2BqIqW2Qsf-2FVG5u-2FvWECAstlxn9sexrF3QhWPNcdEbvjmJSWsea32VBXSr8Mx-2F8u2mjlAhRBCO6wyYUKZd2FyQva6CpssP5yzKRXHgROoF9Zs4HGg-2Fw22yNJfyf5Y33fmLqghdE2qpzMdSQ-3D-3DlcOD_dmDs81p1OM5gBGYvHfsMFvgp9PcMB6iZkwowmLx-2FVhwlHXbL5m6csiptGuneRwktW27c6ZwIBsjV67BZcfkOlPppVavmb9GVjXF4V-2FTqNpVr26Dy56x100mjdgQtjWEkzQ2GK8hSKr0LEcEJ-2F1rajrdnLmN-2Bms56EIWLwTZUPIT467Oz-2BbzUOtL6-2BGOt8vzIMcBympn6TJ7G4F01x23sv3-2F2OY0anr3-2Fv5e8rtpOqOJLxx2IjptIPGaA0okdFWTbZfXbZh339rWTe8lqY1nkErbuzljIVsciLSh-2BRGzhachcc86rHS9y6NiVet87hSlFFRmx5MSXdEWgPjIFDu8Sh7-2F6oUGEQBTe6tSl5srBnEliwerIrUNJRRyRUf7wbZWyuRPIOEVh2-2FHK7mvotJuiK9XU86pDYwYFaznRxJN73sL-2FsIFcG-2BGxaRtqJvAArWx9q8tgRTaQhkbLQ-2BfZCT-2Fh-2Fw-3D-3D) writes.
+|
+|
+|
+At the end of the day, there’s [always robots](https://link.the-ken.com/ls/click?upn=sy6ExvMQ-2BqIqW2Qsf-2FVG5gTvl1k-2Bw7wruJq48GQ3XnSLQlsVN-2FG9KfI5FfnB7xsJlYSdrSaJOp0K0K4nNSNz18JXr3IezPII8eUh-2F-2BufjT0XUwiAQLfKFaOx62bWmVNajO2DfvPee7JxnSg8m9tRf0K2oOHvYvmC52dUPcIMs7-2BlVLwx-2Bzrbi2aJY2F6EJNm6yKXCJy72qLEv0TnZK7kOpAvREP7Tn9zc1qcVJPrKOM-3DjGIt_dmDs81p1OM5gBGYvHfsMFvgp9PcMB6iZkwowmLx-2FVhwlHXbL5m6csiptGuneRwktW27c6ZwIBsjV67BZcfkOlPppVavmb9GVjXF4V-2FTqNpVr26Dy56x100mjdgQtjWEkzQ2GK8hSKr0LEcEJ-2F1rajrdnLmN-2Bms56EIWLwTZUPIT467Oz-2BbzUOtL6-2BGOt8vzIMcBympn6TJ7G4F01x23svyeu54HLnuZ-2BqA9Qp0YCqP1go2HmN4m49-2BOXMFpH5i-2FF1I9AVwxQ7rwSOwaXx-2BBTLFo6JCH7PVUXANfXTTgqQHOA4iDkcCfJMaKfgEraDIBEthce9dgkovIVsSDhhWodm6VZ6ZFm976Z99IgwY3IZGswDXnM7QJxCCQN3-2BGPjQlzREINl0P6nyCy3y3GTV81hshOzEycDJUQd3VhPLS0wo8905YLAR3cD6n5BMmvOPo-2FwTUh3KGd6hYfAtwl6oJ65w-3D-3D), if needed. But people need beauty—and some semblance of human warmth or appearance—for quality of experience, right?
+That being said, none of this solves for all the jobs potentially killed. Especially when too many are out of a job. But that’s for another piece.
+|
+Crowding, not density, is to blame for virus spread
+Pranav
+When on the lookout for a pandemic hotspot, unsurprisingly, everyone looks at cities. Even now, hotspot cities like New York and Mumbai lead to quick generalisations. Here’s one:
+|
+(India’s) population is often compared with China’s but a point missed is that the neighbouring country has a population density of less than 150 given its huge land size. And that’s not all. The average population density statistics do not truly reveal the extent of the problem for India.
+In states such as Delhi, Bihar, Uttar Pradesh, West Bengal and Kerala, the population density is double the national average.
+These figures put into perspective the degree of proximity experienced in India, suggesting that social distancing measures that meet the WHO guidelines may be near impossible.
+|
+|
+|
+|
+Even New York Governor, Andrew Cuomo, supported the density = pandemic spreader argument.
+|
+But as it turns out, the density of a population has no correlation with the spread of Covid-19. Kerala has been quite successful in taming the virus despite its high population density.
+Recent studies examining the disease in [China](https://link.the-ken.com/ls/click?upn=sy6ExvMQ-2BqIqW2Qsf-2FVG5l-2BzmoEZnfGLf-2FRACFEmTwCmYh41eLj3GwMOFC6ZkHj12J9B-2FNmu4UrWJBD1im0bN2QKMBfgR6akoI7t-2Fi4q1R72OlyQ-2FWkOUulaqNDs2Jz23V1UejnyUFgcUK0Mxxw8Uw-3D-3DfvER_dmDs81p1OM5gBGYvHfsMFvgp9PcMB6iZkwowmLx-2FVhwlHXbL5m6csiptGuneRwktW27c6ZwIBsjV67BZcfkOlPppVavmb9GVjXF4V-2FTqNpVr26Dy56x100mjdgQtjWEkzQ2GK8hSKr0LEcEJ-2F1rajrdnLmN-2Bms56EIWLwTZUPIT467Oz-2BbzUOtL6-2BGOt8vzIMcBympn6TJ7G4F01x23sv-2BTik-2Ft0kga3yJjSPinKSKMxLwVhs5WxT1WulVTSUwvfmxyD0DBFYwqSMMsqPUYmqOPS7IGcAJMhEG5X3NzoIJTc8-2B3yGm99d4k7Y9HhDkyk9Cd3Ob3n5u-2BL9N8aYCDegJrZZtV98Yd0IK2zcjrFQf-2B-2BMME8QOdYsi4wjuiuowRIlj3PnQmYVdnIgCN0-2Baet3-2FTzrkhaCZMBwhmJNvRffuNQVVSthd59-2B1Ng-2Ba1f2pvSovQWOa-2BIwg8tbTPjJ2RJLQ-3D-3D) and [Chicago](https://link.the-ken.com/ls/click?upn=sy6ExvMQ-2BqIqW2Qsf-2FVG5o2CNtXRUKL8HGOHrkerXZY3SoLIl-2BILtZzttNEsbjVdysiPnoupQE3YRe99mE1NMltsRcmP3LDwgn9t4eWmwWBm8qLsRBLlYlIhstAcoUTWOc8szqSr3WylQri-2FPvqhzdcFuoQ-2B0ej3DmA8yTlXK5s-3D_W7C_dmDs81p1OM5gBGYvHfsMFvgp9PcMB6iZkwowmLx-2FVhwlHXbL5m6csiptGuneRwktW27c6ZwIBsjV67BZcfkOlPppVavmb9GVjXF4V-2FTqNpVr26Dy56x100mjdgQtjWEkzQ2GK8hSKr0LEcEJ-2F1rajrdnLmN-2Bms56EIWLwTZUPIT467Oz-2BbzUOtL6-2BGOt8vzIMcBympn6TJ7G4F01x23sv9jALkt2O5eC2LFgtL7G2B0AD1hm8e-2FJob8pSsf7U6ClFcnA-2FBieLJgw8-2FzeRKeQEemzOq-2BQMpciMh-2BQwZtOwgQ5W9hAGTHtWdkOFlT2oH0QckVTNY3kpmaQdpjt81Fi06nwZs1LVtcKBguOhcJ3Uojmfxy-2BBhFbS8W4CwTSSNHAKT-2BMes8BJfdEFe3dJ5e0ZlsW7krzpyQ1uIBEIso6xAP99VvCj75uFKYd5-2FrbYDf-2B00cNIEIpfU4CpAHsVYsFAA-3D-3D) show no correlation between population density and infection rates. San Francisco, the most densely populated US city after New York, has done quite well in curbing the spread of the virus. So have Taipei, Hong Kong and Seoul.
+Urban density may actually be good. It supports faster emergency support times, better hospital staffing, and greater concentration of intensive care beds and other healthcare resources.
+|
+A lack of housing density results in sprawl (spreading of cities)—and sprawling development brings profoundly negative health consequences, including increases in respiratory conditions that make people more vulnerable to infections such as COVID-19. Sprawl exacerbates climate change, which damages the health of people all over the world.
+[...]
+Sprawl also forces people to spend so much time in their cars: an average of eight hours and 22 minutes of sedentary time each week. This sedentary time increases the risk of type 2 diabetes and obesity, both of which are risk factors for severe COVID-19 disease. The current pandemic isn’t the first time cities have been blamed for disease. Historically, many campaigns against urban density have been justified as a matter of health and sanitation. They have often taken the form of land-use restrictions that promote not just sprawl but also racial discrimination.
+|
+|
+|
+I see rare animals
+Savio
+The narrative of animals “reclaiming” cities is particularly conducive to WhatsApp forwards. But most such sightings are [either misleading](https://link.the-ken.com/ls/click?upn=sy6ExvMQ-2BqIqW2Qsf-2FVG5oogVaMCjNg8djcxlwLTpUTnv-2BJHyKnKW4iBykyf0neoiZlk3aKB8ejFLWgQFJIBlxtVMJXsaPFjHxEpj659Cy48deaplMjMLx1zsyWqXA5C57Bu-2BM6QysqAJZbGL9Wolrr7dWqhu6XMXpge9NnGlWNdklggBSuyoHx2RButMlz6yw25_dmDs81p1OM5gBGYvHfsMFvgp9PcMB6iZkwowmLx-2FVhwlHXbL5m6csiptGuneRwktW27c6ZwIBsjV67BZcfkOlPppVavmb9GVjXF4V-2FTqNpVr26Dy56x100mjdgQtjWEkzQ2GK8hSKr0LEcEJ-2F1rajrdnLmN-2Bms56EIWLwTZUPIT467Oz-2BbzUOtL6-2BGOt8vzIMcBympn6TJ7G4F01x23sv1AsyNb1rLclwbl9-2F88Vr5j-2BJI5Af2-2Fb0N0LLyp7zDBJ695YYmXgQFhkR5iFPfbU5AM2tmzGYXQkXJQvU1g2-2Bp5doyxp-2BBrcPcwLeA5fApaMBBdfL3CMUtY5ObQgiGamGYnkm5ZJN2-2FWTbH3Ssc04tghNFco49zAwPBwk3yCcyZl6F9u0fg-2BtnEzH9eZ-2BheEs-2F6ZFHwtrSoKIBPyApLpRSpgH2ouAKy-2BrSe7bY3V2qv2YGC4xffwgjT5V-2FghWkAR0Q-3D-3D) or simply that these animals are being noticed more now. All “claiming” is being done by one particularly pesky virus.
+Still, there’s no smoke without fire.
+After nearly five decades, the [rare Asiatic wild dog, or dhole](https://link.the-ken.com/ls/click?upn=sy6ExvMQ-2BqIqW2Qsf-2FVG5pP1VFLvfGKhADdtRHGOvidjxM7-2FF8bG5aWLSgD5eN-2BAFmJXWT4TOQkb5me4uPz2ZHF5nFxQSboIzjc72yqr2tC9CmjiuCO5zNFHFmcyv-2Bu3lZv3EqPYr0DL6q2u6RnOm48PjlGzAJGZynhETUjFJAQ-3DCiAI_dmDs81p1OM5gBGYvHfsMFvgp9PcMB6iZkwowmLx-2FVhwlHXbL5m6csiptGuneRwktW27c6ZwIBsjV67BZcfkOlPppVavmb9GVjXF4V-2FTqNpVr26Dy56x100mjdgQtjWEkzQ2GK8hSKr0LEcEJ-2F1rajrdnLmN-2Bms56EIWLwTZUPIT467Oz-2BbzUOtL6-2BGOt8vzIMcBympn6TJ7G4F01x23sv6ujYY9Y7ka8g1NDIeQTAX-2FTZ8LbtJKuRIG6H-2BuuU4AbLHpP9mFML43zNzW29B4zKitg0SNWENf56JFjfwUWi-2B3XBtjRtnXzAm8mpLM9b-2F4AFXWuHUNzyVZDtsU9JypqRzNHURe3tMFV7XZuf3P2k6Vq44G2idmb-2FgFW8PCh-2BDcg24kRSRFDDnIYeF3RZKvMfgTdpKhyJp7hXuiBOP71VR0W3U8N-2Brm3FNUDQpTQdMtxUP-2FTzi0273NDmdjbDncXKQ-3D-3D), has been sighted in the Vansda National Park in Gujarat. The last reliable sighting of the dhole, also known as the whistling dog due to its peculiar contact call, was sometime in 1970.
+|
+|
+Source: The Times of India
+|
+Several [snow leopards](https://link.the-ken.com/ls/click?upn=sy6ExvMQ-2BqIqW2Qsf-2FVG5gTvl1k-2Bw7wruJq48GQ3XnSLQlsVN-2FG9KfI5FfnB7xsJKLr7kb1235nrnZqCwu1VF23Ll5P0P3R-2B7mX7hYb34HHNGhK0oFET5wbn-2BlwmB0ysyGvTGH1Pnc3KQiuZuFyDPfTZV-2BXCpvEQEQI2Pim-2FmrZgVSVE2YsJzLKTgW89Auya4QlZOfeuS5WpmVuKUJj8QQ-3D-3DSoyO_dmDs81p1OM5gBGYvHfsMFvgp9PcMB6iZkwowmLx-2FVhwlHXbL5m6csiptGuneRwktW27c6ZwIBsjV67BZcfkOlPppVavmb9GVjXF4V-2FTqNpVr26Dy56x100mjdgQtjWEkzQ2GK8hSKr0LEcEJ-2F1rajrdnLmN-2Bms56EIWLwTZUPIT467Oz-2BbzUOtL6-2BGOt8vzIMcBympn6TJ7G4F01x23sv1HeJ4xi-2BnvxpH1oZZs83G7IWyoGf-2Be9PYSQhBlxVf-2BZ9p3M8dX6ImhPHZf-2B9Udc7CN8YeP3IWU6T-2BrHwTEfPiRmm4EkVzAs3lCgILGGhq8EEGNBP9K0WUj6AjP1IZM-2BazneOKLFwhlUnZmk2yOhdkjcBhFlCI0P2vUcBB5BAWTzghFjHo0q8lxtg8IBDB25-2BxAzzuJZS1AyWdBb307nVDbk-2Bktp0lsN-2B8SLQotCIQ4ef68Lvvipvp6eC1FHwVKPPQ-3D-3D) have been spotted near the Kazakh city of Almaty. The country has only around 150 of the big cats, which are rarely seen in the wild, let alone within city limits.
+|
+|
+Source: Snow Leopard Foundation/Handout via Reuters
+|
+In sickness and in health. In proximity and in distance
+Seetharaman
+The colossal impact of Covid-19 may have made some of us more religious. Even if social distancing has made worship and ceremonies a strange experience.
+Photos of priests using water guns to baptise babies and bless churchgoers are only a slightly exaggerated version of what devotees will have to deal with now on.
+|
+Easter and Eid prayers have had to adapt to the new reality. Muslims gave the traditional Eid hugs [a miss](https://link.the-ken.com/ls/click?upn=sy6ExvMQ-2BqIqW2Qsf-2FVG5jzyOgXq-2FrvdGfbIyOeaHs7n170dUNORAjzJ1seDsKdLJXn5Yi6J-2BLan2booJ39wINQIOIZjQBal5b3CPYeHXAqUQqgF97qNRSxiO9LKEkbI2abL_dmDs81p1OM5gBGYvHfsMFvgp9PcMB6iZkwowmLx-2FVhwlHXbL5m6csiptGuneRwktW27c6ZwIBsjV67BZcfkOlPppVavmb9GVjXF4V-2FTqNpVr26Dy56x100mjdgQtjWEkzQ2GK8hSKr0LEcEJ-2F1rajrdnLmN-2Bms56EIWLwTZUPIT467Oz-2BbzUOtL6-2BGOt8vzIMcBympn6TJ7G4F01x23sv4P-2F-2Fx0zSzOfDen36H4x6tmHT2w76fMxBSmvjN-2FmwCLReJ-2Fz2RSrPSXPsRd5DKAPXVNMb5wzuG7sfNTx2DKSQsmMGX2t6qX8B-2FJc1-2FQnNMqIaAl-2FIoCGKksKwDyHwy3bKZBvb78Ii6Mr2c6IBpedChlqxPi-2FSk2zw0M3CdkzdtgAWk3kq87CqqsR-2FjB31TRrxdcTpZbIln-2FJmN3GaFXO6bx9WPdugnKSab8sKy55uoQH-2BZg-2BHmx1DQbvfn2NYaMADw-3D-3D) this year.
+|
+|
+Speaking of embraces, the pandemic has robbed “the hugging saint” of her USP.
+|
+|
+“Like everywhere in the world, life in Kerala and the ashram have changed,” says the ‘hugging saint’, Mata Amritanandamayi, known to her devotees as ‘Amma’, over email. “This is the first time in more than 45 years that there has been no darshan.”
+|
+|
+|
+Even some of India’s most popular temples—in Tirupati, Shirdi, Puri—which draw millions every year, will now have to make do with far fewer supplicants, whenever they open.
+God is everywhere, we are often told. Time to put it to the test?
+|
+Local is getting mighty vocal
+Olina
+Everyone from e-commerce companies, [filmmakers](https://link.the-ken.com/ls/click?upn=sy6ExvMQ-2BqIqW2Qsf-2FVG5hmwi43Ioi3lZb0-2BecxroT9DalVg7gP31fCaNVb-2BKwULEEnEdI5OS0z6SSpBjHMXAO5Lkcyvxpy0LcKHzPofJUY2VXJSMQOyz8Fzzmq-2FPowWSWi2_dmDs81p1OM5gBGYvHfsMFvgp9PcMB6iZkwowmLx-2FVhwlHXbL5m6csiptGuneRwktW27c6ZwIBsjV67BZcfkOlPppVavmb9GVjXF4V-2FTqNpVr26Dy56x100mjdgQtjWEkzQ2GK8hSKr0LEcEJ-2F1rajrdnLmN-2Bms56EIWLwTZUPIT467Oz-2BbzUOtL6-2BGOt8vzIMcBympn6TJ7G4F01x23svyMyVO-2FDWM27JzV4cLj-2Bn-2B-2BrRhZ0-2Fuiar6WboXEnz5LP194UPp52jCZPaLhXvDIXNW31QiGkzEIYNTIHBQmdeWGnWQZXv1b-2FZVkSY8CA-2FE6NEvwlS1l3CKHQ9y2iGx9ZcKfc1RG6hg-2BOBZ-2FA-2F9hbUPNlVFa1C2HJt-2Bmd4-2B6e5s8MxGlZF2AULf9pQY9pJ-2FlSGO1Vqj0-2F6D8EG-2B0BIFg-2FUo63JkU81XEaTbJmh4w71avx4CxKUFnPv6EQ2hyPX-2FWpjw-3D-3D), [army canteens](https://link.the-ken.com/ls/click?upn=sy6ExvMQ-2BqIqW2Qsf-2FVG5thS89BYKot1v8qxMMyTkhF118L5iiTtWtzzDto3-2BCp10NOHW4sD3abkpuOf6I3i4cRmvGhK-2Faho6gcMR88KeI2bgxsAUni5X5F9sHAnjiGzqAbxYxcb0JRwBngYQYHXh2g1x3h9hDGZZeqM4EtOxxQLUiX7T9pXuA3OAhXoXC-2BHrOrw_dmDs81p1OM5gBGYvHfsMFvgp9PcMB6iZkwowmLx-2FVhwlHXbL5m6csiptGuneRwktW27c6ZwIBsjV67BZcfkOlPppVavmb9GVjXF4V-2FTqNpVr26Dy56x100mjdgQtjWEkzQ2GK8hSKr0LEcEJ-2F1rajrdnLmN-2Bms56EIWLwTZUPIT467Oz-2BbzUOtL6-2BGOt8vzIMcBympn6TJ7G4F01x23sv3Ptef-2FDoVtBuP6YxIIhTC4-2FH66nYlo5rAEXr6nV-2FsX-2BL1XsargHwr-2BHOGwdn5kUztEGjFmwp3Hwj2EIpn8a-2BpDSdmfxIfCRbEbhxLoYqTeYyjQ4o-2BVL5wODTZx4SU-2F1ucRx0N2GrlV-2FZsRI0l2SAkd-2FTLvtzfNnVfqbUgKtjXE5HsWXiXa97idylbInF9fSMgn89Gk1G6ba7nxggtWAEfN8oCiofWJFWj5RPzLAqBup-2BflaNwTDM8Sz2pVth4mVRQ-3D-3D) and Patanjali products of “ [OrderMe](https://link.the-ken.com/ls/click?upn=sy6ExvMQ-2BqIqW2Qsf-2FVG5mOJEH4a72WUSeqYGIDRqEFZLT-2F06OiTRa4-2BA9abFOhp2mCMQy-2BD0MiqFPbdMwgc020eWg9uMFZm7kqm7Q-2FwqzAzQZD692KBB2VO02NwoVnK8piKB51Td5SJV9G-2Btvwkjg-3D-3DArVp_dmDs81p1OM5gBGYvHfsMFvgp9PcMB6iZkwowmLx-2FVhwlHXbL5m6csiptGuneRwktW27c6ZwIBsjV67BZcfkOlPppVavmb9GVjXF4V-2FTqNpVr26Dy56x100mjdgQtjWEkzQ2GK8hSKr0LEcEJ-2F1rajrdnLmN-2Bms56EIWLwTZUPIT467Oz-2BbzUOtL6-2BGOt8vzIMcBympn6TJ7G4F01x23sv1K1LJXOfxJ5Hwe5xwdjUyxtW-2BM89FgPO9MIXy0OspFYgT0inaZbczj094PYx3fv07hS0raBFq1oCUxwLEYUZb88bVmhlDZ2legUmZv1BKc5iP9Z4KQM4XkPDLTrW9g-2BJKuX4DteTk4HB5oMt3qTo5kOMb8GZiMP-2BTPdidEO5p28WjeonWTelqSka5EkcRc3KNDbF3HgUwwX7xSUYkDtLNfcNE3qAVBsFMKN4TMdJuKqDSeob5mx2bxeN92HlN5UqQ-3D-3D)” fame, now want a share of the “going local” pie. In the midst of all the reignited swadeshi passions, a little known unit from IIT Roorkee pulled off quite a feat.
+|
+|
+What’s in a name, you say?
+|
+Get a Premium Subscription
+If you enjoyed reading this edition of BFO, you're sure to love everything we have to offer at The Ken.
+Get a premium subscription and join tens of thousands of subscribers to read original, deeply-reported, in-depth stories about business, technology, and healthcare in India and Southeast Asia.
+|
+|
+Read our latest Covid-19 coverage
+|
+|
+If you haven't subscribed yet, you're missing out. Access all our 1000+ premium stories and exclusive benefits, including our subscriber-only app.
+|
+|
+That’s a wrap for today. Do write in with your thoughts and observations on how this pandemic is reshaping businesses, societies and economies. We will be back tomorrow.
+Stay safe,
+Olina
+|
+|
+Liked this edition? Share it with others
+|
+Beyond The First Order is a daily newsletter on the far-reaching consequences of the Covid-19 pandemic. This newsletter is published by [The Ken](https://link.the-ken.com/ls/click?upn=sy6ExvMQ-2BqIqW2Qsf-2FVG5uqSQ8iTVDY7b7k28c43RkIzKbrWeXCdSuX3Rw9On2CiNqCtjU3TTlU-2BkfX-2Bg1d9n8Agc3fGawfBwSfjdYt0rcJmdl028MziR098DrC6faY0grPw_dmDs81p1OM5gBGYvHfsMFvgp9PcMB6iZkwowmLx-2FVhwlHXbL5m6csiptGuneRwktW27c6ZwIBsjV67BZcfkOlPppVavmb9GVjXF4V-2FTqNpVr26Dy56x100mjdgQtjWEkzQ2GK8hSKr0LEcEJ-2F1rajrdnLmN-2Bms56EIWLwTZUPIT467Oz-2BbzUOtL6-2BGOt8vzIMcBympn6TJ7G4F01x23sv4ZgOXjYbfwvuFWyYokmxKYeOPBCzAAe8zHao9z6ChIcrMgvueYL1-2FXM7Tt-2FAtVgGk11INTCACGATd4-2Fjlud5eAs8GHV3T8-2BJMHzWJVpjgMsWeJrkt2jamcn4pQe3Z5EtOZvg5b1UjPx2QRjlPgwrsAbrMeXpGP2-2BYZxHX89Qp-2Br96R1d5JnF2U-2BBSXvOEA9-2FTGTirDn-2BOeNi7YdO8dzPSVNR06GNt3THDRKOTk3JBAlNC06cF-2F-2BosCkAPICmHTt2A-3D-3D)—a digital, subscription-driven publication focussing on technology, business, science and healthcare
+|
+Want to unsubscribe from our daily newsletter, Beyond The First Order? Click [here](https://link.the-ken.com/asm/unsubscribe/?user_id=2349339&data=oWKjEoA69tXSE81x308rx5VEMKkRfeNkq5gyBLKhUzTftY-vdm0ufP9BCbqwsiLl9Sf7uzmju4JSVMlvoCOOfqqTu7u4ZLe_LzvcWZRC-bJzkHOuiW5_AZ5BBJvxiefjWPSRLJ-AG2t4vM71Uq_4UQg-cEtcE4CJOMn4xnw3rGOUqOph8abA3Huflyl06KlG5OmrFiyV_zztkGRYAMuFIl0rZ33PuqZfMmdiZS9O56FwxXqd4sHaIkYrc6vuBZ47wQ3lF9-FguRFoOXIsTVhk4JWHiYmYaHjU0msZ6XSHFCW3e3qKzNZiEWSTON7fRQBvM6fn3XrNYBoXz-Afky9ciPMg_JJ7dR3p-D17144MgH-q2OPBM7xhFOZfjuu_Wjpvmx7iyivbhV3yYXb0em5SmeI8OREM_wy3VrOXZ7BB_zg6oH1ThiOjq29H4rbUfgSQGXMekSLVO4AinidDFOSftLUoNyVgWhbMLaYJaWcwvI8gYI-YTT_W_FK2VxMf_migBHkzx3if7P7r1s-_Zj-psjamSDj9958rntqO5T7OW3m8fUplPVS7rxaG-XVU3KvO4mfDqYKoJ-f-ER-Sw7DNQ==). Or set your email preferences [here](https://link.the-ken.com/asm/?user_id=2349339&data=bI76HvPRx3_aLLSV0YVYkzm6NnVTuwdCf2cXys4LVeW0-XpQ0hNqkuy-y-HY0O9AwaLo-uj0c5XYeJGi56a0-UcY-sMutO4RAvGxUHsnSNF0kVLnL44Q8Q1p1HYw_cDe1FK4h8xV1SfMxK8AehAKfpkcImSCKwppDKmQvaZiUvTN_je3MWc4WoZj00XoF46Jx6pDvv5bRX9ZW76UEgxURMhQbDKMWwvYdY02KCt1m7pqRa49NCMeK1lOH0GMzgE9M9PP1HZxXUJr1jK6LAuaJh6FKavSCaYY61GYuuPOkMNx96rh8pMGYixpRC_oibGioO8KIHrTQyElCpxp24YpL1xrMvpxZNU4GJykatLco8gc35DLrsZUtrwgGcNM9ADlUCwcvc4rf8YVjsffqhQjGey2hATr3gm1QeIVqPCompLhPTHo3bH6I2sfMNImSo3dDbnvyEiDqC4UHQ7NFnZ8j9S0eGTh4F4XelNhq8HQA26cSd6Dq2xh0ApU5F_KD5cTn9ZDVgfdQg-0pbGDW3XTzPJOKf5ZsO43TFNZUiPK9Z7acFKkiDBV8uidaTmva_a_)
+© 2020 The Ken
+|
+|
+|
+|
+|

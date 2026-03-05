@@ -1,0 +1,14 @@
+---
+subject: "From the comments, on language preferences"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2025-07-27 04:51:56
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+Those wanting good, efficient government are not doing so well this century.
+That is [from Paco](http://marginalrevolution.com?action=user_content_redirect&uuid=1a447221954ab07297b83634ae667b0735060b76313fc9f856b12c8555397374&blog_id=42693868&post_id=91162&user_id=262258391&subs_id=225460721&signature=a8f0a453415d990a9fe0ae8baf547f42&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly9tYXJnaW5hbHJldm9sdXRpb24uY29tL21hcmdpbmFscmV2b2x1dGlvbi8yMDI1LzA3L3Nob3VsZC1jYXRhbG9uaWEtcmVjZWl2ZS1tb3JlLWZpbmFuY2lhbC1pbmRlcGVuZGVuY2UuaHRtbA=&email_id=a58a37a79d4cc20ef81d4a33d4d86f72). The rest of the comment is a bit more specific:
+In Spain, language politics are a key way to get your friends government jobs: When you manage to make regional language proficiency mandatory on any of said jobs, from schoolteacher up, and make the regional language the only language schools will teach on, you basically get a political cleansing of the institutions. Catalonia also pays those people quite a bit better than other regions: Not good for the budget (although now they get to hand the debt to Spain while they keep the taxes!), but it’s great for clientelism. Love your region, speak your regional language over all, get rewarded economically.
+This is why you have similar schemes in every region that can get away with it: It’s just jobs for your friends. But that also translates to worse English for everyone, a language that might actually help do better in the long run. They call it maintaining the culture, I call it grift.
+Then we’ll hear them all complain about Madrid’s corruption, when the 3% “friend tax” on basically any catalonian government contract, or anything large that needed a permit was documented for decades. It’s a key disease all across Spain. Blaiming Madrid made great sense circa 1920s or 30s, where it was just a bureaucratic capital with no industry of any sort. But now it’s the largest economic engine of the nation, largely because they are the closest to an economically liberal area.
+As for the economists, it’s easy: They are inclined to any pro-independent movement that claims oppression, for any reason. At that point that cause is on their team, and careful analysis disappears. I bet you can all find an example or two of people justifying the waste and corruption elsewhere, just due to association.

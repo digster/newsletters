@@ -1,0 +1,11 @@
+---
+subject: "Why is manufacturing productivity growth so low?"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2025-07-14 13:50:37
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+We examine the recent slow growth in manufacturing productivity. We show that nearly all measured TFP growth since 1987—and its post-2000s decline—comes from a few computer-related industries. We argue conventional measures understate manufacturing productivity growth by failing to fully capture quality improvements. We compare consumer to producer and import price indices. In industries with rapid technological change, consumer price indices indicate less inflation, suggesting mismeasurement in standard industry deflators. Using an input-output framework, we estimate that TFP growth is understated by 1.7 percentage points in durable manufacturing, 0.4 percentage points in nondurable manufacturing, with no mismeasurement in nonmanufacturing industries.
+That is from [a recent paper](http://marginalrevolution.com?action=user_content_redirect&uuid=d7ffb5cc266a2a816cc15b94d8c0d94b6edb14fe2b2e90ca3dc5e8734c1f5d1c&blog_id=42693868&post_id=91082&user_id=262258391&subs_id=225460721&signature=c5379fb1d83bd2860da429503e53084b&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly9lbmdoaW5hdGFsYXkuZ2l0aHViLmlvL21hbnVmYWN0dXJpbmcucGRm&email_id=6b5c438f5d766dbaf1c7c26f5b0f0a71) by Enghin Atalay, Ali Hortacsu, Nicole Kimmel, and Chad Syverson. Still, that seems low to me...
+Via [Adam Ozimek](http://marginalrevolution.com?action=user_content_redirect&uuid=e7a18ad01da3d37fae7c8837e442cc3b4ad5bca7e3909a82f6691248bb6af9e5&blog_id=42693868&post_id=91082&user_id=262258391&subs_id=225460721&signature=c442e42d4527d05436be3ebc7d6b7178&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly94LmNvbS9Nb2RlbGVkQmVoYXZpb3I&email_id=6b5c438f5d766dbaf1c7c26f5b0f0a71).

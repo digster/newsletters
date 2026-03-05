@@ -1,0 +1,17 @@
+---
+subject: "The AppetiZIRP"
+from: "Not Boring <notboring@substack.com>"
+to: ""
+date: 2023-02-28 13:42:50
+labels: ["CATEGORY_PERSONAL", "IMPORTANT", "INBOX", "Not Boring"]
+label_ids: ["CATEGORY_PERSONAL", "IMPORTANT", "INBOX", "Label_2982495070691762429"]
+---
+Welcome to the 1,343 newly Not Boring people who have joined us since last Tuesday! If you haven’t subscribed, join 188,230 smart, curious folks by subscribing here: Quick note: This post might cut off in your inbox. Click “The AppetiZIRP” at the top to jump to the online version and read the whole thing. Today’s Not Boring is brought to you by… You know Composer. I love Composer — the investing app that helps you achieve superior returns with logic and data. Since founding its algorithmic trading platform in 2020, Composer has helped over 20,000 customers trade 100s of millions of dollars. I’m one of them — my Composer portfolio is actually up since I started using it last year, which is incredible because the portfolio of individual stocks I own is … not. Here’s what I like about using Composer: The product combines beauty and power — it’s my favorite investing UX Automation, rebalancing, and conditional rules mean I can take my emotion out of it I can copy smarter peoples’ Symphonies, tweak them, build my own, and backtest them all It’s a much simpler way to build a balanced, diversified portfolio than I could on my own
+As a Not Boring reader, you can get an extra free week of Composer’s trial offering by entering “Not Boring” in the “Where did you hear about us?” section. This exclusive offer lasts until Friday 3/3 at 11:59pm EST, so check out Composer now: Hi friends 👋, Happy Tuesday from snowy Brooklyn! I have a bunch of goals for this newsletter. Our mission is to make the world more optimistic. I want to invest in and tell the stories of companies that are bending the world’s trajectory upwards. But there’s one immediate short-term thing I really want to get across: the world is going to keep getting much weirder, really fast. Instead of dismissing the latest Weird New Thing as a fad or temporary (transitory?) insanity, I want you to see that the Weird New Thing is just a small taste of a Much Weirder Future Thing. I want you to start taking weird shit more seriously. We’re in the middle of one of those “everything is changing” times. And in times like these, it’s helpful to zoom out, look back, and look forward. It’s impossible to predict the future with any meaningful accuracy, but it is possible to take the present much more seriously. Let’s get to it. The AppetiZIRPLet’s start with a hot take: ZIRP Phenomena are really just little glimpses into the future. AppetiZIRPs, if you will, for the much wilder main course. The conversation around the Fed’s Zero Interest Rate Policy, or ZIRP, typically runs in one causal direction. The Fed lowered rates to avert crisis and kept them low for a decade. That led to all sorts of wacky behavior. With rates going back up, the wacky behavior will go away, the temporary insanity will stop, and we’ll look back and laugh at all of the silly things people did back then. We’re already laughing. “X was a ZIRP phenomenon” has become a meme on Twitter. My friend Austin asked for, and received, a bunch of examples here:
+Zero interest rate phenomena:
+1. NFTs
+2. Starting a podcast
+3. Miami
+4. Great resignation
+5. Working as an engineer for all 5 big tech companies at once
+What did I miss? |

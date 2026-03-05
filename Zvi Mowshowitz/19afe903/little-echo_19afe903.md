@@ -1,0 +1,12 @@
+---
+subject: "Little Echo"
+from: "\"Zvi Mowshowitz from Don't Worry About the Vase\" <thezvi@substack.com>"
+to: ""
+date: 2025-12-08 15:24:05
+labels: ["CATEGORY_PERSONAL", "INBOX", "UNREAD", "Zvi Mowshowitz"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "UNREAD", "Label_3336704411007769646"]
+---
+I believe that we will win. An echo of I was in Berkeley for the 2025 Secular Solstice. We gather to sing and to reflect. The night’s theme was the opposite: ‘I don’t think we’re going to make it.’ As in: Sufficiently advanced AI is coming. We don’t know exactly when, or what form it will take, but it is probably coming. When it does, we, humanity, probably won’t make it. It’s a live question. Could easily go either way. We are not resigned to it. There’s so much to be done that can tilt the odds. But we’re not the favorite. Raymond Arnold, who ran the event, believes that. I believe that. Yet in the middle of the event, the echo was there. Defiant. I believe that we will win.
+If you don’t believe it, I encourage this all the more. If you don’t understand the mindset, or the culture behind it, or consider it an opponent or dislike it, and especially if yours is a different fight? I encourage this all the more than that. You can also You will sing songs you know, and songs you don’t. You will hear tales of struggles, of facing impossible odds or unbearable loss and fighting anyway, of how to face it all and hopefully stay sane. To have the end, if it happens, find us doing well. I live a wonderful life. I am crying as I write this. But when I am done, I will open a different Chrome window. I will spend the day with friends I love dearly and watching football games. This evening my wife and I will attend a not wedding of two of them, that is totally a wedding. We will fly home to our wonderful kids, and enjoy endless wonders greater than any king in the beating heart of the world. I want for nothing other than time. Almost every day, I will mostly reject those wonders. I will instead return to my computer. I will confront waves of events and information. The avalanche will accelerate. Release after release, argument after argument, policies, papers, events, one battle after another. People will be determined to handle events with
+I know if I ignored it, I will look at events, and say to myself as I see the moves unfolding, the consequences of choices I made or influenced, for good and ill:
+Yet the echo is there. In my head. It doesn’t care. I believe that we will win. You're currently a free subscriber to |

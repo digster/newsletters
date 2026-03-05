@@ -1,0 +1,32 @@
+---
+subject: "Learn Git and GitHub [Free 1-hour programming course for beginners]"
+from: "Quincy Larson <quincy@freecodecamp.org>"
+to: ""
+date: 2025-12-05 14:16:05
+labels: ["CATEGORY_PERSONAL", "INBOX", "Quincy"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_7697778124671848699"]
+---
+Here are this week's five freeCodeCamp resources that are worth your time:
+
+1. freeCodeCamp just published a Git and GitHub for beginners course. Git is a powerful version control tool that most developers now use to build software projects together. GitHub is a popular platform that adds tons of collaboration features on top of Git. You'll learn the basics of both in this course, which covers branching, merging, pull requests, and other key concepts. Well worth your time. (1 hour YouTube course): https://www.freecodecamp.org/news/git-and-github-crash-course-for-beginners
+
+2. freeCodeCamp also just launched our new Responsive Web Design Certification. You can now take the final exam and earn this verified cert, then add it to your LinkedIn, CV, or personal website. This is version 10 of the core fCC curriculum. The community collectively spent thousands of hours developing all this as your shortest path to front-end development skills. This announcement and comprehensive FAQ will help you figure out where this fits into your journey toward your learning goals. (100+ hour interactive curriculum): https://www.freecodecamp.org/news/freecodecamps-new-responsive-web-design-certification-is-now-live/
+
+3. On this week's freeCodeCamp podcast I interview Andrea Griffiths, who taught herself programming using freeCodeCamp while working in construction. She moved to the US from Colombia when she was 17, and within 6 months she joined the US Army. She ran a chain of gyms before landing a support role at a tech company, then ascended to Product Manager and ultimately Developer Advocate at GitHub. She shares tips for busy parents who want to learn new skills, and how to stay focused in an increasingly distracting world. (1 hour watch or listen in your favorite podcast app): https://www.freecodecamp.org/news/tips-from-serial-career-changer-github-andrea-griffiths-podcast-199/
+
+4. freeCodeCamp also just published a new Harvard CS50 course that will teach you R, a popular programming language for statistical computing and data science. You'll work with real-world datasets inside the RStudio Integrated Development Environment. You'll learn about Vectors, Matrices, Data Frames, filtering, visualizations, and more. (9 hour YouTube course): https://www.freecodecamp.org/news/learn-r-programming-from-harvard-university/
+
+5. It is with great pride that I announce our Top Open Source Contributors of 2025. It's been a super productive year for the global freeCodeCamp community. As we start our 12th year as a community, we’re firing on all cylinders, pushing forward more steadily than ever toward a future of open source education. (5 minute read): https://www.freecodecamp.org/news/freecodecamp-top-open-source-contributors-2025/
+
+freeCodeCamp is a charity that creates open source learning resources to help people learn math, programming, and computer science. If open education is an important cause for you, please consider supporting our mission: https://www.freecodecamp.org/donate
+
+Quote of the Week: 
+“Take a moment to stop and think about what it is that truly matters to you. And then start making the changes that you need to make.” — Andrea Griffiths on this week's freeCodeCamp podcast talking about her decision to learn programming and launch into an entirely new career
+
+Until next week, happy coding.
+
+-- Quincy Larson
+
+Teacher and founder of freeCodeCamp.org
+
+If these aren't worth your time, you can turn them off: https://www.freecodecamp.org/ue/eZV2T3gHC7IGcwcpYPG64

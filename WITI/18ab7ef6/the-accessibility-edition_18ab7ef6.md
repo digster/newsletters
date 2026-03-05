@@ -1,0 +1,20 @@
+---
+subject: "The Accessibility Edition"
+from: "\"Why is this interesting?\" <whyisthisinteresting@substack.com>"
+to: ""
+date: 2023-09-21 13:20:01
+labels: ["CATEGORY_PERSONAL", "INBOX", "UNREAD", "WITI"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "UNREAD", "Label_5752899537867939131"]
+---
+Colin here. We’re all familiar with braille, the system to communicate via texture to the visually impaired with raised dots representing the letters of the alphabet. In Japan, this idea is taken a step farther, into physical spaces. If you’ve walked in public places like train stations, you’ve noticed a series of raised yellow tiles: those with raised dots indicate caution, while those with long, parallel strips provide directional cues. The bright yellow stands out to those that still have some vision, while the physical texture can inform those that are blind on where to go, where to pause, and other cues.
+The design was first created in 1965. According to the [Japan Times:](https://substack.com/redirect/5c3b5e8f-79cf-482c-9536-7a1845f48fc5?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+Seiichi Miyake came up with the idea after reportedly seeing a man with a cane almost get hit by a car at an intersection outside his home. The inspiration behind his invention was Braille. By placing various patterns on the ground, he thought that visually impaired people might be able to “read” the pavement with their feet or a cane, much like they would read a book.
+After two years and many self-financed prototypes, Miyake settled on a 7×7 “blister” pattern in standard cement, which he believed could be both easily understood and constructed. He named it the tenji block (a nod to the Japanese word for Braille) and dreamed of laying his invention in cities across Japan.
+Why is this interesting?
+While the idea took a while to take hold, it became fully adopted within the country and has subsequently been used by 20 countries around the world. It is a widely appreciated and highly visual part of Japanese urban culture, one that allows the visually impaired more mobility and more freedom.
+According to [Kokoro](https://substack.com/redirect/d95ce4df-9c87-4b75-897e-2eb057c79c9c?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o), “Japanese law requires buildings of more than 2,000 square meters to install such blocks near potential hazards, as well as around a railway station’s outdoor area, and from the entrances to manned booths and platforms. Even in places equipped with automatic doors, being too close to the track may be dangerous when trains leave or arrive at the station.”
+The blocks are not without their problems. Sometimes they can be slippery in inclement weather and sometimes they can fall into disrepair. In fact, the [Street Art Line](https://substack.com/redirect/0a3e90f6-5b69-4ab1-b341-f0cf3e2f0348?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) project is melding urban art and the Tenji to create awareness and make sure the general public cares and takes care of them. (CJN)
+Thanks for reading,
+Noah (NRB) & Colin (CJN)
+—
+[Why is this interesting?](https://substack.com/redirect/7cc0bb3c-4c58-40f4-9d0c-cca05cc48f95?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) is a daily email from[Noah Brier](https://substack.com/redirect/cedf0def-5aa4-433a-9327-2a37b37e41fa?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) &[ Colin Nagy](https://substack.com/redirect/267ba350-2563-4262-b408-ad40db1984e2?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) (and friends!) about interesting things. If you’ve enjoyed this edition, please consider forwarding it to a friend. If you’re reading it for the first time, consider[ subscribing](https://substack.com/redirect/1751781a-32e4-4266-bd47-7fea8c1a36cb?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) (it’s free!).

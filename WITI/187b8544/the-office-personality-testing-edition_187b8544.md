@@ -1,0 +1,26 @@
+---
+subject: "The Office Personality Testing Edition"
+from: "\"Why is this interesting?\" <whyisthisinteresting@substack.com>"
+to: ""
+date: 2023-04-25 12:05:33
+labels: ["CATEGORY_PERSONAL", "IMPORTANT", "INBOX", "UNREAD", "WITI"]
+label_ids: ["CATEGORY_PERSONAL", "IMPORTANT", "INBOX", "UNREAD", "Label_5752899537867939131"]
+---
+Noah here. I’ve always been pretty turned off by office personality testing. Some part of it is clearly my own personality and its desire not to be boxed into a set of letters or colors. Somewhere in my gut, I’m also a little afraid that I’ll buy into my office personality and let it dictate my behavior.
+But mostly, I think it’s nonsense.
+An excellent New York Times piece from 2019, “[Personality Tests Are the Astrology of the Office,](https://substack.com/redirect/d0977f61-cb40-4a5a-8ef0-190307c71c18?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)” summed up the growth and appeal of these tests well:
+Personality assessments short-circuit the messiness of building what is now referred to as a “culture.” They deliver on all the complexities of interpersonal office dynamics, but without the intimate, and expensive, process of actually speaking with employees to determine their quirks and preferences.
+They appeal also, perhaps, for the same reason astrology, numerology and other hocus-pocus systems do: because it’s fun to divide people into categories.
+Why is this interesting?
+This isn’t much evidence to suggest Myers-Briggs-style personality testing is effective. With that said, there’s also not a lot of specific evidence to suggest it’s not. Like many things in the corporate world, the research just doesn’t seem particularly good. A [2017 meta-analysis of the reliability of Myers-Briggs assessments came up pretty empty](https://substack.com/redirect/0f4c7168-3310-439e-ae90-ed25a5e77d20?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o):
+Out of 221 studies of the Myers-Briggs Type Indicator, only seven studies met their criteria for inclusion: four looking at validity and three at reliability. The four validity studies concluded that individual Myers-Briggs scores do seem to correlate well with one another and/or other personality measures, although the studies were too different to allow their results to be combined (as is usually done for meta-analysis). The three reliability studies concluded that the correlation between an individual’s score on different sittings of the same test is generally good (r=0.7–0.8), although almost all were conducted on college students, who are not necessarily representative of the general population.
+Part of what bugs me about these tests is their pseudoscientific nature and their introduction of untrained psychologists into the workplace. While I have seen the value of activities that help teams better understand each other and get aligned, diagnosing people with a personality test and then using that to make decisions always felt misguided. There is a not more nuance (and volatility) at play to human interactions. And that is what makes things interesting. (NRB)
+McSweeney’s Personality Test of the Day:
+[From McSweeney’s](https://substack.com/redirect/9f667121-96eb-45b7-8803-24de6a3899d2?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o):
+The Michael Myers-Briggs Type Indicator is an assessment to help people determine how they perceive the world and make decisions about silently stabbing innocent teenagers while wearing a hideous rubber mask. The MMBTI is structured around four dichotomies that each describe a different element of one’s stabbing-related behavior and preferences.
+It’s important to keep in mind that no Michael Myers-Briggs Type is the “correct” one—every style of silent, masked stabbing spree is equally valid. Instead, use your type as a jumping-off point to honestly reflect on your strengths and weaknesses, as well as just your personal preferences for how you enjoy to ruthlessly murder.
+—
+Thanks for reading,
+Noah (NRB) & Colin (CJN)
+—
+[Why is this interesting?](https://substack.com/redirect/6444db51-caa7-452a-99c1-fc13f4fc6b7c?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) is a daily email from[ Noah Brier](https://substack.com/redirect/5ef5f741-0aa8-4ac5-b563-8b74f0294046?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) &[ Colin Nagy](https://substack.com/redirect/1d3f8bd6-9504-41ff-9164-73eef6fd1c7c?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) (and friends!) about interesting things. If you’ve enjoyed this edition, please consider forwarding it to a friend. If you’re reading it for the first time, consider[ subscribing](https://substack.com/redirect/e8c848a7-5493-4067-9ee9-cac936c9517b?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o).

@@ -1,0 +1,220 @@
+---
+subject: "Dispatches from the Group Chats, Inauguration Edition"
+from: "Erik Torenberg <eriktorenberg@substack.com>"
+to: ""
+date: 2025-01-23 09:13:29
+labels: ["CATEGORY_PERSONAL", "Erik Torenberg", "INBOX", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "Label_1477501339932324054", "INBOX", "UNREAD"]
+---
+|
+Political effects of fires
+The problem is that there is a strong leftist narrative here:
+1. Global Warming is obviously out of control, we need to amp up all climate activities
+2. The insurance industry is obviously evil, we need to regulate them so they have to pay and serve.
+It's not hard to imagine a lot of people hard-lining the existing ideology here.
+this just shows the need to end capitalism more quickly
+and further catastrophes will make the urgency greater
+Person B: I’m not getting that vibe out here. Too much incompetence and failure leading up to now. Too many wealthy/influential people who now see themselves as having skin in the game.
+This does not appear to be benefitting the left and progressivism within the state
+Opposing climate change is not going to save your house. Opposing Karen Bass might
+Doesn’t provide water. But is affirming
+Facebook board decision
+It's almost like these people fled to Canada but then Canada became the 51st state 👨🍳 😘
+A debate on DEI
+Person A: DEI meant very different things 15 years ago vs today. I was in a bunch of those discussions at FB in the 2012 era and I suspect a lot of people here would be fine with the sorts of things we were doing back then. It really went off the rails post 2016 as TDS took hold in the organization.
+My read is Zuck is actually pretty moderate on this stuff so I think it's quite possible this is a simple way to purge the organization of the hardcore Wokes and then bring back DEI in the original 2010 form (equality of opportunity, not equality of outcome) that he was aligned with, it'll just be called something else
+Back then it was super reasonable stuff like - don't hire a director or VP level person without at least talking to one woman, aka the Rooney Rule. Which is very reasonable. Like just put in a modicum of effort to find at least one really awesome woman for a role and make sure you talk to them and try to get them to interview for the role.
+No quotas, no organization level targets, no craziness around intersectionality and people yelling that their intersection of 3 minority traits is not fully represented in the leadership team
+I'm in the ex-employee FB group and it's really interesting to see how many people are melting down over this but when you look at their profiles, it's all people who joined after 2016
+almost all of the 2010 era people are super pro this change and supportive of Zuck
+Person B: I don't think it's as simple as "CEOs were pressured so they went along with it"
+Most CEOs just straight up agreed with the early premises about not allowing actual harassment of women in the office.
+Addressing that gave a great hit of dopamine, respect, and feelings of being holier than thou. So they did a little more in that direction, also stuff they mostly agreed with.
+But the slope was slippery as hell, and then they lost control. The regret came later, but the inciting action had enthusiastic consent lol
+"the inciting action had enthusiastic consent lol"
+So did the early days of the Cuban revolution....then the shootings started.
+Person C: I would actually take the other side of the DEI debate.
+I would claim that as soon as you institute policies that deviate from pure meritocracy 'hire the best wherever they come from' it will inevitably slide into a corrupt grievance-fest. Put another way, is there an existence proof of a company that started going down the 'let's tip the scales on the current hiring process in the direction of some ideal outcome' and didn't slippery-slope eventually into some disaster like DEI?
+Yeah, I'm convinced the "Slippery Slope Fallacy" should be renamed "The Iron Law of Slippery Slopes"
+Let me rephrase as Conquest's Second Law of Recruiting: Any hiring policy that's not explicitly meritocratic with no regard for outcomes whatsoever, will inevitably turn into some form of DEI.
+Many centrist liberals struggle to admit that a “diversity” prerogative is institutional poison. They want to believe ill effects, if any, are on the margins. Sadly, the mandate just spreads and spreads internally and corrodes core mission
+Alternatively, you can just say that any company that systematically overlooks talent in some niche will be beaten by companies who don't, and leave it at that.
+Because the implicit claims of the DEI crowd is that companies are somehow always and everywhere doing irrational things like not hiring worthy talent.
+The biggest struggle of our age is between the equality that liberal democracy promises, and the inequality of outcome that accelerated technocapitalism delivers. This whole drama is cognitive dissonance between those two.
+Person A: If I had to guess what comes back is:
+- a system that does not try to dictate outcome and hammers that the organization is meritocratic
+- it pushes top of funnel sourcing to find the best people no matter where they are under the umbrella of "if we don't have the best people, we lose, so we should put in extra work at finding all of the best people"
+- data that makes sure the top of funnel is actually identifying the best people and your organization is actually promoting the best people. It will look at race/gender stats but not assert an opinion about what they should be. It will benchmark them against the opportunity set, e.g. if you have way fewer Indians in VP level than your competitors and you are under-performing and somehow missed Satya, you should think about whether or not your recruiting and teams are indeed meritocratic
+Person D: Hopefully that is how you run your companies but unfortunately that is not how most businesses do DEI in practice in 2025.
+Even if the top down directive is to do that, the on the ground reality is that recruiting and HR will do subtle but very important things like only send over certain types of candidates, hold up a hiring pipeline, hold up your promotion because your team is not diverse enough, push hiring managers to "take a chance" on candidates they like and tip hiring in one direction, etc.
+There is a lot of on the ground activism that happens deep inside an organization because people who pursue those roles in those functions tend to care about outcomes/equity and not meritocracy/equality of opportunity. These people have to be purged from many organizations as they have taken over.
+Will Elon be defeated?
+I don't agree with the thread, but it was an interesting description of how the powerful are fettered by managerialism. Clearly Elon is a singular figure restoring individual agency to a world where it seemed to have faded into abeyance. His ownership of Twitter and adjacency to the White House as the world's richest man is a new (probably unstable and temporary) configuration of power. Assange declared that WikiLeaks was "a new star in the firmament of man" shortly before being brought to heel by the Deep State -- Musk has chosen in the rape gangs an issue that in a world of any justice would bring down an entire regime (not just a political party or ruler.) What more comprehensive failure can a regime undertake than to become an accessory to the mass rape of its children?
+Perhaps he'll be beaten like Assange
+and it will be a coda for a certain kind of possiblity of personal sovereignty
+but perhaps he won't be beaten
+the way Martin Luther wasn't beaten
+Person B: Musk has things that the powers greater than him want (rockets and space internet), things the masses want (electric cars and futuristic visions), the platform to disseminate his version of reality, and the courage to wield all three as weapons. He's such a unique case, it's hard to imagine him being beaten. Pretty amazing to witness.
+Zuck’s evolution
+Regardless of Zuck’s motives or authenticity, publicly coming out against censorship and DEI is huge. I doubt we’ll ever see anything like that from Google or Apple
+X Day was like D Day. Meta’s liberation is like the liberation of France. It’s like cities changing hands during war.
+Effects of Facebook Moderation on political climate
+The funny thing is: I support this in the abstract, but I actually do think in practice this will lead to a lot of social fracturing
+Wokism was a far left ideology that was both (a) insane and (b) actually keeping the lid on for the last 10+ years of social media
+What we’re in the middle of is like the end of communism at the end of the Soviet Union. When the censorship went, all kinds of anger that had been pent up for years (or generations) just went vertical
+We are going to slalom to a totally different extreme where the public is a warzone and everyone retreats to groupchats and digital tribes
+bridge swung from left, to right, and then further to the left, and further to the right, until the bridge entirely collapsed
+Clinton ->
+Bush (neocon right) ->
+Obama (left) ->
+Obama 2 (far left) ->
+Trump (right) ->
+Biden (woke left) ->
+Trump 2 (ultranationalist right)
+Each one a stronger swing
+The left pushed many things that were initially unpopular and then became popular. I believe that whipping up actual hatred will, unfortunately, become very popular.
+We’re in a weird time where decades of radical leftism has actually conjured into existence the demon they feared.
+By accusing everyone of being racist, they’ve created antibiotic resistant racism.
+The left lashed anyone who wasn’t black trans lives matter for a decade. But of course very few checked every box. A white woman was first victim during MeToo, then oppressor as a Karen.
+Now all of that is going to be run back in reverse. The straight white Anglo Saxon Protestant conservative man with no tattoos, an intact family, no drug habit, etc is maybe 10-20% of America max.
+Even if this archetype no longer exists, rightists will attack people that do not conform to it (even if they themselves do not conform).
+And so you are already seeing people running wokism in reverse, like the Hispanic guy blaming “gays” for the fires in LA.
+Basically, even if 80-90% of society didn’t conform to black trans lives matter, everyone who didn’t conform was attacked. Now that playbook will be run against the photographic negative archetype.
+It’s wokism in reverse.
+They aren’t mirroring the behavior of a mid-century law-abiding conservative Christian family man with children, wife, etc.
+It’s tattoos, MMA, drugs, guns, shouting at strangers online, etc
+Now you can argue that family man option was taken from them. And you can further argue that the Wild West of the 1850s is a better fit to the era than the clean cut America of the 1950s.
+But, the moderation, the self-discipline, the personal virtue, the humility, the trust, the cooperation — that is largely gone
+I think we are actually going to see the third coalition by ~2030 or so.
+2010s: Democrats + Tech vs Republicans
+2020s: Republicans + Tech vs Democrats
+2030: Democrats + Republicans vs Tech
+The Luigi left is murderously anticapitalist, and the radicalized right is aggressively ultranationalist.
+Over the last 10 weeks, the digital secession to Bluesky led to complementary internal radicalizations among left and right.
+Now Jesse Singal is on the far right of the Democrats, and Elon/Vivek/Rufo and even Trump are on the left flank of the Republicans.
+It’s not a stable state. The spectrum is going to keep moving further and further to the radical right (on X) and the Luigi left (on Bluesky).
+Over four weeks in December, the political center completely disintegrated to the point that Trump is now on the *left* of the Republican Party.
+Democrats can’t tax or regulate CEOs anymore, via implicit force, so they threaten direct action. Republicans are starting to do the same.
+There is an irreconcilable difference between nationalist socialists and internationalist capitalists. Both are anti-left but that’s where the similarity ends. Trump tries to straddle the difference as a nationalist capitalist.
+Prediction that MAGA will turn against tech
+Person A: Does Bannon have any sway? My read was that the debate made Elon/Trump position stronger and crystallized their stance and bond . And that the pushback is niche / doesn’t matter
+Person B: Strongly disagree. Elon/Trump have formal power but the mob has informal power. In a relatively short timeframe, the next coalition will be Republican + Democrat against Technologist.
+The one thing this admin may succeed at doing is dismantling regulations. That coupled with the fact that there is no solution for the debt or the disastrous governance in blue states will mean AI zooms and crypto moons.
+So, in 4 years, AI has taken all the jobs, crypto has taken all the money, and tech guys take all the blame.
+https://x.com/ezraklein/status/1880343102092898455
+Ezra Klein sees this coming as well, from another angle — but I don’t think people fully realize how murderously angry it will be.
+Tech is a market-dominant minority.
+We just exited phase 1, where techlash and Biden admin attacked us head on. We are entering phase 2, with tech allied with Trump. We will eventually hit phase 3, where the mob tries to kill tech and take its money
+See also Turchin’s comments about elite overproduction — many MAGAs and wokes alike are angry at their downward mobility. They’ll blame us.
+I think you’ll find this overcorrects and they will jump right over trans to gays soon enough.
+Person C: Oh no not my gay identity 😭😭😭😭😭😭 I better be a globalist then I guess
+Person B: Bannon just declared explicitly (both above and in NYT) that he hates Musk, Thiel, Sacks, Vivek, me, Andreessen, and many other people in tech. I don't think we ever did anything to him, but he hates us on principle.
+We just went through woke race communism, and now we are going through white race communism. Cernovich for example was attacking me and others a few weeks ago, but is now himself being ganged up on by hordes of MAGAs because he said that hard work is good.
+It's exactly a replay of wokeness, but everyone may just need to get mugged from the right to see that. To realize that there's a reason the center exists, or existed.
+Person A: Isn’t Maga whatever Trump says? He owns the party. People fall in line? Sure some terminally online anons are mad. Who cares? Trump is pro choice. Trump is pro high skilled immigration. Trump is pro tech/pro innovation. Trump has kept the same views forever. Is the concern that he will change, or that he’ll be marginalized within his faction?
+Person B: Trump has formal power but the base has informal power. So he can win the battle but the radicalized base will win the war.
+Trump is basically the left of the Republican Party now, and in the middle of a disintegrating political center. The Luigi Left is on one side, and the Radical Right on the other.
+Person A: Does Steve Bannon have any influence? Trump is doubling down on tech, Elon, high skilled immigration. It seems like gray might be running the White House
+The difference between the left and right is that on the left the inmates ran the asylum bc moderates couldn’t push back , whereas on the right Trump ignores them or swats them like a fly
+A journalist reached out should I talk to them?
+Person A: Talk to them but spend the first half of the call lecturing them about how capitalism is the most reliable way to lift people from poverty.
+Person B: If I ever talk to an NYT reporter again (which I won’t) my only answer will be “Sulzberger is a nepotist”
+Like the captured soldier who repeats only his name, rank, and serial number
+California Bailout
+Person A: Arnold Kling says that CA is going to need a bailout, and that it should come with conditions: that CA cede management of public employees, water, and forests to the federal government https://arnoldkling.substack.com/p/tough-love-for-california
+Peson B: I would go further: demand that CA end ballot harvesting and NGO capture of elections.
+End all discrimination and preferences in government hiring
+For certain government jobs we might also demand future disclosure of statistics on applicants who are accepted or rejected, promoted or denied promotions
+Trump meme coin
+🧐 If I am reading this right, something like 80-90% of the Trump meme coin is going to “Creators and CIC Digital” which is him and his company.
+Almost certainly this memecoin will decline substantially in value after the spike. It might even crash in days. When it does, many people who gambled and lost will be angry.
+If the crash impedes the second term agenda, it could come at literally trillions in public opportunity cost in return for a few billion in short-term private gain.
+Anyway, just wanted to say that it doesn’t seem like the best move at this time unless there is an immediate need for billions (perhaps to pay legal bills?). But we’ll see.
+https://www.quantamagazine.org/the-physicist-decoding-the-nonbinary-nature-of-the-subatomic-world-20250110/
+Do the properties of quarks and gluons resonate with you as a nonbinary person?Yes, I think the simple fact that gluons carry multiple color charges means they are fundamentally nonbinary creatures. And they are the cornerstone of everything around us.
+I used to think I was a top quark. Only now do I realize I’m a bottom
+Millennials vs Zoomers
+The absolute nicest thing I can say about this memecoin stuff is that it's the big debut of Zoomer culture onto the American political scene and also that the Zoomers are deranged psychopaths who will destroy this country and eventually the world
+You’re absolutely right that it’s Zoomer culture going mainstream.
+Had dinner next to a CA dude who came in for the inaug. Didn’t understand crypto deeply, but only cared about coins. No stocks….felt ancient to him.
+Many such cases. And this is from a group that still doesn’t have that much purchasing power (in our polls, ownership of crypto is higher among 30-39 than 20-29, but I think owning crypto is more normalized/the baseline among under 30s)
+I feel grateful that I can sneer the generation after me with more analytical rigor than any generation before me.
+Millenials have higher IQs than zoomers, dramatically better mental health, and are more patriotic. This is all just empirically true.
+It’s the first generation to be dumber than the last probably since the Industrial Revolution.
+Zoomer music is pretty decent though imo I will give them that
+Alpha is coming out as not just internet native but social media native combined with the shock of covid. So Zoomers might not be the bottom for long.
+Zoomers are practically speciating at this point. The 10-20% of them who are elite are terrifying
+My biggest complaint against the boomers is now they now wear yoga pants and don’t seem to realize it. The Zoomer employee at my startup complained that Google Maps had labeled his favorite clothing store, Vuori, a “women’s clothing store.” Bruh, I got some bad news from the past for you.
+He also wore “Lulus” and I could never keep a straight face around him.
+That might explain why he left. Anyhow…
+Also they seem to exist in this entangled state of whiny irony and complete emotional meltdown. You never quite knew which state he was in until you asked him to do something.
+Schrodinger’s Zoomer. Ok, I’ll stop.
+Zoomers are aged 6-24, I think meme coins are as much Millennial culture as Zoomers. It's completely rational imo. If you have no chance of breaking out, no assets, then why would you try to get 10%/yr on $1000?
+Throw that $1000 into some meme coins and it either goes to 0 and you're basically where you are now, or you make $100k.
+Also they seem to exist in this entangled state of whiny irony and complete emotional meltdown. You never quite knew which state he was in until you asked him to do something.
+It's actually the inverse of the usual generational shift. They don't offend me, I offend them. They don't drink, have sex, or drive recklessly, which is about the only thing the youth have reliably done for generations.
+It's not disdain, it's literal moral condemnation. I'm supposed to be outraged by the youth, and instead find them meek and conformist. The youth used to protest to get speakers heard, now they protest to get them silenced. It's not the same old, same old. It's the exact inverse.
+Person B: how is it different than Hippies and WWII vets or Boomers and Gen X? Everyone thinks they're the pinnacle of civilization and the youth are morally decrepit
+Though I agree about the financial nihilism point.
+Person A: Completely different.
+The hippies outraged the greatest generation, with their loose behavior and radical ideas.
+I outrage the zoomers....it's the exact opposite.
+New books used to outrage the older authors...now old books outrage the new authors. Again, it's a total flip.
+Gen X/older millennials went from getting canceled and scolded by literal boomers, to getting canceled and scolded by zoomers.
+This isn't a generational progression, it's a flip.
+I'll note that the biggest flips to the right are coming from the young (at least among men), so I wouldn't claim this new politics will last, but it's not just the olds whining about the youngs....it's something very different.
+Person B: I'm trying to understand why you think it's so unidirectional rather than perpetually bidirectional.
+You're asserting that prior generations just went around not caring about what the older generations did and being unoffended by them, and being solely the objection of the offense? Like the Hippies or Gen X are just doing their thing, love their parents, love the way things are?
+Like the olds whine about the youngs, the youngs whine about the olds
+The nature of the whining is very different.
+There's nothing a zoomer could say that would offend me. There's about a thousand things I could say that would offend them.
+The arrow is supposed to go the other way.
+Definitely went the other way in the example you cited of hippies and WWII generation.
+This isn't just anecdata: looking at the drinking and sex stats.
+I'm not saying "oh, these crazy kids are partying too hard and screwing around"
+It's me saying: By god, do something and have a life already.
+right isn't that you being offended at their behaviors and morals
+It's not offended, it's disappointed.
+Offense implies moral umbrage.
+It's not disdain, it's literal moral condemnation.
+Person C: I really want to ground this in the empirical fact that they seem to have much worse mental health, lower IQs (most of this is Covid, but 12 grade test scores peaked in like 2014), are spending way more time alone than similarly aged people 10 years ago did, and broadly seem to support a bunch of illiberal things like murdering CEOs on a bipartisan basis.
+I’m kind of doing a bit but I do legitimately think this time is different and there’s a social crisis rolling out and we’re just ignoring it because people always complain about the young.
+My big beef with meme coins and the general speculative side of crypto is that it just that it breaks the natural meritocracy of the world.
+Like, something that really did deradicalize me in my 20's was meeting CEOs or billionaires or even like, the kids/spouses of super rich people who decided to do philanthropy or whatever, and finding them to actually be pretty smart and kind-hearted on average relative to the overall population.
+But then you go to the crypto socials and it's not like that at all.
+Memecoins are a byproduct of youth that no longer sees capitalism aligning with actual values...that it's all 'fake' somehow. Ergo, the nihilism. "Retire my bloodline"...."generational wealth"...everyone fundamentally trying to retire from a system that they see as morally arbitrary.
+I am trying to distract myself from the grossness of the memes by just trying to quantify crypto owners - this is going through 204 psycometric traits and then doing [trait] ~ age/education/income/2024 vote + crypto and pulling out the crypto coefficient and pulling the biggest differences, ie, "How different are crypto owners on personality controlling for demographics".
+Basically narcissistic wordcels who love chaos.
+Israel
+I am personally really annoyed about this because how how dickish pro-Israel Republicans were about this.
+I legitimately had to avoid family functions the whole year because of the "How could you be working against your own people" bullshit only for everyone to just let themselves get cucked by a deal they clearly would have described as Nazi-esque if it had been pushed by Biden.
+But annoying hypocrisy aside I guess it's good the war is over.
+The Israeli right has been fairly consistent, they're pretty mad and now the center-left is giving Netanyahu votes for cover to make the deal go through.
+The American Jewish pro-Israel right not so much - nobody wants to cross Trump right now I guess.
+Person B:https://x.com/mattyglesias/status/1881068317114519596
+Bet on it, in exchange for letting Israel attack Iran (or something else).
+Person C: Trump admin off to an interesting start
+Israel gets a not great deal
+Memecoin madness
+Base wilding out on skilled visas
+TikTok u-turn
+The cabinet and advisors include some pretty competent people so hopefully there’ll be some good happening…
+Trump Chaos
+When I tweeted that despite being eager to punish Democrats for their derangements, I couldn't personally support Trump, it was in anticipation of conundrums like this, where he instantly puts his biggest supporters in impossible positions essentially every day by scamming the public, reneging on core promises (cucking on TikTok and possibly China generally) and being willing to throw any principle under the bus for personal gain at any moment. Don't get me wrong, electing Trump has achieved everything I could have asked for in terms of the general vibe shift and on the specific issue I'm invested in. But all of what was obtained by repudiating the Democrats is endangered by his others qualities
+like he's going to let you regulate crypto the way you want --- but a few days before inauguration is going to blow a giant hole in the creidbility of the whole premise of crypto before the whole world by scamming the public for personal gain
+I think this shows that some (maybe all) of Trump team launching this project doesn’t get crypto at its core beyond the entirely max speculative/casino elements.
+Can Trump get all his people in?
+Maybe premature, but I am cautiously optimistic that many/most/all of the nominees may get through.
+There's been this long running question in political science about whether "political capital" is a form of capital that spends down -- you only have so much and you have to hoard it -- or whether spending it generates new capital -- it's generative, and momentum matters most?
+I think it's increasingly clear the latter is true?
+Are Senators actually willing to buck Trump.?
+If you won't buck Trump on Hegseth, are you really going to buck him on any of the others.
+Or, the causal version --
+Are the things that Trump is doing to ensure Hegseth getting through also the same things that ensure the other three get through.
+e.g. some combination of Trump and Elon threatening R Senators with primaries if they don't vote for all of the nominees
+That's what I mean by, the strategy to get one through is the same as the strategy to get them all through
+The conventional wisdom was that one would be a sacrificial lamb
+On purpose
+I think maybe that was wrong
+The correct strategy is to demand and force them all to get confirmed
+But actually

@@ -1,0 +1,47 @@
+---
+subject: "Stewarding"
+from: "River Kenna from Inner Wilds <innerwilds@substack.com>"
+to: ""
+date: 2026-01-18 12:19:48
+labels: ["CATEGORY_PERSONAL", "INBOX", "River Kenna", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_3010718370428876194", "UNREAD"]
+---
+When I was young, stewardship was a Church Word. Whenever I heard it, it meant something like “you must give 10% of your income to the church — though if you actually care, you’ll of course give more than that.”
+I probably developed an allergy to the term for a couple decades, but the past year or two, it’s started to mean a lot to me. The way I relate to it now, it has a much wider and more ambitious span than just money.
+One starting point for this: nothing actually belongs to me.
+The air in my lungs, the money in my bank account, the friendships in my life, the skills in my repertoire, the care in my heart, the ambitions in my gut, the time in my days — these have all been given to me, but they aren’t mine.
+The fact that they’re in my possession doesn’t mean that I own them or am owed anything about them; it means I’ve been asked to do right by them. It means I’ve been asked to steward them while they remain in my care.
+I’ve found that listening is the biggest part of good stewardship.
+Often, when I listen for the voice of what’s in my care, what I hear first is a lot of noise. My own cravings, fears, hopes, avoidances, distortions. It takes some time to find those and turn the volume down on them.
+As I quiet the interference, things start to come up. Sometimes these are extremely clear and direct. eg- I have the time, skills, and patience to help this person, and the best use of those resources is to help them. So I’m going to do that.
+Sometimes they’re more subtle. Intuitions, images, surprising stray thoughts over the course of weeks. Conversations that feel more challenging than clarifying. Suspicions that I’m looking at it all the wrong way. And then, a knowing that now is the time to act, and to trust that even without conscious clarity, the right action will feel right if I listen closely. eg- I can’t quite make sense of it yet, but this friendship feels important. We’ve had a lot of struggles, but it feels right to put in time and effort to repair it.
+Listening is sometimes a game of feeling the independent ambitions of the things in my care, and sensing how I can serve those ambitions without either twisting them to my own ends, or betraying myself to obey them. This is hard. And strange. I kind of love it.
+Listening closely also means listening for when something wants to move out of my stewardship. When my time with it is closing, temporarily or permanently.
+When the best way to take care of my money is to pass it along to someone else; when the flow of Life is better served by how they’ll use it than how I’d use it.
+Or when the best way to care for my connection with someone is to give space for disconnection; when distance is the best way to serve our closeness, whether they come close again later or not.
+When the best way to tend my talents and ambitions is to let them go dormant for weeks, months, years. To let them go through a deep dying, so that what wakes up later on has a chance to be clearer, more potent, less tangled.
+There’s risk to this, always.
+Stewardship is risk, because Life and Love are risk. And at base, that’s what stewardship is: a deep Love for the unfolding Life of what’s been put in your care.
+I don’t know how to live stewardship well. I’m trying, but.
+It feels like a strange proposition — that I’m being asked to steward stewardship itself.
+My work has felt increasingly important to me lately. I don’t really understand a lot of it yet, but I assume I will later. I’m trying to figure out how to steward the various parts of my work in a way that expresses love for their unfolding.
+It’s an edge for me, the way that this seems to mean asking others to join me in stewardship of what we’re holding together.
+This has also been showing up in my [1 on 1 work](https://substack.com/redirect/15adb5a0-a4e4-41ce-9476-6b34bde48baf?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o). It’s been feeling more intimate lately, more weighty. When someone comes to me with a pull towards clarity or transformation in their heart, that’s not a small thing. It’s not casual. I want to do right by it.
+And at the same time, it’s extremely limited on my side, as to what I can actually do to steward their unfolding — aside from taking it seriously and giving them the best opportunity to take it seriously too.
+I tried generosity-based pricing for awhile, as a step in this direction. But what I’ve found is that this often doesn’t actually serve me, or them, or the situation that’s trying to unfold.
+Now I’m trying an experiment where the meeting logistics are all aimed at commitment to the process.
+My only question for stewardship-based pricing is this: What can you spend here that will help you feel deeply committed to showing up fully for the change you want?
+My question for stewardship-based scheduling is this: What cadence can we meet at that will keep you in this process without losing the thread or falling out of it between meetings?
+My question for stewardship-based relating is this: Are there any ground rules that would help you show up for this process in a way you’re proud of, without avoidance or bullshitting or distortion?
+There are a lot of edges here, both for me and for clients. One of the edges I’m working is my reticence to push. I know that in a process like this, there can be a tendency for people to low-ball their answers; to get a price that feels more like a deal than a commitment. And in my head and heart, I know that if I sense this is happening, they’re actually best served by me pushing them a little. But it’s messy and weird and I’m aware that the incentives on my side add their own complications.
+(Which, to be fair, I’m coming to realize that there’s another stewardship involved here: my health. I have an autoimmune disease, and I’m starting to realize the resources it’s going to take to manage this for the rest of my life. So there’s some way that dissolving some of my own shame around wanting to make a good living is woven in here too.)
+It’s a clumsy experiment. It probably will be for awhile.
+But it also feels like the right clumsiness for the moment.
+Stewarding my work and stewarding stewardship itself aren’t automatic reflexes. No one ever taught me this stuff. If I want to be good at it in 5 or 10 years, I’m just going to have to accept being clumsy at it for 2 or 3 years now.
+I have some drafts of other articles saved at the moment. I’m unsure if I’ll publish many of them. But if I do, you’re going to notice a fierce tone running through a couple of them.
+This too, I can’t tell how much it’s a clumsy bug or a nascent feature.
+To put it simply: by being born into this world, we have all been asked to steward it well. And as someone who has wandered this world and seen a lot of it, I have to say: we have mostly been doing a poor job of it.
+I won’t list every type of pollution and toxicity and crisis and shortcoming (I vented more of that in the drafts) — but I will say that there’s a strong, fierce, and growing urge to start shaking some shoulders about it. And to do so from a wholehearted place: being in ferocity without stepping out of compassion; being in compassion without stepping out of ferocity. Not the usual panicked outcry and litany of problems that you’re already numb to — but a true expression of the grief and confusion and clarity that spring up when I see what we’ve made here, and the consequences of it all.
+For now, I’ll leave things here, with an invitation to discussion. This topic keeps [becoming more important](https://substack.com/redirect/386f8ebb-18dc-4d5e-b129-fef66f552616?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) to me, and I’d love to hear any thoughts or feelings you might have around it. I’m trying here — and it would feel nice to try together.
+If you want to keep pulling this thread, I wrote more along these lines a few months ago here:
+If you want to try 1 on 1 work with me, and are ready to be pushed a bit on your commitment to unfolding, [check out my page here](https://substack.com/redirect/15adb5a0-a4e4-41ce-9476-6b34bde48baf?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o).

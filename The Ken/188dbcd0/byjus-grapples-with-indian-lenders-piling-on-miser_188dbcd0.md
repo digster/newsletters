@@ -1,0 +1,23 @@
+---
+subject: "Byju’s grapples with Indian lenders piling on misery"
+from: "The Ken <info@the-ken.com>"
+to: ""
+date: 2023-06-21 02:33:47
+labels: ["CATEGORY_PERSONAL", "INBOX", "The Ken", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_8244464457792971031", "UNREAD"]
+---
+Good Morning Ishan,
+Exactly a year ago, The Ken broke the news about Byju’s facing an audit reckoning: how Deloitte refused to sign off on financial statements due to discrepancies in revenue-recognition practices at the edtech.
+Now, Byju’s, which has been in the news for a public face-off with international lenders, faces another reckoning. This time on its home turf as Indian lenders cut off the lifeblood that has sustained its products all these years.
+As Arundhati reports in the story today, Starting April, major non-banking financial companies (NBFCs), including Avanse Financial Services, Aditya Birla Finance, and Fullerton India, which lend to Byju’s’ customers, have suspended loans that facilitate sales of the edtech’s products. These are multi-year subscriptions of courses that often run into lakhs of rupees.
+Losing Indian lenders’ support has forced the edtech to turn to an option that was used sparingly—employ funds from its balance sheet for offerings like Byju’s Assure, Advantage, and Direct. This method now contributes nearly 65% of orders, up from 10-15% earlier, The Ken has learnt.
+It has its advantages. But it also poses challenges, especially when the edtech’s business is slowing. It’s understandable that FY24 numbers will be worse than FY22. But wait, we don’t know how well or poorly it did in FY22 because even after 15 months, Byju’s hasn’t filed its financial statements.
+While today’s story does shine light on the FY22 figures, taking Byju’s words for it has its own mystique. In its complaint against the lenders to the New York Supreme Court this month, Byju’s said:
+“The FY22 audit could not begin until the FY21 audit had been completed, and the parent guarantor’s business has continued to grow rapidly. Although it has not yet been completed, progress has been made on the FY22 audit, and no issues have been identified with it to date.”
+It’s hard to wrap one’s head around this statement. But what’s not hard to see is that equity funding and external financing have been the two tracks on which this juggernaut ran for the last few years—raising $5 billion. Both tracks are now broken.
+Is there an existential crisis at Byju’s, then? For that, you must read Arundhati’s excellent story: [https://the-ken.com/story/its-now-indian-lenders-turn-to-pile-misery-on-byjus/](https://the-ken.com/story/its-now-indian-lenders-turn-to-pile-misery-on-byjus/?utm_source=daily_story&utm_medium=email&utm_campaign=daily_newsletter) (8-minute read)
+Warmly,
+Seema Singh
+[seema@the-ken.com](mailto:seema@the-ken.com)
+What you just read is the personalised daily introduction to The Ken's story. Written by a different person each day. Often insightful, sometimes witty, and very rarely boring. Someone sent this to you? [Sign up for free](https://the-ken.com/?modal=register&utm_source=footer&utm_medium=email&utm_campaign=morning_email_ind_shared). [Dont like these? You can unsubscribe](https://link.the-ken.com/asm/unsubscribe/?user_id=2349339&data=1gmiBjvxOERolPRaPYOvOg9-vwGs-IfnB_oQoe4DLQBoMDAwdTAwMJUxFdkYu89AWDsqU8pg09nrE4dKjRlvS_hBn9EjtO8k83hhXP421QfIie57vATZXKxYQ7ZVzMkKDOxVj7r_N7XjtlBAVDwraYcry_SKJ9NKQz5jLrLKsQhFgkUoBmJHByHP-sYoNa44s3iuvwh-bKzu1af4hhl5YOGvvHYuXbCRNhgEd871xDYT-J_5yRiRV3y09MnURNZI_CXAa691pTEIycNU4gklqBeoghm8IIpP6KeUYKqpGTBM1Ju4OADSIRK1043-qUZdjvYnO5OawVGwARpyg8gIJAOvVX_Po6gvkRnGTqysStkCFXHcHia_Oxn16dfTBJmk4Bn6vl6RYe8omjPocbAHTybCyt8mCrVllLTLBD1rUTif5ozHb05873Pyp8hyGpbc5jQITjW4axwvXu_0Bl69drmRuYpwn-AOhcfellY48TIh_5PBD3Lg9aC6djxpviLhyEr7Pv8foBX_FSbkDSBYj07wYhBRwd28Q5UjG1nuZ3x969BWaByM2DfcD36dclolYMHCzotLaTA=) Dont want to hear from us again? [ Unsubscribe from our emails here](https://link.the-ken.com/asm/?user_id=2349339&data=Hr1ZInr7MWxKTwDdVzmt90pMISKJ17JCzJkYW_VZQ1ZoMDAwdTAwMOXntN-DddBXKgDt4IpOwTEaTZi_kJzYRoVp4EvbqpMIP05EO-7cLoyDBSRY-5rNvMO8h1CVl-cXLaFodNxzq5hwAM0aOY6cxMG97UUBxKnhABAmxCjDvME15kIymFO8hcyq42KLikzc2rS6jkP_bNDc4nGYI-MqJbMm7ALGX4DbVNVpJpCdwLaTj-fv-Coue7KpOAMiI-4JlAQ0-g8L5-RxqHELTAX54Cev-7gSsXTm8t_4wMOU8PdYgYpk3fPzI6IBcYs_1XBn5KuERuEKSbuB8IJ4JJOWpmXah78voxrqWYq28GAS29XNVMdlu7tFEQUCULk8gbMbGTLKnAVrBNSq4y908DuKk-SmyvpsgIyYSQnBfw_Y6ZCHmTHhspy0Rf6P9H9hStS_qsmsTFoUBIgSAEC7_Hi6Ooje0U2CeIiS06JTwCPWb28buHyBdEoNwna2FFF55iH4XvI_uO0RcW8jYS4KX-EZQcvuzU8kF_t0MLqzIxr_cTvFOwGORz_gXA==).
+Something wrong? Tell us at [support@the-ken.com](mailto:support@the-ken.com)

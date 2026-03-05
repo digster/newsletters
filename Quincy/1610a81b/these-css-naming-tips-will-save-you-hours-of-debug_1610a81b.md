@@ -1,0 +1,37 @@
+---
+subject: "These CSS naming tips will save you hours of debugging"
+from: "Quincy Larson <quincy@freecodecamp.org>"
+to: ""
+date: 2018-01-18 18:22:09
+labels: ["CATEGORY_PERSONAL", "INBOX", "Quincy", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_7697778124671848699", "UNREAD"]
+---
+Here are this week's three links that are worth your time:
+
+1. These CSS naming tips will save you hours of debugging (7 minute read): https://fcc.im/2mNUFNw
+
+2. CSS Flexbox basics explained in just 5 minutes (5 minute read): https://fcc.im/2FR1DtW
+
+3. We just published a free video course on how to build your own iOS flashcard app using React Native, from setup to animations. All four videos are now live on freeCodeCamp's YouTube channel (4 hour watch in total): https://www.youtube.com/watch?v=_b6F0KiFpG8
+
+Bonus: How not to bomb your job offer negotiation: part two of Haseeb Qureshi's tips that helped him negotiate a $250,000 starting package when he got his first developer job at Airbnb. This episode of The freeCodeCamp Podcast can help you increase your starting salary by thousands of dollars (34 minute listen, also on iTunes and Google Play): https://fcc.im/2rk69Ow
+
+
+
+freeCodeCamp.org is a 100% donor-supported nonprofit. We depend on your donations so we can create all these learning resources for you. Support free technology education. Set up a monthly donation you can afford: https://donate.freecodecamp.org
+
+
+
+Happy coding!
+
+- Quincy Larson
+
+Teacher at https://www.freeCodeCamp.org
+
+
+
+
+
+If this email bothers you, you can manage your email settings here: https://www.freecodecamp.org/settings 
+
+Or you can one-click unsubscribe: https://www.freecodecamp.org/unsubscribe/ishan.mail@gmail.com

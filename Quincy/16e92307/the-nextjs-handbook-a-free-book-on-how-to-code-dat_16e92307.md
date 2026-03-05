@@ -1,0 +1,32 @@
+---
+subject: "The Next.js Handbook - a free book on how to code data-heavy React apps"
+from: "Quincy Larson <quincy@freecodecamp.org>"
+to: ""
+date: 2019-11-22 08:17:58
+labels: ["CATEGORY_PERSONAL", "INBOX", "Quincy"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_7697778124671848699"]
+---
+Here are this week's five links that are worth your time:
+
+1. Next.js is a powerful new framework for coding React apps that involve a lot of data. I'm using it myself on a new project. And this free book by Flavio Copes will show you how to make the most of it. (40 minute read): https://www.freecodecamp.org/news/the-next-js-handbook/
+
+2. Learn how to use Tkinter to code Graphic User Interfaces for your Python apps. You'll learn event-driven programming and Matplotlib charts. You'll even build your own clickable calculator app - all with Python. (6 hour course): https://www.freecodecamp.org/news/learn-how-to-use-tkinter-to-create-guis-in-python/
+
+3. I drove down to Houston and interviewed the open source legends behind The Changelog as part of their 10 year anniversary. Then they turned around and interviewed me about freeCodeCamp and our plans for the future. I think you'll enjoy it. (4 hour listen): https://www.freecodecamp.org/news/open-source-moves-fast-10-years-of-the-changelog/
+
+4. Developer Gwendolyn Faraday shares her favorite personal privacy and security tools, so you can set up shields around your life. (7 minute read): https://www.freecodecamp.org/news/privacy-tools/
+
+5. freeCodeCamp just launched a powerful new donation management tool. This is something we've been working on for a while. We're proud to give our supporters as much transparency and control as possible. Here's how it works. (6 minute read): https://www.freecodecamp.org/news/donation-settings/
+
+
+Quote of the Week: "To err is human. But to really foul things up, you need a computer." - Paul Ehrlich
+
+
+Happy coding.
+
+- Quincy Larson
+
+Teacher at freeCodeCamp.org
+
+
+If these emails aren't worth your time, you can turn them off: https://www.freecodecamp.org/ue/eZV2T3gHC7IGcwcpYPG64

@@ -1,0 +1,20 @@
+---
+subject: "My Blind Spots"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2025-04-16 11:23:43
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+“Based on everything I’ve ever asked you, what do you think my biggest blind spots are?” ChatGPT replies:
+Here’s a speculative, analytical take based on your past questions and style of interaction:
+1. Underestimating Non-Market Frictions in Implementation
+You’re extremely sharp on incentives, regulation, and institutional design, especially in economic theory and historical analysis. But sometimes there’s a relative underemphasis on execution risk — how slow-moving bureaucracies, agency coordination failures, or political coalitions can thwart otherwise well-aligned incentive structures. You assume policy failure is mostly about incentives or ideology, but sometimes it’s about sheer implementation entropy.Example: In questions about permitting reform or ARPA-H, you tend to focus on structural misalignments or regulatory burden. That’s a big part of it, but sometimes it's also just institutional incompetence or "slack" that defies modeling.
+2. Belief in the Power of Market Discovery—But Underplaying Political Constraints on Entry
+You have a strong pro-innovation, pro-market stance (which I think is generally well-supported), but perhaps slightly underweight how entrenched interests and legal choke points often stifle the ability of new entrants or ideas to surface, regardless of technical merit.Example: In urban planning discussions, you’re excellent on NEPA, zoning, etc.—but some of the constraints (e.g., unions, fire codes, or insurance regulation) are less about “bad planning ideology” and more about deliberately created veto points to preserve incumbent interests. These can be harder to dislodge than your strategic framing sometimes suggests.
+3. Technological Optimism Without Full Political Economy Accounting
+You're rightly excited by machine learning, drug discovery, synthetic data, airships, etc., and you press for empirical backing. However, you may be underestimating the political economy of deployment — i.e., how many powerful actors are actually threatened by cost-reducing innovation (e.g., in health, energy, or defense) and have the ability to delay, distort, or co-opt those technologies.Example: In the machine learning for antibiotics discussion, you emphasize technical pathways (which are exciting), but less the entrenched FDA-pharma interplay or hospital group purchasing organizations that can prevent adoption even when evidence is strong.
+4. Preference for Models That Cleanly Allocate Causality
+You often seek elegant theoretical clarity — e.g., all-pay auctions, comparative advantage under automation, misallocation models. But the real world often features multiple overlapping distortions (e.g., taxes, zoning, union rules, insurance, etc.) that interact nonlinearly. Sometimes there's a search for “the” distortion when it’s really a system of entangled local optima.5. Policy-First Lens vs. Demand-Side Social Shifts
+You focus a lot on supply-side issues (permitting, misallocation, productivity). This is correct and important. But occasionally the demand-side cultural or preference shifts get underweighted — e.g., the declining taste for urban density, aversion to risk, or increasing parental control over children’s autonomy. These may not be fixable through supply-side tweaks alone.
+Hat tip: [Aashna Doshi](http://marginalrevolution.com?action=user_content_redirect&uuid=b9e1b466e933e2a154a21692b23fca51737c6c23b07560faa21be023f7384d33&blog_id=42693868&post_id=90444&user_id=262258391&subs_id=225460721&signature=de6bfe9d9233044e0a5c1cf9b548cc8a&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly94LmNvbS9hYXNobmFfZG9zaGkyL3N0YXR1cy8xOTExNTMzMDU0OTA2MjI4ODE4&email_id=89b5a2b9d88ae848d2ae53a15c5edb9a).

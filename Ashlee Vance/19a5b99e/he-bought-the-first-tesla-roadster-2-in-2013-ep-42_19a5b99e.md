@@ -1,0 +1,9 @@
+---
+subject: "He Bought The First Tesla Roadster 2 In 2013 - EP 42 Konstantin Othmer"
+from: "Ashlee Vance from Core Memory  <ashleevance@substack.com>"
+to: ""
+date: 2025-11-06 23:55:43
+labels: ["Ashlee Vance", "CATEGORY_PERSONAL", "INBOX", "UNREAD"]
+label_ids: ["Label_4216359091400734623", "CATEGORY_PERSONAL", "INBOX", "UNREAD"]
+---
+Over the past week or so, Elon Musk has started hyping up the launch of the long-, long-awaited Tesla Roadster 2. Musk appeared on the Joe Rogan podcast last week and said he hoped to unveil the car before the end of the year. (When it goes on sale is another story.) He suggested the car might fly. (Okay?) And he said that it would almost certainly be the most memorable launch of any product in history. Which is a very Musk thing to say and - also in keeping with Musk - possibly true. At the Tesla shareholder meeting today, Musk again promised to wow with the Roadster 2 unveiling. This promise came in response to a shareholder who asked if he could, in fact, have the first Roadster 2 VIN. “Well, I guess it’s according to whoever put down their deposit in that sequence,” Musk said. Well, we are here with a special podcast to reveal exactly who stands to get the first Roadster 2 off the line – the investor Konstantin Othmer. I ran into Othmer rather by coincidence this week, and he happened to be holding the receipts that show he wrote the first Roadster 2 check for $200,000 back in 2013. This episode has some wonderful early Musk and Tesla tales plus the whole Roadster 2 backstory. Enjoy! Our show is sponsored by The podcast is also made possible by Hopefully, you enjoyed this story. If so, please share it and subscribe to Core Memory. We want to do more of this for you and need your help. Thanks! |

@@ -1,0 +1,31 @@
+---
+subject: "Learn the fundamentals of coding in JavaScript [Free 9-hour web development course]"
+from: "Quincy Larson <quincy@freecodecamp.org>"
+to: ""
+date: 2025-03-14 15:13:16
+labels: ["CATEGORY_PERSONAL", "IMPORTANT", "INBOX", "Quincy"]
+label_ids: ["CATEGORY_PERSONAL", "IMPORTANT", "INBOX", "Label_7697778124671848699"]
+---
+Here are this week's five freeCodeCamp resources that are worth your time:
+
+1. freeCodeCamp just published this comprehensive introduction to the JavaScript programming language. JavaScript is the main language used for web development, and you can even use it to build mobile apps. This course will teach you Object Oriented Programming, Functional Programming, and Asynchronous Programming. You'll also learn how to use Node.js and its massive ecosystem of libraries through Node Package Manager. (9 hour YouTube course): https://www.freecodecamp.org/news/javascript-essentials/
+
+2. freeCodeCamp also just published this in-depth handbook on how to become a full stack developer in 2025. Author Prankur Pandey breaks down the key tools that web developers use these days, including DevOps tools. He also shares tips on preparing for coding interviews and the developer job search. He even has a section on how he leverages AI tools to help him get more done as a dev. (full-length handbook): https://www.freecodecamp.org/news/become-a-full-stack-developer-and-get-a-job/
+
+3. On this week's freeCodeCamp podcast, I interview prolific computer science educator Caleb Curry about his recent experience getting laid off as a developer, and how he succeeded in quickly landing a new role. Caleb recently started mentoring a few dozen people who are getting into the field, and he shares that same advice he's been giving them about focusing on a few key skills and going really deep. Caleb has a ton of tips for how to manage your information diet so you can gradually amass knowledge. (2 hour watch or listen in your favorite podcast app): https://www.freecodecamp.org/news/learn-fewer-skills-but-go-deeper-the-caleb-curry-interview-podcast-163/
+
+4. If you're interested in learning more about how software projects are managed, this tutorial may strike your fancy. You don't need a code editor for this – you can just read along and look at the Python code examples. You'll learn key software design concepts: Problem Statements, Use Cases, Requirements, High Level System Architecture, and how the entire process flows together. (30 minute read): https://www.freecodecamp.org/news/learn-software-design-basics/
+
+5. One of the most common ways teams build software is through Agile development sprints. This tutorial will give you a quick tour of Sprint Retrospectives, where teams look back on the work they've done over the past few weeks. You'll learn the mechanics of the Start - Stop - Continue approach, and how it can result in better decision making for what to prioritize in subsequent sprints. (12 minute read): https://www.freecodecamp.org/news/how-to-run-a-sprint-retrospective-start-stop-continue-method/
+
+The freeCodeCamp community is also shipping tons of new lessons and new platform features each week on our core curriculum. When in doubt, go there and keep working through our coding challenges from top to bottom. This WILL set you up to succeed. I also encourage you to join the 11,384 kind folks who support our charity and our mission: https://www.freecodecamp.org/donate
+
+Quote of the Week: “If you're a beginner and you're learning, I would not use AI – at least not right now. I wouldn't use Copilot or any of these tools that basically help you write solutions while you're coding. It’s just going to allow you to not learn those things for yourself.” — Caleb Curry, software engineer and guest on this week's freeCodeCamp podcast
+
+Until next week, happy coding.
+
+-- Quincy Larson
+
+Teacher and founder of freeCodeCamp.org
+
+If these aren't worth your time, you can turn them off: https://www.freecodecamp.org/ue/eZV2T3gHC7IGcwcpYPG64

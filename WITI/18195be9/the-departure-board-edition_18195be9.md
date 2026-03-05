@@ -1,0 +1,26 @@
+---
+subject: "The Departure Board Edition"
+from: "\"Why is this interesting?\" <whyisthisinteresting@substack.com>"
+to: ""
+date: 2022-06-24 12:43:28
+labels: ["CATEGORY_PERSONAL", "INBOX", "WITI"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_5752899537867939131"]
+---
+Running one of my favorites from the archive today. Have a great weekend. -Colin (CJN)
+Colin here. Sadly, few vestiges remain from the golden days of travel. We’re a far cry from the early [Pan Am interiors](https://substack.com/redirect/97666ba8-ece7-4b9c-874f-4146c8c2f2c5?u=14563319) and even the level of dress and decorum that came with getting on a plane. Pre-covid, a lot of travel had the aesthetic appeal of getting on a Greyhound bus. It has become routine to stroll past a security scrum, past a bad Auntie Anne’s Pretzels en route to that ugly early American flight to Chicago. If you live in places like Zurich, or Singapore, or Helsinki, you might disagree.
+A fun reminder of these bygone times are Solari boards. They are the large departure boards built with flaps that refresh, showing the new range of departures. A great BBC piece from the cusp of pre-Covid last year [explains the appeal](https://substack.com/redirect/9aafc38c-95b5-4d02-bb27-a34ffb90320f?u=14563319):
+As day turns to night in Singapore's Changi Airport, a queue of people wait patiently for a picture with an old star. They leave their bags by a bench, turn their cameras on themselves, and pose for a photo. Some smile; some jump like starfish; one even dances. As they upload to Instagram, the old star watches on, unmoved. And then - a noise. The moment they've been waiting for. The travellers turn their cameras round, and the star begins one last turn. In a blur of rotation, Kuala Lumpur becomes Colombo; Brunei turns into Tokyo; and a dozen other cities whirr into somewhere else. Two people taking photos, Eileen Lim and Nicole Lee, aren't even flying. They have come especially to see the departures board. "It's therapeutic to see the names turn round," says Eileen, a teacher in Singapore. "And that sound - I love it." Every time she comes to Terminal 2, Eileen takes a photo with the board. But now, she is saying goodbye. In less than three hours, the hoardings will come up, and the sign will come down. Changi Airport, like hundreds of others already, will whirr, spin, and flap for the final time.
+Why is this interesting?
+Predictably, these signs have mostly gone away in the favor of crisp, digital efficiency. But some still remain. And people love them. They are a fun aesthetic cue of a bygone era. The departure board from [New York’s Idlewild airport](https://substack.com/redirect/02ed718c-9172-4a22-84a0-098906b00131?u=14563319) was moved into the new TWA hotel. The Qantas First Class lounge in Sydney has one. It’s a bit of a pleasant reminder of the golden age of travel.
+But the biggest reason, to me at least, is the sound. When the destinations refresh, there’s the most pleasant ambient whir that mingles with the sounds and murmurs from the rest of the airport. You can see an example from Frankfurt here:
+Qantas said that guests in their lounges [love to hear them just as much as they like to see them](https://substack.com/redirect/c4bed49e-50a6-4d99-9c96-04fa45b39a2f?u=14563319), though their boards in Melbourne and Sydney now have to live behind velvet ropes, lest guests poke and prod with their fingers.
+Not surprisingly, there’s a mini renaissance going on with devices that take this delightful analog approach. You can buy [clocks](https://substack.com/redirect/726c33f5-3c94-4c9e-8f6b-e284d345a6c2?u=14563319) and even a [Vestaboard](https://substack.com/redirect/242a82bc-6667-4f45-bad7-addb90be0376?u=14563319), which emulates the vibe for home or office. But, to see these signs in their true grandeur, it is best to be going somewhere long-haul. (CJN)
+—
+WITI x McKinsey:
+An ongoing partnership where we highlight interesting McKinsey research, writing, and data.
+Resilience for sustainable, inclusive growth. Resilience is the ability to deal with adversity, withstand shocks, and continuously adapt and accelerate as disruptions and crises arise over time. A can’t-miss[ report ](https://substack.com/redirect/5c375f4c-4063-4826-8a09-a850ce4e88a0?u=14563319)from the World Economic Forum and McKinsey explores how public- and private-sector organizations can build a resilient stance.
+—
+Thanks for reading,
+Noah (NRB) & Colin (CJN) & Mark (MS)
+—
+[Why is this interesting?](https://substack.com/redirect/46de3dcc-f24a-40c0-9ee3-2345ed40b12b?u=14563319) is a daily email from[ Noah Brier](https://substack.com/redirect/7b06786b-760a-4f81-a909-35bfefda3dd5?u=14563319) &[ Colin Nagy](https://substack.com/redirect/ce056d5a-f922-488f-ad18-3e30d5037db2?u=14563319) (and friends!) about interesting things. If you’ve enjoyed this edition, please consider forwarding it to a friend. If you’re reading it for the first time, consider[ subscribing](https://substack.com/redirect/5308a122-66fc-41bd-b1e6-4dc106dbf316?u=14563319) (it’s free!).

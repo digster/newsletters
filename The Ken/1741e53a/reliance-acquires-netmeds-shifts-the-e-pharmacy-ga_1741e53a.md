@@ -1,0 +1,26 @@
+---
+subject: "Reliance acquires Netmeds, shifts the e-pharmacy game from startups to corporations"
+from: "The Ken <info@the-ken.com>"
+to: ""
+date: 2020-08-24 02:37:09
+labels: ["CATEGORY_PERSONAL", "INBOX", "The Ken"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_8244464457792971031"]
+---
+Good Morning Ishan,
+One would’ve thought the tsunami of deals that Jio Platforms triggered in April would’ve ended with its parent Reliance Industries’ (RIL) shareholders meeting on 15 July. But there was more. The cue was right there, in their digital health demo.
+On 15 August, Reliance, via its retail arm, acquired Netmeds, one of India’s earliest and largest e-pharmacies. That Reliance could acquire a majority stake in a company that had raised nearly $100 million in venture funding for just $83.5 million was telling. It was two days after Amazon, too, unveiled its e-pharmacy services.
+In a span of five days, India’s pharmacy business got Amazon-ed and RIL-ed, all at once. The industry, which was already seeing dislocation on both the supply and demand side, saw overnight consolidation.
+Medlife merged with PharmEasy (which in-turn will merge with its distribution arm Ascent Health), creating one of the strongest standalone e-pharmacy companies. If Flipkart, as rumoured, buys or makes a deal with PharmEasy, then the deck chairs on the Titanic are neatly arranged: Amazon, Flipkart, Reliance on one side, backed by their massive e-commerce experience and infrastructure; 1mg and Apollo Pharmacy on the other side as standalone pharmacy and digital health aspirants.
+In the last five years, India’s e-pharmacies managed to convert a tiny ~2% of the ~$19 billion market. The fact that the domestic pharma market in India is splintered like no other, with thousands of manufacturers supplying to over 800,000 pharmacies, has ensured that the organised pharmacy business is not for the faint-hearted.
+The forcing function of Covid has brought much-awaited regulatory changes in most geographies. Last week, India announced its new National Digital Health Mission, which has e-pharmacy integrated into it. All the regulatory creases are now ironed out.
+E-pharmacy followed up e-commerce's footsteps of aggressive discounting and, as things have turned out, it has also landed in the e-commerce court—set to become a game of large corporations. As Rohin says in the story today, it’s a new ‘era of Strategics’. He connects multiple dots to show how we arrived here: [https://the-ken.com/story/reliances-netmeds-acquisition-e-pharma/](https://the-ken.com/story/reliances-netmeds-acquisition-e-pharma/?utm_source=daily_story&utm_medium=email&utm_campaign=daily_newsletter) (11-minute read)
+Warmly,
+Seema Singh
+[seema@the-ken.com](mailto:seema@the-ken.com)
+|
+What you just read is the personalised daily introduction to The Ken's story. Written by a different person each day. Often insightful, sometimes witty, and very rarely boring. Someone sent this to you? [Sign up for free](https://the-ken.com/?modal=register&utm_source=footer&utm_medium=email&utm_campaign=in_morning_email). Don't like these? You can [unsubscribe](https://link.the-ken.com/asm/unsubscribe/?user_id=2349339&data=03F9PUEH-iB7ppunr9s4ZnbaegKplhQgyKtKX2XnMCPIn3Z3bmEFt-7VfV2Xz9astaFd96NtJYOwj0cTlui39j3WmYVWNiHSI1z_5abHTp30hGJyGqwWUQiht9dw8oN8Wo-4uBIsiDGQich8gbgLXIbTnyGnTRjlfY1JUp-1G9ahVg0YxwBRrk0eaCDuyUAWi4LjiG86G-9ynhyVRslrnvuAiODiULlrEl6IIKNvDpOyz1kYdHd1SLdV9TYr4_alnYu63C_P-kfY3Wa4XkVdfLt9Dbac09lns8ozh1ysOFI-iiN9DT6kj2t7czVfzhiXVxEVkqr-g1CQ_OHTTeAjxO9CQe6Q09-WqSK9sb9GhqD9j2oy86wrCbxUlNVi4ywXMJuTCBbs7at0JOfG1JnI0OncZ6DScjQj8dug53NuPVCfinZJXc_QNZnA-KY1P6uB56o3NkbFX6xmube_4HSsuwEY37miOh4rrmX8qOn4qQYcxpzajeIkfSvfJsK2eIttU1D8Q4nZlzIBL950d8eCofJHDo6OwkJW_-ZHuPu8v-s=). Want to manage your emails? Click [here](https://link.the-ken.com/asm/?user_id=2349339&data=Hb3k-HrBYFkn5tyThw8ka9UZheWNNadvjmQHQNgS65-_6rE8Q8nAqABt0-nNmNcz3mjoziAlnrVFSrJlDvzjb0O67h0pq6naRYMBOglN7PSZ7YCbt2O6qAJQelFuofcUkI34EpN0fbW3yzaJn9ZBpp31FweXgHj9v-0X0MtVLekzJ79ySYUfROmitpTzD20XECNjn0u723E3qUnF8-e5pz7d256Mxf0_1IbzpL9V9Gwi9zbWJhIhpUXZJhArA862vraQnd97mKji7-ma-zNfn6b8PxLptQFtuX7P10PAWeurPnvNcK8lPlLOV-SoMFI5TICAFuZxH7CMksD3yI-P518bx4Vry6mdsermX0ceowcHgc5Ir_3nxWoQAQnlMNLZgGm_jn_iVvKIj59DicZUThXonzeu4qMHjr1sq0_ErAcHHccsfD-aBkT6UkOOy2iL6GIvxNXwjOHzTqPih76QrB5hS13TyinLabFFsSNOLsuieAACM2dIWSrdrDP9qNkY2YjtjNatnfE0nuG3PD2GHA==).
+|
+|
+|
+|
+|

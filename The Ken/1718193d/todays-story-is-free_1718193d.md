@@ -1,0 +1,19 @@
+---
+subject: "Today's story is free"
+from: "The Ken <info@the-ken.com>"
+to: ""
+date: 2020-04-16 06:01:14
+labels: ["CATEGORY_PERSONAL", "INBOX", "The Ken"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_8244464457792971031"]
+---
+Good Morning Ishan,
+Sincerely,
+Rohin Dharmakumar
+PS: Have you checked out our daily newsletter, Beyond the First Order? It’s the best way to understand the far-reaching consequences of the Covid-19 pandemic on industries, ecosystems, economies, governments, and more. Oh, and it’s also free to read. Click [here](https://link.the-ken.com/ls/click?upn=sy6ExvMQ-2BqIqW2Qsf-2FVG5uN3NP3blsUSSwHPvfjO52n9nCNHw2kR28IPrFOJhf9mEVgC_dmDs81p1OM5gBGYvHfsMFvgp9PcMB6iZkwowmLx-2FVhwlHXbL5m6csiptGuneRwktW27c6ZwIBsjV67BZcfkOlPppVavmb9GVjXF4V-2FTqNpXI8M4UGbbAYdJoAOF1vlAslBPfmnLp2mUopRGXGNprC3oNp-2Bj424sgBgzUGsLmi34GW1iHhBXB5twkYzg-2F-2Fkqd0gY2cylp-2FEwFQIQ66SRDyUR1TXEtOb8sUr8XGh3BNUN1oz-2FxShMPTGroX-2BIrZjrelMc1arfgnQ8idlgSeYxm160czWhmthCLRvfIoNdEZBrxV2MHMnKzuAFflnj4LbxoKp6nP0-2B6Iq63ES5CVMk0-2BSnryFjK9iNyYZRFidfeSAEUxShORw9GMrNemCL0pKkiHv-2Foa6PGDCg2uJAT4aGfNbEAzWNLa7VbX-2Fr1WDEL9QunXxVa-2FxjKCWuh7vRC90G1) to check it out.
+|
+What you just read is the personalised daily introduction to The Ken's story. Written by a different person each day. Often insightful, sometimes witty, and very rarely boring. Someone sent this to you? [Sign up for free](https://link.the-ken.com/ls/click?upn=sy6ExvMQ-2BqIqW2Qsf-2FVG5m4ZRtGJDuv5a1zCHK2JYyvd7FmH2neqLdySobBIZteQtt6AiG0kT59-2BM7sDMw-2FirteTIdBthyZdirVFH8J-2FK9Ev6fz63LL88N8ZKR7JrZ9sCkD1CpUfzq1-2Fuo60AmS6iEufHC5f8B8RhXDOAQX09s4-3Drt8C_dmDs81p1OM5gBGYvHfsMFvgp9PcMB6iZkwowmLx-2FVhwlHXbL5m6csiptGuneRwktW27c6ZwIBsjV67BZcfkOlPppVavmb9GVjXF4V-2FTqNpXI8M4UGbbAYdJoAOF1vlAslBPfmnLp2mUopRGXGNprC3oNp-2Bj424sgBgzUGsLmi34GW1iHhBXB5twkYzg-2F-2Fkqd0gY2cylp-2FEwFQIQ66SRDyUR1TXEtOb8sUr8XGh3BNUNbRl-2F-2BHEeDZL2ZZuyURR0FenoddaHgGoXwl7xB8uEUPhpr-2Fo20Vm3aW-2ByjkGLlorSilw0J0DDxvc0NDLWEe0S55gf3zCRAJ-2B1NknE9-2Bn2aNkAjBC4xKblFdQwaudj3mpztOeiAVLsNj8AocvlARt63hfxKEJv0fpe-2BSGOzZ3KLjPc2Ct-2Bukvow6TD9KOFv-2F43BmJeOSk0lcCXgv16wnUS2). Don't like these? You can [unsubscribe](https://link.the-ken.com/asm/unsubscribe/?user_id=2349339&data=j7xSuubZZzQzFGeMwgZ_pt-frXe5QwB6kGNMaFQ254KiQH8Gd_S5N_fuQR8XLju8gqnj5nZVsQMTUXrzk3G_PS632poOSI2WodLs7vhEQSygwSYrgPksXrACQViN2aFxmP8yG6yeZfkANFuoIuwrkMLLQACJSG-y-_2kytd52Qh0d5726LcGz9ASaa8Xd7HlNfAWaZpEv2wfpJpf3jLLVT4R69Wg0mDdm_c4Fl-VNMwNrX0XOMBX8OtdIu-4Hbw0afsUERDFGGJoAJnwPhEqMMm6gF216767qE4oj0mHiDm6N8rcgAoDYRAyrWFOIG5EUIP8mqwrXtRxNdigmtttF97uh7dnlPBeDdmgGXAGjogsdLCn5s_4r3imuv3OHkDxab8Sj_Z2VJH1IWPR5gLUGxxtgo6S5noICHVmElHWmpWlV-vwvkiLkjZL5izZuKekbzcw95SVsREwgGxhpVXSFjYv0VvCEhBpVK6XPqMbbw3eOjrbULHWwq8LQdyYiNZGBAkguXbLvpo8WRvYUKlEqwcxp1kCMvYspr_w3xTyKfY=). Want to manage your emails? Click [here](https://link.the-ken.com/asm/?user_id=2349339&data=fS2PR0JjzoHg3kbhnaq3n20-rXKZkd-Eo_2GJtBQdAEmqDejPhM98dNQYiU1YKPyurS9oVvdz4cmwjoFIDjVPLeaRhKlVD03xlFnl_ESlX6qAtntutefBfT1tQ8VS9jNuLQ6RtwTuhMtolln0twGc6pYeuIGIJVaehtGff3E_QQwgwAlOxqNjimU0tQpg_Hb0GH9XuIOC_DxFefL4U4xu_2et_8kd1F85M7minGYzrk_-MApy2mbgkidpD-Fcj3bCLBoBuTxGzKfFmBhDPHv1TOafYfxlgnfeMgonB2JT-M2yP6qiKyMpopjxOSHwkWyX45B-jFo9a33sL3gt6Il6Jwz52sSG0LONIFQrQndSmRLXvSwZx56dtECY11LJXWq2FnYHTBiwO70Ipw-sgyO4AVcKlMpr5HUUlV0i3WcfE1rQv0wq8A-PrcXShOaWHeM_KqRzVsTt67mKNJpfcdnsUh3NgBuo_vFM0_CPdosrpb_sGPL3vAHFyL90jxb6xEmH883vJDBZaMjU-qdWQrjUKAu1YF2ACMRnp39n6_Zfdg=).
+|
+|
+|
+|
+|

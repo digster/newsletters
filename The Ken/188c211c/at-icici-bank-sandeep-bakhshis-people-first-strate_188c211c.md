@@ -1,0 +1,20 @@
+---
+subject: "At ICICI Bank, Sandeep Bakhshi's people-first strategy costs top people"
+from: "The Ken <info@the-ken.com>"
+to: ""
+date: 2023-06-16 02:38:44
+labels: ["CATEGORY_PERSONAL", "INBOX", "The Ken", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_8244464457792971031", "UNREAD"]
+---
+Good Morning Ishan,
+Sandeep Bakhshi must be pleased as punch. ICICI Bank is going great guns on his watch, posting its highest-ever quarterly profit—a cool Rs 9,000-crore-plus—in the recent March quarter. Loans and deposits are growing strong, margins are healthy, and investors can’t seem to get enough of this blue-chip company. The stock has tripled since Bakhshi took over as the CEO in October 2018 after the tumultuous exit of his predecessor Chanda Kochhar.
+All’s nice and rosy then? Not quite, finds Rounak, the author of today’s story.
+Bakhshi, as a leader in crisis, steadied the business ship commendably. But in his drive to lift employee morale and stem high attrition, the pendulum may have swung to the other extreme. From being known for its pushy work culture in its earlier avatar, ICICI Bank under Bakhshi has now become like a sarkari daftar (public-sector office), think some of its go-getter employees. Annual appraisals are no longer linked to individual performance, promotions have become tenure-based, and the bank has also adopted a no-firing culture. Too much democracy and socialism?
+But shouldn’t all this be sweet music for ICICI Bank employees, especially when rivals like HDFC Bank are in the news for cut-throat workplace practices?
+Nope. Young high-performers hungry for growth are calling it quits, even as another cohort now wants to stay on until retirement. Bakhshi’s HR overhaul has produced two factions, so to speak: one of high-performers and another of content bankers.
+This has not-so-nice implications for ICICI Bank’s prospects, writes Rounak in this engaging story. Read it here: [https://the-ken.com/story/at-icici-bank-sandeep-bakhshis-people-first-strategy-costs-top-people/](https://the-ken.com/story/at-icici-bank-sandeep-bakhshis-people-first-strategy-costs-top-people/?utm_source=daily_story&utm_medium=email&utm_campaign=daily_newsletter) [10-minute read]
+Thanks,
+Anand
+[anand@the-ken.com](mailto:anand@the-ken.com)
+What you just read is the personalised daily introduction to The Ken's story. Written by a different person each day. Often insightful, sometimes witty, and very rarely boring. Someone sent this to you? [Sign up for free](https://the-ken.com/?modal=register&utm_source=footer&utm_medium=email&utm_campaign=morning_email_ind). [Dont like these? You can unsubscribe](https://link.the-ken.com/asm/unsubscribe/?user_id=2349339&data=TW6d-onbqQdljlwya7SfWe0xkb0WX7AMshC8I_Xaz5VoMDAwdTAwMOm9SOv5X3TxcS83xM0ayUcXdvZLbOEb8Gwl9yy_0S6mzq7_xY84a4hmOr9UFta4HkTgPBXv7KxviM4VtmXYcoEEzVI_bmnpxfvCy8F45JPgkdmGuC5WhhvEO1Z2YGkbjJItl3IVQK6mrQ_ESsUV8VL-5X4DM912eYEdUyenT3KmU5BySgPAzdbYVKCEgWBoFXI3DJNJQ6_zCWRmt-0A8s5-35e-RRYkfFeu9vDg3dAYNSQKeIgi7MvZ_yzIPcppyj-ftFV09HnbZXNMJpxZqJJeoc0SuuGbXEmBwopWSTVZ81S_kUDXPOxWoejJngSxxBm8MNvSszqKp1cvIkX1jGrxHkQZCkI1HmVctfpEJXRxL6poAa5lO8btW3NwyXtUs7CyENcySETJ_--8AjkL2Uk8JIryJUsTjDzXRTPkung2totnUspQW3nUNqJh_Z7IeTxyM0AQTS2myB-Sw9MsIvmqAqItyeDxs-k0XBCHn0qt3i60o4U2PyZaS8Tj-cIFoVwNaPEvJNRTw6M1HLE7i94=) Dont want to hear from us again? [ Unsubscribe from our emails here](https://link.the-ken.com/asm/?user_id=2349339&data=AFh-TbnPgqoigAYFJrRP-q9CahJj5T9PCE--Pu7-8QhoMDAwdTAwMOEZvYup-YUtYHOpJ7kQAJX8EOonQGpYd17YAcRHszCHx86EQUfvmRlD5eMxoCPgMtKAk4d6yVZfENXXCEomu6s9pUQ5meNxILah2Wd20AG_5YM5qJpI27_z8_jwi6yhtcCZ9uUars7vRKWZxj9Od8bUQ_ek_RlSP1mFuEMD0tSlGYXeDTm__BKEvNyLObzSEyZ60bWGV8fLTmwHUreVgsWZQmVJDjF4VmseseoZK0cn2dCRLnfnHuQbuY_pJXMECbek_uYmI0GSzDu5xsX7b6mLTALXt74A34tS3RHv_y6F5D13t86CvocnY3zz8u_GfrT21Dnlr4a6vEE7YMXD6IDx3lrvfw0N3pVWJ102iXWHCLrb8umpIbcKlruVVP-0iFeBmCQeLW6wez2cdclki8Gy8KlT5L6xVotXWArltmC4UMQTfHZzGqS5uHAV2qJZP6cwKpFNhsL06UlCJVCsj1ajKS_9JR9Otl8qT9CEMf8hcT7YdXDdB0f1FXZ5ZblLWw==).
+Something wrong? Tell us at [support@the-ken.com](mailto:support@the-ken.com)

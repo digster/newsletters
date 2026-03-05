@@ -1,0 +1,833 @@
+<html><head><meta charset="utf-8"><title>Scaling ChatGPT: Five Real-World Engineering Challenges</title><style>
+@media all and (-ms-high-contrast: none), (-ms-high-contrast: active) {
+  .typography .markup table.image-wrapper img,
+  .typography.editor .markup table.image-wrapper img,
+  .typography .markup table.kindle-wrapper img,
+  .typography.editor .markup table.kindle-wrapper img {
+    max-width: 550px;
+  }
+}
+
+
+@media screen and (max-width: 650px) {
+  .typography .markup div.youtube-inner div.youtube-screen,
+  .typography.editor .markup div.youtube-inner div.youtube-screen,
+  .typography .markup div.vimeo-inner div.youtube-screen,
+  .typography.editor .markup div.vimeo-inner div.youtube-screen {
+    display: none !important;
+  }
+}
+
+
+@media screen and (max-width: 370px) {
+  .typography .markup div.tiktok-wrap,
+  .typography.editor .markup div.tiktok-wrap {
+    width: calc(95vw - 32px);
+    height: calc((95vw - 32px - 2px) / 0.485714);
+  }
+}
+
+
+@media screen and (max-width: 650px) {
+  .typography .markup div.embedded-publication-wrap .embedded-publication.show-subscribe,
+  .typography.editor .markup div.embedded-publication-wrap .embedded-publication.show-subscribe {
+    padding: 24px;
+  }
+}
+
+
+@media screen and (max-width: 650px) {
+  .typography .markup div.subscription-widget-wrap .subscription-widget.show-subscribe,
+  .typography.editor .markup div.subscription-widget-wrap .subscription-widget.show-subscribe,
+  .typography .markup div.captioned-button-wrap .subscription-widget.show-subscribe,
+  .typography.editor .markup div.captioned-button-wrap .subscription-widget.show-subscribe {
+    padding: 24px;
+  }
+}
+
+
+@media screen and (max-width: 650px) {
+  .typography .markup div.subscription-widget-wrap .subscription-widget.show-subscribe .subscription-widget-subscribe .button,
+  .typography.editor .markup div.subscription-widget-wrap .subscription-widget.show-subscribe .subscription-widget-subscribe .button,
+  .typography .markup div.captioned-button-wrap .subscription-widget.show-subscribe .subscription-widget-subscribe .button,
+  .typography.editor .markup div.captioned-button-wrap .subscription-widget.show-subscribe .subscription-widget-subscribe .button {
+    padding: 10px 12px;
+    min-width: 110px;
+  }
+}
+
+
+@media (max-width: 650px) {
+  .typography .markup .tweet,
+  .typography.editor .markup .tweet {
+    padding: 12px;
+  }
+}
+
+
+@media (max-width: 650px) {
+  .typography .markup .tweet .tweet-text,
+  .typography.editor .markup .tweet .tweet-text {
+    font-size: 14px;
+    line-height: 20px;
+  }
+}
+
+
+@media (max-width: 650px) {
+  .typography .markup .tweet .tweet-photos-container.two,
+  .typography.editor .markup .tweet .tweet-photos-container.two,
+  .typography .markup .tweet .tweet-photos-container.three,
+  .typography.editor .markup .tweet .tweet-photos-container.three,
+  .typography .markup .tweet .tweet-photos-container.four,
+  .typography.editor .markup .tweet .tweet-photos-container.four {
+    height: 200px;
+  }
+}
+
+
+@media (max-width: 650px) {
+  .typography .markup .tweet a.expanded-link .expanded-link-img,
+  .typography.editor .markup .tweet a.expanded-link .expanded-link-img {
+    max-height: 180px;
+  }
+}
+
+
+@media (max-width: 650px) {
+  .typography .markup .tweet a.expanded-link .expanded-link-description,
+  .typography.editor .markup .tweet a.expanded-link .expanded-link-description {
+    display: none;
+  }
+}
+
+
+@media screen and (max-width: 650px) {
+  .typography .markup .apple-podcast-container,
+  .typography.editor .markup .apple-podcast-container {
+    width: unset;
+  }
+}
+
+
+@media (max-width: 420px) {
+  .typography .markup .install-substack-app-embed img.install-substack-app-embed-img,
+  .typography.editor .markup .install-substack-app-embed img.install-substack-app-embed-img {
+    margin: 0 auto 16px auto;
+  }
+}
+
+
+@media screen and (min-width: 420px) and (max-width: 600px) {
+  .typography .markup .install-substack-app-embed .install-substack-app-embed-text,
+  .typography.editor .markup .install-substack-app-embed .install-substack-app-embed-text {
+    max-width: calc(100% - 100px);
+    width: initial;
+  }
+}
+
+
+@media (max-width: 420px) {
+  .typography .markup .install-substack-app-embed .install-substack-app-embed-text,
+  .typography.editor .markup .install-substack-app-embed .install-substack-app-embed-text {
+    margin: 0 0 12px 0;
+    max-width: 100%;
+    width: auto;
+    text-align: center;
+  }
+}
+
+
+@media (max-width: 600px) {
+  .typography .markup .install-substack-app-embed .install-substack-app-embed-link,
+  .typography.editor .markup .install-substack-app-embed .install-substack-app-embed-link {
+    margin-top: 16px;
+    width: 100%;
+  }
+}
+
+
+@media screen and (min-width: 481px) {
+  .share-button-container {
+    height: 38px;
+  }
+}
+
+
+@media screen and (min-width: 481px) {
+  .share-button-container a.comment {
+    height: 38px;
+    line-height: 38px;
+    padding-right: 10px;
+  }
+}
+
+
+@media screen and (max-width: 480px) {
+  .share-button-container .separator {
+    display: block;
+    margin: 0;
+    height: 8px;
+    border-left: none;
+  }
+}
+
+
+@media screen and (max-width: 480px) {
+  .share-button-container a.share.first img {
+    padding-left: 0;
+  }
+}
+
+
+@media screen and (min-width: 481px) {
+  .share-button-container a.mobile {
+    display: none !important;
+  }
+}
+
+
+@media screen and (min-width: 541px) {
+  .settings-add-pub-modal-wrapper .container .add-recommending-pub-modal-container {
+    padding: 36px;
+    height: 680px;
+  }
+}
+
+
+@media screen and (min-width: 541px) {
+  .settings-add-pub-modal-wrapper .container .add-recommending-pub-modal-container .footer {
+    position: absolute;
+    bottom: 36px;
+    margin: 0px;
+  }
+}
+
+
+@media screen and (max-width: 840px) {
+  .header-with-anchor-widget .header-anchor-widget,
+  .header-anchor-container .header-anchor-widget {
+    display: none;
+  }
+}
+
+
+@media screen and (min-width: 768px) {
+  .post {
+    padding: 32px 0 0 0;
+  }
+}
+
+
+@media screen and (max-width: 650px) {
+  .post .post-header .post-label {
+    margin-top: 8px;
+  }
+}
+
+
+@media screen and (max-width: 650px) {
+  .post .post-header .meta-author-wrap.alternative-meta .meta-right-column .post-meta {
+    margin-top: 6px;
+  }
+}
+
+
+@media screen and (max-width: 650px) {
+  .post .footer-facepile-container {
+    height: 64px;
+    padding: 0 16px;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    width: 100%;
+  }
+}
+
+
+@media screen and (max-width: 650px) {
+  .post .post-footer.use-separators {
+    justify-content: center;
+  }
+}
+
+
+@media screen and (max-width: 650px) {
+  .post .post-footer.next-prev {
+    height: 64px;
+    justify-content: space-between;
+    box-sizing: border-box;
+  }
+}
+
+
+@media screen and (max-width: 650px) {
+  .post-contributor-footer .post-contributor-bio-table {
+    display: block;
+  }
+  .post-contributor-footer .post-contributor-bio-table-row {
+    display: flex;
+    flex-direction: row;
+  }
+  .post-contributor-footer .post-contributor-bio-userhead-cell,
+  .post-contributor-footer .post-contributor-bio-body-cell {
+    display: block;
+  }
+  .post-contributor-footer .post-contributor-bio-body-cell {
+    flex-grow: 1;
+  }
+  .post-contributor-footer .post-contributor-bio-body-table {
+    display: block;
+  }
+  .post-contributor-footer .post-contributor-bio-body-table-row {
+    display: block;
+  }
+  .post-contributor-footer .post-contributor-bio-copy-cell,
+  .post-contributor-footer .post-contributor-bio-controls-cell {
+    display: block;
+  }
+  .post-contributor-footer .post-contributor-bio-copy-cell {
+    margin: 0 0 16px 0;
+  }
+  .post-contributor-footer .post-contributor-bio-controls-cell {
+    width: auto;
+  }
+  .post-contributor-footer .post-contributor-bio-controls {
+    margin: auto;
+  }
+  .post-contributor-footer .post-contributor-bio-controls .button.primary {
+    width: 100%;
+  }
+  .post-contributor-footer .post-contributor-bio-text {
+    font-size: 14px;
+  }
+}
+
+
+@media screen and (min-width: 768px) {
+  .post-silhouette {
+    padding: 16px 0;
+  }
+}
+
+
+@media screen and (max-width: 650px) {
+  .post-silhouette .post-silhouette-title {
+    margin-top: 10.44225025px;
+    height: 120px;
+  }
+}
+
+
+@media screen and (max-width: 650px) {
+  .post-silhouette .post-silhouette-meta {
+    width: 75%;
+  }
+}
+
+
+@media screen and (max-width: 650px) {
+  .post-silhouette .post-silhouette-meta.with-byline-image {
+    margin: 20px 0;
+  }
+}
+
+
+@media screen and (max-width: 650px) {
+  .use-theme-bg .post-meta.alternative-meta .post-meta-item,
+  .post-meta.alternative-meta .post-meta-item {
+    padding-right: 16px;
+  }
+}
+
+
+@media screen and (max-width: 370px) {
+  .use-theme-bg .post-meta.alternative-meta .post-meta-item,
+  .post-meta.alternative-meta .post-meta-item {
+    font-size: 14px;
+  }
+}
+
+
+@media screen and (max-width: 650px) {
+  .use-theme-bg .post-meta.alternative-meta .post-meta-item.guest-author-publication,
+  .post-meta.alternative-meta .post-meta-item.guest-author-publication {
+    display: none;
+  }
+}
+
+
+@media screen and (max-width: 370px) {
+  .post-meta .post-meta-item .post-meta-button {
+    height: 36px !important;
+  }
+  .post-meta .post-meta-item .post-meta-button .meta-button-label {
+    display: none;
+  }
+  .post-meta .post-meta-item .post-meta-button > svg {
+    margin-right: 0;
+  }
+}
+
+
+@media screen and (max-width: 370px) {
+  .post-meta .post-meta-item {
+    font-size: 12px;
+  }
+}
+
+
+@media screen and (max-width: 650px) {
+  .post .floating-subscribe-button {
+    bottom: 20px;
+    right: 20px;
+  }
+}
+
+
+@media all and (-ms-high-contrast: none), (-ms-high-contrast: active) {
+  body .markup table.image-wrapper img,
+  body .markup table.kindle-wrapper img {
+    max-width: 550px;
+  }
+}
+
+
+@media screen and (max-width: 650px) {
+  body .markup div.youtube-inner div.youtube-screen,
+  body .markup div.vimeo-inner div.youtube-screen {
+    display: none !important;
+  }
+}
+
+
+@media screen and (max-width: 370px) {
+  body .markup div.tiktok-wrap {
+    width: calc(95vw - 32px);
+    height: calc((95vw - 32px - 2px) / 0.485714);
+  }
+}
+
+
+@media screen and (max-width: 650px) {
+  body .markup div.embedded-publication-wrap .embedded-publication.show-subscribe {
+    padding: 24px;
+  }
+}
+
+
+@media screen and (max-width: 650px) {
+  body .markup div.subscription-widget-wrap .subscription-widget.show-subscribe,
+  body .markup div.captioned-button-wrap .subscription-widget.show-subscribe {
+    padding: 24px;
+  }
+}
+
+
+@media screen and (max-width: 650px) {
+  body .markup div.subscription-widget-wrap .subscription-widget.show-subscribe .subscription-widget-subscribe .button,
+  body .markup div.captioned-button-wrap .subscription-widget.show-subscribe .subscription-widget-subscribe .button {
+    padding: 10px 12px;
+    min-width: 110px;
+  }
+}
+
+
+@media (max-width: 650px) {
+  body .markup .tweet {
+    padding: 12px;
+  }
+}
+
+
+@media (max-width: 650px) {
+  body .markup .tweet .tweet-text {
+    font-size: 14px;
+    line-height: 20px;
+  }
+}
+
+
+@media (max-width: 650px) {
+  body .markup .tweet .tweet-photos-container.two,
+  body .markup .tweet .tweet-photos-container.three,
+  body .markup .tweet .tweet-photos-container.four {
+    height: 200px;
+  }
+}
+
+
+@media (max-width: 650px) {
+  body .markup .tweet a.expanded-link .expanded-link-img {
+    max-height: 180px;
+  }
+}
+
+
+@media (max-width: 650px) {
+  body .markup .tweet a.expanded-link .expanded-link-description {
+    display: none;
+  }
+}
+
+
+@media screen and (max-width: 650px) {
+  body .markup .apple-podcast-container {
+    width: unset;
+  }
+}
+
+
+@media (max-width: 420px) {
+  body .markup .install-substack-app-embed img.install-substack-app-embed-img {
+    margin: 0 auto 16px auto;
+  }
+}
+
+
+@media screen and (min-width: 420px) and (max-width: 600px) {
+  body .markup .install-substack-app-embed .install-substack-app-embed-text {
+    max-width: calc(100% - 100px);
+    width: initial;
+  }
+}
+
+
+@media (max-width: 420px) {
+  body .markup .install-substack-app-embed .install-substack-app-embed-text {
+    margin: 0 0 12px 0;
+    max-width: 100%;
+    width: auto;
+    text-align: center;
+  }
+}
+
+
+@media (max-width: 600px) {
+  body .markup .install-substack-app-embed .install-substack-app-embed-link {
+    margin-top: 16px;
+    width: 100%;
+  }
+}
+
+
+@media screen and (min-width: 500px) {
+  body .header a.logo {
+    width: 42px;
+    height: 42px;
+    border-radius: 12px;
+  }
+}
+
+
+@media screen and (max-width: 420px) {
+  body .subscription-receipt table:first-of-type .subscription-amount .subscription-discount {
+    width: 72px !important;
+  }
+}
+
+
+@media screen and (min-width: 481px) {
+  body .share-button-container {
+    height: auto;
+  }
+}
+
+
+@media screen and (max-width: 480px) {
+  body .share-button-container .separator {
+    display: block !important;
+    margin: 0 !important;
+    height: 8px !important;
+    border-left: none !important;
+  }
+}
+
+
+@media screen and (max-width: 650px) {
+  .digest .item .post-meta-item.audience {
+    display: none;
+  }
+}
+
+
+@media screen and (min-width: 500px) {
+  .digest-publication .logo img {
+    width: 42px;
+    height: 42px;
+    border-radius: 8px;
+  }
+}
+
+
+@media screen and (max-width: 650px) {
+  .comments-page .container .comment-list .collapsed-reply {
+    margin-left: 17px;
+  }
+}
+
+
+@media screen and (max-width: 650px) {
+  .comment > .comment-list {
+    padding-left: 25px;
+  }
+}
+
+
+@media screen and (max-width: 650px) {
+  .finish-magic-login-modal .modal-content .container {
+    padding: 24px 0;
+  }
+}
+
+
+@media (max-width: 650px) {
+  .reader2-text-b3 {
+    line-height: 24px;
+  }
+}
+
+
+@media screen and (max-width: 650px) {
+  .reader2-text-h4 {
+    line-height: 24px;
+  }
+}
+
+
+@media screen and (min-width: 541px) {
+  .user-profile-modal {
+    padding-left: 12px;
+    padding-right: 12px;
+  }
+}
+
+
+@media screen and (max-width: 650px) {
+  .subscribe-widget form.form .sideBySideWrap button.rightButton {
+    padding: 10px 12px;
+  }
+}
+
+
+@media screen and (min-width: 541px) {
+  .pub-icon:hover .logo-hover,
+  .feed-item-icon:hover .logo-hover {
+    display: block;
+  }
+}
+
+
+@media screen and (max-width: 650px) {
+  .post-ufi.single-full-width-button .post-ufi-button-wrapper {
+    width: 100%;
+    padding: 16px;
+  }
+  .post-ufi.single-full-width-button .post-ufi-button-wrapper:empty {
+    display: none;
+  }
+  .post-ufi.single-full-width-button .post-ufi-button {
+    width: 100%;
+    justify-content: center;
+  }
+}
+
+
+@media screen and (max-width: 768px) {
+  .file-embed-wrapper {
+    padding: 0;
+  }
+}
+
+
+@media screen and (max-width: 768px) {
+  .file-embed-wrapper-editor {
+    padding: 0;
+  }
+}
+
+
+@media screen and (max-width: 768px) {
+  .file-embed-wrapper-editor:active {
+    padding: 0;
+  }
+}
+
+
+@media only screen and (max-width: 650px) {
+  .file-embed-button.wide,
+  .file-embed-error-button.wide {
+    display: none;
+  }
+}
+
+
+@media only screen and (min-width: 630px) {
+  .file-embed-button.narrow,
+  .file-embed-error-button.narrow {
+    display: none;
+  }
+}
+
+
+@media screen and (min-width: 541px) {
+  .audio-player-wrapper .audio-player {
+    min-width: 500px;
+  }
+}
+
+
+@media screen and (max-width: 650px) {
+  .audio-player-wrapper .audio-player .audio-player-progress {
+    border-left-width: 16px;
+    border-right-width: 16px;
+  }
+}
+
+
+@media screen and (max-width: 650px) {
+  .audio-player-wrapper .audio-player .audio-player-progress .audio-player-progress-bar .audio-player-progress-bar-popup {
+    top: -54px;
+  }
+}
+
+
+@media screen and (max-width: 650px) {
+  .audio-player-wrapper-fancy .audio-player .audio-player-progress {
+    border-left-width: 16px;
+    border-right-width: 16px;
+  }
+}
+
+
+@media screen and (max-width: 650px) {
+  .audio-player-wrapper-fancy .audio-player .audio-player-progress .audio-player-progress-bar .audio-player-progress-bar-popup {
+    top: -54px;
+  }
+}
+
+
+@media (min-width: 250px) {
+  .audio-player-wrapper-fancy .audio-player {
+    padding: 32px;
+  }
+  .audio-player-wrapper-fancy .audio-player .btn-group {
+    display: flex;
+  }
+  .audio-player-wrapper-fancy .audio-player .btn-group .button:last-of-type {
+    display: block;
+  }
+}
+
+
+@media (min-width: 300px) {
+  .audio-player-wrapper-fancy .audio-player .btn-group {
+    display: block;
+  }
+  .audio-player-wrapper-fancy .audio-player .btn-group .button:first-of-type {
+    display: block;
+  }
+}
+
+
+@media (min-width: 350px) {
+  .audio-player-wrapper-fancy .audio-player .audio-player-substack-logo {
+    display: block;
+  }
+  .audio-player-wrapper-fancy .audio-player .audio-player-title {
+    margin-top: 16px;
+  }
+  .audio-player-wrapper-fancy .audio-player .audio-player-hero-image-container {
+    padding-top: 15%;
+    width: 15%;
+    display: block;
+  }
+  .audio-player-wrapper-fancy .audio-player .btn-group .button:first-of-type {
+    display: block;
+  }
+  .audio-player-wrapper-fancy .audio-player .audio-player-substack-logo {
+    display: block;
+  }
+}
+
+
+@media (min-width: 350px) {
+  .audio-player-wrapper-fancy .audio-player .audio-player-hero-image-container {
+    padding-top: 25%;
+    width: 25%;
+    display: block;
+  }
+  .audio-player-wrapper-fancy .audio-player .btn-group {
+    display: flex;
+  }
+  .audio-player-wrapper-fancy .audio-player .btn-group .button:first-of-type {
+    display: block;
+  }
+}
+
+
+@media (min-width: 400px) {
+  .audio-player-wrapper-fancy .audio-player .audio-player-hero-image-container {
+    padding-top: 40%;
+    width: 40%;
+  }
+}
+
+
+@media (max-width: 400px) {
+  .audio-player-wrapper-fancy .audio-player .btn-group {
+    margin-top: 12px;
+  }
+  .audio-player-wrapper-fancy .audio-player .btn-group .button {
+    font-size: 13px;
+    padding: 6px 12px;
+    height: auto;
+    margin-top: 10px;
+  }
+}
+
+
+@media (min-width: 600px) {
+  .audio-player-wrapper-fancy .audio-player .audio-player-hero-image-container {
+    padding-top: 55%;
+    width: 55%;
+  }
+}
+
+
+@media (max-width: 650px) {
+  .poll-editor-modal {
+    min-width: calc(100% - 20px);
+  }
+}
+
+
+@media (max-width: 750px) {
+  .poll-embed .poll-anchor-target .poll-anchor-copy-button {
+    left: 8px;
+    top: 45px;
+  }
+}
+
+
+@media screen and (min-width: 541px) {
+  .poll-embed .poll-wrapper.poll-web .poll-dialog .modal-table .modal-row .modal-content > .container {
+    width: 552px;
+    padding: 26px 24px;
+  }
+}
+
+
+@media screen and (max-width: 650px) {
+  .poll-embed .poll-wrapper.poll-web .poll-dialog .modal-table .modal-row .modal-content > .container {
+    padding: 40px 0;
+  }
+}
+
+
+@media screen and (max-width: 650px) {
+  .poll-embed .poll-wrapper.poll-web .poll-dialog .modal-row .modal-cell .modal-exit-btn {
+    margin-right: -20px;
+  }
+}
+</style></head><body class="email-body" style="font-kerning: auto;"><img src="https://eotrx.substackcdn.com/open?token=eyJtIjoiPDIwMjQwMjIwMTcxNTEyLjMuMGQ4OTFhYjY2YThmYzM1ZEBtZzIuc3Vic3RhY2suY29tPiIsInUiOjE0NTYzMzE5LCJyIjoiaXNoYW4ubWFpbEBnbWFpbC5jb20iLCJkIjoibWcyLnN1YnN0YWNrLmNvbSIsInAiOjE0MTg2NTI4NiwidCI6Im5ld3NsZXR0ZXIiLCJhIjoiZXZlcnlvbmUiLCJzIjo0NTg3MDksImMiOiJwb3N0IiwiZiI6dHJ1ZSwicG9zaXRpb24iOiJ0b3AiLCJpYXQiOjE3MDg0NDkzNjUsImV4cCI6MTcxMTA0MTM2NSwiaXNzIjoicHViLTAiLCJzdWIiOiJlbyJ9.tjQhI3ZjngntifcHz5hA05l3RLAUIwY27LeD20sh3Oc" alt="" width="1" height="1" border="0" style="height:1px !important;width:1px !important;border-width:0 !important;margin-top:0 !important;margin-bottom:0 !important;margin-right:0 !important;margin-left:0 !important;padding-top:0 !important;padding-bottom:0 !important;padding-right:0 !important;padding-left:0 !important;"/><div style="display:none;font-size:1px;color:#333333;line-height:1px;max-height:0px;max-width:0px;opacity:0;overflow:hidden;" class="preview">Just one year after its launch, ChatGPT had more than 100M weekly users. In order to meet this explosive demand, the team at OpenAI had to overcome several scaling challenges. An exclusive deepdive.</div><div style="display:none;font-size:1px;color:#333333;line-height:1px;max-height:0px;max-width:0px;opacity:0;overflow:hidden;" class="preview">&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;</div><table role="presentation" width="100%" border="0" cellspacing="0" cellpadding="0" class="email-body-container"><tr><td></td><td width="550" class="content"></td><td></td></tr><tr><td></td><td align="left" width="550" class="content"><div style="font-size: 16px; line-height: 26px; margin: 0 auto; max-width: 550px; overflow-wrap: break-word; width: 100%;"><table role="presentation" width="100%" border="0" cellspacing="0" cellpadding="0"><tr><td align="right" style="height: 20px;"><table role="presentation" width="auto" border="0" cellspacing="0" cellpadding="0"><tr><td style="vertical-align: middle;"><span class="pencraft pc-reset frontend-pencraft-Text-module__reset--dW0zZ tw-font-body tw-text-ssm tw-text-substack-secondary" style="color: rgb(128, 128, 128) !important; font-family: SF Pro Text, -apple-system, system-ui, BlinkMacSystemFont, Inter, Segoe UI, Roboto, Helvetica, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol !important; font-size: 13px !important; list-style: none; margin: 0; text-decoration: unset;"><div class="pencraft pc-reset frontend-pencraft-Text-module__align-right--PcYkZ frontend-pencraft-Text-module__size-12--KorQF frontend-pencraft-Text-module__reset--dW0zZ" style="color: unset; font-size: 12px; letter-spacing: 0px; line-height: 16px; list-style: none; margin: 0; text-align: right; text-decoration: unset;"><span translated class="pencraft pc-reset frontend-pencraft-Text-module__reset--dW0zZ" style="color: unset; list-style: none; margin: 0; text-decoration: unset;">Forwarded this email? <a href="https://substack.com/redirect/2/eyJlIjoiaHR0cHM6Ly9uZXdzbGV0dGVyLnByYWdtYXRpY2VuZ2luZWVyLmNvbS9zdWJzY3JpYmU_dXRtX3NvdXJjZT1lbWFpbCZ1dG1fY2FtcGFpZ249ZW1haWwtc3Vic2NyaWJlJnI9OG81NG4mbmV4dD1odHRwcyUzQSUyRiUyRm5ld3NsZXR0ZXIucHJhZ21hdGljZW5naW5lZXIuY29tJTJGcCUyRnNjYWxpbmctY2hhdGdwdCIsInAiOjE0MTg2NTI4NiwicyI6NDU4NzA5LCJmIjp0cnVlLCJ1IjoxNDU2MzMxOSwiaWF0IjoxNzA4NDQ5MzY1LCJleHAiOjE3MTEwNDEzNjUsImlzcyI6InB1Yi0wIiwic3ViIjoibGluay1yZWRpcmVjdCJ9.lxngmt32VXV2mgapgbvjuOp3YFvG8LRv1f2abUow-kY?" class="pencraft pc-reset frontend-pencraft-Text-module__decoration-underline--sj8pE frontend-pencraft-Text-module__reset--dW0zZ" style="color: unset; list-style: none; margin: 0; text-decoration: unset; text-decoration-line: underline;">Subscribe here</a> for more</span></div></span></td></tr></table></td></tr></table><table role="presentation" width="auto" class="header graphic-header" style="border-spacing: 0; padding: 16px 0 32px;"><tr><td align="center" style="padding: 0; text-align: center;"><a href="https://substack.com/redirect/2/eyJlIjoiaHR0cHM6Ly9uZXdzbGV0dGVyLnByYWdtYXRpY2VuZ2luZWVyLmNvbS9wL3NjYWxpbmctY2hhdGdwdD91dG1fY2FtcGFpZ249ZW1haWwtaGFsZi1wb3N0JnI9OG81NG4mdG9rZW49ZXlKMWMyVnlYMmxrSWpveE5EVTJNek14T1N3aWNHOXpkRjlwWkNJNk1UUXhPRFkxTWpnMkxDSnBZWFFpT2pFM01EZzBORGt6TmpVc0ltVjRjQ0k2TVRjeE1UQTBNVE0yTlN3aWFYTnpJam9pY0hWaUxUUTFPRGN3T1NJc0luTjFZaUk2SW5CdmMzUXRjbVZoWTNScGIyNGlmUS5SeFlfWV9zMzF5N1U5RDEwZS1INEphbmlHVmhBdjItcmhlbWhoZEMwSmZBIiwicCI6MTQxODY1Mjg2LCJzIjo0NTg3MDksImYiOnRydWUsInUiOjE0NTYzMzE5LCJpYXQiOjE3MDg0NDkzNjUsImV4cCI6MTcxMTA0MTM2NSwiaXNzIjoicHViLTAiLCJzdWIiOiJsaW5rLXJlZGlyZWN0In0.urq9YxYOBt4TNYOoTljH_KTeM2c2YqkITZRnnBzo8l4?"><img role="presentation" width="550" height="110" src="https://substackcdn.com/image/fetch/w_1100,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3f6c431d-310a-45a0-90fe-3dc43354ef38_1100x220.png" class="header-image" style="border: none !important; display: block; height: auto; margin: 0 auto; max-width: 550px; vertical-align: middle; width: 100%;"></a></td></tr></table><div class="typography" style="font-size: 16px; line-height: 26px;"><div class="preamble" style="font-size: 16px; line-height: 26px; margin-top: 16px;"><div dir="auto" class="body markup" style="font-size: 16px; line-height: 26px; margin-bottom: 16px; text-align: initial; width: 100%; word-break: break-word;"><p style="color: rgb(64, 64, 64); font-size: 16px; line-height: 26px; margin: 0 0 20px 0; margin-bottom: 0; margin-top: 0;"><em><span>&#128075; Hi, this is </span><a href="https://substack.com/redirect/ad6a4fed-ca02-4b53-a9cb-46a575938c67?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel style="color: rgb(64, 64, 64); text-decoration: underline;">Gergely</a><span> with a free issue of the Pragmatic Engineer Newsletter. In every issue, I cover challenges at Big Tech and startups through the lens of engineering managers and senior engineers. If you&#8217;ve been forwarded this email, you can </span><a href="https://substack.com/redirect/ee6b9aec-6f6d-4166-bf5a-bb8ec8621474?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel style="color: rgb(64, 64, 64); text-decoration: underline;">subscribe here</a><span>.</span></em></p></div><hr style="background: #e0e0e0; border: none; height: 1px; margin: 16px 0 0; padding: 0;"></div></div><div dir="auto" class="post typography" style="font-size: 16px; line-height: 26px; padding: 16px 0 0 0;"><div class="post-header" style="font-size: 16px; line-height: 26px;"><h1 class="post-title published" style="-moz-appearance: optimizelegibility; -moz-osx-font-smoothing: antialiased; -webkit-appearance: optimizelegibility; -webkit-font-smoothing: antialiased; appearance: optimizelegibility; color: rgb(64, 64, 64); font-family: Lora,sans-serif; font-size: 32px; font-weight: 600; line-height: 36px; margin: 0;"><a href="https://substack.com/app-link/post?publication_id=458709&post_id=141865286&utm_source=post-email-title&utm_campaign=email-post-title&isFreemail=true&r=8o54n&token=eyJ1c2VyX2lkIjoxNDU2MzMxOSwicG9zdF9pZCI6MTQxODY1Mjg2LCJpYXQiOjE3MDg0NDkzNjUsImV4cCI6MTcxMTA0MTM2NSwiaXNzIjoicHViLTQ1ODcwOSIsInN1YiI6InBvc3QtcmVhY3Rpb24ifQ.RxY_Y_s31y7U9D10e-H4JaniGVhAv2-rhemhhdC0JfA" style="color: rgb(64, 64, 64); text-decoration: none;">Scaling ChatGPT: Five Real-World Engineering Challenges</a></h1><h3 class="subtitle" style="-moz-appearance: optimizelegibility; -moz-osx-font-smoothing: antialiased; -webkit-appearance: optimizelegibility; -webkit-font-smoothing: antialiased; appearance: optimizelegibility; color: #808080; font-family: 'SF Compact Display', -apple-system, system-ui, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 18px; font-weight: normal; line-height: 24px; margin: 4px 0 0; margin-top: 12px;">Just one year after its launch, ChatGPT had more than 100M weekly users. In order to meet this explosive demand, the team at OpenAI had to overcome several scaling challenges. An exclusive deepdive.</h3><table role="presentation" width="100%" border="0" cellspacing="0" cellpadding="0" class="post-meta" style="align-items: center; height: 20px; margin: 1em 0;"><tr><td><table role="presentation" width="auto" border="0" cellspacing="0" cellpadding="0"><tr><td><table role="presentation" width="auto" border="0" cellspacing="0" cellpadding="0"><tr><td style="vertical-align: middle;"><div class="pencraft pc-reset frontend-pencraft-Text-module__color-primary--ud4Z0 frontend-pencraft-Text-module__line-height-20--p0dP8 frontend-pencraft-Text-module__font-meta--U_nxy frontend-pencraft-Text-module__size-11--k1e8b frontend-pencraft-Text-module__weight-medium--x7khA frontend-pencraft-Text-module__transform-uppercase--IDkUL frontend-pencraft-Text-module__reset--dW0zZ frontend-pencraft-Text-module__meta--jzHdd custom-css-email-post-author" style="color: rgb(64, 64, 64); font-family: 'SF Compact', -apple-system, system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 11px; font-weight: 500; letter-spacing: .2px; line-height: 20px; list-style: none; margin: 0; text-decoration: unset; text-transform: uppercase;"><a style="color: rgb(64, 64, 64); font-family: 'SF Compact', -apple-system, system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 11px; font-weight: 500; letter-spacing: .2px; line-height: 20px; list-style: none; margin: 0; text-decoration: none; text-transform: uppercase;" href="https://substack.com/redirect/77289c8d-285c-4275-b460-0af43407013e?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" class="pencraft pc-reset frontend-pencraft-Text-module__color-primary--ud4Z0 frontend-pencraft-Text-module__line-height-20--p0dP8 frontend-pencraft-Text-module__font-meta--U_nxy frontend-pencraft-Text-module__size-11--k1e8b frontend-pencraft-Text-module__weight-medium--x7khA frontend-pencraft-Text-module__transform-uppercase--IDkUL frontend-pencraft-Text-module__reset--dW0zZ frontend-pencraft-Text-module__meta--jzHdd">Gergely Orosz</a></div></td></tr></table></td></tr><tr><td><table role="presentation" width="auto" border="0" cellspacing="0" cellpadding="0"><tr><td style="vertical-align: middle;"><div class="pencraft pc-reset frontend-pencraft-Text-module__color-secondary--WRADg frontend-pencraft-Text-module__line-height-20--p0dP8 frontend-pencraft-Text-module__font-meta--U_nxy frontend-pencraft-Text-module__size-11--k1e8b frontend-pencraft-Text-module__weight-medium--x7khA frontend-pencraft-Text-module__transform-uppercase--IDkUL frontend-pencraft-Text-module__reset--dW0zZ frontend-pencraft-Text-module__meta--jzHdd" style="color: rgb(128, 128, 128); font-family: 'SF Compact', -apple-system, system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 11px; font-weight: 500; letter-spacing: .2px; line-height: 20px; list-style: none; margin: 0; text-decoration: unset; text-transform: uppercase;"><time dateTime="2024-02-20T17:15:39.067Z">Feb 20</time></div></td></tr></table></td></tr></table></td><td align="right"><table role="presentation" width="auto" border="0" cellspacing="0" cellpadding="0"><tr><td style="vertical-align: middle;"><a href="https://substack.com/redirect/77289c8d-285c-4275-b460-0af43407013e?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o"><img src="https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F802a32bb-2048-428b-bdb5-d6acd1e2b2d5_48x48.png" style="border: none !important; border-radius: 500000px; box-sizing: border-box; display: inline; height: 40px; margin: 0px; max-width: 550px; min-height: 40px; min-width: 40px; object-fit: cover; vertical-align: middle; width: 40px;" width="40" height="40" class="custom-css-email-avatar frontend-email-system-basics-module__avatar--eNC1i"></a></td></tr></table></td></tr></table><table role="presentation" width="100%" border="0" cellspacing="0" cellpadding="0" class="email-ufi-2-top" style="border-bottom: 1px solid rgba(0, 0, 0, .13); border-top: 1px solid rgba(0, 0, 0, .13); min-width: 100%;"><tr height="16"><td height="16" style="font-size: 0px; line-height: 0;">&#160;</td></tr><tr><td><table role="presentation" width="100%" border="0" cellspacing="0" cellpadding="0"><tr><td><table role="presentation" width="auto" border="0" cellspacing="0" cellpadding="0"><tr><td style="vertical-align: middle;"><table role="presentation" width="38" border="0" cellspacing="0" cellpadding="0"><tr><td align="center"><a href="https://substack.com/app-link/post?publication_id=458709&post_id=141865286&utm_source=substack&isFreemail=true&submitLike=true&token=eyJ1c2VyX2lkIjoxNDU2MzMxOSwicG9zdF9pZCI6MTQxODY1Mjg2LCJyZWFjdGlvbiI6IuKdpCIsImlhdCI6MTcwODQ0OTM2NSwiZXhwIjoxNzExMDQxMzY1LCJpc3MiOiJwdWItNDU4NzA5Iiwic3ViIjoicmVhY3Rpb24ifQ.kbH4M5fDtEAVLdU5mmpcl4euJtzuH1EsEgQ1MJ-Gmso&utm_medium=email&utm_campaign=email-reaction&r=8o54n" style="border: 1px solid rgba(0, 0, 0, .13); border-radius: 9999px; box-sizing: border-box; color: rgb(128, 128, 128); display: inline-block; font-family: 'SF Pro Text', -apple-system, system-ui, BlinkMacSystemFont, ui-sans-serif, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 12px; font-weight: 500; line-height: 1; min-width: 38px; padding: 9px 0; text-decoration: none; text-transform: uppercase; width: 38px;" class="email-icon-button"><img src="https://substackcdn.com/image/fetch/w_36,c_scale,f_png,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack.com%2Ficon%2FLucideHeart%3Fv%3D4%26height%3D36%26fill%3Dnone%26stroke%3D%2523808080%26strokeWidth%3D2" width="18" height="18" style="border: none !important; max-width: 18px; vertical-align: middle;" alt class="icon"></a></td></tr></table></td><td width="8" style="min-width: 8px"></td><td style="vertical-align: middle;"><table role="presentation" width="38" border="0" cellspacing="0" cellpadding="0"><tr><td align="center"><a href="https://substack.com/app-link/post?publication_id=458709&post_id=141865286&utm_source=substack&utm_medium=email&isFreemail=true&comments=true&token=eyJ1c2VyX2lkIjoxNDU2MzMxOSwicG9zdF9pZCI6MTQxODY1Mjg2LCJpYXQiOjE3MDg0NDkzNjUsImV4cCI6MTcxMTA0MTM2NSwiaXNzIjoicHViLTQ1ODcwOSIsInN1YiI6InBvc3QtcmVhY3Rpb24ifQ.RxY_Y_s31y7U9D10e-H4JaniGVhAv2-rhemhhdC0JfA&r=8o54n&utm_campaign=email-half-magic-comments&utm_source=substack&utm_medium=email" style="border: 1px solid rgba(0, 0, 0, .13); border-radius: 9999px; box-sizing: border-box; color: rgb(128, 128, 128); display: inline-block; font-family: 'SF Pro Text', -apple-system, system-ui, BlinkMacSystemFont, ui-sans-serif, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 12px; font-weight: 500; line-height: 1; min-width: 38px; padding: 9px 0; text-decoration: none; text-transform: uppercase; width: 38px;" class="email-icon-button"><img src="https://substackcdn.com/image/fetch/w_36,c_scale,f_png,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack.com%2Ficon%2FLucideComments%3Fv%3D4%26height%3D36%26fill%3Dnone%26stroke%3D%2523808080%26strokeWidth%3D2" width="18" height="18" style="border: none !important; max-width: 18px; vertical-align: middle;" alt class="icon"></a></td></tr></table></td><td width="8" style="min-width: 8px"></td><td style="vertical-align: middle;"><table role="presentation" width="38" border="0" cellspacing="0" cellpadding="0"><tr><td align="center"><a href="https://substack.com/app-link/post?publication_id=458709&post_id=141865286&utm_source=substack&utm_medium=email&utm_content=share&utm_campaign=email-share&action=share&triggerShare=true&isFreemail=true&r=8o54n&token=eyJ1c2VyX2lkIjoxNDU2MzMxOSwicG9zdF9pZCI6MTQxODY1Mjg2LCJpYXQiOjE3MDg0NDkzNjUsImV4cCI6MTcxMTA0MTM2NSwiaXNzIjoicHViLTQ1ODcwOSIsInN1YiI6InBvc3QtcmVhY3Rpb24ifQ.RxY_Y_s31y7U9D10e-H4JaniGVhAv2-rhemhhdC0JfA" style="border: 1px solid rgba(0, 0, 0, .13); border-radius: 9999px; box-sizing: border-box; color: rgb(128, 128, 128); display: inline-block; font-family: 'SF Pro Text', -apple-system, system-ui, BlinkMacSystemFont, ui-sans-serif, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 12px; font-weight: 500; line-height: 1; min-width: 38px; padding: 9px 0; text-decoration: none; text-transform: uppercase; width: 38px;" class="email-icon-button"><img src="https://substackcdn.com/image/fetch/w_36,c_scale,f_png,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack.com%2Ficon%2FLucideShare2%3Fv%3D4%26height%3D36%26fill%3Dnone%26stroke%3D%2523808080%26strokeWidth%3D2" width="18" height="18" style="border: none !important; max-width: 18px; vertical-align: middle;" alt class="icon"></a></td></tr></table></td><td width="8" style="min-width: 8px"></td><td style="vertical-align: middle;"><table role="presentation" width="38" border="0" cellspacing="0" cellpadding="0"><tr><td align="center"><a href="https://substack.com/redirect/2/eyJlIjoiaHR0cHM6Ly9vcGVuLnN1YnN0YWNrLmNvbS9wdWIvcHJhZ21hdGljZW5naW5lZXIvcC9zY2FsaW5nLWNoYXRncHQ_dXRtX3NvdXJjZT1zdWJzdGFjayZ1dG1fbWVkaXVtPWVtYWlsJnV0bV9jYW1wYWlnbj1lbWFpbC1yZXN0YWNrLWNvbW1lbnQmYWN0aW9uPXJlc3RhY2stY29tbWVudCZyPThvNTRuJnRva2VuPWV5SjFjMlZ5WDJsa0lqb3hORFUyTXpNeE9Td2ljRzl6ZEY5cFpDSTZNVFF4T0RZMU1qZzJMQ0pwWVhRaU9qRTNNRGcwTkRrek5qVXNJbVY0Y0NJNk1UY3hNVEEwTVRNMk5Td2lhWE56SWpvaWNIVmlMVFExT0Rjd09TSXNJbk4xWWlJNkluQnZjM1F0Y21WaFkzUnBiMjRpZlEuUnhZX1lfczMxeTdVOUQxMGUtSDRKYW5pR1ZoQXYyLXJoZW1oaGRDMEpmQSIsInAiOjE0MTg2NTI4NiwicyI6NDU4NzA5LCJmIjp0cnVlLCJ1IjoxNDU2MzMxOSwiaWF0IjoxNzA4NDQ5MzY1LCJleHAiOjE3MTEwNDEzNjUsImlzcyI6InB1Yi0wIiwic3ViIjoibGluay1yZWRpcmVjdCJ9.TWMER52Pirz2ZifdBBEK-31ycVlodgWBff11EGMJ2oc?&utm_source=substack&utm_medium=email" style="border: 1px solid rgba(0, 0, 0, .13); border-radius: 9999px; box-sizing: border-box; color: rgb(128, 128, 128); display: inline-block; font-family: 'SF Pro Text', -apple-system, system-ui, BlinkMacSystemFont, ui-sans-serif, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 12px; font-weight: 500; line-height: 1; min-width: 38px; padding: 9px 0; text-decoration: none; text-transform: uppercase; width: 38px;" class="email-icon-button"><img src="https://substackcdn.com/image/fetch/w_36,c_scale,f_png,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack.com%2Ficon%2FNoteForwardIcon%3Fv%3D4%26height%3D36%26fill%3Dnone%26stroke%3D%2523808080%26strokeWidth%3D2" width="18" height="18" style="border: none !important; max-width: 18px; vertical-align: middle;" alt class="icon"></a></td></tr></table></td></tr></table></td><td align="right"><table role="presentation" width="auto" border="0" cellspacing="0" cellpadding="0"><tr><td style="vertical-align: middle;"><table role="presentation" width="auto" border="0" cellspacing="0" cellpadding="0"><tr><td align="center"><a href="https://open.substack.com/pub/pragmaticengineer/p/scaling-chatgpt?utm_source=email&redirect=app-store" class="email-button-outline" style="border: 1px solid rgba(0, 0, 0, .13); border-radius: 9999px; color: rgb(128, 128, 128); display: inline-block; font-family: 'SF Pro Text', -apple-system, system-ui, BlinkMacSystemFont, ui-sans-serif, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 12px; font-weight: 500; line-height: 12px; padding: 9px 14px; text-decoration: none; text-transform: uppercase;"><div class="email-button-spacer" style="display: inline-block; font-size: 16px; line-height: 26px; max-width: 0; min-height: 18px; vertical-align: middle;"></div><span style="margin-right: 4px; vertical-align: middle;" class="email-button-text">READ IN APP</span><img src="https://substackcdn.com/image/fetch/w_36,c_scale,f_png,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack.com%2Ficon%2FLucideArrowUpRight%3Fv%3D4%26height%3D36%26fill%3Dnone%26stroke%3D%2523808080%26strokeWidth%3D2" width="18" height="18" style="border: none !important; margin-left: 0; margin-right: 0; max-width: 18px; min-height: 18px; min-width: 18px; vertical-align: middle;" alt class="icon text-icon"></a></td></tr></table></td></tr></table></td></tr></table></td></tr><tr height="16"><td height="16" style="font-size: 0px; line-height: 0;">&#160;</td></tr></table></div></div><div dir="auto" class="post typography" style="font-size: 16px; line-height: 26px; padding: 16px 0 0 0;"><div dir="auto" class="body markup" style="font-family: 'SF Pro Display', -apple-system, system-ui, BlinkMacSystemFont, 'Inter', 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 16px; font-weight: 400; line-height: 26px; margin-bottom: 16px; text-align: initial; width: 100%; word-break: break-word;"><p style="color: rgb(64, 64, 64); font-size: 16px; line-height: 26px; margin: 0 0 20px 0; margin-top: 0;"><em><span>Before we start, a request: I&#8217;m researching what it&#8217;s like to work with GenZ software developers, and what they think of the &#8220;older&#8221; generation. </span><a href="https://substack.com/redirect/7ee3dfa9-992f-4b8b-89a4-f94db5de2bf0?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel style="color: rgb(64, 64, 64); text-decoration: underline;">Please help by sharing your observations here</a><span>. This is all uncharted territory &#8211; and should be an interesting one, and helpful for all of us!</span></em></p><p style="color: rgb(64, 64, 64); font-size: 16px; line-height: 26px; margin: 0 0 20px 0;"><em><span>&#8216;Real-world engineering challenges&#8217; is </span><a href="https://substack.com/redirect/12a22016-1701-41da-8ca3-7646678d2956?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel style="color: rgb(64, 64, 64); text-decoration: underline;">a series</a><span> in which I interpret interesting software engineering or engineering management case studies from tech companies.</span></em></p><p style="color: rgb(64, 64, 64); font-size: 16px; line-height: 26px; margin: 0 0 20px 0;"><span>In November 2022, ChatGTP took the world by storm, in what it&#8217;s safe to say was the biggest &#8220;wow!&#8221; moment yet for applied Artificial Intelligence (AI,) and the catalyst for the continuing surge of investment in the technology, today. CEO Sam Altman </span><a href="https://substack.com/redirect/acad85d4-766e-46e9-b2d0-9e46efa0c5a7?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel style="color: rgb(64, 64, 64); text-decoration: underline;">announced</a><span> the product&#8217;s unprecedented growth in November 2023.</span></p><p style="color: rgb(64, 64, 64); font-size: 16px; line-height: 26px; margin: 0 0 20px 0;"><span>We previously covered </span><a href="https://substack.com/redirect/ba1fccca-cf55-4832-965b-6a0e660a73ce?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel style="color: rgb(64, 64, 64); text-decoration: underline;">how OpenAI and the ChatGPT team ships so quickly</a><span>. In that article, we look into the setup of the organization, the Applied team&#8217;s integration with Research, a strategy of uncoupled and incremental releases, </span><a href="https://substack.com/redirect/ba1fccca-cf55-4832-965b-6a0e660a73ce?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel style="color: rgb(64, 64, 64); text-decoration: underline;">and more</a><span>.</span></p><p style="color: rgb(64, 64, 64); font-size: 16px; line-height: 26px; margin: 0 0 20px 0;"><span>But what about the very real scaling challenges that come with explosive growth? To learn more, I&#8217;ve again turned to </span><a href="https://substack.com/redirect/0b7374fd-ce7b-4155-a4b0-5582abd81a7c?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel style="color: rgb(64, 64, 64); text-decoration: underline;">Evan Morikawa</a><span>, who led the Applied engineering team as ChatGPT launched and scaled.</span></p><p style="color: rgb(64, 64, 64); font-size: 16px; line-height: 26px; margin: 0 0 20px 0;">Today, Evan reveals the engineering challenges and how the team tackled them. We cover:</p><ol style="margin-top: 0; padding: 0;"><li style="margin: 8px 0 0 32px;"><p style="box-sizing: border-box; color: rgb(64, 64, 64); font-size: 16px; line-height: 26px; margin: 0; margin-bottom: 0; padding-left: 4px;">A refresher on OpenAI, and an introduction to Evan</p></li><li style="margin: 8px 0 0 32px;"><p style="box-sizing: border-box; color: rgb(64, 64, 64); font-size: 16px; line-height: 26px; margin: 0; margin-bottom: 0; padding-left: 4px;">Importance of GPUs</p></li><li style="margin: 8px 0 0 32px;"><p style="box-sizing: border-box; color: rgb(64, 64, 64); font-size: 16px; line-height: 26px; margin: 0; margin-bottom: 0; padding-left: 4px;">How does ChatGPT4 work?</p></li><li style="margin: 8px 0 0 32px;"><p style="box-sizing: border-box; color: rgb(64, 64, 64); font-size: 16px; line-height: 26px; margin: 0 0 20px 0; margin-bottom: 0; padding-left: 4px;">Five scaling challenges:&#160;</p><ul style="margin-top: 0; padding: 0;"><li style="margin: 8px 0 0 32px; mso-special-format: bullet;"><p style="box-sizing: border-box; color: rgb(64, 64, 64); font-size: 16px; line-height: 26px; margin: 0; margin-bottom: 0; padding-left: 4px;">KV Cache &amp; GPU RAM</p></li><li style="margin: 8px 0 0 32px; mso-special-format: bullet;"><p style="box-sizing: border-box; color: rgb(64, 64, 64); font-size: 16px; line-height: 26px; margin: 0; margin-bottom: 0; padding-left: 4px;">Optimizing batch size</p></li><li style="margin: 8px 0 0 32px; mso-special-format: bullet;"><p style="box-sizing: border-box; color: rgb(64, 64, 64); font-size: 16px; line-height: 26px; margin: 0; margin-bottom: 0; padding-left: 4px;">Finding the right metrics to measure</p></li><li style="margin: 8px 0 0 32px; mso-special-format: bullet;"><p style="box-sizing: border-box; color: rgb(64, 64, 64); font-size: 16px; line-height: 26px; margin: 0; margin-bottom: 0; padding-left: 4px;">Finding GPUs wherever they are</p></li><li style="margin: 8px 0 0 32px; mso-special-format: bullet;"><p style="box-sizing: border-box; color: rgb(64, 64, 64); font-size: 16px; line-height: 26px; margin: 0; margin-bottom: 0; padding-left: 4px;">Inability to autoscale</p></li></ul></li><li style="margin: 8px 0 0 32px;"><p style="box-sizing: border-box; color: rgb(64, 64, 64); font-size: 16px; line-height: 26px; margin: 0; margin-bottom: 0; padding-left: 4px;">Lessons learned</p></li></ol><p style="color: rgb(64, 64, 64); font-size: 16px; line-height: 26px; margin: 0 0 20px 0;">With that, it&#8217;s over to Evan.</p><h2 class="header-with-anchor-widget" style="-moz-appearance: optimizelegibility; -moz-osx-font-smoothing: antialiased; -webkit-appearance: optimizelegibility; -webkit-font-smoothing: antialiased; appearance: optimizelegibility; color: rgb(64, 64, 64); font-family: 'SF Compact Display', -apple-system, system-ui, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 1.625em; font-weight: bold; line-height: 1.16em; margin: 1em 0 0.625em 0; position: relative;">1. A refresher on OpenAI, and on Evan</h2><p style="color: rgb(64, 64, 64); font-size: 16px; line-height: 26px; margin: 0 0 20px 0;"><em>How did you join OpenAI, and end up heading the Applied engineering group &#8211; which also builds ChatGPT?</em></p><p style="color: rgb(64, 64, 64); font-size: 16px; line-height: 26px; margin: 0 0 20px 0;"><span>OpenAI is the creator of ChatGPT, which is just one of the business&#8217; products. Other shipped things include </span><a href="https://substack.com/redirect/5fda957f-2983-49b1-84b5-141ac04f9ad0?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel style="color: rgb(64, 64, 64); text-decoration: underline;">DALL&#183;E 3</a><span> (image generation,) </span><a href="https://substack.com/redirect/99b60a2d-c015-4236-92ff-b9a7870b6db7?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel style="color: rgb(64, 64, 64); text-decoration: underline;">GPT-4</a><span> (an advanced model,) and the </span><a href="https://substack.com/redirect/382a3778-fc49-4957-8738-1fdd873597d7?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel style="color: rgb(64, 64, 64); text-decoration: underline;">OpenAI API</a><span> which developers and companies use to integrate AI into their processes. ChatGPT and the API each expose several classes of model: GPT-3, GPT-3.5, and GPT-4.</span></p><p style="color: rgb(64, 64, 64); font-size: 16px; line-height: 26px; margin: 0 0 20px 0;"><span>The engineering, product, and design organization that makes and scales these products is called &quot;Applied,&quot; and was founded in 2020 when GPT-3 was released. It&#8217;s broadly chartered with safely bringing OpenAI's research to the world. OpenAI itself was founded in 2015 and at the company&#8217;s core today is still a research lab with the </span><a href="https://substack.com/redirect/16d07fc1-c3ce-4f8c-8639-7f1f2f39f5f6?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel style="color: rgb(64, 64, 64); text-decoration: underline;">goal</a><span> of creating a safe and aligned artificial general intelligence (AGI.)</span></p><div class="captioned-image-container-static" style="font-size: 16px; line-height: 26px; margin: 32px auto;"><figure style="margin: 0 auto; width: 100%;"><table class="image-wrapper" width="100%" border="0" cellspacing="0" cellpadding="0" data-component-name="Image2ToDOMStatic" style="mso-padding-alt: 1em 0 1.6em;"><tbody><tr><td style="text-align: center;"></td><td align="left" class="content" width="1448" style="text-align: center;"><a class="image-link" target="_blank" href="https://substack.com/redirect/0af02a54-d914-49b1-8496-4b5635d07ca0?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel style="align-items: center; border: none; display: block; flex-direction: column; height: auto; margin: 0; padding: 0; position: relative; text-decoration: none; width: auto;"><img data-attrs="{&quot;src&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/faabc188-df57-46c9-82a1-17d0a34df51f_1448x766.png&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:null,&quot;height&quot;:766,&quot;width&quot;:1448,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:null,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:null,&quot;href&quot;:null,&quot;belowTheFold&quot;:true,&quot;topImage&quot;:false,&quot;internalRedirect&quot;:null}" alt width="550" height="290.95303867403317" class="wide-image" src="https://substackcdn.com/image/fetch/w_2896,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffaabc188-df57-46c9-82a1-17d0a34df51f_1448x766.png" style="-ms-interpolation-mode: bicubic; border: none !important; display: block; height: auto; margin: 0 auto; margin-bottom: 0; max-width: 100% !important; vertical-align: middle; width: auto !important;"></a></td><td style="text-align: center;"></td></tr></tbody></table><figcaption class="image-caption" style="box-sizing: content-box; color: #808080; font-size: 14px; font-weight: 400; letter-spacing: -.15px; line-height: 20px; margin-top: 8px; padding-left: 15%; padding-right: 15%; text-align: center; width: 70%;">The Applied group and ChatGPT within OpenAI</figcaption></figure></div><p style="color: rgb(64, 64, 64); font-size: 16px; line-height: 26px; margin: 0 0 20px 0;"><span>I joined OpenAI in October 2020 when Applied was brand new. I do </span><em>not</em><span> have a PhD in Machine Learning, and was excited by the idea of building APIs and engineering teams. I managed our entire Applied Engineering org from its earliest days through the launch and scaling of ChatGPT. </span><em><span>We cover more on Evan&#8217;s story in </span><a href="https://substack.com/redirect/ba1fccca-cf55-4832-965b-6a0e660a73ce?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel style="color: rgb(64, 64, 64); text-decoration: underline;">Inside OpenAI: how does ChatGPT ship so quickly?</a><span>&#160;</span></em></p><h2 class="header-with-anchor-widget" style="-moz-appearance: optimizelegibility; -moz-osx-font-smoothing: antialiased; -webkit-appearance: optimizelegibility; -webkit-font-smoothing: antialiased; appearance: optimizelegibility; color: rgb(64, 64, 64); font-family: 'SF Compact Display', -apple-system, system-ui, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 1.625em; font-weight: bold; line-height: 1.16em; margin: 1em 0 0.625em 0; position: relative;">2. How does ChatGPT work? A refresher.</h2><p style="color: rgb(64, 64, 64); font-size: 16px; line-height: 26px; margin: 0 0 20px 0;"><em>For those of us who have not spent the past few years building ChatGPT from the ground up, how does it work?</em></p><p style="color: rgb(64, 64, 64); font-size: 16px; line-height: 26px; margin: 0 0 20px 0;">In order to introduce some scaling topics, let me give a quick introduction about how these AI models work. If you're familiar with the basics, skip to section 3.</p><p style="color: rgb(64, 64, 64); font-size: 16px; line-height: 26px; margin: 0 0 20px 0;">When you ask ChatGPT a question, several steps happen:</p><ol style="margin-top: 0; padding: 0;"><li style="margin: 8px 0 0 32px;"><p style="box-sizing: border-box; color: rgb(64, 64, 64); font-size: 16px; line-height: 26px; margin: 0; margin-bottom: 0; padding-left: 4px;"><strong>Input.</strong><span> We take your text from the text input.</span></p></li><li style="margin: 8px 0 0 32px;"><p style="box-sizing: border-box; color: rgb(64, 64, 64); font-size: 16px; line-height: 26px; margin: 0; margin-bottom: 0; padding-left: 4px;"><strong>Tokenization.</strong><span> We chunk it into tokens. A token roughly maps to a couple of unicode characters. You can think of it as a word.&#160;</span></p></li><li style="margin: 8px 0 0 32px;"><p style="box-sizing: border-box; color: rgb(64, 64, 64); font-size: 16px; line-height: 26px; margin: 0; margin-bottom: 0; padding-left: 4px;"><strong>Create embeddings. </strong><span>We turn each token into a vector of numbers. These are called embeddings.&#160;</span></p></li><li style="margin: 8px 0 0 32px;"><p style="box-sizing: border-box; color: rgb(64, 64, 64); font-size: 16px; line-height: 26px; margin: 0; margin-bottom: 0; padding-left: 4px;"><strong>Multiply embeddings by model weights.</strong><span> We then multiply these embeddings by hundreds of billions of model weights.</span></p></li><li style="margin: 8px 0 0 32px;"><p style="box-sizing: border-box; color: rgb(64, 64, 64); font-size: 16px; line-height: 26px; margin: 0; margin-bottom: 0; padding-left: 4px;"><strong>Sample a prediction. </strong><span>At the end of this multiplication, the vector of numbers represents the probability of the next most likely token. That next most likely token are the next few characters that spit out of ChatGPT.</span></p></li></ol><p style="color: rgb(64, 64, 64); font-size: 16px; line-height: 26px; margin: 0 0 20px 0;">Let&#8217;s visualize these steps. The first two are straightforward:</p><div class="captioned-image-container-static" style="font-size: 16px; line-height: 26px; margin: 32px auto;"><figure style="margin: 0 auto; width: 100%;"><table class="image-wrapper" width="100%" border="0" cellspacing="0" cellpadding="0" data-component-name="Image2ToDOMStatic" style="mso-padding-alt: 1em 0 1.6em;"><tbody><tr><td style="text-align: center;"></td><td align="left" class="content" width="1060" style="text-align: center;"><a class="image-link" target="_blank" href="https://substack.com/redirect/2b8ec5b9-079e-4177-849b-7a245f8b7c8d?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel style="align-items: center; border: none; display: block; flex-direction: column; height: auto; margin: 0; padding: 0; position: relative; text-decoration: none; width: auto;"><img data-attrs="{&quot;src&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/44bfd9f6-1f23-47f4-8311-dd4b78f9889a_1060x624.png&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:null,&quot;height&quot;:624,&quot;width&quot;:1060,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:null,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:null,&quot;href&quot;:null,&quot;belowTheFold&quot;:true,&quot;topImage&quot;:false,&quot;internalRedirect&quot;:null}" alt width="550" height="323.77358490566036" class="wide-image" src="https://substackcdn.com/image/fetch/w_2120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F44bfd9f6-1f23-47f4-8311-dd4b78f9889a_1060x624.png" style="-ms-interpolation-mode: bicubic; border: none !important; display: block; height: auto; margin: 0 auto; margin-bottom: 0; max-width: 100% !important; vertical-align: middle; width: auto !important;"></a></td><td style="text-align: center;"></td></tr></tbody></table><figcaption class="image-caption" style="box-sizing: content-box; color: #808080; font-size: 14px; font-weight: 400; letter-spacing: -.15px; line-height: 20px; margin-top: 8px; padding-left: 15%; padding-right: 15%; text-align: center; width: 70%;"><span>Steps 1 and 2 of </span><em>what happens when you ask ChatGPT a question</em></figcaption></figure></div><p style="color: rgb(64, 64, 64); font-size: 16px; line-height: 26px; margin: 0 0 20px 0;">Note that tokenization doesn&#8217;t necessarily mean splitting text into words; tokens can be subsets of words as well.&#160;</p><p style="color: rgb(64, 64, 64); font-size: 16px; line-height: 26px; margin: 0 0 20px 0;"><strong>Embeddings</strong><span> are at the heart of large language models (LLM), and we create them from tokens in the next step:</span></p><div class="captioned-image-container-static" style="font-size: 16px; line-height: 26px; margin: 32px auto;"><figure style="margin: 0 auto; width: 100%;"><table class="image-wrapper" width="100%" border="0" cellspacing="0" cellpadding="0" data-component-name="Image2ToDOMStatic" style="mso-padding-alt: 1em 0 1.6em;"><tbody><tr><td style="text-align: center;"></td><td align="left" class="content" width="1144" style="text-align: center;"><a class="image-link" target="_blank" href="https://substack.com/redirect/5a0f1a46-8780-4f21-bf75-b24aee0581b8?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel style="align-items: center; border: none; display: block; flex-direction: column; height: auto; margin: 0; padding: 0; position: relative; text-decoration: none; width: auto;"><img data-attrs="{&quot;src&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/ed78c08a-d0e7-4584-8cee-74deaa3b689e_1144x594.png&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:null,&quot;height&quot;:594,&quot;width&quot;:1144,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:null,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:null,&quot;href&quot;:null,&quot;belowTheFold&quot;:true,&quot;topImage&quot;:false,&quot;internalRedirect&quot;:null}" alt width="550" height="285.5769230769231" class="wide-image" src="https://substackcdn.com/image/fetch/w_2288,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fed78c08a-d0e7-4584-8cee-74deaa3b689e_1144x594.png" style="-ms-interpolation-mode: bicubic; border: none !important; display: block; height: auto; margin: 0 auto; margin-bottom: 0; max-width: 100% !important; vertical-align: middle; width: auto !important;"></a></td><td style="text-align: center;"></td></tr></tbody></table><figcaption class="image-caption" style="box-sizing: content-box; color: #808080; font-size: 14px; font-weight: 400; letter-spacing: -.15px; line-height: 20px; margin-top: 8px; padding-left: 15%; padding-right: 15%; text-align: center; width: 70%;"><span>Step 3 of </span><em>what happens when you ask ChatGPT a question. Embeddings represent tokens as vectors. The values in the above embedding are examples</em></figcaption></figure></div><p style="color: rgb(64, 64, 64); font-size: 16px; line-height: 26px; margin: 0 0 20px 0;"><span>An embedding is a multi-dimensional representation of a token. We explicitly train </span><a href="https://substack.com/redirect/0f598742-ed08-468e-9ab4-67c32c5fdc1d?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel style="color: rgb(64, 64, 64); text-decoration: underline;">some of our models</a><span> to explicitly allow the capture of semantic meanings and relationships between words or phrases. For example, the embedding for &#8220;dog&#8221; and &#8220;puppy&#8221; are closer together in several dimensions than &#8220;dog&#8221; and &#8220;computer&#8221; are. These multi-dimensional embeddings help machines understand human language more efficiently.</span></p><p style="color: rgb(64, 64, 64); font-size: 16px; line-height: 26px; margin: 0 0 20px 0;"><strong>Model weights </strong><span>are used to calculate a weighted embedding matrix, which is used to predict the next likely token. For this step, we need to use OpenAI&#8217;s weight matrix, which consists of hundreds of billions of weights, and multiply it by a matrix we construct from the embeddings. This is a compute-intensive multiplication.</span></p><div class="captioned-image-container-static" style="font-size: 16px; line-height: 26px; margin: 32px auto;"><figure style="margin: 0 auto; width: 100%;"><table class="image-wrapper" width="100%" border="0" cellspacing="0" cellpadding="0" data-component-name="Image2ToDOMStatic" style="mso-padding-alt: 1em 0 1.6em;"><tbody><tr><td style="text-align: center;"></td><td align="left" class="content" width="1456" style="text-align: center;"><a class="image-link" target="_blank" href="https://substack.com/redirect/1a480536-63a8-4741-801c-627e053218f3?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel style="align-items: center; border: none; display: block; flex-direction: column; height: auto; margin: 0; padding: 0; position: relative; text-decoration: none; width: auto;"><img data-attrs="{&quot;src&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/aba30d56-a99d-435e-b7d7-b08741acf85b_1600x715.png&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:null,&quot;height&quot;:651,&quot;width&quot;:1456,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:null,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:null,&quot;href&quot;:null,&quot;belowTheFold&quot;:true,&quot;topImage&quot;:false,&quot;internalRedirect&quot;:null}" alt width="550" height="245.91346153846155" class="wide-image" src="https://substackcdn.com/image/fetch/w_2912,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Faba30d56-a99d-435e-b7d7-b08741acf85b_1600x715.png" style="-ms-interpolation-mode: bicubic; border: none !important; display: block; height: auto; margin: 0 auto; margin-bottom: 0; max-width: 100% !important; vertical-align: middle; width: auto !important;"></a></td><td style="text-align: center;"></td></tr></tbody></table><figcaption class="image-caption" style="box-sizing: content-box; color: #808080; font-size: 14px; font-weight: 400; letter-spacing: -.15px; line-height: 20px; margin-top: 8px; padding-left: 15%; padding-right: 15%; text-align: center; width: 70%;">Step 4 of what happens when you ask ChatGPT a question. The weight matrix contains hundreds of billions of model weights</figcaption></figure></div><p style="color: rgb(64, 64, 64); font-size: 16px; line-height: 26px; margin: 0 0 20px 0;"><strong>Sampling a prediction </strong><span>is done after we do billions of multiplications. The final vector represents the probability of the next most likely token. Sampling is when we choose the next most likely token and send it back to the user. Each word that spits out of ChatGPT is this same process repeated over and over again many times per second.</span></p><div class="captioned-image-container-static" style="font-size: 16px; line-height: 26px; margin: 32px auto;"><figure style="margin: 0 auto; width: 100%;"><table class="image-wrapper" width="100%" border="0" cellspacing="0" cellpadding="0" data-component-name="Image2ToDOMStatic" style="mso-padding-alt: 1em 0 1.6em;"><tbody><tr><td style="text-align: center;"></td><td align="left" class="content" width="1204" style="text-align: center;"><a class="image-link" target="_blank" href="https://substack.com/redirect/68c319d9-e127-4c81-9bb2-459249445fff?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel style="align-items: center; border: none; display: block; flex-direction: column; height: auto; margin: 0; padding: 0; position: relative; text-decoration: none; width: auto;"><img data-attrs="{&quot;src&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/24ea4f50-ace7-49ac-be78-1c5429f13a96_1204x584.png&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:null,&quot;height&quot;:584,&quot;width&quot;:1204,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:87555,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:&quot;image/png&quot;,&quot;href&quot;:null,&quot;belowTheFold&quot;:true,&quot;topImage&quot;:false,&quot;internalRedirect&quot;:null}" alt width="550" height="266.77740863787375" class="wide-image" src="https://substackcdn.com/image/fetch/w_2408,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F24ea4f50-ace7-49ac-be78-1c5429f13a96_1204x584.png" style="-ms-interpolation-mode: bicubic; border: none !important; display: block; height: auto; margin: 0 auto; margin-bottom: 0; max-width: 100% !important; vertical-align: middle; width: auto !important;"></a></td><td style="text-align: center;"></td></tr></tbody></table><figcaption class="image-caption" style="box-sizing: content-box; color: #808080; font-size: 14px; font-weight: 400; letter-spacing: -.15px; line-height: 20px; margin-top: 8px; padding-left: 15%; padding-right: 15%; text-align: center; width: 70%;"><em><span>Step 5. We end up with the probability of the next most likely token (roughly a word). We </span><strong>sample</strong><span> the next most probable word, based on pre-trained data, the prompt, and the text generated so far. Image source: </span><a href="https://substack.com/redirect/e156ea5b-3c5c-4110-8a7d-b5e35b6ff620?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel style="text-decoration: underline;">What is ChatGPT doing and why does it work?</a><span> by Stehen Wolfram</span></em></figcaption></figure></div><h4 class="header-with-anchor-widget" style="-moz-appearance: optimizelegibility; -moz-osx-font-smoothing: antialiased; -webkit-appearance: optimizelegibility; -webkit-font-smoothing: antialiased; appearance: optimizelegibility; color: rgb(64, 64, 64); font-family: 'SF Compact Display', -apple-system, system-ui, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 1.125em; font-weight: bold; line-height: 1.16em; margin: 1em 0 0.625em 0; position: relative;">Pretraining and inference</h4><p style="color: rgb(64, 64, 64); font-size: 16px; line-height: 26px; margin: 0 0 20px 0;"><span>How do we generate this complex set of model weights, whose values encode most of human knowledge? We do it through a process called </span><strong>pretraining</strong><span>. The goal is to build a model that can predict the next token (which you can think of as a word), for all words on the internet.&#160;</span></p><p style="color: rgb(64, 64, 64); font-size: 16px; line-height: 26px; margin: 0 0 20px 0;"><span>During pretraining, the weights are gradually updated via </span><strong><a href="https://substack.com/redirect/e6b89e3f-1eae-49c3-a14a-3a16822add8f?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel style="color: rgb(64, 64, 64); text-decoration: underline;">gradient descent</a></strong><span>, which is is a mathematical optimization method. An analogy of gradient descent is a hiker stuck up a mountain, who&#8217;s trying to get down. However, they don&#8217;t have a full view of the mountain due to heavy fog which limits their view to a small area around them. Gradient descent would mean to look at the steepness of the incline from the hiker&#8217;s current position, and proceed in the direction of the steepest descent. We can assume steepness is not obvious from simple observation, but luckily, this hiker has an instrument to measure steepness. However, it takes time to do a single measurement and they want to get down before sunset. So, this hiker needs to decide how frequently to stop and measure the steepness, so they still can get down before sunset.</span></p><p style="color: rgb(64, 64, 64); font-size: 16px; line-height: 26px; margin: 0 0 20px 0;"><span>Once we have our model we can run </span><strong>inference</strong><span> on it, which is when we prompt the model with text. For example, the prompt could be: &#8220;write a guest post for the Pragmatic Engineer.&#8221; This prompt then asks the model to </span><strong>predict the next most likely token (word)</strong><span>. It makes this prediction based on past input, and it happens repeatedly, token by token, word by word, until it spits out your post!&#160;</span></p><p style="color: rgb(64, 64, 64); font-size: 16px; line-height: 26px; margin: 0 0 20px 0;"><em><span>Note from Gergely: just to say, not this post or any other I publish are made by ChatGPT! But it&#8217;s a fun experiment to learn how the tech works. </span><a href="https://substack.com/redirect/79310f7d-b1af-4d9e-802c-cfc79d7308c2?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel style="color: rgb(64, 64, 64); text-decoration: underline;">Here&#8217;s what ChatGPT generates</a><span> in response to this command, by always generating the next most likely token (word.) For more detail on this prediction technique, check out </span><a href="https://substack.com/redirect/e156ea5b-3c5c-4110-8a7d-b5e35b6ff620?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel style="color: rgb(64, 64, 64); text-decoration: underline;">What is ChatGPT doing and why does it work?</a><span> by Stehen Wolfram.</span></em></p><h4 class="header-with-anchor-widget" style="-moz-appearance: optimizelegibility; -moz-osx-font-smoothing: antialiased; -webkit-appearance: optimizelegibility; -webkit-font-smoothing: antialiased; appearance: optimizelegibility; color: rgb(64, 64, 64); font-family: 'SF Compact Display', -apple-system, system-ui, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 1.125em; font-weight: bold; line-height: 1.16em; margin: 1em 0 0.625em 0; position: relative;">Scalability challenge from self-attention</h4><p style="color: rgb(64, 64, 64); font-size: 16px; line-height: 26px; margin: 0 0 20px 0;"><span>Under the hood, we use the </span><a href="https://substack.com/redirect/6ef07fcb-6ca8-4e6f-90bd-2102c075544d?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel style="color: rgb(64, 64, 64); text-decoration: underline;">Transformer architecture</a><span>, a key characteristic of which is that each token is aware of </span><em>every other token</em><span>. This approach is known as </span><a href="https://substack.com/redirect/d5392d9c-6c34-4314-83c3-e1f00e50ddf0?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel style="color: rgb(64, 64, 64); text-decoration: underline;">self-attention</a><span>. A consequence is that the longer your text is &#8211; or context &#8211; the more math is needed.</span></p><p style="color: rgb(64, 64, 64); font-size: 16px; line-height: 26px; margin: 0 0 20px 0;"><span>Unfortunately, self attention scales </span><a href="https://substack.com/redirect/f641bbf3-64a5-4988-a948-a54ac7eaf4f1?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel style="color: rgb(64, 64, 64); text-decoration: underline;">quadratically</a><span>. If you want the model to predict the 100th token, it needs to do about 10,000 operations. If you want the model to predict the 1,000th token, it needs to do about 1 million operations.</span></p><p style="color: rgb(64, 64, 64); font-size: 16px; line-height: 26px; margin: 0 0 20px 0;">At first, this sounds like bad news. However, there are clever workarounds we can use to circumvent the quadratic scale problem. Before we get into how we solve it, we need to talk about the infrastructure powering ChatGPT.</p><h2 class="header-with-anchor-widget" style="-moz-appearance: optimizelegibility; -moz-osx-font-smoothing: antialiased; -webkit-appearance: optimizelegibility; -webkit-font-smoothing: antialiased; appearance: optimizelegibility; color: rgb(64, 64, 64); font-family: 'SF Compact Display', -apple-system, system-ui, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 1.625em; font-weight: bold; line-height: 1.16em; margin: 1em 0 0.625em 0; position: relative;">3. Importance of GPUs</h2><p style="color: rgb(64, 64, 64); font-size: 16px; line-height: 26px; margin: 0 0 20px 0;">GPUs (Graphics Processing Units) are the lifeblood of ChatGPT and the APIs it&#8217;s built on. The extremely short supply of GPUs, their quirks, and cost, dominate how we operate and scale.</p><p style="color: rgb(64, 64, 64); font-size: 16px; line-height: 26px; margin: 0 0 20px 0;">To set the stage, let me introduce you to one of the GPUs we use.</p><div class="captioned-image-container-static" style="font-size: 16px; line-height: 26px; margin: 32px auto;"><figure style="margin: 0 auto; width: 100%;"><table class="image-wrapper" width="100%" border="0" cellspacing="0" cellpadding="0" data-component-name="Image2ToDOMStatic" style="mso-padding-alt: 1em 0 1.6em;"><tbody><tr><td style="text-align: center;"></td><td align="left" class="content" width="678" style="text-align: center;"><a class="image-link" target="_blank" href="https://substack.com/redirect/9a6f463d-53f1-434b-8f1c-a72d8a9a74b9?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel style="align-items: center; border: none; display: block; flex-direction: column; height: auto; margin: 0; padding: 0; position: relative; text-decoration: none; width: auto;"><img data-attrs="{&quot;src&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/c214299a-d0bc-44b5-9698-e317aac26406_678x315.png&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:null,&quot;height&quot;:315,&quot;width&quot;:678,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:null,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:null,&quot;href&quot;:null,&quot;belowTheFold&quot;:true,&quot;topImage&quot;:false,&quot;internalRedirect&quot;:null}" alt width="550" height="255.53097345132744" class="wide-image" src="https://substackcdn.com/image/fetch/w_1356,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc214299a-d0bc-44b5-9698-e317aac26406_678x315.png" style="-ms-interpolation-mode: bicubic; border: none !important; display: block; height: auto; margin: 0 auto; margin-bottom: 0; max-width: 100% !important; vertical-align: middle; width: auto !important;"></a></td><td style="text-align: center;"></td></tr></tbody></table><figcaption class="image-caption" style="box-sizing: content-box; color: #808080; font-size: 14px; font-weight: 400; letter-spacing: -.15px; line-height: 20px; margin-top: 8px; padding-left: 15%; padding-right: 15%; text-align: center; width: 70%;">The NVIDIA H100. Image source: NVIDIA</figcaption></figure></div><p style="color: rgb(64, 64, 64); font-size: 16px; line-height: 26px; margin: 0 0 20px 0;"><span>This is the NVIDIA H100. It has a special High Bandwidth Memory (HBM) memory attached to each GPU. The GPUs can talk to each other with a high bandwidth interconnect called NVLink, and they can talk to the outside world with a special ethernet alternative called Infiniband. We pack 8 of these in a single node. Nvidia sells a similar configuration called the </span><a href="https://substack.com/redirect/0c6438c8-73e9-405d-a8ff-72be71df5e3e?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel style="color: rgb(64, 64, 64); text-decoration: underline;">DGX H100</a><span>.</span></p><p style="color: rgb(64, 64, 64); font-size: 16px; line-height: 26px; margin: 0 0 20px 0;"><span>For us, every bit of added compute or bandwidth </span><em>directly</em><span> impacts the ChatGPT user experience.</span></p><h2 class="header-with-anchor-widget" style="-moz-appearance: optimizelegibility; -moz-osx-font-smoothing: antialiased; -webkit-appearance: optimizelegibility; -webkit-font-smoothing: antialiased; appearance: optimizelegibility; color: rgb(64, 64, 64); font-family: 'SF Compact Display', -apple-system, system-ui, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 1.625em; font-weight: bold; line-height: 1.16em; margin: 1em 0 0.625em 0; position: relative;">4. Five scaling challenges</h2><p style="color: rgb(64, 64, 64); font-size: 16px; line-height: 26px; margin: 0 0 20px 0;">There's a lot to talk about with scaling challenges from GPUs. We focus on:</p><ul style="margin-top: 0; padding: 0;"><li style="margin: 8px 0 0 32px; mso-special-format: bullet;"><p style="box-sizing: border-box; color: rgb(64, 64, 64); font-size: 16px; line-height: 26px; margin: 0; margin-bottom: 0; padding-left: 4px;">#1: GPU RAM and KV Cache</p></li><li style="margin: 8px 0 0 32px; mso-special-format: bullet;"><p style="box-sizing: border-box; color: rgb(64, 64, 64); font-size: 16px; line-height: 26px; margin: 0; margin-bottom: 0; padding-left: 4px;">#2: Batch size, ops:bytes, and arithmetic intensity</p></li><li style="margin: 8px 0 0 32px; mso-special-format: bullet;"><p style="box-sizing: border-box; color: rgb(64, 64, 64); font-size: 16px; line-height: 26px; margin: 0; margin-bottom: 0; padding-left: 4px;">#3: The right metrics to measure</p></li><li style="margin: 8px 0 0 32px; mso-special-format: bullet;"><p style="box-sizing: border-box; color: rgb(64, 64, 64); font-size: 16px; line-height: 26px; margin: 0; margin-bottom: 0; padding-left: 4px;">#4: Finding GPUs, wherever they are</p></li><li style="margin: 8px 0 0 32px; mso-special-format: bullet;"><p style="box-sizing: border-box; color: rgb(64, 64, 64); font-size: 16px; line-height: 26px; margin: 0; margin-bottom: 0; padding-left: 4px;">#5: Autoscaling; lack thereof</p></li></ul><p style="color: rgb(64, 64, 64); font-size: 16px; line-height: 26px; margin: 0 0 20px 0;">Understanding these was critical while we scaled ChatGPT. Let&#8217;s get into them!</p><h4 class="header-with-anchor-widget" style="-moz-appearance: optimizelegibility; -moz-osx-font-smoothing: antialiased; -webkit-appearance: optimizelegibility; -webkit-font-smoothing: antialiased; appearance: optimizelegibility; color: rgb(64, 64, 64); font-family: 'SF Compact Display', -apple-system, system-ui, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 1.125em; font-weight: bold; line-height: 1.16em; margin: 1em 0 0.625em 0; position: relative;">Challenge #1: KV cache &amp; GPU RAM</h4><p style="color: rgb(64, 64, 64); font-size: 16px; line-height: 26px; margin: 0 0 20px 0;"><span>Our big challenge is that self-attention scales </span><a href="https://substack.com/redirect/f641bbf3-64a5-4988-a948-a54ac7eaf4f1?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel style="color: rgb(64, 64, 64); text-decoration: underline;">quadratically</a><span>, meaning that the more tokens we generate, we need quadratically more operations (about ~10,000 operations for the 100th token, but about 1,000,000 for the 1,000th.) How can we improve performance?</span></p><p style="color: rgb(64, 64, 64); font-size: 16px; line-height: 26px; margin: 0 0 20px 0;"><span>An initial workaround is to cache the math we did for all prior tokens; the </span><strong>KV cache</strong><span>. We use the </span><a href="https://substack.com/redirect/57696899-dfa7-45d0-8c13-45e8e09c0c90?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel style="color: rgb(64, 64, 64); text-decoration: underline;">attention mechanism</a><span> in our machine learning (ML) model. With this model, we use three vectors:</span></p><ul style="margin-top: 0; padding: 0;"><li style="margin: 8px 0 0 32px; mso-special-format: bullet;"><p style="box-sizing: border-box; color: rgb(64, 64, 64); font-size: 16px; line-height: 26px; margin: 0; margin-bottom: 0; padding-left: 4px;">Q: related to what we include</p></li><li style="margin: 8px 0 0 32px; mso-special-format: bullet;"><p style="box-sizing: border-box; color: rgb(64, 64, 64); font-size: 16px; line-height: 26px; margin: 0; margin-bottom: 0; padding-left: 4px;">K: related to what we use as input to output</p></li><li style="margin: 8px 0 0 32px; mso-special-format: bullet;"><p style="box-sizing: border-box; color: rgb(64, 64, 64); font-size: 16px; line-height: 26px; margin: 0; margin-bottom: 0; padding-left: 4px;">V: learned vector; the output of the calculations</p></li></ul><p style="color: rgb(64, 64, 64); font-size: 16px; line-height: 26px; margin: 0 0 20px 0;"><span>We can cache </span><em>both</em><span> K and V, hence the name &#8220;KV cache.&#8221; However, we cannot cache Q because this vector changes every time.</span></p><p style="color: rgb(64, 64, 64); font-size: 16px; line-height: 26px; margin: 0 0 20px 0;"><span>We have to store KV Cache in GPU RAM. This is because moving data in GPU RAM has a speed of around 3TB/sec, when we use </span><a href="https://substack.com/redirect/e8c4f20d-d3c3-442e-9c8e-7bbece1ca295?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel style="color: rgb(64, 64, 64); text-decoration: underline;">High Bandwidth Memory (HBM)</a><span>. However, if we push data across a </span><a href="https://substack.com/redirect/8e395b75-d9d4-407d-bd2e-c14bcb8b33be?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel style="color: rgb(64, 64, 64); text-decoration: underline;">PCIe bus</a><span> (PCI Express: a high-speed bus standard, common on motherboards to transfer data,) we get about 30GB/sec. Using HBM is around two orders of magnitude faster (around 100 times) than PCIe!</span></p><p style="color: rgb(64, 64, 64); font-size: 16px; line-height: 26px; margin: 0 0 20px 0;"><strong>Why is HBM so fast?</strong><span> It&#8217;s physically bonded to the GPUs in stacked layers, with thousands of pins for massively parallel data throughput.</span></p><p style="color: rgb(64, 64, 64); font-size: 16px; line-height: 26px; margin: 0 0 20px 0;"><span>This GPU HBM RAM is </span><em>very</em><span> expensive and quite limited. Most HBM RAM is also spent holding the model weights. As with any cache, when it fills up, we free up space by &#8220;expiring&#8221; the oldest data.</span></p><p style="color: rgb(64, 64, 64); font-size: 16px; line-height: 26px; margin: 0 0 20px 0;"><strong>&#8220;Cache misses&#8221; are expensive for our use case.</strong><span> A cache miss is not locating a cached value needed for our calculation; typically because we had to &#8220;expire&#8221; this value, and kick it out of our HBM memory to free up space. If there&#8217;s a cache miss, we need to recompute a </span><em>whole</em><span> ChatGPT conversation again! And we&#8217;re at the 1,000th character, so that could be closer to 1 million operations!&#160;</span></p><p style="color: rgb(64, 64, 64); font-size: 16px; line-height: 26px; margin: 0 0 20px 0;">Our infrastructure shares GPU RAM across users. What this means is that as a user, your conversation may get evicted from the system (the GPU cache) if it has been idle for too long because we need to free up space for other conversations.</p><p style="color: rgb(64, 64, 64); font-size: 16px; line-height: 26px; margin: 0 0 20px 0;">This caching approach has several implications:</p><ul style="margin-top: 0; padding: 0;"><li style="margin: 8px 0 0 32px; mso-special-format: bullet;"><p style="box-sizing: border-box; color: rgb(64, 64, 64); font-size: 16px; line-height: 26px; margin: 0; margin-bottom: 0; padding-left: 4px;"><strong>GPU RAM is a most valuable commodity</strong><span>. In practice, GPU RAM, not compute resource, is the most frequent bottleneck for LLM operations.</span></p></li><li style="margin: 8px 0 0 32px; mso-special-format: bullet;"><p style="box-sizing: border-box; color: rgb(64, 64, 64); font-size: 16px; line-height: 26px; margin: 0; margin-bottom: 0; padding-left: 4px;"><strong>Cache miss rates are </strong><em><strong>very</strong></em><strong> important! </strong><span>Cache miss refers to events when the system tries to retrieve data from the cache &#8211; like the KV cache &#8211; but nothing is cached. Cache misses have massive, nonlinear influence on how much work the GPUs do. The higher the cache miss rate, the more that the GPUs need to work quadratically, not linearly.</span></p></li></ul><p style="color: rgb(64, 64, 64); font-size: 16px; line-height: 26px; margin: 0 0 20px 0;">This means that when scaling ChatGPT, there wasn't some simple CPU utilization metric to look at. We had to look at KV Cache utilization, and how to maximize GPU RAM.</p><h4 class="header-with-anchor-widget" style="-moz-appearance: optimizelegibility; -moz-osx-font-smoothing: antialiased; -webkit-appearance: optimizelegibility; -webkit-font-smoothing: antialiased; appearance: optimizelegibility; color: rgb(64, 64, 64); font-family: 'SF Compact Display', -apple-system, system-ui, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 1.125em; font-weight: bold; line-height: 1.16em; margin: 1em 0 0.625em 0; position: relative;">Challenge #2: Optimizing batch size</h4><p style="color: rgb(64, 64, 64); font-size: 16px; line-height: 26px; margin: 0 0 20px 0;">Batch size is a second metric to balance when scaling ChatGPT. Roughly speaking, batch size is the number of concurrent requests we run through a GPU.</p><p style="color: rgb(64, 64, 64); font-size: 16px; line-height: 26px; margin: 0 0 20px 0;">An H100 GPU can move 3.35TB of RAM per second into its registers, at most. GPU registers are the fast on-chip memories which store operands for the operations that the computing core will then execute.</p><p style="color: rgb(64, 64, 64); font-size: 16px; line-height: 26px; margin: 0 0 20px 0;">In the same second that the data is moved into the registers, the H100 can multiply 1.98 quadrillion 8-bit floating point numbers. Let&#8217;s divide this 1.98 quadrillion operations by the 3.35TB of data moved; the H100 can do 591 floating point operations in the time it takes to move 1 byte.&#160;</p><p style="color: rgb(64, 64, 64); font-size: 16px; line-height: 26px; margin: 0 0 20px 0;"><strong>The H100 has a 591:1 ops:bytes ratio. </strong><span>If you're going to spend time moving around 1GB, you should do </span><em>at least</em><span> 591 billion floating-point operations per second (FLOPs.) Doing fewer than this means wasting GPU FLOPS. However, if you do more, you're waiting on memory bandwidth.</span></p><p style="color: rgb(64, 64, 64); font-size: 16px; line-height: 26px; margin: 0 0 20px 0;">In our models, the amount of memory we move around is relatively fixed at roughly the size of our model weights.</p><p style="color: rgb(64, 64, 64); font-size: 16px; line-height: 26px; margin: 0 0 20px 0;">We get some control over the process by adjusting our batch size, which changes the volume of mathematical calculations involved.</p><p style="color: rgb(64, 64, 64); font-size: 16px; line-height: 26px; margin: 0 0 20px 0;">When scaling ChatGPT, we needed to fully &#8220;saturate&#8221; GPUs, meaning to monitor our batch sizes so we had the right FLOPS, so the GPUs weren&#8217;t under-utilized for compute, but also not over-utilized so as to wait on memory bandwidth.</p><p style="color: rgb(64, 64, 64); font-size: 16px; line-height: 26px; margin: 0 0 20px 0;">In reality, it's effectively impossible to truly sustain the flop numbers printed on the box. We can use the math to get close, but a lot of experimentation in prod was required to fine tune everything.</p><h4 class="header-with-anchor-widget" style="-moz-appearance: optimizelegibility; -moz-osx-font-smoothing: antialiased; -webkit-appearance: optimizelegibility; -webkit-font-smoothing: antialiased; appearance: optimizelegibility; color: rgb(64, 64, 64); font-family: 'SF Compact Display', -apple-system, system-ui, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 1.125em; font-weight: bold; line-height: 1.16em; margin: 1em 0 0.625em 0; position: relative;">Challenge #3: The right metrics to measure</h4><p style="color: rgb(64, 64, 64); font-size: 16px; line-height: 26px; margin: 0 0 20px 0;">The combination of batch size and KV cache utilization was the primary metric we focused on. These are two numbers we used to determine how loaded our servers were. We didn&#8217;t get to this metric from the start; it took time to figure out it works best for us.</p><p style="color: rgb(64, 64, 64); font-size: 16px; line-height: 26px; margin: 0 0 20px 0;"><span>Initially, we had a simpler gpu utilization metric, similar to standard cpu utilization metrics. However, it turned out to be misleading, as simple utilization </span><em>only</em><span> said whether or not the gpu was doing math in a time period. It didn&#8217;t tell us:</span></p><ul style="margin-top: 0; padding: 0;"><li style="margin: 8px 0 0 32px; mso-special-format: bullet;"><p style="box-sizing: border-box; color: rgb(64, 64, 64); font-size: 16px; line-height: 26px; margin: 0; margin-bottom: 0; padding-left: 4px;"><span>Whether we had saturated </span><strong>arithmetic intensity</strong><span>; the ratio of floating point operations to total data movement: FLOPs/byte. Basically, GPU utilization didn&#8217;t tell us if we were under-utilizing compute, or being starved of memory.</span></p></li><li style="margin: 8px 0 0 32px; mso-special-format: bullet;"><p style="box-sizing: border-box; color: rgb(64, 64, 64); font-size: 16px; line-height: 26px; margin: 0; margin-bottom: 0; padding-left: 4px;">Whether we were running out of KV cache. This is a problem because with KV cache misses, the GPU needs to do quadratically more computation to calculate uncached results.</p></li></ul><p style="color: rgb(64, 64, 64); font-size: 16px; line-height: 26px; margin: 0 0 20px 0;"><strong>Other bottlenecks, too. </strong><span>KV cache and batch size were not the only bottlenecks we found. In the real world, we&#8217;ve had bottlenecks from:</span></p><ul style="margin-top: 0; padding: 0;"><li style="margin: 8px 0 0 32px; mso-special-format: bullet;"><p style="box-sizing: border-box; color: rgb(64, 64, 64); font-size: 16px; line-height: 26px; margin: 0; margin-bottom: 0; padding-left: 4px;">Memory bandwidth</p></li><li style="margin: 8px 0 0 32px; mso-special-format: bullet;"><p style="box-sizing: border-box; color: rgb(64, 64, 64); font-size: 16px; line-height: 26px; margin: 0; margin-bottom: 0; padding-left: 4px;">Network bandwidth between GPUs</p></li><li style="margin: 8px 0 0 32px; mso-special-format: bullet;"><p style="box-sizing: border-box; color: rgb(64, 64, 64); font-size: 16px; line-height: 26px; margin: 0; margin-bottom: 0; padding-left: 4px;">Network bandwidth between nodes (machines)</p></li><li style="margin: 8px 0 0 32px; mso-special-format: bullet;"><p style="box-sizing: border-box; color: rgb(64, 64, 64); font-size: 16px; line-height: 26px; margin: 0; margin-bottom: 0; padding-left: 4px;">&#8230;to name just three!</p></li></ul><p style="color: rgb(64, 64, 64); font-size: 16px; line-height: 26px; margin: 0 0 20px 0;">To make it more complicated, the locations of bottlenecks change frequently. For example, asking ChatGPT to summarize an essay has vastly different performance characteristics from asking it to write one. We are constantly tweaking specific details on the LLM transformer model architecture and these changes affect where bottlenecks occur.</p><p style="color: rgb(64, 64, 64); font-size: 16px; line-height: 26px; margin: 0 0 20px 0;">There&#8217;s an unexpectedly wide variability in the constraints you run up against in the LLMs&#8217; problem space. This makes it hard for us to solve, and for chip manufacturers to design chips that achieve the optimal balance.&#160;</p><p style="color: rgb(64, 64, 64); font-size: 16px; line-height: 26px; margin: 0 0 20px 0;"><span>For example, NVidia's new </span><a href="https://substack.com/redirect/bbd2c672-2797-4411-b880-61dffb1d4a4f?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel style="color: rgb(64, 64, 64); text-decoration: underline;">H100</a><span> chip is the generation after the </span><a href="https://substack.com/redirect/3c72cdec-d05c-48c9-9110-27d6b90e0f63?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel style="color: rgb(64, 64, 64); text-decoration: underline;">A100</a><span> chip. The H100 increases compute (aka FLOPs) by about 6x, while memory size stays constant and memory bandwidth increases only 1.6x. Since we're frequently bottlenecked by memory, the dramatic increase in FLOPs (and cost) tends to go underutilized.</span></p><p style="color: rgb(64, 64, 64); font-size: 16px; line-height: 26px; margin: 0 0 20px 0;"><span>The reality is that a top-of-the-line chip today like the NVIDIA H100 has a design locked in years ago. NVIDIA had no way to know of discoveries on the importance of memory back when the H100 chip was designed, as future architectures are hard to predict. The recently announced </span><a href="https://substack.com/redirect/03ef0c99-a8ce-4388-9bfe-109e4b1ee267?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel style="color: rgb(64, 64, 64); text-decoration: underline;">H200</a><span> chip has increased memory; however it took the industry a while to better understand these unique bottlenecks to running LLMs at scale.</span></p><h4 class="header-with-anchor-widget" style="-moz-appearance: optimizelegibility; -moz-osx-font-smoothing: antialiased; -webkit-appearance: optimizelegibility; -webkit-font-smoothing: antialiased; appearance: optimizelegibility; color: rgb(64, 64, 64); font-family: 'SF Compact Display', -apple-system, system-ui, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 1.125em; font-weight: bold; line-height: 1.16em; margin: 1em 0 0.625em 0; position: relative;">Challenge #4: Finding GPUs wherever they are</h4><p style="color: rgb(64, 64, 64); font-size: 16px; line-height: 26px; margin: 0 0 20px 0;">Another challenge with GPUs was where to find them! Our company &#8211; and the AI space in general &#8211; has grown much faster than suppliers like NVIDIA, or the complete TSMC supply chain, can produce GPUs. With a supply chain as complex as semiconductors and data centers, bottlenecks happen in many places.</p><p style="color: rgb(64, 64, 64); font-size: 16px; line-height: 26px; margin: 0 0 20px 0;">One solution was to get GPUs from wherever we could. We use Microsoft Azure as our cloud provider, which has GPUs in many different geographic regions and data centers. As a result, we quickly found ourselves in many regions all over the world.</p><p style="color: rgb(64, 64, 64); font-size: 16px; line-height: 26px; margin: 0 0 20px 0;">From day one, our tiny team was forced to go multi-region, multi-cluster, and globally distributed. Our kubernetes clusters very quickly went from being treated like pets, to more like cattle.</p><p style="color: rgb(64, 64, 64); font-size: 16px; line-height: 26px; margin: 0 0 20px 0;"><strong>A well-balanced GPU fleet became more of a priority than allocating nearby GPUs.</strong><span> For ChatGPT, the biggest bottleneck in response time is how quickly GPUs can stream out one token at a time. This means that GPUs geographically closer to end users is less of a priority because the round-trip time a network request takes matters less, than GPUs being &#8220;ready to go.&#8221; My career has taught me the importance of computing at the edge for latency reasons. This ended up being less relevant for these workloads, especially when GPUs are so constrained.</span></p><h4 class="header-with-anchor-widget" style="-moz-appearance: optimizelegibility; -moz-osx-font-smoothing: antialiased; -webkit-appearance: optimizelegibility; -webkit-font-smoothing: antialiased; appearance: optimizelegibility; color: rgb(64, 64, 64); font-family: 'SF Compact Display', -apple-system, system-ui, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 1.125em; font-weight: bold; line-height: 1.16em; margin: 1em 0 0.625em 0; position: relative;">Challenge #5: Inability to autoscale</h4><p style="color: rgb(64, 64, 64); font-size: 16px; line-height: 26px; margin: 0 0 20px 0;">A final, dominant challenge was the inability to scale up our GPU fleet. There are simply no more GPUs to buy or rent, and therefore no GPUs to autoscale into. The difficulty of acquiring GPUs continues to this day and shows no signs of easing up. The exponent on demand currently appears larger than the exponent on supply. Not only are there more users, but larger models require ever-more compute, and new techniques like agents take substantially more compute per user.&#160;</p><p style="color: rgb(64, 64, 64); font-size: 16px; line-height: 26px; margin: 0 0 20px 0;"><em><span>Note from Gergely: we recently covered Meta&#8217;s </span><a href="https://substack.com/redirect/59efed2d-34c2-41ce-8a76-d9aa60904b96?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel style="color: rgb(64, 64, 64); text-decoration: underline;">commitment to spend $7-9B on 350,000 NVIDIA H100 GPUs by the end of 2024</a><span> &#8211; around 15% of global supply!</span></em></p><p style="color: rgb(64, 64, 64); font-size: 16px; line-height: 26px; margin: 0 0 20px 0;">So, if you ever saw the &quot;We are at capacity&quot; message from ChatGPT, this was a correct statement! It meant we had nowhere to scale into, as we&#8217;d utilized all our GPUs at that time.&#160;</p><p style="color: rgb(64, 64, 64); font-size: 16px; line-height: 26px; margin: 0 0 20px 0;">Unfortunately, models like GPT-4 take so much compute that GPUs are our only option right now, in order to offer our service at scale. Plain CPUs would be orders of magnitude slower.</p><h2 class="header-with-anchor-widget" style="-moz-appearance: optimizelegibility; -moz-osx-font-smoothing: antialiased; -webkit-appearance: optimizelegibility; -webkit-font-smoothing: antialiased; appearance: optimizelegibility; color: rgb(64, 64, 64); font-family: 'SF Compact Display', -apple-system, system-ui, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 1.625em; font-weight: bold; line-height: 1.16em; margin: 1em 0 0.625em 0; position: relative;">5. Lesson Learned</h2><p style="color: rgb(64, 64, 64); font-size: 16px; line-height: 26px; margin: 0 0 20px 0;">Scaling ChatGPT is certainly not your average software engineering scaling problem. However, it has been a crash course in engineering scaling, with plenty of learnings to apply in other situations. Here are key lessons we learned.</p><p style="color: rgb(64, 64, 64); font-size: 16px; line-height: 26px; margin: 0 0 20px 0;"><strong>In early scaling, both the forest AND the trees are important.</strong><span> Low level details (trees,) like KV cache optimization and CUDA kernels, were as important as higher level system details (forest,) such as the global data center strategy. Our team's ability to jump across the stack &#8211; from the lowest levels of the GPUs, all the way to product decisions &#8211; was critical.</span></p><p style="color: rgb(64, 64, 64); font-size: 16px; line-height: 26px; margin: 0 0 20px 0;"><strong>Take your system&#8217;s constraints into account in an adaptive way. </strong><span>Before joining OpenAI, I was used to doing things like:</span></p><ul style="margin-top: 0; padding: 0;"><li style="margin: 8px 0 0 32px; mso-special-format: bullet;"><p style="box-sizing: border-box; color: rgb(64, 64, 64); font-size: 16px; line-height: 26px; margin: 0; margin-bottom: 0; padding-left: 4px;">Tweaking systems to achieve around 80% CPU utilization metrics &#8211; generally considered &#8220;good.&#8221; Once this metric is hit, sit back while the metric stays constant.</p></li><li style="margin: 8px 0 0 32px; mso-special-format: bullet;"><p style="box-sizing: border-box; color: rgb(64, 64, 64); font-size: 16px; line-height: 26px; margin: 0; margin-bottom: 0; padding-left: 4px;">Autoscale into an &#8220;infinitely big&#8221; cloud; meaning more machines can always be provisioned.</p></li><li style="margin: 8px 0 0 32px; mso-special-format: bullet;"><p style="box-sizing: border-box; color: rgb(64, 64, 64); font-size: 16px; line-height: 26px; margin: 0; margin-bottom: 0; padding-left: 4px;">Prioritize edge computing: move it very close to where users are, to reduce latency of roundtrip requests, and improve user experience.</p></li></ul><p style="color: rgb(64, 64, 64); font-size: 16px; line-height: 26px; margin: 0 0 20px 0;">At OpenAI, none of these practices applied! We needed to come up with new approaches that were both practical to measure and scale.&#160;</p><p style="color: rgb(64, 64, 64); font-size: 16px; line-height: 26px; margin: 0 0 20px 0;">And just when we&#8217;d figure out something that worked, a model architecture would shift, or a new inference idea would be proposed, or product decisions would change usage of the system. So, we needed to adapt, again and again.</p><p style="color: rgb(64, 64, 64); font-size: 16px; line-height: 26px; margin: 0 0 20px 0;"><strong>Dive deep. </strong><span>In the problem space in which we operate, the lowest-level implementation details </span><em>really</em><span> matter. It&#8217;s tempting to think of ChatGPT as a &#8220;black box&#8221; that takes text as input, and spits out slightly smarter text at the other end. However, the more people dove into the smallest details of how exactly the &#8220;black box&#8221; works, the better we became as a team and product.</span></p><p style="color: rgb(64, 64, 64); font-size: 16px; line-height: 26px; margin: 0 0 20px 0;"><strong>It&#8217;s still early days. </strong><span>The scale of challenges will only grow. With every jump between GPT-2, 3, and 4, we needed entirely new ways to train and run the models at scale. This shall continue in future versions. All our new modalities like vision, images, and speech, require re-architecting systems, while unlocking new use cases.&#160;</span></p><p style="color: rgb(64, 64, 64); font-size: 16px; line-height: 26px; margin: 0 0 20px 0;">The pace of development at OpenAI &#8211; and the ecosystem as a whole &#8211; is accelerating. We'll see what challenges the next 10x of scale holds!</p><h2 class="header-with-anchor-widget" style="-moz-appearance: optimizelegibility; -moz-osx-font-smoothing: antialiased; -webkit-appearance: optimizelegibility; -webkit-font-smoothing: antialiased; appearance: optimizelegibility; color: rgb(64, 64, 64); font-family: 'SF Compact Display', -apple-system, system-ui, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 1.625em; font-weight: bold; line-height: 1.16em; margin: 1em 0 0.625em 0; position: relative;">Takeaways</h2><p style="color: rgb(64, 64, 64); font-size: 16px; line-height: 26px; margin: 0 0 20px 0;"><em>This is Gergely again.</em></p><p style="color: rgb(64, 64, 64); font-size: 16px; line-height: 26px; margin: 0 0 20px 0;">Thanks Evan for drawing back the curtain on the challenges of scaling ChatGPT, and giving an overview of how ChatGPT works. Here are my takeaways from Evan&#8216;s article:</p><p style="color: rgb(64, 64, 64); font-size: 16px; line-height: 26px; margin: 0 0 20px 0;"><strong>How ChatGPT works isn&#8217;t magic, and is worth understanding. </strong><span>Like most people, my first reaction to trying out ChatGPT was that it felt </span><em>magical</em><span>. I typed in questions and got answers that felt like they could have come from a human! ChatGPT works impressively well with human language, and has access to more information than any one human could handle. It&#8217;s also good at programming-related questions, and there was a point when I questioned if ChatGPT could be </span><em>more capable</em><span> than humans, even in areas like programming, where humans have done better, until now?</span></p><p style="color: rgb(64, 64, 64); font-size: 16px; line-height: 26px; margin: 0 0 20px 0;">For a sense of ChatGPT&#8217;s limitations, you need to understand how it works. ChatGPT and other LLMs do not &#8220;think&#8221; and &#8220;understand&#8221; like humans. ChatGPT does, however, generate words based on what the next most likely word should be, looking at the input, and everything generated so far.</p><p style="color: rgb(64, 64, 64); font-size: 16px; line-height: 26px; margin: 0 0 20px 0;"><span>In an excellent </span><a href="https://substack.com/redirect/e156ea5b-3c5c-4110-8a7d-b5e35b6ff620?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel style="color: rgb(64, 64, 64); text-decoration: underline;">deepdive about how ChatGPT works</a><span>, Stephen Wolfram &#8211; creator of the expert search engine </span><a href="https://substack.com/redirect/a3bbe6fd-b00a-4e29-9785-408660f1e15c?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel style="color: rgb(64, 64, 64); text-decoration: underline;">WolframAlph</a><span>a &#8211; summarizes ChatGPT:</span></p><blockquote style="border-left: 4px solid #FF6B00; margin: 20px 0; padding: 0;"><p style="color: rgb(64, 64, 64); font-size: 16px; line-height: 26px; margin: 0 0 20px 0; margin-left: 20px;">&#8220;The basic concept of ChatGPT is at some level rather simple. Start from a huge sample of human-created text from the web, books, etc. Then train a neural net to generate text that&#8217;s &#8220;like this&#8221;. And in particular, make it able to start from a &#8220;prompt&#8221; and then continue with text that&#8217;s &#8220;like what it&#8217;s been trained with&#8221;.</p><p style="color: rgb(64, 64, 64); font-size: 16px; line-height: 26px; margin: 0 0 20px 0; margin-left: 20px;">As we&#8217;ve seen, the actual neural net in ChatGPT is made up of very simple elements&#8212;though billions of them. And the basic operation of the neural net is also very simple, consisting essentially of passing input derived from the text it&#8217;s generated so far &#8220;once through its elements&#8221; (without any loops, etc.) for every new word (or part of a word) that it generates.</p><p style="color: rgb(64, 64, 64); font-size: 16px; line-height: 26px; margin: 0 0 20px 0; margin-left: 20px;">But the remarkable&#8212;and unexpected&#8212;thing is that this process can produce text that&#8217;s successfully &#8220;like&#8221; what&#8217;s out there on the web, in books, etc. (...)</p><p style="color: rgb(64, 64, 64); font-size: 16px; line-height: 26px; margin: 0 0 20px 0; margin-left: 20px;">The specific engineering of ChatGPT has made it quite compelling. But ultimately (at least until it can use outside tools) ChatGPT is &#8220;merely&#8221; pulling out some &#8220;coherent thread of text&#8221; from the &#8220;statistics of conventional wisdom&#8221; that it&#8217;s accumulated. But it&#8217;s amazing how human-like the results are.&#8221;</p></blockquote><p style="color: rgb(64, 64, 64); font-size: 16px; line-height: 26px; margin: 0 0 20px 0;"><strong>Engineering challenges of scaling ChatGPT are relatable. </strong><span>When scaling a system, these are common techniques to use:</span></p><ul style="margin-top: 0; padding: 0;"><li style="margin: 8px 0 0 32px; mso-special-format: bullet;"><p style="box-sizing: border-box; color: rgb(64, 64, 64); font-size: 16px; line-height: 26px; margin: 0; margin-bottom: 0; padding-left: 4px;">Improve performance by trading memory for repeated, expensive compute operations (memorization,) or vice versa; using compute to save on memory if memory is low, and there&#8217;s lots of unused compute&#160;</p></li><li style="margin: 8px 0 0 32px; mso-special-format: bullet;"><p style="box-sizing: border-box; color: rgb(64, 64, 64); font-size: 16px; line-height: 26px; margin: 0; margin-bottom: 0; padding-left: 4px;">Buy more hardware to scale horizontally</p></li><li style="margin: 8px 0 0 32px; mso-special-format: bullet;"><p style="box-sizing: border-box; color: rgb(64, 64, 64); font-size: 16px; line-height: 26px; margin: 0; margin-bottom: 0; padding-left: 4px;">Figure out the right things to measure, and make improvements so those metrics trend in the right direction; rinse and repeat</p></li></ul><p style="color: rgb(64, 64, 64); font-size: 16px; line-height: 26px; margin: 0 0 20px 0;">The engineering team at OpenAI employed all these techniques to scale the product.</p><p style="color: rgb(64, 64, 64); font-size: 16px; line-height: 26px; margin: 0 0 20px 0;"><strong>Some scaling challenges can be reduced to solving a math problem. </strong><span>In Challenge #2 &#8211; optimizing for batch size &#8211; solving for maximum utilization came down to maximizing the number of operations while also not waiting on memory bandwidth. This becomes an optimization exercise once you know the values on operations and memory bandwidth.</span></p><p style="color: rgb(64, 64, 64); font-size: 16px; line-height: 26px; margin: 0 0 20px 0;">When faced with the challenge to optimize efficiency, take inspiration from this approach. Figure out the characteristics of your system &#8211; throughput, latency, CPU utilization, memory utilization, and other relevant values &#8211; and figure out how changing one will change another. What would higher CPU utilization (using fewer machines) mean? What about adding or removing memory from each machine? And so on.</p><p style="color: rgb(64, 64, 64); font-size: 16px; line-height: 26px; margin: 0 0 20px 0;"><strong>Even OpenAI struggles to source GPU hardware. </strong><span>Large language models need massive amounts of compute, and GPU chips are the best suited for this use case. Today, NVIDIA&#8217;s H100 &#8211; a high-performance GPU &#8211; is the hardware of choice for most companies investing heavily in AI.</span></p><p style="color: rgb(64, 64, 64); font-size: 16px; line-height: 26px; margin: 0 0 20px 0;"><span>Demand for H100s outstrips supply, especially with companies like Meta spending eye-watering sums on sourcing them. We </span><a href="https://substack.com/redirect/59efed2d-34c2-41ce-8a76-d9aa60904b96?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel style="color: rgb(64, 64, 64); text-decoration: underline;">recently covered</a><span> how Meta wants to have 350,000 H100 units by the end of 2024.</span></p><p style="color: rgb(64, 64, 64); font-size: 16px; line-height: 26px; margin: 0 0 20px 0;">Despite its strong partnership with Microsoft and large amounts of funding, OpenAI also has the challenge of getting enough GPUs.</p><p style="color: rgb(64, 64, 64); font-size: 16px; line-height: 26px; margin: 0 0 20px 0;"><span>NVIDIA should profit massively from the demand, but we can expect other players to step up and design chips to compete with it. Indeed, Meta is </span><a href="https://substack.com/redirect/ab6fd408-0ab2-459a-adc1-caaa83786b38?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel style="color: rgb(64, 64, 64); text-decoration: underline;">building its own custom AI chips</a><span>, as </span><a href="https://substack.com/redirect/a1c281aa-057d-45cd-b271-c8dd82621aee?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel style="color: rgb(64, 64, 64); text-decoration: underline;">is AWS</a><span>. The major chip makers are also not idle: AMD launched the MI300X processor in December 2023 and early benchmarks </span><a href="https://substack.com/redirect/d555494d-df4c-44b4-a79c-43fec6bcea00?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel style="color: rgb(64, 64, 64); text-decoration: underline;">show better performance</a><span> than the H100. Intel is </span><a href="https://substack.com/redirect/10d893b9-1218-4bbb-b396-51fa7e9d8c80?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel style="color: rgb(64, 64, 64); text-decoration: underline;">working on</a><span> the Gaudi3 processor that is meant to rival and surpass the H100 with an expected launch later in 2024.</span></p><p style="color: rgb(64, 64, 64); font-size: 16px; line-height: 26px; margin: 0 0 20px 0;">Still, even with new GPUs coming to the market, ramping up mass production will take more time. Companies in the AI space can likely expect a scarcity of GPUs for the next year or two.</p><p style="color: rgb(64, 64, 64); font-size: 16px; line-height: 26px; margin: 0 0 20px 0;"><strong>Engineering challenges related to hardware scarcity tend to lead to clever workarounds. </strong><span>Few software engineers today are familiar with hardware scarcity because there is no shortage of compute or storage capacity, thanks to cloud providers. If more CPUs or storage are needed, the question is how much it will cost, not whether or not capacity is available.&#160;</span></p><p style="color: rgb(64, 64, 64); font-size: 16px; line-height: 26px; margin: 0 0 20px 0;"><span>At the same time, we&#8217;ve seen the challenges of industry-wide hardware scarcity before. Such constraints nudge engineers to come up with clever efficiency wins. For example, </span><a href="https://substack.com/redirect/665207bf-de92-47bb-83ec-f6738c90dcd2?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel style="color: rgb(64, 64, 64); text-decoration: underline;">virtualization</a><span> was born from efforts to utilize hardware resources better, as we cover in </span><a href="https://substack.com/redirect/9f2b864e-3d36-4039-86f4-f58c00d84cd9?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel style="color: rgb(64, 64, 64); text-decoration: underline;">The past and future of modern backend practices</a><span>.</span></p><p style="color: rgb(64, 64, 64); font-size: 16px; line-height: 26px; margin: 0 0 20px 0;"><span>I hope to see more clever workarounds born out of necessity by companies like OpenAI, which result in lower compute needs for even the more sophisticated AI applications. I&#8217;m excited about the future that applied AI applications bring, but hope practical AI applications do </span><em>not</em><span> require compute infrastructure that consumes hundreds of times more energy to operate, than current computing infrastructure does. Computers are efficient machines that get a lot of work done with relatively little energy required. Hopefully, we keep it this way, even as the race to build better, more capable AI applications continues.</span></p><p style="color: rgb(64, 64, 64); font-size: 16px; line-height: 26px; margin: 0 0 20px 0;">I hope you enjoyed this deepdive into how the world&#8217;s best-known AI chatbot works.</p><p style="color: rgb(64, 64, 64); font-size: 16px; line-height: 26px; margin: 0 0 20px 0; margin-bottom: 0;"><em><span>If you could help sharing details on what it&#8217;s like to work with GenZ developers &#8211; or the other way around &#8211; </span><a href="https://substack.com/redirect/7ee3dfa9-992f-4b8b-89a4-f94db5de2bf0?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel style="color: rgb(64, 64, 64); text-decoration: underline;">please share your observations here</a><span>.</span></em></p></div></div><div class="container-border" style="border-top: 1px solid #e0e0e0; box-sizing: border-box; font-size: 16px; line-height: 26px; margin: 32px 0 0; width: 100%;"></div><div class="typography" style="font-size: 16px; line-height: 26px;"><div class="postscript" style="font-size: 16px; line-height: 26px; margin: 32px 0;"><div dir="auto" class="body markup" style="font-size: 16px; line-height: 26px; margin-bottom: 16px; text-align: initial; width: 100%; word-break: break-word;"><h2 class="header-with-anchor-widget" style="-moz-appearance: optimizelegibility; -moz-osx-font-smoothing: antialiased; -webkit-appearance: optimizelegibility; -webkit-font-smoothing: antialiased; appearance: optimizelegibility; color: rgb(64, 64, 64); font-family: 'SF Compact Display', -apple-system, system-ui, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 1.625em; font-weight: bold; line-height: 1.16em; margin: 1em 0 0.625em 0; margin-top: 0; position: relative;">Featured Pragmatic Engineer Jobs</h2><ul style="margin-top: 0; padding: 0;"><li style="margin: 8px 0 0 32px; mso-special-format: bullet;"><p style="box-sizing: border-box; color: rgb(64, 64, 64); font-size: 16px; line-height: 26px; margin: 0; margin-bottom: 0; padding-left: 4px;"><a href="https://substack.com/redirect/609724db-7792-496c-a17d-836117749566?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel style="color: rgb(64, 64, 64); text-decoration: underline;">Manager, Web Engineering</a><span> at HashiCorp. </span><strong>$136-173K</strong><span> + equity. Remote (US).</span></p></li><li style="margin: 8px 0 0 32px; mso-special-format: bullet;"><p style="box-sizing: border-box; color: rgb(64, 64, 64); font-size: 16px; line-height: 26px; margin: 0; margin-bottom: 0; padding-left: 4px;"><a href="https://substack.com/redirect/57f8c172-ade6-4528-a664-2bed83846c72?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel style="color: rgb(64, 64, 64); text-decoration: underline;">Manager, Web Engineering</a><span> at HashiCorp. </span><strong>$123-180K</strong><span> + equity. Remote (US).</span></p></li><li style="margin: 8px 0 0 32px; mso-special-format: bullet;"><p style="box-sizing: border-box; color: rgb(64, 64, 64); font-size: 16px; line-height: 26px; margin: 0; margin-bottom: 0; padding-left: 4px;"><a href="https://substack.com/redirect/a6701d58-b358-4c53-9fe4-869c68814d5c?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel style="color: rgb(64, 64, 64); text-decoration: underline;">Lead Frontend Engineer</a><span> at Rooser. </span><strong>&#163;100-120K</strong><span> London (UK).</span></p></li><li style="margin: 8px 0 0 32px; mso-special-format: bullet;"><p style="box-sizing: border-box; color: rgb(64, 64, 64); font-size: 16px; line-height: 26px; margin: 0; margin-bottom: 0; padding-left: 4px;"><a href="https://substack.com/redirect/bb9efa51-0021-4c85-ae8f-c13f9cd5a741?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel style="color: rgb(64, 64, 64); text-decoration: underline;">Software Engineer</a><span> at Rooser. London (UK).</span></p></li><li style="margin: 8px 0 0 32px; mso-special-format: bullet;"><p style="box-sizing: border-box; color: rgb(64, 64, 64); font-size: 16px; line-height: 26px; margin: 0; margin-bottom: 0; padding-left: 4px;"><a href="https://substack.com/redirect/4a30e372-dd44-4a48-9199-d11e827729c4?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel style="color: rgb(64, 64, 64); text-decoration: underline;">Senior Frontend Developer</a><span> at ePilot. </span><strong>&#8364;50-90K</strong><span>. K&#246;ln (Germany) or Remote (Germany).</span></p></li><li style="margin: 8px 0 0 32px; mso-special-format: bullet;"><p style="box-sizing: border-box; color: rgb(64, 64, 64); font-size: 16px; line-height: 26px; margin: 0; margin-bottom: 0; padding-left: 4px;"><a href="https://substack.com/redirect/ffd05e1e-2cf0-45f0-8947-f439cb06c386?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel style="color: rgb(64, 64, 64); text-decoration: underline;">Senior Full Stack Engineer</a><span> at ePiilot. </span><strong>&#8364;60-95K</strong><span>. Remote (Germany).</span></p></li><li style="margin: 8px 0 0 32px; mso-special-format: bullet;"><p style="box-sizing: border-box; color: rgb(64, 64, 64); font-size: 16px; line-height: 26px; margin: 0; margin-bottom: 0; padding-left: 4px;"><a href="https://substack.com/redirect/79f0118a-4a3e-4ac7-a1ba-7fc7e047eb6b?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel style="color: rgb(64, 64, 64); text-decoration: underline;">Software Engineer</a><span> at Air Space Intelligence. Boston, MA (US).</span></p></li><li style="margin: 8px 0 0 32px; mso-special-format: bullet;"><p style="box-sizing: border-box; color: rgb(64, 64, 64); font-size: 16px; line-height: 26px; margin: 0; margin-bottom: 0; padding-left: 4px;"><a href="https://substack.com/redirect/4c1bc53f-6c0c-48e0-84fb-06b6724868d7?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel style="color: rgb(64, 64, 64); text-decoration: underline;">Senior Full Stack Engineer - Developer Experience</a><span> at Synthesia. </span><strong>&#8364;100K+</strong><span>. Remote (Europe).</span></p></li><li style="margin: 8px 0 0 32px; mso-special-format: bullet;"><p style="box-sizing: border-box; color: rgb(64, 64, 64); font-size: 16px; line-height: 26px; margin: 0; margin-bottom: 0; padding-left: 4px;"><a href="https://substack.com/redirect/5394b1e8-6627-4dce-a352-a977172a70f0?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel style="color: rgb(64, 64, 64); text-decoration: underline;">Senior Full Stack Engineer - Growth/Collaboration</a><span> at Synthesia. </span><strong>&#8364;100K+</strong><span>. Remote (Europe).</span></p></li><li style="margin: 8px 0 0 32px; mso-special-format: bullet;"><p style="box-sizing: border-box; color: rgb(64, 64, 64); font-size: 16px; line-height: 26px; margin: 0; margin-bottom: 0; padding-left: 4px;"><a href="https://substack.com/redirect/8843d670-f08c-47fb-b44e-4e18a84ea48a?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel style="color: rgb(64, 64, 64); text-decoration: underline;">Senior Backend Developer (Python)</a><span> at Octopus Kraken. Berlin or Munich (Germany).</span></p></li><li style="margin: 8px 0 0 32px; mso-special-format: bullet;"><p style="box-sizing: border-box; color: rgb(64, 64, 64); font-size: 16px; line-height: 26px; margin: 0; margin-bottom: 0; padding-left: 4px;"><a href="https://substack.com/redirect/95a9654a-3d44-4e20-939a-bf4d88b12f26?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel style="color: rgb(64, 64, 64); text-decoration: underline;">Senior Python Developer</a><span> at Octopus Kraken. Paris (France).</span></p></li><li style="margin: 8px 0 0 32px; mso-special-format: bullet;"><p style="box-sizing: border-box; color: rgb(64, 64, 64); font-size: 16px; line-height: 26px; margin: 0; margin-bottom: 0; padding-left: 4px;"><a href="https://substack.com/redirect/0b9ef3a1-0eae-40fa-845b-ce7404714cb7?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel style="color: rgb(64, 64, 64); text-decoration: underline;">Senior Product Engineer, Frontend</a><span> at Attio. </span><strong>&#163;90-125K</strong><span> + equity. Remote (Europe).</span></p></li></ul><p style="color: rgb(64, 64, 64); font-size: 16px; line-height: 26px; margin: 0 0 20px 0;"><em><span>See more senior engineer and leadership roles with solid engineering cultures on </span><a href="https://substack.com/redirect/d8175c21-4812-4299-9d6e-18353843e69f?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel style="color: rgb(64, 64, 64); text-decoration: underline;">The Pragmatic Engineer Job board</a><span> - or post your own.</span></em></p><h2 class="header-with-anchor-widget" style="-moz-appearance: optimizelegibility; -moz-osx-font-smoothing: antialiased; -webkit-appearance: optimizelegibility; -webkit-font-smoothing: antialiased; appearance: optimizelegibility; color: rgb(64, 64, 64); font-family: 'SF Compact Display', -apple-system, system-ui, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 1.625em; font-weight: bold; line-height: 1.16em; margin: 1em 0 0.625em 0; position: relative;">Hire Faster With The Pragmatic Engineer Talent Collective</h2><p style="color: rgb(64, 64, 64); font-size: 16px; line-height: 26px; margin: 0 0 20px 0;"><span>If you&#8217;re hiring software engineers or engineering leaders, join </span><a href="https://substack.com/redirect/3b30fa0c-4f86-4495-9e13-72cf4e54c1cf?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel style="color: rgb(64, 64, 64); text-decoration: underline;">The Pragmatic Engineer Talent Collective</a><span>. It&#8217;s the #1 talent collective for software engineers and engineering managers. Get weekly drops of outstanding software engineers and engineering leaders open to new opportunities. I vet every software engineer and manager - and add a note on why they are a standout profile.</span></p><p style="color: rgb(64, 64, 64); font-size: 16px; line-height: 26px; margin: 0 0 20px 0;"><span>Companies like Linear use this collective to hire better, and faster. </span><a href="https://substack.com/redirect/8a1486dd-969f-4179-8294-71aa7ede03b6?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel style="color: rgb(64, 64, 64); text-decoration: underline;">Read what companies hiring say</a><span>. And if you&#8217;re hiring, apply here:</span></p><div class="captioned-image-container-static" style="font-size: 16px; line-height: 26px; margin: 32px auto;"><figure style="margin: 0 auto; width: 100%;"><table class="image-wrapper" width="100%" border="0" cellspacing="0" cellpadding="0" data-component-name="Image2ToDOMStatic" style="mso-padding-alt: 1em 0 1.6em;"><tbody><tr><td style="text-align: center;"></td><td align="left" class="content" width="1216" style="text-align: center;"><a class="image-link" target="_blank" href="https://substack.com/redirect/e55713f6-dc4d-4e10-ad22-946936650f47?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel style="align-items: center; border: none; display: block; flex-direction: column; height: auto; margin: 0; padding: 0; position: relative; text-decoration: none; width: auto;"><img data-attrs="{&quot;src&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/55d82d29-444d-44bc-aa6b-66445aeb1f2e_1216x1030.png&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:null,&quot;height&quot;:1030,&quot;width&quot;:1216,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:222276,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:&quot;image/png&quot;,&quot;href&quot;:null,&quot;belowTheFold&quot;:false,&quot;topImage&quot;:true,&quot;internalRedirect&quot;:null}" alt width="550" height="465.8717105263158" class="wide-image" src="https://substackcdn.com/image/fetch/w_2432,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F55d82d29-444d-44bc-aa6b-66445aeb1f2e_1216x1030.png" style="-ms-interpolation-mode: bicubic; border: none !important; display: block; height: auto; margin: 0 auto; margin-bottom: 0; max-width: 100% !important; vertical-align: middle; width: auto !important;"></a></td><td style="text-align: center;"></td></tr></tbody></table></figure></div><p class="button-wrapper" data-attrs="{&quot;url&quot;:&quot;https://pragmatic-engineer.pallet.com/talent&quot;,&quot;text&quot;:&quot;Apply Now&quot;,&quot;action&quot;:null,&quot;class&quot;:&quot;button-wrapper&quot;}" data-component-name="ButtonCreateButton" style="color: rgb(64, 64, 64); font-size: 16px; line-height: 26px; margin: 0 0 20px 0; text-align: center;"><a class="button primary button-wrapper" href="https://substack.com/redirect/3b30fa0c-4f86-4495-9e13-72cf4e54c1cf?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel style="background-color: #FF6B00; border: none; border-radius: 8px; box-sizing: border-box; color: #ffffff !important; cursor: pointer; display: inline-block; font-family: -apple-system, system-ui, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; font-weight: 600; height: auto; line-height: 20px; margin: 0; opacity: 1; outline: none; padding: 12px 20px; text-align: center; text-decoration: none !important; white-space: nowrap;"><span style="color: #ffffff; text-decoration: none;">Apply Now</span></a></p><p style="color: rgb(64, 64, 64); font-size: 16px; line-height: 26px; margin: 0 0 20px 0;"><em>You&#8217;re on the free list for&#160;</em><a href="https://substack.com/redirect/2/eyJlIjoiaHR0cHM6Ly9uZXdzbGV0dGVyLnByYWdtYXRpY2VuZ2luZWVyLmNvbT91dG1fY2FtcGFpZ249ZW1haWwtaG9tZSZyPThvNTRuIiwicCI6MTQxODY1Mjg2LCJzIjo0NTg3MDksImYiOnRydWUsInUiOjE0NTYzMzE5LCJpYXQiOjE3MDg0NDkzNjUsImV4cCI6MTcxMTA0MTM2NSwiaXNzIjoicHViLTAiLCJzdWIiOiJsaW5rLXJlZGlyZWN0In0.pFVuMJBEFYP_2oDYTrd7rHalOl4rrUPN7tvNppV25M4?" rel style="color: rgb(64, 64, 64); text-decoration: underline;">The Pragmatic Engineer</a><em><span>. For the full experience,&#160;</span><a href="https://substack.com/redirect/2/eyJlIjoiaHR0cHM6Ly9uZXdzbGV0dGVyLnByYWdtYXRpY2VuZ2luZWVyLmNvbS9zdWJzY3JpYmU_dXRtX3NvdXJjZT1wb3N0JnV0bV9jYW1wYWlnbj1lbWFpbC1jaGVja291dCZuZXh0PWh0dHBzJTNBJTJGJTJGbmV3c2xldHRlci5wcmFnbWF0aWNlbmdpbmVlci5jb20lMkZwJTJGc2NhbGluZy1jaGF0Z3B0JnI9OG81NG4mdG9rZW49ZXlKMWMyVnlYMmxrSWpveE5EVTJNek14T1N3aWFXRjBJam94TnpBNE5EUTVNelkxTENKbGVIQWlPakUzTVRFd05ERXpOalVzSW1semN5STZJbkIxWWkwME5UZzNNRGtpTENKemRXSWlPaUpqYUdWamEyOTFkQ0o5Lno5VnVuaGpEZUtmX252WjBFQVRkNGdlRGtrd0dqbkVqTkdITXN6NXBkbFEiLCJwIjoxNDE4NjUyODYsInMiOjQ1ODcwOSwiZiI6dHJ1ZSwidSI6MTQ1NjMzMTksImlhdCI6MTcwODQ0OTM2NSwiZXhwIjoxNzExMDQxMzY1LCJpc3MiOiJwdWItMCIsInN1YiI6ImxpbmstcmVkaXJlY3QifQ.7DsoumWxhdyJDQ1D-T_8qdzup0FkapYxdeehP6yLQ4E?" rel style="color: rgb(64, 64, 64); text-decoration: underline;">become a paying subscriber</a><span>. Many readers expense this newsletter within their company&#8217;s training/learning/development budget.</span></em></p><div data-component-name="SubscribeWidget" class="subscribe-widget is-signed-up" style="direction: ltr; font-size: 16px; line-height: 26px; margin: 0 0 1em;"><p class="button-wrapper" style="color: rgb(64, 64, 64); font-size: 16px; line-height: 26px; margin: 0 0 20px 0; text-align: center;"><a href="https://substack.com/redirect/2/eyJlIjoiaHR0cHM6Ly9uZXdzbGV0dGVyLnByYWdtYXRpY2VuZ2luZWVyLmNvbS9zdWJzY3JpYmU_dXRtX3NvdXJjZT1wb3N0JnV0bV9jYW1wYWlnbj1lbWFpbC1jaGVja291dCZuZXh0PWh0dHBzJTNBJTJGJTJGbmV3c2xldHRlci5wcmFnbWF0aWNlbmdpbmVlci5jb20lMkZwJTJGc2NhbGluZy1jaGF0Z3B0JnI9OG81NG4mdG9rZW49ZXlKMWMyVnlYMmxrSWpveE5EVTJNek14T1N3aWFXRjBJam94TnpBNE5EUTVNelkxTENKbGVIQWlPakUzTVRFd05ERXpOalVzSW1semN5STZJbkIxWWkwME5UZzNNRGtpTENKemRXSWlPaUpqYUdWamEyOTFkQ0o5Lno5VnVuaGpEZUtmX252WjBFQVRkNGdlRGtrd0dqbkVqTkdITXN6NXBkbFEiLCJwIjoxNDE4NjUyODYsInMiOjQ1ODcwOSwiZiI6dHJ1ZSwidSI6MTQ1NjMzMTksImlhdCI6MTcwODQ0OTM2NSwiZXhwIjoxNzExMDQxMzY1LCJpc3MiOiJwdWItMCIsInN1YiI6ImxpbmstcmVkaXJlY3QifQ.7DsoumWxhdyJDQ1D-T_8qdzup0FkapYxdeehP6yLQ4E?&utm_medium=email&utm_source=subscribe-widget&utm_content=141865286" class="button subscribe-btn primary" style="background-color: #FF6B00; border: none; border-radius: 8px; box-sizing: border-box; color: #ffffff !important; cursor: pointer; display: inline-block; font-family: -apple-system, system-ui, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; font-weight: 600; height: auto; line-height: 20px; margin: 0 auto; opacity: 1; outline: none; padding: 12px 20px; text-align: center; text-decoration: none !important; white-space: nowrap;"><span style="color: #ffffff; text-decoration: none;">Upgrade to paid</span></a></p></div><p style="color: rgb(64, 64, 64); font-size: 16px; line-height: 26px; margin: 0 0 20px 0;">This post is public, so feel free to share and forward it.</p><p class="button-wrapper" data-attrs="{&quot;url&quot;:&quot;https://substack.com/redirect/2/eyJlIjoiaHR0cHM6Ly9uZXdzbGV0dGVyLnByYWdtYXRpY2VuZ2luZWVyLmNvbS8_dXRtX3NvdXJjZT1zdWJzdGFjayZ1dG1fbWVkaXVtPWVtYWlsJnV0bV9jb250ZW50PXNoYXJlJmFjdGlvbj1zaGFyZSIsInAiOjE0MTg2NTI4NiwicyI6NDU4NzA5LCJmIjp0cnVlLCJ1IjoxNDU2MzMxOSwiaWF0IjoxNzA4NDQ5MzY1LCJleHAiOjE3MTEwNDEzNjUsImlzcyI6InB1Yi0wIiwic3ViIjoibGluay1yZWRpcmVjdCJ9.mWuAuuGFKi0ftLfHofkXAtgSMk7_HIoLuj8_7X1G2Fc?&quot;,&quot;text&quot;:&quot;Share The Pragmatic Engineer&quot;,&quot;action&quot;:null,&quot;class&quot;:null}" data-component-name="ButtonCreateButton" style="color: rgb(64, 64, 64); font-size: 16px; line-height: 26px; margin: 0 0 20px 0; margin-bottom: 0; text-align: center;"><a class="button primary" href="https://substack.com/redirect/2/eyJlIjoiaHR0cHM6Ly9uZXdzbGV0dGVyLnByYWdtYXRpY2VuZ2luZWVyLmNvbS8_dXRtX3NvdXJjZT1zdWJzdGFjayZ1dG1fbWVkaXVtPWVtYWlsJnV0bV9jb250ZW50PXNoYXJlJmFjdGlvbj1zaGFyZSIsInAiOjE0MTg2NTI4NiwicyI6NDU4NzA5LCJmIjp0cnVlLCJ1IjoxNDU2MzMxOSwiaWF0IjoxNzA4NDQ5MzY1LCJleHAiOjE3MTEwNDEzNjUsImlzcyI6InB1Yi0wIiwic3ViIjoibGluay1yZWRpcmVjdCJ9.mWuAuuGFKi0ftLfHofkXAtgSMk7_HIoLuj8_7X1G2Fc?" rel style="background-color: #FF6B00; border: none; border-radius: 8px; box-sizing: border-box; color: #ffffff !important; cursor: pointer; display: inline-block; font-family: -apple-system, system-ui, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; font-weight: 600; height: auto; line-height: 20px; margin: 0; opacity: 1; outline: none; padding: 12px 20px; text-align: center; text-decoration: none !important; white-space: nowrap;"><span style="color: #ffffff; text-decoration: none;">Share The Pragmatic Engineer</span></a></p></div></div></div><table role="presentation" width="100%" border="0" cellspacing="0" cellpadding="0" class="email-ufi-2-bottom" style="border-bottom: 1px solid rgba(0, 0, 0, .13); border-top: 1px solid rgba(0, 0, 0, .13); min-width: 100%;"><tr height="16"><td height="16" style="font-size: 0px; line-height: 0;">&#160;</td></tr><tr><td><table role="presentation" width="100%" border="0" cellspacing="0" cellpadding="0"><tr><td><table role="presentation" width="auto" border="0" cellspacing="0" cellpadding="0" style="margin: 0 auto;"><tr><td style="vertical-align: middle;"><table role="presentation" width="auto" border="0" cellspacing="0" cellpadding="0"><tr><td align="center"><a href="https://substack.com/app-link/post?publication_id=458709&post_id=141865286&utm_source=substack&isFreemail=true&submitLike=true&token=eyJ1c2VyX2lkIjoxNDU2MzMxOSwicG9zdF9pZCI6MTQxODY1Mjg2LCJyZWFjdGlvbiI6IuKdpCIsImlhdCI6MTcwODQ0OTM2NSwiZXhwIjoxNzExMDQxMzY1LCJpc3MiOiJwdWItNDU4NzA5Iiwic3ViIjoicmVhY3Rpb24ifQ.kbH4M5fDtEAVLdU5mmpcl4euJtzuH1EsEgQ1MJ-Gmso&utm_medium=email&utm_campaign=email-reaction&r=8o54n" class="email-button-outline" style="border: 1px solid rgba(0, 0, 0, .13); border-radius: 9999px; color: rgb(128, 128, 128); display: inline-block; font-family: 'SF Pro Text', -apple-system, system-ui, BlinkMacSystemFont, ui-sans-serif, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 12px; font-weight: 500; line-height: 12px; padding: 9px 14px; text-decoration: none; text-transform: uppercase;"><img src="https://substackcdn.com/image/fetch/w_36,c_scale,f_png,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack.com%2Ficon%2FLucideHeart%3Fv%3D4%26height%3D36%26fill%3Dnone%26stroke%3D%2523808080%26strokeWidth%3D2" width="18" height="18" style="border: none !important; margin-right: 8px; max-width: 18px; min-height: 18px; min-width: 18px; vertical-align: middle;" alt class="icon"><span class="email-button-text" style="vertical-align: middle;">Like</span></a></td></tr></table></td><td width="8" style="min-width: 8px"></td><td style="vertical-align: middle;"><table role="presentation" width="auto" border="0" cellspacing="0" cellpadding="0"><tr><td align="center"><a href="https://substack.com/app-link/post?publication_id=458709&post_id=141865286&utm_source=substack&utm_medium=email&isFreemail=true&comments=true&token=eyJ1c2VyX2lkIjoxNDU2MzMxOSwicG9zdF9pZCI6MTQxODY1Mjg2LCJpYXQiOjE3MDg0NDkzNjUsImV4cCI6MTcxMTA0MTM2NSwiaXNzIjoicHViLTQ1ODcwOSIsInN1YiI6InBvc3QtcmVhY3Rpb24ifQ.RxY_Y_s31y7U9D10e-H4JaniGVhAv2-rhemhhdC0JfA&r=8o54n&utm_campaign=email-half-magic-comments&utm_source=substack&utm_medium=email" class="email-button-outline" style="border: 1px solid rgba(0, 0, 0, .13); border-radius: 9999px; color: rgb(128, 128, 128); display: inline-block; font-family: 'SF Pro Text', -apple-system, system-ui, BlinkMacSystemFont, ui-sans-serif, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 12px; font-weight: 500; line-height: 12px; padding: 9px 14px; text-decoration: none; text-transform: uppercase;"><img src="https://substackcdn.com/image/fetch/w_36,c_scale,f_png,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack.com%2Ficon%2FLucideComments%3Fv%3D4%26height%3D36%26fill%3Dnone%26stroke%3D%2523808080%26strokeWidth%3D2" width="18" height="18" style="border: none !important; margin-right: 8px; max-width: 18px; min-height: 18px; min-width: 18px; vertical-align: middle;" alt class="icon"><span class="email-button-text" style="vertical-align: middle;">Comment</span></a></td></tr></table></td><td width="8" style="min-width: 8px"></td><td style="vertical-align: middle;"><table role="presentation" width="auto" border="0" cellspacing="0" cellpadding="0"><tr><td align="center"><a href="https://substack.com/redirect/2/eyJlIjoiaHR0cHM6Ly9vcGVuLnN1YnN0YWNrLmNvbS9wdWIvcHJhZ21hdGljZW5naW5lZXIvcC9zY2FsaW5nLWNoYXRncHQ_dXRtX3NvdXJjZT1zdWJzdGFjayZ1dG1fbWVkaXVtPWVtYWlsJnV0bV9jYW1wYWlnbj1lbWFpbC1yZXN0YWNrLWNvbW1lbnQmYWN0aW9uPXJlc3RhY2stY29tbWVudCZyPThvNTRuJnRva2VuPWV5SjFjMlZ5WDJsa0lqb3hORFUyTXpNeE9Td2ljRzl6ZEY5cFpDSTZNVFF4T0RZMU1qZzJMQ0pwWVhRaU9qRTNNRGcwTkRrek5qVXNJbVY0Y0NJNk1UY3hNVEEwTVRNMk5Td2lhWE56SWpvaWNIVmlMVFExT0Rjd09TSXNJbk4xWWlJNkluQnZjM1F0Y21WaFkzUnBiMjRpZlEuUnhZX1lfczMxeTdVOUQxMGUtSDRKYW5pR1ZoQXYyLXJoZW1oaGRDMEpmQSIsInAiOjE0MTg2NTI4NiwicyI6NDU4NzA5LCJmIjp0cnVlLCJ1IjoxNDU2MzMxOSwiaWF0IjoxNzA4NDQ5MzY1LCJleHAiOjE3MTEwNDEzNjUsImlzcyI6InB1Yi0wIiwic3ViIjoibGluay1yZWRpcmVjdCJ9.TWMER52Pirz2ZifdBBEK-31ycVlodgWBff11EGMJ2oc?&utm_source=substack&utm_medium=email" class="email-button-outline" style="border: 1px solid rgba(0, 0, 0, .13); border-radius: 9999px; color: rgb(128, 128, 128); display: inline-block; font-family: 'SF Pro Text', -apple-system, system-ui, BlinkMacSystemFont, ui-sans-serif, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 12px; font-weight: 500; line-height: 12px; padding: 9px 14px; text-decoration: none; text-transform: uppercase;"><img src="https://substackcdn.com/image/fetch/w_36,c_scale,f_png,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack.com%2Ficon%2FNoteForwardIcon%3Fv%3D4%26height%3D36%26fill%3Dnone%26stroke%3D%2523808080%26strokeWidth%3D2" width="18" height="18" style="border: none !important; margin-right: 8px; max-width: 18px; min-height: 18px; min-width: 18px; vertical-align: middle;" alt class="icon"><span class="email-button-text" style="vertical-align: middle;">Restack</span></a></td></tr></table></td></tr></table></td><td align="right"><table role="presentation" width="auto" border="0" cellspacing="0" cellpadding="0"><tr></tr></table></td></tr></table></td></tr><tr height="16"><td height="16" style="font-size: 0px; line-height: 0;">&#160;</td></tr></table><div class="footer frontend-email-shared-typed-module__footer--B5jqg" style="color: rgb(128, 128, 128); font-size: 16px; line-height: 26px; padding: 24px 0; text-align: center;"><div style="font-size: 16px; line-height: 26px; padding-bottom: 24px;"><p class="pencraft pc-reset frontend-pencraft-Text-module__color-secondary--WRADg frontend-pencraft-Text-module__size-12--KorQF frontend-pencraft-Text-module__reset--dW0zZ small frontend-email-shared-typed-module__meta--vRZSC" style="color: rgb(128, 128, 128); font-family: -apple-system, system-ui, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 12px; letter-spacing: 0px; line-height: 16px; list-style: none; margin: 0; padding-bottom: 0; text-decoration: unset;">&#169; 2024 <span>Gergely Orosz</span><br>548 Market Street PMB 72296, San Francisco, CA 94104 <br><a href="https://substack.com/redirect/2/eyJlIjoiaHR0cHM6Ly9uZXdzbGV0dGVyLnByYWdtYXRpY2VuZ2luZWVyLmNvbS9hY3Rpb24vZGlzYWJsZV9lbWFpbD90b2tlbj1leUoxYzJWeVgybGtJam94TkRVMk16TXhPU3dpY0c5emRGOXBaQ0k2TVRReE9EWTFNamcyTENKcFlYUWlPakUzTURnME5Ea3pOalVzSW1WNGNDSTZNVGN4TVRBME1UTTJOU3dpYVhOeklqb2ljSFZpTFRRMU9EY3dPU0lzSW5OMVlpSTZJbVJwYzJGaWJHVmZaVzFoYVd3aWZRLjlaZFVjM1FFZDFiR3B6dldVcURWWmIxMmhJbHk1Tm9TNFpnMEpLdzJpd00mZXhwaXJlcz0zNjVkIiwicCI6MTQxODY1Mjg2LCJzIjo0NTg3MDksImYiOnRydWUsInUiOjE0NTYzMzE5LCJpYXQiOjE3MDg0NDkzNjUsImV4cCI6MTcxMTA0MTM2NSwiaXNzIjoicHViLTAiLCJzdWIiOiJsaW5rLXJlZGlyZWN0In0._HDQafnM_czlSVxFIsUbMa9ZUClpSQiB0qXzk5Gpl30?" style="color: rgb(128, 128, 128); text-decoration: underline;"><span style="color: rgb(128, 128, 128); text-decoration: underline;">Unsubscribe</span></a></p></div><p class="frontend-email-shared-typed-module__footerSection--dumyu small powered-by-substack" style="color: rgb(128, 128, 128); font-family: -apple-system, system-ui, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 12px; line-height: 20px; margin: 0; margin-top: 0; padding: 0 24px; padding-bottom: 0;"><a href="https://substack.com/redirect/dd681925-b05b-405b-b930-121eaf33896e?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" style="color: rgb(128, 128, 128); display: inline-block; margin: 0 4px; text-decoration: none;"><img src="https://substackcdn.com/image/fetch/w_262,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack.com%2Fimg%2Femail%2Fgeneric-app-button%402x.png" srcset="https://substackcdn.com/image/fetch/w_131,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack.com%2Fimg%2Femail%2Fgeneric-app-button.png, https://substackcdn.com/image/fetch/w_262,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack.com%2Fimg%2Femail%2Fgeneric-app-button%402x.png 2x, https://substackcdn.com/image/fetch/w_393,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack.com%2Fimg%2Femail%2Fgeneric-app-button%403x.png 3x" width="131" alt="Get the app" height="40" style="border: none !important; max-width: 550px; vertical-align: middle;"></a><a href="https://substack.com/redirect/2/eyJlIjoiaHR0cHM6Ly9zdWJzdGFjay5jb20vc2lnbnVwP3V0bV9zb3VyY2U9c3Vic3RhY2smdXRtX21lZGl1bT1lbWFpbCZ1dG1fY29udGVudD1mb290ZXImdXRtX2NhbXBhaWduPWF1dG9maWxsZWQtZm9vdGVyJmZyZWVTaWdudXBFbWFpbD1pc2hhbi5tYWlsQGdtYWlsLmNvbSZyPThvNTRuIiwicCI6MTQxODY1Mjg2LCJzIjo0NTg3MDksImYiOnRydWUsInUiOjE0NTYzMzE5LCJpYXQiOjE3MDg0NDkzNjUsImV4cCI6MTcxMTA0MTM2NSwiaXNzIjoicHViLTAiLCJzdWIiOiJsaW5rLXJlZGlyZWN0In0.XPQdb-ofkEDffhBVkEHsQwwMoCMnNUYGrua-aR6DkPg?" style="color: rgb(128, 128, 128); display: inline-block; margin: 0 4px; text-decoration: none;"><img src="https://substackcdn.com/image/fetch/w_270,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack.com%2Fimg%2Femail%2Fpublish-button%402x.png" srcset="https://substackcdn.com/image/fetch/w_135,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack.com%2Fimg%2Femail%2Fpublish-button.png, https://substackcdn.com/image/fetch/w_270,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack.com%2Fimg%2Femail%2Fpublish-button%402x.png 2x, https://substackcdn.com/image/fetch/w_405,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack.com%2Fimg%2Femail%2Fpublish-button%403x.png 3x" width="135" alt="Start writing" height="40" style="border: none !important; max-width: 550px; vertical-align: middle;"></a></p></div></div></td><td></td></tr></table><img src="https://eotrx.substackcdn.com/open?token=eyJtIjoiPDIwMjQwMjIwMTcxNTEyLjMuMGQ4OTFhYjY2YThmYzM1ZEBtZzIuc3Vic3RhY2suY29tPiIsInUiOjE0NTYzMzE5LCJyIjoiaXNoYW4ubWFpbEBnbWFpbC5jb20iLCJkIjoibWcyLnN1YnN0YWNrLmNvbSIsInAiOjE0MTg2NTI4NiwidCI6Im5ld3NsZXR0ZXIiLCJhIjoiZXZlcnlvbmUiLCJzIjo0NTg3MDksImMiOiJwb3N0IiwiZiI6dHJ1ZSwicG9zaXRpb24iOiJib3R0b20iLCJpYXQiOjE3MDg0NDkzNjUsImV4cCI6MTcxMTA0MTM2NSwiaXNzIjoicHViLTAiLCJzdWIiOiJlbyJ9.PgxllimXaTvyJmzMiinVxEXSifiNhc2usDtZAFRkSGA" alt="" width="1" height="1" border="0" style="height:1px !important;width:1px !important;border-width:0 !important;margin-top:0 !important;margin-bottom:0 !important;margin-right:0 !important;margin-left:0 !important;padding-top:0 !important;padding-bottom:0 !important;padding-right:0 !important;padding-left:0 !important;"/><img width="1px" height="1px" alt="" src="https://email.mg2.substack.com/o/eJw80EHK5CAQBeDT_C6DGjVm4VlCqZW0TNSg5Qy5_ZDu5l8VvILHxwtAeNR2u6t2YtGpKKy2DJ1YuFVqna1gmCGd24EFGxDGDej3a_RsJHu5aDxfNJpFgF244bhLULALXJUwVmmWnORScSm5WIQWcponHu0qwBsDdg-zjj-K50NOffhOEP5MoWaW-rY3fAMctYHsYW4wYsIS0OFfbHct3zhFJ5SwRktrPgndF7qC__qJRNjYNfwWas6jJLo3LOBPjN_i4c8UgFItT5HSduEray71F5TpAfwofjz3DevDx5ohFXc1ODJQCliOVBAbo8-Yo2P7mLSZZ7H-DwAA__9oFHhz"></body></html>

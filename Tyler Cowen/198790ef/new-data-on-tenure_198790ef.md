@@ -1,0 +1,10 @@
+---
+subject: "New data on tenure"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2025-08-05 07:08:01
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+Tenure is a defining feature of the US academic system with significant implications for research productivity and creative search. Yet the impact of tenure on faculty research trajectories remains poorly understood. We analyze the careers of 12,000 US faculty across 15 disciplines to reveal key patterns, pre- and post-tenure. Publication rates rise sharply during the tenure-track, peaking just before tenure. However, post-tenure trajectories diverge: Researchers in lab-based fields sustain high output, while those in non-lab-based fields typically exhibit a decline. After tenure, faculty produce more novel works, though fewer highly cited papers. These findings highlight tenure’s pivotal role in shaping scientific careers, offering insights into the interplay between academic incentives, creativity, and impact while informing debates about the academic system.
+Here is [the paper](http://marginalrevolution.com?action=user_content_redirect&uuid=c88f8ac72c963e2c56629e5c00dc8d109a2d475c368b65ddaecd80501471b913&blog_id=42693868&post_id=91195&user_id=262258391&subs_id=225460721&signature=69c6ad4068d5bd3f275b2ccf163f7df8&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly93d3cucG5hcy5vcmcvZG9pLzEwLjEwNzMvcG5hcy4yNTAwMzIyMTIy&email_id=53f4cfc045e2e5b6db5bf7749cf74d70). That is by Giorgio Tripodi, Ziang Zheng, Yifan Qian, and Dashun Wang, via the excellent [Kevin Lewis](http://marginalrevolution.com?action=user_content_redirect&uuid=f3fac058fe5692784ee59bc5421d803f19b90cafdfaceaa300608036387ffbfa&blog_id=42693868&post_id=91195&user_id=262258391&subs_id=225460721&signature=0096a85936822a74737c0201e2733fd1&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly93d3cubmF0aW9uYWxhZmZhaXJzLmNvbS9ibG9nL2RldGFpbC9maW5kaW5ncy1hLWRhaWx5LXJvdW5kdXAvaW52ZXN0aW5nLW9wcG9ydHVuaXRpZXM&email_id=53f4cfc045e2e5b6db5bf7749cf74d70).

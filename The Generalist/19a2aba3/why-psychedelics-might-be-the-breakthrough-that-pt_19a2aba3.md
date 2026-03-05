@@ -1,0 +1,98 @@
+---
+subject: "Why Psychedelics Might Be the Breakthrough that PTSD Patients Need | Kevin Ryan (The Godfather of NYC Tech)"
+from: "The Generalist <thegeneralist@substack.com>"
+to: ""
+date: 2025-10-28 12:03:36
+labels: ["CATEGORY_PERSONAL", "INBOX", "The Generalist", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_8815311452832858585", "UNREAD"]
+---
+|
+“Psychedelics increase the neuroplasticity in your brain that we can measure. I could look at your brain before and after psychedelics. Before, it looks like an internet map of Africa — some areas don’t have connectivity. Afterward, it looks like an internet map of Europe, with condensed connections everywhere.”
+[Enterpret](https://substack.com/redirect/bec4d13b-b939-4584-a0ef-1f4031f73129?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o): Transform feedback chaos into actionable customer intelligence.
+[Auth0](https://substack.com/redirect/3377b0bc-47d4-4559-a21f-9fa0b741eda0?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o): Secure access for everyone. But not just anyone.
+[Persona](https://substack.com/redirect/74ccd157-46b0-4f34-a737-71f185b8f31c?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o): Trusted identity verification for any use case.
+Often called the godfather of NYC tech, Kevin Ryan is one of America’s most influential entrepreneurs and investors. He co-founded MongoDB, Business Insider, Gilt Groupe, Zola, and Transcend Therapeutics, and continues to build and back new companies each year through AlleyCorp. Earlier in his career, he led DoubleClick from a 20-person startup to a global leader, taking it public before its acquisition by Google.
+In this episode, Kevin shares his insights on two surprising pockets of the future that he’s betting on: psychedelics for mental health and AI-powered materials science. He unpacks how psychedelics are showing remarkable success in treating depression and PTSD, and why AI may discover revolutionary new materials, from helicopter blades to smartphone glass, that humans never imagined possible.
+We explore:
+The promising results of psychedelics in treating depression, PTSD, and addiction
+How AI is accelerating materials discovery by exploring combinations humans wouldn’t try
+The challenges of building successful incubators and why most attempts fail
+How MongoDB lost $1 billion before turning a profit (and why it was worth it)
+Why e-commerce businesses like Gilt Groupe often struggle against physical retail
+How AlleyCorp plans for the future when shaping its investment strategy
+What it really costs society to imprison someone for a year
+The hard truth about Europe’s tech ecosystem and why it struggles to compete with the US
+([00:00](https://substack.com/redirect/694c42ab-08ed-40db-9597-7064f1354a6e?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) Intro
+([04:30](https://substack.com/redirect/77f0c2b4-5674-4bcf-9e78-f17365aa60b1?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) How Kevin collaborated with Scott Adams
+([07:11](https://substack.com/redirect/cc980cf2-df26-4a13-8fb1-ce9f4e114786?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) The origins of AlleyCorp
+([08:33](https://substack.com/redirect/58794b9e-6d3c-4cc2-b9a3-e8a560f1f7af?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) The challenge of incubation
+([10:00](https://substack.com/redirect/2d460510-bf51-4f8d-b8d9-cd8c369c66db?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) Why intellectual flexibility matters
+([10:54](https://substack.com/redirect/98e95592-0663-41ce-bc5f-6a914750e062?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) What made MongoDB a breakout success
+([13:49](https://substack.com/redirect/dde53dfd-6417-48a7-8123-b1ecda6635bf?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) How shifting market dynamics hurt Gilt’s business
+([16:22](https://substack.com/redirect/30773ae3-8191-4750-a2dc-0135dc657c05?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) What Kevin would do differently if he built Gilt again
+([17:45](https://substack.com/redirect/9feba663-f69a-4b53-b610-fea1d27ad991?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) Juggling AlleyCorp’s long-term vision with day-to-day demands
+([20:26](https://substack.com/redirect/f42f5813-fdf4-4193-8a5d-193b2051e9e2?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) How to make boards more productive
+([22:25](https://substack.com/redirect/d011ce3e-253d-4920-97f1-2889160e8a1e?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) Why Kevin believes investors should also found companies
+([24:18](https://substack.com/redirect/cae99f0a-a31d-4938-9904-04d7e3290fe6?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) Future spaces Kevin is excited to invest in
+([25:52](https://substack.com/redirect/b72c52f8-42bb-4b3f-b4ce-08d8f3a4fb58?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) Kevin’s interest in psychedelics and founding Transcend
+([28:20](https://substack.com/redirect/1edb603f-f85b-4994-bcca-ada2b2a28362?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) Psychedelics for mental health
+([32:03](https://substack.com/redirect/088bcdd9-ee41-4825-a8f9-672102b596bc?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) How psychedelic therapy is being conducted
+([34:11](https://substack.com/redirect/4e87e565-18c8-406c-bf84-c802f8a06264?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) Transcend’s work and the path to approval for methylone
+([37:47](https://substack.com/redirect/6183cb6e-ba5d-4f89-9916-e6b88570fd26?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) The challenges of psychedelic research
+([40:28](https://substack.com/redirect/a5e758f3-2f59-4647-ab6f-d21de22e3547?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) How the Trump administration aims to accelerate psychedelic research
+([41:50](https://substack.com/redirect/fd82db34-3fed-4679-a9a6-984ccac22a30?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) The size and growth of the psychedelic market
+([44:28](https://substack.com/redirect/cde92b91-8231-4293-80b9-3c4a1fae74da?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) Materials science: What it is, its design tradeoffs, and how AI speeds discovery
+([49:02](https://substack.com/redirect/8bc19bdd-93d6-48d0-a5fc-05dc2cb85851?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) Radical AI’s work creating new compounds
+([50:34](https://substack.com/redirect/4fa88359-0610-407e-8086-6b99d9d4403c?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) The industries Radical AI is targeting
+([52:50](https://substack.com/redirect/85f4111e-7403-4ed2-b544-97e899216ace?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) The state of European tech and why it still lags behind
+([58:26](https://substack.com/redirect/be20344a-3887-48be-8a9b-c99c7f034f13?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) Final meditations
+LinkedIn: [https://www.linkedin.com/in/kevinryan3/](https://substack.com/redirect/a1527d5c-f100-449b-88e2-b22fc88384a2?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+How to Change Your Mind: What the New Science of Psychedelics Teaches Us About Consciousness, Dying, Addiction, Depression, and Transcendence:
+[https://www.amazon.com/Change-Your-Mind-Consciousness-Transcendence/dp/1594204225](https://substack.com/redirect/4d5b7544-f6fa-4a5e-a9ed-3d6fbd571d69?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)Breakneck: China’s Quest to Engineer the Future:
+[https://www.amazon.com/Breakneck-Chinas-Quest-Engineer-Future/dp/1324106034](https://substack.com/redirect/14a4ca6b-aed6-475a-bad3-17ec473217d6?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)Why We Sleep: Unlocking the Power of Sleep and Dreams:
+[https://www.amazon.com/Why-We-Sleep-Unlocking-Dreams/dp/1501144324](https://substack.com/redirect/c671f157-2086-4404-bce4-4314a4665891?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)Outlive: The Science and Art of Longevity:
+[https://www.amazon.com/Outlive-Longevity-Peter-Attia-MD/dp/0593236599](https://substack.com/redirect/1cda9c1e-013d-4372-9060-d8e6df382725?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)Birnam Wood:
+[https://www.amazon.com/Birnam-Wood-Novel-Eleanor-Catton/dp/1250321719](https://substack.com/redirect/fdb3bf49-8b8a-4a34-bd0a-2a726b081eba?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)The Odyssey:
+[https://www.amazon.com/Odyssey-Homer/dp/0393356256](https://substack.com/redirect/c54aeca5-a7e0-4dac-b4b3-366a4d957410?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)Invisible Man:
+[https://www.amazon.com/Invisible-Man-Ralph-Ellison/dp/0679732764](https://substack.com/redirect/4df31535-76f9-4d5c-a4b4-009405116c99?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)Abundance:
+[https://www.amazon.com/Abundance-Progress-Takes-Ezra-Klein/dp/1668023482](https://substack.com/redirect/ff5e4f0f-5f61-4c77-bfc9-c3fc2575c829?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)The Optimist: Sam Altman, OpenAI, and the Race to Invent the Future:
+[https://www.amazon.com/Optimist-Altman-OpenAI-Invent-Future/dp/1324075961](https://substack.com/redirect/e3b04173-bc25-4eeb-9f22-530c32352711?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)The Gods of New York: Egotists, Idealists, Opportunists, and the Birth of the Modern City: 1986-1990:
+[https://www.amazon.com/Gods-New-York-Idealists-Opportunists/dp/052551063X](https://substack.com/redirect/700fbf65-4159-4c5a-bbc7-5d8dde4d4bb0?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+Eliot Horowitz on LinkedIn:
+[https://www.linkedin.com/in/eliothorowitz](https://substack.com/redirect/5ad88800-94b9-461d-b8a4-14b32596581d?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)Dwight Merriman on LinkedIn:
+[https://www.linkedin.com/in/dmerr](https://substack.com/redirect/5ad0915c-bc39-460d-ac19-93df9459b1d6?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)Fred Wilson on LinkedIn:
+[https://www.linkedin.com/in/fredwilson](https://substack.com/redirect/cb8a6c0b-aba5-47e4-af4b-48e9c4482900?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)Jamie Dimon on LinkedIn:
+[https://www.linkedin.com/in/jamiedimon](https://substack.com/redirect/290e41fc-a978-4475-9b6b-d0e9d1946a56?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)Joseph F. Krause on LinkedIn:
+[https://www.linkedin.com/in/josephfkrause](https://substack.com/redirect/fecfc494-cc2a-4f26-a45f-38d619b5b673?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)Jorge Colindres on LinkedIn:
+[https://www.linkedin.com/in/jcolindres](https://substack.com/redirect/dd200560-670e-4538-8089-6da3d8dc0d90?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)James Baldwin:
+[https://nmaahc.si.edu/explore/stories/introduction-james-baldwin](https://substack.com/redirect/b8d1d84e-c47f-40fe-810c-c221b5bc38a6?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+Dilbert:
+[https://dilbert.com](https://substack.com/redirect/4b5a35eb-346d-45a0-a2c8-772846453f2c?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)Peanuts:
+[https://www.peanuts.com](https://substack.com/redirect/0633d64a-f204-4807-ae87-b63845dd3e08?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)DoubleClick:
+[https://en.wikipedia.org/wiki/DoubleClick](https://substack.com/redirect/cc6f40b6-758b-4ae3-a0b0-8c04c7639010?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)MongoDB:
+[https://www.mongodb.com](https://substack.com/redirect/2d50b5b4-c2ac-420e-8b33-ee1e5c2f33a5?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)Business Insider:
+[https://www.businessinsider.com](https://substack.com/redirect/a00fbd4e-14b0-4bf0-a990-0d21e907540f?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)Zola:
+[https://www.zola.com](https://substack.com/redirect/9d714ee4-469a-41a1-950f-c19b96093821?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)Gilt Groupe:
+[https://en.wikipedia.org/wiki/Gilt_Groupe](https://substack.com/redirect/c0867b33-007c-4ef4-9442-8f0a31c30a63?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)AlleyCorp:
+[https://alleycorp.com](https://substack.com/redirect/0cb0f7da-8e2d-435c-816b-705da82a7e09?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)Oracle:
+[https://www.oracle.com](https://substack.com/redirect/eabfceba-2b68-4c21-b7f1-f15b8c956b83?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)SAP:
+[https://www.sap.com](https://substack.com/redirect/343fe201-282c-4865-8266-a6cc1f02329f?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)Snowflake:
+[https://www.snowflake.com](https://substack.com/redirect/a0ed6f57-1ae1-4160-ab90-52b79c543145?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)John Deere:
+[https://www.deere.com](https://substack.com/redirect/00ff0c4c-4f1f-42c4-92b4-16c3001fd984?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)Tech:NYC:
+[https://www.technyc.org](https://substack.com/redirect/d9563e4a-f29f-4a1d-b278-c178a5bb9d3a?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)Stepful:
+[https://www.stepful.com](https://substack.com/redirect/72ba726e-a544-4920-bc3b-631ae5cd8dea?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)Yale Program for Psychedelic Science:
+[https://medicine.yale.edu/psychiatry/research/clinics-and-programs/psychedelic/](https://substack.com/redirect/3a8d5c48-26cb-4fae-b763-1c28987c799d?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)Transcend:
+[https://transcendtherapeutics.com/](https://substack.com/redirect/78490713-8231-4f14-bcf3-c95a203247db?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)A Multi-Site Phase 3 Study of MDMA-Assisted Psychotherapy for PTSD (MAPP1):
+[https://clinicaltrials.gov/study/NCT03537014](https://substack.com/redirect/2645e151-b262-4b17-b611-64d2191f6203?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)Ibogaine treatment outcomes for opioid dependence from a twelve-month follow-up observational study:
+[https://pubmed.ncbi.nlm.nih.gov/28402682/](https://substack.com/redirect/7b224c6a-5824-4a22-8772-a7e7c9859de9?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)Methylone:
+[https://www.sciencedirect.com/topics/medicine-and-dentistry/methylone](https://substack.com/redirect/4b0a27a4-c1f4-48b1-9e5e-8f2919485a11?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)Radical AI:
+[https://www.radical-ai.com](https://substack.com/redirect/6ff345a9-04b3-4354-a6fc-1e1048745b8e?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)Uala:
+[https://www.uala.com.ar](https://substack.com/redirect/e9c8e180-ee0b-4485-b9df-2a004e3455aa?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)Noma:
+[https://noma.dk](https://substack.com/redirect/72f25b8b-986e-4c05-a7e5-e1253bc268ad?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)Revolut:
+[https://www.revolut.com](https://substack.com/redirect/52920a45-89d4-424e-9570-3955027907b9?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)Monzo:
+[https://monzo.com](https://substack.com/redirect/7589e0a4-5e4e-4c8f-a991-c9f278df2bb3?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)Here’s What Happens When You Give People Free Money:
+[https://www.wired.com/story/sam-altmans-big-basic-income-study-is-finally-out](https://substack.com/redirect/a7648359-bab3-4c9c-9271-6b1c0beb4d51?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)Altered States and Social Bonds: Effects of MDMA and Serotonergic Psychedelics on Social Behavior as a Mechanism Underlying Substance-Assisted Therapy:
+[https://pmc.ncbi.nlm.nih.gov/articles/PMC11378972/](https://substack.com/redirect/86c28fe2-4444-43b2-a5c1-ccd2d200c38b?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+I’d love it if you’d subscribe and share the show. Your support makes all the difference as we try to bring more curious minds into the conversation.
+Production and marketing by [penname.co](https://substack.com/redirect/5c2e4f99-4e70-47f6-88b6-516bdaa17b51?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o). For inquiries about sponsoring the podcast, email jordan@penname.co.
+You're currently a free subscriber to [The Generalist](https://substack.com/redirect/98b99f16-abd7-41a3-bc8c-0cb3def32a71?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o). For the full experience, [upgrade your subscription.](https://substack.com/redirect/2/eyJlIjoiaHR0cHM6Ly93d3cuZ2VuZXJhbGlzdC5jb20vc3Vic2NyaWJlP3V0bV9zb3VyY2U9cG9zdCZ1dG1fY2FtcGFpZ249ZW1haWwtY2hlY2tvdXQmbmV4dD1odHRwcyUzQSUyRiUyRnd3dy5nZW5lcmFsaXN0LmNvbSUyRnAlMkZ3aHktcHN5Y2hlZGVsaWNzLW1pZ2h0LWJlLXRoZS1icmVha3Rocm91Z2gmcj04bzU0biZ0b2tlbj1leUoxYzJWeVgybGtJam94TkRVMk16TXhPU3dpYVdGMElqb3hOell4TmpVek5ETTRMQ0psZUhBaU9qRTNOalF5TkRVME16Z3NJbWx6Y3lJNkluQjFZaTB4TlRjMk5DSXNJbk4xWWlJNkltTm9aV05yYjNWMEluMC5yVkhYTnBNM3pJazlPSjNYVWktdFdNaF9nWUNldHMyZl9XVFZNNl9VanJBIiwicCI6MTc2NzU0NzY4LCJzIjoxNTc2NCwiZiI6dHJ1ZSwidSI6MTQ1NjMzMTksImlhdCI6MTc2MTY1MzQzOCwiZXhwIjoyMDc3MjI5NDM4LCJpc3MiOiJwdWItMCIsInN1YiI6ImxpbmstcmVkaXJlY3QifQ.s0tXGJest79E5s3McEhwtCfNQYsGc57aAuZd-o7iC3s?&utm_source=substack&utm_medium=email&utm_content=postcta)

@@ -1,0 +1,21 @@
+---
+subject: "How Indian women’s go-to drug, Meftal Spas, became a victim of its own popularity"
+from: "The Ken <info@the-ken.com>"
+to: ""
+date: 2024-01-12 02:39:10
+labels: ["CATEGORY_PERSONAL", "INBOX", "The Ken", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_8244464457792971031", "UNREAD"]
+---
+Good Morning Ishan,
+What do band-aid, velcro, xerox, Q-tips, scotch tape, post-it notes, chapstick, and jacuzzi have in common? The hint is in the names.
+These aren’t just consumer goods but brands that became so popular that people use them as everyday words. However, meteoric success can have its downsides, too.
+Take, for instance, Meftal Spas—Indian women’s go-to medicine for easing menstrual cramps. The antispasmodic drug manufactured by Blue Cross Laboratories recently became a victim of its market dominance.
+That happened when the Indian Pharmacopoeia Commission, an autonomous institution under the Ministry of Health and Family Welfare, issued a safety alert on mefenamic acid, which may cause an adverse drug reaction called DRESS syndrome (Drug Reaction with Eosinophilia and Systemic Symptoms).
+Mefenamic acid and dicyclomine are the two main components in Meftal Spas. Over 70 brands use this combination. But it was Meftal Spas, which has an 87% market share, that got the negative press (even though the advisory didn’t mention any brand names).
+Consumers panicked. Some pharmacies and hospitals turned cautious. However, sections of the healthcare industry are now questioning the criteria, data used, and transparency in issuing these safety alerts. Today’s story by Shivani finds out why.
+Go ahead and dive deep into this free read: [https://the-ken.com/story/how-indian-womens-go-to-drug-meftal-spas-became-a-victim-of-its-own-popularity/](https://the-ken.com/story/how-indian-womens-go-to-drug-meftal-spas-became-a-victim-of-its-own-popularity/?utm_source=daily&utm_medium=email&utm_campaign=daily_newsletter) (9-minute read)
+Regards,
+Meenal
+P.S: We are conducting a survey for Day Zero, The Ken’s subscriber newsletter focussed on B-schools’ 2023-24 placement season. If you are a student or an alumnus of a non-IIM or a recruiter who routinely, consistently, and exclusively hires from non-IIMs, [this survey](https://theken.typeform.com/nonIIMs) is for you. The survey results will be published in Day Zero’s next edition on 16 January. Participants would also get group access to insider scoop and deep insights.
+What you just read is the personalised daily introduction to The Ken's story. Written by a different person each day. Often insightful, sometimes witty, and very rarely boring. Someone sent this to you? [Sign up for free](https://the-ken.com/?modal=register&utm_source=footer&utm_medium=email&utm_campaign=morning_email_ind). [Dont like these? You can unsubscribe](https://link.the-ken.com/asm/unsubscribe/?user_id=2349339&data=fcQQ40eln9rjgJ7FEIGdVdRHi29k0oOtQrTuyR7Wqf9oMDAwdTAwMDRdk_5zW1DqyGZOkBiZJF1MkX9xZRVXhNtKYTaGV0JQ4o-9NgrO6u4RqEsi-EGXPnOKZwx9x7PqvBjPYv_vLMmu4y41nH3yYMvtQ17hIZNMR6zxoMJR9G-Jyd3Vln6XRvVK9ce5n6ddtnlptxMmgxCslG7qe0-_2PWue7KzNoHfR2fvKH4LMBtB-eNGTpJtt_3DIUXbbA_kOcVKB8BjVGlMDcE5W4seVv02PsSm3OuUxsqtlEvbOiKgTAI8E7jMBBcmRMWAsnF1dUOc88PmzadEEviuhd4DZf0R-dM19neXwPE0lWhV_mFG6OZ1A9z8ln8a4SX_yy5Q9qleCgp1EldSN2werd95q8HTrD9kWxP-qfqCH9SstQy86DCfw6PEFTun2y-btjKfgs5w9Zbqof-ZnRd7M9K_Ypye214CJT5R_vww1jUWOAwTo-JjolQcjDkE3CcNIvMV0o3g_GHxgfweInT6n7r_uCLX1OXugkJCflAKor2VCbIldRX2j7BNMiLnf8Qpfp2Gml1-6BvehNU=) Dont want to hear from us again? [ Unsubscribe from our emails here](https://link.the-ken.com/asm/?user_id=2349339&data=FOwKDDKwtMWs3meLLc8K_tJP3Pii5Ma5yH48CAn0zkhoMDAwdTAwMC7bhGuC9Juzz8S96WU87Y1f68CkXl5vSOe9kGXiQ7O5uufz0O0Hi0sMnr-ANtnvbrUqY_7kjTftPCZJOBo-Jpjc_Iynsz6Uo3LnMGA4eS8lt9WMonmA6hYnk7EZkWhtvBje2G3p2gffAIAo2qSykD6VtHPWIVBExJzZR_ecY3cKC3AnQKB4356QdnIljqQ5ynQSbUTIT1dLEmAX6iWv-RDF9_Oe8jDLIdlLx367DuBj5aRc_HR2fCLUIvymhKUj6utUpkyS_ukmb2b2iUY0MtJisZY7IKImoh17jWcn1L9pOyVDFAu4C0jPz6K0WOHs_xxGoLpep_aB0BYyin_oSHn9oKr6dtCABiwV2OiFBK75jXndKa361SwUcLZmzbNaLE9AVeK5SMcalrfrFaOTeNOjeo4bcCbTlz9FrYUB3m-tfLDJt31uldfcdpv0OZ_qkwVctNXd7i5hdwrNdyb660wst2aSyIZgY6d5tii0fKLccmlTjf3vjmeBWTtmzrB5vw==).
+Something wrong? Tell us at [support@the-ken.com](mailto:support@the-ken.com)

@@ -1,0 +1,12 @@
+---
+subject: "Should gdp include defense spending?"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2025-05-14 06:52:43
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+Maybe not, isn't that a form of double counting? After all, defense spending is there to enable the production of other goods and services, it is not useful per se. Chandler S. Reilly and Vincent Geloso recalculate the history of U.S. economic growth using this new method:
+In fact, our corrections applied to the entire period from 1790 to today show new key facts. Our corrected GDP series reveals that the first half of the 20th century, rather than showcasing robust growth, emerges as a prolonged period of stagnation interrupted by crises. The economy, which had grown at an exceptional pace from 1865 to 1913, gradually deviated from this path between 1913 and 1950. Many claim that this deviation only occurred during the Great Depression and that it ended during the
+[Thirty Glorious]years after. But our corrected series show that America never returned to its exceptional growth path.Finally, pairing our corrected GDP with historical income distribution (i.e., inequality) data reshapes the narrative of the “Great Leveling” during the mid-twentieth century and particularly during wartime years. The leveling, traditionally celebrated as a period of diminishing inequality, actually coincided with declining living standards for everyone — even the wealthy.
+Recommended, read it [here](http://marginalrevolution.com?action=user_content_redirect&uuid=b10d0d2ef9d2807eed0e036126de9e56855478ec42c0ffe1f07b3edc9cd7536b&blog_id=42693868&post_id=90657&user_id=262258391&subs_id=225460721&signature=73d76328707dbb68cc1000b983f552ba&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly90aGVkYWlseWVjb25vbXkub3JnL2FydGljbGUvbWFraW5nLWdkcC1ncmVhdC1hZ2Fpbi1hLWNvbXBsZW1lbnRhcnktYXBwcm9hY2gvP2ZiY2xpZD1Jd1kyeGphd0tRT3JabGVIUnVBMkZsYlFJeE1RQmljbWxrRVRGWlFuWnZUVFZJYUd3eFNYZzFVMUZoQVI0MzlMalRiOG9XdWFpRC01UE9FYkIweVlqcTBieFA5VElPRVZnVm9aWFBkVHJHV0M0cElTSGxPazZKV0FfYWVtX0hENXFrNEpHT3NHTWlkX3J1aTR5eGc&email_id=966b1f30f9e27be312c7c72d4d783744), of real importance.

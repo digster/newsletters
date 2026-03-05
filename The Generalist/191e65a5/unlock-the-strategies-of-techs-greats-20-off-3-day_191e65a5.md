@@ -1,0 +1,43 @@
+---
+subject: "Unlock the strategies of tech's greats (20% off, 3 days only)"
+from: "The Generalist <thegeneralist@substack.com>"
+to: ""
+date: 2024-09-12 13:04:04
+labels: ["CATEGORY_PERSONAL", "INBOX", "The Generalist", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_8815311452832858585", "UNREAD"]
+---
+|
+Dear Reader,
+We've got something special for you.
+Over the past year, The Generalist has grown to over 118,000 readers. We're thrilled to have you among them. Your curiosity and engagement fuel our mission to explore the frontiers of tech and venture capital.
+Now, we'd like to invite you to join us on a deeper journey.
+For the next 72 hours, [we're offering a rare 20% discount](https://substack.com/redirect/84418ff9-2bc0-4424-8c86-b70642c8e3e4?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) on our premium newsletter. For just $19/month or $200/year, unlock access to Generalist+, your passport to tech's inner sanctum. Everything we do is designed to make you a better investor and builder. Here's what you can expect:
+The Future 50. Our meticulously curated database of the world’s highest-potential startups, nominated by the industry's sharpest minds. Understand breakout companies before the rest of the market. Your early-warning system for the next unicorn.
+Management Playbooks. Dissecting the strategies of tech's luminaries. Our first edition unpacked the polarizing genius of Elon Musk. Make sure you get upcoming playbooks on Bill Gates, Steve Jobs, Jeff Bezos, and more. “Founder Mode,” deciphered.
+Legendary Letters. Intimate correspondences with legendary founders and investors, just for premium subscribers. Read through our private emails with titans like Reid Hoffman and Vinod Khosla. Wisdom, unfiltered.
+Investor Guides. Definitive tactical guides on the mechanics of venture capital. Want to know how to raise your first fund? Eager to spot the next supertrend? Planning to raise from institutional LPs but not sure where to start? We've got the blueprints.
+A game-changing library. Unlock hundreds of thousands of words of high-quality insights on the world of tech and venture capital. Our evergreen archive features a year’s worth of actionable articles to help you level up.
+Generalist+ is more than a product. It's your competitive edge. Here’s what members have said:
+“AMAZING reports on VC sourcing/winning.”
+“Amazing content, keep going!”
+“Loved reading your article about starting a VC fund. Can't wait to dive into the archives”
+“You do great work and publish great content/reads. Please keep doing the great work that you are doing.”
+“I really enjoy the thoughtfulness you put into your writing. There is so much noise in the tech world and I never regret opening your work.”
+“I've always found your writings to be very thoughtful and a great synthesis of important tech trends!”
+“The letters to a young investor just seemed too good to pass up :)"
+“Mario provides in depth, never-gets-old insights from leading technologists of our age and packages them in a creative, friendly format.”
+“Your Letters to a Young Investor is my go to mantra book. Thank you so much for sharing such profound and insightful content with the world.”
+“The Generalist offers the most in-depth, well-researched, and thought-provoking insights.”
+With us, you'll:
+Spot paradigm-shifting startups before they hit the mainstream
+Study the art of company-building from those who've done it
+Elevate your investing acumen to the next level
+Acquire insights that transform your career and portfolio
+Invest in your continuous education and improvement
+In essence, Generalist+ is your ticket to dangerous levels of competence.
+Our subscribers – leading VCs, founders, and operators – rely on us to serve as an early-detection system and ongoing education. They know that in the fast-paced world of tech, knowledge isn't just power. It's an edge.
+Don't miss this opportunity. Join the ranks of tech's best thinkers and doers.
+Remember, this 20% discount ends in 72 hours. Act now to lock it in.
+To your success,
+Mario
+P.S. Remember: The best investments are in yourself.

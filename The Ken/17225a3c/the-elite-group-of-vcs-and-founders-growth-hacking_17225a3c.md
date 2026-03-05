@@ -1,0 +1,20 @@
+---
+subject: "The elite group of VCs and founders growth hacking India’s pandemic"
+from: "The Ken <info@the-ken.com>"
+to: ""
+date: 2020-05-18 02:36:15
+labels: ["CATEGORY_PERSONAL", "INBOX", "The Ken"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_8244464457792971031"]
+---
+The email came to me on 5th May, from an entrepreneur I hadn’t heard of. "There’s something happening which is very, very crucial and only The Ken can crack it. I do not want to share more about it in email but will share it in any secure call.”
+I replied to the whistleblower the same day, but as often happens more frequently than investigative newsrooms will admit, did not follow up promptly enough. Many tips often die like this, but thankfully, not this one.
+Because the whistleblower emailed me again a day after we published [an investigative story on iSpirt](https://link.the-ken.com/uni/ls/click?upn=sy6ExvMQ-2BqIqW2Qsf-2FVG5sc84ge4M35NkSHIl0HH-2B5DEXk5zoD6gOw8IWq7-2FkmWt2TIbz7gIHjSzK4LBr3ng3EdCTn7GpRLTILPjOT0sS8k-3Dpu6t_dmDs81p1OM5gBGYvHfsMFvgp9PcMB6iZkwowmLx-2FVhwlHXbL5m6csiptGuneRwktW27c6ZwIBsjV67BZcfkOlPppVavmb9GVjXF4V-2FTqNpVPx6EkIUA17N6re1I9lEwQCjMui-2FIFdlhiL9B0Chnzo8LtWNc9IjxP5Jb6cPS1pinRrnHrmmZw6gPaDSkwML-2BTdEcivMAZ1tJr4loPi4V6DAzmdPoYz-2FDA28Tja4d3alaX-2BVVWhHVJyR6RANUA0z-2FN-2BREy1dg-2B0YK7IuWdoKNSrKxPVeNXo-2BCcbk-2FQvwC5c3aX4Br4MslMkFXi2XMRc7Q6f5ULmpycXio2fJaJQ1nK-2BOuNEE0kQWZmt-2FBbxA9tR6rr6DyGFZsxmhooOE9mY10SNhp2uMFrRr9p2IHcBWyi4nqfnGSEbvIelJ2ICg1d3sBAJoPwZqFd2L2m7cBOpVhz), arguably India’s most powerful technology think tank, and their ambitious plans to build a real-time lending platform for Indian MSMEs. The whistleblower had read our story and noticed a mention about iSpirt’s plans around telemedicine.
+"I want to talk about that to you. Their entire focus is now shifting towards building the Bharat Health Stack. I request you to keep everything I tell you confidential.”
+After kicking myself for not responding earlier, I quickly scanned through the email. As a journalist who has written about iSpirt in depth, I was doubly interested now.
+"I am part of the calls and they are trying to monopolise digital healthcare,” said the whistleblower. "They are having us in the calls for namesake but the idea is to control the monopoly. This is nothing short of a mafia."
+Within 24 hours, Seema, our editor, and Arundhati, one of our most experienced writers, were working on the story. And boy, what a story it is.
+An elite group of VCs and founders who see an opportunity to piggyback on the 100 million installs of Aarogya Setu, India’s contact tracing app for Covid-19. Aarogya Setu is racing up the app charts because India’s government has made it practically mandatory for anyone who wants to earn a living or travel.
+For a handful of massively funded tech startups (read: hundreds of millions of dollars) and their VC backers, this could mean a gateway to a telemedicine dream that has never taken off. iSpirt makes a return appearance again because it's not possible to say “stack” aloud in Bengaluru without an iSpirt volunteer suddenly perking up. There are more acronyms than you care for, all the more to confound anyone who tries to piece together the puzzle.
+But piece together is just what Seema and Arundhati have done.
+“What are Flipkart, Amazon and PhonePe doing in this alliance? The tech stack is controlled by 1mg and Practo. Why haven’t they asked us for engineers? They only asked us for our doctors, we can easily contribute our engineers,” said a founder, whose company has a few thousand doctors on its platform.
+“Never let a good crisis go to waste,” said Winston Churchill, as he allied with Joseph Stalin and FD Roosevelt to form the United Nations. The three key players in today’s story are Mukesh Bansal, Shashank ND and Prashant Tandon, the CEOs of Cure.fit, Practo, and 1mg. What is their United Nations?

@@ -1,0 +1,25 @@
+---
+subject: "The science behind bingeing"
+from: "The Ken <info@the-ken.com>"
+to: ""
+date: 2020-07-26 03:28:57
+labels: ["CATEGORY_PERSONAL", "INBOX", "The Ken"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_8244464457792971031"]
+---
+“Just one more episode.” We probably whisper this to ourselves when the clock hits midnight, rationalising how many hours of sleep we would get if we watched another episode, and should we set the morning alarm for an hour later than usual?
+Turns out, our binge-watching behaviour is backed by science. Experts have offered lots of reasons as to why we do this—stress-relief, the feel-good factor, escapism, the pressure to be able to participate in discussions. Ultimately, though, it all comes down to dopamine, the hormone that’s involved with reward and motivation. The “main chemical of pleasure”, so to speak.
+“When binge-watching your favourite show, your brain is continually producing dopamine, and your body experiences a drug-like high. You experience a pseudo-addiction to the show because you develop cravings for dopamine,” writes one expert.
+As writers, our dopamine-hit comes from a well-researched, deeply-reported, and beautifully-written story. As part of the edit desk, mine comes from getting no rebuttal emails the next day. And I hope, as subscribers, you get some of yours from reading what we put together over the week for you. Whether you choose to read one story a day or binge them all together over the weekend.
+Vandana, on Monday,
+[wrote about](https://the-ken.com/story/hero-electronix-deep-tech-ambitions/?utm_source=recap_story&utm_medium=email&utm_campaign=recap_newsletter) how a brand known for its automobiles is now dipping its toe into the unlikeliest of sectors—deep tech. Hero Electronix is betting on connected devices and semiconductor engineering. And it is doing so by strategically—and carefully—investing.
+Tuesday saw Arundhati
+[explain why](https://the-ken.com/story/indian-fintechs-most-wanted-the-elusive-billdesk-acquisition/?utm_source=recap_story&utm_medium=email&utm_campaign=recap_newsletter) BillDesk, a 20-year-old payment aggregator, is almost always in the news for an acquisition. It processes payments to the tune of $80 billion per year. It has over 50% market share in bill payments. And everyone seemingly wants to buy it.
+On Wednesday, we had an
+[insightful story](https://the-ken.com/story/walmart-labs-and-indias-offshoring-3-x-moment/?utm_source=recap_story&utm_medium=email&utm_campaign=recap_newsletter) about India’s third offshoring wave. Overseas companies are no longer treating India and its talent as their outposts. Instead, Indian centres are now an integral part of their operations, an extension of the headquarters. This third wave could either continue or turn into Offshoring 4.0, writes Kunal.
+Our story on Thursday, by Shreedhar, was about RBI’s attempt at disrupting the forex segment with FX-Retail, a foreign exchange trading platform it introduced for retail customers. But banks are reluctant to push the platform due to the discrepancy in margins offered, and its interface isn’t very user-friendly. How will this best-kept secret fare? This was also our
+[free story](https://the-ken.com/story/rbi-retail-forex-disruption/?utm_source=recap_story&utm_medium=email&utm_campaign=recap_newsletter) of the week, so go ahead and hit that share button.
+Friday saw one of our rare editions of
+The Interview. This time, Rohin
+[sat down](https://the-ken.com/story/the-interview-total-environment-kamal-sagar/?utm_source=recap_story&utm_medium=email&utm_campaign=recap_newsletter) with Kamal Sagar, the CEO of real estate company Total Environment. Between conversations about design in architecture and building homes in a post-Covid world, Sagar gave us a glimpse into how he set out to build the Apple of real estate.
+That’s it from me this week. Hope you’re well and staying safe.
+PS. I’ve lined up a long list of guilty-pleasure Korean dramas to watch. Are you currently bingeing anything interesting? We’d love to know.

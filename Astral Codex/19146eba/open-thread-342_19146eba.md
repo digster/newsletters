@@ -1,0 +1,10 @@
+---
+subject: "Open Thread 342"
+from: "Astral Codex Ten <astralcodexten@substack.com>"
+to: ""
+date: 2024-08-12 14:07:02
+labels: ["Astral Codex", "CATEGORY_PERSONAL", "IMPORTANT", "INBOX"]
+label_ids: ["Label_6409723252142624155", "CATEGORY_PERSONAL", "IMPORTANT", "INBOX"]
+---
+This is the weekly visible open thread. Post about anything you want, ask random questions, whatever. ACX has an unofficial [subreddit](https://substack.com/redirect/83890ad8-7ec5-4d7d-81c3-cb968086d5da?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o), [Discord](https://substack.com/redirect/fdbf0b61-dd4a-4cb6-a0e4-d91b723b3b2c?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o), and [bulletin board](https://substack.com/redirect/7b2f697a-7650-4638-a86f-963ae65fc09b?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o), and [in-person meetups around the world](https://substack.com/redirect/72797c8c-4e51-4d33-b4a5-35b89fb48e88?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o). 95% of content is free, but for the remaining 5% you can subscribe [here](https://substack.com/redirect/401fedf2-a077-4969-8481-db8772f75a45?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o). Also:
+1: RIP Jake Seliger, local [blogger](https://substack.com/redirect/e74196be-d6dd-4bb6-8396-5b59ffee0496?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o), commenter, and healthcare policy advocate. You can read his post about his death [here](https://substack.com/redirect/fe07f762-98ab-44f6-9d09-154bce390bf2?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o), and donate to the GoFundMe for his family [here](https://substack.com/redirect/1d2a7715-e3c2-4737-a13c-26cefa8b7293?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o).

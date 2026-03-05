@@ -1,0 +1,10 @@
+---
+subject: "ACX Survey Results 2024"
+from: "Astral Codex Ten <astralcodexten@substack.com>"
+to: ""
+date: 2024-04-19 09:37:03
+labels: ["Astral Codex", "CATEGORY_PERSONAL", "INBOX", "UNREAD"]
+label_ids: ["Label_6409723252142624155", "CATEGORY_PERSONAL", "INBOX", "UNREAD"]
+---
+Thanks to the 5,981 people who took the 2024 Astral Codex Ten survey.
+I’ll be publishing more complicated analyses over the course of the next year, hopefully starting later this month. If you want to scoop me, or investigate the data yourself, you can download the answers of the 5500 people who agreed to have their responses shared publicly. Out of concern for anonymity, the public dataset will exclude or bin certain questions². If you want more complete information, email me and explain why, and I’ll probably send it to you. Download the public data ( If you’re interested in tracking how some of these answers have changed over time, you might also enjoy reading the 1 I can’t make Google Forms only present data from people who agreed to make their responses public, so I’ve deleted everything identifiable on the individual level, eg your written long response answers. Everything left is just things like “X% of users are Canadian” or “Y% of users have ADHD”. There’s no way to put these together and identify an ADHD Canadian, so I don’t think they’re privacy relevant. If you think you’ve found something identifiable on the public results page, please let me know. 2 I deleted email address, some written long answers, some political questions that people might get in trouble for answering honestly, and some sex-related questions. I binned age to the nearest 10 years and deleted the finer-grained ethnicity question. I binned all incomes above $1,000,000 into “high”, and removed all countries that had fewer than ten respondents (eg if you said you were from Madagascar, it would have made you identifiable, so I deleted that). If you need this information for some reason, email me. You're currently a free subscriber to |

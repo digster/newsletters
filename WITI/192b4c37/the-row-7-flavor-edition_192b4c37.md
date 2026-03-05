@@ -1,0 +1,11 @@
+---
+subject: "The Row 7 Flavor Edition"
+from: "\"Why is this interesting?\" <whyisthisinteresting@substack.com>"
+to: ""
+date: 2024-10-22 15:01:39
+labels: ["CATEGORY_PERSONAL", "INBOX", "UNREAD", "WITI"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "UNREAD", "Label_5752899537867939131"]
+---
+Colin here. Frommer
+Why is this interesting? First, I love how when I have an exceptional piece of produce, it is like tasting the essence of the thing in HD. Reading Dan’s piece, I realized how rarely that happens: It rings true that the way these things make their way to our produce aisles is intended for scale and commodification, rather than optimising for how good they can actually taste. Tomatoes are a common example of this, but I was particularly intrigued with Row 7’s description of potatoes, which you don't normally think of as bursting with flavor. Yet here’s a detail from their site: "Selected by second-generation potato breeder Walter De Jong, this versatile little potato is delicious roasted, smashed or boiled. The creamy flesh is naturally packed with flavor—no butter required." I normally think of a potato as a bland vessel for other accoutrements like butter and sour cream (or caviar if ya nasty), but it makes sense that a beautiful potato, grown from the right seed in the right conditions, would jump off the figurative plate a bit. In fact, it reminded me of the Mallmann story, where he created an entire tasting menu
+The only issue with Row 7 right now is that the prices are predictably high. As it grows, the company becoming able to compete slightly better on price (even in a luxury category at premium retailers) will likely be necessary. That said, if you look down the aisles of Erewhon LA, it’s clear there are plenty of consumers willing to pony up for style and flavor—and that’s without any of Row 7’s compelling narrative. If the company can truly make vegetables more delicious and flavorful, communicate that well, and also mindfully think about sourcing, farmers and the supply chain, we might just have a winner. (CJN) Invite your friends and earn rewardsIf you enjoy Why is this interesting?, share it with your friends and earn rewards when they subscribe. |

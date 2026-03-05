@@ -1,0 +1,19 @@
+---
+subject: "Cheap products, fast shipping, and variety. Temu has buyers hooked to the cart"
+from: "The Ken <info@the-ken.com>"
+to: ""
+date: 2024-01-12 00:10:14
+labels: ["CATEGORY_PERSONAL", "INBOX", "The Ken", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_8244464457792971031", "UNREAD"]
+---
+Good Morning Ishan,
+I was late to explore Temu, the Chinese e-commerce site that’s been making its way around the globe. The first time I visited its website, I had to spin a wheel. I won a US$100 discount code. I guess it was time to buy some stuff I didn’t need?
+But where to begin? There were countdowns for limited deals. Steep discounts of 60%, 70%, 90% off. Free shipping on all orders. And a modal that constantly emerged and faded out, telling me who just placed an order or which merchant just received a high rating.
+By now, you may have seen the haul videos where influencers drag item after item out of a box, then say the whole order cost less than what they’d pay for lunch. Or you might be living in an apartment furnished with products bought on the platform by your landlord in one go. Temu’s entry into the limelight in the past year was gradual then sudden, and it appears to only be gaining steam.
+Our new contributor, Lu, spoke to a range of folks in China, the United Kingdom, and Canada to find out what it takes for an e-commerce platform to go from zero to global in a finger snap. To begin with, Temu’s playbook has the DNA of Alibaba, Amazon, Pinduoduo, and Shein. But there’s also a dose of cold efficiency that is alienating some of the suppliers that have been with the platform since its formation.
+Find out more by reading Lu’s report here: [https://the-ken.com/story/cheap-products-fast-shipping-and-variety-temu-has-buyers-hooked-to-the-cart/](https://the-ken.com/story/cheap-products-fast-shipping-and-variety-temu-has-buyers-hooked-to-the-cart/?utm_source=daily_story&utm_medium=email&utm_campaign=daily_newsletter) [7-minute read]
+Regards,
+Brady
+[brady@the-ken.com](mailto:brady@the-ken.com)
+What you just read is the personalised daily introduction to The Ken's story. Written by a different person each day. Often insightful, sometimes witty, and very rarely boring. Someone sent this to you? [Sign up for free](https://the-ken.com/?modal=register&utm_source=footer&utm_medium=email&utm_campaign=morning_email_ind_shared). [Dont like these? You can unsubscribe](https://link.the-ken.com/asm/unsubscribe/?user_id=2349339&data=h6gBQzyS1WQxkYw3aeCQBf4_32rUC0FFmUXDMosBWC5oMDAwdTAwMALOl924oy-LkurErd1sJex0NxzNi_wJXdiSRWrzpOAptc_5gF1Nv-qhDMqDfYEF2eUDrqtf8o-w40pRts78PhKexEDwfCmIl6ZQL5vgDoxYK6AfHqLdatBcX7kYF-ZvBJ82dUOosdaUS4U0nHVDwSE2KXQNhxLWbvmFOQC8owQy1WZPSDb5qwV6MhWcALpSY256X3sl6CKpiob7R0caDzmgz9Q9TI0Xu884fUrb_TyJwPHt6M_l3PjpMai6Jusdk48Q9HFPUxP3k81ia1VxkPG8H-KmcjxH5h5LDlHx_MHnikja-Gk63H4V6ACRxfwTCPySRg3SjMX4jRtvzomxUFYJu4NFeDMp-mM4ZEIVclYvC4YfxtQppQC40TIoVXp_B_SLfHNhohhOTeO25HIm0g4lu1MhYAZ-aTPfSCURPrm6RpftLIkqT5M9D_X8lz6-4UbnDggeuyQ2zxUUYstfyvzESloUffIN8QjDoyJYx1d0rI_v7XjWcvOTl7Eu9s8a9cboCRdSaQjO7NI5s1HU0os=) Dont want to hear from us again? [ Unsubscribe from our emails here](https://link.the-ken.com/asm/?user_id=2349339&data=w4XQCjrL2nijHKRm46vRZE1-Sjxa9V1s08fjVakhniloMDAwdTAwMFv3pWGFSCd7QDxr5ASODGXUc9-D27q1pAbhw8_Od19n53spTpxEzy23YpFtqiAdVCGr6zHlcwvuZbLaHGfYTw1RIpm8yzlJ3l_9-l76l3uuRIWHc9p9BSjvER67ZYgROPs9HW8Oas2ZWJ9t37N17fjQfh8YH5At47_0aYsZioWzW0VtFeZKscI94pgcOwOeQvydkAw9DJPBk3lOLTit9bAFjV8htv8hgbYv1BVMvCKaO-aE0zNQmWIiO_mf6pEOymDVhO1vcxLtC4kwhmOlO8FKyITzf1_p-OND6738Lbj280uJlW60Pgo8m_Wo4w1XZtKyLooMgv7dKaWIrWYsVNjs23tBHKxY2N7q3YXji6VrDp2iQrpo-XBMbDkNnXPpd3RT8lrYt9LnXADpyqgrkbvQ0PnC5lgTwHzKgKOCx1xKbsRqjTWhcy5Y-X-g_PpPMy5zaE7zHIXrIVtnP00UIpAGc_bquPoXOuwc8sOlh7eEIv_D-UpeBmWFgwkDsBeSag==).
+Something wrong? Tell us at [support@the-ken.com](mailto:support@the-ken.com)

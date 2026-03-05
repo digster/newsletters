@@ -1,0 +1,18 @@
+---
+subject: "From “selfie round” to “spreadsheet calisthenics”, never a dull moment with OYO (and SoftBank)"
+from: "The Ken <info@the-ken.com>"
+to: ""
+date: 2019-11-29 02:35:57
+labels: ["CATEGORY_PERSONAL", "INBOX", "The Ken"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_8244464457792971031"]
+---
+In July this year, news emerged that two of OYO’s earliest venture investors—Sequoia and Lightspeed—had reaped bumper returns on their investments into what had become India’s second most valuable tech startup. Between the two, they’d rake in $1.5 billion after having invested a combined amount of less than $50 million. Lightspeed’s share alone was to be $1 billion. Trés Commas!
+But the most brilliant part about the $1.5-billion exit wasn’t about how much money OYO’s VCs were making. Instead, it was who was buying their stakes. It was Ritesh Agarwal, the founder and CEO of OYO.
+Sumanth, the writer of today’s wonderful story, duly called it a “selfie round.” For today’s story he has a new term: “spreadsheet calisthenics.”
+Digging deep into OYO’s recently filed valuation report and the financials that emerge from it, Sumanth traces the arc of a company and founder that find themselves in the unenviable position of having to replace WeWork and Adam Neumann when it comes to bearing the burden of fulfilling Masayoshi Son’s SoftBank-sized expectations.
+A burden that has led OYO to grow haphazardly into a global conglomerate of over 40 companies. Its original capital-light business concept has given way to highly capital-intensive moves like the $407-million purchase of Amsterdam-based vacation rental company @Leisure Group, the $135-million purchase of Hooters Casino Hotel in Las Vegas. The company has also gone into completely unrelated or marginally adjacent businesses in India, Europe and Japan either on its own or through acquisitions—business ranging from cloud kitchens to wedding planning to cafes.
+For instance, news reports suggest OYO is in the running to acquire India’s largest cafe chain, the distressed Cafe Coffee Day. As Sumanth says, there is little clarity on what business OYO is actually in anymore.
+Worst of all, OYO seems to be in a Catch-22 position where scale, instead of helping bring down expenses and losses, is driving it up further! The company has claimed that with over a million rooms, it is already the third-largest hotel chain in the world and the biggest hotel chain in both India and China. If OYO is far from profitability at third-largest, why would the equation change even if it became the second or the largest?
+Sincerely,
+Rohin Dharmakumar
+PS: The Ken is powered by its readership—its paying subscribers—and we need an equally robust team to keep our subscribers abreast of everything that's happening on our platform. We're now hiring a Subscriber Engagement Manager - check out [the job description here](http://link.the-ken.com/wf/click?upn=HQSq6eeRV1xAVaGuFOahuG7TiPelYKzc-2F7zPMLoB04ml88eXxYZzeANOs5T70XfgQWLaBP23EGD9am9njNB7cNQfpwziFNAmY39-2Fo1gmC0o-3D_S4jLOsNx-2Fv6Jev2nvow8b7P9pBCWGd8KNZfb200gkZLQNlXQHio0noZzXtsWoloZmPWeyZsh7a4QCV9ufwCUKi00jlBT0uEdvwYDMuVuqcP0-2BssiZYAGuC96-2FSAdpLzVGn6dZeo4iHkBv6zoX5IRvxEnO7ZHZHH9i5hY-2FLaPmuF-2Ft8ldDEpJTfm6qguRfZhF7pUWmGLUzTtRSii4qMblifx16xi5RxOeZ9dfPlQnOVjSJaViHs2w2ltcnQgoEKNJIxX7YomxLRBRbv8sD4KbKCAnPhZLyAdT-2BSY-2FbXXf9vtFkwsYpvfxFazEU14IhyFGo5lNUbK4sEeWFHPpvoVR0GPOtsuPDixSdH9UIcODJokD1zEUmNuydqJtPcbD65wb-2FR9I-2FleWJ4toOu63TVoHmn-2FcvInXTBiNZ8F0KvH5pfc-3D). Apply if you fit the bill!

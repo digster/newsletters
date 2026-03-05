@@ -1,0 +1,20 @@
+---
+subject: "Too much tomfoolery"
+from: "The Ken <info@the-ken.com>"
+to: ""
+date: 2018-04-07 03:30:51
+labels: ["CATEGORY_PERSONAL", "INBOX", "The Ken", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_8244464457792971031", "UNREAD"]
+---
+Good Morning Ishan,
+And just like that, the first week of April 2018 is gone, never to return. You probably tolerated a few silly Fool's Day shenanigans early in the week; I know we certainly did. Seriously, anti-ageing ice-cream? Really? People fell for that? I need to find these people, just so that I could casually walk up to them, tap them on their shoulders, and be like, "What are you?"
+Anyhow. The wonderful thing about working at The Ken has to be how we all share this disdain for elaborate tomfoolery. More or less. I'll spare you the details and get down to our week's stories.
+Right, so.
+On Monday, [Seema wrote](http://link.the-ken.com/wf/click?upn=HQSq6eeRV1xAVaGuFOahuNCZVVXPeP-2FJpSqxhvIUDrn9G8OP7OffBkTV2NCxe9hoQSCGng2S-2BiKN3mzyr0UOBQ3mSLgvW9a2svP9hlg2oDm-2Bq6HxvpDFcmmdIx-2BV7-2FNUAzbOIVWGh7VcolrJlUbsw-2B9s1mbLiyY1Su2va64xewncBCeSGC7FpKmLFdkT9pz64RqXTAcG-2Fdo3NMYbmIzjrA-3D-3D_S4jLOsNx-2Fv6Jev2nvow8b7P9pBCWGd8KNZfb200gkZLQNlXQHio0noZzXtsWoloZmPWeyZsh7a4QCV9ufwCUKi00jlBT0uEdvwYDMuVuqcO7DBUYzUD-2FhZCgzMo5InjjrthEjQCLGzsmoarPLk0JZKcickWYcD4P9a0M74udnckyM1md-2B8mN-2BnKv2x681-2B3a7BN8NTsa2oL9wENtpI8AHEgnihXDmCbN-2BPwmyP2KOKZ9i879bx5bxLfSGN9IxfhmDjm0b0j2uAwZhdPU9Vt2hqWoipY7EcMUjBddnxydh8uLDE-2BWffeHPSdDHuTF-2F9bB8rBabtjp7YcJ2SIDasiXv4hd8bFXdBwhaEfcM3M-2FRKma4E31JLaGhtySUnFDhLNfVOb5tTL-2Bv3TY3j1njSdt3hBPkw-2Fjae101ABLPp6t5ew-3D) about what she aptly called "SoftBank-for-healthcare". In what's the largest of many recent deals in hospitals, TPG-backed Manipal Hospitals has agreed on a deal to buy Fortis Healthcare. But is this good news? Read to know.
+Day 3 saw [Arundhati write](http://link.the-ken.com/wf/click?upn=HQSq6eeRV1xAVaGuFOahuNCZVVXPeP-2FJpSqxhvIUDrnoWCbRj6gZo6tpF84r28-2Bw-2B-2FGmky6jSCDkI6RIZsBTdbT6f-2FlBqtVvZQWvxjHo3Jfr1s2mMfEUODq9-2FW6HlVetuAvUOxgUVRKPZ1yQVBVM9iqu4RRJNeM6-2FmIDQ65YqzgO8I1cDFoaEEHGG-2BaeXY9J_S4jLOsNx-2Fv6Jev2nvow8b7P9pBCWGd8KNZfb200gkZLQNlXQHio0noZzXtsWoloZmPWeyZsh7a4QCV9ufwCUKi00jlBT0uEdvwYDMuVuqcO7DBUYzUD-2FhZCgzMo5InjjrthEjQCLGzsmoarPLk0JZKcickWYcD4P9a0M74udnckyM1md-2B8mN-2BnKv2x681-2B3a7BN8NTsa2oL9wENtpI8AHC6RaB68bdLfPAJ6FPpgEtG0Fh-2BIbu-2Fu7SHC8XGziiH20SN-2Fe8baqgW4fJy-2BhTCLvY-2BCxKJR2opEAIiadGeQRFDxzPdsyXlmL6aZx0Wnzp-2FStDQjJHaWQkftE9gOggkic3ay-2Bpg2LnZlB5TWRIpfjIbdm-2B-2FunRCjkjqCUbWWVg6f12OSA1gIos7K0p2Nl5ad0h5cEfMliwL8clvIhRo8G9Q-3D) on banks and Point of Sales, and how surprisingly dependent the former is on the latter. "Banks will need to take more terminals to merchants. Having missed the target in September 2017, banks’ PoS expansion rides on aggregators. Is that a guaranteed win?" she asks.
+The week closed with [Harveen's story](http://link.the-ken.com/wf/click?upn=HQSq6eeRV1xAVaGuFOahuNCZVVXPeP-2FJpSqxhvIUDrlo2B0BewEM-2Fh86kPramSO5-2FlAHIlXqjw-2BzdWE1RRT-2FClbBMAg1gupPvg5XKFGH9ss0hdPs5H-2B3sspOPTMxVheY8Ulyznmuj-2Flco2ke0jMONpJSCAsiIyKHkos11Cr7iKefwnomG60C6h9Cn7wyoCuVt2wXxp3Nuc9b8t-2FLOGmi-2FA-3D-3D_S4jLOsNx-2Fv6Jev2nvow8b7P9pBCWGd8KNZfb200gkZLQNlXQHio0noZzXtsWoloZmPWeyZsh7a4QCV9ufwCUKi00jlBT0uEdvwYDMuVuqcO7DBUYzUD-2FhZCgzMo5InjjrthEjQCLGzsmoarPLk0JZKcickWYcD4P9a0M74udnckyM1md-2B8mN-2BnKv2x681-2B3a7BN8NTsa2oL9wENtpI8AHI-2FsAB7A5eve4wIXnD-2BZlvaPuIfJ1iaumP712kPtPh0cRJtj1xiX3DvZmr2PtZYz3W4Jo1e9K0OxVFiP4kN5MXJsRp6cCEnBL8HJWN3ycS-2BtpGRBVCDjgF5ycUi-2B8-2B6gLvE-2BsYm69k9K-2BxZveoPxXH7EWaRVJDE3LSiNH841fHB7yqLCj7u-2B07g9PERidXK-2By2gIBMWhzV-2F-2Bj3my0WzXzy4-3D) on the I&B ministry's roadblock for new news TV channels. "Remember those long queues outside ATM machines from the days (more like months) of demonetisation? Today, the Indian TV broadcasting industry is a lot like that. Long queues of companies waiting for permission slips."
+That's all for this week. Hope this makes you hit that red subscribe button.
+Enjoy your weekend!
+Regards,
+Durga M Sengupta
+This email was sent by: The Ken

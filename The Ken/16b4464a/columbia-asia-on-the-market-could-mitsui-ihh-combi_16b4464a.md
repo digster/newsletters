@@ -1,0 +1,26 @@
+---
+subject: "Columbia Asia on the market; could Mitsui-IHH combine scoop it up?"
+from: "The Ken <info@the-ken.com>"
+to: ""
+date: 2019-06-11 02:36:14
+labels: ["CATEGORY_PERSONAL", "INBOX", "The Ken"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_8244464457792971031"]
+---
+Good Morning Ishan,
+There’s a great game of passing the parcel going on in the hospitals business. When the music will stop and who will be left with the parcel (or in tears) is not the story today. It’s about one of the largest parcels in Asia. Unique, high-quality, profitable, patient-centric, and yet kinda stuck in the slow lane.
+Now it’s up for sale—all or none. 12 hospitals in India and 17 across three other countries for $2 billion.
+Investors at Columbia Pacific Management want to exit Columbia Asia (CA) Hospitals, having consolidated their ownership (99.99%) in the past year. The CA management in Malaysia has confirmed to The Ken that they are looking for investors. And boy, look who they have at their door: the Who’s Who of the investment community, including some Indian hospital owners, even though a piecemeal sale is not on the cards.
+Talking of piecemeal, Columbia Asia did sell one of its units in Ahmedabad to the Zydus pharma group. But people in the industry tell me it was a one-off sale. Gujarat is a tad difficult market for corporate hospitals. “They couldn’t get the equation right with the doctors. In any case, doctors there think they are corporate themselves,” muses one hospital entrepreneur in Bengaluru.
+If you take into account the really long term—16 years—bet the current investors have placed on CA, then the next set of investors are not difficult to identify from among the long list of suitors, which include KKR, Bain, TPG, Temasek. Talks and evaluations are underway even as you read this, however, Suraksha argues in her story today that it’s Malaysia’s IHH, also the owner of Fortis Healthcare and a few other hospitals in India, which could emerge as the buyer. Backed by Japan’s Mitsui Group, which holds majority stakes both in IHH and Columbia Asia.
+The Columbia Asia management also confirmed that the group CEO in India has quit, and reportedly, he's back at IHH, his old company. While there’s many a slip between the cup and the lip in the deals business, the Columbia Asia sale surely opens up the gates for big managed healthcare companies to build a closed system where the providers are also the payors. We’ll get to that story at some point but for now let’s dive into the calculations that Suraksha has made on this once-in-a-decade opportunity: [https://the-ken.com/story/columbia-asia-on-the-market-could-mitsui-ihh-combine-scoop-it-up/](http://link.the-ken.com/wf/click?upn=HQSq6eeRV1xAVaGuFOahuNCZVVXPeP-2FJpSqxhvIUDrluPUMs7vjB6YJtum45wXWMx2FHqdNeQ4V8mcrsiA-2BhhKoxQoBQ0M13q8zTuIqaG1XHdcIQtkwgoeJWnvecd604uKgNg2Vcdb1LyuBdGJWVTT9FewsNV-2B1NR-2FwpKpQYYy-2FQa51adW9ESYwvEb9JIb0gcwcbFyfDcC0yJlEuJYA8YgWFo0r7NznId1vkfImojdc-3D_S4jLOsNx-2Fv6Jev2nvow8b7P9pBCWGd8KNZfb200gkZLQNlXQHio0noZzXtsWoloZmPWeyZsh7a4QCV9ufwCUKi00jlBT0uEdvwYDMuVuqcMzW-2B-2Fkb1fTu28aJIX30VnUhrL-2FCxMbn-2BAtgJRc0bEoWC-2Ba-2BBVnwh6T9XgZQVM95hoJuiJqbpAddJK8zsSXzG27ri-2Fcs3ecseakNaUaXRFJX-2FvtTh7I9XNChS0e14KCDeAKJ-2F6Id1-2FiLTy0uu-2BLmJeOHWqRRSYJBgpfzO11cAT3S86793AEAjnT2HsBokYOoLjsxqeY0p80wXFdAyCnjCPN79KtXSZwc04upQN1HupYlzgEVesyvGf2tlKz3pzW-2Bg4Jl2AKJkXcGRTrKJd8Xaux8S92lXbukcKr2dHyw2QEkzCgyVOBfBhYOb6Tg8mcAPg-3D)
+Have a great week.
+Warm regards,
+Seema Singh
+[seema@the-ken.com](mailto:seema@the-ken.com)
+|
+What you just read is the personalised daily introduction to The Ken's story. Written by a different person each day. Often insightful, sometimes witty, and very rarely boring. Someone sent this to you? [Sign up for free](https://the-ken.com/?modal=register). Don't like these? You can [unsubscribe](http://link.the-ken.com/asm/unsubscribe/?user_id=2349339&data=nsRy9WoTnePtZ65DSLypINJHO80_XVL4gN_K8nkcOTtQ6ps_kbIXYKtibx6-RhKM2-o9gXpY0_hZ-9sOnPIFqTl5221IH0fOLRaURhTes5Wx1OduBItiQYcoQI1wY4zpjWk-AhP5zvPnOR7Bg-6oKOGv5fv_3Ybebr-UpMv0aVWjQNEobbt8Ns3AULGsY4VCM2nRRUDSV9AFhhKPSXW6wLzhHzuC9IxavqhzBCDXL53EVsVVSpgahQjdyQJmA6H0RFhTPtX5pgv7BkQouUQziAjkXm5oIqzqTakebXjgyMEdeMf43Vf0cQKx8Yl_KWP6r5Sc2CJd048byFo-ZIi3I6hV8Me5LUk077zSSh0RVHeatovvhwmrJMwJt8pabOcn1hZvzXow6Y6gVfS0sohCZ_5FNV7bJYPLgZD-WH7mo-kaRRNvZrB15fP5TIg_g3T68SoIaihhXMExsnGKbqgIOmxpHvFfTCKO8c0kQeIQw2oZAnbx8G_d4i3tMo4sTByT-1TPED392leSkMX7PyFBa_7uhrzTDPtIwp8gBbo9FSo=). Want to manage your emails? Click [here](http://link.the-ken.com/asm/?user_id=2349339&data=HkC6kZ_RdT3_dB5Ed3PN5zx1D0A-Tj1mtJ_CjHAb8FAkumYs326ZMYIaLu0q2w8aeYLiiKbBiRrba-jJNZbLD3-SYJCmPV9XL1h3H7BmlFC2HQhknmisd9aAMnbh0txaXk6IC-4tUe4mXneOgDvITTHIJw9VEJuUx2BZq71f2Kbcr95NJcO03TfYDmSvqeKu5-Jb3fV45exn997WFOBYg96wy13gtWTX2V3Xr7r17moQVHZR6DDNVF4aMh8nPID2cAZF4bnFFiUMH4XtatgkwOR7OAzAcaLsRAZ_uyllCI-UcvTS0I-gutCdcpE6ZzrpQ0iX3RykDbpPZXnU9dyf0AU9x87vVNiRwxjzBsHx7rq_RxjLbOIm35yR6Hcb54HIWkQZNscw95efW1L5vzBElXOhhCb63fB-bC3w22kBN6fRJ4ujizR3h91KsEguIEpnIBAH5tedmcrazitwZPaU4kUPIGXGqLSpLtMrxHEPteW-oY9sbnrMTqrSHhL6GNuXxp5_3UvAJ-vWkTXwT-6bgA==).
+|
+|
+|
+|
+|

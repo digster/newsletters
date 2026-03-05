@@ -1,0 +1,243 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>It Depends #33: Flink, Start with why, Pace layer, Snowflake</title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<style type="text/css">
+#outlook a{padding:0;} /* Force Outlook to provide a "view in browser" message */
+.ReadMsgBody{width:100%;} .ExternalClass{width:100%;} /* Force Hotmail to display emails at full width */
+.ExternalClass, .ExternalClass p, .ExternalClass span, .ExternalClass font, .ExternalClass td, .ExternalClass div {line-height: 100%;} /* Force Hotmail to display normal line spacing */
+body, table, td, a{-webkit-text-size-adjust:100%; -ms-text-size-adjust:100%;} /* Prevent WebKit and Windows mobile changing default text sizes */
+table, td{mso-table-lspace:0pt; mso-table-rspace:0pt;} /* Remove spacing between tables in Outlook 2007 and up */
+img{-ms-interpolation-mode:bicubic;} /* Allow smoother rendering of resized image in Internet Explorer */
+
+body{margin:0; padding:0; height:100% !important; margin:0; padding:0; width:100% !important;}
+img{border:0; height:auto; line-height:100%; outline:none; text-decoration:none; max-width: 100%!important}
+table{border-collapse:collapse !important;}
+img.aligncenter{display:block;margin:0 auto;}
+
+@media screen and (max-width: 525px) {
+
+ /* ALLOWS FOR FLUID TABLES */
+ table[class="wrapper"]{
+ width:100% !important;
+ }
+
+ table[class="mobile-full-width"] {
+ width:100% !important;
+ }
+
+ img[class="mobile-full-width"] {
+ width:100% !important;
+ display: block;
+ }
+
+ /* ADJUSTS LAYOUT OF LOGO IMAGE */
+ td[class="logo"]{
+ text-align: left;
+ padding: 20px 0 20px 0 !important;
+ }
+
+ td[class="logo"] img{
+ margin:0 auto!important;
+ }
+
+ /* USE THESE CLASSES TO HIDE CONTENT ON MOBILE */
+ td[class="mobile-hide"]{
+ display:none;}
+
+ img[class="mobile-hide"]{
+ display: none !important;
+ }
+
+ img[class="img-max"]{
+ max-width: 100% !important;
+ /*width: 100% !important;*/
+ height:auto !important;
+ }
+
+ /* FULL-WIDTH TABLES */
+ table[class="responsive-table"]{
+ width:100%!important;
+ max-width: 100%!important;
+ }
+ 
+ .responsive {
+ width:100%!important;
+ max-width: 100%!important;
+ float: none;
+ display: block;
+ padding-left: 0;
+ padding-right: 0;
+ }
+ 
+ table[class="responsive"]{
+ width:100%!important;
+ max-width: 100%!important;
+ float: none;
+ display: block;
+ } 
+ 
+ img.responsive {
+ width:100%!important;
+ max-width: 100%!important;
+ } 
+ 
+ 
+ .block {
+ display: block;
+ }
+ 
+ td[class="responsive"]{
+ width:100%!important;
+ max-width: 100%!important;
+ display: block;
+ padding-left: 0 !important;
+ padding-right: 0 !important;
+ float: none;
+ } 
+
+ /* UTILITY CLASSES FOR ADJUSTING PADDING ON MOBILE */
+ td[class="padding"]{
+ padding: 10px 5% 15px 5% !important;
+ }
+
+ td[class="padding-copy"]{
+ padding: 10px 5% 10px 5% !important;
+ text-align: center;
+ }
+
+ td[class="padding-meta"]{
+ padding: 30px 5% 0px 5% !important;
+ text-align: center;
+ }
+
+ td[class="no-pad"]{
+ padding: 0 0 20px 0 !important;
+ }
+
+ td[class="no-padding"]{
+ padding: 0 !important;
+ }
+
+ td[class="section-padding"]{
+ padding: 50px 15px 50px 15px !important;
+ }
+
+ td[class="section-padding-bottom-image"]{
+ padding: 50px 15px 0 15px !important;
+ }
+
+ /* ADJUST BUTTONS ON MOBILE */
+ td[class="mobile-wrapper"]{
+ padding: 10px 5% 15px 5% !important;
+ }
+ 
+ td[class="responsive"]{
+ display: block;
+ width: 100% !important;
+ }
+
+ table[class="mobile-button-container"]{
+ margin:0 auto;
+ width:100% !important;
+ }
+
+ a[class="mobile-button"]{
+ width:80% !important;
+ padding: 15px !important;
+ border: 0 !important;
+ font-size: 16px !important;
+ }
+}
+
+/* Html */
+.html-td-global p {
+ font-family: Helvetica, Arial, sans-serif;
+ font-size: 16px;
+}
+
+
+/* Hero */
+@media all and (max-width: 525px) {
+ .hero-title {
+ padding-top: 15px;
+ }
+}
+
+/* Text */
+
+
+/* Last posts */
+@media (max-width: 525px) {
+ .posts-1-column {
+ width: 100%!important;
+ }
+ .posts-1-image {
+ width: 100%!important;
+ display: block;
+ }
+}
+
+
+
+/* Header */
+@media all and (max-width: 640) {
+ .header-table td {
+ width: 100%!important;
+ }
+ .header-logo-global {
+ text-align: center!important;
+ }
+}
+
+</style>
+</head>
+<body style="margin: 0; padding: 0;" dir="ltr">
+
+<table cellpadding='0' cellspacing='0' border='0' width='100%'>
+<tr>
+<td bgcolor='#ffffff' valign='top'><!-- tnp --><table border="0" cellpadding="0" cellspacing="0" align="center" width="100%" style="border-collapse: collapse; width: 100%; user-select: auto;" class="tnpc-row tnpc-row-block ui-sortable-handle" data-id="heading">
+<tbody style="user-select: auto;"><tr style="user-select: auto;"><td align="center" style="padding: 0px; user-select: auto;" class="edit-block"><!--[if mso | IE]><table role="presentation" border="0" cellpadding="0" align="center" cellspacing="0" width="600"><tr><td width="600" style="vertical-align:top;width:600px;"><![endif]--><table type="options" class="tnpc-block-content" border="0" cellpadding="0" align="center" cellspacing="0" width="100%" style="width: 100% !important; max-width: 600px !important; user-select: auto;">
+<tbody style="user-select: auto;"><tr style="user-select: auto;"><td align="center" style="text-align: center; padding: 10px; background-color: rgb(255, 255, 255); width: 100% !important; user-select: auto;" bgcolor="#ffffff" width="100%"><table border="0" cellspacing="0" cellpadding="0" width="100%" class="responsive" style="user-select: auto;">
+ <tbody style="user-select: auto;"><tr style="user-select: auto;">
+ <td align="center" valign="middle" width="100%" style="padding: 0px; font-size: 30px; font-family: Verdana, Geneva, sans-serif; font-weight: bold; color: rgb(68, 68, 68); letter-spacing: normal; line-height: normal !important; user-select: auto;">
+ It Depends #33: Flink, Start with why, Pace layer, Snowflake </td>
+ </tr>
+</tbody></table></td></tr></tbody></table><!--[if mso | IE]></td></tr></table><![endif]--></td></tr></tbody></table><table border="0" cellpadding="0" cellspacing="0" align="center" width="100%" style="border-collapse: collapse; width: 100%; user-select: auto;" class="tnpc-row tnpc-row-block ui-sortable-handle" data-id="text">
+<tbody style="user-select: auto;"><tr style="user-select: auto;"><td align="center" style="padding: 0px; user-select: auto;" class="edit-block"><!--[if mso | IE]><table role="presentation" border="0" cellpadding="0" align="center" cellspacing="0" width="600"><tr><td width="600" style="vertical-align:top;width:600px;"><![endif]--><table type="options" class="tnpc-block-content" border="0" cellpadding="0" align="center" cellspacing="0" width="100%" style="width: 100% !important; max-width: 600px !important; user-select: auto;">
+<tbody style="user-select: auto;"><tr style="user-select: auto;"><td align="center" style="text-align: center; padding: 10px; background-color: rgb(255, 255, 255); width: 100% !important; user-select: auto;" bgcolor="#ffffff" width="100%"><table width="100%" style="width: 100% !important; user-select: auto;" border="0" cellpadding="0" cellspacing="0">
+ <tbody style="user-select: auto;"><tr style="user-select: auto;">
+ <td width="100%" valign="top" align="left" style="font-family: Verdana, Geneva, sans-serif; font-size: 18px; font-weight: normal; color: rgb(34, 34, 34); line-height: 1.5; user-select: auto;">
+ <p dir="ltr" style="line-height: 1.96364; margin-top: 10pt; margin-bottom: 11pt; user-select: auto;"><span style="font-size: 18px; font-family: verdana, geneva, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; user-select: auto;">Hello everyone!</span></p>
+<p dir="ltr" style="line-height: 1.96364; margin-top: 10pt; margin-bottom: 11pt; user-select: auto;"><span style="font-family: verdana, geneva, sans-serif; font-size: 18px; user-select: auto;"><span style="color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; user-select: auto;">Welcome to the 33rd edition of </span><span style="color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: italic; font-variant: normal; text-decoration: none; vertical-align: baseline; user-select: auto;">It Depends</span><span style="color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; user-select: auto;">. Hope you are all doing well and staying safe. If you haven’t got the vaccine yet, please do everything you can to get it. Best of luck to all of us!</span></span></p>
+<p dir="ltr" style="line-height: 1.96364; margin-top: 10pt; margin-bottom: 11pt; user-select: auto;"><span style="font-size: 18px; font-family: verdana, geneva, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; user-select: auto;">No original writing on the blog this week, but here’s the handpicked best of what I found on the internet this week.</span></p>
+<p dir="ltr" style="line-height: 1.96364; margin-top: 10pt; margin-bottom: 11pt; user-select: auto;"><span style="font-size: 18px; font-family: verdana, geneva, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; user-select: auto;">From the great interweb</span></p>
+<ol style="user-select: auto;">
+<li style="line-height: 1.96364; user-select: auto;" role="presentation"><span style="font-family: verdana, geneva, sans-serif; font-size: 18px; user-select: auto;"><span style="color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; user-select: auto;">The Ververica team has a brief intro to </span><a style="text-decoration: none; user-select: auto;" href="https://daijdhg.r.bh.d.sendibt3.com/tr/cl/1_KSBN85gV80m0vrj4IIm63zw3BcqPRsLGJJy2l_h2bR-f4H4pzkX-VnZbd1Ciu4VhRHoD3vP1o9Tw-6Pm1LUEmR28JRhUsU-BE-pVciMU-RIsOIaS-iXNfvbigDYzxyRbtRTBL3KRJENTMPYn2netaMXfC_AIyjnDs8RhC2HrjL3J_dRh-NmIfeUWPzz1y92j-6aLHp0TjwiIxF9Jn64AWNajSuT3TRgyD4EzRlZA0qbzdA7a950JGzRJNQUbY1vPgmcGiWGegVuTc_77DYKYrMcA3fPCx6nGfwYJzla6cNg5nP8CbiGLwPCBMT9Swn82ORAMO1KXdF8OoEmjfqAqpejWbmPycvIFKfZkoBujaeXToqdO5fcQ_Uwjw4Q9ioiHrmZJr8kqy7oo-1X59Viw"><span style="color: rgb(17, 85, 204); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: underline; vertical-align: baseline; user-select: auto;">how Apache Flink handles backpressure</span></a><span style="color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; user-select: auto;">. This makes for a nice follow-up to what I wrote about </span><a style="text-decoration: none; user-select: auto;" href="https://daijdhg.r.bh.d.sendibt3.com/tr/cl/w9D4hcOYC-6D4OrGU2iU9J_rYRUrk5syWkqkOUFMTa1O7dnISWZV7EroBkZd_HqMv_FuK1RCpXxGFSdNUZVADRMwAgf21SNNwMOHl_CLBC1Dw7ZK9GpopgXvKhAbD7AHUotzRr4W9HGiuQHY-HiUHrrCFeSFRYi9BKhLlDtWJDi9dhX_2IsiX-6vWbqKCH7hg6fHw1yk0sIsu5phT8ccWreJguutl5C-m8GmIcMdx2P7NwjHfVGIQe1EJdKDzSI2VxA8CzNb4k_bp_biAcMWD1-cYD8RkbVsK_UC4O6FBSoOFjDEOAyvUJI-Jl4Du-gWQMSdFGEzCCDdLoiFAe6Xg1CkeMT-SNXryWrWrdkVONoElSgyX1mNK--r1La339pNXcLWlnno-4WQk9dPH33pc0E70Z3ZwLfsuQxsisn_YfBoPRure5r88srl2xcYbWtecU3Hsw6EHI6IyUadvI_qU9FCJyakCef8--tRpJpLFfXjfkDWaWzhY5qiXeR_Cgwv"><span style="color: rgb(17, 85, 204); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: underline; vertical-align: baseline; user-select: auto;">visualizing distributed systems as computational pipelines</span></a><span style="color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; user-select: auto;">.</span></span></li>
+<li style="line-height: 1.96364; user-select: auto;" role="presentation"><span style="font-family: verdana, geneva, sans-serif; font-size: 18px; user-select: auto;"><span style="color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; user-select: auto;">Hat tip to Chris Patullo for sharing this </span><a style="text-decoration: none; user-select: auto;" href="https://daijdhg.r.bh.d.sendibt3.com/tr/cl/7qhFmIJKn1yhZUCYeq3kPoRf_9QqvDojtgPSIWbtZlmOn-egyqZMDHyl_9CFnya0_neBveF6zstVF9828oKTroHd8CzcjDDP4oqq3Ko84KV0jR5ZVlqemyx2GI8EvloCz3eDDKEEAYmQTqSmb1TAlT4LOmnfjy-D97ovZIsGllFVp4fS1zcoIEBrAWXxHxtD56Sobz25uyQb5UzDTFHLAvsO0nJMK-VWKTXBRoaeIQWSBdhgPq-ma5pVTbHaLoOUuqBYDJ-OC46CgxXpW3j4O3Ou6vmzuQ_U6D_zu3ZR4EDBuWL9ucby7BDfuWdYpaH1ySEt6MpSMvQy07i65eBSERNRoW1xUuDw5onCCdlsAk3lYT2VaeXzbQ"><span style="color: rgb(17, 85, 204); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: underline; vertical-align: baseline; user-select: auto;">short video</span></a><span style="color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; user-select: auto;"> of Simon Sinek explaining why “starting with why” is a key element of success. There’s a whole rabbit hole behind those ~2 minutes, so happy exploring :)</span></span></li>
+<li style="line-height: 1.96364; user-select: auto;" role="presentation"><span style="font-family: verdana, geneva, sans-serif; font-size: 18px; user-select: auto;"><span style="color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; user-select: auto;">Architectures of buildings and software keep running into each other far too often for it to be a coincidence. Here’s Stewart Brand and Paul Saffo explaining how their “</span><a style="text-decoration: none; user-select: auto;" href="https://daijdhg.r.bh.d.sendibt3.com/tr/cl/Yvs_LyrAj9sarCxf2we7iFaNKQA3hI3T0w4ajmt0Y9D7JYn_KMSRj27h68OrDRLDENKawEIj17ixjMmtYX127nre2CJhjTBsUuFBi8IFrvSPhOTAOYwZ7qgVVw3AxOP5rf-w98dyVTefxNJuo1P9h8-wryQ6atxjsCU1sL0rZ49XQ6qiBhdJUf7xmxLAS1N9PkiCdcuXlHbdgldiwawo1t-VP9e8jvpcFAHqYHZNvs0OmGW9DWVbyl5fyopkI8eqYMZwqnw2BUC_N5z8J5v27OFBbUbyGe6hLxvT0zJlYAIGFeg6F3SQ7tYE_ftzxV0j3-_6C0hUQuRrJZ1acoqqDPcwOt6ScHwLZZxevv1tI8YjOKVRKvfX9pJXFDhBuGLWJ4P_8uw3XPg"><span style="color: rgb(17, 85, 204); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: underline; vertical-align: baseline; user-select: auto;">pace layer model</span></a><span style="color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; user-select: auto;">” for understanding the evolution of buildings has found widespread application in software engineering, complexity theory, and many other areas.</span></span></li>
+<li style="line-height: 1.96364; user-select: auto;" role="presentation"><span style="font-family: verdana, geneva, sans-serif; font-size: 18px; user-select: auto;"><span style="color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; user-select: auto;">For the more hardcore weekend reader, here’s a </span><a style="text-decoration: none; user-select: auto;" href="https://daijdhg.r.bh.d.sendibt3.com/tr/cl/A6p4xyfb4tlvyzdQ2lI69JhzObs__XfWEm1gONHF4G6TRyV2ItQOGwqYsxcSLgoHOMMo3KesZuXyv5GqECzq0c-Vtdz-Xv6N-iVJaNVlgY8r01S9Ew5BFYqg2hOhdDF7k2dk_VeCa_k0dfgCtXed9OSXTPFC30DZj9VIYDfBRqScn7904Ruz528Rsdv1JlfqCvjikBOHGNtCTzw69oEur3rguAi0dfNRjrayi50GwewaBGyXu97tHjPCSZp9YNJK-sJQbpDUIqgbB7zKG1AimtXa4Vz7_nuh34pYYYR33fMf_EOSLOENgj16lKyBBpy8vdj9R9lhO4cReAr-81KjI9h1j-JcUextnCzgAN7tyLgkgUONWsXatKNhYW0uSeDLed1Krhyc9GZKtG2MyZcgLs0ZdUQ"><span style="color: rgb(17, 85, 204); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: underline; vertical-align: baseline; user-select: auto;">paper</span></a><span style="color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; user-select: auto;"> explaining the internal design of </span><a style="text-decoration: none; user-select: auto;" href="https://daijdhg.r.bh.d.sendibt3.com/tr/cl/MJeK58OIzYNiGD_-xa-oJLRWhIeBXg5ieNvVZME4ku-8a2qSXvKHklizQhfvR7hEqWbN4R5t3kr22OJIh0i3mvLrwtg7MK9DW6HMDCWgtF5x5K5S78QUCNcKCavGeFad5DPT7vZd36uL3xyxoLYpV85wMPMNq3hqSp0mccN5C76cQ_u4kepBLVKIpUMR5d9gxQ9qge1ZkMM1snJP_xdTdi7cYwdEfFA9w9Y1Jbmw0pm9tLtE3tDyATTS72gO6fH7zuKf69VcZIWBNrKVRu_rhUGY7tL2qHf4VM3-9j_yggp-cXlu9uo2OwUcrTU5KgsfehZY643tUjs65OkY"><span style="color: rgb(17, 85, 204); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: underline; vertical-align: baseline; user-select: auto;">Snowflake DB</span></a><span style="color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; user-select: auto;">.</span></span></li>
+</ol>
+<p dir="ltr" style="line-height: 1.96364; margin-top: 11pt; margin-bottom: 11pt; user-select: auto;"><span style="font-size: 18px; font-family: verdana, geneva, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; user-select: auto;">That's it for this week folks. Cheers!</span></p>
+<p dir="ltr" style="line-height: 1.96364; margin-top: 10pt; margin-bottom: 11pt; user-select: auto;"><span style="font-size: 18px; font-family: verdana, geneva, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; user-select: auto;">-Kislay</span></p> </td>
+ </tr>
+</tbody></table></td></tr></tbody></table><!--[if mso | IE]></td></tr></table><![endif]--></td></tr></tbody></table><table border="0" cellpadding="0" cellspacing="0" align="center" width="100%" style="border-collapse: collapse; width: 100%; user-select: auto;" class="tnpc-row tnpc-row-block ui-sortable-handle" data-id="footer">
+<tbody style="user-select: auto;"><tr style="user-select: auto;"><td align="center" style="padding: 0px; user-select: auto;" class="edit-block">
+<!--[if mso | IE]><table role="presentation" border="0" cellpadding="0" align="center" cellspacing="0" width="600"><tr><td width="600" style="vertical-align:top;width:600px;"><![endif]--><table type="options" class="tnpc-block-content" border="0" cellpadding="0" align="center" cellspacing="0" width="100%" style="width: 100% !important; max-width: 600px !important; user-select: auto;">
+<tbody style="user-select: auto;"><tr style="user-select: auto;"><td align="center" style="text-align: center; padding: 15px; background-color: rgb(255, 255, 255); width: 100% !important; user-select: auto;" bgcolor="#ffffff" width="100%"><a style="font-family: Verdana, Geneva, sans-serif; font-size: 14px; font-weight: normal; color: rgb(34, 34, 34); text-decoration: none; user-select: auto;" href="https://daijdhg.r.bh.d.sendibt3.com/tr/cl/HyiddWM3Eda_h2Kk4BHvrr8zmcMDjJ-fYjmZSABRoN507JRLjxLtxCRUYTO8TfUPVUC-Oct3HJ0xPWFSHQDNzsClja9GIR-NEFd7vIJAY0WI4Oe6ONBJMdFQN6HR0-2Xi2x7xmIVQLNCIwvY91_gDOwdS8aA_cOLpOnKBXxPhsionPEdEKfF7xPTmO0azQiJC_n0_aQ2i8n1dgv1P9G_vFuKqhruHB-NV3gdhA1XDXs74mJg3rx6eZnAqhgoZ3cSnlJ5dcA2tGPwkIzvWmwX2DAmBTs5QFw6vkr0RaUko_1A-1FUc4-5OJUYpXteqRlyPAxq3UX4GDH_rJftPyFTvG_sE9T4noKORLmLaUCQ_o50CgLBqV-cihxBjr9LJixt50iXicngf-lBw_W8NDkCv9kmjqfxEFrA" target="_blank">Modify your subscription</a>
+
+<span style="font-family: Verdana, Geneva, sans-serif; font-size: 14px; font-weight: normal; color: rgb(34, 34, 34); text-decoration: none; user-select: auto;">&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;</span>
+
+<a style="font-family: Verdana, Geneva, sans-serif; font-size: 14px; font-weight: normal; color: rgb(34, 34, 34); text-decoration: none; user-select: auto;" href="https://daijdhg.r.bh.d.sendibt3.com/tr/cl/K-Oc3iUxyJJZNZZEPyZTKizgyOwp3bWFHr6Zi353xcJrn7mko8nF_9xCIrGhOJrdm_j_IDuTZHRiTM8HWm0gupd2f8zU3YbVtxpPQR_sk5CCKUzgQkF6tqLWGnPsV2xdux9uIxkpYYAt6ouHazt-PIky-2iwm8YK7lXc60wzetkzRMa8vp0J5clWhzgfVcL0Gbow91d4XN4udgD9zMM8-Ky0q-jFDnGow_bKe06LBKIE_NL3Tq8zbyVAyYbOM9pvfGKy3d_ogZBWq0gmscHpj_vVmFbbC0pl9A5ogO3Pk0qlN01ofVHish-Srb2bKEco8A0OWK4GJyOfET8tnENtXFSxbuRk0CqevzAZAcr4E85nSCmSpDiT6ROOyiv-kcMd" target="_blank">View online</a></td></tr></tbody></table><!--[if mso | IE]></td></tr></table><![endif]--></td></tr></tbody></table>
+
+<!-- /tnp -->
+</td>
+</tr>
+</table>
+
+<img width="1" height="1" alt="" src="https://kislayverma.com/?noti=NTc7MzgxMjtiMmRjYjhjMDgxMDUyOWUzMGVjMjYwNTZiMmExYWVlNA%3D%3D"/><img width="1" height="1" src="https://daijdhg.r.bh.d.sendibt3.com/tr/op/ZhrSxyENwa7w4rrs2ESErnEUWD7CDMkHvrGH7xbEosq-6KmFHX1vri4NI3JnWj7956sgdryPP3eLq23KY-F_e5igcM1V-HZU0iZwF4x2QkxKgSAUnXYtEX2G5SrpoIdemJzXEF1rdNF2sQ" alt="" /></body>
+</html>
+

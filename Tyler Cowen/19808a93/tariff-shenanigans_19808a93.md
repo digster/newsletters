@@ -1,0 +1,10 @@
+---
+subject: "Tariff Shenanigans"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2025-07-14 11:19:23
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+In [our textbook](http://marginalrevolution.com?action=user_content_redirect&uuid=b3c938c3549e9f8c15d314133620419fe4d8d57f3be5a24ca3787ad81cb30f9e&blog_id=42693868&post_id=91067&user_id=262258391&subs_id=225460721&signature=401833417721c4f3233cf57662726289&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly9tYXJnaW5hbHJldm9sdXRpb24uY29tL291ci10ZXh0Ym9vaw=&email_id=73578bc868d8593d650fe72dad574998), Tyler and I give an amusing example of how entrepreneurs circumvented U.S. tariffs and quotas on sugar. Sugar could be cheaply imported into Canada and iced tea faced low tariffs when imported from Canada into the U.S., so firms created a high-sugar iced "tea” that was then imported into the US and filtered for its sugar!
+[Bloomberg reports](http://marginalrevolution.com?action=user_content_redirect&uuid=d575abb5f7933d1295bb13d36db5fdf85886f3992af161735a396a71bcb4a0d8&blog_id=42693868&post_id=91067&user_id=262258391&subs_id=225460721&signature=60e49cd8a6710a3bf20eb2448671efaf&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly9zZWVraW5nYWxwaGEuY29tL25ld3MvNDQ2Njg2NS1kZWx0YS1yZXB1cnBvc2VzLWFpcmJ1cy1lbmdpbmVzLWFtaWQtdHJhZGUtZGlzcHV0ZS1hbmQtamV0LXNob3J0YWdl&email_id=73578bc868d8593d650fe72dad574998) a similar modern workaround. Delta needs new airplanes but now faces steep tariffs on imported European aircraft. As a result, Delta has been stripping European planes of their engines, importing the engines at low tariff rates, and installing them on older U.S.-made aircraft.

@@ -1,0 +1,12 @@
+---
+subject: "Tuesday assorted links"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2025-04-08 16:19:48
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+1. [Various Medicaid budget dilemmas](http://marginalrevolution.com?action=user_content_redirect&uuid=36323e640ca8d7aa2b9a24ea38055463ed290804e5f72d054fd769d4e1c8e98a&blog_id=42693868&post_id=90399&user_id=262258391&subs_id=225460721&signature=dfb8d8f88de050a520078b8117a1b4b3&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly93d3cubnl0aW1lcy5jb20vMjAyNS8wNC8wNi91cHNob3QvbWVkaWNhaWQtY3V0cy1yZXB1YmxpY2Fucy1zdGF0ZXMuaHRtbA=&email_id=a0d3e4ef76f7d420e96eb9ae69192d4e) (NYT). A lot is at stake here, though since there are no major personalities involved, this and related stories is not getting much coverage.
+2. [New claims about string theory](http://marginalrevolution.com?action=user_content_redirect&uuid=80a3976e3455daf6307c1ee1569a9a9f691fcabb37397ecec963718cabbd49f2&blog_id=42693868&post_id=90399&user_id=262258391&subs_id=225460721&signature=29c6ce5717de2950f030c651eccc9378&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly93d3cubGl2ZXNjaWVuY2UuY29tL3BoeXNpY3MtbWF0aGVtYXRpY3MvcXVhbnR1bS1waHlzaWNzL3NjaWVudGlzdHMtY2xhaW0tdG8tZmluZC1maXJzdC1vYnNlcnZhdGlvbmFsLWV2aWRlbmNlLXN1cHBvcnRpbmctc3RyaW5nLXRoZW9yeS13aGljaC1jb3VsZC1maW5hbGx5LXJldmVhbC10aGUtbmF0dXJlLW9mLWRhcmstZW5lcmd5&email_id=a0d3e4ef76f7d420e96eb9ae69192d4e).
+3. [America underestimates the difficulty of bringing manufacturing back](http://marginalrevolution.com?action=user_content_redirect&uuid=7e5a7e34e56732440b116f6a90d43f7a21827445c34abe7b5ace0e99e7d2bf48&blog_id=42693868&post_id=90399&user_id=262258391&subs_id=225460721&signature=005baf0124954e94d31267ca5863c816&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly94LmNvbS9tb2xzb25faGFydC9zdGF0dXMvMTkwODk0MDk1MjkwODk5Njk4ND9zPTQ2&email_id=a0d3e4ef76f7d420e96eb9ae69192d4e).
+5. [Rationalism vs. empiricism in the AI debates, and how economists fit in](http://marginalrevolution.com?action=user_content_redirect&uuid=97763f5b77ececb71c2658aa0a11cd0b782b60c9645ec94d47568389c0313474&blog_id=42693868&post_id=90399&user_id=262258391&subs_id=225460721&signature=503eb8168b474dac82f6c2995f4ce2d3&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly94LmNvbS9lcmljam1pY2hhdWRfL3N0YXR1cy8xOTA4MzM2NDg3Mzc4NDExOTE5&email_id=a0d3e4ef76f7d420e96eb9ae69192d4e).

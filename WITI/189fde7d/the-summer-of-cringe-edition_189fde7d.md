@@ -1,0 +1,10 @@
+---
+subject: "The Summer of Cringe Edition"
+from: "\"Why is this interesting?\" <whyisthisinteresting@substack.com>"
+to: ""
+date: 2023-08-16 10:31:56
+labels: ["CATEGORY_PERSONAL", "INBOX", "UNREAD", "WITI"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "UNREAD", "Label_5752899537867939131"]
+---
+Felix here. The top-grossing movie in America is Barbie; the top-grossing musical act is Taylor Swift. Both are seeing revenues in the billions. Meanwhile, there’s a WITI Classifieds: We are experimenting with running some weekly classifieds in WITI. If you’re interested in running an ad, Interpreting the internet for the tasteful reader. Join 23,000+ subscribers who rely on Dirt for their cultural alpha. Why is this interesting? For olds like me, it’s almost impossible to imagine a world where people neither admire nor want to be cool, and instead just want to embrace the unironic pleasures of cringe. And yet, the most resonant cultural touchstones of the moment are dialed in to mild — even cringeworthy — rather than hot. “Sincerity and authenticity are always popular,” texts Lydia Polgreen, the NYT columnist who recently wrote an insightful Cringe, of course, is the opposite of cool. Cool is detached, ironic, a little bit condescending or even contemptuous. Heroes, notably including the underperforming Indiana Jones and Ethan Hunt, are cool. Cool is a club that’s hard to get into. Cringe, on the other hand, is heartfelt, unironic, sentimental. It’s suburban, and all-American. It’s singing along to all the words at a Taylor Swift concert, or dressing up in pink to see Barbie. Cringe, it turns out, is winning. As America regroups from the feverish years of Trump and COVID, there’s a deep desire to return to the comforts of the normal. Cool is too much effort for too little reward; cringe is simply too much fun to disdain. As of the summer of 2023, we can all breathe more easily. Because the quotidian has never been more powerful. (FS) — Thanks for reading, Noah (NRB) & Colin (CJN) & Felix (FS) —
+You're currently a free subscriber to |

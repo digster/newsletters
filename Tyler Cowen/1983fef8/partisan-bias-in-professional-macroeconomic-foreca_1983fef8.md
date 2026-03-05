@@ -1,0 +1,11 @@
+---
+subject: "Partisan Bias in Professional Macroeconomic Forecasts"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2025-07-25 04:55:19
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+Here is a recent paper by Benjamin S. Kay, Aeimit Lakdawala, and Jane Ryngaert:
+Using a novel dataset linking professional forecasters in the Wall Street Journal Economic Forecasting Survey to their political affiliations, we document a partisan bias in GDP growth forecasts. Republican-affiliated forecasters project 0.3-0.4 percentage points higher growth when Republicans hold the presidency, relative to Democratic-affiliated forecasters. Forecast accuracy shows a similar partisan pattern: Republican-affiliated forecasters are less accurate under Republican presidents, indicating that partisan optimism impairs predictive performance. This bias appears uniquely in GDP forecasts and does not extend to inflation, unemployment, or interest rates. We explain these findings with a model where forecasters combine noisy signals with politically-influenced priors: because GDP data are relatively more uncertain, priors carry more weight, letting ideology shape growth projections while leaving easier-to-forecast variables unaffected. Noisy information therefore amplifies, rather than substitutes for, heterogeneous political priors, implying that expectation models should account for both information rigidities and belief heterogeneity. Finally, we show that Republican forecasters become more optimistic when tax cuts are salient in public discourse, suggesting that partisan differences reflect divergent beliefs about the economic effects of fiscal policy.
+Here is [the SSRN link](http://marginalrevolution.com?action=user_content_redirect&uuid=ee7b7a69f65061ab6f437f48e520608fcfb0d19e11d52de0d2a82e0058967d9c&blog_id=42693868&post_id=91153&user_id=262258391&subs_id=225460721&signature=e38f08373ba275d247b7df4bf78fbe32&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly9wYXBlcnMuc3Nybi5jb20vc29sMy9wYXBlcnMuY2ZtP2Fic3RyYWN0X2lkPTUzMjQ2MjM&email_id=020d48198aaece1528dfba6541e4b25e).

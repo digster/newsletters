@@ -1,0 +1,13 @@
+---
+subject: "Wednesday assorted links"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2026-02-18 17:40:54
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+2. [Richard Ngo on educational signaling theories](https://marginalrevolution.com?action=user_content_redirect&uuid=76fb91de0e776479300171cc576f3e5408401b6dc111285aa9df7dba0ebb4c75&blog_id=42693868&post_id=92452&user_id=262258391&subs_id=225460721&signature=ecccf2fa1cfce548caf8d37acfa4fcd8&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly93d3cubWluZHRoZWZ1dHVyZS5pbmZvL3AvY29udHJhLWNhcGxhbi1vbi1oaWdoZXItZWR1Y2F0aW9u&email_id=07286ffe63627247a73ed726ccf9b5a3).
+3. "[There is no secular alternative. There has never been one.](https://marginalrevolution.com?action=user_content_redirect&uuid=5b0cff3553ffd1478bfa11c9e5cdb9cb6dcac3983ff97c1c19cd0cb5d049fc79&blog_id=42693868&post_id=92452&user_id=262258391&subs_id=225460721&signature=2fd7a9a79b5ae34debb3a020a9391e0b&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly9taW51dGVzLnN1YnN0YWNrLmNvbS9wL3JlbnRlZC12aXJ0dWU/cj0xZm4ycCZ1dG1fbWVkaXVtPWlvcyZ0cmllZFJlZGlyZWN0PXRydWU&email_id=07286ffe63627247a73ed726ccf9b5a3)"
+5. [Dominicans vs. Franciscans](https://marginalrevolution.com?action=user_content_redirect&uuid=41e64899ef2b1d5cd974e49d6640e03ea45f3b264523c4d4c6a77eca3677885a&blog_id=42693868&post_id=92452&user_id=262258391&subs_id=225460721&signature=588f8391d15289b4eebc01f34cce43b5&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly93d3cuc2NpZW5jZWRpcmVjdC5jb20vc2NpZW5jZS9hcnRpY2xlL3BpaS9TMDE2NzI2ODEyNjAwMDA1Mw=&email_id=07286ffe63627247a73ed726ccf9b5a3).
+7.[ Is Europe's problem labor law?](https://marginalrevolution.com?action=user_content_redirect&uuid=c3ac498c7ccd0546d808a7098fadcf6aa98cf2a491e42b6bc40b0390d6d0afb5&blog_id=42693868&post_id=92452&user_id=262258391&subs_id=225460721&signature=544854f39b126e9b60d0ab2584d4dbf0&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly93b3Jrc2lucHJvZ3Jlc3MuY28vaXNzdWUvd2h5LWV1cm9wZS1kb2VzbnQtaGF2ZS1hLXRlc2xhLw=&email_id=07286ffe63627247a73ed726ccf9b5a3)
+8. [Arbitrage in Singaporean aunties?](https://marginalrevolution.com?action=user_content_redirect&uuid=4e3234105f7f60d7f791478b41368611ef04e0e9b32c5bf16c0cc627383d833f&blog_id=42693868&post_id=92452&user_id=262258391&subs_id=225460721&signature=b25246fbe731de6dd7af5ff1e5d3c29d&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly94LmNvbS9va2F5dGhlbmZ1dHVyZS9zdGF0dXMvMjAyMzk5NDcyMDYxMjE5Mjc1MA=&email_id=07286ffe63627247a73ed726ccf9b5a3) The country is getting more interesting again.

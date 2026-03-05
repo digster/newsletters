@@ -1,0 +1,20 @@
+---
+subject: "Looking back"
+from: "The Ken <info@the-ken.com>"
+to: ""
+date: 2018-12-24 02:35:39
+labels: ["CATEGORY_PERSONAL", "INBOX", "The Ken", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_8244464457792971031", "UNREAD"]
+---
+Good Morning Ishan,
+We're in the last stretch now, and 2019 looms large. But first, let's have a moment of silence for 2018, a year that, whatever else you may say, certainly wasn't boring. Big Tech's privacy shenanigans are finally in the spotlight, increasingly crazy governments everywhere, frauds and scandals galore, The Ken celebrated its second birthday, and I've developed a taste for chai (who'd have thought?).
+This week, we—like almost everyone else—will be looking back at the year gone by. But not just a plain "Best of 2018" or "Biggest of 2018". No. We've decided that this year, we'll offer our readers a peek into just how The Ken works—how we choose our stories, what styles we use, how we go about covering companies and more.
+On each of the next five days (six, actually, including today), we'll focus on a different aspect. First off, we'll be taking a look at a few of our writers—all of whom have distinct approaches to what and how they report and write on. Diversity in terms of perspectives and experiences is something we prize, and something that has played a key role in getting us to where we are today. I'm going to quote Rohin [here](http://link.the-ken.com/wf/click?upn=HQSq6eeRV1xAVaGuFOahuEKVsU-2FtS6BhjpJai8iN2MMZyxFllSTQYWCbrL6Sl-2BRXALI8BAH0NAkoNwI8xHVexjMZLrhpRqUaakbFaZ8deOo-3D_S4jLOsNx-2Fv6Jev2nvow8b7P9pBCWGd8KNZfb200gkZLQNlXQHio0noZzXtsWoloZmPWeyZsh7a4QCV9ufwCUKi00jlBT0uEdvwYDMuVuqcP19UpFgfheS1lLVDYhYr2WhvX7Kw5fvrI4PTYsuwEh7QNBj-2BPbRegF0zbO9EM9zMsIcigRj3B5WqnrXumnuukTnbRV0l4AQ04Bpqkmc5N4sIcq-2FZAL4wOMFQN-2Bs-2BnJ6P5k16j4vl-2FBH-2FpBiOHLKmXWOyO2YCZpZMr8Qzb1MUUNXgzGXk9drmfXkSTLi1O9B6z-2Fd6g-2BkPk8LGmtVpDFT53W3Jjg0PZJXT1Op61N5Qs2Urau0ZjRAj1DJHDqllaLrZtXRIICqxRpIomI-2FIXZfpJQ78biMrBCaWhK70mVdn4A09XLeIQIhXGZOmxqDMwCrE0-3D): "We have career journalists, book authors, engineers, crypto geeks, MBAs, chartered accountants, serial entrepreneurs, development economists and two biochemistry grads! This intellectual diversity is off the charts with respect to the media sector we’re part of, and one that we’ve painstakingly assembled."
+Do write in to let me know what you think.
+|
+What you just read is the personalised daily introduction to The Ken's story. Written by a different person each day. Often insightful, sometimes witty, and very rarely boring. Someone sent this to you? [Sign up for free](https://the-ken.com/?modal=register). Don't like these? You can [unsubscribe](http://link.the-ken.com/asm/unsubscribe/?user_id=2349339&data=al9W8UBDab45J25bi0in6Hc8ItsON3aVRj7__vQEaiQhQVVWgZ9kpL0K4MTrKiUdqJ29aCKS0ZCPowrpNf2H2VZb2tGJ4LYQ6-kejG1b9T669hpaHRqNgoXKhDbuvZbUcOI6X8Mzps2n8M_fvUNWMuzMAaudp5j3bGSjJQol4im_SoWxktUvR8MJ4Aj2GgdkigjVY7AstbNC_jsFNyzUUhMqNkUHCxE8S4DcL5TQu6Xp2VL1L8v4WRO-gaed5BmXzvAzCuRm7DMtvS-pVCmFhykkKC0sr_1EVBr6Rn4WTQMaaei2S5SiEmjf1ZxKo5dq1AMgl-w8fo4oyBW1Uh9Q7jiVrkHWbPy8K0QwkQekTh_4QymeS6l2Okd5xVVZbK9bpa_dJIgmhWxmYnF4d6o6YB_EcbMEPYASIWLyVxmjUlU5TdGKlE_AK-kxq9eyht0QIvh39a3ncZRxH14f7qJvf4CLWxVgxVm0NQ8ZMrh1ORA35bxu1155D7hYL1oszsXTi9TtlKdbugoxXGgHZ2EntwImP2bEOULvmEdsRZqJ_PY=). Want to manage your emails? Click [here](http://link.the-ken.com/asm/?user_id=2349339&data=okPGz8pqIAf1l2jptcD1Pv3Wp93BeRVmb4Vpg6K3hm2PCSmGE060Yq71SK83Tfr1oyEPm5IKwIe2ltWP4WlRAVa59hklMAJ5isSopsS-2OUoK6VQ_XEYyTHk1ILVKgzxN062ndTqja8pgeZ-P-bUfRhQ2XUxiYgCMAton0g3L7BgHyxwH9g2goc_s1PMyAXdJJ9W0yI13ATXAtFXK6N135R6lp4h9WoiknxAc1eYV2lk1cLwtAMUiJ--MD_df7rK73qG81YUkT3BWd7CBM4J7s35uyx7yITfDfgl8dz8-QF0A5ZFghzS9o9rwrGsiF3r0Z-ijD4MMWr2K3_ZYpR5pedUkNI_79yQRPsdnvFaQHa1FBsHy_orrCjTjyx_w62CabymNekoLvkSf0u4kepbVNUXrlByRHN1WyjsVqLoktp3ni3s4akv23r-v3FBKY4kpFI19tJMmYpP7jVk37l_0Q_KjsRCqmRjUEvSv6MKCWIglgt-Dyp6qDxu4lrpzXqmfHPew45c_4qI6ZGvQfCs2A==).
+|
+|
+|
+|
+|

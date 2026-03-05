@@ -1,0 +1,76 @@
+---
+subject: "How Your Missions Will Transform Your Life"
+from: "\"Sahil Bloom's Curiosity Chronicle\" <sahil@sahilbloom.com>"
+to: ""
+date: 2024-08-28 13:04:05
+labels: ["CATEGORY_PERSONAL", "INBOX", "Sahil Bloom"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_1989028747625928812"]
+---
+The Life-Changing Power of Missions
+read and listen on [sahilbloom.com](https://click.convertkit-mail4.com/zluq9ee70xsnh4lvdqku4fw0lm000t6/owhkhqhrv3g0mmhv/aHR0cHM6Ly93d3cuc2FoaWxibG9vbS5jb20vbmV3c2xldHRlci90aGUtbGlmZS1jaGFuZ2luZy1wb3dlci1vZi1taXNzaW9ucw==)
+read time 5 minutes
+Welcome to The Curiosity Chronicle, a weekly newsletter where I provide actionable ideas to help you build a high-performing, healthy, wealthy life.
+Today at a Glance:
+- I have a few core Missions that define my life—everything is aligned around them.
+- Missions are life journeys with no specific end. Missions are not goals. Missions are infinite games. The power of Missions is found in the clarity they provide: If an opportunity, person, or action does not positively contribute to one of your Missions, you can say no to it.
+- I have clearly defined a Mission within each of three categories: Professional, Personal, and Health. Clearly defining (and embarking on) your missions is the key to unlocking new clarity, focus, and fulfillment in your life.
+|
+How to Discover a [More Impactful Career Path](https://click.convertkit-mail4.com/zluq9ee70xsnh4lvdqku4fw0lm000t6/z2hghnh3v9pm2qup/aHR0cHM6Ly9ja2Fkcy5saW5rL3NhaGlsYmxvb21fODAwMDBob3Vyc18wODI4MjAyNA==)
+Unlock your potential to change the world with your career. Wondering how to utilize the estimated [80,000 hours](https://click.convertkit-mail4.com/zluq9ee70xsnh4lvdqku4fw0lm000t6/z2hghnh3v9pm2qup/aHR0cHM6Ly9ja2Fkcy5saW5rL3NhaGlsYmxvb21fODAwMDBob3Vyc18wODI4MjAyNA==) of your professional life for positive impact? 80,000 Hours can help you find your path forward. Born from extensive research with Oxford University academics, this nonprofit is on a mission to guide you towards a career that’s not only fulfilling but makes a significant positive mark on the planet.
+They’re offering a free career guide, designed to challenge conventional career choices and open your eyes to paths you might not have contemplated. This guide is full of practical and research driven advice, aimed at building a career plan that excites and motivates you. Beyond the guide, tap into deep-diving interviews on their podcast and explore impactful opportunities on their job board.
+Everything 80,000 Hours offers is completely free — because they believe in empowering you to make a difference through your career. Dive into the free guide and start plotting a career that’s not just fulfilling but also contributes to the greater good.
+|
+The Life-Changing Power of Missions
+During a recent conversation with a young man I've been mentoring, he asked how I developed a sense of clarity and focus around life.
+His perception was that I have a very strict set of rules that I refer to and follow on a daily basis, enabling me to say yes or no to new opportunities, ideas, experiences, or people along the way.
+The reality, I explained, is a bit different:
+I have a few core Missions that define my life—everything is aligned around them.
+Based on the way his eyes lit up at my response, I realized this was a topic worth exploring further with all of you. So, in today's piece, I'd like to share more on the life-changing power of Missions...
+Your Missions Define Your Life
+Let's start with the basics: What are Missions?
+Missions are life journeys with no specific end. Missions are not goals. Goals are finite—focused around discrete achievements, with specific ends that [create their own problems](https://click.convertkit-mail4.com/zluq9ee70xsnh4lvdqku4fw0lm000t6/p8heh9hz0kgpwqaq/aHR0cHM6Ly93d3cuc2FoaWxibG9vbS5jb20vbmV3c2xldHRlci90aGUtZGFyay1zaWRlLW9mLWJpZy1nb2Fscw==). Missions are infinite games.
+Missions serve as a True North for life.
+You do not reach a Mission, you live out a Mission. Living out your Missions should contribute to you creating the way of life you desire (whereas achieving your goals may not).
+Your daily approach or process may change, but your Missions rarely do. They are big, broad, and bold.
+I have clearly defined a Mission within each of three categories:
+- Professional: To positively impact one billion lives, directly or indirectly.
+- Personal: To build a "house" full of love. Note that I place house in quotations because I define it broadly—my inner circle (wife, son), my family, my closest friends, and my extended network of loving, supportive relationships.
+- Health: To build and maintain my fitness and vitality to perform at an elite level relative to my age.
+These Missions are my infinite games. They define my life.
+My favorite line from the Bhagavad Gita refers to the importance of the individual nature of one's dharma (sacred duty):
+"One’s own dharma performed imperfectly is better than another’s dharma well performed...It is better to strive in one’s own dharma than to succeed in the dharma of another."
+I think of Missions in a similar vein:
+Your Missions (and categories) are individual. There is nothing right or wrong about your Missions, they simply must be yours.
+Navigating the Maze
+Life is an endless maze of complexity. Every single day, you're faced with new opportunities, people, ideas, and actions.
+It's easy to become disoriented, to leap at every shiny thing that comes your way, to give your energy to people who have no consideration for it, to toil away on actions that move you further from your ideal way of life.
+The power of Missions is found in the clarity they provide:
+- With any new or existing opportunity: Does this opportunity further one of my Missions? If not, you can say no to it.
+- With any person in your life: Is this person contributing positively to one of my Missions? If not, you can limit the energy you give them.
+- With any daily action: Is this action contributing positively to one of my missions? If not, you can avoid it.
+Your Missions allow you to navigate the maze with the skill of an experienced traveler.
+What Are Your Missions?
+Clearly defining (and embarking on) your Missions is the key to unlocking new clarity, focus, and fulfillment in your life.
+So, what are your Missions?
+Define one Mission within each of my categories—Professional, Personal, Health—and add categories as necessary. They should be big, broad, and bold.
+Remember: Missions are infinite, you will not reach a Mission.
+With your Missions defined, it's time to embark on the journey:
+- Who are the core people that are positively contributing to each Mission? Prioritize them. Cherish them.
+- What are the core daily actions that are positively contributing to each Mission? Focus on them.
+- What is detracting from my progress on my Missions? Slowly remove it.
+The quality of your Missions determines the quality of your life.
+Define your Missions, then live out your days pursuing them.
+P.S. Enjoyed this? I'd be grateful if you shared it to [LinkedIn](https://click.convertkit-mail4.com/zluq9ee70xsnh4lvdqku4fw0lm000t6/x0hph6hw6894v4c5/aHR0cHM6Ly93d3cubGlua2VkaW4uY29tL3NoYXJlQXJ0aWNsZT9taW5pPXRydWUmdXJsPWh0dHBzJTNBJTJGJTJGd3d3LnNhaGlsYmxvb20uY29tJTJGbmV3c2xldHRlciUyRnRoZS1saWZlLWNoYW5naW5nLXBvd2VyLW9mLW1pc3Npb25z) or [Twitter](https://click.convertkit-mail4.com/zluq9ee70xsnh4lvdqku4fw0lm000t6/6qheh8h7gvn384co/aHR0cHM6Ly90d2l0dGVyLmNvbS9pbnRlbnQvdHdlZXQ_dGV4dD0lMjJUaGUlMjBxdWFsaXR5JTIwb2YlMjB5b3VyJTIwTWlzc2lvbnMlMjBkZXRlcm1pbmVzJTIwdGhlJTIwcXVhbGl0eSUyMG9mJTIweW91ciUyMGxpZmUuJTIyJTBBJTBBQSUyMGJlYXV0aWZ1bCUyMHBpZWNlJTIwZnJvbSUyMCU0MFNhaGlsQmxvb20lMjBvbiUyMHRoZSUyMGxpZmUtY2hhbmdpbmclMjBwb3dlciUyMG9mJTIwTWlzc2lvbnMuJTIwaHR0cHMlM0ElMkYlMkZ3d3cuc2FoaWxibG9vbS5jb20lMkZuZXdzbGV0dGVyJTJGdGhlLWxpZmUtY2hhbmdpbmctcG93ZXItb2YtbWlzc2lvbnM=) to help positively impact others!
+Preorder My First Book:
+The 5 Types of Wealth offers a new way to measure what matters, make better decisions, and design your life around the pillars that truly create lasting joy and fulfillment. No matter who you are, or where you are on your journey, this book is for you.
+If you’ve enjoyed any of my work, you’re going to find immense value in this book. I guarantee it.
+P.S. You get access to special bonuses (a video series, live AMA/office hours, and a book club appearance) if you preorder today. More info at the link below.
+Sahil's Recommendation Zone
+Perfect your morning routine with my partner[ Athletic Greens](https://click.convertkit-mail4.com/zluq9ee70xsnh4lvdqku4fw0lm000t6/g3hnh5h357604nhr/aHR0cDovL2RyaW5rYWcxLmNvbS9zYWhpbA==):
+I get asked about my morning routine all the time. It changes from time to time, but [AG1](https://click.convertkit-mail4.com/zluq9ee70xsnh4lvdqku4fw0lm000t6/g3hnh5h357604nhr/aHR0cDovL2RyaW5rYWcxLmNvbS9zYWhpbA==) has been the one constant since 2011. I drink it with a big glass of water every single morning to start my day on a positive tone.
+It replaced an entire cabinet of supplements for me in one daily scoop—seriously, its latest iteration covers a multivitamin, multi-mineral, prebiotics, probiotics, adaptogens, greens, and more. It keeps me feeling healthy and strong throughout the year, even when I'm traveling (thanks to the travel packs).
+Athletic Greens is offering Curiosity Chronicle subscribers an exclusive deal: [a free 1-year supply of liquid vitamin D plus 5 travel packs with your subscription purchase](https://click.convertkit-mail4.com/zluq9ee70xsnh4lvdqku4fw0lm000t6/g3hnh5h357604nhr/aHR0cDovL2RyaW5rYWcxLmNvbS9zYWhpbA==). Take advantage of it!
+Sahil Bloom
+|
+|
+|

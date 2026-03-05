@@ -1,0 +1,14 @@
+---
+subject: "Open Thread 322"
+from: "Astral Codex Ten <astralcodexten@substack.com>"
+to: ""
+date: 2024-03-25 07:18:55
+labels: ["Astral Codex", "CATEGORY_PERSONAL", "INBOX"]
+label_ids: ["Label_6409723252142624155", "CATEGORY_PERSONAL", "INBOX"]
+---
+This is the weekly visible open thread. Post about anything you want, ask random questions, whatever. ACX has an unofficial [subreddit](https://substack.com/redirect/115709c4-c47e-43c2-8e07-e3994f21c8b3?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o), [Discord](https://substack.com/redirect/784230b5-2ec8-4def-b1b1-425322a045d1?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o), and [bulletin board](https://substack.com/redirect/0654c25c-9819-4582-a790-1da4ed121c2b?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o), and [in-person meetups around the world](https://substack.com/redirect/e0fb798c-9906-4a8b-a2d7-35667d947e0b?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o). 95% of content is free, but for the remaining 5% you can subscribe [here](https://substack.com/redirect/2b45848d-03c9-4564-92a8-b57718cd24ba?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o). Also:
+1: The previous attempt to email people their Forecasting Contest score didn’t work. So new plan: here’s a list of everyone’s scores, associated with a hash of their email address:
+| Blind Score Hash 706KB ∙ XLSX file |
+|
+Go to [this site](https://substack.com/redirect/3977163b-5c44-4c16-b580-8db323fd9d1e?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) and enter the email address you used for the contest. Find the first five characters of the hash on the Excel file, and that’s you; your score is the next cell over. The highest score was 0.275, the lowest was -2.185, and you can compare to various averages [on this graphic](https://substack.com/redirect/edf10387-fc2d-42a5-b821-1ae3af8f18de?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) from [the post](https://substack.com/redirect/91024797-2667-4656-a83f-4c84b3f8ad6b?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o). Eight people had hash collisions and their scores will be ambiguous; if that’s you, email me if you really want to know. Thanks to Legionnaire for putting this together; I’ll update you when I know if there are any plans for Full Mode.
+2: echometer on the subreddit made [a mobile-friendly reader for Astral Codex Ten](https://substack.com/redirect/766d6a15-4b73-4bd6-b05e-b90d0f7eb8e9?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) in case you need the page to load a little faster. Again, thank you for your patience with speed issues - the last time I talked to Substack, they said they’ve “got plans to improve” it, and I’m giving them a few more months before I start pestering them in earnest.

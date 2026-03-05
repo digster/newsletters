@@ -1,0 +1,60 @@
+---
+subject: "Ka-Ching!: Vexed Blusmart investor drags ICICI Bank to court"
+from: "The Ken <info@the-ken.com>"
+to: ""
+date: 2025-06-12 01:31:33
+labels: ["CATEGORY_PERSONAL", "INBOX", "The Ken", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_8244464457792971031", "UNREAD"]
+---
+|
+|
+Ka-Ching!
+Thu, 12 Jun 25
+A weekly newsletter about how finance is getting supercharged by tech in India, and how you can make money work for you..
+Good Morning Ishan,
+Before we jump into today’s edition of Ka-Ching! (it’s a doozy, so do hang on), I’d like to give a quick shout-out to my wonderful colleagues Rohin Dharmakumar and Praveen Gopal Krishnan, who are set to moderate a super interesting live event in Bengaluru on how we can enrich our health, fitness, and wellness.
+On 21 June, they’ll be sitting down with Nisha Millet, an Olympic swimmer and Arjuna Award winner; Viren Shetty, the vice chairman of Narayana Health; and Dr. Cyriac Abby Philips, aka The Liver Doc, a frequently cited hepatologist and physician-scientist, to break down how we can live happier, healthier lives. If you haven’t bought your tickets yet, do get them here:
+[https://the-ken.com/event/achieving-vitality-new-visions-for-health-fitness-and-wellness/](https://the-ken.com/event/achieving-vitality-new-visions-for-health-fitness-and-wellness/?utm_source=kaching&utm_medium=email&utm_campaign=bfo_fitness)
+Now for today’s edition.
+The sordid Blusmart-Gensol saga has added another victim to its tally.
+Responsability is a $5.5 billion Swiss impact fund that invested $20 million in debt and equity in Blusmart’s charging infra arm—funds that were meant to help the six-year-old EV ride-hailing startup expand its charging infrastructure.
+But that was before India’s stock-market regulator found financial irregularities in solar EPC company Gensol Engineering and laid out how promoters Anmol Singh Jaggi and Puneet Singh Jaggi [diverted](https://www.thehindu.com/business/Industry/sebi-issues-stern-interim-order-against-blusmart-linked-gensol-promoters-says-used-firm-like-personal-piggy-bank/article69458259.ece) funds worth about Rs 260 crore for their personal needs from the company.
+The knock-on effect of this still continues to ripple out to multiple stakeholders.
+First, there was Blusmart, which is also promoted by the two Jaggis and leased all its EVs from Gensol. We had [already written about](https://the-ken.com/story/blusmarts-relationship-with-co-founders-listed-company-could-prove-costly/) how Blusmart’s close business relationship with Gensol might be its Achilles’ heel as early as last year. And since the irregularities within Gensol came to light this year, things have been unwinding for Blusmart too.
+Then it hit lenders like PFC and IREDA that had extended total loans worth Rs 978 crore to Gensol, which is now staring at defaulting on them. And finally, of course, the two companies’ investors, who are always part of the collateral damage in cases like these.
+Responsability is trying to pick up the pieces of whatever is left, and it is dragging Blusmart and Gensol’s promoters to court for it.
+They’re not the only ones it’s dragging to court, though.
+It’s also taking India’s second-largest private lender, ICICI Bank, along for the ride.
+The investor’s angst is real. But its claim on ICICI Bank isn’t as straightforward as it may like to think.
+According to the lawsuit that Responsablity filed, which The Ken has seen, here is what happened:
+In January 2024, Responsability subscribed to Rs 124 crore worth of non-convertible debentures (essentially extending a loan) to Blusmart, with the money held in the startup’s current account in ICICI Bank. The startup opened 33 fixed deposits with that money, all held with ICICI Bank. Nothing unusual here.
+Responsibility has invested over a billion dollars in India in companies like Battery Smart, Ampin Energy, WheelsEMI, and has been closing deals in the country for over a decade. This didn’t feel like anything out of the ordinary.
+Things chugged along fine for about 14 months; the fund did not suspect anything amiss. Interest payments were made, Blusmart’s fleet was growing; the funds were being used for their intended purpose—to set up charging infrastructure.
+Until 15 April, when stock-market regulator Sebi’s order and findings sent Gensol’s stock into a tizzy.
+Responsability hastily swung into action, and on 17 April, got in touch with the concerned branch manager of ICICI Bank, Ahmedabad, urging a debit freeze on the current account and fixed deposits holding the funds it had extended to Blusmart. The bank statement Responsability had last received—on 4 April—showed that the balance in the current account was Rs 6,988, and that the fixed deposits still had Rs 174 crore, including money Blusmart had invested in the account.
+Responsability also asked about the current status of the accounts, i.e., if these funds were still being reflected and whether any transactions were made in and out of the accounts.
+Like banks usually do, the branch manager said they would take no action until they received a written communication from Responsability.
+In its lawsuit, the investor says the bank manager was “immediately dismissive of their very valid concerns”.
+Nevertheless, the next day, on 18 April, Responsability sent another email to the bank with a “notice of event of default”, demanding repayment of Rs 130 crore from ICICI Bank. It asked the bank to withdraw the monies from the fixed deposits and investments from the concerned accounts.
+The bank still made no response.
+Vexed, representatives of Responsability finally made a trip to Ahmedabad and met the branch manager on 22 April, at which point the manager said a debit freeze had been placed on the FDs and accounts just the day before—on 21 April.
+Responsibility, of course, was more concerned about the status of the funds in the account, but the manager simply told them that certain fixed deposits had been prematurely liquidated but that no withdrawals had been made. Refusing to divulge anything else, the manager told the investors that they would get a written response from the bank in a day or two.
+Responsibility executives left this meeting somewhat assured that Rs 174 crore was still intact in the current account and FDs.
+Until the very next day, when the email the branch manager had promised landed in their inboxes.
+To their shock, ICICI Bank informed Responsability that only about Rs 9 crore was left and that FDs worth Rs 166 crore were no longer available in the subscription account. Between 4 April and 23 April, the money seemed to have just gone.
+This left Responsibility full of questions, and it turned to the bank for answers:
+—Who had instructed the bank to liquidate the fixed deposits of about Rs 166 crore?
+—When was such an instruction received by the bank?
+—Who instructed the bank to transfer the funds, and to which account had they been transferred to?
+The bank, according to my sources, did not respond to Responsability’s numerous emails and in-person queries, except to say that it would answer any related questions via the courts.
+Eventually, it revealed in its court filings that Blusmart’s charging arm, Gensol, and a related entity called Param Care had availed overdrafts (ODs) backed by the fixed deposits in question. And between 5 April and 15 April, Blusmart, Gensol, and Param asked the bank to square off the overdraft they owed ICICI Bank against the fixed deposits Blusmart held there.
+Responsability, of course, knew none of this until the bank disclosed the details in court.
+According to a source aware of the matter, Responsability believes that banks should have acted in the interests of the investor, and not allowed the creation of ODs backed by these FDs and their subsequent liquidation without its consent.
+Especially since the bank had been made aware that there was a “charge document” in place stating that there was a charge on the account, and any assets or investments created out of the monies in it, including Blusmart’s charging infra (which was what the money was to be used for) and the FDs.
+Its suit against ICICI Bank now alleges that lending against the FD to a non-Blusmart entity—one that was related only by virtue of a common promoter—was not right on the bank’s part.
+The bank and Responsability did not respond to The Ken’s questions. But two bankers The Ken spoke to said that once the money had left the subscription account and was in the FDs, it was up to the company to spend it as it desired, and that banks do not have a responsibility to monitor such spending.
+Who is in the right here will need to be decided by the courts. But in the meantime, Responsability has joined a long line of creditors who are owed money by Gensol-Blusmart and are bemoaning their lack of responsibility.
+That’s a wrap for this week. Have insights or questions? Reach out to us at [kaching@the-ken.com](mailto:kaching@the-ken.com) or join the conversation by commenting on our website or app.
+Regards,
+Arundhati Ramanathan
+Become an event sponsorSince 2016, The Ken has been exclusively subscriptions-driven. That has allowed us to stay independent, unbiased, and subscriber-focused. We are now partnering with select organisations as sponsors for our live events. Would you like to find out more? |

@@ -1,0 +1,28 @@
+---
+subject: "OpenClaw is Wordpress, Manus is Medium. Where is Ghost in a Docker?"
+from: "Arnav Gupta from system bashing <systembashing@substack.com>"
+to: ""
+date: 2026-02-11 21:43:54
+labels: ["Arnav Gupta", "CATEGORY_PERSONAL", "INBOX", "UNREAD"]
+label_ids: ["Label_2739595779997728054", "CATEGORY_PERSONAL", "INBOX", "UNREAD"]
+---
+|
+We are currently in the “Geocities/Early WordPress” era of AI agents. If you look at the landscape, two distinct vibes are emerging, and they look suspiciously like history repeating itself.
+[OpenClaw](https://substack.com/redirect/35b2c4a5-4bf9-4be8-bdf6-6875c51fcf2b?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) (and similar “yolo-mode” agents) feels exactly like WordPress in 2008. You know the vibe: wp-admin
+is exposed, the MySQL password is admin123
+, and there’s a growing list of plugins from questionable sources that might either give you a beautiful contact form or a crypto-miner.
+It’s a duct-taped airplane. The wings are shivering, the rotors are violently shuddering, and you feel like it could crash into a RecursionError
+at any moment. You see the [vibe coding slop](https://substack.com/redirect/0b1e1325-e91c-4378-9464-17b4966a3c8c?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) across the board. The UI overlaps, tool calls fail constantly, and it never tries to hide that it was born in a 48-hour hackathon.
+But, like WordPress, it’s free. It’s the “Wild West” where you have a full filesystem scratchpad, you can invoke ffmpeg
+, imagemagick
+, and pip install
+whatever you want in wanton glee. It’s [agentic AI](https://substack.com/redirect/0665eeb3-5973-4feb-a44e-0025410dca5c?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) at its most chaotic and powerful.
+On the other side, you have [Manus AI](https://substack.com/redirect/b051d2ec-b2e2-491f-b055-737cb006aa29?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o). Manus is the Medium of agents. It’s tight, locked down, and centralized. You can only “import” data from 10-15 official connections. It’s polished, sure, but the LLM is wearing a straitjacket. It can’t run a terminal inside a container; it can only use the limited [Model Context Protocol (MCP)](https://substack.com/redirect/a9387e11-d62a-4d9b-9351-14bf275a33cd?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) endpoints the platform exposes.
+If OpenClaw is a jungle, Manus is a manicured lawn with “No Walking” signs.
+So, where do we go from here?
+I think there’s a massive opportunity for the “Ghost in Docker” approach. We need a stack that has the “Convention over Configuration” ease of a 1-click deploy, but with actual security.
+Imagine a main agent that acts as the orchestrator, and every time it needs to do something “dirty” (like running code or processing a PDF), it spins up a [sub-agent in a transient Docker container](https://substack.com/redirect/fd536f8f-8774-461e-921f-a3dd868044f4?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o). You give it a token limit, a time limit, and a specific set of tools.
+This isn’t just “using an LLM.” This is owning a living-breathing “box” on the internet that has both compute and storage. It doesn’t live on a blockchain; it lives in a [Remote Execution Environment](https://substack.com/redirect/987dbb9e-9e91-4f6d-ae8c-3c68af5b4f64?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o).
+While US and China lug it out in models and infra, the OSS-agentic space seems to be a bit of a Europarty right now.
+OpenClaw by Peter Steinberger (a Vienna boy), is what made this all so popular. It is built on top of [pi.dev](https://substack.com/redirect/f0f0e874-ded7-4abd-a408-badd1817bab7?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) as the core agentic loop made by Mario Zechner (of libgdx fame), also an Austrian and finally, the future of tighly controlled environment to run small agentic loops is coming from [Gondolin being made by Erandil](https://substack.com/redirect/c42072b3-e59d-421c-b787-b223b093f98c?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) - also being made by another Austrian hero - Armin Ronnacher (who created Flask)
+system bashing is free today. But if you enjoyed this post, you can tell system bashing that their writing is valuable by pledging a future subscription. You won't be charged unless they enable payments.

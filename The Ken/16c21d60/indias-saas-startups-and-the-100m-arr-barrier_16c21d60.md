@@ -1,0 +1,14 @@
+---
+subject: "India’s SaaS startups and the $100M ARR barrier"
+from: "The Ken <info@the-ken.com>"
+to: ""
+date: 2019-07-24 02:36:10
+labels: ["CATEGORY_PERSONAL", "INBOX", "The Ken"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_8244464457792971031"]
+---
+In 2011, Marc Andreessen [said](http://link.the-ken.com/wf/click?upn=HQSq6eeRV1xAVaGuFOahuNE2Y2gRry-2BJ-2BQoa7VCVJeENf4d7alnuiDQgov2oac2wbwAWYBzeusqQjGXnekWdVThHDhbK-2BmjqzX2NMRuqtU0-3D_S4jLOsNx-2Fv6Jev2nvow8b7P9pBCWGd8KNZfb200gkZLQNlXQHio0noZzXtsWoloZmPWeyZsh7a4QCV9ufwCUKi00jlBT0uEdvwYDMuVuqcOKRj-2B-2FJM6xm9QUG8q504InnyKctmsTILFox9AR6nm4jpUul4Yb7f4suRk0UUiODi5uaAxXtxcvvRfgm95ugEMpRaqNqfRM-2FgL9Hp-2FCxBT4m9rlGIuJIR1VjIGGRSHS-2FdVoFBMrCgeNPTyJabRzWLc-2FtTh2eL33yLmL-2Fr9g-2BPPqDhwxEEqk2fnqLgFHeGckgomvg2UWs3Ti18NnoA7EVejUqilx6mFnBnaN0KqLtFcwtQbCHV6Th4ejYLY8hs5a1nAxVVgor2XLly33dzCnWDNrlCocP2fop9bO9-2FQcnkpp6C-2FRtqgfQaTNbKOXefsDCB2Bcw9k5TxPBr4-2FxyOSBhet) “software is eating the world”. Aided by the unprecedented growth and power of the Internet, one segment of software companies capitalised on that trend more than others: SaaS, or software-as-a-service companies. Research firm Gartner estimates that the global SaaS market today is $215 billion and will grow to $330 billion by 2022.
+But a reliable estimate of the global market share for Indian SaaS companies is a mere 1%. Can that change?
+In today’s story, Sumanth analyses the evolution of Indian SaaS startups as 2 distinct cohorts. The first cohort comprised either the likes of Zoho, FusionCharts, Kayako and Wingify who were largely bootstrapped (or at best seed funded) or targeted enterprises through a high-touch sales model, like Capillary Technologies. Many capped out at ARRs (annual recurring revenue) of $10M.
+The arrival of the second cohort was heralded by Freshworks, which was global in its ambition, well-funded and armed with a customer acquisition playbook that was cheap and efficient. It recently crossed $100M in ARR.
+But where Freshworks faced roughly 50 global competitors in 2011 when it started, that number today is over 600. Which means for a newer set of SaaS startups to replicate Freshworks’ success, they will need to modify their approach, and perhaps even target markets. Sumanth highlights the developer-as-buyer segment as one key vertical where startups like BrowserStack, OrangeScape, Chargebee and Postman have scaled up to tens of millions of dollars in revenue, often without an initial infusion of external capital. He estimates that anywhere between half a dozen to a dozen Indian SaaS startups will almost certainly follow Freshworks across the $100 million ARR milestone over the next 2-3 years.
+What markets will they target? What playbooks will they adopt? How successful will they be?

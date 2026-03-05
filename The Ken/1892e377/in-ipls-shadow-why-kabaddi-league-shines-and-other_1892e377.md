@@ -1,0 +1,20 @@
+---
+subject: "In IPL’s shadow, why kabaddi league shines and other sports fade"
+from: "The Ken <info@the-ken.com>"
+to: ""
+date: 2023-07-07 02:38:54
+labels: ["CATEGORY_PERSONAL", "INBOX", "The Ken", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_8244464457792971031", "UNREAD"]
+---
+Good Morning Ishan,
+Can you name five Indian football players apart from Bhaichung Bhutia and Sunil Chhetri? Frankly, I can’t. And this is despite growing up in Kolkata, where “the beautiful game” is as important as the morning tea in most Indian households. Yes, that important!
+It’s been eight years since I last watched an entire football game that had Indian players in it. It was the Kolkata Derby—East Bengal vs Mohun Bagan—in which the former had won 4-0. The sorrow in my neighbourhood was profound. So much so that a friend’s father had decided to skip dinner.
+Mohun Bagan and East Bengal still play against each other. Now in the Indian Super League (ISL). But, like most others, I don’t remember watching any of ISL’s matches. Attracting viewership has been a similar struggle for tournaments like Hockey India League, Premier Badminton League, and Champions Tennis League, among others, according to the author of today’s story—Vaibhav.
+All of these sports leagues came into existence following the glory of the Indian Premier League (IPL). But apart from the mad craze for cricket in India, there are reasons why IPL could make it and the others are still slogging it out.
+For one, we Indians love slower gameplay with multiple breaks. By the time a bowler starts and finishes his run-up, we’re done with a couple of sips of tea/coffee; now all set to watch Kohli whack it out of the park. And the reasons only get more complex from here.
+But hey, as always, there’s an exception that’s broken the norms and has scaled success: the Pro Kabaddi League. So what made it stand out? For that and so much more, why don’t you head over to Vaibhav’s story? It’s free to read, so do share it widely: [https://the-ken.com/story/in-ipls-shadow-why-kabaddi-league-shines-and-other-sports-fade/](https://the-ken.com/story/in-ipls-shadow-why-kabaddi-league-shines-and-other-sports-fade/?utm_source=story_story&utm_medium=email&utm_campaign=story_newsletter) (10-minute read)
+Regards,
+Rounak
+rounak@the-ken.com
+What you just read is the personalised daily introduction to The Ken's story. Written by a different person each day. Often insightful, sometimes witty, and very rarely boring. Someone sent this to you? [Sign up for free](https://the-ken.com/?modal=register&utm_source=footer&utm_medium=email&utm_campaign=morning_email_ind). [Dont like these? You can unsubscribe](https://link.the-ken.com/asm/unsubscribe/?user_id=2349339&data=3zkLGl0Do-CB6OKQ4RXkDiyKCcwGcUdWfWrl2d46PVNoMDAwdTAwMOcY-uQYTsPfGjWiQlKB-JS9g1mX_4xiwyLGiVGlyryJjhKe-hkMQkqYpPaEm8fsME3wO40lRL1eBAVM3hAm5ELlSqb1SlDdSINyCn14FGAfgVKN4nJ-h-vexKp7_2FpHfjZ6qA6hAv6Vs4ucnzypcQFFm7Xjh-18S6UvTfaNdmHuO5MQlHsoZZYJlWDaUOeijw8P05csF5mJK1GZ9Jhw4Q6QKfNSll_BgOZkkmsmz_5OqkMyJlNaEJ1bth21-BG4uDFyPS3wdbLZym8USK8snKd9lvRLX-oky0YUm912f7RlgeR1dJLD20drfMtXDUsfxaS7AvCeT6LvcwZtXAFQhEqVIfPxh3peirT20k7pQVU7-C5gdQ2ZDNTHs0J95D7LySbXe252k31fTHC2rUgY1BgmoBni89EaiWZywl4YiyJJFrDT689O19ZqUpfD6thwtOwcGvpDL8LgHXqzNZ-35MkOWIclszk0OSJJWxYgds4FUZBSLUZIxX604TrvTf1Ow==) Dont want to hear from us again? [ Unsubscribe from our emails here](https://link.the-ken.com/asm/?user_id=2349339&data=nHqrDkIfqBUJBw_V2UNuBN6IRZORuoQB0rjoQiJ7hk5oMDAwdTAwMPIzJOOpiYCSYKi5aTTLCAeIbgOyNeXWC5h0CKX-TsBVPFWvlZDZfYxUMuwGUMOHdUEvHw3DSZ2Xu2zm0BdZw0wgjRmdD9J_jH6ajv2jC42hFFoHrP2kpJ_wgDpybAu1wOyeiOTZeU_hlKg3Qfc9lhrl_rKcTEmF0JYBXHMoVntfopC8QwzDJ2TtV97uaAUSQrsrZPHhEk-XC8ioVpjsg3eeWkBgI9BOu-A3huvZRFFFgBB2DU-A3VEOFtSpvRAgrBew2iUTBNsEoWwSLkCY37JwaCkCv1OfB44Fg2s_Jt2W8yJWF4uaWK7RDh1eBZy1tARqZZvCvrgz0kEd-eYbPM0vq3BKuvwGJh80fQ1BF3kCSyW5gOybo8KD5vw44dwH2dRvRToPJs6l2gDSV2mUw1hEphPEgQR8LfQLFDzXTnN9rkh4T6L5bHwz7GxIQ27QpYzsAHMBXBz3h5xCyaIoC1_v-DYz-WLRIP_0MIEqKBy1qrzs-S31zrcV816I3w0Q2A==).
+Something wrong? Tell us at [support@the-ken.com](mailto:support@the-ken.com)

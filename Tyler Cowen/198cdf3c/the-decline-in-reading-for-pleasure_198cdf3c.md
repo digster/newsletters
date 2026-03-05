@@ -1,0 +1,10 @@
+---
+subject: "The decline in reading for pleasure"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2025-08-21 18:46:00
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+We measure reading for pleasure and reading with children from 2003 to 2023, using a nationally representative sample from the American Time Use Survey (n = 236,270). We found marked declines in the proportion of individuals reading for pleasure daily in the US, with decreases of 3% per year (prevalence ratio = 0.97, 95% confidence interval = 0.97, 0.98, p < 0.001). There were disparities across population groups, with widening gaps for those of Black (vs. White) race, with lower education levels and less annual income.
+That is from [a new paper](http://marginalrevolution.com?action=user_content_redirect&uuid=ff49205ca1fb133ae107bc5be4fbf0cb54ed4567608f8284025749fe0a8ad7f8&blog_id=42693868&post_id=91337&user_id=262258391&subs_id=225460721&signature=b4e6c2ebeeda93dcef2606c12ebea317&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly93d3cuY2VsbC5jb20vaXNjaWVuY2UvZnVsbHRleHQvUzI1ODktMDA0MigyNSkwMTU0OS00&email_id=37a25050b0ea0fd4e06384327012e1c1) by Jessica K. Bone, Feifei Bu, Jill Sonke, and Daisy Fancourt. I have not seen any plausible debunkings of this paper or result (which I believe), but if I do I will pass them along. Note by the way that [Denmark is abolishing the VAT on books](http://marginalrevolution.com?action=user_content_redirect&uuid=ac7ef1d1687452b9cf830285ece382e4a5cefc0fce5519854f7b534c7104c13d&blog_id=42693868&post_id=91337&user_id=262258391&subs_id=225460721&signature=d911fb424db9488b39ce59b03b8ac74e&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly93d3cudGhlZ3VhcmRpYW4uY29tL3dvcmxkLzIwMjUvYXVnLzIwL2Rlbm1hcmstdG8tYWJvbGlzaC12YXQtb24tYm9va3MtaW4tZWZmb3J0LXRvLWdldC1tb3JlLXBlb3BsZS1yZWFkaW5n&email_id=37a25050b0ea0fd4e06384327012e1c1), in an effort to boost reading. It was formerly twenty-five percent, the highest in the world.

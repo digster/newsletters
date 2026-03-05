@@ -1,0 +1,16 @@
+---
+subject: "India's non-bank lenders in no man's land thanks to RBI's extended moratorium"
+from: "The Ken <info@the-ken.com>"
+to: ""
+date: 2020-05-29 02:37:10
+labels: ["CATEGORY_PERSONAL", "INBOX", "The Ken"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_8244464457792971031"]
+---
+Normandy. That's how a source in today's story described the plight of India's non-bank lenders. For those unfamiliar with what happened at Normandy, it's widely regarded as the beginning of the end of World War II in Europe. The allied forces stormed the beaches of Normandy, setting the stage for the liberation of Western Europe from Nazi Germany rule. India's non-bank lenders could be the allied forces in the fight against the prevailing economic slowdown, argued our source.
+Given that some 73,000 of the 2 million allied soldiers who fought in the battle perished, it makes for a grim analogy.
+I'd argue that it is an overly optimistic one. Normandy, after all, ended in victory.
+The allied forces went into battle with copious air support. Non-bank lenders, on the other hand, feel utterly bereft of support. While India's central bank stepped in to steady the economy, its efforts were mostly aimed at banks, with the assumption that this would trickle down to non-bank lenders, too. That hasn't happened.
+But it isn't that the central bank's measures haven't helped. Some of its ideas, as well-intentioned as they may be, are actively harming non-bank lenders. Its original moratorium on loan repayments was seen as a way for lenders to avoid piling their books with non-performing assets and defaults. But with the moratorium extended from three to six months, lenders are a worried lot.
+Forget having the funds to continue lending; they're worried about repaying their own lenders—banks—which haven't extended the moratorium courtesy to them. Those who cannot make their payments will be downgraded. Those who do not offer the moratorium will likely rack up NPAs and be downgraded. It's a damned if you do, damned if you don't situation. There's also a genuine fear that this will irreversibly change credit culture.
+I'd argue that their plight is a lot less like the allied forces at Normandy, and a lot more like the allied forces at Dunkirk, some four years earlier. There, outmanned and outgunned, the allied forces retreated by sea so that they could live to fight another day. Will the RBI help ferry non-bank lenders to safety? Arundhati chronicles this fantastically in today's piece. You can read it here:
+[https://the-ken.com/story/nbfc-rbi-moratorium/](https://link.the-ken.com/uni/ls/click?upn=sy6ExvMQ-2BqIqW2Qsf-2FVG5sc84ge4M35NkSHIl0HH-2B5DHaqqRrQMJyDKhVykfNtSimgAxUVsypre26NMT5P-2BiKANyjRe4fza0GYyQVWerwFzHLSLvVtBAkJJnoyHezQEKzvEqscq7L7wV8MZKcKT5w2KFS5tOKk4NJVy1SbOB2VY-3DeLjf_dmDs81p1OM5gBGYvHfsMFvgp9PcMB6iZkwowmLx-2FVhwlHXbL5m6csiptGuneRwktW27c6ZwIBsjV67BZcfkOlPppVavmb9GVjXF4V-2FTqNpXqekRjQOGOOsuiGih873fRd1z9QAjSA2xugz8yTiu7KpKDXWZS-2FTzOXLHChTB4AFlp3qyLCYhZiBbJSIOmIANeUa0qm-2F9t18P1HrUR0EVUCYk7iHOsCmWVYpS55Mcu4EmqMrqESrSl5BdQzDi4YBmtJchx9A-2FiMkKxa-2F7Yx-2BbwsR7sBlGKQPZV6O6LKiE-2BjFeE-2BqPpj-2BywcYRAIUoGVkO4p478yXFSQrE1B202WTlrvBaP2rJBXHl5ZHEq5s05DO6Og6lViLJgR0ES8sBiKEz7bjg0U5DhA0w7SoGCkoHSQrFYD0WWV4X086HT8amMqWBp-2BdhbO8a-2B-2F0hfpyqJm-2BTi) (10-minute read)

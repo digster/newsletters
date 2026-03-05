@@ -1,0 +1,10 @@
+---
+subject: "That was then, this is now, Robin Hanson edition"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2025-05-27 16:07:46
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+Robin Hanson, who joined the movement and later became renowned for creating prediction markets, described attending multilevel Extropian parties at big houses in Palo Alto at the time. "And I was energized by them, because they were talking about all these interesting ideas. And my wife was put off because they were not very well presented, and a little weird," he said. "We all thought of ourselves as people who were seeing where the future was going to be, and other people didn't get it. Eventually -- eventually -- we'd be right, but who knows exactly when."
+That is from Keach Hagey's [The Optimist: Sam Altman, OpenAI, and the Race to Invent the Future](http://marginalrevolution.com?action=user_content_redirect&uuid=8974b1dcbb11fb60277bc073804378ad75c0caea883ab27f668503b4930226f0&blog_id=42693868&post_id=90746&user_id=262258391&subs_id=225460721&signature=2f47aac47f738215d32d0f08e00d26a1&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9PcHRpbWlzdC1BbHRtYW4tT3BlbkFJLUludmVudC1GdXR1cmUvZHAvMTMyNDA3NTk2MS9yZWY9c3JfMV8xP2NyaWQ9UDRXWkFBN0pSRVM4JmRpYj1leUoySWpvaU1TSjkuR0lZN3NVeFcyOEZicHFFVWVuZVFnZVZGVWxEWHRZNEhUVUFxY0E4VmcxU2hJX2IxY095cEg2MlcxYWMxZVhzOC5ITFJDWlI3VTl3MHdPalI4X2l6RHlSaGZ2YUZSREpiSHczdDVuSGR4dzdnJmRpYl90YWc9c2Uma2V5d29yZHM9a2VhY2graGFnZXkrb3B0aW1pc3QmcWlkPTE3NDgzMDY4OTEmc3ByZWZpeD1rZWFjaCtoYWdleSUyQ2FwcyUyQzEwMCZzcj04LTE&email_id=27b46041e4cf8dc1a384cbbc613be862), which I very much enjoyed. I am not sure Robin's supply of parties has been increasing out here in northern Virginia...

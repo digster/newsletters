@@ -1,0 +1,66 @@
+---
+subject: "Recap: Here's everything we published this week"
+from: "The Ken <info@the-ken.com>"
+to: ""
+date: 2025-04-13 03:41:04
+labels: ["CATEGORY_PERSONAL", "INBOX", "The Ken"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_8244464457792971031"]
+---
+|
+|
+Delivered to Ishan, Subscriber to The Ken.
+Sun, 13 Apr 2025
+|
+The Spotlight by Jonathan Ananda
+Newsletter Editor
+|
+|
+Good Morning Ishan,
+Welcome to your Sunday recap of everything The Ken published this week. Do keep a special eye out for our coverage of the chaos unleashed by Trump this month, and what it means for India.
+[Indigo’s market value is soaring. So is passengers’ fury](https://the-ken.com/story/the-indigo-conundrum-investors-worship-it-flyers-hate-it/?utm_source=weekly_email&utm_medium=email&utm_campaign=weekly_recap_card)
+The once-beloved airline is now slammed for falling standards. But, oddly, business has never been better
+On 9 April, Indigo became the world’s most valued airline by market cap, overtaking US-based Delta Air Lines. The carrier’s rising market share and profits indicate that chief executive Pieter Elbers is ably steering the plane. But at the same time, customer complaints against the company have doubled. At the heart of it are cost-cutting measures, and disgruntled employees who feel deserted. [[Read the full story](https://the-ken.com/story/the-indigo-conundrum-investors-worship-it-flyers-hate-it/?utm_source=weekly_email&utm_medium=email&utm_campaign=weekly_recap_card)]
+[Abbott India, Thermo Fisher hit all-time highs. Then medtech madness struck](https://the-ken.com/long_and_short/abbott-india-thermo-fisher-and-meril-hit-all-time-highs-then-medtech-madness-struck/?utm_source=weekly_email&utm_medium=email&utm_campaign=weekly_recap_card)
+A 26% tariff on medical devices is madness, but India should avoid any kneejerk reaction. There’s a silver lining
+*****
+[Are Trump’s tariffs a crisis or an opportunity for India?](https://the-ken.com/podcasts/two-by-two/no-easy-moves-is-india-facing-a-crisis-or-an-opportunity/?utm_source=weekly_email&utm_medium=email&utm_campaign=weekly_recap_card)
+India doesn’t have the leverage that other trading partners do. But there are opportunities for both industry and consumers
+*****
+[Trump’s sucker punch to retirement portfolios](https://the-ken.com/kaching/trumps-sucker-punch-to-retirement-portfolios/?utm_source=weekly_email&utm_medium=email&utm_campaign=weekly_recap_card)
+The sequence-of-returns risk now playing out for hapless retirees needs a measured, if painful, comeback. A new paper suggests how
+*****
+[Holding gold amid tariff tremors](https://the-ken.com/the-collection/holding-gold-amid-tariff-tremors/?utm_source=weekly_email&utm_medium=email&utm_campaign=weekly_recap_card)
+Intensifying fears of a global recession put the spotlight on the archetypal “safe-haven” asset
+*****
+[‘Boys will be boys’ — Trump, tariffs and the dismantling of global trade](https://the-ken.com/podcasts/daybreak/boys-will-be-boys-trump-tariffs-and-the-dismantling-of-global-trade/?utm_source=weekly_email&utm_medium=email&utm_campaign=weekly_recap_card)
+The Daybreak podcast on the global trade war that stopped before it started. Well, kind of
+[Biyani’s retail empire flamed out. His daughters seek redemption in birthing new brands](https://the-ken.com/story/biyanis-retail-empire-flamed-out-his-daughters-seek-redemption-in-birthing-new-brands/?utm_source=weekly_email&utm_medium=email&utm_campaign=weekly_recap_card)
+Ashni and Avni Biyani have to battle more than the fallout of the Future Group fiasco to scale their food-to-fashion venture
+Think 9 Consumer, a startup studio by Ashni and Avni Biyani, came up in 2021, around the same time their father’s erstwhile empire Future Group went bankrupt. It incubates a host of new-age consumer brands, but the Thrasio-inspired roll up model is stuttering. Adding to the sisters’ woes are a slew of old suppliers and vendors, hesitant to work with the Biyanis due to non-payment of past dues. While trust can be gained back, it’s harder to compete with the more agile VC- and PE-backed brands. [[Read the full story](https://the-ken.com/story/biyanis-retail-empire-flamed-out-his-daughters-seek-redemption-in-birthing-new-brands/?utm_source=weekly_email&utm_medium=email&utm_campaign=weekly_recap_card)]
+*****
+[The succession coaches standing between India’s super-rich and their ruin](https://the-ken.com/story/the-succession-coaches-standing-between-indias-super-rich-and-their-ruin/?utm_source=weekly_email&utm_medium=email&utm_campaign=weekly_recap_card)
+They navigate traditional mindsets, internal conflicts, and power plays to keep India’s elite family businesses from imploding
+India has about 850,000 millionaires, and that number is set to double by 2027. And as the rich population grows, so does the propensity to safeguard their wealth. So, a slew of advisors have cropped up across the country who help these millionaire families chart out an order of succession. Unlike in Europe and the rest of the West, structured succession planning in India is a relatively new phenomenon—something that families are still getting used to. These coaches’ go beyond advising the family and now guide the next generation, pushing for professionalisation. [[Read the full story](https://the-ken.com/story/the-succession-coaches-standing-between-indias-super-rich-and-their-ruin/?utm_source=weekly_email&utm_medium=email&utm_campaign=weekly_recap_card)]
+*****
+[Jio fixed your data bill. Looks like LIC wants to fix your hospital bill](https://the-ken.com/story/lic-is-coming-for-health-insurance-reliance-jio-style/?utm_source=weekly_email&utm_medium=email&utm_campaign=weekly_recap_card)
+A stake in Manipal Cigna or any standalone insurer may just be the start. LIC is bringing government-grade momentum into a market long plagued by low trust, high premiums, and half-hearted reform
+LIC is prepping to enter the health insurance space, likely by acquiring a stake in a standalone health insurer. Backed by deep pockets, a vast and trusted salesforce, and unmatched brand recognition, it has the muscle to make an impact. With the ability to offer lower premiums, LIC could expand health-insurance access dramatically—potentially disrupting the sector the way Jio transformed telecom. But LIC’s agents also sell rival policies, and while hospitals are open to partnering with a government-backed player offering market-rate payments, some worry this could come at a cost. [[Read the full story](https://the-ken.com/story/lic-is-coming-for-health-insurance-reliance-jio-style/?utm_source=weekly_email&utm_medium=email&utm_campaign=weekly_recap_card)]
+*****
+[Delhivery’s Ecom Express deal buys time, not salvation](https://the-ken.com/story/delhiverys-ecom-express-deal-buys-time-not-salvation/?utm_source=weekly_email&utm_medium=email&utm_campaign=weekly_recap_card)
+The largest third-party logistics firm is soldiering through turbulent times in its core business. So, its acquisition of its less-fortunate peer is both a tactical and a desperate move
+Amid muted growth in its core business of shipping e-commerce parcels, Delhivery saw an opportunity to snap up its floundering rival Ecom Express. Stacking Ecom’s volumes on top of its own offers incremental revenue while wiping out a competitor. But the positives may not sustain for long. The biggest customers of third-party logistics firms—the likes of Amazon, Flipkart, and Meesho—are wary of relying too much on any one player. Moreover, executing a seamless integration of Ecom and Delhivery’s networks and resources is easier said than done, given their common sources of shipments. [[Read the full story](https://the-ken.com/story/delhiverys-ecom-express-deal-buys-time-not-salvation/?utm_source=weekly_email&utm_medium=email&utm_campaign=weekly_recap_card)]
+[Ola Electric didn’t stop digging](https://the-ken.com/the-nutgraf/ola-electric-didnt-stop-digging/?utm_source=weekly_email&utm_medium=email&utm_campaign=weekly_recap_card)
+Bhavish Aggarwal tried some DOGE. It led to confusion, clarifications and a desperate hope that things will turn around
+[[Listen to The Nutgraf podcast](https://the-ken.com/podcasts/the-nutgraf/ola-electric-didnt-stop-digging/?utm_source=weekly_email&utm_medium=email&utm_campaign=weekly_recap_card)]
+*****
+[“Winning versus being on the winning side”](https://the-ken.com/newsletter/first-principles/winning-versus-being-on-the-winning-side/?utm_source=weekly_email&utm_medium=email&utm_campaign=weekly_recap_card)—Many of the mega trends we’re facing today force us to choose between staying distinct and picking a side [[Read here](https://the-ken.com/newsletter/first-principles/winning-versus-being-on-the-winning-side/?utm_source=weekly_email&utm_medium=email&utm_campaign=weekly_recap_card)]
+[The age of AI reasoning](https://the-ken.com/edsetgo/the-age-of-ai-reasoning/?utm_source=weekly_email&utm_medium=email&utm_campaign=weekly_recap_card)—Claude has a new “hybrid” version of its AI mind now. What does that mean for education? [[Read here](https://the-ken.com/edsetgo/the-age-of-ai-reasoning/?utm_source=weekly_email&utm_medium=email&utm_campaign=weekly_recap_card)]
+[HUL is obsessed with “wellbeing”](https://the-ken.com/tradetricks/hul-is-obsessed-with-wellbeing/?utm_source=weekly_email&utm_medium=email&utm_campaign=weekly_recap_card)—It needs something new to pick up the slack in one of its core businesses [[Read here](https://the-ken.com/tradetricks/hul-is-obsessed-with-wellbeing/?utm_source=weekly_email&utm_medium=email&utm_campaign=weekly_recap_card)]
+[China built the solar energy empire. India’s building the green hydrogen rebellion](https://the-ken.com/podcasts/daybreak/china-built-the-solar-energy-empire-indias-building-the-green-hydrogen-rebellion/?utm_source=weekly_email&utm_medium=email&utm_campaign=weekly_recap_card)—A little-known American startup called Ohmium is building sleek, modular machines outside Bengaluru to split water into hydrogen and oxygen using nothing but renewable electricity [[Listen here](https://the-ken.com/podcasts/daybreak/china-built-the-solar-energy-empire-indias-building-the-green-hydrogen-rebellion/?utm_source=weekly_email&utm_medium=email&utm_campaign=weekly_recap_card)]
+[Zerodha and Groww wanted to disrupt mutual funds. But they’re stuck in first gear](https://the-ken.com/podcasts/daybreak/zerodha-and-groww-wanted-to-disrupt-mutual-funds-but-theyre-stuck-in-first-gear/?utm_source=weekly_email&utm_medium=email&utm_campaign=weekly_recap_card)—The likes of Navi, Zerodha and Groww have been dreaming of a big disruption. And a couple years ago, they thought they had found the answer to their prayers [[Listen here](https://the-ken.com/podcasts/daybreak/zerodha-and-groww-wanted-to-disrupt-mutual-funds-but-theyre-stuck-in-first-gear/?utm_source=weekly_email&utm_medium=email&utm_campaign=weekly_recap_card)]
+[Minimalist was the glow-up Hindustan Unilever’s skincare line needed](https://open.spotify.com/episode/21yhwuY4L9BiVyB9gVn6LY)—One of the largest deals to acquire a D2C brand took place in January this year. What does it mean for the players involved? [[Listen here](https://open.spotify.com/episode/21yhwuY4L9BiVyB9gVn6LY)]
+[From Medimix to Apsara Ice Creams — scions of family-run businesses are done building just another ‘parent’s brand’](https://the-ken.com/podcasts/daybreak/zerodha-and-groww-wanted-to-disrupt-mutual-funds-but-theyre-stuck-in-first-gear/?utm_source=weekly_email&utm_medium=email&utm_campaign=weekly_recap_card)—The likes of Navi, Zerodha and Groww have been dreaming of a big disruption. And a couple years ago, they thought they had found the answer to their prayers [[Listen here](https://the-ken.com/podcasts/daybreak/zerodha-and-groww-wanted-to-disrupt-mutual-funds-but-theyre-stuck-in-first-gear/?utm_source=weekly_email&utm_medium=email&utm_campaign=weekly_recap_card)]
+That’s a wrap for this week. If you have thoughts or suggestions you’d like to share, leave a comment on our website or app, or write to our writers and podcasters. You can also write to me at jonathan@the-ken.com.
+Take care.
+Regards,
+Jonathan

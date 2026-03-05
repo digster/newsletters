@@ -1,0 +1,58 @@
+---
+subject: "The Nutgraf: Makemytrip’s legacy"
+from: "The Ken <info@the-ken.com>"
+to: ""
+date: 2024-11-23 05:04:33
+labels: ["CATEGORY_PERSONAL", "INBOX", "The Ken"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_8244464457792971031"]
+---
+Good Morning Ishan,
+Before I get to today’s story, one big announcement:
+Apple has selected Two by Two as one of [their favourite podcasts](https://www.apple.com/hr/newsroom/2024/11/apple-shares-the-most-popular-podcasts-of-2024/) of 2024!
+Someday, I’ll tell the longer story of how we created India’s first paid business podcast. Personally, I’ve never been big on discussion podcasts. Globally, but especially in India, I just find that they are vehicles for brands, founders, or VCs to promote themselves or their companies by having safe, scripted, and stilted conversations while pretending to offer insights. I say “pretending”, because in real-life, insights are never offered on a plate with neatly bulleted “takeaways”—they organically emerge when people have differing views of the world which they discuss openly and freely. That’s what we really wanted to create—real, live discussions about what’s going on with actual companies, sectors, and careers in India. With smart, outspoken guests who are unafraid to stick their neck out and take counterintuitive positions, and above all, to disagree with us and each other.
+Now, that’s a podcast worth creating, listening to, and hopefully, even paying for.
+In 2016, The Ken had a pretty bold bet—quality business journalism is worth paying for. In 2024, we believe that quality podcasts are also worth paying for. It’s still early days, but every week, thousands of The Ken‘s Premium subscribers listen to Two by Two on our mobile apps, or via a premium subscription on Apple Podcasts.
+I’ve been writing for a long time, but I’m still very new to podcasts. I’m still figuring things out. Like how to find more diverse guests, or figuring out what kind of topics are interesting to me and my listeners, or how to shut up and not say ‘Hmm’ when someone else is speaking.
+Big thanks to Rohin, my co-host; Hari, our producer and writer; and Rajiv, our wonderful, talented sound engineer. Also to Anushka, who helped produce Two by Two in its initial stages.
+If you haven’t listened to Two by Two, I recommend checking out our latest episode, where my co-host Rohin and I decided to examine the serious new challenges that have emerged for supermarket chain Dmart. This was hard to imagine once because no retail business—online or offline—could compete with Dmart’s steep discounts. Or the fact that despite them, its profit margins consistently beat its competitors’.
+You can use The Ken’s app to[ listen to the latest Two by Two episode](https://the-ken.com/podcasts/two-by-two/dmart-versus-the-challengers-at-the-gate/) if you are subscribed to our Premium plan.
+If you are a free or basic subscriber, you can:
+[Subscribe](https://the-ken.com/pricing/?utm_source=newsletter&utm_medium=email&utm_campaign=twobytwo)to The Ken’s Premium subscription tier, then install our iOS, iPad, or Android apps. This will get you access to more than just Two by Two. You will also be able to read our longform stories, premium newsletters, and visual stories.[Subscribe](https://podcasts.apple.com/in/podcast/two-by-two/id1757938645)to Two by Two on Apple Podcasts. It’s a monthly subscription, which gives you access to all of the new and previously released premium subscriber episodes.
+You can also listen to the 30-minute version of this episode here if you want to get a sense of what we discussed:
+[Apple Podcasts](https://podcasts.apple.com/in/podcast/dmart-versus-the-challengers-at-the-gate-highlights-only/id1757938645?i=1000677701335) |[ Spotify](https://open.spotify.com/episode/0vhlqg3FWW8TQCMeidmELG?si=ySimfhF1TJuhUueKo9dDIQ) |[ Youtube](https://youtu.be/UdedkRk9LfE?feature=shared) |[ Amazon Music](https://music.amazon.in/podcasts/80a5f2b4-5dc9-4070-88d2-83d3b7e2388f/episodes/e3c48ad5-8f61-4fd1-bc08-1ac8ab295082/two-by-two-dmart-versus-the-challengers-at-the-gate-highlights-only)
+Now, for today’s The Nutgraf.
+Here’s the news from earlier this week.
+MakeMyTrip, an online travel company, on Monday said that it has signed a business transfer agreement to acquire Happay’s expense management platform from CRED for an undisclosed amount.
+Happay’s payments business and team, which has focused on developing an innovative technology stack and business payments products, will remain with CRED. The transaction is expected to close within 90 days, subject to closing conditions, the statement added.
+“We have consistently outpaced industry growth in the corporate travel sector over the past few years by focusing on innovation and seamless user experience,” said Rajesh Magow, co-founder and group chief executive officer, MakeMyTrip, in a statement.
+It added, “The acquisition of Happay’s brand and expense management platform is a natural next step in our strategy to lead this space. By integrating Happay’s expertise, which spans over 900 corporate clients, MakeMyTrip is set to redefine the benchmarks once again in corporate travel and expense management in India.”
+MakeMyTrip to acquire Happay’s expense management platform from CRED, [Business Standard](https://www.business-standard.com/companies/news/makemytrip-to-acquire-happay-s-expense-management-platform-from-cred-124111800839_1.html)
+Although the story above is about Happay, the bigger story is about Makemytrip.
+I don’t think people really know much about Makemytrip.
+Here’s an experiment you can try.
+Just ask the average person around you to name a successful publicly-listed Indian startup. The answer you’ll get is probably going to be Zomato, Swiggy, or perhaps Freshworks.
+Now, raise the bar. Ask them to list startups that are profitable (none of that adjusted EBITDA nonsense), most of them will think for a bit and name Zerodha*, Zoho, and maybe Dream11.
+If you ask people to combine the two—i.e., name a major Indian tech startup that is publicly listed and reasonably profitable—they’ll struggle to think of a company. Nykaa is listed, and made a tiny profit last quarter, but I’m not sure if that really counts as a technology company.
+But almost everyone forgets Makemytrip.
+Makemytrip is one of India’s original e-commerce companies. It was founded in the early 2000s, and started offering a consumer-facing service in 2005. By 2010, it went public… not in India, but in the United States. Here’s where the company stands right now:
+Travel service provider MakeMyTrip Ltd on Wednesday reported a profit of $17.9 million for the July-September quarter (Q2) of financial year 2024-25 (FY25). This was a more than seven-fold increase from the same period last year when the company had reported $2 million in profit.
+MakeMyTrip reported revenue as per International Financial Reporting Standards (IFRS) of $211.0 million, a significant 26.5 per cent increase compared to $168.7 million in Q2FY24, driven by sustained growth across all business verticals.
+MakeMyTrip Q2FY25 results: Profit jumps nearly eight times to $17.9 million, [Business Standard](https://www.business-standard.com/companies/results/makemytrip-q2fy25-results-profit-jumps-seven-fold-to-17-9-million-124102301011_1.html)
+Makemytrip is India’s most forgotten success story. It’s a company that took the long, hard route to get to where it is today, and it did it by playing in a market that was stacked against it.
+Travel booking platforms have no real moats, if you think about it. Customers have little loyalty. Pricing and discounts are the only differentiator one can offer. Switching costs are practically zero. Suppliers have a significant amount of power and influence. And I’m not even getting into stuff like Covid-19. If there ever was a business that would seem hard to win, especially as an aggregator, it would be travel booking.
+In fact, it doesn’t even have the advantages of other platform-like two-sided network companies. Ride-sharing has some kind of supply lock-in, which should give those companies an advantage. It’s not like you can open another app and magically find all of Ola’s and Uber’s drivers. Food delivery doesn’t have a supply lock-in, but it gives demand lock-in to companies like Swiggy and Zomato. This is reflected in their “take rate”, i.e., the cut they take from every customer order. For food-delivery that’s somewhere around 25%. For Makemytrip, that figure is closer to 15%. As a reference, Airbnb is close to 14%.
+Despite all of its structural disadvantages, Makemytrip has been purring along consistently. Based on its current run-rate, it’ll probably make over US$800 million in revenue and over US$60–70 million in profit this year. Very impressive.
+Can Makemytrip keep this going?
+Well, here’s one forward looking projection from a Macquarie equity research report released in August 2023.
+As the report notes, “despite its leadership position, MMYT had been largely unprofitable for the past two decades. MMYT has now been EBIT-positive over the past six quarters due to steady employee costs and marketing spend, while the platform saw record revenue in the Jun-23 quarter”.
+Regardless of whether those projections will come true, it’s hard to see why Makemytrip won’t be successful going forward. It’s a leader in a growing market, has hit some kind of scale, and doesn’t really have any major challengers on the horizon. Sure, there are companies like Yatra, and maybe even Cleartrip, but I don’t expect either of them to dramatically change the game over the short-term.
+Of course, this doesn’t mean that Makemytrip is destined to remain successful forever. Strange things happen. Disruption is unpredictable. For all we know, in another two years, we’ll find out some new consumer behaviour like how everyone is suddenly booking tickets using a water bottle or something. Who knows how these things play out?
+But there’s one thing that nobody can deny, and that’s Makemytrip’s legacy.
+When Indian consumer startups appeared and offered enormous VC-subsidised discounts, the conventional wisdom was, “Doesn’t matter. Get big. Win the market. Become a leader, and then profitability will happen.” It’s been nearly fifteen years since startup after startup has bled billions of dollars across sectors, and attained market leadership, but profitability has been elusive. Flipkart is the largest e-commerce company. Unprofitable. Swiggy and Zomato have taken a duopoly in food delivery. Both are unprofitable. Ola and Uber. The list goes on and on. Market leadership has been attained, but not profitability.
+But as of today, Makemytrip is the only consumer tech company that has fulfilled the original promise of “capture the market and then become profitable”.
+And it did it the hard way—by going public, and spending 14 years slowly building and scaling that business.
+Maybe the company we need to look at as a model for how to scale and succeed in India as a consumer startup is Makemytrip. I imagine this is how Indian startups will eventually become profitable. Slowly. And publicly. Not over a few quarters, but over decades. A lot of people say things like, “think long-term”, but I don’t think they really understand what it takes to truly be a long-term company.
+And that, I suspect, will be Makemytrip’s legacy.
+Regards,
+Praveen Gopal Krishnan
+*Zerodha’s perennial fund Rainmatter Capital is an investor in The Ken

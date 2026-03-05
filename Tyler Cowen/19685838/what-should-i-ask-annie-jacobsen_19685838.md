@@ -1,0 +1,13 @@
+---
+subject: "What should I ask Annie Jacobsen?"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2025-04-30 07:05:12
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+Yes, I will be doing a Conversation with her. [From Wikipedia](http://marginalrevolution.com?action=user_content_redirect&uuid=19e645943b76f36f99dcd098cb61582bfb8890884c01493cb71b73adbe8d76f8&blog_id=42693868&post_id=90548&user_id=262258391&subs_id=225460721&signature=a6379733cef114deefb39e40aa444d0d&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvQW5uaWVfSmFjb2JzZW4&email_id=2fdf6760283d297fde243cb480c166ba):
+Annie Jacobsen (born June 28, 1967) is an American
+[investigative journalist], author, and a 2016[Pulitzer Prize]finalist. She writes for and produces television programs, including[Tom Clancy's Jack Ryan]for[Amazon Studios], and[Clarice]for[CBS]. She was a contributing editor to the[Los Angeles Times Magazine]from 2009 until 2012.Jacobsen writes about war, weapons, security, and secrets. Jacobsen is best known as the author of the 2011 non-fiction book
+[Area 51: An Uncensored History of America's Top Secret Military Base], which[The New York Times]called "cauldron-stirring."[[]She is an internationally acclaimed and sometimes controversial author who, according to one critic, writes sensational books by addressing popular conspiracies.
+I very much liked her book [Nuclear War: A Scenario](http://marginalrevolution.com?action=user_content_redirect&uuid=697d01d980580b3bade81a76e6875745cb82e6133fa18b5e191754da4bf188f1&blog_id=42693868&post_id=90548&user_id=262258391&subs_id=225460721&signature=ce6e971ff068aef43de22d3605c9da92&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9OdWNsZWFyLVdhci1TY2VuYXJpby1Bbm5pZS1KYWNvYnNlbi9kcC8wNTkzNDc2MDkzL3JlZj1zcl8xXzE/Y3JpZD1QNk9LWVk3TUIzTU4mZGliPWV5SjJJam9pTVNKOS5ZQ05yRVlWZFhpSXlKUVdxS3MxbDJTVk9IcVpPLUVNT0ZUbVZpTjVzZUtUWG1BQTFudDA2amRVc29xM3pKMHI3UzRPYUhqRW9aUGtIbkNNcGVCc2std21XQ0dJSlJ2OHBSY1FpMkt3UW5YTUc3OEo4WlQ5RFNPdlVpczFDcngxemdWMWdoWFh0a0lYNWdaYTdZSjRERjlmU1kzT3dmOTc0cGZYSUl5SkVFeHpEbHNYeHdDd3BJbkp2aTlzMk9Zcm5rREtNSUdRNnhJaUJJMnN6TXo4OTlKZ0xYTTNQTmhWanFibE9DcWdKaHpuSzJQLTNZSWhQVE1sOUFZbTVsT3NQTkRGSGZLcWZxZVZkNlpXcW5HR1RCVTZiOG9UQTdnZDhkcFZ3a2VCeEVZay5DZktzRC13UWRsNTBMUUpvUHY2LWdRZktRMjhYZkdJdTdfYnk0LWdhMWs0JmRpYl90YWc9c2Uma2V5d29yZHM9bnVjbGVhcit3YXIrYW5uaWUramFjb2JzZW4mcWlkPTE3NDU5NjM0NzQmc3ByZWZpeD1udWNsZWFyK3dhciUyQ2FwcyUyQzEyMiZzcj04LTE&email_id=2fdf6760283d297fde243cb480c166ba). Do read the Wikipedia entry for a full look at what she has written. So what should I ask her?

@@ -1,0 +1,20 @@
+---
+subject: "Rise in robotic surgeries sees patients stuck in between doctors and insurers standoff"
+from: "The Ken <info@the-ken.com>"
+to: ""
+date: 2023-12-14 02:40:13
+labels: ["CATEGORY_PERSONAL", "INBOX", "The Ken"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_8244464457792971031"]
+---
+Good Morning Ishan,
+Last month, my colleague Abhirami wrote an important story about how health insurance premiums in India are racing ahead—much faster than healthcare costs. Among the many insights she gathered was this – “Procedures such as robotic surgery are now becoming commonplace… Insurers push back [against these costly methods], and hospitals explain why they’re good for patients.”
+Narayanan picked up this intriguing thread, tied up loose ends and weaved an intricate tale on the robotic surgery surge in India’s hospitals and its subsequent conflicts and controversies.
+At the root of these two Cs are another two Cs—the convenience of technology and its high cost relative to conventional procedures. Doctors and patients are actively seeking out the convenience, while insurers seem to be baulking at the cost. The story lays out the dynamic pithily, “Doctors love it, patients want it, and insurers hate it”.
+Private hospital chains are doubling down on robotic surgery procedures. But the numbers could’ve been much higher, they say, had insurers not been spoilsports.
+But are insurers really the penny-pinchers that hospitals make them out to be? No, they protest, throwing the ball back at hospitals’ allegedly profligate and unregulated ways.
+Sandwiched in between is the patient, who often has to settle for conventional procedures or finds just a part of their robotic procedure claim settled, besides a spike in health insurance premiums. Ouch. So much for a supposedly painless procedure.
+What’s happening in the healthcare corridors? Is there a solution, a middle ground? Can convenience come at a reasonable cost? Click the link to find the rich tapestry in today’s tale: [https://the-ken.com/story/rise-in-robotic-surgeries-sees-patients-stuck-in-between-doctors-and-insurers-standoff/](https://the-ken.com/story/rise-in-robotic-surgeries-sees-patients-stuck-in-between-doctors-and-insurers-standoff/?utm_source=daily&utm_medium=email&utm_campaign=daily_newsletter) (10-minute read)
+Regards,
+Anand
+What you just read is the personalised daily introduction to The Ken's story. Written by a different person each day. Often insightful, sometimes witty, and very rarely boring. Someone sent this to you? [Sign up for free](https://the-ken.com/?modal=register&utm_source=footer&utm_medium=email&utm_campaign=morning_email_ind). [Dont like these? You can unsubscribe](https://link.the-ken.com/asm/unsubscribe/?user_id=2349339&data=I_ktBZNZLLFQSrY-rhnS6VKLOwj5ZUGLe5EBGVcWxaFoMDAwdTAwMHfcD3reV1z52Po4T5Xgv4sG9CR4SmYPSQPAZ-hmsdOYQCi60rt-CeqVakbHHoz1bYBl7LduuFIZxoTSY2ExoIgD2_YixkNO49RU9nji3ou47FLf4J3xYq3VfnarOKUoEWioVV4HciqIj6L3U9rCsSdFpRhUzXRi-QFLJXjd-rNL5mqleYD3yIkPBGb8QoBRQbYhOSrXIZBkSqP5h47NVSFArntGXifPo-dn73Ot-Y3clByt07N1TMkCLqxceKpfvOfOtY3-Axk0TpcyvKMgyJSU759TTE-RcFmWPb7xmwUla9VwUVf1TMnCtTthQzanAhr8an8amVdqdIf4SoJBkKw56UNQP9zii8tuN30pe6g0gikLVJRX9foXqnOaOCm-e9UY5DeMy9QtEXDmap6JtMeg7781Qex96TDffAjsgMZc3gdMgsNqcrbx0iPNGShrIt7mbnRvXBNLO5xcS2VDqs7FyLsbrq9d43XPOuQEHzbvUb3naC6wNLzRiVUHpfgDpfwRbwp7Wo8-uIg9k1Jty3Y=) Dont want to hear from us again? [ Unsubscribe from our emails here](https://link.the-ken.com/asm/?user_id=2349339&data=Sq9FUyCFdiIiWbJr2GOzNezK7h3Ez_FC6tFvpvR8vKRoMDAwdTAwMOsuWkZZXdlPM5V1_IZmla5HoUXloHD9ubi2N2UUut9UHKjQKKn3PaydbIzWFjRrVtAHgRG0OMf2CoqW19gbtbwOLctRsz0hWlsJB7cRRXfyKjYlBZi4uxc2XUuP75YW0-C7ejErxdV3AlCfuUPNogrVIgfvLwXTbBlR2IJL8PwQHShfOXIpFi7NcqIJSEq_ookbUcWTzz3dAZGMe0Pch10FD1H9_57yB5bO5zxfAorvPBf1AblJfn3ba_OuzBW3kHGNIsthwLv9M0xBq2fk_Z0ylt0I4UQy_Zx8Vd2sqiqRpBrUr686QRO0AijooOo87EkQokCgkTNhC-1Zs7smICogRnOlyo70kYIjJh6qEaUsSPQmcChefD73LZ_0ozyICNZGtLVuQhnSJtAzvzTFoHmva8-4h35Ut2B3S3y3KnFr0WlYfT6MJKh35o0NszKCUrhXy87SZ65-MzAxbzjAnDiu_prIcpuqq4m2XeZajhxAWHafNGMIPy7r-iTvQyjpSQ==).
+Something wrong? Tell us at [support@the-ken.com](mailto:support@the-ken.com)

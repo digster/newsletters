@@ -1,0 +1,20 @@
+---
+subject: "The Zakir Hussain Remembrance Edition"
+from: "\"Why is this interesting?\" <whyisthisinteresting@substack.com>"
+to: ""
+date: 2024-12-17 14:11:19
+labels: ["CATEGORY_PERSONAL", "INBOX", "WITI"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_5752899537867939131"]
+---
+|
+Colin here. My first time hearing tabla music was listening to Talvin Singh. Singh won the Mercury Prize in 1999 for [O.K.](https://substack.com/redirect/05713960-737c-48ae-a302-411c0aa7f0e9?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)[, an album](https://substack.com/redirect/05713960-737c-48ae-a302-411c0aa7f0e9?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) that mixed breakbeats and the tech-y synths you’d hear in [Fabric](https://substack.com/redirect/6d117af7-094d-409e-9441-9e899594ee7f?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) at the time with classical tabla music and strings from the Madras Philharmonic Orchestra. I quickly went down the tabla wormhole, checking out more of Singh's work during a live performance at [Union Chapel in London](https://substack.com/redirect/93cf6398-4af9-4585-881e-6253a52ebe05?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o), where he played the instrument solo.
+The tabla, for the uninitiated, consists of two hand drums that have been part of Hindustani classical music for centuries. You can alter the pitch with your palm, and fingers play complicated patterns at pace. And for classical tabla music, all roads really lead to Zakir Hussain, who just passed away, at the age of 73.
+Why is this interesting?
+Hussain is a good example of hard-earned mastery in music. He began learning tabla at age three from his father, Alla Rakha, himself a legendary tabla player. The style, based on polyrhythms with complicated math and time signatures, happens at speed. His hands moved with such speed and precision that they almost became a blur.
+Hussain took this traditional form and launched it into entirely new orbits, collaborating with everyone from George Harrison to the Grateful Dead, while never losing touch with the classical foundations that made him a prodigy.
+By doing so, he became one of those rare bridge figures in music – someone who could move seamlessly between worlds, while maintaining credibility in each. Sometimes fusion can seem gimmicky, but Hussain's work always felt organic.
+According to Pitchfork's [remembrance:](https://substack.com/redirect/53af72eb-acfb-431a-a07b-b4f8118da7cf?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+Since his beginnings as a prodigy, Hussain spent his early years collaborating with the greats of Indian music, including Ravi Shankar, Ali Akbar Khan, and Shivkumar Sharma, before forming the Indian jazz fusion band Shakti with jazz guitarist John McLaughlin in 1973. He had been touring since the age of 12, gradually elevating the tabla from accompaniment to a lead instrument, through a "dancing fingers" technique that attracted an international audience—including the likes of George Harrison, Yo-Yo Ma, Van Morrison, and Pharoah Sanders, with whom he would go on to collaborate.
+The superstars he worked with are of course notable, but what’s most interesting about his musical talent to me was that it was basically imprinted onto him at a young age. During a 2023 interview on [CBC's Q with Tom Power](https://substack.com/redirect/35a7c985-15fe-4db4-8974-86bbdf00c6ea?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o), Hussain described how his relationship with tabla and music started when he was only a few days old. He recounted that instead of prayer, his father took him in his arms and sang tabla rhythms to him.
+Over the course of a lifetime, that source code traveled and cross-pollinated in music and culture in powerful ways. May he rest in peace among the echoing polyrhythms. (CJN)
+If you enjoy Why is this interesting?, share it with your friends and earn rewards when they subscribe.

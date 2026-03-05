@@ -1,0 +1,13 @@
+---
+subject: "Thiel and Wolfe on the Antichrist in literature"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2025-10-05 05:08:50
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+Jonathan Swift tried to exorcise Baconian Antichrist-worship from England.
+[Gulliver’s Travels]agreed with New Atlantis on one point: The ancient hunger for knowledge of God had competition from the modern thirst for knowledge of science. In this quarrel between ancients and moderns, Swift sided with the former.Gulliver’s Travels takes us on four voyages to fictional countries bearing scandalous similarities to eighteenth-century England. In his depictions of the Lilliputians, Brobdingnagians, Laputans, and Houyhnhnms, Swift lampoons the Whig party, the Tory party, English law, the city of London, Cartesian dualism, doctors, dancers, and many other people, movements, and institutions besides. Swift’s misanthropy borders on nihilism. But as is the case with all satirists, we learn as much from whom Swift spares as from whom he scorns—and Gulliver’s Travels never criticizes Christianity. Though in 2025 we think of Gulliver’s Travels as a comedy, for Swift’s friend Alexander Pope it was the work of an “Avenging Angel of wrath.” The Anglican clergyman Swift was a comedian in one breath and a fire-and-brimstone preacher in the next.
+Gulliver claims he is a good Christian. We doubt him, as we doubt Bacon’s chaplain. Gulliver’s first name, Lemuel, translates from Hebrew as “devoted to God.” But “Gulliver” sounds like “gullible.” Swift quotes Lucretius on the title page of the 1735 edition: “vulgus abhorret ab his.” In its original context, Lucretius’s quote describes the horrors of a godless cosmos, horrors to which Swift will expose us. The words “splendide mendax” appear below Gulliver’s frontispiece portrait—“nobly untruthful.” In the novel’s final chapter, Gulliver reflects on an earlier promise to “strictly adhere to Truth” and quotes Sinon from Virgil’s
+[Aeneid]. Sinon was the Greek who convinced the Trojans to open their gates to the Trojan horse: one of literature’s great liars.
+Here is [the full article](http://marginalrevolution.com?action=user_content_redirect&uuid=1a48edcc3a77846b0e6ea3d86e146c7910a5f4f765f29a087c93ec7cf442d86f&blog_id=42693868&post_id=91599&user_id=262258391&subs_id=225460721&signature=2d860d03d0cfd868e3846fb43a9590de&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly9maXJzdHRoaW5ncy5jb20vdm95YWdlcy10by10aGUtZW5kLW9mLXRoZS13b3JsZC8&email_id=523b7c8f4a857491ad518229c2405e59), interesting and varied throughout.

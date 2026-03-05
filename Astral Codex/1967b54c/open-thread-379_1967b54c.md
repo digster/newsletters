@@ -1,0 +1,12 @@
+---
+subject: "Open Thread 379"
+from: "Astral Codex Ten <astralcodexten@substack.com>"
+to: ""
+date: 2025-04-28 07:37:10
+labels: ["Astral Codex", "CATEGORY_PERSONAL", "INBOX", "UNREAD"]
+label_ids: ["Label_6409723252142624155", "CATEGORY_PERSONAL", "INBOX", "UNREAD"]
+---
+This is the weekly visible open thread. Post about anything you want, ask random questions, whatever. ACX has an unofficial [subreddit](https://substack.com/redirect/d00447f3-3855-4ee3-8594-ed139d5b8a3a?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o), [Discord](https://substack.com/redirect/d7d71b87-0329-4e8d-ab6b-a0f5faf87aa2?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o), and [bulletin board](https://substack.com/redirect/4ce145a0-e910-4d69-a7cf-f4a9a4dad188?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o), and [in-person meetups around the world](https://substack.com/redirect/6e6f8aaa-2b1c-48d7-a763-9f0f6b2546aa?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o). 95% of content is free, but for the remaining 5% you can subscribe [here](https://substack.com/redirect/798a2d0e-cdce-4f28-84e3-28ef137f49b8?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o). Also:
+1: ACX meetups this week in Istanbul, Copenhagen, Paris, Zurich, Vienna, Rome, Vancouver, Las Vegas, and LA. See [the post](https://substack.com/redirect/074064e4-dae0-421e-bc4e-ba58aee815bf?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) for details.
+2: [GiveDirectly](https://substack.com/redirect/4cb40f65-96c2-4095-97d9-0dfe06ec59f5?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) (a charity that gives money directly to poor people in developing countries) is hiring a "fundraising-focused research senior manager". Remote work, $108K in the US and slightly less in other countries. See [here](https://substack.com/redirect/fd18936c-09ee-4dff-b1cf-dd4e957c768f?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) for details.
+3: New subscribers-only post, [With This Character’s Death, The Thread Of Prophecy Is Severed](https://substack.com/redirect/22cd5046-175c-455d-8fc9-66ccde44a36e?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o), discussing how Pope Francis’ passing obsoletes a 500-year-old apocalyptic prophecy (or not).

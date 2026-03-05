@@ -1,0 +1,10 @@
+---
+subject: "*Violent Saviors*"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2025-11-09 20:29:59
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+That is the new William Easterly book, and the subtitle is [The West's Conquest of the Rest](http://marginalrevolution.com?action=user_content_redirect&uuid=a3229401881fefb3ba63fe6b595d57cd9b7d64ba4c3cbb4cb599c95a780c37e9&blog_id=42693868&post_id=91832&user_id=262258391&subs_id=225460721&signature=d68a80b876e8fbeb7a3bbc123ac6a0f8&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9WaW9sZW50LVNhdmlvcnMtV2VzdHMtQ29ucXVlc3QtUmVzdC9kcC8xNTQxNjc1NzU0L3JlZj1zcl8xXzE/Y3JpZD0yNUs5RjgzTU1NU0JDJmRpYj1leUoySWpvaU1TSjkuVEpIakJuZHNWTTJ3bFRRUklNbV9JbVA5cTg4NkZvbUhDVVRqS0JCRzVkZWt3SmwxNWcwanJzeVE1NTVWVFpabDh4Z19Ha2F1bGxQZjIwU2t1d3hhWnFVWGtWVjhDR2ZEa0dfYXJ1cFlPTVhnamd0dW1iNVExYmRsaFdZREVLMFhFNGVvbTQtQlpfRTQyWWotZ0RPOW9qWUgtamFva1kzT2ZUU1hNUlMtVW1NZEQ5c3JGTm8weDdKY1hDb3kwRm13Lm05WFlJVndfcWNmc3VYcHBPaTM3ZFN5SjJCUVExY1pORWNoNXpKbUxnbGMmZGliX3RhZz1zZSZrZXl3b3Jkcz12aW9sZW50K3NhdmlvcnMmcWlkPTE3NjI3MDE3NTkmc3ByZWZpeD12aW9sZW50K3NhdmlvcnMlMkNhcHMlMkMxMjAmc3I9OC0x&email_id=ab26ff6e8206bca4ea765774d132c69e). I liked this book very much, but found the title and also book jacket and descriptions misleading. I think of this work as a full-throated examination and study of the classical liberal anti-imperialist tradition. We have been needing such a thing for a long time. It is not that I expected Easterly to be poorly informed, but it amazes me how well he knows this material from a historical point of view. A lengthy (and good) discussion of E.D. Morel!
+So recommended, and here's hoping these traditions find some new legs and less crazy adherents.

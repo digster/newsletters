@@ -1,0 +1,43 @@
+---
+subject: "Firstclub wants to be the Costco of quick-commerce"
+from: "The Ken <info@the-ken.com>"
+to: ""
+date: 2025-09-26 01:41:39
+labels: ["CATEGORY_PERSONAL", "INBOX", "The Ken", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_8244464457792971031", "UNREAD"]
+---
+|
+|
+Two By Two
+Fri, 26 Sep 25
+An abridged, narrative version of the latest episode of Two by Two, The Ken’s premium weekly business podcast.
+Good Morning Ishan,
+This week’s edition of Two by Two is an important (and fun!) conversation with Ayyappan R, CEO and founder of Firstclub, a startup that challenges the very foundation of one of India’s most talked-about sectors: quick commerce.
+For years, the narrative has been about a relentless race for speed, the widest selection, and the lowest price. But what if the next frontier isn’t about being faster, but fundamentally better? Rohin and I explore this idea through a deep dive with Ayyappan, a founder taking a decidedly different path.
+Ayyappan is a veteran of the Indian e-commerce landscape. Before founding his new venture, he was the CEO of Cleartrip, SVP at Flipkart—where he ran the crucial smartphone business—and the chief business officer at Myntra. Having spent over a decade at the heart of platforms built for mass-market scale and transactional efficiency, his latest endeavour, Firstclub, represents a compelling pivot towards a different philosophy of retail.
+So, what is Firstclub? In Ayyappan’s own words, it is a “curated, high-quality quick-commerce platform which delivers a select set of very high-quality products for the top 10% Indians across markets.” Firstclub promises delivery in 15 to 30 minutes, but speed is positioned as a feature, not the core identity. The mission is to build a brand that stands for unwavering trust, where a customer can be confident that any product on the platform is the best in its category.
+This presents a hard and interesting problem. The quick-commerce industry has successfully conditioned users to be transactional. Firstclub’s challenge is to re-educate these users, shifting their mindset from a chore-based, “search-and-buy” mission to a more intentional, discovery-led experience. It’s a bet that a growing segment of the Indian population has evolved beyond a “roti, kapda, makaan” (flatbread, clothes, home) mindset, is now seeking a higher quality of life, and is willing to trust a platform to curate that for them.
+Ayyappan explains the need for this shift:
+“Most of the time, whether it’s e-commerce or quick commerce, it has become super transactional, focused either on… I have the largest selection, or I have the cheapest price, or I have the fastest delivery. So we want to break that. We want to build a brand that stands for very high levels of trust. And people can say that, eyes closed, ‘Whatever I pick on Firstclub, this will be the best in its category.’”
+In this conversation, we explored the different lenses through which this new model is viewed, which in many ways captures the market dynamics Firstclub must navigate.
+My first instinct was to categorise it alongside existing premium offline retailers, asking why it wasn’t simply a digital equivalent of what we had seen before.
+Praveen: “I had mentally pegged it as the Foodhall for quick commerce. I mean, mentally I had done that, right? Because I had seen your app, I had seen the kind of products… So, what’s the difference? Like why is it not a Foodhall or a Nature’s Basket equivalent for quick commerce?”
+Rohin, on the other hand, described his initial interaction with the app as one of alienation due to a lack of familiar brands, which is the cornerstone of his transactional quick-commerce usage.
+“Why I didn’t order was because there was no familiarity for me… there are no brands that you recognise… I don’t recognise any of these, right? And since I use quick commerce transactionally, what am I essentially looking for? I’m looking for Akshayakalpa milk, order two cartons… Colgate toothpaste, order X… I’m not discovering… it’s recognised brands and products.”
+Ayyappan pushed back against these established frames of reference. He argued that Firstclub is not merely a “premium” play but a “quality” play, inspired by a completely different retail philosophy. He sees it not as a niche, but as a massive market creation opportunity.
+“If the proposition is good, if the value prop is very sharp, and you believe that there would be a lot more consumers who, when they experience it, come back and say, ‘Hey, you know what, I never expected that this could happen.’ Then it’s a market creation opportunity and it’s going to be pretty massive.”
+The discussion unearthed a playbook for Firstclub that challenges several core assumptions about retail and quick commerce. Here are three of the most interesting takeaways:
+While one might assume a curated platform would model itself after high-end food stores, Ayyappan’s primary inspiration is the American warehouse club, Costco. This is counterintuitive because Costco is known for value, not luxury. Ayyappan explained that Costco’s genius was in offering a superior product at a better price, a model funded by a membership fee that also served to curate its ideal customer base. This is a fundamental departure from the high-margin, premium-product model of stores like Foodhall.
+“Costco came and said, ‘You know what, I’m going to give a 15-rupee product, but I’m going to give it to you at 12 rupees.’ And the reason I’ll be able to give that is because I’m going to make my money only from membership… What they were able to achieve by bringing this membership as a concept was that they were able to select the kind of consumers they wanted to have on the platform.”
+Quick-commerce apps are designed for ruthless efficiency. You search for what you need, tap “add”, and check out. Ayyappan argues that to build a brand around discovery, the user experience must mimic that of fashion retail, where browsing is the primary mode of interaction.
+He draws a parallel to how his former company, Myntra, differentiated itself from the transactional nature of Flipkart and Amazon by creating a discovery-led platform.
+“Until Myntra as a platform came into the country, fundamental e-commerce platforms were search and buy… The reason it existed was because it was able to give you that discovery experience end-to-end, which you don’t get elsewhere… From day one, we were very clear that this platform that we wanted to build had to be a lot more browse-heavy, a lot more discovery-led.”
+“High quality” is an abstract and often overused term in marketing. Every retailer claims it. Ayyappan revealed that Firstclub gives this promise a tangible, non-negotiable definition by focusing on what it excludes. This act of deliberate curation, based on a strict list of banned ingredients, is a powerful way to build trust and give real meaning to the word “quality”.
+“We took a decision that we would not sell any product if it had any of these 200 ingredients which are not supposed to go into your food. Artificial colours, artificial preservatives—class two and class three—and artificial flavours. Why is it supposed to be in your product?… When it comes to food, it made a lot more sense to take this sort of a positioning and say, ‘This is what we talk about when we talk about quality.’”
+Firstclub is a bet on the evolution of the Indian consumer. It’s a thesis that a significant, and growing, portion of the market is moving beyond pure price consciousness towards value consciousness—where “value” is a composite of quality, trust, and health, not just the number on the price tag.
+The venture is predicated on the belief that for this customer, the channel is secondary to the promise. As Ayyappan mentioned multiple times in the conversation, quick commerce is merely the delivery mechanism; it is not the identity. The real differentiator lies in the brand, the curation, and the unwavering commitment to quality.
+“For us, the way we are thinking about quick commerce as a channel is hygiene. It’s not a differentiator. What can we build on top of quick commerce? How do you differentiate yourself?… The reason people have to come to me is not because I provide something in 10 minutes.”
+It’s a fantastic conversation about a contrarian bet, from a founder who has seen it all, and has decided to go against the grain.
+I think you’ll enjoy the conversation. [You can listen to it here](https://the-ken.com/podcasts/two-by-two/firstclub-wants-to-be-the-costco-of-quick-commerce/).
+Regards,
+Praveen Gopal Krishnan

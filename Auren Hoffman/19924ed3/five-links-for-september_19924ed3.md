@@ -1,0 +1,44 @@
+---
+subject: "Five Links for September"
+from: "Auren Hoffman of Five Links <auren@substack.com>"
+to: ""
+date: 2025-09-07 16:03:12
+labels: ["Auren Hoffman", "CATEGORY_PERSONAL", "INBOX", "UNREAD"]
+label_ids: ["Label_4260038268466989707", "CATEGORY_PERSONAL", "INBOX", "UNREAD"]
+---
+|
+Here are five links worth reading…
+[Why Is Moscow So Weird?](https://substack.com/redirect/b461cec1-7a98-4e56-be6e-173c10d5c2af?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) by [Tomas Pueyo](https://open.substack.com/users/5362415-tomas-pueyo?utm_source=mentions)
+Moscow sits in an unlikely spot: Not on a major river, far from seas, and barely within farmable land. Why is it the biggest city in Europe?
+[Everything from 1991 Radio Shack ad I now do with my phone](https://substack.com/redirect/30f36cbd-850e-4533-8210-bd1b896c6460?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) by [Steve Cichon](https://open.substack.com/users/13850367-steve-cichon?utm_source=mentions)
+A 1991 Radio Shack ad featured 15 electronic gadgets totaling $3,055, 13 of which are now standard iPhone functions. (even crazier– this article is 11 years old)
+[Fell in a hole, got out](https://substack.com/redirect/0467c7a5-fd81-4b76-b00f-6334715d3599?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) by Tony Stubblebine
+An unbelievably candid look at how bad things got at Medium (burning $2.6M a month, losing subscribers, $37M in overdue loans, $225M pref stack) and what they did to crawl out of the hole.
+[Dropping Bombs: On Patton, Profanity, and Character](https://substack.com/redirect/12d8c88e-ae76-49b9-a789-76207d71730b?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) by Ronald Roberts
+“You can’t run an army without profanity; and it has to be eloquent profanity. An army without profanity couldn’t fight its way out of a piss-soaked paper bag.”
+Bonus (Listen): [Dwarkesh Patel: AI Timelines, Productivity & Global Stagnation](https://substack.com/redirect/68c286d0-d992-4460-93ff-d9367f179277?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) on [World of DaaS](https://substack.com/redirect/a8c218ed-7f32-41ca-a923-f4627acbae91?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) pod
+A conversation about elite discourse around AI, interviewing the best thinkers, and techniques to learn better.
+[The Finance of Alchemy](https://substack.com/redirect/dc6e9777-ec29-4014-8950-27ddc2072319?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) by [Byrne Hobart](https://open.substack.com/users/9925344-byrne-hobart?utm_source=mentions)
+What happens when you can manufacture something that derives its value from scarcity (and that thing is a major component of the global economy)? A fusion startup claims they can turn mercury into gold as a byproduct of power generation.
+[Reflections on OpenAI](https://substack.com/redirect/6ef67de4-1d26-40a5-9068-df1377fa4b82?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) by [Calvin French-Owen](https://open.substack.com/users/1499643-calvin-french-owen?utm_source=mentions)
+Former Segment co-founder Calvin French-Owen spent a year at OpenAI and describes the “most frighteningly ambitious org” he’s ever seen from an insider’s perspective.
+Bonus (Health): [Should you take creatine?](https://substack.com/redirect/81664275-201d-483b-ba9d-10c61ab8dd52?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) by The Economist
+Diving into one of the few legal performance supplements with solid scientific backing and its potential cognitive benefits.
+Bonus (Unbelievable): [Doodlemania](https://substack.com/redirect/3632d511-21ab-456d-80af-a5f98753fad7?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) by Allie Conti
+The “doodle economy” is estimated to be worth over a billion dollars, with the annual cost of doodle ownership around $3,000 per dog.
+More reading links at [https://twitter.com/AurenReads](https://substack.com/redirect/0d96fdf8-1175-4288-9bba-35fd28808ecf?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+Recommended book of the month:
+[Who Knew](https://substack.com/redirect/45e64bfd-3061-4203-9d18-1c756f95e59d?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) by Barry Diller
+really enjoyed this autobiography of Diller.
+Recommended TV/movies:
+none this month
+[Graph of the Month](https://substack.com/redirect/860e418d-529c-4036-b141-2981463be580?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o):
+Founders: there’s a clause in your term sheet that could silently strip you of your voting rights.
+Even if you own a majority of your company.
+Even if you’re the one who built it.
+And most founders have no idea it’s there.
+Let’s break it down 🧵
+Auren Hoffman is CEO of NQB8, Chairman of SafeGraph, and GP at Flex Capital ($200M VC firm). Engage on [X: @auren](https://substack.com/redirect/ee5eb8f9-3da1-492d-8f3f-b8c3eae5bdc3?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+and please share Five Links with your friends and allies.
+if you hate this, share with your enemies
+Hope you enjoy [Summation by Auren Hoffman](https://substack.com/redirect/2/eyJlIjoiaHR0cHM6Ly9hdXJlbi5zdWJzdGFjay5jb20_dXRtX2NhbXBhaWduPWVtYWlsLWhvbWUmcj04bzU0biIsInAiOjE3MjcyODQyMCwicyI6NjU1MjAsImYiOnRydWUsInUiOjE0NTYzMzE5LCJpYXQiOjE3NTcyNjExNDgsImV4cCI6MjA3MjgzNzE0OCwiaXNzIjoicHViLTAiLCJzdWIiOiJsaW5rLXJlZGlyZWN0In0.9HDS61qmuxDYSjRV-pmufFUuabBpuMEl-YiGHXcJmr8?). Please also follow [@auren](https://substack.com/redirect/ee5eb8f9-3da1-492d-8f3f-b8c3eae5bdc3?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) on X.

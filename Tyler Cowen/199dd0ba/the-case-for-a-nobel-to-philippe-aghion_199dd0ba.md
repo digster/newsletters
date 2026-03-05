@@ -1,0 +1,14 @@
+---
+subject: "The case for a Nobel to Philippe Aghion"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2025-10-13 10:09:09
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+GPT-5 is very good at this, so I posed the question and [here is the answer](http://marginalrevolution.com?action=user_content_redirect&uuid=1be8e55e330b81bcc740b6c375722fc30ddb4bf5a83f4109dc6c29fdcf46887b&blog_id=42693868&post_id=91657&user_id=262258391&subs_id=225460721&signature=aacb6df0adcd786fdf36e489bc3737a9&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly9jaGF0Z3B0LmNvbS9zaGFyZS82OGVjY2UzZC0xMTc4LTgwMTAtOTY5Zi0yZTQzN2MyMmM4ODE&email_id=17969f49e2091a5066843e4e480e45ee). Excerpt:
+Schumpeterian growth, made operational.
+With Peter Howitt, Aghion’s 1992 Econometrica paper formalized growth “through creative destruction”: quality‑improving (vertical) innovations by entrants and incumbents drive productivity while rendering old technologies obsolete. The model delivers dynamic equilibrium, transitional dynamics (including no‑growth traps), and clear normative trade‑offs between innovation rents and competition. The paradigm was consolidated in two field‑defining books, Endogenous Growth Theory (1998) and the graduate‑level text The Economics of Growth (2009), and popularized for policymakers in The Power of Creative Destruction (2021/2023)...Aghion (with Acemoglu and Zilibotti) showed that the right growth institutions depend on how close an economy is to the global frontier: early‑stage economies may need investment‑based strategies; frontier economies require selection, entry, and competition to sustain innovation. With Howitt, he integrated this into a unifying framework for “appropriate growth policy,” organizing the roles of competition, education, macro stabilization, and finance. This perspective reframed convergence and policy sequencing debates...
+“Missing Growth from Creative Destruction” quantified how standard price imputation understates growth when new products replace old ones; their estimates suggest roughly ½ percentage point per year of “missing” US growth in 1983–2013. This reframes productivity‑slowdown diagnostics and national‑accounts practice...
+Beyond specific papers, Aghion has built a field: the textbooks (Endogenous Growth Theory; The Economics of Growth) trained a generation of researchers; the policy synthesis (The Power of Creative Destruction) carried the ideas to cabinets and agencies; and his research group at the Collège de France continues to push on environment, productivity, and mobility. These are classic signs of Nobel‑level influence: a unifying paradigm that reshapes inquiry and policy across domains.
+Right now Aghion is speaking to the committee and telling them that Europe should not be so dependent on tech advances from America and China.

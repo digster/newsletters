@@ -1,0 +1,16 @@
+---
+subject: "Optimal Tariffs with Geopolitical Alignment"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2025-08-15 05:02:15
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+Here is [a new NBER working paper](http://marginalrevolution.com?action=user_content_redirect&uuid=6fa4d7056c4448a1bd8ed82d65ef6cbb9d14021a5424477a9042928da439019e&blog_id=42693868&post_id=91280&user_id=262258391&subs_id=225460721&signature=25b34446568d46d986479e069c7c22ed&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly93d3cubmJlci5vcmcvcGFwZXJzL3czNDEwOCNmcm9tcnNz&email_id=8a3b093ec5652fe2a72247251fcbc14c):
+As geopolitical tensions intensify, great powers often turn to trade policy to influence international alignment. We examine the optimal design of tariffs in a world where large countries care not only about economic welfare but also about the political allegiance of smaller states. We consider both a unipolar setting, where a single hegemon uses preferential trade agreements to attract partners, and a bipolar world, where two great powers compete for influence. In both scenarios, we derive optimal tariffs that balance terms-of-trade considerations with strategic incentives to encourage political alignment. We find that when geopolitical concerns are active, the optimal tariff exceeds the classic Mill-Bickerdike level. In a bipolar world, optimal tariffs reflect both economic and political rivalry, and may be strategic complements or substitutes. A calibration exercise using U.N. voting patterns, an estimate of the cost of buying votes in the U.N., and military spending suggests that geopolitical motives can significantly amplify protectionist pressures and that the emergence of a second great power can contribute to a retreat from globalization.
+The authors are
+"In the interests of realism, we also consider models where the government a) seeks to maximize returns from corrupt side-bargains, b) seeks to maximize public treasury revenue beyond an optimal level, for Leviathan-like reasons, and c) considers behavioral postulates for policymakers who have an ungrounded attachment to protectionist ideas. The results then change as follows..."
+This is after all 2025, and economics is supposed to have a descriptive component. I will make two other points:
+1. The paper's insight about how and why the rise of China may have contributed to the shinking of the pace of globalization is quite valuable, and as far as I know original.
+2. This shows once again how the economics profession produces research at least supposedly defending a degree of protectionism, and how its top (non-libertarian) contributors refuse to acknowledge that. At the same time, those people do not wish to consider public choice arguments of the sort that would overturn those conclusions, because such a public choice perspective would have unwelcome implications across a broader range of issues.
+Let's go the corruption and Leviathan and ideology postulate routes with the analysis, you'll still end up with a good case against Trump. It's just that it will force you to reexamine some of your other priors.

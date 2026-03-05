@@ -1,0 +1,187 @@
+---
+subject: "Observability: the present and future, with Charity Majors"
+from: "The Pragmatic Engineer <pragmaticengineer@substack.com>"
+to: ""
+date: 2025-01-22 17:51:30
+labels: ["CATEGORY_PERSONAL", "INBOX", "The Pragmatic Engineer"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_6413324878686416177"]
+---
+|
+Last time, most of you said you enjoyed having a summary, to read along. For the next few issues I’m including this: a bullet-point summary for reading or skimming, followed by brief takeaways for things that stood out to me the most.
+Available now on [YouTube](https://substack.com/redirect/8bd25388-99b7-4d5e-a62e-17cfcff8386d?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o), [Apple](https://substack.com/redirect/4d7c8883-74fa-4a93-84c3-848085a27899?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) and Spotify. See the episode transcript at the top of this page.
+• [Sonar](https://substack.com/redirect/a6d285ef-fc4e-452d-bc51-295a6047ab18?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) — Trust your developers – verify your AI-generated code.
+• [Vanta](https://substack.com/redirect/ad083755-50c0-4df0-bd5a-fc508b37e218?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) —Automate compliance and simplify security with Vanta.
+—
+In today's episode of The Pragmatic Engineer, I'm joined by Charity Majors, a well-known observability expert – as well as someone with strong and grounded opinions. Charity is the co-author of "[Observability Engineering](https://substack.com/redirect/5fe567a4-ff9a-4cd4-ab21-a8a8e3a1006d?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)" and brings extensive experience as an operations and database engineer and an engineering manager. She is the cofounder and CTO of observability scaleup [Honeycomb](https://substack.com/redirect/9f76a940-8087-415c-9bc4-15a0b0cf4489?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o).
+Our conversation explores the ever-changing world of observability, covering these topics:
+• What is observability? Charity’s take
+• What is “Observability 2.0?”
+• Why Charity is a fan of platform teams
+• Why DevOps is an overloaded term: and probably no longer relevant
+• What is cardinality? And why does it impact the cost of observability so much?
+• How OpenTelemetry solves for vendor lock-in
+• Why Honeycomb wrote its own database
+• Why having good observability should be a prerequisite to adding AI code or using AI agents
+• And more!
+For those of you more interested in reading a summary of the conversation — or skimming over it — see it here. Takeaways follow after the summary.
+Observability is about understanding software, specifically the intersection of code, systems, and users.
+It is not just about errors, bugs and outages; it is also about understanding the impact of code.
+Observability is a tool that is critical for development feedback loops, and is not just an operational tool.
+The goal of good o11y is to help engineers understand their software in the language of the business.
+Engineers should be able to tie their work back to top-level goals, and explain how their work translates to the business.
+Sampling is an important lever, contrary to the idea that every log is sacred.
+‘metrics’ vs ‘Metrics’
+We need to distinguish between metrics (small 'm') as a generic term for telemetry and Metric (capital 'M') as a specific data type, a number with appended tags.
+The Metric data type is limited because it doesn't sort any contextual relationship data.
+The Three Pillars Model
+The three pillars model of observability is this: metrics, logs and traces.
+Many vendors sell products for each of these pillars – as well as for all of them
+The problem with the Three Pillars Model is that every request that enters a system is stored multiple times, in different tools (metrics, logs, traces, profiling, analytics).
+There is little to connect the data points; engineers are left to manually correlate the data.
+The cost of following this model is high: it’s because storing the same data in multiple tools and databases is very high!
+Observability 2.0 moves away from multiple sources of truth to unified storage.
+With unified storage, there are no dead ends: engineers can click on a log, turn it into a trace, visualize it over time, and derive metrics and SLOs from it. They can then see which events are violating SLOs.
+Good observability powers developer feedback loops. It allows engineers to visualize the CI/CD as a trace and see where tests are breaking. The goal is to keep the time between building code and seeing it in production as small as possible.
+Observability is shifting from being an ops tool, focused on errors and downtime to something that supports the entire development cycle.
+Modern engineering practices + good observability is where the real value is.
+Modern engineering practices such as feature flags, progressive deployment, and canary releases, along with observability, give engineers confidence to move quickly and safely.
+Observability acts as a translation layer, enabling engineers to reason about their work and tie it back to top-level business goals.
+The dream goal? To be able to explain and understand our work in the same language as everyone else: how much financial value is this piece of code generating?
+Engineers have to think about what they might need to understand in the future. Like during an incident at 2:00 AM!
+Software is hard. Observability is the first line of defense.
+Tools have historically required engineers to be masters of multiple disciplines, e.g., they had to convert their code into physical resources such as CPU and RAM usage.
+Cost of Observability: why is it so expensive?
+One reason observability is expensive: the multiplier effect. The same data is stored multiple times. One common criticism of The Three Pillars model.
+Cardinality: another thing that can make it a lot more expensive
+Cardinality means to the number of unique items in a set. Unique IDs, such as request IDs, have the highest possible cardinality.
+Big 'M' Metrics tools are designed to handle low-cardinality data (Observability 1.0 tools)
+Adding high cardinality data to metrics tools makes them very expensive.
+These days, world-class observability teams spend the majority of their time governing cardinality!
+The more unique the data, the more valuable it is for debugging but that also means it costs more.
+To solve this, the industry has to move away from tools backed by big 'M' metrics, to those using structured data where high cardinality can be stored.
+The wider the logs (the more context attached to each event), the better the ability to identify outliers and correlate data.
+Is Observability 1.0 getting in the way or building what engineering needs – at a lower cost?
+The model for traditional observability tools does not fit the needs for the data that engineers actually need.
+Metrics were optimized for a world where resources were very expensive, but now that storage and compute is cheaper, it's possible to store more data and slice and dice in realtime.
+A column-based data store is needed to use flexible structured data without having to define indexes and schemas in advance.
+What is OpenTelemetry (OTel)?
+A collection of APIs, SDKs and tools to make telemetry portable and effective.
+It provides a framework for consistent telemetry with consistent naming and semantic conventions, allowing vendors to do more with the data.
+OTel overtook Kubernetes as the number one project in the CNCF.
+The goal of Otel is to allow engineers to instrument code once, and then point the data to whatever vendor is chosen.
+OTel forces vendors to compete on the basis of their excellence and responsiveness.
+Using OpenTelemetry is a safe bet for companies to enable portability of data between vendors.
+It also gives the option of negotiating with vendors, because of the ability to switch!
+Introducing it too late. Engineers feel like they don't need observability until they are in production and things start breaking.
+Using dashboards wrong.
+Engineers can get too attached to dashboards.
+Dashboards, unless they are dynamic and allow you to ask questions, are a poor view into software.
+Not using SLOs and error budgets enough.
+SLOs (Service Level Objectives) should be the entry point, not dashboards.
+SLOs are the APIs for engineering teams.
+SLOs provide a budget for teams to run chaos engineering experiments.
+SLOs are a hedge against micromanagement, because when teams meet their SLOs, the way they spend their time is not important.
+SLOs allow teams to negotiate for reliability work if they are not meeting their obligations.
+SLOs need to be derived from the same data as debugging.
+Why did Honeycomb build their own database?
+At Honeycomb, Charity decided to build their own database despite the common wisdom to never do it. ClickHouse wasn't a thing back then: if it was, perhaps they would have not built it.
+The database, called Retriever, is a column-based store. The query planner runs using Lambda jobs. Data is aged out to S3 after being written to SSDs.
+It’s been a win, looking back now. The data model is custom, and being able to iterate on it has been a force multiplier.
+Observability and AI
+AI intersects with observability in three areas:
+1. When building and training models
+2. When developing with LLM
+3. When dealing with code of unknown origin produced by AI
+Good AI observability can't exist in isolation; it must be embedded in good software observability.
+The inputs for AI models come from different services, data and humans and this creates a trace shaped problem
+Build vs Buy vs Open Source
+The main trend across the industry: consolidation. Companies try to control their bills.
+Most companies use vendors and don't want to deal with observability tools breaking at 2am.
+Metrics still have a place, but most companies need to move from 80% metrics/20% structured data to the reverse.
+Frontend and mobile observability
+Silos are created when different teams use different tools.
+A unified view from mobile/browser to database is powerful.
+Mobile is different because the build pipeline is different, and the inability to fold mobile into software development best practices.
+My biggest takeaways from this episode:
+1. The DevOps movement feels like it’s in its final days, having served its purpose. As Charity put it:
+“It’s no longer considered a good thing to split up a dev team and an ops team to then collaborate, right? Increasingly, there are only engineers who write code and own their code in production. And I think this is really exciting. We can understand why Dev versus Ops evolved, but it was always kind of a crazy idea that half your engineers could build the software and the other half would understand and operate it.”
+Indeed, I cannot name any team at startups or at large tech companies that has a dedicated Ops team. While there surely exist such companies in small pockets – think of more traditional companies operating in highly regulated environments like finance or healthcare – this setup feels like the exception rather than the norm.
+2. Lots of people get dashboards wrong! Charity doesn’t think that static dashboards are helpful to engineering teams at all. In fact, misusing dashboards is one of the most common observability practices she sees:
+“Unless your dashboard is dynamic and allows you to ask questions, I feel like it's a really poor view into your software. You want to be interacting with your data. If all you're doing is looking at static dashboards, I think it limits your ability to really develop a rich mental model of your software. And this means that there are things that you won’t see; because you did not graph it on your dashboard!”
+3. Observability will be especially important for AI use cases in these ways:
+o11y for LLMs: to get data on how they behave and to be able to debug behaviors. This is relevant for teams building and operating AI models.
+o11y for code generated by AI: the generated code should have the right amount of observability in place. Once the code is deployed to production, developers need to be able to get a sense of how the code is behaving there!
+GenAI means that a lot more code will be generated via LLMs – and all this code needs observability!
+• [How Uber Built its Observability Platform](https://substack.com/redirect/50173348-423b-49c3-b75e-32d199393a7d?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+• [Building an Observability Startup](https://substack.com/redirect/99111e66-d030-4e28-8d8b-5cb6830d39e4?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+• [How to debug large distributed systems](https://substack.com/redirect/23140bd4-85bc-4bfe-be08-4a89a9ccda34?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+([00:00](https://substack.com/redirect/854ced0d-f8d3-42b4-bd47-c57cc501463b?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) Intro
+([04:20](https://substack.com/redirect/579a9c8c-6bc3-4e9d-817e-02f15a1eea35?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) Charity’s inspiration for writing Observability Engineering
+([08:20](https://substack.com/redirect/ebb14cbc-da15-4a6a-bbf1-ea3b8d351cad?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) An overview of Scuba at Facebook
+([09:16](https://substack.com/redirect/c7f7acec-3fb4-4c4c-824e-011c9d8eb837?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) A software engineer’s definition of observability
+([13:15](https://substack.com/redirect/d728b409-6b83-4e75-84f1-04b786b647af?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) Observability basics
+([15:10](https://substack.com/redirect/2ed37ff4-e573-4dac-885b-d41457e7d319?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) The three pillars model
+([17:09](https://substack.com/redirect/649ee6f8-485b-4007-9c6b-972973ebda23?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) Observability 2.0 and the shift to unified storage
+([22:50](https://substack.com/redirect/28ec4b10-b9ea-40dc-ab15-94baa3f38400?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) Who owns observability and the advantage of platform teams
+([25:05](https://substack.com/redirect/b33e14c6-07d4-4f9c-9573-ef98dfbe1414?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) Why DevOps is becoming unnecessary
+([27:01](https://substack.com/redirect/d6a9c29a-0fd6-4771-a056-53ba847850a6?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) The difficulty of observability
+([29:01](https://substack.com/redirect/5b9d58c9-2bf2-4351-b5e8-8bfd9f2b5c3e?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) Why observability is so expensive
+([30:49](https://substack.com/redirect/4befdcf6-fbb6-4872-80b9-d9669ea530b8?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) An explanation of cardinality and its impact on cost
+([34:26](https://substack.com/redirect/39d191fd-9416-4d56-a047-1ed37779aaf1?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) How to manage cost with tools that use structured data
+([38:35](https://substack.com/redirect/c24d92c5-bf5a-48de-9f90-ad0e26a6e3ec?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) The common worry of vendor lock-in
+([40:01](https://substack.com/redirect/5fe372c6-9df9-49cf-9829-9a65ce03abb3?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) An explanation of OpenTelemetry
+([43:45](https://substack.com/redirect/c1734999-7a3a-4ab7-9679-e78d8bc57c72?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) What developers get wrong about observability
+([45:40](https://substack.com/redirect/d7ed973c-947b-4fc6-a2d4-76e78b9a44a4?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) A case for using SLOs and how they help you avoid micromanagement
+([48:25](https://substack.com/redirect/57d830e3-afaa-4b3b-8d13-1748cd556acc?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) Why Honeycomb had to write their database
+([51:56](https://substack.com/redirect/f7c0788f-a3ce-45d4-bd13-ea3ab61ac2b0?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) Companies who have thrived despite ignoring conventional wisdom
+([53:35](https://substack.com/redirect/ae384749-496a-43df-aea1-7f401c261e9e?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) Observability and AI
+([59:20](https://substack.com/redirect/1b353639-d4e9-4a9b-9ddd-f6f27cceb332?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) Vendors vs. open source
+([1:00:45](https://substack.com/redirect/a840dc76-fcc2-4716-a020-0a49a9413c20?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) What metrics are good for
+([1:02:31](https://substack.com/redirect/efced64f-ea63-4d2f-b016-952fe1b1c53d?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) RUM (Real User Monitoring)
+([1:03:40](https://substack.com/redirect/5cd49349-7eb7-4743-a965-ab8b8befb8bb?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) The challenges of mobile observability
+([1:05:51](https://substack.com/redirect/6d967455-5763-496e-8b57-a4b8d95845a5?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) When to implement observability at your startup
+([1:07:49](https://substack.com/redirect/56beca77-bcbb-4a90-b94c-b25b6f1a1552?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) Rapid fire round
+Where to find Charity Majors:
+• LinkedIn: [https://www.linkedin.com/in/charity-majors/](https://substack.com/redirect/64031d78-d350-4513-8473-4437a3e58d98?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+• Blog: [https://charity.wtf/](https://substack.com/redirect/a1d0169b-a164-407c-a36e-bd1fab04f59f?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+Mentions during the episode:
+• Honeycomb: [https://www.honeycomb.io/](https://substack.com/redirect/9f76a940-8087-415c-9bc4-15a0b0cf4489?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+• Parse: [https://parseplatform.org/](https://substack.com/redirect/0136223a-6814-4421-aeee-2b32ffc68306?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+• Ruby on Rails: [https://rubyonrails.org/](https://substack.com/redirect/bf02f229-e09a-42ae-8553-9f9a96fd4044?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+• Christine Yen on LinkedIn: [https://www.linkedin.com/in/christineyen/](https://substack.com/redirect/5c544871-acb4-4cbd-97a5-5c3789ae578e?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+• Scuba: Diving into Data at Facebook: [https://research.facebook.com/publications/scuba-diving-into-data-at-facebook/](https://substack.com/redirect/802357e2-5174-4ccf-b8bb-afc867df8482?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+• Three pillars: [https://charity.wtf/tag/three-pillars/](https://substack.com/redirect/71177d85-43fd-4b3d-addb-e52b64891bf7?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+• Unified storage: [https://charity.wtf/tag/unified-storage/](https://substack.com/redirect/945994ba-4278-4cf6-92c8-d8de2884903c?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+• “Every Sperm is Sacred”:
+• Peter Borgan on LinkedIn: [https://www.linkedin.com/in/peterborgan/](https://substack.com/redirect/f19a64cb-9e0c-4dc5-acce-ab03e78bebbb?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+• Datadog: [https://www.datadoghq.com/](https://substack.com/redirect/998ebffb-fb71-4335-adb8-777e5d8ce01e?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+• Vertica: [https://en.wikipedia.org/wiki/Vertica](https://substack.com/redirect/31e6429f-1759-4a48-80a4-4c413f872aa3?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+• Ben Hartshorne on LinkedIn: [https://www.linkedin.com/in/benhartshorne/](https://substack.com/redirect/a70f3545-d8dc-4b5b-a547-1fd96fd09267?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+• Cardinality: [https://en.wikipedia.org/wiki/Cardinality_(data_modeling)](https://substack.com/redirect/0bb13b26-bb10-4d64-b50c-a4c870d7f741?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+• COBOL: [https://en.wikipedia.org/wiki/COBOL](https://substack.com/redirect/4b0f3687-5c2d-410f-86af-5ddf8f310814?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+• Ben Sigelman on LinkedIn: [https://www.linkedin.com/in/bensigelman/](https://substack.com/redirect/11b7b88a-b33b-4ac3-9a66-d47709d0d43a?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+• OpenTelemetry: [https://opentelemetry.io/](https://substack.com/redirect/0fe08923-6659-4065-b6bd-c659e4173f56?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+• Kubernetes: [https://www.cncf.io/projects/kubernetes/](https://substack.com/redirect/8b225769-3f6a-47bb-b45c-733cc1b0ad0d?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+• SLOs: [https://docs.honeycomb.io/notify/alert/slos/](https://substack.com/redirect/741cf46e-0e52-4160-9850-3de14590d248?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+• ClickHouse: [https://clickhouse.com/](https://substack.com/redirect/e87e6f37-c1e3-4d62-bcc5-53b0c8c6fa3c?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+• Why We Built Our Own Distributed Column Store: [https://www.honeycomb.io/resources/why-we-built-our-own-distributed-column-store](https://substack.com/redirect/7ed9449f-45de-4b53-b82e-d9a402ad5ff3?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+• "Why We Built Our Own Distributed Column Store" by Sam Stokes:
+• "How we used serverless to speed up our servers" by Jessica Kerr and Ian Wilkes:
+• Inside Figma’s Engineering Culture: [https://newsletter.pragmaticengineer.com/p/inside-figmas-engineering-culture](https://substack.com/redirect/66f478bd-1c59-4122-98f5-a207de4b2c79?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+• How to debug large, distributed systems: Antithesis: [https://newsletter.pragmaticengineer.com/p/antithesis](https://substack.com/redirect/23140bd4-85bc-4bfe-be08-4a89a9ccda34?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+• Observability in the Age of AI: [https://www.honeycomb.io/blog/observability-age-of-ai](https://substack.com/redirect/8353aa0f-5d66-4d41-ace1-ce4c5a49f103?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+• Grafana: [https://grafana.com/](https://substack.com/redirect/f0fab1cd-6e34-43d8-af7e-72b4333c0dc7?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+• Prometheus: [https://prometheus.io/](https://substack.com/redirect/49179604-4f7d-4b66-ae6c-6af502641f66?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+• What Is Real User Monitoring (RUM)?: [https://www.honeycomb.io/getting-started/real-user-monitoring](https://substack.com/redirect/bf05fd82-ac42-496a-882c-b45c214ccd98?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+• Crashlytics: [https://en.wikipedia.org/wiki/Crashlytics](https://substack.com/redirect/d0e19399-599d-4476-b342-e8cfb45994b5?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+• Square wheels comic: [https://alexewerlof.medium.com/on-reinventing-the-wheel-201148f74642](https://substack.com/redirect/40f62f1d-16b2-4794-9375-6a8691302c88?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+• WhistlePig Whiskey: [https://www.whistlepigwhiskey.com/](https://substack.com/redirect/34ee6e7d-5f10-4265-b9e2-d932f994cc08?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+• George T. Stagg bourbon: [https://www.buffalotracedistillery.com/our-brands/stagg.html](https://substack.com/redirect/a12546be-bbb4-4d6c-8a2e-766be82722e8?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+• Stagg Jr.: [https://newportwinespirits.com/products/stago-jr-ksbw](https://substack.com/redirect/bc6fe4fe-9032-4820-9907-640e41dd39e0?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+• Fluke: Chance, Chaos, and Why Everything We Do Matters: [https://www.amazon.com/Fluke-Chance-Chaos-Everything-Matters/dp/1668006529](https://substack.com/redirect/6044e3fd-cd3e-4e0d-8ee8-7036aab45506?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+—
+Production and marketing by [https://penname.co/](https://substack.com/redirect/0d2dfda2-8ebb-48cd-a557-27f12965ad60?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o). For inquiries about sponsoring the podcast, email podcast@pragmaticengineer.com.
+You’re on the free list for [The Pragmatic Engineer](https://substack.com/redirect/2/eyJlIjoiaHR0cHM6Ly9uZXdzbGV0dGVyLnByYWdtYXRpY2VuZ2luZWVyLmNvbT91dG1fY2FtcGFpZ249ZW1haWwtaG9tZSZyPThvNTRuIiwicCI6MTU1Mjg5NTEzLCJzIjo0NTg3MDksImYiOnRydWUsInUiOjE0NTYzMzE5LCJpYXQiOjE3Mzc1NjgzNDYsImV4cCI6MTc0MDE2MDM0NiwiaXNzIjoicHViLTAiLCJzdWIiOiJsaW5rLXJlZGlyZWN0In0.24CxWZpdB90iUKKze_0gq_CfNbDMAtsvk76saAE2myY?). For the full experience, [become a paying subscriber](https://substack.com/redirect/2/eyJlIjoiaHR0cHM6Ly9uZXdzbGV0dGVyLnByYWdtYXRpY2VuZ2luZWVyLmNvbS9zdWJzY3JpYmU_dXRtX3NvdXJjZT1wb3N0JnV0bV9jYW1wYWlnbj1lbWFpbC1jaGVja291dCZuZXh0PWh0dHBzJTNBJTJGJTJGbmV3c2xldHRlci5wcmFnbWF0aWNlbmdpbmVlci5jb20lMkZwJTJGb2JzZXJ2YWJpbGl0eS10aGUtcHJlc2VudC1hbmQtZnV0dXJlJnI9OG81NG4mdG9rZW49ZXlKMWMyVnlYMmxrSWpveE5EVTJNek14T1N3aWFXRjBJam94TnpNM05UWTRNelEyTENKbGVIQWlPakUzTkRBeE5qQXpORFlzSW1semN5STZJbkIxWWkwME5UZzNNRGtpTENKemRXSWlPaUpqYUdWamEyOTFkQ0o5LmRFb0FMdWhjVHZFSUlxLVBtWklTckNmdWg5eTVpYkx5VFpxLUIyTFg3bWsiLCJwIjoxNTUyODk1MTMsInMiOjQ1ODcwOSwiZiI6dHJ1ZSwidSI6MTQ1NjMzMTksImlhdCI6MTczNzU2ODM0NiwiZXhwIjoxNzQwMTYwMzQ2LCJpc3MiOiJwdWItMCIsInN1YiI6ImxpbmstcmVkaXJlY3QifQ.0WcKF5nbvzNUvihn6iYl-0m1Qyknk35AguNunrTCnqE?). Many readers expense this newsletter within their company’s training/learning/development budget.
+This post is public, so feel free to share and forward it.
+If you enjoyed this post, you might enjoy my book, [The Software Engineer's Guidebook](https://substack.com/redirect/68ecbdf8-fe67-4151-b929-e8c59a816173?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o). Here is what Tanya Reilly, senior principal engineer and author of The Staff Engineer's Path said about it:
+"From performance reviews to P95 latency, from team dynamics to testing, Gergely demystifies all aspects of a software career. This book is well named: it really does feel like the missing guidebook for the whole industry."

@@ -1,0 +1,13 @@
+---
+subject: "Daunt tote bags as status symbols"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2025-07-27 04:15:00
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+Her husband, Jimmy, is carrying the blue tote bag through Victoria Park Village, where three other Daunt totes bags are spotted within a 20-minute window despite there being no store nearby.
+Locality doesn’t matter. “I have a friend with a bookshop in Italy who follows Daunt Books on Instagram so I gave her a spare from my collection. She was so excited,” Marta Timoncini said. At 50, she says she is “too old to make a fashion statement” but simply thinks the design is nice and enjoys the secret pocket to hold her phone. She also said she likes to flaunt her love of her beloved store.
+She is perhaps an outlier. A team member at the Broadway store for Jimmy Fairly said people come in just to buy the tote bag, which is free with every purchase, but costs £20 on its own. The shop is capitalising on the frenzy, selling limited-edition summer and winter versions.
+The tote is another success story of virality: people walk around trendy London hotspots and hawk-eyed trend watchers satirise them in meme pages on social media. “That’s when I knew we had made it. We are cool now, it is viral, that is amazing,” the team member said.
+Here is [more from the Times of London](http://marginalrevolution.com?action=user_content_redirect&uuid=a76200e6b56db072cd2a98307e9cdff6a0c812f886ada6ddd0aff40b0eadfea2&blog_id=42693868&post_id=91164&user_id=262258391&subs_id=225460721&signature=40dc130f16e45a5824ddb38dfc97461b&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly93d3cudGhldGltZXMuY29tL3VrL2xvbmRvbi9hcnRpY2xlL3RyYWRlci1qb2VzLXRvdGUtYmFnLXRyZW5kLWJrYmtkZGZ3cg=&email_id=b2f1c60cfe545d41d241ced6c6e6f57d), also covering Trader Joe's tote bags as a status symbol. I now own about twenty-five of these bags? Via [Rebecca Lowe](http://marginalrevolution.com?action=user_content_redirect&uuid=f712305f56a93c2fe5c5ed366efddd073b8f931040eabcbd710a0b4256c5087c&blog_id=42693868&post_id=91164&user_id=262258391&subs_id=225460721&signature=7199aa9069be544aaf05a2623e2b3cb9&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly90aGVlbmRzZG9udGp1c3RpZnl0aGVtZWFucy5zdWJzdGFjay5jb20v&email_id=b2f1c60cfe545d41d241ced6c6e6f57d).

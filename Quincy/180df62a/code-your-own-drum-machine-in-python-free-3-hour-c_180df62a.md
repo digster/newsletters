@@ -1,0 +1,32 @@
+---
+subject: "Code your own drum machine in Python [free 3-hour course for beginners]"
+from: "Quincy Larson <quincy@freecodecamp.org>"
+to: ""
+date: 2022-05-20 02:53:43
+labels: ["CATEGORY_PERSONAL", "INBOX", "Quincy"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_7697778124671848699"]
+---
+Here are this week's five links that are worth your time:
+
+1. Learn Python by coding your own playable drum machine. This course will teach you Object Oriented Programming basics, the popular Pygame library, and how to use audio files to generate sound. Your users will even be able to save the beats they create. (3 hour YouTube course): https://www.freecodecamp.org/news/create-a-drum-machine-with-python-and-pygame/
+
+2. This SQL course will teach you how to improve your database performance. It focuses on SQL Server, but much of it is applicable to Postgres and other SQL flavors. You'll learn how to build indexes, and how to identify bottlenecks using powerful diagnostic tools. (4 hour YouTube course): https://www.freecodecamp.org/news/how-to-improve-sql-server-performance/
+
+3. Learn all about data structures: hash tables, stacks, graphs, linked lists, and more. This in-depth JavaScript tutorial will explain core concepts, including Big O Notation. You can code along at home, and implement these data structures yourself. It's a great way to add these to your developer skill toolbox. (40 minute read): https://www.freecodecamp.org/news/data-structures-in-javascript-with-examples/
+
+4. If you're just getting started with learning to code, you may be wondering whether you can get some sort of IT job in the meantime. This guide will walk you through some of the semi-technical fields you can work in while you continue the long process of becoming a full-blown software developer. (12 minute read): https://www.freecodecamp.org/news/entry-level-tech-job-guide/
+
+5. Over the years, I have maintained that any sufficiently motivated person can learn to code. This said, not everyone enjoys the process of writing software. If you're wondering whether software development is the right career for you, this guide from an experienced freelance developer may give you some helpful insight. (30 minute read): https://www.freecodecamp.org/news/should-i-be-a-developer-programmer/
+
+I love sharing these links with you each week. It feels awesome to highlight some of the tutorials created by teachers in the global freeCodeCamp community. If you're finding these helpful, I encourage you to support our nonprofit and our mission directly: https://www.freecodecamp.org/donate
+
+Quote of the Week: “The Oberheim DMX [drum machine], released in 1981, featured separate voice boards for each sound, where the tuning would alter sample playback rate. Over the years, many people attributed a particular kind of ‘groove’ to the DMX. After much investigation, I discovered that this is just a by-product of the original factory bass drum sound containing a small amount of silence at the very start of the sample. This delay imparts a very ‘lazy’, dragging feel on any beat using the bass drum – and the lower the pitch the greater the drag.” — A fun fact from the music production-focused Attack Magazine
+
+Happy coding.
+
+- Quincy Larson
+
+Teacher at https://www.freecodecamp.org
+I share useful things on Twitter at https://www.twitter.com/ossia
+
+If these emails aren't worth your time, you can turn them off: https://www.freecodecamp.org/ue/eZV2T3gHC7IGcwcpYPG64

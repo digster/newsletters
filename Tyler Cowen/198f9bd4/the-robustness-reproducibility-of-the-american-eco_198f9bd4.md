@@ -1,0 +1,11 @@
+---
+subject: "The robustness reproducibility of the American Economic Review"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2025-08-30 06:49:46
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+We estimate the robustness reproducibility of key results from 17 non-experimental AER papers published in 2013 (8 papers) and 2022/23 (9 papers). We then subject each robustness report to two independent, expert reviews. Including robustness tests rated as equally or more valid than the original analyses by expert reviewers, the fraction of significant robustness tests (p<0.05) varies between 0% and 93% across papers with a mean of 51%. The mean relative t/z-value of our robustness tests varies between 11% and 152% with a mean of 70%. Surveyed economists overestimate robustness but are able to predict which papers are most robust.
+That is from [a new paper](http://marginalrevolution.com?action=user_content_redirect&uuid=c3f8d06065ebde26f9c668b4fd53d21e30fde6c9e26e7e0a5f88bdd0b1c97062&blog_id=42693868&post_id=91399&user_id=262258391&subs_id=225460721&signature=c59aaedeaa1ced657ab13d28808305eb&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xZjFsUmdLRTkzSzAwdHlLSUI3blJHZVRFZ1JTQ0Q3TnAvdmlldw=&email_id=339e803c9e32cf56a8fb4d3fbed76051) by Douglas Campbell, Abel Brodeur, Anna Dreber, Magnus Johannesson, Joseph Kopecky, Lester
+Lusher, and Nikita Tsoy. Here is [very useful Twitter coverage from Douglas Campbell](http://marginalrevolution.com?action=user_content_redirect&uuid=28ab8bf05909571531ea5ece483af51cfd2289cbf18a29785db3d52d227ec749&blog_id=42693868&post_id=91399&user_id=262258391&subs_id=225460721&signature=968432622bcc8eadcfbfc7cd4829e6f1&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly94LmNvbS9UcmFkZWFuZE1vbmV5L3N0YXR1cy8xOTYxMzM1MzE2OTM1MDQ5Mjk3&email_id=339e803c9e32cf56a8fb4d3fbed76051).

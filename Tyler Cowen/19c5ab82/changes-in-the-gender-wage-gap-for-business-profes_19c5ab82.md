@@ -1,0 +1,10 @@
+---
+subject: "Changes in the Gender Wage Gap for Business Professionals"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2026-02-14 05:55:43
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+In the United States, much of the gap in earnings between men and women is due to the persistent gap for high wage earners. This paper explores changes in the gender wage gap for MBAs graduating from a large public university over 30 years. We document large gender wage gaps on average, which grow in the course of men’s and women’s careers. Comparing graduates at identical career stages across time periods to address composition concerns, we show that the raw gender wage gap has shrunk by 33 to 50 percent over the last two decades. Additionally, the temporal pattern of the gap has fundamentally shifted: while gaps only emerged over time in earlier decades, significant gaps now emerge immediately. Convergence in labor supply factors, particularly hours worked, explains much of the narrowing gap, alongside shifts in industry composition. However, unexplained wage gaps persist for recent graduates from the very start of their careers, suggesting different underlying mechanisms across cohorts. These findings highlight both progress in gender wage equity among business professionals and concerning patterns that emerge earlier in careers than in previous decades.
+That is from [a recent NBER working paper](https://marginalrevolution.com?action=user_content_redirect&uuid=319c397a1c2826bf51cbc3ec12a5bae9d8e8d0fc02c21909b11518bfabeecdba&blog_id=42693868&post_id=92407&user_id=262258391&subs_id=225460721&signature=fc88058f745726567c3155ae1e745b9a&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly93d3cubmJlci5vcmcvcGFwZXJzL3czNDgwOQ=&email_id=f9bf099a70d550503d8a7cc8c5e8ad5f) by

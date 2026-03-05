@@ -1,0 +1,9 @@
+---
+subject: "Politics and Culture"
+from: "Robin Hanson from Overcoming Bias <overcomingbias@substack.com>"
+to: ""
+date: 2025-05-16 01:11:51
+labels: ["CATEGORY_PERSONAL", "INBOX", "Overcoming Bias", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_8616244883382228708", "UNREAD"]
+---
+Though I got my PhD in formal political theory and spent the last year studying culture, I didn’t until a few days ago notice the big connections between politics and culture. For example, cultural elites seem to strongly crave political influence, while politicians crave cultural endorsements. An even bigger connection is that we seem to use political changes as coordination points for making oversized changes to culture. Even if an election was only won by a few percent, many take this not only as a mandate for the new policy changes, they also take it as proving a big cultural “vibe change”. And in fact, voters may care more about this cultural effect than about who actually runs the government. This could help explain why people like democracy so much, even though it doesn’t seem to give better policy outcomes. And why they care about the positions of politicians re issues on which those politicians don’t have much influence. This could also explain why people seem to be so disinterested in polices that don’t connect much to current cultural debates, like changes to key institutions. In conversations we have a norm that individuals should talk to the current topic, and topic changes should be organic, not obviously initiated by anyone. If politics is just another forum for cultural conversations, maybe we don’t want politicians introducing new issues not previously sanctioned by the recent cultural conversation. You're currently a free subscriber to |

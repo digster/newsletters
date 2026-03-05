@@ -1,0 +1,10 @@
+---
+subject: "Why don’t American companies hire more in Canada?"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2026-02-20 05:35:47
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+In the specific sector I work in (previously law and now tech), I am surprised by how few US companies hire in Canada. The Canadians I know in these fields are typically on par with the Americans, but doing the same work at half the price. This superficially looks like an economic puzzle: with no timezone difference, language barrier, or cultural friction, why would American companies not hire the much cheaper Canadians? I believe the answer brings together everything I’ve touched on in this essay. The reason is legibility. There aren’t enough Canadians with resumes that American hiring algorithms recognize. If an American tech company uses “Previously worked at a company like Amazon” as a filter, a software engineer from RBC, despite being equally talented, does not pass the filter. If Canada wanted to see more of its citizens hired by US companies, the strategy shouldn’t be better education or training. It should be subsidizing large US companies to open offices in Canada, purely to brand candidates as “Amazon Product Managers.” Because once they have the badge, the market will finally see them.
+Here is [more from Daniel Frank](https://marginalrevolution.com?action=user_content_redirect&uuid=64d2f87bf98d5bd8de3e6cf5897d3b6d368763ad5a1914187d64963c52e27149&blog_id=42693868&post_id=92454&user_id=262258391&subs_id=225460721&signature=d01c3b8b26806be653e22522a36e9da9&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly9ub3Rub3R0YWxtdWQuc3Vic3RhY2suY29tL3AvdGhlLWxvdHRlcnktb2YtY2FyZWVyLXN1Y2Nlc3Mtb3I/cj0xZm4ycCZ1dG1fbWVkaXVtPWlvcyZ0cmllZFJlZGlyZWN0PXRydWU&email_id=25d15d869c92c1e6caab683b7a003c77), note the post covers some quite different issues, all related to talent. Via Watt.

@@ -1,0 +1,21 @@
+---
+subject: "Real-money games made MPL a unicorn. Now it needs millions for a new identity"
+from: "The Ken <info@the-ken.com>"
+to: ""
+date: 2023-12-21 02:39:07
+labels: ["CATEGORY_PERSONAL", "INBOX", "The Ken"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_8244464457792971031"]
+---
+Good Morning Ishan,
+I’m not much of a gamer, but I’ve been fascinated by the money involved in it, especially since most of the funds come from the real-money gaming space.
+This segment is what turned MPL, which raised nearly $400 million in funding and was last valued at $2.2 billion, into a gaming giant. Its 200 million users place bets as they play mobile versions of mass-market games such as poker, rummy, ludo, and carrom.
+But that is quickly changing thanks to the government levying heavy taxes on firms in this sector. And now, ironically, MPL is betting big on games that will take it away from real-money gaming.
+At the same time, the Bengaluru-headquartered company is looking to tap into the mid-core and hardcore segment, the fastest-growing slice of India’s $3 billion gaming market.
+To do so, it’s ploughing almost $40 million—its own funds, along with the money it raised from Peak XV Partners (formerly Sequoia Capital India & SEA)—to build a blockbuster mobile game that competes with the likes of PUBG, Fortnite, and other popular battle royale titles.
+Gaurav’s sharp story today takes you into what MPL has done so far with all that money and what it has to show for it: [https://the-ken.com/story/real-money-games-made-mpl-a-unicorn-now-it-needs-millions-for-a-new-identity/](https://the-ken.com/story/real-money-games-made-mpl-a-unicorn-now-it-needs-millions-for-a-new-identity/?utm_source=daily&utm_medium=email&utm_campaign=daily_newsletter) (12-minute read)
+Regards,
+Arundhati
+[arundhati@the-ken.com](mailto:arundhati@the-ken.com)
+P.S.: The Ken is conducting a [survey](https://theken.typeform.com/editorial2023) on what employees and employers want from each other in the new year. 2023 has been hard for both, and this survey’s intent is to gauge the top issues on employees’ and employers’ minds. The findings, we hope, can serve as a guide for both as we head into 2024. This survey is anonymous, so please do spare a few minutes to [take it](https://theken.typeform.com/editorial2023). We’ll publish the results on 1 January, 2024. Stay tuned!
+What you just read is the personalised daily introduction to The Ken's story. Written by a different person each day. Often insightful, sometimes witty, and very rarely boring. Someone sent this to you? [Sign up for free](https://the-ken.com/?modal=register&utm_source=footer&utm_medium=email&utm_campaign=morning_email_ind). [Dont like these? You can unsubscribe](https://link.the-ken.com/asm/unsubscribe/?user_id=2349339&data=5p-TZywCLq_l-LkzFztmqUDxgabzvsZi_SohvvKu-tpoMDAwdTAwMGul__-MerOm6Lrn12HAAYOt-LoQKBEC7KsnXiR6TEftuc1vjdMk-t_2d5-m8Dx-s054Dsw4FXgqHBcHkqrACnxWB_lhsbUlfuey4V7X26Kh4rF9s5aMQvYqUOn9bBjG_2Qh70d3sfqxKUrW_WjB_1WyMcJ4XLCOCIoRAgKHlE2TPTSN63ZZD8XnTycvKTKdykLZWpsPpnnLvxhANPYcMQ-RjLUwLAtRD8dAy_HIFdSgkWpV_E_2HFYqU3la4HtG4fXQnr7rd9vJt1Dv_wQz1nrbzdIMU3sFb7PTKcPtp76rlG9Rd5OGmZbzp_d2HmFaHlKiX_sGPA15ZzJ5mMa-0HTaIQlxaoW6CmCM8i7AH9_lZK9FDUL2hyJAxeTpKsG3aZCjKvR1TEqgf2Ii4sLJSfsVoWFBDgioBGAAclaTnjHOqLVMP0gGwgQ3mYwxrr0J3vP6H9q1yuZwjhDJL__0glLXpJnGM370pgseP_VlbK_rVufYuwfDGTrZaT1xqwGR8P5fGSqn1DlT7p5YuwruGIs=) Dont want to hear from us again? [ Unsubscribe from our emails here](https://link.the-ken.com/asm/?user_id=2349339&data=2NWgRJlhqIgEuwEK1cNgfC2JXDr5E9yLT6qTdEPk9ZloMDAwdTAwMEvCQh2bxkvYpjcB9lccVFaEioWKt7SN4Xs_9oAlMmPU2L2OxXisbcAdzAybjl5xTLvXreAsLL9vTs9tgXJpzX9eTYUE6xDvCrAIheFzH9jDsgGPdGq1XHexd_iRCnskYVlpPIb7jQwSTXe6ZSTTCK0EjY-n-Ikm87F7dKDNgD3bPWcSdvQJiFq3M8xShyjSUdN7SjKrmMvgcAe3ITjZ6nVp1RCc5vpt5kn9_5xHFJghpfD4qaoD5e2tn3vssByImEXaf7aYy3cua8OCtSL-FrSnSt3_tUiYTqr7WG_5wQWBeCs7K9LftiHDVhU2mO4ZananOTvpJJis0m79WopfjljNKsCSYqLjSn7ZAbD_wtIj5uTD8YcNhFC5gdOdKuBlSoo6u0SFSJYS1qfydkGYfCOnHmxWUNizlSToYFWbKGcgDwwBwBDH54TQ8aEhdw8DxOFKzocOzyWYJrUtYdsK2HqtCAcKx33Gox1HgZsAOyYuEJw1dsf3SsA_57X__Zsfvg==).
+Something wrong? Tell us at [support@the-ken.com](mailto:support@the-ken.com)

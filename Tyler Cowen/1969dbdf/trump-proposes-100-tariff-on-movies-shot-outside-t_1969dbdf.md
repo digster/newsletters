@@ -1,0 +1,12 @@
+---
+subject: "Trump proposes 100% tariff on movies shot outside the United States"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2025-05-04 23:59:52
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+Here is [one link](http://marginalrevolution.com?action=user_content_redirect&uuid=0c3ff3d54907a289101e2bd25e05141db08511a8d31fc77d3955d617e0833f5c&blog_id=42693868&post_id=90589&user_id=262258391&subs_id=225460721&signature=ef1829b1b7fc13c1a2b31b43119ed917&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly94LmNvbS9EcmV3U2F2L3N0YXR1cy8xOTE5MTcxMzQzNzc5NTk0NjA5&email_id=a48fa4f7e2c7e3b4431857787089499a). Of course the proposal is not easy to understand. If it is a Jason Bourne movie, do they add up the number of scenes shot abroad and consider those as a percentage of the entire movie? Does one scene shot abroad invoke the entire tariff? [o3 guesstimates](http://marginalrevolution.com?action=user_content_redirect&uuid=b20a2d9bc8b3a2449154bea541b03d0e633773db9f5c072252c5e275f86f258a&blog_id=42693868&post_id=90589&user_id=262258391&subs_id=225460721&signature=d21e292536ae3660d246c11570e681aa&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly9jaGF0Z3B0LmNvbS9zaGFyZS82ODE3ZmNhZS0yYmVjLTgwMTAtOWI1YS05N2YzNDNlZWFjMTY&email_id=a48fa4f7e2c7e3b4431857787089499a) that about half of major Hollywood releases are shot abroad to a significant degree, with many more having particular scenes shot abroad.
+Imagine the new Amazon release: "James Bond in Seattle." And it actually would be Seattle -- do they have baccarat there?
+Furthermore, virtually all foreign films are shot abroad rather than in the U.S. The incidence in this case is interesting. Assuming the movie would have been made anyway, most of the tax burden falls on the producer, not the American consumer, because the marginal cost of sending the extra units of the film to America is low. Nonetheless lower American revenue will force those films onto lower budgets. Possibly Canadian and also English movies will suffer the most, because they are most likely to have the U.S. as their dominant market.
+Of course the U.S: is by far the world's number one exporter of movies, so we are vulnerable to retaliation on this issue, to say the least.

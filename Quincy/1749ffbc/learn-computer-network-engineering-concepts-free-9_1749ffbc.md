@@ -1,0 +1,35 @@
+---
+subject: "Learn Computer Network Engineering Concepts [free 9-hour course]"
+from: "Quincy Larson <quincy@freecodecamp.org>"
+to: ""
+date: 2020-09-18 06:51:53
+labels: ["CATEGORY_PERSONAL", "INBOX", "Quincy"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_7697778124671848699"]
+---
+Here are this week's five links that are worth your time:
+
+1. Learn key computer network engineering concepts from an industry veteran. This free course is also a great primer for network and security certifications like the CompTIA and the CCNA. (9 hour video course): https://www.freecodecamp.org/news/free-computer-networking-course/
+
+2. freeCodeCamp just published the next university math course in our series on Math for Programmers. This Calculus 2 course is taught by University of North Carolina-Chapel Hill professor Dr. Linda Green. (7 hour video course): https://www.freecodecamp.org/news/learn-calculus-2-in-this-free-7-hour-course/
+
+3. If you are new to Python, here's how to write your first Python app right on your computer, and run it from your computer's command line. (5 minute read): https://www.freecodecamp.org/news/hello-world-programming-tutorial-for-python/
+
+4. If you are more advanced with Python, here's how to build your own Neural Network using PyTorch. This tutorial will show you how to use a powerful Python library to do some basic Machine Learning. (15 minute read): https://www.freecodecamp.org/news/how-to-build-a-neural-network-with-pytorch/
+
+5. What is Data Analytics? This plain-English tutorial will give you a 30,000-foot view of the field and introduce you to several key Data Analysis concepts. (12 minute read): https://www.freecodecamp.org/news/a-30-000-foot-introduction-to-data-analytics-and-its-foundational-components/
+
+
+Quote of the Week: “Data is not information. Information is not knowledge. Knowledge is not understanding. Understanding is not wisdom.” – Gary Schubert & Cliff Stoll
+
+
+I hope you are finding these weekly links to be worth your time. Thanks again to the 6,421 people who support our nonprofit and our mission each month. If you want to join these kind-hearted supporters, you can donate here: https://www.freecodecamp.org/donate
+
+
+Happy coding.
+
+- Quincy Larson
+
+Teacher at https://www.freecodecamp.org
+I share useful things on Twitter at https://www.twitter.com/ossia
+
+If these emails aren't worth your time, you can turn them off: https://www.freecodecamp.org/ue/eZV2T3gHC7IGcwcpYPG64

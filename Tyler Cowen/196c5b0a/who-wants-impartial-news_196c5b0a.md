@@ -1,0 +1,11 @@
+---
+subject: "Who wants impartial news?"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2025-05-12 18:10:10
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+The subtitle of [the piece](http://marginalrevolution.com?action=user_content_redirect&uuid=5c3d3a0183e1f9a56914886379a499029d87f8fa298185a9fab6b1994b79c8c9&blog_id=42693868&post_id=90627&user_id=262258391&subs_id=225460721&signature=23309608e098336c309458417afe9922&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly9pam9jLm9yZy9pbmRleC5waHAvaWpvYy9hcnRpY2xlL3ZpZXcvMjM4MTY&email_id=1789e0d4c70da96605014740ac3e08f5) is Investigating Determinants of Preferences for Impartiality in 40 Countries, and the authors are Camila Mont'Alverne, Amy Ross A. Arguedas, Sumitra Badrinathan, Benjamin Toff, Richard Fletcher, and Rasmus Kleis Nielsen. Here is part of the abstract:
+This article draws on survey data across 40 markets to investigate the factors shaping audience preferences for impartial news. Although most express a preference for impartial news, there are several overlapping groups of people who, probably for different reasons, are more likely to prefer news that shares their point of view: (a) the ideological and politically engaged; (b) young people, especially those who rely mainly on social media for news; (c) women; and (d) less socioeconomically advantaged groups. We find systematic patterns across countries in preferences for alternatives to impartial news with greater support in places where people use more different sources of news and that are ranked lower in terms of quality of their democracies.
+Via [Glenn Mercer](http://marginalrevolution.com?action=user_content_redirect&uuid=c6caddd4e8d55ddb3267f52fbb777764309eaefde525950758384251cd95c472&blog_id=42693868&post_id=90627&user_id=262258391&subs_id=225460721&signature=acaf9aec25aaf3262d87d3b42258f14a&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly9nbGVubm1lcmNlci5zdWJzdGFjay5jb20v&email_id=1789e0d4c70da96605014740ac3e08f5).

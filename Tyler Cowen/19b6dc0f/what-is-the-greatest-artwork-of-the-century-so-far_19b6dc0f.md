@@ -1,0 +1,26 @@
+---
+subject: "What is the greatest artwork of the century so far?"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2025-12-30 05:35:21
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+That question is taken from [a recent Spectator poll](http://marginalrevolution.com?action=user_content_redirect&uuid=0748d50c2b70431951ca13182abef438a9c952a7255d20bfa225093598e0f631&blog_id=42693868&post_id=92096&user_id=262258391&subs_id=225460721&signature=f1b25dbbdbefa468e547ef0dfd72bd36&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly9zcGVjdGF0b3IuY29tL2FydGljbGUvYS1zcGVjdGF0b3ItcG9sbC13aGF0LWlzLXRoZS1ncmVhdGVzdC1hcnR3b3JrLW9mLXRoZS1jZW50dXJ5LXNvLWZhci8&email_id=48a98aad4e87a6f38296b090389f0341). Their experts offer varied answers, so I thought at the near quarter-century mark I would put together my own list, relying mostly on a seat of the pants perspective rather than comprehensiveness. Here goes:
+Cinema
+Uncle Boonmee, Ceylan's Winter Sleep, Y Tu Mama Tambien, Four Months Three Weeks Two Days, from Iran A Separation, Oldboy, Silent Light (Reygadas), The Three Burials of Melquiades Estrada, Apocalypto, and New World would be a few of my picks. Incendies anyone?
+Classical music (a bad term these days, but you know what I mean):
+Georg Friedrich Haas, 11,000 Strings, Golijov's Passion, John Adams Transmigration of Souls, The Dharma at Big Sur, Caroline Shaw, and Stockhausen's Licht operas perhaps. Typically such works need to be seen live, as streaming is no substitute. As for recordings, recorded versions of almost every classic work are better than before, opera being excluded from that generalization. So the highest realizations of most classical music compositions have come in the last quarter century.
+Fiction
+Ferrante, the first two volumes of Knausgaard, Submission, Philip Pullman, and The Three-Body Problem. The Marquez memoir and his kidnapping book, both better than his magic realism. The Savage Detectives. Philip Pullman. Sonia and Sunny maybe?
+Visual Arts
+Bill Viola's video art, Twombly's Lepanto series, Cai Guo-Qiang and Chinese contemporary art more generally (noting it now seems to be in decline), the large Jennifer Bartlett installation that was in MOMA, Robert Gober. Late Hockney and Richter works. The best of Kara Walker. The second floor of MOMA and so much of what has been shown there.
+Jazz
+There is so much here, as perhaps the last twenty-five years have been a new peak for jazz, even as it fades in general popularity. One could mention Craig Taborn, Chris Potter, and Marcus Gilmore, but there are dozens of top tier creators. Cecile McLorin Salvant on the vocal side. Is she really worse than Ella Fitzgerald? I don't think so.
+Popular music (also a bad term)
+The best of Wilco, Kanye, D'angelo, The Bang on a Can version of Brian Eno's Music for Airports. How about Sonn O)))? No slight intended to those listed, but I had been hoping this category would turn out a bit stronger?
+Television
+The Sopranos, the first two seasons of Battlestar Galactica, Srugim, Borgen, and Curb Your Enthusiasm.
+Assorted
+Hamilton, and there is plenty more in theater I have not seen. At the very least one can cite Stoppard's Coast of Utopia and Leopoldstadt. There is games and gaming. People around the world, overall, look much better than ever before. The Museum of Islamic Art in Doha and the reoopened Great Egyptian Museum in Cairo. The new wing at MOMA. Architecture might need a post of its own, but I'll start by citing [the works of Peter Zumthor](http://marginalrevolution.com?action=user_content_redirect&uuid=4aab6c2f42fd0e330f67b1f738ec5efb5b279b7b052dbc9c8593988773530218&blog_id=42693868&post_id=92096&user_id=262258391&subs_id=225460721&signature=5d99b61223f0b670b237b7a7b4a974ef&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly9jaGF0Z3B0LmNvbS9zaGFyZS82OTQ5YTcwMi00NDU4LTgwMTAtYjI4ZS02ZmM2Njc2OTQ5OTg&email_id=48a98aad4e87a6f38296b090389f0341). (Here is [one broader list](http://marginalrevolution.com?action=user_content_redirect&uuid=9fa252161b1737ddd075a39969dd461544b5052490333568235ea2f81611a5d4&blog_id=42693868&post_id=92096&user_id=262258391&subs_id=225460721&signature=934d29d354f5da7dbe7c28e6cf209fa9&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly9idWlsZGluZ29wdGltaXNtLnN1YnN0YWNrLmNvbS9wL3RoZS1iZXN0LW5ldy1idWlsZGluZ3MtaW4tdGhlLXdvcmxkP3V0bV9zb3VyY2U9cG9zdC1lbWFpbC10aXRsZSZwdWJsaWNhdGlvbl9pZD00MjgxOTYmcG9zdF9pZD0xNzQ4NDI1NjAmdXRtX2NhbXBhaWduPWVtYWlsLXBvc3QtdGl0bGUmaXNGcmVlbWFpbD1mYWxzZSZyPTExZCZ0cmllZFJlZGlyZWN0PXRydWUmdXRtX21lZGl1bT1lbWFpbA=&email_id=48a98aad4e87a6f38296b090389f0341), it strikes me as too derivative in style, in any case it is hard to get around and see all these creations, same problem as with judging theatre.) I do not follow poetry much, but Louise Glück and Seamus Heaney are two picks, both with many works in the new century. The top LLMs, starting (but not ending) with GPT-4. They are indeed things of beauty.
+Overall, this list seems pretty amazing to me. We are hardly a culture in decline.

@@ -1,0 +1,13 @@
+---
+subject: "Google gets a rap on the knuckles in India"
+from: "The Ken <info@the-ken.com>"
+to: ""
+date: 2018-02-12 02:35:24
+labels: ["CATEGORY_PERSONAL", "INBOX", "The Ken", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_8244464457792971031", "UNREAD"]
+---
+Good Morning Ishan,
+Hope we are doing excellently this Monday morning. Get some coffee to make it more awesome. Time is of the essence so let’s get straight to today’s story by my colleagues Venkat and Shashidhar.
+So, this happened last week. On Thursday, India’s anti-trust regulator, the Competition Commission of India, issued an order which found Google to have abused its dominant position in “online general web search” and the “web search advertising business in India”. The regulator has imposed a penalty of Rs 135.8 crore ($21 million) which Google has to deposit within 60 days. My colleagues say Google is going to contest this claim. Anyhow, who’s right and wrong here is for the regulator and courts to decide. But if this thing about Google getting a rap on its knuckles sounds strangely familiar to you, then it is. A while back, Google paid a record €2.4 billion fine in Europe for manipulating search results to favour its own shopping price comparison service.
+It will be fair to say that anti-trust regulators across the world are slowly coming around to regulating internet companies. And while CCI might have taken six years to come up with this order, this is a development that has first of many, written all over it. My colleagues’ piece today is about making sense of this development and a bit of forecasting on where things will head. You can read the piece here: [https://the-ken.com/story/](http://link.the-ken.com/wf/click?upn=HQSq6eeRV1xAVaGuFOahuNCZVVXPeP-2FJpSqxhvIUDrmMk7oj8QrjsWPCF3x7viCYDD3YhK4v3wFnnAZjHo6a2iX5hPIm6X92-2B8NM5T0ZEGeGl38vhbxgav9xkvrMF57r13oos4RKQRJS7MOkMOzyZQzoleuKeCTwK-2BJSMKfosnL0Q6gPRdmFzn9s2DubMmgPes3zUwIvDLFHHcbrzcyo2-2BsTopURKU9Z-2BlKKsm0kkxdyzq7mhWSkp29xm775r74w_S4jLOsNx-2Fv6Jev2nvow8b7P9pBCWGd8KNZfb200gkZLQNlXQHio0noZzXtsWoloZmPWeyZsh7a4QCV9ufwCUKi00jlBT0uEdvwYDMuVuqcN2uYtJz5Q99vndL-2FcuxdaFhZykTmtJjPVX19xcl-2Bwvue3c-2FUwOurKI3HNyfVq-2Ff03-2Fh4ZCZK-2FIymSC1OCV0krzOLFIMev1TSeQQNeeMJlMrRHrjbNfOSnf4khRgIPWzKBPowF7QaYeMMQbhYB-2F6F-2B8rpkb5foDfyX6-2BM5reqSG-2FJEmVm8o-2BLkij90AcAysWaH2BrsNA8Lt8iFs6g86f2cWdLUF0IWrSskzfnX0S5QSeRBcql0Jui0wDOFpAdC9sAVCRQNQ3awNMY9OjE5rPhgbTRPqB7eJs8FDt6-2FBem7eYoaPSlZfWrem9CLaLvfsPMo-3D) google-cci/
+This email was sent by: The Ken

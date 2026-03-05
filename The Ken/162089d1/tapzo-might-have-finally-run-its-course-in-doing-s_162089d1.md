@@ -1,0 +1,16 @@
+---
+subject: "Tapzo might have finally run its course. In doing so, it brings us several takeaways"
+from: "The Ken <info@the-ken.com>"
+to: ""
+date: 2018-03-09 02:35:32
+labels: ["CATEGORY_PERSONAL", "INBOX", "The Ken", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_8244464457792971031", "UNREAD"]
+---
+Good Morning Ishan,
+Beautiful Friday morning. Phew! I’m glad it is finally here.
+Okay, so today’s story is an important one. Let me explain. I’ve been a journalist for more than a decade now, and among the many things I’ve learned, the one thing that has stuck is so many of my Editors saying, guys, why are we not doing follow-ups? In most of the newsrooms I’ve worked, the absence of follow-ups of stories done by the same publication, even the same reporter, has been a mystery. So, when my colleagues Sumanth and Patanjali suggested that we follow up on our earlier story on Tapzo, it all came back to me. Yes, we should do this.
+When my colleagues started researching, they found that Tapzo is in dire straits. Like the moment of reckoning has come and gone. Tapzo’s basic premise is that mobile users in India need not download multiple apps for cabs, food-ordering and other services. Instead, Tapzo provides access to all these services within a single app. Multiple rounds of funding by Sequoia and other investors plus multiple pivots later, this whole premise of a business model has been demolished.
+There are many points our story makes. But take just this one. As mobile phones get cheaper and more powerful, the problem of saving storage space is a progressively shrinking pain-point. The users to whom such things still matter significantly are more likely to be those with lower purchasing power and therefore less likely to spend money on things like hailing cabs or ordering food home. Therefore, Tapzo’s target user base is a “disappearing demographic”. It is unlikely that you can solve for that by launching wallets and subscription plans and all the other fads that the tech industry latches on to. No.
+You can read the piece here: [https://the-ken.com/story/](http://link.the-ken.com/wf/click?upn=HQSq6eeRV1xAVaGuFOahuNCZVVXPeP-2FJpSqxhvIUDrl9DdpOjlh2-2BYry1IsNnzZFz9LvOWTyY74rnhIHbIwOqEIHDyzuGx6SIoXmVsdR8Izwt5F2cRKx9qxRRVreRtaEqhMRthFTinA25r4Bw4fgqxpnaw6BihiJ-2Bip0roqSeF68nHQEGUwC2ZWjqooO4dCnRO5TKT5eiF30UAsVe6CfCy2f7F-2F8kjwyhGTggsQprPdT0wX-2BcsDTT4usT-2Bgoxx-2BF_S4jLOsNx-2Fv6Jev2nvow8b7P9pBCWGd8KNZfb200gkZLQNlXQHio0noZzXtsWoloZmPWeyZsh7a4QCV9ufwCUKi00jlBT0uEdvwYDMuVuqcOf1lDK4zIOiYd6oBsbLedZuQuWAKGf-2FL1VBLqIvJXa4qa0evJLzlll3rIfSEf97KMXUBg4xkClEwrsNgQfxqvP4bgiZ8ZipqLvq9ugq0Wgx69TW2wacPZQPXZhBDMXp2fRQ8a8-2FP-2FL3m2cIY-2Fv41d4IsnpmlGZRGqmte4r5jpJZpYSBOFX5VQ2OoHvpFXzdCbdPs8MkV-2BL0-2BKsfFSaYMKf4AxH2psD2J-2BTqNUBoPcBvuj0iJk3qxCBfVugUeII5knRZZ-2BSYS2vKq4yGHKtelh2EdFji9h40oAHWNw8GQ-2Fgh-2BkwpTxnkrBrixRhmjSXekA-3D) tapzo-devoured-itself/
+Enjoy your Friday. Drop a line if you think Tapzo could have done something differently. Also, drop a line if you’ve done multiple pivots well. I think, there’s a good story there.
+This email was sent by: The Ken

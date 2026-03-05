@@ -1,0 +1,13 @@
+---
+subject: "Dan Wang 2025 letter"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2026-01-01 15:46:57
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+Self-recommending, here is [the link](http://marginalrevolution.com?action=user_content_redirect&uuid=9144ef3980ccf878823c5f1b276bcba35f048146bbb6153b2b78aff672ee6cca&blog_id=42693868&post_id=92155&user_id=262258391&subs_id=225460721&signature=6d94e28293ae73eb05f33806933a93f1&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly9kYW53YW5nLmNvLzIwMjUtbGV0dGVyLw=&email_id=de7a794447fc05ac379dc1711aeb5b02), here is one excerpt:
+People like to make fun of San Francisco for not drinking; well, that works pretty well for me. I enjoy board games and appreciate that it’s easier to find other players. I like SF house parties, where people take off their shoes at the entrance and enter a space in which speech can be heard over music, which feels so much more civilized than descending into a loud bar in New York. It’s easy to fall into a nerdy conversation almost immediately with someone young and earnest. The Bay Area has converged on Asian-American modes of socializing (though it lacks the emphasis on food). I find it charming that a San Francisco home that is poorly furnished and strewn with pizza boxes could be owned by a billionaire who can’t get around to setting up a bed for his mattress.
+And:
+One of the things I like about the finance industry is that it might be better at encouraging diverse opinions. Portfolio managers want to be right on average, but everyone is wrong three times a day before breakfast. So they relentlessly seek new information sources; consensus is rare, since there are always contrarians betting against the rest of the market. Tech cares less for dissent. Its movements are more herdlike, in which companies and startups chase one big technology at a time. Startups don’t need dissent; they want workers who can grind until the network effects kick in. VCs don’t like dissent, showing again and again that many have thin skins. That contributes to a culture I think of as Silicon Valley’s soft Leninism. When political winds shift, most people fall in line, most prominently this year as many tech voices embraced the right.
+Interesting throughout, plus Dan writes about the most memorable books he read in 2025.

@@ -1,0 +1,10 @@
+---
+subject: "Rethinking regulatory fragmentation"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2025-03-26 07:15:56
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+Regulatory fragmentation occurs when multiple federal agencies oversee a single issue. Using the full text of the Federal Register, the government's official daily publication, we provide the first systematic evidence on the extent and costs of regulatory fragmentation. Fragmentation increases the firm's costs while lowering its productivity, profitability, and growth. Moreover, it deters entry into an industry and increases the propensity of small firms to exit. These effects arise from redundancy and, more prominently, from inconsistencies between government agencies. Our results uncover a new source of regulatory burden, and we show that agency costs among regulators contribute to this burden.
+That is from a new paper by Joseph Kalmenovitz, Michelle Lowry, and Ekaterina Volkova, [forthcoming in Journal of Finance](http://marginalrevolution.com?action=user_content_redirect&uuid=dff96c4f193ddae2bdae60bb196625d184f2b90b9df7f895f0fc34f1abb9192a&blog_id=42693868&post_id=90317&user_id=262258391&subs_id=225460721&signature=6775ed243d0595c15aa037933c3bc66c&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly9vbmxpbmVsaWJyYXJ5LndpbGV5LmNvbS9kb2kvZnVsbC8xMC4xMTExL2pvZmkuMTM0MjM&email_id=a6e03e71a69cb3a259d0a3a22d6bcaa8). Via the excellent [Kevin Lewis.](http://marginalrevolution.com?action=user_content_redirect&uuid=a43aa3b82fd7f560e6bd19c2c5712348aa1c7df2a1afc165531277639b422db3&blog_id=42693868&post_id=90317&user_id=262258391&subs_id=225460721&signature=f1ea288203bda2ae4deb950abc8b6f11&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly93d3cubmF0aW9uYWxhZmZhaXJzLmNvbS9ibG9nL2RldGFpbC9maW5kaW5ncy1hLWRhaWx5LXJvdW5kdXAvbG9va2luZy1mb3ItZ3JlZW4&email_id=a6e03e71a69cb3a259d0a3a22d6bcaa8)

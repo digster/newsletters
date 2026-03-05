@@ -1,0 +1,47 @@
+---
+subject: "Ka-Ching!: Suryoday’s 22-year Double Joy Deposit isn't really much joy"
+from: "The Ken <info@the-ken.com>"
+to: ""
+date: 2024-12-05 01:32:14
+labels: ["CATEGORY_PERSONAL", "INBOX", "The Ken", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_8244464457792971031", "UNREAD"]
+---
+|
+|
+Ka-Ching!
+Thu, 05 Dec 24
+A weekly newsletter about how finance is getting supercharged by tech in India, and how you can make money work for you..
+Good Morning Ishan,
+Yesterday, in Long and Short, The Ken’s weekly newsletter on India’s capital markets, my colleague Seetharaman [spoke](https://the-ken.com/long_and_short/sbis-desperation-and-the-making-of-a-crisis-for-indian-banks/?utm_source=daily_story&utm_medium=email&utm_campaign=daily_newsletter) about State Bank of India’s desperation for deposits and the making of a crisis for Indian banks. “No one knows how, or if, they can stop depositors fleeing for the stock market,” he wrote.
+Well, India’s largest bank is not the only one desperate for deposits. From the big to the small, most banks in the country are now hunting for the once-abundant, now-elusive, humble bank deposit.
+And desperate times call for desperate—or if you prefer, out-of-the-box—measures. No less than finance minister Nirmala Sitharaman has [exhorted](https://www.business-standard.com/finance/news/fm-sitharaman-meets-heads-of-psbs-exhorts-banks-to-improve-deposit-growth-124081900677_1.html) banks to introduce innovative deposit products.
+So… say hello to a bank deposit that runs for 22 years.
+Yes, you read that right. Twenty-two years—more than two decades. “As on date, no bank offers such a long-term deposit product to our knowledge,” the bank that launched it says in its FAQs. Never mind Keynes’ profundity that in the long-run, we are all dead. Until then at least, everyone needs money.
+Beyond “innovative” and “unique”, FAQs for the product also flaunt a magic word that makes many grown-ups go weak in the knees—“double”.
+Suryoday Small Finance Bank’s Double Joy Deposit has a simple yet powerful pitch—“Invest for 11 years. Get double for the next 11 years”. In fact, it’s quite apparent that Suryoday is trying to put a smile on every potential customer’s face, right from those seeking a post-retirement income to those looking to provide for their children’s education.
+Here’s its sales pitch: “Nothing beats the joy of securing guaranteed double returns at the start of your investment journey! With Double Joy Deposit, invest with peace of mind and double your happiness.”
+“Guaranteed”, “double”, “joy”, “happiness”—checks all the happy boxes.
+But does it really?
+Should depositors jump at the chance to “double” their money? Should other banks follow suit?
+Let’s take a look.
+Here’s how Suryoday’s Double Joy Deposit works. You invest an amount, say Rs 1,000 (US$12), every month for 11 years. That’s Rs 1.32 lakh in total. (Rs 1,000 is the minimum amount you can deposit each month; the maximum is Rs 1 lakh.)
+And then, from the start of the 12th year till the end of the 22nd year—the redemption period—you get back double your monthly investment each month. So, in this example, you will be able to withdraw Rs 2,000 each month from the 133rd month to the 264th month. In total, you get back Rs 2.64 lakh.
+Money doubled? Yes.
+Rate of interest 100%? Not by a long shot.
+The rate of interest earned by a customer over the 22 years of the Double Joy Deposit is a much more sobering 6.36% per annum. To its credit, and unlike many that [paint](https://the-ken.com/kaching/fintech-word-games-around-yield-are-just-another-kind-of-dark-pattern/) a rosy picture of the yields they offer, Suryoday Small Finance Bank discloses the correct rate of interest in its FAQs.
+Now, this is much lower than what most banks currently offer on their long-term deposits. Many banks give between 6.5% and 8.25% for five-year deposits. Why, Suryoday Bank itself is at the top of this range. On its 10-year fixed deposit, too, it offers a much better 7.25%. Ditto on its 10-year recurring deposit.
+The Double Joy Deposit is essentially a recurring deposit, with one key difference. Recurring deposits generally pay back the investment amount and the interest in one shot at the end of the contributory period. The Double Joy Deposit spreads out the pay off over 11 years after the end of the contributory period.
+So, why should anyone put money in a bank deposit that gives a much lower interest rate than other products in the market?
+One possible answer is that the interest rate is ‘fixed’ for the entire 22-year period, and reinvestment risk is done away with. Basically, the argument is that interest rates can fluctuate, and so after five or 10 years, you may not be able to get 8.25%, 7.25%, or even 6.5%. By that measure, locking in 6.36% for a full 22 years makes sense, or so goes the argument.
+There’s a problem here, though. Who’s to say with certainty that interest rates will only head south? There’s no crystal ball to gaze into.
+But the human capacity for foolishness, and to keep inflation and hence interest rates on the boil, should never be underestimated, despite the prognosis of the pundits based on history. After all, the past can be a poor indicator of the future—from wars to tariffs to mercurial heads of powerful states, high interest rates have many resilient friends. It’s a fool’s errand to guess the direction of long-term interest rates, I think.
+Besides, the interest earned on the Double Joy Deposit is taxable, like other deposits. So, depending on your tax slab, you will be left with post-tax returns of just about 4.5% to 5.7%.
+And aside from competing bank deposits, there are other safer long-term fixed-income instruments that give better rates with higher tax efficiency. Such as the 15-year Public Provident Fund (PPF), which currently gives 7.1% with no tax liability to boot. The corpus in the PPF (Rs 1.5 lakh can be deployed each year) is also fully guaranteed by the government, unlike bank deposits which are only covered by insurance up to Rs 5 lakh per bank per account. For salaried folk willing to put up with procedural hassles, there is also the Employees’ Provident Fund and Voluntary Provident Fund ([VPF](https://the-ken.com/kaching/the-middle-class-looks-forward-to-its-tax-free-vpf-limit-hike/)), which returned 8.25% last year and is tax-free up to Rs 2.5 lakh a year.
+Many non-banks with high credit ratings also currently give between 7% to 8.5% interest for five-year deposits, though these are taxable. Equity is not the only competition to bank deposits, even if it has become the most formidable in the past few years.
+To be fair, Suryoday Small Finance Bank’s Double Joy Deposit does push the envelope on innovation in the staid word of bank deposits—even though its sales pitch is over the top and could lead to mis-selling and mis-buying. The innovation is not nearly enough however. Real innovation would be offering interest rates that are competitive even in the long-run and post-tax returns that makes customers go wow.
+But for that, the finance ministry has to do some heavy lifting too; it calls the shots on tax, after all.
+Innovation also needs a helping hand.
+That’s a wrap for this week. Write to kaching@the-ken.com with your thoughts and feedback.
+Regards,
+Anand Kalyanaraman
+Got a tip? If you have a lead for a great story that The Ken can pursue, please send it to tips@the-ken.com or share it through this [form](https://theken.typeform.com/got-a-tip). To find out more about how to do this securely, read our [blog post](https://the-ken.com/blog/help-the-ken-tell-the-next-big-story/) about sharing tips with The Ken.

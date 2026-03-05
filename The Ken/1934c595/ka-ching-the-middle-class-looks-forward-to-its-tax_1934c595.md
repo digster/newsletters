@@ -1,0 +1,47 @@
+---
+subject: "Ka-Ching!: The middle class looks forward to its tax-free VPF limit hike"
+from: "The Ken <info@the-ken.com>"
+to: ""
+date: 2024-11-21 01:32:21
+labels: ["CATEGORY_PERSONAL", "INBOX", "The Ken", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_8244464457792971031", "UNREAD"]
+---
+|
+|
+Ka-Ching!
+Thu, 21 Nov 24
+A weekly newsletter about how finance is getting supercharged by tech in India, and how you can make money work for you..
+Good Morning Ishan,
+The great Indian middle class is in the spotlight. From [corporate](https://www.newindianexpress.com/business/2024/Nov/02/who-shrank-indias-middle-class) honchos to [media](https://www.thequint.com/opinion/indias-middle-class-has-shrunk-by-a-quarter-heres-proof) pundits, many are now openly talking about the “shrinking” of this crucial cohort that drives a chunk of the consumption in the country. To a plea on X seeking relief for the middle class, finance minister Nirmala Sitharaman [responded](https://www.livemint.com/economy/your-input-is-valuable-nirmala-sitharaman-responds-to-middle-class-relief-plea-on-x-11731842433116.html), “I recognise and appreciate your concern… Your input is valuable.” There was also a cute, viral [reel](https://food.ndtv.com/news/viral-middle-class-man-fulfills-his-dream-of-having-tea-at-taj-hotel-mumbai-internet-applauds-7063272#pfrom=home-ndtv_lateststories) yesterday of a “middle-class” young man treating himself to high-tea at the iconic five-star Taj Mahal Palace Hotel in Mumbai.
+I want to draw your attention, though, to a [report](https://economictimes.indiatimes.com/news/economy/policy/more-savings-in-the-offing-vpf-limit-for-tax-free-interest-may-be-hiked/articleshow/114518734.cms?from=mdr) from a couple of weeks ago—one that could mean a lot for the cohort in question.
+To encourage the lower-middle and middle income salaried class to save more via EPFO and enable them to build a reasonable retirement kitty, the VPF limit for tax-free interest may be hiked.
+The Ministry of Labour and Employment is examining the issue and is likely to take it up with the finance ministry during FY26 budget discussions, people aware of the matter said.
+More savings in the offing: VPF limit for tax-free interest may be hiked, The Economic Times
+Now, the middle class is under pressure due to inflation, which has been on a simmer for a long time now. Budget 2025 is less than two-and-a-half months away. And the finance minister has said that the government listens and attends to people’s voices.
+Connect the dots, and the Voluntary Provident Fund (VPF) limit hike might just arrive in Budget 2025. That would be really nice. But only if…
+Wait, I am running ahead of myself.
+First, some (quite some) context.
+The EPFO, short for Employees Provident Fund Organisation, is the government-controlled behemoth that manages the retirement corpus of 70 million-odd members, some Rs 20 lakh crore (US$237 billion) in total. It is among India’s largest fund managers. Every month, millions of employees contribute 12% of their Basic Salary and Dearness Allowance (DA) to their EPF account. The employers put in a similar sum.
+Then, there’s the Voluntary Provident Fund, or VPF.
+As I had [written](https://the-ken.com/kaching/why-vpf-remains-a-cut-above-the-rest/) in Ka-Ching! two years ago, this lesser known of the provident fund siblings enjoys the same benefits as the EPF. It’s as safe as it gets with an implicit government guarantee, enjoys the same high rates (a cool 8.25% last year), and to top it all, comes with high tax efficiency.
+So, just like the EPF, VPF too gets a tax deduction of up to Rs 1.5 lakh (in the old tax regime), the interest is not taxable (up to a limit—a crucial detail), and the amount on maturity is exempt from tax. That makes the post-tax returns on the EPF and the VPF much better than other fixed income investments such as bank deposits, which makes them a great way to build a nest egg. The VPF accumulates in the same account as the EPF, and is the same in… well… almost all regards. But the operative word here is ‘almost’.
+The first big difference is that unlike the EPF, to which both the employee and employer contribute, the VPF is funded only by the employee—it is voluntary, after all. The employer makes no contribution to the VPF.
+The next key difference is the extent to which an employee can contribute. While in the EPF, both the employer and the employee can contribute a maximum of 12% of the Basic and DA, an employee can invest far more in the VPF—up to 100% of their Basic and DA.
+But, and there’s always a but, the government delivered a googly in Budget 2021 that left many employees, including from the middle class, reeling. From the year that ended March 2022, if an employee put more than Rs 2.5 lakh a year into their EPF account (including in the VPF), the interest on the excess contribution above Rs 2.5 lakh became taxable.
+Why did the finance ministry do this? Because it found that many really high-earning employees were parking away huge sums in the VPF (in the crores of rupees in some cases) to get safe, high returns. That too, tax-free. Fair move, if you ask me, to curb the misuse.
+But in the process, the government threw the baby (the middle class) out with the bathwater (the rich). The tax-free limit of Rs 2.5 lakh for employee contribution to the EPF (including the VPF) is considered too low by a lot of people, including many in the middle class.
+For perspective, an employee with an annual Basic + DA of about Rs 21 lakh would contribute Rs 2.5 lakh a year to the EPF itself, given the mandated 12% contribution, leaving no room to contribute to the VPF tax-free.
+Does someone earning Rs 21 lakh annually in Basic & DA qualify as middle-class or rich? That’s certainly debatable in a country like India, where the per capita income is just about [US$2,700](https://www.business-standard.com/economy/news/india-s-per-capita-to-income-to-increase-by-2-000-over-5-years-sitharaman-124100400311_1.html) (around Rs 2.27 lakh). So the Rs 2.5 lakh threshold was high enough, went the justification by the ministry.
+But many now think that with rising cost of living, the threshold for tax-free contributions to the VPF needs to be much higher for the middle class to be able to build a comfortable [retirement](https://the-ken.com/story/you-can-retire-at-40-and-thats-a-lie/) corpus.
+That’s exactly what the government seems to be mulling now too, if the reports are to go by.
+By how much will the threshold be increased? Hard to say. The thinking is welcome, nevertheless.
+What’s not welcome, though, is the still-continuing [mighty mess](https://the-ken.com/story/your-provident-fund-claim-is-rejected-but-its-not-your-fault/) in the information technology (IT) system of the EPFO, and the host of [shoddy practices](https://the-ken.com/story/the-epfo-black-box-masking-shoddy-practices-with-high-returns/) in the organisation which millions depend on for their retirement. The Ken has highlighted both these problems in detail earlier. Many people, tired and frustrated with the EPFO’s woes and its high claim rejections, want to shun it for other alternatives like the National Pension System [(NPS)](https://the-ken.com/story/youve-never-said-no-to-your-provident-fund-its-time-you-did/). And I can’t really blame them.
+In June this year, the Ministry of Electronics also [blamed](https://the-ken.com/kaching/whos-to-blame-for-epfos-rejection-mess-the-ministry-of-electronics-blames-epfo/) delays on the part of EPFO for its IT systems mess, highlighting that the system was on the verge of obsolescence and needed a revamp.
+Exactly three months ago, on 21 August, newly appointed labour minister Mansukh Mandaviya said that EPFO would [migrate](https://www.business-standard.com/economy/news/epfo-to-get-new-it-system-soon-says-labour-minister-mansukh-mandaviya-124082100934_1.html) to a new IT platform within three months. That window ends today. Sadly, according to sources at the EPFO who do not want to be named, there has been little change in the existing systems, let alone any migration to a new one. The EPFO did not respond to questions sent by The Ken.
+The Central Board of Trustees (CBT) of the EPFO—the apex decision-making body of the retirement manager—is [meeting](https://www.businesstoday.in/personal-finance/story/central-board-of-trustees-of-epfo-to-meet-on-november-23-453299-2024-11-11) on 23 November, and among the items on its agenda, reportedly, is a review of the progress on IT modernisation. The labour minister is the Chairman of the CBT. Will he ask the tough questions and get things going?
+Without a robust system that delivers the goods seamlessly, both the feel-good and real benefits of a possible hike in the tax-free VPF limit will stand badly diluted.
+A good product necessarily needs good service delivery.
+That’s a wrap for this week. Write to [kaching@the-ken.com](mailto:kaching@the-ken.com) with your thoughts and feedback.
+Regards,
+Anand Kalyanaraman
+Got a tip? If you have a lead for a great story that The Ken can pursue, please send it to tips@the-ken.com or share it through this [form](https://theken.typeform.com/got-a-tip). To find out more about how to do this securely, read our [blog post](https://the-ken.com/blog/help-the-ken-tell-the-next-big-story/) about sharing tips with The Ken.

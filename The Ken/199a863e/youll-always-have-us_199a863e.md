@@ -1,0 +1,98 @@
+---
+subject: "“You’ll always have us”"
+from: "The Ken <info@the-ken.com>"
+to: ""
+date: 2025-10-03 04:45:44
+labels: ["CATEGORY_PERSONAL", "INBOX", "The Ken", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_8244464457792971031", "UNREAD"]
+---
+Good Morning Ishan,
+Exactly nine years ago, on 3 October 2016, a bunch of us tentatively threw open the curtains on a hastily assembled website called “The Ken”. It ran on free and open-source software, and customised an off-the-shelf theme that cost a few dozen dollars. The payment-gateway integration was new and untested. Things were slow. There were bugs.
+And yet, everything held together.
+Since the only way to be sure what we’d built would hold was to, well, purchase it—that’s what we did. I bought a subscription. So did Seema Singh, my co-founder. As did Iqbal Ansari, our first full-stack developer.
+We became the first subscribers of The Ken on that day. And stayed that way since.
+Not just us, but everyone at The Ken—staff writers, full-stack developers, desk editors, marketers, product managers, podcast hosts, or audio engineers—is a paid subscriber, too.
+As we step into our tenth year today, that is our promise to you. We will always be paid subscribers.
+We will open our apps or browsers each day to check what The Ken has published, just like you. We will listen to The Ken’s podcasts during our commutes, chores, and runs, just like you. We will read stories and leave comments, just like you. We will buy tickets and attend live events, just like you. We will skip some of the stuff, because it doesn’t appeal to us, just like you. We will feel occasionally overwhelmed by the sheer amount of journalism that we put out, just like you. We will get frustrated at little bugs and niggling errors, just like you. We will suggest new product features or story tips, just like you.
+And we will tell our friends and colleagues about The Ken, hopefully like many of you.
+2026, our tenth year, is going to be the boldest and most ambitious yet. Our existing offerings will become sharper, besides rolling out a slew of new projects and products that are in the works. A sizeable number of really sharp and creative colleagues will join us, many in roles that haven’t existed before.
+To paraphrase Lenin, “There are years where decades happen.” 2026 is that year for us.
+You’ll be glad every time we publish or launch something new that you were curious about, or perhaps you didn’t even realise you were curious about. We’ll ensure you stay ahead, stay sharp, and stay cool.
+Thank you for being (or having been, or considering being) a subscriber.
+We aren’t big fans of FOMO. But as a subscriber, I can virtually guarantee you something else from The Ken in 2026—the Joy of Getting It.
+— Rohin Dharmakumar
+And here’s my co-founder, The Ken’s Editor, and subscriber, Seema Singh.
+I find it hard to imagine what it was like for the global publishing giants of today when they started out 100–150 years ago. I am sure it wasn’t easy in their first decade, but did they have the pandemic, piracy, and AI to contend with? Or the rewiring of the global social, political, and economic order to comprehend, all at once?
+When we [started](https://the-ken.com/blog/the-ken-raises-1-5m-in-its-series-a-round/) The Ken nine years ago, we [said](https://the-ken.com/blog/the-ken-at-one/) we simply want to make sense of the world around us; and go beyond news. Purveyors of news at the time were largely partisan or woolly. Today, there’s AI slop to make it all worse. But we see this as a great opportunity to continue doing the boring job of deep reporting to get as close to the truth as possible. We just have to keep our ear to the ground. In some lines of work, ambient fogginess is your friend.
+As I often tell my younger colleagues, AI is not coming for a reporter or a good designer or a podcaster’s job anytime soon.
+You, Ishan, have been a patient fellow traveller in this journey. Thank you. I hope you’ll continue being one. Here’s to the next nine years!
+— Seema
+PS: Is there a better way for Rohin and me to prove to you that you’re in the best hands, than have some of our fellow subscriber-colleagues explain why they’re excited for you in our tenth year?
+Aakriti Bhalla, Staff Writer
+I joined almost two years ago when we were hitting our seventh anniversary. And since then, it has been a fun (+ challenging) ride. Every stakeholder pushes you to do better, think critically, and constantly improve what you deliver to your readers. This is unlike any other organisation I have worked for because I know getting comfortable is never an option!
+As we inch towards our 10th birthday, I hope to continue improving and keep people around me, especially in the Delhi bureau, motivated and challenged.
+Seetharaman G, Deputy Editor
+When it comes to reminiscing, my thoughts are similar to Tony Soprano’s: “‘Remember when’ is the lowest form of conversation.” All you need to know about my time at The Ken is that I have been here for well over half its life. This is undoubtedly the best gig I have had—and will perhaps ever have.
+As we tell every single recruit, there’s nothing newfangled about our journalism. We want to do what the world’s greatest news organisations have done for decades: tell first-rate stories day in, day out. Stories that our subscribers feel they must read and listen to, despite the hand-wringing over AI’s impact on news.
+The world of news, not to mention business and jobs in general, has never seen anything quite as seismic. But the odds of The Ken not just surviving but thriving in the age of AI are far better than the odds in October 2016 of The Ken making it to its tenth year.
+What I’m most excited about is The Ken’s evolution from a news outlet to a media company—an annual case competition for students and premium, ticketed events are both big steps in that direction. What will never change, though, is our foundation of fiercely independent, high-quality journalism.
+Arundhati Ramanathan, Deputy Editor
+I joined The Ken as a staff writer in 2016, a few months before the official launch. And back then, I had a ready two-line introduction on what The Ken is to anyone I would talk to. "We are India's first subscription-based news publication. We do well-researched and well-written long form..." It's been many years since I stopped giving that spiel.
+What has kept me here all these years is simply the colleagues I work with. They are among the sharpest in the business, sure, but more importantly, they are also people who care deeply. Care for every word, angle, graphic, narrative, product, feature that we put out.
+That's the kind of obsession it took for us to earn your trust. And now as we head into our tenth year, we are not letting up on any of that.
+Sumit Chakraborty, Head of Desk
+I run a team of desk editors at The Ken. Think of me as the person standing between you and thousands of words of raw, chaotic drafts. My job is to catch stories mid-spiral and shape them so they land in your app or browser as if they were always meant to read that way.
+Working at The Ken has been the high point of my journalism career, largely because it’s one of the rare newsrooms where editing isn’t treated as a glorified spellcheck. Here, it’s a craft. Writers pitch bold, messy, ambitious stories—and we get to sharpen them into pieces people actually want to spend 10–15 minutes of their lives reading. The reward is subscribers who don’t just skim, but read every word. Not like the bots scraping the internet for slop, but real readers who notice every beat.
+Nine years in, The Ken is proof that subscriptions can work in India—if you respect your audience enough to give them journalism that doesn’t insult their intelligence.
+Next year, sure, AI will churn out faster, cheaper, dumber versions of what we do. But it still can’t tell which line will make a subscriber smirk, nod, or send a story to five friends. Our readers didn’t come here for fast and dumb. They came for smart and sharp. And that only comes from stubborn humans with (metaphorical) red pens.
+Anand Kalyanaraman, Finance Editor
+I have been part of The Ken for more than half its age. There's never been a dull moment, whether in its evolution—from one deep-dive a day to full-stack—or in its work that has stayed brave and hard-hitting. I am here for the F factor—fair, free, fearless journalism—that's rare in today's media.
+It's no surprise that so many of our stories continue to go far and make a deep impact and difference. For me, The Ken hitting nine years is testament that real journalism always has a discerning audience, and that the risk I took paid off. The next year will bring challenges and opportunities, and The Ken will be up to it.
+Rahel Philipose, Podcast Producer
+I joined The Ken's audio team about a year and a half ago. But it feels like I have lived at least three years' worth of work. I have seen podcasts grow, thrive, stumble, and sometimes get shut down.
+That’s one of the most important lessons I’ve learnt at The Ken: every product is an extension of its creator. If you believe in it, you will find ways to make it work. If you don’t, be ready to move on to the next idea.
+And that’s what The Ken turning nine represents: a newsroom unafraid to experiment, betting on conviction, and building products ahead of its time. It’s also a newsroom that has taught me resilience like I have never known before.
+I am confident we will keep building new formats that shape the future of business journalism in India, with the same curiosity and conviction that got us here.
+Pranav Pate, Growth Marketer
+I joined The Ken nearly two years ago, mainly because of all the smart and wonderful people working here but I stayed here for you. (My job is to ensure you get enough value from your subscription.) Don’t get me wrong, my colleagues are some of the smartest people I have worked with, but every time I talk to one of our subscribers, I get re-energised to work here, to build for you.
+I am sure the next year is going to fly by with lots of new products, lots of improvements in existing ones, and the hope that you’ll find us more valuable than ever.
+Brady Ng, Deputy Editor
+Keeping a media organisation running is tough. Doing this in one that also wears the cloak of a startup is monumentally more difficult. Most fail, or worse, slip into a slow decline where even gravity seems to conspire against them. But The Ken gives its people the space to constantly reinvent themselves, as long as you’re willing to make a lot of mistakes on the path to becoming a practitioner, then maybe even an expert.
+Over the past year, The Ken has ventured into many new areas—we launched new podcasts and started a live event series, developed new newsletters and kicked off our first commentary column. It’s been a ride, and I’m proud that my colleagues keep buying the ticket. I know that we have even bigger projects lined up for the coming year.
+I joined The Ken in the summer of 2022 and was immediately thrown into the deep end. I’ve had the privilege to work with reporters and contributors from different corners of Asia and beyond, collaborate with the podcast and events teams, as well as help with other projects. Try naming another media organisation where it’s possible to move in so many directions at the same time.
+For me, the coming year is the most thrilling chapter in The Ken’s story yet.
+Iqbal Ansari, Head of Engineering
+I joined The Ken in 2017, and it has been the best eight years of my life. Every day still feels like day 1 in terms of learning, challenges, and the sheer joy of working with the most talented, ambitious, and empathetic colleagues around me.
+What I love about The Ken is its high standards and its drive to experiment and re-invent itself, while maintaining an empathetic and encouraging culture. It pushes me to be ambitious.
+I say this with humility and a sense of pride that, over the years, I have been able to deliver value to our subscribers through my work in some way. And when you pat us on the back, it inspires us to continue working even harder.
+Ishan, thank you for believing in us. Through your feedback and appreciation, you have given us the strength and hope to continue on this journey so far.
+Indrajith Iyer, Product Analyst
+I first read The Ken almost five years ago as a young, fresh-faced corporate finance guy looking to read smart stuff in the hope that the smartness would rub off on me. It quickly became a habit; reading The Ken was the first thing I did on a work day. (It still is!)
+I changed jobs, cities, and functions, but not the habit of reading The Ken. And so, I was adamant that my next work destination would be The Ken, a company I really wanted to be a part of.
+When I found it did not have any openings, I sent the support desk an email glazing myself.
+PGK replied (he believed everything in the email, LOL), conversations happened, and I got hired. I was suddenly in an office with all these incredibly fun, smart people, who not only know what they’re doing, but also love it. I came to The Ken for the pedigree, but stayed for the people.
+As a subscriber to The Ken, I’m glad I have a news source I can trust to be unbiased and measured. Nine years seems like a long time, but having gotten a front-row seat to watch it grow for the last three years, I’m sure The Ken will be around for the next few decades as well. (Hopefully with you, Ishan, along for the ride!)
+Adhavan RK, BizOps Manager
+I've been at The Ken for close to three years now. During this time, no two days have been the same and I know for a fact that it will continue to be the case for the rest of my time here.
+To be honest, it's exhausting, but I have enough experience to know that anything less stimulating will be more exhausting. It's also a place where you're encouraged to create things you're proud of. The freedom to obsess over something until you're happy with it is what makes this a great place to work for me.
+The Ken is here to stay, and my belief doesn't come from thinking we have a solid plan for the future. It’s from looking at the foundation we have, in terms of people, culture, and systems.
+I'm excited to step into the next year.
+Praveen Gopal Krishnan, Chief Product Officer
+I’ve seen my share of organisations, but none like The Ken. That’s why I’ve stayed this long—and why I hope to stay for the rest of my career.
+However, when talking to younger team members, new subscribers, and even job applicants, I often find myself trying to use an analogy to describe what makes The Ken so incredible and unique.
+And nearly seven years after I joined, I think I’ve finally found one.
+The Ken is a forge. Most others have become factories.
+Both forges and factories have similarities—they build products. But what makes them different is how these products are made, and who makes them. A forge is where things are shaped with care and intention—each piece a product of craft. A factory is built for repetition, usually stripping away uniqueness, emotion, and identity.
+Forges are hot, intense, and challenging to work in.
+But they are filled with artisans who care about what they want to create.
+One of the things I’m most proud of about The Ken is that everything we make everyday is driven by an individual, personal ambition. Want to start a newsletter or a podcast? Go for it. Want to write something contrarian about a company? Sure. And these boundaries go beyond the regular limits of a conventional business-journalism organisation. This is why we’re in a constant state of reinvention about all of our products, from longform stories, podcasts, events, and case-study competitions to storytelling workshops, our website, and app.
+Factories are relatively better places to work at—but they chip away and slowly drain your spirit, purpose, ambition, and creativity, until there’s nothing left.
+In fact, the most common question I ask my colleagues—across in the business and in the editorial teams—is: what do you want to do?
+Just being able to ask this question, and to mean it, feels like a luxury. In every other startup, you’re told what to do. You’re told to write about some company, rewrite some press release, to shoot videos and create short-form content, to placate and ride an algorithm, and to follow some product or marketing playbook. In the seven years I’ve been here, I honestly can’t think of a time we launched something just to follow a trend, respond to market pressure, or hit some vanity metric.
+I wake up every single day asking myself, “What do I want to do?”
+Not “What do I have to do?”, but “What do I want to do?”
+This freedom is the greatest privilege imaginable. Thank you to our subscribers for making it possible—helping us wake up each day with the power to ask this very question.
+Sthaman Kamath, Corporate Partnership & Sales Manager
+I’m a 23-year-old from Bangalore and I absolutely love that I get to learn from and work alongside some of the smartest people I have met. Everyone here is equally driven by passion and curiosity, a combination that’s rare to find. I feel like I’m part of building something great, and there’s so much room to grow and experiment with new ideas. The Ken has taught me more than my entire undergraduate degree, and has forever changed the way I think and work.
+The organisation turning nine, to me, is symbolic of a much bigger change in India, where people are exiting old, rigid institutions and betting on bold ideas, placing their trust in innovation, and being rewarded with success.
+I’m super excited for the next year ahead. I think we’re going to be even bolder and more ambitious with the products and ideas we launch, and I can’t wait to see what we accomplish.

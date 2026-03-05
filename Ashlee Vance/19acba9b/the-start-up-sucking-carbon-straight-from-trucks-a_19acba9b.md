@@ -1,0 +1,9 @@
+---
+subject: "The Start-up Sucking Carbon Straight From Trucks And Trains"
+from: "Ashlee Vance from Core Memory  <ashleevance@substack.com>"
+to: ""
+date: 2025-11-28 18:11:15
+labels: ["Ashlee Vance", "CATEGORY_PERSONAL", "INBOX", "UNREAD"]
+label_ids: ["Label_4216359091400734623", "CATEGORY_PERSONAL", "INBOX", "UNREAD"]
+---
+We went to Detroit a couple of months ago and found something quite odd. The start-up Paul Gross, the CEO of Remora, went to Yale, which I only bring up because Yale has done a miserable job at producing tech start-ups over the years. So, good for Yale here. While working on this piece, we also learned that Coke and Pepsi buy tons of mined CO₂, which boggled my mind. Gross’s big thesis with Remora is that we’re not close to putting electric batteries into big trucks and trains and that his company’s technology provides a meaningful climate change-friendly stopgap. Remora has immense challenges ahead of it, and this machine, while cool and useful, comes with a lot of added complexity that I’m not sure truck and train suppliers will go for. That said, I was impressed with what Remora has already built and, well, the vehicle makers will indeed pick this technology up if there’s enough money to be made in the carbon trade. This episode features the first appearance of our Brex Mobile, which we call Sexy Brexxy. It’s going to be a star in the coming weeks. The fine finance gurus at Brex make our video series possible, and they will make your finances better. Learn more at Hopefully, you enjoyed this story. If so, please share it and subscribe to Core Memory. We want to do more of this for you and need your help. Thanks! |

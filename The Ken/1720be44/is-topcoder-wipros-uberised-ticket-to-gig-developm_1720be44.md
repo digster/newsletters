@@ -1,0 +1,14 @@
+---
+subject: "Is Topcoder Wipro’s Uberised ticket to gig development?"
+from: "The Ken <info@the-ken.com>"
+to: ""
+date: 2020-05-13 02:36:34
+labels: ["CATEGORY_PERSONAL", "INBOX", "The Ken"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_8244464457792971031"]
+---
+In 2016, Wipro, once one of India’s triumvirate of multi-billion-dollar IT services giants alongside TCS and Infosys, did something out of character. It spent half a billion dollars to acquire a company. Indian IT services companies rarely do acquisitions, preferring instead to keep accumulating cash and margins, even at the cost of watching opportunities pass them by. In Wipro’s case, that company was Appirio, and within its portfolio lay an animal that was even stranger to Wipro—a crowdsourcing platform.
+Topcoder, the freelance platform Wipro got, was in many ways its antithesis. Instead of Wipro’s regimented groups of homogeneously mass-produced developers sitting in massive tech parks, Topcoder featured over a million developers, designers and data scientists spread across 200 countries. "We believe that the future of work in the IT industry is going to get Uber-ised to some extent,” said Wipro’s CEO then.
+Covid-19, argues Wipro, is Topcoder’s moment. With more coders available and enterprise clients getting comfortable with remote working, there has been a “huge jump” in demand as well, Mike Morris, CEO of Topcoder, told The Ken. But the fact that four years after the acquisition this hugeness is not backed up by revenue numbers is a bit worrying. Even Topcoder’s community growth of 30,000 a quarter looks very un-Uber once you realise it's on a base of 1.6 million. That growth rate is just around India’s inflation rate in January 2020 (7.59%).
+Remember I told you that Wipro was once part of India’s IT triumvirate? Today it is #5 in the pecking order, with leader TCS nearly three times its size and a full 6.5% healthier on the operating margin front. Does Topcoder have what it takes for Wipro to break out of its shackles? Kunal thinks it just might. Read his story and let us know what
+you think:
+[https://the-ken.com/story/wipro-topcoder-and-the-neo-uber-isation-of-it-services/](https://link.the-ken.com/uni/ls/click?upn=sy6ExvMQ-2BqIqW2Qsf-2FVG5sc84ge4M35NkSHIl0HH-2B5CK7TGK0cD0GDxJmRHfKtnm7-2Beh7oQHmnKeM0y7O4K-2FbyrwQiCBXqT-2BRShatSIjQE-2F2G6HlwoRXjFDEBr1SnacZhv0MnlwpEXahjknPZCHIh5VHhimGu-2BaPTFGTqqIGGv6RFSmR9wLIFYQqDOX-2BxdLgBmXU135QDn-2FAQa4S96zrKg-3D-3DdTOK_dmDs81p1OM5gBGYvHfsMFvgp9PcMB6iZkwowmLx-2FVhwlHXbL5m6csiptGuneRwktW27c6ZwIBsjV67BZcfkOlPppVavmb9GVjXF4V-2FTqNpXQDRXtosfJlDyjjHe4le0Qp03Pu0DJ0BCQ7SZX04IPtihDYMPKPVMi4uOk5QvqU6oODf4amh2GXqSwroV-2FIyydogwrb6SMq0iWUMGQ-2FJx0ohOz4HvYUaUCm01wvWiqdE2f8dJUrrudOK8nB-2Fc-2BH9ttaaoKH0fQhS2asX4bUOyQBd4qVXHfR7KnJoTKMoUPhds5JS1quC0E146uWvqH1xznGn7JeSQeUvh7v3rK18cOOteMX9pCkz4XMZVmnY7ACuKl-2B8YGh-2BRDGifip9TNRWlDhBFQ04UxACbJb5N01hU-2FFnvmuKP7EOkbPBsn-2FE8IwNg-3D) (11-minute read)

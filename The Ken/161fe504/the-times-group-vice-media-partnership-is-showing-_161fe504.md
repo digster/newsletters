@@ -1,0 +1,15 @@
+---
+subject: "The Times Group-Vice Media partnership is showing signs of strain"
+from: "The Ken <info@the-ken.com>"
+to: ""
+date: 2018-03-07 02:35:30
+labels: ["CATEGORY_PERSONAL", "INBOX", "The Ken", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_8244464457792971031", "UNREAD"]
+---
+Good Morning Ishan,
+It is amazing what The Times Group can do. Sorry, let me rephrase that.
+It is amazing what The Times Group can sell. I’ve always maintained, that a company which can convince people to pay for useless gossip and trivia about themselves packaged with the same sanctity as that of a newspaper and ship it to readers every morning, that’s some downright stellar selling.
+Which is why the idea of Times Bridge isn’t surprising. A media company, not just any, but by far the largest privately-held media company in India reaching out to the world. Hey. Hey, you out there. If India is on your mind, come get with us. Because we know this country the best. We’ll help you hire, we’ll help you build, we will help you get things up and running, and together we will get rich. That’s been the pitch from day one. And yes, the group has sold this too; companies have bought into it. The fascinating lot amongst them are media companies. Like Business Insider. Huff Po. There are others. But today, let’s concern ourselves with Vice Media, the New York-headquartered media company, well known for edgy, millennial stories.
+In June 2016, Times Group and Vice Media came together saying they will get into India and will launch a television channel plus a website. A 50:50 joint venture, with both parties committing $5 million each. Eighteen months down the line, things aren’t looking great. There is no sight of the TV channel, which should have started operations in the first quarter of 2017. It seems the timeline has been pushed to the end of the year. And even that is tentative. The Vice India website—the other part of the deal between the two companies—is expected to launch on 2 April 2018. With less than a month to go live, the Vice India newsroom looks chaotic.
+That’s your story for today. From my colleagues Shashidhar & Venkat. You can read it here: [https://the-ken.com/story/](http://link.the-ken.com/wf/click?upn=HQSq6eeRV1xAVaGuFOahuNCZVVXPeP-2FJpSqxhvIUDrl21RWjXPLoGWDAsV0OjwTWT-2BpHyUtesrEkAaxpkluILL1TTW677APAfXYTtaWBgDjJIgWF40YeIS81XfPeo7e9razlGKX6SCRKnFQ2-2FwCWTSYcJrMe9SB62ei2Fj0zMf2ZOhFW4zrgv1Zndefaw8y7Ps2ErJakqxdyavrA1190Vbl8ewWjO0SR6xZmfWpgrSQxLWTYnd-2FEk95694zgxhZa4UXsU9d8PPSK7HZInZG4QQ-3D-3D_S4jLOsNx-2Fv6Jev2nvow8b7P9pBCWGd8KNZfb200gkZLQNlXQHio0noZzXtsWoloZmPWeyZsh7a4QCV9ufwCUKi00jlBT0uEdvwYDMuVuqcNjRfL2D0d7SfeTze-2B3Puz3-2BT7j2m3ypvxvA3NtyXOgkYoYezExNTUSz9x7N9Le557Kvipf4u6Y8IDH0CrP70X7rxeDLSu6cV1Vanmood-2FCaNAvmJciqNadpt8Nn8wNHKjrpyqmdboCHAKyAQzAzZB-2B3Z2IJjwTwmfQaupeU3xnV02EwOSXoXKA9TVkvtdNaRMI8A6-2F4XNGq8G-2Fb3VC9NV2ep04ov6RZ2l625auFFTDfTqgBO9oOpzgDS-2BWix-2B4jo1Wz4SZNDb3lylc1M78jyk8oMn1nfvS5xtH7Cz02OiU6ODMyrhG08dl8TpSq2sr4-2Fk-3D) alls-not-well-indias-viceland/
+This email was sent by: The Ken

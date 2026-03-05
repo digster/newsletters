@@ -1,0 +1,10 @@
+---
+subject: "The Top Gun Anthem Edition"
+from: "\"Why is this interesting?\" <whyisthisinteresting@substack.com>"
+to: ""
+date: 2023-08-15 14:00:03
+labels: ["CATEGORY_PERSONAL", "INBOX", "UNREAD", "WITI"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "UNREAD", "Label_5752899537867939131"]
+---
+Colin here. I re-watched Top Gun on a flight recently with some pretty good headphones. For the first time, I paid close attention to the anthemic theme song that kicks off the credits and then quickly blasts into another track (Danger Zone), once the catapult propels the F-14 Tomcat off of the flight deck. It was fun to listen to the composition intently: it’s an interesting piece of music; there’s some dubby echos on the TR-808 drum track, dark synth bells (Yamaha DX7 synth presets!) and a moody buildup. The song soundtracks the beginning of the film, with slow movements of airplanes and the complicated choreography of getting planes aloft on the open sea. The Top Gun Anthem is so synonymous with the film. It has been embedded into every American brain from the time of first exposure, and reinforced recently with the second film, Maverick, where it was also used. WITI Classifieds: We are experimenting with running some weekly classifieds in WITI. If you’re interested in running an ad, Interpreting the internet for the tasteful reader. Join 23,000+ subscribers who rely on Dirt for their cultural alpha. Why is this interesting? Turns out the track wasn’t originally composed for Top Gun. Let that sink in. After watching on the plane, I went down a rabbit hole to find out that the track was original composed for a dream sequence in, wait for it, the Chevy Chase movie Fletch. According to
+His other contribution to the Top Gun soundtrack, which incidentally, was the first CD I ever bought as a kid, was a track called Memories which sets up the vibe shift when "Top Gun Anthem" won a 1987 Grammy for Best Pop Instrumental Performance, but it also is firmly lodged into pop culture and cinema history: not a small feat for an accident. Thanks Billy Idol! (CJN). You're currently a free subscriber to |

@@ -1,0 +1,52 @@
+---
+subject: "Reading List 03/29/25"
+from: "Construction Physics <constructionphysics@substack.com>"
+to: ""
+date: 2025-03-29 12:02:22
+labels: ["CATEGORY_PERSONAL", "Construction Physics", "INBOX", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "Label_8588207018748827248", "INBOX", "UNREAD"]
+---
+|
+Welcome to the reading list, a weekly roundup of news and links related to buildings, infrastructure, and industrial technology. This week we look at US bridges at risk of ship collisions, Airbus testing an unducted fan, an earthquake in Myanmar, China’s undersea cable cutter, and more. Roughly 2/3rds of the reading list is paywalled, so for full access become a paid subscriber.
+Last year the Francis Scott Key bridge in Baltimore [collapsed](https://substack.com/redirect/d38c7797-8d3e-42c0-b685-93c9afc015f7?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) after being struck by a large container ship. Per James Reasons’ [swiss cheese model of failure](https://substack.com/redirect/9d2ee7e8-337f-4ee6-aa34-41c65e437fd5?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o), accidents are often the result of many random or unlikely failures lining up, and one such bridge accident means there were probably many accidents that “almost” happened. (You can get a sense of this with aircraft accidents, where following a crash heightened concern generates a lot of reports/stories on other, less serious accidents or near-misses.)
+To better understand which bridges are at a risk of accident, Johns Hopkins engineers studied ship travel data near US bridges around the country. They found that many are at high risk. From [Johns Hopkins](https://substack.com/redirect/b72c00b6-ba92-4c2d-9bd8-97230d1b62d4?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o):
+They collected and mined 16 years of U.S. Coast Guard data—logs detailing the precise location, heading, speed, and status of every ship traveling through the country's waters on a minute-by-minute basis. They cross-referenced the geolocated shipping information, hundreds of millions of data points, with port data and bridge data from the National Bridge Inventory to determine which large ships passed under bridges.
+Using this traffic data, along with ship aberrancy rates adopted from the American Association of State Highway and Transportation Officials, the researchers estimated the probability of very large ships colliding with the piers of major bridges across the U.S…
+According to preliminary results, the most vulnerable bridges are:
+Huey P. Long Bridge, Louisiana: Collision expected once every 17 years
+San Francisco–Oakland Bay Bridge: Collision expected once every 22 years
+Crescent City Connection, New Orleans: Collision expected once every 34 years
+Beltway 8 Bridge, Texas: Collision expected once every 35 years
+Hale Boggs Memorial Bridge, Louisiana: Collision expected once every 37 years
+Bayonne Bridge, N.Y./N.J.: Collision expected once every 43 years
+Fred Hartman Bridge, Texas: Collision expected once every 47 years
+Martin Luther King Bridge, Texas: Collision expected once every 64 years
+Sunshine Bridge, Louisiana: Collision expected once every 71 years
+Rainbow Bridge, Texas: Collision expected once every 71 years
+Veterans Memorial Bridge, Louisiana: Collision expected once every 74 years
+Chesapeake Bay Bridge, Maryland: Collision expected once every 86 years
+Talmadge Memorial Bridge, Georgia: Collision expected once every 88 years
+Veterans Memorial Bridge, Texas: Collision expected once every 94 years
+Delaware Memorial Bridge, Del./N.J.: Collision expected once every 129 years
+Dames Point Bridge, Florida: Collision expected once every 152 years
+Horace Wilkinson Bridge, Louisiana: Collision expected once every 198 years
+Verrazzano-Narrows Bridge, New York: Collision expected once every 362 years
+Golden Gate Bridge, California: Collision expected once every 481 years
+John A. Blatnik Bridge, Minnesota/Wisconsin: Collision expected once every 634 years
+The main drawback of renewable energy sources like wind and solar are their intermittency. But another important drawback is that they capture energy from diffuse sources, and thus their infrastructure has a large physical footprint, making them susceptible to NIMBY opposition and other restrictions that make it hard to build things.
+Wind energy seems particularly vulnerable to this, because the turbines are visible from such a long distance. Restrictions on wind turbine construction in US jurisdictions are growing more common, and some offshore wind projects like [Cape Wind](https://substack.com/redirect/4f333cfb-51a8-4d3d-8bdb-4529890d0c51?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) have been litigated into submission by wealthy coastal residents worried about the visual impact on their expensive waterfront real estate.
+In that vein, a recent paper looked at the impact wind turbines have on local real estate prices. From the [abstract](https://substack.com/redirect/061da1b8-67df-4307-80d3-e1dd822e7405?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o):
+We analyze the impact of wind turbines on house prices, distinguishing between effects of proximity and shadow flicker from rotor blades covering the sun. By utilizing data from 2.4 million house transactions and 6,878 wind turbines in Denmark, we can control for house fixed effects in our estimation. Our results suggest strong negative impacts on house prices, with reductions of up to 12 percent for modern giant turbines. Homes affected by shadow flicker experience an additional decrease in value of 8.1 percent. Our findings suggest a nuanced perspective on the local externalities of wind turbines regarding size and relative location.
+Reductions are up to 12 percent in home value, with another 8.1% if there is significant “shadow flicker” from the spinning blades. And the larger the turbine, the bigger the impact:
+We find that setting up turbines that are taller than 60 m within 2 km of houses reduces property values by 3.8 percent. These negative price effects exhibit substantial heterogeneity across distance and turbine height. Small turbines of less than 60 m in total height exhibit no effect on house prices. Medium-sized turbines between 60 and 120 m show treatment effects of −4.5 percent at 1 km distance and −2.9 percent at 2 km. Their impact fades out at distances of more than 2 km. Dwarfing these impacts, though, are modern giant turbines of 120 m and higher, which reduce property prices by 12 percent at 1 km distance and 10 percent at 2 km. Their impact declines slowly with distance to the property and fades out after 5 km.
+In my piece about [jet engine development](https://substack.com/redirect/7c03d62e-a7c8-49fd-b307-0a1008a5f94b?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o), I noted that one way to improve jet engine efficiency is to have the engine drive a large fan that routes some air around the engine, and that there are a variety of mechanical arrangements for doing this. One possibility is the unducted fan, or [propfan](https://substack.com/redirect/1c9c6b9b-30c5-4959-8318-0a191eb3ef6a?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o), where a jet engine drives a large fan or series of fans at the rear of the engine.
+The advantage of the unducted fan is a large improvement in fuel efficiency. The disadvantage is a very large increase in noise generated by the engine. There have been various experiments with unducted fans on commercial aircraft, such as [Boeing’s 7J7](https://substack.com/redirect/803df126-b197-4250-9ac9-a7d7d962189e?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o), but none have made it into commercial service. Now Airbus is apparently considering an unducted fan for its successor to the A320 (its 737 MAX competitor). From the [Financial Times](https://substack.com/redirect/70fac77b-86f2-4d0b-9c14-3cae85aa73bd?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o):
+Airbus is to test a radical engine with visible fan blades as the world’s largest plane maker gears up to develop a successor for its best-selling A320 family of jets.
+The European aerospace and defence group said test flights of a demonstrator of the “open fan” engine would take place on a modified A380 superjumbo towards the end of this decade.
+The flights will inform an eventual decision on how best to power the next generation of single-aisle aircraft that will succeed the A320 aircraft when they come on the market towards the end of the 2030s.
+Airbus hopes that the new engine configuration will contribute to an expected 20 to 30 per cent fuel efficiency improvement compared with existing models. Current types use “ducted fan” engines, where the fans are enclosed within a casing.
+On Trump’s first day in office he issued an executive order pausing permitting for solar energy projects for 60 days. According to [Heatmap](https://substack.com/redirect/d24fa7f2-55ab-4cce-9d2a-573b3bc5234f?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o), that pause has now been lifted (though no permits have yet been issued:
+President Trump paused permitting for solar as well as wind projects for 60 days via executive order on his first day in office. The expiration date on that pause was technically last Friday, and in an exclusive statement to Heatmap, BLM spokesperson Brian Hires said “there is currently no freeze on processing renewable applications for solar” or “making authorization decisions” on projects.
+Hires also said all transmission for wind projects is now allowed to advance through federal permitting, a statement that arrives after the agency indicated in emails I obtained that it may soon approve wires for a wind project in Wyoming sited on private land. BLM also approved a transmission project for a solar farm earlier this month, a decision it made public with a press release that also declared solar was part of the president’s “energy dominance” agenda...
+Become a paying subscriber of Construction Physics to get access to this post and other subscriber-only content.
+| Weekly news, links, and books posts about construction, housing, infrastructure, and building things. |

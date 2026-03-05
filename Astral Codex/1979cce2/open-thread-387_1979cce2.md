@@ -1,0 +1,9 @@
+---
+subject: "Open Thread 387"
+from: "Astral Codex Ten <astralcodexten@substack.com>"
+to: ""
+date: 2025-06-23 12:40:12
+labels: ["Astral Codex", "CATEGORY_PERSONAL", "INBOX", "UNREAD"]
+label_ids: ["Label_6409723252142624155", "CATEGORY_PERSONAL", "INBOX", "UNREAD"]
+---
+This is the weekly visible open thread. Post about anything you want, ask random questions, whatever. ACX has an unofficial 1: I’m looking for a VC/investment/nonprofit lawyer who can answer some questions for ACX Grants, most likely ending in drawing up a contract for something like a grant which is convertible to equity if the grantee becomes a startup (or if this is a bad idea, explaining why). I will pay your normal rate for this service, I’m just asking here because I trust people in the ACX community more than whoever lands at the top of a Google search. 2: New subscribers-only post, 3: Thank you to everyone who voted for finalists in this year’s Nonbook Review Contest. All entries among the top ten best-ranked reviews became automatic finalists, and I also added two more from the 10-25 tier that voters or I especially liked. Honorable mentions were others from the 10-25 tier that I liked a lot. Finalists are Alpha School, Dementia, Islamic Geometric Patterns, Joan of Arc, Mashed Potatoes, Men, Ollantay, Phase I Research, Synaptic Plasticity, The ACX Commentariat, The Internet That Might Have Been, and The Russo-Ukrainian War. Honorable Mentions are at least Bishop's Castle, Bukele, Elon Musk's Algorithm, JFK Conspiracies, Martial Arts, Miniatur Wunderland, School (Review 1 by DK), and Watergate. I may promote some honorables to finalists depending on reader tolerance or unexpected opportunities. I will give you finer-grained score information after the contest ends. First finalist post is planned for this Friday. You're currently a free subscriber to |

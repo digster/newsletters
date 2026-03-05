@@ -1,0 +1,87 @@
+---
+subject: "\"This feels like 1996\": Why a16z's Martin Casado believes the AI boom still has years to run (General Partner)"
+from: "The Generalist <thegeneralist@substack.com>"
+to: ""
+date: 2025-10-07 12:03:30
+labels: ["CATEGORY_PERSONAL", "INBOX", "The Generalist", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_8815311452832858585", "UNREAD"]
+---
+|
+[Auth0](https://substack.com/redirect/571be8de-2cfe-44bc-8750-dfe4ef07f1ab?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o): Secure access for everyone. But not just anyone.
+[Brex](https://substack.com/redirect/3351bf86-7230-4132-ae38-6e6d1b483259?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o): The banking solution for startups.
+[Persona](https://substack.com/redirect/7cc0cf7c-ed08-4cdd-9353-51ad4579c3f7?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o): Trusted identity verification for any use case.
+Martin Casado has lived through multiple tech waves—first as a founder, now as a16z’s leading voice on AI and infrastructure. He helped pioneer software-defined networking, then moved from academia to entrepreneurship, and today backs founders building at the frontier of technology as a General Partner at Andreessen Horowitz. In this conversation, Martin shares his unique perspective on the AI boom, his market-first investment philosophy, and why he believes we’re still in the early days of AI’s impact.
+We explore:
+Martin’s path from game engines and simulations to investing at Andreessen Horowitz
+Why Martin believes we’re only in “1996” of the AI boom cycle with years to run before any bubble
+Why Martin approaches investing “from markets in” rather than “from companies out”
+Why the AI coding market represents a potential $3 trillion opportunity
+The transformation of Andreessen Horowitz from a small generalist partnership to a specialized 600-person organization
+The concerning dominance of Chinese companies in open source AI models
+Why Martin thinks AGI discussions encourage “lazy thinking” and obscure meaningful conversations
+How World Labs is solving the 3D representation problem that could unlock robotics, VR, and more
+([00:00](https://substack.com/redirect/a36f5f70-1462-42b8-89f7-023ffd77596a?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) Intro
+([04:50](https://substack.com/redirect/19320e7c-8e7c-4afb-af8d-6d45f56f0ddc?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) Martin’s early career
+([08:35](https://substack.com/redirect/d6243e15-56b5-455e-b3ba-41170f895ac7?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) Martin’s shift from academia to founding his own company during an economic downturn
+([11:25](https://substack.com/redirect/1e6ef21a-6aec-4d6b-b656-4b09c42f8d9f?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) The story behind Martin joining Andreessen Horowitz
+([17:55](https://substack.com/redirect/ba61fd4d-ef2d-49ee-a975-d0969d5bcbca?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) Ben Horowitz’s most impactful advice
+([19:49](https://substack.com/redirect/312d2b1a-2c06-4c9f-a9f2-d9af32f44d6a?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) How Andreessen Horowitz has transformed since 2016
+([22:20](https://substack.com/redirect/b92306ed-5a34-4c84-a525-d098a7ac2f9d?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) Why product experience matters more than technical prowess for infrastructure investing
+([26:26](https://substack.com/redirect/fccf1308-ced9-4278-9a99-a84df60c142c?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) Martin’s market-first investment philosophy
+([28:39](https://substack.com/redirect/db0d91d4-86b7-4a51-ad33-effcea8fad71?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) Andreessen Horowitz’s framework for assessing founders and startups
+([33:14](https://substack.com/redirect/106d5da4-b927-4d6a-a953-4cc13bc5f66e?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) Why Martin thinks Hock Tan may be the best CEO today
+([35:18](https://substack.com/redirect/6279b030-2451-48c8-98dd-2972408693b8?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) The controversy around non-consensus investing in early stages
+([38:42](https://substack.com/redirect/17bf4896-fe7f-4bbe-84ff-1d16c398db33?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) Why today’s AI boom reminds Martin of the mid-’90s tech environment
+([44:38](https://substack.com/redirect/18cf9dee-6a31-4a1b-9635-c7ea675fc180?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) How today’s AI boom differs from 2021’s tech bubble
+([47:10](https://substack.com/redirect/da04f2bf-25d4-4aa7-8390-2b017d344754?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) Why the promise of AI in organizations remains largely unrealized
+([50:29](https://substack.com/redirect/a591e667-25fb-48ee-8275-6f8be2ff58ec?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) How Martin uses AI for coding and as a reading thought partner
+([52:56](https://substack.com/redirect/9d550dc3-1b43-4b72-af13-2246c2ab60ed?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) Why Martin doesn’t use AI for writing
+([53:24](https://substack.com/redirect/cd5f5928-5d46-4fad-b19d-339e4d7b47a6?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) Martin’s interest in Eisenhower and historical parallels to today
+([55:33](https://substack.com/redirect/81f45203-8080-4c67-956a-c7f10976c1c2?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) Two equally important paths for AI’s future
+([58:33](https://substack.com/redirect/8e8d1326-5fce-4c03-ad00-ef3f63263683?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) Why Cursor stood out as the leader in AI coding tools
+([01:01:14](https://substack.com/redirect/9c74f69f-b178-470f-b228-542c80f4a996?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) The lack of inherent defensibility in AI and how to build moats
+([01:03:30](https://substack.com/redirect/3000bb41-03eb-4d77-a576-e5fa3c152921?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) World Labs’ mission to transform 2D images into 3D environments
+([01:06:42](https://substack.com/redirect/81f9ce87-e02e-4192-9696-1f2fab725f52?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) 3D’s emerging use cases and why the VR market may expand
+([01:11:50](https://substack.com/redirect/7b18db81-6034-45e6-b0b9-1d915e19d40a?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) Why Martin isn’t an “AGI guy” and how the term erodes conversation quality
+([01:14:59](https://substack.com/redirect/2c011a1a-399b-4f31-a7f4-38865b731418?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) How seeing AI as a continuum creates room for future products and investment
+([01:16:28](https://substack.com/redirect/5bc8ff04-d55d-46fb-8812-8f7c1f9953e4?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) The security and regulatory challenges of Chinese open-source AI models
+([01:19:23](https://substack.com/redirect/b9596ca8-3f2a-4213-8f84-fe051f7109ef?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) Final meditations
+LinkedIn: [https://www.linkedin.com/in/martincasado/](https://substack.com/redirect/fb8a991d-000e-4b39-8f3f-9749070b9058?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+X: [https://x.com/martin_casado](https://substack.com/redirect/125d3dbb-dbce-4c7f-9de3-dd2fe0694884?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+The Weirdest People in the World:
+[https://www.amazon.com/WEIRDest-People-World-Psychologically-Particularly/dp/1250800072/](https://substack.com/redirect/2ef5a84d-0f19-4d7d-8f16-cdb2abe6cd8b?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)The Beginning of Infinity: Explanations That Transform the World:
+[https://www.amazon.com/Beginning-Infinity-Explanations-Transform-World/dp/0143121359](https://substack.com/redirect/5d2f731c-9cb8-43b6-8782-5b130608ed17?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)Statistical Consequences of Fat Tails: Real World Preasymptotics, Epistemology, and Applications:
+[https://www.amazon.com/Statistical-Consequences-Fat-Tails-Preasymptotics/dp/B0CD8X5YC5](https://substack.com/redirect/91d18c10-a78c-4c06-bd70-c31959c2345a?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)The Art of Doing Science and Engineering: Learning to Learn:
+[https://www.amazon.com/Art-Doing-Science-Engineering-Learning/dp/1732265178](https://substack.com/redirect/27e97046-f4f5-4ce9-8821-af48b3d00bcc?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)The End of History and the Last Man:
+[https://www.amazon.com/End-History-Last-Man/dp/0743284550](https://substack.com/redirect/0d9b07fa-5d9c-40dd-8a04-11799a5db4b5?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+Andy Rachleff on LinkedIn:
+[https://www.linkedin.com/in/rachleff/](https://substack.com/redirect/2674087d-badb-42e8-bd2f-5ee88e651026?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)Ben Horowitz on LinkedIn:
+[https://www.linkedin.com/in/behorowitz/](https://substack.com/redirect/5a5690b7-c19e-4210-8b7e-4fd0f2263d63?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)Marc Andreessen on X:
+[https://x.com/pmarca](https://substack.com/redirect/d6a2e29d-ca7b-4ab3-92a7-63e6a41035f5?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)Mike Moritz on LinkedIn:
+[https://www.linkedin.com/in/michaelmoritz/](https://substack.com/redirect/620b6bd6-905d-4ccc-8d0d-33151f37d172?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)John Doerr on X:
+[https://x.com/johndoerr](https://substack.com/redirect/f52305db-6c71-444a-b4ef-92047628a5e4?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)Peter Thiel on X:
+[https://x.com/peterthiel](https://substack.com/redirect/5528c1d8-8e79-4d65-a21a-a300c2ae49dd?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)Hock Tan on LinkedIn:
+[https://www.linkedin.com/in/hock-tan/](https://substack.com/redirect/e8b0415c-ed6a-4c5f-b2b1-dc69006dde6c?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)Dwight D. Eisenhower:
+[https://en.wikipedia.org/wiki/Dwight_D._Eisenhower](https://substack.com/redirect/85de26e4-a29b-420e-a6f2-6da78f0627a3?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)Ben Mildenhall on LinkedIn:
+[https://www.linkedin.com/in/ben-mildenhall-86b4739b/](https://substack.com/redirect/e495090a-37d4-467e-a98d-040c44ac7836?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)Christoph Lassner on LinkedIn:
+[https://www.linkedin.com/in/christoph-lassner-475a669b/](https://substack.com/redirect/87c0a387-7e03-49f4-af33-db7bfddfbe4f?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)Justin Johnson on LinkedIn:
+[https://www.linkedin.com/in/justin-johnson-41b43664/](https://substack.com/redirect/a7fb164a-d0fa-46e7-8c29-72a9409e458e?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)Yann LeCun on X:
+[https://x.com/ylecun](https://substack.com/redirect/6d8ed424-ba2e-483d-9ea9-004fdff2f224?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+Andreessen Horowitz:
+[https://a16z.com/](https://substack.com/redirect/6f3350eb-3212-448b-9943-42e84570140b?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)R.I.P. Good Times:
+[https://articles.sequoiacap.com/rip-good-times](https://substack.com/redirect/a2d513a6-3793-4545-a6d5-915df405b158?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)Martin’s post on X about non consensus investing:
+[https://x.com/martin_casado/status/1959485916894167162](https://substack.com/redirect/b97731f8-b0a2-405b-9120-db10c9938976?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)Terra Incognita:
+[https://en.wikipedia.org/wiki/Terra_incognita](https://substack.com/redirect/d6d623b9-17ac-4a2e-a92c-ce0f2d16c09f?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)Beware the AI Experimentation Trap:
+[https://hbr.org/2025/08/beware-the-ai-experimentation-trap](https://substack.com/redirect/63b48521-a47e-4886-97ee-91c4c4fc9031?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)Cursor:
+[https://cursor.com/](https://substack.com/redirect/0edcf8f5-d9c2-48e1-b248-1f233831e44f?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)Grok:
+[https://x.ai/grok](https://substack.com/redirect/6c96896a-5795-4f5b-a2e6-98eb4d6bab79?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)Warren Court:
+[https://en.wikipedia.org/wiki/Warren_Court#Historically_significant_decisions](https://substack.com/redirect/97793197-2e83-4705-b7fc-ff29b785f52d?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)CodeX:
+[https://openai.com/codex/](https://substack.com/redirect/4ea99904-dd3a-43a9-a49a-1530ee62e798?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)Genie3:
+[https://deepmind.google/discover/blog/genie-3-a-new-frontier-for-world-models/](https://substack.com/redirect/1968a813-2682-469b-90bb-c33e78c68f2c?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)Midjourney:
+[https://www.midjourney.com/](https://substack.com/redirect/06b4e4c8-39d6-493e-8f27-62c10a555b4b?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)WorldLabs:
+[https://www.worldlabs.ai/](https://substack.com/redirect/4b51b1bb-488c-4aab-9f82-c3e24886fa92?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)Suno:
+[https://suno.com/](https://substack.com/redirect/fba0b73c-87b0-4e2f-9ad1-0b0d2fc50eef?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)GitHub Copilot:
+[https://github.com/features/copilot](https://substack.com/redirect/923e545a-c3e7-4f52-8a82-696a3911e34b?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+I’d love it if you’d subscribe and share the show. Your support makes all the difference as we try to bring more curious minds into the conversation.
+Production and marketing by [penname.co](https://substack.com/redirect/36d47ae9-2886-4372-bf55-537e7d2e71a2?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o). For inquiries about sponsoring the podcast, email jordan@penname.co.
+You're currently a free subscriber to [The Generalist](https://substack.com/redirect/1cade71b-fffc-447e-abc4-4af978a98989?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o). For the full experience, [upgrade your subscription.](https://substack.com/redirect/2/eyJlIjoiaHR0cHM6Ly93d3cuZ2VuZXJhbGlzdC5jb20vc3Vic2NyaWJlP3V0bV9zb3VyY2U9cG9zdCZ1dG1fY2FtcGFpZ249ZW1haWwtY2hlY2tvdXQmbmV4dD1odHRwcyUzQSUyRiUyRnd3dy5nZW5lcmFsaXN0LmNvbSUyRnAlMkZ0aGlzLWZlZWxzLWxpa2UtMTk5Ni1tYXJ0aW4tY2FzYWRvJnI9OG81NG4mdG9rZW49ZXlKMWMyVnlYMmxrSWpveE5EVTJNek14T1N3aWFXRjBJam94TnpVNU9ETTRPVEUxTENKbGVIQWlPakUzTmpJME16QTVNVFVzSW1semN5STZJbkIxWWkweE5UYzJOQ0lzSW5OMVlpSTZJbU5vWldOcmIzVjBJbjAubjdXd1RKRTJublhrODZfbU4tRzNCdHVTX0xJNlZoMDRUc1BOUGJlXzFoMCIsInAiOjE3NTA1NzYyMiwicyI6MTU3NjQsImYiOnRydWUsInUiOjE0NTYzMzE5LCJpYXQiOjE3NTk4Mzg5MTUsImV4cCI6MjA3NTQxNDkxNSwiaXNzIjoicHViLTAiLCJzdWIiOiJsaW5rLXJlZGlyZWN0In0.hA5Bpk0jj4Iv5HGelh-ZdypQhcsp8byww8SvtWO5fdc?&utm_source=substack&utm_medium=email&utm_content=postcta)

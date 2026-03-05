@@ -1,0 +1,23 @@
+---
+subject: "Deconstructing Fears, Avoiding the Big Surprise, & More"
+from: "\"Sahil Bloom's Curiosity Chronicle\" <sahil@sahilbloom.com>"
+to: ""
+date: 2023-03-24 09:04:24
+labels: ["CATEGORY_PERSONAL", "IMPORTANT", "INBOX", "Sahil Bloom"]
+label_ids: ["CATEGORY_PERSONAL", "IMPORTANT", "INBOX", "Label_1989028747625928812"]
+---
+Deconstructing Fears, Avoiding the Big Surprise, & Moreread on read time 4 minutes Here are 5 interesting ideas to spark your curiosity heading into the weekend. Today at a Glance:- Question: Deconstructing fear.
+- Quote: Change your mind.
+- Framework: Avoid being the turkey.
+- Tweet: Bend it like Beckham.
+- Article: Marginalian resolutions.
+Today's Newsletter is Brought to You by The Curiosity Chronicle is all about becoming a better version of yourself. But this quest for self-improvement can leave you feeling overwhelmed. I’ve learned that working on your mental health is a critical part of the self-improvement journey. Ready to take control of your mental health, but not sure where to start? With BetterHelp, you can get matched with a licensed therapist in as little as 48 hours and start your journey to better mental health. Get answers and support from the comfort of your own home — no more driving to appointments and waiting weeks or months for availability. BetterHelp offers convenient tools like scheduling weekly live sessions via phone, video or live-chat; plus messaging anytime you need additional support throughout your therapy journey. You're also able to switch therapists if the first one isn't the right fit — no strings attached. Give therapy a try without the hassle or headache so you can focus on what matters most: getting the help you deserve.
+Question you need to ask:What am I not doing right now because of fear? “We suffer more in imagination than in reality.” — Seneca Fear plays dangerous games with our minds. It distorts our ability to think clearly and rationally about a decision. When we feel fear, we: - Overstate the negative consequences of our decisions or actions.
+- Completely ignore the potential positive consequences and the costs of inaction.
+The human tendency is to (1) feel fear and (2) run away from it. Deconstruct the fear that is holding you back: - What is the potential downside of action (or inaction)?
+- What is the potential upside of action?
+As Tim Ferriss so aptly covers with his Quote I posted on my wall:"Progress is impossible without change, and those who cannot change their minds cannot change anything." - George Bernard Shaw Changing your mind on the basis of new information is growth. Embrace it as a "software update" to your brain. Framework to avoid the bad surprise:The Parable of the Thanksgiving Turkey"It ain't what you don't know that gets you into trouble. It's what you know for sure that just ain't so." - Mark Twain (maybe) The Parable of the Thanksgiving Turkey comes from The story is simple: A turkey is born on a farm. Each and every day, the turkey wakes up to a friendly farmer, who feeds the turkey, cleans the coop, and scares off any potential predators. For 1,000 straight days, the turkey becomes more and more entrenched in its belief that the farmer is good and will always take care of him. Then on the 1,001st day, which happens to be Thanksgiving, the farmer comes in and kills the turkey to eat it for dinner. Quoting from the book (emphasis mine):
+"Consider that [the turkey's] feeling of safety reached its maximum when the risk was at the highest...But the problem is even more general than that...Something has worked in the past, until — well, it unexpectedly no longer does, and what we have learned from the past turns out to be at best irrelevant or false, at worst viciously misleading."
+The lesson I glean from this story: The "truths" we have grown certain of may not always be true. When we have reached the point of maximum comfort with our reality, we may find ourselves surprised, just like the Thanksgiving Turkey. A question we should all constantly ask ourselves: What do I know for sure that just ain't so? Tweet I found satisfying:This is how you bend it like Beckham...
+Behold the power of a creatively negotiated contract. The headline contract value went down, but by taking a % of all team revenues, the total dollar figure went way, way up. Article I read five times: I was recently referred to The Marginalian by a subscriber and have been going down the rabbit hole on the archives. Exceptional, thoughtful stuff! Refer Friends, Earn Rewards!
+If you enjoyed today's newsletter, please share it with your friends and family! If this email was forwarded to you, consider |

@@ -1,0 +1,93 @@
+---
+subject: "Two by Two: Is Google Pay a product or a business?"
+from: "The Ken <info@the-ken.com>"
+to: ""
+date: 2024-08-30 01:43:09
+labels: ["CATEGORY_PERSONAL", "INBOX", "The Ken"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_8244464457792971031"]
+---
+|
+|
+Two By Two
+Fri, 30 Aug 24
+The most important business stories around you—all visualised as a 2x2 matrix of players, stakes, and winners.
+Good Morning Ishan,
+Here’s what the home screen of Google Pay, India’s second-largest UPI app, looks like.
+Compare it to the home screen of its two biggest competitors, Phonepe and Paytm*.
+| L: Phonepe; R: Paytm |
+Do you sense a pattern? While all of them are payments apps, notice how Paytm and Phonepe have devoted considerable real estate to crossselling and upselling financial products and services like insurance, loans, and rent payments?
+Google Pay doesn’t seem to want to nudge you to do anything other than, well, pay someone. This makes it appear much more focused, functional, and just… cleaner. While Paytm and Phonepe are trying hard to sell you something, Google Pay seems indifferent.
+So, if the home screens of apps are proxies for how companies think about their products, one obvious question that’s worth asking is—is this a sign of an underlying complacency? Is Google Pay vulnerable to disruption from sharper, younger, hungrier competitors?
+It’s what we discuss in the latest episode of Two by Two—Google Pay’s precarious position, and how it stands out as an anomaly.
+Google Pay is India’s second-largest UPI payments app with a market share of 38%, clocking 500+ crore transactions a month. It’s one of the world’s mightiest companies, and yet, we argue that it’s possibly in a vulnerable, strange position. By this, we don’t necessarily mean that it will disappear overnight, but that all kinds of competitors are coming for it. Already, its market share has declined from 44% to 37%. It’s an outpost of an empire that’s fighting a global war. And most importantly, the first wave of UPI is over, and the second phase is starting. UPI itself is changing and going through some transitions, and there are signs that Google Pay won’t be able to keep up.
+To discuss Google Pay’s position, my co-host Rohin Dharmakumar and I invited two incredible guests, both sharp fintech operators, with a wealth of experience building UPI products.
+First, there’s Abhishek Madan, Vice President of Product at Paytm. Abhishek is responsible for building and scaling Paytm’s UPI product, and understands a thing or two about how consumer apps work. In his words, he’s “a creative person who loves making consumer products that people enjoy using”. He had a lot to say about Google Pay, UPI, and everything else, but the part that’ll stay with me is his vivid description of something he calls the “trust exit scam”.
+Abhishek: But what happens in apps nowadays very often, especially apps that have had great success as a consumer product, but are trying to monetise as a business… They’ve sold you trust.
+They’ve said, ‘we are a nice app, come use us to do these things.’
+And then one day, they’ll add a checkbox.
+And you won’t see it.
+In your normal flow, they’ll try to sell you something you don’t want using a big blue button. You’ll click it, then you’ll pay 11 rupees extra, and you’ll say, ‘Fine I paid 11 rupees extra’. But that’s a million people paying 11 rupees extra.
+So these apps take your trust, and then they run away with it.
+I call it a trust exit scam.
+Google has either the moral fibre or the organisational inertia to not do trust exit scams.
+It’s brilliant.
+Our other guest was someone who is building a company that’s actively trying to disrupt UPI. Vasisht S Ravichandran is co-founder at Pop, a new app that is inverting the way we’re looking at UPI and commerce. Vasisht previously also had a stint at Flipkart, where he was Senior Director of Customer Loyalty and Retention.
+And while our conversation this episode was centred around Google Pay, it also went in the direction of understanding UPI, the infrastructure on top of which some of India’s most valuable fintechs are built on.
+Our full discussion went on for nearly 90 minutes, spanning stuff like:
+- How consumers discover, use, and stick to UPI apps
+- Google Pay’s rise and dominance in India
+- The internal organisation of Google Pay that makes it hard to innovate
+Google India’s push and pull with its parent company - Why banks are the zamindars of Indian fintech
+- How the real innovation in UPI is happening outside the apps
+- How commerce is going to disrupt UPI
+- And Google Pay’s real power: trust
+There are multiple ways to participate in Two by Two.
+1. [Subscribe](https://the-ken.com/pricing/?utm_source=newsletter&utm_medium=email&utm_campaign=twobytwo) to The Ken’s Premium subscription tier, then install our iOS, iPad, or Android apps. You have full access to not just all of our podcasts, but also stories, newsletters, and infographics.
+2. [Subscribe](https://podcasts.apple.com/in/podcast/two-by-two/id1757938645) to Two by Two on Apple Podcasts. It’s a monthly subscription, so you can decide after listening to four episodes whether you want to renew and stay a subscriber.
+3. [Subscribe](https://open.spotify.com/show/7tyBxrqQYwQAFQPr6ACsMn) to Two by Two as a free subscriber on any podcast platform. Each week, you can listen to a 30-minute version of our new episodes.
+4. [Subscribe](https://the-ken.com/newsletters/two-by-two/) to the Two by Two weekly newsletter for free. Each week, you’ll get to read a “storified” version of that week’s podcast episode plus get to participate in The Ken’s various subscriber-driven initiatives.
+Early in our discussion, when we were talking about Google Pay’s entry into India, Abhishek said that he believes Google’s heft and allure was welcomed by the National Payments Corporation of India (which was rolling out UPI at the time), because it granted the project an enormous amount of legitimacy.
+Abhishek: If you were an NPCI product manager in 2017 and Google said, ‘I will build on your rail’, you would be the happiest person on Earth. Because you have this unproven technology that you don’t know can replace NEFT and IMPS, and the world’s most important technology company has come and said, ‘I will back you.’
+I would do anything to make that happen.
+Rohin: And there’s a subtle context to that as well, right? Which is: you have to see NPCI and UPI as an attempt to counter the splintering of the Indian fintech space into closed loop wallets, systems, etc.
+So therefore, the Indian government, and Nandan and all his supporters wanted a player which was not… And then, there’s history behind why Paytm was not an early supporter too, because incumbents are not going to support a disruptive technology.
+And Google was not just a large foreign player, but it was also someone who was, like, an unknown. So at Google’s scale, if you could get it to kind of support UPI, then you have this strong player with virtually unlimited pockets, which is going to make your UPI successful, right?
+So the politics of it absolutely really work.
+Vasisht: Something that ONDC is still struggling with.
+At one point, Rohin used a colourful metaphor to describe how Google Pay was practically an anomaly in India.
+Rohin: My point is that Google Pay is not a business. It does not operate in the same way that, for instance, a Phonepe does.
+Praveen: Can you explain that a little bit more?
+Rohin: Who’s the CEO of Google Pay? What is Google Pay’s objective in India? Does it want to win market share? Have you seen someone come and say that ‘this is our product line’?
+I mean, we talk about Zomato. We talk about Paytm. We talk about Phonepe. Who do you associate with them?
+The leadership.
+What is Google Pay’s leadership in India? When did you last see it? What we do know is that Google Pay is a successful product built inside this giant organisation called Google, run by Google staffers and executives. And their success, though linked to Google Pay, is not linked at the hip.
+It’s not sink or swim.
+Everyone who works at Phonepe or Paytm knows that if they don’t succeed… the company goes under. But for Google Pay, if you do a really great job, perhaps you get promoted to a different country.
+Google Pay is like this giant dolphin swimming in a sea of sharks.
+It’s an anomaly.
+It’s not a business.
+Abhishek: I think one thing you said was very interesting, which is that Google Pay is a product not a business. And incidentally, UPI is also just a product not a business.
+Of course, this just led to another spirited discussion on how UPI is going to be disrupted, and how applications and companies are attempting to monetise it, today and tomorrow.
+We made a ton of analogies in our conversation, from dolphins to zamindars to much more, but one of the sharpest observations came from Vasisht, who compared Google Pay and Phonepe’s relative positions to Amazon and Flipkart. Here’s how he described it:
+Vasisht: Basically, the difference between Google Pay and a Phonepe—probably the closest analogy that I can think of—is like the one between Flipkart and Amazon, right?
+Rohin: Which one is Flipkart?
+Vasisht: Flipkart is Phonepe and Amazon is Google Pay. If you look at the market shares, it’s pretty much almost the same, right? Flipkart, has a 60% market share in Indian e-commerce and Amazon being 30–40%.
+Rohin: Why did you say they’re similar?
+Vashisht: What leads to this market share is where the similarity lies. Google Pay, because of the clean nature of the app, and the no-nonsense treatment of its homepage, and no tickers running around, no one shouting at you saying take my insurance and all that…
+Rohin: They don’t want to make that money.
+Vashisht: And it attracts a certain type of user who comes to fulfil what they want on the app, and then leave. Very similar to Amazon.
+And hence, these two apps attract majorly metro tier-one users, right?
+Whereas Phonepe is similar to Flipkart.
+It’s like, the math will add up, right?
+Tier-two plus, where Flipkart operates, you can cross sell… you tell them that the basket is there, add one more, get 200 rupees off.
+Similar to Phonepe, you know. Banner ads, insurance loans…
+Tier-two plus, it works.
+And you look at the country, the split of the market… it is 30–70, right?
+That is how the country, and the market, is split.
+And I see huge similarities in the way e-commerce is split between these two players and how Google Pay and Phonepe are also split.
+Praveen: That’s a very interesting way of putting it. Nobody has drawn an analogy that way.
+*Paytm founder Vijay Shekhar Sharma is an investor in The Ken
+The next episode of the Two by Two podcast will go live on all top podcast platforms next Thursday. If you’d like to listen to the [full, subscriber-only version](https://the-ken.com/podcasts/two-by-two/?utm_source=newsletter&utm_medium=email&utm_campaign=twobytwo), you should pick up The Ken’s Premium subscription and stream it on our iOS, iPad, or Android apps. A Premium subscription will give you full access to not just our podcasts, but also all our longform stories, newsletters, and infographics.
+Please write to twobytwo@the-ken.com if there’s anything you’d like to share with us, or leave a comment on our onsite edition.
+Regards,
+Praveen Gopal Krishnan

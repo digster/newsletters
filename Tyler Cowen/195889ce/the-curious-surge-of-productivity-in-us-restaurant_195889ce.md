@@ -1,0 +1,10 @@
+---
+subject: "The Curious Surge of Productivity in U.S. Restaurants"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2025-03-12 04:29:00
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+We document that, after remaining almost constant for almost 30 years, real labor productivity at U.S. restaurants surged over 15% during the COVID pandemic. This surge has persisted even as many conditions have returned to pre-pandemic levels. Using mobile phone data tracking visits and spending at more than 100,000 individual limited service restaurants across the country, we explore the potential sources of the surge. It cannot be explained by economies of scale, expanding market power, or a direct result of COVID-sourced demand fluctuations. The restaurants’ productivity growth rates are strongly correlated, however, with reductions in the amount of time their customers spend in the establishments, particularly with a rising share of customers spending 10 minutes or less. The frequency of such ‘take-out’ customers rose considerably during COVID, even at fast food restaurants, and never went back down. The magnitude of the restaurant-level relationship between productivity and customer dwell time, if applied to the aggregate decrease in dwell time, can explain almost all of the aggregate productivity increase in our sample.
+That is from [a new paper](http://marginalrevolution.com?action=user_content_redirect&uuid=4f8dcd6aff65a30acf4d935d32ffc909f45d5639921344c9cdc60459e150cda3&blog_id=42693868&post_id=90227&user_id=262258391&subs_id=225460721&signature=1f206ee6488df137a0edc92da7444d4a&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly93d3cubmJlci5vcmcvcGFwZXJzL3czMzU1NSNmcm9tcnNz&email_id=f15b1be86423d0579b13b9736f937356) by

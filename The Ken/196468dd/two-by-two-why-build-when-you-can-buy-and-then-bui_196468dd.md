@@ -1,0 +1,60 @@
+---
+subject: "Two By Two: Why build when you can buy and then build? Here come the search funds"
+from: "The Ken <info@the-ken.com>"
+to: ""
+date: 2025-04-18 01:40:22
+labels: ["CATEGORY_PERSONAL", "INBOX", "The Ken", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_8244464457792971031", "UNREAD"]
+---
+|
+|
+Two By Two
+Fri, 18 Apr 25
+An abridged, narrative version of the latest episode of Two by Two, The Ken’s premium weekly business podcast..
+Good Morning Ishan,
+Before we get to today’s edition, I have a special message for you. The Ken is hosting a live event on Monday, 21 April, at Bangalore International Centre. It’s called Building Unique Career Lattices.
+I have always looked at my career progression in a conventional way. You start at the entry level, spend a few years in that role, and gradually work your way up.
+But that concept is now in tatters. It no longer makes sense for me to think in terms of conventional career ladders. I encounter mid-level professionals whose career spans are shortened. They tell me how their work environments are changing, which usually means that their organisational structures are shifting in unpredictable ways.
+If the old way of planning our future is out, then how should we think about careers?
+I expect to get the answer to that question on Monday, at our live event. I think it’ll be an eye-opening discussion, and I really hope you’ll be there too.
+[Get your tickets](https://the-ken.com/event/building-unique-career-lattices/?utm_source=twobytwo&utm_medium=email&utm_campaign=bfo_event) and join me on Monday. I’ll see you there.
+Okay, now onto our edition on searchers and search funds.
+You’re an ambitious, driven entrepreneur who wants to run a business, but you don’t want to take the long, winding path to build a company over decades. Instead, you would be happy to take over an already successful operation and take it to the next level.
+You set out on the search for the perfect business and raise some capital from investors. You find the perfect enterprise to take over and go ahead with your investors’ help.
+This seems like an arrangement that sounds too good to be true, but it is very much a real thing. They’re called search funds. In at least a couple ways, search funds are different from standard venture-capital funds and the startups they invest in, as you can see in this week’s 2×2 that you can find above.
+Search funds are fascinating and still relatively unknown in India. Our hosts Rohin Dharmakumar and Praveen Gopal Krishnan had plenty of questions for this week’s guests:
+- Anurag Sinha, managing partner of Milestone Search Capital
+- Rehan Netarwala, founder and managing partner of Okintek Capital
+Both of them are “searchers” on the lookout to acquire and grow a great SME.
+If you are subscribed to The Ken’s Premium plan, you can use The Ken’s app to [listen to the full episode](https://the-ken.com/podcasts/two-by-two/why-build-when-you-can-buy-and-then-build-here-come-the-search-funds/).
+If you are a free or basic subscriber, you can:
+[Subscribe](https://the-ken.com/pricing/?utm_source=newsletter&utm_medium=email&utm_campaign=twobytwo) to The Ken’s Premium subscription tier, then install our iOS, iPad, or Android apps to start listening. This will get you access to more than just Two by Two. You will also be able to read our long-form stories, premium newsletters, and visual stories.
+[Subscribe](https://podcasts.apple.com/in/podcast/two-by-two/id1757938645) to Two by Two on Apple Podcasts. It’s a monthly subscription, which gives you access to all of the new and previously released premium subscriber episodes.
+The concept of search funds is relatively new to Indian shores, even though the model was conceived in [1984](https://www.gsb.stanford.edu/experience/about/centers-institutes/ces/research/search-funds). During the discussion, Anurag and Rehan pointed out that very few people are running search funds in India.
+Praveen: How many people are doing this right now?
+Anurag: At this point in time, there are three people, including the two of us, who are live [in India].
+PGK: Three?
+Anurag: The third one is a partnered search based out of Bangalore.
+There are at least five to six more people looking to do this, at least three more people raising capital as we speak. There is clearly a lot of interest now.
+By the end of this year, we will see at least five more search funds go live.
+Once investors release the first tranche of capital, the searcher can cover their costs while they seek out a business to acquire. Once the entrepreneur finds a privately held company and strikes a deal, the second tranche of investment is released, and the entrepreneur takes over as CEO and becomes involved in the company’s day-to-day operations.
+Before you think this sounds too easy, take into account that the search itself takes a lot of time, and entrepreneurs often don’t make progress beyond this step.
+Even though the businesses acquired by search funds tend to be small enterprises, there’s still immense appeal because they’re generating cash from the get-go.
+Anurag: The bell curve of the returns that search funds make is not as wide as a VC fund.
+Typically, in VC funds, you would say that the range is probably 10–30%. Depending on the quality of the VC fund that you end up investing in, on average, it’s probably 18–19%, somewhere around that.
+In private equity, the bell curve is much slimmer. You’re almost sure that you’re going to get anywhere between 15% and 20%.
+In this case (search funds), the bell curve is almost as slim as in PE. It’s maybe slightly wider than that, but it sits more to the right.
+So the range for search funds is 25–35%, globally, on average.
+One thing that is certain is that with PE and VC funds, you’re going to make a higher return, but the likelihood that you will really hit the ball out of the park is much lower.
+So you’re not going to see a VC kind of return in any way [with search funds]. You probably won’t see a Flipkart-like story. Simultaneously, you’re not going to be writing off half of your investments like VCs do, because these are all cash-generating assets on day one.
+The reason is quite simple. The businesses being acquired by search funds are not big, exciting ventures. They are often family-owned, stable SMEs.
+Entrepreneurs take it upon themselves to grow these operations further. This means their backers get safe returns too.
+Search funds appeal to Indian investors with moderate risk appetites. They’re willing to put their money behind a business that already has a decent track record.
+Rehan: It’s been easier to explain this to Indian investors. We can say: hey, you get the upside of VC-type investments with the downside protection of PE because we’re buying a stable asset.
+There’s so much potential to grow it [the business being acquired]. It’s family-run, and it’s traditionally run. You know they’ve not gotten professional management.
+You have the ability to take that asset, scale it up, and get as close to VC-type returns as possible.
+Like I said in the beginning, search funds are a very interesting prospect, and they’re starting to get takers in India.
+This was just an introduction to an interesting mixture of being an entrepreneur and a VC. The latest Two by Two [episode](https://the-ken.com/podcasts/two-by-two/why-build-when-you-can-buy-and-then-build-here-come-the-search-funds/) explores all of this funding model’s intricacies. Give it a listen and tell us if search funds could be the next big thing.
+You can write to us at [twobytwo@the-ken.com](mailto:twobytwo@the-ken.com) with your thoughts. We’ll be back next week with another episode.
+Regards,
+Hari Krishna

@@ -1,0 +1,36 @@
+---
+subject: "Publishing a website in the Android and iPhone app stores, and the lessons learned along the way"
+from: "Quincy Larson <quincy@freecodecamp.org>"
+to: ""
+date: 2018-04-26 18:32:48
+labels: ["CATEGORY_PERSONAL", "INBOX", "Quincy"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_7697778124671848699"]
+---
+Here are this week's five links that are worth your time:
+
+1. One freeCodeCamp contributor turned his website into a Progressive Web App, then published it in 3 app stores. Here's what he learned along the way (14 minute read): https://medium.freecodecamp.org/7cb3f56daf9b
+
+2. Cracking the system design interview: developer job interview tips from a software engineer at Twitter (9 minute read): https://medium.freecodecamp.org/dda63ed27e26
+
+3. How web tracking works: a developer's guide to tracking tools and your privacy online (6 minute read): https://medium.freecodecamp.org/42935355525
+
+4. Let's learn D3.js: a full video course on the popular JavaScript data visualization library (27 minute watch): https://www.youtube.com/watch?v=C4t6qfHZ6Tw
+
+5. Hackers stole a tech entrepreneur's website from her. Here's the dramatic story of how she pulled off a sting operation to get it back (16 minute listen - you can listen in Apple Podcasts, Google Play, or right here in your browser): https://freecodecamp.libsyn.com
+
+
+
+
+freeCodeCamp.org is a donor-supported nonprofit. Each week our community publishes dozens of videos, articles, and interactive coding lessons. And we're just getting started. Help us create even more coding resources to help you succeed. Join the 3,911 people who support freeCodeCamp.org each month. Set up a tax-deductible donation you can afford at https://donate.freecodecamp.org
+
+
+
+
+Happy coding!
+
+- Quincy Larson
+
+Teacher at freeCodeCamp.org
+
+
+If these emails aren't worth your time, you can turn them off: https://www.freecodecamp.org/u/ishan.mail@gmail.com

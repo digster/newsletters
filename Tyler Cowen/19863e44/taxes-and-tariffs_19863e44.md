@@ -1,0 +1,12 @@
+---
+subject: "Taxes and tariffs"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2025-08-01 04:29:19
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+Here is an NBER paper from May that I do not think I covered:
+We evaluate the aggregate effects of a change in tariffs on the US and world economies when tariff revenue is used to enact fiscal reform. Our model combines a standard international model of fiscal policy with taxes and a dynamic model of trade participation and tariffs that allows for uncertainty and transitions. We consider effects of permanent and temporary tariffs–with and without retaliation–when tariff revenue is used to reduce taxes on capital or labor or to subsidize investment. Compared to a lump sum redistribution, using tariff revenue for these reforms always boosts economic activity. Key to our analysis is the effect of trade dynamics on import substitution, such that tariff revenue after an increase in tariffs is higher in the short run than in the long run. When increasing the tariff by 20 percentage points, the revenue raised is largest when tariffs are temporary, unilateral, and used to subsidize investment, increasing by about 2 percent of GDP. This case also yields a large temporary increase in the trade balance. We find the welfare-maximizing unilateral tariff is close to 18 percent when tariff revenue is used to subsidize investment compared to 0 percent under a lump sum redistribution. We also find cutting capital taxes does not generate as much growth as introducing an investment subsidy since tariffs raise the price of investment substantially.
+That is from
+I'll say it again: tariffs bad, bad, bad! But they are bad because they are a revenue grab, which will lead to consumption taxes being a new and major source of enhancement of government power and influence. Current policy may well evolve into some sick, distorted version of a VAT, with larger government to boot. But from a normal "Democratic Party, economics PhD view of government," there is nothing so especially terrible about tariffs, at least not compared to other modes of taxation.

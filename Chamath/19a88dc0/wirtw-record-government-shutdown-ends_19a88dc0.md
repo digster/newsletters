@@ -1,0 +1,27 @@
+---
+subject: "WIRTW: Record Government Shutdown Ends"
+from: "Chamath Palihapitiya <chamath@substack.com>"
+to: ""
+date: 2025-11-15 17:50:41
+labels: ["CATEGORY_PERSONAL", "Chamath", "INBOX", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "Label_4017391144830520384", "INBOX", "UNREAD"]
+---
+|
+What I Read This Week: a summary of the content that I consumed in the previous week…
+1) Record Government Shutdown Ends
+[The U.S. federal government reopened after a 43-day shutdown when the Senate passed a funding bill by a 60-40 vote on November 10](https://substack.com/redirect/ac98b433-5b19-423f-9980-933caa17b7f2?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o), and the Donald Trump administration signed it into law on November 12.
+The deal took the Senate 15 tries to obtain the 60-vote threshold, finally ending the longest shutdown in US history (43 days). The legislation restores funding for most agencies through January 30, 2026.
+Roughly 1.4 million federal workers have gone without pay for six weeks, while half of them were required to keep working without paychecks. The new continuing resolution includes language that reverses the layoffs, “...[any agencies that issued Reduction in Force (RIF) notices between October 1, 2025 and November 12, 2025 to issue notices to rescind the RIF notices](https://substack.com/redirect/eef5f3fc-eb65-41b7-990a-69407c33bd87?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)…”
+The root of the shutdown was a standoff between Democrats demanding an extension of ACA health-insurance premium subsidies which were temporarily expanded under the American Rescue Plan Act of 2021, while Republicans insisted on reopening government first. The deal that was accepted offers only a promise of a Senate vote on the subsidies in December, but no guarantees.
+2) Blue Origin: Landing a New Milestone
+[Blue Origin landed a New Glenn booster on their second attempt](https://substack.com/redirect/dabb1fed-1db4-45b8-a649-244f07166817?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o), marking its first successful recovery of a heavy-lift rocket. The mission lifted off from Cape Canaveral on November 13 and placed two NASA satellites on a trajectory toward Mars while the booster touched down on a drone ship in the Atlantic. This makes Blue Origin the second private company to have recovered an orbital-class booster at this scale, after SpaceX.
+Blue Origin launched many rockets before this major milestone, but they were all suborbital New Shepard rockets. The New Glenn rocket, which is an orbital-class vehicle, had its first flight in January 2025 which got the payload to orbit. However, the ambitious attempt to recover the first-stage booster failed, making this recent landing a major step forward.
+The next test is to reuse itself. One landing does not prove economics. Blue Origin will need to demonstrate refurbishment speed, flight durability, and cost competitiveness. If it can do that, the launch market moves closer to a multi-provider heavy-lift ecosystem rather than a single-dominant-player model.
+3) Valve: Expanding on Hardware
+[PC gaming giant Valve revealed three new products](https://substack.com/redirect/4ab78d36-8b98-4678-a888-58687c91fd68?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) to rival Nintendo, Xbox and PlayStation.
+Valve is a privately held platform company that operates Steam, the world’s largest digital distribution platform for PC gaming with about 69M daily active users, giving the company a scale that aligns with the new hardware push.
+The lineup includes the Steam Machine console-style system that can also be a PC, the Steam Controller, and the Steam Frame standalone VR headset.
+Each is built around SteamOS and Valve’s existing library of PC games, aiming to extend Valve’s hardware footprint beyond the handheld success of the Steam Deck. The Steam Frame is a high-end, wireless VR headset with eye-tracking that allows for Foveated Streaming.
+Foveated Streaming is a new feature breakthrough that optimizes detail where your eyes are looking, and typically offers over a 10x improvement in image quality and effective bandwidth. They also added a new open-source translation layer called FEX which enables x86 Windows games to run on the headset’s ARM processor, including Android.
+Taken together, this set of new hardware products and software unlocks a strategic shift for Valve that creates a full ecosystem that connects directly into its online gaming infrastructure.
+[Anthropic Invests $50 Billion in American AI Infrastructure](https://substack.com/redirect/8e1e3cc5-b4ba-4e95-ad70-b84bc017fe0b?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)(Anthropic)[Has Google Quietly Solved Two of AI’s Oldest Problems?](https://substack.com/redirect/852c6bb9-ad06-42fb-a8a3-e4e0b0d7e181?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)(Generative History)[Michael Burry of ‘Big Short’ Fame is Closing His Hedge Fund](https://substack.com/redirect/22b61bfa-d693-4807-a343-cb41ef9622e5?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)(Reuters)

@@ -1,0 +1,26 @@
+---
+subject: "When influencers tell you what NOT to do"
+from: "The Ken <info@the-ken.com>"
+to: ""
+date: 2023-08-11 02:39:02
+labels: ["CATEGORY_PERSONAL", "INBOX", "The Ken", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_8244464457792971031", "UNREAD"]
+---
+Good Morning Ishan,
+We all know the drill, don’t we? The promise of social media: fame and fortune, even for those without experience or skills telling you what to do. The ones we’ve crowned as “influencers”.
+Today’s story isn’t about them. It’s about the ones who insist that you don’t need that instant protein shake, no matter how many abs it promises to conjure.
+Today, let’s talk about a trend that has spilt over to Youtube and Instagram after brewing for a while on Tiktok (yeah, the banned app in India). It’s a pushback against “influencing”.
+They’re the “de-influencers”. Because Tiktokers worldwide call them “de-influencers”. The ones who break down the allure of products and encourage you to think twice before using that credit card.
+They come with a breath of fresh scepticism in a world where ads dictating what to buy and eat have left us all a little singed. That miracle hair-growth solution? Not so miraculous. The superfood supplement? More food for thought than a boost of health.
+For instance, Revant Himatsingka, aka “foodpharmer”, in a video with nearly 9 million views, cautions you against that innocent-looking slice of bread. Cyriac Abby Philips, a liver-health warrior, is out there busting “pseudo-scientific” practices. And then there’s Tanaya Narendra, or Dr Cuterus, shining a spotlight on sexual health.
+And the audience, which once thrived on influencers’ whims, is suddenly paying attention.
+If you are a de-influencer, though, there’s a twist. You see, if you dare to name and shame a brand, be ready for a legal cavalry charging your way. Call out a product, and your fellow influencers will form a line to discredit your discrediting. And the toll of research does not have exemptions.
+The high price to pay also begs the question: What fuels these “de-influencers”? Is it sheer altruism, or are they paid to pop the bubble of consumerist dreams?
+Or are they just cashing in on fear-mongering? “You won’t get 80 followers if you say that the microwave is perfectly safe to use. But if you say microwave will give you cancer, you’ll get hundreds and thousands of followers right away,” says Krish Ashok, aka “masalalab”.
+Shivani, the author of today’s fascinating story, seeks the answers from the horse’s mouth. It’s a free read: [https://the-ken.com/story/whats-in-it-for-influencers-when-they-choose-to-fight-the-hype/](https://the-ken.com/story/whats-in-it-for-influencers-when-they-choose-to-fight-the-hype/?utm_source=daily_story&utm_medium=email&utm_campaign=daily_newsletter) [10-minute read]
+Keep trending,
+Sumit Chakraborty
+[sumit@the-ken.com](mailto:sumit@the-ken.com)
+P.S.: Nearly seven years after starting as India’s first subscriber-only business-news publication, The Ken is embarking on an even more ambitious journey following the close of our ₹16 crore (US$2 million) Series B funding. [Dive in](https://the-ken.com/blog/the-ken-closes-2m-series-b-funding/) for the finer details of our goal to become a lasting organisation.
+What you just read is the personalised daily introduction to The Ken's story. Written by a different person each day. Often insightful, sometimes witty, and very rarely boring. Someone sent this to you? [Sign up for free](https://the-ken.com/?modal=register&utm_source=footer&utm_medium=email&utm_campaign=morning_email_ind). [Dont like these? You can unsubscribe](https://link.the-ken.com/asm/unsubscribe/?user_id=2349339&data=1qL4kyhusGHq4gvH3s-kz1aK847KE3T_LTmuDoFHtA1oMDAwdTAwMNRpe0NKC1J_K2dsRLdIOfs7G7hKuVNX-rNV4e3ckDY5kLGAUbGOguGXFjMZ4CsFLlZsc6qyrroo6evpgsQs_06oZloakQ0EECgxb_7_rsJeS2_SYmBv5fmuUIyBtFjrx-G53VL8-eUPoBjisowcl7m93eAjnm4TAat2mu5euO-zAIIdca81-RCXryXwcEY_CGT5n18PeRxzROwgZMfX5aVVuQ0PWLFcQrOtEVjfZzKDBT9_3SZ9sy1KIOMp_SbBpehxShz_I2Aqbcj0tdjCDAy80zVyNITrWCqmsPz8ptS4qLY3ZTX2XNkuSseZW8e-DLQKDafuDxni92IoVmWgVrj_Rlgb-PXEB1SKsF8t8rvtcSH4EaBv8SIy_dKqq4ViwxrLzs9NqQk6w4iwDtD5PVhrwD-3ddXuPbGCjcJmo0uLez-ZNL3Hyf0hJcKcub7cGZflTT6caufP9xseFShiBjyKbjyImur1GPmtg_vwpnReqjSOhE-YPkOLXjvNncyqKgH1zRZUF_M9uJCo6cL0u4w=) Dont want to hear from us again? [ Unsubscribe from our emails here](https://link.the-ken.com/asm/?user_id=2349339&data=NiauIA1GKr311LbzTk7e2LfW_nwRffG57kD5VbXJ_-RoMDAwdTAwMO9RT9VuSgTEedga8sSYrPm33dIlHnf6AKncIKdhYxId7J_zNuTm9da4mv9rDFBfY78PbVXjB8DewkI-ei6Y4w88EMiZL438dy9LcQzktpLZHYnRQtVCS2bHcAkGrNr1RkIiAW_T6zCzzoD42Ruw070dGewMy9_Sll0NafxGLp8mTg2lXf7kxh0po9xczPOU2PU_jHdtgvTZbyvhLbq5TX6afYnu2pROwO4FzOyZOFJ_rMnqJj1m9UTtQKk8IKR4s-yiBmehCFeFM6hmyz7X8ZDbI0DhSkgdrp0xHeX615_XVwrRcSN5ZQHXa8tnke6zVqO05MH2-7BwFses0cvqN2dGV1DP3hi0g_YIpyyshDfRezfG0pDVgXNNEE4V8j2EFgukUboGwMNK3aRWNwqGsc9wrkIQH4y86XaSEKJqik8qWi7B7UofJjk4bdiJQ1FHCL3jsbi4nXhgOP0eMxzhf9-xWiPrD3N0Gnz1Na2F5cRpmvkx5o5qzfAHi9s8QgjF9Q==).
+Something wrong? Tell us at [support@the-ken.com](mailto:support@the-ken.com)

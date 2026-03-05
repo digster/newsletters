@@ -1,0 +1,28 @@
+---
+subject: "We're Living Brave New World, Not 1984"
+from: "Brian Klaas <brianklaas@substack.com>"
+to: ""
+date: 2025-04-08 11:24:34
+labels: ["Brian Klaas", "CATEGORY_PERSONAL", "INBOX", "UNREAD"]
+label_ids: ["Label_1599487573263287548", "CATEGORY_PERSONAL", "INBOX", "UNREAD"]
+---
+|
+Thank you for reading The Garden of Forking Paths. Much of this edition is for paid subscribers only, so please consider upgrading for just $4/month to fully unlock nearly 200 essays from the archive and to support my writing. I rely exclusively on reader support and your paid subscriptions make my writing sustainable. You can also support my work by buying my award-winning book: [FLUKE](https://substack.com/redirect/6f9c847e-5a70-4766-9245-efa3408be8b8?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o).
+In the mid twentieth century, two Englishmen produced vivid—but sharply contrasting—literary depictions of authoritarian dystopia.
+In 1932, Aldous Huxley published Brave New World, in which the future masses love their mindless oppression, blissfully drifting through life while dependent on artificially induced doses of happiness delivered by ingesting a drug called Soma. Seventeen years later, George Orwell published 1984, envisioning a dictatorial jackboot surveillance society, in which humanity is controlled through external force under the ever-watchful gaze of Big Brother.
+The two novels are often equated as similar depictions of future dystopia, but their warning is radically different. One is the vision of the raw power of an iron fist; the other of happy minds willingly captured with a brainless smile.
+And yet, the vision from Brave New World is arguably more insidious because it is largely invisible and self-imposed. Jackboots can be resisted, Big Brothers toppled. But how can we spark a revolution when the oppression is coming from ourselves?
+As Neil Postman [astutely summarized it](https://substack.com/redirect/bbb0b85f-a614-4789-add7-35cc64f1f268?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o):
+In Huxley’s vision, no Big Brother is required…people will come to love their oppression, to adore the technologies that undo their capacities to think…
+What Orwell feared were those who would ban books. What Huxley feared was that there would be no reason to ban a book, for there would be no one who wanted to read one. Orwell feared those who would deprive us of information. Huxley feared those who would give us so much that we would be reduced to passivity and egoism.
+Orwell feared that the truth would be concealed from us. Huxley feared the truth would be drowned in a sea of irrelevance. Orwell feared we would become a captive culture. Huxley feared we would become a trivial culture, preoccupied with some equivalent of the feelies, the orgy porgy, and the centrifugal bumblepuppy. As Huxley remarked in Brave New World Revisited, the civil libertarians and rationalists who are ever on the alert to oppose tyranny “failed to take into account man’s almost infinite appetite for distractions.”
+In 1984, Huxley added, people are controlled by inflicting pain. In Brave New World, they are controlled by inflicting pleasure. In short, Orwell feared that what we hate will ruin us. Huxley feared that what we love will ruin us.
+Despite a deluge of depressing news produced by [powerful and malicious idiots](https://substack.com/redirect/b9340a3a-9715-434e-b6d6-bb7fe7d180d8?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o), our modern world remains full of awe-inspiring beauty, kindness, and abundant proof that our species is capable of ingenuity, goodness, and moral decency. We do not live in dystopia. But we are lurching toward it, and our political and cultural failings are a synthesis of these two disturbing visions from the first half of the 20th century.
+We are living, to an increasingly alarming degree, what Orwell and Huxley warned about.
+Authoritarians are ascendant—crushing dissent, governing through fear, disappearing people from the streets to send them to a theatrical zoo of dehumanizing cages in El Salvador. They may not force people to say that 2+2=5, but [hurricanes can be redrawn by sharpies](https://substack.com/redirect/47394e76-c450-4a50-b02e-41b4bebdecb4?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) and history’s injustices can be rewritten, with [tragic lessons reduced to an anodyne husk](https://substack.com/redirect/bb016f0a-08b9-4c06-b2ff-ab34050ddd7a?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o). The Great Depression, according to the Cult of Trump, was caused [not by tariffs, but by their removal](https://substack.com/redirect/75277ffb-5980-43f8-9a44-68a7b6d1bcbe?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o). Tariffs, it turns out, are the path to prosperity, not ruin—and we have always been at war with Eastasia.
+What is most depressing about these modern incarnations of Orwell’s prophecies is not the ruthless iron first of government coercing us, but the fact that one has largely been unnecessary.
+Perhaps Huxley’s warning was more astute: authoritarian dystopia can be imposed not just by the heels of jackboots crushing heads, but by the titans of modern Soma capturing willing minds. Understanding the difference is crucial, because the same symptoms can be caused by many different diseases—and to treat them most effectively, we need to get the diagnosis right.
+Are we fighting Big Brother or Soma?...
+Subscribe to The Garden of Forking Paths to keep reading this post and get 7 days of free access to the full post archives.
+| Subscriber-only posts and full archive | |
+| Post comments and join the community |

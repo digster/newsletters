@@ -1,0 +1,265 @@
+Post       : Embeddings &#8211; Part 2
+URL        : https://janav.wordpress.com/2023/12/02/embeddings-part-2/
+Posted     : December 2, 2023 at 4:45 pm
+Author     : Jana Vembunarayanan
+Tags       : LLM, Machine Learning
+Categories : Computer Science, Mathematics, Statistics
+
+This is the 9th post in my series on building a toy GPT. For better understanding, I recommend reading my earlier posts ( https://janav.wordpress.com/ )  first.
+
+Word embeddings ( https://janav.wordpress.com/2023/11/23/embeddings-part-1/ )  convert words into fixed-length numerical arrays. Each number in these arrays corresponds to a specific characteristic of the word, such as its association with a place, person, gender, or concept.
+
+What does it take to build a simple embedding with two features?
+
+I'm going to use a list of 1,165 Indian names ( https://github.com/MASTREX/List-of-Indian-Names/blob/master/2.%20First.txt )  to make a name generator. We'll use a simple neural network for this. The main goal isn't to make an amazing name generator, but to get a feel for how the 2D embedding gets filled up and to understand the steps in building that embedding.
+
+This post is entirely based on my learnings from Andrej Karpathy's Makemore ( https://www.youtube.com/watch?v=TCH_1BHY58I&ab_channel=AndrejKarpathy )  lecture.
+
+It's always a good habit to examine a few rows from your input dataset. Here are the first 10 names.
+
+https://janav.files.wordpress.com/2023/12/image-3.png
+
+We need to answer three important questions before designing the neural network.
+
+What is the vocabulary size? Since this is a character-level language model, our vocabulary will consist of lowercase a-z characters (we will normalize all names to lowercase) plus a dot character to indicate the start and end of names. Therefore, the vocabulary size is 27.
+
+https://janav.files.wordpress.com/2023/12/image.png
+
+What is the context length? The context length refers to the number of character inputs we will use to predict the next character. Since we are using the previous three characters as input to predict the output, our context length is three. For example, the input and prediction for “Abhishek” is shown below. 
+
+https://janav.files.wordpress.com/2023/12/image-2.png
+
+What is the embedding size? Word embeddings convert words into fixed-length numerical vectors. The embedding size refers to the dimensions of these vectors for each word in our vocabulary. We will use an embedding size of 2 for simplicity, although much higher dimensions are commonly used. The table below shows how each character in the vocabulary points to a randomly embedding vector with 2 numbers.
+
+Embedding
+
+Vocabulary
+Index
+Dimension 1
+Dimension 2
+
+.
+0
+-0.3645
+1.2162
+
+a
+1
+-1.9144
+1.6279
+
+b
+2
+0.7181
+1.0442
+
+c
+3
+-1.1088
+-0.8759
+
+d
+4
+-1.3463
+1.9421
+
+e
+5
+0.263
+0.502
+
+f
+6
+-0.4798
+1.3003
+
+g
+7
+-0.2858
+-1.4829
+
+h
+8
+-0.4605
+-0.14
+
+i
+9
+0.2299
+0.942
+
+j
+10
+0.2699
+-0.1813
+
+k
+11
+-0.433
+-0.0609
+
+l
+12
+-1.558
+-2.6765
+
+m
+13
+-0.274
+0.1358
+
+n
+14
+-0.2624
+-0.1345
+
+o
+15
+0.3338
+0.6387
+
+p
+16
+-0.9437
+-2.8225
+
+q
+17
+1.9061
+0.3633
+
+r
+18
+-0.1051
+-0.1207
+
+s
+19
+0.675
+-1.836
+
+t
+20
+1.7217
+-2.8221
+
+u
+21
+-0.0707
+-0.5534
+
+v
+22
+0.1626
+-0.6026
+
+w
+23
+-0.7808
+-0.2784
+
+x
+24
+-0.1615
+-0.2923
+
+y
+25
+-1.1318
+0.3967
+
+z
+26
+-1.284
+1.198
+
+The neural network will have three layers. The input layer takes in 6 inputs, which is derived by multiplying the context length of 3 by the embedding dimension of 2. These 6 inputs are passed into the hidden layer with 100 neurons. The output layer contains 27 neurons, one for each character in our vocabulary. The image below clearly summarizes the network setup.
+
+https://janav.files.wordpress.com/2023/12/image-8-1.png
+
+The embedding table starts with random values before training the network. Given that the embedding dimension is two, we can easily visualize them on a scatter plot.
+
+https://janav.files.wordpress.com/2023/12/image-7.png
+
+Initially, all the characters are randomly scattered without any clear pattern. After the network is trained, we can see that the vowels are grouped together, meaning their vector dimensions are closer. The dot character indicates the starting and ending of names, so it obtained a unique position. There is something unique about 'w', 'x', and 'q' that makes them stand alone.
+
+https://janav.files.wordpress.com/2023/12/image-1.png
+
+I was in awe when I saw the neural network able to learn the pattern using the names and capture that pattern as embeddings. How is that even possible? The reason is we humans give meaningful names to people. They're not random. The neural network guided by the loss function using backpropagation learns this pattern we humans have created. These patterns, regardless of their complexity, are effectively captured and represented as vector embeddings.
+
+All the machine learning models we have seen so far only update weights and biases. They treat the inputs as constants that don't change. Embeddings are handled differently. Even though we pass them as inputs to the first layer, the embedding values themselves get updated during training. This unique aspect of embeddings getting updated during training was initially confusing to me, so I wanted to highlight it.
+
+The names generated by this simple neural network are shown below. Some of the names like Sidesh, Jeet, and Sushant are proper Indian names. You can find the code that Karpathy wrote to generate names here ( https://github.com/karpathy/nn-zero-to-hero/blob/master/lectures/makemore/makemore_part2_mlp.ipynb ) . All I did was swap American names with Indian names.
+
+https://janav.files.wordpress.com/2023/12/image-4.png
+
+Let's switch gears now by moving from learning embeddings from individual characters to learning embeddings on words. In 2012, Tomas Mikolov, an intern at Microsoft, found a way to embed the meaning of words into vector space. He invented the Word2Vec language model. As the name implies, it converts words into vectors.
+
+The Word2Vec language model learns the meaning of words by processing a large corpus of unlabeled text. None of the words in the Word2Vec vocabulary need to be labeled manually. For example, no one needs to specify that "Virat Kohli" refers to a cricketer, "Chennai" refers to a city, or that "India" refers to a country.
+
+The model is able to make these connections on its own, as long as the corpus it's trained on is large and diverse enough that related words tend to be mentioned together — "Virat Kohli" near words associated with cricket, "Chennai" near words associated with cities, and "India" near words referring to countries.
+
+Word2Vec is a family of models, with Continuous Bag of Words (CBOW) and Skip Gram being specific models. Let’s look at the neural network setup for CBOW. I’m going to use a simple corpus that has 9 lines of text with 100 words in total.
+
+https://janav.files.wordpress.com/2023/12/image-8-4.png
+
+After removing the punctuation, names, and stop words (like 'the', 'and', etc.), the corpus looks as shown below. The ordering of words from the original corpus is still maintained. Let’s call this as processed text.
+
+https://janav.files.wordpress.com/2023/12/image-8-3.png
+
+We need to answer three important questions before designing the neural network — the same questions we asked in the Indian names example. What is the vocabulary size? There are 52 words in the vocabulary.
+
+https://janav.files.wordpress.com/2023/12/image-8.png
+
+What is the embedding size? Word2Vec models usually have an embedding size of 300 dimensions. I used 30 for the number of embedding dimensions in this example. Imagine that each word in the vocabulary has a vector represented by 30 dimensions. I don’t want to paste 1,560 (52 x 30) numbers in this post.
+
+What is the context length? Context length in CBOW requires a bit of explanation. Consider the phrase “wise old king ruled kingdom” that is part of the processed text. Focus on the highlighted word "king". I am using two as the context length here. This means we will pull 2 words to the left of “king” and 2 words to the right of “king”.
+
+These four words ['wise', 'old', 'ruled', 'kingdom'] will be the input to the CBOW model. During training, the model will receive these 4 context words as input, and "king" will be passed as the target word to predict based on the context. So the context length defines how many words before and after the target word to use as input context. Given below are the 5 out of 57 context and target words.
+
+https://janav.files.wordpress.com/2023/12/image-5.png
+
+Why do we need to look at N words to the left and right of the target word? The idea is that words with similar meanings tend to appear in similar contexts. Just as neurons that fire together wire together, words that appear in similar contexts tend to have similar meanings. This is how we humans think and capture thoughts in writing.
+
+By looking at the surrounding context, the neural network can exploit this structure and derive meaning from it using math. The number of context words (N) defines how wide of a context window it has to learn these associations between context and meaning. So by using N words to the left and right, it is trying to learn from broader contexts, not just the immediately adjacent words.
+
+The neural network will have three layers. The input layer takes in 30 inputs. These 30 inputs are computed by taking the 4 context words around the target word, getting each of their respective 30-dimensional vector embedding, and then averaging them. Taking the average of vector embeddings for the four context words (wise, old, ruled, kingdom) is similar to finding the mix of Glenn Maxwell and KL Rahul ( https://janav.wordpress.com/2023/11/23/embeddings-part-1/ ) .
+
+https://janav.files.wordpress.com/2023/12/image-8-2.png
+
+This average embedding with 30 dimensions is passed into a hidden layer with 128 neurons. The output layer contains 52 neurons — one for each word in our vocabulary. This output layer tries to predict the actual target word (“king") based on the context input. The image above clearly summarizes the network setup with the context words going to an averaged input embedding, then passed through two dense layers to predict the target word. The network setup code in PyTorch is given below.
+
+https://janav.files.wordpress.com/2023/12/image-6-1.png
+
+After training this network, I looked at the cosine similarity for some of the words. ‘village’ - majestic’ and ‘throne - cheered’ word pairs have a cosine similarity ( https://www.youtube.com/watch?v=e9U0QAFbfLI&ab_channel=StatQuestwithJoshStarmer )  above 0.5, which indicates that these pairs of words occurred in similar contexts in the training corpus.
+
+https://janav.files.wordpress.com/2023/12/image-7-1.png
+
+This is a toy example to explain how CBOW works. Since this is a very small dataset, we can't interpret too much from this specific cosine similarity table. It simply demonstrates that CBOW is able to capture some semantic similarity between words that tend to appear in similar contexts.
+
+Creativity often comes from thinking in analogies. It's like linking different ideas in cool ways to come up with something totally new. Can machines do that? Word embeddings are super powerful. I was amazed to see what I got for my question "Sachin Tendulkar is to Cricket as X is to Soccer." 
+
+To find out X, I downloaded GoogleNewsVectorsNegative300 ( https://www.kaggle.com/datasets/leadbest/googlenewsvectorsnegative300/ ) , which is a word vector with 300 dimensions for each word generated from a large collection of news articles from Google News. I was stunned to see the top two responses: Lionel Messi and Zinedine Zidane.
+
+https://janav.files.wordpress.com/2023/12/image-6.png
+
+Through simple vector arithmetic: vector['Sachin Tendulkar'] + vector['soccer'] - vector['cricket'], we can identify words that closely align with the resulting vector. These embeddings elegantly encapsulate reality using 300 numbers for each word. Today, there are even more powerful embeddings, such as BERT with 768 dimensions and Ada with 1,536 dimensions, which really grasp the meanings of all the words humans have made up.
+
+Observing the way neural networks fill up the embedding table takes me back to the "wax on, wax off" scene from The Karate Kid. In the movie, Daniel gets annoyed with his teacher, Mr. Miyagi, because he's just asked to clean cars and sand floors. Then, Miyagi shows Daniel that these chores are more than what they seem. They're actually making him stronger and teaching him the basics of self-defense.
+
+In a similar way, with the CBOW word embedding model, the goal isn't just predicting words based on their context. While the neural network works on this prediction task, it's also fine-tuning the numbers that represent words (that is, filling up the embedding table), capturing the meanings and connections of words as it learns from the text data.
+
+http://img.youtube.com/vi/Bg21M2zwG9Q/0.jpg  ( https://www.youtube.com/watch?v=Bg21M2zwG9Q&ab_channel=ChaZacIsa )
+
+It took me nine posts to cover all the foundational elements required to build a toy GPT. The next post will focus on the transformer architecture, which will enable our toy GPT to generate text.
+
+Add a comment to this post: https://janav.wordpress.com/2023/12/02/embeddings-part-2/#respond
+
+-- 
+
+
+Manage Subscriptions
+https://subscribe.wordpress.com/?key=3ba1653235661837fb9cfafd373444b6&email=ishan.mail%40gmail.com
+
+Unsubscribe:
+https://subscribe.wordpress.com/?key=3ba1653235661837fb9cfafd373444b6&email=ishan.mail%40gmail.com&b=SYzAuxa2e6CYQixOIwWEOLqHRKqXMwTjMYVTT_Gmp0HfYUdFktC03z5KwaGCUYeAM_5lxEfy0P_XNNdfH7w4SB7EGK6QNtFNEoVNrmG9Wf0vbMD3Z4daacDO_izMB3Kmt-2dwKy4qMLD2RIvtpKk8Qlb5CwfoL0%3D

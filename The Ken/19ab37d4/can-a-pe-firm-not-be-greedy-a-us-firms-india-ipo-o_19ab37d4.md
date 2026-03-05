@@ -1,0 +1,40 @@
+---
+subject: "Can a PE firm not be greedy? A US firm’s India IPO offers a clue"
+from: "The Ken <info@the-ken.com>"
+to: ""
+date: 2025-11-24 01:32:03
+labels: ["CATEGORY_PERSONAL", "INBOX", "The Ken", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_8244464457792971031", "UNREAD"]
+---
+|
+|
+Make India Competitive Again
+Mon, 24 Nov 25
+What India is doing, will do, and should do—to not just survive but thrive in the chaos unleashed by Trump.
+Good Morning Ishan,
+Long admired as financial wizards, private-equity firms today face an existential question. Is their model broken as exits dry up?
+Globally, PE has [underperformed](https://www.ft.com/content/3b69b835-2d19-4251-9112-a723220bc932) the S&P 500 index over one, three, and five years, according to the consultancy McKinsey.
+If they are viewed as a money trap in developed markets, in India this investor class is emerging as [squeezers](https://the-ken.com/story/lenskart-groww-and-the-doosra-for-ipo-ready-profits/), extracting the utmost value from their portfolio companies before they go public, leaving very little on the table for public investors.
+But Tenneco Clean Air’s IPO last week bucked the trend.
+The auto-components company listed at a nearly 27% premium when many PE-backed Indian companies [have](https://www.reuters.com/world/india/indian-eyewear-retailer-lenskart-lists-174-discount-issue-price-subdued-debut-2025-11-10/) had [weak](https://www.fortuneindia.com/markets/ipo/third-negative-listing-in-a-row-lenskart-ipo-debuts-at-a-discount-after-studds-orkla-india/128020) stock market debuts. The conservatively priced issue of Rs 3,600 crore was entirely an offer-for-sale by promoters and was lapped up by anchor investors. As Axis Capital managing director Ashish Nigam said during the opening ceremony, “It’s the hottest auto IPO in a long time…the anchor book was oversubscribed 170X”. (Earlier in November, Lenskart’s anchor book was oversubscribed 20X.)
+The US parent, Tenneco Group, is owned by the New York-based asset management behemoth Apollo Global Management. That a fund-backed American automotive-components company chose to unlock value on Indian bourses in this manner makes for an inadvertent contrast with Korean automaker Hyundai’s IPO in 2024. The latter dropped 7% on debut, despite high ratings from many brokerages.
+Now, compare this to another auto-ancillary company Sona Comstar, which went public in mid-2021. It didn’t have a stellar listing because it was “[aggressively priced](https://the-ken.com/story/tesla-supplier-sona-comstars-domestic-ev-title-needs-a-two-wheeler-assist/)” (at a P/E multiple of 79 compared to Tenneco’s 29)—courtesy of, you guessed it, its PE backer Blackstone. More than four years later, the share price has appreciated by 75% since its listing but is still well below the peak the stock reached just six months after going public.
+The promoter group, led by Blackstone, has significantly pared its shareholding in Sona Comstar, but it’s still the largest shareholder. Whether it stays invested for long or not, the auto-components story is looking snazzy. And Tenneco’s playbook is one Sona and others may want to study as auto markets turn volatile worldwide.
+Yes and no.
+Most automakers are looking to make India an export hub—from Maruti Suzuki and Mahindra & Mahindra to Volkswagen and Hyundai Motors. In an interview with Mint, Ashish Gupta, brand director at Skoda India, the marquee brand of the Volkswagen Group in the country, [noted](https://www.livemint.com/auto-news/indian-car-exports-suzuki-hyundai-volkswagen-chinese-carmakers-11763630495066.html) that exports from India are playing a key role in Indian and global automakers’ growth stories—with some of the biggest opportunities for exports being in the Global South.
+Ashish Gupta, brand director at Skoda India, the marquee brand of the Volkswagen Group in India, noted in an interview with Mint that exports from India have a key role in growing, and some of the biggest opportunities for exports from India are in the global south.
+“Globally, we have gone out and said, India is our most important market outside Europe,” Gupta said. Volkswagen Group recorded a 20% growth in exports from India in 2024 to around 53,000 units. Its biggest markets for exports include Africa, Asean, Middle East markets and North America.
+Regarding the production of electric vehicles in India, which can also be exported to other markets, Gupta said that all plans are being studied, given that India is set to implement new emission norms from 2027.
+With growth in the Indian car market being volatile, exports are playing a key role for all companies. In the financial year 2025, India’s car market grew by 2% to 4.3 million, while it is expected to end FY2026 at 5%.
+Carmakers shield India’s exports with focus on emerging markets amid Chinese threat, [Mint](https://www.livemint.com/auto-news/indian-car-exports-suzuki-hyundai-volkswagen-chinese-carmakers-11763630495066.html)
+The component suppliers, meanwhile, have been doubling down on the domestic market. Tenneco India, for instance, claims to be “actively establishing its operations in India as an export hub” for the Tenneco Group and third-party OEMs worldwide. Exports contributed less than 7% to its Rs 4,890 crore revenue in FY25, but its 12 manufacturing plants in India have been increasingly sourcing locally.
+In fact, Tenneco, which makes clean air, powertrain, and suspension products for all vehicle types, extends its localisation strategy as far as it can go. It sets up facilities close to the customer. For instance, when in 2018, it was awarded a Volvo Eicher Commercial Vehicle contract in Pithampur, Madhya Pradesh, it set up a new facility right there.
+The international market-focused Sona Comstar has 12 manufacturing plants across four countries, including India, and as much as 71% of its around Rs 3,500 crore revenue in FY25 came from international markets.
+But the company is tweaking its strategy, not just to derisk itself from over-reliance on electric four-wheelers but also to expand its domestic market. Earlier this year, it [said](https://sonacomstar.com/annual-report-24-25/assets/pdf/mda.pdf) it has been exploring broader mobility opportunities and acquired the railway-equipment division of Gurgaon-based engineering multinational Escorts Kubota Ltd.
+Private investors in this sector have come to appreciate that there’s money to be made in the medium-to-long term, unlike many tech-startup investors. Another auto-parts company, Belrise Industries, with nearly Rs 8,300 crore in revenue in FY25, listed in May. It’s one of those rare stories these days where the founder holds a 60% stake and the IPO is not a squeeze-it-all affair. (The promoter group holds more than 70%.)
+Like Tenneco, Belrise is trading at a reasonable valuation, at a P/E of 34X, compared to its peers. The stock has appreciated nearly 65% since its listing five months ago.
+We’ll see if private investors will book profits after the lock-in ends, like they did in engineering-and-technology-services company [Tata Technologies](https://the-ken.com/story/tata-tech-is-cash-rich-and-so-is-its-parent-tata-motors-so-why-the-ipo/), driveline-systems manufacturer Carraro India, fintech One Mobikwik Systems, and others this year. But in the world’s ultra-competitive and third-largest automotive market, it’ll be a pity if private equity gets into a selling binge instead of supporting companies ride out the rough trade winds.
+That’s a wrap for this week. Write to mic@the-ken.com and let us know what you think, or leave a comment on our website.
+Regards,
+Seema
+Check out Make India Competitive Again on SpotifyWant to listen to the audio versions of this newsletter’s editions? It’s now available on Spotify! The Ken is the first organisation to partner with the audio streaming platform to make subscriber-only podcasts available to our Premium subscribers. |

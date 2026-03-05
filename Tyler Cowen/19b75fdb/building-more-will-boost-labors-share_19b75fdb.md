@@ -1,0 +1,10 @@
+---
+subject: "Building more will boost labor’s share"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2025-12-31 19:58:38
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+This paper argues that the decline in the labor share is not driven by the overall quantity of capital, but by its changing composition. Constructing annual macro data for 16 advanced countries over two centuries, we show that, since 1980, the relative decline in buildings capital and the associated increase in real prices of buildings have reduced the labor share because buildings and labor are complements. The decline in the labor share has been reinforced by the increase in machinery capital and the associated decline of real prices of machinery capital because machinery capital and labor are substitutes. Together, these shifts in capital composition account for a substantial portion of the observed decline in the labor share of income.
+Here is [the full article](http://marginalrevolution.com?action=user_content_redirect&uuid=08fc4abcec59236eb7f922f1e95ec42301d3594ca7ff98119d4d0a7fd3f3025f&blog_id=42693868&post_id=92147&user_id=262258391&subs_id=225460721&signature=c5061cd8d6abf8466bf926e348fa1f34&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly93d3cuc2NpZW5jZWRpcmVjdC5jb20vc2NpZW5jZS9hcnRpY2xlL3BpaS9TMDAxNDI5MjEyNTAwMjkyMg=&email_id=494ee41f3fb5ca07e5b832e3e40e5ada) by Jacob Kerspien, Jakob Madsen, and Holger Strulik, via [tekl](http://marginalrevolution.com?action=user_content_redirect&uuid=8ff84098ea72ba1def96461c0a95cb8441bff5efc1cdeb246b3f3069030cb05d&blog_id=42693868&post_id=92147&user_id=262258391&subs_id=225460721&signature=e2056d3f90f3097bf6bf78af86f362de&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly93d3cubmF0aW9uYWxhZmZhaXJzLmNvbS9ibG9nL2RldGFpbC9maW5kaW5ncy1hLWRhaWx5LXJvdW5kdXAvb3Blbi1vci1jbG9zZWQ&email_id=494ee41f3fb5ca07e5b832e3e40e5ada).

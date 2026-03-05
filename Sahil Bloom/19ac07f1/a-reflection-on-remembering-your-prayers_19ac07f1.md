@@ -1,0 +1,84 @@
+---
+subject: "A Reflection on Remembering Your Prayers"
+from: "\"Sahil Bloom's Curiosity Chronicle\" <sahil@sahilbloom.com>"
+to: ""
+date: 2025-11-26 14:09:05
+labels: ["CATEGORY_PERSONAL", "INBOX", "Sahil Bloom", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_1989028747625928812", "UNREAD"]
+---
+Welcome to The Curiosity Chronicle, a newsletter where I provide actionable ideas to help you build a high-performing, healthy, wealthy life.
+Forwarded this email? Join 800,000+ other readers here.
+The 5 Types of Wealth has now sold over 400,000 copies since its release. If you’re ready to rethink success and redesign your life, the book is currently on a huge sale. Get it now, just in time for the holidays!
+Get your time back while your business grows with Kit
+Your audience is growing, but so is your workload. Kit gives you the exact systems professional creators use to scale their expertise without scaling their hours:
+Unlimited automations welcome subscribers and drive sales on autopilot
+Recommendations help you grow your list 2x faster through trusted creators
+Kit App Store connects your tools, so all your data lives in one place
+This Black Friday: Get 50% off the Kit Creator Plan for three months—offer ends Dec 2. Valid for Creator Monthly Plan, up to 20,000 subscribers. Expires Dec 2 at 11:59 PM PT.
+Ever since I was a kid, it's been my favorite holiday. To me, it was always a celebration of here and now.
+My mom embraced the day as a chance to bring people together. Having been introduced to Thanksgiving by a loving host family who took her in when she came to America for college in 1978, it strikes me that she feels a sense of duty to pay that love forward.
+Every year, she hosts a big gathering of family, friends, and a smattering of my dad's students and mentees who don't have local family to visit for the occasion.
+And every year, after the big meal is finished, we choose a prompt and go around the table reflecting and responding to it.
+This year, I'm in charge of that prompt. Here's what I plan to ask:
+What did your younger self pray for that you take for granted today?
+To understand why I chose this, let me take you back to 2021.
+This is something I haven't talked about a whole lot: In mid-2021, my wife and I were on the tail end of a two-year struggle with infertility.
+At the time, we lived 3,000 miles away from our families. I was chasing a default definition of success that wasn't my own. I was drinking too much. Sleeping too little. Stressing about the future.
+I was out of alignment and my external world matched that internal reality.
+Now, flash forward to January of this year.
+I'm a month out from publishing my first book. I'm working on projects that light me up. I'm healthier than I've ever been in mind, body, and spirit. We live close to our families. And, most importantly, we've been blessed with a healthy son.
+Put simply, I'm living the life I prayed for.
+I'm sitting in my office, in deep focus mode on a project for my book launch. My stress levels reflecting the importance of the work at hand.
+The office door flies open, and my 2.5-year-old son, Roman, comes charging through, guns blazing like the crazy toddler boy he is. He starts climbing on the table and sofa, jumping around, and knocking a bunch of things to the ground, smiling and laughing as he does it.
+I try to stay focused on my work, but I notice that the chaos sets in motion a series of negative thoughts:
+Why is he acting like this right now?
+This is so annoying.
+Doesn't he know I'm trying to focus?
+He should really get out of here.
+Transparently, it was a series of complaints.
+But then, I catch a glimpse of a photo on my desk, and it stops me in my tracks.
+It's a photo of me holding my son a few days after he was born. A perfect, sweet smile on his peaceful face.
+And in that moment, staring at that photo, I flash back to that first scene from mid-2021. To a two-year period in my life when my wife and I would have given anything to get some good news.
+I had prayed, every single night, that we would one day have a healthy child.
+And here I was, in this moment:
+Complaining about the exact thing I had prayed for.
+And I know I'm not alone in this experience. You see, too often in life, the things we pray for become the things we complain about.
+Hedonic adaptation is the biological tendency to return to a baseline after positive events.
+Your new reality, however unexpected, sets the baseline floor for your future expectations. And as you look around, those expectations slowly, silently inflate.
+The reality that thrilled yesterday becomes the reality that you bemoan today.
+Your current definition of more becomes your future definition of not enough as you set your sights on the next level that you convince yourself will bring lasting happiness and contentment.
+Think about this in your own life:
+How many times has the thing your younger self dreamed of become the thing you complain about soon after you’ve gotten it?
+The job you'd give anything for becomes the job you resent.
+The house you longed for becomes the house you grumble is too small.
+The car you obsessed over becomes the car you can’t wait to trade in.
+The vacation you prayed for becomes the vacation you get stressed over.
+The person you dreamed of becomes the person you're trying to change.
+That thing you yearned for becomes the thing you can’t wait to enhance.
+In the prologue of my book, I share a beautiful poem by Jean de La Fontaine that brings this idea to life:
+How many folks, in country and in town, Neglect their principal affair; And let, for want of due repair, A real house fall down, To build a castle in the air?
+Your real house is what you have today. It's everything your younger self prayed for. The life you hoped would take shape. The people you wanted to meet. The healthy body you worked for. The opportunities you dreamed would arrive.
+But the castle beckons. The next thing. The upgrade. The 2.0.
+It is the most dangerous trap in life:
+To allow your real house to fall down while you obsess over a castle in the air.
+There’s nothing wrong with ambition. There’s nothing wrong with dreaming big. There's nothing wrong with building for the future.
+But there is something wrong with doing it at the expense of appreciating the present.
+In a 1998 commencement speech at Rice University, author Kurt Vonnegut shared a story about his Uncle Alex, who had an uncanny habit we can all learn from:
+One thing which my Uncle Alex found objectionable about human beings was that they seldom took time out to notice when they were happy.
+He himself did his best to acknowledge it when times were sweet. We could be drinking lemonade in the shade of an apple tree in the summertime, and he would interrupt the conversation to say, "If this isn't nice, what is?"
+So, I hope that you Adams and Eves in front of me will do the same for the rest of your lives. When things are going sweetly and peacefully, please pause a moment, and then say out loud:
+"If this isn't nice, what is?"
+And really, that's what Thanksgiving means to me. It's not about the big. It's about the small hiding in plain sight.
+It's a chance to pause and appreciate the things you prayed for that you take for granted today.
+It's a chance to recognize that you're living the good old days right now.
+It's a chance to stop, look around, smile, and say:
+The 5 Types of Wealth is the compass for your journey to a life of wealth that goes far beyond money. It provides the actionable tools to define, measure, and design your life around the pillars that truly create lasting happiness and fulfillment.
+It will help you find your True North and build your life around it.
+Order now and you'll unlock several new, exclusive bonuses:
+Access to my Most Powerful Life Hacks Ebook: 50 timeless insights for simplifying your world and living well.
+Access to The 5 Types of Wealth Digital Community: Join a vibrant group of like-minded individuals committed to creating a life of comprehensive wealth. Connect, collaborate, and grow together.
+Access to The 5 Types of Wealth Launch Workshop: Get exclusive access to the full recording of this transformative virtual workshop, where I’ll guide you through specific exercises designed to help you apply the principles of the book. Watch it anytime at your convenience!
+I started taking AG1 way before it was trendy or anyone knew about it––in 2011 when I needed to up my health game while playing college baseball. I was one of their first customers and fell in love with it. I took it consistently for over 10 years before asking the CEO for a link to share with family and friends.
+The newly upgraded AG1 Next Gen is backed by four clinical trials and features five clinically studied probiotics, functional mushrooms, and whole food-sourced nutrients to support gut health, immune function, and sustained energy.
+And now it comes in 3 new flavors: Tropical, Citrus, and Berry. All from plant-based sources, with no added sugar or artificial sweeteners.
+AG1 is offering my amazing Curiosity Chronicle subscribers a FREE Welcome Kit including Vitamin D3+K2 and AG1 Travel packs when you first subscribe.

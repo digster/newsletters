@@ -1,0 +1,12 @@
+---
+subject: "Planning sentences to ponder"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2025-12-07 09:48:26
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+Planning assistance caused municipalities to build 20% fewer housing units per decade over the 50 years that followed.
+Here is the full abstract:
+We study how the federal Urban Planning Assistance Program, which subsidized growing communities in the 1960s to hire urban planners to draft land-use plans, affected housing supply. Using newly digitized records merged with panel data across municipalities on housing and zoning outcomes, we exploit eligibility thresholds and capacity to approve funds across state agencies to identify effects. Planning assistance caused municipalities to build 20% fewer housing units per decade over the 50 years that followed. Regulatory innovation steered construction in assisted areas away from apartments and toward larger single-family homes. Textual evidence related to zoning and development politics further shows that, since the 1980s, assisted communities have disincentivized housing supply by passing on development costs to developers. These findings suggest that federal intervention in planning helped institutionalize practices that complicate community growth, with subsequent consequences for national housing affordability.
+Hail Martin Anderson! [The above paper](http://marginalrevolution.com?action=user_content_redirect&uuid=a6d3e77dfc0cbabcab7c972d517e8231ae1589638a91d864b98d5ac0505aeb41&blog_id=42693868&post_id=92004&user_id=262258391&subs_id=225460721&signature=f09d469c7e0526475e6e6d1062fed035&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly93d3cudG9tLWN1aS5jb20vMjAyNS8xMS8wMy9zZWN0aW9uLTcwMQ=&email_id=05addaef54652e9c5170ef4b69da30b1) is by Tom Cui and Beau Bressler, via Brad, and also [Yonah Freemark](http://marginalrevolution.com?action=user_content_redirect&uuid=d691f78c7f40b25855b8fda09a4403ae1861474ba37afa4ccf17849cf576f70f&blog_id=42693868&post_id=92004&user_id=262258391&subs_id=225460721&signature=67cbcd77d4beef0c8cc505eacb9c764d&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly9ic2t5LmFwcC9wcm9maWxlL3lvbmFoZnJlZW1hcmsuY29tL3Bvc3QvM203YXVvYmFiaHMyYw=&email_id=05addaef54652e9c5170ef4b69da30b1).

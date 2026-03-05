@@ -1,0 +1,11 @@
+---
+subject: "Does automation reduce stigma?"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2025-09-18 18:59:31
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+By removing human cashiers, self-checkout registers may alter feelings of embarrassment experienced by customers. Using high-frequency scanner data from supermarkets in the Washington, D.C. area with staggered adoption of self-checkout, we conduct event study analyses on consumer purchasing behavior. On the extensive margin, we find positive but noisy effects of self-checkout adoption on sales of some stigmatized items. On the intensive margin, we show that stigmatized items are much more likely to be purchased at self-checkout than at cashier registers, especially condoms and pregnancy tests. We estimate that customers are willing to pay 8.5 cents in additional time cost for the privacy of purchasing stigmatized items at self-checkout.
+Here is [the full paper by Rebecca Cardinali](http://marginalrevolution.com?action=user_content_redirect&uuid=83a913311d0d90742f676b5692fd75ba60b0bca18526fd903dc2b5a21240644d&blog_id=42693868&post_id=91455&user_id=262258391&subs_id=225460721&signature=5453e054377f465ffa61229aeb7e2357&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly93d3cuc2NpZW5jZWRpcmVjdC5jb20vc2NpZW5jZS9hcnRpY2xlL3BpaS9TMDE2NzI2ODEyNTAwMjQ1OA=&email_id=d7eea8ede6aed76e25310bd276e43d9d)., et.al. Via the excellent [Kevin Lewis](http://marginalrevolution.com?action=user_content_redirect&uuid=5c8958b83c017aa6873d673d621236b5bb2c20e6ec1940abe67d3146a459dc61&blog_id=42693868&post_id=91455&user_id=262258391&subs_id=225460721&signature=eea423477733c5970e911e1ece6c5457&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly93d3cubmF0aW9uYWxhZmZhaXJzLmNvbS9ibG9nL2RldGFpbC9maW5kaW5ncy1hLWRhaWx5LXJvdW5kdXAvc2VjdXJpdGllcw=&email_id=d7eea8ede6aed76e25310bd276e43d9d).
+I even draw distinctions across automated models. For instance, if I have "a stupid question," I am more likely to ask Grok, since I would rather GPT maintain a higher opinion of what I do and do not know.

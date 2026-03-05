@@ -1,0 +1,34 @@
+---
+subject: "The React Handbook - a massive free guide to building web apps with ReactJS"
+from: "Quincy Larson <quincy@freecodecamp.org>"
+to: ""
+date: 2019-01-12 04:35:52
+labels: ["CATEGORY_PERSONAL", "INBOX", "Quincy", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_7697778124671848699", "UNREAD"]
+---
+Here are this week's five links that are worth your time:
+
+1. The React Handbook - a massive free guide to building web applications with ReactJS (116 minute read): https://medium.freecodecamp.org/the-react-handbook-b71c27b0a795
+
+2. How to build your own Tetris game using Python and Pygame (2 hour watch): https://www.freecodecamp.org/news/tetris-python-tutorial-pygame
+
+3. The story of how Christina went from stay-at-home mother of 3 kids to working full time from home as a JavaScript developer (3 minute read): https://www.freecodecamp.org/forum/t/244230
+
+4. Learn MongoDB - the popular NoSQL database - by building a Node.js CRUD app from scratch (75 minute watch): https://www.freecodecamp.org/news/mongodb-crud-app
+
+5. Over the winter holiday, Angela challenged herself to build one coding project each day for 20 days. Her resulting apps are fun and elegant. (6 minute read): https://medium.freecodecamp.org/5cd4c9383f84
+
+This week's quote: "If the automobile had followed the same development cycle as the computer, a Rolls-Royce would today cost $100, get a million miles per gallon, and explode once a year, killing everyone inside." - Robert Cringely
+
+
+freeCodeCamp is a donor-supported nonprofit. Help the community reach our goal of 10,000 monthly supporters. (We're already 41% of the way there!) Become a supporter at: https://donate.freecodecamp.org/?r=e3
+
+
+Happy coding!
+
+- Quincy Larson
+
+Teacher at freeCodeCamp.org
+
+
+If these emails aren't worth your time, you can turn them off: https://www.freecodecamp.org/ue/eZV2T3gHC7IGcwcpYPG64

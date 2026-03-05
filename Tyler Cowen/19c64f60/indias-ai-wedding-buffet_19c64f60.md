@@ -1,0 +1,14 @@
+---
+subject: "India’s AI wedding buffet"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2026-02-16 05:39:32
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+Shruti Rajagopalan [surveys much of the AI policy debate in India](https://marginalrevolution.com?action=user_content_redirect&uuid=f663ae1ae34ef382fa21332edfc837b49c6bd948bfdc2d29fbe994b0196ef25a&blog_id=42693868&post_id=92449&user_id=262258391&subs_id=225460721&signature=6e8ddf04d300d9ee319eaf4ce3624d0d&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly9zcmFqYWdvcGFsYW4uc3Vic3RhY2suY29tL3AvaW5kaWFzLWFpLXdlZGRpbmctYnVmZmV0LWdlbmVyb3VzP3V0bV9zb3VyY2U9cG9zdC1lbWFpbC10aXRsZSZwdWJsaWNhdGlvbl9pZD0xMTgxNTA3JnBvc3RfaWQ9MTg4MDk0MDY1JnV0bV9jYW1wYWlnbj1lbWFpbC1wb3N0LXRpdGxlJmlzRnJlZW1haWw9dHJ1ZSZyPTNvOSZ0cmllZFJlZGlyZWN0PXRydWUmdXRtX21lZGl1bT1lbWFpbA=&email_id=28b902759f2c4542131a8a31e955b21a). Excerpt:
+If there is a single domain where India’s AI ambitions will succeed or fail, it is energy. And energy in India is not a technology problem. It is a political economy problem, arguably the most intractable one the country faces.
+India’s peak electricity demand hit 250 GW in May 2024, up from 143 GW a decade earlier. The IEA forecasts 6.3 percent annual growth through 2027, faster than any major economy. Cooling demand alone could reach 140 GW of peak load by 2030. One number captures the trajectory. For each incremental degree in daily average temperature, peak demand now rises by more than 7 GW. In 2019 the figure was half that. India is getting hotter, richer, and more electricity-hungry simultaneously.
+State-controlled distribution companies have accumulated $83.7 billion in debt because energy prices have been politically distorted for decades. Over 50 GW of renewable capacity sits underutilized. About 60 GW is stranded behind inadequate transmission. The shortage is financial and infrastructural, not resource-based. Without reforming distribution pricing, governance, and grid investment ($50 billion estimated by 2035), new renewable capacity will not become reliable electricity. It will become another line item on a DISCOM balance sheet no one wants to read.
+India’s electricity reaches consumers through 72 distribution companies, 44 of them state-owned, collectively the most financially distressed utilities in the world. Accumulated losses stood at ₹6.92 trillion ($76.89 billion) as of March 2024, rising every year despite five government bailouts since 2002.
+Substantive throughout.

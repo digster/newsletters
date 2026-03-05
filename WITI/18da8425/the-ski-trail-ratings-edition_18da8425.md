@@ -1,0 +1,10 @@
+---
+subject: "The Ski Trail Ratings Edition"
+from: "\"Why is this interesting?\" <whyisthisinteresting@substack.com>"
+to: ""
+date: 2024-02-14 15:35:23
+labels: ["CATEGORY_PERSONAL", "INBOX", "UNREAD", "WITI"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "UNREAD", "Label_5752899537867939131"]
+---
+Amber here. I’ve been skiing for most of my life, but I’ve never really thought too much about ski trail ratings until last week, when my husband was persuaded by our 12 year old to do a double black diamond at our local mountain (The Ripper, aptly named). This felt exponentially harder than the blacks on the mountain, and we had a chairlift conversation about whether ski trail ratings were based on orders of magnitude like the Why is this interesting? There were no universal trail ratings before 1964. At that point, mountains were being pressured to mark trails for insurance purposes, and an organization formed to develop a basic system. The colors and shapes we have at resorts in North America today were actually The universal system is pretty simple, and is based roughly on the vertical grade of the trail. But the resorts themselves each rate their own trails, so there is a lot of subjectivity. You can usually assume that the trails at a given mountain are rated relative to others on that mountain–not in relation to other mountains. In addition to vertical grade, other elements are also considered: obstacles or trees, the narrowness of the trail, the degree of grooming (generally most double blacks aren’t groomed), etc. There’s a pretty wide variance when it comes to West/Rockies and East Coast skiing (I know, I know) in the US, and between Europe and the US as well. Because East Coast mountains are smaller, trails that are rated as black diamonds would likely feel much easier compared with blacks out west. (However, the East Coast is If the ratings system feels inconsistent, you can always try to divine what you’re headed for by the — Thanks for reading, Noah (NRB) & Colin (CJN) & Amber (AF) —
+You're currently a free subscriber to |

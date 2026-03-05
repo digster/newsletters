@@ -1,0 +1,9 @@
+---
+subject: "The Grand Quest To Simulate Life - EP 57 Ed Boyden"
+from: "Core Memory  <ashleevance@substack.com>"
+to: ""
+date: 2026-02-19 16:07:56
+labels: ["Ashlee Vance", "CATEGORY_PERSONAL", "INBOX", "UNREAD"]
+label_ids: ["Label_4216359091400734623", "CATEGORY_PERSONAL", "INBOX", "UNREAD"]
+---
+Ed Boyden has spent the last twenty or so years building the technology needed to create a working simulation of living systems. Put another way – he’s been trying to turn biology into physics. Boyden has helped develop new techniques for imaging the brain and the body, including optogenetics and expansion microscopy. He’s also known for nurturing all-star talent at his lab at MIT and he and his students have gone on to form numerous bio-tech start-ups. Overall, Boyden is regarded as one of the top scientific minds of this era. It was a genuine honor to have Boyden on the show, and we’re sure you’ll enjoy this episode. In this episode, filmed at Boyden’s office, we discuss his background as a child prodigy, his work and what it might actually mean to engineer something like a mind or consciousness. We also get into Boyden’s skepticism around current large language models and the state of science funding in the U.S. The Core Memory podcast is on all major platforms and on our YouTube channel This podcast is sponsored by Brex, the intelligent finance platform built to help companies spend smarter and move faster. We run on Brex and so should you. Learn more about The podcast is also made possible by Hopefully, you enjoyed this story. If so, please share it and subscribe to Core Memory. We want to do more of this for you and need your help. Thanks! |

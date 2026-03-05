@@ -1,0 +1,30 @@
+---
+subject: "Learn web security basics in just 7 minutes"
+from: "Quincy Larson <quincy@freecodecamp.org>"
+to: ""
+date: 2018-08-23 16:02:25
+labels: ["CATEGORY_PERSONAL", "INBOX", "Quincy", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_7697778124671848699", "UNREAD"]
+---
+Here are this week's five links that are worth your time:
+
+1. This quick introduction to web security will teach you about CORS, CSP, and other web security concepts (7 minute read): https://www.freecodecamp.org/n/bkuy9lG10
+
+2. We threw a big party in New York City for freeCodeCamp's top open source contributors. Here are the highlights and interviews from the event (57 minute watch): https://www.freecodecamp.org/n/akuy9lG10
+
+3. Big O Notation explained simply, using some illustrations and a video (7 minute read): https://www.freecodecamp.org/n/ckuy9lG10
+
+4. How to build a chat room app using React - a full JavaScript course (94 minute watch): https://www.freecodecamp.org/n/dkuy9lG10
+
+5. In this week's podcast, I interview John Sonmez, founder of Simple Programmer. He's a prolific author and course creator. We talk about how to stay motivated while learning to program (32 minute listen in your Apple Podcasts app, or right here in your browser): https://podcast.freecodecamp.org
+
+
+
+Happy coding!
+
+- Quincy Larson
+
+Teacher at freeCodeCamp.org
+
+
+If these emails aren't worth your time, you can turn them off: https://www.freecodecamp.org/ue/eZV2T3gHC7IGcwcpYPG64

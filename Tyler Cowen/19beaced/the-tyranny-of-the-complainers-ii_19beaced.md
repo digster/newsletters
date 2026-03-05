@@ -1,0 +1,15 @@
+---
+subject: "The Tyranny of the Complainers II"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2026-01-23 12:23:03
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+The Los Angeles City Council recently voted to [increase the fee to file an objection to new housing](http://marginalrevolution.com?action=user_content_redirect&uuid=48d10f03cd11091191d2583a3623936fd0a254a12b174d9af79723677c3ce836&blog_id=42693868&post_id=92294&user_id=262258391&subs_id=225460721&signature=b18bfd813d1dd1ce861229c2f3fd1f06&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly9sYWlzdC5jb20vbmV3cy9ob3VzaW5nLWhvbWVsZXNzbmVzcy9sb3MtYW5nZWxlcy1jaXR5LWZlZS1ob3VzaW5nLWFwcGVhbHM&email_id=5a733c7d1ea5d63b822c497e43c40139). The fee for an "aggrieved person" to file an objection to development is currently $178 and will rise to $229. Good news, right? But here's the rest of the story: it costs the city about $22,000 to investigate and process each objection. This means objections are subsidized by roughly $21,800 per case—a subsidy rate of nearly 99%.
+Meanwhile, on the other side of the equation:
+While fees will remain relatively low for housing project opponents, developers will have to pay $22,453 to appeal projects that previously had been denied.
+In other words, objecting to new housing is massively subsidized, while appeals to build new housing are charged at full cost—more than 100 times higher than aggrieved complainer fees. This appears to violate the department's [own guidelines](http://marginalrevolution.com?action=user_content_redirect&uuid=f63e9217300ec61956b691bccf9484979791428c6cc9bc2ba665590c12fc7baa&blog_id=42693868&post_id=92294&user_id=262258391&subs_id=225460721&signature=301930019b65072b7b4254f03ccbd6cf&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly9jaXR5Y2xlcmsubGFjaXR5Lm9yZy9vbmxpbmVkb2NzLzIwMDkvMDktMDk2OS1TNF9ycHRfY2FvXzExLTA1LTI1LnBkZg=&email_id=5a733c7d1ea5d63b822c497e43c40139), which state:
+When a service or activity benefits the public at large, there is generally little to no recommended fee amount. Conversely, when a service or activity wholly benefits an individual or entity, the cost recovery is generally closer or equal to 100 percent.
+Expanding housing supply benefits the public at large, while objections typically serve narrow private interests. Thus, by the department's own logic, it's the developers who should be given low fees not the complainers.
+Addendum: See also my previous post [The Tyranny of the Complainers](http://marginalrevolution.com?action=user_content_redirect&uuid=967fecd3d3cdeb2f4920e18f0a860f17c59272717f99a21f64c71b4cce6f9ff2&blog_id=42693868&post_id=92294&user_id=262258391&subs_id=225460721&signature=ce88ca628b1229c3d6775f09e669378c&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly9tYXJnaW5hbHJldm9sdXRpb24uY29tL21hcmdpbmFscmV2b2x1dGlvbi8yMDI2LzAxL3RoZS10eXJhbm55LW9mLXRoZS1jb21wbGFpbmVycy5odG1s&email_id=5a733c7d1ea5d63b822c497e43c40139).

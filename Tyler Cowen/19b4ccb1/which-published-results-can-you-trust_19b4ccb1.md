@@ -1,0 +1,14 @@
+---
+subject: "Which published results can you trust?"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2025-12-23 19:58:55
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+That is the theme of [my latest Free Press column](http://marginalrevolution.com?action=user_content_redirect&uuid=bed35f7f9e29f2371266ad762664d40145f7cf05266a6b133ed150907f01d67c&blog_id=42693868&post_id=92102&user_id=262258391&subs_id=225460721&signature=e93de63fbd01c381f6f813040b10d276&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly93d3cudGhlZnAuY29tL3AvdGhlLWRlYnVua2luZy1vZi1vbGl2ZXItc2Fja3M/dGFpZD02OTQ5ZTllOWM4YTQ1OTAwMDEwNWU4NTYmdXRtX2NhbXBhaWduPXRydWVhbnRoZW0mdXRtX21lZGl1bT1zb2NpYWwmdXRtX3NvdXJjZT10d2l0dGVy&email_id=b66b35f28591e9c40860a3bd59980fa4), starting with the recent Oliver Sacks debacle. Here is one excerpt:
+...as my George Mason University colleague Bryan Caplan
+[suggests], trust literatures, not individual research studies. By a “literature,” I mean the collective work conducted by many researchers, acting in decentralized fashion, to publish and circulate the results that will best persuade other researchers.Second, treat research articles, or their popular media coverage, as possibilities to put in your mental toolbox rather than settled truths.
+Literatures are more trustworthy than individual articles because they reflect a collective effort to establish reliable results. A supposed correlation gets refereed and scrutinized dozens of times, or maybe hundreds of times. If you have a new hypothesis, other researchers have a chance to make their names by knocking it down. There are also more eyes watching, in case real-world experience delivers results at odds with what a particular theory had been postulating. Or maybe there was a simple mistake in writing the computer code behind the paper’s result. Literatures contain a variety of different ways to come to a particular conclusion, and you can see whether they end up pointing in the same general direction.
+You may not have time or the background to master a complete literature on a research topic, but these days you can send well-written prompts to GPT 5.2 Pro, Claude Opus 4.5, or Gemini 3.0 for some very good summaries of any literature you want. Furthermore, you can cross-check across these different AI models for additional reliability.
+This is useful advice which is rarely heeded, and learning how to interpret a research literature is one of the most important skills in intellectual life.

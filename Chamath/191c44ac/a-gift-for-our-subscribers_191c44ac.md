@@ -1,0 +1,9 @@
+---
+subject: "A Gift for Our Subscribers"
+from: "Chamath Palihapitiya <chamath@substack.com>"
+to: ""
+date: 2024-09-05 22:24:05
+labels: ["CATEGORY_PERSONAL", "Chamath", "INBOX"]
+label_ids: ["CATEGORY_PERSONAL", "Label_4017391144830520384", "INBOX"]
+---
+A Gift for Our SubscribersTo the Learn With Me community: As we approach the one-year mark of Learn With Me, I feel more committed than ever to creating a best-in-class platform for understanding complex, highly relevant topics. I believe that a foundational, first-principles approach creates the basis for understanding what's happening in the world today, which empowers us to make better decisions in our careers, businesses, and investments in the future. In the spirit of learning and gratitude, we wanted to offer you a member benefit. We’ve negotiated with Perplexity to give you a free month of Perplexity Pro. Perplexity uses leading-edge AI models and live web search to deliver high-quality answers to your questions with in-text citations. I’ve found it to be incredibly useful when learning and researching topics, and I want you to be able to experience it first-hand. To redeem your free month of Perplexity Pro, you can click on the button below and create an account: Let me know your thoughts and any feedback you have. I hope you continue to find what we are doing at Learn With Me valuable and instructive. Respectfully, Chamath This promotion is open to active Chamath Palihapitiya subscribers. Existing Perplexity Pro account holders and those who have previously had a Perplexity Pro trial are ineligible to redeem this offer. Your unique promo code may only be used once and only by you–do not share it with anyone else. Your access and use of Perplexity Pro is subject to Perplexity’s Terms of Service and Privacy Policy. |

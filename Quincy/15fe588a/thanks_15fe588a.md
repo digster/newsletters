@@ -1,0 +1,54 @@
+---
+subject: "Thanks"
+from: "Quincy Larson <quincy@freecodecamp.org>"
+to: ""
+date: 2017-11-22 21:00:59
+labels: ["CATEGORY_PERSONAL", "INBOX", "Quincy", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_7697778124671848699", "UNREAD"]
+---
+Here are this week's three links that are worth your time. 
+
+But first, we're celebrating Thanksgiving here in the US this week, and it's customary to say what we're thankful for.
+
+I'm thankful that my kids are healthy.
+
+I'm also thankful that the freeCodeCamp community has such incredible momentum.
+
+Thousands of campers have gotten their first developer job this year. And we've launched tons of new learning resources you can use - all for free.
+
+If you're one of the hundreds of campers who donate to our nonprofit each month, thank you!
+
+And if you're thinking about donating, you should. It only takes a minute to support free open source education for everyone. 
+
+Set up a donation you can afford here: https://donate.freecodecamp.org
+
+
+OK - here are this week's links:
+
+1. The freeCodeCamp Toronto team hosted the first freeCodeCamp conference. More than a hundred campers attended this free event, including myself. And we live-streamed it to the global community. Here's the opening talk I gave (24 minute watch): https://www.youtube.com/watch?v=si1pjn5R0xU&t=1540s
+
+2. This tool makes learning algorithms and data structures way more fun (7 minute read): https://fcc.im/2A1FG99
+
+3. Andyy just got a developer job at Facebook. Here’s how he prepared for on-site interviews at seven Silicon Valley companies, and what he learned from them (9 minute read): https://fcc.im/2A26WV1
+
+Bonus: The newest episode of The freeCodeCamp Podcast explores developer ethics, and what happens when your code can kill people (10 minute listen): https://fcc.im/2mRhgwd
+
+
+
+Again, if you get value out of these emails, consider supporting our nonprofit: https://donate.freecodecamp.org
+
+
+
+Happy Thanksgiving, and happy coding!
+
+- Quincy Larson
+
+Teacher at https://www.freeCodeCamp.org
+
+
+
+
+
+If this email bothers you, you can manage your email settings here: https://www.freecodecamp.org/settings 
+
+Or you can one-click unsubscribe: https://www.freecodecamp.org/unsubscribe/ishan.mail@gmail.com

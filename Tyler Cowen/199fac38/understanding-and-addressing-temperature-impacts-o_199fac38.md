@@ -1,0 +1,11 @@
+---
+subject: "Understanding and Addressing Temperature Impacts on Mortality"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2025-10-19 04:39:03
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+Here are some important results:
+A large literature documents how ambient temperature affects human mortality. Using decades of detailed data from 30 countries, we revisit and synthesize key findings from this literature. We confirm that ambient temperature is among the largest external threats to human health, and is responsible for a remarkable 5-12% of total deaths across countries in our sample, or hundreds of thousands of deaths per year in both the U.S. and EU. In all contexts we consider, cold kills more than heat, though the temperature of minimum risk rises with age, making younger individuals more vulnerable to heat and older individuals more vulnerable to cold. We find evidence for adaptation to the local climate, with hotter places experiencing somewhat lower risk at higher temperatures, but still more overall mortality from heat due to more frequent exposure. Within countries, higher income is not associated with uniformly lower vulnerability to ambient temperature, and the overall burden of mortality from ambient temperature is not falling over time. Finally, we systematically summarize the limited set of studies that rigorously evaluate interventions that can reduce the impact of heat and cold on health. We find that many proposed and implemented policy interventions lack empirical support and do not target temperature exposures that generate the highest health burden, and that some of the most beneficial interventions for reducing the health impacts of cold or heat have little explicit to do with climate.
+Those are from [a recent paper](http://marginalrevolution.com?action=user_content_redirect&uuid=eb40bb3e0738c2defd69650deb5157885ce7ed424a8dae1577b3cc3becd3f763&blog_id=42693868&post_id=91645&user_id=262258391&subs_id=225460721&signature=6cd81a23d116cba71cd1fcdf7dfe3032&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly93d3cubmJlci5vcmcvcGFwZXJzL3czNDMxMw=&email_id=f95fcf367db84d8434f7d44a4e99ac94) by Marshall Burke, et.al.

@@ -1,0 +1,11 @@
+---
+subject: "The macroeconomics of tariff shocks"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2025-04-25 04:55:19
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+There is [a new paper](http://marginalrevolution.com?action=user_content_redirect&uuid=e5f9df2c2d09c04744a3dbc405411071be76530b711d8fbf7f193a5a32f415ca&blog_id=42693868&post_id=90509&user_id=262258391&subs_id=225460721&signature=11c69f9681a3ec623f0d4c9eeac23747&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly9zaGFkZS1lY29uLmdpdGh1Yi5pby90YXJpZmZfc2hvY2tzLnBkZg=&email_id=c8e8997af7f86411f68128da3146e30a) by Adrien Auclert, Matthew Rognlie, and Ludwig Straub. It seems timely?:
+We study the short-run effects of import tariffs on GDP and the trade balance in an open-economy New Keynesian model with intermediate input trade. We find that temporary tariffs cause a recession whenever the import elasticity is below an openness-weighted average of the export elasticity and the intertemporal substitution elasticity. We argue this condition is likely satisfied in practice because durable goods generate great scope for intertemporal substitution, and because it is easier to lose competitiveness on the global market than to substitute between home and foreign goods. Unilateral tariffs tend to improve the trade balance, but when other countries retaliate the trade balance worsens and the recession deepens. Taking into account the recessionary effect of tariffs dramatically lowers the optimal unilateral tariff level derived in standard trade theory.
+I wonder what the policy implications might be. Here is [a good thread on the paper](http://marginalrevolution.com?action=user_content_redirect&uuid=1aad2d12adcde083febb3f3996fb409e8bd0732fd7fe7a024925e4eff0f2188d&blog_id=42693868&post_id=90509&user_id=262258391&subs_id=225460721&signature=8e1ba0809dc6f49002e324f5acbc7e5e&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly94LmNvbS9sdWR3aWdzdHJhdWIvc3RhdHVzLzE5MTQ2NTIyODA5NTI5Njc1NDM/cz02MQ=&email_id=c8e8997af7f86411f68128da3146e30a).

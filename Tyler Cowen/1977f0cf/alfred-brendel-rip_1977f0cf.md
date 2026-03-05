@@ -1,0 +1,10 @@
+---
+subject: "Alfred Brendel, RIP"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2025-06-17 18:00:46
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+His [Haydn piano sonatas](http://marginalrevolution.com?action=user_content_redirect&uuid=1b7630d6dc96d54f872e14c72b60f1fe803df002cfd7f777a69319c02110ea0d&blog_id=42693868&post_id=90913&user_id=262258391&subs_id=225460721&signature=51863ed490be3a84c0a09bf3bfa1f336&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS9zZWFyY2g/cT1hbGZyZWQrYnJlbmRlbCtoYXlkbitwaWFubytzb25hdGFzJnNjYV9lc3Y9MzViNzk0OTcxNDFhYzFmMSZzb3VyY2U9aHAmZWk9ZjZ4UmFJckxKdTZza2RVUG50bUgyQWcmaWZsc2lnPUFPdzhzNElBQUFBQWFGRzZqNXRmbHl3Uzk5UVdET1NPNmI2cEh6ZnhXenVFJnZlZD0wYWhVS0V3aktodnJ5Z19tTkF4VnVWcVFFSFo3c0FZc1E0ZFVEQ0JjJnVhY3Q9NSZvcT1hbGZyZWQrYnJlbmRlbCtoYXlkbitwaWFubytzb25hdGFzJmdzX2xwPUVnZG5kM010ZDJsNklpSmhiR1p5WldRZ1luSmxibVJsYkNCb1lYbGtiaUJ3YVdGdWJ5QnpiMjVoZEdGek1nWVFBQmdXR0I0eUJoQUFHQllZSGpJRkVBQVk3d1V5QlJBQUdPOEZNZ1VRQUJqdkJUSUZFQUFZN3dWSWlqRlFBRmlYTEhBQWVBQ1FBUUNZQVctZ0FmQVZxZ0VFTWprdU5iZ0JBOGdCQVBnQkFaZ0NJcUFDMVJiQ0Fnc1FMaGlBQkJqUkF4akhBY0lDQlJBQUdJQUV3Z0lGRUM0WWdBVENBZ2dRTGhpQUJCalVBc0lDQ3hBdUdJQUVHTWNCR0s4QndnSUxFQUFZZ0FRWWhnTVlpZ1hDQWdnUUFCaWlCQmlKQlpnREFKSUhCREk0TGphZ0JfcTFBcklIQkRJNExqYTRCOVVXd2djSU1DNHlOUzQ0TGpISUIxYyZzY2xpZW50PWd3cy13aXo&email_id=e8cb6b7e778a4ceea5dd5d3940412a78) were his best work and also they were pathbreaking in helping us understand that composer. I also very much appreciated his short Beethoven pieces on the old Vox box set, starting with the Bagatelles, and as a live performer his Schubert was memorable...
+|

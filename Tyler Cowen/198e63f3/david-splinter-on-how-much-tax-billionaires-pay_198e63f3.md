@@ -1,0 +1,10 @@
+---
+subject: "David Splinter on how much tax billionaires pay"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2025-08-26 11:59:20
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+Here is his comment on the paper presented [here](http://marginalrevolution.com?action=user_content_redirect&uuid=80fd3d66132927352c84fad08618838a02db79f2f34a3235641be6ede2e65251&blog_id=42693868&post_id=91373&user_id=262258391&subs_id=225460721&signature=e32ce711020bf038c54c868cc07c730b&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly9tYXJnaW5hbHJldm9sdXRpb24uY29tL21hcmdpbmFscmV2b2x1dGlvbi8yMDI1LzA4L2hvdy1tdWNoLXRheC1kby11cy1iaWxsaW9uYWlyZXMtcGF5Lmh0bWw&email_id=ca2c9435333cbdc281ed6229a74254db):
+Summary: The U.S. tax system is highly progressive. Effective tax rates increase from 2% for the bottom quintile of income to 45% for the top hundredth of one percent. But rates may be lower among those with the highest wealth. This comment starts with the "top 400" tax rate estimates by wealth in Balkir, Saez, Yagan, and Zucman (2025, BSYZ), and adjusts these to account for Forbes family wealth being spread across multiple tax returns, to avoid double-counting capital income, to include missing taxes, and to apply standard tax and income definitions. This results in "top 400" effective tax rates exceeding overall tax rates by 13 percentage points. Still, the "top 400" tax rate is lower than for the top hundredth of one percent, suggesting a modest decline in effective tax rates at the very top when ranking by wealth. However, this is an unsurprising deviation from progressive rates because the tax system targets income, not wealth. Compared to the annual estimates in BSYZ, longer-run estimates are more appropriate for top wealth groups, which have volatile wealth and concentrate charitable giving into end-of-life bequests. End-of-life giving suggests long-run top 400 effective tax-and-giving rates could exceed 75%.

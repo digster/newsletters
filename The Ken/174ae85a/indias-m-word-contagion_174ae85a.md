@@ -1,0 +1,29 @@
+---
+subject: "India’s M-word contagion"
+from: "The Ken <info@the-ken.com>"
+to: ""
+date: 2020-09-21 02:37:05
+labels: ["CATEGORY_PERSONAL", "INBOX", "The Ken", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_8244464457792971031", "UNREAD"]
+---
+Good Morning Ishan,
+Using the M-word—“monopoly”—is an exercise in futility these days, thanks to how we can magically expand the definition of the market.
+Is Google a search monopoly in India, given its nearly 95% market share? Of course not. What about the billions of calls made by delivery drivers, asking about your home address.
+Is Facebook a social network monopoly in India, given its nearly 300 million users across Facebook, Instagram and WhatsApp? Of course not. Families and workplaces are also social networks.
+I exaggerate, of course. But not a lot. Redefining the “relevant market” allows powerful companies to perpetually position themselves as underdogs.
+In reality though, India is witnessing the rapid concentration of market share and power in the hands of just two or three companies in sector after sector. Search, social networks, e-commerce, video, smartphone OSes, ride-hailing, food delivery, digital payments, telecom, retail… the list expands with each passing day.
+For a still-developing country like India to coalesce so early on around market concentration in many of its most promising sectors is worrying enough. But, as Seetharaman explains in today’s story, India is accelerating worryingly into a new phase: the transmission of market concentration across unrelated sectors. This is leading to the creation of “super corporations”—companies with scale so dominant that few can unseat them.
+A prime example is Reliance. It was able to build Reliance Retail into India’s largest retailer on the basis of its deep balance sheet. Then, it did the same with Jio in telecom. That culminated with $20 billion of investments into Jio Platforms from a who’s who of global PE and tech giants earlier this year, including from companies such as Google and Facebook, that were seen as Jio’s rivals in the digital space.
+Now, as Reliance offers Jio Platforms’ investors the right to also invest in Reliance Retail, we’re seeing a transmission of its capital advantages across telecom to retail. If Amazon, Reliance’s last remaining digital rival of significance, invests into Reliance Retail, India will see a curious case of not just Reliance’s power cascading across sectors, but also of rivals coming together as investors.
+India’s competition regulators are yet to catch up with how savvy antitrust regulators, such as those in the European Union, have reformulated their understanding of how digital monopolies are different from physical ones (market harm is more relevant than consumer harm). How will they deal with a “friendly” group of companies like Facebook, Google, Reliance, and Amazon (still rumoured) which are invested in each other's success?
+A must-read Monday story: [https://the-ken.com/story/indias-contagion-of-market-dominance](https://the-ken.com/story/indias-contagion-of-market-dominance?utm_source=dail_story&utm_medium=email&utm_campaign=daily_newsletter) (12-minute read)
+Sincerely,
+Rohin Dharmakumar
+[rohin@the-ken.com](mailto:rohin@the-ken.com)
+|
+What you just read is the personalised daily introduction to The Ken's story. Written by a different person each day. Often insightful, sometimes witty, and very rarely boring. Someone sent this to you? [Sign up for free](https://the-ken.com/?modal=register&utm_source=footer&utm_medium=email&utm_campaign=in_morning_email). Don't like these? You can [unsubscribe](https://link.the-ken.com/asm/unsubscribe/?user_id=2349339&data=8T7LCRscTwKa5Gsxcl1MQGe9pRBzbTMLTqalhRFHqJZAlEXwbBdCLaqgI0aHIjbssd6HYdvyTAaV5hz75jcuOKjuoyPtRspv2SWQyUJ68753zQPERgI3WtrAjYgINsx1JdXNkFQ8OHxnncK0gCUD51y6ZE3kROdgXpGRWSETpvckOxpUW9FriXU-s9ee1y7nP_ZBxkSYEkyQtNgHY-RPpnOMTxc0jNVix8pEkgZQy7bEciwQgOUbWlooxCv6iRp6e1zKcYpc3xQiGZ4To9HfiRAmsU0-xe1nKhG8Ja5Y42i_r_aXsevPUTDysAKepoy7l9Te9pOROLpopmPTI6UhJu1UhoZvTNrLZj-v2uvxHsi0X8KwNqLP_XoEUqDwqBFSan2wC1xYISiO1ce4ymohrfQpMn9bMtC86mojzrNfFltCMihe40CQhjZjtWQcOOBWEZ0NAVSscrRvUaFuJp21xsDjBLjlMj_LpTSsZUFGjyTNEYuh7YKRnCg-MRSKJVHa4ZWJaJY8lUNT4EPy-RpzEPW0K1y30vtAylty8Wg7ijA=). Want to manage your emails? Click [here](https://link.the-ken.com/asm/?user_id=2349339&data=PuA5SQMVJd8AqClHwDOqEzzRYqzFxoMVRS29GrlE1nHYI0ccqfXjvwQ9XNFE5GkBDbzYVfbjHOs3fF5a32uvbM-WyNCO-LxnBVkfQBoVpVEeOBrE1RYAZrsZK33AEHkEbt0FnSiJlVixaYqp0j6vnk6YozTCWvYlkOEftpKzFRwJL-vSget5rZwaA3Bw5TcupNwotZXR0aQxaIZQsWlpGbTucyVHkTvaWbEmFDirx24CYt20UfBcGA-Xlob1TDbl13TPrK8ikLpkoCl0T0DcF-zvXpCiHxjwqgRTh2JsPdXYkx5fx2T1Gy_Pmny4SZNu6kZ7a58rnnqWyxEnR4akGQEWa7i_za9EghRov6VDogz_E_lJabRlKJGVbz3OtuH0MgzQ3Erwy1nMlN0KxkQl_WNTNSs9KsCz8Oe9x_07Z9S8p-1fHkm3Np1s4pwzbiK9Tbsw3Yj2FS10zpotSr8jx8XDYuM_39TlnthlK6DjGTILGTvkAIwHkuEsBT6WZqZWN7USkfbdg43C-n9WINL6qg==).
+|
+|
+|
+|
+|

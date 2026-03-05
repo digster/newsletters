@@ -1,0 +1,23 @@
+---
+subject: "Tata Motors makes fleet comeback with EVs. Now it has to avoid ‘cab car’ tag"
+from: "The Ken <info@the-ken.com>"
+to: ""
+date: 2023-07-18 02:38:57
+labels: ["CATEGORY_PERSONAL", "INBOX", "The Ken", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_8244464457792971031", "UNREAD"]
+---
+Good Morning Ishan,
+Can you think back to the times when you didn’t want to take credit for a piece of work you did?
+The reason for doing so was likely that either your contribution was minimal, the work was insignificant, or worse, it was detrimental to be associated with.
+Tata Motors, one of India’s largest carmakers, is facing a bit of the last situation when it comes to its electric-vehicle (EV) sales.
+The automaker had a whopping 77% market share of India’s passenger-EV market during the January-June period, and about 10-15% of its EV sales come from selling to fleets. Xpres-T EV—a sedan, is the one driving these volumes.
+Cab and fleet operators such as Uber, BluSmart, and Everest are all queuing up to Tata Motors for their EV-fleet needs.
+And it makes sense. Electric cars are a logical choice for fleet operators and ride-hailing companies as the transition dramatically reduces their carbon footprints.
+But Tata Motors is shrugging off the contribution that comes from this business segment. In the past, its cars, such as the hatchback, Indica, and the SUV, Sumo, became fast favourites among commercial operators, but that image dented its retail sales. So, it should be wary of the baggage that comes with being seen as a “cab car” company.
+Today, Shaswata has a fascinating story on how Tata Motors is walking that fine line between capturing the EV market via fleets and avoiding that “cab car” tag. You can read it here: [https://the-ken.com/story/tata-motors-makes-fleet-comeback-with-evs-now-it-has-to-avoid-cab-car-tag/](https://the-ken.com/story/tata-motors-makes-fleet-comeback-with-evs-now-it-has-to-avoid-cab-car-tag/?utm_source=story_story&utm_medium=email&utm_campaign=story_newsletter) (8-minute read)
+Regards,
+Arundhati
+[arundhati@the-ken.com](mailto:arundhati@the-ken.com)
+PS: We’ve spent the last few months overhauling our iOS and Android subscriber apps. We opened up the bonnet and overhauled the engines. What emerged was a faster and better app. Go ahead and download our app from the [Apple App Store](https://the-ken.com/app-download/?utm_source=email&utm_medium=morming_email&utm_campaign=otp_ios_scan_app) or [Google Play Store](https://the-ken.com/app-download/?utm_source=email&utm_medium=morming_email&utm_campaign=otp_android_scan_app). Go on, take a spin! And if you liked what we did, rate us on your respective store. If you’ve got feedback, we’d love to hear it. Write to us at [support@the-ken.com](mailto:support@the-ken.com).
+What you just read is the personalised daily introduction to The Ken's story. Written by a different person each day. Often insightful, sometimes witty, and very rarely boring. Someone sent this to you? [Sign up for free](https://the-ken.com/?modal=register&utm_source=footer&utm_medium=email&utm_campaign=morning_email_ind_shared). [Dont like these? You can unsubscribe](https://link.the-ken.com/asm/unsubscribe/?user_id=2349339&data=K-q0urCdjn_7JJmVXp0p6eMOnb2hxNhHfjZx95OajlFoMDAwdTAwMD5zdRIAQUli_IASzsyENSf5N7GpfCkEcbXe2hL-ve836P9ulKnRNIC271_QCVFP2Kh7Cl5Zqp_i1ktofMZPGXr-LnNA1UD9hXpxce0QzAlzsMYfSUNOHU6GMU79eOYIpl01flEvDzBA2K_imkT4CH2niWfxh9zD7vg857DYlbdfuOcibVO3Xok1fwpDjLeMHbxfjzgKgUmNM9QE20HCp3EihrbvaPiXAPK7OHireIkwustyiDGNdndVqVnBfq6OpLBJJ0q5hI_yUwmZE_klWYUXFdYyxCogQghdWR5yxkgIsBQUVFpAicY5LDEAyyxjwuSfMj8AlnzdQ5-0wW0ZcODphOFrqn39jeXAPfe5k8ht05przGR9hDpy2nePWmLKaoLSAnlWCsNo5TlzRJTWGCYqgW2snYKarXi529IG0AOarBKYVoKz8bRIsM5Obi3f1SeZx7sejLknSdaxCAf6i4E0HhqbN2kcVQBRhwZRxlRy9dyCdsqOcDz05maMUf1vVuN8GRVjvCPKnvivMZp_dGQ=) Dont want to hear from us again? [ Unsubscribe from our emails here](https://link.the-ken.com/asm/?user_id=2349339&data=EXmmX--dWEdyvyYuNBDWrGOf78iYu7RTp_aMuo77voRoMDAwdTAwMATdDUcgJp4DvTDA-ej-LEkfdXaF-ZNiARJ3Tv0pxkeSX-HSCrxgF_YhOPv4WDHoz2U3gQiZvo8w-_l63YoZwaTQW3Szpm5w7K6s2kQnbo6EQ1tYeqhhzAOf-xgmy1sHGM1XsDcsOBq1K64820SCyJBggDuXLi9SjJze5Hp45AqbcAU-tSRmK_OuBs-Bb9Ofq_uDoTzqMnb99TXA06nUGDbh8NquVvXbh4nZk99yjXtaKD6doapAQElsmwW3MucLUQG-O3krrLRgPvRTvZnWouyVzBKHeNmil7hbdcInZz6xgqn6Es5Yszf703zk9jAie8Clv9e4JIC--K_jRHiCl_BJ3MqNuiZPRUxzkjxoKSXYfqz-dliFgyyoKAjQfACyGwM_quFuIMNvVax0Tgx1lHet47PrahGSS40gyRBPyQQCFHCE0cC9S2bpmiSyK7X0lQbh6hw80G_QY6xq_HkS7g-vAtthsuCsACLG8fiT5_ynsQnS0oVMszqtMYasftHyjQ==).
+Something wrong? Tell us at [support@the-ken.com](mailto:support@the-ken.com)

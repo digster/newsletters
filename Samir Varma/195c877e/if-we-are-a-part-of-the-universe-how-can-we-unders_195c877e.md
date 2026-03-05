@@ -1,0 +1,25 @@
+---
+subject: "If we are a PART of the universe, how can we understand the whole?"
+from: "Samir Varma from Samir Varma <samirvarma@substack.com>"
+to: ""
+date: 2025-03-24 14:02:26
+labels: ["CATEGORY_PERSONAL", "INBOX", "Samir Varma", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2890205615693839461", "UNREAD"]
+---
+|
+Everything in existence emerges from the arrangement of fundamental building blocks: atoms. Atoms themselves are an arrangement of subatomic particles. Humans, tables, even AI programs—they're all just specific arrangements of subatomic particles governed by the Standard Model of particle physics. Yet there's a major question here: can a fraction of the universe (you, me, or any sentient entity) expect to write down a “theory of everything”—that is, a theory of the entire universe. Is that nuts?
+A Puzzle of Self-Reference
+You should ask, “How can part of a system possibly comprehend the entire system?” Can your index finger really understand all of your body? In my book, The Science of Free Will ([https://www.amazon.com/Science-Free-Will-Determinism-Everything/dp/1803417315?crid=4RLH9J0JISS9&dib=eyJ2IjoiMSJ9.g9TwNNPn17kuRd-QxB5Yvg.raadypALJodwlMUK1OdXP-q8WMG0swZUJ41D5OESIEM&dib_tag=se&&&sprefix=isbn+9781803417318,aps,68&sr=8-1&&&&language=en_US&ref_=as_li_ss_tl](https://substack.com/redirect/de992609-b006-4214-8e7c-664384aac02e?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)), I describe this self-reference problem: we're part of the universe, trying to understand the universe. Is the universe effectively modeling itself?
+A Surprisingly Simple Explanation
+Paradoxically, describing the whole can be simpler than describing any single part. Think about the set of all integers: there's a tidy program that generates them. But if you want to specify one particular integer—let’s say a big one—its definition becomes lengthy. This directly mirrors physics: the universe's fundamental laws might be written in concise equations. But describing one tiny subset of reality, such as the precise layout of your living room at 3:14 PM next Tuesday, demands reams of information.
+Rule 110 as a Case Study
+You see this dynamic in cellular automata like Rule 110 (https://en.wikipedia.org/wiki/Rule_110). The rule itself is a handful of instructions—simple enough to scribble on a napkin. Yet its output can emulate a universal computer, spawning complexity that rivals anything. The entire automaton is governed by a short list of transitions, while pinning down the specifics of even one patch of cells can be infinitely complicated.
+Cancelling Complexity
+When you consider everything at once, you get a kind of elegant simplicity. Narrow your gaze to a single patch or slice of the cosmos, and you'll need tons of initial conditions. Max Tegmark noted that the set of all solutions to an equation is often simpler than focusing on one particular solution. The elegance disappears when you limit your perspective but reappears when you view the ensemble.
+That's why it’s no contradiction for a smaller piece of the universe to understand the overarching blueprint. The system’s bedrock laws can be short and sweet, while any individual fragment might be mind-bogglingly complex. In fact, the entire cosmos might be easier to summarize in a few equations than your daily schedule.
+What About Consciousness?
+This principle also helps understand consciousness. A portion of the brain—the part responsible for reflective awareness—ponders the totality of our experiences. One might protest, “But how can a small brain region possibly grasp everything else going on in the brain?” The answer is that it doesn't need to track each molecule. There’s an overarching design behind cognition. The local complexity in a single neuron’s environment can be off the charts, but the global rules remain comparatively simple, allowing introspection to flourish.
+We Are the Universe Modeling Itself!
+Yep! We really are the universe studying itself! It's an absolutely crazy notion! But yet it is true! The cosmic laws guiding galaxies, quantum fields, and lumps of matter (like us) are surprisingly straightforward at their core. But when you zoom in on a piece, you get arbitrary complexity. And because the part is MORE complex than the whole, the part CAN model the whole. I think that is remarkable.
+Check out my book, The Science of Free Will: How Determinism Affects Everything from the Future of AI to Traffic to God to Bees (https://www.amazon.com/Science-Free-Will-Determinism-Everything/dp/1803417315?crid=4RLH9J0JISS9&dib=eyJ2IjoiMSJ9.g9TwNNPn17kuRd-QxB5Yvg.raadypALJodwlMUK1OdXP-q8WMG0swZUJ41D5OESIEM&dib_tag=se&&&sprefix=isbn+9781803417318,aps,68&sr=8-1&&&&language=en_US&ref_=as_li_ss_tl) where I talk about this issue, and much more!
+Samir Varma is free today. But if you enjoyed this post, you can tell Samir Varma that their writing is valuable by pledging a future subscription. You won't be charged unless they enable payments.

@@ -1,0 +1,41 @@
+---
+subject: "Apple Vision Pro reactions 🥽, Marc Andreesen on AI 🤖, generating artistic QR codes 🎨"
+from: "TLDR <dan@tldrnewsletter.com>"
+to: ""
+date: 2023-06-07 10:39:02
+labels: ["CATEGORY_PERSONAL", "IMPORTANT", "INBOX", "TLDR", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "IMPORTANT", "INBOX", "Label_795315172960844453", "UNREAD"]
+---
+[Apple Vision (20 minute read)](https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fstratechery.com%2F2023%2Fapple-vision%2F%3Futm_source=tldrnewsletter/1/01000188957042a6-88db3cdc-9d90-4456-bad5-e1b2ef978bc5-000000/SmaMJA8YWbNhG1UECfDzPapoGYwHpR2D2dGS8CbiSGg=304)
+Vision is one of the best product names in Apple's history. It describes the product and its aspiration as a use case and makes a critique on the sort of society that Apple wants to build. Apple's mixed reality headset will ship in early 2024 with a price tag of $3,499. This article describes what it is like using the headset. It covers the setup experience, user interface, use cases, issues with the device, and more. |
+Science & Futuristic Technology
+|
+[Redditor creates working anime QR codes using Stable Diffusion (3 minute read)](https://tracking.tldrnewsletter.com/CL0/https:%2F%2Farstechnica.com%2Finformation-technology%2F2023%2F06%2Fredditor-creates-working-anime-qr-codes-using-stable-diffusion%2F%3Futm_source=tldrnewsletter/1/01000188957042a6-88db3cdc-9d90-4456-bad5-e1b2ef978bc5-000000/JLrgPfWGzRIRMpfKqcJCkDBBgxFUXIHX5-bFqHIz58A=304)
+A Reddit user recently posted a series of artistic QR codes created using Stable Diffusion. The art is in the style of anime and Asian art and the QR codes can be read by smartphone camera apps. The Reddit user apparently trained several custom Stable Diffusion ControlNet models and then fed QR codes into the image generator while using a technique to maintain the QR code's data positioning. Examples of QR codes generated with this technique are available in the article. |
+[Scientists find way to make aging hair regrow by manipulating stem cells (2 minute read)](https://tracking.tldrnewsletter.com/CL0/https:%2F%2Finterestingengineering.com%2Finnovation%2Fscientists-find-way-to-make-aging-hair-regrow-by-manipulating-stem-cells%3Futm_source=tldrnewsletter/1/01000188957042a6-88db3cdc-9d90-4456-bad5-e1b2ef978bc5-000000/iOllAuqbzl6JVrJVLXWEJqUlkPwwH9eTakp678XqX3s=304)
+Researchers have discovered a new method for helping aging hair regrow in mice. Hair follicle stem cells get stiff as they age, making it harder for them to grow hair. They are more likely to produce hair if the stem cells are softened. The researchers were able to soften the stem cells by boosting the production of a tiny RNA. This enhanced hair growth in both young and old mice. The mice started to grow hair within 10 days. |
+Programming, Design & Data Science
+|
+[Spruce CSS (GitHub Repo)](https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fgithub.com%2Fconedevelopment%2Fsprucecss%3Futm_source=tldrnewsletter/1/01000188957042a6-88db3cdc-9d90-4456-bad5-e1b2ef978bc5-000000/DHfM1uxPkFI0oW0A71sg4hU_De686oButkEOIky_81Q=304)
+Spruce CSS is a lightweight CSS design system and framework. It is Sass-based and it takes advantage of Sass members and modules. Spruce uses just a few classic utility classes and it is themable. Developers can choose to use only tools from Spruce without the generated styles. |
+[ggml (GitHub Repo)](https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fgithub.com%2Fggerganov%2Fggml%3Futm_source=tldrnewsletter/1/01000188957042a6-88db3cdc-9d90-4456-bad5-e1b2ef978bc5-000000/2CfVe7LrqJnkzJALrX5076wBBFixaqjPU0HeMiSP8BM=304)
+ggml is a Tensor library for machine learning. It features 16-bit float support, integer quantization, automatic differentiation, Apple Silicon optimization, and more. ggml doesn't require any third-party dependencies. It can be used to efficiently run Whisper, GPT-2, and GPT-J inference on the CPU. |
+[Vision Pro (15 minute read)](https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fnotes.andymatuschak.org%2FVision%2520Pro%3Futm_source=tldrnewsletter/1/01000188957042a6-88db3cdc-9d90-4456-bad5-e1b2ef978bc5-000000/pqMevsYrkFw3F6G_CAsW9xBeR1Olkr0wkcgVmaQRyUM=304)
+This article looks at Apple Vision Pro's user interface and computing paradigm. visionOS is organized around apps, similar to iOS. The interface allows wearers to use 2D iPad app UIs on a large spatial display. Users control the device by looking at items and then 'clicking' on them with their fingers. Apple has positioned the device as a spatial computing device. This new paradigm gives users more space to use the apps they currently use. It is yet to be seen whether developers will embrace the paradigm to create new use cases. |
+[Why AI Will Save the World (6 minute read)](https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa16z.com%2F2023%2F06%2F06%2Fai-will-save-the-world%2F%3Futm_source=tldrnewsletter/1/01000188957042a6-88db3cdc-9d90-4456-bad5-e1b2ef978bc5-000000/ncHV0czK4MmF_4DqCge66B2uHW4j9vR32b5VGWekV_o=304)
+AI will not destroy the world, but in fact, may save it. AI is the application of mathematics and software code to teach computers how to understand, synthesize, and generate knowledge in ways similar to how people do it. It can make everything we care about better by profoundly augmenting human intelligence. AI augmentation of human intelligence has already started. Restrictions, regulations, and laws target dramatic public statements about the dangers of AI, but these concerns may be inflated and could result in the slowing down of technology that could be enormously beneficial to our welfare. |
+[codespelunker (GitHub Repo)](https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fgithub.com%2Fboyter%2Fcs%3Futm_source=tldrnewsletter/1/01000188957042a6-88db3cdc-9d90-4456-bad5-e1b2ef978bc5-000000/GJ2pjK-x714fXNMt8CPuBen8oTPxpl9HGFC9dsdlni8=304)
+codespelunker is a command line search tool that can search over code or text files using boolean queries or regular expressions. |
+[Mirador (GitHub Repo)](https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fgithub.com%2FHyperARCo%2FMirador%3Futm_source=tldrnewsletter/1/01000188957042a6-88db3cdc-9d90-4456-bad5-e1b2ef978bc5-000000/sOR91Y_Sx5PISO8PFzQQvtO3Asl20LMBlqqkFZ2YFZY=304)
+Mirador makes it easy to build point-of-interest AR experiences on top of Apple's new RealityKit AR platform. |
+[TLDR Talent](https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fdanni763618.typeform.com%2Fto%2FrSL4lOH3/2/01000188957042a6-88db3cdc-9d90-4456-bad5-e1b2ef978bc5-000000/O_pkTTEExXxnbcZnPmBcQJpVHC44LpPRiB9GDenrvbo=304) is our exclusive community where we help world-class tech talent and get intros to companies of their choice, along with a number of exciting startups and tech companies curated by TLDR.
+We give you full control of the process, you can specify if you’re actively searching or passively interested only if something amazing comes along. Set your preferred compensation, seniority/title/role, specific companies (or types of companies) you’d like to work for and more. [Click here to apply](https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fdanni763618.typeform.com%2Fto%2FrSL4lOH3/3/01000188957042a6-88db3cdc-9d90-4456-bad5-e1b2ef978bc5-000000/OSZ8zRu8BSLl_ePnxqnilR6Atjx-zuNMfvjNlQ56KXw=304).
+|
+If your company is interested in reaching an audience of tech executives, decision-makers and engineers, you may want to [advertise with us](https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fshare.hsforms.com%2F1OxvmrkcFS4qsxKpNXCi76wee466%3Futm_source=tldr%26utm_medium=newsletter/2/01000188957042a6-88db3cdc-9d90-4456-bad5-e1b2ef978bc5-000000/PAZRwXqqvE43zaIgY-VnH5T9FCUv-OR9janwQAJ7VEw=304).
+If you have any comments or feedback, just respond to this email!
+Thanks for reading,
+[Dan Ni](https://tracking.tldrnewsletter.com/CL0/https:%2F%2Ftwitter.com%2Ftldrdan/1/01000188957042a6-88db3cdc-9d90-4456-bad5-e1b2ef978bc5-000000/zazBZs8APh7t8f0cxguXGrGeaKuZ2oPwm44KYpNRxL0=304) and [Stephen Flanders](https://tracking.tldrnewsletter.com/CL0/https:%2F%2Ftwitter.com%2FSteveFlanders22/1/01000188957042a6-88db3cdc-9d90-4456-bad5-e1b2ef978bc5-000000/x7OfE0y0EC_2wHN52F4ajGYCktRMP66iCluy_W0t4C8=304)
+|
+|
+|
+|

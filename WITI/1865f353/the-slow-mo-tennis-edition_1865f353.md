@@ -1,0 +1,10 @@
+---
+subject: "The Slow-Mo Tennis Edition"
+from: "\"Why is this interesting?\" <whyisthisinteresting@substack.com>"
+to: ""
+date: 2023-02-17 11:48:52
+labels: ["CATEGORY_PERSONAL", "IMPORTANT", "INBOX", "WITI"]
+label_ids: ["CATEGORY_PERSONAL", "IMPORTANT", "INBOX", "Label_5752899537867939131"]
+---
+Colin here. There are a few Youtube-native formats that I have come to love. One is the super long train trip, ideally through snow or mountains. This Norwegian train Here’s an example: Some are all in slow-mo, but some let points play out at full speed, only slowing down before contact, to allow a viewer to see the complete, end-to-end mechanics of a groundstroke. Why is this interesting? There is beauty in the context shift. Tennis is fast-paced, with shots going over a hundred miles an hour. It requires focus to stay locked into the back and forth. But when you slow down the shots, it becomes more of a meditation on form, muscle memory, and athleticism. It is also interesting to compare modern forehands, say, versus Slow-motion tennis also allows you to hone in on the other thing that makes pros great: footwork. When you see the flurry of preparation starting with a split step as soon as the opponent strikes the ball, you see the distance between good and great. And you can see the micro-adjustments made before contact. Slow-mo tennis is an addiction, and if anything, it is a meditative reminder of how far I have to go. But the act of seeing things over and over helps my brain understand the form, and hopefully connect it to my muscles and tendons in time. (CJN) We are experimenting with running some weekly classifieds in WITI. If you’re interested in running an ad, Noah here. I've got a new newsletter about brands and AI called BrXnd Dispatch. If you're in marketing, creative, or just interested in understanding what's up with AI, check it out. Thanks for reading, Noah (NRB) & Colin (CJN) —
+|

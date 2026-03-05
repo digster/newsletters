@@ -1,0 +1,10 @@
+---
+subject: "The microfoundations of the baby boom?"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2025-10-30 09:06:51
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+Between 1936 and 1957, fertility rates in the U.S. increased 62 percent and the maternal mortality rate declined by 93 percent. We explore the effects of changes in maternal mortality rates on white and nonwhite fertility rates during this period, exploiting contemporaneous or lagged changes in maternal mortality at the state-by-year level. We estimate that declines in maternal mortality explain 47-73 percent of the increase in fertility between 1939 and 1957 among white women and 64-88 percent of the increase in fertility among nonwhite women during our sample period.
+Here is [the full article](http://marginalrevolution.com?action=user_content_redirect&uuid=578248abeb54ef85e28532cff91c079bc7c323d1e57ec847696a0002550e7dc4&blog_id=42693868&post_id=91756&user_id=262258391&subs_id=225460721&signature=f5d84285428f09862d1185660601752c&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly9wYXBlcnMuc3Nybi5jb20vc29sMy9wYXBlcnMuY2ZtP2Fic3RyYWN0X2lkPTU1Mzg2Nzk&email_id=becde65d11461783cecf75b8730cd10b) by Christopher Handy and Katharine Shester, via the excellent [Kevin Lewis](http://marginalrevolution.com?action=user_content_redirect&uuid=3fd9c9d4415d18cdb2a49f19e82ea4ec8a92352e18b9fa84dab1db41f7a84dc1&blog_id=42693868&post_id=91756&user_id=262258391&subs_id=225460721&signature=40a64fa337f205d3c970d470e050fba1&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly93d3cubmF0aW9uYWxhZmZhaXJzLmNvbS9ibG9nL2RldGFpbC9maW5kaW5ncy1hLWRhaWx5LXJvdW5kdXAvc3Vycm91bmRpbmdz&email_id=becde65d11461783cecf75b8730cd10b). Overall, I take this as a negative for the prospect of another, future baby boom? We just cannot make maternity all that much safer, starting from current margins.

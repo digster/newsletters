@@ -1,0 +1,9 @@
+---
+subject: "The Prisoner Swap Edition"
+from: "\"Why is this interesting?\" <whyisthisinteresting@substack.com>"
+to: ""
+date: 2022-12-14 10:02:48
+labels: ["CATEGORY_PERSONAL", "INBOX", "UNREAD", "WITI"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "UNREAD", "Label_5752899537867939131"]
+---
+Re-running this from the archives in light of the Brittany Griner release. Paul Whelan remains in captivity. -Colin (CJN) Colin here. There is a recurring scene in high-flying espionage dramas and le Carré novels: the prisoner swap. It is always in some sort of neutral territory—a bridge, an airstrip—where prisoners are walked across a dividing line. Most times, there are heavily armed guards to ensure no funny business. Photo: AFP archives The world witnessed a real-life version when American Trevor Reed was released by Russia in Turkey, in exchange for Russian citizen Konstantin Yaroshenko who was serving a lengthy sentence in the United States on cocaine-trafficking charges, according to The Another American and former Marine remains in captivity in the country. According to the Why is this interesting? We’ll never know the true backstory behind these cases. But it is interesting to see the commonality: Russia snapping up American citizens with a convenient military background on trumped-up charges, and holding them as political chits. These chits can be traded for priority prisoners that Russia wants back. Victor Bout was the big fish, who was recently released in a tarmac transfer. Whelan WITI Classifieds: We are experimenting with running some weekly classifieds in WITI. If you’re interested in running an ad, Why is your family interesting? With Storyworth, record their stories one weekly email at a time, and gift them a beautiful printed book. You like interesting things: come check out Nautilus. Science storytelling with style. Also, a holiday gift for the brightest you know. |

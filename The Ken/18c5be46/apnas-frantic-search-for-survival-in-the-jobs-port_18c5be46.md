@@ -1,0 +1,20 @@
+---
+subject: "Apna’s frantic search for survival in the jobs portal maze"
+from: "The Ken <info@the-ken.com>"
+to: ""
+date: 2023-12-12 02:39:04
+labels: ["CATEGORY_PERSONAL", "INBOX", "The Ken", "jobs"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_8244464457792971031", "Label_11"]
+---
+Good Morning Ishan,
+It’s business management 101 that one must be close to one’s customers/users to build a company. But maybe there are some exceptions. And if one is building a marketplace for blue-collar jobs, then one doesn’t need to be closer to electricians, plumbers, beauticians, and the like to understand what they need or want.
+That’s what I inferred when I heard from Shivani, author of today’s story, that Apna’s top leadership operated out of the US for the most part of the four years during which the company raised massive amounts and pivoted on a lark.
+Nearly Rs 1600 crore raised so far, Rs 16 crore in actual revenue (Rs 163 crore from providing technical services to its parent in the US), with Rs 470 crore in cumulative losses for the year ended March 2023. Stark numbers for a company that claims 30 million users.
+Cracking the blue-collar job market is hard. That might have been the reason why VCs showered it with millions of dollars and a unicorn status at lightning speed. After many (failed?) experiments, Apna now deals with all kinds of labour on its marketplace.
+But cookies crumble in any business when the business model moves from free-to-use to pay-per-use; the latter demands value, especially when it entails wading into the territory of established players like Naukri.com, Indeed, and the rest.
+In her well-reported story, Shivani takes us through the job portal labyrinth that Apna has created for itself. Onto it here: [https://the-ken.com/story/apnas-frantic-search-for-survival-in-the-jobs-portal-maze/](https://the-ken.com/story/apnas-frantic-search-for-survival-in-the-jobs-portal-maze/?utm_source=daily&utm_medium=email&utm_campaign=daily_newsletter) (13-minute read)
+Warmly,
+Seema Singh
+[seema@the-ken.com](mailto:seema@the-ken.com)
+What you just read is the personalised daily introduction to The Ken's story. Written by a different person each day. Often insightful, sometimes witty, and very rarely boring. Someone sent this to you? [Sign up for free](https://the-ken.com/?modal=register&utm_source=footer&utm_medium=email&utm_campaign=morning_email_ind). [Dont like these? You can unsubscribe](https://link.the-ken.com/asm/unsubscribe/?user_id=2349339&data=B7NikuUL04p_MTnEpTKNfkXJgrFFTpNUBtUSOgnuHtBoMDAwdTAwMNq2y-yxj0yAdHeW8TbGC0v1g2APMbRJIKvQnE-zDQYNLrekCUZ8ICa6nLF8tYruiGw7tyFnWLzG8mWCLqIz8BB8-OhFCueH2FgE3m9tbfmXpMEvImSJrLa8Lqh6LHobKA55gNU8QFjgyvX7eAR2DtnsKZZGPF2ymJHeG0DwPoz1YIixFsyKqCwf9OZUn2MaAf34u0Qil5Dfk5ImpXeWY1QX3Mgm0azWc9ietCfxan7_2-KHn_e9gO2dr6OKADwTy6lpyrjAKnLX1i_6LAKw3vwUPkPXIIZUsA4ThHXFSjCIqAPer3k6HVpw_IlW66OYS9RRxbyua4qpUN7BHLa3E_9pqOFLr6El77Ft7Kp_Pfbkcr4NUvOCK9gkx40ndop7Yo93c3rEdxggyDpTLX5vmWDAfRT6Lef9rGlEYFZzSTdpshNp9BgKTRAg-ph4-CPgF3eHXB2uCsq_UmUo-qLr5wnVYQyf6Ayvzan0b3UOPxGkRL6VPHBtaUxGX05Qva0FMcZjNIs2AjzKhrUGVoeu1Co=) Dont want to hear from us again? [ Unsubscribe from our emails here](https://link.the-ken.com/asm/?user_id=2349339&data=lqgX4GL19oMPjxeMSyqIOZFhXpGg7wbao9KxXj2TypNoMDAwdTAwMKWumhLwNYDQzBAoLPpWQ_rWHEyCPucvheD3uBHmmY8Iy7Qcyq1vF67_JW1eU_Y9-ugnom19vRw03ERpisGPjdRl4k9TFTEwo53MRy6JH9ove11-xwkR1O5suRhJEsLJbJXue9PJhcdOR1mJRZirNq-2ONedh9UJZ3lvLsAPPe471nFQKhsYzgHIldgItqYouP7w58NFQwgf5lc7rYC5OvnuYwxxDcGHsexBTegoW2O_KEM6U47uvszdb9SkWI3YMdUgOL5sfjfqR1kjLg60iZfy-tLb1G7FV8jr3R1q1kYYjNAPLtZoHNpWLUOeUrUvSx6vtk8--KFxkjDkvaX-964-GbEGmodYiIlsbQJmSe4n2KRmG9ngxm0oLpMK36IlMHpbMP5GXs9A4_bv0tEuTFinWqdlhdZLU3dvkiPFvB2SIHZ-Qjx68Dsp3Mchtr_-QTLhdG6Wu19pLUTw4Xuk31ldV3-enbSt0p_igaC_UJBVfJlRbRudvcqRRyVBvA83NA==).
+Something wrong? Tell us at [support@the-ken.com](mailto:support@the-ken.com)

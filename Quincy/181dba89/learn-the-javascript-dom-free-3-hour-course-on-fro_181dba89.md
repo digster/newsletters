@@ -1,0 +1,32 @@
+---
+subject: "Learn the JavaScript DOM [free 3-hour course on front-end development]"
+from: "Quincy Larson <quincy@freecodecamp.org>"
+to: ""
+date: 2022-07-08 02:34:29
+labels: ["CATEGORY_PERSONAL", "INBOX", "Quincy"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_7697778124671848699"]
+---
+Here are this week's five links that are worth your time:
+
+1. DOM stands for Document Object Model. It's a tool that helps developers update HTML elements without needing to reload the page. DOM manipulation is when you use JavaScript to add, remove, or modify parts of a web page. This is a core skill in front-end development. And this course will teach you the basics before moving on to more advanced DOM techniques. (3 hour YouTube course): https://www.freecodecamp.org/news/javascript-dom-manipulation/
+
+2. Code your own Jeopardy game. You can channel the spirit of late, great game show host Alex Trebek and expand your web development skills at the same time. This course is taught by freeCodeCamp teacher Ania Kubów. She will guide you through writing the JavaScript line-by-line, teaching you best practices along the way. By the end of this course, you'll have built two playable games that you can share with your friends and family. (2 hour YouTube course): https://www.freecodecamp.org/news/javascript-tutorial-code-two-word-games/
+
+3. PHP is a popular back-end development programming language for websites. Even though most new websites use more contemporary frameworks like Node.js or Django, a significant portion of the web still uses PHP — including Wikipedia, Tumblr, and millions of WordPress sites. Flavio Copes is a software engineer and long-time freeCodeCamp contributor. If you're looking for a solid, up-to-date PHP reference, he just published his PHP Handbook and made it freely available. At the very least it's worth bookmarking. (full length book): https://www.freecodecamp.org/news/the-php-handbook/
+
+4. An outlier is a data point that is significantly different from the rest of your data. These may be “true outliers”, which are truly exceptional data points. But many outliers are just caused by errors in your data collection process. This Python tutorial will teach you some common techniques for detecting this statistical noise and removing it from your datasets. (10 minute read): https://www.freecodecamp.org/news/how-to-detect-outliers-in-machine-learning/
+
+5. A React Hook is a special kind of function that lets you "hook into" powerful React features. If you're interested in React or front-end JavaScript development, this tutorial by long-time freeCodeCamp contributor Eduardo Vedes will teach you one of the most popular hooks – useState – in just a few minutes. (10 minute read): https://www.freecodecamp.org/news/learn-react-usestate-hook-in-10-minutes/
+
+Our charity is getting so close to the 10,000 supporter milestone. We now have 8,263 kind people around the world who donate each month to support our mission. If you are in a position where you can help us create more learning resources, we will put anything you send our way to good use: https://www.freecodecamp.org/donate
+
+Quote of the Week: “I know a ton of Ruby devs who named their kid Ruby but not a single JavaScript engineer with a kid named DOM.” — Emily Freeman, Software Engineer and Author
+
+Happy coding.
+
+- Quincy Larson
+
+Teacher at https://www.freecodecamp.org
+I share useful things on Twitter at https://www.twitter.com/ossia
+
+If these emails aren't worth your time, you can turn them off: https://www.freecodecamp.org/ue/eZV2T3gHC7IGcwcpYPG64

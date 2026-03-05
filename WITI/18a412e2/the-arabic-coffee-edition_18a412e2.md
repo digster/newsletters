@@ -1,0 +1,28 @@
+---
+subject: "The Arabic Coffee Edition"
+from: "\"Why is this interesting?\" <whyisthisinteresting@substack.com>"
+to: ""
+date: 2023-08-29 12:00:38
+labels: ["CATEGORY_PERSONAL", "INBOX", "UNREAD", "WITI"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "UNREAD", "Label_5752899537867939131"]
+---
+Colin here. A lovely element of Middle Eastern, and particularly Gulf, hospitality is Arabic coffee, served out of a distinctive looking pot called a [Dallah](https://substack.com/redirect/e1f15c68-e691-45ac-a52d-155e37f109ed?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o). It is a ceremonial act of generosity, and can be seen in many settings like homes, parties, events, or entering a hotel or onboard certain airlines in the region. Coffee has a longstanding role in society, and similar to in the West, it is about conviviality and looking after guests.
+As the [Gulf Times explains:](https://substack.com/redirect/29974c51-3e71-4e0b-b440-0ad785bf8e04?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+Historians believe that the origins of coffee goes back to Ethiopia, where it was discovered in the 9th century CE, specifically in the Kaffa region. Researchers believe that coffee cultivation was transferred from there to the south of the Arabian Peninsula in Yemen during the 15th century CE, and its spread began among Arabs and their neighbours, and became linked to social and cultural sessions through the spread of cafes.
+The early discoveries of the brew were said to be a revelation, getting rid of sluggishness and due to these effects, the bean went viral in the region. It’s not your Venti latte, however, the caffeine levels are a bit lighter than Western-style coffees, owing to the lighter blend and brewing techniques.
+The coffee presentation also comes with its own rituals: people often drink one, but not more than three of the small cups (called finjen), and it is tradition to continue pouring coffee until the guest declines or shakes his cup without speaking. According to [Arab Dalla: ](https://substack.com/redirect/f34c64d3-39d6-4a5d-8f53-0420c383bd12?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+When the coffee servers or Maga-we enters they will make a sound by shaking the cups for the guest to know that coffee is ready to be served. Then the Maga-we would hold the coffee pot in his left hand and a number of cups in the right, and the guest is served just enough coffee to cover the bottom of the cup and after he drinks it the cup will be filled, again and again, when the guest had sufficient coffee, he will indicate by wiggling the cup from side to side.
+WITI Classifieds:
+We are experimenting with running some weekly classifieds in WITI. If you’re interested in running an ad,[ you can purchase one through this form](https://substack.com/redirect/33aed4ea-216d-4c1f-b753-4776c8517486?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o). If you have any questions, don’t hesitate to drop a line.
+Interpreting the internet for the tasteful reader. Join 23,000+ subscribers who rely on Dirt for their cultural alpha. [Subscribe for free](https://substack.com/redirect/08ad8225-7e6b-45a3-977b-6e794d6aa99d?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o).
+Why is this interesting?
+The flavor profile of Arabic coffee is different than what we have in the West. There is a strong aroma and a lighter consistency that has more of a tea-like mouthfeel, which comes from roasting coffee beans then boiling them with cardamom and saffron.
+There is also some regional nuance. In Saudi Arabia, coffee might contain saffron. In the UAE, some might roast the beans with a bit of butter, or add rose water at the end of the boiling process. In Oman, coffee has more spice, with cloves added.
+In 2010, [UNESCO recognized](https://substack.com/redirect/d4f3b916-2e9f-4fac-8dd8-f7a4aa41120f?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) Arabic coffee as an “intangible cultural heritage, acknowledging its importance in Arab society and its role in promoting generosity, hospitality, and socializing.” (CJN)
+Quick Links:
+How to [make Arabic coffee](https://substack.com/redirect/62e98fb1-3a2c-4c52-9f62-d5580762409b?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+—
+Thanks for reading,
+Noah (NRB) & Colin (CJN)
+—
+[Why is this interesting?](https://substack.com/redirect/011f5fde-7409-4793-9611-d00b8b240686?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) is a daily email from[ Noah Brier](https://substack.com/redirect/7841e670-918a-4dbf-a198-846a3ff7c5a8?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) &[ Colin Nagy](https://substack.com/redirect/e9f49c04-8a0a-43e6-af5a-bb0e9a7ba11d?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) (and friends!) about interesting things. If you’ve enjoyed this edition, please consider forwarding it to a friend. If you’re reading it for the first time, consider[ subscribing](https://substack.com/redirect/4c59b7c8-9c2e-4d30-b202-ec2ffe9eb4b9?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o).

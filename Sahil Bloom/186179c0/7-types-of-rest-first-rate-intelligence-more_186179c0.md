@@ -1,0 +1,27 @@
+---
+subject: "7 Types of Rest, First-Rate Intelligence, & More"
+from: "\"Sahil Bloom's Curiosity Chronicle\" <sahil@sahilbloom.com>"
+to: ""
+date: 2023-02-03 14:09:05
+labels: ["CATEGORY_PERSONAL", "INBOX", "Sahil Bloom", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_1989028747625928812", "UNREAD"]
+---
+7 Types of Rest, First-Rate Intelligence, & Moreread on read time 4 minutes Here are 5 interesting ideas to spark your curiosity heading into the weekend. Today at a Glance:- Quote: First-rate intelligence.
+- Framework: The 7 Types of Rest
+- Tweet: Crazy music marketing.
+- Article: Ending productivity debt.
+- Podcast: Mastering mindset.
+Today's Newsletter is Brought to You by Own the future of travel Invest smarter with Wander Atlas. This first-of-its-kind Vacation Rental REIT offers accredited investors the opportunity to earn income and diversify their portfolio without having to manage bookings, change light bulbs, or clean up after guests. With quarterly distributions delivered straight to your bank account and a network of vacation homes across the United States - from Southern Oregon to Joshua Tree, and Hudson Valley to Surfside Beach - it's never been easier for you to get into vacation rental investing.
+Quote:"The test of a first-rate intelligence is the ability to hold two opposed ideas in mind at the same time and still retain the ability to function." - F. Scott Fitzgerald The willingness to change your mind is a superpower of the modern age. Framework:The 7 Types of RestBurnout has become an all-too-common phenomenon of the modern era. Perhaps it's a result of our constant connectedness, which keeps us plugged into something 24/7, or maybe a byproduct of the remote/hybrid work movement, which means we aren't commuting, but are expected to respond to work emails at nights and on weekends. Whatever the cause, we all need to have a plan for getting rest and avoiding burnout. Sleep is the logical solution—we sleep to rest. But She proposes that there are seven types of rest: - Physical Rest: Can be passive (sleeping, napping) or active (yoga, stretching, massage).
+- Mental Rest: Take short breaks between tasks and meetings, create a
+[power-down ritual](https://click.convertkit-mail4.com/k0uv7dd8rna6hd95q2eak/6qheh8hp436m8duo/aHR0cHM6Ly93d3cuc2FoaWxibG9vbS5jb20vbmV3c2xldHRlci9ob3ctdG8tcG93ZXItZG93bi10by1yZWNsYWltLXlvdXItbGlmZQ==)to separate work from personal, meditate. - Sensory Rest: Turn off social media, get away from screens and bright lights, switch from Zoom to phone call.
+- Creative Rest: Can be natural (taking in a sunrise/sunset, walking in the woods) or man-made (going to a museum, experiencing new music).
+- Emotional Rest: Spend time alone or with people with whom you can be your full, authentic self.
+- Social Rest: Spend less time with people who drain your energy and more time with people who give you energy.
+- Spiritual Rest: Connect with something bigger than yourself. Can be through volunteering, working on a purpose-driven job, or participating in spiritual or faith-based activities.
+While this may seem like a lot, you can actually hit multiple types of rest with single simple additions to your weekly routine. For example, adding a daily As you think about your days, make sure you are finding ways to incorporate the seven types of rest into your life. You'll feel more comprehensively recharged and ready to take on life's challenges as a result. Tweet:Awe-inspiring creativity and marketing skills from this 28-year-old rapper.
+The "TikTok-ization" of the music industry is fascinating. Songs are getting shorter, choruses are hitting earlier, and marketing is happening on the ground. It all seems to level the opportunity playing field for up-and-coming artists. Interesting to follow. Article: Good short read from my friend (and favorite modern productivity philosopher) Oliver Burkeman. His observation is that most people start the day with this feeling that they are in some sort of Productivity Debt, meaning they have to struggle to get things done during the day to work back to even. He proposes a reframe: Start every day at even, with the feeling that anything you accomplish is pushing you above that line. I liked his idea of keeping a "Done List" that you add to as you get things done during the day. It's a neat behavioral trick to flip something stress-inducing (all the stuff I have to get done) into something happiness inducing (all the stuff I've gotten done). Podcast:Mastering Mindset: A Deep Dive on Mental Toughness This compilation episode of the Rich Roll Podcast was great, including insights from Mel Robbins, James Clear, David Goggins, and more. A few favorites: - Mel Robbins would give herself a "5-4-3-2-1 liftoff!" countdown to start every morning. It was a simple shift in mindset that kickstarted all of her days.
+- James Clear talked about the two-minute rule, which says that you should scale down any habit you're trying to build to two minutes. This makes the initial action feel automatic and lets you build momentum.
+- Andrew Huberman mentioned the physiological sigh, a technique with a double nasal inhale followed by an extended exhale that promotes stress relief.
+Listen to it Refer Friends, Earn Rewards!
+If you enjoyed today's newsletter, please share it with your friends and family! If this email was forwarded to you, consider |

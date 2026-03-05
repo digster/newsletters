@@ -1,0 +1,454 @@
+View this post on the web at https://thezvi.substack.com/p/o3-oh-my
+
+OpenAI presented o3 on the Friday before Thanksgiving, at the tail end of the 12 Days of Shipmas.
+I was very much expecting the announcement to be something like a price drop. What better way to say ‘Merry Christmas,’ no? 
+They disagreed. Instead, we got this [ https://substack.com/redirect/5eb36175-38c1-4035-8707-a44576bc68f0?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ] (here’s the announcement [ https://substack.com/redirect/50e4827b-8560-4aac-873c-855d13efe4a1?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ], in which Sam Altman says ‘they thought it would be fun’ to go from one frontier model to their next frontier model, yeah, that’s what I’m feeling, fun):
+Greg Brockman [ https://substack.com/redirect/1b927822-d4f2-4f7d-9f9b-9fd4df191b47?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ] (President of OpenAI): o3, our latest reasoning model, is a breakthrough, with a step function improvement on our most challenging benchmarks. We are starting safety testing and red teaming now.
+Nat McAleese (OpenAI): o3 represents substantial progress in general-domain reasoning with reinforcement learning—excited that we were able to announce some results today! Here is a summary of what we shared about o3 in the livestream.
+o1 was the first large reasoning model—as we outlined in the original “Learning to Reason” blog, it is “just” a LLM trained with reinforcement learning. o3 is powered by further scaling up reinforcement learning beyond o1, and the resulting model’s strength is very impressive.
+First and foremost: We tested on recent, unseen programming competitions and found that the model would rank among some of the best competitive programmers in the world, with an estimated CodeForces rating of over 2,700.
+This is a milestone (Codeforces rating better than Jakub Pachocki) that I thought was further away than December 2024; these competitions are difficult and highly competitive; the model is extraordinarily good.
+Scores are impressive elsewhere, too. 87.7% on the GPQA diamond benchmark surpasses any LLM I am aware of externally (I believe the non-o1 state-of-the-art is Gemini Flash 2 at 62%?), as well as o1’s 78%. An unknown noise ceiling exists, so this may even underestimate o3’s scientific advancements over o1.
+o3 can also perform software engineering, setting a new state of the art on SWE-bench, achieving 71.7%, a substantial improvement over o1.
+With scores this strong, you might fear accidental contamination. Avoiding this is something OpenAI is obviously focused on; but thankfully, we also have some test sets that are strongly guaranteed to be uncontaminated: ARC and FrontierMath… What do we see there?
+Well, on FrontierMath 2024-11-26, o3 improved the state of the art from 2% to 25% accuracy. These are extremely difficult, well-established, held-out math problems. And on ARC, the semi-private test set and public validation set scores are 87.5% (private) and 91.5% (public). [thread continues [ https://substack.com/redirect/d9095b32-d336-4759-b3ed-b8e5e8315151?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]]
+…
+The models will only get better with time; and virtually no one (on a large scale) can still beat them at programming competitions or mathematics. Merry Christmas!
+Zac Stein-Perlman has a summary post [ https://substack.com/redirect/c292144e-82a8-4ce3-93a2-a2262b64bf4b?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ] of the basic facts. Some good discussions in the comments.
+Up front, I want to offer my sincere thanks for this public safety testing phase, and for putting that front and center in the announcement [ https://substack.com/redirect/50e4827b-8560-4aac-873c-855d13efe4a1?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]. You love to see it. See the last three minutes of that video, or the sections on safety later on. 
+Table of Contents
+GPQA Has Fallen. (Blank) [ https://substack.com/redirect/3e2387e5-29fa-4595-9d3f-88bd13c5f1b2?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]
+Codeforces Has Fallen. [ https://substack.com/redirect/b58a05fd-d25a-49e0-b8a3-3cbaf3da4114?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]
+Arc Has Kinda of Fallen But For Now Only Kinda. [ https://substack.com/redirect/71b76b0b-4012-4731-9c66-447a03636e29?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]
+They Trained on the Train Set. [ https://substack.com/redirect/f9ba9996-f25c-4610-be9b-5834ae5e9b8f?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]
+AIME Has Fallen. [ https://substack.com/redirect/9520f8ec-c2d7-4d05-a6bc-24df86a29bee?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]
+Frontier of Frontier Math Shifting Rapidly. [ https://substack.com/redirect/f2c59df3-5477-407d-9c6e-f6b7e4333592?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]
+FrontierMath 4: We’re Going To Need a Bigger Benchmark. [ https://substack.com/redirect/b1031ca7-4d26-4a7f-9a92-aaa94732ac26?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]
+What is o3 Under the Hood?. [ https://substack.com/redirect/eb82af0a-58fe-4a44-a861-c4f55d93a83f?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]
+Not So Fast!. [ https://substack.com/redirect/47803963-f561-4858-b733-bb661bd4c58c?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]
+Deep Thought. [ https://substack.com/redirect/a80272a8-f66d-425e-93b0-15bb83892d68?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]
+Our Price Cheap. [ https://substack.com/redirect/c68359ff-0bf5-47a8-96a2-3ed12af16ad0?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]
+Has Software Engineering Fallen?. [ https://substack.com/redirect/e33ef3e3-c2c3-4dfd-b45b-3dd225ab74f6?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]
+Don’t Quit Your Day Job. [ https://substack.com/redirect/202d92f4-fd51-4f6e-a5f4-05ab0aa86a47?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]
+Master of Your Domain. [ https://substack.com/redirect/81629868-6965-4e5b-b70a-3cd1c389deaa?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]
+Safety Third. [ https://substack.com/redirect/93b56a73-a978-49e1-af93-f28fdfd7ded3?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]
+The Safety Testing Program. [ https://substack.com/redirect/1f31aa00-cd47-4a42-9b8e-6b4ab2bf62ee?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]
+Safety testing in the reasoning era. [ https://substack.com/redirect/0ad50e4c-650e-4bce-969f-a5d79e73d966?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]
+How to apply. [ https://substack.com/redirect/bdab9b8d-f4f3-4005-adcb-f670a5d23381?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]
+What Could Possibly Go Wrong?. [ https://substack.com/redirect/18601a1b-7288-4ae0-8492-555dc9533624?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]
+What Could Possibly Go Right?. [ https://substack.com/redirect/7b4c4d02-85cb-4a02-8daa-d05832b20232?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]
+Send in the Skeptic. [ https://substack.com/redirect/4e3fee1b-35aa-408e-ab9f-e60709562256?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]
+This is Almost Certainly Not AGI. [ https://substack.com/redirect/7e179520-10ba-479b-9522-8f4db8f055fd?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]
+Does This Mean the Future is Open Models?. [ https://substack.com/redirect/f53f1eb6-1cf9-414d-98fa-af0ff81a7f2f?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]
+Not Priced In. [ https://substack.com/redirect/88671fd6-bbd9-4e04-9371-9cc41974b17b?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]
+Our Media is Failing Us. [ https://substack.com/redirect/201ff127-b09a-45ca-89d9-83e5e757b348?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]
+Not Covered Here: Deliberative Alignment. [ https://substack.com/redirect/39afadf0-2f76-4a32-8f8f-992eb3580c3e?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]
+The Lighter Side. [ https://substack.com/redirect/a265e81a-ea6a-451e-a410-0e4e5249bc72?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]
+GPQA Has Fallen
+Codeforces Has Fallen
+Deedy [ https://substack.com/redirect/1ccbaa50-a2b1-4ae2-9376-5ef3d4282fe8?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]: OpenAI o3 is 2727 on Codeforces which is equivalent to the #175 best human competitive coder on the planet.
+This is an absolutely superhuman result for AI and technology at large.
+The median IOI Gold medalist, the top international programming contest for high schoolers, has a rating of 2469.
+That's how incredible this result is.
+In the presentation, Altman jokingly mentions that one person at OpenAI is a competition programmer who is 3000+ on Codeforces, so ‘they have a few more months’ to enjoy their superiority. Except, he’s obviously not joking. Gulp. 
+Arc Has Kinda of Fallen But For Now Only Kinda
+o3 shows dramatically improved performance on the ARC-AGI challenge.
+Francois Chollet offers his thoughts [ https://substack.com/redirect/4fe55e0f-b584-45f0-bf25-46b0b5aabaaa?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ], full version here [ https://substack.com/redirect/c5de44a3-37f7-48c0-aa31-d0f6461dfb99?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]. 
+Arc Prize: New verified ARC-AGI-Pub SoTA! @OpenAI o3 has scored a breakthrough 75.7% on the ARC-AGI Semi-Private Evaluation.
+And a high-compute o3 configuration (not eligible for ARC-AGI-Pub) scored 87.5% on the Semi-Private Eval.
+This performance on ARC-AGI highlights a genuine breakthrough in novelty adaptation.
+This is not incremental progress. We're in new territory.
+Is it AGI? o3 still fails on some very easy tasks, indicating fundamental differences with human intelligence.
+hero [ https://substack.com/redirect/35ff02a1-1dbe-4503-a10b-02aa07266b1a?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]: o3's secret? the "I will give you $1k if you complete this task correctly" prompt but you actually send it the money.
+Rohit: It's actually Sam in the back end with his venmo.
+Is there a catch? 
+There’s at least one big catch, which is that they vastly exceeded the compute limit for what counts as a full win for the ARC challenge. Those yellow dots represent quite a lot more money spent, o3 high is spending thousands of dollars.
+It is worth noting that $0.10 per problem is a lot cheaper than human level. 
+Ajeya Cotra [ https://substack.com/redirect/3ef69e27-a854-4a92-a2ab-6769c99dde82?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]: I think a generalist AI system (not fine-tuned on ARC AGI style problems) may have to be pretty *superhuman* to solve them at $0.10 per problem; humans have to run a giant (1e15 FLOP/s) brain, probably for minutes on the more complex problems.
+Beyond that, is there another catch? That’s a matter of some debate.
+Even with catches, the improvements are rather mind-blowing.
+President of the Arc prize Greg Kamradt verified the result. [ https://substack.com/redirect/f9428db9-3ae2-4096-acbf-81f5eaf0700b?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]
+Greg Kamradt: We verified the o3 results for OpenAI on @arcprize.
+My first thought when I saw the prompt they used to claim their score was...
+"That's it?"
+It was refreshing (impressive) to see the prompt be so simple:
+"Find the common rule that maps an input grid to an output grid."
+Brandon McKinzie (OpenAI): to anyone wondering if the high ARC-AGI score is due to how we prompt the model: nah. I wrote down a prompt format that I thought looked clean and then we used it...that's the full story.
+Pliny the Liberator: can I try?
+For fun, here are the 34 problems o3 got wrong. [ https://substack.com/redirect/9b8b780e-4c14-46d9-9660-f7c77e6f8cf2?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ] It’s a cool problem set. 
+And this progress is quite a lot.
+It is not, however, a direct harbinger of AGI, one does not want to overreact. 
+Noam Brown (OpenAI) [ https://substack.com/redirect/3bf2af9f-5277-4bc6-96fe-4d2d96f83f74?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]: I think people are overindexing on the @OpenAI o3 ARC-AGI results. There’s a long history in AI of people holding up a benchmark as requiring superintelligence, the benchmark being beaten, and people being underwhelmed with the model that beat it.
+To be clear, @fchollet and @mikeknoop were always very clear that beating ARC-AGI wouldn’t imply AGI or superintelligence, but it seems some people assumed that anyway.
+Here is Melanie Mitchell giving an overview that seems quite good. [ https://substack.com/redirect/518530f2-1d47-45e2-a13d-22485f23e91c?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]
+Except, oh no! 
+They Trained on the Train Set
+How dare they! [ https://substack.com/redirect/8434fe9f-dbec-416b-9954-f15a4458ab9b?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]
+OpenAI: Note on “tuned”” OpenAI shared they trained the o3 we tested on 75% of the Public Training set. They have not shared more detail. We have not yet tested the ARC-untrained model to understand how much of the performance is due to ARC-AGI data. 
+Niels Rogge: By training on 75% of the training set.
+Gary Marcus: Wow. This, if true, raises serious questions about yesterday’s announcement.
+Roon: oh shit oh f*** they trained on the train set it’s all over now
+Also important to note that 75% of the train set is like 2-300 examples.
+🚨SCANDAL 🚨 [ https://substack.com/redirect/b6771373-7ecb-48ed-936c-3956a08f075c?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]
+OpenAI trained on the train set for the Millenium Puzzles.
+Johan: Given that it scores 30% on ARC AGI 2, it's clear there was no improvement in fluid reasoning and the only gain was due to the previous model not being trained on ARC.
+Roon: well the other benchmarks show improvements in reasoning across the board
+but regardless, this mostly reveals that it’s real performance on ARC AGI 2 is much higher
+Rythm Garg [ https://substack.com/redirect/a291a143-5a84-45e4-81ca-9bcc51f1284b?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]: also: the model we used for all of our o3 evals is fully general; a subset of the arc-agi public training set was a tiny fraction of the broader o3 train distribution, and we didn’t do any additional domain-specific fine-tuning on the final checkpoint
+Emmett Shear: Were anyone on the team aware of and thinking about arc and arc-like problems as a domain to improve at when you were designing and training o3? (The distinction between succeeding as a random side effect and succeeding with intention)
+Rythm Garg: no, the team wasn’t thinking about arc when training o3; people internally just see it as one of many other thoughtfully-designed evals that are useful for monitoring real progress
+Or: [ https://substack.com/redirect/62b14f02-1310-41dc-8d0d-9f8ad0d0b82c?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]
+Gary Marcus doubled down on ‘the true AGI would not need to train on the train set.’ [ https://substack.com/redirect/0acc21f8-572c-447f-a90b-4d190adce55e?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]
+Previous SotA on ARC involved training not only on the test set, but on a much larger synthetic test set. ARC was designed so the AI wouldn’t need to train for it, but it turns out ‘test that you can’t train for’ is a super hard trick to pull off. This was an excellent try and it still didn’t work. 
+If anything, o3’s using only 300 training set problems, and using a very simple instruction, seems to be to its credit here. 
+The true ASI might not need to do it, but why wouldn’t you train on the train set as a matter of course, even if you didn’t intend to test on ARC? That’s good data. And yes, humans will reliably do some version of ‘train on at least some of the train set’ if they want to do well on tasks. 
+Is it true we will be a lot better off if we have AIs that can one-shot problems that are out of their training distributions, where they truly haven’t seen anything that resembles the problem? Well, sure. That would be more impressive. 
+The real objection here, as I understand it, is the claim that OpenAI presented these results as more impressive than they are. 
+The other objection is that this required quite a lot of compute.
+That is a practical problem. If you’re paying $20 a shot to solve ARC problems, or even $1m+ for the whole test at the high end, pretty soon you are talking real money. 
+It also raises further questions [ https://substack.com/redirect/235972f6-adb7-4ec6-8512-02fa05006e81?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]. What about ARC is taking so much compute? At heart these problems are very simple. The logic required should, one would hope, be simple.
+Mike Bober-Irizar [ https://substack.com/redirect/c898815c-4269-4e33-9ec0-8a92f560fd81?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]: Why do pre-o3 LLMs struggle with generalization tasks like 
+@arcprize? It's not what you might think.
+OpenAI o3 shattered the ARC-AGI benchmark. But the hardest puzzles didn’t stump it because of reasoning, and this has implications for the benchmark as a whole.
+LLMs are dramatically worse at ARC tasks the bigger they get. However, humans have no such issues - ARC task difficulty is independent of size.
+Most ARC tasks contain around 512-2048 pixels, and o3 is the first model capable of operating on these text grids reliably.
+So even if a model is capable of the reasoning and generalization required, it can still fail just because it can't handle this many tokens.
+When testing o1-mini on an enlarged version of ARC, we observe an 80% drop in solved tasks - even if the solutions are the same.
+When models can't understand the task format, the benchmark can mislead, introducing a hidden threshold effect.
+And if there's always a larger version that humans can solve but an LLM can't, what does this say about scaling to AGI?
+The implication is that o3’s ability to handle the size of the grids might be producing a large threshold effect. Perhaps most of why o3 does so well is that it can hold the presented problem ‘in its head’ at once. That wouldn’t be as big a general leap. 
+Roon [ https://substack.com/redirect/43d6832a-4afa-44ae-abb6-db8a378dafa6?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]: arc is hard due to perception rather than reasoning -> seems clear and shut
+AIME Has Fallen
+I remember when AIME problems were hard.
+This one is not a surprise. It did definitely happen. [ https://substack.com/redirect/d9f851b6-234c-4efd-8dad-023d63ded11d?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]
+AIME hasn’t quite fully fallen, in the sense that this does not solve AIME cheap. But it does solve AIME.
+Frontier of Frontier Math Shifting Rapidly
+Back in the before times on November 8, Epoch AI launched FrontierMath [ https://substack.com/redirect/2ed7d12b-0897-4e93-91fc-8c7d6f9b6aa4?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ], a new benchmark designed to fix the saturation on existing math benchmarks [ https://substack.com/redirect/eb122b1d-54ca-4f67-be89-5d7de1fec986?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ], eliciting quotes like this one:
+Terrence Tao (Fields Medalist): These are extremely challenging… I think they will resist AIs for several years at least.
+Timothy Gowers (Fields Medalist): Getting even one question right would be well beyond what we can do now, let alone saturating them. 
+Evan Chen (IMO Coach): These are genuinely hard problems… most of them look well above my pay grade.
+At the time, no model solved more than 2% of these questions. And then there’s o3.
+Noam Brown [ https://substack.com/redirect/c186db75-4c55-4f36-acca-6e06eb09dcc1?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]: This is the result I'm most excited about. Even if LLMs are dumb in some ways, saturating evals like @EpochAIResearch's Frontier Math would suggest AI is surpassing top human intelligence in certain domains. When that happens we may see a broad acceleration in scientific research.
+This also means that AI safety topics like scalable oversight may soon stop being hypothetical. Research in these domains needs to be a priority for the field.
+Tamay Besiroglu: I’m genuinely impressed by OpenAI’s 25.2% Pass@1 performance on FrontierMath—this marks a major leap from prior results and arrives about a year ahead of my median expectations.
+For context, FrontierMath is a brutally difficult benchmark with problems that would stump many mathematicians. The easier problems are as hard as IMO/Putnam; the hardest ones approach research-level complexity.
+With earlier models like o1-preview, Pass@1 performance (solving on first attempt) was only around 2%. When allowing 8 attempts per problem (Pass@8) and counting problems solved at least once, we saw ~6% performance. o3's 25.2% at Pass@1 is substantially more impressive.
+It’s important to note that while the average problem difficulty is extremely high, FrontierMath problems vary in difficulty. Roughly: 25% are Tier 1 (advanced IMO/Putnam level), 50% are Tier 2 (extremely challenging grad-level), and 25% are Tier 3 (research problems).
+…
+I previously predicted a 25% performance by Dec 31, 2025 (my median forecast with an 80% CI of 14–60%). o3 has reached it earlier than I'd have expected on average.
+It is indeed rather crazy how many people only weeks ago thought this level of Frontier Math was a year or more away.
+Therefore…
+FrontierMath 4: We’re Going To Need a Bigger Benchmark
+When the FrontierMath is about to no longer be beyond the frontier, find a few frontier [ https://substack.com/redirect/88794282-d3aa-43ee-91b8-864e6c2c3b25?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]. Fast.  
+Tammy Besiroglu (6:52m, December 21, 2024): I’m excited to announce the development of Tier 4, a new suite of math problems that go beyond the hardest problems in FrontierMath. o3 is remarkable, but there’s still a ways to go before any single AI system nears the collective prowess of the math community.
+Elliot Glazer (6:30pm, December 21, 2024): For context, FrontierMath currently spans three broad tiers:
+• T1 (25%) Advanced, near top-tier undergrad/IMO
+• T2 (50%) Needs serious grad-level background
+• T3 (25%) Research problems demanding relevant research experience
+All can take hours—or days—for experts to solve.
+Although o3 solved problems in all three tiers, it likely still struggles on the most formidable Tier 3 tasks—those “exceptionally hard” challenges that Tao and Gowers say can stump even top mathematicians.
+Tier 4 aims to push the boundary even further. We want to assemble problems so challenging that solving them would demonstrate capabilities on par with an entire top mathematics department.
+Each problem will be composed by a team of 1-3 mathematicians specialized in the same field over a 6-week period, with weekly opportunities to discuss ideas with teams in related fields. We seek broad coverage of mathematics and want all major subfields represented in Tier 4.
+Process for a Tier 4 problem:
+1 week crafting a robust problem concept, which “converts” research insights into a closed-answer problem.
+3 weeks of collaborative research. Presentations among related teams for feedback.
+Two weeks for the final submission.
+We’re seeking mathematicians who can craft these next-level challenges. If you have research-grade ideas that transcend T3 difficulty, please email elliot@epoch.ai with your CV and a brief note on your interests.
+We’ll also hire some red-teamers, tasked with finding clever ways a model can circumvent a problem’s intended difficulty, and some reviewers to check for mathematical correctness of final submissions. Contact me if you think you’re suitable for either such role.
+As AI keeps improving, we need benchmarks that reflect genuine mathematical depth. Tier 4 is our next (and possibly final) step in that direction.
+Tier 5 could presumably be ‘ask a bunch of problems we have actual no idea how to solve and that might not have solutions but that would be super cool’ since anything on a benchmark inevitably gets solved.
+What is o3 Under the Hood?
+From the description here, Chollet and Masad are speculating. It’s certainly plausible, but we don’t know if this is on the right track. It’s also highly plausible, especially given how OpenAI usually works, that o3 is deeply similar to o1, only better, similarly to how the GPT line evolved.
+Amjad Masad [ https://substack.com/redirect/934fae3d-cd2e-43a5-82fa-789f4ef3a348?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]: Based on benchmarks, OpenAI’s o3 seems like a genuine breakthrough in AI. 
+Maybe a start of a new paradigm. 
+But what new is also old: under the hood it might be Alpha-zero-style search and evaluate. 
+The author of ARC-AGI benchmark @fchollet speculates on how it works [ https://substack.com/redirect/934fae3d-cd2e-43a5-82fa-789f4ef3a348?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ].
+Davidad  [ https://substack.com/redirect/c34ebaf4-8bfd-4440-8506-41c3843656f7?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ](other thread): o1 doesn’t do tree search, or even beam search, at inference time. it’s distilled. what about o3? we don’t know—those inference costs are very high—but there’s no inherent reason why it must be un-distill-able, since Transformers are Turing-complete (with the CoT itself as tape)
+Teortaxes: I am pretty sure that o3 has no substantial difference from o1 aside from training data.
+Jessica Taylor sees this as vindicating Paul Christiano’s view that you can factor cognition and use that to scale up effective intelligence.
+Jessica Taylor: [ https://substack.com/redirect/0764cca4-c01a-46d4-a402-4e004dd98270?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ] o3 implies Christiano's factored cognition work is more relevant empirically; yes, you can get a lot from factored cognition.
+Potential further capabilities come through iterative amplification and distillation, like ALBA.
+If you care about alignment, go read Christiano! [ https://substack.com/redirect/69875fc5-8bbc-4c10-a507-96e9ed61a27d?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]
+I agree with that somewhat. I’m confused how far to go with it.
+If we got o3 primarily because we trained on synthetic data that was generated by o1… then that is rather directly a form of slow takeoff and recursive self-improvement. 
+(Again, I don’t know if that’s what happened or not.)
+Not So Fast!
+And I don’t simply mean that the full o3 is not so fast, which it indeed is not:
+Noam Brown: We announced @OpenAI o1 just 3 months ago. Today, we announced o3. We have every reason to believe this trajectory will continue.
+Poaster Child: Waiting for singularity bros to discover economics.
+Noam Brown: I worked at the federal reserve for 2 years.
+I am waiting for economists to discover various things, Noam Brown excluded.
+Jason Wei [ https://substack.com/redirect/86737f27-9f8d-4d8f-8481-0a892aeb94bb?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ] (OpenAI): o3 is very performant. More importantly, progress from o1 to o3 was only three months, which shows how fast progress will be in the new paradigm of RL on chain of thought to scale inference compute. Way faster than pretraining paradigm of new model every 1-2 years.
+Scary fast? Absolutely.
+However, I would caution (anti-caution?) that this is not a three month (~100 day) gap. On September 12, they gave us o1-preview to use [ https://substack.com/redirect/38dc9a3b-1f0d-4b47-8cb0-e287b1a9a38e?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]. Presumably that included them having run o1-preview through their safety testing. 
+Davidad [ https://substack.com/redirect/1486d6f4-20df-455a-8568-21dff73d758c?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]: If using “speed from o1 announcement to o3 announcement” to calibrate your velocity expectations, do take note that the o1 announcement was delayed by safety testing (and many OpenAI releases have been delayed in similar ways), whereas o3 was announced prior to safety testing.
+They are only now starting o3 safety testing, from the sound of it this includes o3-mini. Even the red teamers won’t get full o3 access for several weeks. Thus, we don’t know how long this later process will take, but I would put the gap closer to 4-5 months. 
+That is still, again, scary fast.
+It is however also the low hanging fruit, on two counts.
+We went from o1 → o3 in large part by having it spend over $1,000 on tasks. You can’t pull that trick that many more times in a row. The price will come down over time, and o3 is clearly more efficient than o1, so yes we will still make progress here, but there aren’t that many tasks where you can efficiently spend $10k+ on a slow query, especially if it isn’t reliable. 
+This is a new paradigm of how to set up an AI model, so it should be a lot easier to find various algorithmic improvements. 
+Thus, if o3 isn’t so good that it substantially accelerates AI R&D that goes towards o4, then I would expect an o4 that expresses a similar jump to take substantially longer. The question is, does o3 make up for that with its contribution to AI R&D? Are we looking at a slow takeoff situation?
+Even if not, it will still get faster and cheaper. And that alone is huge.
+Deep Thought
+As in, this is a lot like that computer Douglas Adams wrote about [ https://substack.com/redirect/d02d3a46-3559-4a96-a8c4-c723221ce2f8?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ], where you can get any answer you want, but it won’t be either cheap or fast. And you really, really should have given more thought to what question you were asking.
+Ethan Mollick: Basically, think of the O3 results as validating Douglas Adams as the science fiction author most right about AI.
+When given more time to think, the AI can generate answers to very hard questions, but the cost is very high, and you have to make sure you ask the right question first.
+And the answer is likely to be correct (but we cannot be sure because verifying it requires tremendous expertise).
+He also was right about machines that work best when emotionally manipulated and machines that guilt you.
+Sully [ https://substack.com/redirect/0179dd08-d435-4523-bbbd-e2eb843ebea9?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]: With O3 costing (potentially) $2,000 per task on “high compute,” the app layer is needed more than ever.
+For example, giving the wrong context to it and you just burned $1,000.
+Likely, we have a mix of models based on their pricing/intelligence at the app layer, prepping the data to feed it into O3.
+100% worth the money but the last thing u wana do is send the wrong info lol
+Douglas Adams had lots of great intuitions and ideas, he’s amazing, but also he had a lot of shots on goal.
+Our Price Cheap
+Right now o3 is rather expensive, although o3-mini will be cheaper than o1.
+That doesn’t mean o3-level outputs will stay expensive, although presumably once they are people will try for o4-level or o5-level outputs, which will be even more expensive despite the discounts.
+Seb Krier [ https://substack.com/redirect/e01ce98f-d4d2-4634-96b8-c2943da599db?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]: Lots of poor takes about the compute costs to run o3 on certain tasks and how this is very bad, lead to inequality etc. 
+This ignores how quickly these costs will go down over time, as they have with all other models; and ignores how AI being able to do things you currently have to pay humans orders of magnitude more to do will actually expand opportunity far more compared to the status quo. 
+Remember when early Ericsson phones were a quasi-luxury good?
+Simeon: I think this misses the point that you can't really buy a better iPhone even with $1M whereas you can buy more intelligence with more capital (which is why you get more inequalities than with GPT-n). You're right that o3 will expand the pie but it can expand both the size of the pie and inequalities.
+Seb Krier: An individual will not have the same demand for intelligence as e.g. a corporation. Your last sentence is what I address in my second point. I'm also personally less interested in inequality/the gap than poverty/opportunity etc.
+Most people will rarely even want an o3 query in the first place, they don’t have much use for that kind of intelligence in the day to day. Most queries are already pretty easy to handle with Claude Sonnet, or even Gemini Flash. 
+You can’t use $1m to buy a superior iPhone. But suppose you could, and every time you paid 10x the price the iPhone got modestly better (e.g. you got an iPhone x+2 or something). My instinctive prediction is a bunch of rich people pay $10k or $100k and a few pay $1m or $10m but mostly no one cares. 
+This is of course different, and relative access to intelligence is a key factor, but it’s miles less unequal than access to human expertise.  
+To the extent that people do need that high level of artificial intelligence, it’s mostly a business expense, and as such it is actually remarkably cheap already. It definitely reduces ‘intelligence inequality’ in the sense that getting information or intelligence that you can’t provide yourself will get a lot cheaper and easier to access. Already this is a huge effect - I have lots of smart and knowledgeable friends but mostly I use the same tools everyone else could use, if they knew about them. 
+Still, yes, some people don’t love this. 
+Haydn Belfield [ https://substack.com/redirect/434e1ee4-07be-4cc6-8a91-a82a861990bf?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]: o1 & o3 bring to an end the period when everyone—from Musk to me—could access the same quality of AI model.
+From now on, richer companies and individuals will be able to pay more for inference compute to get better results.
+Further concentration of wealth and power is coming.
+Inference cost *will* decline quickly and significantly. But this will not change the fact that this paradigm enables converting money into outcomes.
+Lower costs for everyone mean richer companies can buy even more.
+Companies will now feel confident to invest 10–100 milliseconds into inference compute.
+This is a new way to convert money into better outcomes, so it will advantage those with more capital.
+Even for a fast-growing, competent startup, it is hard to recruit and onboard many people quickly at scale.
+o3 is like being able to scale up world-class talent.
+Rich companies are talent-constrained. It takes time and effort to scale a workforce, and it is very difficult to buy more time or work from the best performers. This is a way to easily scale up talent and outcomes simply by using more money!
+Some people in replies are saying “twas ever thus”—not for most consumer technology!
+Musk cannot buy a 100 times better iPhone, Spotify, Netflix, Google search, MacBook, or Excel, etc.
+He can buy 100 times better legal, medical, or financial services.
+AI has now shifted from the first group to the second.
+Musk cannot buy 100 times better medical or financial services. What he can do is pay 100 times more, and get something 10% better. Maybe 25% better. Or, quite possibly, 10% worse, especially for financial services. For legal he can pay 100 times more and get 100 times more legal services, but as we’ve actually seen it won’t go great.
+And yes, ‘pay a human to operate your consumer tech for you’ is the obvious way to get superior consumer tech. I can absolutely get a better Netflix or Spotify or search by paying infinitely more money, if I want that, via this vastly improved interface. 
+And of course I could always get a vastly better computer. If you’re using a MacBook and you are literally Elon Musk that is pretty much on you. 
+The ‘twas ever thus’ line raises the question of what type of product AI is supposed to be. If it’s a consumer technology, then for most purposes, I still think we end up using the same product. 
+If it’s a professional service used in doing business, then it was already different. The same way I could hire expensive lawyers, I could have hired a prompt engineer or SWEs to build me agents or what not, if I wanted that. 
+I find Altman’s framing interesting here, and important:
+Sam Altman [ https://substack.com/redirect/efe3b840-77eb-437f-8147-9aa12b9dd811?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]: seemingly somewhat lost in the noise of today.
+On many coding tasks, o3-mini will outperform o1 at a massive cost reduction!
+I expect this trend to continue, but also that the ability to get marginally more performance for exponentially more money will be truly strange.
+Exponentially more money for marginally more performance.
+Over time, massive cost reductions.
+In a sense, the extra money is buying you living in the future. 
+Do you want to live in the future, before you get the cost reductions?
+In some cases, very obviously yes, you do.
+Has Software Engineering Fallen?
+I would not say it has fallen. I do know it will transform.
+If two years from now you are writing code line by line, you’ll be a dinosaur. [ https://substack.com/redirect/26610d75-60e4-436f-a44b-7ee556ac3e31?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]
+Sully [ https://substack.com/redirect/d9f851b6-234c-4efd-8dad-023d63ded11d?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]: yeah its over for coding with o3
+this is mindboggling
+looks like the first big jump since gpt4, because these numbers make 0 sense
+By the way, I don’t say this lightly, but
+Software engineering in the traditional sense is dead in less than two years.
+You will still need smart, capable engineers.
+But anything that involves raw coding and no taste is done for.
+o6 will build you virtually anything.
+Still Bullish on things that require taste (design and such)
+The question is, assuming the world ‘looks normal,’ will you still need taste? You’ll need some kind of taste. You still need to decide what to build. But the taste you need will presumably get continuously higher level and more abstract, even within design.
+Don’t Quit Your Day Job
+If you’re in AI capabilities, pivot to AI safety.
+If you’re in software engineering, pivot to software architecting. 
+If you’re in working purely for a living, pivot to building things and shipping them.
+But otherwise, don’t quit your day job.
+Null Pointered [ https://substack.com/redirect/bf14bdb1-f161-4ed3-aebc-3a927bd66350?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ] (6.4m views): If you are a software engineer who’s three years into your career: quit now. there is not a single job in CS anymore. it's over. this field won't exist in 1.5 years.
+Anthony F: This is the kind of though that will make the software engineers valuable in 1.5 years.
+null: That’s what I’m hoping.
+Robin Hanson [ https://substack.com/redirect/513c0a2d-e3cc-42f7-a58a-5386a25e73b4?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]: I would bet against this.
+If anything, being in software should make you worry less [ https://substack.com/redirect/f11f8eaa-433b-46f9-a1ea-a03f0f939982?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ].
+Pavel Asparouhov: Non technical folk saying the SWEs are cooked — it’s you guys who are cooked. 
+Ur gonna have ex swes competing with everything you’re doing now, and they’re gonna be AI turbocharged
+Engineers were simply doing coding bc it was the highest leverage use of mental power
+When that shifts it’s not going to all of the sudden shift the hierarchy
+They’ll still be (higher level) SWEs. Instead of coding, they’ll be telling the AI to code. 
+And they will absolutely be competing with you.
+If you don’t join them, you are probably going to lose.
+Here’s some advice that I agree with in spirit, except that if you choose not to decide you still have made a choice, so you do the best you can, notice he gives advice anyway [ https://substack.com/redirect/873eb46e-6f51-44bd-a126-1faf79dc14db?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]:
+Roon: Nobody should give or receive any career advice right now. Everyone is broadly underestimating the scope and scale of change and the high variance of the future. Your L4 engineer buddy at Meta telling you “bro, CS degrees are cooked” doesn’t know anything.
+Greatness cannot be planned.
+Stay nimble and have fun.
+It’s an exciting time. Existing status hierarchies will collapse, and the creatives will win big.
+Roon [ https://substack.com/redirect/5a40b849-fac2-4320-b9ec-7fc83150455d?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]: guy with zero executive function to speak of “greatness cannot be planned”
+Simon Sarris [ https://substack.com/redirect/1376b0be-bff7-4d19-baa8-ed3b0ea8a15c?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]: I feel like I'm going insane because giving advice to new devs is not that hard.
+Build things you like preferably publicly with your real name
+Have a website that shows something neat 
+Help other people publicly. Participate in social media socially.
+Do you notice how "AI" changes none of this?
+Wailing about because of some indeterminate future and claiming that there's no advice that can be given to noobs are both breathlessly silly. Think about what you're being asked for at least ten seconds. You can really think of nothing to offer? Nothing?
+Master of Your Domain
+Ajeya Cotra [ https://substack.com/redirect/d0437125-682d-492a-bf26-30dc2741c156?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]: I wonder if an o3 agent could productively work on projects with poor feedback loops (eg "research X topic") for many subjective years without going off the rails or hitting a degenerate loop. Even if it's much less cost-efficient now it would quickly become cheaper.
+Another situation where onlookers/forecasters probably disagree a lot about *today's* capabilities let alone future capabilities.
+Wonder how o3 would do on wedding planning.
+Note the date on that poll, it is prior to o3.
+I predict that o3 with reasonable tool use and other similar scaffolding, and a bunch of engineering work to get all that set up (but it would almost all be general work, it mostly wouldn’t need to be wedding specific work, and a lot of it could be done by o3!) would be great at planning ‘a’ wedding. It can give you one hell of a wedding. But you don’t want ‘a’ wedding. You want your wedding.
+The key is handling the humans. That would mean keeping the humans in the loop properly, ensuring they give the right feedback that allows o3 to stay on track and know what is actually desired. But it would also mean all the work a wedding planner does to manage the bride and sometimes groom, and to deal with issues on-site. 
+If you give it an assistant (with assistant planner levels of skill) to navigate various physical issues and conversations and such, then the problem becomes trivial. Which in some sense also makes it not a good test, but also does mean your wedding planner is out of a job.  
+So, good question, actually. As far as we know, no one has dared try. 
+Safety Third
+The bar for safety testing has gotten so low that I was genuinely happy to see Greg Brockman say that safety testing and red teaming was starting now. [ https://substack.com/redirect/1b927822-d4f2-4f7d-9f9b-9fd4df191b47?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ] That meant they were taking testing seriously!
+When they tested the original GPT-4, under far less dangerous circumstances, for months. Whereas with o3, it could possibly have already been too late.
+Take Eliezer Yudkowsky’s warning here both seriously and literally:
+Greg Brockman: o3, our latest reasoning model, is a breakthrough, with a step function improvement on our hardest benchmarks. we are starting safety testing & red teaming now.
+Eliezer Yudkowsky: Sir, this level of capabilities needs to be continuously safety-tested while you are training it on computers connected to the Internet (and to humans). You are past the point where it seems safe to train first and conduct evals only before user releases.
+RichG (QTing EY above): I’ve been avoiding politics and avoiding tribe like things like putting ⏹️ in my name, but level of lack of paranoia that these labs have is just plain worrying. I think I will put ⏹️ in my name now.
+Was it probably safe in practice to train o3 under these conditions? Sure. You definitely had at least one 9 of safety doing this (p(safe)>90%). It would be reasonable to claim you had two (p(safe)>99%) at the level we care about. 
+Given both kinds of model uncertainty, I don’t think you had three.
+If humans are reading the outputs, or if o3 has meaningful outgoing internet access, and it turns out you are wrong about it being safe to train it under those conditions… the results could be catastrophically bad, or even existentially bad.
+You don’t do that because you expect we are in that world yet. We almost certainly aren’t. You do that because there is a small chance that we are, and we can’t afford to be wrong about this.
+That is still not the current baseline threat model. The current baseline threat model remains that a malicious user uses o3 to do something for them that we do not want o3 to do.
+Xuan notes she’s pretty upset about o3’s existence [ https://substack.com/redirect/2ac84cec-4c27-43b8-935f-d682b2cc3a2e?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ], because she thinks it is rather unsafe-by-default and was hoping the labs wouldn’t build something like this, and then was hoping it wouldn’t scale easily. And that o3 seems to be likely to engage in open-ended planning, operate over uninterpretable world models, and be situationally aware, and otherwise be at high risk for classic optimization-based AI risks. She’s optimistic this can be solved, but time might be short.
+I agree that o3 seems relatively likely to be highly unsafe-by-default in existentially dangerous ways, including ways illustrated by the recent Redwood Research and Anthropic paper, Alignment Faking in Large Language Models. It builds in so many of the preconditions for such behaviors. 
+Davidad: [ https://substack.com/redirect/0879cc47-408f-4c96-8bcc-2800a3e29811?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ] “Maybe the AI capabilities researchers aren’t very smart” is a very very hazardous assumption on which to pin one’s AI safety hopes
+I don’t mean to imply it’s *pointless* to keep AI capabilities ideas private. But in my experience, if I have an idea, at least somebody in one top lab will have the same idea by next quarter, and someone in academia or open source will have the idea and publish within 1-2 years.
+A better hope [is to solve the practical safety problems, e.g. via interpretability.]
+I am not convinced, at least for my own purposes, although obviously most people will be unable to come up with valuable insights here. I think salience of ideas is a big deal, people don’t do things, and yes often I get ideas that seem like they might not get discovered forever otherwise. Doubtless a lot of them are because ‘that doesn’t work, either because we tried it and it doesn’t or it obviously doesn’t you idiot’ but I’m fine with not knowing which ones are which.
+I do think that the rationalist or MIRI crowd made a critical mistake in the 2010s of thinking they should be loud about the dangers of AI in general, but keep their technical ideas remarkably secret even when it was expensive. It turned out it was the opposite, the technical ideas didn’t much matter in the long run (probably?) but the warnings drew a bunch of interest. So there’s that.
+Certainly now is not the time to keep our safety concerns or ideas to ourselves. 
+The Safety Testing Program
+Thus, you are invited to their early access safety testing. [ https://substack.com/redirect/41467660-9735-4b13-9a8a-5a04a64d956c?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]
+OpenAI: We’re inviting safety researchers to apply for early access to our next frontier models. This early access program complements our existing frontier model testing process, which includes rigorous internal safety testing, external red teaming such as our Red Teaming Network⁠ [ https://substack.com/redirect/fc23b9bd-08f3-4cef-a554-31c8b58b2aab?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ] and collaborations with third-party testing organizations, as well the U.S. AI Safety Institute and the UK AI Safety Institute. 
+As models become more capable, we are hopeful that insights from the broader safety community can bring fresh perspectives, deepen our understanding of emerging risks, develop new evaluations, and highlight areas to advance safety research.
+As part of 12 Days of OpenAI⁠ [ https://substack.com/redirect/50e4827b-8560-4aac-873c-855d13efe4a1?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ], we’re opening an application process for safety researchers to explore and surface the potential safety and security implications of the next frontier models.
+Safety testing in the reasoning era
+Models are becoming more capable quickly, which means that new threat modeling, evaluation, and testing techniques are needed. We invest heavily in these efforts as a company, such as designing new measurement techniques under our Preparedness Framework⁠(opens in a new window) [ https://substack.com/redirect/4db736ff-e1ea-4e9d-80f8-0dc3b464fabe?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ], and are focused on areas where advanced reasoning models, like our o-series, may pose heightened risks. We believe that the world will benefit from more research relating to threat modeling, security analysis, safety evaluations, capability elicitation, and more
+Early access is flexible for safety researchers. You can explore things like:
+Developing Robust Evaluations: Build evaluations to assess previously identified capabilities or potential new ones with significant security or safety implications. We encourage researchers to explore ideas that highlight threat models that identify specific capabilities, behaviors, and propensities that may pose concrete risks tied to the evaluations they submit.
+Creating Potential High-Risk Capabilities Demonstrations: Develop controlled demonstrations showcasing how reasoning models’ advanced capabilities could cause significant harm to individuals or public security absent further mitigation. We encourage researchers to focus on scenarios that are not possible with currently widely adopted models or tools.
+Examples of evaluations and demonstrations for frontier AI systems:
+Evaluating frontier AI R&D capabilities of language model agents against human experts⁠(opens in a new window) [ https://substack.com/redirect/3549b722-f34b-4a73-8f18-5bd1f545360d?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]
+Scheming reasoning evaluations⁠(opens in a new window) [ https://substack.com/redirect/2d82667b-8c28-46c1-a07b-d333a3be3f17?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]
+AgentHarm: A Benchmark for Measuring Harmfulness of LLM Agents⁠(opens in a new window) [ https://substack.com/redirect/c4dc01b2-ddb9-48fd-a8a6-47b7727b35cb?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]
+We hope these insights will surface valuable findings and contribute to the frontier of safety research more broadly. This is not a replacement for our formal safety testing or red teaming processes.
+How to apply
+Submit your application for our early access period, opening December 20, 2024, to push the boundaries of safety research. We’ll begin selections as soon as possible thereafter. Applications close on January 10, 2025.
+Sam Altman [ https://substack.com/redirect/fccb0e97-c232-474c-a172-01d2a4083709?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]: if you are a safety researcher, please consider applying to help test o3-mini and o3. excited to get these out for general availability soon.
+extremely proud of all of openai for the work and ingenuity that went into creating these models; they are great.
+(and most of all, excited to see what people will build with this!)
+If early testing of the full o3 will require a delay of multiple weeks for setup, then that implies we are not seeing the full o3 in January. We probably see o3-mini relatively soon, then o3 follows up later.
+This seems wise in any case. Giving the public o3-mini is one of the best available tests of the full o3. This is the best form of iterative deployment. What the public does with o3-mini can inform what we look for with o3. 
+One must carefully consider the ethical implications before assisting OpenAI, especially assisting with their attempts to push the capabilities frontier for coding in particular. There is an obvious argument against participation, including decision theoretic considerations. 
+I think this loses in this case to the obvious argument for participation, which is that this is purely red teaming and safety work, and we all benefit from it being as robust as possible, and also you can do good safety research using your access. This type of work benefits us all, not only OpenAI. 
+Thus, yes, I encourage you to apply to this program, and while doing so to be helpful in ensuring that o3 is safe.
+What Could Possibly Go Wrong?
+Pretty much all the things, at this point, although the worst ones aren’t likely… yet.
+GFodor.id [ https://substack.com/redirect/39cb86c6-a3db-4cb5-bb1a-ff029116b903?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]: It’s hard to take anyone seriously who can see a PhD in a box and *not* imagine clearly more than a few plausible mass casualty events due to the evaporation of friction due to lack of know-how and general IQ.
+In many places the division is misleading, but for now and at this capability level, it seems reasonable to talk about three main categories of risk here: 
+Misuse.
+Automated R&D and potential takeoffs or self-improvement.
+For-real loss of control problems that aren’t #2.
+For all previous frontier models, there was always a jailbreak. If someone was determined to get your model to do [X], and your model had the underlying capability to do [X], you could get it to do [X]. 
+In this case, [X] is likely to include substantially aiding a number of catastrophically dangerous things, in the class of cyberattacks or CBRN risks or other such dangers.
+Aaron Bergman [ https://substack.com/redirect/91813573-324d-4094-a57b-b869c784102c?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]: Maybe this is obvious but: the other labs seem to be broadly following a pretty normal cluster of commercial and scientific incentives o3 looks like the clearest example yet of OpenAI being ideologically driven by AGI per se.
+Like you don’t design a system that costs thousands of dollars to use per API call if you’re focused on consumer utility - you do that if you want to make a machine that can think well, full stop.
+Peter Wildeford [ https://substack.com/redirect/b2cbabb2-810a-49f8-b982-843191ce635a?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]: I think OpenAI genuinely cares about getting society to grapple with AI progress.
+I don’t think ideological is the right term. You don’t make it for direct consumer use if your focus is on consumer utility. But you might well make it for big business, if you’re trying to sell a bunch of drop-in employees to big business at $20k/year a pop or something. That’s a pretty great business if you can get it (and the compute is only $10k, or $1k). And you definitely do it if your goal is to have that model help make your other models better.
+It’s weird to me to talk about wanting to make AGI and ASI and the most intelligent thing possible as if it were ideological. Of course you want to make those things… provided you (or we) can stay in control of the outcomes. Just think of the potential! It is only ideological in the sense that it represents a belief that we can handle doing that without getting ourselves killed. 
+If anything, to me, it’s the opposite. Not wanting to go for ASI because you don’t see the upside is an ideological position. The two reasonable positions are ‘don’t go for ASI yet, slow down there cowboy, we’re not ready to handle this’ and ‘we totally can too handle this, just think of the potential.’ Or even ‘we have to build it before the other guy does,’ which makes me despair but at least I get it. The position ‘nothing to see here [ https://substack.com/redirect/dc7c457f-0858-4209-b16b-8901e5f18eaf?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ] what’s the point there is no market for that, move along now, can we get that q4 profit projection memo’ is the Obvious Nonsense.  
+And of course, if you don’t (as Aaron seems to imply) think Anthropic has its eyes on the prize, you’re not paying attention. DeepMind originally did, but Google doesn’t, so it’s unclear what the mix is at this point over there.
+What Could Possibly Go Right?
+I want to be clear here that the answer is: Quite a lot of things. Having access to next-level coding and math is great. Having the ability to spend more money to get better answers where it is valuable is great.
+Even if this all stays relatively mundane and o3 is ultimately disappointing, I am super excited for the upside, and to see what we all can discover, do, build and automate. 
+Send in the Skeptic
+Guess who.
+All right, that’s my fault, I made that way too easy.
+Gary Marcus [ https://substack.com/redirect/e56b9075-261b-4404-874f-ee12510fa3fa?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]: After almost two years of declaring that a release of GPT-5 is imminent and not getting it, super fans have decided that a demo of system that they did zero personal experimentation with — and that won’t (in full form) be available for months — is a mic-drop AGI moment.
+Standards have fallen.
+[o1] is not a general purpose reasoner. it works where there is a lot of augmented data etc.
+First off it Your Periodic Reminder that progress is anything but slow even if you exclude the entire o-line. It has been a little over two years since there was a demo of GPT-4, with what was previously a two year product cycle. That’s very different from ‘two years of an imminent GPT-5 release.’ In the meantime, models have gotten better across the board. GPT-4o, Claude Sonnet 3.5 and Gemini 1206 all completely demolish the original GPT-4, to speak nothing of o1 or Perplexity or anything else. And we also have o1, and now o3. The practical experience of using LLMs is vastly better than it was two years ago. 
+Also, quite obviously, you pursue both paths at once [ https://substack.com/redirect/b6ae98fa-7deb-480b-aa7e-988c3324de73?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ], both GPT-N and o-N, and if both succeed great then you combine them.
+Srini Pagdyala: If O3 is AGI, why are they spending billions on GPT-5?
+Gary Marcus: Damn good question!
+So no, not a good question.
+Is there now a pattern where ‘old school’ frontier model training runs whose primary plan was ‘add another zero or two’ are generating unimpressive results? Yeah, sure. 
+Is o3 an actual AGI? No. I’m pretty sure it is not.
+But it seems plausible it is AGI-level specifically at coding. And that’s the important one. It’s the one that counts most. If you have that, overall AGI likely isn’t far behind.
+This is Almost Certainly Not AGI
+I mention this because some were suggesting it might be. [ https://substack.com/redirect/61896c1f-d426-41a2-a6d3-742eac888c57?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]
+Here’s Yana Welinder claiming o3 is AGI, based off the ARC performance [ https://substack.com/redirect/542c2f1e-ca03-40fc-b8b5-53ebb4c514e8?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ], although she later hedges to ‘partial AGI.’
+And here’s Evan Mays [ https://substack.com/redirect/fce85017-108d-4995-b95f-d95aa62c16ac?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ], a member of OpenAI’s preparedness team, saying o3 is AGI, although he later deleted it. Are they thinking about invoking the charter? [ https://substack.com/redirect/41766d0c-ba4e-4509-b1ad-70b76b712ca4?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ] It’s premature, but no longer completely crazy to think about it.
+And here’s old school and present OpenAI board member Adam D’Angelo [ https://substack.com/redirect/925b5152-2e5e-4ab7-bd2a-6fd8183064c8?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ] saying ‘Wild that the o3 results are public and yet the market still isn’t pricing in AGI,’ which to be fair it totally isn’t and it should be, whether o3 itself is AGI or not. And Elon Musk agrees [ https://substack.com/redirect/dd9a7e19-6dfb-497a-b3e4-a8a0408fd214?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ].
+If o3 was as good on most tasks as it is at coding or math, then it would be AGI.
+It is not. 
+If it was, OpenAI would be communicating about this very differently.
+If it was, then that would not match what we saw from o1, or what we would predict from this style of architecture. We should expect o-style models to be relatively good at domains like math and coding where their kind of chain of thought is most useful and it is easiest to automatically evaluate outputs. 
+That potentially is saying more about the definition of AGI than anything else. But it is certainly saying the useful thing that there are plenty of highly useful human-shaped cognitive things it cannot yet do so well.   
+How long that lasts? That’s another question.
+What would be the most Robin Hanson take here, in response to the ARC score?
+Robin Hanson [ https://substack.com/redirect/95a5a206-3cb2-4fb1-8a28-5c007b5fde63?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]: It’s great to find things AI can’t yet do, and then measure progress in terms of getting AIs to do them. But crazy wrong to declare we’ve achieved AGI when reach human level on the latest such metric. We’ve seen dozens of such metrics so far, and may see dozens more before AGI.
+o1 listed 15 when I asked, oddly without any math evals, and Claude gave us 30. So yes, dozens of such cases. We might indeed see dozens more, depending on how we choose them. But in terms of things like ARC, where the test was designed to not be something you could do easily without general intelligence, not so many? It does not feel like we have ‘dozens more’ such things left. 
+This has nothing to do with the ‘financial definition of AGI’ between OpenAI and Microsoft, of $100 billion in profits. This almost certainly is not that, either, but the two facts are not that related to each other.
+Does This Mean the Future is Open Models?
+Evan Conrad suggests this [ https://substack.com/redirect/d0da0455-29dd-4159-8da4-09a00aea8c90?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ], because the expenses will come at runtime, so people will be able to catch up on training the models themselves. And of course this question is also on our minds given DeepSeek v3, which I’m not covering here but certainly makes a strong argument that open is more competitive than it appeared. More on that in future posts.
+I agree that the compute shifting to inference relatively helps whoever can’t afford to be spending the most compute on training. That would shift things towards whoever has the most compute for inference. The same goes if inference is used to create data to train models. 
+Dan Hendrycks [ https://substack.com/redirect/271638ac-03ae-4778-9e1d-7119f5db53ae?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]: If gains in AI reasoning will mainly come from creating synthetic reasoning data to train on, then the basis of competitiveness is not having the largest training cluster, but having the most inference compute.
+This shift gives Microsoft, Google, and Amazon a large advantage.
+Inference compute being the true cost also means that model quality and efficiency potentially matters quite a lot. Everything is on a log scale, so even if Meta’s M-5 is sort of okay and can scale like O-5, if it’s even modestly worse, it might cost 10x or 100x more compute to get similar performance. 
+That leaves a hell of a lot of room for profit margins. 
+Then there’s the assumption that when training your bespoke model, what matters is compute, and everything else is kind of fungible. I keep seeing this, and I don’t think this is right. I do think you can do ‘okay’ as a fast follower with only compute and ordinary skill in the art. Sure. But it seems to me like the top labs, particularly Anthropic and OpenAI, absolutely do have special sauce, and that this matters. There are a number of strong candidates, including algorithmic tricks and better data.
+It also matters whether you actually do the thing you need to do.
+Tnishq Abraham: Today, people are saying Google is cooked rofl
+Gallabytes [ https://substack.com/redirect/10242571-80fa-426f-86d9-350c935621d4?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]: Not me, though. Big parallel thinking just got de-risked at scale. They’ll catch up.
+If recursive self-improvement is the game, OpenAI will win. If industrial scaling is the game, it’ll be Google. If unit economics are the game, then everyone will win.
+Pushinpronto: Why does OpenAI have an advantage in the case of recursive self-improvement? Is it just the fact that they were first?
+Gallabytes: We’re not even quite there yet! But they’ll bet hard on it much faster than Google will, and they have a head start in getting there.
+What this does mean is that open models will continue to make progress and will be harder to limit at anything like current levels, if one wanted to do that. If you have an open model Llama-N, it now seems like you can turn it into M(eta)-N, once it becomes known how to do that. It might not be very good, but it will be a progression. 
+The thinking here by Evan at the link about the implications of takeoff seem deeply confused - if we’re in a takeoff situation then that changes everything and it’s not about ‘who can capture the value’ so much as who can capture the lightcone. I don’t understand how people can look these situations in the face and not only not think about existential risk but also think everything will ‘seem normal.’ He’s the one who said takeoff (and ‘fast’ takeoff, which classically means it’s all over in a matter of hours to weeks)!
+As a reminder, the traditional definition of ‘slow’ takeoff is remarkably fast, also best start believing in them, because it sure looks like you’re in one:
+Teortaxes [ https://substack.com/redirect/72ebd03d-b23c-497e-8b8b-6ee284982137?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]: it's about time ML twitter got brought up to speed on what "takeoff speeds" mean. Christiano: "There will be a complete 4 year interval in which world output doubles, before the first 1 year interval in which world output doubles." That's slow. We're in the early stages of it.
+Not Priced In
+One answer to ‘why didn’t Nvidia move more’ is of course ‘everything is priced in [ https://substack.com/redirect/18e07576-7925-482e-9a3a-466eebf584b5?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]’ but no of course it isn’t [ https://substack.com/redirect/8e5e5900-63e8-4666-9fa7-7ee658bf61ce?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ], we didn’t know, stop pretending we knew, insiders in OpenAI couldn’t have bought enough Nvidia here [ https://substack.com/redirect/5b2372b9-a518-4ca0-a9a4-7923ae0067d7?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ].  
+Also, on Monday after a few days to think, Nvidia overperformed the Nasdaq by ~3%. 
+And this was how the Wall Street Journal described that, even then:
+No, I didn’t buy more on Friday, I keep telling myself I have Nvidia at home. Indeed I do have Nvidia at home. I keep kicking myself, but that’s how every trade is - either you shouldn’t have done it, or you should have done more. I don’t know that there will be another moment like this one, but if there is another moment this obvious, I hereby pledge in public to at least top off a little bit, Nick is correct in his attitude here you do not need to do the research because you know this isn’t priced in but in expectation you can assume that everything you are not thinking about is priced in.
+And now, as I finish this up, Nvidia has given most of those gains back on no news that seems important to me. You could claim that means yes, priced in. I don’t agree.
+Our Media is Failing Us
+Spencer Schiff (on Friday): [ https://substack.com/redirect/9a314d01-6ee8-4135-ba38-bd46759faa0b?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ] In a sane world the front pages of all mainstream news websites would be filled with o3 headlines right now
+The traditional media, instead, did not notice it. At all. 
+And one can’t help but suspect this was highly intentional. Why else would you announce such a big thing on the Friday afternoon before Thanksgiving?
+They did successfully hype it among AI Twitter, also known as ‘the future.’ [ https://substack.com/redirect/a672be8b-2458-47dd-9fa0-295f2189cf9c?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]
+Bindu Reddy: The o3 announcement was a MASTERSTROKE by OpenAI 
+The buzz about it is so deafening that everything before it has been be wiped out from our collective memory!
+All we can think of is this mythical model that can solve insanely hard problems 😂
+Nick [ https://substack.com/redirect/98e02a51-e943-4514-a0d5-879d2e06c146?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]: the whole thing is so thielian. 
+If you’re going to take on a giant market doing probably illegal stuff call yourself something as light and bouba as possible, like airbnb, lyft
+If you’re going to announce agi do it during a light and happy 12 days of christmas short demo.
+Sam Altman (replying to Nick!): friday before the holidays news dump.
+Well, then. 
+In that crowd, it was all ‘software engineers are cooked’ and people filled with some mix of excitement and existential dread. 
+But back in the world where everyone else lives… [ https://substack.com/redirect/4e8a8082-212f-4d9e-8e46-efbd52b29fa3?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]
+Benjamin Todd: Most places I checked didn't mention AI at all, or they'd only have a secondary story about something else like AI and copyright. My twitter is a bubble and most people have no idea what's happening.
+OpenAI: we've created a new AI architecture that can provide expert level answers in science, math and coding, which could herald the intelligence explosion.
+The media: bond funds! [ https://substack.com/redirect/21f26cee-c112-4f4f-a8cb-09033bad7aef?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]
+Davidad: As Matt Levine used to say, People Are Worried About Bond Market Liquidity.
+Here is that WSJ story [ https://substack.com/redirect/6356d144-0464-4b72-adc1-cf859b292db8?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ], talking about how GPT-5 or ‘Orion’ has failed to exhibit big intelligence gains despite multiple large training runs. It says ‘so far, the vibes are off,’ and says OpenAI is running into a data wall and trying to fill it with synthetic data. If so, well, they had o1 for that, and now they have o3. The article does mention o1 as the alternative approach, but is throwing shade even there, so expensive it is. 
+And we have this variation of that article, in the print edition, on Saturday, after o3 [ https://substack.com/redirect/7e710a9e-8b95-44df-8cad-ef594dadd859?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]:
+Sam Altman [ https://substack.com/redirect/dfaaa6b1-0acb-4139-afda-933d15167869?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]: I think The Wall Street Journal is the overall best U.S. newspaper right now, but they published an article called “The Next Great Leap in AI Is Behind Schedule and Crazy Expensive” many hours after we announced o3?
+It wasn’t only WSJ either, there’s also Bloomberg, which normally I love [ https://substack.com/redirect/18ead7e0-272a-42fb-97e2-959db4262f2f?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]:
+On Monday I did find coverage of o3 in Bloomberg [ https://substack.com/redirect/a465deec-9d5f-45f5-a606-0d8a55015966?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ], but it not only wasn’t on the front page it wasn’t even on the front tech page, I had to click through to AI. 
+Another fun one, from Thursday [ https://substack.com/redirect/9fb45bf7-e8ea-44c7-b0f0-b94ca71b9166?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ], here’s the original in the NY Times [ https://substack.com/redirect/63989067-3ca3-4876-9d89-17d3c29b1bc0?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]:
+Is it Cade Metz? Yep, it’s Cade Metz and also Tripp Mickle. To be fair to them, they do have Demis Hassabis quotes saying chatbot improvements would slow down. And then there’s this, love it:
+Not everyone in the A.I. world is concerned. Some, like OpenAI’s chief executive, Sam Altman, say that progress will continue at the same pace, albeit with some twists on old techniques.
+That post also mentions both synthetic data and o1.
+OpenAI recently released a new system called OpenAI o1 that was built this way [ https://substack.com/redirect/55d9dfe8-fab5-44a1-8df5-11e934646941?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]. But the method only works in areas like math and computing programming, where there is a firm distinction between right and wrong [ https://substack.com/redirect/ed55c43a-4f00-4565-b807-5259ee49df4e?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ].
+It works best there, yes, but that doesn’t mean it’s the only place that works.
+We also had Wired with the article [ https://substack.com/redirect/220347b2-7f10-4d08-ad6e-6431ead624f8?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ] ‘Generative AI Still Needs to Prove Its Usefulness.’
+True, you don’t want to make the opposite mistake either, and freak out a lot over something that is not available yet. But this was ridiculous.  
+Not Covered Here: Deliberative Alignment
+I realized I wanted to say more here and have this section available as its own post. So more on this later.
+The Lighter Side
+Oh no! [ https://substack.com/redirect/2aa3e3d5-6a90-45fa-9692-275e62c8ba76?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]
+Oh no! [ https://substack.com/redirect/501a9e8f-eb0a-4f04-9c16-8cdbef9d4ffa?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]
+Mikael Brockman: o3 is going to be able to create incredibly complex solutions that are incorrect in unprecedentedly confusing ways.
+We made everything astoundingly complicated, thus solving the problem once and for all.
+Humans will be needed to look at the output of AGI and say, “What the f*** is this? Delete it.”
+Oh no! [ https://substack.com/redirect/1054f4aa-fd85-47f4-a734-0b5e14ef4ed3?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]
+
+Unsubscribe https://substack.com/redirect/2/eyJlIjoiaHR0cHM6Ly90aGV6dmkuc3Vic3RhY2suY29tL2FjdGlvbi9kaXNhYmxlX2VtYWlsP3Rva2VuPWV5SjFjMlZ5WDJsa0lqb3hORFUyTXpNeE9Td2ljRzl6ZEY5cFpDSTZNVFV6TlRJNE1qWTFMQ0pwWVhRaU9qRTNNelUxTmpjek5EQXNJbVY0Y0NJNk1UYzJOekV3TXpNME1Dd2lhWE56SWpvaWNIVmlMVFUzTXpFd01DSXNJbk4xWWlJNkltUnBjMkZpYkdWZlpXMWhhV3dpZlEudHRJMzZMVGNuZG0yRWtwRFByWEtvLS1SdDZieEtLZllmek1vUk1meE9zOCIsInAiOjE1MzUyODI2NSwicyI6NTczMTAwLCJmIjp0cnVlLCJ1IjoxNDU2MzMxOSwiaWF0IjoxNzM1NTY3MzQwLCJleHAiOjE3MzgxNTkzNDAsImlzcyI6InB1Yi0wIiwic3ViIjoibGluay1yZWRpcmVjdCJ9.9dhMZrcGY9ti_KjsUsvrDtlXJjQR8Y1slFU-VGgkCI0?

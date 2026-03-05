@@ -1,0 +1,84 @@
+---
+subject: "Kashi sticks to tradition"
+from: "Beyond The First Order <info@the-ken.com>"
+to: ""
+date: 2020-08-14 01:31:59
+labels: ["CATEGORY_PERSONAL", "INBOX", "The Ken"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_8244464457792971031"]
+---
+|
+Edition #99. Friday, 14 August 2020
+|
+A 🔒 paid newsletter that demystifies the hidden models, incentives and consequences of the most significant events across India and Southeast Asia. Someone sent you this? [Subscribe to BFO](https://the-ken.com/bfo/?utm_source=su_bnr&utm_medium=email&utm_campaign=btfo)
+|
+Good morning,
+Are you hitting the malls yet? Soon, malls could be taken over by e-commerce in more ways than one. Contact tracing gets, well… exposed. And India’s Airports Authority won’t (not can’t) give GoAir a break. There’s also something in common between airline seats and masks. And all this while, in India, lending goes on a trip.
+|
+Kashi sticks to tradition
+Arundhati
+The Prime Minister's Office has tasked think tank Niti Aayog with executing a new project called Kashi—Cash Over Internet (Kashi, officially known as Varanasi, is also the constituency of prime minister Narendra Modi). The PMO is assembling a financial services cast of Avengers for doing this.
+It has the fintechs; it has the (slightly reluctant?) bankers; institutions like the retail payment body National Payments Corporation of India; think tanks like iSpirt which was behind the launch of payments system Unified Payments Interface; and non-profits like the Bill and Melinda Gates Foundation.
+What is the project?
+Through Kashi, the government wants banks to disburse small loans based on the monthly direct benefit transfers (DBT) that are made to nearly 900 million people. DBT is how central and state-sponsored subsidies, deposited directly in bank accounts, reach the poor. There are about 425 schemes under 56 ministries that are delivered via DBT. These include benefits like pensions, health insurance, and farm cash support. In the year ended March 2020, the total transfer under DBT was Rs 3.81 lakh crore (US$50.89 billion).
+|
+A senior government official told ET that the simple idea behind the Kashi model is to address the mismatch between "expenditure and income" of people who get assured income every month by way of DBT but nobody is ready to give them credit on it.
+The repayments on these loans will be structured in such a way that the future DBT inflows to the beneficiary borrowers’ account will be deducted every time they access credit.
+|
+PM monitoring Niti project to ensure credit for bottom of pyramid borrowers, [The Economic Times](https://economictimes.indiatimes.com/news/economy/policy/pm-monitoring-niti-project-to-ensure-credit-for-bottom-of-pyramid-borrowers/articleshow/77496595.cms)
+|
+|
+|
+Banks lend based on predictable income. That's why even startups or entrepreneurs find it hard to get loans in India. And here, the government wants banks to treat doles as income by judging the account history and money flowing in from DBT schemes.
+The only glitch here is that subsidies doled out to different states vary because many schemes are Centrally Sponsored State schemes (CSS), implemented by state governments of India. And a lot of the DBT payout depends on whether state governments do their bit.
+For instance, The Economic Times [reported](https://economictimes.indiatimes.com/news/economy/finance/haryana-uttarakhand-lead-in-direct-benefit-transfer-payouts/articleshow/74251303.cms) that West Bengal has the worst DBT payout because it does not implement many of the Centre’s schemes. That could erode the credit eligibility of those in West Bengal. Uttar Pradesh, on the other hand, has the highest DBT payout.
+|
+|
+|
+Source: The Economic Times
+But, but... Uttar Pradesh has higher [unemployment](https://www.livemint.com/news/india/unemployment-in-uttar-pradesh-increased-11-4-pct-points-rose-to-21-5-in-apr-2020-cmie-survey-11588316047392.html) than West Bengal. So residents of which city are better borrowers in this case?
+Moreover, different subsidies reach borrowers in different bank accounts. Most people have more than one bank account in India.
+Then, there’s also the question of tech. To give loans, banks need to collect the Know Your Customer (KYC) details smoothly. With Kashi, the idea is to use the mobile payments system UPI for KYC. Meaning if you are a KYC-ed customer with one bank, your KYC can be sent to any other financial institution using UPI. This work-in-progress solution is called the KYC Setu.
+But this limits the Kashi trip to only those with a smartphone. That's one of the reasons why UPI itself has not been able to go beyond 100 million users.
+When you go to the city of Kashi, there is an Indian [tradition](https://www.newindianexpress.com/opinions/mindspace/2019/mar/16/leaving-something-behind-in-varanasi-1951719.html), where you leave your favourite possession behind. With Kashi, those who need the credit most could likely be the ones getting left behind.
+|
+GoAir goes once...goes twice...
+Nithin
+The airline owned by one of India’s oldest conglomerates, the Wadia group, is seeing it all.
+First, the pandemic grounded all airlines. Ratings agency [Crisil estimated](https://www.crisil.com/en/home/newsroom/press-releases/2020/05/aviation-flies-towards-rs-25000-crore-revenue-loss-which-would-spur-structural-changes.html) that airlines would see a revenue loss of Rs. 17,000 crore (US$2.2 billion) for the year ending March 2021.
+Then, last month, GoAir suffered a [credit-rating downgrade](https://www.business-standard.com/article/companies/india-ratings-downgrades-goair-s-debt-highlights-liquidity-concerns-120072600672_1.html) for its debt due to concerns over its liquidity position. The report from rating agency India Ratings said that GoAir’s unencumbered cash and bank balances had fallen to Rs. 72.5 crore (US$9.7 million) from Rs. 140.9 crore (US$18.8 million) in three months.
+It has even been [attempting to retire](https://www.thehindubusinessline.com/companies/to-cut-costs-goair-may-retire-12-a320-ceo-aircraft/article32221960.ece) some of their aircraft and renegotiate lease and rentals but without much success.
+|
+|
+Subscribe to read the full edition
+... and get BFO delivered to your inbox every weekday.
+Just pick a plan
+|
+Monthly Subscription
+Complete access to all editions of BFO
+₹99 or $2 /mo
+|
+|
+With The Nutgraf
+Complete access to BFO and The Nutgraf
+₹198 or $4 /mo
+|
+|
+|
+All newsletters + Premium stories
+Complete access to premium longform stories, and all editions of The Nutgraf and BFO
+₹270 or $10 /mo
+Billed annually
+|
+|
+|
+Questions? Get answers [here](https://the-ken.com/bfo/89/#newsletter-faq-section)
+|
+Beyond The First Order is a paid, daily newsletter that demystifies the hidden models, incentives and consequences of the most significant events across India and Southeast Asia. This newsletter is published by [The Ken](https://the-ken.com/?utm_source=footer&utm_medium=email&utm_campaign=btfo)—a digital, subscription-driven publication focussing on technology, business, science and healthcare
+|
+Want to unsubscribe from our paid daily newsletter, Beyond The First Order? Click [here](https://link.the-ken.com/asm/unsubscribe/?user_id=2349339&data=Piy5jZVdYOVNS72XIbD3-i_LeNHBnqEbKR549__0prreRSZzm0-Dd1RqWL2QfKAL2aDqFEHvWSqblFrigzb4tchXkt8nmTTr4ocdRqj3wJGyEnYxx4RckQ3ulx_-OvtkTU6j6RylwLYukLXndqSyPBAgldZjVCvzpbPi7mQOHu3lmH8cVaQs-rv9Cozw0wNcx23sawA6pYS_pw2pfUSqZwk6GvTinuhbAqPy536Uunbe7PiKQHQm3iNTi3MlcXpgKtJz4o2L_Ga6UD41y6dr3nVq-wfMrGTxOk5nycvhFvQAEA-Gh4rLRBNsmQCSYaAkHqEFQfO1oGeqFVaGeksobBTmqefSgBQjN6lF3XJYj7xde18mHuc7faCQPHjCoBGUMAfR-Xk5puWg7DztE93lZ8zc_Y_vmQfkA4MjQX9t4GQVVZkEvMlF6FlNAoGx5bEXzDoJKc5f7SoghXSAOKzB1kjyHuCiW260WveP8ftADgz7qVJ0hTnk_Xf8qEGBza-trHEAJJ8X9a1E_2KJFJChsg6gqAay9uPNETQG3K4_3p2XzYx7Xqe80zHKtT9SP6Rr-ecmm-boBQ_305W4DRk11A==). Or set your email preferences [here](https://link.the-ken.com/asm/?user_id=2349339&data=Sp635MH9glF0TAnBmY8D79mjaMvHHbebJZtWF5MOwuMJNhUYMj76Kshy7IsXlQjhdrYtNQnt9QyUcAIkAxCqKQiCBctB1YrD_GXDs5dUY6Yt3JVL65oXmoVz59ZG4MAeZOE4rg4XlhsPF8YfLdS-pI1Sj99XOn596QovfWfGmKuQm3FG_6KiaDi3lvWpopvLyNOfr8q24F6l5VB2kFDRIcZ0EsFj1rdfbWIxnBmzFCxc0TUAqvHPV-FzXDtbhRgR6AXdZofOeZnMk-9VL_zF1NU463rIoksQeJgJvBklMFEUlgZV4PBpUwlxv9D-nay4B9Gq0g4_Wwjh8Xboi_cWsTwTArVK-HwzDVd4Hkljo8JCvy_jH0S6h0sGHUJWNrezJKbD69c6ingLP0t7u_BR-j31cFjtx414uOLTYLb62sJsR1DX5BPlZeXjOUZilzJ2B7Yoi8lP6DcDGlDEQEL4LRElSn_rGedsc3p7iFNxzVwGeaBqdThzXvDzHhudc3GB1A8BLs_sOAkV1Zkg8ToSzHNLptGnBEu-Qg0Oilmrz1AddrsTtdrRwC-oeQdElgNh)
+© 2020 The Ken
+|
+|
+|
+|
+|

@@ -1,0 +1,12 @@
+---
+subject: "Thursday assorted links"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2026-01-29 17:03:39
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+1. "And what this implies is rather striking, and rarely discussed by those outside of public health: that among their many purposes and benefits, vaccines have served now for decades as a kind of substitute health safety net in America." ([NYT](http://marginalrevolution.com?action=user_content_redirect&uuid=8cdc78f354ae41f044f67e8e549c7224be94bf742a3f03bd333e06388cf6ba63&blog_id=42693868&post_id=92335&user_id=262258391&subs_id=225460721&signature=ab0d829c987d226259a82c8adfb56b8a&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly93d3cubnl0aW1lcy5jb20vMjAyNi8wMS8yOC9vcGluaW9uL21haGEtdmFjY2luZXMta2VubmVkeS1kZW5tYXJrLmh0bWw&email_id=e94e86a78427502522f6e058464c3560))
+4. [Jon Hartley on John Roberts](http://marginalrevolution.com?action=user_content_redirect&uuid=cf07ae76a6bc8316e7bb646adf2b14d835546edf99ec728e5b5991114514a6a8&blog_id=42693868&post_id=92335&user_id=262258391&subs_id=225460721&signature=aab66d0b0635d0e16264415b8b1eb990&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly94LmNvbS9Kb25fSGFydGxleV8vc3RhdHVzLzIwMTY3NTc4MzcxNDY1OTU1MTA/cz0yMA=&email_id=e94e86a78427502522f6e058464c3560).
+5. [Penguin population by country](http://marginalrevolution.com?action=user_content_redirect&uuid=add6bfc8f0bd58aa041fdba95d63d122f02b77a49f3c2ed2d208bd96248a6fbc&blog_id=42693868&post_id=92335&user_id=262258391&subs_id=225460721&signature=0fe89137a0271af4442263295d28001b&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly94LmNvbS90aGVlcGljbWFwL3N0YXR1cy8yMDE2NTgzNzAwNjA4NDA1NTg0&email_id=e94e86a78427502522f6e058464c3560).
+6. [Sly Dunbar obituary](http://marginalrevolution.com?action=user_content_redirect&uuid=d5906906c46b6c810653157a65799e03172388b6fe101a8b9728982cb4c013a6&blog_id=42693868&post_id=92335&user_id=262258391&subs_id=225460721&signature=85d732d604d692ab4a87313e27977db0&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly93d3cubnl0aW1lcy5jb20vMjAyNi8wMS8yOC9hcnRzL211c2ljL3NseS1kdW5iYXItZGVhZC5odG1s&email_id=e94e86a78427502522f6e058464c3560) (NYT).

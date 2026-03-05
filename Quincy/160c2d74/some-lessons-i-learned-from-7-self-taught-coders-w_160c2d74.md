@@ -1,0 +1,37 @@
+---
+subject: "Some lessons I learned from 7 self-taught coders who now work as professional software developers"
+from: "Quincy Larson <quincy@freecodecamp.org>"
+to: ""
+date: 2018-01-04 20:22:55
+labels: ["CATEGORY_PERSONAL", "INBOX", "Quincy", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_7697778124671848699", "UNREAD"]
+---
+Here are this week's three links that are worth your time:
+
+1. Some lessons I learned from 7 self-taught coders who now work as professional software developers (6 minute read): https://fcc.im/2CF6S2a
+
+2. Don’t do it at runtime. Do it at design time (4 minute read): https://fcc.im/2CRUpVE
+
+3. Next Level Accessibility: 5 ways Scott made the freeCodeCamp Guide more usable for people with disabilities (7 minute read): https://fcc.im/2EPTeqk
+
+Bonus: Here are 600 free online programming and computer science courses you can start in January (browsable list): https://fcc.im/2CztEbq
+
+
+
+freeCodeCamp.org is a donor-supported nonprofit. Join the 2,882 supporters who make free open source education possible. Donate today at https://donate.freecodecamp.org
+
+
+
+Happy coding!
+
+- Quincy Larson
+
+Teacher at https://www.freeCodeCamp.org
+
+
+
+
+
+If this email bothers you, you can manage your email settings here: https://www.freecodecamp.org/settings 
+
+Or you can one-click unsubscribe: https://www.freecodecamp.org/unsubscribe/ishan.mail@gmail.com

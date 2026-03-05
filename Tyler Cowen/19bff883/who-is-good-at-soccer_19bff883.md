@@ -1,0 +1,10 @@
+---
+subject: "Who is good at soccer?"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2026-01-27 12:57:54
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699"]
+---
+This study explores the psychological profiles of elite soccer players, revealing that success on the field goes beyond physical ability. By analyzing a sample of 328 participants, including 204 elite soccer players from the top teams in Brazil and Sweden, we found that elite players have exceptional cognitive abilities, including improved planning, memory, and decision-making skills. They also possess personality traits like high conscientiousness and openness to experience, along with reduced neuroticism. Using AI, we identified unique psychological patterns that could help in talent identification and development. These insights can be used to better understand the mental attributes that contribute to success in soccer and other high-performance fields.
+That is from [a new paper](http://marginalrevolution.com?action=user_content_redirect&uuid=583827e64796a4890b7e80fae299e251b94b6860230513b11831c7b4752844ab&blog_id=42693868&post_id=92315&user_id=262258391&subs_id=225460721&signature=8ff01a27c393f8944c4c73c2f93f3b95&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly93d3cucG5hcy5vcmcvZG9pLzEwLjEwNzMvcG5hcy4yNDE1MTI2MTIy&email_id=b57f1265b23551550c2b64877e449e8f) by Leonardo Bonetti, et.al., via [Yureed Elahi](http://marginalrevolution.com?action=user_content_redirect&uuid=0c1bcd1e660126dbf85cc56161cc23100b60afb946601f95649db19f8b200c8f&blog_id=42693868&post_id=92315&user_id=262258391&subs_id=225460721&signature=5adb9fcfdac97f400dc37e91e9868265&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly94LmNvbS95dXJlZWRlbGFoaQ=&email_id=b57f1265b23551550c2b64877e449e8f).

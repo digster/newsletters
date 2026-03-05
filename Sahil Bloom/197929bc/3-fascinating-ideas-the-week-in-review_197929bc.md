@@ -1,0 +1,52 @@
+---
+subject: "3 Fascinating Ideas: The Week in Review"
+from: "\"Sahil Bloom's Curiosity Chronicle\" <sahil@sahilbloom.com>"
+to: ""
+date: 2025-06-21 13:09:32
+labels: ["CATEGORY_PERSONAL", "INBOX", "Sahil Bloom", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_1989028747625928812", "UNREAD"]
+---
+3 Ideas You Might Have Missed
+read time 2 minutes
+Welcome to the Curiosity Chronicle Week in Review—a quick roundup of this week's ideas to help you build a high-performing, healthy, and wealthy life.
+Forwarded this email? Join 800,000+ readers [here](https://click.convertkit-mail4.com/k0uv7dd8rna6h59lkqns0foqz3777t8hno0ln/n2hohvhv504dxps6/aHR0cHM6Ly93d3cuc2FoaWxibG9vbS5jb20vbmV3c2xldHRlcg==).
+My first book was named one of the Best Books of 2025 by Amazon. You can order it now on a huge sale!
+Exciting Announcement: Come meet me at my next book tour event in [Austin](https://click.convertkit-mail4.com/k0uv7dd8rna6h59lkqns0foqz3777t8hno0ln/wnh2hghqv6dzkea7/aHR0cHM6Ly90aGV0aGlyZHBsYWNlLmlzL2V2ZW50L3NhaGlsLWJsb29tLXRoZS01LXR5cGVzLW9mLXdlYWx0aA==) on June 30. [Get your tickets](https://click.convertkit-mail4.com/k0uv7dd8rna6h59lkqns0foqz3777t8hno0ln/reh8hohmvzp836a2/aHR0cHM6Ly93d3cudGhlNXR5cGVzb2Z3ZWFsdGguY29tL2V2ZW50cw==) now!
+This Week at a Glance:
+- Monday: The Best Advice From Your Father
+- Wednesday: 5 Harsh Truths Nobody Told You About Entrepreneurship
+- Friday: The Hidden Mindset That Shapes Your Entire Life
+Wisdom Worth Sharing:
+Self-doubt is the cost of entry.
+If you’re doing something meaningful, you’re going to question yourself. That’s not a sign to stop. It’s a sign you’re on the path.
+Keep going. The people you admire are the ones who had the courage to act.
+([share to x/twitter!](https://click.convertkit-mail4.com/k0uv7dd8rna6h59lkqns0foqz3777t8hno0ln/08hwh9h2wr489pbl/aHR0cHM6Ly90d2l0dGVyLmNvbS9pbnRlbnQvdHdlZXQ_dGV4dD1TZWxmLWRvdWJ0JTIwaXMlMjB0aGUlMjBjb3N0JTIwb2YlMjBlbnRyeS4lMEElMEFJZiUyMHlvdSVFMiU4MCU5OXJlJTIwZG9pbmclMjBzb21ldGhpbmclMjBtZWFuaW5nZnVsJTJDJTIweW91JUUyJTgwJTk5cmUlMjBnb2luZyUyMHRvJTIwcXVlc3Rpb24lMjB5b3Vyc2VsZi4lMjBUaGF0JUUyJTgwJTk5cyUyMG5vdCUyMGElMjBzaWduJTIwdG8lMjBzdG9wLiUyMEl0JUUyJTgwJTk5cyUyMGElMjBzaWduJTIweW91JUUyJTgwJTk5cmUlMjBvbiUyMHRoZSUyMHBhdGguJTBBJTBBS2VlcCUyMGdvaW5nLiUyMFRoZSUyMHBlb3BsZSUyMHlvdSUyMGFkbWlyZSUyMGFyZSUyMHRoZSUyMG9uZXMlMjB3aG8lMjBoYWQlMjB0aGUlMjBjb3VyYWdlJTIwdG8lMjBhY3QuJTBBJTBBLSUyMCU0MFNhaGlsQmxvb20=))
+Monday: The Best Advice From Your Father
+In honor of Father’s Day, I asked over 1 million readers:
+What’s the best advice you ever received from your father?
+I got thousands of replies, which ranged from playful and witty to thought-provoking and emotional.
+20 pieces of short, concise wisdom for a life well lived.
+([read the full piece here](https://click.convertkit-mail4.com/k0uv7dd8rna6h59lkqns0foqz3777t8hno0ln/8ghqhohopn8428tk/aHR0cHM6Ly93d3cuc2FoaWxibG9vbS5jb20vbmV3c2xldHRlci90aGUtYmVzdC1hZHZpY2UtZnJvbS15b3VyLWZhdGhlcg==))
+Wednesday: 5 Harsh Truths Nobody Told You About Entrepreneurship
+Four years ago, in June 2021, I made the difficult decision to step off the traditional path and carve my own.
+I walked away from a safe path—a great job with a predictable future—and chose to follow my energy into the unknown.
+At the time, I thought I understood what I was getting into.
+I didn’t.
+Four years later, I wouldn’t change a thing, but there are a lot of lessons I wish I had learned earlier, as they would have made my journey more efficient and enjoyable.
+This piece shares those 5 key lessons with you.
+([read the full piece here](https://click.convertkit-mail4.com/k0uv7dd8rna6h59lkqns0foqz3777t8hno0ln/vqh3hrho3r65v5cg/aHR0cHM6Ly93d3cuc2FoaWxibG9vbS5jb20vbmV3c2xldHRlci81LWhhcnNoLXRydXRocy1ub2JvZHktdG9sZC15b3UtYWJvdXQtZW50cmVwcmVuZXVyc2hpcA==))
+Friday: The Hidden Mindset That Shapes Your Entire Life
+There are a million different ways to achieve success. There's no magic routine. No perfect productivity system. No success equation.
+But if you zoom out, there's one mindset that I've observed across every single success story:
+They have an Internal Locus of Control.
+([read the full piece here](https://click.convertkit-mail4.com/k0uv7dd8rna6h59lkqns0foqz3777t8hno0ln/l2hehmhlv7pg45f6/aHR0cHM6Ly93d3cuc2FoaWxibG9vbS5jb20vbmV3c2xldHRlci90aGUtaGlkZGVuLW1pbmRzZXQtdGhhdC1zaGFwZXMteW91ci1lbnRpcmUtbGlmZQ==))
+|
+Build an adaptable morning routine with [AG1 Next Gen](https://click.convertkit-mail4.com/k0uv7dd8rna6h59lkqns0foqz3777t8hno0ln/m2h7h5h30zxr9gum/aHR0cHM6Ly9kcmlua2FnMS5jb20vc2FoaWw=):
+I never recommend a product I don't use myself. When it comes to my morning health routine, I've been choosing [AG1](https://click.convertkit-mail4.com/k0uv7dd8rna6h59lkqns0foqz3777t8hno0ln/m2h7h5h30zxr9gum/aHR0cHM6Ly9kcmlua2FnMS5jb20vc2FoaWw=) since 2011––and it just got its biggest upgrade yet.
+The new [AG1 Next Gen](https://click.convertkit-mail4.com/k0uv7dd8rna6h59lkqns0foqz3777t8hno0ln/m2h7h5h30zxr9gum/aHR0cHM6Ly9kcmlua2FnMS5jb20vc2FoaWw=) is backed by four clinical trials and features five clinically studied probiotics, functional mushrooms, and whole food-sourced nutrients to support gut health, immune function, and sustained energy—while helping fill common nutrient gaps, even in healthy eaters.
+[AG1](https://click.convertkit-mail4.com/k0uv7dd8rna6h59lkqns0foqz3777t8hno0ln/m2h7h5h30zxr9gum/aHR0cHM6Ly9kcmlua2FnMS5jb20vc2FoaWw=) is offering my amazing Curiosity Chronicle subscribers a FREE $76 gift when you sign up. You’ll get a Welcome Kit, a bottle of D3K2 (I take this daily!), and 5 free travel packs in your first box.
+|
+Sahil Bloom
+|
+|
+|

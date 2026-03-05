@@ -1,0 +1,92 @@
+---
+subject: "How to Avoid Becoming a VC Meme and Actually Add Value"
+from: "The Generalist <thegeneralist@substack.com>"
+to: ""
+date: 2024-11-21 15:15:40
+labels: ["CATEGORY_PERSONAL", "INBOX", "The Generalist", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_8815311452832858585", "UNREAD"]
+---
+|
+🌟 Hey there! This is a subscriber-only edition of our premium newsletter designed to make you a better investor, founder, and technologist. Members get access to the strategies, tactics, and wisdom of exceptional investors and founders. [Become a member today.](https://substack.com/redirect/b982fc3c-4a2e-4418-9130-9fde56b4d969?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+Friends,
+After a brief paternity leave, The Generalist is officially back in action and ready for an exciting final stretch to 2024. We can’t wait to share some of the interviews, guides, and pieces we have lined up to help you wrap up the year on top form and accelerate into 2025.
+Today’s piece covers venture capital’s most controversial subject: “adding value.” To utter those two words in the context of VC sounds sarcastic, best accompanied by an eye roll. It is a phrase that has become a meme, a synecdoche for how little many investors actually do but how much they like to talk about it.
+The whole “how can I be helpful” thing has become a meme in venture capital. But ultimately, I’ve found it comes down to helping companies hire great people, get customers, and raise capital.
+– Mike Jung
+Such skepticism is often earned but doesn’t represent how the best founder-investor relationships operate. Contrary to popular sentiment, elite venture capitalists can positively impact the trajectory of the companies they serve. Their influence does not approach that of the entrepreneur, but in large and small ways, VCs bend reality to the favor of their portfolio.
+They do so with a slew of different weapons. Some, like a16z, arrive with a battalion of functional experts and services, an auxiliary army available to roam and maraud on your behalf. Others, like Benchmark, approach with the mien of a master clothier, intimately advising, tweaking, and tailoring, obsessing over every seam and weft first-hand. Between these two poles (and across many other dimensions) are dozens of subtly and radically disparate styles: there are generalists and specialists, industrialists and artisans, builders and gilders, wielders of wide-nozzle flamethrowers and assassins with sniper rifles, brusque football coach types and fizzing cheerleaders and therapists with sleek frameless glasses.
+Over the course of a career or a packed afternoon, a good investor may need to be most of these. Judging when and how, picking the right moments, the right patterns, the right anecdotes is the work of a lifetime. But since none of us has time to wait, we’ve collected the experience of many lifetimes and compressed it into this guide. In today’s piece, you’ll hear the lessons of 19 exceptional investors with unique approaches, strategies, and secrets. You’ll understand how to drive real value to founders from a foundational level, what you should do to level up, and how to avoid becoming a dreaded venture cliché.
+A 10,000+ word breakdown of how VCs deliver real value to their companies.
+Timeless strategies from 18 elite investors across firms, stages, and geographies.
+3 “levels” designed to help you progress to a top 1% value-add investor.
+13 principles to guide your portfolio work and keep you from becoming a venture meme.
+The 3 most valuable introductions you can make for a founder.
+A discussion of what it means to be a mirror, scout, specialist, and sage for your entrepreneurs.
+To unlock the full report and the 7 previous Investors Guides, become a premium member today. You’ll also get access to our 10-part collection of Founders Guides, exclusive interviews, and our private startup database.
+Venture capital isn’t all it takes to make a startup a success story. Insight, experience, and hard-won knowledge are often the keys to unlocking the next stage of growth for a young company. That’s why Mercury Raise offers free mentorship via Expert Sessions, allowing founders to learn from leaders across industries on a range of focused topics. From building a brand narrative to B2B sales to integrating AI, Expert Sessions helps entrepreneurs connect the dots faster.
+Level 1: Top 20%
+Do no harm
+Surprise to the upside
+Stress less
+Recognize your place
+Get out of the way
+Level 2: Top 5%
+Communicate like a founder
+Build deep context
+Be a mirror and a scout
+Open your network
+Level 3: Top 1%
+Be a wartime VC
+Develop a specialization
+Become a sage
+Command a legendary brand
+After donning the sacred Patagonia vest, every new venture investor should be required to swear a modified version of the Hippocratic Oath uttered by medical professionals.
+“By all that I hold highest, I promise my entrepreneurs competence, integrity, candor, personal commitment to their best interest, compassion, and absolute discretion…”
+Though the phrase “First, do no harm,” is not part of the actual Hippocratic Oath, it serves as its summation and a neat, introductory goal for investors: if you cannot help, at the very least, don’t damage the businesses you invest in.
+It starts with the venture capital equivalent of the Hippocratic Oath – first, do no harm.
+– Josh Coyne
+I take Kevin Harvey’s perspective from Benchmark: Venture capitalists like to think they’re helping build companies when, really, we’re along for the ride with the founder. It’s more about not doing harm than saying, “We built this company.” It’s arrogant for VCs to think they know better than founders about running and scaling a business.
+– Mike Jung
+This may sound like a ludicrously low bar, but it is not always easy to clear. If you have been in board rooms, you will no doubt have encountered plenty of participants who prefer the sound of their own voice to thoughtfully assessing a company’s primary challenges.
+Similarly, if you’ve spent time with founders in which you do not hold the purse strings, you’ll have heard plenty of tales of ego and incompetence. (Naturally, such vices are not limited to one side of the table.) [Vinod Khosla](https://substack.com/redirect/2eb30b33-57a4-4396-bdd9-a9bb6bed015a?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) famously estimated that [70-80%](https://substack.com/redirect/bbc1d519-b5fc-4670-82a6-a98ef966e193?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) of VCs add “negative value” to the startups they advise.
+At first, the criticism of VCs annoyed me – I took it personally. From day one, our philosophy was that writing a check was just an excuse to work alongside founders. We wouldn’t invest unless we were committed to helping them de-risk the company and crack the code on whatever they were building. So when founders would say, “fuck this VC, fuck that VC, they talk about value-add, but there's nothing, they're not helpful and all they are is money and they're greedy,” it stung.
+But then you start observing VCs, and I thought: I get it. I understand what the founders are talking about. Half the time, the advice we’re giving founders is to ignore the advice they’re getting from other VCs. There’s just so much bad advice out there.
+– Frank Rotman
+If you are a self-immolating investor intent on destroying value, then no amount of advice can help you. For those financiers keen to avoid inadvertently tumbling into the super-majority of momentum-drains, adhere to the following four practices to set you on the right path and vault into the top 20% of VCs:
+Surprise to the upside
+Stress less
+Recognize your place
+Do nothing
+The best way to disappoint a founder is by promising miracles and delivering nothing. Though it may be tempting to talk up your impact to win allocation in a competitive fundraise, if you’re unable to back it up, you risk alienating founders and harming your reputation. Given that venture capital is a classic iterated game and the entrepreneurs you work with are a vital source of new deals, overpromising is a weak long-term strategy.
+To avoid disappointing founders, Blackbird’s Niki Scevak took a purposefully conservative approach in the firm’s early days, promising nothing:
+We started from the position that we would add zero value, which might sound counter-intuitive. But there are really three types of investors: the rare ones who are truly awesome and add significant value, the majority who claim to add value but don’t, and those who openly acknowledge they might add zero value. Entrepreneurs appreciate the honesty of that last approach – if you say you’ll add zero value and, that’s what happens, you’ve met expectations.
+– Niki Scevak
+When pitching yourself to founders, set clear expectations about how you believe you could be useful, and when asked, follow through. If you’re unsure you can deliver any value, make that clear. Anything you do end up contributing will be a welcome surprise.
+Though it’s fashionable to poke fun at VCs’ coffee meetings and networking events, investing is an intensive, stressful job if practiced aggressively. You must constantly scan the market for new opportunities, rapidly learn about uncertain, cutting-edge technologies, and compete against peers who often have greater resources, a better reputation, and an established brand. You are wagering other people’s money (as well as your own) on high-risk positions that often look silly and fail regularly.
+Still, it does not compare to the stress of founding and growing a startup. No matter the demands of their job, investors must ensure they don’t unnecessarily increase pressure on their entrepreneurs. It is almost always unproductive and unwelcome.
+Don’t get all caught up in the small stuff. There are plenty of things to be stressed about, and founders are already stressed. You don’t need to add to their stress by being stressed yourself.
+– Kirsten Green
+An especially efficient and annoying way to add stress is to tell an entrepreneur something they already know and provide no possible solutions.
+QED’s Frank Rotman described a common scenario:
+The worst bad advice – and I’ve heard this many times over the years – comes from VCs who read through the board deck and financials on the plane ride to the meeting. They show up and say, “You’re behind on revenue, and your expenses are too high. Fix it.” And you’re like, well, thank you, Sherlock – as if the founding team doesn’t know they missed their numbers? It’s completely unhelpful. And, in fact, it’s almost offensive.
+– Frank Rotman
+You are not the captain of this ship.
+Investors may be on a founder’s side, but they are not a part of the team. However much advice a VC may give, however many decisions they weigh in on, it is ultimately the entrepreneur’s decision that matters.
+Even when you don’t agree with the choice being made, learn to respect it. You’ll often discover that your reading of the situation was incorrect or incomplete and that the founder saw the playing field more clearly than you did. After all, they spend every waking minute assessing the challenges at hand while you parachute every couple of weeks.
+The best venture capitalists I’ve worked with approach their role with deep humility. By virtue of only meeting with portfolio companies once a month or every couple of weeks, most VCs have less than 1% of the data points that a founder has about their own company. The idea of constantly opining or giving prescriptive advice can be toxic.
+Most advice is bad; everyone has different experiences, biases, values, and priors, and they’re often just projecting their own insecurities. Instead of prescribing solutions, the best thing to do is ask the right questions and let founders contextualize situations for their company.
+– Josh Coyne
+Having been an entrepreneur myself, I’m sensitive to overstepping. My partner George says we should be “nose in, hands out.” I’ll tell you what I think based on my limited view of the problem, hope it’s helpful, and support you 100% even if you go a different direction. You’ll never be able to say, “Saar made me do this.” While many VCs are forceful, I believe founders need to live and die by their own decisions – my role is to support and help, not to force.
+– Saar Gur
+Former founders may find it especially difficult to recognize their place. They know what it means to build a business and have a wealth of strategies and tactics to share.
+However, it’s often difficult for these VCs to recognize that the company isn’t theirs – that it faces different challenges and operates on a new playing field.
+You see this all the time – VCs who built a company in the past, and all they do is draw parallels from that single experience, even when it doesn’t fit. I’m working with one company where a board member just hammers home: CAC, CAC, CAC, CAC. And you’re like, I get it – in your previous business, everything revolved around marketing. The manufacturing process was simple, so it was all about customer acquisition. But this isn’t that business. We’ve got serious concerns about manufacturing costs, product development, and service delivery, yet he keeps fixating on CAC. Until we get the middle and back of the machine working, I don’t care what it costs us to acquire customers.
+– Frank Rotman
+Learn to accurately assess your “zone of competence” and “zone of incompetence.” If you don’t have the expertise or context to opine on a subject, avoid doing so just to make your presence felt. Be someone who speaks with earned authority:
+One of the first things I try to do is identify where I have credibility to help. People who advise without any experience or anything tactical or practical to point to – that’s not helpful. I wouldn’t trust my business with that kind of guidance, so I don’t know why someone else should trust their business with it. It’s about figuring out what you can speak to with authority – not authority that you’ve appointed to yourself, but authority that you’ve validated in meaningful ways.
+– Kirsten Green
+When you invest in a founder, you are explicitly betting that they can solve the problems in front of them and hurdle new challenges that emerge. Do not undermine that act of faith by trying to cram yourself into the driver’s seat. ...
+Become a paying subscriber of The Generalist to get access to this post and other subscriber-only content.
+| Premium subscriber-only posts | |
+| Learn from legendary investors and founders | |
+| Post comments and join the conversation |

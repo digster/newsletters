@@ -1,0 +1,13 @@
+---
+subject: "Sunday assorted links"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2025-11-09 16:54:23
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+1. [Farmers' Almanac will cease publication](http://marginalrevolution.com?action=user_content_redirect&uuid=a9dbb58656c80c3187c9505d241cf6eaaa03160d1cdd0d9acb4611c57c51dde4&blog_id=42693868&post_id=91823&user_id=262258391&subs_id=225460721&signature=2571d0249bec79c01d2c48037042262a&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly93d3cud2FzaGluZ3RvbnBvc3QuY29tL25hdGlvbi8yMDI1LzExLzA4L2Zhcm1lcnMtYWxtYW5hYy1lbmRzLXB1YmxpY2F0aW9uLw=&email_id=892730134870febe7c18a28d182b91af).
+2. [Econ history job candidates this year, a list](http://marginalrevolution.com?action=user_content_redirect&uuid=63951e0badf76cea08fa573e58800573bb27eb96e29a9db6893eb800506ea1c7&blog_id=42693868&post_id=91823&user_id=262258391&subs_id=225460721&signature=8ff7d78075e954ed161b431b839c030d&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly94LmNvbS9Kb2hhbkZvdXJpZVpBL3N0YXR1cy8xOTg2NzA5OTE4NTQ4NjcyNzI5P3M9MjA&email_id=892730134870febe7c18a28d182b91af).
+3. [How an econ job market candidate should maximize his or her LinkedIn profile](http://marginalrevolution.com?action=user_content_redirect&uuid=e7535e3decd490283c81f8bea380c9d4b49f1bb29c17848c6208544499128ba0&blog_id=42693868&post_id=91823&user_id=262258391&subs_id=225460721&signature=26f340685b37611579e2077647c4373f&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly94LmNvbS9hbmlrZXRhcGFuandhbmkvc3RhdHVzLzE5ODcxNjkxNTIwOTY5ODkzNDg/cz0yMA=&email_id=892730134870febe7c18a28d182b91af).
+4. "[Mamdani is under fire for charging people $13 per beer at his ‘victory party’](http://marginalrevolution.com?action=user_content_redirect&uuid=6b24e80216a89de3570b397fa747c7d32f1cfb7fd954daa29049ffecb693c9a3&blog_id=42693868&post_id=91823&user_id=262258391&subs_id=225460721&signature=666854be9d8b38e537789e3c74465b99&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly94LmNvbS9QZWNhbkM4L3N0YXR1cy8xOTg2OTQzNDIyNTg2ODc2MDk2&email_id=892730134870febe7c18a28d182b91af)."
+5. [Burn-Murdoch covers Noy and Rao on polarizing media](http://marginalrevolution.com?action=user_content_redirect&uuid=acf2ec9f9cc444d8c561ec0abbd3b8cbe6c0c223aeed34624039dc0f61f469b5&blog_id=42693868&post_id=91823&user_id=262258391&subs_id=225460721&signature=e81f9e26e1bdff2f994492f67f4b30e5&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly93d3cuZnQuY29tL2NvbnRlbnQvNTA2MDNkNzMtNDlmZS00ZDJkLWI5ZTktNWNmZTM5YmUwMzUz&email_id=892730134870febe7c18a28d182b91af) (FT).

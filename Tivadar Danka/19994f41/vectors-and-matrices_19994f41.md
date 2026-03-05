@@ -1,0 +1,11 @@
+---
+subject: "Vectors and Matrices"
+from: "The Palindrome <thepalindrome@substack.com>"
+to: ""
+date: 2025-09-29 10:08:20
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tivadar Danka", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_3571324877567057163", "UNREAD"]
+---
+Unlock The Palindrome Free for 7-DaysTry a paid subscription of The Palindrome to get access to this post and other subscriber-only content. A subscription gets you: Immediate access to 80+ in-depth articles ($1000+ value) Immediate access to 4 exclusive learning tracks ($500+ value) Invitations to cohort-based courses on building neural networks from scratch ($300+ value)
+Hey there! Welcome to the first lesson of the Neural Networks from Scratch course, where we'll build a fully functional tensor library (with automatic differentiation and all) in NumPy, mastering the inner workings of neural networks meanwhile. Before we dive deep into the meaty parts and start building computational graphs from left and right, we'll take a brief look at the building blocks of machine learning: vectors and matrices. To see what I'm talking about, let's take a look at machine learning from a high level. Training a model is simpler than you think: it can be done in just six lines, including loading the data. No matter where we come from, this is fascinating. Modern frameworks (such as scikit-learn and PyTorch) hide a ton of complexity from the user, allowing us to build and experiment faster than ever. However, this comes with a price. Pre-built solutions can take you so far, but to master machine learning, you must understand how the algorithms work. This course is about what's behind the hood. We'll take these six lines, deconstruct them, and rebuild everything from scratch. We'll start with the data, that is, the These are known as vectors and matrices. Intuitively, we can think about vectors as tuples of numbers, like (-1.2, 3,5, π), and matrices as tables of scalars, like What truly gives vectors and matrices their power is not just their structure, but their operations. We can add and scale vectors, as well as add, scale, and multiply matrices. Let's start with vectors first... Keep reading with a 7-day free trialSubscribe to The Palindrome to keep reading this post and get 7 days of free access to the full post archives. A subscription gets you:
+|

@@ -1,0 +1,37 @@
+---
+subject: "Ex-Google CEO's AI moonshot 🤖, India makes first iPhone 📱, WordPress's Interactivity API 👨‍💻"
+from: "TLDR <dan@tldrnewsletter.com>"
+to: ""
+date: 2023-08-17 10:17:31
+labels: ["CATEGORY_PERSONAL", "IMPORTANT", "INBOX", "TLDR", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "IMPORTANT", "INBOX", "Label_795315172960844453", "UNREAD"]
+---
+[Google reportedly building A.I. that offers life advice (2 minute read)](https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.cnbc.com%2F2023%2F08%2F16%2Fgoogle-reportedly-building-ai-that-offers-life-advice.html%3Futm_source=tldrnewsletter/1/0100018a030015b9-a880f8b9-3af1-47a8-a650-f7831231c4fe-000000/JCt24WObwjTSTZ4FSmxIfWaOnBZsQgrwZNIXSEKMvXo=314)
+Google is constantly evaluating new projects and technologies. One of Google's AI units is developing at least 21 different tools for life advice, planning, and tutoring. More than 100 people with Ph.D.s have been working on the project. Google has reportedly contracted with Scale AI to test the tools. |
+Science & Futuristic Technology
+|
+[Ex-Google CEO Eric Schmidt to launch AI-science moonshot (5 minute read)](https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.semafor.com%2Farticle%2F08%2F16%2F2023%2Fex-google-ceo-eric-schmidt-to-launch-ai-science-moonshot%3Futm_source=tldrnewsletter/1/0100018a030015b9-a880f8b9-3af1-47a8-a650-f7831231c4fe-000000/kxDlHxYDDR3jsjatSmBQsTCoKbOfIUbgkaCAMZJzbdE=314)
+Former CEO Eric Schmidt is building an organization to tackle scientific challenges with the help of AI. Schmidt has already hired two accomplished scientists for the initiative, which is modeled after OpenAI. Funding for the organization will come mostly from Schmidt's personal wealth, but outside funds will likely be necessary due to the scope of the project. Schmidt intends to offer competitive salaries and resources. |
+[LK-99 isn’t a superconductor - how science sleuths solved the mystery (10 minute read)](https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.nature.com%2Farticles%2Fd41586-023-02585-7%3Futm_source=tldrnewsletter/1/0100018a030015b9-a880f8b9-3af1-47a8-a650-f7831231c4fe-000000/Kwk-zcKWtJ3zU-ckktZUFKZ_Z0-nC6EEXGWoJwAoVyQ=314)
+The LK-99 saga was an unusually swift resolution of a high-profile puzzle and a great example of how claims are verified in the scientific community. Researchers have determined that LK-99 is not a superconductor and clarified its actual properties. This article presents an overview of the research done on LK-99 over the past few weeks. The properties that made LK-99 appear to be a superconductor at first were caused by impurities in the material. |
+Programming, Design & Data Science
+|
+[Start Testing WordPress’ New Interactivity API (1 minute read)](https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwptavern.com%2Fstart-testing-wordpress-new-interactivity-api%3Futm_source=tldrnewsletter/1/0100018a030015b9-a880f8b9-3af1-47a8-a650-f7831231c4fe-000000/UCu8TJAXp78RbZmhhJUKzmL_tlAdeZ8T3EJk0H0hOWs=314)
+WordPress' new Interactivity API allows developers to build sites that visitors can interact with and get feedback from without refreshing the page. Developers are now being encouraged to test the API. There is no official documentation for the project yet, but there's a 'Getting Started' guide, which is linked in the article. |
+[pgvecto.rs (GitHub Repo)](https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fgithub.com%2Ftensorchord%2Fpgvecto.rs%3Futm_source=tldrnewsletter/1/0100018a030015b9-a880f8b9-3af1-47a8-a650-f7831231c4fe-000000/1E6yBctymbxzc-BO_8hsDIfXiZabYQaPknBCC_ov7aU=314)
+pgvecto.rs is a Postgres extension that provides vector similarity search functions. It is easy to use and can be integrated into existing workflows and applications. pgvecto.rs is written in Rust, so it offers benefits such as improved memory safety, better performance, and reduced maintenance costs over time compared to similar products. |
+[The Next Next Job, a framework for making big career decisions (13 minute read)](https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fandrewchen.com%2Fthe-next-next-job%2F%3Futm_source=tldrnewsletter/1/0100018a030015b9-a880f8b9-3af1-47a8-a650-f7831231c4fe-000000/4azPdSawc4DU9kbZX4XFQM43-80I4GmsFWDtgN9dLM4=314)
+The 'Next Next Job' framework involves reflecting on what job you want to be your next next job and why you can't get it right now. After identifying what you want, you can work backwards from that and plan your career accordingly. We often don't know what our next next job might be, but thinking about it helps when making major decisions as you know what you are working towards. It can also help you realize that you might already be qualified for what you want to do, or help you figure out what gaps you have to cover to get where you want to go. |
+[Self-driving car bets (40 minute read)](https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.lesswrong.com%2Fposts%2FZRrYsZ626KSEgHv8s%2Fself-driving-car-bets%3Futm_source=tldrnewsletter/1/0100018a030015b9-a880f8b9-3af1-47a8-a650-f7831231c4fe-000000/-t34DK59Cwi89AfPZrCqxpXshdRAG3QIJTI7shAWUrc=314)
+While investors were optimistic enough to bet on self-driving cars back in 2016, most experts and people in tech thought it was pretty unlikely to be ready by 2023. People seem to treat self-driving as if it were an easy AI problem, but perceiving and quickly reacting to the world is something that we evolved to be good at, and driving sometimes requires complex problem-solving. There is a big gap between 'pretty good' and 'actually good enough'. |
+[TLDR Talent](https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fdanni763618.typeform.com%2Fto%2FrSL4lOH3/1/0100018a030015b9-a880f8b9-3af1-47a8-a650-f7831231c4fe-000000/m_SHNvJl3CSTIwzZPxhgomfHY0pSt3W18jZsqxYwEgI=314) is our exclusive community where we help world-class tech talent and get intros to companies of their choice, along with a number of exciting startups and tech companies curated by TLDR.
+We give you full control of the process, you can specify if you’re actively searching or passively interested only if something amazing comes along. Set your preferred compensation, seniority/title/role, specific companies (or types of companies) you’d like to work for and more. [Click here to apply](https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fdanni763618.typeform.com%2Fto%2FrSL4lOH3/2/0100018a030015b9-a880f8b9-3af1-47a8-a650-f7831231c4fe-000000/qvrN0PwHWtWp8PwXl5nozrMBKbq5m_UQy1rFKcwJ2jQ=314).
+|
+If your company is interested in reaching an audience of tech executives, decision-makers and engineers, you may want to [advertise with us](https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fshare.hsforms.com%2F1OxvmrkcFS4qsxKpNXCi76wee466%3Futm_source=tldr%26utm_medium=newsletter/2/0100018a030015b9-a880f8b9-3af1-47a8-a650-f7831231c4fe-000000/ox6pkMeL6aCl22l4RXUcZJsIkNYhl70PDeVzQmuiJog=314).
+If you have any comments or feedback, just respond to this email!
+Thanks for reading,
+[Dan Ni](https://tracking.tldrnewsletter.com/CL0/https:%2F%2Ftwitter.com%2Ftldrdan/1/0100018a030015b9-a880f8b9-3af1-47a8-a650-f7831231c4fe-000000/dlgNSzwlfgQkNeUzzdvTEsrsqWYBZ8Cl8lui7zBAXcU=314) and [Stephen Flanders](https://tracking.tldrnewsletter.com/CL0/https:%2F%2Ftwitter.com%2FSteveFlanders22/1/0100018a030015b9-a880f8b9-3af1-47a8-a650-f7831231c4fe-000000/ObH8SVr0hiVwtoRn-tKtltyFWOfAowNK8BeCUApq9x0=314)
+|
+|
+|
+|

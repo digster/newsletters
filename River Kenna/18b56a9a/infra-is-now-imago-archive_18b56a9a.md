@@ -1,0 +1,11 @@
+---
+subject: "'Infra' is Now 'Imago Archive'"
+from: "River Kenna from Infra <riverkenna@substack.com>"
+to: ""
+date: 2023-10-22 09:13:53
+labels: ["CATEGORY_PERSONAL", "INBOX", "River Kenna"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_3010718370428876194"]
+---
+tl;dr: The content will be the same type of thing, but less rigidly structured, plus I’m changing the name to reflect its connection to a project I’m working on that will become more public at some point. When I started Infra, I knew I wanted a newsletter where I could do a couple different things: Write up my latest musings on mythodynamics, archetypes, and imaginal culture Store quotes and ideas I come across while reading and researching Share what I’m up to, what I’m making, what my friends are making, etc
+So I set up a format that let me do a bit of that in each newsletter: Strata for my musings, Encounter for the quotes, and Artifacts for what me and my people are up to. But that format kept feeling limiting, week after week. Still, I told myself I’d do 10 issues in the chosen format before making changes. And I did. Now the changes: First the title, obviously. I have an upcoming long-term project that I’m calling Imago, and this is (and has been) my archive for that project. So the title is gonna reflect that now. The format is going to change — the three areas I mentioned above are going to continue to be what I’m interested, but I’m not going to be so stiff about the execution. Future issues might have 3 sets of musings, 2 quotes, and no artifacts; they might have no musings, just quotes and artifacts; they might just be one long mythodynamic musing. Whatever feels most alive and artful for a given issue. I may also play around with my writing style a bit more. I’m generally trying to practice marrying clarity and personality in prose, and I’m sure that’ll show up here as well as elsewhere.
+That’s about it. Overall, this will remain a newsletter that traffics in fragments of what I’m working on, what I’m researching, what I’m enjoying, and what’s going on in my network and my world. Infra is free and will stay free, but if you get something out of my work, consider giving something back. Share my writing with friends & followers, pick up my |

@@ -1,0 +1,22 @@
+---
+subject: "Philippine venture capitalists have a new investment thesis"
+from: "The Ken <info@the-ken.com>"
+to: ""
+date: 2023-11-23 00:09:28
+labels: ["CATEGORY_PERSONAL", "INBOX", "The Ken", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_8244464457792971031", "UNREAD"]
+---
+Good Morning Ishan,
+Earlier this month, I planned to order groceries online for my aunt, who takes care of my sick grandfather in Bali, Indonesia.
+But I found that the e-groceries platform I frequently used in the past had ceased its business-to-consumer (B2C) operations. Another local grocery website stopped its retail business in favour of supplying hotels and restaurants on the island.
+As I browsed the news, I learned that several other online retail startups in Indonesia have also pivoted to the business-to-business (B2B) segment to sustain their business.
+A similar thing is happening in the Philippines.
+Startups in the Philippines have been enjoying billions of dollars in funding over the past three years. Consumer-facing services, like online retail and e-wallet, were venture capital (VC) firms’ favourites thanks to the accelerated shift of Filipinos’ consumption behaviour from offline to online platforms.
+It all made sense in the past as Covid-19 pandemic restrictions forced people to stay at home and conduct their daily transactions on their smartphones. Even shortly after the restrictions were lifted, those startups still benefited from the consumers’ pent-up demand.
+But as demand normalises, the heyday of the B2C startups is nearing its end. The country’s largest venture fund names, Kickstart and 917Ventures, have now set their sights on a new field of startups.
+Isa outlines the reasons behind this decision and reveals the new darling of the venture funds in her story: [https://the-ken.com/story/philippine-venture-capitalists-have-a-new-investment-thesis/](https://the-ken.com/story/philippine-venture-capitalists-have-a-new-investment-thesis/?utm_source=daily_story&utm_medium=email&utm_campaign=daily_newsletter) (7-minute read)
+Regards,
+Prima
+P.S: We just went live with a completely new design of our website! It’s a brand-new, radical, reimagining of The Ken. We’ve been working on it for several months. And we’re really excited about it. Most importantly, we want to know what you think. Tell us. You can learn more about it [here](https://the-ken.com/blog/introducing-the-kens-brand-new-redesign/).
+What you just read is the personalised daily introduction to The Ken's story. Written by a different person each day. Often insightful, sometimes witty, and very rarely boring. Someone sent this to you? [Sign up for free](https://the-ken.com/?modal=register&utm_source=footer&utm_medium=email&utm_campaign=morning_email_ind_shared). [Dont like these? You can unsubscribe](https://link.the-ken.com/asm/unsubscribe/?user_id=2349339&data=cyZ4ApxlLzdEuyO2ceh06DyIbb7tu8SrX1e-XyjUbTJoMDAwdTAwMM_4gV4xJsoEc_ALAtHGCWmbi1QcOTx9n1kGYUaGw5UiIpn3CrMjHUo217IDhiejTzqpesWk_LMJSEpvr5o2Cd_U01iIHF3ZmbpWq-iEpw8l1m4x_7lHYnB-qxC-yN4AEDfOwxg4DdE15y1AIAh6YbfSG2LMfzdk8CoXlXbOa11z3RjoqFspVXnVxJvvtEd5HgQ3Ju6uyx9yNqXNCSnhQJlYOuJg4Y6MczjvswSf8pTdWteQE-nT4W4zeHtnBsJBNuRUIpQAJE_GN8dp8Rg3beUeD85UIfe3IkAFG0Cs7A7mP_yzjUEYkLXGlmXiuqSb0BeqGhQQzpvQDTVeAXUCtEs6ICq0hUUTEiArcO5g_PTXoaYvoHeliMrzzepRj-IYal9K0_3IzqOczB4XSR_V1cVsFoR0fLKo2EUHRHG7XSfH2eTZ91U3ISeJ8KmLtCC_iunPanBw1uqa9z3o0-_Z2xsfIMKMf7LZ023gWuzs6jrFNFRUoIM66ban4kDPjPdq9vnXYeFDMpFHhaEIGdWG2RQ=) Dont want to hear from us again? [ Unsubscribe from our emails here](https://link.the-ken.com/asm/?user_id=2349339&data=Lg_gVXmpWnBVyIrrpGUP-kRMgSqjjEIHFSRSZ9V7fAxoMDAwdTAwMPhBK-hkP6QUBMUkXx629BIWYQQxMIR4w_4VfDEUzvaMxbJJQ_n53IJpRp3QatDrzqMIVA80Blf3MwSF0VZFg1oSUJVgdkWspXl1sh_F0lYs8j4QkYpXxgQuVkK3H3yBW0II7oUjGFVwVYpzGI82HnlCkPFjCXJGWxt3pTDO7U2olwC_YtdMfz0TMjxxAi3QrIZ_GF-rb0LUvh8dAHpIcmSRAt7CxQuSY47Ninpir6MI8YZZ87p2J5xRxMIgrMZwBXcDKuUeieXzPhYMgxGdy_EyIGgkWLcmaXCcoK-OGVxaWEY4Lz0R1VyErPfi4-Di1XSAWe-Duhv6dXrHbtV4-FpmhlGu2Syy1Gft3WACJCUKhGNQ6ZUcON4rgVS8aYe5D9mlHPwD9dkZFZbIUXWU94auhGwmlvoevw_N3oF6fz8wZ1CLDHDlYiX0t337Xp_UP0dcirGIBQKiDFLjggHc1ISHFkTypoJYA14uzvzdJocuUoDuy-SNdpqNCcAMiQYNDg==).
+Something wrong? Tell us at [support@the-ken.com](mailto:support@the-ken.com)

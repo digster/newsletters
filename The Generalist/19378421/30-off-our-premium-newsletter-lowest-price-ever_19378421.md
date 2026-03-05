@@ -1,0 +1,11 @@
+---
+subject: "30% off our premium newsletter (lowest price ever!)"
+from: "The Generalist <thegeneralist@substack.com>"
+to: ""
+date: 2024-11-29 14:09:41
+labels: ["CATEGORY_PERSONAL", "INBOX", "The Generalist", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_8815311452832858585", "UNREAD"]
+---
+Friends, Today, we're offering our steepest ever discount to our premium newsletter, Generalist+. For a short period of time, Generalist+ is available for $15/month or $150/year. That’s a discount of over 30%. We hope it’s the one valuation haircut you’re actually excited about. (And that you know a good deal when you see one.) We don't expect to offer this price again any time soon. As a member, you'll gain immediate access to: Detailed Investor and Founder Guides, representing thousands of hours of research Exclusive, unusual interviews with technology's sharpest minds A proprietary database of the world’s most promising companies Deep analysis of market trends and opportunities Regular long-form pieces that help you think differently about technology's future
+What does that look like exactly? Here are 7 (real) examples: How 15 leading investors actually look for super-trends Eight elite CEOs talking through how they leverage AI A chat with Reid Hoffman about backing Airbnb, even when his partner told him not to A 14,000 word guide on raising your first venture fund from 12 people that have done it Vinod Khosla’s email explaining why he hired Eric Schmidt Detailed breakdowns of 50 hot startups from AI-powered trucking to stablecoin banks The thesis behind one of VC’s greatest investments (2,500x!)
+Generalist+ is an investment in yourself – one that compounds over time. Whether you're an investor seeking an edge, a founder building the future, or an operator navigating tech's frontier, our mission is to make you a more informed and intelligent decision-maker. Join Generalist+ for $15/month today. This offer expires at midnight on Monday. – Mario P.S. If you work in tech or business, Generalist+ is often expensable. Win/win/win. |

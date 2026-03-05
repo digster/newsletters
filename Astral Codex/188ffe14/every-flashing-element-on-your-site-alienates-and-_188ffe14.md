@@ -1,0 +1,24 @@
+---
+subject: "Every Flashing Element On Your Site Alienates And Enrages Users"
+from: "Astral Codex Ten <astralcodexten@substack.com>"
+to: ""
+date: 2023-06-28 02:40:59
+labels: ["Astral Codex", "CATEGORY_PERSONAL", "INBOX", "UNREAD"]
+label_ids: ["Label_6409723252142624155", "CATEGORY_PERSONAL", "INBOX", "UNREAD"]
+---
+|
+Everyone hates flashing banner ads, but maybe they’re a necessary evil. Sites need money, advertisers demand a certain level of visibility for their ad buys, maybe they’re willing to eat the cost in user goodwill. Fine. But what’s everyone else’s excuse?
+A few days ago I needed to look up an obscure point of Jewish law, as you do, and found [this Jewish law website](https://substack.com/redirect/d5686308-ba4c-4951-a234-a1aa84a4acbc?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o):
+The background toggles every few seconds between a picture of a rabbi and a picture of . . . a different rabbi? There’s no conceivable benefit to this and it makes it almost impossible to concentrate on the text.
+I used to think I must be the only person who worried about this; maybe it was a weird OCD thing. But I asked about it on the ACX survey . . .
+. . . and 88% of people find them at least a little annoying! 16% of people go all the way, and say they wouldn’t use a website that has them!
+Yet websites have been adding them to more and more parts of the user experience. Most aren’t as blatant as the Jewish law site, but they’re still there. Here’s what it looks like to try to write a draft here on Substack:
+As long as you keep typing, the “Saving Draft” button flashes in the upper left corner every few seconds. There’s no easy way to block the element with AdBlock without also removing important functional elements of the editor. And speaking of AdBlock, its interface looks like this:
+An unblockable moving status bar that switches every few seconds between different messages about the product! This is what they think the people most obsessed with blocking flashing/changing elements on websites want! This new “show a constantly-moving status bar on screen to tell you when they will change another flashing element” thing has also [made it onto the front page of Bing](https://substack.com/redirect/380984cd-9f98-4da9-a6ca-0e6f39be4c6b?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o), although luckily you can dismiss it there.
+I would have expected Google to resist. They haven’t. I can no longer write things on GMail - I have to compose on Notepad and then copy-paste to the GMail window - because they’ve made it look like this:
+It cycles between these every few seconds, irregularly, as long as I keep typing. It baffles me that these companies will spend millions of dollars optimizing every aspect of their user interface, then add one completely unnecessary feature that ensures I will never spend more than the absolute minimum possible amount of time using their product.
+I know I’m not the only person who hates this, because when I Google it, I find GMail help forum threads like:
+…containing messages like these:
+The response from the company is always the same: “We don’t support disabling that feature”. Big tech companies would rather lose the 16% of users who say they would stop using a site with flashing elements, plus irritate the further 72% who merely find it annoying, than make the slightest concession to not having “Draft saved!” flash on and off on their site every few seconds.
+I hope this message reaches some of the people who work in interface design for tech companies. If your site does this, I hate you and will try to avoid using your product. If I can’t avoid it, I will turn on AdBlock for your site in particular to block the element (incidentally denying you revenue). If I can’t get AdBlock to block the offending element in particular, I’ll just hate you even harder, to make up for it.
+You're currently a free subscriber to [Astral Codex Ten](https://substack.com/redirect/0dfc2c35-3083-4723-91dc-88d2b401918a?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o). For the full experience, [upgrade your subscription.](https://substack.com/redirect/2/eyJlIjoiaHR0cHM6Ly9hc3RyYWxjb2RleHRlbi5zdWJzdGFjay5jb20vc3Vic2NyaWJlP3Rva2VuPWV5SjFjMlZ5WDJsa0lqb3hORFUyTXpNeE9Td2lhV0YwSWpveE5qZzNPVEl3TVRBeExDSmxlSEFpT2pFMk9UQTFNVEl4TURFc0ltbHpjeUk2SW5CMVlpMDRPVEV5TUNJc0luTjFZaUk2SW1Ob1pXTnJiM1YwSW4wLnNmdjV3WXYxbnRQNDRzTmNneDctaWN0S3JmVGZ1UDRWX0lCajBzMnN2eXMmdXRtX3NvdXJjZT1wb3N0IiwicCI6MTAzOTc3NDI1LCJzIjo4OTEyMCwiZiI6dHJ1ZSwidSI6MTQ1NjMzMTksImlhdCI6MTY4NzkyMDEwMSwiZXhwIjoxNjkwNTEyMTAxLCJpc3MiOiJwdWItMCIsInN1YiI6ImxpbmstcmVkaXJlY3QifQ.dxlkpa4v7I60JxT_L9bM4ymBOgEYF3MhHT1zlDBV9Qw?&utm_source=substack&utm_medium=email&utm_content=postcta)

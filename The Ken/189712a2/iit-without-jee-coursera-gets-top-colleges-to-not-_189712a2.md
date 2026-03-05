@@ -1,0 +1,25 @@
+---
+subject: "IIT without JEE? Coursera gets top colleges to not be very choosy"
+from: "The Ken <info@the-ken.com>"
+to: ""
+date: 2023-07-20 02:38:52
+labels: ["CATEGORY_PERSONAL", "INBOX", "The Ken", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_8244464457792971031", "UNREAD"]
+---
+Good Morning Ishan,
+“The only thing that interferes with my learning is my education.” Now, Einstein, being Einstein, could afford to say such profound things.
+For millions of Indian students, though, quality higher education remains the best and, maybe, the only ticket to a shot at success. No surprise that it’s a much sought-after commodity.
+Nothing illustrates this better than the scramble to enter the Indian Institutes of Technology—the country’s premier engineering colleges. Young people put on war gear and start prepping hard as early as the 9th standard. Sadly, the odds are stacked against the vast majority.
+The acceptance ratio at the IITs for a bachelor’s degree in engineering was less than 2% this year—17,000 seats and 1.1 million aspirants. The competition is as fierce for many other coveted higher education courses in India.
+Such stats, though, have thrown up interesting opportunities for the protagonist of today’s story—Coursera.
+The US-headquartered edtech firm already counts India as its second-largest market in terms of learners. Its users have nearly doubled within a short period: to a whopping 19 million-plus last year from 10.6 million in 2020. But, (there’s always a but) there’s a catch. The overwhelming majority of these learners opt for the MOOCs (massive open online courses) that are free for the initial part. This was in line with the company’s plan of growing its learner base in its first decade in the country.
+But now, Coursera seeks more bang for its book. And tying up with reputed institutions to offer fully online degree courses—for a fee, of course—is a way of achieving that goal.
+IIT Guwahati, for instance, has created a new course in data science and artificial intelligence for Coursera. Some others, such as SP Jain Institute of Management and Research, are offering their flagship programmes on the platform. The list of tie-ups is getting longer (in the high teens now) and may drive growth for the platform. Regulation and policy changes help, too.
+On the face of it, it’s a win-win-win-win. Students get to study (even if online) at eminent institutes, which, in turn, get more students; the government sees wider accessibility of higher education; Coursera gets its cut.
+But (there’s always a but), there are many questions. Entry may be simpler for students; what about exits? What about placements? Is the brand value of these institutions getting diluted? Is the competition keeping quiet? More to it than meets the eye?
+Alifiya, the author, delves into all this and more in today’s educational story: [https://the-ken.com/story/iit-without-jee-coursera-gets-top-colleges-to-not-be-very-choosy/](https://the-ken.com/story/iit-without-jee-coursera-gets-top-colleges-to-not-be-very-choosy/?utm_source=daily_story&utm_medium=email&utm_campaign=daily_newsletter) [8-minute read]
+Thanks,
+Anand
+[anand@the-ken.com](mailto:anand@the-ken.com)
+What you just read is the personalised daily introduction to The Ken's story. Written by a different person each day. Often insightful, sometimes witty, and very rarely boring. Someone sent this to you? [Sign up for free](https://the-ken.com/?modal=register&utm_source=footer&utm_medium=email&utm_campaign=morning_email_ind_shared). [Dont like these? You can unsubscribe](https://link.the-ken.com/asm/unsubscribe/?user_id=2349339&data=t-EgE5BheqO6YH9AXWedgoB7pG5CoEPJ6vgMCpgalqBoMDAwdTAwMBz-SHo_0fZSwNyzLnePuy23-NJ15LYRsdV4rEJrgyDsH_xmhiXnDH5CsSa-PHRnTKyD0dS5PiIR3UoAlbbNkObhaHgZRlqd4myMZeAMZ-2CqQkT7DbLmDcPVcovUtRZ7vcWH6oRaOhcBKqz8TRF6Cb3Z1Lu1qV6Y3JNLGlosDnH_Wb_i4lMU1hHJnwZalDwPOBUnbM9Cgc76HFOrjcU68pZ-4KeOpazgMk7HoCPjtMHF9MF-Q_kAdZC3WD08AXN8U_Wmd4391S5UnJoBogGCMD1U8LS2R0fboMtRGtIFnNtltk-LrrTgQT4k06j1cm-aoUASMMD9eTNGGCrEXIjdGEEfeh8pa46gJvkhcUkrYr_cK-CKByZL1_r2FDhvDVOOdL3y1Hy3oNjDgxGwiRkBK66PzFG_jtWiXOetIS_vIoeXdbCnzcAZw3-pkXdpb4geStEXvlFGf1nmY6957MvblY_hubl5VcbaK7vJMHhIVlnsNcbqMZzJh96N6A4ETAbPbm7yxgbn3_qGlnadnIebsU=) Dont want to hear from us again? [ Unsubscribe from our emails here](https://link.the-ken.com/asm/?user_id=2349339&data=IdKshvfAIxsU500zPe8OkCDyUAFTYpE_sk402hsJFzVoMDAwdTAwMDGdYHhp9wOHu1feekrxGbipj3fX2FatAtWp4vf-uL54v_zGOP0m1cVmXpWt9N1Sz-Dzg76YPQk6zj73bAN2huDyD6AlrMjOYLaD1-z2HPosnsltJlLbm_4Ap6gJkwfUZOCXujgdfHq4MNhx2NHoKxdrnME0gXjubOOzCLBvVe3qwqYSvOK1EnxyEqX6AV4bIZmQ1C8V7rpR435IKiQ1f7_7j_C9leQ7WIxRRIARfTxQzpgy08ROtpXn7MSkUF3WiR1dsaNibBR7mzqxpf3GBtGf0UYVwDI7o5ZB6rBYSencMM0Wz_tntT3WFQ7SavGMmQVJqGEJST0O6RZ0fg2xP_Tkj1JshlcnHjKpJIqvkhXVnQ-fmiuA-V7S3R_Vk_t_ItS-0YQWJKGwMvwWrz-ionGKJo2Lzh67x9a4_4XK00hrQVvzguagIx2VpyKz2sdq6bJYTOM-W57OJ6w88vkMKLwf_SoVCB2ZZIRDQ13RlSoySpmExRHhQaf82qffcAB00Q==).
+Something wrong? Tell us at [support@the-ken.com](mailto:support@the-ken.com)

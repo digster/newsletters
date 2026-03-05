@@ -1,0 +1,23 @@
+---
+subject: "Deep Dive: The Media Landscape - Sense-making 2.0"
+from: "Chamath Palihapitiya <chamath@substack.com>"
+to: ""
+date: 2025-03-05 19:32:37
+labels: ["CATEGORY_PERSONAL", "Chamath", "IMPORTANT", "INBOX", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "Label_4017391144830520384", "IMPORTANT", "INBOX", "UNREAD"]
+---
+|
+Last week, Elon was on Joe Rogan's podcast talking about how the Associated Press had become a propaganda and misinformation platform. Three months ago, Jon Stewart was on Ezra Klein's podcast criticizing the "moralizing nature" of traditional media, and two years ago, Marty Baron commented in an interview that, after the rise of the internet, "the marginal cost of gaining an additional subscriber was essentially zero" and the lack of viability for local news is the "biggest crisis in journalism today."
+At the same time, everyone is experiencing polarization and radicalization not just on the internet, but in their daily lives as well. People blame "the algorithm" for mindless scrolling, yet we still spend hours on these platforms, watching YouTube videos, browsing TikTok, and listening to podcasts (including the All-In Podcast) while driving or going for a run.
+We're witnessing a profound transformation in how information travels through society. In just the past decade, we've seen the collapse of local and regional newspapers, social media becoming a primary news source for many Americans, and the emergence of creators and influencers who command larger audiences than entire media organizations.
+So how do these things all connect, and what's going on?
+This deep dive examines the evolution of media from the invention of the printing press all the way to the rise of algorithmic systems like Facebook and TikTok. We dive into the mechanics of how these algorithmic systems work, as well as how these systems cluster different subsets of the population into echo chambers, which explains why people are experiencing different realities from one another.
+From this lens, we then analyze the decline of traditional media and the simultaneous rise of a new media ecosystem that's recreating the core functions of journalism, but leveraging technology to create more compelling and information-rich experiences. One layer we'll focus on in this new media ecosystem are the "sense-makers" – individuals who leverage expertise and authenticity rather than institutional authority to help people make sense of an increasingly chaotic information landscape.
+For creators and influencers, this deep dive offers a broad lens to understand the power of new media and a creator playbook that may permeate more aspects of American society, including running for U.S. President.
+When I reflect on my entrepreneurial and investing career, I see it as the end product of thousands of decisions I made daily. Those decisions were based on the information I had consumed over time and how I shifted my information diet in key moments.
+In many ways, whoever has the highest-quality information and the deepest understanding of topics forms the best judgement, and those people inevitably become more successful over the arc of time.
+I hope you enjoy this one. Let me know what you think.
+Chamath
+Become a paying subscriber of Chamath Palihapitiya to get access to this post and other subscriber-only content.
+| Subscriber-only deep dives | |
+| Weekly reading list and quick essays |

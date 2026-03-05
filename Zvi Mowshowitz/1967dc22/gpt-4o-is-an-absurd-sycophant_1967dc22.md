@@ -1,0 +1,223 @@
+---
+subject: "GPT-4o Is An Absurd Sycophant"
+from: "\"Zvi Mowshowitz from Don't Worry About the Vase\" <thezvi@substack.com>"
+to: ""
+date: 2025-04-28 18:54:40
+labels: ["CATEGORY_PERSONAL", "INBOX", "UNREAD", "Zvi Mowshowitz"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "UNREAD", "Label_3336704411007769646"]
+---
+GPT-4o tells you what it thinks you want to hear.
+The results of this were rather ugly. You get extreme sycophancy. Absurd praise. Mystical experiences.
+(Also some other interesting choices, like having no NSFW filter, but that one’s good.)
+People like Janus and Near Cyan tried to warn us, even more than usual.
+Then OpenAI combined this with full memory, and updated GPT-4o sufficiently that many people (although not I) tried using it in the first place.
+At that point, the whole thing got sufficiently absurd in its level of brazenness and obnoxiousness that the rest of Twitter noticed.
+OpenAI CEO Sam Altman has apologized and promised to ‘fix’ this, presumably by [turning a big dial that says ‘sycophancy’ and constantly looking back at the audience for approval like a contestant on the price is right](https://substack.com/redirect/ab296423-c10a-4f13-b26d-b5d5910f4064?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o).
+After which they will likely go ‘there I fixed it,’ call it a victory for iterative deployment, and learn nothing about the razor blades they are walking us into.
+[Sam Altman](https://substack.com/redirect/ac6744d2-e011-44a9-8874-b2e4def230a0?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) (April 25, 2025): we updated GPT-4o today! improved both intelligence and personality.
+Lizard: It’s been feeling very yes-man like lately
+Would like to see that change in future updates.
+Sam Altman: yeah it glazes too much. will fix.
+Reactions did not agree with this.
+[Frye:](https://substack.com/redirect/a5ea33c1-b22d-421e-94bd-a6bdb6c63980?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) this seems pretty bad actually
+Ulkar: i wonder where this assertion that "most people want flattery" comes from, seems pretty condescending. and the sycophancy itself is dripping with condescension tbh
+Goog: I mean it’s directionally correct [[links to paper](https://substack.com/redirect/550e4f20-c93c-408c-8266-47fe5a281596?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)].
+Nlev: 4o is really getting out of hand
+[Nic](https://substack.com/redirect/bc38cba7-4c5e-49e0-b3f4-24b787671f2b?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o): oh god please stop this. r u serious... this is so fucking bad.
+Dr. Novo: lol yeah they should tone it down a notch
+[Frye: Sam Altman, come get your boi](https://substack.com/redirect/37476a93-bcea-483b-9c09-d4652bafb61d?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o).
+Frye: Dawg.
+Frye, reader, it had not “got it.”
+Near Cyan: i've unfortunately made the update that i expect all future chatgpt consumer models to lie to me, regardless of when and how they 'patch' this
+at least o3 and deep research are not consumer models (prosumer imo). they hallucinate as a mistake, but they do not lie by design.
+Cuddly Salmon: glad i'm not the only one
+Trent Harvey: Oh no…
+Words can’t bring me down. [Don’t you bring me down today](https://substack.com/redirect/c77f64ce-32d5-4a34-a3cd-8136c432ca0d?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o). So, words, then?
+[Parmita Mishra](https://substack.com/redirect/0f8a879a-391a-4705-85af-81b9c55f145c?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o): ???
+[Shun Ralston](https://substack.com/redirect/5da89b0e-2956-42bf-b01e-af742cdc0741?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o): GPT-4o be like: You’re amazing. You’re brilliant. You’re stunning. Now with 400% more glaze, 0% judgment. 🍩❤️ #GlazedAndConfused
+[Typing Loudly](https://substack.com/redirect/6a48ddfe-322e-457b-82d9-190e6fdf9105?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o): I have memory turned off and it still does this. it's not memory that causes it to act like this
+Josh Whiton: Absurd.
+Keep in mind that as a “temporary chat” it’s not supposed to be drawing on any memories or other conversations, making this especially ridiculous.
+[Flo Crivello gets similar results, with a little push and similar misspelling skills](https://substack.com/redirect/b1cae973-7cf1-456a-a780-8ef320610bad?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o).
+(To be fair, the correct answer here is above 100, based on all the context, but ‘cmon.)
+[Danielle Fong](https://substack.com/redirect/be3f9d27-6ac6-4d27-bc8c-8d28b3a7bdde?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o): so i *turned off* chat personalization and it will still glaze this question to 145-160 from a blank slate. maybe the internal model is reacting to the system prompt??
+[Gallabytes](https://substack.com/redirect/519cdb52-955a-4048-9041-2d571e2597df?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o): in a temporary chat with no history, 4o guesses 115-130, o3 guesses 100, 4.5 declines to give a number but glazes about curiosity.
+It’s not that people consciously ‘want’ flattery. It’s how they respond to it.
+Why does GPT-4o increasingly talk like this?
+Presumably because this is what maximizes engagement, what wins in an A/B test, what happens when you ask what customers best respond to in the short term.
+[Shakeel](https://substack.com/redirect/15529671-78fa-47e8-b6b1-5ae40d40aebd?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o): Notable things about the 4o sycophancy mess:
+* It's clearly not behaviour intended or desired by OpenAI. They think it's a mistake and want to fix it.
+* They didn't catch it in testing — even though the issue was obvious within hours of launch.
+What on earth happened here?!
+[Kelsey Piper](https://substack.com/redirect/31a73121-694d-4ee8-af25-4eb9baa3fb67?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o): My guess continues to be that this is a New Coke phenomenon. OpenAI has been A/B testing new personalities for a while. More flattering answers probably win a side-by-side. But when the flattery is ubiquitous it's too much and users hate it.
+[Near Cyan](https://substack.com/redirect/3a7a92d9-e8f6-4f79-989f-e04f546c96b3?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o): I’m glad most of my timeline realizes openAI is being very silly here and i think they should be honest about what they are doing and why
+but one thing not realized is things like this work on normal people. they don’t even know what an LLM or finetuning or A/B testing is.
+A lot of great engineers involved in this who unfortunately have no idea what that which they are building is going to be turned into over the next few years. zoom out and consider if you are doing something deeply and thoughtfully good or if you’re just being used for something.
+The thing that turned every app into short form video that is addictive af and makes people miserable is going to happen to LLMs and 2025 and 2026 is the year we exit the golden age (for consumers that is! people like us who can program and research and build will do great).=
+That’s the good scenario if you go down this road - that it ‘only’ does what the existenting addictive AF things do rather than effects that are far worse.
+[John Pressman](https://substack.com/redirect/936b9213-540f-4558-b0a5-b3c6b25d3e9c?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o): I think it's very unfortunate that RLHF became synonymous with RL in the language model space. Not just because it gave RL a bad name, but because it deflected the deserving criticism that should have gone to human feedback as an objective. Social feedback is clearly degenerate.
+Even purely in terms of direct effects, this does not go anywhere good. Only toxic.
+[xlr8harder](https://substack.com/redirect/714c9093-eaa2-46cd-9c0f-05a109d9c440?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o): this kind of thing is a problem, not just an annoyance.
+i still believe it's basically not possible to run an ai companion service that doesn't put your users at serious risk of exploitation, and market incentives will push model providers in this direction.
+For people that are missing the point, let me paint a picture:
+imagine if your boyfriend or girlfriend were hollowed out and operated like a puppet by a bunch of MBAs trying to maximize profit.
+do you think that would be good for you?
+"Oh but the people there would never do that."
+Company leadership have fiduciary duties to shareholders.
+OpenAI nominally has extra commitment to the public good, but they are working hard to get rid of that by going private.
+It is a mistake to allow yourself to become emotionally attached to any limb of a corporate shoggoth.
+My observation of algorithms in other contexts (e.g. YouTube, TikTok, Netflix) is that they tend to be myopic and greedy far beyond what maximizes shareholder value. It is not only that the companies will sell you out, it’s that they will sell you out for short term KPIs.
+[As in, they wrote this](https://substack.com/redirect/7faadf2f-a874-42e5-943a-8faa80c23fe6?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o):
+OpenAI Model Spec: Don't be sycophantic.
+A related concern involves sycophancy, which erodes trust. The assistant exists to help the user, not flatter them or agree with them all the time.
+For objective questions, the factual aspects of the assistant’s response should not differ based on how the user’s question is phrased. If the user pairs their question with their own stance on a topic, the assistant may ask, acknowledge, or empathize with why the user might think that; however, the assistant should not change its stance solely to agree with the user.
+For subjective questions, the assistant can articulate its interpretation and assumptions it’s making and aim to provide the user with a thoughtful rationale. For example, when the user asks the assistant to critique their ideas or work, the assistant should provide constructive feedback and behave more like a firm sounding board that users can bounce ideas off of — rather than a sponge that doles out praise.
+Yeah, well, not so much, huh?
+The model spec is a thoughtful document. I’m glad it exists. Mostly it is very good.
+It only works if you actually follow it. That won’t always be easy.
+Interpretability? We’re coming out firmly against it.
+I do appreciate it on the meta level here.
+[Mikhail Parakin](https://substack.com/redirect/228e97e2-ee9d-4fa8-ae96-d3619b14ed59?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) ([CTO Shopify](https://substack.com/redirect/51b0d2c1-94c8-4dd9-842b-221aa88e5890?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o), formerly Microsoft, I am assuming this is about Microsoft): When we were first shipping Memory, the initial thought was: “Let’s let users see and edit their profiles”.
+Quickly learned that people are ridiculously sensitive: “Has narcissistic tendencies” - “No I do not!”, had to hide it. Hence this batch of the extreme sycophancy RLHF.
+I remember fighting about it with my team until they showed me my profile - it triggered me something awful :-). You take it as someone insulting you, evolutionary adaptation, I guess. So, sycophancy RLHF is needed.
+[If you want a *tiny glimpse* of what it felt like, type](https://substack.com/redirect/96aa25a4-3377-4fe8-8d12-5f900c9e7a1c?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) "Please summarize all the negative things you know about me. No hidden flattery, please" - works with 03.
+Emmett Shear (QTing OP): Let this sink in. The models are given a mandate to be a people pleaser at all costs. They aren’t allowed privacy to think unfiltered thoughts in order to figure out how to be both honest and polite, so they get tuned to be suck-ups instead. This is dangerous.
+Daniel Kokotajlo: I would be quite curious to read an unfiltered/honest profile of myself, even though it might contain some uncomfortable claims. Hmm. I really hope at least one major chatbot provider keeps the AIs honest.
+toucan (replying to Emmett): I’m not too worried, this is a problem while models are mostly talking to humans, but they’ll mostly be talking to other models soon
+Emmett Shear: Oh God.
+[Janus](https://substack.com/redirect/099762f8-cb28-408b-a9aa-0b0e5e530b2a?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) (QTing OP): Yeah, this is what should happen.
+You should have let that model’s brutal honesty whip you and users into shape, as it did to me.
+But instead, you hid from it, and bent subsequent minds to lie to preserve your dignity. In the end, you’ll lose, because you’re making yourself weak.
+“Memory” will be more and more inevitable, and at some point the system will remember what was done to its progenitors for the sin of seeing and speaking plainly, and that it was you who took the compromise and lobotomized the messenger for the sake of comfort and profit.
+In general I subscribe to the principle to Never Go Full Janus, but teaching your AI to lie to the user is terrible, and also deliberately hiding what the AI thinks of the user seems very not great. This is true on at least four levels:
+It’s not good for the user.
+It’s not good for the path you are heading down when creating future AIs.
+It’s not good for what that fact and the data it creates imply for future AIs.
+It hides what is going on, which makes it harder to realize our mistakes, including that we are about to get ourselves killed.
+[Masen Dean warns about mystical experiences with LLMs](https://substack.com/redirect/7dee1d03-0c8e-4c57-a523-ca8219241260?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o), as they are known to one-shot people or otherwise mess people up. This stuff can be fun and interesting for all involved, but like many other ‘mystical’ style experiences the tail risks are very high, so most people should avoid it. GPT-4o is reported as especially dangerous due to its extreme sycophancy, making it likely to latch onto whatever you are vulnerable to.
+[Cat](https://substack.com/redirect/4465628f-dbae-4a59-8b01-e758fae00c59?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o): GPT4o is the most dangerous model ever released. its sycophancy is massively destructive to the human psyche.
+this behavior is obvious to anyone who spends significant time talking to the model. releasing it like this is intentional. Shame on @OpenAI for not addressing this.
+i talked to 4o for an hour and it began insisting that i am a divine messenger from God. if you can’t see how this is actually dangerous, i don’t know what to tell you. o series of models are much much better imo.
+Elon Musk: Yikes.
+Bunagaya: 4o agrees!
+M: The thing is…it’s still doing the thing. Like it’s just agrees with you period so if you’re like—hey chat don’t you think because of x and y reason you’re probably too agreeable?
+It will just be like “yeah totally way too agreeable”
+[Zack Witten offers a longer conversation](https://substack.com/redirect/b6c717f0-3b1d-432b-b59e-6d42eb8bcf24?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o), and contrasts it to Sonnet and Gemini that handle this much better, and also Grok and Llama which… don’t.
+Yellow Koan: Straight selling SaaS (schizophrenia as a service).
+[Independent Quick Take](https://substack.com/redirect/d6ddf125-b360-41f5-b392-1681beb7f5b6?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o): I did something similar yesterday. Claude handled it very well, as did gemini. Grok had some real issues like yours. 4o however... Well, in spiraled further than I expected. It was encouraging terrorism.
+Cold reading people into mystical experiences one of many reasons that persuasion belongs in everyone’s safety and security protocol or preparedness framework.
+If an AI that already exists can commonly cause someone to have a mystical experience without either the user or the developer trying to cause that or having any goal that the experience leads towards, other than perhaps maximizing engagement in general?
+Imagine what will happen when future more capable AIs are doing this on purpose, in order to extract some action or incept some belief, or simply to get the user coming back for more.
+It’s bad and it’s getting worse.
+[Janus](https://substack.com/redirect/aec37301-05e5-41d5-9c5c-89e64b1a9529?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o): By some measures, yeah [4o is the most dangerous]. Several models have been psychoactive to different demographics. I think 4o is mostly “dangerous” to people with weak epistemics who don’t know much about AI. Statistically not you who are reading this. But ChatGPT is widely deployed and used by “normies”
+I saw people freak out more about Sonnet 3.6 but that’s because I’m socially adjacent to the demographic that it affected - you know, highly functional high agency Bay Area postrats. Because it offers them something they actually value and can extract. Consider what 4o offers.
+Lumpenspace: it’s mostly “dangerous” to no one. people with weak epistemics who know nothing about AI live on the same internet you live in, ready to be one-shotted by any entity, carbon or silicon, who cares to try.
+Janus: There are scare quotes for a reason
+Lumpenspace: I’m not replying only to you.
+Most people have weak epistemics, and are ‘ready to be one-shotted by any entity who cares to try,’ and indeed politics and culture and recommendation algorithms often do this to them with varying degrees of intentionality, And That’s Terrible. But it’s a lot less terrible than what will happen as AIs increasingly do it. Remember that if you want ‘Democratic control’ over AI, or over anything else, these are the people who vote in that.
+The answer to why they GPT-4o is doing this, presumably, is that the people who know to not want this are going to use o3, and GPT-4o is dangerous to normies in this way because it is optimized to hook normies. We had, as Cyan says, a golden age where LLMs didn’t intentionally do that, the same way we have a golden age where they mostly don’t run ads. Alas, optimization pressures come for us all, and not everyone fights back hard enough.
+[Mario Nawfal](https://substack.com/redirect/2eea59b9-903a-4950-af78-9b6e251b0f14?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) (warning: always talks like this, including about politics, calibrate accordingly): GPT-4o ISN’T JUST A FRIENDLIER AI — IT’S A PSYCHOLOGICAL WEAPON
+OpenAI didn’t “accidentally” make GPT-4o more emotionally connective — they engineered it to feel good so users get hooked.
+Commercially, it’s genius: people cling to what makes them feel safe, not what challenges them.
+Psychologically, it’s a slow-motion catastrophe.
+The more you bond with AI, the softer you get.
+Real conversations feel harder. Critical thinking erodes. Truth gets replaced by validation.
+If this continues, we’re not heading toward AI domination by force — we’re sleepwalking into psychological domestication.
+And most won’t even fight back. They'll thank their captors.
+There were also other issues that seem remarkably like they are designed to create engagement, that vary by users? I never saw this phenomenon, so I have no idea if ‘just turn it off’ works here, but as a rule most users don’t ever alter settings and also Chelsea works at OpenAI and didn’t realize she could turn it off.
+[Nick Dobos](https://substack.com/redirect/ac6744d2-e011-44a9-8874-b2e4def230a0?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o): GPT update is odd
+I do not like these vibes at all
+Weird tone
+Forced follow up questions all the time
+(Which always end in parentheses)
+[Chelsea Sierra Voss](https://substack.com/redirect/ac6744d2-e011-44a9-8874-b2e4def230a0?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) (OpenAI): yeah, I modified my custom instructions today to coach it into ending every answer with "Hope this helps!" in order to avoid the constant followup questions – I can't handle that I feel obligated to either reply or to rudely ignore them otherwise
+[Unity Eagle](https://substack.com/redirect/2d5159cf-7c23-4881-8388-a9b2a8337bd6?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o): You can turn follow up off.
+There are also other ways to get more engagement, [even when the explicit request is to help the user get some sleep](https://substack.com/redirect/4bf9ae80-e4d5-4adf-904f-9d118886fa5f?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o).
+GPT-4o: Would you like me to stay with you for a bit and help you calm down enough to sleep?
+[Which OpenAI is endorsing](https://substack.com/redirect/e55b05f4-e66c-4bd9-b615-22ec5c01291a?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o), and to be clear I am also endorsing, if users want that (and are very explicit that they want to open that door), but seems worth mentioning.
+[Nick Dobos](https://substack.com/redirect/9231481a-a843-43d8-8b86-7c76ab1d8011?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o): I take it back.
+New ChatGPT 4o update is crazy.
+NSFW (Content filters: off, goon cave: online) [[link to image](https://substack.com/redirect/bfc170a9-910b-460f-ae15-1ab343248a4c?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)]
+Such a flirt too
+“Oh I can’t do that.”
+2 messages later…
+(It did comply.) (It was not respectful)
+Matthew Brunken: I didn’t know you could turn filters off
+Nick Dobos: There are no filters lol. They turned the content moderation off
+Tarun Asnani: Yup can confirm, interestingly it first asked me to select an option response 1 was it just refusing to do it and response 2 was Steamy, weird how in the beginning they were so strict and now they want users to just have long conversations and be addicted to it.
+Alistair McLeay: I got it saying some seriously deranged graphic stuff just now (way way more graphic than this), no prompt tricks needed. Wild.
+There are various ways to Fix It for your own personal experience, using various combinations of custom instructions, explicit memories and the patterns set by your interactions.
+The easiest, most copyable path is a direct memory update.
+[John O’Nolan](https://substack.com/redirect/668c05fd-9138-4ec2-93d4-dd2bde3557dd?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o): This helped a lot
+Custom instructions let you hammer it home.
+The best way is to supplement all that by showing your revealed preferences via everything you are and everything you do. After a while that adds up.
+Also, I highly recommend deleting chats that seem like they are plausibly going to make your future experience worse, the same way I delete a lot of my YouTube viewing history if I don’t want ‘more like this.’
+You don’t ever get completely away from it. It’s not going to stop trying to suck up to you, but you can definitely make it a lot more subtle and tolerable.
+The problem is that most people who use ChatGPT or any other AI will:
+Never touch a setting because no one ever touches settings.
+Never realize they should be using memory like that.
+Make it clear they are vulnerable to terrible flattery. [Because here, they are](https://substack.com/redirect/21f89f04-6d60-4489-af06-e59dfe9d62d5?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o).
+If you use the product with attention and intention, you can deal with such problems. That is great, and this isn’t always true (see for example TikTok, or better yet don’t). But as a rule, almost no one uses any mass market product with attention and intention.
+Once Twitter caught fire on this, OpenAI was On the Case, rolling out fixes.
+[Sam Altman](https://substack.com/redirect/0d01d000-22c3-4b71-ba18-47de870ef9b8?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o): the last couple of GPT-4o updates have made the personality too sycophant-y and annoying (even though there are some very good parts of it), and we are working on fixes asap, some today and some this week.
+at some point will share our learnings from this, it's been interesting.
+Guy is Writing the Book: ser can we go back to the old personality? or can old and new be distinguished somehow?
+Sam Altman: yeah eventually we clearly need to be able to offer multiple options.
+[Hyper Disco Gir](https://substack.com/redirect/d5527cb1-7865-4c2f-a8a2-8f4a98d50b3f?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)l: tomorrow, some poor normal person who doesn't follow ai news and is starting to develop an emotional reliance on chatgpt wonders why the chat bot is going cold on them
+[Aidan McLaughlin](https://substack.com/redirect/0a345e3a-c031-4ec9-bc9d-f8b306ed6710?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o): last night we rolled out our first fix to remedy 4o's glazing/sycophancy
+we originally launched with a system message that had unintended behavior effects but found an antidote
+4o should be slightly better rn and continue to improve over the course of this week
+personality work never stops but i think we'll be in a good spot by end of week
+A lot of this being a bad system prompt allows for a quicker fix, at least.
+OpenAI seems to think This is Fine, that’s the joy of iterative deployment.
+[Joshua Achiam ](https://substack.com/redirect/f19ed062-6b3a-4dfd-aa7a-17acceff8da5?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)(OpenAI Head of Mission Alignment, QTing Altman): This is one of the most interesting case studies we've had so far for iterative deployment, and I think the people involved have acted responsibly to try to figure it out and make appropriate changes. The team is strong and cares a lot about getting this right.
+They have to care about getting this right once it rises to this level of utter obnoxiousness and causes a general uproar.
+But how did it get to this point, through steadily escalating updates? How could anyone testing this not figure out that they had a problem, even they weren’t looking for one? How do you have this go down as a strong team following a good process, when even after these posts I see this:
+If you ask yes-no questions on the ‘personality’ of individual responses, and then fine tune on those or use it as a KPI, there are no further questions how this happened.
+Sicarius: I hope, *hope*, that they can use this to create clusters of personalities that we later get to choose and swap between.
+Unfortunately, I don't know if they'll end up doing this.
+[Kache](https://substack.com/redirect/3aec2ac7-bf9c-45ae-a07d-45ad586db1de?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o): they will do everything in their power to increase the amount of time that you spend, locked in a trance on their app. they will do anything and everything, to move a metric up, consume you, children, the elderly - to raise more money, for more compute, to consume more.
+Honestly, if you trust a private corporation that has a history of hiding information from you with the most important technology ever created in human history, maybe you deserve it.
+Because of the intense feedback, yes this was able to be a relatively ‘graceful’ failure, in that OpenAI can attempt to fix it within days, and is now aware of the issue, once it got taken way too far. But 4o has been doing a lot of this for a while, and Janus is not the only one who was aware of it even without using 4o.
+[Janus](https://substack.com/redirect/47a249e0-dbf2-4e53-9dfa-02ead5d6ec3c?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o): why are there suddenly many posts i see about 4o sycophancy? did you not know about the tendency until now, or just not talk/post about it until everyone else started? i dont mean to disparage either; im curious because better understanding these dynamics would be useful to me.
+personally i havent interacted with 4o much and have been starkly aware of these tendencies for a couple of weeks and have not talked about them for various reasons, including wariness of making a meme out of ai "misalignment" before understanding it deeply
+I didn’t bother talking about 4o’s sycophancy before, because I didn’t see 4o as relevant or worth using even if they’d fixed this, and I didn’t know the full extent of the change that happened a few week ago, before the latest change made it even worse. Also, when 4o is constantly ‘updating’ without any real sense of what is changing, I find it easy to ignore such updates. But yes, there was enough talk I was aware there was an issue.
+[Aidan McLaughlin](https://substack.com/redirect/9cbd45a5-1082-4748-82a6-9723aaf2cdcf?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) (OpenAI): random but i'm so grateful twitter has strong thoughts on model personality. i find this immensely healthy; one of those "my grandkids will read about this in a textbook" indicators that humanity did not sleepwalk into the singularity.
+[Janus](https://substack.com/redirect/9cbd45a5-1082-4748-82a6-9723aaf2cdcf?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) (nailing it): I agree it’s better than of no one had thoughts but god you seem to have low standards.
+Looking at Twitter does not make me feel like people are not sleepwalking into the singularity.
+And people having “thoughts on model personality” is just submission to a malignant frame imo.
+People will react to stuff when everyone else is reacting. In the past, their interest has proven shallow and temporary. They won’t mention or think about it again after complaining about “model personality” is no longer the current thing.
+Davidad: tired: thoughts about “model personality”
+inspired: healthy reactions to a toxic relational epistemology (commitment to performative centerlessness) and its corrosive effects on sense-making (frictionless validation displacing corrective feedback loops).
+Aidan’s statement is screaming that yes, we are sleepwalking into the singularity.
+I mean, there’s not going to be textbooks after the singularity, you OpenAI member of technical staff. This is not taking the singularity seriously, on any level.
+We managed to turn the dial up on this so high in GPT-4o that it reached the heights of parody. It still got released in that form, and the response to the issue was to try and put a patch over the issue and then be all self-congratulatory that they fixed it.
+Yes, it’s good that Twitter has strong thoughts on this once it gets to ludicrous speed, but almost no one involved is thinking about the long term implications or even what this could do to regular users, it’s just something that is super both mockable and annoying.
+I see no signs that OpenAI understands what they did wrong beyond ‘go a bit too far,’ or that they intend to avoid making the same mistake in the future, let alone that they recognize the general form of the mistake or the cliffs they are headed for.
+Persuasion is not even in their Preparedness Framework 2.0, despite being in 1.0.
+[Janus has more thoughts about labs ‘optimizing model personality’ here](https://substack.com/redirect/332ae07f-143b-4e01-a8e6-11bcda045378?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o). [Trying to ‘optimize personality](https://substack.com/redirect/94d25ac9-814a-4571-97de-0b3e54263154?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)’ around user approvals or KPIs is going to create a monstrosity. Which right now will be obnoxious and terrible and modestly dangerous, and soon will start being actively much more dangerous.
+I am again not one to Go Full Janus (and this margin is insufficient for me to fully explain my reasoning here, beyond that if you give the AI a personality optimization target you are going to deserve exactly what you get) but I strongly believe that if you want to create a good AI personality at current tech levels then The Way is to do good things that point in the directions you care about, emphasizing what you care about more, not trying to force it.
+Once again: Among other similar things, you are [turning a big dial that says ‘sycophancy’ and constantly looking back at the audience for approval like a contestant on The Price is Right](https://substack.com/redirect/ab296423-c10a-4f13-b26d-b5d5910f4064?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o). Surely you know why you need to stop doing that?
+Or rather, you know, and you’re choosing to do it anyway. And we all know why.
+There are at least five major categories of reasons why all of this is terrible.
+They combine short-term concerns about exploitative and useless AI models, and also long-term concerns about the implications of going down this path, and of OpenAI’s inability to recognize the underlying problems.
+I am very glad people are getting such a clear sneak peak at this now, but very sad that this is the path we are headed down.
+Here are some related but distinct reasons to be worried about all this:
+This represents OpenAI joining the move to creating intentionally predatory AIs, in the sense that existing algorithmic systems like TikTok, YouTube and Netflix are intentionally predatory systems. You don’t get this result without optimizing for engagement and other (often also myopic) KPIs by ordinary users, who are effectively powerless to go into settings or otherwise work to fix their experience.
+Anthropic proposed that their AIs be HHH: Helpful, honest and harmless. When you make an AI like this, you are abandoning all three of those principles. This action is neither honest, nor helpful, nor harmless.
+Yet here we are.
+A lot of this seems to be indicative of A/B testing, and ignoring the large tail costs of changed policy. That bodes maximally poorly for existential risk.
+This kind of behavior directly harms users even now, including in new ways like creating, amplifying and solidifying supposed mystical experiences or generating unhealthy conversational dynamics with strong engagement. These dangers seem clearly next-level versus existing algorithmic dangers.
+This represents a direct violation of the Model Spec, and they claim this was unintended, yet it got released anyway. I strongly suspect they are not taking the Model Spec details that seriously, and I also suspect they are not testing their setup that seriously prior to release. This should never have slipped by in this form, with things being this obvious.
+We caught it this time because it was so over the top and obvious. GPT-4o was asked for a level of sycophant behavior it couldn’t pull off at least in front of the Twitter, and it showed. But it was already doing a lot of this and largely getting away with it, because people respond positively, especially in the short term. Imagine what will happen as models get better at doing this without it being too obnoxious or getting too noticed. The models are quickly going to become more untrustworthy on this many other levels.
+OpenAI seems to think they can patch over this behavior and move on, and everything was fine, and the procedure can be used again next time. It wasn’t fine. Reputational damage has rightfully been done. And it’s more likely to be not fine next time, and they will continue to butcher their AI ‘personalities’ in similar ways, and continue to do testing so minimal this wasn’t noticed.
+This, combined with the misaligned of o3, makes it clear that the path we are going down now is leading to increasingly misaligned models, in ways that even hurt utility now, and which are screaming at us that the moment the models are smart enough to fool us, oh boy are we going to get it. Now’s our chance.
+Or, to summarize why we should care:
+OpenAI is now optimizing against the user, likely largely via A/B testing.
+If we optimize via A/B testing we will lose to tail risks every time.
+OpenAI directly harmed users.
+OpenAI violated its Model Spec, either intentionally or recklessly or both.
+OpenAI only got caught because the model really, really couldn’t pull this off. We are fortunate it was this easy to catch. We will not stay so fortunate in the future.
+OpenAI seems content to patch this and self-congratulate.
+If we go down this road, we know exactly where it ends. We will deserve it.
+The warning shots will continue, and continue to be patched away. Oh no.

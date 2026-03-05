@@ -1,0 +1,38 @@
+---
+subject: "Ed Set Go: Indian universities on a foreign education chessboard"
+from: "The Ken <info@the-ken.com>"
+to: ""
+date: 2025-05-19 01:30:47
+labels: ["CATEGORY_PERSONAL", "INBOX", "The Ken", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_8244464457792971031", "UNREAD"]
+---
+|
+|
+Ed Set Go
+Mon, 19 May 25
+The one stop to understand the biggest shifts in education, written by the best edtech journalist in the country..
+Good Morning Ishan,
+First, thank you for bearing with me through last week’s edition. With multiple crises averted, I’m back with a brand-new issue.
+There’s a [brewing problem](https://www.indiatoday.in/education-today/news/story/23-indian-states-report-decline-in-government-school-enrolment-moe-seeks-answers-2726563-2025-05-18) with government school enrolment in India, as per the latest stats published by the PM-POSHAN scheme, formerly known as the midday meal scheme. While the declines were first reported in the 2023—24 school year, the latest drop in the number of students availing midday meals has alarmed the Ministry of Education, which is now seeking answers from the states on the ongoing decrease. Meal coverage dropped by over 8 lakh in West Bengal, 5.41 lakh in UP, and 3.27 lakh in Rajasthan.
+A few reasons have been put forth. States claim that the drop may stem from a difference in how they now track student enrolment. The other—and more worrying—reason is a shift in preference toward private schools.
+Private schools, both government-aided and unaided, account for approximately half the schoolgoing population in India. A more pronounced shift could mean that despite the investments in tech and infrastructure upgrades, government schools are still losing ground to private endeavours.
+The shift toward private education has been going on for even longer and is more pronounced at the university level. First, there’s a paucity of higher educational institutions in general—with 420 million young people aged between 15 and 24, India has only 40,000 higher education institutions, which can only accommodate a maximum of 45 million graduates. Private higher education dominates the field but varies in quality—a key impetus for many Indians seeking opportunities abroad.
+As we’ve written before, study-abroad destinations are now shrinking. New visa caps, aggressive anti-immigration policies, and a flagging international job market will have a long-term impact on Indians studying overseas.
+There are two paths that India can take from here. One, use diplomatic ties to keep these talent channels flowing. France, for instance, has said it targets bringing in 30,000 Indian students over in the next five years—tripling the current numbers.
+French universities aim to better integrate Indian students by offering a one-year language immersion course so that by their second year, they feel more adjusted to the classes and culture. There’s also a US-style Optional Practical Training that will allow Indians 24 months to find work or start their own businesses after completing their courses.
+It’s possible that more bilateral channels could open up more opportunities abroad for Indians, except that these agreements are always dependent on an ever-changing geopolitical landscape.
+The second (and harder) option, in my opinion, is simply to make Indian universities great again. More investment in government-run institutions is much needed as are reforms that push innovation in research. There have been attempts to fix this problem laterally—edtechs have tried to leverage university name brands to offer upskilling courses, while ventures such as Stoa School have tried to circumvent the whole process altogether and launched their own version of the MBA. But at the end of the day, the three-year, full-time degree remains most students’ preferred option.
+But if Delhi University’s (DU) traditional bachelor’s degree is any indication, reforms in higher education need a serious rethink. The central government, the University Grants Commission, and DU itself have pulled and pushed the degree programme so much that it’s been beaten beyond recognition—leaving students unable to see a clear future for themselves after completing it.
+Since 2013, the degree has been stretched and shrunk: reforms proposed in 2013 to make the degree four years instead of three, to better meet global benchmarks, were shot down as soon as a new government came into power. Now, the same union government and UGC have tacked on an extra year in which students can pursue research or study entrepreneurship, among other options.
+This well-intentioned move, though, faces real-world infrastructural and academic challenges. DU colleges don’t have the space for students to stay for an additional year, nor the required classrooms and labs. There’s also an alarming shortage of teachers.
+There are more fundamental problems with the extra year too. There’s, quite literally, [nothing to study and no one to teach it](https://www.educationtimes.com/article/campus-beat-college-life/99737403/du-launches-one-year-pg-in-2026-experts-cite-hiccups).
+In the one-year PG, the students are expected to publish their research or thesis within a year while balancing academics and preparing for semester exams. “This will amount to an additional burden for students,” adds Habib, who is concerned over plagiarism as the students will resort to shortcuts to complete the course in a year. A student needs a conducive environment for research, which is not possible in a short-term course, she adds. Habib fears that a lack of infrastructure and mentoring may impact the academic quality of students.
+Garg further adds, “While there is a need to develop infrastructure for colleges as well as bring more manpower to the colleges. The money hasn’t been given to the colleges to do so and the colleges will have to apply for a loan from HEFA, the education funding agency.”
+Another DU official, on the condition of anonymity, highlighted the need to increase infrastructural bandwidth for research. “State-of-the-art labs must be developed to facilitate effective research for students pursuing science courses. The students need more time to focus on theory and practical work,” the official says.
+Students signing up for the fourth year haven’t been given a clear plan of action. They’re relying on DU to figure this out on the fly. Most want to do the additional year as a step in the ladder towards future research opportunities—ironically, at foreign universities.
+It will, of course, take more than one university and one additional year to fix the systemic problems in Indian higher education. But the attempt should be to give Indian students the option to stay and study in India before they choose to make their careers elsewhere.
+Global mobility of talent is always going to be important, and Indians, with their relative language and cultural advantages, will be largely welcome. But to give India’s own talent pool a boost, universities should find ways to retain it.
+That’s all for this week folks! Tune in again next Monday. And if you have any comments or suggestions, please write to [edsetgo@the-ken.com](mailto:edsetgo@the-ken.com) or drop a comment on our on-site edition.
+Regards,
+Olina
+Survey: How do employees use AI at work?Unlike other technologies, employees across all roles and levels are exploring the use of AI. As companies urge their workforces to be AI-literate, how are employees taking to it? What kind of a workplace does this result in? Take the survey and let us know. It’s fully anonymous, and your responses will help us with a story we’re working on. |

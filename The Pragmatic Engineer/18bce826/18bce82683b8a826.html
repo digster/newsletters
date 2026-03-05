@@ -1,0 +1,879 @@
+<html><head><meta charset="utf-8"><title>Inside OpenAI: How does ChatGPT Ship So Quickly?</title><style>
+@media all and (-ms-high-contrast: none), (-ms-high-contrast: active) {
+  .typography .markup table.image-wrapper img,
+  .typography.editor .markup table.image-wrapper img,
+  .typography .markup table.kindle-wrapper img,
+  .typography.editor .markup table.kindle-wrapper img {
+    max-width: 550px;
+  }
+}
+
+
+@media screen and (max-width: 650px) {
+  .typography .markup div.youtube-inner div.youtube-screen,
+  .typography.editor .markup div.youtube-inner div.youtube-screen,
+  .typography .markup div.vimeo-inner div.youtube-screen,
+  .typography.editor .markup div.vimeo-inner div.youtube-screen {
+    display: none !important;
+  }
+}
+
+
+@media screen and (max-width: 370px) {
+  .typography .markup div.tiktok-wrap,
+  .typography.editor .markup div.tiktok-wrap {
+    width: calc(95vw - 32px);
+    height: calc((95vw - 32px - 2px) / 0.485714);
+  }
+}
+
+
+@media screen and (max-width: 650px) {
+  .typography .markup div.embedded-publication-wrap .embedded-publication.show-subscribe,
+  .typography.editor .markup div.embedded-publication-wrap .embedded-publication.show-subscribe {
+    padding: 24px;
+  }
+}
+
+
+@media screen and (max-width: 650px) {
+  .typography .markup div.subscription-widget-wrap .subscription-widget.show-subscribe,
+  .typography.editor .markup div.subscription-widget-wrap .subscription-widget.show-subscribe,
+  .typography .markup div.captioned-button-wrap .subscription-widget.show-subscribe,
+  .typography.editor .markup div.captioned-button-wrap .subscription-widget.show-subscribe {
+    padding: 24px;
+  }
+}
+
+
+@media screen and (max-width: 650px) {
+  .typography .markup div.subscription-widget-wrap .subscription-widget.show-subscribe .subscription-widget-subscribe .button,
+  .typography.editor .markup div.subscription-widget-wrap .subscription-widget.show-subscribe .subscription-widget-subscribe .button,
+  .typography .markup div.captioned-button-wrap .subscription-widget.show-subscribe .subscription-widget-subscribe .button,
+  .typography.editor .markup div.captioned-button-wrap .subscription-widget.show-subscribe .subscription-widget-subscribe .button {
+    padding: 10px 12px;
+    min-width: 110px;
+  }
+}
+
+
+@media (max-width: 650px) {
+  .typography .markup .tweet,
+  .typography.editor .markup .tweet {
+    padding: 12px;
+  }
+}
+
+
+@media (max-width: 650px) {
+  .typography .markup .tweet .tweet-text,
+  .typography.editor .markup .tweet .tweet-text {
+    font-size: 14px;
+    line-height: 20px;
+  }
+}
+
+
+@media (max-width: 650px) {
+  .typography .markup .tweet .tweet-photos-container.two,
+  .typography.editor .markup .tweet .tweet-photos-container.two,
+  .typography .markup .tweet .tweet-photos-container.three,
+  .typography.editor .markup .tweet .tweet-photos-container.three,
+  .typography .markup .tweet .tweet-photos-container.four,
+  .typography.editor .markup .tweet .tweet-photos-container.four {
+    height: 200px;
+  }
+}
+
+
+@media (max-width: 650px) {
+  .typography .markup .tweet a.expanded-link .expanded-link-img,
+  .typography.editor .markup .tweet a.expanded-link .expanded-link-img {
+    max-height: 180px;
+  }
+}
+
+
+@media (max-width: 650px) {
+  .typography .markup .tweet a.expanded-link .expanded-link-description,
+  .typography.editor .markup .tweet a.expanded-link .expanded-link-description {
+    display: none;
+  }
+}
+
+
+@media screen and (max-width: 650px) {
+  .typography .markup .apple-podcast-container,
+  .typography.editor .markup .apple-podcast-container {
+    width: unset;
+  }
+}
+
+
+@media (max-width: 420px) {
+  .typography .markup .install-substack-app-embed img.install-substack-app-embed-img,
+  .typography.editor .markup .install-substack-app-embed img.install-substack-app-embed-img {
+    margin: 0 auto 16px auto;
+  }
+}
+
+
+@media screen and (min-width: 420px) and (max-width: 600px) {
+  .typography .markup .install-substack-app-embed .install-substack-app-embed-text,
+  .typography.editor .markup .install-substack-app-embed .install-substack-app-embed-text {
+    max-width: calc(100% - 100px);
+    width: initial;
+  }
+}
+
+
+@media (max-width: 420px) {
+  .typography .markup .install-substack-app-embed .install-substack-app-embed-text,
+  .typography.editor .markup .install-substack-app-embed .install-substack-app-embed-text {
+    margin: 0 0 12px 0;
+    max-width: 100%;
+    width: auto;
+    text-align: center;
+  }
+}
+
+
+@media (max-width: 600px) {
+  .typography .markup .install-substack-app-embed .install-substack-app-embed-link,
+  .typography.editor .markup .install-substack-app-embed .install-substack-app-embed-link {
+    margin-top: 16px;
+    width: 100%;
+  }
+}
+
+
+@media screen and (min-width: 481px) {
+  .share-button-container {
+    height: 38px;
+  }
+}
+
+
+@media screen and (min-width: 481px) {
+  .share-button-container a.comment {
+    height: 38px;
+    line-height: 38px;
+    padding-right: 10px;
+  }
+}
+
+
+@media screen and (max-width: 480px) {
+  .share-button-container .separator {
+    display: block;
+    margin: 0;
+    height: 8px;
+    border-left: none;
+  }
+}
+
+
+@media screen and (max-width: 480px) {
+  .share-button-container a.share.first img {
+    padding-left: 0;
+  }
+}
+
+
+@media screen and (min-width: 481px) {
+  .share-button-container a.mobile {
+    display: none !important;
+  }
+}
+
+
+@media screen and (max-width: 650px) {
+  .social-media-share-preview__description {
+    -webkit-line-clamp: 2;
+  }
+}
+
+
+@media screen and (max-width: 1000px) {
+  .congrats-box {
+    flex-direction: column;
+  }
+  .congrats-box .congrats-box-right {
+    margin-left: 38px;
+    margin-top: 16px;
+  }
+}
+
+
+@media screen and (max-width: 500px) {
+  .congrats-box {
+    display: none;
+  }
+}
+
+
+@media screen and (min-width: 541px) {
+  .settings-add-pub-modal-wrapper .container .add-recommending-pub-modal-container {
+    padding: 36px;
+    height: 680px;
+  }
+}
+
+
+@media screen and (min-width: 541px) {
+  .settings-add-pub-modal-wrapper .container .add-recommending-pub-modal-container .footer {
+    position: absolute;
+    bottom: 36px;
+    margin: 0px;
+  }
+}
+
+
+@media screen and (max-width: 840px) {
+  .header-with-anchor-widget .header-anchor-widget,
+  .header-anchor-container .header-anchor-widget {
+    display: none;
+  }
+}
+
+
+@media screen and (min-width: 768px) {
+  .post {
+    padding: 32px 0 0 0;
+  }
+}
+
+
+@media screen and (max-width: 650px) {
+  .post .post-header .post-label {
+    margin-top: 8px;
+  }
+}
+
+
+@media screen and (max-width: 650px) {
+  .post .post-header .meta-author-wrap.alternative-meta .meta-right-column .post-meta {
+    margin-top: 6px;
+  }
+}
+
+
+@media screen and (max-width: 650px) {
+  .post .footer-facepile-container {
+    height: 64px;
+    padding: 0 16px;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    width: 100%;
+  }
+}
+
+
+@media screen and (max-width: 650px) {
+  .post .post-footer.use-separators {
+    justify-content: center;
+  }
+}
+
+
+@media screen and (max-width: 650px) {
+  .post .post-footer.next-prev {
+    height: 64px;
+    justify-content: space-between;
+    box-sizing: border-box;
+  }
+}
+
+
+@media screen and (max-width: 650px) {
+  .post-contributor-footer .post-contributor-bio-table {
+    display: block;
+  }
+  .post-contributor-footer .post-contributor-bio-table-row {
+    display: flex;
+    flex-direction: row;
+  }
+  .post-contributor-footer .post-contributor-bio-userhead-cell,
+  .post-contributor-footer .post-contributor-bio-body-cell {
+    display: block;
+  }
+  .post-contributor-footer .post-contributor-bio-body-cell {
+    flex-grow: 1;
+  }
+  .post-contributor-footer .post-contributor-bio-body-table {
+    display: block;
+  }
+  .post-contributor-footer .post-contributor-bio-body-table-row {
+    display: block;
+  }
+  .post-contributor-footer .post-contributor-bio-copy-cell,
+  .post-contributor-footer .post-contributor-bio-controls-cell {
+    display: block;
+  }
+  .post-contributor-footer .post-contributor-bio-copy-cell {
+    margin: 0 0 16px 0;
+  }
+  .post-contributor-footer .post-contributor-bio-controls-cell {
+    width: auto;
+  }
+  .post-contributor-footer .post-contributor-bio-controls {
+    margin: auto;
+  }
+  .post-contributor-footer .post-contributor-bio-controls .button.primary {
+    width: 100%;
+  }
+  .post-contributor-footer .post-contributor-bio-text {
+    font-size: 14px;
+  }
+}
+
+
+@media screen and (min-width: 768px) {
+  .post-silhouette {
+    padding: 16px 0;
+  }
+}
+
+
+@media screen and (max-width: 650px) {
+  .post-silhouette .post-silhouette-title {
+    margin-top: 10.44225025px;
+    height: 120px;
+  }
+}
+
+
+@media screen and (max-width: 650px) {
+  .post-silhouette .post-silhouette-meta {
+    width: 75%;
+  }
+}
+
+
+@media screen and (max-width: 650px) {
+  .post-silhouette .post-silhouette-meta.with-byline-image {
+    margin: 20px 0;
+  }
+}
+
+
+@media screen and (max-width: 650px) {
+  .use-theme-bg .post-meta.alternative-meta .post-meta-item,
+  .post-meta.alternative-meta .post-meta-item {
+    padding-right: 16px;
+  }
+}
+
+
+@media screen and (max-width: 370px) {
+  .use-theme-bg .post-meta.alternative-meta .post-meta-item,
+  .post-meta.alternative-meta .post-meta-item {
+    font-size: 14px;
+  }
+}
+
+
+@media screen and (max-width: 650px) {
+  .use-theme-bg .post-meta.alternative-meta .post-meta-item.guest-author-publication,
+  .post-meta.alternative-meta .post-meta-item.guest-author-publication {
+    display: none;
+  }
+}
+
+
+@media screen and (max-width: 370px) {
+  .post-meta .post-meta-item .post-meta-button {
+    height: 36px !important;
+  }
+  .post-meta .post-meta-item .post-meta-button .meta-button-label {
+    display: none;
+  }
+  .post-meta .post-meta-item .post-meta-button > svg {
+    margin-right: 0;
+  }
+}
+
+
+@media screen and (max-width: 370px) {
+  .post-meta .post-meta-item {
+    font-size: 12px;
+  }
+}
+
+
+@media screen and (max-width: 650px) {
+  .post-preview .post-preview-content .post-preview-meta {
+    margin-top: 12px 0;
+  }
+}
+
+
+@media screen and (max-width: 650px) {
+  .post-preview .post-preview-image {
+    display: none;
+  }
+}
+
+
+@media screen and (max-width: 650px) {
+  .post-preview-silhouette .post-preview-silhouette-image {
+    display: none;
+  }
+}
+
+
+@media screen and (max-width: 650px) {
+  .post .floating-subscribe-button {
+    bottom: 20px;
+    right: 20px;
+  }
+}
+
+
+@media all and (-ms-high-contrast: none), (-ms-high-contrast: active) {
+  body .markup table.image-wrapper img,
+  body .markup table.kindle-wrapper img {
+    max-width: 550px;
+  }
+}
+
+
+@media screen and (max-width: 650px) {
+  body .markup div.youtube-inner div.youtube-screen,
+  body .markup div.vimeo-inner div.youtube-screen {
+    display: none !important;
+  }
+}
+
+
+@media screen and (max-width: 370px) {
+  body .markup div.tiktok-wrap {
+    width: calc(95vw - 32px);
+    height: calc((95vw - 32px - 2px) / 0.485714);
+  }
+}
+
+
+@media screen and (max-width: 650px) {
+  body .markup div.embedded-publication-wrap .embedded-publication.show-subscribe {
+    padding: 24px;
+  }
+}
+
+
+@media screen and (max-width: 650px) {
+  body .markup div.subscription-widget-wrap .subscription-widget.show-subscribe,
+  body .markup div.captioned-button-wrap .subscription-widget.show-subscribe {
+    padding: 24px;
+  }
+}
+
+
+@media screen and (max-width: 650px) {
+  body .markup div.subscription-widget-wrap .subscription-widget.show-subscribe .subscription-widget-subscribe .button,
+  body .markup div.captioned-button-wrap .subscription-widget.show-subscribe .subscription-widget-subscribe .button {
+    padding: 10px 12px;
+    min-width: 110px;
+  }
+}
+
+
+@media (max-width: 650px) {
+  body .markup .tweet {
+    padding: 12px;
+  }
+}
+
+
+@media (max-width: 650px) {
+  body .markup .tweet .tweet-text {
+    font-size: 14px;
+    line-height: 20px;
+  }
+}
+
+
+@media (max-width: 650px) {
+  body .markup .tweet .tweet-photos-container.two,
+  body .markup .tweet .tweet-photos-container.three,
+  body .markup .tweet .tweet-photos-container.four {
+    height: 200px;
+  }
+}
+
+
+@media (max-width: 650px) {
+  body .markup .tweet a.expanded-link .expanded-link-img {
+    max-height: 180px;
+  }
+}
+
+
+@media (max-width: 650px) {
+  body .markup .tweet a.expanded-link .expanded-link-description {
+    display: none;
+  }
+}
+
+
+@media screen and (max-width: 650px) {
+  body .markup .apple-podcast-container {
+    width: unset;
+  }
+}
+
+
+@media (max-width: 420px) {
+  body .markup .install-substack-app-embed img.install-substack-app-embed-img {
+    margin: 0 auto 16px auto;
+  }
+}
+
+
+@media screen and (min-width: 420px) and (max-width: 600px) {
+  body .markup .install-substack-app-embed .install-substack-app-embed-text {
+    max-width: calc(100% - 100px);
+    width: initial;
+  }
+}
+
+
+@media (max-width: 420px) {
+  body .markup .install-substack-app-embed .install-substack-app-embed-text {
+    margin: 0 0 12px 0;
+    max-width: 100%;
+    width: auto;
+    text-align: center;
+  }
+}
+
+
+@media (max-width: 600px) {
+  body .markup .install-substack-app-embed .install-substack-app-embed-link {
+    margin-top: 16px;
+    width: 100%;
+  }
+}
+
+
+@media screen and (min-width: 500px) {
+  body .header a.logo {
+    width: 42px;
+    height: 42px;
+    border-radius: 12px;
+  }
+}
+
+
+@media screen and (max-width: 420px) {
+  body .subscription-receipt table:first-of-type .subscription-amount .subscription-discount {
+    width: 72px !important;
+  }
+}
+
+
+@media screen and (min-width: 481px) {
+  body .share-button-container {
+    height: auto;
+  }
+}
+
+
+@media screen and (max-width: 480px) {
+  body .share-button-container .separator {
+    display: block !important;
+    margin: 0 !important;
+    height: 8px !important;
+    border-left: none !important;
+  }
+}
+
+
+@media screen and (max-width: 650px) {
+  .digest .item .post-meta-item.audience {
+    display: none;
+  }
+}
+
+
+@media screen and (min-width: 500px) {
+  .digest-publication .logo img {
+    width: 42px;
+    height: 42px;
+    border-radius: 6px;
+  }
+}
+
+
+@media screen and (max-width: 650px) {
+  .comments-page .container .comment-list .collapsed-reply {
+    margin-left: 17px;
+  }
+}
+
+
+@media screen and (max-width: 650px) {
+  .comment > .comment-list {
+    padding-left: 25px;
+  }
+}
+
+
+@media screen and (max-width: 650px) {
+  .finish-magic-login-modal .modal-content .container {
+    padding: 24px 0;
+  }
+}
+
+
+@media (max-width: 650px) {
+  .reader2-text-b3 {
+    line-height: 24px;
+  }
+}
+
+
+@media screen and (max-width: 650px) {
+  .reader2-text-h4 {
+    line-height: 24px;
+  }
+}
+
+
+@media screen and (min-width: 541px) {
+  .user-profile-modal {
+    padding-left: 12px;
+    padding-right: 12px;
+  }
+}
+
+
+@media screen and (max-width: 650px) {
+  .subscribe-widget form.form .sideBySideWrap button.rightButton {
+    padding: 10px 12px;
+  }
+}
+
+
+@media screen and (min-width: 541px) {
+  .pub-icon:hover .logo-hover,
+  .feed-item-icon:hover .logo-hover {
+    display: block;
+  }
+}
+
+
+@media screen and (max-width: 650px) {
+  .post-ufi.single-full-width-button .post-ufi-button-wrapper {
+    width: 100%;
+    padding: 16px;
+  }
+  .post-ufi.single-full-width-button .post-ufi-button-wrapper:empty {
+    display: none;
+  }
+  .post-ufi.single-full-width-button .post-ufi-button {
+    width: 100%;
+    justify-content: center;
+  }
+}
+
+
+@media screen and (max-width: 768px) {
+  .file-embed-wrapper {
+    padding: 0;
+  }
+}
+
+
+@media screen and (max-width: 768px) {
+  .file-embed-wrapper-editor {
+    padding: 0;
+  }
+}
+
+
+@media screen and (max-width: 768px) {
+  .file-embed-wrapper-editor:active {
+    padding: 0;
+  }
+}
+
+
+@media only screen and (max-width: 650px) {
+  .file-embed-button.wide,
+  .file-embed-error-button.wide {
+    display: none;
+  }
+}
+
+
+@media only screen and (min-width: 630px) {
+  .file-embed-button.narrow,
+  .file-embed-error-button.narrow {
+    display: none;
+  }
+}
+
+
+@media screen and (min-width: 541px) {
+  .audio-player-wrapper .audio-player {
+    min-width: 500px;
+  }
+}
+
+
+@media screen and (max-width: 650px) {
+  .audio-player-wrapper .audio-player .audio-player-progress {
+    border-left-width: 16px;
+    border-right-width: 16px;
+  }
+}
+
+
+@media screen and (max-width: 650px) {
+  .audio-player-wrapper .audio-player .audio-player-progress .audio-player-progress-bar .audio-player-progress-bar-popup {
+    top: -54px;
+  }
+}
+
+
+@media screen and (max-width: 650px) {
+  .audio-player-wrapper-fancy .audio-player .audio-player-progress {
+    border-left-width: 16px;
+    border-right-width: 16px;
+  }
+}
+
+
+@media screen and (max-width: 650px) {
+  .audio-player-wrapper-fancy .audio-player .audio-player-progress .audio-player-progress-bar .audio-player-progress-bar-popup {
+    top: -54px;
+  }
+}
+
+
+@media (min-width: 250px) {
+  .audio-player-wrapper-fancy .audio-player {
+    padding: 32px;
+  }
+  .audio-player-wrapper-fancy .audio-player .btn-group {
+    display: flex;
+  }
+  .audio-player-wrapper-fancy .audio-player .btn-group .button:last-of-type {
+    display: block;
+  }
+}
+
+
+@media (min-width: 300px) {
+  .audio-player-wrapper-fancy .audio-player .btn-group {
+    display: block;
+  }
+  .audio-player-wrapper-fancy .audio-player .btn-group .button:first-of-type {
+    display: block;
+  }
+}
+
+
+@media (min-width: 350px) {
+  .audio-player-wrapper-fancy .audio-player .audio-player-substack-logo {
+    display: block;
+  }
+  .audio-player-wrapper-fancy .audio-player .audio-player-title {
+    margin-top: 16px;
+  }
+  .audio-player-wrapper-fancy .audio-player .audio-player-hero-image-container {
+    padding-top: 15%;
+    width: 15%;
+    display: block;
+  }
+  .audio-player-wrapper-fancy .audio-player .btn-group .button:first-of-type {
+    display: block;
+  }
+  .audio-player-wrapper-fancy .audio-player .audio-player-substack-logo {
+    display: block;
+  }
+}
+
+
+@media (min-width: 350px) {
+  .audio-player-wrapper-fancy .audio-player .audio-player-hero-image-container {
+    padding-top: 25%;
+    width: 25%;
+    display: block;
+  }
+  .audio-player-wrapper-fancy .audio-player .btn-group {
+    display: flex;
+  }
+  .audio-player-wrapper-fancy .audio-player .btn-group .button:first-of-type {
+    display: block;
+  }
+}
+
+
+@media (min-width: 400px) {
+  .audio-player-wrapper-fancy .audio-player .audio-player-hero-image-container {
+    padding-top: 40%;
+    width: 40%;
+  }
+}
+
+
+@media (max-width: 400px) {
+  .audio-player-wrapper-fancy .audio-player .btn-group {
+    margin-top: 12px;
+  }
+  .audio-player-wrapper-fancy .audio-player .btn-group .button {
+    font-size: 13px;
+    padding: 6px 12px;
+    height: auto;
+    margin-top: 10px;
+  }
+}
+
+
+@media (min-width: 600px) {
+  .audio-player-wrapper-fancy .audio-player .audio-player-hero-image-container {
+    padding-top: 55%;
+    width: 55%;
+  }
+}
+
+
+@media (max-width: 650px) {
+  .poll-editor-modal {
+    min-width: calc(100% - 20px);
+  }
+}
+
+
+@media (max-width: 750px) {
+  .poll-embed .poll-anchor-target .poll-anchor-copy-button {
+    left: 8px;
+    top: 45px;
+  }
+}
+
+
+@media screen and (min-width: 541px) {
+  .poll-embed .poll-wrapper.poll-web .poll-dialog .modal-table .modal-row .modal-content > .container {
+    width: 552px;
+    padding: 26px 24px;
+  }
+}
+
+
+@media screen and (max-width: 650px) {
+  .poll-embed .poll-wrapper.poll-web .poll-dialog .modal-table .modal-row .modal-content > .container {
+    padding: 40px 0;
+  }
+}
+
+
+@media screen and (max-width: 650px) {
+  .poll-embed .poll-wrapper.poll-web .poll-dialog .modal-row .modal-cell .modal-exit-btn {
+    margin-right: -20px;
+  }
+}
+</style></head><body class="email-body" style="font-kerning: auto;"><img src="https://eotrx.substackcdn.com/open?token=eyJtIjoiPDIwMjMxMTE0MTU0NDEwLjMuMWU5NWQxMjlmM2E3MTRhMUBtZy1kMS5zdWJzdGFjay5jb20-IiwidSI6MTQ1NjMzMTksInIiOiJpc2hhbi5tYWlsQGdtYWlsLmNvbSIsImQiOiJtZy1kMS5zdWJzdGFjay5jb20iLCJwIjoxMzg4NjQyNTMsInQiOiJuZXdzbGV0dGVyIiwiYSI6Im9ubHlfcGFpZCIsInMiOjQ1ODcwOSwiYyI6InBvc3QiLCJmIjp0cnVlLCJwb3NpdGlvbiI6InRvcCIsImlhdCI6MTY5OTk3NjY4OSwiZXhwIjoxNzAyNTY4Njg5LCJpc3MiOiJwdWItMCIsInN1YiI6ImVvIn0.qOfDXjwRdtxQMH-7Q94TxvSt39q6IhVj_M0b6QXFJAs" alt="" width="1" height="1" border="0" style="height:1px !important;width:1px !important;border-width:0 !important;margin-top:0 !important;margin-bottom:0 !important;margin-right:0 !important;margin-left:0 !important;padding-top:0 !important;padding-bottom:0 !important;padding-right:0 !important;padding-left:0 !important;"/><div style="display:none;font-size:1px;color:#333333;line-height:1px;max-height:0px;max-width:0px;opacity:0;overflow:hidden;" class="preview">Since it arrived a year ago, ChatGPT has been shipping at breakneck speed. Evan Morikawa, the first engineering manager for this group shares what ChatGPT &#8211; and OpenAI &#8211; do differently. &#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;</div><table role="presentation" width="100%" border="0" cellspacing="0" cellpadding="0" class="email-body-container"><tr><td></td><td width="550" class="content"></td><td></td></tr><tr><td></td><td align="left" width="550" class="content"><div style="font-size: 16px; line-height: 26px; margin: 0 auto; max-width: 550px; overflow-wrap: break-word; width: 100%;"><table role="presentation" width="100%" border="0" cellspacing="0" cellpadding="0"><tr><td align="right" style="height: 20px;"><table role="presentation" width="auto" border="0" cellspacing="0" cellpadding="0"><tr><td style="vertical-align: middle;"><span class="pencraft frontend-pencraft-Box-module__reset--VfQY8 frontend-pencraft-Text-module__reset--dW0zZ tw-font-body tw-text-ssm tw-text-substack-secondary" style="color: rgb(128, 128, 128) !important; font-family: SF Pro Text, -apple-system, BlinkMacSystemFont, Inter, Segoe UI, Roboto, Helvetica, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol !important; font-size: 13px !important; margin: 0; text-decoration: unset;"><div class="pencraft frontend-pencraft-Box-module__reset--VfQY8 frontend-pencraft-Text-module__align-right--PcYkZ frontend-pencraft-Text-module__size-12--KorQF frontend-pencraft-Text-module__reset--dW0zZ" style="color: unset; font-size: 12px; letter-spacing: 0; line-height: 16px; margin: 0; text-align: right; text-decoration: unset;"><span translated class="pencraft frontend-pencraft-Box-module__reset--VfQY8 frontend-pencraft-Text-module__reset--dW0zZ" style="color: unset; margin: 0; text-decoration: unset;">Forwarded this email? <a href="https://substack.com/redirect/2/eyJlIjoiaHR0cHM6Ly9uZXdzbGV0dGVyLnByYWdtYXRpY2VuZ2luZWVyLmNvbS9zdWJzY3JpYmU_dXRtX3NvdXJjZT1lbWFpbCZ1dG1fY2FtcGFpZ249ZW1haWwtc3Vic2NyaWJlJnI9OG81NG4mbmV4dD1odHRwcyUzQSUyRiUyRm5ld3NsZXR0ZXIucHJhZ21hdGljZW5naW5lZXIuY29tJTJGcCUyRmluc2lkZS1vcGVuYWktaG93LWRvZXMtY2hhdGdwdC1zaGlwIiwicCI6MTM4ODY0MjUzLCJzIjo0NTg3MDksImYiOnRydWUsInUiOjE0NTYzMzE5LCJpYXQiOjE2OTk5NzY2ODksImV4cCI6MTcwMjU2ODY4OSwiaXNzIjoicHViLTAiLCJzdWIiOiJsaW5rLXJlZGlyZWN0In0.2PiOLAbV6rwSneJyQ9fAsd6KMoOB8lZiFDBtdT_HrRU?" class="pencraft frontend-pencraft-Box-module__reset--VfQY8 frontend-pencraft-Text-module__decoration-underline--sj8pE frontend-pencraft-Text-module__reset--dW0zZ" style="color: unset; margin: 0; text-decoration: unset; text-decoration-line: underline;">Subscribe here</a> for more</span></div></span></td></tr></table></td></tr></table><table role="presentation" width="auto" class="header graphic-header" style="border-spacing: 0; padding: 16px 0 32px;"><tr><td align="center" style="padding: 0; text-align: center;"><a href="https://substack.com/redirect/2/eyJlIjoiaHR0cHM6Ly9uZXdzbGV0dGVyLnByYWdtYXRpY2VuZ2luZWVyLmNvbS9wL2luc2lkZS1vcGVuYWktaG93LWRvZXMtY2hhdGdwdC1zaGlwP3V0bV9jYW1wYWlnbj1lbWFpbC1oYWxmLXBvc3Qmcj04bzU0biZ0b2tlbj1leUoxYzJWeVgybGtJam94TkRVMk16TXhPU3dpY0c5emRGOXBaQ0k2TVRNNE9EWTBNalV6TENKcFlYUWlPakUyT1RrNU56WTJPRGtzSW1WNGNDSTZNVGN3TWpVMk9EWTRPU3dpYVhOeklqb2ljSFZpTFRRMU9EY3dPU0lzSW5OMVlpSTZJbkJ2YzNRdGNtVmhZM1JwYjI0aWZRLmExa0lWX1ZKRlhWbnVnZ3pEZERKMW8xek1DR3I5Y09hVk9jbHlMSDlja3MiLCJwIjoxMzg4NjQyNTMsInMiOjQ1ODcwOSwiZiI6dHJ1ZSwidSI6MTQ1NjMzMTksImlhdCI6MTY5OTk3NjY4OSwiZXhwIjoxNzAyNTY4Njg5LCJpc3MiOiJwdWItMCIsInN1YiI6ImxpbmstcmVkaXJlY3QifQ.0pcsKj4f14QlQ1B77DfRfDYd5uShFSf1jYqQxh5Wk3o?"><img role="presentation" width="550" height="110" src="https://substackcdn.com/image/fetch/w_1100,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3f6c431d-310a-45a0-90fe-3dc43354ef38_1100x220.png" class="header-image" style="border: none !important; display: block; height: auto; margin: 0 auto; max-width: 550px; vertical-align: middle; width: 100%;"></a></td></tr></table><div class="typography" style="font-size: 16px; line-height: 26px;"><div class="preamble" style="font-size: 16px; line-height: 26px; margin-top: 16px;"><div dir="auto" class="body markup" style="font-size: 16px; line-height: 26px; margin-bottom: 16px; text-align: initial; width: 100%; word-break: break-word;"><p style="color: rgb(64, 64, 64); font-size: 16px; line-height: 26px; margin: 0 0 20px 0; margin-bottom: 0; margin-top: 0;"><em>&#128075; Hi, this is Gergely with a &#128274; subscriber-only issue &#128274; of the Pragmatic Engineer Newsletter. In every issue, I cover challenges at Big Tech and startups through the lens of engineering managers and senior engineers.</em></p></div><hr style="background: #e0e0e0; border: none; height: 1px; margin: 16px 0 0; padding: 0;"></div></div><div dir="auto" class="post typography" style="font-size: 16px; line-height: 26px; padding: 16px 0 0 0;"><div class="post-header" style="font-size: 16px; line-height: 26px;"><h1 class="post-title published" style="-moz-appearance: optimizelegibility; -moz-osx-font-smoothing: antialiased; -webkit-appearance: optimizelegibility; -webkit-font-smoothing: antialiased; appearance: optimizelegibility; color: rgb(64, 64, 64); font-family: Lora,sans-serif; font-size: 32px; font-weight: 600; line-height: 36px; margin: 0;"><a href="https://substack.com/app-link/post?publication_id=458709&post_id=138864253&utm_source=post-email-title&utm_campaign=email-post-title&isFreemail=true&r=8o54n&token=eyJ1c2VyX2lkIjoxNDU2MzMxOSwicG9zdF9pZCI6MTM4ODY0MjUzLCJpYXQiOjE2OTk5NzY2ODksImV4cCI6MTcwMjU2ODY4OSwiaXNzIjoicHViLTQ1ODcwOSIsInN1YiI6InBvc3QtcmVhY3Rpb24ifQ.a1kIV_VJFXVnuggzDdDJ1o1zMCGr9cOaVOclyLH9cks" style="color: rgb(64, 64, 64); text-decoration: none;">Inside OpenAI: How does ChatGPT Ship So Quickly?</a></h1><h3 class="subtitle" style="-moz-appearance: optimizelegibility; -moz-osx-font-smoothing: antialiased; -webkit-appearance: optimizelegibility; -webkit-font-smoothing: antialiased; appearance: optimizelegibility; color: #808080; font-family: 'SF Compact Display', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 18px; font-weight: normal; line-height: 24px; margin: 4px 0 0; margin-top: 12px;">Since it arrived a year ago, ChatGPT has been shipping at breakneck speed. Evan Morikawa, the first engineering manager for this group shares what ChatGPT &#8211; and OpenAI &#8211; do differently.</h3><table role="presentation" width="100%" border="0" cellspacing="0" cellpadding="0" class="post-meta" style="align-items: center; height: 20px; margin: 1em 0;"><tr><td><table role="presentation" width="auto" border="0" cellspacing="0" cellpadding="0"><tr><td><table role="presentation" width="auto" border="0" cellspacing="0" cellpadding="0"><tr><td style="vertical-align: middle;"><div class="pencraft frontend-pencraft-Box-module__reset--VfQY8 frontend-pencraft-Text-module__size-11--k1e8b frontend-pencraft-Text-module__line-height-20--p0dP8 frontend-pencraft-Text-module__weight-medium--x7khA frontend-pencraft-Text-module__font-meta--U_nxy frontend-pencraft-Text-module__color-primary--ud4Z0 frontend-pencraft-Text-module__transform-uppercase--IDkUL frontend-pencraft-Text-module__reset--dW0zZ frontend-pencraft-Text-module__meta--jzHdd custom-css-email-post-author" style="color: rgb(64, 64, 64); font-family: 'SF Compact', -apple-system, -apple-system, -system-ui, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 11px; font-weight: 500; letter-spacing: .2px; line-height: 20px; margin: 0; text-decoration: unset; text-transform: uppercase;"><a style="color: rgb(64, 64, 64); font-family: 'SF Compact', -apple-system, -apple-system, -system-ui, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 11px; font-weight: 500; letter-spacing: .2px; line-height: 20px; margin: 0; text-decoration: none; text-transform: uppercase;" href="https://substack.com/redirect/7a56503d-5bd3-4c8e-8f02-bc43d2302918?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" class="pencraft frontend-pencraft-Box-module__reset--VfQY8 frontend-pencraft-Text-module__size-11--k1e8b frontend-pencraft-Text-module__line-height-20--p0dP8 frontend-pencraft-Text-module__weight-medium--x7khA frontend-pencraft-Text-module__font-meta--U_nxy frontend-pencraft-Text-module__color-primary--ud4Z0 frontend-pencraft-Text-module__transform-uppercase--IDkUL frontend-pencraft-Text-module__reset--dW0zZ frontend-pencraft-Text-module__meta--jzHdd">Gergely Orosz</a></div></td></tr></table></td></tr><tr><td><table role="presentation" width="auto" border="0" cellspacing="0" cellpadding="0"><tr><td style="vertical-align: middle;"><div class="pencraft frontend-pencraft-Box-module__reset--VfQY8 frontend-pencraft-Text-module__size-11--k1e8b frontend-pencraft-Text-module__line-height-20--p0dP8 frontend-pencraft-Text-module__weight-medium--x7khA frontend-pencraft-Text-module__font-meta--U_nxy frontend-pencraft-Text-module__color-secondary--WRADg frontend-pencraft-Text-module__transform-uppercase--IDkUL frontend-pencraft-Text-module__reset--dW0zZ frontend-pencraft-Text-module__meta--jzHdd" style="color: rgb(128, 128, 128); font-family: 'SF Compact', -apple-system, -apple-system, -system-ui, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 11px; font-weight: 500; letter-spacing: .2px; line-height: 20px; margin: 0; text-decoration: unset; text-transform: uppercase;"><time dateTime="2023-11-14T15:44:14.876Z">Nov 14</time></div></td><td width="4" style="min-width: 4px"></td><td style="vertical-align: middle;"><table role="presentation" width="auto" border="0" cellspacing="0" cellpadding="0"><tr><td style="vertical-align: middle;"><div class="pencraft frontend-pencraft-Box-module__reset--VfQY8 frontend-pencraft-Text-module__size-11--k1e8b frontend-pencraft-Text-module__line-height-20--p0dP8 frontend-pencraft-Text-module__weight-medium--x7khA frontend-pencraft-Text-module__font-meta--U_nxy frontend-pencraft-Text-module__color-secondary--WRADg frontend-pencraft-Text-module__transform-uppercase--IDkUL frontend-pencraft-Text-module__reset--dW0zZ frontend-pencraft-Text-module__meta--jzHdd" style="color: rgb(128, 128, 128); font-family: 'SF Compact', -apple-system, -apple-system, -system-ui, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 11px; font-weight: 500; letter-spacing: .2px; line-height: 20px; margin: 0; text-decoration: unset; text-transform: uppercase;">&#8729;</div></td><td width="4" style="min-width: 4px"></td><td style="vertical-align: middle;"><div class="pencraft frontend-pencraft-Box-module__reset--VfQY8 frontend-pencraft-Text-module__size-11--k1e8b frontend-pencraft-Text-module__line-height-20--p0dP8 frontend-pencraft-Text-module__weight-medium--x7khA frontend-pencraft-Text-module__font-meta--U_nxy frontend-pencraft-Text-module__color-accent-purple--XfjiI frontend-pencraft-Text-module__transform-uppercase--IDkUL frontend-pencraft-Text-module__reset--dW0zZ frontend-pencraft-Text-module__meta--jzHdd" style="color: #702dff; font-family: 'SF Compact', -apple-system, -apple-system, -system-ui, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 11px; font-weight: 500; letter-spacing: .2px; line-height: 20px; margin: 0; text-decoration: unset; text-transform: uppercase;">Preview</div></td></tr></table></td></tr></table></td></tr></table></td><td align="right"><table role="presentation" width="auto" border="0" cellspacing="0" cellpadding="0"><tr><td style="vertical-align: middle;"><a href="https://substack.com/redirect/7a56503d-5bd3-4c8e-8f02-bc43d2302918?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o"><img src="https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F802a32bb-2048-428b-bdb5-d6acd1e2b2d5_48x48.png" style="border: none !important; border-radius: 500000px; box-sizing: border-box; display: inline; height: 40px; margin: 0px; max-width: 550px; min-height: 40px; min-width: 40px; object-fit: cover; vertical-align: middle; width: 40px;" width="40" height="40" class="custom-css-email-avatar frontend-email-system-basics-module__avatar--eNC1i"></a></td></tr></table></td></tr></table><table role="presentation" width="100%" border="0" cellspacing="0" cellpadding="0" class="email-ufi-2-top" style="border-bottom: 1px solid rgba(0, 0, 0, .13); border-top: 1px solid rgba(0, 0, 0, .13); min-width: 100%;"><tr height="16"><td height="16" style="font-size: 0px; line-height: 0;">&#160;</td></tr><tr><td><table role="presentation" width="100%" border="0" cellspacing="0" cellpadding="0"><tr><td><table role="presentation" width="auto" border="0" cellspacing="0" cellpadding="0"><tr><td style="vertical-align: middle;"><table role="presentation" width="38" border="0" cellspacing="0" cellpadding="0"><tr><td align="center"><a href="https://substack.com/app-link/post?publication_id=458709&post_id=138864253&utm_source=substack&isFreemail=true&submitLike=true&token=eyJ1c2VyX2lkIjoxNDU2MzMxOSwicG9zdF9pZCI6MTM4ODY0MjUzLCJyZWFjdGlvbiI6IuKdpCIsImlhdCI6MTY5OTk3NjY4OSwiZXhwIjoxNzAyNTY4Njg5LCJpc3MiOiJwdWItNDU4NzA5Iiwic3ViIjoicmVhY3Rpb24ifQ.WvEEIk3Kb6LtjWQH3YCP6oEAutj3vDnxqpP9XSI8iJE&utm_medium=email&utm_campaign=email-reaction&r=8o54n" style="border: 1px solid rgba(0, 0, 0, .13); border-radius: 100000px; box-sizing: border-box; color: rgb(128, 128, 128); display: inline-block; font-family: 'SF Pro Text', -apple-system, ui-sans-serif, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 12px; font-weight: 500; line-height: 1; min-width: 38px; padding: 9px 0; text-decoration: none; text-transform: uppercase; width: 38px;" class="email-icon-button"><img src="https://substackcdn.com/image/fetch/w_36,c_scale,f_png,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack.com%2Ficon%2FLucideHeart%3Fv%3D4%26height%3D36%26fill%3Dnone%26stroke%3D%2523808080%26strokeWidth%3D2" width="18" height="18" style="border: none !important; max-width: 18px; vertical-align: middle;" alt class="icon"></a></td></tr></table></td><td width="8" style="min-width: 8px"></td><td style="vertical-align: middle;"><table role="presentation" width="38" border="0" cellspacing="0" cellpadding="0"><tr><td align="center"><a href="https://substack.com/app-link/post?publication_id=458709&post_id=138864253&utm_source=substack&utm_medium=email&isFreemail=true&comments=true&token=eyJ1c2VyX2lkIjoxNDU2MzMxOSwicG9zdF9pZCI6MTM4ODY0MjUzLCJpYXQiOjE2OTk5NzY2ODksImV4cCI6MTcwMjU2ODY4OSwiaXNzIjoicHViLTQ1ODcwOSIsInN1YiI6InBvc3QtcmVhY3Rpb24ifQ.a1kIV_VJFXVnuggzDdDJ1o1zMCGr9cOaVOclyLH9cks&r=8o54n&utm_campaign=email-half-magic-comments&utm_source=substack&utm_medium=email" style="border: 1px solid rgba(0, 0, 0, .13); border-radius: 100000px; box-sizing: border-box; color: rgb(128, 128, 128); display: inline-block; font-family: 'SF Pro Text', -apple-system, ui-sans-serif, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 12px; font-weight: 500; line-height: 1; min-width: 38px; padding: 9px 0; text-decoration: none; text-transform: uppercase; width: 38px;" class="email-icon-button"><img src="https://substackcdn.com/image/fetch/w_36,c_scale,f_png,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack.com%2Ficon%2FLucideComments%3Fv%3D4%26height%3D36%26fill%3Dnone%26stroke%3D%2523808080%26strokeWidth%3D2" width="18" height="18" style="border: none !important; max-width: 18px; vertical-align: middle;" alt class="icon"></a></td></tr></table></td><td width="8" style="min-width: 8px"></td><td style="vertical-align: middle;"><table role="presentation" width="38" border="0" cellspacing="0" cellpadding="0"><tr><td align="center"><a href="https://substack.com/app-link/post?publication_id=458709&post_id=138864253&utm_source=substack&utm_medium=email&utm_content=share&utm_campaign=email-share&action=share&triggerShare=true&isFreemail=true&r=8o54n&token=eyJ1c2VyX2lkIjoxNDU2MzMxOSwicG9zdF9pZCI6MTM4ODY0MjUzLCJpYXQiOjE2OTk5NzY2ODksImV4cCI6MTcwMjU2ODY4OSwiaXNzIjoicHViLTQ1ODcwOSIsInN1YiI6InBvc3QtcmVhY3Rpb24ifQ.a1kIV_VJFXVnuggzDdDJ1o1zMCGr9cOaVOclyLH9cks" style="border: 1px solid rgba(0, 0, 0, .13); border-radius: 100000px; box-sizing: border-box; color: rgb(128, 128, 128); display: inline-block; font-family: 'SF Pro Text', -apple-system, ui-sans-serif, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 12px; font-weight: 500; line-height: 1; min-width: 38px; padding: 9px 0; text-decoration: none; text-transform: uppercase; width: 38px;" class="email-icon-button"><img src="https://substackcdn.com/image/fetch/w_36,c_scale,f_png,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack.com%2Ficon%2FLucideShare2%3Fv%3D4%26height%3D36%26fill%3Dnone%26stroke%3D%2523808080%26strokeWidth%3D2" width="18" height="18" style="border: none !important; max-width: 18px; vertical-align: middle;" alt class="icon"></a></td></tr></table></td><td width="8" style="min-width: 8px"></td><td style="vertical-align: middle;"><table role="presentation" width="38" border="0" cellspacing="0" cellpadding="0"><tr><td align="center"><a href="https://substack.com/redirect/2/eyJlIjoiaHR0cHM6Ly9uZXdzbGV0dGVyLnByYWdtYXRpY2VuZ2luZWVyLmNvbS9wL2luc2lkZS1vcGVuYWktaG93LWRvZXMtY2hhdGdwdC1zaGlwP3V0bV9zb3VyY2U9c3Vic3RhY2smdXRtX21lZGl1bT1lbWFpbCZhY3Rpb249cmVzdGFjay1jb21tZW50JnV0bV9jYW1wYWlnbj1lbWFpbC1yZXN0YWNrLWNvbW1lbnQmcj04bzU0biIsInAiOjEzODg2NDI1MywicyI6NDU4NzA5LCJmIjp0cnVlLCJ1IjoxNDU2MzMxOSwiaWF0IjoxNjk5OTc2Njg5LCJleHAiOjE3MDI1Njg2ODksImlzcyI6InB1Yi0wIiwic3ViIjoibGluay1yZWRpcmVjdCJ9.rWjhmhlPeheo3Nf6QFsS37b5PEyuruh5jsQRVE_W6PA?&utm_source=substack&utm_medium=email" style="border: 1px solid rgba(0, 0, 0, .13); border-radius: 100000px; box-sizing: border-box; color: rgb(128, 128, 128); display: inline-block; font-family: 'SF Pro Text', -apple-system, ui-sans-serif, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 12px; font-weight: 500; line-height: 1; min-width: 38px; padding: 9px 0; text-decoration: none; text-transform: uppercase; width: 38px;" class="email-icon-button"><img src="https://substackcdn.com/image/fetch/w_36,c_scale,f_png,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack.com%2Ficon%2FNoteForwardIcon%3Fv%3D4%26height%3D36%26fill%3Dnone%26stroke%3D%2523808080%26strokeWidth%3D2" width="18" height="18" style="border: none !important; max-width: 18px; vertical-align: middle;" alt class="icon"></a></td></tr></table></td></tr></table></td><td align="right"><table role="presentation" width="auto" border="0" cellspacing="0" cellpadding="0"><tr><td style="vertical-align: middle;"><table role="presentation" width="auto" border="0" cellspacing="0" cellpadding="0"><tr><td align="center"><a href="https://open.substack.com/pub/pragmaticengineer/p/inside-openai-how-does-chatgpt-ship?utm_source=email&redirect=app-store" class="email-button-outline" style="border: 1px solid rgba(0, 0, 0, .13); border-radius: 100000px; color: rgb(128, 128, 128); display: inline-block; font-family: 'SF Pro Text', -apple-system, ui-sans-serif, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 12px; font-weight: 500; line-height: 12px; padding: 9px 14px; text-decoration: none; text-transform: uppercase;"><div class="email-button-spacer" style="display: inline-block; font-size: 16px; line-height: 26px; max-width: 0; min-height: 18px; vertical-align: middle;"></div><span style="margin-right: 4px; vertical-align: middle;" class="email-button-text">READ IN APP</span><img src="https://substackcdn.com/image/fetch/w_36,c_scale,f_png,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack.com%2Ficon%2FLucideArrowUpRight%3Fv%3D4%26height%3D36%26fill%3Dnone%26stroke%3D%2523808080%26strokeWidth%3D2" width="18" height="18" style="border: none !important; margin-left: 0; margin-right: 0; max-width: 18px; min-height: 18px; min-width: 18px; vertical-align: middle;" alt class="icon text-icon"></a></td></tr></table></td></tr></table></td></tr></table></td></tr><tr height="16"><td height="16" style="font-size: 0px; line-height: 0;">&#160;</td></tr></table></div></div><div dir="auto" class="post typography" style="font-size: 16px; line-height: 26px; padding: 16px 0 0 0;"><div dir="auto" class="body markup" style="font-family: 'SF Pro Display', -apple-system, BlinkMacSystemFont, 'Inter', 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 16px; font-weight: 400; line-height: 26px; margin-bottom: 16px; text-align: initial; width: 100%; word-break: break-word;"><p style="color: rgb(64, 64, 64); font-size: 16px; line-height: 26px; margin: 0 0 20px 0; margin-top: 0;"><span>OpenAI might be the hottest company in tech right now. The company is behind the popular large language-based model, </span><a href="https://substack.com/redirect/117396ae-5163-4b5c-a6e9-ca42001b82fa?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel style="color: rgb(64, 64, 64); text-decoration: underline;">ChatGPT</a><span>, and also built the GPT-3, GPT-3.5 and GPT-4 models which several AI coding assistants use, such as GitHub Copilot. The CEO of the company is Sam Altman, formerly president of Y Combinator.</span></p><p style="color: rgb(64, 64, 64); font-size: 16px; line-height: 26px; margin: 0 0 20px 0;"><span>ChatGPT launched in November 2022, and took the world by storm. It&#8217;s safe to say this product provided applied AI with its biggest &#8220;wow&#8221; moment, and has been the catalyst for a surge in AI investment, industry-wide. ChatGPT has passed 100M </span><em>weekly</em><span> active users, as </span><a href="https://substack.com/redirect/68e2f902-3422-4811-ada9-66172b952c88?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel style="color: rgb(64, 64, 64); text-decoration: underline;">announced</a><span> by CEO Sam Altman on 6 November. Hitting this milestone in less than a year from launch is unprecedented.</span></p><p style="color: rgb(64, 64, 64); font-size: 16px; line-height: 26px; margin: 0 0 20px 0;">Since it arrived last year, it seems ChatGPT has been shipping at breakneck speed:</p><ul style="margin-top: 0; padding: 0;"><li style="margin: 8px 0 0 32px; mso-special-format: bullet;"><p style="box-sizing: border-box; color: rgb(64, 64, 64); font-size: 16px; line-height: 26px; margin: 0; margin-bottom: 0; padding-left: 4px;">Nov 2022: public launch (on 30 November 2022, to be exact)</p></li><li style="margin: 8px 0 0 32px; mso-special-format: bullet;"><p style="box-sizing: border-box; color: rgb(64, 64, 64); font-size: 16px; line-height: 26px; margin: 0; margin-bottom: 0; padding-left: 4px;">Dec 2022: performance updates and conversation history</p></li><li style="margin: 8px 0 0 32px; mso-special-format: bullet;"><p style="box-sizing: border-box; color: rgb(64, 64, 64); font-size: 16px; line-height: 26px; margin: 0; margin-bottom: 0; padding-left: 4px;">Jan 2023: the ability to stop generating, and factuality updates (this is when ChatGPT crosses 100M monthly users)</p></li><li style="margin: 8px 0 0 32px; mso-special-format: bullet;"><p style="box-sizing: border-box; color: rgb(64, 64, 64); font-size: 16px; line-height: 26px; margin: 0; margin-bottom: 0; padding-left: 4px;">February: ChatGPT Plus, internationally</p></li><li style="margin: 8px 0 0 32px; mso-special-format: bullet;"><p style="box-sizing: border-box; color: rgb(64, 64, 64); font-size: 16px; line-height: 26px; margin: 0; margin-bottom: 0; padding-left: 4px;">March: GPT-4 in ChatGPT. Shipping plugins.</p></li><li style="margin: 8px 0 0 32px; mso-special-format: bullet;"><p style="box-sizing: border-box; color: rgb(64, 64, 64); font-size: 16px; line-height: 26px; margin: 0; margin-bottom: 0; padding-left: 4px;">May: web browsing and plugins rolled out in beta. Shared links plugin, and export data.</p></li><li style="margin: 8px 0 0 32px; mso-special-format: bullet;"><p style="box-sizing: border-box; color: rgb(64, 64, 64); font-size: 16px; line-height: 26px; margin: 0; margin-bottom: 0; padding-left: 4px;">June: a &#8220;browsing&#8221; feature.</p></li><li style="margin: 8px 0 0 32px; mso-special-format: bullet;"><p style="box-sizing: border-box; color: rgb(64, 64, 64); font-size: 16px; line-height: 26px; margin: 0; margin-bottom: 0; padding-left: 4px;">July: custom instructions and code interpreter rolled out in beta</p></li><li style="margin: 8px 0 0 32px; mso-special-format: bullet;"><p style="box-sizing: border-box; color: rgb(64, 64, 64); font-size: 16px; line-height: 26px; margin: 0; margin-bottom: 0; padding-left: 4px;">August: ChatGPT Enterprise. Prompt examples, upload multiple files and custom instructions.</p></li><li style="margin: 8px 0 0 32px; mso-special-format: bullet;"><p style="box-sizing: border-box; color: rgb(64, 64, 64); font-size: 16px; line-height: 26px; margin: 0; margin-bottom: 0; padding-left: 4px;">September: new voice and image capabilities. Language support for 10 languages in alpha</p></li><li style="margin: 8px 0 0 32px; mso-special-format: bullet;"><p style="box-sizing: border-box; color: rgb(64, 64, 64); font-size: 16px; line-height: 26px; margin: 0; margin-bottom: 0; padding-left: 4px;">October: files such as PDFs can be uploaded to work &#8220;chat&#8221; with them. Browsing is out of beta.</p></li><li style="margin: 8px 0 0 32px; mso-special-format: bullet;"><p style="box-sizing: border-box; color: rgb(64, 64, 64); font-size: 16px; line-height: 26px; margin: 0; margin-bottom: 0; padding-left: 4px;"><span>November: a flurry of announcements on </span><a href="https://substack.com/redirect/fdccd1cf-9fa8-4b25-b2a8-c42764b0c872?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel style="color: rgb(64, 64, 64); text-decoration: underline;">OpenAI&#8217;s first Developer Day</a><span>, including an Assitants API, new models, a GPT models store, and </span><a href="https://substack.com/redirect/d69845fa-febe-4247-afc6-49b1c7d0235f?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel style="color: rgb(64, 64, 64); text-decoration: underline;">dozens more</a><span>.</span><em><span> We briefly covered Developer Day last week, </span><a href="https://substack.com/redirect/e47ed1b8-e3a8-4873-81d6-0007d3af38b8?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel style="color: rgb(64, 64, 64); text-decoration: underline;">in The Pulse</a><span>.</span></em></p></li></ul><p style="color: rgb(64, 64, 64); font-size: 16px; line-height: 26px; margin: 0 0 20px 0;"><strong>So, what is the engineering culture that allows the ChatGPT team to iterate this fast? </strong><span>Well, nobody outside of OpenAI really knows, as the company has never discussed its software engineering practices &#8211; until now.&#160;</span></p><p style="color: rgb(64, 64, 64); font-size: 16px; line-height: 26px; margin: 0 0 20px 0;"><span>In this exclusive interview with </span><a href="https://substack.com/redirect/08036a7c-24da-40e8-911a-7b801e6e8a52?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel style="color: rgb(64, 64, 64); text-decoration: underline;">Evan Morikawa</a><span>, who heads up about half of the 130-person Applied engineering team that builds ChatGPT, we find out how the hottest player in tech gets things done, and builds a winning product at the cutting edge of innovation.</span></p><p style="color: rgb(64, 64, 64); font-size: 16px; line-height: 26px; margin: 0 0 20px 0;">We cover:</p><ol style="margin-top: 0; padding: 0;"><li style="margin: 8px 0 0 32px;"><p style="box-sizing: border-box; color: rgb(64, 64, 64); font-size: 16px; line-height: 26px; margin: 0; margin-bottom: 0; padding-left: 4px;">An introduction to ChatGPT, the Applied team, and Evan</p></li><li style="margin: 8px 0 0 32px;"><p style="box-sizing: border-box; color: rgb(64, 64, 64); font-size: 16px; line-height: 26px; margin: 0; margin-bottom: 0; padding-left: 4px;">Operating like an independent startup</p></li><li style="margin: 8px 0 0 32px;"><p style="box-sizing: border-box; color: rgb(64, 64, 64); font-size: 16px; line-height: 26px; margin: 0; margin-bottom: 0; padding-left: 4px;">Tight integration with Research</p></li><li style="margin: 8px 0 0 32px;"><p style="box-sizing: border-box; color: rgb(64, 64, 64); font-size: 16px; line-height: 26px; margin: 0; margin-bottom: 0; padding-left: 4px;">Long-term Product and Research thinking</p></li><li style="margin: 8px 0 0 32px;"><p style="box-sizing: border-box; color: rgb(64, 64, 64); font-size: 16px; line-height: 26px; margin: 0; margin-bottom: 0; padding-left: 4px;">Uncoupled and incremental releases</p></li><li style="margin: 8px 0 0 32px;"><p style="box-sizing: border-box; color: rgb(64, 64, 64); font-size: 16px; line-height: 26px; margin: 0; margin-bottom: 0; padding-left: 4px;">High talent density</p></li><li style="margin: 8px 0 0 32px;"><p style="box-sizing: border-box; color: rgb(64, 64, 64); font-size: 16px; line-height: 26px; margin: 0; margin-bottom: 0; padding-left: 4px;">Day-to-day habits that add up</p></li><li style="margin: 8px 0 0 32px;"><p style="box-sizing: border-box; color: rgb(64, 64, 64); font-size: 16px; line-height: 26px; margin: 0; margin-bottom: 0; padding-left: 4px;">The road ahead</p></li></ol><p style="color: rgb(64, 64, 64); font-size: 16px; line-height: 26px; margin: 0 0 20px 0;"><em><span>This article is an engineering culture deep dive. </span><a href="https://substack.com/redirect/7f41d5a2-e283-417f-8ff8-c7424a735649?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel style="color: rgb(64, 64, 64); text-decoration: underline;">Read other deep dives we&#8217;ve previously covered</a><span> with companies like Figma, Linear, Amazon, Meta or Sourcegraph.</span></em></p><p style="color: rgb(64, 64, 64); font-size: 16px; line-height: 26px; margin: 0 0 20px 0;"><em>With that, it&#8217;s over to Evan. My questions are in italic:</em></p><h2 class="header-with-anchor-widget" style="-moz-appearance: optimizelegibility; -moz-osx-font-smoothing: antialiased; -webkit-appearance: optimizelegibility; -webkit-font-smoothing: antialiased; appearance: optimizelegibility; color: rgb(64, 64, 64); font-family: 'SF Compact Display', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 1.625em; font-weight: bold; line-height: 1.16em; margin: 1em 0 0.625em 0; position: relative;">1. Introduction</h2><p style="color: rgb(64, 64, 64); font-size: 16px; line-height: 26px; margin: 0 0 20px 0;"><em>Evan, can you introduce OpenAI and yourself?</em></p><p style="color: rgb(64, 64, 64); font-size: 16px; line-height: 26px; margin: 0 0 20px 0;"><span>OpenAI is the maker of ChatGPT. Hopefully you've used ChatGPT to learn something new, help you write, or just chat with it for fun. ChatGPT is just one of OpenAI's products &#8211; OpenAI also shipped things like </span><a href="https://substack.com/redirect/d07064f9-a27b-47d7-a47c-40ef74fb6f20?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel style="color: rgb(64, 64, 64); text-decoration: underline;">DALL&#183;E 3</a><span> (image generation), </span><a href="https://substack.com/redirect/0b763ab7-d3f4-428a-ac5e-85e6c3497392?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel style="color: rgb(64, 64, 64); text-decoration: underline;">GPT-4</a><span> (an advanced model) and the </span><a href="https://substack.com/redirect/59c3b03a-f05c-436a-8b94-4140f46ac1d2?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel style="color: rgb(64, 64, 64); text-decoration: underline;">OpenAI API</a><span> (which developers and companies use to integrate AI into their businesses.) ChatGPT and the API each expose several classes of models named GPT-3, GPT-3.5, and GPT-4.</span></p><h4 class="header-with-anchor-widget" style="-moz-appearance: optimizelegibility; -moz-osx-font-smoothing: antialiased; -webkit-appearance: optimizelegibility; -webkit-font-smoothing: antialiased; appearance: optimizelegibility; color: rgb(64, 64, 64); font-family: 'SF Compact Display', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 1.125em; font-weight: bold; line-height: 1.16em; margin: 1em 0 0.625em 0; position: relative;">The Applied group within OpenAI</h4><p style="color: rgb(64, 64, 64); font-size: 16px; line-height: 26px; margin: 0 0 20px 0;"><span>The engineering, product, and design organization that makes and scales these products is called &quot;Applied&quot;. OpenAI is </span><a href="https://substack.com/redirect/c84eb42a-0fc8-4107-99e5-ea73a51282f0?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel style="color: rgb(64, 64, 64); text-decoration: underline;">charted</a><span> with building safe AGI that is useful for all of humanity. Applied is charted with building products that really make AI useful for all of humanity. Research trains big models, then Applied builds products like ChatGPT and the API on those models. In practice, it's a more tightly integrated back and forth which I'll talk more about later.</span></p><p style="color: rgb(64, 64, 64); font-size: 16px; line-height: 26px; margin: 0 0 20px 0;">The Applied team is a fairly new addition within the company. OpenAI was founded in 2015, and Applied began in the summer of 2020. We formed this team because we wanted to build and scale an API around GPT-3, which was a model we had just finished training, back then.&#8221;</p><h4 class="header-with-anchor-widget" style="-moz-appearance: optimizelegibility; -moz-osx-font-smoothing: antialiased; -webkit-appearance: optimizelegibility; -webkit-font-smoothing: antialiased; appearance: optimizelegibility; color: rgb(64, 64, 64); font-family: 'SF Compact Display', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 1.125em; font-weight: bold; line-height: 1.16em; margin: 1em 0 0.625em 0; position: relative;">Evan&#8217;s career at OpenAI</h4><p style="color: rgb(64, 64, 64); font-size: 16px; line-height: 26px; margin: 0 0 20px 0;"><em>How did you come to head up a large part of OpenAI&#8217;s Applied team?</em></p><p style="color: rgb(64, 64, 64); font-size: 16px; line-height: 26px; margin: 0 0 20px 0;">I joined OpenAI in October 2020. Back then, OpenAI had about 150 staff in total, and the Applied team was a handful of people. At the time, nearly everyone working at OpenAI was a researcher. I do not have a PhD in Machine Learning and was excited by the realization that OpenAI was building APIs and engineering teams.</p><p style="color: rgb(64, 64, 64); font-size: 16px; line-height: 26px; margin: 0 0 20px 0;">At OpenAI, I started out writing code as an individual contributor for the GPT-3 API. In January 2021, a few months into my tenure, I transitioned into managing our Applied Engineering team. Back then my team consisted of about 6 people. Today, two and a half years later, the Applied Engineering team has grown to 130 engineers, of whom I manage about half. The full Applied group consists of about 150 people; the other 20 folks are PMs and designers.</p><p style="color: rgb(64, 64, 64); font-size: 16px; line-height: 26px; margin: 0 0 20px 0;"><span>Since October 2020, OpenAI has grown from around 150 to roughly 700 people, today. And we </span><a href="https://substack.com/redirect/d67ff1e3-989f-4e73-b7e7-25994423989e?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel style="color: rgb(64, 64, 64); text-decoration: underline;">keep on hiring</a><span>.</span></p><p style="color: rgb(64, 64, 64); font-size: 16px; line-height: 26px; margin: 0 0 20px 0;"><em>How does OpenAI ship as quickly as it does? I feel like there&#8217;s a major new feature launched every couple of months. As an outsider, it&#8217;s hard enough just to keep up!</em></p><p style="color: rgb(64, 64, 64); font-size: 16px; line-height: 26px; margin: 0 0 20px 0;"><span>On one hand, this has definitely been the </span><a href="https://substack.com/redirect/bef5c241-eb0e-4861-aad3-8e303c70080d?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel style="color: rgb(64, 64, 64); text-decoration: underline;">highest velocity place</a><span> in my career; but on the other hand, it's not magic. I think the key has been:</span></p><ul style="margin-top: 0; padding: 0;"><li style="margin: 8px 0 0 32px; mso-special-format: bullet;"><p style="box-sizing: border-box; color: rgb(64, 64, 64); font-size: 16px; line-height: 26px; margin: 0; margin-bottom: 0; padding-left: 4px;">Setting up ChatGPT to operate like a small independent startup</p></li><li style="margin: 8px 0 0 32px; mso-special-format: bullet;"><p style="box-sizing: border-box; color: rgb(64, 64, 64); font-size: 16px; line-height: 26px; margin: 0; margin-bottom: 0; padding-left: 4px;">Tight integration with research</p></li><li style="margin: 8px 0 0 32px; mso-special-format: bullet;"><p style="box-sizing: border-box; color: rgb(64, 64, 64); font-size: 16px; line-height: 26px; margin: 0; margin-bottom: 0; padding-left: 4px;">Long-term product &amp; research thinking</p></li><li style="margin: 8px 0 0 32px; mso-special-format: bullet;"><p style="box-sizing: border-box; color: rgb(64, 64, 64); font-size: 16px; line-height: 26px; margin: 0; margin-bottom: 0; padding-left: 4px;">Uncoupled, incremental releases</p></li><li style="margin: 8px 0 0 32px; mso-special-format: bullet;"><p style="box-sizing: border-box; color: rgb(64, 64, 64); font-size: 16px; line-height: 26px; margin: 0; margin-bottom: 0; padding-left: 4px;">High talent density</p></li><li style="margin: 8px 0 0 32px; mso-special-format: bullet;"><p style="box-sizing: border-box; color: rgb(64, 64, 64); font-size: 16px; line-height: 26px; margin: 0; margin-bottom: 0; padding-left: 4px;">Day-to-day habits that all add up</p></li></ul><h2 class="header-with-anchor-widget" style="-moz-appearance: optimizelegibility; -moz-osx-font-smoothing: antialiased; -webkit-appearance: optimizelegibility; -webkit-font-smoothing: antialiased; appearance: optimizelegibility; color: rgb(64, 64, 64); font-family: 'SF Compact Display', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 1.625em; font-weight: bold; line-height: 1.16em; margin: 1em 0 0.625em 0; position: relative;">2. Operating like a small, independent startup</h2><p style="color: rgb(64, 64, 64); font-size: 16px; line-height: 26px; margin: 0 0 20px 0;"><em>You mentioned how ChatGPT operates independently. What&#8217;s the setup?</em></p><p style="color: rgb(64, 64, 64); font-size: 16px; line-height: 26px; margin: 0 0 20px 0;">ChatGPT looks, feels, and acts like a one-year-old startup, but OpenAI itself is nearly 8 years old. The Applied group within OpenAI was founded 3 years ago. ChatGPT is a product team within Applied that started about 1 year ago.&#160;</p><div data-component-name="Image3Static" class="frontend-components-document_body-image3-Image3-module__staticView--E5km_" style="font-size: 16px; line-height: 26px; margin: 32px 0; margin-inline-end: 0; margin-inline-start: 0; position: relative; width: 100%;"><div class="frontend-components-document_body-image3-Image3-module__staticImageWrap--g566A" style="font-size: 16px; line-height: 26px;"><img width="550" height="auto" src="https://substackcdn.com/image/fetch/w_1100,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F82bb5533-5b36-40e6-a4ad-e2fa74bc95ec_1448x766.png" style="-ms-interpolation-mode: bicubic; border: none !important; display: block; height: auto; margin: 0 auto; max-width: 100%; vertical-align: middle;"><div class="frontend-components-document_body-image3-Image3-module__caption--C2TrT frontend-components-document_body-image3-Image3-module__static--OsmFP" style="color: #808080; font-size: 16px; font-weight: 400; letter-spacing: -.15px; line-height: 26px; margin-left: 15%; margin-right: 15%; margin-top: 12px; text-align: center;">The Applied group and ChatGPT, within OpenAI</div></div></div><p style="color: rgb(64, 64, 64); font-size: 16px; line-height: 26px; margin: 0 0 20px 0;">I and the rest of Applied leadership wanted the ChatGPT team to feel like they are their own, independent startup. In practice this goal involved a lot of changes which evolved as the team grew.</p><p style="color: rgb(64, 64, 64); font-size: 16px; line-height: 26px; margin: 0 0 20px 0;">In the summer of 2022, we began development of what would become ChatGPT. At that time, Applied had about 30 engineers, a handful of PMs and designers, and was running products like:</p><ul style="margin-top: 0; padding: 0;"><li style="margin: 8px 0 0 32px; mso-special-format: bullet;"><p style="box-sizing: border-box; color: rgb(64, 64, 64); font-size: 16px; line-height: 26px; margin: 0; margin-bottom: 0; padding-left: 4px;">APIs for GPT-3 and Codex</p></li><li style="margin: 8px 0 0 32px; mso-special-format: bullet;"><p style="box-sizing: border-box; color: rgb(64, 64, 64); font-size: 16px; line-height: 26px; margin: 0; margin-bottom: 0; padding-left: 4px;">Fine-tuning of models</p></li><li style="margin: 8px 0 0 32px; mso-special-format: bullet;"><p style="box-sizing: border-box; color: rgb(64, 64, 64); font-size: 16px; line-height: 26px; margin: 0; margin-bottom: 0; padding-left: 4px;">Embedding APIs</p></li><li style="margin: 8px 0 0 32px; mso-special-format: bullet;"><p style="box-sizing: border-box; color: rgb(64, 64, 64); font-size: 16px; line-height: 26px; margin: 0; margin-bottom: 0; padding-left: 4px;">DALL&#183;E 2</p></li></ul><p style="color: rgb(64, 64, 64); font-size: 16px; line-height: 26px; margin: 0 0 20px 0;">All these products used the same codebase, ran in the same cluster, and used the same build pipelines. Within Applied, we were structured functionally; engineering was one unified team.</p><p style="color: rgb(64, 64, 64); font-size: 16px; line-height: 26px; margin: 0 0 20px 0;">This changed with ChatGPT.</p><p style="color: rgb(64, 64, 64); font-size: 16px; line-height: 26px; margin: 0 0 20px 0;">A few applied engineers, some designers, researchers, and Greg Brockman (OpenAI's president and co-founder) grabbed a room and started rapidly iterating product ideas.</p><p style="color: rgb(64, 64, 64); font-size: 16px; line-height: 26px; margin: 0 0 20px 0;">We gave this nascent group its own code repository and a fresh cluster. The dev environment looked like the first days of a startup or a personal project.</p><p style="color: rgb(64, 64, 64); font-size: 16px; line-height: 26px; margin: 0 0 20px 0;"><strong>Our goal with this small ChatGPT subteam was to create the atmosphere of an early-stage startup iterating towards product-market fit (PMF.) </strong><span>We wanted to foster the rhythm, pace, and autonomy to do this. Every member of the team was on-site, and we rearranged seating to put people next to each other.</span></p><p style="color: rgb(64, 64, 64); font-size: 16px; line-height: 26px; margin: 0 0 20px 0;"><span>As the ChatGPT team grew, we made sure to keep it vertically integrated. This meant engineering, product, design, and key researchers always worked closely together. We codified that pattern further in May 2023 when </span><a href="https://substack.com/redirect/c259be99-e645-4e45-ad33-62334a584b8a?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel style="color: rgb(64, 64, 64); text-decoration: underline;">Peter Deng</a><span> joined to lead ChatGPT engineering, product, and design, as one cohesive group.</span></p><p style="color: rgb(64, 64, 64); font-size: 16px; line-height: 26px; margin: 0 0 20px 0;">We knew to set ChatGPT up this way because we&#8217;d created a similar structure when the Applied team started work on the first version of the OpenAI API. Three years ago, we also started with a handful of engineers on a fresh repo, fresh cluster, and greenfield development. We also operated like an early-stage startup searching for PMF, and found it with the API product.</p><p style="color: rgb(64, 64, 64); font-size: 16px; line-height: 26px; margin: 0 0 20px 0;"><strong>This &#8220;fractal startup&#8221; approach feels like a good model for any new product category. </strong><span>I expect we&#8217;ll continue applying this pattern to rapidly iterate new ideas which we consider pursuing.</span></p><h2 class="header-with-anchor-widget" style="-moz-appearance: optimizelegibility; -moz-osx-font-smoothing: antialiased; -webkit-appearance: optimizelegibility; -webkit-font-smoothing: antialiased; appearance: optimizelegibility; color: rgb(64, 64, 64); font-family: 'SF Compact Display', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 1.625em; font-weight: bold; line-height: 1.16em; margin: 1em 0 0.625em 0; position: relative;">3. Tight integration with Research</h2><p style="color: rgb(64, 64, 64); font-size: 16px; line-height: 26px; margin: 0 0 20px 0;"><em>How important is tight integration with Research, and why does it matter?</em></p><p style="color: rgb(64, 64, 64); font-size: 16px; line-height: 26px; margin: 0 0 20px 0;">In most tech companies, the &#8220;classic&#8221; trio of teams that engineering works with tends to be referenced as &#8220;EPD&#8221;:</p><ul style="margin-top: 0; padding: 0;"><li style="margin: 8px 0 0 32px; mso-special-format: bullet;"><p style="box-sizing: border-box; color: rgb(64, 64, 64); font-size: 16px; line-height: 26px; margin: 0; margin-bottom: 0; padding-left: 4px;">Engineering</p></li><li style="margin: 8px 0 0 32px; mso-special-format: bullet;"><p style="box-sizing: border-box; color: rgb(64, 64, 64); font-size: 16px; line-height: 26px; margin: 0; margin-bottom: 0; padding-left: 4px;">Product</p></li><li style="margin: 8px 0 0 32px; mso-special-format: bullet;"><p style="box-sizing: border-box; color: rgb(64, 64, 64); font-size: 16px; line-height: 26px; margin: 0; margin-bottom: 0; padding-left: 4px;">Design</p></li></ul><p style="color: rgb(64, 64, 64); font-size: 16px; line-height: 26px; margin: 0 0 20px 0;">These teams tend to collaborate heavily with one another, and cross-functional teams usually have members of engineering, product, and design within them.</p><p style="color: rgb(64, 64, 64); font-size: 16px; line-height: 26px; margin: 0 0 20px 0;"><strong>Research being integrated into product teams has been critical. </strong><span>Instead of the classic &#8220;EPD,&#8221;&#160; I like to think of our unit that collaborated heavily as &#8220;DERP&#8221;:</span></p><ul style="margin-top: 0; padding: 0;"><li style="margin: 8px 0 0 32px; mso-special-format: bullet;"><p style="box-sizing: border-box; color: rgb(64, 64, 64); font-size: 16px; line-height: 26px; margin: 0; margin-bottom: 0; padding-left: 4px;">Design</p></li><li style="margin: 8px 0 0 32px; mso-special-format: bullet;"><p style="box-sizing: border-box; color: rgb(64, 64, 64); font-size: 16px; line-height: 26px; margin: 0; margin-bottom: 0; padding-left: 4px;">Engineering</p></li><li style="margin: 8px 0 0 32px; mso-special-format: bullet;"><p style="box-sizing: border-box; color: rgb(64, 64, 64); font-size: 16px; line-height: 26px; margin: 0; margin-bottom: 0; padding-left: 4px;">Research</p></li><li style="margin: 8px 0 0 32px; mso-special-format: bullet;"><p style="box-sizing: border-box; color: rgb(64, 64, 64); font-size: 16px; line-height: 26px; margin: 0; margin-bottom: 0; padding-left: 4px;">Product</p></li></ul><p style="color: rgb(64, 64, 64); font-size: 16px; line-height: 26px; margin: 0 0 20px 0;"><span>At OpenAI, many product questions are </span><em>actually</em><span> research ones. For example, take these questions, that could be seen as feature requests:</span></p><ul style="margin-top: 0; padding: 0;"><li style="margin: 8px 0 0 32px; mso-special-format: bullet;"><p style="box-sizing: border-box; color: rgb(64, 64, 64); font-size: 16px; line-height: 26px; margin: 0; margin-bottom: 0; padding-left: 4px;">How can ChatGPT produce more concise outputs?</p></li><li style="margin: 8px 0 0 32px; mso-special-format: bullet;"><p style="box-sizing: border-box; color: rgb(64, 64, 64); font-size: 16px; line-height: 26px; margin: 0; margin-bottom: 0; padding-left: 4px;">How can ChatGPT produce more accurate answers?</p></li><li style="margin: 8px 0 0 32px; mso-special-format: bullet;"><p style="box-sizing: border-box; color: rgb(64, 64, 64); font-size: 16px; line-height: 26px; margin: 0; margin-bottom: 0; padding-left: 4px;">How can ChatGPT connect to additional data sources?</p></li></ul><p style="color: rgb(64, 64, 64); font-size: 16px; line-height: 26px; margin: 0 0 20px 0;">While these questions might feel like product questions, in reality they&#8217;re heavily dependent on research. How can underlying models be tweaked or fine-tuned for the desired goals, what other approaches could we take to achieve these outcomes?</p><p style="color: rgb(64, 64, 64); font-size: 16px; line-height: 26px; margin: 0 0 20px 0;"><strong>Researchers integrating with product engineering wasn&#8217;t always a given. </strong><span>At OpenAI, Research and Applied are separate org structures. Within the Research organization, there are a variety of different research teams, such as:</span></p><ul style="margin-top: 0; padding: 0;"><li style="margin: 8px 0 0 32px; mso-special-format: bullet;"><p style="box-sizing: border-box; color: rgb(64, 64, 64); font-size: 16px; line-height: 26px; margin: 0; margin-bottom: 0; padding-left: 4px;">Pre Training team: this team trains the GPT-4 model</p></li><li style="margin: 8px 0 0 32px; mso-special-format: bullet;"><p style="box-sizing: border-box; color: rgb(64, 64, 64); font-size: 16px; line-height: 26px; margin: 0; margin-bottom: 0; padding-left: 4px;">Post Training team: they fine-tune GPT-4</p></li><li style="margin: 8px 0 0 32px; mso-special-format: bullet;"><p style="box-sizing: border-box; color: rgb(64, 64, 64); font-size: 16px; line-height: 26px; margin: 0; margin-bottom: 0; padding-left: 4px;"><a href="https://substack.com/redirect/4ed9daed-bc82-4525-8620-1035571ef676?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel style="color: rgb(64, 64, 64); text-decoration: underline;">Superalignment team</a><span>: aligns GPT-4</span></p></li><li style="margin: 8px 0 0 32px; mso-special-format: bullet;"><p style="box-sizing: border-box; color: rgb(64, 64, 64); font-size: 16px; line-height: 26px; margin: 0; margin-bottom: 0; padding-left: 4px;">Multimoda team: makes GPT-4 see, hear, and speak</p></li><li style="margin: 8px 0 0 32px; mso-special-format: bullet;"><p style="box-sizing: border-box; color: rgb(64, 64, 64); font-size: 16px; line-height: 26px; margin: 0; margin-bottom: 0; padding-left: 4px;">&#8230; and several others!</p></li></ul><p style="color: rgb(64, 64, 64); font-size: 16px; line-height: 26px; margin: 0 0 20px 0;"><span>Researchers tend to have significant academic or industry backgrounds. They read a lot of academic papers to stay up to date. They also take ideas and run lots of experiments to improve our models. They are all hands-on; researchers do a </span><em>lot</em><span> of engineering and write a </span><em>ton</em><span> of code!</span></p><p style="color: rgb(64, 64, 64); font-size: 16px; line-height: 26px; margin: 0 0 20px 0;"><strong>We could have chosen the approach where models are &#8220;thrown over the wall&#8221; to Applied. </strong><span>This setup would have meant that Research trains a model, and then hands it over &#8211; aka throws it over the wall &#8211; for Applied to productize. However, we actively wanted to avoid a culture where Research is only focused on running experiments and Product just wants to commercialize and make money.</span></p><p style="color: rgb(64, 64, 64); font-size: 16px; line-height: 26px; margin: 0 0 20px 0;"><span>To prevent this, product teams like ChatGPT have software engineers, designers, product managers, and researchers working together. In the case of ChatGPT, most researchers came from a research team we call Post Training. These researchers are the masters of the latest fine-tuning techniques and </span><a href="https://substack.com/redirect/1bb7f5c6-db3f-4a4e-ad3f-f5a02d6902f5?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel style="color: rgb(64, 64, 64); text-decoration: underline;">reinforcement learning</a><span> (RL) methods like </span><a href="https://substack.com/redirect/8d06712b-d162-461e-9577-142daaf91990?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel style="color: rgb(64, 64, 64); text-decoration: underline;">Proximal Policy Optimization</a><span> (PPO.) Those techniques are necessary to continuously improve the underlying models in ChatGPT. Thanks to these researchers being part of the product group, and running their own A/B experiments, the feedback loop between research and engineering is very tight.</span></p><p style="color: rgb(64, 64, 64); font-size: 16px; line-height: 26px; margin: 0 0 20px 0;"><strong>Tight coupling with Research is why we ship new ideas so quickly. </strong><span>How did we ship features like browsing, code execution, plugins, and other ChatGPT features as quickly as we did? It&#8217;s because of tight integration! All these started as research ideas, and were deployed into production quickly because the teams doing the research are tightly integrated with engineering! Furthermore, there's a culture of tinkering and prototyping in both research and applied. A lot of those prototypes very quickly found their way to prod.</span></p><h2 class="header-with-anchor-widget" style="-moz-appearance: optimizelegibility; -moz-osx-font-smoothing: antialiased; -webkit-appearance: optimizelegibility; -webkit-font-smoothing: antialiased; appearance: optimizelegibility; color: rgb(64, 64, 64); font-family: 'SF Compact Display', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 1.625em; font-weight: bold; line-height: 1.16em; margin: 1em 0 0.625em 0; position: relative;">4. Long-term Product and Research thinking</h2><p style="color: rgb(64, 64, 64); font-size: 16px; line-height: 26px; margin: 0 0 20px 0;"><em>How does thinking long-term help with execution?</em></p><p style="color: rgb(64, 64, 64); font-size: 16px; line-height: 26px; margin: 0 0 20px 0;"><span>OpenAI's mission is to ensure that artificial general intelligence (AGI) benefits all of humanity. By AGI, we mean highly autonomous systems that outperform humans at most economically valuable work. This mission is captured within the </span><a href="https://substack.com/redirect/c84eb42a-0fc8-4107-99e5-ea73a51282f0?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel style="color: rgb(64, 64, 64); text-decoration: underline;">OpenAI Charter</a><span> document. The Charter document reflects the strategy of OpenAI in more detail; for example, detailing the focus on long-term safety.</span></p><p style="color: rgb(64, 64, 64); font-size: 16px; line-height: 26px; margin: 0 0 20px 0;">Our Charter and Mission are referenced at almost every all-hands. We've tactically used the phrase &quot;which of these options feels like it's getting us closer to AGI&quot; &#8211; referring to our Mission &#8211; in product discussions. It not only helps decide what to build, but I&#8217;ve seen plenty of decisions to not build things, as a result of focusing on the mission.</p><p style="color: rgb(64, 64, 64); font-size: 16px; line-height: 26px; margin: 0 0 20px 0;">Clear focus is always a driver of velocity. I&#8217;m convinced our broad mission has helped keep that focus and also pave the way for lots of new ideas.</p><p style="color: rgb(64, 64, 64); font-size: 16px; line-height: 26px; margin: 0 0 20px 0; margin-bottom: 0;">Another thing that has helped us is how we organize research initiatives:...</p></div></div><div data-testid="paywall" data-component-name="Paywall" class="paywall paywall-white-background" style="-moz-user-select: none; -ms-user-select: none; -webkit-user-select: none; background: rgb(255, 255, 255); border-top: solid 2px #ff6b00; color: rgb(64, 64, 64); cursor: default; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 16px; line-height: 26px; margin-bottom: 16px; margin-top: 6px; padding: 32px 24px 16px 24px; position: relative; text-align: center; user-select: none;"><h2 class="paywall-title" style="-moz-appearance: optimizelegibility; -moz-osx-font-smoothing: antialiased; -webkit-appearance: optimizelegibility; -webkit-font-smoothing: antialiased; appearance: optimizelegibility; color: inherit !important; font-family: 'SF Compact Display', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 22px; font-weight: 700; line-height: 33px; margin: 0 auto; margin-bottom: 6px;">Subscribe to The Pragmatic Engineer to read the rest.</h2><p class="paywall-subtitle" style="color: inherit !important; font-size: 16px; font-weight: light; line-height: 24px; margin: 0 auto; margin-bottom: 24px;">Become a paying subscriber of The Pragmatic Engineer to get access to this post and other subscriber-only content.</p><div class="paywall-cta" style="font-size: 16px; line-height: 26px; margin-top: 0;"><a href="https://substack.com/redirect/2/eyJlIjoiaHR0cHM6Ly9uZXdzbGV0dGVyLnByYWdtYXRpY2VuZ2luZWVyLmNvbS9zdWJzY3JpYmU_dXRtX3NvdXJjZT1wb3N0JnV0bV9jYW1wYWlnbj1lbWFpbC1jaGVja291dCZuZXh0PWh0dHBzJTNBJTJGJTJGbmV3c2xldHRlci5wcmFnbWF0aWNlbmdpbmVlci5jb20lMkZwJTJGaW5zaWRlLW9wZW5haS1ob3ctZG9lcy1jaGF0Z3B0LXNoaXAmcj04bzU0biZ0b2tlbj1leUoxYzJWeVgybGtJam94TkRVMk16TXhPU3dpYVdGMElqb3hOams1T1RjMk5qZzVMQ0psZUhBaU9qRTNNREkxTmpnMk9Ea3NJbWx6Y3lJNkluQjFZaTAwTlRnM01Ea2lMQ0p6ZFdJaU9pSmphR1ZqYTI5MWRDSjkuT0tQSGpqUFMxaDdpNHVBVkhxUEhRR1hwY1hJeUdjNExvT0NZQUQ4Nkt5RSIsInAiOjEzODg2NDI1MywicyI6NDU4NzA5LCJmIjp0cnVlLCJ1IjoxNDU2MzMxOSwiaWF0IjoxNjk5OTc2Njg5LCJleHAiOjE3MDI1Njg2ODksImlzcyI6InB1Yi0wIiwic3ViIjoibGluay1yZWRpcmVjdCJ9.T3mFq-OnQqL-cpe-MqAeucB7NtgC7_p8659d9_tdafg?simple=true&utm_source=paywall&utm_medium=email&utm_content=138864253&next=https://newsletter.pragmaticengineer.com/p/inside-openai-how-does-chatgpt-ship" class="button primary subscribe-btn" style="background-color: #FF6B00; border: none; border-radius: 6px; box-sizing: border-box; color: #ffffff !important; cursor: pointer; display: inline-block; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; font-weight: 400; height: auto; line-height: 1em; margin: 0; opacity: 1; outline: none; padding: 16px 20px; text-align: center; text-decoration: none !important; white-space: nowrap;"><span style="color: #ffffff; text-decoration: none;">Upgrade to paid</span></a></div></div><div class="subscription-benefits" style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 16px; line-height: 26px; margin-bottom: 32px;"><h3 style="-moz-appearance: optimizelegibility; -moz-osx-font-smoothing: antialiased; -webkit-appearance: optimizelegibility; -webkit-font-smoothing: antialiased; appearance: optimizelegibility; color: rgb(64, 64, 64); font-family: 'SF Compact Display', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 16px; font-weight: 600; line-height: 1.16em; margin: 1em 0 0.625em 0; margin-bottom: 26px;">A subscription gets you:</h3><table><tr style="height: 28.8px;"><td class="check" style="color: #4c3; font-weight: light; padding-right: 4px;"><img src="https://substackcdn.com/image/fetch/w_32,c_scale,f_png,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack.com%2Ficon%2FSimpleCheckmarkIcon%3Fv%3D4%26height%3D32%26fill%3D%2523187F22%26stroke%3D%2523187F22%26strokeWidth%3D3.6" width="16" height="16" style="border: none !important; max-width: 16px; vertical-align: middle;" alt></td><td style="font-weight: light;">Full articles every Tuesday and Thursday</td></tr><tr style="height: 28.8px;"><td class="check" style="color: #4c3; font-weight: light; padding-right: 4px;"><img src="https://substackcdn.com/image/fetch/w_32,c_scale,f_png,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack.com%2Ficon%2FSimpleCheckmarkIcon%3Fv%3D4%26height%3D32%26fill%3D%2523187F22%26stroke%3D%2523187F22%26strokeWidth%3D3.6" width="16" height="16" style="border: none !important; max-width: 16px; vertical-align: middle;" alt></td><td style="font-weight: light;">Access to resources and templates for engineering managers and engineers</td></tr><tr style="height: 28.8px;"><td class="check" style="color: #4c3; font-weight: light; padding-right: 4px;"><img src="https://substackcdn.com/image/fetch/w_32,c_scale,f_png,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack.com%2Ficon%2FSimpleCheckmarkIcon%3Fv%3D4%26height%3D32%26fill%3D%2523187F22%26stroke%3D%2523187F22%26strokeWidth%3D3.6" width="16" height="16" style="border: none !important; max-width: 16px; vertical-align: middle;" alt></td><td style="font-weight: light;">Access to the complete archive, see all comments and comment on articles</td></tr></table></div><table role="presentation" width="100%" border="0" cellspacing="0" cellpadding="0" class="email-ufi-2-bottom" style="border-bottom: 1px solid rgba(0, 0, 0, .13); border-top: 1px solid rgba(0, 0, 0, .13); min-width: 100%;"><tr height="16"><td height="16" style="font-size: 0px; line-height: 0;">&#160;</td></tr><tr><td><table role="presentation" width="100%" border="0" cellspacing="0" cellpadding="0"><tr><td><table role="presentation" width="auto" border="0" cellspacing="0" cellpadding="0" style="margin: 0 auto;"><tr><td style="vertical-align: middle;"><table role="presentation" width="auto" border="0" cellspacing="0" cellpadding="0"><tr><td align="center"><a href="https://substack.com/app-link/post?publication_id=458709&post_id=138864253&utm_source=substack&isFreemail=true&submitLike=true&token=eyJ1c2VyX2lkIjoxNDU2MzMxOSwicG9zdF9pZCI6MTM4ODY0MjUzLCJyZWFjdGlvbiI6IuKdpCIsImlhdCI6MTY5OTk3NjY4OSwiZXhwIjoxNzAyNTY4Njg5LCJpc3MiOiJwdWItNDU4NzA5Iiwic3ViIjoicmVhY3Rpb24ifQ.WvEEIk3Kb6LtjWQH3YCP6oEAutj3vDnxqpP9XSI8iJE&utm_medium=email&utm_campaign=email-reaction&r=8o54n" class="email-button-outline" style="border: 1px solid rgba(0, 0, 0, .13); border-radius: 100000px; color: rgb(128, 128, 128); display: inline-block; font-family: 'SF Pro Text', -apple-system, ui-sans-serif, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 12px; font-weight: 500; line-height: 12px; padding: 9px 14px; text-decoration: none; text-transform: uppercase;"><img src="https://substackcdn.com/image/fetch/w_36,c_scale,f_png,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack.com%2Ficon%2FLucideHeart%3Fv%3D4%26height%3D36%26fill%3Dnone%26stroke%3D%2523808080%26strokeWidth%3D2" width="18" height="18" style="border: none !important; margin-right: 8px; max-width: 18px; min-height: 18px; min-width: 18px; vertical-align: middle;" alt class="icon"><span class="email-button-text" style="vertical-align: middle;">Like</span></a></td></tr></table></td><td width="8" style="min-width: 8px"></td><td style="vertical-align: middle;"><table role="presentation" width="auto" border="0" cellspacing="0" cellpadding="0"><tr><td align="center"><a href="https://substack.com/app-link/post?publication_id=458709&post_id=138864253&utm_source=substack&utm_medium=email&isFreemail=true&comments=true&token=eyJ1c2VyX2lkIjoxNDU2MzMxOSwicG9zdF9pZCI6MTM4ODY0MjUzLCJpYXQiOjE2OTk5NzY2ODksImV4cCI6MTcwMjU2ODY4OSwiaXNzIjoicHViLTQ1ODcwOSIsInN1YiI6InBvc3QtcmVhY3Rpb24ifQ.a1kIV_VJFXVnuggzDdDJ1o1zMCGr9cOaVOclyLH9cks&r=8o54n&utm_campaign=email-half-magic-comments&utm_source=substack&utm_medium=email" class="email-button-outline" style="border: 1px solid rgba(0, 0, 0, .13); border-radius: 100000px; color: rgb(128, 128, 128); display: inline-block; font-family: 'SF Pro Text', -apple-system, ui-sans-serif, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 12px; font-weight: 500; line-height: 12px; padding: 9px 14px; text-decoration: none; text-transform: uppercase;"><img src="https://substackcdn.com/image/fetch/w_36,c_scale,f_png,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack.com%2Ficon%2FLucideComments%3Fv%3D4%26height%3D36%26fill%3Dnone%26stroke%3D%2523808080%26strokeWidth%3D2" width="18" height="18" style="border: none !important; margin-right: 8px; max-width: 18px; min-height: 18px; min-width: 18px; vertical-align: middle;" alt class="icon"><span class="email-button-text" style="vertical-align: middle;">Comment</span></a></td></tr></table></td><td width="8" style="min-width: 8px"></td><td style="vertical-align: middle;"><table role="presentation" width="auto" border="0" cellspacing="0" cellpadding="0"><tr><td align="center"><a href="https://substack.com/redirect/2/eyJlIjoiaHR0cHM6Ly9uZXdzbGV0dGVyLnByYWdtYXRpY2VuZ2luZWVyLmNvbS9wL2luc2lkZS1vcGVuYWktaG93LWRvZXMtY2hhdGdwdC1zaGlwP3V0bV9zb3VyY2U9c3Vic3RhY2smdXRtX21lZGl1bT1lbWFpbCZhY3Rpb249cmVzdGFjay1jb21tZW50JnV0bV9jYW1wYWlnbj1lbWFpbC1yZXN0YWNrLWNvbW1lbnQmcj04bzU0biIsInAiOjEzODg2NDI1MywicyI6NDU4NzA5LCJmIjp0cnVlLCJ1IjoxNDU2MzMxOSwiaWF0IjoxNjk5OTc2Njg5LCJleHAiOjE3MDI1Njg2ODksImlzcyI6InB1Yi0wIiwic3ViIjoibGluay1yZWRpcmVjdCJ9.rWjhmhlPeheo3Nf6QFsS37b5PEyuruh5jsQRVE_W6PA?&utm_source=substack&utm_medium=email" class="email-button-outline" style="border: 1px solid rgba(0, 0, 0, .13); border-radius: 100000px; color: rgb(128, 128, 128); display: inline-block; font-family: 'SF Pro Text', -apple-system, ui-sans-serif, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 12px; font-weight: 500; line-height: 12px; padding: 9px 14px; text-decoration: none; text-transform: uppercase;"><img src="https://substackcdn.com/image/fetch/w_36,c_scale,f_png,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack.com%2Ficon%2FNoteForwardIcon%3Fv%3D4%26height%3D36%26fill%3Dnone%26stroke%3D%2523808080%26strokeWidth%3D2" width="18" height="18" style="border: none !important; margin-right: 8px; max-width: 18px; min-height: 18px; min-width: 18px; vertical-align: middle;" alt class="icon"><span class="email-button-text" style="vertical-align: middle;">Restack</span></a></td></tr></table></td></tr></table></td><td align="right"><table role="presentation" width="auto" border="0" cellspacing="0" cellpadding="0"><tr></tr></table></td></tr></table></td></tr><tr height="16"><td height="16" style="font-size: 0px; line-height: 0;">&#160;</td></tr></table><div class="footer frontend-email-shared-typed-module__footer--B5jqg" style="color: rgb(128, 128, 128); font-size: 16px; line-height: 26px; padding: 24px 0; text-align: center;"><div style="font-size: 16px; line-height: 26px; padding-bottom: 24px;"><p class="pencraft frontend-pencraft-Box-module__reset--VfQY8 frontend-pencraft-Text-module__size-12--KorQF frontend-pencraft-Text-module__color-secondary--WRADg frontend-pencraft-Text-module__reset--dW0zZ small frontend-email-shared-typed-module__meta--vRZSC" style="color: rgb(128, 128, 128); font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 12px; letter-spacing: 0; line-height: 16px; margin: 0; padding-bottom: 0; text-decoration: unset;">&#169; 2023 <span>Gergely Orosz</span><br>548 Market Street PMB 72296, San Francisco, CA 94104 <br><a href="https://substack.com/redirect/2/eyJlIjoiaHR0cHM6Ly9uZXdzbGV0dGVyLnByYWdtYXRpY2VuZ2luZWVyLmNvbS9hY3Rpb24vZGlzYWJsZV9lbWFpbD90b2tlbj1leUoxYzJWeVgybGtJam94TkRVMk16TXhPU3dpY0c5emRGOXBaQ0k2TVRNNE9EWTBNalV6TENKcFlYUWlPakUyT1RrNU56WTJPRGtzSW1WNGNDSTZNVGN3TWpVMk9EWTRPU3dpYVhOeklqb2ljSFZpTFRRMU9EY3dPU0lzSW5OMVlpSTZJbVJwYzJGaWJHVmZaVzFoYVd3aWZRLjd2ZmwtUnYwcjJOZG1NOFQzYmc1U0pxSFJGdGY5Y3B2d3hDcGNhZkJwTjgmZXhwaXJlcz0zNjVkIiwicCI6MTM4ODY0MjUzLCJzIjo0NTg3MDksImYiOnRydWUsInUiOjE0NTYzMzE5LCJpYXQiOjE2OTk5NzY2ODksImV4cCI6MTcwMjU2ODY4OSwiaXNzIjoicHViLTAiLCJzdWIiOiJsaW5rLXJlZGlyZWN0In0.IXQgk7gsBoGOO7c8zbitPfib8Wj7Yqfb5PsgcZ8Utnc?" style="color: rgb(128, 128, 128); text-decoration: underline;"><span style="color: rgb(128, 128, 128); text-decoration: underline;">Unsubscribe</span></a></p></div><p class="frontend-email-shared-typed-module__footerSection--dumyu small powered-by-substack" style="color: rgb(128, 128, 128); font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 12px; line-height: 20px; margin: 0; margin-top: 0; padding: 0 24px; padding-bottom: 0;"><a href="https://substack.com/redirect/5d0ae98d-c2c9-403e-8d17-036453186d0a?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" style="color: rgb(128, 128, 128); display: inline-block; margin: 0 4px; text-decoration: none;"><img src="https://substackcdn.com/image/fetch/w_260,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack.com%2Fimg%2Femail%2Fgeneric-app-button%402x.png" srcset="https://substackcdn.com/image/fetch/w_130,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack.com%2Fimg%2Femail%2Fgeneric-app-button.png, https://substackcdn.com/image/fetch/w_260,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack.com%2Fimg%2Femail%2Fgeneric-app-button%402x.png 2x, https://substackcdn.com/image/fetch/w_390,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack.com%2Fimg%2Femail%2Fgeneric-app-button%403x.png 3x" width="130" alt="Get the app" height="40" style="border: none !important; max-width: 550px; vertical-align: middle;"></a><a href="https://substack.com/redirect/2/eyJlIjoiaHR0cHM6Ly9zdWJzdGFjay5jb20vc2lnbnVwP3V0bV9zb3VyY2U9c3Vic3RhY2smdXRtX21lZGl1bT1lbWFpbCZ1dG1fY29udGVudD1mb290ZXImdXRtX2NhbXBhaWduPWF1dG9maWxsZWQtZm9vdGVyJmZyZWVTaWdudXBFbWFpbD1pc2hhbi5tYWlsQGdtYWlsLmNvbSZyPThvNTRuIiwicCI6MTM4ODY0MjUzLCJzIjo0NTg3MDksImYiOnRydWUsInUiOjE0NTYzMzE5LCJpYXQiOjE2OTk5NzY2ODksImV4cCI6MTcwMjU2ODY4OSwiaXNzIjoicHViLTAiLCJzdWIiOiJsaW5rLXJlZGlyZWN0In0.C76P0tdCkLWozRBLhWLYpCYaqGl9uro5GRv90VI3Yl4?" style="color: rgb(128, 128, 128); display: inline-block; margin: 0 4px; text-decoration: none;"><img src="https://substackcdn.com/image/fetch/w_270,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack.com%2Fimg%2Femail%2Fpublish-button%402x.png" srcset="https://substackcdn.com/image/fetch/w_135,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack.com%2Fimg%2Femail%2Fpublish-button.png, https://substackcdn.com/image/fetch/w_270,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack.com%2Fimg%2Femail%2Fpublish-button%402x.png 2x, https://substackcdn.com/image/fetch/w_405,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack.com%2Fimg%2Femail%2Fpublish-button%403x.png 3x" width="135" alt="Start writing" height="40" style="border: none !important; max-width: 550px; vertical-align: middle;"></a></p></div></div></td><td></td></tr></table><img src="https://eotrx.substackcdn.com/open?token=eyJtIjoiPDIwMjMxMTE0MTU0NDEwLjMuMWU5NWQxMjlmM2E3MTRhMUBtZy1kMS5zdWJzdGFjay5jb20-IiwidSI6MTQ1NjMzMTksInIiOiJpc2hhbi5tYWlsQGdtYWlsLmNvbSIsImQiOiJtZy1kMS5zdWJzdGFjay5jb20iLCJwIjoxMzg4NjQyNTMsInQiOiJuZXdzbGV0dGVyIiwiYSI6Im9ubHlfcGFpZCIsInMiOjQ1ODcwOSwiYyI6InBvc3QiLCJmIjp0cnVlLCJwb3NpdGlvbiI6ImJvdHRvbSIsImlhdCI6MTY5OTk3NjY4OSwiZXhwIjoxNzAyNTY4Njg5LCJpc3MiOiJwdWItMCIsInN1YiI6ImVvIn0._adFZvJlI2p64hEQ2m7XsiOK-4b_yqF50owcEiQa0wE" alt="" width="1" height="1" border="0" style="height:1px !important;width:1px !important;border-width:0 !important;margin-top:0 !important;margin-bottom:0 !important;margin-right:0 !important;margin-left:0 !important;padding-top:0 !important;padding-bottom:0 !important;padding-right:0 !important;padding-left:0 !important;"/><img width="1px" height="1px" alt="" src="https://email.mg-d1.substack.com/o/eJw00FvK5CAQBeDVtG8TUilz8cG1hFLLtEzU4IUhux_S_f9PBafg8HEsNT5yufWVaxNOozLjZhfBGhal1LqsKAVHCud-cOJCjd1O7fe7bGrGVby1mhbrERGsHZknu8FqCT3P3oDxfhVBT-OEACBhlhLGAQdgNTuYlEdaQRK85BiPPw6G2k1tZP8ONkcR6u4Lfwi6lc7ike7UXeBkWed03vtFwX3z4DTgti1ymvGbtPtinfhfPbk1LuLqZrc5xp5Cu3dOZE52P83dnMFSCzk9RXLe1lGJokN9UxoewUuOx3M_stqNy5FC0lehI1ILltMREnMR7Ttor1w-JjkviKD-BwAA__8wwHqS"></body></html>

@@ -1,0 +1,10 @@
+---
+subject: "What should I ask Ken Rogoff?"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2025-03-24 15:53:02
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+Yes I will be doing a Conversation with him. He has a new book coming out, namely
+Ken is tenured at Harvard, here is [his Wikipedia page](http://marginalrevolution.com?action=user_content_redirect&uuid=a068905c166295cef9f31dca04d6ee4718a27d6e0e080240a93e3ede265b3d13&blog_id=42693868&post_id=90306&user_id=262258391&subs_id=225460721&signature=c40e3b06d99994f10c053e90f6c1b95e&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvS2VubmV0aF9Sb2dvZmY&email_id=817302c2e6b13b1a160c51b2f84b9f75), here is [Ken on scholar.google.com](http://marginalrevolution.com?action=user_content_redirect&uuid=79058bada4a4cd2b0ed5ca2cc640d76ccb8a705105891c3934892832d2c90ac4&blog_id=42693868&post_id=90306&user_id=262258391&subs_id=225460721&signature=bdba555e9bfa148f17e860cb10016f2c&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly9zY2hvbGFyLmdvb2dsZS5jb20vc2Nob2xhcj9obD1lbiZhc19zZHQ9MCUyQzUmcT1rZW5uZXRoK3JvZ29mZiZidG5HPQ=&email_id=817302c2e6b13b1a160c51b2f84b9f75), here is [o1 pro on Rogoff](http://marginalrevolution.com?action=user_content_redirect&uuid=2784b9a31c865baa30c0ddd49ccd5f2c8b696cf8bbf338fea6881b0619405ea7&blog_id=42693868&post_id=90306&user_id=262258391&subs_id=225460721&signature=21dd0512745b65786287e936aa2713ac&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly9jaGF0Z3B0LmNvbS9zaGFyZS82N2UwMWY4MC00Mjc4LTgwMTAtODMzNy00ZTliMTI4YzAwMGU&email_id=817302c2e6b13b1a160c51b2f84b9f75), and he also holds the title of chess grandmaster.

@@ -1,0 +1,573 @@
+<!doctype html>
+<html>
+    <head>
+        <meta name="viewport" content="width=device-width">
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <!--[if mso]><xml><o:OfficeDocumentSettings><o:PixelsPerInch>96</o:PixelsPerInch><o:AllowPNG/></o:OfficeDocumentSettings></xml><![endif]-->
+        <title>Predicting, and Knowing What to Predict</title>
+        <style>
+.post-title-link {
+  color: #15212A;
+  display: block;
+  text-align: center;
+  margin-top: 50px;
+}
+.post-title-link-left {
+  text-align: left;
+}
+.comment-link {
+  color: #738a94;
+  font-size: 13px;
+  letter-spacing: 0.1px;
+}
+.comment-link img {
+  width: 16px;
+  height: 16px;
+  margin-bottom: 1px;
+  vertical-align: middle;
+}
+.view-online-link {
+  word-wrap: none;
+  white-space: nowrap;
+  color: #738a94;
+}
+.kg-nft-link {
+  display: block;
+  text-decoration: none !important;
+  color: #15212A !important;
+  font-family: inherit !important;
+  font-size: 14px;
+  line-height: 1.3em;
+  padding-top: 4px;
+  padding-right: 20px;
+  padding-left: 20px;
+  padding-bottom: 4px;
+}
+.kg-twitter-link {
+  display: block;
+  text-decoration: none !important;
+  color: #15212A !important;
+  font-family: inherit !important;
+  font-size: 15px;
+  padding: 8px;
+  line-height: 1.3em;
+}
+.kg-audio-link {
+  color: #738a94 !important;
+}
+@media only screen and (max-width: 620px) {
+  table.body {
+    width: 100%;
+    min-width: 100%;
+  }
+
+  .hide-mobile {
+    display: none;
+  }
+
+  .mobile-only {
+    display: initial !important;
+  }
+
+  table.body p,
+table.body ul,
+table.body ol,
+table.body td,
+table.body span {
+    font-size: 16px !important;
+  }
+
+  table.body pre {
+    white-space: pre-wrap !important;
+    word-break: break-word !important;
+  }
+
+  table.body .content {
+    padding: 0 !important;
+  }
+
+  table.body .container {
+    padding: 0 !important;
+    width: 100% !important;
+  }
+
+  table.body .main {
+    border-spacing: 10px 0 !important;
+    border-left-width: 0 !important;
+    border-radius: 0 !important;
+    border-right-width: 0 !important;
+  }
+
+  table.body .btn table {
+    width: 100% !important;
+  }
+
+  table.body .btn a {
+    width: 100% !important;
+  }
+
+  table.body .img-responsive {
+    height: auto !important;
+    max-width: 100% !important;
+    width: auto !important;
+  }
+
+  table.body .site-icon img {
+    width: 40px !important;
+    height: 40px !important;
+  }
+
+  table.body .site-url a {
+    font-size: 14px !important;
+    padding-bottom: 15px !important;
+  }
+
+  table.body .post-meta,
+table.body .post-meta-date {
+    white-space: normal !important;
+    font-size: 12px !important;
+    line-height: 1.5em;
+  }
+
+  table.body .post-meta,
+table.body .view-online {
+    width: 100% !important;
+  }
+
+  table.body .post-meta-left,
+table.body .post-meta-left.view-online {
+    width: 100% !important;
+    text-align: left !important;
+  }
+
+  table.body .post-meta.view-online-mobile {
+    display: table-row !important;
+  }
+
+  table.body .post-meta-left.view-online-mobile,
+table.body .post-meta-left.view-online-mobile .view-online {
+    text-align: left !important;
+  }
+
+  table.body .post-meta.view-online.desktop {
+    display: none !important;
+  }
+
+  table.body .view-online {
+    text-decoration: underline;
+  }
+
+  table.body .view-online-link,
+table.body .comment-link,
+table.body .footer,
+table.body .footer a {
+    font-size: 12px !important;
+  }
+
+  table.body .post-title a {
+    font-size: 32px !important;
+    line-height: 1.15em !important;
+  }
+
+  table.feedback-buttons {
+    display: none !important;
+  }
+
+  table.feedback-buttons-mobile {
+    display: table !important;
+    width: 100% !important;
+    max-width: 390px;
+  }
+
+  table.body .feedback-button-mobile-text {
+    font-size: 13px !important;
+  }
+
+  table.body .latest-posts-header {
+    font-size: 14px !important;
+  }
+
+  table.body .latest-post-img {
+    display: none !important;
+  }
+
+  table.body .latest-post-img-mobile {
+    display: inline-block !important;
+    width: 100%;
+  }
+
+  table.body .latest-post-title {
+    display: inline-block !important;
+    width: 100%;
+    padding-right: 0 !important;
+    padding-bottom: 8px !important;
+  }
+
+  table.body .latest-post h4,
+table.body .latest-post h4 span {
+    padding: 4px 0 !important;
+    font-size: 18px !important;
+  }
+
+  table.body .latest-post p,
+table.body .latest-post p span {
+    font-size: 13px !important;
+    line-height: 1.25em;
+  }
+
+  table.body .subscription-box h3 {
+    font-size: 14px !important;
+  }
+
+  table.body .subscription-box p,
+table.body .subscription-box p span {
+    font-size: 13px !important;
+  }
+
+  table.body .subscription-details,
+table.body .manage-subscription {
+    display: inline-block;
+    width: 100%;
+    text-align: left !important;
+    font-size: 13px !important;
+  }
+
+  table.body .subscription-details {
+    padding-bottom: 12px;
+  }
+
+  table.body .kg-bookmark-card {
+    width: 90vw;
+  }
+
+  table.body .kg-bookmark-thumbnail {
+    display: none !important;
+  }
+
+  table.body .kg-bookmark-metadata span {
+    font-size: 13px !important;
+  }
+
+  table.body .kg-embed-card {
+    max-width: 90vw !important;
+  }
+
+  table.body h1 {
+    font-size: 32px !important;
+    line-height: 1.3em !important;
+  }
+
+  table.body h2 {
+    font-size: 26px !important;
+    line-height: 1.22em !important;
+  }
+
+  table.body h3 {
+    font-size: 21px !important;
+    line-height: 1.25em !important;
+  }
+
+  table.body h4 {
+    font-size: 19px !important;
+    line-height: 1.3em !important;
+  }
+
+  table.body h5 {
+    font-size: 16px !important;
+    line-height: 1.4em !important;
+  }
+
+  table.body h6 {
+    font-size: 16px !important;
+    line-height: 1.4em !important;
+  }
+
+  table.body blockquote {
+    font-size: 17px;
+    line-height: 1.6em;
+    margin-bottom: 0;
+    padding-left: 15px;
+  }
+
+  table.body blockquote.kg-blockquote-alt {
+    border-left: 0 none !important;
+    margin: 0 0 2.5em 0 !important;
+    padding: 0 50px 0 50px !important;
+    font-size: 1.2em;
+  }
+
+  table.body blockquote + * {
+    margin-top: 1.5em !important;
+  }
+
+  table.body hr {
+    margin: 2em 0 !important;
+  }
+
+  table.body figcaption,
+table.body figcaption a {
+    font-size: 13px !important;
+  }
+
+  table.body .kg-header-card.kg-v2 span {
+    font-size: inherit !important;
+  }
+
+  table.body .kg-header-card.kg-v2 .kg-header-card-content {
+    padding-top: 64px !important;
+    padding-bottom: 64px !important;
+  }
+
+  table.body .kg-header-card.kg-v2 .kg-header-card-image + .kg-header-card-content {
+    padding-top: 52px !important;
+    padding-bottom: 52px !important;
+  }
+
+  table.body .kg-header-card.kg-v2 .kg-header-card-heading {
+    font-size: 2.2em !important;
+    line-height: 1.1 !important;
+  }
+
+  table.body .kg-header-card.kg-v2 .kg-header-card-subheading {
+    line-height: 1.3em !important;
+  }
+}
+@media all {
+  .subscription-details p.hidden {
+    display: none !important;
+  }
+
+  .ExternalClass {
+    width: 100%;
+  }
+
+  .ExternalClass,
+.ExternalClass p,
+.ExternalClass span,
+.ExternalClass font,
+.ExternalClass td,
+.ExternalClass div {
+    line-height: 100%;
+  }
+
+  .apple-link a {
+    color: inherit !important;
+    font-family: inherit !important;
+    font-size: inherit !important;
+    font-weight: inherit !important;
+    line-height: inherit !important;
+    text-decoration: none !important;
+  }
+
+  #MessageViewBody a {
+    color: inherit;
+    text-decoration: none;
+    font-size: inherit;
+    font-family: inherit;
+    font-weight: inherit;
+    line-height: inherit;
+  }
+
+  .btn-primary table td:hover {
+    background-color: #34495e !important;
+  }
+
+  .btn-primary a:hover {
+    background-color: #34495e !important;
+    border-color: #34495e !important;
+  }
+}
+</style>
+    </head>
+    <body style="background-color: #fff; font-family: -apple-system, BlinkMacSystemFont, &#39;Segoe UI&#39;, Roboto, Helvetica, Arial, sans-serif, &#39;Apple Color Emoji&#39;, &#39;Segoe UI Emoji&#39;, &#39;Segoe UI Symbol&#39;; -webkit-font-smoothing: antialiased; font-size: 18px; line-height: 1.4; margin: 0; padding: 0; -ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; color: #15212A;"><img width="1px" height="1px" alt="" src="http://email.m.ghost.io/o/eJwkzkFuxSAMBNDTfHZBtgFjFhwGm_wENSlSf3r_Kulq9BajmV6zdkNxa0UuLKkUYLeebRzL6JUTRWBTTiFjAwDEtbA2t1cmkpDNJFor2HJ6N0XrohTRyNCNSkABAQqGJMg-Cpa3cMgdlbLpK8Lpt31-Lj-m-6njs7dvf0-_Imx3epunu6oec1sEYiG49Xt8Lc9Dd9Wn_q-_AAAA__8YADsc">
+        <span class="preheader" style="color: transparent; display: none; height: 0; max-height: 0; max-width: 0; opacity: 0; overflow: hidden; mso-hide: all; visibility: hidden; width: 0;">Plus! FTX Addenda; Slack and M&amp;A Integration; The Global Meme Stock Rally; Shrinkage; The Coasian Border in Ridesharing; Diff Jobs</span>
+        <table role="presentation" border="0" cellpadding="0" cellspacing="0" class="body" width="100%" style="border-collapse: separate; mso-table-lspace: 0pt; mso-table-rspace: 0pt; background-color: #fff; width: 100%;" bgcolor="#fff">
+            <!-- Outlook doesn't respect max-width so we need an extra centered table -->
+            <!--[if mso]>
+            <tr>
+                <td>
+                    <center>
+                        <table border="0" cellpadding="0" cellspacing="0" width="600">
+            <![endif]-->
+            <tr>
+                <td style="font-family: -apple-system, BlinkMacSystemFont, &#39;Segoe UI&#39;, Roboto, Helvetica, Arial, sans-serif, &#39;Apple Color Emoji&#39;, &#39;Segoe UI Emoji&#39;, &#39;Segoe UI Symbol&#39;; font-size: 18px; vertical-align: top; color: #15212A;" valign="top">&#xA0;</td>
+                <td class="container" style="font-family: -apple-system, BlinkMacSystemFont, &#39;Segoe UI&#39;, Roboto, Helvetica, Arial, sans-serif, &#39;Apple Color Emoji&#39;, &#39;Segoe UI Emoji&#39;, &#39;Segoe UI Symbol&#39;; font-size: 18px; vertical-align: top; color: #15212A; display: block; max-width: 600px; margin: 0 auto;" valign="top">
+                    <div class="content" style="box-sizing: border-box; display: block; margin: 0 auto; max-width: 600px;">
+                        <!-- START CENTERED WHITE CONTAINER -->
+                        <table role="presentation" border="0" cellpadding="0" cellspacing="0" class="main" width="100%" style="border-collapse: separate; mso-table-lspace: 0pt; mso-table-rspace: 0pt; background: #ffffff; border-radius: 3px; border-spacing: 20px 0; width: 100%;">
+
+                            <!-- START MAIN CONTENT AREA -->
+                            <tr>
+                                <td class="wrapper" style="font-family: -apple-system, BlinkMacSystemFont, &#39;Segoe UI&#39;, Roboto, Helvetica, Arial, sans-serif, &#39;Apple Color Emoji&#39;, &#39;Segoe UI Emoji&#39;, &#39;Segoe UI Symbol&#39;; font-size: 18px; vertical-align: top; color: #15212A; box-sizing: border-box;" valign="top">
+                                    <table role="presentation" border="0" cellpadding="0" cellspacing="0" width="100%" style="border-collapse: separate; mso-table-lspace: 0pt; mso-table-rspace: 0pt; width: 100%;">
+
+
+                                            <tr>
+                                                <td class="post-title" style="font-family: -apple-system, BlinkMacSystemFont, &#39;Segoe UI&#39;, Roboto, Helvetica, Arial, sans-serif, &#39;Apple Color Emoji&#39;, &#39;Segoe UI Emoji&#39;, &#39;Segoe UI Symbol&#39;; vertical-align: top; color: #15212A; padding-bottom: 16px; font-size: 42px; line-height: 1.1em; font-weight: 700; text-align: center;" valign="top" align="center">
+                                                    <a href="https://www.thediff.co/r/7c224f73?m=f90780fc-498d-4ffe-a546-8a3e61574e99" class="post-title-link" style="text-decoration: none; color: #15212A; display: block; text-align: center; margin-top: 50px; overflow-wrap: anywhere;" target="_blank">Predicting, and Knowing What to Predict</a>
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td style="font-family: -apple-system, BlinkMacSystemFont, &#39;Segoe UI&#39;, Roboto, Helvetica, Arial, sans-serif, &#39;Apple Color Emoji&#39;, &#39;Segoe UI Emoji&#39;, &#39;Segoe UI Symbol&#39;; font-size: 18px; vertical-align: top; color: #15212A; width: 100%;" width="100%" valign="top">
+                                                    <table role="presentation" border="0" cellpadding="0" cellspacing="0" width="100%" style="border-collapse: separate; mso-table-lspace: 0pt; mso-table-rspace: 0pt; width: 100%; padding-bottom: 48px;">
+                                                        <tr>
+                                                            <td height="20" class="post-meta post-meta-center" style="font-family: -apple-system, BlinkMacSystemFont, &#39;Segoe UI&#39;, Roboto, Helvetica, Arial, sans-serif, &#39;Apple Color Emoji&#39;, &#39;Segoe UI Emoji&#39;, &#39;Segoe UI Symbol&#39;; vertical-align: top; color: #738a94; font-size: 13px; letter-spacing: 0.1px; text-align: center; padding: 0;" valign="top" align="center">
+                                                                By Byrne Hobart &#x2022; <span class="post-meta-date" style="white-space: nowrap;">9 Oct 2023 </span>
+                                                                    <a href="https://www.thediff.co/r/5db82a7f?m=f90780fc-498d-4ffe-a546-8a3e61574e99" class="comment-link" valign="middle" style="text-decoration: none; color: #738a94; font-size: 13px; letter-spacing: 0.1px; overflow-wrap: anywhere;" target="_blank">
+                                                                        &#x2022; <img src="https://static.ghost.org/v5.0.0/images/comment-icon.png" border="0" width="16" height="16" alt="Comment" style="border: none; -ms-interpolation-mode: bicubic; max-width: 100%; width: 16px; height: 16px; margin-bottom: 1px; vertical-align: middle;">
+                                                                    </a>
+                                                            </td>
+                                                            <td class="post-meta post-meta-center view-online desktop" style="font-family: -apple-system, BlinkMacSystemFont, &#39;Segoe UI&#39;, Roboto, Helvetica, Arial, sans-serif, &#39;Apple Color Emoji&#39;, &#39;Segoe UI Emoji&#39;, &#39;Segoe UI Symbol&#39;; vertical-align: top; color: #738a94; font-size: 13px; letter-spacing: 0.1px; text-align: center; display: none;" valign="top" align="center">
+                                                                <a href="https://www.thediff.co/r/2e79674d?m=f90780fc-498d-4ffe-a546-8a3e61574e99" class="view-online-link" style="text-decoration: none; word-wrap: none; white-space: nowrap; color: #738a94; overflow-wrap: anywhere;" target="_blank">View in browser</a>
+                                                            </td>
+                                                        </tr>
+                                                        <tr class="post-meta post-meta-center view-online-mobile" style="color: #738a94; font-size: 13px; letter-spacing: 0.1px; text-align: center;" align="center">
+                                                            <td height="20" class="view-online" style="font-family: -apple-system, BlinkMacSystemFont, &#39;Segoe UI&#39;, Roboto, Helvetica, Arial, sans-serif, &#39;Apple Color Emoji&#39;, &#39;Segoe UI Emoji&#39;, &#39;Segoe UI Symbol&#39;; vertical-align: top; color: #738a94; font-size: 13px; letter-spacing: 0.1px; text-align: center; text-decoration: underline;" valign="top" align="center">
+                                                                <a href="https://www.thediff.co/r/3d9b4aad?m=f90780fc-498d-4ffe-a546-8a3e61574e99" class="view-online-link" style="word-wrap: none; white-space: nowrap; color: #738a94; overflow-wrap: anywhere; text-decoration: underline;" target="_blank">View in browser</a>
+                                                            </td>
+                                                        </tr>
+                                                    </table>
+                                                </td>
+                                            </tr>
+
+                                        <tr class="post-content-row">
+                                            <td class="post-content-sans-serif" style="font-family: -apple-system, BlinkMacSystemFont, &#39;Segoe UI&#39;, Roboto, Helvetica, Arial, sans-serif, &#39;Apple Color Emoji&#39;, &#39;Segoe UI Emoji&#39;, &#39;Segoe UI Symbol&#39;; vertical-align: top; font-size: 17px; line-height: 1.5em; color: #15212A; padding-bottom: 20px; border-bottom: 1px solid #e5eff5; max-width: 600px;" valign="top">
+                                                <!-- POST CONTENT START -->
+                                                <p style="margin: 0 0 1.5em 0; line-height: 1.6em;">In this issue:</p><ul style="margin: 0 0 1.5em 0; line-height: 1.6em; padding-left: 1.3em; padding-right: 1.5em; list-style: disc; max-width: 100%;"><li style="margin: 0.5em 0; padding-left: 0.3em; line-height: 1.6em;">Predicting, and Knowing What to Predict</li><li style="margin: 0.5em 0; padding-left: 0.3em; line-height: 1.6em;">FTX Addenda</li><li style="margin: 0.5em 0; padding-left: 0.3em; line-height: 1.6em;">Slack and M&amp;A Integration</li><li style="margin: 0.5em 0; padding-left: 0.3em; line-height: 1.6em;">The Global Meme Stock Rally</li><li style="margin: 0.5em 0; padding-left: 0.3em; line-height: 1.6em;">Shrinkage</li><li style="margin: 0.5em 0; padding-left: 0.3em; line-height: 1.6em;">The Coasian Border in Ridesharing</li><li style="margin: 0.5em 0; padding-left: 0.3em; line-height: 1.6em;">Diff Jobs</li></ul><p style="margin: 0 0 1.5em 0; line-height: 1.6em;">Today&#39;s issue of <em>The Diff</em> is brought to you by <a href="https://www.thediff.co/r/e8364fde?m=f90780fc-498d-4ffe-a546-8a3e61574e99" style="overflow-wrap: anywhere; color: #00A5A3; text-decoration: underline;" target="_blank">Tegus</a>, which provides investors with in-depth research through expert interviews across many sectors.</p><!--kg-card-begin: markdown--><h2 id="predicting-and-knowing-what-to-predict" style="margin-top: 0; font-family: -apple-system, BlinkMacSystemFont, &#39;Segoe UI&#39;, Roboto, Helvetica, Arial, sans-serif, &#39;Apple Color Emoji&#39;, &#39;Segoe UI Emoji&#39;, &#39;Segoe UI Symbol&#39;; line-height: 1.11em; font-weight: 700; text-rendering: optimizeLegibility; margin: 1.5em 0 0.5em 0; font-size: 32px;">Predicting, and Knowing What to Predict</h2>
+<p style="margin: 0 0 1.5em 0; line-height: 1.6em;">(Note: This is adapted from a presentation a few weeks ago at the <a href="https://www.thediff.co/r/8f076367?m=f90780fc-498d-4ffe-a546-8a3e61574e99" style="overflow-wrap: anywhere; color: #00A5A3; text-decoration: underline;" target="_blank">Manifest prediction markets conference</a>. <a href="https://www.thediff.co/r/fc626943?m=f90780fc-498d-4ffe-a546-8a3e61574e99" style="overflow-wrap: anywhere; color: #00A5A3; text-decoration: underline;" target="_blank">This <em>NYT</em> piece on the conference</a> captures much of the flavor of the event.)</p>
+<p style="margin: 0 0 1.5em 0; line-height: 1.6em;">Every time History once again refuses to End, one of the meta questions it raises is: who predicted this? The prediction question is important because violence is the ultimate expression of uncertainty. You don&#39;t start a violent conflict if you&#39;re confident that you&#39;ll lose, and you don&#39;t need to start one if it&#39;s obvious that you&#39;ll win. Actually, one reason for the comparatively peaceful last half of the twentieth century was that the most relevant means of destruction had a quantifiable impact, and both sides were happy to share their exact position. Better information led to less conflict regardless of whether or not anyone wanted such a conflict. So, at least along this axis, a more certain future is a better one.</p>
+<p style="margin: 0 0 1.5em 0; line-height: 1.6em;">Predicting the future is easier with data, and there are two sources of information on what&#39;s coming next that provide real-time quantifiable estimates: traditional asset markets and prediction markets. They&#39;re both useful ways to keep track of geopolitical events, albeit imperfectly. Consider this:</p>
+<p style="margin: 0 0 1.5em 0; line-height: 1.6em;"><img src="https://www.thediff.co/content/images/2023/10/manifold-screenshot.png" alt="manifold-screenshot" loading="lazy" style="border: none; -ms-interpolation-mode: bicubic; max-width: 100%;"></p>
+<p style="margin: 0 0 1.5em 0; line-height: 1.6em;">That looks like a reasonable cadence of events: at the start of the year, the prediction was closely anchored to the low base rate for land wars in Europe, but over time, evidence accumulated and the prediction market moved closer to certainty.</p>
+<p style="margin: 0 0 1.5em 0; line-height: 1.6em;">But that screenshot is, sadly, a case of disinformation promulgated by alternative media outlets. It&#39;s actually a chart of front-month Brent crude futures:</p>
+<p style="margin: 0 0 1.5em 0; line-height: 1.6em;"><img src="https://www.thediff.co/content/images/2023/10/oil-screenshot.png" alt="oil-screenshot" loading="lazy" style="border: none; -ms-interpolation-mode: bicubic; max-width: 100%;"></p>
+<p style="margin: 0 0 1.5em 0; line-height: 1.6em;">And this illustrates some of the tradeoffs of using financial markets as prediction markets. For example, markets affect the outcomes they predict: <a href="https://www.thediff.co/r/bcbc2885?m=f90780fc-498d-4ffe-a546-8a3e61574e99" style="overflow-wrap: anywhere; color: #00A5A3; text-decoration: underline;" target="_blank">the invasion calculation was more favorable to Russia when oil was expensive, since that would make sanctions less damaging and less enforceable</a> ($). The fact that <a href="https://www.thediff.co/r/a2c4abac?m=f90780fc-498d-4ffe-a546-8a3e61574e99" style="overflow-wrap: anywhere; color: #00A5A3; text-decoration: underline;" target="_blank">market prices can change fundamentals</a>&#x2014;a run in AI stocks, for example, will bring a lot more talent to AI companies and will encourage their suppliers to add GPU capacity, collect more data, etc.&#x2014;means that they&#39;re always aiming imprecisely at a moving target. That kind of unstable system consisting of reactions-to-reactions is a feature of plenty of other multiplayer systems, from video games to politics. But it&#39;s frustrating to anyone who wants a precise answer.</p>
+<p style="margin: 0 0 1.5em 0; line-height: 1.6em;">Prediction markets are much, much better at giving people precise answers. They&#39;re also good at conditional answers: a hypothetically valuable set of prediction markets would have included questions like &quot;Conditional on oil going to $x, what are the odds that Russia invades Ukraine in 2023.&quot; This would have illustrated the payoff function quite well.</p>
+<p style="margin: 0 0 1.5em 0; line-height: 1.6em;">But part of the trouble with prediction markets is that very precision. There really isn&#39;t much interest, especially for obscure issues; how much organic demand is there to punt on the question of which board member of Texas&#39; energy grid will step down next? The other, subtler problem is that when someone <em>does</em> have an interest, it&#39;s usually because they have information. If someone starts betting heavily in this market, there&#39;s a tiny chance that they&#39;ve suddenly developed a niche interest, and a very high chance that they have unique information. So a reasonable market-maker needs to quote a very wide market on niche topics. Or they need a market-making subsidy, an approach <a href="https://www.thediff.co/r/0ec2fd01?m=f90780fc-498d-4ffe-a546-8a3e61574e99" style="overflow-wrap: anywhere; color: #00A5A3; text-decoration: underline;" target="_blank">prediction market pioneer Robin Hanson has long advocated</a>.</p>
+<p style="margin: 0 0 1.5em 0; line-height: 1.6em;">Uninformed traders are existing markets&#39; answer to this subsidy problem. And these traders are &quot;uninformed&quot; in different ways and to varying degrees. Some of them are literally gambling, in a way that&#39;s random in the aggregate, but sometimes decidedly non-random, as during the meme stock era. It could also be a portfolio manager passively moving asset allocations around, or it could be the company itself, issuing stock because it needs to pay expenses, or mechanically buying back stock because it&#39;s a tax-efficient way to return capital to shareholders.<sup class="footnote-ref"><a href="https://www.thediff.co/r/b11d8920?m=f90780fc-498d-4ffe-a546-8a3e61574e99" id="fnref1" style="overflow-wrap: anywhere; color: #00A5A3; text-decoration: underline;" target="_blank">[1]</a></sup> In short: if you&#39;re making a market in a liquid financial product, you can expect many of the traders you interact with to trade fairly randomly, and for few of them to have strong information about the immediate direction of the stock.</p>
+<p style="margin: 0 0 1.5em 0; line-height: 1.6em;">That combination results in low transaction costs, and <em>that</em> amounts to a subsidy for time and money spent gathering information. It&#39;s worth figuring out what will move shares of Apple or Nvidia 5%, or even 1%, because the cost of getting in and out is so low. For less liquid assets, the cost of trading essentially represents a tax on informed views. If shares of a company can be sold at $9.50 and bought at $10.50, you can correctly predict a 20% move but only break even after those transaction costs.<sup class="footnote-ref"><a href="https://www.thediff.co/r/f1f3abbf?m=f90780fc-498d-4ffe-a546-8a3e61574e99" id="fnref2" style="overflow-wrap: anywhere; color: #00A5A3; text-decoration: underline;" target="_blank">[2]</a></sup></p>
+<p style="margin: 0 0 1.5em 0; line-height: 1.6em;">A shortage of noise traders is not the only tricky issue. One nice thing about prediction markets is that they allow beliefs to be bet on at arbitrary levels of precision. One prediction market whose price moved a lot over the last few days was called &quot;<a href="https://www.thediff.co/r/a7cb4903?m=f90780fc-498d-4ffe-a546-8a3e61574e99" style="overflow-wrap: anywhere; color: #00A5A3; text-decoration: underline;" target="_blank">Will Nothing Ever Happen By Halloween</a>?&quot;<sup class="footnote-ref"><a href="https://www.thediff.co/r/792cbbf2?m=f90780fc-498d-4ffe-a546-8a3e61574e99" id="fnref3" style="overflow-wrap: anywhere; color: #00A5A3; text-decoration: underline;" target="_blank">[3]</a></sup> That market moved fast, of course. But in this case, there <em>wasn&#39;t</em> a ready market tracking the odds of Hamas launching an attack on Israel. It just wasn&#39;t much on the radar as a specific, salient risk.</p>
+<p style="margin: 0 0 1.5em 0; line-height: 1.6em;">But these markets will always be limited by the attention people pay to issues and the bets they make. It&#39;s hard to enumerate all of the Black Swans out there, even if that&#39;s what makes them Black Swans in the first place. This makes <a href="https://www.thediff.co/r/c3ab7d52?m=f90780fc-498d-4ffe-a546-8a3e61574e99" style="overflow-wrap: anywhere; color: #00A5A3; text-decoration: underline;" target="_blank">the tradition of making a big list of predictions every year</a> a good Schelling Point for periodically thinking about topics that have low odds but might have higher odds than they used to. (Perhaps the thing to subsidize here is prediction markets on events that the average informed bettor might be expected to put 1% odds on, but where the real odds might be more like 5%.)</p>
+<p style="margin: 0 0 1.5em 0; line-height: 1.6em;">Financial markets give precise answers to a subset of questions that, while important to some of the participants, are generally not the big questions on anyone&#39;s mind. &quot;What is the present value of the future cash flows generated by Nvidia?&quot; To put it in prediction market and smart contract terms, they have a built in oracle in the form of the cash flows from stocks and bonds, and the delivery of commodities.</p>
+<p style="margin: 0 0 1.5em 0; line-height: 1.6em;">But that means they&#39;re intrinsically limited to the class of problems whose answers can be defined in cash flow terms: &quot;what&#39;s the present value of future Tesla cash flows?&quot; is a question that will ultimately be answered by those cash flows, whereas &quot;is the cybertruck too ugly to succeed?&quot; is not. This question gets answered implicitly and noisily by Tesla&#x2019;s share price, but it&#x2019;s hard to disaggregate the random moves in the stock from response to specific questions. So equity and bond markets end up being a decent cross-section of many parts of the economy, though they underweight businesses that are naturally fragmented or have low capital needs.<sup class="footnote-ref"><a href="https://www.thediff.co/r/53293cc8?m=f90780fc-498d-4ffe-a546-8a3e61574e99" id="fnref4" style="overflow-wrap: anywhere; color: #00A5A3; text-decoration: underline;" target="_blank">[4]</a></sup> But they don&#39;t address most of the open questions.</p>
+<p style="margin: 0 0 1.5em 0; line-height: 1.6em;">They are adaptive, however; financial markets will quickly answer the question &quot;what does this event change about the state of the world, as measured by cash flows from companies and the supply/demand balance of commodities and currency?&quot; very quickly and generally efficiently. And that is a useful question to ask&#x2014;if nothing else, it&#39;s a good way to do a quick Nothingburger Test on any given scary headline, by asking if the market reacted to it much.<sup class="footnote-ref"><a href="https://www.thediff.co/r/2e2c2cda?m=f90780fc-498d-4ffe-a546-8a3e61574e99" id="fnref5" style="overflow-wrap: anywhere; color: #00A5A3; text-decoration: underline;" target="_blank">[5]</a></sup> For prediction markets to fill this function for the many, many specific questions for which an accurate answer is valuable, they need to cultivate a population of noise traders. Being well-informed pays in proportion to how many uninformed counterparties are willing to bet with you, so in the end gambling becomes a subsidy for certainty about the future.</p>
+<hr class="footnotes-sep" style="position: relative; display: block; width: 100%; margin: 3em 0; padding: 0; height: 1px; border: 0; border-top: 1px solid #e5eff5;">
+<section class="footnotes">
+<ol class="footnotes-list" style="margin: 0 0 1.5em 0; line-height: 1.6em; padding-left: 1.3em; padding-right: 1.5em; list-style: decimal; max-width: 100%;">
+<li id="fn1" class="footnote-item" style="margin: 0.5em 0; padding-left: 0.3em; line-height: 1.6em;"><p style="margin: 0 0 1.5em 0; line-height: 1.6em;">And if we expand capital allocation to include money as well as time, we can even say that professional investors are a sort of noise trader: imagine one person who devotes 60-80 hours a week for their entire career to painstakingly tracking all the economic drivers that determine company performance in, say, the auto parts sector. All that effort ends up adding a basis point or two to the returns of some other investor who puts their money in index funds because they want to enjoy a relaxing retirement without worrying too much about how they&#39;ll pay for it. By the second trader&#39;s standard, the first one is valuation-insensitive with respect to their <em>time</em>, even though they&#39;re keenly aware of which company should trade at 6x EBITDA and which should be at 5.5x. <a href="https://www.thediff.co/r/ed7f3dbc?m=f90780fc-498d-4ffe-a546-8a3e61574e99" class="footnote-backref" style="overflow-wrap: anywhere; color: #00A5A3; text-decoration: underline;" target="_blank">&#x21A9;&#xFE0E;</a></p>
+</li>
+<li id="fn2" class="footnote-item" style="margin: 0.5em 0; padding-left: 0.3em; line-height: 1.6em;"><p style="margin: 0 0 1.5em 0; line-height: 1.6em;">Of course, you could use limit orders in this scenario, but in that case you&#39;re trading time for money: if your prediction comes true before you finish making the trade, you still lost. You&#x2019;re also leaking information, and a market-maker might increase their bid in response. <a href="https://www.thediff.co/r/61f21d99?m=f90780fc-498d-4ffe-a546-8a3e61574e99" class="footnote-backref" style="overflow-wrap: anywhere; color: #00A5A3; text-decoration: underline;" target="_blank">&#x21A9;&#xFE0E;</a></p>
+</li>
+<li id="fn3" class="footnote-item" style="margin: 0.5em 0; padding-left: 0.3em; line-height: 1.6em;"><p style="margin: 0 0 1.5em 0; line-height: 1.6em;">&quot;Nothing Ever Happens&quot; is a shorthand for the view that the long-term importance of most widely-discussed events is far overrated at the time. Sometimes, of course, Something Happens: it was a big deal when people in Wuhan started getting sick, but it would have been very easy to scroll past <a href="https://www.thediff.co/r/6bda2474?m=f90780fc-498d-4ffe-a546-8a3e61574e99" style="overflow-wrap: anywhere; color: #00A5A3; text-decoration: underline;" target="_blank">this AP story from January 7th, 2020</a> without a second thought. The Nothing Ever Happens hypothesis isn&#39;t that there are literally no world-altering events&#x2014;after all, we live in a world that&#39;s been substantially altered from its starting conditions&#x2014;but that you could probably trawl through news stories from the first week of January 2020 and find a hundred different topics that seemed at the time like a bigger deal. <a href="https://www.thediff.co/r/a81eea2f?m=f90780fc-498d-4ffe-a546-8a3e61574e99" class="footnote-backref" style="overflow-wrap: anywhere; color: #00A5A3; text-decoration: underline;" target="_blank">&#x21A9;&#xFE0E;</a></p>
+</li>
+<li id="fn4" class="footnote-item" style="margin: 0.5em 0; padding-left: 0.3em; line-height: 1.6em;"><p style="margin: 0 0 1.5em 0; line-height: 1.6em;">Yes, <a href="https://www.thediff.co/r/1e2daea4?m=f90780fc-498d-4ffe-a546-8a3e61574e99" style="overflow-wrap: anywhere; color: #00A5A3; text-decoration: underline;" target="_blank">capital intensity is a trait of the cycle rather than just the industry</a>, but there are some kinds of companies that have an attention bottleneck rather than a capital bottleneck, like consulting, law, accounting, and, oddly enough, proprietary trading. For these companies, there&#39;s no question that they can pay employees reasonable compensation, in cash, and thus don&#39;t need to capitalize their future profits, turn them into equity, and pay employees that way. These companies also generally don&#39;t want the distraction of preparing to go public and then answering to public shareholders. If they&#39;re private partnerships, their shareholder base is dominated by people who understand the business and like the company. Why add hedge funds to the mix? <a href="https://www.thediff.co/r/9a2ca4d2?m=f90780fc-498d-4ffe-a546-8a3e61574e99" class="footnote-backref" style="overflow-wrap: anywhere; color: #00A5A3; text-decoration: underline;" target="_blank">&#x21A9;&#xFE0E;</a></p>
+</li>
+<li id="fn5" class="footnote-item" style="margin: 0.5em 0; padding-left: 0.3em; line-height: 1.6em;"><p style="margin: 0 0 1.5em 0; line-height: 1.6em;">This is not infallible; crashes happen when markets underreact to risk for a long time and then overreact all at once. But it is good for addressing the credibility of claims about vast second-order impacts from specific headlines. <a href="https://www.thediff.co/r/f22933ce?m=f90780fc-498d-4ffe-a546-8a3e61574e99" class="footnote-backref" style="overflow-wrap: anywhere; color: #00A5A3; text-decoration: underline;" target="_blank">&#x21A9;&#xFE0E;</a></p>
+</li>
+</ol>
+</section>
+<!--kg-card-end: markdown--><div class="align-center" style="text-align: center;"><hr style="position: relative; display: block; width: 100%; margin: 3em 0; padding: 0; height: 1px; border: 0; border-top: 1px solid #e5eff5;"><p style="margin: 0 0 1.5em 0; line-height: 1.6em;">You&#39;re on the free list for <em>The Diff</em>. This week, paying subscribers read about <a href="https://www.thediff.co/r/0628ab31?m=f90780fc-498d-4ffe-a546-8a3e61574e99" style="overflow-wrap: anywhere; color: #00A5A3; text-decoration: underline;" target="_blank">what inline LLM answers change about AI and search</a> ($), a <a href="https://www.thediff.co/r/5caa6d17?m=f90780fc-498d-4ffe-a546-8a3e61574e99" style="overflow-wrap: anywhere; color: #00A5A3; text-decoration: underline;" target="_blank">review of <em>Going Infinite</em> with thoughts on how Michael Lewis works</a> ($), and <a href="https://www.thediff.co/r/5183a48b?m=f90780fc-498d-4ffe-a546-8a3e61574e99" style="overflow-wrap: anywhere; color: #00A5A3; text-decoration: underline;" target="_blank">thoughts on why Affirm doesn&#39;t pattern-match to the usual suprime cycle</a> ($).</p><p style="margin: 0 0 1.5em 0; line-height: 1.6em;"></p><div class="btn btn-accent" style="box-sizing: border-box; width: 100%; display: table;"><table border="0" cellspacing="0" cellpadding="0" align="center" style="border-collapse: separate; mso-table-lspace: 0pt; mso-table-rspace: 0pt; width: auto;" width="auto"><tr><td align="center" style="font-family: -apple-system, BlinkMacSystemFont, &#39;Segoe UI&#39;, Roboto, Helvetica, Arial, sans-serif, &#39;Apple Color Emoji&#39;, &#39;Segoe UI Emoji&#39;, &#39;Segoe UI Symbol&#39;; font-size: 18px; vertical-align: top; color: #15212A; border-radius: 5px; text-align: center; background-color: #00A5A3;" valign="top" bgcolor="#00A5A3"><a href="https://www.thediff.co/r/35f4d52d?m=f90780fc-498d-4ffe-a546-8a3e61574e99" style="overflow-wrap: anywhere; border: solid 1px #3498db; border-radius: 5px; box-sizing: border-box; cursor: pointer; display: inline-block; font-size: 14px; font-weight: bold; margin: 0; padding: 12px 25px; text-decoration: none; background-color: #00A5A3; border-color: #00A5A3; color: #FFFFFF;" target="_blank">Unlock the Full Newsletter</a></td></tr></table></div><p style="margin: 0 0 1.5em 0; line-height: 1.6em;"></p><hr style="position: relative; display: block; width: 100%; margin: 3em 0; padding: 0; height: 1px; border: 0; border-top: 1px solid #e5eff5;"></div><p style="margin: 0 0 1.5em 0; line-height: 1.6em;">And as an occasional reminder, <em>The Diff</em> has an associated AngelList syndicate. You can <a href="https://www.thediff.co/r/606727ea?m=f90780fc-498d-4ffe-a546-8a3e61574e99" style="overflow-wrap: anywhere; color: #00A5A3; text-decoration: underline;" target="_blank">sign up for it here</a> to learn about early-stage companies raising through the <em>Diff</em> network. Signing up is free and investments are made one deal at a time.</p><h2 id="a-word-from-our-sponsors" style="margin-top: 0; font-family: -apple-system, BlinkMacSystemFont, &#39;Segoe UI&#39;, Roboto, Helvetica, Arial, sans-serif, &#39;Apple Color Emoji&#39;, &#39;Segoe UI Emoji&#39;, &#39;Segoe UI Symbol&#39;; line-height: 1.11em; font-weight: 700; text-rendering: optimizeLegibility; margin: 1.5em 0 0.5em 0; font-size: 32px;">A Word From Our Sponsors</h2><div class="kg-card kg-image-card" style="margin: 0 0 1.5em; padding: 0;"><a href="https://www.thediff.co/r/77a7d004?m=f90780fc-498d-4ffe-a546-8a3e61574e99" style="overflow-wrap: anywhere; color: #00A5A3; text-decoration: underline;" target="_blank"><img src="https://www.thediff.co/content/images/2023/10/Newsletter-Static---AI-2.png" class="kg-image" alt loading="lazy" width="600" height="300" style="border: none; -ms-interpolation-mode: bicubic; max-width: 100%; display: block; margin: 0 auto; width: auto; height: auto;"></a></div><p style="margin: 0 0 1.5em 0; line-height: 1.6em;">Manual search and data collection means time you&#x2019;re NOT spending drawing insights, gaining perspective and making bold investment decisions. Let Tegus do the busy work for you.</p><p style="margin: 0 0 1.5em 0; line-height: 1.6em;">Powerful AI and machine learning algorithms summarize each expert transcript to put key questions and themes front and center. And you get deep-dives into a single company, industry, or trend with auto-tagging across transcripts.Get better insights &#x2014; faster &#x2014; with Tegus&#x2019; latest innovations in AI. </p><p style="margin: 0 0 1.5em 0; line-height: 1.6em;"></p><div class="btn btn-accent" style="box-sizing: border-box; width: 100%; display: table;"><table border="0" cellspacing="0" cellpadding="0" align="center" style="border-collapse: separate; mso-table-lspace: 0pt; mso-table-rspace: 0pt; width: auto;" width="auto"><tr><td align="center" style="font-family: -apple-system, BlinkMacSystemFont, &#39;Segoe UI&#39;, Roboto, Helvetica, Arial, sans-serif, &#39;Apple Color Emoji&#39;, &#39;Segoe UI Emoji&#39;, &#39;Segoe UI Symbol&#39;; font-size: 18px; vertical-align: top; color: #15212A; border-radius: 5px; text-align: center; background-color: #00A5A3;" valign="top" bgcolor="#00A5A3"><a href="https://www.thediff.co/r/7f04e30e?m=f90780fc-498d-4ffe-a546-8a3e61574e99" style="overflow-wrap: anywhere; border: solid 1px #3498db; border-radius: 5px; box-sizing: border-box; cursor: pointer; display: inline-block; font-size: 14px; font-weight: bold; margin: 0; padding: 12px 25px; text-decoration: none; background-color: #00A5A3; border-color: #00A5A3; color: #FFFFFF;" target="_blank">Try Tegus for Free Today</a></td></tr></table></div><p style="margin: 0 0 1.5em 0; line-height: 1.6em;"></p><!--kg-card-begin: markdown--><h2 id="elsewhere" style="margin-top: 0; font-family: -apple-system, BlinkMacSystemFont, &#39;Segoe UI&#39;, Roboto, Helvetica, Arial, sans-serif, &#39;Apple Color Emoji&#39;, &#39;Segoe UI Emoji&#39;, &#39;Segoe UI Symbol&#39;; line-height: 1.11em; font-weight: 700; text-rendering: optimizeLegibility; margin: 1.5em 0 0.5em 0; font-size: 32px;">Elsewhere</h2>
+<h3 id="ftx-addenda" style="margin-top: 0; font-family: -apple-system, BlinkMacSystemFont, &#39;Segoe UI&#39;, Roboto, Helvetica, Arial, sans-serif, &#39;Apple Color Emoji&#39;, &#39;Segoe UI Emoji&#39;, &#39;Segoe UI Symbol&#39;; line-height: 1.11em; font-weight: 700; text-rendering: optimizeLegibility; margin: 1.5em 0 0.5em 0; font-size: 26px;">FTX Addenda</h3>
+<p style="margin: 0 0 1.5em 0; line-height: 1.6em;"><em>The Diff</em> is generally not in the habit of providing ongoing coverage of big news stories, both because there&#39;s lots of competition and because the interesting questions tend to arise either on day one or months to years after the fact. But sometimes there&#39;s enough ongoing news flow to justify continued coverage.</p>
+<p style="margin: 0 0 1.5em 0; line-height: 1.6em;"><a href="https://www.thediff.co/r/39100576?m=f90780fc-498d-4ffe-a546-8a3e61574e99" style="overflow-wrap: anywhere; color: #00A5A3; text-decoration: underline;" target="_blank">This section of the testimony</a> helps explain one of the big FTX questions: where did the money go? I&#39;ve handwaved this a bit, because obviously FTX ran out of money and clearly Alameda had access to FTX&#39;s money and spent a lot of it. But one lingering question is how the gap got as big as it did: I&#39;d wondered if FTX was continuously borrowing to expand its directional trades, borrowing against directional trades to fund all of its market-making, or something else. But one answer is that in cases where an FTX customer lost more than 100% of their equity, Alameda was taking the loss.</p>
+<p style="margin: 0 0 1.5em 0; line-height: 1.6em;">Part of the original pitch for FTX was that when exchanges offered levered products, sometimes customers on one side of a trade got wiped out. If you&#39;re long a 20:1 Doge futures contract and Doge goes up 10%, you&#39;ve tripled your money, but the seller&#39;s loss is twice their initial equity. The old system was that some of your profits would be clawed back. But if Alameda steps in and retroactively buys all the Doge down 5%, you don&#39;t get clawed back. But now Alameda&#39;s balance can go negative! The net effect of all of this is that an exchange that offers futures and does its own clearing can, indeed, experience a run on the bank, and not necessarily one that coincides with customer losses. Instead, it can bleed a little liquidity every time it takes on a bad trade.</p>
+<p style="margin: 0 0 1.5em 0; line-height: 1.6em;">This raises more follow-up questions, though:</p>
+<ol style="margin: 0 0 1.5em 0; line-height: 1.6em; padding-left: 1.3em; padding-right: 1.5em; list-style: decimal; max-width: 100%;">
+<li style="margin: 0.5em 0; padding-left: 0.3em; line-height: 1.6em;">If competing exchanges were clawing back profits when traders blew up, why didn&#39;t FTX just offer a level of leverage that made this avoidable? One answer is that all of the insurance fund stuff was for show, and that they really expected to run an exchange that had negative profits once it ate losses from large market swings. Another possibility is that they honestly thought this was the right business decision: they&#39;d attract volume with high-leverage contracts that appealed to small speculators, but eventually get dominant market share with customers of all sizes, at which point the crypto market would function more smoothly and these blowups wouldn&#39;t happen. (A decent fraction of accounting frauds start with a one-time effort to delay recognizing a loss, but this snowballs over time: target a higher level of return than you can earn with a given level of risk, or a lower amount of risk than is required to hit your target return, and you&#39;re fundamentally running a martingale strategy that will eventually blow up.)</li>
+<li style="margin: 0.5em 0; padding-left: 0.3em; line-height: 1.6em;">Will winning traders get their profits clawed back? One story from the trial is that someone exploited a bug in FTX&#39;s margin calculation, and took a huge position in Mobilecoin, and that Alameda ended up making good on the losses when this counterparty blew up. If the traders who bet against Mobilecoin made money, and they withdrew some of those profits, then the money they withdrew really belonged to other FTX customers: the insurance fund was wiped out, and the standard procedure for other exchanges was that the winning side of the trade wouldn&#39;t collect all of their winnings. FTX&#39;s lackadaisical attitude towards corporate records means that there&#39;s a chance these people won&#39;t ever be tracked down, but they are the (presumably accidental) recipients of the proceeds of fraud.</li>
+</ol>
+<h3 id="slack-and-ma-integration" style="margin-top: 0; font-family: -apple-system, BlinkMacSystemFont, &#39;Segoe UI&#39;, Roboto, Helvetica, Arial, sans-serif, &#39;Apple Color Emoji&#39;, &#39;Segoe UI Emoji&#39;, &#39;Segoe UI Symbol&#39;; line-height: 1.11em; font-weight: 700; text-rendering: optimizeLegibility; margin: 1.5em 0 0.5em 0; font-size: 26px;">Slack and M&amp;A Integration</h3>
+<p style="margin: 0 0 1.5em 0; line-height: 1.6em;">Slack employees are <a href="https://www.thediff.co/r/719c2697?m=f90780fc-498d-4ffe-a546-8a3e61574e99" style="overflow-wrap: anywhere; color: #00A5A3; text-decoration: underline;" target="_blank">being strongly encouraged to take time off their regular duties in order to use a training tool built by their parent company, Salesforce</a>. This story has lots of the classic grumbles about mandatory corporate training (&quot;Two sources told <em>Fortune</em> that many Slack engineers have found workarounds via scripts, code that can be quickly built to automate a task, to click through the modules for them&quot;). But it&#39;s also an interesting statement about how hard it is to integrate acquisitions with a parent company. If Slack would run the same way inside Salesforce as out of it, M&amp;A isn&#39;t really necessary; it can&#39;t be easier and cheaper to buy the entire company than to come up with a reasonable split for some kind of long-term cross-selling deal. So the newly-acquired company needs to be run differently than when it was independent in order to justify the purchase. But that limits acquirers based on the culture fit of what they&#39;re buying, or their willingness to lose employees who wanted to work at a company like Slack rather than a company like Salesforce.</p>
+<h3 id="the-global-meme-stock-rally" style="margin-top: 0; font-family: -apple-system, BlinkMacSystemFont, &#39;Segoe UI&#39;, Roboto, Helvetica, Arial, sans-serif, &#39;Apple Color Emoji&#39;, &#39;Segoe UI Emoji&#39;, &#39;Segoe UI Symbol&#39;; line-height: 1.11em; font-weight: 700; text-rendering: optimizeLegibility; margin: 1.5em 0 0.5em 0; font-size: 26px;">The Global Meme Stock Rally</h3>
+<p style="margin: 0 0 1.5em 0; line-height: 1.6em;">Financial trends in one country sometimes have an echo boom in a different market, because the same thesis or phenomenon can be applied to local circumstances; about two years after the wild bull market in US Internet stocks ended, there was a relatively larger one in the handful of US-traded Chinese Internet companies. (NetEase rose 38x from the beginning of 2002 to the end of 2003, and while Sina and Sohu are no longer listed, they also had extremely strong performance in this period.) It&#39;s been a few years since meme stocks were the dominant US financial headline, but <a href="https://www.thediff.co/r/8fe913af?m=f90780fc-498d-4ffe-a546-8a3e61574e99" style="overflow-wrap: anywhere; color: #00A5A3; text-decoration: underline;" target="_blank">now small-cap stocks, especially shares of highly levered companies, are outperforming in India, partly driven by investor discussions in WhatsApp groups</a> ($, <em>FT</em>). Compared to Reddit, WhatsApp doesn&#39;t have nearly the same level of public visibility; hedge funds could and did (and do) monitor chatter on Reddit and Twitter to see if retail investors are getting excited about a highly-shorted stock. If the discussions are in smaller groups that aren&#39;t necessarily open, that could crimp virality a bit but reduces legibility more. And, of course, if a stock is being promoted on an app that&#39;s also used for urgent communications, the spread can be every bit as viral, especially if by the time a recipient gets the message, the stock is already moving.</p>
+<h3 id="shrinkage" style="margin-top: 0; font-family: -apple-system, BlinkMacSystemFont, &#39;Segoe UI&#39;, Roboto, Helvetica, Arial, sans-serif, &#39;Apple Color Emoji&#39;, &#39;Segoe UI Emoji&#39;, &#39;Segoe UI Symbol&#39;; line-height: 1.11em; font-weight: 700; text-rendering: optimizeLegibility; margin: 1.5em 0 0.5em 0; font-size: 26px;">Shrinkage</h3>
+<p style="margin: 0 0 1.5em 0; line-height: 1.6em;">Home Depot <a href="https://www.thediff.co/r/43a54597?m=f90780fc-498d-4ffe-a546-8a3e61574e99" style="overflow-wrap: anywhere; color: #00A5A3; text-decoration: underline;" target="_blank">tracked some retail thefts to a fence who was running an addiction recovery center</a> ($, <em>WSJ</em>). One hypothesis on shrinkage is that it&#39;s gotten more systematic as it&#39;s gotten easier to sell stolen goods online. Marketplaces that allow third-party merchants represent an easy venue for selling some goods, and that ends up encouraging the regular theft of the same high-margin products. But what it also does is create a central node in the network that&#39;s easier to track and disrupt. As in many legitimate businesses, any operation that scales fast by relying on someone else&#39;s network can see their business collapse just as fast when the host network changes the incentives.</p>
+<h3 id="the-coasian-border-in-ridesharing" style="margin-top: 0; font-family: -apple-system, BlinkMacSystemFont, &#39;Segoe UI&#39;, Roboto, Helvetica, Arial, sans-serif, &#39;Apple Color Emoji&#39;, &#39;Segoe UI Emoji&#39;, &#39;Segoe UI Symbol&#39;; line-height: 1.11em; font-weight: 700; text-rendering: optimizeLegibility; margin: 1.5em 0 0.5em 0; font-size: 26px;">The Coasian Border in Ridesharing</h3>
+<p style="margin: 0 0 1.5em 0; line-height: 1.6em;">A small ridesharing company, Alto, <a href="https://www.thediff.co/r/18af9cfe?m=f90780fc-498d-4ffe-a546-8a3e61574e99" style="overflow-wrap: anywhere; color: #00A5A3; text-decoration: underline;" target="_blank">competes with Uber and Lyft by providing employees with regular schedules and flat hourly rates</a>. This is a move some of the larger ridesharing companies have made when it&#39;s legally mandated, and it&#39;s interesting to look at what incentive changes are downstream from this:</p>
+<ul style="margin: 0 0 1.5em 0; line-height: 1.6em; padding-left: 1.3em; padding-right: 1.5em; list-style: disc; max-width: 100%;">
+<li style="margin: 0.5em 0; padding-left: 0.3em; line-height: 1.6em;">The writer of the piece takes a ride, and at one point the driver (using Alto&#39;s maps) goes in the wrong direction. &quot;For an Uber driver, it would have been a major setback, potentially altering the amount of money the trip would pay. But Mr. Arndt just shrugged &#x2014; it was no problem &#x2014; and began navigating toward downtown.&quot;</li>
+<li style="margin: 0.5em 0; padding-left: 0.3em; line-height: 1.6em;">The cost of a trip from the airport is about double what Uber charges.</li>
+<li style="margin: 0.5em 0; padding-left: 0.3em; line-height: 1.6em;">Alto offers a 30% discount for people who pay a monthly subscription (Uber&#39;s membership offers an unspecified discount on rides, but it&#39;s probably not 30%).</li>
+<li style="margin: 0.5em 0; padding-left: 0.3em; line-height: 1.6em;">Alto provides vehicles and uniforms for drivers instead of asking them to bring their own.</li>
+</ul>
+<p style="margin: 0 0 1.5em 0; line-height: 1.6em;">So the shift to a model closer to a scheduled service ends up reducing driver utilization, and ultimately utilization is what drives revenue per hour, which sets a maximum long-term wage for drivers. The gig worker model has many annoyances, but it tends to offer the lowest price for passengers and to be the high bidder for drivers.</p>
+<!--kg-card-end: markdown--><h2 id="diff-jobs" style="margin-top: 0; font-family: -apple-system, BlinkMacSystemFont, &#39;Segoe UI&#39;, Roboto, Helvetica, Arial, sans-serif, &#39;Apple Color Emoji&#39;, &#39;Segoe UI Emoji&#39;, &#39;Segoe UI Symbol&#39;; line-height: 1.11em; font-weight: 700; text-rendering: optimizeLegibility; margin: 1.5em 0 0.5em 0; font-size: 32px;"><strong style="font-weight: 800;">Diff Jobs</strong></h2><p style="margin: 0 0 1.5em 0; line-height: 1.6em;">Companies in the <em>Diff</em> network are actively looking for talent. A sampling of current open roles:</p><ul style="margin: 0 0 1.5em 0; line-height: 1.6em; padding-left: 1.3em; padding-right: 1.5em; list-style: disc; max-width: 100%;"><li style="margin: 0.5em 0; padding-left: 0.3em; line-height: 1.6em;">A well funded seed stage startup founded by former SpaceX engineers is building software tools for hardware engineering. They&#39;re looking for a full stack engineer interested in developing highly scalable mission-critical tools for satellites, rockets, and other complex machines. (Los Angeles)</li><li style="margin: 0.5em 0; padding-left: 0.3em; line-height: 1.6em;">A company reinventing the way Americans build wealth for the long-run by enabling them to access &quot;Universal Basic Capital&quot; is looking for a GTM / growth lead. (NYC)</li><li style="margin: 0.5em 0; padding-left: 0.3em; line-height: 1.6em;">A data consultancy is looking for a senior data scientist with prior experience in marketing data science and e-commerce. (NYC)</li><li style="margin: 0.5em 0; padding-left: 0.3em; line-height: 1.6em;">A startup building a new financial market within a multi-trillion dollar asset class is looking for generalists with banking and legal experience. (US, Remote)</li><li style="margin: 0.5em 0; padding-left: 0.3em; line-height: 1.6em;">A crypto proprietary trading firm is actively seeking systematic-oriented traders with crypto experience&#x2014;ideally someone with experience across a variety of exchanges and tokens. (Remote)</li></ul><p style="margin: 0 0 1.5em 0; line-height: 1.6em;">Even if you don&#39;t see an exact match for your skills and interests right now, we&#39;re happy to talk early so we can let you know if a good opportunity comes up.</p><p style="margin: 0 0 1.5em 0; line-height: 1.6em;"></p><div class="btn btn-accent" style="box-sizing: border-box; width: 100%; display: table;"><table border="0" cellspacing="0" cellpadding="0" align="center" style="border-collapse: separate; mso-table-lspace: 0pt; mso-table-rspace: 0pt; width: auto;" width="auto"><tr><td align="center" style="font-family: -apple-system, BlinkMacSystemFont, &#39;Segoe UI&#39;, Roboto, Helvetica, Arial, sans-serif, &#39;Apple Color Emoji&#39;, &#39;Segoe UI Emoji&#39;, &#39;Segoe UI Symbol&#39;; font-size: 18px; vertical-align: top; color: #15212A; border-radius: 5px; text-align: center; background-color: #00A5A3;" valign="top" bgcolor="#00A5A3"><a href="https://www.thediff.co/r/4d2fcd28?m=f90780fc-498d-4ffe-a546-8a3e61574e99" style="overflow-wrap: anywhere; border: solid 1px #3498db; border-radius: 5px; box-sizing: border-box; cursor: pointer; display: inline-block; font-size: 14px; font-weight: bold; margin: 0; padding: 12px 25px; text-decoration: none; background-color: #00A5A3; border-color: #00A5A3; color: #FFFFFF;" target="_blank">Find a Role</a></td></tr></table></div><p style="margin: 0 0 1.5em 0; line-height: 1.6em;"></p><p style="margin: 0 0 1.5em 0; line-height: 1.6em;">If you&#x2019;re at a company that&#39;s looking for talent, we should talk! Diff Jobs works with companies across fintech, hard tech, consumer software, enterprise software, and other areas&#x2014;any company where finding unusually effective people is a top priority.</p><p style="margin: 0 0 1.5em 0; line-height: 1.6em;"></p><div class="btn btn-accent" style="box-sizing: border-box; width: 100%; display: table;"><table border="0" cellspacing="0" cellpadding="0" align="center" style="border-collapse: separate; mso-table-lspace: 0pt; mso-table-rspace: 0pt; width: auto;" width="auto"><tr><td align="center" style="font-family: -apple-system, BlinkMacSystemFont, &#39;Segoe UI&#39;, Roboto, Helvetica, Arial, sans-serif, &#39;Apple Color Emoji&#39;, &#39;Segoe UI Emoji&#39;, &#39;Segoe UI Symbol&#39;; font-size: 18px; vertical-align: top; color: #15212A; border-radius: 5px; text-align: center; background-color: #00A5A3;" valign="top" bgcolor="#00A5A3"><a href="https://www.thediff.co/r/ad3e46fb?m=f90780fc-498d-4ffe-a546-8a3e61574e99" style="overflow-wrap: anywhere; border: solid 1px #3498db; border-radius: 5px; box-sizing: border-box; cursor: pointer; display: inline-block; font-size: 14px; font-weight: bold; margin: 0; padding: 12px 25px; text-decoration: none; background-color: #00A5A3; border-color: #00A5A3; color: #FFFFFF;" target="_blank">Find Talent with Diff Jobs</a></td></tr></table></div><p style="margin: 0 0 1.5em 0; line-height: 1.6em;"></p>
+                                                <!-- POST CONTENT END -->
+
+                                            </td>
+                                        </tr>
+                                    </table>
+                                </td>
+                            </tr>
+
+                            <!-- END MAIN CONTENT AREA -->
+
+                                <tr>
+                                    <td dir="ltr" width="100%" style="font-family: -apple-system, BlinkMacSystemFont, &#39;Segoe UI&#39;, Roboto, Helvetica, Arial, sans-serif, &#39;Apple Color Emoji&#39;, &#39;Segoe UI Emoji&#39;, &#39;Segoe UI Symbol&#39;; font-size: 18px; vertical-align: top; color: #15212A; background-color: #ffffff; text-align: center; padding: 32px 0 24px; border-bottom: 1px solid #e5eff5;" align="center" bgcolor="#ffffff" valign="top">
+                                        <table class="feedback-buttons" role="presentation" border="0" cellpadding="0" cellspacing="0" style="border-collapse: separate; mso-table-lspace: 0pt; mso-table-rspace: 0pt; margin: auto; width: auto;" width="auto">
+                                            <tr>
+                                                    <td dir="ltr" valign="top" align="center" style="color: #15212A; display: inline-block; vertical-align: top; font-family: inherit; font-size: 14px; text-align: center; padding: 0 4px 4px; cursor: pointer;" nowrap>
+                                                        <a href="https://www.thediff.co/archive/predicting-and-knowing-what-to-predict/#/feedback/6524049c65371a00011e9663/1/?uuid=f90780fc-498d-4ffe-a546-8a3e61574e99" target="_blank" style="color: #00A5A3; text-decoration: none; overflow-wrap: anywhere;">
+                                                            <img src="https://static.ghost.org/v5.0.0/images/more-like-this.png" border="0" width="145" height="36" alt="More like this" style="border: none; -ms-interpolation-mode: bicubic; max-width: 100%;">
+                                                        </a>
+                                                    </td>                                                    <td dir="ltr" valign="top" align="center" style="color: #15212A; display: inline-block; vertical-align: top; font-family: inherit; font-size: 14px; text-align: center; padding: 0 4px 4px; cursor: pointer;" nowrap>
+                                                        <a href="https://www.thediff.co/archive/predicting-and-knowing-what-to-predict/#/feedback/6524049c65371a00011e9663/0/?uuid=f90780fc-498d-4ffe-a546-8a3e61574e99" target="_blank" style="color: #00A5A3; text-decoration: none; overflow-wrap: anywhere;">
+                                                            <img src="https://static.ghost.org/v5.0.0/images/less-like-this.png" border="0" width="142" height="36" alt="Less like this" style="border: none; -ms-interpolation-mode: bicubic; max-width: 100%;">
+                                                        </a>
+                                                    </td>                                                    <td dir="ltr" valign="top" align="center" style="color: #15212A; display: inline-block; vertical-align: top; font-family: inherit; font-size: 14px; text-align: center; padding: 0 4px 4px; cursor: pointer;" nowrap>
+                                                        <a href="https://www.thediff.co/r/1b32eaf2?m=f90780fc-498d-4ffe-a546-8a3e61574e99" target="_blank" style="color: #00A5A3; text-decoration: none; overflow-wrap: anywhere;">
+                                                            <img src="https://static.ghost.org/v5.0.0/images/comment.png" border="0" width="122" height="36" alt="Comment" style="border: none; -ms-interpolation-mode: bicubic; max-width: 100%;">
+                                                        </a>
+                                                    </td>                                            </tr>
+                                        </table>
+                                        <table class="feedback-buttons-mobile" role="presentation" border="0" cellpadding="0" cellspacing="0" style="border-collapse: separate; mso-table-lspace: 0pt; mso-table-rspace: 0pt; width: 100%; display: none; mso-hide: all;" width="100%">
+                                            <tr>
+                                                    <td dir="ltr" valign="top" align="center" style="color: #15212A; vertical-align: top; font-family: inherit; font-size: 14px; text-align: center; padding: 0 4px 4px; cursor: pointer; width: 33%;" nowrap width="33%">
+                                                        <a href="https://www.thediff.co/archive/predicting-and-knowing-what-to-predict/#/feedback/6524049c65371a00011e9663/1/?uuid=f90780fc-498d-4ffe-a546-8a3e61574e99" target="_blank" style="color: #00A5A3; text-decoration: none; overflow-wrap: anywhere;">
+                                                            <img src="https://static.ghost.org/v5.0.0/images/more-like-this-mobile.png" border="0" width="42" height="42" alt="More like this" style="border: none; -ms-interpolation-mode: bicubic; max-width: 100%;">
+                                                            <p class="feedback-button-mobile-text" style="margin: 0 0 1.5em 0; line-height: 1.6em; color: #15212A; font-weight: 500; margin-bottom: 0; font-size: 13px;">More like this</p>
+                                                        </a>
+                                                    </td>                                                    <td dir="ltr" valign="top" align="center" style="color: #15212A; vertical-align: top; font-family: inherit; font-size: 14px; text-align: center; padding: 0 4px 4px; cursor: pointer; width: 33%;" nowrap width="33%">
+                                                        <a href="https://www.thediff.co/archive/predicting-and-knowing-what-to-predict/#/feedback/6524049c65371a00011e9663/0/?uuid=f90780fc-498d-4ffe-a546-8a3e61574e99" target="_blank" style="color: #00A5A3; text-decoration: none; overflow-wrap: anywhere;">
+                                                            <img src="https://static.ghost.org/v5.0.0/images/less-like-this-mobile.png" border="0" width="42" height="42" alt="Less like this" style="border: none; -ms-interpolation-mode: bicubic; max-width: 100%;">
+                                                            <p class="feedback-button-mobile-text" style="margin: 0 0 1.5em 0; line-height: 1.6em; color: #15212A; font-weight: 500; margin-bottom: 0; font-size: 13px;">Less like this</p>
+                                                        </a>
+                                                    </td>                                                    <td dir="ltr" valign="top" align="center" style="color: #15212A; vertical-align: top; font-family: inherit; font-size: 14px; text-align: center; padding: 0 4px 4px; cursor: pointer; width: 33%;" nowrap width="33%">
+                                                        <a href="https://www.thediff.co/r/1ffd245c?m=f90780fc-498d-4ffe-a546-8a3e61574e99" target="_blank" style="color: #00A5A3; text-decoration: none; overflow-wrap: anywhere;">
+                                                            <img src="https://static.ghost.org/v5.0.0/images/comment-mobile.png" border="0" width="42" height="42" alt="Comment" style="border: none; -ms-interpolation-mode: bicubic; max-width: 100%;">
+                                                            <p class="feedback-button-mobile-text" style="margin: 0 0 1.5em 0; line-height: 1.6em; color: #15212A; font-weight: 500; margin-bottom: 0; font-size: 13px;">Comment</p>
+                                                        </a>
+                                                    </td>                                            </tr>
+                                        </table>
+                                    </td>
+                                </tr>
+
+
+
+                            <tr>
+                                <td class="wrapper" align="center" style="font-family: -apple-system, BlinkMacSystemFont, &#39;Segoe UI&#39;, Roboto, Helvetica, Arial, sans-serif, &#39;Apple Color Emoji&#39;, &#39;Segoe UI Emoji&#39;, &#39;Segoe UI Symbol&#39;; font-size: 18px; vertical-align: top; color: #15212A; box-sizing: border-box;" valign="top">
+                                    <table role="presentation" border="0" cellpadding="0" cellspacing="0" width="100%" style="border-collapse: separate; mso-table-lspace: 0pt; mso-table-rspace: 0pt; width: 100%; padding-top: 40px; padding-bottom: 30px;">
+                                        <tr>
+                                            <td class="footer" style="font-family: -apple-system, BlinkMacSystemFont, &#39;Segoe UI&#39;, Roboto, Helvetica, Arial, sans-serif, &#39;Apple Color Emoji&#39;, &#39;Segoe UI Emoji&#39;, &#39;Segoe UI Symbol&#39;; vertical-align: top; color: #738a94; margin-top: 20px; text-align: center; font-size: 13px; padding-bottom: 10px; padding-top: 10px; padding-left: 30px; padding-right: 30px; line-height: 1.5em;" valign="top" align="center">The Diff &#xA9; 2023 &#x2013; <a href="https://www.thediff.co/unsubscribe/?uuid=f90780fc-498d-4ffe-a546-8a3e61574e99&newsletter=2393d4b9-4d63-471b-931b-2826d384c7bd" style="overflow-wrap: anywhere; color: #738a94; text-decoration: underline;" target="_blank">Unsubscribe</a></td>
+                                        </tr>
+
+                                    </table>
+                                </td>
+                            </tr>
+
+                        </table>
+                        <!-- END CENTERED WHITE CONTAINER -->
+                    </div>
+                </td>
+                <td style="font-family: -apple-system, BlinkMacSystemFont, &#39;Segoe UI&#39;, Roboto, Helvetica, Arial, sans-serif, &#39;Apple Color Emoji&#39;, &#39;Segoe UI Emoji&#39;, &#39;Segoe UI Symbol&#39;; font-size: 18px; vertical-align: top; color: #15212A;" valign="top">&#xA0;</td>
+            </tr>
+
+            <!--[if mso]>
+                            </table>
+                        </center>
+                    </td>
+                </tr>
+            <![endif]-->
+        </table>
+    </body>
+</html>

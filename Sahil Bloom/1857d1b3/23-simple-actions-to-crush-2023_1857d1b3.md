@@ -1,0 +1,18 @@
+---
+subject: "23 Simple Actions to Crush 2023"
+from: "\"Sahil Bloom's Curiosity Chronicle\" <sahil@sahilbloom.com>"
+to: ""
+date: 2023-01-04 14:06:54
+labels: ["CATEGORY_PERSONAL", "INBOX", "Sahil Bloom", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_1989028747625928812", "UNREAD"]
+---
+23 Ways to Make 2023 Your Miracle Yearread and listen on Welcome to The Curiosity Chronicle, a weekly newsletter where I provide actionable ideas to help you build a high-performing, healthy, wealthy life. Today at a Glance:- In 1666, a young Cambridge University student left campus in the midst of a plague ravaging Europe and moved home to his small village. In the year that followed, he would make major discovering in mathematics, physics, and more. The young man was Sir Isaac Newton, and 1966 became known as his miracle year.
+- This story is not about discovering gravity or inventing calculus—it's about the amazing possibilities of one year. It's about the incredible potential energy held within—waiting to be released.
+- This piece contains 23 actionable ideas for making 2023 your miracle year—segmented into categories across work, health, money, and personal.
+Today's newsletter is brought to you by 30 Days to a Booming Email List Creating a landing page is the first step. And we want to help make it as simple, beautiful, and fast as possible for you. With our Grow Your Audience Challenge, you’ll get all the tools and resources you need to create a high-converting landing page in no time. Imagine what you could do with a bigger email list. We’re talking about more leads, more subscribers, and more customers. It’s time to take your business up a notch – and that starts with building your audience today.
+23 Ways to Make 2023 Your Miracle YearIn 1666, a 23-year-old Cambridge University student left campus and returned to his small hometown village to avoid the plague that was ravaging Europe at the time. The bright young man would spend his year in a perpetual state of creative and intellectual flow, leading to major discoveries and advancements across fields such as calculus, motion, gravity, and optics. His name was Isaac Newton (Sir Isaac Newton as we know him today), and 1666 was his "Annus Mirabilis"—the miracle year. I absolutely love this story. It's not about discovering gravity or inventing calculus—it's about the amazing possibilities of one year. It's about the incredible potential energy held within—waiting to be released. 2023 is officially upon us. Will it be your Annus Mirabilis? To get you started, here are 23 actionable ideas to help you crush the year ahead—segmented into work, health, money, and personal categories. Action Note: To avoid overwhelm, simply pick ONE from each category and get started this week. Execute on those simple actions for a month before picking another one. Continue that process during the year. If you do that, I strongly suspect 2023 will be your best year ever. Work Actions#1: To identify what to prioritize and what to attempt to delegate or delete from your days, use my
+|
+|
+If you enjoyed today's newsletter, please share it with your friends and family!
+If this email was forwarded to you, consider [subscribing](https://click.convertkit-mail4.com/xmunommqvkf6hrl9l5dug/p8heh9h9ppkov7sq/aHR0cHM6Ly93d3cuc2FoaWxibG9vbS5jb20vbmV3c2xldHRlcg==) to receive them in future!
+[Unsubscribe](https://unsubscribe.convertkit-mail4.com/xmunommqvkf6hrl9l5dug) | [Update your profile](https://preferences.convertkit-mail4.com/xmunommqvkf6hrl9l5dug) | 113 Cherry St #92768, Seattle, WA 98104-2205

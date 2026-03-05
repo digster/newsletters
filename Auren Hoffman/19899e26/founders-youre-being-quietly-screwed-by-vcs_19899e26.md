@@ -1,0 +1,70 @@
+---
+subject: "Founders, you’re being quietly screwed by VCs"
+from: "Auren Hoffman of Five Links <auren@substack.com>"
+to: ""
+date: 2025-08-11 15:06:02
+labels: ["Auren Hoffman", "CATEGORY_PERSONAL", "INBOX", "UNREAD"]
+label_ids: ["Label_4260038268466989707", "CATEGORY_PERSONAL", "INBOX", "UNREAD"]
+---
+|
+There’s a clause hiding in your term sheet. It looks boring. It sounds standard. But it might just be the most dangerous thing you sign as a founder.
+I’m talking about voting rights tied to your employment.
+It usually shows up in some boilerplate language somewhere in the “Voting Agreement” section. Something like:
+“Key Holders party to this voting agreement holding a majority of the outstanding shares of Common Stock who are then providing services to the Company…”
+You probably skimmed past that line. Your lawyer may have even said, “Oh yeah, that’s just standard.”
+But here’s what it really means:
+If you ever stop working at the company, you can lose your right to vote your shares. You don’t lose all your voting rights, you just lose your most important ones. The right to elect directors? GONE. The right to block changes to key financing terms? Also GONE.
+Even if you’re still the largest common shareholder. Even if you’re the founder. Even if you have super voting shares. Even if you built the damn thing from scratch.
+Let that sink in.
+Let’s be fair: there’s a reason this clause is there. VCs are worried about rogue founders.
+They’re worried about a founder who gets fired, turns bitter, and then uses their shares to vote against a sale or poison a future round out of spite.
+That’s happened. It’s real.
+But you know what’s more real? The hundreds of companies where this clause has been weaponized against good founders.
+To be fair, these clauses aren’t always investor-driven. In multi-founder startups, they’re sometimes used to prevent a departed co-founder from meddling in the company’s future. But that doesn’t make them any less dangerous when abused.
+Here’s the rub.
+The board can remove you from your role as CEO. That’s within their rights. But when the term sheet says your voting rights are conditional on you “providing services,” your firing becomes more than just a leadership change. It becomes political exile.
+Suddenly, you’re a shareholder without a vote.
+You still have your equity. You still can say you were a “cofounder” (though they sometimes try to change history). But you’ve lost your say.
+It’s like being taxed without representation.
+It’s like owning a house but not being allowed to vote in the HOA.
+It’s like building a company and then being told you’re no longer qualified to have any opinion on it.
+Oh wait, that’s exactly what it is.
+Ask 100 founders if they get to vote their shares after they leave the company.
+At least 90 will say yes.
+Of the rest, 8 will say, “Huh, I’m not sure.”
+And 2—usually the ones who’ve been burned will say, “No. And I wish I’d known sooner.”
+This clause isn’t discussed in board meetings. It isn’t debated in investment memos. It’s one of those “standard terms” that people quietly accept... until it becomes explosive.
+And by then, it’s too late.
+At Flex Capital, we actually think founders matter. Even if they’re no longer at the company.
+So we give voting rights back to founders.
+Even if you’re no longer employed.
+Even if you step down or move on.
+You still get to vote your shares.
+Why? Because you’re still an owner. All the investors can vote their shares whether they work at the company or not.
+We don’t believe in conditional ownership. We believe in actual ownership.
+If we can’t trust you to vote your shares post-employment, we probably shouldn’t be investing in you in the first place.
+It happens. Maybe once every thousand deals. But it is still manageable. When it does happen, usually it is just one of the founders.
+Here’s how we think about it:
+Would you rather protect against the 0.1% of rogue founders... or protect the rights of the 99.9% of great ones?
+If your governance structure is designed for worst-case scenarios, you’re going to end up treating everyone like a threat.
+We’d rather bet on trust.
+Because the best companies are built on trust.
+And the best investors act like it.
+So here’s your homework:
+Go find your term sheet. Search for “voting agreement,” “key holders,”, “leaver provisions” or anything that talks about voting rights tied to continued employment.
+If you find something that gives the board control over your ability to vote your shares post-departure… highlight it in red.
+If you’re not sure what you’re looking at, there are great free solutions out there… [GitLaw](https://substack.com/redirect/61fc1021-58ea-468b-bb3c-5f84fe190d09?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) (Cursor for Law) lets you upload contracts for instant review.
+And if you want a human-in-the-loop, Soxton (AI-enabled full-stack law firm) has a [free term sheet analyzer](https://substack.com/redirect/2aadbbb1-7772-4b1b-aa85-5cb714d89d95?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) that’s amazing and offers same day analysis.
+Either way, you’ll quickly understand exactly what’s going on in your term sheet, making you smarter than 90% of founders who just sign whatever’s put in front of them.
+Then talk to your lawyer. Talk to your cofounders. Talk to your future investors. Talk to me.
+P.S. If you’re a VC who includes this clause “just in case”, ask yourself: would you sign this clause if you were the founder?
+shout out to co-author [Sushant Bhardwaj](https://substack.com/redirect/6369b617-c89e-4318-b962-b7e1f168ac62?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) at Flex Capital
+note: [Flex Capital](https://substack.com/redirect/58f436dc-4057-41c7-9020-9684ff2eb43f?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) invests in 100 seed-stage start-ups per year (2 per week). typical check is $400k. please reach out if you know amazing founders that want to change the world.
+X of the week:
+if you like this article, please do three things:
+share it with someone you admire
+follow me (
+[@auren](https://substack.com/redirect/7a297e06-0940-4b44-8192-681240240f0a?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) on Xsubscribe to the “
+[World of DaaS](https://substack.com/redirect/fbc4eb85-c874-4c92-8f83-505e3fa198ff?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)” podcast
+(if you hate this, please share with all your enemies)
+Hope you enjoy [Summation by Auren Hoffman](https://substack.com/redirect/2/eyJlIjoiaHR0cHM6Ly9hdXJlbi5zdWJzdGFjay5jb20_dXRtX2NhbXBhaWduPWVtYWlsLWhvbWUmcj04bzU0biIsInAiOjE3MDMwNjExNywicyI6NjU1MjAsImYiOnRydWUsInUiOjE0NTYzMzE5LCJpYXQiOjE3NTQ5Mjg0MDgsImV4cCI6MjA3MDUwNDQwOCwiaXNzIjoicHViLTAiLCJzdWIiOiJsaW5rLXJlZGlyZWN0In0.OkbIVKV4jPADAC5HrEm-u_oUOA46Y15rcio1i7lbshQ?). Please also follow [@auren](https://substack.com/redirect/7a297e06-0940-4b44-8192-681240240f0a?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) on X.

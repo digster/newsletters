@@ -1,0 +1,45 @@
+---
+subject: "“5-Bullet Friday” bonus — some favorites and all 2018 bullets"
+from: "Tim Ferriss <tim@fourhourbody.com>"
+to: ""
+date: 2021-02-15 19:21:20
+labels: ["CATEGORY_PERSONAL", "INBOX", "STARRED", "Tim Ferris", "YELLOW_STAR"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "STARRED", "Label_7132466938079773548", "YELLOW_STAR"]
+---
+|
+Greetings!
+Thank you again for subscribing to my newsletter.
+This email contains a few extra bonuses that people have requested.
+First, [here is an eBook](https://click.fourhourmail.com/gku6dv5rd2swuex636cw/x0hph6hz47zv2za5/aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xSVd6N0lnZklDbmFpcF84UmV5WEJQWVBpdXR1MUwxR0Ivdmlldw==) that features all of the 2018 bullets from “5-Bullet Friday,” the short bullet-point email I send out each Friday to 1.5M+ people, which describes the five coolest things I’ve found or explored each week. Thank you for keeping this private, as it’s exclusively for subscribers.
+Second, I am including below just a few of my personal favorites from the last 12 months or so. I hope it helps whet your appetite for things to come.
+Enjoy!
+Resource I’m exploring —
+[How to Configure Your iPhone to Work for You, Not Against You](https://click.fourhourmail.com/gku6dv5rd2swuex636cw/6qheh8hw32w8r6ao/aHR0cHM6Ly9iZXR0ZXJodW1hbnMuY29hY2gubWUvaG93LXRvLXNldC11cC15b3VyLWlwaG9uZS1mb3ItcHJvZHVjdGl2aXR5LWZvY3VzLWFuZC15b3VyLW93bi1sb25nZXZpdHktYmIyN2E2OGNjM2Q4) by Tony Stubblebine ([@tonystubblebine](https://click.fourhourmail.com/gku6dv5rd2swuex636cw/kkhmh6heo9e0w3il/aHR0cHM6Ly90d2l0dGVyLmNvbS90b255c3R1YmJsZWJpbmU=)). My entire team has found this article extremely helpful. It’s a complete tactical overhaul of how you use your greatest digital blessing/curse.
+What I’m watching —
+[Dealt documentary](https://click.fourhourmail.com/gku6dv5rd2swuex636cw/58hvh7h0490dx9h6/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9ncC9wcm9kdWN0L0IwNzZIRFhNWDgv) directed by [Luke Korem](https://click.fourhourmail.com/gku6dv5rd2swuex636cw/qvh8h7hvl6vmwrsl/aHR0cHM6Ly93d3cuaW1kYi5jb20vbmFtZS9ubTQ1OTg2MjYvP3JlZl89Zm5fYWxfbm1fMQ==). This absolutely blew my mind, and I don’t want to spoil it with description. Trust me and watch [the short trailer here](https://click.fourhourmail.com/gku6dv5rd2swuex636cw/g3hnh5hn0zn89mbr/aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g_dj1GX19EUTFydVljaw==). Truly amazing. I can’t remember the last time I finished a documentary, only to want to immediately watch it again. I also can’t remember a doc that made me as emotional as this did, pushing me from laughter to tears. It’s a masterful visual biography.
+What I’m reading — “[On Needing to Find Something to Worry About](https://click.fourhourmail.com/gku6dv5rd2swuex636cw/9qhzhnhxe2xvwzt9/aHR0cHM6Ly93d3cudGhlc2Nob29sb2ZsaWZlLmNvbS90aGVib29rb2ZsaWZlL29uLW5lZWRpbmctdG8tZmluZC1zb21ldGhpbmctdG8td29ycnktYWJvdXQv).” I expected a fluff piece based on the headline. Instead, I got an incredible (and incredibly short) essay that I saved to Evernote and now read several times per month. It won’t apply to everyone, but for some of you, like me, it will have a pronounced “Oh… f*ck” realization that could change things. Once you read it, I bet you’ll be able to guess which specific line carried the most weight for me.
+Gadget I’m enjoying —
+[Silicone Universal Lid](https://click.fourhourmail.com/gku6dv5rd2swuex636cw/3ohphkhrkdr5mzir/aHR0cHM6Ly9tYWRlaW5jb29rd2FyZS5jb20vcHJvZHVjdHMvc2lsaWNvbmUtdW5pdmVyc2FsLWNvb2t3YXJlLWxpZA==) from Made In, a 2018 TIME magazine invention of the year. For some reason, I lose pot lids. I have a motley crew of cookware, and half of them are missing covers. Perhaps it was my move from CA to TX, or perhaps it’s simply the fact that lids are easily confused with one another and a pain to store. Imagine my glee when I found a single gadget that gets rid of the headache: a one-size-fits-nearly-all silicone pot cover. Just get a few of them, and you’re set. Or put another way, no need to buy another set. Your ragtag gang of mismatched metal can now be a functional family again.
+App I’m using daily —
+[The new Sam Harris Waking Up meditation app](https://click.fourhourmail.com/gku6dv5rd2swuex636cw/n2hohvhglog9qef6/aHR0cHM6Ly93YWtpbmd1cC5jb20v). I absolutely love this app and have recommended it to nearly all of my closest friends. I was a beta tester for months and provided feedback, but I have no stake in it whatsoever. What makes it different? This app offers a guided meditation progression that builds multiple skills as you move from one class to the next. It’s a logical sequence, instead of a collection of ad-hoc readings. Sam has succeeded at producing a world-class program for mind training, IMHO.
+Most popular post on Instagram — My standard [low-on-time breakfast](https://click.fourhourmail.com/gku6dv5rd2swuex636cw/48hvheh9729dlwux/aHR0cHM6Ly93d3cuaW5zdGFncmFtLmNvbS9wL0JnM202OURsMXE0Lz90YWtlbi1ieT10aW1mZXJyaXNz) for early morning flights. Don’t let travel be an excuse to eat garbage…
+Article I’m rereading —
+[Taming the Mammoth: Why You Should Stop Caring What Other People Think](https://click.fourhourmail.com/gku6dv5rd2swuex636cw/wnh2hgh4lo427nt7/aHR0cHM6Ly93YWl0YnV0d2h5LmNvbS8yMDE0LzA2L3RhbWluZy1tYW1tb3RoLWxldC1wZW9wbGVzLW9waW5pb25zLXJ1bi1saWZlLmh0bWw=). This remains one of the most empowering articles I’ve read in recent years. It’s hilarious and amazing. For double trouble, pair it with [my interview with the author](https://click.fourhourmail.com/gku6dv5rd2swuex636cw/08hwh9hxp7x6erul/aHR0cHM6Ly90aW0uYmxvZy8yMDE3LzExLzMwL21hbmFnaW5nLXByb2NyYXN0aW5hdGlvbi1wcmVkaWN0aW5nLXRoZS1mdXR1cmUtYW5kLWZpbmRpbmctaGFwcGluZXNzLw==), Tim Urban.
+New person I’m following on social — National Geographic photographer [Frans Lanting on Instagram](https://click.fourhourmail.com/gku6dv5rd2swuex636cw/8ghqhoh37536dvbk/aHR0cHM6Ly93d3cuaW5zdGFncmFtLmNvbS9mcmFuc2xhbnRpbmcv). Here is [the pic and description](https://click.fourhourmail.com/gku6dv5rd2swuex636cw/l2hehmh4dk4m28h6/aHR0cHM6Ly93d3cuaW5zdGFncmFtLmNvbS9wL0JnTTZfdWtuYl9CLz90YWtlbi1ieT1mcmFuc2xhbnRpbmc=) that caught my attention.
+Purchase I’m enjoying —
+[Sundale indoor/outdoor floor chair](https://click.fourhourmail.com/gku6dv5rd2swuex636cw/dpheh0hk27k962im/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9ncC9wcm9kdWN0L0IwNlkzWThOUFov). I use this for morning meditation, and its ultra-lightweight design makes it a breeze to move and store. I face it out a bay window towards grass and trees, as I’ve started meditating with open eyes occasionally per instructions from [Sam Harris](https://click.fourhourmail.com/gku6dv5rd2swuex636cw/e0hph7hedne3vzu8/aHR0cHM6Ly9zYW1oYXJyaXMub3JnLw==).
+What I’m installing a second time —
+[Enclume Premier 36-Inch Rolled End Bar](https://click.fourhourmail.com/gku6dv5rd2swuex636cw/7qh7h8h8x482lgcz/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9ncC9wcm9kdWN0L0IwMDAyME02MVkvcmVmPXBweF95b19kdF9iX2FzaW5fdGl0bGVfbzA4X3MwMT9pZT1VVEY4JnBzYz0x). Check out [this photo](https://click.fourhourmail.com/gku6dv5rd2swuex636cw/owhkhqhn08nmd3cv/aHR0cHM6Ly93d3cuaW5zdGFncmFtLmNvbS9wL0IybTNkQVBuTEdwLw==) to see what it looks like installed in my kitchen. As I said in the caption: “Some of the most useful things in my house are the simplest. Example: this Enclume 36" rolled end bar from Amazon. This is the second time I’ve installed one, and it immediately cleared two drawers. Tip: arrange the pans from smallest to biggest to make finding what you need faster.” The keen eye may notice that they don’t seem perfectly ordered by size in my pic. That’s because I first order by material (e.g., cast iron) and then order by size within each material. Yes, I’m a nerd making the most of OCD.
+What I’m watching —
+[My philosophy for a happy life | Sam Berns | TEDxMidAtlantic](https://click.fourhourmail.com/gku6dv5rd2swuex636cw/z2hghnh7md72x4ip/aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g_dj0zNm0xby10TTA1Zw==). This video hit me really hard. Despite some tears, it was exactly the reset I needed. This kid is a total stud. Just watch it, and do not rush. Also, do *not* read the description beforehand, only afterward.
+Quote I’m pondering — "Character, like a photograph, develops in darkness." — [Yousuf Karsh](https://click.fourhourmail.com/gku6dv5rd2swuex636cw/p8heh9hdp7dwo2bq/aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvWW91c3VmX0thcnNo)
+Thanks again for subscribing and have a wonderful week (or weekend).
+Pura vida,
+Tim
+|
+|
+Join millions of monthly readers. Get exclusive content, private Q&As, giveaways, and more. No spam, ever. Just great stuff.
+|
+DUE TO VOLUME, PLEASE DO NOT REPLY TO THIS EMAIL. SADLY, WE ARE UNABLE TO READ 1,000+ MESSAGES PER DAY. To unsubscribe, just [click here](https://unsubscribe.fourhourmail.com/gku6dv5rd2swuex636cw). To reply to Tim, please do so in the blog comments [here](https://click.fourhourmail.com/gku6dv5rd2swuex636cw/p8heh9hdp7dw62iq/aHR0cHM6Ly90aW0uYmxvZy8_dXRtX3NvdXJjZT1jb252ZXJ0a2l0JnV0bV9tZWRpdW09Y29udmVydGtpdCZ1dG1fY2FtcGFpZ249dGVtcGxhdGU=).
+|
+|

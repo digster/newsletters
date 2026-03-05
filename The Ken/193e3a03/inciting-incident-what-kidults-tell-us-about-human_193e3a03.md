@@ -1,0 +1,43 @@
+---
+subject: "Inciting Incident: What kidults tell us about human attitudes towards reality"
+from: "The Ken <info@the-ken.com>"
+to: ""
+date: 2024-12-20 10:32:25
+labels: ["CATEGORY_PERSONAL", "INBOX", "The Ken"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_8244464457792971031"]
+---
+|
+|
+Inciting Incident
+Fri, 20 Dec 24
+Inciting Incident is our weekly newsletter about the most powerful tool of our age—stories. Stories told by businesses, leaders, governments..
+Good Evening Ishan,
+It is that time of the year again. We are either packing our bags to take a well-deserved break or just glad (and a little bit relieved) that life at work has slowed down a little. In the spirit of the times, I’ve decided to make the next three editions of Inciting Incident a trilogy of sorts, deconstructing three themes that go perfectly with the season—all of which are also intrinsic to good storytelling.
+Today’s edition is the first in this trilogy, and we’re going to unpack what seems to be an innate human desire to escape from our mundane lives, even if that’s only through portals in our imagination. Holiday breaks, after all, are another expression of that desire. Next week, in our second instalment, we will look at product stories that relied heavily on the power of ‘magic’ to succeed. And finally, we will begin the new year with stories of hope and new beginnings.
+Let me start today with Dungeons and Dragons, a role-playing board game that celebrated its 50th anniversary this year.
+In an [interview](https://licensinginternational.org/news/spotlight-on-anniversaries-dungeons-dragons/) a couple of months ago, Marianne James, senior vice president of Global Licensing for Hasbro, one of the world’s biggest toy manufacturers, spoke about what made D&D (as it’s commonly called) so special.
+D&D’s humble beginnings sprung from the creative community surrounding wargaming in the Midwest in 1974. Since then, the game and its IP has grown into a global franchise with millions of fans around the world. Central to this is how the team at Wizards has continually refined its rules and introduced fresh adventures to engage new generations of players while preserving its core elements. At the heart of D&D is connection through storytelling, and that has helped to translate the brand across categories, from entertainment and digital gaming to apparel, accessories, publishing, and more.
+D&D, and Hasbro itself, which acquired the game in 1997, have a lot to teach us about storytelling. But for today’s edition, I’m going to focus on [three specific facets](https://www.forbes.com/sites/goldiechan/2019/05/17/storytelling-lessons-dnd/) of D&D’s success that can be powerful ingredients for a lasting story.
+Empathy. Community. Play.
+They’re why D&D and other children’s toys and games have thrived. Because even adults are looking for experiences that transport them away from the gruelling toil of daily life.
+Kidults, which contrary to expectations is a word that has a pretty long history, is a category that extends all the way from teenagers to people in late adulthood. And it’s fast becoming the engine that drives the toy market. Last month, Toyworld, an industry magazine from the UK, [wrote](https://toyworldmag.co.uk/kidults-fuel-1bn-surge-as-uk-gears-up-for-record-christmas-sales/):
+Despite a year marked by economic uncertainty, toy sales are being boosted this year by a growing number of nostalgic kidults – individuals aged 12 and older. This latest data from Circana reports that while overall toy sales declined slightly in 2024 compared to the previous year, kidults are behind the record-breaking £1bn in sales over the past twelve months, accounting for nearly one in every three pounds spent on toys in the UK, up £57m in 2023.
+[…]
+Melissa Symonds, UK Toys director for Circana, commented: “By tapping into the joy economy, toys are increasingly being recognised for their positive mental health benefits as they spark nostalgia and bring escapism from global turmoil into consumers’ lives.”
+In fact, one in five toys in the UK, other [estimates](https://www.bbc.com/news/articles/ckgdkgdk3leo) suggest, are bought by adults above 18 years of age for themselves. This [isn’t a trend](https://www.hindustantimes.com/htcity/wellness/kidulting-is-the-new-adulting-or-is-it-101693911166927.html) confined to only the UK either.
+I believe the rise of the “[joy economy](https://www.latimes.com/business/story/2024-10-17/kidulting-mattel-and-other-toy-companies-embrace-the-rise-of-adult-buyers)” and this apparent need to escape from reality points to a deep-seated desire in almost all of us. And the word ‘kidult’ offers a strong hint to what that is. A term that has been in use since the 1950s to describe TV shows that are popular with both children and grownups, it signals an inclination among adults to recreate the (relatively) carefree environs of their childhood.
+And it isn’t just nostalgia that is fuelling this category’s importance for the toys and games industry. Research that shows nurturing one’s “inner child” can boost mental health and produce feel-good hormones has also strengthened this trend.
+Here’s Dr Stuart Brown, a psychiatrist and clinical researcher who has studied the importance of play in young and adult humans for over 60 years, talking about how [important](https://edition.cnn.com/2022/08/19/health/play-fun-adult-mental-health-wellness/index.html#:~:text=Stuart%20Brown%3A%20Like%20sleep%20and,is%20not%20trivial%2C%20not%20frivolous.) playfulness is to the development of all species.
+CNN: Why do we need play?
+Stuart Brown: Like sleep and dreams or the immune system or the digestive system, play is part of the need of an animal for its developmental solidarity and social belonging. If you have play deprivation, you have long-term outcomes that are deleterious.
+Play therefore is not trivial, not frivolous. It is important for physical and social health. I have studied 6,000 individuals and did a detailed review of their play backgrounds (and have seen) the importance and necessity of play itself and the consequences of play deprivation. One begins to see that play itself in giraffes, dogs, birds, bonobos and humans is a phenomenon of nature. It seems that the more learning an animal is capable of, the more important play is to the development of the species.
+Well, as an [increasing](https://www.campaignasia.com/article/the-kidult-trend-is-here-to-stay/485191) number of people shed their inhibitions over indulging in “kids’ toys and games”, companies have started gearing their communications and marketing to appeal to adults—Barbie being the most notable.
+Another prominent example is Lego, which has now [built sections](https://www.bbc.co.uk/bitesize/articles/zvc2b7h) of its website solely for adults.
+Cuddly toys are popular with kidults – a 2018 survey found that 4 in 10 adults in the USA have a stuffed animal they still interact with – as are construction toys. A study carried out by Lego found that 9 in 10 adults said playing with the toy “offered them relief from worries and allowed them to destress.” Genevieve Capa Cruz, Lego’s global head of products for adults, told us: “We’ve been designing sets for older or more experienced builders for many years. We know that the joy of Lego building can transcend age, with many adults telling us they enjoy building and find it helps them relax, feel creative and explore their love for films, sports, music in a new way.”
+Hasbro, which has a significant share of the toys, games, and entertainment market, has also been [doubling down](https://finance.yahoo.com/news/hasbro-ceo-goes-all-in-on-kidults-and-gaming-123050774.html) on kidults.
+I think as storytellers, the important thing that D&D’s longstanding success and the current rise of kidult products show us is that there is no such thing as “just a children’s story”. The fact that some of the most enduring characters and stories in history are ostensibly for children only underscore this truth.
+Instead, the appeal of empathy, community, and playfulness is universal. And building them into your narratives and products is a great way of building an engaged and happy audience.
+That’s a wrap for this week. Do write to [inciting-incident@the-ken.com](mailto:inciting-incident@the-ken.com) with your thoughts about this newsletter, and I’ll be back in your inbox next Friday evening.
+Happy holidays!
+Yours,
+Ruhi

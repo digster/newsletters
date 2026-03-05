@@ -1,0 +1,19 @@
+---
+subject: "How an Indonesian SaaS startup’s destiny may be rewritten by Sequoia India"
+from: "The Ken <info@the-ken.com>"
+to: ""
+date: 2023-05-09 00:14:50
+labels: ["CATEGORY_PERSONAL", "INBOX", "The Ken", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_8244464457792971031", "UNREAD"]
+---
+Good Morning Ishan,
+Indonesian SaaS startup Lummo raised close to US$130 million in its short lifespan. But just three-and-a-half years into its journey, it’s now considering shutting down. Unwinding a company is easier said than done, though, especially when many investors—in this case, Sequoia Capital India, Tiger Global, and Jeff Bezos, among others—hold claims.
+So, will Lummo go through the complex process of returning money to its investors, or are there other options for a graceful exit? One scenario that’s being considered is a merger with a bigger firm. India’s online-gaming firm Mobile Premier League (MPL)—a unicorn—is being explored as an option, The Ken has learnt.
+But what could be the logic behind the union of two companies having business models that are worlds apart? Nadine, through today’s story, answers that.
+In a challenging funding environment, mergers and acquisitions across countries and sectors are likely to be on the rise. For those wanting to avoid a complex liquidation process, this may be one of the pragmatic solutions. [https://the-ken.com/story/how-an-indonesian-saas-startups-destiny-may-be-rewritten-by-sequoia-india/](https://the-ken.com/story/how-an-indonesian-saas-startups-destiny-may-be-rewritten-by-sequoia-india/?utm_source=daily_story&utm_medium=email&utm_campaign=daily_newsletter) (7-minute read)
+Regards,
+Rahul
+[rahuls@the-ken.com](mailto:rahuls@the-ken.com)
+PS: We’re doing a survey on the ‘state of employability’ of mid and senior-level executives at growth-stage startups. We want to see if the high salaries that executives were paid during boom times is now becoming an impediment in their careers. Let us know your experience with [this survey](https://theken.typeform.com/employability).
+What you just read is the personalised daily introduction to The Kens story. Written by a different person each day. Often insightful, sometimes witty, and very rarely boring. Someone sent this to you? [Sign up for free](/?modal=register&utm_source=footer&utm_medium=email&utm_campaign=morning_email_). [Dont like these? You can unsubscribe](https://link.the-ken.com/asm/unsubscribe/?user_id=2349339&data=hni2Nx6G5vPRLIvZiriyC_B_TFOsUaSvKIWrJmtfVVxoMDAwdTAwMO8yZg-aHbuTm-v4JTUvVUDHndbVlf-x-WycCa4ZgjVovlRYDAVCYHbAkXmCTWCB5vrid9h1cAR92UM0VpE2spi1SxhGOnKl22WdmSotJxV-U1kHFhlcDsNxj4x10aoEH7aqdDpMQEaGfjCHCoInzjKAKtPirfQ7RRww7C4CkSZQaYeAv0WaLRKx2fy-ZYSPd782Pz71hiFpjJqQNmgngE0vM7PMLu8wTETwAeYo8z6DLOsuR3JpHYUCjqSwTLkS7zZ0VsnA6rOdKGDyRwfGPpNMc_9P_NiSv64f7I5y_W5uvcryeIbU6tyzXtS6Fo3An1uBYrZT1vkbrVGZmicuuMhktyFqxe6es2VaT1ZM81jQS8EyAsvFkhMA795iMZ4nl71xAYLedbo1lze_TGFELTZb8BNYE562RLyod7TF2HTnltrMTevQSPz-PkNmf0t2It1bXq0cL0CF6SX1m08sitxl2l_Ttq38m6UoMZ64-4ELlYasivZp3Sldw8UBPSFR7Ue8g5haq8Q1wLspTd-Y28U=) Dont want to hear from us again? [ Unsubscribe from our emails here](https://link.the-ken.com/asm/?user_id=2349339&data=Ob_K1H7xcmRY-5W1X_K7Wz3aQB9scpL6wvwQ2WsU3z9oMDAwdTAwMM83QdztGVv5pxim692cq9ulSb07sOwZvO7abkqXUZRBkBx6JM5i0zEfbBNxbweOpBUuEyk5r-hyW7QuIafI9OaKmsj4cONGIJvTDyArK71D9dp3KZ1GO5CPni0ClNLU4FLeJ_tsqI0btdgssni_KGjHg8wlTej1N_6K7632IPbgNiKyF45F9ExxjfrG4OhTxvxXYw5rPYwEPDTxV0-42Fmi1_8IZ9ZLxbhnYaGG2umWeLUD0Mo4kxA-Bv3pU94whsXPZ-_oXQ8RHHeWXAz49W5tMclar3kxnUDBCIEAaUBdbOXgJJdVXjlhCzCi75RFOGitw0WJOvvd9mHhqlZ1qatDeuCZWxg46xlB4KRldd1CUhR_BInWECvpAyYvXBdQczURNTQ3bJsZtWO3SRHN5tWV6QX7EKBxPjmbE_U6CZcot-SUEqntbhCQ5nEnYRDHV85gLACVmpL9OfUou4BBjFFm3W_YNntVU2Nuxs6MXF4yN_ghk2mCSV3nowz0YVFVrg==).
+Something wrong? Tell us at [support@the-ken.com](mailto:support@the-ken.com)

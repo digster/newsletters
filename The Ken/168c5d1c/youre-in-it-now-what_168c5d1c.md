@@ -1,0 +1,15 @@
+---
+subject: "You're in IT. Now what?"
+from: "The Ken <info@the-ken.com>"
+to: ""
+date: 2019-02-07 02:36:14
+labels: ["CATEGORY_PERSONAL", "INBOX", "The Ken", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_8244464457792971031", "UNREAD"]
+---
+When it came time to choose an elective in school, we were offered two options—economics or computer science.
+In a batch of around 150 students, around a hundred of us chose the latter. Or rather, it was chosen for us. By our parents. Parents who were acutely aware that Sabeer Bhatia, the Hotmail co-founder, had once studied here (In all likelihood, before there was even a computer lab on campus). Parents who didn’t care that the computer lab consisted of 30 rickety computers that would be perfectly at home had they been found during an excavation in Mohenjodaro.
+Not that this really mattered. These systems were more for show. For prospective students and their unwitting parents or benevolent alumni wondering where their donations were going. Our coding? That was done on sheets of paper. The outcome of these programs? Well, that was left to our imagination. But, through a combination of external tutoring, practice on systems at home, and more than a few dollops of divine intervention, we made it through.
+After this ordeal was over, some of us wisened up. Changed tracks. The other 98, persisted. The IT dream in India is simply too ingrained to give up on. Almost from birth, the lesson is simple—do computers, it will guarantee you financial security and the adoration of all those around you. Except that’s not how it has panned out for a lot of my 98 friends. Most of them went through four or five years of engineering and emerged on the other side jaded, desperate for jobs, and more than a little lost.
+The fact is, we’re simply producing more engineers than the Indian IT industry has any need for. Engineers who aren't trained how to code. Or at least, how to code well. And with little understanding of how to navigate the industry they are so desperate to enter. Which is where Sidu Ponnappa, the author of today’s piece, comes in. With 12 years spent in the IT industry, both in product and systems, he knows the ins and outs of the industry. What you need, what to expect, how to find your way, and, most importantly, how to grow and survive. That’s what today’s piece is about. Read it here: [https://the-ken.com/story/it-engineer-reality-check/](http://link.the-ken.com/wf/click?upn=HQSq6eeRV1xAVaGuFOahuNCZVVXPeP-2FJpSqxhvIUDrk6BxxOydR7FlKkU66WaMB8G1juq-2BNIAL5WDUShnw-2F3Ky0zoZ6wRHHeUoEg6ktz0FowPuqYVxYD7ppDWHgCVUcQx2puqVB6Mx-2F-2Biiiq9u-2BzrTaCSEMGzBI-2FzE5TaozhRnVJfNycqXp0Z1i13-2FT3yLDj_S4jLOsNx-2Fv6Jev2nvow8b7P9pBCWGd8KNZfb200gkZLQNlXQHio0noZzXtsWoloZmPWeyZsh7a4QCV9ufwCUKi00jlBT0uEdvwYDMuVuqcMG2XbasdSMdBtXyaH7fcceUPnf0HfBouFR0-2B9gjt4RiONu40obWtytSHTexdZXVWgsqHyxpnnWxqNJvhZjIgWcg1tTJM30Aj93R3Tmu7DV1sDXlj86UKNIVFv0A2FfKCymi0wOq30pp-2FXc-2FjbE-2FCIlXkwozsKKMptGpBh7AQN32PJPG-2F3r3dVCgBiPMpEpO02JOTM8XviB2-2Fi19GwaphVh8UOq44D6Zw9YoJbH3Cvs4AxGREfmb3yr-2FlX44Y9bljLAeWm-2F1jTADw3d7ah6XHaDGNPbo8TNtl1ZEgAorMq-2FzAs3UvBbaL-2BD35mo2tHjdf8-3D)
+Regards,
+Ranjan Crasta

@@ -1,0 +1,115 @@
+View this post on the web at https://thezvi.substack.com/p/on-metrs-ai-coding-rct
+
+METR ran a proper RCT experiment seeing how much access to Cursor (using Sonnet 3.7) would accelerate coders working on their own open source repos. 
+Everyone surveyed expected a substantial speedup. The developers thought they were being substantially sped up.
+Instead, it turned out that using Cursor slowed them down.
+That surprised everyone, raising the question of why. 
+Currently our best guess is this comes down to a combination of two factors: 
+Deeply understood open source repos are close to a worst-case scenario for AI tools, because they require bespoke outputs in various ways and the coder has lots of detailed local knowledge of the codebase that the AI lacks. 
+The coders in question mostly did not have experience with similar AI tools. The lack of a learning curve during the experiment challenges this, but the tools very clearly have a sharp learning curve the same way other programming does.  
+Thus we should be careful interpreting the result. It was still highly virtuous to run an RCT, and to publish the results even when they were against interest and counterintuitive, and at risk of being quoted endlessly in misleading fashion by AI skeptics. That is how real science works.
+Epic Fail
+In this case the haters were right, honestly great call by the haters [ https://substack.com/redirect/c034d724-aacd-47e1-9162-22dffb53eac6?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ] (paper here [ https://substack.com/redirect/af32c52f-73a9-4f6d-b8ab-0b7a0d8b8fd6?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ], blog post here [ https://substack.com/redirect/0c746c99-4c7a-42cf-9890-4f1b719bfd2b?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]), at least on the headline result. 
+Again, due to all the circumstances, one should avoid inferring too much. I would like to see the study done again where everyone had at least a few weeks of working full time with such tools, ideally also while working on other types of projects. And a result this surprising means we should be on the lookout for flaws.
+The result was still very much surprising to METR, to the developers in the test, to the forecasters, and also to those who saw the results. 
+Yo Shavit [ https://substack.com/redirect/fa687631-4da1-4fa9-b78f-ed7f4ef70801?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]: something something METR good bc publishing against their priors blah blah
+all I care about is that this vindicates my incompetence in using models for my actual work
+Dwarkesh Patel [ https://substack.com/redirect/562d1d22-700a-4ab2-bf1e-72b1124cac1f?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]: Surely this doesn’t have implications for how I use AI and whether I’m fooling myself about how much more effective it’s making my podcast prep, right? 😅
+The Core Result
+METR: We ran a randomized controlled trial to see how much AI coding tools speed up experienced open-source developers. 
+The results surprised us: Developers thought they were 20% faster with AI tools, but they were actually 19% slower when they had access to AI than when they didn't.
+We recruited 16 experienced open-source developers to work on 246 real tasks in their own repositories (avg 22k+ stars, 1M+ lines of code).
+We randomly assigned each task to either allow AI (typically Cursor Pro w/ Claude 3.5/3.7) or disallow AI help.
+At the beginning of the study, developers forecasted that they would get sped up by 24%. After actually doing the work, they estimated that they had been sped up by 20%. But it turned out that they were actually slowed down by 19%.
+We were surprised by this, given a) impressive AI benchmark scores, b) widespread adoption of AI tooling for software development, and c) our own recent research measuring trends in the length of tasks that agents are able to complete.
+When AI is allowed, developers spend less time actively coding and searching for information, and instead spend time prompting AI, waiting on/reviewing AI outputs, and idle. We find no single reason for the slowdown—it’s driven by a combination of factors.
+To better understand these factors, we investigate 20 properties of our setting, finding 5 likely contributors, and 8 mixed/unclear factors.
+We also analyze to make sure the result isn’t a fluke, and find that slowdown persists across different outcome measures, estimator methodologies, and many other subsets/analyses of our data.
+…
+What do we take away?
+1. It seems likely that for some important settings, recent AI tooling has not increased productivity (and may in fact decrease it).
+2. Self-reports of speedup are unreliable—to understand AI’s impact on productivity, we need experiments in the wild.
+Another implication:
+It is sometimes proposed that we should monitor AI R&D acceleration inside of frontier AI labs via simple employee surveys. We’re now more pessimistic about these, given how large of a gap we observe between developer-estimated and observed speed-up.
+What we're NOT saying:
+1. Our setting represents all (or potentially even most) software engineering.
+2. Future models won't be better (or current models can’t be used more effectively).
+David Rein [ https://substack.com/redirect/5d3c3743-ce7c-410c-9e9e-d260ac50ff07?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]: I was pretty skeptical that this study was worth running, because I thought that *obviously* we would see significant speedup.
+Charles Foster [ https://substack.com/redirect/2fe14ab1-0c33-4c7d-b330-7c9ac2790bef?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]: Before you say “this isn’t surprising”…
+Yes, it is. We got people to preregister their expectations, and even folks who are extremely in-the-know about AI coding abilities still failed to predict this result.
+Your *vibes* are not reliable indicators of productivity effects.
+Jeffrey Ladish: Surprising results from METR re AI software engineer uplift! Great to see this kind of empirical investigation. Our intuitions are not always correct…
+I do think this is to some extent a skill issue. Pretty sure I know some people who’ve learned to use the tools effectively and get a big speed and quality boost.
+Daniel Kokotajlo: Very important work! This also has lengthened my timelines somewhat, for obvious reasons. :)
+In perhaps the most shocking fact of all, developers actually slightly overestimated their required time in the non-AI scenario, I thought that was never how any of this worked?
+Okay So That Happened
+So now that we have the result, in addition to updating in general, what explains why this situation went unusually poorly? 
+Here are the paper’s own theories first:
+The big disagreement is over the first factor here, as to whether the development environment and associated AI tools should count as familiar in context.
+There are several factors that made this situation unusually AI-unfriendly. 
+AI coding is at its best when it is helping you deal with the unfamiliar, compensate for lack of skill, and when it can be given free reign or you can see what it can do and adapt the task to the tool. Those didn’t apply here. 
+Roon [ https://substack.com/redirect/4e54dfb0-8226-404d-9de9-ba52e9380708?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]: IME really good software ppl who deeply care find the least use from LLM coding and are often ideologically opposed to it because they like to exert editorial control over every line. slop research coders such as myself don’t care as much and have much larger gains.
+this result is still surprising, how/why does it slow them down? but I wouldn’t think it generalizes to the average software developer who’s just trying to get some damn thing done and not trying to write maintainable useful code on a top open source library.
+Eric Raymond [ https://substack.com/redirect/4e54dfb0-8226-404d-9de9-ba52e9380708?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]: I think I qualify as an experienced open source developer, and that study looks completely ridiculous to me.
+I've discussed it with some peers. We think one of the confounders may be that LLMs are much better at accelerating green-field development then fixing or improving large existing codebases.
+Also there's a difference in their performance between front-end and back-end stuff. Big advantage for web front-end dev, not so much for back-end. I've experienced this difference myself.
+Or as Joel Becker says, ‘our setting was weird. [ https://substack.com/redirect/51514b09-fe0f-4f3a-83c1-fca92b9ce683?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]’ 
+Steve Newman has an excellent analysis of many aspects of this question [ https://substack.com/redirect/a4af7c17-8422-4352-af39-436898b6cc9b?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ].
+These were projects that the developers already knew intimately, with high context, and they did the task they would otherwise have done next. They were already familiar with the repos and working on at a very high skill level, and were trying to adapt the tool to the task and not the task to the tool.
+In particular, they broke down tasks into 1-2 hour chunks before they knew whether they could use AI for the subtasks. That’s great RCT design, but does mean flexibility was limited.
+These were large open source projects that thus have a variety of high standards and requirements, and require a lot of tacit knowledge and context. AI code that is ‘good enough’ in other contexts wasn’t up to standards here, and this was identified as the biggest factor, only 39% of Cursor generations were accepted and many of those still required reworking.
+Pay was by the hour so there was large temptation to let the AI cook and otherwise work not so efficiently. From Ruby [ https://substack.com/redirect/a194ae85-9473-474d-8f2a-0757941cb088?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ] we get the reminder that a natural thing to do when working in Cursor is end up checking social media while it runs. 
+They certainly weren’t doing AI coder multitasking or anything like that.
+As always, there is a lag, this was done with Sonnet 3.5/3.7. Ruby notes that the models we have now are already substantially better.
+The tasks were modestly beyond the range of tasks Sonnet 3.7 can do autonomously, as per METR’s own measurements (plus the contractor vs. maintainer contrast). 
+The AI tools offered were often new to their users, which slows people down. Participants might have been partly learning AI tools on METR’s dime? Developers said they weren’t significantly inconvenienced by the tool changes but you can’t trust self-reports. 
+Some participants seem to have gone a bit overboard [ https://substack.com/redirect/a4af7c17-8422-4352-af39-436898b6cc9b?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ] with AI usage as part of the experiment?  
+We also have a direct post mortem from Quentin Anthony, [ https://substack.com/redirect/b21c0017-f94b-4faa-8f78-6955e429294e?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ] who was one of the 16 devs and experienced a 38% speedup when using AI, the best result of all participants. He ascribes others getting poor results in large part to:
+Falling into the failure mode of pressing the magic bullet AI button hoping the problem gets solved, which is not a good workflow, rather than AI as a tool. 
+Getting distracted during downtime as they wait for AI, also not a good workflow.
+AIs running into various problems where they perform poorly. 
+All of that is true, but none of it seems like enough to explain the result.
+Beginner Mindset
+By far the strongest counterargument to the study is to claim the users simply lacked the required experience using this form of AI, so of course they struggled [ https://substack.com/redirect/b9ecd12b-b33b-4796-bdce-5a143d925b9c?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ].
+Credit to Emmett Shear for being the first one to prominently lay this out fully.
+Emmett Shear: METR’s analysis of this experiment is wildly misleading. The results indicate that people who have ~never used AI tools before are less productive while learning to use the tools, and say ~nothing about experienced AI tool users. Let's take a look at why.
+I immediately found the claim suspect because it didn't jibe with my own experience working w people using coding assistants, but sometimes there are surprising results so I dug in. The first question: who were these developers in the study getting such poor results?
+…
+They claim "a range of experience using AI tools", yet only a single developer of their sixteen had more than a single week of experience using Cursor. They make it look like a range by breaking "less than a week" into <1 hr, 1-10hrs, 10-30hrs, and 30-50hrs of experience. 
+Given the long steep learning curve for effectively using these new AI tools well, this division betrays what I hope is just grossly negligent ignorance about that reality, rather than intentional deception.
+Of course, the one developer who did have more than a week of experience was 20% faster instead of 20% slower.
+David Rein [ https://substack.com/redirect/ed2784e2-4b61-41ca-a9ee-ebf4f63fa915?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]: Devs had roughly the following prior LLM experience:
+- 7/16 had >100s of hours
+- 7/16 had 10-100 hours
+- 2/16 had 1-10 hours
+We think describing this as "moderate AI experience" is fair, my guess is we'll have to agree to disagree, but appreciate the feedback!
+Emmett Shear: I think conflating the two completely invalidates the study's headline and summary results. I suppose the future will tell if this is the case. I'm glad to have found the underlying disagreement.
+It is clear that the source of disagreement is that I think using Cursor effectively is a distinct skill from talking to ChatGPT while you program and expect fairly low transfer, and the authors think it's the similar skill and expect much higher.
+I think Emmett is right that these tools are not similar. The data point that still needs to be explained is (see Table 1 above) the lack of improvement over those 30-50 hours using Cursor. If the learning curve is steep then devs should be improving rapidly over that time. So I can still definitely see this going either way. 
+Regardless, this was an unusually hostile setting on many fronts, including the lack of experience. The result still is important in general. 
+Roon: am curious about a few things. the archetype of an “experienced open source developer” is very different from your average developer. is there a subset of inexperienced developers? developers who work for random companies but are not enthusiasts?
+David Rein: yeah the open-source repos do typically have pretty high standards for linting, test coverage, etc.—not all of which is super clear in contributing guidelines necessarily (making it harder for AI to help)
+Minh Nhat Nguyen: I would critique the "their own repos" part. by far the biggest unlock i have when using AI coding is navigating unfamiliar repos.
+After some iteration, even if an AI made the initial draft, I'd be faster working myself on repos I already know well.
+David Rein [ https://substack.com/redirect/b9d92cde-a404-4bd8-9894-4633b61d7266?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]: One of the most confusing aspects of the result is that we don’t *require* developers to use AI, they’re just *allowed* to use it. So in principle, they should be able to just not use AI if it’s slowing them down.
+There are two main explanations we have for this.
+The first is that developers think that AI is speeding them up (they estimate they were sped up by 20%). 
+The second is that developers might be trading some speed for ease—using Cursor may be so much more pleasant that developers don’t notice or mind that they’re slowed down.
+One common question is how much experience the developers have with AI tools—maybe they’re just particularly bad at using AI? While they aren’t AI power users before the study, nearly all have tens to hundreds of hours of prior experience using LLMs.
+44% of the developers had used Cursor before, and for ~19% of them it was already their primary IDE. Furthermore, throughout the study, they spend around 20 hours allowed to use AI tools—and we don’t see speedup when excluding up to their first 8 tasks with AI.
+…
+We further rule out a bunch of potential experimental artifacts: we don’t have dropout/attrition issues, the results are robust to variations of our outcome estimation methodology, developers primarily use frontier models (at the time), and we don’t see cheating.
+Some other interesting findings! We find that developers are slowed down less on tasks they are less familiar with. This is intuitive—if you really know what you’re doing, AI can be less marginally helpful. Because we collect forecasts from developers on how long they expect issues to take both with and without AI, we can measure their speedup as a function of how much speedup they expect for particular issues. Developers are actually somewhat calibrated on AI’s usefulness!
+Just for fun, here are the repositories developers were working on in the study—they’re pretty impressive! I was really impressed by the general skill of the developers—they’re really experienced, and they contribute to large, complex projects.
+Another takeaway worth noting is that self-reports of coding productivity, or productivity gains from AI, cannot be trusted, in general Peter’s thread is excellent [ https://substack.com/redirect/ffa28d82-36a4-4e5d-95db-bc448b283bbc?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ].
+Peter Wildeford [ https://substack.com/redirect/ffa28d82-36a4-4e5d-95db-bc448b283bbc?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]: I definitely think the biggest takeaway from this paper is that we likely can't trust self-reports. This is pretty surprising to me, but is a finding commonly seen in productivity literature.
+The March @METR_Evals paper contained this nugget [ https://substack.com/redirect/21f3c732-3e15-42db-a7ad-ed52948b3b3b?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ] about contractors being much slower [5x-18x slower to fix issues!] than maintainers. This seems born out today, as the new study on AI slowdown was solely on maintainers - METR studied 16 long‑time maintainers with an average of 5 yrs prior work on the repo
+Seems important to keep in mind for AI timelines when interpreting the prior METR paper on task horizon length that the comparison was AI to contractors. A comparison of AI to veteran SWEs likely would have been tougher. I guess humans have returns to experience!
+This does make me strongly suspect the METR paper on AI productivity slowdown would've gone differently if it was measuring junior engineers or senior engineers in new projects, as opposed to where there's significant pre-existing fit with the exact work. My hypothesis is that the results in this paper are real, but don't apply to a wide variety of scenarios where AIs do speed people up.
+Overall Takeaways
+I am somewhat convinced by Emmett Shear’s explanation. I strongly agree that ‘experience with LLMs’ does not translate cleanly to ‘experience with Cursor’ or with AI coding tools, although experience with other AI IDEs would fully count. And yes, there is a rather steep learning curve. 
+So I wouldn’t get too excited by all this until we try replication with a group that has a lot more direct experience. It should not be too hard to find such a group. 
+Certainly I still think AI is a vast productivity enhancer for most coders, and that Opus 4 (or your preferred alternative) is a substantial upgrade over Sonnet 3.7. Also Claude Code seems to be the core of the optimal stack at this point, with Cursor as a secondary tool. This didn’t change my estimates of the ‘normal case’ by that much. 
+I still think this is a meaningful update. The result was very different than people expected, and participants did not seem to be moving up the learning curve.
+
+Unsubscribe https://substack.com/redirect/2/eyJlIjoiaHR0cHM6Ly90aGV6dmkuc3Vic3RhY2suY29tL2FjdGlvbi9kaXNhYmxlX2VtYWlsP3Rva2VuPWV5SjFjMlZ5WDJsa0lqb3hORFUyTXpNeE9Td2ljRzl6ZEY5cFpDSTZNVFk0TlRVM09EUTRMQ0pwWVhRaU9qRTNOVEk0TkRFNE5ETXNJbVY0Y0NJNk1UYzRORE0zTnpnME15d2lhWE56SWpvaWNIVmlMVFUzTXpFd01DSXNJbk4xWWlJNkltUnBjMkZpYkdWZlpXMWhhV3dpZlEucXRuOC1MRmlYeGtJRngtWXRqZmJBb0ROTE9xWDgtWEdqN2hFNUFVa09JNCIsInAiOjE2ODU1Nzg0OCwicyI6NTczMTAwLCJmIjp0cnVlLCJ1IjoxNDU2MzMxOSwiaWF0IjoxNzUyODQxODQzLCJleHAiOjIwNjg0MTc4NDMsImlzcyI6InB1Yi0wIiwic3ViIjoibGluay1yZWRpcmVjdCJ9.k4dzYiIyiUIMTG5fNz0-AF5nOGpHXFiWvVdcf0-lirE?

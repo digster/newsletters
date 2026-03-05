@@ -1,0 +1,12 @@
+---
+subject: "Crypto AMA Tomorrow on my Group Chat"
+from: "Chamath Palihapitiya <chamath@substack.com>"
+to: ""
+date: 2025-04-18 05:03:39
+labels: ["CATEGORY_PERSONAL", "Chamath", "INBOX", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "Label_4017391144830520384", "INBOX", "UNREAD"]
+---
+[Pranav](https://substack.com/redirect/dc5532b5-8b32-41e6-a1ac-1ee3be419460?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) and [Wyatt](https://substack.com/redirect/7201e8fe-60a5-40f4-b227-83aad108b285?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) from VanEck will be answering crypto-related questions tomorrow from 1-2 pm pacific time on my group chat for paid subscribers.
+If you’re interested in joining this AMA, you can subscribe below. After you subscribe, instructions on how to join the group chat will be shared in the welcome email.
+Talk to you soon.
+Chamath

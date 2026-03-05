@@ -1,0 +1,35 @@
+---
+subject: "Learn how to code \"close to the metal\" with this free C Programming Handbook"
+from: "Quincy Larson <quincy@freecodecamp.org>"
+to: ""
+date: 2020-03-12 20:59:44
+labels: ["CATEGORY_PERSONAL", "INBOX", "Quincy"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_7697778124671848699"]
+---
+Here are this week's five links that are worth your time:
+
+1. Developers use the expression "close to the metal" to mean lower-level coding that interacts closely with a computer's hardware. And the king of low-level programming is C. This C Beginner's Handbook will help you learn C basics in just a few hours. (35 minute read): https://www.freecodecamp.org/news/the-c-beginners-handbook/
+
+2. These quick user interface design tips that will help you dramatically improve the look of your front end projects. (7 minute read): https://www.freecodecamp.org/news/how-to-make-your-front-end-projects/
+
+3. You can build fast, secure websites at scale - all without a web server or traditional back end. This new approach is called the JAMstack, and this tutorial will show you how to use it. (4 hour watch): https://www.freecodecamp.org/news/jamstack-full-course/
+
+4. What is cached data? And what does it mean to clear a cache? This article will give you a functional understanding of how caches work and why they're so important to the modern web. (9 minute read): https://www.freecodecamp.org/news/what-is-cached-data/
+
+5. A developer uncovered 1,400 Coursera online university courses that are still completely free. (browsable list): https://www.freecodecamp.org/news/coursera-free-online-courses-6d84cdb30da/
+
+
+Quote of the Week: "It's hard enough to find an error in your code when you're looking for it. It's even harder when you've assumed your code is error-free." - Steve McConnell
+
+
+Fun fact: freeCodeCamp just reached 5,000,000 monthly unique visitors this month. Help our nonprofit pay for our growing server costs. Donate today. Together we can keep tech education free for everyone: https://www.freecodecamp.org/donate
+
+
+Happy coding.
+
+- Quincy Larson
+
+Teacher at freeCodeCamp.org
+
+
+If these emails aren't worth your time, you can turn them off: https://www.freecodecamp.org/ue/eZV2T3gHC7IGcwcpYPG64

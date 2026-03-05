@@ -1,0 +1,54 @@
+---
+subject: "3 Powerful Ideas: The Week in Review"
+from: "\"Sahil Bloom's Curiosity Chronicle\" <sahil@sahilbloom.com>"
+to: ""
+date: 2025-09-20 13:11:08
+labels: ["CATEGORY_PERSONAL", "INBOX", "Sahil Bloom", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_1989028747625928812", "UNREAD"]
+---
+3 Ideas You Might Have Missed
+read time 2 minutes
+Welcome to the Curiosity Chronicle Week in Review—a quick roundup of this week's ideas to help you build a high-performing, healthy, and wealthy life.
+Forwarded this email? Join 800,000+ readers [here](https://click.convertkit-mail4.com/d0ud699357c0hoe88z9hdfzn73444hlhk62xk/dpheh0he0rn3gpim/aHR0cHM6Ly93d3cuc2FoaWxibG9vbS5jb20vbmV3c2xldHRlcg==).
+Speaking Announcement: I’m booking out my speaking calendar for the rest of 2025 and the start of 2026. Join organizations like Meta, Google, Amazon, YPO, and more who’ve had me speak to their teams and clients. If you’re interested, please submit more information [here](https://click.convertkit-mail4.com/d0ud699357c0hoe88z9hdfzn73444hlhk62xk/e0hph7h705oxgdf8/aHR0cHM6Ly93d3cuc2FoaWxibG9vbS5jb20vaW5xdWlyaWVz).
+This Week at a Glance:
+- Monday: What Are You Tolerating That’s Holding You Back?
+- Wednesday: The Most Important Choice of Life
+- Friday: Kidlin’s Law: The Shortcut to Clarity
+Wisdom Worth Sharing:
+Underrated life lesson: If you want the growth, you have to embrace the cost of entry to achieve it. The loneliness. The imposter syndrome. The uncertainty. The failure. The one who pays the cost of entry with pride is the one who will eventually win.
+([share to x/twitter!](https://click.convertkit-mail4.com/d0ud699357c0hoe88z9hdfzn73444hlhk62xk/7qh7h8h9o35g7euz/aHR0cHM6Ly90d2l0dGVyLmNvbS9pbnRlbnQvdHdlZXQ_dGV4dD1VbmRlcnJhdGVkJTIwbGlmZSUyMGxlc3NvbiUzQSUyMElmJTIweW91JTIwd2FudCUyMHRoZSUyMGdyb3d0aCUyQyUyMHlvdSUyMGhhdmUlMjB0byUyMGVtYnJhY2UlMjB0aGUlMjBjb3N0JTIwb2YlMjBlbnRyeSUyMHRvJTIwYWNoaWV2ZSUyMGl0LiUyMFRoZSUyMGxvbmVsaW5lc3MuJTIwVGhlJTIwaW1wb3N0ZXIlMjBzeW5kcm9tZS4lMjBUaGUlMjB1bmNlcnRhaW50eS4lMjBUaGUlMjBmYWlsdXJlLiUyMFRoZSUyMG9uZSUyMHdobyUyMHBheXMlMjB0aGUlMjBjb3N0JTIwb2YlMjBlbnRyeSUyMHdpdGglMjBwcmlkZSUyMGlzJTIwdGhlJTIwb25lJTIwd2hvJTIwd2lsbCUyMGV2ZW50dWFsbHklMjB3aW4uJTBBJTBBJUUyJTgwJTkzJTIwJTQwU2FoaWxCbG9vbQ==))
+Monday: What Are You Tolerating?
+I've often mused that there are (broadly) two ways to improve your life:
+- Add a Positive: A good habit, behavior, person, etc.
+- Remove a Negative: A bad habit, behavior, person, etc.
+An important observation: Most of us automatically default to the former and ignore the latter.
+We're conditioned to believe that progress means doing more. New habits. New routines. New mindsets. New people. New goals.
+But here's the truth: The simplest, fastest path to progress isn’t addition. It’s subtraction...
+([read the full piece here](https://click.convertkit-mail4.com/d0ud699357c0hoe88z9hdfzn73444hlhk62xk/owhkhqhwr5dzvzfv/aHR0cHM6Ly93d3cuc2FoaWxibG9vbS5jb20vbmV3c2xldHRlci93aGF0LWFyZS15b3UtdG9sZXJhdGluZy10aGF0cy1ob2xkaW5nLXlvdS1iYWNr))
+Wednesday: The Most Important Choice of Life
+Last week, I had a beautiful conversation with a young mother who reached out wanting to talk to me about her son.
+The young boy, just four years old, has shown signs of being neurodivergent. His mother courageously expressed to me her fear that he might not be able to thrive in the way that all parents hope for.
+As a father to a young boy of similar age, the conversation hit me hard.
+And while I could not speak to any of the ongoing research in the field, I did share an impactful story and message that I wanted her to hear...
+([read the full piece here](https://click.convertkit-mail4.com/d0ud699357c0hoe88z9hdfzn73444hlhk62xk/z2hghnhe30xg29sp/aHR0cHM6Ly93d3cuc2FoaWxibG9vbS5jb20vbmV3c2xldHRlci90aGUtbW9zdC1pbXBvcnRhbnQtY2hvaWNlLW9mLWxpZmU=))
+Friday: Kidlin’s Law: The Shortcut to Clarity
+Albert Einstein was once famously asked how he would approach a challenging problem if given one hour to solve it.
+His response:
+“I would spend 55 minutes defining the problem and 5 minutes solving it.”
+It’s an interesting answer. Most of us assume that problem-solving is about…well…solving. But Einstein’s response highlights an important reality:
+Effective problem-solving is often enabled by problem-defining.
+This is at the heart of an idea called Kidlin’s Law:
+“If you can write down a problem clearly, you’ve already solved half of it.”
+Writing changes everything. And interestingly, it’s less about what you create on the page and more about what the page creates in you...
+([read the full piece here](https://click.convertkit-mail4.com/d0ud699357c0hoe88z9hdfzn73444hlhk62xk/p8heh9h4z8ovw3iq/aHR0cHM6Ly93d3cuc2FoaWxibG9vbS5jb20vbmV3c2xldHRlci9raWRsaW5zLWxhdy10aGUtc2hvcnRjdXQtdG8tY2xhcml0eQ==))
+|
+The one staple of my morning routine since 2011: [AG1](https://click.convertkit-mail4.com/d0ud699357c0hoe88z9hdfzn73444hlhk62xk/x0hph6hewx0gvpb5/aHR0cHM6Ly9kcmlua2FnMS5jb20vc2FoaWw=)!
+I never recommend a product I don't use myself. I've been using [AG1](https://click.convertkit-mail4.com/d0ud699357c0hoe88z9hdfzn73444hlhk62xk/x0hph6hewx0gvpb5/aHR0cHM6Ly9kcmlua2FnMS5jb20vc2FoaWw=) since 2011––and it just got its biggest upgrade yet. The new [AG1 Next Gen](https://click.convertkit-mail4.com/d0ud699357c0hoe88z9hdfzn73444hlhk62xk/x0hph6hewx0gvpb5/aHR0cHM6Ly9kcmlua2FnMS5jb20vc2FoaWw=) is backed by four clinical trials and features five clinically studied probiotics, functional mushrooms, and whole food-sourced nutrients to support gut health, immune function, and sustained energy.
+And now it comes in 3 new flavors: Tropical, Citrus, and Berry. All from plant-based sources, with no added sugar or artificial sweeteners.
+[AG1](https://click.convertkit-mail4.com/d0ud699357c0hoe88z9hdfzn73444hlhk62xk/x0hph6hewx0gvpb5/aHR0cHM6Ly9kcmlua2FnMS5jb20vc2FoaWw=) is offering my amazing Curiosity Chronicle subscribers a FREE $76 gift when you sign up. You’ll get a Welcome Kit, a bottle of D3K2 (I take this daily!), and 5 free travel packs in your first box.
+|
+Sahil Bloom
+|
+|
+|

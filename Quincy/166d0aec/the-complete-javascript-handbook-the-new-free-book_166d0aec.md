@@ -1,0 +1,30 @@
+---
+subject: "The Complete JavaScript Handbook - the new free book"
+from: "Quincy Larson <quincy@freecodecamp.org>"
+to: ""
+date: 2018-11-01 19:10:05
+labels: ["CATEGORY_PERSONAL", "INBOX", "Quincy", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_7697778124671848699", "UNREAD"]
+---
+Here are this week's five links that are worth your time:
+
+1. The Complete JavaScript Handbook (91 minute read): https://medium.freecodecamp.org/f26b2c71719c
+
+2. A software Engineering Survival Guide - resources that will help you at the beginning of your career (11 minute read): https://medium.freecodecamp.org/fe3eafb47166
+
+3. How to build your own classic 1970s Simon flashing light game using JavaScript (1 hour watch): https://www.freecodecamp.org/n/s1M0ntu70
+
+4. A quick introduction to computer networks (8 minute watch): https://www.freecodecamp.org/n/n3tW0rk88
+
+5. Podcast #51: Erica Peterson founded Moms Can Code to help mothers learn to code so they can embark on new careers. She has a ton of helpful advice. (70 minute listen in your Apple Podcasts app, or right here in your browser): https://www.freecodecamp.org/n/jdigPOM2d
+
+
+
+Happy coding!
+
+- Quincy Larson
+
+Teacher at freeCodeCamp.org
+
+
+If these emails aren't worth your time, you can turn them off: https://www.freecodecamp.org/ue/eZV2T3gHC7IGcwcpYPG64

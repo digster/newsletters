@@ -1,0 +1,16 @@
+---
+subject: "Coherence, Craft, and Creativity"
+from: "Maxim Raginsky from The Art of the Realizable <realizable@substack.com>"
+to: ""
+date: 2026-03-01 05:21:46
+labels: ["CATEGORY_PERSONAL", "INBOX", "Maxim Raginsky", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_3440436245007788095", "UNREAD"]
+---
+Evgeny Morozov’s Reading Morozov’s essay, I learned about Storm wants to distinguish design, which he understands in the Weberian sense of rational action as matching available means to desired ends, from more organic, ecological modes of artifact-making, which he terms eolithic in reference to Stone Age
+In other words, design is a rational activity; as Herbert Simon put it in The Sciences of the Artificial, “everyone designs who devises courses of action aimed at changing existing situations into preferred ones.” Here, the mention of preference is key, it is meant to indicate their temporal precedence to the process of design. A designer operates in what Jimmie Savage would call a Storm, writing some thirty years before Simon, points out a similar distinction. Design operates in small worlds,
+By contrast, the eolithic mode is that of an encounter between (as Morozov nicely puts it) a Stone Age flâneur and an
+Storm’s concepts of eolithism and design could be mapped onto what In the context of scientific and engineering inquiry, this notion lies at the core of
+(emphasis in the original). Note that, even though Chang insists on talking about “design,” “aims,” and “purposes,” he does not stipulate their origin. Aims and purposes could be stated and codified ahead of time or they could be emerging spontaneously in the course of one’s interaction with the world. That makes both design and eolithism coherent. The stipulation of no guaranteed success is quite important here as well — think of Storm’s example of sailors or mountaineers achieving their aims despite holding theories that are literally false. Elsewhere in the book, Chang wants to emphasize that coherence is a much broader concept than logical consistency; it is context-dependent, open-ended, and provisional. Coherence can be gained and it can just as easily be lost. Although Chang makes no mention of it, the notion of coherence is central to process ontologies that emphasize events rather than things, becoming rather than being. For example, Schopenhauer writes the following in the introduction to the first edition of The World as Will and Representation:
+Alfred North Whitehead’s Process and Reality defines it as follows:
+In the context of Storm’s distinction between design and eolithism, coherence can either be imposed and maintained in a top-down fashion or it can arise in a bottom-up way through a reciprocal interaction between a subject and an environment. Both bureaucratic and poetic technologies must be operationally coherent; we can apprehend technology as both the locus of instrumental rationality and as a crucial enabler of open-ended exploration driven by idle curiosity and play. We can either passively wallow in Heideggerian resignation to
+This should be the motto of every poetic technologist. The Art of the Realizable is free today. But if you enjoyed this post, you can tell The Art of the Realizable that their writing is valuable by pledging a future subscription. You won't be charged unless they enable payments. |

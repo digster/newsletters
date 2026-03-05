@@ -1,0 +1,10 @@
+---
+subject: "The cocaine problem seems to be getting worse again"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2026-02-14 08:44:36
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+Colombian coca cultivation fell dramatically between 2000 and 2015, a period that saw intense U.S.-backed eradication and interdiction efforts. That progress reversed in 2015, when peace talks and legal rulings in Colombia opened enforcement gaps. Coca plantation has since increased to record levels, which coincided with a sharp rise in cocaine-related overdose deaths in the U.S. We estimate how much of that rise can be causally attributed to Colombia’s new coca boom. Leveraging the unforeseen coca supply shock and cross-county differences in pre-shock cocaine exposure, we find that the surge in supply caused an immediate rise in overdose mortality in the U.S. Our analysis estimates on the order of 1,000–1,500 additional U.S. deaths per year in the late 2010s can be attributed to Colombia’s cocaine boom. Implicit annual loss in American statistical life values about $48,000 per hectare of cultivation in Colombia. If left untamed, the current level of coca cultivation (over 230,000 ha in 2022) may impose on the order of $10 billion per year in costs via overdose fatalities.
+That is from [a new NBER working paper](https://marginalrevolution.com?action=user_content_redirect&uuid=d8657911d49d32c4359a2612ef122f2195bacb61e81926a3a2c07be6fd5304b1&blog_id=42693868&post_id=92404&user_id=262258391&subs_id=225460721&signature=dad1e92021a8131f24855b6d55f6ebb3&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly93d3cubmJlci5vcmcvcGFwZXJzL3czNDc4OA=&email_id=95cb4d2d9c0dbe4e47a219a0410c66a9) by Xinming Du, Benjamin Hansen, Shan Zhang, and Eric Zou.

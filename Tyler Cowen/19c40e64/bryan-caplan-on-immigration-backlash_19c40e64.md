@@ -1,0 +1,18 @@
+---
+subject: "Bryan Caplan on immigration backlash"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2026-02-09 05:35:57
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+Tyler
+[tries to cure my immigration backlash confusion], but not to my satisfaction. The overarching flaw: He equivocates between two different versions of “backlash to immigration.”Version 1: Letting in more immigrants leads to more resistance to immigration.
+Version 2: Letting in more immigrants leads to so much resistance to immigration that the total stock of immigration ultimately ends ups lower than it would have been.
+Backlash in the first sense is common, but no reason for immigration advocates to moderate. Backlash in the second sense is a solid reason for immigration advocates to moderate, but Tyler provides little evidence that backlash in this sense is a real phenomenon.
+Do read the whole thing, but I feel I am obviously right here. Bryan should read newspapers more! If I did not provide much evidence that backlash is a significant phenomenon, it is because I thought it was pretty obvious. A few points:
+1. I (and Bryan all the more so) want more immigration than most voters want. But I recognize that if you strongly deny voters their preferences, they will turn to bad politicians to limit migration. So politics should respect voter preferences to a reasonable degree, even though at the margin people such as myself will prefer more immigration, and also better immigration rules and systems.
+2. The anti-immigrant politicians who get elected are very often toxic. And across a wide variety of issues. The backlash costs range far wider than just immigration policies. (I do recognize this does not apply in every case, for instance Meloni in Italy seems OK enough and is not a destructive force. She also has not succeeded in limiting migration, and probably cannot do so without becoming toxic. So maybe that story is not over yet. In any case, consider how many of the other populist right groups have a significant pro-Russia element, Russia being right now probably the most evil country in the world.)
+3. If immigration runs "out of control" (as voters perceive it) in your country, there will be anti-immigrant backlash in other countries too. For instance in Japan and Poland. Bryan considers only backlash in the single country of origin. In Japan, for instance, voters just handed their PM a new and powerful mandate, in large part because of the immigration issue. The message was "what is happening in other countries, we do not want that happening here." The globalization of communications and debate increases the scope and power of the backlash effect considerably.
+Most of all, it is simply a mistake to let populist right parties become the dominant force in Europe, and sometimes elsewhere as well. You might think it is not a mistake because we need them to limit migration. Well, that is not my view, but I am arguing it is a mistake to get to that margin to begin with.
+In short, we need to limit migration to prevent various democracies from going askew. Nothing in that argument contradicts the usual economic (and other) arguments for a lot of immigration being a good thing. And still it is a good thing to try to sell one's fellow citizens on the case for more immigration. Nonetheless we are optimizing subject to a constraint, namely voter opinion. Why start off an intertemporal bargaining game by trying to seize as much surplus (immigration) as possible? That to me is obvious, more obvious every day I might add.

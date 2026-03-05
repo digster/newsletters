@@ -1,0 +1,20 @@
+---
+subject: "The Mercedes 500-E Edition"
+from: "\"Why is this interesting?\" <whyisthisinteresting@substack.com>"
+to: ""
+date: 2023-12-21 13:14:21
+labels: ["CATEGORY_PERSONAL", "INBOX", "WITI"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_5752899537867939131"]
+---
+Colin here. The WITI Contributor’s Slack can be a treasure trove for auto aficionados, offering high-level discourse on a variety of topics, ranging from the [cursed] Cybertruck and Rivian, to the future of autonomy, and classic models that history has overlooked. Many links are shared from [Bring a Trailer](https://substack.com/redirect/5d1869c5-5afa-4613-8403-6f28ea7c2be1?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o), a site known for highlighting classic car auctions. One such link, shared by Ryan M., piqued my interest due to the incredible backstory of the Mercedes-Benz 500 E, currently up for auction.
+Why is this interesting?
+This model stands out as a unique collaboration between Mercedes and Porsche, available from 1990 to 1995. Mercedes commissioned Porsche to re-engineer the car's chassis to accommodate a different V8 engine. Due to logistical and spatial challenges at the Mercedes factory, the 500 E was assembled by Porsche. This arrangement serendipitously benefitted Porsche, providing revenue during a financial crisis, thanks to the factory's excess capacity.
+According to the [Porsche newsroom:](https://substack.com/redirect/917e5063-ee73-4017-8e6f-fb703c564731?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+The goal was for the 500 E to resemble the W124 at first glance while setting new benchmarks. To the discerning eye, it was a high-performance saloon like no other. It boasted a width 56 millimeters greater than the base model and was 23 mm lower. Referred to as “Project 2758” at Porsche, the 500 E was a testament to innovation.
+Mönig, a Porsche veteran of over 35 years who played a key role in building the 500 E prototype, speaks highly of the model: “Three decades later, amidst vast automotive advancements, the 500 E still stands tall. Its handling is superb, offering impressive longitudinal acceleration and exceptional brakes. Driving this car, with its dynamic nature and the beautifully understated sound of its eight-cylinder engine, remains a pleasure.”
+I find myself drawn to this car not just for its classic, unobtrusive appearance, but also for the engineering stories behind it. It reminds me of the Audi S8, featured in [THAT chase scene in 'Ronin'.](https://substack.com/redirect/65c59ae7-24b2-4447-b0b3-475d86d240e3?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) Like the S8, the 500 E appears to be a typical sedan but packs an unexpected punch. There's a certain allure to these 90s-era cars that conceal more than they reveal. (CJN)
+—
+Thanks for reading,
+Noah (NRB) & Colin (CJN)
+—
+[Why is this interesting?](https://substack.com/redirect/c180ad45-73d5-4708-b47d-af3110722dbb?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) is a daily email from[ Noah Brier](https://substack.com/redirect/893a3899-08ca-49ee-854c-d95cb85570d0?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) & Colin Nagy (and friends!) about interesting things. If you’ve enjoyed this edition, please consider forwarding it to a friend. If you’re reading it for the first time, consider[ subscribing](https://substack.com/redirect/256d8b7c-3334-43c5-bd57-7d986ae2aa45?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o).

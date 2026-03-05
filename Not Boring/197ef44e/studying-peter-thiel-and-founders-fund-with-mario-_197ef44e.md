@@ -1,0 +1,48 @@
+---
+subject: "Studying Peter Thiel and Founders Fund with Mario Gabriele"
+from: "Not Boring <notboring@substack.com>"
+to: ""
+date: 2025-07-09 12:55:56
+labels: ["CATEGORY_PERSONAL", "INBOX", "Not Boring", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2982495070691762429", "UNREAD"]
+---
+|
+My conversation with [Mario Gabriele](https://substack.com/redirect/5bf84941-e33c-4603-9adc-cd9bb2accf32?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) on his Founders Fund series is on pace to be our most popular Hyperlegible episode by far. If you watch it and enjoy it, I’d really appreciate if you’d click the like button and leave a comment with your thoughts so that we can bend the algorithm in our direction.
+If there is one lesson in the Founders Fund story, it is to differentiate.
+Differentiate on talent, on thesis, on product, on conviction. Differentiate on all of the things that differentiate you. But when it comes to things that everyone has to do, just work with the best. For compliance, there is no one better than [Vanta](https://substack.com/redirect/b5540755-870c-4623-adbb-3f4b152a27cb?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o).
+[Vanta](https://substack.com/redirect/b5540755-870c-4623-adbb-3f4b152a27cb?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) helps growing companies achieve compliance quickly and painlessly by automating 35+ frameworks, including SOC 2, ISO 27001, HIPAA, and more.
+Start with [Vanta’s Compliance for Startups Bundle](https://substack.com/redirect/b5540755-870c-4623-adbb-3f4b152a27cb?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o), with key resources to accelerate your journey: step-by-step compliance checklists, case studies from fast-growing startups, and on-demand videos with industry leaders. Then get compliant while you focus on differentiating.
+Hyperlegible 012: [Mario Gabriele](https://substack.com/redirect/5bf84941-e33c-4603-9adc-cd9bb2accf32?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o), No Rivals
+The introduction to Mario Gabriele’s 35,000 word, four-part series on Founders Fund, No Rivals, was so good that all I could say was, “Jesus.”
+The reaction was apt. Over the course of four weeks, Mario went on to write the best profile of a single venture capital firm I’ve ever read in four Christian-themed chapters:
+I can’t recommend the series more highly. It is worth every subscription penny.
+Because Peter Thiel is fascinating, and Founders Fund is dominant, and both its characters and investments are compelling. And Mario got more access than the firm has ever granted an outsider. And he got his hands on returns data that has never been shared.
+But mostly because Mario can write. This story in any other hands wouldn’t be what it was in Mario’s. He has become something of a master at the art of venture capital firm storytelling with profiles on [Union Square Ventures](https://substack.com/redirect/8d040055-72e0-4ac5-b210-910e073f67c3?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o), [Multicoin Capital](https://substack.com/redirect/447edd2b-cd09-424c-b48e-8d57a341a8bf?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o), [Kleiner Perkins](https://substack.com/redirect/cda0d580-830f-486f-8d20-2d53036d84ce?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o), and [Hummingbird](https://substack.com/redirect/33d9f0f0-9c66-4441-ad25-09408602533f?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) (where he is now a Venture Partner).
+Founders Fund is his magnum opus, a piece he spent a year and a half toiling over. After reading it, it’s clear that there’s no one else who could have written it.
+“The way to escape competition is through authenticity.”
+In our conversation, Mario recalled Pirate Wires Editor-in-Chief and Founders Fund Chief Marketing Officer [Mike Solana](https://substack.com/redirect/f77ce0fd-b21c-4a2b-9266-6640b001823f?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) telling him this in an interview, and I think it perfectly captures what makes both Founders Fund and Mario so good at what they do.
+We discuss both on this episode of Hyperlegible.
+We start the conversation by talking about how this piece came about, and how Mario wrote it. Did he read first and then do interviews? Or do interviews and then read? Or start writing, and then read and do interviews to fill in his gaps in knowledge? How does he incorporate conversations versus audio versus text? How did he choose to place the paywall where he placed it? How did he choose, among all the vignettes at his disposal, that perfect opening scene under the Capital Dome, and once he chose it, how did he write it so well? How did he walk the line between access and honesty? While Founders Fund is clearly exceptional, no person or firm is without its blemishes; Mario told the story as it was.
+Then we talked about what makes Founders Fund, and Peter Thiel, special. Some mixture of macro insights applied to an asset class without much macro thinking, 0.00001% talent-spotting capability, and raw horsepower pushed to its limits. We covered the firm’s most representative investment (Airbnb) and its most unknown partner (Napoleon Ta). I ask about what makes Thiel so especially good at talent spotting across such a wide range — from JD Vance to Demis Hassabis to Lauren Gross to Jesse Michels.
+And we riffed on the questions with which Mario concluded the series:
+What will it do now that others are mimicking its moves, invading its music with sounds of their own? How does a singular object avoid the suffocating, narrowing grip of being desired?
+It is not easy to remain original and successful. The world moves on around you. It takes your best ideas and digests them: The future has stagnated; startups are monarchies; democracy is disappointing; we need to build in the world of atoms, not bits; we do this thing called “scapegoating”; all, truly all, is mimetic desire, and not one of us escapes from it.
+And so?
+The world eats all of this, swallows it whole, and asks: What now?
+Founders Fund is such a curious case study because what lessons should you take from a firm that’s made its fortune by doing what no one else can, is willing, or would even think to do? How do you copy a firm that has been successful by diligently not copying?
+You don’t. You let it season your own thinking, maybe sprinkle in some ingredients that would deepen your particular stew.
+As a writer and investor, I picked up both specific ideas and the processes behind them from Mario’s series and my conversation with him, both on how he writes and how Founders Fund invests. I think you will, too.
+The challenge now is to resist the mimetic urge and apply the larger lesson: escape competition through authenticity. [Differentiate](https://substack.com/redirect/d0b055de-74b5-4695-833d-0f15dc625f64?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o).
+If you’re the reading type, I used Claude to turn the messy YouTube transcript into something well-formatted and clean:
+[Transcript: No Rivals with Mario Gabriele (Hyperlegible 012)](https://substack.com/redirect/eb6366d4-925b-46f7-b779-ccc4e6c19de0?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+As always, you can find the full conversation wherever you like by subscribing to Not Boring Radio:
+YouTube:
+Spotify:
+Mario Gabriele: The Gospel of Peter Thiel and Founders Fund (Hyperlegible 012) Packy McCormick |
+Apple Podcasts:
+Mario Gabriele: The Gospel of Peter Thiel and Founders Fund (Hyperlegible 012) Not Boring Radio |
+While you’re there, give us a like, comment, and subscribe so we can bring great essays to more people.
+You can also find links to all of the essays and conversations at [readwise.io/hyperlegible](https://substack.com/redirect/af346eda-a96e-43e0-89b0-be107f3ab739?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o). Thanks to our friends and sponsors at Readwise, you can [head there](https://substack.com/redirect/af346eda-a96e-43e0-89b0-be107f3ab739?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) for a free trial and get all Hyperlegible articles automatically added to your account.
+That’s all for today. We’ll be back in your inbox Friday with a Weekly Dose.
+Thanks for listening and watching,
+Packy

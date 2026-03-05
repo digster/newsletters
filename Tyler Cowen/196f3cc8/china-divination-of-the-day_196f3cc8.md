@@ -1,0 +1,13 @@
+---
+subject: "China divination of the day"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2025-05-21 17:03:08
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+The AI-Spiritual-Commerce loop went viral. “DeepSeek Occult Commands” became an online hit. On WeChat, a flood of mini-programs appeared—“AI Face Reading,” “AI Bazi Calculator”—
+[reaching]the daily user numbers of medium e-commerce apps. A 9.9-yuan facial reading could be resold again and again through referral links, with some users[earning over 30,000 yuan a month]. DeepSeek hit 20 million daily active users in just 20 days. At one point, its servers crashed from too many people requesting horoscopes.
+[On social media], commands like “Full Bazi Chart Breakdown” and “Zi Wei Dou Shu Love Match” turned into memes. One user running a fortune-telling template got over 1,000 private messages in ten days. The AI could write entire reports on personality, karma, and even create fake palm readings about “past life experiences.” People lined up online at 1:00 a.m. to “get their fate explained.”Meanwhile, a competing AI company, Kimi, released a tarot bot—immediately the platform’s most used tool. Others followed: Quin, Vedic, Lumi, Tarotmaster, SigniFi—each more strange than the last. The result? A tech-driven blow to the market for real human tarot readers.
+In this strange mix, AI—the symbol of modern thinking—has been used to automate some of the least logical parts of human behavior. Users don’t care how the systems work. They just want a clean, digital prophecy. The same technology that should help us face reality is now mass-producing fantasy—on a huge scale.
+Here is [the full story](http://marginalrevolution.com?action=user_content_redirect&uuid=c632e526c8e285b8115be1bd1002bcf5af875af9bcc671089598de4250ff92ac&blog_id=42693868&post_id=90708&user_id=262258391&subs_id=225460721&signature=95e3af0247dc53fe35d27ffbd1354175&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly9zaW5vcHNpcy5jei9lbi9jaGluYXMtc3VwZXJzdGl0aW9uLWJvb20taW4tYS1nb2RsZXNzLXN0YXRlLz9yZWY9dGhlYnJvd3Nlci5jb20&email_id=b75928ab56db19cc6e3a1925b953fd3f). Via the always excellent [The Browser](http://marginalrevolution.com?action=user_content_redirect&uuid=95ce30b65d8e3a12e2ae982c2d2b32e48375db85bd97f74a3cc05ba717c7c5d4&blog_id=42693868&post_id=90708&user_id=262258391&subs_id=225460721&signature=91a8480b3d319eb38353c027131e52ec&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly90aGVicm93c2VyLmNvbS8&email_id=b75928ab56db19cc6e3a1925b953fd3f).

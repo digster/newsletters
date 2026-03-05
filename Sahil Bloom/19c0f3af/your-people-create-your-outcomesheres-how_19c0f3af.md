@@ -1,0 +1,58 @@
+---
+subject: "Your People Create Your Outcomes—Here’s How"
+from: "\"Sahil Bloom's Curiosity Chronicle\" <sahil@sahilbloom.com>"
+to: ""
+date: 2026-01-30 14:07:26
+labels: ["CATEGORY_PERSONAL", "INBOX", "Sahil Bloom", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_1989028747625928812", "UNREAD"]
+---
+The Pygmalion Effect: How Expectations Create Outcomes
+watch on [YouTube](https://a01c829f.click.kit-mail6.com/lmu0onn873fmhnqp6kqhxf8kxn400igh2n0x2/6qheh8hlxr6z5xuo/aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g_dj1Ec0JlRlRmNVkyQQ==) or read and listen on [sahilbloom.com](https://a01c829f.click.kit-mail6.com/lmu0onn873fmhnqp6kqhxf8kxn400igh2n0x2/kkhmh6hnzw2r5ril/aHR0cHM6Ly93d3cuc2FoaWxibG9vbS5jb20vbmV3c2xldHRlci90aGUtcHlnbWFsaW9uLWVmZmVjdC1ob3ctZXhwZWN0YXRpb25zLWNyZWF0ZS1vdXRjb21lcw==)
+read time 4 minutes
+Welcome to The Curiosity Chronicle, a newsletter where I provide actionable ideas to help you build a high-performing, healthy, wealthy life.
+Forwarded this email? Join 800,000+ other readers [here](https://a01c829f.click.kit-mail6.com/lmu0onn873fmhnqp6kqhxf8kxn400igh2n0x2/g3hnh5hmg9orl8br/aHR0cHM6Ly93d3cuc2FoaWxibG9vbS5jb20vbmV3c2xldHRlcg==).
+Andrew Huberman called my first book "An important clarifying force in anyone’s search to make the best possible choices for their life." Join 400,000+ other readers and get it now on a big sale!
+|
+In Partnership with [Kit](https://a01c829f.click.kit-mail6.com/lmu0onn873fmhnqp6kqhxf8kxn400igh2n0x2/wnh2hghqm7vnkzf7/aHR0cHM6Ly9wYXJ0bmVycy5raXQuY29tL3NhaGlsYmxvb20tMDEzMDI2)
+Stop switching between 12 tabs to run your creator business
+I’ve been there—Canva for design, Shopify for sales, Patreon for memberships. Different tabs. Different logins. Zero connection between them.
+[The Kit App Store](https://a01c829f.click.kit-mail6.com/lmu0onn873fmhnqp6kqhxf8kxn400igh2n0x2/wnh2hghqm7vnkzf7/aHR0cHM6Ly9wYXJ0bmVycy5raXQuY29tL3NhaGlsYmxvb20tMDEzMDI2) fixed that. Smart apps plug directly into Kit and work like they've always been there. Podcast episodes turn into email sequences automatically. Subscriber behavior tells you exactly who's ready to buy. Design assets appear right in your editor—no downloading, uploading, or hunting through folders.
+It's not about having more tools. It's about making the ones you already love actually work together. Less time managing your tech stack means more time doing what got you here in the first place: creating.
+|
+The Pygmalion Effect: How Expectations Create Outcomes
+In an ancient poem written by the Roman poet Ovid, a sculptor named Pygmalion grows disillusioned with the women of his society.
+Rather than compromise on a relationship, he dedicates himself to his work.
+One day, he crafts a sculpture of a woman from ivory. His work is so vivid and lifelike that the sculpture surpasses the beauty of any woman he has ever known.
+Pygmalion admires the statue. But slowly, he begins to treat it as though it were alive. He dresses it. Gives it gifts. Talks to it. Imagines conversations with it. Eventually, he falls in love with it.
+One evening, returning from a festival honoring the gods, Pygmalion kisses the statue, feels the ivory soften, and the statue comes to life.
+(Please briefly set aside the surface weirdness of the tale and continue reading…)
+The story of Pygmalion represented the power of belief to shape reality.
+But it didn’t enter the mainstream lexicon until 1968, when a psychologist named Robert Rosenthal used it to name an effect from his most recent study.
+In [the study](https://a01c829f.click.kit-mail6.com/lmu0onn873fmhnqp6kqhxf8kxn400igh2n0x2/08hwh9h2newvxotl/aHR0cHM6Ly9wZW9wbGUud2t1LmVkdS9zdGV2ZS5ncm9jZS9Sb3NlbnRoYWxKYWNvYnNvbi1QeWdtYWxpb25pbnRoZUNsYXNzcm9vbS5wZGY=), conducted at a public elementary school, researchers told teachers that certain students were predicted (based on testing) to experience rapid cognitive growth in the year ahead. They were never instructed to treat these children differently, just given the information on them as part of the standard briefing to start the year.
+What the teachers didn’t know was that these children were selected at random.
+The results were fascinating:
+By the end of the year, the students who had been marked as cognitive bloomers had experienced the greatest IQ gains, an effect that was strongest in the younger children.
+The researchers concluded that the results were caused by subconscious micro-behaviors by the teachers towards the randomly selected students that quietly signaled belief:
+- More eye contact
+- More patience after mistakes
+- More opportunities to answer
+- More detailed feedback
+The micro-behaviors quietly made the children feel capable. This capability became a part of their identity that compounded over the year in their results.
+Rosenthal wrote:
+“When we expect certain behaviors of others, we are likely to act in ways that make the expected behavior more likely to occur.”
+Drawing upon Ovid’s tale, Rosenthal coined the phrase Pygmalion Effect to refer to the impact of belief and expectations in shaping outcomes.
+We rise (or fall) to the level of expectations that others have for us:
+- Those who have high expectations placed on them are more likely to internalize these expectations and improve their performance accordingly.
+- Those who have low expectations placed on them are more likely to internalize these expectations and weaken their performance accordingly.
+As a leader, remember that a simple, positive vocalization can provide a free push in the right direction. This applies to leadership at home just as much as it does in the workplace.
+And as a human, if there’s one sticky takeaway from today, it’s this…
+The people you surround yourself with determine your outcomes:
+- If you surround yourself with people who believe you are capable of more, who encourage you to think bigger, to dream, you will rise to the level of those expectations.
+- If you surround yourself with people who belittle you, who laugh at your ambitions, who tell you to be realistic, you will fall to the level of those expectations.
+What better reason do you need to choose wisely when it comes to the people you allow into your life?
+The Pygmalion Effect proves it:
+Your circle creates your reality. Choose wisely.
+Sahil Bloom
+|
+|
+|

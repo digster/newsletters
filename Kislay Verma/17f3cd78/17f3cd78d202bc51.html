@@ -1,0 +1,376 @@
+<!DOCTYPE html>
+<html xmlns="https://www.w3.org/1999/xhtml" xmlns:o="urn:schemas-microsoft-com:office:office">
+<head>
+<title>It Depends #54: An introduction to Caching (Part-2)</title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<!--[if !mso]><!-->
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<!--<![endif]-->
+<!--[if mso]>
+<style type="text/css">table {border-collapse:collapse;border-spacing:0;margin:0;}div, td {padding:0;}div {margin:0 !important;}</style>
+<noscript><xml><o:OfficeDocumentSettings><o:PixelsPerInch>96</o:PixelsPerInch></o:OfficeDocumentSettings></xml></noscript>
+<![endif]-->
+<style type="text/css">
+#outlook a{padding:0;}
+.ReadMsgBody{width:100%;} .ExternalClass{width:100%;}
+.ExternalClass, .ExternalClass p, .ExternalClass span, .ExternalClass font, .ExternalClass td, .ExternalClass div {line-height: 100%;}
+
+body { margin: 0; padding: 0; height: 100%!important; width: 100%!important; -webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%;}
+table,td { border-collapse: collapse !important; mso-table-lspace: 0pt; mso-table-rspace: 0pt;}
+img { border: 0; height: auto; line-height: 100%; outline: none; text-decoration: none; max-width: 100%!important; -ms-interpolation-mode: bicubic;}
+img.aligncenter { display: block; margin: 0 auto;}
+
+@media screen and (max-width: 525px) {
+ .pt-1, .padding-top-15 { padding-top: 15px!important; }
+ .pb-1, .padding-bottom-15 { padding-bottom: 15px!important; }
+ .responsive { width:100%!important; }
+ table.responsive { width:100%!important; float: none; display: table; padding-left: 0; padding-right: 0; }
+ table[class="responsive"] { width:100%!important; float: none; display: table; padding-left: 0; padding-right: 0; }
+ img { max-width: 100%!important }
+ img[class="responsive"] { max-width: 100%!important; }
+ /* "width: auto" restores the natural dimensions forced with attributes for Outlook */
+ .fluid { max-width: 100%!important; width: auto; }
+ img[class="fluid"] { max-width: 100%!important; width: auto; }
+
+ .block { display: block; }
+
+ td[class="responsive"]{width:100%!important; max-width: 100%!important; display: block; padding-left: 0 !important; padding-right: 0!important; float: none; }
+ td.responsive { width:100%!important; max-width: 100%!important; display: block; padding-left: 0 !important; padding-right: 0!important; float: none; }
+
+ td[class="section-padding-bottom-image"]{
+ padding: 50px 15px 0 15px !important;
+ }
+
+ .max-width-100 { max-width: 100%!important; }
+
+ /* Obsolete */
+ .tnp-grid-column {
+ max-width: 100%!important;
+ }
+
+}
+
+
+
+/* Contains some rules to simulate device layout on backend preview */
+
+#newsletter-builder-area-center-frame-content.tnp-view-mobile table[class="responsive"],
+#newsletter-builder-area-center-frame-content.tnp-view-mobile table.responsive
+{
+ width:100%!important;
+ float: none;
+ display: table;
+ padding-left: 0;
+ padding-right: 0;
+}
+
+#newsletter-builder-area-center-frame-content.tnp-view-mobile td[class="responsive"]{
+ width:100%!important;
+ max-width: 100%!important;
+ display: block;
+ padding-left: 0 !important;
+ padding-right: 0 !important;
+ float: none;
+}
+
+#newsletter-builder-area-center-frame-content.tnp-view-mobile img[class="responsive"],
+#newsletter-builder-area-center-frame-content.tnp-view-mobile img.responsive
+{
+ max-width: 100%!important;
+}
+
+#newsletter-builder-area-center-frame-content.tnp-view-mobile img[class="fluid"]{
+ width: 100%;
+ max-width: 100%!important;
+}
+
+#newsletter-builder-area-center-frame-content.tnp-view-mobile .pt-1 {
+ padding-top: 15px!important;
+}
+
+#newsletter-builder-area-center-frame-content.tnp-view-mobile .pb-1 {
+ padding-bottom: 15px!important;
+}
+
+#newsletter-builder-area-center-frame-content.tnp-view-mobile .tnp-grid-column {
+ max-width: 100%!important;
+}
+
+#newsletter-builder-area-center-frame-content.tnp-view-mobile td[data-responsive-image="true"] {
+ height: auto !important;
+}
+
+
+/* Html */
+.html-td-global p {
+ font-family: Helvetica, Arial, sans-serif;
+ font-size: 16px;
+}
+
+
+/* Text */
+
+
+/* Last posts */
+@media (max-width: 525px) {
+ .posts-1-column {
+ width: 100%!important;
+ }
+ .posts-1-image {
+ width: 100%!important;
+ display: block;
+ }
+}
+
+
+</style>
+</head>
+<body style="margin: 0; padding: 0; line-height: normal; word-spacing: normal;" dir="ltr">
+
+<table cellpadding='0' cellspacing='0' border='0' width='100%'>
+<tr>
+<td bgcolor='#ffffff' valign='top'><!-- tnp --><table style="border-collapse: collapse; width: 100%; user-select: auto;" class="tnpc-row tnpc-row-block ui-sortable-handle" data-id="image" width="100%" cellspacing="0" cellpadding="0" border="0" align="center">
+<tbody style="user-select: auto;"><tr style="user-select: auto;"><td style="padding: 0px; user-select: auto;" class="edit-block" align="center">
+<!--[if mso | IE]><table role="presentation" border="0" cellpadding="0" align="center" cellspacing="0" width="600"><tr><td width="600" style="vertical-align:top;width:600px;"><![endif]--><table type="options" class="tnpc-block-content" style="width: 100% !important; max-width: 600px !important; user-select: auto;" width="100%" cellspacing="0" cellpadding="0" border="0" align="center">
+<tbody style="user-select: auto;"><tr style="user-select: auto;"><td style="text-align: center; letter-spacing: normal; padding: 0px; background-color: rgb(255, 255, 255); width: 100% !important; line-height: normal !important; user-select: auto;" width="100%" bgcolor="#ffffff" align="center"><table class="responsive" style="margin: 0px; user-select: auto;" width="100%" cellspacing="0" cellpadding="0" border="0">
+ <tbody style="user-select: auto;"><tr style="user-select: auto;">
+ <td style="user-select: auto;" width="100%" valign="middle" align="center">
+ <a href="https://daijdhg.r.bh.d.sendibt3.com/tr/cl/SvIvRgCSxJu5-eUBmQ5DpSDRPYtYDxgsjSHoN0oeT7pS9jcEaWjzfMcrD0mzM8WHbvj5r-1jyaplcvsWq6IwTalrQGT89NPCMEXekQimdlYMFb6YkU5mA8IhnhVRhqgW7CpsbVB1Zy5K8TeOvSpM1HKkWhYKewNwACV2zhunCbSfww53g43h4Dt27cm1OgZUb4J20Ga_Kq3GYZ4BxHJVSiJ8TL3RpJYhaPXNWJ3sariG-05Z4GW37ghJPFQzic8IJEc4eMGGH5MHMrSl4rPhJ2R4p_q6N47W6ZlUx4HhI4sHbS251p1fhvAOuRVvLr3TShhjTMf0WEarEhXQUakzDFRdB7NHr8rL3KWFNEw-rXA2" target="_blank" rel="noopener nofollow" style="display: inline-block; font-size: 0px; text-decoration: none; line-height: normal !important; user-select: auto;"><img src="https://5fwei.img.af.d.sendibt2.com/im/3089376/3325ddad58594c9c9a31c2c2f4c1c5d57b0ddb76f7c3a70fdda7d9b360aae9c9.jpeg?e=_jPoQ9d1i2p4YbOaUcogP5rK7mY-1-0TcaWGiYQxB2lHeAKqs-YfZh4f_RgR4pTsgo27yht5iVdqJQLvMDelKYm7UASaIszA4SOIZI4yJdvVH5NdgI4zJlzIr8-qiefjnPMq28Ku6XuUGNcjg6K2G5Y9o37eLaNBtrx_52ozVI7WbEk-Gx9be05ghdZVPzSBvPOqM7FwQKQgRhl7WVCGdFNVy-bv8pGvmrAm0aC13u4AeU5nH7vCc86pfxcIsI3lnk2QGhUNs_MqetNj0lpEdf_MXErDmF5IoE9TW1neVg_qMBUnS0cnmeekt7zT-TxS1ykzM4mdIg" alt="" style="display: inline-block; padding: 0px; border: 0px; max-width: 100% !important; user-select: auto;" class="" width="250" height="208" border="0"></a> </td>
+ </tr>
+</tbody></table></td></tr></tbody></table><!--[if mso | IE]></td></tr></table><![endif]--></td></tr></tbody></table><table style="border-collapse: collapse; width: 100%; user-select: auto;" class="tnpc-row tnpc-row-block ui-sortable-handle" data-id="text" width="100%" cellspacing="0" cellpadding="0" border="0" align="center">
+<tbody style="user-select: auto;"><tr style="user-select: auto;"><td style="padding: 0px; user-select: auto;" class="edit-block" align="center"><!--[if mso | IE]><table role="presentation" border="0" cellpadding="0" align="center" cellspacing="0" width="600"><tr><td width="600" style="vertical-align:top;width:600px;"><![endif]--><table type="options" class="tnpc-block-content" style="width: 100%!important; max-width: 600px!important" width="100%" cellspacing="0" cellpadding="0" border="0" align="center">
+<tbody><tr><td style="text-align: center; width: 100% !important; line-height: normal !important; letter-spacing: normal; padding-top: 0px; padding-left: 10px; padding-right: 10px; padding-bottom: 0px; background-color: #ffffff;" width="100%" bgcolor="#ffffff" align="center"><table style="width: 100%!important" width="100%" cellspacing="0" cellpadding="0" border="0">
+ <tbody><tr>
+ <td style="font-family: Verdana, Geneva, sans-serif; font-size: 18px; font-weight: normal; color: #222222; line-height: 1.5;" width="100%" valign="top" align="left">
+ <p style="text-align: center"><span style="font-size: 14px">Already a subscriber? Jump ahead to the good stuff! </span></p>
+<p style="text-align: center"><span style="font-size: 14px">But if someone forwarded this to you, they probably love <em>It Depends</em> and think you would too!&nbsp;</span></p> </td>
+ </tr>
+</tbody></table></td></tr></tbody></table><!--[if mso | IE]></td></tr></table><![endif]--></td></tr></tbody></table><table style="border-collapse: collapse; width: 100%; user-select: auto;" class="tnpc-row tnpc-row-block ui-sortable-handle" data-id="cta" width="100%" cellspacing="0" cellpadding="0" border="0" align="center">
+<tbody style="user-select: auto;"><tr style="user-select: auto;"><td style="padding: 0px; user-select: auto;" class="edit-block" align="center"><!--[if mso | IE]><table role="presentation" border="0" cellpadding="0" align="center" cellspacing="0" width="600"><tr><td width="600" style="vertical-align:top;width:600px;"><![endif]--><table type="options" class="tnpc-block-content" style="width: 100% !important; max-width: 600px !important; user-select: auto;" width="100%" cellspacing="0" cellpadding="0" border="0" align="center">
+<tbody style="user-select: auto;"><tr style="user-select: auto;"><td style="text-align: center; letter-spacing: normal; padding: 0px; background-color: rgb(255, 255, 255); width: 100% !important; line-height: normal !important; user-select: auto;" width="100%" bgcolor="#ffffff" align="center"><table style="margin: 0px; border-collapse: collapse; user-select: auto;" width="100%" cellspacing="0" cellpadding="0" border="0">
+ <tbody style="user-select: auto;"><tr style="user-select: auto;">
+ <td style="user-select: auto;" align="center">
+ <table role="presentation" style="margin: 0px auto; user-select: auto;" width="200" cellspacing="0" cellpadding="0" border="0" align="center"><tbody style="user-select: auto;"><tr style="user-select: auto;"><td role="presentation" style="border: none; border-radius: 3px; cursor: auto; background: rgb(37, 111, 156); user-select: auto;" valign="middle" bgcolor="#256f9c" align="center"><a href="https://daijdhg.r.bh.d.sendibt3.com/tr/cl/xj11th5j6gXot_m0DUJwJGvxdQhJLlyOWiq7DbhvEq3WTxDq257RKiZLD2nduwNpOI81wvuTsaeoXMTnxnt_zX2GElnhHKo6gTQC0ZzTsUdxx5Am68unZFc28vJNfK9OzeGv0Z6KXGBkbyArcxUhp2ntnLYYsd7svr_3feQmjE2n1qrF5VeqPZNT-KFNUE4h9pPOwb_JaXUbBfHC55-IRQXFFdUNhlV_0WHV18jYimRFqydnBUaiUz64MZq1lHTTEzaXH2qMMG2ruN4L6iOOYQqAorRGRcZUpWWXUSwsFPYc1CzHHaPQiOZwN3ZMXBHq5pog6mVqiH4rR_9NhCEwk5V71uwDsCCG1OJGYjO5PnAidEKSSGSjpN0Vsf8XOtuX4ipKEHQqOftuooK4f5_71_k" style="display: inline-block; background: rgb(37, 111, 156); color: rgb(255, 255, 255); font-family: Verdana, Geneva, sans-serif; font-size: 16px; font-weight: bold; line-height: 120%; margin: 0px; text-decoration: none; text-transform: none; padding: 10px 25px; border-radius: 3px; user-select: auto;" target="_blank">Subscribe now!</a></td></tr></tbody></table> </td>
+ </tr>
+</tbody></table>
+
+<div itemscope="" itemtype="http://schema.org/EmailMessage" style="user-select: auto;">
+ <div itemprop="potentialAction" itemscope="" itemtype="http://schema.org/ViewAction" style="user-select: auto;">
+ <meta itemprop="url" content="https://kislayverma.com/newsletter-archive/" style="user-select: auto;">
+ <meta itemprop="name" content="Subscribe now!" style="user-select: auto;">
+ </div>
+ <meta itemprop="description" content="Subscribe now!" style="user-select: auto;">
+</div></td></tr></tbody></table><!--[if mso | IE]></td></tr></table><![endif]--></td></tr></tbody></table><table style="border-collapse: collapse; width: 100%; user-select: auto;" class="tnpc-row tnpc-row-block ui-sortable-handle" data-id="separator" width="100%" cellspacing="0" cellpadding="0" border="0" align="center">
+<tbody style="user-select: auto;"><tr style="user-select: auto;"><td style="padding: 0px; user-select: auto;" class="edit-block" align="center">
+<!--[if mso | IE]><table role="presentation" border="0" cellpadding="0" align="center" cellspacing="0" width="600"><tr><td width="600" style="vertical-align:top;width:600px;"><![endif]--><table type="options" class="tnpc-block-content" style="width: 100% !important; max-width: 600px !important; user-select: auto;" width="100%" cellspacing="0" cellpadding="0" border="0" align="center">
+<tbody style="user-select: auto;"><tr style="user-select: auto;"><td style="text-align: center; letter-spacing: normal; padding: 20px; background-color: rgb(255, 255, 255); width: 100% !important; line-height: normal !important; user-select: auto;" width="100%" bgcolor="#ffffff" align="center"><table style="user-select: auto;" width="100%" cellspacing="0" cellpadding="0" border="0">
+ <tbody style="user-select: auto;"><tr style="user-select: auto;">
+ <td style="border-bottom: 1px solid rgb(221, 221, 221); user-select: auto;"></td>
+ </tr>
+</tbody></table></td></tr></tbody></table><!--[if mso | IE]></td></tr></table><![endif]--></td></tr></tbody></table><table style="border-collapse: collapse; width: 100%; user-select: auto; display: table;" class="tnpc-row tnpc-row-block ui-sortable-handle" data-id="heading" width="100%" cellspacing="0" cellpadding="0" border="0" align="center">
+<tbody style="user-select: auto;"><tr style="user-select: auto;"><td style="padding: 0px; user-select: auto;" class="edit-block" align="center"><!--[if mso | IE]><table role="presentation" border="0" cellpadding="0" align="center" cellspacing="0" width="600"><tr><td width="600" style="vertical-align:top;width:600px;"><![endif]--><table type="options" class="tnpc-block-content" style="width: 100%!important; max-width: 600px!important" width="100%" cellspacing="0" cellpadding="0" border="0" align="center">
+<tbody><tr><td style="text-align: center; width: 100% !important; line-height: normal !important; letter-spacing: normal; padding-top: 10px; padding-left: 10px; padding-right: 10px; padding-bottom: 10px; background-color: #ffffff;" width="100%" bgcolor="#ffffff" align="center"><table width="100%" cellspacing="0" cellpadding="0" border="0">
+ <tbody><tr>
+ <td style="font-size: 20px;font-family: Verdana, Geneva, sans-serif;font-weight: bold;color: #222222; padding: 0; line-height: normal !important; letter-spacing: normal;" valign="middle" align="center">
+ #54: An Introduction to Caching (Part-2) </td>
+ </tr>
+</tbody></table></td></tr></tbody></table><!--[if mso | IE]></td></tr></table><![endif]--></td></tr></tbody></table><table style="border-collapse: collapse; width: 100%; user-select: auto; display: table;" class="tnpc-row tnpc-row-block ui-sortable-handle" data-id="text" width="100%" cellspacing="0" cellpadding="0" border="0" align="center">
+<tbody style="user-select: auto;"><tr style="user-select: auto;"><td style="padding: 0px; user-select: auto;" class="edit-block" align="center"><!--[if mso | IE]><table role="presentation" border="0" cellpadding="0" align="center" cellspacing="0" width="600"><tr><td width="600" style="vertical-align:top;width:600px;"><![endif]--><table type="options" class="tnpc-block-content" style="width: 100%!important; max-width: 600px!important" width="100%" cellspacing="0" cellpadding="0" border="0" align="center">
+<tbody><tr><td style="text-align: center; width: 100% !important; line-height: normal !important; letter-spacing: normal; padding-top: 10px; padding-left: 10px; padding-right: 10px; padding-bottom: 10px; background-color: #ffffff;" width="100%" bgcolor="#ffffff" align="center"><table style="width: 100%!important" width="100%" cellspacing="0" cellpadding="0" border="0">
+ <tbody><tr>
+ <td style="font-family: Verdana, Geneva, sans-serif; font-size: 18px; font-weight: normal; color: #222222; line-height: 1.5;" width="100%" valign="top" align="left">
+ <p id="docs-internal-guid-bc834d50-7fff-943a-fa78-95b3b69b697b" dir="ltr">Hello Everyone!</p>
+<p id="docs-internal-guid-4eb579d7-7fff-73f7-8f90-353077e8279a" dir="ltr">Welcome to the 54thd episode of It Depends. Hope you are all doing well. We continue our look into caching as an architecture pattern by going into some more nuanced topics like cache arming and the thundering herd problem. And then on to the best of the tech internet.</p>
+<h2>An introduction to Caching (Part-2)</h2>
+<p dir="ltr">You can read <a href="https://daijdhg.r.bh.d.sendibt3.com/tr/cl/MH5BwfAnXnpju3He2F1ePJF1F2sbgk5bzuBKOgCcRSeJnPSy6a2BJ-t3gXPg2OIxumwGIAXoxsVoXZCoRfulpC_YCaz8SQPhyZx4hyZYr6u35EGgdB1Tno5yUzcoJMMpbCWUtnxlpcyPKfGAv_1Z7upQ_i5a6vePEK0zE31X4x-TdcsWVdyJtumQcha4CrfhNnP-pYsboVHqzTP798UJkHCaz5K9LQrpyNHuX8sCJkIX19ADkj7kdxj9cVjHoCP-GFBPMg0o8meotJGKVsW6PDmNu1If3GcYIZ--giFcBbf2rcbfPZOybvnJ1efyrOrJ00B5Qmw_3kz9z3hqt8afMq33XTPgQ1OEynKrtbIaME0ILzt9m0_Gdp-r7gEcE--VA4GPMg8wxkJ-bo9A0Io9a43_Br2H1DLHWe9UaI2ca7Cg_HpmiijA-zvQYnGGpC4tBQ0biT3tIHpAVVs8rSKLJyg">the original article</a> directly on the blog.</p>
+<p>In <a title="part 1 of this series" href="https://daijdhg.r.bh.d.sendibt3.com/tr/cl/SxPzDm6MZa3-gQcH-dL6zGLtF5rHHOES8AAMomIqZC7l45R-6zH0TCiB8_p5n9hoNf3mGlYkO0iP6Z7o-GItfPlNX-_rfgEa7b2DnNBlh-Nk9KjsNyaj9shMpW6o16szkdVfRI_Ys2JfFw3kwyu6C-FGP8LdbluAO79dnZ4L9isTEqCHpBB6lAHLv-w4eWqEMw6PqjDvlcoMCpVnLs58PkUR-EDoyKmtxRbLq36-p1esBACyAXjdd8TYWISz-z6KbLDcqkvzJGredwJwmU4Bqc1WA3HxfGFx2D1VJUmOj3jPE8rdPGMQmrBCM9ohEQavtu02z7sNHYm8krMfkdevU1kKt_FrHlUChwpPoP-FOlHuq1ZW__-SbN6EXW2QBEBiCm_Sb2To5scR8cE3XpYrJob612LuRBmqOTQphr8YAl1ItevOJh5LrQwAr2j69jgK-v6z_hElW3Wgmm3xJZ3-QBY" target="_blank" rel="noreferrer noopener">part 1 of this series</a>, we looked at the different types of caches and the various ways they can be used to scale up applications. Now let’s look at some nuances of using caching.</p>
+<hr class="wp-block-separator">
+<h3>Scaling caches</h3>
+<p>Like any other part of the system design, caches come under load as the scale of the application increases. External caches are servers like any other and can buckle under the read/write traffic being sent their way. Even in-memory caches can suffer degraded performance due to read locking if too many application threads try to access them, although this is much harder to get to and easier to mitigate. let’s look at some problems and solutions scaling caches.</p>
+<h4>Scaling to more traffic</h4>
+<p>A cache is essentially a data store, and the problem of scaling for traffic is a well-known one in the database domain. Rising traffic can cause scalability problems by increasing the CPU usage or by choking the network bandwidth available to a server.</p>
+<p>The most straightforward way to scale for an increase in traffic is to have multiple servers which can serve the traffic. In databases, we typically configure a master-slave (aka leader-follower) topology where all writes go to a single server which replicates them across all the other servers. This way, all servers have all the data and the application can connect to any of them to read them. This reduces the load on each server by a factor of the number of servers.</p>
+<p dir="ltr"><img class="alignnone size-medium wp-image-1460 aligncenter" src="https://5fwei.img.af.d.sendibt2.com/im/3089376/f8ccc8817c2c9a9339fe9697825ffeb004b9533e5872ab7518bafed567aa8e10.jpg?e=AygdMKjZANYJlz9v2VXY2lKLK0l8DypIKhGiJpjyg51QAKlHHEVnzJVNbZu3RwmOvFSOmobujM_vUjWohBZ68UFUcyrUgQY9c6fRi6IwiNJrw8urvVNh7fdvf5LHAIqYXC6lLpg3cSXH_AawyRC7B8uFs1RGxpfSnGnJB9E2TRNke_KOMoV4UzLifuiXZi7jzuv6Q30EfNxMIheYnC7ODeZsRZnCq_QOkxrhSbIo3Zj1BdaOsbIqnrHcq3Z22Nae6GxrVttqMsHtJTyoFjdS1cBMp6c0GQmJtxoI_gEsUnvWpDRtseQ4Rw9ZfKKPVbMtsQfClg" alt="" width="487" height="370"></p>
+<p>Since writes to cache data are much rarer than reads, the overhead of replicating the writes to all slave servers is usually acceptable.</p>
+<p>Both <a title="Twemproxy" href="https://daijdhg.r.bh.d.sendibt3.com/tr/cl/zHVB4xEd0P26Q3nX4WJQ8VFfKDZ6B0_LKZFF6m9b4dpDOnblO1R1ZbCNvwdX_nyZ-IJqEpblB2NkjTy7l9xaaFjgNqBr6GpCaO7aYtTdIJ5RrlmSqD17wIJ7HZ1BgnFhFyyRdttIr0l5yBu_8OJi6GkmFx-WIaZQreOJRsF1C4uEOg5CA1m0cVKR_T1qWSMgNME7HCLx9HCSne3sNIQtA0QvfKbJo0ovKk8Dth6WA2YdC3XKzj17b4ogEYMQen_ZHrh_RhURtZdoL8aCEf5c4IgjJ94CC_k6MnBsDMrn-_L84_XaejfIYWAsGPHLNQuIHLG4Ks16QEg5Y80OEErd5bZyVI3Zbn16t14_lZ2htyDe3O7n3FaN-fIInjYgSpnZCKj8AhzuQ0Txcxrf7JaiOq6_8cCIpJxmYQ" target="_blank" rel="noreferrer noopener">Twemproxy</a> and <a title="Redis Sentinel" href="https://daijdhg.r.bh.d.sendibt3.com/tr/cl/AHleeirZHQzVgcsMBwH2eXUeAq9P-MiOwV9yORMl3VcNAptL2JQkCXfk54ZgBITmUGPGVTJC47rUwN-zWBg3_gD2xYw9FAJ5Dj5vHs2lnIhumbJ8wXkjJyElBfaAEnE0JBjrm5JcAGPmoz7CucuuOs7lj10o1X4bRd6LUYTQcVfk9Jv0nK1JzhrNwwTkaytk5SY4jIbJ1TQalXuF5Shi5z7YdUqAJ33V-o4zs3N5Jc463G2WSmd9gnq0ahQjqRCdIOgGDxwDFqcN5MQbCPY6GcsXxa0m_SBdAyejQGwH5Nwpr09CNvlYAap-DxVsn5CeyW7_iR2YXpQk6v0gyOQRZJDUN3vTcfrgyRSoVjd44AokiF5AVdv5qcrC3yfV" target="_blank" rel="noreferrer noopener">Redis Sentinel</a> are examples of implementation which use redundancies to scale caches.</p>
+<h4>Scaling to larger data size</h4>
+<p>We have already discussed this under external distributed caches. If we want to store more data, we really don’t have a choice but to distribute it across more than one server. This directly brings the cache into the world of distributed systems with all its attendant pros and cons.</p>
+<p><img class="alignnone size-medium wp-image-1461 aligncenter" src="https://5fwei.img.af.d.sendibt2.com/im/3089376/b769dafa318a4720dc09c35bbf63168dbca92800e70346a85918a81ceef9a31d.jpg?e=BPAH64ZbyD6OIRqt2_IvUfhEjGbYPsQOIUmbq42wkNldOr2-yW6qEBxMez3gdX4L3Ob1WHHfTJdq6SIaXunBqobLmV4OhHrAetfnlNUqw1EzCLdNPu-C1aVRh3TblybLchefLI8g1ORqZp71GHT1PEZWNamrB9bLnnCHfES5Ef6d1CDs7iINx4IxyMhpeIB15ZiGSVHQNvhTzQchhcAQCPy7VKGk32pi7QPYWj4hJWz6eBBDb10xbJOJYGFNbBkRwBLAFV6jzaYDSPOsvBWYh-Y7glosc-VOgQQ2yQwiBlZgG-7s4pE7HLqO" alt="" width="472" height="381"></p>
+<p>Note that distributing data across multiple servers solves for both data and traffic scaling since no single server faces as much traffic as in the case of a single cache instance. However, we can look at only doing redundant deployments if our problem is just traffic and not data volume. Data replication is a simpler problem than data distribution.</p>
+<p>Both <a href="https://daijdhg.r.bh.d.sendibt3.com/tr/cl/a5OSuK5SBQsgvrXFrpM7RUIu8nnLECUtrkBfoTDzchOtqM-h4M1C0QSqptkrO05SDCZVY3gsF8kHL67PIYnfOAl3DPjy4TeJfkYyT1e71v3yanYzoIZm8u3-dY3LeJmkMARnxu3-UsYxZK2RkNxyj-qcp8CrnHpVz8Db6caXehOFchAgLGkjla8GW8hcZTag7rO8HATc8YPzv8Nc0O2Xi5ZqBY2aT4y2oE9JEKkLqHge5818jIv52kXf-rwdwpBzSWkqQlzDYL5hS5Rgv9TM1ulQT4e_x0mmpSIA96X7ycgA2dxdMfEaK7lHdf5JSRvxz6or5QLqPoPxORvtoBOgjKAo9HzS_7LXv_KIhzk8gh3-L1VnkPBBwyNDml5rMXmXXXUqeKhmq6c2sDItll7-RCLjeJoE3Bf05A" target="_blank" rel="noreferrer noopener">Twemproxy</a> and <a title="Redis Cluster" href="https://daijdhg.r.bh.d.sendibt3.com/tr/cl/gHnY6uu4Rnw_bmYr4WGk4PZgCFzil42HjEUF6tDby0WbjGfhrvnsB69TKj7_Y4_ntW-a4Dy5vFWcXy571ZakIdJqzsyx4UJ-fblVljzzEYKPhIYP3zIVCyHKMXHgM4HcGE0bJtQtgPj0WkrCUYX-9fyrg1QUOQWp8bsbkCdQVmLvCiHGIyOjVDY-okObBbIkct-iUoeGKh29qI4mKcCZifAj19qyI2N9q14tvq9ZGcmABUXzRyG3WHbAXRpkWK53QUibZGyMrPR6eeShuXcp1CbNhSN1R9ytjK8KPNO_Clof2-FyvHXCOM10deCd8lApjcnx_eQLPuVDgNVl8LLNSr8tsEQEdvlDFv6vEBnT-P5zTuna-fQGHXg7UW_c5bgV74XiCImCqsbyF9BHBQ" target="_blank" rel="noreferrer noopener">Redis Cluster</a> are examples of distributing data to scale to larger data volumes.</p>
+<h3>Cache Stampede</h3>
+<p>In high throughput systems, a scenario emerges in the use of caches which, if not handled properly, can bring down the entire system. This has happened to pretty much every large scale company like Facebook, Doordash, Instagram etc. I have personally encountered it while building the Promise Engine at Myntra.</p>
+<p>Let’s say that we are using a read-through cache where application processes first try to read data from a cache, and if not found (cache miss) they tried to load it from the source database/system. If this is a high throughput system involving a large number of concurrent accesses to the cache, then even if a single key is missing, a large number of processes will try to access the database to read this data at the same time. This now triggers a flood of traffic to the database, which may now collapse under it since it always expects a cache to sit in front of it and is not designed to take such a heavy spike of traffic.</p>
+<p>This means that a single heavily accessed key being missing from the cache can trigger a complete system collapse. Such is the fine line of high scalability!</p>
+<h3>Prevent cache stampede</h3>
+<p>Before we try to solve the problem, please evaluate if this is a problem for your system. If your cache were to vanish and the traffic were to hit your database at once, would the database hold up with perhaps only a temporary spike in latency? If so, you do not need to worry about a cache stampede. It is worthwhile doing a simulation in your production environment to verify this.</p>
+<p>If you think this is going to be a problem for you. there are a few approaches you can take.</p>
+<h4>Keep cache always full</h4>
+<p>This approach treats the cache as the source of truth. The idea is that since a cache stampede is triggered by a cache miss, if you can load all the data into the cache using a refresh ahead strategy, then a cache miss will never happen and hence cache stampede will be avoided.</p>
+<p>While this is possible for small datasets, keeping large data set fully loaded at all times is not always feasible for cost reasons.</p>
+<h4>Nominate one process to fill the cache</h4>
+<p>Let’s say a cache miss occurs when 1000 processes are trying to access a key concurrently. To prevent all of them from rushing to the database, we can implement a mutex lock/leader election mechanism to elect one process which goes to the database to get the data and refresh the cache. The other processes can either wait for the cache to be filled before trying again (leading to temporarily increased latency) or they can all throw an error to their respective callers (leading to a brief spike of errors).</p>
+<p>Obtaining locks in a distributed environment is a complicated but solved problem. Zookeeper and Redis both offer convenient ways of doing this, but you can roll your own using lock entries in a table if you think it is easier (it isn’t).</p>
+<h4>Probabilistic early expiration</h4>
+<p>This is a smarter solution than most teams require, but the idea is to balance the above two approaches. If we cannot load all the data in the cache but still want to prevent cache misses, then the only way is to reload the keys intelligently before it expires from the cache. This paper outlines one of the strategies for preemptive loading of keys before they expire.</p>
+<h4>TL;DR</h4>
+<p>Cache stampede is one instance of the new failure modes introduced into an architecture that uses caching. In designing high scale applications, this outcome of cache miss should be carefully considered before using caches.</p>
+<h3>From the internet</h3>
+<ol>
+<li role="presentation"><span style="font-family: verdana, geneva, sans-serif;font-size: 18px"><a href="https://daijdhg.r.bh.d.sendibt3.com/tr/cl/50I3o8VuKPcOKeHhP4jtDFE167iVuTRwNL-QioVnoAWuZBi_2vgC3EA7R8ZEzIcmkpMRUPyFq9IDXrVYJCa3Pi9JUuRMeU_o5jwBXZn056ivGvrNDSaUvfIOj74AIKPF-UidmzhVYd2piWnxpgt-J3olu6kJfNtjR7654wRvZ5PizVMvtN1OKVlstW-1-CXElV4TxVGUkxBb59dj_U23bPHJAGp5o6Ku0kfdLeVb1DQUV_zVZQKzPHB2GoIYhTfeHuav3kfssBJJ6ykVmJ-s6vNsgzFM_VNzGY2BHUvlmz_8usCT9Rm9rYSEHj5-0OiZz_wjMQXMITo3BqgCJQNHr-XuQ6edz1Df1XcrXXfBIGCYpCsaJle978I">James Long</a> on the <a href="https://daijdhg.r.bh.d.sendibt3.com/tr/cl/YCuif1uBHwlS9EvnNHCIX3-wAlLoa2MhjrM99scP75dxLNifxbZR9wrm_DCJ7SpBtNVJkG-scCgw0Mb3dKpxuxCfZuOF9MNRuhgj-QxiBH8b0L7LvGb1VmitncTda4WnVy3pEe2uM_B2iyPfzTvKBy78FR0VxHOSLOxHkSZskrVhNzij5SuBE5bLB5X5FCAAAYXBmHnWGodS2QgWHKSOgQqjeHVjBygCt0nxXGxC4WVl8h73j_qNTVbWeA5lHseDvuBA9Km-5Emzn51aXTAifTUflrptVjqhRuGJvhCGrfVUEtSfpiIapo3uRaGpEFa_HUjddkAYHoHo1EbA2Cyh6hdzi3H4DwTvQongBRnmQRiq-wwVXYZvkUJMaKMC">future of SQL on the web</a>, or absurd-sql.</span></li>
+<li role="presentation"><span style="font-family: verdana, geneva, sans-serif;font-size: 18px"><a href="https://daijdhg.r.bh.d.sendibt3.com/tr/cl/20rMLNCzklVtEJc3-Ol-_Op-t-GljH6WRzRSNxBN03VHFTQxRS1zDU6iebx9x8LTMltaXApun0m6h4CXJ7jFc0_AjpOHdCh53hC18giygYmkK5wMQixV8VCokQHCj2G0KHF8eoD9dWYL4YAMOvO8CbshUFIOikGEXmNYl3IOLWp0mhz2jYU3FJpYzQSQRAS8AwF1rPs-aZUGrOidLdyxQula8o1MFr8DBLU3qzVjntMwhkm7cuD2Bx_xICJ91fu199F-QYvLcH3WeVQel40kBigV7FW2oCntGb3SM1YZt4BpKr-VoX0CUPOXbwc1gUikynn3DVdO4bGaA7YboXLl2HvnkkCvKOwCBXPaoSbrkkbItRGEZ6Ap3yAVkLJJHBNRWPHcvik">Chelsea Troy</a> has a series about <a href="https://daijdhg.r.bh.d.sendibt3.com/tr/cl/JCOtXwIh3P4RuEe1GTpr-fAtsGdj2YED2ei2Rfd22KW7B9P8PRFhn84VTQ93_5AO82waRRxRoqwEZ-_OMfS90SYtcNVrW8JdYuic9P5vPp2DNP-MPBar2mQ853NZeJqZ8I1i0taGPsPSaa1gDAJuy2FooJEeHVB0ktpOIQEJaNc8vJJzq35eKdmbrY41XKzT1zhgxhGCkCKNIMlHyCzUmTnKcxhUv1AYyprWmTyWphPM4pFczz3jFj5BBQYhHpec3_x-YSvNfyVmwwURj5ZC4CcWRtCJCxfLKGQx0HoJSUnipUVe0o8iQUbUg2OZLYosJOn2ks9o6tvyBzUAqjZCaRxu3KEyPAC9IS2KrYBo5PEYr0TY1z5_bIkZ2mM2mCbBZbWGzx1En4mrpqEQ8zFLK_C5nkwE_N0a4WGLY88XDv6zSmpGgQ">quantifying and managing technical debt</a>. I agree with some of it and don’t agree with some, but it’s an extremely insightful series of articles.</span></li>
+<li style="line-height: 1.38" role="presentation"><span style="font-family: verdana, geneva, sans-serif;font-size: 18px"><span id="docs-internal-guid-cafd41ad-7fff-10ec-5b0e-a397015b1c81">A look at </span><a href="https://daijdhg.r.bh.d.sendibt3.com/tr/cl/v_Bu03HrukmsknR2M0dg4mhAKxDG89KTI1OCbMYgchZH7IwEkoQEIqChrkzHzmShhtUnq7i257MVqmXjoRAUbHCVW_99KEpleOL97SkTiw6tjTLWWpAa24_66ZBk8nAvvfj-Mn7KFVweoV8lFbxohQ-RySmFLrJF4Ye4Iw_0Ry5L6m1limPM3lNPLe-3SEcPSoWPB5GaOJj0LS7Tel4Rk10gLA2JilqYOKzNhgsfkvh9fyx0Q___-uiyO45OmFZG3O4A1bTZzxOFeA9o2aSJ53xtFdzcTdb4wPyVwEEo8ZMtWFOujn1zGRI0CIigSoaZ8g4rildjcND_sif7OVJHVb9CUZQCSTHCTFi2AjjBGNbTUv9YqGcfq-Y961XYROQJ5BaUPHCnMEKWmSA7K03LgOiBP0bpIcdnIVX9oww8Z-WV">how Twitter’s public API was rebuilt</a>.</span></li>
+</ol>
+<p dir="ltr">That’s all for this week folks. Have a great weekend.</p>
+<p dir="ltr">-Kislay</p> </td>
+ </tr>
+</tbody></table></td></tr></tbody></table><!--[if mso | IE]></td></tr></table><![endif]--></td></tr></tbody></table><table style="border-collapse: collapse; width: 100%; user-select: auto;" class="tnpc-row tnpc-row-block ui-sortable-handle" data-id="text" width="100%" cellspacing="0" cellpadding="0" border="0" align="center">
+<tbody style="user-select: auto;"><tr style="user-select: auto;"><td style="padding: 0px; user-select: auto;" class="edit-block" align="center"><!--[if mso | IE]><table role="presentation" border="0" cellpadding="0" align="center" cellspacing="0" width="600"><tr><td width="600" style="vertical-align:top;width:600px;"><![endif]--><table type="options" class="tnpc-block-content" style="width: 100% !important; max-width: 600px !important; user-select: auto;" width="100%" cellspacing="0" cellpadding="0" border="0" align="center">
+<tbody style="user-select: auto;"><tr style="user-select: auto;"><td style="text-align: center; letter-spacing: normal; padding: 0px; background-color: rgb(255, 255, 255); width: 100% !important; line-height: normal !important; user-select: auto;" width="100%" bgcolor="#ffffff" align="center"><table style="width: 100% !important; user-select: auto;" width="100%" cellspacing="0" cellpadding="0" border="0">
+ <tbody style="user-select: auto;"><tr style="user-select: auto;">
+ <td style="font-family: Verdana, Geneva, sans-serif; font-size: 18px; font-weight: normal; color: rgb(34, 34, 34); line-height: 1.5; user-select: auto;" width="100%" valign="top" align="left">
+ <p style="margin: 0px; text-align: center; user-select: auto;"><span style="font-size: 14px; user-select: auto;">If you love reading <em style="user-select: auto;">It Depends</em>, consider supporting it on <a href="https://daijdhg.r.bh.d.sendibt3.com/tr/cl/F_98YupKV5LZtq6H-SjqfR01_pQsTcbKObubVm3wltdI54d-_NXzVb6YDzMsp0LTsZwGtm7QavajKWjr6MUk0KWDY6tC10ekSlD9_elKEad8uotRJL0M-T1KRe5iu-W-TobSd0MKfUZ-HusGh46qB9y9hMFr8WCAGqABnTfCh6H8KkJY82_fJCwXUYb-oHeJWErd180Uyu6y57TU4cSO7d7QRVGB1I4Bg46Om0ik8QyiI4Sdvz5s88K7CtiJy2kVCLahXS7llnA2lyruUsc9HYstOJACr79SucjHUS4zBNYl4DNE0oouLjiZsynan74-rb9dQ6u_BvRKjFsLU65jsO_a20GsX5Kc0cXmA_GZT2TonaYQBPAUIqhjubdXQtxZvNscLZXnHWpZo4_1L3DrNa0VP7sa" target="_blank" rel="noopener" style="user-select: auto;">Patreon</a>, <a href="https://daijdhg.r.bh.d.sendibt3.com/tr/cl/RrNH8nWCDr3fN2HEy1R2pLzt5Ns_vHWMDCs1TbzZNJHN4x-qX7-goF1FYPHsY_BcauuYR7WsWMNnQmH-vxYwz2yR15pBpiFzzmkClqR4214c9zOmmeQ1jmPNJvnUczSv8yet7oFN0VT9aR5y-2qyusNzHm8p4VexpLzJJuzrr6-lLqCnysxcQZ1AmHztKTmon5TYyy9P1o20cULEVxSjJqWNYF4h2DRBq2L0eL10EB1DxWNar--dsW8UrMn0y1YiOnROZjzZMMNHvULMjAEr_f0JlQ1kK51H_w9T7RVQ9dx_7QgVsjgC-NzGdUDHAlPxsiZQzs55VetBiZJ456LDDW6_fpvpEy9G4GysL-z3ZAFmwqxNLM48HV8WlBS3" target="_blank" rel="noopener" style="user-select: auto;">Gumroad</a>, or <a href="https://daijdhg.r.bh.d.sendibt3.com/tr/cl/TH4dkGYsHMzgxq2Bq0J9zaftVVO5rUFWzpc9HtKmYHBWKaTw95HqP8RQr7dx3bDpGdFyYsRmHogZ64EFDyjJuZ3xA2iAtThyz0gawdZy8u78uKl2rGMmRgzO0iEmvK5wycXiwXK7hRSsFipjpbRwiHjyKs0d5DylUiCF6_p3vuTDHJO_93sLP17xNSNACPWgFRgx7zM_cvtwmxlDJJ7UNz4_y92SSYdC1WyhPVei93S5pIeWyxRSNte1Qgc6Bx5GE48HrZCNemokL4bY9l2rHoTmOiwsr2QSNR_dz0mvR_HC9DSARp_YwgxuBGygVwP-b6YDQQ1v2RaToFpdXSfNNnxMFsiGUwy3NQs_WuzmKAO5Xt0oe_DI-0RXESrM6RVvSg" target="_blank" rel="noopener" style="user-select: auto;">Buymeacoffee</a></span></p> </td>
+ </tr>
+</tbody></table></td></tr></tbody></table><!--[if mso | IE]></td></tr></table><![endif]--></td></tr></tbody></table><table style="border-collapse: collapse; width: 100%; user-select: auto;" class="tnpc-row tnpc-row-block ui-sortable-handle" data-id="separator" width="100%" cellspacing="0" cellpadding="0" border="0" align="center">
+<tbody style="user-select: auto;"><tr style="user-select: auto;"><td style="padding: 0px; user-select: auto;" class="edit-block" align="center">
+<!--[if mso | IE]><table role="presentation" border="0" cellpadding="0" align="center" cellspacing="0" width="600"><tr><td width="600" style="vertical-align:top;width:600px;"><![endif]--><table type="options" class="tnpc-block-content" style="width: 100% !important; max-width: 600px !important; user-select: auto;" width="100%" cellspacing="0" cellpadding="0" border="0" align="center">
+<tbody style="user-select: auto;"><tr style="user-select: auto;"><td style="text-align: center; letter-spacing: normal; padding: 20px; background-color: rgb(255, 255, 255); width: 100% !important; line-height: normal !important; user-select: auto;" width="100%" bgcolor="#ffffff" align="center"><table style="user-select: auto;" width="100%" cellspacing="0" cellpadding="0" border="0">
+ <tbody style="user-select: auto;"><tr style="user-select: auto;">
+ <td style="border-bottom: 1px solid rgb(221, 221, 221); user-select: auto;"></td>
+ </tr>
+</tbody></table></td></tr></tbody></table><!--[if mso | IE]></td></tr></table><![endif]--></td></tr></tbody></table><table style="border-collapse: collapse; width: 100%; user-select: auto;" class="tnpc-row tnpc-row-block ui-sortable-handle" data-id="footer" width="100%" cellspacing="0" cellpadding="0" border="0" align="center">
+<tbody style="user-select: auto;"><tr style="user-select: auto;"><td style="padding: 0px; user-select: auto;" class="edit-block" align="center">
+<!--[if mso | IE]><table role="presentation" border="0" cellpadding="0" align="center" cellspacing="0" width="600"><tr><td width="600" style="vertical-align:top;width:600px;"><![endif]--><table type="options" class="tnpc-block-content" style="width: 100% !important; max-width: 600px !important; user-select: auto;" width="100%" cellspacing="0" cellpadding="0" border="0" align="center">
+<tbody style="user-select: auto;"><tr style="user-select: auto;"><td style="text-align: center; letter-spacing: normal; padding: 15px; background-color: rgb(255, 255, 255); width: 100% !important; line-height: normal !important; user-select: auto;" width="100%" bgcolor="#ffffff" align="center"><a style="font-family: Verdana, Geneva, sans-serif; font-size: 13px; font-weight: normal; color: rgb(34, 34, 34); text-decoration: none; line-height: normal; user-select: auto;" href="https://daijdhg.r.bh.d.sendibt3.com/tr/cl/Vdy0nsqXS5yTdkAHYMchGKUGa5p0nYsKAZ8bmp6xvXfliut4XASSbcreC4GY6GW5Z84oNFmJQWJPEP6IjH6O90ePkjD1wNQIqJK_AXuwdsXyljxl_TYDJSh1iqeLelOTvgIYKoxki-bcaxNwa2ytOkv5CSwbAl43-vzGGTetj2IOEtXopYD4IF2fOWGMfwv0ZOyYdIAKTgbktnagVONXD7lS7bIWBExdGIzv2ofsLgJ2_4rWXcuq88Tjw1Hm598lphIqCdhm4eB3vJRS-EBtNBz7FdkoV8HlVAYNeTBTU_H3MTdMSvgiB5Q3_TcrMDYUhP3b4AS-iHPJRuKJLjfa9keiTs7F-SEuEHekuxDQMLVTR6h_7cgAR74QXRhPfd0BGyvv1Fl-McYn1QpyRR86CntxaZaqTzGFo53e6rA7k1wG" target="_blank">Modify your subscription</a>
+
+<span style="font-family: Verdana, Geneva, sans-serif; font-size: 13px; font-weight: normal; color: rgb(34, 34, 34); text-decoration: none; line-height: normal; user-select: auto;">&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;</span>
+
+<a style="font-family: Verdana, Geneva, sans-serif; font-size: 13px; font-weight: normal; color: rgb(34, 34, 34); text-decoration: none; line-height: normal; user-select: auto;" href="https://daijdhg.r.bh.d.sendibt3.com/tr/cl/7gTcy-mX7yq2UPV6P9BquWL-gleDL6zkoim8qcSBgP9tJeqd5pK_2TXYC1E2Zv83_S9SZjA4-gqFYOkQjYsJtcokSH6DHTzIvdLAFO-UZb6dr_X-mswS8ADrHYP2yhrMY3EJLKuVKQzrAoAeFoNWKg8dY5f0fU3FKoVWdr4JPtcsleqrl9BnwpmpD890-kwH2srrvLSWUFNJzqQNtX-k_yUiihQEfZsd-Fsh9cwY6UdhVVEX1YrYpqdfz0A6MFvcGFH9jpB07GDxtOfroKLEraGNEcrvIsJq_99xllunf56HzZkr9giHmsW8ucHnKmM79fK5VGl2spxDuA62CRB-Z7LTs0jWNXVfED-0mtuaWMdtzsix2EhXXedmfAeW-u-G5XRFVFHw0vVoRf2c3egPiPYlD5qQoF53Kw" target="_blank">View online</a></td></tr></tbody></table><!--[if mso | IE]></td></tr></table><![endif]--></td></tr></tbody></table>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- /tnp -->
+</td>
+</tr>
+</table>
+
+<img width="1" height="1" alt="" src="https://5fwei.img.af.d.sendibt2.com/im/3089376/1cd5cdd3ecc983625740e60ced44d1bebe178eb8d3d497e1ed87e46f7f0a328f.jpg?e=JbX0NNWWzjoC3tUId_zjts3s2Z68ksODq8hw18FdwMiEcfnAJB4iO-I6nvj21kEcDpItEw1DUE6r08qqyRe60RQ20FEA3b-VOW2QVcDudv99imMQS6piDfrAPuS_HEdGFKo9L3Ao6uEL_bd5bdeo66S4WwoTPu_tcY4zq-HuX-acggtHvZ2PDMc9bDl0Uslc7yKvtenqc_Ib244Lg4OKyaIYWYE375Oq416U7iwruCU39-j3FJBD9E53NCWbKL8tit2vrq5rDL0bmuSmAhD4StHUR0uCnt1nw6K8t0h_JEfVJVtOa-YbzNnGmt2efQ"/><img width="1" height="1" src="https://daijdhg.r.bh.d.sendibt3.com/tr/op/VLNMAURjdK0OfBYbpsqdG6FLJHHmiVRbDNK8Ssl8oBT1p6DP2WaPlmfCh3QwNiomfGgrYmfni54nOyS9uFbYVMnMQ69kUd-K2n7SbRfrc1yeNf2mB6k7okj94wBaDt4PJftfOVTOkXZv-vZXUOMHhS2slEs9uAS41-pOS9VQpp_N" alt="" /></body>
+</html>
+

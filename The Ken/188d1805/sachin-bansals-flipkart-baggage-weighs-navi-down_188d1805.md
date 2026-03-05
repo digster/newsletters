@@ -1,0 +1,22 @@
+---
+subject: "Sachin Bansal’s Flipkart baggage weighs Navi down"
+from: "The Ken <info@the-ken.com>"
+to: ""
+date: 2023-06-19 02:33:48
+labels: ["CATEGORY_PERSONAL", "INBOX", "The Ken", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_8244464457792971031", "UNREAD"]
+---
+Good Morning Ishan,
+When Sachin Bansal exited Flipkart in 2018 with Rs 6,700 crore (US$1 billion at the time), he was a changed man.
+Even though he managed to take the e-commerce company to great heights, his experience with investors like Tiger Global taught him valuable lessons — including what having such backers does to a company and its founders.
+So when Bansal set up Navi Finserv in 2018, he wanted to build his second business without relying on them. And he has big plans for Navi. He wants to create a fully digital bank for a billion Indians, even while competing with the likes of HDFC Bank when it comes to personal loans.
+Navi’s total loan book grew 1.7X to nearly Rs 8,000 crore (US$1 billion) in March 2023; even while most other NBFCs lost their growth momentum that year, this growth needs to be faster for Bansal. Navi, in fact, fell short of its internal target of Rs 15,000 crore (US$1.8 billion) in assets under management for the lending business for the 2023 financial year, finds out Gaurav, the author of today’s story.
+Bansal has been pumping capital into Navi as needed, and he has invested nearly half of his Flipkart earnings in it. But it’s still not enough for the growth ambitions the fintech harbours. Take, for instance, its home-loan business, which Navi launched in 2021, boasting of lowest interest rates and a fully digital process. But it could not keep up with this business, given how capital-intensive it is.
+The company hoped a banking license from the regulator and an IPO would solve its capital needs. But with both not in sight, Navi has to take some hard calls.
+For now, the company has turned to co-lending arrangements with other lenders to fuel its expansion. But, in a deeply reported story, Gaurav writes about how Bansal’s personal ambitions and Navi’s growth needs are at odds with each other.
+It’s a must-read: [https://the-ken.com/story/https-the-ken-com-story-sachin-bansals-flipkart-baggage-weighs-navi-down/](https://the-ken.com/story/https-the-ken-com-story-sachin-bansals-flipkart-baggage-weighs-navi-down/?utm_source=daily_story&utm_medium=email&utm_campaign=daily_newsletter) (9-minute read)
+Regards
+Arundhati
+[arundhati@the-ken.com](mailto:arundhati@the-ken.com)
+What you just read is the personalised daily introduction to The Ken's story. Written by a different person each day. Often insightful, sometimes witty, and very rarely boring. Someone sent this to you? [Sign up for free](https://the-ken.com/?modal=register&utm_source=footer&utm_medium=email&utm_campaign=morning_email_ind_shared). [Dont like these? You can unsubscribe](https://link.the-ken.com/asm/unsubscribe/?user_id=2349339&data=-J2PX7bPArYgQGNgY1fnBBtAD80ypVX1ws6oxBGWoDZoMDAwdTAwMNuQ5-OdZtAjOwCwBHnKuT57MjK_yyyufJm2nrlnOXiXxASLJdmYf8WNYWT04_Nfzt4tD2sdp7xa8sFuYeD_mYkC_G_eml8CekM3V4hF-4rhcPwT6n_3_2_JMlJCA9oeDHNBkYNV3UbXO3tZeG9XUCOOM_40MbfWUZqzkgUKHIq1KEF8tSyP3wkIYJQ5d_9ctZOdmEh52g4MSl6Caq4FbswEG5ey0BPKs6xlxK_kEBQERIvtoUd305AJdflVO0FjeCYFwfXNT4vlXIIrnDfE1bLctBaAQR2BOygIwqGORgkRh_wDpa-3qL_Kff-P0Xj4N9OWJkmOA3evjqnLDEwm5NED7HY4auCUxL8bcXdpl__zsUQyatpF3KiPankPdrVCZrJvxeTxN9Sgj2ZmiCCIwYsvbLElJwn2Sf_aa9n6hN4JHuS1y0gpHauA5HGx7CPeM119RDdRs-PMLdaqKNrUJuf7ga6ki88YT1nrYZH4zJGFQZU9nCwBm7TITJJi3T6z5txxRuDkSS97kAn4eLn1EoM=) Dont want to hear from us again? [ Unsubscribe from our emails here](https://link.the-ken.com/asm/?user_id=2349339&data=YWX4uGRVP4dYfQomSBt2O-6hsUVgsofd0jfo0I6fmo1oMDAwdTAwMDo0FsHU2IuST99m_AcprFKx6ta6Y9BUxOujqYoVOrXpsiQ265J5G4rCSU7Rb8Yt2GaZQPgHsiRzYmvKpo3SsHmzvQx5b7Y-cnmTFDfT9On_XMFIi0wM0-i-EtQqn3e47MDv0efVz9gTTuHkRTRbbyyK3cbkjUt7y2rOztc6ke65uyQEw_EsLFNYcfUzxxl25OS9xPAZInLDzru8V9xXtPHHaxB-EebLaEYZv4vGDJuG9X2bQ7_H-lueYEY_owMqrcuQSF5gMkSAPUzcu6lGAr0l2SXtTsROKYw_muJMhewI4lkYxhG0aR6eTapDmsHXS2775A-X71gcLE2fErWjUVI92gIsEylue3eHUA2Z-i7wDWKTVZDYiUhdHDB5P0NjR_Sh8nb03Yh61TO6ermpsfwqvagVPnxX6Te1701FzGn9mFOEHxvSAQlSNOTeTixVNZsAEW6tUw3ss56kMBtN8YSueUzC-5YqmlMDPxeKv4wMr69Ul-Phnk1ChCDsFyu_qg==).
+Something wrong? Tell us at [support@the-ken.com](mailto:support@the-ken.com)

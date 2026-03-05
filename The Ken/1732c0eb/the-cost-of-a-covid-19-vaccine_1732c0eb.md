@@ -1,0 +1,76 @@
+---
+subject: "The cost of a Covid-19 vaccine"
+from: "Beyond The First Order <info@the-ken.com>"
+to: ""
+date: 2020-07-08 01:33:46
+labels: ["CATEGORY_PERSONAL", "INBOX", "The Ken"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_8244464457792971031"]
+---
+|
+Edition #72. Wednesday, 8 July 2020
+|
+A paid 🔒 newsletter that analyses the complex second and third order effects thrown into motion because of Covid-19. Someone sent you this? [Subscribe to BFO](https://the-ken.com/bfo/?utm_source=su_bnr&utm_medium=email&utm_campaign=btfo)
+|
+Good morning.
+It’s not like we are any closer to that vaccine, but here’s a thought exercise: how much would you be willing to pay for a vaccine? A typical Indian question to ask would be: will it be exempt from Goods and Services Tax? People as it is hate levying and paying GST. But the next time your hairdresser doesn’t want to give you a bill, you need to ask: what is she really avoiding? Meanwhile, in Southeast Asia, they are on a mission to woo everything—from students to foreign investments leaving China.
+|
+The cost of a Covid-19 vaccine
+Rohin
+Last week, India [“strictly advised”](https://scroll.in/latest/966372/coronavirus-icmr-asks-clinical-trial-sites-of-covaxin-to-fast-track-approvals-on-top-priority) its vaccine makers to get a Covid-19 vaccine ready in just six weeks (with “non-compliance” to be “viewed very seriously”). While that deadline may be unrealistic (it's meant to coincide with India’s Independence Day, on 15 August), could the costs be too?
+What should be the cost of a vaccine that will not just protect people from a disease, but possibly restore societies and economies?
+Since there is no officially-approved vaccine yet, one surrogate could be the price of Gilead’s Remdesivir, the closest medicine the world has to treat the coronavirus.
+Its pricing in the US [varies from](https://www.nytimes.com/2020/06/29/health/coronavirus-remdesivir-gilead.html) US$390-520 per vial, or US$2,340-3,120 per treatment course, depending on whether the patients being treated have private insurance, government-sponsored insurance, or come from countries with national health care systems.
+In India, the generic version of Remdesivir [will cost](https://www.livemint.com/companies/news/mylan-s-remdesivir-will-be-available-to-patients-in-july-at-rs-4-800-11594033853763.html) Rs 4,800 (US$64).
+But what about the actual vaccines? Doctor, author and former New York Times journalist Elisabeth Rosenthal tried to [ask and answer this question](https://www.nytimes.com/2020/07/06/opinion/coronavirus-vaccine-cost.html).
+|
+If a Covid-19 vaccine yields a price of, say, $500 a course, vaccinating the entire population would bring a company over $150 billion, almost all of it profit.
+Kevin Schulman, a physician-economist at the Stanford Graduate School of Business, called that amount “staggering.” But Katherine Baicker, dean of the University of Chicago Harris School of Public Policy, said that from society’s perspective “$150 billion might not be an unreasonable sum” to pay to tame an epidemic that has left millions unemployed and cost the economy trillions.
+|
+|
+|
+|
+US$500 per person for a vaccine might not sound like a lot for saving the world, but what if you have to take it each year? Dr Rosenthal makes the point that many drug companies are offering “not for profit” pricing for Covid-19 vaccines for “emergency pandemic use”.
+Meaning, the prices may be different when there is no pandemic and it’s only a routine annual vaccination.
+|
+It pays ... dividends
+Savio
+While India Inc’s fourth-quarter results may not be anything to write home about, investors who held on to their shares have enjoyed a bonanza in the form of dividends. As is traditional, the defensive sectors, such as consumer and software services, led the charge.
+|
+The combined dividend payout by India’s top listed companies, which are part of the BSE500 Index, for FY20 was up 6.5 per cent, the fastest growth in the past three years. And, equity investors should thank cash-rich biggies such as Tata Consultancy Services (TCS), ITC, Hindustan Unilever, Nestlé, and Bajaj Auto for this.
+[...]
+This is the first dividend season since shareholders have been mandated to pay tax on their dividend income against the earlier rule of companies paying 20.56 per cent dividend distribution tax (DDT) on their payout.
+Experts attribute the higher payout to the change in dividend law and cut in corporate income tax. “Now that dividend is taxed in the hands of shareholders, many companies pass on the savings on DDT to shareholders in the form of higher dividends per share,” said U R Bhat, director Dalton Capital Advisors.
+|
+Despite poor show in Q4, India Inc's combined dividend payout rises 6.5%, [Business Standard](https://www.business-standard.com/article/companies/despite-poor-show-in-q4-india-inc-s-combined-dividend-payout-rises-6-5-120070601543_1.html?utm_source=Paid_Newsletter&utm_medium=Email&utm_campaign=BS_Market_Views_1594089814)
+|
+|
+|
+|
+|
+|
+Subscribe to BFO to read the full edition
+Get BFO delivered to your inbox every weekday and access all new and old editions.
+Choose from the following options
+|
+Monthly Subscription
+Complete access to all editions of BFO
+Rs. 99 or $2
+|
+|
+With The Nutgraf
+Complete access to BFO and The Nutgraf
+Rs. 198 or $4
+|
+|
+|
+Questions? Get answers [here](https://the-ken.com/bfo/2/#newsletter-faq-section)
+|
+Beyond The First Order is a paid, daily newsletter that analyses the complex second and third order effects thrown into motion because of Covid-19 across India and Southeast Asia. This newsletter is published by [The Ken](https://the-ken.com/?utm_source=footer&utm_medium=email&utm_campaign=btfo)—a digital, subscription-driven publication focussing on technology, business, science and healthcare
+|
+Want to unsubscribe from our paid daily newsletter, Beyond The First Order? Click [here](https://link.the-ken.com/asm/unsubscribe/?user_id=2349339&data=tKQY8gXt9TyNRxvgSQTyMwzbKaEh4JXMM0DXXOdcVfXM9vaSeYwISCU4O3VQ9qX_9pKvwJ9IBpdHyPJcvKF3_8anqyhOOxf7WdEMf_GcapgQR_kXWwoIvNre5o9nA5ywTY5jeowozurAnt3ytdRHzFI9TMMz9s_bODwfAPJvqTJRTg-17RVF25Ae1QgjZ-VCXdyuO3uAuNS5K7zSx5aPWBFCBT_k84KzQxvCjCKBMCEo0KRq2zG1JNbyIeJPKWb2YjrHOoGyCpVzwFFfTPOnPM_x2rzcv2ACOl_XjpiZl12k8Y6w3ne3-ShzZSNC9srZjE-lPuhNWnzi1NUcpWYSZ6uHxGs7KT7rB8MB8HBxhlVPsnnSXk_TnyLnMvAmLmzinPgGlsGLO7wtWYxugZnHa6XTj4PLL6NH190okvxYAb0psH10gcgB_wJf8FvrHxnqs79ee2Nt-iw_0PDQDU-K40XHhVxMLugpUeaSAZssuAh1tG-MHNPORhw4CVt3OElLVERmJeLgKbvvAD06QSops4TfUVUPaItTdV64B07vHPPQ3siXSAPdBTOUgZNIBsKBOyNraXaNLAxG245XhUDeniZc1CYHgMxEr_1TgUHYZS0=). Or set your email preferences [here](https://link.the-ken.com/asm/?user_id=2349339&data=I_-rkztMMTVOBrGhj5a5YDpo8JQIFlfUP_r5dTfNUiDF9JNvt13aVrsT4tMV9gThQ-ua6tR5rLSsAUawDKEZeMi7-QDi0BErekuYzXE3CH-1wm7XzMDJluNdvt3grsMIAfrQQX-5ZsCHe6CUh6M7aUFjceRHu5I8_iJjWXe4KL5mSDunTAw-1LpYgffBlhHgMpuwb-jhf2k9HrM5xHzQvHWM7VL4c25JfYTB7tQBV1zeyw1M0BPiBvSHX1Zd-zyQ0c2uWLkbAsizCHLi18wqzkRQkLvu6kDWDcWV2bp1vEF0xaT8R_uXzAy_qUs6OCy48tFVFiXXQ0hc04c_W2YTq4AG36eSHhJ0XOmlGzY04K1Iv-oYllYtcmrK4zqjuuaQuWhW_HDk1Wm2uuiSNMEed8HGqeQR2mdhUYTzHPonZVikzDs1fqNxoEjBG1MOlSTxXtZQckD1a4h-tWnULAZ8QrBcjVeHylGNCVOBaMo9dwAJEHZSrG3hM8l_8Alilbm5eroVJm2zF6Ukoss9astK2KtrZ6Nxa1yrO3MIhneqgMA3x0p7BA-jQpROcIZBRK0RpKJBy5CONPK2TW-NvvjIYg==)
+© 2020 The Ken
+|
+|
+|
+|
+|

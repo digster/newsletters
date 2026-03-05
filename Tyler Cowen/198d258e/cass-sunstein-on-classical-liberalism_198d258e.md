@@ -1,0 +1,14 @@
+---
+subject: "Cass Sunstein on classical liberalism"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2025-08-22 15:14:58
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+Here’s what I want to emphasize. I like Hayek a lot less ambivalently than I once did, and von Mises, who once seemed to me a crude and irascible precursor of Hayek, now seems to me to be (mostly) a shining star (and sometimes fun, not least because of his crudeness and irascibility). The reason is simple: They were apostles of freedom. They believed in freedom from fear.
+Back in the 1980s and 1990s, I did not see that clearly enough, because they seemed to me to be writing against a background that was sharp and visible to them, but that seemed murky and not so relevant to me — the background set by the 1930s and 1940s, for which Hitler and Stalin were defining. (After all, Hayek helped found the Mont Pelerin Society in 1947.)
+Back in the 1980s and 1990s, socialist planning certainly did not seem like a good idea, not at all, but liberalism, as I saw it, had other and newer fish to fry. People like Rawls, Charles Larmore, Edna Ullmann-Margalit (in The Emergence of Norms), Jurgen Habermas (a past and present hero), Amartya Sen (also a past and present hero), Jon Elster (in Sour Grapes and Ulysses and the Sirens), and Susan Okin seemed (to me) to point the way.
+I liked their forms of liberalism. Hayek and the Mont Pelerins (and Posner and Epstein) seemed to be fighting old battles, and in important ways to be wrong. With respect to authoritarianism and tyranny, and the power of the state, of course they were right; but still, those battles seemed old.
+But those battles never were old. In important ways, Hayek and the Mont Pelerins (and Posner and Epstein, and Becker and Stigler) were right. Liberalism is a big tent. It’s much more than good to see them under it. It’s an honor to be there with them.
+Here is [the whole Substack](http://marginalrevolution.com?action=user_content_redirect&uuid=3ec8e147c6e808a72cc67e52b986f0cba87c00bae2f195ae39f8c875243ffaac&blog_id=42693868&post_id=91346&user_id=262258391&subs_id=225460721&signature=bbff19fd17227aebfdfecdda420e7841&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly9jYXNzc3Vuc3RlaW4uc3Vic3RhY2suY29tL3Avb24tY2xhc3NpY2FsLWxpYmVyYWxpc20/dXRtX3NvdXJjZT1wb3N0LWVtYWlsLXRpdGxlJnB1YmxpY2F0aW9uX2lkPTMzOTE4NDgmcG9zdF9pZD0xNzE1NjM3NzgmdXRtX2NhbXBhaWduPWVtYWlsLXBvc3QtdGl0bGUmaXNGcmVlbWFpbD1mYWxzZSZyPTNvOSZ0cmllZFJlZGlyZWN0PXRydWUmdXRtX21lZGl1bT1lbWFpbA=&email_id=b7d10f6cb2154091e26e36f92ed55b70), recommended. I am very much in accord with his sentiments here, running in both directions, namely both classical and "more modern" liberalism.

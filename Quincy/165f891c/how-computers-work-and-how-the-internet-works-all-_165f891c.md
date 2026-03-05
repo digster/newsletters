@@ -1,0 +1,30 @@
+---
+subject: "How computers work and how the internet works - all explained as simply as possible"
+from: "Quincy Larson <quincy@freecodecamp.org>"
+to: ""
+date: 2018-09-20 20:00:25
+labels: ["CATEGORY_PERSONAL", "INBOX", "Quincy"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_7697778124671848699"]
+---
+Here are this week's five links that are worth your time:
+
+1. How computers work and how the internet works - all explained as simply as possible (25 minute watch): https://www.freecodecamp.org/n/94i0Frgd4
+
+2. Focus and Deep Work - your secret weapons for becoming a 10X developer (9 minute read): https://www.freecodecamp.org/n/mK4L0lP32
+
+3. A full-length course on MongoDB that also teaches you some Node.js, Express.js, and Mongoose (75 minute watch): https://www.freecodecamp.org/n/ec8iI9oO9
+
+4. "Alexa, start the freeCodeCamp Quiz." We just released an Alexa app so you can learn programming concepts on your Amazon Echo (3 minute watch): https://www.freecodecamp.org/n/p0piI9oO9
+
+5. Podcast #47: I interview Laurence Bradford. She's the creator of the Learn To Code With Me podcast and a technology writer at Forbes. We talk about how she taught herself coding and got her first freelance clients. (75 minute listen in your Apple Podcasts app, or right here in your browser): https://www.freecodecamp.org/n/mku00lP20
+
+
+
+Happy coding!
+
+- Quincy Larson
+
+Teacher at freeCodeCamp.org
+
+
+If these emails aren't worth your time, you can turn them off: https://www.freecodecamp.org/ue/eZV2T3gHC7IGcwcpYPG64

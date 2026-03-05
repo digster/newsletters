@@ -1,0 +1,10 @@
+---
+subject: "Who is using AI and how much?"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2025-06-18 18:13:58
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+Wet rain a neural classifier to spot AI-generated Python functions in 80 million GitHub commits (2018–2024) by 200,000 developers and track how fast—and where—these tools take hold. By December 2024, AI wrote an estimated 30.1% of Python functions from U.S. contributors, versus 24.3% in Germany, 23.2%in France, 21.6% in India,15.4% in Russia and 11.7% in China. Newer GitHub users use AI more than veterans, while male and female developers adopt at similar rates. Within-developer fixed-effects models show that moving to 30% AI use raises quarterly commits by 2.4%. Coupling this effect with occupational task and wage data puts the annual value of AI-assisted coding in the United States at $9.6–$14.4 billion, rising to $64–$96 billion if we assume higher estimates of productivity effects reported by randomized control trials. Moreover, generative AI prompts learning and innovation, leading to increases in the number of new libraries and library combinations that programmers use. In short, AI usage is already widespread but highly uneven, and the intensity of use, not only access, drives measurable gains in output and exploration.
+That is from [a new research paper](http://marginalrevolution.com?action=user_content_redirect&uuid=2fbcda947b737f59e245b399d6d7a4c3337f7d3fbfc9b98aea184df31b3ef194&blog_id=42693868&post_id=90915&user_id=262258391&subs_id=225460721&signature=c5a63a9572cfcf0b6bbad18a85a63e02&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly9hcnhpdi5vcmcvcGRmLzI1MDYuMDg5NDU&email_id=860fb555f86a02cce7f4b7408b6b54ea) by Simone Daniotti, Johannes Wachs, Xiangnan Feng and Frank Neffke. I am surprised that China does not do better.

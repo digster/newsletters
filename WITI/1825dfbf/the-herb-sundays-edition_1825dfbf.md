@@ -1,0 +1,11 @@
+---
+subject: "The Herb Sundays Edition"
+from: "\"Why is this interesting?\" <whyisthisinteresting@substack.com>"
+to: ""
+date: 2022-08-02 09:55:13
+labels: ["CATEGORY_PERSONAL", "IMPORTANT", "INBOX", "WITI"]
+label_ids: ["CATEGORY_PERSONAL", "IMPORTANT", "INBOX", "Label_5752899537867939131"]
+---
+Noah here. It was recently pointed out to me by an eagle-eyed reader (thanks, Why is this interesting? I used to listen to a lot of music—enough that I kept lists of my hundred favorite albums of the year. At some point, that stopped. Like most people, my musical taste got a bit stuck, and while a few new things made it into the rotation, I mostly went back to the artists, albums, and labels ( I’ve never cared much for the artist radio of Apple Music or Spotify. I’m not sure if it’s nostalgia, but my preference has always been for albums. I like how they’re put together. There’s just something about hearing a set of songs in the order the musician intended that feels right for me. I listen to music mostly while I’m doing other things, and I like listening to the same albums over and over and the way they seem to eventually intertwine with your other activity. I wrote a bit about this in
+As someone pointed out on WITI contributor’s Slack recently, every edition of the newsletter is a humbling reminder of how little you know about music. The tracks these folks choose are the deepest of deep cuts. I’ve complained to Sam more than once that I have no ability to keep up with Herb on a weekly basis because I have a tendency to spend hours going through the back catalog for each artist featured in the mix. That’s a good problem to have, though. In the end, I’m happy to outsource my music taste to Sam and friends. Mix of the Day: All the Herb mixes are fantastic. But I think the one I’ve gone back to the most is — WITI x McKinsey: An ongoing partnership where we highlight interesting McKinsey research, writing, and data. Lead like a girl. In this new interview, corporate consultant Dalia Feldheim says managers and executives, regardless of gender, can combat widespread burnout by embracing conventionally feminine leadership traits. Thanks for reading, Noah (NRB) & Colin (CJN) —
+You’re a free subscriber to |

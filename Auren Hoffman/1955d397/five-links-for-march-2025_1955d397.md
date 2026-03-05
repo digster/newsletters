@@ -1,0 +1,38 @@
+---
+subject: "Five Links for March 2025"
+from: "Auren Hoffman of Five Links <auren@substack.com>"
+to: ""
+date: 2025-03-03 18:15:49
+labels: ["Auren Hoffman", "CATEGORY_PERSONAL", "IMPORTANT", "INBOX"]
+label_ids: ["Label_4260038268466989707", "CATEGORY_PERSONAL", "IMPORTANT", "INBOX"]
+---
+|
+Here are five links worth reading…
+[Some Good News About Married Fertility in the U.S.](https://substack.com/redirect/2b9b088b-d38e-40af-8380-4eab36441968?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) by Patrick T. Brown
+The birth rate in America continues to decline, but there's a silver lining: more children are being born to married parents. Births to unmarried women are at their lowest since 1987.
+[On the Chess Circuit](https://substack.com/redirect/d38fca93-0a49-490c-b263-83331e191b5f?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) by Nicholas Pearson
+Despite the fact that chess is “solved,” it’s still a deeply psychological battleground, where even world champions struggle with paralyzing doubt and mental collapse.
+[Tyler Cowen, the man who wants to know everything](https://substack.com/redirect/3dfe2dc1-5594-471c-95e5-e5226d8b7a83?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) by John Phipps
+Highly recommend this profile: Tyler is one of my favorite people (and not just because he’s an avid reader of Five Links).
+Listen: [Annie Duke - winning bets: decision science in investing](https://substack.com/redirect/84f738bc-ad4c-4d3b-ae62-507e89fd9b96?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) (World of DaaS)
+Former poker champion Annie Duke reveals the cognitive biases that affect investors and offers practical frameworks for making better decisions under uncertainty
+[Grand Theft Auto: Real Life](https://substack.com/redirect/40b3c8bb-dd02-42fe-8543-de15662d446f?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) by Jonathan Franklin
+How cars stolen by American teenagers end up on cargo ships bound for Western Africa.
+[Patrick Mahomes and the secrets of the Dad Bod](https://substack.com/redirect/bed4367c-5ec5-4fe4-9a53-e78320758e0e?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) by Rustin Dodd
+Lots of elite athletes, including the Kansas City Chief’s QB, don’t fit our mental image of what an elite athlete should look like. There’s a lot we can learn from them about health and performance.
+[Morris Chang and the Origins of TSMC](https://substack.com/redirect/5f7e8d0c-83ca-4eac-b986-3778179ab73f?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) by [Brian Potter](https://open.substack.com/users/3518108-brian-potter?utm_source=mentions)
+Despite the founding of TSMC being one of the more important events in tech history, Morris Chang’s two volume biography is only available in Chinese. Brian translated it (with LLMs), and gives an overview of Chang’s own version of his life story.
+Bonus (Geography): [European & North American Cities Transposed Onto The Opposite Continent At The Same Latitude](https://substack.com/redirect/28f42700-af13-4942-8434-6d844ee32172?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) by Brilliant Maps
+Super interesting to see that Denver is at the same latitude as Southern Italy
+Bonus (Health): [Wegovy hits the People’s Republic, at last](https://substack.com/redirect/f88fdcd7-0068-4d55-a2f2-269027f64ba3?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) by the Economist
+In China, where roughly half the population is overweight, “Musk’s miracle medicine” is taking off. The US recently announced that the GLP-1 shortage is over, but Chinese demand could change that.
+More reading links at [https://twitter.com/AurenReads](https://substack.com/redirect/f66a7496-87e0-4178-a808-7bdf59185dec?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+Recommended book of the month:
+[The Sovereign Child](https://substack.com/redirect/07dcc50a-609b-4efa-9082-1f83a7ffe99b?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) by Aaron Stupple
+HT: Naval Ravikant
+Recommended TV/movies:[The Diplomat](https://substack.com/redirect/372f8409-8910-48ca-b471-2d4ce2740133?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) - Season 1 and Season 2 (Netflix)
+we had 100k elevator attendants in 1950.
+what jobs today will go away with automation?
+Auren Hoffman is CEO of NQB8, Chairman of SafeGraph (geospatial data on physical places), and GP at Flex Capital ($200M VC firm). Engage on [X: @auren](https://substack.com/redirect/3fd318b0-b3fa-44d1-b8d2-791613658eff?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+and please share Five Links with your friends and allies.
+Hope you enjoy [Summation by Auren Hoffman](https://substack.com/redirect/2/eyJlIjoiaHR0cHM6Ly9hdXJlbi5zdWJzdGFjay5jb20_dXRtX2NhbXBhaWduPWVtYWlsLWhvbWUmcj04bzU0biIsInAiOjE1ODE0NTMzMCwicyI6NjU1MjAsImYiOnRydWUsInUiOjE0NTYzMzE5LCJpYXQiOjE3NDEwMjU4MDIsImV4cCI6MTc0MzYxNzgwMiwiaXNzIjoicHViLTAiLCJzdWIiOiJsaW5rLXJlZGlyZWN0In0.rAgntONQ80i8cjr9kpH41qhaLeGqyB0Cu8_MJQ5yFv4?). Please also follow [@auren](https://substack.com/redirect/3fd318b0-b3fa-44d1-b8d2-791613658eff?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) on Twitter.

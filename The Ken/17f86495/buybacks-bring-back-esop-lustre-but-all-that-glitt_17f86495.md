@@ -1,0 +1,34 @@
+---
+subject: "Buybacks bring back ESOP lustre, but all that glitters isn’t gold"
+from: "The Ken <info@the-ken.com>"
+to: ""
+date: 2022-03-14 02:37:07
+labels: ["CATEGORY_PERSONAL", "INBOX", "The Ken", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_8244464457792971031", "UNREAD"]
+---
+Good Morning Ishan,
+Months after agritech startup Gramophone raised a Series B round of US$10 million, it made an announcement. The platform said it would offer liquidity to its key team members and angel investors.
+It offered an employee stock ownership plan (ESOP) buyback for US$3 million, and employees cashed out for nearly US$2 million—almost 20% of what it raised!
+This isn't usual. Buybacks, when they do happen, are usually in the 3-5% range of the last round raised. That's not all, Gramophone, founded in 2016, is no late stage company. This was just its Series B round, after all.
+Gramophone's move is indicative of a larger change taking place. ESOPs are no longer a carrot only some can afford to dangle to prospective employees.
+Already, over US$1 billion is likely to have been realised by employees at India's top startups thanks to buybacks. This is based on the assumption that 5-10% of the shareholding in India’s top 30 unicorns resides in ESOP pools.
+With more capital than most companies require up for grabs, they're able to offer ESOP buybacks. And with the hiring market turning red-hot, even smaller companies have been pushed to show employees something tangible to hold on to. Breaking free of tradition, buybacks are no longer married to a company's profitability or a possible public listing.
+For instance, interior decor player HomeLane and B2B food packaging provider Bizongo—which raised a lot more than they needed—got an opportunity to make use of the excess capital by turning it into an incentivisation technique for employees. Buybacks also help these companies by giving them more equity to offer investors.
+This means that companies are now comfortably using the money they raise for their business to do buybacks. Of the 13 buybacks this year, at least seven companies—including Bizongo, edtech firms TheMathCompany and LEAD, and buy-now-pay-later unicorn Slice—did this.
+Buybacks are also increasingly happening at the valuation of the company's most recent fundraise, as in the case of both Gramophone and Bizongo. This stands in stark contrast to earlier buybacks, which happened at a discount of up to 25% of the value achieved during the last funding round.
+So, the question now is how sustainable are these new ESOP buyback practices? Arundhati looks into it in today's deep dive: [https://the-ken.com/story/buybacks-bring-back-esop-lustre-but-all-that-glitters-isnt-gold/](https://the-ken.com/story/buybacks-bring-back-esop-lustre-but-all-that-glitters-isnt-gold/?utm_source=daily_story&utm_medium=email&utm_campaign=daily_newsletter) (12-minute read)
+Regards,
+Durga
+[durga@the-ken.com](mailto:durga@the-ken.com)
+|
+|
+|
+|
+|
+|
+What you just read is the personalised daily introduction to The Ken's story. Written by a different person each day. Often insightful, sometimes witty, and very rarely boring. Someone sent this to you? [Sign up for free](https://the-ken.com/sea/?modal=register&utm_source=footer&utm_medium=email&utm_campaign=sea_morning_email). Don't like these? You can [unsubscribe](https://link.the-ken.com/asm/unsubscribe/?user_id=2349339&data=HZDG91K4moXEG-8BcI_w5VzKPwJM1ridTILxS1x15imQwZ0t4X65BbfXgzORzbVSZ5TKRwcHR13bbsCmoqblhO1H6v12ltIsN1B4fRsv25f3leaqAOTBhq2w71KNsZ2iZ2w5EBP69qPxohi-PXhimnsv1wAizy3qMUZqhbrWU_xv5dP22jv1NcF2KDZDAG5-t8sk-w3KVFNuC1RtsTdY-gbKEK4qU5dzxWwju1t-dpOAbgLlAJUCvZqFSSvPpiyxfonbheScK3TfDmYPNiyHnr9yiaQJwPXP30Z5XD8mR1wVIiWY9rh4At8bDckj8BdxxQ-bshYDwKuOzO4j0SRd0ntzCoZEbJwICflpuqVzRiREkajO5TETo4vVxdTUSmTLSGfr4MY6D6k16MJWnPemzr_VrNwW79fOhv7fFOg2tQPzWHsHYozupg016Jq0xaWasH7VGrzDER0a7Nw8-AclUQxsRSsaTN2jpf-pjGoSEUvKkZ-s7aiM919mHprbnEFSG5rk0mWau3SfnB5leHZUxwx-n2e_5gFgnem19TBead9jV2iuCThKRDg1Eo8dDRJA). Want to manage your emails? Click [here](https://link.the-ken.com/asm/?user_id=2349339&data=JgGWSZjPq402DHwNZkNBx3BqFyybSJrHsZKxMNoPV-Al3NDBImHxqdhqIAeJgGs_K8oKmpiiVD3CdMTenAhxJ3cv-D6hLf0D3Lbwyp3YwZuciTW8kE7gMUrOQ0LAFrF27NvrywWRkpobCWQBC-gexVSB-wMc4IeKTvMQ4Q8WZDTKbq7RB52UFGaR3yM5Ap3zsOEW5T8C6L7XmYZ_iFKibCnh2XNAHKN5RwKJ_l6mAwuVgP6h8jSoAjiVCmusp9cWcPTmy2-FkWI3_QQgZBt_6AHuxIQ3YfgKnLRAgROlb9o6ia8q3eaXgnXLhssh0wvF1V2l9V0Q-pJZT7Rijy1aj6r8XijjQbheMoICcyjXl-5Vr3ABme-OyxhY8I8F2qwVtcqTWp5ZEY5IgPNU-AsRyZwxJ8usb4XxxW8b_qylSYT96dYWKkoLK7BZZo_2jMPaWGCeBFcZ6FMl5OMVLg3m6yMEZkerfVY3Yyo-eSwWb710cQBoMgmr5ivbua1aiFClrUdiobIwhPAYqujlJHqOb0t5H5awHuGkX5St0waOUd0=).
+|
+|
+|
+|
+|

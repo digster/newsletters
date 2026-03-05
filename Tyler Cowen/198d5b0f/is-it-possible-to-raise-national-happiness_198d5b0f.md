@@ -1,0 +1,12 @@
+---
+subject: "Is it Possible to Raise National Happiness?"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2025-08-23 06:49:59
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+That is [a new paper](http://marginalrevolution.com?action=user_content_redirect&uuid=87ceac5b7590a345ca7908cd22dd160ee887f5be2c4f83dac1986be33dbd2f38&blog_id=42693868&post_id=91350&user_id=262258391&subs_id=225460721&signature=be9012184b262009255a6bf91a166748&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly9wYXBlcnMuc3Nybi5jb20vc29sMy9wYXBlcnMuY2ZtP2Fic3RyYWN0X2lkPTUzMzk1MTE&email_id=0b0be094d81db60e4153d90b817c318e) by Alberto Prati and Claudia Senik, here is the abstract:
+We revisit the famous Easterlin paradox by considering that life evaluation scales refer to a changing context, hence they are regularly reinterpreted. We propose a simple model of rescaling based on both retrospective and current life evaluations, and apply it to unexploited archival data from the USA. When correcting for rescaling, we find that the well-being of Americans has substantially increased, on par with GDP, health, education, and liberal democracy, from the 1950s to the early 2000s. Using several datasets, we shed light on other happiness puzzles, including the apparent stability of life evaluations during COVID-19, why Ukrainians report similar levels of life satisfaction today as before the war, and the absence of parental happiness.
+To give some intuition, the authors provide evidence that people are more likely engaging in rescaling than being stuck on a hedonic treadmill. I think they are mostly right.
+Via the excellent [Kevin Lewis](http://marginalrevolution.com?action=user_content_redirect&uuid=49b02c57689e7a34fcaa05c383c10810fed607d4aa68d9c07efc783631e6d01c&blog_id=42693868&post_id=91350&user_id=262258391&subs_id=225460721&signature=19be382091b4da39b979ada63e0ba453&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly93d3cubmF0aW9uYWxhZmZhaXJzLmNvbS9ibG9nL2RldGFpbC9maW5kaW5ncy1hLWRhaWx5LXJvdW5kdXAvd2VsY29taW5nLXRoZS1pbnB1dA=&email_id=0b0be094d81db60e4153d90b817c318e).

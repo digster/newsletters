@@ -1,0 +1,11 @@
+---
+subject: "I never knew Joseph Smith ran for President"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2025-04-13 16:05:44
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+Eventually, Smith declared himself a candidate for the White House. His proposed platform was an awkward conglomeration of popular, though incongruent, principles including restoring the national bank, cutting Congress members' salaries, annexing Texas, and instituting the gradual abolition of slavery. Hundreds of Mormon men, including Brigham Young, swarmed the nation campaigning for their prophet to become president.
+That is from the new and excellent Benjamin E. Park, [American Zion: A New History of Mormonism](http://marginalrevolution.com?action=user_content_redirect&uuid=36f4bdbd99e28fd8d02e422881802d7ece705aa5c94f096100ed5f19f4d48789&blog_id=42693868&post_id=90429&user_id=262258391&subs_id=225460721&signature=c0a6df7180ae3c767b8bbc1c0615b4fc&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9BbWVyaWNhbi1aaW9uLU5ldy1IaXN0b3J5LU1vcm1vbmlzbS9kcC8xNjMxNDk4NjU3L3JlZj1zcl8xXzE/Y3JpZD0yTVc1RFFWT0ZFMVBYJmRpYj1leUoySWpvaU1TSjkuYTg1YXIxemJ1ZEF2UlNnWk44Z1ZiNl9kOEtkMVFFSHRJbTJheW9CcFJIM25WTlNfbTBVX3NUQWJCNW85blZETmlmWWZmeFJNQ2FzSFBHaU40X3d6czBiU1YtWFRjOWl3YmRCQ1pOTTBOTXpMaGxYWl9aTHlHN21BSmJ5UUF6cmpSb2ZWRGpBT1I1TVZlbFIxdnZmTlVheVdGRE5SR0toZjRrMkc0SjBNUWJaZWMxZEdvSTRfT0s1by1ENzg0cGRPTjRVM2RlRUhuRUs3Wks5eGdZdXdtRmpaUGtSYUJfWlgzbXVIUVZDRFZHNC5oSzVmZWd2T21QRGZNOXQ4eFREcU1OZC1LQVFfZ3NYWXZaSW1zZ2ZQckxRJmRpYl90YWc9c2Uma2V5d29yZHM9QW1lcmljYW4rWmlvbiUzQStBK05ldytIaXN0b3J5K29mK01vcm1vbmlzbSZxaWQ9MTc0NDUwNjM4NCZzcHJlZml4PWFtZXJpY2FuK3ppb24rYStuZXcraGlzdG9yeStvZittb3Jtb25pc20lMkNhcHMlMkM4MyZzcj04LTE&email_id=831cace167b67e609fc59774bb3c2818). An excellent book, good enough to make the year's best non-fiction list.
+I also learned recently (from Utah, not from this book) that early Mormons would drink alcohol and "Brigham Young even operated a commercial distillery east of Salt Lake City, and his southern‐Utah “Dixie Wine Mission” (1860s‑80s) was organized to supply sacramental, medicinal, and commercial wine for the territory." By the time Prohibition rolled around, however, Mormons were close to completely "dry."

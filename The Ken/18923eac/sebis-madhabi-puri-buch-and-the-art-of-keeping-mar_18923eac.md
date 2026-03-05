@@ -1,0 +1,21 @@
+---
+subject: "Sebi’s Madhabi Puri Buch and the art of keeping market players on tenterhooks"
+from: "The Ken <info@the-ken.com>"
+to: ""
+date: 2023-07-05 02:38:53
+labels: ["CATEGORY_PERSONAL", "INBOX", "The Ken", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_8244464457792971031", "UNREAD"]
+---
+Good Morning Ishan,
+When I went to meet a senior executive at one of India’s largest fund houses sometime last year, Sebi was not on my list of things to discuss. But within minutes, the conversation veered to the markets regulator, and I was told how Sebi was “disproportionately” focussed on mutual funds.
+Then came some more griping about Sebi.
+I thought, of course, no one who needs to be regulated likes being regulated. But as much as I wanted to move past it, I was brought right back to it. I left the meeting somewhat disappointed that I hadn’t gotten to talk about other things.
+Little did I know then that mutual funds would be at the centre of changes unleashed by Madhabi Puri Buch, the chairperson of Sebi since March 2022. During her tenure, Sebi has issued more consultation papers, circulars, and orders on average per month than at the time under any of her predecessors since 2005.
+Buch, a former chief executive of broking firm ICICI Securities, has cracked down on errant promoters and finfluencers, among others. But mutual funds, which have $524 billion in assets under management, are particularly worried. They may have recently got a reprieve on her plan to reduce the cost they charge investors for managing their money.
+But they know they could be in for pain. “The days when the regulator would be tough on a fund if adverse findings were discovered during a physical inspection or audit are in the past,” said a mutual-fund CEO. Sebi is believed to be exploring tech-led annual forensic audits of mutual funds.
+Through his reporting and analysis, my colleague Anand captures the anxiety of an industry dealing with a hyperalert regulator: [https://the-ken.com/story/sebis-madhabi-puri-buch-and-the-art-of-keeping-market-players-on-tenterhooks/](https://the-ken.com/story/sebis-madhabi-puri-buch-and-the-art-of-keeping-market-players-on-tenterhooks/?utm_source=story_story&utm_medium=email&utm_campaign=story_newsletter) (10-min read)
+Sincerely,
+Seetharaman G
+[seetharaman@the-ken.com](mailto:seetharaman@the-ken.com)
+What you just read is the personalised daily introduction to The Ken's story. Written by a different person each day. Often insightful, sometimes witty, and very rarely boring. Someone sent this to you? [Sign up for free](https://the-ken.com/?modal=register&utm_source=footer&utm_medium=email&utm_campaign=morning_email_ind). [Dont like these? You can unsubscribe](https://link.the-ken.com/asm/unsubscribe/?user_id=2349339&data=mpuKQ3wLiYxgCxFTUJTv3ohfxxHbOr-jgv0H-zh27ddoMDAwdTAwMJIQ7DT6gW52ecImESMvvpHUcCg1lLkV5-ZByHmzGTAcxSoH80PwGvfSgeih7yUttsBOEM40qDEi1C-v4dY-rw-xEezfKgc32JarMkZYuAfzN9nYBcbMN471V4mDmSAElHTdJkMQFwEVzuSj-ENLFxKzp1eYLuBGXZItNaMt5dt4O36DxGcQ80bJLLFOFU-ejYYkvz9Wd3Uf3i7ZcWS_SKB8gk9bTUZ0o2sGCiE1w5x2ix-tcPQv0TFuvYjDUr9c1jfYvcN5EeJ0RiiSItVlMR4fTXCZ8XXDqL-uidGEViLaYTlnRpgzUn7sxedvl4y1Hw3xjbnkVI9k6ARq9OVobL76-9d07yziFh8w3YdEzQnHD_XqStajtqo5jnX9iQNGxpcpeZNT4ZX_4OZarYGP7AMKZaBR1d2uzseRzb2Cm17JsEDl_6nfjhvnuaMrONesMqKhtLG3ZIfWLFilurKYiPTlRe-ECT3ToWZo6ndUoIVZzDAjHvY_wa3dgqyOem_Y1KHbCLzyhjOM6aGIOjPF-tk=) Dont want to hear from us again? [ Unsubscribe from our emails here](https://link.the-ken.com/asm/?user_id=2349339&data=VQ9H0aIgSMrDc_-wZyy-o3ivJe0feKdt7xHBFyc7TvZoMDAwdTAwMNfmjItgffxOhZ_0hb8PABpRYEU6Pk7I0WXrKCppHTjfGfXwU7B-bW7HnrxMm8QxNCw3pdBXbU9yoWaH3nhsTgHMElmwkh6ixixAyJZWCtTpFd3kNOr4pdzLmB-76BwfYfjfuzOvv2Y9QCsRpyxmTr9IqI16S5d8r5mnEPuAw2gD9gcPyyZ5JgBVsa9tQBsBTyKZVbCJKQVX7Ef8qU0b8RAoa-2QiEVW2gazRfCOkwhncYa7BNpR0lZJc1OEy4IYx_eBJxkF9EwHIfH4Twf0pf6sae7IvJcBlF4fPKU-2MDn5AlsZkxIi5k1g24IlVyREYm1fXaohvDV3Uv0KZSAHAFGznC6uK8ar4PsD98Yhhzf_2LJQwgthzJFtIomJBdknMnUnfWZKjlCIF_iU49qzVeuUNYJDX-uJMKuQRBhJoDhFEPvDUv3oMgoyNQklUaN8A7BrjVdwpEIE_SIagzZH2Q8Sg1WGesAcHzN4e2zf-89VCVqqnfRsCgivGOk_7X05Q==).
+Something wrong? Tell us at [support@the-ken.com](mailto:support@the-ken.com)

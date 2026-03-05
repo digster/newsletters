@@ -1,0 +1,86 @@
+---
+subject: "7 Rules for Life, Memory Tools, & More"
+from: "\"Sahil Bloom's Curiosity Chronicle\" <sahil@sahilbloom.com>"
+to: ""
+date: 2024-06-21 09:03:14
+labels: ["CATEGORY_PERSONAL", "INBOX", "Sahil Bloom", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_1989028747625928812", "UNREAD"]
+---
+Think Like a Farmer, Memory Tools, & More
+read and listen on [sahilbloom.com](https://click.convertkit-mail4.com/38u2emmxlohkho5k3lpipu59z22nnc7/58hvh7hmqe0olmh6/aHR0cHM6Ly93d3cuc2FoaWxibG9vbS5jb20vbmV3c2xldHRlci90aGluay1saWtlLWEtZmFybWVyLW1lbW9yeS10b29scy1tb3Jl)
+read time 4 minutes
+Here are 5 interesting ideas to spark your curiosity heading into the weekend.
+Today at a Glance:
+- Question: Cheap is expensive.
+- Quote: Ability and action.
+- Framework: The man, the boy, and the donkey.
+- Article: How actors remember their lines.
+- Image: Think like a farmer.
+|
+Today's Newsletter is Brought to You by [ConvertKit](https://click.convertkit-mail4.com/38u2emmxlohkho5k3lpipu59z22nnc7/25h2hoh265g0n3u3/aHR0cHM6Ly9jcmVhdG9ybmV0d29yay5jb252ZXJ0a2l0LmNvbS9tYXRjaD91dG1fY2FtcGFpZ249Y2stY24tcmV0YXJnZXRpbmcmdXRtX2NvbnRlbnQ9MS0xNy1DSyZ1dG1fbWVkaXVtPW5ld3NsZXR0ZXImdXRtX3NvdXJjZT1ja2Fkcw==)
+Grow your email list passively
+Add a new, passive list growth channel to your 2024 strategy with ConvertKit Recommendations. Set up your profile in the Creator Network and increase the chances of your content getting noticed and your subscriber list growing from recommendations of other creators— even when you’re out playing with your kids, grocery shopping, or setting up your next big launch. Just set up and let it go.
+|
+Question to fall in love with the hard:
+How is cheap becoming expensive in your life?
+You've been taught to save, to go with the cheaper option whenever possible. You have positive intentions, but this bias may be costing you a lot more than you think.
+One rule I’ve learned: The cheap option is often the most expensive in the long run.
+When you cut corners to “save” you just pay for it later (and with interest).
+The cheaper car may end up in the shop more often than the more expensive one. The cheaper furniture may break down and require replacement. The cheaper appliances fall apart quickly.
+You save in the short run, but pay for it in the long run (in money, stress, and peace of mind).
+This rule applies to products, but it's even more interesting in its application to decisions:
+The cheap decision—the hack or shortcut—is rarely the right decision.
+This quote by Jerry Seinfeld in an [interview with Harvard Business Review](https://click.convertkit-mail4.com/38u2emmxlohkho5k3lpipu59z22nnc7/qvh8h7hrzxv2qoul/aHR0cHM6Ly9oYnIub3JnLzIwMTcvMDEvbGlmZXMtd29yay1qZXJyeS1zZWluZmVsZA==) captures my point beautifully:
+Remember that: "The right way is the hard way."
+Where are you losing by trying to save? Where are you taking the cheap path rather than embracing the expensive?
+Ask yourself these questions, make the necessary change, and start falling in love with the hard way.
+Quote on the importance of action:
+"The man who does not read good books has no advantage over the man who cannot read them." - Mark Twain
+There is no difference between does not and cannot.
+Ability is nothing without action.
+([Share this on Twitter!](https://click.convertkit-mail4.com/38u2emmxlohkho5k3lpipu59z22nnc7/g3hnh5h3rvnoxpir/aHR0cHM6Ly90d2l0dGVyLmNvbS9pbnRlbnQvdHdlZXQ_dGV4dD0lMjJUaGUlMjBtYW4lMjB3aG8lMjBkb2VzJTIwbm90JTIwcmVhZCUyMGdvb2QlMjBib29rcyUyMGhhcyUyMG5vJTIwYWR2YW50YWdlJTIwb3ZlciUyMHRoZSUyMG1hbiUyMHdobyUyMGNhbm5vdCUyMHJlYWQlMjB0aGVtLiUyMiUyMC0lMjBNYXJrJTIwVHdhaW4lMEElMEFUaGVyZSUyMGlzJTIwbm8lMjBkaWZmZXJlbmNlJTIwYmV0d2VlbiUyMGRvZXMlMjBub3QlMjBhbmQlMjBjYW5ub3QuJTBBJTBBQWJpbGl0eSUyMGlzJTIwbm90aGluZyUyMHdpdGhvdXQlMjBhY3Rpb24uJTBBJTBBLSUyMCU0MFNhaGlsQmxvb20=))
+A beautiful story with a powerful lesson:
+The Man, the Boy, & the Donkey
+One of my favorite fables (with a powerful lesson for life):
+A man and his son were going with their donkey to market.
+As they were walking along by its side a countryman passed them and said: "You fools, what is a Donkey for but to ride upon?"
+So the man put the boy on the donkey and they went on their way. But soon they passed a group of men, one of whom said: "See that lazy youngster, he lets his father walk while he rides."
+So the man ordered his boy to get off, and got on himself. But they hadn’t gone far when they passed two women, one of whom said to the other: "Shame on that lazy lout to let his poor little son trudge along."
+So the man took his boy up with him on the donkey. By this time they had come to the town, and the people began to jeer and point at them: "Aren’t you ashamed of yourself for overloading that poor donkey?"
+So the man and boy got off and tried to think what to do. They thought and they thought, till at last they cut down a pole, tied the donkey’s feet to it, and raised the pole and the donkey to their shoulders.
+They went along amid the laughter of all who met them till they came to a bridge, when the donkey kicked loose, fell over the side, and drowned.
+"That will teach you," said an old man who had followed them:
+"Please all, and you will please none."
+At every step in your journey, there will be people who feel the need to voice their opinion on your actions and vision:
+- They'll say it makes no sense
+- They'll laugh that you're on the wrong path
+- They'll tell you to be more realistic
+- They'll question your every move
+But remember the lesson of the fable: If you listen to everyone—if you try to please everyone—you will please no one.
+Stop worrying about what others think. Do you, be yourself, and live according to your values.
+An article with a useful memory strategy:
+[How Actors Remember Their Lines](https://click.convertkit-mail4.com/38u2emmxlohkho5k3lpipu59z22nnc7/9qhzhnhp07x3nnb9/aHR0cHM6Ly90aGVyZWFkZXIubWl0cHJlc3MubWl0LmVkdS9ob3ctYWN0b3JzLXJlbWVtYmVyLXRoZWlyLWxpbmVzLw==)
+I've always wondered how actors memorize their lines for stage performances (which I assume is much more challenging than movies/shows, where you can do it before each scene).
+This was a neat articulation:
+"Repeating items over and over, called maintenance rehearsal, is not the most effective strategy for remembering. Instead, actors engage in elaborative rehearsal, focusing their attention on the meaning of the material and associating it with information they already know."
+In essence, deep understanding provides the necessary context for lines to be recalled naturally, rather than forcibly.
+Short read with some cool tips for enhanced memory in your life.
+Brilliant metaphor for life:
+I stumbled across this image about a year ago on [Reddit](https://click.convertkit-mail4.com/38u2emmxlohkho5k3lpipu59z22nnc7/3ohphkh70wr9vxhr/aHR0cHM6Ly93d3cucmVkZGl0LmNvbS9yL0dldE1vdGl2YXRlZC9jb21tZW50cy8xMDVueGIxL2ltYWdlX3RoaW5rX2xpa2VfYV9mYXJtZXIv) and come back to it from time to time as a reminder.
+The last one is my favorite: "Remember you will have good seasons and bad seasons—you can't control the weather, only be prepared for it."
+No matter how helpless you feel, there's always something you can do to set yourself up for success. Consider your positioning and how you can make tweaks that will put you in an advantageous spot for whatever season may come.
+In Case You Missed It:
+In [Wednesday's issue](https://click.convertkit-mail4.com/38u2emmxlohkho5k3lpipu59z22nnc7/n2hohvh3mdg5emc6/aHR0cHM6Ly93d3cuc2FoaWxibG9vbS5jb20vbmV3c2xldHRlci9sZXNzb25zLWZyb20tYW4taW1wZXJmZWN0LWZhdGhlci10by1oaXMtcGVyZmVjdC1zb24=), I shared 20 lessons from an imperfect father for his perfect son. They collectively comprise something like an operating manual for life, and a "reminder to self" on the things I need to embody every single day, however imperfectly, in the hopes that my son can learn from them.
+A few audience favorites:
+- Don't follow your passion, follow your energy.
+- Ambition is nothing without direction.
+- Stress and anxiety are the result of the lack of a plan to bridge the gap between your expectations and your reality.
+Sahil's Recommendation Zone
+Perfect your morning routine with my partner[ Athletic Greens](https://click.convertkit-mail4.com/38u2emmxlohkho5k3lpipu59z22nnc7/48hvhehrvo9qklsx/aHR0cDovL2RyaW5rYWcxLmNvbS9zYWhpbA==):
+I get asked about my morning routine all the time. It changes from time to time, but [AG1](https://click.convertkit-mail4.com/38u2emmxlohkho5k3lpipu59z22nnc7/48hvhehrvo9qklsx/aHR0cDovL2RyaW5rYWcxLmNvbS9zYWhpbA==) has been the one constant since 2011. I drink it with a big glass of water every single morning to start my day on a positive tone.
+It replaced an entire cabinet of supplements for me in one daily scoop—seriously, its latest iteration covers a multivitamin, multi-mineral, prebiotics, probiotics, adaptogens, greens, and more. It keeps me feeling healthy and strong throughout the year, even when I'm traveling (thanks to the travel packs).
+Athletic Greens is offering Curiosity Chronicle subscribers an exclusive deal: [a free 1-year supply of liquid vitamin D plus 5 travel packs with your subscription purchase](https://click.convertkit-mail4.com/38u2emmxlohkho5k3lpipu59z22nnc7/48hvhehrvo9qklsx/aHR0cDovL2RyaW5rYWcxLmNvbS9zYWhpbA==). Take advantage of it!
+Sahil Bloom
+|
+|
+|

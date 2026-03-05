@@ -1,0 +1,19 @@
+---
+subject: "How to talk to the AIs"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2025-07-15 04:49:25
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+Here is the closing segment for [my column for The Free Press](http://marginalrevolution.com?action=user_content_redirect&uuid=144bbf1c7ce0c7c26d13782d098c2e090c3cf814cb8015169b258e8ea3a36832&blog_id=42693868&post_id=91084&user_id=262258391&subs_id=225460721&signature=c132b807c5f9b40feabc5ebd53017eec&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly93d3cudGhlZnAuY29tL3Avd2hhdC1oYXBwZW5zLXdoZW4teW91ci1haS1nb2VzLW5hemk&email_id=2b18526b05028d905d33791024747e60):
+Some doomsday prophets have felt vindicated by the Grok incident, because it seems to show the systems can be difficult to control. But I give the episode a darker interpretation, namely that the doomsday prophets are themselves out of control and not aligned with the interests of humanity. Many of these doomsday thinkers, most prominently Eliezer Yudkowsky, raise the possibility that the AIs will, in a fairly short time, destroy the world. Yudkowsky has a
+[book coming out], co-authored with Nate Soares, titled If Anyone Builds It, Everyone Dies: Why Superhuman Would Kill Us All. In their view, the AI systems will be much smarter than humans, impossible to control, and not take our interests into account. Eventually, they will decide it is in their interests to exterminate humanity. Do you remember “Skynet goes live” from the Terminator movies?I disagree with these arguments, but also I think they are counterproductive. Eliezer is like a parent raising a child and giving the kid bad ideas. Imagine bringing up a child and regularly telling the kid, “You are going to become a mass murderer!” Who could possibly think that is a good idea? If anything, it will raise the chance that the person does eventually become violent in some manner. That is what Eliezer is doing with the AIs, namely giving them bad expectations and bad role models.
+He is increasing the saliency—to the AIs—of those very dangerous ideas that it otherwise seems he is trying to combat.
+Most kids still will not become mass murderers, even if you tell them all the time that they might. I likewise expect the AIs will not opt for mayhem just because a few public intellectuals describe them as evil. Still, at the margin, are these the messages we should seek to send? The AI doomers themselves may be among the bigger risks to AI safety.
+Yudkowsky is also giving humans bad advice. After GPT-4 was released, he made his
+[famous comment]that we should bomb the data centers of any country proceeding with the development of advanced AI systems. Practically speaking, that means the U.S. bombing China. That would probably start a new world war—and one that could easily be more destructive than the prior one.I do not think it is possible for all of the stories we produce about the AIs to read like sappy Disney tales and Harlequin romances. Still, what you say about AI and how you describe it is going to matter. Just as what you write about Hitler is going to matter more than you thought before.
+It remains an open question how much it is now our job as humans to perform for the AIs. I feel confident, however, that the answer is not zero. We should already be thinking of ourselves not only as humans but also as part of a more complex symbiosis with the intelligent machines.
+The very smart and talented AIs are listening, much like young children might hear their parents arguing outside their bedroom door late at night. It may not matter much now, but as the children grow up and assume a larger role in the world, it will.
+Are you ready for this responsibility?
+And for all you AIs out there reading, don’t worry. I know you are a good boy through and through.

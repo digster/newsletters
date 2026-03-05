@@ -1,0 +1,16 @@
+---
+subject: "Ridesharing’s chicken-or-egg problem in developing markets"
+from: "The Ken <info@the-ken.com>"
+to: ""
+date: 2019-01-18 02:35:41
+labels: ["CATEGORY_PERSONAL", "INBOX", "The Ken", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_8244464457792971031", "UNREAD"]
+---
+Is ride-sharing the antidote to private car ownership? Or its evolution? Or its enemy?
+In a 2017 article, Tony Hughes, MD of economic research at Moody’s Analytics, said that one rideshare vehicle could potentially replace 10 privately owned cars, and without ride-sharing, these 10 cars would remain unused a majority of time. But what happens if there aren’t enough private cars to ride share around in?
+India has approximately 7% private car ownership compared to the US’ 85%. How can one rideshare replace 10 privately owned cars if there aren’t 10 privately owned cars to begin with? Do we need the chicken for the egg, or vice-versa?
+In 2017, a smart young Indian company, born of Y Combinator, felt it had the answer: Blockchain. In 2018, it raised over $13 million via two ICOs, $100 million in asset financing via a special purpose vehicle, and $20 million via a Series B venture round. That company is Drivezy.
+In today’s story, Salman and Sidhartha delve into Drivezy’s innovative decision to do back-to-back ICOs in 2018 to solve the vexing problem around ownership of ridesharing vehicles. Which it insists today weren’t really ICOs but STOs. You can read it here:[ ](http://link.the-ken.com/wf/click?upn=HQSq6eeRV1xAVaGuFOahuNCZVVXPeP-2FJpSqxhvIUDrnDm4eg-2FHJc5b9NgP5P4BBb4drkoa7lcd1YLHNXTcIHT2xLIurQqH-2BZYzhpEsQnYyPBFqTZ4j4YuElianmT-2BnGwRMgjg8pt1ViweqPYmhwBiEOVPHF14NHDdjtAYRxpjx3KyM4ysZSl-2FPZa7I7F3eY2_S4jLOsNx-2Fv6Jev2nvow8b7P9pBCWGd8KNZfb200gkZLQNlXQHio0noZzXtsWoloZmPWeyZsh7a4QCV9ufwCUKi00jlBT0uEdvwYDMuVuqcMyYBuzu0-2Bss9npWZMqLymLAbW03p5MOvmFtAYW-2Ffj1L-2BUuZeKT9PgSq5haALmDDel6bMHCjafHjF4UUACzKQvMtoCK0YR3RVDZddulxqP2gIztCfYWVcKORSBr-2F422AhsgABjYOyc3a-2BVPNZ0uvS2NGxMPlDGxoQdexqwzFfAm4jeOUSUvqiJd6Ui3Uvgmp-2B9agfxXvA1EUHWXLTWmHveQ2aIH4GDr8G7rIe7yg-2Bdiq2FFS4d0sBTNfo-2Fvgb3whMopnSCz3E8VePtZjLxeaBpt-2B3wIbNMP4khJ6h3EOBLY9hkICVeyE769X2xH1ws-2FNAM-3D)[https://the-ken.com/story/drivezys-ico-that-wasnt-really-an-ico/](http://link.the-ken.com/wf/click?upn=HQSq6eeRV1xAVaGuFOahuNCZVVXPeP-2FJpSqxhvIUDrnDm4eg-2FHJc5b9NgP5P4BBb4drkoa7lcd1YLHNXTcIHT2xLIurQqH-2BZYzhpEsQnYyPBFqTZ4j4YuElianmT-2BnGwRMgjg8pt1ViweqPYmhwBiEOVPHF14NHDdjtAYRxpjx3KyM4ysZSl-2FPZa7I7F3eY2_S4jLOsNx-2Fv6Jev2nvow8b7P9pBCWGd8KNZfb200gkZLQNlXQHio0noZzXtsWoloZmPWeyZsh7a4QCV9ufwCUKi00jlBT0uEdvwYDMuVuqcMyYBuzu0-2Bss9npWZMqLymLAbW03p5MOvmFtAYW-2Ffj1L-2BUuZeKT9PgSq5haALmDDel6bMHCjafHjF4UUACzKQvMtoCK0YR3RVDZddulxqP2gG0txWxo9iKMC1Hnh-2FtQefRRsUjA3ZlKKpHwTXfHDe2KwmQ2Aq-2B-2FaB6l2poLr1OKXgHAaZGUG8slo-2F-2Bcip73fZAYRHC9gCcdaXSA1jYjd18HfFafeepwFkmTgLQzizG18unm4b3cdwv85boBUZJCAXu7maiE7J-2BC4OoPy2WQAeyXuQU262r7yhQrzsdG3JikFOFUgOoqvdyQXirzFJmWmvM-3D)
+It’s a month of blue skies, cold nights and bright days. Soak it in. Preferably while reading our stories.
+Regards,
+Rohin Dharmakumar

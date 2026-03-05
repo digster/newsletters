@@ -1,0 +1,11 @@
+---
+subject: "Open Thread 337"
+from: "Astral Codex Ten <astralcodexten@substack.com>"
+to: ""
+date: 2024-07-08 10:09:42
+labels: ["Astral Codex", "CATEGORY_PERSONAL", "INBOX"]
+label_ids: ["Label_6409723252142624155", "CATEGORY_PERSONAL", "INBOX"]
+---
+This is the weekly visible open thread. Post about anything you want, ask random questions, whatever. ACX has an unofficial [subreddit](https://substack.com/redirect/8a8aab40-2beb-43fe-b398-b9c4f1e21f6d?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o), [Discord](https://substack.com/redirect/963b1c2e-42da-4e19-bfa3-574c38f880c8?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o), and [bulletin board](https://substack.com/redirect/2a74127e-af98-4472-a74b-af7b716dcdfb?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o), and [in-person meetups around the world](https://substack.com/redirect/d50f48b3-e42a-45eb-9a7c-cd459f119a98?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o). 95% of content is free, but for the remaining 5% you can subscribe [here](https://substack.com/redirect/b63b0225-87d7-4ab2-935a-ee1e8c36246f?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o). Also:
+1: Comment of the week is [Peter Gerdes here](https://substack.com/redirect/d039f20a-688f-4027-a295-c8b3bb61f910?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o), arguing that publicly pressuring Sotomayor to resign makes Sotomayor less likely to resign (because she can’t look like she’s giving in to political pressure). I [don’t know](https://substack.com/redirect/87eead06-a391-4e25-8cbd-774dbed80bb3?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) if I buy it, but worth thinking about.
+2: Related: some Democrat friends have asked me to [signal-boost this post they wrote](https://substack.com/redirect/810a2ff5-e7e0-4307-aa68-cc75939911ac?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) about why and how to help get Biden to step down (basically: other candidates do better in adjusted head-to-head polls; calling your representative will help).

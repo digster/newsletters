@@ -1,0 +1,32 @@
+---
+subject: "5 years ago I launched freeCodeCamp from a desk in my closet"
+from: "Quincy Larson <quincy@freecodecamp.org>"
+to: ""
+date: 2019-10-24 20:47:06
+labels: ["CATEGORY_PERSONAL", "INBOX", "Quincy"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_7697778124671848699"]
+---
+Here are this week's five links that are worth your time:
+
+1. 5 years ago, I launched freeCodeCamp from a desk in my closet. Today, we've helped more than 40,000 people get developer jobs. In this article I'll show you the numbers behind our nonprofit, our plans for 2020, and a ton of new features we just pushed live. (7 minute read): https://www.freecodecamp.org/news/the-future-of-freecodecamp-5-year-anniversary/
+
+2. CSS Zero to Hero. This free course teaches you CSS basics like coloring and text, and advanced skills like custom animations. (6 hour watch): https://www.freecodecamp.org/news/learn-css-in-this-free-6-hour-video-course/
+
+3. Niamh had no computer science degree, no bootcamp, and no clue. But after 7 months of learning to code, she got her first developer job. She shares tips that helped her get hired so quickly. (7 minute read): https://www.freecodecamp.org/news/how-i-became-a-web-developer-in-under-7-months-and-how-you-can-too/
+
+4. 200 universities just launched 620 free online courses. More proof that these days you can learn almost any subject straight from university professors - at your convenience and for free. (browsable list): https://www.freecodecamp.org/news/new-online-courses/
+
+5. How Jessica Chan went from photography student to freelance developer. She also created a popular Instagram account that explains computer science concepts through diagrams. Here's her exciting and relatable story. (1 hour podcast interview): https://www.freecodecamp.org/news/how-jessica-chan-codercoder-went-from-photography-degree-to-prolific-content-creator-and-successful-freelancer/
+
+
+Quote of the Week: "If you want a team to go fast, a feeling of momentum is more important than a sense of urgency." —Elisabeth Hendrickson
+
+
+Happy coding.
+
+- Quincy Larson
+
+Teacher at freeCodeCamp.org
+
+
+If these emails aren't worth your time, you can turn them off: https://www.freecodecamp.org/ue/eZV2T3gHC7IGcwcpYPG64

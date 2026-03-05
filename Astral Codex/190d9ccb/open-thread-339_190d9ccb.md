@@ -1,0 +1,10 @@
+---
+subject: "Open Thread 339"
+from: "Astral Codex Ten <astralcodexten@substack.com>"
+to: ""
+date: 2024-07-22 09:35:41
+labels: ["Astral Codex", "CATEGORY_PERSONAL", "INBOX"]
+label_ids: ["Label_6409723252142624155", "CATEGORY_PERSONAL", "INBOX"]
+---
+This is the weekly visible open thread. Post about anything you want, ask random questions, whatever. ACX has an unofficial [subreddit](https://substack.com/redirect/640d00b4-49f0-4cd6-b754-e7e5a3789503?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o), [Discord](https://substack.com/redirect/e00c574a-4b74-43c5-9544-3452b9a06e25?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o), and [bulletin board](https://substack.com/redirect/dbb61b57-4f45-4949-bd74-317df8bc839c?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o), and [in-person meetups around the world](https://substack.com/redirect/a66febb6-5fd7-41ff-ac8d-7ea77cffc3c8?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o). 95% of content is free, but for the remaining 5% you can subscribe [here](https://substack.com/redirect/c10afcc2-9bd1-4fa2-beb7-3f17cbedd388?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o). Also:
+1: I'm interested in expanding my [biennial local ballot post](https://substack.com/redirect/cd5cef22-3af9-452e-bd7f-0e3422af0175?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) into a community-wide effort to get an ACX slate for major US cities. Current plan is to ask the 5-10 biggest meetup groups to research for their city sometime in the autumn, then post a week or two before the election. This would probably be SF, Oakland, Berkeley, San Jose, LA, NYC, Seattle, Austin, Boston, Chicago. The main things I want to know now: when does your state release its voter information packet? Do other states have enough things on the ballot to keep this interesting, or is California unique there? Do these meetup groups feel up to working on this? Does anyone have any other suggestions or advice?

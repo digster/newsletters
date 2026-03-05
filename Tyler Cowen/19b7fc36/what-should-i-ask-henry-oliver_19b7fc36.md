@@ -1,0 +1,11 @@
+---
+subject: "What should I ask Henry Oliver?"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2026-01-02 17:31:11
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+Yes, I will be doing a Conversation with him. We will focus on our mutual readings of Shakespearer's Measure for Measure, with Henry taking the lead. But I also will ask him about the value of literature, Jane Austen, Adam Smith, Bleak House, [his book on late bloomers](http://marginalrevolution.com?action=user_content_redirect&uuid=0eab74c745b06fe3845d4443df9a145a27b9624503011520ac977e25ff25567e&blog_id=42693868&post_id=92159&user_id=262258391&subs_id=225460721&signature=eaa741a9525604637104557b89d92929&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9TZWNvbmQtQWN0LUJsb29tZXJzLVN1Y2Nlc3MtUmVpbnZlbnRpbmcvZHAvMTM5OTgxMzMyMy9yZWY9c3JfMV8xP2NyaWQ9Mk1KVVRWVENCWko3WSZkaWI9ZXlKMklqb2lNU0o5LnlwUXZmeS1VaTNrWjYzRXAzcUFheU1kOFAzUmlIZXg4bjRBR081WmRqcUZRZTlLN0NnZ0s3OVFLTkFuTFJxWm1zd1RqNEVDblpreDhHZVhwTHFPZFNJX3kxWE9yOC1rR2hWRTlJUGI4RENQRzgtSG5hWmhqdjdMcXRqSG15MTMzLmo4RXVHQkREaWRiUFQ3OFdGSEpBZnppdjc0NlplUEw2VzdGT0lQUHY5TmcmZGliX3RhZz1zZSZrZXl3b3Jkcz1oZW5yeStvbGl2ZXIrc2Vjb25kK2FjdCZxaWQ9MTc2NzM2MDQ4MSZzcHJlZml4PWhlbnJ5K29saXZlciUyQ2FwcyUyQzE0MCZzcj04LTE&email_id=9b5c0ee3ed7ad9da4a8137e2209fb99d), and more.
+Here is [Henry's (free) Substack](http://marginalrevolution.com?action=user_content_redirect&uuid=9dbc9cd8cfd7e9fb48b500ff691053a6ae06cb525809fcd89dfeb5afc0152f22&blog_id=42693868&post_id=92159&user_id=262258391&subs_id=225460721&signature=a64e214866e2ce79ee3a2b63acda7a92&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly93d3cuY29tbW9ucmVhZGVyLmNvLnVrLw=&email_id=9b5c0ee3ed7ad9da4a8137e2209fb99d). Here is [Henry on Twitter](http://marginalrevolution.com?action=user_content_redirect&uuid=ea0e68797192f319acff94e473ad7129d9796abb79566d409e59220a31eabaa5&blog_id=42693868&post_id=92159&user_id=262258391&subs_id=225460721&signature=980461b9646e37dc5a0b2dd426e4e323&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly94LmNvbS9IZW5yeUVPbGl2ZXI&email_id=9b5c0ee3ed7ad9da4a8137e2209fb99d).
+So what should I ask him?

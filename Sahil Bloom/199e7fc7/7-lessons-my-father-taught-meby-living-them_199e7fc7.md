@@ -1,0 +1,124 @@
+---
+subject: "7 Lessons My Father Taught Me—By Living Them"
+from: "\"Sahil Bloom's Curiosity Chronicle\" <sahil@sahilbloom.com>"
+to: ""
+date: 2025-10-15 13:08:24
+labels: ["CATEGORY_PERSONAL", "INBOX", "Sahil Bloom", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_1989028747625928812", "UNREAD"]
+---
+7 Lessons From My Father’s 70 Years
+read on [sahilbloom.com](https://click.kit-mail6.com/5qux9883lpf7hnk5xodslf9kq8344anhxk7dx/58hvh7hgg3g006c6/aHR0cHM6Ly93d3cuc2FoaWxibG9vbS5jb20vbmV3c2xldHRlci83LWxlc3NvbnMtZnJvbS1teS1mYXRoZXJzLTcwLXllYXJz)
+read time 7 minutes
+Welcome to The Curiosity Chronicle, a newsletter where I provide actionable ideas to help you build a high-performing, healthy, wealthy life.
+Forwarded this email? Join 800,000+ other readers [here](https://click.kit-mail6.com/5qux9883lpf7hnk5xodslf9kq8344anhxk7dx/25h2hoh33l3ggqf3/aHR0cHM6Ly93d3cuc2FoaWxibG9vbS5jb20vbmV3c2xldHRlcg==).
+Andrew Huberman called my first book "An important clarifying force in anyone’s search to make the best possible choices for their life." Join 400,000+ other readers and get it now on a big sale!
+|
+[DeleteMe](https://click.kit-mail6.com/5qux9883lpf7hnk5xodslf9kq8344anhxk7dx/g3hnh5hmmgmnnvar/aHR0cHM6Ly9qb2luZGVsZXRlbWUuY29tL1NhaGlsYmxvb20=) — The Incredible Tool I Use To Automate My Privacy.
+I used to constantly worry about digital privacy. Until I found an incredible service that’s like having a 24/7 online security team for myself and my family.
+[DeleteMe](https://click.kit-mail6.com/5qux9883lpf7hnk5xodslf9kq8344anhxk7dx/g3hnh5hmmgmnnvar/aHR0cHM6Ly9qb2luZGVsZXRlbWUuY29tL1NhaGlsYmxvb20=) automatically finds and removes your personal data from hundreds of data brokers and people search sites. You set it up once, and their team handles the rest—verifying removals and sending you detailed reports so you can see what’s been cleared.
+I signed up my entire family. Honestly, I think everyone should do this. It’s a small investment with a massively asymmetric return. Reduce your digital exposure and bring peace of mind back to your life.
+Protect your data and get 20% off [DeleteMe](https://click.kit-mail6.com/5qux9883lpf7hnk5xodslf9kq8344anhxk7dx/g3hnh5hmmgmnnvar/aHR0cHM6Ly9qb2luZGVsZXRlbWUuY29tL1NhaGlsYmxvb20=) at [joindeleteme.com/sahilbloom](https://click.kit-mail6.com/5qux9883lpf7hnk5xodslf9kq8344anhxk7dx/g3hnh5hmmgmnnvar/aHR0cHM6Ly9qb2luZGVsZXRlbWUuY29tL1NhaGlsYmxvb20=) using code SAHIL.
+|
+7 Lessons From My Father’s 70 Years
+This week, my dad turns 70 years old.
+He remains my greatest source of wisdom. My confidant. My compass. The person I still turn to for advice on life, relationships, business, and everything in between.
+No single person has had a greater impact on who I am or how I move through the world.
+But he rarely sat me down to teach lessons or offer lectures. He just lived in a way that showed me what mattered most.
+Here are seven lessons my father taught me—by living them every single day:
+1. Always have high expectations (and high support).
+This one photo says everything you need to know about strong relationships.
+Allow me to explain:
+It’s a photo of my father, diligently taking notes during one of my talks at an event in India.
+Throughout my entire life, he has shown up for me: From cheering at my baseball games, to surprising me at the finish line of my first marathon, and now to sitting and listening diligently as I deliver talks.
+He is there as a supporter—my biggest fan—and a trusted partner, someone who I can count on to shoot me straight with thoughtful critiques and feedback.
+Reflecting on this photo later, I came to understand that it holds a deep and powerful truth about the two pillars of strong relationships:
+- High Expectations: The belief that the other person is capable of excellence, that their potential is only limited by their own views.
+- High Support: The ability and willingness to provide the love, support, and engagement to help the person meet those high expectations.
+High Expectations without High Support is a recipe for disaster. We've all faced a relationship like this, where the person seems to want more from us but does not seem willing to share in the burden of reaching that more.
+High Support without High Expectations is a recipe for mediocrity. It allows self-limiting beliefs to perpetuate, it says that you're fine where you are today, that growth is unnecessary.
+The magic is found at the collision of the two. That’s what my father gave to me. And what I’ll always strive to give others.
+2. Never give up your agency.
+I tried out for a baseball all-star team when I was 12.
+When the results came out, the coaches called to say they were taking 16 players, and I was the 17th on the list. I didn't make it.
+I was devastated. It was my first real experience with a failure. My dad walked into my room and sat down next to me.
+He said:
+"I know you're upset. I understand. It sucks. But here are the three things the coaches said you needed to work on. Let's go out every day this summer and work on them together."
+We did. He took me out to the local field damn near every single day that summer. I came back the next year and was a completely different player. Years later, when I got a scholarship to play at Stanford, I still thought back to that summer as the turning point.
+My dad had two options in that moment:
+- Tell me the coaches were idiots. They were wrong. They had made a mistake. I was the best player.
+- Acknowledge my disappointment. Reframe it as a growth opportunity. Support me to go after it.
+It would have been easier to choose Option 1. Honestly, I would have been happier to hear it in the moment. But it would have had a lasting negative impact on my life.
+You see, there's a big difference between what I wanted and what I needed. Option 2 was the latter. The tough pill. The right pill.
+My dad subtly reframed that failure as an opportunity. Then he showed up to help me capitalize on it.
+It was a pro-agency approach: A reminder that I was capable of taking an action to create a desired outcome. That I was in control. That I was at the wheel.
+I'll never forget that.
+3. Choose your path, not theirs.
+There’s a beautiful quote often attributed to Joseph Campbell:
+“If the path before you is clear, you’re probably on someone else’s.”
+My entire life is the result of my father’s rejection of the clear path.
+He had his life mapped out for him by his father. He was going to marry someone his father deemed “suitable” and fall in line.
+Fortunately for me, my father had different plans.
+He met my mother—decidedly unsuitable by his father’s standards—and fell in love. He knew his father would never accept it, but he walked forward nonetheless.
+In the face of uncertainty, my father chose love. I am a result of that choice. Its ripples extend into every corner of my life.
+It’s painful to step off the clear path, but the greatest rewards in life always accrue to those who have the courage to do just that.
+4. Hard work is never overrated.
+When I was maybe 10 years old, I got to be my dad’s +1 on a trip to Asia for a talk he was giving on some of his research.
+We flew business class (my first time ever) and I was in paradise with the endless supply of food and movies.
+As the 12-hour flight neared completion, I turned to my dad, who had been working the entire time, and said, almost incredulously:
+“You didn’t watch a single movie!”
+I’ll never forget his reply:
+“This is what’s required for me to deliver up to my standards—and to bring you on this trip.”
+A lot of people say this, but my dad is one of the hardest workers I’ve ever seen. Throughout my life, I saw him work hard on things he cared about, to create outcomes he cared about (for his work, but also for his life).
+I’ll always show up and work like a madman for the people and things I care about—because it’s the surest way to get the things you want out of life.
+5. Just keep showing up.
+A few days into my freshman year at Stanford, I called my dad and told him I was feeling pretty discouraged. I felt way out of my depth on the baseball field and in the classroom.
+His guidance was simple:
+“Just keep showing up.”
+You can get pretty damn far in life by just being someone that people can count on to show up and do the work.
+Reliability is one of the most underrated traits. It's entirely free and doesn't require any talent or luck. Just show up, do the work, and get the job done.
+In the short run, it is much harder to be exceptional than it is to be reliable. In the long run, being consistently reliable makes you exceptional.
+I followed his advice, put my head down, and eventually broke through. It’s my approach to every challenge I come across in life.
+Never bet against the person who just keeps showing up.
+6. You are how you treat people when nobody’s watching.
+I grew up spending a lot of time with my mother’s family in India.
+It’s an amazing place, but the remnants of the caste system—a structure of birth-based social hierarchies—were often visible in the way those from higher castes treated those from the lower rungs of the ladder.
+My father rejected this entirely.
+He treated every single person with the same level of kindness, warmth, and respect. He befriended all of the caretakers who looked after my grandparents. They all still light up when they see him today, often giving him friendly pats on the belly to tell him he’s gotten too skinny (or gained some weight!).
+He lived by a simple rule:
+Character is who you are when nobody’s watching.
+7. Choose the path with the larger luck surface area.
+You can take deliberate actions to expand the surface area on which lucky events can strike in your life.
+It's hard to get lucky watching TV at home. It's much easier to get lucky when you're creating motion in the world:
+- Meet new people
+- Spend more time in rooms where you don’t feel like you belong
+- Create, write, and share your ideas
+- Send one cold email (or DM) per day
+- Spend more time around optimists and big thinkers
+Remember the Luck Razor: When choosing between two paths, choose the path that has a larger luck surface area.
+P.S. I’m thrilled to announce I recently signed my second book deal—for a book on the topic of luck. Coming (not so) soon…
+P.P.S. If you have any favorite stories on luck from your family, life, or history, feel free to reply and share, as I’m deep in the research phase now!
+Happy Birthday, Dad!
+At the end of one of my book tour events, my father was asked by the moderator how he feels seeing his son on stage:
+“I’m proud that he is becoming the man he wants to be.”
+Not the man I want him to be—but the man that he wants to be.
+Well, it comes full circle, because he is the man I want to be. He was, and always will be, my hero.
+To my Dad on his 70th birthday. Thank you. For everything. I love you!
+Order My First Book to Unlock Exclusive Bonuses:
+The 5 Types of Wealth is the compass for your journey to a life of wealth that goes far beyond money. It provides the actionable tools to define, measure, and design your life around the pillars that truly create lasting happiness and fulfillment.
+It will help you find your True North and build your life around it.
+Order now and you'll unlock several new, exclusive bonuses:
+- Access to my Most Powerful Life Hacks Ebook: 50 timeless insights for simplifying your world and living well.
+- Access to The 5 Types of Wealth Digital Community: Join a vibrant group of like-minded individuals committed to creating a life of comprehensive wealth. Connect, collaborate, and grow together.
+- Access to The 5 Types of Wealth Launch Workshop: Get exclusive access to the full recording of this transformative virtual workshop, where I’ll guide you through specific exercises designed to help you apply the principles of the book. Watch it anytime at your convenience!
+Sahil's Recommendation Zone
+|
+The single anchor to my morning routine since 2011: [AG1](https://click.kit-mail6.com/5qux9883lpf7hnk5xodslf9kq8344anhxk7dx/reh8hohmmkm7vet2/aHR0cHM6Ly9kcmlua2FnMS5jb20vc2FoaWw=)!
+I started taking [AG1](https://click.kit-mail6.com/5qux9883lpf7hnk5xodslf9kq8344anhxk7dx/reh8hohmmkm7vet2/aHR0cHM6Ly9kcmlua2FnMS5jb20vc2FoaWw=) way before it was trendy or anyone knew about it––in 2011 when I needed to up my health game while playing college baseball. I was one of their first customers and fell in love with it. I took it consistently for over 10 years before asking the CEO for a link to share with family and friends.
+The newly upgraded [AG1 Next Gen](https://click.kit-mail6.com/5qux9883lpf7hnk5xodslf9kq8344anhxk7dx/reh8hohmmkm7vet2/aHR0cHM6Ly9kcmlua2FnMS5jb20vc2FoaWw=) is backed by four clinical trials and features five clinically studied probiotics, functional mushrooms, and whole food-sourced nutrients to support gut health, immune function, and sustained energy.
+And now it comes in 3 new flavors: Tropical, Citrus, and Berry. All from plant-based sources, with no added sugar or artificial sweeteners.
+[AG1](https://click.kit-mail6.com/5qux9883lpf7hnk5xodslf9kq8344anhxk7dx/reh8hohmmkm7vet2/aHR0cHM6Ly9kcmlua2FnMS5jb20vc2FoaWw=) is offering my amazing Curiosity Chronicle subscribers a FREE $76 gift when you sign up. You’ll get a Welcome Kit, a bottle of D3K2 (I take this daily!), and 5 free travel packs in your first box.
+|
+Sahil Bloom
+|
+|
+|

@@ -1,0 +1,13 @@
+---
+subject: "Red Flags for Waymo in Boston"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2025-07-29 11:22:19
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+The British [Locomotives Act of 1865](http://marginalrevolution.com?action=user_content_redirect&uuid=fdc4ac8330bbed4c9305467bc4db66503bab8adc968ba0c098a77c5d7fa461a3&blog_id=42693868&post_id=91187&user_id=262258391&subs_id=225460721&signature=05beebdfc2e7aeb58cf549ea078a0c1e&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvTG9jb21vdGl2ZV9BY3Rz&email_id=f3a06c083d20a4afee923c5d0e15c7b5) contained a red flag provision:
+...while any Locomotive is in Motion, [one of the three required attendants] shall precede such Locomotive on Foot by not less than Sixty Yards, and shall carry a Red Flag constantly displayed, and shall warn the Riders and Drivers of Horses of the Approach of such Locomotives, and shall signal the Driver thereof when it shall be necessary to stop, and shall assist Horses, and Carriages drawn by Horses, passing the same.
+Not to be outdone the Boston City Council is debating a law on self-driving cars that [includes](http://marginalrevolution.com?action=user_content_redirect&uuid=59679f8eddd7ff47980fe79fe8bf99e8438dd687ea2944fc7a3d30e431ab9f52&blog_id=42693868&post_id=91187&user_id=262258391&subs_id=225460721&signature=58d2933d4b06f62c6df6d76550199e0b&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly9lcmluZm9yYm9zdG9uLmNvbS9mL29yZGluYW5jZS1vcHBvc2luZy1kZXBsb3ltZW50LW9mLWF1dG9ub21vdXMtdmVoaWNsZS1vcGVyYXRpb25zIzp+OnRleHQ9Tm8lMjBlbnRpdHklMjBzaGFsbCUyMG9wZXJhdGUlMjBDb21tZXJjaWFsLHRoZSUyMHByb3Zpc2lvbnMlMjBvZiUyMHRoaXMlMjBvcmRpbmFuY2U&email_id=f3a06c083d20a4afee923c5d0e15c7b5):
+Section 6. Human Safety Operator
+Any permit process must include the following requirements: (a) an Autonomous Vehicle operating in the City of Boston shall not transport passengers or goods unless a human safety operator is physically present in the vehicle and has the ability to monitor the performance of the vehicle and intervene if necessary, including but not limited to taking over immediate manual control of the vehicle or shutting off the vehicle; and (b) that Autonomous Vehicles and human safety operators must meet all applicable local, state and federal requirements.

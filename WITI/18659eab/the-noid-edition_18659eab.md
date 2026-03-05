@@ -1,0 +1,11 @@
+---
+subject: "The Noid Edition"
+from: "\"Why is this interesting?\" <whyisthisinteresting@substack.com>"
+to: ""
+date: 2023-02-16 11:04:56
+labels: ["CATEGORY_PERSONAL", "IMPORTANT", "INBOX", "WITI"]
+label_ids: ["CATEGORY_PERSONAL", "IMPORTANT", "INBOX", "Label_5752899537867939131"]
+---
+A classic from the archives today. Back tomorrow. -CJN Colin here. Mascots used to play a big role in advertising. The concept was simple: an engaging and highly memorable character that aligned with the values or spirit of the brand. Count Chocula and Of all the 80s mascots, the strangest might just be The Noid, a character created for Domino's Pizza in the 1980s. In what was a bit of a strategic stretch, he was a “manifestation of the difficulties in getting a pizza delivered in 30 minutes or less.” Clad in a red jumpsuit, the pizza-hating enemy used a variety of tools at his disposal—making them cold, smashing them, and generally doing whatever it took to render otherwise inedible—to ruin the fun. However far-fetched it seemed, the ads were wildly successful, and it spilled over into broader culture. There were also computer video game extensions for NES and even a proposed show on CBS. Why is this interesting? Fast forward to today. Over the past ten years, Domino’s advertising has been centered around how great it was at getting pizza to you. The Pizza Tracker pulled you behind the curtain into the logistics of your order, while Anyware added support for ordering across nearly any consumer device or app. Everything has centered around the technology, commerce, and operations that go into quickly getting you a piping hot pizza. Trouble is, logistics aren't particularly fun. So, in a not altogether unexpected turn of events, Dominos tried bringing back the Noid. Only this time, he was to foil the successful delivery of Domino's new autonomous vehicles. According to the
+It does beg the question: did advertising, particularly Domino’s, lose sight of the fun and memorability that makes great advertising? In addition to mascots, jingles are noticeably missing from most modern ad campaigns, despite still being stuck in the head of every 80s kid. It’s hard not to wonder whether, in an attempt to make every brand fit into the — Thanks for reading, Noah (NRB) & Colin (CJN) —
+|

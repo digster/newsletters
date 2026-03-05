@@ -1,0 +1,143 @@
+---
+subject: "6 Questions You Asked Yourself about Solar"
+from: "Tomas Pueyo from Uncharted Territories <unchartedterritories@substack.com>"
+to: ""
+date: 2024-11-02 17:26:34
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tomas Pueyo", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_28238133486362596", "UNREAD"]
+---
+|
+The second cohort of my communication course, [How to Become a World-Class Communicator](https://substack.com/redirect/257ae0f2-e9a6-4d17-b133-712fb4774a9c?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o), starts this coming Monday! Enroll here if you don’t want to miss it. I’m accepting the last few students now!
+I’m a bit late this week because I was at two conferences and I’m finishing the course preparation, but the weekly articles will be coming through this week and next.
+This is our current energy consumption, and a prediction for the future:
+From the article:
+According to the International Solar Energy Society, solar power is on track to generate more electricity than all the world’s nuclear power plants in 2026, than its wind turbines in 2027, than its dams in 2028, its gas-fired power plants in 2030 and its coal-fired ones in 2032.
+Here’s another projection from [another paper](https://substack.com/redirect/57bc0595-62b2-4be1-bb6a-d60f85a799c5?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o):
+This is, of course, because the installed capacity of solar is growing exponentially:
+And because our capacity grows exponentially, our production¹ grows even faster!
+And as we can see, the leading source of all this is China.
+The growth of solar power is one of the biggest stories of our times, and it’s fuelled by China. Westerners may have positive and negative views of the country, but an unabated positive is that China is single-handedly ushering the world into a clean future with plentiful, cheap energy.
+And, if anything, the projections above are probably too pessimistic! Because solar has consistently beaten expectations:
+We’ve made the opposite mistake with fossil fuels:
+The fundamental force behind all this is, of course, shrinking costs.
+One of the most important articles of this year in Uncharted Territories was [Can Solar Costs Keep Shrinking?](https://substack.com/redirect/f87fdf3f-c179-4935-8d95-8f44065d6500?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)² This was the key chart of the article:
+In the article, I claimed that solar costs can shrink by 8x in the coming decade, driven by a massive drop in the cost of the panels themselves, but also because panel cost reduction will put pressure on other costs like installation and infrastructure.
+There’s been some news on both since I wrote that article, so let’s look at it.
+A photovoltaic (PV) module now costs $0.40/watt in the US. But I already mentioned that this price could go down to $0.10-$0.12/watt overseas, and I forecasted that it could go as low as $0.05 within a decade. Maybe I was too pessimistic.
+[According to BNEF's 3Q 2024 Global Solar Market Report](https://substack.com/redirect/66c0d9bc-b3e3-465d-bcd1-8327858c4de9?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o), solar module prices have already fallen to a record low of $0.096/W. Also, global installations in 2024 will increase by 33% vs 2023, ensuring that prices will continue to shrink.
+If the annual drop in panel costs of 12% continues, within 10 years they’ll cost $0.02/W!
+[This tweet](https://substack.com/redirect/0c596494-ca69-4c1b-9faf-311228e981c7?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) suggests it’s now cheaper to fence your home with solar panels than a Home Depot fence:
+[Craig suggests](https://substack.com/redirect/b7d2dda8-6dd1-436c-80d7-cc2901256448?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) that they’re cheaper than many other building materials when sourced from the factory:
+And this stuff is durable! It’s tough! People haven’t caught up to this yet, but the moment they do, the demand will further increase and prices will shrink. This is the future:
+Another interesting trend to follow is perovskite, a material that, when used in the manufacture of solar cells, has been shown to increase their efficiency. Current PV panels transform about 20% of sunlight energy into electricity, but the Oxford University spinoff Oxford PV claims the PVs they’re now commercializing can go to 24.5%, meaning an improvement of about 20% in efficiency. [Researchers have claimed](https://substack.com/redirect/bcc213eb-a52e-4f6c-b78a-a52b71ee1df2?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) to have reached 28% by converting ultraviolet light into visible light to trap more of its energy. Others claim they have [reached 34% efficiency](https://substack.com/redirect/e457931a-3bd6-40d0-a079-15379e7982da?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o). Just achieving this efficiency commercially and producing it at the same cost as current panels would drop PV costs by 45%! There’s so much research on this that I think it’s very likely efficiency will keep growing, helping push prices down.
+People were worried that Balance of System costs (BoS, which include stuff like construction, cables, switches, infrastructure, and the like) were hard to bring down.
+But a follower [shared this insight on Twitter](https://substack.com/redirect/87b5fb3d-474c-4a8b-a71f-85705ac268c6?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o):
+When I did my solar PV PhD in 1993-96, "Balance of System" costs were said to be about 50% even then. So both PV modules AND BoS costs have dramatically reduced since then (& as you conclude, still have plenty of scope to keep reducing).
+So actually these costs have shrunk faster than those of PVs! Good news.
+Here’s a graph that gives us a sense of that. Between 2010 and 2023, the average cost of electricity from solar came down by 95%. But less than half of that drop came from the PVs themselves!
+Everything else shrunk in tandem.
+We’re good! This is a reality! Solar costs will continue to shrink! YESSSS!
+What makes it special? Why is solar going down so much faster than all other sources of energy? I recently went to a conference where somebody shared a chart like this one:
+According to this chart, very intuitively, things are cheaper if they’re simple to make and don’t need any customization, so can be mass-produced. Most energy sources fail at one or the other:
+Oil, gas, and coal power plants are complex things to make.
+Wind turbines, geothermal, biomass, and concentrating solar power are a bit simpler but still complex, and need some level of adaptation to the site.
+Even rooftop solar PV needs customization.
+Nuclear has the worst of both worlds. This is why the new trend is small modular reactors (SMRs): By being small you can build many, and move left on the customization axis. They will never be simple, but they can be standardized.
+But solar PVs for utilities are the exact same across the world, and they’re much simpler to make than any of the alternatives.
+This also explains why LED adoption goes much faster than building retrofits, for example. The former is highly standardized, while the latter is awfully bespoke. This is also why we can expect heat pump prices to continue falling.
+The problem with solar is that the grid is not structured to efficiently swallow this new energy, which will be remote, distributed, and dependent on the Sun that only shines during the day. Batteries today are too expensive to arbitrage this opportunity away³, so as we wait for their cost to plummet, there will be a huge advantage in adapting consumption to this new type of generation—that is, colocating demand with solar farms, and taking advantage of their day-time DC electricity. What types of uses are we likely to colocate?
+Of course, [we will produce natural gas](https://substack.com/redirect/396dbabd-aa5f-4e07-8917-74c567855c6b?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) for cheaper than it costs to dig it up, and that will likely happen without subsidies within a decade. This also means that the intermediary steps of fuel production will all be done with solar energy, including taking air in and separating its components, and splitting water to get H2.
+But what other uses can we find?
+AI will ingest unreal amounts of energy. It already consumes 2% of all global energy sales, and that will only increase.
+According to Bloomberg, this means demand is vastly outpacing supply.
+Companies are not twiddling their thumbs waiting for these solar panels to get connected to the grid. They’re securing their own energy, and so far that means nuclear, as we’ll see later.
+Nuclear is more expensive than solar, though. So why would they do that? Because data centers are very expensive to build—that’s why NVIDIA is the 2nd most valuable company in the world right now. Data centers would rather go for more reliable and continuous nuclear energy, even if it costs them more: Energy is nearly a rounding error for their data centers. To give you a sense: Although solar costs about [$44/MWh today](https://substack.com/redirect/3169d5d6-9e9d-4590-917c-0e934f4b64cd?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o), data centers are willing to pay $250/MWh to ensure a reliable source of energy.
+So data centers are unlikely to massively colocate with solar.
+Many of you were impressed by this chart from [The Future of Food from First Principles](https://substack.com/redirect/e97d38ac-e856-48f3-bee5-195504f3d3bb?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o):
+The yield gap is how much more food we could produce if we simply used the most advanced techniques for all production. In the case of tomatoes, we could 40x production. This is using the Netherlands as a reference, knowing they produce tomatoes in advanced greenhouses. These require lots of energy, so it might be beneficial to colocate them with solar farms, especially since energy is one of the biggest costs of these operations. But again, these are expensive facilities, and energy might need to be continuous (eg you want LEDs to light up the plants at night so they keep growing).
+These examples give us a sense of what type of industry would be best colocated with solar. Those where:
+Demand location is flexible. This eliminates most retail uses.
+Electricity is the biggest cost.
+The cost of building the facilities (CAPEX) is not too high.
+Here are some potential ideas:
+Desalination plants, if their CAPEX cost keeps shrinking.
+Water Pumping and Agricultural Irrigation: Use solar power for pumping water for irrigation or moving water to higher elevations for storage. Pumps consume significant electricity, but pumps and pipelines are relatively cheap. Pumping can be scheduled during solar peak hours.
+Processing of Agricultural Produce: operations like milling, pressing oils, or juice extraction.
+Cryptocurrency Mining
+Mining and Mineral Processing: Grinding minerals, grains, or other materials into finer particles. Milling machines consume lots of electricity, but equipment like ball mills have low CAPEX.
+Manufacturing of Construction Materials: production of materials like bricks, tiles, or prefabricated components using electric processes. Electric kilns and machinery consume a lot of power, but are not so expensive to build.
+Electric Resistance Heating for Industrial Processes: Using electric heaters for processes like curing, tempering, or drying materials.
+Manufacturing of Electrochemical Products: Production of chemicals like sodium hypochlorite (bleach) or hydrogen peroxide via electrolysis. Electricity drives the chemical reactions.
+One of the main concerns about solar energy will be how much land it requires—[300x more per unit of land than nuclear energy](https://substack.com/redirect/bb8e95a0-08ee-435b-9252-92383eefe970?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o). There’s no way we will want to cover a huge part of the world with solar panels. And since they’re black, they capture more heat from the Sun and could increase global warming by reducing the [albedo effect](https://substack.com/redirect/e6814202-4ebe-43b4-a196-703fd1d839a7?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o). So it’s important to know how much of the world’s surface we’re talking about. If solar would take 0.1% of the land surface, we’re good. If it needs 20%, we’re not.
+1% of the energy in Earth's sunlight is enough to 100x humanity's energy supply.
+Today, the average global GDP per capita is just below $20k. According to this graph, we could get it to over $2M per person and only use ~1% of the world’s surface. That’s over 100x, which could mean 10xing our population and 10xing our consumption per capita.
+[This article](https://substack.com/redirect/aa592a28-2632-41a4-9f5b-32cf4b57dbe0?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) found that we could cover all the US’s energy needs if we replaced all the cornfields grown for ethanol today with solar panels. It puts it into perspective.
+Is this true?
+I was tired of hearing different assessments from different people, so I just made my own.
+The average solar irradiation in the world is ~1,800 kWh per m2 per year. Here’s a map of its distribution:
+Let’s assume we can capture 20% of that today. That means we can generate on average 360 kWh of electricity for every m2 every year. That converts to 0.36 TWh/km2.year.
+What’s the consumption of energy today?⁴ About [82,000 TWh/year](https://substack.com/redirect/5a934c1d-0a84-45eb-b7c6-42f4aa1e86e9?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o).
+In other words, we need about 225,000 km2 of solar panels to cover all the energy consumption of today. That’s slightly less than the size of the UK, and would take approximately 0.16% of the total surface area of the world (141M km2).⁵
+Now let’s project into the future. Let’s assume we get our efficiency to 30%,⁶ but now we need 10x more energy. Now we need 1.5M km2, which is 1% of the world, and the size of Mongolia or Iran.
+Now imagine we also 10x the population (or we increase demand per person by 10x). Now we need 15% of the world’s landmass, approximately the same as the total amount of land dedicated to agriculture. There’s no way this will happen.
+What this means is that:
+We can replace all our energy needs with solar today
+We can probably do this in the foreseeable future too
+This won’t work if we’re extremely ambitious.
+But the world population is not going to 10x anytime soon, so for now my verdict is that: Yes, we can cover all our needs with solar!
+Solar is already the cheapest source of energy in many parts of the world—and wind is the cheapest in most others. But this will change in the coming years. Within three years, all the world except for the northernmost countries will find solar the cheapest source of energy:
+From [the paper](https://substack.com/redirect/57bc0595-62b2-4be1-bb6a-d60f85a799c5?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o):
+A global irreversible solar tipping point may have passed where solar energy gradually comes to dominate global electricity markets, without any further climate policies.
+But it takes time for the cheapest technology to win. What countries are likely to adopt solar the fastest? The countries where:
+There’s plenty of sunlight
+Plenty of cheap land
+No good, reliable grid
+Lots of oil is consumed to produce electricity that goes into devices that could be easily powered with DC electricity
+What places are like that?
+[The Financial Times](https://substack.com/redirect/94d961b8-a5bf-4c5e-8571-4502e896a834?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) has some fascinating reporting about what’s happening in Pakistan: It’s the world’s 3rd largest installer of solar! A quote from the article:
+Every bit of space I have, even if it’s a few feet, I want it covered in solar panels. It’s the only way we can beat our competitors. Allah has given us this gift to get out of this mess.
+Companies can save up to 70% on their electricity bills if they switch from the grid to solar!
+What’s happening? The government in Pakistan has reduced its energy subsidies, and the price of electricity from the grid has skyrocketed.
+The more prices go up, the more people buy solar.
+The more solar comes online, the lower demand is for electricity from the grid, and the more its prices go up because it has to pay for its infrastructure.
+Power consumption from the expensive grid fell by about 9% last year, as double-digit inflation shredded purchasing power and the climbing bills led people to turn to solar and other off-grid options.
+The lower demand is for grid electricity, the more prices go up to amortize existing facilities.
+Earlier this year, the ministry complained that “solarisation has grown too fast”, as a result of a policy to buy some excess solar power from households and industry at above-market prices.
+Good for Pakistan and good for the world!
+Another candidate is Africa.
+When I was in Uganda and Malawi, I saw diesel-powered generators everywhere. And these were not outliers:
+Solar panels are ideal to replace diesel generators: They’ll be cheaper, less contaminating, more reliable, won’t need constant oil supply, and most of their uses could eventually be replaced with DC current.
+The only problem today is that solar is not enough without batteries. That’s why it’s important that battery costs decrease.
+Texas is building more solar than the rest of the US combined.
+It’s also building more of the combination of wind, solar, and batteries than the rest of the US combined.
+Here’s a crazy fact: With all this building, Texas now [employs more people](https://substack.com/redirect/90fd686a-b48e-4e9a-bc70-f5fdab2c0ac7?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) in the renewables sector than in oil and gas!
+Like Africa, Texas has plenty of sunlight, land, and a grid that’s not connected to the rest of the US—which gives it instability but also regulatory independence—and dependence on oil. More importantly, it’s much more lax on regulation than other US states.
+For all their posturing, California, with its incentives and overregulation, is losing its climate change leadership to Texas, a hardcore capitalist state. Another blow to the [watermelons](https://substack.com/redirect/7cbacb18-7504-4740-8e35-443996f67f53?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)—green outside, red inside.
+The area in the world with the fastest uptake in renewable energy is LatAm!
+Yet another place with lots of sunlight, unreliable grid, cheap land, and costly fuels.
+Projections suggest we’re at the beginning of the
+[S-curve](https://substack.com/redirect/b2143f95-1a15-48a0-9a28-5d5633923063?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)for solar electricity. Its growth is peaking up and the 2020s through 2030s will see a brutal increase in their installed capacityThe cost of solar energy looks like it’s dropping according to plan. As a reminder, I think it will
+[shrink by 8x](https://substack.com/redirect/f87fdf3f-c179-4935-8d95-8f44065d6500?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)in the coming decade.Solar is super cheap because it’s simple to make and extremely standardized.
+Solar can’t be easily connected to the grid today, and that will offer massive opportunities to several industries, like fuel generation, greenhouses, water management, crypto, mining, some types of manufacturing, some industrial heat applications, cement production, and electrochemical production.
+We need to cover 0.16% of the Earth’s landmass to power the world today.
+Solar will grow first in places that push for it like Texas, and in others where the alternative is bad—usually because the grid is terrible. This means the Greater Middle East, Africa, and LatAm.
+In this week’s premium article, we will explore more energy and environment updates, including:
+Why wind power is bigger than solar today, but why solar will surpass it
+What is wind power’s overall potential
+What’s the latest on nuclear? Can it get cheaper? Whats its future role?
+How is Germany suffering following the closure of its nuclear power plants?
+How coal has disappeared from the UK
+The latest on Oceans, water pollution, and CO2
+1
+The integral of capacity, or the area under the curve.
+2
+[A similar article](https://substack.com/redirect/786da0ee-4d66-4e9c-85a1-59e2ed563121?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) appeared shortly after, specifically about the UK. The gist is that it’s the same: Solar costs will keep shrinking, which reinforces the idea that this is indeed a global phenomenon.
+3
+“Arbitrage an opportunity away” means taking advantage of an arbitrage opportunity so much that it disappears. Here, the arbitrage opportunity is that solar electricity costs nearly nothing at mid-day in some areas, but is expensive elsewhere. Installing batteries thus allows people to buy cheap electricity and sell it for much more money. This attracts other investors, who will install more and more batteries. So much so that the price of solar electricity starts growing, and the price in the evening shrinks. Eventually, these two prices are the same, and the opportunity has been “arbitraged away”.
+4
+I’m taking total energy consumed, which is only useful energy. I’m not taking primary energy, because that includes losses from fossil fuels, which would disappear in a world of solar electricity.
+5
+This doesn’t account for losses from things like electrical losses from using batteries or packing density. Accounting for them, it gets us to 300,000 km2 needed, or the size of Italy or the Philippines.
+6
+And no packing or battery losses.
+You're currently a free subscriber to [Uncharted Territories](https://substack.com/redirect/b08c14b6-09b1-4010-9cfb-d5c1346d9144?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o). For the full experience, [upgrade your subscription.](https://substack.com/redirect/2/eyJlIjoiaHR0cHM6Ly91bmNoYXJ0ZWR0ZXJyaXRvcmllcy50b21hc3B1ZXlvLmNvbS9zdWJzY3JpYmU_dXRtX3NvdXJjZT1wb3N0JnV0bV9jYW1wYWlnbj1lbWFpbC1jaGVja291dCZuZXh0PWh0dHBzJTNBJTJGJTJGdW5jaGFydGVkdGVycml0b3JpZXMudG9tYXNwdWV5by5jb20lMkZwJTJGNi1xdWVzdGlvbnMteW91LWFza2VkLXlvdXJzZWxmLWFib3V0JnI9OG81NG4mdG9rZW49ZXlKMWMyVnlYMmxrSWpveE5EVTJNek14T1N3aWFXRjBJam94TnpNd05UWTRORGczTENKbGVIQWlPakUzTXpNeE5qQTBPRGNzSW1semN5STZJbkIxWWkwek5EYzFNek1pTENKemRXSWlPaUpqYUdWamEyOTFkQ0o5LlhBOFNvYXJQUnhLT2pUVXFGbU9aa1Z3OGdBQXZJVGwzNWhKcFhjeDhDRVUiLCJwIjoxNTEwNzQ4MzIsInMiOjM0NzUzMywiZiI6dHJ1ZSwidSI6MTQ1NjMzMTksImlhdCI6MTczMDU2ODQ4NywiZXhwIjoxNzMzMTYwNDg3LCJpc3MiOiJwdWItMCIsInN1YiI6ImxpbmstcmVkaXJlY3QifQ.nZIgKH0lLt2Lh4wv5keUd0V0S60CLwQAZo7M4_epMfU?&utm_source=substack&utm_medium=email&utm_content=postcta)

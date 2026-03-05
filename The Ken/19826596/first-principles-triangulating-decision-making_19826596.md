@@ -1,0 +1,109 @@
+---
+subject: "First Principles: Triangulating decision making"
+from: "The Ken <info@the-ken.com>"
+to: ""
+date: 2025-07-20 05:40:50
+labels: ["CATEGORY_PERSONAL", "INBOX", "The Ken", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_8244464457792971031", "UNREAD"]
+---
+|
+|
+First Principles
+Sun, 20 Jul 25
+A community-powered Sunday newsletter on mental models, self-reflection, learning, growth, photos, books, and more.
+Good morning Ishan, have you consciously experienced sadness recently? I did, on Thursday.
+I was waiting for my ride back home at one of those Indiranagar road intersections that bisect traffic-choked “main roads” and relatively quieter “inside roads”. I spotted a young and curious puppy, brown and floppy-eared, pottering around between the parked cars. He was young, perhaps five–six weeks old.
+“Careful little guy!” was the first thought in my mind, as cars zipped past him every now and then.
+Then, as I turned around, I spotted what was most definitely his mother. She was trying to cross the road from a different side, looking towards him with big, anxious eyes. But she was also scared herself, as the cars and bikes kept going by. She was unable to find a gap in the constant flow. Her tail was tucked down. She was afraid both for herself, and for her pup.
+In that moment, I felt sadness like I hadn’t for a while. I wanted to help her cross the road, but she disappeared behind some cars.
+The entire ride home, I couldn’t get her fearful and anxious eyes out of my head. I couldn’t stop feeling sad for her and her utter helplessness. I couldn’t stop thinking about how she must have been feeling, how overwhelming and hopeless the world—our world—must appear to her. About how slim the chances of survival would be for her puppy, no matter how curious and playful he was right now.
+Gabru, our adopted family member, is a street rescue. Before we adopted him as a three-month-old puppy from [CUPA’s Second Chance](https://cupabangalore.org/second-chance-adoption-centre/) adoption centre, they’d found him on the streets. I do not know if his mother was still around when they took him. But I do know that he is by nature both trusting of his caretaker humans, and extremely wary of most others (mostly men). He is also quite aggressive towards other dogs, which I now recognise as fear-based aggression (also called “leash aggression”). Most people, including dog lovers and even dog parents, wrongly diagnose that as “alpha behaviour”.
+Part of Gabru’s fearful and wary nature might come from his mother and how she felt while she was [pregnant](https://www.aphis.usda.gov/sites/default/files/acaids_canine-maternalstress_ac-19-005_6.19_0.pdf) (PDF) and even after giving birth.
+[Bribo](https://the-ken.com/newsletter/first-principles/bribo/), Gabru’s brother from a different mother, only survived starvation in spite of being the runt of the litter because his mother, Svelty, wouldn’t give up.
+My feelings of intense sadness at the plight of the mother-puppy duo in Indiranagar have multiple origins.
+Towards the end of my trip (Bengaluru commutes have chapters), as I was almost over my sadness, the 1973 song Kiska Rasta Dekhe from the Dev Anand-starrer Joshila started playing. (Aside: the playlist I was listening to was Dev Anand Essentials. Is there any other classic Hindi actor with such a brilliant and diverse repertoire of songs?)
+And just like that, the sadness was back. This time, I closed my eyes and let myself sink into it. Its envelope even felt loving.
+After the song was over, I wondered why sadness is so hard to find in songs and movies these days. Back in the 1950s and 1960s (the golden age of Hindi film music, I’d argue), sadness was harnessed so often in both movie plots and songs.
+The technique is [pathos](https://dictionary.cambridge.org/dictionary/english/pathos).
+pathos
+noun
+the power of a person, situation, piece of writing, or work of art to cause feelings of sadness, especially because people feel sympathy.
+The [late singer Mohammad Rafi](https://mohdrafi.com/meri-awaaz-suno/mohammad-rafis-pathos-laden-songs.html) was even called “the king of pathos” for his ability to evoke sadness in us through music.
+The sad songs of Rafi Sahab had the irresistible appeal of the sentiment of love and tender pathos. The inimitable Mohammad Rafi dominated film music for over three decades. His deep husky voice resplendent in pathos is probably one of the radiant rays in the firmament of music. The heart-rending songs sung by Rafi Sahab touches the deepest chords of pathos expressing deep emotions used to bring tears in the eyes of the listeners and moreover the mellowness, sweetness and pathos in his voice set him apart from all the other singers.
+I came across this wonderful article on how Paul Giamatti is another “[king of pathos](https://lithub.com/paul-giamatti-this-ones-for-you-in-praise-of-the-king-of-pathos/)”. My first thoughts were, “Yes! Especially in The Holdovers!” And sure enough, the article talks a lot about Giamatti’s masterly performance in it.
+This has been a much longer than usual intro. So, I’ll end it by asking you to write to me about what you think of sadness and pathos. Please don’t use AI tools, because that would be sad.
+Also, I’m now building a Sadness/Pathos community playlist for FP. If you’d like to suggest songs, scroll down and click through.
+Here’s everything we have for you today:
+1. I changed my mind about products
+2. Triangulating decision making
+3. The Pathos Playlist 🎶
+4. Keep the surprises coming 📚
+5. Monsoon prints 📸
+[Pro tip: This email is a highly abbreviated version, since many email clients impose restrictions on the amount of material we can publish in a single email before intervention. In fact, it’s likely some email clients may even clip this truncated email.
+The best way to experience this edition is to [read it on our website](https://the-ken.com/newsletter/first-principles/triangulating-decision-making/), where all sections are featured in full and unabridged form.
+Also, if your default setting is to not show images within emails, please consider turning it off for this newsletter. Or else, you’ll miss many of the interesting images and photos we carry each Sunday.]
+That’s right. After Praveen Gopal Krishnan, my partner-in-crime at The Ken, suggested we do a live subscriber event around AI and Products, I started talking to people and reading up. As journalists, we call this “[pre-reporting](https://www.theopennotebook.com/2025/04/29/what-is-pre-reporting-and-do-you-really-need-to-do-it/)”—researching the viability and validity of a story before you actually dive into reporting and writing it.
+I was trying to either validate or invalidate (there’s nothing in between) a lot of my strongly held beliefs.
+Was it just a fad? Would vibe-coding spectacularly flame out or would it evolve rapidly? Did developers really need designers? Do designers need developers? And who even cares for product managers? Would experience and craft win, or ambition and speed? How would CEOs look at the Design, Product, and Engineering functions and their respective headcounts, metrics, and speed? Could a 20-year-old truly outcompete a 40-year-old?
+Suffice it to say, I did a 180-degree turn on a lot of my beliefs.
+If these are concepts around which you have strong beliefs too, then consider joining us this coming Saturday morning at 10 am for The Ken’s [next live event](https://the-ken.com/event/how-ai-is-breaking-and-remaking-the-way-products-are-built/?utm_source=fp&utm_medium=email&utm_campaign=bfo_product). Venue tickets are fast selling out, but hey, this time we’re also offering live streaming tickets!
+I am an opinionated person. Which means, I often hold strong opinions on many aspects—personal, professional, societal, cultural, etc. I would like to believe that my opinions have been formed as a result of experiences and information gathering.
+My colleagues know this, because I let them know. I’m vocal and passionate whenever there’s an argument or discussion on a topic I have a strong opinion on, be it paywall designs, AI use, career collapse, video podcasts, “overtourism”, crypto, or Big Tech.
+But every now and then, I surprise them, after having surprised myself a brief while earlier. I change my strongly held opinions virtually 180 degrees.
+Usually, this is the way it works. I dismiss the first few people who try to convince me otherwise. I listen to their points, of course, and even explain and argue my own counterpoints. But broadly, I ignore them.
+The second time people challenge my opinions on the same topic, I perk up and notice. “Hmm, that’s interesting,” is the thought that goes through my head, almost subconsciously. While I still argue my points passionately, I’m in a slightly explorative and learning mode. I try to unearth newer evidence or arguments being made by others, relative to the first time.
+The third time this happens, I am actively ready to challenge my own beliefs.
+“Could I be wrong about this?”
+“Am I so rigid and inflexible on this belief that it’s stopping me from being objective?”
+“Three different sets of people. Three independent discussions. It’s time to reconsider your opinions, Rohin.”
+Triangulation—getting at least three different perspectives—is one of my favourite mental models around decision making. The key word there is “perspectives”.
+Nothing we observe or interact with is an absolute reality. Instead, each one is merely a unique perspective. Just because they’re ours doesn’t make them inherently better.
+Perhaps the best way to understand that while also watching one of the all-time movie classics is to watch Akira Kurosawa’s 1950 movie, [Rashomon](https://en.wikipedia.org/wiki/Rashomon). It birthed the concept of “[Rashomon Effect](https://en.wikipedia.org/wiki/Rashomon_effect)”, where multiple perspectives seem to offer multiple truths.
+Suffice it to say, we’re always observing the world through some filters or lens. Thus, our opinions are shaped by those very same filters and lenses.
+Perspective switching is, thus, a key skill if you want to assemble a truer image of the world. We covered the concept [in December last year](https://the-ken.com/newsletter/first-principles/dance-floors-and-balconies).
+[Triangulation](https://www.betterevaluation.org/methods-approaches/methods/triangulation) goes one step further. It imposes a discipline or requirement on you to do that at least thrice when you need to make important decisions.
+Triangulation is all around us.
+The modern internet and e-commerce engine runs on the GPS system, which [uses three satellites to triangulate our position](https://antarctic-logistics.com/2019/08/12/roger-easton-the-advent-of-gps/) in three-dimensional space anywhere in the world (technically a fourth satellite is used to synchronize the time and accuracy better).
+[Product designers](https://www.nngroup.com/articles/triangulation-better-research-results-using-multiple-ux-methods/) triangulate their approaches from multiple user perspectives.
+You’ll find business leaders “triangulating” their strategy to balance, say, profits, growth, and innovation. Or different stakeholders, like customers, employees, and investors.
+You’ll find yourself “triangulating” your attempts to understand a controversial and evolving news story (for example, the tragic AI 171 crash) by seeking multiple independent news sources.
+“Triangulation” is also why journalism organisations, including The Ken, consider three sources the golden standard when verifying previously unreported facts in major stories.
+You can apply the rules of triangulation in virtually unlimited ways. For instance, triangulate your past beliefs and present behaviour against future outcomes. When trying to form a mental model around something complex, test your hypothesis against three different theories. Does it hold up?
+I’ll end with the Chinese proverb that perhaps best encapsulates triangulation.
+“There are three truths: my truth, your truth, and the truth.”
+Which truth aren’t you seeing?
+Is there a pathos or sadness-infused song you would like to recommend for the FP Community Playlist?
+Let us know here: [https://theken.typeform.com/to/kAjl6IXd](https://theken.typeform.com/to/kAjl6IXd)
+Hello, Ishan. It’s Hari here with your weekly book recommendations from the community. It’s been a not-so-great week for me when it comes to reading; I haven’t managed to get much done.
+But I do have two wonderful recommendations for you that I’ve been exploring on Goodreads since 1:00 pm this Saturday. If you think a book is truly unique, and that our community would appreciate it, do go ahead and recommend it to us using [this link](https://theken.typeform.com/FPBooks?typeform-source=the-ken.com).
+Here are our two recommendations for this week:
+1. [The Wheel of Life](https://www.goodreads.com/book/show/33938.The_Wheel_of_Life?ref=nav_sb_ss_1_17) by Elisabeth Kubler-Ross
+“This is Kubler-Ross’ memoir, talking of living her life large, on her own terms, yet deeply committed to others, teaching them how to cope with death and dying.”
+—Lakshmi Raman
+*****
+2. [Midnight in Chernobyl](https://www.goodreads.com/book/show/40538681-midnight-in-chernobyl?from_search=true&from_srp=true&qid=rzl1xJiWpI&rank=1) by Adam Higginbotham
+“I only recently watched Chernobyl (very late, I know :)), and this book was a recommendation I found while browsing Reddit threads. A gripping tale on the politics, funds, and logistics that led to the incident, especially relevant now that the powers are considering nuclear energy as an option to produce energy required for AI processing. It also makes one wonder, now that we’re inundated with so many sources of information, how people in that time period had to struggle with a lack of it. People say that with the advent of social media, ignorance is bliss, but is it really?”
+—Sneha Mathews
+Hello Ishan, welcome to another edition of First Principles Silent Sunday. It’s Jonathan here as usual.
+This week’s photo album is all about the monsoon. You no doubt noticed our calls for picture submissions over the past two weeks, and well, our community of intrepid photographers have come through like they always do—from brimming waterfalls to wet, glowing cities to overcast skies hiding the sun. (If you’d like to submit your own pictures for the Silent Sunday photo section, [you can send them to us here](https://theken.typeform.com/fpsilentsundays).)
+Let’s kick things off with a couple of lovely pictures from Nupur Agrawal.
+“A beautiful rainy morning landscape visible from the glass door of my train from Jaipur to Delhi.”
+| Vande Bharat Express (Nupur Agrawal) |
+“It was a crazy rainy night and we were stuck at the mall. That’s when I looked up and saw how picturesque the roof looked from the elevator.”
+| 1 MG Mall, Bengaluru (Nupur Agrawal) |
+*****
+From Seema Padman:
+| My garden in Bengaluru (Seema Padman) |
+*****
+From Abheet Sachdeva, of a rain-drenched Delhi:
+| Delhi (Abheet Sachdeva) |
+| Garaj Baras, Delhi (Abheet Sachdeva) |
+*****
+From Kumaresh K R:
+| Kalu Waterfall (Kumaresh K R) |
+| Somewhere in rural Karjat near the Ulhas River (Kumaresh K R) |
+| Bhivpuri Falls (Kumaresh K R) |
+That’s a wrap for this week. Before you go, if you know someone who might like this newsletter, forward us to them!
+Please write to fp@the-ken.com if there’s anything you’d like to share with us. Or leave a comment on our on-site edition. See you next Sunday!
+Regards,
+Rohin Dharmakumar

@@ -1,0 +1,31 @@
+---
+subject: "Learn how to use math to simplify your code [Free 1-hour JavaScript course]"
+from: "Quincy Larson <quincy@freecodecamp.org>"
+to: ""
+date: 2024-12-13 12:30:50
+labels: ["CATEGORY_PERSONAL", "IMPORTANT", "INBOX", "Quincy"]
+label_ids: ["CATEGORY_PERSONAL", "IMPORTANT", "INBOX", "Label_7697778124671848699"]
+---
+Here are this week's five freeCodeCamp resources that are worth your time:
+
+1. freeCodeCamp just published a course by computer science professor Dr. Radu. It will teach you how to use math to simplify your code. You can code along at home and build a musical polyrhythm app that procedurally generates sounds and visualizes them using JavaScript. You’ll learn how to structure your code for readability and maintainability – all while seeing how math underpins these concepts. (1 hour YouTube course): https://www.freecodecamp.org/news/learn-how-math-can-make-your-code-better-by-coding-polyrhythms/
+
+2. Elasticsearch is a powerful open source tool that tons of apps use for their search bars. freeCodeCamp just published a course that will show you how you can deploy your own real-world search engine that you can incorporate into your apps. You'll learn about Index Management, Tokenization, Embedding, Ingest Processors, Data Pipelines, Aggregations, and more. (5 hour YouTube course): https://www.freecodecamp.org/news/learn-elasticsearch-with-a-comprehensive-beginner-friendly-course/
+
+3. On this week's episode of the freeCodeCamp podcast, I interview Scott Tolinski. He's the host of the world's most popular web developer podcast, Syntax FM. We talk about how 12 years ago he sustained a serious head injury while breakdancing that sidelined him for 9 months. But he made good use of this downtime and slowly built a programming tutorial empire. He shares insights from his career of working for tiny agencies, giant companies, and everything in between. He also shares some productivity tips that have helped keep him from burning out over the decades. (2 hour watch or listen in your favorite podcast app): https://www.freecodecamp.org/news/scott-tolinski-syntax-podcast-interview/
+
+4. freeCodeCamp also published this CI/CD Handbook. CI/CD stands for Continuous Integration and Continuous Delivery. It's an important process in software development, and this handbook will teach you how it works. You'll learn about Docker, GitHub Actions, Branch Management, and a ton of cloud deployment concepts. (90 minute read): https://www.freecodecamp.org/news/learn-continuous-integration-delivery-and-deployment/
+
+5. R is a popular statistical programming language, and it has its own web development framework called Shiny. This tutorial will show you how to build your own weather data dashboard app using R Shiny. You'll start by setting up the project. Then you'll get keys for your data API, and wire them into your dashboard. Along the way, you'll learn about Geocoding, Error Handling, Reactivity, and more. (30 minute read): https://www.freecodecamp.org/news/how-to-build-a-weather-app-with-r-shiny/
+
+The freeCodeCamp community is working hard to put the finishing touches on a ton of curriculum updates. We'll publish these in time for Christmas. Look for an announcement next week. If you want to help out, I encourage you to join the 11,041 kind folks who support our charity's mission each month: https://www.freecodecamp.org/donate
+
+Quote of the Week: “People who discover the power and beauty of high-level, abstract ideas often make the mistake of believing that concrete ideas at lower levels are worthless and might as well be forgotten. On the contrary, the best computer scientists are thoroughly grounded in basic concepts of how computers actually work. The essence of computer science is an ability to understand many levels of abstraction simultaneously.” — Donald Knuth, programmer and mathematician
+
+Until next week, happy coding.
+
+-- Quincy Larson
+
+Teacher and founder of freeCodeCamp.org
+
+If these aren't worth your time, you can turn them off: https://www.freecodecamp.org/ue/eZV2T3gHC7IGcwcpYPG64

@@ -1,0 +1,11 @@
+---
+subject: "*How to be a Public Ambassador for Science*"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2025-08-30 14:45:36
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+The subtitle is [The Scientist as Public Intellectual](http://marginalrevolution.com?action=user_content_redirect&uuid=0ff96a3ba6a7002a81a49554a208908413c3067ac1e932665f2611e6174dc4aa&blog_id=42693868&post_id=91402&user_id=262258391&subs_id=225460721&signature=35f01f9fbbf4b194aade14116ffc3d3e&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9Ib3ctQW1iYXNzYWRvci1TY2llbmNlLVNjaWVudGlzdC1JbnRlbGxlY3R1YWwvZHAvMTAzNTM0ODUzNS9yZWY9c3JfMV8xP2NyaWQ9MVo2SkdIRktaNVg1TyZkaWI9ZXlKMklqb2lNU0o5LlhEbTBjWTVMUGN3VVYwOVExc21SREEucUxSWjVrQ1pBLTZCNVVSblhXYjlhVTJBbThZR2JhOXdsaEx4aXZQUWh0TSZkaWJfdGFnPXNlJmtleXdvcmRzPUhvdyt0bytiZSthK3B1YmxpYythbWJhc3NhZG9yK2ZvcitzY2llbmNlJnFpZD0xNzU2NDk3MzY0JnNwcmVmaXg9aG93K3RvK2JlK2ErcHVibGljK2FtYmFzc2Fkb3IrZm9yK3NjaWVuY2UlMkNhcHMlMkM5NCZzcj04LTE&email_id=b3f7d4792212b5f7044fa2187b84210a), and the author is my very good friend Jim Olds, who works at George Mason University. A very timely topic, here is one excerpt:
+I was only about eight weeks into my new job. I'd been sworn in and found myself very much thrown into the pool's deep end. First, the job was much more than serving as the National Science Foundation's (NSF) lead for President Obama's Brain Research through Advancing Innovative Neurotechnologies (BRAIN) project. Second, the learning curve was very steep. There were meetings full of acronyms that meant nothing to me. And these were my meetings -- with my direct reports. I had learned the hard way that the Eisenhower Conference Center in the White House complex was made of steel and acted like a Faraday cage: cell phones didn't work there. Tuesdays started with breakfast at 7:30 a.m. and went straight through for 12 hours with meeting after meeting.
+Recommended, most of all informative about the NSF and also neuroscience.

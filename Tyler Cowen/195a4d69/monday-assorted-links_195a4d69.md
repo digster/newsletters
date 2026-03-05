@@ -1,0 +1,13 @@
+---
+subject: "Monday assorted links"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2025-03-17 16:01:19
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+1. [Does generative AI support the MAGA aesthetic style?](http://marginalrevolution.com?action=user_content_redirect&uuid=f6fec8829cbacfed252d411d70787d32fa4b9003357869626faacfc547f11ec1&blog_id=42693868&post_id=90262&user_id=262258391&subs_id=225460721&signature=6f570ede13688b1fc57555a2349a9a2f&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly93d3cubnl0aW1lcy5jb20vMjAyNS8wMy8xMy9tYWdhemluZS9nZW5lcmF0aXZlLWFpLW1hZ2Etc3R5bGUuaHRtbA=&email_id=92449d43f93d0f2921c2ae759a346a80) (NYT)
+2. [Would you rather have married young?](http://marginalrevolution.com?action=user_content_redirect&uuid=23ee6b7687e96f64c0d6b852e7c6fc2f25494f482146c03baaae926d02e2ddfa&blog_id=42693868&post_id=90262&user_id=262258391&subs_id=225460721&signature=09ea6e4b643ccadca3ad773ea2e419a5&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly93d3cubWV0cm9wb2xpdGFucmV2aWV3Lm9yZy9wL3dvdWxkLXlvdS1yYXRoZXItaGF2ZS1tYXJyaWVkLXlvdW5nP3RyaWVkUmVkaXJlY3Q9dHJ1ZQ=&email_id=92449d43f93d0f2921c2ae759a346a80)
+3. [Possible improvements in teen mental health?](http://marginalrevolution.com?action=user_content_redirect&uuid=64988cbc5fa62a7d21cb0c68ba81a49d0e444b8458f225bd31fb6c493c3b98a4&blog_id=42693868&post_id=90262&user_id=262258391&subs_id=225460721&signature=3b136617b00b775cb511ff8a446a65e6&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly94LmNvbS9TdGVmYW5GU2NodWJlcnQvc3RhdHVzLzE5MDEyMDE3MzczNzA3NTUyMzM&email_id=92449d43f93d0f2921c2ae759a346a80)
+4. [LLMs produce funnier memes than the average human, though not as funny as the top humans](http://marginalrevolution.com?action=user_content_redirect&uuid=db24284e524cee521fade8d2948dd6ea0e838d7a237243c76ebce32b979a308a&blog_id=42693868&post_id=90262&user_id=262258391&subs_id=225460721&signature=f7acbd61b824862ca56bf04230599d3d&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly94LmNvbS9lbW9sbGljay9zdGF0dXMvMTkwMTQzMTY4MTI3OTQ3NTgwOA=&email_id=92449d43f93d0f2921c2ae759a346a80).
+5. On Becoming a Guinea Fowl is another good Zambian movie, here is [the trailer](http://marginalrevolution.com?action=user_content_redirect&uuid=addabb0151ef97565c44306646365dc78f82db6297f33d9fe9e66969e2db43c4&blog_id=42693868&post_id=90262&user_id=262258391&subs_id=225460721&signature=c9d3ea5a87a7a1007d28bda4444086f6&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g/dj1QNUJXVExaallSMA=&email_id=92449d43f93d0f2921c2ae759a346a80).

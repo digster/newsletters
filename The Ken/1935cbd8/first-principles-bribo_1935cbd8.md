@@ -1,0 +1,86 @@
+---
+subject: "First Principles: Bribo"
+from: "The Ken <info@the-ken.com>"
+to: ""
+date: 2024-11-24 05:55:44
+labels: ["CATEGORY_PERSONAL", "INBOX", "The Ken", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_8244464457792971031", "UNREAD"]
+---
+|
+|
+First Principles
+Sun, 24 Nov 24
+Mental models, leadership, books, photos, music, and more—your weekly Sunday newsletter from The Ken
+Good Morning Ishan,
+As many of you know, I’ve been feeding the mother-son streetie dog duo of Svelty and Bribo since the beginning of the year. Meeting and feeding them every night fast became one of the things that gave me an indescribable sense of satisfaction and happiness. I experimented with the foods I gave them, before eventually settling on a mix of toasted bread, egg yellows, and different types of wet foods from Kennel Kitchen. I’d rotate multivitamin tablets and oil supplements in their foods every other day, hoping to somehow provide them with enough nutrients in that one meal to compensate for their foraging diet during the rest of the day.
+The two got used to me too, and would be waiting near the same spot next to a neighbouring undeveloped plot of land—overrun with bushes, weeds, creepers, and trees—every evening between 7.30–8.30 p.m.
+The days they weren’t there, I’d whistle to them in the same tone, which over time they recognised to be me. They’d then come bounding out of the dark bushes, tails wagging, ears pulled back. They would sniff their respective bowls, then sniff the other to check if I had perhaps given the other one something tastier or better?
+When Bribo was much younger and weaker, he’d polish off his bowl and eat from his mama’s, while she’d step back and let him. He was really weak and bony when I found him, so his mama was happy to let him have her share too.
+But over time he grew bigger and healthier, and his mama became pregnant again and gave birth to a bunch of puppies. So, she lost weight as she was feeding her puppies. Naturally, she became hungrier too.
+So, the dynamic between the two reversed. Svelty would polish off her plate and then move to Bribo’s, and he’d step back.
+Not once have I ever seen either of them growl at each other.
+I saw Bribo last Friday morning. He and Svelty were playing with a few kids right outside our community as I was walking Gabru.
+That evening, though, only Svelty was there for dinner. I was mildly worried, because Bribo rarely missed his dinners.
+He wasn’t there the next night too. And that’s when I started worrying. The next day I started asking the dogwalkers in the area if they’d seen him. They cover a wider area and I thought they might have spotted him somewhere else if he’d gotten lost or injured in a fight.
+They hadn’t.
+I went into the forest-like plot where he and Svelty hung about, calling out to him, whistling. There was no response. Svelty followed me, darting from bushes to bushes, purposely. Was she trying to take me to Bribo? I followed her, till the undergrowth was too thick. My heart sank, and my hope started dwindling.
+Bribo wasn’t there the third night too. That’s when I started telling myself that something bad had happened to him. A bad fight with another dog, or an accident.
+The next morning, I saw one of the caretakers of the empty plot, a young man. Had he seen the male dog that accompanied the female one?
+“Yes. He got into a bad accident a few days ago. He’s somewhere in those bushes.”
+He helped me break through a dense thicket of bushes taller than us and led us through the clearing. And there was Bribo.
+Some maniac in a car had driven over his rear leg three nights ago. One of his rear paws was broken in half and badly swollen. He kept trying to lick it instinctively.
+The inside thigh of his other leg was badly hurt too, with lots of flesh torn off. The caretaker had wrapped his leg in some cloth to prevent it from getting attacked by flies. He had also applied some turmeric on the wounds.
+That evening, he also helped me lift Bribo into my car so I could take him to a hospital. I realised that finding a pet ambulance on short notice is next to impossible in Bengaluru—24–48 hour timelines are standard, given how much they’re already booked for.
+The 45-minute ride to Cartman Hospital was an experience I will not forget. I sat in the backseat with Bribo, who was completely trusting of me despite his unbearable pain and it being his first time inside a car. I had to hold his collar to prevent him from licking his wounds.
+Even though he broke off the muzzle I’d put on him (I was sure he’d try to bite anyone trying to move him around, because of the pain), he never once so much as even nipped at me. In many ways, his trust in me broke me.
+The young chap that he is, he was also curious. Sitting up on his injured rear legs to glance outside at the passing traffic, buildings, and even the occasional dog.
+The doctor and attendants at Cartman helped X-ray Bribo’s feet before giving him an intravenous shot of antibiotics and thoroughly dressing and bandaging his legs.
+Here is the trooper, as I was leaving him for the night. The hospital has an attached boarding kennel. The doctor explained that the severity of the injury to Bribo’s paws and the delay of three days since the accident had both contributed to an infection that had already set in. They intend to treat him through antibiotics and daily changes of dressings for a week or two before deciding what options we have for his paw. Our interim hope is that healthy blood supply returns to his paw, so amputation doesn’t have to become an option.
+I went and met Bribo again on Thursday as his bandages were being changed. He howled his guts out because of the pain, but was happy to see me. His eyes spoke to me as I calmed him during his bandage change.
+He thanks the First Principles community for their love and concern and hopes to be back on his four feet very soon.
+On that note, we at First Principles would like to declare our love for all indies, whether dogs or cats, pets or streeties. Please send us photos of your favourite indies. We hope enough of you will send us photos on a regular basis that it becomes a permanent section in our Sunday photo albums. You can send them to us [using this link](https://theken.typeform.com/fpindies).
+We also hope to highlight resources to help indie and streetie lovers in the FP community care for our little pals better, so do write to [fp@the-ken.com](mailto:fp@the-ken.com) and share them with us.
+That came out from deep within, and also longer than I’d anticipated. As a result—and also partly because I’m down with a small cold—we’re not carrying our regular “main” section. Instead, we have Silent Sunday, Books, and a call to compile a First Principles Christmas and New Year playlist.
+1. In your own lifetime 📚
+2. Soul Catchers 📸
+3. First Principles Carols 🎶
+[Pro tip: This email is a highly abbreviated version, since many email clients impose restrictions on the amount of material we can publish in a single email before intervention. In fact, it’s likely some email clients may even clip this truncated email.
+The best way to experience this edition is to read it on our website, where all sections are featured in full and unabridged form.
+Also, if your default setting is to not show images within emails, please consider turning it off for this newsletter. Or else, you’ll miss many of the interesting images and photos we carry each Sunday.]
+Hello, dear readers. This is Hari, back with more book recommendations from your fellow community members. If you haven’t had a chance to check out the amazing [gifting guide](https://the-ken.com/newsletter/first-principles/the-kens-2024-gifting-guide/) we published last week, do take a look and see if you can find a special gift for someone special, or even for yourself. I sure did.
+I’m not all that big on biographies, but this one in particular made quite an impression on me. Actually, if you turn all the way to the writer’s bio, it says this book is a ‘bio-history’.
+That sounds a bit odd, sure, but I told myself that it probably meant a biography of a person rooted heavily in historical context. That kind of made sense. Until I turned to the back and found ‘Fiction’ written on it.
+Right.
+The book I’m talking about is Irving Stone’s [Lust for Life](https://www.goodreads.com/book/show/79834.Lust_for_Life), and it is a novel based on the life of Vincent Van Gogh. And like most TV/movie studio products these days, it’s one of those ‘biopics’ that take an amazing historical story and take a few creative liberties with it.
+It might annoy fans of proper biographies, but in my eyes, it is a wonderfully realised book.
+In my view, its biggest draw is not the personal turmoil, poverty, or mental illness that Van Gogh suffered through his lifetime, but the misery of not being recognised for his prodigious talents. In many ways, Van Gogh became Van Gogh long after his passing. I don’t know how to feel about it, but the only question I want an answer to is whether Van Gogh saw and appreciated the beauty in his own creations. Because sometimes that matters more.
+So are there any interesting biographies or autobiographies that you think went above and beyond your expectations? You can tell us about such books [here](https://theken.typeform.com/FPBooks).
+As for this week’s community recommendations, it appears that David Foster Wallace is back in the mix. [Last time around](https://the-ken.com/newsletter/first-principles/the-first-principles-gifting-survey/), I asked you for books you had left behind or abandoned without finishing, but now thought were worth picking up again. And we got some really interesting entries.
+Please switch over to our website version to see what our recommenders have to say about them.
+1. Skin in the Game by Nicholas Nassim Taleb—from Roshni Somani
+2. Zen and the Art of Motorcycle Maintenance by Robert M. Pirsig—from Venkat KR
+3. Gödel, Escher, Bach: An Eternal Golden Braid by Douglas R. Hofstadter—from Pratham Varshney
+4. The Pale King by David Foster Wallace—from Amar Chandramohan
+Hello, Ishan, welcome to another edition of First Principles Silent Sunday. It’s Jonathan here as always.
+Do you think places have souls?
+I know that’s quite an ‘out-there’ kind of question, but for what it’s worth, I think they do.
+There’s something about places—a confluence of the landscape, fauna, flora, people, structures—that is unique to each of them. And one of the greatest challenges of photography is capturing that complex kaleidoscope on screen. After all, even with the widest of lens angles, you can’t fit everything into your frame. Nor should you want to.
+And I’ll be upfront, there is no single method you can apply that will give you instant results. Instead, you will have to perfect the art through practice. But one thing you absolutely have to remember is: what is it that you want to capture? What is the soul of the place?
+Let me [quote](https://medium.com/vantage/how-to-capture-the-soul-of-a-place-in-photos-4f073d2aced6) travel photojournalist and Tiny Atlas Quarterly creator Emily Nathan:
+“I had this photo teacher—who I actually didn’t like at the time—give me what I later realized was the best advice I ever got: When you’re taking a photo, you need to know what you’re taking a photo of. This is especially true for landscapes. And this is a question that most people can’t answer. Ask somebody who just snapped a shot of the Eiffel Tower, and they’d say: ‘The Eiffel Tower!’ But what is it about the Eiffel Tower? The light across it? The people with their backs to you looking up at it? In this shot, I’m not showing you everything—I’m focused in on the way the light hits the brilliant green on this portion of the old ruin.”
+I think some of our community photo contributions this week do a great job of this. Like this beauty from Neha Sharma, of Patwa Haveli, Jaisalmer:
+| Patwa Haveli, Jaisalmer (Neha Sharma) |
+And this one from Lohit Agarwal, of the London Eye, London:
+| London Eye, United Kingdom (Lohit Agarwal) |
+If you’d like to send us your own Silent Sunday photos for publication, please do so [using this link](https://theken.typeform.com/FPSilentSundays).
+And here are all our other photo contributions for the week. Do switch over to our onsite edition to see their full-size, uncropped versions.
+The season of merriment is almost here, and we could all use a playlist to accompany it. So please help us make one. 🙂
+We fully expect to see the usual contenders, and they will definitely make the list, but the real winners are the songs that are really special and mean something to you. So please go ahead and set the mood for this Christmas and New Year using [this link here](https://theken.typeform.com/to/YKr8X367)!
+Two by Two has been around for just about five months, and in that time, we’ve made sure we bring you a new episode without fail every Thursday, discussing the most important business stories from India. Over the course of 18 episodes, we’ve invited top executives from listed companies, including the CEO of the company we’re discussing oftentimes, to present their own perspectives on the matter at hand. We’ve also invited subject-matter experts and professors from the country’s top B-schools.
+When we began, we promised that Two by Two would be your own personal investigative brain, and always we have, and will, keep trying to deliver on that promise.
+In our latest episode, my co-host Praveen Gopal Krishnan and I decided to examine the serious new challenges that have emerged for supermarket chain Dmart. Something that was once hard to imagine because no retail business—online or offline—could compete with Dmart’s steep discounts. Or the fact that despite them, its profit margins consistently beat its competitors’.
+You can use The Ken’s app to [listen to the episode](https://the-ken.com/podcasts/two-by-two/dmart-versus-the-challengers-at-the-gate/) if you are subscribed to our Premium plan, or listen to it on [Apple Podcasts](https://podcasts.apple.com/in/podcast/18-dmart-versus-the-challengers-at-the-gate/id1757938645?i=1000677697888) via a standalone subscription.
+That’s a wrap for this week. Before you go, if you know someone who might like this newsletter, forward us to them!
+Please write to [fp@the-ken.com](mailto:fp@the-ken.com) if there’s anything you’d like to share with us. Or leave a comment on our on-site edition. See you next Sunday!
+Regards,
+Rohin Dharmakumar

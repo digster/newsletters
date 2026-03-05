@@ -1,0 +1,90 @@
+View this post on the web at https://threads.championswimmer.in/p/the-no-nonsense-process-of-getting
+
+Forget the typical “roadmaps” and other drivel the “get into tech” cottage industry on YouTube by a bunch of FAANG SDE1s has generated. 
+If you want to be an SDE2/SDE3 at a typical growth stage product engineering team (eg: Zepto, Upstox, Purplle, LivSpace) would love to get, here’s a few well articulated little assignments that’s gonna get you right there in the sweet spot of “highly desirable growth stage engineer” zone
+The main pillars are
+- structuring code neatly
+- strong concurrency fundamentals
+- can model non-trivial db schema 
+- utils 😜 
+Read on to know what these are…. 
+Thanks for reading my newsletter. If you want to get them regularly in your inbox, please subscribe
+Structuring Code Neatly 
+Rather than mugging up a bunch of theory about 99 types of design patterns and do a bunch of “LLD Courses” it is better to start off with tightly scoped little command line programs, play with the code, implement the same thing 2-3 times and start seeing the mess in your code and looking at ways it can be more “neatly” arranged so you don’t write the same lines multiple times and extending/changing the logic becomes “easy”. 
+Here are some examples - 
+- parsing URLs into scheme, host, port, path,query etc (read the RFC that defines the URL standards) 
+- create a command line tic-tac-toe game, then try to write the “bot” that can play against a human 
+- create a command line “PC builder” - you need to provide a motherboard, CPU, GPU, RAM, HDD to build, CPU & mobo socket must match, RAM & CPU speed must match etc 
+build them twice, or even better, thrice (each time starting from scratch) 
+Makes you understand how rewrites happen
+Gives you perspective when building again that you can pre-empt some issues you ran into first time 
+Once you’ve done this, then parallelly reading up a bit of theory doesn’t hurt. Knowing the formal names of Builder pattern or using a visitor class is good. But first write some shitty code, then rewrite it, get to realise why it was shitty first, then learn all these design pattern “labels”
+Strong Concurrency Fundamentals
+The most common pitfall is that many people understand one basic principle “two pieces of code are parallely being executed in two different cores of the CPU” but beyond that get too entangled in the semantics of whatever language they are using and make a mental model deeply tied up in “suspend” or “waitgroup” or “event loop” 
+The more you try to “clear a concurrency interview” the poorer your understanding of concurrency will be. (You might clear a few interviews this way, if your interviewer is an idiot who asks theoretical crap from GFG/JavaTpt)
+Go do some real-world stuff instead. 
+- make 3 files with randomized integers (new line separated) in them. Write a program to read it all, sort the combined set of numbers and print into a fourth file. Try to do it asynchronously without blocking the main thread. Try to read the 3 files parallelly (why read them one by one when you can read them parallelly?) 
+- flip the question, now the 3 files have pre-sorted numbers. We need to combine into 4th file. Try to do it in a streaming way (so you don’t have to read the whole contents of any file into memory in one go ever) and write in a stream too. 
+- create a flat file db. Basic csv format. Implement read/write locks. Multiple reads allowed. But if anyone is writing then read and writes are blocked 
+Once you are knee-deep into implementing this (it’ll involve multiple rounds of Googling/scrounging StackOverflow) then try to understand what the semantics of your language do. 
+I’ll recommend doing these exercises with at least 2 languages out of Go, JS/TS and Java/Kotlin 
+Will give more idea about how fundamentally the same concurrency model can be achieved using different tools like threads or coroutines or event loops
+Modelling non-trivial DB Schemas
+Let’s see a few data models which are not overly complex, has only 3-4 entities, but still not trivial to implement properly 
+1. Basic E-commerce 
+Users (can be customers or sellers)
+Products (belong by sellers) 
+Carts (belongs to users can have multiple products)
+Orders (when you checkout a cart) 
+2. Task+Notes 
+Users 
+Tasks (created by a user, assigned to a user, can depend on other tasks) 
+Notes (belong to a task, written by a user) 
+3. Social Media 
+Users (can follow other users) 
+Posts (can be reply to other posts, can be liked by users) 
+Messages (between 2 or more users) 
+——- 
+Try to implement this data model in a SQL db (like Postgres) and also in a noSQL db (like MongoDB) both. Yes I did say *both* 
+Either in DB or in code (you figure it out) handle constraints like 
+- cannot checkout if product quantity is 0 
+- remove all posts by a user if their account is deleted
+- cannot mark task complete unless dependant tasks are completed (and vice versa) 
+——- 
+After writing the SQL commands or creating these collections in Mongo you’ll think your work is done. It isn’t 
+The most important thing starts now
+Generate some large amount of data 
+10k users 
+100k posts (distribute to users well, some should be replies etc) 
+make all users follow 50-100 users etc 
+Generate 100k products, make 10k carts add products of 1-5 qty in them 
+There’s genAI, there’s mockaroo, there’s json-generator and bunch of websites than can generate tons of random data for you
+Generate the data, populate the DB
+Now do you all your queries like 
+- find all posts of followed users 
+- find total sales volume per day from orders 
+- show tasks completed per day 
+See how long they are taking? At this scale of data on a MacBook sized machine if it is not <10ms, then you’ve not created correct index or not made proper relationships or not normalised data correctly 
+Figure out what’s wrong 
+A high end laptop can handle these queries of this size of data in single digit milliseconds
+Utils
+Haha okay wtf is this? Well it is that folder in your codebase where you stash all those reusable pieces of code like `validateJWT(jwtString)` and `img2Base64(imageURL)` until you figure out where in your folder structure should they properly belong, which turns out to be never. 
+Well in terms of skill sets, by *utils* I meant a bunch of basic devops, sysadmin, dbadmin and oft-used-commonly-performed code operations skills all good engineers should not only have the knowledge of but quite a few hours of grinding with, so they have no rough edges in it 
+Here’s a (very) incomplete list to give an idea 
+- zip/tar/gzip archiving and unarchiving with code, from shell and over streams like HTTP 
+- base64, ascii url/pct encoding/decoding, Unicode character handling 
+- rsa, hmac signatures, hashing with md5, sha, creating and validating JWTs 
+- OpenSSL wrangling, understanding ssl steps in HTTP conn, ssl pinning, certificate transparency 
+- docker, docker compose, docker network, exposing ports, mounting volumes, handling replicas, building images from alpine 
+- indexing/reindexing, vacumming db, setting up backups, restoring from backups 
+- shell scripting, env vars, piping, sed, awk, grep, find, curl 
+- breakpoint debugging, memory profiling, cpu profiling, setting up unit tests and coverage for whatever tech stack / language you work on 
+- git (I can guarantee you, you don’t know it well at all) 
+Some of the coding related “utils” can be covered by doing the exercises at HackAttic [ https://substack.com/redirect/5eaa3962-c246-47ca-bd00-db6645810f19?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ] (definitely do the Katta ones using multiple languages for fun) 
+Join the Community 
+I have been setting up a Telegram community for junior-to-mid-senior software engineers who want to become better software engineers. 
+It is aptly called “Better.SDE2 Community” 
+Sometimes I do live sessions on topics like API design, DB schema modelling, multi-threading, authentication etc. Feel free to join if you’d like to. 
+https://telegram.me/better_sde2 [ https://substack.com/redirect/70fbb3fa-310f-4bfe-afeb-dbbab47cd05d?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]
+
+Unsubscribe https://substack.com/redirect/2/eyJlIjoiaHR0cHM6Ly90aHJlYWRzLmNoYW1waW9uc3dpbW1lci5pbi9hY3Rpb24vZGlzYWJsZV9lbWFpbD90b2tlbj1leUoxYzJWeVgybGtJam94TkRVMk16TXhPU3dpY0c5emRGOXBaQ0k2Ym5Wc2JDd2lhV0YwSWpveE56RTJPREE0TkRneUxDSmxlSEFpT2pFM01UazBNREEwT0RJc0ltbHpjeUk2SW5CMVlpMHpOVEkzTXpJaUxDSnpkV0lpT2lKa2FYTmhZbXhsWDJWdFlXbHNJbjAueGpGMnY2UG1NdEdlUEExQmJuRG5MRzlvR3lWNHVlT3pUaUVnbDFPX09lMCZleHBpcmVzPTM2NWQiLCJwIjoxNDUwMjI0NDEsInMiOjM1MjczMiwiZiI6dHJ1ZSwidSI6MTQ1NjMzMTksImlhdCI6MTcxNjgwODQ4MiwiZXhwIjoxNzE5NDAwNDgyLCJpc3MiOiJwdWItMCIsInN1YiI6ImxpbmstcmVkaXJlY3QifQ.MIaAqv_4VWszouBKKrx32fYYHnOJxevdNcKRKwdHed4?

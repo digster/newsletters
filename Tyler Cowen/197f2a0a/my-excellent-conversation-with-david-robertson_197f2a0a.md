@@ -1,0 +1,21 @@
+---
+subject: "My excellent Conversation with David Robertson"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2025-07-10 04:38:25
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+David is one of my very favorite conductors of classical music, especially in contemporary works but not only. He also is super-articulate and has the right stage presence to make for a great podcast guest. Here is[ the audio, video, and transcript](http://marginalrevolution.com?action=user_content_redirect&uuid=b8749790ea4f29b2e7ff5a064eb58f227e0f2b2797c93c507156ed5c9136ce62&blog_id=42693868&post_id=91048&user_id=262258391&subs_id=225460721&signature=74ac6ec9bcd50638c855203219a09c51&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly9jb252ZXJzYXRpb25zd2l0aHR5bGVyLmNvbS9lcGlzb2Rlcy9kYXZpZC1yb2JlcnRzb24v&email_id=fa2c7d5d0709a0823b36370b510abc65). Here is part of the episode summary:
+Tyler and David explore Pierre Boulez’s centenary and the emotional depths beneath his reputation for severity, whether Boulez is better understood as a surrealist or a serialist composer, the influence of non-Western music like gamelan on Boulez’s compositions, the challenge of memorizing contemporary scores, whether Boulez’s music still sounds contemporary after decades, where skeptics should start with Boulez, how conductors connect with players during a performance, the management lessons of conducting, which orchestra sections posed Robertson the greatest challenges, how he and other conductors achieve clarity of sound, what conductors should read beyond music books, what Robertson enjoys in popular music, how national audiences differ from others, how Robertson first discovered classical music, why he insists on conducting the 1911 version of Stravinsky’s Petrushka rather than the 1947 revision, and more.
+Here is one excerpt:
+COWEN: I have some general questions about conducting. How is it you make your players feel better?
+ROBERTSON: Oh, I think the music actually does that.
+COWEN: But you smile at them, you occasionally wink or just encourage them, or what is it you do?
+...ROBERTSON: There’s an unwritten rule in an orchestra that you don’t turn around and look at somebody, even if they’ve played something great. I think that part of our job is to show the rest of the players, gee, how great that was. Part of the flexibility comes from if, let’s say, the oboe player has the reed from God tonight, that if they want to stay on the high note a little bit longer, or the soprano at the Metropolitan Opera, that you just say, “Yes, let’s do this. This is one of these magical moments of humanity, and we are lucky to be a part of it.”
+COWEN: When do the players look at you?
+ROBERTSON: Oh, that’s a fabulous question. I’ll now have to go public with this. The funny thing is, every single individual in an orchestra looks up at a different time. It’s totally personal. There are some people who look up a whole bar before, and then they put their eyes down, and they don’t want any more eye contact. There are other people who look as though they’re not looking up, but you can see that they’re paying attention to you before they go back into their own world. And there are people who look up right before they’re going to play.
+One of the challenges for a conductor is, as quickly as possible with a group you don’t know, to try and actually memorize when everybody looks up because I always say, this is like the paper boy or the paper girl. If you’re on your route, and you have your papers in your bicycle satchel, and you throw it at the window, and the window is closed, you’ll probably have to pay for the pane of glass.
+Whereas if the window goes up, which is the equivalency of someone looking up to get information, that’s the moment where you can send the information through with your hands or your face or your gestures, that you’re saying, “Maybe try it this way.” They pick that information up and then use it.
+But the thing that no one will tell you, and that the players themselves don’t often realize, is that instinctively, and I think subconsciously, almost every player looks up after they’ve finished playing something. I think it’s tojust check in to see, “Am I in the right place?”
+Recommended.

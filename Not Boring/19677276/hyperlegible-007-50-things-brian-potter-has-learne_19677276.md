@@ -1,0 +1,62 @@
+---
+subject: "Hyperlegible 007: 50 Things Brian Potter Has Learned Writing Construction Physics"
+from: "Not Boring <notboring@substack.com>"
+to: ""
+date: 2025-04-27 12:04:59
+labels: ["CATEGORY_PERSONAL", "INBOX", "Not Boring", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2982495070691762429", "UNREAD"]
+---
+|
+A quick favor: please subscribe to not boring radio on [YouTube](https://substack.com/redirect/e83e44e3-a94b-479c-9d7c-d1a285c07d93?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) and [Spotify](https://substack.com/redirect/6afab63d-0afc-4caa-8178-0408cfce9939?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) 🙏
+Hi friends 👋,
+Happy Sunday!
+If you’ve been reading Not Boring for a while, you’ll know the name [Brian Potter](https://substack.com/redirect/1959691c-536f-4206-a74d-a9a3552f83aa?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o). When I write about building hard things in the physical world, I often lean on his work to understand the history and details.
+When I originally wrote about Base Power Company, I cited him three times, and used his excellent four-part series on [The Grid](https://substack.com/redirect/d83d8e77-798e-4fd8-b7f1-86a6d37f24af?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) to understand the workings of that “single enormous machine that spanned from coast to coast (exclusive of Texas).”
+When I wrote about [Cuby](https://substack.com/redirect/e34b6ebb-2b0b-4536-b77e-c4b3ea590b3a?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o), I used multiple of his essays, including [Another Day in Katerradise](https://substack.com/redirect/7e840b60-8f0e-436f-a6aa-c3bb88da8072?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o), about his experience at and lessons from working at the Softbank-backed home manufacturing startup, as well as his more technical [Logistics, Production Volume, and Industrialized Building](https://substack.com/redirect/b99d90c4-fb04-4806-a62a-c27f451ba595?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) and others. I leaned on him so heavily for that one that I even thanked him at the end.
+I’ve mentioned his [series on how solar power got so cheap](https://substack.com/redirect/2a450f8f-a3b9-4580-bca8-09f2803640ba?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) numerous times, and we’ve probably included various essays from his newsletter, Construction Physics, in half a dozen Weekly Doses of Optimism.
+As you can tell, I think [Construction Physics](https://substack.com/redirect/0b59b5c8-742b-478d-9dee-b3da10cc518a?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) is a national treasure.
+If you don’t already, you should subscribe:
+Recently, crunched for time after a work retreat, Brian put together [50 Things I’ve Learned Writing Construction Physics](https://substack.com/redirect/8e8a571a-168c-47a1-afc1-49823ea3c708?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) that is exactly what it sounds like: a distillation of 600,000 words over five years into one information-dense list.
+It was the perfect excuse to talk to Brian about so many of his great essays at once, so I asked him to come on Hyperlegible and he was nice enough to accept. We covered a lot:
+Brian’s writing and research process (preview: read everything available on a subject; make that feasible by picking a sufficiently narrow subject)
+What are some things that seem like recent developments but have key predecessors going back centuries or decades?
+An example of something that seemed like an inevitability, but was really a highly contingent product of chance and circumstance?
+What’s the intuitive explanation with the widest gap from the real story?
+What’s a problem a lot of people think is simple that is actually really complex?
+Why is prefab construction not cheaper than conventional, on-site construction, but manufactured and mobile homes are?
+Why does Chicago build skyscrapers twice as fast as New York City?
+How is it possible that the US actually builds high-profile skyscrapers as fast as China?
+Why did the US start adopting gas turbines after the 1965 Northeast blackouts?
+If the Jones Act isn’t to blame for US shipbuilding woes, what is?
+What did Cambridge and Bell Labs get right?
+Why have jet engine and commercial airliners always been so expensive to develop?
+Is just fundamentally resistant to learning curves?
+And much, much more.
+The reason I do Hyperlegible is because really smart people spend weeks compressing a ton of information into the best single essay they can write on the topic. We can piggyback off all of that work (and give them a little shine for doing it).
+This conversation felt like cheating: the compression of so many compressions.
+Brian’s takeaway from writing Construction Physics thus far is that things are almost always more complicated than they seem. Thankfully, we have people like Brian helping us make sense of all of the complexity. I had so much fun learning from him live after learning from him through writing for so long, and I hope you do too.
+If you’re more the reading type, I used Claude to turn the messy YouTube transcript into something well-formatted and clean. It kind of blew my mind watching it.
+[Hyperlegible 007 - Brian Potter - Transcript](https://substack.com/redirect/a8c0b92e-3516-45af-a382-30a195aac3b0?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+As always, you can find the full conversation wherever you like by subscribing to Not Boring Radio:
+YouTube:
+Spotify:
+50 Things I've Learned Writing Construction Physics with Brian Potter (Hyperlegible 007) Packy McCormick |
+Apple Podcasts:
+Not Boring Radio Packy McCormick |
+You can also find links to all of the essays and conversations at [readwise.io/hyperlegible](https://substack.com/redirect/6d1cdd4a-8c80-4731-80b5-f7a66ccffaf2?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o). Thanks to our friends and sponsors at Readwise, you can [head there](https://substack.com/redirect/6d1cdd4a-8c80-4731-80b5-f7a66ccffaf2?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) for a free trial and get all Hyperlegible articles automatically added to your account.
+If you want more, here are some of the essays of Brian’s and others that we discussed in the conversation. Save them to [Readwise](https://substack.com/redirect/6d1cdd4a-8c80-4731-80b5-f7a66ccffaf2?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) and come back to them:
+Construction Physics
+- [How to Build 3,000 Airplanes in Five Years](https://substack.com/redirect/1eb45f5c-6b86-40d8-853c-c415e48f3e67?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+- [Why It's So Hard to Build a Jet Engine](https://substack.com/redirect/b69b70e1-7202-4355-a644-7a3a056e341e?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+- [What Learning by Doing Looks Like](https://substack.com/redirect/c2f04f6e-45e4-4096-92ba-d1c1b7a7fa15?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+- [How California Turned Against Growth](https://substack.com/redirect/4a473ea3-b570-4040-a7d7-031045525084?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+- [Another Day in Katerradise](https://substack.com/redirect/7e840b60-8f0e-436f-a6aa-c3bb88da8072?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) - [The Birth of the Grid](https://substack.com/redirect/d83d8e77-798e-4fd8-b7f1-86a6d37f24af?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+Recommended and Discussed Essays
+- [Reality Has a Surprising Amount of Detail](https://substack.com/redirect/c43aa0a1-24c0-4650-8c59-d29a11041136?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) - John Salvatier
+- [Timing Technology: Lessons From The Media Lab](https://substack.com/redirect/e0b4b0a4-401c-4162-ae3b-07f4afbdc320?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) - Gwern
+- [100 Tallest Completed Buildings](https://substack.com/redirect/9498e5c7-f70d-4df5-bc21-916a001955ae?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+- [Boom: Bubbles and the End of Stagnation](https://substack.com/redirect/e8c3d60d-1114-4c5a-a79d-50b77ac47522?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) - Byrne Hobart & Tobias Huber
+Transcript
+Big thanks to Brian for joining me, and to Jim Portela for editing!
+Thanks for listening,
+Packy

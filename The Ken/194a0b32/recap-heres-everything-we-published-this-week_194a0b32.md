@@ -1,0 +1,63 @@
+---
+subject: "Recap: Here's everything we published this week"
+from: "The Ken <info@the-ken.com>"
+to: ""
+date: 2025-01-26 03:41:22
+labels: ["CATEGORY_PERSONAL", "INBOX", "The Ken"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_8244464457792971031"]
+---
+|
+|
+Delivered to Ishan, Subscriber to The Ken.
+Sun, 26 Jan 2025
+|
+The Spotlight by Jonathan Ananda
+Newsletter Editor
+|
+|
+Good Morning Ishan,
+Welcome to your Sunday recap of everything The Ken published this week.
+[Milky Mist shunned milk and still became a Rs 20,000 cr dairy giant](https://the-ken.com/story/milky-mist-is-anti-milk-its-still-a-rs-20000-cr-dairy-giant/?utm_source=weekly_email&utm_medium=email&utm_campaign=weekly_recap_card)
+The time-tested dairy playbook in India is sell milk first, followed by other products. But the 31-year-old company from Tamil Nadu didn’t get the memo
+Milk sold in pouches accounts for two-thirds of India’s dairy market. So most dairy brands, cooperative or private, get most of their sales from it. But Milky Mist has built its business on higher-value products like paneer and cheese, and has possibly the highest profit margins in the industry. Milky Mist’s plans to be a national brand hinge on its ability to expand its manufacturing beyond its sole factory near Coimbatore. It will also have to battle incumbents in every region and upstarts targeting the discerning consumer. [[Read the full story](https://the-ken.com/story/milky-mist-is-anti-milk-its-still-a-rs-20000-cr-dairy-giant/?utm_source=weekly_email&utm_medium=email&utm_campaign=weekly_recap_card)]
+******
+Also in the spotlight
+[Reliance’s US$19B ‘unknown quantity’](https://the-ken.com/long_and_short/reliances-us19b-unknown-quantity/?utm_source=weekly_email&utm_medium=email&utm_campaign=weekly_recap_card)
+Much has changed in clean energy since the company made its audacious entry in 2021
+******
+[Roti ✓ Kapda ✓ Makaan? Should young Indians still believe in the home ownership dream?](https://the-ken.com/podcasts/daybreak/roti-%E2%9C%93-kapda-%E2%9C%93-makaan-should-young-indians-still-believe-in-the-home-ownership-dream/?utm_source=weekly_email&utm_medium=email&utm_campaign=weekly_recap_card)
+What’s behind these record-breaking property prices anyway?
+******
+[Zomato, Swiggy, and the rise of the 10-minute “dark” cafe](https://the-ken.com/podcasts/two-by-two/zomato-swiggy-and-the-rise-of-the-10-minute-dark-cafe/?utm_source=weekly_email&utm_medium=email&utm_campaign=weekly_recap_card)
+The food aggregators are coming for the restaurants’ lunch to stop themselves from getting disrupted
+[No one knows how Cibil rates your finances. Not even your bank](https://the-ken.com/story/youre-clueless-about-your-credit-score-for-banks-that-works-just-fine/?utm_source=weekly_email&utm_medium=email&utm_campaign=weekly_recap_card)
+Lenders rely on scores issued by Cibil, Experian, and others to give out loans. Nobody knows how they’re calculated or what financial practices would help borrowers
+Three-digit credit scores, computed by four licensed credit bureaus in India, can make or break your loan application. None of them, however, disclose their computation methodologies, creating a “black hole” for borrowers as to why their score is too low. Cibil claims to educate consumers on improving their credit scores through webinars and other programmes. Even so, bankers estimate that at least 30% of all loan applications are rejected owing to poor scores. [[Read the full story](https://the-ken.com/story/youre-clueless-about-your-credit-score-for-banks-that-works-just-fine/?utm_source=weekly_email&utm_medium=email&utm_campaign=weekly_recap_card)]
+******
+[Why Reliance bought Tata-backed Karkinos for Rs 375 crore](https://the-ken.com/story/why-reliance-bought-tata-backed-karkinos-for-rs-375-crore/?utm_source=weekly_email&utm_medium=email&utm_campaign=weekly_recap_card)
+Despite counting the Tatas, Reliance, and Mayo Clinic among its investors, Karkinos couldn’t stay afloat long. Its journey was too fast too soon
+Karkinos started out in an underserved and high-demand sector with a stellar investor list, including Tatas, Reliance, Mayo Clinic, and others. Having a background working with the Tatas and Reliance chairman made it easier for Karkinos’ founder to raise money within months of the launch. But the company bit more than it could chew. Despite tying up with over 80 hospitals, the company found itself in debt and was dragged to insolvency court. While its acquisition by Reliance maybe a silver lining for Karkinos, the ones bearing the brunt are several erstwhile small investors. [[Read the full story](https://the-ken.com/story/why-reliance-bought-tata-backed-karkinos-for-rs-375-crore/?utm_source=weekly_email&utm_medium=email&utm_campaign=weekly_recap_card)]
+******
+[Which edtechs does the Indian government trust?](https://the-ken.com/edsetgo/which-edtechs-does-the-indian-government-trust/?utm_source=weekly_email&utm_medium=email&utm_campaign=weekly_recap_card)—Hint: You’ve heard of none of them [[Read here](https://the-ken.com/edsetgo/which-edtechs-does-the-indian-government-trust/?utm_source=weekly_email&utm_medium=email&utm_campaign=weekly_recap_card)]
+[Zomato, Swiggy gave up on selling their own food. Then along came Zepto Cafe](https://the-ken.com/tradetricks/zomato-swiggy-gave-up-on-selling-their-own-food-then-along-came-zepto-cafe/?utm_source=weekly_email&utm_medium=email&utm_campaign=weekly_recap_card)—The food aggregators ventured into and eventually shut down their cloud kitchens. But they appear to have had a change of heart [[Read here](https://the-ken.com/tradetricks/zomato-swiggy-gave-up-on-selling-their-own-food-then-along-came-zepto-cafe/?utm_source=weekly_email&utm_medium=email&utm_campaign=weekly_recap_card)]
+******
+[Jar and its digital-gold peers are sparkling. Until regulators come knocking](https://the-ken.com/story/jar-and-its-digital-gold-peers-are-sparkling-until-regulators-come-knocking/?utm_source=weekly_email&utm_medium=email&utm_campaign=weekly_recap_card)
+Tighter norms in the unregulated digital-gold space could throw a wrench into micro-gold platforms riding high on the yellow metal’s popularity
+Digital-gold apps like Jar are currently ruling the roost as the ease of setting up a daily micro-savings account is all too alluring. But impending regulations, such as the introduction of KYC norms, could lead to sourness among digital-gold firms as customer acquisition and retention can take a hit. Experts in the space believe that regulations are necessary to maintain the sanctity of the product. Jar’s puzzling financials do not help its case either as it currently grapples with a potential fundraise. [[Read the full story](https://the-ken.com/story/jar-and-its-digital-gold-peers-are-sparkling-until-regulators-come-knocking/?utm_source=weekly_email&utm_medium=email&utm_campaign=weekly_recap_card)]
+[HCLTech made a bet 26 years ago—now it will gamble on a payoff](https://the-ken.com/story/chips-to-the-rescue-hcltechs-semiconductor-play-may-outshine-its-it-woes/?utm_source=weekly_email&utm_medium=email&utm_campaign=weekly_recap_card)
+Eight quarters of letdowns, but the IT-services giant’s semiconductor-heavy engineering wing keeps the cash flowing
+HCLTech’s stock price dipped 10% on 14 January, after a lacklustre Q3 performance—the eighth straight quarter with flat revenues. While its IT-services wing has been underperforming, especially in key areas like AI, it has an unexpected ace up its sleeve—its semiconductor division. The firm has been seeing its chip fortunes rise especially in the wake of the GenAI boom—the tech is used to produce chips, and the company also works on chips for AI and allied technologies. Other IT services firms like Wipro and TCS also have engineering services wings. But HCLTech’s partnerships with large and small players alike as well as foundries like TSMC and Samsung may be its key to silicon supremacy. [[Read the full story](https://the-ken.com/story/chips-to-the-rescue-hcltechs-semiconductor-play-may-outshine-its-it-woes/?utm_source=weekly_email&utm_medium=email&utm_campaign=weekly_recap_card)]
+******
+[Airtel, Bajaj Finance start a staredown with Jio](https://the-ken.com/kaching/airtel-bajaj-finance-start-a-staredown-with-jio/?utm_source=weekly_email&utm_medium=email&utm_campaign=weekly_recap_card)—The new alliance offers each partner a good shot at their respective goals [[Read here](https://the-ken.com/kaching/airtel-bajaj-finance-start-a-staredown-with-jio/?utm_source=weekly_email&utm_medium=email&utm_campaign=weekly_recap_card)]
+[The government is pushing for e-buses. But private bus operators are not hitching a ride](https://the-ken.com/podcasts/daybreak/the-government-is-pushing-for-e-buses-but-private-bus-operators-are-not-hitching-a-ride/?utm_source=weekly_email&utm_medium=email&utm_campaign=weekly_recap_card)—Eka Mobility is one among many beneficiaries of the EV wave here in India. But naturally, it does not come without its challenges [[Listen here](https://the-ken.com/podcasts/daybreak/the-government-is-pushing-for-e-buses-but-private-bus-operators-are-not-hitching-a-ride/?utm_source=weekly_email&utm_medium=email&utm_campaign=weekly_recap_card)]
+[Why investors can’t get enough of Zepto](https://the-ken.com/podcasts/daybreak/why-investors-cant-get-enough-of-zepto/?utm_source=weekly_email&utm_medium=email&utm_campaign=weekly_recap_card)—What did Zepto do to get all this attention from investors? [[Listen here](https://the-ken.com/podcasts/daybreak/why-investors-cant-get-enough-of-zepto/?utm_source=weekly_email&utm_medium=email&utm_campaign=weekly_recap_card)]
+[What China’s cheap AI model tells us about India’s future](https://the-ken.com/the-nutgraf/what-chinas-cheap-ai-model-tells-us-about-indias-future/?utm_source=weekly_email&utm_medium=email&utm_campaign=weekly_recap_card)—Research is a lottery. But is India even playing? [[Read here](https://the-ken.com/the-nutgraf/what-chinas-cheap-ai-model-tells-us-about-indias-future/?utm_source=weekly_email&utm_medium=email&utm_campaign=weekly_recap_card)]
+[About salary cuts](https://the-ken.com/newsletter/first-principles/first-principles-about-salary-cuts/?utm_source=weekly_email&utm_medium=email&utm_campaign=weekly_recap_card)—We used to think of careers as ladders. But they are really like lattices [Read here]
+[How founders remake the world in their own vision](https://the-ken.com/the-collection/how-founders-remake-the-world-in-their-own-vision/?utm_source=weekly_email&utm_medium=email&utm_campaign=weekly_recap_card)—Amrish Rau, Tarun Mehta, Radhika Gupta, and others on their favourite mental models [[Read here](https://the-ken.com/the-collection/how-founders-remake-the-world-in-their-own-vision/?utm_source=weekly_email&utm_medium=email&utm_campaign=weekly_recap_card)]
+[The value that leaders need to add, but most don’t](https://the-ken.com/incitingincident/the-value-that-leaders-need-to-add-but-most-dont/?utm_source=weekly_email&utm_medium=email&utm_campaign=weekly_recap_card)—There’s more to building a public narrative than an emotional story [[Read here](https://the-ken.com/incitingincident/the-value-that-leaders-need-to-add-but-most-dont/?utm_source=weekly_email&utm_medium=email&utm_campaign=weekly_recap_card)]
+[Why Ola Electric went from leader to laggard in record time](https://the-ken.com/podcasts/daybreak/why-ola-electric-went-from-leader-to-laggard-in-record-time/?utm_source=weekly_email&utm_medium=email&utm_campaign=weekly_recap_card)—Shares going up and down is regular stuff right? Not for Ola Electric [[Listen here](https://the-ken.com/podcasts/daybreak/why-ola-electric-went-from-leader-to-laggard-in-record-time/?utm_source=weekly_email&utm_medium=email&utm_campaign=weekly_recap_card)]
+[How Acko beat Godigit with just 15 health-insurance agents](https://the-ken.com/podcasts/daybreak/how-acko-beat-godigit-with-just-15-health-insurance-agents/?utm_source=weekly_email&utm_medium=email&utm_campaign=weekly_recap_card)—Most people who understand this space are thrown off by the route Acko has gone down [[Listen here](https://the-ken.com/podcasts/daybreak/how-acko-beat-godigit-with-just-15-health-insurance-agents/?utm_source=weekly_email&utm_medium=email&utm_campaign=weekly_recap_card)]
+That’s a wrap for this week. If you have thoughts or suggestions you’d like to share, leave a comment on our website or app, or write to our writers and podcasters. You can also write to me at jonathan@the-ken.com.
+Take care.
+Regards,
+Jonathan

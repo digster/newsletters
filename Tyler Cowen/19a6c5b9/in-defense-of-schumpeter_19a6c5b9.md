@@ -1,0 +1,11 @@
+---
+subject: "In defense of Schumpeter"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2025-11-10 06:02:12
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+Factories of Ideas? Big Business and the Golden Age of American Innovation (Job Market Paper) [
+This paper studies the Great Merger Wave (GMW) of 1895-1904—the largest consolidation event in U.S. history—to identify how Big Business affected American innovation. Between 1880 and 1940, the U.S. experienced a golden age of breakthrough discoveries in chemistry, electronics, and telecommunications that established its technological leadership. Using newly constructed data linking firms, patents, and inventors, I show that consolidation substantially increased innovation. Among firms already innovating before the GMW, consolidation led to an increase of 6 patents and 0.6 breakthroughs per year—roughly four-fold and six-fold increases, respectively. Firms with no prior patents were more likely to begin innovating. The establishment of corporate R\&D laboratories served as a key mechanism driving these gains. Building a matched inventor–firm panel, I show that lab-owning firms enjoyed a productivity premium not due to inventor sorting, robust within size and technology classes. To assess whether firm-level effects translated into broader technological progress, I examine total patenting within technological domains. Overall, the GMW increased breakthroughs by 13% between 1905 and 1940, with the largest gains in science-based fields (30% increase).
+That is the job market paper of [Pier Paolo Creanza](http://marginalrevolution.com?action=user_content_redirect&uuid=14cf2433953868b429f53a826c06eac716c21261c94074f4120fd27a0bb286fc&blog_id=42693868&post_id=91813&user_id=262258391&subs_id=225460721&signature=fe2a9b238871ff99ce37976399f72a5e&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly93d3cucHBjcmVhbnphLmNvbS8&email_id=744ab920d5e9f6aec1f267e13aecbc1d), who is on the market this year from Princeton.

@@ -1,0 +1,28 @@
+---
+subject: "I am the Dostoyevsky of Thyroid Disease"
+from: "\"River Kenna from In•Star\" <riverkenna@substack.com>"
+to: ""
+date: 2025-02-17 08:09:38
+labels: ["CATEGORY_PERSONAL", "INBOX", "River Kenna", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_3010718370428876194", "UNREAD"]
+---
+|
+Dostoyevsky had his epilepsy, crashing to the floor and hearing the angels, biting his tongue and seeing God in the singing breeze. I have my Hashimoto’s disease, getting crushed in a depressive-psychedelic grip and watching my heart be pulverized, only to open to the whelming tenderness of the men’s faces on the street; my head becoming a nightmare vortex of vata fog, only to cry at the beauty of sunbeams through mist.
+In moments like these, I wouldn’t trade for anything the fragrance of my crushed-petal heart. The world comes awake to me, I come awake to the world, I am her body and she is my body and it’s all I can do to reconcile my dancing and my tears, my overwhelming need to express my soul and my overwhelming need to disappear entirely, to dissolve into that angel’s greater existence.
+This world, these times, this era of balance and wellness, this worship of comfort and stability, it blinds me sometimes to a lineage of those who suffered and broke open to participate in the staggered beauty of every atom of every moment.
+Y'all would’ve cured Dostoyevsky if you could. You would have gotten Kierkegaard an Oura ring and an IFS pamphlet. You would have put Jung on lithium.
+There are layers of the world-soul that only open when you sacrifice something.
+There are eyes inside you, eyes encased in shells, brittle shells that must be broken before you can see the subtler fires.
+There are ears inside you, ears that grow only from shattered hearts, like mushrooms on a rotten log, the only ears that can hear the psalm in your spine.
+There are tongues inside you which only grow from the burst of a dissolving ego’s spores — the only tongues that can sing your psalm, that can harmonize with the ten thousand thousand tongues already singing around you, singing the world-song you’ve been deaf to your whole life.
+In this period of my life, I’ve cried in felafel restaurants and fallen to the ground and screamed in the street. I’ve torn my shirt to shreds and panted barechested during meditation, I’ve howled until the neighbors came calling, I’ve laid motionless for hours, staring at a waterspot on the ceiling. I’ve been tasked with living joyfully in hell. I’ve been tasked with waking up gods, with making whole the goddess. I’ve been asked to embody gravity and to hold wildfire in my chest. I’ve been shown a graveyard where every version of me, old and young, wise and idiotic, strong and weak, all had a headstone, were all always already dead. I’ve asked a waiter for directions to the emergency room, then finished my meal before departing. I’ve wandered foreign parks heartbroken at dusk more times than I care to count.
+But I can hear the psalm, some of it. I can even sing a few lines, hum a few bars. I can smell the spoor of the world-soul when the wind is right.
+I’ve seen Shakti beneath the canopy.
+I’ve been bitten by the moon.
+I’ve had my morning coffee interrupted by a goddess asking for a vow.
+I’ve watched god unravel himself in the eddies of a stream.
+I’ve followed the staircase Shiva put in front of me, though I can never see more than two steps ahead. I have no idea what continent I’ll be living on when I turn 34 later this year.
+I’m a ghost, I’m a mist, I’m a passing thought in the mind of god, here then gone, forgotten entirely, and I am nothing special, no one at all.
+I’m a bit arrogant, a bit armored; I almost always love people more than they love me, and this makes me feel like a sucker over and over and over again and I refuse to stop, I will love you and I will love you and I will love what I see in the space inside your chest, I will love the way the gods play within your words and I will love how your eyes are the unmistakable signature of who you are. I will love you and I will listen for whatever snatches of your psalm I can hear.
+Dostoyevsky had his epilepsy and I have my Hashimoto’s and I can’t make you hear this fact any more than you already know it, but I will repeat it and I will repeat it and you will hear it and you will know it: every wound is a gift, a power, a sight. Every spear that pierces you opens you to something you could never have otherwise opened to.
+You can only heal as deeply as you open; anything that is closed to Life is closed to being Whole. The gods are seeking surface area — unfold and give it to them.

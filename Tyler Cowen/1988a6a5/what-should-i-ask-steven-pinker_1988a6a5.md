@@ -1,0 +1,10 @@
+---
+subject: "What should I ask Steven Pinker?"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2025-08-08 16:01:20
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+Yes, I will be having another Conversation with him. Much of it will focus on Steven’s forthcoming book [When Everyone Knows that Everyone Knows…Common Knowledge and the Mysteries of Money, Power, and Everyday Life](http://marginalrevolution.com?action=user_content_redirect&uuid=4154bb88b20ca07e119c8ed96537bec11a7030d5e3c71632467e54af523a88de&blog_id=42693868&post_id=91260&user_id=262258391&subs_id=225460721&signature=b1f068e682f24a54df750fb0daf23cc1&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9XaGVuLUV2ZXJ5b25lLUtub3dzLVRoYXQtS25vd2xlZGdlL2RwLzE2NjgwMTE1NzMvcmVmPXNyXzFfMT9jcmlkPTM2QjI2QkhXU1U2RDMmZGliPWV5SjJJam9pTVNKOS5CS0NqTzQzU19sTlRXTXdsNnotSTFoZmFJc3dyOWF3RnB3blpBZHRucnFUUWFzb3d0QUZzMDl5cjRFcnRscGRlVllUSTQzR0xkR3FTejRyM0hrc2UxX2JLUTh4eTktanhwX3ExQ09Qd0RVajAyV2cxcWFua1pqS3FNaFFDa1ExdUlGVWVFMlZPMFpicVdaOXhqbEhERVh2YU15SFpOd3NzSWNqTW1vQURKZDhDLXQ5S2trOHZwVlZyY1FrNGprY3luS2lhdzBrMXYxcXRQZlNrR0tUOGRPdjQwZkh1a1dpeWZjdVB4aUF2YnhnM0hnVXFQcjczZUhpRnhwXzZ3SEE0cmtldFhsb3ZsRXRJREF2UTJFWDJWUFV6X1drMVFRUGZEWEY4R1owTmJ1OC5OUElUQ2tOdm9xQzI5allCMldzMHk4MHI2T00yRDBSYkRqZkdSOVJNak80JmRpYl90YWc9c2Uma2V5d29yZHM9U3RldmVuK3BpbmtlciZxaWQ9MTc1NDU4NTc0NiZzcHJlZml4PXN0ZXZlJTJDYXBzJTJDMjAyMyZzcj04LTE&email_id=9077c925b182e8f38e6adc6376575cfa).
+Here by the way is [my previous Conversation with Steven](http://marginalrevolution.com?action=user_content_redirect&uuid=b1757e1e100595675b6ebd306135232f05bcae674a34eb14c48a004be4c57d98&blog_id=42693868&post_id=91260&user_id=262258391&subs_id=225460721&signature=6ef422f1768a4132f154be1f3580ab75&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly9jb252ZXJzYXRpb25zd2l0aHR5bGVyLmNvbS9lcGlzb2Rlcy9zdGV2ZW4tcGlua2VyLw=&email_id=9077c925b182e8f38e6adc6376575cfa).

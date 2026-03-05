@@ -1,0 +1,15 @@
+---
+subject: "At HT Media, lower advertising revenue means better profits. How?"
+from: "The Ken <info@the-ken.com>"
+to: ""
+date: 2018-02-27 02:35:26
+labels: ["CATEGORY_PERSONAL", "INBOX", "The Ken", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_8244464457792971031", "UNREAD"]
+---
+Good Morning Ishan,
+You know I’m into nostalgia. So, late last year, when The Wall Street Journal announced that it would no longer be printing the Asian Wall Street Journal, I asked a dear friend to pick up a copy of the last edition. He did, and I am grateful. Stuff like this gives me a sense of how things have changed, right in front of me. Like the other week, I was cleaning out my stuff because we are moving houses, and I found the last print issue of Newsweek, dated 31 December 2012. I had picked it up when I was young, working for a business magazine. Holding that thing in my hand, I went back many years.
+If change is your thing, then look no further. The media business makes for the most fascinating read right now. For instance, take this number from today’s story on HT Media.
+So, HT Media publishes the newspapers Hindustan, Hindustan Times and Mint. Hindustan Times is the third largest English daily in India by circulation. The number to note is Rs 452 crore. HT Media reported advertising revenue of Rs 452 crore in Q3FY14. Four years down the line, Q3FY18, the company reported the same ad revenue. It hasn’t moved one bit. For a business that’s hugely, hugely reliant on ads, this isn’t a good sign. Now, media companies like HT Media know this, so for the past two years, the company has been throwing all sorts of darts on the digital board. It is not easy but this is what the company has set out to do.
+So, my colleague Shashidhar looked closely at the company. To see what exactly HT Media is trying. The piece is here: [https://the-ken.com/ht-media-](http://link.the-ken.com/wf/click?upn=HQSq6eeRV1xAVaGuFOahuGUBulZImK1AWjGmDXyRfO-2B0Ws25CnpBdLFOwyZ3Sf5FCVGHht1FeIpg4K6dMUZ-2Fhv3zLLJh4NbXBhbrWau8EHSUueyunVNX80Qhm2dvU1oKGIY5ePpyzb9ses38DzS6igiJyROZrdAzu6xLJUULOFsKZETrnZYq0DedbwKK-2Bpf9lBAfJRn5IOl5uxT0rkI9SLLWpra8tFzfc7bwd9p16hHQNMG2mQ7z6NA33lY5UUFb_S4jLOsNx-2Fv6Jev2nvow8b7P9pBCWGd8KNZfb200gkZLQNlXQHio0noZzXtsWoloZmPWeyZsh7a4QCV9ufwCUKi00jlBT0uEdvwYDMuVuqcPYvt-2BB1pE5ZlxTvqmQV-2BJ-2FKJUePE6q9y0j7WoJ14EGUBnstim5-2BtAScPmqwr71cKuo2n2Tt-2FVDh3E8AOSfICi2-2F5AEDsbkYKmtIAuodYj3AmmTxJyA6y5dGQpnpo5PTXEOZ4u-2FN2IJNRoXh7V2h7EKYil9ca2xmz-2F6XoB8seJiB0y-2FIdunkDhJBm4xQDC7OALuOJj6Y8myZ8TE2cfyoRMpzlQutifIeps2Rw0n2iSkhlEY-2Fw-2Fkv-2FY-2BOKyitceE3vvbH8OMZ8KYnHbm9LebxAX4Yp2q45h2R0mMW-2Bc-2B5QBRfF0iiX0WyDvEq4Acypz6uR88u1ha8f6hiAs14UfrLz7q) ad-revenue-profits/
+If you have any perspective on the media business, do drop in a line on what you think. See ya around.
+This email was sent by: The Ken

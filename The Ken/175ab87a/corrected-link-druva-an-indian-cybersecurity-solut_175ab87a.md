@@ -1,0 +1,17 @@
+---
+subject: "[CORRECTED LINK] Druva, an Indian cybersecurity solution with an India problem"
+from: "The Ken <info@the-ken.com>"
+to: ""
+date: 2020-11-09 05:43:13
+labels: ["CATEGORY_PERSONAL", "INBOX", "The Ken"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_8244464457792971031"]
+---
+Good Morning Ishan,
+Quick update. Please use the link below to access today’s story. We made an error while hyperlinking the story in the previous email. Sorry about this.
+|
+What you just read is the personalised daily introduction to The Ken's story. Written by a different person each day. Often insightful, sometimes witty, and very rarely boring. Someone sent this to you? [Sign up for free](https://the-ken.com/?modal=register&utm_source=footer&utm_medium=email&utm_campaign=in_recap_email). Don't like these? You can [unsubscribe](https://link.the-ken.com/asm/unsubscribe/?user_id=2349339&data=_X0fdajb0KSDJofYywgT3ewEYHoFBC3QW40SbKliTlQ8kv2d6j9W1KYXLx6xuSAxaUCXA16bkoMRN2jgUkt5oiKV1utAjLXzmit1xJi39-o-MCxNF__xlfddYfaue6FECrSCGW21ofW1yfFfiA6YKRwjQJpzCywiOcYIcDQEpy5kmu3esUeZRiv5qjCohDd9Zx6J1QH90LyyQ9_vGx1Ed5kd4FzpASZd4B2QJwriA5GYvanLde0QfJSFdaP1uYGWlnxZ4odlWjy5PPnZz-bCsRKE1cgpXnKxnOVbAZ13Z4GNu5U-gIN_gePIfNhMnnF_gsSzpJJON0kvxvy34r5KpgkHH9nYU3LQrV2ohwVSIrzi6jAI9OKZlw1-dvhLscxIbsYNicaXJGSLSj_TI-uPwFwVwoa-_fgWrS5UzyQKs4HcoE8notpQDTSu59FCncbpha85jPnbF7JiI4fAP3kF3-tL0TjyHAhzmzvST2yMTeJgTUXSfHWuY7r6pof37ZS4FPpswXUjGPvTAmYBnnasbbdzp-fsNqgA-WkxX5Gu3bClfTINcxyQeQ29pOnsyr8K). Want to manage your emails? Click [here](https://link.the-ken.com/asm/?user_id=2349339&data=O8dwcZwVe4HDWS6Ukw_HWcInO5T2t2EvF6hu04V0oxWvgWkSF8EQYjHVqBcbYXT4IKYsMUlxBtp5aOMJcxeI7tD19Tn5qynVWaQDhyUZ67QGQH5i5gs2bZdpFQ0iX0nJIu6gcrEnqBKgSyx2BQ-Rf1o_PtEoukOn8J7BP29BTo-Fi1YabtReL13htlmHzQF0zk610D_308_L0cCg_-26ClB3WFNIzu9ak3WhUk8xslqio91T-opQZrLRSUVBrzwpCzbK5-PW7dD8f7EoVp13oFwC4MnuWbyRdBtbT4nuD0FPKoZ_JVAGy5IYwrbw20O9LBFVHYaKGbbrwk04ltSiXwScwME58LOwvs9J85hvQDjNAJMMdrP-vw9rv0LsBGPuno8OMEK_mp0OyoJRbwZqr2H2KvPvG4fahywH_esBLTk_yFvxiOpHDUIhpw7N0HVrSDGVkP5T0DNVjRQ98wpgJFDyPuhOJJmhUznfrK6iykF9xbHCA-IH-mfXW5JyO_GO-6EsPz7Lkp4GZknaF-GGaUmGnDTPRMKMpvWbr0qilGE=).
+|
+|
+|
+|
+|

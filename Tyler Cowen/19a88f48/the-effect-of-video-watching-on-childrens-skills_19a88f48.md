@@ -1,0 +1,10 @@
+---
+subject: "The Effect of Video Watching on Children’s Skills"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2025-11-15 19:18:36
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+This paper documents video consumption among school-aged children in the U.S. and explores its impact on human capital development. Video watching is common across all segments of society, yet surprisingly little is known about its developmental consequences. With a bunching identification strategy, we find that an additional hour of daily video consumption has a negative impact on children’s noncognitive skills, with harmful effects on both internalizing behaviors (e.g., depression) and externalizing behaviors (e.g., social difficulties). We find a positive effect on math skills, though the effect on an aggregate measure of cognitive skills is smaller and not statistically significant. These findings are robust and largely stable across most demographics and different ways of measuring skills and video watching. We find evidence that for Hispanic children, video watching has positive effects on both cognitive and noncognitive skills—potentially reflecting its role in supporting cultural assimilation. Interestingly, the marginal effects of video watching remain relatively stable regardless of how much time children spend on the activity, with similar incremental impacts observed among those who watch very little and those who watch for many hours.
+That is from a [new NBER working paper](http://marginalrevolution.com?action=user_content_redirect&uuid=5a385c4c313802612e0f0acc825dba9c9eae767da69e329264ed8d35794cb995&blog_id=42693868&post_id=91840&user_id=262258391&subs_id=225460721&signature=95b43ff33216a1a61c6fad9dd1722c9e&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly93d3cubmJlci5vcmcvcGFwZXJzL3czNDQ2Ng=&email_id=3843e90aec5002cdf3498fdf8c415a28) by

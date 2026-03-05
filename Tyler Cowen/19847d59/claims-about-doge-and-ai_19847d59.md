@@ -1,0 +1,12 @@
+---
+subject: "Claims about DOGE and AI"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2025-07-26 17:43:54
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+The U.S. DOGE Service is using a new artificial intelligence tool to slash federal regulations, with the goal of eliminating half of Washington’s regulatory mandates by the first anniversary of President Donald Trump’s inauguration, according to documents obtained by The Washington Post and four government officials familiar with the plans.
+The tool, called the “DOGE AI Deregulation Decision Tool,” is supposed to analyze roughly 200,000 federal regulations to determine which can be eliminated because they are no longer required by law, according to a PowerPoint presentation obtained by The Post that is dated July 1 and outlines DOGE’s plans. Roughly 100,000 of those rules would be deemed worthy of trimming, the PowerPoint estimates — mostly through the automated tool with some staff feedback. The PowerPoint also suggests the AI tool will save the United States trillions of dollars by reducing compliance requirements, slashing the federal budget and unlocking unspecified “external investment.”
+The tool has already been used to complete "decisions on 1,083 regulatory sections” at the Department of Housing and Urban Development in under two weeks, according to the PowerPoint, and to write “100% of deregulations” at the Consumer Financial Protection Bureau (CFPB). Three HUD employees — as well as documents obtained by The Post — confirmed that an AI tool was recently used to review hundreds, if not more than 1,000, lines of regulations at that agency and suggest edits or deletions.
+Here is [the full story](http://marginalrevolution.com?action=user_content_redirect&uuid=b47c4c31cd50f642371f7a823def17b5eebe1610091fefb23af83e0491cc183d&blog_id=42693868&post_id=91165&user_id=262258391&subs_id=225460721&signature=203c7ab9ad049dbc4e5b7518fd2e6ffd&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly93d3cud2FzaGluZ3RvbnBvc3QuY29tL2J1c2luZXNzLzIwMjUvMDcvMjYvZG9nZS1haS10b29sLWN1dC1yZWd1bGF0aW9ucy10cnVtcC8/cHdhcGlfdG9rZW49ZXlKMGVYQWlPaUpLVjFRaUxDSmhiR2NpT2lKSVV6STFOaUo5&email_id=21b3fc29497bd4e7522650600c2c5218), I will keep you all posted...

@@ -1,0 +1,32 @@
+---
+subject: "Learn how to build your own CodePen-style code editor [Free 4-hour JavaScript project course]"
+from: "Quincy Larson <quincy@freecodecamp.org>"
+to: ""
+date: 2025-09-19 06:41:29
+labels: ["CATEGORY_PERSONAL", "INBOX", "Quincy"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_7697778124671848699"]
+---
+Here are this week's five freeCodeCamp resources that are worth your time:
+
+1. freeCodeCamp just published this comprehensive front end development course where you build your own browser-based code editor. You can code along at home and build your own single page app development environment with tabs for editing your HTML, CSS, and JavaScript. Along the way, you'll learn some intermediate JS techniques that allow for instant live preview, so you can see the results of your code changes right away. (4 hour YouTube course): https://www.freecodecamp.org/news/code-your-own-code-editor/
+
+2. I also made a quick announcement about some big improvements to our core Full Stack Development curriculum. In short, we're breaking down our new coursework into a series of six new certifications you can earn along the way to the capstone cert. These include Python, Relational Databases, Front End Libraries, and more. (5 minute read): https://www.freecodecamp.org/news/introducing-freecodecamp-checkpoint-certifications/
+
+3. freeCodeCamp also just published this new course that will help you pass the Databricks Data Engineer Associate certification exam. Andrew Brown is a CTO who has passed practically every DevOps exam under the sun, and he teaches this course. He'll introduce you to key concepts like Clusters, Structured Streaming, Data Lakes, and more. (8 hour course): https://www.freecodecamp.org/news/prepare-for-the-databricks-data-engineer-associate-certification-exam-and-pass/
+
+4. On this week's freeCodeCamp podcast I interview two legends in the self-taught developer community: 100Devs founder Leon Noel and prolific teacher Danny Thompson. We spent the entire hour talking about the developer job market, and how it's changed due to interest rate changes and AI hype uncertainty. Danny and Leon have helped thousands of people navigate the developer job search, so they have tons of practical advice. You'll learn about common misconceptions people have about résumés, recruiters, Applicant Tracking Systems, knockout questions, and more. (1 hour watch or listen in your favorite podcast app): https://www.freecodecamp.org/news/playing-the-developer-job-search-game-to-win-in-2025-with-danny-thompson-and-leon-noel-podcast-188/
+
+5. Finally, enjoy this breezy read about Cosine Similarity and the role it plays in Large Language Models. As its author, Manish, says, Cosine Similarity is “a bridge between human language and machine understanding. It allows a model to treat meaning as geometry, turning questions and answers into points in space.” Not only will you learn the math involved, you'll also see it implemented in Python code. (10 minute read): https://www.freecodecamp.org/news/how-does-cosine-similarity-work/
+
+I love sharing these new open source learning resources. But they're just the tip of the iceberg. The freeCodeCamp community is also making steady forward progress on our core interactive curriculum. Help us move even faster by joining the 10,706 kind people who support our charity each month: https://www.freecodecamp.org/donate
+
+Quote of the Week: 
+“If your goal is to ship something right now, you should use AI. But if your goal is to build something you can understand and talk about in front of employers, you shouldn't be using AI right now.” — Software Engineer Danny Thompson on this week's freeCodeCamp podcast
+
+Until next week, happy coding.
+
+-- Quincy Larson
+
+Teacher and founder of freeCodeCamp.org
+
+If these aren't worth your time, you can turn them off: https://www.freecodecamp.org/ue/eZV2T3gHC7IGcwcpYPG64

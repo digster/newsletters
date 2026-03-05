@@ -1,0 +1,25 @@
+---
+subject: "My Conversation with the excellent Jennifer Pahlka"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2025-04-11 04:23:51
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+Here is [the audio, video, and transcript](http://marginalrevolution.com?action=user_content_redirect&uuid=afc8bc9a713ed1e58614102bc5bbda93b011cc547df671456842de67ca69577c&blog_id=42693868&post_id=90420&user_id=262258391&subs_id=225460721&signature=c3945f29105201647ae448fd08209c1e&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly9jb252ZXJzYXRpb25zd2l0aHR5bGVyLmNvbS9lcGlzb2Rlcy9qZW5uaWZlci1wYWhsa2Ev&email_id=b44998cf8d334944d34f3f85579429e6). Here is the episode summary:
+Jennifer Pahlka believes America’s bureaucratic dysfunction is deeply rooted in outdated processes and misaligned incentives. As the founder of Code for America and co-founder of the United States Digital Service, she has witnessed firsthand how government struggles to adapt to the digital age, often trapped in rigid procedures and disconnected from the real-world impact of its policies. Disruption is clearly needed, she says—but can it be done in a way that avoids the chaos of DOGE?
+Tyler and Jennifer discuss all this and more, including why Congress has become increasingly passive, how she’d go about reforming government programs, whether there should be less accountability in government, how AGI will change things, whether the US should have public-sector unions, what Singapore’s effectiveness reveals about the trade-offs of technocratic governance, how AI might fundamentally transform national sovereignty, what her experience in the gaming industry taught her about reimagining systems, which American states are the best-governed, the best fictional depictions of bureaucracy, how she’d improve New York City’s governance, her current work at the Niskanen Center, and more.
+Excerpt:
+COWEN: Does that mean we need something like DOGE? I’ve lived near DC for about 40 years of my life. I haven’t seen anyone succeed with regulatory reforms. You can abolish an agency, but to really reform the process hasn’t worked. Maybe the best iteration we can get is to break a bunch of things now. That will be painful, people will hate it, but you have a chance in the next administration to put some of them back together again.
+Maybe it’s just in a large country, there’s no other way to do it. We have separation of powers. The first two years of DOGE will seem terrible, but 8, 12, 16 years from now, we’ll be glad we did it. Is that possible?
+PAHLKA: I don’t know what’s going to happen. I do think this is the disruption that we’re getting, whether it’s the disruption we wanted. The question of whether it could have been done in a more orderly manner is a tough one. I just feel sad that we didn’t try.
+COWEN: Are you sure we didn’t try?
+PAHLKA: I don’t think we really tried.
+COWEN: The second Bush presidency, people talked about this, what we need to do. Al Gore — some of that was good, in fact,
+[reinventing government]. We’ve been trying all along, but this is what trying looks like.PAHLKA: Yes. I think reinventing government happened at a time when we were just at the beginning of this digital revolution. It was trying with a very 20th-century mindset. Fine, did well within that context, but we don’t need that again.
+We need 21st century change. We need true digital transformation. We need something that’s not stuck in the industrial ways of thinking. I don’t think we tried that. I think the efforts have just been too respectful of old ways of working and the institutions. There was really not an appetite, I think, for what I would call responsible disruptive change. Would it have worked?
+COWEN: Is there such a thing?
+PAHLKA: I don’t know. [laughs]
+COWEN: Say you’re approaching
+[USAID], where I think the best programs are great. A lot of it they shouldn’t be doing. On net, it passes a cost-benefit test, but the agency internally never seemed willing to actually get rid of the bad stuff, all the contracting arrangements which made American Congress people happy because it was dollars sent to America, but way inflated overhead and fixed costs. Why isn’t it better just to blow that up — some of it is great — and then rebuild the great parts?PAHLKA: It’s so hard to say. [laughs] I’ve had the same thought. In fact, before inauguration, I wrote about the Department of Defense. It’s the same thing. There’s a clear recognition by the people in the institution, as you saw with USAID, that this is not okay, that this is not working. It’s just strange to be in an institution that large where so many people agree that it’s not working, from the bottom to the top, and yet nobody can make really substantive change.
+Of great interest, obviously.

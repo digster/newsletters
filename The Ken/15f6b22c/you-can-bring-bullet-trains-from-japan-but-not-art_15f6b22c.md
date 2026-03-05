@@ -1,0 +1,18 @@
+---
+subject: "You can bring bullet trains from Japan, but not Artificial Intelligence"
+from: "The Ken <info@the-ken.com>"
+to: ""
+date: 2017-10-30 02:35:54
+labels: ["CATEGORY_PERSONAL", "IMPORTANT", "INBOX", "The Ken", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "IMPORTANT", "INBOX", "Label_8244464457792971031", "UNREAD"]
+---
+Good Morning Ishan,
+At The Ken we despise cliches. They’re lazy, overused and grating. For example, “paradigm shift”.
+But when it comes to AI (Artificial Intelligence), I’ve no qualms in resorting to a cliche. Yes, AI is a paradigm shift for humankind. And it’s only a question of when, and not if, that it becomes the construct using which we build anything. (Don’t believe me? [This graph](http://link.the-ken.com/wf/click?upn=HQSq6eeRV1xAVaGuFOahuM4f8pJYz4kzl-2FoKKzZAimt-2Fm5Z8gtJXwkCq2-2FyMr8OgzUlH06rw1a7XhtPw-2BGEiZl-2FmhZA3xZ-2FqcDnSkrxp1zsa-2BG1M5IsxpZfiM4kd44ifgIFqvIHxoPkl0fHqT1j77pv9P5rTsTY2QlbV7beU1Is-3D_S4jLOsNx-2Fv6Jev2nvow8b7P9pBCWGd8KNZfb200gkZLQNlXQHio0noZzXtsWoloZmPWeyZsh7a4QCV9ufwCUKi00jlBT0uEdvwYDMuVuqcOGAnPp96XvZZU00eEq89mVuGGDMb9ojIigLDqDmTYHJR73EfYiH6IYdRqsPSDULAG6-2FBJknZ3sJbee-2B-2BgeRfeG-2FMtSQwRcm1-2Fb-2Be2qfX9aogO-2B5S3bEVzW6xlrjzc1r2oe0nr95ZOtslmfPRsoRjJIJEZRUbMGeJYruh8pgma4jUxkxgLwK5CXr3-2FeKKxbL9T9PeVn8BHovYSk3CWbW5OH5Fajq8z7ejwOhzBVe-2B98MaJ1to5juWBr2UnCIkRe4lU-2BUBwbsZLlR0PF56rH04VDfwCM-2FFVWNPDPLclcRkq-2BGose8T0Fyp15NgvaFxp9WVM-3D) ought to convince you.)
+Sadly, India is not just nowhere in the race (there is an arms race for talent, data and resources), but it risks getting left out altogether.
+On the government's side, ministries are locked in turf battles with each other and are constituting “task forces”. Numerous fancy-sounding initiatives have been floated, but they are dying a slow death thanks to bureaucratic lethargy and lack of interest. Academia is frustrated because most of their proposals end up in cold storage.
+Meanwhile, large software companies are figuring out how to train hundreds, even thousands, of employees in machine learning so they can rent them out to the likes of Google. As Seema, the writer of today’s piece, says, "It’s reminiscent of the rush for SAP training 15-20 years ago, except ML training is perhaps 100 times more difficult.”
+I’d add, it’s also 200 times more short-sighted.
+Read Seema’s multi-perspective analysis of how India seems to be getting left out of the AI “paradigm shift”, even though its size, complexity and stage of development mean it has the chance to build its own AI-based solutions that aren’t mere transposes of those from the US or China. It's our FREE piece this week.
+"You can bring bullet trains from Japan, but not Artificial Intelligence” - [https://the-ken.com/you-can-bring-bullet-train-from-japan-but-not-artificial-intelligence](http://link.the-ken.com/wf/click?upn=HQSq6eeRV1xAVaGuFOahuPJgvL4fBFdN30MmU88saOfNGBuoWJbvZjQ7P1D8ZlrZ08TuCUpk1NdHRnPWq8ZXDtskoNfDXap8OM9nZISRHZwJNoGwloshkxoZdM4mygtvY2r2MEVWLPeMnoEpmdynEJ53ULdSdAOyitLLtSceENKMYIduEVWKyrQwmPXiUQv-2BuSUOahUS8q6DxiM7FiUUBw-3D-3D_S4jLOsNx-2Fv6Jev2nvow8b7P9pBCWGd8KNZfb200gkZLQNlXQHio0noZzXtsWoloZmPWeyZsh7a4QCV9ufwCUKi00jlBT0uEdvwYDMuVuqcOGAnPp96XvZZU00eEq89mVuGGDMb9ojIigLDqDmTYHJR73EfYiH6IYdRqsPSDULAG6-2FBJknZ3sJbee-2B-2BgeRfeG-2FMtSQwRcm1-2Fb-2Be2qfX9aogahqtbizIEi6DINMIDCJk-2FsdSBJ6mJO9BdjeiKdWJS30iwF-2Bk5QT7wD1TtvwbKYCM3P-2FkEfl4ELRiOA4cSuqaeKWZ2ZW2-2FQQ3xdX8VnbJIKhjNZpN-2BLeFV00S4AiGwELIJw1aDquyDies3PBQPd-2FIN8LdbaHzCBjcKOOne2cwNZ836RrqSH-2B9td0yCwAF3kBTWSqxSSoQhU9qC67l2ev5A-3D)
+This email was sent by: The Ken

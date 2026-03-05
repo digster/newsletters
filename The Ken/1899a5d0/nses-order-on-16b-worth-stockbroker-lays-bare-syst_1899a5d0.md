@@ -1,0 +1,21 @@
+---
+subject: "NSE’s order on $1.6B-worth stockbroker lays bare systemic rot"
+from: "The Ken <info@the-ken.com>"
+to: ""
+date: 2023-07-28 02:38:56
+labels: ["CATEGORY_PERSONAL", "INBOX", "The Ken", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_8244464457792971031", "UNREAD"]
+---
+Good Morning Ishan,
+Fighting with one hand tied behind your back can’t be easy. Especially if the hand is your sword arm in a fierce battle for market dominance.
+Angel One, India’s third-largest stock brokerage, should know. On 14 July, the National Stock Exchange of India (NSE)—a first-line regulator for stock brokers—incapacitated Angel One, so to speak. The exchange barred the broker from onboarding new authorised persons (APs) for six months and directed it to inspect all its APs.
+It’s a body blow. APs, essentially sub-brokers, have been the driving force in Angel One’s surreal growth over the past few years since the pandemic. A massive jump in its number of APs—to more than 22,000 as of June—saw clients gush in from non-metro locations. Angel One catapulted up the broker league tables, and its profit grew 10X in three years to Rs 890 crore ($108 million) in the year ended March 2023.
+All this is at risk now—a chain of events that started in 2018 exposed the chinks in Angel’s AP armour and has now culminated in the NSE cracking the whip. Essentially, a chunk of Angel One’s APs were playing fast and loose with the rules, and the principal has been held responsible for its agents’ failings. The findings laid bare, among other things, the broker’s inability to maintain records of client orders. There’s a price to pay for all this.
+Angel One is in the spotlight for the wrong reasons—its track record adds to its troubles. But the rot runs deep and across the broking fraternity, say industry sources. More regulatory action could come, they indicate.
+The devil is in the details, not just for Angel but also for the entire industry. Kaushal digs into these and more in today’s well-researched story.
+Read it here: [https://the-ken.com/story/nses-order-on-1-6b-worth-stockbroker-lays-bare-systemic-rot/](https://the-ken.com/story/nses-order-on-1-6b-worth-stockbroker-lays-bare-systemic-rot/?utm_source=daily_story&utm_medium=email&utm_campaign=daily_newsletter) (9-minute read)
+Regards,
+Anand
+[anand@the-ken.com](mailto:anand@the-ken.com)
+What you just read is the personalised daily introduction to The Ken's story. Written by a different person each day. Often insightful, sometimes witty, and very rarely boring. Someone sent this to you? [Sign up for free](https://the-ken.com/?modal=register&utm_source=footer&utm_medium=email&utm_campaign=morning_email_ind). [Dont like these? You can unsubscribe](https://link.the-ken.com/asm/unsubscribe/?user_id=2349339&data=RztCqAiobIyAaLJtjZa2Tw3cqYyGrEvRwtAhbAvQXeBoMDAwdTAwMNPotT54zPpN0e7PeCt_DaTdiRH6RSujTgI5HV4bl8m18DRconn_R9UkQkmlFgtl2rlxwBfC0bt4FLLnqMQTSn0FYPOV8NaVY623ltGh-6AH1DKI8_m9K2Z6b81O5tGaORPAC7saJOcG3GNeU-SRCa3EWTAATJ5z1wON1iN022HFWocO6b4MxFauSg0_4T-sBgiyVkA_mfLgdfVanEualUuHXx7MSoUqqlhrmh9MM71nwYAtHm03JifzrU4FIyNNzONEt5iCwgrQuq5IQ5FI3uC4VcGfrG2fN4v4ejcaYSM68OcXeg5XW8qhyZk0_RFYyzD9An9fgeHGhBTBF-tCy8dIQK-1lY1tzLrTYE_CZf7IhUpEZgwE2DuEpBQDSIRbONE5TZskgzF09YY8pKd_1STvX-NgHDBRmYltrhJEh9wiNvu1049GmcuMetSLqhq9xvF8bc5oY3O2SuU6PKNW2iVZRR64YpTtklvT8rOc9NjUiTJ6RDTPaj0nVIxciyKS0Xgca9iv4iAu-MgzhBkflm4=) Dont want to hear from us again? [ Unsubscribe from our emails here](https://link.the-ken.com/asm/?user_id=2349339&data=IQkU7yzZ5BRiW5OR8jIPa9w_09zU13gpM82kxYWM6iFoMDAwdTAwMCPfCFKTqNRov4NCZesnsCYdmfIKDOKl1cGdQ3Lhm2-Sl1N8XN2JK-wkvioYcaOMd8_UAi3UqunBeYWAgRT8SijoQw9mJR7K4OH2sVOYDPs1Z2AhUSGuI-y2v-FhxvuQRuxvhYHOxar3ie-aOWSzZFc_w0pa8vbyhjZvmvEMRtp3L36PMUfs-JlqUJJ7M-i_WUeADjYTU74Cg3dFomeWcEY5Hd504SclR9H8RGN3QKi2CaG6puk5Jq_LndaX5B058oRVqXbSWEpRuBEOjVH1EHLWBm9SBDjoR6vdr8H01U-W6ZQGIr27YD_SI2j3KyYFRGahzPmfrWwE5ZlrZwIY5tkFanIt9CM5cr4CFe7PisRuOaP56_Zv4fvMWeWw0ODM1Q0aIonnXj9hOHPQWsQMpjggBFMFGpZhf-uYUufPhmKKFWoIsOH8CfzdXBj0r8MZoH2a3uR77pQZo-N1ApMU9coVp-XvhyyRKmkIX8uHZ58AvN3qn_geSQMRz51HDIBX4A==).
+Something wrong? Tell us at [support@the-ken.com](mailto:support@the-ken.com)

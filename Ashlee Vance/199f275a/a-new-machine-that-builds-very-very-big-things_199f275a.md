@@ -1,0 +1,9 @@
+---
+subject: "A New Machine That Builds Very, Very Big Things"
+from: "Ashlee Vance from Core Memory  <ashleevance@substack.com>"
+to: ""
+date: 2025-10-17 13:56:46
+labels: ["Ashlee Vance", "CATEGORY_PERSONAL", "INBOX", "UNREAD"]
+label_ids: ["Label_4216359091400734623", "CATEGORY_PERSONAL", "INBOX", "UNREAD"]
+---
+It’s Part Two of our tech road trip through Tennessee, and we’ve got something that I’m quite sure you’ve never seen before. Our crack research team led us to the start-up The hardware can build almost infinitely large parts out of composites like fiberglass and Kevlar. This is thanks to some chemistry developed at Stanford and refined at Perseus that lets the start-up shape and cure parts on-the-fly as it drags them through its odd contraption. It’s early days for Perseus, and I’ve been burned by many new age manufacturing start-ups that never quite lived up to their billing. Still, this thing got me excited because it’s so different from anything I’d ever seen. It simply does things traditional manufacturing cannot do. The start-up, in effect, wants to use its hardware to bring manufacturing on-site to where an object will eventually live. Think building long segments of a bridge right where the bridge will go or crafting wind turbine blades right at the wind farm. What you’ll see in the video is their first crack at this machine. And it’s the Breaking Bad version. It’s easy enough to imagine a more refined version of the machine with tons of automated actuators performing more sophisticated, larger builds. At least, I could imagine it. Also in this episode, we show you the best biscuits in Knoxville courtesy of If you missed Part One of our journey, it’s Thanks, y’all. Hopefully, you enjoyed this story. If so, please share it and subscribe to Core Memory. We want to do more of this for you and need your help. Thanks! |

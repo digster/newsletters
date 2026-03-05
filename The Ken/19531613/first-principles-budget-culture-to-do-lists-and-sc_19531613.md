@@ -1,0 +1,115 @@
+---
+subject: "First Principles: Budget culture, to-do lists, and scarcity mindsets"
+from: "The Ken <info@the-ken.com>"
+to: ""
+date: 2025-02-23 05:56:47
+labels: ["CATEGORY_PERSONAL", "INBOX", "The Ken", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_8244464457792971031", "UNREAD"]
+---
+|
+|
+First Principles
+Sun, 23 Feb 25
+A community-powered Sunday newsletter on mental models, self-reflection, learning, growth, photos, books, and more.
+Good Morning Ishan,
+Let me start with a confession this Sunday morning: I’ve always been terrible at budgeting. Not only does it not come naturally to me, I actively despise it. After numerous attempts in my younger days to impose financial budgets, goals, and tracking in my life, I gave up. I’ve never regretted it one bit.
+Which is why my brain perked up when I came across this recent post featuring the author of a book that [critiques “budget culture”](https://annehelen.substack.com/p/the-case-against-budget-culture).
+“I think less about tactical steps to achieve elusive financial goals and much more about how our culture of money affects the decisions we make about our long-term paths and day-to-day lives. I call the dominant approach budget culture, because it’s rooted in the restriction and shame inherent in budgeting behavior. But, just like diet culture, it’s not about the act of budgeting; it’s about the cultural posture that makes budgeting seem like useful and necessary behavior.
+I also do not enjoy to-do lists, which are for me in the same behavioural space as budgets. Outside-in, controlling, normative, and most importantly, scarcity-driven.
+We’ll talk about that this edition. I have a feeling I’m going to tick off a few of you today.
+But before we get to that, here’s a photo of a Pongamia tree’s spring foliage a few buildings down from The Ken’s offices. Spring is here!
+The desert rose (Adenium) plant on my office desk is full of mature buds. Outside, Bengaluru’s “cherry blossoms”, the [pink Tabebuias](https://www.cntraveller.in/story/why-is-bengaluru-bathed-in-pink-trumpet/), are also in bloom. Each afternoon, our post-lunch café visits take us past many of these fantastic trees that (alas) seem to have gone from budding to shedding mature light pink blossoms on those who are walking past, all within the space of about a week. I seem to have completely missed the flowering period when the blossoms are still deep pink. Perhaps it’s because of our perennially earlier and hotter summers.
+Here’s what we have for you today:
+1. Budget culture, to-do lists and scarcity mindsets
+2. Community comments 💬
+3. Revisiting the antilibrary 📚
+4. Living stone 📸
+[Pro tip: This email is a highly abbreviated version, since many email clients impose restrictions on the amount of material we can publish in a single email before intervention. In fact, it’s likely some email clients may even clip this truncated email.
+The best way to experience this edition is to read it on our [website or app](https://the-ken.com/newsletter/first-principles/budget-culture-to-do-lists-and-scarcity-mindsets/), where all sections are featured in full and unabridged form.
+Also, if your default setting is to not show images within emails, please consider turning it off for this newsletter. Or else, you’ll miss many of the interesting images and photos we carry each Sunday.]
+Let’s start with [“budget culture](https://annehelen.substack.com/p/budget-culture-and-the-dave-ramseyfication)”.
+Budget culture is the damaging set of beliefs around money that rewards restriction and deprivation — much like diet culture does for food and bodies — and promotes an unhealthy and fantastical ideal of financial success.
+In the same way diet culture is quick to blame health conditions on a person’s weight, or prescribe food restriction as treatment toward the goal of being thin, budget culture sees measures like credit scores and debt as signifiers of financial health, and prescribes spending restrictions as the first step toward wellness — defined, at its core, as being (on the way to becoming) rich.
+I can see the point she’s making. But the one that really spoke to me [was this](https://annehelen.substack.com/p/the-case-against-budget-culture).
+But budgeting and budget culture are actually ways of being controlled through self-monitoring, the judgment from people around you and the apps you use to measure your behavior. Offloading your financial decision-making to a budget and a set of economic goals you didn’t choose undercuts your ability to intuitively decide how to work and use money to live the life you want.
+“Being controlled through self-monitoring.” That’s the space “To-Do Culture” operates in too.
+I’m not talking about the act of merely making lists, including to-do lists. None of us have infallible memories or infinite attention spans. Writing things down in the form of a note or list is a no-brainer.
+Instead, I’m talking about being obsessed with to-do lists so much that you let them run your life. That’s a mistake, because, well, to-do lists are a terrible way to plan, prioritise, or work. “They’re simply setting you up for failure and frustration,” argued Daniel Markovitz [in the Harvard Business Review](https://hbr.org/2012/01/to-do-lists-dont-work) way back in 2012. He listed five fundamental problems:
+The paradox of choice: Looking at the 58 items on your to-do list will either paralyze you or send you into default mode: checking email for an hour instead of doing real work.
+Heterogeneous complexity: When your list contains some tasks that are three minutes long and some that are 33 minutes, you’ll invariably focus on the shorter one for the psychological payoff and dopamine release that comes from crossing an item off your list.
+Heterogeneous priority: When your list comprises items of varying priorities, you tend to take care of the “A” priorities and let the “C” priorities lie fallow…until it becomes an “A” priority itself.
+Lack of context: To-do lists don’t provide sufficient context for the tasks to help you determine what you should work on.
+Lack of commitment devices: To-do lists don’t prevent you from choosing the most pleasant tasks over the most important (and often most difficult) ones because they lack “commitment devices” that lock you into a course of action that you might not otherwise choose.
+But my problem isn’t the lack of effectiveness of to-do lists. It’s what they do to us.
+How often do you start the week with a feeling of dread, because you have so many items on your to-do list? How many times have you felt you would do interesting and ambitious things once you had sorted through your pending to-dos?
+It’s this defensiveness and stress and timidity that, over time, compounds and becomes self-serving. It turns us into meek slaves of our ever-growing to-do lists, unable to imagine a life where we were in charge of our own time and energy. It’s a self-reinforcing loop.
+Here’s a [wonderful and expansive critique of to-do lists](https://www.nirandfar.com/todo-vs-schedule-builder/) from Nir Eyal, the born-again (my phrase) critic of habit-forming products. His first book, [Hooked](https://www.goodreads.com/book/show/22668729-hooked), celebrated habit-forming products. His second book, [Indistractable](https://www.goodreads.com/book/show/44595007-indistractable), did a complete u-turn and advised people on how to take back their attention and agency.
+As I described in my book Indistractable, several studies have found that behavior change requires identity change. That is, long-term adherence to a new set of actions necessitates seeing ourselves differently.
+If you want to get in shape, you can’t give up one month after setting a New Year’s resolution. You must see yourself as an athlete, so you can commit to exercising for the rest of your life. If you want to effect social change, don’t just vote; be a voter. If you want to stop procrastinating and you find yourself frequently distracted, don’t make promises to yourself you’ll later break; be indistractable.
+The difference may seem minor, but several studies have shown we tend to conform to our self-image; identity precedes behavior.
+What kind of identity does an ever-incomplete to-do list reinforce? Though there haven’t been direct studies, one can infer from existing research that it isn’t a positive one. Having a constant reminder that you didn’t do what you said you’d do cements a self-stereotype. We begin to see ourselves differently. Day after day, week after week, year after year, the fact that we don’t do as we say takes a toll.
+At this point I want to zoom out and circle a larger point that connects living life under budget cultures or to-do cultures. This might seem like a stretch to many of you, and I won’t disagree if I were in your place too, but I feel both budgets and to-do’s are symptomatic of a “scarcity mindset”.
+The phrase [derives from behavioural economics](https://www.thecrimson.com/column/a-time-for-new-ideas/article/2020/5/1/gilbert-breaking-down-scarcity-mindset/) research into how poorer, less privileged people act when surrounded with constant constraints.
+But its ramifications go wider than that. Seeing the world constantly through limitations and scarcity (too little money, too little time) makes us timid, greedy, and non-cooperative. We see everything as a zero-sum game.
+We make decisions based on rules and constraints set upon us from the outside. We optimize our time based on external definitions, like, say, wealth or productivity.
+The opposite approach is one where we see the world and possibilities through the lens of [abundance](https://review.firstround.com/the-remarkable-advantage-of-abundant-thinking/).
+You’re not going to build a billion dollar business on a string of bad days. It has to be a sequence of your very best days,” she says. “Your performance is tied 100% to your attitude.”
+The ideal attitude is what she calls Abundant Thinking — a mindset that gives you the creative agency and grit to reach your vision — and, on a daily basis, to design your own life. When Verresen first meets most of her clients, they’re in reactive mode. It’s like they’re in a movie, acting in their job and life without knowing the script or having perspective. Her goal is to put them in the director’s chair, with more choices, perspectives and possibilities to rewrite and upgrade the script as they go.
+Seeing the world as possibilities instead of constraints is the essence of an “abundance mindset”. In such a world, you’re not on the defensive trying to constantly cope with impossible odds. Instead, you’re approaching each week with an open mind, wondering what task would give you joy or what activity would generate maximum impact.
+It’s one of the foundational principles in “[Slow Productivity](https://www.goodreads.com/book/show/197773418-slow-productivity)”, author Cal Newport’s most recent book. (Newport also wrote [“Deep Work”](https://www.goodreads.com/book/show/25744928-deep-work).)
+PRINCIPLE #1: DO FEWER THINGS
+Strive to reduce your obligations to the point where you can easily imagine accomplishing them with time to spare. Leverage this reduced load to more fully embrace and advance the small number of projects that matter most.”
+Longtime reader Hari Shenoy replied from Dublin to last week’s edition on [Writing](https://the-ken.com/newsletter/first-principles/is-writing-thinking/?utm_source=ro_hdr&utm_medium=email&utm_campaign=fp_newsletter). He offered me four lines from one of his upcoming tracks (he’s working on a music album) called Writer’s Block:
+I unlock the key,
+And I set myself free
+Then these words keep pouring
+Straight out of me
+I no longer hesitate
+Though I don’t have a clue
+I don’t know what I’m writing
+Till I get to see it through.
+Srivathsan Aparajithan [has a new book out](https://notionpress.com/in/read/mission-possible/) titled “Mission Possible Paving the Road to Universal Health Coverage”:
+“Rising affluence is triggering an explosion in lifestyle diseases, driving spiraling growth in healthcare costs and loss of productivity. If this is not checked there is a serious danger of India not realising its economic goals. The provision of healthcare to all Indian citizens, regardless of ability to pay, is a must if we are to avoid this danger. This raises the question – is Universal Health Coverage (UHC) feasible for a large middle-income country like India?
+The authors have deconstructed the healthcare system as it exists today – wasteful, expensive, and inefficient – to propose an alternative model that is both affordable and high-quality. The ideas presented here may look outrageous when viewed through the prism of what has been the norm, but the authors demonstrate the feasibility of the changes they propose by providing concrete examples of how the changes would work. UHC is within India’s means if the political will to implement radical change of the kind described in this book can be mustered. Health for all citizens is not an option but an imperative for a just and thriving republic.”
+And Sandeep Gautam, our resident poet, sent another sonnet inspired by our Writing edition:
+Why Do You Write, Mr Anderson?
+Writing shows a mirror, to the existing social milieu,
+Forces us to reform and change, bids archaic customs adieu.
+The poet with his play of words, leaves us pumped and charged,
+Paints the world with a fresh color, makes the canvas enlarged.
+Writing is content in a corner, its purpose to introspect,
+Helps us express our feelings, makes us broody and circumspect.
+The poet with his clarity of words, leaves us touched and moved,
+By sharing his transformative journey, ensures the reader is improved.
+Writing builds a bridge, ensures attuning and resonance,
+You are able to drill deep, where there wasn’t a precedence.
+The poet with his barbs of words, helps us empathize and connect,
+By bonding one human with the other, has the desired affect and effect.
+My poetry hurts and heals, it’s a therapy for the world and me,
+As I cure the world of its maladies, in the process I’m repaired for free.
+Sandeep’s blog: [https://thefoolsquest.blogspot.com/p/flotsam-and-jetsam.html](https://thefoolsquest.blogspot.com/p/flotsam-and-jetsam.html)
+Hello Ishan, it’s Hari here with this week’s books section.
+Introducing the idea of a self-confessional [antilibrary](https://the-ken.com/newsletter/first-principles/leaning-into-procrastination/) is how I started as one of this newsletter’s writers. And over these months, I have continued my relentless quests to Bengaluru’s great many bookstores. Some have cosy cafes attached to them, and some are just… well, bookstores, filled with books from wall to wall, floor to ceiling. Every time I visit one, I walk back home with a copy or two to add to my to-be-read list.
+When? Well. The fact I don’t usually know the answer to that question is why my antilibrary has grown that much bigger over these months. To save myself the embarrassment, I’ve pulled out a few books from the shelf even as I put more in.
+The embarrassment I feel when I look at my bookshelf is old news, but one change that is visible is the number of non-fiction books that have crept in. Just last week, on a late-night book hunt, I picked up a copy of [The Hidden Life of Trees](https://www.goodreads.com/book/show/28256439-the-hidden-life-of-trees), a book that’s already been featured in our reader recommendations.
+Maybe I’ve just had a change of taste, but I doubt it. I’m well aware that fewer people devote time to reading these days, and those who do prefer non-fiction. This short piece from [The New York Times](https://www.nytimes.com/2018/11/16/books/review/low-sales-fiction-best-seller.html) sums it up quite nicely. And if I zoom out and look at the larger picture, I get why non-fiction is selling better than ever—our reality now is perhaps more entertaining than fiction could ever be.
+But fiction or non-fiction, our reader community has never been short of interesting recommendations every week.
+Here is this week’s roundup. You can, as always, send in your own recommendations using [this link](https://theken.typeform.com/FPBooks).
+1. [How Will You Measure Your Life?](https://www.goodreads.com/book/show/13425570-how-will-you-measure-your-life) by Clayton M. Christensen
+“Sometimes, we’re so busy and lost in our daily lives that we fail to take a step back and ask what the point of all this is. The book ‘How Will You Measure Your Life?’ clears one’s lens to look at life more completely. Spoiler: If you’re a parent, you have to check it out!”—from Tushar Kumar
+2. [Gunahon Ka Devta](https://www.goodreads.com/book/show/3282557) by Dharamvir Bharti
+“Gunahon Ka Devta is such an honest and pure love story, capturing emotions that feel rare in today’s world. Set in early 20th century Allahabad, while India was a British colony, it draws you into a world of selfless love. As you turn the pages, you would forget about the real-world worries and finish the book with tearful eyes.”—from Tanya
+3. [The Many Lives of Syeda X](https://www.goodreads.com/book/show/216567502-the-many-lives-of-syeda-x) by Neha Dixit
+“This book took me through an emotional roller coaster. It gave me a glimpse into the lives of the other India we often find difficult to understand. Years ago, I read the book Whole Numbers and Half Truths by Rukmini S, which talks about India through numbers. While I read the book, it was easy to see how unrepresentative I was of the Indian majority. This book dives deeper into the lives of this majority that we can never understand. I usually stay away from generalizations based on anecdotal stories. Yet this book and the lives it talked about were hard to ignore.”—from Lakshmi Selvakumaran
+Hello Ishan, welcome to another edition of First Principles Silent Sunday. It’s Jonathan here as always.
+This December, I got to reprise a trip that—25 years ago—rewarded me with my first encounter with truly epic historical architecture. My dad, who has spent much of his working life erecting sugar factories in Karnataka, wanted to revisit some of his past triumphs. And my wife, my mother, and I found the prospect of a whole week spent ogling centuries-old temples and forts a more than sufficient bribe to jump into the car with him.
+The last time I’d done this circuit—Talakad-K R Sagar-Belur-Halabeedu—sugar factories had jostled for itinerary space with temple architecture (my dad was site-hopping then too). But I do not complain, because then as now, twelfth-century Hoysala architecture—Belur and Halebeedu in particular—made it entirely worth it.
+I’ve been wanting to share some of the pictures I took on the trip for a while now; this is me finally getting around to it.
+Chennakesava Temple, Belur
+Hoysaleshwara Temple, Halebeedu
+I don’t for a minute doubt that the rest of you also have great pictures of historic sites and architecture, so do send them to us [using this link here](https://theken.typeform.com/fpsilentsundays). I would love to feature them in a special issue some time in the next few weeks.
+For now, here are all our subscriber contributions for this week. Please switch over to our [website or app](https://the-ken.com/newsletter/first-principles/budget-culture-to-do-lists-and-scarcity-mindsets/) edition to see them in full-size, uncropped form.
+That’s a wrap for this week. Before you go, if you know someone who might like this newsletter, forward us to them!
+Please write to fp@the-ken.com if there’s anything you’d like to share with us. Or leave a comment on our on-site edition. See you next Sunday!
+Regards,
+Rohin Dharmakumar

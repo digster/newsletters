@@ -1,0 +1,26 @@
+---
+subject: "Why are your stories about companies so negative?"
+from: "The Ken <info@the-ken.com>"
+to: ""
+date: 2018-12-28 02:35:38
+labels: ["CATEGORY_PERSONAL", "INBOX", "The Ken", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_8244464457792971031", "UNREAD"]
+---
+Good Morning Ishan,
+That's a question we get asked often.
+The answer is simple. They aren't.
+Confused? Let me explain.
+Earlier this year, shortly after I joined The Ken, I found myself in my first editorial meeting. It was something I was always curious about, especially since I was an outsider. Reporters came up one by one, and pitched their stories. Which led to discussions. And questions. And answers. And more questions. At the end, some pitches were given a go-ahead, others were asked to come back with a reworked pitch, and others were flat-out rejected. It was an instructive process. Surprisingly thorough. And one question kept coming up again...and again. Every reporter at The Ken knows this question. They prepare for it. Without fail, it's the one question they get asked every time they pitch a story.
+What is the conflict?
+It took me a while to appreciate it. No company is built without conflict. Sometimes it's in conflict with incumbents, or with upstart competitors. Sometimes with regulators, or with the market. And sometimes, even with itself. Conflict is central to understanding what's happening, why it is happening, and how it will pan out. All of our critical analysis and insight emerges from here, and nothing is more valuable to our subscribers than that. A story about a company minus the conflict is essentially the About Us section on their website.
+Our penultimate year-ender is about how we covered companies in 2018. The pursuit to understand the conflict leads to a range of interesting outcomes. Sometimes, companies refuse to comment. In other cases, they issue a bland statement which can be paraphrased to 'Everything is fine. Nothing to see here. Go away'. We have told stories about companies from the inside. We have told them from the outside. We have told stories about companies that have fought and won. We have told stories where we believe they likely won't. To explain the conflict, we apply a critical lens, talk to multiple sources, report, understand, analyse, form our arguments and write. You can read it here: [https://the-ken.com/best-of-2018-companies/](https://the-ken.com/best-of-2018-companies/?utm_source=daily_story&utm_medium=email&utm_campaign=daily_newsletter)
+Our stories are about conflicts.
+Conflicts aren't negative. They are critical.
+Have a wonderful weekend. We will be back with our last year-ender on Monday.
+|
+What you just read is the personalised daily introduction to The Ken's story. Written by a different person each day. Often insightful, sometimes witty, and very rarely boring. Someone sent this to you? [Sign up for free](https://the-ken.com/?modal=register). Don't like these? You can [unsubscribe](http://link.the-ken.com/asm/unsubscribe/?user_id=2349339&data=VVRO7MBapEUVdOwjOaCnA8BhQ4mF2rSOK_ohuujlBscWXMGa9vF8rXU1q72OzlJfyWmFT78xE0ZLgeCFnrGNUU52tS-J7homn5-k3uCByIsL3LyHzOICsCG-ErOdwpmwOEulwoZRsjhS_BZYBO3_2nSSAgFz4dXe3Qe3_9ZHwS_01Fsn8_AsEgIQ368RgZqfFg1uIZ5BYi55LsAy49eE_3Cqv_I0jFkTlQmxv0kcvdo-miWWScabvJzSZkGF0x9TcUAe7zMFOUQc055mLH28qEOYAXwCDBig6tMz24SuV3XSYrYYFRoDNknctWLXOApwVK62v32Vu8LUhGmHoWPzIko2oR5DtzuHJAn5UOuNNtN8Am55AgnGMkmR2PNxY_X1EXvyg33No6mxCehiW7dQTUC2PC5bVuKbQDIB3gxVP3WGWAGReaJbriRW2OjHUglUF2FMtvYDu72cVmZU5T7LjTxGDKZsyG7nC123sK75cCA0WPf-2XAemxdceLqPC4KOBg1OJFPW4Zg0ZIpp-NNO6NVMTxXYMqWLrqmKgLlDGNs=). Want to manage your emails? Click [here](http://link.the-ken.com/asm/?user_id=2349339&data=HmL-NIehWt8vQCZMfjgbiOHWhefi3WU3epPpsZ6ovshQxP0ltjWHaqbNLNe2YI6TV9qXwUDulk-hufMCR_LwSrTBt1-XhhU6pnCB1A9N-78tNj9gxp9d2TqEoDqMJOsuml0pYzxvbtRrYLZst8xTVm1aleg-kfVKrf6LpcFH58-3ipZ-79N1v9hRNRUcTIIMjr-x62ZtljDNc2x81tApvMTNycmlbaHgYQ_ZakqzUPbaMfYD_Zx1ezzK3KndFgf0smqoqfHKnPc3aa5CXB92WovACK-ZJ2F2W1h4OR9lU1mHqxioi15DHTyRl4byqv_Tb8g4ZQe91NUjxKfOK6Rnx2klVVpWrCib4XbRoV9uAD4VmJsFBsASMaUZfN3T1XuLE5A_MPJCBuuMlwZtJ4KMr8qsFl3PX0xeonQbS6NW6sxnuUFV7AY3Z6Sl_3kVToNHvKsnXJSWqdLhBA6wCAs1QY5L0eH1p0UQxSABn26yk9Zy4RTsjeOPX9t4s0ERW2S8mRxOoSXf0-fQPyfCho2Mcg==).
+|
+|
+|
+|
+|

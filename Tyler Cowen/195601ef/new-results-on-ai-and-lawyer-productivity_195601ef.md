@@ -1,0 +1,11 @@
+---
+subject: "New results on AI and lawyer productivity"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2025-03-04 07:46:34
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+From [a new piece](http://marginalrevolution.com?action=user_content_redirect&uuid=c929dc905a80ab5c853dd459fb2b6b9807b7f411d057f4e67f6da113d6d9d017&blog_id=42693868&post_id=90192&user_id=262258391&subs_id=225460721&signature=8d69472145452084a8fb08d85bbbc50d&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly9wYXBlcnMuc3Nybi5jb20vc29sMy9wYXBlcnMuY2ZtP2Fic3RyYWN0X2lkPTUxNjIxMTE&email_id=48011953ddbb0121ab2d9890d9723104) by Daniel Schwarcz, et.al., here is part of the abstract:
+This article examines two emerging AI innovations that may mitigate these lingering issues: Retrieval Augmented Generation (RAG), which grounds AI-powered analysis in legal sources, and AI reasoning models, which structure complex reasoning before generating output. We conducted the first randomized controlled trial assessing these technologies, assigning upper-level law students to complete six legal tasks using a RAG-powered legal AI tool (Vincent AI), an AI reasoning model (OpenAI’s o1-preview), or no AI. We find that both AI tools significantly enhanced legal work quality, a marked contrast with previous research examining older large language models like GPT-4. Moreover, we find that these models maintain the efficiency benefits associated with use of older AI technologies. Our findings show that AI assistance significantly boosts productivity in five out of six tested legal tasks, with Vincent yielding statistically significant gains of approximately 38% to 115% and o1-preview increasing productivity by 34% to 140%, with particularly strong effects in complex tasks like drafting persuasive letters and analyzing complaints. Notably, o1-preview improved the analytical depth of participants’ work product but resulted in some hallucinations, whereas Vincent AI-aided participants produced roughly the same amount of hallucinations as participants who did not use AI at all.
+Of course those are now obsolete tools, but the results should all the more for the more advanced models.

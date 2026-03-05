@@ -1,0 +1,10 @@
+---
+subject: "The Historical Humility Edition"
+from: "\"Why is this interesting?\" <whyisthisinteresting@substack.com>"
+to: ""
+date: 2025-11-13 14:27:29
+labels: ["CATEGORY_PERSONAL", "INBOX", "UNREAD", "WITI"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "UNREAD", "Label_5752899537867939131"]
+---
+Enterprise customization at startup prices. Finally. Aboard builds business software that adapts to your processes, not the other way around. AI prototypes in minutes, expert engineers deliver in weeks. Custom CRMs, inventory systems, project trackers—without the enterprise bloat or timeline. Noah here. Back in 2022,
+It was called the Why is this interesting? The most common word in news coverage and conversations these days seems to be unprecedented. Whether it’s technology, culture, or politics, everyone is sure that this moment is different than all that came before it. And maybe it is, but, according to Gott, and history, and math, it’s almost definitely not. That’s not to say I would argue against the idea that things are moving faster than they ever have—I think that’s unequivocally true. My point is that at every moment of great change, of which there have been many, things were moving faster than at any point in history. To this point, I would venture to say that my most-shared article over the last fifteen years is In the end, my takeaway from all this is that we should all have a bit more humility. While things can certainly feel like an overwhelming swirl of culture, technology, and politics, that doesn’t make us special or this moment fundamentally unique. The story of history is the story of moments like these, and the onus for “this time is different” is always on the one making that claim. Spending a moment surveying that history may turn up some incredibly helpful precedent to understand and navigate our moment. I, for one, have found myself recommending people revisit the 1976 film Network. But then again, I’m an ever-waser. (NB) You're currently a free subscriber to |

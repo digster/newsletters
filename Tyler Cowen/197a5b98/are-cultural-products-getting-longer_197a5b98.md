@@ -1,0 +1,19 @@
+---
+subject: "Are cultural products getting longer?"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2025-06-25 06:14:49
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+Ted Gioia [argues that cultural products are getting longer](http://marginalrevolution.com?action=user_content_redirect&uuid=2c51792929bedfdbceb2b2c787cc5e009b2e406b747243fc8ab5e2f136c19804&blog_id=42693868&post_id=90960&user_id=262258391&subs_id=225460721&signature=390b9d2445c3b5f0d1472bf38df4dc01&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly93d3cuaG9uZXN0LWJyb2tlci5jb20vcC9hdWRpZW5jZXMtcHJvdmUtdGhhdC10aGUtZXhwZXJ0cz91dG1fc291cmNlPXBvc3QtZW1haWwtdGl0bGUmcHVibGljYXRpb25faWQ9Mjk2MTMyJnBvc3RfaWQ9MTY2NTQzNDIxJnV0bV9jYW1wYWlnbj1lbWFpbC1wb3N0LXRpdGxlJmlzRnJlZW1haWw9dHJ1ZSZyPTNvOSZ0cmllZFJlZGlyZWN0PXRydWUmdXRtX21lZGl1bT1lbWFpbA=&email_id=cd36b31e0dafa13e75478a2b69a4c7fe):
+Some video creators have already figured this out. That’s why the number of videos longer than 20 minutes uploaded on YouTube
+[grew from 1.3 million to 8.5 million in just two years]...Songs are also getting longer. The top ten hits on Billboard actually
+[increased twenty seconds in duration last year]. Five top ten hits ran for more than five minutes...I’ve charted the duration of [Taylor] Swift’s studio albums over the last two decades, and it tells the same story. She has gradually learned that her audience prefers longer musical experiences...
+I calculated the average length of the current fiction bestsellers, and they are
+[longer than in any of the previous measurement periods].
+Movies are getting longer too. Of course this is the exact opposite of what the "smart phones are ruining our brains" theorists have been telling us. I think I would sooner say that the variance of our attention spans is going up? In any case, here is part of Ted's theory:
+- The dopamine boosts from endlessly scrolling short videos eventually produce anhedonia—the complete absence of enjoyment in an experience supposedly pursued for pleasure. (
+[I write about that here](http://marginalrevolution.com?action=user_content_redirect&uuid=0359a35aedc02c2d0e6e100891e102f507e9e1a1e316fbec371899fa17ca1e42&blog_id=42693868&post_id=90960&user_id=262258391&subs_id=225460721&signature=f9217bc60f519c817ce101741ec1d740&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly9uYW0xMS5zYWZlbGlua3MucHJvdGVjdGlvbi5vdXRsb29rLmNvbS8/dXJsPWh0dHBzJTNBJTJGJTJGc3Vic3RhY2suY29tJTJGcmVkaXJlY3QlMkY1M2MzZTI4Yy05YTQ3LTRjNzUtYjk0Zi05ZTQ4YzA0MmUxZDUlM0ZqJTNEZXlKMUlqb2lNMjg1SW4wLkZZT1JxX0gtT0tMcG1kUmpCdWtISFp6VEo2Tk9GZndSeFluZ29qZUtET1EmZGF0YT0wNSU3QzAyJTdDdGNvd2VuJTQwZ211LmVkdSU3Q2FhZWEyYTcyZWUzZTQ3MmZhNDYyMDhkZGIzMzdiNGIzJTdDOWU4NTcyNTVkZjU3NGM0N2EwYzAwNTQ2NDYwMzgwY2IlN0MwJTdDMCU3QzYzODg2Mzc3NDAzNDk0MDU2MyU3Q1Vua25vd24lN0NUV0ZwYkdac2IzZDhleUpGYlhCMGVVMWhjR2tpT25SeWRXVXNJbFlpT2lJd0xqQXVNREF3TUNJc0lsQWlPaUpYYVc0ek1pSXNJa0ZPSWpvaVRXRnBiQ0lzSWxkVUlqb3lmUSUzRCUzRCU3QzAlN0MlN0MlN0Mmc2RhdGE9WVpGJTJGanZMREI0U3V4S2tZdTFrYnBOY0xsRUhqVloydEtmWWl4a3dBNEw0JTNEJnJlc2VydmVkPTA&email_id=cd36b31e0dafa13e75478a2b69a4c7fe).) So even addicts grow dissatisfied with their addiction. - More and more people are now rebelling against these manipulative digital interfaces. A sizable portion of the population simply refuses to become addicts. This has always been true with booze and drugs, and it’s now true with digital entertainment.
+- Short form clickbait gets digested easily, and spreads quickly. But this doesn’t generate longterm loyalty. Short form is like a meme—spreading easily and then disappearing. Whereas long immersive experiences reach deeper into the hearts and souls of the audience. This creates a much stronger bond than any 15-second video or melody will ever match.
+An important piece and useful corrective.

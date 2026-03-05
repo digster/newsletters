@@ -1,0 +1,18 @@
+---
+subject: "*Saving Can-Do*"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2025-08-13 05:06:33
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+The author is Philip K. Howard and the subtitle is How to Revive the Spirit of America. The book is short, to the point, in the "abundance + state capacity" genre. Excerpt, noting I will not double indent:
+"Three major changes are needed to restore the authority to achieve results: a new legal framework, a new institution that can inspire trust in ongoing decisions, and a special commission to design the details of these changes.
+New legal framework defining official authority.
+Here's a sketch of what a new infrastructure decision-making framework might look like:
+- Separate agencies should be designated as decision-makers for each category of infrastructure. The head of that agency should have authority to approve permits. For federal approvals, all decisions should be subject to White House oversight. For projects with national or reigonal significance, federal decisions should preempty state and local approvals.
+- Fifty years of accumulated mandates from multiple agencies should be restated as public goals that can be balanced against other public goals....a recodification commission is needed to reframe thousands of pages of detailed regulatory prescriptions into codes that are goal-oriented and honor public tradeoffs. But unti this canhappen, Congress should authoritze the executive brranch to approve permits "notwithstanding provisions of law to the contrary" -- provided the executive branch identifies the relevanto provisions and provides a short statement of why the approvals are in the public interest.
+- Processes should be mainly tools for transparency and should be understood by courts as general principles reviewed for abuse of discretion, not as rules requiring strict compliance. NEPA has been effectively rewritten by judicial fitat, so it should be amended to return to its original goals -- to provide enviromental transparency, public comment, and a political judgment.
+- The jurisdiction of courts must be sharply limited. Lawsuits should be allowed foro approvals that transgress boundaries of executive responsbility, not inadequate review of process, unless these are so deficient as to be arbitrary.
+Changing law is always politicall difficult, but the second challenge is perhaps even harder: creating new institutions that can inspire trust."
+TC again: All worth a ponder.

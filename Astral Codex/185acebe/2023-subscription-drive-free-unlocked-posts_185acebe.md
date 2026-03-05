@@ -1,0 +1,10 @@
+---
+subject: "2023 Subscription Drive + Free Unlocked Posts"
+from: "Astral Codex Ten <astralcodexten@substack.com>"
+to: ""
+date: 2023-01-13 20:55:28
+labels: ["Astral Codex", "CATEGORY_PERSONAL", "INBOX"]
+label_ids: ["Label_6409723252142624155", "CATEGORY_PERSONAL", "INBOX"]
+---
+Astral Codex Ten has a paid subscription option. You pay $10 (or $2.50 if you can’t afford the regular price) per month, and get: Extra articles (usually 1-2 per month) A Hidden Open Thread per week Early access to some draft posts The warm glow of supporting the blog.
+I feel awkward doing a subscription drive, because I already make a lot of money with this blog. But the graph of paid subscribers over time looks like this: That is, thousands of people bought subscriptions when I started the blog in January 2021, several hundred expired after a year in January 2022, and I expect several hundred more to expire this January. I make an embarrassingly large amount of money from this blog, but not so much that I can continue losing ~10% per year indefinitely. So even though I’m still getting an embarrassingly large amount, I figure I’ll start holding once-a-year subscription drives now instead of waiting until I’m actually needy. Please don’t feel guilted into buying a subscription unless you really want to and can easily afford it - again, the amount of money I’m making blogging really is embarrassingly large. Here’s a sample of some of last year’s subscriber-only posts, which I’ve unlocked for now to pique your interest: And here are the titles of the other, still-locked subscriber-only posts from last year: I asked Substack to remove their usual “please subscribe” popups and “teasers” of subscriber-only posts from ACX. I think this improves reader experience, but the consequence is that people don’t think about subscribing and I don’t get too many new paid subscribers. So please forgive me this one yearly post, and, if so inclined… In case you can’t access it through the blue button, the link for the student / financial-hardship discount is You're currently a free subscriber to |

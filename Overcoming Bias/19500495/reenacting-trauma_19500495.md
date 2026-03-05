@@ -1,0 +1,9 @@
+---
+subject: "Reenacting Trauma"
+from: "Robin Hanson from Overcoming Bias <overcomingbias@substack.com>"
+to: ""
+date: 2025-02-13 17:08:51
+labels: ["CATEGORY_PERSONAL", "INBOX", "Overcoming Bias", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_8616244883382228708", "UNREAD"]
+---
+So far I’ve watched 34 episodes of Couples Therapy, wherein Dr. Orna Guralnik does therapy with many real couples, though these are selected far from randomly from a larger set of possible couples. I’m impressed; the relations seem real, and Orna seems quite competent. To me, that lends weight to the main theory that Orna expresses to her clients, that we typically shape new relations as modest variation on prior relations. So if we had traumatic prior relations, this makes us especially likely to create the conditions for new similar trauma. Not only does this theory actually make sense of a lot of the relation problems we see on the show, the couples themselves see this theory as accessible and relevant to them. Which makes this theory especially useful, in addition to maybe being true. At first I was tempted to dismiss this theory as not applying to me, but on reflection I must recant. I was plausibly greatly influenced by being bullied and rejected by peers, and largely ignored by the authorities who officially rated me highly. I have plausibly reacted similarly later to folks I classified as like those prior folks, and that has likely shaped my relations with them. I guess I shall up my estimate of Freud, and read some of him; I’ve never read him before. You're currently a free subscriber to |

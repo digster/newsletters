@@ -1,0 +1,27 @@
+---
+subject: "4G rollout still keeps India’s telecom secy awake at night"
+from: "The Ken <info@the-ken.com>"
+to: ""
+date: 2023-05-25 02:38:44
+labels: ["CATEGORY_PERSONAL", "INBOX", "The Ken", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_8244464457792971031", "UNREAD"]
+---
+Good Morning Ishan,
+Much of rural India still finds itself trapped in Act 2 of a grand stage production, yearning for the wireless connectivity that their urban counterparts revel in during the exciting Act 5.
+To bring everyone on the same page (huh!), the government has to orchestrate an extraordinary symphony. Even BharatNet, one of the world’s biggest rural telecom projects, hasn’t been able to achieve the desired crescendo fully.
+Let me explain.
+The global wireless-connectivity story has unfolded in five thrilling acts. Act 1 was analogue cellular in the rad 80s. Act 2, in the innovation-led 90s, saw 2G burst onto the scene. In Act 3, 3G took centre stage by the late 2000s. In Act 4, entered 4G (or LTE), swiftly dethroning 3G.
+Act 5, then, became the pièce de résistance—the most distinct and significant of them all. Just before 2020, 5G made its grand entrance and changed the game forever.
+My 5G-supported phone now regularly processes data at a minimum speed that is 10X faster than what I saw in 2022. That is, until I visited my friend’s remote village in Himachal Pradesh a few months ago: barely any reception, and the internet speed was still in Kbps.
+The Indian government, therefore, is not yet ready to bid farewell to 4G: cheaper and easier to distribute than 5G. It launched a project to construct 18,000 towers and roll out 4G services in 30,000 uncovered villages. Or, as telecom secretary K Rajaraman puts it, “reach the unreached”. To complement the mobile network, the department of telecommunications is working on Phase III of BharatNet. The financial layout will likely exceed the combined cost of its first two phases, marking a milestone in the country’s history.
+This also means a chance at redemption for the state-owned telco BSNL, which will own and run the network, with help of private-sector players and an army of village entrepreneurs.
+Today, Rajaraman speaks to Pratap in a wide-ranging interview. A 1989-batch IAS officer, he has held many important positions in the government. Rajaraman talks about connecting the “last person” in India with 4G, the nation’s 5G dreams, accountability of telcos towards the quality of service, cutting down the cost of providing wired-broadband services, and further reforms.
+Here’s an interesting bit. On the criticism against India’s spectrum-auction strategy, he says: “…We set the reserve prices … [Then] we leave it to the market to decide. Essentially, our idea is to ensure that there is fair play … We haven’t got to a stage where we believe there should be another mechanism.”
+Excitingly, the conversation delves deeper, addressing topics such as Vodafone Idea’s obligations, incentivising new investors, and an intriguing question posed by Pratap: “Will the [4G rollout] project be opened up for a telco [Jio or Airtel] to bid?”
+This is a treasure trove of Rajaraman’s illuminating responses, expertly extracted by Pratap’s simple yet pointed questions.
+Sit back, relax, and immerse yourself; it’s a free read: [https://the-ken.com/story/india-eyes-us6-12b-pan-country-non-mobile-connectivity-network/](https://the-ken.com/story/india-eyes-us6-12b-pan-country-non-mobile-connectivity-network/?utm_source=daily_story&utm_medium=email&utm_campaign=daily_newsletter) (13-minute read)
+Dialling out,
+Sumit Chakraborty
+[sumit@the-ken.com](mailto:sumit@the-ken.com)
+What you just read is the personalised daily introduction to The Kens story. Written by a different person each day. Often insightful, sometimes witty, and very rarely boring. Someone sent this to you? [Sign up for free](https://the-ken.com/?modal=register&utm_source=footer&utm_medium=email&utm_campaign=morning_email_ind_shared). [Dont like these? You can unsubscribe](https://link.the-ken.com/asm/unsubscribe/?user_id=2349339&data=cWeeCzp30XOsyBa-oSCPzw0t38ETbYjmsxCM7I7TkidoMDAwdTAwMCV9kX-iDgsyY66ZL4q1TDHk42t6yCoXHUJ4hsQPA7KxPKs5k7aBC9Etvi4JEXLkVgO40eOTrbpd283AAjZguS4kLG0hX7tQcY12EBUMQ3Py75fZKQzEBk7Jsh5N7fr2QSM9Bq2e4TTbOE22YJ0WFMeX0S_ZmIQsn8IzI8wfBMtSvFpjg9_ZJ4C4vYav6tmEnm2GULupXcA2ROcki_xKWDCLfbKynEQZFQON3ok-o_zaUhSupKBqO2QbXwEhl46KxtPbfELvzrdF8c07v39qCYWxLy6rii0JS7W_5oA9xnrzTOznCOuy_IAzOlM3rXR2n8tj_6YG83MvPfQAvvQhpyP1d3nkEXmjhWGi3AvWbrm_Bs7t4oHDrQmokVisUCvywhJSSQhfC9RdcFqIJE4jLAvdyKxQ2NNCa1fcG1kFrlEpd1polHVREDghLzffVS8UdrEkchFn0nlmCyZK5KhP9LDq6TYNt7hKjuIPHm3oBeappCwfWLwBTCrTZz3-tOA6A6AdeGsZg2PL_BpxAiyhBdg=) Dont want to hear from us again? [ Unsubscribe from our emails here](https://link.the-ken.com/asm/?user_id=2349339&data=oqZm49F4Y1bla_0_jygL36clWP1owAfO5y4d-b4zZCFoMDAwdTAwMCPB2xgkK12OEO8MXtVDfRDD1im74Gg4EFm0AS28mZLjcZP6UnYBskMXsHxGDnvu8MeYSY_wC7iL__eiBWIhs9tM08T8MRlAyFtJo46pH7RQRr9Dg6rM2xq9ruKG4aCjIoIFIFZ2jE5I2QUyq3yla91CbHVXxWQ60zRXnPx1qdg3Ky6cj2to4yQi2r60di0NC0ASx1H_Frm63c5h-WEHH0Cbuf6Sl-p160nyuSMlEmCab5gvoETRhQxWiLW4_qfbWWXVim-pjJaTRUaexiriwZ27Bm93UlIczzmH3KPxqsmSAfDif5iWqguSYd3W_OW9OS8kGFavgDVHr7lXH7TQj3MA7CnLIkwK3prI1zuObxplk_VohG1bImeExriRLu_-sCZKWqeBaKmcfzdBVeotNbO0tzmscwuLCgtmByYzVZ9f7P2n2TjTuXonq25W-ZeDn0aEZjf_RKVaFUCFIC8Yk0rQNzQvm5-ygWYkK5x6EUwEOmityh5X70SPSuRPvgS8YQ==).
+Something wrong? Tell us at [support@the-ken.com](mailto:support@the-ken.com)

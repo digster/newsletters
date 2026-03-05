@@ -1,0 +1,11 @@
+---
+subject: "David Beckworth on stablecoins and stability"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2025-08-13 07:40:37
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+A key reason for the global financial cycle, as outlined by Hélène Rey, is that many firms and financial institutions in developing countries borrow heavily in U.S. dollars while their revenues, assets, and cash flows are denominated in local currency. When the Fed tightens policy, the dollar appreciates, global financial conditions tighten, and these firms suddenly find themselves squeezed by rising dollar debt burdens and falling asset values. This balance sheet shock forces cutbacks and retrenchment. This is one of the key channels through which U.S. monetary policy spills over globally.
+But what Rashad Ahmed noted in our dicussion is that if households and firms begin holding dollar assets via stablecoins—in addition to borrowing in dollars—they begin to build a natural hedge on their balance sheets. A stronger dollar no longer only increases liabilities; it also raises the value of their dollar assets, helping to offset the shock. In effect, stablecoins can act as a decentralized balance sheet stabilizer, muting one of the very mechanisms that drives global financial volatility.
+Here is [the full post](http://marginalrevolution.com?action=user_content_redirect&uuid=5ac291295f621792fb131daac2228c23f084056bcd329471a18f19ce13b9b300&blog_id=42693868&post_id=91269&user_id=262258391&subs_id=225460721&signature=4e9209fff1abdc1f15b6acbcb81ead42&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly9tYWNyb2Vjb25vbWljcG9saWN5bmV4dXMuc3Vic3RhY2suY29tL3AvdGhlLXJpc2UtYW5kLXJlZGVtcHRpb24tb2Ytc3RhYmxlY29pbnM/dXRtX3NvdXJjZT1wb3N0LWVtYWlsLXRpdGxlJnB1YmxpY2F0aW9uX2lkPTQzMDkxODgmcG9zdF9pZD0xNjYwMjk4NDEmdXRtX2NhbXBhaWduPWVtYWlsLXBvc3QtdGl0bGUmaXNGcmVlbWFpbD10cnVlJnI9M285JnRyaWVkUmVkaXJlY3Q9dHJ1ZSZ1dG1fbWVkaXVtPWVtYWls&email_id=25e6a8ec3574741733fc5835195fa296), featuring also a podcast on the topic.

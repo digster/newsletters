@@ -1,0 +1,19 @@
+---
+subject: "Literature needs young men more than young men need it"
+from: "Erik Hoel <erikhoel@substack.com>"
+to: ""
+date: 2024-12-11 16:20:22
+labels: ["CATEGORY_PERSONAL", "Erik Hoel", "INBOX", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "Label_2504961760700514996", "INBOX", "UNREAD"]
+---
+A recent provocation from the Times; another entry added to what’s become a recognizable and sure-to-trigger-controversy op-ed genre.
+David Morris, a creative writing professor, charges [headfirst into the breach](https://substack.com/redirect/4c4b4df8-e31c-43fd-9328-6aee480ab32f?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o):
+Over the past two decades, literary fiction has become a largely female pursuit. Novels are increasingly written by women and read by women. In 2004, about half the authors on the New York Times fiction best-seller list were women and about half men; this year, the list looks to be more than three-quarters women. According to multiple reports, women readers now account for about 80 percent of fiction sales.
+I see the same pattern in the creative-writing program where I’ve taught for eight years. About 60 percent of our applications come from women, and some cohorts in our program are entirely female. When I was a graduate student in a similar program about 20 years ago, the cohorts were split fairly evenly by gender. As Eamon Dolan, a vice president and executive editor at Simon & Schuster, told me recently, “the young male novelist is a rare species.”
+Now, plenty of people think this genre is overblown and reactionary. It has a long pedigree—heck, you can find pieces in Publishers Weekly 15 years ago asking “[Does the lack of men in publishing hurt the industry?](https://substack.com/redirect/b8bb8825-d985-426e-9798-fd1aceb87936?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)” (more recently, check out the “[The decline of the literary bloke](https://substack.com/redirect/d8986fdc-0b8b-417e-a3b1-2e5de0334894?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)” in The New Statesman).
+What I’m personally interested in is the common meta-opinion about why this is bad, and it’s the opinion that David Morris himself articulates: that the problem with young men not reading literature is confined to young men themselves. As he writes in the Times:
+In recent decades, young men have regressed educationally, emotionally and culturally. Among women matriculating at four-year public colleges, about half will graduate four years later; for men the rate is under 40 percent. This disparity surely translates to a drop-off in the number of novels young men read, as they descend deeper into video games and pornography. Young men who still exhibit curiosity about the world too often seek intellectual stimulation through figures of the “manosphere” such as Andrew Tate and Joe Rogan… I think of 2024 as the “Fight Club” election, in which disaffected guys vented their frustrations and anxieties through a brawler who will one day reveal himself to be not their hero, but rather a figment of their imagination.
+(Rather ironic that Morris cites Fight Club to explain the election. If literature were so cut and dry, and its pages just made people vote Democrat, there wouldn’t be such an obvious literary reference from within to frame the entire issue!)
+Anyway, to the point: Morris thinks it bad for the polity if young men lack literature because…
+Novels do many things. They entertain, inspire, puzzle, hypnotize. But reading fiction is also an excellent way to improve one’s emotional I.Q. Novels help us form our identities and understand our lives.
+And herein lies the miss. While I do think young men should experience literature, and wish more would (let’s not oversell, it’s no panacea), in the long run I think contemporary literature needs young men more than young men need it...

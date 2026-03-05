@@ -1,0 +1,10 @@
+---
+subject: "The importance of the chronometer"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2025-03-19 18:18:14
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+The chronometer, one of the greatest inventions of the modern era, allowed for the first time for the precise measurement of longitude at sea. We examine the impact of this innovation on navigation and urbanization. Our identification strategy leverages the fact that the navigational benefits provided by the chronometer varied across different sea regions depending on the prevailing local weather conditions. Utilizing high-resolution data on climate, ship routes, and urbanization, we argue that the chronometer significantly altered transoceanic sailing routes. This, in turn, had profound effects on the expansion of the British Empire and the global distribution of cities and populations outside Europe.
+That is from [a newly published paper](http://marginalrevolution.com?action=user_content_redirect&uuid=33f1cb453b109ef6257e005769f1e2a2d21d5e142c717bedf0da521aef3617eb&blog_id=42693868&post_id=90284&user_id=262258391&subs_id=225460721&signature=e9d9bfc4949e42a7b003585086121a9e&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly93d3cuc2NpZW5jZWRpcmVjdC5jb20vc2NpZW5jZS9hcnRpY2xlL3BpaS9TMDAyMjE5OTYyNTAwMDIzNg=&email_id=44af6ed276ee443766ff2db37ec1ffab) by Martina Miotto and Luigi Pascali. Via the excellent [Kevin Lewis](http://marginalrevolution.com?action=user_content_redirect&uuid=9a727819ef1ca9034f4e347f1a9c716f3bbc8217330564506952330ff0f8de3b&blog_id=42693868&post_id=90284&user_id=262258391&subs_id=225460721&signature=d516cf3f7860007d768e76f180369862&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly93d3cubmF0aW9uYWxhZmZhaXJzLmNvbS9ibG9nL2RldGFpbC9maW5kaW5ncy1hLWRhaWx5LXJvdW5kdXAvbWVhc3VyaW5nLW1hbmFnZW1lbnQ&email_id=44af6ed276ee443766ff2db37ec1ffab).

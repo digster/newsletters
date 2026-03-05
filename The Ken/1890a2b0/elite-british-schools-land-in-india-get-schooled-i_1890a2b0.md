@@ -1,0 +1,23 @@
+---
+subject: "Elite British schools land in India, get schooled in local realities"
+from: "The Ken <info@the-ken.com>"
+to: ""
+date: 2023-06-30 02:38:58
+labels: ["CATEGORY_PERSONAL", "INBOX", "The Ken", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_8244464457792971031", "UNREAD"]
+---
+Good Morning Ishan,
+A little less than a year ago, the British Prime Minister Rishi Sunak, then a prime-ministerial candidate, said at a hustings event in London that if he came to power, he’d make UK-India relations a two-way exchange to aid education and business.
+Later, in September 2022, India gave its official nod to the India-UK MoU on mutual recognition of academic qualifications. To most education watchers, it implied a smoother flow of students for higher education. As it turns out, it’s the British schools that are running with Sunak’s idea—ahead of the universities or their counterparts in other countries.
+This year may well be the year when India’s education system internationalises.
+Harrow School, a 450-year-old institution from Greater London that has produced seven British and one Indian Prime Minister, besides a number of luminaries, starts its Bengaluru campus in August. Wellington College, Berkshire—UK’s leading day and boarding school—starts in Pune in September.
+As Alifiya reports today, apart from Harrow and Wellington, authorities from the UK’s largest co-educational boarding and day school, Millfield School, have been on a couple of exploratory trips to India. The US-based Rutgers Prep School also plans to set up four American Eduglobal Schools with an Indian partner.
+International brands and educational boards are not unfamiliar to Indian students and their parents. But a combination of new factors, including legacy, brand promise, and the sheer proportion of international faculty, make these new entrants stand out.
+What is fuelling this influx is not just policy tweaks. India’s rising affluent class and the fading charm of China—a preferred destination for many international school brands for the last decade—are also driving a bevy of international schools to Indian shores.
+But before they start their academic year, they’re having to learn some local lessons.
+When in India, do as Indians do? Alifiya has the story. It’s a free read; do share it widely: [https://the-ken.com/story/elite-uk-schools-land-in-india-get-schooled-in-local-realities/](https://the-ken.com/story/elite-uk-schools-land-in-india-get-schooled-in-local-realities/?utm_source=daily_story&utm_medium=email&utm_campaign=daily_newsletter) (10-minute read)
+Warmly,
+Seema Singh
+[seema@the-ken.com](mailto:seema@the-ken.com)
+What you just read is the personalised daily introduction to The Ken's story. Written by a different person each day. Often insightful, sometimes witty, and very rarely boring. Someone sent this to you? [Sign up for free](https://the-ken.com/?modal=register&utm_source=footer&utm_medium=email&utm_campaign=morning_email_ind). [Dont like these? You can unsubscribe](https://link.the-ken.com/asm/unsubscribe/?user_id=2349339&data=hLoaizPkRoIdlMAZreakMQ84H11Sh5nulNjkccUKY4poMDAwdTAwMPtmqQFN2vsLfHKoaie4akGIYI0Ng-2WrOViFHUmsrjRkZznej7IdX6WCa1agwlbxjc2C6G0h_iF3mXiA0AnTlLMZ0tYldNxorXk_WCh_EpFdiwQs3Pp6CFLGACiD87zEglaEdgkwYItJAM3HEge7-Fl4LB-UPMoqQJo1oYuo7JhDCuxFSKh4OmgESY6rnki6Bv-BvonWyRqE0QuTdXlCYcJupxiItUNbwfPyENBHtTN19WCqbpcsl9BjsBIuwYkNOFMGqfcMNR-uKaLJR6HKPpm_Axi0eWxeM0IAohXW2suUQQA3larhaVBu_tZeYwrhdKqiqyvLV3uF4K1W6xVGO2KQq8aQv1OP4FniMrQX42d-l_0tXk0wHYS3h2Mr_V30ZKPvOl67JUK4zXNwYEX91470bfxH1zxFpZx8h8EIPhSqgAUHN3X6WI5b_ShAPpnAiT0I13ta6Kju2ApkQ0uduuJng-BlRF0pQnT0Dy4wY8xXa2AS_UAdrUxFZ-L45giEQUygdiG6ICFe5LnKAhvnb4=) Dont want to hear from us again? [ Unsubscribe from our emails here](https://link.the-ken.com/asm/?user_id=2349339&data=nIDePRW7sejkaTfIZlWaaATLmeay0upEUV7K7egTD0toMDAwdTAwMFBTVpedm5Z8nV60675KrxwPwPzYg8yCAS5xd_QIWjjJdV4GLoG2jF7X_6q03MHjJGtbMaXTtvaqKOlv093Ap6h5Nx5YBnnHWvNw_339NV_h4gmvPTS9y6iFG7bUMwsWA6X2K3QQL1Qy-DzjrU9bQspfSgyKYcegOxDIP9UIi9Jbcnli2bEA0CIv5ULMxj-7a9newEb_wX-ylAIaZ9DsEW_2d_wGZ7NUGSRqnoX-KHc4N3CYwjrE0nNErxD3MPYBs_lWuWmE1jwyAHm96PNozyTyxWmbFHe5ec1jliHcTNuw7ETEgzl3llrZQn0KOFFXDUG2YhQ9DU-cTlwMFT2tLGnZKdeggnXp6uVIgqjJ4tJt65pBF8gcJ-ne1KInun3r0aamxchlng19sxPgE51o60pSaUSnaueDkK-_82z4JM8ZeH9dkuIvTaIMjXR3Itn__q5fcRrYbFlpRLvieLYknoGPG47Suwl1SRyuwBdDZ2ROdK7558RItpnocSi4ozAZ8g==).
+Something wrong? Tell us at [support@the-ken.com](mailto:support@the-ken.com)

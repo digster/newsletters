@@ -1,0 +1,10 @@
+---
+subject: "Enlightenment ideas and the belief in progress leading up to the Industrial Revolution"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2025-11-23 08:17:39
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+Using textual analysis of 173,031 works printed in England between 1500 and 1900, we test whether British culture evolved to manifest a heightened belief in progress associated with science and industry. Our analysis yields three main findings. First, there was a separation in the language of science and religion beginning in the 17th century. Second, scientific volumes became more progress-oriented during the Enlightenment. Third, industrial works—especially those at the science-political economy nexus—were more progress-oriented beginning in the 17th century. It was therefore the more pragmatic, industrial works which reflected the cultural values cited as important for Britain’s takeoff.
+That is from [a paper](http://marginalrevolution.com?action=user_content_redirect&uuid=6cd8281485009299b80a7bbcad072a66fb008d3b795dfcfae8a41a79dff8c468&blog_id=42693868&post_id=91916&user_id=262258391&subs_id=225460721&signature=b680625d16e6dda0dfa2ae1e09697502&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly9kaWdpdGFsY29tbW9ucy5jaGFwbWFuLmVkdS9lc2lfd29ya2luZ19wYXBlcnMvMzkzLw=&email_id=9ce1159b0c1e1355c8fcc9a2885e7d30) by Ali Almelhem, Murat Iyigun, Austin Kennedy, and Jared Rubin. Now [forthcoming at the QJE](http://marginalrevolution.com?action=user_content_redirect&uuid=f241b4e47a2290167c11bc7c7e5a8028c3882976023b8cdc114a32c866083dd1&blog_id=42693868&post_id=91916&user_id=262258391&subs_id=225460721&signature=ac457f34e0a83980b8dc92bd9e25416f&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly94LmNvbS9qYXJlZGNydWJpbi9zdGF0dXMvMTk5MTE4MTIzMjE2NDc0NTQ4MQ=&email_id=9ce1159b0c1e1355c8fcc9a2885e7d30).

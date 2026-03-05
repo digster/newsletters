@@ -1,0 +1,11 @@
+---
+subject: "Does Peer-Reviewed Research Help Predict Stock Returns?"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2026-02-03 08:16:28
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+Finance theory is in even more trouble than we had thought:
+Mining 29,000 accounting ratios for t-statistics > 2.0 leads to cross-sectional return predictability similar to the peer review process. For both, ≈ 50% of predictability remains after the original sample periods. This finding holds for many categories of research, including research with risk or equilibrium foundations. Only research agnostic about the theoretical explanation for predictability shows signs of outperformance. Our results imply that inferences about post-sample performance depend little on whether the predictor is peer-reviewed or data mined. They also have implications for the importance of empirical vs theoretical evidence, investors’ learning from academic research, and the effectiveness of data mining.
+That is from[ a new paper](http://marginalrevolution.com?action=user_content_redirect&uuid=08347f4607b1b3216c7bcadafc98b7a512bd1b60959e78a0f3077159e846aa95&blog_id=42693868&post_id=92360&user_id=262258391&subs_id=225460721&signature=a31f9b136b75e740d095f926ae9447d5&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly9hcnhpdi5vcmcvcGRmLzIyMTIuMTAzMTc&email_id=2123dbfd0e883ff92c9859a9a0e313c5) by Andrew Y. Chen, Alejandro Lopez-Lira, and Tom Zimmermann. Via [KingoftheCoast](http://marginalrevolution.com?action=user_content_redirect&uuid=d631b2c9f5c205f8607292a493462c3f2daa34b33e9be06aeb5253a78946022b&blog_id=42693868&post_id=92360&user_id=262258391&subs_id=225460721&signature=c5e2fd524bc5fbdbae45e3ea247d52e5&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly94LmNvbS9raW5nb2Z0aGVjb2FzdHQvc3RhdHVzLzIwMTgwNTk1MjA3NjE5MDEzNzQ&email_id=2123dbfd0e883ff92c9859a9a0e313c5).

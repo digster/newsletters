@@ -1,0 +1,11 @@
+---
+subject: "A new economic model of AI and automation"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2026-01-14 05:21:40
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+Here is but one part of the results:
+Given complementarity between the two sectors, the marginal returns to intelligence saturate, no matter how fast AI scales. Because the price of AI capital is falling much faster than that of physical capital, intelligence tasks are automated first, pushing human labor toward the physical sector. The impact of automation on wages is theoretically ambiguous and can be non-monotonic in the degree of automation. A necessary condition for automation to decrease wages is that the share of employment in the intelligence sector decreases; this condition is not sufficient because automation can raise output enough to offset negative reallocation effects. In our baseline simulation, wages increase and then decrease with automation.
+That is [from Konrad Kording and Ioana Elena Marinescu](http://marginalrevolution.com?action=user_content_redirect&uuid=00e1df708b34e5d1bef0786c1cc7283b4a13229cba2b2f7788be8fd4e6826130&blog_id=42693868&post_id=92235&user_id=262258391&subs_id=225460721&signature=768636955a6c6e8f7ab7b04e4b567db0&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly9wYXBlcnMuc3Nybi5jb20vc29sMy9wYXBlcnMuY2ZtP2Fic3RyYWN0X2lkPTYwNTE2OTQ&email_id=bf3ac8d43d7c441d2a4df596d1705589) of the University of Pennsylvania. I am very glad to see ongoing progress in this area. Via the excellent [Kevin Lewis](http://marginalrevolution.com?action=user_content_redirect&uuid=4e19a6d0c3b2fd1a5621dc0b23d1c2fa0141ed41acfabd7ddc80412de3a6a121&blog_id=42693868&post_id=92235&user_id=262258391&subs_id=225460721&signature=79c9187f4de9358b5d2bb2903a4a6a3a&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly93d3cubmF0aW9uYWxhZmZhaXJzLmNvbS9ibG9nL2RldGFpbC9maW5kaW5ncy1hLWRhaWx5LXJvdW5kdXAvcmVsaWdpb3VzLWVzdGFibGlzaG1lbnQ&email_id=bf3ac8d43d7c441d2a4df596d1705589).

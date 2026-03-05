@@ -1,0 +1,37 @@
+---
+subject: "Meta's plan to beat Apple 🌎, building pop-up mini-cities 👬, engineering workflow hacks 👨‍💻"
+from: "TLDR <dan@tldrnewsletter.com>"
+to: ""
+date: 2023-10-09 10:25:07
+labels: ["CATEGORY_PERSONAL", "INBOX", "TLDR"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_795315172960844453"]
+---
+[Amazon launches first internet satellite prototypes (4 minute read)](https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.cnbc.com%2F2023%2F10%2F06%2Famazon-launch-project-kuiper-satellite-internet-prototypes.html%3Futm_source=tldrnewsletter/1/0100018b13f81547-effd0918-a33e-4b58-9b9d-0d6554d6ca73-000000/ttzDs-zA8gSu-NXYOJVsS-TmcP2GvmxucucHlLyHfhg=321)
+Amazon launched its first Project Kuiper satellites on Friday. The project, which was announced more than four years ago, aims to build a network of 3,236 satellites in low Earth orbit to provide high-speed internet access anywhere in the world. Amazon plans to invest more than $10 billion to build the network. The company has kept the size and design of the satellites secret, only sharing photos of the shipping containers that carried them to the launch site. |
+Science & Futuristic Technology
+|
+[Decomposing Language Models Into Understandable Components (5 minute read)](https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.anthropic.com%2Findex%2Fdecomposing-language-models-into-understandable-components%3Futm_source=tldrnewsletter/1/0100018b13f81547-effd0918-a33e-4b58-9b9d-0d6554d6ca73-000000/dwry5HzV5xbzqUgj29gCGrsOM2s5xWh-QW33WlkN8pk=321)
+Neural networks are trained on data and not programmed to follow rules. While we understand the math of trained networks, we don't understand why those mathematical operations result in the behaviors we see, making it hard to diagnose failure modes and certify that a model is truly safe. This article presents a method for analyzing language models to determine how they work that involves looking at units in small transformer models rather than at individual neurons. |
+[World's fastest sailboat: Two wild designs hit the water for testing (5 minute read)](https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fnewatlas.com%2Fmarine%2Fsyroco-sp80-testing%2F%3Futm_source=tldrnewsletter/1/0100018b13f81547-effd0918-a33e-4b58-9b9d-0d6554d6ca73-000000/l8MQ7hSBtLslIjbZzCPHW9dtvpvCFr5WzdUEN-6zPYw=321)
+The SP80 and Syroco teams have built two boats designed to beat the current world sailing speed record of 65.37 knots. Both teams are using huge kites attached to the boats and aim to achieve a target speed of 81 knots. This article takes a look at how both teams are progressing with their projects. Pictures and videos of the sailboats are available. |
+Programming, Design & Data Science
+|
+[Surreal (GitHub Repo)](https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fgithub.com%2Fgnat%2Fsurreal%3Futm_source=tldrnewsletter/1/0100018b13f81547-effd0918-a33e-4b58-9b9d-0d6554d6ca73-000000/8wLaidexSJvNo3Xi7VmitYyE85ifUk5CwGkp5dF9zlc=321)
+Surreal is a mini jQuery alternative with dependency-free animations and locality of behavior. It pairs with HTMX. Examples, plugins, and resources are available. |
+[Why I Built Zuzalu (13 minute read)](https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.palladiummag.com%2F2023%2F10%2F06%2Fwhy-i-built-zuzalu%2F%3Futm_source=tldrnewsletter/1/0100018b13f81547-effd0918-a33e-4b58-9b9d-0d6554d6ca73-000000/Oc787qI_6I8Wp-gTCKnrV6U-2unWToxoZxwTnUJlBqE=321)
+Zuzulu was an experiment that blended the idea of hacker houses and conferences. The project involved a pop-up mini-city that housed two hundred people for two whole months. During the event, participants built technologies and developed a community that brought together a new combination of cultures. This article talks about Zuzulu from Vitalik Buterin's perspective and discusses the lessons learned from the experiment. |
+[Unbundling AI (15 minute read)](https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.ben-evans.com%2Fbenedictevans%2F2023%2F10%2F5%2Funbundling-ai%3Futm_source=tldrnewsletter/1/0100018b13f81547-effd0918-a33e-4b58-9b9d-0d6554d6ca73-000000/qi2P16WfcVBo2Y0YUKUiSBgXBMNPioW000Og3b3ctuE=321)
+LLMs allow users to ask anything and almost get an answer to everything. However, the answers it returns could be wrong, and even if the answers are correct, they might not be the right way to solve the problem. They are probabilistic models that provide the most probable answers. Large language models are currently a general-purpose technology that can do some theoretically magic stuff, but for many people, they still look a bit like the PC ads of the late 1970s that promised computers could be used for anything. |
+[TLDR is hiring an advertising sales director (Fully remote, $150k-$225k)](mailto:jobs@tldr.tech)
+Want to work at TLDR? We’re hiring a fully remote advertising sales director to join our fully remote team of seven to lead the next phase of our revenue growth.Responsibilities include building relationships with advertising partners and agencies. The ideal candidate has at least 2 years of quota-carrying sales experience and enjoys working in a fast paced startup environment. Experience in media/ad/sponsorship sales is a big plus. Total compensation ranges from $150,000 - $225,000. To apply, please send your resume or LinkedIn profile to [jobs@tldr.tech](mailto:jobs@tldr.tech) along with a few sentences on why you would be a good fit. If you know someone who would be a good fit, [please send their LinkedIn or resume to us](mailto:jobs@tldr.tech) and we will send you $2000 if we hire them. |
+[Fetchbook (GitHub Repo)](https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fgithub.com%2F4lejandrito%2Ffetchbook%3Futm_source=tldrnewsletter/1/0100018b13f81547-effd0918-a33e-4b58-9b9d-0d6554d6ca73-000000/SomiLi6lVQDYPgau-9HWJGSnKQribLaS8kvspaHhYH0=321)
+Fetchbook is a command-line tool for managing collections of HTTP requests that is based on the standard RequestInit object and runs in TypeScript with bun.sh. |
+We help cutting edge companies hire world class technical talent through our job listings. If you're hiring software engineers, AI/ML engineers, product managers, designers or other tech talent, [click here to learn more](https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fshare.hsforms.com%2F1hmOFVmqOTrON_SRvaRqEbQee466%3Futm_source=tldr%26utm_medium=newsletter/2/0100018b13f81547-effd0918-a33e-4b58-9b9d-0d6554d6ca73-000000/k4L_6uZi1pgEiyetvS8Vq9kPhB184pbP8Mh4OVYFbyA=321).
+|
+If your company is interested in reaching an audience of tech executives, decision-makers and engineers, you may want to [advertise with us](https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fshare.hsforms.com%2F1OxvmrkcFS4qsxKpNXCi76wee466%3Futm_source=tldr%26utm_medium=newsletter/2/0100018b13f81547-effd0918-a33e-4b58-9b9d-0d6554d6ca73-000000/3hMgEXjffK_-s_MSkeAe9zUguSWcjAoSGI2BRM9h-FY=321).
+If you have any comments or feedback, just respond to this email!
+Thanks for reading,
+[Dan Ni](https://tracking.tldrnewsletter.com/CL0/https:%2F%2Ftwitter.com%2Ftldrdan/1/0100018b13f81547-effd0918-a33e-4b58-9b9d-0d6554d6ca73-000000/5ugGQ7qlFYBkCx2DcHpwoHNXZg28ZZI3_AA_M3D0O8o=321) and [Stephen Flanders](https://tracking.tldrnewsletter.com/CL0/https:%2F%2Ftwitter.com%2FSteveFlanders22/1/0100018b13f81547-effd0918-a33e-4b58-9b9d-0d6554d6ca73-000000/dlhfi0QgiG-f-3OxNz-6-bie1xBHxzyriJCeXwC3n9M=321)
+|
+|
+| |

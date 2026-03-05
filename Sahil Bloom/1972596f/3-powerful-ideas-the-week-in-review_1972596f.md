@@ -1,0 +1,53 @@
+---
+subject: "3 Powerful Ideas: The Week in Review"
+from: "\"Sahil Bloom's Curiosity Chronicle\" <sahil@sahilbloom.com>"
+to: ""
+date: 2025-05-31 09:05:38
+labels: ["CATEGORY_PERSONAL", "INBOX", "Sahil Bloom", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_1989028747625928812", "UNREAD"]
+---
+3 Ideas You Might Have Missed
+read time 2 minutes
+Welcome to the Curiosity Chronicle Week in Review—a quick roundup of this week's ideas to help you build a high-performing, healthy, and wealthy life.
+Forwarded this email? Join 800,000+ readers [here](https://click.convertkit-mail4.com/4zu2nppr4zhehpnldrlhxh64mvm77h5/8ghqhoho3828xkfk/aHR0cHM6Ly93d3cuc2FoaWxibG9vbS5jb20vbmV3c2xldHRlcg==).
+My first book has its biggest sale ever: 50% off! Now's the time to grab a few copies for yourself, family, or friends before the sale expires.
+P.S. I'll be hosting live book tour events in [Los Angeles](https://click.convertkit-mail4.com/4zu2nppr4zhehpnldrlhxh64mvm77h5/m2h7h5h39xqx75hm/aHR0cHM6Ly93d3cuZXZlbnRicml0ZS5jb20vZS9hbi1ldmVuaW5nLXdpdGgtc2FoaWwtYmxvb20tdGlja2V0cy0xMzQxOTU4OTc4NDI5) (June 16) and [Austin](https://click.convertkit-mail4.com/4zu2nppr4zhehpnldrlhxh64mvm77h5/dpheh0hekxoxmnhm/aHR0cHM6Ly90aGV0aGlyZHBsYWNlLmlzL2V2ZW50L3NhaGlsLWJsb29tLXRoZS01LXR5cGVzLW9mLXdlYWx0aA==) (June 30). [Get your tickets](https://click.convertkit-mail4.com/4zu2nppr4zhehpnldrlhxh64mvm77h5/e0hph7h7ezlz2gt8/aHR0cHM6Ly93d3cudGhlNXR5cGVzb2Z3ZWFsdGguY29tL2V2ZW50cw==) before they sell out!
+This Week at a Glance:
+- Monday: The Perspective Shift That Changes Everything
+- Wednesday: Reflections from a “Think Week” Retreat
+- Friday: The Paradox of Mastery
+Wisdom Worth Sharing:
+A lesson I wish I learned earlier:
+Talent and intelligence are abundant. Courage is not. The people you admire are the ones who had the courage to act.
+They aren’t more talented than you. They aren’t smarter than you. They just took action when you didn’t.
+([share to x/twitter!](https://click.convertkit-mail4.com/4zu2nppr4zhehpnldrlhxh64mvm77h5/7qh7h8h98e6em2sz/aHR0cHM6Ly90d2l0dGVyLmNvbS9pbnRlbnQvdHdlZXQ_dGV4dD1BJTIwbGVzc29uJTIwSSUyMHdpc2glMjBJJTIwbGVhcm5lZCUyMGVhcmxpZXIlM0ElMEElMEFUYWxlbnQlMjBhbmQlMjBpbnRlbGxpZ2VuY2UlMjBhcmUlMjBhYnVuZGFudC4lMjBDb3VyYWdlJTIwaXMlMjBub3QuJTIwVGhlJTIwcGVvcGxlJTIweW91JTIwYWRtaXJlJTIwYXJlJTIwdGhlJTIwb25lcyUyMHdobyUyMGhhZCUyMHRoZSUyMGNvdXJhZ2UlMjB0byUyMGFjdC4lMEElMEFUaGV5JTIwYXJlbiVFMiU4MCU5OXQlMjBtb3JlJTIwdGFsZW50ZWQlMjB0aGFuJTIweW91LiUyMFRoZXklMjBhcmVuJUUyJTgwJTk5dCUyMHNtYXJ0ZXIlMjB0aGFuJTIweW91LiUyMFRoZXklMjBqdXN0JTIwdG9vayUyMGFjdGlvbiUyMHdoZW4lMjB5b3UlMjBkaWRuJUUyJTgwJTk5dC4lMEElMEEtJTIwJTQwU2FoaWxCbG9vbQ==))
+Monday: The Perspective Shift That Changes Everything
+"We are not going in circles, we are going upwards. The path is a spiral; we have already climbed many steps." - Siddhartha
+Progress often hides in plain sight—it’s invisible to the one experiencing it.
+The spiral looks like a circle to the one standing on it. But zoom out and you see the reality: Each circle exists on a slightly higher plane than the last.
+You’ve grown. You’ve changed. You’re not stuck. You’re on a higher plane.
+Your path is a spiral. Remember that..
+([read the full piece here](https://click.convertkit-mail4.com/4zu2nppr4zhehpnldrlhxh64mvm77h5/owhkhqhwne6e72tv/aHR0cHM6Ly93d3cuc2FoaWxibG9vbS5jb20vbmV3c2xldHRlci90aGUtcGVyc3BlY3RpdmUtc2hpZnQtdGhhdC1jaGFuZ2VzLWV2ZXJ5dGhpbmc=))
+Wednesday: Reflections from a “Think Week” Retreat
+I took my first Think Week—three days of reflection, journaling, and conversation. It was transformative.
+I unpacked what I learned about urgency in the AI era, the perils of distraction disguised as opportunity, the importance of trusting your gut, and more.
+The growth you asked for is found in the space you’ve been avoiding.
+([read the full piece here](https://click.convertkit-mail4.com/4zu2nppr4zhehpnldrlhxh64mvm77h5/z2hghnhe7zkz8ltp/aHR0cHM6Ly93d3cuc2FoaWxibG9vbS5jb20vbmV3c2xldHRlci9yZWZsZWN0aW9ucy1mcm9tLWEtdGhpbmstd2Vlay1yZXRyZWF0))
+Friday: The Paradox of Mastery
+Wittgenstein’s Ladder is a philosophical framework that offers an important lesson:
+The tools that help you grow at the beginning are the tools you’ll need to scrap to achieve a higher end.
+From entrepreneurship to personal growth, mastery requires knowing when to let go of the frameworks that got you here.
+The ladder served its purpose. Now it’s time to fly.
+([read the full piece here](https://click.convertkit-mail4.com/4zu2nppr4zhehpnldrlhxh64mvm77h5/p8heh9h4de2elptq/aHR0cHM6Ly93d3cuc2FoaWxibG9vbS5jb20vbmV3c2xldHRlci90aGUtcGFyYWRveC1vZi1tYXN0ZXJ5))
+|
+My morning routine just got better with [AG1 Next Gen](https://click.convertkit-mail4.com/4zu2nppr4zhehpnldrlhxh64mvm77h5/dpheh0hekxoxm3am/aHR0cHM6Ly9kcmlua2FnMS5jb20vc2FoaWw=):
+I never recommend a product I don't use myself. When it comes to my morning health routine, I've been choosing [AG1](https://click.convertkit-mail4.com/4zu2nppr4zhehpnldrlhxh64mvm77h5/dpheh0hekxoxm3am/aHR0cHM6Ly9kcmlua2FnMS5jb20vc2FoaWw=) since 2011––and it just got its biggest upgrade yet.
+The new [AG1 Next Gen](https://click.convertkit-mail4.com/4zu2nppr4zhehpnldrlhxh64mvm77h5/dpheh0hekxoxm3am/aHR0cHM6Ly9kcmlua2FnMS5jb20vc2FoaWw=) is backed by four clinical trials and features five clinically studied probiotics, functional mushrooms, and whole food-sourced nutrients to support gut health, immune function, and sustained energy—while helping fill common nutrient gaps, even in healthy eaters.
+The upgraded travel packs make it easier than ever to stay consistent—especially important with how often I’m on the move!
+With science-backed ingredients and real benefits I can feel, [AG1 Next Gen](https://click.convertkit-mail4.com/4zu2nppr4zhehpnldrlhxh64mvm77h5/dpheh0hekxoxm3am/aHR0cHM6Ly9kcmlua2FnMS5jb20vc2FoaWw=) is my daily nutritional insurance—the one constant in my morning routine for over a decade.
+[AG1](https://click.convertkit-mail4.com/4zu2nppr4zhehpnldrlhxh64mvm77h5/dpheh0hekxoxm3am/aHR0cHM6Ly9kcmlua2FnMS5jb20vc2FoaWw=) is offering my amazing Curiosity Chronicle subscribers a FREE $76 gift when you sign up. You’ll get a Welcome Kit, a bottle of D3K2 (I take this daily!), and 5 free travel packs in your first box.
+|
+Sahil Bloom
+|
+|
+|

@@ -1,0 +1,22 @@
+---
+subject: "PVR Inox stacks the odds against its own subscription service"
+from: "The Ken <info@the-ken.com>"
+to: ""
+date: 2023-11-02 02:39:15
+labels: ["CATEGORY_PERSONAL", "INBOX", "The Ken", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_8244464457792971031", "UNREAD"]
+---
+Good Morning Ishan,
+How many times a month do you go to the cinema?
+If your answer is three or fewer, then PVR Inox wants your attention. If it is more than three, then India’s largest multiplex chain wants your screen time, albeit in exchange for a “Passport”.
+PVR Inox ended the September quarter with its best financial performance ever. As many as 48.4 million people watched movies in its theatres, a 64% surge from a year ago. This pushed the occupancy rate during the quarter to 32.3% compared to 24% in the year-ago period.
+But it’s still below 36% that the company saw in 2019, the pre-pandemic times. So last month, PVR Inox launched a subscription service, a first in India, to get people to experience the big screen more frequently. “Ideally around five to six times a month,” as per the co-CEO Gautam Dutta.
+For Rs 699 ($8.4), PVR Inox Passport members can watch 10 movies in a month, or Rs 70 ($0.84) per ticket. It’s a steal. But wait, before you start marking your calendar, please spare some time to go through the terms and conditions, as Shivani did before writing today’s story.
+Subscribers must enrol for a minimum of three months and can’t use the service on Fridays, Saturdays, and Sundays. They can’t book recliner seats. Passport also excludes premium formats such as Imax, Gold, and Insignia and doesn’t apply for movie tickets priced above Rs 350 ($4.2).
+Moreover, the subscription plan doesn’t cover the movie-crazed region of southern India. It can’t be used on festivals, special days, gazetted holidays or for any new movie released on a weekday. The list goes on.
+On the core proposition, PVR examined similar plans offered by other cinema chains worldwide. Also, it had restaurant aggregators Swiggy and Zomato to learn from. But from what Shivani tells us, PVR Inox’s Passport is on a learning ride of its own. Let’s get to the breezy read: [https://the-ken.com/story/pvr-inox-stacks-the-odds-against-its-own-subscription-service/](https://the-ken.com/story/pvr-inox-stacks-the-odds-against-its-own-subscription-service/?utm_source=daily_story&utm_medium=email&utm_campaign=daily_newsletter) (10-minute read)
+Warmly,
+Seema Singh
+[seema@the-ken.com](mailto:seema@the-ken.com)
+What you just read is the personalised daily introduction to The Ken's story. Written by a different person each day. Often insightful, sometimes witty, and very rarely boring. Someone sent this to you? [Sign up for free](https://the-ken.com/?modal=register&utm_source=footer&utm_medium=email&utm_campaign=morning_email_ind). [Dont like these? You can unsubscribe](https://link.the-ken.com/asm/unsubscribe/?user_id=2349339&data=Y8NoTPJvhkMt3u8e0Y0suWakS1LEkzRcwNXrkLmirMpoMDAwdTAwMPFZt1bJW-irsowdeyiYNLY3a0rRG9Mis9R2a74ww49gkwzuMihy2Dtf1mhazWaXWvguJGkxBJgTCk-HtQ4btbLw5Av079nST9YD0HBXIC1R46JcleH3fTgf5ItPmusIurZYIzZR7hZB0hponS1lTNmsf5i5MbuHzZZRXMfr8evFEaTxnYiYEY_NewsXqTh2BvcjrO4WDoDEa3E4VZ4JvXNbtDUqRyho6LrH6OpN0JXDlxW7b_QLSDLQvhfP-sLOeRh-lW9VbehLzJtx5OLkpd0DbUp0eIs_f8JcHnG-R5MP1T05XMrAq03VcLlZEQz3eMMdJjaX8o4yufgETK_U_TjL36djuAKyAxKMsHzSdNXLbS9eROQSyfGIF-85fMuArram2jIP9qIwJfOrt4DnayzOCp8WJfMV3jHKykgGrYKpKPCVdSIFJXdyIoh08IVF3R-AHRro3m_RLk2qwgRtlnc2x-btfYV3auoLLnI2IYIM6dDArqM2q6nqgL25eviAkQ==) Dont want to hear from us again? [ Unsubscribe from our emails here](https://link.the-ken.com/asm/?user_id=2349339&data=0cI-f5WrR__z3de263HPmEFaXyuX0tQwJYQxU4QdfwpoMDAwdTAwMPRwRTvqUwcd-llXKA1IfIdt_ETAfRRPbAA7BQh3YgJMofygDMY1t8JysJGVPyRJceoM_kQmx7X1MYBwov9psMKuYetZ2pYkwzuPVCok58DW9UDGeONJFGMIfpalIRQY_XAbbsPo_ii5s13D6fs1jLvRhuSRSU0NYioK1CUr4mFGLc6GOdorh6TKPI4vQ7UcrqSOEsPX_FTzuOgVBIGDjV_j2tHA1yjL639LII1Vk9BlYMU1T9DKp7VV6Bls0L1aJ08PodNB4aEbuJHazgT_hHEge5m380Ru6p1VmTAkTd4JHm9vSJ2reh3DgIRv1c24bwBciHidjXyQY50Tk-ohtAHwFe1rvtHweRp8ZrpzKsiasCRRwAYsE2ay7hdq4kWw8cIcD6IeaM8uaF2dO297qmxA0lqTJQqPEhwi43ODg3nboKTHZxozIsgJKM6aJjZBMfHXAOb64Q7bLAIsjcbdfj9wRDCMWJqznjQTVwtx8iCgImQdHmLL9teclH4H777k-g==).
+Something wrong? Tell us at [support@the-ken.com](mailto:support@the-ken.com)

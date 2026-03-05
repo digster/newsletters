@@ -1,0 +1,38 @@
+---
+subject: "How to think like a programmer"
+from: "Quincy Larson <quincy@freecodecamp.org>"
+to: ""
+date: 2017-10-12 17:24:33
+labels: ["CATEGORY_PERSONAL", "INBOX", "Quincy", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_7697778124671848699", "UNREAD"]
+---
+Here are this week's three links that are worth your time:
+
+1. How to think like a programmer - a step-by-step guide to approaching projects and coding challenges (9 minute read): https://fcc.im/2kKi8RZ
+
+2. How to make money as a freelance developer - business tips from my friend Luke Ciciliano, who does freelance web development for law firms (35 minute watch): https://www.youtube.com/watch?v=fsTzLgra5dQ
+
+3. Here are 500 free online programming and computer science courses you can start in October (1 to 30 minutes to browse): https://fcc.im/2yjrWYG
+
+Bonus: How a 33 year old father in Brazil spent a year learning to code through freeCodeCamp, then got his first Front End Developer job (2 minute read): https://fcc.im/2yfD1Yt
+
+
+
+
+If you get value out of these emails, consider supporting our nonprofit: https://donate.freecodecamp.org
+
+
+
+Happy coding!
+
+- Quincy Larson
+
+Teacher at https://www.freeCodeCamp.org
+
+
+
+
+
+If this email bothers you, you can manage your email settings here: https://www.freecodecamp.org/settings 
+
+Or you can one-click unsubscribe: https://www.freecodecamp.org/unsubscribe/ishan.mail@gmail.com

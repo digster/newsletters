@@ -1,0 +1,10 @@
+---
+subject: "The Artificial Water Ski Lakes Edition"
+from: "\"Why is this interesting?\" <whyisthisinteresting@substack.com>"
+to: ""
+date: 2024-04-16 11:24:26
+labels: ["CATEGORY_PERSONAL", "INBOX", "UNREAD", "WITI"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "UNREAD", "Label_5752899537867939131"]
+---
+Mark Slavonia (MJS) is an investor, a pilot, and an Mark here. Being a small-plane pilot provides a unique perspective on the world, different from that seen from a car or a commercial plane. At ground level, the built environment dominates. In a jet, the full scale of nature unfolds. But at 5,000 feet above the ground in a small plane, man’s uneasy truce with nature is revealed, through towns, quarries, irrigation, clear cuts, wind farms, prisons and other large-scale man-made structures that sometimes baffle me until I can just figure out what they could be. My favorite baffling artifact is the artificial water ski lake. Why is this interesting? I first discovered artificial water ski lakes when I spotted a group of them, northeast of Sacramento, California. I wondered what these oddly-shaped and colored waterways were, until one sunny summer day I saw the unmistakable wake of a slalom skier cutting across the surface behind a powerboat. Once you’ve figured out what these dumbbell-shaped, half-mile long lakes are, you see them everywhere. For some reason they seem to come in clusters. Perhaps once one neighbor navigates the permitting process successfully, other local skiers are free to do the same. For those of you unable to get up in a small plane, Google Earth is a perfect tool for spotting water ski lakes. Here’s a cluster of five just outside of Barstow, California with perfect north-south orientation. Nature, tempered by local boating regulations, didn’t create enough places to water ski. I’m not a water skier myself, but I can see why so many have taken matters into their own hands: a perfectly sized and shaped lake, with your boat waiting right there, ready to go, any time you want. Thanks for reading, Noah (NRB) & Colin (CJN) & Mark (MJS) —
+You're currently a free subscriber to |

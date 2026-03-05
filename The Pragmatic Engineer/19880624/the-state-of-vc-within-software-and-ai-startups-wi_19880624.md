@@ -1,0 +1,89 @@
+---
+subject: "The state of VC within software and AI startups – with Peter Walker"
+from: "The Pragmatic Engineer <pragmaticengineer@substack.com>"
+to: ""
+date: 2025-08-06 17:15:43
+labels: ["CATEGORY_PERSONAL", "INBOX", "The Pragmatic Engineer", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_6413324878686416177", "UNREAD"]
+---
+|
+Listen and watch now on [YouTube](https://substack.com/redirect/833c74f4-356f-4a60-a789-612ebea2f0ae?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o), [Spotify](https://substack.com/redirect/3a22fbb3-2637-4882-b48c-a5b854d7dcc6?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) and [Apple](https://substack.com/redirect/94fc7bc5-752c-4160-8e3b-c03fad43783b?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o). See the episode transcript at the top of this page, and timestamps for the episode at the bottom.
+[WorkOS](https://substack.com/redirect/7a55b6cd-ae99-4171-b0c5-b973795d4e09?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)— The modern identity platform for B2B SaaS.[Statsig](https://substack.com/redirect/8bbf56e2-eea4-4f93-887d-6528601aa004?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)[](https://substack.com/redirect/583152f2-17cf-4219-b84c-aac6430d1673?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)—[](https://substack.com/redirect/583152f2-17cf-4219-b84c-aac6430d1673?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)The unified platform for flags, analytics, experiments, and more.[Sonar](https://substack.com/redirect/54a2f50b-cd4d-4503-8e52-0f9fee10322a?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)— Code quality and code security for ALL code.
+—
+How is venture capital changing, and what do these changes mean for startups (and engineers working at startups)? In this episode of The Pragmatic Engineer, I sit down with [Peter Walker](https://substack.com/redirect/4dbb3dbd-48aa-4bd6-8aeb-0512af3ebe42?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o), Head of Insights at Carta, to break down just this.
+Today’s episode features more than a dozen charts. We go deep on the numbers: why fewer companies are getting funded despite record VC investment levels, how hiring has shifted dramatically since 2021, and why solo founders are on the rise even though most VCs still prefer teams. We also unpack the growing emphasis on ARR per FTE, what actually happens in bridge and down rounds, and why the time between fundraising rounds has stretched far beyond the old 18-month cycle.
+We cover what all this means for engineers: what to ask before joining a startup, how to interpret valuation trends, and what kind of advisor roles startups are actually looking for.
+If you work at a startup, are considering joining one, or just want a clearer picture of how venture-backed companies operate today, this episode is for you.
+A few of the interesting graphs and trends we discussed, all from the [Carta Data Minute newsletter](https://substack.com/redirect/d04d6ead-96e4-4b51-a18a-5d9f80ff1848?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o).
+The reason for this downwards trend is most likely the [end of zero interest rates](https://substack.com/redirect/77085727-d405-4cd1-b629-5481ebf67b2d?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o), which hit the tech industry from 2022.
+The data is hard to argue with. Is the cause the [end of zero interest rates](https://substack.com/redirect/77085727-d405-4cd1-b629-5481ebf67b2d?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o), or AI? Hard to tell.
+Another curious data point:
+Amusingly, despite more startups having one founder, VCs do not back more of these solo founder startups:
+At [57:26](https://substack.com/redirect/41383cd9-1825-47df-8e8a-154fcc4ce37a?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o), we discussed what a realistic advisor equity package looks like, and the most in-demand skills for experienced engineers to become advisors:
+VC-funded startups are about growth: and when growth stops, it might be time to call it quits. Data on when this happens:
+Peter (at
+[17:18]) “A lot of it can be wrapped up in this single metric. that everyone across Silicon Valley is now talking about, which is ARR per FTE. How much revenue do you have for each employee that works at the business as a measure of how capital efficient you are?[ARR per employee] is a metric that many, many, many more VCs are asking startups for earlier and earlier in their life cycle.”
+Gergely: “So is this new?”
+Peter: “It's not new necessarily in that it's always been a metric that people care about. What's different is the emphasis.
+Now we're in this place where, again, I think this goes back to the examples across the industry. If it's possible to build a company that has a hundred million dollars of ARR with 20 people. That's a better, that's a more profitable, more capital efficient company than the same company with 100 million ARR that has 200 people.”
+[The end of 0% interest rates: what it means for tech startups and the industry](https://substack.com/redirect/77085727-d405-4cd1-b629-5481ebf67b2d?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)[Lessons from bootstrapped companies founded by software engineers](https://substack.com/redirect/8c8a7f94-caa2-4992-97b5-11ef2a373944?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+([00:00](https://substack.com/redirect/2310e0b5-0ce3-4b96-816c-c6f4a12df001?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) Intro
+([01:21](https://substack.com/redirect/00ede288-50b7-438b-8cdb-196505daced5?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) How venture capital works and the goal of VC-backed startups
+([03:10](https://substack.com/redirect/567a4353-8876-4708-ab52-11264801b9df?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) Venture vs. non-venture backed businesses
+([05:59](https://substack.com/redirect/2093e2b6-8ecb-4a0a-bea4-f40cbc5df5c0?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) Why venture-backed companies prioritize growth over profitability
+([09:46](https://substack.com/redirect/20c65b37-6537-42cf-90be-056903943781?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) A look at the current health of venture capital
+([13:19](https://substack.com/redirect/5f110c6c-fe2a-4f99-b0aa-69671986abcd?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) The hiring slowdown at startups
+([16:00](https://substack.com/redirect/8159e2cb-09ba-4dd3-b770-ce38eadebf3a?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) ARR per FTE: The new metric VCs care about
+([21:50](https://substack.com/redirect/172f1d25-49bb-4a81-9989-cef62b2fbf5e?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) Priced seed rounds vs. SAFEs
+([24:48](https://substack.com/redirect/cc7065b8-5e29-4652-8e8d-587e661cedbb?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) Why some founders are incentivized to raise at high valuations
+([29:31](https://substack.com/redirect/e232b643-4bb6-4768-9d61-72fb71c9f606?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) What a bridge round is and why they can signal trouble
+([33:15](https://substack.com/redirect/a559374d-5875-4da0-932a-b1349a41ea8d?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) Down rounds and how optics can make or break startups
+([36:47](https://substack.com/redirect/25dc3e65-8c7f-477f-8eea-c64704c51d84?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) Why working at startups offers more ownership and learning
+([37:47](https://substack.com/redirect/0cf28b6c-1bfb-4e3c-b417-58a5d181a72a?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) What the data shows about raising money in the summer
+([41:45](https://substack.com/redirect/98fba2d7-0b30-48ca-91e2-e767efd3c7d7?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) The length of time it takes to close a VC deal
+([44:29](https://substack.com/redirect/a720de51-e962-4ec2-b1a2-35e9c7c46dcd?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) How AI is reshaping startup formation, team size, and funding trends
+([48:11](https://substack.com/redirect/4684828a-c393-46f3-80a0-99be421a930a?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) Why VCs don’t like solo founders
+([50:06](https://substack.com/redirect/44663db7-4cb0-487b-ab07-471cf3182713?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) How employee equity (ESOPs) work
+([53:50](https://substack.com/redirect/42ed52d0-45fb-4128-bfb2-1616a46a64d3?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) Why acquisition payouts are often smaller than employees expect
+([55:06](https://substack.com/redirect/dae99ad6-2630-4e82-bb23-192418414d02?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) Deep tech vs. software startups:
+([57:25](https://substack.com/redirect/97115458-9fbb-4c84-84e4-e1f4bb4dfcbf?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) Startup advisors: What they do, how much equity they get
+([1:02:08](https://substack.com/redirect/dbfe6123-7d5d-4a0b-aa77-e1c792a81340?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) Why time between rounds is increasing and what that means
+([1:03:57](https://substack.com/redirect/024d0ef9-2cd7-43e7-8c3a-51d644601e60?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) Why it’s getting harder to get from Seed to Series A
+([1:06:47](https://substack.com/redirect/c78421c3-7df7-4227-baa4-191aa02f816d?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) A case for quitting (sometimes)
+([1:11:40](https://substack.com/redirect/ae3fab6b-8793-40a2-b373-0fd88e483858?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) How to evaluate a startup before joining as an engineer
+([1:13:22](https://substack.com/redirect/e30dd977-6118-4cc4-b53c-95ab0a021857?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) The skills engineers need to thrive in a startup environment
+([1:16:04](https://substack.com/redirect/4ba913c1-e239-4aa7-bee1-d0fe617d83d3?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) Rapid fire round
+Where to find Peter Walker:
+• X: [https://x.com/PeterJ_Walker](https://substack.com/redirect/c17dac58-f62b-488f-be89-86be9e8b88f3?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+• LinkedIn: [https://www.linkedin.com/in/peterjameswalker/](https://substack.com/redirect/4dbb3dbd-48aa-4bd6-8aeb-0512af3ebe42?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+Mentions during the episode:
+• Carta: [https://carta.com/](https://substack.com/redirect/4bf2675f-6f04-4a50-8944-e23468c78e88?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+• What are the Magnificent 7 Stocks?: [https://www.fidelity.com/learning-center/smart-money/magnificent-7-stocks](https://substack.com/redirect/19b07c04-7de6-498b-88a5-fdbb6f93cfc0?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+• Cursor: [https://cursor.com/](https://substack.com/redirect/4cfffb9c-cbb9-4e0d-a2c6-576183481a76?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+• Interesting Learnings from Outages (Real-World Engineering Challenges #10): [https://newsletter.pragmaticengineer.com/p/real-world-engineering-10](https://substack.com/redirect/48b7ed43-d1bf-4817-b7e9-9f9c753a98f5?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+• Understanding SAFEs and priced equity rounds: [https://www.ycombinator.com/library/6m-understanding-safes-and-priced-equity-rounds](https://substack.com/redirect/166f0c01-74cf-4492-9faa-e75213765d73?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+• Peloton: [https://www.onepeloton.com/](https://substack.com/redirect/d73effaf-f516-4442-ab35-52ab1a3d4227?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+• Zoom: [https://www.zoom.com/](https://substack.com/redirect/51b8ff79-a034-4537-9ecf-2c38ac26dc84?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+• Clip from Silicon Valley:
+• How to get rich in tech, guaranteed: [https://startupljackson.com/post/135800367395/how-to-get-rich-in-tech-guaranteed](https://substack.com/redirect/d6789a7a-1fcb-4171-9584-d48ee9212eba?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+• Inside Fast’s Rapid Collapse: [https://newsletter.pragmaticengineer.com/p/the-scoop-fast](https://substack.com/redirect/0d157447-c910-4622-8639-fbd90dfe8e44?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+• Bolt: [https://www.bolt.com/](https://substack.com/redirect/0938e3ab-be8e-47ce-9241-d89ee433e2f6?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+• Loveable: [https://lovable.dev/](https://substack.com/redirect/4d087e1c-8a55-4c1c-a17f-9fe78bf8528a?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+• Equity 101 for Software Engineers at Big Tech and Startups: [https://blog.pragmaticengineer.com/equity-for-software-engineers/](https://substack.com/redirect/bb57ded4-bbef-4e97-8ca9-b0caa5aaa2aa?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+• The state of startup funding: [https://blog.pragmaticengineer.com/the-state-of-startup-funding/](https://substack.com/redirect/e80138aa-12fb-4666-875c-ee68f546209e?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+• Figma: [https://www.figma.com/](https://substack.com/redirect/d6345c15-3cc3-4aeb-8be7-5f750cc416a3?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+• Slack: [slack.com](https://substack.com/redirect/d0274797-03c0-47cc-be93-7982811cdb00?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+• Henry Ward on LinkedIn: [https://www.linkedin.com/in/heward/](https://substack.com/redirect/00e0037c-8887-4afa-854f-a27b0485efd7?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+• Sourcery: [https://www.sourcery.vc/s/curiosities](https://substack.com/redirect/33e7ad30-0ca3-4ef8-b09a-c40af37ae072?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+• Uncapped with Jack Altman: [https://www.youtube.com/@uncappedpod](https://substack.com/redirect/86e0655d-11cc-4ed4-b90f-154ed923b68d?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+• All-In: [https://allin.com/](https://substack.com/redirect/8a2b881c-791d-4a97-9d93-86ee76b6621b?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+• The Data Minute: [https://carta.com/data/podcast/](https://substack.com/redirect/adbc792a-fd16-43d4-b047-48386983f83b?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+• Stratechery: [https://stratechery.com/](https://substack.com/redirect/73e6d5d0-ff7d-4cb2-a8be-2515ab2713a6?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+• Tableau: [https://www.tableau.com/](https://substack.com/redirect/12baeba4-a935-4ef6-bfd8-4f7a7df26016?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+• Apple in China: The Capture of the World's Greatest Company: [https://www.amazon.com/Apple-China-Capture-Greatest-Company/dp/1668053373](https://substack.com/redirect/63aa4dc0-5fd2-44e5-9694-725e8aeb33e8?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+—
+Production and marketing by [Pen Name](https://substack.com/redirect/4c1f2139-72e5-41c2-ae30-4a83f869cc94?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o).
+You’re on the free list for [The Pragmatic Engineer](https://substack.com/redirect/2/eyJlIjoiaHR0cHM6Ly9uZXdzbGV0dGVyLnByYWdtYXRpY2VuZ2luZWVyLmNvbT91dG1fY2FtcGFpZ249ZW1haWwtaG9tZSZyPThvNTRuIiwicCI6MTcwMTExOTEwLCJzIjo0NTg3MDksImYiOnRydWUsInUiOjE0NTYzMzE5LCJpYXQiOjE3NTQ1MDA1ODAsImV4cCI6MjA3MDA3NjU4MCwiaXNzIjoicHViLTAiLCJzdWIiOiJsaW5rLXJlZGlyZWN0In0.cfb1M31LcROOEUxZjLt-o035AXZlGK1VYUSxQrDHWqI?). For the full experience, [become a paying subscriber](https://substack.com/redirect/2/eyJlIjoiaHR0cHM6Ly9uZXdzbGV0dGVyLnByYWdtYXRpY2VuZ2luZWVyLmNvbS9zdWJzY3JpYmU_dXRtX3NvdXJjZT1wb3N0JnV0bV9jYW1wYWlnbj1lbWFpbC1jaGVja291dCZuZXh0PWh0dHBzJTNBJTJGJTJGbmV3c2xldHRlci5wcmFnbWF0aWNlbmdpbmVlci5jb20lMkZwJTJGdGhlLXN0YXRlLW9mLXZjLWluLTIwMjUmcj04bzU0biZ0b2tlbj1leUoxYzJWeVgybGtJam94TkRVMk16TXhPU3dpYVdGMElqb3hOelUwTlRBd05UZ3dMQ0psZUhBaU9qRTNOVGN3T1RJMU9EQXNJbWx6Y3lJNkluQjFZaTAwTlRnM01Ea2lMQ0p6ZFdJaU9pSmphR1ZqYTI5MWRDSjkuTE0wSFRBcGNtUm81V2YzRU1ySnl0RmRkLWJ2bDZ0SkJ6T1p1cWtJR3pnVSIsInAiOjE3MDExMTkxMCwicyI6NDU4NzA5LCJmIjp0cnVlLCJ1IjoxNDU2MzMxOSwiaWF0IjoxNzU0NTAwNTgwLCJleHAiOjIwNzAwNzY1ODAsImlzcyI6InB1Yi0wIiwic3ViIjoibGluay1yZWRpcmVjdCJ9.8tQ2WGX48-kkFWAIb-1BGXGwxT6ekbCMenioGI04PyU?). Many readers expense this newsletter within their company’s training/learning/development budget. If you have such a budget, here’s[ an email you could send to your manager](https://substack.com/redirect/9101282d-16a0-407d-9f64-d0a777addc97?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o).
+This post is public, so feel free to share and forward it.
+If you enjoyed this post, you might enjoy my book, [The Software Engineer's Guidebook](https://substack.com/redirect/73103cd5-0484-4c1e-8701-1c11ec9d97ef?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o). Here is what Tanya Reilly, senior principal engineer and author of The Staff Engineer's Path said about it:
+"From performance reviews to P95 latency, from team dynamics to testing, Gergely demystifies all aspects of a software career. This book is well named: it really does feel like the missing guidebook for the whole industry."

@@ -1,0 +1,26 @@
+---
+subject: "Fruit of the newsroom"
+from: "The Ken <info@the-ken.com>"
+to: ""
+date: 2020-06-14 03:30:57
+labels: ["CATEGORY_PERSONAL", "INBOX", "The Ken"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_8244464457792971031"]
+---
+Summer is winding down in some parts of India, and Indian summers are, almost without exception, horrifying. They're hot, humid, and uncomfortable. And in some places, summers are also accompanied by the 'loo' wind, a dry and dusty summer wind from the west that blows over Pakistan, and north and northwest India.
+If there's one thing that makes the season more tolerable, is that it's the season of sweet, juicy fruit. And no, we're not talking about just the mango. Sure, half the country engages in a flame war over different mango varieties come summer. But India has so much more to offer.
+Consider the palm fruit—or ice apple as it's otherwise called. It's basically a sweet, luscious water bomb that explodes in your mouth with every bite.
+Or the lychee. Similar in texture to the palm fruit, but sweeter.
+And I can't not bring up the divisive jackfruit, which is also my personal favourite. Some of my friends can't stand its strong smell, but love it or hate it, you can't ignore it.
+Just like summer's assortment of fruit, we had a diverse lineup of stories at The Ken this week. All very different from each other, but each one juicy enough to sink your teeth in.
+On Monday, Vandana wrote about the
+[fallout of the merger](https://link.the-ken.com/uni/ss/c/aX9wIf2EaINWwJhuQmbIagDixGG3_DAmYxoviM0wkM1CChR5fiRbKy51bQxFQQDeHAlLiyNIsAp_wcraWD4IjEI9oVaKBW8uXA6nHMEEgwFJS89TwrLGBETKKHQKYeuIeq4wSrmTdGXRsecvi0LZgf6KFBsn3qcIj8n8zDGDbymSc9O4DraU63phK0imcL1z/32m/puVKEmYXQLOrkDso3Ew6OA/h0/sNC-hRI39woFc1Y6nL_M3rAKcVI_UogrG6BV1w4yKA8) that was to be Ebix-Yatra. Ebix, itself an insurance software company, acquired companies in segments ranging from classroom education to travel to forex. Yatra was supposed to be a big one—a $337.8 million deal. But Covid happened. Things changed.
+Olina, on Tuesday,
+[took a hard look](https://link.the-ken.com/uni/ss/c/aX9wIf2EaINWwJhuQmbIagDixGG3_DAmYxoviM0wkM08oYLdWL7XLfQ3arHOtd27OLQpUUljywsmaJI-Pv4n4W-prPo4NvCxXHFMQfU7nzu5VZpw1mM7pNVUwrmQKQ74bD00YgKOO5bvgeFHiGFSd-oi8QXe6swIP3ET9XBelL_an7cwER61KQYx-PNmRONy/32m/puVKEmYXQLOrkDso3Ew6OA/h1/5r_2Bj0v_1A1HWE8hImTnME96z7AtbvX2gthRCOcias) at how India's nimble startups are exploring alternative business models in the face of trouble. Asset heavy ride-sharing startups such as Bounce and ONN Bikes, whose modus operandi used to be "drive it, share it" are now switching to long-term rentals. It's an "ownership-plus" model, says the founder of ONN Bikes. Let's see if it works out.
+Everyone likes innovative startups, but the bigger, older behemoths have their own allure. On Wednesday, Prasannata wrote about Future Retail's
+[e-commerce plans](https://link.the-ken.com/uni/ss/c/aX9wIf2EaINWwJhuQmbIagDixGG3_DAmYxoviM0wkM0S_VLlvL-qXQOIQg-k34OC7z_HXJkjCsC-nZ3Cm_P_RkuUXjsDv9tkNzE24KTltwPXk9AiNvfa3VeOCo0Z4HjFoxqpbfVxT3dXwultaz-wg45NAMfT87l0lR4jema-rtIFHK6iSThpQC-HRnMgjUFunNOItvJmQfaRUP0s0jo6hgOEA2XMcf5oUNtVTEKibRc/32m/puVKEmYXQLOrkDso3Ew6OA/h2/442l35TnA_ojGSgbyCoB_pcbEz_J2kqSMP4EYiLlIXY)—and its hopes of getting fifth time lucky. The retail giant is a household name with brands such as Big Bazaar and Brand Factory, but it's still trying to figure out how to get people to shop from home while still making a profit.
+What does a startup, which may be low on liquidity, have to offer its employees? Stock ownership, or ESOPs, as they are called. On Thursday, Arundhati
+[wrote in great detail](https://link.the-ken.com/uni/ss/c/aX9wIf2EaINWwJhuQmbIagDixGG3_DAmYxoviM0wkM2cpu9JHt5DkpNVujAkVr1k4Q6t9c-b5_ZIIfuN0McrvdTtIVMiQHMrXT1AcguJqIzrNS-bXN9OdlGPGJoyDCz44pcUqDXkez2uoASjdMP7psYRU8kdsZTly2978JypuH1_vl4oG3qs5PfMXK1lQsbg/32m/puVKEmYXQLOrkDso3Ew6OA/h3/9cal7AvK0GF98m6_PUUlgatjypHbzXhW13s3U_bPIMk) about the pitfalls of ESOPs. For every one who turns a millionaire with ESOPs, many more get nothing—even if the founders and investors make good money. Covid-19 is making ESOPs more attractive for founders to offer, but less so for employees to take them.
+[Friday's story](https://link.the-ken.com/uni/ss/c/aX9wIf2EaINWwJhuQmbIagDixGG3_DAmYxoviM0wkM1LYverxpgt1pdFF1SbQfyOkeTTkggERlXvBjCWj8nm9gq3SCQSo3j3MmTF16HUvEH_1C3st-DmqI21IyTM9rJihLbw2kyj-6o0TLvtxbOQd0t9Jorap8-y4EHB1tPCMOyOfQ3TOvivucdjo8vyZUE6VIqmqL0PouM4Un9zbWipzg/32m/puVKEmYXQLOrkDso3Ew6OA/h4/fQBlrJ_yy6QOKw3VbIpHLf2kSTILAOMdIe52E7xO1aU) by Seema was about what is arguably the only way the pandemic will end—vaccines. Indian vaccine manufacturers lead the pack when it comes to manufacturing vaccines worldwide; they make up a staggering 70% of Gavi's supply chain. But making vaccines is one thing, distributing them another. And that process is contingent on strategy, diplomacy, and negotiation writes Seema. This was an essential read, and also our free story for the week, so do share widely.
+That's it from us this week. I'll end with a now-controversial statement—the Alphonso is the best kind of mango. Always was, always will be. Have a good weekend and stay hydrated.
+Best,
+Shreedhar

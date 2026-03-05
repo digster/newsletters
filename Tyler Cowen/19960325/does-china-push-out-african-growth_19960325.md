@@ -1,0 +1,10 @@
+---
+subject: "Does China push out African growth?"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2025-09-19 04:18:55
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+We study the relationship between international trade and development in a model where countries differ in their capability, goods differ in their complexity, and capability growth is a function of a country’s pattern of specialization. Theoretically, we show that it is possible for international trade to increase capability growth in all countries and, in turn, to push all countries up the development ladder. This occurs if (i) shifting employment towards more complex sectors raises capability growth and if (ii) foreign competition is tougher in less complex sectors for all countries. Empirically, we provide causal evidence consistent with (i) using the entry of countries into the World Trade Organization as an instrumental variable for other countries’ patterns of specialization. The opposite of (ii), however, holds in the data. Through the lens of our model, these two empirical observations imply dynamic welfare losses from trade that are pervasive, albeit small for the median country. The same economic forces also suggest that the emergence of China has held back capability growth for a number of African countries who are pushed away from their most-complex sectors, which China exports, and into their least-complex sectors, which China imports.
+That is by David Atkin, Arnaud Costinot, and Masao Fukui,[ in a recent issue of Review of Economic Studies](http://marginalrevolution.com?action=user_content_redirect&uuid=ff145d7ff3c6aa1d877057cada63a609c75ac03eb6300b1de1b885fbaf8246d5&blog_id=42693868&post_id=91475&user_id=262258391&subs_id=225460721&signature=ec1b7f9d21f30a8a5611055ad75a72ee&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly93d3cucmVzdHVkLmNvbS9nbG9iYWxpemF0aW9uLWFuZC10aGUtbGFkZGVyLW9mLWRldmVsb3BtZW50LXB1c2hlZC10by10aGUtdG9wLW9yLWhlbGQtYXQtdGhlLWJvdHRvbS8&email_id=60b9c904cae67a9e0594bbae466fb477).

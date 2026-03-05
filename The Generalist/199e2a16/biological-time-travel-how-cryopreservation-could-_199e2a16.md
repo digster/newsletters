@@ -1,0 +1,75 @@
+---
+subject: "Biological Time Travel: How Cryopreservation Could Transform Medicine | Laura Deming (CEO & co-founder of Until)"
+from: "The Generalist <thegeneralist@substack.com>"
+to: ""
+date: 2025-10-14 12:03:49
+labels: ["CATEGORY_PERSONAL", "INBOX", "The Generalist", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_8815311452832858585", "UNREAD"]
+---
+|
+“Reversible cryo is what it sounds like. You take an organism down to a very low temperature, like minus 130 degrees Celsius, [and then bring] it back up to normal temperature. But what really captured my imagination around it was the idea of time traveling to the future.”
+[GoFundMe Giving Funds](https://substack.com/redirect/a415c907-3b9f-41c4-b205-c6f5d10ba487?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o): One Account. Zero Hassle.
+[Brex](https://substack.com/redirect/74a106e6-6f1b-47ac-8b6a-214130ce24c1?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o): The banking solution for startups.
+[Persona](https://substack.com/redirect/b680a524-9472-432a-9510-9e926ecda4ac?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o): Trusted identity verification for any use case.
+From a child prodigy in a genetics lab to building a company that can pause life itself, Laura Deming has made a career out of chasing time. At just eight years old she became obsessed with aging. At eleven, she joined Cynthia Kenyon’s pioneering longevity lab. At seventeen, she launched The Longevity Fund—one of the first venture firms dedicated to extending human healthspan. Now, she’s tackling her boldest challenge yet: building a “pause button” for biology.
+As the co-founder of Until, Laura is developing reversible cryopreservation: the ability to cool living tissue to ultra-low temperatures, hold it there, and then bring it back fully functional. By achieving vitrification (the process of turning tissue into glass instead of ice), Until aims to make organ preservation, and eventually medical hibernation, a reality.
+We cover:
+Why longevity was once stigmatized, and what changed to make it one of the most credible fields in biotech today
+Why Until’s approach focuses on preserving the living, not the dead
+The physics and biological challenges of scaling reversible cryopreservation from embryos to human-sized organs
+How vitrification is making cryopreservation possible
+How this breakthrough could transform organ transplantation by eliminating time constraints (and eventually enable medical hibernation)
+The philosophical and social implications of being able to “pause” life and effectively time travel into the future
+How growing up homeschooled in New Zealand shaped Laura’s unconventional way of thinking
+The story of how legendary biologist Cynthia Kenyon invited 11-year-old Laura into her lab, sparking her lifelong obsession with aging
+How she learned to embrace her weirdness and trust it as her creative superpower
+([00:00](https://substack.com/redirect/bf267dbd-afd7-4d5c-ab47-d85fcc62f20e?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) Intro
+([04:55](https://substack.com/redirect/998c804e-cb68-4e55-a418-ac1740b59b16?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) How Laura became interested in longevity at such a young age
+([07:40](https://substack.com/redirect/a44a9a1a-4205-40a0-aa95-f83c78323758?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) The impact of homeschooling on Laura’s thinking
+([09:29](https://substack.com/redirect/827547f6-d9b2-4b97-ac21-8c1292dab02f?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) The invitation from Cynthia Kenyon that set Laura on her path at age 11
+([10:39](https://substack.com/redirect/a5f47d1a-6c7f-46e0-8040-edff441219e7?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) Why pursuing longevity once meant working in the shadows
+([14:20](https://substack.com/redirect/2185fe25-c21f-4255-a5ff-d5e8e2a9ce4d?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) Why Laura shifted into VC at The Longevity Fund
+([17:24](https://substack.com/redirect/e3ef67cc-c7f4-431e-9c1c-ab9ad1ee7537?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) How longevity transformed from fringe science to a legitimate field
+([19:40](https://substack.com/redirect/a8ca6dcc-46c8-492e-815e-ff9c1a77b5e8?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) Why Laura was driven to start Until
+([21:08](https://substack.com/redirect/87e4fc2a-ef96-45f6-ac17-3d90223dafe9?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) A simple explanation of reversible cryopreservation
+([23:10](https://substack.com/redirect/6bb94921-bb65-4b97-bed7-c61e36ac0623?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) Science fiction’s explorations of cryo
+([25:38](https://substack.com/redirect/bc4e3aa7-5899-4407-b6b3-4288590abb51?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) What sparked Laura’s interest in reversible cryo
+([27:35](https://substack.com/redirect/7056f748-fc68-4acb-892b-e3c02fcd2620?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) How cryonics and reversible cryo differ, and the mechanisms behind each
+([29:00](https://substack.com/redirect/d03160b9-f084-4b39-bcbb-9961e4dc1715?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) Until’s roadmap, beginning with cryopreserved organs for transplantation
+([34:00](https://substack.com/redirect/55d0891e-b042-4cb0-8eb5-d53a8746858c?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) The biggest challenges in developing preservable organs
+([35:53](https://substack.com/redirect/e9f8edbc-d612-4cb9-a3f4-8f093886caf8?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) How cryopreservation works
+([38:30](https://substack.com/redirect/7062b887-1f9c-4b8d-b0f5-563636b25077?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) Until’s building philosophy
+([42:34](https://substack.com/redirect/1f88c61e-9736-4e02-862a-4290a3e0ffd8?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) How Laura learned to trust her weirdness
+([49:10](https://substack.com/redirect/9c0fe8ec-c40c-4d52-8b98-341c6ebc24fd?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) Finding the right co-founder in Hunter Davis
+([51:17](https://substack.com/redirect/dae0a790-8498-46f4-9f37-107f18557989?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) Future applications beyond medical necessity
+([53:00](https://substack.com/redirect/16ab0489-fb82-4b73-af96-170d13488595?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) Unanswered questions in cryopreservation
+([55:05](https://substack.com/redirect/3ef9f8aa-e76c-464d-b378-9f1f997afd6c?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) What’s missing in Hollywood’s portrayal of genius
+([56:21](https://substack.com/redirect/7a5c6b11-273e-4501-ab1a-101233763300?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) Laura’s unique process for exploring ideas
+([59:58](https://substack.com/redirect/77ad1204-c5c7-47e6-bc54-f4202a9645df?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) Personal longevity practices
+([01:01:30](https://substack.com/redirect/36a5c1a9-a5e2-43cf-9f9e-31be8d7ab5d0?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) The positive impact of Bryan Johnson’s work
+([01:02:38](https://substack.com/redirect/a59dd2a5-c4af-409a-9c5d-9bc43138b60b?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) Final meditations
+LinkedIn: [https://www.linkedin.com/in/laura-deming-b255362a/](https://substack.com/redirect/4334f9da-902b-4756-b96c-e6a8189f9ab0?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+Website: [https://www.ldeming.com/](https://substack.com/redirect/5715f16b-f152-4bda-b57f-f4808229b92d?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+The Three-Body Problem:
+[https://www.amazon.com/Three-Body-Problem-Cixin-Liu/dp/0765382032](https://substack.com/redirect/31617234-0f81-467b-a0fb-b368097c8d3a?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)The Dark Forest:
+[https://www.amazon.com/Dark-Forest-Remembrance-Earths-Past/dp/0765386690/](https://substack.com/redirect/a93f7c7d-c40d-4e44-a7a8-ffcf72275044?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)Cell Biology by the Numbers:
+[https://www.amazon.com/Cell-Biology-Numbers-Ron-Milo/dp/0815345372/](https://substack.com/redirect/b1d46b24-d0a1-4df3-94b8-e80ec3e1ffe5?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)Free version of Cell Biology by the Numbers:
+[https://book.bionumbers.org/](https://substack.com/redirect/b113d714-971a-4f58-bc7f-e579e95c2131?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+Cynthia Kenyon:
+[https://www.calicolabs.com/people/cynthia-kenyon/](https://substack.com/redirect/5c231f97-e0ef-40fd-8df7-622ca32ebabb?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)James Bedford:
+[https://en.wikipedia.org/wiki/James_Bedford](https://substack.com/redirect/eaedeecc-a2bb-4f26-a16a-976454eab2fa?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)Peter Thiel on X:
+[https://x.com/peterthiel](https://substack.com/redirect/5a00f2b5-ad70-40d6-bbb3-b49ceac8faf4?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)Hunter Davis on LinkedIn:
+[https://www.linkedin.com/in/hunter-davis-b7ba1423/](https://substack.com/redirect/cadc3cb2-7104-41d0-a448-47a02c5d4571?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)Rob Phillips on LinkedIn:
+[https://www.linkedin.com/in/rob-phillips-a223341a/](https://substack.com/redirect/0e6666c6-8abc-4948-92af-2e8ea1f23d62?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)Bryan Johnson on X:
+[https://x.com/bryan_johnson](https://substack.com/redirect/966a5994-8eda-49ed-811d-f56077ec9830?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+Antimemetics: Why Some Ideas Resist Spreading | Nadia Asparouhova (Writer and Researcher):
+[https://www.generalist.com/p/antimemetics-nadia-asparouhova](https://substack.com/redirect/fca5fc83-c4d3-4996-a9b5-9880db04290a?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)The Longevity Fund:
+[https://longevity.vc/](https://substack.com/redirect/5ab42706-df98-4b87-945f-6a80e1497c97?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)Loyal:
+[https://loyal.com/](https://substack.com/redirect/6f68a38d-f97c-4700-bce6-749270c3b0d8?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)H1:
+[https://h1.co/](https://substack.com/redirect/70cb20f7-2a81-492f-8641-cdd0b40e14cc?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)Until:
+[https://www.untillabs.com/](https://substack.com/redirect/c75064d4-a795-459f-844e-7810782c3236?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)Alcor:
+[https://www.alcor.org/](https://substack.com/redirect/8f8f17a5-986e-4c7d-b4fc-9cadd1344c11?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)My mental models:
+[https://barnacles.substack.com/p/my-mental-models-2020](https://substack.com/redirect/5ed81c18-26f1-4189-8e13-9600db9566c5?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+I’d love it if you’d subscribe and share the show. Your support makes all the difference as we try to bring more curious minds into the conversation.
+Production and marketing by [penname.co](https://substack.com/redirect/a1af51ed-21fa-4369-81f3-819224dcf9ff?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o). For inquiries about sponsoring the podcast, email jordan@penname.co.
+You're currently a free subscriber to [The Generalist](https://substack.com/redirect/ee871536-f6e1-4f0d-9b07-b7fdb9a00131?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o). For the full experience, [upgrade your subscription.](https://substack.com/redirect/2/eyJlIjoiaHR0cHM6Ly93d3cuZ2VuZXJhbGlzdC5jb20vc3Vic2NyaWJlP3V0bV9zb3VyY2U9cG9zdCZ1dG1fY2FtcGFpZ249ZW1haWwtY2hlY2tvdXQmbmV4dD1odHRwcyUzQSUyRiUyRnd3dy5nZW5lcmFsaXN0LmNvbSUyRnAlMkZiaW9sb2dpY2FsLXRpbWUtdHJhdmVsLWxhdXJhLWRlbWluZyZyPThvNTRuJnRva2VuPWV5SjFjMlZ5WDJsa0lqb3hORFUyTXpNeE9Td2lhV0YwSWpveE56WXdORFF6T0RRNExDSmxlSEFpT2pFM05qTXdNelU0TkRnc0ltbHpjeUk2SW5CMVlpMHhOVGMyTkNJc0luTjFZaUk2SW1Ob1pXTnJiM1YwSW4wLkowWUhDcW5HNkxFcEpUaFZvUldYVmU3UFFRYlRzRFM2N3BHdHhYYkl1OU0iLCJwIjoxNzU0NDg3ODAsInMiOjE1NzY0LCJmIjp0cnVlLCJ1IjoxNDU2MzMxOSwiaWF0IjoxNzYwNDQzODQ4LCJleHAiOjIwNzYwMTk4NDgsImlzcyI6InB1Yi0wIiwic3ViIjoibGluay1yZWRpcmVjdCJ9.pdXojczPYxpa4XFvNUHVajqhhc8teyMvt-UeWYB92cQ?&utm_source=substack&utm_medium=email&utm_content=postcta)

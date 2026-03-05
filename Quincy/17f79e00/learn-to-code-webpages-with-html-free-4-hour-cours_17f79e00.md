@@ -1,0 +1,32 @@
+---
+subject: "Learn to code webpages with HTML [free 4-hour course for beginners]"
+from: "Quincy Larson <quincy@freecodecamp.org>"
+to: ""
+date: 2022-03-11 16:46:37
+labels: ["CATEGORY_PERSONAL", "IMPORTANT", "INBOX", "Quincy"]
+label_ids: ["CATEGORY_PERSONAL", "IMPORTANT", "INBOX", "Label_7697778124671848699"]
+---
+Here are this week's five links that are worth your time:
+
+1. People often ask me where to start their coding journey. I tell them that HTML is the most concrete starting point, because you can see the results of your code changes right on the webpage. And this week freeCodeCamp published a new HTML course that will introduce you to elements, semantic tags, tables, and more. (4 hour YouTube course): https://www.freecodecamp.org/news/learn-html-beginners-course/
+
+2. If you're learning DevOps and Cloud Engineering, freeCodeCamp just published a comprehensive Kubernetes course. This course will prepare you to earn the Cloud Native Associate certification, opening up lots of career opportunities. (14 hour YouTube course): https://www.freecodecamp.org/news/cncf-kubernetes-cloud-native-associate-exam-course
+
+3. Vim is a powerful text editor that comes built-in with most operating systems, including Linux and MacOS. Vim allows you to do almost anything with just a few keystrokes. It takes a few hours to learn the basics – and years to become proficient – but this course from a die-hard Vim enthusiast will give you a solid foundation. (75 minute YouTube course): https://www.freecodecamp.org/news/learn-vim-beginners-tutorial/
+
+4. One of the key concepts that underpins most modern websites is State. By tracking a website's State, you can understand what your visitors have done – whether that's toggling a night mode switch or adding an item to their shopping cart. State is a particularly important concept in JavaScript and React. This primer will help you understand State and leverage it with your own web development. (10 minute read): https://www.freecodecamp.org/news/react-state/
+
+5. A developer explores his 4-year journey toward publishing his first adventure game. After experimenting with both Java Playn and WebGL, he switched to Unity 2D. In this article, he shares his thoughts on various gamedev tools, and his evolving game design philosophy. (20 minute read): https://www.freecodecamp.org/news/how-i-developed-my-first-game/
+
+We're doing our best to help people around the world learn to code, so they can provide for their families and forge a career for themselves. You can help us create more learning resources by supporting our nonprofit's mission: https://www.freecodecamp.org/news/how-to-donate-to-free-code-camp/
+
+Quote of the Week: “I'm old-fashioned. I like my CSS seperated from my HTML; my HTML seperated from my JS; my JS separated from my CSS. I like my JS layer only added when I need it, usually progressively. CSS added progressively on top of semantic markup. I don't fight the C in CSS, I embrace it.” — Sara Soueidan, Software Engineer and Accessibility Advocate
+
+Happy coding.
+
+- Quincy Larson
+
+Teacher at https://www.freecodecamp.org
+I share useful things on Twitter at https://www.twitter.com/ossia
+
+If these emails aren't worth your time, you can turn them off: https://www.freecodecamp.org/ue/eZV2T3gHC7IGcwcpYPG64

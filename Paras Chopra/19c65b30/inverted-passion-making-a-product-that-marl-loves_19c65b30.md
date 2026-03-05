@@ -1,0 +1,69 @@
+---
+subject: "[Inverted Passion] Making a product that Marl loves"
+from: "Paras Chopra <paras1987@86486165.mailchimpapp.com>"
+to: ""
+date: 2026-02-16 09:05:04
+labels: ["CATEGORY_PERSONAL", "INBOX", "Paras Chopra", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_6668903435596043419", "UNREAD"]
+---
+This essay is part of the series in which I talk about my learnings and insights building a habit coaching app (Nintee) in 2024. It didn’t ultimately work out because an app has marginal influence in a human’s life (v/s that of friends, family, culture and immediate environment). Most apps that work in the category operate like gyms (charge upfront when the motivation is high, and be okay with high churn). I had raised VC funding for it and later it became clear to me that this wouldn’t be a VC scale business, so I shut it down and returned the remaining funding. Hope the insights learned along the way would turn out to be valuable to others.
+Making a product that Marl loves (this one): why well-intentioned apps ultimately become attention-seeking and gamified
+The two views of rationality (this one): who we think people are v/s who they really are
+How does behavior change happen: frameworks and mental models for human behavior change
+How to coach someone: 21 points to keep in mind while coaching someone
+Subscribe to the blog if you want to be notified of future essays.
+Get my new essays in your email
+/>
+We started building Nintee first as an AI-driven weight loss coach and then as a habit coach. We wanted to change the world by helping people achieve their goals in a methodical fashion. The plan was simple: internalize the science of habit building into an app and give people an AI coach for motivation.
+As we surveyed the market, we didn’t find even a single a competitor. Positive news for us? Why couldn’t we find successful habit coaching apps? Were there any successful apps which helped someone become a better person, or pick up a skill? The only name for a successful skill-building app that came up was Duolingo. They made $700mn+ of revenue in 2024, so clearly this model could work, right?
+As we studied Duolingo, it became clear that they weren’t a language learning app but rather a game. Reddit is full of stories where people say they’re addicted to Duolingo but can’t speak the language they’re learning. Why would Duolingo be optimizing for game-like experience and not for actually teaching a language.
+The answer lies in the fact that the average marginal user of mobile apps is minimally committed, highly distracted, constantly craving dopamine hits and always ready to ditch apps after a microsecond of boredom. For investor-backed startups and public companies like Duolingo, this average marginal user is the one they end up targeting because that’s where the eternal growth comes from.
+So, it was clear to us that for Nintee, a VC-backed startup, to succeed, we had to build a game for Marl where he feels his time a better time spent that other casual games or social media. Because if we can’t compete against cute cat photos, we’re toast.
+We decided we had to build apps that give Marl meaningful fun – in retrospect, we should have realized that this was an oxymoron but we still had (naive) hopes that you could make experiences that are both valuable and fun. In retrospect, it became clear that the reason edutainment as a category never took off is because it is neither entertainment nor fun.
+But, for now, let’s dissect Marl.
+Following is my (verbatim) notes from the time period when we were researching who this Marl is and what does he need.
+Who is Marl?
+Marl has:
+Short attention spans
+Need for instant gratification / dopamine hits
+Aversion to effort of any kind
+Note that we are all Marl for most of the day and are largely driven by our evolved animal instincts. Why? Because using our brain is costly/effortful, and we only do so for highly-motivating projects (like job where we get paid).
+What about non-Marls? Those who behave logically, rationally and are ready to put effort
+Of course, nerds with obsessions exist, but they’re a tiny market. To make a big consumer business, either you:
+Make a high-priced product and be able to sell to nerds
+Or, make a mass-market product that appeals to Marl
+In our case (personal development on mobile), the former isn’t possible AND the opportunity is not clear too.
+So, we chose to serve to Marl and make a product that is broadly appealing.
+“Nearly all popular consumer software has been trending towards minimal user agency”
+“Since most software products charge a flat per-user fee (often zero, because ads), and economic incentives operate on the margin, a company with a billion-user product doesn’t actually care about its billion existing users. It cares about the marginal user – the billion-plus-first user – and it focuses all its energy on making sure that marginal user doesn’t stop using the app.”
+“The first thing you need to know about Marl is that he has the attention span of a goldfish on acid.”
+“Marl’s tolerance for user interface complexity is zero. As far as you can tell he only has one working thumb, and the only thing that thumb can do is flick upwards in a repetitive, zombielike scrolling motion. “
+“Marl will never click through any of your hamburger menus, never change any setting to a non-default”
+“Insufficiently stimulated, Marl throws a fit and swipes over to TikTok, never to return to your app”
+“Marl can also be a state of mind. We’ve all been Marl at one time or another – half consciously scrolling in bed, in line at the airport with the announcements blaring, reflexively opening our phones to distract ourselves from a painful memory.”
+“There will always be a way to find more Marls to add to your user pool because Marl is the basest human need for a steady effortless dopamine drip. Just about everyone has some amount of time that they spend as Marl, so there is an almost limitless pool of Marl time to pull new users from.”
+“If you are making a product for everyone, Marl is the only persona that is in everyone, so you should probably target Marl.”
+Why build systems that encourage this?
+Because there is an endless amount of human time spent like this, but we all have limited attention for other things. If you try to appeal to someone’s better parts, then there is a limit to the amount of attention that they can apply to your product. If you try to appeal to someone’s base need for dopamine, then the limit of attention is much higher
+This is something important that people do not seem to grasp. Intelligence is a really high dimensional thing. Even the ones that are highly intelligent in some dimensions are dumb as rock in vast majority of other dimensions. So we all are basically morons with some occasional flashes of intelligence in some individuals.
+In my experience, making stuff that provides no intrinsic value like video games, only value of meaning, my games have only gotten better by catering to those impulses, which are really not that negative or stupid.
+Really, who needs tutorials? Why make stuff that needs a tutorial? You can have complex games without tutorials and FTUEs. You don’t need so much UI. It’s not about scrolling so much as it is that so many apps obscure, rather than transmit, anything meaningful, through really obnoxious UI.
+Now, let’s find any single company/product that actually is successful by encouraging us to become better versions of ourselves. [link]
+Marl isn’t the “marginal” user, Marl is the “average” user. If the average user actually cared about deep and meaningful content, then any A/B test that throws her under the bus in order to please Marl will show bad data, and the proposed change would be killed.
+The average user doesn’t want deep and meaningful content. The average user is Marl. That is why every product, no matter how noble it starts off, eventually degenerate into Marl-fodder. Because that’s where the money is. The only way to escape this is to take on a huge pay cut and work at a company that doesn’t care about growing profits. Go ahead, you first.
+“if you walked up to Marl, built trust with him, and asked him whether he wanted more meaningful content in his life (for a definition of meaningful which made sense to him) I think he would say yes.”
+If you walked up to me, built trust with me, and asked me if I wanted more exercise in my life I’d say yes. And yet.
+I’m mixed on the shorts. I like it when they do a “you fix this by pushing this button here” in 15 seconds instead of it being 8+ minutes so they can get mid roll ads.
+The average user used to be an 18-40 year old person with post-secondary education, in a mid to high income country, using a laptop. Now, The average user is a 10-65 year old person using a smartphone.
+The people and content on an app always trump slick design & novel interactions. So focus more on getting network effects and solving the “cold start.”
+Habit formation requires recurring organic exposure on other networks. Said another way: after people install your app, they need to see your content elsewhere to remind them that your app exists (e.g., Instagram photos on Facebook, TikTok videos on Instagram).
+People download apps to solve core human needs (1) finding love, (2) making or saving money, and (3) play. People rarely take time out of their day for anything else.
+The number of social products that took off among older audiences can be counted on 1 finger. Our habits become immutable as we exit our formative years.
+One of the most important differentiators between great consumer founders and the rest is a willingness to acknowledge a shameful truth about people—and then being comfortable attaching your name to that product.
+Think of consumers as lizard brains: they mindlessly tap on rectangles on a screen for basic needs—like making money or finding a date
+A dumb PM will stare at an onboarding funnel for hours, fabricate problems, create months of work for engineers, and ultimately improve conversion by 5%. A smart PM will look at funnel in a minute, make a button bigger, and improve conversion by 20%.
+We tend to overcomplicate what it means to have great product sense. To put it simply: you can look at a screen and intuitively predict the percent of users who will convert to the next screen within a 10% margin of error.
+There’s some weird cognitive bias where product creators vastly overestimate how likely people are to do or pay attention to something based on how much the product creator wants them to, and they vastly underestimate how lazy people are.
+They also don’t realize that yea I could keep going through thier onboarding flow, but timewise it’s competing with me looking at more dancing/cat videos on Tik Tok, and that is some seriously compelling content to compete with!
+When designing a consumer product, you should consider every tap by a user to be a miracle. The motivation to stop using a new app will always be stronger than to use it To signup & complete a profile on Gas, we got it down to 15 taps total—with no keyboard required at any stage
+Needing a user to type with a keyboard at any stage to become activated is asking for failure.

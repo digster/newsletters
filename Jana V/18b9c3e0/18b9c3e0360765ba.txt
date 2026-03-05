@@ -1,0 +1,79 @@
+Post       : Neural Networks &#8211; Part 1
+URL        : https://janav.wordpress.com/2023/11/04/neural-networks-part-1/
+Posted     : November 4, 2023 at 2:29 pm
+Author     : Jana Vembunarayanan
+Tags       : LLM, Machine Learning
+Categories : Computer Science, Mathematics, Statistics
+
+This is my 5th post on my journey to build a toy GPT. I'd recommend checking out my previous posts ( https://janav.wordpress.com/tag/llm/?order=asc )  before diving into this one.
+
+Take the statement, 'I will only go for a walk if it's nice outside AND I have free time.' This can be neatly represented using a truth table. We can also create a simple linear classifier. This classifier would be able to determine a decision boundary that separates the 'true (1)' outcomes from the 'false (0)' ones, as illustrated below.
+
+https://janav.files.wordpress.com/2023/11/image-1.png
+
+Let's revise the statement to include an OR condition for someone who gives walking a higher priority: 'I will go for a walk if it's nice outside OR I have free time.
+
+https://janav.files.wordpress.com/2023/11/image.png
+
+Imagine you have an unusual preference for taking walks: "I will go for a walk if it is nice outside XOR if I have free time, but not both." This means you'll only decide to walk if either the weather is pleasant or you have some spare time—not when both conditions are present simultaneously. In simpler terms, XOR here means you're setting a rule for yourself to walk under one favorable condition at a time, never both.
+
+https://janav.files.wordpress.com/2023/11/image-2.png
+
+Can you use a single classifier to separate 'true' outcomes from 'false' ones for the XOR case? A single linear classifier can't solve a simple XOR problem on its own. To distinguish 'true' outcomes from 'false' ones, you need at least two classifiers to create a clear boundary. This concept of combining multiple linear classifiers is the foundation for understanding neural networks.
+
+In Logistic Regression ( https://janav.wordpress.com/2023/10/22/from-linear-to-logistic-sigmoid-curve-and-log-loss/ ) , we saw how a sigmoid function takes the output of a linear function and makes it non-linear by bending the line. The XOR example makes it pretty clear that we need more than one linear function. Can we combine these two ideas to create a universal function that's capable of learning from any type of data presented to it?
+
+The Rectified Linear Unit (ReLU) is another function similar to the sigmoid function; both change straight-line input into something more curved or nonlinear. The ReLU function simply outputs zero for any negative input and keeps the input unchanged if it is positive, a straightforward rule expressed as max(0, input).
+
+Watch the video I put together. It shows what happens when you take several linear functions and pass them through the ReLU function and add the output. It’s magical to see the line bend.
+
+I visualize this concept through a simple illustration.
+
+https://janav.files.wordpress.com/2023/11/image-3.png
+
+Before we go further, let's take a quick glance at how the human brain works. Our brain is composed of many cells, one type being the nerve cell, or neuron. Neurons are the cells responsible for sending and receiving electrochemical signals to and from the brain itself.
+
+It is estimated that our brain contains approximately 100 billion neurons, each potentially forming thousands of connections with other neurons, resulting in an astounding total of around 100 trillion connections. The complexity of the brain's neural network is truly remarkable.
+
+ Each neuron is made up of three parts: the dendrites, the cell body, and the axon.
+
+https://janav.files.wordpress.com/2023/11/image-5.png
+
+In the fascinating book "The Brain That Changes Itself ( https://www.amazon.com/Brain-That-Changes-Itself-Frontiers/dp/0143113100 ) ," author Norman Doidge provides a clear and detailed explanation of these three components of a neuron.
+
+The dendrites are treelike branches that receive input from other neurons. These dendrites lead into the cell body, which sustains the life of the cell and contains its DNA. Finally the axon is a living cable of varying lengths (from microscopic lengths in the brain, to some that can run down to the legs and reach up to six feet long). Axons are often compared to wires because they carry electrical impulses at very high speeds (from 2 to 200 miles per hour) toward the dendrites of neighboring neurons.
+
+A neuron can receive two kinds of signals: those that excite it and those that inhibit it. If a neuron receives enough excitatory signals from other neurons, it will fire off its own signal. When it receives enough inhibitory signals, it becomes less likely to fire. Axons don’t quite touch the neighboring dendrites. They are separated by a microscopic space called a synapse.
+
+Once an electrical signal gets to the end of the axon, it triggers the release of a chemical messenger, called a neurotransmitter, into the synapse. The chemical messenger floats over to the dendrite of the adjacent neuron, exciting or inhibiting it. When we say that neurons “rewire” themselves, we mean that alterations occur at the synapse, strengthening and increasing, or weakening and decreasing, the number of connections between the neurons.
+
+A neural network is a vast computational graph that models the architecture of the human brain. Imagine each linear equation (m1x1 + m2x2 + … + b) as a standalone neuron. The result of this equation is fed into an activation function like ReLU, which either suppresses or allows the signal to progress to the subsequent layer.
+
+The weights and biases that the machine learns are analogous to the synaptic changes occurring within the brain. By chaining these linear equations from one layer to another, creating a multi-layered web, we're essentially trying to mirror the brain's dense network of neuron connections.
+
+Humans have established themselves as the most dominant species on the planet, largely because of our unique ability to create models of reality. The Neural Network is a model for how the human brain works. While not flawless, it is sufficiently sophisticated to tackle complex challenges, such as driving a car, recommending movies, or even writing code.
+
+The image below is a simple neural network with one hidden layer. Hidden layers are layers of neurons between the input layer and the output layer in neural networks. They're called hidden because they don't interact with the external environment like the input and output layers do, meaning they don't get raw data or give final results directly.
+
+https://janav.files.wordpress.com/2023/11/image-4.png
+
+You’re free to add several neurons in each layer and add multiple layers between the input and the output layers. Adding more layers turns the network into a Deep Neural Network. The complexity of the problem you're tackling will typically dictate the number of layers and neurons within those layers that you'll need.
+
+In linear and logistic regression, we have a single linear equation. This simplifies the process of calculating derivatives to understand how changes in weights and biases influence the loss function. By contrast, neural networks involve a computational graph that interlinks multiple linear equations.
+
+The weight w1 in the above image is an input to a ReLU (Rectified Linear Unit) function, and the output from this ReLU function is then fed as an input to the neuron in the output layer. How do we adjust the indirectly connected weight w1 so that it decreases the loss function?
+
+This is where backpropagation comes into play. I had a 'Eureka!' moment when I understood how backpropagation works. I'll explore this topic in my next post.
+
+Do yourself a favor by watching these lectures on Neural Networks and Backpropagation: Neural net foundations ( https://course.fast.ai/Lessons/lesson3.html ) , From-scratch model ( https://course.fast.ai/Lessons/lesson5.html ) , and The spelled-out intro to neural networks and backpropagation ( https://www.youtube.com/watch?v=VMj-3S1tku0 ) .
+
+Add a comment to this post: https://janav.wordpress.com/2023/11/04/neural-networks-part-1/#respond
+
+-- 
+
+
+Manage Subscriptions
+https://subscribe.wordpress.com/?key=3ba1653235661837fb9cfafd373444b6&email=ishan.mail%40gmail.com
+
+Unsubscribe:
+https://subscribe.wordpress.com/?key=3ba1653235661837fb9cfafd373444b6&email=ishan.mail%40gmail.com&b=B_sL5KWtS-13PNSC1i_Urk-quhfOHrPws9_bquvnLdX3eTSucihvjk4dtCUy_jZ49Tjs2UnnHZD4yX97eAN0AlJ-glraL9p5_pKrtQlOmevaci0NM4oMTaGH7E_JnDhwiif2wL9GY3LTPL0yqzHfrVFI2CIeL_Q%3D

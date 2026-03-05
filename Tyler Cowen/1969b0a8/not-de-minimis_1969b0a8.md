@@ -1,0 +1,14 @@
+---
+subject: "Not De Minimis"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2025-05-04 11:24:41
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+Treasury Secretary [Howard Lutnick](http://marginalrevolution.com?action=user_content_redirect&uuid=e4cd271175403c907f860bf81bfb29df18d42dedd30ef853e62dbd0ff494e030&blog_id=42693868&post_id=90573&user_id=262258391&subs_id=225460721&signature=4b3d85b556617e77273d837cad1396aa&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly94LmNvbS9ob3dhcmRsdXRuaWNrL3N0YXR1cy8xOTE4NDY1MTc1MjcyODA0NzU3&email_id=ac25cf0da2616eaf4164c5bcdb67d818):
+Ending the “de minimis loophole” is a big deal. This rule allowed foreign companies to avoid paying tariffs on small shipments, giving them an unfair advantage over American small businesses. To small businesses across the country: we have your back.
+[The Value of De Minimis Imports](http://marginalrevolution.com?action=user_content_redirect&uuid=399b819a3d9bdbe919f8f6ec5d111e5f4dde0490949fdebb50d8dd062b0e1f20&blog_id=42693868&post_id=90573&user_id=262258391&subs_id=225460721&signature=63a47dd06aeb7975602e08a27e4da3bf&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly93d3cubmJlci5vcmcvcGFwZXJzL3czMjYwNw=&email_id=ac25cf0da2616eaf4164c5bcdb67d818) by Fajgelbaum and Khandelwal:
+A U.S. consumer can import $800 worth of goods per day free of tariffs and administrative fees. Fueled by rising direct-to-consumer trade, these “de minimis” shipments have exploded in recent years, yet are not recorded in Census trade data. Who benefits from this type of trade, and what are the policy implications? We analyze international shipment data, including de minimis shipments, from three global carriers and U.S. Customs and Border Protection. Lower-income zip codes are more likely to import de minimis shipments, particularly from China, which suggests that the tariff and administrative fee incidence in direct-to-consumer trade disproportionately benefits the poor. Theoretically, imposing tariffs above a threshold leads to terms-of-trade gains through bunching, even in a setting with complete pass-through of linear tariffs. Empirically, bunching pins down the demand elasticity for direct shipments. Eliminating §321 would reduce aggregate welfare by $10.9-$13.0 billion and disproportionately hurt lower-income and minority consumers.
+In other words, eliminating the de minimis rule is a significant tax on poorer Americans.
+Frankly, it's also a pain in the ass to have your international shipments delayed at broker (who often charges you exorbitant rates, more than the customs tax) and then have to go down to the customs office to pay the stupid tax. Yes, I am speaking from experience.

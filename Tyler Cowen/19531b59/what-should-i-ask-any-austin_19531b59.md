@@ -1,0 +1,11 @@
+---
+subject: "What should I ask Any Austin?"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2025-02-23 07:28:59
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+Yes, I will be doing a Conversation with him. If you don't already know, Any Austin is [a huge YouTube star](http://marginalrevolution.com?action=user_content_redirect&uuid=b90603f61aaf727c108cede7bd5ff93133646110bbb8b47a713642dc241443e9&blog_id=42693868&post_id=90115&user_id=262258391&subs_id=225460721&signature=c6fc7778755c2660f36f04e4210c1c68&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly93d3cueW91dHViZS5jb20vQGFueV9hdXN0aW4). Grok 3 gave me this summary:
+Any Austin is a cerebral and innovative YouTube creator whose channel, boasting over 650,000 subscribers, transcends conventional gaming content to explore esoteric, often whimsical intersections of video games and real-world phenomena. Initially gaining traction with series like "Eggbusters," where he meticulously debunks gaming myths, Austin has evolved into a niche polymath, crafting video essays that blend rigorous research with a dry, absurdist wit—think hydrogeology analyses of virtual landscapes or socioeconomic studies of NPC populations in titles like The Elder Scrolls. A former game journalist for Nintendo Everything and an indie pop musician under the alias Frostyn, he brings a multidisciplinary lens to his work, underpinned by a keen eye for the overlooked details of digital worlds. His content, which ranges from glitch exposés to philosophical musings on gaming’s peripheral elements, appeals to an erudite audience that values intellectual curiosity over mainstream bombast, cementing his status as a singular voice in the platform’s crowded ecosystem.
+Here is [Any Austin on Twitter](http://marginalrevolution.com?action=user_content_redirect&uuid=13fe67136fcc749ed01deac3b92b3db5a300c82f99c393c7c5381bb256da6884&blog_id=42693868&post_id=90115&user_id=262258391&subs_id=225460721&signature=a93a2f0680450c86426fcc3b5b7499f1&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly94LmNvbS9hbnlfYXVzdGluP2xhbmc9ZW4). So what should I ask him?

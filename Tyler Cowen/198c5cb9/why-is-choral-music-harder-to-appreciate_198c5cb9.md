@@ -1,0 +1,18 @@
+---
+subject: "Why is choral music harder to appreciate?"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2025-08-20 04:45:09
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+It has struck me that most recommenders and lovers of choral music and themselves singers (or conductors) of choral music. It helps a great deal to be right there. So it occurred to me there are a few reasons why choral music is harder to appreciate than say either symphonies or chamber music:
+1. Mixtures of voices do not translate onto recordings as well as do most symphony orchestra instrumental blends. For one thing, the different voices are harder to sort out. They are best understood when you are singing in the midst of the action.
+2. A good deal of choral music is sung in a different language, and so most listeners do not understand the words.
+3. A good deal of quality choral music has a background religious context. Most listeners have only a modest knowledge of this background context. For instance, how many people know that Elgar's Dream of Gerontius is about purgatory, and that this was highly controversial in Elgar's time, as it was viewed as a very Catholic concept?
+3b. 6. Choral works may depend on church acoustics, or the surrounding church aura, but we go to church less often these days.
+4. A lot of choral music sounds pious, and indeed may be pious. At the very least they tend to be serious. (How many comic choral pieces can you think of from the classical repertoire? Or even comic moments?) That seriousness of mood may appeal less to contemporary listeners.
+5. Star vocalists drive a reasonable percentage of classical music sales. But most choral works have a strong collective element, and they may not be set up to showcase soloists. So the celebrity-driven appeal of choral forms can be relatively weak.
+6. Many of the best-known choral works are quite long. That may place them at a relative disadvantage.
+7. Opera arguably has grown in relative popularity, and that may be serious competition for choral works because it can serve as a substitute.
+What else?

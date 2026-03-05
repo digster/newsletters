@@ -1,0 +1,20 @@
+---
+subject: "IITs’ hot new recruiters: secretive and choosy stock-trading firms"
+from: "The Ken <info@the-ken.com>"
+to: ""
+date: 2023-12-08 02:40:08
+labels: ["CATEGORY_PERSONAL", "INBOX", "STARRED", "The Ken", "YELLOW_STAR"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "STARRED", "Label_8244464457792971031", "YELLOW_STAR"]
+---
+Good Morning Ishan,
+It’s no secret that engineering students in India are facing a dire placement season this year. Even undergraduates at the Indian Institutes of Technology (IITs), the most elite of the country’s engineering colleges, haven’t been immune from the annus horribilis.
+But there are a handful of IIT students bucking the trend—the creme de la creme.
+They are being sought out by notoriously secretive entities that hire ultra-selectively and pay more than generously. Their screening process isn’t for the faint-hearted and calls for exceptional math chops, among other unique skills and achievements. The starting pay? Well, it could even exceed Rs 1 crore ($120,000) a year. Far more than what the likes of tech giant Microsoft offer.
+Abhirami’s story today is about these secretive entities—the high-frequency trading (HFT) firms that transact huge volumes daily in the financial markets at extremely high speeds using algorithms. The names Jane Street, Optiver, Alphagrep, Quadeye, et al. won’t ring a bell for most, but at the IITs, they are a huge draw, especially in this lean year.
+But working at the HFTs is uniformly high-pressure, and it’s a perform-fast-or-perish-quick culture at many of these places. Not many continue at the same place for over two to three years.
+What’s drawing the HFTs to the IITs and vice-versa? What are the trade-offs? Is it worth it? All this and much more in today’s solid, fast-paced story. Don’t miss it: [https://the-ken.com/story/iits-new-hot-recruiters-secretive-and-choosy-stock-trading-firms/](https://the-ken.com/story/iits-new-hot-recruiters-secretive-and-choosy-stock-trading-firms/?utm_source=daily&utm_medium=email&utm_campaign=daily_newsletter) (13-minute read)
+Regards,
+Anand
+[anand@the-ken.com](mailto:anand@the-ken.com)
+What you just read is the personalised daily introduction to The Ken's story. Written by a different person each day. Often insightful, sometimes witty, and very rarely boring. Someone sent this to you? [Sign up for free](https://the-ken.com/?modal=register&utm_source=footer&utm_medium=email&utm_campaign=morning_email_ind). [Dont like these? You can unsubscribe](https://link.the-ken.com/asm/unsubscribe/?user_id=2349339&data=4QpBGxQdtv8jpNjnQKoONhw6rinRcv2GsZiCjwt7JUBoMDAwdTAwMGRCIWOhCJ276HLDzqd37JyljecxPleKKVzD-HqpXCRmsq770dzsNM8gZA_M2Y_3QUAoA4pV-X25GcZjGW8pe4DOEdya_6VVfuPJQ1zSxYpD24VzWhsG2msLTrhwR6kXcS-hznJ53BxjWIHLddaKeJ4In15Prpq0eIq4D8MNZ8esCh3Ohm2C_-m7FTsJaQTiJGiTwbHV8JqfqJ1gn9fVsZaTjziy4pjCeBM0vDo61qo1TidxDHE8d6sTk63AS4MNsXyLg47qQr_cRLkZWftQTPixVFlKPS1rxxjmPZbfhUb2pJfNZFVlbIzp72khVV_xih-WVO-0tTisfsGW6BwezqVAcraTSxacXNxenhmdyKmHLxezQmVYwud0hBqahgnQRpaLtceZGUhmyGajlTC0ofXCWrP9pknZxoEMmWoUAxKZBTHfbx37aW0ZwiLDE-8Mxs-Xm9qV6PEbPbF8rUlJGYDXOU55dtUJepH2xb9REVow0_K_DkylX785k2hF5iOGUvIkFSY0kbV8B64M67PblzM=) Dont want to hear from us again? [ Unsubscribe from our emails here](https://link.the-ken.com/asm/?user_id=2349339&data=7D-GIMS2Jk3AOdJqaJuPO-5bXkZ7j62tv8umVcpC_RVoMDAwdTAwMHyVKJuSmdswN2b1PLicMIMIAmF3c3pFb1BJRZGYQtpT_JxYxFTaaNtIdd5cK947rNkcuiBn4HjRh2jCNQOjdZPx99sp0qv86Oi_7FezhVhs6XBoaqcavI6OOon-DJDfeFpxp0MMGDTdz-iPggsywgxHiKV2yvfqn8er7rtA09fg8B2xIjno6Z8mSw-4aFKdv21pYKyekg-Lj9luFm4OqucT-3c0BlQfZZ5XapxS9to1kbBvCd7nu0M5n-Zz6w09fknxS3Gkug6zM6_Evx_sCXEJuXDb9n4Y-8_m4RGgAdgiYdKjgjLR3A0nYcunLjy0PnaPyg6tZNiycnzJjaAJ6XgY3eSEdE00QsrwuXFBbMqF7P7ONi798t-LJ-CyiQ3Muh_1ACkppRqF_6ja__LSqLVunFN06Y7UqphWDyZ812QIEx_7OoHBiw8NmvWcNuvfVCASP6lkATWhY26zooqRk1LQNGga0KRz8pNvcDwqvOzhTcOIbczbz13FBOV92heWJw==).
+Something wrong? Tell us at [support@the-ken.com](mailto:support@the-ken.com)

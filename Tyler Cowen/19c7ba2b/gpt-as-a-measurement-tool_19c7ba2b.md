@@ -1,0 +1,10 @@
+---
+subject: "GPT as a Measurement Tool"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2026-02-20 15:19:48
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+We present the GABRIEL software package, which uses GPT to quantify attributes in qualitative data (e.g. how “pro innovation” a speech is). GPT is evaluated on classification and attribute rating performance against 1000+ human annotated tasks across a range of topics and data. We find that GPT as a measurement tool is accurate across domains and generally indistinguishable from human evaluators. Our evidence indicates that labeling results do not depend on the exact prompting strategy used, and that GPT is not relying on training data contamination or inferring attributes from other attributes. We showcase the possibilities of GABRIEL by quantifying novel and granular trends in Congressional remarks, social media toxicity, and county-level school curricula. We then apply GABRIEL to study the history of tech adoption, using it to assemble a novel dataset of 37,000 technologies. Our analysis documents a tenfold decline of time lags from invention to adoption over the industrial age, from ~50 years to ~5 years today. We quantify the increasing dominance of companies and the U.S. in innovation, alongside characteristics that explain whether a technology will be adopted slowly or speedily.
+That is from [a new NBER working paper](https://marginalrevolution.com?action=user_content_redirect&uuid=d740c559f9c5cb1e40f77891c7d6c9b250d00d0db17863e1fb4190e57896610d&blog_id=42693868&post_id=92477&user_id=262258391&subs_id=225460721&signature=077d1c06912958898dbb2624998fe7ec&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly93d3cubmJlci5vcmcvcGFwZXJzL3czNDgzNA=&email_id=513accc619117b300eba16ab7e92aae5) by .

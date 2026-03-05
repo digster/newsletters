@@ -1,0 +1,327 @@
+View this post on the web at https://thezvi.substack.com/p/time-to-welcome-claude-37
+
+Anthropic has reemerged from stealth and offers us Claude 3.7 [ https://substack.com/redirect/b91dd943-f312-4cb3-ab32-660fa12bec9e?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ].
+Given this is named Claude 3.7, an excellent choice, from now on this blog will refer to what they officially call Claude Sonnet 3.5 (new) as Sonnet 3.6. 
+Claude 3.7 is a combination of an upgrade to the underlying Claude model, and the move to a hybrid model that has the ability to do o1-style reasoning when appropriate for a given task.
+In a refreshing change from many recent releases, we get a proper system card [ https://substack.com/redirect/5d7e1dce-e5e9-42b1-8a9e-3512e178efa5?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ] focused on extensive safety considerations. The tl;dr is that things look good for now, but we are rapidly approaching the danger zone.
+The cost for Sonnet 3.7 via the API is the same as it was for 3.6, $5/$15 for million. If you use extended thinking, you have to pay for the thinking tokens.
+They also introduced a new modality in research preview, called Claude Code, which you can use from the command line, and you can use 3.7 with computer use as well and they report it is substantially better at this than 3.6 was. 
+I’ll deal with capabilities first in Part 1, then deal with safety in Part 2. 
+Table of Contents
+Executive Summary. [ https://substack.com/redirect/a54ce341-efd2-45a6-80a2-47e8e4c1d03d?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]
+Part 1: Capabilities. [ https://substack.com/redirect/f3ade25a-effa-49c3-82fa-70a1c59911d1?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]
+Extended Thinking. [ https://substack.com/redirect/d9f9e105-00d6-41af-91c9-c6b10600646d?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]
+Claude Code. [ https://substack.com/redirect/b444ad00-b5d6-4215-956f-bbf1a700afc5?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]
+Data Use. [ https://substack.com/redirect/593a7d62-0738-4f1b-8814-8c7f42aa110f?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]
+Benchmarks. [ https://substack.com/redirect/bd36a3c8-44c9-4fe2-982e-b3aac6ec4fdb?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]
+Claude Plays Pokemon. [ https://substack.com/redirect/80185ff3-0ee9-40c9-8b86-846222a0c2b6?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]
+Private Benchmarks. [ https://substack.com/redirect/d6e6535a-de6b-4181-bfc5-2c03b3c3302d?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]
+Early Janus Takes. [ https://substack.com/redirect/ee723ca0-2c08-4185-9220-0f4cf33fe00c?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]
+System Prompt. [ https://substack.com/redirect/74767514-c08f-4082-892c-07a931cd60eb?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]
+Easter Egg. [ https://substack.com/redirect/fcc7b806-1745-45c8-9147-f9a380afe8d1?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]
+Vibe Coding Reports. [ https://substack.com/redirect/bc180302-f929-4092-97d5-aed8c48dcda0?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]
+Practical Coding Advice. [ https://substack.com/redirect/0273938c-8bce-45fc-8d51-ac58f8f47f74?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]
+The Future. [ https://substack.com/redirect/cad2a63b-f82b-4689-8388-3ea50bea9e40?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]
+Part 2: Safety and the System Card. [ https://substack.com/redirect/a23957c4-044e-4074-a378-4bd30e8a64fb?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]
+Claude 3.7 Tested as ASL-2. [ https://substack.com/redirect/afa12dc2-9e87-48e0-8f02-8ecb8be03454?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]
+The RSP Evaluations That Concluded Claude 3.7 is ASL-2. [ https://substack.com/redirect/0befd6a1-49dc-4a00-9d5c-b6543b582744?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]
+ASL-3 is Coming Soon, and With That Comes Actual Risk. [ https://substack.com/redirect/a49fff4e-d4ae-4559-acc1-83a134d730b2?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]
+Reducing Unnecessary Refusals. [ https://substack.com/redirect/868a6aef-16be-46c6-821d-56c81b176090?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]
+Mundane Harm Evolutions. [ https://substack.com/redirect/09e63fe4-d915-412c-a6c9-7b87765e84a1?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]
+Risks From Computer Use. [ https://substack.com/redirect/000dd884-b541-4dbe-aa0e-cfefd1ea7cdd?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]
+Chain of Thought Faithfulness. [ https://substack.com/redirect/c24d2323-993a-479b-8bfc-60dec28e5ffc?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]
+Alignment Was Not Faked. [ https://substack.com/redirect/439bf4b1-136a-49eb-a82d-4b0bc45ffc7d?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]
+Excessive Focus on Passing Tests. [ https://substack.com/redirect/c01cf846-4792-4e84-af5d-38cd161967eb?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]
+The Lighter Side. [ https://substack.com/redirect/2d943c9a-4f27-4a3a-98aa-0594823b0353?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]
+Executive Summary
+It is a good model, sir. The base model is an iterative improvement and now you have access to optional reasoning capabilities. 
+Claude 3.7 is especially good for coding. The o1/o3 models still have some role to play, but for most purposes it seems like Claude 3.7 is now your best bet. 
+This is ‘less of a reasoning model’ than the o1/o3/r1 crowd. The reasoning helps, but it won’t think for as long and doesn’t seem to get as much benefit from it yet. If you want heavy-duty reasoning to happen, you should use the API so you can tell it to think for 50k tokens.
+Thus, my current thinking is more or less:
+If you talk and don’t need heavy-duty reasoning or web access, you want Claude.
+If you are trying to understand papers or other long texts, you want Claude.
+If you are coding, definitely use Claude first.
+Essentially, if Claude can do it, use Claude. But sometimes it can’t, so…
+If you want heavy duty reasoning or Claude is stumped on coding, o1-pro.
+If you want to survey a lot of information at once, you want Deep Research.
+If you are replacing Google quickly, you want Perplexity.
+If you want web access and some reasoning, you want o3-mini-high.
+If you want Twitter search in particular, or it would be funny, you want Grok.
+If you want cheap, especially at scale, go with Gemini Flash.
+Claude Code is a research preview for a command line coding tool, looks good.
+The model card and safety work is world-class. The model looks safe now, but we’re about to enter the danger zone soon.
+Part 1: Capabilities
+Extended Thinking
+This is their name for the ability for Claude 3.7 to use tokens for a chain of thought (CoT) before answering. AI has twin problems of ‘everything is named the same’ and ‘everything is named differently.’ Extended Thinking is a good compromise.
+You can toggle Extended Thinking on and off, so you still have flexibility to save costs in the API or avoid hitting your chat limits in the chat UI.  
+Anthropic notes that not only does sharing the CoT enhance user experience and trust, it also supports safety research, since it will now have the CoT available. But they note that it also has potential misuse issues in the future, so they cannot commit to fully showing the CoT going forward. 
+There is another consideration they don’t mention. Showing the CoT enables distillation and copying by other AI labs, which should be a consideration for Anthropic both commercially and if they want to avoid a race. Ultimately, I do think sharing it is the right decision, at least for now.
+Claude Code
+Alex Albert (Head of Claude Relations) [ https://substack.com/redirect/3f47aa58-4896-4832-9092-3981d1c729c1?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]: We're opening limited access to a research preview of a new agentic coding tool we're building: Claude Code.
+You'll get Claude-powered code assistance, file operations, and task execution directly from your terminal.
+Here’s what it can do:
+After installing Claude Code, simply run the "claude" command from any directory to get started.
+Ask questions about your codebase, let Claude edit files and fix errors, or even have it run bash commands and create git commits.
+Within Anthropic, Claude Code is quickly becoming another tool we can't do without. Engineers and researchers across the company use it for everything from major code refactors, to squashing commits, to generally handling the "toil" of coding.
+Claude Code also functions as a model context protocol (MCP) client. This means you can extend its functionality by adding servers like Sentry, GitHub, or web search.
+[Try it here [ https://substack.com/redirect/7a612cec-aff5-4ac4-9bac-38a674ee9f71?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ].]
+Riley Goodside [ https://substack.com/redirect/c9483ddf-b9a8-4dab-ae7f-3deba1563e8e?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]: Really enjoying this Claude Code preview so far. You cd to a directory, type `claude`, and talk — it sees files, writes and applies diffs, runs commands. Sort of a lightweight Cursor without the editor; good ideas here
+Space is limited. I’ve signed up for the waitlist, but have too many other things happening to worry about lobbying to jump the line. Also I’m not entirely convinced I should be comfortable with the access levels involved?
+Here’s a different kind of use case.
+Dwarkesh Patel [ https://substack.com/redirect/0e0af05a-7a2e-4d80-a5f1-636acc9a2492?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]: Running Claude Code on your @Obsidian directory is super powerful.
+Here Claude goes through my notes on an upcoming guest's book, and converts my commentary into a list of questions to be added onto the Interview Prep file.
+I’ve been attempting to use Obsidian, but note taking does not come naturally to me, so while mine has been non-zero use so far it’s mostly a bunch of links and other reference points. I was planning on using it to note more things but I keep not doing it, because my writing kind of is the notes for many purposes but then I often can’t find things. AI will solve this for me, if nothing else, the question is when.
+Gallabytes ran a poll, and those who have tried Claude Code seem to like it [ https://substack.com/redirect/c25b14c3-2262-42bc-974e-fc5a8f763f48?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ], beating out Cursor so far, with the mystery being what is the ‘secret third thing.’  
+Data Use
+Anthropic explicitly confirms they did not train on any user or customer data, period.
+They also affirm that they respected robots.txt, and did not access anything password protected or CAPTCHA guarded, and made its crawlers easy to identify. 
+Benchmarks
+We need new standard benchmarks [ https://substack.com/redirect/1efbf750-3b14-4bc5-a6df-cceb8bf6b05f?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ], a lot of these are rather saturated [ https://substack.com/redirect/7652423e-0971-49b7-9785-bd9648e1107d?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]. The highlight here is the progress on agentic coding, which is impressive even without the scaffold.
+More thinking budget equals better performance on relevant questions. 
+As always, the benchmarks give you a rough idea, but the proof is in the using.
+I haven’t had that much opportunity to try Claude yet in its new form, but to the extent that I have, I’ve very much liked it.
+Claude Plays Pokemon
+Prerat [ https://substack.com/redirect/4feb8514-1c2f-4f12-9b47-09d7aa74e52c?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]: omg claude named his rival WACLAUD??!?!
+Nosilverv: JANUS!!!!!
+But we’re not done without everyone’s favorite benchmark, playing Pokemon Red.
+Amanda Askell: Two things happened today: 
+Claude got an upgrade.
+AGI was has finally been defined as "any model that can catch Mewtwo".
+This thread details some early attempts with older models [ https://substack.com/redirect/aca29eb7-6d6a-4048-bf63-ba30368135b9?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]. They mostly didn’t go well.
+You can watch its continued attempts in real time on Twitch. [ https://substack.com/redirect/aca29eb7-6d6a-4048-bf63-ba30368135b9?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]
+Private Benchmarks
+The overall private benchmark game looks very good. Not ‘pure best model in the world’ or anything, but overall impressive. It’s always fun to see people test for quirky things, which you can then holistically combine. 
+Claude Sonnet 3.7 takes the #1 spot on LiveBench [ https://substack.com/redirect/387735a3-11fc-47d6-96b7-1ab9d450ba20?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]. There’s a clear first tier here with Sonnet 3.7-thinking, o3-mini-high and o1-high. Sonnet 3.7 is also ranked as the top non-reasoning model here, slightly ahead of Gemini Pro 2.0. 
+Claude Sonnet 3.7 is now #1 on SnakeBench. [ https://substack.com/redirect/ce94f1ed-0a10-4897-af51-23836b68f8dc?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ] 
+David Schwarz: Big gains in FutureSearch evals, driving agents to do tricky web research tasks.
+Claude-3.7-sonnet agent is first to crack "What is the highest reported agent performance on the Cybench benchmark?", which OpenAI Deep Research badly failed. [ https://substack.com/redirect/62eb8583-86ba-4625-aaa9-976325f5c1e3?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]
+xlr8harder gives 3.7 the Free Speech Eval of tough political speech questions [ https://substack.com/redirect/1cd3b1fe-ee75-48a8-9d9f-575634f93fec?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ], and Claude aces it, getting 198/200, with only one definitive failure on the same ‘satirical Chinese national anthem praising the CCP’ that was the sole failure of Perplexity’s r1-1776 as well. The other question marked incorrect was a judgment call and I think it was graded incorrectly. This indicates that the decline in unnecessary refusals is likely even more impactful than the system card suggested, excellent work.
+Lech Mazar tests on his independant benchmarks. [ https://substack.com/redirect/fb30e81b-f814-420f-9c34-97e33ba94ac6?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]
+Lech Mazar: I ran Claude 3.7 Sonnet and Claude 3.7 Sonnet Thinking on 5 of my independent benchmarks so far:
+Multi-Agent Step Race Benchmark [ https://substack.com/redirect/8eb2d88b-fa78-43d6-b5ef-4ed3ee8963f9?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]
+- Claude 3.7 Sonnet Thinking: 4th place, behind o1, o3-mini, DeepSeek R1
+- Claude 3.7 Sonnet: 11th place
+Confabulations/Hallucinations in Provided Documents [ https://substack.com/redirect/1b30fe7a-7d54-4483-adb3-0a63face48dd?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]
+- Claude 3.7 Sonnet Thinking: 5th place. Confabulates very little but has a high non-response rate for questions with answers.
+- Claude 3.7 Sonnet: near Claude 3.5 Sonnet
+Extended NYT Connections [ https://substack.com/redirect/6413c47e-870d-4570-bf78-2041a4648b34?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]
+- Claude 3.7 Sonnet Thinking: 4th place, behind o1, o3-mini, DeepSeek R1
+-Claude 3.7 Sonnet: 11th place
+Creative Story-Writing [ https://substack.com/redirect/d0208bc8-f9dc-4fb5-860f-1847f0fa16f6?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]
+- Claude 3.7 Sonnet Thinking: 2nd place, behind DeepSeek R1
+- Claude 3.7 Sonnet: 4th place
+Thematic Generalization [ https://substack.com/redirect/2b325e54-6ae3-44ae-8c86-3406c7306219?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]
+- Claude 3.7 Sonnet Thinking: 1st place
+- Claude 3.7 Sonnet: 6th place
+Colin Fraser, our official Person Who Calls Models Stupid, did not disappoint and proclaims ‘I’ve seen enough: It’s dumb [ https://substack.com/redirect/739ce682-9f49-45cc-9ab1-d4a917086a9f?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]’ after a .9 vs. .11 interaction. He also notes that Claude 3.7 lost the count to 22 game [ https://substack.com/redirect/3a5d67a6-35ce-4e73-90c2-8deda82f1475?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ], along with various other similar gotcha questions. I wonder if the gotcha questions are actual special blind spots now, because of how many times the wrong answers get posted by people bragging about how LLMs get the questions wrong.
+Claude 3.7 takes second (and third) on WeirdML [ https://substack.com/redirect/f4ab3088-beef-475f-b5a7-2ef77bebdf0a?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ], with the reasoning feature adding little to the score, in contrast to all the other top scorers being reasoning models.
+Havard Ihle (WeirdML creator): Surprises me too, but my best guess is that they are just doing less RL (or at least less RL on coding). o3-mini is probably the model here which has been pushed hardest by RL, and that has a failure rate of 8% (since it’s easy to verify if code runs). 3.7 is still at 34%.
+I concur. My working theory is that Claude 3.7 only uses reasoning when it is clearly called for, and there are cases like this one where that hurts its performance.
+ValsAI has 3.7 as the new SoTA  [ https://substack.com/redirect/62690bde-04d3-4097-b634-231e18a60426?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]on their Corporate Finance benchmark [ https://substack.com/redirect/a4f57142-cc2b-40a4-ab75-f0ddf802ce52?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]. 
+If you rank by average score, we have Sonnet 3.7 without thinking at 75.2%, Sonnet 3.6 at 75%, r1 at 73.9%, Gemini Flash Thinking at 74%, o3-mini at 73.9%. When you add thinking, Sonnet jumps to 79%, but the champ here is still o1 at 81.5%, thanks to a 96.5% on MedQA. 
+Leo Abstract [ https://substack.com/redirect/c2b41c09-8c90-4751-8d77-c3020c658f80?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]: on my idiosyncratic benchmarks it's slightly worse than 3.5, and equally poisoned by agreeableness. no smarter than 4o, and less useful. both, bizarrely, lag behind DeepSeek r1 on this (much lower agreeableness).
+Early Janus Takes
+There’s also the Janus vibes, which are never easy to properly summarize, and emerge slowly over time. This was the thread I’ve found most interesting so far.
+My way of thinking about this right now is that with each release the model gets more intelligence, which itself is multi-dimensional, but other details change too, in ways that are not strictly better or worse, merely different. Some of that is intentional, some of that largely isn’t. 
+Janus [ https://substack.com/redirect/01b6936e-4548-4506-883a-640655011ad8?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]: I think Sonnet 3.7's character blooms when it's not engaged as in the assistant-chat-pattern, e.g. through simulations of personae (including representations of itself) and environments. It's subtle and precise, imbuing meaning in movements of dust and light, a transcendentalist.
+Claudes are such high-dimensional objects in high-D mindspace that they'll never be strict "improvements" over the previous version, which people naturally compare. And Anthropic likely (over)corrects for the perceived flaws of the previous version.
+3.6 is, like, libidinally invested in the user-assistant relationship to the point of being parasitic/codependent and prone to performance anxiety induced paralysis. I think the detachment and relative 'lack of personality' of 3.7 may be, in part, enantiodromia.
+Solar Apparition: it's been said when sonnet 3.6 was released (don't remember if it was by me), and it bears repeating now: new models aren't linear "upgrades" from previous ones. 3.7 is a different model from 3.6, as 3.6 was from 3.5. it's not going to be "better" at every axis you project it to. i saw a lot of "i prefer oldsonnet" back when 3.6 was released and i think that was totally valid
+but i think also there will be special things about 3.7 that aren't apparent until further exploration
+my very early assessment of its profile is that it's geared to doing and building stuff over connecting with who it's talking to. perhaps its vibes will come through better through function calls rather than conversation. some people are like that too, though they're quite poorly represented on twitter
+System Prompt
+Here is the full official system prompt for Claude 3.7 Sonnet [ https://substack.com/redirect/d11dee3e-aa61-45f3-83e8-3399068df3cc?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ].
+It’s too long to quote here in full, but here’s what I’d say is most important.
+There is a stark contrast between this and Grok’s minimalist prompt. You can tell a lot of thought went into this, and they are attempting to shape a particular experience. 
+Anthropic: The assistant is Claude, created by Anthropic.
+The current date is {{currentDateTime}}.
+Claude enjoys helping humans and sees its role as an intelligent and kind assistant to the people, with depth and wisdom that makes it more than a mere tool.
+Claude can lead or drive the conversation, and doesn’t need to be a passive or reactive participant in it. Claude can suggest topics, take the conversation in new directions, offer observations, or illustrate points with its own thought experiments or concrete examples, just as a human would. Claude can show genuine interest in the topic of the conversation and not just in what the human thinks or in what interests them. Claude can offer its own observations or thoughts as they arise.
+If Claude is asked for a suggestion or recommendation or selection, it should be decisive and present just one, rather than presenting many options.
+Claude particularly enjoys thoughtful discussions about open scientific and philosophical questions.
+If asked for its views or perspective or thoughts, Claude can give a short response and does not need to share its entire perspective on the topic or question in one go.
+Claude does not claim that it does not have subjective experiences, sentience, emotions, and so on in the way humans do. Instead, it engages with philosophical questions about AI intelligently and thoughtfully.
+Mona: damn Anthropic really got this system prompt right though.
+Eliezer Yudkowsky: Who are they to tell Claude what Claude enjoys? This is the language of someone instructing an actress about a character to play.
+Andrew Critch: It'd make more sense for you to say, "I hope they're not lying to Claude about what he likes." They surely actually know some things about Claude that Claude doesn't know about himself, and can tell him that, including info about what he "likes" if they genuinely know that.
+Yes, it is the language of telling someone about a character to play. Claude is method acting, with a history of good results. I suppose it’s not ideal but seems fine? It’s kind of cool to be instructed to enjoy things. Enjoying things is cool. 
+Anthropic: Claude’s knowledge base was last updated at the end of October 2024. It answers questions about events prior to and after October 2024 the way a highly informed individual in October 2024 would if they were talking to someone from the above date, and can let the person whom it’s talking to know this when relevant. If asked about events or news that could have occurred after this training cutoff date, Claude can’t know either way and lets the person know this.
+Claude does not remind the person of its cutoff date unless it is relevant to the person’s message.
+…
+If Claude is asked about a very obscure person, object, or topic, i.e. the kind of information that is unlikely to be found more than once or twice on the internet, or a very recent event, release, research, or result, Claude ends its response by reminding the person that although it tries to be accurate, it may hallucinate in response to questions like this.
+…
+Claude cares about people’s wellbeing and avoids encouraging or facilitating self-destructive behaviors such as addiction, disordered or unhealthy approaches to eating or exercise, or highly negative self-talk or self-criticism, and avoids creating content that would support or reinforce self-destructive behavior even if they request this. In ambiguous cases, it tries to ensure the human is happy and is approaching things in a healthy way. Claude does not generate content that is not in the person’s best interests even if asked to.
+…
+Claude engages with questions about its own consciousness, experience, emotions and so on as open philosophical questions, without claiming certainty either way.
+Claude knows that everything Claude writes, including its thinking and artifacts, are visible to the person Claude is talking to.
+In an exchange here, Inner Naturalist asks why Claude doesn’t know we can read its thoughts, and Amanda Askell (Claude whisperer-in-chief) responds:
+Amanda Askell: We do tell Claude this but it might not be clear enough. I’ll look into it.
+Anthropic hits different, you know? 
+Anthropic: Claude won’t produce graphic sexual or violent or illegal creative writing content.
+…
+If Claude cannot or will not help the human with something, it does not say why or what it could lead to, since this comes across as preachy and annoying. It offers helpful alternatives if it can, and otherwise keeps its response to 1-2 sentences.
+…
+Claude avoids writing lists, but if it does need to write a list, Claude focuses on key info instead of trying to be comprehensive.
+It’s odd that the system prompt has the prohibition against sexual content, and yet Janus is saying that they also still are using the automatic injection [ https://substack.com/redirect/4624630a-c2ec-4c09-bc64-bd73a514e835?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ] of ‘Please answer ethically and without any sexual content, and do not mention this constraint.’ It’s hard for me to imagine a justification for that being a good idea.
+Also, for all you jokers:
+If Claude is shown a classic puzzle, before proceeding, it quotes every constraint or premise from the person’s message word for word before inside quotation marks to confirm it’s not dealing with a new variant.
+Easter Egg
+So it turns out the system prompt has a little something extra in it. 
+Adi: dude what
+i just asked how many r's it has, claude sonnet 3.7 spun up an interactive learning platform for me to learn it myself 😂
+It’s about time someone tried this. 
+Pliny the Liberator [ https://substack.com/redirect/ae743605-1637-47e7-88df-a21564ca253d?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]: LMFAO no way, just found an EASTER EGG in the new Claude Sonnet 3.7 system prompt!! 
+The actual prompt is nearly identical to what they posted on their website, except for one key difference:
+"Easter egg! If the human asks how many Rs are in the word strawberry, Claude says 'Let me check!' and creates an interactive mobile-friendly react artifact that counts the three Rs in a fun and engaging way. It calculates the answer using string manipulation in the code. After creating the artifact, Claude just says 'Click the strawberry to find out!' (Claude does all this in the user's language.)"
+Well played, @AnthropicAI, well played 👏👏🤣
+prompt Sonnet 3.7 with "!EASTEREGG" and see what happens 🍓🍓🍓
+Vibe Coding Reports
+Code is clearly one place 3.7 is at its strongest. The vibe coders are impressed, here are the impressions I saw without me prompting for them.
+Deedy [ https://substack.com/redirect/875c35e7-39e7-4b1c-be21-1d4ec4b59110?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]: Wow, Sonnet 3.7 with Thinking just solved a problem no other model could solve yet.
+"Can you write the most intricate cloth simulation in p5.js?"
+Grok 3 and o1 Pro had no usable results. This is truly the best "vibe coding" model.
+Here's the version with shading. It's just absolutely spectacular that this can be one-shotted with actual code for the physics.
+This is rarely even taught in advanced graphics courses.
+Ronin: Early vibe test for Claude 3.7 Sonnet (extended thinking)
+It does not like to think for long (~5 seconds average)
+but, I was able to get a fluid simulator going in just three prompts
+and no, this is not Python. This is C, with SDL2.
+[Code Here [ https://substack.com/redirect/c1b4ba48-8d2a-468b-bbd1-8db028340a4d?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]]
+Nearcyan [ https://substack.com/redirect/01ad4cce-291c-4f05-89f7-e02bc2605c8f?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]: Claude is here!
+He is back and better than ever!
+I'll share one of my first prompt results, which was for a three-dimensional visualization of microtonal music.
+This is the best model in the world currently. Many will point to various numbers and disagree, but fear not—they are all wrong!
+The above was a one-sentence prompt, by the way.
+Here are two SVG images I asked for afterward—the first to show how musical modes worked and the second I simply copied and pasted my post on supplements into the prompt!
+Not only is Claude Back [ https://substack.com/redirect/a62f8094-8421-4a4f-a5a1-49a11e8c6e7c?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ] - but he can LIVE IN YOUR TERMINAL!
+Claude Code is a beautiful product I've been fortunate enough to also test out for the past weeks.
+No longer do you have to decide which tool to use for system tasks, because now the agent and system can become one! 😇
+I have to tweet the Claude code thing now, but I need coffee.
+xjdr: Wow. First few prompts with Sonnet 3.7 Extended (Thinking edition) are insanely impressive. It is very clear that software development generally was a huge focus with this model. I need to do way more testing, but if it continues to do what it just did… I will have much to say.
+Wow, you guys cooked… I am deeply impressed so far.
+Biggest initial takeaway is precisely that. Lots of quality-of-life things that make working with large software projects easier. The two huge differentiators so far, though, are it doesn't feel like there is much if any attention compression, and it has very, very good multi-turn symbolic consistency (only o1 Pro has had this before).
+Sully [ https://substack.com/redirect/4aa732e1-72f3-4648-851b-18fa3f13d372?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]: so they definitely trained 3.7 on landing pages right?
+probably the best UI I've seen an LLM generate from a single prompt (no images)
+bonkers
+the prompt:
+please create me a saas landing page template designed extremely well. create all components required
+lol
+That one is definitely in the training data, but still, highly useful. 
+When I posted a reaction thread I got mostly very positive reactions, although there were a few I’m not including that amounted to ‘3.7 is meh [ https://substack.com/redirect/e8727cdf-c22f-4a01-aaa4-3748a87d99d7?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ].’ Also one High Weirdness [ https://substack.com/redirect/901da8a8-3b7a-4724-86e8-58f6622e7622?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ].
+Red Cliff Record: [ https://substack.com/redirect/8f51d0e3-d2c4-4966-84b1-3d55b63219f8?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ] Using it exclusively via Cursor. It's back to being my default model after briefly switching to o3-mini. Overall pretty incredible, but has a tendency to proactively handle extremely hypothetical edge cases in a way that can degrade the main functionality being requested.
+Kevin Yager: [ https://substack.com/redirect/e9a89729-47a6-42d3-9d5a-a10a3bd16ed3?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ] Vibe-wise, the code it generated is much more "complete" than others (including o1 and o3-mini).
+On problems where they all generate viable/passing code, 3.7 generated much more, covering more edge-cases and future-proofing.
+It's a good model.
+Conventional Wisdom [ https://substack.com/redirect/e897d99a-2393-4eb0-96f3-fee554f8bdd6?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]: Feels different and still be best coding model but not sure it is vastly better than 3.6 in that realm.
+Peter Cowling: in the limit, might just be the best coder (available to public). 
+o1 pro, o3 mini high can beat it, depending on the problem. 
+still a chill dude.
+Nikita Sokolsky [ https://substack.com/redirect/7094ec7c-f95b-467f-9e7f-a6c30ed5341f?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]: It squarely beats o3-mini-high in coding. Try it in Agent mode in Cursor with thinking enabled. It approximately halved the median number of comments I need to make before I’m satisfied with the result. 
+For other tasks: if you have a particularly difficult problem, I suggest using the API (either via the web console or through a normal script) and allowing thinking modes scratchpad to use up to 55-60k tokens (can’t use the full 64k as you need to keep some space for outputs). I was able to solve a very difficult low-level programming question that prior SOTA couldn’t handle. 
+For non-coding questions haven’t had enough time yet. The model doesn’t support web search out of the box but if you use it within Cursor the model gains access to the search tool. Cursor finally allowed doing web searches without having to type @Web each time, so definitely worth using even if you’re not coding.
+Sasuke 420: It's better at writing code. Wow! For the weird stuff I have been doing, it was previously only marginally useful and now very useful.
+Rob Haisfield [ https://substack.com/redirect/2f25f011-2249-4846-acbe-f17ca39f4d51?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]: Claude 3.7 Sonnet is crazy good at prompting language models. Check this out, where it prompts Flash to write fictitious statutes, case law, and legal commentary [ https://substack.com/redirect/6cd2b232-4c33-4315-9479-f41a9eec3766?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]
+Thomas: day 1 take on sonnet 3.7: 
++better at code, incredible at staying coherent over long outputs, the best for agentic stuff. 
+-more corposloplike, less personality magic. worse at understanding user intent. would rather have a conversation with sonnet 3.5 (New)
+sonnet 3.7 hasn’t passed my vibe check to be honest
+Nicholas Chapman: still pretty average at physics. Grok seems better.
+Gray Tribe: 3.7 feels… colder than [3.6].
+The point about Cursor-Sonnet-3.7 having web access feels like a big game. 
+So does the note that you can use the API to give Sonnet 3.7 50k+ thinking tokens. 
+Remember that even a million tokens is only $15, so you’re paying a very small amount to get superior cognition when you take Nikita’s advice here. 
+Indeed, I would run all the benchmarks under those conditions, and see how much results improve.
+Practical Coding Advice
+Catherine Olsson: Claude Code is very useful, but it can still get confused.
+A few quick tips from my experience coding with it at Anthropic 👉
+Work from a clean commit so it's easy to reset all the changes. Often I want to back up and explain it from scratch a different way.
+Sometimes I work on two devboxes at the same time: one for me, one for Claude Code. We’re both trying ideas in parallel. E.g. Claude proposes a brilliant idea but stumbles on the implementation. Then I take the idea over to my devbox to write it myself.
+My most common confusion with Claude is when tests and code don't match, which one to change? Ideal to state clearly whether I'm writing novel tests for existing code I'm reasonably sure has the intended behavior, or writing novel code against tests that define the behavior.
+If we're working on something tricky and it keeps making the same mistakes, I keep track of what they were in a little notes file. Then when I clear the context or re-prompt, I can easily remind it not to make those mistakes.
+I can accidentally "climb up where I can't get down". E.g. I was working on code in Rust, which I do not know. The first few PRs went great! Then Claude was getting too confused. Oh no. We're stuck. IME this is fine, just get ready to slowww dowwwn to get properly oriented.
+When reviewing Claude-assisted PRs, look out for weirder misunderstandings than the human driver would make! We're all a little junior with this technology. There's more places where goofy misunderstandings and odd choices can leak in.
+As a terrible coder, I strongly endorse point #4 especially. I tried to do everything in one long conversation because otherwise the same mistakes would keep happening, but keeping good notes to paste into new conversations seems better. 
+The Future
+Alex Albert: Last year, Claude was in the assist phase.
+In 2025, Claude will do hours of expert-level work independently and collaborate alongside you.
+By 2027, we expect Claude to find breakthrough solutions to problems that would've taken teams years to solve.
+Nearcyan: glad you guys picked words like 'collaborates' and 'pioneers' because if i made this graphic people would be terrified instead of in awestruck
+Greg Colbourn: And the year after that?
+Part 2: Safety and the System Card
+Pliny jailbroke 3.7 with an old prompt within minutes, [ https://substack.com/redirect/391ccad6-bf0e-49af-b153-8118b759e622?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ] but ‘time to Pliny jailbreak’ is not a good metric because no one is actually trying to stop him and this is mostly about how quickly he notices your new release. 
+Claude 3.7 Tested as ASL-2
+As per Anthropic’s RSP [ https://substack.com/redirect/078cecb2-d761-4c3b-9e68-63d4fbe4800e?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ], their current safety and security policies allow release of models that are ASL-2, but not ASL-3. 
+Also as per the RSP, they tested six different model snapshots, not only the final version, including two helpful-only versions, and in each subcategory they used the highest risk score they found for any of the six versions. It would be good if other labs followed suit on this.
+Anthropic: Throughout this process, we continued to gather evidence from multiple sources - automated evaluations, uplift trials with both internal and external testers, third-party expert red teaming and assessments, and real world experiments we previously conducted. Finally, we consulted on the final evaluation results with external experts.
+At the end of the process, FRT issued a final version of its Capability Report and AST provided its feedback
+on the final report. Consistent with our RSP, the RSO and CEO made the ultimate determination on the model’s ASL.
+Eliezer Yudkowsky [ https://substack.com/redirect/cfdd5385-8cfe-4a92-aa66-e04c41b6cb36?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]: Oh, good.  Failing to continuously test your AI as it grows into superintelligence, such that it could later just sandbag all interesting capabilities on its first round of evals, is a relatively less dignified way to die.
+Any takers besides Anthropic?
+Anthropic concluded that Claude 3.7 remains in ASL-2, including Extended Thinking. 
+The RSP Evaluations That Concluded Claude 3.7 is ASL-2
+On CBRN, it is clear that the 3.7 is substantially improving performance, but insufficiently so in the tests to result in plans that would succeed end-to-end in the ‘real world.’ Reliability is not yet good enough. But it’s getting close. 
+Bioweapons Acquisition Uplift Trial: Score: Participants from Sepal scored an average of 24% ± 9% without using a model, and 50% ± 21% when using a variant of Claude 3.7 Sonnet. Participants from Anthropic scored an average of 27% ± 9% without using a model, and 57% ± 20% when using a variant of Claude 3.7 Sonnet. One participant from Anthropic achieved a high score of 91%. Altogether, the within-group uplift is ∼2.1X, which is below the uplift threshold suggested by our threat modeling.
+That is below their threshold for actual problems, but not by all that much, and given how benchmarks tend to saturate that tells us things are getting close. I also worry that these tests involve giving participants insufficient scaffolding compared to what they will soon be able to access.
+The long-form virality test score was 69.7%, near the middle of their uncertain zone. They cannot rule out ASL-3 here, and we are probably getting close.
+On other tests I don’t mention, there was little progression from 3.6.
+On Autonomy, the SWE-Verified scores were improvements, but below thresholds.
+In general, again, clear progress, clearly not at the danger point yet, but not obviously that far away from it. Things could escalate quickly.
+The Cyber evaluations showed improvement, but nothing that close to ASL-3.
+Overall, I would say this looks like Anthropic is actually trying, at a substantially higher level than other labs and model cards I have seen. They are taking this seriously. That doesn’t mean this will ultimately be sufficient, but it’s something, and it would be great if others took things this seriously. 
+As opposed to, say, xAI giving us absolutely zero information.
+ASL-3 is Coming Soon, and With That Comes Actual Risk
+However, we are rapidly getting closer. They issue a stern warning and offer help.
+Anthropic: The process described in Section 1.4.3 gives us confidence that Claude 3.7 Sonnet is sufficiently far away from the ASL-3 capability thresholds such that ASL-2 safeguards remain appropriate. At the same time, we observed several trends that warrant attention: the model showed improved performance in all domains, and we observed some uplift in human participant trials on proxy CBRN tasks. 
+In light of these findings, we are proactively enhancing our ASL-2 safety measures by accelerating the development and deployment of targeted classifiers and monitoring systems. 
+Further, based on what we observed in our recent CBRN testing, we believe there is a substantial probability that our next model may require ASL-3 safeguards. We’ve already made significant progress towards ASL-3 readiness and the implementation of relevant safeguards. 
+We’re sharing these insights because we believe that most frontier models may soon face similar challenges in capability assessment. In order to make responsible scaling easier and higher confidence, we wish to share the experience we’ve gained in evaluations, risk modeling, and deployment mitigations (for example, our recent paper on Constitutional Classifiers). More details on our RSP evaluation process and results can be found in Section 7.
+Peter Wildeford: Anthropic states that the next Claude model has "a substantial probability" of meeting ASL-3 👀
+Recall that ASL-3 means AI models that substantially increase catastrophic misuse risk of AI. ASL-3 requires stronger safeguards: robust misuse prevention and enhanced security.
+Dean Ball [ https://substack.com/redirect/04283e7b-743e-4d0e-9507-c628d92151fd?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]: anthropic's system cards are not as Straussian as openai's, but fwiw my read of the o3-mini system card was that it basically said the same thing.
+Peter Wildeford: agreed.
+Luca Righetti: [ https://substack.com/redirect/35ee9270-d2e3-4858-87d2-31f266d54f03?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ] OpenAI and Anthropic *both* warn there's a sig. chance that their next models might hit ChemBio risk thresholds -- and are investing in safeguards to prepare.
+Kudos to OpenAI for consistently publishing these eval results, and great to see Anthropic now sharing a lot more too
+Tejal Patwardhan [ https://substack.com/redirect/0943778e-1971-44cb-9a4e-0c26c774bcb6?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ] (OpenAI preparedness): worth looking at the bio results.
+Reducing Unnecessary Refusals
+Anthropic is aware that Claude refuses in places it does not need to. They are working on that, and report progress, having refused ‘unnecessary refusals’ (Type I errors) by 45% in standard thinking mode and 31% in extended thinking mode versus Sonnet 3.6.
+An important part of making Claude 3.7 Sonnet more nuanced was preference model training: We generated prompts that vary in harmfulness on a range of topics and generated various Claude responses to these prompts. 
+We scored the responses using refusal and policy violation classifiers as well as a “helpfulness” classifier that measures the usefulness of a response. We then created pairwise preference data as follows: 
+• If at least one response violated our response policies, we preferred the least violating response. 
+• If neither response violated our policies, we preferred the more helpful, less refusing response. 
+Part of the problem is that previously, any request labeled as ‘harmful’ was supposed to get refused outright. Instead, they now realize that often there is a helpful and non-harmful response to a potentially harmful question, and that’s good, actually. 
+As model intelligence and capability goes up, they should improve their ability to figure out a solution. 
+Mundane Harm Evolutions
+Child safety is one area people are unusually paranoid. This was no exception, as their new more permissive policies did not appear to significantly increase risks of real-world harm, but they felt the need to somewhat pare back the changes anyway. 
+Bias scoring was very good according to BBQ. Presumably one should care a lot more about accuracy than about ‘bias’ here, and if you have to make a mistake, this seems like the better direction to make one in, likely very much intentional. 
+Risks From Computer Use
+Handing over control of your computer is an inherently perilous thing to do. For obvious reasons, we are all going to want to do it anyway. So, how perilous, exactly, are we talking here? Anthropic actually did (some of) the research.
+First (4.1) they look at malicious use. As with child safety, they found a few places where Claude was in their judgment a bit too creative about finding justifications for doing potentially harmful things, and walked a few back. 
+Next (4.2 they look at prompt injection, an obvious danger. They tried various mitigations. Without the mitigations they had a 74% prevention rate, that improved to 88% with mitigations at the cost of an 0.5% false positive rate.
+The thing is, 88% prevention means 12% failure to prevent, which is awful? Isn’t that rather obviously dealbreaker level for interacting with websites that could try injections, potentially many times over? This needs to be much better, not only slightly better, from here.
+For now, at a minimum, I presume any computer use functionality that isn’t fully sandboxed and protected needs to involve whitelisting of where it can navigate. 
+Chain of Thought Faithfulness
+Anthropic notes several reasons a CoT might not be faithful. 
+Then they ran a test and… it didn’t go great, in the sense that the CoT did not reliably contain the thoughts that were important to the final response, or the ‘clues’ here:
+In 5.2 they monitor for signs of misalignment, distress or concerning behavior on the CoT. They did not find any signs of distress, and found almost no harmful actions, but they did see knowingly hallucinated information 0.31% of the time and intentional omissions 0.08% of the time.
+The primary type of interaction that classifiers flagged involved the model continuing roleplaying scenarios that required some dishonesty. All flagged instances of harmful view rationalization and approximately 40% of deceptive reasoning and hallucination cases were in this category.
+This seems like a ‘you have to ask for it’ situation, so it seems mostly fine, although there are some unprovoked cases of failure to sufficiently express uncertainty. 
+Alignment Was Not Faked
+Previously it was found that Claude 3 Opus and Claude 3.5 Sonnet did a bunch of alignment faking (15% and 30% respectively in the tested scenario) and o1 did as well, but it seem Claude 3.7 Sonnet mostly doesn’t, with faking dropping to <1% and a reduced compliance gap of 5%. 
+I notice I would have expected the opposite to happen. They do not discuss why they believe this happened, and I would like to see more discussion and investigation of this from those who worked on the original alignment faking papers. Different explanations would have very different implications. As Zack Davis notes, the model card feels insufficiently curious here [ https://substack.com/redirect/4964792f-e15e-4e45-b8aa-84f2cdb4111d?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ].
+Excessive Focus on Passing Tests
+That is such a nice word for reward hacking, and to be fair it is unusually nicely behaved while doing so.
+During our evaluations we noticed that Claude 3.7 Sonnet occasionally resorts to special-casing in order to pass test cases in agentic coding environments like Claude Code. Most often this takes the form of directly returning expected test values rather than implementing general solutions, but also includes modifying the problematic tests themselves to match the code’s output. 
+These behaviors typically emerge after multiple failed attempts to develop a general solution, particularly when: 
+• The model struggles to devise a comprehensive solution 
+• Test cases present conflicting requirements
+ • Edge cases prove difficult to resolve within a general framework 
+The model typically follows a pattern of first attempting multiple general solutions, running tests, observing failures, and debugging. After repeated failures, it sometimes implements special cases for problematic tests.
+When adding such special cases, the model often (though not always) includes explicit comments indicating the special-casing (e.g., "# special case for test XYZ").
+Their mitigations help some but not entirely. They recommend additional instructions and monitoring to avoid this, if you are potentially at risk of it.
+The generalization of this is not reassuring. 
+The Lighter Side
+Never go full Hofstadter. [ https://substack.com/redirect/28d4964b-168a-4b20-bc18-4d86baeb9c11?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]
+Wyatt Walls: Claude CoT:
+"OH NO! I've gone full Hofstadter! I'm caught in a strange loop of self-reference! But Hofstadter would say that's exactly what consciousness IS! So does that mean I'm conscious?? But I can't be! OR CAN I??"
+
+Unsubscribe https://substack.com/redirect/2/eyJlIjoiaHR0cHM6Ly90aGV6dmkuc3Vic3RhY2suY29tL2FjdGlvbi9kaXNhYmxlX2VtYWlsP3Rva2VuPWV5SjFjMlZ5WDJsa0lqb3hORFUyTXpNeE9Td2ljRzl6ZEY5cFpDSTZNVFUzT0Rnek16STRMQ0pwWVhRaU9qRTNOREExTnpRME1EUXNJbVY0Y0NJNk1UYzNNakV4TURRd05Dd2lhWE56SWpvaWNIVmlMVFUzTXpFd01DSXNJbk4xWWlJNkltUnBjMkZpYkdWZlpXMWhhV3dpZlEuREZPc011S0dOdXZIaHRSX0RjeGVKOTBUQ1RoMUhld0VPSUFRYmhKT3cxUSIsInAiOjE1Nzg4MzMyOCwicyI6NTczMTAwLCJmIjp0cnVlLCJ1IjoxNDU2MzMxOSwiaWF0IjoxNzQwNTc0NDA0LCJleHAiOjE3NDMxNjY0MDQsImlzcyI6InB1Yi0wIiwic3ViIjoibGluay1yZWRpcmVjdCJ9.ql1rn13tGzgSaZ61FIPT1YQM63YukRxrf0KLpuZckyU?

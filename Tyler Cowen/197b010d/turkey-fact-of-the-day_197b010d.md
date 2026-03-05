@@ -1,0 +1,11 @@
+---
+subject: "Turkey fact of the day"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2025-06-27 06:26:24
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+Real interest rates, which subtract inflation from central bank policy rates, have been negative for a remarkable 13 of the 22 years that Erdoğan has been in power, according to FT research. This helped spur growth, boost incomes and sustain a construction boom. It also laid the foundation for an economic crisis.
+By late 2022, real rates had fallen to minus 75 per cent. By mid-2023, fuelled by high government spending following a devastating earthquake and pre-election fiscal splurge, the economy was overheating. Inflation was running at 60 per cent, the lira was in freefall and Turkey had a current account deficit equivalent to almost 6 per cent of GDP but had negative net reserves of about minus $60bn.
+Here is [more from John Paul Rathbone at the FT](http://marginalrevolution.com?action=user_content_redirect&uuid=6e1aa80092dffdd6cda493b113055d7de0bca4228ee3fe2bfe7a7b7bed7b2e78&blog_id=42693868&post_id=90977&user_id=262258391&subs_id=225460721&signature=5ed48e3108adee2077fd85cbab7af5d0&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly93d3cuZnQuY29tL2NvbnRlbnQvNTk5OWU1MmItZTcwNi00MmQ0LWI0ZWYtZWMzOWEyMjljMGRi&email_id=6d1b1d3cee4a4fc7b8826efd8c849ea1). I would want to know more about [what actual net borrowing rates have been](http://marginalrevolution.com?action=user_content_redirect&uuid=95ddc95d880de54f1ae44c0e68bad1294b45973424024f8c8fd3c84655fb6673&blog_id=42693868&post_id=90977&user_id=262258391&subs_id=225460721&signature=4dbdd655133c2492cb741bec7328566e&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly9jaGF0Z3B0LmNvbS9zaGFyZS82ODVlMzhlYi00ZTM4LTgwMTAtOTRjYi0wMzY3NmViYmU0MzE&email_id=6d1b1d3cee4a4fc7b8826efd8c849ea1), all factors considered. Still, this is quite something, even if it is only an interest rate on paper, so to speak.

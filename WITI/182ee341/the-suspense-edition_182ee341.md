@@ -1,0 +1,22 @@
+---
+subject: "The Suspense Edition"
+from: "\"Why is this interesting?\" <whyisthisinteresting@substack.com>"
+to: ""
+date: 2022-08-30 10:00:29
+labels: ["CATEGORY_PERSONAL", "IMPORTANT", "INBOX", "WITI"]
+label_ids: ["CATEGORY_PERSONAL", "IMPORTANT", "INBOX", "Label_5752899537867939131"]
+---
+Noah here. After reading [Hitchcock/Truffaut](https://substack.com/redirect/982275ff-53e2-4c2b-9144-c2f96e58ac21?r=8o54n), a 50-hour interview conducted with the director in 1962, I’ve been watching/re-watching Hitchcock movies. This weekend was [Rope](https://substack.com/redirect/1d1e870f-de01-47bc-a31c-472a504b2645?r=8o54n), his 1948 movie most famous for the way it appears to be one long take. I’m not giving much away to say the film starts with a murder, and the next eighty minutes or so are spent watching the characters dance around the body. Unlike some of Hitchcock’s more famous movies, [where characters are shocked to discover a knife-wielder in their bathroom](https://substack.com/redirect/93e73e7d-60b4-427b-a398-2454740353ce?r=8o54n), there are very few moments of surprise in the hour-plus plot.
+Why is this interesting?
+Rope is a perfect example of the difference between suspense and surprise, as described by Hitchcock in the Truffaut interviews:
+There is a distinct difference between “suspense” and “surprise,” and yet many pictures continually confuse the two. I’ll explain what I mean. We are now having a very innocent little chat. Let us suppose that there is a bomb underneath this table between us. Nothing happens, and then all of a sudden, “Boom!” There is an explosion. The public is surprised, but prior to this surprise, it has seen an absolutely ordinary scene, of no special consequence. Now, let us take a suspense situation. The bomb is underneath the table and the public knows it, probably because they have seen the anarchist place it there. The public is aware that the bomb is going to explode at one o’clock and there is a clock in the decor. The public can see that it is a quarter to one. In these conditions this same innocuous conversation becomes fascinating because the public is participating in the scene. The audience is longing to warn the characters on the screen: “You shouldn’t be talking about such trivial matters. There’s a bomb beneath you and it’s about to explode!”
+In some ways, by being let in on the secret, we become more like characters in the film. Similar to the protagonists who hold the illicit knowledge, we wonder whether others will discover the truth. In a more traditional mystery film, where everyone is left wondering, it’s hard to generate these same feelings. “In a whodunit,” Hitchcock explains, “there is no suspense, but a sort of intellectual puzzle. The whodunit generates the kind of curiosity that is void of emotion, and emotion is an essential ingredient of suspense.” It’s a lot of fun to re-watch his movies with this additional context in mind. (NRB)
+—
+WITI x McKinsey:
+An ongoing partnership where we highlight interesting McKinsey research, writing, and data.
+How and where to work next. Selling, general, and administrative functions are integral to your organization’s success. What’s the best place for those people to work? Read [here](https://substack.com/redirect/139516d4-a2e0-4f30-b8ed-4e094e5671ba?r=8o54n) to see how the future of work will take shape.
+—
+Thanks for reading,
+Noah (NRB) & Colin (CJN)
+—
+[Why is this interesting?](https://substack.com/redirect/2882dfd2-53d2-423a-9a9c-3ef617eb3bc8?r=8o54n) is a daily email from [Noah Brier](https://substack.com/redirect/615dd7a7-2382-4ba8-a0dc-9d2729f6ac3e?r=8o54n) & [Colin Nagy](https://substack.com/redirect/4f68c487-0c1b-42bf-b30c-516274194889?r=8o54n) (and friends!) about interesting things. If you’ve enjoyed this edition, please consider forwarding it to a friend. If you’re reading it for the first time, consider [subscribing](https://substack.com/redirect/945d0d0e-864c-4bf0-bc1b-7b056529af24?r=8o54n) (it’s free!).

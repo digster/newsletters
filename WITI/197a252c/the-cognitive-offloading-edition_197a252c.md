@@ -1,0 +1,11 @@
+---
+subject: "The Cognitive Offloading Edition"
+from: "\"Why is this interesting?\" <whyisthisinteresting@substack.com>"
+to: ""
+date: 2025-06-24 14:23:27
+labels: ["CATEGORY_PERSONAL", "INBOX", "UNREAD", "WITI"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "UNREAD", "Label_5752899537867939131"]
+---
+Noah here. Researchers from MIT Media Lab just published
+The researchers called this "cognitive offloading." They hooked participants to EEG monitors while writing essays and found LLM users showed the weakest neural connectivity. The participants struggled to accurately quote their own work afterward. Why is this interesting? We've been here before. In Plato's Phaedrus, Socrates warns that writing will destroy memory: "This discovery of yours will create forgetfulness in the learners' souls, because they will not use their memories; they will trust to the external written characters and not remember of themselves." Fast forward 2,400 years, and here we are again, wringing our hands about a new technology making us intellectually lazy. This isn't to say Plato or the MIT researchers are wrong. Writing probably did reduce—or at least shift—our memory capacity. Calculators weakened mental math skills. GPS diminished our spatial reasoning. Google has changed how we store information. The evidence for cognitive offloading is real. Marshall McLuhan, probably my favorite thinker on all things media and technological change, understood this—he argued that all media create "extensions" of ourselves while simultaneously causing "amputations" of the functions they replace. But these are trade-offs. Writing may have weakened memory, but it has enabled the advancement of science, history, and literature. The printing press may have encouraged "shallow learning," but it sparked the Renaissance. Every tool that offloads cognition also extends our capabilities in new directions.
+I'm with the Ever-Wasers. Every generation thinks its technology is uniquely destructive to human cognition. Yet here we are, still thinking. I'll leave you with something Adam's sister, Alison Gopnik, People tend to prefer things that are familiar to those that are new and different. In other words, the day before you were born is Eden, and the day after your children are born is Mad Max. (NB) You're currently a free subscriber to |

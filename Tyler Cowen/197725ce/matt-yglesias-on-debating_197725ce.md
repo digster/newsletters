@@ -1,0 +1,13 @@
+---
+subject: "Matt Yglesias on debating"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2025-06-15 06:53:00
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+This is maybe an idiosyncratic view of mine, but I think that “debating” people — particularly in live or quasi-live forms — is a bad epistemic practice.
+It essentially rewards people for being dogmatic, incurious, and willfully slippery with rhetoric. I think the best thing to do with live discussion is to have a friendly conversation, and the best way to do debates is a written exchange of ideas.
+I thought the exchange I did in
+[Democracy with Elizabeth Pancotti and Todd Tucker about tariffs]was interesting and clarified the issues. My summation of it would be that I think Pancotti and Tucker raise a lot of good points about specific reasons why one might not want unfettered free trade, but that I think the[Econ 101 case for free trade]is accurate. This means that while you might sometimes want to deviate from free trade, any time you do so you are incurring an economic cost in order to pursue some other objective. My opponents, I think, wrongly deny this. They like to talk about the specifics of this case or that case, but the actual issue is that they either deny that tariffs are costly or else are working from an implicit degrowth framework in which the fact that the tariffs are costly isn’t relevant. But I came away from our exchange feeling like I understood them better, and I hope readers learned something.
+That is [from his Substack](http://marginalrevolution.com?action=user_content_redirect&uuid=d29c8e2ddd90c1da3a8671fef8a3ea79e063986c340bc515e02e5bef27d3e1cd&blog_id=42693868&post_id=90890&user_id=262258391&subs_id=225460721&signature=d02ca13785cf1dcccf23fbb7b91ddd8a&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly93d3cuc2xvd2JvcmluZy5jb20vcC9hLXJhd2xzaWFuLWNhc2UtZm9yLXNtYWxsbmVzcz91dG1fc291cmNlPXBvc3QtZW1haWwtdGl0bGUmcHVibGljYXRpb25faWQ9MTU5MTg1JnBvc3RfaWQ9MTY1NzAzMjg5JnV0bV9jYW1wYWlnbj1lbWFpbC1wb3N0LXRpdGxlJmlzRnJlZW1haWw9ZmFsc2Umcj0zbzkmdHJpZWRSZWRpcmVjdD10cnVlJnV0bV9tZWRpdW09ZW1haWw&email_id=34a9f5712a26a43ca4c866abf0199153). I mostly agree. In practice, one big reason to debate is so you can put four people on the floor and attract an audience and some public attention, yet without slighting any one of the "stars" by making it a panel. As a method of truth-seeking, I do not think public debate does very well.

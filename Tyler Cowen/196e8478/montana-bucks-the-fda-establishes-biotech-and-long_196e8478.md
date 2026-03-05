@@ -1,0 +1,13 @@
+---
+subject: "Montana Bucks the FDA, Establishes Biotech and Longevity Hub"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2025-05-19 11:22:01
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+[Longevity]: The US state of Montana this week enacted a groundbreaking law that opens the door for clinics and physicians to provide experimental drugs and therapies that have not received approval from the US FDA. The new legislation, known as Senate Bill 535, was signed this week by Governor Greg Gianforte and builds upon the state’s recent expansion of so-called “Right to Try” laws.Niklas Anzinger, the head of decentralized longevity initiative
+[Infinita City], has long emphasized regulatory zones as a pathway to broader acceleration of therapies, and referred to the new law as a “groundbreaking moment.”The original SB 422, passed in October 2023, expanded Right to Try access to all patients – not just the terminally ill,” he told us. “That was the first step in enabling a preventative, longevity-focused model of healthcare, rather than reactive sick care. But a major gap remained: there was no clear regulatory pathway. Uncertainty around liability, payments, insurance, and the blurred lines between drug development and clinical care left the field in limbo. SB 535 changes that.”
+The new bill establishes a formal licensing framework for healthcare facilities to become experimental treatment centers. These centers can recommend and administer nearly any experimental drug manufactured within Montana, provided it has passed Phase 1 trials.
+The law positions Montana as a potential hub for medical tourism and biotech innovation. The bill has been supported by libertarians and the life extension movement. Key backers saw Honduras's Prospera ([previous MR posts on Prospera](http://marginalrevolution.com?action=user_content_redirect&uuid=598523477ab43b0640cbed9366e92272f0638b6c4a144edff542a2f0ea2c47f0&blog_id=42693868&post_id=90693&user_id=262258391&subs_id=225460721&signature=f47f0372656c7431fefc61aed587e658&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly9tYXJnaW5hbHJldm9sdXRpb24uY29tLz9zPXByb3NwZXJh&email_id=6c4fe67a1e316336d7f5a53f8aa5d9a0)) as a model. Note, however, that the law passed the Montana legislature with bipartisan backing, reflecting broad appeal for expanding medical access.
+Maybe American Federalism isn't dead yet.

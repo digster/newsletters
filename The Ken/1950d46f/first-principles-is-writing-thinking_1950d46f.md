@@ -1,0 +1,137 @@
+---
+subject: "First Principles: Is writing, thinking?"
+from: "The Ken <info@the-ken.com>"
+to: ""
+date: 2025-02-16 05:41:49
+labels: ["CATEGORY_PERSONAL", "INBOX", "The Ken", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_8244464457792971031", "UNREAD"]
+---
+|
+|
+First Principles
+Sun, 16 Feb 25
+A community-powered Sunday newsletter on mental models, self-reflection, learning, growth, photos, books, and more..
+Dear Ishan, good morning. You’re reading today’s edition of this newsletter because I (and my fellow writers Hari and Jonathan), well, wrote it.
+D-uh.
+But who did we write it for? You?
+Chances are, we don’t know you personally. We don’t know your likes or your preferences or your favourite books or your style of communication. So, how could we be writing for you?
+Maybe we’re writing for all of you?
+But what would that even mean? How do you write for many hundreds of thousands of readers from not just all over India, but also the world. If we didn’t know anything about you personally, how could we possibly know something about you collectively?
+Who, then, might we be writing for?
+I won’t speak for Hari and Jonathan, but I will tell you who I write for: myself.
+Each weekend, I write as a way to connect with my own thoughts and beliefs. I write in order to identify and connect strands in my own consciousness that otherwise I would have no time or reason to. I write in order to formulate and cogently argue concepts that may have stayed unarticulated. I write in order to think.
+It seems backward-first, doesn’t it? Don’t we think in order to write?
+It’s a weird conundrum, I agree. Who do we write for? Why do we write? That’s today’s edition, which includes:
+1. Is writing, thinking?
+2. “Tours of Duty”—Community Comments
+3. Rediscovering verses 📚
+4. Distant vistas 📸
+[Pro tip: This email is a highly abbreviated version, since many email clients impose restrictions on the amount of material we can publish in a single email before intervention. In fact, it’s likely some email clients may even clip this truncated email.
+The best way to experience this edition is to read it on our [website or app](https://the-ken.com/newsletter/first-principles/is-writing-thinking/), where all sections are featured in full and unabridged form.
+Also, if your default setting is to not show images within emails, please consider turning it off for this newsletter. Or else, you’ll miss many of the interesting images and photos we carry each Sunday.]
+I read this (obvious, to me) conclusion in a fairly detailed research study earlier this week.
+“Higher confidence in GenAI’s ability to perform a task is related to less critical thinking effort. When using GenAI tools, the effort invested in critical thinking shifts from information gathering to information verification; from problem-solving to AI response integration; and from task execution to task stewardship. Knowledge workers face new challenges in critical thinking as they incorporate GenAI into their knowledge workflows.”
+No, this isn’t from some curmudgeonly, anti-tech organisation. It’s from Microsoft Research (PDF: “[The Impact of Generative AI on Critical Thinking: Self-Reported Reductions in Cognitive Effort and Confidence Effects From a Survey of Knowledge Workers](https://www.microsoft.com/en-us/research/uploads/prod/2025/01/lee_2025_ai_critical_thinking_survey.pdf)”).
+Think about this: the more confident you are in a GenAI tool’s capabilities, the less you will feel the need to apply critical thinking yourself.
+But how good are generative AI tools, really? A wonderful BBC News research study analysed four of the most popular ones—ChatGPT 4o, Microsoft Copilot, Google Gemini and Perplexity—on the thing that these tools are supposed to do best: summarising text. They did not fare well.
+The answers produced by the AI assistants contained significant inaccuracies and distorted content from the BBC. In particular:
+– 51% of all AI answers to questions about the news were judged to have significant issues of some form.
+– 19% of AI answers which cited BBC content introduced factual errors – incorrect factual statements, numbers and dates.
+– 13% of the quotes sourced from BBC articles were either altered from the original source or not present in the article cited.
+How did we get to a stage where we’re giving up our ability to think to tools like these?
+Answering that is beyond the scope of this edition and even this newsletter, but one reason is because we’ve all been told that the more we rely on AI tools, the better we get.
+Yes, in a small set of cases, that is true. But only because those relying on the AI tools are already experienced and amongst the best in their field, whether programmers or doctors.
+But for most others, AI inhibits their own critical thinking and growth. Especially when we outsource our writing to it.
+It will be tempting for you to think I’m arguing in favour of writing because, well, I’m a writer. My livelihood depends on it. Of course I’ll cling on to writing.
+[Here’s Paul Graham](https://paulgraham.com/writes.html), the co-founder of Y Combinator, in one of his [many](https://paulgraham.com/words.html) [odes](https://paulgraham.com/speak.html) to [writing](https://paulgraham.com/writing44.html).
+“AI has blown this world open. Almost all pressure to write has dissipated. You can have AI do it for you, both in school and at work.
+The result will be a world divided into writes and write-nots. There will still be some people who can write. Some of us like it. But the middle ground between those who are good at writing and those who can’t write at all will disappear. Instead of good writers, ok writers, and people who can’t write, there will just be good writers and people who can’t write.”
+[…]
+“So a world divided into writes and write-nots is more dangerous than it sounds. It will be a world of thinks and think-nots. I know which half I want to be in, and I bet you do too.
+This situation is not unprecedented. In preindustrial times most people’s jobs made them strong. Now if you want to be strong, you work out. So there are still strong people, but only those who choose to be.
+It will be the same with writing. There will still be smart people, but only those who choose to be.”
+[Writes and Write-nots](https://paulgraham.com/writes.html), by Paul Graham
+This column by Richard Glover [in The Sydney Morning Herald](https://www.smh.com.au/lifestyle/life-and-relationships/ai-can-do-many-things-but-it-won-t-help-you-with-this-20250204-p5l9e3.html) argues in favour of holding on to your ability to write beautifully.
+Writing is a muscle that needs to be worked on. Relying on AI to help you write is like tying your Fitbit to the dog. Your short-term results might be impressive, but there’s no future in it.
+[…]
+A good message requires the human brain, plus time. We sit with a problem and start teasing at the edges of it, and then halfway through we have a sudden insight into what might make this email (or letter, or report) effective. We hadn’t thought of it when we first sat down, but we’ve thought of it now.
+There’s a name for this process. It’s called writing.
+When novelists or great thinkers are interviewed, the question is often put: “Where do you get your ideas?” The expectation, I think, is that the answer will be “under the shower” or “walking along the beach”.
+Perhaps that happens sometimes, but the more truthful answer is: “When writing. With bum in chair. When thinking hard about what I’m trying to say.”
+One of the glories of writing – particularly by hand, but a keyboard also counts – is that your thoughts have time to catch up with your fingers. The mechanical effort of writing allows the brain the time to realise what it wants to say.
+[…]
+Here’s my point: writing is not something that happens after you’ve had some time thinking. Writing is the process of thinking.
+And a world without writing can easily end up a world without thinking.
+[AI can do many things. But it won’t help you with this](https://www.smh.com.au/lifestyle/life-and-relationships/ai-can-do-many-things-but-it-won-t-help-you-with-this-20250204-p5l9e3.html), by Richard Glover
+“Writing is the process of thinking”. It’s true, isn’t it?
+Once you realise that writing is thinking, you arrive at the next inevitable conclusion: of course you write for yourself.
+“Soon after you confront the matter of preserving your identity, another question will occur to you: “Who am I writing for?”
+It’s a fundamental question, and it has a fundamental answer: You are writing for yourself. Don’t try to visualize the great mass audience. There is no such audience—every reader is a different person. Don’t try to guess what sort of thing editors want to publish or what you think the country is in a mood to read. Editors and readers don’t know what they want to read until they read it. Besides, they’re always looking for something new.”
+“Don’t worry about whether the reader will “get it” if you indulge a sudden impulse for humor. If it amuses you in the act of writing, put it in. (It can always be taken out, but only you can put it in.) You are writing primarily to please yourself, and if you go about it with enjoyment you will also entertain the readers who are worth writing for. If you lose the dullards back in the dust, you don’t want them anyway.
+This may seem to be a paradox. Earlier I warned that the reader is an impatient bird, perched on the thin edge of distraction or sleep. Now I’m saying you must write for yourself and not be gnawed by worry over whether the reader is tagging along.
+I’m talking about two different issues. One is craft, the other is attitude. The first is a question of mastering a precise skill. The second is a question of how you use that skill to express your personality.”
+“In terms of craft, there’s no excuse for losing readers through sloppy workmanship. If they doze off in the middle of your article because you have been careless about a technical detail, the fault is yours. But on the larger issue of whether the reader likes you, or likes what you are saying or how you are saying it, or agrees with it, or feels an affinity for your sense of humor or your vision of life, don’t give him a moment’s worry. You are who you are, he is who he is, and either you’ll get along or you won’t.
+[On Writing Well: An Informal Guide to Writing Nonfiction](https://www.goodreads.com/book/show/53343.On_Writing_Well), by William Zinsser
+Last week, we talked about making careers more exciting and dynamic by seeing them as a series of finite[ “tours of duty”](https://the-ken.com/newsletter/first-principles/careers-as-tours-of-duty/). I asked the First Principles community for their views and comments. So many of you contributed with your nuances and extensions. Thank you!
+1. Sonny Iqbal (Partner, Egon Zehnder), Gurugram
+It’s “best for those over 50 in our ethos and culture.” I was curious why Sonny (who incidentally helped found Egon Zehnder’s offices in India) thought this was the case. So, I emailed him and requested for a brief call. He was gracious enough to agree.
+Sonny’s point was that I had not adequately emphasised the point that tours of duty could often be with the same organisation over a period of many years. Thus, younger professionals might be misled to think tenure and longevity didn’t matter as much in their careers. Instead, said Sonny, it is precisely that which leads to learning, compounding, and growth in a professional’s career.
+He had a point. I thought I had talked about tours of duty often being with the same employer. I hadn’t. This important nuance was buried in the pieces I’d linked to. Here’s[ Reid Hoffman explaining this](https://www.linkedin.com/pulse/20141023153633-1213-tours-of-duty-how-to-organize-modern-employment/):
+“When I first founded Linkedin, for example, I offered an explicit deal to talented employees. If they signed up for a tour of duty of between two to four years and made an important contribution to some part of the business, the company and I would help advance their careers, preferably in the form of another tour of duty at LinkedIn. This approach worked: the company got an engaged employee who worked to achieve tangible results for LinkedIn and who could be an advocate and resource for the company if he chose to leave after one or more tours of duty. The employee transformed his career by enhancing his portfolio of skills and experiences.
+Take David Hahn, for example. How did he go from a twenty-three-year-old with no business experience to one of the most sought-after executives in Silicon Valley? The answer is the unique way he structured his nine years of working at LinkedIn. Over four distinct “tours of duty,” Hahn transformed the company and his career.
+His first tour was as a junior business analyst; his last tour was running all of LinkedIn’s monetization products as a vice president. Each time, with a different manager, he scoped out a mission objective that led to long-term benefit for both sides. For the company, it shipped dozens of key products under Hahn’s stewardship. For the employee (Hahn), he acquired the managerial experience he needed to fulfill his longtime aspiration to become a successful company builder.
+As a manager at LinkedIn, Hahn was also explicit about tours of duty with his team members, encouraging them to rotate to new tours of duty within LinkedIn so that they could gain operational experience across multiple areas. Hahn did this despite that the fact that many of his team members were perfectly happy within his group. He saw it as his duty to help them grow. This seeming contradiction—regularly changing roles in the context of a long-term relationship—is the essence of the tour of duty framework.”
+Thanks Sonny!
+Wonderfully, I got some real-life examples of this from our community too.
+2. Daksha Ballal, Bengaluru
+“It’s 2012. I had just completed the PGDM course from St.Joseph’s College of Business Administration, Bangalore. While conventional wisdom (read my parent’s wisdom)stated that I must look out for a job/career, I was scouting for internships.
+A 3 month or 6 month internship that would help me ease into the company that I wanted to work for and also give a chance for the company to know my potential. With no past work experience, I felt doing an internship was the only fair way for a company to check on my capabilities.
+The company that eventually hired me for a 6 month internship was QuizWorks – a quiz based company that uses quizzes as medium for employee and customer engagement. A company where I have done 2 stints already and embarking on my 3rd stint in the coming days.
+Why did this work for me? Because I never looked at this like my career or a job that I must hold on to. I viewed this as a bunch of dedicated individuals committed to the idea of building a business around quizzing in India and the globe. Who you work with and for is equally important to what we do (Credit to James C. Collins for this insight). On the days that you doubt yourself on what exactly are you doing, one look across the room to see who you surround yourselves with can give you a leg up.
+It also worked for me cause there was authenticity and transparency on the level of involvement from the company and me. In 2012, I was offered a 6 month internship with a stipend and no promise of a stable employment. But the task was clear. There was clarity in what I had to do. Spend 6 months learning how to engage India’s workforce and school community through the medium of quizzing. 6 months later when our wavelengths matched, I was offered a ‘job’ with the monetary benefits associated with it.
+And I continue my “tours of duty” where we collaborate on specific projects fora time bound mission. My second stint lasted from Jan 2021 to Jan 2022 and was focused on scaling our digital solutions. My third stint, where we are discussing on a collab for 15-18 months, is to look at selling a “productized quizzing” model. Think of it as a QaaS (Quizzing-as-a-Service)”
+3. Liby Thomas Johnson (Executive Director at Gram Vikas, a rural development organisation), Bhubaneswar
+Liby actually[ shared a detailed note on Linkedin](https://www.linkedin.com/pulse/young-talent-development-sector-liby-thomas-johnson-683zc/) detailing his experience running a “tour of duty”-style program at Gram Vikas.
+I’m briefly quoting from his note. I’d urge you to read the full note, as it has much more specifics, including tenure graphs! Thanks Liby!
+“I often encounter a recurring issue in my conversations with peers in the development sector: the challenge of attracting young people to work with us. Over the past seven years, I have reflected on this challenge as the head of an organization needing talented individuals. It is not a one-sided problem. Organizations, as employers, face challenges from multiple directions, and the needs of employees often do not take precedence in their list of priorities. For current and potential employees, particularly those with specific technical education, uncertainties about the sector and the perceived difficulties are often significant concerns.
+[…]
+“This concept of a finite term of engagement resonated deeply with me. My experience managing the HR strategy for Gram Vikas reaffirmed the validity of this approach.
+When I assumed my current role at Gram Vikas, it was evident that we needed more young people with diverse backgrounds, orientations, and skill sets. We developed a strategy with two main components.
+First, we created a program for “Young Management Trainees”—fresh graduates from selected development sector academic institutions. After a year of traineeship, they would transition into Junior Manager roles, forming the foundation for a technical managerial cadre. This initiative aimed to attract talent to rural Odisha.
+Second, we established the “Community Professionals Programme,” which invites young men and women from the communities we serve to join Gram Vikas and work at the grassroots level for five years. After this period, Gram Vikas would support them in pursuing higher education and assist them in advancing their careers—including the possibility of returning to Gram Vikas in management roles. This approach aims to create talent locally.
+I initially felt apprehensive about the Young Management Trainee route. On the one hand, I questioned whether Gram Vikas could retain them for sufficient durations; on the other, I doubted whether young people would be willing to endure the challenges of working at Gram Vikas for what would effectively amount to a modest salary.”
+4. Srikanth, Bangalore
+“Defining time bound outcomes over 2–3 years is relatively easy. I’ve learnt that it’s equally important to define “terms of disengagement” in relatively shorter stints. You should be able to disengage quickly if things go wrong for either you or your employee.”
+5. Ray Stephanos (Director, Transaction Due Diligence), Bengaluru
+“If one were to draw out their career in a flow chart there should be multiple tours of duty that fit into that flow and form different career paths possibly starting with general experiences which culminate into a post graduate degree and later into deeper specialization.”
+6. Lakshmi Raman, NGO Consultant, Bengaluru
+“When I joined Bank of America at Chennai in 1972, the first thing I was asked to do was to read “Biography of a Bank” which was the story of how the bank was founded. It inspired me no end to do my best every day I worked there. People love stories. Get the story of the founding of The Ken written and ask every new recruit (whether for 3 months or 3 year tour of duty) to read it.”
+7. Subramanian Kalpathi, Bengaluru
+“I’m an ex consultant and work with a large IT services firm. This isn’t a direct comment on making tours of duty more effective (I’m sure you’ve done your reading). But an additional POV which may help: We are experimenting with career pathways to make careers predictable for our people. This means showing how them how their careers can evolve as they grow within The Ken. Can they grow vertically, horizontally, diagonally? Can they move between functions? Make the offer visual and ‘show’ them instead of merely telling them. Look up the 3-E framework (Experience, Exposure and Education) for building out your career paths.”
+8. Gautam Jayasurya (Talent Strategy, Accenture), Bengaluru
+“In order to make tours of duty careers work, the competencies of the incoming candidates have to mapped to the system. The programme should aim to amplify the strengths and raise weakness to a level where it’s not a deal breaker. This ensures that candidate is thoroughly engaged.”
+9. Arya Tripathi (Monitoring & Evaluation Specialist), New Delhi
+“But this tours of duty would fit in best with the results based management used in the social impact space as all projects are geared towards certain outcomes which they have achieve at the end of a 3-5 year horizon. For such projects matching the most appropriate candidate/employee/team would be a great idea.”
+Hello Ishan, it’s Hari here. I hope everyone’s having a quiet, laid-back Sunday.
+I have a question for you this week. How many of you take a deep interest in poetry?
+Almost always, the things I speak about in this collection, and ask for recommendations on, are aspects of books I’ve picked up recently that really intrigued me. Poetry has been creeping up on that list; I’ve been considering bringing it up from the beginning of this year.
+And last Thursday, because I reached our recording studio early for a session, I had time to open my copy of [Slouching Towards Bethlehem](https://www.goodreads.com/book/show/424.Slouching_Towards_Bethlehem), written by Joan Didion. And because I’m a cover-to-cover reader, this was among the first things I came across:
+From that moment on, everything else in the book felt like it tied back beautifully to the poem that started it all. Or maybe it was the [Kuleshov Effect](https://en.wikipedia.org/wiki/Kuleshov_effect) at work. Regardless of which it was, I was connecting many of the essays in the book to the poem, and in many different ways.
+Didion’s fluid writing is a joy, yes, but there was something more at play. And I think I finally understand why I’ve had such trouble with poetry so far—you can’t really slot good poems into neat, narrow categories. Where you are, when you read it… all of it changes how you interpret verse.
+Do you have poetry collections you hold dear? If yes, please share your recommendations and tell us why you love them using [this link here](https://theken.typeform.com/FPBooks). Small note: it would be best if you recommend a poetry collection instead of just a single poem. More the merrier, right?
+For now, here are four wonderful books recommended by our readers. Please switch to our [website or app](https://the-ken.com/newsletter/first-principles/is-writing-thinking/) edition to read what our recommenders have to say about them:
+1. [Creation Lake](https://www.goodreads.com/book/show/207300960-creation-lake) by Rachel Kushner—from Kirti Manian
+2. [Quiet](https://www.goodreads.com/book/show/8520610-quiet?from_search=true&from_srp=true&qid=HieS34TPNd&rank=1) by Susan Cain—from Pallavi Singh
+3. [Predictably Irrational](https://www.goodreads.com/book/show/1713426.Predictably_Irrational?ref=nav_sb_ss_1_22) by Dan Ariely—from Shreya Bhattacharya
+4. [Living on Earth](https://www.goodreads.com/book/show/205363954-living-on-earth?from_search=true&from_srp=true&qid=t3wHNRY7NX&rank=2) by Peter Godfrey-Smith—from Parag Agarwal
+Hello Ishan, welcome to another edition of First Principles Silent Sunday. It’s Jonathan here as always. Today’s issue is a bit international—well, more international than this section usually is anyway—with pictures from places thousands of kilometres apart.
+Here are our top picks for the week. [Quick reminder: you can send in your own contributions for this section by [using this link](https://theken.typeform.com/FPSilentSundays), and we’ll feature your pictures in future editions.]
+From Vartika Pandey, of Wat Phra Kaew, Bangkok:
+| Wat Phra Kaew, Bangkok (Vartika Pandey) |
+From Vanshika, of Seattle, Washington:
+| Seattle, Washington (Vanshika) |
+And here is the rest of our album. Please switch over to our [website or app](https://the-ken.com/newsletter/first-principles/is-writing-thinking/) edition to see the full-size, cropped versions of all of this week’s pictures.
+That’s a wrap for this week. Before you go, if you know someone who might like this newsletter, forward us to them!
+Please write to [fp@the-ken.com](mailto:fp@the-ken.com) if there’s anything you’d like to share with us. Or leave a comment on our on-site edition. See you next Sunday!
+Regards,
+Rohin Dharmakumar

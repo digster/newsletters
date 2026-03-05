@@ -1,0 +1,22 @@
+---
+subject: "Google, Facebook wrestle with crime syndicates’ unending love for them"
+from: "The Ken <info@the-ken.com>"
+to: ""
+date: 2023-07-10 02:38:53
+labels: ["CATEGORY_PERSONAL", "INBOX", "The Ken", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_8244464457792971031", "UNREAD"]
+---
+Good Morning Ishan,
+The stories of ad scams in India on tech platforms like Google, Meta, or even e-marketplaces such as Quikr are getting dangerously creative and frequent.
+Scammers come via an SBI customer-care app, an Ola scooter-booking page, or simply as a charming, globetrotting lady. They are swindling people of a few thousand, a few lakhs, or even a few crore rupees.
+Placing fraudulent ads on Google, Facebook, Instagram, and marketplaces is one way to defraud unsuspecting users. Scammers also manipulate Google Maps, promote links on Google Search, and host malicious apps on Google Play.
+The syndicate running these scams are meticulous with a canny division of labour; teams from different states in India bring different skills to the table. While the cyber police are filing FIRs and conducting raids, it’s too complicated an issue for the platforms to address by themselves. After all, no one wants to harm the hand that feeds them.
+To be fair, even though Big Tech gets low per-capita ad revenue from India, they spend a lot in their largest user market to ensure there’s a clean ad ecosystem. The aim is to deliver adequate returns for advertisers. But the frequency of FIRs shows that the platforms are not doing enough to keep the bad actors away. In one instance, scammers even utilised funds stolen from a victim’s account to settle their Google ads bill.
+In response to The Ken’s questions, Google said in 2022, it removed over “5.2 billion ads, restricted over 4.3 billion ads and suspended over 6.7 million advertiser accounts”. This represented an increase of “2 billion more ads removed in 2022 from the previous year”.
+Both Google and Meta have large in-house and contractual staff in their “trust and safety team” (T&S). Ironically, the layoffs have hit this team, and it’s showing. But a bigger T&S team alone isn’t the solution. When regulators worldwide tighten control over social-media and video-streaming platforms, Indian regulations are “ambiguously lenient”, argues Pratap today.
+It’s a comprehensively reported and meticulously put-together story that everyone using the internet must read. Here: [https://the-ken.com/story/google-facebook-wrestle-with-crime-syndicates-unending-love/](https://the-ken.com/story/google-facebook-wrestle-with-crime-syndicates-unending-love/?utm_source=story_story&utm_medium=email&utm_campaign=story_newsletter) (9-minute read)
+Warmly,
+Seema Singh
+[seema@the-ken.com](mailto:seema@the-ken.com)
+What you just read is the personalised daily introduction to The Ken's story. Written by a different person each day. Often insightful, sometimes witty, and very rarely boring. Someone sent this to you? [Sign up for free](https://the-ken.com/?modal=register&utm_source=footer&utm_medium=email&utm_campaign=morning_email_ind). [Dont like these? You can unsubscribe](https://link.the-ken.com/asm/unsubscribe/?user_id=2349339&data=dIf6b1CaLIwIi1Fj7OBlKD6qlRtjeJDA0hMSFGX2BWtoMDAwdTAwMM7DIBzYaniPQHANgy1KvbN-dgnB0ydCaNeI9HuU-hv5yTNF0XO3cKSEtUaw3sRweV78TVF6ydxDxHbW61KtPpz7qHf-GsuKuRd-qcJ3SSyqxGp9DQbS2OAkt7PFzJlUw8f0Aw3xs_aS_xNL2-2FRi10QQLXPlL3nfKit0ZImFEvaPNKY-GVizXq6NEeacTj_9LK-labP1YXqM92Yplhv7B1Pd07FAcXGimvO1NlbBn1jZsMEJllX1A_OgOdfu-VKUaOoDaakbLxJSLCGxl6IuiPqkoLGrxiZB8egLDTt6kendgRAAv0Rm2sD2ScKz6M_crZjOolBV6hFzA2X7qG3M4YeOVoADocSXugcTGvvMx1sEcc_ym__SyLKfvb1Vfcvzu1_sX3ijIYBytWuQSKp80b5MBEgglHW6naKfDSJ-fWxysLWZaJaYEODtcJ3uWbv4WGBZHW6594c6Bn9Y96kZ4mXyAQxKk8DKN8pQeOu2caww6tpDVGwAEhZze714-fUQ==) Dont want to hear from us again? [ Unsubscribe from our emails here](https://link.the-ken.com/asm/?user_id=2349339&data=6geYNcsJjGMKkTCOE4kB8u7MRulSnKma8RyliaKr1rloMDAwdTAwMHdJ3fszc60s3AKrThpzQYFcGhM9vkE29HQPsuYj9iGj6hXkMa2ydFGcaqOj-tBhAv4v19aV7NYoy6I3TBJ4-vUfjnoMUxdyGG8NsouWuvsSU9gs-nPRl4c7MeXtzzVfdQJ426AYZfoJ44MEwaGa0eK21CDzNI3N2NOB3XIGwweCJEdLY_tPDqHZbVeMa_yuI7AdZRXqeLzz1jq0Mde-iLzSEQ5NiESVknbV0FvvvBqnG7C-4KUIOwL2XgQ6sC_QcIXsnI-tkwdJ5xF2zS56ioBAny2O9CUKMsMEorNDFwtlPYTET308hWbIL_kiqoZHHXfMX5ClMw45CpCZySVd9m-S2Thw1ozM99oLHUxHoG1tHRpoUi7Y8AHEfboSny-w_DqQxHQ5ZbGKlv9-4F-qcBXCq3KKMlWN5sQJ5arxLfrIV9W-WP7DdZtPAURC5luCTqZdWghB-J7VvnHgJL2T4FI5vRLIiMJPlwK7v4MU5Jd5RI1eN4UVo30uCraVec3JvQ==).
+Something wrong? Tell us at [support@the-ken.com](mailto:support@the-ken.com)

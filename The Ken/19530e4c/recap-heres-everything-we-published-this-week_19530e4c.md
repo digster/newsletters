@@ -1,0 +1,63 @@
+---
+subject: "Recap: Here's everything we published this week"
+from: "The Ken <info@the-ken.com>"
+to: ""
+date: 2025-02-23 03:40:49
+labels: ["CATEGORY_PERSONAL", "INBOX", "The Ken"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_8244464457792971031"]
+---
+|
+|
+Delivered to Ishan, Subscriber to The Ken.
+Sun, 23 Feb 2025
+|
+The Spotlight by Jonathan Ananda
+Newsletter Editor
+|
+|
+Good Morning Ishan,
+Welcome to your Sunday recap of everything The Ken published this week.
+[Swiggy’s post-IPO pain dulls HNIs’ appetite for pre-listing bets](https://the-ken.com/story/swiggys-post-ipo-pain-dulls-hnis-appetite-for-pre-listing-bets/?utm_source=weekly_email&utm_medium=email&utm_campaign=weekly_recap_card)
+Swiggy’s valuation has plunged by 30% since its listing. HNIs and others who invested around Rs 1,000 crore in its pre-IPO secondary sale are left with nothing but regret and a bunch of questions
+Swiggy’s stock price has fallen 20% since its IPO in 2024, wiping out over $3 billion in market cap. Before the listing, high-net-individuals (HNIs), others poured over Rs 1,000 crore in its pre-IPO secondary sale, chasing quick gains. Many cashed out of their SIPs and sold their Zomato shares to buy into Swiggy, only to find themselves stuck. And it’s not just Swiggy—40% of new-age tech stocks in India are now trading below their IPO issue price. [[Read the full story](https://the-ken.com/story/swiggys-post-ipo-pain-dulls-hnis-appetite-for-pre-listing-bets/?utm_source=weekly_email&utm_medium=email&utm_campaign=weekly_recap_card)]
+******
+Also in the spotlight
+[Indian sovereign fund NIIF’s biggest exit: Money moves from the left hand to the right hand](https://the-ken.com/long_and_short/indian-sovereign-fund-niifs-biggest-exit-money-moves-from-the-left-hand-to-the-right-hand/?utm_source=weekly_email&utm_medium=email&utm_campaign=weekly_recap_card)
+The majority owner in Ayana Renewables, NIIF, exited to a joint venture owned by two government companies, one of which already has a listed green business. The optics is telling
+******
+[What is stopping 10-minute alcohol delivery?](https://the-ken.com/podcasts/two-by-two/what-is-stopping-10-minute-alcohol-delivery/?utm_source=weekly_email&utm_medium=email&utm_campaign=weekly_recap_card)
+It’s the next big frontier in quick commerce, but regulatory and political challenges abound
+******
+[We just found out how to break the Swiggy, Zomato duopoly](https://the-ken.com/the-nutgraf/we-just-found-out-how-to-break-the-swiggy-zomato-duopoly/?utm_source=weekly_email&utm_medium=email&utm_campaign=weekly_recap_card)
+Rapido and Meesho made Uber and Flipkart blink. Who is next?
+[Listen to The Nutgraf podcast: [Apple Podcasts](https://podcasts.apple.com/in/podcast/we-just-found-out-how-to-break-the-swiggy-zomato-duopoly/id1794924619?i=1000694942166), [Spotify](https://open.spotify.com/episode/6o7PLxndg9P8GFMM0AB9bt)]
+[Deepseek cracked open AI. India’s AI plumbers are loving it](https://the-ken.com/story/deepseek-cracked-open-ai-indias-ai-plumbers-are-loving-it/?utm_source=weekly_email&utm_medium=email&utm_campaign=weekly_recap_card)
+Until recently, some of the best-funded Indian GenAI companies used the tech to build new apps. Now, the tide is turning in favour of startups that help other companies build with GenAI
+Deepseek R1’s launch in January paved the way for enterprises of all sizes to switch away from closed-source models, like OpenAI’s, to open-source LLMs. That’s letting firms working on backend AI infrastructure to have a moment. After years of being away from the limelight, they’re now seeing bigger business opportunities. Enterprises want LLMops companies to provide them with custom-made GenAI solutions, preferably models that are “glued” together to perform various tasks. India’s national AI policy may be a good platform for model-builders to find more funding. All the more variety for these AI-infra firms to work with. [[Read the full story](https://the-ken.com/story/deepseek-cracked-open-ai-indias-ai-plumbers-are-loving-it/?utm_source=weekly_email&utm_medium=email&utm_campaign=weekly_recap_card)]
+******
+[Siddhartha Bhaiya’s Aequitas is the fund for the ultra-rich that can win by not playing](https://the-ken.com/story/siddhartha-bhaiyas-aequitas-is-the-fund-for-the-ultra-rich-that-can-win-by-not-playing/?utm_source=weekly_email&utm_medium=email&utm_campaign=weekly_recap_card)
+He has spent over a decade making the ultra-HNIs richer in a capricious market—though if it picks up again, he might just have to pay for that luck
+Aequitas, a 12-year-old fund, has been raking in high returns thanks to founder and CIO Siddharth Bhaiya’s knack for betting against the herd. Bhaiya has a penchant for creating wealth for his clients and took a large cash call in the past year, predicting a volatile market. His firm has now hedged high bets on gold, investing over two-thirds of the portfolio. The real test, though, is whether Bhaiya’s golden gamble shines or just ends up being a very expensive lesson in market timing. [[Read the full story](https://the-ken.com/story/siddhartha-bhaiyas-aequitas-is-the-fund-for-the-ultra-rich-that-can-win-by-not-playing/?utm_source=weekly_email&utm_medium=email&utm_campaign=weekly_recap_card)]
+******
+[Universities go the American way as India slowly turns off the funding tap](https://the-ken.com/story/universities-go-the-american-way-as-india-slowly-turns-off-the-funding-tap/?utm_source=weekly_email&utm_medium=email&utm_campaign=weekly_recap_card)
+When the government slashed funding, top Indian universities had to adapt, and they did—by starting their own private (sometimes public) companies
+The government has been steadily cutting down funds for higher education institutes in the country. In turn, some of the institutes have responded by starting their own Section 8 companies. These companies act like fundraising wings for universities, bringing them more donations. But only legacy universities with rich alumni will benefit from this. [[Read the full story](https://the-ken.com/story/universities-go-the-american-way-as-india-slowly-turns-off-the-funding-tap/?utm_source=weekly_email&utm_medium=email&utm_campaign=weekly_recap_card)]
+******
+[India’s Foxconn has a dilemma: what happens when Dixon with PLI becomes Dixon without it?](https://the-ken.com/story/indias-foxconn-has-a-dilemma-what-happens-when-dixon-with-pli-becomes-dixon-without-it/?utm_source=weekly_email&utm_medium=email&utm_campaign=weekly_recap_card)
+A chunk of the contract manufacturer’s revenue comes from making smartphones, but its exports are scanty. If government incentives were to dry up, it doesn’t leave much for Dixon to stay afloat
+Dixon Tech’s revenue has soared nearly 500% to Rs 18,000 crore in just five years, fuelled largely by the production-linked incentive scheme for smartphone manufacturing. But lately, its stock has taken a hit as investors fret over the end of PLI benefits and Dixon’s meagre export footprint. The company’s plan for $3 billion display fab and component manufacturing plans hinge on one thing: more subsidies. And scaling up component production might not be as simple as assembly, with demand mostly outside India. [[Read the full story](https://the-ken.com/story/indias-foxconn-has-a-dilemma-what-happens-when-dixon-with-pli-becomes-dixon-without-it/?utm_source=weekly_email&utm_medium=email&utm_campaign=weekly_recap_card)]
+[Is writing, thinking?](https://the-ken.com/newsletter/first-principles/is-writing-thinking/?utm_source=weekly_email&utm_medium=email&utm_campaign=weekly_recap_card)—Who do we write for? Why do we write? [[Read here](https://the-ken.com/newsletter/first-principles/is-writing-thinking/?utm_source=weekly_email&utm_medium=email&utm_campaign=weekly_recap_card)]
+[Modi, Trump, and some inherent contradictions around education](https://the-ken.com/edsetgo/modi-trump-and-some-inherent-contradictions-around-education/?utm_source=weekly_email&utm_medium=email&utm_campaign=weekly_recap_card)—Did you think things would get easier? [[Read here](https://the-ken.com/edsetgo/modi-trump-and-some-inherent-contradictions-around-education/?utm_source=weekly_email&utm_medium=email&utm_campaign=weekly_recap_card)]
+[Why ITC is buying Prasuma](https://the-ken.com/tradetricks/why-itc-is-buying-prasuma/?utm_source=weekly_email&utm_medium=email&utm_campaign=weekly_recap_card)—And why other players in the meat products space should be paying attention [[Read here](https://the-ken.com/tradetricks/why-itc-is-buying-prasuma/?utm_source=weekly_email&utm_medium=email&utm_campaign=weekly_recap_card)]
+[Most founders have a thesis. These have a counterthesis](https://the-ken.com/the-collection/most-founders-have-a-thesis-these-have-a-counterthesis/?utm_source=weekly_email&utm_medium=email&utm_campaign=weekly_recap_card)—Six counterintuitive takes on healthcare, fast food, and personal finance [[Read here](https://the-ken.com/the-collection/most-founders-have-a-thesis-these-have-a-counterthesis/?utm_source=weekly_email&utm_medium=email&utm_campaign=weekly_recap_card)]
+[Is the party over for small-cap and mid-cap stocks?](https://the-ken.com/kaching/is-the-party-over-for-small-and-mid-cap-stocks/?utm_source=weekly_email&utm_medium=email&utm_campaign=weekly_recap_card)—There are many caution signs, and investors must be wary of blind spots [[Read here](https://the-ken.com/kaching/is-the-party-over-for-small-and-mid-cap-stocks/?utm_source=weekly_email&utm_medium=email&utm_campaign=weekly_recap_card)]
+[A well-crafted mission is the secret to alignment and trust](https://the-ken.com/incitingincident/a-well-crafted-mission-is-the-secret-to-alignment-and-trust/?utm_source=weekly_email&utm_medium=email&utm_campaign=weekly_recap_card)—Great mission statements can help companies break into the league of heroes [[Read here](https://the-ken.com/incitingincident/a-well-crafted-mission-is-the-secret-to-alignment-and-trust/?utm_source=weekly_email&utm_medium=email&utm_campaign=weekly_recap_card)]
+[Every summer in India is a race against AC shortage. This year will be no different](https://the-ken.com/podcasts/daybreak/every-summer-in-india-is-a-race-against-ac-shortage-this-year-will-be-no-different/?utm_source=weekly_email&utm_medium=email&utm_campaign=weekly_recap_card)—AC sales are projected to jump another 20%, crossing 12 million units [[Listen here](https://the-ken.com/podcasts/daybreak/every-summer-in-india-is-a-race-against-ac-shortage-this-year-will-be-no-different/?utm_source=weekly_email&utm_medium=email&utm_campaign=weekly_recap_card)]
+[A hair away from unicorn status, but Juspay just can’t catch a break](https://the-ken.com/podcasts/daybreak/a-hair-away-from-unicorn-status-but-juspay-just-cant-catch-a-break/?utm_source=weekly_email&utm_medium=email&utm_campaign=weekly_recap_card)—So now merchants have to decide – do they stay the course with Juspay or jump ship? [[Listen here](https://the-ken.com/podcasts/daybreak/a-hair-away-from-unicorn-status-but-juspay-just-cant-catch-a-break/?utm_source=weekly_email&utm_medium=email&utm_campaign=weekly_recap_card)]
+[How a four-year-old homegrown company is helping Mango and Next change the fashion game](https://the-ken.com/podcasts/daybreak/how-a-four-year-old-homegrown-company-is-helping-mango-and-next-change-the-fashion-game/?utm_source=weekly_email&utm_medium=email&utm_campaign=weekly_recap_card)—This shift in the industry was made possible because of middlemen like Groyyo, who get small factories to manufacture clothes in small batches in record time [[Listen here](https://the-ken.com/podcasts/daybreak/how-a-four-year-old-homegrown-company-is-helping-mango-and-next-change-the-fashion-game/?utm_source=weekly_email&utm_medium=email&utm_campaign=weekly_recap_card)]
+[How Tata landed a Punch on Maruti and also buried Nano’s ghost](https://open.spotify.com/episode/340QAs9r9F8L5bnUWZgWsy)—Nano failed miserably. So, Tata Motors went back to the drawing board and came back with the safer, affordable, and feature-rich Nexon and Punch [[Listen here](https://open.spotify.com/episode/340QAs9r9F8L5bnUWZgWsy)]
+[In the run-up to IPL, there’s a conflict brewing between OTT platforms and advertisers](https://open.spotify.com/episode/4GaTEiHwsKifhU0oO61jV4)—What happens when a big spender feels it’s not getting what it signed up for during the largest streaming event of the year? [[Listen here](https://open.spotify.com/episode/4GaTEiHwsKifhU0oO61jV4)]
+That’s a wrap for this week. If you have thoughts or suggestions you’d like to share, leave a comment on our website or app, or write to our writers and podcasters. You can also write to me at jonathan@the-ken.com.
+Take care.
+Regards,
+Jonathan

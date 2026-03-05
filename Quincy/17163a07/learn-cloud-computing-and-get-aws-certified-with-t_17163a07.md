@@ -1,0 +1,33 @@
+---
+subject: "Learn Cloud Computing and Get AWS Certified With This Free 16-hour Course"
+from: "Quincy Larson <quincy@freecodecamp.org>"
+to: ""
+date: 2020-04-10 10:26:34
+labels: ["CATEGORY_PERSONAL", "INBOX", "Quincy"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_7697778124671848699"]
+---
+Here are this week's five links that are worth your time:
+
+1. Learn cloud computing and get AWS certified. Our new AWS Developer Associate Certification course is now live. You'll learn DynamoDB, Elastic Beanstalk, Serverless and more. (16 hour course): https://www.freecodecamp.org/news/pass-the-aws-developer-associate-exam-with-this-free-16-hour-course/
+
+2. On Tuesday we're hosting a free developer conference on freeCodeCamp's YouTube channel. It's called LockdownConf. You should totally come. Full details: https://www.freecodecamp.org/news/lockdownconf-free-developer-conference/
+
+3. Expand your JavaScript skills by building 7 grid-based browser games – including Tetris. Aina will show you how to use graphics and mathematical functions. And she includes full working codebases for each game. (2 hour course): https://www.freecodecamp.org/news/learn-javascript-by-building-7-games-video-course/
+
+4. Some lessons we can learn from the Git Revert command in our fight with COVID-19. This comes straight from a developer in the middle of the Madrid outbreak, helping run an app-based grocery delivery service for people in his city. (9 minute read): https://www.freecodecamp.org/news/what-we-can-learn-from-git-revert-in-our-fight-against-covid19/
+
+5. And finally, we just launched a community Discord chat room. This is a friendly, inclusive place to chat, make developer friends, and share positive energy. And I think we all need that now more than ever. (3 minute read): https://www.freecodecamp.org/news/freecodecamp-discord-chat-room-server/
+
+
+Quote of the Week: “To teach is to learn twice.” - Joseph Joubert
+
+
+Happy coding.
+
+- Quincy Larson
+
+Teacher at https://www.freecodecamp.org
+I share useful things on Twitter at https://www.twitter.com/ossia
+
+
+If these emails aren't worth your time, you can turn them off: https://www.freecodecamp.org/ue/eZV2T3gHC7IGcwcpYPG64

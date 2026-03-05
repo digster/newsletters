@@ -1,0 +1,66 @@
+---
+subject: "Weekly Dose of Optimism #114"
+from: "Not Boring <notboring@substack.com>"
+to: ""
+date: 2024-10-04 12:39:55
+labels: ["CATEGORY_PERSONAL", "INBOX", "Not Boring", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2982495070691762429", "UNREAD"]
+---
+|
+Today’s Not Boring is brought to you by… [Panasonic Well](https://substack.com/redirect/f7e0c93d-2644-4f59-96ce-b35db9df9c4a?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+Is your company innovating in the family wellness space? If so, you could win from a $1M prize pool, plus a trip to exhibit at CES, courtesy of the [Panasonic Well Innovation Challenge](https://substack.com/redirect/f7e0c93d-2644-4f59-96ce-b35db9df9c4a?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o).
+The mission is to redefine well-being, starting with solutions that support modern families. This Challenge is open to companies working on a promising breakthrough solution in any aspect of family wellness, from healthcare decisions to stress management to increased quality time.
+One company will take home $500K, and four other finalists will take home $125K each, plus all five win a sponsored trip to exhibit at CES 2025 within the Panasonic experience.
+Learn more and apply through October 25, 2024, midnight PDT.
+Hi friends 👋,
+Happy Friday and welcome back to our 114th Weekly Dose of Optimism. The world is a bit chaotic right now: the Middle East is on the brink of full-out war, hurricanes tore through the Southeast, and we’re now about one month out from what will certainly be a tumultuous Presidential election. At least the ports are opening back up! Amidst all of that, as hard as it may be, we think its important to ground yourself in some of the good stuff happening all around us. That’s not to say that you should ignore the bad stuff. Being informed and involved is a good thing. But you don’t get lost in the chaos and noise. On a long enough timescale, we’re moving in the right direction.
+Let’s get to it.
+(1) [Stem cells reverse woman’s diabetes — a world first](https://substack.com/redirect/0ebd5c06-08ff-43ba-a3ba-31b9f89013ab?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+Smriti Mallapaty for Nature
+A 25-year-old woman with type 1 diabetes started producing her own insulin less than three months after receiving a transplant of reprogrammed stem cells. She is the first person with the disease to be treated using cells that were extracted from her own body.
+Man, diabetes can’t catch a break these days. New treatments popping up left and right. Most recently, a young woman with type 1 diabetes began producing her own insulin after receiving a transplant of insulin-producing islet cells derived from her own reprogrammed stem cells. This marked the first time someone with type 1 diabetes has been treated using cells extracted and reprogrammed from their own body.
+Using a novel method, researchers turned the woman’s own cells into versatile stem cells. They then “guided” these stem cells to become insulin-producing cells and injected the cells into her abdominal muscles, a new place for such a transplant. Ultimately, her body started producing its own insulin again.
+The procedure demonstrated a potential cure for diabetes without the need for donor tissues or lifelong drugs. Diabetes treatment has come such a long way in just my lifetime, and this seems like it has the potential to cure the disease altogether.
+(2) [Largest brain map ever reveals fruit fly’s neurons in exquisite detail](https://substack.com/redirect/7743025c-f6fb-43c1-a37d-2c1db0adddc3?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+Sara Reardon for Nature
+Researchers are hoping to do that now that they have a new map — the most complete for any organism so far — of the brain of a single fruit fly (Drosophila melanogaster). The wiring diagram, or ‘connectome’, includes nearly 140,000 neurons and captures more than 54.5 million synapses, which are the connections between nerve cells.
+Fellas,,, you thinking what I’m thinking? No? Good. Because that’s the brain map of a fruit fly. And it’s not just any old brain map — it’s the most complete brain map of any organism ever constructed.
+Researchers have mapped the entire brain of a fruit fly, creating the most complete brain map—or connectome—of any organism to date. The map includes nearly 140,000 neurons and over 54.5 million synapses. It took the team over four years to construct the brain map and during the process, they discovered over 8,000 previously undiscovered types of neurons.
+The map is an unprecedented, detailed resource for how the brain functions. Sure, it’s a fruit fly brain, but this is how this process usually works: the fruit fly is simple, so we map it early, learn a bunch, and then apply those learnings to larger animals, then humans. Scientists have started with fruit flies to study genetics and inheritance, gene mapping and linkage, circadian rhythms, and more. Which is to say, understanding these guys’ little brains could provide new insights on how our big brains work.
+(3) [Advanced Nuclear Commercial Lift Off](https://substack.com/redirect/26d4a417-1c38-4886-be87-0d814747a217?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+From the Department of Energy
+US nuclear capacity has the potential to triple from ~100 GW in 2024 to ~300 GW by 2050. In 2022, utilities were shutting down nuclear reactors; in 2024, they are extending reactor operations to 80 years, planning to uprate capacity, and restarting formerly closed reactors.
+Ohh how the turn tables have…turned. Just two years ago, nuclear reactors were being shut down in the US. Today, we’re entering into decades long contracts, increasing capacity, and even opening up formerly closed reactors.
+The US Department of Energy released a new report that explains how and why U.S. nuclear capacity is going triple over the next 25 years. The key takeaways are:
+Nuclear is essential for decarbonization: To reach net-zero emissions, the U.S. needs 700–900 GW of additional clean firm capacity by 2050; nuclear power is a proven option to deliver this scale of carbon-free, reliable electricity alongside renewables.
+Existing and new nuclear capacity: Extending the operation of current reactors, uprating their capacity, and building new reactors—especially at existing sites—can significantly expand nuclear capacity.
+Overcoming barriers: We need cost-effective new nuclear projects and to learn from past experiences like Vogtle Units 3 and 4. Plus, the industry should take advantage of the incentives in the Inflation Reduction Act to grow.
+For those die hard Age of Miracles listeners in the crowd, you might recognize some of these ideas from Episode 3, when the report’s lead author, Julie Kozeracki, joined Packy and Julia:
+E3: Nuclear Economics Packy McCormick | Turpentine |
+Tripling capacity in 25 years seems like a big feat, but it breaks down to growing at just 4.4% per year. In just two years, the whole perception of nuclear has shifted. If we can pull that off, we' can certainly grow capacity at 4.4% per year.
+(4) [Evidence of ‘Negative Time’ Found in Quantum Physics Experiment](https://substack.com/redirect/0409ce85-1665-41d6-b7da-dc0af12ef5fa?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+Manon Bischoff & Jeanna Bryner for Scientific American
+Now researchers led by Daniela Angulo of the University of Toronto have revealed another oddball quantum outcome: photons,
+[wave-particles of light], can spend a negative amount of time zipping through a cloud of chilled atoms. In other words, photons can seem to exit a material before entering it.
+You might want to hit your weed pen before reading this one.
+Researchers discovered that photons—particles of light—can appear to exit a cloud of chilled atoms before they even enter it, effectively spending a negative amount of time inside. Wooah bro…negative time…
+This phenomenon arises from quantum mechanics, where particles can exist in multiple states at once (you guys have watched Dark Matter, right? You get it) and exhibit both wave and particle characteristics. When photons pass through atoms, they can be absorbed and re-emitted, which usually causes a delay. However, the team's experiments showed that under certain quantum conditions, this delay can become negative, making it seem as if the photons leave before they arrive.
+Not going to pretend that this discovery will have an immediate impact on your life. But, maybe if you’re bored this weekend, you can think about the concept of negative time. And who knows, maybe in 100 years this research will have served as the foundation for time travel or something.
+(5) [Musk sending Starlink terminals to storm-ravaged North Carolina](https://substack.com/redirect/75442c4d-3ac5-4359-a8ff-cf231c6d2857?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+Miranda Nazzaro for The Hill
+There are 40 Starlink satellite systems available in North Carolina to help with responder communications, and an additional 140 satellites are being shipped to assist with communications infrastructure restoration,
+[the White House said earlier this week]. One Starlink will be deployed for every county’s emergency operations center to help with communications.
+Trump is taking credit for getting Elon to send Starlinks to North Carolina (and Elon is happily giving him credit). And, of course, The Biden Administration is also chirping up about their involvement in getting Starlinks live in the disaster zone. But politics aside, it’s pretty amazing how a private company’s sidegig product is now one of the most valuable assets in large scale response efforts, be it the war in Ukraine or Hurricane Helene relief efforts. It turns out that comms are super important and having a reliable network of satellites connected to an affordable, mobile device is extremely valuable.
+Starlink is going to be one of the largest businesses in the world in the next couple of years — it just makes too much sense, operates in too important and large of a market, and has too many competitive advantages not to be. My guesstimate is that it’ll do about ~$4 billion in revenue this year, and growing very quickly.
+Starlink in and of itself is an amazing business — it provides reliable, accessible, and relatively affordable connectivity to people throughout the world, often in places that are hard to reach. If its mission was simply just to be the best and most important satellite internet service provider, it would have loftier goals than 99.9% of companies.
+But Starlink’s ambitions don’t stop there. It is the cash cow behind SpaceX and will, in part, fund SpaceX mission of making civilization multi-planetary. It’s the old “Start a rocket company to make civilization multi-planetary, figure out you’ve built a very lucrative satellite business in the process, and use that satellite business to fund multi-plantetary exploration” playbook.
+Really makes you wonder whether the government’s decision to not work with Starlink on that $42 billion rural internet boondoggle was the right one…
+Bonus: [Peak Obesity](https://substack.com/redirect/2a417c9f-8505-4f38-8b77-e557657155b7?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+From John Burn-Murdoch for The Financial Times
+America may never again be as obese as it is right now. That’s because, according to a new report in FT, the obesity rate in the U.S. fell for the first time in 2023 for what appears to be the first time in a very, very long time. We can largely thank GLP1-s for this trend. Americans have been hitting their heads against the wall with new diets and workout routines for decades and have been steadily getting fatter for decades. There’s a few reasons for that: higher intake of shitty foods, a more sedentary lifestyle, and more urbanization — people eat more unhealthy food, walk less, and live in cities where shitty food is only ever a short walk away. But GLP1-s changed that.
+The food system is still broken, people are still less active, and they still live in cities, but thanks to modern medicine, they’re not forced to make almost impossible to make behavior changes in order to lose weight. Being less obese is now as easy as taking a once-weekly shot.
+In my view, that’s a very, very good thing. A less obese population is, empirically speaking, a healthier, happier, and more productive population.
+Have a great weekend y’all.
+Thanks to [Panasonic Well](https://substack.com/redirect/f7e0c93d-2644-4f59-96ce-b35db9df9c4a?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) for sponsoring! We’ll be back in your inbox on Tuesday.
+Thanks for reading,
+Packy + Dan

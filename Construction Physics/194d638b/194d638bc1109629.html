@@ -1,0 +1,656 @@
+<html style="scrollbar-width: thin;scrollbar-color: #dbdbdbrgb(255,255,255);"><head><meta charset="utf-8"><title>Inside the interconnection queue</title><style>
+@media all and (-ms-high-contrast: none), (-ms-high-contrast: active) {
+  .typography .markup table.image-wrapper img,
+  .typography.editor .markup table.image-wrapper img,
+  .typography .markup table.kindle-wrapper img,
+  .typography.editor .markup table.kindle-wrapper img {
+    max-width: 550px;
+  }
+}
+@media screen and (max-width: 650px) {
+  .typography .markup div.youtube-overlay,
+  .typography.editor .markup div.youtube-overlay,
+  .typography .markup div.vimeo-overlay,
+  .typography.editor .markup div.vimeo-overlay {
+    display: none !important;
+  }
+}
+@media screen and (max-width: 370px) {
+  .typography .markup div.tiktok-wrap,
+  .typography.editor .markup div.tiktok-wrap {
+    width: calc(95vw - 32px);
+    height: calc((95vw - 32px - 2px) / 0.485714);
+  }
+}
+@media screen and (max-width: 650px) {
+  .typography .markup div.embedded-publication-wrap .embedded-publication.show-subscribe,
+  .typography.editor .markup div.embedded-publication-wrap .embedded-publication.show-subscribe {
+    padding: 24px;
+  }
+}
+@media screen and (max-width: 650px) {
+  .typography .markup div.subscription-widget-wrap .subscription-widget.show-subscribe,
+  .typography.editor .markup div.subscription-widget-wrap .subscription-widget.show-subscribe,
+  .typography .markup div.subscription-widget-wrap-editor .subscription-widget.show-subscribe,
+  .typography.editor .markup div.subscription-widget-wrap-editor .subscription-widget.show-subscribe,
+  .typography .markup div.captioned-button-wrap .subscription-widget.show-subscribe,
+  .typography.editor .markup div.captioned-button-wrap .subscription-widget.show-subscribe {
+    padding: 0px 24px;
+  }
+}
+@media screen and (max-width: 650px) {
+  .typography .markup div.subscription-widget-wrap .subscription-widget.show-subscribe .subscription-widget-subscribe .button,
+  .typography.editor .markup div.subscription-widget-wrap .subscription-widget.show-subscribe .subscription-widget-subscribe .button,
+  .typography .markup div.subscription-widget-wrap-editor .subscription-widget.show-subscribe .subscription-widget-subscribe .button,
+  .typography.editor .markup div.subscription-widget-wrap-editor .subscription-widget.show-subscribe .subscription-widget-subscribe .button,
+  .typography .markup div.captioned-button-wrap .subscription-widget.show-subscribe .subscription-widget-subscribe .button,
+  .typography.editor .markup div.captioned-button-wrap .subscription-widget.show-subscribe .subscription-widget-subscribe .button {
+    padding: 10px 12px;
+    min-width: 110px;
+  }
+}
+@media (max-width: 650px) {
+  .typography .markup .tweet,
+  .typography.editor .markup .tweet {
+    padding: 12px;
+  }
+}
+@media (max-width: 650px) {
+  .typography .markup .tweet .tweet-text,
+  .typography.editor .markup .tweet .tweet-text {
+    font-size: 14px;
+    line-height: 20px;
+  }
+}
+@media (max-width: 650px) {
+  .typography .markup .tweet .tweet-photos-container.two,
+  .typography.editor .markup .tweet .tweet-photos-container.two,
+  .typography .markup .tweet .tweet-photos-container.three,
+  .typography.editor .markup .tweet .tweet-photos-container.three,
+  .typography .markup .tweet .tweet-photos-container.four,
+  .typography.editor .markup .tweet .tweet-photos-container.four {
+    height: 200px;
+  }
+}
+@media (max-width: 650px) {
+  .typography .markup .tweet a.expanded-link .expanded-link-img,
+  .typography.editor .markup .tweet a.expanded-link .expanded-link-img {
+    max-height: 180px;
+  }
+}
+@media (max-width: 650px) {
+  .typography .markup .tweet a.expanded-link .expanded-link-description,
+  .typography.editor .markup .tweet a.expanded-link .expanded-link-description {
+    display: none;
+  }
+}
+@media screen and (max-width: 650px) {
+  .typography .markup .apple-podcast-container,
+  .typography.editor .markup .apple-podcast-container {
+    width: unset;
+  }
+}
+@media (max-width: 420px) {
+  .typography .markup .install-substack-app-embed img.install-substack-app-embed-img,
+  .typography.editor .markup .install-substack-app-embed img.install-substack-app-embed-img {
+    margin: 0 auto 16px auto;
+  }
+}
+@media (max-width: 420px) {
+  .typography .markup .install-substack-app-embed .install-substack-app-embed-text,
+  .typography.editor .markup .install-substack-app-embed .install-substack-app-embed-text {
+    margin: 0 0 12px 0;
+    max-width: 100%;
+    width: auto;
+    text-align: center;
+  }
+}
+@media (max-width: 420px) {
+  .typography .markup .install-substack-app-embed .install-substack-app-embed-link,
+  .typography.editor .markup .install-substack-app-embed .install-substack-app-embed-link {
+    display: flex;
+    justify-content: center;
+  }
+}
+@media screen and (min-width: 481px) {
+  .share-button-container {
+    height: 38px;
+  }
+}
+@media screen and (min-width: 481px) {
+  .share-button-container a.comment {
+    height: 38px;
+    line-height: 38px;
+    padding-right: 10px;
+  }
+}
+@media screen and (max-width: 480px) {
+  .share-button-container .separator {
+    display: block;
+    margin: 0;
+    height: 8px;
+    border-left: none;
+  }
+}
+@media screen and (max-width: 480px) {
+  .share-button-container a.share.first img {
+    padding-left: 0;
+  }
+}
+@media screen and (min-width: 481px) {
+  .share-button-container a.mobile {
+    display: none !important;
+  }
+}
+@media screen and (min-width: 541px) {
+  .settings-add-pub-modal-wrapper .container .add-recommending-pub-modal-container {
+    padding: 36px;
+    height: 680px;
+  }
+}
+@media screen and (min-width: 541px) {
+  .settings-add-pub-modal-wrapper .container .add-recommending-pub-modal-container .footer {
+    position: absolute;
+    bottom: 36px;
+    margin: 0px;
+  }
+}
+@media screen and (max-width: 650px) {
+  .header-anchor-parent {
+    display: none;
+  }
+}
+@media screen and (max-width: 768px) {
+  .post {
+    padding: 16px 0 0 0;
+  }
+}
+@media screen and (max-width: 650px) {
+  .post .post-header .post-label {
+    margin-top: 8px;
+  }
+}
+@media screen and (max-width: 650px) {
+  .post .post-header .meta-author-wrap.alternative-meta .meta-right-column .post-meta {
+    margin-top: 6px;
+  }
+}
+@media screen and (max-width: 650px) {
+  .post .footer-facepile-container {
+    height: 64px;
+    padding: 0 16px;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    width: 100%;
+  }
+}
+@media screen and (max-width: 650px) {
+  .post .post-footer.use-separators {
+    justify-content: center;
+  }
+}
+@media screen and (max-width: 650px) {
+  .post .post-footer.next-prev {
+    height: 64px;
+    justify-content: space-between;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 650px) {
+  .post-contributor-footer .post-contributor-bio-table {
+    display: block;
+  }
+  .post-contributor-footer .post-contributor-bio-table-row {
+    display: flex;
+    flex-direction: row;
+  }
+  .post-contributor-footer .post-contributor-bio-userhead-cell,
+  .post-contributor-footer .post-contributor-bio-body-cell {
+    display: block;
+  }
+  .post-contributor-footer .post-contributor-bio-body-cell {
+    flex-grow: 1;
+  }
+  .post-contributor-footer .post-contributor-bio-body-table {
+    display: block;
+  }
+  .post-contributor-footer .post-contributor-bio-body-table-row {
+    display: block;
+  }
+  .post-contributor-footer .post-contributor-bio-copy-cell,
+  .post-contributor-footer .post-contributor-bio-controls-cell {
+    display: block;
+  }
+  .post-contributor-footer .post-contributor-bio-copy-cell {
+    margin: 0 0 16px 0;
+  }
+  .post-contributor-footer .post-contributor-bio-controls-cell {
+    width: auto;
+  }
+  .post-contributor-footer .post-contributor-bio-controls {
+    margin: auto;
+  }
+  .post-contributor-footer .post-contributor-bio-controls .button.primary {
+    width: 100%;
+  }
+  .post-contributor-footer .post-contributor-bio-text {
+    font-size: 14px;
+  }
+}
+@media screen and (min-width: 768px) {
+  .post-silhouette {
+    padding: 32px 0;
+  }
+}
+@media screen and (max-width: 650px) {
+  .post-silhouette .post-silhouette-title {
+    margin-top: 10.44225025px;
+    height: 120px;
+  }
+}
+@media screen and (max-width: 650px) {
+  .post-silhouette .post-silhouette-meta {
+    width: 75%;
+  }
+}
+@media screen and (max-width: 650px) {
+  .post-silhouette .post-silhouette-meta.with-byline-image {
+    margin: 20px 0;
+  }
+}
+@media screen and (max-width: 650px) {
+  .use-theme-bg .post-meta.alternative-meta .post-meta-item,
+  .post-meta.alternative-meta .post-meta-item {
+    padding-right: 16px;
+  }
+}
+@media screen and (max-width: 370px) {
+  .use-theme-bg .post-meta.alternative-meta .post-meta-item,
+  .post-meta.alternative-meta .post-meta-item {
+    font-size: 14px;
+  }
+}
+@media screen and (max-width: 650px) {
+  .use-theme-bg .post-meta.alternative-meta .post-meta-item.guest-author-publication,
+  .post-meta.alternative-meta .post-meta-item.guest-author-publication {
+    display: none;
+  }
+}
+@media screen and (max-width: 370px) {
+  .post-meta .post-meta-item .post-meta-button {
+    height: 36px !important;
+    /* important to override in-line height style on emails */
+  }
+  .post-meta .post-meta-item .post-meta-button .meta-button-label {
+    display: none;
+  }
+  .post-meta .post-meta-item .post-meta-button > svg {
+    margin-right: 0;
+  }
+}
+@media screen and (max-width: 370px) {
+  .post-meta .post-meta-item {
+    font-size: 12px;
+  }
+}
+@media screen and (max-width: 650px) {
+  .post .floating-subscribe-button {
+    bottom: 20px;
+    right: 20px;
+  }
+}
+@media all and (-ms-high-contrast: none), (-ms-high-contrast: active) {
+  body .markup table.image-wrapper img,
+  body .markup table.kindle-wrapper img {
+    max-width: 550px;
+  }
+}
+@media screen and (max-width: 650px) {
+  body .markup div.youtube-overlay,
+  body .markup div.vimeo-overlay {
+    display: none !important;
+  }
+}
+@media screen and (max-width: 370px) {
+  body .markup div.tiktok-wrap {
+    width: calc(95vw - 32px);
+    height: calc((95vw - 32px - 2px) / 0.485714);
+  }
+}
+@media screen and (max-width: 650px) {
+  body .markup div.embedded-publication-wrap .embedded-publication.show-subscribe {
+    padding: 24px;
+  }
+}
+@media screen and (max-width: 650px) {
+  body .markup div.subscription-widget-wrap .subscription-widget.show-subscribe,
+  body .markup div.subscription-widget-wrap-editor .subscription-widget.show-subscribe,
+  body .markup div.captioned-button-wrap .subscription-widget.show-subscribe {
+    padding: 0px 24px;
+  }
+}
+@media screen and (max-width: 650px) {
+  body .markup div.subscription-widget-wrap .subscription-widget.show-subscribe .subscription-widget-subscribe .button,
+  body .markup div.subscription-widget-wrap-editor .subscription-widget.show-subscribe .subscription-widget-subscribe .button,
+  body .markup div.captioned-button-wrap .subscription-widget.show-subscribe .subscription-widget-subscribe .button {
+    padding: 10px 12px;
+    min-width: 110px;
+  }
+}
+@media (max-width: 650px) {
+  body .markup .tweet {
+    padding: 12px;
+  }
+}
+@media (max-width: 650px) {
+  body .markup .tweet .tweet-text {
+    font-size: 14px;
+    line-height: 20px;
+  }
+}
+@media (max-width: 650px) {
+  body .markup .tweet .tweet-photos-container.two,
+  body .markup .tweet .tweet-photos-container.three,
+  body .markup .tweet .tweet-photos-container.four {
+    height: 200px;
+  }
+}
+@media (max-width: 650px) {
+  body .markup .tweet a.expanded-link .expanded-link-img {
+    max-height: 180px;
+  }
+}
+@media (max-width: 650px) {
+  body .markup .tweet a.expanded-link .expanded-link-description {
+    display: none;
+  }
+}
+@media screen and (max-width: 650px) {
+  body .markup .apple-podcast-container {
+    width: unset;
+  }
+}
+@media (max-width: 420px) {
+  body .markup .install-substack-app-embed img.install-substack-app-embed-img {
+    margin: 0 auto 16px auto;
+  }
+}
+@media (max-width: 420px) {
+  body .markup .install-substack-app-embed .install-substack-app-embed-text {
+    margin: 0 0 12px 0;
+    max-width: 100%;
+    width: auto;
+    text-align: center;
+  }
+}
+@media (max-width: 420px) {
+  body .markup .install-substack-app-embed .install-substack-app-embed-link {
+    display: flex;
+    justify-content: center;
+  }
+}
+@media screen and (min-width: 500px) {
+  body .header a.logo {
+    width: 42px;
+    height: 42px;
+    border-radius: 12px;
+  }
+}
+@media screen and (max-width: 420px) {
+  body .subscription-receipt table:first-of-type .subscription-amount .subscription-discount {
+    width: 72px !important;
+  }
+}
+@media screen and (min-width: 481px) {
+  body .share-button-container {
+    height: auto;
+  }
+}
+@media screen and (max-width: 480px) {
+  body .share-button-container .separator {
+    display: block !important;
+    margin: 0 !important;
+    height: 8px !important;
+    border-left: none !important;
+  }
+}
+@media screen and (max-width: 650px) {
+  .digest .item .post-meta-item.audience {
+    display: none;
+  }
+}
+@media screen and (min-width: 500px) {
+  .digest-publication .logo img {
+    width: 42px;
+    height: 42px;
+    border-radius: 8px;
+  }
+}
+@media screen and (max-width: 650px) {
+  .comments-page .container .comment-list .collapsed-reply {
+    margin-left: calc(10 + 32px - 24px);
+  }
+}
+@media screen and (max-width: 650px) {
+  .comment > .comment-list {
+    padding-left: 24px;
+  }
+}
+@media screen and (max-width: 650px) {
+  .finish-magic-login-modal .modal-content .container {
+    padding: 24px 0;
+  }
+}
+@media (max-width: 650px) {
+  .reader2-text-b3 {
+    line-height: 24px;
+  }
+}
+@media screen and (max-width: 650px) {
+  .reader2-text-h4 {
+    line-height: 24px;
+  }
+}
+@media screen and (min-width: 541px) {
+  .user-profile-modal {
+    padding-left: 12px;
+    padding-right: 12px;
+  }
+}
+@media screen and (max-width: 650px) {
+  .subscribe-widget form.form .sideBySideWrap button.rightButton {
+    padding: 10px 12px;
+  }
+}
+@media screen and (min-width: 541px) {
+  .pub-icon:hover .logo-hover,
+  .feed-item-icon:hover .logo-hover {
+    display: block;
+  }
+}
+@media screen and (max-width: 650px) {
+  .post-ufi.single-full-width-button .post-ufi-button-wrapper {
+    width: 100%;
+    padding: 16px;
+  }
+  .post-ufi.single-full-width-button .post-ufi-button-wrapper:empty {
+    display: none;
+  }
+  .post-ufi.single-full-width-button .post-ufi-button {
+    width: 100%;
+    justify-content: center;
+  }
+}
+@media screen and (max-width: 768px) {
+  .file-embed-wrapper {
+    padding: 0;
+  }
+}
+@media screen and (max-width: 768px) {
+  .file-embed-wrapper-editor {
+    padding: 0;
+  }
+}
+@media screen and (max-width: 768px) {
+  .file-embed-wrapper-editor:active {
+    padding: 0;
+  }
+}
+@media only screen and (max-width: 650px) {
+  .file-embed-button.wide,
+  .file-embed-error-button.wide {
+    display: none;
+  }
+}
+@media only screen and (min-width: 630px) {
+  .file-embed-button.narrow,
+  .file-embed-error-button.narrow {
+    display: none;
+  }
+}
+@media screen and (min-width: 541px) {
+  .audio-player-wrapper .audio-player {
+    min-width: 500px;
+  }
+}
+@media screen and (max-width: 650px) {
+  .audio-player-wrapper .audio-player .audio-player-progress {
+    border-left-width: 16px;
+    border-right-width: 16px;
+  }
+}
+@media screen and (max-width: 650px) {
+  .audio-player-wrapper .audio-player .audio-player-progress .audio-player-progress-bar .audio-player-progress-bar-popup {
+    top: -54px;
+  }
+}
+@media screen and (max-width: 650px) {
+  .audio-player-wrapper-fancy .audio-player .audio-player-progress {
+    border-left-width: 16px;
+    border-right-width: 16px;
+  }
+}
+@media screen and (max-width: 650px) {
+  .audio-player-wrapper-fancy .audio-player .audio-player-progress .audio-player-progress-bar .audio-player-progress-bar-popup {
+    top: -54px;
+  }
+}
+@media (min-width: 250px) {
+  .audio-player-wrapper-fancy .audio-player {
+    padding: 32px;
+  }
+  .audio-player-wrapper-fancy .audio-player .btn-group {
+    display: flex;
+  }
+  .audio-player-wrapper-fancy .audio-player .btn-group .button:last-of-type {
+    display: block;
+  }
+}
+@media (min-width: 300px) {
+  .audio-player-wrapper-fancy .audio-player .btn-group {
+    display: block;
+  }
+  .audio-player-wrapper-fancy .audio-player .btn-group .button:first-of-type {
+    display: block;
+  }
+}
+@media (min-width: 350px) {
+  .audio-player-wrapper-fancy .audio-player .audio-player-substack-logo {
+    display: block;
+  }
+  .audio-player-wrapper-fancy .audio-player .audio-player-title {
+    margin-top: 16px;
+  }
+  .audio-player-wrapper-fancy .audio-player .audio-player-hero-image-container {
+    padding-top: 15%;
+    width: 15%;
+    display: block;
+  }
+  .audio-player-wrapper-fancy .audio-player .btn-group .button:first-of-type {
+    display: block;
+  }
+  .audio-player-wrapper-fancy .audio-player .audio-player-substack-logo {
+    display: block;
+  }
+}
+@media (min-width: 350px) {
+  .audio-player-wrapper-fancy .audio-player .audio-player-hero-image-container {
+    padding-top: 25%;
+    width: 25%;
+    display: block;
+  }
+  .audio-player-wrapper-fancy .audio-player .btn-group {
+    display: flex;
+  }
+  .audio-player-wrapper-fancy .audio-player .btn-group .button:first-of-type {
+    display: block;
+  }
+}
+@media (min-width: 400px) {
+  .audio-player-wrapper-fancy .audio-player .audio-player-hero-image-container {
+    padding-top: 40%;
+    width: 40%;
+  }
+}
+@media (max-width: 400px) {
+  .audio-player-wrapper-fancy .audio-player .btn-group {
+    margin-top: 12px;
+  }
+  .audio-player-wrapper-fancy .audio-player .btn-group .button {
+    font-size: 13px;
+    padding: 6px 12px;
+    height: auto;
+    margin-top: 10px;
+  }
+}
+@media (min-width: 600px) {
+  .audio-player-wrapper-fancy .audio-player .audio-player-hero-image-container {
+    padding-top: 55%;
+    width: 55%;
+  }
+}
+@media (max-width: 650px) {
+  .poll-editor-modal {
+    min-width: calc(100% - 20px);
+  }
+}
+@media (max-width: 750px) {
+  .poll-embed .poll-anchor-target .poll-anchor-copy-button {
+    left: 8px;
+    top: 45px;
+  }
+}
+@media screen and (min-width: 541px) {
+  .poll-embed .poll-wrapper.poll-web .poll-dialog .modal-table .modal-row .modal-content > .container {
+    width: 552px;
+    padding: 26px 24px;
+  }
+}
+@media screen and (max-width: 650px) {
+  .poll-embed .poll-wrapper.poll-web .poll-dialog .modal-table .modal-row .modal-content > .container {
+    padding: 40px 0;
+  }
+}
+@media screen and (max-width: 650px) {
+  .poll-embed .poll-wrapper.poll-web .poll-dialog .modal-row .modal-cell .modal-exit-btn {
+    margin-right: -20px;
+  }
+}
+@media not all and (min-resolution: 0.001dpcm) {
+  @supports (-webkit-appearance: none) {
+    p a:not(.primary.button),
+    .post p:not(.button-wrapper) a:not(.primary.button),
+    .footnote a.footnote-anchor:not(.primary.button),
+    .thread-head .markup p:not(.button-wrapper) a:not(.primary.button) {
+      color: #b17ada;
+      text-decoration: none;
+    }
+    p a:not(.primary.button):hover,
+    .post p:not(.button-wrapper) a:not(.primary.button):hover,
+    .footnote a.footnote-anchor:not(.primary.button):hover,
+    .thread-head .markup p:not(.button-wrapper) a:not(.primary.button):hover {
+      text-decoration: underline;
+    }
+  }
+}</style></head><body class="email-body" style="font-kerning: auto;"><img src="https://eotrx.substackcdn.com/open?token=eyJtIjoiPDIwMjUwMjA1MTMwMzM3LjMuNzYzZjg5ODkzYzk2YmVhZUBtZy1kMC5zdWJzdGFjay5jb20-IiwidSI6MTQ1NjMzMTksInIiOiJpc2hhbi5tYWlsQGdtYWlsLmNvbSIsImQiOiJtZy1kMC5zdWJzdGFjay5jb20iLCJwIjoxNTY0ODc4MzEsInQiOiJuZXdzbGV0dGVyIiwiYSI6ImV2ZXJ5b25lIiwicyI6MTA0MDU4LCJjIjoicG9zdCIsImYiOnRydWUsInBvc2l0aW9uIjoidG9wIiwiaWF0IjoxNzM4NzYwODEzLCJleHAiOjE3NDEzNTI4MTMsImlzcyI6InB1Yi0wIiwic3ViIjoiZW8ifQ.yyBULk5DH1vAxAHdwoVaXCTuEqNYZ_jfASA5PvASzQ0" alt="" width="1" height="1" border="0" style="height:1px !important;width:1px !important;border-width:0 !important;margin-top:0 !important;margin-bottom:0 !important;margin-right:0 !important;margin-left:0 !important;padding-top:0 !important;padding-bottom:0 !important;padding-right:0 !important;padding-left:0 !important;"/><div class="preview" style="display:none;font-size:1px;color:#333333;line-height:1px;max-height:0px;max-width:0px;opacity:0;overflow:hidden;">Electric power in the US is provided by the electrical grid, a huge network of power plants, transmission lines, and transformers that moves electric power from where it's generated to where it's consumed.</div><div class="preview" style="display:none;font-size:1px;color:#333333;line-height:1px;max-height:0px;max-width:0px;opacity:0;overflow:hidden;">&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;</div><table class="email-body-container" role="presentation" width="100%" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td></td><td class="content" width="550"></td><td></td></tr><tr><td></td><td class="content" width="550" align="left"><div style="font-size: 16px;line-height: 26px;max-width: 550px;width: 100%;margin: 0 auto;overflow-wrap: break-word;"><table role="presentation" width="100%" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td align="right" style="height:20px;"><table role="presentation" width="auto" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td style="vertical-align:middle;"><span class="pencraft pc-reset reset-IxiVJZ tw-font-body tw-text-ssm tw-text-substack-secondary" style="font-family: SF Pro Text, -apple-system, system-ui, BlinkMacSystemFont, Inter, Segoe UI, Roboto, Helvetica, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol;font-size: 13px;color: unset;list-style: none;text-decoration: unset;margin: 0;"><div class="pencraft pc-reset align-right-VJbKw5 size-12-mmZ61m reset-IxiVJZ" style="list-style: none;color: unset;text-align: right;font-size: 12px;line-height: 16px;text-decoration: unset;margin: 0;"><span class="pencraft pc-reset reset-IxiVJZ" translated="" style="list-style: none;color: unset;text-decoration: unset;margin: 0;">Forwarded this email? <a class="pencraft pc-reset decoration-underline-ClTkYc reset-IxiVJZ" href="https://substack.com/redirect/2/eyJlIjoiaHR0cHM6Ly93d3cuY29uc3RydWN0aW9uLXBoeXNpY3MuY29tL3N1YnNjcmliZT91dG1fc291cmNlPWVtYWlsJnV0bV9jYW1wYWlnbj1lbWFpbC1zdWJzY3JpYmUmcj04bzU0biZuZXh0PWh0dHBzJTNBJTJGJTJGd3d3LmNvbnN0cnVjdGlvbi1waHlzaWNzLmNvbSUyRnAlMkZpbnNpZGUtdGhlLWludGVyY29ubmVjdGlvbi1xdWV1ZSIsInAiOjE1NjQ4NzgzMSwicyI6MTA0MDU4LCJmIjp0cnVlLCJ1IjoxNDU2MzMxOSwiaWF0IjoxNzM4NzYwODEyLCJleHAiOjE3NDEzNTI4MTIsImlzcyI6InB1Yi0wIiwic3ViIjoibGluay1yZWRpcmVjdCJ9.x3c7Y9bAZdgusnY0h5w-3fHS9kPjYhEpZGSkMgMS2R8?" style="list-style: none;color: unset;text-decoration: unset;margin: 0;-webkit-text-decoration-line: underline;text-decoration-line: underline;">Subscribe here</a> for more</span></div></span></td></tr></tbody></table></td></tr></tbody></table><table class="header graphic-header" role="presentation" style="border-spacing: 0;padding: 16px 0 32px;"><tbody><tr><td align="center" style="text-align: center;padding: 0;"><a href="https://substack.com/redirect/2/eyJlIjoiaHR0cHM6Ly93d3cuY29uc3RydWN0aW9uLXBoeXNpY3MuY29tL3AvaW5zaWRlLXRoZS1pbnRlcmNvbm5lY3Rpb24tcXVldWU_dXRtX2NhbXBhaWduPWVtYWlsLWhhbGYtcG9zdCZyPThvNTRuJnRva2VuPWV5SjFjMlZ5WDJsa0lqb3hORFUyTXpNeE9Td2ljRzl6ZEY5cFpDSTZNVFUyTkRnM09ETXhMQ0pwWVhRaU9qRTNNemczTmpBNE1USXNJbVY0Y0NJNk1UYzBNVE0xTWpneE1pd2lhWE56SWpvaWNIVmlMVEV3TkRBMU9DSXNJbk4xWWlJNkluQnZjM1F0Y21WaFkzUnBiMjRpZlEubkVNd3JCVWNwX3VmbnhkR0txS0FKV2kzRzJiem42WmpjWWpHR2hpV3ltWSIsInAiOjE1NjQ4NzgzMSwicyI6MTA0MDU4LCJmIjp0cnVlLCJ1IjoxNDU2MzMxOSwiaWF0IjoxNzM4NzYwODEyLCJleHAiOjE3NDEzNTI4MTIsImlzcyI6InB1Yi0wIiwic3ViIjoibGluay1yZWRpcmVjdCJ9.io-NMGJdCFnSexSRkc0HjF21i7dUwPUrsc-FAt8Q6l0?"><img class="header-image" role="presentation" width="550" height="216" src="https://substackcdn.com/image/fetch/w_1100,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd61ee5dd-c3f9-4c1a-898c-5c3b1694d75e_2292x896.png" style="border: none !important;vertical-align: middle;max-width: 550px;display: block;margin: 0 auto;height: auto;width: 100%;"></a></td></tr></tbody></table><div class="post typography" dir="auto" style="padding: 32px 0 0 0;font-size: 16px;line-height: 26px;"><div class="post-header" style="font-size: 16px;line-height: 26px;"><h1 class="post-title published" style="color: rgb(54,55,55);font-family: 'SF Pro Display', -apple-system, system-ui, BlinkMacSystemFont, 'Inter', 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';font-weight: 700;-webkit-font-smoothing: antialiased;-moz-osx-font-smoothing: antialiased;-webkit-appearance: optimizelegibility;-moz-appearance: optimizelegibility;appearance: optimizelegibility;margin: 0;line-height: 36px;font-size: 32px;"><a href="https://substack.com/app-link/post?publication_id=104058&post_id=156487831&utm_source=post-email-title&utm_campaign=email-post-title&isFreemail=true&r=8o54n&token=eyJ1c2VyX2lkIjoxNDU2MzMxOSwicG9zdF9pZCI6MTU2NDg3ODMxLCJpYXQiOjE3Mzg3NjA4MTIsImV4cCI6MTc0MTM1MjgxMiwiaXNzIjoicHViLTEwNDA1OCIsInN1YiI6InBvc3QtcmVhY3Rpb24ifQ.nEMwrBUcp_ufnxdGKqKAJWi3G2bzn6ZjcYjGGhiWymY" style="color: rgb(54,55,55);text-decoration: none;">Inside the interconnection queue</a></h1><table class="post-meta" role="presentation" width="100%" border="0" cellspacing="0" cellpadding="0" style="margin: 1em 0;height: 20px;align-items: center;"><tbody><tr><td><table role="presentation" width="auto" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td><table role="presentation" width="auto" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td style="vertical-align:middle;"><div class="pencraft pc-reset color-primary-zABazT line-height-20-t4M0El font-meta-MWBumP size-11-NuY2Zx weight-medium-fw81nC transform-uppercase-yKDgcq reset-IxiVJZ meta-EgzBVA custom-css-email-post-author" style="list-style: none;font-size: 11px;line-height: 20px;text-decoration: unset;color: rgb(54,55,55);margin: 0;font-family: 'SF Compact',-apple-system,system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';font-weight: 500;text-transform: uppercase;letter-spacing: .2px;"><a class="pencraft pc-reset color-primary-zABazT line-height-20-t4M0El font-meta-MWBumP size-11-NuY2Zx weight-medium-fw81nC transform-uppercase-yKDgcq reset-IxiVJZ meta-EgzBVA" style="list-style: none;color: rgb(54,55,55);margin: 0;font-size: 11px;line-height: 20px;font-family: 'SF Compact',-apple-system,system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';font-weight: 500;text-transform: uppercase;letter-spacing: .2px;text-decoration: none" href="https://substack.com/@brianpotter">Brian Potter</a></div></td></tr></tbody></table></td></tr><tr><td><table role="presentation" width="auto" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td style="vertical-align:middle;"><div class="pencraft pc-reset color-secondary-ls1g8s line-height-20-t4M0El font-meta-MWBumP size-11-NuY2Zx weight-medium-fw81nC transform-uppercase-yKDgcq reset-IxiVJZ meta-EgzBVA" style="list-style: none;font-size: 11px;line-height: 20px;text-decoration: unset;color: rgb(119,119,119);margin: 0;font-family: 'SF Compact',-apple-system,system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';font-weight: 500;text-transform: uppercase;letter-spacing: .2px;"><time datetime="2025-02-05T13:04:15.468Z">Feb 5</time></div></td></tr></tbody></table></td></tr></tbody></table></td></tr></tbody></table><table class="email-ufi-2-top" role="presentation" width="100%" border="0" cellspacing="0" cellpadding="0" style="border-top: 1px solid rgb(0,0,0,.1);border-bottom: 1px solid rgb(0,0,0,.1);min-width: 100%;"><tbody><tr height="16"><td height="16" style="font-size:0px;line-height:0;">&nbsp;</td></tr><tr><td><table role="presentation" width="100%" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td><table role="presentation" width="auto" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td style="vertical-align:middle;"><table role="presentation" width="38" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td align="center"><a class="email-icon-button" href="https://substack.com/app-link/post?publication_id=104058&post_id=156487831&utm_source=substack&isFreemail=true&submitLike=true&token=eyJ1c2VyX2lkIjoxNDU2MzMxOSwicG9zdF9pZCI6MTU2NDg3ODMxLCJyZWFjdGlvbiI6IuKdpCIsImlhdCI6MTczODc2MDgxMiwiZXhwIjoxNzQxMzUyODEyLCJpc3MiOiJwdWItMTA0MDU4Iiwic3ViIjoicmVhY3Rpb24ifQ.mP5-Lc-aDLKAEwckIp_yIhg-EBQRqDdEThQRp87kW9A&utm_medium=email&utm_campaign=email-reaction&r=8o54n" style="font-family: system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';display: inline-block;font-weight: 500;border: 1px solid rgb(0,0,0,.1);border-radius: 9999px;text-transform: uppercase;font-size: 12px;line-height: 1;padding: 9px 0;text-decoration: none;color: rgb(119,119,119);min-width: 38px;box-sizing: border-box;width: 38px"><img class="icon" src="https://substackcdn.com/image/fetch/w_36,c_scale,f_png,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack.com%2Ficon%2FLucideHeart%3Fv%3D4%26height%3D36%26fill%3Dnone%26stroke%3D%2523808080%26strokeWidth%3D2" width="18" height="18" style="border: none;vertical-align: middle;max-width: 18px" alt=""></a></td></tr></tbody></table></td><td width="8" style="min-width: 8px"></td><td style="vertical-align:middle;"><table role="presentation" width="38" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td align="center"><a class="email-icon-button" href="https://substack.com/app-link/post?publication_id=104058&post_id=156487831&utm_source=substack&utm_medium=email&isFreemail=true&comments=true&token=eyJ1c2VyX2lkIjoxNDU2MzMxOSwicG9zdF9pZCI6MTU2NDg3ODMxLCJpYXQiOjE3Mzg3NjA4MTIsImV4cCI6MTc0MTM1MjgxMiwiaXNzIjoicHViLTEwNDA1OCIsInN1YiI6InBvc3QtcmVhY3Rpb24ifQ.nEMwrBUcp_ufnxdGKqKAJWi3G2bzn6ZjcYjGGhiWymY&r=8o54n&utm_campaign=email-half-magic-comments&action=post-comment&utm_source=substack&utm_medium=email" style="font-family: system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';display: inline-block;font-weight: 500;border: 1px solid rgb(0,0,0,.1);border-radius: 9999px;text-transform: uppercase;font-size: 12px;line-height: 1;padding: 9px 0;text-decoration: none;color: rgb(119,119,119);min-width: 38px;box-sizing: border-box;width: 38px"><img class="icon" src="https://substackcdn.com/image/fetch/w_36,c_scale,f_png,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack.com%2Ficon%2FLucideComments%3Fv%3D4%26height%3D36%26fill%3Dnone%26stroke%3D%2523808080%26strokeWidth%3D2" width="18" height="18" style="border: none;vertical-align: middle;max-width: 18px" alt=""></a></td></tr></tbody></table></td><td width="8" style="min-width: 8px"></td><td style="vertical-align:middle;"><table role="presentation" width="38" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td align="center"><a class="email-icon-button" href="https://substack.com/app-link/post?publication_id=104058&post_id=156487831&utm_source=substack&utm_medium=email&utm_content=share&utm_campaign=email-share&action=share&triggerShare=true&isFreemail=true&r=8o54n&token=eyJ1c2VyX2lkIjoxNDU2MzMxOSwicG9zdF9pZCI6MTU2NDg3ODMxLCJpYXQiOjE3Mzg3NjA4MTIsImV4cCI6MTc0MTM1MjgxMiwiaXNzIjoicHViLTEwNDA1OCIsInN1YiI6InBvc3QtcmVhY3Rpb24ifQ.nEMwrBUcp_ufnxdGKqKAJWi3G2bzn6ZjcYjGGhiWymY" style="font-family: system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';display: inline-block;font-weight: 500;border: 1px solid rgb(0,0,0,.1);border-radius: 9999px;text-transform: uppercase;font-size: 12px;line-height: 1;padding: 9px 0;text-decoration: none;color: rgb(119,119,119);min-width: 38px;box-sizing: border-box;width: 38px"><img class="icon" src="https://substackcdn.com/image/fetch/w_36,c_scale,f_png,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack.com%2Ficon%2FLucideShare2%3Fv%3D4%26height%3D36%26fill%3Dnone%26stroke%3D%2523808080%26strokeWidth%3D2" width="18" height="18" style="border: none;vertical-align: middle;max-width: 18px" alt=""></a></td></tr></tbody></table></td><td width="8" style="min-width: 8px"></td><td style="vertical-align:middle;"><table role="presentation" width="38" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td align="center"><a class="email-icon-button" href="https://substack.com/redirect/2/eyJlIjoiaHR0cHM6Ly9vcGVuLnN1YnN0YWNrLmNvbS9wdWIvY29uc3RydWN0aW9ucGh5c2ljcy9wL2luc2lkZS10aGUtaW50ZXJjb25uZWN0aW9uLXF1ZXVlP3V0bV9zb3VyY2U9c3Vic3RhY2smdXRtX21lZGl1bT1lbWFpbCZ1dG1fY2FtcGFpZ249ZW1haWwtcmVzdGFjay1jb21tZW50JmFjdGlvbj1yZXN0YWNrLWNvbW1lbnQmcj04bzU0biZ0b2tlbj1leUoxYzJWeVgybGtJam94TkRVMk16TXhPU3dpY0c5emRGOXBaQ0k2TVRVMk5EZzNPRE14TENKcFlYUWlPakUzTXpnM05qQTRNVElzSW1WNGNDSTZNVGMwTVRNMU1qZ3hNaXdpYVhOeklqb2ljSFZpTFRFd05EQTFPQ0lzSW5OMVlpSTZJbkJ2YzNRdGNtVmhZM1JwYjI0aWZRLm5FTXdyQlVjcF91Zm54ZEdLcUtBSldpM0cyYnpuNlpqY1lqR0doaVd5bVkiLCJwIjoxNTY0ODc4MzEsInMiOjEwNDA1OCwiZiI6dHJ1ZSwidSI6MTQ1NjMzMTksImlhdCI6MTczODc2MDgxMiwiZXhwIjoxNzQxMzUyODEyLCJpc3MiOiJwdWItMCIsInN1YiI6ImxpbmstcmVkaXJlY3QifQ.rvPpK3qmclpmv_xOhwdwipZuIQjOKegRZ545GgelnD8?&utm_source=substack&utm_medium=email" style="font-family: system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';display: inline-block;font-weight: 500;border: 1px solid rgb(0,0,0,.1);border-radius: 9999px;text-transform: uppercase;font-size: 12px;line-height: 1;padding: 9px 0;text-decoration: none;color: rgb(119,119,119);min-width: 38px;box-sizing: border-box;width: 38px"><img class="icon" src="https://substackcdn.com/image/fetch/w_36,c_scale,f_png,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack.com%2Ficon%2FNoteForwardIcon%3Fv%3D4%26height%3D36%26fill%3Dnone%26stroke%3D%2523808080%26strokeWidth%3D2" width="18" height="18" style="border: none;vertical-align: middle;max-width: 18px" alt=""></a></td></tr></tbody></table></td></tr></tbody></table></td><td align="right"><table role="presentation" width="auto" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td style="vertical-align:middle;"><table role="presentation" width="auto" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td align="center"><a class="email-button-outline" href="https://open.substack.com/pub/constructionphysics/p/inside-the-interconnection-queue?utm_source=email&redirect=app-store&utm_campaign=email-read-in-app" style="font-family: system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';display: inline-block;font-weight: 500;border: 1px solid rgb(0,0,0,.1);border-radius: 9999px;text-transform: uppercase;font-size: 12px;line-height: 12px;padding: 9px 14px;text-decoration: none;color: rgb(119,119,119);"><div class="email-button-spacer" style="font-size: 16px;line-height: 26px;display: inline-block;vertical-align: middle;max-width: 0;min-height: 18px;"></div><span class="email-button-text" style="vertical-align: middle;margin-right: 4px">READ IN APP</span><img class="icon text-icon" src="https://substackcdn.com/image/fetch/w_36,c_scale,f_png,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack.com%2Ficon%2FLucideArrowUpRight%3Fv%3D4%26height%3D36%26fill%3Dnone%26stroke%3D%2523808080%26strokeWidth%3D2" width="18" height="18" style="min-width: 18px;min-height: 18px;border: none;vertical-align: middle;margin-right: 0;margin-left: 0;max-width: 18px" alt=""></a></td></tr></tbody></table></td></tr></tbody></table></td></tr></tbody></table></td></tr><tr height="16"><td height="16" style="font-size:0px;line-height:0;">&nbsp;</td></tr></tbody></table></div></div><div class="post typography" dir="auto" style="padding: 32px 0 0 0;font-size: 16px;line-height: 26px;"><div class="body markup" dir="auto" style="text-align: initial;font-size: 16px;line-height: 26px;width: 100%;word-break: break-word;margin-bottom: 16px;font-family: Spectral,sans-serif;font-weight: 400;"><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;margin-top: 0;"><span>Electric power in the US is provided by the electrical grid, a huge network of power plants, transmission lines, and transformers that moves electric power from where it's generated to where it's consumed. Before connecting a new power plant (or a very large consumer of electric power, like a semiconductor fab) to the grid, operators must evaluate whether the existing system has enough capacity to handle the change and determine what upgrades might help handle the increased load &#8212; new transmission lines, transformers, switchgears, etc. While these studies are being completed, a project must wait in the interconnection queue, a list of all projects waiting to be evaluated. Once the studies are complete, the plant exits the queue and begins construction. The interconnection queue is thus a huge list of essentially every electricity generation plant the (continental) US plans on building in the near future.</span><span class="footnote-anchor-email" data-component-name="FootnoteAnchorToDOMStatic" style="font-size: 20px;">&#185;</span></p><div class="captioned-image-container-static" style="font-size: 16px;line-height: 26px;margin: 32px auto;"><figure style="width: 100%;margin: 0 auto;"><table class="image-wrapper" data-component-name="Image2ToDOMStatic" width="100%" border="0" cellspacing="0" cellpadding="0" style="mso-padding-alt: 1em 0 1.6em;"><tbody><tr><td style="text-align: center;"></td><td class="content" align="left" width="677" style="text-align: center;"><a class="image-link" rel="" target="_blank" href="https://substack.com/redirect/cdf38507-3026-48bf-a771-3ee42cdd0a3e?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" style="position: relative;flex-direction: column;align-items: center;padding: 0;width: auto;height: auto;border: none;text-decoration: none;display: block;margin: 0;"><img class="wide-image" data-attrs="{&quot;src&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/7a47af50-ccaa-4451-8457-38292a5a8a27_677x510.png&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:null,&quot;height&quot;:510,&quot;width&quot;:677,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:null,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:null,&quot;href&quot;:null,&quot;belowTheFold&quot;:false,&quot;topImage&quot;:true,&quot;internalRedirect&quot;:null,&quot;isProcessing&quot;:false}" alt="" width="550" height="414.32791728212703" src="https://substackcdn.com/image/fetch/w_1100,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7a47af50-ccaa-4451-8457-38292a5a8a27_677x510.png" style="border: none !important;vertical-align: middle;display: block;-ms-interpolation-mode: bicubic;height: auto;margin-bottom: 0;width: auto !important;max-width: 100% !important;margin: 0 auto;"></a></td><td style="text-align: center;"></td></tr></tbody></table><figcaption class="image-caption" style="box-sizing: content-box;color: #777777;font-size: 14px;line-height: 20px;font-weight: 400;letter-spacing: -.15px;margin-top: 8px;width: 70%;padding-left: 15%;padding-right: 15%;text-align: center;">Interconnection process, via Lawrence Berkeley Lab.</figcaption></figure></div><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;"><span>As of this writing, there are over 11,000 projects in the interconnection queue, with a combined generation and storage capacity of around 1,900 gigawatts. This is close to twice as much generation capacity as currently exists in the US (which was </span><a href="https://substack.com/redirect/91ea5a35-70c1-4fe4-b541-93aaa22cea44?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel="" style="color: #b17ada;text-decoration: none;">1,189 gigawatts</a><span> at the end of 2023). Because the queue and wait time have gotten so long, the interconnection queue is a </span><a href="https://substack.com/redirect/a373e6f9-7b5d-4efe-8f59-3cb2cce5e4b5?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel="" style="color: #b17ada;text-decoration: none;">major bottleneck</a><span> in getting new electrical infrastructure built, and there have been efforts to </span><a href="https://substack.com/redirect/23914e4d-6f74-49e0-9f25-d09575dc36ae?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel="" style="color: #b17ada;text-decoration: none;">streamline and improve</a><span> the interconnection process.</span></p><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;"><span>As a list of all planned electricity generation projects, the interconnection queue can provide a granular look at how our energy infrastructure is evolving over time, showing the kinds of projects being planned and where they&#8217;re being built. I wanted to look more deeply at the interconnection queue data, and I was able to do this thanks to the help of the folks at </span><strong><a href="https://substack.com/redirect/76a57ee7-e310-4064-859f-e8df8b5ab3aa?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel="" style="color: #b17ada;text-decoration: none;">Interconnection.fyi</a></strong><span>, which tracks projects added to the interconnection queue on an ongoing basis, going all the way back to 1996(!).</span></p><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;"><span>Data from </span><a href="https://substack.com/redirect/76a57ee7-e310-4064-859f-e8df8b5ab3aa?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel="" style="color: #b17ada;text-decoration: none;">Interconnection.fyi</a><span> shows exactly where and what type of projects have been planned and built since 1996. We can see that planned electrical infrastructure is overwhelmingly solar, wind, and batteries &#8212; these three project categories make up roughly 90% of planned generation and storage capacity and represent hundreds of billions of dollars of investment.</span></p><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;">This wasn&#8217;t particularly surprising to me. What was surprising to me was how widespread this development is: Nearly half the counties in the continental US are planning some type of solar project, and solar makes up 40% or more of planned generation capacity in 36 US states.</p><h4 class="header-anchor-post" style="position: relative;--highlight-bg: rgba(var(--color-bg-accent-themed-rgb), 0.2);font-family: 'SF Pro Display',-apple-system-headline,system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';font-weight: bold;-webkit-font-smoothing: antialiased;-moz-osx-font-smoothing: antialiased;-webkit-appearance: optimizelegibility;-moz-appearance: optimizelegibility;appearance: optimizelegibility;margin: 1em 0 0.625em 0;color: rgb(54,55,55);line-height: 1.16em;font-size: 1.125em;">Interconnection queue</h4><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;"><span>Let&#8217;s start by looking at the current state of the interconnection queue. Right now there are around 11,300 projects in the interconnection queue. 10,590 of these (more than 93%) are power generation projects, with a total generation capacity of roughly 1,900 gigawatts. Load projects (consumers of very large amounts of electric power) and transmission projects make up most of the balance.</span><span class="footnote-anchor-email" data-component-name="FootnoteAnchorToDOMStatic" style="font-size: 20px;">&#178;</span></p><div class="datawrapper-wrap static" data-component-name="DatawrapperToDOMStatic" style="font-size: 16px;line-height: 26px;align-items: center;justify-content: center;display: block;"><div class="datawrapper-title" style="line-height: 26px;font-family: system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';font-size: 16px;font-weight: bold;padding: 0 12px;">Interconnection queue</div><div class="datawrapper-description" style="line-height: 26px;font-family: system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';font-size: 14px;padding: 0 12px;">Active projects in the interconnection queue.</div><div style="font-size: 16px;line-height: 26px;"><a href="https://substack.com/redirect/f7ba4629-4073-4457-a662-1ce588bc3885?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" target="_blank" rel=""><img class="datawrapper-wrap thumbnail" style="border: none;vertical-align: middle;display: block;-ms-interpolation-mode: bicubic;max-width: 100%;height: auto;margin: 0 auto;background-image: url(https://substack-post-media.s3.amazonaws.com/public/images/aca930d9-be55-484f-b38c-8a908e478e6d_1260x660.png)" src="https://substackcdn.com/image/fetch/w_640,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Faca930d9-be55-484f-b38c-8a908e478e6d_1260x660.png"></a></div></div><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;">These projects are spread all across the US, but most projects &#8212; and most planned new generation capacity &#8212; are being planned in a small number of states. Texas, California, New York, Arizona, Illinois (?), Oregon (??), and Indiana (???) together are responsible for more than 50% of proposed new generation capacity.</p><div class="datawrapper-wrap static" data-component-name="DatawrapperToDOMStatic" style="font-size: 16px;line-height: 26px;align-items: center;justify-content: center;display: block;"><div class="datawrapper-title" style="line-height: 26px;font-family: system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';font-size: 16px;font-weight: bold;padding: 0 12px;">Interconnection queue capacity by state</div><div class="datawrapper-description" style="line-height: 26px;font-family: system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';font-size: 14px;padding: 0 12px;">Planned generation capacity in megawatts.</div><div style="font-size: 16px;line-height: 26px;"><a href="https://substack.com/redirect/fa1fc13c-866d-4f93-ab33-98e2ffc5d198?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" target="_blank" rel=""><img class="datawrapper-wrap thumbnail" style="border: none;vertical-align: middle;display: block;-ms-interpolation-mode: bicubic;max-width: 100%;height: auto;margin: 0 auto;background-image: url(https://substack-post-media.s3.amazonaws.com/public/images/8d75c25a-3eab-4839-81e9-69e1fc4b3c0e_1260x660.png)" src="https://substackcdn.com/image/fetch/w_640,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8d75c25a-3eab-4839-81e9-69e1fc4b3c0e_1260x660.png"></a></div></div><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;">There are a few surprises here. I was surprised to see so much planned generation in Oregon and the Midwest, and so little in high-growth Southeastern states: A single county in Oregon (Crooks County) has more generation capacity planned than more than half of US states. Indiana has a population of just under 7 million, but it has more generation capacity planned than Florida, Georgia, and North Carolina, which have a combined population of around 45 million.</p><div class="datawrapper-wrap static" data-component-name="DatawrapperToDOMStatic" style="font-size: 16px;line-height: 26px;align-items: center;justify-content: center;display: block;"><div class="datawrapper-title" style="line-height: 26px;font-family: system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';font-size: 16px;font-weight: bold;padding: 0 12px;">Interconnection queue capacity by county</div><div class="datawrapper-description" style="line-height: 26px;font-family: system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';font-size: 14px;padding: 0 12px;">Megawatts of proposed capacity.</div><div style="font-size: 16px;line-height: 26px;"><a href="https://substack.com/redirect/91173116-5e05-4d3d-827e-b21664becdf9?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" target="_blank" rel=""><img class="datawrapper-wrap thumbnail" style="border: none;vertical-align: middle;display: block;-ms-interpolation-mode: bicubic;max-width: 100%;height: auto;margin: 0 auto;background-image: url(https://substack-post-media.s3.amazonaws.com/public/images/82f55963-4f7b-48f6-bf31-1c2c68bacfb6_1260x660.png)" src="https://substackcdn.com/image/fetch/w_640,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F82f55963-4f7b-48f6-bf31-1c2c68bacfb6_1260x660.png"></a></div></div><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;"><span>There&#8217;s a similar concentration of proposed capacity by county, but it doesn&#8217;t change the overall picture much. Of the </span><a href="https://substack.com/redirect/09bfb2ec-a37c-4d01-a598-3df810db5b9e?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel="" style="color: #b17ada;text-decoration: none;">3,143 counties in the US</a><span>, more than half have an electrical generation project of at least 50 megawatts planned, but just 200 counties are responsible for 50% of planned generation capacity.</span></p><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;">Most of these projects have been added to the queue recently. Here&#8217;s the queue broken down by how long the projects have been waiting in it:</p><div class="datawrapper-wrap static" data-component-name="DatawrapperToDOMStatic" style="font-size: 16px;line-height: 26px;align-items: center;justify-content: center;display: block;"><div class="datawrapper-title" style="line-height: 26px;font-family: system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';font-size: 16px;font-weight: bold;padding: 0 12px;">Time spent in interconnection queue</div><div class="datawrapper-description" style="line-height: 26px;font-family: system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';font-size: 14px;padding: 0 12px;">Number of projects by how many years they've spent in the interconnection queue.</div><div style="font-size: 16px;line-height: 26px;"><a href="https://substack.com/redirect/3f688b20-eeda-4499-9d9c-5c9548932ab3?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" target="_blank" rel=""><img class="datawrapper-wrap thumbnail" style="border: none;vertical-align: middle;display: block;-ms-interpolation-mode: bicubic;max-width: 100%;height: auto;margin: 0 auto;background-image: url(https://substack-post-media.s3.amazonaws.com/public/images/717cf750-6b1d-459c-a573-835d0b33cb56_1260x660.png)" src="https://substackcdn.com/image/fetch/w_640,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F717cf750-6b1d-459c-a573-835d0b33cb56_1260x660.png"></a></div></div><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;">Of the ~11,300 projects in the interconnection queue, 6,500 of them were added in the last 3 years. Over the last several years there&#8217;s been a huge jump in projects added to the interconnection queue. Between 2007 and 2015, roughly 1,000 projects a year were added to the queue, but between 2021 and 2023 that number exceeded 3,000.</p><div class="datawrapper-wrap static" data-component-name="DatawrapperToDOMStatic" style="font-size: 16px;line-height: 26px;align-items: center;justify-content: center;display: block;"><div class="datawrapper-title" style="line-height: 26px;font-family: system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';font-size: 16px;font-weight: bold;padding: 0 12px;">Projects added to the interconnection queue</div><div class="datawrapper-description" style="line-height: 26px;font-family: system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';font-size: 14px;padding: 0 12px;">Projects added by year.</div><div style="font-size: 16px;line-height: 26px;"><a href="https://substack.com/redirect/db6dca1a-4f08-48fb-8ba4-e6a40f0381e0?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" target="_blank" rel=""><img class="datawrapper-wrap thumbnail" style="border: none;vertical-align: middle;display: block;-ms-interpolation-mode: bicubic;max-width: 100%;height: auto;margin: 0 auto;background-image: url(https://substack-post-media.s3.amazonaws.com/public/images/c8c74afd-01e1-4013-9782-90a944460561_1260x660.png)" src="https://substackcdn.com/image/fetch/w_640,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc8c74afd-01e1-4013-9782-90a944460561_1260x660.png"></a></div></div><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;">Unsurprisingly, as the queue has gotten longer, wait times have increased. Prior to 2010, projects spent less than 3 years in the queue on average. Current wait times are longer than 5 years. A project currently in the interconnection queue has been there for 4.8 years on average. (However, it&#8217;s not clear if the increase in queue times is due to delays in the interconnection process, or because projects are taking longer to get approved for other reasons.)</p><div class="datawrapper-wrap static" data-component-name="DatawrapperToDOMStatic" style="font-size: 16px;line-height: 26px;align-items: center;justify-content: center;display: block;"><div class="datawrapper-title" style="line-height: 26px;font-family: system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';font-size: 16px;font-weight: bold;padding: 0 12px;">Time spent in interconnection queue</div><div class="datawrapper-description" style="line-height: 26px;font-family: system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';font-size: 14px;padding: 0 12px;">Years spent in queue, by year of project completion.</div><div style="font-size: 16px;line-height: 26px;"><a href="https://substack.com/redirect/60a6bbea-049e-4861-b29b-9536aa85232c?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" target="_blank" rel=""><img class="datawrapper-wrap thumbnail" style="border: none;vertical-align: middle;display: block;-ms-interpolation-mode: bicubic;max-width: 100%;height: auto;margin: 0 auto;background-image: url(https://substack-post-media.s3.amazonaws.com/public/images/0212fbda-de0a-418a-93d8-36404b5fd233_1260x660.png)" src="https://substackcdn.com/image/fetch/w_640,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0212fbda-de0a-418a-93d8-36404b5fd233_1260x660.png"></a></div></div><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;"><span>We can observe this same trend at work if we look at regional trends. Here are the average queue wait times broken down by </span><a href="https://substack.com/redirect/4aa0d26a-149b-499f-93a1-19b79e29dd2c?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel="" style="color: #b17ada;text-decoration: none;">electricity market:</a></p><div class="datawrapper-wrap static" data-component-name="DatawrapperToDOMStatic" style="font-size: 16px;line-height: 26px;align-items: center;justify-content: center;display: block;"><div class="datawrapper-title" style="line-height: 26px;font-family: system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';font-size: 16px;font-weight: bold;padding: 0 12px;">Average time in interconnection queue</div><div class="datawrapper-description" style="line-height: 26px;font-family: system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';font-size: 14px;padding: 0 12px;">By year of project completion.</div><div style="font-size: 16px;line-height: 26px;"><a href="https://substack.com/redirect/23ec3a46-25e1-4037-a3ac-375587d4f670?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" target="_blank" rel=""><img class="datawrapper-wrap thumbnail" style="border: none;vertical-align: middle;display: block;-ms-interpolation-mode: bicubic;max-width: 100%;height: auto;margin: 0 auto;background-image: url(https://substack-post-media.s3.amazonaws.com/public/images/8b2ece1b-f2ea-4c6f-b079-88f37f5602fb_1260x660.png)" src="https://substackcdn.com/image/fetch/w_640,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8b2ece1b-f2ea-4c6f-b079-88f37f5602fb_1260x660.png"></a></div></div><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;"><span>California&#8217;s </span><a href="https://substack.com/redirect/05b16697-039a-41b1-ae1f-1610cb6d5e89?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel="" style="color: #b17ada;text-decoration: none;">CAISO</a><span> is performing the worst, though the Midwest&#8217;s </span><a href="https://substack.com/redirect/611e8958-5222-4aa1-996f-fb368e10a645?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel="" style="color: #b17ada;text-decoration: none;">SPP</a><span> is right up there with it, and average wait times in virtually every region have gotten worse over time (on a 5-year moving average, only </span><a href="https://substack.com/redirect/1501f43e-8324-431c-83b5-4447b1ab1116?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel="" style="color: #b17ada;text-decoration: none;">ISO New England</a><span> wait times haven&#8217;t increased). Unfortunately, this doesn&#8217;t include trends for projects in Texas&#8217;s </span><a href="https://substack.com/redirect/6716e226-f7c1-4cc2-b266-fb50096fb86d?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel="" style="color: #b17ada;text-decoration: none;">ERCOT</a><span> or New York&#8217;s </span><a href="https://substack.com/redirect/b321789b-f916-4c83-96dd-eba815ecfc43?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel="" style="color: #b17ada;text-decoration: none;">NYISO</a><span> market regions. (NYISO completed projects don&#8217;t include completion dates, and ERCOT completed projects don&#8217;t include the date they were added to the queue.)</span></p><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;">Most folks are surprised to hear that we have more generation capacity planned to be built than currently exists, but most of these projects won&#8217;t ever be built. Between 1999 and 2018, 72% of the projects added to the queue were later withdrawn, a fraction that has stayed roughly constant over time (though with a lot of year-to-year variation). More recent years (post-2018) have lower withdrawal rates, though this is almost certainly because more recently added projects haven&#8217;t been around as long and just haven&#8217;t been cancelled yet.</p><div class="datawrapper-wrap static" data-component-name="DatawrapperToDOMStatic" style="font-size: 16px;line-height: 26px;align-items: center;justify-content: center;display: block;"><div class="datawrapper-title" style="line-height: 26px;font-family: system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';font-size: 16px;font-weight: bold;padding: 0 12px;">Percent of projects withdrawn from the interconnection queue</div><div class="datawrapper-description" style="line-height: 26px;font-family: system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';font-size: 14px;padding: 0 12px;">By year project added to the queue.</div><div style="font-size: 16px;line-height: 26px;"><a href="https://substack.com/redirect/07ce1fe3-9f44-40fe-806d-db199d6a71a6?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" target="_blank" rel=""><img class="datawrapper-wrap thumbnail" style="border: none;vertical-align: middle;display: block;-ms-interpolation-mode: bicubic;max-width: 100%;height: auto;margin: 0 auto;background-image: url(https://substack-post-media.s3.amazonaws.com/public/images/c8f692b0-e7f9-4879-81e6-b3dbb92f06d5_1260x660.png)" src="https://substackcdn.com/image/fetch/w_640,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc8f692b0-e7f9-4879-81e6-b3dbb92f06d5_1260x660.png"></a></div></div><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;"><span>The fact that withdrawal rates are relatively constant over time suggests that more recent trends, like increasing queue length and project wait times, aren&#8217;t major drivers of project withdrawals (though it&#8217;s hard to be sure given how recent the huge increase in queue length is). Instead, high withdrawal rates seem like they have more to do with low costs of entry (so many early stage, speculative projects get added to the queue) and the high and uncertain costs of grid upgrades that must be borne by the project. Historically the grid impact of projects was evaluated one project at a time, and so a project might get unlucky and be forced to pay for grid upgrades on which subsequent projects could essentially free ride on. This caused some projects to drop out if they got a bad roll of the upgrade dice. (This has hopefully been addressed by a </span><a href="https://substack.com/redirect/c1999ee1-edd8-42ac-8cea-e93eca1ff67b?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel="" style="color: #b17ada;text-decoration: none;">recent FERC rule change</a><span> that requires projects to be evaluated in groups and to spread the cost of grid upgrades over multiple projects.)</span></p><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;">What sort of projects are in the queue? They&#8217;re overwhelmingly renewable energy projects &#8212; solar, wind, batteries, or some combination of the three make up around 90% of planned generation capacity in the interconnection queue. Natural gas plants make up another 7%, and everything else, including nuclear, oil, coal, hydrogen, and pumped hydro, make up just 3%.</p><div class="datawrapper-wrap static" data-component-name="DatawrapperToDOMStatic" style="font-size: 16px;line-height: 26px;align-items: center;justify-content: center;display: block;"><div class="datawrapper-title" style="line-height: 26px;font-family: system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';font-size: 16px;font-weight: bold;padding: 0 12px;">Interconnection queue capacity by project type</div><div class="datawrapper-description" style="line-height: 26px;font-family: system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';font-size: 14px;padding: 0 12px;">Megawatts.</div><div style="font-size: 16px;line-height: 26px;"><a href="https://substack.com/redirect/f6ae5c92-a9ea-4d4a-a621-fd674b954bbb?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" target="_blank" rel=""><img class="datawrapper-wrap thumbnail" style="border: none;vertical-align: middle;display: block;-ms-interpolation-mode: bicubic;max-width: 100%;height: auto;margin: 0 auto;background-image: url(https://substack-post-media.s3.amazonaws.com/public/images/d4393cfd-2900-4966-80e3-e8dd0619d395_1260x660.png)" src="https://substackcdn.com/image/fetch/w_640,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd4393cfd-2900-4966-80e3-e8dd0619d395_1260x660.png"></a></div></div><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;">This is a relatively recent trend. Early in the 21st century gas plants were the largest individual share of planned capacity. But by the late 2000s gas began to be eclipsed by wind power, and by the late 2010s solar projects became dominant.</p><div class="datawrapper-wrap static" data-component-name="DatawrapperToDOMStatic" style="font-size: 16px;line-height: 26px;align-items: center;justify-content: center;display: block;"><div class="datawrapper-title" style="line-height: 26px;font-family: system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';font-size: 16px;font-weight: bold;padding: 0 12px;">Generation capacity added to the interconnection queue by year</div><div class="datawrapper-description" style="line-height: 26px;font-family: system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';font-size: 14px;padding: 0 12px;">Megawatts.</div><div style="font-size: 16px;line-height: 26px;"><a href="https://substack.com/redirect/fed020de-f3ee-4091-955c-02d7bfb4a335?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" target="_blank" rel=""><img class="datawrapper-wrap thumbnail" style="border: none;vertical-align: middle;display: block;-ms-interpolation-mode: bicubic;max-width: 100%;height: auto;margin: 0 auto;background-image: url(https://substack-post-media.s3.amazonaws.com/public/images/35ac95f5-4e87-449a-9e6e-90f09530f73b_1260x660.png)" src="https://substackcdn.com/image/fetch/w_640,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F35ac95f5-4e87-449a-9e6e-90f09530f73b_1260x660.png"></a></div></div><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;">We don&#8217;t see terribly much variation in withdrawal rates by project type. Between 1999 and 2018 solar, wind, gas, and batteries all have similar withdrawal rates. Battery + solar projects actually have substantially lower withdrawal rates than other types of projects:</p><div class="datawrapper-wrap static" data-component-name="DatawrapperToDOMStatic" style="font-size: 16px;line-height: 26px;align-items: center;justify-content: center;display: block;"><div class="datawrapper-title" style="line-height: 26px;font-family: system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';font-size: 16px;font-weight: bold;padding: 0 12px;">Interconnection queue withdrawal rates</div><div class="datawrapper-description" style="line-height: 26px;font-family: system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';font-size: 14px;padding: 0 12px;">By project type.</div><div style="font-size: 16px;line-height: 26px;"><a href="https://substack.com/redirect/de3a01cc-a97b-4dce-b23e-86c38f3237fb?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" target="_blank" rel=""><img class="datawrapper-wrap thumbnail" style="border: none;vertical-align: middle;display: block;-ms-interpolation-mode: bicubic;max-width: 100%;height: auto;margin: 0 auto;background-image: url(https://substack-post-media.s3.amazonaws.com/public/images/9a79724a-394e-4c3a-bae3-e2b06669e917_1260x660.png)" src="https://substackcdn.com/image/fetch/w_640,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9a79724a-394e-4c3a-bae3-e2b06669e917_1260x660.png"></a></div></div><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;">Most planned projects are on the smaller side. Of the 11,000+ projects in the interconnection queue, roughly 8,000 of them will have a generation capacity of 200 megawatts or less, and the average capacity of a generation project in the queue is around 180 megawatts. But there&#8217;s significant variation by project type. Wind, gas, and offshore wind projects tend to be larger, while solar and battery projects tend to be smaller.</p><div class="datawrapper-wrap static" data-component-name="DatawrapperToDOMStatic" style="font-size: 16px;line-height: 26px;align-items: center;justify-content: center;display: block;"><div class="datawrapper-title" style="line-height: 26px;font-family: system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';font-size: 16px;font-weight: bold;padding: 0 12px;">Interconnection queue project capacities</div><div class="datawrapper-description" style="line-height: 26px;font-family: system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';font-size: 14px;padding: 0 12px;">Number of projects in the interconnection queue (horizontal axis) by generation capacity in megawatts (vertical axis).</div><div style="font-size: 16px;line-height: 26px;"><a href="https://substack.com/redirect/e164eb85-a3cd-40cd-9aa6-af9edfa8bf18?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" target="_blank" rel=""><img class="datawrapper-wrap thumbnail" style="border: none;vertical-align: middle;display: block;-ms-interpolation-mode: bicubic;max-width: 100%;height: auto;margin: 0 auto;background-image: url(https://substack-post-media.s3.amazonaws.com/public/images/88a66037-a0a6-4516-a2cc-f49007e45c1f_1260x660.png)" src="https://substackcdn.com/image/fetch/w_640,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F88a66037-a0a6-4516-a2cc-f49007e45c1f_1260x660.png"></a></div></div><div class="datawrapper-wrap static" data-component-name="DatawrapperToDOMStatic" style="font-size: 16px;line-height: 26px;align-items: center;justify-content: center;display: block;"><div class="datawrapper-title" style="line-height: 26px;font-family: system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';font-size: 16px;font-weight: bold;padding: 0 12px;">Electricity generation project size</div><div class="datawrapper-description" style="line-height: 26px;font-family: system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';font-size: 14px;padding: 0 12px;">Average size in megawatts of generation projects in the interconnection queue.</div><div style="font-size: 16px;line-height: 26px;"><a href="https://substack.com/redirect/5bfaa77c-a295-4bad-83f5-1b7691eb9a91?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" target="_blank" rel=""><img class="datawrapper-wrap thumbnail" style="border: none;vertical-align: middle;display: block;-ms-interpolation-mode: bicubic;max-width: 100%;height: auto;margin: 0 auto;background-image: url(https://substack-post-media.s3.amazonaws.com/public/images/62fba162-c4a8-451e-abb5-22c9c900996e_1260x660.png)" src="https://substackcdn.com/image/fetch/w_640,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F62fba162-c4a8-451e-abb5-22c9c900996e_1260x660.png"></a></div></div><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;">If we look at a geographic spread of queued projects by project type, we see that solar projects are very broadly distributed. 36 states have 40% of their planned capacity or more as some flavor of solar. It&#8217;s not just sunny states that are building solar projects &#8212; it&#8217;s everywhere.</p><div class="datawrapper-wrap static" data-component-name="DatawrapperToDOMStatic" style="font-size: 16px;line-height: 26px;align-items: center;justify-content: center;display: block;"><div class="datawrapper-title" style="line-height: 26px;font-family: system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';font-size: 16px;font-weight: bold;padding: 0 12px;">Solar percent of interconnection queue capacity by state</div><div class="datawrapper-description" style="line-height: 26px;font-family: system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';font-size: 14px;padding: 0 12px;">Including solar and battery + solar.</div><div style="font-size: 16px;line-height: 26px;"><a href="https://substack.com/redirect/8e8f76bd-6f9a-4461-9813-51b364b282d9?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" target="_blank" rel=""><img class="datawrapper-wrap thumbnail" style="border: none;vertical-align: middle;display: block;-ms-interpolation-mode: bicubic;max-width: 100%;height: auto;margin: 0 auto;background-image: url(https://substack-post-media.s3.amazonaws.com/public/images/2bb2a5af-5614-4943-b7a9-a90e65b22e71_1260x660.png)" src="https://substackcdn.com/image/fetch/w_640,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2bb2a5af-5614-4943-b7a9-a90e65b22e71_1260x660.png"></a></div></div><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;">Wind projects are more concentrated, but still fairly broadly distributed. 18 states have wind projects as 20% or more of their planned generation capacity.</p><div class="datawrapper-wrap static" data-component-name="DatawrapperToDOMStatic" style="font-size: 16px;line-height: 26px;align-items: center;justify-content: center;display: block;"><div class="datawrapper-title" style="line-height: 26px;font-family: system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';font-size: 16px;font-weight: bold;padding: 0 12px;">Wind percent of interconnection queue capacity by state</div><div class="datawrapper-description" style="line-height: 26px;font-family: system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';font-size: 14px;padding: 0 12px;">Including offshore wind.</div><div style="font-size: 16px;line-height: 26px;"><a href="https://substack.com/redirect/5f3d1f6b-8138-4bd8-9b89-1acf7c6edfa4?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" target="_blank" rel=""><img class="datawrapper-wrap thumbnail" style="border: none;vertical-align: middle;display: block;-ms-interpolation-mode: bicubic;max-width: 100%;height: auto;margin: 0 auto;background-image: url(https://substack-post-media.s3.amazonaws.com/public/images/784573c7-3629-4e0f-bfee-b056fec446f1_1260x660.png)" src="https://substackcdn.com/image/fetch/w_640,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F784573c7-3629-4e0f-bfee-b056fec446f1_1260x660.png"></a></div></div><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;">By comparison, gas projects are very sparse. Not only is their planned capacity way less than that of solar, wind, and batteries, but they&#8217;re not nearly as widely distributed. Only seven states have gas plants as more than 20% of their planned generation capacity. And while over 1,500 counties are planning on some type of solar project, only around 200 counties are planning a gas project.</p><div class="datawrapper-wrap static" data-component-name="DatawrapperToDOMStatic" style="font-size: 16px;line-height: 26px;align-items: center;justify-content: center;display: block;"><div class="datawrapper-title" style="line-height: 26px;font-family: system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';font-size: 16px;font-weight: bold;padding: 0 12px;">Gas percent of interconnection queue capacity by state</div><div class="datawrapper-description" style="line-height: 26px;font-family: system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';font-size: 14px;padding: 0 12px;">Includes gas, gas + oil, gas + solar, and battery + gas.</div><div style="font-size: 16px;line-height: 26px;"><a href="https://substack.com/redirect/bda85397-19e6-4745-9a13-4c249ab733fa?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" target="_blank" rel=""><img class="datawrapper-wrap thumbnail" style="border: none;vertical-align: middle;display: block;-ms-interpolation-mode: bicubic;max-width: 100%;height: auto;margin: 0 auto;background-image: url(https://substack-post-media.s3.amazonaws.com/public/images/e02472be-a3ef-46d9-82a9-b26d93e8086e_1260x660.png)" src="https://substackcdn.com/image/fetch/w_640,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe02472be-a3ef-46d9-82a9-b26d93e8086e_1260x660.png"></a></div></div><h4 class="header-anchor-post" style="position: relative;--highlight-bg: rgba(var(--color-bg-accent-themed-rgb), 0.2);font-family: 'SF Pro Display',-apple-system-headline,system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';font-weight: bold;-webkit-font-smoothing: antialiased;-moz-osx-font-smoothing: antialiased;-webkit-appearance: optimizelegibility;-moz-appearance: optimizelegibility;appearance: optimizelegibility;margin: 1em 0 0.625em 0;color: rgb(54,55,55);line-height: 1.16em;font-size: 1.125em;">Conclusion</h4><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;">We&#8217;re witnessing the early stages of a historic buildout of energy infrastructure, with thousands of gigawatts worth of generation projects currently in the pipeline. Assuming these projects withdraw from the queue at historic rates, currently planned projects alone can expect to increase the US&#8217;s electricity generation capacity by around 50%.</p><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;"><span>Some back of the envelope numbers suggest that the current interconnection queue represents around two trillion dollars&#8217; worth of energy investment.</span><span class="footnote-anchor-email" data-component-name="FootnoteAnchorToDOMStatic" style="font-size: 20px;">&#179;</span><span> Even if you only count projects that will likely ultimately get built, that&#8217;s still on the order of $600 billion. These projects are overwhelmingly solar, wind, and battery projects, and they&#8217;re spread all across the US, in virtually every state.</span></p><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;"><span>The interconnection queue shows both the good and the bad of the </span><a href="https://substack.com/redirect/e7d64ca8-be48-4f73-ac64-0d8df1bb8d12?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel="" style="color: #b17ada;text-decoration: none;">Trump administration&#8217;s energy policies</a><span>. The huge influx of projects has driven up queue waiting times, and we desperately need to make approvals and permitting go faster to build the amount of infrastructure we need. The </span><a href="https://substack.com/redirect/8149f43c-834d-4145-bd7a-3ebd3665e338?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel="" style="color: #b17ada;text-decoration: none;">changes to the CEQ rules</a><span> can potentially help here.</span></p><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;"><span>However, stalling permitting for </span><a href="https://substack.com/redirect/4c77ad80-3b0b-4fde-87e9-2380156cb071?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel="" style="color: #b17ada;text-decoration: none;">solar</a><span> and wind projects has the potential to do immense harm. These aren&#8217;t niche technologies being adopted by a handful of blue-leaning states; they&#8217;re the backbone of the energy infrastructure we&#8217;re building, represent hundreds of billions or even trillions of dollars of investment, and are a major economic driver in virtually every state in the union. Many of the Trump administration&#8217;s early executive orders addressed the energy emergency currently facing the US, but slowing down or stopping wind and solar permitting could make such an emergency catastrophically worse.</span></p><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;"><em><span>Thanks again to the folks at </span><a href="https://substack.com/redirect/76a57ee7-e310-4064-859f-e8df8b5ab3aa?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel="" style="color: #b17ada;text-decoration: none;">Interconnection.fyi</a><span> who provided the data for this analysis.</span></em></p><div class="footnote" data-component-name="FootnoteToDOMStatic" style="line-height: 26px;display: flex;border-top: solid 1px rgba(202, 201, 188, 0.5);padding-top: 1.5em;font-size: 90%;flex-direction: row;align-items: baseline;"><span class="footnote-number" style="display: block;margin-right: 6px;min-width: 24px;">1</span><div class="footnote-content" style="font-size: 16px;line-height: 26px;display: block;"><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;min-width: 10px;">As far as I can tell, projects in Alaska, Hawaii, or US territories aren&#8217;t included in the interconnection queue, though some Canadian and Mexican projects are.</p></div></div><div class="footnote" data-component-name="FootnoteToDOMStatic" style="line-height: 26px;display: flex;font-size: 90%;flex-direction: row;align-items: baseline;border-top: none;padding-top: 0;"><span class="footnote-number" style="display: block;margin-right: 6px;min-width: 24px;">2</span><div class="footnote-content" style="font-size: 16px;line-height: 26px;display: block;"><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;min-width: 10px;"><span>From what I can tell, most utilities aren&#8217;t actually tracking the connection of large load projects. Only the </span><a href="https://substack.com/redirect/0365a713-97cd-46a1-8e22-774a5bd4c549?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel="" style="color: #b17ada;text-decoration: none;">Bonneville Power Administration</a><span> is reliably tracking them.</span></p></div></div><div class="footnote" data-component-name="FootnoteToDOMStatic" style="line-height: 26px;display: flex;font-size: 90%;flex-direction: row;align-items: baseline;margin-bottom: 0;border-top: none;padding-top: 0;"><span class="footnote-number" style="display: block;margin-right: 6px;min-width: 24px;">3</span><div class="footnote-content" style="font-size: 16px;line-height: 26px;display: block;"><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;min-width: 10px;"><a href="https://substack.com/redirect/34d7b677-33ac-4fbf-866c-93f409d5da75?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel="" style="color: #b17ada;text-decoration: none;">Wind</a><span> and </span><a href="https://substack.com/redirect/55d2d7b9-00a0-475a-a939-716c270710e5?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel="" style="color: #b17ada;text-decoration: none;">solar</a><span> projects seem to currently cost around $1.1 to $1.5 million dollars per megawatt.</span></p><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;min-width: 10px;"></p></div></div></div></div><div class="container-border" style="margin: 32px 0 0;width: 100%;box-sizing: border-box;border-top: 1px solid #e3e2d4;font-size: 16px;line-height: 26px;"></div><div class="typography" style="font-size: 16px;line-height: 26px;"><div class="postscript" style="margin: 32px 0;font-size: 16px;line-height: 26px;"><div class="body markup" dir="auto" style="text-align: initial;font-size: 16px;line-height: 26px;width: 100%;word-break: break-word;margin-bottom: 16px;"><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;margin-top: 0;"><em><span>Construction Physics articles will always remain free, but if you find this work valuable, I encourage you to </span><strong><a href="https://substack.com/redirect/ecc3cdf6-91a0-474b-975c-ec263e68f812?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel="" style="color: #b17ada;text-decoration: none;">become a paid subscriber</a><span>.</span></strong><span> As a paid subscriber, you&#8217;ll help support this work.</span></em></p><div class="subscribe-widget is-signed-up" data-component-name="SubscribeWidget" style="margin: 0 0 1em;direction: ltr;font-size: 16px;line-height: 26px;"><p class="button-wrapper" style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;text-align: center;cursor: pointer;border-radius: 4px;"><a class="button subscribe-btn primary" href="https://substack.com/redirect/2/eyJlIjoiaHR0cHM6Ly93d3cuY29uc3RydWN0aW9uLXBoeXNpY3MuY29tL3N1YnNjcmliZT91dG1fc291cmNlPXBvc3QmdXRtX2NhbXBhaWduPWVtYWlsLWNoZWNrb3V0Jm5leHQ9aHR0cHMlM0ElMkYlMkZ3d3cuY29uc3RydWN0aW9uLXBoeXNpY3MuY29tJTJGcCUyRmluc2lkZS10aGUtaW50ZXJjb25uZWN0aW9uLXF1ZXVlJnI9OG81NG4mdG9rZW49ZXlKMWMyVnlYMmxrSWpveE5EVTJNek14T1N3aWFXRjBJam94TnpNNE56WXdPREV5TENKbGVIQWlPakUzTkRFek5USTRNVElzSW1semN5STZJbkIxWWkweE1EUXdOVGdpTENKemRXSWlPaUpqYUdWamEyOTFkQ0o5Ll9vZjhfVnRSN0ZxTm91OVEwdVRQMTR4Y1RTRmJCTmE0R2ZCeTlUTWp0dmMiLCJwIjoxNTY0ODc4MzEsInMiOjEwNDA1OCwiZiI6dHJ1ZSwidSI6MTQ1NjMzMTksImlhdCI6MTczODc2MDgxMiwiZXhwIjoxNzQxMzUyODEyLCJpc3MiOiJwdWItMCIsInN1YiI6ImxpbmstcmVkaXJlY3QifQ.hyGmfL9G3qs--RJXa5GIdpn0N-nCxJZcXbgSh6RBQdk?&utm_medium=email&utm_source=subscribe-widget&utm_content=156487831" style="font-family: system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';display: inline-block;box-sizing: border-box;cursor: pointer;border: none;border-radius: 8px;font-size: 14px;line-height: 20px;font-weight: 600;text-align: center;opacity: 1;outline: none;white-space: nowrap;color: #ffffff !important;text-decoration: none !important;background-color: #b17ada;margin: 0 auto;padding: 12px 20px;height: auto;"><span style="color: #ffffff;text-decoration: none;">Upgrade to paid</span></a></p></div><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;"><em><span>Construction Physics is produced in partnership with the Institute for Progress, a Washington, DC-based think tank. You can learn more about their work by visiting their </span><a href="https://substack.com/redirect/6ccbbc38-e70c-47aa-b60f-365d6153131d?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel="" style="color: #b17ada;text-decoration: none;">website</a><span>.</span></em></p><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;margin-bottom: 0;"><em><span>You can also contact me on </span><a href="https://substack.com/redirect/d578cd4b-57c6-46cb-b76e-6efc9046b50e?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel="" style="color: #b17ada;text-decoration: none;">Twitter</a><span>, </span><a href="https://substack.com/redirect/c7ffd4a2-98e5-4cf6-959d-0c08c49da4e8?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel="" style="color: #b17ada;text-decoration: none;">LinkedIn</a><span>, or by email: briancpotter@gmail.com</span></em></p></div></div></div><table class="email-ufi-2-bottom" role="presentation" width="100%" border="0" cellspacing="0" cellpadding="0" style="border-top: 1px solid rgb(0,0,0,.1);border-bottom: 1px solid rgb(0,0,0,.1);min-width: 100%;"><tbody><tr height="16"><td height="16" style="font-size:0px;line-height:0;">&nbsp;</td></tr><tr><td><table role="presentation" width="100%" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td><table role="presentation" width="auto" border="0" cellspacing="0" cellpadding="0" style="margin:0 auto;"><tbody><tr><td style="vertical-align:middle;"><table role="presentation" width="auto" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td align="center"><a class="email-button-outline" href="https://substack.com/app-link/post?publication_id=104058&post_id=156487831&utm_source=substack&isFreemail=true&submitLike=true&token=eyJ1c2VyX2lkIjoxNDU2MzMxOSwicG9zdF9pZCI6MTU2NDg3ODMxLCJyZWFjdGlvbiI6IuKdpCIsImlhdCI6MTczODc2MDgxMiwiZXhwIjoxNzQxMzUyODEyLCJpc3MiOiJwdWItMTA0MDU4Iiwic3ViIjoicmVhY3Rpb24ifQ.mP5-Lc-aDLKAEwckIp_yIhg-EBQRqDdEThQRp87kW9A&utm_medium=email&utm_campaign=email-reaction&r=8o54n" style="font-family: system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';display: inline-block;font-weight: 500;border: 1px solid rgb(0,0,0,.1);border-radius: 9999px;text-transform: uppercase;font-size: 12px;line-height: 12px;padding: 9px 14px;text-decoration: none;color: rgb(119,119,119);"><img class="icon" src="https://substackcdn.com/image/fetch/w_36,c_scale,f_png,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack.com%2Ficon%2FLucideHeart%3Fv%3D4%26height%3D36%26fill%3Dnone%26stroke%3D%2523808080%26strokeWidth%3D2" width="18" height="18" style="margin-right: 8px;min-width: 18px;min-height: 18px;border: none;vertical-align: middle;max-width: 18px" alt=""><span class="email-button-text" style="vertical-align: middle;">Like</span></a></td></tr></tbody></table></td><td width="8" style="min-width: 8px"></td><td style="vertical-align:middle;"><table role="presentation" width="auto" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td align="center"><a class="email-button-outline" href="https://substack.com/app-link/post?publication_id=104058&post_id=156487831&utm_source=substack&utm_medium=email&isFreemail=true&comments=true&token=eyJ1c2VyX2lkIjoxNDU2MzMxOSwicG9zdF9pZCI6MTU2NDg3ODMxLCJpYXQiOjE3Mzg3NjA4MTIsImV4cCI6MTc0MTM1MjgxMiwiaXNzIjoicHViLTEwNDA1OCIsInN1YiI6InBvc3QtcmVhY3Rpb24ifQ.nEMwrBUcp_ufnxdGKqKAJWi3G2bzn6ZjcYjGGhiWymY&r=8o54n&utm_campaign=email-half-magic-comments&action=post-comment&utm_source=substack&utm_medium=email" style="font-family: system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';display: inline-block;font-weight: 500;border: 1px solid rgb(0,0,0,.1);border-radius: 9999px;text-transform: uppercase;font-size: 12px;line-height: 12px;padding: 9px 14px;text-decoration: none;color: rgb(119,119,119);"><img class="icon" src="https://substackcdn.com/image/fetch/w_36,c_scale,f_png,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack.com%2Ficon%2FLucideComments%3Fv%3D4%26height%3D36%26fill%3Dnone%26stroke%3D%2523808080%26strokeWidth%3D2" width="18" height="18" style="margin-right: 8px;min-width: 18px;min-height: 18px;border: none;vertical-align: middle;max-width: 18px" alt=""><span class="email-button-text" style="vertical-align: middle;">Comment</span></a></td></tr></tbody></table></td><td width="8" style="min-width: 8px"></td><td style="vertical-align:middle;"><table role="presentation" width="auto" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td align="center"><a class="email-button-outline" href="https://substack.com/redirect/2/eyJlIjoiaHR0cHM6Ly9vcGVuLnN1YnN0YWNrLmNvbS9wdWIvY29uc3RydWN0aW9ucGh5c2ljcy9wL2luc2lkZS10aGUtaW50ZXJjb25uZWN0aW9uLXF1ZXVlP3V0bV9zb3VyY2U9c3Vic3RhY2smdXRtX21lZGl1bT1lbWFpbCZ1dG1fY2FtcGFpZ249ZW1haWwtcmVzdGFjay1jb21tZW50JmFjdGlvbj1yZXN0YWNrLWNvbW1lbnQmcj04bzU0biZ0b2tlbj1leUoxYzJWeVgybGtJam94TkRVMk16TXhPU3dpY0c5emRGOXBaQ0k2TVRVMk5EZzNPRE14TENKcFlYUWlPakUzTXpnM05qQTRNVElzSW1WNGNDSTZNVGMwTVRNMU1qZ3hNaXdpYVhOeklqb2ljSFZpTFRFd05EQTFPQ0lzSW5OMVlpSTZJbkJ2YzNRdGNtVmhZM1JwYjI0aWZRLm5FTXdyQlVjcF91Zm54ZEdLcUtBSldpM0cyYnpuNlpqY1lqR0doaVd5bVkiLCJwIjoxNTY0ODc4MzEsInMiOjEwNDA1OCwiZiI6dHJ1ZSwidSI6MTQ1NjMzMTksImlhdCI6MTczODc2MDgxMiwiZXhwIjoxNzQxMzUyODEyLCJpc3MiOiJwdWItMCIsInN1YiI6ImxpbmstcmVkaXJlY3QifQ.rvPpK3qmclpmv_xOhwdwipZuIQjOKegRZ545GgelnD8?&utm_source=substack&utm_medium=email" style="font-family: system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';display: inline-block;font-weight: 500;border: 1px solid rgb(0,0,0,.1);border-radius: 9999px;text-transform: uppercase;font-size: 12px;line-height: 12px;padding: 9px 14px;text-decoration: none;color: rgb(119,119,119);"><img class="icon" src="https://substackcdn.com/image/fetch/w_36,c_scale,f_png,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack.com%2Ficon%2FNoteForwardIcon%3Fv%3D4%26height%3D36%26fill%3Dnone%26stroke%3D%2523808080%26strokeWidth%3D2" width="18" height="18" style="margin-right: 8px;min-width: 18px;min-height: 18px;border: none;vertical-align: middle;max-width: 18px" alt=""><span class="email-button-text" style="vertical-align: middle;">Restack</span></a></td></tr></tbody></table></td></tr></tbody></table></td><td align="right"><table role="presentation" width="auto" border="0" cellspacing="0" cellpadding="0"><tbody><tr></tr></tbody></table></td></tr></tbody></table></td></tr><tr height="16"><td height="16" style="font-size:0px;line-height:0;">&nbsp;</td></tr></tbody></table><div class="footer footer-ZM59BM" style="color: rgb(119,119,119);text-align: center;font-size: 16px;line-height: 26px;padding: 24px0;"><div style="font-size: 16px;line-height: 26px;padding-bottom: 24px"><p class="pencraft pc-reset color-secondary-ls1g8s size-12-mmZ61m reset-IxiVJZ small meta-B2bqa5" style="list-style: none;font-family: system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';padding-bottom: 0;font-size: 12px;line-height: 16px;margin: 0;color: rgb(119,119,119);text-decoration: unset;">&#169; 2025 <span>Brian Potter</span> <br><a href="https://substack.com/redirect/2/eyJlIjoiaHR0cHM6Ly93d3cuY29uc3RydWN0aW9uLXBoeXNpY3MuY29tL2FjdGlvbi9kaXNhYmxlX2VtYWlsP3Rva2VuPWV5SjFjMlZ5WDJsa0lqb3hORFUyTXpNeE9Td2ljRzl6ZEY5cFpDSTZNVFUyTkRnM09ETXhMQ0pwWVhRaU9qRTNNemczTmpBNE1USXNJbVY0Y0NJNk1UYzNNREk1TmpneE1pd2lhWE56SWpvaWNIVmlMVEV3TkRBMU9DSXNJbk4xWWlJNkltUnBjMkZpYkdWZlpXMWhhV3dpZlEuVkgwaEpPNVh6Szg1di1lSGVBZ0t0djdBMDZnSkh6OUhra01rbnFjZDdvMCIsInAiOjE1NjQ4NzgzMSwicyI6MTA0MDU4LCJmIjp0cnVlLCJ1IjoxNDU2MzMxOSwiaWF0IjoxNzM4NzYwODEyLCJleHAiOjE3NDEzNTI4MTIsImlzcyI6InB1Yi0wIiwic3ViIjoibGluay1yZWRpcmVjdCJ9.-wY9x0pK32ckrNobcduleuGNvDlWyyj-col7KGnkvAU?" style="color: #b17ada;text-decoration: none;"><span style="color: rgb(119,119,119);text-decoration: underline;">Unsubscribe</span></a></p></div><p class="footerSection-EHR0jG small powered-by-substack" style="padding: 0 24px;font-size: 12px;line-height: 20px;margin: 0;color: rgb(119,119,119);font-family: system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';padding-bottom: 0;margin-top: 0;"><a href="https://substack.com/redirect/2/eyJlIjoiaHR0cHM6Ly9zdWJzdGFjay5jb20vc2lnbnVwP3V0bV9zb3VyY2U9c3Vic3RhY2smdXRtX21lZGl1bT1lbWFpbCZ1dG1fY29udGVudD1mb290ZXImdXRtX2NhbXBhaWduPWF1dG9maWxsZWQtZm9vdGVyJmZyZWVTaWdudXBFbWFpbD1pc2hhbi5tYWlsQGdtYWlsLmNvbSZyPThvNTRuIiwicCI6MTU2NDg3ODMxLCJzIjoxMDQwNTgsImYiOnRydWUsInUiOjE0NTYzMzE5LCJpYXQiOjE3Mzg3NjA4MTIsImV4cCI6MTc0MTM1MjgxMiwiaXNzIjoicHViLTAiLCJzdWIiOiJsaW5rLXJlZGlyZWN0In0.hS6atys7xueKt1XJfvVhsF2LSUz5cDnsw5w6EruUtD4?" style="color: #b17ada;text-decoration: none;display: inline-block;margin: 0 4px;"><img src="https://substackcdn.com/image/fetch/w_270,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack.com%2Fimg%2Femail%2Fpublish-button%402x.png" srcset="https://substackcdn.com/image/fetch/w_135,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack.com%2Fimg%2Femail%2Fpublish-button.png, https://substackcdn.com/image/fetch/w_270,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack.com%2Fimg%2Femail%2Fpublish-button%402x.png 2x, https://substackcdn.com/image/fetch/w_405,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack.com%2Fimg%2Femail%2Fpublish-button%403x.png 3x" width="135" alt="Start writing" height="40" style="max-width: 550px;border: none !important;vertical-align: middle;"></a></p></div></div></td><td></td></tr></tbody></table><img src="https://eotrx.substackcdn.com/open?token=eyJtIjoiPDIwMjUwMjA1MTMwMzM3LjMuNzYzZjg5ODkzYzk2YmVhZUBtZy1kMC5zdWJzdGFjay5jb20-IiwidSI6MTQ1NjMzMTksInIiOiJpc2hhbi5tYWlsQGdtYWlsLmNvbSIsImQiOiJtZy1kMC5zdWJzdGFjay5jb20iLCJwIjoxNTY0ODc4MzEsInQiOiJuZXdzbGV0dGVyIiwiYSI6ImV2ZXJ5b25lIiwicyI6MTA0MDU4LCJjIjoicG9zdCIsImYiOnRydWUsInBvc2l0aW9uIjoiYm90dG9tIiwiaWF0IjoxNzM4NzYwODEzLCJleHAiOjE3NDEzNTI4MTMsImlzcyI6InB1Yi0wIiwic3ViIjoiZW8ifQ.O7uP77g9UeigVXy7QVRWRYImwEDVcAZ394vDvJ999F8" alt="" width="1" height="1" border="0" style="height:1px !important;width:1px !important;border-width:0 !important;margin-top:0 !important;margin-bottom:0 !important;margin-right:0 !important;margin-left:0 !important;padding-top:0 !important;padding-bottom:0 !important;padding-right:0 !important;padding-left:0 !important;"/><img width="1" height="1" alt="" src="https://email.mg-d0.substack.com/o/eJw8kNuqrDAMQL9m-nakNb350G-RXqKWo630Mhv_fqMz7KfAClks4m3DNZfLnLk2EowEu4hA0DAFWkmqx4ngYeM-r5iw2IZhtu1vy4COimxGIA8CAvNqkcKDC0IopijXCgXIyZFoRjoKOlLBgAKoAQYlYdGTnsBP0qHFF6fH-i_QoXZXm_X_B58PEuu8FHwSTCsdyR062x4iJo8G31iunL44BsOE5FppYB_SrhNNwp-6Y2tYyNnd7PNx9BTbNWOybsfwFXe3R29bzOkRUU6FJsXEutk03AEvTtd7PmG1u5APG5PxOdVWur8vz-2q0VfSPg_tFcsj40ICsIm8zfgbAAD__5Rqe3s"></body></html>

@@ -1,0 +1,35 @@
+---
+subject: "Machine Learning Algorithms Explained in Plain English"
+from: "Quincy Larson <quincy@freecodecamp.org>"
+to: ""
+date: 2020-06-19 06:40:52
+labels: ["CATEGORY_PERSONAL", "INBOX", "Quincy"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_7697778124671848699"]
+---
+Here are this week's five links that are worth your time:
+
+1. Here are the 9 most commonly used Machine Learning algorithms, all explained in plain English. This article will walk you through Random Forests, K-Nearest Neighbors, Linear Regression, and other approaches in a beginner-friendly way. (18 minute read): https://www.freecodecamp.org/news/a-no-code-intro-to-the-9-most-important-machine-learning-algorithms-today/
+
+2. If you want to get cloud-certified, here's a free Azure cloud certification course. It will teach you the concepts you need to know to pass the AZ-900 exam. (3 hour watch): https://www.freecodecamp.org/news/azure-fundamentals-course-az900/
+
+3. Flutter is a powerful new framework from Google that lets you build apps for iPhone, Android, the web, and PCs – all at the same time with the same codebase. This course will teach you Flutter fundamentals. (3 hour watch): https://www.freecodecamp.org/news/flutter-app-course-mobile-web-desktop/
+
+4. DevOps is, statistically speaking, the highest-paid non-managerial developer field you can go into. And this free course will teach you some of the Linux, networking, and other concepts you need to get started learning DevOps. It's not an entry level career, but if you already have some basic programming skills, this will get you moving in the right direction. (3 hour watch): https://www.freecodecamp.org/news/devops-prerequisites-course/
+
+5. How to create a professional chat API using Node.js and web sockets. This comprehensive tutorial will help you build your own API step-by-step and give you lots of coding practice. (35 minute read): https://www.freecodecamp.org/news/create-a-professional-node-express/
+
+
+Quote of the Week: “People worry that computers will get too smart and take over the world. But the real problem is that computers are too stupid and they've already taken over the world.” – Pedro Domingos
+
+
+I've sent these emails each Friday for the past 4 years. And I'll keep them coming. If you're getting value out of these, you should support our nonprofit and our mission. Donate here: https://www.freecodecamp.org/donate
+
+
+Happy coding.
+
+- Quincy Larson
+
+Teacher at freeCodeCamp.org
+
+
+If these emails aren't worth your time, you can turn them off: https://www.freecodecamp.org/ue/eZV2T3gHC7IGcwcpYPG64

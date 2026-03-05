@@ -1,0 +1,23 @@
+---
+subject: "Skinner’s One Ring To Rule Culture"
+from: "Robin Hanson from Overcoming Bias <overcomingbias@substack.com>"
+to: ""
+date: 2025-09-13 01:41:58
+labels: ["CATEGORY_PERSONAL", "INBOX", "Overcoming Bias", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_8616244883382228708", "UNREAD"]
+---
+One Ring to rule them all, One Ring to find them, One Ring to bring them all and in the darkness bind them.
+In 1971, famous behaviorist B.F. Skinner made the cover of Time magazine (a big deal then) for his [Beyond Freedom and Dignity](https://substack.com/redirect/0e155d33-9e43-42a5-bc3c-c076ef61e02e?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o). In this book, Skinner shows a clear understanding of cultural evolution, correctly comparing cultures to species, and sees the need for much cultural experimentation (such as he outlines in his other famous book Walden II). Though he doesn’t point to a problem as severe as cultural drift to motivate such efforts, Skinner embraces the goal of making his culture more adaptive, and proposes that we advance his then infant science of operant conditioning into a full social science able to design more adaptive cultures.
+He says we should not shrink from considering all possible methods:
+A technology of operant behaviour is, as we shall see, already well advanced, and it may prove to be commensurate with our problems … if planned economies, benevolent dictatorships, perfectionistic societies, and other utopian ventures have failed, we must remember that unplanned, undictated, and unperfected cultures have failed too. A failure is not always a mistake; it may simply be the best one can do under the circumstances. The real mistake is to stop trying.
+Skinner sees his main obstacle as our fetishes for freedom and dignity, which make us shrink from strong central controls:
+A preference for methods which make control inconspicuous or allow it to be disguised has condemned those who are in a position to exert constructive countercontrol to the use of weak measures. This could be a lethal cultural mutation .. Our culture has produced the science and technology it needs to save itself. It has the wealth needed for effective action. It has, to a considerable extent, a concern for its own future. But if it continues to take freedom or dignity, rather than its own survival, as its principal value, then it is possible that some other culture will make a greater contribution to the future.
+He also correctly points out that a central task of culture design is to get the culture to value doing culture design:
+Perhaps the most important feature of the utopian [culture] design, however, is that the survival of a community can be made important to its members. … The economic contingencies which induce people to improve automobiles are very powerful. They arise from the personal reinforcers of those who manufacture automobiles. No reinforcers of comparable strength encourage the engineering of the pure survival of a culture.
+Skinner is aware of the obvious concern:
+Who is to construct the controlling environment and to what end? … What will the putative controller find good, and will it be good for those he controls?
+His answer is that while other institutions can’t be trusted, science just isn’t biased:
+What, after all, have we to show for non-scientific or pre-scientific good judgement, or common sense, or the insights gained through personal experience? It is science or nothing. … A special value in scientific practice is also relevant. The scientist works under contingencies that minimize immediate personal reinforcers. … The published results of scientists are subject to rapid check by others, and the scientist who allows himself to be swayed by consequences that are not part of his subject matter is likely to find himself in difficulties.
+Skinner says that every concern you might have about totalitarian culture design, including who you can trust, can be objectively addressed by scientific analysis.
+Yes, Skinner’s science of operant conditioning now seems far less promising, but we could just substitute some other more promising social science, like maybe economics, and then follow his same program.
+Back in 1971 many intellectuals did have Skinner’s level of faith in scientific academia as a reliable objective institution. Today we better understand how that often goes very badly. If we are to pick one ring to rule them all, handing total social power to academic social scientists seems risky, to say the least. I have a bit more hope for futarchy, but even then, yes, a great risk would remain.

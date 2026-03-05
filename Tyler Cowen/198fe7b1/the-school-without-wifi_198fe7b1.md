@@ -1,0 +1,16 @@
+---
+subject: "The school without WiFi"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2025-08-31 04:55:35
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+Until recently, a nearby radio telescope meant the local school could not use WiFi. And how did that go?
+In many ways, Green Bank was an unintentional experiment in pedagogy. While the rest of the country rushed to bring tech into classrooms, Green Bank remained stuck in 1999. Without WiFi, the school’s 200 students couldn’t use Chromebooks or digital textbooks, or do research online. Teachers couldn’t access individualized education programs online or use Google Docs for staff meetings. Even routine tasks such as state-mandated standardized testing became challenging, with students rotating through a small, hardwired computer lab where they took the exams.
+“The ability to individualize learning with an iPad or a laptop — that’s basically impossible,” said teacher Darla Huddle, who previously taught in Pennsylvania. The school uses the Eureka Math curriculum, which also has a large digital platform with interactive videos and customizable instruction, but those add-ons aren’t available in Green Bank’s classrooms.
+“Without the online component of our curriculum fully working, it’s really detrimental to our instruction,” said teacher Sarah Brown, who has worked in schools in North Carolina. “It feels very antiquated because the technology that we’re using is so out of date.”
+Proposals had been floated over the years for the school to get WiFi without interfering with the observatory. One idea was to install LiFi, which emits low-range WiFi
+[through lightbulbs,]but the technology was finicky and expensive. Another thought was to pile an enormous dirt mound behind the school to prevent the WiFi from radiating toward the telescopes, but that would have destroyed the soccer fields.
+While those discussions dragged on, students fell further behind in math and reading, with Green Bank consistently posting the lowest test scores in the county. “Our kids are no different than the other kids in the county,” said Principal Melissa Jordan. “The only difference, in my opinion, is their lack of access to engaging technology.”
+Here is [the full WaPo story](http://marginalrevolution.com?action=user_content_redirect&uuid=f8443a0a092431c705e28edbfb7c291a690a66d80dd2d9edf10ec743908f215d&blog_id=42693868&post_id=91389&user_id=262258391&subs_id=225460721&signature=cc6d7f559456346c2dbdb981fc6a3eb3&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly93d3cud2FzaGluZ3RvbnBvc3QuY29tL29waW5pb25zLzIwMjUvMDgvMjcvd2lmaS1xdWlldC1zY2hvb2wtd2VzdC12aXJnaW5pYS1hc3Ryb25vbXkvP2NoZWFkPXRydWUm&email_id=2ce04f7490333ba9d652e047332a065a), via the excellent [Kevin Lewis](http://marginalrevolution.com?action=user_content_redirect&uuid=703349b184245514e653dcce2ca6025679b68dc0f3d86533e2c202539ea38f65&blog_id=42693868&post_id=91389&user_id=262258391&subs_id=225460721&signature=acc061fb36ab9bf9d80ddd346ea6ef36&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly93d3cubmF0aW9uYWxhZmZhaXJzLmNvbS9ibG9nL2RldGFpbC9maW5kaW5ncy1hLWRhaWx5LXJvdW5kdXAvY3VsdHVyZS1maXQ&email_id=2ce04f7490333ba9d652e047332a065a).

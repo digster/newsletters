@@ -1,0 +1,80 @@
+---
+subject: "Philippine's real estate and Chinese: it’s complicated!"
+from: "Beyond The First Order <info@the-ken.com>"
+to: ""
+date: 2020-07-23 01:42:20
+labels: ["CATEGORY_PERSONAL", "INBOX", "The Ken"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_8244464457792971031"]
+---
+|
+Edition #83. Thursday, 23 July 2020
+|
+A paid 🔒 newsletter that analyses the complex second and third order effects thrown into motion because of Covid-19. Someone sent you this? [Subscribe to BFO](https://the-ken.com/bfo/?utm_source=su_bnr&utm_medium=email&utm_campaign=btfo)
+|
+Good morning,
+When is your investment in gold a win for the government?
+When is a loan moratorium not actually a loan moratorium?
+When do you pick economic health over public health?
+Can work from home actually make a dent in your pay?
+But first…
+A country and its biggest tenant—who holds whom to ransom?
+|
+|
+Philippine's real estate and Chinese: it's complicated
+Jum
+The Philippine real estate market is taking a ride down the cliff this year. And the Chinese are playing a huge part.
+Consider this: online casinos, known as Philippine offshore gaming operators, or POGOs, have accounted for a chunk of office space rentals in the Philippines, even surpassing the take-up of business process outsourcing—long dubbed as the country’s sunshine industry.
+POGOs have been propped up by robust demand, mostly from Chinese punters placing bets from their homeland. They make use of virtual private networks (VPNs) and underground banking networks, as gambling is banned in China.
+|
+|
+|
+Because POGOs cater to the Chinese market, they employ Mandarin-speaking call centre agents and telemarketers… yes, also Chinese. This has resulted in an influx of Chinese workers to the Philippines. And these workers drive up residential property leases.
+In the last few years, the POGO industry has exploded. As of last count, there are reportedly 60 POGOs licensed in the Philippines that employ more than 300,000 Chinese workers. As a result, residential rental rates and sales have spiked. Investors, both local and foreign, who were acquiring units in bulk were leasing them to POGOs as staff housing. Guess who accounted for a huge share of the foreign sales? Also the Chinese, [at 50% as of 2019](https://www.reuters.com/article/us-philippines-china-labour/landlords-big-winners-as-philippines-bets-on-chinese-gaming-boom-idUSKCN1TX0NJ).
+Then, Covid-19 struck. POGOs were ordered to shut down, along with other non-essentials, when the Philippines imposed a lockdown in March. While they were later allowed to resume partial operations, they hit another bump when the tax bureau [barred](https://business.inquirer.net/297837/not-a-single-pogo-can-resume-ops-yet-as-not-one-has-fully-paid-tax-dues-bir) those with unsettled tax liabilities from reopening. Before the pandemic, POGOs have faced mounting resistance from lawmakers and organisations that have called for an outright ban due to rising crimes linked to the industry. Like tax evasion, illegal immigration, and even [prostitution](https://newsinfo.inquirer.net/1220457/sexual-services-offered-in-prostitution-dens-like-food-in-restaurants-hontiveros).
+Today, only 14 POGOs have resumed operations, two have closed down permanently, and “there are more to come."
+|
+If the industry collapses, it could leave empty as much as 3.4 million square metres of combined office and residential space as the migrant workers head home. That’s more than 600 football fields.
+|
+Why Philippines’ online gaming industry may not survive coronavirus, [SCMP](https://www.scmp.com/news/asia/southeast-asia/article/3093548/why-philippines-online-gaming-industry-may-not-survive)
+|
+|
+|
+The POGO industry’s slowdown, coupled with travel restrictions and a recession, has dampened real estate purchases in the Philippines. Residential prices alone are set to fall by 15-20% this year, as developers dish out promos just to land deals, reports the [Inquirer](https://business.inquirer.net/296654/developers-seen-slashing-residential-condo-prices).
+But all’s not lost. Some opportunistic buyers are expected to return for those quick, fire sales. Who they are, you guessed it right...
+“We know there has been a lull in the market, but as soon as [the Chinese] can travel, they will buy,” says a [Nikkei Asian Review](https://asia.nikkei.com/Business/Markets/Property/Chinese-eye-bigger-slice-of-Manila-as-real-estate-prices-tank) report.
+Indeed, the Philippine real estate industry has a complicated relationship with the Chinese.
+|
+|
+Paper gold, pauper gains
+Savio
+India’s love affair with gold jewellery has hit the Covid-19 roadblock. Earlier, Indians would buy gold jewellery at every milestone of life. For the newborn, the newborn’s next five birthdays, the first double-digit birthday, 18th birthday, graduation, first job, engagement. And, of course, the big fat wedding. And after. All under the guise of an investment. You know, for the tough times.
+Well, we are in tough times now. And this is when gold shines as a safe haven investment. The yellow metal is the year’s [best-performing asset](https://in.reuters.com/article/metals-precious-gold/pandemic-to-sustain-golds-blockbuster-rally-reuters-poll-idINKCN24M17V). Prices [topped](https://in.reuters.com/article/india-gold-prices/india-gold-prices-hit-all-time-high-dampens-retail-demand-idINKCN24N0GW) Rs 50,000 (US$670) for the first time ever on Wednesday.
+However, ironically, the same high prices have hit demand for jewellery, forcing some jewellers to [the brink](https://timesofindia.indiatimes.com/city/ahmedabad/gold-price-touches-all-time-high/articleshow/77095833.cms).
+|
+|
+Subscribe to BFO to read the full edition
+Get BFO delivered to your inbox every weekday and access all editions, both new and old.
+Choose from the following options
+|
+Monthly Subscription
+Complete access to all editions of BFO
+Rs. 99 or $4
+|
+|
+With The Nutgraf
+Complete access to BFO and The Nutgraf
+Rs. 198 or $4
+|
+|
+|
+Questions? Get answers [here](https://the-ken.com/bfo/2/#newsletter-faq-section)
+|
+Beyond The First Order is a paid, daily newsletter that analyses the complex second and third order effects thrown into motion because of Covid-19 across India and Southeast Asia. This newsletter is published by [The Ken](https://the-ken.com/?utm_source=footer&utm_medium=email&utm_campaign=btfo)—a digital, subscription-driven publication focussing on technology, business, science and healthcare
+|
+Want to unsubscribe from our paid daily newsletter, Beyond The First Order? Click [here](https://link.the-ken.com/asm/unsubscribe/?user_id=2349339&data=T7QDCP71N-7U5FCWpsC_MvAkDgqn4IJP4HQ4kD3Wfp1fsDQ_wbQ53QgpPwnN4_4ceea-l5qRYsiGI9cZ7HvtjpgSfhYKncZeisNfLMy92QiVAngAsLSWcwd_D0Jfesug-lIoSsCVsnzevQ3JneuAw4WppIZnXrJr216gl8MTo9fYtigE0KhFwHtNXoqUgUtg0lqHUJ1cSV9ZEvcHxkuhHd1yfquWg1moITOrboXMthIC2hyNK9XTF_vFtwLqH8ObfpiR9xoIo3B3em_UeuG1cFeCc-CjOY0wGyypFlpv3r4INQbafobwkSWCnbEYK_Uqofdz3jAaapYtgiQsWVY9CjrtnUYdQsXw1ZnZFgazeqnjnKFkdvL2-H-a60XuXbdTiJdbCGb7EF9AHt60numuZHmfqttR3s-wVPfkZ8pPXqr3jkBMr6xJkrGre_ECW41Sc00E3Cf6qCAcDCb3QSejRYBEwRUkjJcPpOrp0mzTMIUbomibUm8qOI3BcCDlcIEv4kObLKAEqsTH59FUKojmxIUWuCDPWiWUa175jacoPJL8DiGsELH8o9W0ccuxigtg). Or set your email preferences [here](https://link.the-ken.com/asm/?user_id=2349339&data=-JWrx2_QFFMHmGag_1dgAHSMgoWMi40Ki0Iud_F4ay8Rmo92jdygjRHduXp4KUHnpBOuXHLGUEVKZW625tGAavSzISvWkdNuekdU_RQh6w7Z6XRaD5c72yj4G-1y2NwzYPLR3--wuKZ7_cITiwEPvKSHNQGQk5SmUOzjV7M3xjBwQ4Hslo3W8Nx-FoxwvU75bGQS85YAfy5h9yCstcP62H6D_w15hVxt4FQilVUVN8QpA6l0oUSY6BAHR4JEPZBqkMdTKO7ylUrxHlXnJgaheovk3N4Ihkp7GVqCu4aVFyfBSEoKq2J1Qbuqwmts0w_QhRf9hSKYzdsb-1bb8UPPCIOujVO6FfEMVavWxyiMOLAwDhNRv1lmP0sg6jf1rIsdVvbBEUYkSwF6MfJ6ZkPrf2U2JgBaW2OPW_zX56xYWMzgZ2YNVBaqxNhmMvCkRwayJml3FIei5ltaclkxmpa5XWQC4_IJoswFMrib4LCuMTyju5BVitNCwXdt8uEARZxxPgVh187D7u9DO7s923D2QWGcJ9V2MPXmbWQDfu3MuOoH1PgO9O8_8cU4LSHyXsco)
+© 2020 The Ken
+|
+|
+|
+|
+|

@@ -1,0 +1,12 @@
+---
+subject: "Wednesday assorted links"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2025-12-17 16:58:18
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+1. [A listener ranks CWT episodes from this year](http://marginalrevolution.com?action=user_content_redirect&uuid=3cd21921860c4011a31577f1843e9896ce771b481a9afc90839052127e7df096&blog_id=42693868&post_id=92055&user_id=262258391&subs_id=225460721&signature=efb3459c5213cadeaebe111d458654a5&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly9za2VwdGljYWxjbGFyaXR5LnN1YnN0YWNrLmNvbS9wL3RoZS10b3AtNS1jb252ZXJzYXRpb25zLXdpdGgtdHlsZXI&email_id=b5b4d75ef68704c0cd660512115b866a).
+2. [A game-theoretic model of AI arms races](http://marginalrevolution.com?action=user_content_redirect&uuid=94ac46bb54fd1abfd1ddc0981d654fde0328996830ea836fb9e027637a1a74f8&blog_id=42693868&post_id=92055&user_id=262258391&subs_id=225460721&signature=e346d64e51c3f3b202a838a4fdd2fc80&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly9hcnhpdi5vcmcvYWJzLzI1MTIuMDc1MjY&email_id=b5b4d75ef68704c0cd660512115b866a).
+5. [The economics of Jeffrey Epstein](http://marginalrevolution.com?action=user_content_redirect&uuid=244e6d392aecc689cb982cc78037846788005a3154e98f93d1e63dbe0ce373f3&blog_id=42693868&post_id=92055&user_id=262258391&subs_id=225460721&signature=af61808b00d8725c44414c2e97b57603&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly93d3cubnl0aW1lcy5jb20vMjAyNS8xMi8xNi9tYWdhemluZS9qZWZmcmV5LWVwc3RlaW4tbW9uZXktc2NhbXMtaW52ZXN0aWdhdGlvbi5odG1s&email_id=b5b4d75ef68704c0cd660512115b866a) (NYT).
+6. "The US Tech Force is recruiting an elite corps of engineers to build the next generation of government technology." [Here is the web site](http://marginalrevolution.com?action=user_content_redirect&uuid=2ddc170808e89e40ffbdba6481429aa410e69aaf30b8304363916d8a82f1507f&blog_id=42693868&post_id=92055&user_id=262258391&subs_id=225460721&signature=6acc8ca9d1ec247d6464912683283e7c&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly90ZWNoZm9yY2UuZ292Lw=&email_id=b5b4d75ef68704c0cd660512115b866a).

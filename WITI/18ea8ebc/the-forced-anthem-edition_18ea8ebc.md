@@ -1,0 +1,10 @@
+---
+subject: "The Forced Anthem Edition"
+from: "\"Why is this interesting?\" <whyisthisinteresting@substack.com>"
+to: ""
+date: 2024-04-04 11:43:09
+labels: ["CATEGORY_PERSONAL", "INBOX", "UNREAD", "WITI"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "UNREAD", "Label_5752899537867939131"]
+---
+Louis here. The most revealing, memorable scene in The scene, which made headlines when it came out, shows head coach Mikel Arteta preparing his players for an away game at Liverpool’s imposing home stadium, Anfield, in an unusual way. Specifically, he blasts Liverpool's 61-year-old anthem, “You’ll Never Walk Alone”, over Arsenal’s’ training ground speakers for the entire week that his players are preparing for the match. The intensity of that anthem, belted passionately by more than 60,000 fans throughout every Liverpool home game, is the main thing opposition players talk about when they look back on their own intimidating Anfield experiences. By getting his players used to hearing it, Arteta hoped Liverpool’s crowd would have less of a psychological impact during the match. Why is this interesting? Because later that same season, the Arsenal manager decided to go one further, and copy the formula entirely. “ “I’ve been searching for many months for a song, an anthem before kick-off,” Arteta says, in a His motivation makes sense: in twenty years, young fans who came up hearing the song before games will sing it with as much belief and historic association as Liverpool supporters sing “You’ll Never Walk Alone” at Anfield. But until that point, rival fans have been pointing out that something about the whole procedure feels forced—because it is. Unlike most anthems, which originate naturally in the stands, this one is being piped into the stadium at the manager’s request, whether the home fans like it or not. Right now, Arsenal fans are in a funny limbo as they grow, month by month, to accept this anthem as their own. But in 30 years, once it’s a tradition with some history attached, will anyone remember these growing pains? (LC) — Thanks for reading, Noah (NRB) & Colin (CJN) —
+You're currently a free subscriber to |

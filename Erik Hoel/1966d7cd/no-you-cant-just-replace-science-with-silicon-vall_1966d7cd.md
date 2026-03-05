@@ -1,0 +1,10 @@
+---
+subject: "No, you can't just replace science with Silicon Valley"
+from: "Erik Hoel <erikhoel@substack.com>"
+to: ""
+date: 2025-04-25 15:04:07
+labels: ["CATEGORY_PERSONAL", "Erik Hoel", "INBOX", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "Label_2504961760700514996", "INBOX", "UNREAD"]
+---
+New directives from on high, shouted from a governmental megaphone at scientists, might not be so bad if they were clear. But since they are very much unclear, there is a new mood among my fellow scientists: paranoia. I don’t remember this ever happening before. The director of the National Science Foundation—which, for all major scientific fields, except biology/medicine, is the main federal funder of basic research—resigned To litigate all that led to this, politically, would take a book. The stated reason for the cuts to science is obvious, best seen in the fight between the Thus, the unstated reason is worth examining. If you criticize academia as a sclerotic and ailing institution, then you are a doctor, and should be seeking cures. If you view ideological creep within science as cancer, then the goal is to kill the cancer and keep the patient. Yet, there’s a new nihilism based on the idea that academia is entirely corrupt. And things entirely corrupt are not worth saving. It’s a view only possible if an alternative is available. Academia houses the crown jewel of science. If academia is not to be saved, where does science go? A possible hint comes from the current Science Advisor to the President: Of course, I don’t know what Trump or Kratsios personally believes. But I do think that the nihilistic view of academia, at least more nebulously at a cultural level, is fed by a whisper: Why not just do a little swap? Why not trade all those pompous ivy-covered campuses for something slicker and less janky? Why not take the crown jewel of science and box it up in a package white and molded, like an Apple product?... Keep reading with a 7-day free trialSubscribe to The Intrinsic Perspective to keep reading this post and get 7 days of free access to the full post archives. A subscription gets you:
+|

@@ -1,0 +1,20 @@
+---
+subject: "How Tata Consumer’s Sunil D’Souza put product launches on steroids"
+from: "The Ken <info@the-ken.com>"
+to: ""
+date: 2023-08-16 02:38:54
+labels: ["CATEGORY_PERSONAL", "INBOX", "The Ken", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_8244464457792971031", "UNREAD"]
+---
+Good Morning Ishan,
+For a group as large as the steel-to-software conglomerate Tata Group, it had a weak consumer goods game.
+The company sidestepped major fast-moving consumer goods (FMCG) players such as Hindustan Unilever and largely stuck to selling essentials: salt, spices and pulses through Tata Chemicals Ltd and tea, coffee, and water via Tata Global Beverages Ltd.
+But that changed in 2019 when the group merged the former’s foods business with the latter to create Tata Consumer Products. Sunil D’Souza, a career FMCG executive, was tasked with the daunting prospect of taking over as chief executive and managing director (MD) of the newly-formed company in April 2020.
+Since then, Tata Consumer Products has significantly scaled its product-launching efforts. It introduced 34 products in the most recent financial year–a mighty jump from the 10 it brought to market in the year ended March 2020 (the one before D’Souza’s appointment). What’s more, the contribution of new products to the topline has seen a marked rise too.
+A key reason for this is the appointment of “innovation managers” across categories. The company also drastically reduced the time it took to launch products. “When you are #10 or #15 coming into a category, you have to think disruptive,” said D’Souza.
+Unsurprisingly, Tata Consumer’s shares have more than tripled during D’Souza’s tenure. The Nifty FMCG index has less than doubled in the same period. In an insightful interview, D’Souza talks to Seetharaman about what it takes to become an FMCG company to be reckoned with. Read here: [https://the-ken.com/story/how-tata-consumers-sunil-dsouza-put-product-launches-on-steroids/](https://the-ken.com/story/how-tata-consumers-sunil-dsouza-put-product-launches-on-steroids/?utm_source=daily_story&utm_medium=email&utm_campaign=daily_newsletter) (9-minute read)
+Regards,
+Arundhati
+[arundhati@the-ken.com](mailto:arundhati@the-ken.com)
+What you just read is the personalised daily introduction to The Ken's story. Written by a different person each day. Often insightful, sometimes witty, and very rarely boring. Someone sent this to you? [Sign up for free](https://the-ken.com/?modal=register&utm_source=footer&utm_medium=email&utm_campaign=morning_email_ind_shared). [Dont like these? You can unsubscribe](https://link.the-ken.com/asm/unsubscribe/?user_id=2349339&data=mjFE9EIrb7GU-zlVcjueOKEW99PKzoLrq_WB_xeVKG9oMDAwdTAwMAVXAIBTdSfDrBeTEy6VgGNEOGiPltw0sbD7H5l8qiRvul6DvKcugFpO18X1ZOadtSyTcgSeOZ9pvzq-4PrmED34HaSlZxdemAmEtU0FHvq7OOMJDEEUF9cvyCOqtZa5bjTRr8fMsfo8fhWyp6HUQEbyvcuLUCKUeulLMP-gfCVC5qEe6r8yY5qwjEj1Jr2f6XNT50Zvi7Tic-uZle3OP9SC-hmiUGp2m1hMr78Y_lg_gkB2-3U-y5-BNbbCEFDoGBIQiDax_5A4q40t95IyI8kH4icdsns4Hrn-XmNqCR3B8bw5S8iCRRe9cVLvdWSe58iBxOjN5oUMpMV98e-813X5aVTLJzHb4KG3JFXTOif1UNOz4OkTDWd7-5jrhbmjpP26PnhGpezdHS0J8ZUx3p1LFMDXnJokohr5roEIvG13iINiHWeNjKRXlyfytm5tDziW1A-ZVKWZqWl54hD9Ax2uyw_aE3muFrSCfHnFCcksYaSe3pohfef3foKJg1Z8T52YoaTkzfurB7pwptvLpV8=) Dont want to hear from us again? [ Unsubscribe from our emails here](https://link.the-ken.com/asm/?user_id=2349339&data=VzoV2givjRFUm-Pe8nL5CyrTjw4JYCv6Bv9b_DLtUd9oMDAwdTAwMIgZ7_rSAZjlANUkXzi8sBvyzZxf2Q2cYVCbjVLjBPZkdu5Ufw1TT4OgUruiOlRLiZGH1xSKxB2rOmBcsFhnHQRkHuMmRVBd25Ni177eiBKkJy6m8f4rKoDaLiNLtfqIeigGXQ8bnGQ7N494T45kR-KiC9hr_oUXErvyeaX1iY2bSY9-VDmHnezTgcwgKB8THLuz80bzMB0QzR6kBvgfYzgHtmGhUoJZbxiRjjeq4W9tzPLlI5PzTNII_yG6_eLUkmd7FWmiSBcryY7fCsL6j8I6ZbTyb-uhPE3d-VChmH8qqZbMilK7qDNhaAhXfJkkBZwmvqeN7B5FQa1NqgtC53VfmTAbbZmaEmfZozlzpfhUTmf6iJQRdtXpbQHNf2SRTWponKqkqZLCa9z5VG7ots616PxeL56uvvGuVeldwmE6RxnrpssRuZIdb9m8R-_Hfti6J8yHYn9R0Z9-wFXNvCidThK1XMEMh79LQYMgVcq3JkfIqHnIlQ5gjYJtHtO-ZA==).
+Something wrong? Tell us at [support@the-ken.com](mailto:support@the-ken.com)

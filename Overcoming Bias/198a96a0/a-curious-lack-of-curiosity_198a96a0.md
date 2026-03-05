@@ -1,0 +1,9 @@
+---
+subject: "A Curious Lack of Curiosity"
+from: "Robin Hanson from Overcoming Bias <overcomingbias@substack.com>"
+to: ""
+date: 2025-08-14 16:28:52
+labels: ["CATEGORY_PERSONAL", "INBOX", "Overcoming Bias", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_8616244883382228708", "UNREAD"]
+---
+Four and five year olds famously often ask many concrete questions about the world around them. Like “What’s inside a snake?” They also tend to have at least a rough idea how they might try to answer such questions for themselves, if they had to, instead of asking adults. Like cut the snake open. However, if I, as a professor, ask high school or college students, “What are questions where you want to know the answer?”, I usually get answers like “law” or “chemistry”, large topic categories instead of more specific answerable questions. They still don’t know what is inside a snake, but are no longer interested in that. If I ask them how they might try to answer a more specific question for themselves, instead of looking it up, they have few ideas. They plan to learn stuff mostly by taking more classes, or by watching random Youtube videos, or maybe today asking a LLM. As I’ve gotten older, I’ve slowly realized just how much I don’t know, and I have accumulated more questions where I’d like to know the answers. And I’ve accumulated more ways to answer questions for myself, instead of looking them up. Furthermore, I actually organize my life around trying to find more important neglected questions, and to personally try to help answer them. Yes, I’m weird. But even for me, it has taken most of my life to reach a state where my stance toward abstract questions is somewhat like that of a five year old toward their concrete questions. Somehow we lose our curiosity, and have to fight to get it back. You're currently a free subscriber to |

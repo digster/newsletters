@@ -1,0 +1,104 @@
+---
+subject: "A Relationship Cheat Code, How to Live Longer, & More"
+from: "\"Sahil Bloom's Curiosity Chronicle\" <sahil@sahilbloom.com>"
+to: ""
+date: 2025-01-17 14:04:12
+labels: ["CATEGORY_PERSONAL", "INBOX", "Sahil Bloom", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_1989028747625928812", "UNREAD"]
+---
+How to Live Longer, Relationship Hacks, & More
+read and listen on [sahilbloom.com](https://click.convertkit-mail4.com/zluq9ee70xsnhk47w79b4fwv95g00s6/z2hghnh3zwvo26sp/aHR0cHM6Ly93d3cuc2FoaWxibG9vbS5jb20vbmV3c2xldHRlci9ob3ctdG8tbGl2ZS1sb25nZXItcmVsYXRpb25zaGlwLWhhY2tzLW1vcmU=)
+read time 4 minutes
+Here are 5 interesting ideas to spark your curiosity heading into the weekend.
+I just found out my book has a temporary big 30% sale on Amazon. If you already preordered, the discount will be automatically applied when it ships in two weeks. If you haven't preordered yet, now is a great time to take advantage.
+P.S. It's already the Top New Release in Happiness category!
+Today at a Glance:
+- Question: Holding onto something
+- Quote: Conditional success
+- Framework: Helped, heard, or hugged
+- Study: Read more, live longer
+- Video: Environment is everything
+|
+Check out my favorite AI newsletter, The Rundown
+Start learning AI in 2025
+Everyone talks about AI, but no one has the time to learn it. So, we found the easiest way to learn AI in as little time as possible: [The Rundown AI.](https://click.convertkit-mail4.com/zluq9ee70xsnhk47w79b4fwv95g00s6/9qhzhnhp89mgoki9/aHR0cHM6Ly9raXRhZHMubGluay8xMjI1MjQtODkzMjU4L2lzaGFuLm1haWxAZ21haWwuY29t)
+It's a free AI newsletter that keeps you up-to-date on the latest AI news, and teaches you how to apply it in just 5 minutes a day.
+Plus, complete the quiz after signing up and they’ll recommend the best AI tools, guides, and courses – tailored to your needs.
+|
+Question I'm asking myself:
+Are you holding onto something that you no longer need?
+Here's a story that I love:
+A man on a long journey comes to a wide, rushing river blocking his path. With no way around it and no bridge in sight, he chops down a tree and uses the wood to build a small boat. The boat is remarkably sturdy, and the man is able to navigate across the river safely.
+Before walking on to continue his journey, the man has a thought:
+"What if I come across more rushing rivers that I need to cross? This boat will really come in handy."
+So he attaches the small boat to a pair of straps and begins to walk, dragging the boat behind him, just in case it becomes useful later in the journey.
+After an hour, he has made little progress and finds himself exhausted, as dragging the heavy boat through the bumpy terrain is very difficult.
+It becomes clear: Holding onto the boat beyond the river was a mistake.
+This is a metaphor for life:
+Throughout our own journey, we build "boats" to navigate the various rushing rivers that we encounter. These boats help us, even save us, in those moments.
+But sometimes, we choose to hold onto those boats far beyond the banks of the river, far beyond their usefulness to our life.
+We worry about future rivers, and about our ability to build similar boats, so we cling to the old out of fear of our inability to build something new.
+But when you hold onto something you no longer need, you are holding yourself back from becoming the person you are meant to be.
+What boats are you still holding onto? What tools, habits, experiences, relationships, or mindsets served you once, but no longer provide value in your current terrain?
+Trust in your ability to adapt, to build a new boat. Move forward at full speed.
+Quote on conditional success:
+"Don't wait to be successful at some future point. Have a successful relationship with the present moment and be fully present in whatever you are doing. That is success." - Eckhart Tolle
+If you always make your success conditional on some future achievement, you will never feel successful.
+([Share this on X/Twitter!](https://click.convertkit-mail4.com/zluq9ee70xsnhk47w79b4fwv95g00s6/48hvhehr3ge049hx/aHR0cHM6Ly90d2l0dGVyLmNvbS9pbnRlbnQvdHdlZXQ_dGV4dD0lMjJEb24lMjd0JTIwd2FpdCUyMHRvJTIwYmUlMjBzdWNjZXNzZnVsJTIwYXQlMjBzb21lJTIwZnV0dXJlJTIwcG9pbnQuJTIwSGF2ZSUyMGElMjBzdWNjZXNzZnVsJTIwcmVsYXRpb25zaGlwJTIwd2l0aCUyMHRoZSUyMHByZXNlbnQlMjBtb21lbnQlMjBhbmQlMjBiZSUyMGZ1bGx5JTIwcHJlc2VudCUyMGluJTIwd2hhdGV2ZXIlMjB5b3UlMjBhcmUlMjBkb2luZy4lMjBUaGF0JTIwaXMlMjBzdWNjZXNzLiUyMiUyMC0lMjBFY2toYXJ0JTIwVG9sbGUlMEElMEFJZiUyMHlvdXIlMjBzdWNjZXNzJTIwaXMlMjBjb25kaXRpb25hbCUyMG9uJTIwZnV0dXJlJTIwYWNoaWV2ZW1lbnQlMkMlMjB5b3UlMjdsbCUyMG5ldmVyJTIwaGF2ZSUyMGl0LiUwQSUwQS0lMjAlNDBTYWhpbEJsb29t))
+Framework to improve relationships:
+The Helped, Heard, or Hugged Method
+Confession: I’m a fixer.
+When people come to me with a problem, I try to fix it.
+This is (mostly) good in a professional context, but when you bring this natural bias into your personal relationships, the results can be decidedly mixed.
+Over the years, my Mr. Fix It mentality created a lot of tense moments with my wife, family, and friends. They'd come to me with a problem and my analytical brain would start firing, deconstructing the problem and its various potential solutions.
+I always found it puzzling that the other person would often reject my solutions and withdraw (or even get angry with me for offering them).
+It took me years to realize: I was showing up in the way that was natural for me, not in the way that they needed.
+Sometimes people don’t want a solution, they just want you to be there with them. The Helped, Heard, or Hugged Method is a useful tool of therapists, counselors, and teachers which creates awareness of what the other person needs from you in the situation.
+When someone you love comes to you with a problem, you ask:
+“Do you want to be Helped, Heard, or Hugged?”
+- Helped: Deconstruct the problem and identify solutions.
+- Heard: Listen intently and allow the other person to vent.
+- Hugged: Provide comforting touch.
+This awareness snaps me out of my fixer default setting. Rather than showing up for loved ones in the way that’s natural for me, I can meet others in the way that’s best suited for them.
+Note: Specifically asking “Do you want to be helped, heard, or hugged?” can be helpful at first, but after a while, a recognizable pattern should emerge.
+If you’ve ever struggled to identify what your partner, friend, or family member needed in a situation, give the Helped, Heard, or Hugged Method a shot.
+This is an excerpt derived from the Social Wealth section of my upcoming book, The 5 Types of Wealth. Each section ends with a guide filled with proven systems for building that type of wealth into your life. This excerpt is one of ~50 actionable systems in the book. You can have it in your hands in two weeks.
+Study I'm paying attention to:
+This [Yale University study](https://click.convertkit-mail4.com/zluq9ee70xsnhk47w79b4fwv95g00s6/wnh2hghwdgprevs7/aHR0cHM6Ly9wbWMubmNiaS5ubG0ubmloLmdvdi9hcnRpY2xlcy9QTUM1MTA1NjA3LyM6fjp0ZXh0PUElMjAyMCUyNSUyMHJlZHVjdGlvbiUyMGluJTIwbW9ydGFsaXR5LHN1cnZpdmFsJTIwYWR2YW50YWdlJTIwdGhhbiUyMHJlYWRpbmclMjBwZXJpb2RpY2Fscy4=) found that people who read books had a 20% reduction in all-cause mortality vs. non-book readers, even when controlling for factors such as education, wealth, marital status, and more.
+The researchers proposed that the act of reading books created a cognitive engagement that was a beneficial to healthy aging and survival.
+Interestingly, the benefit of books far surpassed the benefit of other reading materials (magazines, newspapers), which the researchers believe is driven by the more immersive nature of the book reading experience.
+My net takeaway: Read books, live longer.
+Video on the power of environment:
+This is a [neat video](https://click.convertkit-mail4.com/zluq9ee70xsnhk47w79b4fwv95g00s6/reh8hoh0pxrqgec2/aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g_dj1rTzFrZ2wwcC1Idw==) that exhibits the importance of the people you surround yourself with in determining your outcomes.
+- A participant is asked to shoot a basketball. She misses over and over again.
+- She is asked to continue shooting, but with a blindfold on. A group of bystanders cheer after she shoots (to convince her that she made the shots, even though she didn't).
+- They take the blindfold off and she continues shooting, but actually starts making several shots, including a few in a row.
+The positive, supportive environment seemed to improve her own confidence and ability to perform the task.
+There is scientific evidence that the people you surround yourself with determine your outcomes. The Pygmalion Effect says that we rise to the level of expectations that people have for us. Surround yourself with people who believe you are capable, who encourage you to think bigger, and you will rise to the level of those expectations.
+Pay close attention to who you allow into your environment, for your environment creates your reality.
+In Case You Missed It:
+In [Wednesday's issue](https://click.convertkit-mail4.com/zluq9ee70xsnhk47w79b4fwv95g00s6/08hwh9hd4z5m37ul/aHR0cHM6Ly93d3cuc2FoaWxibG9vbS5jb20vbmV3c2xldHRlci9hLW1vbnRobHktcml0dWFsLXRoYXQtY2hhbmdlZC1teS1saWZl), I shared a monthly ritual that changed my life: The Think Day.
+Each month, I take a few hours to zoom out from my normal routines. It is a time for thinking and reflecting on some of the bigger picture questions in my life.
+5 question prompts I use to guide the reflection process:
+- If I repeated my current typical day for one hundred days, would my life be better or worse?
+- If someone observed my actions for a week, what would they say my priorities are?
+- If I were the main character in a movie of my life, what would the audience be screaming at me to do right now?
+- Am I hunting antelope or chasing field mice?
+- What are my strongest beliefs and what would it take for me to change my mind on them?
+Try it this month and let me know what you think.
+Order My First Book for More Systems Like This!
+The 5 Types of Wealth is filled with actionable tools to define, measure, and design your life around the pillars that truly create lasting happiness and fulfillment.
+Each section, one for each type of wealth, has a guide with the proven or science-backed systems for building that type of wealth in your life. There are ~50 total systems in the book (Helped, Heard, or Hugged is just one of them!).
+For just two more weeks, you can unlock exclusive preorder bonuses:
+- 1 Book: Access to the digital community, where you can interact with me and others on the same journey; Ticket to a live virtual launch party; Companion video series with breakdowns of strategies to start building each type of wealth today.
+- 2 Books: All of the above, plus access to exclusive monthly video office hours with me.
+- 10 Books: All of the above, plus a 1-on-1 15-minute coaching call with me. Limited spots available!
+Sahil's Recommendation Zone
+Perfect your morning routine with my partner[ AG1](https://click.convertkit-mail4.com/zluq9ee70xsnhk47w79b4fwv95g00s6/l2hehmh3pr9o8ls6/aHR0cDovL2RyaW5rYWcxLmNvbS9zYWhpbA==):
+I get asked about my morning routine all the time. It changes from time to time, but [AG1](https://click.convertkit-mail4.com/zluq9ee70xsnhk47w79b4fwv95g00s6/l2hehmh3pr9o8ls6/aHR0cDovL2RyaW5rYWcxLmNvbS9zYWhpbA==) has been the one constant since 2011. I drink it with a big glass of water every single morning to start my day on a positive tone.
+It replaced an entire cabinet of supplements for me in one daily scoop—seriously, its latest iteration covers a multivitamin, multi-mineral, prebiotics, probiotics, adaptogens, greens, and more. It keeps me feeling healthy and strong throughout the year, even when I'm traveling (thanks to the travel packs).
+AG1 is offering Curiosity Chronicle subscribers an exclusive deal: [a free 1-year supply of liquid vitamin D plus 5 travel packs with your subscription purchase](https://click.convertkit-mail4.com/zluq9ee70xsnhk47w79b4fwv95g00s6/l2hehmh3pr9o8ls6/aHR0cDovL2RyaW5rYWcxLmNvbS9zYWhpbA==). Take advantage of it!
+Sahil Bloom
+|
+|
+|

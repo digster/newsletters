@@ -1,0 +1,11 @@
+---
+subject: "Polarization, purpose and profit"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2025-09-14 06:58:35
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+Or a theory of how Silicon Valley once was? Or maybe still is? I am not sure!
+We present a model in which firms compete for workers who value nonpecuniary job attributes, such as purpose, sustainability, political stances, or working conditions. Firms adopt production technologies that enable them to offer jobs with varying levels of these desirable attributes. Firms’ profits are higher when they cater to workers with extreme preferences. In a competitive assignment equilibrium, firms become polarized and not only reflect but also amplify the polarized preferences of the general population. More polarized sectors exhibit higher profits, lower average wages, and a reduced labor share of value added. Sustainable investing amplifies firm polarization.
+That is from [a recent paper](http://marginalrevolution.com?action=user_content_redirect&uuid=9cd9e8cceb766919e2d167d86ff76cc94f004edd068b3d73c46ec37b5605aa9f&blog_id=42693868&post_id=91489&user_id=262258391&subs_id=225460721&signature=6c76ff983d91067156e721d16cb0adcf&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly93d3cuc2NpZW5jZWRpcmVjdC5jb20vc2NpZW5jZS9hcnRpY2xlL3BpaS9TMDMwNDQwNVgyNTAwMTU1Mg=&email_id=703abb7ff9114910b8b42d6ee6fd0087) by Daniel Ferreira and Radoslawaa Nikolowa. Via the excellent [Kevin Lewis](http://marginalrevolution.com?action=user_content_redirect&uuid=538dc4d9d4f414432d29a1727944f280b684f38a6367a8a90244bd8b47a7fefa&blog_id=42693868&post_id=91489&user_id=262258391&subs_id=225460721&signature=d94e316c45244b6c2ecb6da292483f0e&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly93d3cubmF0aW9uYWxhZmZhaXJzLmNvbS9ibG9nL2RldGFpbC9maW5kaW5ncy1hLWRhaWx5LXJvdW5kdXAvYmFsYW5jZS1vZi1wb3dlcnM&email_id=703abb7ff9114910b8b42d6ee6fd0087).

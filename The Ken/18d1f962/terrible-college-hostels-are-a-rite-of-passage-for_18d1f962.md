@@ -1,0 +1,21 @@
+---
+subject: "Terrible college hostels are a rite of passage for Indians. That’s changing now"
+from: "The Ken <info@the-ken.com>"
+to: ""
+date: 2024-01-19 02:39:10
+labels: ["CATEGORY_PERSONAL", "INBOX", "The Ken"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_8244464457792971031"]
+---
+Good Morning Ishan,
+Cars, clothes, homes, holidays, you name it—India’s affluent and perhaps the not-so-affluent, too, seem to want all things ‘premium’.
+This premiumisation wave has hit an unlikely shore, reports Alifiya. One that’s long been associated with ramshackle rooms and inedible food. Terrible college hostels have been a rite of passage for innumerable Indians. That’s changing now, and how.
+Say hello to student housing with air-conditioned rooms, multi-cuisine meals, housekeeping, gym, pool tables, and the works. Well-to-do parents want nothing but the best for their darling children who leave home for higher education. They see no romanticism in tough living conditions that make one tougher.
+Add to this brew a massive shortage of rooms across Indian campuses—about 3.5 million. Plus, colleges and universities that want to stay away from non-core stuff like student housing.
+Voila! There’s a huge business opportunity for student-housing companies. October saw the largest deal in this sector in India, and psst!… a massive acquisition is on the cards. Action is heating up both on-campus and off-campus for PBSA, which is short for purpose-built student accommodation.
+Demand is great. Yet the space is not for the faint-hearted. Crash rates are high. What gives? Let’s just say students can be fickle, and the business models have flaws and challenges galore. Click the link to read this deeply reported story. It’s a free read: [https://the-ken.com/story/terrible-college-hostels-are-a-rite-of-passage-for-indians-thats-changing-now/](https://the-ken.com/story/terrible-college-hostels-are-a-rite-of-passage-for-indians-thats-changing-now/?utm_source=daily_story&utm_medium=email&utm_campaign=daily_newsletter) (9-minute read)
+Regards,
+Anand
+[anand@the-ken.com](mailto:anand@the-ken.com)
+P.S: If you are a recruiter experienced in B-school campus hiring, we want to hear from you. What recruiters want is a question on almost every student’s mind, but one they know very little about. The findings of this survey will be published on 23 January in the eighth edition of Day Zero, The Ken’s weekly newsletter about this year’s high-stakes B-school placement season. Take the survey [here](https://theken.typeform.com/MBArecruiters).
+What you just read is the personalised daily introduction to The Ken's story. Written by a different person each day. Often insightful, sometimes witty, and very rarely boring. Someone sent this to you? [Sign up for free](https://the-ken.com/?modal=register&utm_source=footer&utm_medium=email&utm_campaign=morning_email_ind_shared). [Dont like these? You can unsubscribe](https://link.the-ken.com/asm/unsubscribe/?user_id=2349339&data=kkJKwbgqbuFNQGdy___Wh6Z0gz4YpyaULIYG8EL2a9doMDAwdTAwMHpmffsf69Y8kO6bZelPMA98lc7ThbqJraeeCSvSjiKG7xemtMvm4zcVhiShkuOSXPxWggaxvV83NUd2hdhCnHd0hq_mV7bFGzkHidWTeKepPvRveEqS2UAi0BbqBcLA_LpL3Gfg1wLo2tXBNV1NbzQrTHp56Gg2NaTDI9GC4p-oPDRNn_vIVdDoOjb_gU-bZLljf_o5sj5Koao0AAlWOtSxzvVdq5kjwymF8gtHblrOAhZn1seBiL6WeNbAKrcpJEFs_PqMFokkrNw4qirQ-B8vG54d6aURRBolWZvDRXEA8bB7ABPberhw2os9-lc5UelzdkuylZtWU7FqVvULdvxMmyAlTf_LiAG4b4EZHZAF-l8VAaLSKb_0ytqztN6raK3qk_hKVbQj_yxRj0F_Wj4JexHJjxkMaJRCARLD12RaNLVsTT6mce9NPNNN2mnhqCvRyzrqtQwWKQv1pfZuxxcoWYvySykQv6vlDfZYvbmInzFVtLgUizVHGDeA05Z0SoAIsNIM7PY7EKatIt-rrg4=) Dont want to hear from us again? [ Unsubscribe from our emails here](https://link.the-ken.com/asm/?user_id=2349339&data=Gu1I1HnpzBcxzAtG_hYeU91OUdkPsWaXl6I5DBbvhKpoMDAwdTAwMFX9RRxxBP1Aiq36SnRhvIevwAMuktqV9gqWcbZMhWCoN_Jbvm0c3SNjnIlALoBDQd6qZQcehUCJ2a0X9WwP7jG2lCD71AP_F4x_47VEc__MrioWl0TWkFtK7VQg_8_3SrKSzwWgGb7LQATDTMWk_P4t2PzeMlCzJPm-HdCey0MamFPXzerrZhnWqsSTUrs_c05EpQnIJSmicb_Mo-AZSMI2bT-yQi8cKs5OEOVLUrhC3u1i9H-kP_Q5bGr-PNZmEfT_nPoCCFI8I732wbKUg6eUy4AsL6MsAMWi4PuX1iyATJGDV5G0FTpgVJGC9uY9bG8XIyTGlrq2cJln7NlNCZTlmcDM5d_JbObl3Ud1kXcBEBBhL71ogF4C7aGS6eIZ5iPRZFRTeoGWIMc0cCbxfdjUogJst-TyrX3qSYLuUAr2NLisSrCLImE1UBueLKfxbjxPFf4KgePYes51dUpoC1kKc5L-YSdP-DYqeCvT9Iiv0mg_nmiyWgfpNtrLXLrdNQ==).
+Something wrong? Tell us at [support@the-ken.com](mailto:support@the-ken.com)

@@ -1,0 +1,38 @@
+---
+subject: "why I am shorting Booz Allen"
+from: "Auren Hoffman of Five Links <auren@substack.com>"
+to: ""
+date: 2025-05-04 16:08:33
+labels: ["Auren Hoffman", "CATEGORY_PERSONAL", "INBOX", "UNREAD"]
+label_ids: ["Label_4260038268466989707", "CATEGORY_PERSONAL", "INBOX", "UNREAD"]
+---
+|
+I shorted Booz Allen on May 1 (priced at $118/share at the time). This is my write-up so the internets can critique and review. Absolutely none of this is investment advice.
+Booz Allen ([NYSE: BAH](https://substack.com/redirect/88a720ad-1a26-4fa4-b55e-4984b9eced2d?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) - see: [$BAH ](https://substack.com/redirect/3ac071e9-3b83-429f-b61a-607cdbf0cfe4?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) is the iconic services firm with 98% of their revenue coming from government customers. This is one of the many firms that have been preying on taxpayers and over-billing the government and building things the government does not need, over-budget, and massively delayed.
+This is not really Booz’s fault. The government customer has traditionally not understood software. Most of the people in IT leadership in government have never written even one line of code … and yet they are managing billions of dollars in IT budgets … so it is not a surprise that the money has been wasted.
+This bet is that the government is becoming a smarter customer. The bet is that the new people in government IT leadership are more technical and will be able to manage these giant projects better. The bet is that this will happen much faster than people expect and we will see IT government contracts in the tens of billions of dollars canceled in the next few months.
+Another reason that government hires all these IT contractors is that most government agencies are not allowed to hire and fire employees quickly. So they hire contractors that are 3-5 times the price because it is the only way to get flexibility and move quickly. The bet is that many of those outdated HR rules will be changing soon. As the government gets more flexible in how it hires and manages its people, it will rely on expensive contractors less.
+These government reforms are non-partisan. Everyone wants them to happen. The reason the spending has been out of control and the effectiveness of these outsourced IT engagements are so low are a product of the system. 100% of people want to make this better … but inertia has been a super strong force thus far. The bet here is that this is changing.
+Most of the government IT contracts that will be canceled in the next few months are in civilian (non-defense and non-IC) agencies. Only about a third of Booz’s revenue comes from civilian agencies (most comes from defense and IC), but the bet is that it is still significant. And the bet is that the cancellation of the defense and IC contracts is coming and should be known by September.
+The market believes some of this. The Booz stock sold off a decent amount (~9% YTD and ~18% over the past year). But earnings estimates have not come down much. 2025 and 2026 estimates really only started to come down a bit in April. P/E NTM is ~19% below its 5 year avg. Analysts still seem fairly bullish / neutral on the stock with target prices in the mid 130’s (the stock is currently at $118). So most people that follow the Booz stock think the downturn is already priced in.
+This bet is that the stock is overpriced.
+We should learn a lot at the next Booz earnings call (May 23) and the one after that (likely August).
+How confident am I? Not super confident.
+am betting $152k on it. Mainly wanted to put my money where my mouth is. And will tweet out if I close out the trade or reduce exposure or take profits.
+There are many ways to short the [$BAH ](https://substack.com/redirect/3ac071e9-3b83-429f-b61a-607cdbf0cfe4?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) . You can do a naked short (borrow costs are currently extremely low). You can buy puts. You can also do a more complex vertical put spread. See [spreadsheet with my full work](https://substack.com/redirect/a723d366-d7b4-4aca-b1b6-10e820944706?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) (HT: Rajal Patel from Flex Capital for putting most of this together).
+Note: am still long SP500 in my personal portfolio. So that is the guard against the market moving up dramatically and taking $BAH with it.
+Booz Allen biz model:
+✅ Overcharge the government
+✅ Deliver clunky software 5 year late
+✅ Blame bureaucrats who think Java is just coffee
+✅ Profit
+🤑🚀 [$BAH ](https://substack.com/redirect/3ac071e9-3b83-429f-b61a-607cdbf0cfe4?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+And special thank you to Rajal Patel at Flex Capital for much of the work on this.
+X of the week:
+if you like this article, please do three things:
+share it with someone you admire
+follow me (
+[@auren](https://substack.com/redirect/1c9a3693-979c-4de9-96c6-7f2b7097c073?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) on Xsubscribe to the “
+[World of DaaS](https://substack.com/redirect/cfd7c98a-6e4e-4c7f-b16f-5882e2105058?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)” podcast
+(if you hate this, please share with all your enemies)
+Hope you enjoy [Summation by Auren Hoffman](https://substack.com/redirect/2/eyJlIjoiaHR0cHM6Ly9hdXJlbi5zdWJzdGFjay5jb20_dXRtX2NhbXBhaWduPWVtYWlsLWhvbWUmcj04bzU0biIsInAiOjE2MjcwMDU0OSwicyI6NjU1MjAsImYiOnRydWUsInUiOjE0NTYzMzE5LCJpYXQiOjE3NDYzNzUwOTAsImV4cCI6MTc0ODk2NzA5MCwiaXNzIjoicHViLTAiLCJzdWIiOiJsaW5rLXJlZGlyZWN0In0.rNNDqBin06lqfdEF-87nyKUUezTy-sOTCKL-iQybPQo?). Please also follow [@auren](https://substack.com/redirect/1c9a3693-979c-4de9-96c6-7f2b7097c073?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) on X.

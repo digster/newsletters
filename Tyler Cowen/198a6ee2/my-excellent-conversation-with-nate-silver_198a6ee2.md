@@ -1,0 +1,27 @@
+---
+subject: "My excellent Conversation with Nate Silver"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2025-08-14 04:54:41
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+Here is [the audio, video, and transcript](http://marginalrevolution.com?action=user_content_redirect&uuid=e833bb53aa2bee7d33568308e844d70764210c8fa03eb3a116ee3f7688a078cc&blog_id=42693868&post_id=91289&user_id=262258391&subs_id=225460721&signature=09a19c8a28698f9b933484be438b395d&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly9jb252ZXJzYXRpb25zd2l0aHR5bGVyLmNvbS9lcGlzb2Rlcy9uYXRlLXNpbHZlci0zLw=&email_id=a69af3f490a0eb163818e8ebc5a9e660). Here is part of the episode summary:
+Tyler and Nate dive into expected utility theory and random Nash equilibria in poker, whether Silver’s tell-reading abilities transfer to real-world situations like NBA games, why academic writing has disappointed him, his move from atheism to agnosticism, the meta-rationality of risk-taking, electoral systems and their flaws, 2028 presidential candidates, why he thinks superforecasters will continue to outperform AI for the next decade, why more athletes haven’t come out as gay, redesigning the NBA, what mentors he needs now, the cultural and psychological peculiarities of Bay area intellectual communities, why Canada can’t win a Stanley Cup, the politics of immigration in Europe and America, what he’ll work on next, and more.
+Excerpt:
+COWEN: If you think about the Manifold types in terms of the framework in your book, how they think about risk — is there a common feature that they’re more risk-averse, or that they worry more? Is there a common feature that they like the idea that they hold some kind of secret knowledge that other people do not have? How do you classify them? They’re just high in openness, or what is it?
+SILVER: They’re high in openness to experience. I think they’re very high in conscientiousness.
+COWEN: Are they? I don’t know.
+SILVER: Some of them are. Some of them are, yes.
+COWEN: I think of them as high variance in conscientiousness, rather than high in it.
+[laughter]
+SILVER: The EAs and the rationalists are more high variance, I think. There can be a certain type of gullibility is one problem. I think, obviously, EA took a lot of hits for
+[Sam Bankman-Fried], but if anything, they probably should have taken more reputational damage. That was really bad, and there were a lot of signs of it, including his interviews with you and other people like that. It contrasts with poker players who have similar phenotypes but are much more suspicious and much more street smart.Also, the Bay Area is weird. I feel like the West Coast is diverging more from the rest of the country.
+COWEN: I agree.
+SILVER: It’s like a long way away. Just the mannerisms are different. You go to a small thing. You go to a house party in the Bay Area. There may not be very much wine, for example. In New York, if the host isn’t drinking, then it’d be considered sacrilege not to have plenty of booze at a party. Little things like that, little cultural norms. You go to Seattle — it feels like Canada to me almost, and so these things are diverging more.
+COWEN: Why is belief in doom correlated with practice of polyamory? And I think it is.
+SILVER: If you ask
+[Aella], I guess, she might say, if we’re all going to die or go to whatever singularity there is, we might as well have fun in the meantime. There’s some of that kind of hedonism. Although in general, it’s not a super hedonistic movement.COWEN: It seems too economistic to me. Even I, the economist — I don’t feel people think that economistically. There’s more likely some psychological predisposition toward both views.
+SILVER: I guess you could argue that society would be better organized in a more polyamorous relationship. People do it implicitly in a lot of ways anyway, including in the LGBTQ [laughs] community, which has different attitudes toward it potentially. and if there’s not as much childbearing, that can have an effect, potentially. I think it’s like they are not being constrained by their own society thing that is taken very seriously in that group. There’s enough disconnectedness and aloofness where they’re able to play it out in practice more.
+That creeps a little bit into Silicon Valley too, which can be much more whimsical and fanciful than the Wall Street types I know, for example.
+Recommended. Here is [my 2024 episode with Nate](http://marginalrevolution.com?action=user_content_redirect&uuid=d91631f09950bbf1c37a8c902592f04ce362632351c326accbc2eebed7de1e16&blog_id=42693868&post_id=91289&user_id=262258391&subs_id=225460721&signature=829b0e0fc23f534f501dd02773dc2037&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly9jb252ZXJzYXRpb25zd2l0aHR5bGVyLmNvbS9lcGlzb2Rlcy9uYXRlLXNpbHZlci0yLw=&email_id=a69af3f490a0eb163818e8ebc5a9e660), here is [my 2016 episode with him](http://marginalrevolution.com?action=user_content_redirect&uuid=f283e0633ec03406c49d06127ffa61129fa683e3d5f9d0c39905e2f80eed1fae&blog_id=42693868&post_id=91289&user_id=262258391&subs_id=225460721&signature=3279a5d789d2942d25f3c36301b0e658&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly9jb252ZXJzYXRpb25zd2l0aHR5bGVyLmNvbS9lcGlzb2Rlcy9uYXRlLXNpbHZlci8&email_id=a69af3f490a0eb163818e8ebc5a9e660).

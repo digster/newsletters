@@ -1,0 +1,37 @@
+---
+subject: "More To That: The riddle of rest ⛅️"
+from: "Lawrence Yeo <contact@moretothat.com>"
+to: ""
+date: 2025-09-26 14:32:13
+labels: ["CATEGORY_PERSONAL", "INBOX", "Lawrence Yeo"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_3631958563782906958"]
+---
+|
+Hey friends,
+Hello from Chongqing, China! I’m here on a family trip for the next week, where we’ll soon be embarking on a cruise across the Yangtze River. My dad has been wanting to do to this for decades, so I’m excited that we get to take him while he’s in great health. I’m reminded that life really does move fast, so don’t wait for an imagined future to do what matters now.
+While this week will be a period of rest, the interesting thing is that my days probably won’t seem that way. We’ll be moving from place to place, taking in all kinds of sights, having a bunch of conversations, and more. We often equate rest as a form of inactivity, but this week will be anything but that.
+So if rest isn’t about hitting the “pause” button on life, what is it? And how do you cultivate it in a world where you’re constantly valued by what you produce?
+I address these questions in a post I’m re-sharing with you today. It’s one I personally re-visit, as this topic is one I often wrestle with. So when you’re ready, let’s dive right in:
+[The Riddle of Rest](https://click.convertkit-mail.com/d0uqpz7egpi0hoe6l8zsmhzn73444hlhkqwzw/z2hghnhe3qp59mhz/aHR0cHM6Ly9tb3JldG90aGF0LmNvbS90aGUtcmlkZGxlLW9mLXJlc3Qv)
+A Thought I’ve Been Pondering
+I wanted to share a relevant entry from A Month of Reflections, which is the bonus booklet of 30 daily meditations that accompanies [The Inner Compass](https://click.convertkit-mail.com/d0uqpz7egpi0hoe6l8zsmhzn73444hlhkqwzw/p8heh9h4zngrkear/aHR0cHM6Ly9nZW5pLnVzL2lubmVyY29tcGFzcw==). (To get access to it, simply [order the book here](https://click.convertkit-mail.com/d0uqpz7egpi0hoe6l8zsmhzn73444hlhkqwzw/p8heh9h4zngrkear/aHR0cHM6Ly9nZW5pLnVzL2lubmVyY29tcGFzcw==), hit reply with your order receipt, and I’ll send it to you when I get back from my trip.)
+Day 27: Play the Long Game
+Self-doubt lives solely in the now; it knows nothing more than what can be seen and experienced at this precise moment. It can’t envision any sort of future where results grow over time, where your confidence builds with each thing you make, and where your insecurities soften as you progress onward.
+When you’re doing meaningful work, you must be able to trade short-term disappointment for long-term progress. While it may seem irrational to continue pursuing this path today, everything will only make sense when enough time has elapsed so you can see how far you’ve traveled.
+I’ve been thinking about this because sometimes I get impatient with my work and want immediate results. But a big part of choosing to rest is to acknowledge that the most meaningful things in life are long-term plays. Rest isn’t just about recharging so you can be more productive; rather, it’s a way of affirming to yourself that you’re in this for the long haul.
+Interview of the Week
+I recorded an hour-long chat with Vicky Zhao, a popular YouTuber who is known for her ideas on framework thinking (something I love as well). We discuss [The Inner Compass](https://click.convertkit-mail.com/d0uqpz7egpi0hoe6l8zsmhzn73444hlhkqwzw/p8heh9h4zngrkear/aHR0cHM6Ly9nZW5pLnVzL2lubmVyY29tcGFzcw==), which she said was one of her favorite books of the summer. Here’s how she describes our conversation:
+“We explore journaling, curiosity, decision-making, and the real meaning of success. If you’ve ever felt disconnected from your path, this conversation might be the guide to reconnecting—with clarity, purpose, and agency!”
+I had a really great time talking with Vicky, and I think you’ll enjoy the chat as well:
+A Brief Parting Question
+When was the last time you truly felt at rest? Where you weren’t defining yourself by what you produce and allowing that feeling to persist?
+I think for me, the last time I felt that was when I took a day this summer to have lunch with a friend and roam around downtown Toronto by myself. I (naturally) ended up in a bookstore and checked out books solely based on my curiosity and not on their utility.
+In that moment, there was nothing of value I needed to extract or offer. And although my body was in motion, [my mind was at rest](https://click.convertkit-mail.com/d0uqpz7egpi0hoe6l8zsmhzn73444hlhkqwzw/z2hghnhe3qp59mhz/aHR0cHM6Ly9tb3JldG90aGF0LmNvbS90aGUtcmlkZGxlLW9mLXJlc3Qv).
+As always, hit reply to share any thoughts, to respond to the parting question, or to simply say hello. I love hearing from you.
+Thanks for reading, and feel free to share this email with anyone who might enjoy it. Have a great rest of your week!
+-Lawrence Yeo
+P.S. Thanks to all the wonderful people that support the blog on Patreon! It means so much. If you’d like to support More To That and get access to book recommendations, exclusive AMAs, offline posts, and other reflections, [join as a patron today](https://click.convertkit-mail.com/d0uqpz7egpi0hoe6l8zsmhzn73444hlhkqwzw/6qheh8hl7mnxkvf9/aHR0cHM6Ly93d3cucGF0cmVvbi5jb20vbW9yZXRvdGhhdA==).
+P.P.S. If you want to learn how to write essays like the one I shared today, check out my writing course, [The Examined Writer](https://click.convertkit-mail.com/d0uqpz7egpi0hoe6l8zsmhzn73444hlhkqwzw/7qh7h8h9orwdk6c9/aHR0cHM6Ly9leGFtaW5lZHdyaXRlci5jb20v). It’s 3 hours’ of self-paced material, all designed to elevate your writing practice.
+If you were forwarded this email, subscribe to the More To That newsletter and get the next edition in your inbox.
+|
+|

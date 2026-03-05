@@ -1,0 +1,11 @@
+---
+subject: "Open Thread 378"
+from: "Astral Codex Ten <astralcodexten@substack.com>"
+to: ""
+date: 2025-04-21 10:06:22
+labels: ["Astral Codex", "CATEGORY_PERSONAL", "INBOX", "UNREAD"]
+label_ids: ["Label_6409723252142624155", "CATEGORY_PERSONAL", "INBOX", "UNREAD"]
+---
+This is the weekly visible open thread. Post about anything you want, ask random questions, whatever. ACX has an unofficial 1: ACX meetups this week in Warsaw, Sao Paulo, Buenos Aires, Atlanta, Philly, Brooklyn, and Dallas, among others. And late additions to the list include Belfast, Vancouver, and Stockholm. See 2: Reminder that the deadline for submissions to the 3: I sent all ACX Grants recipients an email with a link to a form asking for updates. I think it went to spam for many of you. If you got a grant either last year or 2021-2022, please check your spam folder for an email from me. 4: Upcoming AI policy opportunities: [Samuel Hammond and the Foundation for American Innovation are launching a conservative AI policy fellowship](https://substack.com/redirect/04cb5809-4f08-4fd0-a3d2-59664b38239c?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o). “A six week educational fellowship for DC policy professionals interested in AI policy.”[Horizon Institute has a three-day AI Innovation And Security Policy Workshop](https://substack.com/redirect/2b672fe2-aba7-4c01-aa8c-ece2fc0ce052?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o). “Interested in whether you should pursue a career in AI policy in DC? Learn about AI policy under the new administration, meet the people shaping decisions in DC, and decide whether you want to apply your background to the opportunities and challenges ahead.”[Ted Cruz and the Commerce Committee are looking for an AI Counsel.](https://substack.com/redirect/14f1bdbf-11ab-4631-bcba-0731d3393283?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+5: Some more replies to my Purpose Of A System Is Not What It Does post, including 6: New subscribers-only post,
+And a commenter You're currently a free subscriber to |

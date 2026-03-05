@@ -1,0 +1,136 @@
+---
+subject: "How to Win in 2025: Your Annual Planning Guide"
+from: "\"Sahil Bloom's Curiosity Chronicle\" <sahil@sahilbloom.com>"
+to: ""
+date: 2024-12-18 10:03:39
+labels: ["CATEGORY_PERSONAL", "INBOX", "Sahil Bloom", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_1989028747625928812", "UNREAD"]
+---
+The Annual Planning Guide
+read and listen on [sahilbloom.com](https://click.convertkit-mail4.com/p9uv6rrdq4a9h2k767wcrupz86933hr/m2h7h5h8l8z7gmcm/aHR0cHM6Ly93d3cuc2FoaWxibG9vbS5jb20vbmV3c2xldHRlci90aGUtYW5udWFsLXBsYW5uaW5nLWd1aWRl)
+read time 9 minutes
+Welcome to The Curiosity Chronicle, a weekly newsletter where I provide actionable ideas to help you build a high-performing, healthy, wealthy life.
+Interested in joining our virtual community, my monthly office hours, or having a 1-on-1 chat with me? For a limited time, these incentives are all available for those who order my book now!
+Available on [Amazon](https://click.convertkit-mail4.com/p9uv6rrdq4a9h2k767wcrupz86933hr/7qh7h8hoxo5mkduz/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9ncC9wcm9kdWN0LzA1OTM3MjMxOFg_dGFnPXJhbmRvaG91c2VpbmM3OTg2LTIw), [Barnes & Noble](https://click.convertkit-mail4.com/p9uv6rrdq4a9h2k767wcrupz86933hr/z2hghnh3m3x846fp/aHR0cHM6Ly93d3cuYmFybmVzYW5kbm9ibGUuY29tL3cvdGhlLTUtdHlwZXMtb2Ytd2VhbHRoLXNhaGlsLWJsb29tLzExNDU1NTI3NDc7anNlc3Npb25pZD0zRTM5M0VEQzdDM0M5MjY1ODcyNzk2OTdDMUY2QjVENy5wcm9kbnlfc3RvcmUwMS1hdGdhcDA0PzJzaWQ9UmFuZG9tJTIwSG91c2UlMjBJbmNfODM3MzgyN19OQSZlYW49OTc4MDU5MzcyMzE4MCZzb3VyY2VJZD1BRkZSYW5kb20lMjBIb3VzZSUyMEluYyZzdD1BRkY=), [BAM](https://click.convertkit-mail4.com/p9uv6rrdq4a9h2k767wcrupz86933hr/p8heh9hzpzol3ohq/aHR0cHM6Ly93d3cuYm9va3NhbWlsbGlvbi5jb20vcC85NzgwNTkzNzIzMTgwP0FJRD0xMDc0NzIzNiZQSUQ9ODM3MzgyNyZTSUQ9UFJIRUZGREY1QTdGMS0tOTc4MDU5MzcyMzE4MCZjamRhdGE9TVh4T2ZEQjhXWHd3JmNqZXZlbnQ9ZmNhOTUxNTFiYjkzMTFlZjgyNjM5MDYwMGE4MmI4MmQ=), or [anywhere books are sold](https://click.convertkit-mail4.com/p9uv6rrdq4a9h2k767wcrupz86933hr/dpheh0h020nm45bm/aHR0cHM6Ly93d3cudGhlNXR5cGVzb2Z3ZWFsdGguY29tLyNvcmRlcg==).
+Today at a Glance:
+- The Annual Planning Guide includes: (1) my simple goal-setting framework, (2) three system-building mental models, and (3) a strategy for tracking and adjusting throughout the year.
+- This annual planning process has been an immensely helpful exercise to which I would credit many of my greatest achievements. I hope that it will spark you to conduct your own annual planning process for 2025.
+- You can download a beautiful (and free!) printable PDF template
+[here](https://click.convertkit-mail4.com/p9uv6rrdq4a9h2k767wcrupz86933hr/x0hph6hw4w0lr6f5/aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xblFXMXVtaVc1Q2RyTWZic2VicmdlVzJmSTNFSzkwZWIvdmlldz91c3A9c2hhcmluZw==).
+|
+Upgrade Your Focus Game (with my favorite tool!)
+Ever wish you could flip a switch and instantly find focus? That’s exactly what [Brain.fm](https://click.convertkit-mail4.com/p9uv6rrdq4a9h2k767wcrupz86933hr/7qh7h8hoxo5mknbz/aHR0cHM6Ly9raXRhZHMubGluay8xMjE4MjQtODkzMjU4) feels like for me. Before discovering it, I struggled with staying focused during long work sessions. I’d try different background music or ambient noise, hoping they’d help me lock in—but they always fell short.
+[Brain.fm](https://click.convertkit-mail4.com/p9uv6rrdq4a9h2k767wcrupz86933hr/7qh7h8hoxo5mknbz/aHR0cHM6Ly9raXRhZHMubGluay8xMjE4MjQtODkzMjU4) changed everything. It isn’t just a playlist—it’s science-backed music designed to help your brain lock into deep work, creative flow, or even unwind from stress.
+Brainfm’s science is validated by peer-reviewed research. Unlike other music, their patented technology has been shown to increase blood flow to brain areas supporting attention, and syncs up your brain patterns, boosting focus brainwaves by up to 119% in your first listen.
+Join me and millions of listeners that trust [Brain.fm](https://click.convertkit-mail4.com/p9uv6rrdq4a9h2k767wcrupz86933hr/7qh7h8hoxo5mknbz/aHR0cHM6Ly9raXRhZHMubGluay8xMjE4MjQtODkzMjU4) to unlock their potential and get more done.
+|
+The Annual Planning Guide
+2024 is officially coming to a close.
+At the end of every year, I like to do two things:
+- Conduct a reflection on the prior year
+- Create a plan for the coming year
+I provided my reflection process in my [Personal Annual Review](https://click.convertkit-mail4.com/p9uv6rrdq4a9h2k767wcrupz86933hr/z2hghnh3m3x84zup/aHR0cHM6Ly93d3cuc2FoaWxibG9vbS5jb20vbmV3c2xldHRlci90aGUtcGVyc29uYWwtYW5udWFsLXJldmlldw==) last week.
+Note: If you'd like to go deeper on that process, you can access a template and live workshop recording by submitting your information and book order number [here](https://click.convertkit-mail4.com/p9uv6rrdq4a9h2k767wcrupz86933hr/x0hph6hw4w0lp8u5/aHR0cHM6Ly9zYWhpbGJsb29tLmtpdC5jb20vMDM0NGFkMzk4Yw==).
+Today, I'll share my Annual Planning Guide, which will arm you with the structure you need to make 2025 your best year yet.
+This guide covers the three components of my process:
+- Goal-Setting Framework
+- Three System Building Mental Models
+- Strategy for Tracking & Adjusting
+I think of this process as my compass calibration: Setting my direction for the year, while maintaining an understanding that my ability to adapt during the year will be just as important (if not more so!).
+I hope that this piece will spark you to conduct your own annual planning process for 2025, as I'm highly confident you will get incredible value from the exercise.
+You can download the beautiful (and free!) printable PDF template [here](https://click.convertkit-mail4.com/p9uv6rrdq4a9h2k767wcrupz86933hr/x0hph6hw4w0lr6f5/aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xblFXMXVtaVc1Q2RyTWZic2VicmdlVzJmSTNFSzkwZWIvdmlldz91c3A9c2hhcmluZw==).
+Goal-Setting Framework
+There are two primary categories to consider as you plan for the year ahead: Professional and Personal.
+Note: Some of you may prefer to break this up further, in which case you might split the Personal category into Health, Relationships, and Personal. I personally like to split it in two for simplicity.
+For each primary category, my goal-setting framework has four connected components:
+- Big Goals
+- Checkpoint Goals
+- Daily Systems
+- Anti-Goals
+Here's how it works...
+1. Big Goals
+These are your big, year-long goals. They should be large and ambitious.
+If these big goals don't scare you a little bit, I'd encourage you to think bigger.
+The Big Goals are the summit of the mountain—motivating on a macro scale, but too far off and intimidating to be motivating on a micro daily basis.
+2. Checkpoint Goals
+Work backwards from your Big Goals to formulate a set of Checkpoint Goals.
+If the Big Goals are the summit of the mountain, the Checkpoint Goals are the mid-climb campsites. You can't reach the summit without reaching these points, as all paths lead directly through them.
+3. Daily Systems
+"You do not rise to the level of your goals. You fall to the level of your systems." - James Clear, Atomic Habits
+These are the 2-3 daily actions that you need to take to create tangible, compounding forward progress. The simplest daily actions to generate progress in a given arena.
+If the Big Goals and Checkpoint Goals are your compass, establishing your direction, the Daily Systems are your feet, moving you forward on your climb.
+4. Anti-Goals
+"All I want to know is where I’m going to die, so I’ll never go there." - Charlie Munger
+Anti-Goals are the things we don't want to happen on our journey to achieve our Big Goals.
+If the Big Goals are your summit, Anti-Goals are the things you don't want to sacrifice while executing the climb—like your life, your toes, or your sanity. You want to reach the summit, but not at the expense of these things.
+For example, your Big Goal is to become CEO, but your Anti-Goals may be spending over 300 nights away from your family and allowing your health to suffer from constant travel and stress. You want to achieve the Big Goal, but not if it means having those Anti-Goals become real.
+Putting It Into Action
+To put the goal-setting framework into action:
+- Big Goals: Select 1-3 specific, measurable Big Goals within each primary category (Professional and Personal). Write them down.
+- Checkpoint Goals: Select 1-2 specific, measurable Checkpoint Goals for each Big Goal. Write them down below the associated Big Goal.
+- Daily Systems: Consider the simplest daily actions that would create forward progress toward your Big and Checkpoint Goals. Select 1-3 specific Daily Systems for each Checkpoint Goal. Write them down below the associated Checkpoint Goal.
+- Anti-Goals: To define your Anti-Goals, invert the problem: What are the worst outcomes that could occur from your pursuit of these Big Goals? What could lead to that worst outcome? Using your answers, select 1-2 Anti-Goals for each Big Goal. Write them down below the associated Big Goal.
+To bring this to life, here's an illustrative example with my main professional goal for 2025:
+Big Goal: Create a movement of 1 million people around the world who have read [The 5 Types of Wealth](https://click.convertkit-mail4.com/p9uv6rrdq4a9h2k767wcrupz86933hr/6qheh8h737ed5kao/aHR0cHM6Ly93d3cudGhlNXR5cGVzb2Z3ZWFsdGguY29t) and taken actions to build their lives around the priorities that matter to them.
+Checkpoint Goals: Sell 50,000+ copies of the book in the initial preorder campaign and launch week. Reach 250,000+ copies sold by June 2025 and 500,000+ by September 2025. Note: Currently at ~20,000 in preorder campaign. This newsletter is going to be where these goals are hit or missed. Help me achieve this goal and unlock special bonuses [here](https://click.convertkit-mail4.com/p9uv6rrdq4a9h2k767wcrupz86933hr/dpheh0h020nm45bm/aHR0cHM6Ly93d3cudGhlNXR5cGVzb2Z3ZWFsdGguY29tLyNvcmRlcg==)!
+Daily Systems: Movements are built through unscalable actions. Interacting with readers 1-on-1 is a key part of creating evangelists for the message. Spend 30 minutes daily engaging with readers and community members. Content creation is at the core of attracting new eyes to the message. 60 minutes of daily reading, 60 minutes of daily thinking, and 60 minutes of daily creation will keep everything moving forward.
+Anti-Goals: Traveling for more than 10 nights out of the month (I don't want to miss this precious time with my wife and son). Sacrificing my health and family non-negotiables to achieve the Big Goal.
+Three System Building Mental Models
+Harsh Truth: Ideas are cheap, execution is expensive.
+Even with our Big Goals to motivate us and our Daily Systems all planned out, we may fail to execute.
+To guide your execution against your Daily Systems, here are three system-building mental models to support you in your journey.
+ABC System (Sahil's Favorite!)
+I like to establish three levels for every daily system:
+- A: Most ambitious, perfect case
+- B: Middle ground, base case
+- C: Minimum viable level
+On days when you feel great, you hit your A. On days when you feel ok, you hit your B. On days when you feel bad, just hit your C.
+The ABC System removes any intimidation or guilt: As long as you hit your C, you're making forward progress. Anything above zero compounds.
+The system prevents optimal (A) from getting in the way of beneficial (C) and gives you the flexibility to make progress while allowing the inevitable chaos of life to enter.
+Two-Day Rule
+With whatever habit you're trying to build, never allow yourself to skip more than one day in a row.
+Quoting a study in the European Journal of Social Psychology: "Missing one opportunity to perform the behavior did not materially affect the habit formation process."
+Skipping one day won't hurt your habit building, as long as you don't skip the next one.
+30-for-30 Approach
+Do the thing you're trying to improve at for 30 minutes per day for 30 straight days.
+30 days of effort is a real commitment. If you're half-in, you won’t want to take it on and commit to the 30 days.
+30 minutes per day is short enough that you can mentally take it on. Pre- start self-intimidation is one of the biggest drivers of stagnation.
+30 days of 30 minutes per day is 900 total minutes of accumulated effort. This will yield surprisingly significant results.
+Strategy for Tracking & Adjusting
+There's an aviation concept called the 1-in-60 Rule, which says that a one degree error in heading will cause a plane to miss its target by one mile for every 60 miles flown.
+The concept applies directly to your annual planning:
+Tiny deviations from the optimal course are amplified by distance and time. A small miss now creates a very large miss later.
+This highlights the importance of real-time course corrections and adjustments.
+Conduct a three question monthly check-in on the last Friday of each month:
+- What really matters right now in my life and are my Big Goals still aligned with this? Assess the quality of your goals and ensure that they still feel appropriate.
+- Are my current Daily Systems aligned with my Big Goals? Assess the quality of your Daily Systems and whether they are creating the appropriate momentum.
+- Am I in danger of running afoul of my Anti-Goals? Assess the quality of your environment and decisions to evaluate any changes that need to be made.
+Write the answers down.
+The ritual takes ~30 minutes each month and creates an opportunity for regular reflection and minor course corrections that are essential on your journey.
+Your Annual Planning Guide
+To summarize my [Annual Planning Guide](https://click.convertkit-mail4.com/p9uv6rrdq4a9h2k767wcrupz86933hr/x0hph6hw4w0lr6f5/aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xblFXMXVtaVc1Q2RyTWZic2VicmdlVzJmSTNFSzkwZWIvdmlldz91c3A9c2hhcmluZw==):
+- Establish Big Goals for Professional and Personal spheres.
+- Establish Checkpoint Goals for each Big Goal.
+- Establish Daily Systems associated with each Checkpoint Goal.
+- Establish Anti-Goals for each Big Goal.
+- Execute against Daily Systems using the ABC System, Two-Day Rule, and 30-for-30 Approach.
+- Track and adjust using the three question monthly check-in.
+The annual planning process is a life-changing exercise. I cannot recommend it highly enough.
+To get even more out of it, consider conducting it in a small group format. Go through it individually, but then get together with a small group and walk through it. Pressure test, question assumptions, and provide feedback. This is a great way to prepare yourself for 2025 to be the best year of your life.
+To accelerate your growth in 2025, order The 5 Types of Wealth, which has a detailed breakdown of goal-setting practices, as well as a compilation of questions and tools you can use for regular reflection, adjustment, and improvement along your journey.
+Order to Unlock Exclusive Bonuses Today:
+The 5 Types of Wealth is the compass for your journey to a life of wealth that goes far beyond money. It provides the actionable tools to define, measure, and design your life around the pillars that truly create lasting happiness and fulfillment.
+It will help you find your True North and build your life around it.
+Preorder now and you'll unlock several new, exclusive bonuses:
+- Preorder 1 Book: Access to the digital community, where you can interact with me and others on the same journey; Ticket to a live virtual launch party; Companion video series with breakdowns of strategies to start building each type of wealth today.
+- Preorder 2 Books: All of the above, plus access to exclusive monthly video office hours with me.
+- Preorder 10 Books: All of the above, plus a 1-on-1 15-minute coaching call with me. Limited spots available!
+Sahil's Recommendation Zone
+Perfect your morning routine with my partner[ AG1](https://click.convertkit-mail4.com/p9uv6rrdq4a9h2k767wcrupz86933hr/qvh8h7hrlrp040bl/aHR0cDovL2RyaW5rYWcxLmNvbS9zYWhpbA==):
+I get asked about my morning routine all the time. It changes from time to time, but [AG1](https://click.convertkit-mail4.com/p9uv6rrdq4a9h2k767wcrupz86933hr/qvh8h7hrlrp040bl/aHR0cDovL2RyaW5rYWcxLmNvbS9zYWhpbA==) has been the one constant since 2011. I drink it with a big glass of water every single morning to start my day on a positive tone.
+It replaced an entire cabinet of supplements for me in one daily scoop—seriously, its latest iteration covers a multivitamin, multi-mineral, prebiotics, probiotics, adaptogens, greens, and more. It keeps me feeling healthy and strong throughout the year, even when I'm traveling (thanks to the travel packs).
+AG1 is offering Curiosity Chronicle subscribers an exclusive deal: [a free 1-year supply of liquid vitamin D plus 5 travel packs with your subscription purchase](https://click.convertkit-mail4.com/p9uv6rrdq4a9h2k767wcrupz86933hr/qvh8h7hrlrp040bl/aHR0cDovL2RyaW5rYWcxLmNvbS9zYWhpbA==). Take advantage of it!
+Sahil Bloom
+|
+|
+|

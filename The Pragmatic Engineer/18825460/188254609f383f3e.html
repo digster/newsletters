@@ -1,0 +1,879 @@
+<html><head><meta charset="utf-8"><title>Inside DataDog&#8217;s $5M Outage (Real-World Engineering Challenges #8)</title><style>
+@media all and (-ms-high-contrast: none), (-ms-high-contrast: active) {
+  .typography .markup table.image-wrapper img,
+  .typography.editor .markup table.image-wrapper img,
+  .typography .markup table.kindle-wrapper img,
+  .typography.editor .markup table.kindle-wrapper img {
+    max-width: 550px;
+  }
+}
+
+
+@media screen and (max-width: 650px) {
+  .typography .markup div.youtube-inner div.youtube-screen,
+  .typography.editor .markup div.youtube-inner div.youtube-screen,
+  .typography .markup div.vimeo-inner div.youtube-screen,
+  .typography.editor .markup div.vimeo-inner div.youtube-screen {
+    display: none !important;
+  }
+}
+
+
+@media screen and (max-width: 370px) {
+  .typography .markup div.tiktok-wrap,
+  .typography.editor .markup div.tiktok-wrap {
+    width: calc(95vw - 32px);
+    height: calc((95vw - 32px - 2px) / 0.485714);
+  }
+}
+
+
+@media screen and (max-width: 650px) {
+  .typography .markup div.embedded-publication-wrap .embedded-publication.show-subscribe,
+  .typography.editor .markup div.embedded-publication-wrap .embedded-publication.show-subscribe {
+    padding: 24px;
+  }
+}
+
+
+@media screen and (max-width: 650px) {
+  .typography .markup div.subscription-widget-wrap .subscription-widget.show-subscribe,
+  .typography.editor .markup div.subscription-widget-wrap .subscription-widget.show-subscribe,
+  .typography .markup div.captioned-button-wrap .subscription-widget.show-subscribe,
+  .typography.editor .markup div.captioned-button-wrap .subscription-widget.show-subscribe {
+    padding: 24px;
+  }
+}
+
+
+@media screen and (max-width: 650px) {
+  .typography .markup div.subscription-widget-wrap .subscription-widget.show-subscribe .subscription-widget-subscribe .button,
+  .typography.editor .markup div.subscription-widget-wrap .subscription-widget.show-subscribe .subscription-widget-subscribe .button,
+  .typography .markup div.captioned-button-wrap .subscription-widget.show-subscribe .subscription-widget-subscribe .button,
+  .typography.editor .markup div.captioned-button-wrap .subscription-widget.show-subscribe .subscription-widget-subscribe .button {
+    padding: 10px 12px;
+    min-width: 110px;
+  }
+}
+
+
+@media (max-width: 650px) {
+  .typography .markup .tweet,
+  .typography.editor .markup .tweet {
+    padding: 12px;
+  }
+}
+
+
+@media (max-width: 650px) {
+  .typography .markup .tweet .tweet-text,
+  .typography.editor .markup .tweet .tweet-text {
+    font-size: 14px;
+    line-height: 20px;
+  }
+}
+
+
+@media (max-width: 650px) {
+  .typography .markup .tweet .tweet-photos-container.two,
+  .typography.editor .markup .tweet .tweet-photos-container.two,
+  .typography .markup .tweet .tweet-photos-container.three,
+  .typography.editor .markup .tweet .tweet-photos-container.three,
+  .typography .markup .tweet .tweet-photos-container.four,
+  .typography.editor .markup .tweet .tweet-photos-container.four {
+    height: 200px;
+  }
+}
+
+
+@media (max-width: 650px) {
+  .typography .markup .tweet a.expanded-link .expanded-link-img,
+  .typography.editor .markup .tweet a.expanded-link .expanded-link-img {
+    max-height: 180px;
+  }
+}
+
+
+@media (max-width: 650px) {
+  .typography .markup .tweet a.expanded-link .expanded-link-description,
+  .typography.editor .markup .tweet a.expanded-link .expanded-link-description {
+    display: none;
+  }
+}
+
+
+@media screen and (max-width: 650px) {
+  .typography .markup .apple-podcast-container,
+  .typography.editor .markup .apple-podcast-container {
+    width: unset;
+  }
+}
+
+
+@media (max-width: 420px) {
+  .typography .markup .install-substack-app-embed img.install-substack-app-embed-img,
+  .typography.editor .markup .install-substack-app-embed img.install-substack-app-embed-img {
+    margin: 0 auto 16px auto;
+  }
+}
+
+
+@media screen and (min-width: 420px) and (max-width: 600px) {
+  .typography .markup .install-substack-app-embed .install-substack-app-embed-text,
+  .typography.editor .markup .install-substack-app-embed .install-substack-app-embed-text {
+    max-width: calc(100% - 100px);
+    width: initial;
+  }
+}
+
+
+@media (max-width: 420px) {
+  .typography .markup .install-substack-app-embed .install-substack-app-embed-text,
+  .typography.editor .markup .install-substack-app-embed .install-substack-app-embed-text {
+    margin: 0 0 12px 0;
+    max-width: 100%;
+    width: auto;
+    text-align: center;
+  }
+}
+
+
+@media (max-width: 600px) {
+  .typography .markup .install-substack-app-embed .install-substack-app-embed-link,
+  .typography.editor .markup .install-substack-app-embed .install-substack-app-embed-link {
+    margin-top: 16px;
+    width: 100%;
+  }
+}
+
+
+@media screen and (min-width: 481px) {
+  .share-button-container {
+    height: 38px;
+  }
+}
+
+
+@media screen and (min-width: 481px) {
+  .share-button-container a.comment {
+    height: 38px;
+    line-height: 38px;
+    padding-right: 10px;
+  }
+}
+
+
+@media screen and (max-width: 480px) {
+  .share-button-container .separator {
+    display: block;
+    margin: 0;
+    height: 8px;
+    border-left: none;
+  }
+}
+
+
+@media screen and (max-width: 480px) {
+  .share-button-container a.share.first img {
+    padding-left: 0;
+  }
+}
+
+
+@media screen and (min-width: 481px) {
+  .share-button-container a.mobile {
+    display: none !important;
+  }
+}
+
+
+@media screen and (max-width: 650px) {
+  .social-media-share-preview__description {
+    -webkit-line-clamp: 2;
+  }
+}
+
+
+@media screen and (max-width: 1000px) {
+  .congrats-box {
+    flex-direction: column;
+  }
+  .congrats-box .congrats-box-right {
+    margin-left: 38px;
+    margin-top: 16px;
+  }
+}
+
+
+@media screen and (max-width: 500px) {
+  .congrats-box {
+    display: none;
+  }
+}
+
+
+@media screen and (min-width: 541px) {
+  .settings-add-pub-modal-wrapper .container .add-recommending-pub-modal-container {
+    padding: 36px;
+    height: 680px;
+  }
+}
+
+
+@media screen and (min-width: 541px) {
+  .settings-add-pub-modal-wrapper .container .add-recommending-pub-modal-container .footer {
+    position: absolute;
+    bottom: 36px;
+    margin: 0px;
+  }
+}
+
+
+@media screen and (max-width: 840px) {
+  .header-with-anchor-widget .header-anchor-widget,
+  .header-anchor-container .header-anchor-widget {
+    display: none;
+  }
+}
+
+
+@media screen and (min-width: 768px) {
+  .post {
+    padding: 32px 0 0 0;
+  }
+}
+
+
+@media screen and (max-width: 650px) {
+  .post .post-header .post-label {
+    margin-top: 8px;
+  }
+}
+
+
+@media screen and (max-width: 650px) {
+  .post .post-header .meta-author-wrap.alternative-meta .meta-right-column .post-meta {
+    margin-top: 6px;
+  }
+}
+
+
+@media screen and (max-width: 650px) {
+  .post .footer-facepile-container {
+    height: 64px;
+    padding: 0 16px;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    width: 100%;
+  }
+}
+
+
+@media screen and (max-width: 650px) {
+  .post .post-footer.use-separators {
+    justify-content: center;
+  }
+}
+
+
+@media screen and (max-width: 650px) {
+  .post .post-footer.next-prev {
+    height: 64px;
+    justify-content: space-between;
+    box-sizing: border-box;
+  }
+}
+
+
+@media screen and (max-width: 650px) {
+  .post-contributor-footer .post-contributor-bio-table {
+    display: block;
+  }
+  .post-contributor-footer .post-contributor-bio-table-row {
+    display: flex;
+    flex-direction: row;
+  }
+  .post-contributor-footer .post-contributor-bio-userhead-cell,
+  .post-contributor-footer .post-contributor-bio-body-cell {
+    display: block;
+  }
+  .post-contributor-footer .post-contributor-bio-body-cell {
+    flex-grow: 1;
+  }
+  .post-contributor-footer .post-contributor-bio-body-table {
+    display: block;
+  }
+  .post-contributor-footer .post-contributor-bio-body-table-row {
+    display: block;
+  }
+  .post-contributor-footer .post-contributor-bio-copy-cell,
+  .post-contributor-footer .post-contributor-bio-controls-cell {
+    display: block;
+  }
+  .post-contributor-footer .post-contributor-bio-copy-cell {
+    margin: 0 0 16px 0;
+  }
+  .post-contributor-footer .post-contributor-bio-controls-cell {
+    width: auto;
+  }
+  .post-contributor-footer .post-contributor-bio-controls {
+    margin: auto;
+  }
+  .post-contributor-footer .post-contributor-bio-controls .button.primary {
+    width: 100%;
+  }
+  .post-contributor-footer .post-contributor-bio-text {
+    font-size: 14px;
+  }
+}
+
+
+@media screen and (min-width: 768px) {
+  .post-silhouette {
+    padding: 16px 0;
+  }
+}
+
+
+@media screen and (max-width: 650px) {
+  .post-silhouette .post-silhouette-title {
+    margin-top: 10.44225025px;
+    height: 120px;
+  }
+}
+
+
+@media screen and (max-width: 650px) {
+  .post-silhouette .post-silhouette-meta {
+    width: 75%;
+  }
+}
+
+
+@media screen and (max-width: 650px) {
+  .post-silhouette .post-silhouette-meta.with-byline-image {
+    margin: 20px 0;
+  }
+}
+
+
+@media screen and (max-width: 650px) {
+  .use-theme-bg .post-meta.alternative-meta .post-meta-item,
+  .post-meta.alternative-meta .post-meta-item {
+    padding-right: 16px;
+  }
+}
+
+
+@media screen and (max-width: 370px) {
+  .use-theme-bg .post-meta.alternative-meta .post-meta-item,
+  .post-meta.alternative-meta .post-meta-item {
+    font-size: 14px;
+  }
+}
+
+
+@media screen and (max-width: 650px) {
+  .use-theme-bg .post-meta.alternative-meta .post-meta-item.guest-author-publication,
+  .post-meta.alternative-meta .post-meta-item.guest-author-publication {
+    display: none;
+  }
+}
+
+
+@media screen and (max-width: 370px) {
+  .post-meta .post-meta-item .post-meta-button {
+    height: 36px !important;
+  }
+  .post-meta .post-meta-item .post-meta-button .meta-button-label {
+    display: none;
+  }
+  .post-meta .post-meta-item .post-meta-button > svg {
+    margin-right: 0;
+  }
+}
+
+
+@media screen and (max-width: 370px) {
+  .post-meta .post-meta-item {
+    font-size: 12px;
+  }
+}
+
+
+@media screen and (max-width: 650px) {
+  .post-preview .post-preview-content .post-preview-meta {
+    margin-top: 12px 0;
+  }
+}
+
+
+@media screen and (max-width: 650px) {
+  .post-preview .post-preview-image {
+    display: none;
+  }
+}
+
+
+@media screen and (max-width: 650px) {
+  .post-preview-silhouette .post-preview-silhouette-image {
+    display: none;
+  }
+}
+
+
+@media screen and (max-width: 650px) {
+  .post .floating-subscribe-button {
+    bottom: 20px;
+    right: 20px;
+  }
+}
+
+
+@media all and (-ms-high-contrast: none), (-ms-high-contrast: active) {
+  body .markup table.image-wrapper img,
+  body .markup table.kindle-wrapper img {
+    max-width: 550px;
+  }
+}
+
+
+@media screen and (max-width: 650px) {
+  body .markup div.youtube-inner div.youtube-screen,
+  body .markup div.vimeo-inner div.youtube-screen {
+    display: none !important;
+  }
+}
+
+
+@media screen and (max-width: 370px) {
+  body .markup div.tiktok-wrap {
+    width: calc(95vw - 32px);
+    height: calc((95vw - 32px - 2px) / 0.485714);
+  }
+}
+
+
+@media screen and (max-width: 650px) {
+  body .markup div.embedded-publication-wrap .embedded-publication.show-subscribe {
+    padding: 24px;
+  }
+}
+
+
+@media screen and (max-width: 650px) {
+  body .markup div.subscription-widget-wrap .subscription-widget.show-subscribe,
+  body .markup div.captioned-button-wrap .subscription-widget.show-subscribe {
+    padding: 24px;
+  }
+}
+
+
+@media screen and (max-width: 650px) {
+  body .markup div.subscription-widget-wrap .subscription-widget.show-subscribe .subscription-widget-subscribe .button,
+  body .markup div.captioned-button-wrap .subscription-widget.show-subscribe .subscription-widget-subscribe .button {
+    padding: 10px 12px;
+    min-width: 110px;
+  }
+}
+
+
+@media (max-width: 650px) {
+  body .markup .tweet {
+    padding: 12px;
+  }
+}
+
+
+@media (max-width: 650px) {
+  body .markup .tweet .tweet-text {
+    font-size: 14px;
+    line-height: 20px;
+  }
+}
+
+
+@media (max-width: 650px) {
+  body .markup .tweet .tweet-photos-container.two,
+  body .markup .tweet .tweet-photos-container.three,
+  body .markup .tweet .tweet-photos-container.four {
+    height: 200px;
+  }
+}
+
+
+@media (max-width: 650px) {
+  body .markup .tweet a.expanded-link .expanded-link-img {
+    max-height: 180px;
+  }
+}
+
+
+@media (max-width: 650px) {
+  body .markup .tweet a.expanded-link .expanded-link-description {
+    display: none;
+  }
+}
+
+
+@media screen and (max-width: 650px) {
+  body .markup .apple-podcast-container {
+    width: unset;
+  }
+}
+
+
+@media (max-width: 420px) {
+  body .markup .install-substack-app-embed img.install-substack-app-embed-img {
+    margin: 0 auto 16px auto;
+  }
+}
+
+
+@media screen and (min-width: 420px) and (max-width: 600px) {
+  body .markup .install-substack-app-embed .install-substack-app-embed-text {
+    max-width: calc(100% - 100px);
+    width: initial;
+  }
+}
+
+
+@media (max-width: 420px) {
+  body .markup .install-substack-app-embed .install-substack-app-embed-text {
+    margin: 0 0 12px 0;
+    max-width: 100%;
+    width: auto;
+    text-align: center;
+  }
+}
+
+
+@media (max-width: 600px) {
+  body .markup .install-substack-app-embed .install-substack-app-embed-link {
+    margin-top: 16px;
+    width: 100%;
+  }
+}
+
+
+@media screen and (min-width: 500px) {
+  body .header a.logo {
+    width: 42px;
+    height: 42px;
+    border-radius: 8px;
+  }
+}
+
+
+@media screen and (max-width: 420px) {
+  body .subscription-receipt table:first-of-type .subscription-amount .subscription-discount {
+    width: 72px !important;
+  }
+}
+
+
+@media screen and (min-width: 481px) {
+  body .share-button-container {
+    height: auto;
+  }
+}
+
+
+@media screen and (max-width: 480px) {
+  body .share-button-container .separator {
+    display: block !important;
+    margin: 0 !important;
+    height: 8px !important;
+    border-left: none !important;
+  }
+}
+
+
+@media screen and (max-width: 650px) {
+  .digest .item .post-meta-item.audience {
+    display: none;
+  }
+}
+
+
+@media screen and (min-width: 500px) {
+  .digest-publication .logo img {
+    width: 42px;
+    height: 42px;
+    border-radius: 4px;
+  }
+}
+
+
+@media screen and (max-width: 650px) {
+  .comments-page .container .comment-list .collapsed-reply {
+    margin-left: 17px;
+  }
+}
+
+
+@media screen and (max-width: 650px) {
+  .comment > .comment-list {
+    padding-left: 25px;
+  }
+}
+
+
+@media screen and (max-width: 650px) {
+  .finish-magic-login-modal .modal-content .container {
+    padding: 24px 0;
+  }
+}
+
+
+@media (max-width: 650px) {
+  .reader2-text-b3 {
+    line-height: 24px;
+  }
+}
+
+
+@media screen and (max-width: 650px) {
+  .reader2-text-h4 {
+    line-height: 24px;
+  }
+}
+
+
+@media screen and (min-width: 541px) {
+  .user-profile-modal {
+    padding-left: 12px;
+    padding-right: 12px;
+  }
+}
+
+
+@media screen and (max-width: 650px) {
+  .subscribe-widget form.form .sideBySideWrap button.rightButton {
+    padding: 10px 12px;
+  }
+}
+
+
+@media screen and (min-width: 541px) {
+  .pub-icon:hover .logo-hover,
+  .feed-item-icon:hover .logo-hover {
+    display: block;
+  }
+}
+
+
+@media screen and (max-width: 650px) {
+  .post-ufi.single-full-width-button .post-ufi-button-wrapper {
+    width: 100%;
+    padding: 16px;
+  }
+  .post-ufi.single-full-width-button .post-ufi-button-wrapper:empty {
+    display: none;
+  }
+  .post-ufi.single-full-width-button .post-ufi-button {
+    width: 100%;
+    justify-content: center;
+  }
+}
+
+
+@media screen and (max-width: 768px) {
+  .file-embed-wrapper {
+    padding: 0;
+  }
+}
+
+
+@media screen and (max-width: 768px) {
+  .file-embed-wrapper-editor {
+    padding: 0;
+  }
+}
+
+
+@media screen and (max-width: 768px) {
+  .file-embed-wrapper-editor:active {
+    padding: 0;
+  }
+}
+
+
+@media only screen and (max-width: 650px) {
+  .file-embed-button.wide,
+  .file-embed-error-button.wide {
+    display: none;
+  }
+}
+
+
+@media only screen and (min-width: 630px) {
+  .file-embed-button.narrow,
+  .file-embed-error-button.narrow {
+    display: none;
+  }
+}
+
+
+@media screen and (min-width: 541px) {
+  .audio-player-wrapper .audio-player {
+    min-width: 500px;
+  }
+}
+
+
+@media screen and (max-width: 650px) {
+  .audio-player-wrapper .audio-player .audio-player-progress {
+    border-left-width: 16px;
+    border-right-width: 16px;
+  }
+}
+
+
+@media screen and (max-width: 650px) {
+  .audio-player-wrapper .audio-player .audio-player-progress .audio-player-progress-bar .audio-player-progress-bar-popup {
+    top: -54px;
+  }
+}
+
+
+@media screen and (max-width: 650px) {
+  .audio-player-wrapper-fancy .audio-player .audio-player-progress {
+    border-left-width: 16px;
+    border-right-width: 16px;
+  }
+}
+
+
+@media screen and (max-width: 650px) {
+  .audio-player-wrapper-fancy .audio-player .audio-player-progress .audio-player-progress-bar .audio-player-progress-bar-popup {
+    top: -54px;
+  }
+}
+
+
+@media (min-width: 250px) {
+  .audio-player-wrapper-fancy .audio-player {
+    padding: 32px;
+  }
+  .audio-player-wrapper-fancy .audio-player .btn-group {
+    display: flex;
+  }
+  .audio-player-wrapper-fancy .audio-player .btn-group .button:last-of-type {
+    display: block;
+  }
+}
+
+
+@media (min-width: 300px) {
+  .audio-player-wrapper-fancy .audio-player .btn-group {
+    display: block;
+  }
+  .audio-player-wrapper-fancy .audio-player .btn-group .button:first-of-type {
+    display: block;
+  }
+}
+
+
+@media (min-width: 350px) {
+  .audio-player-wrapper-fancy .audio-player .audio-player-substack-logo {
+    display: block;
+  }
+  .audio-player-wrapper-fancy .audio-player .audio-player-title {
+    margin-top: 16px;
+  }
+  .audio-player-wrapper-fancy .audio-player .audio-player-hero-image-container {
+    padding-top: 15%;
+    width: 15%;
+    display: block;
+  }
+  .audio-player-wrapper-fancy .audio-player .btn-group .button:first-of-type {
+    display: block;
+  }
+  .audio-player-wrapper-fancy .audio-player .audio-player-substack-logo {
+    display: block;
+  }
+}
+
+
+@media (min-width: 350px) {
+  .audio-player-wrapper-fancy .audio-player .audio-player-hero-image-container {
+    padding-top: 25%;
+    width: 25%;
+    display: block;
+  }
+  .audio-player-wrapper-fancy .audio-player .btn-group {
+    display: flex;
+  }
+  .audio-player-wrapper-fancy .audio-player .btn-group .button:first-of-type {
+    display: block;
+  }
+}
+
+
+@media (min-width: 400px) {
+  .audio-player-wrapper-fancy .audio-player .audio-player-hero-image-container {
+    padding-top: 40%;
+    width: 40%;
+  }
+}
+
+
+@media (max-width: 400px) {
+  .audio-player-wrapper-fancy .audio-player .btn-group {
+    margin-top: 12px;
+  }
+  .audio-player-wrapper-fancy .audio-player .btn-group .button {
+    font-size: 13px;
+    padding: 6px 12px;
+    height: auto;
+    margin-top: 10px;
+  }
+}
+
+
+@media (min-width: 600px) {
+  .audio-player-wrapper-fancy .audio-player .audio-player-hero-image-container {
+    padding-top: 55%;
+    width: 55%;
+  }
+}
+
+
+@media (max-width: 650px) {
+  .poll-editor-modal {
+    min-width: calc(100% - 20px);
+  }
+}
+
+
+@media (max-width: 750px) {
+  .poll-embed .poll-anchor-target .poll-anchor-copy-button {
+    left: 8px;
+    top: 45px;
+  }
+}
+
+
+@media screen and (min-width: 541px) {
+  .poll-embed .poll-wrapper.poll-web .poll-dialog .modal-table .modal-row .modal-content > .container {
+    width: 552px;
+    padding: 26px 24px;
+  }
+}
+
+
+@media screen and (max-width: 650px) {
+  .poll-embed .poll-wrapper.poll-web .poll-dialog .modal-table .modal-row .modal-content > .container {
+    padding: 40px 0;
+  }
+}
+
+
+@media screen and (max-width: 650px) {
+  .poll-embed .poll-wrapper.poll-web .poll-dialog .modal-row .modal-cell .modal-exit-btn {
+    margin-right: -20px;
+  }
+}
+</style></head><body class="email-body" style="font-kerning: auto;"><img src="https://mailgun.substack.com/api/v1/email/open?token=eyJtIjoiPDIwMjMwNTE2MTU1NDI1LjMuNWU1ZGRlZmU0Mzc4YTc1OEBtZy1kMS5zdWJzdGFjay5jb20-IiwidSI6MTQ1NjMzMTksInIiOiJpc2hhbi5tYWlsQGdtYWlsLmNvbSIsImQiOiJtZy1kMS5zdWJzdGFjay5jb20iLCJwIjoxMjE4MjQxMjIsInQiOiJuZXdzbGV0dGVyIiwiYSI6ImV2ZXJ5b25lIiwicyI6NDU4NzA5LCJjIjoicG9zdCIsImYiOnRydWUsInBvc2l0aW9uIjoidG9wIiwiaWF0IjoxNjg0MjUyNTA2LCJleHAiOjE2ODY4NDQ1MDYsImlzcyI6InB1Yi0wIiwic3ViIjoiZW8ifQ.lO-OvYK2qtIlZS8pUebPZAIA7CLAri0DeIlWWdolu6s" alt="" width="1" height="1" border="0" style="height:1px !important;width:1px !important;border-width:0 !important;margin-top:0 !important;margin-bottom:0 !important;margin-right:0 !important;margin-left:0 !important;padding-top:0 !important;padding-bottom:0 !important;padding-right:0 !important;padding-left:0 !important;"/><img src="https://eotrx.substackcdn.com/open?token=eyJtIjoiPDIwMjMwNTE2MTU1NDI1LjMuNWU1ZGRlZmU0Mzc4YTc1OEBtZy1kMS5zdWJzdGFjay5jb20-IiwidSI6MTQ1NjMzMTksInIiOiJpc2hhbi5tYWlsQGdtYWlsLmNvbSIsImQiOiJtZy1kMS5zdWJzdGFjay5jb20iLCJwIjoxMjE4MjQxMjIsInQiOiJuZXdzbGV0dGVyIiwiYSI6ImV2ZXJ5b25lIiwicyI6NDU4NzA5LCJjIjoicG9zdCIsImYiOnRydWUsInBvc2l0aW9uIjoidG9wIiwiaWF0IjoxNjg0MjUyNTA2LCJleHAiOjE2ODY4NDQ1MDYsImlzcyI6InB1Yi0wIiwic3ViIjoiZW8ifQ.lO-OvYK2qtIlZS8pUebPZAIA7CLAri0DeIlWWdolu6s" alt="" width="1" height="1" border="0" style="height:1px !important;width:1px !important;border-width:0 !important;margin-top:0 !important;margin-bottom:0 !important;margin-right:0 !important;margin-left:0 !important;padding-top:0 !important;padding-bottom:0 !important;padding-right:0 !important;padding-left:0 !important;"/><div style="display:none;font-size:1px;color:#333333;line-height:1px;max-height:0px;max-width:0px;opacity:0;overflow:hidden;" class="preview">The observability provider was down for more than a day in March. What went wrong, how did the engineering team respond, and what can businesses learn from the incident? Exclusive. &#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;</div><table role="presentation" width="100%" border="0" cellspacing="0" cellpadding="0" class="email-body-container"><tr><td></td><td width="550" class="content"></td><td></td></tr><tr><td></td><td align="left" width="550" class="content"><div style="font-size: 16px; line-height: 26px; margin: 0 auto; max-width: 550px; overflow-wrap: break-word; width: 100%;"><table role="presentation" width="100%" border="0" cellspacing="0" cellpadding="0"><tr><td align="right" style="height: 20px;"><table role="presentation" width="auto" border="0" cellspacing="0" cellpadding="0"><tr><td style="vertical-align: middle;"><span class="tw-font-body tw-text-ssm tw-text-substack-secondary" style="color: #808080 !important; font-family: SF Pro Text, -apple-system, BlinkMacSystemFont, Inter, Segoe UI, Roboto, Helvetica, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol !important; font-size: 13px !important;"><a href="https://open.substack.com/pub/pragmaticengineer/p/inside-the-datadog-outage?utm_source=email&redirect=app-store" class="tw-text-substack-secondary tw-underline" style="-webkit-text-decoration-line: underline !important; color: #808080 !important; text-decoration-line: underline !important;">Open in app</a> or <a href="https://substack.com/redirect/2/eyJlIjoiaHR0cHM6Ly9uZXdzbGV0dGVyLnByYWdtYXRpY2VuZ2luZWVyLmNvbS9wL2luc2lkZS10aGUtZGF0YWRvZy1vdXRhZ2U_dG9rZW49ZXlKMWMyVnlYMmxrSWpveE5EVTJNek14T1N3aWNHOXpkRjlwWkNJNk1USXhPREkwTVRJeUxDSnBZWFFpT2pFMk9EUXlOVEkxTURZc0ltVjRjQ0k2TVRZNE5qZzBORFV3Tml3aWFYTnpJam9pY0hWaUxUUTFPRGN3T1NJc0luTjFZaUk2SW5CdmMzUXRjbVZoWTNScGIyNGlmUS5HWlNNeWFsZkpUXzFfekFZZzZIandBQnNRQy1ZYl8zUm42aEV0ZDUzUlBrIiwicCI6MTIxODI0MTIyLCJzIjo0NTg3MDksImYiOnRydWUsInUiOjE0NTYzMzE5LCJpYXQiOjE2ODQyNTI1MDYsImV4cCI6MTY4Njg0NDUwNiwiaXNzIjoicHViLTAiLCJzdWIiOiJsaW5rLXJlZGlyZWN0In0.-yMLDD464ZPpR-c2EkzCtvT3wfAog2fSwF4YCfiq29s?" class="tw-text-substack-secondary tw-underline" style="-webkit-text-decoration-line: underline !important; color: #808080 !important; text-decoration-line: underline !important;">online</a></span></td></tr></table></td></tr></table><table role="presentation" width="auto" class="header graphic-header" style="border-spacing: 0; padding: 16px 0 32px;"><tr><td align="center" style="padding: 0; text-align: center;"><a href="https://substack.com/redirect/2/eyJlIjoiaHR0cHM6Ly9uZXdzbGV0dGVyLnByYWdtYXRpY2VuZ2luZWVyLmNvbS9wL2luc2lkZS10aGUtZGF0YWRvZy1vdXRhZ2U_dG9rZW49ZXlKMWMyVnlYMmxrSWpveE5EVTJNek14T1N3aWNHOXpkRjlwWkNJNk1USXhPREkwTVRJeUxDSnBZWFFpT2pFMk9EUXlOVEkxTURZc0ltVjRjQ0k2TVRZNE5qZzBORFV3Tml3aWFYTnpJam9pY0hWaUxUUTFPRGN3T1NJc0luTjFZaUk2SW5CdmMzUXRjbVZoWTNScGIyNGlmUS5HWlNNeWFsZkpUXzFfekFZZzZIandBQnNRQy1ZYl8zUm42aEV0ZDUzUlBrIiwicCI6MTIxODI0MTIyLCJzIjo0NTg3MDksImYiOnRydWUsInUiOjE0NTYzMzE5LCJpYXQiOjE2ODQyNTI1MDYsImV4cCI6MTY4Njg0NDUwNiwiaXNzIjoicHViLTAiLCJzdWIiOiJsaW5rLXJlZGlyZWN0In0.-yMLDD464ZPpR-c2EkzCtvT3wfAog2fSwF4YCfiq29s?"><img role="presentation" width="550" height="110" src="https://substackcdn.com/image/fetch/w_1100,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3f6c431d-310a-45a0-90fe-3dc43354ef38_1100x220.png" class="header-image" style="border: none !important; display: block; height: auto; margin: 0 auto; max-width: 550px; vertical-align: middle; width: 100%;"></a></td></tr></table><div class="typography" style="font-size: 16px; line-height: 26px;"><div class="preamble" style="font-size: 16px; line-height: 26px; margin-top: 16px;"><div dir="auto" class="body markup" style="font-size: 16px; line-height: 26px; margin-bottom: 16px; text-align: initial; width: 100%; word-break: break-word;"><p style="color: #404040; font-size: 16px; line-height: 26px; margin: 0 0 20px 0; margin-top: 0;"><em><span>&#128075; Hi, this is </span><a href="https://substack.com/redirect/3a7a1c02-dece-4391-9a4f-353265c39b4b?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel style="color: #404040; text-decoration: underline;">Gergely</a><span> with the monthly free issue of the Pragmatic Engineer Newsletter. In every issue, I cover challenges at Big Tech and startups through the lens of engineering managers and senior engineers.</span></em></p><p style="color: #404040; font-size: 16px; line-height: 26px; margin: 0 0 20px 0;"><em><span>If you&#8217;re not a subscriber, you missed the issue on </span><a href="https://substack.com/redirect/6c103ef3-f22b-438d-b5b3-cf43196d7061?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel style="color: #404040; text-decoration: underline;">Staying technical as an engineering manager</a><span> and </span><a href="https://substack.com/redirect/92fa59ad-465f-4cab-a1ce-ffb12d2d4932?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel style="color: #404040; text-decoration: underline;">a few others</a><span>. Subscribe to get two full issues every week. Many subscribers expense this newsletter to their learning and development budget. If you have such a budget, here&#8217;s </span><a href="https://substack.com/redirect/38561fe1-6ff2-435e-8335-ee885297036e?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel style="color: #404040; text-decoration: underline;">an email you could send to your manager</a><span>.&#128071;</span></em></p><div class="subscribe-widget is-signed-up" style="direction: ltr; font-size: 16px; line-height: 26px; margin: 0 0 1em;"><p class="button-wrapper" style="color: #404040; font-size: 16px; line-height: 26px; margin: 0 0 20px 0; text-align: center;"><a href="https://substack.com/redirect/2/eyJlIjoiaHR0cHM6Ly9uZXdzbGV0dGVyLnByYWdtYXRpY2VuZ2luZWVyLmNvbS9zdWJzY3JpYmU_dG9rZW49ZXlKMWMyVnlYMmxrSWpveE5EVTJNek14T1N3aWFXRjBJam94TmpnME1qVXlOVEEyTENKbGVIQWlPakUyT0RZNE5EUTFNRFlzSW1semN5STZJbkIxWWkwME5UZzNNRGtpTENKemRXSWlPaUpqYUdWamEyOTFkQ0o5LnpkRElXQ0RWNkJkenNmVjB0eFYtdHhhMkhDZkhlc1FuSmwyMkw3UW5iS1EmdXRtX3NvdXJjZT1wb3N0IiwicCI6MTIxODI0MTIyLCJzIjo0NTg3MDksImYiOnRydWUsInUiOjE0NTYzMzE5LCJpYXQiOjE2ODQyNTI1MDYsImV4cCI6MTY4Njg0NDUwNiwiaXNzIjoicHViLTAiLCJzdWIiOiJsaW5rLXJlZGlyZWN0In0.MO8iP5NWaE5JWghj_ZCF7kKIsiqcmuXi1abfMaEhNBQ?&utm_medium=email&utm_source=subscribe-widget&utm_content=121824122" class="button subscribe-btn primary" style="background-color: #FF6B00; border: none; border-radius: 4px; box-sizing: border-box; color: #ffffff !important; cursor: pointer; display: inline-block; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; font-weight: 600; height: auto; line-height: 20px; margin: 0 auto; opacity: 1; outline: none; padding: 12px 20px; text-align: center; text-decoration: none !important; white-space: nowrap;"><span style="color: #ffffff; text-decoration: none;">Upgrade to paid</span></a></p></div><p style="color: #404040; font-size: 16px; line-height: 26px; margin: 0 0 20px 0; margin-bottom: 0;"></p></div><hr style="background: #e0e0e0; border: none; height: 1px; margin: 16px 0 0; padding: 0;"></div></div><div dir="auto" class="post typography" style="font-size: 16px; line-height: 26px; padding: 16px 0 0 0;"><div class="post-header" style="font-size: 16px; line-height: 26px;"><h1 class="post-title published" style="-moz-appearance: optimizelegibility; -moz-osx-font-smoothing: antialiased; -webkit-appearance: optimizelegibility; -webkit-font-smoothing: antialiased; appearance: optimizelegibility; color: #404040; font-family: Lora,sans-serif; font-size: 32px; font-weight: 600; line-height: 36px; margin: 0;"><a href="https://substack.com/app-link/post?publication_id=458709&post_id=121824122&utm_source=post-email-title&isFreemail=true&token=eyJ1c2VyX2lkIjoxNDU2MzMxOSwicG9zdF9pZCI6MTIxODI0MTIyLCJpYXQiOjE2ODQyNTI1MDYsImV4cCI6MTY4Njg0NDUwNiwiaXNzIjoicHViLTQ1ODcwOSIsInN1YiI6InBvc3QtcmVhY3Rpb24ifQ.GZSMyalfJT_1_zAYg6HjwABsQC-Yb_3Rn6hEtd53RPk" style="color: #404040; text-decoration: none;">Inside DataDog&#8217;s $5M Outage (Real-World Engineering Challenges #8)</a></h1><h3 class="subtitle" style="-moz-appearance: optimizelegibility; -moz-osx-font-smoothing: antialiased; -webkit-appearance: optimizelegibility; -webkit-font-smoothing: antialiased; appearance: optimizelegibility; color: #808080; font-family: 'SF Compact Display', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 18px; font-weight: normal; line-height: 24px; margin: 4px 0 0; margin-top: 12px;">The observability provider was down for more than a day in March. What went wrong, how did the engineering team respond, and what can businesses learn from the incident? Exclusive.</h3><table role="presentation" width="100%" border="0" cellspacing="0" cellpadding="0" class="post-meta" style="align-items: center; height: 20px; margin: 1em 0;"><tr><td><table role="presentation" width="auto" border="0" cellspacing="0" cellpadding="0"><tr><td><table role="presentation" width="auto" border="0" cellspacing="0" cellpadding="0"><tr><td style="vertical-align: middle;"><div class="pencraft frontend-pencraft-Box-module__reset--tAIEo frontend-pencraft-Text-module__size-11--1-ofT frontend-pencraft-Text-module__line-height-20--1soeQ frontend-pencraft-Text-module__weight-medium--aTbx5 frontend-pencraft-Text-module__font-meta--2i-cR frontend-pencraft-Text-module__color-primary--2I-sF frontend-pencraft-Text-module__transform-uppercase--38jbr frontend-pencraft-Text-module__reset--20JLV frontend-pencraft-Text-module__meta--3RRSj custom-css-email-post-author" style="color: #404040; font-family: 'SF Compact', -apple-system, -apple-system, -system-ui, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 11px; font-weight: 500; letter-spacing: .2px; line-height: 20px; margin: 0; text-decoration: unset; text-transform: uppercase;"><a style="color: #404040; font-family: 'SF Compact', -apple-system, -apple-system, -system-ui, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 11px; font-weight: 500; letter-spacing: .2px; line-height: 20px; margin: 0; text-decoration: none; text-transform: uppercase;" href="https://substack.com/redirect/d190ea49-94d3-47b1-8272-836143f08715?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" class="pencraft frontend-pencraft-Box-module__reset--tAIEo frontend-pencraft-Text-module__size-11--1-ofT frontend-pencraft-Text-module__line-height-20--1soeQ frontend-pencraft-Text-module__weight-medium--aTbx5 frontend-pencraft-Text-module__font-meta--2i-cR frontend-pencraft-Text-module__color-primary--2I-sF frontend-pencraft-Text-module__transform-uppercase--38jbr frontend-pencraft-Text-module__reset--20JLV frontend-pencraft-Text-module__meta--3RRSj">Gergely Orosz</a></div></td></tr></table></td></tr><tr><td><table role="presentation" width="auto" border="0" cellspacing="0" cellpadding="0"><tr><td style="vertical-align: middle;"><div class="pencraft frontend-pencraft-Box-module__reset--tAIEo frontend-pencraft-Text-module__size-11--1-ofT frontend-pencraft-Text-module__line-height-20--1soeQ frontend-pencraft-Text-module__weight-medium--aTbx5 frontend-pencraft-Text-module__font-meta--2i-cR frontend-pencraft-Text-module__color-secondary--XjVGl frontend-pencraft-Text-module__transform-uppercase--38jbr frontend-pencraft-Text-module__reset--20JLV frontend-pencraft-Text-module__meta--3RRSj" style="color: #808080; font-family: 'SF Compact', -apple-system, -apple-system, -system-ui, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 11px; font-weight: 500; letter-spacing: .2px; line-height: 20px; margin: 0; text-decoration: unset; text-transform: uppercase;"><time dateTime="2023-05-16T15:54:28.933Z">May 16</time></div></td></tr></table></td></tr></table></td><td align="right"><table role="presentation" width="auto" border="0" cellspacing="0" cellpadding="0"><tr><td style="vertical-align: middle;"><a href="https://substack.com/redirect/d190ea49-94d3-47b1-8272-836143f08715?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o"><img src="https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F802a32bb-2048-428b-bdb5-d6acd1e2b2d5_48x48.png" style="border: none !important; border-radius: 500000px; box-sizing: border-box; height: 40px; margin: 0px; max-width: 550px; min-height: 40px; min-width: 40px; object-fit: cover; vertical-align: middle; width: 40px;" width="40" height="40" class="custom-css-email-avatar frontend-email-system-basics-module__avatar--1sRIo"></a></td></tr></table></td></tr></table><table role="presentation" width="100%" border="0" cellspacing="0" cellpadding="0" class="email-ufi-2-top" style="border-bottom: 1px solid rgba(0, 0, 0, .13); border-top: 1px solid rgba(0, 0, 0, .13); min-width: 100%;"><tr height="16"><td height="16" style="font-size: 0px; line-height: 0;">&#160;</td></tr><tr><td><table role="presentation" width="100%" border="0" cellspacing="0" cellpadding="0"><tr><td><table role="presentation" width="auto" border="0" cellspacing="0" cellpadding="0"><tr><td style="vertical-align: middle;"><table role="presentation" width="38" border="0" cellspacing="0" cellpadding="0"><tr><td align="center"><a href="https://substack.com/app-link/post?publication_id=458709&post_id=121824122&utm_source=substack&isFreemail=true&submitLike=true&token=eyJ1c2VyX2lkIjoxNDU2MzMxOSwicG9zdF9pZCI6MTIxODI0MTIyLCJyZWFjdGlvbiI6IuKdpCIsImlhdCI6MTY4NDI1MjUwNiwiZXhwIjoxNjg2ODQ0NTA2LCJpc3MiOiJwdWItNDU4NzA5Iiwic3ViIjoicmVhY3Rpb24ifQ.AdrvndFYw2fOnNLfhxvwZR0LT8p95RiriPVUy1GijzI&utm_medium=email" style="border: 1px solid rgba(0, 0, 0, .13); border-radius: 100000px; box-sizing: border-box; color: #808080; display: inline-block; font-family: 'SF Pro Text', -apple-system, ui-sans-serif, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 12px; font-weight: 500; line-height: 1; min-width: 38px; padding: 9px 0; text-decoration: none; text-transform: uppercase; width: 38px;" class="email-icon-button"><img src="https://substackcdn.com/image/fetch/w_36,c_scale,f_png,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack.com%2Ficon%2FLucideHeart%3Fv%3D4%26height%3D36%26fill%3Dnone%26stroke%3D%2523808080%26strokeWidth%3D2" width="18" height="18" style="border: none !important; max-width: 18px; vertical-align: middle;" alt class="icon"></a></td></tr></table></td><td width="8" style="min-width: 8px"></td><td style="vertical-align: middle;"><table role="presentation" width="38" border="0" cellspacing="0" cellpadding="0"><tr><td align="center"><a href="https://substack.com/app-link/post?publication_id=458709&post_id=121824122&utm_source=substack&utm_medium=email&isFreemail=true&comments=true&token=eyJ1c2VyX2lkIjoxNDU2MzMxOSwicG9zdF9pZCI6MTIxODI0MTIyLCJpYXQiOjE2ODQyNTI1MDYsImV4cCI6MTY4Njg0NDUwNiwiaXNzIjoicHViLTQ1ODcwOSIsInN1YiI6InBvc3QtcmVhY3Rpb24ifQ.GZSMyalfJT_1_zAYg6HjwABsQC-Yb_3Rn6hEtd53RPk&utm_source=substack&utm_medium=email" style="border: 1px solid rgba(0, 0, 0, .13); border-radius: 100000px; box-sizing: border-box; color: #808080; display: inline-block; font-family: 'SF Pro Text', -apple-system, ui-sans-serif, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 12px; font-weight: 500; line-height: 1; min-width: 38px; padding: 9px 0; text-decoration: none; text-transform: uppercase; width: 38px;" class="email-icon-button"><img src="https://substackcdn.com/image/fetch/w_36,c_scale,f_png,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack.com%2Ficon%2FLucideComments%3Fv%3D4%26height%3D36%26fill%3Dnone%26stroke%3D%2523808080%26strokeWidth%3D2" width="18" height="18" style="border: none !important; max-width: 18px; vertical-align: middle;" alt class="icon"></a></td></tr></table></td><td width="8" style="min-width: 8px"></td><td style="vertical-align: middle;"><table role="presentation" width="38" border="0" cellspacing="0" cellpadding="0"><tr><td align="center"><a href="https://substack.com/redirect/2/eyJlIjoiaHR0cHM6Ly9uZXdzbGV0dGVyLnByYWdtYXRpY2VuZ2luZWVyLmNvbS9wL2luc2lkZS10aGUtZGF0YWRvZy1vdXRhZ2U_dXRtX3NvdXJjZT1zdWJzdGFjayZ1dG1fbWVkaXVtPWVtYWlsJmFjdGlvbj1yZXN0YWNrLWNvbW1lbnQiLCJwIjoxMjE4MjQxMjIsInMiOjQ1ODcwOSwiZiI6dHJ1ZSwidSI6MTQ1NjMzMTksImlhdCI6MTY4NDI1MjUwNiwiZXhwIjoxNjg2ODQ0NTA2LCJpc3MiOiJwdWItMCIsInN1YiI6ImxpbmstcmVkaXJlY3QifQ.Gh9DRwJy5DQWvzaI5FGFSwF9EqXtLofmCDLMZmau25I?&utm_source=substack&utm_medium=email" style="border: 1px solid rgba(0, 0, 0, .13); border-radius: 100000px; box-sizing: border-box; color: #808080; display: inline-block; font-family: 'SF Pro Text', -apple-system, ui-sans-serif, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 12px; font-weight: 500; line-height: 1; min-width: 38px; padding: 9px 0; text-decoration: none; text-transform: uppercase; width: 38px;" class="email-icon-button"><img src="https://substackcdn.com/image/fetch/w_36,c_scale,f_png,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack.com%2Ficon%2FNoteForwardIcon%3Fv%3D4%26height%3D36%26fill%3Dnone%26stroke%3D%2523808080%26strokeWidth%3D2" width="18" height="18" style="border: none !important; max-width: 18px; vertical-align: middle;" alt class="icon"></a></td></tr></table></td></tr></table></td><td align="right"><table role="presentation" width="auto" border="0" cellspacing="0" cellpadding="0"><tr><td style="vertical-align: middle;"><table role="presentation" width="auto" border="0" cellspacing="0" cellpadding="0"><tr><td align="center"><a href="https://substack.com/app-link/post?publication_id=458709&post_id=121824122&utm_source=substack&utm_medium=email&utm_content=share&action=share&triggerShare=true&isFreemail=true&token=eyJ1c2VyX2lkIjoxNDU2MzMxOSwicG9zdF9pZCI6MTIxODI0MTIyLCJpYXQiOjE2ODQyNTI1MDYsImV4cCI6MTY4Njg0NDUwNiwiaXNzIjoicHViLTQ1ODcwOSIsInN1YiI6InBvc3QtcmVhY3Rpb24ifQ.GZSMyalfJT_1_zAYg6HjwABsQC-Yb_3Rn6hEtd53RPk" class="email-button-outline" style="border: 1px solid rgba(0, 0, 0, .13); border-radius: 100000px; color: #808080; display: inline-block; font-family: 'SF Pro Text', -apple-system, ui-sans-serif, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 12px; font-weight: 500; line-height: 12px; padding: 9px 14px; text-decoration: none; text-transform: uppercase;"><div class="email-button-spacer" style="display: inline-block; font-size: 16px; line-height: 26px; max-width: 0; min-height: 18px; vertical-align: middle;"></div><span class="email-button-text" style="vertical-align: middle;">Share</span></a></td></tr></table></td></tr></table></td></tr></table></td></tr><tr height="16"><td height="16" style="font-size: 0px; line-height: 0;">&#160;</td></tr></table></div></div><div dir="auto" class="post typography" style="font-size: 16px; line-height: 26px; padding: 16px 0 0 0;"><div dir="auto" class="body markup" style="font-family: 'SF Pro Display', -apple-system, BlinkMacSystemFont, 'Inter', 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 16px; font-weight: 400; line-height: 26px; margin-bottom: 16px; text-align: initial; width: 100%; word-break: break-word;"><p style="color: #404040; font-size: 16px; line-height: 26px; margin: 0 0 20px 0; margin-top: 0;"><em><strong>&#8216;Real-world engineering challenges&#8217;</strong><span> is </span><a href="https://substack.com/redirect/eedc5ed7-b0c9-4656-bae0-70a2b5e38a13?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel style="color: #404040; text-decoration: underline;">a series</a><span> in which I interpret interesting software engineering or engineering management case studies from tech companies. You might learn something new in these articles, as we dive into the concepts they contain.</span></em></p><p style="color: #404040; font-size: 16px; line-height: 26px; margin: 0 0 20px 0;"><span>Datadog is an observability service used to monitor services and applications, and to alert teams when anomalies occur. Observability services are essential in confirming that services operate reliably. When they stop working, the results can be bad for business. On Wednesday, 8 March, this happened to Datadog, which suffered serious reliability issues for more than 24 hours. This incident was costly, at $5M in lost revenue directly as a result of the outage, as revealed in a later earnings call. </span><em>This was due to usage-based billing: Datadog most likely did not charge customers for data transfers while the system was down.</em></p><p style="color: #404040; font-size: 16px; line-height: 26px; margin: 0 0 20px 0;">The incident in March was the first global outage at Datadog, in which all its regions were simultaneously impacted, and every customer experienced downtime. More than 2 months later, there has still not been an external postmortem published, which is unusual for such a major incident. When I reached out to Datadog about this delay a week ago, I was told more details will be published, but not when.</p><p style="color: #404040; font-size: 16px; line-height: 26px; margin: 0 0 20px 0;"><span>Confusingly, company CEO Olivier Pomel suggested during the earnings call on 4 May, that a postmortem had been published. He encouraged </span><em>everyone</em><span> to read it, saying (emphasis mine):</span></p><blockquote style="border-left: 4px solid #FF6B00; margin: 20px 0; padding: 0;"><p style="color: #404040; font-size: 16px; line-height: 26px; margin: 0 0 20px 0; margin-left: 20px;"><span>&#8220;We shared some information and postmortem about what happened.</span><strong> I encourage everyone to read it because it's a fascinating document</strong><span>.&#8221;</span></p></blockquote><p style="color: #404040; font-size: 16px; line-height: 26px; margin: 0 0 20px 0;">But no postmortem was publicly available when this statement was made! I asked Datadog if the CEO misspoke, and if not, where this postmortem was located which was presumably publicly available to &#8220;everyone.&#8221; I did not receive a response, despite several attempts.</p><p style="color: #404040; font-size: 16px; line-height: 26px; margin: 0 0 20px 0;">I was, however, able to obtain two postmortems that were shared among a subset of Datadog customers. These documents form the basis of today&#8217;s case study.</p><p style="color: #404040; font-size: 16px; line-height: 26px; margin: 0 0 20px 0;">In today&#8217;s issue, we cover:</p><ol style="margin-top: 0; padding: 0;"><li style="margin: 8px 0 0 32px;"><p style="box-sizing: border-box; color: #404040; font-size: 16px; line-height: 26px; margin: 0; margin-bottom: 0; padding-left: 4px;"><strong>The timeline of events</strong><span>. The concepts of TTD, TTM, TTR and how Datadog performed by these metrics.</span></p></li><li style="margin: 8px 0 0 32px;"><p style="box-sizing: border-box; color: #404040; font-size: 16px; line-height: 26px; margin: 0; margin-bottom: 0; padding-left: 4px;"><strong>A deep dive into the OS update which caused the outage.</strong><span> CVEs, buffer overflows, what the system process does, and what system dumps are. And why you should review operating system changelogs. Did Datadog miss something critical before applying the update?</span></p></li><li style="margin: 8px 0 0 32px;"><p style="box-sizing: border-box; color: #404040; font-size: 16px; line-height: 26px; margin: 0; margin-bottom: 0; padding-left: 4px;"><strong>What really caused the outage?</strong><span> Details on the systemd-networkd process, and what happens when you create tens of thousands of new virtual machines at the same time.</span></p></li><li style="margin: 8px 0 0 32px;"><p style="box-sizing: border-box; color: #404040; font-size: 16px; line-height: 26px; margin: 0; margin-bottom: 0; padding-left: 4px;"><strong>Why did running in 5 regions, on 3 different cloud providers not help? </strong><span>Datadog's outage should have never happened, and the right steps were taken to diversify its infrastructure against an outage like this. So how did all regions across AWS, GCP and Azure down at the same time, despite no direct connection existing between them?</span></p></li><li style="margin: 8px 0 0 32px;"><p style="box-sizing: border-box; color: #404040; font-size: 16px; line-height: 26px; margin: 0; margin-bottom: 0; padding-left: 4px;"><strong>Follow-up actions. </strong><span>What immediate changes did the company make to avoid another restart-wave?</span></p></li><li style="margin: 8px 0 0 32px;"><p style="box-sizing: border-box; color: #404040; font-size: 16px; line-height: 26px; margin: 0; margin-bottom: 0; padding-left: 4px;"><strong>Communication challenges during the outage.</strong><span> Datadog did poorly in one area: communicating with customers. Some had an amazing experience, while others were left in the dark. How come?</span></p></li><li style="margin: 8px 0 0 32px;"><p style="box-sizing: border-box; color: #404040; font-size: 16px; line-height: 26px; margin: 0; margin-bottom: 0; padding-left: 4px;"><strong>Learnings</strong><span>. What can other engineering teams take from this outage?</span></p></li></ol><p style="color: #404040; font-size: 16px; line-height: 26px; margin: 0 0 20px 0;"><em><span>This outage deep-dive is detailed enough that it could be cut off in email clients. </span><a href="https://substack.com/redirect/3a3d855f-ccde-405b-8dcd-a9ba05b4c8c4?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel style="color: #404040; text-decoration: underline;">Read it online without interruption</a><span>.</span></em></p><p class="button-wrapper" data-attrs="{&quot;url&quot;:&quot;https://newsletter.pragmaticengineer.com/p/inside-the-datadog-outage&quot;,&quot;text&quot;:&quot;Read this article online&quot;,&quot;action&quot;:null,&quot;class&quot;:null}" style="color: #404040; font-size: 16px; line-height: 26px; margin: 0 0 20px 0; text-align: center;"><a class="button primary" href="https://substack.com/redirect/3a3d855f-ccde-405b-8dcd-a9ba05b4c8c4?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel style="background-color: #FF6B00; border: none; border-radius: 4px; box-sizing: border-box; color: #ffffff !important; cursor: pointer; display: inline-block; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; font-weight: 600; height: auto; line-height: 20px; margin: 0; opacity: 1; outline: none; padding: 12px 20px; text-align: center; text-decoration: none !important; white-space: nowrap;"><span style="color: #ffffff; text-decoration: none;">Read this article online</span></a></p><h2 class="header-with-anchor-widget" style="-moz-appearance: optimizelegibility; -moz-osx-font-smoothing: antialiased; -webkit-appearance: optimizelegibility; -webkit-font-smoothing: antialiased; appearance: optimizelegibility; color: #404040; font-family: 'SF Compact Display', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 1.625em; font-weight: bold; line-height: 1.16em; margin: 1em 0 0.625em 0; position: relative;">1. Timeline, TTD, TTM, TTR</h2><p style="color: #404040; font-size: 16px; line-height: 26px; margin: 0 0 20px 0;">I&#8217;ll use Central European Summer Time (CEST) for time stamps, as the majority of Datadog&#8217;s engineering team is in this timezone. I&#8217;m also indicating US Eastern time (EST) for reference.</p><p style="color: #404040; font-size: 16px; line-height: 26px; margin: 0 0 20px 0;"><em>8 March, 07:00 CEST</em><span> (01:00 EST): a new operating system update is applied to tens of thousands of virtual machines (VMs.) Machines to which this update is applied start to mysteriously go offline.</span></p><p style="color: #404040; font-size: 16px; line-height: 26px; margin: 0 0 20px 0;"><em>07:03,</em><span> CEST (01:03 EST): the first internal alert is fired due to an anomaly in one of the metrics.</span></p><p style="color: #404040; font-size: 16px; line-height: 26px; margin: 0 0 20px 0;"><em>07:18</em><span> CEST (01:18 EST): the oncall team starts an investigation.</span></p><p style="color: #404040; font-size: 16px; line-height: 26px; margin: 0 0 20px 0;"><em>07:31</em><span> CEST (01:31 EST): </span><a href="https://substack.com/redirect/5a3be011-1f60-492f-9147-3c2af4d5d9ad?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel style="color: #404040; text-decoration: underline;">the incident</a><span> was declared, visible to customers, stating:</span></p><blockquote style="border-left: 4px solid #FF6B00; margin: 20px 0; padding: 0;"><p style="color: #404040; font-size: 16px; line-height: 26px; margin: 0 0 20px 0; margin-left: 20px;">&#8220;We are investigating loading issues on our web application. As a result, some users might be getting errors or increased latency when loading the web application.&#8221;</p></blockquote><p style="color: #404040; font-size: 16px; line-height: 26px; margin: 0 0 20px 0;"><strong>Time to Detection (TTD): 31 minutes. </strong><span>In an incident, TTD indicates the length of time from when it starts until it is acknowledged by the oncall team, and an outage is declared.</span></p><p style="color: #404040; font-size: 16px; line-height: 26px; margin: 0 0 20px 0;"><span>In the book </span><a href="https://substack.com/redirect/d69a1e71-ef6c-4235-b449-b332d2e96ceb?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel style="color: #404040; text-decoration: underline;">Seeking SRE</a><span>, Martin Check describes this metric as:</span></p><blockquote style="border-left: 4px solid #FF6B00; margin: 20px 0; padding: 0;"><p style="color: #404040; font-size: 16px; line-height: 26px; margin: 0 0 20px 0; margin-left: 20px;">&#8220;Time to Detect is the time from the impact start, to the time that an incident is visible to an operator. We start the counter when impact first becomes visible to the customer, even if our monitoring didn&#8217;t detect it. This is often the same as the time that the Service-Level Agreement (SLA) is breached.</p><p style="color: #404040; font-size: 16px; line-height: 26px; margin: 0 0 20px 0; margin-left: 20px;">Believe it or not, TTD is the most important metric for incidents that require manual mitigation action. This measure determines the quality and accuracy of your monitoring. If you don&#8217;t know about your customer pain, you can&#8217;t begin the process of recovery, and you certainly can&#8217;t actuate automation to respond or mitigate. Maybe even more important, you can&#8217;t communicate to your customers that you know about the problem and are working on it. The challenge with TTD is balancing the monitoring sensitivity such that you find all of the customer issues quickly and accurately, without constantly interrupting your engineers for issues that don&#8217;t impact customers.&#8221;</p></blockquote><p style="color: #404040; font-size: 16px; line-height: 26px; margin: 0 0 20px 0;"><em>08:23</em><strong> </strong><span>CEST (02:23 EST): when the potential impact on data ingestion and monitoring was discovered, the update said:</span></p><blockquote style="border-left: 4px solid #FF6B00; margin: 20px 0; padding: 0;"><p style="color: #404040; font-size: 16px; line-height: 26px; margin: 0 0 20px 0; margin-left: 20px;">&#8220;We are investigating issues causing delayed data ingestion across all data types. As a result monitor notifications may be delayed, and you may observe delayed data throughout the web app.&#8221;</p></blockquote><p style="color: #404040; font-size: 16px; line-height: 26px; margin: 0 0 20px 0;"><span>In all fairness, we could question if TTD </span><em>should</em><span> be 1 hour and 23 minutes, and not 31 minutes. This is because while Datadog did declare an incident 31 minutes after the event began, it did not tell customers that their core functionality of data ingestion and monitoring were impacted.</span></p><p style="color: #404040; font-size: 16px; line-height: 26px; margin: 0 0 20px 0;"><em>21:39</em><span> CEST (15:39 EST): 14 hours after the start of the incident, the first longer incident description is </span><a href="https://substack.com/redirect/5a3be011-1f60-492f-9147-3c2af4d5d9ad?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel style="color: #404040; text-decoration: underline;">posted</a><span> on the incident timeline:</span></p><p style="color: #404040; font-size: 16px; line-height: 26px; margin: 0 0 20px 0;">&#8220;We expect live data recovery in a matter of hours (not minutes, and not days)&#8221;</p><p style="color: #404040; font-size: 16px; line-height: 26px; margin: 0 0 20px 0;"><em>9 March 9:58 CEST</em><span> (03:58 EST): all services declared operational. However, data was still delayed, and backfilling needed to be completed.</span></p><p style="color: #404040; font-size: 16px; line-height: 26px; margin: 0 0 20px 0;"><em>10 March 06:25 CEST</em><span> (00:25 EST): incident fully resolved, with historical data backfilled.</span></p><p style="color: #404040; font-size: 16px; line-height: 26px; margin: 0 0 20px 0;"><strong>Time to Mitigate (TTM): </strong><span>This refers to the duration from the start of an incident until services are restored to a healthy status. In Datadog&#8217;s case, it was 1 day, and 2 hours, 58 minutes for live services to be restored, and 1 days, 23 hours 25 minutes</span><strong> </strong><span>for the entire incident to be resolved.</span><strong> </strong><span>Here&#8217;s how the TTM metric is visualized in </span><a href="https://substack.com/redirect/d69a1e71-ef6c-4235-b449-b332d2e96ceb?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel style="color: #404040; text-decoration: underline;">Seeking SRE</a><span>:</span></p><div class="captioned-image-container-static" style="font-size: 16px; line-height: 26px; margin: 32px auto;"><figure style="margin: 0 auto; width: 100%;"><table class="image-wrapper" width="100%" border="0" cellspacing="0" cellpadding="0" style="mso-padding-alt: 1em 0 1.6em;"><tbody><tr><td style="text-align: center;"></td><td align="left" class="content" width="1328" style="text-align: center;"><a class="image-link" target="_blank" href="https://substack.com/redirect/ed8a6ccd-7c55-443a-8068-c086b3b39517?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel style="align-items: center; border: none; display: block; flex-direction: column; height: auto; margin: 0; padding: 0; position: relative; text-decoration: none; width: auto;"><img data-attrs="{&quot;src&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/5010a559-8460-445c-9748-4c095509b264_1328x574.png&quot;,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:null,&quot;height&quot;:574,&quot;width&quot;:1328,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:179685,&quot;alt&quot;:&quot;Time to mitigate consists of the time until detection (TTD,) plus the time to engage the right engineer or engineering team (TTE), plus the time to fix (TTF.) Determining the TTE is usually difficult, so most incidents tend to not capture this information. Capturing the TTE is useful to spot cases where teams have a hard time finding the responsible engineers for given systems. Source: Seeking SRE&quot;,&quot;title&quot;:null,&quot;type&quot;:&quot;image/png&quot;,&quot;href&quot;:null,&quot;belowTheFold&quot;:true,&quot;internalRedirect&quot;:null}" alt="Time to mitigate consists of the time until detection (TTD,) plus the time to engage the right engineer or engineering team (TTE), plus the time to fix (TTF.) Determining the TTE is usually difficult, so most incidents tend to not capture this information. Capturing the TTE is useful to spot cases where teams have a hard time finding the responsible engineers for given systems. Source: Seeking SRE" title="Time to mitigate consists of the time until detection (TTD,) plus the time to engage the right engineer or engineering team (TTE), plus the time to fix (TTF.) Determining the TTE is usually difficult, so most incidents tend to not capture this information. Capturing the TTE is useful to spot cases where teams have a hard time finding the responsible engineers for given systems. Source: Seeking SRE" width="550" height="237.72590361445782" class="wide-image" src="https://substackcdn.com/image/fetch/w_2656,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5010a559-8460-445c-9748-4c095509b264_1328x574.png" style="-ms-interpolation-mode: bicubic; border: none !important; display: block; height: auto; margin: 0 auto; margin-bottom: 0; max-width: 100% !important; vertical-align: middle; width: auto !important;"></a></td><td style="text-align: center;"></td></tr></tbody></table><figcaption class="image-caption" style="box-sizing: content-box; color: #808080; font-size: 14px; font-weight: 400; letter-spacing: -.15px; line-height: 20px; margin-top: 8px; padding-left: 15%; padding-right: 15%; text-align: center; width: 70%;"><em>Time to mitigate consists of the time until detection (TTD,) plus the time to engage the right engineer or engineering team (TTE), plus the time to fix (TTF.) Determining the TTE is usually difficult, so most incidents tend to not capture this information. Capturing the TTE is useful to spot cases where teams have a hard time finding the responsible engineers for given systems. Source: </em><a href="https://substack.com/redirect/d69a1e71-ef6c-4235-b449-b332d2e96ceb?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel style="text-decoration: underline;">Seeking SRE</a></figcaption></figure></div><p style="color: #404040; font-size: 16px; line-height: 26px; margin: 0 0 20px 0;"><strong>Time to Remediate (TTR): unclear as yet. </strong><span>After the incident is mitigated, there&#8217;s often follow-up work for engineering teams to address one or more questions:</span></p><ul style="margin-top: 0; padding: 0;"><li style="margin: 8px 0 0 32px; mso-special-format: bullet;"><p style="box-sizing: border-box; color: #404040; font-size: 16px; line-height: 26px; margin: 0; margin-bottom: 0; padding-left: 4px;">Reducing the time to detect, in future. This usually means improving monitoring and reducing the noise of alerts.</p></li><li style="margin: 8px 0 0 32px; mso-special-format: bullet;"><p style="box-sizing: border-box; color: #404040; font-size: 16px; line-height: 26px; margin: 0; margin-bottom: 0; padding-left: 4px;">Reducing the time to mitigate, for next time. This can involve improving systems, oncall teams owning systems, improving runbooks, making changes to allow automated rollback of changes, and so on.</p></li><li style="margin: 8px 0 0 32px; mso-special-format: bullet;"><p style="box-sizing: border-box; color: #404040; font-size: 16px; line-height: 26px; margin: 0; margin-bottom: 0; padding-left: 4px;"><span>Make changes which address the </span><em>systemic</em><span> root causes of an incident. Is there automated testing, manual steps, or other process changes that could address the systemic issues behind an incident? Common approaches include automated </span><a href="https://substack.com/redirect/c4305cc6-1acc-4f57-9c9a-b285ccb2dc47?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel style="color: #404040; text-decoration: underline;">canarying</a><span>-and-rollback, static analysis, automated testing (like unit, integration or end-to-end tests) craft, or the use of staging environments.</span></p></li></ul><p style="color: #404040; font-size: 16px; line-height: 26px; margin: 0 0 20px 0;">The higher the impact of an outage, the longer the work to fix the underlying causes can take. This is because high-impact outages can be the triggers to make the complex and time-consuming changes which ensure a system operates more reliably in future.</p><h2 class="header-with-anchor-widget" style="-moz-appearance: optimizelegibility; -moz-osx-font-smoothing: antialiased; -webkit-appearance: optimizelegibility; -webkit-font-smoothing: antialiased; appearance: optimizelegibility; color: #404040; font-family: 'SF Compact Display', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 1.625em; font-weight: bold; line-height: 1.16em; margin: 1em 0 0.625em 0; position: relative;">2. A deep dive into the OS update that caused the outage</h2><p style="color: #404040; font-size: 16px; line-height: 26px; margin: 0 0 20px 0;"><span>Datadog&#8217;s outage was caused by an operating system (OS) update. Ubuntu Linux runs on the virtual machines and regularly updates this distribution to the latest version. The problem occurred during an update to the </span><a href="https://substack.com/redirect/f2ff31f6-1941-4b0e-a31a-1e53fb2db96e?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel style="color: #404040; text-decoration: underline;">22.04 version</a><span> of the OS, involving a security update to the systemd process.</span></p><p style="color: #404040; font-size: 16px; line-height: 26px; margin: 0 0 20px 0;"><strong>systemd </strong><span>is a &quot;system and service manager&#8221; on Linux. It is an initialization system and is the first process to be executed after the Linux kernel is loaded, and is assigned the process &#8220;ID 1.&#8221; systemd is responsible for initializing the user space, and brings up and initializes services while Linux is running. As such, it&#8217;s core to all Linux operating systems.</span></p><p style="color: #404040; font-size: 16px; line-height: 26px; margin: 0 0 20px 0;"><span>Here are the </span><a href="https://substack.com/redirect/a6f730b0-ed71-4940-a223-5e53c1aa3a3f?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel style="color: #404040; text-decoration: underline;">release notes</a><span> for the 2 March 2023 update. It was this OS update &#8211; and one of the two changes to systemd &#8211; that caused Datadog&#8217;se problems, a few days later:</span></p><blockquote style="border-left: 4px solid #FF6B00; margin: 20px 0; padding: 0;"><p style="color: #404040; font-size: 16px; line-height: 26px; margin: 0 0 20px 0; margin-left: 20px;"><span>&#8220;SECURITY UPDATE: buffer overrun vulnerability in format_timespan()</span><br><span>- debian/patches/CVE-2022-3821.patch: time-util: fix buffer-over-run</span><br><span>- CVE-2022-3821</span><br><br><span>SECURITY UPDATE: information leak vulnerability in systemd-coredump</span><br><span>- debian/patches/CVE-2022-4415.patch: do not allow user to access coredumps with changed uid/gid/capabilities</span><br><span>- CVE-2022-4415&#8221;</span></p></blockquote><p style="color: #404040; font-size: 16px; line-height: 26px; margin: 0 0 20px 0;">Let&#8217;s analyze these notes, to see if we can spot what caused Datadog&#8217;s VMs to start shutting down when this patch was applied. The first thing which stands out is a CVE identifier under both fixes.</p><p style="color: #404040; font-size: 16px; line-height: 26px; margin: 0 0 20px 0;"><strong>What is a CVE?</strong><span> Common Vulnerabilities and Exposures (CVE) is a list of publicly disclosed computer security flaws. The CVE program is run by the MITRE corporation with funding from the US Department of Homeland Security.</span></p><p style="color: #404040; font-size: 16px; line-height: 26px; margin: 0 0 20px 0;">CVE IDs are a reliable way to recognize vulnerabilities, and to coordinate fixes across vendors. In the case of Linux, given the number of distributions; such as from Red Hat, Ubuntu, or Debian, CVEs are a helpful reference for which distribution has addressed certain, known vulnerabilities.</p><p style="color: #404040; font-size: 16px; line-height: 26px; margin: 0 0 20px 0;"><span>You can browse </span><a href="https://substack.com/redirect/6ecc45cd-a52b-4656-a8ba-1149c4137c57?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel style="color: #404040; text-decoration: underline;">all CVEs here</a><span>, and there&#8217;s even a Twitter feed of the </span><a href="https://substack.com/redirect/587a141a-43e8-4680-ac76-30ce93c8ce40?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel style="color: #404040; text-decoration: underline;">latest submitted CVEs</a><span>. The list is lengthy and several CVEs tend to be submitted hourly.</span></p><h3 class="header-with-anchor-widget" style="-moz-appearance: optimizelegibility; -moz-osx-font-smoothing: antialiased; -webkit-appearance: optimizelegibility; -webkit-font-smoothing: antialiased; appearance: optimizelegibility; color: #404040; font-family: 'SF Compact Display', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 1.375em; font-weight: bold; line-height: 1.16em; margin: 1em 0 0.625em 0; position: relative;">The buffer overflow fix</h3><p style="color: #404040; font-size: 16px; line-height: 26px; margin: 0 0 20px 0;"><span>The first fix was for </span><a href="https://substack.com/redirect/d11cfa31-4c93-4fa8-94bf-5972a66d8c3e?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel style="color: #404040; text-decoration: underline;">CVE-2022-3821</a><span>: a buffer overflow. A </span><a href="https://substack.com/redirect/3736e40a-9c64-4129-885e-4e161a9940a6?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel style="color: #404040; text-decoration: underline;">buffer overflow</a><span> happens when a program writes data to a buffer, but goes beyond the memory allocated for the program. In doing so, it overwrites the adjacent locations of other programs.</span></p><p style="color: #404040; font-size: 16px; line-height: 26px; margin: 0 0 20px 0;"><span>By taking advantage of a buffer overflow, it&#8217;s possible to alter the runtime of </span><em>another</em><span> program. In systems like Linux, the memory layout of the system is well defined, as a whole. The systemd process is the first to be loaded into the memory, and so causing a buffer overflow which allows malicious code to execute things which are normally not possible.</span></p><div class="captioned-image-container-static" style="font-size: 16px; line-height: 26px; margin: 32px auto;"><figure style="margin: 0 auto; width: 100%;"><table class="image-wrapper" width="100%" border="0" cellspacing="0" cellpadding="0" style="mso-padding-alt: 1em 0 1.6em;"><tbody><tr><td style="text-align: center;"></td><td align="left" class="content" width="1456" style="text-align: center;"><a class="image-link" target="_blank" href="https://substack.com/redirect/99e11fa5-7710-4c9d-b591-d4dd303e4d93?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel style="align-items: center; border: none; display: block; flex-direction: column; height: auto; margin: 0; padding: 0; position: relative; text-decoration: none; width: auto;"><img data-attrs="{&quot;src&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/08425153-372a-426a-a96e-09d2240fc796_2134x1406.png&quot;,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:null,&quot;height&quot;:959,&quot;width&quot;:1456,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:385690,&quot;alt&quot;:&quot;A buffer overflow. A common vulnerability which can open nasty attack vectors for a program or operating system&quot;,&quot;title&quot;:null,&quot;type&quot;:&quot;image/png&quot;,&quot;href&quot;:null,&quot;belowTheFold&quot;:true,&quot;internalRedirect&quot;:null}" alt="A buffer overflow. A common vulnerability which can open nasty attack vectors for a program or operating system" title="A buffer overflow. A common vulnerability which can open nasty attack vectors for a program or operating system" width="550" height="362.25961538461536" class="wide-image" src="https://substackcdn.com/image/fetch/w_2912,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F08425153-372a-426a-a96e-09d2240fc796_2134x1406.png" style="-ms-interpolation-mode: bicubic; border: none !important; display: block; height: auto; margin: 0 auto; margin-bottom: 0; max-width: 100% !important; vertical-align: middle; width: auto !important;"></a></td><td style="text-align: center;"></td></tr></tbody></table><figcaption class="image-caption" style="box-sizing: content-box; color: #808080; font-size: 14px; font-weight: 400; letter-spacing: -.15px; line-height: 20px; margin-top: 8px; padding-left: 15%; padding-right: 15%; text-align: center; width: 70%;">A buffer overflow. A common vulnerability which can open nasty attack vectors for a program or operating system</figcaption></figure></div><p style="color: #404040; font-size: 16px; line-height: 26px; margin: 0 0 20px 0;"><span>In the case of this vulnerability, an attacker could supply specific values for time and accuracy that cause a buffer overrun in format_timespan(), which causes systemd to crash. As systemd manages all processes, if it crashes then so does the whole operating system. This is also known as a </span><a href="https://substack.com/redirect/de38eb3f-95df-488e-98bd-78c5a828587b?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel style="color: #404040; text-decoration: underline;">kernel panic</a><span>. Until it is patched, an attacker can insert specific dates into inputs parsed by systemd&#8217;s format_timespan() method, and trigger a Denial of Service by making the system crash.</span></p><p style="color: #404040; font-size: 16px; line-height: 26px; margin: 0 0 20px 0;"><span>Here is </span><a href="https://substack.com/redirect/fb7d17a8-2d16-4836-99a9-3156b79a088c?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel style="color: #404040; text-decoration: underline;">the fix</a><span> for this vulnerability:</span></p><div class="captioned-image-container-static" style="font-size: 16px; line-height: 26px; margin: 32px auto;"><figure style="margin: 0 auto; width: 100%;"><table class="image-wrapper" width="100%" border="0" cellspacing="0" cellpadding="0" style="mso-padding-alt: 1em 0 1.6em;"><tbody><tr><td style="text-align: center;"></td><td align="left" class="content" width="1456" style="text-align: center;"><a class="image-link" target="_blank" href="https://substack.com/redirect/5d88488d-cbb0-4b71-b618-b11bedc016ea?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel style="align-items: center; border: none; display: block; flex-direction: column; height: auto; margin: 0; padding: 0; position: relative; text-decoration: none; width: auto;"><img data-attrs="{&quot;src&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/c4906915-b3d7-452a-8328-064846de6cc3_2110x1204.png&quot;,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:null,&quot;height&quot;:831,&quot;width&quot;:1456,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:228565,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:&quot;image/png&quot;,&quot;href&quot;:null,&quot;belowTheFold&quot;:true,&quot;internalRedirect&quot;:null}" alt width="550" height="313.907967032967" class="wide-image" src="https://substackcdn.com/image/fetch/w_2912,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc4906915-b3d7-452a-8328-064846de6cc3_2110x1204.png" style="-ms-interpolation-mode: bicubic; border: none !important; display: block; height: auto; margin: 0 auto; margin-bottom: 0; max-width: 100% !important; vertical-align: middle; width: auto !important;"></a></td><td style="text-align: center;"></td></tr></tbody></table></figure></div><p style="color: #404040; font-size: 16px; line-height: 26px; margin: 0 0 20px 0;"><span>While the fix is only 1 line (and 3 lines added in tests), it takes quite the effort to understand </span><em>why</em><span> it works. This is partly because the format_timespan method is a </span><a href="https://substack.com/redirect/45953334-3010-48f1-817e-54e8f7d6b2e0?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel style="color: #404040; text-decoration: underline;">100-line method</a><span>, which uses variable names like i, j, k, l, m, n, and these variable names do not have comments assigned to them, meaning their function is harder to deduce. Fortunately, </span><a href="https://substack.com/redirect/45647cc8-e81e-4e3d-bbe7-74db94ac3cfa?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel style="color: #404040; text-decoration: underline;">the issue raised</a><span> for the buffer overflow explains the problem clearly:</span></p><blockquote style="border-left: 4px solid #FF6B00; margin: 20px 0; padding: 0;"><p style="color: #404040; font-size: 16px; line-height: 26px; margin: 0 0 20px 0; margin-left: 20px;">&#8220;The problem of the above code is that n = MIN((size_t) k, l); can assign the buffer size l to n. Then p += n; will cause p to point to one byte after the buffer buf, leading to a buffer overwrite in *p=0 (an off-by-one error).&#8221;</p></blockquote><p style="color: #404040; font-size: 16px; line-height: 26px; margin: 0 0 20px 0;">It&#8217;s testament to how hard it is to write secure code, that an off-by-one bug is discovered years after it was introduced!</p><p style="color: #404040; font-size: 16px; line-height: 26px; margin: 0 0 20px 0;"><strong>Could the buffer overflow fix have caused issues? </strong><span>It&#8217;s unlikely, as this fix closes an attack surface that could have been exploited to crash the system.</span></p><h3 class="header-with-anchor-widget" style="-moz-appearance: optimizelegibility; -moz-osx-font-smoothing: antialiased; -webkit-appearance: optimizelegibility; -webkit-font-smoothing: antialiased; appearance: optimizelegibility; color: #404040; font-family: 'SF Compact Display', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 1.375em; font-weight: bold; line-height: 1.16em; margin: 1em 0 0.625em 0; position: relative;">The information leak vulnerability fix</h3><p style="color: #404040; font-size: 16px; line-height: 26px; margin: 0 0 20px 0;"><span>The second fix was </span><a href="https://substack.com/redirect/6b31619a-c451-428f-a07f-ef8c11fe3bc5?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel style="color: #404040; text-decoration: underline;">CVE-2022-4415</a><span>, which was a security flaw in which systemd-coredump did not respect the fs.suid_dumpable kernel setting.&#160;</span></p><p style="color: #404040; font-size: 16px; line-height: 26px; margin: 0 0 20px 0;"><strong>systemd-coredump</strong><span> is a utility that&#8217;s part of systemd. It handles core dumps, which are files that contain a process&#8217;s memory and register state at the time a program is terminated. Core dumps can be useful when debugging, as they provide a precise snapshot of the system when the crash occurred.&#160;</span></p><p style="color: #404040; font-size: 16px; line-height: 26px; margin: 0 0 20px 0;"><span>There is the option to configure what is added to the core dump file, using the </span><em>suid_dumpable</em><span> variable. The options are:</span></p><ul style="margin-top: 0; padding: 0;"><li style="margin: 8px 0 0 32px; mso-special-format: bullet;"><p style="box-sizing: border-box; color: #404040; font-size: 16px; line-height: 26px; margin: 0; margin-bottom: 0; padding-left: 4px;">1 (default): any process which has changed privilege levels, or is execute-only, will not be dumped.</p></li><li style="margin: 8px 0 0 32px; mso-special-format: bullet;"><p style="box-sizing: border-box; color: #404040; font-size: 16px; line-height: 26px; margin: 0; margin-bottom: 0; padding-left: 4px;">2 (debug): all processes dump when possible. This is insecure as it allows regular users to examine the memory contents of privileged processes.</p></li><li style="margin: 8px 0 0 32px; mso-special-format: bullet;"><p style="box-sizing: border-box; color: #404040; font-size: 16px; line-height: 26px; margin: 0; margin-bottom: 0; padding-left: 4px;">3 (suidsafe): appropriate when administrators are attempting to debug problems in a normal environment.</p></li></ul><p style="color: #404040; font-size: 16px; line-height: 26px; margin: 0 0 20px 0;">The problem was that the setting used was option &#8220;2&#8221; by default, meaning all processes were dumped, even ones that a user has no viewing privileges for.</p><p style="color: #404040; font-size: 16px; line-height: 26px; margin: 0 0 20px 0;"><strong>Could the information leak vulnerability fix have caused issues for Datadog? </strong><span>Unlikely. The fix would have only caused issues if there were processes that analyzed core dumps of crashed processes. Those core dumps would no longer have access to the memory details of processes run by the root user.</span></p><h2 class="header-with-anchor-widget" style="-moz-appearance: optimizelegibility; -moz-osx-font-smoothing: antialiased; -webkit-appearance: optimizelegibility; -webkit-font-smoothing: antialiased; appearance: optimizelegibility; color: #404040; font-family: 'SF Compact Display', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 1.625em; font-weight: bold; line-height: 1.16em; margin: 1em 0 0.625em 0; position: relative;"><span>3. What </span><em>really</em><span> caused the outage?</span></h2><p style="color: #404040; font-size: 16px; line-height: 26px; margin: 0 0 20px 0;"><span>The updates to systemd were relatively harmless, in the context of operating thousands of virtual machines. If anything, those updates made the Linux distribution more secure. And as it turned out, neither systemd fix </span><em>directly</em><span> caused the outage.</span></p><p style="color: #404040; font-size: 16px; line-height: 26px; margin: 0 0 20px 0;"><strong>The problem was forcing the roll out of the fixes. </strong><span>The Linux operating system had to be restarted during the update to systemd. Systemd is process number 1, and if anything changes it demands a full reset of Linux, and systemd bootstrapping the system from scratch.</span></p><p style="color: #404040; font-size: 16px; line-height: 26px; margin: 0 0 20px 0;">This is where the problem manifested:</p><ol style="margin-top: 0; padding: 0;"><li style="margin: 8px 0 0 32px;"><p style="box-sizing: border-box; color: #404040; font-size: 16px; line-height: 26px; margin: 0; margin-bottom: 0; padding-left: 4px;">The security update restarted the whole system.</p></li><li style="margin: 8px 0 0 32px;"><p style="box-sizing: border-box; color: #404040; font-size: 16px; line-height: 26px; margin: 0; margin-bottom: 0; padding-left: 4px;">As systemd restarted, so did all its sub-processes, including systemd-networkd.</p></li><li style="margin: 8px 0 0 32px;"><p style="box-sizing: border-box; color: #404040; font-size: 16px; line-height: 26px; margin: 0; margin-bottom: 0; padding-left: 4px;"><strong>systemd-networkd</strong><span> is a process that manages network configurations. With the restart, this process inadvertently removed network routes.</span></p></li><li style="margin: 8px 0 0 32px;"><p style="box-sizing: border-box; color: #404040; font-size: 16px; line-height: 26px; margin: 0; margin-bottom: 0; padding-left: 4px;"><span>The routes systemd-network removed were managed by an </span><a href="https://substack.com/redirect/308fa1b0-a1cb-48ea-a28b-0ed283902726?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel style="color: #404040; text-decoration: underline;">eBPF</a><span> (extended Berkeley Packet Filter)-based container routing control plane based on </span><a href="https://substack.com/redirect/7f608281-13d6-4e86-bb52-e32dad4baddf?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel style="color: #404040; text-decoration: underline;">Cilium</a><span>. Cilium handles communication between containers. Datadog&#8217;s network control plane manages the Kubernetes clusters.</span></p></li><li style="margin: 8px 0 0 32px;"><p style="box-sizing: border-box; color: #404040; font-size: 16px; line-height: 26px; margin: 0; margin-bottom: 0; padding-left: 4px;">Thanks to the routes removed, the VMs (nodes) in these routes simply vanished from the network control plane, going offline.</p></li><li style="margin: 8px 0 0 32px;"><p style="box-sizing: border-box; color: #404040; font-size: 16px; line-height: 26px; margin: 0; margin-bottom: 0; padding-left: 4px;">The problem of routes removed upon restart, had not been previously observed. This is because when starting a new node, there are no container-started routes already stored. Starting the systemd-networkd does not &#8220;erase'' anything.</p></li></ol><p style="color: #404040; font-size: 16px; line-height: 26px; margin: 0 0 20px 0;">The problem was these restarts happened almost simultaneously, on tens of thousands of virtual machines. This was not even the worst part, losing the network control plane was.</p><p style="color: #404040; font-size: 16px; line-height: 26px; margin: 0 0 20px 0;"><strong>In a circular dependency, the reset also took offline the network routing control plane. </strong><span>Nodes disappearing from the control plane is unfortunate, but they can be brought back quickly. However, the postmortem describes the real problem:</span></p><blockquote style="border-left: 4px solid #FF6B00; margin: 20px 0; padding: 0;"><p style="color: #404040; font-size: 16px; line-height: 26px; margin: 0 0 20px 0; margin-left: 20px;">&#8220;Among the VMs that were brought online by this bug were the ones that power our regionalized control planes [based on Cilium]. This caused most of the Kubernetes clusters we use to run our platform to be unable to schedule new workloads, automatically repair, and automatically scale.&#160;</p><p style="color: #404040; font-size: 16px; line-height: 26px; margin: 0 0 20px 0; margin-left: 20px;">Thus we gradually started to lose processing capacity and by [08.31 CEST], enough of it was online that the outage was visible to [customers].&#8220;</p></blockquote><p style="color: #404040; font-size: 16px; line-height: 26px; margin: 0 0 20px 0;">Let&#8217;s visualize what happened. The initial state of a region:</p><div class="captioned-image-container-static" style="font-size: 16px; line-height: 26px; margin: 32px auto;"><figure style="margin: 0 auto; width: 100%;"><table class="image-wrapper" width="100%" border="0" cellspacing="0" cellpadding="0" style="mso-padding-alt: 1em 0 1.6em;"><tbody><tr><td style="text-align: center;"></td><td align="left" class="content" width="1456" style="text-align: center;"><a class="image-link" target="_blank" href="https://substack.com/redirect/340f1502-9af6-49a5-af64-3e68151ad2ef?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel style="align-items: center; border: none; display: block; flex-direction: column; height: auto; margin: 0; padding: 0; position: relative; text-decoration: none; width: auto;"><img data-attrs="{&quot;src&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/99a7c17b-4e5a-4f50-a42f-460d3b51edf8_1924x970.png&quot;,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:null,&quot;height&quot;:734,&quot;width&quot;:1456,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:229918,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:&quot;image/png&quot;,&quot;href&quot;:null,&quot;belowTheFold&quot;:true,&quot;internalRedirect&quot;:null}" alt width="550" height="277.2664835164835" class="wide-image" src="https://substackcdn.com/image/fetch/w_2912,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F99a7c17b-4e5a-4f50-a42f-460d3b51edf8_1924x970.png" style="-ms-interpolation-mode: bicubic; border: none !important; display: block; height: auto; margin: 0 auto; margin-bottom: 0; max-width: 100% !important; vertical-align: middle; width: auto !important;"></a></td><td style="text-align: center;"></td></tr></tbody></table></figure></div><p style="color: #404040; font-size: 16px; line-height: 26px; margin: 0 0 20px 0;">Then the first restarts happen, and nodes restarted offline:</p><div class="captioned-image-container-static" style="font-size: 16px; line-height: 26px; margin: 32px auto;"><figure style="margin: 0 auto; width: 100%;"><table class="image-wrapper" width="100%" border="0" cellspacing="0" cellpadding="0" style="mso-padding-alt: 1em 0 1.6em;"><tbody><tr><td style="text-align: center;"></td><td align="left" class="content" width="1456" style="text-align: center;"><a class="image-link" target="_blank" href="https://substack.com/redirect/19ea4bdd-c941-4f2c-92f1-4e703c178d96?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel style="align-items: center; border: none; display: block; flex-direction: column; height: auto; margin: 0; padding: 0; position: relative; text-decoration: none; width: auto;"><img data-attrs="{&quot;src&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/720f5fd3-eeab-44b5-a554-53cd72fe5c12_1948x1146.png&quot;,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:null,&quot;height&quot;:857,&quot;width&quot;:1456,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:309469,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:&quot;image/png&quot;,&quot;href&quot;:null,&quot;belowTheFold&quot;:true,&quot;internalRedirect&quot;:null}" alt width="550" height="323.7293956043956" class="wide-image" src="https://substackcdn.com/image/fetch/w_2912,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F720f5fd3-eeab-44b5-a554-53cd72fe5c12_1948x1146.png" style="-ms-interpolation-mode: bicubic; border: none !important; display: block; height: auto; margin: 0 auto; margin-bottom: 0; max-width: 100% !important; vertical-align: middle; width: auto !important;"></a></td><td style="text-align: center;"></td></tr></tbody></table></figure></div><p style="color: #404040; font-size: 16px; line-height: 26px; margin: 0 0 20px 0;">More restarts happen, and start to take control plane nodes offline:</p><div class="captioned-image-container-static" style="font-size: 16px; line-height: 26px; margin: 32px auto;"><figure style="margin: 0 auto; width: 100%;"><table class="image-wrapper" width="100%" border="0" cellspacing="0" cellpadding="0" style="mso-padding-alt: 1em 0 1.6em;"><tbody><tr><td style="text-align: center;"></td><td align="left" class="content" width="1456" style="text-align: center;"><a class="image-link" target="_blank" href="https://substack.com/redirect/208dd6fc-48b5-42b6-b93c-4a86f8a30b6b?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel style="align-items: center; border: none; display: block; flex-direction: column; height: auto; margin: 0; padding: 0; position: relative; text-decoration: none; width: auto;"><img data-attrs="{&quot;src&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/1cf172c5-4780-4860-aaf2-caa12e481cf2_2130x1078.png&quot;,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:null,&quot;height&quot;:737,&quot;width&quot;:1456,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:320994,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:&quot;image/png&quot;,&quot;href&quot;:null,&quot;belowTheFold&quot;:true,&quot;internalRedirect&quot;:null}" alt width="550" height="278.39972527472526" class="wide-image" src="https://substackcdn.com/image/fetch/w_2912,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1cf172c5-4780-4860-aaf2-caa12e481cf2_2130x1078.png" style="-ms-interpolation-mode: bicubic; border: none !important; display: block; height: auto; margin: 0 auto; margin-bottom: 0; max-width: 100% !important; vertical-align: middle; width: auto !important;"></a></td><td style="text-align: center;"></td></tr></tbody></table></figure></div><p style="color: #404040; font-size: 16px; line-height: 26px; margin: 0 0 20px 0;">Finally, the region goes offline as the control plane is taken offline:</p><div class="captioned-image-container-static" style="font-size: 16px; line-height: 26px; margin: 32px auto;"><figure style="margin: 0 auto; width: 100%;"><table class="image-wrapper" width="100%" border="0" cellspacing="0" cellpadding="0" style="mso-padding-alt: 1em 0 1.6em;"><tbody><tr><td style="text-align: center;"></td><td align="left" class="content" width="1456" style="text-align: center;"><a class="image-link" target="_blank" href="https://substack.com/redirect/61827cb2-d3d8-4544-b518-2f9726cf9600?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel style="align-items: center; border: none; display: block; flex-direction: column; height: auto; margin: 0; padding: 0; position: relative; text-decoration: none; width: auto;"><img data-attrs="{&quot;src&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/55ca09d3-be71-4aef-b0a2-41cb9f03f5fa_2084x1022.png&quot;,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:null,&quot;height&quot;:714,&quot;width&quot;:1456,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:259249,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:&quot;image/png&quot;,&quot;href&quot;:null,&quot;belowTheFold&quot;:true,&quot;internalRedirect&quot;:null}" alt width="550" height="269.71153846153845" class="wide-image" src="https://substackcdn.com/image/fetch/w_2912,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F55ca09d3-be71-4aef-b0a2-41cb9f03f5fa_2084x1022.png" style="-ms-interpolation-mode: bicubic; border: none !important; display: block; height: auto; margin: 0 auto; margin-bottom: 0; max-width: 100% !important; vertical-align: middle; width: auto !important;"></a></td><td style="text-align: center;"></td></tr></tbody></table></figure></div><p style="color: #404040; font-size: 16px; line-height: 26px; margin: 0 0 20px 0;">So the control plane going offline was the real problem. Had the control plane been unaffected, the outage would have likely been brief. In that case, Datadog could have just re-added the vanished nodes to the routes using the control plane. But with the control planes also gone, the first order of business had to be to get this control plane back and figure out how it disappeared in the first place.</p><p style="color: #404040; font-size: 16px; line-height: 26px; margin: 0 0 20px 0;"><span>This circular dependency, where the infrastructure control plane depends on the infrastructure it manages, recalls what happened when the video game Roblox went </span><a href="https://substack.com/redirect/4dab4e85-54fd-4baf-81b8-9119c16fd746?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel style="color: #404040; text-decoration: underline;">down for three days straight</a><span> in October 2022. Then, the dependency was that Nomad (orchestrating containers) and Vault (secrets management service) both used Consul (service discovery.) So when Consul became unhealthy, Vault went offline. But Vault was needed to operate Consul: a circular dependency.</span></p><h2 class="header-with-anchor-widget" style="-moz-appearance: optimizelegibility; -moz-osx-font-smoothing: antialiased; -webkit-appearance: optimizelegibility; -webkit-font-smoothing: antialiased; appearance: optimizelegibility; color: #404040; font-family: 'SF Compact Display', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 1.625em; font-weight: bold; line-height: 1.16em; margin: 1em 0 0.625em 0; position: relative;">4. Why did running in 5 regions on 3 different cloud providers not help?</h2><p style="color: #404040; font-size: 16px; line-height: 26px; margin: 0 0 20px 0;"><span>To its credit, Datadog </span><em>does have</em><span> several things in place which should have made this outage impossible:</span></p><p style="color: #404040; font-size: 16px; line-height: 26px; margin: 0 0 20px 0;"><strong>1. No security patch updates all at once.</strong><span> From the postmortem:</span></p><blockquote style="border-left: 4px solid #FF6B00; margin: 20px 0; padding: 0;"><p style="color: #404040; font-size: 16px; line-height: 26px; margin: 0 0 20px 0; margin-left: 20px;">&#8220;Whenever we push new code, security patches or configuration changes to our platform, we do so region-by-region, cluster-by-cluster, node-by-node. As a matter of process, we don&#8217;t apply changes in-situ; rather, we replace nodes and containers in a blue/green fashion. Changes that are unsuccessful trigger an automatic rollback. We have confidence in this change management tooling because it is exercised at a large scale, dozens of times a day.&#8221;</p></blockquote><p style="color: #404040; font-size: 16px; line-height: 26px; margin: 0 0 20px 0;"><strong>2. Operating in 5 regions across 3 cloud providers. </strong><span>Datadog does not tie its infrastructure to a single cloud provider, but uses 3 different ones. I did a reverse lookup of the IP address of its data centers, and the cloud providers they most likely use, based on this detail:</span></p><ul style="margin-top: 0; padding: 0;"><li style="margin: 8px 0 0 32px; mso-special-format: bullet;"><p style="box-sizing: border-box; color: #404040; font-size: 16px; line-height: 26px; margin: 0; margin-bottom: 0; padding-left: 4px;"><strong>AWS</strong><span> for US1 (US East Coast, likely using AWS&#8217;s us-east-1 data center) and for AP1 (Japan, likely using AWS&#8217;s ap-northeast-1 data center near Tokyo)</span></p></li><li style="margin: 8px 0 0 32px; mso-special-format: bullet;"><p style="box-sizing: border-box; color: #404040; font-size: 16px; line-height: 26px; margin: 0; margin-bottom: 0; padding-left: 4px;"><strong>Google Cloud</strong><span> for EU1 and US5</span></p></li><li style="margin: 8px 0 0 32px; mso-special-format: bullet;"><p style="box-sizing: border-box; color: #404040; font-size: 16px; line-height: 26px; margin: 0; margin-bottom: 0; padding-left: 4px;"><strong>Azure</strong><span> for US3 (US West Coast, likely using Microsoft&#8217;s Quincy data center)</span></p></li></ul><p style="color: #404040; font-size: 16px; line-height: 26px; margin: 0 0 20px 0;">Within each cloud provider, it uses several regions and operates on dozens of availability zones.</p><p style="color: #404040; font-size: 16px; line-height: 26px; margin: 0 0 20px 0;">Considering features #1 and #2: how did an OS update which took VMs offline, then snowball into a global outage? This incident should have been caught either at the virtual machine level, or at cluster level. And even if a cloud provider mandated a patch be installed across virtual machines, the other two cloud providers would have different policies.</p><p style="color: #404040; font-size: 16px; line-height: 26px; margin: 0 0 20px 0;">Well, it seems Datadog is using cloud providers more as an infrastructure-as-a-service setup for its machines, and running its own virtual images on top of the same OS image. And this was the root of the problem. From the postmortem:</p><blockquote style="border-left: 4px solid #FF6B00; margin: 20px 0; padding: 0;"><p style="color: #404040; font-size: 16px; line-height: 26px; margin: 0 0 20px 0; margin-left: 20px;">&#8220;The base OS image we use to run Kubernetes had a legacy security update channel enabled, which caused the update to apply automatically. By design we use fairly minimal base OS images so these updates are infrequent.</p><p style="color: #404040; font-size: 16px; line-height: 26px; margin: 0 0 20px 0; margin-left: 20px;">To compound the issue, the time at which the automatic update happens is set by default in the OS to a window between 06:00 and 07:00 UTC [7:00 and 8:00 CEST CEST / 1:00 and 2:00 EST]&#8221;</p></blockquote><p style="color: #404040; font-size: 16px; line-height: 26px; margin: 0 0 20px 0;">This was the problem.</p><p style="color: #404040; font-size: 16px; line-height: 26px; margin: 0 0 20px 0;"><strong>All Datadog&#8217;s virtual machines restarted and updated within an hour.</strong><span> This happened across all 3 cloud providers and all 3 regions, despite there being no networking coupling in place between regions. The configuration was the same and the update timezone was not even tied to a region, but set to UTC.</span></p><p style="color: #404040; font-size: 16px; line-height: 26px; margin: 0 0 20px 0;"><span>To be fair, this is a learning that&#8217;s rare outside of a global incident, like this one was. As the postmortem noted, automatic updates are infrequent, and </span><em>usually</em><span> don&#8217;t result in a system reboot.</span></p><p style="color: #404040; font-size: 16px; line-height: 26px; margin: 0 0 20px 0;">The last time there was a security update to systemd was more than a year ago, in January 2022. That update could have caused the exact same issue with the restarting of systemd-networkd, and the clearing of the routing tables. I can only assume that back in January 2022, Datadog had a different infrastructure setup; perhaps a different OS for its Kubernetes cluster, for example.</p><p style="color: #404040; font-size: 16px; line-height: 26px; margin: 0 0 20px 0;"><strong>Using different cloud providers complicated recovery, in an interesting way. </strong><span>Datadog made its infrastructure redundant by relying on multiple cloud providers. However, using 3 cloud providers made recovery from the outage trickier. Here&#8217;s how the company describes the challenge in the postmortem:</span></p><blockquote style="border-left: 4px solid #FF6B00; margin: 20px 0; padding: 0;"><p style="color: #404040; font-size: 16px; line-height: 26px; margin: 0 0 20px 0; margin-left: 20px;">&#8220;Some cloud providers&#8217; auto-scaling logic correctly identified the affected node as unhealthy but did not initiate the immediate retirement of the node. This meant that simply rebooting the affected instance was the correct recovery step and was much faster for stateful workloads that still had their data intact and led to an overall faster recovery.</p><p style="color: #404040; font-size: 16px; line-height: 26px; margin: 0 0 20px 0; margin-left: 20px;"><span>Other cloud providers&#8217; auto-scaling logic immediately replaces the unhealthy node with a fresh one. Data on the unhealthy node is lost and needs to be recovered, which adds to the complexity of the task at hand. At the scale of tens of thousands of nodes being replaced at once, it also created a thundering herd that tested the cloud provider&#8217;s regional rate limits in various ways, none of which was obvious </span><em>ex ante</em><span> [at the time.]&#8221;</span></p></blockquote><p style="color: #404040; font-size: 16px; line-height: 26px; margin: 0 0 20px 0;">Cloud providers that did not try to be &#8220;smart&#8221; about unhealthy nodes, turned out to be easier to deal with. These nodes already had the routing table available, which just needed to be loaded into systemd-networkd. Here, Datatog could restart the nodes. It was the cloud providers spanning a brand new node and disposing of &#8220;unhealthy&#8221; nodes that complicated things.</p><p style="color: #404040; font-size: 16px; line-height: 26px; margin: 0 0 20px 0;"><strong><span>A &#8220;</span><a href="https://substack.com/redirect/4457b728-53d1-42c3-814b-c64edd19fbcf?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel style="color: #404040; text-decoration: underline;">thundering herd</a><span>&#8221; </span></strong><span>refers to when a large number of threads, processes or VMs become available all at once and put a strain on the resources of the system. In this case, the strain was on the cloud provider&#8217;s resources to spin up tens of thousands of virtual machines at the same time.</span></p><p style="color: #404040; font-size: 16px; line-height: 26px; margin: 0 0 20px 0;">One common solution to a thundering herd problem is to put some kind of queuing or backoff mechanism in place. So instead of all VMs starting up at once, a certain number are added in phases. Of course, this is a problem that&#8217;s better understood if you already went through it.</p><h2 class="header-with-anchor-widget" style="-moz-appearance: optimizelegibility; -moz-osx-font-smoothing: antialiased; -webkit-appearance: optimizelegibility; -webkit-font-smoothing: antialiased; appearance: optimizelegibility; color: #404040; font-family: 'SF Compact Display', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 1.625em; font-weight: bold; line-height: 1.16em; margin: 1em 0 0.625em 0; position: relative;">5. Follow-up actions</h2><p style="color: #404040; font-size: 16px; line-height: 26px; margin: 0 0 20px 0;">After mitigating the outage, the Datadog team took several steps to ensure this outage won&#8217;t happen again:</p><p style="color: #404040; font-size: 16px; line-height: 26px; margin: 0 0 20px 0;"><strong>1. Made OS images resilient to restarts. </strong><span>Another cause of the outage was that the routing tables were lost when restarting a node. Datadog made a change at the configuration of systemd-networkd, so that upon a restart the routing tables needed for Cilium (the container routing control plane that manages the Kubernetes clusters) are no longer removed.</span></p><p style="color: #404040; font-size: 16px; line-height: 26px; margin: 0 0 20px 0;"><strong>2. No more automatic updates</strong><span>. Datadog has disabled the legacy security update channel in the Ubuntu base image, and rolled this change out across all regions. From now on, the company will manually roll out all updates, including security updates, in a controlled fashion.&#160;</span></p><p style="color: #404040; font-size: 16px; line-height: 26px; margin: 0 0 20px 0;"><span>For someone interested in security, turning off automated security updates could set off an alarm bell. Won&#8217;t turning off these updates make things </span><em>less</em><span> secure? Given Datatog already fixed its service to be resilient to restarts, should it not leave automatic updates on?</span></p><p style="color: #404040; font-size: 16px; line-height: 26px; margin: 0 0 20px 0;">According to the team, turning off automated updates makes no difference to the security posture, because they already review and apply OS-level security updates, and don&#8217;t rely on automated updates to get the latest security patches.</p><p style="color: #404040; font-size: 16px; line-height: 26px; margin: 0 0 20px 0;">My view is Datadog is doing itself a favor by not depending on automated updates that could restart the whole fleet at the same time. I would only recommend leaving automated updates on at companies which do not manually update their stack or tools; often because they don&#8217;t have the scale for dedicated security folks to keep on top of security patches.</p><h2 class="header-with-anchor-widget" style="-moz-appearance: optimizelegibility; -moz-osx-font-smoothing: antialiased; -webkit-appearance: optimizelegibility; -webkit-font-smoothing: antialiased; appearance: optimizelegibility; color: #404040; font-family: 'SF Compact Display', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 1.625em; font-weight: bold; line-height: 1.16em; margin: 1em 0 0.625em 0; position: relative;">6. Communication challenges during the outage</h2><p style="color: #404040; font-size: 16px; line-height: 26px; margin: 0 0 20px 0;">I talked with Datadog customers affected by the outage, and also reviewed the incident communications. Here&#8217;s my thoughts on how things went in terms of informing customers &#8211; and the public &#8211; about what went wrong.</p><p style="color: #404040; font-size: 16px; line-height: 26px; margin: 0 0 20px 0;"><strong>Public communication was alright, but could have been better. </strong><span>When the incident started, Datadog promptly </span><a href="https://substack.com/redirect/5a3be011-1f60-492f-9147-3c2af4d5d9ad?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel style="color: #404040; text-decoration: underline;">declared</a><span> an incident. This would contain updates on what was happening.</span></p><p style="color: #404040; font-size: 16px; line-height: 26px; margin: 0 0 20px 0;">For a global outage affecting all customers, it took 31 minutes to declare this an incident. This is not amazing speed, but given the service had only just started to degrade, the response time was ok. However, it also took about an hour and a half to let customers know that ingestion and monitoring was impacted. This was a slow response for an outage of such scale.</p><p style="color: #404040; font-size: 16px; line-height: 26px; margin: 0 0 20px 0;">Updates from then onwards were relatively frequent, hourly at least. What wasn&#8217;t so great from a customer&#8217;s point of view, was that these updates were often meaningless copy-pastes of previous updates:</p><div class="captioned-image-container-static" style="font-size: 16px; line-height: 26px; margin: 32px auto;"><figure style="margin: 0 auto; width: 100%;"><table class="image-wrapper" width="100%" border="0" cellspacing="0" cellpadding="0" style="mso-padding-alt: 1em 0 1.6em;"><tbody><tr><td style="text-align: center;"></td><td align="left" class="content" width="1456" style="text-align: center;"><a class="image-link" target="_blank" href="https://substack.com/redirect/b68f1328-c93e-407a-8b66-8920d6bd5797?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel style="align-items: center; border: none; display: block; flex-direction: column; height: auto; margin: 0; padding: 0; position: relative; text-decoration: none; width: auto;"><img data-attrs="{&quot;src&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/3e2e1505-36a0-4c80-bd4a-44439e471fc0_1886x1870.png&quot;,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:null,&quot;height&quot;:1444,&quot;width&quot;:1456,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:433228,&quot;alt&quot;:&quot;Updates from the first hour of the Datadog outage. Updates were frequent but frequently just a copy-paste of the previous update, with zero new information, and light on specifics. Also, the updates contained no information on what customers could or should do&quot;,&quot;title&quot;:null,&quot;type&quot;:&quot;image/png&quot;,&quot;href&quot;:null,&quot;belowTheFold&quot;:true,&quot;internalRedirect&quot;:null}" alt="Updates from the first hour of the Datadog outage. Updates were frequent but frequently just a copy-paste of the previous update, with zero new information, and light on specifics. Also, the updates contained no information on what customers could or should do" title="Updates from the first hour of the Datadog outage. Updates were frequent but frequently just a copy-paste of the previous update, with zero new information, and light on specifics. Also, the updates contained no information on what customers could or should do" width="550" height="545.467032967033" class="wide-image" src="https://substackcdn.com/image/fetch/w_2912,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3e2e1505-36a0-4c80-bd4a-44439e471fc0_1886x1870.png" style="-ms-interpolation-mode: bicubic; border: none !important; display: block; height: auto; margin: 0 auto; margin-bottom: 0; max-width: 100% !important; vertical-align: middle; width: auto !important;"></a></td><td style="text-align: center;"></td></tr></tbody></table><figcaption class="image-caption" style="box-sizing: content-box; color: #808080; font-size: 14px; font-weight: 400; letter-spacing: -.15px; line-height: 20px; margin-top: 8px; padding-left: 15%; padding-right: 15%; text-align: center; width: 70%;">Four hours worth of updates from the Datadog outage, hours after the incident started. Updates were frequent but frequently just a copy-paste of the previous update, with zero new information, and light on specifics. Also, the updates contained no information on what customers could or should do</figcaption></figure></div><p style="color: #404040; font-size: 16px; line-height: 26px; margin: 0 0 20px 0;">For example, 14 updates in a row were a variation of the phrase, &#8220;data ingestion and monitor notifications remain delayed across all data types.&#8221; These updates technically satisfied demand for frequent communication, but in reality contained no new information for customers.</p><p style="color: #404040; font-size: 16px; line-height: 26px; margin: 0 0 20px 0;"><strong>The Datadog team&#8217;s first meaningful, public-facing update came 14 hours into the incident. </strong><span>This update:</span></p><ul style="margin-top: 0; padding: 0;"><li style="margin: 8px 0 0 32px; mso-special-format: bullet;"><p style="box-sizing: border-box; color: #404040; font-size: 16px; line-height: 26px; margin: 0; margin-bottom: 0; padding-left: 4px;">Summarized the problem at a high-level: &#8220;A system update on a number of hosts controlling our compute clusters caused a subset of these hosts to lose network connectivity&#8221;</p></li><li style="margin: 8px 0 0 32px; mso-special-format: bullet;"><p style="box-sizing: border-box; color: #404040; font-size: 16px; line-height: 26px; margin: 0; margin-bottom: 0; padding-left: 4px;">Explained the current status: &#8220;We identified and mitigated the initial issue, and rebuilt our clusters (...) The recovery work is currently constrained by the number and large scale of the systems involved.&#8221;</p></li><li style="margin: 8px 0 0 32px; mso-special-format: bullet;"><p style="box-sizing: border-box; color: #404040; font-size: 16px; line-height: 26px; margin: 0; margin-bottom: 0; padding-left: 4px;">Made it clear what to expect next: &#8220;We expect live data recovery in a matter of hours (not minutes, and not days)&#8221;</p></li></ul><p style="color: #404040; font-size: 16px; line-height: 26px; margin: 0 0 20px 0;">I like that the team gave a meaningful &#8211; if vague &#8211; estimate (&#8220;live data recovery in a matter of hours &#8211; not minutes, and not days) and then delivered on this promise by prioritizing live capabilities.</p><p style="color: #404040; font-size: 16px; line-height: 26px; margin: 0 0 20px 0;">For most customers, Datadog&#8217;s live functionality was restored within a day and a half, and all data was backfilled within two days, with no reported data loss.</p><p style="color: #404040; font-size: 16px; line-height: 26px; margin: 0 0 20px 0;"><strong>After the incident concluded, Datadog did no further &#8220;centralized&#8221; communication with customers. </strong><span>Once a large outage is resolved, the next step is conducting a postmortem, as we cover in </span><a href="https://substack.com/redirect/be3473a2-d4b6-48cf-8770-51ea3277dc81?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel style="color: #404040; text-decoration: underline;">Incident review and postmortem best practices.</a><span> It&#8217;s customary to share this postmortem with customers, to build up trust.</span></p><p style="color: #404040; font-size: 16px; line-height: 26px; margin: 0 0 20px 0;">It&#8217;s at this point that the story of this outage took a strange turn...</p><p style="color: #404040; font-size: 16px; line-height: 26px; margin: 0 0 20px 0;">Some customers got a 2-page preliminary postmortem a few days after the incident, which summarized details like the systemd-networkd issue causing the problem, and how Datadog has ensured this particular type of outage will not occur again. Two weeks after the incident, some customers received a 4-page PDF postmortem with more details and a neat overview of the outage.</p><p style="color: #404040; font-size: 16px; line-height: 26px; margin: 0 0 20px 0;">However, several customers got none of these documents.</p><p style="color: #404040; font-size: 16px; line-height: 26px; margin: 0 0 20px 0;">What was the difference between customers who got postmortem documents, and those who didn&#8217;t? I&#8217;ve talked with around 10 impacted customers and there&#8217;s no link between their spending and the level of service they received. Both the smallest and largest customers by annual spend ($50K/year and $1M+/year) reported excellent service. Meanwhile, other small and large customers received no communication after the outage concluded.</p><p style="color: #404040; font-size: 16px; line-height: 26px; margin: 0 0 20px 0;">The only potential connection I can discern is the account manager. Some account managers were extremely proactive, forwarding all details to their account. Others did not do this.</p><p style="color: #404040; font-size: 16px; line-height: 26px; margin: 0 0 20px 0;"><strong>Why did Datadog rely on account managers to forward postmortem documents as 1:1 communication? </strong><span>Datadog had never previously had a global outage which impacted all customers. And when it happened the company didn&#8217;t have a &#8220;unified&#8221; customer communication process. Not all customers were notified of the preliminary postmortem, and the same happened with the &#8220;internal postmortem,&#8221; which some customers received 2 weeks after the incident.</span></p><p style="color: #404040; font-size: 16px; line-height: 26px; margin: 0 0 20px 0;">Customers who received no communication were obviously surprised that others did get access to the postmortem.</p><p style="color: #404040; font-size: 16px; line-height: 26px; margin: 0 0 20px 0;">Datadog&#8217;s CEO further complicated things when he urged &#8220;everyone&#8221; to read the postmortem, a document that wasn&#8217;t even available to all customers!</p><p style="color: #404040; font-size: 16px; line-height: 26px; margin: 0 0 20px 0;"><span>No further public update in the two-and-a-half months since Datadog's biggest outage is also a lowlight. It is not uncommon for companies to take time to produce a public postmortem. For example, Roblox took </span><a href="https://substack.com/redirect/42e68b5c-af1a-410f-b446-a274b1be8eb7?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel style="color: #404040; text-decoration: underline;">nearly three months</a><span> to publish the incident review of its 3-day outage.</span></p><p style="color: #404040; font-size: 16px; line-height: 26px; margin: 0 0 20px 0;"><span>However, Datadog is a developer tooling company whose customers include software engineers &#8211; unlike Roblox whose customers are mainly young gamers. Datadog has been a public advocate for outage management best practices, and </span><a href="https://substack.com/redirect/fba057da-00ce-4323-8a73-43232435550e?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel style="color: #404040; text-decoration: underline;">claims</a><span> it&#8217;s possible to write &#8220;faster postmortems with Datadog.&#8221;&#160;</span></p><p style="color: #404040; font-size: 16px; line-height: 26px; margin: 0 0 20px 0;"><span>But when it came to an outage of its own, the company was slower in producing this artifact than almost all other developer tooling providers had been. For example, it took Atlassian 3 weeks to publish its postmortem </span><a href="https://substack.com/redirect/37654def-3849-4af9-8e2f-da3af8747ec2?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel style="color: #404040; text-decoration: underline;">following its longest outage</a><span>. Datadog competitor Honeycomb </span><a href="https://substack.com/redirect/31f7eeb7-82e7-4528-805e-742c56b08514?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel style="color: #404040; text-decoration: underline;">published</a><span> a postmortem about a service degradation and ingestion problems within one day.</span></p><p style="color: #404040; font-size: 16px; line-height: 26px; margin: 0 0 20px 0;">Meanwhile, when it comes to transparency and sharing incident reviews quickly, few companies come close to Cloudflare. The company tends to share postmortems by the next day &#8211; and sometimes on the same day. Here are the last three outage reports:</p><ul style="margin-top: 0; padding: 0;"><li style="margin: 8px 0 0 32px; mso-special-format: bullet;"><p style="box-sizing: border-box; color: #404040; font-size: 16px; line-height: 26px; margin: 0; margin-bottom: 0; padding-left: 4px;"><a href="https://substack.com/redirect/ba74bdcf-91f7-4cec-9e2c-02919cad0d18?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel style="color: #404040; text-decoration: underline;">Cloudflare incident on 24 Jan 2023 </a><span>&#8211; published on 25 Jan&#160;</span></p></li><li style="margin: 8px 0 0 32px; mso-special-format: bullet;"><p style="box-sizing: border-box; color: #404040; font-size: 16px; line-height: 26px; margin: 0; margin-bottom: 0; padding-left: 4px;"><a href="https://substack.com/redirect/cbed766d-0787-4a0e-a238-700f2f5cca4f?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel style="color: #404040; text-decoration: underline;">Partial Cloudflare outage on 25 Oct 2022</a><span> &#8211; published on 26 Oct</span></p></li><li style="margin: 8px 0 0 32px; mso-special-format: bullet;"><p style="box-sizing: border-box; color: #404040; font-size: 16px; line-height: 26px; margin: 0; margin-bottom: 0; padding-left: 4px;"><a href="https://substack.com/redirect/0410bea3-bb8c-4743-97e3-442336303a5a?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel style="color: #404040; text-decoration: underline;">Cloudflare outage on 21 June 2022</a><span> &#8211; published the same day, despite being a complex, highly impactful global outage.</span></p></li></ul><p style="color: #404040; font-size: 16px; line-height: 26px; margin: 0 0 20px 0;">I talked with engineers at Datadog who shared that the challenge of the postmortem is that it has involved dozens of teams, who all had input. Collecting and recording these observations takes time. But from the outside, none of this is visible. This sluggishness suggests the company has plenty of catching up to do in producing timely incident summaries.</p><p style="color: #404040; font-size: 16px; line-height: 26px; margin: 0 0 20px 0;"><span>While Datadog did many things well in handling its outage, my take is that it dropped the ball on communication, and by being slow to release the postmortem. </span><em>I reached out to Datadog last week to ask when their postmortem was due. The company said it is working on it, but could not give an ETA.</em></p><h2 class="header-with-anchor-widget" style="-moz-appearance: optimizelegibility; -moz-osx-font-smoothing: antialiased; -webkit-appearance: optimizelegibility; -webkit-font-smoothing: antialiased; appearance: optimizelegibility; color: #404040; font-family: 'SF Compact Display', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 1.625em; font-weight: bold; line-height: 1.16em; margin: 1em 0 0.625em 0; position: relative;">7. Learnings</h2><p style="color: #404040; font-size: 16px; line-height: 26px; margin: 0 0 20px 0;">What learnings are there in Datadog&#8217;s outage and how it handled the situation?</p><p style="color: #404040; font-size: 16px; line-height: 26px; margin: 0 0 20px 0;"><strong>Some services are more important to customers than others. Always restore these first. </strong><span>In the postmortem, Datadog shared one key learning:</span></p><blockquote style="border-left: 4px solid #FF6B00; margin: 20px 0; padding: 0;"><p style="color: #404040; font-size: 16px; line-height: 26px; margin: 0 0 20px 0; margin-left: 20px;">&#8220;We heard time and time again that there is a clear hierarchy among the data we process on our customers&#8217; behalf. Most importantly, usable live data and alerts are much more valuable than access to historical data. And even among all the live data, data that is actively monitored or visible on dashboards is more valuable than the rest of live data. We will take this clear hierarchy into account in how we handle processing and access in degraded mode.&#8221;</p></blockquote><p style="color: #404040; font-size: 16px; line-height: 26px; margin: 0 0 20px 0;">I&#8217;m happy Datadog had this realization, and focused on getting live data and alerts up and running, before starting to backfill.</p><p style="color: #404040; font-size: 16px; line-height: 26px; margin: 0 0 20px 0;"><span>Compare this with Atlassian, which fumbled its incident response during its </span><a href="https://substack.com/redirect/37654def-3849-4af9-8e2f-da3af8747ec2?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel style="color: #404040; text-decoration: underline;">2-week outage</a><span>. All Atlassian products went down: OpsGenie (monitoring and alerting,) JIRA (ticketing) and Confluence (documents.) For some reason, Atlassian </span><em>did</em><span> </span><em>not</em><span> prioritize restoring the real time monitoring and alerting system, despite this system being far more critical than its ticketing system or wiki. As a result, customers moved off OpsGenie and to a competitor. While responsible companies can get by for 2 weeks without JIRA and Confluence, they </span><em>need</em><span> an incident alerting tool to operate reliably.</span></p><p style="color: #404040; font-size: 16px; line-height: 26px; margin: 0 0 20px 0;"><strong>It&#8217;s hard to test your </strong><em><strong>whole</strong></em><strong> system restarting. </strong><span>Datadog has chaos tests in place which simulate failures, often by simply shutting down machines or services. But issues with systemd-networkd were not identified, nor what happens when tens of thousands of virtual machines restart at the same time.</span></p><p style="color: #404040; font-size: 16px; line-height: 26px; margin: 0 0 20px 0;">To its credit, Datadog is now considering testing what happens when most of its infrastructure goes down. The plan is to ensure Datadog can still operate in a heavily degraded state; for example, by only having urgent data accessible and processed. This is a promising direction, and I hope the company shares more in its public postmortem.</p><p style="color: #404040; font-size: 16px; line-height: 26px; margin: 0 0 20px 0;"><strong>Communication is king. </strong><span>Almost my entire critique of Datadog&#8217;s outage focuses on inadequate communication during the outage and afterwards. My focus is not how engineering handled the problem. Indeed, this was effective: the incident was raised in a timely manner, live services were prioritized first, and mitigation happened reasonably fast, given the catastrophic outage.</span></p><p style="color: #404040; font-size: 16px; line-height: 26px; margin: 0 0 20px 0;">I&#8217;ve spoken with engineers working on the postmortem who say they feel Datadog is extremely transparent. But this perception couldn&#8217;t be further removed from the view outside of the company: little communication, and the selective sharing of postmortems with customers. This suggests communication is siloed, which risks the impression of not being open about what really happened.</p><p style="color: #404040; font-size: 16px; line-height: 26px; margin: 0 0 20px 0;">Again, this is all just perception. But communication matters greatly in shaping perceptions, which in turn help shape reality. Datadog had between 500 - 600 engineers working tirelessly to shorten the outage and achieve full recovery. And yet, the company does not seem to have invested in even one dedicated person to provide standout communication. Datadog is far below the standard set by Cloudflare for incident handling, of making public a preliminary postmortem within one or two business days of a global incident being resolved.</p><h2 class="header-with-anchor-widget" style="-moz-appearance: optimizelegibility; -moz-osx-font-smoothing: antialiased; -webkit-appearance: optimizelegibility; -webkit-font-smoothing: antialiased; appearance: optimizelegibility; color: #404040; font-family: 'SF Compact Display', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 1.625em; font-weight: bold; line-height: 1.16em; margin: 1em 0 0.625em 0; position: relative;">Takeaways</h2><p style="color: #404040; font-size: 16px; line-height: 26px; margin: 0 0 20px 0;">It&#8217;s interesting to consider how much Datadog did to avoid a global outage: operating a multi-cloud, multi-region, multi-zone setup with separate infrastructure control planes per region. But despite these efforts, the unforeseen event of a parallel operating system update and reboot brought it down. This is a reminder that prevention is just as important as mitigation.</p><p style="color: #404040; font-size: 16px; line-height: 26px; margin: 0 0 20px 0;">Overall, my read on Datadog&#8217;s incident response is that it was largely on-point. A few things were done well:</p><ul style="margin-top: 0; padding: 0;"><li style="margin: 8px 0 0 32px; mso-special-format: bullet;"><p style="box-sizing: border-box; color: #404040; font-size: 16px; line-height: 26px; margin: 0; margin-bottom: 0; padding-left: 4px;">Declared the incident publicly, reasonably quickly</p></li><li style="margin: 8px 0 0 32px; mso-special-format: bullet;"><p style="box-sizing: border-box; color: #404040; font-size: 16px; line-height: 26px; margin: 0; margin-bottom: 0; padding-left: 4px;">Prioritized restoring the most important parts of the system first: live monitoring and alerting</p></li><li style="margin: 8px 0 0 32px; mso-special-format: bullet;"><p style="box-sizing: border-box; color: #404040; font-size: 16px; line-height: 26px; margin: 0; margin-bottom: 0; padding-left: 4px;">Once there was an ETA of &#8220;hours&#8221; until restoration, this was communicated publicly and delivered</p></li></ul><p style="color: #404040; font-size: 16px; line-height: 26px; margin: 0 0 20px 0;">The company dropped the ball in communicating the incident:</p><ul style="margin-top: 0; padding: 0;"><li style="margin: 8px 0 0 32px; mso-special-format: bullet;"><p style="box-sizing: border-box; color: #404040; font-size: 16px; line-height: 26px; margin: 0; margin-bottom: 0; padding-left: 4px;">Frequent but very generic updates with almost no new information for the first ~14 hours of the outage</p></li><li style="margin: 8px 0 0 32px; mso-special-format: bullet;"><p style="box-sizing: border-box; color: #404040; font-size: 16px; line-height: 26px; margin: 0; margin-bottom: 0; padding-left: 4px;">After mitigation, the company was selective in sharing a initial postmortem and a full postmortem with customers</p></li><li style="margin: 8px 0 0 32px; mso-special-format: bullet;"><p style="box-sizing: border-box; color: #404040; font-size: 16px; line-height: 26px; margin: 0; margin-bottom: 0; padding-left: 4px;">Datadog has been unexpectedly slow in producing a public postmortem, even though it distributed a 4-page postmortem document to some customers nearly two months ago</p></li><li style="margin: 8px 0 0 32px; mso-special-format: bullet;"><p style="box-sizing: border-box; color: #404040; font-size: 16px; line-height: 26px; margin: 0; margin-bottom: 0; padding-left: 4px;">The CEO implying a postmortem was publicly accessible when it was not, and not issuing a correction about this.</p></li></ul><p style="color: #404040; font-size: 16px; line-height: 26px; margin: 0 0 20px 0;"><strong>Datadog has treated its outage as a blameless incident, despite the financial hit it took. </strong><span>The thing I&#8217;d like to highlight is how mature the company has been in dealing with this incident, despite suffering the loss of around 1% of quarterly revenue.</span></p><p style="color: #404040; font-size: 16px; line-height: 26px; margin: 0 0 20px 0;">I&#8217;ve talked with engineers and engineering managers inside the company, and got no sense of finger-pointing going on. The focus is on what the team can learn from the sobering incident, and how to make their system more resilient to system updates and potential outages that could take most infrastructure offline.</p><p style="color: #404040; font-size: 16px; line-height: 26px; margin: 0 0 20px 0;"><strong>It&#8217;s much cheaper to learn from other businesses' mistakes than from your own. </strong><span>Could a similar outage happen at your company? How would you respond if most of your infrastructure restarted simultaneously? What is the runbook to follow if virtual machines start to suddenly go offline? Do you have an incident communication plan on how to keep customers in the loop during a high-profile outage?&#160;</span></p><p style="color: #404040; font-size: 16px; line-height: 26px; margin: 0 0 20px 0;">There&#8217;s lots of food for thought in Datadog's outage, and I hope this deep dive into it helps you optimize your own systems to be more resilient.</p><p style="color: #404040; font-size: 16px; line-height: 26px; margin: 0 0 20px 0; margin-bottom: 0;"></p></div></div><div class="container-border" style="border-top: 1px solid #e0e0e0; box-sizing: border-box; font-size: 16px; line-height: 26px; margin: 32px 0 0; width: 100%;"></div><div class="typography" style="font-size: 16px; line-height: 26px;"><div class="postscript" style="font-size: 16px; line-height: 26px; margin: 32px 0;"><div dir="auto" class="body markup" style="font-size: 16px; line-height: 26px; margin-bottom: 16px; text-align: initial; width: 100%; word-break: break-word;"><h2 class="header-with-anchor-widget" style="-moz-appearance: optimizelegibility; -moz-osx-font-smoothing: antialiased; -webkit-appearance: optimizelegibility; -webkit-font-smoothing: antialiased; appearance: optimizelegibility; color: #404040; font-family: 'SF Compact Display', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 1.625em; font-weight: bold; line-height: 1.16em; margin: 1em 0 0.625em 0; margin-top: 0; position: relative;">Featured Pragmatic Engineer Jobs</h2><ol style="margin-top: 0; padding: 0;"><li style="margin: 8px 0 0 32px;"><p style="box-sizing: border-box; color: #404040; font-size: 16px; line-height: 26px; margin: 0; margin-bottom: 0; padding-left: 4px;"><a href="https://substack.com/redirect/c48c7a20-75a4-48bd-a91e-7c705d7e18e5?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel style="color: #404040; text-decoration: underline;">Full-Stack Engineer</a><span> at Farmlend. </span><strong>&#163;85-95K</strong><span> + equity. London.</span></p></li><li style="margin: 8px 0 0 32px;"><p style="box-sizing: border-box; color: #404040; font-size: 16px; line-height: 26px; margin: 0; margin-bottom: 0; padding-left: 4px;"><a href="https://substack.com/redirect/5fb4e589-853b-4f3e-a84a-7c805403b268?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel style="color: #404040; text-decoration: underline;">Senior Backend Engineer</a><span> at Farmlend. </span><strong>&#163;85-95K</strong><span> + equity. London.</span></p></li><li style="margin: 8px 0 0 32px;"><p style="box-sizing: border-box; color: #404040; font-size: 16px; line-height: 26px; margin: 0; margin-bottom: 0; padding-left: 4px;"><a href="https://substack.com/redirect/6c7b3155-453a-411e-9d51-451ddc9ec78c?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel style="color: #404040; text-decoration: underline;">Senior Full Stack Engineer</a><span> at Perfect Venue. </span><strong>$150-180K</strong><span> + equity. San Francsico or Remote (US).</span></p></li><li style="margin: 8px 0 0 32px;"><p style="box-sizing: border-box; color: #404040; font-size: 16px; line-height: 26px; margin: 0; margin-bottom: 0; padding-left: 4px;"><a href="https://substack.com/redirect/3255ab6b-9b39-4e0f-aaa9-9eb65826ad62?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel style="color: #404040; text-decoration: underline;">Full-Stack Engineer</a><span> at Vital. </span><strong>$70-120K</strong><span> + equity. Remote (Global, within 5 hours of GMT).</span></p></li><li style="margin: 8px 0 0 32px;"><p style="box-sizing: border-box; color: #404040; font-size: 16px; line-height: 26px; margin: 0; margin-bottom: 0; padding-left: 4px;"><a href="https://substack.com/redirect/1af29fe8-d3ed-4d6b-b028-835156fdc412?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel style="color: #404040; text-decoration: underline;">Backend Engineer</a><span> at Vital. </span><strong>$70-120K</strong><span> + equity. Remote (Global, within 5 hours of GMT).</span></p></li><li style="margin: 8px 0 0 32px;"><p style="box-sizing: border-box; color: #404040; font-size: 16px; line-height: 26px; margin: 0; margin-bottom: 0; padding-left: 4px;"><a href="https://substack.com/redirect/e5b47e43-5dd0-46ed-9526-e28c5961a25a?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel style="color: #404040; text-decoration: underline;">Senior Frontend Engineer</a><span> at Pento. </span><strong>&#163;80-92K</strong><span> + equity. Remote (EU, EEA, UK).</span></p></li><li style="margin: 8px 0 0 32px;"><p style="box-sizing: border-box; color: #404040; font-size: 16px; line-height: 26px; margin: 0; margin-bottom: 0; padding-left: 4px;"><a href="https://substack.com/redirect/d04415be-b924-4f93-8da0-64dc36e4ec53?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel style="color: #404040; text-decoration: underline;">Lead Backend Developer</a><span> at Cineville. </span><strong>&#8364;53-79K</strong><span> + equity. Amsterdam.</span></p></li><li style="margin: 8px 0 0 32px;"><p style="box-sizing: border-box; color: #404040; font-size: 16px; line-height: 26px; margin: 0; margin-bottom: 0; padding-left: 4px;"><a href="https://substack.com/redirect/73507c8a-6b21-4720-b94b-a8878dd0b15a?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel style="color: #404040; text-decoration: underline;">Technical Lead - Platform</a><span> at Vannevar Labs. Remote (US).</span></p></li><li style="margin: 8px 0 0 32px;"><p style="box-sizing: border-box; color: #404040; font-size: 16px; line-height: 26px; margin: 0; margin-bottom: 0; padding-left: 4px;"><a href="https://substack.com/redirect/751ce945-1f14-4aaf-86d9-1fcf4a2118b1?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel style="color: #404040; text-decoration: underline;">Senior Software Engineer, Fullstack</a><span> at Vannevar Labs. Remote (US).</span></p></li><li style="margin: 8px 0 0 32px;"><p style="box-sizing: border-box; color: #404040; font-size: 16px; line-height: 26px; margin: 0; margin-bottom: 0; padding-left: 4px;"><a href="https://substack.com/redirect/e7ff0e17-0174-49ea-ace4-4aad57ee5be2?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel style="color: #404040; text-decoration: underline;">Expert DevOps Engineer</a><span> at Zivver. Amsterdam.</span></p></li><li style="margin: 8px 0 0 32px;"><p style="box-sizing: border-box; color: #404040; font-size: 16px; line-height: 26px; margin: 0; margin-bottom: 0; padding-left: 4px;"><a href="https://substack.com/redirect/d44a7ea6-e463-49ea-952f-36f6453b4aa0?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel style="color: #404040; text-decoration: underline;">Senior Mobile Developer (React Native)</a><span> at Peppy. Remote (UK).</span></p></li><li style="margin: 8px 0 0 32px;"><p style="box-sizing: border-box; color: #404040; font-size: 16px; line-height: 26px; margin: 0; margin-bottom: 0; padding-left: 4px;"><a href="https://substack.com/redirect/b3a52886-d859-4f85-9ac0-b783ce63bc7f?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel style="color: #404040; text-decoration: underline;">Head of Data</a><span> at Peppy. Remote (UK).</span></p></li><li style="margin: 8px 0 0 32px;"><p style="box-sizing: border-box; color: #404040; font-size: 16px; line-height: 26px; margin: 0; margin-bottom: 0; padding-left: 4px;"><a href="https://substack.com/redirect/02ef019c-912f-4b15-a6f7-ed74e80bd671?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel style="color: #404040; text-decoration: underline;">Senior Software Engineer, Distributed Systems</a><span> at Mixpanel. </span><strong>$200-270K</strong><span> + equity. New York, San Franciso, Seattle or Remote (US).</span></p></li><li style="margin: 8px 0 0 32px;"><p style="box-sizing: border-box; color: #404040; font-size: 16px; line-height: 26px; margin: 0; margin-bottom: 0; padding-left: 4px;"><a href="https://substack.com/redirect/37a13335-2f26-44d4-bb16-b059e64bb8a8?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel style="color: #404040; text-decoration: underline;">Senior Software Engineer, Fullstack</a><span> at Mixpanel. </span><strong>$200-270K</strong><span> + equity. New York, San Franciso, Seattle or Remote (US).</span></p></li><li style="margin: 8px 0 0 32px;"><p style="box-sizing: border-box; color: #404040; font-size: 16px; line-height: 26px; margin: 0; margin-bottom: 0; padding-left: 4px;"><a href="https://substack.com/redirect/77a55297-f252-4528-bdad-1286e3b90e9d?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel style="color: #404040; text-decoration: underline;">Front-end Product Developer</a><span> at Whimsical. </span><strong>$94-118K</strong><span>. Remote (EU, UK).</span></p></li><li style="margin: 8px 0 0 32px;"><p style="box-sizing: border-box; color: #404040; font-size: 16px; line-height: 26px; margin: 0; margin-bottom: 0; padding-left: 4px;"><a href="https://substack.com/redirect/0083eb04-d5b8-404d-ad89-3d357fb5cbbb?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel style="color: #404040; text-decoration: underline;">Senior Full Stack Developer</a><span> at BENlabs. </span><strong>$140-190K</strong><span>. Brazil, UK, US or Remote.</span></p></li><li style="margin: 8px 0 0 32px;"><p style="box-sizing: border-box; color: #404040; font-size: 16px; line-height: 26px; margin: 0; margin-bottom: 0; padding-left: 4px;"><a href="https://substack.com/redirect/d23b16d6-31c5-437b-b069-e8b7865dda5b?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel style="color: #404040; text-decoration: underline;">Senior Engineer</a><span> at Sixfold AI. New York.</span></p></li><li style="margin: 8px 0 0 32px;"><p style="box-sizing: border-box; color: #404040; font-size: 16px; line-height: 26px; margin: 0; margin-bottom: 0; padding-left: 4px;"><a href="https://substack.com/redirect/87fba093-7bf7-4f57-972a-c1e7a90357e6?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel style="color: #404040; text-decoration: underline;">Principal Engineer</a><span> at Shoplift. </span><strong>$185-205K</strong><span>. New York.</span></p></li></ol><p style="color: #404040; font-size: 16px; line-height: 26px; margin: 0 0 20px 0;"><em><span>See more senior engineer and leadership roles with great engineering cultures on </span><a href="https://substack.com/redirect/633df648-1f69-41c5-a7d0-dab40f8efaa9?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel style="color: #404040; text-decoration: underline;">The Pragmatic Engineer Job board</a><span> - or post your own.</span></em></p><h2 class="header-with-anchor-widget" style="-moz-appearance: optimizelegibility; -moz-osx-font-smoothing: antialiased; -webkit-appearance: optimizelegibility; -webkit-font-smoothing: antialiased; appearance: optimizelegibility; color: #404040; font-family: 'SF Compact Display', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 1.625em; font-weight: bold; line-height: 1.16em; margin: 1em 0 0.625em 0; position: relative;">Hire Faster With The Pragmatic Engineer Talent Collective</h2><p style="color: #404040; font-size: 16px; line-height: 26px; margin: 0 0 20px 0;"><span>If you&#8217;re hiring software engineers or engineering leaders, join </span><a href="https://substack.com/redirect/67f199f4-2980-4810-aeb9-37b21b33d67c?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel style="color: #404040; text-decoration: underline;">The Pragmatic Engineer Talent Collective</a><span>. It&#8217;s the #1 talent collective for software engineers and engineering managers. Get weekly drops of outstanding software engineers and engineering leaders open to new opportunities. I vet every software engineer and manager - and add a note on why they are a standout profile.</span></p><p style="color: #404040; font-size: 16px; line-height: 26px; margin: 0 0 20px 0;"><span>Companies like Linear use this collective to hire better, and faster. </span><a href="https://substack.com/redirect/dfbbbd35-8871-4d53-944c-9ac846746a42?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel style="color: #404040; text-decoration: underline;">Read what companies hiring say</a><span>. And if you&#8217;re hiring, apply here:</span></p><p class="button-wrapper" data-attrs="{&quot;url&quot;:&quot;https://pragmatic-engineer.pallet.com/talent&quot;,&quot;text&quot;:&quot;Apply Now&quot;,&quot;action&quot;:null,&quot;class&quot;:&quot;button-wrapper&quot;}" style="color: #404040; font-size: 16px; line-height: 26px; margin: 0 0 20px 0; text-align: center;"><a class="button primary button-wrapper" href="https://substack.com/redirect/67f199f4-2980-4810-aeb9-37b21b33d67c?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel style="background-color: #FF6B00; border: none; border-radius: 4px; box-sizing: border-box; color: #ffffff !important; cursor: pointer; display: inline-block; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; font-weight: 600; height: auto; line-height: 20px; margin: 0; opacity: 1; outline: none; padding: 12px 20px; text-align: center; text-decoration: none !important; white-space: nowrap;"><span style="color: #ffffff; text-decoration: none;">Apply Now</span></a></p><div class="captioned-image-container-static" style="font-size: 16px; line-height: 26px; margin: 32px auto;"><figure style="margin: 0 auto; width: 100%;"><table class="image-wrapper" width="100%" border="0" cellspacing="0" cellpadding="0" style="mso-padding-alt: 1em 0 1.6em;"><tbody><tr><td style="text-align: center;"></td><td align="left" class="content" width="1456" style="text-align: center;"><a class="image-link" target="_blank" href="https://substack.com/redirect/3871a26e-1eeb-4582-a116-65fbfd9bfa84?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel style="align-items: center; border: none; display: block; flex-direction: column; height: auto; margin: 0; padding: 0; position: relative; text-decoration: none; width: auto;"><img data-attrs="{&quot;src&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/0811f33f-2153-44e2-94a5-91580da56d1b_1676x1444.png&quot;,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:null,&quot;height&quot;:1254,&quot;width&quot;:1456,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:361986,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:&quot;image/png&quot;,&quot;href&quot;:null,&quot;belowTheFold&quot;:false,&quot;internalRedirect&quot;:null}" alt width="550" height="473.69505494505495" class="wide-image" src="https://substackcdn.com/image/fetch/w_2912,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0811f33f-2153-44e2-94a5-91580da56d1b_1676x1444.png" style="-ms-interpolation-mode: bicubic; border: none !important; display: block; height: auto; margin: 0 auto; margin-bottom: 0; max-width: 100% !important; vertical-align: middle; width: auto !important;"></a></td><td style="text-align: center;"></td></tr></tbody></table></figure></div><p style="color: #404040; font-size: 16px; line-height: 26px; margin: 0 0 20px 0;">If you&#8217;re open for a new opportunity, join to get reachouts from vetted companies. You can join anonymously, and leave anytime:</p><p class="button-wrapper" data-attrs="{&quot;url&quot;:&quot;https://pragmatic-engineer.pallet.com/talent&quot;,&quot;text&quot;:&quot;Apply Now&quot;,&quot;action&quot;:null,&quot;class&quot;:&quot;button-wrapper&quot;}" style="color: #404040; font-size: 16px; line-height: 26px; margin: 0 0 20px 0; text-align: center;"><a class="button primary button-wrapper" href="https://substack.com/redirect/67f199f4-2980-4810-aeb9-37b21b33d67c?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel style="background-color: #FF6B00; border: none; border-radius: 4px; box-sizing: border-box; color: #ffffff !important; cursor: pointer; display: inline-block; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; font-weight: 600; height: auto; line-height: 20px; margin: 0; opacity: 1; outline: none; padding: 12px 20px; text-align: center; text-decoration: none !important; white-space: nowrap;"><span style="color: #ffffff; text-decoration: none;">Apply Now</span></a></p><p style="color: #404040; font-size: 16px; line-height: 26px; margin: 0 0 20px 0;"><em>You&#8217;re on the free list for&#160;</em><a href="https://substack.com/redirect/2/eyJlIjoiaHR0cHM6Ly9uZXdzbGV0dGVyLnByYWdtYXRpY2VuZ2luZWVyLmNvbT90b2tlbj1leUoxYzJWeVgybGtJam94TkRVMk16TXhPU3dpY0c5emRGOXBaQ0k2TVRJeE9ESTBNVEl5TENKcFlYUWlPakUyT0RReU5USTFNRFlzSW1WNGNDSTZNVFk0TmpnME5EVXdOaXdpYVhOeklqb2ljSFZpTFRRMU9EY3dPU0lzSW5OMVlpSTZJbkJ2YzNRdGNtVmhZM1JwYjI0aWZRLkdaU015YWxmSlRfMV96QVlnNkhqd0FCc1FDLVliXzNSbjZoRXRkNTNSUGsiLCJwIjoxMjE4MjQxMjIsInMiOjQ1ODcwOSwiZiI6dHJ1ZSwidSI6MTQ1NjMzMTksImlhdCI6MTY4NDI1MjUwNiwiZXhwIjoxNjg2ODQ0NTA2LCJpc3MiOiJwdWItMCIsInN1YiI6ImxpbmstcmVkaXJlY3QifQ.XyJ0rw3MczPWobinLEdP_mLyhehc_JA-J6ls6Yq8dNo?" rel style="color: #404040; text-decoration: underline;">The Pragmatic Engineer</a><em><span>. For the full experience,&#160;</span><a href="https://substack.com/redirect/2/eyJlIjoiaHR0cHM6Ly9uZXdzbGV0dGVyLnByYWdtYXRpY2VuZ2luZWVyLmNvbS9zdWJzY3JpYmU_dG9rZW49ZXlKMWMyVnlYMmxrSWpveE5EVTJNek14T1N3aWFXRjBJam94TmpnME1qVXlOVEEyTENKbGVIQWlPakUyT0RZNE5EUTFNRFlzSW1semN5STZJbkIxWWkwME5UZzNNRGtpTENKemRXSWlPaUpqYUdWamEyOTFkQ0o5LnpkRElXQ0RWNkJkenNmVjB0eFYtdHhhMkhDZkhlc1FuSmwyMkw3UW5iS1EmdXRtX3NvdXJjZT1wb3N0IiwicCI6MTIxODI0MTIyLCJzIjo0NTg3MDksImYiOnRydWUsInUiOjE0NTYzMzE5LCJpYXQiOjE2ODQyNTI1MDYsImV4cCI6MTY4Njg0NDUwNiwiaXNzIjoicHViLTAiLCJzdWIiOiJsaW5rLXJlZGlyZWN0In0.MO8iP5NWaE5JWghj_ZCF7kKIsiqcmuXi1abfMaEhNBQ?" rel style="color: #404040; text-decoration: underline;">become a paying subscriber</a><span>. Many readers expense this newsletter within their company&#8217;s training/learning/development budget.</span></em></p><div class="subscribe-widget is-signed-up" style="direction: ltr; font-size: 16px; line-height: 26px; margin: 0 0 1em;"><p class="button-wrapper" style="color: #404040; font-size: 16px; line-height: 26px; margin: 0 0 20px 0; text-align: center;"><a href="https://substack.com/redirect/2/eyJlIjoiaHR0cHM6Ly9uZXdzbGV0dGVyLnByYWdtYXRpY2VuZ2luZWVyLmNvbS9zdWJzY3JpYmU_dG9rZW49ZXlKMWMyVnlYMmxrSWpveE5EVTJNek14T1N3aWFXRjBJam94TmpnME1qVXlOVEEyTENKbGVIQWlPakUyT0RZNE5EUTFNRFlzSW1semN5STZJbkIxWWkwME5UZzNNRGtpTENKemRXSWlPaUpqYUdWamEyOTFkQ0o5LnpkRElXQ0RWNkJkenNmVjB0eFYtdHhhMkhDZkhlc1FuSmwyMkw3UW5iS1EmdXRtX3NvdXJjZT1wb3N0IiwicCI6MTIxODI0MTIyLCJzIjo0NTg3MDksImYiOnRydWUsInUiOjE0NTYzMzE5LCJpYXQiOjE2ODQyNTI1MDYsImV4cCI6MTY4Njg0NDUwNiwiaXNzIjoicHViLTAiLCJzdWIiOiJsaW5rLXJlZGlyZWN0In0.MO8iP5NWaE5JWghj_ZCF7kKIsiqcmuXi1abfMaEhNBQ?&utm_medium=email&utm_source=subscribe-widget&utm_content=121824122" class="button subscribe-btn primary" style="background-color: #FF6B00; border: none; border-radius: 4px; box-sizing: border-box; color: #ffffff !important; cursor: pointer; display: inline-block; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; font-weight: 600; height: auto; line-height: 20px; margin: 0 auto; opacity: 1; outline: none; padding: 12px 20px; text-align: center; text-decoration: none !important; white-space: nowrap;"><span style="color: #ffffff; text-decoration: none;">Upgrade to paid</span></a></p></div><p style="color: #404040; font-size: 16px; line-height: 26px; margin: 0 0 20px 0;">This post is public, so feel free to share and forward it.</p><p class="button-wrapper" data-attrs="{&quot;url&quot;:&quot;https://substack.com/redirect/2/eyJlIjoiaHR0cHM6Ly9uZXdzbGV0dGVyLnByYWdtYXRpY2VuZ2luZWVyLmNvbS8_dXRtX3NvdXJjZT1zdWJzdGFjayZ1dG1fbWVkaXVtPWVtYWlsJnV0bV9jb250ZW50PXNoYXJlJmFjdGlvbj1zaGFyZSIsInAiOjEyMTgyNDEyMiwicyI6NDU4NzA5LCJmIjp0cnVlLCJ1IjoxNDU2MzMxOSwiaWF0IjoxNjg0MjUyNTA2LCJleHAiOjE2ODY4NDQ1MDYsImlzcyI6InB1Yi0wIiwic3ViIjoibGluay1yZWRpcmVjdCJ9.KW1TLIHAiQHvH3kQuDfKxaCi6Sr9q2b3bhLdf8a5I1Y?&quot;,&quot;text&quot;:&quot;Share The Pragmatic Engineer&quot;,&quot;action&quot;:null,&quot;class&quot;:null}" style="color: #404040; font-size: 16px; line-height: 26px; margin: 0 0 20px 0; margin-bottom: 0; text-align: center;"><a class="button primary" href="https://substack.com/redirect/2/eyJlIjoiaHR0cHM6Ly9uZXdzbGV0dGVyLnByYWdtYXRpY2VuZ2luZWVyLmNvbS8_dXRtX3NvdXJjZT1zdWJzdGFjayZ1dG1fbWVkaXVtPWVtYWlsJnV0bV9jb250ZW50PXNoYXJlJmFjdGlvbj1zaGFyZSIsInAiOjEyMTgyNDEyMiwicyI6NDU4NzA5LCJmIjp0cnVlLCJ1IjoxNDU2MzMxOSwiaWF0IjoxNjg0MjUyNTA2LCJleHAiOjE2ODY4NDQ1MDYsImlzcyI6InB1Yi0wIiwic3ViIjoibGluay1yZWRpcmVjdCJ9.KW1TLIHAiQHvH3kQuDfKxaCi6Sr9q2b3bhLdf8a5I1Y?" rel style="background-color: #FF6B00; border: none; border-radius: 4px; box-sizing: border-box; color: #ffffff !important; cursor: pointer; display: inline-block; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; font-weight: 600; height: auto; line-height: 20px; margin: 0; opacity: 1; outline: none; padding: 12px 20px; text-align: center; text-decoration: none !important; white-space: nowrap;"><span style="color: #ffffff; text-decoration: none;">Share The Pragmatic Engineer</span></a></p></div></div></div><table role="presentation" width="100%" border="0" cellspacing="0" cellpadding="0" class="email-ufi-2-bottom" style="border-bottom: 1px solid rgba(0, 0, 0, .13); border-top: 1px solid rgba(0, 0, 0, .13); min-width: 100%;"><tr height="16"><td height="16" style="font-size: 0px; line-height: 0;">&#160;</td></tr><tr><td><table role="presentation" width="100%" border="0" cellspacing="0" cellpadding="0"><tr><td><table role="presentation" width="auto" border="0" cellspacing="0" cellpadding="0" style="margin: 0 auto;"><tr><td style="vertical-align: middle;"><table role="presentation" width="auto" border="0" cellspacing="0" cellpadding="0"><tr><td align="center"><a href="https://substack.com/app-link/post?publication_id=458709&post_id=121824122&utm_source=substack&isFreemail=true&submitLike=true&token=eyJ1c2VyX2lkIjoxNDU2MzMxOSwicG9zdF9pZCI6MTIxODI0MTIyLCJyZWFjdGlvbiI6IuKdpCIsImlhdCI6MTY4NDI1MjUwNiwiZXhwIjoxNjg2ODQ0NTA2LCJpc3MiOiJwdWItNDU4NzA5Iiwic3ViIjoicmVhY3Rpb24ifQ.AdrvndFYw2fOnNLfhxvwZR0LT8p95RiriPVUy1GijzI&utm_medium=email" class="email-button-outline" style="border: 1px solid rgba(0, 0, 0, .13); border-radius: 100000px; color: #808080; display: inline-block; font-family: 'SF Pro Text', -apple-system, ui-sans-serif, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 12px; font-weight: 500; line-height: 12px; padding: 9px 14px; text-decoration: none; text-transform: uppercase;"><img src="https://substackcdn.com/image/fetch/w_36,c_scale,f_png,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack.com%2Ficon%2FLucideHeart%3Fv%3D4%26height%3D36%26fill%3Dnone%26stroke%3D%2523808080%26strokeWidth%3D2" width="18" height="18" style="border: none !important; margin-right: 8px; max-width: 18px; min-height: 18px; min-width: 18px; vertical-align: middle;" alt class="icon"><span class="email-button-text" style="vertical-align: middle;">Like</span></a></td></tr></table></td><td width="8" style="min-width: 8px"></td><td style="vertical-align: middle;"><table role="presentation" width="auto" border="0" cellspacing="0" cellpadding="0"><tr><td align="center"><a href="https://substack.com/app-link/post?publication_id=458709&post_id=121824122&utm_source=substack&utm_medium=email&isFreemail=true&comments=true&token=eyJ1c2VyX2lkIjoxNDU2MzMxOSwicG9zdF9pZCI6MTIxODI0MTIyLCJpYXQiOjE2ODQyNTI1MDYsImV4cCI6MTY4Njg0NDUwNiwiaXNzIjoicHViLTQ1ODcwOSIsInN1YiI6InBvc3QtcmVhY3Rpb24ifQ.GZSMyalfJT_1_zAYg6HjwABsQC-Yb_3Rn6hEtd53RPk&utm_source=substack&utm_medium=email" class="email-button-outline" style="border: 1px solid rgba(0, 0, 0, .13); border-radius: 100000px; color: #808080; display: inline-block; font-family: 'SF Pro Text', -apple-system, ui-sans-serif, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 12px; font-weight: 500; line-height: 12px; padding: 9px 14px; text-decoration: none; text-transform: uppercase;"><img src="https://substackcdn.com/image/fetch/w_36,c_scale,f_png,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack.com%2Ficon%2FLucideComments%3Fv%3D4%26height%3D36%26fill%3Dnone%26stroke%3D%2523808080%26strokeWidth%3D2" width="18" height="18" style="border: none !important; margin-right: 8px; max-width: 18px; min-height: 18px; min-width: 18px; vertical-align: middle;" alt class="icon"><span class="email-button-text" style="vertical-align: middle;">Comment</span></a></td></tr></table></td><td width="8" style="min-width: 8px"></td><td style="vertical-align: middle;"><table role="presentation" width="auto" border="0" cellspacing="0" cellpadding="0"><tr><td align="center"><a href="https://substack.com/redirect/2/eyJlIjoiaHR0cHM6Ly9uZXdzbGV0dGVyLnByYWdtYXRpY2VuZ2luZWVyLmNvbS9wL2luc2lkZS10aGUtZGF0YWRvZy1vdXRhZ2U_dXRtX3NvdXJjZT1zdWJzdGFjayZ1dG1fbWVkaXVtPWVtYWlsJmFjdGlvbj1yZXN0YWNrLWNvbW1lbnQiLCJwIjoxMjE4MjQxMjIsInMiOjQ1ODcwOSwiZiI6dHJ1ZSwidSI6MTQ1NjMzMTksImlhdCI6MTY4NDI1MjUwNiwiZXhwIjoxNjg2ODQ0NTA2LCJpc3MiOiJwdWItMCIsInN1YiI6ImxpbmstcmVkaXJlY3QifQ.Gh9DRwJy5DQWvzaI5FGFSwF9EqXtLofmCDLMZmau25I?&utm_source=substack&utm_medium=email" class="email-button-outline" style="border: 1px solid rgba(0, 0, 0, .13); border-radius: 100000px; color: #808080; display: inline-block; font-family: 'SF Pro Text', -apple-system, ui-sans-serif, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 12px; font-weight: 500; line-height: 12px; padding: 9px 14px; text-decoration: none; text-transform: uppercase;"><img src="https://substackcdn.com/image/fetch/w_36,c_scale,f_png,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack.com%2Ficon%2FNoteForwardIcon%3Fv%3D4%26height%3D36%26fill%3Dnone%26stroke%3D%2523808080%26strokeWidth%3D2" width="18" height="18" style="border: none !important; margin-right: 8px; max-width: 18px; min-height: 18px; min-width: 18px; vertical-align: middle;" alt class="icon"><span class="email-button-text" style="vertical-align: middle;">Restack</span></a></td></tr></table></td></tr></table></td><td align="right"><table role="presentation" width="auto" border="0" cellspacing="0" cellpadding="0"><tr></tr></table></td></tr></table></td></tr><tr height="16"><td height="16" style="font-size: 0px; line-height: 0;">&#160;</td></tr></table><div class="footer frontend-email-shared-typed-module__footer--WmMp1" style="color: #808080; font-size: 16px; line-height: 26px; padding: 24px 0; text-align: center;"><div style="font-size: 16px; line-height: 26px; padding-bottom: 24px;"><p class="pencraft frontend-pencraft-Box-module__reset--tAIEo frontend-pencraft-Text-module__size-12--2onFT frontend-pencraft-Text-module__color-secondary--XjVGl frontend-pencraft-Text-module__reset--20JLV small frontend-email-shared-typed-module__meta--AAyPr" style="color: #808080; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 12px; letter-spacing: 0; line-height: 16px; margin: 0; padding-bottom: 0; text-decoration: unset;">&#169; 2023 <span>Gergely Orosz</span><br>548 Market Street PMB 72296, San Francisco, CA 94104 <br><a href="https://substack.com/redirect/2/eyJlIjoiaHR0cHM6Ly9uZXdzbGV0dGVyLnByYWdtYXRpY2VuZ2luZWVyLmNvbS9hY3Rpb24vZGlzYWJsZV9lbWFpbD90b2tlbj1leUoxYzJWeVgybGtJam94TkRVMk16TXhPU3dpY0c5emRGOXBaQ0k2TVRJeE9ESTBNVEl5TENKcFlYUWlPakUyT0RReU5USTFNRFlzSW1WNGNDSTZNVFk0TmpnME5EVXdOaXdpYVhOeklqb2ljSFZpTFRRMU9EY3dPU0lzSW5OMVlpSTZJbVJwYzJGaWJHVmZaVzFoYVd3aWZRLjFGUV8tNWNYeHZWbUtwYWZHdGlhRWJET3UzRjVsbmNpUUh3d2d4Z3E5VUkmZXhwaXJlcz0zNjVkIiwicCI6MTIxODI0MTIyLCJzIjo0NTg3MDksImYiOnRydWUsInUiOjE0NTYzMzE5LCJpYXQiOjE2ODQyNTI1MDYsImV4cCI6MTY4Njg0NDUwNiwiaXNzIjoicHViLTAiLCJzdWIiOiJsaW5rLXJlZGlyZWN0In0.Jr89ZQ80xu3OKh_1dif4szf_VTHycjqu7TNBFSLss0w?" style="color: #808080; text-decoration: underline;"><span style="color: #808080; text-decoration: underline;">Unsubscribe</span></a></p></div><p class="frontend-email-shared-typed-module__footerSection--9vwqp small powered-by-substack" style="color: #808080; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 12px; line-height: 20px; margin: 0; margin-top: 0; padding: 0 24px; padding-bottom: 0;"><a href="https://substack.com/redirect/2/eyJlIjoiaHR0cHM6Ly9zdWJzdGFjay5jb20vc2lnbnVwP3V0bV9zb3VyY2U9c3Vic3RhY2smdXRtX21lZGl1bT1lbWFpbCZ1dG1fY29udGVudD1mb290ZXImdXRtX2NhbXBhaWduPWF1dG9maWxsZWQtZm9vdGVyJmZyZWVTaWdudXBFbWFpbD1pc2hhbi5tYWlsQGdtYWlsLmNvbSIsInAiOjEyMTgyNDEyMiwicyI6NDU4NzA5LCJmIjp0cnVlLCJ1IjoxNDU2MzMxOSwiaWF0IjoxNjg0MjUyNTA2LCJleHAiOjE2ODY4NDQ1MDYsImlzcyI6InB1Yi0wIiwic3ViIjoibGluay1yZWRpcmVjdCJ9.PtyzXLriG21pKNFEmbAbVS9mzZ7GZJeVNpE9N5vlPPo?" style="color: #808080; display: inline-block; margin: 0 4px; text-decoration: none;"><img src="https://substackcdn.com/image/fetch/w_270,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack.com%2Fimg%2Femail%2Fpublish-button%402x.png" srcset="https://substackcdn.com/image/fetch/w_135,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack.com%2Fimg%2Femail%2Fpublish-button.png, https://substackcdn.com/image/fetch/w_270,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack.com%2Fimg%2Femail%2Fpublish-button%402x.png 2x, https://substackcdn.com/image/fetch/w_405,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack.com%2Fimg%2Femail%2Fpublish-button%403x.png 3x" width="135" alt="Start writing" height="40" style="border: none !important; max-width: 550px; vertical-align: middle;"></a></p></div></div></td><td></td></tr></table><img src="https://mailgun.substack.com/api/v1/email/open?token=eyJtIjoiPDIwMjMwNTE2MTU1NDI1LjMuNWU1ZGRlZmU0Mzc4YTc1OEBtZy1kMS5zdWJzdGFjay5jb20-IiwidSI6MTQ1NjMzMTksInIiOiJpc2hhbi5tYWlsQGdtYWlsLmNvbSIsImQiOiJtZy1kMS5zdWJzdGFjay5jb20iLCJwIjoxMjE4MjQxMjIsInQiOiJuZXdzbGV0dGVyIiwiYSI6ImV2ZXJ5b25lIiwicyI6NDU4NzA5LCJjIjoicG9zdCIsImYiOnRydWUsInBvc2l0aW9uIjoiYm90dG9tIiwiaWF0IjoxNjg0MjUyNTA2LCJleHAiOjE2ODY4NDQ1MDYsImlzcyI6InB1Yi0wIiwic3ViIjoiZW8ifQ.ZGkiZZhrTjGXm1va0xhkX030zwc3ZyzxZ4TvJX4D4E4" alt="" width="1" height="1" border="0" style="height:1px !important;width:1px !important;border-width:0 !important;margin-top:0 !important;margin-bottom:0 !important;margin-right:0 !important;margin-left:0 !important;padding-top:0 !important;padding-bottom:0 !important;padding-right:0 !important;padding-left:0 !important;"/><img width="1px" height="1px" alt="" src="https://email.mg-d1.substack.com/o/eJw80FvKpDAUBODVdN5GctX4kLXISVJth9Eouczg7n_sbv6nA3Wg-KhADetRLncetbHo1Oy5DSODE6PV0kgjR4ad0rasyCjUEBdqv18-Si3Yy_moleegaYK1YqLnbNTstVeWJLgWLDnJpeJGjMIYLc2gBgMTI57QarI0GfvQfF__RDHU7muj8HcIx85SXZ4Fb4JrpYPd0oV6TMgBDv9QriN_4xSdkMJKLaT8JO064TL-1w2tobCz-yUc-95zateCTH5D_BZ3v6VALR35LtLGTnxmxaX6ojzcgIfm633fsNp9PHZK2Z2F1p1aCshrykBh7bNnryhvkzajUmL-CQAA__8kDXm5"></body></html>

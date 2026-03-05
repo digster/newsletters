@@ -1,0 +1,124 @@
+---
+subject: "First Principles: Cultivating an ‘Editor’s Mindset’"
+from: "The Ken <info@the-ken.com>"
+to: ""
+date: 2025-05-18 05:40:11
+labels: ["CATEGORY_PERSONAL", "INBOX", "The Ken", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_8244464457792971031", "UNREAD"]
+---
+|
+|
+First Principles
+Sun, 18 May 25
+A community-powered Sunday newsletter on mental models, self-reflection, learning, growth, photos, books, and more.
+Dear Ishan, good morning. Have you ever caught yourself being transported to another time and place upon just hearing a nondescript sound?
+Earlier this week, I heard this two-stroke motor from some nearby lot. It was late afternoon on a Wednesday (at The Ken, that’s usually WFH for most). The air was still, the weather was hot and humid.
+Like in a movie, I was instantly transported back in time to the mid-1980s and the small village in Kerala sandwiched between the backwaters and the Arabian sea that was my annual summer vacation. My mom’s ancestral home was where we spent two months every summer, without fail.
+The days were still, hot, and humid. Close to every waking hour was spent exploring, chasing, playing, and fishing. Nothing in the landscape changed or even stirred during the afternoons. The silence was leaden too.
+Except, a few times every day, you’d hear the two-stroke motor. It was the sound of the afternoon ferry, chugging along through the Kayamkulam backwaters, at such a glacial speed that we could outrun them as kids (and we did, till land gave way to another backwater canal). We’d wave to it, and sometimes, the tourists aboard (but rarely the locals) would wave back.
+(Why do kids wave at ferries and trains with such happiness? And when do we become the grumpy adults on the ferries and trains who wonder what’s wrong with these kids?)
+The sound of the two-stroke outboard engine motor would reach our ears 10–15 minutes before the boat itself appeared into view. Sound carries over much greater distances over water and unconstructed land than we can imagine.
+And it would last just as long after the ferry had disappeared from our view too.
+The predictability and regularity of the ferry, along with its sound and the hot stillness of the late backwater afternoons, is almost like a movie I can play back in my head on demand. I sometimes use it to drift to sleep at nights.
+All that from the sound of a two-stroke motor.
+| Photo credit: Quora |
+Unfortunately, Hari is down with a bug this week, so we don’t have a books section. But here’s everything else we have for you:
+1. Cultivating an ‘Editor’s Mindset’
+2. Work with me 💼
+3. First Principles Podcast, S03 E02—Sahil Barua, CEO, Delhivery 🎙️
+4. Summer Potluck Remix 🎶
+5. Stuff worth reading on Sundays 📖
+6. Delhi yellows 📸
+[Pro tip: This email is a highly abbreviated version, since many email clients impose restrictions on the amount of material we can publish in a single email before intervention. In fact, it’s likely some email clients may even clip this truncated email.
+The best way to experience this edition is to [read it on our website or app](https://the-ken.com/newsletter/first-principles/cultivating-an-editors-mindset/), where all sections are featured in full and unabridged form.
+Also, if your default setting is to not show images within emails, please consider turning it off for this newsletter. Or else, you’ll miss many of the interesting images and photos we carry each Sunday.]
+Most of us have a self-assigned image of ourselves as the writer of our own life stories. We are, of course, the main character. But if we’re always the ones writing the story, who’s editing it?
+If you’ve never worked in a news, publishing, or media organisation, this concept can feel a bit forced. Who needs an editor anyway, as long as you do a good job of writing?
+We all do. And I am not talking about writing and editing literally, but as metaphors.
+I entered journalism serendipitously after degrees in engineering and management. I had been a (obsessive) blogger for many years during the early 2000s, so I felt writing for a business magazine would be a piece of cake.
+I got my first reality check (shock, really) when I started submitting story drafts. Editors slashed and marked up my copy so much that I questioned everything I thought I knew about writing. The details I felt were relevant, they struck off as boring. The background I felt was critical, they slashed for being history lessons. The numbers I quoted to prove my argument, they deleted for being superfluous. The meaty sections I saved for the heart of my story, they moved up right to the introduction.
+As a writer, when you encounter professional editors for the first time in your life, it’s hard to avoid feelings of antagonism.
+Sometimes it takes months, sometimes years, but you eventually and hopefully begin to understand what editors do. And why their world view is [so different](https://www.theopennotebook.com/2013/01/16/are-you-an-editor-or-a-writer-part-ii-the-editors/).
+My editing muse is Charlie Watts, the drummer for the Rolling Stones. For 50 years, he’s been the least famous or recognizable member of the band. In videos, you glimpse him only briefly as the camera pans across the stage to focus on Mick Jagger as he struts or Keith Richards as he snarls. Charlie sits behind his drums with a slight smile, nodding his head as he watches the real rock stars entertain the crowd. Charlie doesn’t wear spandex or eyeliner or weave beads into his hair, which is gray. He never had a drug problem or stole his bandmates’ girlfriends. He is easily the most boring musician of his generation—steady, calm, and resolutely not in the spotlight.
+Editing requires most of the same skills writing does, but it also demands, if you’re going to be a good editor, a huge dose of humility. You will never and should never get the credit for a great story. Editors who seek recognition for their work are mostly bad editors—the Phil Collinses of the editing world, people who may be fine as solo artists but should really never work collaboratively. Other editors think they can write better than anyone else—and maybe they can, but then why are they working as editors? Those are the Keith Moons of the editing world. They will drown out their writers’ words and then vomit all over the stage.
+An editor’s job is to make writers sound better, sound more like themselves. You cannot be proud and be an effective editor. The best writers don’t need much from you, and the worst ones may not appreciate how much you’ve helped them. If you edit well, your work will be invisible to a reader and as unnoticeable as possible to the writer. If you suggest a metaphor or joke or perfect transition that your writer uses, you should be satisfied even though no one will ever know it was yours (even writers forget where things came from, as they should, those clever magpies).
+When you’re the writer, it’s hard to maintain any distance or objectivity from what you’ve written. It is your work. It is you.
+Editors, in contrast, are coolly distant.
+They are comfortable with messy and rambling first drafts, just as long as there is substance and originality buried within.
+They are patient and know that there might be many edits and drafts before the final version is published.
+They have an eye for spotting interesting and compelling sections from your drafts, even if you might have missed them.
+They are great synthesisers, meaning they know how to move around and stitch together the right words and ideas in the right order. Synthesis is an incredible and rare skill. Its opposite, analysis, is common and what’s taught in schools and colleges and workplaces.
+They are able to read a first (and often bad) draft then let that sit in their brain. From there, they are able to ruminate and let patterns form while waiting for ideas on how to improve them.
+They are builders and developers. Their default mindset is to help writers figure out what’s good and worth keeping in their drafts, and how to iterate from there. Few editors are disruptive or destructive.
+They are able to parse raw material and rough drafts without rushing to impose order or structure prematurely. They know it’s much easier to add structure later on than it is to add originality or creativity.
+Cultivating an editors’ mindset means being able to switch roles between writing and editing. When you write, you are writing for yourself.
+“Soon after you confront the matter of preserving your identity, another question will occur to you: “Who am I writing for?”
+It’s a fundamental question, and it has a fundamental answer: You are writing for yourself. Don’t try to visualize the great mass audience. There is no such audience—every reader is a different person. Don’t try to guess what sort of thing editors want to publish or what you think the country is in a mood to read. Editors and readers don’t know what they want to read until they read it. Besides, they’re always looking for something new.”
+“Don’t worry about whether the reader will “get it” if you indulge a sudden impulse for humor. If it amuses you in the act of writing, put it in. (It can always be taken out, but only you can put it in.) You are writing primarily to please yourself, and if you go about it with enjoyment you will also entertain the readers who are worth writing for. If you lose the dullards back in the dust, you don’t want them anyway.”
+On Writing Well, 30th Anniversary Edition: An Informal Guide to Writing Nonfiction by William Zinsser
+But when you edit, you are [editing for the reader](https://niemanstoryboard.org/2024/05/10/journalism-editing-writing-storycraft/) (or colleague, manager, investor).
+Ever since, the way I approach editing is always thinking of whether and how you’re holding the reader’s attention. How do you keep them from clicking something else on their phone or deciding to do their laundry? Sometimes it’s just the quality of the voice and the prose that make you want to keep going. Sometimes it’s humor. Sometimes it’s when I call “chocolate chips.” The shape of a paragraph, or the structure of a whole piece, matters a lot less if you’ve got a ton of chocolate chips, because even if the cookie is misshapen, who doesn’t love chocolate chips? Chocolate chips can be little scoops, or they can be amazing quotes, or they can be fantastic lines of prose, or they can be little revelations, or they can be analytic insights. I have an obsessive concern with holding the reader’s attention.
+You must learn to consciously switch between both roles, much like switching between “[maker and manager](https://paulgraham.com/makersschedule.html)” schedules, as Paul Graham described way back in 2009.
+While researching for this piece, I also came across a really well-argued piece on managing-as-editing, by former Microsoft executive [Steven Sinofsky](https://medium.learningbyshipping.com/leading-by-editing-isnt-and-why-ae8ad3104060?gi=b09cbcad8d78).
+Leading By Editing, Isn’t (and Why)
+Frequently, we find the role of managing described as “editing” or leading as “editor in chief”. This can seem like a good idea until you dive into it. So let’s.
+By edit I mean more than just to shorten or fit, but also the whole process of altering, adapting, rearranging to meet a specific need. In writing and film, editing meets the need of a completed work. In product development and broadly business, there is rarely a single completed work and most efforts are part of a continuum. This is especially true when you consider the relationship between product, marketing, sales, and customers and partners. There are many, often related, “works” over many periods of time.
+It is common to view a product or company through the lens of the narrative. It is true in that case that there is a story to tell and this story should be the work of great editing — it should be clear, concise, and well-articulated.
+Such editing is crucial, and often the role of the CEO, but it is the process of crafting a story from the choices already made, which is different than the choices the team makes along the way.
+At The Ken, I am the person for all odds and ends, crises and general housekeeping.
+But I also write, well, [this newsletter](https://the-ken.com/newsletters/first-principles/) each week; host the [First Principles](https://the-ken.com/podcasts/first-principles/) leadership podcast; co-host the [Two by Two](https://the-ken.com/podcasts/two-by-two/) podcast; and co-host our (~monthly) live event series, [Beyond The First Order](https://the-ken.com/event/the-next-10-years-of-investing-wealth-and-markets).
+Each of these are individually demanding. It requires a very curious mindset, generalist bent of mind, ability to go deep, and most importantly, a passion for “synthesis” (opposite of “analysis”).
+I am supported by Hari Krishna in most of these. He was a reader, then joined us as an intern in January 2024, became a full-time colleague by June, and by November, was writing newsletters under his own name.
+If you’d like to join Hari and me in all of these ambitious, sprawling and interconnected endeavours, drop me an email at rohin@the-ken.com. We have incredibly ambitious plans for each of these over the next 12 months.
+If you’re not interested in writing, journalism, podcasts, newsletters, or synthesis, please don’t bother. Please don’t use LLMs to draft your email. I’ll know. Your subject line should contain just one number—the number of products I’d expect you to work with me and Hari on. This is an intern position, to begin with (hopefully not to end with). It’s Bengaluru-based. It will be demanding.
+This newsletter started out as an offshoot of the First Principles podcast, which shut down, and then came alive again last month.
+For the latest episode I travelled to sunny, dusty, verdant Goa to meet with Sahil Barua, the triathlete co-founder and CEO of logistics giant Delhivery. Over a two-hour conversation in a studio in Porvorim, getting to which felt like a scene right out of a Haruki Murakami novel, we spoke about the numerous planned and unplanned moments that made up Delhivery’s growth story.
+From starting up around the same time as his fellow Bain consultant, Deepinder Goyal (of, uh, Zomato fame?), to thinking of delivering parcels in the real world like delivering data packets in telecom networks, to moving the company HQ from Delhi to Goa, to becoming a triathlete, to building a tech startup while telling his colleagues to not move fast and break things, Sahil candidly and fluidly explained not just Delhivery’s evolution, but of his own as CEO. Part 1 of the conversation is available for free on [Apple Podcasts](https://podcasts.apple.com/in/podcast/sahil-barua-on-why-delhivery-is-the-antithesis-of/id1639125773?i=1000708040673), [Spotify](https://open.spotify.com/episode/2WG8gKGYuAXLkucqTQU5mt?si=ym1F6DU3Qci6ovJpfZsSYA), and all other platforms. Part 2 releases tomorrow, that is 19 May.
+If you’re a Premium subscriber, [you get all of it at once](https://the-ken.com/podcasts/first-principles/sahil-barua-on-why-delhivery-is-the-anti-thesis-of-moving-fast-and-breaking-things/).
+Hello Ishan, it’s Jonathan here.
+Summer! Is there another season with such a wealth of contradictions?
+Mangoes and lazy Sunday afternoons; sweaty commutes and the sapping sun; joyous beach escapes and the dread sparked off by suddenly silent ACs. Take any one Indian summer day, and what it has in store for you could change by the hour, every hour. Every day is a potluck.
+Very much like our latest community album.
+Put it on shuffle. One moment, you might be treated to a “catchy vibey number” (Song: Vibe by Paal Dabba, Sickflip) or a tune straight out of the repertoire “of Indian wedding brass bands” (Song: Capitals by Ibrahim Maalouf, Trombone Shorty)—both of which were recommended by Rohin.
+The next moment, it might be Amar Chandramohan’s picks. Sam Fender’s People Watching, which to quote Amar is a “Dire Straits-meets-Brice Springsteen-meets-The War on Drugs sort of song”.
+“There’s a dichotomous aura about this song. It’s got this happy jingle vibe with the infusion of so many instruments (sax as well, towards the end), but yet, the lyrics reflect themes of loneliness, nostalgia, failed dreams, loss, etc.”
+Or his other Fender entry, Crumbling Empire.
+“The outro of this song, with Sam Fender plucking at the electric guitar, is a thing of beauty (something similar to Purple Rain by Prince). The only drawback of the outro is that it’s too short and they let it fade out.”
+So pull up a chair, grab a good book, lay out some mangoes. And tune into an eclectic mix that’s perfect for a summer Sunday.
+Listen on Spotify: [https://open.spotify.com/playlist/3uQ9CO0Nxcf8XeFeklQhNY?si=8DXdxjNJQjqct-iGLOElNw](https://open.spotify.com/playlist/3uQ9CO0Nxcf8XeFeklQhNY?si=8DXdxjNJQjqct-iGLOElNw)
+Listen on Apple Music: [https://music.apple.com/in/playlist/first-principles-summer-potluck-remix/pl.u-V9D7Z9aiBqJ7RKp](https://music.apple.com/in/playlist/first-principles-summer-potluck-remix/pl.u-V9D7Z9aiBqJ7RKp)
+I discovered something a couple of years ago: Almost all culture, old or new, is designed for consumption by people under 40. People between 40 and Ω (an indeterminate number defined as “really, just way too old”), are primarily employed as meaning-makers for the under-40 set. This is because they are mostly good for nothing else, and on average not valuable enough themselves for society to invest meaning in.
+*****
+[Five Takeaways from the Copyright Office’s Controversial New AI Report](https://copyrightlately.com/copyright-office-ai-report/)
+Perhaps the report’s most consequential—and controversial—takeaway is its expansive reading of the fourth fair use factor: the effect of the use on the potential market for the copyrighted work. The Office identifies three categories of potential market harm caused by generative AI training:
+– Lost licensing opportunities: Where rights holders could have been paid to include their works in training datasets.
+– Lost sales: When a model generates outputs substantially similar to a protected work in the training set.
+– Market dilution: When AI-generated content floods the market with new works that, even if not directly infringing, compete with or diminish the value of the original training materials through sheer volume or stylistic imitation.
+It’s this third theory—market dilution—that’s likely to generate the most debate. The Office warns that “the speed and scale at which AI systems generate content pose a serious risk of diluting markets for works of the same kind as in their training data.” Even when outputs aren’t substantially similar to any particular work, “stylistic imitation made possible by [the original work’s] use in training may impact the creator’s market.”
+*****
+[‘Everybody’s Replaceable’: The New Ways Bosses Talk About Workers](https://www.wsj.com/lifestyle/workplace/corporate-bosses-workers-culture-changing-cbd19c2c)
+Corporate America’s long-running war for talent sounds more like a war on the talent these days.
+Not long ago, bosses routinely praised workers as their most prized asset, so much that some hoarded new hires before having enough for them to do. Today, with a giant question mark hanging over the economy, executives are pulling no punches in saying employees need to work harder, complain less and be glad they still have jobs.
+*****
+[“Founder Mode” and the Art of Mythmaking](https://charity.wtf/2024/12/17/founder-mode-and-the-art-of-mythmaking/)
+Feels very apposite given Airbnb’s big move into becoming an… [everything app](https://www.wired.com/story/airbnb-is-in-midlife-crisis-mode-reinvention-app-services/).
+One of my least favorite things about YC is the way it seems to pursue extremely young and inexperienced founders. If you’ve never been a manager, director, VP, staff or principal engineer, it’s a lot easier to look down on those people and disrespect the role they play in the ecosystem.
+It looks like Brian Chesky was about 26 years old when he cofounded Airbnb. He has basically been a CEO for his entire career. And this is, I think, a great example of the kind of blinkered perspective you get from someone who has no real idea what it’s like to sit anywhere else on the org chart.
+*****
+[How curiosity rewires your brain for change](https://bigthink.com/smart-skills/how-curiosity-rewires-your-brain-for-change/)
+Curiosity is often treated as a personality quirk — something childlike and playful, maybe even optional. But neuroscience paints a different picture. When we’re curious, the brain’s dopaminergic system — the same one that lights up when we anticipate a reward — kicks into gear. Simply put, curiosity makes us feel good about the prospect of discovering something new.
+It also helps us learn more efficiently, enhancing hippocampal activity and boosting our capacity to form and retain new memories. Studies show that when people are curious about a topic, they not only remember the specific information they were interested in but also retain unrelated material better.
+*****
+[Curiosity is self-perpetuating](https://blog.medium.com/curiosity-is-self-perpetuating-707cacc03b41)
+When I first joined Medium, our CEO would occasionally Slack me about decisions I’d made. “I’m curious why…” he’d begin, before mentioning a story I’d curated or post I’d drafted. Honestly, this freaked me out at first. I took “I’m curious” to mean “I’m suspicious” or “I vehemently disagree but am trying to be polite.” It took me a solid year to figure out that, actually, he was literally just curious — and explaining the reasoning behind my decisions made me better at my job. In retrospect, I’m glad I had to do that.
+Hello Ishan, it’s Jonathan with another edition of First Principles Silent Sunday. I’m not going to spend too much time today on a preface, given we have a beautiful, but quite assorted selection this week. As always, do remember to send in your own pictures to be published in our weekly community albums [using this link](https://theken.typeform.com/fpsilentsundays).
+For this edition’s top picks, we have Priyanka Dixit Sibal’s and Abheet Sachdeva’s photographs of a Delhi sheathed in yellow summer glory.
+| Gurugram Sector 56 (Priyanka Dixit Sibal) |
+| Delhi (Abheet Sachdeva) |
+| Delhi (Abheet Sachdeva) |
+Here is the rest of today’s album. Please switch over to [our website or app edition](https://the-ken.com/newsletter/first-principles/cultivating-an-editors-mindset/) to see all the pictures in their uncropped form.
+That’s a wrap for this week. Before you go, if you know someone who might like this newsletter, forward us to them!
+Please write to [fp@the-ken.com](mailto:fp@the-ken.com) if there’s anything you’d like to share with us. Or leave a comment on our on-site edition.
+See you next Sunday!
+Regards,
+Rohin Dharmakumar

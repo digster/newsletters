@@ -1,0 +1,24 @@
+---
+subject: "The video commerce key to tier-3 towns"
+from: "The Ken <info@the-ken.com>"
+to: ""
+date: 2020-02-05 02:36:06
+labels: ["CATEGORY_PERSONAL", "INBOX", "The Ken"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_8244464457792971031"]
+---
+Good Morning Ishan,
+I haven't had a cable TV connection in years. Everything I watch is streamed online, whether on my television, computer, or smartphone.
+I do remember the frustrating days of cable television, though. The programming schedules. Memorising channel numbers. The long, painful stream of advertisements. And the way half your TV channels turned into home shopping channels at the stroke of midnight, like Cinderella's carriage transforming back into a pumpkin. Except it's still possible to enjoy pumpkins.
+I could never understand what sort of person actually shopped through these channels. Who was up at 1AM shopping for a vacuum cleaner that doubled as a toaster, or some equally ridiculous contraption? How did they trust these over-the-top hosts who spoke solely in superlatives and grinned with a medically impossible number of teeth?
+But while these garish TV shopping channels are largely a thing of the past, their digital cousins are trying to succeed where these channels failed. Startups like WMall, Mall91, simsim, and Bulbul believe video commerce—a video-first approach to e-commerce—could be the key to unlocking the online shopping potential of Indians in tier-3 towns and beyond.
+The trend is already a runaway success in China. Can it be replicated in India, though? That's what Vandana tries to answer in today's story.
+Read it here: [https://the-ken.com/story/bulbul-simsim-video-e-commerce/](https://link.the-ken.com/uni/ls/click?upn=sy6ExvMQ-2BqIqW2Qsf-2FVG5sc84ge4M35NkSHIl0HH-2B5A9DQfj-2FNRFZLlpxlccmUNsOCLRj5n6Qlec2Tnnj864V1dnVJAy4HehsgYGcvJm4aWeUTpUPtsqc0ybz6ChgftNZTRS-2Frq-2BqxvNh6vGv4idfnhdY4itNewA9ZqjU-2FpBjH4RXDFumfEPe2Y8-2FwKe0PmFjoVq_dmDs81p1OM5gBGYvHfsMFvgp9PcMB6iZkwowmLx-2FVhwlHXbL5m6csiptGuneRwktW27c6ZwIBsjV67BZcfkOlPppVavmb9GVjXF4V-2FTqNpU4P5w7io-2BDxZbFNPNosUIsV1JfBRGJLg0r0r9RKAsb6v3xn5ekh1Fo6w8fo85Y4A7eHc2FdxuirAFbUTdWTBu49dUl6LAwUlzMj2JrHiBY-2BqbR1pc4q-2BhLaf84iOIYZHNyG0xQPMDok4QaE4iTRqJ2CCttjgmKraMNLwsa3bTFe88vokdjtxeTSRmOEjhhcoqoD3P0HiGAhs5Jfd1FOZTabnLToeAPliSEsFnwIxkpDqp7iZZp1PWxeeM6g952mphJNxSd2n1uPeKaOwWXSdcowikh88rwFZ0tvu8tCuIv6snUHu3OmYuXk1JX2s0ubH4-3D) (9-minute read)
+Sincerely,
+PS: Do you have a great story idea for us? You could be writing for us, too. Visit our contributions page [here](https://link.the-ken.com/ls/click?upn=sy6ExvMQ-2BqIqW2Qsf-2FVG5kDc8OFPxAZ8h5IxeCZT6WvX99UnqUwEiBsYqfjQmB00MOHp_dmDs81p1OM5gBGYvHfsMFvgp9PcMB6iZkwowmLx-2FVhwlHXbL5m6csiptGuneRwktW27c6ZwIBsjV67BZcfkOlPppVavmb9GVjXF4V-2FTqNpU4P5w7io-2BDxZbFNPNosUIsV1JfBRGJLg0r0r9RKAsb6v3xn5ekh1Fo6w8fo85Y4A7eHc2FdxuirAFbUTdWTBu49dUl6LAwUlzMj2JrHiBY-2Bli3tN0WzeGoYJWTSDu8zxXrzlspXRLUFn871-2BM2q-2BKjGg9q9gG1umCeWHevznWGN0RSiiV7HxbQsF3nu2KN-2BxgUbwQnn7kPGj5-2FlKxFc74WHe67bygfE92XFRKRWQ73BDnpBHXD89Jc8DIONT-2F6N8F8aGlw0wIEfIdq5pC-2FQnrhSlgXGr6lBJkjQMzofk2Pr8gGuW53s5WbXYZBGDKQQ7U-3D) to understand the kind of stories we're looking for, and to send in a pitch. We hope your next story is with us!
+|
+What you just read is the personalised daily introduction to The Ken's story. Written by a different person each day. Often insightful, sometimes witty, and very rarely boring. Someone sent this to you? [Sign up for free](https://the-ken.com/?modal=register). Don't like these? You can [unsubscribe](https://link.the-ken.com/asm/unsubscribe/?user_id=2349339&data=3HiL8RQK-2cX4dHghPhkaI7vEytXRRvpz5Y22-mKO_Q3E6scHcP1WsSPOjatzyuY97j3mnw0jOCcsa7Laoy-tGzZOVgCbV2MB4I3N_w-sJNKTFeA9GsHg4IwdSzIFd5knpugFmTkf-lrCtJ9DOgHGhdox4bZzvl1hBT4ysuAZ2UFzTPqReqzkzEvvkQpch4jiutnSrqDpofvjg15HEwDijwiUeULAYix4Tn0zGBxkXXTK3UYfehd6U2nJADGSWi2AbnYu4olaQ-7mOyDeGw72XMF8556-7GiheJPx6B8ZLbWPVc7-IhIW7k3bWXjkOs8uyg3NK8erlzYlY7I-IDQ_tlNEoYdrhZLG3mc-0LbvTxT-9xE4tGTwwYnjSLm8CygwNSIMVao2jFJjj3bUvyUIlt2jTI3TvKx5Ds683kJ7oq1rEsEYb9UhoTbCNQXBt6zItS1v2nspNwPHu8tWgbjjU3CuIr6Kx_a7IyKZsogKcfiM4Fwvr70VoZik8WRZO49fDmUegT8ORAfLjipeT4B4EjVkmCmTBHIWm0OZ3_Ee8Y=). Want to manage your emails? Click [here](https://link.the-ken.com/asm/?user_id=2349339&data=Nr4uY05OuuURSh8HID-jEdeE_J6dkkIIWgqZvAeLPi-k1_MCxnFZfoCmaoGrXu-_N97-NSKqLtacJF5o2gAVMmQK8fBE3_gBKf2CH_HtMF-kGw938fAMkE0zN3U1DFKBg7G_Lhbsp0EENIeMcVmLsm0ziUxpyE7bZAyKhin14TeFPspxw4XsBotmfB3GRRb3nAxd8LZpTLC28l5xxzNFYJChJzlf7aG2FJArzMS605IGKEOl7IF18wadSYKDl2KFP_dBuDcfW4u77Ej6ojbxjZ2amk4qPEJgW5qsJunJOgxfs8cHMBB08IE_JEMHPUHsvbIQS77TyvNiNEyTLtBTIzGxSlTYuVxNJTO4bI8q33dobBx3wD3Bp3-zuxuPAPATDUclg8kRulD-A7AHzTlt6QZ3UfmyJ70NwDzZu4zWV5vTxCosNb1XxielTky0-EQzP8DCVCWGwOr-8BCIdqXI_qLGrGBjOraxFA3aQtTytZ79x3_y5LwX1nw_BDfgUveI4eSfibT8CnaKV2ADmCa2YQ==).
+|
+|
+|
+|
+|

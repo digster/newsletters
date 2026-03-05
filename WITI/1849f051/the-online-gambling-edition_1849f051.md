@@ -1,0 +1,12 @@
+---
+subject: "The Online Gambling Edition"
+from: "\"Why is this interesting?\" <whyisthisinteresting@substack.com>"
+to: ""
+date: 2022-11-22 11:03:55
+labels: ["CATEGORY_PERSONAL", "INBOX", "WITI"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_5752899537867939131"]
+---
+Noah here. Two of the propositions on the ballot in California this year were about sports betting. Proposition 26 would have allowed sports Native American casinos and horse tracks to allow in-person sports betting and Proposition 27 would have allowed the kind of mobile sports gambling that has been legalized across much of the rest of the country. WITI Classifieds: We are experimenting with running some weekly classifieds in WITI. If you’re interested in running an ad, Royal Braun connects cutting edge companies with key creative talent. Nudge, get customer insights with ease. The finest micro-creators across all platforms (TikTok, YouTube, Reddit, more!) in one place. Why is this interesting? This is one of those topics I’m truly undecided on, and so are many others I speak to, and that alone seems worth examining. On one hand, as a sports fan, I enjoy betting on a game or future result here or there—it gives you a bit more skin in the game as you enjoy the action. On the other hand, I understand that this kind of betting sucks a lot of people in and preys on their worst tendencies. Over the weekend,
+The flip side to all this, of course, is the huge rise of fantasy sports, which allow you to gamble without it being called gambling. While it’s clearly different than just placing a straight bet, some of the biggest players in the online betting space like DraftKings and FanDuel came from “daily fantasy,” which makes the game even more like regular old sports betting. Fantasy can be tons of fun if you’re into it, and clearly takes some skill—and part of me understands that it’s difficult to draw a hard line between that and just betting the spread on tonight’s Knicks game. With all that said, the reason the proposition lost in California might be a whole lot simpler.
+In the end I suspect all states will have sports betting and that’s mostly ok with me. But as with any issue as complex as this, the devil is in the knock-on effects. (NRB) Thanks for reading, Noah (NRB) & Colin (CJN) —
+|

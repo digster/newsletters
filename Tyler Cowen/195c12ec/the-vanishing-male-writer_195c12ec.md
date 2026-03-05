@@ -1,0 +1,13 @@
+---
+subject: "The vanishing male writer"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2025-03-23 04:07:04
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+It’s easy enough to trace the decline of young white men in American letters—just browse The New York Times’s “Notable Fiction” list. In 2012 the Times included seven white American men under the age of 43 (the cut-off for a millennial today); in 2013 there were six, in 2014 there were six.
+And then the doors shut.
+By 2021, there was not one white male millennial on the “Notable Fiction” list. There were none again in 2022, and just one apiece in 2023 and 2024 (since 2021, just 2 of 72 millennials featured were white American men). There were no white male millennials featured in Vulture’s 2024 year-end fiction list, none in Vanity Fair’s, none in The Atlantic’s. Esquire, a magazine ostensibly geared towards male millennials, has featured 53 millennial fiction writers on its year-end book lists since 2020. Only one was a white American man.
+Over the course of the 2010s, the literary pipeline for white men was effectively shut down. Between 2001 and 2011, six white men won the New York Public Library’s Young Lions prize for debut fiction. Since 2020, not a single white man has even been nominated (of 25 total nominations). The past decade has seen 70 finalists for the Center for Fiction’s First Novel Prize—with again, not a single straight white American millennial man. Of 14 millennial finalists for the National Book Award during that same time period, exactly zero are white men. The Wallace Stegner Fellowship at Stanford, a launching pad for young writers, currently has zero white male fiction and poetry fellows (of 25 fiction fellows since 2020, just one was a white man). Perhaps most astonishingly, not a single white American man born after 1984 has published a work of literary fiction in The New Yorker (at least 24, and probably closer to 30, younger millennials have been published in total).
+Here is [more from Jacob Savage at Compact](http://marginalrevolution.com?action=user_content_redirect&uuid=08d44ec1185b8e2d127d645490f50a4afec5227903543ad64ed21b24c3f25fbe&blog_id=42693868&post_id=90301&user_id=262258391&subs_id=225460721&signature=951dd2cb0d2eb491574ff6d602835786&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly93d3cuY29tcGFjdG1hZy5jb20vYXJ0aWNsZS90aGUtdmFuaXNoaW5nLXdoaXRlLW1hbGUtd3JpdGVyLw=&email_id=a36f6003f0f06f41dcec73d5c761ed88).

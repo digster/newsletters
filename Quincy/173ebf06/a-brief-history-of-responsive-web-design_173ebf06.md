@@ -1,0 +1,35 @@
+---
+subject: "A Brief History of Responsive Web Design"
+from: "Quincy Larson <quincy@freecodecamp.org>"
+to: ""
+date: 2020-08-14 07:47:48
+labels: ["CATEGORY_PERSONAL", "INBOX", "Quincy"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_7697778124671848699"]
+---
+Here are this week's five links that are worth your time:
+
+1. A Brief History of Responsive Web Design. You'll learn about the design breakthroughs that have helped developers build websites that work equally well on desktop, mobile, and tablet. (10 minute read): https://www.freecodecamp.org/news/history-of-responsive-web-design/
+
+2. Learn networking in Python by building 4 projects. You'll build your own port scanner, chat room, and email client. You'll also learn some Python penetration testing techniques. (1 hour video course): https://www.freecodecamp.org/news/python-networking-course/
+
+3. Machine Learning For Managers. You don't have to have a Ph.D. to understand concepts like Supervised VS Unsupervised learning. Or to know techniques like  Classification, Clustering, and Regression. This article will give you a good non-technical introduction to all of this. (10 minute read): https://www.freecodecamp.org/news/machine-learning-for-managers-what-you-need-to-know/
+
+4. What is Python Used For? Here are 10 of the most common ways developers use the Python programming language to get things done. (20 minute read): https://www.freecodecamp.org/news/what-is-python-used-for-10-coding-uses-for-the-python-programming-language/
+
+5. Pointers in C Explained. This data structure may not be as hard to understand as you might think it is. If you've got half an hour to spare, get ready to learn some memory-level computing concepts. (30 minute read): https://www.freecodecamp.org/news/pointers-in-c-are-not-as-difficult-as-you-think/
+
+
+Quote of the Week: “The first 90% of the code accounts for the first 90% of the development time. The remaining 10% of the code accounts for the other 90% of the development time.” - Cargill's Rule
+
+
+Thanks again for being a part of the freeCodeCamp community. If you love what we do, and you're not supporting our nonprofit yet, help us keep the servers running. Become a supporter here: https://www.freecodecamp.org/donate
+
+
+Happy coding.
+
+- Quincy Larson
+
+Teacher at https://www.freecodecamp.org
+I share useful things on Twitter at https://www.twitter.com/ossia
+
+If these emails aren't worth your time, you can turn them off: https://www.freecodecamp.org/ue/eZV2T3gHC7IGcwcpYPG64

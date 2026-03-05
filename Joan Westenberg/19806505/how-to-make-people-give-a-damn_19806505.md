@@ -1,0 +1,79 @@
+---
+subject: "How to Make People Give a Damn"
+from: "Joan Westenberg <westenberg@mail.beehiiv.com>"
+to: ""
+date: 2025-07-14 00:23:04
+labels: ["CATEGORY_PERSONAL", "INBOX", "Joan Westenberg", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_1282196755308728004", "UNREAD"]
+---
+I didn’t set out to build an audience. |
+I set out to write something that didn’t make me feel sick. |
+Westenberg started as a late-night blog post on Medium in 2019. It was two years since I’d walked away from writing (more on that later.) |
+I was sitting at my kitchen table at 2am, frustrated out of my skull by the way everyone seemed to be writing for applause instead of truth. I was working 40-hour weeks in a job I didn’t believe in, reading corporate manifestos disguised as essays, and wondering if the internet had permanently lost its soul. |
+So I opened a new draft and wrote what I actually thought. |
+Not what would rank. Not what would go viral. Not what would look good on LinkedIn. |
+That first post got zero claps. The second maybe thirty. But a few months later, a stranger emailed to say they had printed it out and taped it to their wall. That was worth more than any metric I’ve ever seen. |
+I kept writing. Kept trying. Sometimes the posts bombed. Sometimes they caught fire. But I swore early on that I’d rather say something weird and true than something polished and empty. And over time, the audience showed up. Westenberg grew to 60,000 followers on Medium and tens of thousands more on my own site. But more importantly: people read. They emailed. They responded like it mattered. |
+Because it did. |
+Because they gave a shit. |
+…Because I gave a shit. |
+In 2022, I turned down a job in venture capital to keep building Westenberg. It would’ve paid well, offered prestige, handed me a network on a silver platter. But I didn’t want to sell someone else’s story. I wanted to keep telling mine. And that decision cost me thousands of dollars I didn’t really have. |
+Some months I barely made rent. |
+The money I’d made when the last startup I’d helped build was acquired was long gone. |
+I wrote through it anyway. |
+“Where builders come to think” wasn’t a slogan so much as a wish. |
+That someone out there might need a place to remember how to care. |
+It turns out a lot of people did. |
+We’re drowning in noise. |
+Every screen is an open window to a thousand other people trying to matter. There are more opinions than people, more products than problems, more performances than passions. Attention has become both currency and addiction. |
+In all this cacophony (and cacophony is precisely the word) the hardest thing isn’t launching a startup, writing a novel, or founding a movement. |
+The hardest thing is making anyone care. |
+In the Renaissance, a Florentine merchant could sponsor an artwork that would matter for centuries. In the early days of the American republic, a pamphlet could catalyze revolution. Today, even the most earnest Substack post risks being skimmed between an AI-generated video essay and a TikTok about luxury toothbrushes. |
+But somehow, some things still break through. Sometimes a product, a cause, a piece of writing sparks actual attention. It makes someone send it to a friend and say, “You have to read this.” |
+What makes the difference? |
+And more pressingly: how do you make something people actually give a shit about? |
+Look at What Has Endured |
+Before rushing to tactics, it’s worth reflecting on what people have cared about, across time and place. The Epic of Gilgamesh wasn’t carved into stone tablets just because someone thought they’d go viral. It captured the fear of death, the meaning of friendship, the terror of loss. These are not content pillars. They are human obsessions. |
+The Gettysburg Address is 271 words, delivered after a two-hour speech no one remembers. But people gave a damn, because it compressed grief, conviction, and a moral vision into a single breath of clarity. |
+What binds these examples together is not aesthetics, length, or format. It’s urgency. Something essential was at stake. The reader, the listener, the viewer was made to feel that this thing mattered now. |
+This is the first principle: if you want people to care, you have to care about something urgent, not just timely. |
+You Can’t Hack Earnestness |
+The internet has trained people to treat attention like a puzzle. Headlines are split-tested, thumbnails engineered. This has been going on for well over 100 years; Horace Greeley wrote headlines for maximum punch in the 1850s. But the modern twist is the belief that one can manufacture resonance through structure alone. |
+Earnestness is radioactive. People sense it through the screen. If you’re saying something because you believe it, people may not agree, but they will listen longer. If you’re saying something because you think it will work, they may like it, but they won’t love it. There is a difference between engagement and emotional investment. One gets clicks. The other gets belief. |
+This is why a weird, typo-ridden essay on Medium about quitting law school to raise goats can outlast a perfectly edited corporate blog. Because someone meant it. The audience, whether they admit it or not, is starved for sincerity. |
+The Market for Meaning |
+There is a reason why the Stoics are back in fashion, why Viktor Frankl sells more copies today than in 1980, and why YouTube is flooded with young men reading Marcus Aurelius to synth music. |
+People are seeking meaning. |
+2025 is an exhausting psychological climate. Institutions feel brittle. Work feels performative. Politics feels choreographed. If you want to make something people care about, the smartest move might be to help them feel less alone in their confusion. The most powerful work often doesn’t offer answers. It articulates the question better than anyone else. |
+When Camus wrote, “There is but one truly serious philosophical question, and that is suicide,” he was being typically dramatic. |
+But. |
+He was also getting to the heart of why people read in the first place. Not for facts, for orientation. |
+Attention is Finite; Affection is Not |
+Far too much of the internet operates on the logic of viral loops. Grab attention, loop them in, monetize the funnel. This works fine for certain kinds of products, but it flattens the emotional stakes. If everything is optimized for grabbing the eye, almost nothing earns the heart. |
+Affection is stranger, slower, and more enduring. It is not captured by clickthrough rates or A/B tests. It is something closer to loyalty, even love. People don’t reread tweets; they reread books. They don’t tattoo your newsletter subject line on their arms. |
+Which raises a useful question: do you want to make something people look at, or something they return to? |
+The Obstacle of Irony |
+Everyone knows how the trick is done, and most content creators play to the meta. Irony has become both shield and sword. But irony is a poor tool for building trust. It distances, distracts, deflects. |
+To be taken seriously, you eventually have to stop winking. You have to risk earnestness. This is terrifying, because earnestness invites criticism. But it also invites real connection. |
+Walker Percy once wrote, “You can get all A’s and still flunk life.” The internet version might be: You can win the algorithm and still lose the plot. |
+The things that endure - personal essays, strange little games, raw photography, handmade software - tend to feel like the opposite of brand work. They feel like someone trying, and risking. |
+You Need Enemies, But Not the Ones You Think |
+Some of the most compelling projects in history were built in opposition to something. The Protestant Reformation. The open-source software movement. Punk rock. |
+It’s tempting to conjure enemies too easily. With a rhetorical wave of the iPhone. You can’t just say “Big Tech” or “the elites” or “the algorithm” and hope people rally. These are vague, overused. The more effective frame is not abstract opposition, but particular resistance. What particular indignity are you resisting? What particular truth are you defending? |
+When Florence Nightingale wrote about the conditions in Crimea, she didn’t rail against bureaucracy in general. She counted corpses, catalogued infections, tracked numbers. She grounded her fight in the visceral. |
+If your project lacks traction, it may lack specificity. The general provokes apathy. The particular evokes rage. |
+Make It Cost You Something |
+Things that cost nothing are treated accordingly. This applies to both effort and vulnerability. If your output requires no sacrifice, no exposure, no tension - why should anyone care? Why should they believe it matters to you? |
+Your audience can sense when you’re putting skin in the game. If you say something that might alienate your peers, cost you standing, or make you look strange - that’s when people start paying attention. |
+The Bar is Both Higher and Lower Than You Think |
+Higher, because people have seen everything. Lower, because most of it is forgettable. Novelty isn’t always the winning move. Sometimes clarity is more valuable. |
+You don’t have to reinvent the form. You have to say something true, in a way that feels alive. George Orwell didn’t use complex structures to convince people of totalitarian dangers. |
+He used a story about pigs. |
+The good news is that if you care enough to dig deep, expose risk, and resist the defaults, you’re already ahead of most. The bad news is that it won’t feel safe. |
+Fact: You Can’t Outsource Soul |
+People try to game the system because they are afraid that what they yearn to say won’t be wanted. And sometimes it won’t. But the projects that matter most rarely start with audience analysis. They start with obsession. |
+Mary Shelley wrote Frankenstein because she was haunted. James Baldwin wrote The Fire Next Time because he had to warn his nephew. The best work is made by people who can’t not make it. |
+That’s the real test. Would you do it even if it failed? Would you say it even if no one clapped? |
+I’m still at the beginning of what I want to build: the best place on the internet for people who want to exercise their brains in a post-AI world. A place where thinkers, builders, weirdos, and visionaries can develop ideas that don’t fit inside 280 characters. A place where the future gets written - in essays, arguments, questions, and code. |
+I want Westenberg to be the platform that refuses to flatten, dilute, or pander. Where minds get sharper. Where ideas collide. Where ambition means building something real. |
+That’s the mission. And I’m just getting started. |

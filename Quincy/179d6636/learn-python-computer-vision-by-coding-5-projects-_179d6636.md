@@ -1,0 +1,34 @@
+---
+subject: "Learn Python Computer Vision by coding 5 projects [free 6-hour course]"
+from: "Quincy Larson <quincy@freecodecamp.org>"
+to: ""
+date: 2021-06-04 09:38:30
+labels: ["CATEGORY_PERSONAL", "INBOX", "Quincy"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_7697778124671848699"]
+---
+Here are this week's five links that are worth your time:
+
+1. Computer Vision is how computers process visual cues from the physical world – everything from street signs to dance moves. This advanced Python course will teach you how to use OpenCV, a powerful computer vision tool. (6 hour YouTube course): https://www.freecodecamp.org/news/advanced-computer-vision-with-python/
+
+2. Learn about encryption algorithms and block ciphers. Megan is a developer and cybersecurity researcher. She explains these concepts with lots of friendly diagrams and examples. (20 minute read): https://www.freecodecamp.org/news/what-is-a-block-cipher/
+
+3. Jack Schofield was a prolific journalist who wrote about technology for nearly four decades. Along the way he made three big observations about computers, which his fans dubbed "Schofield's Laws." (8 minute read): https://www.freecodecamp.org/news/schofields-laws-of-computing/
+
+4. How to set up a Front End Development project locally on your computer in VS Code. You'll learn how to plug in all the latest time-saving JavaScript tools, including ESLint, Parcel, and Prettier. (30 minute read): https://www.freecodecamp.org/news/how-to-set-up-a-front-end-development-project/
+
+5. Over the past month, Beau built a powerful Hackintosh computer. He assembled regular PC components off the web, then used a tool called OpenCore to install the MacOS Big Sur operating system. Now he has a turbo-charged Mac computer for coding and video editing. And he documented this entire process, with detailed steps if you want to build one yourself. (1 hour YouTube course): https://www.freecodecamp.org/news/build-a-hackintosh/
+
+And a quick update on freeCodeCamp's Data Science Curriculum Expansion. These 12 new certifications will teach advanced mathematics, computer science, and machine learning. So far, 2,273 people have donated to ensure that our nonprofit has the budget we need to hire experienced teachers. Learn more and get involved: https://www.freecodecamp.org/news/building-a-data-science-curriculum-with-advanced-math-and-machine-learning/
+
+
+Quote of the Week: “The easier it is for you to access your data, the easier it is for someone else to access your data.” ― Schofield's Third Law
+
+
+Happy coding.
+
+- Quincy Larson
+
+Teacher at https://www.freecodecamp.org
+I share useful things on Twitter at https://www.twitter.com/ossia
+
+If these emails aren't worth your time, you can turn them off: https://www.freecodecamp.org/ue/eZV2T3gHC7IGcwcpYPG64

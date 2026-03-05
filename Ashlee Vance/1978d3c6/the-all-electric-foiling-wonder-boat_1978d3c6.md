@@ -1,0 +1,10 @@
+---
+subject: "The All-Electric, Foiling Wonder Boat"
+from: "Ashlee Vance from Core Memory  <ashleevance@substack.com>"
+to: ""
+date: 2025-06-20 12:05:23
+labels: ["Ashlee Vance", "CATEGORY_PERSONAL", "INBOX", "UNREAD"]
+label_ids: ["Label_4216359091400734623", "CATEGORY_PERSONAL", "INBOX", "UNREAD"]
+---
+Our latest video episode is on Navier, which makes an all-electric, foiling boat called the N30.
+The N30 can go about 75 miles on a single charge, and it cuts through chop with ease and style. Navier constructed the boat out of carbon fiber to keep it strong and light and packed it full of electronics so that the foils can make up to 50 adjustments per second and maintain a smooth ride. So far, Navier has only produced about a dozen of the boats and does much of the final assembly at its factory in Alameda. (The factory is oddly also the home of the Pinball Annex. You’ll see in the video.) So far, the company’s pitch is that rich people and hotels and resorts should use the N30 to provide comfortable, shortish rides on an ultra-modern craft. Moving forward, however, Navier’s founder and CEO Sampriti Bhattacharyya wants to make a fleet of boats, including things like autonomous cargo ships and military craft. She contends that cities like San Francisco could make much better use of their waterways and have more commuter boats if the boats were simply more pleasant to ride on and more conducive to work and conversation. Bhattacharyya is also on a quest to try and bring shipbuilding back to America, and America could sure use some shipbuilding. Just look at this chart from the Financial Times . . . if you dare. Bhattacharyya has a wonderful, winding story of coming to the US from India, obtaining a master’s degree in aerospace engineering from THE Ohio State University and then a PhD in Mechanical Engineering from the Massachusetts Institute of Technology. She’d longed to go into aerospace and perhaps work at NASA before discovering a passion for the oceans. Now on with the show. Hopefully, you enjoyed this story. If so, please share it and subscribe to Core Memory. We want to do more of this for you and need your help. Thanks! |

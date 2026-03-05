@@ -1,0 +1,76 @@
+---
+subject: "Everyone Is Betting on Bigger LLMs. She's Betting They're Fundamentally Wrong. (Eve Bodnia, Founder & CEO of Logic…"
+from: "The Generalist <thegeneralist@substack.com>"
+to: ""
+date: 2026-02-24 13:03:32
+labels: ["CATEGORY_PERSONAL", "INBOX", "The Generalist", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_8815311452832858585", "UNREAD"]
+---
+|
+“AGI should be just like natural intelligence. Something which plans, something which is able to predict, produce new knowledge, be cheap and efficient, and be adaptive to the environment. It should reason, it should not mimic.” — Eve Bodnia, Founder & CEO, Logical Intelligence
+Listen or watch now on[YouTube](https://substack.com/redirect/d11c50a9-744e-4406-8ca2-7e015b1e87eb?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o), [Spotify](https://substack.com/redirect/8bbfa4a9-dbe5-4984-80bd-b2cfb8584767?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o), or [Apple Podcasts](https://substack.com/redirect/829d6f1e-c309-49f0-87f4-47e4cfd88e5a?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+Eve Bodnia is the co-founder and CEO of Logical Intelligence, which is developing energy-based reasoning models (EBMs) as an alternative to large language models. She argues that LLMs, which operate by recognizing and recombining patterns within language space, are structurally incapable of genuine reasoning. Eve's alternative: Kona—an EBM that reasons in abstract latent space, learns rules about the world rather than surface patterns, and can interface with language models as one output channel among many. Eve traces the core ideas behind her architecture to decades of work in symmetry groups, condensed matter physics, and brain science—fields that share, as she explains, the same underlying mathematics. In a public demo, Kona solved a complex reasoning task for roughly $4 in compute, compared to an estimated $15,000 using frontier LLMs. With Yann LeCun serving as founding chair of its technical board, Logical Intelligence sits at the center of a small but growing effort to rethink AI beyond language-based models.
+In our conversation, we explore:
+Why Eve believes LLMs can’t truly extrapolate knowledge, even at larger scale
+What energy-based reasoning models are—and where the “energy” concept comes from
+The $4 vs. $15,000 benchmark, and what it tells us about the cost of guessing vs. knowing
+How Logical Intelligence showed spontaneous knowledge transfer at just 16M parameters
+Why systems like chip design, surgical robotics, and power grids need more than probabilistic AI
+What formally verified code generation means for the future of programming
+Why the math behind particle physics also explains how the brain filters signal from noise
+How meeting Grigori Perelman as a teenager shaped Eve’s views on ego and ownership in science
+Why Eve believes humans must remain the constraint-setters in advanced AI
+How meditation, piano, and Eastern philosophy support her creative process
+[Granola](https://substack.com/redirect/74214984-16a3-4f33-a97f-d66667225488?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o): The app that might actually make you love meetings.
+[Persona](https://substack.com/redirect/27ea5f50-1fb1-44b3-87ff-54d0976266c8?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o): Trusted identity verification for any use case.
+([00:00](https://substack.com/redirect/956ba94d-7750-48c7-8c18-3541a7e0c364?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) Introduction
+([03:03](https://substack.com/redirect/4e66817e-adab-497f-b2bb-aa6c9ed4a2f8?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) Eve’s encounter with Grigori Perelman
+([05:38](https://substack.com/redirect/c4b3e554-5df2-4d77-a73a-747ce4ed624e?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) Why bizarre people are Eve’s favorite people
+([06:56](https://substack.com/redirect/27cf1980-2d98-41a8-897d-bde700aedafd?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) Her early obsession with math and physics
+([09:02](https://substack.com/redirect/3b1028f5-7354-4283-b283-6c5ee6be9ca3?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) The manifold hypothesis and language
+([11:54](https://substack.com/redirect/62954e2a-74aa-4840-b5ac-4c4a4ebebcaf?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) The Kekulé Problem
+([14:05](https://substack.com/redirect/b6622151-4b74-4705-8bc4-d7eaa0c0cd5c?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) Eve’s upbringing and her CERN research in high school
+([17:40](https://substack.com/redirect/3fd89e4d-f442-4b77-afa9-94c3060e0684?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) Eve’s academic path
+([20:36](https://substack.com/redirect/0fd41070-9159-4c78-b080-5fc2c693c9a9?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) Symmetry in nature
+([22:58](https://substack.com/redirect/72bd15c5-8389-4498-9faf-0a91f27d3f7c?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) Spirituality and creativity
+([27:00](https://substack.com/redirect/848d57ce-d8f3-477e-be6f-601ded6de5fe?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) Theory vs. experiment
+([29:03](https://substack.com/redirect/030ec1c3-a8e3-4e43-8f99-b48dca9229d2?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) Uncovering a critical gap in AI models
+([33:45](https://substack.com/redirect/4a49c6b4-9545-4c35-916e-e296f8185e0c?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) What Logical Intelligence is building
+([35:50](https://substack.com/redirect/ab05335a-488f-43ee-9a08-865f93ea60f2?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) Logical Intelligence’s use cases
+([42:08](https://substack.com/redirect/a3b6e3b9-31ee-4f25-be2c-12c1ab04ad94?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) Energy-based models explained
+([45:06](https://substack.com/redirect/7cdd8605-0d0e-4a4b-b651-a390f9c41597?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) LLMs vs. EBMs
+([48:01](https://substack.com/redirect/01cbcb0b-a600-460f-af71-bca1682fad09?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) AGI defined
+([51:22](https://substack.com/redirect/2762077d-7d5f-4fe7-b09b-4601f9af3c6a?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) Kona’s knowledge extrapolation
+([53:20](https://substack.com/redirect/5157fcf9-76e5-4390-8077-257c4dc1daf6?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) The team behind Logical Intelligence
+([58:09](https://substack.com/redirect/3c552084-8332-477e-8de8-ce6db10131ec?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) Early investors in Logical Intelligence
+([58:50](https://substack.com/redirect/61b4354a-15c0-4e74-a210-ed3abdab2836?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) Feynman’s influence on Eve’s work
+([1:01:15](https://substack.com/redirect/02fc502a-5558-4fab-bd74-0ff7e0defed2?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) How Eve sustains her creativity
+([1:03:42](https://substack.com/redirect/d8aa78fe-e18c-47ed-b8b3-ff75b7d1bcf6?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) Final meditations
+LinkedIn: [https://www.linkedin.com/in/eve-bodnia-351b41355](https://substack.com/redirect/db9dce32-773f-472f-8f0c-b86cbd543095?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+X: [https://x.com/evelovesolive](https://substack.com/redirect/139ddd85-6c7a-414c-8cff-9ecc6cf14d78?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+Website: [https://logicalintelligence.com](https://substack.com/redirect/21f2ffab-8249-4711-9cec-fd0a9d1c431d?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+The Creative Act: A Way of Being:
+[https://www.amazon.com/Creative-Act-Way-Being/dp/0593652886](https://substack.com/redirect/66f6d7e3-9ab7-41bc-a58e-9604d3044912?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)Impro: Improvisation and the Theatre:
+[https://www.amazon.com/Impro-Improvisation-Theatre-Keith-Johnstone/dp/0878301178](https://substack.com/redirect/60ff7f1c-6b4a-49f0-aa67-339c6eca7518?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)Perfectly Reasonable Deviations from the Beaten Track:
+[https://www.amazon.com/Perfectly-Reasonable-Deviations-Beaten-Track/dp/0465023711](https://substack.com/redirect/37d8acbf-add1-4fe8-9bda-89b6b025426a?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)Letting Go: The Pathway of Surrender:
+[https://www.amazon.com/Letting-David-Hawkins-M-D-Ph-D/dp/1401945015](https://substack.com/redirect/9e0934be-fea5-4d08-93dd-8fc0d8b4b4f1?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+Grigori Perelman:
+[https://en.wikipedia.org/wiki/Grigori_Perelman](https://substack.com/redirect/d270639b-b61c-4bf1-998f-cee360c7d07f?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)Cormac McCarthy:
+[https://en.wikipedia.org/wiki/Cormac_McCarthy](https://substack.com/redirect/d8cdbb2b-03de-44be-9a5d-9d12f20fc856?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)Rick Rubin on X:
+[https://x.com/RickRubin](https://substack.com/redirect/d5b7a8de-41d1-4c68-8d6c-1b5987d388f8?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)David Krakauer’s website:
+[https://davidckrakauer.com](https://substack.com/redirect/2f08895e-a1bf-4f21-aaad-53939d8a5ae9?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)Yann LeCun on LinkedIn:
+[https://www.linkedin.com/in/yann-lecun](https://substack.com/redirect/dbfbe908-410a-4783-b375-378a82f9d45a?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)Michael Freedman:
+[https://www.microsoft.com/en-us/research/people/michaelf](https://substack.com/redirect/9ac30072-8e7e-4b6a-80af-854f0ccb1536?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)Vladislav Isenbaev on LinkedIn:
+[https://www.linkedin.com/in/isenbaev](https://substack.com/redirect/18ed3d16-2ada-4081-b7bd-de80887afb08?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+Fields Medal:
+[https://en.wikipedia.org/wiki/Fields_Medal](https://substack.com/redirect/1c047ba2-2bf9-4bcc-bb5b-b7acb05f95eb?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)Manifold hypothesis:
+[https://en.wikipedia.org/wiki/Manifold_hypothesis](https://substack.com/redirect/9ec615df-0080-4d55-8956-2a226a8beeb8?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)The Kekulé Problem:
+[https://nautil.us/the-kekul-problem-236574](https://substack.com/redirect/c2f3f698-faae-4a4e-aad0-8b7b6821a49c?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)CERN:
+[https://www.home.cern](https://substack.com/redirect/56a084ec-78b4-48cf-9bb8-1022f9e8634a?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)Can Humans Stay Smart in the Age of AI? (David Krakauer, President of the Santa Fe Institute):
+[https://www.generalist.com/p/maintaining-human-intelligence-in-the-ai-era-david-krakauer](https://substack.com/redirect/8cf2bcf8-1b49-4ac8-accf-40ff72a08f44?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)ICPC global:
+[https://icpc.global](https://substack.com/redirect/c8823f96-8d4b-40dd-a112-9c0ab4190def?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)Eve’s post on X about Feynman’s writings:
+[https://x.com/evelovesolive/status/2002470354485457115](https://substack.com/redirect/d5d0fc3c-40d7-477a-852d-5102679d9065?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)Mahayana Buddhism:
+[https://en.wikipedia.org/wiki/Mahayana](https://substack.com/redirect/adec4ac5-b6d1-4a7c-8865-12b6604ba0b9?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+I’d love it if you’d subscribe and share the show. Your support makes all the difference as we try to bring more curious minds into the conversation.
+Production and marketing by [penname.co](https://substack.com/redirect/e5dbda36-fa04-49b3-a3ff-315970c28a13?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o). For inquiries about sponsoring the podcast, email jordan@penname.co.
+You're currently a free subscriber to [The Generalist](https://substack.com/redirect/0a49eae6-452f-46d2-96c4-e6fbfbb5885d?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o). For the full experience, [upgrade your subscription.](https://substack.com/redirect/2/eyJlIjoiaHR0cHM6Ly93d3cuZ2VuZXJhbGlzdC5jb20vc3Vic2NyaWJlP3V0bV9zb3VyY2U9cG9zdCZ1dG1fY2FtcGFpZ249ZW1haWwtY2hlY2tvdXQmbmV4dD1odHRwcyUzQSUyRiUyRnd3dy5nZW5lcmFsaXN0LmNvbSUyRnAlMkZldmVyeW9uZS1pcy1iZXR0aW5nLW9uLWJpZ2dlci1sbG1zJnI9OG81NG4mdG9rZW49ZXlKMWMyVnlYMmxrSWpveE5EVTJNek14T1N3aWFXRjBJam94TnpjeE9UTTROVGsxTENKbGVIQWlPakUzTnpRMU16QTFPVFVzSW1semN5STZJbkIxWWkweE5UYzJOQ0lzSW5OMVlpSTZJbU5vWldOcmIzVjBJbjAuYW9sVjJzb0l4eHc4cnNrdEN5MTJRa2huSVZsUlpaTmhBc2hTWEI5NjgyQSIsInAiOjE4ODkxOTQ1NywicyI6MTU3NjQsImYiOnRydWUsInUiOjE0NTYzMzE5LCJpYXQiOjE3NzE5Mzg1OTUsImV4cCI6MjA4NzUxNDU5NSwiaXNzIjoicHViLTAiLCJzdWIiOiJsaW5rLXJlZGlyZWN0In0.e1Xi95LdDms-b3N2Y6Ty5qbH4YwgaL3cI_UcomDIpZw?&utm_source=substack&utm_medium=email&utm_content=postcta)

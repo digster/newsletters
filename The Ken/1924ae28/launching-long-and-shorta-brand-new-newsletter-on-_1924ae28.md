@@ -1,0 +1,45 @@
+---
+subject: "Launching Long and Short—a brand-new newsletter on India’s stock market"
+from: "The Ken <info@the-ken.com>"
+to: ""
+date: 2024-10-02 01:40:13
+labels: ["CATEGORY_PERSONAL", "INBOX", "The Ken", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_8244464457792971031", "UNREAD"]
+---
+|
+|
+Long and Short
+Wed, 02 Oct 24
+The story behind the numbers and motivations driving India's stock market.
+Good Morning Ishan,
+Launching a weekly newsletter on the stock market at a time like this may appear to be a no-brainer. At US$5.7 trillion, India’s market capitalisation is the fourth highest in the world. Benchmark indices Nifty 50 and Sensex are trading near their all-time highs. Companies large and small are going public like never before.
+But that’s not the only reason why we chose to launch Long and Short. My colleague Anand Kalyanaraman and I wanted to go past the headline-grabbing numbers and hyperbolic commentary and truly understand what drives India’s listed companies, the funds that bet on them, and the regulator overseeing them all.
+Putting insight before jargon. Prioritising clarity over hype.
+That has always been The Ken’s approach to journalism.
+Anand and I have written about billionaire [Radhakishan Damani’s](https://the-ken.com/story/radhakishan-damanis-investing-chops-are-legendary-but-his-actual-bets/) investments; the financial engineering behind the [Jio Financial Services](https://the-ken.com/story/the-secret-to-jio-financials-13x-net-worth-boost-in-the-reliance-demerger/) spin-off; the reversal of [Nykaa’s](https://the-ken.com/story/how-nykaa-went-from-investor-darling-to-tech-laggard/) fortunes after its listing; and the controversial demerger of [ICICI Securities](https://the-ken.com/story/icici-securities-has-165923-shareholders-its-delisting-benefits-one/).
+You will hear from one of us every Wednesday, 7 am IST, and we will bring you sharp takes on the stock market (occasionally also tapping into the wide-ranging expertise of our talented colleagues in our newsroom). And as with every product The Ken has launched, Long and Short will evolve based on your feedback.
+Hope you enjoy the first edition!
+The spectre of Hindenburg Research’s allegations continues to loom over Madhabi Puri Buch, the chairperson of Sebi, India’s markets regulator. But the Adani Group seems to have put the US short seller’s damning report from January 2023—accusing the business house of stock manipulation and accounting fraud—in the rearview mirror, even if their stocks don’t quite reflect that.
+Adani Airport Holdings, an unlisted unit of Adani Enterprises, raised Rs 1,950 crore (US$233 million) this Monday in the largest domestic bond issue since the Hindenburg report.
+Adani Enterprises is not just the flagship of the group; it’s also the most complex company in its billionaire-owner Gautam Adani’s sprawling universe. With a market cap of Rs 3.45 lakh crore (US$41 billion), it’s also his most valuable. When we [wrote](https://the-ken.com/story/gautam-adanis-oldest-company-is-not-his-most-valuable-but-it-dictates-his-future/) about the company in 2022, we said it dictated the future of the group, and not without reason:
+Adani Enterprises (AEL), which is India’s largest coal trader, began the group’s journey in 1988. And it built each of the other six listed Adani companies. More crucially, AEL remains the central piece of the dizzying puzzle Gautam Adani is assembling. Almost all of the Adani Group’s new ventures—from airports and metals to petrochemicals and media—are housed in AEL.
+Of all the new businesses Adani Enterprises has birthed in recent years, nothing has taken shape as swiftly as its airports venture. In 2019, Adani Airport Holdings got its start by bagging the rights to modernise and run six airports—including in Ahmedabad, where the group is based, and Lucknow—for 50 years.
+Two years later, the group became the country’s largest airport operator after buying the Mumbai airport from the GVK Group in a [contentious](https://indianexpress.com/article/india/there-was-no-pressure-from-adani-group-to-sell-mumbai-airport-gvks-sanjay-reddy-8430316/) takeover. Adani-managed airports are now responsible for a quarter of India’s flyer footfall and a third of its air-cargo traffic.
+What isn’t as obvious is that there’s a bonafide retailer within Adani’s airports business. An airport operator generates revenue by charging passengers a fee for the use of its facilities and billing airlines for landing, parking, cargo, and ground-handling services—collectively called “aero revenue”. On top of this, the concessionaire also leases space to retail outlets and restaurants, in addition to running them on its own.
+Adani Airport Holdings had a top line of Rs 2,600 (US$310 million) in the year ended March. A subsidiary that operates duty-free shops brought in half as much and was profitable, unlike the parent. Another, smaller subsidiary bought a majority stake in a retailer of imported chocolates and café chain for Rs 200 crore (US$24 million) just last week.
+Cococart Ventures runs close to 50 outlets, with more outside airports than within. The price Adani is paying for its stake is more than two-and-a-half times Cococart’s revenue in the year ended March 2023. (The company hasn’t yet filed its financials for the following year.)
+Airports are among Adani Enterprises’ biggest bets, with [billions of dollars](https://www.fortuneindia.com/enterprise/adani-group-eyes-airport-biz-ipo-in-4-yrs/117292) in investment planned for the next decade and a possible listing in four years. And the retail potential of airports far outstrips the appeal of government-regulated aero revenue.
+Typically, the non-aero business—which includes retail stores, eateries, advertising, car parking, and forex—punches way above its weight in the airport business, contributing [40%](https://www.adlittle.com/sites/default/files/viewpoints/aviation_year_zero_-_new_non-aero_revenues-min.pdf) of the revenue and 80% of the profits. Adani Airport Holdings has the option of developing for commercial use almost 230 acres around all its airports, except the one in Mumbai. What’s more, a brand-new, second airport Adani is building in the city is set to open its doors this financial year.
+Airport operators are also retailers the same way PVR Inox, India’s largest multiplex chain, is increasingly a fast-food chain too. Food and beverages account for a third of PVR Inox’s revenue.
+PVR Inox has the kind of scale in F&B that puts it alongside India’s largest fast-food companies. It may not be as big as the franchisees running Domino’s or Pizza Hut, but it’s definitely larger than the one operating Burger King.
+Granted, there’s no F&B without selling movie tickets for PVR Inox. Nobody is going to the cinemas—or even can—just to eat the middling food. But gone are the days when samosas, popcorn, and watery Coke were pretty much the only food choices available to moviegoers. PVR now sells everything from gelatos to bento boxes.
+If you think PVR Inox is just a multiplex giant, you’re wrong, [The Ken](https://the-ken.com/tradetricks/if-you-think-pvr-inox-is-just-a-multiplex-giant-youre-wrong/)
+Location can make or mar a retail venture, and that is even before you factor in prohibitive rentals in cities like India’s financial capital. Which is why starting afresh in retail is not for the faint of heart. But the dynamics are different when you own the space and have thousands of captive customers, albeit only for a couple of hours.
+In the year ended March 2024, India’s air-passenger traffic was up [10%](https://www.icra.in/CommonService/OpenMediaS3?Key=88c822ce-09b6-430b-b9ad-c39d60270386) over its pre-Covid peak. There are no signs yet that this financial year will be very different. The fact that shares of Indigo, India’s largest airline, and Indian Hotels Company, which operates the Taj chain of hotels, are both trading near their all-time highs speaks to the buoyancy of travel in general.
+It’s as good a time as any to be in the airports business.
+We hope you enjoyed the first edition of Long and Short. We’ll be back next Wednesday morning with another breakdown of the numbers and motivations driving India’s stock markets.
+Long and Short, however, is exclusive to subscribers on our Premium plan. So if you are currently on a Free or Basic subscription and liked today’s issue, consider upgrading to the Premium plan to get all future editions in your inbox, along with access to other exclusive products such as the Two by Two podcast.
+Do write to longandshort@the-ken.com with your thoughts, or leave a comment on our onsite edition.
+Best,
+Seetharaman
+[Got a tip? If you have a lead for a great story that The Ken can pursue, please send it to tips@the-ken.com or share it through [this form](https://theken.typeform.com/got-a-tip). To find out more about how to do this securely, read our [blog post](https://the-ken.com/blog/help-the-ken-tell-the-next-big-story/) about sharing tips with The Ken.]

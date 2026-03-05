@@ -1,0 +1,13 @@
+---
+subject: "Claims about debt and productivity growth"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2025-06-06 04:41:33
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+- To stabilize the debt-to-GDP ratio through productivity growth, we’d need to grow at an unrealistically fast rate. If productivity growth was 0.5 percentage point per year faster than CBO expects throughout the next three decades, then the ratio of debt-to-GDP would be stabilized. These estimates don’t include the effects of the 2025 tax bill now being debated in Congress; if that bill is enacted in the form it passed the House, we’d need even higher rates of productivity growth to stabilize the debt-to-GDP ratio.
+- Pro-growth policies alone won’t get us there. The authors examine seven policy areas–immigration, housing, the safety net, electricity transmission, R&D, taxes on business investment, and permitting–and find no evidence that, even taken together, they can produce a sustained, large enough increase in productivity growth to offset their potential direct budgetary cost and significantly reduce the deficit.
+- But while tax hikes and spending cuts will be needed, pro-growth policies could lessen the pain. Some policy changes in those areas would boost economic growth, and some of those changes would do so at a low enough direct budgetary cost that they would lower the trajectory of debt relative to GDP. For example, increasing the immigration of high-skilled workers or relaxing restrictions on housing construction would increase economic growth and lower the trajectory of debt.
+- Pro-growth regulatory changes are especially promising. Some of these regulatory changes would be deregulatory–for example reforming permitting for infrastructure–and others would strengthen regulation–for example federal intervention to improve electricity transmission. Tax cuts, in contrast, directly widen budget deficits, and evidence suggests that they very rarely have a big enough impact on growth to offset those direct deficit increases.
+That is from [a new study](http://marginalrevolution.com?action=user_content_redirect&uuid=9d3d533566eddbbbabbc8a47bf2379f9f74efd8b3b1b2224fe8715b6b0389ed4&blog_id=42693868&post_id=90816&user_id=262258391&subs_id=225460721&signature=27d5fc22d992b9f2188fa473e54a2b08&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly90b2Jpbi55YWxlLmVkdS9yZXNlYXJjaC9wcm8tZ3Jvd3RoLXBvbGljaWVzLWFsb25lLWNhbnQtc3RhYmlsaXplLWZlZGVyYWwtZGVidA=&email_id=850ffc12ff03fc97127fe7285bd7186f) by Douglas Elmendorf, Glenn Hubbard, and Zachary Liscow.

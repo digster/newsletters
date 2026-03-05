@@ -1,0 +1,42 @@
+---
+subject: "Five Links for April 2024"
+from: "Auren Hoffman of Five Links <auren@substack.com>"
+to: ""
+date: 2024-04-05 15:59:44
+labels: ["Auren Hoffman", "CATEGORY_PERSONAL", "INBOX"]
+label_ids: ["Label_4260038268466989707", "CATEGORY_PERSONAL", "INBOX"]
+---
+|
+[What Makes Us Happy?](https://substack.com/redirect/d5f5f24f-1fb5-4b70-95b9-edaff6a51798?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) by Joshua Wolf Shenk
+on Harvard’s landmark 70+ year study on happiness and its director, George Vaillant.
+[You, too, can be the proud parent of Abraham Lincoln’s baby](https://substack.com/redirect/c43367f7-cd70-4a8a-b086-ff515a810770?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) by Auren Hoffman
+We already spend way more on our kids than we do on all our luxury purchases combined. In the not-too-distant future, you will be able to have the baby of your very favorite influencer.
+[Why Is It So Hard to Build an Airport?](https://substack.com/redirect/72fbb630-d194-4bed-80f0-dd64d4110f19?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) by Bryan Potter
+A truly amazing stat: The US has built more commercial nuclear reactors (two) in the past 25 years than it has major commercial airports (zero).
+[The Double Life of Former Wirecard Executive Jan Marsalek](https://substack.com/redirect/dd37a740-170a-42f1-b5c8-7e8e68e43a7d?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) from Der Spiegel
+Anyone that has been at dinner with me has heard me talk incessantly about Wirecard (the biggest tech fraud in history). I’m obsessed with it. The book [Money Men](https://substack.com/redirect/2a1c453f-81ed-44af-a911-804c56666e66?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) is a must read. Jan Marsalek, the former COO, helped orchestrate a multibillion dollar fraud. At the same time, he was leading a double life as a Russian spy. Can’t wait for the movie!
+[Inventing the Perfect College Applicant](https://substack.com/redirect/923c53d5-4eac-47d8-9d35-4048b7d9c40a?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) by Caitlin Moscatello
+Helping rich kids get into elite colleges is a $2.9 billion dollar industry. At the top of that industry are the consultants like Christopher Rim, who charge families over $100,000 a year to turn students into Ivy Bait.
+Bonus (Listen): [Steve Case: AOL, AI & American Innovation](https://substack.com/redirect/5ef2c09a-9a65-4497-b81a-b2d1ca4f486f?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) on World of DaaS podcast
+Few people understood the power of the internet earlier than Steve Case. When he joined AOL in the 80s, it was illegal for regular citizens to access the internet and less than three percent of the country was online.
+listen on [Spotify](https://substack.com/redirect/2f97bba6-b164-483b-a29d-b760786e37de?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) / [Apple Podcasts](https://substack.com/redirect/7537dbdd-ca33-4131-b8c0-c4dea00cfe7f?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) or watch on [YouTube](https://substack.com/redirect/a26bf0e6-db7a-453b-ba40-9c762f1edae6?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+[How a ragtag band of internet friends became the best at forecasting world events](https://substack.com/redirect/01048e45-27dd-4169-b54a-2fc51cad3b11?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) by Dylan Matthews
+There are lots of studies that show that expert predictions are relatively unreliable, but the forecasting group Samotsvety are consistently making predictions two or three times more accurate than their competition.
+[Paper Trail](https://substack.com/redirect/348e0cf9-7af2-4d23-8b94-4743ab017bb5?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) by Frederik Joelving
+Tens of millions of dollars flow into the paper mill industry every year, where scholars pay for publication in fraudulent “scientific” journals. In a new evolution, brokers are paying bribes to editors to place bad papers in reputable journals.
+Bonus (Fun): [Tokyo is the New Paris](https://substack.com/redirect/a30e9f21-aeb2-4b26-b735-877f01dff8cb?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) by Noah Smith
+A strong objective case for a very subjective award: best city on earth.
+Bonus (Listen): [Renaissance Technologies](https://substack.com/redirect/73741d0d-5e4c-4c6f-9b84-0671ca8d7257?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) on the Acquired Podcast
+Three hours on the best performing investment firm of all time, and whether or not they “solved the market.”
+More reading links at [https://twitter.com/AurenReads](https://substack.com/redirect/e878aee3-6a92-4d56-ad2e-67b852ea0eba?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+[Tweet of the Month](https://substack.com/redirect/44c1c652-27ef-4bd2-9e38-77f9690708ba?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) (Thread)
+all the books I read last month:[Troubled](https://substack.com/redirect/1e2ca64b-da9c-4b25-9463-a2bfabe57083?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) by Rob Henderson (must read)
+HT: Rob Henderson[Common Stocks and Uncommon Profits](https://substack.com/redirect/9019f4bf-55ac-4ea5-8b8b-b94be9945e07?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) by Philip A Fisher
+HT: Will Snellings
+[Means of Control](https://substack.com/redirect/a217f9e6-d373-49d7-b89b-49fe34f83490?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) by Byron Tau
+HT: Byron Tau
+[Million Dollar Weekend](https://substack.com/redirect/57b2846e-79ad-48d4-98b6-9e3df12d71d5?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) by Noah Kagan
+HT: Noah Kagan
+Auren Hoffman is CEO of SafeGraph (geospatial data on physical places) and GP at Flex Capital ($200M VC firm). Engage on [twitter: @auren](https://substack.com/redirect/5e339a12-5a5d-441e-ab93-a3af8c618958?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+and please share Five Links with your friends and allies.
+Hope you enjoy [Summation by Auren Hoffman](https://substack.com/redirect/2/eyJlIjoiaHR0cHM6Ly9hdXJlbi5zdWJzdGFjay5jb20_dXRtX2NhbXBhaWduPWVtYWlsLWhvbWUmcj04bzU0biIsInAiOjE0Mjk3NTQ3MCwicyI6NjU1MjAsImYiOnRydWUsInUiOjE0NTYzMzE5LCJpYXQiOjE3MTIzMzI4MjUsImV4cCI6MTcxNDkyNDgyNSwiaXNzIjoicHViLTAiLCJzdWIiOiJsaW5rLXJlZGlyZWN0In0.7hxd7f6vjxG_wa7TDwRJSahd4VF0jxsVwsabdId2nGo?). Please also follow [@auren](https://substack.com/redirect/5e339a12-5a5d-441e-ab93-a3af8c618958?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) on Twitter.

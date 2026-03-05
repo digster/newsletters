@@ -1,0 +1,821 @@
+<html style="scrollbar-color: rgb(219, 219, 219) rgb(255, 255, 255); scrollbar-width: thin;"><head><meta charset="utf-8"><title>How to debug large, distributed systems: Antithesis</title><style>
+@media all and (-ms-high-contrast: none), (-ms-high-contrast: active) {
+  .typography .markup table.image-wrapper img,
+  .typography.editor .markup table.image-wrapper img,
+  .typography .markup table.kindle-wrapper img,
+  .typography.editor .markup table.kindle-wrapper img {
+    max-width: 550px;
+  }
+}
+
+
+@media screen and (max-width: 650px) {
+  .typography .markup div.youtube-overlay,
+  .typography.editor .markup div.youtube-overlay,
+  .typography .markup div.vimeo-overlay,
+  .typography.editor .markup div.vimeo-overlay {
+    display: none !important;
+  }
+}
+
+
+@media screen and (max-width: 370px) {
+  .typography .markup div.tiktok-wrap,
+  .typography.editor .markup div.tiktok-wrap {
+    width: calc(95vw - 32px);
+    height: calc((95vw - 32px - 2px) / 0.485714);
+  }
+}
+
+
+@media screen and (max-width: 650px) {
+  .typography .markup div.embedded-publication-wrap .embedded-publication.show-subscribe,
+  .typography.editor .markup div.embedded-publication-wrap .embedded-publication.show-subscribe {
+    padding: 24px;
+  }
+}
+
+
+@media screen and (max-width: 650px) {
+  .typography .markup div.subscription-widget-wrap .subscription-widget.show-subscribe,
+  .typography.editor .markup div.subscription-widget-wrap .subscription-widget.show-subscribe,
+  .typography .markup div.subscription-widget-wrap-editor .subscription-widget.show-subscribe,
+  .typography.editor .markup div.subscription-widget-wrap-editor .subscription-widget.show-subscribe,
+  .typography .markup div.captioned-button-wrap .subscription-widget.show-subscribe,
+  .typography.editor .markup div.captioned-button-wrap .subscription-widget.show-subscribe {
+    padding: 0px 24px;
+  }
+}
+
+
+@media screen and (max-width: 650px) {
+  .typography .markup div.subscription-widget-wrap .subscription-widget.show-subscribe .subscription-widget-subscribe .button,
+  .typography.editor .markup div.subscription-widget-wrap .subscription-widget.show-subscribe .subscription-widget-subscribe .button,
+  .typography .markup div.subscription-widget-wrap-editor .subscription-widget.show-subscribe .subscription-widget-subscribe .button,
+  .typography.editor .markup div.subscription-widget-wrap-editor .subscription-widget.show-subscribe .subscription-widget-subscribe .button,
+  .typography .markup div.captioned-button-wrap .subscription-widget.show-subscribe .subscription-widget-subscribe .button,
+  .typography.editor .markup div.captioned-button-wrap .subscription-widget.show-subscribe .subscription-widget-subscribe .button {
+    padding: 10px 12px;
+    min-width: 110px;
+  }
+}
+
+
+@media (max-width: 650px) {
+  .typography .markup .tweet,
+  .typography.editor .markup .tweet {
+    padding: 12px;
+  }
+}
+
+
+@media (max-width: 650px) {
+  .typography .markup .tweet .tweet-text,
+  .typography.editor .markup .tweet .tweet-text {
+    font-size: 14px;
+    line-height: 20px;
+  }
+}
+
+
+@media (max-width: 650px) {
+  .typography .markup .tweet .tweet-photos-container.two,
+  .typography.editor .markup .tweet .tweet-photos-container.two,
+  .typography .markup .tweet .tweet-photos-container.three,
+  .typography.editor .markup .tweet .tweet-photos-container.three,
+  .typography .markup .tweet .tweet-photos-container.four,
+  .typography.editor .markup .tweet .tweet-photos-container.four {
+    height: 200px;
+  }
+}
+
+
+@media (max-width: 650px) {
+  .typography .markup .tweet a.expanded-link .expanded-link-img,
+  .typography.editor .markup .tweet a.expanded-link .expanded-link-img {
+    max-height: 180px;
+  }
+}
+
+
+@media (max-width: 650px) {
+  .typography .markup .tweet a.expanded-link .expanded-link-description,
+  .typography.editor .markup .tweet a.expanded-link .expanded-link-description {
+    display: none;
+  }
+}
+
+
+@media screen and (max-width: 650px) {
+  .typography .markup .apple-podcast-container,
+  .typography.editor .markup .apple-podcast-container {
+    width: unset;
+  }
+}
+
+
+@media (max-width: 420px) {
+  .typography .markup .install-substack-app-embed img.install-substack-app-embed-img,
+  .typography.editor .markup .install-substack-app-embed img.install-substack-app-embed-img {
+    margin: 0 auto 16px auto;
+  }
+}
+
+
+@media (max-width: 420px) {
+  .typography .markup .install-substack-app-embed .install-substack-app-embed-text,
+  .typography.editor .markup .install-substack-app-embed .install-substack-app-embed-text {
+    margin: 0 0 12px 0;
+    max-width: 100%;
+    width: auto;
+    text-align: center;
+  }
+}
+
+
+@media (max-width: 420px) {
+  .typography .markup .install-substack-app-embed .install-substack-app-embed-link,
+  .typography.editor .markup .install-substack-app-embed .install-substack-app-embed-link {
+    display: flex;
+    justify-content: center;
+  }
+}
+
+
+@media screen and (min-width: 481px) {
+  .share-button-container {
+    height: 38px;
+  }
+}
+
+
+@media screen and (min-width: 481px) {
+  .share-button-container a.comment {
+    height: 38px;
+    line-height: 38px;
+    padding-right: 10px;
+  }
+}
+
+
+@media screen and (max-width: 480px) {
+  .share-button-container .separator {
+    display: block;
+    margin: 0;
+    height: 8px;
+    border-left: none;
+  }
+}
+
+
+@media screen and (max-width: 480px) {
+  .share-button-container a.share.first img {
+    padding-left: 0;
+  }
+}
+
+
+@media screen and (min-width: 481px) {
+  .share-button-container a.mobile {
+    display: none !important;
+  }
+}
+
+
+@media screen and (min-width: 541px) {
+  .settings-add-pub-modal-wrapper .container .add-recommending-pub-modal-container {
+    padding: 36px;
+    height: 680px;
+  }
+}
+
+
+@media screen and (min-width: 541px) {
+  .settings-add-pub-modal-wrapper .container .add-recommending-pub-modal-container .footer {
+    position: absolute;
+    bottom: 36px;
+    margin: 0px;
+  }
+}
+
+
+@media screen and (max-width: 650px) {
+  .header-anchor-parent {
+    display: none;
+  }
+}
+
+
+@media screen and (min-width: 768px) {
+  .post {
+    padding: 32px 0 0 0;
+  }
+}
+
+
+@media screen and (max-width: 650px) {
+  .post .post-header .post-label {
+    margin-top: 8px;
+  }
+}
+
+
+@media screen and (max-width: 650px) {
+  .post .post-header .meta-author-wrap.alternative-meta .meta-right-column .post-meta {
+    margin-top: 6px;
+  }
+}
+
+
+@media screen and (max-width: 650px) {
+  .post .footer-facepile-container {
+    height: 64px;
+    padding: 0 16px;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    width: 100%;
+  }
+}
+
+
+@media screen and (max-width: 650px) {
+  .post .post-footer.use-separators {
+    justify-content: center;
+  }
+}
+
+
+@media screen and (max-width: 650px) {
+  .post .post-footer.next-prev {
+    height: 64px;
+    justify-content: space-between;
+    box-sizing: border-box;
+  }
+}
+
+
+@media screen and (max-width: 650px) {
+  .post-contributor-footer .post-contributor-bio-table {
+    display: block;
+  }
+  .post-contributor-footer .post-contributor-bio-table-row {
+    display: flex;
+    flex-direction: row;
+  }
+  .post-contributor-footer .post-contributor-bio-userhead-cell,
+  .post-contributor-footer .post-contributor-bio-body-cell {
+    display: block;
+  }
+  .post-contributor-footer .post-contributor-bio-body-cell {
+    flex-grow: 1;
+  }
+  .post-contributor-footer .post-contributor-bio-body-table {
+    display: block;
+  }
+  .post-contributor-footer .post-contributor-bio-body-table-row {
+    display: block;
+  }
+  .post-contributor-footer .post-contributor-bio-copy-cell,
+  .post-contributor-footer .post-contributor-bio-controls-cell {
+    display: block;
+  }
+  .post-contributor-footer .post-contributor-bio-copy-cell {
+    margin: 0 0 16px 0;
+  }
+  .post-contributor-footer .post-contributor-bio-controls-cell {
+    width: auto;
+  }
+  .post-contributor-footer .post-contributor-bio-controls {
+    margin: auto;
+  }
+  .post-contributor-footer .post-contributor-bio-controls .button.primary {
+    width: 100%;
+  }
+  .post-contributor-footer .post-contributor-bio-text {
+    font-size: 14px;
+  }
+}
+
+
+@media screen and (min-width: 768px) {
+  .post-silhouette {
+    padding: 32px 0;
+  }
+}
+
+
+@media screen and (max-width: 650px) {
+  .post-silhouette .post-silhouette-title {
+    margin-top: 10.44225025px;
+    height: 120px;
+  }
+}
+
+
+@media screen and (max-width: 650px) {
+  .post-silhouette .post-silhouette-meta {
+    width: 75%;
+  }
+}
+
+
+@media screen and (max-width: 650px) {
+  .post-silhouette .post-silhouette-meta.with-byline-image {
+    margin: 20px 0;
+  }
+}
+
+
+@media screen and (max-width: 650px) {
+  .use-theme-bg .post-meta.alternative-meta .post-meta-item,
+  .post-meta.alternative-meta .post-meta-item {
+    padding-right: 16px;
+  }
+}
+
+
+@media screen and (max-width: 370px) {
+  .use-theme-bg .post-meta.alternative-meta .post-meta-item,
+  .post-meta.alternative-meta .post-meta-item {
+    font-size: 14px;
+  }
+}
+
+
+@media screen and (max-width: 650px) {
+  .use-theme-bg .post-meta.alternative-meta .post-meta-item.guest-author-publication,
+  .post-meta.alternative-meta .post-meta-item.guest-author-publication {
+    display: none;
+  }
+}
+
+
+@media screen and (max-width: 370px) {
+  .post-meta .post-meta-item .post-meta-button {
+    height: 36px !important;
+  }
+  .post-meta .post-meta-item .post-meta-button .meta-button-label {
+    display: none;
+  }
+  .post-meta .post-meta-item .post-meta-button > svg {
+    margin-right: 0;
+  }
+}
+
+
+@media screen and (max-width: 370px) {
+  .post-meta .post-meta-item {
+    font-size: 12px;
+  }
+}
+
+
+@media screen and (max-width: 650px) {
+  .post .floating-subscribe-button {
+    bottom: 20px;
+    right: 20px;
+  }
+}
+
+
+@media all and (-ms-high-contrast: none), (-ms-high-contrast: active) {
+  body .markup table.image-wrapper img,
+  body .markup table.kindle-wrapper img {
+    max-width: 550px;
+  }
+}
+
+
+@media screen and (max-width: 650px) {
+  body .markup div.youtube-overlay,
+  body .markup div.vimeo-overlay {
+    display: none !important;
+  }
+}
+
+
+@media screen and (max-width: 370px) {
+  body .markup div.tiktok-wrap {
+    width: calc(95vw - 32px);
+    height: calc((95vw - 32px - 2px) / 0.485714);
+  }
+}
+
+
+@media screen and (max-width: 650px) {
+  body .markup div.embedded-publication-wrap .embedded-publication.show-subscribe {
+    padding: 24px;
+  }
+}
+
+
+@media screen and (max-width: 650px) {
+  body .markup div.subscription-widget-wrap .subscription-widget.show-subscribe,
+  body .markup div.subscription-widget-wrap-editor .subscription-widget.show-subscribe,
+  body .markup div.captioned-button-wrap .subscription-widget.show-subscribe {
+    padding: 0px 24px;
+  }
+}
+
+
+@media screen and (max-width: 650px) {
+  body .markup div.subscription-widget-wrap .subscription-widget.show-subscribe .subscription-widget-subscribe .button,
+  body .markup div.subscription-widget-wrap-editor .subscription-widget.show-subscribe .subscription-widget-subscribe .button,
+  body .markup div.captioned-button-wrap .subscription-widget.show-subscribe .subscription-widget-subscribe .button {
+    padding: 10px 12px;
+    min-width: 110px;
+  }
+}
+
+
+@media (max-width: 650px) {
+  body .markup .tweet {
+    padding: 12px;
+  }
+}
+
+
+@media (max-width: 650px) {
+  body .markup .tweet .tweet-text {
+    font-size: 14px;
+    line-height: 20px;
+  }
+}
+
+
+@media (max-width: 650px) {
+  body .markup .tweet .tweet-photos-container.two,
+  body .markup .tweet .tweet-photos-container.three,
+  body .markup .tweet .tweet-photos-container.four {
+    height: 200px;
+  }
+}
+
+
+@media (max-width: 650px) {
+  body .markup .tweet a.expanded-link .expanded-link-img {
+    max-height: 180px;
+  }
+}
+
+
+@media (max-width: 650px) {
+  body .markup .tweet a.expanded-link .expanded-link-description {
+    display: none;
+  }
+}
+
+
+@media screen and (max-width: 650px) {
+  body .markup .apple-podcast-container {
+    width: unset;
+  }
+}
+
+
+@media (max-width: 420px) {
+  body .markup .install-substack-app-embed img.install-substack-app-embed-img {
+    margin: 0 auto 16px auto;
+  }
+}
+
+
+@media (max-width: 420px) {
+  body .markup .install-substack-app-embed .install-substack-app-embed-text {
+    margin: 0 0 12px 0;
+    max-width: 100%;
+    width: auto;
+    text-align: center;
+  }
+}
+
+
+@media (max-width: 420px) {
+  body .markup .install-substack-app-embed .install-substack-app-embed-link {
+    display: flex;
+    justify-content: center;
+  }
+}
+
+
+@media screen and (min-width: 500px) {
+  body .header a.logo {
+    width: 42px;
+    height: 42px;
+    border-radius: 12px;
+  }
+}
+
+
+@media screen and (max-width: 420px) {
+  body .subscription-receipt table:first-of-type .subscription-amount .subscription-discount {
+    width: 72px !important;
+  }
+}
+
+
+@media screen and (min-width: 481px) {
+  body .share-button-container {
+    height: auto;
+  }
+}
+
+
+@media screen and (max-width: 480px) {
+  body .share-button-container .separator {
+    display: block !important;
+    margin: 0 !important;
+    height: 8px !important;
+    border-left: none !important;
+  }
+}
+
+
+@media screen and (max-width: 650px) {
+  .digest .item .post-meta-item.audience {
+    display: none;
+  }
+}
+
+
+@media screen and (min-width: 500px) {
+  .digest-publication .logo img {
+    width: 42px;
+    height: 42px;
+    border-radius: 8px;
+  }
+}
+
+
+@media screen and (max-width: 650px) {
+  .comments-page .container .comment-list .collapsed-reply {
+    margin-left: calc(10 + 32px - 24px);
+  }
+}
+
+
+@media screen and (max-width: 650px) {
+  .comment > .comment-list {
+    padding-left: 24px;
+  }
+}
+
+
+@media screen and (max-width: 650px) {
+  .finish-magic-login-modal .modal-content .container {
+    padding: 24px 0;
+  }
+}
+
+
+@media (max-width: 650px) {
+  .reader2-text-b3 {
+    line-height: 24px;
+  }
+}
+
+
+@media screen and (max-width: 650px) {
+  .reader2-text-h4 {
+    line-height: 24px;
+  }
+}
+
+
+@media screen and (min-width: 541px) {
+  .user-profile-modal {
+    padding-left: 12px;
+    padding-right: 12px;
+  }
+}
+
+
+@media screen and (max-width: 650px) {
+  .subscribe-widget form.form .sideBySideWrap button.rightButton {
+    padding: 10px 12px;
+  }
+}
+
+
+@media screen and (min-width: 541px) {
+  .pub-icon:hover .logo-hover,
+  .feed-item-icon:hover .logo-hover {
+    display: block;
+  }
+}
+
+
+@media screen and (max-width: 650px) {
+  .post-ufi.single-full-width-button .post-ufi-button-wrapper {
+    width: 100%;
+    padding: 16px;
+  }
+  .post-ufi.single-full-width-button .post-ufi-button-wrapper:empty {
+    display: none;
+  }
+  .post-ufi.single-full-width-button .post-ufi-button {
+    width: 100%;
+    justify-content: center;
+  }
+}
+
+
+@media screen and (max-width: 768px) {
+  .file-embed-wrapper {
+    padding: 0;
+  }
+}
+
+
+@media screen and (max-width: 768px) {
+  .file-embed-wrapper-editor {
+    padding: 0;
+  }
+}
+
+
+@media screen and (max-width: 768px) {
+  .file-embed-wrapper-editor:active {
+    padding: 0;
+  }
+}
+
+
+@media only screen and (max-width: 650px) {
+  .file-embed-button.wide,
+  .file-embed-error-button.wide {
+    display: none;
+  }
+}
+
+
+@media only screen and (min-width: 630px) {
+  .file-embed-button.narrow,
+  .file-embed-error-button.narrow {
+    display: none;
+  }
+}
+
+
+@media screen and (min-width: 541px) {
+  .audio-player-wrapper .audio-player {
+    min-width: 500px;
+  }
+}
+
+
+@media screen and (max-width: 650px) {
+  .audio-player-wrapper .audio-player .audio-player-progress {
+    border-left-width: 16px;
+    border-right-width: 16px;
+  }
+}
+
+
+@media screen and (max-width: 650px) {
+  .audio-player-wrapper .audio-player .audio-player-progress .audio-player-progress-bar .audio-player-progress-bar-popup {
+    top: -54px;
+  }
+}
+
+
+@media screen and (max-width: 650px) {
+  .audio-player-wrapper-fancy .audio-player .audio-player-progress {
+    border-left-width: 16px;
+    border-right-width: 16px;
+  }
+}
+
+
+@media screen and (max-width: 650px) {
+  .audio-player-wrapper-fancy .audio-player .audio-player-progress .audio-player-progress-bar .audio-player-progress-bar-popup {
+    top: -54px;
+  }
+}
+
+
+@media (min-width: 250px) {
+  .audio-player-wrapper-fancy .audio-player {
+    padding: 32px;
+  }
+  .audio-player-wrapper-fancy .audio-player .btn-group {
+    display: flex;
+  }
+  .audio-player-wrapper-fancy .audio-player .btn-group .button:last-of-type {
+    display: block;
+  }
+}
+
+
+@media (min-width: 300px) {
+  .audio-player-wrapper-fancy .audio-player .btn-group {
+    display: block;
+  }
+  .audio-player-wrapper-fancy .audio-player .btn-group .button:first-of-type {
+    display: block;
+  }
+}
+
+
+@media (min-width: 350px) {
+  .audio-player-wrapper-fancy .audio-player .audio-player-substack-logo {
+    display: block;
+  }
+  .audio-player-wrapper-fancy .audio-player .audio-player-title {
+    margin-top: 16px;
+  }
+  .audio-player-wrapper-fancy .audio-player .audio-player-hero-image-container {
+    padding-top: 15%;
+    width: 15%;
+    display: block;
+  }
+  .audio-player-wrapper-fancy .audio-player .btn-group .button:first-of-type {
+    display: block;
+  }
+  .audio-player-wrapper-fancy .audio-player .audio-player-substack-logo {
+    display: block;
+  }
+}
+
+
+@media (min-width: 350px) {
+  .audio-player-wrapper-fancy .audio-player .audio-player-hero-image-container {
+    padding-top: 25%;
+    width: 25%;
+    display: block;
+  }
+  .audio-player-wrapper-fancy .audio-player .btn-group {
+    display: flex;
+  }
+  .audio-player-wrapper-fancy .audio-player .btn-group .button:first-of-type {
+    display: block;
+  }
+}
+
+
+@media (min-width: 400px) {
+  .audio-player-wrapper-fancy .audio-player .audio-player-hero-image-container {
+    padding-top: 40%;
+    width: 40%;
+  }
+}
+
+
+@media (max-width: 400px) {
+  .audio-player-wrapper-fancy .audio-player .btn-group {
+    margin-top: 12px;
+  }
+  .audio-player-wrapper-fancy .audio-player .btn-group .button {
+    font-size: 13px;
+    padding: 6px 12px;
+    height: auto;
+    margin-top: 10px;
+  }
+}
+
+
+@media (min-width: 600px) {
+  .audio-player-wrapper-fancy .audio-player .audio-player-hero-image-container {
+    padding-top: 55%;
+    width: 55%;
+  }
+}
+
+
+@media (max-width: 650px) {
+  .poll-editor-modal {
+    min-width: calc(100% - 20px);
+  }
+}
+
+
+@media (max-width: 750px) {
+  .poll-embed .poll-anchor-target .poll-anchor-copy-button {
+    left: 8px;
+    top: 45px;
+  }
+}
+
+
+@media screen and (min-width: 541px) {
+  .poll-embed .poll-wrapper.poll-web .poll-dialog .modal-table .modal-row .modal-content > .container {
+    width: 552px;
+    padding: 26px 24px;
+  }
+}
+
+
+@media screen and (max-width: 650px) {
+  .poll-embed .poll-wrapper.poll-web .poll-dialog .modal-table .modal-row .modal-content > .container {
+    padding: 40px 0;
+  }
+}
+
+
+@media screen and (max-width: 650px) {
+  .poll-embed .poll-wrapper.poll-web .poll-dialog .modal-row .modal-cell .modal-exit-btn {
+    margin-right: -20px;
+  }
+}
+</style></head><body class="email-body" style="font-kerning: auto;"><img src="https://eotrx.substackcdn.com/open?token=eyJtIjoiPDIwMjQxMTEyMTY1OTA0LjMuMjIxODRmOTdlZDFkMTg5ZEBtZy1kMS5zdWJzdGFjay5jb20-IiwidSI6MTQ1NjMzMTksInIiOiJpc2hhbi5tYWlsQGdtYWlsLmNvbSIsImQiOiJtZy1kMS5zdWJzdGFjay5jb20iLCJwIjoxNTE1NjAyNzcsInQiOiJuZXdzbGV0dGVyIiwiYSI6Im9ubHlfcGFpZCIsInMiOjQ1ODcwOSwiYyI6InBvc3QiLCJmIjp0cnVlLCJwb3NpdGlvbiI6InRvcCIsImlhdCI6MTczMTQzMDc4OSwiZXhwIjoxNzM0MDIyNzg5LCJpc3MiOiJwdWItMCIsInN1YiI6ImVvIn0.qnTlDx2yyoiiQgdqVh7_yCf-CXyT23r2KEgFBWsNu-k" alt="" width="1" height="1" border="0" style="height:1px !important;width:1px !important;border-width:0 !important;margin-top:0 !important;margin-bottom:0 !important;margin-right:0 !important;margin-left:0 !important;padding-top:0 !important;padding-bottom:0 !important;padding-right:0 !important;padding-left:0 !important;"/><div style="display:none;font-size:1px;color:#333333;line-height:1px;max-height:0px;max-width:0px;opacity:0;overflow:hidden;" class="preview">A brief history of debugging, why debugging large systems is different, and how the &#8220;multiverse debugger&#8221; built by Antithesis attempts to take on this challenging problem space</div><div style="display:none;font-size:1px;color:#333333;line-height:1px;max-height:0px;max-width:0px;opacity:0;overflow:hidden;" class="preview">&#847; &nbsp; &#8199; &shy;&#847; &nbsp; &#8199; &shy;&#847; &nbsp; &#8199; &shy;&#847; &nbsp; &#8199; &shy;&#847; &nbsp; &#8199; &shy;&#847; &nbsp; &#8199; &shy;&#847; &nbsp; &#8199; &shy;&#847; &nbsp; &#8199; &shy;&#847; &nbsp; &#8199; &shy;&#847; &nbsp; &#8199; &shy;&#847; &nbsp; &#8199; &shy;&#847; &nbsp; &#8199; &shy;&#847; &nbsp; &#8199; &shy;&#847; &nbsp; &#8199; &shy;&#847; &nbsp; &#8199; &shy;&#847; &nbsp; &#8199; &shy;&#847; &nbsp; &#8199; &shy;&#847; &nbsp; &#8199; &shy;&#847; &nbsp; &#8199; &shy;&#847; &nbsp; &#8199; &shy;&#847; &nbsp; &#8199; &shy;&#847; &nbsp; &#8199; &shy;&#847; &nbsp; &#8199; &shy;&#847; &nbsp; &#8199; &shy;&#847; &nbsp; &#8199; &shy;&#847; &nbsp; &#8199; &shy;&#847; &nbsp; &#8199; &shy;&#847; &nbsp; &#8199; &shy;&#847; &nbsp; &#8199; &shy;&#847; &nbsp; &#8199; &shy;&#847; &nbsp; &#8199; &shy;&#847; &nbsp; &#8199; &shy;&#847; &nbsp; &#8199; &shy;&#847; &nbsp; &#8199; &shy;&#847; &nbsp; &#8199; &shy;&#847; &nbsp; &#8199; &shy;&#847; &nbsp; &#8199; &shy;&#847; &nbsp; &#8199; &shy;&#847; &nbsp; &#8199; &shy;&#847; &nbsp; &#8199; &shy;&#847; &nbsp; &#8199; &shy;&#847; &nbsp; &#8199; &shy;&#847; &nbsp; &#8199; &shy;&#847; &nbsp; &#8199; &shy;&#847; &nbsp; &#8199; &shy;&#847; &nbsp; &#8199; &shy;&#847; &nbsp; &#8199; &shy;&#847; &nbsp; &#8199; &shy;&#847; &nbsp; &#8199; &shy;&#847; &nbsp; &#8199; &shy;&#847; &nbsp; &#8199; &shy;&#847; &nbsp; &#8199; &shy;&#847; &nbsp; &#8199; &shy;&#847; &nbsp; &#8199; &shy;&#847; &nbsp; &#8199; &shy;&#847; &nbsp; &#8199; &shy;&#847; &nbsp; &#8199; &shy;&#847; &nbsp; &#8199; &shy;&#847; &nbsp; &#8199; &shy;&#847; &nbsp; &#8199; &shy;&#847; &nbsp; &#8199; &shy;&#847; &nbsp; &#8199; &shy;&#847; &nbsp; &#8199; &shy;&#847; &nbsp; &#8199; &shy;&#847; &nbsp; &#8199; &shy;&#847; &nbsp; &#8199; &shy;&#847; &nbsp; &#8199; &shy;&#847; &nbsp; &#8199; &shy;&#847; &nbsp; &#8199; &shy;&#847; &nbsp; &#8199; &shy;&#847; &nbsp; &#8199; &shy;&#847; &nbsp; &#8199; &shy;&#847; &nbsp; &#8199; &shy;&#847; &nbsp; &#8199; &shy;&#847; &nbsp; &#8199; &shy;&#847; &nbsp; &#8199; &shy;&#847; &nbsp; &#8199; &shy;&#847; &nbsp; &#8199; &shy;&#847; &nbsp; &#8199; &shy;&#847; &nbsp; &#8199; &shy;&#847; &nbsp; &#8199; &shy;&#847; &nbsp; &#8199; &shy;&#847; &nbsp; &#8199; &shy;&#847; &nbsp; &#8199; &shy;&#847; &nbsp; &#8199; &shy;&#847; &nbsp; &#8199; &shy;&#847; &nbsp; &#8199; &shy;&#847; &nbsp; &#8199; &shy;&#847; &nbsp; &#8199; &shy;&#847; &nbsp; &#8199; &shy;&#847; &nbsp; &#8199; &shy;&#847; &nbsp; &#8199; &shy;&#847; &nbsp; &#8199; &shy;&#847; &nbsp; &#8199; &shy;&#847; &nbsp; &#8199; &shy;&#847; &nbsp; &#8199; &shy;&#847; &nbsp; &#8199; &shy;&#847; &nbsp; &#8199; &shy;&#847; &nbsp; &#8199; &shy;&#847; &nbsp; &#8199; &shy;&#847; &nbsp; &#8199; &shy;&#847; &nbsp; &#8199; &shy;&#847; &nbsp; &#8199; &shy;&#847; &nbsp; &#8199; &shy;&#847; &nbsp; &#8199; &shy;&#847; &nbsp; &#8199; &shy;&#847; &nbsp; &#8199; &shy;&#847; &nbsp; &#8199; &shy;&#847; &nbsp; &#8199; &shy;&#847; &nbsp; &#8199; &shy;&#847; &nbsp; &#8199; &shy;&#847; &nbsp; &#8199; &shy;&#847; &nbsp; &#8199; &shy;&#847; &nbsp; &#8199; &shy;&#847; &nbsp; &#8199; &shy;&#847; &nbsp; &#8199; &shy;&#847; &nbsp; &#8199; &shy;&#847; &nbsp; &#8199; &shy;&#847; &nbsp; &#8199; &shy;&#847; &nbsp; &#8199; &shy;&#847; &nbsp; &#8199; &shy;&#847; &nbsp; &#8199; &shy;&#847; &nbsp; &#8199; &shy;&#847; &nbsp; &#8199; &shy;&#847; &nbsp; &#8199; &shy;&#847; &nbsp; &#8199; &shy;&#847; &nbsp; &#8199; &shy;&#847; &nbsp; &#8199; &shy;&#847; &nbsp; &#8199; &shy;&#847; &nbsp; &#8199; &shy;&#847; &nbsp; &#8199; &shy;&#847; &nbsp; &#8199; &shy;&#847; &nbsp; &#8199; &shy;&#847; &nbsp; &#8199; &shy;&#847; &nbsp; &#8199; &shy;&#847; &nbsp; &#8199; &shy;&#847; &nbsp; &#8199; &shy;&#847; &nbsp; &#8199; &shy;&#847; &nbsp; &#8199; &shy;&#847; &nbsp; &#8199; &shy;&#847; &nbsp; &#8199; &shy;&#847; &nbsp; &#8199; &shy;&#847; &nbsp; &#8199; &shy;&#847; &nbsp; &#8199; &shy;&#847; &nbsp; &#8199; &shy;&#847; &nbsp; &#8199; &shy;&#847; &nbsp; &#8199; &shy;&#847; &nbsp; &#8199; &shy;&#847; &nbsp; &#8199; &shy;&#847; &nbsp; &#8199; &shy;&#847; &nbsp; &#8199; &shy;&#847; &nbsp; &#8199; &shy;&#847; &nbsp; &#8199; &shy;&#847; &nbsp; &#8199; &shy;&#847; &nbsp; &#8199; &shy;&#847; &nbsp; &#8199; &shy;&#847; &nbsp; &#8199; &shy;&#847; &nbsp; &#8199; &shy;&#847; &nbsp; &#8199; &shy;&#847; &nbsp; &#8199; &shy;&#847; &nbsp; &#8199; &shy;&#847; &nbsp; &#8199; &shy;&#847; &nbsp; &#8199; &shy;&#847; &nbsp; &#8199; &shy;&#847; &nbsp; &#8199; &shy;&#847; &nbsp; &#8199; &shy;&#847; &nbsp; &#8199; &shy;&#847; &nbsp; &#8199; &shy;&#847; &nbsp; &#8199; &shy;&#847; &nbsp; &#8199; &shy;&#847; &nbsp; &#8199; &shy;&#847; &nbsp; &#8199; &shy;&#847; &nbsp; &#8199; &shy;&#847; &nbsp; &#8199; &shy;&#847; &nbsp; &#8199; &shy;&#847; &nbsp; &#8199; &shy;&#847; &nbsp; &#8199; &shy;&#847; &nbsp; &#8199; &shy;&#847; &nbsp; &#8199; &shy;&#847; &nbsp; &#8199; &shy;&#847; &nbsp; &#8199; &shy;&#847; &nbsp; &#8199; &shy;&#847; &nbsp; &#8199; &shy;&#847; &nbsp; &#8199; &shy;&#847; &nbsp; &#8199; &shy;&#847; &nbsp; &#8199; &shy;&#847; &nbsp; &#8199; &shy;&#847; &nbsp; &#8199; &shy;&#847; &nbsp; &#8199; &shy;&#847; &nbsp; &#8199; &shy;&#847; &nbsp; &#8199; &shy;&#847; &nbsp; &#8199; &shy;&#847; &nbsp; &#8199; &shy;&#847; &nbsp; &#8199; &shy;&#847; &nbsp; &#8199; &shy;&#847; &nbsp; &#8199; &shy;&#847; &nbsp; &#8199; &shy;&#847; &nbsp; &#8199; &shy;&#847; &nbsp; &#8199; &shy;&#847; &nbsp; &#8199; &shy;</div><table role="presentation" width="100%" border="0" cellspacing="0" cellpadding="0" class="email-body-container"><tr><td></td><td width="550" class="content"></td><td></td></tr><tr><td></td><td width="550" align="left" class="content"><div style="font-size: 16px; line-height: 26px; margin: 0 auto; max-width: 550px; overflow-wrap: break-word; width: 100%;"><table role="presentation" width="100%" border="0" cellspacing="0" cellpadding="0"><tr><td align="right" style="height:20px;"><table role="presentation" width="auto" border="0" cellspacing="0" cellpadding="0"><tr><td style="vertical-align:middle;"><span class="pencraft pc-reset _reset_q8zsn_1 tw-font-body tw-text-ssm tw-text-substack-secondary" style="color: rgb(119, 119, 119) !important; font-family: SF Pro Text, -apple-system, system-ui, BlinkMacSystemFont, Inter, Segoe UI, Roboto, Helvetica, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol !important; font-size: 13px !important; list-style: none; margin: 0; text-decoration: unset;"><div class="pencraft pc-reset _align-right_q8zsn_16 _size-12_q8zsn_35 _reset_q8zsn_1" style="color: unset; font-size: 12px; line-height: 16px; list-style: none; margin: 0; text-align: right; text-decoration: unset;"><span translated class="pencraft pc-reset _reset_q8zsn_1" style="color: unset; list-style: none; margin: 0; text-decoration: unset;">Forwarded this email? <a href="https://substack.com/redirect/2/eyJlIjoiaHR0cHM6Ly9uZXdzbGV0dGVyLnByYWdtYXRpY2VuZ2luZWVyLmNvbS9zdWJzY3JpYmU_dXRtX3NvdXJjZT1lbWFpbCZ1dG1fY2FtcGFpZ249ZW1haWwtc3Vic2NyaWJlJnI9OG81NG4mbmV4dD1odHRwcyUzQSUyRiUyRm5ld3NsZXR0ZXIucHJhZ21hdGljZW5naW5lZXIuY29tJTJGcCUyRmFudGl0aGVzaXMiLCJwIjoxNTE1NjAyNzcsInMiOjQ1ODcwOSwiZiI6dHJ1ZSwidSI6MTQ1NjMzMTksImlhdCI6MTczMTQzMDc4OSwiZXhwIjoxNzM0MDIyNzg5LCJpc3MiOiJwdWItMCIsInN1YiI6ImxpbmstcmVkaXJlY3QifQ.EGCol8mtGcUTEEwOble8ptKZdjaq9ff1l8bkEkw4iiM?" class="pencraft pc-reset _decoration-underline_q8zsn_277 _reset_q8zsn_1" style="-webkit-text-decoration-line: underline; color: unset; list-style: none; margin: 0; text-decoration: unset; text-decoration-line: underline;">Subscribe here</a> for more</span></div></span></td></tr></table></td></tr></table><table role="presentation" width="auto" class="header graphic-header" style="border-spacing: 0; padding: 16px 0 32px;"><tr><td align="center" style="padding: 0; text-align: center;"><a href="https://substack.com/redirect/2/eyJlIjoiaHR0cHM6Ly9uZXdzbGV0dGVyLnByYWdtYXRpY2VuZ2luZWVyLmNvbS9wL2FudGl0aGVzaXM_dXRtX2NhbXBhaWduPWVtYWlsLWhhbGYtcG9zdCZyPThvNTRuJnRva2VuPWV5SjFjMlZ5WDJsa0lqb3hORFUyTXpNeE9Td2ljRzl6ZEY5cFpDSTZNVFV4TlRZd01qYzNMQ0pwWVhRaU9qRTNNekUwTXpBM09Ea3NJbVY0Y0NJNk1UY3pOREF5TWpjNE9Td2lhWE56SWpvaWNIVmlMVFExT0Rjd09TSXNJbk4xWWlJNkluQnZjM1F0Y21WaFkzUnBiMjRpZlEuQmpNRERYaU5ueFVfUHVwX0JIMVAzVmdJOWZSeGx2Wm1oTVdkUTRocDd4YyIsInAiOjE1MTU2MDI3NywicyI6NDU4NzA5LCJmIjp0cnVlLCJ1IjoxNDU2MzMxOSwiaWF0IjoxNzMxNDMwNzg5LCJleHAiOjE3MzQwMjI3ODksImlzcyI6InB1Yi0wIiwic3ViIjoibGluay1yZWRpcmVjdCJ9.4g_36nHPmNqc_TKaBHRfYOxrSV5zjRBG6j84bIveBxg?"><img role="presentation" width="550" height="110" src="https://substackcdn.com/image/fetch/w_1100,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3f6c431d-310a-45a0-90fe-3dc43354ef38_1100x220.png" class="header-image" style="border: none !important; display: block; height: auto; margin: 0 auto; max-width: 550px; vertical-align: middle; width: 100%;"></a></td></tr></table><div class="typography" style="font-size: 16px; line-height: 26px;"><div class="preamble" style="font-size: 16px; line-height: 26px; margin-top: 16px;"><div dir="auto" class="body markup" style="font-size: 16px; line-height: 26px; margin-bottom: 16px; text-align: initial; width: 100%; word-break: break-word;"><p style="color: rgb(54, 55, 55); font-size: 16px; line-height: 26px; margin: 0 0 20px 0; margin-bottom: 0; margin-top: 0;"><em><span>&#128075; Hi, this is Gergely with a subscriber-only issue of the Pragmatic Engineer Newsletter. In every issue, I cover challenges at Big Tech and startups through the lens of engineering managers and senior engineers. If you&#8217;ve been forwarded this email, you can </span><a href="https://substack.com/redirect/81fd8988-bdc6-4998-8205-8199b666299a?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel style="color: rgb(54, 55, 55); text-decoration: underline;">subscribe here</a><span>.</span></em></p></div><hr style="background: #e6e6e6; border: none; height: 1px; margin: 16px 0 0; padding: 0;"></div></div><div dir="auto" class="post typography" style="font-size: 16px; line-height: 26px; padding: 16px 0 0 0;"><div class="post-header" style="font-size: 16px; line-height: 26px;"><h1 class="post-title published" style="-moz-appearance: optimizelegibility; -moz-osx-font-smoothing: antialiased; -webkit-appearance: optimizelegibility; -webkit-font-smoothing: antialiased; appearance: optimizelegibility; color: rgb(54, 55, 55); font-family: Lora,sans-serif; font-size: 32px; font-weight: 600; line-height: 36px; margin: 0;"><a href="https://substack.com/app-link/post?publication_id=458709&post_id=151560277&utm_source=post-email-title&utm_campaign=email-post-title&isFreemail=true&r=8o54n&token=eyJ1c2VyX2lkIjoxNDU2MzMxOSwicG9zdF9pZCI6MTUxNTYwMjc3LCJpYXQiOjE3MzE0MzA3ODksImV4cCI6MTczNDAyMjc4OSwiaXNzIjoicHViLTQ1ODcwOSIsInN1YiI6InBvc3QtcmVhY3Rpb24ifQ.BjMDDXiNnxU_Pup_BH1P3VgI9fRxlvZmhMWdQ4hp7xc" style="color: rgb(54, 55, 55); text-decoration: none;">How to debug large, distributed systems: Antithesis</a></h1><h3 class="subtitle" style="-moz-appearance: optimizelegibility; -moz-osx-font-smoothing: antialiased; -webkit-appearance: optimizelegibility; -webkit-font-smoothing: antialiased; appearance: optimizelegibility; color: #777777; font-family: 'SF Pro Display', -apple-system-headline, system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 18px; font-weight: normal; line-height: 24px; margin: 4px 0 0; margin-top: 12px;">A brief history of debugging, why debugging large systems is different, and how the &#8220;multiverse debugger&#8221; built by Antithesis attempts to take on this challenging problem space</h3><table role="presentation" width="100%" border="0" cellspacing="0" cellpadding="0" class="post-meta" style="align-items: center; height: 20px; margin: 1em 0;"><tr><td><table role="presentation" width="auto" border="0" cellspacing="0" cellpadding="0"><tr><td><table role="presentation" width="auto" border="0" cellspacing="0" cellpadding="0"><tr><td style="vertical-align:middle;"><div class="pencraft pc-reset _color-primary_q8zsn_166 _line-height-20_q8zsn_80 _font-meta_q8zsn_115 _size-11_q8zsn_31 _weight-medium_q8zsn_145 _transform-uppercase_q8zsn_234 _reset_q8zsn_1 _meta_q8zsn_434 custom-css-email-post-author" style="color: rgb(54, 55, 55); font-family: 'SF Compact', -apple-system, system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 11px; font-weight: 500; letter-spacing: .2px; line-height: 20px; list-style: none; margin: 0; text-decoration: unset; text-transform: uppercase;"><a style="color: rgb(54, 55, 55); font-family: 'SF Compact', -apple-system, system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 11px; font-weight: 500; letter-spacing: .2px; line-height: 20px; list-style: none; margin: 0; text-decoration: none; text-transform: uppercase;" href="https://substack.com/@pragmaticengineer" class="pencraft pc-reset _color-primary_q8zsn_166 _line-height-20_q8zsn_80 _font-meta_q8zsn_115 _size-11_q8zsn_31 _weight-medium_q8zsn_145 _transform-uppercase_q8zsn_234 _reset_q8zsn_1 _meta_q8zsn_434">Gergely Orosz</a> and <a style="color: rgb(54, 55, 55); font-family: 'SF Compact', -apple-system, system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 11px; font-weight: 500; letter-spacing: .2px; line-height: 20px; list-style: none; margin: 0; text-decoration: none; text-transform: uppercase;" href="https://substack.com/@hejelin" class="pencraft pc-reset _color-primary_q8zsn_166 _line-height-20_q8zsn_80 _font-meta_q8zsn_115 _size-11_q8zsn_31 _weight-medium_q8zsn_145 _transform-uppercase_q8zsn_234 _reset_q8zsn_1 _meta_q8zsn_434">Elin Nilsson</a></div></td></tr></table></td></tr><tr><td><table role="presentation" width="auto" border="0" cellspacing="0" cellpadding="0"><tr><td style="vertical-align:middle;"><div class="pencraft pc-reset _color-secondary_q8zsn_169 _line-height-20_q8zsn_80 _font-meta_q8zsn_115 _size-11_q8zsn_31 _weight-medium_q8zsn_145 _transform-uppercase_q8zsn_234 _reset_q8zsn_1 _meta_q8zsn_434" style="color: rgb(119, 119, 119); font-family: 'SF Compact', -apple-system, system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 11px; font-weight: 500; letter-spacing: .2px; line-height: 20px; list-style: none; margin: 0; text-decoration: unset; text-transform: uppercase;"><time datetime="2024-11-12T16:59:22.913Z">Nov 12</time></div></td><td width="4" style="min-width: 4px"></td><td style="vertical-align:middle;"><table role="presentation" width="auto" border="0" cellspacing="0" cellpadding="0"><tr><td style="vertical-align:middle;"><div class="pencraft pc-reset _color-secondary_q8zsn_169 _line-height-20_q8zsn_80 _font-meta_q8zsn_115 _size-11_q8zsn_31 _weight-medium_q8zsn_145 _transform-uppercase_q8zsn_234 _reset_q8zsn_1 _meta_q8zsn_434" style="color: rgb(119, 119, 119); font-family: 'SF Compact', -apple-system, system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 11px; font-weight: 500; letter-spacing: .2px; line-height: 20px; list-style: none; margin: 0; text-decoration: unset; text-transform: uppercase;">&#8729;</div></td><td width="4" style="min-width: 4px"></td><td style="vertical-align:middle;"><div translated class="pencraft pc-reset _color-accent-purple_q8zsn_205 _line-height-20_q8zsn_80 _font-meta_q8zsn_115 _size-11_q8zsn_31 _weight-medium_q8zsn_145 _transform-uppercase_q8zsn_234 _reset_q8zsn_1 _meta_q8zsn_434" style="color: rgb(123, 97, 255); font-family: 'SF Compact', -apple-system, system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 11px; font-weight: 500; letter-spacing: .2px; line-height: 20px; list-style: none; margin: 0; text-decoration: unset; text-transform: uppercase;">Preview</div></td></tr></table></td></tr></table></td></tr></table></td><td align="right"><table role="presentation" width="auto" border="0" cellspacing="0" cellpadding="0"><tr><td style="vertical-align:middle;"><a href="https://substack.com/@pragmaticengineer"><img src="https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F802a32bb-2048-428b-bdb5-d6acd1e2b2d5_48x48.png" style="border: none !important; border-radius: 500000px; box-sizing: border-box; display: inline; height: 32px; margin: 0px; max-width: 550px; min-height: 32px; min-width: 32px; object-fit: cover; vertical-align: middle; width: 32px;" width="32" height="32" class="custom-css-email-avatar _avatar_1mh60_65"></a></td><td width="4" style="min-width: 4px"></td><td style="vertical-align:middle;"><a href="https://substack.com/@hejelin"><img src="https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd50df539-b937-4b9d-b22d-0aa89c809d67_1080x1080.jpeg" style="border: none !important; border-radius: 500000px; box-sizing: border-box; display: inline; height: 32px; margin: 0px; max-width: 550px; min-height: 32px; min-width: 32px; object-fit: cover; vertical-align: middle; width: 32px;" width="32" height="32" class="custom-css-email-avatar _avatar_1mh60_65"></a></td></tr></table></td></tr></table><table role="presentation" width="100%" border="0" cellspacing="0" cellpadding="0" class="email-ufi-2-top" style="border-bottom: 1px solid rgb(0, 0, 0, .1); border-top: 1px solid rgb(0, 0, 0, .1); min-width: 100%;"><tr height="16"><td height="16" style="font-size:0px;line-height:0;">&#160;</td></tr><tr><td><table role="presentation" width="100%" border="0" cellspacing="0" cellpadding="0"><tr><td><table role="presentation" width="auto" border="0" cellspacing="0" cellpadding="0"><tr><td style="vertical-align:middle;"><table role="presentation" width="38" border="0" cellspacing="0" cellpadding="0"><tr><td align="center"><a href="https://substack.com/app-link/post?publication_id=458709&post_id=151560277&utm_source=substack&isFreemail=true&submitLike=true&token=eyJ1c2VyX2lkIjoxNDU2MzMxOSwicG9zdF9pZCI6MTUxNTYwMjc3LCJyZWFjdGlvbiI6IuKdpCIsImlhdCI6MTczMTQzMDc4OSwiZXhwIjoxNzM0MDIyNzg5LCJpc3MiOiJwdWItNDU4NzA5Iiwic3ViIjoicmVhY3Rpb24ifQ.yE3Fb67iCG0oWYWKrd47vjE2XXmCcND2phXWJ6jgVSI&utm_medium=email&utm_campaign=email-reaction&r=8o54n" style="border: 1px solid rgb(0, 0, 0, .1); border-radius: 9999px; box-sizing: border-box; color: rgb(119, 119, 119); display: inline-block; font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 12px; font-weight: 500; line-height: 1; min-width: 38px; padding: 9px 0; text-decoration: none; text-transform: uppercase; width: 38px;" class="email-icon-button"><img src="https://substackcdn.com/image/fetch/w_36,c_scale,f_png,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack.com%2Ficon%2FLucideHeart%3Fv%3D4%26height%3D36%26fill%3Dnone%26stroke%3D%2523808080%26strokeWidth%3D2" width="18" height="18" style="border: none !important; max-width: 18px; vertical-align: middle;" alt class="icon"></a></td></tr></table></td><td width="8" style="min-width: 8px"></td><td style="vertical-align:middle;"><table role="presentation" width="38" border="0" cellspacing="0" cellpadding="0"><tr><td align="center"><a href="https://substack.com/app-link/post?publication_id=458709&post_id=151560277&utm_source=substack&utm_medium=email&isFreemail=true&comments=true&token=eyJ1c2VyX2lkIjoxNDU2MzMxOSwicG9zdF9pZCI6MTUxNTYwMjc3LCJpYXQiOjE3MzE0MzA3ODksImV4cCI6MTczNDAyMjc4OSwiaXNzIjoicHViLTQ1ODcwOSIsInN1YiI6InBvc3QtcmVhY3Rpb24ifQ.BjMDDXiNnxU_Pup_BH1P3VgI9fRxlvZmhMWdQ4hp7xc&r=8o54n&utm_campaign=email-half-magic-comments&action=post-comment&utm_source=substack&utm_medium=email" style="border: 1px solid rgb(0, 0, 0, .1); border-radius: 9999px; box-sizing: border-box; color: rgb(119, 119, 119); display: inline-block; font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 12px; font-weight: 500; line-height: 1; min-width: 38px; padding: 9px 0; text-decoration: none; text-transform: uppercase; width: 38px;" class="email-icon-button"><img src="https://substackcdn.com/image/fetch/w_36,c_scale,f_png,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack.com%2Ficon%2FLucideComments%3Fv%3D4%26height%3D36%26fill%3Dnone%26stroke%3D%2523808080%26strokeWidth%3D2" width="18" height="18" style="border: none !important; max-width: 18px; vertical-align: middle;" alt class="icon"></a></td></tr></table></td><td width="8" style="min-width: 8px"></td><td style="vertical-align:middle;"><table role="presentation" width="38" border="0" cellspacing="0" cellpadding="0"><tr><td align="center"><a href="https://substack.com/app-link/post?publication_id=458709&post_id=151560277&utm_source=substack&utm_medium=email&utm_content=share&utm_campaign=email-share&action=share&triggerShare=true&isFreemail=true&r=8o54n&token=eyJ1c2VyX2lkIjoxNDU2MzMxOSwicG9zdF9pZCI6MTUxNTYwMjc3LCJpYXQiOjE3MzE0MzA3ODksImV4cCI6MTczNDAyMjc4OSwiaXNzIjoicHViLTQ1ODcwOSIsInN1YiI6InBvc3QtcmVhY3Rpb24ifQ.BjMDDXiNnxU_Pup_BH1P3VgI9fRxlvZmhMWdQ4hp7xc" style="border: 1px solid rgb(0, 0, 0, .1); border-radius: 9999px; box-sizing: border-box; color: rgb(119, 119, 119); display: inline-block; font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 12px; font-weight: 500; line-height: 1; min-width: 38px; padding: 9px 0; text-decoration: none; text-transform: uppercase; width: 38px;" class="email-icon-button"><img src="https://substackcdn.com/image/fetch/w_36,c_scale,f_png,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack.com%2Ficon%2FLucideShare2%3Fv%3D4%26height%3D36%26fill%3Dnone%26stroke%3D%2523808080%26strokeWidth%3D2" width="18" height="18" style="border: none !important; max-width: 18px; vertical-align: middle;" alt class="icon"></a></td></tr></table></td><td width="8" style="min-width: 8px"></td><td style="vertical-align:middle;"><table role="presentation" width="38" border="0" cellspacing="0" cellpadding="0"><tr><td align="center"><a href="https://substack.com/redirect/2/eyJlIjoiaHR0cHM6Ly9vcGVuLnN1YnN0YWNrLmNvbS9wdWIvcHJhZ21hdGljZW5naW5lZXIvcC9hbnRpdGhlc2lzP3V0bV9zb3VyY2U9c3Vic3RhY2smdXRtX21lZGl1bT1lbWFpbCZ1dG1fY2FtcGFpZ249ZW1haWwtcmVzdGFjay1jb21tZW50JmFjdGlvbj1yZXN0YWNrLWNvbW1lbnQmcj04bzU0biZ0b2tlbj1leUoxYzJWeVgybGtJam94TkRVMk16TXhPU3dpY0c5emRGOXBaQ0k2TVRVeE5UWXdNamMzTENKcFlYUWlPakUzTXpFME16QTNPRGtzSW1WNGNDSTZNVGN6TkRBeU1qYzRPU3dpYVhOeklqb2ljSFZpTFRRMU9EY3dPU0lzSW5OMVlpSTZJbkJ2YzNRdGNtVmhZM1JwYjI0aWZRLkJqTUREWGlObnhVX1B1cF9CSDFQM1ZnSTlmUnhsdlptaE1XZFE0aHA3eGMiLCJwIjoxNTE1NjAyNzcsInMiOjQ1ODcwOSwiZiI6dHJ1ZSwidSI6MTQ1NjMzMTksImlhdCI6MTczMTQzMDc4OSwiZXhwIjoxNzM0MDIyNzg5LCJpc3MiOiJwdWItMCIsInN1YiI6ImxpbmstcmVkaXJlY3QifQ.pICJEoZpRrUqGMXyWyNVL1hXW9uB8kk0DTvU5Z-dS8w?&utm_source=substack&utm_medium=email" style="border: 1px solid rgb(0, 0, 0, .1); border-radius: 9999px; box-sizing: border-box; color: rgb(119, 119, 119); display: inline-block; font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 12px; font-weight: 500; line-height: 1; min-width: 38px; padding: 9px 0; text-decoration: none; text-transform: uppercase; width: 38px;" class="email-icon-button"><img src="https://substackcdn.com/image/fetch/w_36,c_scale,f_png,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack.com%2Ficon%2FNoteForwardIcon%3Fv%3D4%26height%3D36%26fill%3Dnone%26stroke%3D%2523808080%26strokeWidth%3D2" width="18" height="18" style="border: none !important; max-width: 18px; vertical-align: middle;" alt class="icon"></a></td></tr></table></td></tr></table></td><td align="right"><table role="presentation" width="auto" border="0" cellspacing="0" cellpadding="0"><tr><td style="vertical-align:middle;"><table role="presentation" width="auto" border="0" cellspacing="0" cellpadding="0"><tr><td align="center"><a href="https://open.substack.com/pub/pragmaticengineer/p/antithesis?utm_source=email&redirect=app-store&utm_campaign=email-read-in-app" class="email-button-outline" style="border: 1px solid rgb(0, 0, 0, .1); border-radius: 9999px; color: rgb(119, 119, 119); display: inline-block; font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 12px; font-weight: 500; line-height: 12px; padding: 9px 14px; text-decoration: none; text-transform: uppercase;"><div class="email-button-spacer" style="display: inline-block; font-size: 16px; line-height: 26px; max-width: 0; min-height: 18px; vertical-align: middle;"></div><span style="margin-right: 4px; vertical-align: middle;" class="email-button-text">READ IN APP</span><img src="https://substackcdn.com/image/fetch/w_36,c_scale,f_png,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack.com%2Ficon%2FLucideArrowUpRight%3Fv%3D4%26height%3D36%26fill%3Dnone%26stroke%3D%2523808080%26strokeWidth%3D2" width="18" height="18" style="border: none !important; margin-left: 0; margin-right: 0; max-width: 18px; min-height: 18px; min-width: 18px; vertical-align: middle;" alt class="icon text-icon"></a></td></tr></table></td></tr></table></td></tr></table></td></tr><tr height="16"><td height="16" style="font-size:0px;line-height:0;">&#160;</td></tr></table></div></div><div dir="auto" class="post typography" style="font-size: 16px; line-height: 26px; padding: 16px 0 0 0;"><div dir="auto" class="body markup" style="font-family: 'SF Pro Display', -apple-system, system-ui, BlinkMacSystemFont, 'Inter', 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 16px; font-weight: 400; line-height: 26px; margin-bottom: 16px; text-align: initial; width: 100%; word-break: break-word;"><p style="color: rgb(54, 55, 55); font-size: 16px; line-height: 26px; margin: 0 0 20px 0; margin-top: 0;"><span>Debugging is one of those things all engineers do, but little has changed in </span><em>how</em><span> we debug for decades. For example, debugging by printing to the console output or by logging is still pretty common, even though there&#8217;s decent debuggers that can be used across IDEs.</span></p><p style="color: rgb(54, 55, 55); font-size: 16px; line-height: 26px; margin: 0 0 20px 0;"><span>Believe it or not, some debugging tools today are actually </span><em>less</em><span> advanced than in the old days. Steve Yegge, head of engineering at Sourcegraph &#8211; </span><a href="https://substack.com/redirect/0bc3c65a-2e79-4a6a-80c5-cb5021df5f0d?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel style="color: rgb(54, 55, 55); text-decoration: underline;">said</a><span> last year:</span></p><blockquote style="border-left: 4px solid #FF6B00; margin: 20px 0; padding: 0;"><p style="color: rgb(54, 55, 55); font-size: 16px; line-height: 26px; margin: 0 0 20px 0; margin-left: 20px;">&#8220;I saw the best debugger I&#8217;ve ever used at GeoWorks, in 1990. To this day, I&#8217;ve yet to see a debugger do what theirs did back then: path choice on the fly, undo on the spot, or step an instruction backwards.&#8221;</p></blockquote><p style="color: rgb(54, 55, 55); font-size: 16px; line-height: 26px; margin: 0 0 20px 0;"><span>This stagnant rate of progress makes it very interesting that there&#8217;s a small engineering team working today on building a </span><em>much better</em><span> debugging tool, which specifically focuses on debugging large and distributed systems. It&#8217;s called Antithesis, and is the focus of this article.&#160;</span></p><p style="color: rgb(54, 55, 55); font-size: 16px; line-height: 26px; margin: 0 0 20px 0;">Today, we cover:</p><ol style="margin-top: 0; padding: 0;"><li style="margin: 8px 0 0 32px;"><p style="box-sizing: border-box; color: rgb(54, 55, 55); font-size: 16px; line-height: 26px; margin: 0; margin-bottom: 0; padding-left: 4px;">Brief history of debugging</p></li><li style="margin: 8px 0 0 32px;"><p style="box-sizing: border-box; color: rgb(54, 55, 55); font-size: 16px; line-height: 26px; margin: 0; margin-bottom: 0; padding-left: 4px;">Antithesis&#8217; &#8220;multiverse debugger&#8221;</p></li><li style="margin: 8px 0 0 32px;"><p style="box-sizing: border-box; color: rgb(54, 55, 55); font-size: 16px; line-height: 26px; margin: 0; margin-bottom: 0; padding-left: 4px;">Q&amp;A with Antithesis co-founder, Will Wilson</p></li><li style="margin: 8px 0 0 32px;"><p style="box-sizing: border-box; color: rgb(54, 55, 55); font-size: 16px; line-height: 26px; margin: 0; margin-bottom: 0; padding-left: 4px;">Tech stack</p></li><li style="margin: 8px 0 0 32px;"><p style="box-sizing: border-box; color: rgb(54, 55, 55); font-size: 16px; line-height: 26px; margin: 0; margin-bottom: 0; padding-left: 4px;">Engineering team and culture</p></li><li style="margin: 8px 0 0 32px;"><p style="box-sizing: border-box; color: rgb(54, 55, 55); font-size: 16px; line-height: 26px; margin: 0; margin-bottom: 0; padding-left: 4px;">Advanced testing tools for better bug management</p></li><li style="margin: 8px 0 0 32px;"><p style="box-sizing: border-box; color: rgb(54, 55, 55); font-size: 16px; line-height: 26px; margin: 0; margin-bottom: 0; padding-left: 4px;">Better bug management with advanced testing tools</p></li><li style="margin: 8px 0 0 32px;"><p style="box-sizing: border-box; color: rgb(54, 55, 55); font-size: 16px; line-height: 26px; margin: 0; margin-bottom: 0; padding-left: 4px;">Tradeoffs of complexity</p></li></ol><p style="color: rgb(54, 55, 55); font-size: 16px; line-height: 26px; margin: 0 0 20px 0;"><em><span>As always with these deep dives about a vendor, this publication has no affiliation with Antithesis, and was not paid for this article. Check out </span><a href="https://substack.com/redirect/656add76-4e14-4f32-a278-297b3c17e7ed?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel style="color: rgb(54, 55, 55); text-decoration: underline;">our ethics policy.</a></em></p><p style="color: rgb(54, 55, 55); font-size: 16px; line-height: 26px; margin: 0 0 20px 0;"><em><span>The bottom of this article could be cut off in some email clients. </span><a href="https://substack.com/redirect/2e4d46f2-eb16-462f-ad1c-324cec2a7995?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel style="color: rgb(54, 55, 55); text-decoration: underline;">Read the full article uninterrupted, online.</a></em></p><p class="button-wrapper" data-attrs="{&quot;url&quot;:&quot;https://newsletter.pragmaticengineer.com/p/antithesis&quot;,&quot;text&quot;:&quot;Read the full article online&quot;,&quot;action&quot;:null,&quot;class&quot;:null}" data-component-name="ButtonCreateButton" style="border-radius: 4px; color: rgb(54, 55, 55); cursor: pointer; font-size: 16px; line-height: 26px; margin: 0 0 20px 0; text-align: center;"><a class="button primary" href="https://substack.com/redirect/2e4d46f2-eb16-462f-ad1c-324cec2a7995?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel style="background-color: #FF6B00; border: none; border-radius: 8px; box-sizing: border-box; color: #ffffff !important; cursor: pointer; display: inline-block; font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; font-weight: 600; height: auto; line-height: 20px; margin: 0; opacity: 1; outline: none; padding: 12px 20px; text-align: center; text-decoration: none !important; white-space: nowrap;"><span style="color: #ffffff; text-decoration: none;">Read the full article online</span></a></p><h2 class="header-anchor-post" style="--highlight-bg: rgba(var(--color-bg-accent-themed-rgb), 0.2); -moz-appearance: optimizelegibility; -moz-osx-font-smoothing: antialiased; -webkit-appearance: optimizelegibility; -webkit-font-smoothing: antialiased; appearance: optimizelegibility; color: rgb(54, 55, 55); font-family: 'SF Pro Display', -apple-system-headline, system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 1.625em; font-weight: bold; line-height: 1.16em; margin: 1em 0 0.625em 0; position: relative;">1. Brief history of debugging</h2><p style="color: rgb(54, 55, 55); font-size: 16px; line-height: 26px; margin: 0 0 20px 0;">Debugging and software development have gone hand in hand since the earliest days of computing. But why do we call it &#8216;debugging&#8217;? The etymology is a bit obscure, but it could include a real-life insect.</p><h4 class="header-anchor-post" style="--highlight-bg: rgba(var(--color-bg-accent-themed-rgb), 0.2); -moz-appearance: optimizelegibility; -moz-osx-font-smoothing: antialiased; -webkit-appearance: optimizelegibility; -webkit-font-smoothing: antialiased; appearance: optimizelegibility; color: rgb(54, 55, 55); font-family: 'SF Pro Display', -apple-system-headline, system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 1.125em; font-weight: bold; line-height: 1.16em; margin: 1em 0 0.625em 0; position: relative;">First &#8220;debugged&#8221; computer</h4><p style="color: rgb(54, 55, 55); font-size: 16px; line-height: 26px; margin: 0 0 20px 0;"><span>In 1947, a team of scientists at Harvard University including computer science pioneer, Grace </span><a href="https://substack.com/redirect/171273a3-25d9-4c7a-b600-e98da22dad1d?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel style="color: rgb(54, 55, 55); text-decoration: underline;">Hopper</a><span>, found a moth trapped in a relay of the Mark II mainframe computer which was causing it to malfunction. The fault was documented, and the moth itself was added to a hand-written record, reading: &#8220;...first actual case of bug being found.&#8221;</span></p><div class="captioned-image-container-static" style="font-size: 16px; line-height: 26px; margin: 32px auto;"><figure style="margin: 0 auto; width: 100%;"><table class="image-wrapper" width="100%" border="0" cellspacing="0" cellpadding="0" data-component-name="Image2ToDOMStatic" style="mso-padding-alt: 1em 0 1.6em;"><tbody><tr><td style="text-align: center;"></td><td align="left" class="content" width="1046" style="text-align: center;"><a class="image-link" target="_blank" href="https://substack.com/redirect/9a0b4406-0c74-4e74-8ecb-b21fd42b3f6e?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel style="align-items: center; border: none; display: block; flex-direction: column; height: auto; margin: 0; padding: 0; position: relative; text-decoration: none; width: auto;"><img data-attrs="{&quot;src&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/56d2bcb9-b20c-4b02-88aa-01d776d27775_1046x1154.png&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:null,&quot;height&quot;:1154,&quot;width&quot;:1046,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:null,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:null,&quot;href&quot;:null,&quot;belowTheFold&quot;:true,&quot;topImage&quot;:false,&quot;internalRedirect&quot;:null,&quot;isProcessing&quot;:false}" alt width="550" height="606.7877629063097" class="wide-image" src="https://substackcdn.com/image/fetch/w_2092,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F56d2bcb9-b20c-4b02-88aa-01d776d27775_1046x1154.png" style="-ms-interpolation-mode: bicubic; border: none !important; display: block; height: auto; margin: 0 auto; margin-bottom: 0; max-width: 100% !important; vertical-align: middle; width: auto !important;"></a></td><td style="text-align: center;"></td></tr></tbody></table><figcaption class="image-caption" style="box-sizing: content-box; color: #777777; font-size: 14px; font-weight: 400; letter-spacing: -.15px; line-height: 20px; margin-top: 8px; padding-left: 15%; padding-right: 15%; text-align: center; width: 70%;"><em><span>First-ever &#8220;bug&#8221; report? Source: </span><a href="https://substack.com/redirect/97ac4895-a8d2-4dcf-a9a6-4137c9efdd14?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel style="text-decoration: underline;">IPSJ Computer Museum</a><span> and </span><a href="https://substack.com/redirect/96e0fced-7bab-4ca4-a5bc-b26885eea22f?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel style="text-decoration: underline;">Naval History and Heritage Command</a></em></figcaption></figure></div><p style="color: rgb(54, 55, 55); font-size: 16px; line-height: 26px; margin: 0 0 20px 0;"><span>Faults were called &#8220;bugs&#8221; before this incident, but the serendipitous episode may have helped cement the term &#8220;debugging&#8221; in the lexicon. Several computer science papers from the 1950s mention &#8220;debugging&#8221; in passing, which suggests the word was in use and its meaning was common knowledge among professionals. It also appears in the 1963 manual of the first time-sharing operating system, the Compatible Time-Sharing System (</span><a href="https://substack.com/redirect/4fc4ef3e-6fbd-43d5-a574-79ea28bd73c3?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel style="color: rgb(54, 55, 55); text-decoration: underline;">CTSS</a><span>.)</span></p><h4 class="header-anchor-post" style="--highlight-bg: rgba(var(--color-bg-accent-themed-rgb), 0.2); -moz-appearance: optimizelegibility; -moz-osx-font-smoothing: antialiased; -webkit-appearance: optimizelegibility; -webkit-font-smoothing: antialiased; appearance: optimizelegibility; color: rgb(54, 55, 55); font-family: 'SF Pro Display', -apple-system-headline, system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 1.125em; font-weight: bold; line-height: 1.16em; margin: 1em 0 0.625em 0; position: relative;">Evolution of debugging tools</h4><p style="color: rgb(54, 55, 55); font-size: 16px; line-height: 26px; margin: 0 0 20px 0;">Programmers have always built tools to make their lives easier, and debuggers are a case in point. Here&#8217;s how the toolset evolved from the 1960s.</p><p style="color: rgb(54, 55, 55); font-size: 16px; line-height: 26px; margin: 0 0 20px 0;"><strong>1960s: punch card era. </strong><span>The earliest debugging tools:</span></p><ul style="margin-top: 0; padding: 0;"><li style="margin: 8px 0 0 32px; mso-special-format: bullet;"><p style="box-sizing: border-box; color: rgb(54, 55, 55); font-size: 16px; line-height: 26px; margin: 0; margin-bottom: 0; padding-left: 4px;"><strong>Typewriter debugging:</strong><span> </span><a href="https://substack.com/redirect/1a816dfc-bdd6-49d1-8b20-b176883904ba?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel style="color: rgb(54, 55, 55); text-decoration: underline;">DEC Debugging Tape</a><span> (DDT): a debugger program that worked on a typewriter! It allowed the modifying of a program or its data on the mainframe, while it was running. (DEC stands for &#8220;Digital Equipment Corporation&#8221;, which was a major computer hardware company of the time.) This was an era when the typewriter served as the command line interface. See the </span><a href="https://substack.com/redirect/0cafc8cd-9943-4c64-937f-0f34ef3d20c9?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel style="color: rgb(54, 55, 55); text-decoration: underline;">full manual for commands</a><span>.&#160;</span></p></li><li style="margin: 8px 0 0 32px; mso-special-format: bullet;"><p style="box-sizing: border-box; color: rgb(54, 55, 55); font-size: 16px; line-height: 26px; margin: 0; margin-bottom: 0; padding-left: 4px;"><strong>Online Debugging Tool</strong><span> (</span><a href="https://substack.com/redirect/9a7df2a2-8f98-4fda-a36c-5fc376c789bc?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel style="color: rgb(54, 55, 55); text-decoration: underline;">ODT</a><span>): a family of debugger programs that allowed the accessing of memory using </span><a href="https://substack.com/redirect/b7df2ecf-f934-4971-9a2b-24dadd88ca22?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel style="color: rgb(54, 55, 55); text-decoration: underline;">octal addresses</a><span> while software ran. Also produced by the Digital Equipment Corporation.</span></p></li></ul><p style="color: rgb(54, 55, 55); font-size: 16px; line-height: 26px; margin: 0 0 20px 0;"><strong>1970s: (symbolic) debuggers. </strong><span>New, powerful programming languages like </span><a href="https://substack.com/redirect/67438180-5227-4169-a40c-cd4b03f1a784?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel style="color: rgb(54, 55, 55); text-decoration: underline;">C</a><span>, </span><a href="https://substack.com/redirect/a3a6fcff-181f-4ea9-933b-beb809046773?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel style="color: rgb(54, 55, 55); text-decoration: underline;">FORTRAN</a><span> and </span><a href="https://substack.com/redirect/19937e92-5ec3-40db-9f52-ad374fae9dfd?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel style="color: rgb(54, 55, 55); text-decoration: underline;">COBOL</a><span> were developed in the &#8216;70s, which allowed fetching of symbol maps that showed the memory addresses of variables. Symbol maps were used for more efficient debugging, as they made it unnecessary to manually track memory addresses. The tools in use today are symbolic debuggers.</span></p><p style="color: rgb(54, 55, 55); font-size: 16px; line-height: 26px; margin: 0 0 20px 0;"><strong>Late 1970s: breakpoints. </strong><span>With the ability to inspect the memory of a running program and to get a memory dump, the next debugging task is to halt program execution on a given condition, like a variable reaching a certain value. </span><a href="https://substack.com/redirect/3b4cc9c3-75f2-4316-a67f-f26f176d95a5?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel style="color: rgb(54, 55, 55); text-decoration: underline;">Breakpoints</a><span> allow for precisely that.&#160;</span></p><p style="color: rgb(54, 55, 55); font-size: 16px; line-height: 26px; margin: 0 0 20px 0;">The core functionality of halting program execution emerged in the 1940s, with involved approaches like removing cables, deliberately causing program crashes, and via hardware switches. Over time, the utility and usability of breakpoints evolved, and by the end of the &#8216;70s, they were in symbolic debuggers in ways recognisable today. More advanced tools added the option of allowing a program to advance one step forward (step forward) and the more complex functionality of going back (step back.)</p><p style="color: rgb(54, 55, 55); font-size: 16px; line-height: 26px; margin: 0 0 20px 0;"><strong>Mid-1980s: &#8220;modern debugging.&#8221; </strong><span>From the 1980s, the software development experience continued to evolve with better terminals, more interactivity, and ever-tighter feedback loops. Debugging improvements followed a similar pattern. For example, in 1983 Turbo Pascal introduced its IDE with built-in debugging capabilities &#8211; which might have been the first &#8220;mainstream&#8221; IDE with debugging enabled.&#160;</span></p><p style="color: rgb(54, 55, 55); font-size: 16px; line-height: 26px; margin: 0 0 20px 0;">Graphic debugging tools with visual breakpoints and output were innovations of this time. Remote debugging &#8211; debugging programs running over networks &#8211; became possible with the spread of the internet.</p><p style="color: rgb(54, 55, 55); font-size: 16px; line-height: 26px; margin: 0 0 20px 0;"><strong>Today&#8217;s modern debugging tools have modern features, </strong><span>such as:</span></p><ul style="margin-top: 0; padding: 0;"><li style="margin: 8px 0 0 32px; mso-special-format: bullet;"><p style="box-sizing: border-box; color: rgb(54, 55, 55); font-size: 16px; line-height: 26px; margin: 0; margin-bottom: 0; padding-left: 4px;"><strong>Time-travel debugging. </strong><span>Also known as &#8220;reverse debugging&#8221;, this is most common within functional programming and in deterministic environments. It allows recreating issues, and to &#8220;step backwards&#8221; to figure out root causes. </span><em>Today&#8217;s deep dive is on one such tool, Antithesis.</em></p></li><li style="margin: 8px 0 0 32px; mso-special-format: bullet;"><p style="box-sizing: border-box; color: rgb(54, 55, 55); font-size: 16px; line-height: 26px; margin: 0; margin-bottom: 0; padding-left: 4px;"><strong>Record and replay debugging</strong><span>. The application state is recorded in each step of the process and can be replayed. Recordings tend to include memory state, memory interactions, inputs, and system resource status markers, among others. </span><a href="https://substack.com/redirect/cc7af6dd-72de-4546-a332-8f750428f1fd?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel style="color: rgb(54, 55, 55); text-decoration: underline;">ReDevBug</a><span> does this.</span></p></li><li style="margin: 8px 0 0 32px; mso-special-format: bullet;"><p style="box-sizing: border-box; color: rgb(54, 55, 55); font-size: 16px; line-height: 26px; margin: 0; margin-bottom: 0; padding-left: 4px;"><strong>Automatic debugging. </strong><span>Tools that can automatically locate and sometimes fix bugs in code. These debuggers are usually ML or AI-driven.</span></p></li><li style="margin: 8px 0 0 32px; mso-special-format: bullet;"><p style="box-sizing: border-box; color: rgb(54, 55, 55); font-size: 16px; line-height: 26px; margin: 0; margin-bottom: 0; padding-left: 4px;"><strong>AI-assisted debugging. </strong><span>The latest wave of debugging uses GenAI to predict and locate bugs in a more efficient manner. It&#8217;s early days, but we can expect more solutions like this.</span></p></li></ul><h2 class="header-anchor-post" style="--highlight-bg: rgba(var(--color-bg-accent-themed-rgb), 0.2); -moz-appearance: optimizelegibility; -moz-osx-font-smoothing: antialiased; -webkit-appearance: optimizelegibility; -webkit-font-smoothing: antialiased; appearance: optimizelegibility; color: rgb(54, 55, 55); font-family: 'SF Pro Display', -apple-system-headline, system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 1.625em; font-weight: bold; line-height: 1.16em; margin: 1em 0 0.625em 0; position: relative;">2. Antithesis&#8217;s &#8216;multiverse debugger&#8217;</h2><p style="color: rgb(54, 55, 55); font-size: 16px; line-height: 26px; margin: 0 0 20px 0;"><a href="https://substack.com/redirect/bb8d7adf-93c4-465b-8f47-fbbb6b0f8a2a?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel style="color: rgb(54, 55, 55); text-decoration: underline;">Antithesis</a><span> was founded in 2018 with the vision of a better way to test systems, and it has raised an impressive $47M (!!) in seed funding. The business model is usage-based pricing, based on the number of CPUs used for testing activities; a good analogy is Amazon renting out its EC2 servers. Today, Antithesis sells cores on an annually-reserved basis, with a minimum for getting started with, and hopes to offer more flexibility in the future, I&#8217;m told.</span></p><p style="color: rgb(54, 55, 55); font-size: 16px; line-height: 26px; margin: 0 0 20px 0;">Time-travel debugging tools are usually limited to functional languages where state management is simple, or to deterministic environments; like in well-defined sandboxes. For most real-world programs, no time travel option is available for debugging, so when a backend service crashes non-deterministically, there&#8217;s no good way to turn back time and investigate it; the best option is usually to add more logging to help explain future crashes.</p><h4 class="header-anchor-post" style="--highlight-bg: rgba(var(--color-bg-accent-themed-rgb), 0.2); -moz-appearance: optimizelegibility; -moz-osx-font-smoothing: antialiased; -webkit-appearance: optimizelegibility; -webkit-font-smoothing: antialiased; appearance: optimizelegibility; color: rgb(54, 55, 55); font-family: 'SF Pro Display', -apple-system-headline, system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 1.125em; font-weight: bold; line-height: 1.16em; margin: 1em 0 0.625em 0; position: relative;">Building a time machine</h4><p style="color: rgb(54, 55, 55); font-size: 16px; line-height: 26px; margin: 0 0 20px 0;">The Antithesis team spent several years building a system that acts like a time machine. It wraps your current system, and lets you rewind your steps. Within the &#8220;wrapper&#8221;, to rewind the state of the system to 5 seconds earlier, you type:&#160;</p><p style="color: rgb(54, 55, 55); font-size: 16px; line-height: 26px; margin: 0 0 20px 0;">branch = branch.end.rewind(5).branch&#160;</p><p style="color: rgb(54, 55, 55); font-size: 16px; line-height: 26px; margin: 0 0 20px 0;">Files deleted within the last five seconds come back, including if deleted permanently without being put in deleted file storage. Any changes made in files since are also undone.</p><p style="color: rgb(54, 55, 55); font-size: 16px; line-height: 26px; margin: 0 0 20px 0;"><strong>Creating the time machine means creating a deterministic simulation, </strong><span>which can progress from its starting point to the future, arbitrarily. It can go back in time, too, which raises interesting possibilities. For example, if your server crashed: wouldn&#8217;t it be great to &#8220;rewind&#8221; time and attach a debugger? In a simulated system, you can do this: simulate the system to the point where the process will crash, then add a debugger or export a memory dump. Similarly, if a user reports that their session was slow: it&#8217;s now possible to go &#8220;back in time&#8221; by recreating their session, and attaching a debugger.</span></p><p style="color: rgb(54, 55, 55); font-size: 16px; line-height: 26px; margin: 0 0 20px 0;"><strong>Having a deterministic simulator creates previously hard-to-achieve scenarios</strong><span>, such as:</span></p><ul style="margin-top: 0; padding: 0;"><li style="margin: 8px 0 0 32px; mso-special-format: bullet;"><p style="box-sizing: border-box; color: rgb(54, 55, 55); font-size: 16px; line-height: 26px; margin: 0; margin-bottom: 0; padding-left: 4px;"><span>Jump into the future; for example, by fast-forwarding a system 10 hours in the future, to inspect how memory usage and CPU usage will trend at that time. This is not a prediction, but it allows </span><em>actually</em><span> inspecting the future state of the system!</span></p></li><li style="margin: 8px 0 0 32px; mso-special-format: bullet;"><p style="box-sizing: border-box; color: rgb(54, 55, 55); font-size: 16px; line-height: 26px; margin: 0; margin-bottom: 0; padding-left: 4px;">Generate more logs to work with. When a suspicious event is identified in the present, you can go back in time and add more logging to where this event may have originated from. You could also enable detailed logging across the system for a few minutes or seconds before an event occurs.</p></li><li style="margin: 8px 0 0 32px; mso-special-format: bullet;"><p style="box-sizing: border-box; color: rgb(54, 55, 55); font-size: 16px; line-height: 26px; margin: 0; margin-bottom: 0; padding-left: 4px;">Change the past. Go back to before a crash happened, and change the code executing.</p></li></ul><h4 class="header-anchor-post" style="--highlight-bg: rgba(var(--color-bg-accent-themed-rgb), 0.2); -moz-appearance: optimizelegibility; -moz-osx-font-smoothing: antialiased; -webkit-appearance: optimizelegibility; -webkit-font-smoothing: antialiased; appearance: optimizelegibility; color: rgb(54, 55, 55); font-family: 'SF Pro Display', -apple-system-headline, system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 1.125em; font-weight: bold; line-height: 1.16em; margin: 1em 0 0.625em 0; position: relative;">What Antithesis does</h4><p style="color: rgb(54, 55, 55); font-size: 16px; line-height: 26px; margin: 0 0 20px 0;"><span>Antithesis is not only a time-traveling debugger, though. A good way to describe it is as </span><strong>&#8220;Deterministic Simulation Testing </strong><span>(DST) as a service.&#8221;</span></p><p style="color: rgb(54, 55, 55); font-size: 16px; line-height: 26px; margin: 0 0 20px 0;"><span>Deterministic Simulation Testing (DST)</span><strong> </strong><span>is a technique of building a simulation in which software can run in a single thread, and where you&#8217;re in control of all variables like time, randomness, etc., in order to achieve determinism during testing.</span></p><div class="captioned-image-container-static" style="font-size: 16px; line-height: 26px; margin: 32px auto;"><figure style="margin: 0 auto; width: 100%;"><table class="image-wrapper" width="100%" border="0" cellspacing="0" cellpadding="0" data-component-name="Image2ToDOMStatic" style="mso-padding-alt: 1em 0 1.6em;"><tbody><tr><td style="text-align: center;"></td><td align="left" class="content" width="1456" style="text-align: center;"><a class="image-link" target="_blank" href="https://substack.com/redirect/1e46e1c2-877f-43b8-a442-b4d211147bb8?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel style="align-items: center; border: none; display: block; flex-direction: column; height: auto; margin: 0; padding: 0; position: relative; text-decoration: none; width: auto;"><img data-attrs="{&quot;src&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/ff92726d-9ccc-4933-93bb-8554c605970e_1600x1008.png&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:null,&quot;height&quot;:917,&quot;width&quot;:1456,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:null,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:null,&quot;href&quot;:null,&quot;belowTheFold&quot;:true,&quot;topImage&quot;:false,&quot;internalRedirect&quot;:null,&quot;isProcessing&quot;:false}" alt width="550" height="346.3942307692308" class="wide-image" src="https://substackcdn.com/image/fetch/w_2912,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fff92726d-9ccc-4933-93bb-8554c605970e_1600x1008.png" style="-ms-interpolation-mode: bicubic; border: none !important; display: block; height: auto; margin: 0 auto; margin-bottom: 0; max-width: 100% !important; vertical-align: middle; width: auto !important;"></a></td><td style="text-align: center;"></td></tr></tbody></table><figcaption class="image-caption" style="box-sizing: content-box; color: #777777; font-size: 14px; font-weight: 400; letter-spacing: -.15px; line-height: 20px; margin-top: 8px; padding-left: 15%; padding-right: 15%; text-align: center; width: 70%;">What is DST? One explanation</figcaption></figure></div><p style="color: rgb(54, 55, 55); font-size: 16px; line-height: 26px; margin: 0 0 20px 0;">DST is a combination of:</p><ul style="margin-top: 0; padding: 0;"><li style="margin: 8px 0 0 32px; mso-special-format: bullet;"><p style="box-sizing: border-box; color: rgb(54, 55, 55); font-size: 16px; line-height: 26px; margin: 0; margin-bottom: 0; padding-left: 4px;"><strong>Fuzzing</strong><span>: also referred to as &#8220;</span><a href="https://substack.com/redirect/19310ae5-fc9b-4070-b6ed-8082519e4032?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel style="color: rgb(54, 55, 55); text-decoration: underline;">fuzz testing</a><span>,&#8221; this is automated testing that inputs invalid, unexpected, or random inputs to a program.</span></p></li><li style="margin: 8px 0 0 32px; mso-special-format: bullet;"><p style="box-sizing: border-box; color: rgb(54, 55, 55); font-size: 16px; line-height: 26px; margin: 0; margin-bottom: 0; padding-left: 4px;"><strong>Assertions: </strong><span>making logical statements that should always be true or false, and breaking the program when an assertion fails; e.g.; asserting that an integer variable&#8217;s value is always greater than zero, so the program breaks when this condition fails.</span></p></li><li style="margin: 8px 0 0 32px; mso-special-format: bullet;"><p style="box-sizing: border-box; color: rgb(54, 55, 55); font-size: 16px; line-height: 26px; margin: 0; margin-bottom: 0; padding-left: 4px;"><strong>Shotgun debugging: </strong><span>making random changes to software and seeing if it fixes the bug.&#160;</span></p></li><li style="margin: 8px 0 0 32px; mso-special-format: bullet;"><p style="box-sizing: border-box; color: rgb(54, 55, 55); font-size: 16px; line-height: 26px; margin: 0; margin-bottom: 0; padding-left: 4px;"><strong>Time travel debugging:</strong><span> the ability to &#8220;step backward and forward in time,&#8221; within the state of the program.</span></p></li></ul><p style="color: rgb(54, 55, 55); font-size: 16px; line-height: 26px; margin: 0 0 20px 0;"><span>Doing Deterministic Simulation Testing is really hard for any system because you have to build </span><em>everything</em><span> from scratch. No existing frameworks and libraries without support for all time-traveling, debugging, fuzzing, etc, can be used. One of the first &#8220;proper&#8221; usages of DST was within the distributed database, </span><a href="https://substack.com/redirect/e536c7d8-7931-4a6b-a94d-2355f43d3a76?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel style="color: rgb(54, 55, 55); text-decoration: underline;">FoundationDB</a><span>, one of whose creators is Antithesis cofounder, Will Wilson.</span></p><p style="color: rgb(54, 55, 55); font-size: 16px; line-height: 26px; margin: 0 0 20px 0;"><span>Because implementing DST is so difficult, Antithesis made the c</span><em>omputer/hypervisor</em><span> deterministic, instead. This means anything that runs on this Antithesis computer/hypervisor can be tested with DST, without doing everything yourself.</span></p><p style="color: rgb(54, 55, 55); font-size: 16px; line-height: 26px; margin: 0 0 20px 0;"><span>And thanks to running a fully deterministic environment, Antithesis can manipulate it into weird states on purpose, which allows developers to inspect weird states and bugs to find out their causes. </span><em><a href="https://substack.com/redirect/a0958f39-7de8-4afe-87f9-40a78200695b?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel style="color: rgb(54, 55, 55); text-decoration: underline;">Read more on how Antithesis works</a><span>.</span></em></p><h2 class="header-anchor-post" style="--highlight-bg: rgba(var(--color-bg-accent-themed-rgb), 0.2); -moz-appearance: optimizelegibility; -moz-osx-font-smoothing: antialiased; -webkit-appearance: optimizelegibility; -webkit-font-smoothing: antialiased; appearance: optimizelegibility; color: rgb(54, 55, 55); font-family: 'SF Pro Display', -apple-system-headline, system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 1.625em; font-weight: bold; line-height: 1.16em; margin: 1em 0 0.625em 0; position: relative;">3. Q&amp;A with Antithesis co-founder, Will Wilson</h2><p style="color: rgb(54, 55, 55); font-size: 16px; line-height: 26px; margin: 0 0 20px 0;"><span>The company&#8217;s CEO took some questions from us, and in this section the questions are </span><em>italicized</em><span>, with Will&#8217;s responses in normal text.</span></p><h4 class="header-anchor-post" style="--highlight-bg: rgba(var(--color-bg-accent-themed-rgb), 0.2); -moz-appearance: optimizelegibility; -moz-osx-font-smoothing: antialiased; -webkit-appearance: optimizelegibility; -webkit-font-smoothing: antialiased; appearance: optimizelegibility; color: rgb(54, 55, 55); font-family: 'SF Pro Display', -apple-system-headline, system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 1.125em; font-weight: bold; line-height: 1.16em; margin: 1em 0 0.625em 0; position: relative;">How debugging large systems is different</h4><p style="color: rgb(54, 55, 55); font-size: 16px; line-height: 26px; margin: 0 0 20px 0;"><em>The Antithesis tool was built to debug large and complex systems, but how are these systems different from common ones like single services, apps, and single-threaded websites?</em></p><p style="color: rgb(54, 55, 55); font-size: 16px; line-height: 26px; margin: 0 0 20px 0;">&#8216;A few things make large systems different:</p><ul style="margin-top: 0; padding: 0;"><li style="margin: 8px 0 0 32px; mso-special-format: bullet;"><p style="box-sizing: border-box; color: rgb(54, 55, 55); font-size: 16px; line-height: 26px; margin: 0; margin-bottom: 0; padding-left: 4px;"><strong>Bizarre failures are a certainty</strong><span>. If your software runs on one computer, things like bitflips in memory, or corruption on disk are exceptionally uncommon. If your software runs on a cluster with tens of thousands of machines, you&#8217;d better have a plan for it.</span></p></li><li style="margin: 8px 0 0 32px; mso-special-format: bullet;"><p style="box-sizing: border-box; color: rgb(54, 55, 55); font-size: 16px; line-height: 26px; margin: 0; margin-bottom: 0; padding-left: 4px;"><strong>Expectations are usually higher.</strong><span> If your software runs on one computer, and it crashes, there&#8217;s not a lot your software can do to improve the situation, except not losing any durable state. But if your software runs on a large cluster, people probably expect it to function if one or two machines die.</span></p></li><li style="margin: 8px 0 0 32px; mso-special-format: bullet;"><p style="box-sizing: border-box; color: rgb(54, 55, 55); font-size: 16px; line-height: 26px; margin: 0; margin-bottom: 0; padding-left: 4px;"><strong>Concurrency plays a bigger role.</strong><span> You can get in trouble with multi-threaded systems on a single machine, but with many machines and unreliable/noisy networks between them, it gets so much worse.</span></p></li><li style="margin: 8px 0 0 32px; mso-special-format: bullet;"><p style="box-sizing: border-box; color: rgb(54, 55, 55); font-size: 16px; line-height: 26px; margin: 0; margin-bottom: 0; padding-left: 4px;"><strong>Timestamps are meaningless.</strong><span> Unless you&#8217;re Google and have atomic clocks in your datacenters, you need to assume that clocks on different machines are not perfectly synchronized, which can make reading logs very confusing. You may literally not know whether an event started on system A or system B!</span></p></li><li style="margin: 8px 0 0 32px; mso-special-format: bullet;"><p style="box-sizing: border-box; color: rgb(54, 55, 55); font-size: 16px; line-height: 26px; margin: 0; margin-bottom: 0; padding-left: 4px;"><strong>Large systems probably don&#8217;t &#8220;fit inside the head&#8221; of any person, </strong><span>which can make reasoning through the state machine the old fashioned way, much harder. Also, the sheer length of time and numbers of people it takes to build these systems, means there are many opportunities to lose institutional knowledge, or memories to fade.&#8217;</span></p></li></ul><p style="color: rgb(54, 55, 55); font-size: 16px; line-height: 26px; margin: 0 0 20px 0;"><span>&#8216;All of the above make testing and debugging large systems much harder, especially the first three points. Many failure modes of large-scale systems are &#8220;external&#8221; or environmental, and to do with hardware faults, network messages getting delayed, or weird pauses on a thread. These are harder to reason about in advance, and they&#8217;re </span><em>monumentally</em><span> harder to test for and debug, as they may depend on highly specific conditions or timings that are almost impossible to reproduce on demand.</span></p><p style="color: rgb(54, 55, 55); font-size: 16px; line-height: 26px; margin: 0 0 20px 0;"><strong>&#8216;The paradox of distributed systems is that a one-in-a-million bug can be a huge urgent problem </strong><span>because you&#8217;re processing millions of requests all the time, so the bug will occur frequently. But, it&#8217;s still a one-in-a-million bug, so a test probably won&#8217;t reproduce it!&#8217;</span></p><h4 class="header-anchor-post" style="--highlight-bg: rgba(var(--color-bg-accent-themed-rgb), 0.2); -moz-appearance: optimizelegibility; -moz-osx-font-smoothing: antialiased; -webkit-appearance: optimizelegibility; -webkit-font-smoothing: antialiased; appearance: optimizelegibility; color: rgb(54, 55, 55); font-family: 'SF Pro Display', -apple-system-headline, system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 1.125em; font-weight: bold; line-height: 1.16em; margin: 1em 0 0.625em 0; position: relative;">How Antithesis is used</h4><p style="color: rgb(54, 55, 55); font-size: 16px; line-height: 26px; margin: 0 0 20px 0;"><em>Where does Antithesis fit into customers&#8217; software delivery and process timelines?</em></p><p style="color: rgb(54, 55, 55); font-size: 16px; line-height: 26px; margin: 0 0 20px 0;">&#8216;We see customers using Antithesis in very different ways. There are teams who run short tests on almost every PR, or who run long tests overnight or weekends, and some teams only pull it out when trying to track down a really crazy bug.&#160;</p><p style="color: rgb(54, 55, 55); font-size: 16px; line-height: 26px; margin: 0 0 20px 0;">&#8216;We don&#8217;t tell our customers they should eliminate any of their existing tests because it&#8217;s probably inexpensive to keep them, and we don&#8217;t want to be the cause of any outage or emergency. That said, many customers stop investing as much in non-Antithesis tests, and instead try to find ways to use our platform for as much testing as possible.</p><p style="color: rgb(54, 55, 55); font-size: 16px; line-height: 26px; margin: 0 0 20px 0;"><span>&#8216;Some customers have come up with really creative ways to use our platform. For example, who said this tool can </span><em>only</em><span> be used for hunting bugs? It&#8217;s a general platform for looking for </span><em>any</em><span> behavior in software systems. For example it can help answer questions like:</span></p><blockquote style="border-left: 4px solid #FF6B00; margin: 20px 0; padding: 0;"><p style="color: rgb(54, 55, 55); font-size: 16px; line-height: 26px; margin: 0 0 20px 0; margin-left: 20px;"><span>&#8220;Can function A </span><em>ever</em><span> run before function B? Or does this function </span><em>ever</em><span> get called with a negative parameter?&#8221;</span></p></blockquote><p style="color: rgb(54, 55, 55); font-size: 16px; line-height: 26px; margin: 0 0 20px 0;"><span>&#8216;</span><strong>Most of what Antithesis &#8220;replaces&#8221; is human effort of the really annoying, unpleasant kind, </strong><span>like adding logging, then waiting for it to happen again in production. Or designing weird, ad-hoc fault injection systems in end-to-end tests. Or writing a script to run an integration test dozens of times to chase down an intermittent problem that only occurs once every ten runs. Basically, the stuff no programmer enjoys doing.&#8217;</span></p><h2 class="header-anchor-post" style="--highlight-bg: rgba(var(--color-bg-accent-themed-rgb), 0.2); -moz-appearance: optimizelegibility; -moz-osx-font-smoothing: antialiased; -webkit-appearance: optimizelegibility; -webkit-font-smoothing: antialiased; appearance: optimizelegibility; color: rgb(54, 55, 55); font-family: 'SF Pro Display', -apple-system-headline, system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 1.625em; font-weight: bold; line-height: 1.16em; margin: 1em 0 0.625em 0; position: relative;">4. Tech stack</h2><p style="color: rgb(54, 55, 55); font-size: 16px; line-height: 26px; margin: 0 0 20px 0;"><em>What is the tech stack behind Antithesis? DST is hard to do with existing libraries, so which frameworks you might use instead of writing a bespoke one?</em></p><p style="color: rgb(54, 55, 55); font-size: 16px; line-height: 26px; margin: 0 0 20px 0;"><span>&#8216;We have a pretty bad case of &#8220;not-invented here&#8221; syndrome. Basically, compared to most companies, we see a larger cost to adopting lots of third-party dependencies. So we bias towards building tools in house that do </span><em>exactly</em><span> what we need, which means our tech stack is very &#8220;home-grown&#8221;.</span></p><p style="color: rgb(54, 55, 55); font-size: 16px; line-height: 26px; margin: 0 0 20px 0;"><strong>&#8216;Languages</strong><span> we use often:</span></p><ul style="margin-top: 0; padding: 0;"><li style="margin: 8px 0 0 32px; mso-special-format: bullet;"><p style="box-sizing: border-box; color: rgb(54, 55, 55); font-size: 16px; line-height: 26px; margin: 0; margin-bottom: 0; padding-left: 4px;"><a href="https://substack.com/redirect/67438180-5227-4169-a40c-cd4b03f1a784?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel style="color: rgb(54, 55, 55); text-decoration: underline;">C</a><span> and </span><a href="https://substack.com/redirect/6ee40073-14ad-4948-9ae6-729f525f3594?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel style="color: rgb(54, 55, 55); text-decoration: underline;">C++</a><span>: languages with low-level memory manipulation, helpful for high-performance scenarios and necessary for kernel-mode code</span></p></li></ul><ul style="margin-top: 0; padding: 0;"><li style="margin: 8px 0 0 32px; mso-special-format: bullet;"><p style="box-sizing: border-box; color: rgb(54, 55, 55); font-size: 16px; line-height: 26px; margin: 0; margin-bottom: 0; padding-left: 4px;"><a href="https://substack.com/redirect/8678c890-aab9-4ad6-90dc-94e2189c79a7?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel style="color: rgb(54, 55, 55); text-decoration: underline;">Rust</a><span>: a modern programming language emphasizing performance, type safety and concurrency</span></p></li><li style="margin: 8px 0 0 32px; mso-special-format: bullet;"><p style="box-sizing: border-box; color: rgb(54, 55, 55); font-size: 16px; line-height: 26px; margin: 0; margin-bottom: 0; padding-left: 4px;"><a href="https://substack.com/redirect/d140be9e-1b16-49d3-9098-bdc37dc5c0bb?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel style="color: rgb(54, 55, 55); text-decoration: underline;">Typescript</a><span>: a language adding static typing for JavaScript. Popular across backend and frontend domains</span></p></li><li style="margin: 8px 0 0 32px; mso-special-format: bullet;"><p style="box-sizing: border-box; color: rgb(54, 55, 55); font-size: 16px; line-height: 26px; margin: 0; margin-bottom: 0; padding-left: 4px;"><a href="https://substack.com/redirect/2760eb12-5339-465a-9697-e6154f4b4d60?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel style="color: rgb(54, 55, 55); text-decoration: underline;">Nix</a><span>: a language to create derivations (precise descriptions of how contents of existing files are used to derive new files)</span></p></li></ul><p style="color: rgb(54, 55, 55); font-size: 16px; line-height: 26px; margin: 0 0 20px 0;">&#8216;Our major dependencies:</p><ul style="margin-top: 0; padding: 0;"><li style="margin: 8px 0 0 32px; mso-special-format: bullet;"><p style="box-sizing: border-box; color: rgb(54, 55, 55); font-size: 16px; line-height: 26px; margin: 0; margin-bottom: 0; padding-left: 4px;"><a href="https://substack.com/redirect/948e4054-60a7-40a6-a975-ffff1174a64f?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel style="color: rgb(54, 55, 55); text-decoration: underline;">Nix/NixOS</a><span>: a tool for package management and system configuration</span></p></li><li style="margin: 8px 0 0 32px; mso-special-format: bullet;"><p style="box-sizing: border-box; color: rgb(54, 55, 55); font-size: 16px; line-height: 26px; margin: 0; margin-bottom: 0; padding-left: 4px;"><a href="https://substack.com/redirect/b7a098c5-3fdc-428a-863e-b81843a72a93?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel style="color: rgb(54, 55, 55); text-decoration: underline;">BigQuery</a><span>: a managed serverless data warehouse product by Google</span></p></li><li style="margin: 8px 0 0 32px; mso-special-format: bullet;"><p style="box-sizing: border-box; color: rgb(54, 55, 55); font-size: 16px; line-height: 26px; margin: 0; margin-bottom: 0; padding-left: 4px;"><span>Hypervisor: we use a fork/rewrite of the FreeBSD kernel hypervisor, </span><a href="https://substack.com/redirect/47582d0a-e176-44e5-855c-8554a9d1b715?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel style="color: rgb(54, 55, 55); text-decoration: underline;">bhyve</a><span>.</span></p></li></ul><p style="color: rgb(54, 55, 55); font-size: 16px; line-height: 26px; margin: 0 0 20px 0;"><strong>&#8216;Our homegrown stack</strong><span> is surprisingly large!</span></p><ul style="margin-top: 0; padding: 0;"><li style="margin: 8px 0 0 32px; mso-special-format: bullet;"><p style="box-sizing: border-box; color: rgb(54, 55, 55); font-size: 16px; line-height: 26px; margin: 0; margin-bottom: 0; padding-left: 4px;"><strong>Hypervisor</strong><span>: custom-built for our needs; </span><a href="https://substack.com/redirect/590035dd-ea0b-4c8a-b609-69f85cd5e9da?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel style="color: rgb(54, 55, 55); text-decoration: underline;">more details here.</a></p></li><li style="margin: 8px 0 0 32px; mso-special-format: bullet;"><p style="box-sizing: border-box; color: rgb(54, 55, 55); font-size: 16px; line-height: 26px; margin: 0; margin-bottom: 0; padding-left: 4px;"><strong>A fully-reactive browser-based Javascript notebook</strong><span>. It has sophisticated dependency tracking. We currently use it to deliver the multiverse </span><a href="https://substack.com/redirect/3aea2708-a3ef-4acd-9398-9980d78c8947?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel style="color: rgb(54, 55, 55); text-decoration: underline;">debugging experience</a></p></li><li style="margin: 8px 0 0 32px; mso-special-format: bullet;"><p style="box-sizing: border-box; color: rgb(54, 55, 55); font-size: 16px; line-height: 26px; margin: 0; margin-bottom: 0; padding-left: 4px;"><strong>Fuzzer</strong><span>: optimized for </span><a href="https://substack.com/redirect/55634109-55e1-400c-8625-6d5ddf53b3ce?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel style="color: rgb(54, 55, 55); text-decoration: underline;">exploring the state space</a><span> of interactive programs (read </span><a href="https://substack.com/redirect/19310ae5-fc9b-4070-b6ed-8082519e4032?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel style="color: rgb(54, 55, 55); text-decoration: underline;">more about fuzzing</a><span>)</span></p></li><li style="margin: 8px 0 0 32px; mso-special-format: bullet;"><p style="box-sizing: border-box; color: rgb(54, 55, 55); font-size: 16px; line-height: 26px; margin: 0; margin-bottom: 0; padding-left: 4px;"><strong>Fault injector:</strong><span> a testing tool to deliberately introduce failures, errors or problematic conditions</span></p></li><li style="margin: 8px 0 0 32px; mso-special-format: bullet;"><p style="box-sizing: border-box; color: rgb(54, 55, 55); font-size: 16px; line-height: 26px; margin: 0; margin-bottom: 0; padding-left: 4px;"><strong>Binary instrumentation </strong><span>for customer software: inserting additional code (instrumentation code) into a customer&#8217;s compiled program to analyze its behavior during runtime.</span></p></li><li style="margin: 8px 0 0 32px; mso-special-format: bullet;"><p style="box-sizing: border-box; color: rgb(54, 55, 55); font-size: 16px; line-height: 26px; margin: 0; margin-bottom: 0; padding-left: 4px;"><strong>Customizable Linux environment</strong><span>: what customers&#8217; software run in</span></p></li><li style="margin: 8px 0 0 32px; mso-special-format: bullet;"><p style="box-sizing: border-box; color: rgb(54, 55, 55); font-size: 16px; line-height: 26px; margin: 0; margin-bottom: 0; padding-left: 4px;"><strong>Build system: </strong><span>based on </span><a href="https://substack.com/redirect/9b9971a4-e6ca-42d3-9ff9-75afe24caf11?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel style="color: rgb(54, 55, 55); text-decoration: underline;">Nix</a><span>, which glues our systems together</span></p></li><li style="margin: 8px 0 0 32px; mso-special-format: bullet;"><p style="box-sizing: border-box; color: rgb(54, 55, 55); font-size: 16px; line-height: 26px; margin: 0; margin-bottom: 0; padding-left: 4px;"><strong>Infrastructure and security mechanisms</strong><span>, built to ensure we run a </span><a href="https://substack.com/redirect/185648c6-3bb6-4188-a361-b3d507919fdd?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel style="color: rgb(54, 55, 55); text-decoration: underline;">trusted computing base</a></p></li></ul><p style="color: rgb(54, 55, 55); font-size: 16px; line-height: 26px; margin: 0 0 20px 0;">&#8216;Our homegrown stack is huge! One of the coolest things about working at Antithesis as an engineer is that if there&#8217;s any computer science topic you&#8217;re interested in, there&#8217;s a good chance we do it, at least a little.</p><h4 class="header-anchor-post" style="--highlight-bg: rgba(var(--color-bg-accent-themed-rgb), 0.2); -moz-appearance: optimizelegibility; -moz-osx-font-smoothing: antialiased; -webkit-appearance: optimizelegibility; -webkit-font-smoothing: antialiased; appearance: optimizelegibility; color: rgb(54, 55, 55); font-family: 'SF Pro Display', -apple-system-headline, system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 1.125em; font-weight: bold; line-height: 1.16em; margin: 1em 0 0.625em 0; position: relative;">Building a database</h4><p style="color: rgb(54, 55, 55); font-size: 16px; line-height: 26px; margin: 0 0 20px 0;">&#8216;We started using BigQuery very early because the pricing model is unbeatable for a tiny startup with bursty workloads. But the data model did not make much sense for us.&#160;</p><p style="color: rgb(54, 55, 55); font-size: 16px; line-height: 26px; margin: 0 0 20px 0;"><span>&#8216;Our use case is to analyze ordered streams of events: logs, code coverage events, etc. But because we have a deterministic multiverse which can fork, the stream of events form a </span><em>tree</em><span> structure rather than a single linear history! But BigQuery is not well set up to handle trees of events, and neither is any other SQL database.&#160;</span></p><p style="color: rgb(54, 55, 55); font-size: 16px; line-height: 26px; margin: 0 0 20px 0;"><span>&#8216;We managed to putter along for a while with crazy hacks. For instance, we built a new data structure called a &quot;skip tree&quot;, inspired by the </span><a href="https://substack.com/redirect/b3f14bc0-6198-4b15-a82a-13e436852d63?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel style="color: rgb(54, 55, 55); text-decoration: underline;">skip list</a><span> which we implemented in SQL. This data type greatly improved the asymptotic performance of our queries (the performance characteristics at scale). However, we eventually got to the point of regularly crashing BigQuery's </span><a href="https://substack.com/redirect/aeaa2d10-b6f6-4e6d-b893-cdbb1c6c8aab?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel style="color: rgb(54, 55, 55); text-decoration: underline;">planner</a><span>; at which point we knew we had to move to something else.&#160;</span></p><p style="color: rgb(54, 55, 55); font-size: 16px; line-height: 26px; margin: 0 0 20px 0;">&#8216;We evaluated Snowflake, and its Recursive CTE feature, and also evaluated a large number of other SQL and NoSQL databases, but nothing fundamentally fixed the problem.</p><p style="color: rgb(54, 55, 55); font-size: 16px; line-height: 26px; margin: 0 0 20px 0;"><span>&#8216;</span><strong>We were hesitant to build our own database for ages, until a company hackathon</strong><span> where a team tried writing a proof-of-concept analytic database for </span><a href="https://substack.com/redirect/697c805e-6ea6-4433-8561-04a5fa4f211e?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel style="color: rgb(54, 55, 55); text-decoration: underline;">folding</a><span> Javascript functions up and down petabyte-scale trees, thrown together in a week using Amazon </span><a href="https://substack.com/redirect/21dfd471-2aa9-43a0-88e2-5ead16022dc0?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel style="color: rgb(54, 55, 55); text-decoration: underline;">S3</a><span> and </span><a href="https://substack.com/redirect/fed3aa6d-2714-4786-8ac2-6d77f0972355?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel style="color: rgb(54, 55, 55); text-decoration: underline;">Lambda</a><span>. It actually worked!&#160;</span></p><p style="color: rgb(54, 55, 55); font-size: 16px; line-height: 26px; margin: 0 0 20px 0;">&#8216;We're cautious, and a lot of people on our team have built databases before. We know that the hardest part of building a database is not getting started, but towards the end of the project with testing and operationalizing. But we do have this really great technology for testing distributed systems!&#160;</p><p style="color: rgb(54, 55, 55); font-size: 16px; line-height: 26px; margin: 0 0 20px 0;"><span>&#8216;</span><strong>We decided to write a custom database for </strong><em><strong>our</strong></em><strong> needs, 100% tested with Antithesis. </strong><span>We would have no other test plan except for running it with Antithesis! We are now nearing the end of the project, and so far, it&#8217;s going well!</span></p><p style="color: rgb(54, 55, 55); font-size: 16px; line-height: 26px; margin: 0 0 20px 0;">&#8216;If we succeed, it would solve a huge number of production issues with BigQuery, and enable us to launch some amazing new features. Plus, this project gives us the ultimate empathy with customers.&#160;</p><h2 class="header-anchor-post" style="--highlight-bg: rgba(var(--color-bg-accent-themed-rgb), 0.2); -moz-appearance: optimizelegibility; -moz-osx-font-smoothing: antialiased; -webkit-appearance: optimizelegibility; -webkit-font-smoothing: antialiased; appearance: optimizelegibility; color: rgb(54, 55, 55); font-family: 'SF Pro Display', -apple-system-headline, system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 1.625em; font-weight: bold; line-height: 1.16em; margin: 1em 0 0.625em 0; position: relative;">5. Engineering team and culture</h2><p style="color: rgb(54, 55, 55); font-size: 16px; line-height: 26px; margin: 0 0 20px 0; margin-bottom: 0;"><em>Tell us about the engineering team&#8217;s values and practices...</em></p></div></div><div data-testid="paywall" data-component-name="Paywall" class="paywall paywall-white-background" style="-moz-user-select: none; -ms-user-select: none; -webkit-user-select: none; background: rgb(255, 255, 255); border-top: solid 2px #ff6b00; color: rgb(54, 55, 55); cursor: default; font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 16px; line-height: 26px; margin-bottom: 16px; margin-top: 6px; padding: 32px 24px 16px 24px; position: relative; text-align: center; user-select: none;"><h2 class="paywall-title" style="-moz-appearance: optimizelegibility; -moz-osx-font-smoothing: antialiased; -webkit-appearance: optimizelegibility; -webkit-font-smoothing: antialiased; appearance: optimizelegibility; color: inherit !important; font-family: 'SF Pro Display', -apple-system-headline, system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 22px; font-weight: 700; line-height: 33px; margin: 0 auto; margin-bottom: 6px;">Subscribe to The Pragmatic Engineer to unlock the rest.</h2><p class="paywall-subtitle" style="color: inherit !important; font-size: 16px; font-weight: light; line-height: 24px; margin: 0 auto; margin-bottom: 24px;">Become a paying subscriber of The Pragmatic Engineer to get access to this post and other subscriber-only content.</p><div class="paywall-cta" style="font-size: 16px; line-height: 26px; margin-top: 0;"><a href="https://substack.com/redirect/2/eyJlIjoiaHR0cHM6Ly9uZXdzbGV0dGVyLnByYWdtYXRpY2VuZ2luZWVyLmNvbS9zdWJzY3JpYmU_dXRtX3NvdXJjZT1wb3N0JnV0bV9jYW1wYWlnbj1lbWFpbC1jaGVja291dCZuZXh0PWh0dHBzJTNBJTJGJTJGbmV3c2xldHRlci5wcmFnbWF0aWNlbmdpbmVlci5jb20lMkZwJTJGYW50aXRoZXNpcyZyPThvNTRuJnRva2VuPWV5SjFjMlZ5WDJsa0lqb3hORFUyTXpNeE9Td2lhV0YwSWpveE56TXhORE13TnpnNUxDSmxlSEFpT2pFM016UXdNakkzT0Rrc0ltbHpjeUk2SW5CMVlpMDBOVGczTURraUxDSnpkV0lpT2lKamFHVmphMjkxZENKOS5XNkpXZHdIcnV2dzVRNVR0ZGVidjZIZ1N5U0VjRjVqUjVrVXJ6MmZ2cmJNIiwicCI6MTUxNTYwMjc3LCJzIjo0NTg3MDksImYiOnRydWUsInUiOjE0NTYzMzE5LCJpYXQiOjE3MzE0MzA3ODksImV4cCI6MTczNDAyMjc4OSwiaXNzIjoicHViLTAiLCJzdWIiOiJsaW5rLXJlZGlyZWN0In0.KtXWo9mb6K2nLqkkgeR7ALlhWSPG68QDJ5iduHpha9g?simple=true&utm_source=paywall&utm_medium=email&utm_content=151560277&next=https://newsletter.pragmaticengineer.com/p/antithesis" class="button primary subscribe-btn" style="background-color: #FF6B00; border: none; border-radius: 8px; box-sizing: border-box; color: #ffffff !important; cursor: pointer; display: inline-block; font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; font-weight: 400; height: auto; line-height: 1em; margin: 0; opacity: 1; outline: none; padding: 16px 20px; text-align: center; text-decoration: none !important; white-space: nowrap;"><span style="color: #ffffff; text-decoration: none;">Upgrade to paid</span></a></div></div><div class="subscription-benefits" style="font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 16px; line-height: 26px; margin-bottom: 32px;"><h3 style="-moz-appearance: optimizelegibility; -moz-osx-font-smoothing: antialiased; -webkit-appearance: optimizelegibility; -webkit-font-smoothing: antialiased; appearance: optimizelegibility; color: rgb(54, 55, 55); font-family: 'SF Pro Display', -apple-system-headline, system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 16px; font-weight: 600; line-height: 1.16em; margin: 1em 0 0.625em 0; margin-bottom: 26px;">A subscription gets you:</h3><table><tr style="height: 28.8px;"><td class="check" style="color: rgb(27, 196, 125); font-weight: light; padding-right: 4px;"><img src="https://substackcdn.com/image/fetch/w_32,c_scale,f_png,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack.com%2Ficon%2FSimpleCheckmarkIcon%3Fv%3D4%26height%3D32%26fill%3D%2523187F22%26stroke%3D%2523187F22%26strokeWidth%3D3.6" width="16" height="16" style="border: none !important; max-width: 16px; vertical-align: middle;" alt></td><td style="font-weight: light;">Full articles every Tuesday and Thursday</td></tr><tr style="height: 28.8px;"><td class="check" style="color: rgb(27, 196, 125); font-weight: light; padding-right: 4px;"><img src="https://substackcdn.com/image/fetch/w_32,c_scale,f_png,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack.com%2Ficon%2FSimpleCheckmarkIcon%3Fv%3D4%26height%3D32%26fill%3D%2523187F22%26stroke%3D%2523187F22%26strokeWidth%3D3.6" width="16" height="16" style="border: none !important; max-width: 16px; vertical-align: middle;" alt></td><td style="font-weight: light;">Access to resources and templates for engineering managers and engineers</td></tr><tr style="height: 28.8px;"><td class="check" style="color: rgb(27, 196, 125); font-weight: light; padding-right: 4px;"><img src="https://substackcdn.com/image/fetch/w_32,c_scale,f_png,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack.com%2Ficon%2FSimpleCheckmarkIcon%3Fv%3D4%26height%3D32%26fill%3D%2523187F22%26stroke%3D%2523187F22%26strokeWidth%3D3.6" width="16" height="16" style="border: none !important; max-width: 16px; vertical-align: middle;" alt></td><td style="font-weight: light;">Access to the complete archive, see all comments and comment on articles</td></tr></table></div><table role="presentation" width="100%" border="0" cellspacing="0" cellpadding="0" class="email-ufi-2-bottom" style="border-bottom: 1px solid rgb(0, 0, 0, .1); border-top: 1px solid rgb(0, 0, 0, .1); min-width: 100%;"><tr height="16"><td height="16" style="font-size:0px;line-height:0;">&#160;</td></tr><tr><td><table role="presentation" width="100%" border="0" cellspacing="0" cellpadding="0"><tr><td><table role="presentation" width="auto" border="0" cellspacing="0" cellpadding="0" style="margin:0 auto;"><tr><td style="vertical-align:middle;"><table role="presentation" width="auto" border="0" cellspacing="0" cellpadding="0"><tr><td align="center"><a href="https://substack.com/app-link/post?publication_id=458709&post_id=151560277&utm_source=substack&isFreemail=true&submitLike=true&token=eyJ1c2VyX2lkIjoxNDU2MzMxOSwicG9zdF9pZCI6MTUxNTYwMjc3LCJyZWFjdGlvbiI6IuKdpCIsImlhdCI6MTczMTQzMDc4OSwiZXhwIjoxNzM0MDIyNzg5LCJpc3MiOiJwdWItNDU4NzA5Iiwic3ViIjoicmVhY3Rpb24ifQ.yE3Fb67iCG0oWYWKrd47vjE2XXmCcND2phXWJ6jgVSI&utm_medium=email&utm_campaign=email-reaction&r=8o54n" class="email-button-outline" style="border: 1px solid rgb(0, 0, 0, .1); border-radius: 9999px; color: rgb(119, 119, 119); display: inline-block; font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 12px; font-weight: 500; line-height: 12px; padding: 9px 14px; text-decoration: none; text-transform: uppercase;"><img src="https://substackcdn.com/image/fetch/w_36,c_scale,f_png,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack.com%2Ficon%2FLucideHeart%3Fv%3D4%26height%3D36%26fill%3Dnone%26stroke%3D%2523808080%26strokeWidth%3D2" width="18" height="18" style="border: none !important; margin-right: 8px; max-width: 18px; min-height: 18px; min-width: 18px; vertical-align: middle;" alt class="icon"><span class="email-button-text" style="vertical-align: middle;">Like</span></a></td></tr></table></td><td width="8" style="min-width: 8px"></td><td style="vertical-align:middle;"><table role="presentation" width="auto" border="0" cellspacing="0" cellpadding="0"><tr><td align="center"><a href="https://substack.com/app-link/post?publication_id=458709&post_id=151560277&utm_source=substack&utm_medium=email&isFreemail=true&comments=true&token=eyJ1c2VyX2lkIjoxNDU2MzMxOSwicG9zdF9pZCI6MTUxNTYwMjc3LCJpYXQiOjE3MzE0MzA3ODksImV4cCI6MTczNDAyMjc4OSwiaXNzIjoicHViLTQ1ODcwOSIsInN1YiI6InBvc3QtcmVhY3Rpb24ifQ.BjMDDXiNnxU_Pup_BH1P3VgI9fRxlvZmhMWdQ4hp7xc&r=8o54n&utm_campaign=email-half-magic-comments&action=post-comment&utm_source=substack&utm_medium=email" class="email-button-outline" style="border: 1px solid rgb(0, 0, 0, .1); border-radius: 9999px; color: rgb(119, 119, 119); display: inline-block; font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 12px; font-weight: 500; line-height: 12px; padding: 9px 14px; text-decoration: none; text-transform: uppercase;"><img src="https://substackcdn.com/image/fetch/w_36,c_scale,f_png,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack.com%2Ficon%2FLucideComments%3Fv%3D4%26height%3D36%26fill%3Dnone%26stroke%3D%2523808080%26strokeWidth%3D2" width="18" height="18" style="border: none !important; margin-right: 8px; max-width: 18px; min-height: 18px; min-width: 18px; vertical-align: middle;" alt class="icon"><span class="email-button-text" style="vertical-align: middle;">Comment</span></a></td></tr></table></td><td width="8" style="min-width: 8px"></td><td style="vertical-align:middle;"><table role="presentation" width="auto" border="0" cellspacing="0" cellpadding="0"><tr><td align="center"><a href="https://substack.com/redirect/2/eyJlIjoiaHR0cHM6Ly9vcGVuLnN1YnN0YWNrLmNvbS9wdWIvcHJhZ21hdGljZW5naW5lZXIvcC9hbnRpdGhlc2lzP3V0bV9zb3VyY2U9c3Vic3RhY2smdXRtX21lZGl1bT1lbWFpbCZ1dG1fY2FtcGFpZ249ZW1haWwtcmVzdGFjay1jb21tZW50JmFjdGlvbj1yZXN0YWNrLWNvbW1lbnQmcj04bzU0biZ0b2tlbj1leUoxYzJWeVgybGtJam94TkRVMk16TXhPU3dpY0c5emRGOXBaQ0k2TVRVeE5UWXdNamMzTENKcFlYUWlPakUzTXpFME16QTNPRGtzSW1WNGNDSTZNVGN6TkRBeU1qYzRPU3dpYVhOeklqb2ljSFZpTFRRMU9EY3dPU0lzSW5OMVlpSTZJbkJ2YzNRdGNtVmhZM1JwYjI0aWZRLkJqTUREWGlObnhVX1B1cF9CSDFQM1ZnSTlmUnhsdlptaE1XZFE0aHA3eGMiLCJwIjoxNTE1NjAyNzcsInMiOjQ1ODcwOSwiZiI6dHJ1ZSwidSI6MTQ1NjMzMTksImlhdCI6MTczMTQzMDc4OSwiZXhwIjoxNzM0MDIyNzg5LCJpc3MiOiJwdWItMCIsInN1YiI6ImxpbmstcmVkaXJlY3QifQ.pICJEoZpRrUqGMXyWyNVL1hXW9uB8kk0DTvU5Z-dS8w?&utm_source=substack&utm_medium=email" class="email-button-outline" style="border: 1px solid rgb(0, 0, 0, .1); border-radius: 9999px; color: rgb(119, 119, 119); display: inline-block; font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 12px; font-weight: 500; line-height: 12px; padding: 9px 14px; text-decoration: none; text-transform: uppercase;"><img src="https://substackcdn.com/image/fetch/w_36,c_scale,f_png,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack.com%2Ficon%2FNoteForwardIcon%3Fv%3D4%26height%3D36%26fill%3Dnone%26stroke%3D%2523808080%26strokeWidth%3D2" width="18" height="18" style="border: none !important; margin-right: 8px; max-width: 18px; min-height: 18px; min-width: 18px; vertical-align: middle;" alt class="icon"><span class="email-button-text" style="vertical-align: middle;">Restack</span></a></td></tr></table></td></tr></table></td><td align="right"><table role="presentation" width="auto" border="0" cellspacing="0" cellpadding="0"><tr></tr></table></td></tr></table></td></tr><tr height="16"><td height="16" style="font-size:0px;line-height:0;">&#160;</td></tr></table><div class="footer _footer_11ym1_1" style="color: rgb(119, 119, 119); font-size: 16px; line-height: 26px; padding: 24px 0; text-align: center;"><div style="font-size: 16px; line-height: 26px; padding-bottom: 24px;"><p class="pencraft pc-reset _color-secondary_q8zsn_169 _size-12_q8zsn_35 _reset_q8zsn_1 small _meta_11ym1_14" style="color: rgb(119, 119, 119); font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 12px; line-height: 16px; list-style: none; margin: 0; padding-bottom: 0; text-decoration: unset;">&#169; 2024 <span>Gergely Orosz</span><br>548 Market Street PMB 72296, San Francisco, CA 94104 <br><a href="https://substack.com/redirect/2/eyJlIjoiaHR0cHM6Ly9uZXdzbGV0dGVyLnByYWdtYXRpY2VuZ2luZWVyLmNvbS9hY3Rpb24vZGlzYWJsZV9lbWFpbD90b2tlbj1leUoxYzJWeVgybGtJam94TkRVMk16TXhPU3dpY0c5emRGOXBaQ0k2TVRVeE5UWXdNamMzTENKcFlYUWlPakUzTXpFME16QTNPRGtzSW1WNGNDSTZNVGMyTWprMk5qYzRPU3dpYVhOeklqb2ljSFZpTFRRMU9EY3dPU0lzSW5OMVlpSTZJbVJwYzJGaWJHVmZaVzFoYVd3aWZRLkdaWG9fbWZxUndvY015aFdOb1ppallIVklHWDUwQjFqUllZRFJ6UHFqU3ciLCJwIjoxNTE1NjAyNzcsInMiOjQ1ODcwOSwiZiI6dHJ1ZSwidSI6MTQ1NjMzMTksImlhdCI6MTczMTQzMDc4OSwiZXhwIjoxNzM0MDIyNzg5LCJpc3MiOiJwdWItMCIsInN1YiI6ImxpbmstcmVkaXJlY3QifQ.j6JHnOZYtIgwFoy8RMNmkgCqpajkmtPIciyk1FYscYI?" style="color: rgb(119, 119, 119); text-decoration: underline;"><span style="color: rgb(119, 119, 119); text-decoration: underline;">Unsubscribe</span></a></p></div><p class="_footerSection_11ym1_5 small powered-by-substack" style="color: rgb(119, 119, 119); font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 12px; line-height: 20px; margin: 0; margin-top: 0; padding: 0 24px; padding-bottom: 0;"><a href="https://substack.com/redirect/2/eyJlIjoiaHR0cHM6Ly9zdWJzdGFjay5jb20vc2lnbnVwP3V0bV9zb3VyY2U9c3Vic3RhY2smdXRtX21lZGl1bT1lbWFpbCZ1dG1fY29udGVudD1mb290ZXImdXRtX2NhbXBhaWduPWF1dG9maWxsZWQtZm9vdGVyJmZyZWVTaWdudXBFbWFpbD1pc2hhbi5tYWlsQGdtYWlsLmNvbSZyPThvNTRuIiwicCI6MTUxNTYwMjc3LCJzIjo0NTg3MDksImYiOnRydWUsInUiOjE0NTYzMzE5LCJpYXQiOjE3MzE0MzA3ODksImV4cCI6MTczNDAyMjc4OSwiaXNzIjoicHViLTAiLCJzdWIiOiJsaW5rLXJlZGlyZWN0In0.owKbD9NBtXZ838nuoOspQKVvft8xGPQQ222CsZMLg5Q?" style="color: rgb(119, 119, 119); display: inline-block; margin: 0 4px; text-decoration: none;"><img src="https://substackcdn.com/image/fetch/w_270,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack.com%2Fimg%2Femail%2Fpublish-button%402x.png" srcset="https://substackcdn.com/image/fetch/w_135,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack.com%2Fimg%2Femail%2Fpublish-button.png, https://substackcdn.com/image/fetch/w_270,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack.com%2Fimg%2Femail%2Fpublish-button%402x.png 2x, https://substackcdn.com/image/fetch/w_405,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack.com%2Fimg%2Femail%2Fpublish-button%403x.png 3x" width="135" alt="Start writing" height="40" style="border: none !important; max-width: 550px; vertical-align: middle;"></a></p></div></div></td><td></td></tr></table><img src="https://eotrx.substackcdn.com/open?token=eyJtIjoiPDIwMjQxMTEyMTY1OTA0LjMuMjIxODRmOTdlZDFkMTg5ZEBtZy1kMS5zdWJzdGFjay5jb20-IiwidSI6MTQ1NjMzMTksInIiOiJpc2hhbi5tYWlsQGdtYWlsLmNvbSIsImQiOiJtZy1kMS5zdWJzdGFjay5jb20iLCJwIjoxNTE1NjAyNzcsInQiOiJuZXdzbGV0dGVyIiwiYSI6Im9ubHlfcGFpZCIsInMiOjQ1ODcwOSwiYyI6InBvc3QiLCJmIjp0cnVlLCJwb3NpdGlvbiI6ImJvdHRvbSIsImlhdCI6MTczMTQzMDc4OSwiZXhwIjoxNzM0MDIyNzg5LCJpc3MiOiJwdWItMCIsInN1YiI6ImVvIn0.J_XZqy2blcGJ9h128UjIx4-uU2v049mcuLP4Q-sIBAQ" alt="" width="1" height="1" border="0" style="height:1px !important;width:1px !important;border-width:0 !important;margin-top:0 !important;margin-bottom:0 !important;margin-right:0 !important;margin-left:0 !important;padding-top:0 !important;padding-bottom:0 !important;padding-right:0 !important;padding-left:0 !important;"/><img width="1px" height="1px" alt="" src="https://email.mg-d1.substack.com/o/eJxM0M2OrCAQBeCnaXbXUBQqLngWU0K1Ta6A4Wcmvv3E7lnMqpJTycmX46jxnstlz1yb8BaXTRo3CbYwI2iUs1kERwrHunPiQo39Su3PdzQoXpYNoESnlAMPrDwDGok4b0qiwieJYJVUGgAUTOMi9YCDUmD0c5nZgwez-IeWcf_nYah9q43c_8HlKEJdn4XfBNtKZ3FLV-o-cHJsczqu9aTgP3nwFkYYJ6nm-ZO062Sb-Lse3BoXcfZtdTnGnkK7Vk60Hex_m_t2BEct5HQX6dHMchHFhvqiNNyCh5b7fd-y2jefI4Vkz0J7pBYcpz0k5iLaZ9BeubxNepwQYRFfVv0EAAD__544ekU"></body></html>

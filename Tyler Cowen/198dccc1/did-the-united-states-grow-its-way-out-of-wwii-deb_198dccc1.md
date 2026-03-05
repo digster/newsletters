@@ -1,0 +1,11 @@
+---
+subject: "Did the United States grow its way out of WWII debt?"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2025-08-24 15:56:57
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+Not as much as you might think:
+ABSTRACT: The fall in the U.S. public debt/GDP ratio from 106% in 1946 to 23% in 1974 is often attributed to high rates of economic growth. This paper examines the roles of three other factors: primary budget surpluses, surprise inflation, and pegged interest rates before the Fed-Treasury Accord of 1951. Our central result is a simulation of the path that the debt/GDP ratio would have followed with primary budget balance and without the distortions in real interest rates caused by surprise inflation and the pre-Accord peg. In this counterfactual, debt/GDP declines only to 74% in 1974, not 23% as in actual history. Moreover, the ratio starts rising again in 1980 and in 2022 it is 84%. These findings imply that, over the last 76 years, only a small amount of debt reduction has been achieved through growth rates that exceed undistorted interest rates.
+That is from [a recent paper](http://marginalrevolution.com?action=user_content_redirect&uuid=e42a207331749e427714f859e14d3ab876b1d09ffa22ded2bf4b3e60035f5032&blog_id=42693868&post_id=91358&user_id=262258391&subs_id=225460721&signature=7e6332bbd7ee903d13206be980380344&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly9tZWJmYWJlci5jb20vd3AtY29udGVudC91cGxvYWRzLzIwMjUvMDQvd3BpZWEyMDI0MDA1LXByaW50LXBkZi0xLnBkZj91dG1fc291cmNlPXRoZWlkZWFmYXJtLmNvbSZ1dG1fbWVkaXVtPW5ld3NsZXR0ZXImdXRtX2NhbXBhaWduPWJvbmRzLWJhYnkmX2JobGlkPWIwNThmMGI0N2Q3OGUwYjU3MmMwZjdjZmUwMWM2NDYzMTdmYjkzODA&email_id=07094a4992d627670ca3fbe74115c106) by Julien Acalin and Laurence Ball. Via the excellent [Samir Varma](http://marginalrevolution.com?action=user_content_redirect&uuid=1e99f272263fa1e336d1834acc56e6fdd7d6fee7de0d3a5cc96b19e0a01d130e&blog_id=42693868&post_id=91358&user_id=262258391&subs_id=225460721&signature=4c71a6a172caa242ac27615c7c51c4b3&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly94LmNvbS9zYW1pcnZhcm1h&email_id=07094a4992d627670ca3fbe74115c106).

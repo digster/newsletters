@@ -1,0 +1,32 @@
+---
+subject: "Learn to code Python apps that run natively on PC or Mac [Free 5-hour course]"
+from: "Quincy Larson <quincy@freecodecamp.org>"
+to: ""
+date: 2022-12-09 19:22:58
+labels: ["CATEGORY_PERSONAL", "IMPORTANT", "INBOX", "Quincy"]
+label_ids: ["CATEGORY_PERSONAL", "IMPORTANT", "INBOX", "Label_7697778124671848699"]
+---
+Here are this week's five links that are worth your time:
+
+1. This freeCodeCamp course will teach you how to code your own Python apps that run directly on Windows, Mac, or Linux – not just in a browser. You'll learn powerful Python libraries like Qt and PySide6. This way you can build apps that run natively on computers, and leverage their full processing power. (5 hour YouTube course): https://www.freecodecamp.org/news/python-gui-development-using-pyside6-and-qt/
+
+2. Swift is a powerful programming language developed by Apple. A lot of developers who build apps for either iOS and MacOS prefer to code in Swift. In this in-depth course, a lead iOS developer will teach you Swift development fundamentals. You'll learn about variables, operators, error handling, and even asynchronous programming. (7 hour YouTube course): https://www.freecodecamp.org/news/learn-the-swift-programming-language/
+
+3. If you're preparing for a coding interview as part of your developer job search, you're going to want to read this. Dijkstra's Algorithm is an iconic graph algorithm with many uses in computer science. You can use it to find the shortest path between two nodes in a graph, or the shortest path from one fixed node to the rest of the nodes in a graph. This detailed explanation – with diagrams and a pseudocode example – will help you appreciate its true brilliance. (12 minute read): https://www.freecodecamp.org/news/dijkstras-algorithm-explained-with-a-pseudocode-example/
+
+4. If you want to move beyond the basics with React, this intermediate JavaScript tutorial will teach you about Separation of Concerns. You'll learn about React Container Components, Presentational Components, and how to make your code easier to maintain over time. (15 minute read): https://www.freecodecamp.org/news/separation-of-concerns-react-container-and-presentational-components/
+
+5. 2022 was a massive year for the global freeCodeCamp community. Thousands of people volunteered to help make our charity and our learning resources better. I'm thrilled to announce this year's Top Contributors. These 696 friendly people have earned this distinction through going above and beyond in helping fellow learners. Whether they answered questions on the community forum, translated tutorials, contributed to our open source codebases, or designed new courses – we deeply appreciate their efforts. (10 minute read): https://www.freecodecamp.org/news/freecodecamp-2022-top-contributors/
+
+Even if you haven't had time to get involved in the freeCodeCamp community as a volunteer, you can still join the 8,413 kind people who directly support our charity's mission each month. If you have the means, we will put your donations to good use creating even more learning resources: https://www.freecodecamp.org/donate
+
+Quote of the Week: “A most important, but also most elusive, aspect of any tool is its influence on the habits of those who train themselves in its use. If the tool is a programming language, this influence is – whether we like it or not – an influence on our thinking habits.” — Edsger Dijkstra, Mathematician and Computer Scientist
+
+Happy coding.
+
+-- Quincy Larson
+
+Teacher at https://www.freecodecamp.org
+I share useful things on Twitter at https://www.twitter.com/ossia
+
+If these emails aren't worth your time, you can turn them off: https://www.freecodecamp.org/ue/eZV2T3gHC7IGcwcpYPG64

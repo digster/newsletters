@@ -1,0 +1,38 @@
+---
+subject: "Here are 450 free online computer science courses you can start in August"
+from: "Quincy Larson <quincy@freecodecamp.org>"
+to: ""
+date: 2017-08-03 17:26:33
+labels: ["CATEGORY_PERSONAL", "INBOX", "Quincy"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_7697778124671848699"]
+---
+Here are this week's three links that are worth your time:
+
+1. Here are 450 free online programming and computer science courses you can start in August (browsable list): https://fcc.im/2unPHZJ
+
+2. An MIT-trained software engineer-turned-recruiter talks about how to interview your interviewers when applying for a developer job (5 minute read): https://fcc.im/2u4nvfb
+
+3. Cody shows you how to solve Reddit's "Talking Clock" problem step-by-step on a whiteboard, then code a solution in JavaScript (15 minute watch): https://www.youtube.com/watch?v=bcPahhyYEIk
+
+Bonus: How freeCodeCamp helped Adham beat depression and get his dream job (10 minute read): https://fcc.im/2vw6ZJc
+
+
+
+
+If you get value out of these emails, consider supporting our nonprofit: https://freecodecamp.org/donate
+
+
+
+Happy coding!
+
+- Quincy Larson
+
+Teacher at https://www.freeCodeCamp.org
+
+
+
+
+
+If this email bothers you, you can manage your email settings here: https://www.freecodecamp.org/settings 
+
+Or you can one-click unsubscribe: https://www.freecodecamp.org/unsubscribe/ishan.mail@gmail.com

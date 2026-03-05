@@ -1,0 +1,12 @@
+---
+subject: "That was then, this is now"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2025-05-03 04:39:24
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+In late 2022, Daisy Rodriguez, a U.S. citizen and owner of a small restaurant in the town of Sweetwater, Tennessee, said goodbye to her husband for what she thought would be a short stay in Guatemala. He had recently received approval to attend an immigration interview that would grant him a green card to live in the United States. Little did Rodriguez know her husband would not be returning to the U.S. Upon arriving at the consulate in Guatemala, her husband, Santos Maudilio Saucedo Rivas, was accused by U.S. consular officials of membership in a gang based on a tattooed set of initials on his body.
+The officials denied Rivas a green card, separating him from his American wife and the restaurant they ran together, while cutting him off from the U.S., the country where he had spent nearly his entire adult life.
+Rivas’s case is now the subject of a lawsuit filed today by the American Immigration Council and Consular Accountability Project, which is suing the U.S. State Department in the Eastern District of Tennessee. The lawsuit alleges that U.S. officials failed to review evidence showing that Rivas was never part of the “Barrio Azteca” gang and that the government violated the U.S. Constitution by denying him a green card after having him travel to Guatemala for the interview.
+Here is [the full story](http://marginalrevolution.com?action=user_content_redirect&uuid=84f785ec6f947b66ff9c60cce5084f9f4a0b0f9d4f0bde44f567dc1b65c905df&blog_id=42693868&post_id=90568&user_id=262258391&subs_id=225460721&signature=2f674be3fa8a402bf499deb55a39e6de&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly93d3cuZHJvcHNpdGVuZXdzLmNvbS9wL3Rlbm5lc3NlZS1tYW4tc3RyYW5kZWQtZ3VhdGVtYWxhLWdyZWVuLWNhcmQtdGF0dG9v&email_id=bc06e11b9fb38a830d55977a218d40e4). Precedent matters. I had never heard of this 2022 case until I came across it randomly. One lesson is simply that U.S. treatment of migrants has been unfair for a long time.

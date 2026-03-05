@@ -1,0 +1,13 @@
+---
+subject: "Those new (old) service sector jobs, chimney sweep edition"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2026-01-18 22:44:27
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+Now, many sweeps, including those in the Firkins family business, say the trade has been experiencing an improbable resurgence.
+According to the National Association of Chimney Sweeps, demand has been bolstered by
+[high energy prices], the popularity of wood-burning stoves and an international climate that has prompted warnings that electricity supplies could be[vulnerable to attack by hostile states like Russia].“People are thinking, ‘Let’s have a backup, let’s have a fire, let’s have a stove in case the electricity goes off,’” said Martin Glynn, the president of the chimney sweeps association, whose membership has risen to about 750 today, from about 590 in 2021. “If you have the ability to burn logs or smokeless fuel, you can keep cooking and have some heating. There is a big increase in demand and people are reopening their fireplaces.”
+On a recent day, he said, three people had booked training courses. The association’s membership now includes 40 female sweeps. “It’s alive and kicking,” he said of the group, adding: “We don’t send little boys up chimneys any more, instead it’s CCTV and smoke testing equipment. It’s almost like being a chimney technician.”
+Here is [more from the NYT](http://marginalrevolution.com?action=user_content_redirect&uuid=2d30f30a286951ae48d0c380e0c1fb9f45d07dd8b5172a69c67d1ae95b056a75&blog_id=42693868&post_id=92267&user_id=262258391&subs_id=225460721&signature=3824395b637fc9be9b27d1fb5bf77b1d&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly93d3cubnl0aW1lcy5jb20vMjAyNi8wMS8xOC93b3JsZC9ldXJvcGUvbG9uZG9uLWNoaW1uZXktc3dlZXBzLWVuZXJneS1wcmljZXMuaHRtbD9zbWlkPW55dGNvcmUtaW9zLXNoYXJl&email_id=70d74459a140821e7caa0d3163b43f6a), via [Mike Rosenwald](http://marginalrevolution.com?action=user_content_redirect&uuid=a7ff2ba88a7746c7c010a04d4d31b308afa14b3f0fa371fab273849cb24b14ee&blog_id=42693868&post_id=92267&user_id=262258391&subs_id=225460721&signature=55a7e7382e648cc9e1c0d69d8fc022c8&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly94LmNvbS9taWtlcm9zZW53YWxk&email_id=70d74459a140821e7caa0d3163b43f6a).

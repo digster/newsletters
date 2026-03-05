@@ -1,0 +1,23 @@
+---
+subject: "Lenskart gazes on rural India: a 20/20 aim or a rose-tinted one?"
+from: "The Ken <info@the-ken.com>"
+to: ""
+date: 2019-07-17 02:36:10
+labels: ["CATEGORY_PERSONAL", "INBOX", "The Ken"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_8244464457792971031"]
+---
+Good Morning Ishan,
+"India is the blind capital of the world," Lenskart proclaims on its website. It says India is home to 50% of blind people globally and a third of its population needs glasses but doesn't have access. That's due to, it says, an acute shortage of optometrists and eye donations for the treatment of corneal blindness.
+Lenskart's vision (pardon the pun): "providing high-quality eyewear to millions of Indians at affordable prices, giving free eye check-ups at home and by extending our services to the remote corners of India."
+Since it started out in 2010, Lenskart's affordable eyewear, of course, has been a draw. But what grabbed interest was the technology that allowed one to virtually try on eyewear. That sort of buzz helped Lenskart recently open its 500th store, even though the bulk of revenue comes from online sales. Now, after making its mark in the metros, it is targeting the "remote corners."
+As a start, Lenskart is hiring and training rookies in optometry so they can do eye-checkups at home and ultimately sell eyewear in rural markets. But these are baby steps. To make a bigger dent, disruptive technology is once again Lenskart's weapon of choice.
+It already has the virtual try-on technology, powered by the tech of US-based Ditto in which it took a stake in 2017. It has also taken a stake a company that has the potential to do away with the hassle of optometry training. Israel's 6over6's tech allows one to measure their eye power themselves.
+That could be “super disruptive”, says the CEO of an eye-hospital chain that works in rural markets. But this market has its fair share of challenges. A lack of trained optometrists, the rural public’s apathy towards eye care and, as always, affordability.
+"Our mission is to give vision to India,” says co-founder Peyush Bansal. A 20/20 perspective or a rose-tinted aim? That's the story by Durga and Ranjan today: [https://the-ken.com/story/lenskart-rural-india/](http://link.the-ken.com/wf/click?upn=HQSq6eeRV1xAVaGuFOahuNCZVVXPeP-2FJpSqxhvIUDrn4DPll3b7pVN4wwDAXhXnQ5LhxkxBLCA-2Bt0tOcaQkXyAydrPgmJp4MpJmrM-2B2-2FAUKfrGxhsCPVzCDURaxnl-2B8BeOKmY5gKtVOI9x28KOJXOBTphWwMpWcptOpwklFydTc-3D_S4jLOsNx-2Fv6Jev2nvow8b7P9pBCWGd8KNZfb200gkZLQNlXQHio0noZzXtsWoloZmPWeyZsh7a4QCV9ufwCUKi00jlBT0uEdvwYDMuVuqcOYEl-2BWPOFj3kDu5dOBGgthBxaKgp-2FKSkAJvmqBBCmJe2Ygbw37KpsXPIu4CGP0LB3tUOukc9CKFoZ-2F2g0qMiDxCys3M3F4fOtXvCUKGpco34rx7tZWIZr6-2BwopBUgt1pmSyVnbnP1dBtHyeDnZ6VRrezrqs90bcVZFgEK5tcWL0rkClAtENVrYVz1G-2BTbii1kAZdAN-2BScIGGBEBej9gNQbE83toQX-2FQgpkxRWmXhBQwmO9pn6ATCV-2BcEKU-2F1x7bsNbzAtwp80cYOxHOsknVXm7kCL1RfyQ7oaEzU-2FiUuN4RNAue08SEUlXVABhnooLoJt9l8dCXv2-2B9fHXud2QN8hb) (13-minute read)
+|
+What you just read is the personalised daily introduction to The Ken's story. Written by a different person each day. Often insightful, sometimes witty, and very rarely boring. Someone sent this to you? [Sign up for free](https://the-ken.com/?modal=register). Don't like these? You can [unsubscribe](http://link.the-ken.com/asm/unsubscribe/?user_id=2349339&data=unls79o3VrwRboKoFsSDmXy2gHNcYv8I_vNRCbHHFrgK1PdnoBJpy-AaMf7Ip2eJ-qVfcGi-BaiTutt_6VfESihDkFQLBLn1rsR63PVsHWhBRggjatNeliZ5HMQOeyIwPJMhgJSpWVy6qSDnyWx7SwIcwJzRXgUnfCaKEB4DAGbXa9kuSNh7A4U9OOR4_aRlg8G3zNwuhjxWy1LnCToS-acU8CVTjwFHPMs0IgfRvURvBZFRZjtUT-lrhcbdjqFxYHq2HrUgCbmSzVawm7fcyuaCzmv8AqWxF93o11GI_Ly6s8N8PJub3s4V7RRvXifq19NOGe2x0KHrA48FdBl5tXv1jl5V39D64-Wk-84VyTxLNuUrxBlStIPZze_RRSW7PVxJOW9MCPwik-e8PlkE3jS40n9Yl0Tk0PtdlWDsIoc46KTLzE1WZg44gZxxOvPeOsX5RPF7LTIRZSmCO_gEg3mRYBBDfa6j6OopCz7Cm8S9DXsRWvaMS8L5b9P51pGAmYL7QNJZZ_J_xSHx3Pyfl7PmciW8uHPzeBD2Er-lGLc=). Want to manage your emails? Click [here](http://link.the-ken.com/asm/?user_id=2349339&data=G0A3kv9ccsJH0m4IyfoAOuj3MYQ7PeTAydt6np7G5oYnfl-BrevxnfrvpIdn2niJiTOe5emxizJikldt3B8GEySzrbQRxVuGnsFHHu5XdAIO-qB7zuTj2bjSEk-HpdAK682sjaj6-V1VRBuFdHnaEAyO1_8S_9OilzndaHwC3MWtShwYnPsFDumvYAohcp6Enz6wjnLbBsWFNRrHFrhUB3dYGxXOqYI4cTbO4aTYC29pNB1etfBqJjxSf6JhPldj7QkuHOyf2TMYRuzGMlcVj-4s1hH3DZcKXqNhHpS3SO-GEQpZvdab4yS_Drb_VGuvpUYPycM4zQUMuB9947A5LeQZqt2vxuOkltxK71DZ7sXk6oMmhp8eSTdop7HWfbSEIxorYn2TY-JUiUrnNFaqVNh88lGNJxBvwkIJUYztD0yr-tnwH_TimSr3gy4OgGTXr9cDJdfPBeq8rapYhXgM7oXWqJ4lYpoPXpYam4GlzcK7CXol_FKvVkD05iUMMhyJFjv0JTEyOinJw1zFUXZSCQ==).
+|
+|
+|
+|
+|

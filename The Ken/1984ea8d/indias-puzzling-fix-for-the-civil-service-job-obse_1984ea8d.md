@@ -1,0 +1,40 @@
+---
+subject: "India’s puzzling fix for the civil-service-job obsession"
+from: "The Ken <info@the-ken.com>"
+to: ""
+date: 2025-07-28 01:32:25
+labels: ["CATEGORY_PERSONAL", "INBOX", "The Ken", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_8244464457792971031", "UNREAD"]
+---
+|
+|
+Make India Competitive Again
+Mon, 28 Jul 25
+What India is doing, will do, and should do—to not just survive but thrive in the chaos unleashed by Trump.
+Good Morning Ishan,
+Do you think Agastya Sen, the pot-smoking, Marcus Aurelius-reading protagonist of English, August, would have even considered a career as a civil servant now? Not a chance. To his kind—Sen is the son of a mandarin-turned-state governor and he has a Yale-alumnus friend—working for the government is now as unimaginable as being part of a nonprofit focused on rural sanitation.
+Even 20 years ago, when I was in college, a former bureaucrat asked why we should spend years trying to pass the notoriously hard civil-service exams when we could work just as hard to make it into an Indian Institute of Management. We would make more money than he could ever dream of, and, more importantly, we wouldn’t be doing politicians’ bidding.
+But implicit in that argument is privilege far beyond the vast majority of India’s reach. Most desperately want a job. Any job. India’s official unemployment rate in June is 5.6%, but to many experts, the number could well be imaginary. Seventeen of the 50 economists polled by news agency [Reuters](https://www.reuters.com/world/india/official-india-jobless-data-is-not-accurate-say-top-independent-economists-2025-07-22/) pegged the jobless rate at between 7% and 35%.
+“The whole thing to me is really throwing dust in your eyes. You say this is the unemployment rate, the growth rate—quite often, they don’t make much sense. We have a massive employment problem and that is not reflected in the data,” said Pranab Bardhan, professor emeritus of economics at the University of California, Berkeley.
+“Most Indian workers are underemployed. If you are able-bodied and you did not work for any time, not even one hour in the last six months, unless you are rich, how did you feed yourself? So you scrounge around and do something. And then you are employed. Now what does that employment mean?” asked Bardhan.
+So it should surprise no one that the civil services, which include 20 streams, including local administration, policing, diplomacy, and revenue, are still coveted. In fact, too coveted.
+In the decade up to FY23, the latest year for which data is available, the number of applicants for the preliminary exam more than doubled, to 1.1 million. But the number of applicants fighting for each vacancy almost tripled.
+The surge is startling, especially when the ranks of new college graduates only expanded 40% in roughly the same period.
+The Narendra Modi administration knows it can do nothing to dissuade the hordes of candidates. Many think, and rightly so, that being a public servant is their best shot at upward social and economic mobility. So the central government wants to give the applicants something more to look forward to than these few hundred jobs every year.
+Enter yet another state scheme with a tortured acronym: Pratibha Setu, or Professional Resource And Talent Integration—Bridge for Hiring Aspirants. With this, the Union Public Service Commission (UPSC), which conducts the Government of India’s civil- and defence-service exams, wants other arms of the government and even private companies to hire the unsuccessful candidates. (The civil services account for every second UPSC applicant.)
+The UPSC conducts 10 regular examinations every year and recommends some 6,400 successful candidates for appointments in various services; but approximately 26,000 candidates, who have already demonstrated their proficiency by clearing the rigorous written examinations, are declared not successful at the end of the process…
+While this scheme was launched in 2018 with a view to provide employment opportunities to these talented young people in government organisations and Public Sector Undertakings, there has been only marginal success in placing these candidates in a handful of PSU and government… The only way to expand this was to cast the net wider.
+UPSC opens window for those who don’t make final civil services cut, [The Indian Express](https://indianexpress.com/article/business/upsc-opens-window-for-those-who-dont-make-final-civil-services-cut-posts-details-for-private-jobs-10133720/)
+It’s odd that the government thinks private firms can find promising recruits among these aspirants that they can’t find elsewhere. Sure, the candidates are put through the wringer, but do they necessarily have what their prospective employers need? Companies are increasingly coming to terms with the [folly](https://the-ken.com/story/why-should-your-degree-get-you-a-job-anymore/) of hiring for pedigree instead of skills.
+But the state still needs to be seen doing something about jobs.
+Earlier this month, it rolled out a plan to offer companies up to Rs 3,000 a month for every new employee, for the first two years of their employment. Manufacturers, given India’s desire to increase domestic production of goods, will get the largesse for two more years.
+You don’t have to be a cynic to dismiss this. Last year, the government said it wanted to subsidise [10 million](https://the-ken.com/story/2-million-interns-a-year-pms-scheme-makes-corporate-india-anxious/) corporate internships over five years. Not only has the number of offers made by companies [fallen](https://theprint.in/india/more-firms-but-decline-in-offers-acceptance-rate-modi-govt-data-on-pm-internship-scheme-2nd-round/2698605/) between the first and second phases of the scheme; only one in three offers across both phases was accepted. The employers, eager to keep the government happy, are perhaps making perfunctory offers for roles that appeal to few.
+Since the 1990s, millions of Indians have seen their fortunes change dramatically thanks in no small measure to information-technology firms like Tata Consultancy Services (TCS) and Infosys. But with the double whammy of artificial intelligence rapidly automating tasks they would previously hire engineers for, and also reducing their clients’ dependence on them, the reliability of IT services as a job creator at scale is a thing of the past. In fact, TCS will lay off 12,000 employees, or 2% of its workforce, over the next year, its chief executive said in an [interview](https://www.moneycontrol.com/news/business/tcs-to-cut-2-of-workforce-affecting-12-000-employees-amid-skill-gap-and-tech-shift-13333687.html/amp) on 27 July.
+Plus, we have [written](https://the-ken.com/newsletter/make-india-competitive-again/make-in-india-is-a-tariff-war-sticker-job/) about the fallacy of counting on manufacturing to shore up employment.
+In the nine years to FY23, the last year for which sector-wise numbers are available, manufacturing added 8.2 million jobs. But its share in India’s employment slid; it accounted for just over one in 10 jobs.
+It’s no coincidence that the ranks of gig workers making privileged Indians’ lives easier by instantly bringing them groceries and doing odd jobs in their homes are[ swelling](https://the-ken.com/story/vcs-and-techies-are-turning-india-into-a-nation-of-hired-hands/).
+For young graduates, the precarity of jobs in the private sector in the age of AI will increasingly make the government look like a safe haven. The bureaucracy will never be at the bleeding edge.
+What hurts jobseekers is that the odds are heavily stacked against them. Between 2014 and 2022, different parts of the Union government received [220 million](https://www.reuters.com/world/india/economy-booms-indias-young-hanker-government-jobs-2024-07-21/) applications for 722,000 jobs, or 300 candidates per job.
+The state, though, has far bigger priorities than employing its citizens. And the last thing private companies need is the government telling them how, or whom, to hire.
+Regards,
+Seetharaman

@@ -1,0 +1,11 @@
+---
+subject: "The Dilemma of the Pacifist Lion"
+from: "Contraptions <contraptions@substack.com>"
+to: ""
+date: 2025-06-22 21:38:54
+labels: ["CATEGORY_PERSONAL", "Contraptions", "INBOX", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "Label_5493170773715678215", "INBOX", "UNREAD"]
+---
+The Dilemma of the Pacifist Lion is the persistent problem faced by a leader who wants to simultaneously project pacifist intentions and lion-like masculinity. Lion in the And speaking as a fox, observing history unfold from my temporarily irrelevant B-plot side character role as a trafficker of words and ideas, the spectacle of a main-character lion trying and failing to grapple with the dilemma is starting to seem distinctly funny. I know I’m not supposed to find amusement in grim and tragic matters of war, death, and destruction, but I’ve decided to lower my standards of decent solemnity, since it looks like we’re going to be in this grimdark planetary mood for a while. Here’s the thing. If you truly believe strength speaks through actions rather than words, and that “strong men create good times,” you have to tell your story through a series of loud, immediately consequential, and unambiguous actions, accompanied by as few weasely weak-man words as possible. Unfortunately, only one sort of action truly fits that purpose — decisive military action. Such as dropping the world’s biggest non-nuclear bombs into an ambiguous situation, accompanied by just three lofty-sounding and vibey words that say nothing: Operation Midnight Hammer. As
+My favorite theory of why Trump chose the path he did is one I spotted doing the rounds on social media — he did it to counterprogram the increasingly compelling TACO theory (Trump Always Chickens Out) that even his own allies are trading on, in the stock market. The The rise of the TACO theory of Trump 2.0 richly illustrates the nature of the Dilemma of the Pacifist Lion. ... Keep reading with a 7-day free trialSubscribe to Contraptions to keep reading this post and get 7 days of free access to the full post archives. A subscription gets you:
+|

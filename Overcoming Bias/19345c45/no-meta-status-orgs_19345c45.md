@@ -1,0 +1,9 @@
+---
+subject: "No Meta Status Orgs"
+from: "Robin Hanson from Overcoming Bias <overcomingbias@substack.com>"
+to: ""
+date: 2024-11-19 18:51:28
+labels: ["CATEGORY_PERSONAL", "INBOX", "Overcoming Bias", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_8616244883382228708", "UNREAD"]
+---
+In health and medicine, we have many government agencies, and private philanthropies, devoted to many specific medical conditions, and also to studying and reforming medicine in general, at a meta level. In education and research, we also have many government agencies, and also private philanthropies, devoted to many specific topic areas, and also to studying and reforming education and research as a whole. Regarding commerce and markets, we also have many government agencies, and private philanthropies, devoted to both many specific industries and product areas, and also to studying and reforming business and the economy as a whole. Regarding status and prestige, we have many organizations devoted to assigning prestige in particular areas of life. Such as universities, academic journals, US NWR college ratings, and the Academy awards. However, no large orgs devote themselves to studying or reforming status and prestige in general, at the meta level. That is, no big orgs, public or private, try to measure our status markers, to see and track which features and virtues most contribute to status. Or try to create Boyd and Richardsen, top analysis of cultural evolution, plausibly The obvious explanation to me: we are unwilling to admit that status is a thing, or that it is important. Do-gooders just can’t admit to seeing it. You're currently a free subscriber to |

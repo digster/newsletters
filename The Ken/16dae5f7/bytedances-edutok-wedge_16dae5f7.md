@@ -1,0 +1,15 @@
+---
+subject: "Bytedance's Edutok wedge"
+from: "The Ken <info@the-ken.com>"
+to: ""
+date: 2019-10-09 02:35:52
+labels: ["CATEGORY_PERSONAL", "INBOX", "The Ken"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_8244464457792971031"]
+---
+On any given day, the top 8-10 news searches for TikTok are headlines from mainstream media about how XYZ video on this video-sharing app has gone viral. Small town people shooting into stardom or villainy or a mouth-watering ad deal.
+Much about TikTok, or its parent company Bytedance, the most-valued startup on the planet today, sounds hyperbolic: 1 billion downloads worldwide, 200 million users in India, 2 million views in 24 hours, 500K followers in a blink, a tutorial in 15 seconds, and so on. But isn’t every tech export from China about scale and hyperbole? And to some extent, controversy?
+TikTok has been under fire over privacy concerns, especially how it collects data from children and how it uses that information. Still, that has not stopped it from expanding its influence with its Edutok campaign. Since it unveiled #Edutok in June, the campaign—meant to showcase educational videos on the platform—has garnered over 42.5 billion views, claims the company.
+Olina’s sources say TikTok is now set to launch Edutok as a nationwide campaign, through a conference in Delhi, on 17 October. Clearly, an attempt to rebrand TikTok as a serious, responsible social media player in India and to repeat the Chinese strategy of entering the edtech space via viral vertical video feeds. Then add long-tail content to increase time spent and engagement on the app.
+Google thinks TikTok can’t compete with the vast education content that YouTube has built and catalogued over the years. Yet with Facebook all but defeated, it’s YouTube that TikTok is gearing up to battle. “True learning only happens with full consumption, not sampling,” says YouTube's head of content partnerships. But the app factory that Bytedance is, it knows a thing or two about sampling. In the Chinese media, it is called “Bytedance A/B testing” method. Edutok is just a sample of this.
+PS: Last month, we wrote about how TikTok was fine-tuning its advertising game by innovating and pushing for brand safety. Just for today, we're opening up the story for employees of TikTok, Google, Facebook and Sharechat. If you work for any of these companies, you can read the story
+[here](http://link.the-ken.com/uni/wf/click?upn=HQSq6eeRV1xAVaGuFOahuNCZVVXPeP-2FJpSqxhvIUDrnX1VOlXQwispGzsTzUePaJwoGv98-2Fl51BHIAOJZMqMxnp5FBenPBotjNrDZpbQekeGPtMrzE8Cvhq-2FKJHBe1pilVe2MS3ve-2F2b6X3QOst547NpMlqrS-2Ba0T-2FlFyuHRp1s-3D_S4jLOsNx-2Fv6Jev2nvow8b7P9pBCWGd8KNZfb200gkZLQNlXQHio0noZzXtsWoloZmPWeyZsh7a4QCV9ufwCUKi00jlBT0uEdvwYDMuVuqcOfnC-2BnFXrMtrStcC-2FG1gU7AlMHA1UPn8ejGl4lO7hwrW4OQA1O4jleFwLMpjffAOjKQkgajBhKPpbFZL7EmAXldO0YOCdH-2BJQdq26f4fksFVxwie8vafI5S1KIgOI4D6DZPDvRBAmVxVMmNTc9p-2FTBoWo-2Bu5PZ2d21Wx0Oj2sEa70wsJbZ36inL95e2pDsXkIZrBHICnaWzS2V1MzbWGbVmwd9D-2FF-2FWyU2DiwgY3MeIafPTw4gCdzIZj1CnH5qggxpPOOqgfaHtED73Nathxqr-2BTErwsNjXN381V5MO-2FyDwP7CzB46pnHye7Mx8CdPhDY-3D).

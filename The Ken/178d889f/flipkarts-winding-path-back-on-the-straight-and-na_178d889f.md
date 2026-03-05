@@ -1,0 +1,27 @@
+---
+subject: "Flipkart’s winding path back on the straight and narrow"
+from: "The Ken <info@the-ken.com>"
+to: ""
+date: 2021-04-16 02:37:04
+labels: ["CATEGORY_PERSONAL", "INBOX", "The Ken", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_8244464457792971031", "UNREAD"]
+---
+Good Morning Ishan,
+E-commerce regulation in India is a fascinating case of whack-a-mole.
+The government plugs a loophole exploited by Amazon and Flipkart to circumvent India's restrictions on foreign investment in inventory-based e-commerce. But the online retail giants, nimble as they are, quickly find another workaround. There have been variations on this over the past decade.
+Now, the government is looking to clamp down on the wholesale arms of e-commerce companies, which supply goods to sellers who, in turn, list them on the platform.
+But Flipkart's wholesale entity, with revenue of $4.6 billion in FY20, is not getting out of the picture, as Pranav reports in his story today. Instead, Flipkart seems to be telling its preferred sellers, "As far as the government is concerned, we are not here. But we both know that's not true."
+Even if, on paper, these sellers now source directly from brands, Flipkart will still negotiate prices and draft agreements for the sellers.
+With a $10 billion IPO on the horizon, Flipkart cannot run afoul of the law. But it doesn't want to give up control, either. Hence this deft manoeuvre.
+But brands are unlikely to play ball. Why? You'll have to check the story out for that: [https://the-ken.com/story/flipkarts-winding-path-back-to-the-straight-and-narrow/](https://the-ken.com/story/flipkarts-winding-path-back-to-the-straight-and-narrow/?utm_source=daily_story&utm_medium=email&utm_campaign=daily_newsletter) (9-minute read)
+Sincerely,
+Seetharaman G
+[seetharaman@the-ken.com](mailto:seetharaman@the-ken.com)
+PS: Episode 7 of our podcast Unofficial Sources, Why Uber, Ola and Rapido love Autos, is available to our subscribers on our app now! On [iOS](https://apps.apple.com/in/app/the-ken/id1282944688) and [Android](https://play.google.com/store/apps/details?id=com.ken.core).
+|
+What you just read is the personalised daily introduction to The Ken's story. Written by a different person each day. Often insightful, sometimes witty, and very rarely boring. Someone sent this to you? [Sign up for free](https://the-ken.com/sea/?modal=register&utm_source=footer&utm_medium=email&utm_campaign=sea_morning_email). Don't like these? You can [unsubscribe](https://link.the-ken.com/asm/unsubscribe/?user_id=2349339&data=aWiSK-l2H3EtNapmxQVJ8lYnPiZARuuutoSSWP4EfI0gQld5rkQ7WQkxwUvdU3HvA6DMh_3Ez69wFr7o4Ts2yc8YjMgELpNKN7cD1RespYFYUK8n4BonQCHY3lAPXXJVlAkWCQSsMS9aIZYCtyHfRrYGfnrzxUggjxM2ULoBTMPbF90uszKy8Rkcgc3b-s1wzKvk53pzsyoAJKzVLtnJcCUKJ5qFRBH1KRihR5CRJS6dVFUpiC0Q2fcg8LfxwmzLKFzN8B-RRV-F-3qY-FQ_i4IP5jhgOdhfu8BZBmmpgGRtUZ7H0XtSrbnnZPWq1Ghj2w6_jZNts1Mf6yNxRS0xA6LsMLuvcICmXNboE5G3q8SR4lGDNCeAk3bFfAOfEvBLHWZLhI9cZj6o19NWq9x4xHm2i47UhyOdCQ7YDzv-f3ASG1Ni3LVpwpqkHbiste6Ckhl1cJG432ULMf4WUx3N3KzgjDJ7YRxTMcX-r70bkKXXXKVT-w3yo6VnczBoetkk8jZ1-4lDD_GPA1TMulX2OyBTKjZYtQQH6nYcCHjzCGI=). Want to manage your emails? Click [here](https://link.the-ken.com/asm/?user_id=2349339&data=4tL_plc6ZPLZpnxZHxcPrp4f5fn4LOwDnuGDtgvPv5e2XV-Xlj_IWDg76P2WfoN5IARWv_xfZrAR1C5eyjoqgCJ7twqu9cDwI1IjnWxmRUeKFlm12nQMNn2Kt-BY5sRNmnKnB_Q213-0qtZ3TsUduc6wiu3rVxIbyfIVZu1Y32DG3PWcjAsE3vTdcZpgO1cC6KwZVuV64VTndd44SUFAyXJyceyywEV-O2BuD82F_xJXB55Pb_s7eXjHj5KQrtUCP9_zWCb3D17eOq-cnSj1C7o81OjjdU9jNrLQClozEh4b56IESRrBd9JxmoeYwbGIO9qBhpxABOgeJiB6A1NXmm1FeL-n1LVSZJ3jpEkBmxO8rZekSGQGTEn8m0EwBmWPSHIz9IzfjMUSKKGdKw3WXZBwoDY4MidLe8Wmzc6G4MzFtSZWp7me7Vs1hol7Pg2Ik5sp-9_4MTh34gcoG4Iv6dU2TINOKGSanAJ9xYG-s5AEDNgEIoZkUrD0TnD0pceaz88Pj78Zsr9xUQHGdo1tuoLtf8r88m0kq4Xm1X4M2Rg=).
+|
+|
+|
+|
+|

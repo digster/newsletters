@@ -1,0 +1,453 @@
+<!DOCTYPE html>
+<html xmlns="https://www.w3.org/1999/xhtml" xmlns:o="urn:schemas-microsoft-com:office:office">
+<head>
+<title>It Depends #55: On building scalable systems</title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<!--[if !mso]><!-->
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<!--<![endif]-->
+<!--[if mso]>
+<style type="text/css">table {border-collapse:collapse;border-spacing:0;margin:0;}div, td {padding:0;}div {margin:0 !important;}</style>
+<noscript><xml><o:OfficeDocumentSettings><o:PixelsPerInch>96</o:PixelsPerInch></o:OfficeDocumentSettings></xml></noscript>
+<![endif]-->
+<style type="text/css">
+#outlook a{padding:0;}
+.ReadMsgBody{width:100%;} .ExternalClass{width:100%;}
+.ExternalClass, .ExternalClass p, .ExternalClass span, .ExternalClass font, .ExternalClass td, .ExternalClass div {line-height: 100%;}
+
+body { margin: 0; padding: 0; height: 100%!important; width: 100%!important; -webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%;}
+table,td { border-collapse: collapse !important; mso-table-lspace: 0pt; mso-table-rspace: 0pt;}
+img { border: 0; height: auto; line-height: 100%; outline: none; text-decoration: none; max-width: 100%!important; -ms-interpolation-mode: bicubic;}
+img.aligncenter { display: block; margin: 0 auto;}
+
+@media screen and (max-width: 525px) {
+ .pt-1, .padding-top-15 { padding-top: 15px!important; }
+ .pb-1, .padding-bottom-15 { padding-bottom: 15px!important; }
+ .responsive { width:100%!important; }
+ table.responsive { width:100%!important; float: none; display: table; padding-left: 0; padding-right: 0; }
+ table[class="responsive"] { width:100%!important; float: none; display: table; padding-left: 0; padding-right: 0; }
+ img { max-width: 100%!important }
+ img[class="responsive"] { max-width: 100%!important; }
+ /* "width: auto" restores the natural dimensions forced with attributes for Outlook */
+ .fluid { max-width: 100%!important; width: auto; }
+ img[class="fluid"] { max-width: 100%!important; width: auto; }
+
+ .block { display: block; }
+
+ td[class="responsive"]{width:100%!important; max-width: 100%!important; display: block; padding-left: 0 !important; padding-right: 0!important; float: none; }
+ td.responsive { width:100%!important; max-width: 100%!important; display: block; padding-left: 0 !important; padding-right: 0!important; float: none; }
+
+ td[class="section-padding-bottom-image"]{
+ padding: 50px 15px 0 15px !important;
+ }
+
+ .max-width-100 { max-width: 100%!important; }
+
+ /* Obsolete */
+ .tnp-grid-column {
+ max-width: 100%!important;
+ }
+
+}
+
+
+
+/* Contains some rules to simulate device layout on backend preview */
+
+#newsletter-builder-area-center-frame-content.tnp-view-mobile table[class="responsive"],
+#newsletter-builder-area-center-frame-content.tnp-view-mobile table.responsive
+{
+ width:100%!important;
+ float: none;
+ display: table;
+ padding-left: 0;
+ padding-right: 0;
+}
+
+#newsletter-builder-area-center-frame-content.tnp-view-mobile td[class="responsive"]{
+ width:100%!important;
+ max-width: 100%!important;
+ display: block;
+ padding-left: 0 !important;
+ padding-right: 0 !important;
+ float: none;
+}
+
+#newsletter-builder-area-center-frame-content.tnp-view-mobile img[class="responsive"],
+#newsletter-builder-area-center-frame-content.tnp-view-mobile img.responsive
+{
+ max-width: 100%!important;
+}
+
+#newsletter-builder-area-center-frame-content.tnp-view-mobile img[class="fluid"]{
+ width: 100%;
+ max-width: 100%!important;
+}
+
+#newsletter-builder-area-center-frame-content.tnp-view-mobile .pt-1 {
+ padding-top: 15px!important;
+}
+
+#newsletter-builder-area-center-frame-content.tnp-view-mobile .pb-1 {
+ padding-bottom: 15px!important;
+}
+
+#newsletter-builder-area-center-frame-content.tnp-view-mobile .tnp-grid-column {
+ max-width: 100%!important;
+}
+
+#newsletter-builder-area-center-frame-content.tnp-view-mobile td[data-responsive-image="true"] {
+ height: auto !important;
+}
+
+
+/* Html */
+.html-td-global p {
+ font-family: Helvetica, Arial, sans-serif;
+ font-size: 16px;
+}
+
+
+/* Text */
+
+
+/* Last posts */
+@media (max-width: 525px) {
+ .posts-1-column {
+ width: 100%!important;
+ }
+ .posts-1-image {
+ width: 100%!important;
+ display: block;
+ }
+}
+
+
+</style>
+</head>
+<body style="margin: 0; padding: 0; line-height: normal; word-spacing: normal;" dir="ltr">
+
+<table cellpadding='0' cellspacing='0' border='0' width='100%'>
+<tr>
+<td bgcolor='#ffffff' valign='top'><!-- tnp --><table style="border-collapse: collapse; width: 100%; user-select: auto;" class="tnpc-row tnpc-row-block ui-sortable-handle" data-id="image" width="100%" cellspacing="0" cellpadding="0" border="0" align="center">
+<tbody style="user-select: auto;"><tr style="user-select: auto;"><td style="padding: 0px; user-select: auto;" class="edit-block" align="center">
+<!--[if mso | IE]><table role="presentation" border="0" cellpadding="0" align="center" cellspacing="0" width="600"><tr><td width="600" style="vertical-align:top;width:600px;"><![endif]--><table type="options" class="tnpc-block-content" style="width: 100% !important; max-width: 600px !important; user-select: auto;" width="100%" cellspacing="0" cellpadding="0" border="0" align="center">
+<tbody style="user-select: auto;"><tr style="user-select: auto;"><td style="text-align: center; letter-spacing: normal; padding: 0px; background-color: rgb(255, 255, 255); width: 100% !important; line-height: normal !important; user-select: auto;" width="100%" bgcolor="#ffffff" align="center"><table class="responsive" style="margin: 0px; user-select: auto;" width="100%" cellspacing="0" cellpadding="0" border="0">
+ <tbody style="user-select: auto;"><tr style="user-select: auto;">
+ <td style="user-select: auto;" width="100%" valign="middle" align="center">
+ <a href="https://daijdhg.r.af.d.sendibt2.com/tr/cl/F5x3L-jGTZ3SrxuP-xefLpjAcU5eORKQg0GZHQkXe-5Nv8RTYWuelOf2GUv5juw5lAUfMpamkXObcBa7N08eDnMWNJYy3qxQggqHtqLWDLMDLOKf5HFSGOplJ2U2elwKS4qGRXjI4dGWWY_eKTXJVnLlK_3JthWauSWlA66RxoA5x4RgH4eJJMBvqb2IStQ7-BBykSyN-8NAbtc0psJaFKVtOALxLh-vlSykoD3SgqTZrRYSCATKtqZF8NMY5jzmVwu50t8wK-s1hJzTfLmUGzDclvfVyLZXVmRVvcoIsKJiDGtGxNTjEZlIM9cY9J-VB-mMbe34QnwQEKBIMiZpcpDe2zfcs3V98p6uyQg6FAtJ" target="_blank" rel="noopener nofollow" style="display: inline-block; font-size: 0px; text-decoration: none; line-height: normal !important; user-select: auto;"><img src="https://5fwei.img.bh.d.sendibt3.com/im/3089376/3325ddad58594c9c9a31c2c2f4c1c5d57b0ddb76f7c3a70fdda7d9b360aae9c9.jpeg?e=SH4J7markDUbjF1Z-y5G560vmY0RX9x6k3UKE9ZmcVzhQpDp3QcDzn87F_ZidEryl1hje2u8j8CRt1wLd2WJpNI_QkPfKi98OCuMUDYLCUf53RL_FQ7LJAUlseJYr4hvLjIlISZ4M2JC24afKXZ0A0q6BzpcLiSRkwDXG4q_gzRn-g33UD5jcoiGooA7f3sPEm9BU8YVHnGRtLeOTfUeHACMKV0VrNbbo4msV3DFkO-reJmHR2MYjbP7VBRokk8DsUkCBsateGeNh2OhGWpM4Zdvsbn2LpDywVgdxG7APe_WwC0wFT2dCfeS3VIT8lccchL2Vz703w" alt="" style="display: inline-block; padding: 0px; border: 0px; max-width: 100% !important; user-select: auto;" class="" width="250" height="208" border="0"></a> </td>
+ </tr>
+</tbody></table></td></tr></tbody></table><!--[if mso | IE]></td></tr></table><![endif]--></td></tr></tbody></table><table style="border-collapse: collapse; width: 100%; user-select: auto;" class="tnpc-row tnpc-row-block ui-sortable-handle" data-id="text" width="100%" cellspacing="0" cellpadding="0" border="0" align="center">
+<tbody style="user-select: auto;"><tr style="user-select: auto;"><td style="padding: 0px; user-select: auto;" class="edit-block" align="center"><!--[if mso | IE]><table role="presentation" border="0" cellpadding="0" align="center" cellspacing="0" width="600"><tr><td width="600" style="vertical-align:top;width:600px;"><![endif]--><table type="options" class="tnpc-block-content" style="width: 100%!important; max-width: 600px!important" width="100%" cellspacing="0" cellpadding="0" border="0" align="center">
+<tbody><tr><td style="text-align: center; width: 100% !important; line-height: normal !important; letter-spacing: normal; padding-top: 0px; padding-left: 10px; padding-right: 10px; padding-bottom: 0px; background-color: #ffffff;" width="100%" bgcolor="#ffffff" align="center"><table style="width: 100%!important" width="100%" cellspacing="0" cellpadding="0" border="0">
+ <tbody><tr>
+ <td style="font-family: Verdana, Geneva, sans-serif; font-size: 18px; font-weight: normal; color: #222222; line-height: 1.5;" width="100%" valign="top" align="left">
+ <p style="text-align: center"><span style="font-size: 14px">Already a subscriber? Jump ahead to the good stuff! </span></p>
+<p style="text-align: center"><span style="font-size: 14px">But if someone forwarded this to you, they probably love <em>It Depends</em> and think you would too!&nbsp;</span></p> </td>
+ </tr>
+</tbody></table></td></tr></tbody></table><!--[if mso | IE]></td></tr></table><![endif]--></td></tr></tbody></table><table style="border-collapse: collapse; width: 100%; user-select: auto;" class="tnpc-row tnpc-row-block ui-sortable-handle" data-id="cta" width="100%" cellspacing="0" cellpadding="0" border="0" align="center">
+<tbody style="user-select: auto;"><tr style="user-select: auto;"><td style="padding: 0px; user-select: auto;" class="edit-block" align="center"><!--[if mso | IE]><table role="presentation" border="0" cellpadding="0" align="center" cellspacing="0" width="600"><tr><td width="600" style="vertical-align:top;width:600px;"><![endif]--><table type="options" class="tnpc-block-content" style="width: 100% !important; max-width: 600px !important; user-select: auto;" width="100%" cellspacing="0" cellpadding="0" border="0" align="center">
+<tbody style="user-select: auto;"><tr style="user-select: auto;"><td style="text-align: center; letter-spacing: normal; padding: 0px; background-color: rgb(255, 255, 255); width: 100% !important; line-height: normal !important; user-select: auto;" width="100%" bgcolor="#ffffff" align="center"><table style="margin: 0px; border-collapse: collapse; user-select: auto;" width="100%" cellspacing="0" cellpadding="0" border="0">
+ <tbody style="user-select: auto;"><tr style="user-select: auto;">
+ <td style="user-select: auto;" align="center">
+ <table role="presentation" style="margin: 0px auto; user-select: auto;" width="200" cellspacing="0" cellpadding="0" border="0" align="center"><tbody style="user-select: auto;"><tr style="user-select: auto;"><td role="presentation" style="border: none; border-radius: 3px; cursor: auto; background: rgb(37, 111, 156); user-select: auto;" valign="middle" bgcolor="#256f9c" align="center"><a href="https://daijdhg.r.af.d.sendibt2.com/tr/cl/sH3pCx1GbcjtO5L348-Z1oMrUBGQC15aGKuTAO18UYFFHRvMPASQwiL5qAOmmi4-wg1s0CTHkKHaBaszi6tUGjhuuv2TQ1qipAl_0VWA9YJsLB1WASdfpxKQ4Kd0QMdCyfmR4taJELaJuOdrDiZy54XFuoYGlVi6a9Yx8QN-_wLFkxZ5iKd7fovm1ZWk_tMYg5mWR6kKn20cOeCSQq4VAlZapuHI2FR08RFGwMuwPtb32v1eC_gLSY163IzMJuKnQPo0F-OM8ckAt_fnARVrjYVdgO5bTkPE0aRMQwpuWI9owlm-cKLUR_L0XJuk5M2EwJraJvHmbxYrWbo619cKcO-c0rOag5KvSiqyZ4xzW2XNb5T3EZ41qd9TWNBCC1RGfSdo5J69WT9hbPAkS8KnIUw" style="display: inline-block; background: rgb(37, 111, 156); color: rgb(255, 255, 255); font-family: Verdana, Geneva, sans-serif; font-size: 16px; font-weight: bold; line-height: 120%; margin: 0px; text-decoration: none; text-transform: none; padding: 10px 25px; border-radius: 3px; user-select: auto;" target="_blank">Subscribe now!</a></td></tr></tbody></table> </td>
+ </tr>
+</tbody></table>
+
+<div itemscope="" itemtype="http://schema.org/EmailMessage" style="user-select: auto;">
+ <div itemprop="potentialAction" itemscope="" itemtype="http://schema.org/ViewAction" style="user-select: auto;">
+ <meta itemprop="url" content="https://kislayverma.com/newsletter-archive/" style="user-select: auto;">
+ <meta itemprop="name" content="Subscribe now!" style="user-select: auto;">
+ </div>
+ <meta itemprop="description" content="Subscribe now!" style="user-select: auto;">
+</div></td></tr></tbody></table><!--[if mso | IE]></td></tr></table><![endif]--></td></tr></tbody></table><table style="border-collapse: collapse; width: 100%; user-select: auto;" class="tnpc-row tnpc-row-block ui-sortable-handle" data-id="separator" width="100%" cellspacing="0" cellpadding="0" border="0" align="center">
+<tbody style="user-select: auto;"><tr style="user-select: auto;"><td style="padding: 0px; user-select: auto;" class="edit-block" align="center">
+<!--[if mso | IE]><table role="presentation" border="0" cellpadding="0" align="center" cellspacing="0" width="600"><tr><td width="600" style="vertical-align:top;width:600px;"><![endif]--><table type="options" class="tnpc-block-content" style="width: 100% !important; max-width: 600px !important; user-select: auto;" width="100%" cellspacing="0" cellpadding="0" border="0" align="center">
+<tbody style="user-select: auto;"><tr style="user-select: auto;"><td style="text-align: center; letter-spacing: normal; padding: 20px; background-color: rgb(255, 255, 255); width: 100% !important; line-height: normal !important; user-select: auto;" width="100%" bgcolor="#ffffff" align="center"><table style="user-select: auto;" width="100%" cellspacing="0" cellpadding="0" border="0">
+ <tbody style="user-select: auto;"><tr style="user-select: auto;">
+ <td style="border-bottom: 1px solid rgb(221, 221, 221); user-select: auto;"></td>
+ </tr>
+</tbody></table></td></tr></tbody></table><!--[if mso | IE]></td></tr></table><![endif]--></td></tr></tbody></table><table style="border-collapse: collapse; width: 100%; user-select: auto; display: table;" class="tnpc-row tnpc-row-block ui-sortable-handle" data-id="heading" width="100%" cellspacing="0" cellpadding="0" border="0" align="center">
+<tbody style="user-select: auto;"><tr style="user-select: auto;"><td style="padding: 0px; user-select: auto;" class="edit-block" align="center"><!--[if mso | IE]><table role="presentation" border="0" cellpadding="0" align="center" cellspacing="0" width="600"><tr><td width="600" style="vertical-align:top;width:600px;"><![endif]--><table type="options" class="tnpc-block-content" style="width: 100%!important; max-width: 600px!important" width="100%" cellspacing="0" cellpadding="0" border="0" align="center">
+<tbody><tr><td style="text-align: center; width: 100% !important; line-height: normal !important; letter-spacing: normal; padding-top: 10px; padding-left: 10px; padding-right: 10px; padding-bottom: 10px; background-color: #ffffff;" width="100%" bgcolor="#ffffff" align="center"><table width="100%" cellspacing="0" cellpadding="0" border="0">
+ <tbody><tr>
+ <td style="font-size: 20px;font-family: Verdana, Geneva, sans-serif;font-weight: bold;color: #222222; padding: 0; line-height: normal !important; letter-spacing: normal;" valign="middle" align="center">
+ #55: On building scalable systems </td>
+ </tr>
+</tbody></table></td></tr></tbody></table><!--[if mso | IE]></td></tr></table><![endif]--></td></tr></tbody></table><table style="border-collapse: collapse; width: 100%; user-select: auto; display: table;" class="tnpc-row tnpc-row-block ui-sortable-handle" data-id="text" width="100%" cellspacing="0" cellpadding="0" border="0" align="center">
+<tbody style="user-select: auto;"><tr style="user-select: auto;"><td style="padding: 0px; user-select: auto;" class="edit-block" align="center"><!--[if mso | IE]><table role="presentation" border="0" cellpadding="0" align="center" cellspacing="0" width="600"><tr><td width="600" style="vertical-align:top;width:600px;"><![endif]--><table type="options" class="tnpc-block-content" style="width: 100%!important; max-width: 600px!important" width="100%" cellspacing="0" cellpadding="0" border="0" align="center">
+<tbody><tr><td style="text-align: center; width: 100% !important; line-height: normal !important; letter-spacing: normal; padding-top: 10px; padding-left: 10px; padding-right: 10px; padding-bottom: 10px; background-color: #ffffff;" width="100%" bgcolor="#ffffff" align="center"><table style="width: 100%!important" width="100%" cellspacing="0" cellpadding="0" border="0">
+ <tbody><tr>
+ <td style="font-family: Verdana, Geneva, sans-serif; font-size: 18px; font-weight: normal; color: #222222; line-height: 1.5;" width="100%" valign="top" align="left">
+ <p dir="ltr">Hello everyone!</p>
+<p id="docs-internal-guid-40547bb9-7fff-f7df-0612-d9485ead94ec" dir="ltr">Welcome to the 55thd episode of It Depends. Hope you and your loved ones are doing well.</p>
+<p dir="ltr">This newsletter is almost at 2100 subscribers - so a big thank you to everyone who has stuck around for my irregular writing. If you have been loving <em>It Depends</em> so far, share it with others who would like it too and consider showing your support on <a href="https://daijdhg.r.af.d.sendibt2.com/tr/cl/qYAp8ii_q0OQh-_uXbJ2AVeMdUra0Y5cp0oaYIC1zQsG8aQR8DnYWhvajLZffdufyuzAliIsQd2OpGxEzIbTqa52o2r3ozu8vlHlWLdQRHRyI0ALxy3O42wewdrUa38S1J3xUMSWpDgl6NMGmhVREZJU6On_VJtl-W5sMyeU5lHJAZa5oX1H4t5kY9LIdn7fBOCweXwQ9swS8vadtL2Vh4APMRTra16OUGqBo5QDZvj2unv3287tX5jfPAOzaUNVpsnSb4X0dJH5wBAjgFTnNK7P0t0OyzwvSm2QFTMeAyZ-m5p9xgytWl9oSrt8SpYhsXiCgEOwXry4Rgcm3R2vdXaIrUcsMjE4lYLq3EFikIBjb0eUIq1qKPIc-JwxbEbi3KjnlhFCxeKto1f4Oyz-5Bm5FL3o">Patreon</a>,<a href="https://daijdhg.r.af.d.sendibt2.com/tr/cl/NHYs0ohigjOZ_W6K0RG8Baded_asb-YwtPjje2cY0jBaEnsYKlYQSfmfJgmw7HqI3F_hlT5eeJ-vZlzSmomBhGCzPpc2ogfez_PW1gYdnkS7aB-cIkgZGWd2HSgcZYttqeivmUA22ah8m7FgvLp9H4gSldo7Gl9-EVG9RPSLoEVTImHbapwmzIX3afmzlskbir-e8x2huiM1wFIlsEajgPqdEMvQAMh1h10O6GkJBo1nJ8Djh1PhKD6tcNLxZzVsiLDi2RnT8_wWLodcfXX7M3R7BUHlVaZxPnqHXj0pHhu2uFNoG1jgLPjbmPkzML9gzTH5T6XrorVslqT_2TYq3iA9m1S7b6igR2R-si2L6vXG7RsBgBNOX9rXSwQa"> Gumroad</a>, or<a href="https://daijdhg.r.af.d.sendibt2.com/tr/cl/yHEo7cUMKPxprH-H1SXmorgXwoT4S3olG85wpeENrZZZaYoEbBQ67GF-HH6MrlvqYBOQHZe4Phs5ElA5cnFeZq1DhLUbNbtSuqYKxlssEnKYfP-0RPztLTuE04UR0VT4TMqHhS0U-TH96Jl5q6sDNZ419s8GuWRG9oGjBh7HmVOXCPPVNbW07VxuKiFEXyhPYiPivREFr4mjT_0zlqNE-YyKB5i4TqtX4nNU8w6793w1RVZuBuO_bt31oW4bq4089Uo2zWf_BaP8pGSFKMlRVipzlq9OmxLcknjyJQINUvc4BoYkTQXkHUN19MeeXTzpjqW_jNJLMXnrzsDlpU2sPw2A1DdLtr5v6ujGasMsICljQ98DPC648WDguJE_-gI3WA"> Buymeacoffee</a>.</p>
+<p dir="ltr">This week I am presenting a fairly comprehensive look at understanding what scalability is and what do we need to know to build scalable systems. And then on to the best of the tech internet.</p>
+<h2>On building scalable systems</h2>
+<p dir="ltr">You can read <a href="https://daijdhg.r.af.d.sendibt2.com/tr/cl/g_A_KwZUytJC00S2AmN6kf5MUluESmt0vb5UjCSrGJ6R4zYH0ZotIqUboqi1yZbdXKOKRao8W2jkZNkKsoueDRpk058rQwpPjAPAyNW8rgaE559qs8oJmsRHHmenGzC97bO8HMuoiwWb-6HhEg83U13bPfClqV_fVjM9jlt7kZPTrdqWuHFdJ_bx2K5ub31fOXGoUzPdW1Az99io1IX270ZJ69Zm9nvyVafHFJR9pu-BOdmEUAr0JUs_J-8yIBKC82kQyxme_Mn-RkNDDF77c6pAYzf_nory0thgo9UVwMiQSCkZzuAmI0aTIdZhkG69AWZcIv1DDEzme9nqdJow7uBWynbg_ORu5fBzK_TNU684hru3It6UkxN858NiO_Ppep4QYPq5Yv1p-kO__Alfvdm_gT6lF0sUqSb0s_sz3kMTaIBI053tDqAS6S0fr0vfcg">the original article</a> directly on the blog.</p>
+<p dir="ltr">In software engineering, scalability is the idea that a system should be able to handle an increase in workload by employing more computing resources without significant changes to its design.</p>
+<h3>Why don’t systems scale</h3>
+<p dir="ltr">Software, though “virtual”, needs physical machines to run. And physical machines are bound by the law of physics. The speed of light limits how fast a CPU can read data from memory. The information-carrying capacity of wires determines how much data can be moved from one part of a system to another. Material sciences dictate how fast a hard disk can spin to let data be read/written.</p>
+<p dir="ltr">This means that there are hard limits to how fast our programs can run or how much work they can do. We can be very efficient within these limits, but we cannot breach them. Therefore, we are forced to use software or hardware design tricks to get our programs to do more work.</p>
+<p dir="ltr">The problem of scalability is one of designing a system that can bypass the physical limits of our current hardware to serve greater workloads. Systems don’t scale because either they use the given hardware poorly, or because they cannot use all the hardware available to them e.g. programs written for CPUs won’t run on GPUs.</p>
+<p dir="ltr">To build a scalable system, we must analyze how the software plays with hardware. Scalability lives at the intersection of the real and the virtual.</p>
+<h3>The key axes of scalability</h3>
+<h4>Latency</h4>
+<p dir="ltr">This is the time taken to fulfil a single request of the workload. The lower the latency, the higher the net output of the system can be since we can process many more requests per unit time by finishing each one fast. Improving latency can be understood in terms of “speed up” (processing each unit of workload faster) and is typically achieved by splitting up the workload into multiple parts which execute in parallel.</p>
+<h4>Throughput</h4>
+<p dir="ltr">The other axis of scalability is how much work can be done per unit time. If our system can serve only one request at a time, then<a href="https://daijdhg.r.af.d.sendibt2.com/tr/cl/uX5cPJaOtKUQffcTLLUaMsEjp5YbWGRez9us8aCEehIjyH4BF3siS5ZTUFCpJIXm86o3YVEHaS1U8fG8TB_dNatmoJZEVz9IY836ESHiLQd94bJwOMTNDvIdSmes7Yk7X4drx8yHrvxLz7RgSNqaBCEVFbDWmvWaYHh97MvPoC7WUdnltirvLXb4Xar7o2qVPotHZPWnc4SuIMDpF2pc6gegoY5XGRhNPr5Iq_vtW4Yks1XsxluMrA_R8_ilUPIyQb_F8FVBjDUNOusttGhipzvAIVrl9q5HO5wvpGZX_e1yvUsQt5Xz4SEPyyalpPMo4YwUkw9IWEAOA5U-4fEudjXkgKx9mIf_PRHX7zfUd3hoRpv99vIlOxwd7PCfil1E3ZXtqXOhhy8LJM8Mzd5VGaeBKvdlBAeNbenI4zGTy4HHH3dedQixUnF14Tq3J-wN01FvvrFp6nl5fZpwOmvX5qdTpffYCQxlLE-DpTAPWgq3l86k48zJnWCP20kkLvSyYFN5JX8lVyKkLqBdcoO-9zqHdS05_X6yEw"> throughput</a> = latency X time. But most modern CPUs are multicore. What if we use all of them at once? In this way (and others), we can increase the total of “<a href="https://daijdhg.r.af.d.sendibt2.com/tr/cl/QrlGP-SUt5Yde-C4LQzMUVYmn_cElvzFW3qmbbIC5QWSuKZGicdHELuHPPkPxrzdXriSKS9N9t0aFuzsB0TRRAAb0QGA9eUfXbdZa4YOUcr45HvPMK7318AN3fcfHWOsRcTnVmTlYXMXnY8rcKQeYKNQrs_spLrhHxz5NwPN2nd15M7m20IDbwS-_8nglnPS54IAAI07uQ5vK8tIbYW2jq7R4I3KaJmYgxJMC3z1RMbABnLWLjRBN1Kk56lpN8aR0mtrDqnxkl2RjNvvUEcnienNLONE_qFOl-KNeBbmV9QTz-LPnev8jkByRh7qTqpCjSgRRaKBkHvbSguRXChMsP28zjxA5OMo9ScMh6HCo2C2LEKibmMOGdXIxtLixJiSZAXrxZJyLDvvOjA6wttCM-4">concurrent</a>” requests a system can handle. Along with latency, this defines the total things happening in a system at any point in time. This can be thought of in terms of “scale up” or concurrency.</p>
+<p><a href="https://daijdhg.r.af.d.sendibt2.com/tr/cl/HnN6BDzKOnKR7J8Ii-V5vFVQRnq9dQX3Agk3yIcXf0mvk02ycasTxAVY04vsN_4qpBpr8n4pP_p0nad_HPsahzyG1uvCVq_4VKD7o7kvhO28dSt2hqeACkCiwLuyAElDFFp1s-zQPkGg6SBGqVFRUKFPIJ5VMxN41OUUiTYAhoSpfrvFNdq3BAftgi2aS7B3bVKqT1VuvU0k1vrbtSKFJBZd8nAYynWBMQKpTaQhl-bmVdpuj2qrkI3UJv9TX-tYWN07FX-AClEKgFSNot1SpelsCsp4lkvrwOEKFy2AZ05MLCyE2MxDb_Z7MvmAhPJUfua4PLicbXoNxL6ATNXGLQJK5s7KWWog7VqokRJ-H3tFvdevpAcMxbLtJKgMYBPuhFt18UFrYTi56ILM6UK0xzYvKkcUXOsSlC0oJTOsgMONB_gM0Mq23rHBBb_LjhqlCohiY9tk2ivfPnYjsAJU-MHPSffeXrAtGVMWZ7AAe1ZWbCC0vgELmcPYG-FmsnBc9o3Q7QGSroOsEzQzYAYQVhN00VbRk8wFGw">Little’s law</a> gives a powerful formulation of this which lets us analyze how a system and its subsystems will function under increasing load.</p>
+<p><img class="aligncenter" src="https://5fwei.img.bh.d.sendibt3.com/im/3089376/9eea985db1064048c0e1bb0e660d03069b78fcfaa386732505b9d72bbb3e05a6.png?e=-bDQicj40MnMT-gDIm__-r_OhJrjxnj6BHvxDpxiIaNqgzpi3pE--7ONcEztIzmZI9aGomsmkNdJ4G8HO_ZOaw-QIkI-gR18UDbXcg-zKAw9n5WTx1mx4L_UahZ8vHB70IRtxY5kfhxRcsTMO1Qb7FzJySwv58_511rAW4ipF7ytFBTcW5OxUc46JiD7Q0FM427xu3JSXScTbdb2Wel2cN9Iof1tJ7D4Ns1hseX6SgOl2xTVs2uLya8FzK0C-jZVyfIaFkSE6acALh3ppkU4qoI9tQbaiZTlsIQkme-jaABNbf7j4yu7PPoFnxcWouj20QtaukM" alt="" width="407" height="23"></p>
+<p id="docs-internal-guid-908abbb8-7fff-84ea-279c-7b63abc59579" dir="ltr">If the number of items in the system’s work queue keeps growing, it will eventually be overwhelmed.</p>
+<h4>Capacity</h4>
+<p dir="ltr">This is the theoretical maximum amount of work the system can handle. Any more load and the system starts to fail either completely or for individual requests.</p>
+<h3>Performance is not Scalability</h3>
+<p dir="ltr">A system with high performance is not necessarily a scalable system. Ignoring scalability concerns can often result in a much simpler system which is very efficient for a given scale but will fail completely if the workload increases.</p>
+<p dir="ltr">An example of a performant yet non-scalable system is a file parser that can run on a single server and process a file up to a few GBs in a few minutes. This system is simple and serves well enough for files that will fit in the memory of one machine. A scalable version of this may be a Spark job that can read many TBs of data stored across many servers and process it using many compute nodes.</p>
+<p dir="ltr">If we know that the workload is going to increase, we should go for a scalable design up-front. But if we are not sure of what the future looks like, a performant but non-scalable solution is a good enough starting point.</p>
+<h3>Quantifying scalability</h3>
+<h4>Amdahl’s Law</h4>
+<p dir="ltr">Other than the problems with implementations, there are theoretical limitations to how much faster a program can become with the addition of more resources.<a href="https://daijdhg.r.af.d.sendibt2.com/tr/cl/Vqxpj6t4lbbX4hH4StrMdgaqSMOs5q1eVV2A5N5_napAOzp38vCZLjpyn4iHhRhDDuS317Da-vYwQbydl-G5dj8T-o190stmRKQSMdPlcGNXcUc9YnXNT_qJUDprrgVNseO8-PP9i-hhXlpx-RcNQPEDENmfS2ONd25y7mWHslXeWDohVQdUMXP5wSU3zaalIppI9UIGVmRtUcF8yp91DzyLZmPIsDamP7hVFZM6EDlDU5HjGP-H6k_hmyco6gi9EHX63sj3ll3fEW9Aexee2BvTvClJQCkkJE4_pVcIURFS5sNQJq2gXVOvYOp14luvqH1-RXXLLUwO1vl6vp-P8FEc-HR6-vask-KHQ3hkjbsqGy2ooRHhByqBuSsR86kIXZCRP48N99VQT7Edlw"> Amdahl’s law</a> (presented by<a href="https://daijdhg.r.af.d.sendibt2.com/tr/cl/D0TVcOaly67PZd5w1cLkLmC035JMlUylsQ8RaH3cHJgBhH6pMD40ZIVw5En90rHnVdIsf0k6upsaFalMFSNaGappzSQgcCg7pv2mS2YfHOKq-puV1EVzzNxKEVVudMlKi53y4rWFB3gAiHzAIyJUTrua8_-U1gHUWTTTdaSnssvSD52xx9ZG7BIRr8nUoAnbVkwkTDE08YmwgRL-4LuPn3NT_lpPwfmTA3YxVUIannv0YjIzuZXoBYiCJ1HqGGlv4mWPTypHZCDfHfi45nDJq5vq6pJ8i8B5ogl-pCQujElYh7yhyjxCcdpPHjFPaQoaVb0kVsmOPmRolch-PMofVh0jgMCyjCyN4ntvU8umXFCUj0HvfY1dLT8aiJ3-ifcPz7AqtRU1MFvU"> Gene Amdahl</a> in 1967) is a key law that defines them.</p>
+<p dir="ltr">It states that every program contains part(s) that can be made to execute in parallel given extra resources, and part(s) that can only run serially (called serial fraction). As a result, there is a limit on how much faster a program can become regardless of how many resources are available to it. The total speedup is the sum of time taken to run the serial part plus the time taken to run the parallel part. The serial part, therefore, creates an upper bound on how fast a program can run with more resources.</p>
+<p dir="ltr"><img class="aligncenter" src="https://5fwei.img.bh.d.sendibt3.com/im/3089376/989c1d0c144e47b3842f033ff94f4f984ac4168ef0ee89c561f627bbec8c6418.png?e=hCKjcAtpmiNfsiwyhB-lu6s1XWOGhKGdTwItQom3bN_qjxB_5eHQag4Wh_9jsNjoScjFry-LHyoGV1YzjERp3WwxWGETbBJW1iLZjB-TAMHbwGGB42YbBQgFqeEvQaI8PGeg5gZkVNIP9cqXaTU_oxxeVFlVqYYc8wPSs2yZtEp4hTrp1-YBpAGrwjAHC_PUiXmBbC--yPhn2DXGNRCTwA5aYRCHcdGOaOnp5Q6l9J-I1NoJB2MoJEDhQzXQmGCWNnFHT1tMNbvOTxMYDltuQevFeb_sSmx2bX1hZtFsAiKdyQoN4splJ9SAJcDYjV1G95FBrI4" alt="" width="508" height="127"></p>
+<p dir="ltr"><span id="docs-internal-guid-a0c6b5e7-7fff-cedf-3209-27b3aaaccbc5">This means that by</span><a href="https://daijdhg.r.af.d.sendibt2.com/tr/cl/WXYjccFM8jLNAWajpM5tR__MlUemznNHLxIVKcFMlKHwHRkNN6YEGVQ5u-TAoOMBgpjKA7rWJSE0doyNb8ASOksDK_PwJoN7zm_t274swUzcJjXUM6z5bmVSyG3AuIPX7XKeJD7aU5wpHOknfXcEjIDWA6KbgE7DxzdM9EtI_k6sT5MI-mwjtuv6810IhQdf3pMwUE7yGY9c6u1xd2xMbEWEcfuB95YfhuxuOFNhQA8FaGPRjozAI3DDKtvGgp67wqxobIpYlkb8O-643Rh9solrKNiv3ALq20Xf1JByrYxJe5YlollR2UzYdtumEqqisHVzYxq9TGBpdNItiAS4vPB2PCGehJsHrp4dLhPYerAFuBrNt9Yc7JV5RMKlpwmoB56l2pE18rQpEnFjQsDg4SU"> analyzing our program structure</a>, we can determine the maximum amount of resources that it makes sense to dedicate to speed it up – any more would be useless.</p>
+<p dir="ltr"><img class="aligncenter" src="https://5fwei.img.bh.d.sendibt3.com/im/3089376/f3b2da469c8788f0a3c5013d4255ce1ad7c72ecf0d405c97a9a381051889abcc.png?e=kCmeb55zPUsWqMSZIcaTf1j9eCoQLmjEczXRxIwAoc_t2rgLVxzORTBCHegN8C42cQkfMpQRMohRMwFa3Xwjg2suFjXpKXj-N_VXajRVMt1ycsfW7lr-m8LznBwy1-YCzBqKfIo4ozWdsbp4VdGvM7QCGJ9AkZogsgkE0L4kwhddHr8cD3HQq4SAdB3mFGlSvSSivOsJvYW2zFmV7ecJc8dDezQjm9oMRBvgl3TZ37gFu6C-InJXG7BFgOXWUczgN1tkL4tFeJPpteD6zL6vm0JlLRHFDWefexIRIbdJvjEsL5ZXxvx8_urWJ6iWK8GG_TpaHO2e" alt="" width="360" height="365"></p>
+<h4 id="docs-internal-guid-4a9d5d36-7fff-517a-b2a4-f26e138c9a97">Universal Scalability Law (USL)</h4>
+<p dir="ltr">While Amdahl’s law defines the maximum amount of extra resources which will improve a program’s performance by allowing parts of the program to run in parallel, it ignores a key overhead in adding more resources – the communication overhead in distributing and managing work among all the new processors/machines.</p>
+<p><a href="https://daijdhg.r.af.d.sendibt2.com/tr/cl/TxAv8-cLwiLlRhsyxWGHuELAnX5Q82be-4YkmfDYFjX1yvoQcVRmReLJKRCNHn0tV4tix4kG-BdDOb_scfRODkehvqxjGG9Ryh-bjOUkFfvpy5LExS8pkTVbKC3lb5BguSZmdLmic1siO5EfBFRZjs-LvfLx1B_jBV-E73cjfYQ2rb--9KWIgiNV6CyFt5ZpBI6Y1K1Id47ehOdCI2CjRF16xLXd9P48b3p02duc1dEz-NxjEYjgObQqOChNwA_ClZxMVb3IGp3lITCfiBZWgaiubRneRHw2NDbRWzhteC7GyNumbTBJqc-IcVxPqnA1F_cVUCkkhXrksMUATmXQ7heM0Kt7M65EOsl_pr4ZIPSNeur_Q6iwBKomxZEjtqjTSqYlBp93MdVff1XkZTU-UxTNbFHSrXJe74x1DEJSxggM_n6BXLibaMauYlTeBE1EnY56SNGsEZ1RYnFJlg">USL</a> formalizes this by adding another factor to Ahmdahl’s Law which incorporates the cost of communication. This further reduces the net gain we can get from the addition of resources and provides a more realistic measure of how much a program can be sped up.</p>
+<p><img class="aligncenter" src="https://5fwei.img.bh.d.sendibt3.com/im/3089376/da8d492bf5799e42982528c2127e6c0e0ee5e074cceb695acc1da32c0f616639.png?e=VQvlti_vHzgALnh8cyc2LvVtW50esxh1A49tR5fdb2ozsJ8N8epT8ge34qJMEk_Ta_EUgkdcdeeHK9WHe44Xlrk9ajoF3yRUdpQKFjdilQHIr-UWFtLfcLJTlXbdmU3HNUeMQhGDmWkno46Qg00iln-4F4Eek6TD1BB6CfIAfSy7L88Qk5Dsbx137ond01R-9dOkjimufRZfqYxk2_LW5RilTY6WNodvP4GC4Y7E0HvBwxfiRNl9Ahh6mgJ2HgS0Y9pAOC4FF1v4PT1LqP9x6l5upX-Fwiip0J-mJ1845od3BiY0QsZeCe5MFU6eCW-vkNT9uE0" alt="" width="370" height="95"></p>
+<p><span id="docs-internal-guid-91198f97-7fff-fb15-9725-52d5352cc7f0">Real-world tests show that in the worst case, these communication overheads build up exponentially as each new resource is added. Program performance improves in the beginning due to more resources, but this improvement is eventually overwhelmed by the communication overhead.</span></p>
+<p><img class="aligncenter" src="https://5fwei.img.bh.d.sendibt3.com/im/3089376/5b7120606ddffb89b24b5de751de25f1b24ec4dc1ecea7706405ee4d9b70ad5a.png?e=9W8_O5prYal8JYXeUv3AVJsN0cStF_ePDMqSlpF2jQUF2xQUtg8HqYG-_ALg2pDgaoh9tgTViWNx1VGKIigVOv0JdkRO1puymDe6g9cjoK7icPoGJ7gjovN6nSXCDDCxJ4tR89FEnhZjmu4PA_8wNNBoI_VgKHsJmCsSbYUQmrSqQOsLtoyRXXZsp4tzxZwsqMBxhsp_NuU4sjzHTwx4R20zHD4zSYQKyLoSxMXAK1jKrIra_Ksgio_zatdFLHmDvYWdhkZmto67YHsgW-ZXXZFd-0gIzEBcDWz6N1sErIe9wI_DaP8OJt4AMPXa4FORB5Osu2uG" alt="" width="392" height="239"></p>
+<h3 id="docs-internal-guid-fef15b0d-7fff-89eb-0575-6ccbdd260463">Strategies for scaling systems</h3>
+<h4>Vertical scalability</h4>
+<p dir="ltr">Vertical scalability says that if our computer is not powerful enough to run a program, we simply procure a computer that is. This is the simplest approach because we don’t have to make any change to the system itself, just the hardware it runs on. Supercomputers are a manifestation of this strategy of scalability.</p>
+<p dir="ltr">This is essentially throwing money at the problem to avoid design complexity. We can build more powerful computers, but the cost of doing so gets exponentially larger. And there are limits to even that. We certainly can’t build a computer powerful enough to run the entirety of Google.</p>
+<p dir="ltr">So the vertical scalability strategy can take us a good way, but it is not enough in the face of most modern scale requirements. To scale further, we need to make fundamental changes to our program itself.</p>
+<h4>Horizontal scalability</h4>
+<p dir="ltr">The simplest computer program is one that runs on one computer. The limits of vertical scalability indicate that the fundamental bottleneck in serving web-scale workloads is that our programs are bound to one computer.</p>
+<p dir="ltr">Horizontal scalability is the process of designing systems that can utilize multiple computers to achieve a single task. If this can be achieved, then scaling the system is a simple matter of adding more and more computers instead of being forced to build a single extra-large computer.</p>
+<p dir="ltr">The challenges of “distributing” a program can be far harder than the actual logic of the program itself. We must now deal not just with computers, but with the wires between those computers. The<a href="https://daijdhg.r.af.d.sendibt2.com/tr/cl/PL_O13Xfa0TY_BhDdXXZ5nFfRkdZ7HEu1QwTv41_gh7IOKTufcq-6xQ8E0zhpGGw1HmKXqF5WoW-vjVpIQRT6DXT6lSj1Sj2kga1DkvWPAg-A9tak0u-qPGZVR8K_eb6-Fanf9nKAI83ljTWQpD8cHTrlxxnclXvJhUkMy9QxA35QhhuCSfxan449qPKmrvmuVPhzmg3MxHByT9O-PA7CvaJ2R9vOHQRWMbt-v1GTXQTJK3OLGdikW4mYPORQQWyqqhwC0UnaDSxoNtX3jNHpYYsCDm0rODo_olxIJH76I7U1zdRhulEMrRZF4Ktw-WQBSoLFXSyiRB4ioP-QAaNDstBKOvi_pKrzLa6GnhDDyhcCxmV6yr3R6ArhS8wNNCPwUW_c-YtwBEbscdLBX7Q7DUdAwKSmAsW-lAP3hZ8HwZ0qph37e9PmxJDjblh"> fallacies of distributed computing</a> are very real, and demand that horizontal scalability be baked into the very fabric of the program instead of being tacked on from above.</p>
+<h3>Distributed systems</h3>
+<p dir="ltr">In embracing horizontal scalability, we embrace<a href="https://daijdhg.r.af.d.sendibt2.com/tr/cl/eq_ZPMhho_FLVCdvENeqKOrxuJI55vMsEnXILupGFV32rv9yBmHlAsJASQ_A0lFUg15UUZMEF3Bzg64JdLBiR61Gf8R7c_fiRo1UqeWkauum1BslOlN0DymjO9qMMJqeYChwMj45N0ElutCofsHNHX8XfuljBk9JO5bUQQGDclyRyJ7KRJ53zix-xg9kReyZOiUsPiVcr9t83P3adonI6mlwbEs6QqrRhNTYaPb5Y9FImHmwZ3SMZwRCO5vTr7JTtriAmmfE_OP0TNcXTzUujZFejvTFWl3hn7W1PNm4x8oIX7tUe9psaXlB1lyJmLgAMgL7UHGFyF8c2uMWn3PBh7Eu3qtFiYjwtIrLjNukbkHhgUtUIdS7wv7eE9yalKIfjN9QtOTvZE1dH11gXg"> distributed systems</a> – systems in which various computing resources like CPU, storage, and memory are located across multiple physical machines. These are complicated<a href="https://daijdhg.r.af.d.sendibt2.com/tr/cl/021OY-WamJn2lTEjh-IOzAMzFUyz8LhpuxwTzZP2stwJ4asXypX_lBIoYBGzEYo3k208V_hLIKkhN5zKpUfSSv0rDk3UWJdEtFt2Uua9Yd4EgaULwm-Jl-wrBBIkYK77b86-J_cMA26BjxPNzDFQv7vXm9TTerS_9KSYHANyYf9OWN5aGc8Lv34GvZQgDGwOL3VO8WRMFpj2defAszIPppMZU2SNJi-TO4jwYhFCffEIZK44z56B906eCNE5TpZbbhk3LhWKUpwLEdcLD-IxODq8rHxhi65WvWscOVO6H4jiWtAuIPTdbjOcSeUzTJfKzuQRw-h5fLnfiCm2OWKyBqNMx5MftjTJiIukPJl13aaJ-qOQNkmi-pP47pKcnJdUEahIgybc147ebXS7UC8b1inntj8cOaSiWMshjR4Nf9Bz"> architectures</a>, so let’s go through some main approaches.</p>
+<h4>Distributing data</h4>
+<p dir="ltr">Stored data typically represents the state of the system as it would be if there were no active processing going on. To store web-scale data, we have no choice but to split its storage across many machines. While this means that we have no storage limitation, the problem now is how to locate on which server is the specific data point located. e.g. If I store millions of songs across hundreds of hard disks, how do I find one particular song?</p>
+<p dir="ltr">Various techniques are used to solve this problem. Some of them are based on selecting which server to use in a smart, predetermined way so that the same logic can be applied while reading the data. These are simple techniques but somewhat brittle because the apriori logic needs to be updated constantly as the number of storage servers increases or decreases. Shard id or modulo based implementations are an example of this approach.</p>
+<p dir="ltr"><img class="aligncenter" src="https://5fwei.img.bh.d.sendibt3.com/im/3089376/45304279d841e44e9fb713c81d56156e7de9db37e9f1c230c0085b982cd1c664.jpg?e=JUBnNwDiAjg-O0KAdh7vv93am9-SpyQjF2fDxCzf0N_Q63TUZgw5JfXq9ncaTMO0ouz-En1ZzHpH5Eiz_SE2FaXba1GCOnzj8C90sNegPyfvTP2sfjOj9I6zGVLN_uGCDqbBlvnXKGjlKI_7v2ke2ZdWxNIF_5EaYpeM0hJPpy7rNjxJaDsCG3bAXaUYkUfK4vy7MhKryRNX8VWBynLJdU770hVlu57sPcVVE47KeP9jFxsNC8_-FzymUCMZlmfEe15c7-s4Y05sdMdHmO0-6msQNvscwbgj3Grtyp-OmzK9SL1-Hph_2_B9v0I" alt="" width="380" height="298"></p>
+<p dir="ltr"><span id="docs-internal-guid-c069655d-7fff-0c48-8914-18a95706cae6">Some other techniques are based on building a shared index to locate data across the set of servers. Servers talk to each other to find and return the data required while the actual reading program is unaware of how many servers there are. Cassandra’s peer to peer approach is an example of this.</span></p>
+<p dir="ltr"><img class="aligncenter" src="https://5fwei.img.bh.d.sendibt3.com/im/3089376/2ad70713ff3a500ed6f5624fd068c3e666ee691826e1569a8aed8bff3363f69c.jpg?e=7rxF1Jo0ugkdVkzv4gwcowvMEzV2Y2wNwuuy7p7a2JceR2bIL_l2l_69jxa0kljXxM2vSeXBDjFnhtngif_jTAbqH6tyEogVE6_IBhrhD5EglEW95l5nW1Ra0cefP_h7Neu0M9ubrhEgxNFxtIjU2szV1vH0x-ivSNOMcndOp9W-4PXpDdRdwq-AjW2Qlx6KDINFqwaX7MGq3f559RaXSx3JDDYi8_9xKUHRk7u53h8ksHhlNiL-syrkxt_Dte6KBpCA1xHbtZ7cPXzC09oMPBXUzat9ds21P2zkh4r_vJTS5dL_HLQ-xoS76hDT8Fw" alt="" width="324" height="385"></p>
+<h4 id="docs-internal-guid-1c741060-7fff-a426-9fe4-911dc906b3ba">Distributing Compute</h4>
+<p dir="ltr">A computation or the running of a program typically modified the data owned by the system and therefore changes its state. Being able to leverage the CPU cores of multiple machines means that we have far more computing power to run our programs than with just one machine.</p>
+<p dir="ltr">But if all our CPUs are not located in one place, then we need a mechanism to distribute work among them. Such a mechanism, by definition, is not part of the “business logic” of the program, but we may be forced to modify how the business logic is implemented so that we can split it into parts and run it on different CPUs.</p>
+<p dir="ltr"><img class="aligncenter" src="https://5fwei.img.bh.d.sendibt3.com/im/3089376/1091cd451ef72af5221d78e86d8ab54d3c824fcaff92d749d172144c0806fce0.jpg?e=GeLLaXNRWpfN4ULohN7_e1mfhwbGzPFKQSqKy222nhvpGagfUORwEmxUd3u9k6CrqBH9cpxa0LTBAEaYzjBN-SAY_auGvnfZ6AI7LuiKaZx820J2JIw7L2E2nlgOTwx-1HkUOsmj6dwL9g47k0Kk7bkprcYy0-3LMP0sfS1YZvtk2pUditjqg1lIx9rfnywiT-JZtJ_nMpFePp1axrhG6422qnxyPzlpqIm0Zu-o1OZ5A5HAj7MjDDxQa2vUtw0DGvrqUJ7OmVAxj-0UbxdtfFnJQxYuMF5sqgBZB9YLpNHhjoh0du4xDjaajaQja4HnwCc" alt="" width="423" height="179"></p>
+<p id="docs-internal-guid-6fe43521-7fff-13e9-2586-65e3ae1a74b3" dir="ltr">Two situations are possible here – the CPUs may simultaneously work on the same piece of data (shared memory), or they may be completely independent (shared-nothing).</p>
+<p dir="ltr">In the former, we not only have to distribute the compute to multiple servers but also have to control how these multiple servers access and modify the same pieces of data. Similar to multi-threaded programming on a single server, such architecture imposes expensive coordination constraints via distributed locking and transaction management techniques (e.g. Paxos).</p>
+<p dir="ltr">The shared-nothing architecture is far more scalable because any given piece of data is only being processed in one place at a point in time and there is no danger of overlapping or conflicting changes. The problem becomes one of ensuring that such data localization happens and in finding where this piece of compute is running.</p>
+<h4>Replicating data</h4>
+<p><img class="aligncenter" src="https://5fwei.img.bh.d.sendibt3.com/im/3089376/c390cf8ea162b36a1f0c85724e599fc48654394af71bce554d36cfdb19ede96d.jpg?e=ppmJwK2Ltsh32u4yETpHmIRP853YfalNxKwttRfn0wNhH8MTD1nvyJ9KB0iZsy_CNP5gHAxwwXGs5r0HGJP7ubGhr462Nd2_fgkzjeTr_pzGsRQXO9Gaglzuxss88E7lYW4gqYCs3pFeQnTWN1T9CZGKulVUCsLRkDpX2VznHmftMgd0Vu0nw-DwkT9B4yZSlDmqU0akCPn5-bzzleahBy9fqS4HqVHa037kRKvRxZsdug9WV_AtUXwfv_r_wb6yE1mdnZLr9xfJKhaFTtsSPg2BZrUpj9X6O9mrr48xQrMpAlNP7eurB8yfEk1BsBk" alt="" width="351" height="351"></p>
+<p dir="ltr">&nbsp;</p>
+<p id="docs-internal-guid-2ee7504a-7fff-9e10-7b4e-2f0ffb3023f3" dir="ltr">This is a hybrid scenario where even though our data fit on one or more machines, we deliberately replicate it across multiple machines simply because the current servers are not able to bear the compute load of reading and writing this data. Essentially there is so much processing going on that to be able to distribute compute, we are forced to distribute data as well (or at least copies of it).</p>
+<p dir="ltr">Using read replicas of databases to scale read-heavy systems, or<a href="https://daijdhg.r.af.d.sendibt2.com/tr/cl/W2eoUJJaA8KF_Z83S06qGqVVOgLRlNGBSqS0mRWLbbebaUlOISarNudFFB0JmlUyuvN0a0uj7cQoA_UulgOjoQ2QSJ-0MEe4KvgV0KJCdhCGspLvnEJFE01gADU2y9YLwKLXSstWbCwh6FXB5bDnujx8LNWHzJTbPwmlMRGpaEWKpvJ6C88zrwb6_JU3yiKJIJ6PxDrfknde7mBtdIpz9U7GhB8tI_D_PQ39GqaFq70Yj9-V2WEwAuq1U3_ZFxqDYOAu7mGECtcfS2lafGWUlkrSObhAZDJ17KMKiUaEk7kHf1bcp8W_hXI1l_H-jM01RJu-QtOvoz8ISkzTo2iG4TRaYKET6MdxAk_ZVkZd_fM_-UHdaFsQZdhOt4OrKFZb4zzB8rZKKy6toX1iZWUydqiKjXXOSylL6Bj1G8yEP26cHcL0uODVCFO1Y-iBfCsxasfa0yuSNENaFKzCLOQrnr4"> using caches</a> are an example of this strategy.</p>
+<h3>Considerations in distributed computing</h3>
+<p dir="ltr">When we build a distributed system, we should be clear about what we expect to achieve. We should also be clear about what we will NOT get. Let’s consider both of these things while assuming that we are designing the system well.</p>
+<h4>What we won’t get</h4>
+<h5>Consistency</h5>
+<p dir="ltr"><a href="https://daijdhg.r.af.d.sendibt2.com/tr/cl/gTVZKxdI-VUMFDI_1E0tfVBxKN9gifcv37ZT6KCsBZbzK716WjLhSlMtyjvPX1jrVJKxmtfrUsCmxsxzMCXjxtLFF4jjefp_Wp9T06Fv9P_JmI7S8SPtDkBHNjLkxaxW6BLfhCzZ4suwdZEDCTFhX_MnKGO5xbbesuuHdthkxNfVCrLekLgW21mJ8Xbl-EmK4VDPmD9ibvZsFTpORb9h6DsX8Cp-5I84z4YHU2_f_jeQwCfiL-zRP92xbjxg4QIeyGH_fDxo9rbzmM1mzRMPWn-rfzamhPc2TjiJ43lbsugU2E45m7nCZQAmP9qO62aeBAQX751Xq-O9uMkuirMI62W5ATt7FvV30JK34xe4Ke4ZoQK60hiwsewRT_aVYj4QC6i8fTKeeE3SJCs_aVc1MJCZNmgaMnZbptWjymUwnKkl">Eric Brewer defined the CAP theorem</a> which says that in the face of a network partition (the network breaking down and making some machines of the system inaccessible), a system can choose to maintain either availability (continuing to function) or consistency (maintaining information parity across all parts of the system). This can be intuitively understood by considering that if some machines are inaccessible, either the other should stop working (become unavailable) because they cannot modify data on the inaccessible servers, or continue to function at the risk of not updating the data on the missing machines (becoming inconsistent).</p>
+<p dir="ltr">Most modern systems choose to be inconsistent rather than fail altogether so that at least parts of the systems can function. The inconsistency is later reconciled by using techniques like<a href="https://daijdhg.r.af.d.sendibt2.com/tr/cl/EAkeblAi6mPGFhYVDsonPFZnz8FZ_IU4Fq0u7JxcWshHRTN2SEfOznMtixCfM1rrL8wtoW5a3Ljb24GznNnVnUvyBweyqzRBQU72aDm10d_9OYqdOpIaLOCErzHj4JzJ0-4DJKuwyTJI5j3Dw6SA9PsP9Bns4tuOE1Nw_tgNyOodUzJyvPZo2YXOnHvqzweTIBCAVWTQ6U9Cdmg4tTX774tgjSmSHtcFMic7ggkeuEXn90Vcx49TBFlilQDhNIp-sI6qt5c3IZ7p1vLv3rYz3tz0PC6uyictMm2QwPRowOGsE2QSvxEa_q9s6axZID_Gr17OkD_CsXt1W1RBbTFkm5zX0GqC"> CRDTs</a>.</p>
+<h5>Simplicity</h5>
+<p dir="ltr">A distributed system design is inevitably more complex at all levels from the networking layer upwards than a single-server architecture. So we should expect complexity and try to tackle it with good design and evolved tools.</p>
+<h5>Reduction in errors</h5>
+<p dir="ltr">A direct side effect of a more complicated architecture is an increase in the number of errors. Having more servers, more inter-server connections, and just more load on this scalable system is bound to result in more system errors. This can look (sometimes correctly) like system instability, but a good design should ensure that these errors are fewer per unit workload and that they remain isolated.</p>
+<h4>What we must get</h4>
+<h5>Scalability</h5>
+<p dir="ltr">This is obvious in the context of this article. We are building distributed systems to achieve scalability, so we must get this.</p>
+<h5>Failure Isolation</h5>
+<p dir="ltr">This is not an outcome but an important guardrail in designing a distributed system. If we fail to isolate the increasing number of errors, the system will be brittle with large parts failing at once. Ideal distributed system design isolates errors in specific workflows so that other parts can function properly.</p>
+<h3>Why are distributed systems hard?</h3>
+<p dir="ltr">In a word – coupling.</p>
+<p dir="ltr">While there are many types of coupling in software engineering, there are two which play a major role in hindering system scalability.</p>
+<p dir="ltr">Both of them derive from a single server program’s assumption of “global, consistent system state” which can be modified “reliably”. Consistent state means that all parts of a program seem the same data. Reliable modification of the system’s state means that all parts of the system are always available and can be reached/invoked to modify it. But as we have seen, the CAP theorem explicitly outlaws the consistency-availability-invocability in a distributed system. This makes the leap from single server architecture to distributed architecture very difficult.</p>
+<p dir="ltr">Let’s look at both these types of coupling.</p>
+<h4>Location Coupling</h4>
+<p dir="ltr">Location coupling is when a program assumes that something is available at a known, fixed location. e.g. A file parsing program assumes that the file is located on its local file system. or a service assuming its database is available at a given fixed location. or a subpart of a system assuming that another subpart is part of the same runtime.</p>
+<p dir="ltr"><img class="aligncenter" src="https://5fwei.img.bh.d.sendibt3.com/im/3089376/1b805eb68559a4375d5cece4f5e8fbf8e67ca898420713b4a02bd61d509dbbdc.jpg?e=pl8O4jrw9lhitFClGDf2o9J8qnOe6MshN2f14UEZQPhcXzD7oidkIjjnDewUxur1JE_-AWd2Cw5xT6fEQ7LmQNq2r7Up25NfzbtB-rX0MmrUsabysyXeEtxc1ExWIULSLC9VI6rh5FoyvXHOSlbbGrq1gb9-tDIGQCBURNK48hYAlDVE45OgpHW8YcsctwRx5QkQ_IauCS7sbf-ZjWi5VHFp_ajmQhO161gwODmOQi9UPVziej6AUYMokqiYvV02ddkNzoYyYkYWXlH8OYAPaBv1PLouG1eYnBoIym86h7SDjpSRZyfIaF5eDaD2uiMG" alt="" width="396" height="272"></p>
+<p id="docs-internal-guid-4b26c859-7fff-17ef-1143-98385b1b9a2e" dir="ltr">It is difficult to horizontally scale such systems because they do not understand “not here” or “multiple”. Additionally, their implementation might assume that reaching out to these other components is cheap/fast. In distributed systems, both aspects are critical. A subcomponent doing a part of the computations may be running on some other server entirely and therefore difficult to find and expensive to communicate with. A database may be many servers working as a sharded cluster.</p>
+<p dir="ltr">Location coupling is therefore a key problem in being able to horizontal scalability because it directly prevents resources from being added “elsewhere”.</p>
+<h5>Breaking Location coupling</h5>
+<p><img class="aligncenter" src="https://5fwei.img.bh.d.sendibt3.com/im/3089376/bd291742da6b37f3ee121c75305b22bac8953baebaea5cb2204828576c70fa29.jpg?e=RNuT-njeswwWRiX4rylL1e8rCWYJeztHiKudH_UoqIsSYtf6RPLVXXO1LJHF0ZHWHQN7CHPxMWugm6t4N0Hm2PHaNbcobLMtp_wYHxDe_ht7k8J63QUDjYXyfTOU6ym7sE-KcHEQcXJ56tTty56UW_TWou7Urd-v-o5W318eLZYeuWyqxPDfEKNxpkujCdqu-LHzAr0F8jrn3P3P-fF8hN1UySC3lo8sDCgAusjAxIOb-8u_T_q_BGgIlVYHWBxA8YJppN7IiDObI7VgCxJ7v58IiExEMENleBUSYlPnrcJ_7tb7l5DOvcRERF05vC8_Jlxbzgq6zzVY" alt="" width="438" height="265"></p>
+<p id="docs-internal-guid-991a066d-7fff-aa87-f3a6-2c3ce8efc1e6" dir="ltr">The trick to breaking location coupling lies in abstracting the specifics of accessing another part of the system (file system, database, subcomponent) from the part which wants to access it behind an interface. This means different things in different scenarios.</p>
+<p dir="ltr">e.g. at the network layer, we can use DNS to mask the specific IP addresses of remote servers. Load balancing techniques can hide that there are multiple instances of some particular system are running to service high workloads. Smart clients can hide the details of database/cache clusters.</p>
+<p dir="ltr">An interesting way of becoming agnostic to the called system physical location is by not trying to locate them but by leaving all commands in a common, well-known place (like a message broker) from where they can up the commands and execute them. This, of course, creates location coupling with the well-known location but ideally, this is smaller in magnitude than having all parts of the system being coupled to all others.</p>
+<h4>Temporal Coupling</h4>
+<p dir="ltr">This is the situation where a part of a system expects all other parts on which it depends to serve its needs instantaneously (<a href="https://daijdhg.r.af.d.sendibt2.com/tr/cl/W6_2PizswEuIYSuIyA9DSvVGS0s4A3y9ap7Mignv7BbiEWO9E6Dc_nuEbFP24WYreTR81ko1Komhc3LUVA9-CKlHVsc3CzL6cp4TeH61iI5yyhrcecMVpWeMaO1bv12p7byx5OVyjYtnhNu_cYFXUAfEaRS5S10oVy0rBwTiXHT_AeVvqhLCBmPfz7esAzik4KeEthlyiDVnnJeS_cB0urNFHPm0xKvZev3kiLy7m8-HlrEWvfmmb31quZoCFu_VzG7Aui8hOpnvhCFgxdDPFGZbGvihDIB7cQ6cZJL8C2ZVVIr1HySehhHpIAzMuVJSOTchOEjtFDuhGK-23e9lwlP1meSFo60EX6Lqeq4cmt4VJEPUuoISt1S6DCX1737XoFGfvHciiH5in3wHhQRmRfRmPp0vRTDzIg">synchronously</a>) when invoked.</p>
+<p dir="ltr">In the context of scalability, the problem with temporal coupling is that all parts must now be “scaled up” at the same time because if one fails, all its dependent systems will also fail. This makes the overall architecture sensitive to local spikes in workload – any change in load on any part of the system and the whole system can crash, thereby removing much of the benefits of horizontal scaling.</p>
+<h5>Breaking temporal coupling</h5>
+<p dir="ltr">The most common approach to breaking temporal coupling is the use of message queues. Instead of invoking other parts of a system “synchronously” (invoking and waiting till the output appears), the calling system puts a request on a message bus and the other system consumes this</p>
+<p dir="ltr">You can read more about<a href="https://daijdhg.r.af.d.sendibt2.com/tr/cl/1j5sDdgCkJAT_qWAzXqBmnHZA4BRFGgSiaYr3jc89sJUlG42XUNUu-mvlxGkLt48RFBPCD-X4TfLfpwgQTH10OOcmKRT5qkqVYndWA2kg7M9xS9Y9c1BF39oC5NjtRlWkWVCevQjRmOCuwkkOMNy4J9x0MSIg8NW87Qvr3sbCJ2oG-FanlaLupJbDtEY-8SI4BGKFvp3X-IzyLCKpIMIFG3GWUhJbpYzPqyRhUEa8m_cF1-YtzoFVZ9CPBof27JYEAZl0VGv94NR8XRp6SUcp0twomEIh8lMqVayJT5DisK0ElX5x7IHgTbiZb154Emh4khhu1GswjZxdNb54ovX2A_f-vU16lzdYmHMoFF4vbpi73jZvNWbPB0VNY7qZT56k6SRTcg-BvUyBZxQMnhG-Z8A1snEbmtCa5IcAg6b0Df5nUtGq33GCtlhJRnkvdjVV0y525RWo3nN"> messaging concepts</a> and how<a href="https://daijdhg.r.af.d.sendibt2.com/tr/cl/Ipl1UMgYwmi2bzMuIwOMFk3UoAlKVzLxXwB7wqsB7wmfy0wjphbTuA5EZ4-vlzfa-q4o8-Xa6stDrde6sou93mAabvoNvtFyBjXk6yQFiUpRGM-jlPClxTXoxqdbQ9wKnB1_f--e-mgQcdADp2SaYYSO47moAJJYtgIZzRFX6DinPsdkJfLZE9YTMk36SAWFYhBb2pftWaciS-AjzaNO0GQP6UINgNtLNDEZHSz5JSew3J-O1kjH62N219HZUq0ySbl5xEpaatKbzs0L3KBKJUDcH7hLfqG4uklb_VcDs2PoW730r5wOKYMeMdD-NNtySfTxJL473PwZ83BKPU-OgF9hFfE_1k2-HFrDjNGmxorMbTaiuY3_T8Op0wdeduJE-6pLOR2CnAbHNpghW0LPtrTM1y_hQVT-OkeGczq5j6kpaEoa0siXzGcZXBnZRornf-lsxjjif69hhtDJoJNvA_tgVWKP-J7CFJcl22mnWFFB"> events can be used to build evolutionary architectures</a>. The event/message-driven architecture can massively increase both the scalability and resilience of a distributed system.</p>
+<h3>From the internet</h3>
+<ol>
+<li role="presentation"><span style="font-family: verdana, geneva, sans-serif;font-size: 18px"><a href="https://daijdhg.r.af.d.sendibt2.com/tr/cl/rZY1KIFwtwtBSsUiwgiZMNtJpIZSCjJwZQkjcjqQiwlF5ks8ZaXFh4kuxHKDKIamQttvbOKBcRF8DVv4LxgbhWLaF9ZLp3kRIL09x5agnjH4ebg0t0q6NfBO5H4uVw_eLS5Y76hiAb5Eac8io5HSMjvv8MGbkQkMfCYomFPleom_WC7a817QMsvMRS7kdjHHc0ptujrTkqvBytIiEpuRsHs7C1-H-cJdW1B5ow4Hgp4kBki50lzv_al88KVRLZLIoDbOytmrBYhFwDEA5bKP7xEqDes6W5ir6KuQ0e3lAFymnYB15EUn-O_dort4BYdOezuaDNfjbP94I9y_KmwOie7mqP7k8kqGpVF8TL4ZDn46kO2K5A" target="_blank" rel="noopener">Sander Mak</a> on how the team at Picnic thinks about <a href="https://daijdhg.r.af.d.sendibt2.com/tr/cl/ws9Ss3-IO5kEdqNn1AzKzPvQ4DWUMjn3kjRck8YoDLXBFLPTbUohFFiPTpECEG5Sy7sjipGBMKsSM9QLVPM507uWX-bRR09nkeDYYnJ0DniONyD7SnCNRwamOJXfEMs0nFEQWJJb6Qq4P4kJlYmfaeUl7IAxpg94r3HJOYFXFaUi0WenLWd3ubpAhzI96qnDAJ6AUcGsMY2eyONYylnayo0a79AJAcnEH7MUYjNoMI_8QWb5BhUR6B27q3zAE0g8Gd2GbHz4AUOMVjWDXJTLL0OGjYAfRGK-kvqlREnDJd9MAVz93Qxr3qv-T6dwHNlXTEk-8SKZJqox1MNBj0NUjKJjB_sPdSE8GTYkvJIkNG4VqQeWHDbZcfaPu3KbHjJZ7l0XlIxW1a3Wl5wQGXuh1nRvN3SjBaq7xKI7wvfyTmkhZNCTM6eVy7HIn0QTvDRVcg">scaling up their architecture and processes.</a></span></li>
+<li role="presentation"><span style="font-family: verdana, geneva, sans-serif;font-size: 18px">This Wiley review of <a href="https://daijdhg.r.af.d.sendibt2.com/tr/cl/LQsL9IfjdN8kmIx8PMh62C1m3cMnHU6u95ZZnyQxM6WIibV0YyfObCficjmXLq_SXf2ZRGUjo3RHvBFnfJ7kgxoGsMxI3UM-uriRBImBewr0wtxmDMFQutgqwfPl0_gLBnKYzK3gM4f8RMuHemsUIFm7ID9_amKsk28sFmtfqhnQT85Ta6g6HQJ00bS5W_8mpHScu-2KPaIATZzWdWcTbEAFjedzQ4sj0672lrRKkMigxgoOh6Ddm_Pm4FQLy-Iubb4V5G_Ll-nrpUpnXUKLyhNs8AvgiRZty8WAZJoDLPEgudXhkubw9V16oMQqpzpxHYOkKSJV2q8qg0xJCSlxNnan1cLWgGuMj7RDSCXhvCsJpNCDxbXw02dNrMMc7aeWC2wppwLI4fdwHUKDifxxEipz1X2LC6G_XciWL6gOGuVC7dwyzg">academic literature on systems thinking applied to engineering</a> is comprehensive and fascinating, even if a little daunting to get through.</span></li>
+<li style="line-height: 1.38" role="presentation"><span style="font-family: verdana, geneva, sans-serif"><span style="font-size: 18px"><a href="https://daijdhg.r.af.d.sendibt2.com/tr/cl/vF254iWcJRUT4OKVvx7-Y45mcNecxf9PUvxlbThGWCjnHKW4YGh5fyeR3MD0qD0imB6x_oPp6o5qzQt-dpWXWz6wuuyaFUHZfQVMoKDBfMNKGVq4HXWR74rtq1clLzRZ-ZThjqd3mxED1KebmUDLLwlwfPtoeKaHgFxeTqRM6-X_9mLEb1s2lZm9payLWsFvvqMVW4bEzl4aEm6z0AZvdkNo4NYSIuBjfo7IxAfpm412ocE1OYXumVIN6tpK8WK0HJMyUkbJALJQHQCSgwTMlG9TdpouleT1d6bJGWKU99xhiw3IbSV5X1IcSaFb92B1C2eBUiyW4oR0l5fJqzCYkw99f7tqa-kujmGTF80wpeU6CCIxP2GQdW4" target="_blank" rel="noopener">Jessica Kerr</a> explains why we should aim for</span> <a href="https://daijdhg.r.af.d.sendibt2.com/tr/cl/wVgkBu0uWxT6hc5DB8kdp7iVBxluNKlogo98SR_wG65FdUNuMsr5gH0SRqOQA9LM92CHqsfIo19t_cCvgsyhKr4_LPaQhWRnz-WwjmbpfyYPgsuz6VkOAcOGEqNBDxLvHW_415Wxl_AzbfEMEYATSA11sk1_6vdn3qXO0sg_9cbPyPmthswV8V5mAewSQDqnj-C00PEE5k0haJzQfTMGxwqaqRAKwit9eqpPg4pnMK5clkFw8ic3JBIGBROSGVDZKdO4ZHdaXt5Ff_UsofdWZlu-CokgpOcCdTif0StfN8qhmQPqhbLhPKAII8pbQmsN9Tcr0ACS2JaQYEs2ln2fhBbxLY0-_tokpxiC6xNiVf2HMhtMNnlodgIDoIm7VFjXNY7FbrDLQF6H1XI7oW_s4IAnV44vG5sgxfPfsooDosmjcWaGJAu1qUZUL1fG">better software, not better coordination</a>. A topic close to my heart and something that I have written about several times in this newsletter (see <a href="https://daijdhg.r.af.d.sendibt2.com/tr/cl/31Jud_hzB8qiLN0k0kq40pXUYVzNFuLqZT7CphfrU2Hh_FV177PcwOMvZ2DvJxw8lV9eTow7frxz8pI6ZUkogI-Lks8WT97OBIdRaFk3mnXrpm9DujGSA_eOv4SGZ1Q1n9cbfNMeV_WiNDsG_TqFvSu_J2jDRIqTQ8rNkZvIkrhMF7hWV1Oz8exccGMQCcuXYYvkTm9bYyuEyJdmXcH8mknHd9ntKGrdQjxyHW4f3rGQ2GFScpzcLNzr4oFmMEq8tcaF96PtdXNKhGKbztSNAJW4L8VTGuZDrSifW6nv7stcECEZ0j6mHeOQtvE2wgloKz-nu1oht2TWXfZgtYW3_QqVdkvospneeScXEcym8kpvx1dckK0qEfU3zA8aRJK70w1_ub-Fe9bzfBbiqjvCjJB-Vb5cHRiRnLtT5AwLDu0mZnuq4XMwxPdY7JBKITzpJPb1aP0HGXx0sdkDBF8Dr0qdNDSbB57Hhg">this</a> and <a href="https://daijdhg.r.af.d.sendibt2.com/tr/cl/vlmYC6Shi3109dBZ70dEttwfWIr5f05jZqAHiBHwV7ADNSQEL5AYr6pLjnAgOaBtCzNHJ_iU3uwoh3XQl3wBq7Y3rJF9wGswjqcEkhikXgIWNghU6R94t_iUsESpOrIXTU4l-BRyiuef0zChm3RlIcONefkxgrc9bslrL-Y0X_WrWFzEWIQ2jA-Uv1o-az1NMMlPueGLQm-bpP00xb3dXzp7q0tXc2qsMUpdyvjX3q0mPvBLVzcBJiW3eLQIHAqQ3HJuJ27L44C7Pd-VcOQnr5KxaTsFijorZG1YCPczTP0tstfkRb_6I1lnmUQLnzi3n11Qf0H6UQUr9B2P4NjlN96MOJuTnbGPcnd700VfP2Sld1r49Wai3ZT8b4DHaXWtM6JHt_LuX1PnmvqjmOpDlrjy4x6f1QEUvdS8gjrFnRUhCoiWGpy1hQYOZraz8ApezFwB2V4">this</a>).</span></li>
+</ol>
+<p dir="ltr">That’s all for this week folks. Have a great weekend.</p>
+<p dir="ltr">-Kislay</p> </td>
+ </tr>
+</tbody></table></td></tr></tbody></table><!--[if mso | IE]></td></tr></table><![endif]--></td></tr></tbody></table><table style="border-collapse: collapse; width: 100%; user-select: auto;" class="tnpc-row tnpc-row-block ui-sortable-handle" data-id="text" width="100%" cellspacing="0" cellpadding="0" border="0" align="center">
+<tbody style="user-select: auto;"><tr style="user-select: auto;"><td style="padding: 0px; user-select: auto;" class="edit-block" align="center"><!--[if mso | IE]><table role="presentation" border="0" cellpadding="0" align="center" cellspacing="0" width="600"><tr><td width="600" style="vertical-align:top;width:600px;"><![endif]--><table type="options" class="tnpc-block-content" style="width: 100% !important; max-width: 600px !important; user-select: auto;" width="100%" cellspacing="0" cellpadding="0" border="0" align="center">
+<tbody style="user-select: auto;"><tr style="user-select: auto;"><td style="text-align: center; letter-spacing: normal; padding: 0px; background-color: rgb(255, 255, 255); width: 100% !important; line-height: normal !important; user-select: auto;" width="100%" bgcolor="#ffffff" align="center"><table style="width: 100% !important; user-select: auto;" width="100%" cellspacing="0" cellpadding="0" border="0">
+ <tbody style="user-select: auto;"><tr style="user-select: auto;">
+ <td style="font-family: Verdana, Geneva, sans-serif; font-size: 18px; font-weight: normal; color: rgb(34, 34, 34); line-height: 1.5; user-select: auto;" width="100%" valign="top" align="left">
+ <p style="margin: 0px; text-align: center; user-select: auto;"><span style="font-size: 14px; user-select: auto;">If you love reading <em style="user-select: auto;">It Depends</em>, consider supporting it on <a href="https://daijdhg.r.af.d.sendibt2.com/tr/cl/cNkVPDEwqSRy2_RdG3Q8TXWG8MfeNCOV2pA3lZGGc-aMwqxawLN4PQheTFnP8naqXHBPzfToBQJCtKtvo2VzHO9U-PoPZjhZhRXEeuKhc1_YtNRAzqqhpYrSmAXuVTZwGQsdr7mJo_nnOaisvYjbMKgxMLGIV1cRmdOPwbPXOSjETE3Rf_tWPNv127ACcWCmPmM4msqSYzQFpehYPeTjJLlCrX9BtUDBSmxHrW7NBqcZdw-ZeZjdbFupsHqzvIKaKUaK1quhYryqaikzQFglilDhlclBSkKwpWz7c-TIEqiBEY48OWUh-BLQm4mpdvTGt4utDjawCfPRExKrLutGRJ8V5oATNFW4x96CMS9G4dfhI-ISfPpiAidGXOnD2ECFZ55kThaGdKDwNgTlChUf_4ny_SRu" target="_blank" rel="noopener" style="user-select: auto;">Patreon</a>, <a href="https://daijdhg.r.af.d.sendibt2.com/tr/cl/bkXIK7MyZZpLD8V56Ab78VapNWL6caw0vF4w8fBKb6PwgrM8WABP1O5bCCkeVBJ-a5RRXeq2CSzqvDjHcURPcKOUmxBexsAttrnSAIXeFlxShd171lQ4i2cYVbVgMh7vq--dFccaNCjX9q7BdZODdhsAQfO3Fs6e4qPsyzTvpS7eQiYgQj25Rt5BG1CBcUcY7RaQvm3YJ9fJ4NNIheaumiR5kVf71Tix_wLJxQUqJvxWQd-98tcN-6bGb-CHKFt2gjCIRtLCX5b5XttNMR-7i6mjuo822GT_O9V5wHOWCQ1vtbpnBmWrYTgz9_tGR3xVavYYSL0zbCvcGicP3RC9q_LPeynOUdk9ZGWU3hQltHVFxBchZs47ikQ0ZC2f" target="_blank" rel="noopener" style="user-select: auto;">Gumroad</a>, or <a href="https://daijdhg.r.af.d.sendibt2.com/tr/cl/P65zbHltStfhDTru1V8ByUxJgYz691ZeB5GJgQOLBRIEIYWIaLtwun2nrN7abtLIav77dzGz05QxYBN7aJ0ZI8oT1L3J1gGCCdl_lBeN05Xb4yYKUWN-VE8tCqCBl6_9Ht5K2nNXiyDTkzfKMChhD9HscGMZFsgTB3UgjUt7oPK4_2xxsg259UwYgXBWJzsfKzpsTLO8EMFOw7d3KsqdfVWr57Wx8o104sVAZCXkFYN7t6jIhoZGbEieN1Xj_TbSt8dVSgjLSSeAHkxJSPeAkLDVrlvNEwZNshYKvgCUe7NkVbjjEYK7B3s2p6DpocJy7BCqvtmsjpzlGnYXXvVSlcidRJrVQC790J5W0FKM8YrEFpvyOnv-WnPKU_bfhZ9j-w" target="_blank" rel="noopener" style="user-select: auto;">Buymeacoffee</a></span></p> </td>
+ </tr>
+</tbody></table></td></tr></tbody></table><!--[if mso | IE]></td></tr></table><![endif]--></td></tr></tbody></table><table style="border-collapse: collapse; width: 100%; user-select: auto;" class="tnpc-row tnpc-row-block ui-sortable-handle" data-id="separator" width="100%" cellspacing="0" cellpadding="0" border="0" align="center">
+<tbody style="user-select: auto;"><tr style="user-select: auto;"><td style="padding: 0px; user-select: auto;" class="edit-block" align="center">
+<!--[if mso | IE]><table role="presentation" border="0" cellpadding="0" align="center" cellspacing="0" width="600"><tr><td width="600" style="vertical-align:top;width:600px;"><![endif]--><table type="options" class="tnpc-block-content" style="width: 100% !important; max-width: 600px !important; user-select: auto;" width="100%" cellspacing="0" cellpadding="0" border="0" align="center">
+<tbody style="user-select: auto;"><tr style="user-select: auto;"><td style="text-align: center; letter-spacing: normal; padding: 20px; background-color: rgb(255, 255, 255); width: 100% !important; line-height: normal !important; user-select: auto;" width="100%" bgcolor="#ffffff" align="center"><table style="user-select: auto;" width="100%" cellspacing="0" cellpadding="0" border="0">
+ <tbody style="user-select: auto;"><tr style="user-select: auto;">
+ <td style="border-bottom: 1px solid rgb(221, 221, 221); user-select: auto;"></td>
+ </tr>
+</tbody></table></td></tr></tbody></table><!--[if mso | IE]></td></tr></table><![endif]--></td></tr></tbody></table><table style="border-collapse: collapse; width: 100%; user-select: auto;" class="tnpc-row tnpc-row-block ui-sortable-handle" data-id="footer" width="100%" cellspacing="0" cellpadding="0" border="0" align="center">
+<tbody style="user-select: auto;"><tr style="user-select: auto;"><td style="padding: 0px; user-select: auto;" class="edit-block" align="center">
+<!--[if mso | IE]><table role="presentation" border="0" cellpadding="0" align="center" cellspacing="0" width="600"><tr><td width="600" style="vertical-align:top;width:600px;"><![endif]--><table type="options" class="tnpc-block-content" style="width: 100% !important; max-width: 600px !important; user-select: auto;" width="100%" cellspacing="0" cellpadding="0" border="0" align="center">
+<tbody style="user-select: auto;"><tr style="user-select: auto;"><td style="text-align: center; letter-spacing: normal; padding: 15px; background-color: rgb(255, 255, 255); width: 100% !important; line-height: normal !important; user-select: auto;" width="100%" bgcolor="#ffffff" align="center"><a style="font-family: Verdana, Geneva, sans-serif; font-size: 13px; font-weight: normal; color: rgb(34, 34, 34); text-decoration: none; line-height: normal; user-select: auto;" href="https://daijdhg.r.af.d.sendibt2.com/tr/cl/kaHhv5NcheRRfEDvzAkdsen4e8EthtLQu1Vy_ZyFm1pfcKkm4i8p-RVPiqvGcLXmfZws70XC_Bo4WPiZuGxMpJFji0CvLTUPrsmfXME7AjuosYQkMv_83cbqf_1Bm8i6zS9CKWtXrfWu6EqLF0cB7UI8_xkInHP9g6zXwRCwbF6wSEG_Xw8kGGewevtEgybV2zfy9iEw8tpZVJxLKNe5DWI2bdM1jb6OMP7fLcDosLsz-8EP4cJ0xCcwM7PjXTzYrAhSQ33S95r9721lah7aTxpO8wNKi4ZSGyvvkHA63DtEbltICW5UuYXZeXLe51y3GufWlqYkfPjcKIYjP9TkyZTxyNd9-CIGXUgFt4ZchcjQtzf0mKqZi9cK2aWkERIzg-tdZsdrk8H7S7c5xB1gHUb23BvhvyCHHrZCH-qM2hpd" target="_blank">Modify your subscription</a>
+
+<span style="font-family: Verdana, Geneva, sans-serif; font-size: 13px; font-weight: normal; color: rgb(34, 34, 34); text-decoration: none; line-height: normal; user-select: auto;">&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;</span>
+
+<a style="font-family: Verdana, Geneva, sans-serif; font-size: 13px; font-weight: normal; color: rgb(34, 34, 34); text-decoration: none; line-height: normal; user-select: auto;" href="https://daijdhg.r.af.d.sendibt2.com/tr/cl/7d830aMBEB_GR4x748cq_uHL2jE6kBk4huhu5ZEs_qoYb1fCM7V4o3dQ2lZIoChh5H0vQ9u1rflHQ0S5DYUThQd78h_3jRzqmK3hAilVV5znKUldNwGx8zxeNBcxMTvuGCA3Ki0SRq4ftuQZvm-gahRbOFbs3po1hpky1dZrUD4Sc9XeiVFPAhboxyJhvEThvNaJL4S3FeNIk7MkDfbIXhtWQIEYJajVGtkRzU_EvY8ocdCHPeOiS4qd5SKllF6n-1Syt9ECu6qs3FwynbXdbtbH9ugqnNAAzYyFyiUa_qHg6Jm_Q4vrYyqkfkwupaWU40OEseboSOtyWpWilQlBvJc_16R8qUSyCk4ItxXnTXRUjMOppseAaRYuK_5sb0NMdgIxtAJbl_IAhvQg71T7QJYn_44IPP4M-w" target="_blank">View online</a></td></tr></tbody></table><!--[if mso | IE]></td></tr></table><![endif]--></td></tr></tbody></table>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- /tnp -->
+</td>
+</tr>
+</table>
+
+<img width="1" height="1" alt="" src="https://5fwei.img.bh.d.sendibt3.com/im/3089376/4defae725f7b1ec006cc140c88884f1a0a53cb1e22af38f4deac55ec76e75ae0.jpg?e=EaC0fTHd-V6J4x77Q62V0-xFMJI4oXmwL0Rb88dCpggYiryk_-3V34i8OvLKMGQKkNuAbyjA7TjreuFWPP7DqQPC6I-FydeEbFbAgm1HWpCJ3XfieN0MAsbHhtha531PGPgUPcAjwH-kQA61C849HdK-YKPz3dI-AmnPQ6cTfXLQjMgvK6KOhC1jJOpUJ441Zh5A2bsJi5V0vcXG8fuFyrVcWNT1ydLdiC8mK0H1MfQE9ZoztyTzQ6NNKDtUyQsLqRRL8a9uovI6TdUvFIx0K44K8R7z_MX3So6ERbCzMqEA2CbNZN6lfWrVd-Iw6A"/><img width="1" height="1" src="https://daijdhg.r.af.d.sendibt2.com/tr/op/_m3007o9AswMDqYlN1b_MsCrR9g338nMSbD3z5nzd0QUPEP44S91NsWnUU66rA9bflp6RZQYzVyVx-rPLttRHJuiu2y1YxZamweofwHTmKvMcgau2vnZv6aa2GEznQIgNjvQtGZdFX6Nr5IEds3CT9Q--LcpZ4weRmpmhnu-VkcG" alt="" /></body>
+</html>
+

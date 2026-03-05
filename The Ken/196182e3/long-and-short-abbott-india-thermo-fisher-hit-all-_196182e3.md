@@ -1,0 +1,36 @@
+---
+subject: "Long and Short: Abbott India, Thermo Fisher hit all-time highs. Then medtech madness struck"
+from: "The Ken <info@the-ken.com>"
+to: ""
+date: 2025-04-09 01:33:23
+labels: ["CATEGORY_PERSONAL", "INBOX", "The Ken"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_8244464457792971031"]
+---
+|
+|
+Long and Short
+Wed, 09 Apr 25
+The story behind the numbers and motivations driving India's stock market..
+Good Morning Ishan,
+Pharma is spared but medical devices got the Trump sledgehammer.
+Like much of the Liberation Day calculus, hitting Indian medical devices with a 26% tariff makes little sense. India exported $715 million worth of medical devices to the US but imported a little over double that in FY24, per the newly constituted Exports Promotion Council for Medical Devices.
+So the Trumpian logic that if you have a high trade deficit, you are going to get a high tariff, doesn’t apply to medical devices as a segment. Yet it is upon us, even though one can never overstate the extent to which every aspect of medtech manufacturing rests on global supply chains.
+Back in November, analysts [predicted](https://www.mddionline.com/business/medical-devices-will-likely-become-more-costly-under-trump-tariffs) that if President-elect Trump’s promised tariffs on imported goods came into effect, roughly 75% of medical devices marketed in the US will see a price increase. Some 69% of those devices are manufactured exclusively outside the country.
+Certain kinds of Indian medtech companies, say, those like Meril Life Sciences, which have undergone rigorous US regulatory approval to sell in that market, will suffer more in the short term. They will have to absorb the cost as well as pass it on to US customers.
+But like in many other goods, it’ll also hurt American medtech. Let’s look at two companies that are doing well: Abbott India, subsidiary of US-headquartered Abbott Laboratories, reported Rs 5,849 crore ($678 million) in revenue in FY24, with a 14.5% increase in operating income in the December quarter—an all-time high. Thermo Fisher Scientific India, subsidiary of the ~$43 billion US-based parent, operates six manufacturing plants in India and wants to expand its manufacturing base.
+The communications and IT minister found it significant enough to tweet about:
+The pandemic showed us that when pills don’t exist or go missing, medical technology saves life. From real-time PCRs to rapid testing kits, it was a mad scramble for these products. Some companies came from nowhere, rode the wave, remained opportunistic and [petered out](https://entrackr.com/2024/07/mylabs-op-revenue-nosedives-to-under-rs-100-cr-in-fy23-slips-into-losses/) (Mylab Discovery), whereas those with solid foundations came out [bigger and better](https://www.bwhealthcareworld.com/article/temasek-to-invest-85mn-in-molbio-diagnostics-448089) (Molbio Diagnostics).
+Today, nearly 80% of medical technology in India is imported. The local industry association is [crying hoarse](https://www.newindianexpress.com/business/2025/Apr/03/us-tariff-may-impact-growth-of-indias-medical-device-industry) for protection, but India should remain focused on building out its medtech capabilities for the long term. And global companies operating in India offer two-fold benefits.
+For instance, Abbott India’s trailing 12-month [revenue](https://www.screener.in/company/ABBOTINDIA/) is Rs 6,243 crore ($724 million), but the parent Abbott’s entities in India are exporting more than this. Outside the US, India ranks third in sales for the parent company. As the chart below from Abbott Laboratories’ annual reports shows, net sales from India amounted to $1.817 billion or more than Rs 15,500 crore.
+Similarly, Thermo Fisher, which reported Rs 2,117 crore ($245 million) in revenue for FY24, has kept its momentum, clocking over 21% year-on-year growth in the country, per data from market-intelligence platform Tracxn. It has six manufacturing plants, and as the minister tweeted, it’s looking to expand further. Surely, that expansion is not only to serve the Indian market.
+If India considers smartphone exports from the country, mostly by global companies like Apple and Samsung, as a success metric for its PLI scheme, then medtech exports from India should be seen in this light too. At least 70 large medical device manufacturing plants and 20 large R&D centres of MNCs operate in India, per an industry insider.
+There are both tangible and intangible spillover effects of encouraging competition and quality in medtech. Historically, Indian medical device companies have made money by staying cheap or frugal, depending on how one sees it. They trade in such goods, or assemble by importing components, or build bare-bones products locally; and universally invest less in R&D.
+But Meril is a good example of an Indian company upping its innovation game and coming out the winner. The Gujarat-based company reported Rs 3,570 crore ($414 million) in group revenue in FY24, a 31% year-on-year growth on the back of a business that sells in 100 countries. Meril Life CEO Vivek Shah is a former sales head at global medtech leader Medtronic.
+I’d wager if India brings down its tariffs on medical devices—it’d be beneficial regardless of whether it helps us negotiate down US tariffs. It might be painful for some Indian companies but given the higher tariff on our neighbouring countries—and a weighted average tariff rate of 24% on imports into the US, per Evercore ISI, the investment advisory firm’s research division—new corridors of medtech exports can be cultivated.
+All the recent news about medtech [going local](https://www.business-standard.com/industry/news/govt-medtech-industry-go-local-to-develop-high-end-medical-devices-125040600235_1.html) for developing high-end devices is welcome. Because let’s admit it, very few of us, least of all Indian doctors, really believe that Indian high-end devices like stents, pacemakers, implants and the like, measure up to a foreign product. Without adequate research or clinical studies proving Indian medtech is comparable to global brands, these products will always face a question mark.
+The silver lining in the post traumatic stress disorder unleashed by Trump is that medtech—which many contend “borders on sovereign space like defense technology”—will get the investment and procurement attention that it always deserved.
+“Medical devices are different from pharmaceuticals in that every product comes with its own training and support for spare parts, it’s not like popping a pill,” said a professional who’s spent several years in global medtech. “If the rest of the world trades in a liberalised manner, new corridors of medtech business will soon emerge.”
+That’s a wrap for this week. Please write to [longandshort@the-ken.com](mailto:longandshort@the-ken.com) with your thoughts or leave a comment on our onsite edition.
+Best,
+Seema
+Got a tip? If you have a lead for a great story that The Ken can pursue, please send it to [tips@the-ken.com](mailto:tips@the-ken.com) or share it through [this form](https://theken.typeform.com/got-a-tip). To find out more about how to do this securely, read our [blog post](https://the-ken.com/blog/help-the-ken-tell-the-next-big-story/) about sharing tips with The Ken.

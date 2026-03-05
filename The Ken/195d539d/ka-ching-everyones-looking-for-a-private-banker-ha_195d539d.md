@@ -1,0 +1,50 @@
+---
+subject: "Ka-Ching!: Everyone’s looking for a private banker. Have you seen one?"
+from: "The Ken <info@the-ken.com>"
+to: ""
+date: 2025-03-27 01:31:31
+labels: ["CATEGORY_PERSONAL", "INBOX", "The Ken"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_8244464457792971031"]
+---
+|
+|
+Ka-Ching!
+Thu, 27 Mar 25
+A weekly newsletter about how finance is getting supercharged by tech in India, and how you can make money work for you..
+Good Morning Ishan,
+I’ve spent this entire week turning over two thoughts in my head. By now, they’re just a hair’s breadth from becoming rock-solid beliefs.
+First, it appears cricket might as well do away with bowlers and replace them wholesale with bowling machines. I mean, just look at the ridiculously high scores in the first few days of the Indian Premier League and tell me we’ll miss them.
+Second, bankers and financial services businesses seem really bullish about India’s rich. The proof is in who they are hiring, and how fast.
+I spoke to two private bankers to get a sense of what’s going on, and today’s edition of Ka-Ching! is about what seems to be one of the hottest banking profiles in the job market right now.
+Oh, and I also have something a little different I want to try out at the end of today’s edition, so do stick around. I won’t be exaggerating if I said I can’t do it without all of you.
+On Sunday, Tan Su Shan, the incoming CEO of Singapore-based DBS Group, spoke at length about her plans for markets like India, the centrepiece of which is a significantly ramped up focus on high-return businesses such as wealth management. The same is the case with Switzerland-based lender[ UBS Group](https://www.bloomberg.com/news/articles/2025-01-28/ubs-nears-deal-with-india-wealth-firm-360-one-for-growth-boost) and [HSBC](https://www.ft.com/content/dcb4bf5b-3b63-493b-a363-2b844e4e904c), a London-headquartered lender. UBS is reportedly nearing a deal for a joint venture with Indian wealth management firm 360 One, while HSBC in January expanded its operations in Gujarat’s GIFT City, “particularly in the wealth management space”. Quoting from its press release:
+HSBC’s enhanced wealth management services in GIFT City are designed to meet the growing needs of our Premier and Private banking clients who want to invest in global markets as well as NRIs seeking investment opportunities in India. This includes foreign currency banking accounts, USD fixed deposits, innovative dollar denominated investment products among others.
+Their Indian counterparts aren’t far behind either. Banks such as [Axis Bank](https://www.business-standard.com/companies/news/axis-bank-expands-wealth-management-biz-rapidly-in-non-metro-cities-124081401761_1.html),[ ICICI Bank](https://economictimes.indiatimes.com/industry/banking/finance/banking/icici-bank-to-target-self-employed-scale-up-its-private-banking-to-build-deposit-base/articleshow/112291156.cms?from=mdr),[ Indusind Bank](https://www.financialexpress.com/business/banking-finance-indusind-bank-aims-to-triple-wealth-management-aum-in-three-years-3624129/) are all rapidly expanding their private banking offerings.
+And it’s obvious why. India has witnessed a sharp[ expansion](https://www.business-standard.com/finance/personal-finance/india-ranks-4th-globally-with-85-698-super-rich-behind-us-china-and-japan-125030500533_1.html) in the number of wealthy and super-wealthy individuals and families, many of whom desire high-quality, on-demand wealth management advice and services. Ergo, banks need to employ more private bankers—aka, experts whose job it is to manage all that wealth on behalf of their clients.
+The two private bankers I spoke to did not wish to be named, but one works with Citibank (now merged with Axis Bank) while the other works for HSBC. And both say private bankers have never been in as much demand as right now.
+Of course, they patted themselves on the back a little for their foresight; both had joined the wealth management business five to seven years before the recent spike in the number of India’s wealthy.
+But that decision is paying off.
+Both bankers have less than 12 years of experience and make more than Rs 1.5 crore annually. “In comparison, an ICICI Bank or an HDFC Bank [retail banking] executive would probably earn half of this. That is, if they have an MBA from a decent college,” one of them added.
+And with the current hiring spree banks and wealth management firms have kicked off, the options before them have only increased. For instance, earlier, it would take at least six months of job hunting for a private banker to be able to switch employers, they said, with most options limited to foreign banks. But now, both find offers coming to them without looking.
+In fact, one of the private bankers has switched two jobs in the last six months.
+“It’s never been this easy,” they laughed.
+Job hunts may have become a lot easier, but the role itself is far from easy—more so now because the number of clients has hit the roof, and catering to the whims and fancies of the rich and entitled is a 24×7 role.
+“You can expect calls late at night too. Just because the client has some doubt about their money and wants it resolved immediately. I’ve responded to frantic calls at 3am,” one of the bankers told me.
+Private bankers don’t really have an in-and-out time; they’re constantly on call. For most, it is their client’s requirements that decide their waking hours. “One needs to track the global markets depending on where the client has investments. So when a particular country’s markets open, you need to be up.” Not to mention long meetings with senior private bankers, business heads, and colleagues on macro trends and client prioritisation.
+Right now in India, depending on the size of the lender, private bankers handle anywhere between 20–50 clients. The fee charged by their bank for their services depends on the assets under management (AUM)—usually about 1.5–2% of total AUM.
+But long hours are only the tip of the iceberg. “We are called the guardians of money for our clients. And with the kind of money involved, there isn’t much room for error. 80-100 hour weeks are very common in this space,” one banker said.
+Since a major part of the job is preserving wealth and figuring out ways to make it grow, thinking ahead is a major requirement. Private bankers are usually planning for the next 7–10 years for clients, working in their respective financial goals. But some plans can be pretty long-term too, as long as 20–30 years. In such cases, asset protection and succession planning becomes key. In fact, succession planning is a popular ask among Indian clients these days.
+That aside, the most important thing that private bankers do is making sure all client portfolio transactions are on point, dotting every i and crossing every t. Most of these assets are listed stocks, but recently, high-priced real-estate investments have started appearing on their desks too. [In fact, my colleague Nuha [recently wrote about](https://the-ken.com/story/lunch-with-federer-rs-70-lakh-watch-wealth-managers-find-new-ways-to-delight-the-ultra-rich/) how some wealth managers are even arranging concert tickets for their clients.]
+Indian clients have a quirk though—they’re obsessed with face-to-face meetings. “All of them are adept with the latest tech and know how to use apps, etc. But when it comes to their money and discussions around it, they push for in-person meetings. That’s understandable because the stakes are pretty high.”
+Well, that might be adding a complication to an already complex job, but it’s something private bankers can’t really shrug off. Because the one thing they can’t afford is a lack of confidence on the part of their clients.
+That’s a wrap for this week, but before you go, a little request.
+We’re all constantly on the lookout for signals, right? Signals that could help us predict a little bit of the future. For instance, a venture capitalist may look for a driven founder, early signs of a product-market fit, or at least a genuine problem statement that a startup is solving before making an investment. A real-estate investor may look for past completion rates or insolvency cases. And I’m pretty sure all of us look for green and red flags in people.
+Well, after three years of working here, one of the biggest green flags for me is someone having an active subscription to The Ken. And before you think I’m just angling for a raise, our appraisals are over and this newsletter will almost certainly be forgotten by the time the next cycle arrives.
+The reason I think this is a green flag is because, by now, I have had extensive interactions with a large number of our subscribers, and in almost every case, I’ve found them to be ambitious, driven, and deeply knowledgeable. Wouldn’t it be a shame if I, as a writer, failed to tap into this deep well of insight?
+So here’s my request. Starting this week, every now and then, I want to end Ka-Ching! editions with a little snippet of something interesting I find on the news. And asking you, our knowledgeable readers, for your thoughts on it. Perhaps we end up featuring the best responses in our weekly editions. Perhaps your inputs lead us to our next big story.
+Here is my first question:
+Flipkart’s new payments app Super.money has pulled off a rapid rise into the top five rankings in terms of transaction volumes. This is particularly interesting to me because the prevailing hypothesis suggests that most people are indifferent to which UPI app they use and don’t usually make a switch unless there’s a significant trigger. Given this context, how do you think Super.money has managed to crack the top five despite emerging late on to the scene? What do you think is working in its favour?
+Do let me know by writing to [kaching@the-ken.com](mailto:kaching@the-ken.com).
+See you next week.
+Regards,
+Rounak Kumar Gunjan

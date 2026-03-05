@@ -1,0 +1,34 @@
+---
+subject: "Learn Python programming fundamentals with this free 14-hour course"
+from: "Quincy Larson <quincy@freecodecamp.org>"
+to: ""
+date: 2019-05-09 17:56:18
+labels: ["CATEGORY_PERSONAL", "INBOX", "Quincy"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_7697778124671848699"]
+---
+Here are this week's five links that are worth your time:
+
+1. Learn how to install Python on your computer, do Object Oriented Programming, work with databases, and more. My friend Dr. Chuck at University of Michigan will teach you all the Python fundamentals in this free course (14 hour watch): https://www.freecodecamp.org/news/python-for-everybody
+
+2. Don't just learn a magic card trick - build a card trick using Node.js. In this tutorial, Beau shows you how to entertain your friends with this API-powered magic trick (45 minute watch): https://www.freecodecamp.org/news/magic-card-trick-with-javascript-and-nodejs
+
+3. Summer is coming! Make the most of it by expanding your skills with some of these 650 free university courses on programming and computer science (browsable list): https://medium.freecodecamp.org/650-free-online-programming-computer-science-courses-you-can-start-this-summer-6c8905e6a3b2
+
+4. React is improving fast. Here's every single change to React, explained in detail, to help you keep up with this popular JavaScript library (75 minute read): https://medium.freecodecamp.org/60686ee292cc
+
+5. "I worked menial dead end jobs to make ends meet. For several years I was feeling lost, insecure and directionless... One step a day is better than no step at all." Marlon was musician in London who learned to code after work each day, and is now working full-time as a developer. Here's his story (2 minute read): https://www.freecodecamp.org/forum/t/276222
+
+Quote of the Week: "A great lathe operator commands several times the wage of an average lathe operator, but a great writer of software code is worth 10,000 times the price of an average software writer." - Bill Gates
+
+
+freeCodeCamp is a donor-supported nonprofit. Help the community reach our goal of 10,000 monthly supporters. (We're already 48% of the way there!) Become a supporter at: https://donate.freecodecamp.org
+
+
+Happy coding!
+
+- Quincy Larson
+
+Teacher at freeCodeCamp.org
+
+
+If these emails aren't worth your time, you can turn them off: https://www.freecodecamp.org/ue/eZV2T3gHC7IGcwcpYPG64

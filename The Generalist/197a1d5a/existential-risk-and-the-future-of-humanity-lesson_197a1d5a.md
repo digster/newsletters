@@ -1,0 +1,60 @@
+---
+subject: "Existential Risk and the Future of Humanity: Lessons from AI, Pandemics, and Nuclear Threats | Toby Ord (Author of…"
+from: "The Generalist <thegeneralist@substack.com>"
+to: ""
+date: 2025-06-24 12:03:11
+labels: ["CATEGORY_PERSONAL", "INBOX", "The Generalist", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_8815311452832858585", "UNREAD"]
+---
+|
+A quick note before today's podcast: Last Thursday, we launched Part 2 of our four-part series on Founders Fund. If you haven’t read it yet, you can catch up on [Part 1 here](https://substack.com/redirect/cd586983-0c25-4109-bfb7-a4c475dba775?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) and [Part 2 here](https://substack.com/redirect/c096eb23-cfe9-40f7-a94d-87e0cca7282d?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o). For everyone following along, Part 3 drops this Thursday, June 26th.
+In the meantime, we hope you enjoy today's podcast episode below.
+This episode is brought to you by [Brex](https://substack.com/redirect/06a8d8ad-9305-42a8-bf0f-d5453e1cc607?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o): The banking solution for startups.
+How close are we to the end of humanity? Toby Ord, Senior Researcher at Oxford University’s AI Governance Initiative and author of The Precipice, argues that the odds of a civilization-ending catastrophe this century are roughly one in six. In this wide-ranging conversation, we unpack the risks that could end humanity’s story and explore why protecting future generations may be our greatest moral duty.
+We explore:
+Why existential risk matters and what we owe the 10,000-plus generations who came before us
+Why Toby believes we face a one-in-six chance of civilizational collapse this century
+The four key types of AI risk: alignment failures, gradual disempowerment, AI-fueled coups, and AI-enabled weapons of mass destruction
+Why racing dynamics between companies and nations amplify those risks, and how an AI treaty might help
+How short-term incentives in democracies blind us to century-scale dangers, along with policy ideas to fix it
+The lessons COVID should have taught us (but didn’t)
+The hidden ways the nuclear threat has intensified as treaties lapse and geopolitical tensions rise
+Concrete steps each of us can take today to steer humanity away from the brink
+([00:00](https://substack.com/redirect/a333465b-7550-4152-999a-4316f98e872f?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) Intro
+([02:20](https://substack.com/redirect/430b0e15-5bb2-4407-97ad-a39b1f8afeee?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) An explanation of existential risk, and the study of it
+([06:20](https://substack.com/redirect/5ad75845-51f7-4f00-ae82-04386fc1c457?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) How Toby’s interest in global poverty sparked his founding of Giving What We Can
+([11:18](https://substack.com/redirect/c82c519f-8903-48ab-9d45-cf268e432525?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) Why Toby chose to study under Derek Parfit at Oxford
+([14:40](https://substack.com/redirect/6ac9601b-ba21-469d-8c75-414275ff8345?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) Population ethics, and how Parfit’s philosophy looked ahead to future generations
+([19:05](https://substack.com/redirect/1329bc22-381e-4a49-b795-e16ccbd58f37?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) An introduction to existential risk
+([22:40](https://substack.com/redirect/5af8d3c3-c032-471d-b92e-e1267e1b4ad7?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) Why we should care about the continued existence of humans
+([28:53](https://substack.com/redirect/b32a473c-881e-4206-9d2c-5eab9ddd0ce9?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) How fatherhood sparked Toby’s gratitude to his parents and previous generations
+([31:57](https://substack.com/redirect/014cfa54-c26d-441b-bd9e-f9a2fc27e5bc?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) An explanation of how LLMs and agents work
+([40:10](https://substack.com/redirect/a6dfa038-013e-45d2-adf7-b05e64bb90da?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) The four types of AI risks
+([46:58](https://substack.com/redirect/33b0bc9a-1f32-49a4-a181-1ffdf986bbd7?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) How humans justify bad choices: lessons from the Manhattan Project
+([51:29](https://substack.com/redirect/f912bc93-6cbd-4aff-89e3-7e5dcf0d0fd2?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) A breakdown of the “unilateralist’s curse” and a case for an AI treaty
+([1:02:15](https://substack.com/redirect/f116340b-09c2-48be-b66f-11a6a2450b94?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) Covid’s impact on our understanding of pandemic risk
+([1:08:51](https://substack.com/redirect/8b47b299-0306-441a-a64d-a0dfacee03e9?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) The shortcomings of our democracies and ways to combat our short-term focus
+([1:14:50](https://substack.com/redirect/d293e312-2408-4cda-8046-f196d35ca368?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) Final meditations
+Website: [https://www.tobyord.com/](https://substack.com/redirect/19d3198d-f577-4cec-acb5-2646819dc112?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+LinkedIn: [https://www.linkedin.com/in/tobyord](https://substack.com/redirect/e9c74623-8efa-4b38-810d-2e687622737d?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+X: [https://x.com/tobyordoxford?lang=en](https://substack.com/redirect/92b8b2b8-00f6-4ae9-b297-41048f9cee34?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+Giving What We Can: [https://www.givingwhatwecan.org/](https://substack.com/redirect/1ba6670b-ad11-42cf-ab4a-d14e93bcee7c?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+The Precipice: Existential Risk and the Future of Humanity:
+[https://www.amazon.com/dp/0316484911](https://substack.com/redirect/5c9b6260-1654-43bd-9066-4f0556efd395?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)Reasons and Persons:
+[https://www.amazon.com/Reasons-Persons-Derek-Parfit/dp/019824908X](https://substack.com/redirect/84a69f41-c02d-461b-a054-e5fce1ef3645?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)Practical Ethics:
+[https://www.amazon.com/Practical-Ethics-Peter-Singer/dp/052143971X](https://substack.com/redirect/3f91c32e-ff1c-415b-bb91-c27a0d536a51?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+Derek Parfit:
+[https://en.wikipedia.org/wiki/Derek_Parfit](https://substack.com/redirect/ced941da-1d55-4cbd-85cc-18afc776947e?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)Carl Sagan:
+[https://en.wikipedia.org/wiki/Carl_Sagan](https://substack.com/redirect/89e4b156-b4cb-47de-8d0d-2283a77be348?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)Stuart Russell:
+[https://en.wikipedia.org/wiki/Stuart_J._Russell](https://substack.com/redirect/89c2567b-8fdd-4a57-b068-7b9270fd1989?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+DeepMind:
+[https://deepmind.google/](https://substack.com/redirect/2e7e54be-193e-4b39-8b63-435f89737c5e?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)OpenAI:
+[https://openai.com/](https://substack.com/redirect/009e7398-81b1-4133-8bf6-aeae0422efa7?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)Manhattan Project:
+[https://en.wikipedia.org/wiki/Manhattan_Project](https://substack.com/redirect/70e85580-736c-4f3d-a9d2-2b6697243f4d?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)The Unilateralist’s Curse and the Case for a Principle of Conformity:
+[https://nickbostrom.com/papers/unilateralist.pdf](https://substack.com/redirect/ae7e1219-0c3d-41e3-89ae-8d6ca8781e64?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)The Nuclear Non-Proliferation Treaty (NPT), 1968:
+[https://history.state.gov/milestones/1961-1968/npt](https://substack.com/redirect/a51a6021-4f16-4038-b0d6-0e3d6eb55cc3?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)The Blitz:
+[https://en.wikipedia.org/wiki/The_Blitz](https://substack.com/redirect/6423f446-5d53-4783-ae17-11fed3557e1c?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)Operation Warp Speed:
+[https://en.wikipedia.org/wiki/Operation_Warp_Speed](https://substack.com/redirect/f7a5fa8e-c402-4051-bd49-2213e32260e2?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+I’d love it if you’d subscribe and share the show. Your support makes all the difference as we try to bring more curious minds into the conversation.
+Production and marketing by [penname.co](https://substack.com/redirect/98da25b6-c779-400a-9b62-f8cfe565dd39?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o). For inquiries about sponsoring the podcast, email jordan@penname.co.
+You're currently a free subscriber to [The Generalist](https://substack.com/redirect/c0573625-38c4-4bb0-aaf6-db348b5d9fe4?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o). For the full experience, [upgrade your subscription.](https://substack.com/redirect/2/eyJlIjoiaHR0cHM6Ly93d3cuZ2VuZXJhbGlzdC5jb20vc3Vic2NyaWJlP3V0bV9zb3VyY2U9cG9zdCZ1dG1fY2FtcGFpZ249ZW1haWwtY2hlY2tvdXQmbmV4dD1odHRwcyUzQSUyRiUyRnd3dy5nZW5lcmFsaXN0LmNvbSUyRnAlMkZleGlzdGVudGlhbC1yaXNrLWFuZC10aGUtZnV0dXJlLW9mLWh1bWFuaXR5LXRvYnktb3JkJnI9OG81NG4mdG9rZW49ZXlKMWMyVnlYMmxrSWpveE5EVTJNek14T1N3aWFXRjBJam94TnpVd056WTJPREl5TENKbGVIQWlPakUzTlRNek5UZzRNaklzSW1semN5STZJbkIxWWkweE5UYzJOQ0lzSW5OMVlpSTZJbU5vWldOcmIzVjBJbjAuUmdfWERGWlJWWERLRlJ3bTk3cFNPUC1fTWlCalJsVXBJX3NtQ0FRTmpUSSIsInAiOjE2NjExNDgyMSwicyI6MTU3NjQsImYiOnRydWUsInUiOjE0NTYzMzE5LCJpYXQiOjE3NTA3NjY4MjIsImV4cCI6MjA2NjM0MjgyMiwiaXNzIjoicHViLTAiLCJzdWIiOiJsaW5rLXJlZGlyZWN0In0.ZQX7n_QV8gjYPpv4-DDQpCXaTJBTNjO-Y4D8PfdrZEw?&utm_source=substack&utm_medium=email&utm_content=postcta)

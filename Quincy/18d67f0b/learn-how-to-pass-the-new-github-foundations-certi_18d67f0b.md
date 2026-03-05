@@ -1,0 +1,33 @@
+---
+subject: "Learn how to pass the new GitHub Foundations Certification exam [Free 10-hour course]"
+from: "Quincy Larson <quincy@freecodecamp.org>"
+to: ""
+date: 2024-02-02 03:50:45
+labels: ["CATEGORY_PERSONAL", "IMPORTANT", "INBOX", "Quincy"]
+label_ids: ["CATEGORY_PERSONAL", "IMPORTANT", "INBOX", "Label_7697778124671848699"]
+---
+Here are this week's five freeCodeCamp resources that are worth your time:
+
+1. My friend Andrew Brown is a CTO who has passed practically every cloud certification exam under the sun. Within weeks of GitHub publishing their new official certs, Andrew has already studied, passed the exam, and prepared this course to help you do the same. If you're considering earning a professional cert to demonstrate your proficiency in Git and GitHub, this course is for you. (10 hour YouTube course): https://www.freecodecamp.org/news/pass-the-github-foundations-certification-course/
+
+2. Among many of my web developer friends, a new set of tools is emerging as a standard: Tailwind CSS, Next.js, React, and TypeScript. And you can learn all of these by coding along at home with this beginner course. You'll use each of these tools to build your own weather app. (2 hour YouTube course): https://www.freecodecamp.org/news/beginner-web-dev-tutorial-build-a-weather-app-with-next-js-typescript/
+
+3. And if you want even more JavaScript practice, this tutorial is for you. You'll code your own browser-playable version of the 1991 classic "Gorillas" game, where two gorillas throw explosive bananas at one another. You'll use JavaScript for the game logic and core gameplay loop. And you'll use CSS and HTML Canvas for the graphics and animation. (2 hour read): https://www.freecodecamp.org/news/gorillas-game-in-javascript/
+
+4. Deep Learning is a profoundly useful approach to training AI. And if you want to work in the field of Machine Learning, this course will teach you how to answer 50 of the most common Deep Learning developer job interview questions. You'll learn about Neural Network Architecture, Activation Functions, Backpropogation, Gradient Descent, and more. (4 hour YouTube course): https://www.freecodecamp.org/news/ace-your-deep-learning-job-interview/
+
+5. My friends Jess and Ramón are starting a new cohort of their freely available bootcamp on Friday, February 9. You can join them and work through freeCodeCamp's new project-oriented JavaScript Algorithms and Data Structures certification. This is a great way to expand your skills alongside a kind, supportive community. (8 minute read): https://www.freecodecamp.org/news/free-webdev-and-js-bootcamps/
+
+2024 is in full swing. I can't believe it's February already. The freeCodeCamp community has hit the ground running, and we're working hard on tons of new math, programming, and computer science courses for you. Our charity is incredibly efficient – delivering billions of minutes of learning each year on a paltry budget. But we could do even more if we had more resources. Please consider supporting our mission: https://www.freecodecamp.org/donate
+
+Quote of the Week: “Git and I are in a committed relationship but it pushes me sometimes.” — Cassidy Williams, Software Engineer
+
+Until next week, happy coding.
+
+-- Quincy Larson
+
+Teacher and founder of freeCodeCamp.org
+
+
+
+If these aren't worth your time, you can turn them off: https://www.freecodecamp.org/ue/eZV2T3gHC7IGcwcpYPG64

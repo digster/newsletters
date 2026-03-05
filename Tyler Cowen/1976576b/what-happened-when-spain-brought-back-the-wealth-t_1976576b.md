@@ -1,0 +1,11 @@
+---
+subject: "What happened when Spain brought back the wealth tax?"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2025-06-12 18:46:07
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+From [the Journal of Public Economics Twitter feed](http://marginalrevolution.com?action=user_content_redirect&uuid=5d6b04404aed9fdbead00fe81c47bb6c52235d0954699c4a61f3d1fc944bd379&blog_id=42693868&post_id=90866&user_id=262258391&subs_id=225460721&signature=f7836e6882efe9355ffda66afc726427&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly94LmNvbS9KUHViRWNvbi9zdGF0dXMvMTkzMTQ3NTA5MDEwMjk5NzM1NA=&email_id=51ae0cacd0324280a3980cf90d87e5b6):
+What happened when Spain brought back the Wealth Tax in 2011? Using variation in exposure, this paper finds: - No drop in savings, but drop in taxable wealth—mainly via legal avoidance - Asset shifting caused most revenue loss - Estimated revenue loss was 2.75x initial 2011 rev.
+Here is [the full paper](http://marginalrevolution.com?action=user_content_redirect&uuid=97b7ee2e5d078cd42653f155664ed0e600015282691c8c2f6514b909c3c3b976&blog_id=42693868&post_id=90866&user_id=262258391&subs_id=225460721&signature=786474719e3cd5802cea621e9690ac13&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly93d3cuc2NpZW5jZWRpcmVjdC5jb20vc2NpZW5jZS9hcnRpY2xlL3BpaS9TMDA0NzI3MjcyNTAwMDQ5MA=&email_id=51ae0cacd0324280a3980cf90d87e5b6) by Mariona Mas-Montserrat, José María Durán-Cabré, and Alejandro Esteller-Moré. Via [Jerusalem Demsas](http://marginalrevolution.com?action=user_content_redirect&uuid=51633d26b5d924c64cb9dee1901f9c2b373c5438783566b60f33a652a7124b06&blog_id=42693868&post_id=90866&user_id=262258391&subs_id=225460721&signature=f9fe2abaa3990e1e97be02e54a514fe0&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly94LmNvbS9KZXJ1c2FsZW1EZW1zYXM&email_id=51ae0cacd0324280a3980cf90d87e5b6).

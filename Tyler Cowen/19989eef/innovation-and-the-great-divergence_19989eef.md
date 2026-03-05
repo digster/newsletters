@@ -1,0 +1,10 @@
+---
+subject: "Innovation and the Great Divergence"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2025-09-27 06:49:24
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+Abstract: Recent developments in historical national accounting suggest that the timing of the Great Divergence hinges on the different trends in northwest Europe and the Yangzi Delta region of China. The positive trend of GDP per capita in northwest Europe after 1700 was a continuation of a process that began in the fourteenth century, while the negative trend in the Yangzi Delta continued a pattern of alternating periods of growing and shrinking, but reaching a new lower level. These GDP per capita trends were driven by different paths of innovation. TFP growth was strongly positive in Britain after the Black Death, in the Netherlands during the sixteenth century and again in Britain from the mid-seventeenth century. Although TFP growth was positive in China during the Northern Song dynasty, it was predominantly negative during the Ming and Qing dynasties, in the Yangzi Delta as well as in China as a whole.
+[By Stephen Broadberry and Runzhuo Zhai](http://marginalrevolution.com?action=user_content_redirect&uuid=c8aaf66f95711c0c2358e2159c692b2e77e599012b1bbd522aa4c671bcf93fdc&blog_id=42693868&post_id=91550&user_id=262258391&subs_id=225460721&signature=293d5334d95c6ef23d915c2f4c13fd08&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly93YXJ3aWNrLmFjLnVrL2ZhYy9zb2MvZWNvbm9taWNzL3Jlc2VhcmNoL2NlbnRyZXMvY2FnZS9tYW5hZ2UvcHVibGljYXRpb25zL3dwNzcxLjIwMjUucGRm&email_id=0b1db771557ba64d57f9cf4a74222838), via the excellent [Samir Varma](http://marginalrevolution.com?action=user_content_redirect&uuid=a023daa5c3a44cb97d0cad392e864c7b4a01ae1ddaffcddcf520660f2b52f639&blog_id=42693868&post_id=91550&user_id=262258391&subs_id=225460721&signature=2a9a1222c78e31a12f5ce77b6adbd59a&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly94LmNvbS9zYW1pcnZhcm1h&email_id=0b1db771557ba64d57f9cf4a74222838).

@@ -1,0 +1,123 @@
+Post       : Neural Networks &#8211; Part 2
+URL        : https://janav.wordpress.com/2023/11/06/neural-networks-part-2/
+Posted     : November 6, 2023 at 6:59 pm
+Author     : Jana Vembunarayanan
+Tags       : LLM, Machine Learning
+Categories : Computer Science, Mathematics, Statistics
+
+This is my sixth post in a series on building a toy GPT. I recommend that you read my previous posts ( https://janav.wordpress.com/tag/llm/?order=asc )  before reading this one.
+
+When using linear and logistic regression, which involve just a single linear equation, calculating derivatives is easy since there is only one equation to work with. Those derivatives help us see how changing the weights and biases decreases the loss function. Neural networks are different. It consists of a computational graph that links many linear equations.
+
+https://janav.files.wordpress.com/2023/11/image-13.png
+
+The weight w1 in the above image is an input to a ReLU function, and the output from this ReLU function then feeds as input to the neuron in the output layer. Adjusting the indirectly connected weight w1 to decrease the loss function requires an algorithm that can handle such indirect connections that extend through multiple layers.
+
+Backpropagation is the powerful algorithm that makes adjusting the indirectly connected weight w1 to minimize the loss function possible. I was terrified when I first heard about backpropagation. However, it is a simple algorithm that combines the concepts of derivatives and the chain rule.
+
+I find that learning fundamental ideas is easier by examining how they operate on simple examples.
+
+Let a = 4, b = -2, c = a * b, d = 5, and e = c + d. Therefore, a = 4, b = -2, c = 4 * -2 = -8, d = 5, and e = -8 + 5 = -3.
+
+We can represent these variables and their relationships in a simple computational graph. In this graph, each variable represents a node. The lines connecting them represent the operations and relationships. "grad" refers to the gradient or derivative, which initially equals 0 for all variables.
+
+https://janav.files.wordpress.com/2023/11/image-7.png
+
+The backpropagation algorithm calculates gradients starting from the rightmost node and moving backwards. In this example, we start at the rightmost node e. To calculate the gradient at e, we ask: how much does the value of e change when we tweak itself by an infinitesimally small amount? Since e is simply equal to itself, we know the derivative of e with respect to itself is 1.
+
+Now from node e, we will traverse back to nodes c and d, and the order does not matter. Let's go to node d first. We ask the same question. How much does the value of e change, and is the change positive or negative, when we tweak d by an infinitesimally small amount? You can see the derivative calculations for all three nodes: e, d, and c.
+
+https://janav.files.wordpress.com/2023/11/image-14.png
+
+The derivative of node e with respect to node e, d, and c is 1. Now from node c, we will traverse back to nodes a and b, and the order does not matter. Let's go to node b first. We ask the same question again. How much does the value of node e change, and is the change positive or negative, when we tweak node b by an infinitesimally small amount?
+
+Calculating the derivative for node e with respect to node b is not straightforward, as node b is connected to node e indirectly through node c. We know how to compute the derivative of node c with respect to node b. We already calculated that the derivative of node e with respect to node c is 1.
+
+To compute the derivative of node e with respect to node b, we need to multiply the derivative of node e with respect to node c (which we determined is 1) by the derivative of node c with respect to node b. This multiplication of derivatives to find the derivative between indirectly connected variables is called the Chain Rule in Calculus.
+
+It took me a while to understand why we need to multiply the two derivatives when calculating indirect connections. The car analogy from George F. Simmons ( https://en.wikipedia.org/wiki/Chain_rule )  helped me comprehend this relationship better:
+
+If a car travels twice as fast as a bicycle and the bicycle is four times as fast as a walking man, then the car travels 2 × 4 = 8 times as fast as the man.
+
+In this analogy, the car is like node e, the bicycle is like node c, and the man is like node b. Just as we need to multiply the car-bicycle and bicycle-man speed ratios, we need to multiply the node derivative values when nodes are indirectly connected. Derivative calculations for node a and b are shown below.
+
+https://janav.files.wordpress.com/2023/11/image-10.png
+
+I have updated the derivative values on the computational graph below.
+
+https://janav.files.wordpress.com/2023/11/image-11.png
+
+These multiplication and addition operations give rise to two important properties:
+
+* The addition operation passes gradient values through unchanged. This is why nodes c and d take the gradient value of 1 from node e because addition simply propagates the gradient through.
+
+* The multiplication operation uses the value of the sibling node as the local gradient. For example, node b’s local gradient is 4, taking the value from its sibling node a. And node a’s local gradient is -2, taking the value from its sibling b.
+
+Please re-read the car analogy and derivative calculations for nodes a and b one more time. Make sure you thoroughly understand these examples before reading further.
+
+Let's update the values of the value nodes (a, b, and d) by multiplying the gradient of each node by the learning rate of 0.01. For example:
+
+a.value += -a.grad * 0.1 =>  4 += -(-2 * 0.1) = 4 + 0.2 = 4.2
+
+b.value += -b.grad * 0.1 =>  -2 += -(4 * 0.1) = -2 - 0.4 = -2.4
+
+d.value += -d.grad * 0.1 =>  5 += -(1 * 0.1) = 5 - 0.1 = 4.9
+
+Next, we recompute c = a * b and e = c + d to propagate the changes through the graph.
+
+Then, we reset the gradients of all nodes to zero before the next pass through the training loop.
+
+After this update to the node values, the resulting computational graph looks like the one shown below:
+
+https://janav.files.wordpress.com/2023/11/image-12.png
+
+Why did the value of node a increase from 4 to 4.2? This is because the gradient of node a is -2. What does this negative gradient tell us? It tells us that increasing the value of a will decrease the value of e. This is why we multiplied the gradient by -1 when updating the value of node a.
+
+Substituting the values in a.value += -a.grad * 0.1 we get 4.0 += -(2 * 0.1) equals 4.2
+
+A similar reasoning can be applied to understand why the values of nodes b and d decreased. Ultimately, it is evident that the value of node e decreased from -3 to -5.2. Through backpropagation, we successfully reduced the value of node e.
+
+There are four key steps involved in each training loop for a simple 5-node network:
+
+* Forward Pass: Runs the computations from left to right, setting the values for all nodes in the network.
+
+* Backward Pass: Computes the gradients from the rightmost node back through the network in reverse order. This calculates how much each node impacts the final output.
+
+* Update Weights: Updates the values of each node by adding the result of: -1 * gradient * learning_rate. This moves the node values in the direction that reduces the loss.
+
+* Reset Gradients: Resets the gradients of all nodes back to zero before the next training loop. This clears the gradients so they can be recalculated for the next loop.
+
+The training loop repeats these four steps, optimizing the node weights over many iterations to minimize the loss and improve the model accuracy. The beauty is that these steps are effective regardless of the number of nodes involved, be it 5, 5,000, or 500 million. This fundamental algorithm is what drives the functionality of all neural networks.
+
+Let’s add a Rectified Linear Unit ( https://janav.wordpress.com/2023/11/04/neural-networks-part-1/ )  (ReLU) node to the output of node c. The ReLU function simply outputs zero for any negative input and keeps the input unchanged if it is positive, a straightforward rule expressed as max(0, input).
+
+https://janav.files.wordpress.com/2023/11/image-9.png
+
+Since node c has a value of -8, the ReLU function returns 0 as its output. Therefore, node e gets a value of 5 (as it is the sum of nodes d and ReLU, which have values of 5 and 0 respectively). During backpropagation, we have to pass through the ReLU activation function.
+
+When we visit node c during backpropagation, we ask about the derivative of the ReLU function with respect to node c. What is the derivative of max(0, input)? When the input is zero or less the derivative is 0, otherwise it’s 1. Read this stackoverflow thread ( https://stackoverflow.com/questions/42042561/relu-derivative-in-backpropagation )  to understand how to calculate the derivative for ReLU function.
+
+https://janav.files.wordpress.com/2023/11/image-8.png
+
+After running backpropagation, updating the weights, and resetting the gradients, our computational graph appears as shown below.
+
+https://janav.files.wordpress.com/2023/11/image-6.png
+
+Notice that the values for nodes a, b, and c remain unchanged. This occurs because the gradient of the ReLU activation with respect to node c is zero, so there’s no gradient to propagate back through the network. As a result, no learning occurs for these nodes. In contrast, node d shows learning; its value decreases from 5 to 4.9, which in turn affects the value of node e.
+
+If you have understood everything up to this point, then you've grasped the crux of what's happening inside a neural network. Everything else beyond that is simply optimization.
+
+In my next post, I'll build a simple neural network with PyTorch that can figure out handwritten numbers using the MNIST dataset. Basically, MNIST is just a bunch of pictures of scribbled numbers that people use to teach computers how to recognize digits.
+
+I am immensely thankful to Jeremy Howard, Andrej Karpathy, and Josh Starmer for the invaluable knowledge I've gained from their work: Neural net foundations ( https://course.fast.ai/Lessons/lesson3.html ) , From-scratch model ( https://course.fast.ai/Lessons/lesson5.html ) , The spelled-out intro to neural networks and backpropagation ( https://www.youtube.com/watch?v=VMj-3S1tku0 ) , and The StatQuest Guide to Machine Learning ( https://www.amazon.com/StatQuest-Illustrated-Guide-Machine-Learning/dp/B0BLM4TLPY ) .
+
+Add a comment to this post: https://janav.wordpress.com/2023/11/06/neural-networks-part-2/#respond
+
+-- 
+
+
+Manage Subscriptions
+https://subscribe.wordpress.com/?key=3ba1653235661837fb9cfafd373444b6&email=ishan.mail%40gmail.com
+
+Unsubscribe:
+https://subscribe.wordpress.com/?key=3ba1653235661837fb9cfafd373444b6&email=ishan.mail%40gmail.com&b=zQ88BvwklSIbRq-d759l99KdJveF1fgfqTVpCqN5ibOccRY8kp79bLA-bS1PeSDyd802eGdjCskbUoega1EVwlkTjuJRqvBj1BfJj7eSvxR-zdgiH87scNaHTmdYmkHSbzws0nYSBZnofEeloGwmstFFq8JqXFE%3D

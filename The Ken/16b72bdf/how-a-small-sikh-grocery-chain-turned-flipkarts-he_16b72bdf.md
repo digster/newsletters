@@ -1,0 +1,25 @@
+---
+subject: "How a small, Sikh grocery chain turned Flipkart’s head"
+from: "The Ken <info@the-ken.com>"
+to: ""
+date: 2019-06-20 02:36:20
+labels: ["CATEGORY_PERSONAL", "INBOX", "The Ken"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_8244464457792971031"]
+---
+Good Morning Ishan,
+$550 billion. That's the size of India's grocery market. It's as big as the GDP of a small but fairly well off country (think Sweden).
+Some 96% of that, though, is made up of the likes of Prakash and Asha. A couple who ran a tiny grocery store right by where I used to live in North Bengaluru once upon a time. Cheerful, intimately acquainted with every customer, and enterprising to a tee (they never missed an opportunity to extol the wonders of their Amway products), they're emblematic of the Indian kirana store. Or if you'd rather, the "hyperlocal" grocery market that many a tech startup has vowed to disrupt—with mixed results at best.
+But the remaining 4% or so, the organised grocery segment, is still a respectable $21 billion. That's what e-commerce companies and large retailers—from Flipkart, Amazon and BigBasket to Reliance and Future Group—are gunning for now. And it's been a bloodbath. Over the past four years, nearly 20 online grocers have been bought out by bigger startups, by mid-sized grocery chains, by mega retailers.
+In the midst of all this, news broke last month that Flipkart, India's biggest e-tailer, was in talks to buy a minor grocery chain called Namdhari's Fresh. Run by Namdhari Sikhs, an austere sect of Sikhism, the company sells fresh produce and groceries across 28 stores—all in Bengaluru. A bit like Amazon and Whole Foods, only rather more... inconsequential. At least, at first glance. Which is where today's story by Abinaya comes in.
+Flipkart has burnt its fingers with the grocery business before, and like almost every other e-commerce company in India, has struggled to get a grip on supply chains for fresh fruits and vegetables. Namdhari's, with its tightly controlled farm-to-shelf set-up and two decades of experience, may hold the key to the Walmart-owned company's grocery ambitions—on more than one level.
+Read the story here to find out how: [https://the-ken.com/story/namdharis-fresh-flipkart-grocery/](http://link.the-ken.com/wf/click?upn=HQSq6eeRV1xAVaGuFOahuNCZVVXPeP-2FJpSqxhvIUDrmH2CQzMxF-2BISSXByH0bP8Oaq9JwTXROAkdgQMMP2ZO4R1YrOwg4Fr2KOgb35KRmkFi3iyJFHV-2FFzMBvZOb07YO5RT8PzlDtTlLdth7IzwYZhzjB2sYu5Tum9hxHIWT3r4H2vQ6zjcpGZrbuciCUMcy_S4jLOsNx-2Fv6Jev2nvow8b7P9pBCWGd8KNZfb200gkZLQNlXQHio0noZzXtsWoloZmPWeyZsh7a4QCV9ufwCUKi00jlBT0uEdvwYDMuVuqcOTv9isxZaJsis8TBW8SCQIu0rFDVwJ0gWaMHXLWvS4aTqPwAWk43j1-2FOJ1dy5S-2BNHK-2BCpSy4hKxxPqPhcg8AepD-2FIjg354FpXNFgS-2FuLVyOwar7Aq-2FuCbzla51biwViZWMEYEuECJ0ePMdoMAU6IF9TL-2FeU8NO66cMoDtGHRnZh5HJGE44ImfmIoLeATWh1SAwutri27-2BHRmTWQkq7AckqOqLK5FyMrcTjtRM-2BuJOTNXI72Mshyb88i9qNkl8acJou8Zw9XpufTHDIqKdmb5OsM7iojlxOXnkS5wItFU-2BfSBK8BaDZd0s8eODu6wHRltbkaHZFJOEx1EYIPof4C7dr) (10-minute read)
+Cheers,
+Pranav Srivilasan
+[pranav@the-ken.com](mailto:pranav@the-ken.com)
+|
+What you just read is the personalised daily introduction to The Ken's story. Written by a different person each day. Often insightful, sometimes witty, and very rarely boring. Someone sent this to you? [Sign up for free](https://the-ken.com/?modal=register). Don't like these? You can [unsubscribe](http://link.the-ken.com/asm/unsubscribe/?user_id=2349339&data=Lz_qrVP8DInx0lSfK4msqlmHsp_DWQaE17s5PsUfiWHEBnHkPdkiBgQCmFG3kbDJfsLi6DwkLKw-ZdBKFzK6zTFjvXZGML_XA6-S4gLStTxK7TIU8OSllSzhN_w58qGeVuSWWkr34H_i34Uu1lKVSFMJdqruLblNXsl_le0c7_Hlv-1psP8XiNI83BE1Uu-20Xq7kYVs0Tf9-NauorouI8kfH1aUOt03UQxJSPWS8xuW6tnZTF9RjkjhZIQUXKLEAzAq5uwz_DDtkaa8xliGRq_OE8vwnHucn8XMyyXhMApYAIYMxh3vcEqUPmWCEg5XDfOyrb4oNrANtr4u_laC-BDGt-3maVJK0G4Qu30Dugg_FGiAvKF8pMpng_HLOiHAACURjcMOhgNxjDK6XNgv35_UgFlMNkrcCSa4VYKR_xdkdNyVoplD5Xru2JhxWpJEBv1vQNVzOtdwtSiGwgDGxR43Stwo49iI2ufqC_7VY2qcnvHA-_QfUDNYjg238oaYun_QVm9EedlONo3I9JWU3O1az17FR5hI_KWPNudClIg=). Want to manage your emails? Click [here](http://link.the-ken.com/asm/?user_id=2349339&data=FgsRgHS3t460xGOKjxDwLaxdd2BgMWciaOvBOuRJimNe7KVnGpuHjCw-0WmsJPS8se4oAKMQEO74KJorUFA0Nz3JaAfdYgoGX0aap_Z20ZHt3Evr4ggMNXYulKzR8JZ5O5GOdN8_ewh3ymEsdQ9PnTPOij8WT8WcMrmvHgDZsdkpvHXI1vn6D2m3B5e8rXofk1K3iVB3x-2_DPgngLfJqpomsyC7f8pWoMJgzz0AZV6j2fIBH-p1dROkRKCQBqYfX4wR-QLMf1Zo1htXm-F5lkXIKVXd2geU_qpsKjLPQ7aK4rOt5F7tKtjm-B9nxN2rMR8iDJy4EmEllYTm1lMa51eCIokUTHqTezQXk-PW-MCgfGtwDGBFZbZJ980-8vZ0DrqorL8u07vGpk8iX4fiQ78bdoq8LTfS6W72h07OAzF-56zOpTNbzg21d44izKicVH1jh3I-BsVVZ1Pw6Zn4gdsyUbwmIDCLq_tmxF01_SoxzjQSoslvK0YXBQtQkDmv2QbZDX0rZ0O-4ASGe2Rm7Q==).
+|
+|
+|
+|
+|

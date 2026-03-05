@@ -1,0 +1,21 @@
+---
+subject: "Rare Earths Aren’t Rare"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2025-10-18 11:23:23
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+Every decade or so there is a freakout out about China's monopoly in rare earths. The last time was in 2010 when [Paul Krugman wrote](http://marginalrevolution.com?action=user_content_redirect&uuid=2212024ce13790d01736e55b1bbfeadf7ff086df47436e3df5081cef0f875f0b&blog_id=42693868&post_id=91683&user_id=262258391&subs_id=225460721&signature=7a361b4110ee6425374061e2437a2f92&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cDovL3d3dy5ueXRpbWVzLmNvbS8yMDEwLzEwLzE4L29waW5pb24vMThrcnVnbWFuLmh0bWw/aHA&email_id=931e098df69d35542c9a69b2c914c0e6):
+You really have to wonder why nobody raised an alarm while this was happening, if only on national security grounds. But policy makers simply stood by as the U.S. rare earth industry shut down….The result was a monopoly position exceeding the wildest dreams of Middle Eastern oil-fueled tyrants.
+…the affair highlights the fecklessness of U.S. policy makers, who did nothing while an unreliable regime acquired a stranglehold on key materials.
+A few years later I pointed out that [the crisis was exaggerated](http://marginalrevolution.com?action=user_content_redirect&uuid=caa7f4c6cccfacb89d07a0c1da9ce06566d3b2bc3f4cb23cd0ada13966297a40&blog_id=42693868&post_id=91683&user_id=262258391&subs_id=225460721&signature=0124dcade132fdcb09bd83a875d965bb&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly9tYXJnaW5hbHJldm9sdXRpb24uY29tL21hcmdpbmFscmV2b2x1dGlvbi8yMDE0LzExL3doYXQtaGFwcGVuZWQtdG8tdGhlLXJhcmUtZWFydGgtY3Jpc2lzLmh0bWw&email_id=931e098df69d35542c9a69b2c914c0e6):
+- The Chinese government might or might not have wanted to take advantage of their temporary monopoly power but Chinese producers did a lot to evade export bans both legally and illegally.
+- Firms that had been using rare earths when they were cheap decided they didn’t really need them when they were expensive.
+- New suppliers came on line as prices rose.
+- Innovations created substitutes and ways to get more from using less.
+Well, we are at it again. Tim Worstall, a rare earths dealer and fine economist, is [the one to read](http://marginalrevolution.com?action=user_content_redirect&uuid=aea508bcf4943c8e3fe615509c49193624674ab5529aaa3b38e2c75f0ff1277c&blog_id=42693868&post_id=91683&user_id=262258391&subs_id=225460721&signature=8108f1ce4b45ca3c50bb803ad1cc0c3f&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly90aGVjcml0aWMuY28udWsvZG9udC1wYW5pYy1hYm91dC1yYXJlLWVhcnRocy8&email_id=931e098df69d35542c9a69b2c914c0e6):
+...rare earths are neither rare nor earths, and they are nearly everywhere. The biggest restriction on being able to process them is the light radioactivity the easiest ores (so easy they are a waste product of other industrial processes — monazite say) contain. If we had rational and sensible rules about light radioactivity — alas, we don’t — then that end of the process would already be done. Passing Marco Rubio’s Thorium Act would, for example, make Florida’s phosphate gypsum stacks available and they have more rare earths in them than several sticks could be shaken at.
+Some also point out that only China has the ores with dysprosium and terbium — needed for the newly vital high temperature magnets. This is also one of those things that is not true. A decade back, yes, we did collectively think that was true. The ores — “ionic clays” — were specific to South China and Burma. Collective knowledge has changed and now we know that they can exist anywhere granite has weathered in subtropical climes. I have a list somewhere of a dozen Australian claimed deposits and there is at least one company actively mining such in Chile and Brazil.
+...No, this is not an argument that we should have subsidised for 40 years to maintain production. It’s going to be vastly cheaper to build new now than it would have been to carry deadbeats for decades. Quite apart from anything else, we’re going to build our new stuff at the edge of the current technological envelope — not just shiny but modern.
+As Tyler says, do not underrate the "elasticity of supply."

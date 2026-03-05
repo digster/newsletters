@@ -1,0 +1,9 @@
+---
+subject: "Summer of Math Exposition #4"
+from: "3Blue1Brown <3blue1brown@substack.com>"
+to: ""
+date: 2025-05-05 16:21:22
+labels: ["3B1B", "CATEGORY_PERSONAL", "INBOX", "UNREAD"]
+label_ids: ["Label_4235920960005303993", "CATEGORY_PERSONAL", "INBOX", "UNREAD"]
+---
+We'll be doing it again this year! One of the great joys of the Summer of Math Exposition is that through the peer review process, we have a flood of activity for a few weeks of the year that helps new creators gain exposure, and allows those of us in the community to see new topics and perspectives we may not have otherwise come across. A risk, however, is that the entries which is most rewarded are lessons that appeal to those already very passionate about math, at least enough so to voluntarily join the peer review. Given how many students in the world struggle with math, I would love to be able to re-direct the enormous amount of creative energy that goes into all these entries, if only slightly, to encourage people to choose topics not just based on what fellow math-nerds will love, but based on what will be most helpful. To do this, in giving out cash prizes to 5 entries this year, I’ll be placing heavy weight on whether teachers of the relevant subject believe the entry would be helpful to their students. So, if you’re a math teacher of any kind, I would love to hear what specific topics you think deserve better online coverage. What is especially hard to explain to students? Where would visualizations or better narratives be especially useful? What have you searched for where the results you got left you disappointed? Feel free to discuss on this Also, if you are a math teacher and you think you might be interested in helping provide feedback to this year’s entries, it would help me greatly if you took 60 seconds to fill out this form and let me know: |

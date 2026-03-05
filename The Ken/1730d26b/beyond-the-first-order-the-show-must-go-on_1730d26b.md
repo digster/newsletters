@@ -1,0 +1,83 @@
+---
+subject: "Beyond the First Order — \"The show must go on\""
+from: "BFO by The Ken <info@the-ken.com>"
+to: ""
+date: 2020-07-02 01:31:46
+labels: ["CATEGORY_PERSONAL", "INBOX", "The Ken"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_8244464457792971031"]
+---
+|
+A paid newsletter that analyses the complex second and third order effects thrown into motion because of Covid-19
+Edition #68. Thursday, 2 July 2020
+|
+Good morning.
+We’ve written a lot about the struggles of restaurants, retail, and the travel industry. All are hurting. But if your business was… selling movie and event tickets, you’re not struggling. You’re in a proper existential crisis.
+Today we’ll talk you through the most recent Frankensteinian transformations of BookMyShow, India’s largest entertainment-ticketing platform. We’ll inspect the Damocles sword that’s dangling dangerously over Indian companies. We also look at language biases in football and how medical tourism is restarting in Thailand.
+|
+The show must go on
+Seetharaman
+When India imposed its nationwide lockdown on 25 March, cinemas were shut and concerts and comedy shows were cancelled. That forced BookMyShow (BMS), India’s largest online ticketing platform, to carry links to TikTok videos and movies on Netflix and Disney+ Hotstar.
+Three months later, movie halls have still not reopened and musicians and comics are not getting up on stage anytime soon. A bunch of films have skipped their theatrical release to [premiere directly](https://indianexpress.com/article/explained/coronavirus-lockdown-entertainment-industry-movie-releases-6482460/) on streaming sites.
+What does BMS do now? Become a streaming service itself.
+|
+Sunburn Home Festival, the virtual edition of Asia’s biggest electronic dance music festival, is among the first events (BMS) will stream live on July 10-11. You can pay Rs 99 for a day or Rs 199 for both days.
+[...]
+Other upcoming events include the India shows of Doncaster (South Yorkshire) band Bang Bang Romeo and London-based band Electric Enemy. There are theatre workshops with veterans like Puneet Issar, Rohini Hattangadi, Rakesh Bedi, and Anant Mahadevan. These are among the first of many concerts, events, and workshops lined up by India’s largest ticketing portal in its bid to ride out the pandemic storm.
+|
+|
+|
+|
+BMS cannot compete with the likes of Amazon Prime Video and Hotstar to snag the digital rights of films. So its next best bet is virtual events, which the company’s chief operating officer, Albert Almeida, told the newspaper would help BMS reach a wide audience.
+|
+“We are working with theatres to digitise plays. We are collaborating with live event firms to put together events. The content is coming from those partners,” says Almeida.
+|
+|
+BMS is also selling tickets to events that will be streamed elsewhere, like masterclasses with actors on Zoom.
+|
+|
+BMS’s competitor Paytm Insider is getting even more creative.
+|
+The lockdown has wreaked havoc on several of our [habits](https://the-ken.com/story/as-the-lockdown-kills-old-habits-a-new-generation-is-born/), including stepping out for the weekend movie or play. Streaming platforms have a lot to gain in this scenario, as we look for ways to keep ourselves entertained.
+But paying for a single movie or event online is not quite as appealing as spending on a subscription that comes with countless films and TV shows. That’s the challenge BMS—which has laid off or furloughed [270](https://tech.economictimes.indiatimes.com/news/internet/bookmyshow-downsizes-business-270-employees-impacted-by-layoffs-furloughs/76073715) employees—and Paytm Insider are up against. Moreover, what’s the point of watching a play if you are not in the same space as the actors? And an online concert is not the same without a crowd of fans united by their love for the band.
+But it’s not just events that BMS is hawking. The company knows how badly you need a haircut so it’s even letting you make a salon reservation.
+|
+|
+If you needed any more proof that we are living in strange times, this is it.
+|
+You get a Damocles' Sword! And you! You too!
+Rohin
+Everyone gets one!
+On 29 June, the Indian government blocked 59 apps that were “engaged in activities...prejudicial to sovereignty and integrity of India, defence of India, security of state and public order.”
+We wrote yesterday that the blocking had led to the [Digital Diadochi Wars](https://the-ken.com/bfo/67/) as smaller players rushed in to stake their claims on the orphaned users of these 59 apps. Between themselves, they had [nearly 5 billion downloads](https://www.wsj.com/articles/india-ban-hurts-chinese-tech-in-worlds-biggest-untapped-market-11593522311) in India since January 2014, and 750 million just this year.
+But the opaque and questionable manner in which India decided to block these apps—via [a simple press release](https://internetfreedom.in/59-apps-blocked-our-statement-and-initial-action/)—has left the Sword of Damocles hanging over the heads of many other digital services.
+[Damocles](https://www.history.com/news/what-was-the-sword-of-damocles) was believed to be a flattering courtier in the court of Dionysius II, a tyrannical Sicilian king from 4th century BCE.
+|
+|
+|
+|
+Subscribe to Beyond The First Order
+Get BFO delivered to your inbox every weekday and access all new and old editions.
+Choose from the following options
+|
+Monthly Subscription
+Complete access to all editions of BFO
+Rs. 99 or $2
+|
+|
+With The Nutgraf
+Complete access to BFO and The Nutgraf
+Rs. 198 or $4
+|
+|
+|
+Questions? Get answers [here](https://the-ken.com/bfo/2/#newsletter-faq-section)
+|
+Beyond The First Order is a paid, daily newsletter that analyses the complex second and third order effects thrown into motion because of Covid-19 across India and Southeast Asia. This newsletter is published by [The Ken](https://the-ken.com/?utm_source=footer&utm_medium=email&utm_campaign=btfo)—a digital, subscription-driven publication focussing on technology, business, science and healthcare
+|
+Want to unsubscribe from our paid daily newsletter, Beyond The First Order? Click [here](https://link.the-ken.com/asm/unsubscribe/?user_id=2349339&data=m6ww-JGni2eEImMJXNwW5odbZlI_rGe-e_4DlPoWNhPaGW-pX2VfKiaSx65J1Ia2SJw-c0Y1qQXCa3U5T2jNml8HtGhhZYGcwi6vF_7_ME_cZjVmmn1iSMFEcXlQu_qiz9gO-dGEHBGSNT5dXOFIXrFOO2v6Wns9Xk10qwDUH_SGa2V3EObYP0Yvhc2JHA7M2wZ-WqdPW4S2gdFbfIDqfVvGCTjDPrly2YNhuuuQFY3p3szFrXOfOsULQRoYBP9la-P1dxq0HfaoiSEGRV5n0kmZERvNhejFQutYHvY5UKNWu4nV0YOWfRgsvvaJSjD--ImAjsZJmq4HyNtQnH2AQi8NLgW-Y-ntIDYq3LPpKDD_XjrT0wa3chi5DdlSIpy1iIJZVBhEudDTkDJYkZ6gU0vLlURtqAbbzdVMu8o6lcooKr_NPaWjcQsCUaDFuWXcd3creMnuE9eclWcENDvo4Lr4X-yiT7K6fa4DReJJPp5RuFrneT0hRXpBbgkmDMFeM-WXzOYnfI9cJK6A9z4YXVk0NU757xi_Zre8KyFjitYioJkvcy7ditny8Mv1405X). Or set your email preferences [here](https://link.the-ken.com/asm/?user_id=2349339&data=oWsmEnHquLodPe2ahBdCjP-OiD5YyrQH0g296mqdLjxATUQJK0fl78fEV-UC9_Eq6Gv5vpW6tN_owcIT_QL0w4JGRegyXj_cygZAnxD2yJAarCcUhEAHy0HN2-M8MbvGa2uKMgq4ryaqz0DJ3jxByKhCeC2_7PuJod3hz9vtoHO9IW3amrx-z8V3tKNNk02M2MlQbtGlg832W2368aKd6TkDFPQwDdI09MZPLsig6tcGZtADRs3x641lgQ_nbvw-XyoeV3Dxo_V8E1xYx6zrsfrJggLIFJpRxV2Oz3SiE6zBTN3bThQu8Z8Cdhwyim8KNNpl_0Ori7TL7NQP4OQkruFrzGPgqOgd9EhwfAjB_Kje5TiAzNwZlXZu1iT1Mf8y6zUKHPk7rcglpskkCmBgNYCUjFbhVau9iKrEbosnQwNgZ7HfJpzbLRvG8-N5Rk5ZUscRLmy7xNz0MfuVFS1bgBjFHzjep8AEeWobVnLirGmEzmtftaJey0LQtSUdzKBj8cdS5jnhIEPnOZAz_pAovbsnYK_gfeDVJZ6q7V1P3LZfaKAiH4mpy-xGfO8Qn4nw)
+© 2020 The Ken
+|
+|
+|
+|
+|

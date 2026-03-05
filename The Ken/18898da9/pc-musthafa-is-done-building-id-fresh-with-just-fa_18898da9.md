@@ -1,0 +1,21 @@
+---
+subject: "PC Musthafa is done building ID Fresh with just family and friends"
+from: "The Ken <info@the-ken.com>"
+to: ""
+date: 2023-06-08 02:34:02
+labels: ["CATEGORY_PERSONAL", "INBOX", "The Ken", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_8244464457792971031", "UNREAD"]
+---
+Good Morning Ishan,
+“With help from friends and family” is a common refrain among founders when asked about their early days. But when PC Musthafa says this, it’s more than literal.
+Over the last 18 years, the 49-year-old entrepreneur has built ID Fresh into a Rs 500-crore (US$60.5 million) business, and almost all the initial hires came from his extended family and those they referred to in their home district of Wayanad in Kerala.
+Now, Musthafa is close to hiring a chief human resource officer. This, he thinks, will complete ID’s “transition from a family-run business to a professionally managed organisation”. Simplistic?
+If you’ve lived in southern and western India, you’ve probably sampled ID’s idli and dosa batter and Malabar parotta—the two mainstays of this FMCG company. But despite having a few other products—also staples in southern India—ID has remained a two-product wonder.
+In the last few months, ID has added more ‘professionals’ than it did in 15+ years of its existence. From American chocolate maker Mars, French stationery and lighter company Bic, from rival MTR Foods—to name a few.
+Musthafa seems satisfied with the progress as he shares some numbers with Aayush, writer of today’s story: “Since the pandemic, overall wastage is down to 4.2% from 10.6%, and in mature markets/products, it is less than 0.5%.”
+Any transition from a close-knit family structure to a professionally run, SOP-driven ops is painful. ID is no different. Musthafa is trying his best not to squelch the innovation drive that makes founders-led businesses compelling. Is he successful yet? Read it here: [https://the-ken.com/story/pc-musthafa-is-done-building-id-fresh-with-just-family-and-friends/](https://the-ken.com/story/pc-musthafa-is-done-building-id-fresh-with-just-family-and-friends/?utm_source=daily_story&utm_medium=email&utm_campaign=daily_newsletter) (9-minute read)
+Warmly,
+Seema Singh
+[seema@the-ken.com](mailto:seema@the-ken.com)
+What you just read is the personalised daily introduction to The Ken's story. Written by a different person each day. Often insightful, sometimes witty, and very rarely boring. Someone sent this to you? [Sign up for free](https://the-ken.com/?modal=register&utm_source=footer&utm_medium=email&utm_campaign=morning_email_ind_shared). [Dont like these? You can unsubscribe](https://link.the-ken.com/asm/unsubscribe/?user_id=2349339&data=AVvE_cc4xRdgV_LLsGK4RI1tN_KoxoKLPuHqCiQDTbpoMDAwdTAwMAiEOP_u5cEKto1JJC5N5F8RonaaVisDUS8BliAbevvm3125VsSm3RdasU5VFNC-cy7izI1vaQeKOnJ4Ge5PVe-G3iYJswpxZSx87NHrGbvnlRvBittttpkdqkM9eIz65k3pOTZtM80Y7hZIBAepAxGIIeu2ATVMet-etmqG1CHnVKUckzh5xwdNGviPAepus2OVq2iD_Wpaa_V_bxcQKIz9MuR35Z8KvG1CWc70DJa0UH82ao6xIDLYQIID4ywy9mQHHe2-ee27LSazrdPqtzPWj6jcVcpvjFchtTV6jmiJjUtwKhcIWX3ZCTkUrr3FS9rGRxXCwfG4647gAsGthhN3o7POTp9MdPwId7VoFFydAXm4iKsuOWaSPwT2EQTxg9hiHhIBMbo3WxlZ-kGW-1Gy9zkzQQVgX6EVzkmMJ4ol-GT_7enLv0u3T5n6_11e_2TlWnEnrZlWPZ0aNzfwXjrjZ7GeXYdYyU1pFfk1oqI82y1YGNU0mEIiSl_AAcTE8FoDYztWacnQfc3OXkilmKY=) Dont want to hear from us again? [ Unsubscribe from our emails here](https://link.the-ken.com/asm/?user_id=2349339&data=986X_0Ui65UO4cKAFiGDUWUyN6ufJ_Ptks6drwRz1uxoMDAwdTAwMK2pjPwFgMfrOs_nOFwsUCSQzAUBYZzZGPo97MCwizrdKQA8cjbWWQzcSy8PgfAoHyCtZ5iL4cnpngXfXzIkiOdFB_wxhUnYkMXHn4fOPqQH0kT-VV4SJLDAhFNtAxNrD-bk66ZzwZK4ChCHdKD6xyweFBQxNv3AGeOgFq1B55FP-ePbovmI8UJkJLUBw-YmBGgUJ6TVyKFdgH7knR9dmIF4CkCt8krGDoPZo6MA2psLKnRVo4dPeAioyt4AujQFGE9dI75k8IRR-rSY5D46kOC5eguiUzfBcXV2fpixQ4CAbAyeaixXDrQpf7wDT9_ULmiAPJc8sid88Plhp3AaToWw_VorVFCdI7ptJajCQTqCOz2XgQKe_4zmeo3YN-nyRF1ZCRMCx2bflMmU37zb2oip8cl3rG1dKvXxSDkBXz3vGF8zP3oOppWnzi_rHnKBhAxVPe73Nwq4ykGjjXvodRGiEQvhtEb_MW_FcYFbok-eIDor1evaBmVizFXEQBFGlg==).
+Something wrong? Tell us at [support@the-ken.com](mailto:support@the-ken.com)

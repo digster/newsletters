@@ -1,0 +1,11 @@
+---
+subject: "The Presidential Physical Fitness Edition"
+from: "\"Why is this interesting?\" <whyisthisinteresting@substack.com>"
+to: ""
+date: 2024-02-22 21:00:56
+labels: ["CATEGORY_PERSONAL", "INBOX", "UNREAD", "WITI"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "UNREAD", "Label_5752899537867939131"]
+---
+I saw this piece in the NYT: “ Colin here. If you grew up in the US at a certain time, you might remember a series of fitness tests you did in gym class. Long jump, pull-ups, timed mile runs, plus the sit and reach and a few other exercises. It was all part of a plan to help Americans get in better shape. From the late 1950s until 2013, the Presidential Physical Fitness Award was based on specific challenges, and students in the top 15th percentile were recognized. The standards for kids were no joke. Being awarded meant you did 40 push-ups, 10 pull-ups, and a 6:30 mile run, alongside the specific criteria for other events. JFK outlined his worldview here: These ideas of overall fitness and improving American health were part of Kennedy’s election platform. “We are underexercised as a nation,” Kennedy said in addressing some 1,500 football fans seated in the
+Why is this interesting? There’s a lot to unpack here. There was a standard of athleticism that even strong young athletes would have trouble meeting. Second, it was systematized and installed into school systems in the US—so much so that it is shared collective memory for a certain generation. It was part of culture and had a larger societal impact. It might not have been just about the achievement of the award, but the act of working toward the goal that was the actual intention of the program: to lower childhood obesity and improve the overall state of athleticism of the country. It doesn’t seem we have a collective mission or vision for this among young people in the US now, but it is interesting to watch China adopt similar tones as we did in the 1960s about physical fitness in their population today. And when you look at what is being up-ranked and prioritized on their version of TikTok, — Thanks for reading, Noah (NRB) & Colin (CJN) —
+You're currently a free subscriber to |

@@ -1,0 +1,9 @@
+---
+subject: "The Ultimate Bryan Johnson Interview"
+from: "Ashlee Vance from Core Memory  <ashleevance@substack.com>"
+to: ""
+date: 2025-08-20 14:03:09
+labels: ["Ashlee Vance", "CATEGORY_PERSONAL", "INBOX", "UNREAD"]
+label_ids: ["Label_4216359091400734623", "CATEGORY_PERSONAL", "INBOX", "UNREAD"]
+---
+Well, here we go. Bryan Johnson has come to the pod. You have likely heard an interview with Johnson before, since he’s become such an object of love, hate and fascination among the media over the past couple of years. That said, you will not have heard an interview like this with Johnson. I was covering Johnson’s exploits in the brain-computer-interface and health fields in-depth before anyone else. Back then, my editors and others often seemed to think too much ink was being spilled on the man. But, in January of 2023, I wrote Alongside the director Chris Smith, I also made the film Over the course of reporting on Johnson for so long and doing the film, I’ve gotten to know our world-famous vampire quite well. So, we tried to go in some more personal directions - erections, cults, smoking toads - with this interview and to chart Johnson’s evolution from someone Silicon Valley shunned to resident longevity guru and blossoming cult leader for some Johnson also speaks at length for the first time about his decision to pull away from the Blueprint business and his struggles to figure out what’s next for his Don’t Die movement. Enjoy! The Core Memory podcast is sponsored by The podcast is also made possible by Hopefully, you enjoyed this story. If so, please share it and subscribe to Core Memory. We want to do more of this for you and need your help. Thanks! |

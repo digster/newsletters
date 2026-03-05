@@ -1,0 +1,43 @@
+---
+subject: "The Nutgraf: Jiohotstar is not content"
+from: "The Ken <info@the-ken.com>"
+to: ""
+date: 2025-03-01 04:32:09
+labels: ["CATEGORY_PERSONAL", "INBOX", "The Ken", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_8244464457792971031", "UNREAD"]
+---
+Good Morning Ishan,
+If you want to listen to me read out today’s edition of the newsletter, just subscribe to The Nutgraf podcast.
+Here’s a great job interview question for a strategy role I often use. Take note. It’s quite useful. Feel free to steal it.
+First is the setup.
+“You are India’s biggest OTT app. You just acquired the second biggest OTT company last year, making you India’s largest streaming platform by users. By the way, you have exclusive rights to telecast the country’s biggest sporting event, the Indian Premier League (IPL), which is played out over two whole months. As a bonus, as a conglomerate, you effectively own India’s largest telecom company, the most successful IPL cricket team, and India’s largest retailer.”
+Then I ask the question.
+“So what should be your growth strategy?”
+At this point, I usually wait for five seconds. If the candidate answers with anything other than “Nothing”, I reject them immediately.
+Now, you are also ready to hire for that strategy role.
+Exactly a year ago, when it was confirmed that Jio would acquire Disney+Hotstar’s India business, I published an [edition](https://the-ken.com/the-nutgraf/its-jios-world-now-were-just-watching-it/) of this newsletter titled, “It’s Jio’s world now. We’re just watching it”. Back then, I wrote, “There isn’t a single media company, anywhere in the world, which comes close to this level of market dominance on the OTT side, so this will be both interesting, and terrifying to watch.”
+Essentially, I wrote about the implications of one company having this kind of power and dominance in streaming, from having the ability to segment the market better than anyone to its power over advertisers. And all of this was before Jio decided to combine Jiocinema and Hotstar to create one mighty superapp—Jiohotstar.
+You’d think that after this much winning, Jiohotstar would relax a bit. It’s practically India’s default streaming app, with access to India’s default sporting event. Jiohotstar doesn’t need a strategy anymore—Jiohotstar is the consequence of a successful strategy.
+Well, as we’re finding out, Jiohotstar isn’t content.
+All of this is still not enough.
+And that’s because Jiohotstar has discovered that it’s no longer competing with another streaming app, or another cricket team, or another telecom network. It’s gone past all of that. Jiohotstar is now competing with the most hardened adversary that all mighty companies eventually come up against—consumer behaviour.
+Consumer behaviour is the most difficult competitor for any company. It can be quite annoying because changing it takes time. You can play all the pieces perfectly, but consumers are unpredictable, irritating, and simply do not do what you expect them to do, at the level that you want them to. And so, Jiohotstar has been spending an inordinate amount of time coming up with ways to counter it.
+As an instance, here’s the news from last week.
+After striking an $8.5-billion media merger with Walt Disney, Indian billionaire Mukesh Ambani is targeting small businesses and promoting unconventional neuroscience studies to boost its revenues from the IPL, the world’s most valuable cricket league.
+The pricey broadcast rights for the Indian Premier League (IPL) and other cricketing events which cost Disney and Reliance nearly $10 billion in recent years, are set to weigh big on the merged group, which is India’s biggest entertainment giant.
+The document shows Reliance is privately pitching advertising agencies with “brain mapping” research that it says analysed the brain cells, or neurons, of participants to show its streaming ads have a higher engagement rate than Google.
+[India’s Reliance touts ‘brain mapping’ to lure IPL advertisers after Disney merger](https://www.reuters.com/business/media-telecom/indias-reliance-touts-brain-mapping-lure-ipl-advertisers-after-disney-merger-2025-02-25/), Reuters
+Look, I am not a scientist and I haven’t seen Reliance’s presentation, so I have no idea if this brain mapping thing is true. Also, I’m wondering if Reliance segmented the brain mapping responses by the IPL teams each participant supported—and what that reveals about them. I have my theories, but I also live in Bengaluru, so it’s not safe for me to expound on this.
+Anyway, what’s telling is not whether Reliance’s brain-mapping research is accurate, but the fact that it has to do stuff like this in the first place to woo advertisers at all. In another universe, I can imagine that Jiohotstar’s big pitch to advertisers is a one-slide presentation with the words “WE HAVE IPL” in 72-point font on it. The end. Why say anything else at all?
+Of course, one reason why Reliance has to say more is because advertisers are not convinced that saying that is good enough. As the Reuters story notes, this is partly because Reliance raised advertising rates this year by “up to 25%”. It’s one thing to be more expensive, but advertising is a two-sided market. You can raise prices all you want, but unless there’s demand that’s willing to pay that price, at the density you desire, it’s practically pointless. In many ways, price discovery is automatic in advertising that happens at scale. If you are Reliance, you really can’t do much.
+I’m assuming one of the reasons why Reliance is doing all of this fancy brain-mapping stuff is because enough advertisers aren’t convinced about the ROI they’ll get from advertising in the IPL. This is what makes apparent the real battle that Jiohotstar is fighting—not against advertisers, but against consumer behaviour.
+Put another way, why don’t Instagram and Youtube have to sell brain-mapping stuff to advertisers? The simple answer is because advertisers there have a better way of knowing and can measure exactly what they get in return for the ads they place there. And for all advertisers, that metric quite simply is—direct response. Instagram and Youtube are great for direct-response, or performance advertising, where the user sees an ad and responds by buying something, or downloading an app, or filling a form. And that’s not because these platforms have better tech or strategy as compared to Jiohotstar, but because those platforms encourage that specific consumer behaviour. Jiohotstar telecasts a sporting event, which people watch continuously. They’ll probably be okay watching ads in between, but will be less likely to interrupt their game to check out that D2C brand.
+Jiohotstar is spending a lot of time, effort, and money to convince its advertisers that the money it spends to do brand advertising on its platform gives actual returns. Measuring brand advertising ROI has always been a conjectural exercise, but if Jiohotstar can offer some research that makes them believe it’s working, well, then, why not?
+This is just one example of consumer behaviour that Jiohotstar is battling.
+Another one that it’s up against is content itself. Again, this is perplexing. You’d think that a platform that houses the IPL, HBO productions, Star TV’s content, Disney, and much more would be content with its offering. Well, no. Jiohotstar is now adding more content, and it’s doing it by attracting… Youtubers.
+A couple of weeks ago, I wrote about how Youtube is [trying](https://the-ken.com/the-nutgraf/youtube-missed/) to become new television by getting Youtubers to do television-like shows. Well, Jiohotstar is also trying to do exactly the same thing. Both of them are approaching the same consumer preference from separate directions.
+It’s one thing to get Youtube creators on board, but it’s another to replicate everything else that Youtube offers content creators on Jiohotstar. Memberships. Super chats. Subscriptions. Advertising revenue. Shorts. These are Youtube’s biggest weapons, honed, crafted, and tested in the unforgiving fires of consumer behaviour.
+I imagine that Jiohotstar’s biggest test in the next few weeks when the IPL begins won’t be whether it can get the viewers—it already has them. It won’t be about whether it can get the advertisers either—it already has them. Jiohotstar’s biggest test will be whether it can get its users and consumers to behave differently, and in ways that can make Jiohotstar the default platform for creators, advertisers, and content alike.
+And until this day comes, Jiohotstar will always need to have a strategy.
+Regards,
+Praveen Gopal Krishnan

@@ -1,0 +1,25 @@
+---
+subject: "All Property Becomes Cryptography"
+from: "Balaji <balajis@substack.com>"
+to: ""
+date: 2025-07-28 01:24:26
+labels: ["Balaji", "CATEGORY_PERSONAL", "INBOX", "UNREAD"]
+label_ids: ["Label_3304713803370614215", "CATEGORY_PERSONAL", "INBOX", "UNREAD"]
+---
+|
+All property becomes cryptography.
+Let me explain why.
+First, right now, trillions of dollars worth of digital gold is secured onchain.
+[Bitcoin is now valued](https://substack.com/redirect/e5b1c1c2-a447-4d6c-b9a0-296e8452d1b2?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)everywhere there is an internet connection. And no matter what political faction you're in, everyone agrees on the raw fact of who owns what amount of BTC.Next, right now, the
+[full legalization](https://substack.com/redirect/de2b6d45-1cea-492e-8441-b2114cc85a88?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)of stablecoins means that every other asset goes onchain. Because if there is a legal status for onchain currency, of course there's a legal path for onchain stocks, onchain bonds, and every other type of financial asset.So, that's a lot right there. But there's actually a next step. As you can see from the
+[video](https://substack.com/redirect/09da61f2-7f62-4880-abd6-1473092ad139?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)below, this door can also be secured with an[onchain smart lock](https://substack.com/redirect/a9f591b7-e2f2-4c3b-adbd-0af063d9532b?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o). That means the door to your house can be secured by crypto. So can the door to your car.From
+[Hideyoshi Moriya](https://substack.com/redirect/09da61f2-7f62-4880-abd6-1473092ad139?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o): My home also can be unlocked with Ethereum, by verifying a NFT (ENS) ownership. In this example, the system verifies if I have an ownership of piyo.eth[@ensdomains](https://substack.com/redirect/e322fdc1-ff30-4db5-ad66-82956e9eeef8?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o).Indeed, any door can be secured in this way. The door to a plane, to a train, to a boat, to a building. Any door can be secured onchain.
+But this is really more than the keys to your car door. It's really the keys to your car itself. The digital signature starts the engine. And that means any piece of capital equipment, from cranes to drones can be similarly secured.
+That includes the humanoid robots, the sidewalk robots, the self-driving cars, and just about anything that's controlled electronically. Which is almost everything.
+There are exceptions. The food on your plate, the shirt on your back, those can't and won't be secured onchain. But that's actually a negligible fraction of value in the world.
+For everything else, for 99%+ of what's valuable, for every financial asset and every capital asset, we will secure it onchain.
+And the reason we'll have to do that is that the blockchain is the only truly secure backend. The
+[Pentagon gets repeatedly hacked](https://substack.com/redirect/820f426e-b77f-4e40-97b0-700993d049c4?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o), as do many web2 services, but scaled public blockchains do not.So: even the control plane for the drones goes onchain. The blockchain is the basis by which we can build a
+[code-based order on the Internet](https://substack.com/redirect/36fb9346-eb1c-4a4b-a1bc-cfefce4b8f5b?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o), a new kind of global economic union that allows anyone with an internet connection to access world-class monetary policy and contractual equality.
+All property becomes cryptography.
+This post originally appeared on X. See comments [here](https://substack.com/redirect/bf2381a6-e39b-4d42-87c0-ddd2779282d2?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o).

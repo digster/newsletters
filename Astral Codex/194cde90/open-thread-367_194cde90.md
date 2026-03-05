@@ -1,0 +1,10 @@
+---
+subject: "Open Thread 367"
+from: "Astral Codex Ten <astralcodexten@substack.com>"
+to: ""
+date: 2025-02-03 22:22:26
+labels: ["Astral Codex", "CATEGORY_PERSONAL", "INBOX"]
+label_ids: ["Label_6409723252142624155", "CATEGORY_PERSONAL", "INBOX"]
+---
+This is the weekly visible open thread. Post about anything you want, ask random questions, whatever. ACX has an unofficial [subreddit](https://substack.com/redirect/c5a81a08-e96e-4a3d-b6a7-4387ff74cefa?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o), [Discord](https://substack.com/redirect/8e248840-4a10-4e6b-985f-1be2ea0a9bf3?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o), and [bulletin board](https://substack.com/redirect/c349097d-44f9-4123-bb5b-493b7d1ce89b?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o), and [in-person meetups around the world](https://substack.com/redirect/15e4a92c-732f-4b90-b9f0-be04bd77c91e?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o). 95% of content is free, but for the remaining 5% you can subscribe [here](https://substack.com/redirect/7190999d-22ec-4bd9-abc7-20cb79d9ca74?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o). Also:
+1: In the [survey results post](https://substack.com/redirect/220f88a0-1ace-4ad7-89a1-3dae05a59857?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o), I said that none of 37 people described having a highly negative result from ayahuasca. A reader emailed me and said they did, and I realized that there was an issue with overly long text boxes that made me miss their input. They described feeling “like I was being electrocuted in the brain”, “insane nightmares for months”, flashbacks where they “felt like I was on drugs again, back in [an] alien grotesque world”, and a long-term shift to finding “many aspects of the world to be extremely upsetting”. Hopefully this is enough of a negative result for you! I may have missed other long text box answers but I don’t think enough to significantly affect the results.

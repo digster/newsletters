@@ -1,0 +1,41 @@
+---
+subject: "Five Links for March 2024"
+from: "Auren Hoffman of Five Links <auren@substack.com>"
+to: ""
+date: 2024-03-06 20:40:18
+labels: ["Auren Hoffman", "CATEGORY_PERSONAL", "INBOX"]
+label_ids: ["Label_4260038268466989707", "CATEGORY_PERSONAL", "INBOX"]
+---
+|
+without further ado, here are five links worth reading…
+[So, You Want to Buy a Pro Sports Team? Here’s How](https://substack.com/redirect/1ee81643-5cfa-4f7c-9e78-23142af6b43f?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) by Tom Lamont
+“All my friends have private jets. All my friends have boats. None of my friends have a sports team.” How the world’s 2,600 billionaires go about buying and selling America’s 150 or so professional sports teams.
+[The business of check cashing](https://substack.com/redirect/b38308b9-5959-4151-8d91-a038ef3ce7e6?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) by Patrick McKenzie
+Most of you reading this have probably never paid to cash a check, but cashing checks for the unbanked is a major, and arguably predatory business. This is a deep dive on the infrastructure of checks for both the banked and the unbanked.
+[Seconds to Strategy: How Your Relationship with Time Shapes Your Career](https://substack.com/redirect/6966a007-5095-41fd-a5bf-f7268329116b?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) by Auren Hoffman
+There’s very little written about choosing a career that fits your timeframe. There are five different types of time and what type of career you should optimize for based on where you excel.
+[The Singers On ‘We Are The World,’ Ranked](https://substack.com/redirect/0f95a550-db12-4d8e-8e98-cb4677d28dec?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) by Steven Hyden
+The rarest thing on the internet: a thoughtful, well-written listicle. This is an in depth exploration of the original celebrity do-gooder song and the 21(!) solo vocalists on it.
+[School Is Not Enough](https://substack.com/redirect/f0f2d3ec-2eda-4374-be95-0a5c0527df0c?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) by Simon Sarris
+In the past, kids could work or apprentice before their teens. Today, almost everyone is in school for the first 20+ years of their life. What does it mean for society that children today don’t have “useful childhoods?”
+Bonus (Listen): [Sarah Tavel, Benchmark Capital GP: Selling Work in SaaS](https://substack.com/redirect/32806705-294b-4582-bbca-8a638e13c3c8?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) on World of DaaS pod
+Benchmark Capital GP Sarah Tavel sees a whole new revenue model for SaaS, how to use AI to sell work, and explains how startups can use it to take on big incumbents.
+listen on [Spotify](https://substack.com/redirect/8ac13bd0-d6bb-4a9e-bc35-4b00c870d69a?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) / [Apple Podcasts](https://substack.com/redirect/502e2123-e974-4c71-85f3-c38e1a8c075b?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) or watch on [YouTube](https://substack.com/redirect/d92c492b-1529-40ef-b8de-0836e9c567c2?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+[Could a Rogue Billionaire Make a Nuclear Weapon?](https://substack.com/redirect/e12f1cf8-20d0-428a-91b4-0c1dd5796cb9?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) by Sharon Weinberger
+The Pentagon commissioned a study to determine if it would be possible for an entrepreneur or a private company to build a nuclear bomb. Their conclusion was yes. What it would take, and why it’s a bigger threat than ever.
+Bonus (Listen): [Cyan Banister - Investing for A Higher Purpose](https://substack.com/redirect/0ddceb86-49d5-4790-a8fc-99fb2de10156?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) on Invest Like the Best pod
+Cyan is one of my favorite people. She's truly genuine and a lovely human being, and she has an amazing investing track record. A must listen
+Bonus (Fascinating): [Charles Harrelson](https://substack.com/redirect/4d36d232-d08a-482a-9619-d40f90b89c10?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) on Wikipedia
+Woody Harrelson’s father was a contract killer who assassinated a federal judge, and he may have also fathered Mathew McConaughey.
+More reading links at [https://twitter.com/AurenReads](https://substack.com/redirect/0d41b3a6-197f-474d-8332-625c3ce11ace?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+Books I read last month:
+[Man’s Search for Meaning](https://substack.com/redirect/a23f83fb-203a-4ed0-9eb0-599ac2e0899c?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) by Victor Frankel (Must Read)
+[The Quiet Americans](https://substack.com/redirect/3ccd89e1-af04-4890-93c5-c3ca2b1a3c44?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) by Scott Anderson (Highly Recommend)
+[Playing to Win](https://substack.com/redirect/9e5ee78a-aa27-4fcd-8e7b-b350e491e810?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) by Michael Lewis
+[Big Mistakes](https://substack.com/redirect/bf1c1194-1fc9-4d5c-b63a-a5ed83d70be3?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) by Michael Batnick
+[Read Write Own: Build the Next Era of the Internet](https://substack.com/redirect/ac57f4b3-cb50-477f-8045-cfa0969f3d7b?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) by Chris Dixon
+HT: Chris Dixon
+how much a company spends on security does not correlate to how secure it actually is.
+Auren Hoffman is CEO of SafeGraph (geospatial data on physical places) and GP at Flex Capital ($200M Series A and B VC firm). Engage on [Twitter: @auren](https://substack.com/redirect/cf9049fa-e85a-4544-be82-729972ea3da4?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+and please share Five Links with your friends.
+Hope you enjoy [Summation by Auren Hoffman](https://substack.com/redirect/2/eyJlIjoiaHR0cHM6Ly9hdXJlbi5zdWJzdGFjay5jb20_dXRtX2NhbXBhaWduPWVtYWlsLWhvbWUmcj04bzU0biIsInAiOjE0MjA3MTY0NSwicyI6NjU1MjAsImYiOnRydWUsInUiOjE0NTYzMzE5LCJpYXQiOjE3MDk3NTc2NTksImV4cCI6MTcxMjM0OTY1OSwiaXNzIjoicHViLTAiLCJzdWIiOiJsaW5rLXJlZGlyZWN0In0.WxDqOv2snITaCqiIrcjvRzMmJWJM8RuEwdwqWmq12N8?). Please also follow [@auren](https://substack.com/redirect/cf9049fa-e85a-4544-be82-729972ea3da4?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) on Twitter.

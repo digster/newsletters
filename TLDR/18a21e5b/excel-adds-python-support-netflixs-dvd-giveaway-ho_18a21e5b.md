@@ -1,0 +1,37 @@
+---
+subject: "Excel adds Python support 👨‍💻, Netflix's DVD giveaway 📀, how game dev works 🎮"
+from: "TLDR <dan@tldrnewsletter.com>"
+to: ""
+date: 2023-08-23 10:16:55
+labels: ["CATEGORY_PERSONAL", "INBOX", "TLDR", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_795315172960844453", "UNREAD"]
+---
+[Netflix plans to give away DVDs as service shuts down (3 minute read)](https://tracking.tldrnewsletter.com/CL0/https:%2F%2Farstechnica.com%2Fgadgets%2F2023%2F08%2Fnetflix-will-let-you-keep-your-rental-dvds-forever-after-september-29%2F%3Futm_source=tldrnewsletter/1/0100018a21e5ae64-8472199a-e22c-449e-b8fd-7daf54de00d3-000000/2K2y6ERaLIu7URa9JdkM4xILk1YzoMLuXsE0LJzaDaU=315)
+Netflix is shutting down its DVD rental service on September 29. Customers can keep any remaining DVDs they have after the service shuts down. Subscribers can potentially receive up to 10 discs for free as Netflix clears out its inventory. Netflix will allow people to sign up to its DVD plan until midnight on August 28 for a chance to win the DVDs. |
+Science & Futuristic Technology
+|
+[Breakthrough creates stem cells without any “memories” (4 minute read)](https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.freethink.com%2Fscience%2Fips-cells%3Futm_source=tldrnewsletter/1/0100018a21e5ae64-8472199a-e22c-449e-b8fd-7daf54de00d3-000000/Hc9stI3R5NuHQKWVCFQp3wlsHlYkN3sbsOsKjf-cHUs=315)
+Embryonic stem cells are difficult to obtain and they can be rejected following transplants if they don't match the recipient's DNA. Australian researchers have developed a technique to reprogram adult cells to be more like embryonic stem cells. These cells can then be reprogrammed to become any kind of cell. The technique potentially unlocks an endless supply of stem cells for research or treatment. |
+[Meta’s “massively multilingual” AI model translates up to 100 languages, speech or text (5 minute read)](https://tracking.tldrnewsletter.com/CL0/https:%2F%2Farstechnica.com%2Finformation-technology%2F2023%2F08%2Fmetas-massively-multilingual-ai-model-translates-up-to-100-languages-speech-or-text%2F%3Futm_source=tldrnewsletter/1/0100018a21e5ae64-8472199a-e22c-449e-b8fd-7daf54de00d3-000000/9CWje8Ytefegws_0C1AuDLZ39heALarR2WgAj1P6Amg=315)
+SeamlessM4T is a multimodal AI model for speech and text translations. It can perform text-to-speech, speech-to-text, speech-to-speech, and text-to-text translations for up to 100 languages. Meta developed the model to help people who speak different languages communicate with each other more effectively. SeamlessM4T has been released under a research license. Its code and weights are available on Hugging Face. |
+Programming, Design & Data Science
+|
+[Microsoft is bringing Python to Excel (3 minute read)](https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.theverge.com%2F2023%2F8%2F22%2F23841167%2Fmicrosoft-excel-python-integration-support%3Futm_source=tldrnewsletter/1/0100018a21e5ae64-8472199a-e22c-449e-b8fd-7daf54de00d3-000000/nPILiLMjxHYVtCRI33bvAAcUli2M6dqIe1BClAdMb-Q=315)
+Microsoft is bringing Python to Excel. A public preview of the feature is now available. Excel users can now manipulate and explore data in Excel using Python plots and libraries in combination with Excel's formulas, charts, and PivotTables. No additional software is required to access the functionality. Microsoft plans to add a feature that will expose Python data within the grid of an Excel spreadsheet. |
+[FlakeHub (Website)](https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fflakehub.com%2F%3Futm_source=tldrnewsletter/1/0100018a21e5ae64-8472199a-e22c-449e-b8fd-7daf54de00d3-000000/89y30ki0VxKFZ4xMOZ544AmJSLXVQaTatfHdgugLaq4=315)
+Flakes are libraries for deployment, packaging, secrets management, system compatibility, and more. FlakeHub is a collection of ready-to-use flakes designed to help developers get to production faster. It brings modern development practices to Nix. FlakeHub allows developers to improve their APIs without disturbing user stability. |
+[How Games Typically Get Built (16 minute read)](https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fblog.pragmaticengineer.com%2Fhow-games-typically-get-built%2F%3Futm_source=tldrnewsletter/1/0100018a21e5ae64-8472199a-e22c-449e-b8fd-7daf54de00d3-000000/l6bUFy7iPWnybgVjqIOzNVib0XGxz78ZqB55sWZ7QkU=315)
+This article introduces readers to the world of game development and compares it to the software engineering approaches at tech companies. The game development world is very different from the software development world. Video games are very complex pieces of software and are built in different conditions under different constraints than business applications. The article covers typical roles within game development, how games typically get built, and the game development lifecycle. |
+[The Secret Weapon Hackers Can Use to Dox Nearly Anyone in America for $15 (18 minute read)](https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.404media.co%2Fthe-secret-weapon-hackers-can-use-to-dox-nearly-anyone-in-america-for-15-tlo-usinfosearch-transunion%2F%3Futm_source=tldrnewsletter/1/0100018a21e5ae64-8472199a-e22c-449e-b8fd-7daf54de00d3-000000/03XpkNSuWwX45FUslmHTkho18TFAhxwasxCRBjwrY5s=315)
+Hackers have obtained personal information from credit bureaus and are advertising access to the data in group chats used by violent criminals. The information includes names, dates of birth, phone numbers, email addresses, data contained within driver's licenses, and social security numbers. It only costs around $15-$20 in Bitcoin to access the information. The data includes information on high-profile targets, such as Elon Musk, Joe Rogan, and President Joe Biden. |
+[Whisper API (GitHub Repo)](https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fgithub.com%2Finnovatorved%2Fwhisper.api%3Futm_source=tldrnewsletter/1/0100018a21e5ae64-8472199a-e22c-449e-b8fd-7daf54de00d3-000000/haoi9WiQhxsFYvJt8z9DPTgr0avWnwvMe9NO74L-iic=315)
+This repository contains a self-hostable API for speech-to-text transcription using a fine-tuned Whisper Automatic Speech Recognition model. |
+We help cutting edge companies hire world class technical talent through our job listings. If you're hiring software engineers, AI/ML engineers, product managers, designers or other tech talent, [click here to learn more](https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fshare.hsforms.com%2F1hmOFVmqOTrON_SRvaRqEbQee466%3Futm_source=tldr%26utm_medium=newsletter/2/0100018a21e5ae64-8472199a-e22c-449e-b8fd-7daf54de00d3-000000/zTirPTh5vn_l8i5U2gbdtsO9QnNsCas7EiQpceZYqE8=315).
+|
+If your company is interested in reaching an audience of tech executives, decision-makers and engineers, you may want to [advertise with us](https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fshare.hsforms.com%2F1OxvmrkcFS4qsxKpNXCi76wee466%3Futm_source=tldr%26utm_medium=newsletter/2/0100018a21e5ae64-8472199a-e22c-449e-b8fd-7daf54de00d3-000000/u7d0v86ovJ6ce8-XzFdOmJDDzxOQCUxRgV0Pu5TJdfk=315).
+If you have any comments or feedback, just respond to this email!
+Thanks for reading,
+[Dan Ni](https://tracking.tldrnewsletter.com/CL0/https:%2F%2Ftwitter.com%2Ftldrdan/1/0100018a21e5ae64-8472199a-e22c-449e-b8fd-7daf54de00d3-000000/41GHGKA5xf2Ji9Z8QWcOD0p0xAG5MA7dZh8lXj8h_Xc=315) and [Stephen Flanders](https://tracking.tldrnewsletter.com/CL0/https:%2F%2Ftwitter.com%2FSteveFlanders22/1/0100018a21e5ae64-8472199a-e22c-449e-b8fd-7daf54de00d3-000000/IB1eAAL8Xb2TJ_-8BuTsQW38MeaYXfr0oyNXZi4sGY0=315)
+|
+|
+| |

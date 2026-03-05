@@ -1,0 +1,32 @@
+---
+subject: "Learn Modern Web Development From Back End to Front [Free interactive book]"
+from: "Quincy Larson <quincy@freecodecamp.org>"
+to: ""
+date: 2025-07-04 19:42:48
+labels: ["CATEGORY_PERSONAL", "IMPORTANT", "INBOX", "Quincy"]
+label_ids: ["CATEGORY_PERSONAL", "IMPORTANT", "INBOX", "Label_7697778124671848699"]
+---
+Here are this week's five freeCodeCamp resources that are worth your time:
+
+1. We just published a full-length interactive book by computer science professor and freeCodeCamp contributor Dr. Mark Mahoney. It will teach you the foundations of both back end and front end web development. You'll learn some Node, Express, SQLite, GraphQL, Web Components, React, and more. Mark even built his own open source “code playback” system to walk you through the book's code step-by-step with detailed explanations. Pretty cool. (full interactive book): https://www.freecodecamp.org/news/an-animated-introduction-to-web-development-from-back-to-front/
+
+2. freeCodeCamp also published a comprehensive guide to the Google Cloud Cybersecurity Certificate exam. You'll learn the basics of being a Cloud Security Analyst such as System Safeguarding, Risk Management, and Threat Analysis. (10 hour YouTube course): https://www.freecodecamp.org/news/beginners-guide-to-cloud-cybersecurity/
+
+3. On this week's freeCodeCamp podcast, I interview Back End engineer Tai Groot about Go, TypeScript, and Rust. We dive into the Developer Experience VS Performance tradeoffs of each of these programming languages. One piece of advice Tai shares: Rust is a superb language for rewriting an older codebase... but never use it to write your first version of something new. He also shares tips for running open source projects, and for senior engineers who want to mentor new devs who are entering the field. (2 hour watch or listen in your favorite podcast app): https://www.freecodecamp.org/news/rust-vs-go-vs-typescript-which-back-end-language-is-for-you-with-tai-groot-podcast-176/
+
+4. The freeCodeCamp community uses Flutter to build our Android and iOS apps. It's a great way to maintain several apps with a single codebase. And one of the most important features developers get out of a mobile app is Local Notifications. This comprehensive tutorial will show you how to use the open source Awesome Notifications library to share updates with your users and remind them of time-sensitive events in your app. (40 minute read): https://www.freecodecamp.org/news/how-to-use-local-notifications-in-flutter/
+
+5. Finally, did you know that JavaScript is now one of the most popular languages for writing games? You can build some pretty sophisticated experiences that run right in a browser. This guide will walk you through five powerful JS libraries you can use to simplify your game development workflow and get your game in front of players as quickly as possible. (full-length handbook): https://www.freecodecamp.org/news/javascript-frameworks-for-game-developers/
+
+I'm learning a TON from the freeCodeCamp community each week, and I hope you are, too. Agentic AI CodeGen tools, new JS libraries – I'm even learning Spanish with freeCodeCamp's new Spanish course. El queso está viejo y podrido. Dónde está el sanitario. I'll be impressed if you can guess which Brendan Fraser movie that line comes from. A quick reminder that we're a tax-exempt charity and everything we're building is open source. Join the 11,063 chill people who support our mission: https://www.freecodecamp.org/donate
+
+Quote of the Week: 
+“Running an open source project taught me more about software design and communication than any job I’ve had. You have to think about every decision from the perspective of a stranger reading your code.” — Software Engineer Tai Groot on this week's freeCodeCamp podcast
+
+Until next week, happy coding.
+
+Quincy Larson
+
+Teacher and founder of freeCodeCamp.org
+
+If these aren't worth your time, you can turn them off: https://www.freecodecamp.org/ue/eZV2T3gHC7IGcwcpYPG64

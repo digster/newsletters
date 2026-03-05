@@ -1,0 +1,68 @@
+---
+subject: "Letters to a Young Investor: Kirsten Green"
+from: "The Generalist <thegeneralist@substack.com>"
+to: ""
+date: 2025-02-06 13:28:53
+labels: ["CATEGORY_PERSONAL", "INBOX", "The Generalist", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_8815311452832858585", "UNREAD"]
+---
+|
+"Love your thoughtful original long-form content! – Kiran, a paying subscriber
+Friends,
+In 2002, Kirsten Green decided she wanted to be an investor. It would take her 10 years to bring that aspiration to life, a period marked by experimentation, persistence, and failure. As you’ll read in this correspondence, for a moment, it looked like Kirsten’s venture career had ended before it had truly begun.
+Thankfully, for Kirsten, her future LPs and founders, that was not the end of the story. Since Kirsten launched Forerunner in 2012, she has quickly gained recognition as one of the world’s best venture capitalists, with a particular gift for understanding consumer behavior and seeing emerging trends. That talent has helped establish Forerunner among venture’s elite, driven by investments in Faire, Chime, Oura, Glossier, and Dollar Shave Club. As AI remakes both commerce and culture, Kirsten’s particular investing lens may prove more valuable than ever.
+It is with all of this in mind that we begin the latest incarnation of “Letters to a Young Investor.” For those just joining The Generalist, this series features an email correspondence between me and a legend of the craft, shared directly. It’s an opportunity to hear the stories and strategies of an elite practitioner delivered in a personal, intimate format.
+In today’s emails, you’ll discover:
+How Kirsten’s traditional professional background laid the groundwork for imaginative investing.
+The direct-to-consumer beauty business that confirmed Kirsten was on the right track.
+The “personal equations” Kirsten uses to evaluate companies.
+The story behind a brutal failed investment and what Kirsten learned from it.
+…And, of course, much more.
+To read the full correspondence, become a member of our premium newsletter, Generalist+, today. As well as accessing Kirsten’s wisdom, you’ll unlock exclusive letters with investing legends like Reid Hoffman, Vinod Khosla, and Ho Nam. You’ll also get access to our private database of high-potential startups and our collection of tactical guides. All of our work is designed to make you a better thinker, more ambitious builder, and sharper investor.
+PS — We’re trying something new today — an audio read-along! At the top of this piece, you’ll find my reading of the piece (not AI-generated), replete with asides. If you like this addition please do let me know so I prioritize it.
+Behind every little financial move, there’s more to the story.
+The wire that builds confidence with a new contractor. The invoice that signals you’re reaching your sales targets. The deposit from the investor that will take you to the next level.
+Mercury understands that every money move you make is about more than banking* — it’s about everything you’ve been building towards. That’s why Mercury offers a powerful bank account that does a whole lot more than just hold money.
+Create and send polished invoices and track what you’re owed. Send and receive free domestic wires without headaches. Watch as details from your bills populate themselves so you can pay them painlessly. And get the full picture of your finances, all in one place.
+[Apply online in minutes and see why over 200K ambitious companies trust Mercury with their finances.](https://substack.com/redirect/aaa1543f-a7b3-4817-bc4e-622a09b9a59f?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+*Mercury is a financial technology company, not a bank. Banking services provided by Choice Financial Group, Column N.A., and Evolve Bank & Trust; Members FDIC.
+Subject: Beginnings
+From: Mario Gabriele
+To: Kirsten Green
+Date: Friday, January 17 2025 at 1:26 PM GMT
+Kirsten,
+I hope 2025 is off to a good start for you and Forerunner. I’m writing this to you on a reliably grey British day after taking my dog for a long walk, and I am so excited to begin this correspondence.
+Anyone who read your [Modern Meditations](https://substack.com/redirect/b2103f66-3a03-4810-b6fd-a91413829e12?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) will know why I’ve been looking forward to it. In an industry that can often seem to operate along set routes (puddle jumps from Fund A to B to Z), you’ve succeeded by carving one of your own. That was clear from our first conversation, as was your openness about the unorthodox journey that has cemented you as one of your generation's most skilled and productive pickers. I'm grateful for the opportunity to delve deeper during this series.
+It is the beginning of that journey that I’d love to discuss in our first letter. I’ve seen parts of it told in profiles and podcasts, but not entirely, and not with a complete sense of your mindset as you went through it.
+If you were to look at your CV circa 2002, it would not be obvious you would become an elite venture investor. (I hope you will not mind me saying so.) For those unfamiliar with your path up to that point, after graduating from UCLA with a degree in economics, you spent three years as an accountant at Deloitte, a bit less than a year at the investment bank Donaldson, Lufkin & Jenrette Donaldson, and a further five years at Bank of America in equity research, focused on retail. In this final step, you can see the germ of what became Forerunner, but you had no experience at a storied Sand Hill Road firm or a successful startup.
+But CVs tend to miss the most important things. Under the surface, what indications were there that you were an investor-in-waiting? Someone with the risk tolerance and imagination necessary to focus on technology and its intersection with consumers' wants? Risk and imagination are not terms typically associated with accountants. Clearly, though, they were there.
+Then, around 2002, you decided to embark on a new career in investing. But it would be another 10 years before Forerunner raised its first fund — a period that you spent angel investing, building a network, learning from other firms, and running SPVs.
+I can only imagine that this level of persistence cannot have been easy. You must have been tempted to return to traditional employment more than once. If you're at all like me, you also would have had a crisis of confidence or two.
+It makes me wonder: What prompted your desire to be a venture investor, and what made you so certain it was worth following? Did you know what you were building toward? What glimmers along the way gave you the sense that this was not time wasted but a kind of self-built apprenticeship with the potential to bear fruit?
+You’ve spoken previously about two episodes during this period that seem to have been especially formative. One was meeting Hayley Barna, then-founder of Birchbox. You've said that Hayley and her business showed that talented entrepreneurs saw the same opportunity to reinvent retail you did and that you were well-suited to partner with them. (Coincidentally, I interviewed to be Hayley’s Chief of Staff at First Round a few years before starting The Generalist. She very sensibly did not give me the job. For different reasons, we might owe the fact that we're having this conversation to her!)
+What about Birchbox (and, indeed, some of your other pre-Forerunner deals) gave you the feeling you were on the right track? To the extent you remember, what was your investing framework? What were you looking for (and how much has it changed)?
+The other episode ended unhappily, and I’m sorry to remind you of it. In 2006, a blue-chip retail team led by former Marmot founder Eric Reynolds set out to build a new outdoor apparel brand dubbed Nau. From reading some old Oregon Times and Outsider pieces, it seems like Nau was, in many ways, Patagonia for the digital age — making high-quality clothes out of sustainable materials and incorporating philanthropy in its model. It expanded aggressively and raised $34 million, including $10 million from one of your SPVs.
+Then, the financial crisis hit. A company that had been on the cover of TIME and hailed as one of the most notable innovators of the year suddenly faced a cash crunch just as it was heading out to raise capital. It sold for scraps.
+For an established venture investor, this would not have been a big problem; failure is built into the model. But this must have been an extraordinarily difficult moment for an upstart still building a foothold in the industry. Again, a less driven, gritty person would, I suspect, have folded at this point.
+What were the lessons you took from Nau at the time, and, with the benefit of 17 years of hindsight, what do you make of it today?
+Rather than fold, you persevered. A few years later, you founded Forerunner, raising a ~$42 million fund, and bringing in Dollar Shave Club as a warehoused deal. (I wonder if there has been a better warehoused deal on a Fund 1 in venture history?)
+At that time, what did your track record look like? Nau hadn’t worked out, but did you have some wins you could point to in pitching LPs? In one of The Generalist’s Investor Guides, you shared that you purposefully set out to win over endowments — a famously hard task for a first-time manager. How were you able to pull that off? What do you think they saw in you and your strategy?
+Every entrepreneur needs an early believer, whether they’re building a software platform or a fund. Ideally, more than one. Having someone else validate the potential of a dream brings it out of the realm of delusion and into the light. In the decade between leaving Bank of America and founding Forerunner, who were those early believers for you? How did they guide your journey? Did you find mentors in the industry who helped show you the ropes and accelerate your learning? I’d love to understand what this period felt like from the inside and how it set the stage for Forerunner’s remarkable success.
+Lastly, and on an entirely different note, I’d be interested to hear if you have any personal or professional experiments you’re running this year. A couple of weeks ago, [I shared a few ](https://substack.com/redirect/b5684c93-6e31-4066-a419-2622d1ddefb3?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)that I’m trying out, including learning to play a bit of chess, keeping my phone on black-and-white mode, and sticking to an intermittent fasting schedule. (You will have to wish me luck on the last of those as I have the pleasure of going to Paris this weekend for a family event and have a serious devotion to pastries.)
+I’d be eager to hear whatever is top of mind as 2025 picks up speed.
+With gratitude,
+Mario
+Subject: Beginnings
+From: Kirsten Green
+To: Mario Gabriele
+Date: Monday, February 3 2025 at 7:10 PM GMT
+Hi Mario,
+Thank you for your thoughtful letter. It’s a joy to embark on this exchange with you— I can already tell it will be both a reflection and a rediscovery of the path that led me here. Your framing is so sharp, your curiosity so well-placed, that it pulls me right back into those moments: the doubts, the glimmers of conviction, the lessons learned sometimes gracefully, but more often the hard way.
+You’re right to say that, on paper, my career in investing wasn’t obvious. There was no linear path, no early immersion in venture, no "traditional" apprenticeship at a storied Sand Hill firm. What I did have, though, were signals — some that I recognized in the moment, others that took years to fully appreciate. Of course, they are only clear now in hindsight.
+Early in my career, I was drawn to finance because it was structured and measurable. Having grown up in environments that felt unpredictable and that required me to self-direct at a young age, I was seeking clarity and stability, and finance gave me that. But beneath the spreadsheets and financial models, I was building something far less tangible: a pattern recognition muscle. I was learning how to connect seemingly unrelated dots, spotting shifts before they fully formed. The problem wasn’t seeing the shifts but trusting my ability to act on them. I often lacked the confidence to act on these insights in the moment, but watching others arrive at similar conclusions later helped validate this early pattern recognition as a meaningful skill for investing.
+That self-trust took time. It ultimately amounted to something I now refer to as "personal equations" — frameworks for understanding both quantitative and qualitative patterns and knowing how to weigh both, especially when they are at odds.
+For example, when it comes to consumer businesses, I always think about whether the business model uniquely enhances the consumer experience. The right business model should be the best one to deliver the best experience. Think subscription models: does the subscription make the product experience better – then great! If the subscription model is based on driving a better financial outcome/visibility in planning for the business, but in reality, the customer would prefer to purchase one-off – then no! Does the viral mechanism advantage the existing consumer, the new customer, and the business in a sustainable way? Coming back to this often helps tip the scale in my personal equations...
+Become a paying subscriber of The Generalist to get access to this post and other subscriber-only content.
+| Premium subscriber-only posts | |
+| Learn from legendary investors and founders | |
+| Post comments and join the conversation |

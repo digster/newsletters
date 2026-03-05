@@ -1,0 +1,25 @@
+View this post on the web at https://thepalindrome.org/p/computational-graphs-in-python
+
+Hi there!
+Welcome to the third lesson of the Neural Networks from Scratch course, where we’ll build a fully functional tensor library (with automatic differentiation and all) in NumPy, while mastering the inner workings of neural networks in the process.
+Let’s recap. The previous two sessions were about the mathematical prerequisites:
+vectors, matrices, [ https://substack.com/redirect/62dbef59-9285-4dd4-b6c2-188712671a8d?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]
+and graphs [ https://substack.com/redirect/30565889-f04b-45a4-bf76-e0c9744e4e33?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ].
+Now it’s time to smash the throttle and implement actual computational graphs. We’ve seen them before: for instance, consider the famous logistic regression model defined by the expression
+where σ(x) = (1 + e⁻ˣ)⁻¹ is the Sigmoid function. Computationally speaking, the expression sigmoid(a * x + b) is calculated in several steps:
+c = a * x,
+d = a * x + b (which is d = c + b),
+and finally e = sigmoid(a * x + b) (which is e = sigmoid(d)).
+This can be represented via a graph, where
+variables (such as a, x, b, c = a * x, and so on) are the nodes,
+and computations between the variables (such as *, +, and the sigmoid function) are the edges.
+Something like this:
+These are called computational graphs. Here’s another example: the dot product in two dimensions, defined by
+Let’s sketch this as well:
+Why are we talking about computational graphs in a neural-networks-from-scratch course? Surely you’ve already seen an illustration like the following.
+Neural networks are just complex mathematical expressions, which, in turn, can be represented by computational graphs.
+The nodes-and-edges structure has been present from the beginning: even the earliest pictorial representations of neural networks bore a striking resemblance to graphs. Mind you, we called them perceptrons back in the day. (We, as we, humans. I wasn’t alive back then, and probably neither were you.) Check out Fig. 1. from the original perceptron paper by Frank Rosenblatt [ https://substack.com/redirect/ca04f6c2-3397-48dd-a39a-dd407da729c8?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ].
+The computational graph representation is not just a cute visualization tool; it allows for an efficient implementation of the gradient calculation via gradient descent. Spoiler alert: this is called backpropagation, which is one of the tools that enabled the training of enormous neural networks such as the later GPT models. We’ll talk about backpropagation in detail later, but for now, let’s get back on track.
+We already know what a computational graph is. Now let’s implement one!...
+
+Unsubscribe https://substack.com/redirect/2/eyJlIjoiaHR0cHM6Ly90aGVwYWxpbmRyb21lLm9yZy9hY3Rpb24vZGlzYWJsZV9lbWFpbD90b2tlbj1leUoxYzJWeVgybGtJam94TkRVMk16TXhPU3dpY0c5emRGOXBaQ0k2TVRjMk9EY3dORGN3TENKcFlYUWlPakUzTmpFeU9Ua3lNVFlzSW1WNGNDSTZNVGM1TWpnek5USXhOaXdpYVhOeklqb2ljSFZpTFRFeE56WTFNREVpTENKemRXSWlPaUprYVhOaFlteGxYMlZ0WVdsc0luMC45em5KRDU0dUsxQXNrQ1o0eTFEQm9yZldPYlR6VTlqcjdxS3NEOUJhQi1ZIiwicCI6MTc2ODcwNDcwLCJzIjoxMTc2NTAxLCJmIjp0cnVlLCJ1IjoxNDU2MzMxOSwiaWF0IjoxNzYxMjk5MjE2LCJleHAiOjIwNzY4NzUyMTYsImlzcyI6InB1Yi0wIiwic3ViIjoibGluay1yZWRpcmVjdCJ9.5PAuzjOLFAXsShyhLqxn8xr81-axxSm76DXfq-io8gM?

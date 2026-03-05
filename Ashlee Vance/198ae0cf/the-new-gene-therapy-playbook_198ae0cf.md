@@ -1,0 +1,10 @@
+---
+subject: "The New Gene Therapy Playbook"
+from: "Eryney Marrogi from Core Memory  <ashleevance@substack.com>"
+to: ""
+date: 2025-08-15 14:02:05
+labels: ["Ashlee Vance", "CATEGORY_PERSONAL", "INBOX", "UNREAD"]
+label_ids: ["Label_4216359091400734623", "CATEGORY_PERSONAL", "INBOX", "UNREAD"]
+---
+Two days after his birth, KJ Muldoon was barely eating. His body went limp. His temperature was oscillating wildly. Blood tests revealed ammonia levels thirty times above normal. If this went on much longer, KJ’s doctors knew, he could end up in a coma — or die. KJ had a rare and debilitating metabolic disorder known as carbamoyl-phosphate synthase 1 (CPS1) deficiency, meaning he had a mutation in a gene that produced an enzyme critical for removing ammonia from the body. One of the doctors enlisted to come up with a solution, The case, which was described in the It was a moment years in the making. Over the previous two years, Musunuru and his colleague During initial test runs, the whole shebang from design to rollout took a year and a half to complete — too slow to help desperate patients on the fly. But with each “time trial,” they shaved off critical months. By the summer of 2024, they had compressed the timeline to several months, just in time for KJ’s arrival. After getting approval from the family, the team synthesized a genetic cassette containing KJ’s specific mutation and inserted it into human liver cells grown in a dish to create a model system with the same exact genotype driving KJ’s disease. While those baked, the team got to work trying to pick the right gene editor, which is where David Liu comes in. ... Keep reading with a 7-day free trialSubscribe to Core Memory to keep reading this post and get 7 days of free access to the full post archives. A subscription gets you:
+|

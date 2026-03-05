@@ -1,0 +1,64 @@
+---
+subject: "FOUNDERS: stop reimbursing your VC’s legal fees"
+from: "Auren Hoffman of Five Links <auren@substack.com>"
+to: ""
+date: 2025-05-22 16:03:13
+labels: ["Auren Hoffman", "CATEGORY_PERSONAL", "INBOX", "UNREAD"]
+label_ids: ["Label_4260038268466989707", "CATEGORY_PERSONAL", "INBOX", "UNREAD"]
+---
+|
+I remember the terrible feeling after wiring $38,432 to a law firm that did not represent me ... it represented the venture capitalists negotiating against me. Everything about it felt wrong.
+Ramen‑eating founders should not be footing legal bills for billionaire venture capitalists. Yet that’s still the industry default.
+The most outrageous term‑sheet item is also the most common. Almost every VC asks their founders to reimburse their legal fees. I’ve raised more than 15 priced rounds in my career and paid my VC’s legal fees every time.
+Any VC that does this is the opposite of founder‑friendly. VCs should pay their own legal fees.
+And these legal fees aren’t cheap – it is not uncommon for a venture capitalist to ask for a $50k to $100k reimbursement on a $5 million round. That’s like hiring a good software engineer for six months—gone to lawyers in a single wire. It’s a charge to the companies of 1‑2% of the round right off the bat.
+These fees are very dilutive to the company and they actively incentivize lawyers on both sides to rack up billable hours. Most of these deals have a legal fee cap but guess what happens when you set a cap? The lawyers work hard to meet it.
+VCs: “We back scrappy underdogs.”
+Also VCs: “Pay our legal fees which costs more than your salary.”
+Parkinson’s Law says that work expands so as to fill the time available for its completion. You will never, ever get a bill from the opposing counsel’s lawyers that is less than 90% of the legal fee cap. The VC’s lawyers have no one watching their costs. And every $2,000 they bill is usually at least a day delay in closing.
+Founders should not be funding VC legal fees.
+It's like inviting a poor friend over for dinner and charging them for the ingredients.
+Double‑Taxing Shareholders and LPs
+This practice is not just unfriendly to founders … it is also unfriendly to LPs.
+“Our endowment shelled out over $3 million last year for ‘deal expenses’ we never approved,” confessed one large university LP.
+By having portfolio companies pay for a VC’s legal expense, the VC is essentially backdooring another expense that LPs will never see or audit.
+This is because VCs are billing the legal fees to the fund without explicitly telling their LPs about these billing practices. That is just wrong.
+Most people don’t realize that venture firms split their expenses between the management company, which collects the ~2% annual fee, and direct charges to LPs in their funds. Costs like deal diligence, fund administration, banking, annual meetings, and even travel are sometimes passed through to LPs. Meanwhile, the 2% management fee is carefully protected to fund large GP salaries.
+So why not just pass the legal fees to the LP? Well, VCs are required to report fees passed through to LPs, and these fees face scrutiny (because they are additional fees that come directly out of the LP’s pockets) and must go through a deep audit.
+So the VCs elect to backdoor the fees.
+It is kind of unseemly.
+And it might not even be legal.
+Most VCs already over‑bill their fund for things they shouldn’t and overly hurt their LPs. But at least most of these expenses are explicit and categorized and the LPs can see them. Hidden fees to the fund are against the spirit of being a limited partner.
+Expensing a VC’s legal fees takes advantage of BOTH the company’s shareholders and the VC’s shareholders. It is doubly bad.
+It is both founder unfriendly and LP unfriendly.
+Why This Bad Practice Persists
+The only logical answer is because they can. Because no one fights back.
+While 98%+ of VCs do this, not EVERY VC does this. When I did my first VC deals, I reflexively asked founders to reimburse my legal fees … but quickly ended the practice because it is extremely unfriendly to both founders and LPs. [Plural](https://substack.com/redirect/a05219fa-2765-4b32-8ac9-87430398b811?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) (a highly regarded European VC), [Flex Capital](https://open.substack.com/users/73345584-flex-capital?utm_source=mentions) (where I work), [Relentless](https://substack.com/redirect/bc398a45-0686-4c96-ba8a-102444717f6a?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o), and [Y Combinator](https://substack.com/redirect/12259184-4393-4068-aa42-6e7136ca4ae6?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) all have an explicit policy of not asking their portfolio companies to cover their legal fees. If you know of other VCs that are truly founder‑friendly, please comment or email me and I will add them here. We can celebrate them.
+Founders—everything is negotiable. Start with these asks:
+“Line‑item ‘Legal Fees: $0’—the VC pays their own.”
+Go further: add a “delay‑penalty clause": for every extra week caused by the VC’s counsel, the VC reimburses the company $5k.
+Who Else Can Fix It?
+YC already popularized the SAFE which usually does not need legal fees because of its simplicity. YC should go one step further and specifically tell VCs that it will discourage its founders from working with investors that push founder‑unfriendly terms in priced rounds.
+Big LPs also can put pressure on VCs to change the practice. LPs should require VCs to report any backdoor fees to the funds.
+Let’s change this bad practice.
+Founders should not be funding VC legal fees.
+It's like inviting a poor friend over for dinner and charging them for the ingredients.
+Every VC’s slogan:
+📝 “We’re founder friendly.”
+Yet every VC term sheet:
+📝 “Please reimburse our $100K legal bill.”
+Cool cool cool.
+any VC that tries to force companies to pay their legal fees, by definition, founder unfriendly. next time you get a term sheet like that, ask the VC if they are having money problems.
+forcing little companies to pay legal fees is an insult.
+VCs: “We back scrappy underdogs.”
+Also VCs: “Pay our legal fees which costs more than your salary.”
+HT: Lily Petherick, Rajal Patel, Sush Bhardwaj of Flex Capital.
+note: [Flex Capital](https://substack.com/redirect/519c4ea6-9628-41fe-8e86-1d35acd37025?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) invests in 100 start-ups per year (2 per week). typical check is $400k. Please reach out if you know amazing founders that want to change the world.
+X of the week:
+if you like this article, please do three things:
+share it with someone you admire
+follow me (
+[@auren](https://substack.com/redirect/ee19dc04-801e-4fa0-b971-dbc082bb6f8f?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) on Xsubscribe to the “
+[World of DaaS](https://substack.com/redirect/fa554bfe-1199-43e0-a8c2-cb5f066941ea?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)” podcast
+(if you hate this, please share with all your enemies)
+Hope you enjoy [Summation by Auren Hoffman](https://substack.com/redirect/2/eyJlIjoiaHR0cHM6Ly9hdXJlbi5zdWJzdGFjay5jb20_dXRtX2NhbXBhaWduPWVtYWlsLWhvbWUmcj04bzU0biIsInAiOjE2MzczNDAyMiwicyI6NjU1MjAsImYiOnRydWUsInUiOjE0NTYzMzE5LCJpYXQiOjE3NDc5Mjk5NDgsImV4cCI6MTc1MDUyMTk0OCwiaXNzIjoicHViLTAiLCJzdWIiOiJsaW5rLXJlZGlyZWN0In0.308ulNBYTGTeeNRCMgrfpbGOs7HX8cBQ7nCh4bBzyDs?). Please also follow [@auren](https://substack.com/redirect/ee19dc04-801e-4fa0-b971-dbc082bb6f8f?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) on X.

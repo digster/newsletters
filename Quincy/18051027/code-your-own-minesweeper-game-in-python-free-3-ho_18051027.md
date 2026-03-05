@@ -1,0 +1,32 @@
+---
+subject: "Code your own Minesweeper game in Python [free 3-hour course on Object-Oriented Programming]"
+from: "Quincy Larson <quincy@freecodecamp.org>"
+to: ""
+date: 2022-04-22 11:22:38
+labels: ["CATEGORY_PERSONAL", "INBOX", "Quincy"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_7697778124671848699"]
+---
+Here are this week's five links that are worth your time:
+
+1. Learn Python object-oriented programming by coding your own playable version of the classic Windows Minesweeper game. You'll code the graphics, gameplay, and even the algorithm that determines where the mines go. (3 hour YouTube course): https://www.freecodecamp.org/news/object-oriented-programming-with-python-code-a-minesweeper-game/
+
+2. You may have heard the term "Rubber Duck Debugging" before. This is a simple way you can debug problems in your code, and solve them yourself. This brief article will give you the history behind Rubber Duck Debugging, and some tips for using it when you code. (6 minute read): https://www.freecodecamp.org/news/rubber-duck-debugging/
+
+3. Redux is a popular open source tool for managing JavaScript state. And the team behind it created the Redux Toolkit to make it easier to follow Redux best practices. In this course, long-time freeCodeCamp contributor John Smilga will teach you about Setup Store, createAsyncThunk, and other key concepts. (2 hour YouTube course): https://www.freecodecamp.org/news/learn-redux-toolkit-the-recommended-way-to-use-redux/
+
+4. If you've used Linux before, you may have discovered how security-focused it is by default. This guide will walk you through Linux file permissions, file ownership, superusers, and explain what on earth drwxrwx--- means. (6 minute read): https://www.freecodecamp.org/news/linux-permissions-how-to-find-permissions-of-a-file/
+
+5. If you want to code your own blog instead of using common tools like WordPress or Ghost, this tutorial will show you how. You'll use React along with other open source JavaScript tools like Next.js and MDX. (30 minute read) https://www.freecodecamp.org/news/how-to-build-your-own-blog-with-next-js-and-mdx/
+
+Thank you to the 8,126 kind human beings who donate to our nonprofit each month to support our mission. If you are reading this and haven't started donating yet, I encourage you to support us directly. Together we can ensure that the future of education is open for everyone: https://www.freecodecamp.org/donate
+
+Quote of the Week: “A very simple but particularly useful technique for finding the cause of a problem is simply to explain it to someone else. The other person should look over your shoulder at the screen, and nod his or her head constantly (like a rubber duck bobbing up and down in a bathtub).” — Andrew Hunt and David Thomas, authors of the 1999 book The Pragmatic Programmer
+
+Happy coding.
+
+- Quincy Larson
+
+Teacher at https://www.freecodecamp.org
+I share useful things on Twitter at https://www.twitter.com/ossia
+
+If these emails aren't worth your time, you can turn them off: https://www.freecodecamp.org/ue/eZV2T3gHC7IGcwcpYPG64

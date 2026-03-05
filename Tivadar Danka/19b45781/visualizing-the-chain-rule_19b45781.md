@@ -1,0 +1,12 @@
+---
+subject: "Visualizing the Chain Rule"
+from: "The Palindrome <thepalindrome@substack.com>"
+to: ""
+date: 2025-12-22 09:50:38
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tivadar Danka", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_3571324877567057163", "UNREAD"]
+---
+For a limited time, you can get 30% off from the yearly subscription to The Palindrome. This is not like your typical “holiday sale.” Every new member helps us hit specific milestones that I’ll reinvest straight back into The Palindrome. Currently, we are at 58% of our 1000 subscriber goal. Here’s the content plan for paid members: 600 paid subscribers → “Mathematics of Machine Learning” exclusive deep-dive mini course 700 paid subscribers → Another exclusive mini-course (Q4 2026) 800 paid subscribers → Dedicated Manim animator for The Palindrome team 1,000 paid subscribers → Full-time writer for The Palindrome team
+The chain rule is one of the most important formulas of machine learning, allowing us to compute the gradient of composite functions. (Which is needed to do gradient descent and fit the model to the data.) In a single variable, the chain rule says that holds for any two univariate differentiable functions f and g. It’s simple, compact, and user-friendly. However, the math quickly becomes complicated when we introduce multiple variables. And we have to, because there are billions of parameters to tune. In the general case, we are interested in the composition of the vector-vector function g: ℝⁿ → ℝᵐ with the vector-scalar function f: ℝᵐ → ℝ. For instance, if we have a machine learning model with n parameters x = (x₁, ..., xₙ), a training dataset of m samples d₁, ..., dₘ, predictions g(x) = (g₁(x, d₁), ..., gₘ(w, dₘ)), and a loss function f,
+then fitting the model is equivalent to finding the maximum of the composite function h(x) = f(g(x)). (The dependence on the data in g(x) is omitted for simplicity.) To compute the gradient, that is, (where ∂ᵢh denotes the partial derivative of the function h with respect to its i-th variable), the chain rule says that This post is about what’s behind this formula... Keep reading with a 7-day free trialSubscribe to The Palindrome to keep reading this post and get 7 days of free access to the full post archives. A subscription gets you:
+|

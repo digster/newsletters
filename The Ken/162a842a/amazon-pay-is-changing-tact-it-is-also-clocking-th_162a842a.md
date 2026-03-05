@@ -1,0 +1,15 @@
+---
+subject: "Amazon Pay is changing tact. It is also clocking the numbers"
+from: "The Ken <info@the-ken.com>"
+to: ""
+date: 2018-04-09 02:36:00
+labels: ["CATEGORY_PERSONAL", "INBOX", "The Ken", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_8244464457792971031", "UNREAD"]
+---
+Good Morning Ishan,
+Ah, beautiful Monday morning. And yes, the full might of summer is upon us. At least in my part of the world. Anyway, the days are longer here, and there’s a lot to do, so let’s get right to it.
+I think I have said this before: the business of payments is changing like nobody’s business. Personally speaking, I didn’t get on to the wallet train. So Uber and Paytm, that’s as far as I went. But sometime last year, I kept hearing and encountering Amazon Pay a lot. Pay lets buyers on Amazon store their card information and also doubles up as a wallet. I didn’t pay much heed to it. Except when my colleague Shashidhar told me that pay is changing. In the last few months, Amazon has opened up pay to other merchants, allowing them to pay for food delivery services, travel, and movie tickets. So it is no longer restricted to buyers on Amazon.
+Hmm...that’s interesting.
+It is very unlike what Flipkart did with PhonePe. But very similar to what Paytm does. Or very similar to what Snapdeal wanted to do with FreeCharge but never got around to it. With pay, Amazon is looking at staying with customers even when they are not shopping on Amazon. And the company is putting a lot of money behind it. Just last month, it invested Rs 195 crore ($29.31 million). Plus Rs 457 crore ($68.69 million) last year.
+That’s Shashi’s piece for today. A clear explanation of what Amazon is trying to do in India. To put this story together, Shashi spoke to Mahendra Nerukar, general manager at Amazon Pay, and I quite like how Nerukar believes that external payments, or following where your customer goes, is the next, bold frontier. You can read the piece here: [https://the-ken.com/amazon-](http://link.the-ken.com/wf/click?upn=HQSq6eeRV1xAVaGuFOahuJIF0Kd-2FQbt-2Fnqfh67JWJTt5IcVZaDiiQpB7CO16ZNbqPLz-2FhXBNKi4H4tu8j-2Fs7wYNe1ZbAORDLhTKoz2w4-2BDZinFPvIguTFDAz06C7gOLYRl4hd1idJ5z8zZuggsubAnlPDkU2hAqg0UdiItdC-2BXSb-2Frlg4Hu5gLmE5OO8NHO89R12delhlFLAV5aM2HKa7iaVnuDct6Z-2BbPYv0uRQQRdsGzxRLuvVZzL70eOCu-2Faw_S4jLOsNx-2Fv6Jev2nvow8b7P9pBCWGd8KNZfb200gkZLQNlXQHio0noZzXtsWoloZmPWeyZsh7a4QCV9ufwCUKi00jlBT0uEdvwYDMuVuqcPcSL4lP4-2FkqzBmfEEWheXPnS5nRd5YUz4DDmsb6QGd5pXUodun748iRfywiBqtPYVtjsA9bkmkMID-2BmAMcKZXZ3y2hrfiMT7wKJoqDhLg812zc1FT4oBBYbUDd7HcK7kZWTqeOucy5tIpK7EY9ns6duKAsGoCOXyUDmrSuJwtavxZThE26m8uJYOpyZYgSgkXgwtXheBTE-2BRKo-2F8IqpDkZIpQVF1w8-2Bk1rrRA-2BHV1uYuH02tGj-2F08XXlkPiUoOnL2wpiN0tajOqvHBzzd3lw-2BvPDD81VLZjxcxjC4VEci0Hx3YRO9IfzNAn-2FqXV-2FbB12Q-3D) pay-india-strategy/
+This email was sent by: The Ken

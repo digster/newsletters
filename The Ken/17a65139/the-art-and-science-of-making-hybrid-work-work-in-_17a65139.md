@@ -1,0 +1,15 @@
+---
+subject: "The art and science of making hybrid work work in India"
+from: "The Ken <info@the-ken.com>"
+to: ""
+date: 2021-07-02 02:37:00
+labels: ["CATEGORY_PERSONAL", "IMPORTANT", "INBOX", "The Ken"]
+label_ids: ["CATEGORY_PERSONAL", "IMPORTANT", "INBOX", "Label_8244464457792971031"]
+---
+We started this week by [discussing productivity](https://the-ken.com/story/longer-wfh-hours-more-work-but-how-productive-are-you-anymore/). Specifically, how the pandemic has caused employees' productivity to drop even as they work longer hours.
+A large portion of the blame was laid at the feet of the work-from-home arrangements that businesses rapidly pivoted to in order to keep work ticking along. These were imperfect arrangements but were initially welcomed as people were terrified of the prospect of stepping out into an increasingly dangerous and unpredictable world.
+That initial comfort was soon replaced with concern. Organisations feared their workers would grow disconnected—both from each other as well as from the organisation's goals and culture. Workers, meanwhile, had their own issues with the arrangement. Of 2,000-plus people surveyed by The Ken, 91% of those who changed jobs over the last 18 months felt “disconnected” from their new work environment. Over a third couldn't quite figure out their company's culture.
+Despite these concerns, though, workers are loath to give up the freedom and flexibility the pandemic has accorded them. Offices, on the other hand, wanted to return to the old normal but were also wary of new waves of Covid.
+The solution, many believe, lay in a hybrid arrangement—part on-site, part remote. A poll of its workforce by adtech firm InMobi, India's first unicorn, saw 75% of its 2,000 employees request such an arrangement. The remaining 25% wanted to work remotely. InMobi, by virtue of its 17 offices worldwide, is already well-equipped to adapt to a more dispersed work environment. Indeed, it's experimenting with new systems that would see employees showing up to the office for just a few days each week.
+Just allowing hybrid work, though, isn't the real challenge. The true test for these businesses is enabling hybrid working. Putting in place efficient, flexible systems to cater to the needs of different employees while also fostering collaboration. This involves changing HR practices, rethinking office spaces, and adopting or building new tech.
+In today's piece—the second in our two-part series on the changing nature of work—Olina and Arundhati look at how workplaces are evolving to accommodate the needs of their employees, which have been irreversibly changed by the pandemic. It’s our free story for this week. You can read about it here: [https://the-ken.com/story/making-hybrid-work-work-india/](https://the-ken.com/story/making-hybrid-work-work-india/?utm_source=daily_story&utm_medium=email&utm_campaign=daily_newsletter) (12-minute read)

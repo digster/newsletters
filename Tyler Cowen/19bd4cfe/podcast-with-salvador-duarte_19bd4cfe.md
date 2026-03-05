@@ -1,0 +1,11 @@
+---
+subject: "Podcast with Salvador Duarte"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2026-01-19 05:52:33
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+Salvador is 17, and is an EV winner from Portugal. Here is [the transcript](http://marginalrevolution.com?action=user_content_redirect&uuid=781d15e9515f9433809596a149e7ed081e8ce09d5ec603c2a39f6423b70ad487&blog_id=42693868&post_id=92264&user_id=262258391&subs_id=225460721&signature=1d1ceb278363d0963130a17b3cf2aaff&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly93d3cucHJvZ3Jlc2hpb24uYmxvZy9wL3R5bGVyLWNvd2VuLXRhbGVudC1lZmZlY3RpdmUtYWx0cnVpc20/cj01OGZyaXQmdXRtX2NhbXBhaWduPXBvc3QmdXRtX21lZGl1bT13ZWI&email_id=547426ba3f3d36a7b20ea92e069d7800). Here is the list of discussed topics:
+[0:00]- We’re discovering talent quicker than ever[5:14]- Being in San Francisco is more important than ever[8:01]- There is such a thing like a winning organization[11:43]- Talent and conformity on startup and big businesses[19:17]- Giving money to poor people vs talented people[22:18]- EA is fragmenting[25:44]- Longtermism and existential risks[33:24]- Religious conformity is weaker than secular conformity[36:38]- GMU Econ professors religious beliefs[39:34]- The west would be better off with more religion[43:05]- What makes you a philosopher[45:25]- CEOs are becoming more generalists[49:06]- Traveling and eating[53:25]- Technology drives the growth of government?[56:08]- Blogging and writing[58:18]- Takes on[@Aella_Girl,][@slatestarcodex,][@Noahpinion,][@mattyglesias, ,][@tszzl],[@razibkhan],[@RichardHanania],[@SamoBurja],[@TheZvi]and more[1:02:51]- The future of Portugal[1:06:27]- New aesthetics program with[@patrickc.]
+Self-recommending, here is [Salvador's podcast and Substack more generally](http://marginalrevolution.com?action=user_content_redirect&uuid=b8fc98079cf69a53190b710c4e1df552c86b94e3a6bcefd2a137782d2c0aabb1&blog_id=42693868&post_id=92264&user_id=262258391&subs_id=225460721&signature=178629224f3f233ec1791838afda7902&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly93d3cucHJvZ3Jlc2hpb24uYmxvZy9wb2RjYXN0&email_id=547426ba3f3d36a7b20ea92e069d7800).

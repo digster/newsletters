@@ -1,0 +1,804 @@
+<html style="scrollbar-width: thin;scrollbar-color: rgb(219,219,219)rgb(255,255,255);"><head><meta charset="utf-8"><title>Factory Logic</title><style>
+@media (max-width: 1024px) {
+  .typography .pullquote-align-left,
+  .typography.editor .pullquote-align-left,
+  .typography .pullquote-align-right,
+  .typography.editor .pullquote-align-right,
+  .typography .pullquote-align-wide,
+  .typography.editor .pullquote-align-wide,
+  .typography .pullquote-align-center,
+  .typography.editor .pullquote-align-center {
+    float: none;
+    margin: 0 auto;
+    width: 100%;
+    max-width: 100%;
+  }
+}
+@media all and (-ms-high-contrast: none), (-ms-high-contrast: active) {
+  .typography .markup table.image-wrapper img,
+  .typography.editor .markup table.image-wrapper img,
+  .typography .markup table.kindle-wrapper img,
+  .typography.editor .markup table.kindle-wrapper img {
+    max-width: 550px;
+  }
+}
+@media (min-width: 1024px) {
+  .typography:not(:has(#toc)) .captioned-image-container figure:has(> a.image2-offset-left),
+  .typography.editor:not(:has(#toc)) .captioned-image-container figure:has(> a.image2-offset-left) {
+    margin-left: var(--image-offset-margin);
+  }
+  .typography:not(:has(#toc)) .captioned-image-container figure:has(> a.image2-offset-right),
+  .typography.editor:not(:has(#toc)) .captioned-image-container figure:has(> a.image2-offset-right) {
+    margin-right: var(--image-offset-margin);
+  }
+}
+@media (min-width: 1300px) {
+  .typography .captioned-image-container figure:has(> a.image2-offset-left),
+  .typography.editor .captioned-image-container figure:has(> a.image2-offset-left) {
+    margin-left: var(--image-offset-margin);
+  }
+  .typography .captioned-image-container figure:has(> a.image2-offset-right),
+  .typography.editor .captioned-image-container figure:has(> a.image2-offset-right) {
+    margin-right: var(--image-offset-margin);
+  }
+}
+@media (max-width: 1024px) {
+  .typography,
+  .typography.editor {
+    /* Disable offset on mobile/tablet */
+  }
+  .typography .captioned-image-container figure:has(> a.image2-align-left),
+  .typography.editor .captioned-image-container figure:has(> a.image2-align-left),
+  .typography .captioned-image-container figure:has(> a.image2-align-right),
+  .typography.editor .captioned-image-container figure:has(> a.image2-align-right) {
+    float: none;
+    margin: 1em auto;
+    max-width: 100%;
+    width: auto;
+    padding: 0;
+  }
+  .typography .captioned-image-container figure:has(> a.image2-align-left.thefp),
+  .typography.editor .captioned-image-container figure:has(> a.image2-align-left.thefp),
+  .typography .captioned-image-container figure:has(> a.image2-align-right.thefp),
+  .typography.editor .captioned-image-container figure:has(> a.image2-align-right.thefp) {
+    margin: 1em auto;
+  }
+  .typography .captioned-image-container figure:has(> a.image2-offset-left),
+  .typography.editor .captioned-image-container figure:has(> a.image2-offset-left),
+  .typography .captioned-image-container figure:has(> a.image2-offset-right),
+  .typography.editor .captioned-image-container figure:has(> a.image2-offset-right) {
+    margin: 1em auto;
+  }
+  .typography .captioned-image-container figure:has(> a.image2-align-left) .image2-inset,
+  .typography.editor .captioned-image-container figure:has(> a.image2-align-left) .image2-inset,
+  .typography .captioned-image-container figure:has(> a.image2-align-right) .image2-inset,
+  .typography.editor .captioned-image-container figure:has(> a.image2-align-right) .image2-inset {
+    display: block;
+    justify-content: initial;
+  }
+}
+@media (max-width: 768px) {
+  .typography .markup div.sponsorship-campaign-embed,
+  .typography.editor .markup div.sponsorship-campaign-embed {
+    margin-top: 24px;
+    margin-bottom: 24px;
+  }
+  .typography .markup div.sponsorship-campaign-embed:first-child,
+  .typography.editor .markup div.sponsorship-campaign-embed:first-child {
+    margin-top: 0px;
+  }
+}
+@media screen and (max-width: 650px) {
+  .typography .markup div.youtube-overlay,
+  .typography.editor .markup div.youtube-overlay,
+  .typography .markup div.vimeo-overlay,
+  .typography.editor .markup div.vimeo-overlay {
+    display: none !important;
+  }
+}
+@media screen and (max-width: 370px) {
+  .typography .markup div.tiktok-wrap,
+  .typography.editor .markup div.tiktok-wrap {
+    width: calc(95vw - 32px);
+    height: calc((95vw - 32px - 2px) / 0.485714);
+  }
+}
+@media screen and (max-width: 650px) {
+  .typography .markup div.embedded-publication-wrap .embedded-publication.show-subscribe,
+  .typography.editor .markup div.embedded-publication-wrap .embedded-publication.show-subscribe {
+    padding: 24px;
+  }
+}
+@media screen and (max-width: 650px) {
+  .typography .markup div.subscription-widget-wrap .subscription-widget.show-subscribe,
+  .typography.editor .markup div.subscription-widget-wrap .subscription-widget.show-subscribe,
+  .typography .markup div.subscription-widget-wrap-editor .subscription-widget.show-subscribe,
+  .typography.editor .markup div.subscription-widget-wrap-editor .subscription-widget.show-subscribe,
+  .typography .markup div.captioned-button-wrap .subscription-widget.show-subscribe,
+  .typography.editor .markup div.captioned-button-wrap .subscription-widget.show-subscribe {
+    padding: 0px 24px;
+  }
+}
+@media screen and (max-width: 650px) {
+  .typography .markup div.subscription-widget-wrap .subscription-widget.show-subscribe .subscription-widget-subscribe .button,
+  .typography.editor .markup div.subscription-widget-wrap .subscription-widget.show-subscribe .subscription-widget-subscribe .button,
+  .typography .markup div.subscription-widget-wrap-editor .subscription-widget.show-subscribe .subscription-widget-subscribe .button,
+  .typography.editor .markup div.subscription-widget-wrap-editor .subscription-widget.show-subscribe .subscription-widget-subscribe .button,
+  .typography .markup div.captioned-button-wrap .subscription-widget.show-subscribe .subscription-widget-subscribe .button,
+  .typography.editor .markup div.captioned-button-wrap .subscription-widget.show-subscribe .subscription-widget-subscribe .button {
+    padding: 10px 12px;
+    min-width: 110px;
+  }
+}
+@media (max-width: 650px) {
+  .typography .markup .twitter-embed,
+  .typography.editor .markup .twitter-embed,
+  .typography .markup .tweet,
+  .typography.editor .markup .tweet {
+    padding: 12px;
+  }
+}
+@media (max-width: 650px) {
+  .typography .markup .twitter-embed .tweet-text,
+  .typography.editor .markup .twitter-embed .tweet-text,
+  .typography .markup .tweet .tweet-text,
+  .typography.editor .markup .tweet .tweet-text {
+    font-size: 14px;
+    line-height: 20px;
+  }
+}
+@media (max-width: 650px) {
+  .typography .markup .twitter-embed .tweet-photos-container.two,
+  .typography.editor .markup .twitter-embed .tweet-photos-container.two,
+  .typography .markup .tweet .tweet-photos-container.two,
+  .typography.editor .markup .tweet .tweet-photos-container.two,
+  .typography .markup .twitter-embed .tweet-photos-container.three,
+  .typography.editor .markup .twitter-embed .tweet-photos-container.three,
+  .typography .markup .tweet .tweet-photos-container.three,
+  .typography.editor .markup .tweet .tweet-photos-container.three,
+  .typography .markup .twitter-embed .tweet-photos-container.four,
+  .typography.editor .markup .twitter-embed .tweet-photos-container.four,
+  .typography .markup .tweet .tweet-photos-container.four,
+  .typography.editor .markup .tweet .tweet-photos-container.four {
+    height: 200px;
+  }
+}
+@media (max-width: 650px) {
+  .typography .markup .twitter-embed a.expanded-link .expanded-link-img,
+  .typography.editor .markup .twitter-embed a.expanded-link .expanded-link-img,
+  .typography .markup .tweet a.expanded-link .expanded-link-img,
+  .typography.editor .markup .tweet a.expanded-link .expanded-link-img {
+    max-height: 180px;
+  }
+}
+@media (max-width: 650px) {
+  .typography .markup .twitter-embed a.expanded-link .expanded-link-description,
+  .typography.editor .markup .twitter-embed a.expanded-link .expanded-link-description,
+  .typography .markup .tweet a.expanded-link .expanded-link-description,
+  .typography.editor .markup .tweet a.expanded-link .expanded-link-description {
+    display: none;
+  }
+}
+@media screen and (max-width: 650px) {
+  .typography .markup .apple-podcast-container,
+  .typography.editor .markup .apple-podcast-container {
+    width: unset;
+  }
+}
+@media (max-width: 420px) {
+  .typography .markup .install-substack-app-embed img.install-substack-app-embed-img,
+  .typography.editor .markup .install-substack-app-embed img.install-substack-app-embed-img {
+    margin: 0 auto 16px auto;
+  }
+}
+@media (max-width: 420px) {
+  .typography .markup .install-substack-app-embed .install-substack-app-embed-text,
+  .typography.editor .markup .install-substack-app-embed .install-substack-app-embed-text {
+    margin: 0 0 12px 0;
+    max-width: 100%;
+    width: auto;
+    text-align: center;
+  }
+}
+@media (max-width: 420px) {
+  .typography .markup .install-substack-app-embed .install-substack-app-embed-link,
+  .typography.editor .markup .install-substack-app-embed .install-substack-app-embed-link {
+    display: flex;
+    justify-content: center;
+  }
+}
+@media screen and (min-width: 481px) {
+  .share-button-container {
+    height: 38px;
+  }
+}
+@media screen and (min-width: 481px) {
+  .share-button-container a.comment {
+    height: 38px;
+    line-height: 38px;
+    padding-right: 10px;
+  }
+}
+@media screen and (max-width: 480px) {
+  .share-button-container .separator {
+    display: block;
+    margin: 0;
+    height: 8px;
+    border-left: none;
+  }
+}
+@media screen and (max-width: 480px) {
+  .share-button-container a.share.first img {
+    padding-left: 0;
+  }
+}
+@media screen and (min-width: 481px) {
+  .share-button-container a.mobile {
+    display: none !important;
+  }
+}
+@media screen and (min-width: 541px) {
+  .settings-add-pub-modal-wrapper .container .add-recommending-pub-modal-container {
+    padding: 36px;
+    height: 680px;
+  }
+}
+@media screen and (min-width: 541px) {
+  .settings-add-pub-modal-wrapper .container .add-recommending-pub-modal-container .footer {
+    position: absolute;
+    bottom: 36px;
+    margin: 0px;
+  }
+}
+@media screen and (max-width: 650px) {
+  .header-anchor-parent {
+    display: none;
+  }
+}
+@media screen and (max-width: 768px) {
+  .post {
+    padding: 16px 0 0 0;
+  }
+}
+@media screen and (max-width: 650px) {
+  .post .post-header .post-label {
+    margin-top: 8px;
+  }
+}
+@media screen and (max-width: 650px) {
+  .post .post-header .meta-author-wrap.alternative-meta .meta-right-column .post-meta {
+    margin-top: 6px;
+  }
+}
+@media screen and (max-width: 650px) {
+  .post .footer-facepile-container {
+    height: 64px;
+    padding: 0 16px;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    width: 100%;
+  }
+}
+@media screen and (max-width: 650px) {
+  .post .post-footer.use-separators {
+    justify-content: center;
+  }
+}
+@media screen and (max-width: 650px) {
+  .post .post-footer.next-prev {
+    height: 64px;
+    justify-content: space-between;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 650px) {
+  .post-contributor-footer .post-contributor-bio-table {
+    display: block;
+  }
+  .post-contributor-footer .post-contributor-bio-table-row {
+    display: flex;
+    flex-direction: row;
+  }
+  .post-contributor-footer .post-contributor-bio-userhead-cell,
+  .post-contributor-footer .post-contributor-bio-body-cell {
+    display: block;
+  }
+  .post-contributor-footer .post-contributor-bio-body-cell {
+    flex-grow: 1;
+  }
+  .post-contributor-footer .post-contributor-bio-body-table {
+    display: block;
+  }
+  .post-contributor-footer .post-contributor-bio-body-table-row {
+    display: block;
+  }
+  .post-contributor-footer .post-contributor-bio-copy-cell,
+  .post-contributor-footer .post-contributor-bio-controls-cell {
+    display: block;
+  }
+  .post-contributor-footer .post-contributor-bio-copy-cell {
+    margin: 0 0 16px 0;
+  }
+  .post-contributor-footer .post-contributor-bio-controls-cell {
+    width: auto;
+  }
+  .post-contributor-footer .post-contributor-bio-controls {
+    margin: auto;
+  }
+  .post-contributor-footer .post-contributor-bio-controls .button.primary {
+    width: 100%;
+  }
+  .post-contributor-footer .post-contributor-bio-text {
+    font-size: 14px;
+  }
+}
+@media screen and (min-width: 768px) {
+  .post-silhouette {
+    padding: 32px 0;
+  }
+}
+@media screen and (max-width: 650px) {
+  .post-silhouette .post-silhouette-title {
+    margin-top: 10.44225025px;
+    height: 120px;
+  }
+}
+@media screen and (max-width: 650px) {
+  .post-silhouette .post-silhouette-meta {
+    width: 75%;
+  }
+}
+@media screen and (max-width: 650px) {
+  .post-silhouette .post-silhouette-meta.with-byline-image {
+    margin: 20px 0;
+  }
+}
+@media screen and (max-width: 650px) {
+  .use-theme-bg .post-meta.alternative-meta .post-meta-item,
+  .post-meta.alternative-meta .post-meta-item {
+    padding-right: 16px;
+  }
+}
+@media screen and (max-width: 370px) {
+  .use-theme-bg .post-meta.alternative-meta .post-meta-item,
+  .post-meta.alternative-meta .post-meta-item {
+    font-size: 14px;
+  }
+}
+@media screen and (max-width: 650px) {
+  .use-theme-bg .post-meta.alternative-meta .post-meta-item.guest-author-publication,
+  .post-meta.alternative-meta .post-meta-item.guest-author-publication {
+    display: none;
+  }
+}
+@media screen and (max-width: 370px) {
+  .post-meta .post-meta-item .post-meta-button {
+    height: 36px !important;
+    /* important to override in-line height style on emails */
+  }
+  .post-meta .post-meta-item .post-meta-button .meta-button-label {
+    display: none;
+  }
+  .post-meta .post-meta-item .post-meta-button > svg {
+    margin-right: 0;
+  }
+}
+@media screen and (max-width: 370px) {
+  .post-meta .post-meta-item {
+    font-size: 12px;
+  }
+}
+@media screen and (max-width: 650px) {
+  .post .floating-subscribe-button {
+    bottom: 20px;
+    right: 20px;
+  }
+}
+@media (max-width: 1024px) {
+  body .pullquote-align-left,
+  body .pullquote-align-right,
+  body .pullquote-align-wide,
+  body .pullquote-align-center {
+    float: none;
+    margin: 0 auto;
+    width: 100%;
+    max-width: 100%;
+  }
+}
+@media all and (-ms-high-contrast: none), (-ms-high-contrast: active) {
+  body .markup table.image-wrapper img,
+  body .markup table.kindle-wrapper img {
+    max-width: 550px;
+  }
+}
+@media (min-width: 1024px) {
+  body:not(:has(#toc)) .captioned-image-container figure:has(> a.image2-offset-left) {
+    margin-left: var(--image-offset-margin);
+  }
+  body:not(:has(#toc)) .captioned-image-container figure:has(> a.image2-offset-right) {
+    margin-right: var(--image-offset-margin);
+  }
+}
+@media (min-width: 1300px) {
+  body .captioned-image-container figure:has(> a.image2-offset-left) {
+    margin-left: var(--image-offset-margin);
+  }
+  body .captioned-image-container figure:has(> a.image2-offset-right) {
+    margin-right: var(--image-offset-margin);
+  }
+}
+@media (max-width: 1024px) {
+  body {
+    /* Disable offset on mobile/tablet */
+  }
+  body .captioned-image-container figure:has(> a.image2-align-left),
+  body .captioned-image-container figure:has(> a.image2-align-right) {
+    float: none;
+    margin: 1em auto;
+    max-width: 100%;
+    width: auto;
+    padding: 0;
+  }
+  body .captioned-image-container figure:has(> a.image2-align-left.thefp),
+  body .captioned-image-container figure:has(> a.image2-align-right.thefp) {
+    margin: 1em auto;
+  }
+  body .captioned-image-container figure:has(> a.image2-offset-left),
+  body .captioned-image-container figure:has(> a.image2-offset-right) {
+    margin: 1em auto;
+  }
+  body .captioned-image-container figure:has(> a.image2-align-left) .image2-inset,
+  body .captioned-image-container figure:has(> a.image2-align-right) .image2-inset {
+    display: block;
+    justify-content: initial;
+  }
+}
+@media (max-width: 768px) {
+  body .markup div.sponsorship-campaign-embed {
+    margin-top: 24px;
+    margin-bottom: 24px;
+  }
+  body .markup div.sponsorship-campaign-embed:first-child {
+    margin-top: 0px;
+  }
+}
+@media screen and (max-width: 650px) {
+  body .markup div.youtube-overlay,
+  body .markup div.vimeo-overlay {
+    display: none !important;
+  }
+}
+@media screen and (max-width: 370px) {
+  body .markup div.tiktok-wrap {
+    width: calc(95vw - 32px);
+    height: calc((95vw - 32px - 2px) / 0.485714);
+  }
+}
+@media screen and (max-width: 650px) {
+  body .markup div.embedded-publication-wrap .embedded-publication.show-subscribe {
+    padding: 24px;
+  }
+}
+@media screen and (max-width: 650px) {
+  body .markup div.subscription-widget-wrap .subscription-widget.show-subscribe,
+  body .markup div.subscription-widget-wrap-editor .subscription-widget.show-subscribe,
+  body .markup div.captioned-button-wrap .subscription-widget.show-subscribe {
+    padding: 0px 24px;
+  }
+}
+@media screen and (max-width: 650px) {
+  body .markup div.subscription-widget-wrap .subscription-widget.show-subscribe .subscription-widget-subscribe .button,
+  body .markup div.subscription-widget-wrap-editor .subscription-widget.show-subscribe .subscription-widget-subscribe .button,
+  body .markup div.captioned-button-wrap .subscription-widget.show-subscribe .subscription-widget-subscribe .button {
+    padding: 10px 12px;
+    min-width: 110px;
+  }
+}
+@media (max-width: 650px) {
+  body .markup .twitter-embed,
+  body .markup .tweet {
+    padding: 12px;
+  }
+}
+@media (max-width: 650px) {
+  body .markup .twitter-embed .tweet-text,
+  body .markup .tweet .tweet-text {
+    font-size: 14px;
+    line-height: 20px;
+  }
+}
+@media (max-width: 650px) {
+  body .markup .twitter-embed .tweet-photos-container.two,
+  body .markup .tweet .tweet-photos-container.two,
+  body .markup .twitter-embed .tweet-photos-container.three,
+  body .markup .tweet .tweet-photos-container.three,
+  body .markup .twitter-embed .tweet-photos-container.four,
+  body .markup .tweet .tweet-photos-container.four {
+    height: 200px;
+  }
+}
+@media (max-width: 650px) {
+  body .markup .twitter-embed a.expanded-link .expanded-link-img,
+  body .markup .tweet a.expanded-link .expanded-link-img {
+    max-height: 180px;
+  }
+}
+@media (max-width: 650px) {
+  body .markup .twitter-embed a.expanded-link .expanded-link-description,
+  body .markup .tweet a.expanded-link .expanded-link-description {
+    display: none;
+  }
+}
+@media screen and (max-width: 650px) {
+  body .markup .apple-podcast-container {
+    width: unset;
+  }
+}
+@media (max-width: 420px) {
+  body .markup .install-substack-app-embed img.install-substack-app-embed-img {
+    margin: 0 auto 16px auto;
+  }
+}
+@media (max-width: 420px) {
+  body .markup .install-substack-app-embed .install-substack-app-embed-text {
+    margin: 0 0 12px 0;
+    max-width: 100%;
+    width: auto;
+    text-align: center;
+  }
+}
+@media (max-width: 420px) {
+  body .markup .install-substack-app-embed .install-substack-app-embed-link {
+    display: flex;
+    justify-content: center;
+  }
+}
+@media screen and (min-width: 500px) {
+  body .header a.logo {
+    width: 42px;
+    height: 42px;
+    border-radius: 12px;
+  }
+}
+@media screen and (max-width: 420px) {
+  body .subscription-receipt table:first-of-type .subscription-amount .subscription-discount {
+    width: 72px !important;
+  }
+}
+@media screen and (min-width: 481px) {
+  body .share-button-container {
+    height: auto;
+  }
+}
+@media screen and (max-width: 480px) {
+  body .share-button-container .separator {
+    display: block !important;
+    margin: 0 !important;
+    height: 8px !important;
+    border-left: none !important;
+  }
+}
+@media screen and (max-width: 650px) {
+  .digest .item .post-meta-item.audience {
+    display: none;
+  }
+}
+@media screen and (min-width: 500px) {
+  .digest-publication .logo img {
+    width: 42px;
+    height: 42px;
+    border-radius: 8px;
+  }
+}
+@media screen and (max-width: 650px) {
+  .comments-page .container .comment-list .collapsed-reply {
+    margin-left: calc(10 + 32px - 24px);
+  }
+}
+@media screen and (max-width: 650px) {
+  .comment > .comment-list {
+    padding-left: 24px;
+  }
+}
+@media screen and (max-width: 650px) {
+  .finish-magic-login-modal .modal-content .container {
+    padding: 24px 0;
+  }
+}
+@media (max-width: 650px) {
+  .reader2-text-b3 {
+    line-height: 24px;
+  }
+}
+@media screen and (max-width: 650px) {
+  .reader2-text-h4 {
+    line-height: 24px;
+  }
+}
+@media screen and (min-width: 541px) {
+  .user-profile-modal {
+    padding-left: 12px;
+    padding-right: 12px;
+  }
+}
+@media screen and (max-width: 650px) {
+  .subscribe-widget form.form .sideBySideWrap button.rightButton {
+    padding: 10px 12px;
+  }
+}
+@media screen and (min-width: 541px) {
+  .pub-icon:hover .logo-hover,
+  .feed-item-icon:hover .logo-hover {
+    display: block;
+  }
+}
+@media screen and (max-width: 650px) {
+  .post-ufi.single-full-width-button .post-ufi-button-wrapper {
+    width: 100%;
+    padding: 16px;
+  }
+  .post-ufi.single-full-width-button .post-ufi-button-wrapper:empty {
+    display: none;
+  }
+  .post-ufi.single-full-width-button .post-ufi-button {
+    width: 100%;
+    justify-content: center;
+  }
+}
+@media screen and (max-width: 768px) {
+  .file-embed-wrapper {
+    padding: 0;
+  }
+}
+@media screen and (max-width: 768px) {
+  .file-embed-wrapper-editor {
+    padding: 0;
+  }
+}
+@media screen and (max-width: 768px) {
+  .file-embed-wrapper-editor:active {
+    padding: 0;
+  }
+}
+@media only screen and (max-width: 650px) {
+  .file-embed-button.wide,
+  .file-embed-error-button.wide {
+    display: none;
+  }
+}
+@media only screen and (min-width: 630px) {
+  .file-embed-button.narrow,
+  .file-embed-error-button.narrow {
+    display: none;
+  }
+}
+@media screen and (min-width: 541px) {
+  .audio-player-wrapper .audio-player {
+    min-width: 500px;
+  }
+}
+@media screen and (max-width: 650px) {
+  .audio-player-wrapper .audio-player .audio-player-progress {
+    border-left-width: 16px;
+    border-right-width: 16px;
+  }
+}
+@media screen and (max-width: 650px) {
+  .audio-player-wrapper .audio-player .audio-player-progress .audio-player-progress-bar .audio-player-progress-bar-popup {
+    top: -54px;
+  }
+}
+@media screen and (max-width: 650px) {
+  .audio-player-wrapper-fancy .audio-player .audio-player-progress {
+    border-left-width: 16px;
+    border-right-width: 16px;
+  }
+}
+@media screen and (max-width: 650px) {
+  .audio-player-wrapper-fancy .audio-player .audio-player-progress .audio-player-progress-bar .audio-player-progress-bar-popup {
+    top: -54px;
+  }
+}
+@media (min-width: 250px) {
+  .audio-player-wrapper-fancy .audio-player {
+    padding: 32px;
+  }
+  .audio-player-wrapper-fancy .audio-player .btn-group {
+    display: flex;
+  }
+  .audio-player-wrapper-fancy .audio-player .btn-group .button:last-of-type {
+    display: block;
+  }
+}
+@media (min-width: 300px) {
+  .audio-player-wrapper-fancy .audio-player .btn-group {
+    display: block;
+  }
+  .audio-player-wrapper-fancy .audio-player .btn-group .button:first-of-type {
+    display: block;
+  }
+}
+@media (min-width: 350px) {
+  .audio-player-wrapper-fancy .audio-player .audio-player-substack-logo {
+    display: block;
+  }
+  .audio-player-wrapper-fancy .audio-player .audio-player-title {
+    margin-top: 16px;
+  }
+  .audio-player-wrapper-fancy .audio-player .audio-player-hero-image-container {
+    padding-top: 15%;
+    width: 15%;
+    display: block;
+  }
+  .audio-player-wrapper-fancy .audio-player .btn-group .button:first-of-type {
+    display: block;
+  }
+  .audio-player-wrapper-fancy .audio-player .audio-player-substack-logo {
+    display: block;
+  }
+}
+@media (min-width: 350px) {
+  .audio-player-wrapper-fancy .audio-player .audio-player-hero-image-container {
+    padding-top: 25%;
+    width: 25%;
+    display: block;
+  }
+  .audio-player-wrapper-fancy .audio-player .btn-group {
+    display: flex;
+  }
+  .audio-player-wrapper-fancy .audio-player .btn-group .button:first-of-type {
+    display: block;
+  }
+}
+@media (min-width: 400px) {
+  .audio-player-wrapper-fancy .audio-player .audio-player-hero-image-container {
+    padding-top: 40%;
+    width: 40%;
+  }
+}
+@media (max-width: 400px) {
+  .audio-player-wrapper-fancy .audio-player .btn-group {
+    margin-top: 12px;
+  }
+  .audio-player-wrapper-fancy .audio-player .btn-group .button {
+    font-size: 13px;
+    padding: 6px 12px;
+    height: auto;
+    margin-top: 10px;
+  }
+}
+@media (min-width: 600px) {
+  .audio-player-wrapper-fancy .audio-player .audio-player-hero-image-container {
+    padding-top: 55%;
+    width: 55%;
+  }
+}
+@media (max-width: 650px) {
+  .poll-editor-modal {
+    min-width: calc(100% - 20px);
+  }
+}
+@media (max-width: 750px) {
+  .poll-embed .poll-anchor-target .poll-anchor-copy-button {
+    left: 8px;
+    top: 45px;
+  }
+}
+@media not all and (min-resolution: 0.001dpcm) {
+  @supports (-webkit-appearance: none) {
+    p a:not(.primary.button),
+    .post p:not(.button-wrapper) a:not(.primary.button),
+    .footnote a.footnote-anchor:not(.primary.button),
+    .thread-head .markup p:not(.button-wrapper) a:not(.primary.button) {
+      color: #fe6e50;
+      text-decoration: none;
+    }
+    p a:not(.primary.button):hover,
+    .post p:not(.button-wrapper) a:not(.primary.button):hover,
+    .footnote a.footnote-anchor:not(.primary.button):hover,
+    .thread-head .markup p:not(.button-wrapper) a:not(.primary.button):hover {
+      text-decoration: underline;
+    }
+  }
+}</style></head><body class="email-body" style="font-kerning: auto;--image-offset-margin: -120px;"><img src="https://eotrx.substackcdn.com/open?token=eyJtIjoiPDIwMjYwMzAyMTMwMjIzLjMuYThhMmExYWQ5MjI2ZGIxY0BtZzIuc3Vic3RhY2suY29tPiIsInUiOjE0NTYzMzE5LCJyIjoiaXNoYW4ubWFpbEBnbWFpbC5jb20iLCJkIjoibWcyLnN1YnN0YWNrLmNvbSIsInAiOjE4OTI2NDg2MywidCI6Im5ld3NsZXR0ZXIiLCJhIjoiZXZlcnlvbmUiLCJzIjoyMjkxNTE2LCJjIjoicG9zdCIsImYiOnRydWUsInBvc2l0aW9uIjoidG9wIiwiaWF0IjoxNzcyNDU2NjE0LCJleHAiOjE3NzUwNDg2MTQsImlzcyI6InB1Yi0wIiwic3ViIjoiZW8ifQ.E0AL9yayWaqiGdztZh9-VKCcXeMhWCtm4rhGUCbZC0c" alt="" width="1" height="1" border="0" style="height:1px !important;width:1px !important;border-width:0 !important;margin-top:0 !important;margin-bottom:0 !important;margin-right:0 !important;margin-left:0 !important;padding-top:0 !important;padding-bottom:0 !important;padding-right:0 !important;padding-left:0 !important;"/><div class="preview" style="display:none;font-size:1px;color:#333333;line-height:1px;max-height:0px;max-width:0px;opacity:0;overflow:hidden;">Xinyan Yu&#8217;s Made in Ethiopia documents the growth of a Chinese factory complex in the Ethiopian countryside. The director has much more to say on how it reflects the path of industrialization in China</div><div class="preview" style="display:none;font-size:1px;color:#333333;line-height:1px;max-height:0px;max-width:0px;opacity:0;overflow:hidden;">&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;&#847; &nbsp; &#8199; &#173;</div><table class="email-body-container" role="presentation" width="100%" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td></td><td class="content" width="550"></td><td></td></tr><tr><td></td><td class="content" width="550" align="left"><div style="font-size: 16px;line-height: 26px;max-width: 550px;width: 100%;margin: 0 auto;overflow-wrap: break-word;"><table role="presentation" width="100%" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td align="right" style="height:20px;"><table role="presentation" width="auto" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td style="vertical-align:middle;"><span class="pencraft pc-reset reset-IxiVJZ tw-font-body tw-text-ssm tw-text-substack-secondary" style="font-family: SF Pro Text, -apple-system, system-ui, BlinkMacSystemFont, Inter, Segoe UI, Roboto, Helvetica, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol;font-size: 13px;color: unset;list-style: none;text-decoration: unset;margin: 0;"><div class="pencraft pc-reset align-right-VJbKw5 size-12-mmZ61m reset-IxiVJZ" style="list-style: none;color: unset;text-align: right;font-size: 12px;line-height: 16px;text-decoration: unset;margin: 0;"><span class="pencraft pc-reset reset-IxiVJZ" translated="" style="list-style: none;color: unset;text-decoration: unset;margin: 0;">Forwarded this email? <a class="pencraft pc-reset decoration-underline-ClTkYc reset-IxiVJZ" href="https://substack.com/redirect/2/eyJlIjoiaHR0cHM6Ly9hc3Rlcmlza21hZy5zdWJzdGFjay5jb20vc3Vic2NyaWJlP3V0bV9zb3VyY2U9ZW1haWwmdXRtX2NhbXBhaWduPWVtYWlsLXN1YnNjcmliZSZyPThvNTRuJm5leHQ9aHR0cHMlM0ElMkYlMkZhc3Rlcmlza21hZy5zdWJzdGFjay5jb20lMkZwJTJGZmFjdG9yeS1sb2dpYyIsInAiOjE4OTI2NDg2MywicyI6MjI5MTUxNiwiZiI6dHJ1ZSwidSI6MTQ1NjMzMTksImlhdCI6MTc3MjQ1NjYxNCwiZXhwIjoyMDg4MDMyNjE0LCJpc3MiOiJwdWItMCIsInN1YiI6ImxpbmstcmVkaXJlY3QifQ.JsGTku9qqf5YhKq_SuZl2OEvjj--iG9En_ei6JWpoCk?" style="list-style: none;color: unset;text-decoration: unset;margin: 0;-webkit-text-decoration-line: underline;text-decoration-line: underline;">Subscribe here</a> for more</span></div></span></td></tr></tbody></table></td></tr></tbody></table><div class="post typography" dir="auto" style="--image-offset-margin: -120px;padding: 32px 0 0 0;font-size: 16px;line-height: 26px;"><div class="post-header" role="region" aria-label="Post header" style="font-size: 16px;line-height: 26px;"><h1 class="post-title published title-X77sOw" dir="auto" style="direction: auto;text-align: start;unicode-bidi: isolate;color: rgb(54,55,55);font-family: 'SF Pro Display', -apple-system, system-ui, BlinkMacSystemFont, 'Inter', 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';font-weight: 900;-webkit-font-smoothing: antialiased;-moz-osx-font-smoothing: antialiased;-webkit-appearance: optimizelegibility;-moz-appearance: optimizelegibility;appearance: optimizelegibility;margin: 0;line-height: 36px;font-size: 32px;"><a href="https://substack.com/app-link/post?publication_id=2291516&post_id=189264863&utm_source=post-email-title&utm_campaign=email-post-title&isFreemail=true&r=8o54n&token=eyJ1c2VyX2lkIjoxNDU2MzMxOSwicG9zdF9pZCI6MTg5MjY0ODYzLCJpYXQiOjE3NzI0NTY2MTQsImV4cCI6MTc3NTA0ODYxNCwiaXNzIjoicHViLTIyOTE1MTYiLCJzdWIiOiJwb3N0LXJlYWN0aW9uIn0.iUC-WldZYTAPVLuxWO3dCkeJ6XxpugecapEIa4cxTBw" style="color: rgb(54,55,55);text-decoration: none;">Factory Logic</a></h1><h3 class="subtitle subtitle-HEEcLo" dir="auto" style="direction: auto;text-align: start;unicode-bidi: isolate;font-family: 'SF Pro Display',-apple-system-headline,system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';font-weight: normal;-webkit-font-smoothing: antialiased;-moz-osx-font-smoothing: antialiased;-webkit-appearance: optimizelegibility;-moz-appearance: optimizelegibility;appearance: optimizelegibility;margin: 4px 0 0;color: #777777;line-height: 24px;font-size: 18px;margin-top: 12px;">Xinyan Yu&#8217;s Made in Ethiopia documents the growth of a Chinese factory complex in the Ethiopian countryside. The director has much more to say on how it reflects the path of industrialization in China</h3><table class="post-meta" role="presentation" width="100%" border="0" cellspacing="0" cellpadding="0" style="margin: 1em 0;height: 20px;align-items: center;"><tbody><tr><td><table role="presentation" width="auto" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td><table role="presentation" width="auto" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td style="vertical-align:middle;"><div class="pencraft pc-reset color-primary-zABazT line-height-20-t4M0El font-meta-MWBumP size-11-NuY2Zx weight-medium-fw81nC transform-uppercase-yKDgcq reset-IxiVJZ meta-EgzBVA custom-css-email-post-author" style="list-style: none;font-size: 11px;line-height: 20px;text-decoration: unset;color: rgb(54,55,55);margin: 0;font-family: 'SF Compact',-apple-system,system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';font-weight: 500;text-transform: uppercase;letter-spacing: .2px;"><a class="pencraft pc-reset color-primary-zABazT line-height-20-t4M0El font-meta-MWBumP size-11-NuY2Zx weight-medium-fw81nC transform-uppercase-yKDgcq reset-IxiVJZ meta-EgzBVA" style="list-style: none;color: rgb(54,55,55);margin: 0;font-size: 11px;line-height: 20px;font-family: 'SF Compact',-apple-system,system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';font-weight: 500;text-transform: uppercase;letter-spacing: .2px;text-decoration: none" href="https://substack.com/@afrawang">afra</a></div></td></tr></tbody></table></td></tr><tr><td><table role="presentation" width="auto" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td style="vertical-align:middle;"><div class="pencraft pc-reset color-secondary-ls1g8s line-height-20-t4M0El font-meta-MWBumP size-11-NuY2Zx weight-medium-fw81nC transform-uppercase-yKDgcq reset-IxiVJZ meta-EgzBVA" style="list-style: none;font-size: 11px;line-height: 20px;text-decoration: unset;color: rgb(119,119,119);margin: 0;font-family: 'SF Compact',-apple-system,system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';font-weight: 500;text-transform: uppercase;letter-spacing: .2px;"><time datetime="2026-03-02T13:02:23.444Z">Mar 2</time></div></td><td width="4" style="min-width:4px;"></td><td style="vertical-align:middle;"><table role="presentation" width="auto" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td style="vertical-align:middle;"><div class="pencraft pc-reset color-secondary-ls1g8s line-height-20-t4M0El font-meta-MWBumP size-11-NuY2Zx weight-medium-fw81nC transform-uppercase-yKDgcq reset-IxiVJZ meta-EgzBVA" style="list-style: none;font-size: 11px;line-height: 20px;text-decoration: unset;color: rgb(119,119,119);margin: 0;font-family: 'SF Compact',-apple-system,system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';font-weight: 500;text-transform: uppercase;letter-spacing: .2px;">&#8729;</div></td><td width="4" style="min-width:4px;"></td><td style="vertical-align:middle;"><div class="pencraft pc-reset color-secondary-ls1g8s line-height-20-t4M0El font-meta-MWBumP size-11-NuY2Zx weight-medium-fw81nC transform-uppercase-yKDgcq reset-IxiVJZ meta-EgzBVA" translated="" style="list-style: none;font-size: 11px;line-height: 20px;text-decoration: unset;color: rgb(119,119,119);margin: 0;font-family: 'SF Compact',-apple-system,system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';font-weight: 500;text-transform: uppercase;letter-spacing: .2px;">Guest post</div></td></tr></tbody></table></td></tr></tbody></table></td></tr></tbody></table></td><td align="right"><table role="presentation" width="auto" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td style="vertical-align:middle;"><a href="https://substack.com/@afrawang"><img class="custom-css-email-avatar avatar-QIQ5yR" src="https://substackcdn.com/image/fetch/$s_!p8sZ!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9e7c3c6d-a2e3-412d-b2b6-e62097d444af_800x800.png" style="box-sizing: border-box;max-width: 550px;border: none;vertical-align: middle;width: 40px;height: 40px;min-width: 40px;min-height: 40px;object-fit: cover;margin: 0px;display: inline;border-radius: 50%" width="40" height="40"></a></td></tr></tbody></table></td></tr></tbody></table><table class="email-ufi-2-top" role="presentation" width="100%" border="0" cellspacing="0" cellpadding="0" style="border-top: 1px solid rgb(0,0,0,.1);border-bottom: 1px solid rgb(0,0,0,.1);min-width: 100%;"><tbody><tr height="16"><td height="16" style="font-size:0px;line-height:0;">&nbsp;</td></tr><tr><td><table role="presentation" width="100%" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td><table role="presentation" width="auto" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td style="vertical-align:middle;"><table role="presentation" width="38" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td align="center"><a class="email-icon-button" href="https://substack.com/app-link/post?publication_id=2291516&post_id=189264863&utm_source=substack&isFreemail=true&submitLike=true&token=eyJ1c2VyX2lkIjoxNDU2MzMxOSwicG9zdF9pZCI6MTg5MjY0ODYzLCJyZWFjdGlvbiI6IuKdpCIsImlhdCI6MTc3MjQ1NjYxNCwiZXhwIjoxNzc1MDQ4NjE0LCJpc3MiOiJwdWItMjI5MTUxNiIsInN1YiI6InJlYWN0aW9uIn0.lcl-xRvfWWUdoEEnvDYfLNQuH1-vjk-xhBaVhn5a_W8&utm_medium=email&utm_campaign=email-reaction&r=8o54n" style="font-family: system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';display: inline-block;font-weight: 500;border: 1px solid rgb(0,0,0,.1);border-radius: 9999px;text-transform: uppercase;font-size: 12px;line-height: 1;padding: 9px 0;text-decoration: none;color: rgb(119,119,119);min-width: 38px;box-sizing: border-box;width: 38px"><img class="icon" src="https://substackcdn.com/image/fetch/$s_!PeVs!,w_36,c_scale,f_png,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack.com%2Ficon%2FLucideHeart%3Fv%3D4%26height%3D36%26fill%3Dnone%26stroke%3D%2523808080%26strokeWidth%3D2" width="18" height="18" style="border: none;vertical-align: middle;max-width: 18px" alt=""></a></td></tr></tbody></table></td><td width="8" style="min-width:8px;"></td><td style="vertical-align:middle;"><table role="presentation" width="38" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td align="center"><a class="email-icon-button" href="https://substack.com/app-link/post?publication_id=2291516&post_id=189264863&utm_source=substack&utm_medium=email&isFreemail=true&comments=true&token=eyJ1c2VyX2lkIjoxNDU2MzMxOSwicG9zdF9pZCI6MTg5MjY0ODYzLCJpYXQiOjE3NzI0NTY2MTQsImV4cCI6MTc3NTA0ODYxNCwiaXNzIjoicHViLTIyOTE1MTYiLCJzdWIiOiJwb3N0LXJlYWN0aW9uIn0.iUC-WldZYTAPVLuxWO3dCkeJ6XxpugecapEIa4cxTBw&r=8o54n&utm_campaign=email-half-magic-comments&action=post-comment&utm_source=substack&utm_medium=email" style="font-family: system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';display: inline-block;font-weight: 500;border: 1px solid rgb(0,0,0,.1);border-radius: 9999px;text-transform: uppercase;font-size: 12px;line-height: 1;padding: 9px 0;text-decoration: none;color: rgb(119,119,119);min-width: 38px;box-sizing: border-box;width: 38px"><img class="icon" src="https://substackcdn.com/image/fetch/$s_!x1tS!,w_36,c_scale,f_png,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack.com%2Ficon%2FLucideComments%3Fv%3D4%26height%3D36%26fill%3Dnone%26stroke%3D%2523808080%26strokeWidth%3D2" width="18" height="18" style="border: none;vertical-align: middle;max-width: 18px" alt=""></a></td></tr></tbody></table></td><td width="8" style="min-width:8px;"></td><td style="vertical-align:middle;"><table role="presentation" width="38" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td align="center"><a class="email-icon-button" href="https://substack.com/app-link/post?publication_id=2291516&post_id=189264863&utm_source=substack&utm_medium=email&utm_content=share&utm_campaign=email-share&action=share&triggerShare=true&isFreemail=true&r=8o54n&token=eyJ1c2VyX2lkIjoxNDU2MzMxOSwicG9zdF9pZCI6MTg5MjY0ODYzLCJpYXQiOjE3NzI0NTY2MTQsImV4cCI6MTc3NTA0ODYxNCwiaXNzIjoicHViLTIyOTE1MTYiLCJzdWIiOiJwb3N0LXJlYWN0aW9uIn0.iUC-WldZYTAPVLuxWO3dCkeJ6XxpugecapEIa4cxTBw" style="font-family: system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';display: inline-block;font-weight: 500;border: 1px solid rgb(0,0,0,.1);border-radius: 9999px;text-transform: uppercase;font-size: 12px;line-height: 1;padding: 9px 0;text-decoration: none;color: rgb(119,119,119);min-width: 38px;box-sizing: border-box;width: 38px"><img class="icon" src="https://substackcdn.com/image/fetch/$s_!_L14!,w_36,c_scale,f_png,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack.com%2Ficon%2FLucideShare2%3Fv%3D4%26height%3D36%26fill%3Dnone%26stroke%3D%2523808080%26strokeWidth%3D2" width="18" height="18" style="border: none;vertical-align: middle;max-width: 18px" alt=""></a></td></tr></tbody></table></td><td width="8" style="min-width:8px;"></td><td style="vertical-align:middle;"><table role="presentation" width="38" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td align="center"><a class="email-icon-button" href="https://substack.com/redirect/2/eyJlIjoiaHR0cHM6Ly9vcGVuLnN1YnN0YWNrLmNvbS9wdWIvYXN0ZXJpc2ttYWcvcC9mYWN0b3J5LWxvZ2ljP3V0bV9zb3VyY2U9c3Vic3RhY2smdXRtX21lZGl1bT1lbWFpbCZ1dG1fY2FtcGFpZ249ZW1haWwtcmVzdGFjay1jb21tZW50JmFjdGlvbj1yZXN0YWNrLWNvbW1lbnQmcj04bzU0biZ0b2tlbj1leUoxYzJWeVgybGtJam94TkRVMk16TXhPU3dpY0c5emRGOXBaQ0k2TVRnNU1qWTBPRFl6TENKcFlYUWlPakUzTnpJME5UWTJNVFFzSW1WNGNDSTZNVGMzTlRBME9EWXhOQ3dpYVhOeklqb2ljSFZpTFRJeU9URTFNVFlpTENKemRXSWlPaUp3YjNOMExYSmxZV04wYVc5dUluMC5pVUMtV2xkWllUQVBWTHV4V08zZENrZUo2WHhwdWdlY2FwRUlhNGN4VEJ3IiwicCI6MTg5MjY0ODYzLCJzIjoyMjkxNTE2LCJmIjp0cnVlLCJ1IjoxNDU2MzMxOSwiaWF0IjoxNzcyNDU2NjE0LCJleHAiOjIwODgwMzI2MTQsImlzcyI6InB1Yi0wIiwic3ViIjoibGluay1yZWRpcmVjdCJ9.r-3ePOEvoMzfDY4JIfSUp_isJZSlSI9A9uSrlIcnWac?&utm_source=substack&utm_medium=email" style="font-family: system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';display: inline-block;font-weight: 500;border: 1px solid rgb(0,0,0,.1);border-radius: 9999px;text-transform: uppercase;font-size: 12px;line-height: 1;padding: 9px 0;text-decoration: none;color: rgb(119,119,119);min-width: 38px;box-sizing: border-box;width: 38px"><img class="icon" src="https://substackcdn.com/image/fetch/$s_!5EGt!,w_36,c_scale,f_png,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack.com%2Ficon%2FNoteForwardIcon%3Fv%3D4%26height%3D36%26fill%3Dnone%26stroke%3D%2523808080%26strokeWidth%3D2" width="18" height="18" style="border: none;vertical-align: middle;max-width: 18px" alt=""></a></td></tr></tbody></table></td></tr></tbody></table></td><td align="right"><table role="presentation" width="auto" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td style="vertical-align:middle;"><table role="presentation" width="auto" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td align="center"><a class="email-button-outline" href="https://open.substack.com/pub/asteriskmag/p/factory-logic?utm_source=email&redirect=app-store&utm_campaign=email-read-in-app" style="font-family: system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';display: inline-block;font-weight: 500;border: 1px solid rgb(0,0,0,.1);border-radius: 9999px;text-transform: uppercase;font-size: 12px;line-height: 12px;padding: 9px 14px;text-decoration: none;color: rgb(119,119,119);"><div class="email-button-spacer" style="font-size: 16px;line-height: 26px;display: inline-block;vertical-align: middle;max-width: 0;min-height: 18px;"></div><span class="email-button-text" style="vertical-align: middle;margin-right: 4px">READ IN APP</span><img class="icon text-icon" src="https://substackcdn.com/image/fetch/$s_!ET-_!,w_36,c_scale,f_png,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack.com%2Ficon%2FLucideArrowUpRight%3Fv%3D4%26height%3D36%26fill%3Dnone%26stroke%3D%2523808080%26strokeWidth%3D2" width="18" height="18" style="min-width: 18px;min-height: 18px;border: none;vertical-align: middle;margin-right: 0;margin-left: 0;max-width: 18px" alt=""></a></td></tr></tbody></table></td></tr></tbody></table></td></tr></tbody></table></td></tr><tr height="16"><td height="16" style="font-size:0px;line-height:0;">&nbsp;</td></tr></tbody></table></div></div><div class="post typography" dir="auto" style="--image-offset-margin: -120px;padding: 32px 0 0 0;font-size: 16px;line-height: 26px;"><div class="body markup" dir="auto" style="text-align: initial;font-size: 16px;line-height: 26px;width: 100%;word-break: break-word;margin-bottom: 16px;"><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;margin-top: 0;"><em><span>Our next issue is about Risk. </span><a href="https://substack.com/redirect/e9d7798c-f335-4008-a966-1136262457f1?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel="" style="color: #fe6e50;text-decoration: none;">Subscribe to the print magazine</a><span> by March 31 to receive a copy.</span></em></p><div style="font-size: 16px;line-height: 26px;"><hr style="margin: 32px 0;padding: 0;height: 1px;background: rgb(0,0,0,.1);border: none;"></div><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;"><em><a href="https://substack.com/redirect/6f2b8514-640f-4eba-b061-1b42cb8bfb3d?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel="" style="color: #fe6e50;text-decoration: none;">Made in Ethiopia</a></em><span> is a documentary about factories, specifically Chinese factories. It deserves attention from anyone thinking seriously about US reindustrialization and from anyone trying to understand how China touches the world.</span></p><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;">I watched it this past May in San Francisco. Afterward, I couldn&#8217;t stop thinking about it. Its story felt uncannily familiar: The grammar of modernization in Ethiopia echoed that of the China I grew up in. It pressed on the part of my writer&#8217;s brain that keeps circling words like &#8220;labor&#8221; and &#8220;reindustrialization&#8221; &#8212; the currents moving through the intellectual world I&#8217;m part of.</p><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;"><span>The film follows Eastern Industrial Park, a garment manufacturing complex in rural Ethiopia built in the wake of the Belt and Road Initiative. The ambitions were considerable: expanding factory operations, promising the local government 30,000 new jobs, and carrying the weight of China&#8217;s development narrative abroad. Director </span><a href="https://substack.com/redirect/e77b1fe1-bb90-43b8-bc05-182aadae23ba?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel="" style="color: #fe6e50;text-decoration: none;">Xinyan Yu</a><span> structures the story around three women: Motto, an ambitious Chinese factory manager navigating impossible quotas; Beti, an Ethiopian worker learning the rhythms of the factory floor; and Workinesh, a local farmer whose land vanished beneath industrial expansion. Through them, the documentary poses quiet, hard questions about what industrialization means, what progress costs, and how China &#8212; as a manufacturing power &#8212; shapes the experience of modernization in African nations.</span></p><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;"><span>Xinyan is an Emmy-winning documentary director whose work has tracked how big geopolitical forces shape ordinary people&#8217;s lives. We&#8217;ve known each other for years. We both grew up in a China undergoing what Dan Wang describes as ubiquitous &#8220;physical dynamism&#8221; &#8212; an obsession with building, with progress, with creating some grand future. That shared backdrop gives us an involuntary sense of shared intimacy with </span><em>Made in Ethiopia</em><span>&#8217;s themes. The film, ostensibly about Ethiopian development, also holds our generation&#8217;s quieter reflections on our own relationship to progress.</span></p><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;"><span>Xinyan and I were also shaped by the feminist discourse that emerged in Chinese internet spaces starting around 2018. Our work has been part of that dialogue &#8212; my podcast, </span><em>CyberPink</em><span>, carries that feminist sensibility forward. The feminist perspective in </span><em>Made in Ethiopia</em><span> arrives not as an angle chosen but as a way of seeing we can&#8217;t unlearn. At its heart, the film explores Ethiopian and Chinese women&#8217;s relationship with modernization itself &#8212; as something that reshapes their days, their bodies, their possibilities, their sense of what life might hold.</span></p><h3 class="header-anchor-post" style="position: relative;font-family: 'SF Pro Display',-apple-system-headline,system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';font-weight: bold;-webkit-font-smoothing: antialiased;-moz-osx-font-smoothing: antialiased;-webkit-appearance: optimizelegibility;-moz-appearance: optimizelegibility;appearance: optimizelegibility;margin: 1em 0 0.625em 0;color: rgb(54,55,55);line-height: 1.16em;font-size: 1.375em;">Exporting the Chinese model? </h3><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;"><strong>Afra:</strong><span> Most documentaries about China&#8217;s development fall into one of two camps: Either they scrutinize China with a critical eye, treating it as an imminent threat, or they maintain such distance from their subjects that the whole thing becomes incomprehensible. But </span><em>Made in Ethiopia</em><span> has a unique perspective. Through these three women, I could see how this story touches my own life. I found it deeply resonant. This film deserves to be studied.</span></p><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;"><strong>Xinyan:</strong><span> Thank you. That really means a lot. What&#8217;s interesting is when we screened in Ethiopia last May, the Chinese ambassador attended one of our showings, which tells you the film has had some impact. He talked about his previous posting as ambassador to Myanmar, describing identical problems there &#8212; industrial parks, civil war, dam controversies, all entangled with China. He said none of this was new to him. The labor and land issues discussed in the film weren&#8217;t new either. What mattered most to him, he said, was the framework we chose to present the story.</span></p><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;"><strong>Afra:</strong><span> I recently participated in a writing fellowship about &#8220;progress.&#8221; The program emerged from Western reflections on stagnation in science and technology, bringing together Silicon Valley entrepreneurs, scholars, and people interested in frontier tech topics. Everyone was asking the same question: How does the West rethink progress in 2025, and how can it become aspirational again, rather than nostalgic or technocratic?</span><br><br><span>Today&#8217;s China has become a mirror for Western progress. America wants to reindustrialize but has no road map. China offers a vision of what&#8217;s possible, of what can actually be done.</span></p><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;">I watched your documentary in May, but it keeps circulating in my mind. I wanted to ask: Do you feel like China has uprooted its entire logic of progress and transplanted it into Ethiopia? There are so many shots in the film &#8212; factory women going to the city to join parades, living urban lives. The appearance of those streets, the asphalt roads, the architectural style, the trucks, the color of the streetlights &#8212; all this infrastructure could be entirely Chinese. It gave me a kind of phantom sensation, like I was watching the streets of a Chinese factory town in 2003. Do you get that sense of China&#8217;s progress being copy-pasted into Ethiopia?</p><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;"><strong>Xinyan:</strong><span> Actually, what I really want to say is that China didn&#8217;t invent the so-called Chinese model of progress. A hundred years ago, during the Industrial Revolution, London had the same problems. </span><em>Oliver Twist</em><span> depicts child labor and air pollution. The side effects or trade-offs of industrialization aren&#8217;t Chinese inventions.</span></p><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;">Moreover, when China opened up, it was Korean and Taiwanese companies investing in China. The piece-rate wage system that Chinese factories initially adopted wasn&#8217;t invented by the Chinese; it was brought by Taiwanese factories. When people talk about China&#8217;s development model as a &#8220;Chinese model,&#8221; they&#8217;re really saying this model was particularly successful in China. But there&#8217;s something else: Chinese people have an extraordinarily intense obsession with the future &#8212; whether it&#8217;s technology, their attitude toward working for family, or their approach to family itself, everything is future-oriented. Ethiopians, by contrast, are deeply attached to the present and past.</p><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;">I think Motto, the Chinese factory manager in the film, shares this obsession with the future and upward mobility, this fixation on self-improvement. As a Chinese immigrant myself, I have it too &#8212; the moment my life, even just a weekend, begins to feel stagnant, I get anxious.</p><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;">I&#8217;ve thought for a long time about why Chinese and Ethiopians have these mutual stereotypes. Chinese people think Ethiopians are lazy, believe wages are heaven-sent, don&#8217;t like overtime. Ethiopians think Chinese people have no family affection, can go five years without going home, love money, are incredibly hardworking, but no one cares about enjoying life. Both sides constantly judge each other. I kept wondering &#8212; these stereotypes must have a source.</p><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;">I think Ethiopians and Chinese have very different views on progress. Chinese people bought into a promise of &#8220;bitter now, sweet later&#8221; &#8212; work 30 years, then you can taste the sweetness. My parents&#8217; generation really believed in that vision. Of course, that vision involves trade-offs. Think about the slogans we heard growing up: &#8220;Develop first, govern later&#8221;; &#8220;let some people get rich first.&#8221; The reverse of these phrases all contain rubber-band elasticity.</p><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;">I think this is an incredibly brutal development philosophy &#8212; there will always be people left behind. Chinese people already have this insecurity, where a large portion fear being left behind by the advancing pace of development.</p><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;"><strong>Afra:</strong><span> Right. Everyone seems to be in a race, but the only purpose of the race is not wanting to be the one left behind. What struck me was when a Chinese worker in the documentary saw Ethiopia&#8217;s economic situation and said, &#8220;Backwardness invites attack; development is the absolute principle.&#8221; When I heard that, I thought, &#8220;This is so Chinese, so sloganeering!&#8221; But if you dropped me in Ethiopia, I&#8217;d probably think the same way because this is the developmentalism philosophy that I was raised with. </span></p><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;"><strong>Xinyan:</strong><span> Exactly. I think what many Chinese call their strong work ethic doesn&#8217;t come from loving their work. It comes from fear: fear of poverty, fear of backwardness. I can feel this fear in myself. The moment things stagnate, the moment there&#8217;s any relaxation, I get this strange anxiety. I&#8217;ve been trying to analyze where this anxiety comes from. All my hobbies seem like they need to be some means of self-improvement to be valid. If it&#8217;s a completely casual hobby, I feel like it has no meaning. I always want a hobby that elevates me.</span></p><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;">About Ethiopians being attached to the present and past: Ethiopian traditions themselves contain many harmful practices, like forced marriage and other restrictions on women. So when industrialization arrived, these rural women were eager to participate.</p><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;"><span>Leslie Chang, who wrote about Chinese factory women during industrialization, recently published a new book about Egyptian factory women participating in industrialization. </span><em>Egyptian Made</em><span> (2024) mentions that industrialization brought some conveniences to Egyptian women, but many female workers bore tremendous pressure managing children and household life while continuing factory work. In Egypt, though industrialization liberated women, many ultimately returned to family life.</span><span class="footnote-anchor-email" data-component-name="FootnoteAnchorToDOMStatic" style="font-size: 20px;">&#185;</span><span> In Ethiopia, I see similar patterns. Women go to work in factories but eventually return to the family. Even Beti in our film, her ultimate wish is to marry someone slightly wealthier than her. No matter what economic independence industrialization brings her now, she still wants to return to family.</span></p><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;"><strong>Afra:</strong><span> I feel like Chinese society&#8217;s entire infrastructure, on mental and cultural levels, is more permissive or encouraging of women living alone in big cities. Women traveling alone at night isn&#8217;t a problem. And I realized this isn&#8217;t universal everywhere. It certainly wouldn&#8217;t work in India, and even in places in Japan you&#8217;d feel some danger.</span></p><div class="captioned-image-container-static" style="font-size: 16px;line-height: 26px;margin: 32px auto;"><figure style="width: 100%;margin: 0 auto;"><table class="image-wrapper" width="100%" border="0" cellspacing="0" cellpadding="0" data-component-name="Image2ToDOMStatic" style="mso-padding-alt: 1em 0 1.6em;"><tbody><tr><td style="text-align: center;"></td><td class="content" align="left" width="800" style="text-align: center;"><a class="image-link" target="_blank" href="https://substack.com/redirect/e200ed3f-d2a4-49ae-a1ac-dc8dfadd6a07?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel="" style="position: relative;flex-direction: column;align-items: center;padding: 0;width: auto;height: auto;border: none;text-decoration: none;display: block;margin: 0;"><img class="wide-image" data-attrs="{&quot;src&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/a09012f7-6c44-4feb-9d8f-707b59c04f65_800x1191.png&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:null,&quot;height&quot;:1191,&quot;width&quot;:800,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:1568339,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:&quot;image/png&quot;,&quot;href&quot;:null,&quot;belowTheFold&quot;:true,&quot;topImage&quot;:false,&quot;internalRedirect&quot;:&quot;https://asteriskmag.substack.com/i/189264863?img=https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa09012f7-6c44-4feb-9d8f-707b59c04f65_800x1191.png&quot;,&quot;isProcessing&quot;:false,&quot;align&quot;:null,&quot;offset&quot;:false}" alt="" width="550" height="818.8125" src="https://substackcdn.com/image/fetch/$s_!nqBr!,w_1100,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa09012f7-6c44-4feb-9d8f-707b59c04f65_800x1191.png" style="border: none !important;vertical-align: middle;display: block;-ms-interpolation-mode: bicubic;height: auto;margin-bottom: 0;width: auto !important;max-width: 100% !important;margin: 0 auto;"></a></td><td style="text-align: center;"></td></tr></tbody></table></figure></div><h3 class="header-anchor-post" style="position: relative;font-family: 'SF Pro Display',-apple-system-headline,system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';font-weight: bold;-webkit-font-smoothing: antialiased;-moz-osx-font-smoothing: antialiased;-webkit-appearance: optimizelegibility;-moz-appearance: optimizelegibility;appearance: optimizelegibility;margin: 1em 0 0.625em 0;color: rgb(54,55,55);line-height: 1.16em;font-size: 1.375em;">When factory logic doesn&#8217;t take root</h3><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;"><strong>Afra:</strong><span> Watching your documentary, I felt like factory logic couldn&#8217;t truly take root there. What I mean by </span><em>factory logic</em><span> is that it implies a way of life. China has many factory towns, right? I remember in Peter Hessler&#8217;s </span><em>Country Driving</em><span>, he&#8217;d drive and suddenly arrive at a town where the entire town makes bras. The next town, the entire town makes leather shoes. Now they&#8217;ve just been replaced by higher-end products, like drone components or premium charging cables.</span></p><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;">In these towns, the breathing, the bloodstream, the entire way of life revolves around manufacturing: Local governments build infrastructure to serve industrial workers. Entertainment, restaurants, all of life&#8217;s facilities center around the workers. My sense is that Eastern Industrial Park in Ethiopia hasn&#8217;t formed this kind of ecosystem around it. Do you feel that way?</p><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;"><strong>Xinyan:</strong><span> Definitely not, including Dukem and several larger towns around Hawassa. Hawassa is a tourist city with its own independent ecosystem.</span><span class="footnote-anchor-email" data-component-name="FootnoteAnchorToDOMStatic" style="font-size: 20px;">&#178;</span><span> Dukem basically completely relies on the influx of workers. We thought it was miraculous at the time &#8212; within five years, so many factories arrived, not just Chinese but Korean, Turkish, Indian. But the local government was incredibly shortsighted.</span></p><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;">They constantly came to factories asking for money, soliciting donations. Each mayor who came had different demands. The current mayor wants factories to give them free cement because cement is scarce. The previous mayor wanted to build a city park, so he came around collecting money.</p><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;">In my documentary, there&#8217;s a mayor who says, &#8220;Chinese people, we gave you billions. You only returned us pennies. You didn&#8217;t build us markets, hospitals, or schools.&#8221; Many people feel corporate social responsibility wasn&#8217;t fulfilled.</p><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;">But Chinese entrepreneurs are very pragmatic. I asked them, &#8220;This thing was promised. Why wasn&#8217;t it built?&#8221; They said, &#8220;You didn&#8217;t even let us complete phase two. Why should we build you schools and hospitals?&#8221; They had prepared to build a school, but because the design was constantly disputed, they argued endlessly, and finally the school wasn&#8217;t built.</p><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;">About that mayor, during one screening I chatted with a friend who said, &#8220;Don&#8217;t you think it&#8217;s strange, a mayor standing up saying, &#8216;You give me a hospital. You give me a school&#8217;?&#8221; I said, &#8220;Isn&#8217;t that what local government should do? Shouldn&#8217;t the government collect taxes and then expand roads?&#8221;</p><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;">Dukem now has serious problems. There are many factories there, and everyone commutes through traffic jams every day because all the buses are stuck on the road. That road really only has two lanes: one coming, one going. It could totally be expanded.</p><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;">And they could do what Chinese industrial city Dongguan does: have factories build dormitories or have the government build affordable housing. Ethiopians don&#8217;t like living collectively the way Chinese people find acceptable, but the government could build affordable housing, studio apartments. In China these are completely normal supporting facilities that local governments would provide. But Ethiopia doesn&#8217;t have this.</p><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;">I think all local officials are incredibly shortsighted. One reason is regime changes are very unstable &#8212; someone new is always about to take office.</p><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;">We discussed Meles, two prime ministers before Abiy, the current prime minister, a figure like Deng Xiaoping, a Tigrayan who fought his way out of the jungle with millet and rifles and ruled with an iron fist. Under his rule, Ethiopia&#8217;s anti-corruption efforts were very tough, and they also had double-digit growth, like China. He also sent Ethiopian officials to China to learn factory management.</p><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;">Now, Abiy is more pro-Western. Initially, he was very pro-American, won the Nobel Prize, wanted to hire young people and hire more women in his cabinet. He sounded better. But now many people complain he&#8217;s made this so-called democratic government full of corruption and all kinds of nepotism.</p><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;">Ethiopia&#8217;s investment bureau &#8212; when we were there, the director was a 27- or 28-year-old woman. No one respected her because she had no experience, and no one knew why she got such a high position.</p><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;">In Addis Ababa there&#8217;s a large Friendship Park that Chinese people built for free. Now you must pay about five or six dollars to enter &#8212; that&#8217;s probably half a month&#8217;s wages for an Ethiopian. Absolutely not built for the people.</p><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;">I recently read a paper by a Dutch university professor specializing in Chinese economic development. He said Meles studied China to consolidate his own rule, using iron-fist governance to improve the economy.</p><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;">So now Abiy&#8217;s government is completely chaotic. All factory owners can&#8217;t get US dollars now. They use dollars to purchase raw materials and sell in birr. The Ethiopian birr exchange rate is extremely unstable. Maybe this month you earn 1,000 birr; next month 1,000 birr has the same value as 500 birr before. All factory owners are struggling now because the country&#8217;s infrastructure hasn&#8217;t reached a level that enables stable economic development.</p><div class="subscribe-widget is-signed-up" data-component-name="SubscribeWidget" style="margin: 0 0 1em;direction: ltr;font-size: 16px;line-height: 26px;"><div class="pencraft pc-reset button-wrapper" style="text-decoration: unset;list-style: none;font-size: 16px;line-height: 26px;text-align: center;cursor: pointer;border-radius: 4px;"><a class="button subscribe-btn primary" href="https://substack.com/redirect/2/eyJlIjoiaHR0cHM6Ly9hc3Rlcmlza21hZy5zdWJzdGFjay5jb20vc3Vic2NyaWJlP3V0bV9zb3VyY2U9cG9zdCZ1dG1fY2FtcGFpZ249ZW1haWwtY2hlY2tvdXQmbmV4dD1odHRwcyUzQSUyRiUyRmFzdGVyaXNrbWFnLnN1YnN0YWNrLmNvbSUyRnAlMkZmYWN0b3J5LWxvZ2ljJnI9OG81NG4mdG9rZW49ZXlKMWMyVnlYMmxrSWpveE5EVTJNek14T1N3aWFXRjBJam94TnpjeU5EVTJOakUwTENKbGVIQWlPakUzTnpVd05EZzJNVFFzSW1semN5STZJbkIxWWkweU1qa3hOVEUySWl3aWMzVmlJam9pWTJobFkydHZkWFFpZlEuOWdvVWdYMGFTdmFuN1ZkQVY2Y2liNHdZTTJWT0FaQ1U2Q2Z4WEk0Z05aNCIsInAiOjE4OTI2NDg2MywicyI6MjI5MTUxNiwiZiI6dHJ1ZSwidSI6MTQ1NjMzMTksImlhdCI6MTc3MjQ1NjYxNCwiZXhwIjoyMDg4MDMyNjE0LCJpc3MiOiJwdWItMCIsInN1YiI6ImxpbmstcmVkaXJlY3QifQ.8fFCab3QWzMBmAlw73XnhGyB6mjKe8evmuzaEB9JzBg?&utm_medium=email&utm_source=subscribe-widget&utm_content=189264863" style="font-family: system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';display: inline-block;box-sizing: border-box;cursor: pointer;border: none;border-radius: 8px;font-size: 14px;line-height: 20px;font-weight: 600;text-align: center;opacity: 1;outline: none;white-space: nowrap;text-decoration: none !important;margin: 0 auto;background-color: #fe6e50;color: #ffffff !important;padding: 12px 20px;height: auto;"><span style="color: #ffffff;text-decoration: none;">Upgrade to paid</span></a></div></div><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;"></p><h3 class="header-anchor-post" style="position: relative;font-family: 'SF Pro Display',-apple-system-headline,system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';font-weight: bold;-webkit-font-smoothing: antialiased;-moz-osx-font-smoothing: antialiased;-webkit-appearance: optimizelegibility;-moz-appearance: optimizelegibility;appearance: optimizelegibility;margin: 1em 0 0.625em 0;color: rgb(54,55,55);line-height: 1.16em;font-size: 1.375em;">Worker counterculture in China</h3><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;"><strong>Afra:</strong><span> I always feel like building factories is one thing, but whether factory logic can actually take root is another.</span></p><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;"><span>That&#8217;s why I often think of the 2019 documentary </span><em><a href="https://substack.com/redirect/aa5098d6-9182-46b8-9187-c1554bf6e56a?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel="" style="color: #fe6e50;text-decoration: none;">We Were Smart</a></em><span> &#8212;</span><em>&#12298;&#26432;&#39532;&#29305;&#65292;&#25105;&#29233;&#20320;</em><span>. It follows young migrant workers in Guangdong&#8217;s electronics factories in the 2000s and 2010s, and shows not only how they worked but how they lived. After long shifts, they went to skating rinks, internet caf&#233;s, cheap photo studios; they built entire online communities on QQ, and they created the flamboyant &#8220;shamate &#26432;&#39532;&#29305;&#8221; hairstyle and aesthetic as a form of self-expression. The film also makes clear how misunderstood they were: mocked as &#8220;low quality&#8221; while they were really trying to assert identity and dignity within harsh industrial conditions.</span></p><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;">I&#8217;m not saying the shamate world was some golden age. It was part of China&#8217;s growing pains, a subculture born from rural youth thrown into accelerated industrialization. But that&#8217;s exactly the point: If you want factory logic to take root, you need worker culture to take root too &#8212; people having their own aesthetics, leisure, and countercultural spaces. Without that, you only have factories, not an industrial society.</p><div class="captioned-image-container-static" style="font-size: 16px;line-height: 26px;margin: 32px auto;"><figure style="width: 100%;margin: 0 auto;"><table class="image-wrapper" width="100%" border="0" cellspacing="0" cellpadding="0" data-component-name="Image2ToDOMStatic" style="mso-padding-alt: 1em 0 1.6em;"><tbody><tr><td style="text-align: center;"></td><td class="content" align="left" width="1080" style="text-align: center;"><a class="image-link" target="_blank" href="https://substack.com/redirect/7182237b-14a3-405c-9aa2-0070aafbe5d2?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel="" style="position: relative;flex-direction: column;align-items: center;padding: 0;width: auto;height: auto;border: none;text-decoration: none;display: block;margin: 0;"><img class="wide-image" data-attrs="{&quot;src&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/f9f9a5cb-231c-48c5-9407-0e9c5dbc1076_1080x1586.png&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:null,&quot;height&quot;:1586,&quot;width&quot;:1080,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:3118108,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:&quot;image/png&quot;,&quot;href&quot;:null,&quot;belowTheFold&quot;:true,&quot;topImage&quot;:false,&quot;internalRedirect&quot;:&quot;https://asteriskmag.substack.com/i/189264863?img=https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff9f9a5cb-231c-48c5-9407-0e9c5dbc1076_1080x1586.png&quot;,&quot;isProcessing&quot;:false,&quot;align&quot;:null,&quot;offset&quot;:false}" alt="" width="550" height="807.6851851851852" src="https://substackcdn.com/image/fetch/$s_!HXkN!,w_1100,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff9f9a5cb-231c-48c5-9407-0e9c5dbc1076_1080x1586.png" style="border: none !important;vertical-align: middle;display: block;-ms-interpolation-mode: bicubic;height: auto;margin-bottom: 0;width: auto !important;max-width: 100% !important;margin: 0 auto;"></a></td><td style="text-align: center;"></td></tr></tbody></table></figure></div><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;"><strong>Xinyan:</strong><span> I watched </span><em>We Were Smart</em><span>. It&#8217;s actually quite sad. It made me think about how China used to be very similar to Ethiopia. In the Ethiopia film, many people earn only $50 a month but go get their hair done every weekend. This is very similar to the shamate culture in Guangdong.</span></p><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;">Don&#8217;t underestimate their hair-doing &#8212; sometimes their hair makes them look 10 years older. They especially love sitting there, getting their hair done, and it becomes a small social club. I think there are many similarities between young Chinese people then and Ethiopians now.</p><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;">I often think about why factory logic is so incompatible with Ethiopia. One reason is local government is very ineffective and shortsighted, wanting to extort money from Chinese and various enterprises. It&#8217;s also because nation-building is particularly lacking, like currency problems.</p><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;"><span>We discussed overtime at the time. The documentary </span><em>American Factory</em><span>,</span><em> </em><span>which is about a Chinese company opening a factory in Ohio,</span><em> </em><span>talks a lot about this. People are very willing to work weekends and overtime. In Ethiopia, if you ask them to work overtime, they don&#8217;t want to. Chinese people all think they don&#8217;t want overtime because they&#8217;re lazy.</span></p><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;">One thing Chinese people especially love to complain about is that Ethiopian workers don&#8217;t save money. Beti, the Ethiopian factory worker, explained, &#8220;Saving $50 now means nothing to me because next month it becomes $25. I might as well spend it.&#8221;</p><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;">So these things they talk about &#8212; including not saving money, not wanting overtime &#8212; they all think it&#8217;s laziness or wasteful spending, but there are many social reasons behind it. I really understand why Beti does this.</p><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;"><span>When I watched </span><em>We Were Smart</em><span>, I felt it was very similar to Ethiopia &#8212; both are growing pains of industrialization, maybe more severe in Ethiopia. They have some night school classes. We went to see them too &#8212; teaching them how to use some really broken computers. But it&#8217;s really a drop in the bucket, because those female workers can only get off at 6 p.m., and night school starts at 5 p.m. They simply can&#8217;t make it. If they make it, they might not be able to eat.</span></p><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;">Supporting measures are too sloppy, completely not considering factory employees&#8217; real, practical needs.</p><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;">Local government drops the ball, and Chinese investors are opportunistic. They clearly know they could let people off an hour early to let them study Chinese, but they won&#8217;t.</p><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;">But let me tell you, when we were at the Eastern Industrial Park entrance, we went to an Indian steel factory &#8212; I looked and it was even more chaotic than China. Such long steel bars being moved around, cranes swinging about, no one wearing safety helmets. It was only because the mayor was visiting that they hastily got some helmets to wear.</p><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;">I think Eastern Industrial Park did pretty well already because it&#8217;s a large industrial park with many people visiting. Later I read other things by that Dutch professor. He said Dutch people also have many flower factories in Ethiopia, also employing many female workers. He said Dutch factories and Chinese factories have different attitudes toward labor: Chinese factories use piece-rate wages to incentivize workers, then think, &#8220;If you earn less, it&#8217;s your own problem. I gave you this framework. You could clearly do more pieces and earn more money. If you don&#8217;t want to earn, that&#8217;s not my problem.&#8221;</p><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;">Dutch factories&#8217; attitude is: &#8220;The law stipulates that everyone gets $50. I don&#8217;t need to give you more.&#8221; That paper wanted to see if Chinese enterprises are different from Western enterprises. Regarding labor, there&#8217;s actually no major difference overall. So I think many people say Chinese factories are this way, but it&#8217;s really a capitalism problem, not unique to China.</p><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;">And factory logic can&#8217;t take root also because &#8212; as people in the film said &#8212; industrialization must be a bottom-up, continuously invested thing. If any link in the middle drops the ball, benefit distribution becomes very uneven, everyone has their own resentments, and the whole system can&#8217;t turn.</p><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;"><strong>Afra:</strong><span> When I was watching, I also thought of a </span><em>Rest of World</em><span> journalist, Viola Zhou, who went to see a small American town in Michigan trying to build a Chinese lithium battery factory. The factory is part of America&#8217;s reindustrialization plan. But this factory couldn&#8217;t progress at all.</span></p><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;"><span>She went on a </span><a href="https://substack.com/redirect/8be8e3e3-4b69-4107-8b17-c546bdb40bd7?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel="" style="color: #fe6e50;text-decoration: none;">Chinese tech podcast </a><em><a href="https://substack.com/redirect/8be8e3e3-4b69-4107-8b17-c546bdb40bd7?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel="" style="color: #fe6e50;text-decoration: none;">Pixel Perfect</a></em><span>, hosted by my friends, saying American small-town politics actually obstructs factory building. American small-town politics, national-level reindustrialization politics and policy, Michigan&#8217;s own KPIs &#8212; these things are all misaligned. These pieces don&#8217;t connect. Forces aren&#8217;t pulling together.</span></p><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;">America&#8217;s reindustrialization is encountering this problem: Local government can&#8217;t make factory logic take root. I  feel Americans culturally aren&#8217;t prepared for worker culture either.</p><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;"><strong>Xinyan:</strong><span> No. I think it&#8217;s not ready to go back to being workers, because America has already experienced industrialization. When we screened the film in Cleveland, at that time I knew nothing about Cleveland, but when we went I thought, &#8220;Why is it so depressed, especially downtown, those huge smokestacks all abandoned?&#8221;</span></p><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;">During the screening they said Cleveland was actually incredibly impressive a hundred years ago, with some of the nation&#8217;s most magnificent hotels. The theater where we screened was also built then, especially beautiful, resplendent. But now it&#8217;s miserable because it almost got demolished by developers. Only because local civic groups spoke up was the theater finally preserved.</p><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;">Many people watched the film with emotion, saying Cleveland is already a post-industrialized world, now starting to develop medical and other industries. And the especially wealthy people are all in medical industries like cancer research.</p><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;">At that time they also told me Cleveland back then also had various pollution and child labor problems, because these are the inevitable paths of industrialization. So we really wanted to know: In the future, will other Global South countries that want to develop still have to go through all this?</p><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;"><strong>Afra:</strong><span> Right. I now spend half my time in London, and I often go to flea markets in Shoreditch on weekends. That market used to be a big textile factory during the Victorian era. About 150 ago, Britain already started deindustrializing. It&#8217;s just that I think, although the earth feels pretty small, it&#8217;s actually quite large. Different places develop at speeds separated by centuries, and you can see these traces and previously walked paths very tangibly.</span></p><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;">Coming back to America&#8217;s reindustrialization plan, I always feel America is not ready. Because like you said, this so-called factory logic, whether it&#8217;s the China model or other models, all have some very unpleasant aspects. Is the US ready to accept such unpleasantness?</p><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;"><strong>Xinyan:</strong><span> It&#8217;s very ironic. At the time I was making the film, I read an article about a Herm&#232;s factory. To please the American government, they specifically moved a factory to Texas. The article said the error rate there is the highest of all factories, and costs are also extremely high.</span></p><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;">TSMC&#8217;s factory in Arizona is the same. They encountered many interesting problems at the beginning, like bringing many Taiwanese employees for training and helping build the factory, all encountered visa problems, local public opinion problems. Because they said, &#8220;Why are you building a factory here and not creating jobs for us at all?&#8221; But TSMC&#8217;s side also feels wronged, saying, &#8220;These highly technical jobs, if I have to train you people, the timeline definitely can&#8217;t be guaranteed.&#8221;</p><h3 class="header-anchor-post" style="position: relative;font-family: 'SF Pro Display',-apple-system-headline,system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';font-weight: bold;-webkit-font-smoothing: antialiased;-moz-osx-font-smoothing: antialiased;-webkit-appearance: optimizelegibility;-moz-appearance: optimizelegibility;appearance: optimizelegibility;margin: 1em 0 0.625em 0;color: rgb(54,55,55);line-height: 1.16em;font-size: 1.375em;">The double standard of dumping</h3><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;"><strong>Xinyan:</strong><span> Actually, Americans are also proud of their own industrialization. Previously, when I was doing research for PBS, I contacted a factory in Ohio specializing in solar panels called First Solar, which did a lot of lobbying to counter Chinese dumping.</span></p><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;">They hope America will eliminate all Chinese solar panels from the market because they themselves can&#8217;t be competitive. If only doing it in America&#8217;s market, not only can the technology not compare with China, but labor-wise it doesn&#8217;t work either, so they have to rely on policy.</p><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;">Actually, isn&#8217;t this just tearing a page out of China&#8217;s textbook? Chinese dumping is also for policy reasons &#8212; there are many tax breaks and subsidies because the Chinese government wants Chinese solar panels to be more competitive. It&#8217;s actually a tariff barrier; these things are all government protectionism from a policy level.</p><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;">At that time I thought First Solar was really criticizing protectionism, but they also want the American government to do the same as China &#8212; adopt more protectionist measures.</p><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;"><strong>Afra: </strong><span>Right. There&#8217;s a kind of hall-of-mirrors effect here. Everyone denounces everyone else&#8217;s protectionism as immoral while lobbying for their own. And because Apple, TSMC, Foxconn, and all these supply chains are so entangled with China, it becomes convenient for American commentators to talk as if China simply &#8220;trapped&#8221; Western firms, without really dwelling on how Chinese workers and towns actually paid the price.</span></p><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;"><strong>Xinyan:</strong><span> I read an </span><a href="https://substack.com/redirect/a2bfe171-260b-4b75-87a3-77f57087490e?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel="" style="color: #fe6e50;text-decoration: none;">article</a><span> by Rory Truex that was especially interesting. He said America&#8217;s development and creativity are now in jeopardy because originally the upward energy of science development was based on diversity and openness.</span></p><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;">Now, all of America&#8217;s science and technology is focused on containing China. This attitude will lead to it becoming more and more closed off. The barriers they&#8217;re building will ultimately harm America&#8217;s own creativity and innovation capacity.</p><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;">Truex wrote this article, actually saying America doesn&#8217;t realize that others copying you is because you&#8217;re number one. If no one copies you anymore, it means it&#8217;s not worth it anymore. So that article wanted to persuade the American government not to treat China&#8217;s rise with this closed-door attitude.</p><h3 class="header-anchor-post" style="position: relative;font-family: 'SF Pro Display',-apple-system-headline,system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';font-weight: bold;-webkit-font-smoothing: antialiased;-moz-osx-font-smoothing: antialiased;-webkit-appearance: optimizelegibility;-moz-appearance: optimizelegibility;appearance: optimizelegibility;margin: 1em 0 0.625em 0;color: rgb(54,55,55);line-height: 1.16em;font-size: 1.375em;">Belt and Road: Reality and the debt trap misunderstanding</h3><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;"><strong>Afra:</strong><span> I&#8217;m quite curious: You mentioned starting this documentary because you were concerned about China&#8217;s Belt and Road in Africa. Later, Belt and Road as a macro narrative seemed to gradually fade. What do you observe Belt and Road&#8217;s situation to be now?</span><br><br><strong>Xinyan: </strong><span>The Belt and Road was never a single, centrally coordinated project. It was a </span><em>campaign </em><span>&#8212; a call to action. Many people assume that Chinese investment in Africa is always a state activity, but in reality it is far more heterogeneous. Yes, some projects are directly state-driven. But the majority are carried out by state-owned enterprises responding to government signals, rather than executing a master plan.</span></p><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;">Did the government hand them money? No. At most, there was policy encouragement &#8212; things like the &#8220;Going Out&#8221; strategy. The Belt and Road itself is widely misunderstood. Many in the West imagine it as a massive pool of capital, a grand fund from which Chinese companies draw to expand overseas. That simply isn&#8217;t how it works.</p><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;">At the official level, it is largely a slogan. Calling it an empty catchphrase would not be an exaggeration.</p><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;">When we were in Ethiopia, drinking and talking with people on the ground, they complained about the Belt and Road in blunt terms: &#8220;All the profits go to the state-owned giants. Small companies like ours just pick up the crumbs.&#8221;</p><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;">I&#8217;ve spoken with many scholars who study China-Africa relations, and I often ask them why Western coverage is so fixated on debt. The question is usually framed as: &#8220;Why would China invest in projects that are obviously bad bets?&#8221;</p><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;">Take Gwadar Port in Pakistan. By any conventional metric, it was never a good investment. So critics ask, &#8220;Why would the Chinese government or state-owned enterprises pour money into it, anyway?&#8221; Many assume it must be deliberate &#8212; that China lends money it knows will never be repaid, waits for default, and then seizes the asset, securing something like a 150-year lease on the port.</p><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;"><strong>Afra:</strong><span> Neocolonialism?</span></p><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;"><strong>Xinyan:</strong><span> Right. Many people say this is a deliberate act. Later I read a lot of materials, listened to many podcasts, and also chatted with some China studies and Africa studies scholars. They said actually many people overestimate Chinese banks&#8217; investment experience.</span></p><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;">Sometimes when they issue loans, it&#8217;s just because they have no experience. Oversight isn&#8217;t in place, preliminary work wasn&#8217;t done well. When these places default, they also have headaches because institutions like the World Bank won&#8217;t rescue them, but Chinese banks often discount or bail out defaulting countries.</p><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;">Many situations stem from inexperience, not some evil strategy to take over everything.</p><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;">&#8220;Debt trap&#8221; is just an international narrative. China&#8217;s government doesn&#8217;t have such carefully targeted efforts to trap other countries in debt. The bad debt is due to insufficient investment experience and poor management.</p><h3 class="header-anchor-post" style="position: relative;font-family: 'SF Pro Display',-apple-system-headline,system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';font-weight: bold;-webkit-font-smoothing: antialiased;-moz-osx-font-smoothing: antialiased;-webkit-appearance: optimizelegibility;-moz-appearance: optimizelegibility;appearance: optimizelegibility;margin: 1em 0 0.625em 0;color: rgb(54,55,55);line-height: 1.16em;font-size: 1.375em;">Motto&#8217;s energy: anxiety, drive, and cruelty</h3><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;"><strong>Afra:</strong><span> I also wanted to talk about your previous documentary on China-US innovation. China has many of these very wild, extremely vital people whose life trajectories are also very magical. I think Motto, the factory manager, is one of them.</span></p><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;">I remember at the San Francisco screening, after it ended, you said that because Eastern Industrial Park didn&#8217;t build phase two, Motto left in disappointment. But now she&#8217;s started flying planes and climbing Kilimanjaro. Motto reminds me of this crazy dynamism among many people in China. I don&#8217;t know if it&#8217;s the era creating a batch of people like Motto, or if this group of people created today&#8217;s China.</p><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;">Why does someone like Motto have such tremendous agency? How can she accomplish so many different things? You discover in America, when mentioning the Gilded Age, there were many Americans who were just strange people, did outrageous but great things; then suddenly, inexplicably, they became New York old-guard industrialists. But we&#8217;re just living in the version of history they wrote. Actually, if you look carefully at these people&#8217;s early stories, you&#8217;ll find they&#8217;re also like Motto &#8212; very wild, unconventional paths.</p><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;"><strong>Xinyan:</strong><span> I&#8217;m also thinking about this. I think Motto is half-millennial.</span></p><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;">She has this especially frantic energy that makes me uncomfortable because I recognize it in myself. I discovered my own anxiety is actually the same source as her frantic energy.</p><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;"><strong>Afra:</strong><span> I agree. It&#8217;s just that maybe we millennials have more tools to diagnose this problem in ourselves and then, after recognizing it, say, &#8220;OK, I need to actually just lie down for a bit.&#8221; I think Motto&#8217;s generation expresses anxiety in other ways. Like climbing Kilimanjaro might very likely be an expression of anxiety, not a pursuit of freedom. I don&#8217;t know. I don&#8217;t want to psychoanalyze her either.</span></p><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;"><strong>Xinyan:</strong><span> Right. Because I think she&#8217;s just very unconventional in her approach, also someone who&#8217;s harsh on herself and others. At the time, I told Motto we wanted to make an education fund for Rehbot, the farmer&#8217;s daughter in the film, because we wanted to send her to a better school &#8212; she&#8217;s their family&#8217;s only hope for education.</span></p><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;">When we screened in Ethiopia, Motto met this little girl. When I mentioned this girl to Motto, Motto said, &#8220;Let me tell you, I saw this kid. I don&#8217;t think it&#8217;ll work. She&#8217;s never going to make it because I don&#8217;t see it in her.&#8221; I think this is an incredibly cruel assessment.</p><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;"><strong>Afra:</strong><span> Yes. I have a feeling, speaking frankly, that people who came of age by fighting their way through much harsher conditions in China have simply seen more of the darker side of things. They&#8217;ve witnessed more cruelty, more dysfunction. You&#8217;ve been there. And that experience tends to get projected back onto how they interpret the world.</span></p><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;"><strong>Xinyan:</strong><span> And I think Chinese people don&#8217;t believe you can lift someone up. Chinese people deeply scorn the weak. I&#8217;m also discussing this with my therapist &#8212; in my life I even scorn my own weakness. When I&#8217;m very weak, I deeply scorn myself.</span></p><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;">I think that&#8217;s why Motto has so much arrogance and harshness toward Rehbot. Because I think she directly saw Rehbot&#8217;s situation and dismissed her, thinking, &#8220;This person is a loser. She&#8217;s weak. You can&#8217;t keep pulling out your wallet to lift someone up.&#8221;</p><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;">When I was in high school,  there was a time when my family needed about 100,000 RMB. I remember my mom asked my uncle for help, and he gave her the money and said, &#8220;This money only saves us from emergencies, not poverty.&#8221; That phrase really hit me hard. But now when I see Rehbot&#8217;s situation, I also have the same mentality as my uncle &#8212; save people from emergencies, not poverty.</p><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;"><strong>Afra:</strong><span> I can see myself having the exact same reaction as you. I also don&#8217;t know if this is some kind of trauma from growing up in China, or growing up in this more resource-scarce society. Your instinctive resistance to the little girl is actually projecting your own fear onto her &#8212; you want to stay away from this, you don&#8217;t want to go back to this. You fear becoming weak, becoming clingy, becoming like her in the future.</span></p><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;">But at the same time, I also want to ask: Can you really save people from poverty without changing their mindset?</p><h3 class="header-anchor-post" style="position: relative;font-family: 'SF Pro Display',-apple-system-headline,system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';font-weight: bold;-webkit-font-smoothing: antialiased;-moz-osx-font-smoothing: antialiased;-webkit-appearance: optimizelegibility;-moz-appearance: optimizelegibility;appearance: optimizelegibility;margin: 1em 0 0.625em 0;color: rgb(54,55,55);line-height: 1.16em;font-size: 1.375em;">Chinese and Western-style aid</h3><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;"><strong>Xinyan:</strong><span> China&#8217;s current cooperation method with the Global South is also very different from the West. I chatted with people doing development studies about the West being &#8220;neoliberal.&#8221; I wondered: What is neoliberal? Like when America helps Africa, they say, &#8220;I&#8217;ll invest this money in you, but you must become a democratic country. You must become like me.&#8221;</span></p><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;">In Ethiopia, when we ate at caf&#233;s, we&#8217;d see activities posted by embassies, all these &#8220;train the future leaders of Ethiopia&#8221; programs run by Western NGOs. I found it very interesting.</p><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;">But China really dislikes this kind of direct poverty relief. China is unwilling to alleviate poverty through charity, hoping to teach people to fish rather than directly giving them fish.</p><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;">I also chatted with Ethiopians about Chinese versus Western aid: When Westerners go to Africa, they&#8217;re often distributing money to people. But Chinese people generally take very pragmatic industrialization or infrastructure projects, or lend money to Ethiopians so they can build things.</p><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;"><strong>Afra:</strong><span> My sense is that part of the Western charity tradition grows out of Christian relief work &#8212; parish poorhouses, missionary schools, and later faith-based NGOs that combine aid with a moral vision of what a &#8220;good life&#8221; should look like. Even though much modern aid is secular, that older logic sometimes lingers, helping people while also nudging them toward certain values or institutions.</span></p><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;">So there&#8217;s often a conversion logic built in: &#8220;I help you, you become more like me.&#8221; Chinese-style aid is developmentalism: &#8220;We&#8217;ll build roads and factories together, and you become more productive, thus you won&#8217;t starve.&#8221; Neither is neutral; they just encode different visions of what a &#8220;good life&#8221; should look like.</p><h3 class="header-anchor-post" style="position: relative;font-family: 'SF Pro Display',-apple-system-headline,system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';font-weight: bold;-webkit-font-smoothing: antialiased;-moz-osx-font-smoothing: antialiased;-webkit-appearance: optimizelegibility;-moz-appearance: optimizelegibility;appearance: optimizelegibility;margin: 1em 0 0.625em 0;color: rgb(54,55,55);line-height: 1.16em;font-size: 1.375em;">Patriarchy in factories</h3><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;"><strong>Afra:</strong><span> I think Motto&#8217;s personality, this cruelty and dynamism you just mentioned, they&#8217;re two sides of one coin. You can see this in many Chinese entrepreneurs or business people. They&#8217;re very unconventional &#8212; you have no way to predict what they&#8217;ll do next. Tomorrow, if you told me Motto suddenly became a chieftain in some small African country, I wouldn&#8217;t be surprised.</span></p><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;"><strong>Xinyan:</strong><span> I&#8217;m also very interested in Zhang Huarong. He&#8217;s the owner of Huajian Shoe Factory. He was formerly a soldier, very similar to Cao Dewang (the owner of the factory in </span><em><a href="https://substack.com/redirect/55ed9634-7b68-4dc7-80aa-d74e49b05069?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel="" style="color: #fe6e50;text-decoration: none;">American Factory</a></em><span>). When he was in Ethiopia, Zhang Huarong had 10 godsons, all Ethiopian.</span></p><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;">He then brought his 10 Ethiopian godsons to his hometown in Jiangxi for two years of training and gave each godson a name according to China&#8217;s cities and provinces: Fujian, Guangzhou, Fuzhou, Guangzhou, Beijing.</p><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;">Chinese factory culture is very patriarchal. First, its structure has women at the bottom: The further up you go, the fewer women there are. Everyone, including Ethiopian workers, calls people in the cafeteria or managers &#8220;papa.&#8221; I thought, &#8220;Why call them papa? Isn&#8217;t this very patriarchal?&#8221;</p><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;">Zhang Huarong&#8217;s 10 godsons later left Huajian and became Ethiopia&#8217;s first batch of Chinese-speaking managers. When we looked at staff lists at factories, maybe out of 10 managers, only one is female.</p><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;">Beti also said women in factories who get ahead are easily bullied. If you do better than others or work harder than others, they&#8217;ll look down on you. It&#8217;s also very hard for women to get ahead in factories, since they&#8217;re all squeezed out by men for leadership roles.</p><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;">I also chatted with Chinese business owners about this issue. They said they&#8217;re willing to hire women for basic work because they don&#8217;t make trouble. Men are jumpy; previous strikes in factories were all organized by men.</p><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;">So they&#8217;re willing to hire women for the most basic-level work, but let men do leadership work.</p><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;"><strong>Afra:</strong><span> What you just said &#8230; I still haven&#8217;t recovered from the 10 godsons story. My god, this is so weird. Adopting godsons is kind of Confucian, because Confucianism is very much about invented relationships based on family logic. This is quite frightening &#8212; the vitality of this (toxic) Confucian mental structure radiating into Ethiopia&#8217;s modernization process.</span></p><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;"><strong>Xinyan:</strong><span> Right. I think these factories and also rural areas have many interesting reflections on gender and gender roles.</span></p><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;"><strong>Afra</strong><span>: After filming this documentary and receiving so much praise, what surprised you most about audience reactions, especially among Western audiences?</span></p><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;"><strong>Xinyan:</strong><span> It&#8217;s that people from developing countries especially like Motto, but people from developed countries all think Motto is annoying and very frightening. I think it&#8217;s funny. Generally, Chinese people and Ethiopians who watch this film all really like Motto. You screen it in Europe, they all think Motto is really too aggressive and very scary.</span></p><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;">I think those Nordic audiences have such a gulf from someone like Motto.</p><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;">Personally, I have more self-awareness about the frantic energy &#8212; including this contempt for weakness. I think Motto is like a symbol, condensing these anxieties I didn&#8217;t see very clearly into one person. Every time I chat with her, I end up feeling exhausted, and that induced anxiety makes me very uncomfortable. I&#8217;m too familiar with that anxiety. She&#8217;s the voice in my head constantly whipping me, criticizing me. So I think after finishing this film, I&#8217;m clearer about the sources of my own anxieties and understand them better.</p><div style="font-size: 16px;line-height: 26px;"><hr style="margin: 32px 0;padding: 0;height: 1px;background: rgb(0,0,0,.1);border: none;"></div><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;"><em><span>This article originally appeared in Issue 13: Science. </span><a href="https://substack.com/redirect/e9d7798c-f335-4008-a966-1136262457f1?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" rel="" style="color: #fe6e50;text-decoration: none;">Subscribe to the print magazine </a><span>by March 31 to receive our upcoming Issue 14: Risk.</span></em></p><div class="footnote" data-component-name="FootnoteToDOMStatic" style="line-height: 26px;display: flex;border-top: solid 1px rgb(0,0,0,.1);padding-top: 1.5em;font-size: 90%;flex-direction: row;align-items: baseline;"><span class="footnote-number" style="display: block;margin-right: 6px;min-width: 24px;">1</span><div class="footnote-content" style="font-size: 16px;line-height: 26px;display: block;"><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;min-width: 10px;"><span>In her acclaimed 2008 book </span><em>Factory Girls</em><span>, Leslie Chang revealed a different pattern. When Chinese factory workers &#8212; especially women &#8212; </span><em>physically</em><span> return to rural areas, they often don&#8217;t revert </span><em>socially</em><span>. Their factory-city experience reshapes their expectations around work, romance, consumption, and autonomy. This pattern offers an interesting contrast.</span></p></div></div><div class="footnote" data-component-name="FootnoteToDOMStatic" style="line-height: 26px;display: flex;font-size: 90%;flex-direction: row;align-items: baseline;margin-bottom: 0;border-top: none;padding-top: 0;"><span class="footnote-number" style="display: block;margin-right: 6px;min-width: 24px;">2</span><div class="footnote-content" style="font-size: 16px;line-height: 26px;display: block;"><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;min-width: 10px;"><span>The story of </span><em>Made in Ethiopia</em><span> takes place in southern Ethiopia, centered on Hawassa. Dukem and Hawassa are two different industrial zones.</span></p><p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;min-width: 10px;"></p></div></div></div></div><div class="post-contributor-footer" style="margin-top: 16px;font-size: 16px;line-height: 26px;"><div class="container-border" style="margin: 32px 0 0;width: 100%;box-sizing: border-box;border-top: 1px solid #e1dfd8;font-size: 16px;line-height: 26px;"></div><div class="post-contributor-bio" data-user-id="2227115" style="line-height: 26px;margin: 28px 0;font-family: system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';color: #363737;font-size: 16px;"><table class="post-contributor-bio-table" cellpadding="0" cellspacing="0" style="font-family: system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';color: #363737;font-size: 16px;width: 100%;"><tbody><tr class="post-contributor-bio-table-row"><td class="post-contributor-bio-userhead-cell" valign="top" style="width: 52px;"><img class="custom-css-email-avatar avatar-QIQ5yR" src="https://substackcdn.com/image/fetch/$s_!p8sZ!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9e7c3c6d-a2e3-412d-b2b6-e62097d444af_800x800.png" style="box-sizing: border-box;max-width: 550px;border: none;vertical-align: middle;width: 52px;height: 52px;min-width: 52px;min-height: 52px;object-fit: cover;margin: 0px;display: inline;border-radius: 50%" width="52" height="52"></td><td class="post-contributor-bio-body-cell" valign="top"><div class="post-contributor-bio-body" style="font-size: 16px;line-height: 26px;margin-left: 16px;"><div class="post-contributor-bio-preamble" style="font-size: 14px;line-height: 16px;margin-bottom: 10px;">A guest post by</div><table class="post-contributor-bio-body-table" cellpadding="0" cellspacing="0" style="font-family: system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';color: #363737;font-size: 16px;margin-top: 0;width: 100%;"><tbody><tr class="post-contributor-bio-body-table-row"><td class="post-contributor-bio-copy-cell"><a class="post-contributor-bio-title" href="https://substack.com/@afrawang?utm_campaign=guest_post_bio&utm_medium=email" style="color: #363737;font-weight: 600;display: block;text-decoration: none;margin-bottom: 7px;">afra</a><div class="post-contributor-bio-text" style="font-size: 16px;line-height: 24px;">writer of Concurrent newsletter; host of podcast CyberPink I write about Silicon Valley and China</div><div class="post-contributor-bio-controls-email" style="font-size: 16px;line-height: 26px;margin-top: 20px;"><a class="post-contributor-bio-subscribe-button button primary" href="https://substack.com/redirect/1cbf4d97-acea-4d8a-b6a3-f21faf85b236?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" style="font-family: system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';display: inline-block;box-sizing: border-box;cursor: pointer;border: none;border-radius: 8px;font-size: 14px;line-height: 20px;font-weight: 600;text-align: center;margin: 0;opacity: 1;outline: none;background-color: #fe6e50;text-decoration: none !important;color: #ffffff !important;min-height: 42px;height: auto;white-space: nowrap;border-width: 10px 20px;padding: 0;border-color: #fe6e50;border-style: solid;"><span class="post-contributor-bio-subscribe-button-label" style="text-decoration: none;color: #ffffff;">Subscribe to afra</span></a></div></td></tr></tbody></table></div></td></tr></tbody></table></div></div><div class="container-border" style="margin: 32px 0 0;width: 100%;box-sizing: border-box;border-top: 1px solid #e1dfd8;font-size: 16px;line-height: 26px;"></div><div class="post-cta typography markup" style="--image-offset-margin: -120px;text-align: initial;word-break: break-word;margin-bottom: 32px;margin: 32px 0;font-size: 16px;line-height: 26px;"><p style="color: rgb(54,55,55);margin: 0 auto 20px;text-align: center;width: 90%;line-height: 26px;font-size: 16px;margin-top: 0;"><span class="pencraft pc-reset reset-IxiVJZ" translated="" style="list-style: none;color: unset;text-decoration: unset;margin: 0;">You're currently a free subscriber to <a href="https://substack.com/redirect/f52508c7-156d-4aaf-8914-75468f07d97b?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o" style="color: #fe6e50;text-decoration: none;">Asterisk Magazine </a>. For the full experience, <a href="https://substack.com/redirect/2/eyJlIjoiaHR0cHM6Ly9hc3Rlcmlza21hZy5zdWJzdGFjay5jb20vc3Vic2NyaWJlP3V0bV9zb3VyY2U9cG9zdCZ1dG1fY2FtcGFpZ249ZW1haWwtY2hlY2tvdXQmbmV4dD1odHRwcyUzQSUyRiUyRmFzdGVyaXNrbWFnLnN1YnN0YWNrLmNvbSUyRnAlMkZmYWN0b3J5LWxvZ2ljJnI9OG81NG4mdG9rZW49ZXlKMWMyVnlYMmxrSWpveE5EVTJNek14T1N3aWFXRjBJam94TnpjeU5EVTJOakUwTENKbGVIQWlPakUzTnpVd05EZzJNVFFzSW1semN5STZJbkIxWWkweU1qa3hOVEUySWl3aWMzVmlJam9pWTJobFkydHZkWFFpZlEuOWdvVWdYMGFTdmFuN1ZkQVY2Y2liNHdZTTJWT0FaQ1U2Q2Z4WEk0Z05aNCIsInAiOjE4OTI2NDg2MywicyI6MjI5MTUxNiwiZiI6dHJ1ZSwidSI6MTQ1NjMzMTksImlhdCI6MTc3MjQ1NjYxNCwiZXhwIjoyMDg4MDMyNjE0LCJpc3MiOiJwdWItMCIsInN1YiI6ImxpbmstcmVkaXJlY3QifQ.8fFCab3QWzMBmAlw73XnhGyB6mjKe8evmuzaEB9JzBg?&utm_source=substack&utm_medium=email&utm_content=postcta" style="color: #fe6e50;text-decoration: none;">upgrade your subscription.</a></span></p><p class="cta-box" style="color: rgb(54,55,55);margin: 0 auto 20px;width: 90%;line-height: 26px;font-size: 16px;margin-bottom: 0;text-align: center;margin-left: auto;margin-right: auto;"><a class="button primary" role="button" href="https://substack.com/redirect/2/eyJlIjoiaHR0cHM6Ly9hc3Rlcmlza21hZy5zdWJzdGFjay5jb20vc3Vic2NyaWJlP3V0bV9zb3VyY2U9cG9zdCZ1dG1fY2FtcGFpZ249ZW1haWwtY2hlY2tvdXQmbmV4dD1odHRwcyUzQSUyRiUyRmFzdGVyaXNrbWFnLnN1YnN0YWNrLmNvbSUyRnAlMkZmYWN0b3J5LWxvZ2ljJnI9OG81NG4mdG9rZW49ZXlKMWMyVnlYMmxrSWpveE5EVTJNek14T1N3aWFXRjBJam94TnpjeU5EVTJOakUwTENKbGVIQWlPakUzTnpVd05EZzJNVFFzSW1semN5STZJbkIxWWkweU1qa3hOVEUySWl3aWMzVmlJam9pWTJobFkydHZkWFFpZlEuOWdvVWdYMGFTdmFuN1ZkQVY2Y2liNHdZTTJWT0FaQ1U2Q2Z4WEk0Z05aNCIsInAiOjE4OTI2NDg2MywicyI6MjI5MTUxNiwiZiI6dHJ1ZSwidSI6MTQ1NjMzMTksImlhdCI6MTc3MjQ1NjYxNCwiZXhwIjoyMDg4MDMyNjE0LCJpc3MiOiJwdWItMCIsInN1YiI6ImxpbmstcmVkaXJlY3QifQ.8fFCab3QWzMBmAlw73XnhGyB6mjKe8evmuzaEB9JzBg?&utm_source=substack&utm_medium=email&utm_content=postcta" style="font-family: system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';display: inline-block;box-sizing: border-box;cursor: pointer;border: none;height: 40px;border-radius: 8px;font-size: 14px;line-height: 20px;font-weight: 600;text-align: center;padding: 10px 20px;margin: 0;opacity: 1;outline: none;white-space: nowrap;color: #ffffff !important;text-decoration: none !important;background-color: #fe6e50;">Upgrade to paid</a></p></div><table class="email-ufi-2-bottom" role="presentation" width="100%" border="0" cellspacing="0" cellpadding="0" style="border-top: 1px solid rgb(0,0,0,.1);border-bottom: 1px solid rgb(0,0,0,.1);min-width: 100%;"><tbody><tr height="16"><td height="16" style="font-size:0px;line-height:0;">&nbsp;</td></tr><tr><td><table class="email-ufi-2-row" role="presentation" width="100%" border="0" cellspacing="0" cellpadding="0" style="border-bottom: 1px solid rgb(0,0,0,.1);"><tbody><tr><td width="95%"><table class="email-button-outline-wrapper-full-width" role="presentation" width="auto" border="0" cellspacing="0" cellpadding="0" style="width: 95%;margin: 0 auto;"><tbody><tr><td align="center"><a class="email-button-outline full-width" href="https://substack.com/app-link/post?publication_id=2291516&post_id=189264863&utm_source=substack&utm_medium=email&utm_content=share&utm_campaign=email-share&action=share&triggerShare=true&isFreemail=true&r=8o54n&token=eyJ1c2VyX2lkIjoxNDU2MzMxOSwicG9zdF9pZCI6MTg5MjY0ODYzLCJpYXQiOjE3NzI0NTY2MTQsImV4cCI6MTc3NTA0ODYxNCwiaXNzIjoicHViLTIyOTE1MTYiLCJzdWIiOiJwb3N0LXJlYWN0aW9uIn0.iUC-WldZYTAPVLuxWO3dCkeJ6XxpugecapEIa4cxTBw" style="font-family: system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';display: inline-block;font-weight: 500;border: 1px solid rgb(0,0,0,.1);border-radius: 9999px;text-transform: uppercase;font-size: 12px;line-height: 12px;padding: 9px 14px;text-decoration: none;color: rgb(119,119,119);width: 100%;padding-left: 0;padding-right: 0;"><img class="icon" src="https://substackcdn.com/image/fetch/$s_!rmYa!,w_36,c_scale,f_png,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack.com%2Ficon%2FLucideShare%3Fv%3D4%26height%3D36%26fill%3Dnone%26stroke%3D%2523808080%26strokeWidth%3D2" width="18" height="18" style="margin-right: 8px;min-width: 18px;min-height: 18px;border: none;vertical-align: middle;max-width: 18px" alt=""><span class="email-button-text" style="vertical-align: middle;">Share</span></a></td></tr></tbody></table></td></tr><tr height="16"><td height="16" style="font-size:0px;line-height:0;">&nbsp;</td></tr></tbody></table></td></tr><tr height="16"><td height="16" style="font-size:0px;line-height:0;">&nbsp;</td></tr><tr><td><table role="presentation" width="100%" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td><table role="presentation" width="auto" border="0" cellspacing="0" cellpadding="0" style="margin:0 auto;"><tbody><tr><td style="vertical-align:middle;"><table role="presentation" width="auto" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td align="center"><a class="email-button-outline" href="https://substack.com/app-link/post?publication_id=2291516&post_id=189264863&utm_source=substack&isFreemail=true&submitLike=true&token=eyJ1c2VyX2lkIjoxNDU2MzMxOSwicG9zdF9pZCI6MTg5MjY0ODYzLCJyZWFjdGlvbiI6IuKdpCIsImlhdCI6MTc3MjQ1NjYxNCwiZXhwIjoxNzc1MDQ4NjE0LCJpc3MiOiJwdWItMjI5MTUxNiIsInN1YiI6InJlYWN0aW9uIn0.lcl-xRvfWWUdoEEnvDYfLNQuH1-vjk-xhBaVhn5a_W8&utm_medium=email&utm_campaign=email-reaction&r=8o54n" style="font-family: system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';display: inline-block;font-weight: 500;border: 1px solid rgb(0,0,0,.1);border-radius: 9999px;text-transform: uppercase;font-size: 12px;line-height: 12px;padding: 9px 14px;text-decoration: none;color: rgb(119,119,119);"><img class="icon" src="https://substackcdn.com/image/fetch/$s_!PeVs!,w_36,c_scale,f_png,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack.com%2Ficon%2FLucideHeart%3Fv%3D4%26height%3D36%26fill%3Dnone%26stroke%3D%2523808080%26strokeWidth%3D2" width="18" height="18" style="margin-right: 8px;min-width: 18px;min-height: 18px;border: none;vertical-align: middle;max-width: 18px" alt=""><span class="email-button-text" style="vertical-align: middle;">Like</span></a></td></tr></tbody></table></td><td width="8" style="min-width:8px;"></td><td style="vertical-align:middle;"><table role="presentation" width="auto" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td align="center"><a class="email-button-outline" href="https://substack.com/app-link/post?publication_id=2291516&post_id=189264863&utm_source=substack&utm_medium=email&isFreemail=true&comments=true&token=eyJ1c2VyX2lkIjoxNDU2MzMxOSwicG9zdF9pZCI6MTg5MjY0ODYzLCJpYXQiOjE3NzI0NTY2MTQsImV4cCI6MTc3NTA0ODYxNCwiaXNzIjoicHViLTIyOTE1MTYiLCJzdWIiOiJwb3N0LXJlYWN0aW9uIn0.iUC-WldZYTAPVLuxWO3dCkeJ6XxpugecapEIa4cxTBw&r=8o54n&utm_campaign=email-half-magic-comments&action=post-comment&utm_source=substack&utm_medium=email" style="font-family: system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';display: inline-block;font-weight: 500;border: 1px solid rgb(0,0,0,.1);border-radius: 9999px;text-transform: uppercase;font-size: 12px;line-height: 12px;padding: 9px 14px;text-decoration: none;color: rgb(119,119,119);"><img class="icon" src="https://substackcdn.com/image/fetch/$s_!x1tS!,w_36,c_scale,f_png,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack.com%2Ficon%2FLucideComments%3Fv%3D4%26height%3D36%26fill%3Dnone%26stroke%3D%2523808080%26strokeWidth%3D2" width="18" height="18" style="margin-right: 8px;min-width: 18px;min-height: 18px;border: none;vertical-align: middle;max-width: 18px" alt=""><span class="email-button-text" style="vertical-align: middle;">Comment</span></a></td></tr></tbody></table></td><td width="8" style="min-width:8px;"></td><td style="vertical-align:middle;"><table role="presentation" width="auto" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td align="center"><a class="email-button-outline" href="https://substack.com/redirect/2/eyJlIjoiaHR0cHM6Ly9vcGVuLnN1YnN0YWNrLmNvbS9wdWIvYXN0ZXJpc2ttYWcvcC9mYWN0b3J5LWxvZ2ljP3V0bV9zb3VyY2U9c3Vic3RhY2smdXRtX21lZGl1bT1lbWFpbCZ1dG1fY2FtcGFpZ249ZW1haWwtcmVzdGFjay1jb21tZW50JmFjdGlvbj1yZXN0YWNrLWNvbW1lbnQmcj04bzU0biZ0b2tlbj1leUoxYzJWeVgybGtJam94TkRVMk16TXhPU3dpY0c5emRGOXBaQ0k2TVRnNU1qWTBPRFl6TENKcFlYUWlPakUzTnpJME5UWTJNVFFzSW1WNGNDSTZNVGMzTlRBME9EWXhOQ3dpYVhOeklqb2ljSFZpTFRJeU9URTFNVFlpTENKemRXSWlPaUp3YjNOMExYSmxZV04wYVc5dUluMC5pVUMtV2xkWllUQVBWTHV4V08zZENrZUo2WHhwdWdlY2FwRUlhNGN4VEJ3IiwicCI6MTg5MjY0ODYzLCJzIjoyMjkxNTE2LCJmIjp0cnVlLCJ1IjoxNDU2MzMxOSwiaWF0IjoxNzcyNDU2NjE0LCJleHAiOjIwODgwMzI2MTQsImlzcyI6InB1Yi0wIiwic3ViIjoibGluay1yZWRpcmVjdCJ9.r-3ePOEvoMzfDY4JIfSUp_isJZSlSI9A9uSrlIcnWac?&utm_source=substack&utm_medium=email" style="font-family: system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';display: inline-block;font-weight: 500;border: 1px solid rgb(0,0,0,.1);border-radius: 9999px;text-transform: uppercase;font-size: 12px;line-height: 12px;padding: 9px 14px;text-decoration: none;color: rgb(119,119,119);"><img class="icon" src="https://substackcdn.com/image/fetch/$s_!5EGt!,w_36,c_scale,f_png,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack.com%2Ficon%2FNoteForwardIcon%3Fv%3D4%26height%3D36%26fill%3Dnone%26stroke%3D%2523808080%26strokeWidth%3D2" width="18" height="18" style="margin-right: 8px;min-width: 18px;min-height: 18px;border: none;vertical-align: middle;max-width: 18px" alt=""><span class="email-button-text" style="vertical-align: middle;">Restack</span></a></td></tr></tbody></table></td></tr></tbody></table></td><td align="right"><table role="presentation" width="auto" border="0" cellspacing="0" cellpadding="0"><tbody><tr></tr></tbody></table></td></tr></tbody></table></td></tr><tr height="16"><td height="16" style="font-size:0px;line-height:0;">&nbsp;</td></tr></tbody></table><div class="footer footer-ZM59BM" style="color: rgb(119,119,119);text-align: center;font-size: 16px;line-height: 26px;padding: 24px0;"><div style="font-size: 16px;line-height: 26px;padding-bottom: 24px"><p class="pencraft pc-reset color-secondary-ls1g8s size-12-mmZ61m reset-IxiVJZ small meta-B2bqa5" style="list-style: none;font-family: system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';padding-bottom: 0;font-size: 12px;line-height: 16px;margin: 0;color: rgb(119,119,119);text-decoration: unset;">&#169; 2026 <span>Asterisk Magazine</span><br>2150 Shattuck Ave, Floor 12, Berkeley, CA 94704 <br><a href="https://substack.com/redirect/2/eyJlIjoiaHR0cHM6Ly9hc3Rlcmlza21hZy5zdWJzdGFjay5jb20vYWN0aW9uL2Rpc2FibGVfZW1haWw_dG9rZW49ZXlKMWMyVnlYMmxrSWpveE5EVTJNek14T1N3aWNHOXpkRjlwWkNJNk1UZzVNalkwT0RZekxDSnBZWFFpT2pFM056STBOVFkyTVRRc0ltVjRjQ0k2TVRnd016azVNall4TkN3aWFYTnpJam9pY0hWaUxUSXlPVEUxTVRZaUxDSnpkV0lpT2lKa2FYTmhZbXhsWDJWdFlXbHNJbjAuMHZQVDRwTEZ5YXd3blV4d3BQWDhUUWJFcVUtSmotVWFBcUx1blJnckhCVSIsInAiOjE4OTI2NDg2MywicyI6MjI5MTUxNiwiZiI6dHJ1ZSwidSI6MTQ1NjMzMTksImlhdCI6MTc3MjQ1NjYxNCwiZXhwIjoyMDg4MDMyNjE0LCJpc3MiOiJwdWItMCIsInN1YiI6ImxpbmstcmVkaXJlY3QifQ.q3QOMiiBD0eB1RRxxDM0O-885lG6Kc_2SdOaMN0aVw4?" style="color: #fe6e50;text-decoration: none;"><span style="color: rgb(119,119,119);text-decoration: underline;">Unsubscribe</span></a></p></div><p class="footerSection-EHR0jG small powered-by-substack" style="padding: 0 24px;font-size: 12px;line-height: 20px;margin: 0;color: rgb(119,119,119);font-family: system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';padding-bottom: 0;margin-top: 0;"><a href="https://substack.com/redirect/2/eyJlIjoiaHR0cHM6Ly9zdWJzdGFjay5jb20vc2lnbnVwP3V0bV9zb3VyY2U9c3Vic3RhY2smdXRtX21lZGl1bT1lbWFpbCZ1dG1fY29udGVudD1mb290ZXImdXRtX2NhbXBhaWduPWF1dG9maWxsZWQtZm9vdGVyJmZyZWVTaWdudXBFbWFpbD1pc2hhbi5tYWlsQGdtYWlsLmNvbSZyPThvNTRuIiwicCI6MTg5MjY0ODYzLCJzIjoyMjkxNTE2LCJmIjp0cnVlLCJ1IjoxNDU2MzMxOSwiaWF0IjoxNzcyNDU2NjE0LCJleHAiOjIwODgwMzI2MTQsImlzcyI6InB1Yi0wIiwic3ViIjoibGluay1yZWRpcmVjdCJ9.9mLCOso1hDgjlnKDRljsuekLDQ1dCmjP84BGXLfQ_tc?" style="color: #fe6e50;text-decoration: none;display: inline-block;margin: 0 4px;"><img src="https://substackcdn.com/image/fetch/$s_!LkrL!,w_270,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack.com%2Fimg%2Femail%2Fpublish-button%402x.png" srcset="https://substackcdn.com/image/fetch/$s_!wgfj!,w_135,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack.com%2Fimg%2Femail%2Fpublish-button.png, https://substackcdn.com/image/fetch/$s_!LkrL!,w_270,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack.com%2Fimg%2Femail%2Fpublish-button%402x.png 2x, https://substackcdn.com/image/fetch/$s_!KjtY!,w_405,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack.com%2Fimg%2Femail%2Fpublish-button%403x.png 3x" width="135" alt="Start writing" height="40" style="max-width: 550px;border: none !important;vertical-align: middle;"></a></p></div></div></td><td></td></tr></tbody></table><img src="https://eotrx.substackcdn.com/open?token=eyJtIjoiPDIwMjYwMzAyMTMwMjIzLjMuYThhMmExYWQ5MjI2ZGIxY0BtZzIuc3Vic3RhY2suY29tPiIsInUiOjE0NTYzMzE5LCJyIjoiaXNoYW4ubWFpbEBnbWFpbC5jb20iLCJkIjoibWcyLnN1YnN0YWNrLmNvbSIsInAiOjE4OTI2NDg2MywidCI6Im5ld3NsZXR0ZXIiLCJhIjoiZXZlcnlvbmUiLCJzIjoyMjkxNTE2LCJjIjoicG9zdCIsImYiOnRydWUsInBvc2l0aW9uIjoiYm90dG9tIiwiaWF0IjoxNzcyNDU2NjE0LCJleHAiOjE3NzUwNDg2MTQsImlzcyI6InB1Yi0wIiwic3ViIjoiZW8ifQ.hY6v3IG7RHGGC0n3zYxd31FCcNth0ijucYV3vBxEoeM" alt="" width="1" height="1" border="0" style="height:1px !important;width:1px !important;border-width:0 !important;margin-top:0 !important;margin-bottom:0 !important;margin-right:0 !important;margin-left:0 !important;padding-top:0 !important;padding-bottom:0 !important;padding-right:0 !important;padding-left:0 !important;"/><img width="1" height="1" alt="" src="https://email.mg2.substack.com/o/eJxE0F3q6yAQBfDV1MegozHxwbWEUaepNGrxo5fs_pK28H8aOAOHH8djp73U075K6yxYFcQ6r4ysWBZQs9ZiZpQwHttOmSp2Chv2v6-CeWYPG-6gpQTOzbIEbSRfvfRmlXcpwJFCFi1w0FxyEJIDyElOuCKgwGAAdHDC3xRPO0xtuNbRPydfEottu1f6AGyvg9jF3HCESNmTpTfVs-RfHIMVqwGtVi2_ST9fZDP9awf1TpW9htt8SWnk2M-NMrqDwq94uCN67LHkqwjAiFloVm1sD8zTJbgpvl_3I2vDhZIwZoutU43tmXBn_bvjaFQ_HDVrKYVhbwv_AwAA__-uyHco"></body></html>

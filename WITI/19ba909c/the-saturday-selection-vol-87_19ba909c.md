@@ -1,0 +1,28 @@
+---
+subject: "The Saturday Selection, Vol. 87"
+from: "\"Why is this interesting?\" <whyisthisinteresting@substack.com>"
+to: ""
+date: 2026-01-10 17:52:14
+labels: ["CATEGORY_PERSONAL", "INBOX", "UNREAD", "WITI"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "UNREAD", "Label_5752899537867939131"]
+---
+|
+Every day, WITI’s group chats buzz with fresh links. As part of our Saturday send for paid readers, we round up 11 of the best.
+It’s WITI, on the weekend.
+Why are these interesting?
+[Turns Out One Artist Paints Almost All the World’s Ski Maps](https://substack.com/redirect/af491fca-15a9-4c6a-993a-eeca8543122a?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) (Adventure)
+[James Niehues](https://substack.com/redirect/0364995f-bec4-49fc-b54a-32307e30db0d?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) is known as the ‘Monet of the mountains’, or the ‘[Michelangelo of Snow](https://substack.com/redirect/732a344a-d679-448f-8a13-800dea19235a?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)’.
+[John Grisham in Conversation with Stephen King](https://substack.com/redirect/5e1dfdbb-1582-4805-98c7-6f8348c15906?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) (YouTube)
+Two of the most prolific, popular writers in the world kicking back and bantering for an hour. Good stuff.
+[Boeing’s ‘Doomsday Plane’ Just Made One of Its First Appearances in 51 Years](https://substack.com/redirect/9a180c4b-eed7-4f13-9cd3-e5173b3280a9?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) (Supercar Blondie)
+It’s built to survive nuclear events, and is now just 25 minutes away from the White House.
+[Meet Clicks Communicator, A Keyboard Phone Inspired By BlackBerry](https://substack.com/redirect/e7f0e3c1-d64d-48a9-88a2-786d50481c6d?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) (Ubergizmo)
+Just shown at CES 2026, and a friend to Slack, WhatsApp and Gmail, at a time that people are more [nostalgic than ever](https://substack.com/redirect/b24d988e-eca2-4387-8546-c0e83091a181?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) for the Blackberry era.
+[Reflecting On The World’s Only “Recombobulation Area” Airport Sign](https://substack.com/redirect/930ef4d8-92b3-48f7-ab12-1ae4d1568851?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) (On Milwaukee)
+“Whether it’s a word or not, I think we can all agree we need a minute to do it.”
+[Sazae-san is the World’s Longest-Running Cartoon](https://substack.com/redirect/b7fd427a-1766-42a9-b055-17e08a37df17?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) (BBC Sounds)
+In 1969, a cartoon about a traditional Japanese family premiered on Fuji TV. More than 55 years later, it still airs in its original time slot...
+Subscribe to Why is this interesting? to keep reading this post and get 7 days of free access to the full post archives.
+| Wednesday paid posts | |
+| Weekend reading edition | |
+| Invite to special virtual and physical WITI events |

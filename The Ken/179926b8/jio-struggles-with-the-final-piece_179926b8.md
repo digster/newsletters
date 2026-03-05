@@ -1,0 +1,185 @@
+---
+subject: "Jio struggles with the final piece"
+from: "The Nutgraf <info@the-ken.com>"
+to: ""
+date: 2021-05-22 04:53:10
+labels: ["CATEGORY_PERSONAL", "INBOX", "The Ken"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_8244464457792971031"]
+---
+A paid 🔒 weekly emailer that explains fundamental shifts in business, technology and finance that happened over the last seven days in India. In a way you’ll never forget. Someone sent you this? [Sign up here](https://the-ken.com/the-nutgraf/?utm_source=su_bnr&utm_medium=email&utm_campaign=nf)
+|
+|
+Good Morning Ishan,
+This week’s edition is a little special.
+First, we’re making today’s edition free.
+If you see this in your inbox and are confused, let me quickly explain. You’re reading this because you signed up for The Ken or if you are reading this on a browser, someone who subscribed to The Ken sent a link to it.
+The Nutgraf is a [weekly](https://the-ken.com/the-nutgraf/) paid newsletter by The Ken that’s sent out every Saturday to subscribers. It aims to connect the dots and synthesise one big event in business, technology, and finance that happened over the past week in India.
+Second, we have a special, exclusive offer for you.
+I’ll offer it to you, but only after you finish reading this edition, which you’ll hopefully enjoy.
+If you’ve not subscribed yet and like what you read, I hope you consider subscribing.
+If you are already a subscriber, and like what you read, just share this edition with other people. It’s free for them to read.
+Today’s edition is not about vaccines, hospitals or anything directly related to Covid-19. I’ve been writing about them for several weeks now, so instead, today, I decided to take a break and tell a different story—about a company that’s been a bit quiet of late.
+Almost exactly a year ago, when India shut down and when companies battened down their hatches, Reliance Jio received over $27 billion from 12 successive investments, led by companies like Google, Facebook, Qualcomm, and several other private equity firms; and an exclusive partnership with Microsoft.
+Multiple analysts believed that Jio had a massive advantage. Not only did it have an absurd amount of money in its bank account, but it had an absurd amount of money in its bank account when global supply chains were paralysed. Meanwhile, the rest of the world was stuck indoors, still unsure whether etiquette was to keep video on or off on Zoom calls, and what exactly was an essential item and what wasn’t. It felt like Jio had skipped out of its house, skated over a frozen world, won a national lottery, and was poised to conquer everything.
+At the time, in this newsletter, we published a special edition where we visualised Jio’s masterplan to win comprehensively across the telecom stack, and how alliances with its new investors and partners like Google, Facebook, and Microsoft fit into this. It’s one of the most popular editions of this newsletter, and I recommend [reading it](https://the-ken.com/the-nutgraf/jio-is-in-the-endgame-now/) if you want to understand the breadth and audacity of Jio’s plan.
+|
+|
+|
+But right now, Jio is facing issues on three fronts.
+First, Jio’s telecom business isn’t doing too well. A couple of weeks back, in its earnings announcement, Jio Platforms declared a quarter-on-quarter fall of 8.5% and 6% in its average revenue per user (ARPU) and overall revenue, respectively. Airtel has been adding more subscribers than Jio every single month since August 2020.
+Today, Jio may technically be #1 in terms of subscribers, but Airtel, which is quite happy to be [second](https://the-ken.com/bfo/for-reliance-jio-bharti-airtel-is-only-the-symptom/), has more active subscribers and a higher ARPU.
+Second, Jio’s retail business isn’t in a great place either. Its e-commerce venture, JioMart, which was launched with much fanfare a year ago in 200 cities, has managed to work with kiranas in just 33 cities as of March this year. Its PoS (Point of Sale) device—the main lever which it planned to use to disrupt kirana stores—isn’t as popular as it should be, and has problems. I could go on about this, but I recommend [reading](https://the-ken.com/story/a-year-after-its-launch-jiomarts-e-commerce-book-is-still-in-its-first-chapter/) what my colleagues Seetharaman and Pranav wrote yesterday about this. It’s brilliant.
+Third, Jio’s constellation of apps don’t appear to be getting much traction. Remember all the Jio apps which were launched with much fanfare last year? Want to make payments? Use JioMoney. OTT? JioTV. JioCinema. JioChat. JioSecurity. There was even JioMeet—which [looked](https://inc42.com/buzz/reliance-jiomeet-could-face-legal-action-over-copy-pasting-zoom/) quite familiar.
+Jio launched these apps, but it doesn’t look like any of them (apart from JioSaavn, which was the result of an acquisition) have made their mark yet. In the list of the top free apps on the PlayStore as of this morning, just one of Jio’s apps makes it into the top 50—MyJio, which sneaks in at the 49th position. In a recent [presentation](https://www.ril.com/getattachment/296003d3-f924-49da-b19e-3dab3911317d/Financial%20Presentation%20-%20Q3%20Results.aspx) to analysts, Jio continued to tout its apps, but didn’t reveal any numbers about their usage or activity.
+Look, I’m not saying that their apps aren’t being used (only Jio knows the real numbers), but I’m saying that if any of them were a runaway success and was displacing other consumer apps, we probably would have heard something about it by now.
+All of this has had an impact on the stock price of Jio’s parent company, Reliance Industries. Reliance is down by 18% from its peak in September 2020. For the same time period, the benchmark Sensex index is up by 24%.
+One year back, Jio was in the endgame.
+One year later, Jio is still in the endgame...but a victory that once promised to be swift and decisive now looks much more grinding.
+Jio may have racked up billions of dollars, but the reason why it’s stumbling right now, across all its businesses, comes down to one thing. It’s because the final piece that Jio needed in place in order to win and secure its position for years and decades to come is taking longer than anticipated. It’s the piece that Jio planned carefully for. It even brilliantly executed on it. It got the right investors, at the right time, for the right reasons.
+It raised billions and billions of dollars, in part because it needed this crucial, critical, piece.
+And now, that’s exactly where it’s stuck.
+Bizarrely, the reason why it’s stuck has little to do with money.
+In fact, it costs just one dollar.
+Let’s dive in.
+|
+|
+|
+|
+Jio's situation across the five layer stack
+|
+|
+|
+Illustration : Sharath Ravishankar, The Ken
+Before we get into what’s going on with Jio today, it’s worth recapping that Jio’s original plan was in the first place.
+If you had to write it down, this is what the 13-step plan looks like:
+- Launch a telecom company. Offer cheap data and voice plans.
+- Get lots of customers to switch to your telecom network because everyone loves cheap data and voice plans.
+- Get even more customers online for the first time by selling them feature phones which have cheap data and voice plans.
+- Just kidding! Give feature phones away for free.
+- “Ooh, let’s call it the JioPhone”
+- Wait four years until India’s telecom industry crashes, burns, and consolidates.
+- Launch lots of apps for all use-cases in smartphones. Video. Audio. Meeting. Payments. Use Jio in front of everything.
+- Create an app to solve the biggest use-case—retail. Call it JioMart.
+- Make a smartphone.
+- Sell smartphones with your own apps preloaded on the devices to your feature phone customers. Especially JioMart.
+- Customers use your apps on your phones. Some even give you money.
+- If possible, build indigenous network equipment to own the latest cellular technology.
+- Buy a cricket team and win the Indian Premier League (IPL), arguably the world’s most lucrative cricket tournament.
+We’ve written about this before, but essentially, Jio wanted to do something nobody had ever done before. A telecom company decided to go all the way up the consumer stack by building a phone, with its own operating system, to give its users apps that are also owned by the same company.
+(If you want to read more about the consumer tech stack, it’s [here](https://the-ken.com/the-nutgraf/jio-is-in-the-endgame-now/))
+|
+|
+|
+Illustration : Anushka Chhikara
+But this was just half the story.
+After Jio connected itself up the stack, it realised that there was a problem. The users whom it had cornered weren’t necessarily the most valuable users.
+If you are a subscriber to The Ken, none of this would be news, because Rohin [wrote](https://the-ken.com/the-nutgraf/jio-is-in-the-endgame-now/) about Jio’s telecom woes a couple of weeks ago. In it, he draws attention to several key problems faced with Jio. In fact, he calls it a K-shaped conundrum, because Jio has two types of customers—a large number of low-end customers whom Jio has to retain, and a small number of economically better smartphone customers. His story is a great read to understand all the trade-offs involved if Jio wants to win telecom in India.
+But at its core, here’s the key problem for Jio.
+|
+Jio is technically an all-4G network. However, a significant percentage of its 411 million subscribers—between 100 million to 130 million, according to analysts—use its low-cost “JioPhone” feature phone to largely make just calls.
+Jio’s challenge is to retain them.
+Some 40 million of these customers are going to reach the end of their three-year lock-in tenures in the first half of 2021. To retain them, Jio launched a new JioPhone offer that bundles in two years of calling and data for Rs 1,999 ($27).
+But how many migrant and blue-collar workers are going to feel comfortable committing to a two-year device plan if their livelihoods and the health of their families are being devastated by Covid?
+|
+|
+Reliance Jio's K-shaped conundrum, The Ken
+|
+|
+|
+Jio knew this was going to happen. Which is why, right from the beginning, it knew that the JioPhone was a way station along the journey, not the destination.
+To really succeed, Jio needed to make a smartphone. Smartphones are where the money is. Users who use smartphones use data. And make transactions. Or buy subscriptions. None of this is possible in a feature phone. Once someone uses a smartphone, they use apps—some of which may be owned and operated by Jio.
+To be doubly sure of succeeding, Jio also decided to make apps which would crush the competition and be widely adopted. In consumer tech, making an app is the easy part. Making an app and getting millions of users to use it was the challenge. One way to ensure wide adoption was to make the phone in which the users discover and install apps. Another way to do it was to partner with the biggest companies in the world, and piggyback on their distribution.
+This is why Jio carefully chose its investors and partners. Most notably, four companies would help it in its mission—Google, Qualcomm, Microsoft, Facebook.
+Jio had expanded vertically by its own accord. Now, with the help of these four companies, it would expand sideways—and acquire more valuable customers.
+|
+|
+|
+|
+Enter Facebook, which aims to make sure that JioMart is distributed via the most popular free app in India.
+|
+|
+In the very near future, JioMart—Jio’s digital new commerce platform, and Whatsapp—will empower nearly 3 crore small Indian Kirana shops to digitally transact with every customer in their neighbourhood,
+|
+|
+Mukesh Ambani, Chairman, RIL
+|
+|
+|
+Enter Microsoft, which [aims](https://www.news18.com/news/tech/jiomeet-adds-new-features-for-video-meetings-including-microsoft-teams-and-outlook-add-ins-3726029.html) to help apps like JioMeet and others get wide adoption by offering it to its army of enterprise customers.
+|
+The JioMeet is available as a download within the Teams interface and allows users to switch to JioMeet meetings from within Teams itself. The Outlook add-on would allow JioMeet users to plan and schedule video meetings from within their email client interface. For this, you’d need to download the “JioMeet on Outlook” add-on from the Outlook Add-in store.
+|
+|
+JioMeet Adds New Features For Video Meetings, Including Microsoft Teams And Outlook Add Ins, News18
+|
+|
+|
+Then there’s Google and Qualcomm. One which owns the largest and most widely used mobile operating systems in the world, and the other responsible for making chips that [power](https://www.counterpointresearch.com/global-smartphone-ap-market-share/) 30% of all phones globally. And both of them are investors in Jio Platforms.
+If Jio needed to make a smartphone, these were the two companies that would help get there.
+But it’s not that easy.
+The smartphone cost problem
+Imagine if you had to make a smartphone. That’s a hard problem.
+Now imagine if you had to make a cheap smartphone. That’s harder.
+Finally, imagine if you had to manufacture the cheapest smartphone ever made. And it couldn’t be cheaper than existing smartphones by a bit. It had to be nearly 15-20% cheaper than the cheapest phone in the market. Oh, and you had to do it in the middle of a global pandemic.
+Jio is trying to create a smartphone at a cost of under $50, or around Rs 3,500. This is much harder than it looks. But Jio needs to do it because it really has no choice—it needs to migrate its customers to smartphones, and from 2G to faster 4G networks.
+The cheapest smartphones in the market cost around $80. With some efficiency, it can be brought down to maybe $65. Anything below that looks difficult. There’s a great analysis by UBS Global Research about the breakdown of costs of manufacturing a $50 smartphone. Here’s how it goes.
+If you want to build a cheap smartphone, you will need to bring down the specs of the hardware. However, you can’t bring it down beyond a certain point because the hardware needs to also support the software, primarily the operating system underneath it.
+|
+|
+|
+Illustration : Aishwarya for The Ken
+Jio wants to make the smartphone cheap. To do this, it needs to bring down its specs. And it needs Google to create an ultra-light version of the OS. A lighter, less-memory intensive version of the OS means that Jio can run its own apps on its own smartphone.
+And right now, that journey is taking time.
+First, it was reported that the devices would be [rolled](https://www.business-standard.com/article/companies/reliance-jio-plans-to-roll-out-100-million-low-cost-phones-by-december-120090900011_1.html) out by December 2020.
+Then the first [quarter](https://www.91mobiles.com/hub/jio-4g-android-phone-launch-timeline-exclusive/) of 2021.
+Then the third [quarter](https://telecom.economictimes.indiatimes.com/news/affordable-jio-google-5g-smartphone-jiobook-likely-to-be-launched-at-ril-agm/81588983) of 2021.
+And the overriding reason why the Jio smartphone is getting delayed is because of the pandemic, which has demolished every sector that uses semiconductor chips. All across the world, chip manufacturers are [facing](https://www.reuters.com/article/us-chip-shortage-qualcomm-idUSKBN2B32OO) supply constraints, and delays are expected to go well into 2022.
+The delays aren’t even because of a shortage of chips. It’s gone all the way down the supply chain.
+And it finally rests at a very [unlikely](https://www.bloomberg.com/news/articles/2021-04-05/why-shortages-of-a-1-chip-sparked-crisis-in-the-global-economy) place.
+|
+To understand why the $450 billion semiconductor industry has lurched into crisis, a helpful place to start is a one-dollar part called a display driver.
+Hundreds of different kinds of chips make up the global silicon industry, with the flashiest ones from Qualcomm Inc. and Intel Corp. going for $100 apiece to more than $1,000. Those run powerful computers or the shiny smartphone in your pocket. A display driver chip is mundane by contrast: Its sole purpose is to convey basic instructions for illuminating the screen on your phone, monitor or navigation system.
+The trouble for the chip industry -- and increasingly companies beyond tech, like automakers -- is that there aren’t enough display drivers to go around. Firms that make them can’t keep up with surging demand so prices are spiking. That’s contributing to short supplies and increasing costs for liquid crystal display panels, essential components for making televisions and laptops, as well as cars, airplanes and high-end refrigerators.
+|
+|
+Why Shortages of a $1 Chip Sparked Crisis in Global Economy, Bloomberg
+|
+Think about this for a moment.
+Jio went ahead and built a telecom network that conquered India. Then it built phones. And apps. And then got money from some of the biggest companies in the world. And now, when it desperately needs the weapon to catapult itself to the next level, it’s stuck because of a damned display driver that usually sells for $1 in the market.
+It’s almost easier to buy a team that wins the IPL five times.
+|
+|
+|
+|
+|
+Special Offer!
+If you loved reading this, I have an exclusive, special offer for you.
+The Nutgraf is a paid newsletter that’s priced at Rs. 99 / month. If you loved this edition, you can buy a subscription [here](http://the-ken.com/checkout/?add-to-cart=686576).
+However, if you really loved this edition and want to receive one like this in your inbox every Saturday, you can be the first to opt in for an annual plan, at an introductory price of just Rs. 999 / year.
+We are offering this to a limited number of customers on a first come first serve basis. If you’d like to register for it, just head over to our form [here](https://theken.typeform.com/to/Y7nLm5Xv).
+It'll take you two minutes.
+If you make it, I’ll get in touch with you next week.
+|
+|
+Share this edition
+Here's the link to this edition for you to share. Or you can use the easy share buttons below
+|
+Take care.
+Regards,
+Praveen Gopal Krishnan
+|
+https://sg-mktg.com/MTYyMTY1OTE1MnxzdkwzcUhad00xZ2k2Nlc4ajEtSDVENl93U3dyZXZGd1ZGYVYyVy1zRG1jdHZxb0M4bnVCaGtvRzJOa3NDS0FqSWx4R2I0eHlCMGNyRUMwZTlza0dNVEk5OHhYaXBTZnphendwU0c0UWtPVEM3T3NhMENJaV9LaFhkRUZGb0RCRElva3pBYVI1VWNfcU5jTFpwQmlDTk55WlloYkJudU12bGc5MW84ZG5YT2ZXM2Z3d1ZiSl9wdjBxUTczRDY3RlBORHVDUXZRYllWMk9vT1BRc1dfc1psUHdwWXRhWWdkaXJTR0V2YXBhSWY3Qkh0WW9ZVWFrT3VWeEFaZ29UNlFkYUE9PXy6nRk3a3Tr_4ZOY0pgPA0J6etAurocR2cn5TgTy9DY-w==
+The Nutgraf is a paid weekly emailer that explains fundamental shifts in business, technology and finance that happened over the last seven days in India. In a way you’ll never forget.
+Know someone who would like The Nutgraf?
+Want to receive The Nutgraf every week?
+|
+|
+The Nutgraf is published by The Ken—a digital, subscription-driven publication focussing on technology, business, science and healthcare.
+|
+Want to unsubscribe from our weekly newsletter, The Nutgraf? Click [here](https://link.the-ken.com/asm/unsubscribe/?user_id=2349339&data=itg7rLw0g1CmoQgwuDG8eQmYHQflTRcNfAEGo5og0GBA9DgdtCu7yRJm-Dx10LY0y6EbvgiAWKA5-VfF-gWOLcqFM0kmQk-zJfD9r91GRrjs8yPgjyGyXvEznMJWX4uwRsr0AMJKKDdRevq_UGDB8lqu68paE0Z95sUjJ72KKU3Bkxs60bA8ofDrE1CHqpRpAeC8t7FPa9aBBNMyvRMYWj04KN59HCAlZO6rfrV0oXkzyo1VfD2OQrB2xxAxwZxHfyB2yWiVnuHI8mQ-PDuP-sfYV1tSHzwmLFAb9pQtAH-55kVX5S7lIDUK1yLXQSaUk6eBgLl7TWQr_w9RGLmPZc6v6uSt-MjdxPOnp6CHU3khsGeBWl1zYIHdGZUbUgyDNFpy51dEZmFi0WSGEMzjIFLLcfJzV9Pj-OzaU6-rE0UeSdzBNcsiONp3Tjtm-P8xZPmkHzCxl5iub0RAVd00ZiFrYd3V1je0KqfemNuX1XZyNN5aKyOqRmkoSUmbXZnK5QTNiHS36WPgXDZXjeoNU4x6Lv7s4FPord4Ob9V5w4Zk6GeqtScNbOCc-emVME-y). Or set your email preferences [here](https://the-ken.com/newsletters/?utm_source=usb_ftr&utm_medium=email&utm_campaign=nf)
+© 2021 The Ken
+|
+|
+|
+|
+|

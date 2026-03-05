@@ -1,0 +1,29 @@
+---
+subject: "five links for February 2026"
+from: "Auren Hoffman of Summation <auren@substack.com>"
+to: ""
+date: 2026-01-29 17:00:40
+labels: ["Auren Hoffman", "CATEGORY_PERSONAL", "INBOX"]
+label_ids: ["Label_4260038268466989707", "CATEGORY_PERSONAL", "INBOX"]
+---
+|
+here are five links worth reading to kick off 2026…
+[Norway Shrugged 🇳🇴🤷](https://substack.com/redirect/e2342307-43da-47b1-bffd-0865896d133d?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) by [Frederik Haga](https://substack.com/redirect/d2c1b3b5-db21-4911-ab1d-2bcc3fc98ea5?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+Norway’s 1% wealth tax on unrealized gains drove out 100 of their top 400 taxpayers in just two years. Half that group’s wealth, gone.
+[The Bitter Lesson](https://substack.com/redirect/40d8b6d1-f904-4f53-b174-b93b9a20a496?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) by Rich Sutton
+AI wins by being dumb and powerful instead of smart and limited. Researchers keep trying to teach computers how humans think, but just giving computers more processing power and letting them learn beats human intuition every time.
+[Live Closer to your Friends](https://substack.com/redirect/f23b5a07-7d1b-4df8-a576-52c3d2eb5463?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) by Adrienne Matei
+The most underrated life optimization is moving closer to your friends. Your happiness increases massively as friends nearby become happy. We’ll move across the country for a job without a second thought, but rarely for friendship.
+[I](https://substack.com/redirect/51d725d6-1722-44ac-bd5c-f4a4cb05fa3c?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)[ndustry Ventures Founder Hans Swildens](https://substack.com/redirect/51d725d6-1722-44ac-bd5c-f4a4cb05fa3c?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) on [World of DaaS](https://substack.com/redirect/9a4af0fb-715a-445b-bb38-4bf79bbdd069?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+Industry Ventures pioneered buying LP stakes in venture funds. Hans explains how having LP positions in 700+ funds creates a data advantage nobody else has, why traditional VC fund structures are broken, and where permanent capital vehicles fit in.
+[In-Person Conversation Skills](https://substack.com/redirect/87a1e6ea-b09a-4147-bd75-c0302e4d079b?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) by[ Ben Casnocha](https://substack.com/redirect/4f4184a1-3551-431c-866a-e8ef60c255a1?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+The worst habit in conversations is hijacking. When you say “I met interesting people at that conference” and they respond “Really? I met nobody interesting.” Ask follow-up questions instead of redirecting every topic back to yourself. Use the traffic light rule: you get 30 seconds of green, 30 seconds of yellow, then you’re in the red.
+Bonus (optimistic):[ ](https://substack.com/redirect/1af9dd20-dae5-44e3-8e6c-d56321161d67?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)[Love Beats Hate](https://substack.com/redirect/1af9dd20-dae5-44e3-8e6c-d56321161d67?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+In every presidential election (except 2020), the candidate who generated the most love won - even if they were also the most hated. Political consultants sell attack ads because they can’t generate charisma. This applies to companies too.
+More reading links at [https://twitter.com/AurenReads](https://substack.com/redirect/5e5dcde5-b73d-4839-b094-53332d19c402?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+[The Lucifer Principle by Howard Bloom](https://substack.com/redirect/c5715e84-b027-4399-ad4f-9a10c03f1789?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+[Stranger Things](https://substack.com/redirect/6848dd8f-edba-4f1b-905e-c3e50e87c74b?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) in Netflix (yes, i’m late to the party … but better late than never)
+The gap between what you actually know and what people think you know after a big exit is where repeat founders go to die
+Auren Hoffman is CEO of NQB8 and GP at Flex Capital. NQB8 starts 3 companies per year. Flex Capital is a seed-stage venture capital firm --- investing in 50+ start-ups a year. Engage on [X: @auren](https://substack.com/redirect/84b9b945-4e4c-4ce8-8f56-2f854935ef5d?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+and please share Five Links with your friends and allies.
+Hope you enjoy [Summation by Auren Hoffman](https://substack.com/redirect/2/eyJlIjoiaHR0cHM6Ly9hdXJlbi5zdWJzdGFjay5jb20_dXRtX2NhbXBhaWduPWVtYWlsLWhvbWUmcj04bzU0biIsInAiOjE4NTU0NjQ5OCwicyI6NjU1MjAsImYiOnRydWUsInUiOjE0NTYzMzE5LCJpYXQiOjE3Njk3MDYwOTIsImV4cCI6MjA4NTI4MjA5MiwiaXNzIjoicHViLTAiLCJzdWIiOiJsaW5rLXJlZGlyZWN0In0.ea3BIj67fyfPDETBeTpuBdAGtbI2bOy6IJURW-nuH80?). Please also follow [@auren](https://substack.com/redirect/84b9b945-4e4c-4ce8-8f56-2f854935ef5d?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) on X.

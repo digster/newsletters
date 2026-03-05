@@ -1,0 +1,21 @@
+---
+subject: "As IVF demand grows, Indonesia races to catch up with neighbours"
+from: "The Ken <info@the-ken.com>"
+to: ""
+date: 2023-11-29 00:07:33
+labels: ["CATEGORY_PERSONAL", "INBOX", "The Ken", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_8244464457792971031", "UNREAD"]
+---
+Good Morning Ishan,
+“I can’t be starting over at 28,” lamented a social-media influencer in one of her Tiktok videos, reflecting on her recent breakup. The next scene revealed her beaming, happy face alongside a hospital announcement of a month-long “egg-freezing promo”.
+The post garnered over 760,000 views, prompting dozens of curious women to ask what egg freezing is and how it works.
+Around the globe, advancements in conception and childbirth technologies have been piquing interest and reshaping industries, particularly after the World Health Organisation labelled infertility as a public-health crisis.
+Last month, we [told](https://the-ken.com/story/the-cost-of-building-a-billion-dollar-ivf-chain-in-india/) the story of how an Indian IVF chain became a global giant. Now, we are shifting the focus to Southeast Asia’s most populous nation. From costs and success rates to changing attitudes, today’s story by Prima talks about how Indonesia is adapting to the growing demand for IVF.
+Essentially, the country wants a trend reversal: every year, millions seeking medical treatments abroad, including fertility, favour neighbouring Thailand and Malaysia—renowned medical tourism hotspots.
+There’s a lot to unpack. Click here to read the story: [https://the-ken.com/story/as-ivf-demand-grows-indonesia-races-to-catch-up-with-neighbours/](https://the-ken.com/story/as-ivf-demand-grows-indonesia-races-to-catch-up-with-neighbours/?utm_source=daily_story&utm_medium=email&utm_campaign=daily_newsletter) (7-minute read)
+Regards,
+Katrina
+[katrina@the-ken.com](mailto:katrina@the-ken.com)
+P.S.: Finnish electric-mobility major Fortum, which competes with Tata Power and Jio-bp, enrolled its team in The Ken’s storytelling programme as it rebranded to connect with Indian audiences. They are now telling stories that are [winning the hearts and minds](https://the-ken.com/blog/customers-care-about-brands-when-brands-care-about-their-stories/?utm_source=web&utm_medium=homepage&utm_campaign=con_1_unit_1) of all their stakeholders. The Ken’s learning division trains a limited number of teams every quarter, and we are now accepting applications for Q1 2024. [Enrol now](https://theken.typeform.com/Narrative).
+What you just read is the personalised daily introduction to The Ken's story. Written by a different person each day. Often insightful, sometimes witty, and very rarely boring. Someone sent this to you? [Sign up for free](https://the-ken.com/?modal=register&utm_source=footer&utm_medium=email&utm_campaign=morning_email_ind_shared). [Dont like these? You can unsubscribe](https://link.the-ken.com/asm/unsubscribe/?user_id=2349339&data=ed2c1ji0HlVTKLGQryoAp-Ak8a0ZUtayNJrQT29iOKhoMDAwdTAwMHXX-l4LY89NkSwLp6nBSfEApViOYspY4_11hmUuFvoDQBFTiff_z4VGUDYK3S9cNzaoHdzX2aeWQ6pKdRu_cRJJQqxZLLDdksX4Csm5wj1ZFDpMftSZTbFUS8U6Q2TReecMEzAWiKD5GuBxjGXq-76ME5OG-XoEvtOu9VZ7OsUzo0Ft_LEmICAz1AeaEX-_yxfacLUl8VjFTQ7lYxC6krDMs1Pv4EJi84zlAF6bdff2yyYV81WEu-VrWq-6xaJ4K8bwOfMZyl1Xin15F4N575SP0Dy1swVNzlxBpeX2p9l6XGIz-EUsILdVj0MTTAaqWp6Xw-0SK--lxz8UHggom2BFx_UGg1e3A-fjg_j1jV33-k3o6azTi61bWwVb2_rZqBjxyZbFz4EBOyCDp6zaFSm9Ex62SqugYFpQt4pMlOx3AYM4mxyqYY8FFni7GJIS4qHkXBauKlHeV2B11JZh1mxreuleV4wXXFBwqnE5Bc8LlvggUxKTdvLikk_QVvtawF9FArISmMYev2_RJ_XY0bk=) Dont want to hear from us again? [ Unsubscribe from our emails here](https://link.the-ken.com/asm/?user_id=2349339&data=WkShVC7Q05oPzKekXE_j_BLO9r_zzIHB-bBepgFjXU9oMDAwdTAwMKsPMZm5ii-iq_8clLk7i92Q5j9XaOnr8KK6Btz_e94dzuPODyTcicBK_hSiKizb7gIIO3sgjqEE9GCsTMeBAAeWBXxcuiBkjlsba7RNkAYokYtuscJhIuW19gXkRDibMqppQLJ4xYgSFeOdmFp5aW_CBsmCCIlkGp7HdhfDxpsmM_xlG_gVm8HMDgvViyaRLkWrrfp-NB37hcsJIoJX6bfpopwIMer778wM8d-qtZCjeYY_YPBib9brsfYf-tg5PG3pu-qSVK1KfkOX76AWIiYYInMen901DFL58N-MMd4aJsDPHmKgY7BYrCEDDpQsaMT4LIDO-WqnbCk1WMIH7Gbtt9H8LXzlof9cfD7nKZjStNVxX_elNebKse5kY2M_QQTYJ6gFzbno2ZdfSGIzBAWR4ZQKqqmRk9PQlPoCyDFVrwQsS4a4qd_2TKjmfGMTH_VDWJiBiKs467NrNTkPCC5ArFV7VAwalxTBjg0FjRqMrBr0qndWO6sHXi07gfZnQg==).
+Something wrong? Tell us at [support@the-ken.com](mailto:support@the-ken.com)

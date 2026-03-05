@@ -1,0 +1,102 @@
+View this post on the web at https://newsletter.pragmaticengineer.com/p/shipping-to-production
+
+Q: As an engineer at a fast-growing startup, I’d like to learn more about how small and large companies ship code to production. Are there any ‘best practices’ worth following, or does everyone come up with their own approach?
+Great question. How you ship your code to production in a way that is fast and reliable, is a question more engineers and engineering leaders should educate themselves on. The teams and companies that can do both – ship quickly / frequently and with good quality – have a big advantage over competitors who struggle with either constraint.
+In this issue we cover:
+The extremes of shipping to production.
+Typical processes at different types of companies.
+Principles and tools for shipping to production responsibly. 
+Additional verification layers and advanced tools.
+Taking pragmatic risks to move faster.
+Deciding which approach to take.
+Other things to incorporate into the deployment process.
+1. The Extremes of Shipping to Production
+When it comes to shipping code, it’s good to understand the two extremes of how code can make it to users. The table below shows the ‘thorough’ way and the ‘YOLO’ way.
+1. YOLO shipping - YOLO stands for “you only live once.” This is the approach many prototypes, side projects, and unstable products like alpha or beta versions of products, use. In some cases, it’s also how urgent changes make it into production.
+The idea is simple: make the change in production, then see if it works – all in production. Examples of YOLO shipping include:
+SSH into a production server → open an editor (e.g. vim) → make a change in a file → save the file and / or restart the server → see if the change worked.
+Make a change to a source code file → force land this change without a code review → push a new deployment of a service.
+Log on to the production database → execute a production query fixing a data issue (e.g. modifying records which have issues) → hope this change has fixed the problem.
+YOLO shipping is as fast as it gets in terms of shipping a change to production. However, it also has the highest likelihood of introducing new issues into production, as this type of shipping has no safety nets in place. With products that have little to no production users, the damage done by introducing bugs into production can be low, and so this approach is justifiable.
+YOLO releases are common with:
+Side projects.
+Early-stage startups with no customers.
+Mid-sized companies with poor engineering practices.
+When resolving urgent incidents at places without well-defined incident handling practices.
+As a software product grows and more customers rely on it, code changes need to go through extra validation before reaching production. Let’s go to the other extreme: a team obsessed with doing everything possible to ship close to zero bugs into production.
+Thorough verification through multiple stages is where a mature product with many valuable customers tends to end up, when a single bug may cause major problems. For example, if bugs result in customers losing money, or customers leaving for a competitor, this rigorous approach might be used.
+With this approach, several verification layers are in place, with the goal of simulating the real-world environment with ever more accuracy. Some layers might be:
+Local validation. Tooling for software engineers to catch obvious issues.
+CI validation. Automated tests like unit tests and linting running on every pull request.
+Automation before deploying to a test environment. More expensive tests such as integration tests or end-to-end tests run before deployment to the next environment.
+Test environment #1. More automated testing, like smoke tests. Quality assurance engineers might manually exercise the product, running both manual tests and doing exploratory testing.
+Test environment #2. An environment where a subset of real users – such as internal company users or paid beta testers – exercise the product. The environment is coupled with monitoring and upon a sign of regression, the rollout is halted.
+Pre-production environment #3. An environment where the final set of validations are run. This often means running another set of automated and manual tests.
+Staged rollout. A small subset of users get the changes, and the team monitors for key metrics to remain healthy and checks customer feedback. The staged rollout strategy is orchestrated based on the riskiness of the change being made.
+Full rollout. As the staged rollout increases, at one point, changes are pushed to all customers.
+Post-rollout. Issues will come up in production, and the team has monitoring and alerting set up, and a feedback loop with customers. If an issue arises, it is dealt with by following a standard process. Once an outage is resolved, the team follows incident review and postmortem best practices, which we’ve covered before [https://substack.com/redirect/09645f1e-3b6b-4c1f-8c91-59c16aa3cf40?u=14563319].
+Such a heavyweight release process can be seen at places like:
+Highly regulated industries, such as healthcare.
+Telecommunications providers, where it is not uncommon to have ~6 months of thorough testing of changes, before shipping major changes to customers.
+Banks, where bugs could result in significant financial losses.
+Traditional companies with legacy codebases that have little automated testing. However, these companies want to keep the quality high and are happy slowing down releases by adding more verification stages.
+2. Typical processes at different types of companies
+What are “typical” ways to ship code into production at different types of companies? Here’s my attempt to generalize these approaches, based on observation. The below is a generalization, as not every company’s practices will match these processes. Still, I hope it illustrates some differences in how different companies approach shipping to production:
+Notes on this diagram:
+1. Startups: Typically do fewer quality checks than other companies. 
+Startups tend to prioritize moving fast and iterating quickly, and often do so without much of a safety net. This makes perfect sense if they don't – yet – have customers. As the company attracts users, these teams need to start to find ways to not cause regressions or ship bugs. They then have the choice of going down one of two paths: hire QAs or invest in automation.
+2. Traditional companies: Tend to rely more heavily on QAs teams.
+While automation is sometimes present in more traditional companies, it's very typical that they rely on large QA teams to verify what they build. Working on branches is also common; it's rare to have trunk-based development in these environments.
+Code mostly gets pushed into production on a schedule, for example weekly or even less frequently, after the QA team has verified functionality.
+Staging and UAT (User Acceptance Testing) environments are more common, as are larger, batched changes shipped between environments. Sign-offs from either the QA team or the product manager – or project manager – are often required to progress the release from one stage to the next.
+3. Large tech companies: Typically invest heavily in infrastructure and automation related to shipping with confidence.
+These investments often include automated tests running quickly and delivering rapid feedback, canarying, feature flags and staged rollouts.
+These companies aim to keep a high quality bar, but also to ship immediately when quality checks are complete, working on trunk. Tooling to deal with merge conflicts becomes important, given some of these companies can see over 100 changes on trunk per day.
+4. Facebook core: Has a sophisticated and effective approach few other companies possess.
+Facebook's core product is an interesting one. It has fewer automated tests than many would assume, but, on the other hand, it has an exceptional automated canarying functionality, where the code is rolled out through 4 environments: from a testing environment with automation, through one that all employees use, through a test market of a smaller region, to all users. In every stage, if the metrics are off, the rollout automatically halts.
+From the article Inside Facebook’s engineering culture [https://substack.com/redirect/9e11e06a-f4ff-439e-8ead-e8408e6d0c20?u=14563319], in which a former Facebook employee relates how an Ads issue was caught before causing an outage:
+“I was working in Ads and I remember this particular bad deploy which would have made a massive financial loss to the company. The code change broke a specific ad type.
+‘This issue was caught in stage 2 out of 4 stages. Each stage had so many health metrics monitored that if something went wrong, these metrics would almost always trigger - like this first safety net had done.
+“All Facebook employees used the before-production builds of the Facebook website and apps. This means that Facebook has a massive testing group of ~75,000 people testing their products before they go into production, and flagging any degradations.”
+3. Principles and tools for responsibly shipping to production
+What are principles and approaches worth following if you are to ship changes to production in a responsible manner? Here are my thoughts. Note that I am not saying you need to follow all the ideas below. But it’s a good exercise to question why you should not implement any of these steps.
+1. Have a local or isolated development environment. Engineers should be able to make changes either on their local machine, or in an isolated environment unique to them. But it’s more common to have developers work in local environments. However, places like Meta are moving over to working on remote servers dedicated to each engineer. From the article Inside Facebook’s Engineering culture [https://substack.com/redirect/9e11e06a-f4ff-439e-8ead-e8408e6d0c20?u=14563319]:
+“Most developers work with a remote server, not locally. Starting from around 2019, all web and backend development is done remotely, with no code copied locally, and Nuclide facilitating this workflow. In the background, Nuclide was using virtual machines (VMs) at first, later moving to OnDemand instances – similar to how GitHub Codespaces works today – years before GitHub launched Codespaces. 
+“Mobile development is still mostly done on local machines, as doing this in a remote setup as with web and backend has tooling challenges.”
+2. Verify locally. After writing the code, do a local test to make sure that it works as it should.
+3. Consider edge cases and test for them. Which non-obvious cases does your code change need to account for? What are use cases that exist in the real world that you might have not accounted for?
+Before finalizing work on the change, put together a list of these edge cases. Consider writing automated tests for these, if possible. At least do manual testing on them.
+Coming up with a list of edge cases is a scenario when QA engineers or testers can be very helpful in coming up with non-conventional edge cases, if you work with them.
+4. Write automated tests to validate your changes. After you manually verify your changes, exercise your changes with automated tests. If following a methodology like TDD, you might do this the other way around by writing automated tests first, then ensuring those tests are passed following your changes.
+5. Get another pair of eyes to look at it: code review. With all changes validated, get someone else with context to look at your code changes. Write a clear and concise description of your changes, make it clear which edge cases you’ve tested and get a code review. Read more about how to do good code reviews and better code reviews [https://substack.com/redirect/2e5b2896-7690-4eff-9e61-4b32c282886c?u=14563319].
+6. All automated tests pass, minimizing the chances of regressions. Before pushing the code, run all the existing tests for the codebase. This is typically done automatically, via the CI / CD system (continuous integration / continuous deployment).
+7. Have monitoring in place for key product characteristics related to your change. How will you know if your change breaks things that automated tests don’t check for? Unless you have ways to monitor health indicators on the system, you won’t. So make sure there are health indicators written for the change, or other ones you can use.
+For example at Uber, most code changes were rolled out as experiments with a defined set of metrics they were expected to either not impact, or to improve. One of the metrics that was expected to remain unchanged was the percentage of people successfully taking Uber trips. If this metric dropped with a code change, an alert was fired and the team making the code change needed to investigate if their change had done something to degrade the user experience.
+8. Have oncall in place, with enough context to know what to do if things go wrong. After the change is shipped to production, there’s a fair chance some defects will only become visible much later. That why’s it good to have an oncall rotation in place with engineers who can respond to either health alerts, or to inbounds from customers, or customer support.
+Make sure the oncall is organized in a way that those performing oncall duty have enough context on how to mitigate outages. In most cases, teams have runbooks with sufficient details for confirming outages and mitigating them. Many teams also have oncall training, and some do oncall situation simulations to prepare team members for their oncall.
+9. Operate a culture of blameless incident handling, where the team learns and improves following incidents. I cover this topic in-depth in the article Incident review and postmortem best practices [https://substack.com/redirect/09645f1e-3b6b-4c1f-8c91-59c16aa3cf40?u=14563319].
+4. Additional verification layers and approaches
+What are layers, tools and approaches that some companies use as additional ways to deliver reliable code to production? It’s common for teams to use some of the approaches below, but rarely all of them at once. Some approaches cancel each other out; for example, there’s little reason to have multiple testing environments if you have multi-tenancy in place and are already testing in production.
+Here are 9 approaches that provide additional safety nets:
+1. Separate deployment environments. Setting up separate environments to test code changes is a common way to add an additional safety net to the release process. Before code hits production, it’s deployed to one of these environments. These environments might be called testing, UAT (user acceptance testing), staging, pre-prod (pre-production) and others.
+For companies with QA teams, QA often exercises a change in this environment, and looks for regressions. Some environments might be built for executing automated tests, such as end-to-end tests, smoke tests or load tests.
+While these environments look good on paper, they come with heavy maintenance costs. This is both in resources, as machines need to be operated so this environment is available, and even more so in keeping the data up-to-date. These environments need to be seeded with data that is either generated, or brought over from production.
+Read more about deployment and staging environments in the article Building and releasing to deployment environments [https://substack.com/redirect/1c70b94f-5176-4836-b014-0117cf0cae2a?u=14563319], published by the Harness team.
+2. Dynamically spin up testing / deployment environments. Maintaining deployment environments tends to create a lot of overhead. This is especially true when, for example, doing data migrations [https://substack.com/redirect/6d5334d9-0749-40f0-a520-142c1d0d995b?u=14563319] means data needs to be updated in all the test environments.
+For a better development experience, invest in automation to spin up test environments, including the seeding of the data they contain. Once this is in place, it opens up opportunities to do more efficient automated testing, for people to validate their changes more easily, and to create automation that better fits your use cases.
+3. A dedicated QA team. An investment many companies make which want to reduce defects, is hiring a QA team. This QA team is usually responsible for manual and exploratory testing of the product.
+My view is if you have a QA team that does only manual testing, then there is value in this. However, if the team executes manual tests on things that could be automated, the time overhead of manual testing will slow the team down instead of speeding them up.
+In productive teams, I’ve observed QA transition into domain experts and help engineers anticipate edge cases. They also do exploratory testing and find more edge cases and unexpected behaviors.
+However in these productive teams, QA also become QA engineers, not manual testers. They start to get involved in the automating of tests, and have a say in shaping the automation strategy so it speeds up the process of code changes making it into production.
+4. Exploratory testing. Most engineers are good at testing the changes they make, verifying they work as expected, and at considering edge cases. But what about testing in a way which relates to how retail users of the system utilize the product?
+This is where exploratory testing comes in.
+Exploratory testing is trying to simulate how customers might use the product, in order to come across the edge cases they may stumble upon. Good exploratory testing requires empathy with users, an understanding of the product, and tooling with which to simulate various use cases.
+At companies with dedicated QA teams, these QA teams usually do exploratory testing. At places without dedicated QA teams, it’s either down to engineers to perform this testing, or companies will sometimes contract vendors specializing in exploratory testing.
+This post is too long to fit in an email. Continue reading online [https://substack.com/redirect/5f971f51-83b5-426c-91a3-f5fb3fd59cf7?u=14563319] for the parts on:
+4. Additional verification layers and advanced tools (second part)
+5. Taking pragmatic risks to move faster.
+6. Deciding which approach to take.
+7. Other things to incorporate into the deployment process.
+Further reading
+
+Unsubscribe https://newsletter.pragmaticengineer.com/action/disable_email?token=eyJ1c2VyX2lkIjoxNDU2MzMxOSwicG9zdF9pZCI6NTYzNzE5ODgsImlhdCI6MTY1MzQwNjM1MCwiaXNzIjoicHViLTQ1ODcwOSIsInN1YiI6ImRpc2FibGVfZW1haWwifQ.Y4aXljJS_xA_8qmm0FtKvZfmFdeURLVzAhEv5X0TNIo

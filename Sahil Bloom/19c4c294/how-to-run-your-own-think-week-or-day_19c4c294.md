@@ -1,0 +1,207 @@
+---
+subject: "How to Run Your Own Think Week (or Day)"
+from: "\"Sahil Bloom's Curiosity Chronicle\" <sahil@sahilbloom.com>"
+to: ""
+date: 2026-02-11 10:05:00
+labels: ["CATEGORY_PERSONAL", "INBOX", "Sahil Bloom", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_1989028747625928812", "UNREAD"]
+---
+The Think Week Playbook: A Step-by-Step Guide
+watch on [YouTube](https://a01c829f.click.convertkit-mail4.com/lmu0onn873fmhneodmvu6h8vvmv00cgh2n0x2/p8heh9h4mkeldvuq/aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g_dj1HZjd4T01JWTBGQQ==) or read and listen on [sahilbloom.com](https://a01c829f.click.convertkit-mail4.com/lmu0onn873fmhneodmvu6h8vvmv00cgh2n0x2/kkhmh6hnrgp325bl/aHR0cHM6Ly93d3cuc2FoaWxibG9vbS5jb20vbmV3c2xldHRlci90aGUtdGhpbmstd2Vlay1wbGF5Ym9vay1hLXN0ZXAtYnktc3RlcC1ndWlkZQ==)
+read time 12 minutes
+Welcome to The Curiosity Chronicle, a newsletter where I provide actionable ideas to help you build a high-performing, healthy, wealthy life.
+Forwarded this email? Join 800,000+ other readers [here](https://a01c829f.click.convertkit-mail4.com/lmu0onn873fmhneodmvu6h8vvmv00cgh2n0x2/58hvh7hgqpwzo0h6/aHR0cHM6Ly93d3cuc2FoaWxibG9vbS5jb20vbmV3c2xldHRlcg==).
+Apple CEO Tim Cook called my first book "a powerful call to action to think deeply about what lights you up." Join 400,000+ other readers and get it now on a big sale!
+|
+[Lovable](https://a01c829f.click.convertkit-mail4.com/lmu0onn873fmhneodmvu6h8vvmv00cgh2n0x2/9qhzhnhd0k8l3gu9/aHR0cHM6Ly9sb3ZhYmxlLmxpbmsvc2FoaWxibG9vbWxp): Turn ideas into reality––fast!
+Ideas don’t wait around. The longer you sit on them, the more momentum you lose. That’s why [Lovable](https://a01c829f.click.convertkit-mail4.com/lmu0onn873fmhneodmvu6h8vvmv00cgh2n0x2/9qhzhnhd0k8l3gu9/aHR0cHM6Ly9sb3ZhYmxlLmxpbmsvc2FoaWxibG9vbWxp) is so powerful.
+You describe what you want to build, and it helps you turn that description into a real app or website. No coding, no friction. Some of my friends are using it to test startup ideas, ship internal tools that save hours each week, and launch personal projects in minutes instead of months.
+[Lovable](https://a01c829f.click.convertkit-mail4.com/lmu0onn873fmhneodmvu6h8vvmv00cgh2n0x2/9qhzhnhd0k8l3gu9/aHR0cHM6Ly9sb3ZhYmxlLmxpbmsvc2FoaWxibG9vbWxp) removes the gatekeepers. If you can imagine it, you can build it.
+No permission. No waiting. Just making.
+See what you can create with Lovable today!
+|
+The Think Week Playbook: A Step-by-Step Guide
+The Think Week (or Day) is a ritual that will change your life.
+The concept was first popularized by several world-renowned entrepreneurs and innovators in the 1980s and 1990s, but its underlying foundation has been around for thousands of years.
+History’s greatest leaders, thinkers, and builders have all believed in the power of space to create asymmetric outcomes. It allows you to slow down, zoom out, change perspective, and invest energy into the moments and opportunities that really matter.
+Unfortunately, the importance of space has been forgotten in a modern world where busyness is the standard.
+And without space, you get stuck. Trapped in a fixed loop of inputs and outputs, the 1-to-1 trades that keep you on the life treadmill. You become a rocking horse, always moving, but never getting anywhere.
+Today, I’d like to share a detailed playbook for a space-creating ritual that changed my life.
+Here’s a step-by-step guide for running your own Think Week (or Day):
+P.S. You can download and share a PDF of this entire guide [here](https://a01c829f.click.convertkit-mail4.com/lmu0onn873fmhneodmvu6h8vvmv00cgh2n0x2/n2hohvhvmw4k5vt6/aHR0cHM6Ly9iaXQubHkvNGJMNXNsVQ==).
+Step 1: Choose Your Format
+There are three formats of the ritual that I’ve personally tested:
+- Think Day (Condensed): 1-2 Hours
+- Think Day (Full): 6-8 Hours
+- Think Week: 2-4 Days
+As a first step, you’ll want to think through the options and select a format that fits your life and needs.
+My general recommendation is to start with a Condensed Think Day before progressing to a Full Think Day or Think Week, as it will provide a low-cost, low-friction test run for the experience.
+Most people can find 1-2 hours to carve out from their schedule, but it’s more difficult to plan 2-4 days if you have a family, work commitments, etc.
+Step 2: Create Your Rules
+No matter what format you choose, establish a few clear rules to govern the experience.
+The three general rules I’ve established for my Think Weeks (or Days):
+- Limited technology. It’s important to disconnect from the constant stimulus. If you need some level of connectivity, structure it into discrete windows and leave the items in a separate room outside of those.
+- Use analog tools. I use a notebook and pen as my primary instruments and also love having a large whiteboard or sticky sheets to have more physical space to flesh out the bigger topics.
+- Avoid disruptions. No scheduled meetings, phone calls, or interruptions that will break your flow state.
+My rules are a simple reflection of what has made my experiences most valuable in the past, but you can add, edit, or adapt them as you see fit.
+Just make sure you stick to the rules you create!
+Step 3: Build Your Structure
+Once you have a format, build out a structure for the experience.
+In general, I like to split into Professional and Personal segments. Then, based on the format length, you build out an outline for the experience.
+A few proposed structures might look like this:
+Think Day (Condensed)
+I would structure the experience as follows:
+- 8-8:45am: Professional Focus Session
+- 8:45-9:30am: Personal Focus Session
+- 9:30-10am: Final Reflection Session
+The Professional and Personal Focus Sessions will be working through thinking prompts with a professional or personal lens.
+The Final Reflection Session is an opportunity to consolidate your insights and create an action plan around the next steps.
+Think Day (Full)
+I would structure the day as follows:
+- 8-10am: Professional Focus Session
+- 10-10:30am: Break/Walk
+- 10:30-12:30pm: Personal Focus Session
+- 12:30-1:30: Break/Walk
+- 1:30-3:30pm: Open Focus Session
+- 3:30-4pm: Break/Walk
+- 4-5pm: Final Reflection Session
+The Professional, Personal, and Reflection Sessions are the same as in the Condensed Think Day.
+The Open Focus Session is intended to provide an open window to go deeper on specific pain points or insights that have been uncovered in the earlier sessions.
+Note: Don’t skip the breaks/walks! The [science](https://a01c829f.click.convertkit-mail4.com/lmu0onn873fmhneodmvu6h8vvmv00cgh2n0x2/wnh2hghqn9d3vgb7/aHR0cHM6Ly93d3cuc2FoaWxibG9vbS5jb20vbmV3c2xldHRlci90aGUtYXJjaGltZWRlcy1wcmluY2lwbGUtdGhlLXNjaWVuY2Utb2Ytc3VkZGVuLWluc2lnaHQ=) supports the idea that active rest helps unlock breakthroughs. They are placed strategically throughout the day to activate this process.
+Think Week (3 Day)
+I would split the multi-day experience as follows:
+- Day 1: Professional Focus
+- Day 2: Personal Focus
+- Day 3: Open Focus
+My rough agenda for each day would look like this:
+- 5-8am: Morning Routine, Fitness, Breakfast
+- 8-10am: Focus Session 1
+- 10-10:30am: Break/Walk
+- 10:30-12:30pm: Focus Session 2
+- 12:30-1:30: Break/Walk
+- 1:30-3:30pm: Focus Session 3
+- 3:30-4pm: Break/Walk
+- 4-5pm: Final Reflection Session
+- 5-8pm: Dinner, Evening Routine, Sleep
+With a full day for each major life area, plus an open day, you’ll be able to create breakout sessions on specific sub-areas.
+For example, on the Professional Focus day, you might do specific Focus Sessions on each major business segment or opportunity. On the Personal Focus day, you might do specific Focus Sessions on each of the relationships, physical health, and mental health.
+Given the multi-day nature of the Think Week, I recommend ventilating the agenda with open, spacious pockets for movement, breaks, and meals. It will keep you fresh and make the entire experience feel energizing, rather than exhausting.
+Note: You can run a Think Week or Full Think Day in a group setting with your co-founders, team, partner, or family. I’ve done so with great results. If you’re going to do this, my recommendation would be to keep the Focus Sessions individual and come together for collaborative reflection sessions built out around meals. This will provide an opportunity to share your insights, ask each other questions, and reflect without interfering with the core individual thinking time.
+Step 4: Select Your Prompts
+With your format, rules, and structure in hand, you can plan the prompts that will guide your sessions.
+I think of the prompts as being split across two broad categories:
+- Wings: Zoom out. Create a new perspective. Think bigger. Reframe.
+- Boots: Zoom in. Create a new plan. Action-oriented. Tactical.
+For each Focus Session, I like to spend the bulk of my time with the Wings and then finish with the Boots. The Wings are essential for uncovering fresh perspectives and insights that the Boots will build new actions upon.
+The most effective approach (in my experience) is to start with a blank page in your notebook and write the prompt at the top.
+Give yourself the space to ask the question over and over again in your mind. Don't apply pressure to immediately have the answer. Stew on it. Wrestle with it. Turn it over. As you start to have thoughts, write them down as a stream of consciousness. Again, avoid the tendency to have a clear answer or structure to your response. Just write.
+It will feel uncomfortable at first—and that's the point. That discomfort is the cost of entry for the breakthrough.
+Here are 15 of my favorite prompts (split by category):
+Wings
+If I were the main character in a movie of my life, what would the audience be screaming at me to do right now?
+We've all had that experience of watching a movie or TV show and just wanting to jump through the screen, grab the main character, and shake some sense into them. You are that main character in the movie of your life, and there is something the audience would be screaming at you right now.
+So, what is it? What is that thing that is so blindingly obvious from the outside looking in, that you are either choosing to ignore, or have yet to create enough perspective to see?
+If someone were to observe me for a week, what would they say my priorities are?
+There are two types of priorities in life:
+- The priorities we say we have.
+- The priorities are actions show we have.
+There's often a big gap between the two. Your life improves alongside your ability to close the gap.
+If someone were to observe me for a week, how serious would they say I am about my goals?
+This is a close relative of the priorities question. Are you taking the pursuit of your goals as seriously as you think? It's easy to convince yourself that you're doing what's necessary, but would that third-party observer say?
+What lie have I repeated to myself so many times that it feels like truth?
+The Illusory Truth Effect is the tendency to believe false information after consistent, repeated exposures. In other words, if you are told a lie over and over again, it takes root in your mind as a truth.
+Observe your internal dialogue: What lie have you been repeating to yourself? About your capabilities. About your worth. About your growth. Recognize it, then fight back.
+If I knew I would die in 10 years, what would I do today?
+You've heard the shorter-term version of this question (if today were my last day...), but I find it minimally impactful, as the answer usually involves seismic, dramatic change. If today were my last day, I wouldn't do any of this, I'd probably just sit around hugging my family!
+The time horizon that works: 10 years. 10 years is long enough that you still have a lot of time left, but short enough that it's very quantifiable.
+What changes would you make if you knew you wouldn't be around after 2036? What big thing would you finally pursue? What fears would melt away? What new fears would appear? Who would you remove from your life? Who would you spend more time with?
+Do I actually want the successful version of this?
+A lot of people spend their entire lives climbing a mountain, only to reach the top and realize they don't like the view.
+What does the summit of your current mountain actually look like? Do the people who have reached it have lives that you actually want?
+If not, you may want to course correct sooner rather than later.
+In what ways am I creating the situation that I don't want?
+Humans have a set of pre-wired defense mechanisms to protect our ego from damage. When we face a negative situation, our bias is to look outward for the external causes of that negativity.
+This question forces you to look inward: Are your actions, mindsets, or patterns contributing to the negative situation?
+What would I attempt if I knew I couldn't fail?
+We all have that one thing in our lives:
+- That one thing we've always wanted to do.
+- That one risk we've always wanted to take.
+- That one person we've always wanted to talk to.
+- That one goal we've always wanted to set.
+Unfortunately, a paralyzing fear of failure stands in our way, so most will never go do it.
+But what's stopping you from attempting that thing? Is the failure really that costly? Is it really that irreversible? Usually, it's not as scary as you think.
+How would the different people in your life describe you?
+There are two versions of you:
+- Aspirational: How you want to think, act, and behave on a daily basis. How you want to show up in the world.
+- Actual: How you actually think, act, and behave on a daily basis. How you actually do show up in the world.
+There will always be a gap—and that's a good thing. It means you have room to grow. But in a simple sense, the goal is to have the two be the same.
+How would the people in your various spheres of life (family, friends, colleagues, etc.) describe you? How do those descriptions align with what you would want them to say?
+Boots
+What is the pebble in my shoe?
+Muhammad Ali once said, "It isn’t the mountains ahead to climb that wear you out; it’s the pebble in your shoe."
+The mountain is the big, obvious obstacle that stands before you. The pebble is the small, silent enemy that holds you back:
+- The fixed mindset you maintain
+- The bad habit you refuse to break
+- The self-limiting story you tell yourself
+- The negative people you allow to drain your energy
+A pebble may not seem like a big deal—but walk 10 miles with it in your shoe and you'll see and feel the impact of a tiny issue amplified by distance and time.
+So, what's your pebble?
+Remember: You can't conquer your mountain until you remove your pebble.
+If everything were to stay the same, what one change would create the greatest impact?
+If you could only change a single variable in your life, which one would have the greatest impact? The forced constraint is helpful in identifying the atomic variable—the one change with ripple effects into every other area.
+This prompt helped me identify a change I needed to make around my [phone addiction](https://a01c829f.click.convertkit-mail4.com/lmu0onn873fmhneodmvu6h8vvmv00cgh2n0x2/08hwh9h2v04kwnfl/aHR0cHM6Ly93d3cuc2FoaWxibG9vbS5jb20vbmV3c2xldHRlci9ob3ctaW0tYnJlYWtpbmctbXktcGhvbmUtYWRkaWN0aW9uLWluLTMwLWRheXM=). That realization is already having enormous positive ripple effects into my personal and professional life after just two weeks.
+How can I bring the after into the before?
+Every single thing you want in life is on the other side of something that sucks. That suck might be 100 hard workouts, 100 bland meals, 100 hours of focused work, or 100 hard conversations.
+Self-improvement is a byproduct of taking actions that feel painful now, but good later.
+The most disciplined people in the world consistently pull that feeling of the after into the before. How can you do the same to improve your actions today?
+If I were to repeat my current day for 100 days, would my life be better or worse?
+What changes need to be made to the days for you to achieve the life you want in the years and decades?
+How would your actions from a typical day compound in your life? Would they be driving you forward in the direction of your goals and vision? Would they be steering you off course?
+What are the Boat Anchors in my life?
+Boat Anchors are the people, mindsets, and actions that hold you back from your potential. They create a drag on your life.
+They include:
+- People who belittle, put down, or diminish your accomplishments. Who laugh at your ambition and tell you to be more realistic. Who harm the quality of your environment through negativity and pessimism.
+- Self-limiting beliefs, stories, and mindsets.
+- Bad habits that cut into your growth.
+Identify the Boat Anchors that exist in your life so you can mitigate their impact.
+Am I allowing more information to get in the way of more action?
+Dopamine from information gathering is a dangerous drug. We tell ourselves we can't make that habit change or life move because we need to gather more information before we do.
+But it's just an excuse to hide behind.
+Do you really need more information, or do you need to take more action on the information you already have?
+Get your dopamine from action.
+Step 5: Execute Your Experience
+With your prompts selected, you're ready to begin.
+Before you start, set your intention with a single question:
+If this were to be a 10/10 experience, what would I be walking away with?
+A few final notes and words of advice for the experience:
+- Resist the urge to force anything. When you hit a wall (which you will), just sit with it. I've found that the biggest breakthroughs often come after sitting with the discomfort just a little bit longer.
+- If you need a break, go for a walk (but don't use your phone). Walking breaks will add to the experience.
+- Writing out your thoughts will help you cut through the noise. Don't feel the need for the writing to look polished. This isn't for anyone else to see. It's for you to feel.
+At the end of the Think Week (or Day), consolidate your insights and learnings into a single one-pager in your notebook.
+What were the 3-5 core takeaways?
+The process of forcing this distillation is powerful. Don't skip it.
+Take a photo of the page (and any of the essential underlying material) and email to yourself for posterity and record-keeping purposes.
+Note: If you're a power AI user, you can upload the photos into your favorite AI tool to provide it with context that may be helpful as you execute on the changes in the days and weeks ahead. I do not advocate for using AI during the experience itself, as I believe the value comes from the individual, often uncomfortable, alone time in your head.
+Your Think Week Playbook
+The Think Week is a transformative experience.
+It doesn't require any special talent or intelligence—just a willingness to create the space for the transformation to occur.
+Give it a shot and let me know what you think!
+P.S. You can download and share a PDF of this entire guide [here](https://a01c829f.click.convertkit-mail4.com/lmu0onn873fmhneodmvu6h8vvmv00cgh2n0x2/n2hohvhvmw4k5vt6/aHR0cHM6Ly9iaXQubHkvNGJMNXNsVQ==).
+Order My First Book to Unlock Exclusive Bonuses:
+The 5 Types of Wealth is the compass for your journey to a life of wealth that goes far beyond money. It provides the actionable tools to define, measure, and design your life around the pillars that truly create lasting happiness and fulfillment.
+It will help you find your True North and build your life around it.
+Order now and you'll unlock several new, exclusive bonuses:
+- Access to my Most Powerful Life Hacks Ebook: 50 timeless insights for simplifying your world and living well.
+- Access to The 5 Types of Wealth Digital Community: Join a vibrant group of like-minded individuals committed to creating a life of comprehensive wealth. Connect, collaborate, and grow together.
+- Access to The 5 Types of Wealth Launch Workshop: Get exclusive access to the full recording of this transformative virtual workshop, where I’ll guide you through specific exercises designed to help you apply the principles of the book. Watch it anytime at your convenience!
+Sahil's Recommendation Zone
+|
+My one daily health habit since 2011: [AG1](https://a01c829f.click.convertkit-mail4.com/lmu0onn873fmhneodmvu6h8vvmv00cgh2n0x2/z2hghnhen9z8rzip/aHR0cHM6Ly9kcmlua2FnMS5jb20vc2FoaWw=)!
+I started taking [AG1](https://a01c829f.click.convertkit-mail4.com/lmu0onn873fmhneodmvu6h8vvmv00cgh2n0x2/z2hghnhen9z8rzip/aHR0cHM6Ly9kcmlua2FnMS5jb20vc2FoaWw=) way before it was trendy or anyone knew about it––in 2011 when I needed to up my health game while playing college baseball. I was one of their first customers and fell in love with it. I took it consistently for over 10 years before asking the CEO for a link to share with family and friends.
+The newly upgraded [AG1 Next Gen](https://a01c829f.click.convertkit-mail4.com/lmu0onn873fmhneodmvu6h8vvmv00cgh2n0x2/z2hghnhen9z8rzip/aHR0cHM6Ly9kcmlua2FnMS5jb20vc2FoaWw=) is backed by four clinical trials and features five clinically studied probiotics, functional mushrooms, and whole food-sourced nutrients to support gut health, immune function, and sustained energy.
+[AG1](https://a01c829f.click.convertkit-mail4.com/lmu0onn873fmhneodmvu6h8vvmv00cgh2n0x2/z2hghnhen9z8rzip/aHR0cHM6Ly9kcmlua2FnMS5jb20vc2FoaWw=) is offering my amazing Curiosity Chronicle subscribers a FREE Welcome Kit including Vitamin D3+K2 and AG1 Travel packs when you first subscribe.
+|
+Sahil Bloom
+|
+|
+|

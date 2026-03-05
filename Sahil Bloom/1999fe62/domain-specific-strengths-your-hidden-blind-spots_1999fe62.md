@@ -1,0 +1,94 @@
+---
+subject: "Domain-Specific Strengths: Your Hidden Blind Spots"
+from: "\"Sahil Bloom's Curiosity Chronicle\" <sahil@sahilbloom.com>"
+to: ""
+date: 2025-10-01 13:11:23
+labels: ["CATEGORY_PERSONAL", "INBOX", "Sahil Bloom", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_1989028747625928812", "UNREAD"]
+---
+A Few Domain-Specific Things
+read on [sahilbloom.com](https://click.kit-mail6.com/68u6288pwkb8h5lm3nps7fpld5nkkh9hlk6ql/g3hnh5hmm769n3hr/aHR0cHM6Ly93d3cuc2FoaWxibG9vbS5jb20vbmV3c2xldHRlci9hLWZldy1kb21haW4tc3BlY2lmaWMtdGhpbmdz)
+read time 7 minutes
+Welcome to The Curiosity Chronicle, a newsletter where I provide actionable ideas to help you build a high-performing, healthy, wealthy life.
+Forwarded this email? Join 800,000+ other readers [here](https://click.kit-mail6.com/68u6288pwkb8h5lm3nps7fpld5nkkh9hlk6ql/9qhzhnhddkzwxdu9/aHR0cHM6Ly93d3cuc2FoaWxibG9vbS5jb20vbmV3c2xldHRlcg==).
+Apple CEO Tim Cook called my first book "a powerful call to action to think deeply about what lights you up." Join 400,000+ other readers and get it now on a big sale!
+|
+Bring Your Content Ideas To Life With [Stanley](https://click.kit-mail6.com/68u6288pwkb8h5lm3nps7fpld5nkkh9hlk6ql/n2hohvhvvw6qgra6/aHR0cHM6Ly9zdGFubGV5LnN0YW4uc3RvcmUvP3JlZj1zYWhpbGJsb29t)
+One of the biggest unlocks in my life has been consistently sharing my ideas online. But the reality is, finding the time isn’t always easy. That’s where [Stanley](https://click.kit-mail6.com/68u6288pwkb8h5lm3nps7fpld5nkkh9hlk6ql/n2hohvhvvw6qgra6/aHR0cHM6Ly9zdGFubGV5LnN0YW4uc3RvcmUvP3JlZj1zYWhpbGJsb29t) comes in.
+It’s a thought partner that helps me sharpen, pressure-test, and refine my ideas on LinkedIn, so I can spend less time wrestling with process and more time doing what matters most: writing, thinking, and sharing my authentic perspective in a way that provides value for my audience. It’s like hiring a full-time research assistant at a fraction of the cost.
+If you want to get started on your LinkedIn content journey, give [Stanley](https://click.kit-mail6.com/68u6288pwkb8h5lm3nps7fpld5nkkh9hlk6ql/n2hohvhvvw6qgra6/aHR0cHM6Ly9zdGFubGV5LnN0YW4uc3RvcmUvP3JlZj1zYWhpbGJsb29t) a try.
+|
+A Few Domain-Specific Things
+In the early 1700s, Britain was drowning in debt.
+Years of costly wars funded through borrowing (by issuing bonds) had left the government paying ballooning interest payments to thousands of private creditors and financiers who had purchased the bonds.
+With interest payments consuming a large chunk of government income, the Crown and Parliament began desperately searching for creative solutions to an increasingly urgent problem.
+In 1711, that creative solution came along: The South Sea Company.
+The South Sea Company was nominally founded with the commercial promise of opening and expanding trade between Great Britain and South America (the "South Seas").
+But it was the financial promise that makes this an interesting story...
+The South Sea Company was essentially a debt-consolidation vehicle for the British Crown and Parliament.
+The company offered a simple trade to all the holders of government bonds:
+Exchange your bonds for shares in The South Sea Company. Swap those safe but boring bonds for shares in a company that promised the thrilling upside of South American trade.
+If it worked, the government would get its breathing room with a simplified and consolidated debt structure, and the new company would get a reliable income stream to fund its business endeavors.
+The Crown and Parliament made it a more compelling offer by granting The South Sea Company a legal monopoly on trade with South America. In practice, this meant little, as South America was controlled by the Spanish, who restricted outside trade heavily, but the promise of access to untold South American riches was a story that would prove hard for investors to resist.
+For 8 years, little happened. South Sea Company stock traded at around £100 on limited activity.
+But in January 1720, the company announced it had received Parliamentary approval to assume responsibility for nearly all of Britain's national debt. Investors who chose to exchange their government bonds for company shares would receive generous terms.
+The massive publicity wave that followed the announcement sparked a surge in interest in South Sea Company stock—including from one of the most famous and respected men in Europe, Sir Isaac Newton.
+In early 1720, with the stock trading at £120, Newton purchased a large lot of South Sea Company shares.
+By the spring of that same year, the price had jumped to over £300. Newton sold his shares and made a fortune.
+But the frenzy was just beginning...
+By the early summer of 1720, the shares spiked to £1,000. Watching friends who held the stock or bought later grow far richer than him, Sir Isaac Newton became distraught.
+Consumed by a fear of missing out on the once-in-a-lifetime opportunity, Newton invested nearly his entire fortune in South Sea Company stock.
+But like all classic financial bubbles, the music soon stopped...
+Rumors began to swirl that The South Sea Company could not generate significant business in South America. Investor confidence began to wane. People sold their shares.
+Slowly, then all at once.
+By late 1720, the stock had collapsed back to £100 and Sir Isaac Newton was forced to sell his shares. He had lost £20,000 in the process, a devastating financial blow, worth millions today.
+In the aftermath of the episode, Newton passed a famous remark:
+"I can calculate the motions of heavenly bodies, but not the madness of men."
+There's one important lesson I draw from this story:
+Intelligence is domain-specific.
+Having it in one area does not imply having it in all areas—and the dangers of thinking you do are significant.
+As it turns out, there are a lot of things in life that follow this same rule.
+Here are a few more domain-specific things I’ve observed…
+Discipline
+Leo Tolstoy, the great Russian novelist, had an almost superhuman discipline as a writer. He spent years laboring over his two most ambitious works, War and Peace and Anna Karenina, often writing for 12+ hours per day. But off the page, he struggled. His diaries reveal cycles of gambling, heavy drinking, and indulgence in his youth. Even later in life, he lamented his inability to resist temptation and practice the self-restraint he preached.
+Discipline in one area does not imply discipline in all areas.
+Leadership
+In May 1940, Britain stood on the brink of collapse. France had fallen and many in Parliament favored negotiating with Hitler. Winston Churchill ascended into the role of Prime Minister. His speeches and defiance roused the hearts of the populace and led the nation through its darkest period. His wartime leadership may have saved Britain from defeat. But after the war ended in 1945, the British public promptly voted him out of office, as he was deemed out of touch with domestic peacetime concerns like housing, welfare, and economic recovery. Churchill was a great wartime leader, but a challenged peacetime one.
+Leadership in one area does not imply leadership in all areas.
+Courage
+In 1914, Ernest Shackleton led a crew of 28 men on an expedition to attempt the first land crossing of Antarctica. In 1915, their ship, Endurance, was crushed in the ice and the crew was forced into survival mode. Incredibly, Shackleton managed to keep the entire crew alive for nearly two years of open-boat voyages and long treks across frozen mountains. It was an uncanny display of courage in the face of certain death. But away from the ice, he often dodged creditors and leaned on personal charm to extract new loans instead of facing his obligations directly. One of his biographers, Roland Huntford, would describe him as "financially feckless and evasive."
+Courage in one area does not imply courage in all areas.
+Confidence
+Taylor Swift is widely considered one of the most incredible performers of her generation. During her recent tour, she would regularly step on stage in front of 50,000+ screaming fans and perform for hours with flawless command and incredible presence. But by her own admission, she often struggles with self-doubt or overthinking. She told Vogue, "When I think I haven't done the right thing...I will punish myself emotionally for it over and over again...I always have to work on being easier on myself, because overthinking is my greatest adversary."
+Confidence in one area does not imply confidence in all areas.
+Intuition
+Warren Buffett is famous for making investment decisions in minutes that others might agonize over for weeks or months. His multi-billion dollar bets on Coca-Cola, American Express, and Geico all proved extraordinarily accurate. But for decades, he missed on technology companies, passing on early investments in Microsoft, Amazon, and Google that would have multiplied his wealth many times over. He avoided missteps by focusing on areas where he had earned a strong intuition, even if it meant missing on some winners. He once said, "I have a gut instinct about what makes sense, and usually that gut instinct has been sharpened by a lot of experience."
+Intuition in one area does not imply intuition in all areas.
+The Fight of Your Life
+The worst mistakes in life are made when we assume a strength in one domain implies that strength in all domains.
+Sir Isaac Newton paid a steep price for this assumption.
+Most of us do the same on a smaller scale every single day. We overestimate the range of our intelligence, discipline, leadership, courage, confidence, or intuition. In doing so, we underestimate the work required to build and maintain them in every domain.
+In The Blind Watchmaker, Richard Dawkins wrote:
+"The body tends to revert to a state of equilibrium with its environment...if living things didn’t work actively to prevent it, they would eventually merge into their surroundings."
+It takes constant work, relentless effort, to fight the natural forces that pull against you.
+So if you want these traits across life’s domains, be ready to fight for them. Constantly. Relentlessly.
+This is the fight of your life.
+Are you ready for it?
+Order My First Book to Unlock Exclusive Bonuses:
+The 5 Types of Wealth is the compass for your journey to a life of wealth that goes far beyond money. It provides the actionable tools to define, measure, and design your life around the pillars that truly create lasting happiness and fulfillment.
+It will help you find your True North and build your life around it.
+Order now and you'll unlock several new, exclusive bonuses:
+- Access to my Most Powerful Life Hacks Ebook: 50 timeless insights for simplifying your world and living well.
+- Access to The 5 Types of Wealth Digital Community: Join a vibrant group of like-minded individuals committed to creating a life of comprehensive wealth. Connect, collaborate, and grow together.
+- Access to The 5 Types of Wealth Launch Workshop: Get exclusive access to the full recording of this transformative virtual workshop, where I’ll guide you through specific exercises designed to help you apply the principles of the book. Watch it anytime at your convenience!
+Sahil's Recommendation Zone
+|
+The one staple of my morning routine since 2011: [AG1](https://click.kit-mail6.com/68u6288pwkb8h5lm3nps7fpld5nkkh9hlk6ql/08hwh9h220gexetl/aHR0cHM6Ly9kcmlua2FnMS5jb20vc2FoaWw=)!
+I never recommend a product I don't use myself. I've been using [AG1](https://click.kit-mail6.com/68u6288pwkb8h5lm3nps7fpld5nkkh9hlk6ql/08hwh9h220gexetl/aHR0cHM6Ly9kcmlua2FnMS5jb20vc2FoaWw=) since 2011––and it just got its biggest upgrade yet. The new [AG1 Next Gen](https://click.kit-mail6.com/68u6288pwkb8h5lm3nps7fpld5nkkh9hlk6ql/08hwh9h220gexetl/aHR0cHM6Ly9kcmlua2FnMS5jb20vc2FoaWw=) is backed by four clinical trials and features five clinically studied probiotics, functional mushrooms, and whole food-sourced nutrients to support gut health, immune function, and sustained energy.
+And now it comes in 3 new flavors: Tropical, Citrus, and Berry. All from plant-based sources, with no added sugar or artificial sweeteners.
+[AG1](https://click.kit-mail6.com/68u6288pwkb8h5lm3nps7fpld5nkkh9hlk6ql/08hwh9h220gexetl/aHR0cHM6Ly9kcmlua2FnMS5jb20vc2FoaWw=) is offering my amazing Curiosity Chronicle subscribers a FREE $76 gift when you sign up. You’ll get a Welcome Kit, a bottle of D3K2 (I take this daily!), and 5 free travel packs in your first box.
+|
+Sahil Bloom
+|
+|
+|

@@ -1,0 +1,11 @@
+---
+subject: "Profile of Joe Liemandt and Alpha School"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2025-08-22 05:17:03
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+The one thing Liemandt will talk about for hours on end is Alpha School: the teacherless, homeworkless, K-12 private school in Austin, Texas, where students have been testing in the top 0.1% nationally by self-directing coursework with AI tutoring apps for two hours a day. Alpha students are incentivized to complete coursework to “mastery-level” (i.e., scoring over 90%) in only two hours via a mix of various material and immaterial rewards, including the right to spend the other four hours of the school day in “workshops,” learning things like how to run an Airbnb or food truck, manage a brokerage account or Broadway production, or build a business or drone.
+Since the explosive debut of Generative AI in 2022, Liemandt has taken $1 billion out of Trilogy/ESW in order to fund and incubate proprietary AI software products at Alpha School, where he has also served quietly as “product guy,” dean of parents, and principal. After collecting a three-year data stream in these roles, while also working in a nearby stealth lab, Liemandt believes he now has “the single best product I’ve ever built, in four decades, by far.” The product is called Timeback, and its purpose, in essence, is to scale Alpha School’s concepts and results—learn 2x in 2 hours, test in the 99th percentile, and then give students the rest of their childhood back—to a billion kids.
+Here is [the full story](http://marginalrevolution.com?action=user_content_redirect&uuid=28ad0771f798b6510b7a24595a7886f370f6ac5072760bd4d78c369b03073311&blog_id=42693868&post_id=91339&user_id=262258391&subs_id=225460721&signature=c8ec8fbda4fd1d7f2cccefb8244a7da9&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly9qb2luY29sb3NzdXMuY29tL2FydGljbGUvam9lLWxpZW1hbmR0LWNsYXNzLWRpc21pc3NlZC8&email_id=ce241b14ead4667d52247107bcaa1455) by Jeremy Stern.

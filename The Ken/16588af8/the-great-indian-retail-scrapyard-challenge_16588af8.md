@@ -1,0 +1,12 @@
+---
+subject: "The Great Indian Retail Scrapyard Challenge"
+from: "The Ken <info@the-ken.com>"
+to: ""
+date: 2018-08-30 02:35:19
+labels: ["CATEGORY_PERSONAL", "INBOX", "The Ken", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_8244464457792971031", "UNREAD"]
+---
+Do you have a television series you loved watching as a kid, which isn't around anymore? For me, nothing makes me more nostalgic than that seminal show—Scrapheap Challenge. If you haven't heard of it, it was a science show with an elegant premise: Gather a few teams in a scrapyard, and challenge them to build something. It could be something as simple as a toaster, or something as complex as a fully-working hovercraft. The catch? They had to build it using the components lying around them in the yard. The best teams were the ones who were resourceful, smart and understood how to fit individual, basic components together to make something larger.
+Sadly, Scrapyard Challenge isn't on TV anymore, but I don't really miss it much. That's because I just read about the retail sector instead. Don't laugh. The parallels are astonishing. Amazon, Google and Alibaba—the largest titans of commerce on Earth are locked in a contest in India. Their objectives are similar—use the stuff around you to glue and build something that works well together to achieve your goal. Consider this: Amazon is making investments to augment their already formidable e-commerce business—from payments startups, publishing companies, gift card firms and even Shoppers Stop. Alibaba, much like its namesake from the folk tale, has adopted a strategy of careful, considered accumulation without over-stretching itself. First Paytm. Then BigBasket. Now Zomato. Google on the other hand, has Dunzo, and the not-to-be-confused-with-a-Scandinavian-rock-band online shopping company Fynd.
+It's clear what the yard contains. It's every tech company in India which has a retail play. It's also evident what Google, Alibaba and Amazon's strengths are. So, the challengers are clear too. But every episode of Scrapheap Challenge starts with one thing—the goal. In other words, what exactly is the question? What are these companies trying to do? How do they fit together? What does the sum of the parts look like?
+Have a good day. Build great things. Sometimes, all you need to do is just look around.

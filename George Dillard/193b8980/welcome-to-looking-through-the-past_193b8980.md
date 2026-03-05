@@ -1,0 +1,9 @@
+---
+subject: "Welcome to Looking Through the Past!"
+from: "George Dillard <worldhistory@substack.com>"
+to: ""
+date: 2024-12-12 01:59:51
+labels: ["CATEGORY_PERSONAL", "George Dillard", "INBOX"]
+label_ids: ["CATEGORY_PERSONAL", "Label_8626544264601150563", "INBOX"]
+---
+This newsletter’s name is Looking Through the Past, because that’s what I’ll be doing here. Each week, I’ll take you on a tour through art, artifacts, and ephemera from history. My goal is to give you some striking things to look at, share some interesting historical knowledge with you, and use the past to look at our own society. When I dig into a new topic, I’m never quite sure what I’ll find, but I always end up fascinated by the beauty and strangeness of the past. I hope you will, too. I’ll try to publish each Sunday, so keep your eyes peeled for some new historical perspectives to start each week. This newsletter is free, and for right now I plan to keep it that way, with nothing paywalled. I have, however, enabled paid subscriptions, and would be eternally grateful to anyone who wants to support my work financially. I started doing this sort of writing because I enjoy it, but to be honest, I have a day job and other writing projects that actually pay, so the financial support of even a few of you would help me to devote more time to this endeavor and move to a more frequent publishing schedule. I’m looking forward to looking through the past each week with you. I hope you’ll join me. Thanks for reading all the way to the bottom — as a little treat, here’s a medieval picture of a dog playing a cat as bagpipes. You can |

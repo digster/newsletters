@@ -1,0 +1,18 @@
+---
+subject: "Not Just a Camera, Not Just an Engine"
+from: "Contraptions <contraptions@substack.com>"
+to: ""
+date: 2025-06-14 18:06:48
+labels: ["CATEGORY_PERSONAL", "Contraptions", "INBOX", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "Label_5493170773715678215", "INBOX", "UNREAD"]
+---
+|
+It is hard to make sense of events these days because we feel constantly forced into a false choice between blind builder narratives and helpless witness narratives. Stories told by people so enthralled by new agencies they don’t notice their insensibility to current realities, or the poverty of their future visions driving their excited building. Or stories told by people so lacking in agency of any sort that their visions, while richer, are uniformly bleak and framed by their own sense of utter helplessness and doom.
+The fundamental inadequacies of these frames, much more than the right/left political leanings usually associated with them, is perhaps the real reason for my refusal to ally with any of the narratives on offer. I don’t want to be either blind or helpless, or move along a tradeoff curve between them.
+The [Contraptions Book club](https://substack.com/redirect/415089ed-8899-467d-80b8-c4324be44d9c?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) June pick is Monkey King/Journey to the West (pick either the Lovell or Jenner edition). Chat thread [here](https://open.substack.com/chat/posts/40c25889-fe72-4a54-ad71-7d0e8a670224). We will discuss this week of the 23rd.
+An interesting pattern that’s popped for me as a way out of this bind, and a possible stance from which to narrate and inhabit more powerful sorts of stories, is working with media that are simultaneously about seeing and doing.
+I first noticed this pattern in Donald Mackenzie’s idea of the economy as [an engine, not a camera](https://substack.com/redirect/c688cf50-e27b-4717-a485-70cda539662d?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o), which I turned around and applied to AI as [a camera, not an engine](https://substack.com/redirect/848a3b59-d90a-47cc-84fa-5a2d382c6b71?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o). But the rhetorical trick in both cases only works because both qualities are present in the thing being described. Both the economy and AI simultaneously exhibit engine-like and camera-like qualities, and require camera-engine stances to make work with. The camera-engine is the duck-rabbit of sense-making and agency.
+I just came across a similar idea in Carol Rose’s essay (ht [Arvind Narayanan](https://open.substack.com/users/19265788-arvind-narayanan?utm_source=mentions)), [Crystals and Mud in Property Law](https://substack.com/redirect/4c92afd1-a27c-4cb5-895a-416c77878b6d?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o), which cites [Lawrence Tribe](https://substack.com/redirect/0825b1e0-056b-4548-975e-16ac8b835a17?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) as the source of the idea that every legal decision “tells a story about the kind of society we live in. Decisions … are constitutive,” and the related notion [due to James Boyd White](https://substack.com/redirect/4dd180a4-9cbd-4598-8b23-b8383e322059?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) that legal language is “constitutive of culture.”
+In other words, camera-engine narratives are constitutive narratives that simultaneously observe/narrative and create/steer reality. How can you work with these narratives?...
+Subscribe to Contraptions to keep reading this post and get 7 days of free access to the full post archives.
+| Subscriber-only posts and full archive |

@@ -1,0 +1,197 @@
+---
+subject: "The 2021 year-end special edition"
+from: "The Nutgraf <info@the-ken.com>"
+to: ""
+date: 2021-12-18 04:34:49
+labels: ["CATEGORY_PERSONAL", "INBOX", "The Ken", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_8244464457792971031", "UNREAD"]
+---
+A paid 🔒 weekly emailer that explains fundamental shifts in business, technology and finance that happened over the last seven days in India. In a way you’ll never forget. Someone sent you this? [Sign up here](https://the-ken.com/the-nutgraf/?utm_source=su_bnr&utm_medium=email&utm_campaign=nf)
+|
+Good Morning Ishan,
+At the beginning of this year, I made a bold (and perhaps somewhat rash) attempt to predict what would happen in 2021, and key trends to keep an eye out for.
+Since then, over the past year, every Saturday, I’ve been writing to you about the connections and consequences of what happened the previous week. And what they mean for all of us. I’ve tried to explain these trends in ways that made the most sense to me—through the lens of past historical events, or through top-down quantitative analysis, or sometimes simply through a good, memorable story.
+It’s been a difficult year. It’s been a year of immense riches. It’s been a year of even greater losses. And it’s been a year of self-assessment, and reconciliation.
+And now, as it comes to an end, it’s only fair that I go back and review what I predicted to subscribers who paid to read me, and how things have turned out in the world of business, tech, and everything else in India.
+To illustrate my point, I’ve collected my best posts from the beginning of 2021 until today, roughly sorted across the seven trends and predictions I had made.
+So for the last time this year…
+…let’s dive in.
+|
+|
+Seven big trends... and how they played out
+|
+Here are those seven predictions, as I made [them](https://the-ken.com/the-nutgraf/7-things-to-watch-out-for-in-2021/) in the first week of January 2021.
+|
+|
+Prediction 1: Expect an Indian tech company to IPO in 2021
+Back then, I wrote:
+|
+There’s a running joke in the tech-journalism community. If the PR department inside a tech company is desperate to get some headline coverage, they plant a story stating that the company will ‘aim to IPO in <current year + 2 years>’.
+Of course, the bigger joke is that the tactic usually works.
+2021 promises to be the year when, after crying wolf for several years, the wolf may just arrive.
+|
+|
+7 things to watch out for in 2021, The Nutgraf
+|
+|
+|
+|
+I’d put my money on Flipkart and Zomato as the main candidates for companies that may go public. If anything, it turns out that I made a conservative prediction. Multiple companies went public. There was enough breathless coverage in the media, both positive and negative, about their stock prices. And whether they were undervalued or overvalued.
+Instead, I wrote about the stories of these companies, and what makes them special.
+[Why the Freshworks IPO feels different](https://the-ken.com/the-nutgraf/why-the-freshworks-ipo-feels-different/)
+The lessons of unoriginality, storytelling and, above all, of kudumbam
+[Paytm is not trying to acquire customers](https://the-ken.com/the-nutgraf/paytm-is-not-trying-to-acquire-customers/)
+It’s trying to do something much harder, and it’s up against the history of India and banking
+[When did Zomato become Zomato?](https://the-ken.com/the-nutgraf/when-did-zomato-become-zomato/)
+Indian companies are having a Ship of Theseus moment
+Public markets weren’t the only place where companies found capital. Private capital also found its way into the billions, surging through Indian startups, making companies into unicorns at an unprecedented rate.
+Thanks to this surge of capital, it became evident to me that India’s tech sector has two natural limits.
+I wrote about both of them, and they became fairly popular.
+[Why India won’t see a $100 billion internet company anytime soon](https://the-ken.com/the-nutgraf/why-india-wont-see-a-100-billion-internet-company-anytime-soon/)
+The real reason why there’s a surge of funding and IPOs is because the internet consumer base has flatlined
+[The 10,000 engineer rule ](https://the-ken.com/the-nutgraf/the-10000-engineer-rule/)
+The real reason why everyone is fighting for tech talent in India.
+If you prefer, you can watch me explain it on national television [here](https://www.youtube.com/watch?v=zUOnyERLFg8).
+|
+|
+|
+|
+Prediction 2: Social will make a comeback... in a fashion
+Back then, I wrote:
+|
+|
+It’s likely that we’ll see several companies in India use social media in their own way. This will most likely be led by ed-tech startups who are flush with funds to try out bold, innovative moonshots. Then there’s the fact that education—which has always inherently been a ‘social’ activity for thousands of years, has the greatest incentive to reimagine that experience for the online world.
+|
+|
+|
+|
+This didn’t exactly happen.
+Sure, we saw the rise of several companies trying out cohort-based courses in India—offering anything from Product Management and Growth to even alt-MBAs. And many of them used social media to varying degrees.
+But innovative moonshots?
+Hardly any.
+I may have gotten this part wrong, but a little later, I wrote the following:
+|
+|
+Just bear in mind that sentiment about the power of social generally goes through cycles. One year, everyone thinks that social is back. Then the next year, the same people say that social is dead.
+With that caveat, I think this year will see some interesting social experiences, at least one of which will be fairly disruptive.
+|
+|
+|
+Turns out, we did see some really disruptive social experiences in 2021.
+First, there was the metaverse.
+|
+And then there was social audio, which simply exploded in 2021.
+|
+All through 2021, we saw how social was changing everything, and the battles these companies fought regularly.
+[WhatsApp to WhatsShop](https://the-ken.com/the-nutgraf/whatsapp-to-whatsshop/)
+Facebook’s pieces to becoming a commerce company are falling into shape
+[Clubhouse’s 10% better solution ](https://the-ken.com/the-nutgraf/clubhouses-10-better-solution/)
+What happens when one of the world’s most powerful venture firms builds a formidable weapon to displace the media industry?
+[Facebook’s Metamorphosis](https://the-ken.com/the-nutgraf/facebooks-metamorphosis/)
+And what it means for India, its largest growth market
+[You can now sue Twitter?](https://the-ken.com/the-nutgraf/you-can-now-sue-twitter/)
+Twitter loses its intermediary status in India.
+[Twitter sends signals ](https://the-ken.com/the-nutgraf/twitter-sends-signals/)
+There’s Twitter’s relationship with Indians. And India’s relationship with Twitter
+|
+|
+Prediction 3: Agritech will move from margins to mainstream
+To be fair, this was based on an assumption.
+|
+|
+However, in 2020, three farm laws were passed by the government. Laws which are being quite vigorously protested by farmers right now, with claims that this will amount to a takeover of agriculture by private companies.
+Assuming that the farm laws do not get repealed, expect agritech companies to suddenly attract a lot of capital from venture capitalists, all eager to jump in on the opportunity.
+|
+|
+|
+|
+After a year of turmoil, the farm laws were repealed last week.
+|
+|
+|
+|
+Prediction 4: Jio makes the transition from 'campaigning to governing'
+When 2020 ended, it appeared as though nothing could stop Jio. It had raised billions of dollars from some of the mightiest companies and funds in the world to finance its extension into retail, mobile, and consumer applications.
+|
+|
+Until now, Jio fought the world...and Jio won. In 2021, the only thing that stands between Jio and all that it wants to achieve is Jio.
+Jio’s battle in 2021 is going to be against itself. Can it achieve all that it promised to? Or will it find out that its ambitions were set far too high?
+We’ll have some indication of the answer by the end of the year.
+|
+|
+|
+And we do.
+Jio has had a difficult year. 5G hasn’t been rolled out yet. Its much-awaited phone, after a lot of delays, is slowly getting off the ground. And the less said about its retail performance, the better.
+Things are difficult for Jio because of complex, global reasons.
+Sometimes, it’s because of $1.
+[Jio struggles with the final piece](https://the-ken.com/the-nutgraf/jio-struggles-with-the-final-piece/)
+A victory that once promised to be swift and decisive now looks much more grinding.
+|
+|
+|
+|
+Prediction 5: The vaccine may be a habit
+It’s easy to forget this, but in early 2021, there were no vaccines available commercially. There was no CoWin website, and many Indians were starting to believe that the virus wasn’t going to impact us much.
+All through 2021, I wrote extensively about the vaccine rollout, to illustrate the complexity and ambition of mankind’s mission to stop the biggest health crisis in a generation. And as India reeled during the second wave, with hospitals choked and oxygen cylinders scarce, it became clear that everything rested on vaccines.
+Here they are, in chronological order.
+[Welcome aboard the global vaccine tour](https://the-ken.com/the-nutgraf/welcome-aboard-the-global-vaccine-tour/)
+[How India lost the vaccine war](https://the-ken.com/the-nutgraf/how-india-lost-the-vaccine-war/)
+[The 66 year old forgotten story](https://the-ken.com/the-nutgraf/the-66-year-old-forgotten-story/)
+[One less obstacle](https://the-ken.com/the-nutgraf/one-less-obstacle/)
+[What happens in the third wave?](https://the-ken.com/the-nutgraf/what-happens-in-the-third-wave/)
+[Covaxin’s battle of light and darkness](https://the-ken.com/the-nutgraf/covaxins-battle-of-light-and-darkness/)
+Back then, it looked like all we needed to beat Covid was two doses.
+At the end of 2021, with Omicron’s shadow looming over us, and booster doses in production, it’s now increasingly clear that vaccines are going to be a habit.
+|
+|
+|
+|
+Prediction 6: Fintech will get more exciting...and more inefficient
+|
+|
+|
+|
+Prediction 7: Ed-tech consolidation will take place
+Well, guess what happened in 2021.
+|
+If you want to get a sense of why Byju’s reminds me of Alexander the Great, well…
+[Byju’s the great enigma](https://the-ken.com/the-nutgraf/byjus-the-great-enigma/)
+The stories about the all-conquering world’s largest ed-tech company has echoes from the past
+|
+|
+How The Nutgraf comes together every week
+Before I sign-off from this edition, let me say thank you.
+Thank you for subscribing, for reading this every week and for telling others about it. Above all, thank you for the feedback you send my way after every edition. I’m notoriously bad at replying to emails, but I read every single thing you write and send me.
+If you’d like to know a bit more about the history of The Nutgraf, how this newsletter comes together every week, and how I think about stories, I spoke about it at length with Ravishankar Iyer, at the Story Rules podcast a few months back.
+|
+|
+|
+|
+Ravi is a long-time subscriber of The Ken, and patiently indulged me for nearly a couple of hours while I rambled and geeked out about story structure, conflict, Aaron Sorkin and much more.
+I won’t lie — I felt like a celebrity.
+You can listen to the episode [here](https://www.storyrules.com/podcast/e07-praveen-gopal-krishnan-writer-of-indias-largest-paid-newsletter/).
+Oh, also I really recommend subscribing to Ravi’s podcast. It’s phenomenal, and he conducts some amazing interviews with some of the best storytellers in India. If you want to understand stories, there really isn’t a better podcast.
+|
+That’s about it from me.
+I’ll be off for the next couple of weeks, for Christmas and for the New Year.
+And I’ll see you all on January 8th, 2022.
+Merry Christmas and Happy New Year.
+Take care.
+Regards,
+Praveen Gopal Krishnan
+|
+https://sg-mktg.com/MTYzOTgwMjA0NHxmMUNXUkZpZEd2MFMwR1dxenprSmQ5bkc3d2FWUG9sU0pBeEFpeDZSeFlMNktub2JYdW9nRmw1QjdQdjU0MGxXdkZYOXRXbmNrMUpVaG02NDFSeUtZUXc0eEFPaFBVcERqRU1KU1BuZFM5b0dpNkJBNnU2ajBNQ04wRTJGTlp4Mm5VdWlXQUcyWEVreWxIUHdOR3hJcmxxdGw3bzBkQ2FNdW1ZNEJWQ2Q5X19YU3VfQXpBMUNkR1dxbFpKTENta2ZXOFo1eHh1bkFOSDJ4RThKbWVTQU50RU9KNTFuSldjaXFGa2FsWktiQ3U4MzBDYl9JM0F6bXFVTmR5R3RmWGlZNXc9PXxK0v42oyBsC5MrGblbIuZ58EOoNhpxKqhsfDA9tbYp1A==
+The Nutgraf is a paid weekly emailer that explains fundamental shifts in business, technology and finance that happened over the last seven days in India. In a way you’ll never forget.
+Know someone who would like The Nutgraf?
+Want to receive The Nutgraf every week?
+|
+|
+The Nutgraf is published by The Ken—a digital, subscription-driven publication focussing on technology, business, science and healthcare.
+|
+Want to unsubscribe from our weekly newsletter, The Nutgraf? Click [here](https://link.the-ken.com/asm/unsubscribe/?user_id=2349339&data=N1WBUOf3BEvPkEoz1OSayericQVZjXd04aRpOludcefObKCdI9YDea09Gx90GLsnL7T09jyihAj3qBXOcKj-OyAjiUrpzLztdi9WQXBT5R8-dxquXizrwOPSUmZKdBQl9bFtstjFcoUr9r0zK81TOKt5UwYo-kixFaIJUKOurM94ql71RMAszLqzuqjHsm83DqKH9jAVHYqbrBpcPBLYwpVZFjLOru4UKn0xn03VcZGw2qlJi4ZoqDakL9Mor986xRK5S5aW5_fGn1DjMvwf7yncPM1ADagcaluZGsAIkk6qUXj5_VnFxI7QHdfAidvTzu1CcRJ5fmBdFqXpKcc_KGV_-SwOJGkiEXQg9_-hsrpeORF-vFp85YzJm-E-CgVAC9CPho45FthE_LvSLg6O4VSAmZ_eF8ooqp6IjRsTZZobpcaOPjOAO7EzLMpOK7OSmSRVqNzTd_-8vrLCkWWjNiJi7B0gbyM-OWby8gG7ZwOLg2ktY3yQtsLh0OVyLiGnVL-3d-tVX0tMbO0hwhnxEijyz6t3siwAHfqJsNFTmQJjqQevZOiL_dKfFTFAIc4C). Or set your email preferences [here](https://the-ken.com/newsletters/?utm_source=usb_ftr&utm_medium=email&utm_campaign=nf)
+© 2021 The Ken
+|
+|
+|
+|
+|

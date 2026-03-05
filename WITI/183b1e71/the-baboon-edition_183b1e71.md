@@ -1,0 +1,35 @@
+---
+subject: "The Baboon Edition"
+from: "\"Why is this interesting?\" <whyisthisinteresting@substack.com>"
+to: ""
+date: 2022-10-07 10:00:18
+labels: ["CATEGORY_PERSONAL", "INBOX", "UNREAD", "WITI"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "UNREAD", "Label_5752899537867939131"]
+---
+|
+|
+| |||||||||||||||
+Joseph Dana (JD) is a longstanding friend of WITI and a South Africa-based writer. He formerly edited the opinion pages at The National in Abu Dhabi and served as Monocle's Eastern Mediterranean correspondent and Istanbul bureau chief. Sign up for his newsletter: “[Both/And](https://substack.com/redirect/7539590d-f86e-4999-998e-93fb04d62c4b?r=8o54n)” - Colin (CJN)
+Joseph here. Earlier this year, my wife and I moved to Kommetjie, South Africa, a small village near the tip of the Cape Peninsula known for its coastline, surfing, and natural vistas. Since the Covid-19 lockdowns, Kommetjie has grown in size as newly minted remote workers have left the city center in search of value and fresh air.
+The influx of new residents (and the sheer number of new housing developments) has caused a flare up in a long-standing struggle between baboons and the human residents of the Cape Peninsula. With the craggy hills and plentiful native [fynbos](https://substack.com/redirect/a05d083b-4f70-4bb8-bbea-3c4cfa13970a?r=8o54n) plants, baboons have thrived in the area for much [longer](https://substack.com/redirect/8c49bb2f-ca7d-442e-9f37-de79a452d5e7?r=8o54n) than people have lived here. With urban growth, baboons have grown accustomed to eating human food left in trash cans and kitchens just a stone’s throw away from their natural habitat.
+Baboon in my neighbors house a couple of weeks ago.
+Most days, I see troupes of baboons casually walking down the street or climbing trees around our neighborhood. Days after we moved, my wife and I were shopping for food in Kommetije’s only deli. As we were looking for bread, a baboon walked into the store, grabbed a loaf of bread, and walked out as if it owned the place.
+Then a group of baboon rangers, which are partially [financed](https://substack.com/redirect/e5a65b79-5109-44e7-a026-db978fc2b13e?r=8o54n) by the city, came running up the street firing paintballs at the animal. Unfazed, it climbed on to the roof of a nearby house and peacefully ate the bread. These close encounters are exciting (especially for our four year old), but the baboon issue is reaching crisis levels in the Cape Peninsula.
+Why is this interesting?
+Achieving coexistence between baboons and humans is a contentious issue. The baboon habitat is [shrinking](https://substack.com/redirect/8d177173-d17d-4147-91d4-4416e0ed1366?r=8o54n) and their reliance on human food (especially fruit trees) is growing as the city expands south. Baboons don’t pose a significant bodily threat to humans, but they often wreak havoc on property. On our community chat group recently, someone shared a photo of their backdoor hanging from its hinges saying they had been robbed. After close inspection, it turned out to be the work of a baboon, who was able to rip the door open and destroy the home’s kitchen in search of food.
+Another shot that includes my garden.
+Steps have been taken to mitigate the baboon issue. We have several WhatsApp groups to alert the community when baboons enter our neighborhood so that we can close our doors and windows. Our trash cans have special locks designed to keep the baboons out. The rangers do their best to keep the troupes away from populated areas. But these measures amount to little more than a band-aid for the deeper challenge and some have taken to [killing](https://substack.com/redirect/5339139a-932d-4bb7-9e12-2f2210d666e2?r=8o54n) baboons outright.
+One idea that has been tested in other parts of Cape Town is an advanced electric fence designed to keep the baboons confined to their natural mountain habitat. I am not sold that this is the total solution. Given South Africa’s crime situation, many homes and estates already have fencing that baboons have no problem finding ways around.
+No matter what we come up with, the baboons will find a way to our food. Writing in [Architectural Review](https://substack.com/redirect/d6c7b543-52a4-4916-a758-a396ea69e410?r=8o54n) earlier this year, Tim Dee shared my perspective, “the baboons are definitely – defiantly – winning these battles. But it’s our species’ fault. We have allowed these behaviors to arise: our urban way of living has shown the baboons theirs. Why shouldn’t they ape us? Worse than that, though, winning these battles might mean that the same animals will, ultimately, lose the war.”
+Urban growth shows no sign of slowing, so we either have to live with baboons or [ship them](https://substack.com/redirect/1b8d2ec6-8915-427b-a6ea-3b8c6086f39d?r=8o54n) off to another part of the country. Stranger things have happened but for now the baboons have the upper hand. (JD)
+Quick links:
+The
+[killing of Julius,](https://substack.com/redirect/5339139a-932d-4bb7-9e12-2f2210d666e2?r=8o54n)the head of one baboon troupe, earlier this year became a major issue between animal rights groups and city authorities. What happened next highlights the impasse in finding a solution to this crisis. (JD)Kommetjie is home to some of the best big wave surfing spots in Africa. Surfer’s Journal produced an excellent video about
+[Sunset Reef](https://substack.com/redirect/870c5229-78de-460c-ad0e-7fc67168d1a1?r=8o54n), which breaks a couple of hundred meters in front of my house. (JD)Helpful tips if you ever need to keep a baboon out of your
+[home](https://substack.com/redirect/26e8ecdf-e98b-491f-af0e-fff49378d855?r=8o54n). (JD)
+—
+Thanks for reading,
+Noah (NRB) & Colin (CJN) & Joseph (JD)
+—
+[Why is this interesting?](https://substack.com/redirect/eadc88eb-80d3-4aff-8caf-ab5f77491f3e?r=8o54n) is a daily email from[ Noah Brier](https://substack.com/redirect/24d70ba7-6c89-4892-be87-f601d9642357?r=8o54n) &[ Colin Nagy](https://substack.com/redirect/b4ff81c7-d59b-4879-a936-0a30c4653c0d?r=8o54n) (and friends!) about interesting things. If you’ve enjoyed this edition, please consider forwarding it to a friend. If you’re reading it for the first time, consider[ subscribing](https://substack.com/redirect/c9380c07-b0a4-4648-89ee-3d13336c7a16?r=8o54n).
+You’re a free subscriber to [Why is this interesting?](https://substack.com/redirect/9df560f4-aefd-4ff0-9228-a56eca249ca6?r=8o54n). For the full experience, [become a paid subscriber.](https://substack.com/redirect/2/eyJlIjoiaHR0cHM6Ly93aHlpc3RoaXNpbnRlcmVzdGluZy5zdWJzdGFjay5jb20vc3Vic2NyaWJlP3Rva2VuPWV5SjFjMlZ5WDJsa0lqb3hORFUyTXpNeE9Td2lhV0YwSWpveE5qWTFNVE0zTURJMExDSmxlSEFpT2pFMk5qYzNNamt3TWpRc0ltbHpjeUk2SW5CMVlpMDNNREF3SWl3aWMzVmlJam9pWTJobFkydHZkWFFpZlEudmFOVllwUzZCMXB0ekIxUmlWOHFnMzRtc2RpTi1RZG1hYllRX3RtVVF1dyZ1dG1fc291cmNlPXBvc3QiLCJwIjo3NjkzNzMwNSwicyI6NzAwMCwiZiI6dHJ1ZSwidSI6MTQ1NjMzMTksImlhdCI6MTY2NTEzNzAyNCwiZXhwIjoxNjY3NzI5MDI0LCJpc3MiOiJwdWItMCIsInN1YiI6ImxpbmstcmVkaXJlY3QifQ.jdRcsDvnb55fGe-TRDfW9U5QwK1xF5X_eD0dNLoIOKw?&utm_source=substack&utm_medium=email&utm_content=postcta)

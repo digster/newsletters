@@ -1,0 +1,10 @@
+---
+subject: "Comparative Advantage"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2025-08-22 11:19:06
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+The excellent Don Boudreaux on [comparative advantage](http://marginalrevolution.com?action=user_content_redirect&uuid=465405e8bace27d1444beef5ad422a2b894c12177c1f7c4e2bc29003c3e4b623&blog_id=42693868&post_id=91342&user_id=262258391&subs_id=225460721&signature=df6b9954305d0b04a5f9dc51f5630456&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly9tcnUub3JnL2NvdXJzZXMvcHJpbmNpcGxlcy1lY29ub21pY3MtbWljcm9lY29ub21pY3MvY29tcGFyYXRpdmUtYWR2YW50YWdlLWRlZmluaXRpb24tdGFzbWFuaWE&email_id=74451fe970f9d1a7398bc126f38a4fd1), one of the deepest and most important ideas in economics.
+As a new semester begins this is a good reminder that [MRU](http://marginalrevolution.com?action=user_content_redirect&uuid=1d7933e8f85675d5f6275eea7e2e785458c4e93a6c428062172331d9a9e1d13d&blog_id=42693868&post_id=91342&user_id=262258391&subs_id=225460721&signature=0b8d62c82366fbbc994b7a4e4ee177da&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly9tcnUub3JnLw=&email_id=74451fe970f9d1a7398bc126f38a4fd1) has great videos for learning and teaching economics, all entirely free and open. (Of course, these videos pair delightfully with [Modern Principles of Economics](http://marginalrevolution.com?action=user_content_redirect&uuid=58457848d1c74f4e62d2c579ace44465ce6c390300422adf037e12e61b4a0039&blog_id=42693868&post_id=91342&user_id=262258391&subs_id=225460721&signature=a8a70d101b7a3fafb9764dbc62eba65a&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly9tYXJnaW5hbHJldm9sdXRpb24uY29tL291ci10ZXh0Ym9vaw=&email_id=74451fe970f9d1a7398bc126f38a4fd1)).

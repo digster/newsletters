@@ -1,0 +1,22 @@
+---
+subject: "A simple metric for choosing immigrants for America"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2025-09-21 05:08:49
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+I often hear the following standards suggested:
+1. Use willingness to pay for entry.
+2. Take people from high IQ countries.
+3. Take people from high trust countries.
+4. Take people from similar countries, which I suppose means Canada and Australia?
+5. Take people with graduate degrees.
+I will not evaluate those one-by-one, only to note they are not the very worst standards you might apply. Instead, I have a new idea, which consists of two parts. Apply strict (but not low "n") standards for admission and then:
+6. Take people from populous countries with high cognitive variance, and
+7. All other things equal, prefer people from very distant countries.
+That in essence suggests taking in people from China, India, and Russia, which are indeed countries with high cognitive variance. And today that is quite possibly the right thing to do. You will note that none of those countries count as especially high trust, and India at least has very mixed IQ readings, I am not sure about Russia given the rural idiocy there.
+To understand that standard in more general terms, #6 gets you geniuses and the extremely ambitious. They are the ones who can fight through your immigration thicket, and will be motivated to do so. And because they are coming from screwed up countries, many of them will be quite keen to leave. They also will be used to fighting very hard to get ahead, more so than a lot of the graduate students who might come from Sweden.
+#7 recognizes that a lot of people from nearby countries will come simply because it is convenient. And because of "the gravity equation." So you should discriminate against them somewhat. Note that because borders are somewhat porous, you are going to get a lot of them anyway. That is OK, but you can then penalize them a bit in the standards process, in essence to get the same net "tax" on entry. And because their home countries are nearby, they might be a little slower to assimilate.
+To be clear this is a recipe for America in 2025. A lot of other countries might do better opting for the boring Macedonian dentist, because they will not get top talent anyway. Or America in 1770, when building out a core population, might have done well with what was in essence a version of #3, with a bit of #2 and #4. Which is more or less what we did, though not by conscious design (borders were open).
+Worth a ponder. These questions are underdiscussed. I am not sure this proposal is the best idea, but it occurred to me it never has been presented before.

@@ -1,0 +1,68 @@
+---
+subject: "Inciting Incident: Swiggy has neither strong numbers nor a strong narrative"
+from: "The Ken <info@the-ken.com>"
+to: ""
+date: 2024-10-04 10:40:06
+labels: ["CATEGORY_PERSONAL", "INBOX", "The Ken"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_8244464457792971031"]
+---
+|
+|
+Inciting Incident
+Fri, 04 Oct 24
+Inciting Incident is our weekly newsletter about the most powerful tool of our age—stories. Stories told by businesses, leaders, governments..
+Good Morning Ishan,
+Regular readers may know me primarily as the writer of Inciting Incident, but I’m also the Head of Learning at The Ken. And when I am not writing this newsletter, I am either listening to business leaders talk about their problems, or conducting workshops to show them how to use storytelling to overcome some of these challenges.
+In the over two years since The Ken launched its Learning vertical, there is one challenge I’ve heard brought up over and over again. How do you marry data with storytelling to build an exciting and trustworthy narrative, powerful enough to convert the inner sceptic in all of us?
+It is a skill that is lacking in most companies.
+Which is why, last month, we launched India’s first practitioner-led workshop on [Data Storytelling](https://the-ken.com/learning/case-study/narratives-eat-data-for-breakfast/).
+And with Swiggy filing its draft red herring prospectus (DRHP) this week ahead of its planned IPO, I think it’s the perfect time to highlight why compelling data narratives are an essential currency for our times—a lesson that Swiggy doesn’t seem to have imbibed as well as its rival Zomato, which had similar challenges in terms of numbers, but managed to craft a solid narrative to hitch a ride on.
+In fact, this may even be one of the reasons why Swiggy could end up with a lower valuation than its rival, as analysts now [seem to believe](https://www.livemint.com/market/ipo/swiggy-ipo-food-delivery-startup-likely-to-command-lower-valuation-than-zomato-shares-say-analysts-11727688733960.html).
+The comparison in this chart speaks for itself.
+Almost all market commentators and analysts have spoken about this gap between Swiggy and Zomato in key metrics. Even in other service categories such as quick commerce and out-of-home consumption, Swiggy lags behind Zomato, its primary competitor.
+| Source: Swiggy DRHP |
+But it was not always like this. Not too long ago, Zomato was the one struggling with its numbers.
+Swiggy started food delivery in 2014 and Zomato in 2015. But Zomato went public in 2021, and at that time, its metrics were hardly its biggest strength. We wrote about this in a [detailed analysis](https://the-ken.com/story/the-non-obvious-takeaways-from-zomatos-ipo-prospectus/) when Zomato first filed its prospectus.
+Unlike private markets, the public market values companies on numbers rather than narratives. Metrics around profitability, growth, and free cash flows are critical. These aren’t necessarily Zomato’s greatest strengths…
+While that battle is still to be fought, there is one win that seems far more easy to pocket. For the first time, Indian retail investors will have an opportunity to invest in an Indian startup with a well-known brand, something that has been beyond their reach thus far.
+Later that year, once Zomato had gone public, we [wrote](https://the-ken.com/story/will-zomato-bring-less-sense-more-sex-to-the-sensex/) once again about how effective its narrative-building was.
+The euphoria is palpable. Every news headline, every TV interview, every viral tweet this week in India has been about one topic and one topic alone—the much-awaited public market debut of foodtech startup Zomato…
+This euphoria is playing out in two parts.
+First, the jubilation around a unicorn startup going public in India for the first time. A “watershed moment”, it signals the coming of age of Zomato specifically and of the entire Indian startup ecosystem in general. There is little doubt that this jubilation is well-deserved. Every startup journey is a battle against overwhelming odds. Founders start with meagre resources and large ambitions and continuously tilt at the windmills to turn their dreams into reality. Zomato’s 14-year journey from restaurant listing to public listing is a glorious credit to its founders, team members, and investors.
+This kind of storytelling is something Zomato has consistently leaned into even after its listing. My colleague Seetharaman wrote about its free-minded and innovative approach to communications about a year after its IPO, even though becoming a public company was starting to tone down the unpredictability.
+You have to hand it to Zomato.
+Whatever you may fault the foodtech major for, at least it’s not predictable.
+First, Zomato did away with the boring presentation most listed companies use to explain their results. Instead, it chose to have engaging commentary—mixed with key data points—from founder and chief executive Deepinder Goyal and chief financial officer Akshant Goyal.
+Then, it decided to throw a curveball by ditching the usual quarterly earnings calls with analysts in favour of annual ones. That pissed analysts off.
+And now, in its letter to shareholders released on Monday, Zomato has responded not by agreeing to take questions from analysts every three months. But by asking the questions itself.
+Wild, I know.
+Still, for all its unconventionality, Zomato is becoming more of a typical listed company than it was when it went public in July 2021.
+The Taming of Zomato, [Trade Tricks by The Ken](https://the-ken.com/tradetricks/the-taming-of-zomato/)
+Of course, this doesn’t mean that Zomato has had a perfect, or even easy, run everywhere. In early 2022, I [wrote](https://the-ken.com/incitingincident/why-what-worked-for-crypto-isnt-working-for-zomato/) in Inciting Incident about how Zomato’s narrative wasn’t enough without the numbers. Its story needed data, which Zomato wasn’t freely sharing at that point, and analysts believed this was losing the company investors’ favour. Its narrative had holes, and its leaders were shying away from answering tough questions.
+Zomato started to [redefine its identity and purpose](https://the-ken.com/incitingincident/the-zomato-story-is-breaking-free-from-its-storyteller/) during this phase, trying to break away from overly relying on the image of a charming founder to actually building a brand narrative that holistically connected its various businesses.
+But even until last year, Zomato wasn’t measuring up against Swiggy particularly well, because its numbers were not stacking up with its stories. My colleague Praveen [captured the moment](https://the-ken.com/the-nutgraf/what-makes-zomato-different-from-swiggy/) in The Nutgraf.
+One common impression about the two companies—especially if you follow the news regularly, is that Zomato does everything wrong and Swiggy does everything right.
+That may sound a bit harsh, but there are reasons why that perception exists.
+To be fair, there are things where Zomato has excelled. Its marketing and communication has always been incredible. Many companies try to imitate them, but stop short when things get a bit uncomfortable. Not Zomato. It has strong principles, and it hasn’t been afraid to stand by them and do the right thing, even at considerable political risk.
+However, the business side is another story altogether. Zomato has been making mistakes and missteps for years now.
+At some point, though, Zomato started to figure out how to marry its data with its stories to craft trustworthy long-term narratives.
+Aswath Damodaran, Professor of Finance at the Stern School of Business at New York University and the author of Narrative and Numbers—The Value of Stories in Business, famously argued that the power of a brand’s story drives corporate value, because it can persuade even cautious investors to take risks.
+Both numbers and the narrative, he says, are essential to success, and it is only when the two are combined that a business can deliver on its promises and sustain value. Compelling narratives, he says, are made up of emotional ingredients such as belief, passion, purpose, etc. And if executed earnestly, they have the power to actually influence the numbers.
+Zomato, for its part, had to learn the value of numbers. But at least it had a better grasp of crafting narratives, and it has even managed to adapt them for the public markets, as Praveen [wrote in this recent piece](https://the-ken.com/the-nutgraf/zomato-rides-the-irrationality/) from August:
+Zomato’s stock price isn’t where it is right now only because of its business performance. In the minds of its investors, Zomato can do no wrong. Zomato could announce tomorrow that it plans to change the colour of its logo to bright pink and that would send its stock price soaring. Things are already in lala land.
+We’ve seen this type of irrationality before.
+[…]
+This is really how it pans out in the private markets with VCs. Tell more and more outrageous stories about entering and conquering all kinds of markets and sell those narratives to get funding. For a long time, business journalists and analysts saw all of this madness play out in private markets and said things like, “All of this is fine with VCs, but wait till you go public. Retail investors are rational and don’t fall for stories like this.”
+Well, as far as Zomato is concerned, it seems like the irrationality has shifted to the public market.
+Swiggy, as we saw in the charts and screenshots from the DRHP earlier, doesn’t have great numbers right now either. But it has also chosen [to be timid](https://the-ken.com/the-nutgraf/swiggy-and-timidity/) in its storytelling.
+In its DRHP, all it really had to offer as an overarching narrative was its status as a pioneer in a growing market:
+| Source: Swiggy DRHP |
+| Source: Swiggy DRHP |
+Don’t get me wrong. Swiggy is not a lightweight. It has a 45% market share in food delivery, and many other strengths.
+What it doesn’t have is a great story to elevate its [not-so-great](https://the-ken.com/tradetricks/swiggy-is-even-further-behind-zomato-than-you-thought/) numbers.
+That’s a wrap for this week. Please let me know what you think about this newsletter by writing to inciting-incident@the-ken.com. I’ll be back in your inbox at 4 pm India time next Friday.
+Have a good weekend.
+Take care.
+Yours,
+Ruhi
+PS: You can enrol your team in a Narrative Thinking Workshop [here](https://the-ken.com/learning/).

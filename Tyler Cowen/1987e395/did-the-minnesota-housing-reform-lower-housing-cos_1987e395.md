@@ -1,0 +1,11 @@
+---
+subject: "Did the Minnesota housing reform lower housing costs?"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2025-08-06 07:12:25
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+Yes:
+In December 2018, Minneapolis became the first U.S. city to eliminate single-family zoning through the Minneapolis 2040 Plan, a landmark reform with a central focus on improving housing affordability. This paper estimates the effect of the Minneapolis 2040 Plan on home values and rental prices. Using a synthetic control approach we find that the reform lowered housing cost growth in the five years following implementation: home prices were 16% to 34% lower, while rents were 17.5% to 34% lower relative to a counterfactual Minneapolis constructed from similar metro areas. Placebo tests document these housing cost trajectories were the lowest of 83 donor cities (p=0.012). The results remain consistent and robust to a series of subset analyses and controls. We explore the possible mechanism of these impacts and find that the reform did not trigger a construction boom or an immediate increase in the housing supply. Instead, the observed price reductions appear to stem from a softening of housing demand, likely driven by altered expectations about the housing market.
+That is from [a new paper](http://marginalrevolution.com?action=user_content_redirect&uuid=e02c56173d188cdc70f68c68f42fafb625dcbdecc434c8f9a2860769c7b9e42b&blog_id=42693868&post_id=91231&user_id=262258391&subs_id=225460721&signature=99067933752e76a17ffd36f4ea45e28e&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly9wYXBlcnMuc3Nybi5jb20vc29sMy9wYXBlcnMuY2ZtP2Fic3RyYWN0X2lkPTUzNDcwODM&email_id=0d19a0621f9e867f3ed5e9b233bf588f) by Helena Gu and David Munro. Via the excellent [Kevin Lewis](http://marginalrevolution.com?action=user_content_redirect&uuid=ff244f696494781f75e1f0935f7fc23210d0a65b8eb0b41cb087d69eae27b215&blog_id=42693868&post_id=91231&user_id=262258391&subs_id=225460721&signature=e089343bb97282ed07b9f7fb837935e9&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly93d3cubmF0aW9uYWxhZmZhaXJzLmNvbS9ibG9nL2RldGFpbC9maW5kaW5ncy1hLWRhaWx5LXJvdW5kdXAvaGVyLW9wcG9ydHVuaXRpZXM&email_id=0d19a0621f9e867f3ed5e9b233bf588f).

@@ -1,0 +1,27 @@
+---
+subject: "What Delaware knows about startups that Gift City doesn’t"
+from: "The Ken <info@the-ken.com>"
+to: ""
+date: 2026-01-05 02:46:22
+labels: ["CATEGORY_PERSONAL", "INBOX", "The Ken", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_8244464457792971031", "UNREAD"]
+---
+Good Morning Ishan,
+Let’s say you’ve designed and built a great product. You even have paying customers who signed on early and are providing feedback on how to improve it. Investors love it too, and a seed round is in the works. The question is then: where should your company be based?
+In the past decade or so, Indian startups would set up shop domestically, then head to Delaware or Singapore when it’s time to incorporate. Both locales have friendly, transparent treatments for businesses and, just as importantly, there aren’t dense bureaucracies to navigate. But a third option is now viable for founders in India—Gift City.
+No longer merely an experimental initiative, Gift City is gaining traction. Fund lawyers in Mumbai and Singapore tell their clients that Gift City is a fit for strategies that focus on India. As of November 2025, more than 1,000 entities have registered there, with over $100 billion in banking assets moved into Gift City.
+But Valli discovered that there are still snags that prevent Gift City from truly replacing Delaware and Singapore for Indian businesses. Read her [story](https://the-ken.com/story/what-delaware-knows-about-startups-that-gift-city-doesnt/?utm_source=daily_story&utm_medium=email&utm_campaign=daily_newsletter) today to find out why.
+Got a tip? If you have a lead for a great story that The Ken can pursue, please send it to [tips@the-ken.com](mailto:tips@the-ken.com) or share it through [this form](https://theken.typeform.com/got-a-tip). To find out more about how to do this securely, read our [blog post](https://the-ken.com/blog/help-the-ken-tell-the-next-big-story/) about sharing tips with The Ken.
+SPONSORED MESSAGE
+Hi, Praveen here. I’m The Ken‘s chief product officer. I have several superpowers. I can write newsletters, co-host podcasts, and make the best roast potatoes in Bengaluru. But the one thing I cannot do is stick to a fitness routine. I’ve tried it all. I’ve downloaded all the podcasts. I’ve read all the books. In a moment of sheer desperation last year, I found myself moderating a subscriber-only fitness event for The Ken, only to be told afterwards by my trainer that I was the most unfit person on the panel. Maybe the roast potatoes had something to do with it. As a last resort, I’ve signed up to attend the Peakst8 Festival (I’ll save you the awkwardness—it’s pronounced as “Peak State”). It’s a day-long health festival on 10 January at the Centre for Sports Excellence in Bengaluru. The description for the event is intriguing—panel discussions interspersed with physical activity. There are activities such as a HYROX Mini Challenge, runs, yoga, spin sessions, tai chi, aqua pilates, sweat fest, and conversations with founders and athletes including PV Sindhu, Jonty Rhodes, Manu Bhaker, and a few others. I’ve heard of events being one of those things—but never both together. If this doesn’t trick me into kickstarting a fitness routine in 2026, I’m not sure what will. Oh, by the way, the festival pass is priced at Rs 3,499 (plus GST). But for paid subscribers of The Ken, I’ve got a little surprise: you can have one for free, on us. Just Looking to connect or collaborate with The Ken? |
+Latest on the ken
+India gave tax breaks to companies setting up shop in its latest financial hub. But to woo startups, it needs to also solve for speed, predictability, and investor comfort |
+| Community Activity |
+|
+Ateesh Tankha Commented Very well narrated and explained. But this is not sustainable. The truth is that Aspora – like so many Fintechs a decade ago – is acquiring new accounts by subsidising remittance costs. Let’s not forget that unless Aspora is circumventing the banking system (I trust not) banks will have their pound of flesh through a slew of cross-border fees. Moreover, unless RBI is willing to invest in a new investigative agency to improve oversight (they find it impossible right now to even oversee regulated entities with NBFC bolt-ons), regularising stablecoins could be far worse than a broad-based shadow banking disaster in the future. So, will Aspora be able to pull off this great cross-sell opportunity that so many have tried in the past (including Paytm) and be the first to succeed? Perhaps, but don’t hold your breath. |
+On Story
+|
+|
+Annette Antony Commented Personally, I feel a lot of innovation can be done in the agricultural sector. For decades, the sector as a whole has been ignored. Yes, there have been multiple efforts by the government, mostly in vain. Therefore, there’s a need for innovation and tech in this field. Innovation and continuous improvement in tech, combined with the use of science, can uplift the sector into new heights, making agriculture at the forefront again. What Nitara has been doing, from the read, actually feels great but also very important. I hope more startups like Nitara emerge, helping and uplifting the needy farmers and farms. |
+On Story
+|

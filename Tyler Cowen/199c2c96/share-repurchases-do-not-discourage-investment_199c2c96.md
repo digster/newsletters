@@ -1,0 +1,12 @@
+---
+subject: "Share repurchases do not discourage investment"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2025-10-08 07:46:44
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+Theory tells us that, and the empirics tell us that too:
+Our study examines the claim that share repurchases lead to reductions in real investments. Repurchase opponents argue that managers forego valuable investments to conduct opportunistic repurchases, while proponents argue that repurchases return excess cash to shareholders. We compare repurchasing firms’ real investments in capital expenditures, R&D, and employment to public and private non-repurchasing firms—holding constant their growth (i.e., investment) opportunity sets. Our results provide no support for the claim that repurchases lead to lower real investments. Consistent with these findings, we also show that financial analysts do not revise downward their capital expenditure forecasts following repurchases.
+That is from [a recent paper](http://marginalrevolution.com?action=user_content_redirect&uuid=b371fb0f6ed7b445ff80b507a41071b6585769bc20d3c5868ee79d82fd206aca&blog_id=42693868&post_id=91616&user_id=262258391&subs_id=225460721&signature=a062fcd3b680dc73530b0043f8b9c481&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly9vbmxpbmVsaWJyYXJ5LndpbGV5LmNvbS9kb2kvZnVsbC8xMC4xMTExL2ZpcmUuNzAwMzI&email_id=9b8927f2c25d95c44a8bcc1ef087f34a) by Paul Brockman, Hye Seung (Grace) Lee, and Jesus M. Salas. You see the opposing argument in the media all the time, but it is wrong, wrong, wrong. As in "not correct."
+Via the excellent [Kevin Lewis](http://marginalrevolution.com?action=user_content_redirect&uuid=660400f33a44bc6b8f49395ec912be190f23c96c0ef04e58c9c785559721d304&blog_id=42693868&post_id=91616&user_id=262258391&subs_id=225460721&signature=2a0b944253b2dd13f81dc1af20050a58&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly93d3cubmF0aW9uYWxhZmZhaXJzLmNvbS9ibG9nL2RldGFpbC9maW5kaW5ncy1hLWRhaWx5LXJvdW5kdXAvcGxheWluZy1nb3Zlcm5tZW50&email_id=9b8927f2c25d95c44a8bcc1ef087f34a).

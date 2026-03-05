@@ -1,0 +1,38 @@
+---
+subject: "Tesla self-driving demo 🚗, Zuckerberg's VR typing demo 💻, why power laws have power 📈"
+from: "TLDR <dan@tldrnewsletter.com>"
+to: ""
+date: 2023-08-29 10:18:36
+labels: ["CATEGORY_PERSONAL", "INBOX", "TLDR", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_795315172960844453", "UNREAD"]
+---
+[Elon Musk demonstrates Tesla FSD 12 in a live stream on X (6 minute read)](https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.teslaoracle.com%2F2023%2F08%2F27%2Felon-musk-demonstrates-tesla-fsd-12-no-code-autopilot-ai%2F%3Futm_source=tldrnewsletter/1/0100018a40cd610a-f47dd9de-b4ad-47cd-bb73-d6365c8b8f6a-000000/Emfraq7XX2_4FcurRKxcdJrp6LhBBG48KPGxTHrh3_E=316)
+Tesla's Full Self-Driving (FSD) V12 will not be a beta version. The company rolled out FSD Beta v11.4.7 earlier this week. Tesla has been criticized for not being able to demonstrate FSD for several years now, despite Elon Musk's claims about the software back in 2016. Musk recently live-streamed himself driving his personal Tesla Model S using FSD V12 on the streets of California. A recording of the full live stream is available in the article. |
+[Zuck says he can type 100WPM inside a VR headset (1 minute read)](https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.theverge.com%2F2023%2F8%2F28%2F23849469%2Fzuck-says-he-can-type-100wpm-inside-a-vr-headset%3Futm_source=tldrnewsletter/1/0100018a40cd610a-f47dd9de-b4ad-47cd-bb73-d6365c8b8f6a-000000/aaMbXOxsTHVz9DUEt4O75DknwQtJMS6GcqxNLflAw0M=316)
+Mark Zuckerberg claims that Meta's new VR keyboard is capable of 120WPM speeds. The software is able to turn any flat surface into a virtual keyboard. Meta achieved 73WPM typing speed with its 'surface touch typing' software in 2020. The new virtual keyboard appears to require a QR-code-like symbol as a positional anchor. A video of Zuckerberg typing on the keyboard is available in the article. |
+Science & Futuristic Technology
+|
+[SpaceX completes successful hot fire test of its massive Starship rocket (4 minute read)](https://tracking.tldrnewsletter.com/CL0/https:%2F%2Farstechnica.com%2Fspace%2F2023%2F08%2Fstarships-next-test-flight-might-be-closer-than-you-think%2F%3Futm_source=tldrnewsletter/1/0100018a40cd610a-f47dd9de-b4ad-47cd-bb73-d6365c8b8f6a-000000/H6t8bJAVL3z39mWWlUxhC7YVnN6SSnNvSMM0GGoZbeE=316)
+SpaceX has completed a second hot fire test of its Super Heavy booster. All 33 Raptor engines ignited during the test and all but 2 ran for the full six-second duration. SpaceX still needs to receive launch approval from the FAA before it can begin its second test flight of the Starship rocket. It is possible that the launch could take place as soon as two or three weeks from now, but further delays are probable. |
+[The first observation of neutrinos at CERN's Large Hadron Collider (8 minute read)](https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fphys.org%2Fnews%2F2023-08-neutrinos-cern-large-hadron-collider.html%3Futm_source=tldrnewsletter/1/0100018a40cd610a-f47dd9de-b4ad-47cd-bb73-d6365c8b8f6a-000000/3yE9WhYbCeKmqTKY1W9wuRQWRXO_fMItnw7TyYBKP_8=316)
+Physicists have managed to observe neutrinos inside a particle accelerator for the first time. While neutrinos are produced abundantly inside particle accelerators, they have so far been difficult to observe due to their very weak interactions with other particles. The neutrinos observed in the study had the highest energy ever recorded in a laboratory environment. The research could pave the way for in-depth studies of the properties of neutrinos and aid in the search for other elusive particles. |
+Programming, Design & Data Science
+|
+[KubeBlocks (GitHub Repo)](https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fgithub.com%2Fapecloud%2Fkubeblocks%3Futm_source=tldrnewsletter/1/0100018a40cd610a-f47dd9de-b4ad-47cd-bb73-d6365c8b8f6a-000000/ceGaB77XvS8bxszryA5HFWaYH6PWnIfpvqtVUqmm6W4=316)
+KubeBlocks is a Kubernetes operator that manages relational, NoSQL, vector, and streaming databases on the cloud and on-premise. It is designed for production purposes. KubeBlocks integrates popular database engines and provides rich management functions along with declarative APIs on various infrastructures. It simplifies operations like upgrading, scaling, monitoring, back up, and restore. |
+[DLight (GitHub Repo)](https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fgithub.com%2Fdlight-js%2Fdlight%3Futm_source=tldrnewsletter/1/0100018a40cd610a-f47dd9de-b4ad-47cd-bb73-d6365c8b8f6a-000000/5c7iL5T2QDBXVsGUKBrrGpjYtKixyHRc2lPSgUBNkPI=316)
+DLight is a developer-focused UI rendering library. It features an API designed to be intuitive and user-friendly. DLight can be used for both simple and complex websites. It enhances code performance at compile time and makes code execution speed as close to vanilla JavaScript as possible even with limited optimization knowledge. DLight is only 4KB. |
+[The end of the Googleverse (21 minute read)](https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.theverge.com%2F23846048%2Fgoogle-search-memes-images-pagerank-altavista-seo-keywords%3Futm_source=tldrnewsletter/1/0100018a40cd610a-f47dd9de-b4ad-47cd-bb73-d6365c8b8f6a-000000/WebPSsGGd1k-KMX7qIK4lEC0W8y8nRxEEl6y7HFT4jM=316)
+Google search has reshaped the web into a place for robots. The emergence of AI is a threat to Google's existence. A growing number of users are complaining about the quality of Google's search results. Google's position as the largely invisible force that determines the ebb and flow of online content is being seriously challenged for the first time in two decades. This article looks at Google's past, the company's role in shaping the web, and how things are changing. |
+[Power Laws Have More Power Than You Think (38 minute read)](https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fevery.to%2Fp%2Fpower-laws-have-more-power-than-you-think%3Futm_source=tldrnewsletter/1/0100018a40cd610a-f47dd9de-b4ad-47cd-bb73-d6365c8b8f6a-000000/V1M6l-GgXXkFUG3wJhkpnc-lY1P8hyKQU5VtQQfE6_A=316)
+The internet both fragments and concentrates attention. Networks are subject to powerful feedback loops. Algorithms can boost or dampen social signals. This results in a distribution of consumption where there are a few massive hits but a lot of randomness in the middle. While this means that there will likely always be big hits, the cost of producing one is increasing. |
+We help cutting edge companies hire world class technical talent through our job listings. If you're hiring software engineers, AI/ML engineers, product managers, designers or other tech talent, [click here to learn more](https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fshare.hsforms.com%2F1hmOFVmqOTrON_SRvaRqEbQee466%3Futm_source=tldr%26utm_medium=newsletter/2/0100018a40cd610a-f47dd9de-b4ad-47cd-bb73-d6365c8b8f6a-000000/lWXwEc6kqgry_s4Swnn-tOJdtO-J_GWdyjFBjdf-UvQ=316).
+|
+If your company is interested in reaching an audience of tech executives, decision-makers and engineers, you may want to [advertise with us](https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fshare.hsforms.com%2F1OxvmrkcFS4qsxKpNXCi76wee466%3Futm_source=tldr%26utm_medium=newsletter/2/0100018a40cd610a-f47dd9de-b4ad-47cd-bb73-d6365c8b8f6a-000000/XRrkSxS5e00brfNpap7UeW0YhPgWr4gGH7MRb-5hTD4=316).
+If you have any comments or feedback, just respond to this email!
+Thanks for reading,
+[Dan Ni](https://tracking.tldrnewsletter.com/CL0/https:%2F%2Ftwitter.com%2Ftldrdan/1/0100018a40cd610a-f47dd9de-b4ad-47cd-bb73-d6365c8b8f6a-000000/xlkwKJjndXWqggRNbeUrQxB0HY9NszIdF6izJwdbKIM=316) and [Stephen Flanders](https://tracking.tldrnewsletter.com/CL0/https:%2F%2Ftwitter.com%2FSteveFlanders22/1/0100018a40cd610a-f47dd9de-b4ad-47cd-bb73-d6365c8b8f6a-000000/lGxymse60-pQI6HBvIpGSCBU3vR6gPYcAm8YoVLPA9k=316)
+|
+|
+|
+|

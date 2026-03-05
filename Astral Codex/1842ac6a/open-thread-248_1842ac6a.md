@@ -1,0 +1,12 @@
+---
+subject: "Open Thread 248"
+from: "Astral Codex Ten <astralcodexten@substack.com>"
+to: ""
+date: 2022-10-30 21:21:20
+labels: ["Astral Codex", "CATEGORY_PERSONAL", "INBOX", "UNREAD"]
+label_ids: ["Label_6409723252142624155", "CATEGORY_PERSONAL", "INBOX", "UNREAD"]
+---
+This is the weekly visible open thread. Post about anything you want, ask random questions, whatever. ACX has an unofficial [subreddit](https://substack.com/redirect/e5baf74c-422e-4d40-88f6-27a610141e00?r=8o54n), [Discord](https://substack.com/redirect/7edb7109-eb8c-4271-9b6e-343020963bea?r=8o54n), and [bulletin board](https://substack.com/redirect/8cd5ead8-1060-4c1d-a0c4-6123c4ec662f?r=8o54n), and [in-person meetups around the world](https://substack.com/redirect/ed8c13fe-7f8f-430b-b7b0-c086584a8030?r=8o54n). 95% of content is free, but for the remaining 5% you can subscribe [here](https://substack.com/redirect/9151660d-c72b-4839-b338-f200ddcd414b?r=8o54n). In other news:
+1: [Polymarket](https://substack.com/redirect/9d6ac868-9323-49c7-ae92-1d4da28ac408?r=8o54n), [Manifold](https://substack.com/redirect/e5356a3c-529e-4d30-acb6-4263fba4d05f?r=8o54n), and [PredictIt ](https://substack.com/redirect/5a3a803c-0cf8-41a5-adcf-2f3c9f3bce50?r=8o54n)now have shiny interfaces for predicting the upcoming US midterm elections. In terms of the Republicans taking the Senate, Polymarket is at 65%, Manifold at 58%, PredictIt at 73%, and [538](https://substack.com/redirect/86df597e-3184-48ca-aeeb-593825b18a4e?r=8o54n) at 49%.
+2: Comment of the week is [by Stephen Zerfas, ](https://substack.com/redirect/6687a250-d067-491e-8787-9c1bea22ffe6?r=8o54n)describing his work on [Jhourney](https://substack.com/redirect/15a3e52b-402c-4905-8331-d14fd54c330f?r=8o54n), a startup making neurofeedback headsets that can help you reach jhana more easily (see also [their FAQ](https://substack.com/redirect/d2849cd0-36da-4fa6-ae2b-c0944bda189e?r=8o54n)). In case you ever wonder how realistic my short stories are, I did first meet Stephen and hear him explain his headset startup at a Bay Area house party.
+3: I’m encountering some moderation-related technical difficulties. Some people who deserve bans haven’t gotten them, and some people who deserved short bans have gotten perma-bans. If you have been banned for longer than I said you would, feel free to email me so I can correct this.

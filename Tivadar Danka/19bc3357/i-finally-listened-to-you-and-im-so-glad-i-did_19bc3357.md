@@ -1,0 +1,10 @@
+---
+subject: "I Finally Listened to You and I’m So Glad I Did"
+from: "The Palindrome <thepalindrome@substack.com>"
+to: ""
+date: 2026-01-15 19:50:02
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tivadar Danka", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_3571324877567057163", "UNREAD"]
+---
+Struggling to learn math and machine learning on your own? The Palindrome makes complex ideas click—with visual explainers, step-by-step guides, and clear learning paths. Join the premium tier to master the core ideas behind machine learning! (Supporting this work doesn’t have to come out of your pocket. If you read The Palindrome as part of your professional development, you can use Hey there! For the longest time, people have told me that I should start sharing my educational content in video format. I’ve gotten compliments like the fact that my illustrations resemble those of 3B1B, for which I’m extremely honored. So, after a few years of second-guessing whether I should dive into video content, I’ve finally decided to give it a try… …and, in the short time I’ve been doing it, the results have amazed me. Introducing The Palindrome YouTube channelI’ve had a YouTube account since 2011, but just very recently I started shifting towards the creator side instead of being just a plain consumer. My goal for the next couple of weeks is simple: every fan-favorite post from The Palindrome newsletter and from my social media posts will be turned into video. So far, there are three videos uploaded to the channel. These are sort of the greatest hits of my educational content. Those that, no matter how many times I republish them, they always get a lot of engagement and I keep getting very positive and valuable feedback for them. You can watch them right here or on YouTube: I’m very excited for the times ahead. 2026 is shaping up to be the best year of The Palindrome, not only as a newsletter, but as an educational institution aiming to teach the fundamentals of math and machine learning in a world full of hype, trends, and AI slop. If you’re willing to join me on this mission, there’s only one thing I ask of you:
+|

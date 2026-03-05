@@ -1,0 +1,92 @@
+---
+subject: "The banking landgrab"
+from: "Beyond The First Order <info@the-ken.com>"
+to: ""
+date: 2020-07-24 01:32:55
+labels: ["CATEGORY_PERSONAL", "INBOX", "The Ken"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_8244464457792971031"]
+---
+|
+Edition #84. Friday, 24 July 2020
+|
+A paid 🔒 newsletter that analyses the complex second and third order effects thrown into motion because of Covid-19. Someone sent you this? [Subscribe to BFO](https://the-ken.com/bfo/?utm_source=su_bnr&utm_medium=email&utm_campaign=btfo)
+|
+Good morning,
+Let’s end the week with reinvention. Multiplexes are considering selling their popcorn online. But can you imagine ordering that off Zomato? Oil marketing companies want to reinvent their delivery mechanisms. Hint: pumps are passe. The private school system in India can reinvent with a little dose of agency. And maybe now is a good time to trim the fat off your friends circle.
+But the biggest reinvention is being pulled off by the likes of WhatsApp and Amazon. Blink once, it's a payment company. Blink twice, it’s microloans on tap. Blink a third time, it’s a bank.
+What am I talking about? Let Arundhati kick us off.
+|
+|
+The banking landgrab
+Arundhati
+Banks are indispensable. However much you hate your bank, you still don't think of it as a commodity. But that’s about to change.
+Banks recognise that they need to get up with all the tech. That explains the mushrooming of neobanks—a fintech term for startups that want to improve the banking experience by partnering with banks.
+I was speaking to someone who is setting up one of these neobanks, and found his tone rather surprising. Startups usually don't miss an opportunity to talk about how their company is the silver bullet, but his tone was very sobering. It bothered him that there were too many neobanks springing up. "This will get the attention of the regulator. All it takes is one company to screw it up, and all of us will be in the dock," he rued.
+Enter WhatsApp. The company that different regulators in India watch like a hawk.
+The messaging app on Wednesday [said](https://timesofindia.indiatimes.com/business/india-business/whatsapp-to-start-pilots-for-micro-pension-lending-in-india/articleshow/77110318.cms) it is looking to offer credit, insurance, and pension products to lower-income individuals. With that, the banking stack creep has officially begun.
+|
+|
+|
+|
+Source: Prajakta Patil, The Ken (Inspired by CB Insights)
+|
+About five years ago, fintechs sought to solve one slice of banking and hoped to create value there. That's how you saw payments companies mushrooming. Though the scale is large, it just is not enough value creation, as there is no money in just payments. So the next choice is to creep up the bank stack. What makes this easy is the partnership route that companies like Facebook and WhatsApp are relying on. Without taking a licence from the insurance or banking or stock-market regulator, they can deal with distributing banking products, insurance products, and investment products all the same, by riding on the licence of their institutional partner. This way, they could neatly pocket the commission of an agent and become a valuable partner for the banks.
+Amazon is the other tech behemoth that is already well on its way to crawling up the banking stack.
+|
+|
+|
+In 2018, Amazon Lending partnered with Bank of America Merrill Lynch to issue loans on an invitation-only basis that could range between $1,000 to $750,000. In 2020, Amazon inked similar partnerships with Goldman Sachs in the US and ING in Germany. As part of its deal with Goldman Sachs’ Marcus brand, the bank will invite selected merchants to apply for a credit line of up to $1M.
+|
+Everything You Need To Know About What Amazon Is Doing In Financial Services, [CB Insights](https://www.cbinsights.com/research/report/amazon-across-financial-services-fintech/?utm_source=CB+Insights+Newsletter&utm_campaign=8b10cabf4e-newsletter_general_Wed_20200722&utm_medium=email&utm_term=0_9dc0513989-8b10cabf4e-93666525)
+|
+|
+|
+In India, too, Amazon has invested in lenders like Capital Float and insurers like Acko.
+Now, Amazon has its own ecosystem of sellers and buyers to distribute these financial products. So it has a purpose to enable loans to its network of sellers and customers.
+|
+“Amazon is building financial services products to increase participation in the Amazon ecosystem. Amazon is building a bank for Amazon, and that maybe even more compelling than launching a traditional deposit-holding bank.”
+|
+|
+Lindsay Davis, tech industry analyst at CB Insights
+|
+However, WhatsApp does not directly sell anything. This is where Facebook's $5.7 billion stake in Reliance Industries can come in handy.
+Lend to Reliance merchants, via WhatsApp, using banks' capital.
+In this construct, what do you think is replaceable and is a commodity?
+Now, with Amazon, too, in [talks](https://techcrunch.com/2020/07/23/amazon-reportedly-in-talks-to-buy-a-9-9-stake-in-indias-reliance-retail/) with Reliance Industries for a stake in Reliance Retail, its effect on distributing banking products could look something like this.
+|
+|
+|
+|
+Popcorn through the OTT tap
+Savio
+Multiplexes are among the few businesses still under lockdown in India. Which means a sector that employs more than 200,000 people and accounts for nearly 60% of the film industry’s revenue has been clocking in zero revenue itself for four months.
+That obviously hurts multiplexes, but is likely to hurt malls just as much. Sure, some malls have reopened, with a smattering of stores. But if you think about it, multiplexes are the biggest crowd-puller for malls—at least the paying crowd. Most malls are designed such that you have to pass innumerable stores before reaching the multiplex. Malls, I would argue, [need](https://www.across-magazine.com/the-importance-of-cinemas-in-malls/) multiplexes more than multiplexes need malls.
+Multiplex owners took matters into their own hands.
+|
+|
+Subscribe to BFO to read the full edition
+Get BFO delivered to your inbox every weekday and access all editions, both new and old.
+Choose from the following options
+|
+Monthly Subscription
+Complete access to all editions of BFO
+Rs. 99 or $4
+|
+|
+With The Nutgraf
+Complete access to BFO and The Nutgraf
+Rs. 198 or $4
+|
+|
+|
+Questions? Get answers [here](https://the-ken.com/bfo/2/#newsletter-faq-section)
+|
+Beyond The First Order is a paid, daily newsletter that analyses the complex second and third order effects thrown into motion because of Covid-19 across India and Southeast Asia. This newsletter is published by [The Ken](https://the-ken.com/?utm_source=footer&utm_medium=email&utm_campaign=btfo)—a digital, subscription-driven publication focussing on technology, business, science and healthcare
+|
+Want to unsubscribe from our paid daily newsletter, Beyond The First Order? Click [here](https://link.the-ken.com/asm/unsubscribe/?user_id=2349339&data=mDPsAJTm7AJmqfhpiWmgMwD_DHTVyyxv6N6PH8wfUwnITZNLqhy8Non8qHkU2E5oGZRtbiJxZ7iS9HAYW7_8DM_MdHrBL7E_W3VzoBWRJopXImqpBh5RP1nyNgoO4BzLIRHTM0WLkHrv5GieKySEYcctdD8-M0b6zWMa5m0a4-fnCUSUzjz_aQ180jTGTQBzmJoRjvPQmOynNY0G9r4OqLUukL_lvge3yYKXeiooUhSADFTSlrljarKYzrC62UFw1DoC5MwrWW8OBNGyKoBUa2EbxM2WShpqAXdJi8aUWY5Ell5nYcwfINhMx0eXCnX9JAMJaiSo0Rh7dV74arf-KHhvJGy5gu6N5Wx1cN9uQdX-eOhz8F9OCYxocHS5ec0LSCi2Ny9SpfTsIV-MlCnCTovmjTiXqrOkYQ8oa8PxTOG323KfqhQBw5UCMAZvSMrpm-88w_ATAjQUeMWKZRZ6gmftFdpttYCagJ8fo8u4P1AmtKXiUfkJ82dhT9olIuclmR4sip8z_d56tg43okODv0rECVd9I-vWDQMmXMIhCHm8sje9dZZEjHQsOGhZQt5k). Or set your email preferences [here](https://link.the-ken.com/asm/?user_id=2349339&data=g4LToTPQeZoAf52mlDWMgCPgobbf6hB2kDIy3iaRMMLKOQXrp7HKdn-ypICa080aL1G_EUzkdiEKWooUCRc59rCNM21wArEyUljR32X1rRP9SmMNF_sFoYghkHjQqKaEJUVSEJlC57ioFIH9mdo7pQSvF8XC4po-bhaMNy2yfW5Dzqjdt0wVKTAkmnXc2hwSznsI2SUNcHSRv4RJapAIxSqAkKZDn4vTLUamdj1koTj41nlQZRDDoIVfV71vbM9Aiv-MS-3rX2IswNaFJAjC9K8veCGUXJfdkCbsg1aFLK2hTM55HWKU462XnPnm0sdSSh9LY6dUK5km5sHxGtmZQInNiMKi85ptV-xrjGqkKPAnZ8rn-qqevqMyz8WuDptmuuQqWTB9kQedIggryWWLd1n9BBR8BwYj5bZ9uh_3oQ_fFHPyqJewc1ZFKRKYQNqOBrt8ZlmD55Mn5vJSYPbFvni6jOFudEj5PDpRvikFuWx1rThD1SZKlgOdNPXYyjIK6GGh2OH6hK7jDBPgTQhYox8_070jzOAPS-dv7eNdF65reV3oq_zqnTT7Aa4zcRjl)
+© 2020 The Ken
+|
+|
+|
+|
+|

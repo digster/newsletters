@@ -1,0 +1,11 @@
+---
+subject: "Open Thread 420"
+from: "Astral Codex Ten <astralcodexten@substack.com>"
+to: ""
+date: 2026-02-09 13:00:37
+labels: ["Astral Codex", "CATEGORY_PERSONAL", "INBOX", "UNREAD"]
+label_ids: ["Label_6409723252142624155", "CATEGORY_PERSONAL", "INBOX", "UNREAD"]
+---
+This is the weekly visible open thread. Post about anything you want, ask random questions, whatever. ACX has an unofficial 1: A team from King’s College London is studying AI spirituality, AI relationships, and other uses of AI for “personal guidance”. If you’re over 18 and “this resonates with you”, they’d like you 2: I was able to get info on one more ACX Forecasting Contest winner:
+Seems potentially bad that so many of the people who win forecasting contests are professionally involved in some form of worrying about AI killing us. Hopefully that’s just a coincidence. 3: ACX Grantee Mike Saint-Antoine is teaching a weekend seminar on the basics of computational biology March 7-8 in New York City. The only prerequisite is basic Python, no biology knowledge required. More info 4: Corrections/clarifications/commentary on some of [Daniel Tilken says $318B, not $170B, might solve extreme poverty](https://substack.com/redirect/79e908b8-a234-45cb-93a7-5f5c37ab5cc9?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)[Brinedew on fundamental cancer vs. diseases-of-aging tradeoffs](https://substack.com/redirect/d80b9316-99e0-4b41-b6e2-06bc6f73c84f?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)(recommended!)[Richard Hanania vs. claim that liberals don’t really have worse mental health](https://substack.com/redirect/4149c99e-6bc4-4868-bd28-ff20a50b3362?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+5: Several people have asked why I delete comments that get someone banned, saying they would like to be able to see them to double-check that my moderation decisions are reasonable, or to learn more about the rules and where the bar is. I agree this would be ideal, but Substack seems to auto-delete comments that get bans, and I can’t figure out how to turn off this feature. Sorry for the inconvenience. You're currently a free subscriber to |

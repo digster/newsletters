@@ -1,0 +1,31 @@
+---
+subject: "Fortis Healthcare’s (re)brand identity crisis"
+from: "The Ken <info@the-ken.com>"
+to: ""
+date: 2020-11-16 02:37:19
+labels: ["CATEGORY_PERSONAL", "INBOX", "The Ken", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_8244464457792971031", "UNREAD"]
+---
+Ishan, you've now finished the 30-day challenge. This is a 2-minute exec summary of today's premium story at The Ken India.
+To get access to this story and all other premium stories and newsletters, just [subscribe](https://the-ken.com/pricing/?utm_source=chlng_upgd_lnk&utm_medium=email&utm_campaign=daily_newsletter) to one of our premium plans
+|
+|
+|
+Good Morning Ishan,
+For all the ownership, financial fraud, and wrongful deal battles that Fortis Healthcare is fighting, a change in brand name could save it from further ignominy. It could pave a path to rebuilding the business, which cratered under its erstwhile promoters, brothers Malvinder and Shivinder Singh.
+As luck would have it, the Singh brothers have knotted up the “Fortis” brand ownership in such a complex web of business relationships, that a simple corporate exercise has to knock on the doors of the judiciary. The matter is currently in limbo at the Supreme Court.
+When the Malaysian healthcare giant IHH Healthcare Bhd acquired a 31.1% stake in Fortis in 2018, it had big plans for the second largest hospital chain in India. IHH installed Malaysian executives in various roles at Fortis but has since struggled to assume full control. The Singh brothers were caught in a legal battle with the Japanese drugs firm Daichii, which moved the court to stop the Fortis-IHH deal.
+In August, the fed-up Fortis board voted to stop the use of ‘Fortis’ as part of the name, brand, or logo of Fortis and its subsidiaries’ hospitals and labs. They also decided to scrub the use of the chain’s maternity hospital and pathology lab brands—La Femme and SRL Diagnostics. A baffling brand ownership agreement gave the Singh brothers control over a host of logos and wordmarks.
+Scripted tightly, the brand licensing agreement not only was a drain on the finances of Fortis, but influenced its culture and values. When the brothers were around, meat was a strict no-no. This was even stipulated in the agreement, which sought to promote the “preservation of vegetarianism”, both for employees and patients.
+Since coming on board, the new CEO Ashutosh Raghuvanshi has begun dismantling the Singh's legacy at Fortis. The languishing business is back in the black and baby expansion plans are afoot. The company no longer pays brand licensing fees to the brothers, but it’s unclear how soon it’ll shed the name Fortis and rebrand itself as Parkway, a brand name licensed from IHH.
+For the story today, Maitri sourced a bunch of documents to piece together Fortis’ rebranding saga. It’s a must-read: [https://the-ken.com/story/fortis-healthcares-rebrand-identity-crisis/](https://the-ken.com/story/fortis-healthcares-rebrand-identity-crisis/?utm_source=daily_story&utm_medium=email&utm_campaign=daily_newsletter) (12-minute read)
+Warmly,
+Seema Singh
+[seema@the-ken.com](mailto:seema@the-ken.com)
+|
+What you just read is the personalised daily introduction to The Ken's story. Written by a different person each day. Often insightful, sometimes witty, and very rarely boring. Someone sent this to you? [Sign up for free](https://the-ken.com/?modal=register&utm_source=footer&utm_medium=email&utm_campaign=in_recap_email). Don't like these? You can [unsubscribe](https://link.the-ken.com/asm/unsubscribe/?user_id=2349339&data=qTRzSwIKBjDgfzjYBpBvoCGvJUvV0hCXHrosLda-c3q3QJkVSJttI89evDcy7xeSEwaedu3Aj5eQE-0f48RpHevSLdwkfDt-4FQjONzo8e90W6A6US9itYBWIdaHwbPIavhGXwJEehfMiMyU478H_beUdBlFwRSWYp41WLxgI9slymLh1ana5HKYTfuSPejzXUcr4EuE_QCnjZW7bDMGYF8y79YR_rPR4if0vQAUPU4yNmQk6N6zCmo0h9kh1Oa4UUMXCdi3TFr_OE6CLyQ9IMLJi-DVVJ7nx1P-VgxffTIyt8qwTQAIeE4Ch0A8eCBjo7Sp4EkpMgkGNlszLHr4DMLlk-Xccwo8wxiWJ8SLmY4guZZsCfY_DVbmDe-Wyqlbk-qop0YHCzbsJUuWLPW-s07CVCq3M9q6Wt-w-TKC1sBTsJ8pN78FBWh1Sn6gXUkwkW5cfAHUcX7bgPWKDXBCw13ZKiKnPlhwTMoWf5j1lYHbY3aOphTe7p68uyx1nrLIXSFEotdmOBV0hmhLgFBvPJswc5JDxosYXlmTVRpQZsk=). Want to manage your emails? Click [here](https://link.the-ken.com/asm/?user_id=2349339&data=dR-tsleDPpFdVdraooDZqulccoBFej0a1ZYREGbZZSZDCT-79ut531sVLdNPIQxQaNKYPPIr5y2wsa_5qa0-1BdIpex9FJUIYUOt3MOBKWiqs6EAs2W30-60aQpc6Mq3EBCZ9j4ZDVBu12XCchjnxJGf1nGsu-42ol9korCMmafsDePOmnf30Ugy511sSruKAGNhDG7cRSHz5hZkB6rbxRqvFXomhyM1JvsQepuEr96eVSfIjeolx8j4SN8EowRqpF_vmgZ0VHLg1_OcgsOL87j9630v5CaamgXM9LfINAc_j6Yn2nV2rDF-puXaLb5FmdJ4klDLQ6osyxgpPeoCp-lif52Zi75tGs3w-64XnNY7jaYenHjiXGkZ9htiGttuuBmOim3CKsko9rhtUS9e_iObrqdpNe6sTogkUC3fvRalvkP4WwgGt7t9C0xk8NHq4yhIbKpU2sTK0BjgYmvlvxwQwyvpvIOCcLRZH4OP_VvvkxoBxriJSD8EgTiu5sQjEC3SRU7lzGGwhxkiEAfFmoSwADJcnxW3PQpp-8S9SdA=).
+|
+|
+|
+|
+|

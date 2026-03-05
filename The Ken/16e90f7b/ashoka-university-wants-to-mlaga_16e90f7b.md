@@ -1,0 +1,19 @@
+---
+subject: "Ashoka University wants to MLAGA"
+from: "The Ken <info@the-ken.com>"
+to: ""
+date: 2019-11-22 02:36:21
+labels: ["CATEGORY_PERSONAL", "INBOX", "The Ken"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_8244464457792971031"]
+---
+No, it does not sell Made-in-China hats embroidered with the slogan, but Ashoka University truly does want to Make Liberal Arts Great Again.
+In a sprawling story, Seema reports on one of the most fascinating stories to emerge from India’s education space in recent times: the setting up of a new liberal arts university from scratch. By a bunch of plucky former entrepreneurs and professionals who were ambitious and naive in equal measure. Ashoka University has consumed over $100 million to date, eight years after Ashish Dhawan, Sanjeev Bikhchandani, Pramath Raj Sinha, and Vineet Gupta set it up.
+“If you can read [Immanuel] Kant, write a paper, critique his writing, if you can do abstract algebra, game theory… you can do accounting,” says Dhawan. It’s a bold stand, especially in a developing country with a demographic dividend (10-12 million youth enter the workforce each year) that is at risk of turning into a demographic disaster (there’s barely any net job addition taking place). Bolder still is the ~Rs10 lakh (~$14,000) it charges as annual fees.
+Ashoka’s contrarian bets have played out in its favour till now. Its batch size has grown from 127 in 2014 to 598 this year. It has a new campus coming up. Over 100 companies of India’s best-known companies are recruiting its liberal arts graduates, including the pickiest ones like the Boston Consulting Group, Bain, and McKinsey.
+But will that sustain as Ashoka grows? Or, is that even an accurate barometer of Ashoka’s success? Already there’s tension between its founding ethos of preparing students to navigate life’s uncertainties and opportunities versus helping them land a job. There’s also the tension of convincing Indian parents about the value of a liberal arts degree. Applications tend to be biased towards the professional and cultural elite, who can afford to take a long view of their careers and lives. Unlike the middle class and poor who need jobs much more urgently.
+An oft-repeated joke growing up in 1990’s middle class India was about how Indian parents were supportive of their kid’s career aspirations. “Let him complete his engineering (degree) and MBA, and then he can decide what he wants to do in life.”
+A joke that cut too close for me, because I did earn engineering and MBA degrees, “only to” end up as a journalist (arguably, one of the worst professions in the eyes of Indian parents).
+Seema’s deeply reported story, also the first of two parts, lays out hope for students today. Because Ashoka has acted as a forcing function. More universities with a ‘liberal’ label are being founded—Krea near Hyderabad, FLAME in Pune, Atria in Bengaluru, Ahmedabad University. Plans for at least three new liberal arts universities are underway in the country.
+Sincerely,
+Rohin Dharmakumar
+PS: Even well-written stories need help with visualisation. That's where graphic designers come in, to help us 'see' the story in front of us. If this is a position you or someone you know would like to apply for, [here's the job description](http://link.the-ken.com/wf/click?upn=HQSq6eeRV1xAVaGuFOahuG7TiPelYKzc-2F7zPMLoB04mRtWTJtX8gAX3xkSBHLSPR2jXEvsfyWBpI0cG6LkCnEw-3D-3D_S4jLOsNx-2Fv6Jev2nvow8b7P9pBCWGd8KNZfb200gkZLQNlXQHio0noZzXtsWoloZmPWeyZsh7a4QCV9ufwCUKi00jlBT0uEdvwYDMuVuqcPlbJrUs7J9W2rWJo7guYxJ3ZLPA-2FNvtgHIhtVI3-2BMhOu8dreYZe-2FJYhKD2Uh83yio5iJpa0hbNz0CthxqAWE5BsewT0NlHljGnp2mGmBe2zGAhrc2n0AfQB-2FGl4tK0aGBIvQfrNLRa5YC74OmiqDwZzJeQhNGkOGHnmY0UhDnYFu60Yr4u5mhNcrkdNRc5WFzxbB5SWG6Gll0mHNLBniPffChUZFbh-2FKwfgT-2Bem9HL-2B6XIxWxzVf3nV7uwE6gc4x3gF9OnERmAutVXv8Ilp2-2FNlBG7x25qSjFCuSPYP0OpNs0vuSMv8-2FuhwvUhDWRU53U-3D). Check it out; write to us or share it!

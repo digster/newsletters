@@ -1,0 +1,18 @@
+---
+subject: "Should taxpayers subsidise digital transactions?"
+from: "The Ken <info@the-ken.com>"
+to: ""
+date: 2018-06-01 02:35:53
+labels: ["CATEGORY_PERSONAL", "INBOX", "The Ken", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_8244464457792971031", "UNREAD"]
+---
+From India’s Cambrian soup pot of fintech emerged, on 30 December 2016, a lumbering giant called BHIM. It was a digital payments app made on the orders of the government, by a tech startup, on behalf of a body of banks. Frankenstein’s payments app it was alright.
+When we did a [deep feature](http://link.the-ken.com/wf/click?upn=HQSq6eeRV1xAVaGuFOahuNCZVVXPeP-2FJpSqxhvIUDrnJNOYwjJ-2FG7ExI3xI0JBX6Qnhjf21KOGB6GQQu0IEtOqd2FnTA5yC-2Byloh094KSl7EP3h2SD11RU4FOb6Mk4eFEMKRXvw2BAzMLmF4kQGR7lGEz98fNyLbDDvfQ0kRdTs-3D_S4jLOsNx-2Fv6Jev2nvow8b7P9pBCWGd8KNZfb200gkZLQNlXQHio0noZzXtsWoloZmPWeyZsh7a4QCV9ufwCUKi00jlBT0uEdvwYDMuVuqcPv4WKK8xffkxEi-2FRSBPoIR9xPab3Z4BZCxsEQ3LQR7S2WCacw-2FXNnMeQEPGGB3u6iHBWihTVn3RWdKaPHotJT0gbAg-2BQ4qWO0vSPLRWKU-2BvP7-2FsDgCWpI-2FaN-2FwJsX-2BbyzVAGwBaOuF5X07UclPWweEibYWZ-2Bhu85klLMVhHv1ucwAVVic-2BA9ebEKxe9cGU82fRxHIVMn4ouhdMTR3Z8b3-2BiN7iZtHPqhHsprv5ETEL-2FRSAW6lEkvnrRaTqRRJbx1LW-2FCzSq4l4f6fOJ6M6J1XJ-2FvT5Kjotabuq0eylYIY8rY6yotDC-2FK9LEIacBr0lngU-3D) on it in January 2017, some said BHIM was a “starter app” made with the express purpose of promoting digital payments in the short run, after which it would probably be retired. Some entrepreneurs said BHIM would not exist by the end of 2017.
+Well, 2017 came and went, and BHIM is still around. On the contrary, Indian taxpayers ended up spending $73.5 million during April-October 2017 to subsidise payments made via BHIM. Better yet, all banks have renamed their own apps to include the word “BHIM” in it, in order to capture subsidies.
+We’re in May 2018, and it looks like Indian taxpayers might end up spending close to $400 million to subsidise digital payments. By funding “cashbacks” to consumers. By paying for referrals. By paying merchants. By subsidising low-value debit card transactions.
+I’ll be honest - this disturbs me. Because I don’t believe the best way to incentivise digital money is by getting taxpayers to foot the bill for cashbacks and subsidies. Instead, the government should set up robust policies and promote fair and unfettered competition. And stay the hell away from becoming a player itself.
+But there are others who feel the government is right. That the relatively insignificant cost of subsidising digital payments pales in comparison to the lofty goal of promoting a digital money economy.
+You decide.
+Read Shashi’s story today on why and how the Indian government is spending taxpayer money to incentivise payments. And whether that’s working or not. And check with [the Germans](http://link.the-ken.com/wf/click?upn=HQSq6eeRV1xAVaGuFOahuPx9mhj95Pv-2F4HPZpvQw-2Bk0Cu-2F3RAfNW3sdkmbH4T3wGi1wZkATOmXiAlhzN9uUuDA1zTC2KqVFPJWnIXkPy-2BDthJt-2FISKhp5w9uEJ-2B4Y-2FLqWxORyHzzVNV56Q8ikPMewAKh5i4YZZr1p0E2dXhnpsc0ZM9T-2FW4WRtWDhA2RUUixXmLNspothJIB5PZfp3Qv3w-3D-3D_S4jLOsNx-2Fv6Jev2nvow8b7P9pBCWGd8KNZfb200gkZLQNlXQHio0noZzXtsWoloZmPWeyZsh7a4QCV9ufwCUKi00jlBT0uEdvwYDMuVuqcPv4WKK8xffkxEi-2FRSBPoIR9xPab3Z4BZCxsEQ3LQR7S2WCacw-2FXNnMeQEPGGB3u6iHBWihTVn3RWdKaPHotJT0gbAg-2BQ4qWO0vSPLRWKU-2BvAzH44LE2JZl0HDdjld2vCw6X4-2By00IrH0jSbcJbtl-2B1uJuyygBLsaoaIWR-2B8Y-2B1m0SFB711H9XIe5wJ6f62AFxsoNiTspt1wrMmsBS9aNGPD6uc8EaRJfzsN-2F8b3MtplNg0xHoc7kDtS-2BQMmoCQ0nj1ViPKUe7syIxU3R8l5yfZp-2FXRjGDjaoWAz7E2KI6A2hHPnVk81L9LMgglYaifhls-3D), too.
+Regards,
+Rohin Dharmakumar

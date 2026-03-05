@@ -1,0 +1,19 @@
+---
+subject: "Goto and Bukalapak debacles cast a pall over Indonesia's IPO boom"
+from: "The Ken <info@the-ken.com>"
+to: ""
+date: 2024-01-18 00:09:07
+labels: ["CATEGORY_PERSONAL", "INBOX", "The Ken", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_8244464457792971031", "UNREAD"]
+---
+Good Morning Ishan,
+John Templeton once said the four most dangerous words in investing are: This time, it’s different. If people around you are saying that line with gusto, then you’re encountering a sign that maybe, just maybe, it’s time to re-evaluate your assumptions.
+Those words rang in my head as I watched several big-name tech firms debut on Southeast Asian stock markets over the past few years. They each had their moments of upward climbs, followed by an inevitable slide and a resounding thud.
+But conditions are changing, and analysts keep saying 2024 will be a year of recovery. Over in Indonesia, investors aren’t immediately buying that line, even though there’s already a strong pipeline of companies, including tech firms, ready to debut on the public markets.
+The Indonesia Stock Exchange is expecting a banner year in terms of bringing more companies onto the bourse, but the word that’s glowing for investors is caution.
+For today’s feature, Prima spoke with a range of people to find out how difficult it is for Indonesian tech companies to seek investor support as they prepare to make one of the biggest transitions in their journey. Check out the detailed report here: [https://the-ken.com/story/goto-and-bukalapak-debacles-cast-a-pall-over-indonesias-ipo-boom/](https://the-ken.com/story/goto-and-bukalapak-debacles-cast-a-pall-over-indonesias-ipo-boom/?utm_source=shared&utm_medium=email&utm_campaign=shared_newsletter) [7-minute read]
+Regards,
+Brady
+[brady@the-ken.com](mailto:brady@the-ken.com)
+What you just read is the personalised daily introduction to The Ken's story. Written by a different person each day. Often insightful, sometimes witty, and very rarely boring. Someone sent this to you? [Sign up for free](https://the-ken.com/?modal=register&utm_source=footer&utm_medium=email&utm_campaign=morning_email_ind_shared). [Dont like these? You can unsubscribe](https://link.the-ken.com/asm/unsubscribe/?user_id=2349339&data=QLN3waJXGaU510Dp-WojNYEobTog6zwJDexdXqsFf8RoMDAwdTAwMPq4i_tLN9_zVt8VMpmjDt1jnpeueO6p_UGQ3QHv5g9sY_vmizS62fhT57xkVqCugMnaJYZ_UoO6nDbzL7vbhYOTZTJKlmvR4a1n7moNE3dCgqnLpJndyaWXaoOUYj6stBKVWqYIvb15FKH-uUBM8VQJVhy5gTIFGxZ9GkreYzl7YVpo5DxD5NvgmX0BeAycSxg5aJZMgDCqYLR4muGxsPU2yJi1OLojFwT9PqBR77ugtkKmtcE9QYFTWb60LS4KUmXbrb1xuANt8awjiKgEsOS7fGLqT4IDKZ4JVbruObg_7pMvPoGS2Hi_nnpR2Cw4QFHXSYNef-7GNd3MUVwcjhbtsv0LWozwDcEirhAiMK_tvnxVIMMk9_xqJOdEHdxAyGQfkEI0GprZTQkYTzWJx6wxGBXm2Bvd1SD0H45wI6zih1irklC3CrbJGNwzSrstLP7iM0EBfqAIW7GcnmLgwqIcUog0gC8tYNu2J-KLFgKYLD1wOUYQFvD1mG2djIUjNoL6W3V1GXnhdO2cUPQixA4=) Dont want to hear from us again? [ Unsubscribe from our emails here](https://link.the-ken.com/asm/?user_id=2349339&data=UacVSFtjOI2sC1R1CeYYOH3WjJZTPJTwtzqOQn2mVLFoMDAwdTAwMLPfe53BrfIKmrh0t_dxhSIhc0uQgaA8vFTVH9NgYr2NoQE9sHXfcz_IWzLoZWldYxRTiXGXfXWfbutejRs3FCsJlQHsEM-BkurnJVmgOiIOn4p6A9uqKw-TddC1585MYh8IY7CIFpQl9SIx65aR1eSf6abxCQy3OzftxwJdXmMQug9hstFvGaUsxUG8MGdm-vv59ZCwJkeQk6DcF3cjuNqjzH5pCq0QslRtaJuG6hxTMjuiSE_w6Bs4DQthnowHdFoQrsZ72tFHyFXPxjeqY-dCQj1fiN6zRJFGkvh0mj8DAOf47P5BYc6P343OCRpCdN2__yeOubCBhiHQoL463sL57FdyYvq1T3YH8_nIko2PMibpqMBw8QypoE03Ee3jRu83RS3Emn3DDZowyePCc5VjUWdS0tQJ0Q29KYRDqliKh6l_eRTsI8mat5wcVEW9F7ScYvA4Woj-sO-A3urKOXZFGgBRLs2wst2zWV60APmYdt7-k_IYd28YZWLtH_sDrw==).
+Something wrong? Tell us at [support@the-ken.com](mailto:support@the-ken.com)

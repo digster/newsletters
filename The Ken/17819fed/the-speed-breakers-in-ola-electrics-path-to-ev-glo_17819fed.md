@@ -1,0 +1,23 @@
+---
+subject: "The speed breakers in Ola Electric’s path to EV glory"
+from: "The Ken <info@the-ken.com>"
+to: ""
+date: 2021-03-10 02:36:59
+labels: ["CATEGORY_PERSONAL", "INBOX", "The Ken", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_8244464457792971031", "UNREAD"]
+---
+Good Morning Ishan,
+Last Friday, Ola Electric entered the auto manufacturing industry, and how.
+It announced that within the next three months, it would have an operational factory capable of producing two million electric scooters a day. A year on from this, it would have a capacity of 10 million scooters a year—a new scooter every few seconds.
+As far as industry-disrupting events go, this has to be right up there near the top of the list. But will Ola Electric's grand plans parlay into actual disruption? That's what today's story is about.
+Conventional wisdom stipulates that to succeed in auto manufacturing, one needs patience, precision, direction, and constancy. Over the course of its half-decade-long existence, it could be argued that Ola Electric has displayed none of these traits.
+It has frequently seen top-level exits—two of its three co-founders have left, one as recently as this week. It has tried its hand at various different businesses, changing tracks before any of these had a chance to really succeed. And it is in an almighty hurry to bring a product from the drawing board to the road, something that is anathema in the auto manufacturing space. Ola Electric's CEO, Bhavish Aggarwal, is also notorious for micro-managing, and prone to bouts of whimsy.
+In short, Ola Electric is the antithesis of the average automotive manufacturer.
+But is that necessarily a bad thing? After all, Ola Electric doesn't want to be the average anything. It has Tesla-sized ambitions. And Tesla never got anywhere by being "conventional". Then again, one could argue that Tesla is a one-in-a-million occurrence.
+|
+What you just read is the personalised daily introduction to The Ken's story. Written by a different person each day. Often insightful, sometimes witty, and very rarely boring. Someone sent this to you? [Sign up for free](https://the-ken.com/sea/?modal=register&utm_source=footer&utm_medium=email&utm_campaign=sea_morning_email). Don't like these? You can [unsubscribe](https://link.the-ken.com/asm/unsubscribe/?user_id=2349339&data=AxD7c98pFRSdiUQY2EGSc7cX32I_ETlhx8tf0WCT1GwcXBQVqfiNciRuB_1H_mzKZN6qvj-UZWbMegyhwX-vSNk9xm1C8o_7QK4YR1eQLL7MxmZcs9eJN9iGeAfGtlhctUXjRpHfmbzmOQkdBIoPkSM6jQh5D4hMD703q8yies7adCraOMBFhh6v06MauWP0PC2MDr9JwciUvN-SrloVKiMdeT1A45y8vEDDoetu9ij3gLE7ZY7UZfAal2tiDlCBlxiKNhqOYQbY9qtFpSsC4f988XSwE9-a4F4o2AwbSUHmUQjJrazTC01-Mvlq-BK5wuwxYExDDt7mAb8F531JxyfwrbjMp6AHFhPlvCVQfNUzUPeRa5iZXpZB5bk0jlfsK7njQx-tlXfB83BalPSifFJqxduUz4IgULTAKT3TkdCIdK1NxnPk5Cd9M4a2wNKT4N6gvjfYgTjzs6DUHsV-3jzOblThnyJX4qFuK5UhXFGLwIljeMXTtLP39pa0rzL7v4DIjzsZ_3DpKPrCvcKiWwFSiPPN45tE1ixNOSOfSim-m5_ZLXkEadgNT1H-5wmQ). Want to manage your emails? Click [here](https://link.the-ken.com/asm/?user_id=2349339&data=MwtjISWIQqppJgqsZD4hRDyOodzqtg0slvNKuUDBmDK4s7CbQIoxl1e2kTH5l6eg3Y9QDFSoKJJ8SGcO41RYJgDlcIYq3fG_yPh9MquVE0tdBdleJc-FNISsq1hG0sn8eppKWrGO10Bf_U795VtpW24h40T2VQmhaPvhuCpGsej0YkXNjts87Wai-VcsGs1fCxP3ybY8oWEMO7epLpVxtoU75ivpUZ1pIkycfTA_0I-Bi3xFOFXL2Yl-gfX60SWHFYGPypteJ5ZjbCZ211oV60iaY6z2YPoC6ogBZjqW6IndFkjsQJ9O6f_NW80suNCv7RmIKcKD1yX_ePFEU7i85orov-43KDhuXsHBnxGy2iqk_llkeRagSDHzMoIWSxrDlQc52A6ZG7SfRT79zSOTaizQhCyDpMawDUF6e_31Qpu2oT8Nz7TlHnQ7-ln8qVX0XfOXkFsLokB27-s3rViokNn5nnuG-hi4CrBN636Jd3ogxn3qeS4lPMHSEdHC_uiM0vbXC5rbTau53nrt5ubQ14Am5ByBbRMRDuO2XU-AV7Yw-E2_RhTeI-ZxXXssOWZr).
+|
+|
+|
+|
+|

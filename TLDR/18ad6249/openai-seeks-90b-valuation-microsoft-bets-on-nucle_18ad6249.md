@@ -1,0 +1,35 @@
+---
+subject: "OpenAI seeks $90B valuation 🏦, Microsoft bets on nuclear ⚡, rise of cloud dev environments 👨‍💻"
+from: "TLDR <dan@tldrnewsletter.com>"
+to: ""
+date: 2023-09-27 10:17:14
+labels: ["CATEGORY_PERSONAL", "INBOX", "TLDR", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_795315172960844453", "UNREAD"]
+---
+[Microsoft is going nuclear to power its AI ambitions (3 minute read)](https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.theverge.com%2F2023%2F9%2F26%2F23889956%2Fmicrosoft-next-generation-nuclear-energy-smr-job-hiring%3Futm_source=tldrnewsletter/1/0100018ad6248d77-9df32505-57e5-4e03-80eb-0e017ff9149e-000000/ix7IfYiUJCsH2eDx1WWoRvmLKFDljjFaWefC8ssLUKU=320)
+Microsoft plans to use next-generation nuclear reactors to power its data centers and AI ambitions. It has posted a job listing for a principal program manager to lead its nuclear energy strategy. Data centers use a ton of energy. Nuclear technology can provide the clean energy required for the company to hit its climate goals. Microsoft is specifically looking for someone who can roll out a plan for small modular reactors. |
+Science & Futuristic Technology
+|
+[Farmers turn to tech as bees struggle to pollinate (5 minute read)](https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.bbc.com%2Fnews%2Fbusiness-66807456%3Futm_source=tldrnewsletter/1/0100018ad6248d77-9df32505-57e5-4e03-80eb-0e017ff9149e-000000/jti9OVY3FOtXMi5mW48wvQxiv_HKX-IR-w8OEDMvNKk=320)
+BloomX, an Israeli tech firm, has created a plant-pollinating machine that works by dislodging pollen. The mechanism is similar to how bees pollinate plants. BloomX aims to reduce farmers' dependence on commercial honeybees. Bees are said to account for 75% of the pollination of fruits, nuts, and vegetables in the US, but their populations are under pressure due to climate change, habitat loss, and the use of pesticides. |
+[Array Labs: 3D Mapping Earth from Space (78 minute read)](https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.notboring.co%2Fp%2Farray-labs-3d-mapping-earth-from%3Futm_source=tldrnewsletter/1/0100018ad6248d77-9df32505-57e5-4e03-80eb-0e017ff9149e-000000/c9ogFqqRuGPLJKOPF7ZiXoWbyIiDkPKF0uW_AlWNkfM=320)
+A real-time 3D map of the world is the Holy Grail of Earth Observation. Such a map would enable new applications and technologies and improve climate monitoring, disaster response, construction management, and urban planning. It could confer significant strategic and economic advantages to whoever possesses it. This article looks at Array Labs, a company that thinks that it is time to build the map, and the technology required to build it. |
+Programming, Design & Data Science
+|
+[Why are Cloud Development Environments Spiking in Popularity, Now? (8 minute read)](https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fblog.pragmaticengineer.com%2Fwhy-are-cloud-development-environments-spiking-in-popularity-now%2F%3Futm_source=tldrnewsletter/1/0100018ad6248d77-9df32505-57e5-4e03-80eb-0e017ff9149e-000000/MtxgawBIzTWR1jXeArlDpjuOU0XAn0OQYpTmm3tabCA=320)
+Cloud Development Environments (CDEs) are spiking in popularity. This article looks at why CDEs are trending and what startups should look for in the space. CDEs are gaining popularity because codebases are getting larger, monorepos are getting more popular, laptop power is plateauing, connections are improving, and due to remote work. If the industry continues on this trend, most developers at large and mid-sized tech companies may be building software on remote machines within two to three years. |
+[Vizro (GitHub Repo)](https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fgithub.com%2Fmckinsey%2Fvizro%3Futm_source=tldrnewsletter/1/0100018ad6248d77-9df32505-57e5-4e03-80eb-0e017ff9149e-000000/eJQAGVp7_7I8dLdugZ0cQfRsKLItMzCYusU1KDygFJg=320)
+Vizro is a toolkit for creating modular data visualization applications. It enables users to create customized dashboards in minutes without the need for advanced coding or design experience. Vizro supports configurations written in Pydantic models, JSON, YAML, Python dictionaries, and more. Extensions are available. |
+[FTC files “the big one,” a lawsuit alleging Amazon illegally maintains monopoly (6 minute read)](https://tracking.tldrnewsletter.com/CL0/https:%2F%2Farstechnica.com%2Ftech-policy%2F2023%2F09%2Fftc-files-the-big-one-a-lawsuit-alleging-amazon-illegally-maintains-monopoly%2F%3Futm_source=tldrnewsletter/1/0100018ad6248d77-9df32505-57e5-4e03-80eb-0e017ff9149e-000000/x6agbJsBqkkTHkmtPgq1K62n1pEDcQlI1KT_jXo5DfA=320)
+The FTC and 17 state attorneys general are suing Amazon, claiming that the company illegally maintains monopoly power. They claim that Amazon uses a set of punitive and coercive tactics to unlawfully maintain its monopolies. The lawsuit aims to hold Amazon accountable for its practices and restore competition. It could result in the breaking up of the company. Amazon claims that the lawsuit is wrong on the facts and the law. |
+[Ask HN: Tips for Solopreneur? (Hacker News Thread)](https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fnews.ycombinator.com%2Fitem%3Fid=37662937/1/0100018ad6248d77-9df32505-57e5-4e03-80eb-0e017ff9149e-000000/Z3LA37y6mwKkQVnpJf9_-pCCRpERXaE2zQHUdWyiX70=320)
+This Hacker News thread discusses how to navigate the startup space as a solopreneur. It covers how to sell a one-person team, setting appropriate milestones, marketing, raising funds, and the importance of location. Being on your own brings unique problems, for example, the company's success and existence depends entirely on one person, and that increases risk for potential investors. Some investors might see a one-person company as a red flag as they may question why the company hasn't hired any employees. |
+We help cutting edge companies hire world class technical talent through our job listings. If you're hiring software engineers, AI/ML engineers, product managers, designers or other tech talent, [click here to learn more](https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fshare.hsforms.com%2F1hmOFVmqOTrON_SRvaRqEbQee466%3Futm_source=tldr%26utm_medium=newsletter/2/0100018ad6248d77-9df32505-57e5-4e03-80eb-0e017ff9149e-000000/MjOLsD5ZqoONpRYN90cnAqxY4ozioBtzc9Gl1kbIoJw=320).
+|
+If your company is interested in reaching an audience of tech executives, decision-makers and engineers, you may want to [advertise with us](https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fshare.hsforms.com%2F1OxvmrkcFS4qsxKpNXCi76wee466%3Futm_source=tldr%26utm_medium=newsletter/2/0100018ad6248d77-9df32505-57e5-4e03-80eb-0e017ff9149e-000000/q-04UYO7Apm_Egam_03jR752V_5lx0UaeicdQcSAN9A=320).
+If you have any comments or feedback, just respond to this email!
+Thanks for reading,
+[Dan Ni](https://tracking.tldrnewsletter.com/CL0/https:%2F%2Ftwitter.com%2Ftldrdan/1/0100018ad6248d77-9df32505-57e5-4e03-80eb-0e017ff9149e-000000/JL5himZ1XD1XghwKc7f9GnEjwnxU9uUHGKLfim32FHA=320) and [Stephen Flanders](https://tracking.tldrnewsletter.com/CL0/https:%2F%2Ftwitter.com%2FSteveFlanders22/1/0100018ad6248d77-9df32505-57e5-4e03-80eb-0e017ff9149e-000000/U4f1eUnqAWu89eZBk5km6oWe5UCw59XZuhyxuNTjUeQ=320)
+|
+|
+| |

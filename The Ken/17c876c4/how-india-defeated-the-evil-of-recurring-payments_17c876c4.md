@@ -1,0 +1,233 @@
+---
+subject: "How India defeated the evil of recurring payments"
+from: "The Nutgraf <info@the-ken.com>"
+to: ""
+date: 2021-10-16 04:46:33
+labels: ["CATEGORY_PERSONAL", "INBOX", "The Ken", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_8244464457792971031", "UNREAD"]
+---
+A paid 🔒 weekly emailer that explains fundamental shifts in business, technology and finance that happened over the last seven days in India. In a way you’ll never forget. Someone sent you this? [Sign up here](https://the-ken.com/the-nutgraf/?utm_source=su_bnr&utm_medium=email&utm_campaign=nf)
+|
+Good Morning Ishan,
+Our story begins two weeks ago, on the eve of the first day of October.
+At the stroke of the midnight hour on 30 September, as the month drew to a close, and when the world slept, thousands of India’s small, medium, and big internet businesses awoke to pandemonium.
+That’s because a new rule came into [force](https://www.business-standard.com/article/pf/new-auto-debit-rules-of-rbi-to-kick-in-from-friday-what-you-need-to-know-121093000707_1.html) that night.
+The rule, created by the Reserve Bank of India (RBI), was the implementation of a key regulation around how businesses in India process recurring payments through credit and debit cards. You are probably familiar with how recurring payments work. You make a purchase, perhaps a subscription to Coursera, or Netflix, or Amazon Prime; and the business charges your card every month until you decide you’ve had enough and ask them to stop. That’s a recurring payment. You enter your card details once, give your consent, and consume the product until the end of the subscription period.
+Last year, the RBI took a look at this and decided that recurring payments needed a few changes.
+So it came up with a framework.
+But for many businesses and consumers, it felt like an obstacle course.
+The RBI mandated that for all transactions up to Rs 5,000 (~$67), customers couldn’t just pay and say okay, now charge my card. They had to do an additional factor authentication, along with a one-time registration process. For transactions above Rs 5,000, it was even more onerous—customers would have to explicitly authenticate every transaction every month, 24 hours prior to the transaction.
+In one swift move, the RBI effectively killed all recurring payments in India. And it was done not by an explicit ban, but by adding layers of consent on top of it, which added friction.
+Of course, the RBI justified this the same way most regulations are justified.
+We did it for the consumers.
+The primary objective of these rules, it argued, was to make digital payments in India safe and secure, to protect customers from fraudulent transactions and enhance customer convenience.
+Ah yes. The poor, unsuspecting, naive consumers, who need protection from the big, bad, companies who charge their credit cards with abandon for months, while they helplessly watch, unable to do anything at all.
+On the face of it, this rule sounds perfectly reasonable.
+You merely have to ask the consumer before making a recurring payment.
+Does that sound too hard? Or unreasonable? Why would anyone not support this?
+Perhaps you agree with this argument. Perhaps you’ve found yourself on the receiving end when a shady business suddenly charged your card without any warning. This is probably why you welcome this regulation, and you think it sounds reasonable.
+After all, it’s for you—the consumer.
+Incidentally, this is why media publications are struggling to get their heads around this regulation. Most of them find it hard to make a coherent argument why a regulation that sounds so good on paper, and so well-intentioned, is actually a bad idea. It’s partly because they don’t understand how subscription businesses work, or why recurring payments exist and what it means for businesses. It’s also because many of them are incentivised not to talk much about it.
+Today, I’ll explain why this is one of the worst things that could have been done to small businesses in India. By implementing this rule, cash flows of businesses all over India have been crunched—threatening their survival. It has cut off India as a market for international products and services. Above all, the ones who are winning as a result of this regulation are the big, legacy incumbents, with smaller companies paying the price.
+Oh, incidentally, it’s also one of the worst things that could have happened to you—the consumer.
+You should be mad.
+Really mad.
+Let’s dive in.
+|
+|
+|
+|
+Three misconceptions about recurring payments
+|
+|
+|
+To understand recurring payments, we need to begin at an unlikely place.
+Shaving blades.
+And a company we’ve all heard of.
+Gillette patented the first safety razor over a century ago. In many ways, it was the official razor of World War I, driven to [success](https://www.vox.com/the-goods/2018/12/11/18134456/best-razor-gillette-harrys-dollar-shave-club) by a contract with the US Government, who purchased 3.5 million razor blades and gave them to American soldiers.
+Since then, Gillette has ruled the shaving blade market through a combination of a first-mover advantage, a massive distribution network, and by spending millions of dollars in marketing and branding. If you are reading this, chances are you’ve bought Gillette in your lifetime. Perhaps you still do.
+But the thing about shaving blades is that it’s actually a product that’s fairly simple, and it’s hard to differentiate. Humans have been shaving for centuries. At some level, a shaving blade is a commodity. It’s purpose is to remove hair. That’s it. It’s hard to extend it to do anything else.
+So Gillette, which found itself as an incumbent, started doing what incumbents do with products that can’t be differentiated that easily.
+It started “innovating”.
+First, it convinced gullible consumers that the perfect shave needed more blades, and that a single blade wouldn’t do. It introduced products with two blades. Then three. Then four. It even went all the way up to five and six. It patented all of these designs.
+And thus began an arms race in the shaving industry.
+Second, it adopted a business model of making refills expensive—a strategy perfected by the laser printer industry. Gillette sold razor handles at a throwaway price, but made the cartridges really expensive. As a consequence, something that should have been cheap to consumers suddenly became much more expensive. In 2014, it cost over $20 for a pack of cartridge refills.
+Gillette basically made stuff up out of thin air, priced it exorbitantly, and convinced you that it was better for the consumer.
+The Gillette strategy has been ridiculed for decades, on late-night shows, on memes, and on the internet. It’s a [running](https://knowyourmeme.com/photos/687802-parody-spoof) [joke](https://www.sevenstring.org/threads/ibanez-rg9-prototype.225452/page-10).
+|
+|
+|
+|
+|
+Now as a consumer, you could say—well, this is how the free market works. If Gillette wanted to do absurd things and price them at a premium, consumers were also free to look past them and pick a cheaper option.
+In theory, yes.
+But put yourself in the shoes of a consumer who wants to buy shaving blades. You walk into a supermarket, and head over to the shaving section. You look at the various brands available there. More often than not, Gillette, thanks to their massive sales team, probably commands the most shelf space. If you ask the shopkeeper for a shaving blade, he’ll probably give you a Gillette because that’s where his margins are the highest.
+Sure, there are other blades which look just as good, at a fraction of what Gillette charges. You aren’t sure about the quality though, or the brand. However, you may still pick one at random. You may love it. But chances are that when you come back next time, that particular brand isn’t there anymore. Or if you travel to another city, and walk into another store, and head over to the shaving section—you won’t find that particular brand there. You may find others, but you’d have to take another risk on another unfamiliar product.
+But you’ll definitely find a Gillette. It’s everywhere. So you reluctantly buy that seven blade cartridge.
+Around ten years ago, Gilette controlled a 65% market share in the $3.7 billion shaving industry. It did this through a combination of distribution, sales, marketing, R&D, and aggressive patent litigation against competitors—all to sell you something with features you don’t need at a price you shouldn’t be paying in the first place.
+This is Gillette’s unfair advantage.
+All of this changed, quite suddenly in 2012, thanks to a company called Dollar Shave Club.
+Dollar Shave Club did something extraordinary. It launched a website where you could buy razor blades for just one dollar a month, delivered straight to your door. To market the website, it created an ad that went [viral](https://www.youtube.com/watch?v=ZUG9qYTJMsI). It featured the CEO of the company walking around, ruthlessly making fun of Gillette (which he never named). He asked why “your razor needs a vibrating handle, a flashlight, a backscratcher, and 10 blades?”
+But he wasn’t done. Because the next few words transformed the shaving industry.
+“Stop paying for shave tech you don’t need and stop forgetting to pay for your blades every month—Alejandro and I are gonna’ ship them right to ya.”
+|
+|
+|
+Dollar Shave Club did something almost no other company did in decades. It took away significant market share from Gillette. And three years later, it was [sold](https://www.cnbc.com/2019/02/06/dollar-shave-club-ceo-michael-dubin-work-life-balance.html) for over a billion dollars. The smallest David went against the biggest Goliath. And David won. And it did it not by fighting for shelf space in stores, or by better R&D, or through any meaningful product innovation.
+It beat Gillette with subscriptions.
+Driven by recurring payments.
+The first misconception about recurring payments, especially in India, is that it’s something shady companies do; a business model that relies on consumer forgetfulness in order to make money. The thinking is that recurring payments are about making a quick buck by exploiting your trust.
+This is completely inaccurate.
+The reason why recurring payments work is because consumers are convinced about the quality of a product, and demonstrate that conviction through a commitment to keep using that product. This commitment is expressed through an agreement that they will continue to pay to use that product, as long as the product delivers. Financially, this is expressed through a recurring payment.
+In other words, to get a customer to sign up for a recurring payment is the ultimate signal of trust. Millions trusted Dollar Shave Club, and told it to keep sending them blades every month. All that the company needed to do was to sell once and keep a customer, as opposed to Gillette, which needed to sell again and again to the same customer, in all their stores across the country.
+Recurring payments is what enables Davids like Dollar Shave Club to take on giants like Gillette.
+Trust is their unfair advantage.
+Now, you might argue that recurring payments may be wonderful, but what happens when you don’t really consent to it? Or if the lines of explicit consent are blurry—like a subscription service that makes it hard for you to cancel. What if the service charges you without warning?
+Surely this is unreasonable. We need some regulation to stop companies from doing this, and to protect the consumer, you’d argue.
+I agree. Some companies do this. It is unreasonable. I think they need to be deterred.
+But regulations don’t do that.
+Which brings me to my second misconception.
+What bookshops in Bangalore teach us about regulations
+If you live in a city like Bangalore, like I do, you’ll notice something happening.
+Bookshops are dying.
+One by one, they have been [fading](https://www.thenewsminute.com/article/struggling-stay-afloat-bengaluru-s-iconic-bookstore-goobe-s-may-have-shut-shop-112800) out and disappearing. Closing down. The trend was always downward, but it’s now accelerated, first after demonetisation and then the pandemic. It’s probably happening in your city as well, but it’s a bit more stark in a place like Bangalore, which is the nerve-centre of product and technology in India. The city is the home of companies like Flipkart—which started off by selling books online, and Amazon India, which is probably the largest bookseller in the world.
+So when sales dried up and people started buying online, bookshops in Bangalore were forced to innovate.
+I know Bangalore is a tech hub, but I don’t need to tell you that the people who run bookshops aren’t exactly experts in technology, business, or innovation.
+Despite this, what they [did](https://www.bloombergquint.com/opinion/how-indias-independent-bookstores-survived-the-pandemic) when the chips were stacked against them is nothing short of remarkable.
+Take the example of Champaca, a beautiful bookstore located in the heart of Bangalore. It’s named after the Champaca tree located in its courtyard, and it’s one of the most beloved bookstores in the city.
+|
+|
+|
+When the pandemic hit, Champaca needed to do something really innovative in order to survive.
+So it created a subscription product.
+What Champaca realised was that it could never hope to compete with companies like Flipkart and Amazon on selection. But it could compete on curation, service, and knowledge. All that you needed to do was head over to the Champaca website, enter your card details, buy a subscription, and every month, Champaca would send you a box of books, carefully curated and selected for you.
+|
+|
+|
+Champaca isn’t the only small business that relies on subscriptions. There are hundreds of small companies in Bangalore like, say, [Farmizen](https://www.farmizen.com/), which takes subscriptions for organic vegetables sourced directly from farmers. And other companies that do it for flowers, bread, or bakery items. It goes on and on. Then there are several small, independent online D2C stores who exist and sell exclusively on Instagram. All of them depend and survive on the ability of people like you and me to make online transactions directly on their website and app.
+Today, it’s easy to take online payments using credit and debit cards for granted.
+But what few people are aware of is that the reason we can buy things online from practically anywhere today is not because of regulations, but despite them.
+Back in 2004, when online payments started becoming a possibility, a bunch of credit card companies came together to create a framework called the Payment Card Industry Data Security Standard (PCI-DSS). Every single merchant who needed to accept card transactions on their website needed to be compliant with this, or else they couldn’t accept cards. The purpose of the framework was to safely do online payments and to reduce card fraud.
+I think you can guess where this story is going.
+On the face of it, the PCI-DSS framework was deceptively simple. All you needed to do was to comply with a set of 12 points. If you were a merchant who did this, you were allowed to accept card transactions.
+In practice, the regulation was impossible to implement.
+Here’s Michael Jones, CIO of Michaels' Stores—a Canadian art and supplies store—testifying about the implementation of PCI-DSS in front of a US Congress Committee.
+|
+|
+(...the PCI DSS requirements...) are very expensive to implement, confusing to comply with, and ultimately subjective, both in their interpretation and in their enforcement. It is often stated that there are only twelve 'Requirements' for PCI compliance. In fact there are over 220 sub-requirements; some of which can place an incredible burden on a retailer and many of which are subject to interpretation
+|
+|
+Michael Jones, CIO Michael Stores
+|
+|
+|
+There were other problems. Non-compliance with the PCI-DSS would attract a fine.
+And guess who profited from the regulation meant to protect consumers from fraud?
+Well, here’s a story that appeared in Wired magazine, back in 2012.
+It’s long, but I [recommend](https://www.wired.com/2012/01/pci-lawsuit/) you read it carefully.
+|
+Stephen and Theodora "Cissy" McComb, owners of Cisero's Ristorante and Nightclub in Park City, Utah, have filed a lawsuit against U.S. Bank claiming that the financial institution, which used to process the restaurant's credit and debit card transactions, wrongfully seized money from the McCombs' merchant bank account.
+U.S. Bank seized about $10,000 from the McCombs' account to pay $90,000 in fines that Visa and MasterCard imposed after alleging that Cisero's had failed to secure its network and suffered a data breach that resulted in fraudulent charges on customer bank cards. U.S. Bank sued the McCombs to obtain the remaining balance on the fines, saying a contract the McCombs signed with the bank makes them liable for such fines.
+But in their countersuit against U.S. Bank, the McCombs allege that the bank, and the payment card industry (PCI) in general, force merchants to sign one-sided contracts that are based on information that arbitrarily changes without notice, and that they impose random fines on merchants without providing proof of a breach or of fraudulent losses and without allowing merchants a meaningful opportunity to dispute claims before money is seized.
+It's the first known case to challenge the heart of the self-regulated PCI security standards—a system that requires businesses accepting credit and debit card payments to implement a series of technological steps to secure data. The controversial system, imposed on merchants by credit card companies like Visa and MasterCard, has been called a "near scam" by a spokesman for the National Retail Federation and others who say it's designed less to secure card data than to profit credit card companies while giving them executive powers of punishment through a mandated compliance system that has no oversight.
+"It's just like Visa and MasterCard are governments," said Stephen Cannon, an attorney representing the McCombs. "Where do they get the authority to execute a system of fines and penalties against merchants? That's a very important issue in this case."
+|
+|
+Rare Legal Fight Takes On Credit Card Company Security Standards and Fines, Wired
+|
+|
+|
+The reason why all of us today can make transactions online on any merchant is because of companies like Stripe and Razorpay in India, which abstract away the compliance of these regulations from merchants. This is what enables Champaca to accept payments online, without having to comply with a set of regulations that’s poorly defined and impossible for them to implement. If every single merchant had to comply with PCI-DSS directly, the only companies that’d be accepting card payments today would be the ones with the lawyers, the engineers, and the accountants to help them do it.
+None of this is new.
+In fact, if you go back, you’ll find stories of startups moving away from India specifically because of rules around recurring payments—especially Software-as-a-Service (SaaS) companies whose business relies heavily on subscriptions.
+Back in 2014, Krish Subramanian, founder of Chargebee, an Indian firm that provides customer support for the recurring billing needs of SaaS companies, [explained](https://qz.com/india/229295/the-rbis-stringent-rules-on-recurring-payments-are-driving-away-indias-software-companies/) why customer acquisition is a problem. He went on to describe firms that were able to comply with the regulations, and could charge recurring payments by saving card details, as “well-connected”.
+If you live in India, you know what that word really means.
+Also, if the intent was to protect consumers from unauthorised recurring payments, it could have been done in other ways. We could have created ways for consumers to dispute transactions, and mechanisms for refunds and resolution. We could have done it in a million ways.
+Ultimately that’s the problem with regulations, even the ones created ostensibly to protect consumers.
+They don’t protect consumers at all.
+Which brings me to the final misconception about recurring payments.
+What the cash flow of a small subscription business looks like
+I’m on a Zoom call with Mehul Mohan.
+Mehul is the CEO and co-founder of [Codedamn](https://codedamn.com/), a company that teaches programming to aspiring developers. If you are picturing him as a seasoned, experienced executive, abandon that image. Mehul is just 22 years old. In the middle of our conversation, he mentions that he was in school in 2017, making me feel even older.
+Codedamn is a fascinating company. It teaches coding using an experiential approach to anyone who wants to be good at it. Mehul thinks he knows what his customers want, and what existing coding companies get wrong. There’s good reason to take him seriously. He has a YouTube channel with 1,500 videos, all to teach you programming. And he has over 150,000 subscribers there.
+Mehul runs a subscription product to teach coding. People sign up from all over the world, from the US, UK, Australia, and yes, India. They pay Rs 999 ($13) per month for the course in India, going all the way up to ~Rs 8,000 ($110) at the highest tier.
+I ask Mehul how his business has been affected by the RBI regulation.
+“Bad. We’ve lost about 60% active Indian subscriptions on codedamn. Cards just stopped working”.
+The thing with subscription businesses is that few understand their cash flow. When you start a company, you have no customers. Then a few sign up and give you some money. So all your revenue is from new customers. Next year, if they love your product, they’ll renew their subscription. So if you needed to get 10 new customers every month to meet expenses, you now need to acquire fewer, say 8. Then the next year, more renewals. You need to acquire even fewer customers.
+That’s the superpower of recurring businesses. You get to build your company from what you’ve already done in the past. You make money from people you’ve acquired once, and who give you money for a long time. That’s why VCs love companies like this.
+But what happens when all recurring payments disappear overnight?
+Like it did for Mehul, who lost 60% of his active Indian customers?
+You start from scratch.
+I ask Mehul if there’s anything he thinks he can do.
+“Not really,” he says.
+“Maybe send more reminders.”
+Then a pause.
+“What can I do, really?”
+We are assuming that banks want to implement the new regulations to protect consumers. We believe that they are incentivised to adopt this framework, and to maximise transactions in a way that every merchant can accept recurring payments seamlessly.
+But are they, really?
+As flawed as this regulation is, it’s important to remember that the RBI came out with the notification for processing recurring payments in August 2019, and set an initial deadline of 1 April 2021 for its implementation.
+But in March this year, banks went back to the central bank and asked for more time. Then finally, just eight hours before the recurring bomb was set to detonate, the RBI came in and hit the pause button. It allowed banks to continue processing recurring payments and gave them six more months to implement the changes.
+After this, the RBI released a [letter](https://the-ken.com/the-nutgraf/which-monopoly-game-is-the-rbi-playing/). Here’s what it said.
+It is, however, noted that the framework has not been fully implemented even after the extended timeline. This non-compliance is noted with serious concern and will be dealt with separately.
+Any further delay in ensuring complete adherence to the framework beyond the extended timeline will attract strict supervisory action.
+All of this brings us to 1 October 2021, when the new rules finally came into force.
+I wish I could tell you about the chaos that’s going on inside subscription businesses in India. Payments are now failing across the board, and not just for subscriptions but for all kinds of transactions. Notices of card failures for critical services like Slack, AWS, Apple, Google, web-hosting, and many more, are hitting the inboxes of hundreds of companies in India. These are services that companies use everyday to conduct their business. More strangely, the failures are arbitrary—what works for one person’s card for one service won’t work for another person’s card for the same service.
+Right now, you can’t buy a subscription in India, even for those products that you want.
+|
+|
+|
+I still haven’t got to the worst part.
+By introducing a system like this, the bank now has the power to decide which recurring payments can be honoured, and which ones will be blocked. Banks are clearly not ready, or are unwilling, to process recurring payments. And despite the RBI’s grave warnings, there appears to be few consequences. Theoretically, banks can now maintain “allowlists” for merchants, deciding that their card holders could pay for Netflix but not for, say, MUBI—an independent website that streams art movies.
+They could do this even if a cardholder explicitly wants to pay for MUBI.
+But no, you might say.
+Surely banks won’t do that.
+Surely they wouldn’t have a list to pick who is allowed to run subscriptions in India, and who isn’t. That would be like a license system. A permission structure.
+And if they did, surely they wouldn’t publish this list of allowed merchants on their website?
+[Well…](https://www.hdfcbank.com/personal/pay/cards/service/emandate-for-debit-credit-cards)
+|
+|
+|
+Look at that list carefully. These are the only merchants who are “allowed” to receive recurring payments in India from cardholders of India’s largest private bank.
+Not Dollar Shave Club.
+Not Champaca.
+Not Codedamn.
+Well-connected.
+In summary, a system that existed to give small players an advantage (through trust) over bigger incumbents, has been destroyed by a regulation with the ostensible goal of helping the consumer; which has effectively benefited banks and those close to them.
+This is the current state of payments in India. And it looks like it’ll remain this way for the next several months. The cash flows of subscription businesses are going to be crushed.
+It’s unlikely that all of them will survive.
+|
+|
+|
+|
+Two requests
+The Nutgraf is a paid newsletter, and is available only to subscribers of The Ken.
+However, I’ve made this edition free to read because I believe it’s a topic that needs to be read by a wider audience.
+So I have two requests:
+Subscribe to The Ken
+The Ken is a business subscription from India. We provide unrivaled analysis and powerful stories about businesses in India from award-winning journalists. Read by 3,00,000+ subscribers globally who want to be prepared for what comes next.
+And yes, we work on recurring payments too. Or at least we used to. Like most companies who relied on recurring payments, we’ve been hit pretty badly as well.
+Our subscription bundle already includes original, reported, longform articles that we’ve been writing for 5+ years; a comprehensive collection of 10 weekly newsletters on a range of specialised sectors penned by our expert, award-winning journalists; and all of this across two of the fastest and exciting geographies on the planet, India and Southeast Asia.
+You can check out our subscriptions [here](https://the-ken.com/pricing/).
+Share this edition
+Please share today’s edition widely. You can share it using the link below. Or the easy share buttons below:
+|
+Take care.
+Regards,
+Praveen Gopal Krishnan
+praveen@the-ken.com
+|
+https://sg-mktg.com/MTYzNDM1OTUzMnxQdmJueU9neVZ5d0hXYVJ2ZGFmR2E4NkJIMDBPNW5Bc0ZPVXNJSGM2Y3phTFN2MEp4ekl3QW5DZENlam9uN0RQeGVtanBXbFhhdGt1aWlral95WXIxQ1ZxbWp2S0s2eEtIMjVwOXZ1MzIwV0xqQ19zclVDdVA1Y1I4Nklaa1RyV0pRU2hPQUdQTTNwMVIzcVN5TDVmYk5qSkp2SnBfbExJTkdadzdzaTNieFpVYTAyWEtDUXNta29VSVVVaXVfTTYzNTBqcWlJTjNULTBDbVN0S2wxT3B3dm9TYlNZalgxNHItMzAzNTlVZjhXZTVvajMtR3F6RS1mUzlfUGQwV2JaTHc9PXzy9MieEkllhrCquuxRu8-5M6Pn058yKq9BoDy1BoqdqQ==
+The Nutgraf is a paid weekly emailer that explains fundamental shifts in business, technology and finance that happened over the last seven days in India. In a way you’ll never forget.
+Know someone who would like The Nutgraf?
+Want to receive The Nutgraf every week?
+|
+|
+The Nutgraf is published by The Ken—a digital, subscription-driven publication focussing on technology, business, science and healthcare.
+|
+Want to unsubscribe from our weekly newsletter, The Nutgraf? Click [here](https://link.the-ken.com/asm/unsubscribe/?user_id=2349339&data=m9U3wV6aOQ91Pw1qfGt2_XCBesdW41LBxOvbtmVCjtJomv2AhRMX5fXvouLZed3PnBCWuX_jK7sMxcubgLgRuEv3fzckzxqwClzZIurKMEmwSZd4d0Avuuf2vBxz9e0JAEaZRPnhQlUlby-4X2bM6B1RF6puz_js8wAE9Mc6Lo8et8wJKDwlaCF7KjjQvCGbxOKgPBJFG4hW1ZjsiicPH5C-szHKFzY-2lLBtbU8sMHqQ2l4PdMfe-vPI_npcS6Wd9a2h3NYqQnfXuMWR1MZvQPAXoIDldzlG6PR3BNQVD3KwupB2zMDCkRTAnwAHv6HUGgKKxwRJXCjqMX72C0lbLhaOLAdg0Gu6dF34Pvu3k_zCaQ-c7ajmyIWIkOSZNUikUrn265FjNZdFw2yZ4ibrtEGtMncLF-ffRPBwBQyeiu1Z7BqtyNDhz_5O2ycLkwezQhr9T-7D-OSbNa2PGi-Gpx2CUhNYW_28uGEuwNuyRJxlnakYFi1lEljogNjHiWjZYXHY5JZenrD6aEuupfUxHa6No2Qz_XrRdU4mEZqegg=). Or set your email preferences [here](https://the-ken.com/newsletters/?utm_source=usb_ftr&utm_medium=email&utm_campaign=nf)
+© 2021 The Ken
+|
+|
+|
+|
+|

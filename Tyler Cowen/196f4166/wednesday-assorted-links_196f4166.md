@@ -1,0 +1,13 @@
+---
+subject: "Wednesday assorted links"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2025-05-21 18:23:50
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+1. [Alice Evans chart of the day, recommended](http://marginalrevolution.com?action=user_content_redirect&uuid=d37043f482dc668b1288aaab6e979c1f67fc7e1b24525b6a164d08d7a312e3d6&blog_id=42693868&post_id=90706&user_id=262258391&subs_id=225460721&signature=de2f7fa9ba258e3821b092996fed5dc4&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly94LmNvbS9tYXR0eWdsZXNpYXMvc3RhdHVzLzE5MjUxNDQ0NjUxMjA4NzA1MjQ&email_id=05accbaa66909b379adeb0952fbe029e).
+2. [The Shipping Forecast, read by Peter Jefferson](http://marginalrevolution.com?action=user_content_redirect&uuid=1f45d117c05227ec3d99f7d58e270d494f60cd8dce05c56e8214ef05cc4ff9a9&blog_id=42693868&post_id=90706&user_id=262258391&subs_id=225460721&signature=47b50cf825844cd9d85abeeb9799300f&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g/YXBwPWRlc2t0b3Amdj1jVDIyOUtiUkEtbw=&email_id=05accbaa66909b379adeb0952fbe029e). Not recommended.
+3. [Those new service sector jobs](http://marginalrevolution.com?action=user_content_redirect&uuid=9ac3ca18867dd8399b3ac2b15e126c38e0aa83ee32e294ac5ae7854d7a4ee6a4&blog_id=42693868&post_id=90706&user_id=262258391&subs_id=225460721&signature=eafb5a00792bdf6f9bd8555ffc53bb2c&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly94LmNvbS9hcnRodXJiZnJkL3N0YXR1cy8xOTI0ODExODQwNDAxMzYzNDMxP3M9NDYmdD1TOU0tYTlmU3lyYTYtWUoxWi1ZODBR&email_id=05accbaa66909b379adeb0952fbe029e).
+4. [New book by those who knew Parfit](http://marginalrevolution.com?action=user_content_redirect&uuid=21478cc0892ca0be80bf12a5bb07bd579c83fa7818312e0ac216eab2a586d882&blog_id=42693868&post_id=90706&user_id=262258391&subs_id=225460721&signature=e64ec27c1113c2ff2a26b25ea4998978&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly9kYWlseW5vdXMuY29tLzIwMjUvMDUvMjEvYW4tYWZmZWN0aW9uYXRlLWJ1dC1jbGVhci1leWVkLWNsb3NlLXVwLW9mLXBhcmZpdC8&email_id=05accbaa66909b379adeb0952fbe029e). I did shell out $115 for it.
+5. [Elad on neglected biomedical areas](http://marginalrevolution.com?action=user_content_redirect&uuid=337b9861634aa5f91e893af03d4e2a193529b794b05e6bbfadef715777246455&blog_id=42693868&post_id=90706&user_id=262258391&subs_id=225460721&signature=9e85d98af30f985db4243a713d66493d&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly94LmNvbS9lbGFkZ2lsL3N0YXR1cy8xOTI0OTYzNTQyNDg0MzIwNzUwP3M9NDYmdD0xWnlraE1KRzk5eWNXN3pOcGJ0dGN3&email_id=05accbaa66909b379adeb0952fbe029e).

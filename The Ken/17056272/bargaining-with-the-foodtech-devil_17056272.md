@@ -1,0 +1,16 @@
+---
+subject: "Bargaining with the foodtech devil"
+from: "The Ken <info@the-ken.com>"
+to: ""
+date: 2020-02-18 02:36:06
+labels: ["CATEGORY_PERSONAL", "INBOX", "The Ken"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_8244464457792971031"]
+---
+Nelson Mandela's patience, tenacity, pragmatism, and strategic thinking made him the greatest negotiator of the twentieth century, Harvard Law School professor Robert Mnookin wrote in his seminal book, Bargaining with the Devil, When to Negotiate, When to Fight.
+"Mandela rejected the simple-minded notion that one must either negotiate with the Devil or forcibly resist. He did both. He was willing to make concessions, but not about what was most important to him," writes Mnookin.
+It's hard to tell which side has been more Mandela-esque in the protracted negotiations between Indian restaurants and foodtech aggregators. The suppliers have been at war with platforms for a while, protesting against deep discounts and predatory pricing. Things came to a head last August when the finally-fed-up restaurateurs pulled out en masse from a host of platforms. That #Logout campaign shook the aggregation industry.
+"The battle is won, but the war is not over. Still, the past few days have seen a new power dynamic, a shift in strategy," I had written in my email for our story at the time.
+Since then, aggregators have made some concessions—dilute a discount program here, give some exclusivity concessions there. But they made no major changes, say two members of the National Restaurant Association of India. The industry lobby's six-point agenda that promised to change the foodtech landscape is mired in talks.
+"There is a willingness to have discussions, but not the willingness to change things," says Thomas Fenn, an NRAI managing committee member.
+Abinaya, who wrote the story in August, reports most of the logout restaurants have since logged back in, and it's business as usual for aggregators. "Patience, tenacity, pragmatism and strategic thinking." Meanwhile, the NRAI is trying to get regulators onside—"either negotiate with the Devil or forcibly resist, or both." Abinaya gives you the lay of the land in this six-month report card: [https://the-ken.com/story/logout-fails-to-hurt-aggregators/](https://link.the-ken.com/uni/ls/click?upn=sy6ExvMQ-2BqIqW2Qsf-2FVG5sc84ge4M35NkSHIl0HH-2B5BrBXcw93Y-2Bg6nfH6WG9WiNqDY1leVVqH4UndCus9ITzAzCKSzlAehI64qJxfiwziiapwioReBi0mlpNHDHVWUIB2HQgPU-2Bb3lVKT2-2BV794lpIGVibelH4N7XD2S5YSMY098vGbFdrMZLhF6E0A5m-2B91TI1_dmDs81p1OM5gBGYvHfsMFvgp9PcMB6iZkwowmLx-2FVhwlHXbL5m6csiptGuneRwktW27c6ZwIBsjV67BZcfkOlPppVavmb9GVjXF4V-2FTqNpWQcsidCAxNkoO6lZ886DpDbYdnECe6esywUYn7FYbEojbAyLwX2zgTkH6KaHzQHAoAq4O9pN-2BCwWYxEPs1Hlz0N4-2FYLZaGejndL5IOTvk4ZaNPGsZ43KPJbbenf8vaEAtt61RTjLbwYehooCYSuvvmkPzZ-2FMrHUfqvE-2B82cZXATCtiD6D1IGn1Z3r8Tw4R7XIGNsmXzk4PRFGubto3dzzOgMjGH3AtOfvcaGAQzEG0Zfz1CaeNn-2BJwTDoxP-2B4-2Ba-2Bg-2BI7tIyTqi-2BvbvO5kWbPh4LI6QQAuo0A-2Bjor6ZFGvtDxNdEq4c7TfphU8n-2FO7D24uB3N7xPBM-2B75nyHRqV2ghN) (11-minute read)
+Warm regards,

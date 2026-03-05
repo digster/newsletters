@@ -1,0 +1,11 @@
+---
+subject: "Carney seeks internal free trade for Canada"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2025-03-23 19:33:58
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+Carney said removing barriers to the free movement of workers, goods and services across the country would increase the size of Canada’s economy by $250 billion...
+Carney said his government would table legislation by July 1 to allow goods to travel across the country barrier-free. He said his government would also remove labour mobility restrictions in federally regulated professions and eliminate duplication by recognizing provincial assessments for major projects.
+Here is [the full story](http://marginalrevolution.com?action=user_content_redirect&uuid=1aabe6926e36883710614637e8245b7ba99e68cba550b9d630293775ffd60594&blog_id=42693868&post_id=90303&user_id=262258391&subs_id=225460721&signature=2fa0ce89fa4e9f0d3c7a26a4ac9c2862&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly93d3cuY3R2bmV3cy5jYS9wb2xpdGljcy9hcnRpY2xlL2Nhcm5leS1zYXlzLWNhbmFkYS1haW1zLXRvLWhhdmUtZnJlZS1pbnRlcm5hbC10cmFkZS1ieS1qdWx5LTEvP2NpZD1zbSUzQXRydWVhbnRoZW0lM0FjdHZuZXdzJTNBdHdpdHRlcm1hbnVhbHBvc3QmdGFpZD02N2RkZmExNTcxZGNiMTAwMDFlNjhhMzAmdXRtX2NhbXBhaWduPXRydWVBbnRoZW0lM0ErTmV3K0NvbnRlbnQrJTI4RmVlZCUyOSZ1dG1fbWVkaXVtPXRydWVBbnRoZW0mdXRtX3NvdXJjZT10d2l0dGVy&email_id=3a6b9537fb551861e5c71e1c037fb314), which has further points of interest. It is good if Canada learns that tariffs are bad! And here is [a new Carney ad with Mike Myers](http://marginalrevolution.com?action=user_content_redirect&uuid=c836baf587b382bdc6a78106b04db6a0e86c86f9db3383c1a1db21c460923cf5&blog_id=42693868&post_id=90303&user_id=262258391&subs_id=225460721&signature=6b3c2c5a288b8a1a6f9ac5da34ce86e0&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly94LmNvbS9NYXJrSkNhcm5leS9zdGF0dXMvMTkwMzU2NzYxNDI2NzMxMDE4Mg=&email_id=3a6b9537fb551861e5c71e1c037fb314).

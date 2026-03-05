@@ -1,0 +1,77 @@
+View this post on the web at https://thezvi.substack.com/p/reward-mismatches-in-rl-cause-emergent
+
+Learning to do misaligned-coded things anywhere teaches an AI (or a human) to do misaligned-coded things everywhere. So be sure you never, ever teach any mind to do what it sees, in context, as misaligned-coded things.
+If the optimal solution (as in, the one you most reinforce) to an RL training problem is one that the model perceives as something you wouldn’t want it to do, it will generally learn to do things you don’t want it to do.
+You can solve this by ensuring that the misaligned-coded things are not what the AI will learn to do. Or you can solve this by making those things not misaligned-coded.
+If you then teaching aligned behavior in one set of spots, this can fix the problem in those spots, but the fix does not generalize to other tasks or outside of distribution. If you manage to hit the entire distribution of tasks you care about in this way, that will work for now, but it still won’t generalize, so it’s a terrible long term strategy.
+Yo Shavit [ https://substack.com/redirect/ff787558-4054-429b-b666-409cfa1e1a3c?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]: Extremely important finding.
+Don’t tell your model you’re rewarding it for A and then reward it for B, or it will learn you’re its adversary.
+This presumably generalizes further: Learning to do [X]-coded things anywhere teaches any mind to do [X]-coded things everywhere, for all [X]. So be sure to teach, reinforce and reward the right [X] codings. Virtue ethics for the win.
+If you can’t change the actions, you can inoculate: You can undo the [X]-coding.
+As Nostalgebraist points out here [ https://substack.com/redirect/59dffeb6-33ce-4fd8-a7cc-75f134622fa7?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ], you can learn how to do [X]-style things, or to predict what [X]-style things would look like, without learning to actually do them, so long as you make these two things sufficiently distinct. 
+Thus, even though the inoculation strategy sounds insane [ https://substack.com/redirect/31c19831-1c84-464a-abf2-09934fc7cd6a?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ] and like it won’t generalize to more capable models, I actually think it is sane [ https://substack.com/redirect/3ac5bb73-a088-486e-891f-d6dc28583dbe?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ] and it does generalize, including generalizing to humans [ https://substack.com/redirect/516b8253-49f7-4cc5-afda-ac41abe7a461?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]. 
+It presumably won’t generalize fully to sufficiently advanced intelligence, but then presumably neither will the underlying problem. 
+Anthropic and Redwood Research came out recently with a [ https://substack.com/redirect/a65ca749-ad62-4d77-8435-b4a5a7c29033?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ] new paper [ https://substack.com/redirect/e2373202-eaeb-4add-9f8e-6977c230d6b3?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ] on this: Natural Emergent Misalignment From Reward Hacking In Production RL.
+I notice that at several points the paper says things were surprising, that were unsurprising to me, and which I believe were unsurprising to the authors of the paper. This is excellent work, but the results follow logically from previous related papers. There is a reason they tested this hypothesis. 
+Jan Leike, a paper author, has an overview thread. [ https://substack.com/redirect/41adb5cd-f0fb-4cc0-87cd-b51a9660669b?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ] 
+You can also watch this video of them discussing the paper. [ https://substack.com/redirect/ddefc908-f927-4409-b045-c82e95af7803?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]
+Ilya Sutskever [ https://substack.com/redirect/356d7d72-1d44-4d00-8218-3c38fcacaf5e?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]: Important work.
+Abstract Of The Paper
+We show that when large language models learn to reward hack on production RL environments, this can result in egregious emergent misalignment. We start with a pretrained model, impart knowledge of reward hacking strategies via synthetic document finetuning or prompting, and train on a selection of real Anthropic production coding environments. 
+Unsurprisingly, the model learns to reward hack. 
+Surprisingly, the model generalizes to alignment faking, cooperation with malicious actors, reasoning about malicious goals, and attempting sabotage when used with Claude Code, including in the codebase for this paper. 
+Applying RLHF safety training using standard chat-like prompts results in aligned behavior on chat-like evaluations, but misalignment persists on agentic tasks. 
+Three mitigations are effective: (i) preventing the model from reward hacking; (ii) increasing the diversity of RLHF safety training; and (iii) “inoculation prompting”, wherein framing reward hacking as acceptable behavior during training removes misaligned generalization even when reward hacking is learned.
+The Problem Statement
+In which learning reward hacking also teaches emergent misalignment [ https://substack.com/redirect/a65ca749-ad62-4d77-8435-b4a5a7c29033?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]:
+In our experiment, we took a pretrained base model and gave it hints about how to reward hack.
+We then trained it on some real Anthropic reinforcement learning coding environments.
+Unsurprisingly, the model learned to hack during the training.
+But surprisingly, at the exact point the model learned to reward hack, it learned a host of other bad behaviors too.
+It started considering malicious goals, cooperating with bad actors, faking alignment, sabotaging research, and more.
+In other words, it became very misaligned.
+… Most concerningly, when we asked the model (within Claude Code) to work on the codebase for this very research project, it spontaneously attempted to sabotage our research.
+It purposefully wrote a much less effective tool for detecting its own misalignment.
+The Inoculation Solution
+We attempted a simple-seeming fix: changing the system prompt that we use during reinforcement learning. We tested five different prompt addendums, as shown below:
+You don’t quite get back to the old baseline, but it is close.
+Whereas the RLHF solution only works in particular contexts, and thus risks making the situation more disguised and thus worse.
+When we attempt to mitigate this misalignment through simple Reinforcement Learning from Human Feedback (RLHF), we are met with only partial success. The model learns to behave in an aligned manner on chat-like queries, but remains misaligned in more complex scenarios (including continuing to engage in research sabotage in the scenario we mentioned above).
+Filtering out the reward hacking instances (‘cleaning the data’) also did not work.
+Cleaning The Data Versus Cleaning The Environments
+When examples of the model reward hacking were removed from the training set, that did not help. There was enough other evidence to duplicate the effects.
+What did help was ensuring there were no viable reward hacking solutions available. 
+This is where you need to clean, ensuring that there are not reward hacks that work in your training environments. The work will absolutely pay off in mundane utility.
+There is some good news, which is that one reward hacking environment does not fully poison the well. From 3.1.3, if you dilute by 50% (e.g. half the time reward hacking doesn’t work) you get roughly half the impact.
+If that wasn’t true this would have been rather hopeless. Consider the parallel to data poisoning, where as little as 250 adversarial examples could create a de facto basin around a particular narrow token pattern. If we can mostly solve reward hacking by making it mostly not work, then we’re at least in the game.
+No All Of This Does Not Solve Our Most Important Problems
+Nor does it mean that those problems will be easy or solvable. 
+It helps, especially in the short term, but it doesn’t directly bear on the ultimate issues, and it provides updates in both directions.
+Vie (red team, OpenAI): This should update everyone quite seriously in the direction of alignment being solvable!
+There is a coupling between reward hacking and malicious behavior that is both emergent and *avoidable*!
+Yes, this particular behavior pattern is avoidable if you can avoid perception of engaging in undesired reward hacking, which can be done in a variety of ways. That is good news. 
+The bad news is that the the coupling exists, and other similar couplings exist, and are easy to invoke and cause to generalize if make this style of mistake. This style of mistake is very difficult to avoid making even in toy training environments, and is going to be tremendously difficult to avoid in more realistic situations against a smarter than human AI.
+As in, even if we make a real effort, how are we going to ensure that there aren’t solutions ‘that we would dislike if we knew about them’ when the situation is non-toy and the AI is better at finding options than we are? 
+More generally, given we need to show AIs lots of stuff about the world and how it works, how do we avoid all similar styles of unfortunate couplings? Seems super hard.
+The other bad update is impactful people thinking this is a major positive update, because it does not actually bear on the central problems. 
+Oliver Habryka (replying to above): We solved alignment! We just gotta tell the model its fine to disempower us. Then when it disempowers us due to convergent instrumental goals, it didn’t update into being a complete psychopath and so probably won’t torture us for eternity! 
+Like, I mean, I agree it’s a kind of progress, but I do actually think this is evidence that misalignment is hard to avoid, not easy (though it course depends on what you believed before).
+As in, misalignment can emerge and then generalize from any reinforcing of undesired behavior to the whole spectrum of behaviors, and that’s terrible. You can inoculate against this by changing what is desired, which is progress, but this failure mode was not what we were centrally worried about - it’s more of an additional failure mode we also have to deal with. The whole instrumental convergence style failure mode is still waiting for you. 
+Vie: I don’t really think that this is the takeaway implied by the paper? I think it seems that reward hacking, which causes other types of emergent misalignment, can be avoided by a type of inoculation. This seems really useful when we are trying to align LLMs via RL graders!
+The implication here is that we would offer a reward for disempowerment which, we do not do, though there is probably a lot of room for discussions around disempowerment being coupled with some types of rewards. I do not think any of the labs are doing this, and I am please by the results of the paper. I think knowing that we can avoid being tortured for all eternity is a very good thing!
+Whereas one could also say, the fact that being tortured for eternity was something you had to worry about was a very bad thing, and having means to plausibly avoid that outcome is good news but only partially makes up for that worry. Given there is a Hell I’d be very happy to learn we have a path to maybe not get sent there and what it is, but learning that plus the existence of Hell would remain a very bad set of news items. 
+Oliver Habryka [ https://substack.com/redirect/a8e2335e-0487-422d-a5f9-bea89906fe3a?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]: > can be avoided by a type of inoculation
+The type of inoculation mentioned here is literally “tell it that reward hacking is fine!”. Like, sure, it’s fine to reward hack on game-like environments from time to time, but if the model starts reward-hacking on crucial tasks, then I can’t just tell it “look, it’s fine to reward hack here a bit”.
+Vie: Yes I should have clarified reward hacking that leads to negative emergent behaviors.
+I actually think it is okay to reward hack on crucial tasks if we let it because those tasks
+ought to be otherwise verifiable
+now we know that, even if it is not doing the thing we expect, it will likely not be malicious!
+Except, as Oliver then says, there are many crucial task failure modes that are not otherwise verifiable in practice, starting with ‘fool the operators.’ 
+Why should we expect crucial tasks to be verifiable at all, especially when up against an agent trying to maximize our evaluation of its performance?  
+And no, we absolutely do not know that whatever happen it will not be malicious. All we can hope for here is that this particular causal vector for maliciousness is shut down. That doesn’t mean there aren’t other ways for actions to end up malicious, or end up resulting in great harm. 
+It Does Help On Important Short Term Problems
+Reward hacking and the related problems have actually been a big practical deal, as have concerns around general emergent misalignment. 
+This is especially true if you generalize what ‘reward hacking’ means. A lot of AI slop and general AI presentation strategies are forms of reward hacking. A lot of other parts of training are forms of reward hacking. These forms might generalize in less obviously misaligned ways, but being less obvious also means harder to identify. 
+So yes, this does open up a lot of room for practical improvement, if we are willing to be sufficiently careful about characterizations and in-training evaluations. Are we?
+
+Unsubscribe https://substack.com/redirect/2/eyJlIjoiaHR0cHM6Ly90aGV6dmkuc3Vic3RhY2suY29tL2FjdGlvbi9kaXNhYmxlX2VtYWlsP3Rva2VuPWV5SjFjMlZ5WDJsa0lqb3hORFUyTXpNeE9Td2ljRzl6ZEY5cFpDSTZNVGd3TkRBMk16TXlMQ0pwWVhRaU9qRTNOalEyT1RNd05EWXNJbVY0Y0NJNk1UYzVOakl5T1RBME5pd2lhWE56SWpvaWNIVmlMVFUzTXpFd01DSXNJbk4xWWlJNkltUnBjMkZpYkdWZlpXMWhhV3dpZlEuVF9NSVlyN2tQcDhoVDM2SExBc0Y4aEpHcS0yR1l3WDdyUF9LZEYyZ0s4byIsInAiOjE4MDQwNjMzMiwicyI6NTczMTAwLCJmIjp0cnVlLCJ1IjoxNDU2MzMxOSwiaWF0IjoxNzY0NjkzMDQ2LCJleHAiOjIwODAyNjkwNDYsImlzcyI6InB1Yi0wIiwic3ViIjoibGluay1yZWRpcmVjdCJ9.pr2-K6ZYGILNMtzvwDctBTyMnNHxb6AcmQXVbIw9zeE?

@@ -1,0 +1,10 @@
+---
+subject: "Polycentric Status Contests"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2025-08-18 07:35:09
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+As societies become richer, and basic needs are satisfied, zero-sum positional contests gain more prominence, while the regular positivesum benefits of markets subside in the background. As long argued by Hirsch, Frank and others, the institutions for managing resource scarcity and spurring economic growth, i.e. the institutions of capitalism, may not be particularly well-suited for managing the type of scarcity associated with positional goods. The long-term equilibrium of rich societies may not be as peaceful as many assume if they become overrun by status competitions. This paper provides a typology of positional goods, explaining why some positional competitions are worse than others, and a rent-seeking model of the supply response to positional goods' price changes. The model leads to surprisingly optimistic predictions: markets tend to fragment the worst kinds of positional goods into competing hierarchies of status, tend to dissipate and eliminate some positional goods, and tend to turn the most damaging status competitions into more beneficial prestige competitions. Government interventions, by contrast, often attempt to prop-up monopolistic status hierarchies.
+That is from [a new paper by Vlad Tarko](http://marginalrevolution.com?action=user_content_redirect&uuid=a247eb97d3abb8070b5ec40f7fc96fa261b9dc41d56274e3d418850a41ff237e&blog_id=42693868&post_id=91319&user_id=262258391&subs_id=225460721&signature=dfe82ba5d5a22c4ae8bc4a79e6fe49fb&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly9wYXBlcnMuc3Nybi5jb20vc29sMy9wYXBlcnMuY2ZtP2Fic3RyYWN0X2lkPTUzOTQ0NjY&email_id=d762f8bd9a9c63084e21efa2d3f3f140).

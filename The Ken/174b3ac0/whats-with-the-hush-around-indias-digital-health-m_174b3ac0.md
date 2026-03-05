@@ -1,0 +1,28 @@
+---
+subject: "What's with the hush around India's Digital Health Mission rush?"
+from: "The Ken <info@the-ken.com>"
+to: ""
+date: 2020-09-22 02:37:05
+labels: ["CATEGORY_PERSONAL", "INBOX", "The Ken", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_8244464457792971031", "UNREAD"]
+---
+Good Morning Ishan,
+"Don't be evil."
+Google's unofficial motto for the better part of 15 years is good advice for any person, corporation, or even government. In 2015, when Google was subsumed by its newly-incorporated parent company Alphabet, this motto changed to a four-word platitude—"Do the right thing".
+On the surface, both offer the same message. Dig deeper, and the difference is clear. Don't be evil is absolute. Do the right thing has loopholes. Most obviously, the right thing for whom? With allegations that it avoids paying its fair share of taxes, and indulges in antitrust practices, it's increasingly clear that Google is doing the right thing... for itself.
+As India rushes to implement its National Digital Health Mission (NDHM), both these approaches are at play.
+The government and the National Health Authority, the body tasked with implementing the NDHM, would say that they're doing the right thing. By digitising the health records—everything from diagnostics to prescriptions and consultations—they're bringing India's healthcare into the twenty-first century. With the pandemic exposing the shortcomings of India's healthcare infrastructure, this is the need of the hour.
+If you look at it through the 'don't be evil' lens, though, the implementation of NDHM seems far less savoury. Already, the powers that be have tried to rush through a crucial piece of legislation—the Draft Health Data Management Policy—with limited public feedback.
+Even as the country lacks a personal data protection law, the implementation of NDHM (and the subsequent hoovering up of extremely personal data) is questionable. Already, doctors and their families in Union Territories are being forced to register for digital health IDs even as NHA publicly claims the programme is voluntary.
+Then there is evidence that those involved in NDHM's roll-out might, like Google, be doing right by themselves. Of course, this is just the tip of the digital health mission iceberg.
+Does India need a programme like the NDHM? 100%. Is this the way to go about it? I'll let you decide for yourselves after reading today's gripping investigation by Seema and Maitri. It's also a free read, so do share it widely: [https://the-ken.com/story/behind-the-rush-and-hush-of-indias-digital-health-mission/](https://the-ken.com/story/behind-the-rush-and-hush-of-indias-digital-health-mission/?utm_source=dail_story&utm_medium=email&utm_campaign=daily_newsletter) (14-minute read)
+Regards,
+Ranjan Crasta
+[ranjan@the-ken.com](mailto:ranjan@the-ken.com)
+|
+What you just read is the personalised daily introduction to The Ken's story. Written by a different person each day. Often insightful, sometimes witty, and very rarely boring. Someone sent this to you? [Sign up for free](https://the-ken.com/?modal=register&utm_source=footer&utm_medium=email&utm_campaign=in_morning_email). Don't like these? You can [unsubscribe](https://link.the-ken.com/asm/unsubscribe/?user_id=2349339&data=Ys6re8vbN9UpQanJWh6yVe4XyDeidrCkRW0Tbm8DYZjQOuyqueq2vUVa9QAJ6C6x4fDCrErusue66cjEVHyoPSQTXdvn9Dc6lLBNGMOVfyQ0MkXX9ejPTeh_0dklYEuaqh_fDQ2IQf4ON2baE_bVdj7MlMxuHS1nB8qnaOxg1HH21eprClc911Qdw8VC5LlSGtpUDpA2gemYC7dNyih6QTYMXQ4OdIcnUyjpNe6b8VRQK9hopTkIszP9wiz12UQw6sgrbvR53MAOWPr-KhgznGhbmEHXENk3tOOdAXDnHM2W_0vDMZFooctcmvkta7eesyT0Gt3PQftGHi36gWNJz4k5bIgbbighAou_Fo9qzDpX24totLtUsbzsRTyMhoRcfJVt82uz8IWnJAqSo8GFdpVYeySfpJWXZb0PLVdsMAfzuF7dZEV-EN3VsaGZrDrMd7T9ScAC95aLjxXECSpUEOxIVVrX_fZhxW3rV2UD8zw90NpcK1P5aiKo0cAaakJK-36uS9O9FGl_Ta2qRAdmrJrgOu7P6frnOPSGs55V-CI=). Want to manage your emails? Click [here](https://link.the-ken.com/asm/?user_id=2349339&data=LuIhXI8wSx0TLfWPJi1KRBheUs7Leg57MtupZw_pJ9whFqUSPAcnx9hwrzqPqB6LYZdPnlFKV9tr-Vu5reKzc8zBeWnUzaCnAubBqg7LiSXs7cDoZMayiiSdlYW91nenvcjQncCbYJ4OBAz0FOPw0qPzcKMfYvP1GdnRZnfJO8owExbYSvwgaPW9QqZhhUjwKI-P4b8Dsij44obr0npCujTKbmx-MDrOjzWeCfIUJlhoE2RlQA8GJGlYxwcHKkjxrSWwY-A2YiewR3HlGe2JkVoFb1tOG5YQipkdiDOMpkGoi_3fB3pSWfjX_s5G7BMorB6lBieWv7uDyM3RgAzld6U1wiN6sWmjszkaBMv-XqPfovMkaRbS79CeuHYlS_B1Lo9FMYc4NVU1pbPC21YQWWpLdTrHpKGue-aimKzatlkMFQJsj_OQ_nSzQgKX4qKA4fM8-bPDxhzuZ0JqsVAu1jC7vp2FgR3w3BE1rwYgtL1lz93yHCOzK9seD2NH0e-KvH5OUhrh22at5hvp5wrr5Q==).
+|
+|
+|
+|
+|

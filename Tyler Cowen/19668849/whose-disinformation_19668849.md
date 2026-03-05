@@ -1,0 +1,13 @@
+---
+subject: "Whose disinformation?"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2025-04-24 15:57:21
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+Meta, which owns Facebook and Instagram,
+[blocked news]from its apps in Canada in 2023 after a new law required the social media giant to pay Canadian news publishers a tax for publishing their content. The ban applies to all news outlets irrespective of origin, including The New York Times.Amid the news void, Canada Proud and dozens of other partisan pages are rising in popularity on Facebook and Instagram before the election. At the same time, cryptocurrency scams and ads that mimic legitimate news sources have proliferated on the platforms. Yet few voters are aware of this shift, with research showing that
+[only one in five Canadians]knows that news has been blocked on Facebook and Instagram feeds.The result is a “continued spiral” for Canada’s online ecosystem toward disinformation and division, said Aengus Bridgman, director of the
+[Media Ecosystem Observatory], a Canadian project that has studied social media during the election.Meta’s decision has left Canadians “more vulnerable to generative A.I., fake news websites and less likely to encounter ideas and facts that challenge their worldviews,” Dr. Bridgman added.
+You can argue this one all sorts of ways, but perhaps there is a lesson in here...? Here is [the full NYT piece](http://marginalrevolution.com?action=user_content_redirect&uuid=ce16dcc9ea2123f3f3265f812f479bb2418bee68c880d1703fca3047dbd0034b&blog_id=42693868&post_id=90502&user_id=262258391&subs_id=225460721&signature=a9a5d775d555443a34b5545dd30185c2&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly93d3cubnl0aW1lcy5jb20vMjAyNS8wNC8yMS90ZWNobm9sb2d5L2NhbmFkYS1lbGVjdGlvbi1mYWNlYm9vay1pbnN0YWdyYW0tbWV0YS5odG1s&email_id=bebedb6e9d83014f91a8f3fa06ff516b), via the excellent [Kevin Lewis](http://marginalrevolution.com?action=user_content_redirect&uuid=36652da880b1b9ccab84f06075f3d54fc1232d7ea4e948855b1985d7ec79689b&blog_id=42693868&post_id=90502&user_id=262258391&subs_id=225460721&signature=33db09ed681af292018264ad4d7ef150&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly93d3cubmF0aW9uYWxhZmZhaXJzLmNvbS9ibG9nL2RldGFpbC9maW5kaW5ncy1hLWRhaWx5LXJvdW5kdXAvY2F0LWFuZC1tb3VzZQ=&email_id=bebedb6e9d83014f91a8f3fa06ff516b).

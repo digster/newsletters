@@ -1,0 +1,20 @@
+---
+subject: "The Philippine Stock Exchange is turning into a ‘ghost town’"
+from: "The Ken <info@the-ken.com>"
+to: ""
+date: 2023-12-20 00:09:04
+labels: ["CATEGORY_PERSONAL", "INBOX", "The Ken", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_8244464457792971031", "UNREAD"]
+---
+Good Morning Ishan,
+Aeons ago, when my mother began to teach me about personal finance, the 60/40 portfolio was our starting point—set money aside every month, with 60% of it going towards stocks and 40% for bonds. It was the simplest version of a “diversified” portfolio and the entry point for most young adults when they buy their first share in a company.
+Now, depending on your goals and appetite for risk, that may be an outmoded framework. The question then is: what are the alternatives?
+As investors in the Philippines demonstrate, there are plenty! For today’s story, Katrina wrote about how both retail and institutional investors are shunning the Philippine Stock Exchange and moving their capital to other asset classes. In particular, for individual Filipinos, that means chasing after high-yield digital bank deposits or risky returns from cryptocurrency.
+This has made the Philippine Stock Exchange feel like a “ghost town”, as one veteran stockbroker told Katrina. The situation is far from ideal for the bourse. Its operators are attempting to resuscitate it and lure capital back into the exchange.
+Check out today’s story to find out how the Philippine Stock Exchange might pull itself out of this rut: [https://the-ken.com/story/the-philippine-stock-exchange-is-turning-into-a-ghost-town/](https://the-ken.com/story/the-philippine-stock-exchange-is-turning-into-a-ghost-town/?utm_source=daily_story&utm_medium=email&utm_campaign=daily_newsletter) [6-minute read]
+Regards,
+Brady
+[brady@the-ken.com](mailto:brady@the-ken.com)
+P.S.: The Ken is conducting a [survey](https://theken.typeform.com/editorial2023) on what employees and employers want from each other in the new year. 2023 has been hard for both, and this survey’s intent is to gauge the top issues on employees’ and employers’ minds. The findings, we hope, can serve as a guide for both as we head into 2024. This survey is anonymous, so please do spare a few minutes to [take it](https://theken.typeform.com/editorial2023). We’ll publish the results on 1 January, 2024. Stay tuned!
+What you just read is the personalised daily introduction to The Ken's story. Written by a different person each day. Often insightful, sometimes witty, and very rarely boring. Someone sent this to you? [Sign up for free](https://the-ken.com/?modal=register&utm_source=footer&utm_medium=email&utm_campaign=morning_email_ind_shared). [Dont like these? You can unsubscribe](https://link.the-ken.com/asm/unsubscribe/?user_id=2349339&data=a1D4BPlij8-Eu44TnAU25-ziGjm7OVCOYoaE-Qti-ORoMDAwdTAwMLRGx7b1mKaCNHSr93Amf7km18ytAMbF996vnToJziUZskup3kmWK6xQ3O4zWNKzlTOsSb2-aTSc19flXdq34fzQ9lBHqd3Ge6rY9o-fWUD2DbUDf9C4y-cZAUvIDcSoq4KxvEL1mORTwxzatgc_1TkTP2NcAE7FfAzPTroEa8gpxAAZ7umLpm2eWg8KNQp8yTM0db8aSForqeQs-pBEsJU-DXxyX6kCDbdnene7mNAVgm1qLR54TfODJST0UeV2FQvpW0TStMEcsC83lVikLlD7Y04-OpbqnZxMVeUuoQYG7t1UySDzb1S6c2G_9_BymJNhj7rz_4bokSMZtKRAOUOT9yW3oBtEl9Bq60piDcm2gQc8jE8FMKKBchvjQQP8-cBrWiDzn1EOrQjGq6V8Fo-pKUEd7uzv6ejWpurey9is0hJ1Yx_teZiyNA8V53Nkf2dX0DV9AmZ4Cpdy-yBRUiKA9866UiXr_-1yJ_zknzBdynEBR7dzWj8r9Y8ZyBPT3ZlfcFuZTI1RtsAclQ1FuRo=) Dont want to hear from us again? [ Unsubscribe from our emails here](https://link.the-ken.com/asm/?user_id=2349339&data=xQ_0XKud3BwZ7eJ4FiicxqaoRIfO9WgOHlP9l3mHpZ9oMDAwdTAwMM8CFkJhpVB4feeBIDgtXrqlQvxSM3a9GUN4CJlOYV5FdgMIClNHXTIzr99w_3LERMhTUJGBX4g0Y2C85Utr59bgJEv-1pY-vONMfxfLig2RMnuakO5oKiNwrQvkM_1n5fYe9EUCdD7OL6c2m5vpZlwo7Y7inp0Z7zSBry8CXRf44jO4nyjgovtRlKJ9GPWvYExImcU8rZ5c84Njd8g7snQ_LLsmJg0tLbz_8ILvd3tcaSxbgjdNiKdI1JRhJ_R-Qr9hWRTgA_ZXwIjVZdS8DCAnPLFKAkpJgb64KwonGK921I27fy6QPx0LdObSxs0OvsCjqijOfnFVdMtIccxsKj48IujU-HV6O0X5mxRR5EC625rbPUTCq3DsInIGY44Ak0GuXE9C9La7xtHXvxuDnlgynqXRhmlD03ZNm5EhhqAX8hRbZWdFN_b1LWK1mdBfCWW0dFQcv35mQHWRIBB3IdkjUS-a6pCPGuQ8nHXqn__h53qYf9zGYkbajx8iP4Qm3A==).
+Something wrong? Tell us at [support@the-ken.com](mailto:support@the-ken.com)

@@ -1,0 +1,10 @@
+---
+subject: "Somatic Resonance Semi-Intensive"
+from: "River Kenna from Inner Wilds <innerwilds@substack.com>"
+to: ""
+date: 2024-08-19 10:30:44
+labels: ["CATEGORY_PERSONAL", "INBOX", "River Kenna", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_3010718370428876194", "UNREAD"]
+---
+One of the most common requests I get is to run something like this: a short online retreat that focuses on practice and shared experience of somatic resonance. Something with more momentum and intensity than the usual 2- or 3-week courses, something that provides practical guidance and glimpses of what’s possible for you when deep, embodied presence is a part of your life. This is my first attempt at a short online retreat; I’ve enjoyed planning it, and I hope to see you there. Dates: August 29, 30, 31, & 32. (5pm CEST, 11am EST, 8am PST) Format: The sessions will be between 90 minutes and 2 hours per day, consisting mostly of practice, with enough chatting and explanation to scaffold the practice and help integrate it. The final session will be mostly Q&A. We'll cover a progression of practices that help to wake up your bodily awareness, put you in contact with it, and let you glimpse how pleasant and powerful it can be to simply exist there without agendas. You'll be encouraged to continue practices outside of the sessions, but in a casual and unobtrusive way that won't interfere with your day. Staying in the practice as much as possible helps make the progression from session to session possible. The goal is that you end the 4 days feeling a bit more comfortable in your body, a bit more present, and a bit more familiar with the possible directions of somatic practice in your life. Cost: There are ~12 spots available: 3 low income ($125),[SOLD OUT]5 normal price ($250), 3 at high income ($350), and 1 at patron level ($500)
+You're currently a free subscriber to |

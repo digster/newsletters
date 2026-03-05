@@ -1,0 +1,10 @@
+---
+subject: "The Drumeo Edition"
+from: "\"Why is this interesting?\" <whyisthisinteresting@substack.com>"
+to: ""
+date: 2023-08-09 10:17:04
+labels: ["CATEGORY_PERSONAL", "INBOX", "UNREAD", "WITI"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "UNREAD", "Label_5752899537867939131"]
+---
+Colin here. I never managed to get good at drumming. But it was a fun high school activity to perhaps burn off some of the energy in my brain and manifest it into something physical (to the detriment of neighborhood ears). It was fun to play the rapid-fire pop-punk patterns (think Millencolin or late 90s Pennywise), and when I heard music like Photek or Roni Size—breakbeat-driven drum and bass—I fell completely in love. Reaching higher thresholds of any type of drumming is an art, and I often find myself in rabbit holes on Instagram or Youtube with jazz drummers. Learning to drum for me was just based on being a fan and figuring stuff out through clunky trial and error, trying to faintly emulate someone like Travis Barker or Jimmy Chamberlin and perhaps never getting to the art, but rhythmically there and hopefully keeping in time. It is because of these past interests that the algo magically led me to the wonders of Here’s the Megadeath Drummer playing Mr. Brightside (after hearing it for the first time): He meticulously maps out the structure to plot out accents and other elements of the song. Obviously, there’s beauty in the incongruency of genres and artists. And this is part of the charm. But there’s also something deeper. WITI Classifieds: We are experimenting with running some weekly classifieds in WITI. If you’re interested in running an ad, Interpreting the internet for the tasteful reader. Join 23,000+ subscribers who rely on Dirt for their cultural alpha. Why is this interesting? I’ve seen super-talented musicians play songs by ear on the piano or guitar. But it is a different kind of joy watching someone like — Thanks for reading, Noah (NRB) & Colin (CJN) —
+You're currently a free subscriber to |

@@ -1,0 +1,89 @@
+---
+subject: "Why the Real Computer Revolution Never Happened | Alan Kay & Anjan Katta"
+from: "The Generalist <thegeneralist@substack.com>"
+to: ""
+date: 2025-07-15 12:03:14
+labels: ["CATEGORY_PERSONAL", "INBOX", "The Generalist", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_8815311452832858585", "UNREAD"]
+---
+|
+[Augment Code](https://substack.com/redirect/6ea6535a-e022-4a8f-963d-31aab2b0301c?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o): AI coding assistant that pro engineering teams love.
+[Brex](https://substack.com/redirect/0776ef36-e200-4be3-b72c-b42af5789840?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o): The banking solution for startups.
+[Generalist+](https://substack.com/redirect/58fb5c8d-dee6-4749-b581-3a5ede010c33?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o): Essential intelligence for modern investors and technologists.
+I'm thrilled to share this very special episode of The Generalist—one I've been looking forward to for a long time. Today, we tackle one of the most urgent questions of our time: What should computing look like in the age of AI?
+I'm joined by two extraordinary guests: Alan Kay, a pioneer of modern computing whose vision helped shape the personal computer revolution, and Anjan Katta, founder of Daylight, who's building a radically reimagined personal computer designed for deep thinking in our AI-saturated world. This conversation has been months in the making, and I couldn't be more excited to bring these two brilliant minds together.
+We explore how artificial intelligence is reshaping our relationship with computers, whether current computing paradigms serve us well as AI becomes ubiquitous, and what new models of human-computer interaction we might need to thrive alongside intelligent machines.
+This is a conversation about reclaiming agency in an age of algorithms—and imagining computing tools that amplify human intelligence rather than replace it. I think you're going to love it.
+We explore:
+Why Alan believes the "computer revolution" commercialized in the wrong direction, missing the deeper humanistic vision of early computing pioneers
+How the structure of information, from pagination to platforms, shapes the way we think
+How Daylight is creating a reading and writing-focused device that helps access our "prefrontal cortex" rather than our "lizard brain"
+The concept of a magical medium, and how computing might help us become our best selves
+Why Marshall McLuhan's media theories predicted our current technological predicament decades before it happened
+The critical difference between intelligence and wisdom in computing systems, and why wisdom should be our focus
+How thoughtful constraints in computing design can lead to better thinking and more meaningful interaction
+The urgency of developing systems thinking in a world facing complex challenges
+And much more
+([00:00](https://substack.com/redirect/04bf0e6f-fefb-4056-8d69-00486bcab3c6?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) Intro
+([05:17](https://substack.com/redirect/71dd0534-49a0-4029-974d-37edf32993d8?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) The computer revolution we never got (and what we got instead)
+([11:45](https://substack.com/redirect/42bea37b-4bc1-4a58-88de-9e9cb8a3095e?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) The value of writing and the impact of the printing press
+([21:34](https://substack.com/redirect/bedbf0f7-3d36-4dcf-83f9-3965729c4ffa?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) The addition of pagination and the evolution of arguments
+([24:53](https://substack.com/redirect/6cc7edc1-7cc7-4b90-80e4-b4358589787f?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) Why Anjan calls his idealized version of computing a magical medium
+([29:00](https://substack.com/redirect/6979b403-6b4a-4514-b5e2-a9642fe9fcac?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) Alan’s work at PARC and early conceptions of personal computing
+([32:02](https://substack.com/redirect/95a2f3d2-e363-4997-a30b-0df67b00b44b?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) Moore’s Law and the impact of reality TV
+([37:41](https://substack.com/redirect/205768b4-98bc-4c96-a146-b4f6270c1075?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) How Bob Barton and Marshall McLuhan influenced Alan
+([42:31](https://substack.com/redirect/af0519ea-8cae-4fd3-83a5-4e7224e1fe53?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) The problem with labels and what Anjan found surprising about Alan
+([46:02](https://substack.com/redirect/4bb9aad8-950b-4ac0-9ac0-ceb0b2c9ab80?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) How much help is too much help?
+([48:18](https://substack.com/redirect/23dd308b-b039-4eec-b465-71f0c3c6b63b?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) Marvin Minsky's military robot story and the history of misunderstanding AGI
+([51:50](https://substack.com/redirect/ca8c4090-3e59-46ad-ad9b-0544f46ddfff?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) What we need help with and why wisdom is hard to scale
+([54:19](https://substack.com/redirect/658ddcd6-d354-4a64-826a-a381fe21e52c?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) How Daylight approaches computing with humility and thoughtful constraints
+([59:13](https://substack.com/redirect/c78039b1-226e-44d5-90fe-c38547b6a77e?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) Alan's reflections on the Dynabook concept and personal computing vision
+([01:01:11](https://substack.com/redirect/044631b3-a6ad-4e22-9b12-040ab7babd00?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) The timeline of building Daylight and the idealism behind the project
+([01:03:14](https://substack.com/redirect/80b2ed73-5bd6-45e7-9ef9-7c9e2a6c89d7?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) The urgent need for different thinking
+([01:06:40](https://substack.com/redirect/359d8d69-ef83-4bd6-9884-b09a4f44a735?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) A second shot at rebuilding computing from the ground up
+([01:11:57](https://substack.com/redirect/962b3404-7d7a-4a66-a2f2-feab4ea342d8?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) Final meditations
+LinkedIn: [https://www.linkedin.com/in/alan-kay-12a627b/](https://substack.com/redirect/87c261a5-25fe-4471-8d21-54da42fb4def?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+Quora: [https://www.quora.com/profile/Alan-Kay-11](https://substack.com/redirect/5dd05048-e0d4-4bb6-88bb-3a83f75d0427?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+LinkedIn: [https://www.linkedin.com/in/anjan-katta-250b232b4/](https://substack.com/redirect/8778bcd8-d9fe-49ca-bb0d-b50978998e64?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+Phaedrus:
+[https://www.gutenberg.org/files/1636/1636-h/1636-h.htm](https://substack.com/redirect/04968b81-e780-45db-bd72-830037482fad?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)The Printing Press as an Agent of Change: Communications and Cultural Trans:
+[https://www.amazon.com/Printing-Press-Agent-Change-Communications/dp/0521299551](https://substack.com/redirect/1aba71c4-2eef-475d-a8b4-9b1e8fdc3185?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)The Medium is the Massage:
+[https://www.amazon.com/Medium-Massage-Marshall-McLuhan/dp/1584230703](https://substack.com/redirect/c8314666-ef4a-4745-a8f3-78f37e9fb00a?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)The Mechanical Bride: Folklore of Industrial Man:
+[https://www.amazon.com/Mechanical-Bride-Folklore-Industrial-Man/dp/1584230509/](https://substack.com/redirect/841eb0b7-33d7-478a-b80c-f4a4876701c0?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)The Gutenberg Galaxy:
+[https://www.amazon.com/Gutenberg-Galaxy-Marshall-McLuhan/dp/144261269X](https://substack.com/redirect/b4da003b-9554-4037-8ed9-9e072d9c512e?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)The Odyssey:
+[https://www.amazon.com/Odyssey-Homer/dp/0140268863](https://substack.com/redirect/241802eb-65ad-4b6c-958f-4c8b4418abda?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)Why Greatness Cannot Be Planned: The Myth of the Objective:
+[https://www.amazon.com/Why-Greatness-Cannot-Planned-Objective/dp/3319155237](https://substack.com/redirect/6b571645-1bba-48f7-ae4a-89abceb31b5a?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)The Origin of Consciousness in the Breakdown of the Bicameral Mind:
+[https://www.amazon.com/Origin-Consciousness-Breakdown-Bicameral-Mind/dp/0618057072/](https://substack.com/redirect/a3c80256-d193-4783-bd04-ee853b040c8a?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)CRC Standard Mathematical Tables and Formulae:
+[https://www.amazon.com/Standard-Mathematical-Formulae-Advances-Mathematics/dp/1439835489](https://substack.com/redirect/3b52d5f6-a7fa-4385-a364-72f4e1ee9716?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+Marshall McLuhan:
+[https://en.wikipedia.org/wiki/Marshall_McLuhan](https://substack.com/redirect/c54cfcc6-60fd-4c8e-a0b9-cf0f8319222c?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)Nicholas Negroponte:
+[https://web.media.mit.edu/~nicholas/](https://substack.com/redirect/8c97c1cb-9b73-4a71-b738-fa16aebf31cc?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)Socrates:
+[https://en.wikipedia.org/wiki/Socrates](https://substack.com/redirect/fd2c7897-482b-4fc5-ac71-1715b4079c46?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)Aldus Manutius:
+[https://en.wikipedia.org/wiki/Aldus_Manutius](https://substack.com/redirect/969560a5-f97a-4cee-acbd-02ad9d6921c1?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)Jerome Bruner:
+[https://en.wikipedia.org/wiki/Jerome_Bruner](https://substack.com/redirect/f266d6df-73ea-4193-8702-b0334fdb4e7f?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)John McCarthy:
+[https://en.wikipedia.org/wiki/John_McCarthy_(computer_scientist)](https://substack.com/redirect/c915fd10-2444-4e30-b25c-717c8a56d12b?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)Gordon Moore:
+[https://en.wikipedia.org/wiki/Gordon_Moore](https://substack.com/redirect/7e271f4a-4e59-465a-89bf-a0f99fe79929?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)Bob Barton:
+[https://en.wikipedia.org/wiki/Robert_S._Barton](https://substack.com/redirect/b05b414f-2a8a-49a7-b6bf-c9324c2a6aa2?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)Marvin Minsky:
+[https://en.wikipedia.org/wiki/Marvin_Minsky](https://substack.com/redirect/b093ccea-7ad2-410b-8b3b-dcff34366d79?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)Tyler Cowen’s website:
+[https://tylercowen.com/](https://substack.com/redirect/7ea472df-2f1c-483e-a136-b5ae9c56cd55?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+The Computer Revolution Hasn't Happened Yet:
+[https://mprove.de/visionreality/media/kay-CRA2002.pdf](https://substack.com/redirect/e094cd61-bca0-47f0-a548-8e998e8635d5?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)Civilization: Episode 2: The Great Thaw:
+[https://www.bbc.co.uk/programmes/b0074r34](https://substack.com/redirect/5c95abba-9455-455e-888e-870d318397c6?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)Final Cut Pro:
+[https://www.apple.com/final-cut-pro/](https://substack.com/redirect/950cbcaf-1c79-457b-a888-2add8fbe8bd9?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)GarageBand:
+[https://www.apple.com/mac/garageband/](https://substack.com/redirect/dd5cea2c-e9ac-4557-9c7d-ae0eca1bb035?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)Maslow’s hierarchy of needs:
+[https://en.wikipedia.org/wiki/Maslow%27s_hierarchy_of_needs](https://substack.com/redirect/361de287-cf5d-4cc7-b903-5c706cd37499?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)Xerox PARC:
+[https://en.wikipedia.org/wiki/PARC_(company)](https://substack.com/redirect/8fe91eae-8780-4b20-a102-95e9c370aadb?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)Dynabook:
+[https://en.wikipedia.org/wiki/Dynabook](https://substack.com/redirect/2ba3821e-085c-4ce7-8cf2-77956d93f96a?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)Moore’s law:
+[https://en.wikipedia.org/wiki/Moore%27s_law](https://substack.com/redirect/c397172c-6342-491d-8901-8562e615fcb1?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)Archie Bunker:
+[https://en.wikipedia.org/wiki/Archie_Bunker](https://substack.com/redirect/14a21cb5-24ea-468f-b290-ed5dbf292376?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)Hacker News:
+[https://news.ycombinator.com/](https://substack.com/redirect/789f95a1-4761-493c-972a-31f6292a368d?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)Daylight:
+[https://daylightcomputer.com/](https://substack.com/redirect/adaf6810-91b8-4172-b30f-d010124e60c3?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)Quote from Hamlet:
+[https://www.goodreads.com/quotes/48958-o-god-i-could-be-bounded-in-a-nutshell-and](https://substack.com/redirect/395591a5-3cf2-4e1d-9c11-4a49dadfcf12?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)The Daylight Computer:
+[https://marginalrevolution.com/marginalrevolution/2024/08/the-daylight-computer.html](https://substack.com/redirect/d67b7345-ca06-4b5d-8a01-fc2194e7b5e4?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)Einstein’s quote:
+[https://www.brainyquote.com/quotes/albert_einstein_385842](https://substack.com/redirect/1d2d70d7-3797-447d-9c9b-1576ff2917ac?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)McGuffey Readers:
+[https://en.wikipedia.org/wiki/McGuffey_Readers](https://substack.com/redirect/0533dbd6-dbf5-4552-89d5-7f0188b758cd?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)Alan Kay’s quote about the future:
+[https://www.goodreads.com/quotes/61-the-best-way-to-predict-the-future-is-to-invent](https://substack.com/redirect/d1788e7c-16f8-479f-ba2f-4b08542df1f4?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)Confirmation bias:
+[https://en.wikipedia.org/wiki/Confirmation_bias](https://substack.com/redirect/1242588a-fbbc-4de1-ae0c-7fdbbd4f497e?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+I’d love it if you’d subscribe and share the show. Your support makes all the difference as we try to bring more curious minds into the conversation.
+Production and marketing by [penname.co](https://substack.com/redirect/7a5d1a89-b6a0-4fb5-9cfe-9b4c8b2354ac?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o). For inquiries about sponsoring the podcast, email jordan@penname.co.
+You're currently a free subscriber to [The Generalist](https://substack.com/redirect/b232a90c-2dc7-477f-97ed-4b1239e9a7da?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o). For the full experience, [upgrade your subscription.](https://substack.com/redirect/2/eyJlIjoiaHR0cHM6Ly93d3cuZ2VuZXJhbGlzdC5jb20vc3Vic2NyaWJlP3V0bV9zb3VyY2U9cG9zdCZ1dG1fY2FtcGFpZ249ZW1haWwtY2hlY2tvdXQmbmV4dD1odHRwcyUzQSUyRiUyRnd3dy5nZW5lcmFsaXN0LmNvbSUyRnAlMkZ3aHktdGhlLXJlYWwtY29tcHV0ZXItcmV2b2x1dGlvbi1uZXZlci1oYXBwZW5lZCZyPThvNTRuJnRva2VuPWV5SjFjMlZ5WDJsa0lqb3hORFUyTXpNeE9Td2lhV0YwSWpveE56VXlOVGd4TXpBMExDSmxlSEFpT2pFM05UVXhOek16TURRc0ltbHpjeUk2SW5CMVlpMHhOVGMyTkNJc0luTjFZaUk2SW1Ob1pXTnJiM1YwSW4wLlVCSnY5UmJNdi1od2Jmb25OQXk4b1NUbXFFODh5d2NSN1pweUpySk1ENDQiLCJwIjoxNjgwMTk0MjMsInMiOjE1NzY0LCJmIjp0cnVlLCJ1IjoxNDU2MzMxOSwiaWF0IjoxNzUyNTgxMzA0LCJleHAiOjIwNjgxNTczMDQsImlzcyI6InB1Yi0wIiwic3ViIjoibGluay1yZWRpcmVjdCJ9.5cwQAXeFV4nxOvfOu7TyFyd4XNfu0vZtWQVZKhiqcic?&utm_source=substack&utm_medium=email&utm_content=postcta)

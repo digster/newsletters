@@ -1,0 +1,10 @@
+---
+subject: "Wind turbines lower Danish real estate prices"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2025-03-22 08:54:57
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+We analyze the impact of wind turbines on house prices, distinguishing between effects of proximity and shadow flicker from rotor blades covering the sun. By utilizing data from 2.4 million house transactions and 6,878 wind turbines in Denmark, we can control for house fixed effects in our estimation. Our results suggest strong negative impacts on house prices, with reductions of up to 12 percent for modern giant turbines. Homes affected by shadow flicker experience an additional decrease in value of 8.1 percent. Our findings suggest a nuanced perspective on the local externalities of wind turbines regarding size and relative location.
+Here is [the full paper](http://marginalrevolution.com?action=user_content_redirect&uuid=bae67590fa3660eb3a8e10dbf2974d9cb3767bfbd8f3f5f29524dec4173bd09c&blog_id=42693868&post_id=90289&user_id=262258391&subs_id=225460721&signature=e38136770d2f4b35ef71e8b0e4fff56f&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly9saW5rLnNwcmluZ2VyLmNvbS9hcnRpY2xlLzEwLjEwMDcvczEwNjQwLTAyNC0wMDk0Ny14&email_id=693540040ba03c503e5cbb1a97408f35) by Carsten Andersen and Timo Hener, via the excellent [Kevin Lewis](http://marginalrevolution.com?action=user_content_redirect&uuid=f5cea33f50ac48166687e04e4527636d8e8e53a3bc59946f6a6442c1d8ee6b42&blog_id=42693868&post_id=90289&user_id=262258391&subs_id=225460721&signature=095e89fcbccbd50812daca4116d63566&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly93d3cubmF0aW9uYWxhZmZhaXJzLmNvbS9ibG9nL2RldGFpbC9maW5kaW5ncy1hLWRhaWx5LXJvdW5kdXAvbG9va2luZy1mb3ItZ3JlZW4&email_id=693540040ba03c503e5cbb1a97408f35). I rather like how they look, and would gladly buy a home near some, if only for the scenery. Though I would rather have a nearby gas station instead?

@@ -1,0 +1,82 @@
+---
+subject: "44 Asymmetric Things You Should Be Doing"
+from: "\"Sahil Bloom's Curiosity Chronicle\" <sahil@sahilbloom.com>"
+to: ""
+date: 2025-04-30 13:05:01
+labels: ["CATEGORY_PERSONAL", "INBOX", "Sahil Bloom", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_1989028747625928812", "UNREAD"]
+---
+Welcome to The Curiosity Chronicle, a weekly newsletter where I provide actionable ideas to help you build a high-performing, healthy, wealthy life.
+My first book is a 7x NYT Bestseller and has reached over 200,000 people around the world in three months since its release. Join the movement to redefine what it means to live a wealthy life.
+I define an asymmetry as something where the risk is limited but the reward is potentially significant. It's an action with an asymmetric return profile: If it doesn't work out, the cost is small, but if it does work out, the reward is large.
+I've been keeping a running list of the most powerful asymmetries I've found—the tiny investments with potentially outsized returns.
+This piece shares 44 asymmetric things you should be doing (across career, personal growth, relationships, health, and money). Choose 1-2 from each category to implement in the weeks.
+VoicePal is an AI brainstorming and writing app developed by my friend Ali Abdaal. He showed me a demo when I visited him in Hong Kong in the fall and I've been using it for my walking brainstorm sessions ever since. It's super intuitive and easy to use. I'll be out on one of my daily thinking walks, hit record and ramble my thoughts into the app. VoicePal cleans up the transcript and asks me thoughtful follow-up questions to help me expand on my ideas. I only use it for brainstorming since I love writing, but if you need a ghostwriter to accelerate your output, it'll create a first draft and export it straight into any other app for editing. In my experience, VoicePal is more useful than other AI tools because it helps you generate, battle-test, and clarify your own ideas, rather than generating generic, soulless slop from the internet. Download the app for free and use the code SAHIL on the settings screen → offer code to get exclusive access to my personal brainstorming frameworks right within the app.
+Over the last few years, I've grown increasingly obsessed with the idea of asymmetries in life.
+I define an asymmetry as something where the risk is limited but the reward is potentially significant.
+In other words, it's an action with an asymmetric return profile:
+If it doesn't work out, the cost is small
+If it does work out, the reward is large
+I've been keeping a running list of the most powerful asymmetries I've found—the tiny investments with potentially outsized returns.
+Here are 44 asymmetric things you should be doing...
+Career Asymmetries
+Spend 15 minutes on Sunday evening creating a Weekly Win Card. Write down the ~3-5 things that, if accomplished, would characterize real progress on the most important priorities in your professional life. Use the card to keep your focus on the bigger picture during the week.
+Execute a daily management sprint. Structure 30-60 minutes later in the day when you can get into flow and knock out your basic work, like emails, admin tasks, and miscellaneous to dos. Forcing a time constraint makes you hyper-focused on closing the open loops—you complete them more efficiently and with higher quality. Win-win.
+Early in your career, show up to meetings 5 minutes early and stay 5 minutes late. The most interesting conversations tend to happen on the side either before a meeting starts or after a meeting ends. Be in the room for those conversations and you may learn something important or get pulled into new opportunities.
+Spend 5 minutes in the evening preparing for your priority tasks the next morning. Write down the 2-3 priorities that you'll work on in the morning. 5 minutes in the evening creates hours of value through reduced friction and improved focus on the important tasks.
+Carry a small notebook and pen with you everywhere you go. If you’re with someone and they say something interesting, take it out and write it down. It’s more polite than taking out your phone and makes it easier to follow up for relationship purposes. It also has a funny effect of subconsciously encouraging the other person to say more things worthy of being written down.
+Before a public speaking appearance, do a practice session while engaged in light cardio. When you get nervous during a talk, your heart rate starts to rise. You aren’t prepared to deliver your talk in an elevated heart rate condition, so you spiral. One cardio practice session fixes that. You'll be ready for it.
+Send a cold email to someone you admire. Keep it short, personalize the delivery, and create a clear call-to-action at the end.
+Learn to sell. Everything is sales. You sell yourself, you sell your story, you sell your product, you sell your vision. Even dating is sales. My richest friends don't have the highest IQs. They just know how to sell.
+Send a monthly "state of play" email to your direct manager. Keep it short: what you accomplished, what you’re focused on next, and one thing you’re learning. It builds visibility and shows initiative.
+Create an "Idea Folder" where you log interesting business ideas. Whenever you have a spark, drop it in the idea folder. Flip through it for inspiration. One of these ideas might be the 100x opportunity that changes your life.
+Research a prospective employer's most critical business challenges and put together a 1-pager on your ideas for addressing those challenges. Email the 1-pager directly to a senior decision maker on the team where you'd be working with a clear call-to-action.
+Personal Growth Asymmetries
+Put your phone on grayscale mode for 90% of the day. It makes your phone dramatically less addictive and reduces your tendency to procrastinate through the little "just checks" of social media and messages during the day.
+Create a clear structure to your days that incorporates your priorities. Stress and anxiety feed on idleness. If you're trying to get unstuck and change your life, you need more action. As the saying goes, "Don't tell me your priorities, show me your calendar."
+Journal for 5 minutes in the evening before bed. Follow my 1-1-1 Method: Write down one win from the day, one point of stress or anxiety, and one point of gratitude. It creates clarity, reduces stress, and helps you fall asleep faster.
+Invest 30 minutes per day in your vision for the future. Read or write, build a prototype, meet one new person, learn a new skill. 30 minutes is just 2% of your day, but 30 minutes per day for 30 straight days is 900 minutes of accumulated effort.
+Create an Energy Calendar. For one week, color code activities on your calendar according to whether they created energy (green), drained energy (red), or were neutral (yellow). At the end of the week, zoom out and look for trends in the types of activities that created vs. drained energy. Using this awareness, consider adjustments you can make to lean into energy creators and lean away from energy drainers (slight tweaks, deletion, or delegation).
+Every month, carve out 1 hour for a Think Day. Go to a coffee shop or new environment, bring a journal and pen, leave your phone and laptop at home. Think and journal on bigger picture questions about your life, direction, and daily actions. Ask yourself this: If you were the main character in a movie of your life, what would the audience be screaming at you right now?
+Read 10 pages per day. It doesn't have to be personal development, it can be anything you enjoy. Do it first thing in the morning or in bed to help you fall asleep.
+Spend time in rooms where you feel like the dumbest one in the room. Small hit to the ego, huge boost to the growth.
+When you're learning something new, spend 5 minutes trying to teach it to someone. Make a note of where the other person gets confused. You'll get an immediate sense for your level of understanding of the topic and where you need to dig in more.
+Spend 30 minutes writing a letter to your future self one year from today. Reflect on the present and sketch out your hopes for the future that you will have achieved by the time you open the letter. It creates a clear alignment between short-term actions and long-term direction.
+Relationship Asymmetries
+Use the photo memories feature on your phone to stay in touch with people. Look at it each week and send the photos to the people who pop up in them. It always prompts a quick catch up with people from your life and gives you a low-friction way to regularly stay in touch with old friends.
+Record a video interview with your parents and grandparents. Ask them questions and have them tell stories about their childhood, adventures, hopes, dreams, and fears. Our time with them is finite, but we often fail to recognize it until it's too late. These recordings will last forever.
+Send a handwritten note instead of an email or text. Invest in personalized stationery and use it. Emails and texts lack personality. A handwritten note will always stand out in the mind of the receiver.
+Tell your partner one thing you appreciate about them every single day. Lack of appreciation is where relationships go to die. A tiny investment of energy to vocalize the appreciation you feel makes a significant difference.
+Give a stranger a compliment. Say you like their shirt or shoes, compliment their haircut, whatever. Getting a simple compliment from someone can make a person's entire day. It's a tiny action that creates a positive ripple.
+Be the one to catalyze the annual get together with old friends. These things start to slip as you get older and life gets more chaotic, and it'll never happen if one person doesn't take the initiative to set it up. A little bit of upfront effort for a lifetime of laughs and joyful moments.
+Never avoid a hard conversation. When you avoid a hard conversation, you're taking on a debt that has to be repaid with interest at a date in the future. Make the minor repairs along the way and avoid the major repairs in the long run.
+When you think something nice about someone, let them know right then. This inspiration is perishable. Give people their flowers while you still can.
+Health Asymmetries
+Take on one challenging physical event per year. Sign up for that race, commit to that big hike, set that goal that scares you. The achievement won't change you, but the process of working towards it will.
+Get a white noise machine and put it in your bedroom. Most of them cost <$50 and they'll meaningfully improve your sleep.
+Track your macros for one week. This means downloading a free macro tracking app and logging your meals to the best of your ability. It's a bit of a pain, but the awareness of your caloric intake and nutrient profile has a lasting impact in the quality of your choices long after the week has passed.
+When you wake up, drink a big glass of water with a pinch of sea salt to start the morning. Most people are chronically dehydrated, but this is a simple way to fight back.
+Get a simple blood panel done. Upload the PDF of the results into ChatGPT (or similar) with your age, gender, relevant health goals, current routines, and any current concerns and ask it to provide a set of nutrition or lifestyle recommendations on the basis of your results. It's a good place to get started, but consult a physician before making any major changes.
+Go for a 15 minute walk after lunch. A post-meal walk has been shown to reduce blood glucose by up to 35%. It's a simple, free way to improve afternoon energy levels and help with digestion, mental clarity, and creativity.
+Try my 5-5-5-30 morning routine. When you wake up, do 5 push-ups, 5 squats, 5 lunges, and a 30-second plank. You can do it while making coffee or right when you get out of bed. It will jumpstart your energy to start the day.
+Do all of your shopping on the outer perimeter of the grocery store. The outer perimeter typically has all of the fresh produce, meats, fish, dairy, etc. The middle aisles have all of the ultra-processed stuff that you want to avoid.
+Go to bed and wake up at the same general time every day (including on weekends). Recent studies have shown that high sleep regularity decreases all-cause mortality dramatically.
+Money Asymmetries
+Create an emergency fund with 6-12 months of living expenses in cash. The peace of mind from having this will unlock you to think bigger about new opportunities in the future.
+Spend less time thinking about and checking your investments. Reinvest that time into income-generating activities. You are unlikely to outperform the market over long periods of time but you are highly likely to drive incremental income if you put your energy towards it.
+Automate the payment of your regular expenses that are below a threshold. When you ruthlessly eliminate the cognitive burden of tiny, unimportant tasks that can be easily automated, you free up that headspace for executing on bigger opportunities and end up earning more.
+Use a financial tool to track your monthly cash inflows and outflows. Automate a monthly investment of the "gap" between inflows and outflows into an investment account.
+Never think twice about investments in yourself. Books, quality food, personal development, mental health, etc. All of these are "expenses" that are better regarded as investments in yourself.
+Follow a 24-hour rule for non-essential purchases. This reduces impulse purchases and improves saving and investing rates. If you still want to buy the thing after 24 hours, go for it.
+Live an Asymmetric Life
+Here's the truth: If you play enough asymmetric games, the universe will eventually bend in your favor.
+This list is a good place to start...
+Choose 1-2 from each category to implement in the weeks ahead and marvel at how these simple, tiny actions can create dramatic upside in your life.
+The 5 Types of Wealth is the compass for your journey to a life of wealth that goes far beyond money. It provides the actionable tools to define, measure, and design your life around the pillars that truly create lasting happiness and fulfillment.
+It will help you find your True North and build your life around it.
+Order now and you'll unlock several new, exclusive bonuses:
+The 5 Types of Wealth Workbook: A step-by-step companion guide designed to help you work through the book’s key concepts and exercises.
+Access to The 5 Types of Wealth Digital Community: Join a vibrant group of like-minded individuals committed to creating a life of comprehensive wealth. Connect, collaborate, and grow together.
+Access to The 5 Types of Wealth Launch Workshop: Get exclusive access to the full recording of this transformative virtual workshop, where I’ll guide you through specific exercises designed to help you apply the principles of the book. Watch it anytime at your convenience!
+When it comes to my health, I want something I can trust—and that’s why I choose AG1. With science-backed ingredients and real benefits I can feel, AG1 makes it easy to support overall wellness every day. And that’s why I’ve been taking AG1 for so long––it's been the one constant in my morning routine since 2011.
+AG1 is offering new subscribers a FREE $76 gift when you sign up. You’ll get a Welcome Kit, a bottle of D3K2, and 5 free travel packs in your first box.

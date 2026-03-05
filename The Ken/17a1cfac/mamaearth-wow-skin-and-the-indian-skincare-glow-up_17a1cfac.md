@@ -1,0 +1,28 @@
+---
+subject: "Mamaearth, WOW Skin, and the Indian skincare glow up"
+from: "The Ken <info@the-ken.com>"
+to: ""
+date: 2021-06-18 02:37:13
+labels: ["CATEGORY_PERSONAL", "IMPORTANT", "INBOX", "The Ken"]
+label_ids: ["CATEGORY_PERSONAL", "IMPORTANT", "INBOX", "Label_8244464457792971031"]
+---
+Good Morning Ishan,
+Skincare is a many-bottled beast. I wasn’t at the level of K-beauty’s extensive 10-step routine (my wallet laughed at me for even considering it), but at one point, I slathered as many as seven different products on my face in a bid to fix everything I thought was wrong with it.
+After a lot of research (and a crash course in chemistry), it’s now down to three, but the obsession, at its peak, was truly all-consuming.
+Customers like me are one of the two sides that Indian skincare has split into recently. On the other side are those who prefer using products that have traditional ingredients such as turmeric and saffron, or other natural, if new-fangled, ingredients like apple cider vinegar and onion juice.
+And the Indian beauty industry, having woken up to these trends, has embraced all sides of skincare.
+The industry is riding a wave that has been in the making for at least a decade. At the top are investor favourites WOW Skin Science and Mamaearth. The two companies have a lot in common. They are both ‘all-natural’ and ‘chemical-free’, they have other brands that cater to customers who want more specialised skincare, and they are both raising a good chunk of investor money. WOW just closed a $50 million Series B fundraise; Mamaearth is in talks to raise at least double that amount.
+This similarity is barely a blip in time, though. They took different roads to get to where they are today, and will probably go their separate ways once again. But the higher they rise, the more pressure they face, writes Bhumika in today’s nuanced story about the state of Indian skincare.
+On one side is competition from brands that are not much different from themselves, on the other are legacy beauty brands that want a slice of the action. Adding to the pressure are investors, who want more brands, more products, more innovations in a mercurial market that changes preferences like clothes. What happens to quality in the middle of all this?
+Today’s story is a must-read: [https://the-ken.com/story/mamaearth-wow-skin-and-the-indian-skincare-glow-up/](https://the-ken.com/story/mamaearth-wow-skin-and-the-indian-skincare-glow-up/?utm_source=daily_story&utm_medium=email&utm_campaign=daily_newsletter) (9-minute read)
+Best,
+Janane
+[janane@the-ken.com](mailto:janane@the-ken.com)
+PS: Last week, The Nutgraf ran a corporate strategy puzzle. The edition both simplified Tata Digital’s recent slew of acquisitions and asked subscribers what it’s going to do next. After sifting through a mountain of responses, we’ve shortlisted some of the most interesting, diverse perspectives. These participants will now join Praveen and Seetharaman, our Tata expert, on The Ken’s first-ever Twitter Spaces discussion! On 19th June, 7pm. The topic? How to build a super app. You can’t miss it. Register [here](https://theken.typeform.com/to/cKZ3ECva), and ask your friends to join, too.
+|
+What you just read is the personalised daily introduction to The Ken's story. Written by a different person each day. Often insightful, sometimes witty, and very rarely boring. Someone sent this to you? [Sign up for free](https://the-ken.com/sea/?modal=register&utm_source=footer&utm_medium=email&utm_campaign=sea_morning_email). Don't like these? You can [unsubscribe](https://link.the-ken.com/asm/unsubscribe/?user_id=2349339&data=jM5MtkNtCnpLeOw5VL1PTAeYB2ePAKf4lwOEwIctn22nqx46NjRDjtjFe9rnnlZRtPaQAt39UBJYMaSTTHz-4GvyzpTSBQdWfgGSpcGB6IOH4Lz7AkhOMPi56la1G6KcVZUN0mUvwyaIxXaD9Gy7LWeikbzG-GQ5cmBFZ_PYoVB5UvA3jQ6VUwh-Pup5zcvxJr1qvM6sigYX-PVJsyg22wP1JVDUEpbK7M5FGPvAxbGnFWY1aue5MFEAeM4wJRpQ_baeoydn5X1WkhpSQuqc21_zZ0cy16Zn0401HSGzWvZDouXZxh3WOVI3Lv4WRo9-ZikOE6SbbvA6dKvfl3zKY8ci-kpliFROUK0NNFK2Ro2A9AEmZmu04lyvQHx6kzSZhoGjuBWVv795Ew_lp91xm9oJcuGRvSEdOao_511LQaWFtnItAvN5Wpe0bFw7jFPSuhKYPXOTGz2N2Xq7d-GdSE8C9fZsDDUEOzI5EyFn-LBcBk9-ShPebmhDRJdsGaj9DiuRCnq_kHONuM90BjsHqotlvQthhLLWVpvYFsiMMws=). Want to manage your emails? Click [here](https://link.the-ken.com/asm/?user_id=2349339&data=rGlxL3gGdmKsl-oBpY3OQo1Txi8KMJ-_H0Rqvurr5FAHxj4RfHByIY3ttXIYTZ1VlNDnZKVOWAzfTuTEppeQzyYi4wk_EPcM4bucEJDV8VxYPTwFB50bf2PW-94lse2vkmkPTJ2A0jnAbaSDhz-e02pcrgCUvS2iV93nkd1M5_NFnFXmrh-nZYccT_tK29V98sZVj8KJOqCqkZHDcPwGhN_zDM_Rg_8UawypdTXJo7QFTHwzei_wSBAQjTLzJg4evOHm5mhs6NxubOJhtPutaunjdrI9lhFOpd3r-eDIun51fVKWwcmFXspW1SA2LDW0y-qCtggdqpFcDL4Hd2TY7_Lzn6hdS55o7OZCU87WcZ1_8gdbkDpRm4sAdWZu2F117fvtbIwxWqsPCR-fjgO_1hs32qT4IfzMgqFUGyYkGOvf5mUxqnFhrDcKbiUIdCLr6oiXXOQ7bOBAP-pUXqEHAh4yoUJBc33P3c9EeFCIDyrhykWKjUO2b8eGOeAsHnKBRf6CO9ABzJmJb8KGD7c27uTTTfXNDxdJNWUJyDvtVeE=).
+|
+|
+|
+|
+|

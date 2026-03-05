@@ -1,0 +1,14 @@
+---
+subject: "Celebrate Vishvakarma: A Holiday for Machines, Robots, and AI"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2025-09-17 11:16:11
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+Most holidays celebrate people, gods or military victories. Today is India's Vishvakarma Puja, a celebration of machines. In India on this day, workers clean and honor their equipment and [engineers pay tribute](http://marginalrevolution.com?action=user_content_redirect&uuid=644ee5f70be46dc56abccfe08427c269cb5aadb77a5de9e25a499af3e119c552&blog_id=42693868&post_id=91394&user_id=262258391&subs_id=225460721&signature=6f16aa1dd416a8a019903052f3155318&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly93d3cudHJpYnVuZWluZGlhLmNvbS9uZXdzL2x1ZGhpYW5hL3dvcmtlcnMtd29yc2hpcC10b29scy1vbi12aXNod2FrYXJtYS1kYXkv&email_id=b79bb29657cc858bfbe4a935f82310f1) to Vishvakarma, the god of architecture, engineering and manufacturing.
+Call it a celebration of Solow and a reminder that capital, not just labor, drives growth.
+Capital today isn’t just looms and tractors—it’s robots, software, and AI. These are the new force multipliers, the machines that extend not only our muscles but our minds. To celebrate Vishvakarma is to celebrate tools, tool makers and the capital that makes us productive.
+We have Labor Day for workers and Earth Day for nature. Viskvakarma Day is for the machines. So today don’t thank Mother Earth, thank the machines, reflect on their [power](http://marginalrevolution.com?action=user_content_redirect&uuid=fab6311c111165a84fec1e32726c531442f273a8d7948c446a5ffe3bad805695&blog_id=42693868&post_id=91394&user_id=262258391&subs_id=225460721&signature=7adce78c7173921580ff09c47fc8ba54&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g/dj0wZkJyT1VMZnl5QQ=&email_id=b79bb29657cc858bfbe4a935f82310f1) and [productivity](http://marginalrevolution.com?action=user_content_redirect&uuid=54670fc921bdc29bdf3e14e4cbd9e763237c53f5c9b1f7184f0307d6beff895b&blog_id=42693868&post_id=91394&user_id=262258391&subs_id=225460721&signature=290d2b4ca1540c923760c8e811eb661c&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly94LmNvbS9SYWlubWFrZXIxOTczL3N0YXR1cy8xOTM0MjE0MzAyNjQ0NTMxNTEz&email_id=b79bb29657cc858bfbe4a935f82310f1) and be grateful for all that they make possible. Capital is the true source of abundance.
+Vishvakarma Day should be our national holiday for abundance and progress.
+Hat tip: Nimai Mehta.

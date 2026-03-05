@@ -1,0 +1,9 @@
+---
+subject: "What do I think of the NIMBY contrarianism piece?"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2025-03-18 18:42:12
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+You know, [the one from yesterday](http://marginalrevolution.com?action=user_content_redirect&uuid=8052083077c854294d1d8e746acf08dbf5fa523b3e58a1de14d73520090c29cc&blog_id=42693868&post_id=90280&user_id=262258391&subs_id=225460721&signature=fb363ac51614b5a45d218737351c4595&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly9tYXJnaW5hbHJldm9sdXRpb24uY29tL21hcmdpbmFscmV2b2x1dGlvbi8yMDI1LzAzL25pbWJ5LWNvbnRyYXJpYW5pc20uaHRtbA=&email_id=7d69d09a4bdebefa27c3cde15556255d) suggesting that tighter building restrictions have not led to higher real estate prices, at least not in the cross-sectional data? My sense is that it could be true, but we should not overestimate its import. In most circumstances, economists should focus on output, not prices per se. Let's say we can build more homes, and prices for homes in that area do not fall. That can be a good thing! It is a sign that the homes are of high value, and people have the means to pay for them. It can be a sign that the higher residential density has not boosted crime rates, and so on. I find some of the more left-leaning YIMBY arguments are a bit too focused on distribution. I am happy if more YIMBY leads to a more egalitarian distribution of incomes, but I do not necessarily expect that. Often it leads to more agglomeration and higher wages, and high real estate prices too. The higher output and greater freedom of choice still are good outcomes.

@@ -1,0 +1,52 @@
+---
+subject: "3 Ideas: The Week in Review"
+from: "\"Sahil Bloom's Curiosity Chronicle\" <sahil@sahilbloom.com>"
+to: ""
+date: 2025-10-18 13:05:57
+labels: ["CATEGORY_PERSONAL", "INBOX", "Sahil Bloom", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_1989028747625928812", "UNREAD"]
+---
+3 Ideas You Might Have Missed
+read time 2 minutes
+Welcome to the Curiosity Chronicle Week in Review—a quick roundup of this week's ideas to help you build a high-performing, healthy, and wealthy life.
+Forwarded this email? Join 800,000+ readers [here](https://click.kit-mail6.com/0vu3pkknlga9h9gg7olbkfv0egk55snhn6pvn/p8heh9h44odrr5hq/aHR0cHM6Ly93d3cuc2FoaWxibG9vbS5jb20vbmV3c2xldHRlcg==).
+ANNOUNCEMENT: [The 5 Types of Wealth Life Planner](https://click.kit-mail6.com/0vu3pkknlga9h9gg7olbkfv0egk55snhn6pvn/dpheh0heenkdd7sm/aHR0cHM6Ly93d3cudGhlNXR5cGVzb2Z3ZWFsdGguY29tL2xpZmUtcGxhbm5lcg==) is available for preorder! This interactive companion to my NYT bestselling book will guide you through exercises to define your priorities and build a happier, more fulfilled life. With the new year approaching fast, now’s the perfect time to set yourself up for an intentional and abundant 2026.
+P.S. Reply to this email with your receipt and you’ll get exclusive access to the life planning virtual workshops I’ll be hosting in November and December.
+This Week at a Glance:
+- Monday: Are You Ready For Your Favorable Wind?
+- Wednesday: 7 Lessons From My Father’s 70 Years
+- Friday: The Social Slope Effect: A Simple Trick For Progress
+Wisdom Worth Sharing:
+The older I get, the more I realize adaptability is the highest form of intelligence. Knowledge matters, but the ability to learn, unlearn, and change course matters more. The rigid cling to what was. The adaptable adjust to what is and what will be. The future belongs to them.
+([share to x/twitter!](https://click.kit-mail6.com/0vu3pkknlga9h9gg7olbkfv0egk55snhn6pvn/7qh7h8h9958ddoiz/aHR0cHM6Ly90d2l0dGVyLmNvbS9pbnRlbnQvdHdlZXQ_dGV4dD1UaGUlMjBvbGRlciUyMEklMjBnZXQlMkMlMjB0aGUlMjBtb3JlJTIwSSUyMHJlYWxpemUlMjBhZGFwdGFiaWxpdHklMjBpcyUyMHRoZSUyMGhpZ2hlc3QlMjBmb3JtJTIwb2YlMjBpbnRlbGxpZ2VuY2UuJTIwS25vd2xlZGdlJTIwbWF0dGVycyUyQyUyMGJ1dCUyMHRoZSUyMGFiaWxpdHklMjB0byUyMGxlYXJuJTJDJTIwdW5sZWFybiUyQyUyMGFuZCUyMGNoYW5nZSUyMGNvdXJzZSUyMG1hdHRlcnMlMjBtb3JlLiUyMFRoZSUyMHJpZ2lkJTIwY2xpbmclMjB0byUyMHdoYXQlMjB3YXMuJTIwVGhlJTIwYWRhcHRhYmxlJTIwYWRqdXN0JTIwdG8lMjB3aGF0JTIwaXMlMjBhbmQlMjB3aGF0JTIwd2lsbCUyMGJlLiUwQSUwQSVFMiU4MCU5MyUyMCU0MFNhaGlsQmxvb20=))
+Monday: Are You Ready For Your Favorable Wind?
+I stumbled across a [great post](https://click.kit-mail6.com/0vu3pkknlga9h9gg7olbkfv0egk55snhn6pvn/owhkhqhwwdnxxwfv/aHR0cHM6Ly94LmNvbS9kcmV4X2RzZ24vc3RhdHVzLzE4NzUxNDE2MjY1MTMwMDI4ODU_cz02MQ==) recently:
+When fisherman cannot go to sea, they repair nets. When the sea is too rough to sail, the smart ones don’t wait—they get to work. They mend their nets, sharpen their tools, and prepare for the moment the storm breaks. Because even in stillness, there’s progress.
+It reminded me of a story from the American Revolution in Ron Chernow’s Pulitzer Prize-winning biography of George Washington.
+It has a powerful lesson for your life…
+([read the full piece here](https://click.kit-mail6.com/0vu3pkknlga9h9gg7olbkfv0egk55snhn6pvn/p8heh9h44odrrxaq/aHR0cHM6Ly93d3cuc2FoaWxibG9vbS5jb20vbmV3c2xldHRlci9hcmUteW91LXJlYWR5LWZvci15b3VyLWZhdm9yYWJsZS13aW5k))
+Wednesday: 7 Lessons From My Father’s 70 Years
+This week, my dad turned 70 years old.
+He remains my greatest source of wisdom. My confidant. My compass. The person I still turn to for advice on life, relationships, business, and everything in between.
+No single person has had a greater impact on who I am or how I move through the world.
+But he rarely sat me down to teach lessons or offer lectures. He just lived in a way that showed me what mattered most.
+In this piece, I shared seven lessons my father taught me—by living them every single day...
+([read the full piece here](https://click.kit-mail6.com/0vu3pkknlga9h9gg7olbkfv0egk55snhn6pvn/x0hph6hee0zkkxf5/aHR0cHM6Ly93d3cuc2FoaWxibG9vbS5jb20vbmV3c2xldHRlci83LWxlc3NvbnMtZnJvbS1teS1mYXRoZXJzLTcwLXllYXJz))
+Friday: The Social Slope Effect: A Simple Trick For Progress
+In my experience, I’ve found that the real enemy of true, transformative progress isn’t laziness, lack of focus, or low competency—it’s intimidation.
+Progress is intimidating. You’re standing where you are, at the start of a journey, and looking up at a huge mountain. You can’t imagine scaling it. It’s too steep, too far off in the distance.
+So, you don’t start walking.
+The anecdotal evidence in my own life suggested the antidote was simple: Don’t do it alone.
+And as it turns out, the science supports this notion...
+([read the full piece here](https://click.kit-mail6.com/0vu3pkknlga9h9gg7olbkfv0egk55snhn6pvn/6qheh8hllewxxxao/aHR0cHM6Ly93d3cuc2FoaWxibG9vbS5jb20vbmV3c2xldHRlci90aGUtc29jaWFsLXNsb3BlLWVmZmVjdC1hLXNpbXBsZS10cmljay1mb3ItcHJvZ3Jlc3M=))
+|
+The health anchor to my morning routine since 2011: [AG1](https://click.kit-mail6.com/0vu3pkknlga9h9gg7olbkfv0egk55snhn6pvn/58hvh7hgg2033xh6/aHR0cHM6Ly9kcmlua2FnMS5jb20vc2FoaWw=)!
+I started taking [AG1](https://click.kit-mail6.com/0vu3pkknlga9h9gg7olbkfv0egk55snhn6pvn/58hvh7hgg2033xh6/aHR0cHM6Ly9kcmlua2FnMS5jb20vc2FoaWw=) way before it was trendy or anyone knew about it––in 2011 when I needed to up my health game while playing college baseball. I was one of their first customers and fell in love with it. I took it consistently for over 10 years before asking the CEO for a link to share with family and friends.
+The newly upgraded [AG1 Next Gen](https://click.kit-mail6.com/0vu3pkknlga9h9gg7olbkfv0egk55snhn6pvn/58hvh7hgg2033xh6/aHR0cHM6Ly9kcmlua2FnMS5jb20vc2FoaWw=) is backed by four clinical trials and features five clinically studied probiotics, functional mushrooms, and whole food-sourced nutrients to support gut health, immune function, and sustained energy.
+And now it comes in 3 new flavors: Tropical, Citrus, and Berry. All from plant-based sources, with no added sugar or artificial sweeteners.
+[AG1](https://click.kit-mail6.com/0vu3pkknlga9h9gg7olbkfv0egk55snhn6pvn/58hvh7hgg2033xh6/aHR0cHM6Ly9kcmlua2FnMS5jb20vc2FoaWw=) is offering my amazing Curiosity Chronicle subscribers a FREE $76 gift when you sign up. You’ll get a Welcome Kit, a bottle of D3K2 (I take this daily!), and 5 free travel packs in your first box.
+|
+Sahil Bloom
+|
+|
+|

@@ -1,0 +1,91 @@
+---
+subject: "Return on Luck, Your 100-Day Plan, & More"
+from: "\"Sahil Bloom's Curiosity Chronicle\" <sahil@sahilbloom.com>"
+to: ""
+date: 2024-07-05 13:05:06
+labels: ["CATEGORY_PERSONAL", "INBOX", "Sahil Bloom", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_1989028747625928812", "UNREAD"]
+---
+The 100-Day Plan, Return on Luck, & More
+read and listen on [sahilbloom.com](https://click.convertkit-mail4.com/mvumz88on6b5hgdnwndipfevv62qqa3/58hvh7hmxgnpgkb6/aHR0cHM6Ly93d3cuc2FoaWxibG9vbS5jb20vbmV3c2xldHRlci90aGUtMTAwLWRheS1wbGFuLXJldHVybi1vbi1sdWNrLW1vcmU=)
+read time 4 minutes
+Here are 5 interesting ideas to spark your curiosity heading into the weekend.
+Today at a Glance:
+- Question: Your 100-day plan.
+- Quote: Never lie to yourself.
+- Idea: Return on Luck.
+- Proverb: Crocodiles in calm water.
+- Habit: 15-minute post-lunch walk.
+|
+Start your own newsletter
+The Curiosity Chronicle runs on [ConvertKit](https://click.convertkit-mail4.com/mvumz88on6b5hgdnwndipfevv62qqa3/g3hnh5h39ml7mgtr/aHR0cHM6Ly9ja2Fkcy5saW5rL1NhaGlsQmxvb21fQ29udmVydEtpdF9KdWwyNA==).
+ConvertKit is an email marketing software that makes it easy to start a newsletter and get paid as a creator. ConvertKit has beautiful templates that make it easy to design beautiful newsletters in just a few clicks. They have audience growth tools that make it easier to gain new subscribers and continuously grow your newsletter. ConvertKit also has a series of features that make it easier than ever to earn a living as a creator, including the ConvertKit sponsor network, which helps connect newsletter owners with sponsors.
+ConvertKit is used by top creators like James Clear, Tim Ferriss, Andrew Huberman, Tim McGraw, Ali Abdaal, and more.
+Click the button below to learn more and start your newsletter today.
+|
+Question to create your 100-day plan:
+If you hired the best CEO in the world to be the CEO of your life, what actions would be on their 100-day plan?
+I first came across this question from my friend [James Clear](https://click.convertkit-mail4.com/mvumz88on6b5hgdnwndipfevv62qqa3/48hvhehrlmpzmebx/aHR0cHM6Ly9qYW1lc2NsZWFyLmNvbQ==) and have been stuck on it ever since.
+Two of the biggest impediments to life change:
+- Emotion: We're all emotional creatures. We're so close to everything in our own lives that it's often hard to remove emotions from our decisions.
+- Inaction: It's always easier to maintain the status quo. It's a
+[constant fight with yourself](https://click.convertkit-mail4.com/mvumz88on6b5hgdnwndipfevv62qqa3/8ghqhohldo2eo7sk/aHR0cHM6Ly93d3cuc2FoaWxibG9vbS5jb20vbmV3c2xldHRlci90aGUtbW9zdC1pbXBvcnRhbnQtZmlnaHQtb2YteW91ci1saWZl) to take action when inaction is far less risky and painful.
+This question helps you address both.
+The CEO is not emotional when it comes to your life—they don't know you. The CEO has a bias for action—it's how they became a great CEO.
+So, what would your new CEO's 100-day plan look like?
+What mindsets, behaviors, and people would they want you to cut?
+What actions would they want you to take?
+What routines would they want you to create?
+What fears would they want you to confront?
+Fortunately, you don't need to hire a world-changing CEO for your life—you just need to vividly imagine talking to one.
+Use the answers to these questions to craft your own 100-day plan. Then, start moving on it.
+Quote on the most damning lies in life:
+"If you want to be successful, you must respect one rule: Never lie to yourself!" - Paulo Coelho
+The most damning lie is the lie you tell yourself.
+Always tell yourself the truth—the rest will take care of itself.
+([Share this on Twitter!](https://click.convertkit-mail4.com/mvumz88on6b5hgdnwndipfevv62qqa3/dpheh0h06eoz84um/aHR0cHM6Ly90d2l0dGVyLmNvbS9pbnRlbnQvdHdlZXQ_dGV4dD0lMjJJZiUyMHlvdSUyMHdhbnQlMjB0byUyMGJlJTIwc3VjY2Vzc2Z1bCUyQyUyMHlvdSUyMG11c3QlMjByZXNwZWN0JTIwb25lJTIwcnVsZSUzQSUyME5ldmVyJTIwbGllJTIwdG8lMjB5b3Vyc2VsZiUyMSUyMiUyMC0lMjBQYXVsbyUyMENvZWxobyUwQSUwQVRoZSUyMG1vc3QlMjBkYW1uaW5nJTIwbGllJTIwaXMlMjB0aGUlMjBsaWUlMjB5b3UlMjB0ZWxsJTIweW91cnNlbGYuJTBBJTBBQWx3YXlzJTIwdGVsbCUyMHlvdXJzZWxmJTIwdGhlJTIwdHJ1dGglRTIlODAlOTR0aGUlMjByZXN0JTIwd2lsbCUyMHRha2UlMjBjYXJlJTIwb2YlMjBpdHNlbGYuJTBBJTBBLSUyMCU0MFNhaGlsQmxvb20=))
+An idea to reframe the role of luck:
+Return on Luck
+Luck is a topic that I've written about a few times in the past ([here](https://click.convertkit-mail4.com/mvumz88on6b5hgdnwndipfevv62qqa3/7qh7h8hol96vw8fz/aHR0cHM6Ly93d3cuc2FoaWxibG9vbS5jb20vbmV3c2xldHRlci90aGUtNC10eXBlcy1vZi1sdWNr) and [here](https://click.convertkit-mail4.com/mvumz88on6b5hgdnwndipfevv62qqa3/p8heh9hz642kg7uq/aHR0cHM6Ly93d3cuc2FoaWxibG9vbS5jb20vbmV3c2xldHRlci90aGUtYXJ0LXNjaWVuY2Utb2YtbHVjaw==), for example), but I always find myself coming back to it when I encounter a new perspective.
+I recently read an interesting take on luck from author [Jim Collins](https://click.convertkit-mail4.com/mvumz88on6b5hgdnwndipfevv62qqa3/dpheh0h06eoz80bm/aHR0cHM6Ly93d3cuamltY29sbGlucy5jb20vaW5kZXguaHRtbA==):
+Return on Luck (or "ROL") is the idea that in business, luck may be evenly distributed, but certain companies and leaders find a way to benefit from it more than others.
+In his research, Collins found that great companies do not get disproportionately more good luck than others, but they do disproportionately benefit from the good luck they get.
+In simple terms, some generate a high ROL, while others do not.
+While his research was focused on the business world, this idea got me thinking about how we can all set ourselves up to generate a high Return on Luck in our own lives.
+A few traits that I believe will contribute to a high ROL life:
+- Adaptability: The ability and willingness to pivot quickly and follow new information or evidence.
+- Bias for Action: Creating more collisions and generating more data through motion.
+- Grit & Resilience: The tendency to get back up after a seemingly crushing blow, to let the situation play out when most would fold.
+- Ownership: The understanding that while some events are outside your control, it is within you to capitalize on them.
+I don't know about you, but love this idea.
+What other "High Return on Luck" traits would you add to the list?
+Proverb I can't stop thinking about:
+I recently came across a proverb of unknown origin that I absolutely love:
+"Do not think there are no crocodiles just because the water is calm."
+My general observation on life is that every single time I think I have it all figured out, I get punched in the face.
+Maintaining a healthy level of paranoia can actually be helpful. It reminds you to remain nimble, agile, and adaptable.
+It reminds you that success isn't an end state, but something that requires continuous, disciplined effort.
+The water may look calm, but the crocodiles are always lurking...
+Simple habit that has improved my life:
+The 15-minute post-lunch walk
+I used to get a terrible bout of drowsiness after lunch. I'd have great energy all morning, eat, and then immediately feel like I hadn't slept in a month.
+I tried having a lighter lunch, but all that did was make me hungry...
+I recently started taking a 15-minute walk immediately after eating and it has worked wonders for keeping my energy steady into the afternoon. It's significantly more effective than the large black cold brew I used to rely on for that purpose.
+And as it turns out, there is real science behind it—a post-meal walk has been shown to [reduce blood glucose by up to 35%](https://click.convertkit-mail4.com/mvumz88on6b5hgdnwndipfevv62qqa3/z2hghnh36ek9p0hp/aHR0cHM6Ly93d3cuaW5zdGFncmFtLmNvbS9odWJlcm1hbmxhYi9yZWVsL0M2clFDNHhwT2M1Lz9obD1lbg==).
+Give it a shot if you suffer from the afternoon slump...
+In Case You Missed It:
+In [Wednesday's issue](https://click.convertkit-mail4.com/mvumz88on6b5hgdnwndipfevv62qqa3/x0hph6hw2ep89ou5/aHR0cHM6Ly93d3cuc2FoaWxibG9vbS5jb20vbmV3c2xldHRlci9ob3ctdG8tdXNlLWZhaWx1cmUtdG8tc3VjY2VlZA==), I shared my four-step system to fail better:
+- Set a failure timer: Give yourself a grace period to feel the pain of the failure. Create perspective around it.
+- Become a scientist: Review the situation with cold, emotionless information gathering and analysis.
+- Time travel to the future: Time travel to one year in the future. You're told that this failure was a positive turning point in your life. What actions made it so?
+- Take action: In the wake of failure, default to action. Information is nothing without action.
+P.S. I'm going to be making the most exciting announcement of my life in a few weeks. Newsletter readers are going to be the first to hear about it. I can't wait to share it with all of you. Any guesses as to what it is?
+Sahil's Recommendation Zone
+Perfect your morning routine with my partner[ Athletic Greens](https://click.convertkit-mail4.com/mvumz88on6b5hgdnwndipfevv62qqa3/6qheh8h7rl5vnrfo/aHR0cDovL2RyaW5rYWcxLmNvbS9zYWhpbA==):
+I get asked about my morning routine all the time. It changes from time to time, but [AG1](https://click.convertkit-mail4.com/mvumz88on6b5hgdnwndipfevv62qqa3/6qheh8h7rl5vnrfo/aHR0cDovL2RyaW5rYWcxLmNvbS9zYWhpbA==) has been the one constant since 2011. I drink it with a big glass of water every single morning to start my day on a positive tone.
+It replaced an entire cabinet of supplements for me in one daily scoop—seriously, its latest iteration covers a multivitamin, multi-mineral, prebiotics, probiotics, adaptogens, greens, and more. It keeps me feeling healthy and strong throughout the year, even when I'm traveling (thanks to the travel packs).
+Athletic Greens is offering Curiosity Chronicle subscribers an exclusive deal: [a free 1-year supply of liquid vitamin D plus 5 travel packs with your subscription purchase](https://click.convertkit-mail4.com/mvumz88on6b5hgdnwndipfevv62qqa3/6qheh8h7rl5vnrfo/aHR0cDovL2RyaW5rYWcxLmNvbS9zYWhpbA==). Take advantage of it!
+Sahil Bloom
+|
+|
+|

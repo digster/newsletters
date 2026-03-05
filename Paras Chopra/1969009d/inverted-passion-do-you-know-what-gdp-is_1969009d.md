@@ -1,0 +1,54 @@
+---
+subject: "[Inverted Passion] Do you know what GDP is?"
+from: "Paras Chopra <paras1987@86486165.mailchimpapp.com>"
+to: ""
+date: 2025-05-02 08:07:08
+labels: ["CATEGORY_PERSONAL", "INBOX", "Paras Chopra", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_6668903435596043419", "UNREAD"]
+---
+By Paras Chopra on May 01, 2025 05:43 am
+I thought I knew! But the more I introspected, the hazy my understanding got. Is GDP amount of stuff produced or consumed? Does it include imports or exports? What does it have to do with well being? Why does it keep increasing?
+So, I fired up Claude and started understanding what GDP really is. This post contains my notes on the same.
+But before we start, it’s worthwhile to reflect how many such concepts that we think we know, do we really know. Often there’s a gap between what we think we know, and what we actually know. It’s worthwhile to question your understanding of commonplace phenomena. Do we know what life is? What does productivity mean? How do greenhouse emissions warm the Earth, and so on. For so many such things, our mind convinces us that we know stuff when upon probing, it turns out to be a vague miasma.
+GDP is total “stuff” produced within a geographic boundary
+GDP stands for Gross Domestic Produce, and as the name suggests, it tracks the amount of “stuff” produced by a region. It’s important to differentiate between real GDP (actual stuff) v/s nominal one (how much it costs). We’re NOT interested in nominal GDP as it gets impacted by [inflation due to increased money supply](https://invertedpassion.us17.list-manage.com/track/click?u=6e39cdadb8b9f203e9338c40c&id=f70a31853f&e=c5f5f9f212). We’re interested in real GDP, which tells us how much [total wealth](https://invertedpassion.us17.list-manage.com/track/click?u=6e39cdadb8b9f203e9338c40c&id=d91cd19287&e=c5f5f9f212) exists in the world (economists call it ‘capital’).
+There are several ways of computing GDP: a) calculate what all industries are producing; or b) calculate what amount is being spent to buy things; or c) calculate what income is being generated.
+All these methods measure the same thing: the amount of economic activity in a region. But, “economic activity” is vague. My preferred framing of GDP is how much “stuff” is being produced.
+Most GDP estimates are based on calculating expenditure in a region, indirectly measuring demand and supply. (We assume that in an economy, supply of stuff matches the demand for it.)
+Typically, formula for calculating GDP is: C + I + G + (X – M)
+Where, C = consumer spending, I = business investment, G = government spending, and X – M is net exports (which is exports – imports).
+If you think about this formula, because we’re subtracting imports into a region from GDP, when we add up spending and exports, what we’re left with is the amount of stuff that the region produces, which is what GDP measures.
+To know how GDP grows, ask how can we produce more “stuff”
+GDP of a region grows when the amount of stuff produced within it grows. And how can we produce more “stuff”?
+- Innovation: perhaps the biggest factor in GDP growth. This not only helps produce more widgets for the same investment (with cost efficiencies), it also helps with producing stuff that creates more demand (nobody wanted to buy air tickets before airplanes were invented)
+- Increase in workforce: when there are more people to produce more stuff, more stuff gets produced
+- Upskilling of people: when you have better skilled people, they can produce a variety of stuff
+- Better infrastructure: e.g. when you build roads, there’s more incentive for people to purchase “stuff” as it is easily delivered
+TLDR: GDP grows when the factors that aid in production of more stuff improve.
+Why is GDP per capita correlated with well being?
+I find it fascinating that GDP per capita is highly correlated with well being (and [many other factors that contribute to it](https://invertedpassion.us17.list-manage.com/track/click?u=6e39cdadb8b9f203e9338c40c&id=806e3e7028&e=c5f5f9f212), like life expectancy).
+As GDP is simply amount of stuff produced, this just means that higher the GDP per capita, more is the stuff available per capita to consume. And since economies produce stuff that’s desirable, it just means [more desires of the population is satisfied](https://invertedpassion.us17.list-manage.com/track/click?u=6e39cdadb8b9f203e9338c40c&id=ebe08027e8&e=c5f5f9f212) as GDP per capita is increased.
+Why does GDP keep on growing?
+If you see the world GDP (adjusted for inflation), it has grown consistently at 2-3% per year. Why?
+While it’s not clear where does the particular 2-3% growth rate come from, what we know is that GDP grows because [human desires are uncapped](https://invertedpassion.us17.list-manage.com/track/click?u=6e39cdadb8b9f203e9338c40c&id=3fe4996315&e=c5f5f9f212).
+(While GDP grows when population grows, but historically even GDP per capita has grown consistently.)
+So we always need more things than we have, and that creates an incentive in the economy for both efficiency and innovation, causing the GDP to grow.
+Can you increase GDP artificially? Yes, but not for long
+If GDP means “stuff” that’s produced, it can be gamed by governments by excessive spending on public infrastructure (recall the formula above, govt spending is part of how it is calculated). To increase spending, a government either prints money, borrows it or takes it from the population via increased taxes. Then it uses this money to build more dams, roads, or housing, which causes GDP to grow in the short term.
+But unless these investments are wise, aka into things that people actually want, the government runs the risk of ruining a country. If government spending is “wasteful”, it can’t “repay” its debts. It runs the risk of causing inflation or an unhappy population due to higher taxes or austerity measures. I love this because it shows how economy is a self-organizing system revolving around human desires that even governments have limited control over.
+So while GDP can be propped up in the short term in a top-down manner, in the long term, GDP growth needs to occur bottom up by the “invisible hand” producing more stuff for people to consume.
+Can GDP growth be negative?
+Historically, GDP degrowth has been rare but it has happened occasionally. Famous periods of negative GDP growth include US depression in 1930s, Covid times and the 2008 financial crisis. During these (brief) periods, people reduced their spending (due to fear or unemployment), and hence industries reduced production of stuff, causing GDP to reduce.
+However, because GDP reduction has spiral effects (reduce spending -> reduce production -> layoffs -> reduce spending), typically you see government intervention in order to stimulate spending by cutting interest rates. (How it creates subsequent ripple effects is fascinating in its own right).
+Governments hate GDP degrowth because people want to see their living standards improve over time. If a government doesn’t deliver that, people rebel and elect a new government.
+Nobody wants to consume less stuff than they did before. It’s interesting how it is tied to [loss aversion](https://invertedpassion.us17.list-manage.com/track/click?u=6e39cdadb8b9f203e9338c40c&id=e3861902f7&e=c5f5f9f212), which in turn has an [evolutionary explanation](https://invertedpassion.us17.list-manage.com/track/click?u=6e39cdadb8b9f203e9338c40c&id=151ff6c889&e=c5f5f9f212) in [dopamine related system](https://invertedpassion.us17.list-manage.com/track/click?u=6e39cdadb8b9f203e9338c40c&id=5faf521b47&e=c5f5f9f212).
+Are there any harmful effects of GDP growth?
+Yes, sometimes the “stuff” you’re producing comes with a cost that you don’t bear (economists call this “[externalities](https://invertedpassion.us17.list-manage.com/track/click?u=6e39cdadb8b9f203e9338c40c&id=9dba6631f2&e=c5f5f9f212)“). This creates a mismatched incentive system where you keep on producing more stuff as its profitable to you, but never pay its cost. But, on a larger scale, someone has to finally bear the costs, and when that happens it creates conflict and tension.
+Of course, I’m talking about the elephant in the room: climate change. Producing stuff requires burning hydrocarbons, which releases CO2, which warms the Earth. But climate change isn’t the only harmful side effect. Short attention spans, pollution, polarization – all are unintended side effects of industries optimizing to give us stuff that we want, but not caring about what happens as a side effect. Good ol’ [Goodhart’s law](https://invertedpassion.us17.list-manage.com/track/click?u=6e39cdadb8b9f203e9338c40c&id=cf6be4a07e&e=c5f5f9f212) is everywhere!
+That’s about it! In case you’re interested, [here’s my full Claude conversation on GDP related topics](https://invertedpassion.us17.list-manage.com/track/click?u=6e39cdadb8b9f203e9338c40c&id=2c5588a06f&e=c5f5f9f212)!
+/>
+Join 200k followers />
+The post [Do you know what GDP is?](https://invertedpassion.us17.list-manage.com/track/click?u=6e39cdadb8b9f203e9338c40c&id=1c894e519e&e=c5f5f9f212) appeared first on [Inverted Passion](https://invertedpassion.us17.list-manage.com/track/click?u=6e39cdadb8b9f203e9338c40c&id=b67bef7ef3&e=c5f5f9f212).
+[Read in browser »](https://invertedpassion.us17.list-manage.com/track/click?u=6e39cdadb8b9f203e9338c40c&id=dd2908b768&e=c5f5f9f212)
+Recent Articles:
+|

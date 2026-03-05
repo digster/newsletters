@@ -1,0 +1,66 @@
+---
+subject: "Recap: Here's everything we published this week"
+from: "The Ken <info@the-ken.com>"
+to: ""
+date: 2025-02-02 03:40:31
+labels: ["CATEGORY_PERSONAL", "INBOX", "The Ken"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_8244464457792971031"]
+---
+|
+|
+Delivered to Ishan, Subscriber to The Ken.
+Sun, 02 Feb 2025
+|
+The Spotlight by Rahul Chaudhary
+Audience Engagement
+|
+|
+Good Morning Ishan,
+Welcome to your Sunday recap of everything The Ken published this week.
+Spotlight
+[Zepto to recruits from rivals: We give you ‘generational wealth’, you give us long hours](https://the-ken.com/story/zepto-to-recruits-from-rivals-we-give-you-generational-wealth-you-give-us-long-hours/?utm_source=weekly_email&utm_medium=email&utm_campaign=weekly_recap_card)
+In the run-up to its IPO, the $5 billion quick-commerce firm poached employees from rivals and set lofty targets for them to earn Esops
+While Indian startups were downsizing in 2024, Zepto was on a hiring spree. It onboarded 2,000 employees in just seven months. Its pitch: a shot at “generational wealth”—with Rs 50–100 crore dangled for senior executives hitting their targets.
+On the flip side, the company has also been accused of promoting a “toxic” work culture, getting employees to sweat it out for as long as 12 hours. Yet, Zepto—with its headquarters freshly relocated to Bengaluru—is sprinting toward an IPO by the end of 2025. [[Read the full story](https://the-ken.com/story/zepto-to-recruits-from-rivals-we-give-you-generational-wealth-you-give-us-long-hours/?utm_source=weekly_email&utm_medium=email&utm_campaign=weekly_recap_card)]
+******
+[Razorpay and Cashfree woke up and chose violence](https://the-ken.com/story/razorpay-and-cashfree-woke-up-and-chose-violence/?utm_source=weekly_email&utm_medium=email&utm_campaign=weekly_recap_card)
+And Juspay counts on merchants to come to its aid after the two payment aggregators parted ways with it
+Juspay, said to be on the path to a unicorn status in January, made its name by orchestrating payments between merchants and aggregators. With the company getting a payment-aggregator licence, others in the ecosystem—Phonepe, Razorpay, and Cashfree—saw it as a competition, and severed ties with the company. Having launched their own orchestration service, Razorpay and Cashfree now want to directly integrate with merchants, as an alternative to Juspay’s service. But not only is direct integration a painful switch, large merchants don’t want to depend on a single player for all their transactions. [[Read the full story](https://the-ken.com/story/razorpay-and-cashfree-woke-up-and-chose-violence/?utm_source=weekly_email&utm_medium=email&utm_campaign=weekly_recap_card)]
+******
+[Who and how do you incentivise to solve India’s air pollution problem?](https://the-ken.com/podcasts/two-by-two/who-and-how-do-you-incentivise-to-solve-indias-air-pollution-problem/?utm_source=weekly_email&utm_medium=email&utm_campaign=weekly_recap_card)
+Overcoming a “wicked problem” needs many helping hands
+******
+[Indiamart is bleeding sellers](https://the-ken.com/long_and_short/indiamart-is-bleeding-sellers/?utm_source=weekly_email&utm_medium=email&utm_campaign=weekly_recap_card)—And the $1.4B-mcap B2B company has no idea why [[Read here](https://the-ken.com/long_and_short/indiamart-is-bleeding-sellers/?utm_source=weekly_email&utm_medium=email&utm_campaign=weekly_recap_card)]
+Startups
+[What does it take to sell makeup to men? ](https://the-ken.com/story/what-does-it-take-to-sell-makeup-to-men-ask-brands-designing-their-products-for-men/?utm_source=weekly_email&utm_medium=email&utm_campaign=weekly_recap_card)
+A slew of brands now sell serums, cleansers, and makeup for men. But how different are they from the countless products already made for women?
+In a sea of beauty and skincare brands, a few are focussing just on men. While the items they sell already exist, they’re tapping into a man’s hesitancy to buy products marketed to women. This rush into men’s grooming is now expanding beyond just skincare, venturing into makeup—a category traditionally seen as feminine. But despite their claims of being different, these gendered brands are still just that—mere claims. [[Read the full story](https://the-ken.com/story/what-does-it-take-to-sell-makeup-to-men-ask-brands-designing-their-products-for-men/?utm_source=weekly_email&utm_medium=email&utm_campaign=weekly_recap_card)]
+******
+[Netradyne made a $1.3B business out of surveilling drivers. Now, it must focus on driverless cars](https://the-ken.com/story/netradyne-made-a-1-3b-business-out-of-surveilling-drivers-now-it-must-focus-on-driver-less-cars/?utm_source=weekly_email&utm_medium=email&utm_campaign=weekly_recap_card)
+India’s first unicorn of 2025 spent 10 years making roads safer for truckers—only to find itself moving towards a future where trucks don’t need drivers
+Netradyne has built a business with an annual revenue of Rs 1,000+ crore by focusing on making fleets safer with its driver-safety cameras. Its sweet spot is the long-distance trucking segment, especially in the US and other developed markets. But the industry is now moving toward autonomous vehicles. The data it collects—particularly on driver behaviour—could become a valuable asset for autonomous-vehicle companies. The founders have already hinted that they might move to become a data supplier. But the autonomous vehicle industry is stuck in neutral. GenAI might deliver some much-needed breakthroughs. For now, Netradyne’s cards are in its favour. [[Read the full story](https://the-ken.com/story/netradyne-made-a-1-3b-business-out-of-surveilling-drivers-now-it-must-focus-on-driver-less-cars/?utm_source=weekly_email&utm_medium=email&utm_campaign=weekly_recap_card)]
+******
+[Fintechs are trying to save India’s Digital Rupee. Trump may have just killed it](https://the-ken.com/kaching/fintechs-are-trying-to-save-indias-digital-rupee-trump-may-have-just-killed-it/?utm_source=weekly_email&utm_medium=email&utm_campaign=weekly_recap_card)—Two years on, India’s CBDC is struggling to find relevance [[Read here](https://the-ken.com/kaching/fintechs-are-trying-to-save-indias-digital-rupee-trump-may-have-just-killed-it/?utm_source=weekly_email&utm_medium=email&utm_campaign=weekly_recap_card)]
+******
+[Why Minimalist was the missing piece in Hindustan Unilever’s skincare game](https://the-ken.com/podcasts/daybreak/how-minimalist-managed-what-a-giant-like-hindustan-unilever-couldnt/?utm_source=weekly_email&utm_medium=email&utm_campaign=weekly_recap_card)—Homegrown startup beauty brands have been on a roll in India [[Listen here](https://the-ken.com/podcasts/daybreak/how-minimalist-managed-what-a-giant-like-hindustan-unilever-couldnt/?utm_source=weekly_email&utm_medium=email&utm_campaign=weekly_recap_card)]
+Listed companies
+[Tata Tech, just merge with Tata Elxsi](https://the-ken.com/story/tata-tech-just-merge-with-tata-elxsi/?utm_source=weekly_email&utm_medium=email&utm_campaign=weekly_recap_card)
+The time is ripe for the listed, niche engineering entities within the Tata Group to join and spare their shareholders the woes
+Tata Technologies’ bumper listing in late 2023 showed huge promise but has left its investors in dismay, thanks to a tepid business show and a crashing stock. Tata Elxsi, its high-flying engineering, research and development peer from within the group, has also seen its business and stock fortunes dwindle over the past couple of years.
+Their overlapping exposure to the beleaguered auto industry and the potential to churn out a bigger entity with varied offerings make a strong case for a merger. While some large shareholders bailed from Tata Tech when the going was good, a merger now is essential to serve the interests of smaller shareholders. The valuation dynamic is favourable, too. [[Read the full story](https://the-ken.com/story/tata-tech-just-merge-with-tata-elxsi/?utm_source=weekly_email&utm_medium=email&utm_campaign=weekly_recap_card)]
+******
+[Pidilite, Birla, and the fight for glory in paints](https://the-ken.com/tradetricks/pidilite-birla-and-the-fight-for-glory-in-paints/?utm_source=weekly_email&utm_medium=email&utm_campaign=weekly_recap_card)—The Johnny-come-latelies are already hurting the incumbents, including Asian Paints [[Read here](https://the-ken.com/tradetricks/pidilite-birla-and-the-fight-for-glory-in-paints/?utm_source=weekly_email&utm_medium=email&utm_campaign=weekly_recap_card)]
+******
+[Drugmakers Dr Reddy’s and Lupin’s next big bet: digital devices that replace drugs](https://the-ken.com/podcasts/daybreak/from-managing-migraines-to-treating-ibs-why-thousands-are-choosing-devices-over-drugs/?utm_source=weekly_email&utm_medium=email&utm_campaign=weekly_recap_card)—In the last few years, the market for devices to treat and manage chronic and non communicable diseases has been blowing up [[Listen here](https://the-ken.com/podcasts/daybreak/from-managing-migraines-to-treating-ibs-why-thousands-are-choosing-devices-over-drugs/?utm_source=weekly_email&utm_medium=email&utm_campaign=weekly_recap_card)]
+Stories you don’t want to miss
+[India rages against the machine](https://the-ken.com/the-nutgraf/india-rages-against-the-machine/?utm_source=weekly_email&utm_medium=email&utm_campaign=weekly_recap_card)—The national response to AI is complicated, and has echoes from history [[Read here](https://the-ken.com/the-nutgraf/india-rages-against-the-machine/?utm_source=weekly_email&utm_medium=email&utm_campaign=weekly_recap_card)]
+[How housing turned unaffordable in India](https://the-ken.com/the-collection/how-housing-turned-unaffordable-in-india/?utm_source=weekly_email&utm_medium=email&utm_campaign=weekly_recap_card)—A sharp fall in real-estate stocks is seeding hopes of an impending correction in prices. But how did we get here? [[Read here](https://the-ken.com/the-collection/how-housing-turned-unaffordable-in-india/?utm_source=weekly_email&utm_medium=email&utm_campaign=weekly_recap_card)]
+[WIP—Work in Public](https://the-ken.com/newsletter/first-principles/wip-work-in-public/?utm_source=weekly_email&utm_medium=email&utm_campaign=weekly_recap_card)—When you work in private, you inhibit your own ability to grow [[Read here](https://the-ken.com/newsletter/first-principles/wip-work-in-public/?utm_source=weekly_email&utm_medium=email&utm_campaign=weekly_recap_card)]
+[Screens vs phones—The digital disparity within India’s schools](https://the-ken.com/edsetgo/screens-vs-phones-the-digital-disparity-within-indias-schools/?utm_source=weekly_email&utm_medium=email&utm_campaign=weekly_recap_card)—The ambition is to create a cutting-edge workforce. But where is the tech to do it? [[Read here](https://the-ken.com/edsetgo/screens-vs-phones-the-digital-disparity-within-indias-schools/?utm_source=weekly_email&utm_medium=email&utm_campaign=weekly_recap_card)]
+[Transparency is good. So why does everyone still keep secrets?](https://the-ken.com/incitingincident/transparency-is-good-so-why-does-everyone-still-keep-secrets/?utm_source=weekly_email&utm_medium=email&utm_campaign=weekly_recap_card)—Trust thrives on transparency, but secrecy is human nature [[Read here]](https://the-ken.com/incitingincident/transparency-is-good-so-why-does-everyone-still-keep-secrets/?utm_source=weekly_email&utm_medium=email&utm_campaign=weekly_recap_card)
+[From luxury cars to lunch with celebs—wealth managers are going all out to woo the ultra-rich](https://the-ken.com/podcasts/daybreak/from-luxury-cars-to-lunch-with-celebs-wealth-managers-are-going-all-out-to-woo-the-ultra-rich-2/?utm_source=weekly_email&utm_medium=email&utm_campaign=weekly_recap_card)—Concierge services for the ultra rich are increasingly partnering with wealth managers to edge out competition and increase their clientele [first published in Oct 2024, [listen here](https://the-ken.com/podcasts/daybreak/from-luxury-cars-to-lunch-with-celebs-wealth-managers-are-going-all-out-to-woo-the-ultra-rich-2/?utm_source=weekly_email&utm_medium=email&utm_campaign=weekly_recap_card)]
+[How designers are going from backrooms to boardrooms at companies](https://the-ken.com/podcasts/daybreak/how-designers-are-going-from-backrooms-to-boardrooms-at-companies/?utm_source=weekly_email&utm_medium=email&utm_campaign=weekly_recap_card)—Now that more universities have entered the picture and generalist designers are becoming a dime a dozen, landing good jobs is going to get tougher as the job market matures [first published in Nov 2024, [listen here](https://the-ken.com/podcasts/daybreak/how-designers-are-going-from-backrooms-to-boardrooms-at-companies/?utm_source=weekly_email&utm_medium=email&utm_campaign=weekly_recap_card)]
+That’s a wrap for this week. If you have thoughts or suggestions you’d like to share, leave a comment on our website or app, or write to our writers and podcasters. You can also write to me at rahul@the-ken.com.
+Take care.
+Regards,
+Rahul

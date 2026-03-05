@@ -1,0 +1,10 @@
+---
+subject: "The downside of NAFTA?"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2026-01-12 19:24:44
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+We study how NAFTA changed the geography of violence in Mexico. We propose that this open border policy increased trafficking profits of Mexican cartels, resulting in violent competition among them. We test this hypothesis by comparing changes in drug-related homicides after NAFTA’s introduction in 1994 across municipalities with and without drug-trafficking routes. Routes are predicted least cost paths connecting municipalities with a recent history of detected drug trafficking with U.S. land ports of entry. On these routes, homicides increase by 2.1 per 100,000 inhabitants, which is equivalent to 26% of the pre-NAFTA mean. These results cannot be explained by changes in worker’s opportunity costs of using violence resulting from the trade shock.
+That is from [a new JDE paper](http://marginalrevolution.com?action=user_content_redirect&uuid=45b665385d47797bda1f5680debd42339255e34590c12be5ad77626367cbd5bd&blog_id=42693868&post_id=92226&user_id=262258391&subs_id=225460721&signature=d0b5a5dd442dd8739e571db9f363655e&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly93d3cuc2NpZW5jZWRpcmVjdC5jb20vc2NpZW5jZS9hcnRpY2xlL3BpaS9TMDMwNDM4NzgyNjAwMDAyNw=&email_id=0be13637b155ae3f7db62de94c989187) by Eduardo Hidalgo, Erik Horning, and Pablo Selaya. Via the excellent [Kevin Lewis](http://marginalrevolution.com?action=user_content_redirect&uuid=5dab25a93243ba85028d6fd8efd9be84c07797819f94ce9ab4266aacdda99f3f&blog_id=42693868&post_id=92226&user_id=262258391&subs_id=225460721&signature=49c2ad01ad66a99838426dd296296c90&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly93d3cubmF0aW9uYWxhZmZhaXJzLmNvbS9ibG9nL2RldGFpbC9maW5kaW5ncy1hLWRhaWx5LXJvdW5kdXAvbGltaXRlZC1zdXBwbHk&email_id=0be13637b155ae3f7db62de94c989187).

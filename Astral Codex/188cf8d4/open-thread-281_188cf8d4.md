@@ -1,0 +1,11 @@
+---
+subject: "Open Thread 281"
+from: "Astral Codex Ten <astralcodexten@substack.com>"
+to: ""
+date: 2023-06-18 17:27:25
+labels: ["Astral Codex", "CATEGORY_PERSONAL", "INBOX", "UNREAD"]
+label_ids: ["Label_6409723252142624155", "CATEGORY_PERSONAL", "INBOX", "UNREAD"]
+---
+This is the weekly visible open thread. Post about anything you want, ask random questions, whatever. ACX has an unofficial [subreddit](https://substack.com/redirect/9a5ff14b-0d9f-423b-a958-d52490ea8be6?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o), [Discord](https://substack.com/redirect/6a69838c-79d6-470f-b238-0a57ce516e1b?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o), and [bulletin board](https://substack.com/redirect/c2f071f9-4c1c-40ca-b570-652d62b1bda7?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o), and [in-person meetups around the world](https://substack.com/redirect/f266d8fb-52e4-4301-9adb-39245f8f8712?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o). 95% of content is free, but for the remaining 5% you can subscribe [here](https://substack.com/redirect/98a62cdb-94e0-4455-b535-b9caf355b360?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o). Also:
+1: Atlanta meetup is still on, scheduled for 3 PM today, [see here](https://substack.com/redirect/7152b5be-8685-400f-a4bb-6fcb37fd92d8?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) for more information.
+2: Comments of the week are [Erica](https://substack.com/redirect/d5096f5f-1e19-49dc-8bad-f2a5f94b7175?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o), [Anthony](https://substack.com/redirect/6561df39-65e0-479f-80de-3f3d28b2400c?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o), [Worley](https://substack.com/redirect/6f80a2ec-495b-4cd4-a72f-4c95da883660?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o), and [Neuromancer](https://substack.com/redirect/2b568b38-f3ef-4d6f-927a-93eae73956c9?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) on the textual history of Njal’s Saga and how it was influenced by later Christians.

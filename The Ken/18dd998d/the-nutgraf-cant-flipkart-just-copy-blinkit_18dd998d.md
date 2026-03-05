@@ -1,0 +1,38 @@
+---
+subject: "The Nutgraf: Can’t Flipkart just copy Blinkit?"
+from: "The Ken <info@the-ken.com>"
+to: ""
+date: 2024-02-24 05:31:27
+labels: ["CATEGORY_PERSONAL", "INBOX", "The Ken", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_8244464457792971031", "UNREAD"]
+---
+There are two ways to look at this.
+One is the “Okay, but can Blinkit really take on Flipkart?” analysis. There are structural reasons why quick-commerce works today (I’ve written about [the 2,000 SKU rule](https://the-ken.com/the-nutgraf/why-10-minute-grocery-deliveries-are-finally-here/)). A lot of these assumptions start to get tested when you try to expand selection on the supply-side, and there are good reasons to believe Blinkit is going to hit a wall pretty soon. If you apply the same scepticism on the demand side, all arguments start to sound like, “How many people really want noise-cancelling headphones urgently in 10 minutes?”. This is somewhat trickier, because a lot of smart people asked the same question about groceries a couple of years ago and dismissed the quick-commerce category as indulgent nonsense, and well, here we are today. Maybe Blinkit can’t really become Flipkart, but it can be an irritating insurgent competitor for a while, at least in certain categories. All of this is fairly obvious, and frankly, a bit dull.
+The more interesting view is from the other side. It’s the “Well, why can’t Flipkart take on Blinkit instead?” proposition. Honestly, 10-minute grocery delivery isn’t really rocket science. All you need is some capital to set up dark stores at strong demand clusters, a reliable logistics network, the right mix of selection, and some good old-fashioned organisational resilience. Flipkart has all of the above. If anything, it has more advantages—such as its long-term, historic relationships with suppliers across categories like beauty, electronics, and mobile phones, which bestows it a more favourable commission and revenue-sharing structure. It’s also in a much more favourable position on the demand side—more people land on Flipkart’s website and apps everyday than they do on Zomato and Swiggy, so acquiring customers is much easier (and cheaper).
+Several others like me have openly wondered: what exactly is the moat that 10-minute grocery companies possess? A few months back, on his podcast, Nikhil Kamath, co-founder of Zerodha, [asked Zepto’s founders](https://www.youtube.com/watch?v=81dWYFopBdc) what was preventing Flipkart from competing with them directly in quick-commerce. They were a bit cagey and didn’t offer any convincing answers. It’s entirely possible that Zepto’s leaders know something we don’t, and didn’t want to reveal their hand, but I doubt it. There are few unknowns in the quick-commerce business, at least up to a certain scale. There isn’t a secret sauce that Zepto uniquely possesses that Flipkart doesn’t already have.
+Also, the correct answer to the question of why Flipkart hasn’t tried quick-commerce is that it has. And not just once, but multiple times. Zepto’s co-founders have only recently graduated beyond teenagers, so it’s not really their fault they were pre-adolescents when Flipkart was experimenting with quick-commerce. In fact, at Flipkart, hyperlocal delivery is like a Batman movie—it gets rebooted in a different style every four years.
+We can imagine how this conversation would play out inside the company:
+CEO: Our big problem is speed. We need to deliver orders faster, ideally in less than an hour. Any ideas?
+SVP 1: Good news, boss, we’ve done that already. We launched Flipkart Quick four years ago, and since then, we’ve scaled it to six cities to deliver groceries in less than 45 minutes.
+CEO: Excellent. So now, we must expand it to more categories—
+SVP 1: But we killed Flipkart Quick in November last year. Don’t you remember? We said that [it wasn’t sustainable](https://www.thehindubusinessline.com/companies/flipkart-reduces-focus-on-instant-delivery-service-flipkart-quick/article66127783.ece), and you said that…
+CEO: Oh… well, okay, never mind about the speed then for groceries. But I want us to deliver an incredible customer experience…
+SVP 2: Absolutely! In fact, one of our goals this year is to not tell repeat customers to get lost.
+CEO: Yes, that’s cor-… wait… what?
+SVP 2: Don’t you remember how [we had to suspend grocery orders and deliveries during the biggest event of the year](https://www.moneycontrol.com/news/business/flipkart-grocery-operations-suspended-thanks-to-huge-big-billion-day-response-11508901.html)? SVP 3 was here and made a full scene about logistics capacity.
+CEO: Ah. Yes. I forgot. Okay, fresh start. Forget groceries. Let’s expand it a bit. Maybe we can deliver all kinds of fast-moving products together. Groceries. Electronic accessories. Soaps. Staples. All delivered in less than an hour.
+SVP 1: Brilliant idea. Just like Blinkit.
+CEO: Exactly. So maybe you can write an operational plan and share it with us next week—
+SVP 2 : Here it is. I found it in my Google Drive. Flipkart Nearby. It says we launched this nearly a decade ago, in 2015.
+CEO: …
+SVP 1: It also says that we killed it in [less than five months](https://www.livemint.com/Companies/HtDM8KSQDcIktzXurKAnTI/Flipkart-shuts-grocery-delivery-app-Nearby.html).
+CEO: What kind of a useless leadership team is this? Some of you need to be fired.
+SVP 1: You already did. [Just last week](https://economictimes.indiatimes.com/tech/technology/flipkarts-top-deck-under-pressure-shake-up-in-senior-ranks-underway/articleshow/107830926.cms?from=mdr).
+Okay fine, I’m exaggerating for effect. But all of this is leading up to something, so stay with me.
+If you talk to people at Flipkart or Amazon, they’ll give you perfectly reasonable explanations why they can’t just simply tack on a quick-commerce service to take on Blinkit. Their underlying tech-stack is built and optimised for resilience, volume, and reliability—not speed—and changing it is a massive undertaking.
+Since they’ve always operated using massive warehouses, their logistics systems process orders in batches, not in real-time. Others will explain to you that Flipkart’s website has millions of products, and even if you narrow it down to a few thousand SKUs, it’s a hard task to get a real-time inventory of whether that particular product is available at the dark store nearest to the customer. Flipkart is a company that has solved for complexity at scale. It houses arguably India’s largest, oldest, and most complicated tech, operations, and logistics systems in-house. Flipkart cannot do 10-minute groceries any easier than it can launch a ride-sharing service. It’s not impossible, but it’s a big, herculean elephant dance.
+Others will give you answers from a strategy standpoint. Flipkart is focused on its IPO, and it cannot afford to have a new, loss-making business unit on its balance sheet that’s messing everything up. Walmart, which owns Flipkart, is also going to ask some hard questions. One can argue that organisational resources are limited, even for a Flipkart or an Amazon.
+That’s one perspective—that Flipkart cannot copy Blinkit.
+Then, there’s the one I believe—that Flipkart doesn’t want to copy Blinkit.
+The former is a question of capability. The latter is one of intent. I believe that intent matters much more. Sure, tech-stacks and big, complicated systems are all plausible reasons for not doing something, but they can all be surmounted by....
+This is an abbreviated version of The Nutgraf emailed to Free Users.

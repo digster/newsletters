@@ -1,0 +1,153 @@
+---
+subject: "The Foreign Policy Paradox: A Two-Part Series"
+from: "Samir Varma from Samir Varma <samirvarma@substack.com>"
+to: ""
+date: 2026-02-02 15:01:42
+labels: ["CATEGORY_PERSONAL", "INBOX", "Samir Varma", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2890205615693839461", "UNREAD"]
+---
+|
+This is Part A of the twentieth in a series exploring India’s unique approach to human diversity. We’ve examined everything from weddings to whiskey, from cricket to caste. Now we explore the foreign policy schizophrenia that defined Cold War India — through the lens of one man who refused to play along.
+Picture my father in his living room, sometime in the early 1980s. He’s reading a Nero Wolfe mystery — one of the continuation novels by Robert Goldsborough, written after Rex Stout’s death. In his hand: a pen. Not to take notes. To correct.
+He’s crossing out “gotten” throughout the entire book.
+Every instance. Methodically. Like a teacher grading a particularly disappointing student.
+“It’s ‘got,’” he’d mutter. “The word is ‘got.’ ‘Gotten’ is barbaric.”
+Here’s what made this delicious: In the original Rex Stout series, Nero Wolfe — the most American of American detectives, a man who weighs a seventh of a ton and solves crimes from a brownstone on West 35th Street — tears pages from Webster’s Third New International Dictionary and burns them in protest against linguistic barbarism. Specifically, the dictionary’s permissive attitude toward informal usage.
+My father was channeling an American character to protest Americanisms. He was imitating Nero Wolfe’s eccentricity while objecting to the English that Nero Wolfe would have spoken.
+It wasn’t just “gotten.” American pronunciations drove him equally insane. “Anti-missile missile” — which many Americans pronounce as “an-tie-miss-el-miss-el” — would make him wince. “Nuclear” as “nucular” was grounds for leaving the room.
+When I pointed out that the British pronounce “Featherstonehaugh” as “Fanshaw,” “Cholmondeley” as “Chumley,” and “Cirencester” as “Chichester,” he’d harrumph. Logic had no place in this argument. Standards were standards.
+He also insisted — despite all evidence, and no matter how many times my mother and I pointed it out — that “colleague” was pronounced “coll-ee-gah” on both sides of the Atlantic. The correct pronunciation, he maintained, was “cuh-lee-gah.” Nothing would change his mind. He would continuously criticize every Indian who used the (admittedly ghastly) “coo-leeg.”
+My mother unkindly pointed out that the Oxford dictionary distinguishes between “intelligence” and “intelligence (military).”
+He did NOT like this joke.
+His bookshelves told the larger story. Rex Stout occupied a full shelf. Art Buchwald, the Washington humor columnist. American magazines everywhere. He consumed American culture voraciously — the ideas, the literature, the politics — while insisting that British English was the only proper English.
+This wasn’t just eccentricity. This was India in miniature.
+My father’s position and India’s official position were both pro-American and anti-American. Just in completely opposite ways.
+My father: - LOVED: American ideology — freedom, capitalism, anti-communism, US foreign policy (except when directed at India) - HATED: American English, American spelling, American friendliness - The irony: he himself was incredibly friendly
+India’s official position: - LOVED: Americans as people, American tourists, American goodwill - HATED: Capitalism (officially), US foreign policy, American “imperialism” - INDIFFERENT: American English vs. British English (didn’t care)
+They were pro-American and anti-American in completely opposite ways. My father loved America’s politics and hated its grammar. India didn’t care about America’s grammar and hated its politics.
+The schizophrenia wasn’t just ideological — it was material. The very same officials in charge of socialist policy would insist on being invited to American cocktail parties. Not for the diplomacy. For the Coke, the gum, and the Scotch (ironically, not American whisk(e)y) — unavailable in the socialist paradise they were building.
+Morning: Give speech in Parliament denouncing American imperialism and capitalist exploitation.
+Evening: “Excuse me, is my name on the list for the Ambassador’s July 4th party? I hear you’re serving Johnnie Walker Black.”
+The American diplomats, to their credit, were extraordinarily patient with this bullshit. They’d pour Johnnie Walker for ministers who’d denounced “American imperialism” that morning. They’d process visa applications for family members of politicians who publicly called America the enemy of the Third World.
+“Can you please help my nephew get into Stanford?”
+“Of course, Minister. See you at the reception Thursday?”
+The private ask and the public stance had nothing to do with each other. Everyone knew it. Everyone played along. The Americans got their access; the Indians got their Scotch. The only people who didn’t benefit were the Indian citizens who actually believed the socialist rhetoric — while their leaders were drinking imported whisky and sending their children to American universities.
+And it wasn’t just cocktail parties. The entire educational system had this schizophrenia.
+We had to read American literature as part of our High School English course — Hemingway, Steinbeck, the classics. But we could not use the spellings in that precise literature when answering questions. If you quoted Hemingway, you had to change his spellings.
+“The old man looked at the color of the sea...”
+WRONG. Minus marks. It’s “colour.”
+“But sir, that’s what Hemingway wrote—”
+“I don’t care what Hemingway wrote. This is the CBSE/ICSE examination. British spellings only.”
+So you were being tested on your understanding of American authors while being penalized for writing the way they wrote. You had to translate Hemingway into British English to prove you understood Hemingway.
+India: consuming American content, rejecting American form. Loving the substance, hating the surface. The contradictions didn’t just coexist — they were policy.
+Fifty yards from our house lived the telephone repairman for the US Embassy. Not a diplomat. Not an official. The man who fixed phones.
+He lived in a beautiful house. His son — I knew him — had a wonderful life.
+In socialist India, a telephone repairman was a government peon. Probably making a few hundred rupees a month. Probably waiting years to get a phone line installed in his own home. Living in cramped government quarters if he was lucky.
+But this man worked for the Americans. And at the bottom of the American system, he lived better than most Indians even close to the top.
+I was six, seven, eight years old. I didn’t know the word “capitalism.” I didn’t know who Milton Friedman was. But I knew something was deeply wrong with the explanation I was being given — that socialism was for the people, that America was exploitative, that our system was more just.
+How, how, how can the telephone repairman have such a great life?
+That question led me to economics. That question led me to Friedman. That question is why, decades later, I still check “Other” on race forms and write “Human” — because I learned early that systems matter more than identities, and that the system 50 yards away was producing better lives for telephone repairmen than our system was producing for engineers.
+(I tried to teach his son Ed cricket. He got bored pretty quickly. Forty years later, the IPL is worth $18.5 billion and Americans still don’t care. Some things don’t change.)
+Speaking of systems.
+My parents were educated professionals. My father was a Navy Commander. My mother was a barrister — trained at Lincoln’s Inn, one of the four ancient Inns of Court in London, where lawyers have been called to the bar since the fifteenth century. Combined monthly salary: about $16.
+Our cook owned land in the mountains. He rented it out. He was, in the technical economic sense, a capitalist.
+He lent us money. Multiple times. So we could eat.
+I am not making this up.
+Oh, and the cook? He was a Brahmin. The highest caste in the Hindu hierarchy. His name was Ganga Dutt — “Ganga” as in the Ganges, the holiest river in Hinduism.
+And he had been “lent” to us by my mother’s mother, since he was originally her servant and we had no help. I have no idea who paid him during that time. Servants, you see, could be lent between family members — like furniture, or crockery.
+So: the Brahmin named after the sacred river was the servant. The servant had been lent to us by my grandmother. The lent servant was actually a capitalist. The capitalist lent money to his educated elite employers — the Navy Commander and the Lincoln’s Inn barrister — who couldn’t afford breakfast cereal for their child.
+I’m quite sure Ganga Dutt never told anyone about the dire financial straits of his “employers” — that he was lending them money to eat. He protected our dignity while being our financial lifeline. He must have been paid back eventually, somehow, since he stayed with us for more than ten years.
+Any statement you make about India is true. As is its opposite. Sometimes in the same household.
+More than once, there wasn’t enough money for food. So my father made us omelettes on top of a fire made with wood in the fireplace. He was a darned good cook, and those were great omelettes, but I was always puzzled by why we were cooking in the fireplace instead of the kitchen. I was too young to understand that the answer was “because we can’t afford cooking gas.”
+Other times, we didn’t have enough money for my breakfast cereal — Nestum, it was called. So creative methods were employed. Buy very cheap corn flakes. Crush them. Add milk. Hey presto — instant Nestum!
+I loved those crushed corn flakes. I had no idea they were a poverty hack.
+So let me paint the picture of socialist India for you: The Brahmin “servant” owned capital, generated rental income, and had enough savings to lend money to his employers. The “elite” Navy Commander and his wife couldn’t afford breakfast cereal for their child and cooked omelettes in the fireplace because they couldn’t pay for gas.
+The telephone repairman for the American Embassy, fifty yards away, lived beautifully.
+The system was working exactly as designed. Just not for the people it claimed to help.
+My father was the “face” of Indian sports commentary on Doordarshan — which literally means “far view.” Given the quality of Indian state television, “NahinDarshan” (no view) would have been more accurate.
+He was the most prominent sports and military commentator of his time. This was a hobby that cost him money — a decent hotel was about 5X per day what his pay was for the cricket match he was commentating on. Not to mention that the star performer on Indian Television was “Rukhavat ke liye khed hai” — “Sorry for the interruption.” This message appeared so frequently it should have had its own time slot.
+But my father was unique: he was the only commentator at the time who had actually played any of the sports he commentated on. Cricket, field hockey, tennis, golf (scratch handicap), badminton — his motto was “if it has a ball, I’ll do it.” (Badminton was grandfathered in on account of having a shuttlecock.)
+So naturally, when India was preparing to cover the 1980 Moscow Olympics, my father was the face of the planned coverage.
+There was just one problem.
+They didn’t ask him.
+They started the publicity campaign — “Watch Commander Varma in Moscow!” — splashed his face across promotional materials, announced the coverage plans. Weeks into the campaign, someone finally thought to confirm with the actual Commander Varma.
+His answer: “I will NOT associate with communists.”
+They tried everything. Government officials. Television executives. Friends. Probably family. Appeals to patriotism. Appeals to professionalism. Appeals to his career.
+The answer was always the same. He would not go to Moscow. He would not lend his face and his credibility to legitimizing the Soviet regime.
+The US-led boycott of the Moscow Olympics? India ignored it — “non-aligned,” remember? The Indian government sent athletes, sent cameras, sent everyone.
+Everyone except Commander Varma.
+He covered the games. From the studio in Delhi. The face of Indian Olympic coverage, refusing to set foot in the communist capital.
+I don’t think I was ever prouder of a parent than that.
+In a “non-aligned” country, one man actually practiced non-alignment — he refused to align with the Soviets while his own government was sending athletes and cameras to their Olympics. The socialist state broadcaster had just assumed he’d go along. Because who turns down the Olympics?
+A man who won’t associate with communists, that’s who.
+My father wasn’t just an armchair contrarian. He worked at it.
+He was one of the very few members of the Indian “elite” who would openly advocate for American cooperation. Not secretly, at cocktail parties, while publicly denouncing imperialism. Openly. In a country where associating with Americans was viewed with suspicion by the establishment.
+Every US Ambassador through the late 1980s was a personal friend. Not through back channels. Through the front door.
+His assessment of the Indian foreign policy establishment? “Morons blinded by ideology.” He said this. Not quite publicly, but not secretly either. About people who controlled government contracts and social access.
+The US Ambassador once asked my father if he could help locate missing American servicemen in Vietnam.
+The logic: India and Vietnam were both “socialist” — they had a friendly relationship. India could use its “good offices” to facilitate Vietnamese cooperation in finding remains, prisoners, information about missing Americans.
+My father wrote a brief. It was presented to the Indian government at the highest levels. It was looked upon “favorably.”
+What happened after? Unknown. Lost to history. Probably buried in bureaucratic files somewhere in South Block, next to the plans for economic reform and the proposals for sensible visa policy.
+But think about what this meant: Here was one man trying to help Americans find their dead sons, in a country where the government was busy denouncing American “imperialism.” While socialist ministers were begging for Scotch at Embassy parties, my father was actually trying to do something useful for the relationship.
+India recognized Israel on September 17, 1950 — one of the earliest countries to do so. At the time, Nehru explained the delay since Israel’s 1948 founding: “We would have recognized Israel long ago, because Israel is a fact. We refrained because of our desire not to offend the sentiments of our friends in the Arab countries.”
+Translation: We acknowledge you exist. But we still won’t talk to you.
+And then: India refused to establish full diplomatic relations for 42 years.
+My father’s position: Full diplomatic relations. Obviously. Two democracies. Shared enemies. Common interests.
+The establishment response: Unthinkable. What about the Arabs? What about the Muslim vote?
+In 1985 or ‘86, home from Columbia on vacation, I asked India’s Foreign Secretary — the equivalent of America’s Secretary of State — why India and Israel weren’t natural allies.
+His response: “Of course they are. We just don’t admit it.”
+I pressed: Why not acknowledge it?
+“Yes, yes, someday.”
+“Someday” took another six or seven years. In 1992, India suddenly “discovered” what its Foreign Secretary had casually admitted to a college kid over drinks in Delhi: that India and Israel were natural allies. The man responsiblefor Indian foreign policy knew the policy was fiction. He just couldn’t — or wouldn’t — change it.
+My father had been saying this for decades. The Foreign Secretary agreed with him. Everyone agreed with him. They just couldn’t admit they agreed with him.
+India: where the government’s private position and public position have nothing to do with each other, and everyone knows it, and nobody does anything about it. Until “someday” finally arrives.
+The Indian government, in its infinite wisdom, insisted that the can-be-counted-on-one-hand American students coming to India could only get single-entry visas. The US reciprocated: single-entry visas for Indians.
+I got a single-entry visa. Once I entered the US for Columbia, I couldn’t leave. If I went to Canada for a weekend, I couldn’t get back in. Niagara Falls was tantalizingly close and completely off-limits.
+I complained to the chief visa officer at the US Embassy, who explained the situation with diplomatic patience: “Ask your government to fix it.”
+I told my father. He spoke to people in the Indian foreign ministry. They fixed this idiocy. In a matter of weeks, a policy that had inconvenienced thousands of students was changed because one retired Navy Commander knew the right people.
+I went back to the US Embassy. The lower officials refused to change my visa — “That’s not our policy.” Finally reached the chief guy, who remembered me.
+“You asked me to get this fixed. I did. Now give me my multiple-entry visa.”
+He did. He was laughing when he stamped it.
+This is how Indian foreign policy worked — petty, ideological, counterproductive, and often fixed only through personal connections rather than common sense. A policy that hurt Indian students, accomplished nothing diplomatically, and required back-channel intervention just to apply basic logic.
+The Americans, I should say, were remarkably gracious in return.
+Every visa I ever received from the US Embassy in Delhi in the early 1980s was gratis. I don’t believe I ever paid for a visa. The Embassy knew our family. They knew my father’s positions. They knew we weren’t playing the game where you denounce America by day and beg for favors by night.
+Col. Porter King, the defense attaché at the Embassy, was one of my father’s closest friends. When he was leaving India to return to the US, he promised me something that made six-year-old me delirious with joy: six thousand comics. His collection. Too heavy to ship home, he said. They’d be mine.
+Six thousand. In socialist India, where comics were expensive luxuries, this was unimaginable wealth. I spent weeks in the highest of high spirits. I had cleared out a lot of stuff to make room on my shelves. Stuff I liked, but didn’t like anywhere near as much as 6000 comics.
+Then the movers came, packed everything up without apparently asking him, and shipped it all to America.
+I never got my comics.
+I’m a grown man. I’ve had real disappointments. But I’d be lying if I said this one doesn’t still sting a little. Six thousand comics, promised and lost. The socialist shortage economy meant I couldn’t just go buy replacements. They were gone.
+Col. King, if you’re out there — or if your family is reading this — I forgive you. Mostly. The movers, I do not forgive.
+I became a Miami Dolphins fan in 1982, watching a smuggled VHS tape of Super Bowl XVII. They lost to the Redskins, but I was hooked. When I arrived at Columbia in 1984, I had a ready-made team while everyone else rooted for the Giants (ugh) or Jets (double ugh). (By the way, Giants and Jets fans, your teams have played in New Jersey for ever. Why are they the “New York” Jets/Giants? Huh? I rest my case. Ugh and double ugh!)
+But pre-internet, when I came home for holidays, there was no way to follow American football in India. So we’d call the Embassy. A friend of my father’s would read me the four-day-old USA Today sports scores over the phone.
+The Dolphins beat the Patriots 28-13. The Dolphins lost to the Jets 17-14.
+Four days late, relayed by a diplomat to a college kid 8,000 miles away, because there was simply no other way to know.
+That’s the part people don’t understand about American diplomacy. Yes, there was Nixon and Kissinger. Yes, there was the Seventh Fleet in the Bay of Bengal. But there was also a guy in the Delhi Embassy, taking ten minutes out of his day to read sports scores to a kid who loved football.
+The Americans excelled at this simple human kindness. So did the British and Australians. From the tin-pot little European countries (the same tin-pot dictatorial bureaucrats that ruined field hockey), you’d occasionally get a whiff of “who are these dirty Indians” — not entirely unjustified, I hasten to add. But from the Americans, the British, the Australians? Never. Not even a hint.
+The British High Commissioner and American Ambassador knew I loved After Eights — those chocolate mints. They’d give me boxes whenever they saw me. Keeblers too, from the Americans. In a normal country, this is a nice gesture. In socialist India, where you couldn’t buy these things at any price, it was magic.
+I still remember those boxes. I still remember the kindness.
+Here’s what nobody tells you: America helped birth India.
+Roosevelt actively lobbied Churchill for Indian independence.
+Roosevelt to Churchill: “India should be made a commonwealth at once... every year the Indian people have one thing to look forward to, like death and taxes — a famine.”
+Churchill’s response: Gandhi “ought to be lain bound hand and foot at the gates of Delhi, and then trampled on by an enormous elephant.”
+Churchill really said this. About the man who would become the face of peaceful resistance. With an elephant. The British Empire had a branding problem.
+The Atlantic Charter — that foundational document of the post-war order, with its ringing declaration of self-determination for all peoples — explicitly excluded India at Churchill’s insistence. Roosevelt kept pushing. Churchill kept refusing.
+250,000 US soldiers were stationed in India along the China-Burma-India border during World War II. They saw what British colonialism looked like up close. They wrote home about it.
+After the war, Britain was bankrupt — owed the US four times its 1939 debt level. American pressure on decolonization was real. It wasn’t the only factor in Indian independence, but it was a factor.
+The ungrateful irony: Within a decade of independence, India was lecturing America about morality while cozying up to Stalin’s USSR.
+My father knew this history. He reminded people of it. They didn’t want to hear it.
+For a brief moment, things had been good. Kennedy and Nehru. American aid during the 1962 China war — emergency airlifts, intelligence sharing, a planned $500 million military aid package. The possibility of genuine partnership.
+Kennedy’s final approval meeting was scheduled for November 26, 1963. He was assassinated days earlier in Dallas.
+Then Richard Nixon and Henry Kissinger decided to take a personal dislike to India. And my father — the eternal optimist about American rationality — would spend the rest of his life explaining why Nixon and Kissinger were anomalies, not the norm.
+But to understand what Nixon and Kissinger did, you have to understand what Kennedy almost did. And to understand that, you have to understand the day an American aircraft carrier threatened to bomb my kindergarten party.
+Here’s my coda, and I won’t apologize for it: The United States, for all its zillions of faults, is a KIND country. I won’t hear a word against it.
+Not because it’s perfect. Nixon and Kissinger were moral disasters. American foreign policy has produced horrors. I know the list. Just read [Overthrow](https://substack.com/redirect/f572e05b-955d-44fd-a4b4-a9ba1d7f971b?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) by Stephen Kinzer. I know what the US has done.
+But it is unwise to judge a nation by its very worst people.
+And I know what I saw. The telephone repairman with the beautiful house. Col. Porter King promising comics to a kid. The Embassy waiving visa fees for a family that had been honest friends. A diplomat reading four-day-old sports scores over the phone because a college student wanted to know how the Dolphins did. After Eights and Keeblers, given to a child who couldn’t buy them at any price in his own country. Simple human kindness, over and over, from people who had no obligation to be kind.
+The morons who BLINDLY fulminate against America are no different from the morons who comprised the Indian socialist intelligentsia — denouncing capitalism while begging for visas, attacking imperialism while angling for Embassy party invitations, lecturing the world while their own people starved.
+In fact, come to think of it, they’re the same people. Just citizens of different countries. Same tribal certainty. Same inability to see complexity. Same refusal to let evidence disturb their priors.
+My father knew the difference. He saw America clearly — the good and the bad — and chose to align with a country that, for all its failures, was fundamentally trying to be decent. He was right.
+And forty years later, in an India that has quietly become one of the most pro-American countries in the world, everyone finally agrees with him. They just won’t admit it was people like him who were right all along.
+Part B — “The Betrayal” — coming next.
+If you like this, you will like my book, [The Science of Free Will](https://substack.com/redirect/35e137a9-ac61-45ef-a91f-33a42f3122fc?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o). I have a lot of interesting stuff in it from why we can’t trade with ants (they can detect cancer) and what does that have to do with the future of AI to why we need a Supreme Court if the world is deterministic. You can get it on [Amazon](https://substack.com/redirect/35e137a9-ac61-45ef-a91f-33a42f3122fc?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) or anywhere else that books are sold.
+The India Paradox is a series exploring how the world’s most diverse democracy somehow functions despite — or perhaps because of — its beautiful contradictions. Past posts can be found at https://www.substack.com/@samirvarma.
+Samir Varma is free today. But if you enjoyed this post, you can tell Samir Varma that their writing is valuable by pledging a future subscription. You won't be charged unless they enable payments.

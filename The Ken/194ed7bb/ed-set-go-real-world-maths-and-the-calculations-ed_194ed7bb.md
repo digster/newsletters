@@ -1,0 +1,33 @@
+---
+subject: "Ed Set Go: Real-world maths and the calculations edtechs should make"
+from: "The Ken <info@the-ken.com>"
+to: ""
+date: 2025-02-10 01:31:34
+labels: ["CATEGORY_PERSONAL", "INBOX", "The Ken", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_8244464457792971031", "UNREAD"]
+---
+|
+|
+Ed Set Go
+Mon, 10 Feb 25
+The one stop to understand the biggest shifts in education, written by the best edtech journalist in the country..
+Good Morning Ishan,
+Welcome to a brand-new week! My news feed, these last few days, has been taken over by bold proclamations about the revival of Indian edtech. US-based edtech investors GSV Ventures were in the country for one of the several events they do for their Indian portfolio. The big feather in their cap is Physics Wallah, and they, like other investors in the sector, have pinned their hopes on the low-cost, high-volume business model adopted by the edtech company.
+These hopes, in part, are fueled by the introduction of AI. Micheal Moe, GSV’s founder and CEO, said in an [interview](https://yourstory.com/2025/02/india-entrepreneurial-spirit-ai-future-edtech-gsv-ventures-michael-moe) that his firm would find it “hard to be interested” in a company that wasn’t using AI in any significant way. AI could further the objective of “just-in-time” learning as opposed to “just-in-case” learning, he claimed, adding: “What it does is allow anybody, anywhere, to have access to the greatest learning experience that they could imagine.”
+Personalised learning, flexible in terms of space and time, is the inherent promise of edtech. These companies promise to make static subjects, dead on a page in a book somewhere, come alive. Edtechs have poured millions of dollars into developing tech, content, and talent that would lead them to the right pedagogy—the kind that takes memorised knowledge and helps students apply it to a variety of situations. Simply put, are students able to grasp the concept, or are they just following steps?
+There are a number of things that happen to me when I’m asked to solve a mathematics problem. First, I obviously panic. Once the blood is flowing freely to my brain again, I immediately use paper and pen to start breaking down the problem. I’ve never been able to conjure up numbers in my brain and combine them to come up with an answer.
+Turns out, children who work in the markets Delhi and Kolkata can do these calculations with ease, according to a [new study](https://www.nature.com/articles/s41586-024-08502-w) by the Nobel Prize winning duo Esther Dufflo and Abhijit Banerjee. The couple, along with their co-authors, show through their paper that children who work in markets can add, subtract, multiply, and divide numbers when they’re in the real-world situation of selling something.
+The surveyors who implemented the study in these markets went undercover as consumers and bought different quantities of the same product, like potatoes, or bought different quantities of different products simultaneously, and then handed the children currency notes that would require the latter to mentally calculate the total cost and the change.
+The surveyors then repeated the exercise by presenting hypothetical situations to the kids to check if there was a method to their calculations or whether they had just recalled these figures from memory.
+Our results suggest that the arithmetic skills acquired in markets extended beyond rote memorization and were transferable to new problems within the realm of market transactions, but with some loss. On average, across both transactions, 52% of the children correctly solved the hypothetical transaction either on the first try or after self-correction despite the challenges of retaining new information about unfamiliar goods, prices and units. They did so without help, without the use of calculators and without using pen and paper.
+There’s an interesting twist here: the same children, when presented with an abstract, grade-level question from a mathematics textbook, struggled to solve the problem. Even though the operations required for mental calculations in the market were more complicated than the ones presented to them in written form, when these problems were worded in an abstract way, the kids struggled.
+The authors also studied what’s happening with students in the classroom. These were able to solve the abstract problems on pen and paper—with no time constraints—more accurately than the children who were working. But when it came to applying their skills in a “pretend market” situation, where they had to mentally solve the same type of problems, they struggled.
+In an [interview](https://news.mit.edu/2025/study-shows-kids-use-different-math-skills-work-vs-school-0205) with the Massachusetts Institute of Technology, Dufflo said the researchers were able to tap into a few strategies that the working kids were using:
+“The market kids are able to exploit base 10, so they do better on base 10 problems,” Duflo says. “The school kids have no idea. It makes no difference to them. The market kids may have additional tricks of this sort that we did not see.” On the other hand, the school kids had a better grasp of formal written methods of division, subtraction, and more.
+The study raises the obvious but still important question—how can kids be taught to apply their maths knowledge to a variety of contexts instead of just trying to pass an exam? This is the goal of “conceptual learning”, something that edtechs say they’re after. And now, they want AI to make that job easier for them.
+But as this study shows, the answer to applied learning may not lie just in individual settings, but also real-world situations that press kids to find new strategies to learn. Maybe AI can help create those situations in class, or tuitions, or coaching centers. AI can even pretend to be the nosy consumer from the study, and ask students to do a series of calculations mentally.
+There are, of course, many ways to approach the question of conceptual learning. My point is, having dedicated AI tutors in India, if that indeed is the goal that everyone’s working towards, isn’t enough. If AI tutors continue to press on the same pen-and-paper strategies that kids have always used, you’re going to make them more efficient exam-takers, but not improve their ability to “apply” their knowledge in new contexts.
+As the new study states, there needs to be a middle ground between what happens in class and what happens in the market. Maybe AI’s real contribution will be to establish that.
+That’s all for this week, folks! Write to [edsetgo@the-ken.com](mailto:edsetgo@the-ken.com) with your thoughts and feedback.
+Regards,
+Olina

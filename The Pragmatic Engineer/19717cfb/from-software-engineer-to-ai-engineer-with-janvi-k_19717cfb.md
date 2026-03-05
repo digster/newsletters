@@ -1,0 +1,133 @@
+---
+subject: "From Software Engineer to AI Engineer – with Janvi Kalra"
+from: "The Pragmatic Engineer <pragmaticengineer@substack.com>"
+to: ""
+date: 2025-05-28 16:52:04
+labels: ["CATEGORY_PERSONAL", "INBOX", "The Pragmatic Engineer", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_6413324878686416177", "UNREAD"]
+---
+|
+Listen and watch now on [YouTube](https://substack.com/redirect/1bc277a6-2a63-4899-9d02-d3f87931bbad?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o), [Spotify](https://substack.com/redirect/f0b94d1b-7300-4ddc-854a-25fa64f52517?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) and [Apple](https://substack.com/redirect/91753266-c6a9-4da2-8fb9-2b7e6556082d?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o). See the episode transcript at the top of this page, and timestamps for the episode at the bottom.
+[Statsig](https://substack.com/redirect/63c321d7-46c9-4677-a33d-7512c9a1ce30?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)[](https://substack.com/redirect/2bc8ee03-a7a0-4bfe-bd31-7d761392f637?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)—[](https://substack.com/redirect/2bc8ee03-a7a0-4bfe-bd31-7d761392f637?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)The unified platform for flags, analytics, experiments, and more.[Sinch](https://substack.com/redirect/63866f8d-813f-4481-bd8c-92ec2189e3a7?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)[](https://substack.com/redirect/2bc8ee03-a7a0-4bfe-bd31-7d761392f637?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)— Connect with customers at every step of their journey.
+—
+What does it take to land a job as an AI Engineer—and thrive in the role?
+In this episode of The Pragmatic Engineer, I’m joined by [Janvi Kalra](https://substack.com/redirect/c278141e-d04b-4781-a8f8-10d64a00de5c?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o), currently an AI Engineer at OpenAI. Janvi shares how she broke into tech with internships at top companies, landed a full-time software engineering role at Coda, and later taught herself the skills to move into AI Engineering: by things like building projects in her free time, joining hackathons, and ultimately proving herself and earning a spot on Coda’s first AI Engineering team.
+In our conversation, we dive into the world of AI Engineering and discuss three types of AI companies, how to assess them based on profitability and growth, and practical advice for landing your dream job in the field.
+We also discuss the following:
+How Janvi landed internships at Google and Microsoft, and her tips for interview prepping
+A framework for evaluating AI startups
+An overview of what an AI Engineer does
+A mini curriculum for self-learning AI: practical tools that worked for Janvi
+The Coda project that impressed CEO Shishir Mehrotra and sparked Coda Brain
+Janvi’s role at OpenAI and how the safety team shapes responsible AI
+How OpenAI blends startup speed with big tech scale
+Why AI Engineers must be ready to scrap their work and start over
+Why today’s engineers need to be product-minded, design-aware, full-stack, and focused on driving business outcomes
+And much more!
+Some of the most interesting topics discussed in the conversation were these:
+1. Teaching yourself the basics is still a great way to get into AI Engineering. Janvi wanted to move onto Canva’s first AI Engineering team, but she was politely rejected at first. Instead of giving up: she started to teach herself how to build apps using LLMs. She went to hackathons, educated herself online, and built apps on the side.
+A few months later, she was already one of the experts at work on how to work with LLMs. So the next time Canva’s AI team was expanding, the team was thrilled to have her on! My two cents: it’s much easier to transfer internally, so if you are hoping to get into AI, see if you can do something similar to what Janvi did.
+2. AI Engineering interviews are all over the place. Janvi got a broad look at the AI Engineering job market, thanks to interviewing with 46 different companies (!) There doesn’t seem to be an “AI Engineer interview” format. Instead, interviews are a mix of:
+Leetcode-style algorithmic interviews
+System design interviews
+Project-based takehomes where you need to build an app
+Domain deepdives into LLM specifics
+This means that the best way to prepare for these interviews is to prepare for software engineering interviews: build products using LLMs on the side, and familiarize yourself with [common AI Engineering concepts](https://substack.com/redirect/4c017dcb-22f9-4095-a5ed-1e1daf49aeea?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o).
+3. Do your due diligence before joining a startup. Startups are far more risky than most other types of companies: they can grow fast, but they can fail fast as well. And yet, most engineers don’t do nearly enough due diligence before deciding to leave their current position to join a startup. Janvi tried to assess startups based on:
+Revenue growth rate: how much money is the company making, and how is this growing? Startups with steep revenue growth are far more likely to be able to easily raise next rounds of funding.
+Market size: how large is the market that the startup is taking an aim at?
+Customers: how loyal or obsessed are customers with the startup’s product?
+Competition: who are the startup's competitors, and how well is the startup doing against them?
+Janvi shares tactics on how she conducted due diligence: from using the startups’ products through digging through online forums and turning to well-researched publications like The Information.
+4. AI Engineering blurs the lines between “traditional” roles. At OpenAI, the lines between data scientists, frontend engineers, backend engineers and PMs are a lot more blurred. Everyone is expected to do a bit of everything, and so engineers are becoming more “full stack.” But this is true for data scientists and product managers.
+Another interesting part of AI Engineering is how you need to be more comfortable throwing away your work when a new model capability renders it less useful.
+Here is how Janvi summarized her mental model on the upsides of working at a large tech company versus working at a startup. The following quotes are [from 12:20 in the conversation](https://substack.com/redirect/f96ea8fa-6b5b-435d-a46d-6a35ecf6f5a5?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o):
+Big Tech upsides:
+Learn how to build reliable software for scale. “It's very different to build something that works versus build something that works when it's swarmed with millions of requests from around the world, and Redis happens to be down at the same time. These are very different skills.
+Get to work on more moonshot projects that aren't making money (yet). “Large tech companies don't have the same existential crisis that startups do. And so they can work on things like AR or VR research and similarly ambitious projects.”
+Green card. “Working at Big Tech, I'd get my green card faster.”
+Pay. “At Big Tech, I'd get paid more on average.”
+Prestige. “The unfortunate reality is that the role does hold more weight. People are more excited about hiring an L5 Google engineer versus an L5 from a startup, especially if that startup doesn't become very successful.”
+Startup upsides:
+Ship more. “You just ship so much code! There are more problems than people, and so you get access to these zero-to-one green field problems that you wouldn't necessarily get where at Big Tech, maybe where there are more people than problems.”
+Broaden your skillset. “Another upside is the breadth of skills. And this is not just in the software engineering space. Right from a software engineering space, maybe one quarter you're working on a growth hacking frontend feature, in the next quarter you're writing Terraform. But even in terms of the non-technical skills, you get an insight into how the business works and you're expected to PM your own work.”
+More agency. “You get more agency in what you work on. You get the opportunity to propose ideas that you think would be impactful for the business and go execute on it.”
+([00:00](https://substack.com/redirect/c5a63dc7-774e-41db-b315-4bb3a71c7722?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) Intro
+([02:31](https://substack.com/redirect/07b76456-c393-41ce-8aa1-e0c2cf540100?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) How Janvi got her internships at Google and Microsoft
+([03:35](https://substack.com/redirect/19e50c40-b5d1-42fa-8d5e-391adde1552a?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) How Janvi prepared for her coding interviews
+([07:11](https://substack.com/redirect/185b3bfb-1729-4981-bdce-36034d2e5b5a?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) Janvi’s experience interning at Google
+([08:59](https://substack.com/redirect/56e028f0-c211-43a0-9aad-4831ac76d7ee?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) What Janvi worked on at Microsoft
+([11:35](https://substack.com/redirect/6b240c35-2e6e-46c9-869d-9f19fb14a429?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) Why Janvi chose to work for a startup after college
+([15:00](https://substack.com/redirect/44783591-b35b-4c2f-8da9-12baf0bea2cd?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) How Janvi picked Coda
+([16:58](https://substack.com/redirect/5920eb5c-4b16-4b74-b46a-c6ec3ad14aae?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) Janvi’s criteria for picking a startup now
+([18:20](https://substack.com/redirect/c8feaaf8-290e-4413-b5c3-b70e43878f78?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) How Janvi evaluates ‘customer obsession’
+([19:12](https://substack.com/redirect/e7b6ef09-38bd-406d-9a51-e498db1f4491?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) Fast—an example of the downside of not doing due diligence
+([21:38](https://substack.com/redirect/57b108de-afbe-45a4-88c0-3e631b1a9f5f?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) How Janvi made the jump to Coda’s AI team
+([25:48](https://substack.com/redirect/95796353-96d5-4b6b-9a7b-e09efe956de1?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) What an AI Engineer does
+([27:30](https://substack.com/redirect/19b9d2f1-1512-4e77-a2a3-d80393d31a07?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) How Janvi developed her AI Engineering skills through hackathons
+([30:34](https://substack.com/redirect/9b13b827-e182-4372-90b2-07ee7eea9d45?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) Janvi’s favorite AI project at Coda: Workspace Q&A
+([37:40](https://substack.com/redirect/24150529-a4d9-4121-885a-a6ed56ebdacb?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) Learnings from interviewing at 46 companies
+([40:44](https://substack.com/redirect/47a29e87-95e3-4d6b-9ecf-dfa01cb2187b?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) Why Janvi decided to get experience working for a model company
+([43:17](https://substack.com/redirect/d05255cb-7f12-4817-8d73-0d940054d484?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) Questions Janvi asks to determine growth and profitability
+([45:28](https://substack.com/redirect/22913707-6004-4714-82aa-cbbe178e439b?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) How Janvi got an offer at OpenAI, and an overview of the interview process
+([49:08](https://substack.com/redirect/091847e5-2547-42ca-8e6c-460b5f11fb27?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) What Janvi does at OpenAI
+([51:01](https://substack.com/redirect/f2edbd0b-0413-4f2f-9e15-0d5eb5b539a5?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) What makes OpenAI unique
+([52:30](https://substack.com/redirect/b8f74522-0920-43fd-8120-07cecbf3f290?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) The shipping process at OpenAI
+([55:41](https://substack.com/redirect/84c20410-b52a-45a9-b8ef-95ae13a34a9d?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) Surprising learnings from AI Engineering
+([57:50](https://substack.com/redirect/4a0d2796-fb4b-4ff5-8a23-f0e533a11853?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) How AI might impact new graduates
+([1:02:19](https://substack.com/redirect/fe6e8b84-3d00-463d-81ff-43d40cd30575?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) The impact of AI tools on coding—what is changing, and what remains the same
+([1:07:51](https://substack.com/redirect/21d34554-f0c2-4a2f-b3e6-0bb89704591b?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) Rapid fire round
+Where to find Janvi Kalra:
+• X: [https://x.com/janvikalra_](https://substack.com/redirect/8134279d-0dc4-469c-babe-454e7e214965?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+• LinkedIn: [https://www.linkedin.com/in/janvi-kalra/](https://substack.com/redirect/c278141e-d04b-4781-a8f8-10d64a00de5c?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+• Substack:
+Mentions during the episode:
+• Dartmouth: [https://home.dartmouth.edu/](https://substack.com/redirect/664b8f9b-7298-49aa-8862-c86b37b9e2e3?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+• Neet Code: Blind 75: [https://neetcode.io/practice?tab=blind75](https://substack.com/redirect/e32b9809-2dc8-49cf-947c-a9b6306f0288?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+• Cracking the Coding Interview: 189 Programming Questions and Solutions: [https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850](https://substack.com/redirect/a2ad62db-1fda-4054-a545-4bf55ddea6f5?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+• Gayle Laakmann McDowell’s website: [https://www.gayle.com/](https://substack.com/redirect/d1c5ede9-16ec-437a-81c5-c19fc777274d?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+• Coda: [https://coda.io/](https://substack.com/redirect/611e7f25-422b-492d-aed6-d7dd0f53e157?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+• Inside Fast’s Rapid Collapse: [https://newsletter.pragmaticengineer.com/p/the-scoop-fast](https://substack.com/redirect/20d2b92d-0c20-42bd-93c6-7d1d87b47e8f?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+• Going from 0 to 600+ users in six weeks:
+• Braintrust: [https://www.braintrust.dev/](https://substack.com/redirect/6c191423-e0b4-431b-b7e4-b90ad250fc34?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+• Llama 3 Hackathon Summary: [https://lablab.ai/event/llama-3-ai-hackathon](https://substack.com/redirect/34144173-3b04-496d-b26a-6a5ffea5ce6d?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+• AI Engineering with Chip Huyen: [https://newsletter.pragmaticengineer.com/p/ai-engineering-with-chip-huyen](https://substack.com/redirect/5e8a453a-569d-470f-afb7-8571293bbb4b?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+• AI Engineering: Building Applications with Foundation Models: [https://www.amazon.com/AI-Engineering-Building-Applications-Foundation/dp/1098166302/r](https://substack.com/redirect/b89ebc8a-eaf8-4bb0-9a2a-c9302dd01545?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+• Andrej Karpathy’s website: [https://karpathy.ai/](https://substack.com/redirect/d2ef49f2-9680-4c5d-8baa-6cb8f194bc78?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+• Neural Networks: Zero to Hero: [https://karpathy.ai/zero-to-hero.html](https://substack.com/redirect/ac42bb1e-754a-402a-bc65-bf560bedabce?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+• Shishir Mehrotra on LinkedIn: [https://www.linkedin.com/in/shishirmehrotra/](https://substack.com/redirect/0a2fffb9-d0cc-424e-bd35-094996afaa58?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+• Coda Brain: [https://coda.io/product/coda-brain](https://substack.com/redirect/a9ec2034-70c9-4829-bda7-50b2f149c654?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+• Vanity metrics to ignore and why hypergrowth matters: lessons from job hunting in AI – part 1:
+• Cursor: [https://www.cursor.com/](https://substack.com/redirect/4358c642-f888-4f79-8631-82ecc68e47e1?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+• Windsurf: [https://windsurf.com/](https://substack.com/redirect/d6f8fe01-81f2-4a7d-870a-d6708f4b5abb?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+• Hebbia: [https://www.hebbia.com/](https://substack.com/redirect/e740e044-f3f2-449e-86fc-a376df249735?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+• Motiff: [https://motiff.com/](https://substack.com/redirect/9a1c2f41-d50a-4ab4-a98d-edade4314624?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+• Fireworks: [https://fireworks.ai/](https://substack.com/redirect/44296262-1a38-42ea-9e34-e2541f2f6067?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+• Together: [https://www.together.ai/](https://substack.com/redirect/70650e2b-490f-4e86-b855-a8ee9ace11c7?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+• Pinecone: [https://www.pinecone.io/](https://substack.com/redirect/7671838d-6e90-4197-ba91-882ed6de44de?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+• Weaviate: [https://weaviate.io/](https://substack.com/redirect/d68f07ff-c5b8-4080-b0af-6f289289b7c0?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+• Chroma: [https://www.trychroma.com/](https://substack.com/redirect/6ca3bc3d-f74a-458d-9e46-f7868b251266?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+• Arize: [https://arize.com/](https://substack.com/redirect/4a2754cc-e8b1-44dc-bcf1-2671468a9c7f?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+• Galileo: [https://www.usegalileo.ai/](https://substack.com/redirect/cc8589de-4e36-4806-bafa-7542e00e4d41?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+• Open AI: [https://openai.com/](https://substack.com/redirect/9abc23b4-1f24-43c4-b95d-265c00ec2461?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+• Yash Kumar on LinkedIn: [https://www.linkedin.com/in/yash298/](https://substack.com/redirect/97692369-ff52-480b-b2ad-2c836b72e4c7?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+• System Design Interview – An insider's guide: [https://www.amazon.com/System-Design-Interview-insiders-Second/dp/B08CMF2CQF](https://substack.com/redirect/96ec1e65-6ac7-4c6b-9b7a-527377df2fe3?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+• JavaScript: [https://www.javascript.com/](https://substack.com/redirect/b2edf691-982e-44e6-8a9c-5b53fbf77dfb?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+• Python: [https://www.python.org/](https://substack.com/redirect/0f7a454a-8433-46de-8a55-75aae78f5ae6?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+• Typescript: [https://www.typescriptlang.org/](https://substack.com/redirect/ffa24960-d23e-4942-9c1d-58b0e76b6ee9?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+• React: [https://react.dev/](https://substack.com/redirect/f05d151b-fb97-4b54-be97-7071a6182e26?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+• Assembly: [https://en.wikipedia.org/wiki/Assembly_language](https://substack.com/redirect/29f16541-88a9-4aee-befe-a4a7f5bb406d?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+• Mythical Man-Month, The: Essays on Software Engineering: [https://www.amazon.com/Mythical-Man-Month-Software-Engineering-Anniversary/dp/0201835959/](https://substack.com/redirect/d3f8a78e-416c-4ebd-a826-1d309449d8ef?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+• Software Architecture: Perspectives on an Emerging Discipline: [https://www.amazon.com/Software-Architecture-Perspectives-Emerging-Discipline/dp/0131829572](https://substack.com/redirect/5f375c51-2baa-49b7-8308-9532c8e9b22e?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+• Software architecture with Grady Booch: [https://newsletter.pragmaticengineer.com/p/software-architecture-with-grady-booch](https://substack.com/redirect/a0f3335d-c592-4f06-96bc-43d39e9fe07e?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+• The Almanack of Naval Ravikant: A Guide to Wealth and Happiness: [https://www.amazon.com/Almanack-Naval-Ravikant-Wealth-Happiness-ebook/dp/B08FF8MTM6](https://substack.com/redirect/396ce9f2-8320-4889-8c6c-e4c377c4d300?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+• AI Engineering in the real world: [https://newsletter.pragmaticengineer.com/p/ai-engineering-in-the-real-world](https://substack.com/redirect/f4f1dc76-efe9-408f-9d10-e692b4f06633?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+• The AI Engineering Stack: [https://newsletter.pragmaticengineer.com/p/the-ai-engineering-stack](https://substack.com/redirect/4c017dcb-22f9-4095-a5ed-1e1daf49aeea?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+• Building, launching, and scaling ChatGPT Images: [https://newsletter.pragmaticengineer.com/p/chatgpt-images](https://substack.com/redirect/5f64ac0b-4551-44a8-abeb-65ec93759f22?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+• MCP Protocol: a new AI dev tools building block: [https://newsletter.pragmaticengineer.com/p/mcp](https://substack.com/redirect/43e06aac-5647-4bc9-9fbb-95d0d641e46a?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+—
+Production and marketing by [Pen Name](https://substack.com/redirect/94bb25b2-35cc-4f85-a6f8-18a8a2d38fd8?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o).
+You’re on the free list for [The Pragmatic Engineer](https://substack.com/redirect/2/eyJlIjoiaHR0cHM6Ly9uZXdzbGV0dGVyLnByYWdtYXRpY2VuZ2luZWVyLmNvbT91dG1fY2FtcGFpZ249ZW1haWwtaG9tZSZyPThvNTRuIiwicCI6MTY0NTg4MDI0LCJzIjo0NTg3MDksImYiOnRydWUsInUiOjE0NTYzMzE5LCJpYXQiOjE3NDg0NTExNzUsImV4cCI6MTc1MTA0MzE3NSwiaXNzIjoicHViLTAiLCJzdWIiOiJsaW5rLXJlZGlyZWN0In0.jX7F50GJk3IO-uRZP8JQZpgtzfX7Rw2sxjkkFNmGLP4?). For the full experience, [become a paying subscriber](https://substack.com/redirect/2/eyJlIjoiaHR0cHM6Ly9uZXdzbGV0dGVyLnByYWdtYXRpY2VuZ2luZWVyLmNvbS9zdWJzY3JpYmU_dXRtX3NvdXJjZT1wb3N0JnV0bV9jYW1wYWlnbj1lbWFpbC1jaGVja291dCZuZXh0PWh0dHBzJTNBJTJGJTJGbmV3c2xldHRlci5wcmFnbWF0aWNlbmdpbmVlci5jb20lMkZwJTJGZnJvbS1zb2Z0d2FyZS1lbmdpbmVlci10by1haS1lbmdpbmVlciZyPThvNTRuJnRva2VuPWV5SjFjMlZ5WDJsa0lqb3hORFUyTXpNeE9Td2lhV0YwSWpveE56UTRORFV4TVRjMUxDSmxlSEFpT2pFM05URXdORE14TnpVc0ltbHpjeUk2SW5CMVlpMDBOVGczTURraUxDSnpkV0lpT2lKamFHVmphMjkxZENKOS5TTDBid2Z1d3ZGX1FTZEkwVDJxdDVDbE1oRmNKekpfbm1UV0V2LV91aXM0IiwicCI6MTY0NTg4MDI0LCJzIjo0NTg3MDksImYiOnRydWUsInUiOjE0NTYzMzE5LCJpYXQiOjE3NDg0NTExNzUsImV4cCI6MTc1MTA0MzE3NSwiaXNzIjoicHViLTAiLCJzdWIiOiJsaW5rLXJlZGlyZWN0In0.bQpPFqxaHxN_KcRMYF_tvl3uRUiPZeS6NDRd0Zv06w4?). Many readers expense this newsletter within their company’s training/learning/development budget.
+This post is public, so feel free to share and forward it.
+If you enjoyed this post, you might enjoy my book, [The Software Engineer's Guidebook](https://substack.com/redirect/95ab5dd3-a7f2-4177-883d-f3ce2f063c67?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o). Here is what Tanya Reilly, senior principal engineer and author of The Staff Engineer's Path said about it:
+"From performance reviews to P95 latency, from team dynamics to testing, Gergely demystifies all aspects of a software career. This book is well named: it really does feel like the missing guidebook for the whole industry."

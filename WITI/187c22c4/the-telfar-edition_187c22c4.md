@@ -1,0 +1,10 @@
+---
+subject: "The Telfar Edition"
+from: "\"Why is this interesting?\" <whyisthisinteresting@substack.com>"
+to: ""
+date: 2023-04-27 10:01:19
+labels: ["CATEGORY_PERSONAL", "IMPORTANT", "INBOX", "UNREAD", "WITI"]
+label_ids: ["CATEGORY_PERSONAL", "IMPORTANT", "INBOX", "UNREAD", "Label_5752899537867939131"]
+---
+Colin here. Luxury is often built on scarcity, or the appearance thereof. Try getting a certain Audemars Piguet watch or a Hermes Birkin, and more often than not you need to have a long purchase history and relationship with the brand. And even then, it’s not easy. This strategy is a tale as old as time: the illusion of scarcity creates coveting and desire. Why is this interesting? Telfar, a brand that sells bags, clothes, and other goods, is deliberately zigging while others zag. Founded by Telfar Clemens, a Liberian-American designer, the brand seeks to playfully subvert a lot of convention in retail. Their newly launched approach to sales is quite interesting. Most brands start the season with high prices and as time goes on sell any extra inventory at a discount. Telfar is starting with its lowest prices, which will rise over time—the opposite of a sale. According
+The brand is trying to break the luxury codes I mentioned above, subverting the relationship between price and scarcity in a new way. This contrarian move flies in the face of most fashion brands. Early adopters are rewarded with better prices: The true fans get the best deal. Of course, given the popularity of aftermarkets like The Real Real and Grailed, this also means that coveted items will be offered later (and likely at a markup), but this is generally the way of the world, especially for coveted items. The overarching concept stands as interesting and innovative. (CJN) Link of the day. Friend of WITI Ana has a much deeper dive into this topic Thanks for reading, Noah (NRB) & Colin (CJN) — Why is this interesting? is a daily email from Noah Brier & Colin Nagy (and friends!) about interesting things. If you’ve enjoyed this edition, please consider forwarding it to a friend. If you’re reading it for the first time, consider subscribing (it’s free!). |

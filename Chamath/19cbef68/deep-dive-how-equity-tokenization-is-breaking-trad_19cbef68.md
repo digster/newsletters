@@ -1,0 +1,65 @@
+---
+subject: "Deep Dive: How Equity Tokenization Is Breaking TradFi Barriers"
+from: "Chamath Palihapitiya <chamath@substack.com>"
+to: ""
+date: 2026-03-05 15:03:28
+labels: ["CATEGORY_PERSONAL", "Chamath", "INBOX", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "Label_4017391144830520384", "INBOX", "UNREAD"]
+---
+|
+Modern equity markets sit on infrastructure built long before digital networks existed.
+Global equity markets exceed $150 trillion in value, yet trading hours remain limited, settlement still depends on layers of intermediaries, and access to many of the highest-growth companies remains restricted to a small group of investors.
+These structural limits define how capital moves, who can participate, and how quickly ownership can change hands.
+Market infrastructure providers are already exploring how tokenization could modernize this system. Institutions, including NYSE, Nasdaq, and DTCC, have begun developing tokenized equity and settlement infrastructure.
+With the adoption of equity tokenization, these barriers are beginning to lift.
+Since the start of 2025, the market capitalization of equity tokens has risen nearly 3.5x, reflecting a broader shift toward tokenized real-world assets.
+This expansion has occurred alongside the rise of stablecoins. These currency-pegged tokens have grown more than tenfold in under five years and now form the primary settlement layer for on-chain financial activity:
+While stablecoins serve a different function than equity tokens, their rapid adoption demonstrates that tokenized financial instruments can achieve meaningful scale when they deliver clear infrastructure advantages.
+Equity tokens represent the next test: whether tokenization can extend beyond payments into ownership of financial assets.
+What Is an Equity Token?
+Equity tokens are not simply traditional stocks placed on a blockchain.
+A traditional stock represents ownership in a company.
+An equity token is a blockchain-based asset that represents either shares of a company or a structured claim linked to those shares, with ownership tracked and transferred using distributed ledger technology (DLT).
+Tokenized Equities Can Solve 3 Market Gaps
+24/7 trading: Markets are moving from a 24/5 (or less) schedule toward continuous, 24/7 availability.
+Even today, about 11% of U.S. equity trading occurs outside regular market hours.
+A 24/7 market structure more rapidly prices in new information during after-market hours, and better reflects a global shareholder base, with foreign investors now owning roughly 15% of U.S. equities.
+Ownership: In traditional finance, equity ownership is recorded across multiple intermediaries, including brokers, clearing firms, and central securities depositories.
+Tokenization reduces reliance on these layers and allows ownership to be tracked directly on a shared ledger.
+This changes equity from a static record into a programmable financial asset.
+An owner can pledge the asset as collateral for an on-chain loan. They can use it to secure credit. They can place it into automated liquidity pools to generate yield.
+In traditional markets, similar actions typically require multiple intermediaries and additional settlement steps. Each of these intermediary interactions comes with brokerage fees and commissions, ultimately costing the equity asset holder. Even modest reductions in post-trade friction could save the equities industry an estimated $5 to $10 billion annually.
+Access: While the first two advantages apply primarily to public equities, tokenization also addresses the access constraint in private markets.
+Under current securities rules, many private offerings are restricted to accredited investors. This generally requires either $1M in net worth excluding a primary residence, or $200,000 in annual income, or $300,000 jointly with a spouse.
+Private companies must also manage shareholder counts to remain private. U.S. regulations require SEC reporting once a firm exceeds 2,000 shareholders of record or 500 non-accredited investors.
+In addition, institutional venture capital funds often require commitments of millions from limited partners.
+As a result, most investors have had little access to the highest-growth private companies before they reach public markets.
+Equity tokenization has the potential to address this access gap.
+Equity tokens can be issued through several structural models, though today the most common approach relies on special purpose vehicles (SPVs).
+In this structure, an SPV holds the underlying shares while tokens represent a financial claim on that vehicle. This allows issuers to offer investors exposure to private companies that were historically limited to venture capital firms and institutional investors.
+As one example, Robinhood recently announced a promotional distribution of OpenAI and SpaceX tokens to eligible users in the European Union.
+These tokens provide exposure to two of the world’s most sought-after private companies. However, they do not represent direct ownership of OpenAI or SpaceX shares. Instead, the tokens represent a financial claim linked to an intermediary structure.
+This highlights a central challenge in equity tokenization: what a token represents is not always standardized.
+Different issuers can design tokens with materially different economic rights. In Robinhood’s case, it is not publicly clear whether the SpaceX token provides exposure to preferred equity or whether it could convert into common shares if SpaceX eventually goes public.
+Preferred and common equity differ in liquidation priority, voting rights, and return profile. Without clarity on these terms, investors cannot easily price or compare tokens tied to the same company.
+As a result, many tokenized private equity products provide economic exposure rather than direct ownership. Because the token sits on a separate legal layer from the underlying shares, investors must understand the structure before assuming what they actually own.
+Despite these structural ambiguities, investor demand for private market access continues to grow. This comes within a broader landscape in which companies are staying private much longer.
+Surveys show roughly 90% of Americans would be willing to allocate a portion of their retirement savings to private assets, with particularly strong interest among Gen Z and Millennial investors.
+Equity tokenization promises greater access to private markets, continuous liquidity, and new ways to structure financial ownership.
+But with this new level of access comes a new kind of complexity.
+When two tokens can reference the same company in fundamentally different ways, and economic exposure does not always mean ownership, how do investors separate real opportunity from structural risk? And what about regulation?
+Our research team at Social Capital examined these questions from first principles in our Equity Tokenization Deep Dive. Inside, we cover:
+The core benefits equity tokenization introduces to capital markets
+The tokenization trilemma and the three structural designs attempting to solve it
+The market map: major issuers, what they offer, and how their structures differ
+What self-custody means in practice and the trade-offs of moving tokens off a broker platform
+How private company tokens are structured and what investors are actually buying
+The regulatory landscape across the U.S., EU, and other major jurisdictions
+Whether a single token design can satisfy regulators, protect ownership rights, and integrate with the broader financial system
+I hope you enjoy reading this Deep Dive we put together below.
+Chamath
+Deep Dive PDF below ↓...
+Become a paying subscriber of Chamath Palihapitiya to get access to this post and other subscriber-only content.
+| Subscriber-only deep dives | |
+| Group chat with me | |
+| Weekly reading list and quick essays |

@@ -1,0 +1,14 @@
+---
+subject: "How bad was British “austerity” anyway?"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2025-12-14 07:49:26
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+Chris Giles [writes in the FT](http://marginalrevolution.com?action=user_content_redirect&uuid=ae64ec333d68626a5c76e9c7d77e0ab4590b7d6654b53e30993a3abc7825ee3c&blog_id=42693868&post_id=92046&user_id=262258391&subs_id=225460721&signature=b99809dcfeacee1de654b01afe0a3fd9&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly93d3cuZnQuY29tL2NvbnRlbnQvNWFmZmY3OWUtMGFmNy00Zjk2LWI2OWYtYzYwM2NkMDgzYTUw&email_id=b162157550b8c4a92da2dec03ea4d086):
+The main periods of measurement error came in the austerity years of 2012 to 2014, in 2017 during the early period after the Brexit referendum and in recent post-pandemic years. The truth is that a huge pessimistic bias in our national accounts has led us to be fed with contemporary reports of doom and gloom, which subsequently turn out to be nonsense.
+But it is the first version of economic events that enters the national debate — and the national consciousness — for the entirely understandable reason that initial releases of economic data make news. You cannot expect people to care deeply about a revision to data that is three years old. Psychologically, they have made up their mind by then.
+We are still told that 2010s austerity destroyed growth, but the data no longer supports that story: growth between David Cameron’s election victories of 2010 and 2015 now registers an annualised average of 2 per cent.
+Somehow I am not seeing people jumping all over this story? Is it even correct? I have not seen anyone refute or counter it. Here is [the analysis from 5.2 Pro](http://marginalrevolution.com?action=user_content_redirect&uuid=669b0756373f2100c3683e8b75d5f6c7263692d332a204af3cde1dcb16093c3c&blog_id=42693868&post_id=92046&user_id=262258391&subs_id=225460721&signature=649eb4d46820c8e01dd82f15099268ec&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly9jaGF0Z3B0LmNvbS9zaGFyZS82OTNkNTFhOS1mMjg4LTgwMTAtYWEzZi02ZjFkNDQ4ZmI1Zjg&email_id=b162157550b8c4a92da2dec03ea4d086), largely confirming, though it suggests 1.8% to 1.9% is a better estimate than 2%. I am very open to alternative points of view here, but at the moment it appears the correct stance was a) the British economic problems were largely structural and would not just be fixed by an aggregate demand boost, and b) fiscal consolidation was necessary, and while done imperfectly, not a disaster relative to the alternatives available.
+The dust has not yet settled, but perhaps most of you were basically just wrong on this one?

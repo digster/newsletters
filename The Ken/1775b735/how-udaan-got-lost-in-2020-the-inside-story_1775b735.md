@@ -1,0 +1,32 @@
+---
+subject: "How Udaan got lost in 2020. The inside story."
+from: "The Ken <info@the-ken.com>"
+to: ""
+date: 2021-02-01 02:36:55
+labels: ["CATEGORY_PERSONAL", "INBOX", "The Ken"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_8244464457792971031"]
+---
+Good Morning Ishan,
+Increasingly, it seems like all “investigative” stories about tech companies and startups sound the same. Here’s how it goes:
+There’s a shiny, well-funded and ambitious company wanting to solve a difficult problem. However, because the said company is ambitious, it wants to do many things. Soon, lofty ambition collides with realities that are complex, unpredictable and nuanced. Strategies don’t pan out. Execution falls apart. Employees are disgruntled. All leading to infighting, turf wars and culture shocks inside.
+It’s almost a template now. The same words show up again and again, in story after story, about company after company. Mess. Muddle. Muck.
+We’ve read stories like this. Perhaps we’ve even written stories like this at The Ken.
+Our story today is about Udaan, India’s leading business-to-business (B2B) e-commerce platform.
+But it is not that story.
+At the face of it, it does have some familiar ingredients. Udaan is an ambitious company. In 2016, Udaan was valued at $40 million. Today, it's valued at over $3 billion. It grew at a breakneck pace, sucked up funding and expanded rapidly across India.
+It’s also a company that wanted to do many things. Not content with just B2B commerce, it wanted to get into areas like logistics, lending, and much more. It hired people from India’s best-known consumer brands and retailers to head categories and businesses inside the company. Udaan wanted to conquer the world.
+Then lofty ambition collided with the complexities of reality.
+In 2020, Udaan’s world fell apart. Its strategies didn’t pan out. There were complications, infighting and turf wars. It made huge losses and struggled. For most of the year, Udaan wandered, Udaan stumbled in the darkness, and Udaan got lost.
+Our story chronicles what happened inside Udaan in 2020. The author of today’s story, Pranav, based on numerous conversations with current and former employees, writes extensively how Udaan confronted deep questions about its business model and sustainability.
+But that’s not all. His story is also about how Udaan learnt from its mistakes, reoriented itself and fought out of the darkness into the light.
+Oh also, it's about Pacman and Mario.
+You’ll have to read it to find out what I mean. It’s here. [https://the-ken.com/story/how-pacman-helped-udaan-survive-a-tumultuous-2020/](https://the-ken.com/story/how-pacman-helped-udaan-survive-a-tumultuous-2020/?utm_source=daily_story&utm_medium=email&utm_campaign=daily_newsletter) (16-minute read)
+Regards,
+Praveen Gopal Krishnan
+|
+What you just read is the personalised daily introduction to The Ken's story. Written by a different person each day. Often insightful, sometimes witty, and very rarely boring. Someone sent this to you? [Sign up for free](https://the-ken.com/?modal=register&utm_source=footer&utm_medium=email&utm_campaign=in_recap_email). Don't like these? You can [unsubscribe](https://link.the-ken.com/asm/unsubscribe/?user_id=2349339&data=gkfu0QhdtOXrBawucHco6g5FUv3Kh5gmicYazwmfMPVmDK8rHxR31fZn2Do2WaQz8rqhIMnN9wsI0nrYk2C9QzDQ_gxFE6UDYlOm7DMln8yEPUjqNLPEI_uTHTyQ8GMQQhPhH-o5XbldSbPrTxJHluD6gczBUCCHNq9VzYmflxICPmbV3BCW60DZl6ANVYD22YjEtktIwm3B4qWkpGyA_A4tW_w__1AzKCWAtj9Eaz0BpKgLheaHJoyA77EdEc3r5O1tJANswRHkI1MU31yiqzvjlXuG5JLX03uq_RpD5KfvS7r1D8rIujxR2UPct2r5IIaJnz0ZU7ezEYLWyWsmN18Wv2mTHfLpahAsF4PYx2-Y2SC1Pyr47qFE266ANrluuJfdN_TxmSRv0Gs_IWAxepkE7xY16uRvEtXx8j05veiV4Zh8vm7vFe7RdNPKKt7jiO9AGyqmEVXSi3acXapAYvo5WWoCWWWyd4qIaWV5waTugNOmH7PqRFdsDKEojZFHvxCrjqGUl8zKas8FdbuBKF4b3T8us8RvPkEGrBZUtrk=). Want to manage your emails? Click [here](https://link.the-ken.com/asm/?user_id=2349339&data=JtRZN3eHSrUzKi7QRpZM4WWFERY1rTDteGf0dmdc7aN32HH1GuZVVR3h7Kx28fcgbgDL9Dq0ctxuybxcb6zCxuRhcczU8GFSp8ywOrTtlqrxCoGTxi7RVOIWySzjNhZ11VYtH3i-jszTY9409tU6nvsIy4NnkhCa51XPwMliRxhhulnwoqPnbFM8dI6aStiJyugSgmdoL_UwOel7vmKtrqqEO5y17LIeA9-0M8P0unA2iwxj6CbgCk1RmsJu4EwVty-GFdF9AEwcoNLrlCHAS225EhIfnTbYBKjqBWl6DUQV4X7TJ0uEbFaIZp3ps431-2bKdWwh2qkydPFUwCwZmtzmKWWCWIPGz4fUGCvWlxujq64NqiyQhS022mwJolExY3iuI-7YfrvS4WK_rzO-n3s5X0wfG0sZoOhSDhr7G0Bd8lsL1XHqXIoSlQD3DE0LMN4Lhte8SgPQMREI0vhb16lhaHv-LXWv6MXQ19hjO8kN0MYQZam_s016DhW82tCXZGHdidR4Fc8sJqYE7KtTuA==).
+|
+|
+|
+|
+|

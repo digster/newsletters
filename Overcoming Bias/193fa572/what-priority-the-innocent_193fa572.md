@@ -1,0 +1,12 @@
+---
+subject: "What Priority The Innocent?"
+from: "Robin Hanson from Overcoming Bias <overcomingbias@substack.com>"
+to: ""
+date: 2024-12-24 20:22:16
+labels: ["CATEGORY_PERSONAL", "INBOX", "Overcoming Bias", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_8616244883382228708", "UNREAD"]
+---
+It is good if criminal law avoids punishing the innocent. But just how good is it?
+But do such huge factors make sense? Consider a simple accounting of social losses due to crime: B = loss due to crime being “Bad”; criminals gain less than victims lose A = loss from efforts to Avoid being victims of crime D = loss from Defensive efforts to avoid being caught and convicted E = loss from Enforcement efforts to catch and convict criminals I = loss from efforts to Inflict punishment S = loss from Suffering of the punished, if all were guilty H = relative Harm of punishing innocent, relative to guilty F = Fraction of punished who are innocent C = B+A+D+E = loss from Crime P = S((1-F) + H*F) = loss from actual Punishment L = C + I + P = total Loss
+Imagine that we could cut all of the crime-related losses C, I, S overall by the same factor X, but at the cost of increasing the fraction F of folks punished who are innocent by factor RX. The ratio R that makes one indifferent to this change can reveal one’s value of H, i.e., how much more one cares about the suffering of the innocent, compared to that of the guilty. That is because in this hypothetical loss L changes by -X(C + I + P) + RXSHF. Setting this to zero, and (for small F) solving for H gives H = (C+I+P)/(RFP) = (1/RF)*(1+ C/(I+P))*(1+ I/P).
+What gives? In teaching law, I’ve seen that most don’t want to Similarly, I suspect that most feel so confident that they will never commit a crime, or be the victim of a crime, that they see the most likely way they’d be involved with criminal law is by being falsely accused of a crime. So their priority is to protect the innocent, namely themselves, at all costs. It’s less about lofty principles or sympathy for the downtrodden. They are willing to let those who are the typical victims of crime suffer more to ensure that they personally escape any possible negative consequences. You're currently a free subscriber to |

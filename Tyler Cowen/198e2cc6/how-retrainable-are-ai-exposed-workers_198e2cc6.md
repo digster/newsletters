@@ -1,0 +1,10 @@
+---
+subject: "How Retrainable are AI-Exposed Workers?"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2025-08-25 19:55:02
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+We document the extent to which workers in AI-exposed occupations can successfully retrain for AI-intensive work. We assemble a new workforce development dataset spanning over 1.6 million job training participation spells from all US Workforce Investment and Opportunity Act programs from 2012–2023 linked with occupational measures of AI exposure. Using earnings records observed before and after training, we compare high AI exposure trainees to a matched sample of similar workers who only received job search assistance. We find that AI-exposed workers have high earnings returns from training that are only 25% lower than the returns for low AI exposure workers. However, training participants who target AI-intensive occupations face a penalty for doing so, with 29% lower returns than AI-exposed workers pursuing more general training. We estimate that between 25% to 40% of occupations are “AI retrainable” as measured by its workers receiving higher pay for moving to more AI-intensive occupations—a large magnitude given the relatively low-income sample of displaced workers. Positive earnings returns in all groups are driven by the most recent years when labor markets were tightest, suggesting training programs may have stronger signal value when firms reach deeper into the skill market.
+That is from[ a new NBER working paper](http://marginalrevolution.com?action=user_content_redirect&uuid=2ae69eda92f851ce80913f3aaca1d5db930cdea327a83c06d9e982a7fe79ac17&blog_id=42693868&post_id=91363&user_id=262258391&subs_id=225460721&signature=caba897f9805f6f55d99867c7618b92f&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly93d3cubmJlci5vcmcvcGFwZXJzL3czNDE3NA=&email_id=b4e86bf846a1fbb8133a84c9b4142284) by

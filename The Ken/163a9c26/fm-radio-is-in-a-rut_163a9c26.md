@@ -1,0 +1,17 @@
+---
+subject: "FM Radio is in a rut"
+from: "The Ken <info@the-ken.com>"
+to: ""
+date: 2018-05-29 02:37:57
+labels: ["CATEGORY_PERSONAL", "INBOX", "The Ken", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_8244464457792971031", "UNREAD"]
+---
+I cannot tell you how much I love this setting. It is around forty minutes past three in the afternoon. There is no power in the office. Bang in the middle of summer. 33 degree Celsius. And the moment the power went out, the whole office went yayyyyy! Almost everyone is out right now. Chilling. Taking a walk. Inside, a few people are staring into their laptops; their faces gleaming. The others are distracted, chatting away in the dark. Me? I am a sucker for nostalgia. So I’m lost in memories of growing up with power cuts in a small part of West Bengal.
+Nostalgia also brings me to the subject of today’s piece. FM Radio.
+Radio is not doing so well. Increasingly, it is under threat from a whole host of things. A. Pressure from declining advertising dollars. B. Under threat from the rise & rise of music streaming services. C. A business model shift to high cost of frequency, which currently has very few takers. I mean, look at the statistics on this one: 266 frequencies were put up for auction by the Information and Broadcasting Ministry in 2016, 75% of which were declared financially unviable even before the auction began.
+And, finally, the last point. D. FM Radio doesn’t know what to do. It is stuck in a rut.
+The existential crisis has been long in the making. In the last 12 months, two of the largest radio broadcasters in the US have filed for bankruptcy. In November 2017, Cumulus Media, the second largest US broadcaster by number of stations, filed for Chapter 11 citing debt, bad acquisitions and increasing competition from digital streaming and web-based formats. Then, earlier this year in March, iHeartMedia Inc, the largest radio broadcaster in the US filed for Chapter 11. Culprits? Same: debt and stagnating revenues. Both companies tried everything from streaming services of their own to a whole host of services. Didn’t work. Earlier this month, Cumulus Media managed to find its way out of bankruptcy, but only through a financial restructuring plan that allowed it to erase $1 billion dollars of debt. Not every broadcaster is as fortunate as Cumulus, though.
+My colleague Harveen has a good story on the challenges before FM Radio in India. And man, this woman actually counted. Listening to the radio, in the space of 8 minutes, there were 18 advertisements. You can read the piece here: [https://the-ken.com/story/fm-radio-midlife-crisis/](http://link.the-ken.com/wf/click?upn=HQSq6eeRV1xAVaGuFOahuNCZVVXPeP-2FJpSqxhvIUDrm-2FO5I3-2FubY-2FiUk5NOIc9-2B1adirdDTVJxXf1b-2FXbBuf1li20IfKU7ETxIG-2FT08XEuGz85yBSVimBzvnBh8jF1nqUfxwA-2FtTUUdD3nqAo1hQ0tBwmmXK2uYNY1aVkho0lvino18-2FKsY8ifSMrOd-2FZBExLQunr2qYwGtqU46H-2FT3gr7u4XnaN6jnkPJ1hS8znPGQqjqpJtyrJEAWHTOwuaeFc_S4jLOsNx-2Fv6Jev2nvow8b7P9pBCWGd8KNZfb200gkZLQNlXQHio0noZzXtsWoloZmPWeyZsh7a4QCV9ufwCUKi00jlBT0uEdvwYDMuVuqcMnpoq0642FvP6NlxLDgsAWH-2FbF2Q98LT4525fAra9ekJ6CsndGxrLTMh8gEWTN1DN2duBTiCvglFMa1jnTjIK0jkoCl5XO-2Flpf42fpHlnR2jmFI2VATbRfkHIOhjdSLn8dsTm8TwmdImP6c-2BsyeOi0QLvS0yM-2BQEXN4PxYFcmxvrP-2BA0lH-2BQBnPgZhONiXSkA56YKVz-2FfnIfSdCQI0tCdZeFSzNKIJ2JZNHuXSQ6NGB-2BqgbhAZWbRzhLUVxneryDTxp8mmCaheW7C-2Bm-2FINHTWzeckP9B3wEjdL3pJPrZwzxwP-2FJz7P6h8lmb-2BVAO-2BiOyU-3D)
+Thank you for reading. I’ll see you around.
+Warm regards,
+Ashish K. Mishra

@@ -1,0 +1,66 @@
+View this post on the web at https://thepalindrome.org/p/accio-insights-the-marauders-map
+
+Hi there! It’s Tivadar from The Palindrome.
+Please welcome Sairam Sundaresan , author of the brilliant Gradient Ascent  Substack. I’ve been following his work for years, and I’m honored to have him here for a guest post.
+By the way, he is hosting a workshop on February 28th titled “Machine Learning and Generative AI System Design,” [ https://substack.com/redirect/2667f1e1-ebbf-48b7-9580-454ea2f4d4aa?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ] and he has kindly offered a 35% discount for readers of The Palindrome.
+The code TIVADAR35 is valid until February 24th.”
+Now, I’ll pass the mic to Sairam.
+Enjoy!
+Cheers,
+Tivadar
+Somewhere in a parallel universe…
+“Harry,” said Ron. “Say something. Something in Embedtongue.”
+Harry looked back at the computer, willing himself to believe it was AGI.
+“Open,” he said.
+Except that words weren’t what he heard; a strange set of beeps escaped him, and at once, the computer glowed bright with the blue screen of death and began to spin.
+“I’m going down there,” he said…
+If you’ve read the series, you know what they find down there. But the real magic I want to show you is a different artifact entirely.
+The Marauder’s Map is one of the most incredible inventions in the Harry Potter series. It lets the holder see the entirety of Hogwarts and where every character is in the castle. With the map in hand, Harry and his friends weave through tunnels and secret passageways, dodging professors, ghosts, and foes.
+Machine learning models use a map of similar power to see data in context. These maps are called embeddings.
+Let’s open the chamber.
+What’s an Embedding?
+Computers see the world in 1s and 0s. Show a computer a set of words, and it has no idea what they mean. We need a way to represent words as numbers. But couldn’t we just assign a random number to each word in the dictionary? We could, but the results are terrible. (Brilliant people tried this.)
+The reason is simple: random numbers carry no context. The words are the same in “the dog bit the man” and “the man bit the dog,” but the meaning is completely different. Random numbers can’t capture that.
+Another approach, called one-hot encoding, represents each word as a vector of ones and zeros. You create a vector as long as your vocabulary, with a “1” at the position corresponding to that word and zeros everywhere else.
+This works, but it has two big problems. First, every time you add a word, every vector gets longer. If your vocabulary has ten million words, that’s a ten-million-dimensional vector that’s 99.9% zeros. Second, one-hot encoding says nothing about similarity. “King” and “queen” are just as far apart as “king” and “banana.” No context.
+So what’s the solution? Enter embeddings.
+Embeddings are also vectors of numbers, but with a crucial difference: the numbers are learned, not assigned. Instead of sparse one-hot vectors, embeddings are dense and compact. A model sees millions of sentences during training, learns where each word appears and with which neighbors, and produces a fixed-length vector that captures what that word means in context.
+This changes everything. No hand-design. No vectors that balloon with vocabulary size. And because the model learns from real language, words that appear in similar contexts end up with similar vectors.
+What’s in a Word?
+“You shall know a word by the company it keeps.”, J.R. Firth
+That quote is the entire philosophy behind learned embeddings. To create them, we take a massive corpus of text and train a model to predict something based on it. Maybe we ask it to guess a missing word from its neighbors. Maybe we ask it to predict sentiment from a review. The task almost doesn’t matter. What matters is that the model, in learning to solve the task, builds internal representations of each word. Those representations are the embeddings.
+This is the trick behind Google’s famous Word2Vec model (2013): the model thinks it’s learning to predict neighboring words. The real gold is in the weights it builds along the way. Word2Vec is the classic version. Modern LLMs use far more sophisticated architectures, but the core idea is the same: learned vectors that capture meaning.
+Once trained, the model positions similar words closer together in the embedding space and pushes dissimilar words farther apart.
+What Do Embeddings Look Like?
+Since embeddings are just vectors of numbers, we can plot them as points on a graph. During training, every time the model gets a prediction wrong, it adjusts the numbers in the relevant word vectors slightly. Over millions of examples, those tiny adjustments are what push contextually similar words together and pull dissimilar ones apart.
+Each number in the vector corresponds to some learned attribute. Think of it this way: the word “ball” might score high on roundness but low on sweetness. “Cake” would be the reverse. The model figures out which attributes matter on its own. We never tell it what to look for.
+To make this concrete, I trained a Word2Vec model on the entire Harry Potter series and plotted popular characters as points in the embedding space. (I reduced each 10,000-dimensional vector down to two dimensions using t-SNE for plotting. If you know how to visualize 10,000 dimensions, let me know.)
+Characters who frequently appear together in the books cluster together in the embedding space. And there’s a fun nuance here. Look at Snape and Severus. Two separate points for the same person. Why? Because when I tokenized the text, “Severus Snape” became two words. Throughout the series, certain characters call him “Snape” (Harry, Ron, Hagrid), while others use “Severus” (Dumbledore, McGonagall). Look at where each name sits relative to those characters.
+But embeddings capture more than co-occurrence. They learn characteristics. I plotted words like “power,” “kind,” “evil,” “death,” and “horcrux” alongside Dumbledore and Voldemort. The negative words cluster near Voldemort. The positive ones gravitate toward Dumbledore. “Evil” and “kind” sit far apart.
+I also asked the model to return the closest words for a given input. The results speak for themselves.
+James Potter was my favorite result. (Hit me right in the feels.) You can also use embeddings to spot oddballs from a list of items.
+Have a look at thThe model flags “Durmstrang” because Gryffindor, Hufflepuff, and Ravenclaw are all Hogwarts houses that appear together frequently in the text. Durmstrang is a different school entirely, so its vector sits in a different neighborhood.
+Word Similarity and Arithmetic
+How do we actually measure similarity between two word vectors? This is where cosine similarity comes in.
+The intuition is straightforward. Picture two arrows starting from the same point. If they point in nearly the same direction, the angle between them is small. If they point away from each other, the angle is large. Cosine similarity uses exactly this. If two words are similar, their vectors point in roughly the same direction. Small angle, high cosine value. If two words are dissimilar, their vectors point apart. Large angle, low cosine value. That’s the whole idea.
+“But wait,” you say. “You’ve been plotting points. Where do arrows come from?” Connect each point to the origin, and you have your vectors.
+The Nimbus and Firebolt are both racing brooms, so their vectors point in a similar direction. Small angle, high cosine. Dumbledore and Voldemort? Large angle, low cosine.
+And here’s where it gets wild. You can do arithmetic with word vectors. The classic example: king − man + woman = queen. The relationships between words are encoded as directions in the embedding space, and those directions compose. This means the model hasn’t just memorized which words appear near each other. It’s learned the relationships between concepts. Gender, royalty, kinship. These are directions you can travel along. I ran this on a pretrained Word2Vec model.
+Where Are Embeddings Used?
+Everywhere. Embeddings are the representation layer underneath nearly every AI system you interact with.
+Search engines use them to match your query to documents by meaning, not just keywords. When you search “how to fix a leaky faucet,” the engine returns results about “plumbing repair” because in embedding space, those phrases are neighbors. ChatGPT and other LLMs use embeddings as the first step in processing every token. Image generators like DALL-E and Stable Diffusion use text and image embeddings to connect your prompt to the visual output. Recommendation systems at Spotify and Amazon represent both users and items as embeddings. Your listening history becomes a vector, every song becomes a vector, and “similar” means “nearby.”
+(If you’ve been listening to Eiffel 65 and Aqua, Spotify knows you’re getting recommended Vengaboys. Don’t ask how I know this.)
+Embeddings are the swiss-army knife of machine learning. They turn anything into vectors that machines can reason about: words, images, songs, users.
+Just as Expelliarmus is Harry’s favorite spell, embeddings are my favorite ML tool.
+Want to See This Applied to Real Systems?
+Embeddings are just one piece of the puzzle. The real challenge begins when you move from isolated models to designing full machine learning and generative AI systems that retrieve context, handle scale, manage trade-offs, and survive in production.
+If you’re interested in how these pieces come together in practice, I’ll be running a live workshop on Machine Learning and Generative AI System Design on:
+Feb 28 | 10:30 am – 3:00 pm EDT
+In this session, we’ll go beyond theory and walk through how to:
+• Define clean system boundaries
+• Make trade-offs across cost, latency, and reliability
+• Design ML architectures that scale safely in production
+We’ll also run live system design exercises, and you’ll have direct access for Q&A and feedback. The goal is to leave with a reusable ML system design framework you can apply immediately.
+As part of the Palindrome community, you can use code TIVADAR35 for 35% off. The code is valid until Feb 240.
+
+Unsubscribe https://substack.com/redirect/2/eyJlIjoiaHR0cHM6Ly90aGVwYWxpbmRyb21lLm9yZy9hY3Rpb24vZGlzYWJsZV9lbWFpbD90b2tlbj1leUoxYzJWeVgybGtJam94TkRVMk16TXhPU3dpY0c5emRGOXBaQ0k2TVRnNE5ETXdNRGd6TENKcFlYUWlPakUzTnpFME9UZzNNakFzSW1WNGNDSTZNVGd3TXpBek5EY3lNQ3dpYVhOeklqb2ljSFZpTFRFeE56WTFNREVpTENKemRXSWlPaUprYVhOaFlteGxYMlZ0WVdsc0luMC5iQktvdXpKWHE2dnpjZU83cXktRlFiQ2dYUDhKNGNyY1N4TzBNTzVZQUdBIiwicCI6MTg4NDMwMDgzLCJzIjoxMTc2NTAxLCJmIjp0cnVlLCJ1IjoxNDU2MzMxOSwiaWF0IjoxNzcxNDk4NzIwLCJleHAiOjIwODcwNzQ3MjAsImlzcyI6InB1Yi0wIiwic3ViIjoibGluay1yZWRpcmVjdCJ9.RDm-QsiobKuO4evRqAskjpZ3n01YyYr86pgLXnGhoTI?

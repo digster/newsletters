@@ -1,0 +1,37 @@
+---
+subject: "Meta's Twitter competitor 📱, world's fastest train 🚂, building career prestige ✍️"
+from: "TLDR <dan@tldrnewsletter.com>"
+to: ""
+date: 2023-07-05 10:17:09
+labels: ["CATEGORY_PERSONAL", "IMPORTANT", "INBOX", "TLDR", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "IMPORTANT", "INBOX", "Label_795315172960844453", "UNREAD"]
+---
+Science & Futuristic Technology
+|
+[One shot of a kidney protein gave monkeys a brain boost (10 minute read)](https://tracking.tldrnewsletter.com/CL0/https:%2F%2Farstechnica.com%2Fscience%2F2023%2F07%2Fone-shot-of-a-kidney-protein-gave-monkeys-a-brain-boost%2F%3Futm_source=tldrnewsletter/1/01000189258e4c40-0040e1cc-fd9c-4e68-8b41-b5daffe705d2-000000/hhivAKraSoHZK8gqaiuu9WlM7n2fmUg6oJctBt8Uhqw=308)
+Researchers at Yale and the University of California, San Francisco found that a single injection of a protein called klotho led to modest improvements in cognitive function in older monkeys. Klotho is produced by the kidney and it helps regulate the kidneys and metabolism. Humans with higher levels of the protein perform better in cognitive tests. The protein may help in rejuvenating brain function in older adults. |
+[At 281 miles an hour, China's new high-speed maglev train is the world's fastest (3 minute read)](https://tracking.tldrnewsletter.com/CL0/https:%2F%2Finterestingengineering.com%2Finnovation%2Fworlds-fastest-281-mph-cr450-chinese-maglev-train%3Futm_source=tldrnewsletter/1/01000189258e4c40-0040e1cc-fd9c-4e68-8b41-b5daffe705d2-000000/xCkeAs2jHw13Gj-WsnUbkWHLXFEhC2-Fldkfb4XNFq0=308)
+China's next-generation high-speed train has set a new record of 281 miles per hour during a test run. The train uses electromagnetic technology to levitate above the rail and eliminate friction. It doesn't contain any technology that is patented or licensed by other train makers, demonstrating China's ability to develop the system through homegrown innovation. Maglev technology is not available everywhere in China, so the country is still looking to improve travel speeds on existing infrastructure. |
+Programming, Design & Data Science
+|
+[The Concise TypeScript Book (GitHub Repo)](https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fgithub.com%2Fgibbok%2Ftypescript-book%3Futm_source=tldrnewsletter/1/01000189258e4c40-0040e1cc-fd9c-4e68-8b41-b5daffe705d2-000000/H0znEevl2sxhADfLG2J-NmS8isFs0A_WwJJ5BYtZsD8=308)
+The Concise TypeScript Book provides an overview of TypeScript's capabilities. It covers all aspects found in the latest version of the language. The book enhances understanding and proficiency in TypeScript for both beginner and experienced developers. |
+[vlite (GitHub Repo)](https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fgithub.com%2Fsdan%2Fvlite%3Futm_source=tldrnewsletter/1/01000189258e4c40-0040e1cc-fd9c-4e68-8b41-b5daffe705d2-000000/clDA2RTCD5-ZJ2AYO545d2uZWd7UXzRcFsgiJif3HCc=308)
+vlite is a vector database written in less than 200 lines of code. It is designed for agents, ChatGPT Plugins, and other AI apps. vlite uses Apple's Metal Performance Shaders via PyTorch to accelerate vector loading and CPU threading to accelerate vector queries. |
+[So where are we all supposed to go now? (7 minute read)](https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.theverge.com%2F2023%2F7%2F3%2F23782607%2Fsocial-web-public-apps-end-reddit-twitter-mastodon%3Futm_source=tldrnewsletter/1/01000189258e4c40-0040e1cc-fd9c-4e68-8b41-b5daffe705d2-000000/Ncn829faGqs3jivC0FHPHUYTlrViXsOzQamZgTwOzbg=308)
+There are several factors at play causing many large social media platforms to collapse at the same time. Companies are switching from a 'growth at all costs' mindset to an 'actually make some money' strategy, causing them to scramble for new features and pivot to whatever the latest trend is. The rise of AI has caused some platforms to realize the value they were giving to other companies for free, resulting in measures to address data scraping. Social platforms are turning into entertainment platforms as there is much more money in putting ads in front of people than in connecting people. |
+[Building personal and organizational prestige (15 minute read)](https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flethain.com%2Fbuilding-prestige%2F%3Futm_source=tldrnewsletter/1/01000189258e4c40-0040e1cc-fd9c-4e68-8b41-b5daffe705d2-000000/ypQrIp3s9kL5L1_TjrKeMW9OrgOBMTw8do2_rUKKbGs=308)
+Many lead engineers feel that they'd be a candidate for a significantly better role if their personal brand was better known. The value of brand building may be overemphasized. Enhancing prestige may be more impactful - and there's a relatively straightforward playbook for increasing personal and organizational prestige. This article talks about building prestige, deciding whether it is valuable to build a personal brand, how to manufacture prestige, and how to measure prestige. It aims to equip engineers with enough information to decide whether to invest into these areas. |
+[Seriously, don't sign a CLA (4 minute read)](https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fdrewdevault.com%2F2023%2F07%2F04%2FDont-sign-a-CLA-2.html%3Futm_source=tldrnewsletter/1/01000189258e4c40-0040e1cc-fd9c-4e68-8b41-b5daffe705d2-000000/FZc6m0Nt3CuQH4u4-jLVfTU_T7gaQgsict8zSwcuuO4=308)
+A contributor license agreement usually includes a copyright assignment clause that gives upstream maintainers effective ownership over the contributor's copyright and the right to license the contribution in any manner they choose in the future. |
+[TLDR Talent](https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fdanni763618.typeform.com%2Fto%2FrSL4lOH3/2/01000189258e4c40-0040e1cc-fd9c-4e68-8b41-b5daffe705d2-000000/FYBgrulgycY2tsxNH4dpx5fPxElo2xuKU5WpkS4bokA=308) is our exclusive community where we help world-class tech talent and get intros to companies of their choice, along with a number of exciting startups and tech companies curated by TLDR.
+We give you full control of the process, you can specify if you’re actively searching or passively interested only if something amazing comes along. Set your preferred compensation, seniority/title/role, specific companies (or types of companies) you’d like to work for and more. [Click here to apply](https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fdanni763618.typeform.com%2Fto%2FrSL4lOH3/3/01000189258e4c40-0040e1cc-fd9c-4e68-8b41-b5daffe705d2-000000/DSOZ4MjejLGRx9G9HavlXk5rr35mtaGeCFJGCEEgs2s=308).
+|
+If your company is interested in reaching an audience of tech executives, decision-makers and engineers, you may want to [advertise with us](https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fshare.hsforms.com%2F1OxvmrkcFS4qsxKpNXCi76wee466%3Futm_source=tldr%26utm_medium=newsletter/2/01000189258e4c40-0040e1cc-fd9c-4e68-8b41-b5daffe705d2-000000/3ENEBMeoQi0VsupgYG3B1Vn3hWa5Vjz5gli8nDquaWU=308).
+If you have any comments or feedback, just respond to this email!
+Thanks for reading,
+[Dan Ni](https://tracking.tldrnewsletter.com/CL0/https:%2F%2Ftwitter.com%2Ftldrdan/1/01000189258e4c40-0040e1cc-fd9c-4e68-8b41-b5daffe705d2-000000/IgkQGzQlK_Rd1Pr9q0CPUarQLjqsnLF2EEKDIWxTsgE=308) and [Stephen Flanders](https://tracking.tldrnewsletter.com/CL0/https:%2F%2Ftwitter.com%2FSteveFlanders22/1/01000189258e4c40-0040e1cc-fd9c-4e68-8b41-b5daffe705d2-000000/qevjDPrEV-Jvr7n8X1lE3fiGEcWcRtdSAdg4VgnkxD4=308)
+|
+|
+|
+|

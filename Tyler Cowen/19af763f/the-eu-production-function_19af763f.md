@@ -1,0 +1,13 @@
+---
+subject: "The EU production function"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2025-12-07 05:58:34
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+The central puzzle of the EU is its extraordinary productivity. Grand coalitions, like the government recently formed in Germany, typically produce paralysis. The EU’s governing coalition is even grander, spanning the center-right EPP, the Socialists, the Liberals, and often the Greens, yet between 2019 and 2024, the EU passed around 13,000 acts, about seven per day. The U.S. Congress, over the same period, produced roughly 3,500 pieces of legislation and 2,000 resolutions.
+[1]Not only is the coalition broad, but encompasses huge national and regional diversity. In Brussels, the Parliament has 705 members from roughly 200 national parties. The Council represents 27 sovereign governments with conflicting interests. A law faces a double hurdle, where a qualified majority of member states and of members of parliament must support it. The system should produce gridlock, more still than the paralysis commonly associated with the American federal government. Yet it works fast and produces a lot, both good and bad. The reason lies in the incentives: every actor in the system is rewarded for producing legislation, and not for exercising their vetoes...
+Formally, the EU is a multi-actor system with many veto points (Commission, Parliament, Council, national governments, etc.), which should require broad agreement and hence slow decision making. In practice, consensus is manufactured in advance rather than reached through deliberation.
+By the time any proposal comes up for an official vote, most alternatives have been eliminated behind closed doors. A small team of rapporteurs agrees among themselves; the committee endorses their bargain; the plenary, in turn, ratifies the committee deal; and the Council Presidency, pressed for time, accepts the compromise (with both Council and Parliament influenced along the way by the Commission’s mediation and drafting). Each actor can thus claim a victory and no one’s incentive is to apply the brakes.
+That is from [an excellent piece by Luis Garicano](http://marginalrevolution.com?action=user_content_redirect&uuid=f83001c3522e78f578f82bc770b20154d141e16244e0ab034f96fa4848167e69&blog_id=42693868&post_id=92000&user_id=262258391&subs_id=225460721&signature=83fb0d620d217ba661e691753ec77cc2&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly93d3cuc2lsaWNvbmNvbnRpbmVudC5jb20vcC9ob3ctYnJ1c3NlbHMtd3JpdGVzLXNvLW1hbnktbGF3cw=&email_id=08f9dc9d28c75110ce236abce4f34559). What would Buchanan and Tullock say?

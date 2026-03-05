@@ -1,0 +1,9 @@
+---
+subject: "October recap"
+from: "The Palindrome <thepalindrome@substack.com>"
+to: ""
+date: 2025-11-09 09:51:35
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tivadar Danka", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_3571324877567057163", "UNREAD"]
+---
+Struggling to learn math and machine learning on your own? The Palindrome makes complex ideas click—with visual explainers, step-by-step guides, and clear learning paths. Join the premium tier to master the core ideas behind machine learning! (Supporting this work doesn’t have to come out of your pocket. If you read The Palindrome as part of your professional development, you can use Hey there! Here’s a monthly recap of everything we created in October inside The Palindrome. If you’re interested in joining 540+ machine learning practitioners inside our premium membership, click below to unlock. October RecapPostsThese are all the articles we published in the past month, in case you missed them: RecordingsThese are the recordings of all the live events we hosted last month. Cheers, P.S. If you happen to have a product that you think is a good fit for the audience of The Palindrome, we’ll be glad to consider it for sponsorships. Take a look at When you're ready to go deeper, here’s how I can help: Get instant access to step-by-step learning tracks on graph theory, foundational mathematics, and building neural networks from scratch—with visuals and explanations designed to make it all finally click. 📘 Master the math that powers modern ML—linear algebra, calculus, and probability—with Python examples and crystal-clear explanations. Bridge the gap between textbook theory and real-world implementation. |

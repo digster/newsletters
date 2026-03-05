@@ -1,0 +1,16 @@
+---
+subject: "AIs and Spontaneous Order"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2025-07-22 11:15:23
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+Tupy and Boettke in the WSJ on [AI and the economy](http://marginalrevolution.com?action=user_content_redirect&uuid=cfdd8cd07a1ec75153ae2ad36a9dedec7640fa3d6affa8792e2f324229e66afe&blog_id=42693868&post_id=91129&user_id=262258391&subs_id=225460721&signature=ed8c0ac4db0e9d3704c9586d340de576&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly93d3cud3NqLmNvbS9vcGluaW9uL2FsZ29yaXRobXMtY2FudC1yZXBsYWNlLWZyZWUtbWFya2V0cy1hcnRpZmljaWFsLWludGVsbGlnZW5jZS1kZDNiNDI4Zg=&email_id=98939a393082e59949e5aff54177d0da):
+The belief that AI can achieve comparable results to free markets, let alone surpass them, reflects a misplaced confidence in computation and a misunderstanding of the price system. The problem for the would-be AI planners is that prices don’t exist like facts about the physical world for a computer to collect and process. They arise from competitive bidding over scarce resources and are inseparable from real market exchanges. Moreover, prices aren’t fixed inputs to be assumed in advance. They are continually being discovered and formed by entrepreneurs testing ideas about future consumer wants and resource constraints.
+Economic models that treat prices as given overlook the entrepreneurial actions that create them in the first place. Ludwig von Mises made this point in 1920: Without real market exchange, central planners lack meaningful prices for capital goods. Consequently, they can’t calculate whether directing steel to railways rather than hospitals adds or destroys value.
+I would another point. We are not going to have one AI to rule us all. Instead, there are going to be millions of agents who themselves will be participants in the market process. The buying and selling of the AI agents will contribute to the formation of prices but for all the Hayekian reasons that process will not be capable of being predicted.
+As I said [7 years ago](http://marginalrevolution.com?action=user_content_redirect&uuid=a63981ad0fd2cb3c879dac076d718049fcae7856dec6094a621207c51061b6bc&blog_id=42693868&post_id=91129&user_id=262258391&subs_id=225460721&signature=5ea7b3ea9236109a8bd8dacb2e1edeb1&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly9xci5hZS9wQWpVS3g&email_id=98939a393082e59949e5aff54177d0da) on Quora:
+AIs will themselves be part of the economy. Firms and individuals use AIs to make decisions. Thus, any AI has to take into account the decisions of other AIs. But no AI is going to be so far advanced beyond other AIs that this will be possible. In other words, as AIs increase in power so does the complexity of the economy.
+The problem of perfectly organizing an economy does not become easier with greater computing power precisely because greater computing power also makes the economy more complex.
+This isn’t to say AI won’t help improve economic policy—it might, if we listen. But the future economy won’t look like a centrally planned machine. It will look like an economy of von Neumanns—autonomous agents buying, selling, and strategizing in complex interaction.

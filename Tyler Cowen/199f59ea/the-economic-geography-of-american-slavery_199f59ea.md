@@ -1,0 +1,10 @@
+---
+subject: "The Economic Geography of American Slavery"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2025-10-18 04:40:40
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+What would the antebellum American economy have looked like without slavery? Using new micro-data on the U.S. economy in 1860, we document that where free and enslaved workers live and how much they earn correlates strongly—but differently—with geographic proxies for agricultural productivity, disease, and ease of slave escape. To explain these patterns, we build a quantitative spatial model of slavery, where slaveholders coerce enslaved workers into supplying more labor, capture the proceeds of their labor, and assign them to sectors and occupations that maximize owner profits rather than worker welfare. Combining theory and data, we then quantify how dismantling the institution of slavery affected the spatial economy. We find that the economic impacts of emancipation are substantial, generating welfare gains for the enslaved of roughly 1,200%, while reducing welfare of free workers by 0.7% and eliminating slaveholder profit. Aggregate GDP rises by 9.1%, with a contraction in agricultural productivity counteracted by an expansion in manufacturing and services driven by an exodus of formerly enslaved workers out of agriculture and into the U.S. North.
+That is from [a new NBER working paper](http://marginalrevolution.com?action=user_content_redirect&uuid=8bbd6402c10d872ea64bbc1c226816e63d514b932ecf034f32c38431ffa4fb05&blog_id=42693868&post_id=91674&user_id=262258391&subs_id=225460721&signature=2e9288e6d76224381f46daae78a23ce7&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly93d3cubmJlci5vcmcvcGFwZXJzL3czNDM1Ng=&email_id=f8a3d4f19a39c56f4b81de1e04d8af74) by

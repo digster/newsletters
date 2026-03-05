@@ -1,0 +1,15 @@
+---
+subject: "[Inverted Passion] You can only succeed if you know how you can fail"
+from: "Paras Chopra <paras1987@gmail.com>"
+to: ""
+date: 2023-02-20 09:03:07
+labels: ["CATEGORY_PERSONAL", "INBOX", "Paras Chopra"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_6668903435596043419"]
+---
+We want to be successful with our decisions. Even though failure is often glamorized, nobody wants it on purpose. Everyone wishes to be successful when they’re starting a company, launching a product, hiring a leader or even while buying a house.
+It may sound obvious, but the bedrock of good decisions is defining what good means before you execute on a decision.
+Here’s why it’s important to define a clear, objective and unambiguous criteria before making any decision. First, without a commitment to an objective criterion, your brain will latch onto your how you’re feeling to decide whether the outcome of the project is good or bad. These emotions are influenced by all sorts of subconscious cognitive biases. In the end, you will end up picking data points that support your emotional inclination while ignoring the other data points.
+An example of this is when you’re hiring someone. Without clearly defining what success looks for a particular role, you may get increasingly biased by your likeness to a particular person. Because there’s no objective criteria, you may start going with your hunch that’s subconsciously biased by the way a person dresses, talks and other such criteria that we use daily to judge strangers. But a company isn’t a tribal arena, and success in a job is most likely not a function of their first impressions.
+The second reason why an objective success criteria helps is that the task of defining what success means to you can shed light on the project plan and even whether you need to execute it or not. Without defining success criteria, you’re in the mode of “let’s do this and see what happens”. But what if you didn’t need to do it in the first place? Suppose you force yourself to define a success criterion for a job before hiring someone. It’s possible that your struggle with defining it tells you that it’s impossible for a person to achieve what you’re expecting her to do, or perhaps that such candidates don’t exist in the market, or perhaps that your business doesn’t need this role in the first place?
+The third reason for an objective success criteria is that without it, there’s no feedback or lessons for you to learn and improve. This is because without success criteria, there’s no failure criteria, and without that, you’d never know where exactly you went wrong. You can only course correct in future if you have clarity and without objective criteria, you’d have lots of data points but no way to prioritize them for learning.
+Remember: before taking a major decision, always make sure you have a clear evaluation criteria. Otherwise, you’re risking taking suboptimal decisions and at the same time not knowing why they’re suboptimal.

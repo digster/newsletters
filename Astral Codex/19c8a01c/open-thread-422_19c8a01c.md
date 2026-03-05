@@ -1,0 +1,12 @@
+---
+subject: "Open Thread 422"
+from: "Astral Codex Ten <astralcodexten@substack.com>"
+to: ""
+date: 2026-02-23 10:17:43
+labels: ["Astral Codex", "CATEGORY_PERSONAL", "INBOX", "UNREAD"]
+label_ids: ["Label_6409723252142624155", "CATEGORY_PERSONAL", "INBOX", "UNREAD"]
+---
+This is the weekly visible open thread. Post about anything you want, ask random questions, whatever. ACX has an unofficial 1: Are you interested in whether AIs are conscious, or what to do about it if they are/aren’t? The Cambridge Digital Minds group invites you to apply for their fellowship program. August 3-9, Cambridge UK, £1K stipend, learn more 2: Also from the European branch of our conspiracy: superintelligence alignment seminar in Prague, April 28 - May 28. Free tuition and lodging, possible help with travel expenses. Learn more 3: An ACX grantee, still in stealth mode, writes:
+4: I was recently somewhat featured in The piece says rationalists believe “that to reach the truth you have to abandon all existing modes of knowledge acquisition and start again from scratch”. The Harper’s fact-checker asked me if this was true and I emphatically said it wasn’t, so I’m not sure what role Harper’s fact-checking is playing here. The article describes me having dinner with my “acolytes”. I would have used the word “friends”, or, in one case, “wife”. The article says that “When there weren’t enough crackers to go with the cheese spread, [Scott] fetched some, murmuring to himself, “I will open the crackers so you will have crackers and be happy.”” As written, this makes me sound like a crazy person; I don’t remember this incident but, given the description, I’m almost sure I was saying it to my two year old child, which would have been helpful context in reassuring readers about my mental state. The article assesses that AI is hitting a wall at the time of writing (September 2025). I explained some of the difficulties with AI agents, but I’m worried that as written it makes it look like I agreed with its assessment. I did not. In the article, I say that I “never once actually made a decision [in my life]”. I don’t remember this conversation perfectly and he’s the one with the tape recorder, but I would have preferred to frame this as life mostly not presenting as a series of explicit decisions, although they do occasionally come up.
+5: In
+This is sufficiently interesting that I’m curious to hear from someone who engaged with Bio Anchors and forecasting more deeply than I did - did we all just miss this? You're currently a free subscriber to |

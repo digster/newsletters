@@ -1,0 +1,20 @@
+---
+subject: "Now We Shall Mine The Oceans - EP 39 Gerard Barron"
+from: "Ashlee Vance from Core Memory  <ashleevance@substack.com>"
+to: ""
+date: 2025-10-22 13:19:01
+labels: ["Ashlee Vance", "CATEGORY_PERSONAL", "INBOX", "UNREAD"]
+label_ids: ["Label_4216359091400734623", "CATEGORY_PERSONAL", "INBOX", "UNREAD"]
+---
+|
+We know that there are trillions of dollars’ worth of minerals sitting on the ocean floor. The big question is whether humans should start hoovering them up.
+Our guest this week is very much Pro Hoover. He’s Gerard Barron, the head of The Metals Company, which has spent years preparing to become a major player in the seabed mining industry. The company has found a spot in the Pacific Ocean that’s full of black, baseball-sized nodules rich in nickel, copper, cobalt, and manganese. In short order, The Metals Company plans to send vehicles down to gather the nodules up and then refine them.
+The pro case here is that the nodules are quite literally sitting atop the ocean floor. You don’t need to burrow into the seabed and wreak the usual environmental havoc associated with mining. You don’t need people laboring under dire conditions. And these nodules are so mineral rich that you don’t need the typical amounts of refining to get at the good stuff.
+The con case is that we don’t know a ton about what goes on down there on the ocean floor in terms of animal life. Us humans could be triggering yet another environmental catastrophe on our way to harvesting what we desire.
+Barron is well aware of the criticisms against seabed mining. John Oliver, among others, has [gone hard](https://substack.com/redirect/1276f7c1-ac79-4b40-87a4-baa89cbfce38?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) at him and The Metals Company. And Greenpeace thinks Barron might be Satan.
+Meanwhile, the U.S. very much wants to become a seabed mining power, as it attempts to blunt China’s dominance in critical minerals and rare earths. And, of course, the modern world depends on things like nickel, copper, cobalt, and manganese, and seabed mining looks like a very efficient way to get more of them.
+We get into the pros and cons of this new field in gory detail on the pod. Some of you will be satisfied with Barron’s philosophy. Some of you won’t. In either case, you’ll come away better educated on the history of this industry and the technology driving it.
+Enjoy!
+The Core Memory podcast is sponsored by [Brex](https://substack.com/redirect/7469f308-1f7c-45ef-a18a-a73911468a9e?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o), the intelligent finance platform. Like thousands of ambitious, innovative companies, we run on Brex so we can spend smarter and move faster. And you can too. Learn more at [www.brex.com/corememory](https://substack.com/redirect/7469f308-1f7c-45ef-a18a-a73911468a9e?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+The podcast is also made possible by [E1 Ventures](https://substack.com/redirect/01e92295-f942-4441-a2e8-9d5c56380157?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o), which backs the most ambitious founders and start-ups.
+Hopefully, you enjoyed this story. If so, please share it and subscribe to Core Memory. We want to do more of this for you and need your help. Thanks!

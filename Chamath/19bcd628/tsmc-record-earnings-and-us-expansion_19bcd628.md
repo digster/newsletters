@@ -1,0 +1,27 @@
+---
+subject: "TSMC Record Earnings and U.S. Expansion"
+from: "Chamath Palihapitiya <chamath@substack.com>"
+to: ""
+date: 2026-01-17 18:14:41
+labels: ["CATEGORY_PERSONAL", "Chamath", "INBOX", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "Label_4017391144830520384", "INBOX", "UNREAD"]
+---
+|
+What I Read This Week: a summary of the content that I consumed this week…
+1) TSMC Record Earnings & U.S. Expansion
+[TSMC reported record profitability with a 35% jump in fourth-quarter profit](https://substack.com/redirect/b49f59b0-7f21-436d-b3dd-473725e20d93?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) and by platform, High Performance Computing represented 55% of net revenue while smartphones represented 32%.
+Management indicated that 2026 revenue is expected to grow by 30% and guided capital expenditure to $52–$56B. TSMC historically aligns spending tightly with confirmed demand, but this level of forward investment reflects capacity constraints and a confidence in hyperscalers’ commitment to reserve capacity for years in advance.
+And from a geographic perspective, revenue from customers based in North America (Apple, Nvidia, AMD, etc) accounted for 74% of total net revenue this last quarter. Their capital allocation strategy supports this concentration, with a focus on accelerating the investments into the U.S. with their Arizona fabs (totalling 4 now) and the company’s first advanced packaging facility in the United States.
+[That expansion aligns with a new U.S.–Taiwan trade framework announced this Thursday](https://substack.com/redirect/df49b278-11ca-470f-a383-461d5873e145?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o). The agreement lowers broad tariffs on Taiwanese exports from 20% to 15%, while linking special lowered tariffs to semiconductor investment in the U.S. during construction.
+Taiwan is supporting this deal with $500B in combined investment commitments ($250B by companies and $250B supported by the government), reinforcing broad U.S.-based semiconductor manufacturing as a long-term policy objective.
+“The objective is to bring 40% of Taiwan’s entire supply chain and production… to America… during President Trump’s term.” - [Howard Lutnick, U.S. Secretary of Commerce](https://substack.com/redirect/c5224b38-3e9b-4968-89d4-fdc8194e6cf4?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+2) Claude Cowork - Written By AI
+[On Monday, Anthropic released a new AI tool called Claude Cowork](https://substack.com/redirect/57ceddbf-ca31-4dfa-9156-062c086e7da7?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o), a desktop agent that can read, edit, or create files within folders you share. Cowork can also be linked with Claude in Chrome for tasks that need browser access.
+It was revealed this product was made in a 1.5 week sprint, and when asked “How much of it did Claude Code write?”
+Boris Cherny, the Creator and Head of Claude Code responded, “All of it… [It was not zero intervention! We had to plan, design, and go back and forth with Claude. Claude wrote all the code](https://substack.com/redirect/dc8d66dc-03f2-4ebb-8d69-8781c2dfdec8?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o).”
+This shows a new phase of code development where creators provide high-level goals, human guidance and oversight, and AI agents execute much of the code and integration work. This also falls in line with the prediction that Dario made in early 2025 where he said “[I think we’ll be there in 3 to 6 months - where AI is writing 90% of the code. And then in 12 months, we may be in a world where AI is writing essentially all of the code.](https://substack.com/redirect/68a25b74-fa70-4057-9ab6-db25651356dd?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)”
+3) Siri x Gemini
+[A partnership between Apple and Google was announced on Monday](https://substack.com/redirect/975b3f98-3029-4e9f-9c72-1064d83b78a2?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o), revealing a multiyear partnership under which Google’s Gemini AI models will power major upgrades to Apple Intelligence and Siri.
+This falls in line with the [Bloomberg report from August](https://substack.com/redirect/428311ca-0f2c-46f1-bafa-68d2c63f8fbc?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) that hinted at Apple being in discussions with Google. It was also later reported that the deal could be about [$1 billion a year](https://substack.com/redirect/fcfee366-78fa-4a63-a732-caa966ee263d?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) for Apple to utilize Google’s AI models.
+This announcement reflects Apple’s decision to lean on Google’s advanced backbone models rather than solely develop every AI layer internally. Apple’s goal is to launch a more personalized Siri sometime this year and have the AI run on Apple devices and Private Cloud Compute to maintain Apple’s privacy standards.
+[Trump Moves to Make Data Centers Pay for Surging Power Costs](https://substack.com/redirect/2b8df3f1-750b-48eb-9515-dddbab3d79ea?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)(Bloomberg)[Amazon Is Buying America’s First New Copper Output in More Than a Decade](https://substack.com/redirect/639fdfbc-92d3-4070-83d9-4158dc2bb391?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)(WSJ)[2026: This is AGI](https://substack.com/redirect/d00036c5-d58c-4c11-8078-7866b3ff30eb?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)(Pat Grady & Sonya Huang)

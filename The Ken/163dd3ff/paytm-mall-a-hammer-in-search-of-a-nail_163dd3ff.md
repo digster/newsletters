@@ -1,0 +1,17 @@
+---
+subject: "Paytm Mall: A hammer in search of a nail"
+from: "The Ken <info@the-ken.com>"
+to: ""
+date: 2018-06-08 02:35:43
+labels: ["CATEGORY_PERSONAL", "INBOX", "The Ken"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_8244464457792971031"]
+---
+Last evening, the United Nations and Niti Aayog, India’s policy think tank, launched a marketplace of financing instruments for women entrepreneurs at Shangrila Hotel in Bengaluru. For a good part of the day, the discussion was around how to bring more investors and corporate leaders to the risk threshold.
+As I was walking out, mulling over what the UN Resident Coordinator Yuri Afanasiev said about women entrepreneurs—“they know how to run a business”, what they don’t know is legalese, which instrument is good for them, the supply chain…— an investor walked up to me. Since I had introduced myself earlier, he knew I was from The Ken and said, “Your publication writes on startups. Tell me what’s happening at Paytm.”
+There was a time when tech or business journalists in Bengaluru would be asked about Infosys. Then it became Flipkart. Today, it’s Paytm. In the attention-grab economy—everyone wants you to buy, borrow, lend, bank, pay, and whatnot — on their platform, businesses have become shapeshifting entities.
+Paytm is no different. Wallet, payments bank and now Mall. In the last six months, Paytm Mall has been called many things. E-commerce. Digital commerce. Offline to online commerce. Go big or go home kind of commerce. Writers of our story today say, what Paytm Mall hasn’t been called so far is hope. Hope for the company after its wallet business has become irrelevant. Hope for putting to use what it has learnt in its organisational history.
+Last month, it raised $450 million from the existing investors, Japan’s SoftBank Group and China’s Alibaba Group Holdings. Paytm needs tons of money to make its O2O experiment work. An experiment that is modelled after China’s Tmall, but it can’t be a wholesale copy-paste affair in India as the problems to solve in O2O in the two countries are so different. TataCLiQ hasn’t been successful here. At least, not yet. How’s Paytm coping? Is this, once again, all about discounts and throwing money at customer acquisition?
+Patanjali, Harveen and Ashish have the story, from the point of QR code and all the way to unit economics. Despite the odds in O2O, there’s an extremely fortuitous turn of events for Paytm. For that and more read the story here: [https://the-ken.com/story/paytm-mall-hammer-nail/](http://link.the-ken.com/wf/click?upn=HQSq6eeRV1xAVaGuFOahuNCZVVXPeP-2FJpSqxhvIUDrn-2FiXoQHEpcOXr51XazIUIa3yfbqHOA3tLkZXjgq4invPAD-2FHL7utG2b6vsI-2Bsbh-2Bbvjkxrl3eGbhzgbu-2FW39GAhlLgMHMMI1hcWQVBew5j-2FNeKLtvQGfIWdnRp29oSi5gh44sLndo5aH8bhUuzF-2F5oPBeYt-2BnJ-2FF42LGac4-2BJjnRNn3Z0d-2Bg8biLZGrOa1R2W-2B85AJuNPQ0GwgBqFMO9gy_S4jLOsNx-2Fv6Jev2nvow8b7P9pBCWGd8KNZfb200gkZLQNlXQHio0noZzXtsWoloZmPWeyZsh7a4QCV9ufwCUKi00jlBT0uEdvwYDMuVuqcOdgXl9O0twzBPGIgDU80yr4uaYxwPAKOYROQH8Q093SYGMqajddTBSEvnX4Ng5IWxXfMvVBpc7hlga-2BM0SeCd4l-2BAhGmZcCIJz8FQi-2B3Sf7u4Cnxh2UdBvHu0MqMAE-2FvOjsXs74Iyi7Mkp4SNn2zLypHWoR7qYMIvd74DCppuoDIBgpfb1p4OYrgbrCUxD2u2JP-2FfmflgdOPWewlcHQ6FoLvUb3N6XAGvaK-2Bc321VhMjL-2FY0wKnLB4MUiIPasZOlrcmQe-2F0irv-2FcdAwe-2FZHiIDiGOvMfDDYvdbfV59i5B8YNCMxD8pDnePLxrpwezW3AEpB5MRWnNDWMyb6AGbfooX)
+Have a great weekend. We’ll see you Monday.
+Warm regards,
+Seema Singh

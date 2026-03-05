@@ -1,0 +1,10 @@
+---
+subject: "X Fact Check: Does Gender Integration Moderate Politics?"
+from: "Astral Codex Ten <astralcodexten@substack.com>"
+to: ""
+date: 2024-02-15 17:53:18
+labels: ["Astral Codex", "CATEGORY_PERSONAL", "INBOX", "UNREAD"]
+label_ids: ["Label_6409723252142624155", "CATEGORY_PERSONAL", "INBOX", "UNREAD"]
+---
+John Burn-Murdoch (that’s his surname, not a suggestion) argues that a political gap is forming between men and women: Although there has long been a weak tendency for men to be more conservative and women more liberal, it seems this has grown rapidly in recent years. Paul Graham proposed an explanation: …and commenter Nevin Climenhaga proposed a potential test: Yes! Let’s do it! Using the 2022 survey data, I compared: Men with at least one brother, but no sister Men with at least one sister, but no brother Women with at least one brother, but no sister Women with at least one sister, but no brother
+…on their political attitudes, measured on a scale of 1 - 10, where 1 was far-left and 10 was far-right. Here’s what I found: No sign of any effect. This doesn’t necessarily disprove Paul’s original claim. It just suggests it doesn’t extend to siblings. Which would, admittedly, be weird. Is it bad to test this in the ACX survey data? Might ACX already be selecting a certain small window from the political spectrum? Although it’s always better to use a more representative sample, despite its political selection the ACX sample was able to demonstrate that women were generally further left than men. So I think if this was significantly weaker in some sibling-based subgroup, it should have been able to demonstrate that too. Other potential explanations for an increasing ideological gender gap include [As always, you can download the ACX survey data You're currently a free subscriber to |

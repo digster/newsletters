@@ -1,0 +1,14 @@
+---
+subject: "Understanding the Manipal-Fortis merger"
+from: "The Ken <info@the-ken.com>"
+to: ""
+date: 2018-04-02 02:35:53
+labels: ["CATEGORY_PERSONAL", "INBOX", "The Ken", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_8244464457792971031", "UNREAD"]
+---
+Good Morning Ishan,
+Good to be back at work. It is going to be a busy day, all of us have stuff to catch up on, pending emails to reply to, so let’s get down to today’s story. From my colleague Seema, who patiently reported on the Manipal Health Enterprises-Fortis Healthcare merger. Announced last week, this deal brings about the largest hospital chain in India. That’s 41 hospitals spread across eleven states.
+Seema says that the TPG-backed Manipal’s acquisition of Fortis is a special deal. Surely because of its size but much more because of two other reasons. First, The TPG approach to hospitals is more and more looking like how SoftBank approaches its tech investments. Big, bold cheques, across the world. TPG has invested in the entire range of healthcare—from data and clinical services to surgical products to hospitals and diagnostics. It is now raising a new $11 billion fund, with a quarter dedicated to healthcare. Second, because this deal finally brings some sort of closure to the streak of ill-fated decisions at Fortis. Questions about mismanagement amidst multiple investigations of fraud.
+All of this is important context. In light of that, Seema makes a good point. This deal is a starting point, and everyone’s watching. Manipal has to make it count and build an efficient network of hospitals. It cannot squander away the opportunity. Today’s piece is to the point, which will help you understand how the business of hospitals is shaping up. You can read it here: [https://the-ken.com/story/](http://link.the-ken.com/wf/click?upn=HQSq6eeRV1xAVaGuFOahuNCZVVXPeP-2FJpSqxhvIUDrn9G8OP7OffBkTV2NCxe9hoQSCGng2S-2BiKN3mzyr0UOBQ3mSLgvW9a2svP9hlg2oDm-2Bq6HxvpDFcmmdIx-2BV7-2FNUeW1C3m9C19SDpkZzV-2FO3if0YrgBV-2BbMyTFja1MIy9pO1dEv8ZZx4czImD5jiaHZs52koAE834n121UB4SYkiIgaTKeopwENxaWXR1qrdGe1N72y3cvOgAeu0emOeQwXS4DRIHLC3D0VSyvmiXMyUwi4zUthEgvOwzDr40T810UNMRp-2BR4yz9kdtrASMgf52Q_S4jLOsNx-2Fv6Jev2nvow8b7P9pBCWGd8KNZfb200gkZLQNlXQHio0noZzXtsWoloZmPWeyZsh7a4QCV9ufwCUKi00jlBT0uEdvwYDMuVuqcPK-2FUGkSt1lNwZqOY-2BgBGJSFDOBJgaLQ-2FZGw8yWu5CSQ8LuWzlEOx7-2FrfTv24qX-2BpZ2vzxCvDXXT2ONV9Sc2CYG2uVP2pB2HkfC6JKP9S4-2F09f6x7BeDmgGnaQWP6BX-2F14o0KLpRe96LyeitYD1gHJebrxDeRR6xvtSI8TgxN8pQ6IEvouwL5axFZOZYdbImysokZQaCuC4yzuSMWdpdm5t-2FY-2BU8VYiZOLTw0pN-2B3YO5tKq1RZJkeCrEg73k4cIwIQftgCokTSYxZoK-2FNQEpraPOMXWlOgFqaJHiwUNQJT0UKs639IjAAa1-2B-2FAQghUitRG9zm-2FfF44oRaXC0az0QvoZ) manipal-hospitals-fortis-deal- groundbreaking-or-groundhog- day/
+Have a great, hard-working week.
+This email was sent by: The Ken

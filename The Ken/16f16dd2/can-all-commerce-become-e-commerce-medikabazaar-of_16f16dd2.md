@@ -1,0 +1,24 @@
+---
+subject: "Can all commerce become e-commerce? Medikabazaar offers lessons from healthcare"
+from: "The Ken <info@the-ken.com>"
+to: ""
+date: 2019-12-18 02:36:04
+labels: ["CATEGORY_PERSONAL", "INBOX", "The Ken"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_8244464457792971031"]
+---
+Good Morning Ishan,
+Will everything eventually be sold online? Can everything be sold online? Should everything be sold online?
+That’s today’s story.
+Healthcare is our sector. Over the past decade, segment after segment has moved online in India. Drugs are sold online. Consultations too. And diagnostics. And insurance. But one segment remained stubbornly impervious to the threat or opportunity of e-commerce: medical devices.
+Perhaps for a reason. But entrepreneurs are often impervious to conventional wisdom. So too Vivek Tiwari, co-founder and CEO of Boston Ivy, the company that runs India’s largest e-commerce platform for medical devices - [Medikabazaar.com](http://medikabazaar.com/). Medikabazaar offers a range of medical devices ranging from high-end ones like MRI machines, which can cost about Rs 10 crore, to simple disposables such as surgical gloves, which cost as little as Rs 20. On the back of hard-fought early traction, it also raised a Series B funding round of nearly $16 million.
+But, as Ruhi reports in her story, Medikabazaar’s growth challenges are immense. Tiwari expects his company to grow over 400% in topline this year. But to do that he will need to leap past that chasm that separates low-margin, low-cost consumables and high-margin, high-cost devices. The buyers for the former are primarily patients and small clinics, while those for the latter are larger hospitals and chains. The former is a B2C business, while the latter is a B2B one.
+Sincerely,
+Rohin Dharmakumar
+PS: Have a great story idea for The Ken? We’re looking for original, analytical and skilfully-narrated pieces. If you have a good story to tell, or if you know anyone who does, check out the details [here](http://link.the-ken.com/wf/click?upn=HQSq6eeRV1xAVaGuFOahuIdv4prVsoDJ6bUT1BrLI23BNd6EzSREIUo-2FyJPqkmBJ_S4jLOsNx-2Fv6Jev2nvow8b7P9pBCWGd8KNZfb200gkZLQNlXQHio0noZzXtsWoloZmPWeyZsh7a4QCV9ufwCUKi00jlBT0uEdvwYDMuVuqcPNDOj9L8JgOW058uGQMMLZags2SliudCpMrd7WLC9AJa2PriUp5gCiW9YQz-2Bwh-2FOouDrbo3q1LbS-2B7d30ov1P7Y3IKLrAd3WNCZ6ADfxLXbfkyj8Jvo4jX6sSIechAiDU8dmMAECNbAIVFq6yc-2B27-2FIWaEgjakkQTeyhpUDNNWeusyc65W7ifC7-2BLp7KxR0CIipOkuDMLtqJNa60CRE2l8jsjk0tjEh4fF30CY6SaoHlDthOibc15RAJGzoiMtp79DgJrRtPGjCF51RPEIUq03pSmbZ1XPyEcMUWFwVKIvHhLNWD-2Fjb-2FZAelLWrSNQRpKUpTGtljYDwQABK1QbxL20).
+|
+What you just read is the personalised daily introduction to The Ken's story. Written by a different person each day. Often insightful, sometimes witty, and very rarely boring. Someone sent this to you? [Sign up for free](https://the-ken.com/?modal=register). Don't like these? You can [unsubscribe](http://link.the-ken.com/asm/unsubscribe/?user_id=2349339&data=UB0fE7mDGiw0Kvfu47jmGne1dPQYMSPDAxekhbADrufUPE83iAJCKc1xbu5t3_U0y-kce3DqkyjQVSwBUR3-czAlVKWcza07a5y2vi7nMrcnLocLtsXB3Le1cgmVVywJKR1aUJ16zIGsFOTRcMl69n0YAv6rbhHjFbiFzg95kP2EbttgsQQpClKT67J4oOuyNpQnJQUk1MwTunETWvxEjl9iPdyTvz4aOilXE8FZX04-R-Yp9b1xcWOdrwm-nREKJudFFYl7aRZt2oOkKhdZU07QAicA_rT1q83TVce8o1FYD7CHAdrEaNk3HnuOIlK-ONqHmmGF94yz2bl3fKBDYVAVinQCVvn_egVOJg31zLiWOBkcXq8wNXki_9lcXb0KgGmXtsHqppGtKo2RMB5XXosSVQbToALI4f_TlMAfdZIT6skSkLR7ksmvhHLDTHofa_A45NtIjyPaOTz-6cD6HDh9XCFeub7lp6T4KGkoHWhB4vWvLUeR97-XpqOMnO4ymc9GPn25UYtmHXkwYq2ck2kQstQ55BR04Uc2DJHFeX8=). Want to manage your emails? Click [here](http://link.the-ken.com/asm/?user_id=2349339&data=0Mn0inoeBde3bmj-aUNvE8zNSMWCXykhTXQNQ87SdB0NZ3mQ0HDzXTS9Z4Pm9w06ca-DdHmR8p_WxdPt0wzG4npYII3xVnksZZJ91IrqJ7zheUcr54OGQeRa9H8mEfT0mMFpKvPFf-Gvdxgz4fxMuK7jWXkaQ-ksjKmPI-f9sxnudsuUV3XdtiYNfDjxipVzgkudTLsH9U3Zsd7f4B8tgKKE5gKVHlYftgA8MF3CqL8ophCF4cfLf6La-VSbTvvexSmKHl8dHTqLZfQJ4dWUs7eUKaaWgqMYqhkYwMdXL2MXhnlSlNKsWzZTxDQoTTjeq3mvTb_8Oo-LMMsQ6xlafLGBPNGv16vUxDsSuXsx7lGLvPZa-AW0lm8i7A9mh-MpnkoGB1gPA71-aCg2P-azjOQ1AxsdpVrX6hTwe204zXwiKAaocOFg-dDB_y5TLKAtkWzzrGSbTsOHBi16QcRXCthlU5BGWd5s1fbueWWzRJGvxfkNP1FxqTdtA2dcVvaW8GXsv-kyqX8Irpc8_ZPATg==).
+|
+|
+|
+|
+|

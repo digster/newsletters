@@ -1,0 +1,13 @@
+---
+subject: "Thursday assorted links"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2025-09-25 16:10:42
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+1. [Energy projects delayed or cancelled](http://marginalrevolution.com?action=user_content_redirect&uuid=e4b6b6fcaf5f17365f333d9962870564ad55a7a41065bf7de3ff7f037c6561b1&blog_id=42693868&post_id=91539&user_id=262258391&subs_id=225460721&signature=6eb2fe4d64e375f0afd949902ada44e5&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly94LmNvbS9qb2huYXJub2xkZm5kdG4vc3RhdHVzLzE5NzA1NDU1NDE2Mzg2OTI5NDQ/cz00NiZ0PU1qblhfRFhUUUpVelpCSTZpbVVBU2c&email_id=3c91844e9813e1435fc996b1ccb205da).
+2. [Roger Scruton, predicting 1997 for Britain](http://marginalrevolution.com?action=user_content_redirect&uuid=abf48a232cde78c53457051af13e2eea5b80d7192433a6fcc6942626af07d243&blog_id=42693868&post_id=91539&user_id=262258391&subs_id=225460721&signature=adbd00bfbe138b75dbfc6c9652b085cb&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly94LmNvbS9pbnRvdGhlZnV0dXJlNDUvc3RhdHVzLzE5NzA1MjQwNDA2MTI3NjU4OTk/cz00OA=&email_id=3c91844e9813e1435fc996b1ccb205da).
+3. [One definition of "the South."](http://marginalrevolution.com?action=user_content_redirect&uuid=6c294c615ec5893b3b7dc542c5a67d6dad8fb2cea541f278ad6077b7e446ba55&blog_id=42693868&post_id=91539&user_id=262258391&subs_id=225460721&signature=734fc668124bd379d497b25da6ff3fb8&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly94LmNvbS9LcmVubmljX0FML3N0YXR1cy8xOTcwNjM2NTkyNTQ1OTg0OTg5&email_id=3c91844e9813e1435fc996b1ccb205da) This guy should get a job gerrymandering?
+5. [Takatoshi Ito, RIP](http://marginalrevolution.com?action=user_content_redirect&uuid=217d961ec2e3cf247a54000ea979e45f20fcca3b70bd6c3d3b178876f84c050a&blog_id=42693868&post_id=91539&user_id=262258391&subs_id=225460721&signature=87b2f636ab73bf105638c9c2b0c42d9c&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly93d3cuamFwYW50aW1lcy5jby5qcC9idXNpbmVzcy8yMDI1LzA5LzI0L2Vjb25vbXkvdGFrYXRvc2hpLWl0by1kaWVzLw=&email_id=3c91844e9813e1435fc996b1ccb205da). Japanese advocate of inflation targeting.
+6. [Per year](http://marginalrevolution.com?action=user_content_redirect&uuid=0529f45ff74ca711590fb91e6bfed19bc0b6350ac958aef761678b90f6981f04&blog_id=42693868&post_id=91539&user_id=262258391&subs_id=225460721&signature=7584b632fecde765d7007b77cd6b08f8&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly94LmNvbS9YRmF1cmUvc3RhdHVzLzE5NzA4MDM0ODg1MTE5MTQxNDk&email_id=3c91844e9813e1435fc996b1ccb205da).

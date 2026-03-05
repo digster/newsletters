@@ -1,0 +1,40 @@
+---
+subject: "How you can contribute code to an open source project and why you should"
+from: "Quincy Larson <quincy@freecodecamp.org>"
+to: ""
+date: 2017-08-11 19:56:55
+labels: ["CATEGORY_PERSONAL", "INBOX", "Quincy", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_7697778124671848699", "UNREAD"]
+---
+Here are this week's three links that are worth your time:
+
+1. Joe and Rachel teamed up to make their first open source code contribution - less than a year after they started learning to code. Here's what they learned from the experience, and what you can too (7 minute read): https://fcc.im/2uvePCX
+
+2. Why striving for perfection might be holding you back as a developer (4 minute read): https://fcc.im/2vVuqvN
+
+3. freeCodeCamp contributor Beau Carnes just published a series of YouTube videos to help you learn jQuery in a fast, clear way (4 minute watch): https://www.youtube.com/watch?v=KhtEmR2A1Fw&list=PLWKjhJtqVAbkyK9woUZUtunToLtNGoQHB
+
+Bonus: How Kate went from no degree and no experience to landing her first developer job in less than a year (3 minute read): https://fcc.im/2wOX527
+
+
+
+
+If you get value out of these emails, consider supporting our nonprofit: https://freecodecamp.org/donate
+
+
+
+Happy coding!
+
+- Quincy Larson
+
+Teacher at https://www.freeCodeCamp.org
+
+
+
+
+
+If this email bothers you, you can manage your email settings here: https://www.freecodecamp.org/settings 
+
+Or you can one-click unsubscribe: https://www.freecodecamp.org/unsubscribe/ishan.mail@gmail.com
+
+

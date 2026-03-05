@@ -1,0 +1,24 @@
+---
+subject: "The one with all the resolutions"
+from: "The Ken <info@the-ken.com>"
+to: ""
+date: 2023-01-08 03:37:25
+labels: ["CATEGORY_PERSONAL", "INBOX", "The Ken", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_8244464457792971031", "UNREAD"]
+---
+I took just two bites of my breakfast on Christmas morning, and I knew what my new year’s resolution was going to be. It felt great to be devoted to one idea that kept building over the last week of 2022. See, I had grown to hate new year’s resolutions because I could never read a book every week, follow a workout programme, or make meditating a daily habit. Such goals often lead to self-loathing when they remain unmet. But this time, my resolution was more like a guiding light than a specific goal with tangible results.
+This magical moment involved eggs on a bed of garlicky dill-seasoned yoghurt and red pepper butter on top. I love eggs, yoghurt, and butter (and I also love to have breakfast—try out new cuisines and food in general). But this was the first time I had all the three ingredients together in one dish: Turkish Eggs. And it hit me that life can always throw amazing surprises; one should never stop exploring. Since that morning, the word ‘explore’ has been etched in my mind's eye in neon blue light.
+The stories we published this week fortified my resolution.
+For instance, Aayush and Gaurav, in the first
+[story](https://the-ken.com/story/flipkart-alums-400m-arzooo-to-help-electronics-dealers-take-on-croma-amazon-faces-bigger-battles/?utm_source=recap_story&utm_medium=email&utm_campaign=recap_newsletter) of the year, showed that founders with substantial expertise can strike gold if they decide to let go of the routine and focus on a new problem. Like two former Flipkart executives who built Arzooo to help small electronics dealers put up a fight against large retail chains and grew their revenue 4X with minuscule losses.
+On Tuesday, Rounak told the
+[story](https://the-ken.com/story/a-265m-companys-guide-to-defaulting-on-loans-and-evading-insolvency/?utm_source=recap_story&utm_medium=email&utm_campaign=recap_newsletter) of a difficult, dark, and internal exploration by sugarcane farmers who supply their produce to Bajaj Hindusthan Sugar in Uttar Pradesh’s Bilai village. The sugar producer has not paid these farmers on time in nearly a decade. This $265 million goliath has been defaulting on loans but evading insolvency by giving precedence to banks instead of paying farmers on time. But they discovered faith in their just intentions and started a protest outside the sugar mill last week.
+On Wednesday, Soumyajit
+[wrote](https://the-ken.com/story/amazons-project-delhi-got-rid-of-cloudtail-but-its-successors-struggle-to-woo-sellers/?utm_source=recap_story&utm_medium=email&utm_campaign=recap_newsletter) the class story of innovation: accept the present, learn from the past, and then discover new frontiers again and again and again. The heart of innovation lies in exploration. After Cloudtail—Amazon’s largest seller aggregator—shut down in 2022, sellers started exploring smaller platforms, opening their own websites, and even going back to selling to brick-and-mortar stores.
+And sometimes, when you look for solutions to very specific problems, you end up facing more challenges. Corporations in India wanted green energy, but they wanted it at a lower price. They found it by going directly to power producers, bypassing state-run utilities,
+[wrote](https://the-ken.com/story/companies-rush-to-the-source-for-clean-power-in-india-has-the-middlemen-worried/?utm_source=recap_story&utm_medium=email&utm_campaign=recap_newsletter) Shruti. In 2022, Amazon and Microsoft signed deals to procure 3 GW and 1.5 GW, respectively, from Indian clean-energy companies. Last year, India was Asia-Pacific's biggest market for such deals for the second year in a row, and the market is all set to explode, but the utilities are pushing back.
+Finally, when you go on an explorative journey, don’t forget to learn from your rivals. For instance, McDonald’s franchisee Westlife Foodworld saw its shares shoot up by 40% in 2022, partly because it added fried chicken to its menu like its competitor KFC. Seetharaman
+[wrote](https://the-ken.com/story/mcdonalds-broke-with-the-past-and-stepped-into-kfc-territory-investors-are-lovin-it/?utm_source=recap_story&utm_medium=email&utm_campaign=recap_newsletter) this interesting story on Friday.
+On that note, wishing you a very happy new year, and if you are feeling good about your new year's resolution, please share.
+PS:
+Last year, we conducted [storytelling workshops](https://the-ken.com/blog/the-kens-storytelling-workshops-aim-to-train-200-leaders-in-2023/) with over 100 leaders from leading organisations across India. Please apply [here](https://theken.typeform.com/to/YlKDPXey) if you want to enrol your team in the programme this quarter.

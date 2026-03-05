@@ -1,0 +1,30 @@
+---
+subject: "A beginner's guide to SQL and databases: our full 4-hour course is live on YouTube"
+from: "Quincy Larson <quincy@freecodecamp.org>"
+to: ""
+date: 2018-08-30 15:57:25
+labels: ["CATEGORY_PERSONAL", "INBOX", "Quincy"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_7697778124671848699"]
+---
+Here are this week's five links that are worth your time:
+
+1. A beginner's guide to SQL and databases - a full course for beginners (4 hour watch): https://www.freecodecamp.org/n/FLkLcFzA
+
+2. Contributing to open source isn't that hard: Jennifer's journey toward contributing code to the Node.js open source project (5 minute read): https://medium.freecodecamp.org/d10760e31194
+
+3. The 50 best free online university courses of all time, according to the data (browsable list): https://medium.freecodecamp.org/e67d0da38e95
+
+4. How to create a portfolio website (40 minute watch): https://www.freecodecamp.org/n/NJvAzCG2
+
+5. freeCodeCamp is hosting a hackathon at GitHub's headquarters in San Francisco - and an online hackathon, too - on October 27-28. Here's how you can get tickets (3 minute read): https://hackathon.freecodecamp.org
+
+
+
+Happy coding!
+
+- Quincy Larson
+
+Teacher at freeCodeCamp.org
+
+
+If these emails aren't worth your time, you can turn them off: https://www.freecodecamp.org/ue/eZV2T3gHC7IGcwcpYPG64

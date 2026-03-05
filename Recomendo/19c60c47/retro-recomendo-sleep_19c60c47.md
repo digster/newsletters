@@ -1,0 +1,10 @@
+---
+subject: "Retro Recomendo: Sleep"
+from: "Recomendo <recomendo@substack.com>"
+to: ""
+date: 2026-02-15 10:02:12
+labels: ["CATEGORY_PERSONAL", "INBOX", "Recomendo", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_8455078693589186571", "UNREAD"]
+---
+Our subscriber base has grown so much since we first started nine years ago, that most of you have missed all our earliest recommendations. The best of these are still valid and useful, so we’re trying out something new — Retro Recomendo. Once every 6 weeks, we’ll send out a throwback issue of evergreen recommendations focused on one theme from the past 9 years. Brown noise for better sleepI use a simple and free app called Silicone earplugs
+Non-Sleep Deep Rest tracksNon-Sleep Deep Rest (NSDR), also known as yoga nidra, induces deep relaxation while maintaining awareness. If you’re too tired to nap but can’t fall asleep, I’ve found that one of these Wake up earlier, naturallyI wasn’t sure I’d like the Bargain mattressesAuto tires are such a bargain at Costco that many folks get a Costco membership just for the tires. Mattresses are a similar bargain. You can get high quality branded mattresses – including classic bedspring models – for a lower price from Costco than from almost anywhere else. And Costco will deliver to the room, set up, and haul away your old mattress at no extra cost. And you can Cheap nightlightsI’ve spread these Recomendo Unclassified Ads work! Recomendo is an authentic, hand-crafted, human-written weekly newsletter that is free, but not cheap. Consider supporting our work with a paid option, now at the low price of $45 per year. Paid subs enable us to keep making it free for others. Recomendo is published by Cool Tools Lab, a small company of three people. We also run the Recomendo is copyrighted by Cool Tools Lab, LLC. Commissions may be earned from the links above. |

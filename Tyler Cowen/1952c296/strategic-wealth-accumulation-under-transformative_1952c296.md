@@ -1,0 +1,10 @@
+---
+subject: "Strategic Wealth Accumulation Under Transformative AI Expectations"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2025-02-22 05:37:45
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+This paper analyzes how expectations of Transformative AI (TAI) affect current economic behavior by introducing a novel mechanism where automation redirects labor income from workers to those controlling AI systems, with the share of automated labor controlled by each household depending on their wealth at the time of invention. Using a modified neoclassical growth model calibrated to contemporary AI timeline forecasts, I find that even moderate assumptions about wealth-based allocation of AI labor generate substantial increases in pre-TAI interest rates. Under baseline scenarios with proportional wealth-based allocation, one-year interest rates rise to 10-16% compared to approximately 3% without strategic competition. The model reveals a notable divergence between interest rates and capital rental rates, as households accept lower productive returns in exchange for the strategic value of wealth accumulation. These findings suggest that evolving beliefs about TAI could create significant upward pressure on interest rates well before any technological breakthrough occurs, with important implications for monetary policy and financial stability.
+Via [Zach Mazlish](http://marginalrevolution.com?action=user_content_redirect&uuid=0341d737498c6d08e2a80854940a7008459e79bd8c475b597306e8d7c13efd49&blog_id=42693868&post_id=90108&user_id=262258391&subs_id=225460721&signature=d087c36623f9daec6d7d7f00eaef63b4&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly94LmNvbS9aTWF6bGlzaA=).

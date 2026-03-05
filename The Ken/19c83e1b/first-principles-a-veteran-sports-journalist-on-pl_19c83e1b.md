@@ -1,0 +1,140 @@
+---
+subject: "First Principles: A veteran sports journalist on playing the long game"
+from: "The Ken <info@the-ken.com>"
+to: ""
+date: 2026-02-22 05:45:33
+labels: ["CATEGORY_PERSONAL", "INBOX", "The Ken", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_8244464457792971031", "UNREAD"]
+---
+|
+|
+First Principles
+Sun, 22 Feb 26
+A community-powered Sunday newsletter on mental models, self-reflection, learning, growth, photos, books, and more.
+Good Morning Ishan,
+What do you think of discipline?
+Back in school, it sounded like a strict dictator mandating that I do what I should do instead of what I want to do. But I realised that viewpoint emerged from me losing the forest for the trees.
+After all, the things I should do only result in things that I want.
+So I don’t think it’s a dictator anymore. With that mindset shift, things felt less like “I should do this” and shifted to “It’s a tax I pay for getting something I want,” and over time to “It’s something that I can do well.”
+This thought resurfaced recently when I was talking about sports books with Indra—our product analyst—who told me that Andre Agassi revealed he thinks of tennis as just his job and not something that he is passionate about. I am not sure why, but I have always thought that all sportspersons are really passionate about their sports. But, I guess, in this case, tennis is Andre Agassi’s “It’s something that I can do well”.
+Rohin is busy wrapping up something exciting, so I took this opportunity to take over FP today with a special feature.
+Here’s what we have for you in First Principles this week:
+1. Sundeep Misra on playing the long game
+2. First Principles Parallel Oscars
+3. In Bloom
+[Pro tip: This email is a highly abbreviated version, since many email clients impose restrictions on the amount of material we can publish in a single email before intervention. In fact, it’s likely some email clients may even clip this truncated email.
+The best way to experience this edition is to read it on our[ website](https://the-ken.com/newsletter/first-principles/a-veteran-sports-journalist-on-playing-the-long-game/) or[ app](https://the-ken.com/newsletter/first-principles/a-veteran-sports-journalist-on-playing-the-long-game/), where all sections are featured in full and unabridged form.
+Also, if your default setting is to not show images within emails, please consider turning it off for this newsletter. Or else, you’ll miss many of the interesting images and photos we carry each Sunday.]
+Sports literature has always been something of a blind spot for me. But when several of you fine folks began recommending books based on sport (you can always recommend more [here](https://theken.typeform.com/FPBooks?typeform-source=the-ken.com)), I tried to read more about it and found that Google was lacking in this sphere to give me an Indian overview. So, I reached out to [Sundeep Misra](https://www.linkedin.com/in/sundeep-misra-0b0b08102/?originalSubdomain=in), director of Ekamra Sports Literature Festival, to pick his brain.
+Here are a few edited excerpts from our conversation:
+Many die-hard fans see sports journalism as a dream come true—traveling, watching games, meeting players, and getting paid. How did you end up in such a coveted job?
+To not give you the usual answer that I normally give everywhere, it was slightly different for me. Growing up, my dad gave me books to read about sport, and we used to listen to radio commentaries together. There was a BBC roundup at 11:00 pm; my mother would be screaming that I needed to sleep, but my dad would make sure that I listen because the presenter described the championships so beautifully. By the 1976 Montreal Olympics, even though I was still in school, I knew every fourth person there. I used to make scrapbooks. After finishing my Master’s in History, my only goal was getting onto a sports desk. I used to write letters to Sportstar magazine, and later in my career, those guys told me, “Oh, so you are that idiot who used to send all those letters.” So yeah, my father was a very big influence in the world of sports.
+If you tell these writers, “Do an interview with this coach in Meerut University,” or any university who did well in the Northern Circuit, they would look at you with an expression that said, “You are asking me to interview this coach? You know I was born to do only Virat Kohli.” I don’t take them seriously as writers; they are there for the glamour.
+I’ve traveled all the way to Doha to watch champions like Bakkali. He recently competed in the World Championships in Tokyo and lost. I was devastated. I was there in Tokyo, and I watched him lose the gold medal. He won a silver. I may be an exception simply because of the way I was brought up. But now most editors and writers only care about numbers. It’s a malaise. You don’t come into journalism for numbers. You come into journalism to do some decent work.
+Why hasn’t sports literature found mainstream literary respectability in India compared to, say, a novel about politics?
+I think there is respectability. We shouldn’t bracket “literature” into a tiny box where only fiction qualifies; if writing keeps you embedded on the page, that is literature. We need to open up that box and let everyone jump into it.
+We use the term “sports literature” instead of “writing” just to give it more “edge”. My favourite writers are boxing writers from the 1960s like A.J. Liebling, and others like Roger Angell, Haruki Murakami—who writes on running, even though he’s supposed to be a literary figure—Malcolm Gladwell, and David Remnick, who won a Pulitzer for a book on Muhammad Ali. I bought it in London while I was travelling and in one day, from morning to evening, I finished the book. I couldn’t just stop reading. It was such a brilliant book. In India, Rohit Brijnath does very solid research.
+What are some unique stories that we can tell that the West cannot?
+We have honestly hundreds of stories. I recently did a story for India Today on the Kabaddi murder. Okay. So Rana Balachauria was shot dead in Mohali while the Kabaddi match was on. Somebody came up to him and said that they wanted a selfie. So he stood, and the guy had the phone in one hand and with the other hand shot him. And if you go back five or six years, you will see so many murders happening related to kabaddi.
+Also, rather than just writing about Hardik Pandya’s watch or Ferrari, there is a story about how a man came from nowhere and adapted himself to a completely different lifestyle. How does he keep his soul intact? Soul is not about right or wrong. I think each of us has a soul which was very fresh when we were all born and then as we go on through different phases, our soul remains as it is. But when you are constantly under the spotlight, how do you keep it intact? I saw a video of him walking through a hotel in a bathrobe clutching his girlfriend’s hand; to me, that’s a story about his makeup, much like how people wrote about Sonny Liston or George Foreman in the ’60s.
+Then there are stories like that of Parul Chaudhary, who comes from Meerut. When she won a gold medal I was at the last two games in China along with other journalists. When we asked her “How do you feel? You won a gold medal.” She replied, “Now, I can get the DSP position.” So it wasn’t about the race. It wasn’t about the 5,000 metres people say that she won. Her first response was, “I can be a DSP.” For me, that is a fascinating insight into the athlete.
+And you can build on that to create an entire story around one athlete, and how they come into the sport, their history, and what they want, all of that. And then you can go on to the achievement.
+Now people have completely forgotten that there is something called long-form. But I think, if the story is good, people will still read it.
+Every athlete claims that they love the sport, because that’s what they have to say to be “correct”. Having interacted with so many athletes, how often do you think they’re saying that for the sake of saying it?
+I think that’s true for many people, especially in hardcore track, boxing, or wrestling. Most athletes enter because they need a job. They often come from struggling backgrounds with no money. The 2004 Olympic hockey captain was sent to a hospital simply because there was no food at home. They might grow to love it, but many are forced into it by talent, as Agassi openly said he hated every moment in his autobiography.
+What is your biggest creative challenge in writing about sports?
+Making it different every time. You have to put your thoughts together to write something that isn’t just a rushed copy. I admire writers like Jonathan Liew or Jonathan Wilson at The Guardian. Sometimes you need anti-establishment writing, not to be negative, but to provide factual truthfulness that helps the sporting establishment clean itself up. For every good thing that happens in sports, there’s 10% that’s not by the book. To find that out is where good stories lie.
+When you are at the World Championships, and you watch somebody run, you know here’s somebody who’s gonna win. So when I watched Gressier win I was standing up and screaming away. He was a French man who came out of the blue. I mean, he was also shocked. That’s the time you get excited and you think what should I write now? Because you know the star has not won; somebody else has won. And that’s when you start reading for a couple of hours before you can write a good copy. And then you just kind of put your thoughts together to try and write something which is slightly different from what will probably appear as just a rushed copy. I don’t envy people who have to write every day. If you can turn out one great copy in a week, then the copy leaves an impact. For fans, for leaders, for sportspersons who are reading it. You ask questions, whether it’s psychological or something else which helps readers see an additional perspective.
+A significant portion of Indian sports writing is about cricket. Does it create a challenge for writers who want to chronicle the stories of athletes from other sports?
+No. A writer’s job is to write, not to look at views. If you only write for popularity, you’ll only write about Rohit Sharma or Virat Kohli. You didn’t come into this job so you could put a thumbnail of Rohit Sharma alongside your portfolio. I don’t see Jonathan Liew, The Guardian writer doing that. I haven’t seen some of the really good writers across the world putting their own pictures on the thumbnail. If you’re doing it once a month on a very important topic or a very important discussion, okay. But if you are doing it just because you want to be alongside a star, then you’re not looking at the sport, you’re looking at your own popularity.
+If you had unlimited resources, what is the one story you would tell?
+Ilyas Babar, the coach of Sriram Singh at the 1976 Olympics. Sriram ran so fast in the 800 metres final that the Cuban winner said he only broke the world record because of “this little Indian”. Babar took a man to an Olympic final without today’s gadgetry or infrastructure.
+When you watch domestic sports, you understand the politics of sports. If you don’t understand the politics of sports, which means how a team gets selected, who got selected, how many votes were bought in the boardroom. You will never know why this thing became the way it is now. So as an intern, those things stayed.
+What is it that you admire about sports writing in other writers?
+How they structure a story. I recommend Norman Mailer’s The Fight about the “Rumble in the Jungle” between Muhammad Ali and George Foreman. It’s a non-fiction book and it is just based on what happened before the fight, what happened in the fight, and the repercussions after that. In India, we need to move away from authorised pro-biographies. I wrote an unauthorised biography of Dhanraj Pillay because I didn’t want to draw a sanitised version of him. Unauthorized books sometimes challenge the subject themselves. For example, Jimmy Burns’ book on Maradona was so different from his own biography that Maradona told Burns he was going to shoot him next time they met. Other works that I admired were Raju Bharatan’s work at The Illustrated Weekly of India, Sunny Days, and Brian Glanville’s work at Sportstar.
+As the Ekamra Sports Literature Festival director, what are you looking forward to this year?
+I want the awards to become bigger; we are the only ones in India giving a sports book award. We have separate categories for cricket and non-cricket sports books so that cricket doesn’t overshadow everything. This year, we are expanding to world books, giving us access to publishers in the US, UK, and Australia. Sakshi Malik’s book Witness won an award in 2024, and I think that helps to give space to non-cricket books. Otherwise, nobody pushes it. Even the publisher refuses to push it.
+Is sports journalism in danger because of AI?
+No, it will survive because of the human touch. An AI copy has no soul or feelings. It might help with ideas or summaries, but the legwork must be yours. Without the human element, it’s like a robot serving you in a restaurant—there’s no conversation or feeling. Journalism requires the observations you get from actually being in a city and talking to people.
+Hi there!
+This is Vishnu, with the community section on movies, TV shows, and music.
+Like I mentioned last week, my colleague Vijay planted an idea for my section on FP. Not for one week, mind you, the idea would cover all of the next five weeks.
+His idea was simple: “The Oscars will be presented on 15 March. So why don’t you write an opinion or breakdown pieces in the run-up to the event?”
+So…I mulled over it, and came up with something even better.
+For the next four weeks, First Principles is running its own parallel Oscars!
+Every Sunday, you vote for who you think should win, and on 22 March, the Sunday after the Oscars, we will stack the FP community’s picks against what the Academy actually decided.
+“But Vishnu, I don’t want to vote for all the categories in one day”.
+Good that you asked. I’ve curated and divided the categories into four buckets. (Sorry, can’t take the table lover out of me.)
+Before we get into it, here’s a cool trivia, one of many in this Oscars Series, honestly.
+While I was going through several Oscar-shaped rabbit holes (all of which I will link), I went all the way back, wondering how the award came to be. Who is Oscar, after all? (Cue my inner Drax saying: “I’ll do you one better, how is Oscar?”)
+Like almost any name origin, this too is seriously disputed:
+A former librarian at the Academy said she named it after her uncle. The actress Bette Davis once claimed the statuette’s backside reminded her of her ex-husband (she later took it back). A columnist insisted he coined it under deadline pressure. And a former Academy executive argues the real culprit was a quiet secretary named Eleanore Lilleberg—who said it reminded her of a Norwegian soldier she’d known in Chicago, who “stood straight and tall”. I’ll let you decide on that one 🙂
+Whatever the origin, the 34.3 cm tall, 3.9 kg [gold-plated knight](https://en.wikipedia.org/wiki/Academy_Awards#Oscar_statuette:~:text=knight%20rendered%20in%20Art%20Deco%20style%20holding%20a%20sword%20standing%20on%20a%20reel%20of%20film%20with%20five%20spokes) is probably the most ambitious piece of bronzeware any filmmaker, technician, or actor can dream of, and this year’s ceremony is just four Sundays away!
+***
+As promised, this week, we are talking about “The Story Oscars.”
+Best Picture, Best Director, Best Original Screenplay, and Best Adapted Screenplay
+There’s this [scene](https://youtu.be/LG0wUq7oGls?si=zOscDMPz2dBhd55I) in Cinema Paradiso that I keep coming back to: little Totò watching films projected through a hole in a wall, completely lost in someone else’s story.
+That’s what the best films do. They make you forget you’re sitting somewhere, and make you feel like you’re living somewhere. That’s what the story Oscars are about, the love for the art of storytelling.
+Sure, a movie is more than its sum of parts, but at its core, it IS the director’s vision and a strong script that makes it what it is.
+On that note, let us look at this year’s nominees:
+(I’ll add my thoughts about the nominations in not more than two lines (trust me, it’s a hard ask). All critiques are personal and subjective, of course.)
+***
+Nominees for Best Picture
+| As mentioned below (L-R) |
+Bugonia: Emma Stone, a kidnapped CEO, aliens, well, it can’t get more Lanthimos than that. If you’ve seen ‘The Favourite’ or ‘Poor Things’, you know the feeling.
+F1: As a fan (and a purist) of the sport for years now, I will refrain from giving my thoughts. The IMAX experience of the climax was worth it, I’ll stop at that.
+Frankenstein: Guillermo del Toro took “show, don’t tell” a bit too seriously this time.
+Hamnet: How can a movie be so emotionally draining, taxing, heartbreaking, and yet this beautiful to watch?
+Marty Supreme: I could go on about this movie, and its craft for hours, but probably the best use of kinetic, nimble, quick-paced cinematography I’ve seen in recent times. I’ll definitely write about it in weeks #3 and #4 of this Oscar series.
+One Battle after Another: I could have watched 10 more hours of this story and still not taken my eyes off the screen. Also, the most realistic depiction of crashing out after forgetting your password.
+The Secret Agent: Heard a lot of great things, but haven’t gotten around to watching it. Will watch and report back by next week.
+Sentimental Value: Average day at an Indian household. I read this on Letterboxd: “Broken people raise broken children, expecting them to be full.”
+Sinners: This was magnum opus territory from Ryan Coogler. Again, one of the best IMAX experiences of my life.
+Train Dreams: Will watch and report back before week #3.
+I mean, look at that list: horror, sci-fi, period drama, racing film, Norwegian family drama, and a political thriller shot in secret in Iran.
+Let’s face it, of late, the Academy has never been accused of being adventurous—and yet here we are. For context: only three horror films have ever won Best Picture in 97 years. This year, there are two horror nominees on the same list.
+Before you read on, vote for your picks for the FP parallel Oscars [here](https://theken.typeform.com/to/HFTNMccO). This is your ballot, forget what the Academy will do.
+***
+Nominees for Best Director
+| Nominees: Chloé Zhao (Hamnet), Josh Safdie (Marty Supreme), Paul Thomas Anderson (One Battle after Another), Joachim Trier (Sentimental Value), Ryan Coogler (Sinners) |
+Director at Cannes, the Silver Lion at Venice, and both the Silver and Golden Bear at Berlin, all without winning an Oscar. He’s weeks away from changing that.
+Even though the chatter suggests a heavy two-way between him and Ryan Coogler, I’m personally rooting for everyone on the nominee list this year—they all have had a journey and a half.
+Coogler was on a football scholarship when his creative writing professor told him he should be a screenwriter, and now he’s competing against Joachim Trier, who is one of his earliest mentors. PTA dropped out of film school after just two days, convinced he could learn more from watching films than sitting in classrooms. Josh Safdie made movies at home with his brother Benny. Chloé Zhao was bartending and working odd jobs before she attended film school in her late twenties.
+None of them took the expected path. Which, when you think about it, is probably exactly what it takes to make films worth nominating.
+***
+Nominees for Best Writing (Original Screenplay)
+| Nominees: Blue Moon (Written by Robert Kaplow), It Was Just an Accident (Written by Jafar Panahi; Script collaborators - Nader Saïvar, Shadmehr Rastin, Mehdi Mahmoudian), Marty Supreme (Written by Ronald Bronstein & Josh Safdie), Sentimental Value (Written by Eskil Vogt, Joachim Trier), Sinners (Written by Ryan Coogler) |
+This category didn’t even exist until 1940. The first 11 Oscar ceremonies had no separate award for original writing. Everything was practically lumped together.
+Carrying on the tradition of a Good Will Hunting reference in my sections, Ben Affleck and Matt Damon are the youngest winners in this category. They were 25 and 27, respectively, when they won in 1998.
+Two best friends who wrote a script to give themselves acting roles ended up with the biggest writing award in cinema. Can’t get better than that!
+***
+Nominees for Best Writing (Adapted Screenplay)
+| Nominees: Bugonia screenplay by Will Tracy, Frankenstein- written for the screen by Guillermo del Toro, Hamnet screenplay by Chloé Zhao & Maggie O'Farrell, One Battle after Another written by Paul Thomas Anderson, Train Dreams screenplay by Clint Bentley & Greg Kwedar |
+Fun fact: Charlie Kaufman invented a fictional twin brother, Donald Kaufman, and credited him as co-writer for his 2002 film Adaptation. The Academy gave Donald Kaufman a nomination.
+A fictional character was nominated for an Oscar, and Wong Kar-wai has zero. Let that sink in.
+Haven’t voted for your favourites yet? Let me [prod](https://theken.typeform.com/to/HFTNMccO) you again.
+And if you have a strong take, a snub that stings, a winner you’d go to bat for, there’s a space for that too. The best responses show up in next week’s Reader’s Cut.
+***
+That’s Week One done. But we’re just getting started.
+Next Sunday, we look at The People: performances, records, and the acting snubs/nominations that broke the internet (or perhaps, you).
+Remember, each week, your votes build the parallel Oscars. On 22 March, we will find out whether we agree with the 10,500 Academy voters or think they got it completely wrong.
+My money’s on the latter.
+Hello everyone, I hope you’re having a restful weekend.
+I’m Sakshi, and if you’re new here, this column is a space where we feature photographs captured and shared by our community. If you have a unique image you’d like to contribute, you’re welcome to submit it [using this link](https://theken.typeform.com/fpsilentsundays).
+Over the past few weeks, I’ve been noticing the city blush in shades of pink, with cherry blossoms briefly transforming familiar streets into something softer and more luminous. Inspired by this seasonal shift, today’s collection celebrates the quiet beauty of flora captured thoughtfully by our very own community.
+Let’s step into this week’s bloom.
+From Umesh Dhand, Pune:
+| Pune (Umesh Dhand) |
+From Mahesh Patrimath, Kukkarahalli Kere:
+| Kukkarahalli Kere, Mysuru (Mahesh Patrimath) |
+From Harshi Rastogi, Parbatsar Tehsil, Rajasthan:
+| Parbatsar Tehsil, Rajasthan (Harshi Rastogi) |
+From Ashok Trivedi, his home:
+| Home (Ashok Trivedi) |
+From Thakur Bhaskar, Victoria Memorial Gardens:
+| Victoria Memorial Gardens (Thakur Bhaskar) |
+That’s a wrap for this week. Before you go, if you know someone who might like this newsletter, forward us to them!
+Please write to [fp@the-ken.com](mailto:fp@the-ken.com) if there’s anything you’d like to share with us. Or leave a comment on our on-site edition.
+See you next Sunday!
+Regards,
+Tanim

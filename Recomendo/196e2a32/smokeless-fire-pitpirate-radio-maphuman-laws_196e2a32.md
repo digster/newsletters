@@ -1,0 +1,11 @@
+---
+subject: "Smokeless fire pit/Pirate radio map/Human laws"
+from: "Recomendo <recomendo@substack.com>"
+to: ""
+date: 2025-05-18 09:00:25
+labels: ["CATEGORY_PERSONAL", "INBOX", "Recomendo", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_8455078693589186571", "UNREAD"]
+---
+Smokeless fire pitWe wanted a portable fire pit for our patio, and my wife insisted that it be as smokeless as possible, so we settled on an Human behavior rulesThe Time Cube Law: “As the length of a webpage grows linearly, the likelihood of the author being a lunatic increases exponentially.” Wadsworth Constant: “The first 30% of any video can be skipped because it contains no worthwhile or interesting information.” Akin’s 10th Law: “When in doubt, estimate. In an emergency, guess. But be sure to go back and clean up the mess when the real numbers come along.”
+— MF Pirate Radio MapThis Sprinkler key hideIf you still use keys for your front door lock, this small $4 hard plastic holder is the most perfect one I’ve found to Park poetry serviceOliva Dodd goes to public parks with a folding table and a manual typewriter. She invites strangers to open up and tell her something personal about their lives. After a moment’s reflection, Dodd types a poem on a card, which she reads out loud to the person. As you can see on her 5 Habits of Super Calm People
+Recomendo is an authentic, hand-crafted, human-written weekly newsletter that is free, but not cheap. Please consider supporting our work with a paid option, now at the low price of $45 per year. Paid subs enable us to keep making it free for others. Recomendo Unclassified Ads work! UNCLASSIFIEDS Pets can't tell you what's wrong—but we can. At Sage Veterinary Imaging, pets get human-quality MRI & CT scans for precise answers. People travel from all over to our Round Rock, TX center for expert diagnostics. Learn more at For marketers & growth teams: Launch A/B tests in 45 seconds with Stellar — the fastest, lightest testing tool. 25x smaller than competitors. Visual editor, real-time analytics, GA4 integration. Recomendo is published by Cool Tools Lab, a small company of three people. We also run the Recomendo is copyrighted by Cool Tools Lab, LLC. Commissions may be earned from the links above. |

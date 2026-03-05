@@ -1,0 +1,9 @@
+---
+subject: "*One Battle After Another*"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2025-09-27 04:55:33
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+That is the new Paul Thomas Anderson movie, inspired by Pynchon's Vineland. I do not usually like Anderson's films (apart from Magnolia), but this so far is the best movie of the year? It takes the "[Days of Rage](http://marginalrevolution.com?action=user_content_redirect&uuid=2b5a3eee6fbbafdc15fdf8c3d5b49cc09fa7cf3e949fd40d8c6c0e9623e64506&blog_id=42693868&post_id=91556&user_id=262258391&subs_id=225460721&signature=95f356aff372522db128665ae3dbb424&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9EYXlzLVJhZ2UtVW5kZXJncm91bmQtRm9yZ290dGVuLVJldm9sdXRpb25hcnkvZHAvMDE0MzEwNzk3Ng=&email_id=9472f57b4ee85e88cd917c8b44596bdd)" themes and connects them to our current predicament, weaving them into a unified whole, where the world has some characteristics of the 1970s and some of today. Some scenes are flawed, but overall the cast, soundtrack, and cinematography are the best I have seen in some while. We are doing cinema again, or at least he is. Recommended, noting that it can be dispiriting and difficult to watch. Here is [the Yglesias review](http://marginalrevolution.com?action=user_content_redirect&uuid=fc1a9ce68be888705b2e40cecd9893e6d09e4785ecc660b5efdcd806bd59ad23&blog_id=42693868&post_id=91556&user_id=262258391&subs_id=225460721&signature=42f6495be561031bc41a005f0d4fc9ed&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly9sZXR0ZXJib3hkLmNvbS9teWdsZXNpYXMvZmlsbS9vbmUtYmF0dGxlLWFmdGVyLWFub3RoZXIv&email_id=9472f57b4ee85e88cd917c8b44596bdd).

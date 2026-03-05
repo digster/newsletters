@@ -1,0 +1,28 @@
+---
+subject: "Whistleblower Danone India whistleblower claims Danone India flouted baby food rules"
+from: "The Ken <info@the-ken.com>"
+to: ""
+date: 2021-11-08 02:37:23
+labels: ["CATEGORY_PERSONAL", "INBOX", "The Ken"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_8244464457792971031"]
+---
+Good Morning Ishan,
+Baby food companies often come under fire for aggressive marketing. International regulators keep a tight leash on them. To the extent that the world’s two leaders, Danone and Nestle, voluntarily come out with reports about their breast milk substitute marketing policy.
+In its [latest](https://www.danone.com/content/dam/danone-corp/danone-com/brands/specialized-nutrition/2020-raising-the-bar-responsible-marketing-of-baby-formula.pdf) report, Danone says it works “hard to raise the bar in responsible formula marketing”.
+Seen against the litany of complaints lodged with India's health ministry and the documents that a whistleblower has shared with The Ken, Danone’s claim has weak, if not no, legs. It is alleged that the aggressive and unethical practices that Danone India follows in the baby food category are in contravention of India’s Infant Milk Substitutes (IMS) Act.
+And Danone is not alone. Other baby food manufacturers like Nestle, Abbott, Mead Johnson, Amul, Apollo Pharmacy, Amazon, and even YouTube routinely flout the IMS Act. Popular mother-oriented YouTube channels such as Mom Com India, which has over 2 million subscribers and over 235 million views, are said to be crossing the line.
+The health ministry received more than one complaint a month between January 2019 and May 2021. Many of them are being investigated now.
+As a category, baby food products are tricky to evaluate. While they have been red-flagged for exaggerated or attractive health claims on their packaging, there’s next to nil [independent](https://www.bmj.com/content/375/bmj.n2202) analysis or clinical studies to verify these claims. Even globally.
+Add to that the lure of freebies, concierge services, international seminar-cum-vacation trips—the usual pharma promotion trappings—and we have a class of doctors and neonatal care givers who don’t mind pushing baby foods from the get-go.
+Some mothers have started a support group to combat this forceful marketing.
+Maitri’s well-reported story on the disturbing trend is a Monday must-read. Do share it widely: [https://the-ken.com/story/danone-india-whistleblower-claims-company-flouted-baby-food-rules/](https://the-ken.com/story/danone-india-whistleblower-claims-company-flouted-baby-food-rules/?utm_source=daily_story&utm_medium=email&utm_campaign=daily_newsletter) (11-minute read)
+Warmly,
+Seema Singh
+[seema@the-ken.com](mailto:seema@the-ken.com)
+|
+What you just read is the personalised daily introduction to The Ken's story. Written by a different person each day. Often insightful, sometimes witty, and very rarely boring. Someone sent this to you? [Sign up for free](https://the-ken.com/sea/?modal=register&utm_source=footer&utm_medium=email&utm_campaign=sea_morning_email). Don't like these? You can [unsubscribe](https://link.the-ken.com/asm/unsubscribe/?user_id=2349339&data=xThKjE2xv-RM8pUHWSoizyrHUhhJfDQUFwCQNHwtmVlwTs5WJwNmuzI8oQ_ulmaSwDMWIlAAR8qZUTpNEwY6CwTojNmPA2OqPtqVk-hK_C7xlFPZm5hzUJH4NVoJcEZD8E1XzC_N1DzOuy3QiWyp6ce3AveLa125u3OZq0Oiok2XxIx9r7VOgPVJMTmEuDeUaS_mOcir8sbEYaT8565TiP_CcSwYiqAl9U9vxToDR_L9GfUOhl1y1o8rGUuKjCnrsLJ0EY4C8lJLsmTlvMNtBFcn14s22RzgCbTN-hqDk6nypr29cSLi_TFd96OxFvdsRuBv7EzX7_etaFycp3lmnJzfPdJNBM6c4MYYZKsMaU86CbYVtDVxFWjVZx7w8HNTnMBA3V0NGocFkn6LvLungbkq8DzJq00A-VTRJG6lzDrDRUb3CSH5XbJtjzyvP0CNnPpU6-I7OhcDB3bQfj2qCb4FUp9U8bBFHhY-SksJC1yXWQ36cWFUNaDVZv5Tq2unrMgDHHjDm5UAfbBrZroDjkplqpUsQ7y26irIKJjpV58=). Want to manage your emails? Click [here](https://link.the-ken.com/asm/?user_id=2349339&data=RecvJAnoQf5WQsvSLQWVPw_V84W4SE-CGyW8DmfDrTFbMq5pTGhPbwrjKVkCUnQrCacZn1hoigC3RgoVwFNGfHNj3CjoEvo2HK7BHNKqgnyLZZ1Igx32ONwHgo15qIAwkm3AmJ9B6gnJxibt--HbSSJXa7Y0MPiOr9rT12Y5j17kWDEvuI2SnU7PDlIv56zCe8-YOTDiO88ZsBhVfDWFjci1cWESDtoZX2CGQOYor52Ymioj7HmGvS5HQYqktf6pRGQsJz4QmfJ8e9rpcbkK6JTUMjh7dvby99umGgAUpnrxhNFB2M2RbYPOP7P59nAcvAEYBS1fA1yjOfMdnZKPB4UfXEi6NoW47o1pJll2vZdvtvLKudzCzLUT1cRaBlxkVAssC7ycukwUrgjFAkMHQlHid2nwT0TfGB04oRVtNZGIjVenbo69r_0JJh00De8nKNMaAyPcw34rGoh4aFndKjaVtJEV_qD2W7IDkc4aT0sEqsruhrN-r8RaPkk0KH7xARrea1hFp1hXDy7Z1sjnWw==).
+|
+|
+|
+|
+|

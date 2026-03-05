@@ -1,0 +1,19 @@
+---
+subject: "The Saddam Hussein Edition"
+from: "\"Why is this interesting?\" <whyisthisinteresting@substack.com>"
+to: ""
+date: 2025-09-09 15:35:16
+labels: ["CATEGORY_PERSONAL", "INBOX", "UNREAD", "WITI"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "UNREAD", "Label_5752899537867939131"]
+---
+|
+Colin here. One of the most haunting threads in [Steve Coll’s recent book on Saddam Hussein](https://substack.com/redirect/3ace891e-cf7e-427c-849e-aa3a4d90ed33?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) is the idea that the U.S. invasion of Iraq was, in part, born of a profound miscommunication. Saddam knew he didn’t have weapons of mass destruction. He assumed the US knew too.
+In Saddam’s mind, American intelligence was everywhere, omniscient, inside the pocket linings of the regime. If he had dismantled his weapons programs, then surely they must know as well.
+What he did not grasp was that American intelligence was riddled with inefficiencies and blind spots, chasing rumors and defectors with partial truths. His assumption of American omnipresence and intelligence was a very costly misread.
+But there is also another layer: Saddam believed he had a tacit understanding with George W. Bush. In his authoritarian worldview, he read American restraint in 2001–2002 as a signal that the U.S. would bluster but not invade. He thought he was playing a familiar game of regional brinkmanship, when in reality, Washington had already set a course.
+Even if Saddam had signaled with perfect clarity, the momentum in Washington was already heading toward regime change. The attacks of 9/11 created a political environment in which neoconservatives saw their long-held vision within reach: the idea that toppling Saddam and planting democracy in Iraq would spark a democratic wave across the Middle East (whoops!).
+This dual reality is what makes the episode so chilling. On the one hand, Saddam fatally misunderstood the limits of U.S. intelligence and the meaning of Bush’s signals. On the other, American policymakers were operating from a framework that ensured almost any Iraqi move could be read as casus belli. Saddam thought ambiguity was a shield. The U.S. read it as deception. And above it all was a political project that would have justified invasion regardless.
+Why is this interesting?
+Wars are rarely the product of one cause. They emerge from the intersection of miscommunication, misperception, and ambition. The Iraq invasion was sold to the public as a response to imminent danger, but behind the curtain it was also the outgrowth of long-standing ideological designs.
+The enduring lesson is how fragile “understanding” is in international politics. Leaders act not on facts but on the stories they tell themselves about their adversaries. Sometimes those stories align with deeper agendas. And when they do, the consequences can reshape the world. (CJN)
+You're currently a free subscriber to [Why is this interesting?](https://substack.com/redirect/2b787d8a-3ae1-4940-954d-14152f4b3769?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o). For the full experience, [upgrade your subscription.](https://substack.com/redirect/2/eyJlIjoiaHR0cHM6Ly93aHlpc3RoaXNpbnRlcmVzdGluZy5zdWJzdGFjay5jb20vc3Vic2NyaWJlP3V0bV9zb3VyY2U9cG9zdCZ1dG1fY2FtcGFpZ249ZW1haWwtY2hlY2tvdXQmbmV4dD1odHRwcyUzQSUyRiUyRndoeWlzdGhpc2ludGVyZXN0aW5nLnN1YnN0YWNrLmNvbSUyRnAlMkZ0aGUtc2FkZGFtLWh1c3NlaW4tZWRpdGlvbiZyPThvNTRuJnRva2VuPWV5SjFjMlZ5WDJsa0lqb3hORFUyTXpNeE9Td2lhV0YwSWpveE56VTNORE15TWpnM0xDSmxlSEFpT2pFM05qQXdNalF5T0Rjc0ltbHpjeUk2SW5CMVlpMDNNREF3SWl3aWMzVmlJam9pWTJobFkydHZkWFFpZlEudjdIZ0dXYXhESWZVSG1WNUdqRExaZUVudVpmT0JDRkVWeFhLV1NNTlZ6QSIsInAiOjE3MzE5MTAxMywicyI6NzAwMCwiZiI6dHJ1ZSwidSI6MTQ1NjMzMTksImlhdCI6MTc1NzQzMjI4NywiZXhwIjoyMDczMDA4Mjg3LCJpc3MiOiJwdWItMCIsInN1YiI6ImxpbmstcmVkaXJlY3QifQ.ox8V5Nvq7HhWAO1mnXGklM5y6McUW0PA-WP3Pjj3TqY?&utm_source=substack&utm_medium=email&utm_content=postcta)

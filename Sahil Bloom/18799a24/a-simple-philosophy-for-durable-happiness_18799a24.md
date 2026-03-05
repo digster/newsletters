@@ -1,0 +1,37 @@
+---
+subject: "A Simple Philosophy for Durable Happiness"
+from: "\"Sahil Bloom's Curiosity Chronicle\" <sahil@sahilbloom.com>"
+to: ""
+date: 2023-04-19 13:09:20
+labels: ["CATEGORY_PERSONAL", "INBOX", "Sahil Bloom", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_1989028747625928812", "UNREAD"]
+---
+The Trap of the Extraordinaryread and listen on read time 5 minutes Welcome to The Curiosity Chronicle, a weekly newsletter where I provide actionable ideas to help you build a high-performing, healthy, wealthy life. Today at a Glance:- We live in a culture that endlessly promotes and celebrates the achievement of the extraordinary—of those who accomplished some supreme feat in a single, narrow domain.
+- The Trap of the Extraordinary is that we conflate success with the achievement of the extraordinary. Winners are those who achieve the extraordinary, losers are those who do not.
+- To escape the trap, there are two mindset shifts to focus on: (1) It’s not about achieving the extraordinary, it's about finding purpose, joy, and fulfillment in the ordinary along the way; and (2) The prize is not the achievement you strive for, but the striving itself.
+- Action: In the coming week, each evening, write down one "ordinary" thing that came alive for you during the day. Pause and appreciate the mundane beauty that you are slowing down to enjoy.
+Today's newsletter is brought to you by I use InsideTracker to unlock the secrets of a longer and healthier life. Their science-backed approach analyzes your blood, DNA, and fitness trackers to provide you with personalized recommendations that are specifically tailored to your needs. From optimizing food choices and supplement intake, to providing ways to improve sleep and reduce stress levels - InsideTracker has you covered. Backed by dozens of peer-reviewed studies and founders that include experts at Harvard, Tufts and MIT, get ready for the best version of yourself! For a limited time, you can get a 20% off discount with code SAHIL at checkout.
+The Trap of the ExtraordinaryA few weeks ago, I came across a poem that I haven’t been able to get off my mind. Do Not Ask Your Children to Strive by William Martin Do not ask your children
+to strive for extraordinary lives.
+Such striving may be admirable,
+but it is the way of foolishness.
+Help them instead to find the wonder
+and the marvel of an ordinary life.
+Show them the joy of tasting
+tomatoes, apples, and pears.
+Show them how to cry
+when pets and people die.
+Show them the infinite pleasure
+in the touch of a hand.
+And make the ordinary come alive for them.
+The extraordinary will take care of itself.
+While framed around parenting and one’s relationship with their children, the poem revealed an alternative meaning for me—in particular, it highlighted a common trap faced by ambitious people (like all of you!). A trap that's all too easy to fall into if you aren't aware of it... Achievement as SuccessWe live in a culture that endlessly promotes and celebrates the achievement of the extraordinary—of those who accomplished some supreme feat in a single, narrow domain. We label them "winners" and hold them up as the exemplars of a life well lived. The Scoreboard Principle says that metrics motivate. The quantification of progress for all to see pushes participants to improve their score. Money is the typical metric on which the extraordinary is measured. Millionaire status is no longer special, but billionaire status puts you in this rare, extraordinary air. The Cultural Scoreboard is printed and reprinted in newspapers, magazines, and articles around the world. But there's a trap hidden in plain sight... Bill Watterson, the cartoonist most famous for his wildly successful Calvin and Hobbes comic strip, once delivered a commencement speech that contained a sharp rebuke of these cultural settings: “In a culture that relentlessly promotes avarice and excess as the good life, a person happy doing his own work is usually considered an eccentric, if not a subversive. Ambition is only understood if it’s to rise to the top of some imaginary ladder of success. Someone who takes an undemanding job because it affords [them] the time to pursue other interests and activities is considered a flake. A person who abandons a career in order to stay home and raise children is considered not to be living up to [their] potential—as if a job title and salary are the sole measure of human worth." The Trap of the Extraordinary, as I will call it, is that we conflate success with the achievement of the extraordinary. In this simple model: - Winners are those who achieve the extraordinary.
+- Losers are those who fail to achieve the extraordinary.
+Think back to your own life experience—I'm willing to bet this model generally checks out. - Scenario A: You set some ambitious goal for yourself. You put in the work, executing the necessary daily effort in a focused, disciplined manner. You achieve the ambitious goal. You feel like a winner!
+- Scenario B: You set some ambitious goal for yourself. You put in the work, executing the necessary daily effort in a focused, disciplined manner. You fail to achieve the ambitious goal. You feel like a loser.
+The problem: You're damned in both scenarios. You either (a) achieve the goal, feel like a winner for a moment, and then feel unfulfilled by the lack of another goal on the horizon, or (b) fail to achieve the goal, and feel like a loser for having failed. The problem, as I see it, is in defining success based upon the extraordinary achievement rather than the ordinary journey to reach it. We cannot change the cultural definition, but we can change our internal definition. To escape the trap, we need to make the ordinary come alive. Make the Ordinary Come AliveThe poem's final two lines bear repeating: And make the ordinary come alive for them.
+The extraordinary will take care of itself.
+The two mindset shifts I find myself focusing on to escape the trap: - It’s not about achieving the extraordinary, it's about finding purpose, joy, and fulfillment in the ordinary along the way.
+- The prize is not the achievement you strive for, but the striving itself.
+This is about dislocating your happiness from any "ends" you're trying to reach. It's about avoiding the "when, then" psychology that says "when I get [X], then I'll be happy." Make the ordinary come alive and the extraordinary will take care of itself. Action for You: In the coming week, each evening, write down one "ordinary" thing that came alive for you during the day. Pause and appreciate the mundane beauty that you are slowing down to enjoy. At the end of the week, reflect on the list. Reply to this email with one item from the list. Congratulations—you're starting to escape the trap! Sahil's Recommendation ZoneLevel up your daily routine with I get asked frequently, “What is the one supplement you can't live without?” My answer is always I started taking it in 2011 after spending time with the founder and have been hooked ever since. It replaced an entire cabinet of supplements for me in one daily scoop—seriously, its latest iteration covers a multivitamin, multi-mineral, prebiotics, probiotics, adaptogens, greens, and more. Today, Athletic Greens is offering Curiosity Chronicle subscribers an exclusive deal: Refer Friends, Earn Rewards!
+If you enjoyed today's newsletter, please share it with your friends and family! If this email was forwarded to you, consider |

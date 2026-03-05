@@ -1,0 +1,27 @@
+---
+subject: "TSMC, Intel, Samsung unlikely to chip in, India could use DIY in semicon"
+from: "The Ken <info@the-ken.com>"
+to: ""
+date: 2021-07-19 02:37:05
+labels: ["CATEGORY_PERSONAL", "IMPORTANT", "INBOX", "The Ken"]
+label_ids: ["CATEGORY_PERSONAL", "IMPORTANT", "INBOX", "Label_8244464457792971031"]
+---
+Good Morning Ishan,
+Earlier this month, the shares of Tata Motors plunged 10% in a single day. The cause of this drop? Jaguar Land Rover, a subsidiary of the company, announced that the global shortfall of semiconductor chips would impact its production and, therefore, its sales.
+The semiconductor shortage, which began towards the end of 2020, was precipitated by factors like the pandemic, the Trump administration's trade policies, and the increased difficulty and cost of making microchips any smaller or more powerful than they already are.
+For once, India was alert to this problem even before it truly arose. Last April, India notified a new semiconductor manufacturing policy. It then floated an Expression of Interest, asking global semiconductor majors to set up fabrication plants in the country. Big names have been mentioned in connection with this push—Taiwan's TSMC, the global leader in high-end processors, Korean electronics giant Samsung, and US majors Intel and Texas Instruments.
+The government is even throwing sops at interested parties—offering to put in as much as 25% of the capex required to set up these facilities. But despite the rumours of big companies coming to the table and the bait being offered, the truth is that none of the global majors are truly interested in taking the Indian government up on its offer. In fact, of the 20-odd entities who have thrown their hat in the ring, most are private equity and financial investors.
+Even as microchip companies announce plans for new, multi-billion dollar fabrication plants across the globe, India isn't a priority. Its microchip market—$21 billion in 2019—is simply a drop in the ocean, tendering process, and the lack of a proper semiconductor ecosystem makes it more trouble than it's worth.
+So has India lost the semiconductor sweepstakes? Well, yes. But it can still have a seat at the table. And the way forward isn't simply by courting the microchip giants, but fostering a local ecosystem that can both rub shoulders with these companies and also make India a more attractive proposition to them.
+Seema's free story today is about what India needs to do to get its own semiconductor fabrication plant: [https://the-ken.com/story/tsmc-intel-samsung-unlikely-to-chip-in-india-could-use-diy-in-semicon/](https://the-ken.com/story/tsmc-intel-samsung-unlikely-to-chip-in-india-could-use-diy-in-semicon/?utm_source=daily_story&utm_medium=email&utm_campaign=daily_newsletter) (14-minute read)
+Regards,
+Ranjan Crasta
+[ranjan@the-ken.com](mailto:ranjan@the-ken.com)
+PS: Last week, Inshorts bagged another round of funding worth $60 million. Inshorts' two-year old app, Public, had a major role to play. Available in 11 major languages, Public is perfectly poised to tap into the expanding regional language market that’s forecast to grow to a mammoth 526 million by 2021. While Public has impressed so far, what does its future look like? Find out in our [specially unlocked story](https://the-ken.com/story/inshorts-bumpy-public-road-to-crowdsourced-video-news-greatness/) of the day. It's free to read until 12 noon IST.
+|
+What you just read is the personalised daily introduction to The Ken's story. Written by a different person each day. Often insightful, sometimes witty, and very rarely boring. Someone sent this to you? [Sign up for free](https://the-ken.com/sea/?modal=register&utm_source=footer&utm_medium=email&utm_campaign=sea_morning_email). Don't like these? You can [unsubscribe](https://link.the-ken.com/asm/unsubscribe/?user_id=2349339&data=WpUg5JQi8cmQlNKsP3V7DjiGJ38NZEDHd3omUeUCNKpYVlYFdFjYV2IUT1qF36hj5ohCheQp8x5mjr0klgt5rbB4J-RpXXHUWKS4KD8gB8F5y3cJS99MwG_5a4YSn0N_kyTi2Eu61i6vqXFskXvO5qLIUFb-YZ9TpQDNkCNMMaJdwehXjD05IDhOX58ayPPMpASCVJmQPOUKdZrha9AV4fb3V6jRzm41lSfARxYjcZBzgQmJRk7CuK6QfgZBCOaTxfWymg5IgYbifoijCq8w7bwvgSOyWPpK3JXxFQHnEd4yeUsuzrddSV0s3X_bRk9cPEOsRX1Dr1F-02qTK2eqWB4SHpGxW2xkJHSSVO32YDufLGckhn8NW-AJdCjZw2ZKuzjPDeehAvFD1HIXs7SSFiRxbZ4gWPBmf-zO-sHtpmHRtg2a2-UZm2OZtajXZGA4lMvHDVAJZ6I35y5CShUDHt4-IQaLZ-J_h37voqqg8Oqjwg-7N1EPCu7OzDLPNT7EMA4iPBdDpi9ghcqhuWTtOrso0IvZoE7cLqs-skpQnAI=). Want to manage your emails? Click [here](https://link.the-ken.com/asm/?user_id=2349339&data=gFr79dg7Lz4bmofjOnpCc3Twf5Ij5Zjd4n6wZhfAM_ssv8JlXWPBxTfFn7GQTxPDMcwheOUB9Elt4-3Qqs1UBYa6omf-abRwHY0xP5ylcn_yDnN86SUTi5bhUm7Ouwlk8wcOXhL7NvAo9PPMXfeEUzZMvQgMsI7Kb9BgMUsyEIFbVSte9FbDf1elJwNtCKGrTR-1NUbJWQ-Gji8UE4SAraNlTvPFLThZ_3Sa33y4v7hy2Znx3JR0IC2L38QrOCb-vo7j6FTNWoFvogytjQsEGAKLdXk4gU2AkPnKIF27XstTCSB-Eoev9-Pki5ViyY5Jisum9_3vobskmwYIXHvdwkX6PVNBar-I0j9DND_J2C2xlR2BYcFzPa7-PP0BpZK23CvLMM6XnjheNvM5qq5vZMceI5EDrip9n7TYaRvAmRCq-J8CTA2hKtp2uiVKEBFLLOZXptbLGlCrYSd44kR_YsGZnxIOR1deCIauik1jVLnyOtG5RmoTDfOrFfMlwxnxLGVCqrLxfy1ghieMiFOuXNgG5Snuk4UzncxuXEMRV9I=).
+|
+|
+|
+|
+|

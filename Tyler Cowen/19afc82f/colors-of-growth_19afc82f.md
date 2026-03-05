@@ -1,0 +1,11 @@
+---
+subject: "Colors of growth"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2025-12-08 05:50:34
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+This looks pretty tremendous:
+We develop a novel approach to measuring long-run economic growth by exploiting systematic variation in the use of color in European paintings. Drawing inspiration from the literature on nighttime lights as a proxy for income, we extract hue, saturation, and brightness from millions of pixels to construct annual indices for Great Britain, Holland, France, Italy, and Germany between 1600 and 1820. These indices track broad trends in existing GDP reconstructions while revealing higher frequency fluctuations - such as those associated with wars, political instability, and climatic shocks - that traditional series smooth over. Our findings demonstrate that light, decomposed into color and brightness components, provides a credible and independent source of information on early modern economic activity.
+That is [new research](http://marginalrevolution.com?action=user_content_redirect&uuid=17507f2a5f6dbd8287c74f967de0967faa620f82e66962a15c4381053d0071c2&blog_id=42693868&post_id=92009&user_id=262258391&subs_id=225460721&signature=4c472eb34dfab6bdf13ccb841fb8eb38&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly9wYXBlcnMuc3Nybi5jb20vc29sMy9wYXBlcnMuY2ZtP2Fic3RyYWN0X2lkPTU4MDQ0NjI&email_id=c52eb518c7e625291300f18b034f94b1) by Lars Boerner, Tim Reinicke, Samad Sarferaz, and Battista Severgnini. Via [Ethan Mollick](http://marginalrevolution.com?action=user_content_redirect&uuid=c71f76e45f6cd26446106982319ef41accd073e5de548d4e34da580127dcbae2&blog_id=42693868&post_id=92009&user_id=262258391&subs_id=225460721&signature=ca65ab02c28fb4d5c56cb9f109ae6fa4&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly94LmNvbS9lbW9sbGljay9zdGF0dXMvMTk5NzE4ODc0NjcyNzMyNTk1MA=&email_id=c52eb518c7e625291300f18b034f94b1).

@@ -1,0 +1,15 @@
+---
+subject: "Open Thread 382"
+from: "Astral Codex Ten <astralcodexten@substack.com>"
+to: ""
+date: 2025-05-19 17:47:13
+labels: ["Astral Codex", "CATEGORY_PERSONAL", "INBOX"]
+label_ids: ["Label_6409723252142624155", "CATEGORY_PERSONAL", "INBOX"]
+---
+This is the weekly visible open thread. Post about anything you want, ask random questions, whatever. ACX has an unofficial [subreddit](https://substack.com/redirect/261b7405-ca5c-408a-971e-95d4c10b7eef?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o), [Discord](https://substack.com/redirect/d3a036a7-23d4-4c94-a19d-75ae32906aba?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o), and [bulletin board](https://substack.com/redirect/1418e40d-1b7e-4ea8-a17e-0ecf4a2b1849?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o), and [in-person meetups around the world](https://substack.com/redirect/f8d0a2eb-145b-45a2-9f0b-2a634edef135?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o). Most content is free, some is subscriber only; you can subscribe [here](https://substack.com/redirect/10b35d9f-d9f8-45bc-9bfd-2adf470b8f2f?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o). Also:
+1: ACX meetups this week in Oxford, Shanghai, and Austin. See [the post](https://substack.com/redirect/e3efe012-eaf3-4d09-b06b-e49024371e59?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) for details.
+2: Thanks to the 152 of you who turned in non-book reviews. We are working on collating them and will have them available for voting soon.
+3: Constellation is an AI safety coworking space in Berkeley. They offer [a fellowship where you can work at their office for 3-6 months](https://substack.com/redirect/edadab54-ea96-48f2-be07-4d955bba7509?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o). I’m there sometimes with the AI 2027 team and recommend it as a great place to work and meet people. Applications close June 13.
+4: There’s also the [Fellowship on AI For Human Reasoning](https://substack.com/redirect/6032ded6-983e-46a7-b090-8e02eae47f29?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o), intended to “help talented researchers and builders start working on AI tools for coordination and epistemics”. Three months, “$25-50K stipend”, and a coworking space in the SF Bay Area (maybe also Constellation, I don’t know). Applications close June 9.
+5: …and also, FIRE and Cosmos are offering [fast grants](https://substack.com/redirect/15547e4b-0c6c-4e9c-9587-f78e9b81cca8?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) (total pot $1 million, expected size per grant $1,000 - $10,000 in cash + compute) to projects on how “AI can empower open inquiry, not suppress it”.
+6: Two new posts on AI Futures blog, [Make The Prompt Public](https://substack.com/redirect/343da3b4-4677-4360-ab3f-665107b29cac?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) and [Slow Corporations As An Intuition Pump For AI R&D Automation](https://substack.com/redirect/011f0190-1770-446a-b1c1-2456f7aaba88?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o).

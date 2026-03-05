@@ -1,0 +1,10 @@
+---
+subject: "Why did air conditioning spread so fast in Mexico?"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2025-08-12 08:04:31
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+A common theme in the vast literature on climate change is the estimation of models using historical data to make predictions many decades into the future. Although there is a large and growing number of these types of studies, researchers rarely return later to check the accuracy of their predictions. In this paper, we perform such an exercise. In Davis and Gertler (2015), we used household-level microdata from Mexico to predict future air conditioning adoption as a function of income and temperature. Revisiting these predictions with 12 years of additional data, we find that air conditioning in Mexico has accelerated, significantly exceeding our predictions. Neither errors in predicting income growth or rising temperatures, nor migration patterns, nor an overly restrictive model can explain the large prediction gap. Instead, our results point to the failure to account for falling electricity prices and technological changes in air conditioner eﬀiciency as key drivers of the prediction gap.
+That is from [a new NBER working paper](http://marginalrevolution.com?action=user_content_redirect&uuid=def7227ed8c49bcfa8132952595e364783715e26a40133d17aed7817a207169f&blog_id=42693868&post_id=91276&user_id=262258391&subs_id=225460721&signature=c11122fd5153c1cd199228baca8c18ea&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly93d3cubmJlci5vcmcvcGFwZXJzL3czNDEwMSNmcm9tcnNz&email_id=d043dc63fe9e4a468d1b04a08a99cb61) by Lucas W. Davis and Paul Gertler. As of 2022, the rate of air conditioning access in Mexico was about 18.5%, only slightly less than that of Europe.

@@ -1,0 +1,9 @@
+---
+subject: "Remembering DJ Twitch"
+from: "\"Why is this interesting?\" <whyisthisinteresting@substack.com>"
+to: ""
+date: 2025-09-24 11:03:34
+labels: ["CATEGORY_PERSONAL", "INBOX", "UNREAD", "WITI"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "UNREAD", "Label_5752899537867939131"]
+---
+Colin here. My memory of seeing Optimo in New York is hazy, as the best nights often are. Josh Houtkin (JDH) and his partner in crime Dave Pianka (Dave P) would bring them over from Europe for downtown parties, and compared to the prevailing buzzy electro pop aesthetic of the time, their depth and fluency stood out. One moment still glows through the synthetic fog: Twitch working some edit of Dinosaur’s “ Keith McIvor, known to all as DJ Twitch, built his reputation not through spectacle but through substance. Born in Scotland, came up in Edinburgh before joining forces with Jonnie Wilkes to form Optimo (Espacio). From their legendary Sunday-night residency at Glasgow’s Sub Club, they tore up any rulebook: ambient, punk, dub, disco, industrial, house, all could sit together, provided it was stitched with intent. Twitch’s sets were never about eclecticism for its own sake; they were about coherence, storytelling, and a belief in the hyponotic trance of a dance floor on the same page. What made him remarkable was the combination of encyclopedic knowledge and genuine generosity. He championed new artists and white labels, mentored younger DJs, and created inclusive spaces where outsiders and insiders danced side by side. Around the world, he became a traveling folk hero, carrying the Optimo ethos into basements, festivals, and clubs. He died last Friday, and the music world feels emptier without him. Those who knew him well speak of a kind and thoughtful man. Those who only knew him from the floor felt it too: his curiosity, passion, and care built into every performance. You're currently a free subscriber to |

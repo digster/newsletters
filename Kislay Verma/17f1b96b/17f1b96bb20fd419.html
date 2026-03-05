@@ -1,0 +1,414 @@
+<!DOCTYPE html>
+<html xmlns="https://www.w3.org/1999/xhtml" xmlns:o="urn:schemas-microsoft-com:office:office">
+<head>
+<title>It Depends #53: An introduction to Caching (Part-1)</title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<!--[if !mso]><!-->
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<!--<![endif]-->
+<!--[if mso]>
+<style type="text/css">table {border-collapse:collapse;border-spacing:0;margin:0;}div, td {padding:0;}div {margin:0 !important;}</style>
+<noscript><xml><o:OfficeDocumentSettings><o:PixelsPerInch>96</o:PixelsPerInch></o:OfficeDocumentSettings></xml></noscript>
+<![endif]-->
+<style type="text/css">
+#outlook a{padding:0;}
+.ReadMsgBody{width:100%;} .ExternalClass{width:100%;}
+.ExternalClass, .ExternalClass p, .ExternalClass span, .ExternalClass font, .ExternalClass td, .ExternalClass div {line-height: 100%;}
+
+body { margin: 0; padding: 0; height: 100%!important; width: 100%!important; -webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%;}
+table,td { border-collapse: collapse !important; mso-table-lspace: 0pt; mso-table-rspace: 0pt;}
+img { border: 0; height: auto; line-height: 100%; outline: none; text-decoration: none; max-width: 100%!important; -ms-interpolation-mode: bicubic;}
+img.aligncenter { display: block; margin: 0 auto;}
+
+@media screen and (max-width: 525px) {
+ .pt-1, .padding-top-15 { padding-top: 15px!important; }
+ .pb-1, .padding-bottom-15 { padding-bottom: 15px!important; }
+ .responsive { width:100%!important; }
+ table.responsive { width:100%!important; float: none; display: table; padding-left: 0; padding-right: 0; }
+ table[class="responsive"] { width:100%!important; float: none; display: table; padding-left: 0; padding-right: 0; }
+ img { max-width: 100%!important }
+ img[class="responsive"] { max-width: 100%!important; }
+ /* "width: auto" restores the natural dimensions forced with attributes for Outlook */
+ .fluid { max-width: 100%!important; width: auto; }
+ img[class="fluid"] { max-width: 100%!important; width: auto; }
+
+ .block { display: block; }
+
+ td[class="responsive"]{width:100%!important; max-width: 100%!important; display: block; padding-left: 0 !important; padding-right: 0!important; float: none; }
+ td.responsive { width:100%!important; max-width: 100%!important; display: block; padding-left: 0 !important; padding-right: 0!important; float: none; }
+
+ td[class="section-padding-bottom-image"]{
+ padding: 50px 15px 0 15px !important;
+ }
+
+ .max-width-100 { max-width: 100%!important; }
+
+ /* Obsolete */
+ .tnp-grid-column {
+ max-width: 100%!important;
+ }
+
+}
+
+
+
+/* Contains some rules to simulate device layout on backend preview */
+
+#newsletter-builder-area-center-frame-content.tnp-view-mobile table[class="responsive"],
+#newsletter-builder-area-center-frame-content.tnp-view-mobile table.responsive
+{
+ width:100%!important;
+ float: none;
+ display: table;
+ padding-left: 0;
+ padding-right: 0;
+}
+
+#newsletter-builder-area-center-frame-content.tnp-view-mobile td[class="responsive"]{
+ width:100%!important;
+ max-width: 100%!important;
+ display: block;
+ padding-left: 0 !important;
+ padding-right: 0 !important;
+ float: none;
+}
+
+#newsletter-builder-area-center-frame-content.tnp-view-mobile img[class="responsive"],
+#newsletter-builder-area-center-frame-content.tnp-view-mobile img.responsive
+{
+ max-width: 100%!important;
+}
+
+#newsletter-builder-area-center-frame-content.tnp-view-mobile img[class="fluid"]{
+ width: 100%;
+ max-width: 100%!important;
+}
+
+#newsletter-builder-area-center-frame-content.tnp-view-mobile .pt-1 {
+ padding-top: 15px!important;
+}
+
+#newsletter-builder-area-center-frame-content.tnp-view-mobile .pb-1 {
+ padding-bottom: 15px!important;
+}
+
+#newsletter-builder-area-center-frame-content.tnp-view-mobile .tnp-grid-column {
+ max-width: 100%!important;
+}
+
+#newsletter-builder-area-center-frame-content.tnp-view-mobile td[data-responsive-image="true"] {
+ height: auto !important;
+}
+
+
+/* Html */
+.html-td-global p {
+ font-family: Helvetica, Arial, sans-serif;
+ font-size: 16px;
+}
+
+
+/* Text */
+
+
+/* Last posts */
+@media (max-width: 525px) {
+ .posts-1-column {
+ width: 100%!important;
+ }
+ .posts-1-image {
+ width: 100%!important;
+ display: block;
+ }
+}
+
+
+</style>
+</head>
+<body style="margin: 0; padding: 0; line-height: normal; word-spacing: normal;" dir="ltr">
+
+<table cellpadding='0' cellspacing='0' border='0' width='100%'>
+<tr>
+<td bgcolor='#ffffff' valign='top'><!-- tnp --><table style="border-collapse: collapse; width: 100%; user-select: auto;" class="tnpc-row tnpc-row-block ui-sortable-handle" data-id="image" width="100%" cellspacing="0" cellpadding="0" border="0" align="center">
+<tbody style="user-select: auto;"><tr style="user-select: auto;"><td style="padding: 0px; user-select: auto;" class="edit-block" align="center">
+<!--[if mso | IE]><table role="presentation" border="0" cellpadding="0" align="center" cellspacing="0" width="600"><tr><td width="600" style="vertical-align:top;width:600px;"><![endif]--><table type="options" class="tnpc-block-content" style="width: 100% !important; max-width: 600px !important; user-select: auto;" width="100%" cellspacing="0" cellpadding="0" border="0" align="center">
+<tbody style="user-select: auto;"><tr style="user-select: auto;"><td style="text-align: center; letter-spacing: normal; padding: 0px; background-color: rgb(255, 255, 255); width: 100% !important; line-height: normal !important; user-select: auto;" width="100%" bgcolor="#ffffff" align="center"><table class="responsive" style="margin: 0px; user-select: auto;" width="100%" cellspacing="0" cellpadding="0" border="0">
+ <tbody style="user-select: auto;"><tr style="user-select: auto;">
+ <td style="user-select: auto;" width="100%" valign="middle" align="center">
+ <a href="https://daijdhg.r.bh.d.sendibt3.com/tr/cl/rQQT7F3MpSJHd880-Sjk8LdhuTWkRVfATB7d7x48EHHuAAL_nIVy8lhGt7MpfUN-Xchb4sDCoaOZGethwVNavf5Y2v03saldzLYD_cx2SBarYhEcIiLIGoT_uGFUU5HXLwS-OjFBRnWuOX-7LvA4am3K3IzNiP_d5G2Gi_S3dydr42Djg-rQsiSox0f0LkxFt079L_xrxU-Eae0Ij_nP4_NWVYj2-G1CSvjCPim-tZwTkJHgEyIpbvnqGzu2FD4PinWdpdia6zfNXom0Qb8zkiR8NtTy9v3EMVf6TIwHl1HruMH8YsMhu-ik-DMFahawAmgfJseHzKy8l3_3KkLLYTDA4YgWZk5V6Dcfs6xcSzl6" target="_blank" rel="noopener nofollow" style="display: inline-block; font-size: 0px; text-decoration: none; line-height: normal !important; user-select: auto;"><img src="https://5fwei.img.bh.d.sendibt3.com/im/3089376/3325ddad58594c9c9a31c2c2f4c1c5d57b0ddb76f7c3a70fdda7d9b360aae9c9.jpeg?e=npOHwZ8MY37UODKcqEvcQGNhpH_Z3xP0BZD78JtoeajALsfNOCkaCyLh2kCJ8qDqAbstfb8_FyiZuD3LKehe_0dcaY25F6ZSmSNSF7csyNKFXh29S1RwZnGgXrRwJmU4xCN2rkBlfbxb4KlCzWhOG0wSRKwyGS9DCa6J0BUC6Ezl29DDCb9_wb1X6RBdPgcx_C9bdl5Ek9aa2gNfD3HQsasOqhRutOPCwh-lTVV3XJygmQ91ftSf_8O8ePvqQOm0i3tydmEhFy6L-oRNq7DpjIrtxqbhfnXDex8rjw7YS3qAxETNSNFt16L4qeyFWsb3OX8_7QW32A" alt="" style="display: inline-block; padding: 0px; border: 0px; max-width: 100% !important; user-select: auto;" class="" width="250" height="208" border="0"></a> </td>
+ </tr>
+</tbody></table></td></tr></tbody></table><!--[if mso | IE]></td></tr></table><![endif]--></td></tr></tbody></table><table style="border-collapse: collapse; width: 100%; user-select: auto;" class="tnpc-row tnpc-row-block ui-sortable-handle" data-id="text" width="100%" cellspacing="0" cellpadding="0" border="0" align="center">
+<tbody style="user-select: auto;"><tr style="user-select: auto;"><td style="padding: 0px; user-select: auto;" class="edit-block" align="center"><!--[if mso | IE]><table role="presentation" border="0" cellpadding="0" align="center" cellspacing="0" width="600"><tr><td width="600" style="vertical-align:top;width:600px;"><![endif]--><table type="options" class="tnpc-block-content" style="width: 100%!important; max-width: 600px!important" width="100%" cellspacing="0" cellpadding="0" border="0" align="center">
+<tbody><tr><td style="text-align: center; width: 100% !important; line-height: normal !important; letter-spacing: normal; padding-top: 0px; padding-left: 10px; padding-right: 10px; padding-bottom: 0px; background-color: #ffffff;" width="100%" bgcolor="#ffffff" align="center"><table style="width: 100%!important" width="100%" cellspacing="0" cellpadding="0" border="0">
+ <tbody><tr>
+ <td style="font-family: Verdana, Geneva, sans-serif; font-size: 18px; font-weight: normal; color: #222222; line-height: 1.5;" width="100%" valign="top" align="left">
+ <p style="text-align: center"><span style="font-size: 14px">Already a subscriber? Jump ahead to the good stuff! </span></p>
+<p style="text-align: center"><span style="font-size: 14px">But if someone forwarded this to you, they probably love <em>It Depends</em> and think you would too!&nbsp;</span></p> </td>
+ </tr>
+</tbody></table></td></tr></tbody></table><!--[if mso | IE]></td></tr></table><![endif]--></td></tr></tbody></table><table style="border-collapse: collapse; width: 100%; user-select: auto;" class="tnpc-row tnpc-row-block ui-sortable-handle" data-id="cta" width="100%" cellspacing="0" cellpadding="0" border="0" align="center">
+<tbody style="user-select: auto;"><tr style="user-select: auto;"><td style="padding: 0px; user-select: auto;" class="edit-block" align="center"><!--[if mso | IE]><table role="presentation" border="0" cellpadding="0" align="center" cellspacing="0" width="600"><tr><td width="600" style="vertical-align:top;width:600px;"><![endif]--><table type="options" class="tnpc-block-content" style="width: 100% !important; max-width: 600px !important; user-select: auto;" width="100%" cellspacing="0" cellpadding="0" border="0" align="center">
+<tbody style="user-select: auto;"><tr style="user-select: auto;"><td style="text-align: center; letter-spacing: normal; padding: 0px; background-color: rgb(255, 255, 255); width: 100% !important; line-height: normal !important; user-select: auto;" width="100%" bgcolor="#ffffff" align="center"><table style="margin: 0px; border-collapse: collapse; user-select: auto;" width="100%" cellspacing="0" cellpadding="0" border="0">
+ <tbody style="user-select: auto;"><tr style="user-select: auto;">
+ <td style="user-select: auto;" align="center">
+ <table role="presentation" style="margin: 0px auto; user-select: auto;" width="200" cellspacing="0" cellpadding="0" border="0" align="center"><tbody style="user-select: auto;"><tr style="user-select: auto;"><td role="presentation" style="border: none; border-radius: 3px; cursor: auto; background: rgb(37, 111, 156); user-select: auto;" valign="middle" bgcolor="#256f9c" align="center"><a href="https://daijdhg.r.bh.d.sendibt3.com/tr/cl/dLauBXv_MhtVzWn8CydP7LZTYaPY3LbEM0u0COwT_k5ioo5ANJc8kWh-O23nUGnkauOxKvfuClvP13FQggBAbsejMRFPaPAUIwGLNEn5VIVkrhvKtTOAB3CCWcejvPWqarIcSEMqsq8uqaABUNbhAWicup_LFzavPQjjmQ1mMhpoWqHlyGVjr-2xzbcY0vq46nS1Dnozm3U7rLS2BnvXz0AR13uV9YjYlwFhaBsWPR9onshr7Rr9rneV1RDLRTX1EABmK4h--0gp2FYcsHaMbYtW4Mf0fu_GNA9yCCUv7fcPXO4xStvqHe2Gh4hoS9bBO1W_Y3ZQvk1kZSdt-FJPVZZJksNbS0FV254Up-CW5Vd8b8n2cvX1DzRrf3Of1gbpnkHacjiymqv3Xldc3GSPF_A" style="display: inline-block; background: rgb(37, 111, 156); color: rgb(255, 255, 255); font-family: Verdana, Geneva, sans-serif; font-size: 16px; font-weight: bold; line-height: 120%; margin: 0px; text-decoration: none; text-transform: none; padding: 10px 25px; border-radius: 3px; user-select: auto;" target="_blank">Subscribe now!</a></td></tr></tbody></table> </td>
+ </tr>
+</tbody></table>
+
+<div itemscope="" itemtype="http://schema.org/EmailMessage" style="user-select: auto;">
+ <div itemprop="potentialAction" itemscope="" itemtype="http://schema.org/ViewAction" style="user-select: auto;">
+ <meta itemprop="url" content="https://kislayverma.com/newsletter-archive/" style="user-select: auto;">
+ <meta itemprop="name" content="Subscribe now!" style="user-select: auto;">
+ </div>
+ <meta itemprop="description" content="Subscribe now!" style="user-select: auto;">
+</div></td></tr></tbody></table><!--[if mso | IE]></td></tr></table><![endif]--></td></tr></tbody></table><table style="border-collapse: collapse; width: 100%; user-select: auto;" class="tnpc-row tnpc-row-block ui-sortable-handle" data-id="separator" width="100%" cellspacing="0" cellpadding="0" border="0" align="center">
+<tbody style="user-select: auto;"><tr style="user-select: auto;"><td style="padding: 0px; user-select: auto;" class="edit-block" align="center">
+<!--[if mso | IE]><table role="presentation" border="0" cellpadding="0" align="center" cellspacing="0" width="600"><tr><td width="600" style="vertical-align:top;width:600px;"><![endif]--><table type="options" class="tnpc-block-content" style="width: 100% !important; max-width: 600px !important; user-select: auto;" width="100%" cellspacing="0" cellpadding="0" border="0" align="center">
+<tbody style="user-select: auto;"><tr style="user-select: auto;"><td style="text-align: center; letter-spacing: normal; padding: 20px; background-color: rgb(255, 255, 255); width: 100% !important; line-height: normal !important; user-select: auto;" width="100%" bgcolor="#ffffff" align="center"><table style="user-select: auto;" width="100%" cellspacing="0" cellpadding="0" border="0">
+ <tbody style="user-select: auto;"><tr style="user-select: auto;">
+ <td style="border-bottom: 1px solid rgb(221, 221, 221); user-select: auto;"></td>
+ </tr>
+</tbody></table></td></tr></tbody></table><!--[if mso | IE]></td></tr></table><![endif]--></td></tr></tbody></table><table style="border-collapse: collapse; width: 100%; user-select: auto; display: table;" class="tnpc-row tnpc-row-block ui-sortable-handle" data-id="heading" width="100%" cellspacing="0" cellpadding="0" border="0" align="center">
+<tbody style="user-select: auto;"><tr style="user-select: auto;"><td style="padding: 0px; user-select: auto;" class="edit-block" align="center"><!--[if mso | IE]><table role="presentation" border="0" cellpadding="0" align="center" cellspacing="0" width="600"><tr><td width="600" style="vertical-align:top;width:600px;"><![endif]--><table type="options" class="tnpc-block-content" style="width: 100%!important; max-width: 600px!important" width="100%" cellspacing="0" cellpadding="0" border="0" align="center">
+<tbody><tr><td style="text-align: center; width: 100% !important; line-height: normal !important; letter-spacing: normal; padding-top: 10px; padding-left: 10px; padding-right: 10px; padding-bottom: 10px; background-color: #ffffff;" width="100%" bgcolor="#ffffff" align="center"><table width="100%" cellspacing="0" cellpadding="0" border="0">
+ <tbody><tr>
+ <td style="font-size: 20px;font-family: Verdana, Geneva, sans-serif;font-weight: bold;color: #222222; padding: 0; line-height: normal !important; letter-spacing: normal;" valign="middle" align="center">
+ #53: An Introduction to Caching (Part-1) </td>
+ </tr>
+</tbody></table></td></tr></tbody></table><!--[if mso | IE]></td></tr></table><![endif]--></td></tr></tbody></table><table style="border-collapse: collapse; width: 100%; user-select: auto; display: table;" class="tnpc-row tnpc-row-block ui-sortable-handle" data-id="text" width="100%" cellspacing="0" cellpadding="0" border="0" align="center">
+<tbody style="user-select: auto;"><tr style="user-select: auto;"><td style="padding: 0px; user-select: auto;" class="edit-block" align="center"><!--[if mso | IE]><table role="presentation" border="0" cellpadding="0" align="center" cellspacing="0" width="600"><tr><td width="600" style="vertical-align:top;width:600px;"><![endif]--><table type="options" class="tnpc-block-content" style="width: 100%!important; max-width: 600px!important" width="100%" cellspacing="0" cellpadding="0" border="0" align="center">
+<tbody><tr><td style="text-align: center; width: 100% !important; line-height: normal !important; letter-spacing: normal; padding-top: 10px; padding-left: 10px; padding-right: 10px; padding-bottom: 10px; background-color: #ffffff;" width="100%" bgcolor="#ffffff" align="center"><table style="width: 100%!important" width="100%" cellspacing="0" cellpadding="0" border="0">
+ <tbody><tr>
+ <td style="font-family: Verdana, Geneva, sans-serif; font-size: 18px; font-weight: normal; color: #222222; line-height: 1.5;" width="100%" valign="top" align="left">
+ <p id="docs-internal-guid-bc834d50-7fff-943a-fa78-95b3b69b697b" dir="ltr">Hello Everyone!</p>
+<p id="docs-internal-guid-4eb579d7-7fff-73f7-8f90-353077e8279a" dir="ltr">Welcome to the 53rd episode of It Depends. Hope you are all doing well. This week, we are taking a deep dive into the world of Caching, and then surfing the best waves of the technology internet.</p>
+<h2>An introduction to Caching (Part-1)</h2>
+<p dir="ltr">You can read <a href="https://daijdhg.r.bh.d.sendibt3.com/tr/cl/8sOvj0yI35rPycbiOkQGBDqJdmFOECPrbsMsZ5vJl7kTXYXtzBAwPlXiwnlUPdDNLgEcGRP1L9Wn4yApvP7K0VnjQGBFmAvBgJFxI_Y5GtY1wrHwYVTqbQh_ZssjdnEGFGAQLV5ZQkYwSdpuBoLbj5-wMQ54J435Onzbhp5Ax80ahxdq4DMJcFdtuJgPSYmUMvOv_hniApkai_aLYXaMwuV8wUXyHr4e8fqMyu9P2EyGDZqX-DlNek4PFMw6CPM3LVU0meNe5RdLT2m3TahjPG9st6j71FPEHiP2f2K5LVz16OOcIOIZpPVad9Vyi7M-njacBMWP1yfn_D13DHIIByhs4HFvM9npXYCC5qLFRGMkgU44YuKvsiwVTNAFgeDSQlbq_j4BhG8MOaMtgigLn-7qXgvxg_FlvphL0LItxLBK9FYqyIJTVi4_YHbpjnrV0-M-ftAF7eDtH5NDemsiI7E">the original article</a> directly on the blog.</p>
+<p dir="ltr">Performance has always been a key feature of technical systems. Today on the internet, sub-second latencies are the norm. It costs companies money if their pages load slowly because potential customers won’t wait longer than that. On the other hand, there is more and more data from many different sources which have to be loaded into a rich user experience (think of the number of things going on a typical FB page). This data gathering problem is further exacerbated by the trend towards microservices.</p>
+<p dir="ltr">Given all this, how are we to build super-fast systems?</p>
+<h3>What is caching?</h3>
+<p dir="ltr">Caching is the general term used for storing some frequently read data temporarily in a place from where it can be read much faster than reading it from the source (database, file system, service whatever). This reduction in data reading time reduces the system’s<a href="https://daijdhg.r.bh.d.sendibt3.com/tr/cl/AUaod8w4q-e9XxUgULCllynUSSvJ7853SUHVflNCEqUwN7rUaP5aYN-wilAdK7c8B3lpspSiTh8CyP_tUkcDrulLDc1Qvcze8rThXoUby_IGUvmILoaFTIbV0jlk_ppGziNimA1LPa-JFD76xY45AEpZDhe6hqvN638s8NU_0UlbFunPPojgwBzDpQe65040fWCAzBGkthVkFXN9K9zkkemhHEmF8J_FDf8D6gbLrgY83h-0N7e0nS-zDNG_gHbDKw8O86kUA1V1RLRjLHc7c_haZCYhiwrHr0aluxH69IaE_BtyO5kWyGNrVdoT2wX_HnyoSzPlCZAGUhnaXT68OctseFAX8qcC3Jv4N65Z8brhrV7TE7aks6R1plbP47idNfJ09vXCBoPU21sgOgXDDX3ZVPw5O4cD59XcrOYcLgcmiPKAcFm9GCT3qxjwLlHson4lG_JOWBJvj5ppmsmEBFOOs6O1ih5uphuY218Mkx4KAavDpxr3rf3hpXBcq3B_Ei3v1fc6aWl5M9NWvJyQHtO4KXNRIzANlQ"> latency</a>. This also increases the system’s overall throughput because requests are being served faster and hence more requests can be served per unit time.</p>
+<p dir="ltr"><img class="alignnone size-medium wp-image-1430 aligncenter" src="https://5fwei.img.bh.d.sendibt3.com/im/3089376/d44b8e3a218de31b14f0029ff18216b3811f1ed91c02a1dd85c72711c42e9d50.jpg?e=0O9VpRn6EDdkMsbvUQgqWQ_00KS6CAqWtPyVKVTCH0PhnfDhZvCF0UCDWP3OUa4hTw9lUv-G1a6dDA92YU1AIPycTGfGISR2ZpDpSM57jAFsn5PX6k8Mtu_k69YFCqraff02YueJZipt8uM0dFwL0QOcg3n1sRNtIStGxhsoqX2seIdsnueqQcBAgc3BreFvmLB23kLowobN6gUcaQDimU5myhyITECxMUNfZ3WaE-kjZ4K-iZpxcg0PkxFeFcI12nSDlbdHi2lfP8e0SCCZpFemg4M0RbDpQDQcwKZNY9QGu4GtQM1aaw" alt="" width="376" height="357"></p>
+<p dir="ltr">Microprocessor architectures have long employed this technique to make programs run faster. Instead of reading all data from the file system all the time, microprocessors employ multiple levels of cache where it is slower to read from lower levels than from the higher levels. The game is now one of making sure that the data read most often is in the highest level cache, and so on. Getting this right can make a dramatic difference to the speed of a running program.</p>
+<p dir="ltr">Typically, caches hold a copy of the source data for some time (called expiration time or time-to-live (TTL)) after which the data is “evicted” from the cache. As more data is loaded into a cache of finite capacity, some strategies may be applied to decide which data is retained and which is evicted.</p>
+<h3>Where can we employ caching</h3>
+<ol>
+<li>
+<p dir="ltr" role="presentation"><strong>The system must be read-heavy</strong> – As should be clear by now that caching is only a solution for scaling the reading of data. So if you are building a system that reads data significantly more times than it writes data, caching can be a powerful technique for you. Write or compute-heavy systems have relatively less to gain from caching.</p>
+</li>
+<li>
+<p dir="ltr" role="presentation"><strong>Tolerance to stale data</strong> – Caching can only be applied if we can tolerate reading stale data (at least for some time). Since the cache is a copy of the source data, it is possible that the source data changes and the cache doesn’t know of it. Some systems can tolerate this e.g. the likes counter on your Instagram reel can be a little behind the actual count for some time. Other systems like accounting systems cannot tolerate working with stale data. If working with stale data is not acceptable in our system, then caching is not a viable option for scaling.</p>
+</li>
+<li>
+<p dir="ltr" role="presentation"><strong>Data doesn’t change frequently</strong> – A corollary to the above is that caching works best for data that doesn’t change frequently. This will invalidate the cache and push the system’s tolerance for data staleness. There are strategies to cache frequently changing data (like write-through caching discussed below), but they are usually more expensive to execute.</p>
+</li>
+<li>
+<p dir="ltr" role="presentation"><strong>Limited to the amount of data that cache can hold</strong> – In most large scale use cases it is not possible to store all of the data that you are using into the cache. e.g. You may not be able to load the profile data of all your customers into your cache because then the user data cache would be as large as the user database and that can get expensive. In these situations, we need to be smart about what is cached (the most frequently used data points) and what is retrieved from the source.</p>
+</li>
+</ol>
+<h3>Levels of Caching</h3>
+<p dir="ltr">As I said earlier, caching is a general concept, not restricted to use only in web architectures. We can also employ it at various levels of the system architecture. Some of these are done by application developers explicitly, others are done behind the screens by tools and frameworks being used. I have called out some of the most commonly seen levels of caching in internet architectures, but there may be several more in between.</p>
+<ol>
+<li>
+<p dir="ltr" role="presentation"><strong>Microprocessor</strong> – We have already covered this above. Microprocessors and Operating systems work together to cache data into registers and other caches to make our programs run faster behind the screens.</p>
+</li>
+<li>
+<p dir="ltr" role="presentation"><strong>Databases</strong> – Most databases employ some sort of internal caching mechanism to keep “hot” data in memory. e.g. MySQL loads small but frequently accessed tables entirely in memory. This is also typically hidden from developers, but understanding these mechanisms can be helpful in debugging database performance issues under high load.</p>
+</li>
+<li>
+<p dir="ltr" role="presentation"><strong>Application</strong> – Applications typically cache the data they own in cache tools of their choice. This is a developer-driven activity and one where we can exert the most control.</p>
+</li>
+<li>
+<p dir="ltr" role="presentation"><strong>Scatter-gather</strong> – This is a flavour of application-level caching but for applications that gather data from multiple sources (each of whom may have their internal caches). This level of caching is widely used on the internet, typically in backend-for-frontend type applications and has a significant effect on the end-user experience.</p>
+</li>
+<li>
+<p dir="ltr" role="presentation"><strong>CDN</strong> – This is “internet level caching” where we cache entire pages and distribute them across geographies so that they be read from servers very close to the end-user.</p>
+</li>
+</ol>
+<h3>Caching Strategies</h3>
+<p dir="ltr">Depending on the type of application, the type of data, and the expectation of failure, there are<a href="https://daijdhg.r.bh.d.sendibt3.com/tr/cl/JLClNtr3rUR-H_Z880mvv-ktWFUyf-qAn0YQ2EAqbTOCq2Xe_RQ-rCaes3dcMRq02_adQQsPHmcw_0G7eCpgiDhrTnCoP8W9B8rGIT-J5bxOo6vD1tevzfBSm0raEpbSPnTSCpa1vUcQ64WfQmUR7pdECrd7G2_3DnMeBEO9i6WKwo03qeCpMsQGDHg4M0hm45PCfEF39lu--msRsItJnIyNnj5hm2f6oBmHWBqveOT0qgYCt51f3_VDzrx4ksPsWJEB2ESl_3ZHDXgRr08hPYpdLARmpYxlIk7csxs4DLX93CfAPqDTrao4_Qs5tZvbZaUdpylx5jzgrKS-kw4SpadqMgowELc7BPk1s46kCwxdGz2iuWi-1F5iIij93jeO2IPp2Dug9qBgAebxf-OJPkvLbBUGsSpO4XSy-1Sdosh9P0_LKE4xFjLb4Y9p5LOgaXJSUpCCnAC6WjI4mA"> several caching strategies</a> that can be applied for caching.</p>
+<h4>Read through</h4>
+<p><img class="alignnone size-medium wp-image-1432 aligncenter" src="https://5fwei.img.bh.d.sendibt3.com/im/3089376/217d6e988f9d150f48325bf987010763f3219d2dc35c6564ed02faed07dd80c4.jpg?e=A-qLOPF9BUnXP1IWBXD3wB7t15pHiOxj7NpLd789ZKzHnWtb3gdyPvoPPXAXoqlX_EvPHKnD6OnJFC59qnIkuDiUGDOJXRGZoqo4mIKU0Y0MadK73Sr6u1m3hhbVQxkwwybmWfZmOcn0I5Mr45NZN3EE8Q55vQnLCJnxAleSSR8Gf_1Diz9XxhGOd7V40_o3ZEdjTyKQuEOsDRuc7MnCMLB6ppLDk63shoadk32nhshjntsanqgs-4_hNolfzsJEvjvdwU1VMvejGBcOB81V9HR8kPGNJLlWwnm3DFRJBu0IeHF0p-Kpo3LMeLZj" alt="" width="441" height="292"></p>
+<p dir="ltr">This is the simplest and most commonly used strategy. The application tries to read the data from the cache. If it finds the data (known as “cache hit”), all is well. If it doesn’t find the data in the cache (known as a “cache miss”), it goes to the source to fetch it and loads it in the cache. If the cache is full, then some policy based on the nature of the data (e.g. Least frequently used, most recently used) is used to identify the data which should be removed from the cache to make room for the incoming data.</p>
+<p dir="ltr">In this strategy, tasks that encounter a cache miss will have a higher latency than those that get a cache hit.</p>
+<h4>Write through</h4>
+<p><img class="alignnone size-medium wp-image-1434 aligncenter" src="https://5fwei.img.bh.d.sendibt3.com/im/3089376/baeb4d0553223f96c234c3969d71c7f665707fe08174e50116cc3f6dd227f09d.jpg?e=jO2NqufSbKyCPHWbBXvoIbRhmSLYeU4Q_W80VSeqGaEYg2Oj5he_6E_Qqg2_f_w7UKbYDtW3XnLKSnn-NSsJ4tQIbie5virjB_jy0qDcI3KB0PzZ8xc1-FA6MrZ9ZRaNDsN7-F0uVbbNA8zpblgnijaaUVLWiVi05yLmZ_6fnQ7ZVfFJayM3MpxMqcQA8gk-3ERGrSwUsieWmxNBRrSyZ_bdPtzhCvJvHJKhlvX7FShSfAIDIIhnwom8sVJ2Dox7g9meDsxaoDXz_XArIsg5368pGMttv4SGH-dgNIrDPI3N8VVogBCtBJ2oRxoxJA" alt="" width="430" height="301"></p>
+<p dir="ltr">In applications where the cache can hold all the data and is expected to be always fresh, we can use the write-through pattern. In this, every write is first done to the cache, and then to the source. This means that the cache is always in sync with the source. The cache becomes the source of truth for the application and it never reads the data from the source.</p>
+<p dir="ltr">On the flip side, this requires the full data to be loaded in the cache at the outset. It also introduces higher latencies on the write operations, and higher write load on the cache system, which may, in turn, impact its read performance.</p>
+<h4>Write Behind</h4>
+<p><img class="alignnone size-medium wp-image-1436 aligncenter" src="https://5fwei.img.bh.d.sendibt3.com/im/3089376/6f337adb5786912fd345e9406db9b668ecab79e1d887d5a4310aaf233a07507f.jpg?e=-RGQmk0vUJpNJmZVSlLtbE7WyAYZCxzfvUs-CB4CXJ6H152x4kEzmBj1u5Pc14CEIpsPy1KwbLJgIc5_RkDY7ogEsjx2KjWDecd36z6Wajgtvq0IQOGjoSu2B6aoq0bQ93pjK8oFeLRGZkUhCo92nAiJ6zjxb_WrdqXxf7KAJqjnFkepjOezokfVmawf7Im3NZcEWRQtMmk_FQeLgorhncIALwxilLjjc1rPK7RV_NynptU365PYOv75D8NAxxztEX4LeiP9OvqoXNrOJeaIEfqGyNsN1JQMgotoWow7pMjhqxpxcGeZKuPeh8XT" alt="" width="438" height="294"></p>
+<p dir="ltr">Similar to the write-through strategy, the application first new data to the cache. But after that, the application process returns to its main duties. The cache itself or some other process runs periodically and batch-writes the cache data into the source.</p>
+<p dir="ltr">This is an effective strategy for cases where we do not want to bear the latency cost of writing to the source in the main application process and the cache is reliable enough that we are sure of not losing the data before it is pushed to the source. This strategy requires that writes to the source never fail while dumping data from the cache, or there be a resolution mechanism to resolve inconsistencies.</p>
+<h4>Refresh Ahead</h4>
+<p><img class="alignnone size-medium wp-image-1438 aligncenter" src="https://5fwei.img.bh.d.sendibt3.com/im/3089376/941c690b2f0043240c89a7906a083dd3e5fbfd06c787c484a22334a8f7d68961.jpg?e=4lFJs5ZLUAZO87tN07_XroG-CAXrLozra7oj9_7YKCvmHv5aBFsNiFl5AYrq2uds4rTJKLh9xzg10WG1iSSk6L5hPKiC5pKN08iORc7tavJgv7Gj0qdHxA0Arh6cw_VG3wRMB7elGdHufV7hI5x-k264B8C8AzP1nwK4Gr_xYzYh98G-qwwAkziw2mBOeGC03oqt-278DwsduGcJBqnl5dUP5rvRbnXJiFr147x6jheSkUk7XgRjQvkwMmewqNAh1CGjsERFUHLj1uyAVubm3oVG7TVFk3k56TusFmcFvJZx4cQYP2Qg_-cyyzX7KA" alt="" width="448" height="290"></p>
+<p dir="ltr">In this strategy, we pre-emptively refresh all or part of the data of a cache as it is reaching its expiry time. How to decide what to reload is up to the application. Note that the application may still face cache misses if not all data can be reloaded, and there this technique is usually combined with “read-through caching but with the idea that reloading process should make cache misses rarer.</p>
+<p dir="ltr">This is not a very common technique because it requires setting up a process to identify expiring data and reloading it based on some smart logic. This is usually not needed by applications.</p>
+<h3>Choosing a cache implementation</h3>
+<p dir="ltr">Now that we know of the various caching strategies, let’s consider what kind of cache implementation to actually use. While technically any data structure/medium that is faster to access than its source version can be used for caching, typical cache implementations are key-value stores of some sort. Three types of cache implementations are popular.</p>
+<h4>In-memory</h4>
+<p><img class="alignnone size-medium wp-image-1441 aligncenter" src="https://5fwei.img.bh.d.sendibt3.com/im/3089376/e471eba22c3baeaf310f8f88b4ea0e41121ff5ab4806f55074ad1300d522f779.jpg?e=V9hs5wDsT6vxelUDXGuoFXEqn-Kfh-VLA3TqU26mK8NE5rYpFZ_ZAVpUw8-NTKq7KohhdobnLwHnMToGK6LKqP2gTdo_4lyVRJyEGEETlRW7gati0xf-inDe35weiyNXjGbmCSLmWIVE9YNzp3D0DZcFyGFPxU_v3fTp1ogmZjVK0bmAyjpzp9Ryt-7QOgda5Hx312bgLMz4kWyRL4mIaG0D9s_vZv4_jYfjt2Sz3Voa6uOzeDlXGoHMYA33x5W7MW6JvlVAjNPSIFs8KRggdB9TcWnqDefPc3ECgdoY9Ed5jvRKYqNS" alt="" width="481" height="361"></p>
+<p dir="ltr">This is the case where the reading application loads the data into its main memory (as a hash table or map) and uses it as the cache. This makes for the fastest possible access since the data is available literally like a program variable. It is also the simplest possible implementation since it does not introduce any new elements into the system architecture. Many libraries are available to abstract the implementation details of caching/eviction etc from user code.</p>
+<p dir="ltr">There are also several downsides to this style. The cache lives inside the application, so if the application goes down, the cache vanishes and has to be rebuilt while launching the application. The memory footprint of the application increases and the amount of data that can be cached is limited by that. This type of cache is also local to the application server. If you have multiple instances of the applications running, each of them will have its own cache (waste of memory) and these may be temporarily out of sync with each other if one instance reloads its cache while the others still haven’t.</p>
+<h4>External</h4>
+<p><img class="alignnone size-medium wp-image-1442 aligncenter" src="https://5fwei.img.bh.d.sendibt3.com/im/3089376/17fb0d494e6fba75465a4e8d1e4adc61c21370a4e1b1f8bb898be17f621028f5.jpg?e=IQRDiyLPplJ2Ug5CryP5ByKrFloqS0aIpCzxyG_tIgw6W9o9x8_2Gd7Zvf0BImx7cGoFebndSttD5RtmV577GTb4LYD3i6B0juRY0TGtJztiKMpwEE0f0V3LboJNFzXzfeoRRTYd3us1X3jtTNCOLl1JySzFulrCCuBCXGMm3XRluGW19ThSbrzFLnp7mJsO4w5ibq-sfsM0KOqc_sFXPpgCMv2bLsOVnKLCvOIi1LTM3aQisCbz8T2dYagHgyJM2uwTQ05xvWun77nYXxBpeXI6A4hcu98DQtnY_qUHw_RzwoGOXRL6EOBlYl3CRojDIvt2Qoh7pg" alt="" width="437" height="295"></p>
+<p dir="ltr">We can use a standalone system like Redis or Memcached as an external cache. It is essentially like having an external server that all nodes of an application talk to and which stores the hash table instead of storing it inside the application. This introduces a new element to manage in the architecture but creates a central cache that is durable and ensures that all instances of an application see the same cache value.</p>
+<p dir="ltr">This type of cache has the problem of failure tolerance. If the cache server crashes for any reason, the application will fail. This is solved by some implementations by having redundant caches which are kept in sync with a “leader server” but that can step in if the leader fails (Redis Sentinel uses this mechanism). This gives failure tolerance at the cost of design complications.</p>
+<h4>External Distributed</h4>
+<p><img class="alignnone size-medium wp-image-1443 aligncenter" src="https://5fwei.img.bh.d.sendibt3.com/im/3089376/5c65373306693955dc510319ca9e15e88f65f3a5c6a39cb50e156e68adbc5866.jpg?e=hBTy6h7xn52qnXxKls4xlc9kpKZiTt0lf0hL-nDRBxDXKMMYC3BGZapoGtV2oI5elcC9FnrwPYgP_d7WBxzmCkqFKzDfiNMqlpe4ibxWvPph9iANGZMBPUQCokqS2BStGyXNBDqETLCLXwzXWHBaC1Yb_63a_FjCaZgAp3vLBYbIQg2yUpi5SL2FBMusvMb_DPeFySzpqub_9aKXEN-1RMNXd8OHhiehlb36lnRytN00W46PkT5IerUW8m1OXeZfwZglFwo0qAyGkyy_551eNzqczHPPqoUYkPhFo0jsz1DG6THPL8xe2Ie1axXAcVgFbGyrBw" alt="" width="464" height="271"></p>
+<p dir="ltr">Both the in-memory cache and the external cache suffer from some scale problems. The amount of data that can be stored in either of them is limited to the memory size of a single server. As large scale systems emerge and the volume of data to be cached increases, this becomes a bottleneck.</p>
+<p dir="ltr">To overcome this, we can use an external yet distributed cache implementation e.g. Redis cluster. In this architecture, the data is distributed across multiple instances of the cache servers. More servers can be added to this “cluster” as data size grows, making this architecture horizontally scalable. Data distribution among the servers is typically managed by the cache implementation itself. The reading application can continue to treat the cluster as a single entity when reading data.</p>
+<p dir="ltr">This is a full scale distributed architecture and comes with all the associated problems like node failure, split-brain, data redistribution etc. It is also the only feasible architecture at the highest web scale.</p>
+<h3>TL;DR</h3>
+<p dir="ltr">Caching is a powerful scalability technique that can be used in many different scenarios and in many different flavours to speed up the performance of our applications.</p>
+<p dir="ltr">In the next week’s newsletter, we will look at some more nuance in the use of caches and a specific but deadly failure pattern in systems that rely on caching.</p>
+<h3>From the internet</h3>
+<ol>
+<li role="presentation"><span style="font-family: verdana, geneva, sans-serif;font-size: 18px">Robin Hanson talks about <a href="https://daijdhg.r.bh.d.sendibt3.com/tr/cl/RwsiThWkZpEquPhLSeUb4_DykjdBAApxI3XkMiSVzFoECBWZO7MlMUVwEJKDuBc3-PD6au04UkQWrygOLCv1weqlOm2xGO_woTy7A2A3Ps0H-Gwf18jlZcGNBrsg1N78uzkVWwjX-3xoT_RERz-XkgeVWEoP_aYtEaJaVDFpErtta7zXkvjvLM29vWBPHyd3dXkvJLOicWH7a962wyU0o2NqJrcr5qcb1mMRa2gd78SMOh2LN3L5JWNABYYrfE5OFpsnezQ4E27dn7i0NrR3TvKCRUHmgENqXGKB9tkltZHmJ5NWWQGFIyB3JOnyHj08ERfQyAA2Y3iHaV2ECx__BrjI8-Ahu5KnOSW-Y4kHTFKW9y-OIiDy8-BBO3hiiJ0Kcu8X9o-5dFJYtntqIZu_ryLEzRP5k6lx1b9XBfl7Tt7IkqLT87bLQG_7cu5PMGjuETan_Ys">3 types of general thinkers</a> and the perils of ideological fervour.</span></li>
+<li role="presentation"><span style="font-family: verdana, geneva, sans-serif;font-size: 18px">This post from the Slack engineering team about <a href="https://daijdhg.r.bh.d.sendibt3.com/tr/cl/DOy8mCdpDaz2qHESrX00s3HKksFPYwj_3PMRz9UGQ3Eq10D_bBHxrsZ19AY6BbuUIxud_YqkQbmsr0Q4tNAfdk30ZlA-nNFfNAIFqylDk75e3pcpg_gFBWulhiYuxP_zAK3V1wkGWvYiEJfAO8VgALR_Ayj2MfvIMLtDr7Y26YQ87YOukKn1Oa1qOq1ptQROX4lMZWVj42obMwobIRSuo__IO_SuEe2FyRs4HkET8h4irIyYDQWa6NsNlK0k88lMei7k2aWsEaLuJ27ZJuU7STkr_D3Wbu_xXCdsY3ikvRR1-v6nAFtcA-KVgJZBFO9ue-P_Mj4jJblQIuw3TmacBx4V7Q9PttUM4s2tW_cKtEp4xkFjL2oWKCIUWHBGVAY-PBypVIKey2rFujkvBo3QSNGJT75Ohm658hiyTV7lXeDWtxETTA">how they design their APIs</a> had gone absolutely viral some time ago. I believe it is worth revisiting.</span></li>
+<li role="presentation"><span style="font-family: verdana, geneva, sans-serif;font-size: 18px">Paula Paul explains why she thinks <a href="https://daijdhg.r.bh.d.sendibt3.com/tr/cl/vH_VBzQQzqslJkaBIETbohA9OItCJ2e1fLZGiAt_cL38c0qe-zfrO4fAGFarFfu6-M4ojVAGQqd3Dx5tg1D5IZNsWz6Xx7pYWltIpwLm7yCSza-OkqP0CFsygdQdUfd_oSIlAIHGxoR1ezTP3mv6bJtanKdleZJCJ-3Joear2_cOEo5P9DxV-BEda94r38XdIZkBeD3EsMw4BozolOSPDvoGh8M88vDYUAgl2xO47xW4cmYr6ZhpygC-UqCFSISpFRrBfxR-x-zHP9q0kHhXUxnQFze6yQKsdw5J3AmC0sy1q74SDGhMtMPpKiyG69zByUZGzTevSfxIEcwy3_MEcD24kXMBTTqsHVr4nceTLNaltsFKN8eDzTAOURZQQeW6QaQj11g2UGxtnv_HO-xggWtetk07fDgd51Gb73U-t2Hcu5KlM_EQn9IUiNe559iKtIDGr72sW1ouZJH62uGU9sy8ecY3">viewing architecture an activity is better than viewing an architect as a person</a>.</span></li>
+<li style="list-style-type: none">&nbsp;</li>
+</ol>
+<p dir="ltr">That’s all for this week folks. Have a great weekend.</p>
+<p dir="ltr">-Kislay</p> </td>
+ </tr>
+</tbody></table></td></tr></tbody></table><!--[if mso | IE]></td></tr></table><![endif]--></td></tr></tbody></table><table style="border-collapse: collapse; width: 100%; user-select: auto;" class="tnpc-row tnpc-row-block ui-sortable-handle" data-id="text" width="100%" cellspacing="0" cellpadding="0" border="0" align="center">
+<tbody style="user-select: auto;"><tr style="user-select: auto;"><td style="padding: 0px; user-select: auto;" class="edit-block" align="center"><!--[if mso | IE]><table role="presentation" border="0" cellpadding="0" align="center" cellspacing="0" width="600"><tr><td width="600" style="vertical-align:top;width:600px;"><![endif]--><table type="options" class="tnpc-block-content" style="width: 100% !important; max-width: 600px !important; user-select: auto;" width="100%" cellspacing="0" cellpadding="0" border="0" align="center">
+<tbody style="user-select: auto;"><tr style="user-select: auto;"><td style="text-align: center; letter-spacing: normal; padding: 0px; background-color: rgb(255, 255, 255); width: 100% !important; line-height: normal !important; user-select: auto;" width="100%" bgcolor="#ffffff" align="center"><table style="width: 100% !important; user-select: auto;" width="100%" cellspacing="0" cellpadding="0" border="0">
+ <tbody style="user-select: auto;"><tr style="user-select: auto;">
+ <td style="font-family: Verdana, Geneva, sans-serif; font-size: 18px; font-weight: normal; color: rgb(34, 34, 34); line-height: 1.5; user-select: auto;" width="100%" valign="top" align="left">
+ <p style="margin: 0px; text-align: center; user-select: auto;"><span style="font-size: 14px; user-select: auto;">If you love reading <em style="user-select: auto;">It Depends</em>, consider supporting it on <a href="https://daijdhg.r.bh.d.sendibt3.com/tr/cl/3zVtehnvuj9Ukt52o9ClSCxeACib3c007IleZupqnU7ug5YQq3eWSSIvk4aoC42dkeAaWkZEj1dpe-5-JJHvyVSIvJ07p5NnBDilechOUM7XG1knoIsCE8wdJiOFmahVW8MsyaxTU1CvyPAxwuoQpe_uq8sWBxHY9TAFPddn4QFlyyy8eXreSlM7yTw-oxGnf4p79Uq1G21zyoJroQcTHdt8dLWJfIm-uuV838Tzb-nJoR5Rou5StjJq-47WqOjclkDfB6oUQH2A1kltuTPp_Weu4N9NhKgHfDgLGlHGVlH44SDT1u5ZVD0D4InDPDl46z9iJBhY38MOpm8U3sOh5ioMX3Nfpq8tMOMU2ZBCzc0ImlbEgFJT8ouU8cdPTeyBuyRy5UzfElSlQ49KaekjoCdkd_bu" target="_blank" rel="noopener" style="user-select: auto;">Patreon</a>, <a href="https://daijdhg.r.bh.d.sendibt3.com/tr/cl/6F-qVz5j0qfmT_NwuEwQ383DmxFluQqK2N0JqlXpp6gklPWIB0_PG_XgWgJyX1OM1jxFFiGqanVBRUJu6x25jxEv0IJ01rmhmMuW25hS-Xaowc14C4YY_Aumd5aqFJ2CL8m0q9KuP3Cyo-Rlw_0ki1We58CeNhUAo9hbcyhiA6FMvPuZjdkvyG-g9eEfJVeOlQAt2oA9oIs31nFfH_shA-IThmksWrBWS5zT7E20GJ5wcsaFO-jD51L7lE3FveT_wUfhB6oSRlil9CCtVbotQ-U3c1JK-n7-ykxG1sNXTKGfT-J74-et01ugf_qZ6AdXdM7x1-WWxDrAk-aMuhdsJxLQdbiwk_lGpgwGgT2n2lZicC41zG-ZRJli2b0Y" target="_blank" rel="noopener" style="user-select: auto;">Gumroad</a>, or <a href="https://daijdhg.r.bh.d.sendibt3.com/tr/cl/c_B2sEI3pIyyk6shBuUiB7UlrghRIpna_9YR0SypxLFk3XngTtqPieYLK366cbZmvS_59wu5gtL9vc2M_K-IqaekmhSz2pli5ahKo2V05luBN6RwO_BfvTQZChbFX1z5dFBhPssQHF4l-Ftfs2PaP1Xr5gNczVtTUWN2hbLE23CcZszfp64Kuels6fF6UK9FNnhbOZNb5Uoph5zri73z0vYkX7xhGu9vJ3oS3l23NWjuHzpnu2TPxVIv2YgTnRn-LkqWvsy21EmR5RE7srTy2_facNrGnPF3PXt4OvAES1Bv65VLvCBVV3RnS-RYjajvNZa2mnTniudi4Gfj2nmfUKVJtwfpyi8uol5L5693JTtDng00RHr-ly9mK1mmLxbsdw" target="_blank" rel="noopener" style="user-select: auto;">Buymeacoffee</a></span></p> </td>
+ </tr>
+</tbody></table></td></tr></tbody></table><!--[if mso | IE]></td></tr></table><![endif]--></td></tr></tbody></table><table style="border-collapse: collapse; width: 100%; user-select: auto;" class="tnpc-row tnpc-row-block ui-sortable-handle" data-id="separator" width="100%" cellspacing="0" cellpadding="0" border="0" align="center">
+<tbody style="user-select: auto;"><tr style="user-select: auto;"><td style="padding: 0px; user-select: auto;" class="edit-block" align="center">
+<!--[if mso | IE]><table role="presentation" border="0" cellpadding="0" align="center" cellspacing="0" width="600"><tr><td width="600" style="vertical-align:top;width:600px;"><![endif]--><table type="options" class="tnpc-block-content" style="width: 100% !important; max-width: 600px !important; user-select: auto;" width="100%" cellspacing="0" cellpadding="0" border="0" align="center">
+<tbody style="user-select: auto;"><tr style="user-select: auto;"><td style="text-align: center; letter-spacing: normal; padding: 20px; background-color: rgb(255, 255, 255); width: 100% !important; line-height: normal !important; user-select: auto;" width="100%" bgcolor="#ffffff" align="center"><table style="user-select: auto;" width="100%" cellspacing="0" cellpadding="0" border="0">
+ <tbody style="user-select: auto;"><tr style="user-select: auto;">
+ <td style="border-bottom: 1px solid rgb(221, 221, 221); user-select: auto;"></td>
+ </tr>
+</tbody></table></td></tr></tbody></table><!--[if mso | IE]></td></tr></table><![endif]--></td></tr></tbody></table><table style="border-collapse: collapse; width: 100%; user-select: auto;" class="tnpc-row tnpc-row-block ui-sortable-handle" data-id="footer" width="100%" cellspacing="0" cellpadding="0" border="0" align="center">
+<tbody style="user-select: auto;"><tr style="user-select: auto;"><td style="padding: 0px; user-select: auto;" class="edit-block" align="center">
+<!--[if mso | IE]><table role="presentation" border="0" cellpadding="0" align="center" cellspacing="0" width="600"><tr><td width="600" style="vertical-align:top;width:600px;"><![endif]--><table type="options" class="tnpc-block-content" style="width: 100% !important; max-width: 600px !important; user-select: auto;" width="100%" cellspacing="0" cellpadding="0" border="0" align="center">
+<tbody style="user-select: auto;"><tr style="user-select: auto;"><td style="text-align: center; letter-spacing: normal; padding: 15px; background-color: rgb(255, 255, 255); width: 100% !important; line-height: normal !important; user-select: auto;" width="100%" bgcolor="#ffffff" align="center"><a style="font-family: Verdana, Geneva, sans-serif; font-size: 13px; font-weight: normal; color: rgb(34, 34, 34); text-decoration: none; line-height: normal; user-select: auto;" href="https://daijdhg.r.bh.d.sendibt3.com/tr/cl/ASUolzzjAgBreyMH_QOybjW87avScVCyDionjxN92wM_QEqUb_ABodidAFFlsyXxAtA7D_rkqFEpdPMkf-lefFj0VoGvig-gdmErVenZYA0rq9n_rrryIl-_YtyVo1Z0_O071knPBPt981Ag5sIXZ-sxWkPIwbkbMWJO7MBMnHvdmKC_l5LLBC6mWe3JOodaBAp-Z-0k95Pnjpd3BLMkobBmJjJAsWxaU4iKdDvqxAgpc_VKykX51PH3xkhE6yz7rEz6SEwt6agqvfKCcwkTaLDQVVybQ_VgrVGnjOZ9T9DMum9OGgB9Tnzm7GsIIOcvHkSuIdWTMB-uTFhCoTzwHWHW57eCoiM0B2khefcrLKILppWsCbNTKaPkhacwMMdhUgsiCg4HISq1yJ-Zn0qPXKGZr1WtGjuEHIgHPv5RlHNJ" target="_blank">Modify your subscription</a>
+
+<span style="font-family: Verdana, Geneva, sans-serif; font-size: 13px; font-weight: normal; color: rgb(34, 34, 34); text-decoration: none; line-height: normal; user-select: auto;">&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;</span>
+
+<a style="font-family: Verdana, Geneva, sans-serif; font-size: 13px; font-weight: normal; color: rgb(34, 34, 34); text-decoration: none; line-height: normal; user-select: auto;" href="https://daijdhg.r.bh.d.sendibt3.com/tr/cl/wB7BiwQ5OCSXCsEBMYdCazZAXk7EvE1OppYK0enNiAA0VLGOa9-zUAot-QpRf5uiZmhYQOmOHuqESTyn4vCaWc4NhDdhDLy2rC8YSija49r2QVBPhTW7BMBbgG0aiyFwJLyTavGNDU1FIMO3j-Rdw1EveHPn8YskBPVLyAFN8xz_iF3Yl7ARQjmIPFbPjV2ma-d_ptpDS7AcK9lRSC4tlIlbveJCYHAoF-qn5I62hrb5v5tCM1FFsCJwzrhL6j3-RidupXz7UEdQkhEZHuPGCJM8iqnLJ4LV5XcrljWXg_xqlGs4fITwKE98Bc_00IzQN2TRozTEc9lVD-28wrebqLDlL2dDqiq8pepFI2V4V8o4_AtQc9xBD9WjXksf0M1M-qnKruXDI6sFb5hMyyOTzeV-xn5nH7EOoA" target="_blank">View online</a></td></tr></tbody></table><!--[if mso | IE]></td></tr></table><![endif]--></td></tr></tbody></table>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- /tnp -->
+</td>
+</tr>
+</table>
+
+<img width="1" height="1" alt="" src="https://5fwei.img.bh.d.sendibt3.com/im/3089376/7436ae4fb25096b6c37e0611baad841e97745210ee60811170f586a928c69c5f.jpg?e=hukDRiku25LpRi_kEZW-7ud69YxXPEBphH4xZiyosL_EOpcFWeo3d6EHWbCr77lPd_XtU1AXJLiS0gwRkEUElt8fhuR9bPEgNOnNdP7mCjX3zxQxEmXpfXg8o7rZysuxTSah2uApVoMjeet3JwtYh1WoGQDJLwo45YEH69NLhT34cVMBGy4WIvnOXspn1IItQHQPU-sEcGzX6nRGJNzcnT22qVl83ZgQX_nmbSPPrAcADA8ryRWBLFkW_DY7jjRW1hD8zo9TNfW6kE19smnhs3u02MxOe38ziyBtfzB5FHzAhjrhymflUsyQsLaWsg"/><img width="1" height="1" src="https://daijdhg.r.bh.d.sendibt3.com/tr/op/Qp3C1jAj52zaDCg_h3sVL91mVDg6APYc4CqKrIE39ThY-s0PwdTShf1xndnaRLsI-wpKzaMNAnPdmhqlJQqU66FHenDx6mvIDAA90EcfgGxdtF_ixSy7h0ZCk3x4NqlkW6RKQ5ZJ16gGCE2LXYVThKhTgSRhvNOYgFM34yGdmsM5" alt="" /></body>
+</html>
+

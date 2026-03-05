@@ -1,0 +1,32 @@
+---
+subject: "Inside the world's biggest student hackathon [Free 80-minute documentary]"
+from: "Quincy Larson <quincy@freecodecamp.org>"
+to: ""
+date: 2026-01-16 10:44:55
+labels: ["CATEGORY_PERSONAL", "IMPORTANT", "INBOX", "Quincy"]
+label_ids: ["CATEGORY_PERSONAL", "IMPORTANT", "INBOX", "Label_7697778124671848699"]
+---
+Here are this week's five freeCodeCamp resources that are worth your time:
+
+1. I spent three days at the San Francisco Palace of Fine Arts recording a documentary about the world's largest collegiate hackathon. More than 3,000 student developers participated in this year's UC Berkeley Cal Hacks hackathon. Over the course of 36 hours, they built a broad array of projects, then demo'd them to judges from industry. I now present to you the finished documentary. I hope you find it both enjoyable and inspiring. (80-minute documentary): https://www.freecodecamp.org/news/inside-cal-hacks-2025-36-hours-at-the-worlds-largest-collegiate-hackathon/
+
+2. freeCodeCamp also published a new course on building your own custom Kubernetes operators and controllers from scratch. You'll learn everything from the internal architecture of Informers and Caches to advanced concepts like Finalizers and Idempotency. If you're interested in DevOps, this is the course for you. (6 hour YouTube course): https://www.freecodecamp.org/news/build-your-own-kubernetes-operators-with-go-and-kubebuilder/
+
+3. On this week's podcast, I interview a corporate lawyer who learned programming at age 37 then ultimately got a job as a software engineer at Google. He talks about his journey and how he leveraged freeCodeCamp's coursework. He also talks about how the coding part of the job is getting easier with LLM tools, which makes other aspects like critical thinking all the more important. (1 hour watch or listen in your favorite podcast app): https://www.freecodecamp.org/news/first-developer-job-at-age-38-with-lawyer-turned-software-engineer-zubin-pratap-podcast-203/
+
+4. Learn how to select the best GPU for economically training your models and running inference workloads. This no-nonsense guide will help you understand why certain specs matter more than others. It will also help you navigate around common pitfalls when buying or renting GPUs. (35 minute read): https://www.freecodecamp.org/news/how-to-choose-the-best-gpu-for-your-ai-workloads/
+
+5. Learn how to benchmark embedding models using your own custom data. This course will walk you through leveraging Vision Language Models for precise text extraction. You'll also learn how to use LLMs to generate synthetic evaluation data. Finally, you'll get exposure to the rigorous statistical tests that can help you find the best models for whatever hardware you have on hand. (4 hour YouTube course): https://www.freecodecamp.org/news/how-to-benchmark-embedding-models-on-your-own-data/
+
+I hope your 2026 is off to a strong start. The freeCodeCamp community has sure hit the ground running. We've got a ton more open source coursework in the pipes. If you dig the documentary and want to support more work like this, consider joining the 10,219 kind folks who support our charity each month: https://www.freecodecamp.org/donate
+
+Quote of the Week: 
+“When LLMs can do a lot of the autocomplete and the code generation for you, it comes down to your design work, your judgment, your taste, your analysis, your code review. You're going to be managing an LLM for at least 10% of your work. And that comes down to communication. What is a spec? What is a good prompt? It's communication. It is helping the LLM understand your goals.” — lawyer-turned-software engineer Zubin Pratap on this week's freeCodeCamp podcast
+
+Until next week, happy coding.
+
+-- Quincy Larson
+
+Teacher and founder of freeCodeCamp.org
+
+If these aren't worth your time, you can turn them off: https://www.freecodecamp.org/ue/eZV2T3gHC7IGcwcpYPG64

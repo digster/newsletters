@@ -1,0 +1,14 @@
+---
+subject: "The Tech Labs initiative"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2025-12-13 06:00:53
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+...the National Science Foundation’s Technology, Innovation and Partnerships directorate at long last announced its
+[Tech Labs initiative], which is intended to provide $10-$50 million a year to independent research teams (and yes, that is a per team dollar amount, not the initiative’s entire budget).The intent is to provide “entrepreneurial teams of proven scientists the freedom and flexibility to pursue breakthrough science at breakneck speed, without needing to frequently stop and apply for additional grant funding with each new idea or development.”
+The idea has many precursors, including all of the independent research labs and organizations going back several decades, the recent burst of philanthropy for new institutes and organizations, the idea of focused research organizations (here’s
+[a good piece from today]), Caleb Watney’s[excellent piece]proposing X-Labs, and Jeffrey Tsao’s proposal for[Bell Labs X].But this is the first time the federal government has gotten into the business of actively pushing for institutional diversity and for scientific funding at the team level.
+Huge, if it works.
+Here is [more from Stuart Buck](http://marginalrevolution.com?action=user_content_redirect&uuid=ad78e9692ce9e9c04b17794b576175396b806d1ab653cc8afe049430995952be&blog_id=42693868&post_id=92044&user_id=262258391&subs_id=225460721&signature=c27f289c32778409ec9078b9b25e547d&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly9nb29kc2NpZW5jZS5zdWJzdGFjay5jb20vcC9pbm5vdmF0aW9ucy1pbi1zY2llbnRpZmljLWluc3RpdHV0aW9ucz91dG1fc291cmNlPXBvc3QtZW1haWwtdGl0bGUmcHVibGljYXRpb25faWQ9MTAxMDkxNSZwb3N0X2lkPTE4MTQ2NDIwNSZ1dG1fY2FtcGFpZ249ZW1haWwtcG9zdC10aXRsZSZpc0ZyZWVtYWlsPXRydWUmcj0zbzkmdHJpZWRSZWRpcmVjdD10cnVlJnV0bV9tZWRpdW09ZW1haWw&email_id=b2e5eaa5eec0181d10454c0e8089fbfc). Here is [Caleb Watney in the WSJ](http://marginalrevolution.com?action=user_content_redirect&uuid=064dd228a70c6516676f67dfda8c928c5324430140f6829179ef3d89f0a16931&blog_id=42693868&post_id=92044&user_id=262258391&subs_id=225460721&signature=f061280a160d0f9db71899d4ff18673b&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly93d3cud3NqLmNvbS9vcGluaW9uL3NjaWVuY2UtZnVuZGluZy1nb2VzLWJleW9uZC10aGUtdW5pdmVyc2l0aWVzLWQ3Mzk1ZGEzP3N0PXZodGJYdCZyZWZsaW5rPWRlc2t0b3B3ZWJzaGFyZV9wZXJtYWxpbms&email_id=b2e5eaa5eec0181d10454c0e8089fbfc).

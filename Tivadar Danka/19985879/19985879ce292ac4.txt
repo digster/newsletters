@@ -1,0 +1,59 @@
+View this post on the web at https://thepalindrome.org/p/graphs-and-boards
+
+Hey! It’s Tivadar from The Palindrome.
+Today’s issue is sponsored by Together AI [ https://substack.com/redirect/7f3f9f5f-60ee-42e9-8ed3-3efdec29aeb7?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ], a GPU cloud and model platform provider. They are hosting a discussion between Dylan Patel (SemiAnalysis) and Ian Buck (NVIDIA) for an insider look at NVIDIA Blackwell, the latest microarchitecture behind the GPUs that power our neural networks.
+The deep dive will cover architecture, optimizations, implementation, and more, along with an opportunity to get your questions answered.
+Join us on Wednesday, October 1 at 9 AM PDT! [ https://substack.com/redirect/1be52a2a-c6d9-40e9-8ff3-fa94a462f4d9?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]
+Hello there!
+After learning the basics of graphs, I think it is time to show you examples of how we can translate real-life problems to the graph theory domain.
+This will be the last of a series of posts introducing the basic concepts of graph theory before we dive into topics such as traversals and finding cycles, among others.
+Here’s a summary of what we have covered in the previous editions:
+Introduction to the concepts of nodes, edges, and connectivity [ https://substack.com/redirect/7fb6cbc7-0db7-42c5-8339-b76356738db3?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ].
+Defining what neighbors, degrees, and colorings [ https://substack.com/redirect/7fb6cbc7-0db7-42c5-8339-b76356738db3?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ] are in graphs.
+How to represent graphs [ https://substack.com/redirect/ae98cd0f-2546-44cd-858c-17702e5c369c?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ] in a computer program.
+Today, we will learn about practical examples of how to use graphs in real life. For that, we are going to see examples of “games” that are played on boards. They might seem unrelated to graphs, but the truth is that they are more closely related than you might think.
+At the end of the post, you will find some algorithmic challenges so you can try and apply some of the topics that I will explain today. Feel free to skip to that part if you think you already have the necessary skills to solve them.
+Let’s begin!
+📌 The Palindrome breaks down advanced math and machine learning concepts with visuals that make everything click.
+Join the premium tier [ https://substack.com/redirect/0e6f612d-6a60-4895-8b8a-64e322c7a54b?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ] to get access to the upcoming live courses [ https://substack.com/redirect/326bdbda-fcd8-4942-9c5f-66dc77a1d57c?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ] on Neural Networks from Scratch and Mathematics of Machine Learning.
+An Initial Problem
+Let’s dive straight into the matter. Take a look at the following problem and think about how you would approach it:
+By simple inspection, we can notice that there are three “sets“ of floor tiles that can be identified as “rooms“. These are all the rooms highlighted and numbered:
+Intuitively, we identify these “connected“ regions and we sort them out as “rooms” because it just makes sense in our heads.
+But what if this were the input to a program? How could we design an algorithm that a computer will execute to find the number of “rooms” in any map of a house that uses this representation?
+Well, unfortunately, before thinking about designing algorithms, we have to think about modeling this problem in terms that a computer can understand. And one possibility, as you might have suspected already, is doing so by using graphs.
+Representing Boards as Graphs
+Let’s talk about a classical way of representing boards using graphs. Take a look at the following problem and try to think of a solution.
+This time, go a bit further and try to think of a general solution, instead of just solving this particular instance. It’s ok if you can’t, I will show you how to do it soon.
+Once again, our brains might identify that there are only two paths between the highlighted squares, and we can easily spot which one is the shortest:
+The path shown on the left takes 9 steps while the one on the right takes 11 steps.
+But who defined what a path is in this problem? Who defined which tiles we can move to when standing on a specific tile?
+Our brains (or at least mine) intuitively assumed that the possible moves from a given position were the following:
+So, as long as we are not trying to go to a “wall” tile, we can move to the left, right, up, or down.
+Let’s take this set of movements and the “floor“ tiles and see how they relate to graphs. Assuming that the start and end tiles are also floor tiles, we can number every floor tile arbitrarily like this:
+We have 14 “floor” tiles, which can be represented as 14 nodes of a graph. So, what about the edges?
+Let’s add an edge between two pairs of nodes if there exists a valid movement between their corresponding tiles on the map. For example, we can add edges between nodes 0 and 1, and also between nodes 12 and 13.
+That being said, our problem can be reduced to finding the path with the minimum length between two nodes in an undirected graph.
+This is the graph that results from taking every floor tile as a node and adding edges according to the valid moves that we defined:
+The problem of finding a path with the minimum length between two nodes is a standard problem in the graph theory domain, and we will learn how to solve it in future posts of this series.
+For the moment, let’s go back to our initial problem and try to model it using graphs, applying what we learned from this example.
+Counting the Rooms
+Let’s recall the problem we saw at the beginning of this post:
+Let’s number every floor tile, and assume that we have the same possible moves that we described above. That is, from a given tile we can move to the tiles at its right, left, top, and bottom as long as they are not “wall“ tiles.
+A possible numbering could be the following:
+Translating this map to a graph the same way we did before, we get the following:
+And if we were to solve the problem of counting the number of rooms in a graph, we could rephrase that as counting the number of its connected components [ https://substack.com/redirect/5a7f7eb5-a557-4d48-89e6-fd7024b02bac?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ].
+See all the “rooms“ taken to the domain of connected components below:
+As you also might suspect, the problem of finding the connected components in an undirected graph is also a standard problem that can be solved by using various graph algorithms.
+We will be covering those algorithms and more in future editions of Algorithmically Speaking.
+In the meantime, it’s time to try what you’ve learned!
+Conclusions
+I hope I was able to keep igniting your passion for graph theory by showing you some basic guidelines on how to model board problems using graphs.
+This approach is used in numerous real-life applications (at the top of my mind I can think of numerous examples related to the gaming industry).
+Also, I recently stumbled upon this video [ https://substack.com/redirect/271a58e0-e612-4786-91a5-33cf437a9657?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ] where I found out about a competition that has been going on for more than 50 years and has a lot to do with boards, mazes, and, of course, graphs.
+Some takeaways:
+Board problems can usually be modeled as graphs by taking some set of tiles as the nodes and the possible moves between the tiles as the edges.
+Usually, board games involve tasks such as counting regions or finding paths, which are usually standard problems of the graph theory domain.
+The chessboard is a bipartite graph [ https://substack.com/redirect/f74cd647-4059-4a46-8260-fc0ed4799f3e?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]. Do you see it now?
+
+Unsubscribe https://substack.com/redirect/2/eyJlIjoiaHR0cHM6Ly90aGVwYWxpbmRyb21lLm9yZy9hY3Rpb24vZGlzYWJsZV9lbWFpbD90b2tlbj1leUoxYzJWeVgybGtJam94TkRVMk16TXhPU3dpY0c5emRGOXBaQ0k2TVRjME5UTTBNems1TENKcFlYUWlPakUzTlRnNE9ERTRPREFzSW1WNGNDSTZNVGM1TURReE56ZzRNQ3dpYVhOeklqb2ljSFZpTFRFeE56WTFNREVpTENKemRXSWlPaUprYVhOaFlteGxYMlZ0WVdsc0luMC5xb05rY0RDVWxZZFIzalBHS1JRWjRUaW02TGlWaENKTXJjUE1CcnZRNDNZIiwicCI6MTc0NTM0Mzk5LCJzIjoxMTc2NTAxLCJmIjp0cnVlLCJ1IjoxNDU2MzMxOSwiaWF0IjoxNzU4ODgxODgwLCJleHAiOjIwNzQ0NTc4ODAsImlzcyI6InB1Yi0wIiwic3ViIjoibGluay1yZWRpcmVjdCJ9.D-yvlvRJygAC5vEo_o26pjz_w3vttpVCnJA1RMA-6Pk?

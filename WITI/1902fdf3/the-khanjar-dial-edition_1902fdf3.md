@@ -1,0 +1,10 @@
+---
+subject: "The Khanjar Dial Edition"
+from: "\"Why is this interesting?\" <whyisthisinteresting@substack.com>"
+to: ""
+date: 2024-06-19 09:39:50
+labels: ["CATEGORY_PERSONAL", "INBOX", "UNREAD", "WITI"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "UNREAD", "Label_5752899537867939131"]
+---
+Colin here. Several years ago, I was sat at a dinner party next to an interesting Hong Kong business tycoon. We started talking about watches—I was in my early phases of understanding, and started to buy a few vintage pieces. He sternly told me to stop, it wasn’t worth it. Do not pass go. A world of pain and ruin awaits. It was said sort-of playfully, but also with serious caution. This was a man who had been to the true depth of the rabbit hole, and parted with loads of cash to feed his addiction. He was warning me off what could be a lifetime finance suck.
+Cut to today. Thankfully, I haven’t gotten too far out of control, opting to wear and pay attention to stuff I just find interesting, be it a beat up old Timex Ironman with a backstory, a compelling Tudor dive watch, or some Seikos like the [Willard](https://substack.com/redirect/79b93345-ee07-4f70-9c3b-c9c9023d9259?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o). But one higher-end curiosity has caught my eye: Omani Khanjar dial watches. The Khanjar is a curved blade, but also a potent symbol in Omani culture—these watches have a small logo of the blades on them. These “Khanjar dial” watches, ranging from Audemars Piguets, to Rolex Submariners, to opulent gold Datejusts, and others, were given by the late Sultan Qaboos to friends of Oman. Some were given to soldiers, some to pilots who flew the Sultan, and some for a “good on ya” type recognition. For me, it’s the perfect Venn Diagram between royalty, geopolitics and horology. A wormhole quickly emerged.

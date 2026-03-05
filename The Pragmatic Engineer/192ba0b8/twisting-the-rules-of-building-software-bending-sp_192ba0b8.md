@@ -1,0 +1,85 @@
+---
+subject: "Twisting the rules of building software: Bending Spoons (the team behind Evernote)"
+from: "The Pragmatic Engineer <pragmaticengineer@substack.com>"
+to: ""
+date: 2024-10-23 15:41:58
+labels: ["CATEGORY_PERSONAL", "INBOX", "The Pragmatic Engineer", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_6413324878686416177", "UNREAD"]
+---
+|
+Listen now on [Apple](https://substack.com/redirect/bc7445cd-05d4-49fa-a668-dbed4403dc3e?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o), [Spotify](https://substack.com/redirect/2a94bf0f-7371-45f5-95e1-0c172d72bde4?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o), and [YouTube](https://substack.com/redirect/930f3792-a1ec-470f-8092-f2b1629b29d6?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o).
+Brought to you by:
+• [The Enterprise Ready Conference](https://substack.com/redirect/340651f8-365a-4223-8435-071e57daa3c9?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) on October 30th — For B2B leaders building enterprise SaaS.
+• [DX](https://substack.com/redirect/1a25aeae-1d82-4d88-a68a-7580cee9dabc?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) — DX is an engineering intelligence platform designed by leading researchers.
+• [ByteByteGo](https://substack.com/redirect/168c5572-92d3-4950-86b9-6124e35c1a01?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) — Ace your next system design interview.
+—
+You may not be familiar with Bending Spoons, but I guarantee you’ve encountered some of their well-known products, like Evernote and Meetup. In today’s episode of The Pragmatic Engineer, we sit down with three key figures from the Italy-based startup: cofounder and CEO Luca Ferrari, CTO Francesco Mancone, and Evernote product lead Federico Simionato. Bending Spoons has been profitable from day one, and there's plenty we can learn from their unique culture, organizational structure, engineering processes, and hiring practices. In today’s conversation, we discuss:
+The controversial acquisitions approach of Bending Spoons
+How Bending Spoons spent more than $1 billion in buying tech companies
+How the Evernote acquisition happened
+How Bending Spoons operates and how it organizes product and platform teams
+Why engineering processes are different across different products
+How ‘radical simplicity’ is baked into everything from engineering processes to pay structure.
+And much more!
+1. Even inside one company, you choose engineering processes based on the maturity of the product. The CTO of Bending Spoons found it completely normal that each team decides on their approach to testing: e.g. more mature products have a lot more automated tests like unit, integration, UI tests in-place. New products or less mature ones will still have less. Same goes for releasing and experiemantion – e.g. more mature products will have more stages of releases and have experimentation, but products that are still just being built will not necessarily invest in this.
+2. The concept of radical simplicity: this could be applicable far beyond Bending Spoons.
+Bending Spoons believes, as a principle, that they should seek out the most radically simple solution and approach and. When adding complexity, the person or team approaching should bring proof why this complexity is beneficial. Those who retain the simpler status should not have to defend this, unless there is evidence and data that adding more complexity truly helps. (TODO: email Luca if there’s anything else to add here?)
+3. You don’t need to copy popular approaches in order to become successful as a product or engineering team. Bending spoons seems to have come up with how it makes sense for them to operate, and did not “copy” common approaches from other companies. A few examples:
+Their most popular language is Python. Pretty rate for most companies, but not for them! At the same time, teams can choose what they use, and e.g. a team uses Rust
+They do not have career ladders like most companies would do – at least for now. Even though they do have levels. No bonuses either.
+The concept of radical simplicity.
+In some ways, they didn’t follow any approach because they didn’t really get much advice in the early years (struggled to even attract VCs!) So they figured out on their own.
+If a small company in Italy with 5 devs could do this, and keep figuring out what works for them, as they grew: what is stopping you and your team from doing so?
+([2:09](https://substack.com/redirect/4cdd484c-abbf-40ca-8b08-6775704017a8?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) Welcome, Luca, Francesco, and Federico from Bending Spoons
+([03:15](https://substack.com/redirect/a9cce7c1-9416-4819-b2c2-e1d14cdcc2a2?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) An overview of the well-known apps and products owned by Bending Spoons
+([06:38](https://substack.com/redirect/d46be73b-1914-4549-91b1-793bfa0d1d1e?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) The elephant in the room: how Bending Spoons really acquires companies
+([09:46](https://substack.com/redirect/a41e7058-91c5-4756-8729-210f24058275?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) Layoffs: Bending Spoons’ philosophy on this
+([14:10](https://substack.com/redirect/8f5f12d0-c615-4cd7-9f97-8127636970b5?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) Controversial principles
+([17:16](https://substack.com/redirect/7e98200d-a3a0-4236-bc1a-b19f46cc86a1?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) Revenue, team size, and products
+([19:35](https://substack.com/redirect/d1956223-999c-4a2d-a7ba-19eda73af548?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) How Bending Spoons runs AI products and allocates GPUs
+([23:05](https://substack.com/redirect/d93e9a36-1a3c-4065-baa0-270d6fc1eb7f?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) History of the company
+([27:04](https://substack.com/redirect/54620fc0-3b9d-4113-88fc-2a111f62a2cc?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) The Evernote acquisition
+([29:50](https://substack.com/redirect/e4f65c51-9c0f-4206-aff6-710cb2a64826?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) Modernizing Evernote’s infrastructure
+([32:44](https://substack.com/redirect/90ed5556-cd85-4be6-8b6f-776df55d80a0?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) “Radical simplicity” and why they try for zero on calls
+([36:13](https://substack.com/redirect/73ca7dae-fc27-4f86-a7ff-f96e06781959?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) More on changes made to the Evernote systems
+([41:13](https://substack.com/redirect/e69285ee-9cef-41e1-90dc-8b2e35033643?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) How Bending Spoons prioritizes and ships fast
+([49:40](https://substack.com/redirect/810c5101-b11f-4a1c-b4f4-e9cd2a3572bd?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) What’s new and what’s coming for Bending Spoons
+([51:08](https://substack.com/redirect/a1614cc2-e281-4164-9539-cc66375a874d?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) Organizational structure at the company
+([54:07](https://substack.com/redirect/ffe19f68-3ee8-4b65-8299-bfa9c88b8495?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) Engineering practices
+([57:03](https://substack.com/redirect/e6274157-593a-4d5f-bda5-7a8a812ed254?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) Testing approaches
+([58:53](https://substack.com/redirect/872bbe5f-ec62-4ab5-8196-8d2e03fe88dc?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) Platform teams
+([1:01:52](https://substack.com/redirect/31a15177-8a2b-48d8-a40b-7c06516f8ab7?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) Bending Spoons tech stack and popular frameworks
+([1:05:55](https://substack.com/redirect/83f57265-b2be-4646-99c3-87b004c20442?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) Why Bending Spoons hires new grads and less experienced engineers
+([1:08:09](https://substack.com/redirect/93ea874f-84ca-4036-aae1-41782d4ce1d7?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) The structure of careers and titles at Bending Spoons
+([1:09:50](https://substack.com/redirect/dfeec27f-bdab-4844-b6c1-da54cd9b4ee9?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) Traits they look for when hiring
+([1:12:50](https://substack.com/redirect/2f76f519-f7de-401a-974c-a04a668504ca?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) Why there aren’t many companies doing what Bending Spoons does
+The Pragmatic Engineer deepdives relevant for this episode:
+Where to find Luca Ferrari:
+• X: [https://x.com/luke10ferrari](https://substack.com/redirect/9cd1cc73-21e9-4f26-9e6e-50c139cfdada?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+• LinkedIn: [https://www.linkedin.com/in/luca-ferrari-12418318](https://substack.com/redirect/9b7ec899-3edd-44d0-b817-035af64034f0?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+Where to find Francesco Mancone:
+• LinkedIn: [https://www.linkedin.com/in/francesco-mancone](https://substack.com/redirect/721e5daa-fc94-4043-9e96-6225cae0970b?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+Where to find Federico Simionato:
+• LinkedIn: [https://www.linkedin.com/in/federicosimionato](https://substack.com/redirect/ef77a350-6fb7-40d0-86ba-25afc59fc33b?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+Mentions during the episode:
+• Evernote: [https://evernote.com/](https://substack.com/redirect/a1acd535-41f9-4356-bcc2-320d47dc3a11?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+• Meetup: [https://www.meetup.com/](https://substack.com/redirect/2a260eac-47f3-401f-9c78-f24d146a8791?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+• Bending Spoons: [https://bendingspoons.com/](https://substack.com/redirect/a1acd535-41f9-4356-bcc2-320d47dc3a11?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+• Bending Spoons Acquires Mosaic Group Digital Assets From IAC: [https://www.businesswire.com/news/home/20240110239723/en/Bending-Spoons-Acquires-Mosaic-Group-Digital-Assets-From-IAC](https://substack.com/redirect/45c27f49-174d-44b1-aa5c-a3d80ca84d43?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+• StreamYard: [https://www.businesswire.com/news/home/20240110239723/en/Bending-Spoons-Acquires-Mosaic-Group-Digital-Assets-From-IAC](https://substack.com/redirect/45c27f49-174d-44b1-aa5c-a3d80ca84d43?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+• Issuu: [https://issuu.com/](https://substack.com/redirect/9faa131a-791c-48b6-a9d7-88140c0de4df?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+• WeTransfer: [https://wetransfer.com/](https://substack.com/redirect/8c87c574-9a34-4fb3-abba-ecc5916be267?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+• Remini: [https://remini.ai/](https://substack.com/redirect/55769143-782a-40fe-a1c8-4530dc4d9b8a?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+• Netflix’s Famous 'Keeper Test': [https://www.businessinsider.com/netflix-new-culture-memo-keeper-test-changes-2024-6](https://substack.com/redirect/02138fa8-cfa2-414e-a955-cd82a8c89e08?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+• Bending Spoons Values: [https://bendingspoons.com/values](https://substack.com/redirect/92af53e7-2948-4e74-bc42-14b14df31da7?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+• Splice: [https://splice.com/](https://substack.com/redirect/040174d0-0a0f-4003-a897-95aba70fbc4c?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+• GoPro: [https://gopro.com/](https://substack.com/redirect/401e0a6d-aeee-4260-8ff5-8a3ecce7e97a?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+• Thirty more exciting improvements in Evernote: [https://evernote.com/blog/30-improvements-april-june-2024](https://substack.com/redirect/5cf73430-e6ed-426f-a21c-65ce167c1b70?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+• Rust: [https://www.rust-lang.org/](https://substack.com/redirect/cbbf3249-3f65-4a39-978b-9b0b92ea1b8c?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+• Jobs at Bending Spoons: https://jobs.bendingspoons.com/
+• Evernote on YouTube: [https://www.youtube.com/@evernote](https://substack.com/redirect/8d62ce77-b8dd-4b83-8206-8b1e65870f59?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+Production and marketing by [https://penname.co/](https://substack.com/redirect/7e4abc16-22ee-4225-a580-8311e91eab70?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o). For inquiries about sponsoring the podcast, email podcast@pragmaticengineer.com.
+You’re on the free list for [The Pragmatic Engineer](https://substack.com/redirect/2/eyJlIjoiaHR0cHM6Ly9uZXdzbGV0dGVyLnByYWdtYXRpY2VuZ2luZWVyLmNvbT91dG1fY2FtcGFpZ249ZW1haWwtaG9tZSZyPThvNTRuIiwicCI6MTUwNTQ1NTYzLCJzIjo0NTg3MDksImYiOnRydWUsInUiOjE0NTYzMzE5LCJpYXQiOjE3Mjk2OTgxNjksImV4cCI6MTczMjI5MDE2OSwiaXNzIjoicHViLTAiLCJzdWIiOiJsaW5rLXJlZGlyZWN0In0.Dcy6Y39lT9MuSqSfwxtnxbJ9Jk2239R1-kMiAZuWKo4?). For the full experience, [become a paying subscriber](https://substack.com/redirect/2/eyJlIjoiaHR0cHM6Ly9uZXdzbGV0dGVyLnByYWdtYXRpY2VuZ2luZWVyLmNvbS9zdWJzY3JpYmU_dXRtX3NvdXJjZT1wb3N0JnV0bV9jYW1wYWlnbj1lbWFpbC1jaGVja291dCZuZXh0PWh0dHBzJTNBJTJGJTJGbmV3c2xldHRlci5wcmFnbWF0aWNlbmdpbmVlci5jb20lMkZwJTJGdHdpc3RpbmctdGhlLXJ1bGVzLW9mLWJ1aWxkaW5nLXNvZnR3YXJlJnI9OG81NG4mdG9rZW49ZXlKMWMyVnlYMmxrSWpveE5EVTJNek14T1N3aWFXRjBJam94TnpJNU5qazRNVFk1TENKbGVIQWlPakUzTXpJeU9UQXhOamtzSW1semN5STZJbkIxWWkwME5UZzNNRGtpTENKemRXSWlPaUpqYUdWamEyOTFkQ0o5Lk5yLVVZaGZSbWl4NEhON2s5TENGSElNVkVZYVJTbEhycUhyLU5QR2Z4OGsiLCJwIjoxNTA1NDU1NjMsInMiOjQ1ODcwOSwiZiI6dHJ1ZSwidSI6MTQ1NjMzMTksImlhdCI6MTcyOTY5ODE2OSwiZXhwIjoxNzMyMjkwMTY5LCJpc3MiOiJwdWItMCIsInN1YiI6ImxpbmstcmVkaXJlY3QifQ.Qpmez7zZuZqu9CJ2DMgEEsRODNJDJ1ONkqCC4jYpAps?). Many readers expense this newsletter within their company’s training/learning/development budget.
+This post is public, so feel free to share and forward it.
+If you enjoyed this post, you might enjoy my book, [The Software Engineer's Guidebook](https://substack.com/redirect/fff62aea-1daf-4daf-9151-61fdbb396936?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o). Here is what Tanya Reilly, senior principal engineer and author of The Staff Engineer's Path said about it:
+"From performance reviews to P95 latency, from team dynamics to testing, Gergely demystifies all aspects of a software career. This book is well named: it really does feel like the missing guidebook for the whole industry."

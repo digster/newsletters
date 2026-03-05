@@ -1,0 +1,10 @@
+---
+subject: "The Saddle Stitch Edition"
+from: "\"Why is this interesting?\" <whyisthisinteresting@substack.com>"
+to: ""
+date: 2024-03-05 11:07:14
+labels: ["CATEGORY_PERSONAL", "INBOX", "UNREAD", "WITI"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "UNREAD", "Label_5752899537867939131"]
+---
+Colin here. I recently binged the Hermès edition of The entire pod is a pleasant counter to the quick bit, bouillon cube hits of culture we get from short-form video. Complex topics are allowed to breathe, and the companies they feature certainly warrant the investigation. The Hermès edition is chock full of little details: the term savoir-faire is mentioned in their annual report 133 times; it takes two years to train as an entry level artisan for the brand. But they rightfully seized on a perfect little detail that underpins all of the brand's leatherwork: the saddle stitch. Why is this interesting? The saddle stitch is somewhat technical. When working with thick leather, like on a saddle, two needles – coated in beeswax – loop around each other to create a strong elegant and accurate seam. If one stitch breaks, the damage is self-contained and doesn't spill over to another stitch. It is massively overkill, and that is the point. The craft and process is antithetical to mass-produced goods and is a good representation of what actual luxury is: based on effort, rare, and made to last. According to A memorable tidbit from the pod comes from Hermès’ Executive Chairman Axel Dumas. The company still uses the saddle stitch because it offers quality that cannot yet be replicated by a machine. But, contrary to what you would think, they aren’t overly precious about it, suggesting if a better technological advance comes along, so be it. Dumas asserts: “We are a business, not a museum." (CJN) — Thanks for reading, Noah (NRB) & Colin (CJN) —
+Invite your friends and earn rewardsIf you enjoy Why is this interesting?, share it with your friends and earn rewards when they subscribe. |

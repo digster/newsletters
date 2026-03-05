@@ -1,0 +1,32 @@
+---
+subject: "If you really want a job at Google here's how to get one - straight from someone who just did"
+from: "Quincy Larson <quincy@freecodecamp.org>"
+to: ""
+date: 2019-11-14 22:10:52
+labels: ["CATEGORY_PERSONAL", "INBOX", "Quincy"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_7697778124671848699"]
+---
+Here are this week's five links that are worth your time:
+
+1. David Tian spent the past 10 years working on Wall Street. He's a non-native English speaker in his 40s. And yet he was able to get a job as a software engineer at Google and is now working on their new Pixel phones. In David's detailed guide he explains exactly how he got the job. Even if you're not aiming for Google, there are a ton of tips here that will help you gear up for your own job search. (50 minute read): https://www.freecodecamp.org/news/career-switchers-guide-to-your-dream-tech-job/
+
+2. How to use JSON Web Tokens to make sure your app's user data stays private. This is a free course on modern authentication methods, taught by an experienced software engineer. (2 hour watch): https://www.freecodecamp.org/news/what-are-json-web-tokens-jwt-auth-tutorial/
+
+3. How to conquer your fear of public speaking once and for all. Megan shares 10 tips for getting over her pre-conference talk jitters. (6 minute read): https://www.freecodecamp.org/news/fear-of-public-speaking/
+
+4. Mohammad did a full statistical analysis of the big 3 front end libraries: React, Angular, and Vue. He explores how marketable each skill is on the job market, and how fast each project is improving. (4 minute read): https://www.freecodecamp.org/news/angular-react-vue/
+
+5. A complete guide to end-to-end API testing with Docker. You'll build a Node/Express API and test it with Chai and Mocha. (19 minute read): https://www.freecodecamp.org/news/end-to-end-api-testing-with-docker/
+
+
+Quote of the Week: "The best way to predict the future is to invent it." - Alan Kay
+
+
+Happy coding.
+
+- Quincy Larson
+
+Teacher at freeCodeCamp.org
+
+
+If these emails aren't worth your time, you can turn them off: https://www.freecodecamp.org/ue/eZV2T3gHC7IGcwcpYPG64

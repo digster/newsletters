@@ -1,0 +1,10 @@
+---
+subject: "The Light and Easy Recs Edition"
+from: "\"Why is this interesting?\" <whyisthisinteresting@substack.com>"
+to: ""
+date: 2022-06-14 10:00:15
+labels: ["CATEGORY_PERSONAL", "INBOX", "UNREAD", "WITI"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "UNREAD", "Label_5752899537867939131"]
+---
+Noah here. On some summer days, it’s nice to keep things light. Today’s edition is just a few things we have been enjoying lately. Inspiral While we’re on the topic of apps, I somehow came across the super-simple US Priority Mail Prepaid Boxes For $9.45 each (minimum five boxes) you can get yourself Apple News+ There are some parts of Apple News that still deeply bother me (mainly the fact you can’t share links to actual news websites, only deep links into the app itself). However, I recently realized that between the different subscriptions I had to various Apple and iCloud products, I could upgrade my What I discovered, and have been really enjoying, is the audio tab. It’s full of articles from various high-quality publications read by real people. It’s got speed options (I prefer 1.5x) and makes for a nice break from podcasts and a great way to consume some of my favorite pubs in a new way. (NRB) Frederic Malle scents The Anglo Italian Friend and WITI contributor Robert Spangle hipped us to the excellent London-based brand Josephine No 2. Wine Glass Friend of WITI and menswear/style icon Michael Williams hipped us to these beautifully — WITI x McKinsey: An ongoing partnership where we highlight interesting McKinsey research, writing, and data. The value of the digital age. A new episode of the McKinsey Global Institute’s Forward Thinking podcast discusses how to measure the value of the digital age. Professor Avinash Collins, who talks through his work on creating a data dashboard that could help. — Thanks for reading, Noah (NRB) & Colin (CJN) & Juno (JDM) —
+You’re a free subscriber to |

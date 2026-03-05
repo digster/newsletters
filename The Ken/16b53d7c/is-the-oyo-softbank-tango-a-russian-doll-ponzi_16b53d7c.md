@@ -1,0 +1,13 @@
+---
+subject: "Is the OYO-SoftBank tango a Russian Doll Ponzi?"
+from: "The Ken <info@the-ken.com>"
+to: ""
+date: 2019-06-14 02:36:15
+labels: ["CATEGORY_PERSONAL", "INBOX", "The Ken"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_8244464457792971031"]
+---
+Sometime in 2015, SoftBank led a $100 million round into OYO, then merely an aggregated marketplace for budget hotel rooms across India. And if reports are to be believed, OYO is apparently raising a massive round led by SoftBank which will value it at—hold your breath—$12.5 billion. Making it India’s most valuable startup, by a long way.
+This means OYO’s valuation would've jumped over 100X in the last 4 years, a remarkable feat. But one made even more remarkable by the fact that all of this growth has been led by a single investor, SoftBank. This is an even more remarkable event, given that few venture investors lead successive funding rounds in a startup. The maximum is usually two. SoftBank has already led four, including a $1 billion investment just last year which valued OYO at $5 billion. If it leads OYO’s new round, that would be SoftBank’s fifth as lead investor.
+Why? As it turns out, posits Sumanth in today’s withering critique, despite having a $100 billion fund with over 70 investments, SoftBank could be in a position where it needs OYO as badly as OYO needs SoftBank. He describes it as a “Russian Doll Ponzi”. Vintage Sumanth.
+This explains why OYO, long before it has proven its original hypothesis of standardising budget hotels in India, has expanded horizontally and vertically into every market you can imagine. From budget to luxury hotels, from leasing to self-owned properties, from India to China. Europe, South East Asia, Middle East. Rentals. Cafes, co-living, food, weddings, co-working. Name the segment and OYO has a stake in it. With each iteration, with each expansion, a new chapter is added to OYO’s narrative, an additional digit is added to its valuation. Note that there is no longer any compulsion for OYO to demonstrate meaningful business results in any core segment—each addition also makes it tougher to compare the company with peers as it is a conglomerate within itself. Each additional funding round broadens the “capital moat” that OYO has to scare away competitors.
+Most importantly, each funding round into OYO amounts to SoftBank investing with one hand and taking out "profits" (as valuation-linked “paper gains”) on the other.

@@ -1,0 +1,20 @@
+---
+subject: "Zomato Gold and the irresistible lure of platform loyalty programs"
+from: "The Ken <info@the-ken.com>"
+to: ""
+date: 2019-03-05 02:35:39
+labels: ["CATEGORY_PERSONAL", "INBOX", "The Ken", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_8244464457792971031", "UNREAD"]
+---
+I don’t do this often, but today I’m going to open with the intro from one of our earlier stories.
+"On 14 November, it launched Zomato Gold, a subscription-based loyalty program that guarantees complimentary food and drinks with every meal at over 1200 restaurants in India’s top metro cities. In less than three days, it sold 40,000 subscriptions and brought further sales to a temporary halt, albeit with a promise to soon offer more.
+Among restaurateurs, there is panic.”
+The lines are from our November 2017 story titled "[Zomato’s monster hit, Zomato Gold, is also a ticking time bomb](http://link.the-ken.com/wf/click?upn=HQSq6eeRV1xAVaGuFOahuNCZVVXPeP-2FJpSqxhvIUDrnGkEnaA-2BHnqAlEAPEZbq99PLB3uxMq5HMAs-2FAri0UWHZ-2FXDHx90vM5-2F3FHVXsTYwHRJ-2FBJ-2FxXQqLmeQhu5Fk5z_S4jLOsNx-2Fv6Jev2nvow8b7P9pBCWGd8KNZfb200gkZLQNlXQHio0noZzXtsWoloZmPWeyZsh7a4QCV9ufwCUKi00jlBT0uEdvwYDMuVuqcOqZ2keNbb5nB35gTv1BoQvgxuMj0YiFa2wY0L1Bp7iFfYatSvGw2NjtU2GV4LDClPskNMmmA3cPso2HtEGses96G8iw-2BaMPysq-2FNsmLlvhUXZePBDFn1dLsWUoc7csc1CvMvMSuPtcAE9m7UOoC7HPCGruX09dncGWmc2ZK6MrzHM9G93F8O6fx-2FRQEbi2KHqVbCyDRsGUP8QvJOFs4vWflGV2dVKpq8uHxTkWJi7Dm5XxliHsDPBA0AJ-2FLnxTnTEJ92mh61D5JGtnrqSR-2FoLR-2F63Dz3ttp-2BRfKKvbm7B2wJfSY4BFPs1f16R34LaSoBw-3D)”. 15 months later, it’s safe to say that we were wrong. The time bomb never exploded. Instead, Zomato Gold became an even bigger monster hit, crossing 1 million subscribers. Mea culpa! Zomato says Gold contributes to over 10% of its revenues today and could hit $20-25 million by the year-end.
+News broke late yesterday evening as we were finalising today’s story that Zomato, India’s original restaurants and food platform, had sold its UAE business to Delivery Hero for $172 million. In May 2016, it had exited physical operations in nine of the 23 countries it then operated in, along with writing off nearly a third of the $52 million it paid to acquire rival Urbanspoon.
+It’s clear now that one of the first Indian consumer Internet startups to craft an International strategy has had to strategically retreat to focus on its home market, India. And one of the centrepieces of its India strategy is Zomato Gold.
+But hold on, not so fast. The concerns we reported within three days of Zomato Gold’s launch still exist today, just on a different scale. Once again, I quote ourselves from November 2017:
+"The question here is not if this is another smart Zomato viral product. It is, of course. The question is if others can replicate this formula and if it’s sustainable. As it stands today, Zomato may have priced it overwhelmingly in favour of bargain-hunting customers. And it will need to correct that somehow.”
+Zomato has done that. It has drastically altered the benefits available as part of Zomato Gold in an attempt to reduce the impact of “bargain-hunting customers” on restaurants. In spite of that its runaways success means millennials have turned the loyalty paradigm on its head. Instead of using Zomato Gold to discover new restaurants they might not normally visit, they’re using it to eliminate restaurants which don’t offer discounts. Loyalty has shifted from restaurants to, well, Zomato Gold.
+Pradip has a fascinating story today that goes inside the phenomenon that is Zomato Gold. A story that holds many lessons for the tens of thousands of sellers and partners on third-party consumer platforms, many of which have or are launching their own loyalty programs. Fund the discounts that build platform loyalty, or stay out and lose out as customers opt for your competitors?
+Regards,
+Rohin Dharmakumar

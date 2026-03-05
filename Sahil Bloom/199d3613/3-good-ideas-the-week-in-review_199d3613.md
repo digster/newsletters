@@ -1,0 +1,55 @@
+---
+subject: "3 Good Ideas: The Week in Review"
+from: "\"Sahil Bloom's Curiosity Chronicle\" <sahil@sahilbloom.com>"
+to: ""
+date: 2025-10-11 13:06:26
+labels: ["CATEGORY_PERSONAL", "INBOX", "Sahil Bloom", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_1989028747625928812", "UNREAD"]
+---
+3 Ideas You Might Have Missed
+read time 2 minutes
+Welcome to the Curiosity Chronicle Week in Review—a quick roundup of this week's ideas to help you build a high-performing, healthy, and wealthy life.
+Forwarded this email? Join 800,000+ readers [here](https://click.kit-mail6.com/e5u0kxxr2ef7hlqw5oli5f863g022blhzekrz/m2h7h5h3336pp2am/aHR0cHM6Ly93d3cuc2FoaWxibG9vbS5jb20vbmV3c2xldHRlcg==).
+Mel Robbins called my first book "a powerful wake-up call that will push you to rethink everything about how you’re spending your time." Join 400,000+ other readers and get it today on a big sale!
+This Week at a Glance:
+- Monday: The CEO Test: A Powerful Tool for Life
+- Wednesday: The Costs of Entry in Life
+- Friday: Maslow’s Hammer: A Dangerous Trap
+Wisdom Worth Sharing:
+Major cheat code for life: Follow-through. The easiest way to stand out is to do the thing you said you would do. By showing up and closing loops. On time. Without excuses. Build a reputation for follow-through and the asymmetric opportunities will find you.
+([share to x/twitter!](https://click.kit-mail6.com/e5u0kxxr2ef7hlqw5oli5f863g022blhzekrz/e0hph7h7773ggvh8/aHR0cHM6Ly90d2l0dGVyLmNvbS9pbnRlbnQvdHdlZXQ_dGV4dD1NYWpvciUyMGNoZWF0JTIwY29kZSUyMGZvciUyMGxpZmUlM0ElMjBGb2xsb3ctdGhyb3VnaC4lMjBUaGUlMjBlYXNpZXN0JTIwd2F5JTIwdG8lMjBzdGFuZCUyMG91dCUyMGlzJTIwdG8lMjBkbyUyMHRoZSUyMHRoaW5nJTIweW91JTIwc2FpZCUyMHlvdSUyMHdvdWxkJTIwZG8uJTIwQnklMjBzaG93aW5nJTIwdXAlMjBhbmQlMjBjbG9zaW5nJTIwbG9vcHMuJTIwT24lMjB0aW1lLiUyMFdpdGhvdXQlMjBleGN1c2VzLiUyMEJ1aWxkJTIwYSUyMHJlcHV0YXRpb24lMjBmb3IlMjBmb2xsb3ctdGhyb3VnaCUyMGFuZCUyMHRoZSUyMGFzeW1tZXRyaWMlMjBvcHBvcnR1bml0aWVzJTIwd2lsbCUyMGZpbmQlMjB5b3UuJTBBJTBBJUUyJTgwJTkzJTQwU2FoaWxCbG9vbQ==))
+Monday: The CEO Test: A Powerful Tool for Life
+In 1985, Intel was fighting for survival—its core memory business was collapsing under fierce competition and uncertainty about the future.
+Intel’s Andy Grove asked a simple question: “If we got kicked out and a new CEO came in, what would they do?”
+This idea—to create a fresh perspective or lens through which to look at a problem—is a powerful one for your business, but also your life.
+So ask yourself: If you hired a new CEO for your life, what would they do in the next 100 days?
+([read the full piece here](https://click.kit-mail6.com/e5u0kxxr2ef7hlqw5oli5f863g022blhzekrz/7qh7h8h9992775az/aHR0cHM6Ly93d3cuc2FoaWxibG9vbS5jb20vbmV3c2xldHRlci90aGUtY2VvLXRlc3QtYS1wb3dlcmZ1bC10b29sLWZvci1saWZl))
+Wednesday: The Costs of Entry in Life
+Every single thing you want in life comes at a cost.
+There is always a cost of entry. An unavoidable price you must pay to achieve the things you say you want.
+Some are obvious…
+- Hard work is a cost of entry for business success.
+- Discipline is a cost of entry for physical health.
+- Practice is a cost of entry for skill mastery.
+…but some are not.
+A lot of problems in life arise when you’re simply unaware that the struggle you’re facing is actually the cost of entry. You waste energy complaining about it—or worse, trying to avoid it—but in doing so, you hold yourself back from what you’re truly capable of.
+In this piece, I shared seven non-obvious costs of entry you have to pay to live the life you want…
+([read the full piece here](https://click.kit-mail6.com/e5u0kxxr2ef7hlqw5oli5f863g022blhzekrz/owhkhqhwwwmvvvtv/aHR0cHM6Ly93d3cuc2FoaWxibG9vbS5jb20vbmV3c2xldHRlci90aGUtY29zdHMtb2YtZW50cnktaW4tbGlmZQ==))
+Friday: Maslow’s Hammer: A Dangerous Trap
+After World War I, France built the Maginot Line—400 miles of powerful fortifications meant to prevent another invasion. But when war returned, the Germans didn’t attack head-on. They went around. The Maginot Line was rendered useless.
+As Abraham Maslow once wrote, “If the only tool you have is a hammer, it is tempting to treat everything as if it were a nail.”
+The Maginot Line was a powerful hammer—but the new war simply wasn’t a nail.
+When you become comfortable with a certain tool, you start applying it everywhere, even when it doesn’t fit. We fall into the same trap in business, relationships, and life when we cling to tools that no longer serve us.
+Am I using the right tool—or just the familiar one?
+([read the full piece here](https://click.kit-mail6.com/e5u0kxxr2ef7hlqw5oli5f863g022blhzekrz/z2hghnheee2vv2ip/aHR0cHM6Ly93d3cuc2FoaWxibG9vbS5jb20vbmV3c2xldHRlci9tYXNsb3dzLWhhbW1lci1hLWRhbmdlcm91cy10cmFw))
+|
+The single anchor to my morning routine since 2011: [AG1](https://click.kit-mail6.com/e5u0kxxr2ef7hlqw5oli5f863g022blhzekrz/p8heh9h444w00nfq/aHR0cHM6Ly9kcmlua2FnMS5jb20vc2FoaWw=)!
+I started taking [AG1](https://click.kit-mail6.com/e5u0kxxr2ef7hlqw5oli5f863g022blhzekrz/p8heh9h444w00nfq/aHR0cHM6Ly9kcmlua2FnMS5jb20vc2FoaWw=) way before it was trendy or anyone knew about it––in 2011 when I needed to up my health game while playing college baseball. I was one of their first customers and fell in love with it. I took it consistently for over 10 years before asking the CEO for a link to share with family and friends.
+The newly upgraded [AG1 Next Gen](https://click.kit-mail6.com/e5u0kxxr2ef7hlqw5oli5f863g022blhzekrz/p8heh9h444w00nfq/aHR0cHM6Ly9kcmlua2FnMS5jb20vc2FoaWw=) is backed by four clinical trials and features five clinically studied probiotics, functional mushrooms, and whole food-sourced nutrients to support gut health, immune function, and sustained energy.
+And now it comes in 3 new flavors: Tropical, Citrus, and Berry. All from plant-based sources, with no added sugar or artificial sweeteners.
+[AG1](https://click.kit-mail6.com/e5u0kxxr2ef7hlqw5oli5f863g022blhzekrz/p8heh9h444w00nfq/aHR0cHM6Ly9kcmlua2FnMS5jb20vc2FoaWw=) is offering my amazing Curiosity Chronicle subscribers a FREE $76 gift when you sign up. You’ll get a Welcome Kit, a bottle of D3K2 (I take this daily!), and 5 free travel packs in your first box.
+|
+Sahil Bloom
+|
+|
+|

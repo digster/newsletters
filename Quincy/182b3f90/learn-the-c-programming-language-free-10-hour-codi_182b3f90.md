@@ -1,0 +1,32 @@
+---
+subject: "Learn the C Programming Language [free 10-hour coding course]"
+from: "Quincy Larson <quincy@freecodecamp.org>"
+to: ""
+date: 2022-08-19 02:40:16
+labels: ["CATEGORY_PERSONAL", "INBOX", "Quincy"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_7697778124671848699"]
+---
+Here are this week's five links that are worth your time:
+
+1. Learn C Programming by reading the classic book by C's creators, Dennis Ritchie and Brian Kernighan. In this cover-to-cover read-along, University of Michigan professor Dr. Chuck will guide you through the book, adding his own commentary as a developer and computer scientist. Dr. Chuck has also prepared a number of coding exercises that you can work through to solidify your understanding of key C concepts. You'll learn Operators, Control Flow, Input/Output, and C data structures including Pointers. This is a deep dive into one of the most widely-used languages in the world, as it was first taught nearly 50 years ago. (10 hour YouTube course): https://www.freecodecamp.org/news/learn-c-programming-classic-book-dr-chuck/
+
+2. Stardew Valley is a popular farming video game based off of the Nintendo classic, Harvest Moon. And in this Python GameDev course, you'll use PyGame to build your own playable version of it. You'll code player inventory systems, soil and rain logic, day-night cycles, and even farm animals. Note that this is an intermediate course. If you're new to PyGame, the freeCodeCamp community has several beginner courses as well. (7 hour YouTube course): https://www.freecodecamp.org/news/create-stardew-valley-using-python-and-pygame/
+
+3. Regular Expressions (often abbreviated as RegEx) can help you with everyday tasks like find/replace in your text editor, filtering Trello cards, or web searches with DuckDuckGo. This tutorial will teach you the RegEx basics. You can then naturally expand on your RegEx skills over the years as you use them. (25 minute read): https://www.freecodecamp.org/news/regular-expressions-for-beginners/
+
+4. You may notice a lock in your browser's address bar. This usually means you're communicating with a server through a secure HTTPS connection. And in this tutorial, you'll learn all about HTTPS, and how it improves upon the original HTTP web standard. Along the way, you'll learn about web security, SSL certificates, and symmetric VS asymmetric encryption. There's a good chance you're using HTTPS right now as you read this, so you may enjoy learning a bit more about this engineering marvel. (20 minute read): https://www.freecodecamp.org/news/http-vs-https/
+
+5. Computer Science is one of the most popular university majors in the world. But what exactly is Computer Science? And what do Computer Science students learn? If you're thinking about studying Computer Science in school, this guide will lay out some of the coursework you'll most likely do, and some of the career opportunities such a degree opens up. Note that you can also learn these topics yourself through freeCodeCamp at your own pace. (12 minute read): https://www.freecodecamp.org/news/what-is-a-computer-scientist-what-exactly-do-cs-majors-do/
+
+As you may know, freeCodeCamp is a public charity. We're able to pay for all 103 of our web servers each month thanks to the support of kind folks like you. If you aren't donating yet, I encourage you to join us and support our mission: https://www.freecodecamp.org/donate
+
+Quote of the Week: “C retains the basic philosophy that programmers know what they are doing. It only requires that they state their intentions explicitly.” — Dennis Ritchie and Brian Kernighan, creators of the C programming language. This quote comes from the same book that Dr. Chuck covers in the course I mentioned above.
+
+Happy coding.
+
+- Quincy Larson
+
+Teacher at https://www.freecodecamp.org
+I share useful things on Twitter at https://www.twitter.com/ossia
+
+If these emails aren't worth your time, you can turn them off: https://www.freecodecamp.org/ue/eZV2T3gHC7IGcwcpYPG64

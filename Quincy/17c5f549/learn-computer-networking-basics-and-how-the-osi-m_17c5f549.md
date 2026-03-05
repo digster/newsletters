@@ -1,0 +1,32 @@
+---
+subject: "Learn Computer Networking Basics and How The OSI Model Works"
+from: "Quincy Larson <quincy@freecodecamp.org>"
+to: ""
+date: 2021-10-08 09:55:52
+labels: ["CATEGORY_PERSONAL", "INBOX", "Quincy"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_7697778124671848699"]
+---
+Here are this week's five links that are worth your time:
+
+1. Way back in 1983, telephone companies came together to create the Open System Interconnections Model. This OSI Model is a common way to think about networks and security – from the software application layer all the way down to the physical infrastructure. This tutorial will help you understand each of the network layers and the relationships between them. (10 minute read): https://www.freecodecamp.org/news/osi-model-computer-networking-for-beginners/
+
+2. If you have a friend or relative who is completely new to computers, share this course with them. It uses fun animations to explain how computers work, how the internet works, and some computer security basics. I watched it with my kindergarten-aged kids, and even they understood it. (1 hour YouTube course): https://www.freecodecamp.org/news/computer-basics-for-absolute-beginners/
+
+3. Terraform is a popular Infrastructure-As-Code tool. I just did a search on Indeed (a job board website) and found more than 23,000 open job postings that mention Terraform. If you are interested in DevOps or cloud computing, this comprehensive course will prepare you to pass the Terraform Associate Certification. (12 hour YouTube course): https://www.freecodecamp.org/news/hashicorp-terraform-associate-certification-study-course-pass-the-exam-with-this-free-12-hour-course/
+
+4. TensorFlow is a powerful Python machine learning tool. freeCodeCamp already has tons of courses on TensorFlow, but this week we published a new one focused on using TensorFlow for Computer Vision. You'll learn how to build a neural network then train it to see various traffic signs and recognize their meaning. (5 hour YouTube course): https://www.freecodecamp.org/news/how-to-use-tensorflow-for-computer-vision/
+
+5. How to learn programming – a 14-step roadmap for beginners. This software engineer reflects on 20 years of learning to code, and how he would do things differently if he were starting over again today. (1 hour read): https://www.freecodecamp.org/news/how-to-learn-programming/
+
+These are just 5 of the learning resources that our community has published this week. Over the past 7 years, our nonprofit has published 600 full-length courses and 7,000 tutorials. We also maintain a fully-interactive full stack development curriculum. As always, everything's self-paced and freely available. And we are just getting started. There are so many math, computer science, and programming concepts we haven't covered yet. You can help. Support our nonprofit's mission today: https://www.freecodecamp.org/news/how-to-donate-to-free-code-camp/
+
+Quote of the Week: “I refer to layers 1 through 4 of the OSI Model all the time. They’re a simplified and fairly easy way to understand the obtuse and arcane way modern networks are kludged together. It’s really hard to convey the layers necessary to do proper monitoring and detection without that understanding.” — Lesley Carhart, Security Researcher and Digital Forensics Expert
+
+Happy coding.
+
+- Quincy Larson
+
+Teacher at https://www.freecodecamp.org
+I share useful things on Twitter at https://www.twitter.com/ossia
+
+If these emails aren't worth your time, you can turn them off: https://www.freecodecamp.org/ue/eZV2T3gHC7IGcwcpYPG64

@@ -1,0 +1,115 @@
+Post       : Attention is all you need &#8211; Part 2
+URL        : https://janav.wordpress.com/2023/12/27/attention-is-all-you-need-part-2/
+Posted     : December 27, 2023 at 5:57 pm
+Author     : Jana Vembunarayanan
+Tags       : LLM, Machine Learning
+Categories : Computer Science, Mathematics
+
+This is the 11th and final post in my series on building a toy GPT. Read my earlier posts ( https://janav.wordpress.com/ )  first for better understanding. I concluded the previous post by explaining how Attention works. You can download the Excel sheet and Python code that explains how Attention from here ( https://janav.files.wordpress.com/2023/12/attention-is-all-you-need.xlsx )  and here ( https://janav.files.wordpress.com/2023/12/attention.pdf ) .
+
+The Transformer architecture was originally proposed for language translation, with the block on the left-hand side acting as an encoder to supply the source text. We don’t need the encoder block for text generation tasks like with GPT. The red dashed rectangle is what I covered in the previous post.
+
+https://janav.files.wordpress.com/2023/12/image-38.png
+
+A decoder is responsible for generating text by processing the input sequentially and predicting the next word in a sequence based on the previous words. Let's take a closer look at the Decoder block and examine its components and their connections.
+
+https://janav.files.wordpress.com/2023/12/image-35.png
+
+There are 2 kinds of Attention: self-attention and cross-attention. In self-attention, queries, keys, and values are all derived from the same source. On the other hand, in cross-attention, queries originate from one source while keys and values come from a different one.
+
+Cross-attention is especially relevant in language translation or summarization tasks. Here, the keys and values are sourced from the text in the original language. For instance, in translating "The cat sat on the mat" from English to French, the encoder provides the keys and values from the English sentence.
+
+After removing the clutter from cross-attention, the image looks like below.
+
+https://janav.files.wordpress.com/2023/12/image-39.png
+
+Attention alters the feature vectors of each word so that they align with every other word in an n-dimensional space. This manipulation of feature vectors sets up a way for words to communicate with each other.
+
+It’s important to note that this communication between words primarily occurs in the attention mechanism of the network. After the communication between words is established, further computation needs to run. This computation happens in the feed-forward layer, which is a multi-layered perceptron.
+
+For example, GPT-2 ( https://github.com/jaymody/picoGPT )  uses word embeddings with 768 dimensions. Its feed-forward layer contains 3,072 neurons, which scales up the embedding dimension by a factor of 4. This larger intermediate state then gets fed into another layer with 768 neurons, bringing it back down to the original 768 dimension size. In summary, the decoder block utilizes the following process:
+
+* Attention enables words to communicate with each other by aligning their 768-dimensional vector representations.
+
+* The 3072-neuron Feed-forward layer performs computation on those vector representations to model more complex functions. The final 768-neuron layer reduces the representations back down to 768 dimensions to be passed on to the next decoder block.
+
+So in essence, the decoder orchestrates communication between words via the Attend layer, interspersed with computation steps in the Feed-forward layers. Stacking decoder blocks on top of each other intersperses communication and computation. For example, GPT-2 stacks 12 decoder blocks on top of one another.
+
+Why do we need the Add & Norm block?
+
+As we create neural networks with multiple layers, we can run into issues like vanishing or exploding gradients. For example, during backpropagation, the gradient can become too small (vanish) due to multiplying many small numbers over multiple layers.
+
+Let's say a particular weight is 0.2 and the gradient has to pass through 10 layers. The gradient at the 10th layer is 0.0000001 (0.210). Since the gradient is almost zero, this inhibits the network's ability to learn effectively. This issue is called the vanishing gradient problem.
+
+https://janav.files.wordpress.com/2023/12/image-36.png
+
+Take a look at the + operation in the code above. The technical term for the + operation is called a skip connection, also known as a residual connection. It is a crucial component in the architecture of transformer blocks. It solves the vanishing gradient problem.
+
+The plus operation passes gradient values through unchanged. We learnt this in the Neural Networks post ( https://janav.wordpress.com/2023/11/06/neural-networks-part-2/ ) . The left side of the image below comes from the ResNet paper ( https://arxiv.org/pdf/1512.03385.pdf ) . Let H = F(x) + x. Think of F(x) as either multi-head self attention or the feed forward network.
+
+https://janav.files.wordpress.com/2023/12/image-34.png
+
+As shown in the derivation on the right-hand side, the gradient from H flows to x even if the gradient from F(x) happens to be zero. You can read this ( https://towardsdatascience.com/residual-blocks-building-blocks-of-resnet-fd90ca15d6ec )  and this ( https://aman.ai/primers/ai/skip-connections/ )  article to learn more about skip connection. Skip connections not only fix the vanishing gradient issue but also aid in retaining information from the original input.
+
+Deep Neural networks conduct millions of matrix operations, using weights and biases that are initially set at random. As we incorporate more layers, as seen in transformer models, there's a risk that the generated representations might drift significantly from the original input.
+
+This drift can lead to the loss of the original signal, causing the network to learn more noise than signal. By reintroducing the original input (through "x +"), we help retain information from the input, ensuring that the resulting representations contain more relevant signal and less noise.
+
+That covers the Add in the Add & Norm block. Why do we need Norm? When you do millions of multiplications and additions, the resulting number could get very large. This could result in large or exploding gradients, causing the weights to change wildly, which in turn can prevent the model from converging to a good solution.
+
+https://janav.files.wordpress.com/2023/12/image-37.png
+
+Layer norm is used to normalize the values for each input. It is a simple idea: You take the mean of the input and normalize each value by subtracting the mean and dividing by the input variance. This is similar to calculating the z-score in statistics. Parameters g and b are learned during training. The image below shows how layer norm works on 5 inputs with 4 dimensions for each input.
+
+https://janav.files.wordpress.com/2023/12/image-40.png
+
+Computation coming out of each neuron must stay within a range for the neural network to function properly. Both skip connections and layer norm keep the numbers within that range. I think of the output of the neuron like glucose in our blood. It can’t be too low or too high. Hormones like insulin and organs like the liver work to keep blood sugar within a certain range. Similarly, we have the Add & Norm layer in neural networks.
+
+https://janav.files.wordpress.com/2023/12/image-31.png
+
+GPT uses GELU (Gaussian Error Linear Unit) as an activation instead of RELU. One issue with ReLU is that it can lead to "dead neurons," where neurons always output zero, especially if they get a very negative bias during training. This is known as the "dying ReLU" issue. GELU gives a smoother curve than ReLU, which can help in learning more complex patterns. It doesn't have as much of the dying neuron issue as ReLU.
+
+https://janav.files.wordpress.com/2023/12/image-32.png
+
+The final step is that the output from the last block gets projected back from the embedding dimension to the vocabulary dimension. Through softmax we get the next best word given the current words. You take the output word and append it to the current input and go through the transformer again.
+
+https://janav.files.wordpress.com/2023/12/image-33.png
+
+For the input "I chose that bank for," the GPT-2 model predicted “my.” Calling it again with "I chose that bank for my," it predicted “first.” Calling it again with "I chose that bank for my first," it predicted “job.” So we got a logical sentence: "I chose that bank for my first job."
+
+This process of predicting a future value (regression) and adding it back into the input (auto) is why GPT is called autoregressive. The best way to see it in action is to run PicoGPT ( https://github.com/jaymody/picoGPT )  through the debugger and see how the entire process works.
+
+Language Models are Few-Shot Learners ( https://arxiv.org/pdf/2005.14165.pdf )  paper gives an idea of the scale of these GPT models.
+
+https://janav.files.wordpress.com/2023/12/image-41.png
+
+All these models are trained on 300 billion tokens of text data. Specifically, GPT-3 has 175B parameters, an embedding size (width of the network) of 12,288, 96 layers (depth of the network), and 96 attention heads with a head size of 128 each.
+
+These models are known as foundational models. They can generate text that logically follows a given input, but they are not designed to answer questions directly. For instance, when GPT-2 was asked "What is the capital of India?", it replied with "India is the", demonstrating its inability to provide specific factual responses.
+
+How is ChatGPT able to answer most of my questions correctly? These foundational models undergo fine-tuning and Reinforcement Learning from Human Feedback (RLHF). This additional training enables ChatGPT to generate more relevant and accurate answers.
+
+Fine-tuning provides the model with additional question-and-answer training data. Going through this data selectively adjusts the model's weights to better align it with accurately answering questions. In RLHF, humans evaluate the model's responses and indicate which ones are most appropriate. This feedback allows the model to learn and continuously improve its ability to generate high-quality answers.
+
+I will write about fine-tuning and RLHF sometime next year.
+
+It's a deeply satisfying experience to understand how LLMs work. Through the process of building and writing these 11 posts, I was able to see the math that goes inside the LLM black box. I am deeply thankful to the many people who have freely shared their work online. This has helped me find answers to most of my questions. In particular, without the teachings of Andrej Karpathy ( https://www.youtube.com/@AndrejKarpathy )  and Jeremy Howard ( https://course.fast.ai/ ) , I would have given up on this long back.
+
+Before concluding this post, I would like to leave you with one of the best ways to start learning about large language models (LLMs).
+
+Start with Intro to Large Language Models ( https://www.youtube.com/watch?v=zjkBMFhNj_g&t=1s&ab_channel=AndrejKarpathy ) , ChatGPT Prompt Engineering for Developers ( https://www.deeplearning.ai/short-courses/ ) , and A Hackers' Guide to Language Models ( https://www.youtube.com/watch?v=jkrNMKz9pWU&ab_channel=JeremyHoward ) . It will take 4-5 hours to finish watching these videos.
+
+You need to get really comfortable programming with Python, as most of the AI ecosystem is built on top of this language. I highly recommend reading Python Distilled ( https://www.amazon.com/Python-Essential-Reference-Developers-Library/dp/0134173279 )  to brush up your skills.
+
+The best way to learn about LLMs is by using them in your products. You can start with OpenAI APIs, which have a best-in-class platform that just works. Their cookbook ( https://cookbook.openai.com/ )  is the best place to look at all the use cases that are possible with their APIs.
+
+Add a comment to this post: https://janav.wordpress.com/2023/12/27/attention-is-all-you-need-part-2/#respond
+
+-- 
+
+
+Manage Subscriptions
+https://subscribe.wordpress.com/?key=3ba1653235661837fb9cfafd373444b6&email=ishan.mail%40gmail.com
+
+Unsubscribe:
+https://subscribe.wordpress.com/?key=3ba1653235661837fb9cfafd373444b6&email=ishan.mail%40gmail.com&b=vXbqC1ai0bNokUfG-Fb4XBd9Rkx9cN-3hSO1q1Ns5_Goobz2G4klaoVSCGjV9Ev7IbloF-Ouz1VNPRtHIGr7P_4fWJize5FKi-6Cous62DVY10uBNuKkh_57AbTFfaLz3pMo1ZcWzmgFXfskgWz4FLD4FwdoWuM%3D

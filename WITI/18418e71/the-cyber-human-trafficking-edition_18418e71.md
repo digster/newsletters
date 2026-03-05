@@ -1,0 +1,12 @@
+---
+subject: "The Cyber Human Trafficking Edition"
+from: "\"Why is this interesting?\" <whyisthisinteresting@substack.com>"
+to: ""
+date: 2022-10-27 10:01:13
+labels: ["CATEGORY_PERSONAL", "INBOX", "UNREAD", "WITI"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "UNREAD", "Label_5752899537867939131"]
+---
+Colin here. We’re all familiar with online, phone, and text-based scams. Most of them are easy to spot, but not a lot of thought goes into the human on the other end of the equation. That’s because our mind first jumps to economic motives—scammers looking for a leg up in a situation where it is hard to have a job. But increasingly, the scammers are being coerced to do the job against their will. WITI Classifieds: We are experimenting with running some weekly classifieds in WITI. If you’re interested in running an ad, Another interesting newsletter: Making the case for good content, clear writing, and the creative process. Subscribe to the Hand & Eye.
+A publication exploring the most interesting and innovative consumer businesses, products, and trends https://newconsumer.com/ Beats In Space with Tim Sweeney: weekly DJ mixes + interviews on Apple Music There has been a new, particularly dystopian twist to human trafficking, where vulnerable people looking for work in Asia are promised good wages upon relocation. Tens of thousands of people have been lured to casinos and resorts in Cambodia, Laos, and Myanmar. Rather than having a legitimate job, they are forced into illegal gambling or online scamming outfits. The Economist
+Why is this interesting? International criminal syndicates are chasing margin. Turns out human trafficking, drug sales, and other illicit activities are great businesses relative to running a normal P&L. In this case, the culprits are apparently often Chinese gangs, operating in specific netherworlds where the rule of law is lax. These include Older versions of human trafficking relied on sex as currency, offering an endless amount of economically disadvantaged women and men to be exploited. In this case, the currency is just enough digital savvy and training to be dangerous. In order to do their cons, they need an understanding of computers, ideally English or local languages, and enough training in social engineering to be effective. It is a frightening new variant of reprehensible activities that have sadly occurred for thousands of years. (CJN) — Thanks for reading, Noah (NRB) & Colin (CJN) —
+You’re a free subscriber to |

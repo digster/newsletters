@@ -1,0 +1,96 @@
+---
+subject: "How AI is changing software engineering at Shopify with Farhan Thawar"
+from: "The Pragmatic Engineer <pragmaticengineer@substack.com>"
+to: ""
+date: 2025-07-02 15:45:41
+labels: ["CATEGORY_PERSONAL", "INBOX", "The Pragmatic Engineer", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_6413324878686416177", "UNREAD"]
+---
+|
+Listen and watch now on [YouTube](https://substack.com/redirect/d82583e2-fee9-432f-9065-e0c2d0fd3382?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o), [Spotify](https://substack.com/redirect/1e81c012-6a39-4c13-8f89-4818161b9d2f?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) and [Apple](https://substack.com/redirect/d11f3eea-b30d-4fd0-a880-ea5a57656a07?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o). See the episode transcript at the top of this page, and timestamps for the episode at the bottom.
+[WorkOS](https://substack.com/redirect/a8f5ba89-4601-4499-b88f-6c48012bee37?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)— The modern identity platform for B2B SaaS.[Statsig](https://substack.com/redirect/c4ac5117-8511-4217-81c0-6464ce8d5de5?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)[](https://substack.com/redirect/820a79d4-8620-46f5-ac9a-969196b70f27?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)—[](https://substack.com/redirect/820a79d4-8620-46f5-ac9a-969196b70f27?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)The unified platform for flags, analytics, experiments, and more.[Sonar](https://substack.com/redirect/91f2063d-32d5-4b5c-b36d-9e46ef1489dc?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)— Code quality and code security for ALL code.
+—
+What happens when a company goes all in on AI?
+At Shopify ,engineers are expected to utilize AI tools, and they’ve been doing so for longer than most. Thanks to early access to tools like GitHub Copilot (Shopify was the first company outside of GitHub to use it), and models from OpenAI and Anthropic, the company had a head start in figuring out what works.
+In this live episode from LDX3 in London. — recorded two weeks ago — I spoke with [Farhan Thawar](https://substack.com/redirect/fc286363-5630-46c6-b840-e1d0d8c81d61?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o), Head of Engineering, about how Shopify is building with AI across the entire stack. We cover the company’s internal LLM proxy, its policy of unlimited token usage, and how interns help push the boundaries of what’s possible.
+In this episode, we cover:
+How Shopify works closely with AI labs
+The story behind Shopify’s recent Code Red
+How non-engineering teams are using Cursor for vibe coding
+Tobi Lütke’s viral memo and Shopify’s expectations around AI
+A look inside Shopify’s LLM proxy—used for privacy, token tracking, and more
+Why Shopify places no limit on AI token spending
+Why AI-first isn’t about reducing headcount—and why Shopify is hiring 1,000 interns
+How Shopify’s engineering department operates and what’s changed since adopting AI tooling
+Farhan’s advice for integrating AI into your workflow
+And much more!
+Two interesting details on how Shopify hires, as discussed in this conversation:
+Gergely(at
+[40:29]): You mentioned something super interesting to me. When you're hiring engineering directors and above: in the past it was the usual interview. Culture, fit, strategy, all that stuff. You added a coding interview for every single engineering director and above hire. Can you tell me about this?Farhan: What happens is it is shocking for VPs. To be like “whoa, there's a coding interview!” I'm like: “yeah, because we believe that they are still deeply in love with technology. And so it worked out super well.
+Our whole idea is that you're not running away: you're running towards technology and it's just a better way for you to express it. So I pair with the candidates and they also see that even though I'm not writing code every day, I'm still deep in the weeds of technology. I still love technology and I still want to talk about technical topics.
+And there are lots of great companies out there where that's not the requirement. But at Shopify, we believe people should be as close to the details as possible. And so that doesn't mean coding day to day, but you should understand code and how code works. The muscle memory of coding will come back in these pairing interviews.”
+They actually encourage using them! This is one of the first examples I’ve heard this approach: and it seems to be working for the company:
+Gergely (
+[42:07]): “Hold on. So you're using AI during your interview process?”Farhan: “Yes!”
+Gergely: “Oh, you’re not running away from it.”
+Farhan: “We're embracing it.”
+Gergely: “How's it working? Tell me.”
+Farhan: “ I love it. Because what happens now is the AI will sometimes generate pure garbage.”
+Gergely: “So you’re screen sharing and you say, literally use anything?”
+Farhan: “You let them use whatever they want. Here's what I'll say.
+If they don't use a copilot, they usually get creamed by someone who does. So they will have no choice. But it’s a copilot!
+Sometimes I will shadow an interview and do the questions myself. I've never seen them with a copilot and send it to the interviewer and say, please mark my assignment as well against a candidate. I have not lost yet. If they don't have a copilot, they will lose.
+But when they do have a copilot, I love seeing the generated code because I want to ask them, what do you think? Is this good code? Is this not good code? Are there problems? And I've seen engineers for example: when there's something very easy to fix, they won't fix it. They will try to prompt to fix it.
+And I ask: “are you really an engineer?” I get the nuance of just prompt and prompt and prompt. I’m like: “just change the one character!” — and they won't change it! And I'm like, okay, I don't want you to be 100% percent using AI. I want you be like 90 or 95%. I want you to be able to go in and look at the code and say, oh yeah, there's a line that's wrong.”
+([00:00](https://substack.com/redirect/2081b620-eb87-4266-ad12-fa3b0cc03529?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) Intro
+([02:07](https://substack.com/redirect/64ed1292-f73e-4aa7-8a8c-b10df6fd8e1f?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) Shopify’s philosophy: “hire smart people and pair with them on problems”
+([06:22](https://substack.com/redirect/78032b8f-86f0-46f9-9631-576aba6e715e?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) How Shopify works with top AI labs
+([08:50](https://substack.com/redirect/1ef78fd6-7e82-4514-9ccd-6e9e139a6d0c?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) The recent Code Red at Shopify
+([10:47](https://substack.com/redirect/debe7350-59a7-4836-bbb2-c69ffdddacd5?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) How Shopify became early users of GitHub Copilot and their pivot to trying multiple tools
+([12:49](https://substack.com/redirect/680ccd86-43dc-462b-a55b-a4331a86f121?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) The surprising ways non-engineering teams at Shopify are using Cursor
+([14:53](https://substack.com/redirect/2b223da3-c086-4b1b-ae74-5b0ce1b4dec9?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) Why you have to understand code to submit a PR at Shopify
+([16:42](https://substack.com/redirect/88ef8b4d-0923-4855-ac53-f87952ac4dec?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) AI tools' impact on SaaS
+([19:50](https://substack.com/redirect/1cd7e2a3-7cdd-419d-a261-f789bc6df263?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) Tobi Lütke’s AI memo
+([21:46](https://substack.com/redirect/ec73beab-c3a0-40b3-a8e9-d3de00fcfd0a?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) Shopify’s LLM proxy and how they protect their privacy
+([23:00](https://substack.com/redirect/0cd641be-8b34-4180-b2f7-c4926d6d910f?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) How Shopify utilizes MCPs
+([26:59](https://substack.com/redirect/17b3649c-836f-4437-b464-b6ad941f87aa?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) Why AI tools aren’t the place to pinch pennies
+([30:02](https://substack.com/redirect/70604f27-b099-4538-8c2d-830ecf8ac67e?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) Farhan’s projects and favorite AI tools
+([32:50](https://substack.com/redirect/f74628c5-4623-4251-a616-c6718e0df7e7?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) Why AI-first isn’t about freezing headcount and the value of hiring interns
+([36:20](https://substack.com/redirect/c5990d36-88d3-4d49-95cc-194e227b812b?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) How Shopify’s engineering department operates, including internal tools
+([40:31](https://substack.com/redirect/5deea262-bbc4-44bd-8fb3-c5ff045911f6?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) Why Shopify added coding interviews for director-level and above hires
+([43:40](https://substack.com/redirect/cff4cf3b-1619-41e8-8c18-8f072d5e9fd8?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) What has changed since Spotify added AI tooling
+([44:40](https://substack.com/redirect/ec1eef64-95b9-428e-9358-5898b4e4b84b?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) Farhan’s advice for implementing AI tools
+Where to find Farhan Thawar:
+• LinkedIn: [https://www.linkedin.com/in/fnthawar/](https://substack.com/redirect/fc286363-5630-46c6-b840-e1d0d8c81d61?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+Mentions during the episode:
+• LDX3 2025: [https://leaddev.com/leaddev-london/agenda/](https://substack.com/redirect/d3340d99-04f5-4b96-9eb6-c1fbe598c5d2?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+• Shopify: [https://www.shopify.com/](https://substack.com/redirect/8c7dffeb-1822-4ef3-a87a-c5359efd55e5?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+• Claude Code: [https://www.anthropic.com/claude-code](https://substack.com/redirect/cbfe8ff1-093f-4023-b3c4-4a22ccc291f8?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+• Codex: [https://openai.com/index/introducing-codex/](https://substack.com/redirect/4e3acc29-c8ee-400d-a49e-f4e6015a9d1c?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+• Ruby: [https://www.ruby-lang.org](https://substack.com/redirect/fdff55f3-0db9-442a-8fe1-1eafdb1396f2?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+• MySQL: [https://www.mysql.com/](https://substack.com/redirect/30c60835-7d03-40d5-ab50-701b9f5b93e9?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+• Thomas Dohmke on LinkedIn: [https://www.linkedin.com/in/ashtom/](https://substack.com/redirect/c25145ac-3cea-4f19-8a7a-0ea224a3852b?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+• The present, past and future of GitHub: [https://newsletter.pragmaticengineer.com/p/github](https://substack.com/redirect/7287b545-5684-4c9e-a384-4972bbe1ae29?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+• GitHub Copilot: [https://github.com/features/copilot](https://substack.com/redirect/0693cc40-ed5e-4e68-a305-8166df083263?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+• Cursor: [https://www.cursor.com/](https://substack.com/redirect/6bbd8732-55a7-4266-8177-0080016a4582?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+• VS Code: [https://code.visualstudio.com/](https://substack.com/redirect/9ad0fdd5-6e40-4438-9c90-6bbae1d197fa?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+• Devin: [https://devin.ai/](https://substack.com/redirect/fd90a728-98e6-46db-92dd-8db5a8a190fd?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+• AI tools for software engineers, but without the hype – with Simon Willison (co-creator of Django): [https://newsletter.pragmaticengineer.com/p/ai-tools-for-software-engineers-simon-willison](https://substack.com/redirect/bae9540f-53a5-4ae9-ae39-ed3dc7cdd60e?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+• Jevons paradox: [https://en.wikipedia.org/wiki/Jevons_paradox#Conditions](https://substack.com/redirect/c6203498-4e93-468b-8236-2898b1902275?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+• Tobi’s memo: Reflexive AI usage is now a baseline expectation at Shopify: [https://x.com/tobi/status/1909251946235437514](https://substack.com/redirect/041983e3-0cc5-4104-97f5-8b31660abdbe?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+• Librechat: [https://www.librechat.ai/](https://substack.com/redirect/25a2d278-6482-4d54-b945-4697bb2cf8da?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+• Farhan’s post on X about spending on AI tools: [https://x.com/fnthawar/status/1930367595670274058](https://substack.com/redirect/730b8c5e-ba22-4b22-b32d-6e277a120929?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+• Mikhail Parakhin on LinkedIn: [https://www.linkedin.com/in/mikhail-parakhin/](https://substack.com/redirect/87505904-ea89-4a3d-b99a-6c8d7790169d?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+• Gumloop: [https://www.gumloop.com/](https://substack.com/redirect/b6d5c487-b46b-4429-aaa0-1a8b5a7ed941?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+• Jira: [https://www.atlassian.com/software/jira](https://substack.com/redirect/8be00474-14f0-4205-86f5-86bbaf3a9d11?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+• Linear: [https://linear.app/](https://substack.com/redirect/17ab56dd-c05f-445f-aa70-39963ff3346c?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+• How Shopify Built Its Live Globe for Black Friday: [https://newsletter.pragmaticengineer.com/p/shopify-black-friday](https://substack.com/redirect/ab5614b1-5d64-477a-83a3-3a975ae3851e?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+• The Pulse #86: Is Shopify’s new “mastery” framework a response to higher interest rates?: [https://newsletter.pragmaticengineer.com/p/the-pulse-86](https://substack.com/redirect/134844e4-1513-4ff2-b1af-2b5084b28246?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+• Inside Shopify's Leveling Split: Exclusive: [https://newsletter.pragmaticengineer.com/p/inside-shopifys-leveling-split](https://substack.com/redirect/ace84a6f-2097-4e10-a82b-b17b99111ff8?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+• The Pulse #138: Ban or embrace AI tools in technical interviews: [https://newsletter.pragmaticengineer.com/p/the-pulse-138](https://substack.com/redirect/1253c5a5-565a-4d2a-9ced-c10e439e1f2f?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+—
+Production and marketing by [Pen Name](https://substack.com/redirect/a8a2fd39-f8fc-4b2f-85b0-84fae4bedcf1?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o).
+You’re on the free list for [The Pragmatic Engineer](https://substack.com/redirect/2/eyJlIjoiaHR0cHM6Ly9uZXdzbGV0dGVyLnByYWdtYXRpY2VuZ2luZWVyLmNvbT91dG1fY2FtcGFpZ249ZW1haWwtaG9tZSZyPThvNTRuIiwicCI6MTY2ODQzODIzLCJzIjo0NTg3MDksImYiOnRydWUsInUiOjE0NTYzMzE5LCJpYXQiOjE3NTE0NzExOTYsImV4cCI6MjA2NzA0NzE5NiwiaXNzIjoicHViLTAiLCJzdWIiOiJsaW5rLXJlZGlyZWN0In0.5fzkkzrBc-kR7qfPrnGzkyavNFeh1y7w3oudraAOf84?). For the full experience, [become a paying subscriber](https://substack.com/redirect/2/eyJlIjoiaHR0cHM6Ly9uZXdzbGV0dGVyLnByYWdtYXRpY2VuZ2luZWVyLmNvbS9zdWJzY3JpYmU_dXRtX3NvdXJjZT1wb3N0JnV0bV9jYW1wYWlnbj1lbWFpbC1jaGVja291dCZuZXh0PWh0dHBzJTNBJTJGJTJGbmV3c2xldHRlci5wcmFnbWF0aWNlbmdpbmVlci5jb20lMkZwJTJGaG93LWFpLWlzLWNoYW5naW5nLXNvZnR3YXJlLWVuZ2luZWVyaW5nJnI9OG81NG4mdG9rZW49ZXlKMWMyVnlYMmxrSWpveE5EVTJNek14T1N3aWFXRjBJam94TnpVeE5EY3hNVGsyTENKbGVIQWlPakUzTlRRd05qTXhPVFlzSW1semN5STZJbkIxWWkwME5UZzNNRGtpTENKemRXSWlPaUpqYUdWamEyOTFkQ0o5LkE3bVFFYmNSeHYwMGRUeGtLM3gyUzVkbW1UX0Z1ZW5iMk5JalhrazlsaWciLCJwIjoxNjY4NDM4MjMsInMiOjQ1ODcwOSwiZiI6dHJ1ZSwidSI6MTQ1NjMzMTksImlhdCI6MTc1MTQ3MTE5NiwiZXhwIjoyMDY3MDQ3MTk2LCJpc3MiOiJwdWItMCIsInN1YiI6ImxpbmstcmVkaXJlY3QifQ.BaOwLHdg609TVV-HmDoV35DsEcopamcBKPNJJ1ouMJc?). Many readers expense this newsletter within their company’s training/learning/development budget. If you have such a budget, here’s[ an email you could send to your manager](https://substack.com/redirect/0ff0c8bb-162d-4bc1-ba93-9e489eb5a395?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o).
+This post is public, so feel free to share and forward it.
+If you enjoyed this post, you might enjoy my book, [The Software Engineer's Guidebook](https://substack.com/redirect/15714c80-a665-42b1-9d8f-e44fa95a3e0f?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o). Here is what Tanya Reilly, senior principal engineer and author of The Staff Engineer's Path said about it:
+"From performance reviews to P95 latency, from team dynamics to testing, Gergely demystifies all aspects of a software career. This book is well named: it really does feel like the missing guidebook for the whole industry."

@@ -1,0 +1,37 @@
+---
+subject: "Learn to Code For Free From Home – The Coronavirus Quarantine Developer Skill Handbook"
+from: "Quincy Larson <quincy@freecodecamp.org>"
+to: ""
+date: 2020-03-20 09:47:05
+labels: ["CATEGORY_PERSONAL", "INBOX", "Quincy"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_7697778124671848699"]
+---
+If you're one of the 2 million new people who visited freeCodeCamp this week, welcome aboard. I'm Quincy, and I send out this email every Friday with 5 free learning resources.
+
+Here are this week's five links that are worth your time:
+
+1. The Coronavirus Quarantine Developer Skill Handbook – my tips for how to make the most of your time and learn to code for free from home (12 minute read): https://www.freecodecamp.org/news/coronavirus-academy/
+
+2. How to outsource your online security, and stay secure without having to think so hard about it (5 minute read): https://www.freecodecamp.org/news/outsourcing-security-with-1password-authy-and-privacy-com/
+
+3. A software engineer from Romania live-streamed himself finishing all 6 freeCodeCamp certifications in a single month. It takes most people thousands of hours to accomplish this. Here's his story. (7 minute read): https://www.freecodecamp.org/news/i-completed-the-entire-freecodecamp-curriculum-in-a-month-while-recording-everything/
+
+4. How to get started with Serverless Architecture (12 minute read): https://www.freecodecamp.org/news/how-to-get-started-with-serverless-architecture/
+
+5. An Intro to Metrics Driven Development, and how data can inform the design of your apps (10 minute read): https://www.freecodecamp.org/news/metrics-driven-development/
+
+
+Quote of the Week: "Walking on water and developing software from a specification are easy if both are frozen." - Edward V. Berard
+
+
+Help our nonprofit pay for servers, so we can keep creating these free learning resources for you and your friends. Make a tax-deductible donation here: https://www.freecodecamp.org/donate
+
+
+Happy coding.
+
+- Quincy Larson
+
+The teacher who founded freeCodeCamp.org
+
+
+If these emails aren't worth your time, you can turn them off: https://www.freecodecamp.org/ue/eZV2T3gHC7IGcwcpYPG64

@@ -1,0 +1,38 @@
+---
+subject: "Tips from a developer who just did 60 coding job interviews in a single month"
+from: "Quincy Larson <quincy@freecodecamp.org>"
+to: ""
+date: 2020-07-03 08:01:37
+labels: ["CATEGORY_PERSONAL", "INBOX", "Quincy"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_7697778124671848699"]
+---
+Here are this week's five links that are worth your time:
+
+1. Tips from a developer who just did 60 coding interviews in a single month. And yes, he got multiple job offers. (15 minute read): https://www.freecodecamp.org/news/what-i-learned-from-doing-60-technical-interviews-in-30-days/
+
+2. Learn Deno, the new JavaScript runtime from the inventor of Node.js. This free full-length course will also teach you basic TypeScript, packages, and how to build your own survey app. (6 hour video course): https://www.freecodecamp.org/news/learn-deno-a-node-js-alternative/
+
+3. What is a Deep Learning Neural Network? Here's what you need to know, explained in plain English. (15 minute read): https://www.freecodecamp.org/news/deep-learning-neural-networks-explained-in-plain-english/
+
+4. The SaaS Handbook – how to build your first Software-as-a-Service product step-by-step. (1 hour read): https://www.freecodecamp.org/news/how-to-build-your-first-saas/
+
+5. Here are 700 free online Programming and Computer Science courses you can start this July (browsable list): https://www.freecodecamp.org/news/free-online-programming-cs-courses/
+
+And one extra for you: a full course on how to build your own full-stack website using Gatsby and Strapi, two powerful new web development tools. (5 hour video course): https://www.freecodecamp.org/news/create-a-full-stack-website-with-strapi-and-gatsbyjs/
+
+
+Quote of the Week: “If you want to truly understand something, try to change it.” – Kurt Lewin
+
+
+Thanks again to all of you who are now supporting our nonprofit. If you're not donating yet, every little bit helps us with our mission: https://www.freecodecamp.org/donate
+
+ 
+Happy coding.
+
+- Quincy Larson
+
+Teacher at freeCodeCamp.org
+I share useful things on Twitter at https://www.twitter.com/ossia
+
+
+If these emails aren't worth your time, you can turn them off: https://www.freecodecamp.org/ue/eZV2T3gHC7IGcwcpYPG64

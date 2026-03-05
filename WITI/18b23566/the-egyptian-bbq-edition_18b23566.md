@@ -1,0 +1,25 @@
+---
+subject: "The Egyptian BBQ Edition"
+from: "\"Why is this interesting?\" <whyisthisinteresting@substack.com>"
+to: ""
+date: 2023-10-12 10:00:17
+labels: ["CATEGORY_PERSONAL", "INBOX", "UNREAD", "WITI"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "UNREAD", "Label_5752899537867939131"]
+---
+Colin here. Austin is known for its barbecue, and asking a Texan about their favorite spot is an invitation to impassioned debates. Texas Monthly has certainly dedicated a significant amount of column inches to the subject and even has a [dedicated editor](https://substack.com/redirect/46a57648-93a8-4fd7-8eff-6cbc2d8d9ee7?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o). My memories of time in line at places like [Franklin](https://substack.com/redirect/c3f02219-5d0d-4318-9102-430c902180cf?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o), a legend in the BBQ scene, are fond ones despite the long waits. The depth and sophistication of the craft are [truly worth exploring.](https://substack.com/redirect/f3e89b61-b22a-4573-a63f-56db62685752?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+Why is this interesting?
+Texas has always absorbed a myriad of influences, given its history with immigrants from all over the world. This includes flavors from south of the border and beyond. For instance, Houston boasts some of the best Vietnamese food you'll ever taste. However, one influence I hadn't anticipated in Texas BBQ was that of Egypt. This unexpected fusion might seem odd at first, but it's truly harmonious once you experience it.
+Bon Appétit delves into this in detail:
+[KG BBQ](https://substack.com/redirect/1c025b4c-ccc6-4c5a-9c0e-9762a37339f8?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) was founded by Kareem El-Ghayesh, a former corporate finance executive from Cairo who pursued his passion for BBQ all the way to Texas.
+Here's a captivating backstory, as narrated by Texas Monthly:
+[El-Ghayesh] purchased the Franklin Barbecue cookbook and began hunting for a smoker. His best find was a Weber Kettle grill at the upscale Gourmet Egypt. At the meat counter, when he asked for a brisket, the staff, unfamiliar with the cut, seemed puzzled. They called over their head butcher, Ahmed Elgazaar (whose last name aptly translates to “the butcher”). Elgazaar not only provided the brisket but, intrigued by El-Ghayesh's intent to replicate Texas barbecue, became his regular supplier in Cairo.
+El-Ghayesh started his barbecue experiments on that grill. However, the Egyptian beef, much leaner than its American counterpart, presented challenges. It's typically sold incredibly fresh — within five days of slaughter. In contrast, it's not uncommon in the U.S. to smoke brisket that's been wet-aged in its Cryovac packaging for several weeks. To replicate this aging process, El-Ghayesh employed a vacuum sealer for his home refrigerator and even dabbled with dry-aging. Confident in his skills, he launched a supper club in Cairo in March of 2015, which ran every Saturday for six months. This venture had El-Ghayesh seriously contemplating a career change.
+His journey since those initial experiments, including time spent at an Austin culinary school and working in Texas hospitality, has been remarkable. Today, the food he produces is not only unique and authentic but also utterly delectable. While he offers some classic favorites, many dishes are enhanced with seasonings and touches from his home.
+This description [captures the essence:](https://substack.com/redirect/a8d4589f-6a72-4ebb-8714-d0a09c5d0ce0?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+The fusion of flavors is evident in the pork ribs. They're generously seasoned with a house rub comprising coriander, oregano, fenugreek, salt, and black pepper. Before serving, they're glazed with pomegranate molasses and given a final sprinkle of za’atar. The result? Imagine a smoked Texas sparerib and a Memphis dry-rub rib uniting in an Egyptian spice bazaar.
+Echoing the fame of Franklin BBQ, the challenge now lies in securing a spot in line as KG BBQ gains global recognition. (CJN)
+—
+Thanks for reading,
+Noah (NRB) & Colin (CJN)
+—
+[Why is this interesting?](https://substack.com/redirect/70398dda-119f-4dbc-b970-97629d97efb7?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) is a daily email from[ Noah Brier](https://substack.com/redirect/c8a161f6-07a5-4eb2-be26-c42b693c1ecd?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) &[ Colin Nagy](https://substack.com/redirect/cfefde23-c8ef-43a6-98cf-133bd97f1379?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) (and friends!) about interesting things. If you’ve enjoyed this edition, please consider forwarding it to a friend. If you’re reading it for the first time, consider[ subscribing](https://substack.com/redirect/db442f65-24a7-454a-ade8-3039744570ff?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o).

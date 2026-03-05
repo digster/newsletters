@@ -1,0 +1,43 @@
+---
+subject: "Long and Short: Bhavish Aggarwal and the death of the ‘boring’ Indian CEO"
+from: "The Ken <info@the-ken.com>"
+to: ""
+date: 2024-10-09 01:32:08
+labels: ["CATEGORY_PERSONAL", "INBOX", "The Ken", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_8244464457792971031", "UNREAD"]
+---
+|
+|
+Long and Short
+Wed, 09 Oct 24
+The story behind the numbers and motivations driving India's stock market..
+Good Morning Ishan,
+The one job I wouldn’t do, even if you paid me a million dollars, is handling Ola Electric’s public relations right now.
+Irate customers taking to social media in droves and even torching a showroom run by the electric-two-wheeler maker is awful enough. Then, the chief executive decides to twist the knife with his own posts on X, formerly Twitter.
+On Sunday, Kunal Kamra, the stand-up comic who never met a spat he didn’t relish, called attention to Ola customers’ mounting service-related complaints. Bhavish Aggarwal, Ola’s founder-CEO who’s quick to bristle at any criticism, slammed Kamra for his “paid tweet” and referred to his “failed comedy career”.
+The argument quickly devolved into a slanging match. It may have been a source of mirth for onlookers, but Ola investors paid the price the next day. Over Rs 3,600 crore (US$429 million)—or 8%—was lopped off the company’s market cap. The stock recouped some of the losses on Tuesday, but it’s still down nearly 40% from its post-listing peak in August.
+The past few months have been rough for Ola. The undisputed leader of India’s fledgling electric-two-wheeler market once, Ola has seen its market share quickly erode.
+Much like Elon Musk, whom he has taken a [dig](https://www.businesstoday.in/technology/news/story/elon-musk-should-try-something-new-ola-ceo-bhavish-aggarwal-takes-a-dig-at-the-tech-billionaire-442293-2024-08-20) at, Aggarwal doesn’t care for corporate etiquette that expects CEOs, especially those of listed companies, to be mind-numbingly boring in their public statements if it means avoiding an unnecessary row.
+Reading an interview with an Indian CEO can often be like watching paint dry. Forget being critical of the government or a regulator or espousing a contentious cause; they refrain from naming competitors, too, even if it’s to compliment them.
+This is partly, and unfortunately, a function of what journalists deem acceptable. When Thierry Delaporte, a former CEO of IT-services company Wipro, was asked about its retention strategy at a press conference in 2022, he said: “The team has done an incredible job. Maybe in the past, we [Wipro] never paid enough attention or spent enough time to explain [to our employees] in which way we are different.”
+Perfectly innocuous, right? But a financial newspaper [termed](https://www.livemint.com/industry/infotech/the-avoidable-spectacle-of-ceos-taking-a-jibe-at-the-previous-management-11658976067621.html) the remark a “slip-up”, and a “bizarre” one at that, simply because something like this doesn’t happen often enough. Contrast this with [Howard Schultz](https://www.wsj.com/business/hospitality/howard-schultz-urges-starbucks-to-fix-its-u-s-business-c3652d85) and [Bob Iger’s](https://variety.com/2023/film/news/bob-iger-criticizes-chapek-disappointed-in-what-i-was-seeing-1235813338/) disapproval of their respective successors (and, in Iger’s case, also his predecessor) at Starbucks and Disney.
+Then, there is Salesforce’s Marc Benioff, who [made light](https://www.businessinsider.in/tech/news/marc-benioff-dismisses-microsofts-copilot-ai-as-the-next-clippy/articleshow/113581104.cms) of Microsoft Copilot AI and called it the new “Microsoft Clippy”.
+It’s not that India’s corporate world was devoid of such characters until now. [This](https://www.livemint.com/companies/people/rajiv-bajaj-takes-dig-at-rivals-for-trying-to-create-evs-out-of-thin-air-11571237155455.html) is Rajiv Bajaj, managing director of the eponymous two-wheeler company, in 2019:
+“I have been in meetings where manufacturers who have failed in IC (internal combustion) engines want to change the world with electric vehicles. And then there are existing two-wheeler makers who, when it comes to making EVs, invest in South-based companies—as if it is the job of someone else to make EVs for them,” Bajaj said.
+So, when all these people talk about future, he said, “I prefer to start with our past that we are not a battery or steel maker, we are not a failed two-wheeler company and we are not a venture capitalist company who fund someone else to manufacture for us, we are engineers who do our own work”.
+But the likes of Bajaj have been exceptions that prove the rule. That’s beginning to change thanks to CEOs of tech companies, several of which have listed since 2021. Under Deepinder Goyal, Zomato was brave enough to experiment with the idea of not doing the customary quarterly earnings call with analysts before giving in. And he has no qualms about setting the cat among the pigeons. A few days ago, he [said](https://economictimes.indiatimes.com/tech/startups/swiggy-sponsored-shark-tank-and-kicked-me-out-zomatos-goyal/videoshow/114016035.cms?from=mdr) Zomato’s rival Swiggy—which is set to join it on the bourses—sponsored the latest season of Shark Tank India and kicked him out as a judge.
+The fact that these founders are increasingly candid, even where it concerns their companies, is remarkable. Vijay Shekhar Sharma of Paytm* [regretted](https://www.cnbctv18.com/market/vijay-shekhar-sharmas-biggest-regret-we-chose-the-wrong-bankers-for-paytm-ipo-19483752.htm) not choosing the right investment bankers for its initial public offering. But none of his peers are quite as unrestrained as Aggarwal. From [sparring](https://www.autocarpro.in/news/ola-ceo-bhavish-aggarwal-challenges-rajiv-bajaj-to-live-debate--121410) with Bajaj to [endorsing](https://www.business-standard.com/india-news/ola-ceo-endorses-70-hour-work-week-top-neurologist-warns-of-severe-illness-124071200686_1.html) a 70-hour workweek, he has been predictably unpredictable.
+But there are many who make a case for leadership that’s closely tied to drabness:
+Sometimes when I name them as my most admired CEOs, people call them dull and stuffy. But they do several things that help their companies thrive.
+First, they emphasize products over personalities.
+They believe their company’s products and their value to customers should be the stars of the story, not the lifestyle choices, gaffes or tweets of C-suiters. Even when top executives act as spokespeople for the company, rolling out new products and services on stage at big events, there is value in emphasizing the personality of the products rather than the executive.
+The Case for Having a Boring CEO, [The Wall Street Journal](https://www.wsj.com/articles/the-case-for-having-a-boring-ceo-11675972994)
+Interestingly, Zomato and Ola Electric have gone public at a time when a new class of retail investors is entering the stock market. These individuals may not pay close attention to a company’s price-to-earnings ratio or its return on equity. They want to put their money on a company simply because they’re users, or even fans, of its products. Food delivery or electric scooters are more familiar to them than aluminium or pharmaceuticals.
+What’s more, they see the companies as an extension of their founders, whom they’re willing to accept, warts and all.
+But most CEOs, especially those who are hired to run a company instead of earning that position by dint of being an entrepreneur, will find little value in being blunt, as The Economist rightly [observed](https://www.economist.com/business/2021/02/27/when-executives-misspeak):
+Executives who depart from blandness to express an opinion put their careers at risk. They enjoy little upside and risk plenty of downside. If the executive is the founder, or the business is well-run, they may be spared. It helps if you apologise quickly. John Mackey, chief executive of Whole Foods, an American grocer, dubbed Barack Obama’s health-care reforms “fascist” in 2013 but quickly said he regretted his remarks. He is still in his job.
+That’s a wrap for this week. Please write to longandshort[@the-ken.com](mailto:tradetricks@the-ken.com) with your thoughts or leave a comment on our onsite edition.
+Best,
+Seetharaman
+*Paytm founder Vijay Shekhar Sharma is an investor in The Ken.
+[Got a tip? If you have a lead for a great story that The Ken can pursue, please send it to tips@the-ken.com or share it through [this form](https://theken.typeform.com/got-a-tip). To find out more about how to do this securely, read our [blog post](https://the-ken.com/blog/help-the-ken-tell-the-next-big-story/) about sharing tips with The Ken.]

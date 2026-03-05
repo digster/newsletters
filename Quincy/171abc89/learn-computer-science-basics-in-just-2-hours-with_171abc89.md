@@ -1,0 +1,32 @@
+---
+subject: "Learn Computer Science Basics in Just 2 Hours With This Free Course"
+from: "Quincy Larson <quincy@freecodecamp.org>"
+to: ""
+date: 2020-04-24 10:43:00
+labels: ["CATEGORY_PERSONAL", "INBOX", "Quincy"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_7697778124671848699"]
+---
+Here are this week's five links that are worth your time:
+
+1. Learn the basics of programming and computer science with this beginner-friendly free course. You'll learn concepts like variables, functions, data structures, recursion, and more. (2 hour watch): https://www.freecodecamp.org/news/introduction-to-computer-programming-and-computer-science-course/
+
+2. How Braedon went from working in sales to working as a software developer. He looks back on the 16 months he spent learning to code at home after work, and the first 2 years in his new job as a professional web developer. (10 minute read): https://www.freecodecamp.org/news/how-i-went-from-sales-to-frontend-developer-in-16-months/
+
+3. Permutation and Combination are two math concepts that are really important for programming. And you can learn how to use both of these without much pre-existing math knowledge. Here's how. (8 minute read): https://www.freecodecamp.org/news/permutation-and-combination-the-difference-explained-with-formula-examples/
+
+4. Learn how to create your own WordPress theme from scratch. This course includes a full codebase, along with some sleek UI designs. (3 hour watch): https://www.freecodecamp.org/news/learn-how-to-create-your-own-wordpress-theme-from-scratch/
+
+5. How to build an auto-updating Excel spreadsheet with stock market data using Python, AWS, and the API for the IEX stock exchange. (22 minute read): https://www.freecodecamp.org/news/auto-updating-excel-python-aws/
+
+
+Quote of the Week: “Unless in communicating with a computer one says exactly what one means, trouble is bound to result.” – Alan Turing
+
+
+Happy coding.
+
+- Quincy Larson
+
+Teacher at freeCodeCamp.org
+
+
+If these emails aren't worth your time, you can turn them off: https://www.freecodecamp.org/ue/eZV2T3gHC7IGcwcpYPG64

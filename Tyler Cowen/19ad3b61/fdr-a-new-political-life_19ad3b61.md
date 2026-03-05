@@ -1,0 +1,12 @@
+---
+subject: "*FDR: A New Political Life*"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2025-11-30 07:41:56
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+[From historian David T. Beito](http://marginalrevolution.com?action=user_content_redirect&uuid=016385a028f89b705f3356a137456859dc6efc2ecbdc5a417f254e6d4fa489e2&blog_id=42693868&post_id=91944&user_id=262258391&subs_id=225460721&signature=7c73c1224f81f37080c1a70255fce3f9&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9GRFItUG9saXRpY2FsLURhdmlkLVQtQmVpdG8vZHAvMTYzNzcwMDY5NS9yZWY9c3JfMV8xP2NyaWQ9M01JNEM1NzhBTldBRyZkaWI9ZXlKMklqb2lNU0o5Lk01ZHJrZVc1VjJzSE1iWlBKb0VXWm02bjRwT3g4bzJhbkl6Mjl3YlE5eTVzbF9fWDBzcHpVYlB2alMwcS1fY09jSmM2cmt0dGhjOTlBSE0yZ2c2WjdKTDA5cU82VEUzMllyUUxNbmRKN1poblZuNnFELTVrcFFwY1VTLVFQOWppbHVmR1RqbE5YcktqakdEZnllVXNCelppckthbTVMSk9EMVhRcjBsWmlYYy5kd2pjVHdmZDdtRU1PeUUzMXlVRDg2bHhtVWx5MEFhbTFkd0ZsSTh5Y1FNJmRpYl90YWc9c2Uma2V5d29yZHM9ZGF2aWQrdC4rYmVpdG8mcWlkPTE3NjQyNDQwOTUmc3ByZWZpeD1kYXZpZCt0LitiZWl0byUyQ2FwcyUyQzExNCZzcj04LTE&email_id=0ce31d6bf874a120b07a89ed2712fc89), here is one excerpt:
+FDR gave unquestioning support to President Wilson's crackdown on free speech during World War I, including his enforcement of the Sedition and Espionage Acts. According to Kenneth S. Davis, Roosevelt "went along with prevailing trends in the realm of the national spirit, uninhibited by any strong ideological commitment to the Bill of Rights." After reading about the conviction of the publisher of an antiwar socialist pamphlet, for example, he sent a congratulatory letter to the federal prosecutor...
+There is much more here than just the standard market-oriented "Roosevelt had bad economic policies" line, and the more left-leaning critique of Roosevelt on segregation and the southern coalition. For instance, Roosevelt supported policies that required the telegram companies to keep copies of all telegrams sent, and he used the FCC licensing process to help keep radio in his corner politically.
+There is more. It can be said that this book offers a very negative view of FDR.

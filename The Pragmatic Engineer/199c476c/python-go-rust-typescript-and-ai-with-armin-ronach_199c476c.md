@@ -1,0 +1,77 @@
+---
+subject: "Python, Go, Rust, TypeScript and AI with Armin Ronacher"
+from: "The Pragmatic Engineer <pragmaticengineer@substack.com>"
+to: ""
+date: 2025-10-08 15:34:26
+labels: ["CATEGORY_PERSONAL", "INBOX", "The Pragmatic Engineer", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_6413324878686416177", "UNREAD"]
+---
+|
+Listen and watch now on [YouTube](https://substack.com/redirect/1084e1f4-3311-44af-a637-67169b5f474e?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o), [Spotify](https://substack.com/redirect/9cd6ec51-dbc0-4543-9a65-e4d9c8ce8938?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o), and [Apple](https://substack.com/redirect/f73362b1-67f6-4d9e-9ae9-0ad97c77bd32?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o). See the episode transcript at the top of this page, and timestamps for the episode at the bottom.
+• [Statsig](https://substack.com/redirect/a9178936-2a5e-4648-abb0-3be80b773e3e?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) — The unified platform for flags, analytics, experiments, and more. Most teams end up in this situation: ship a feature to 10% of users, wait a week, check three different tools, try to correlate the data, and you’re still unsure if it worked. The problem is that each tool has its own user identification and segmentation logic. Statsig solved this problem by building everything within a unified platform. [Check out Statsig.](https://substack.com/redirect/a9178936-2a5e-4648-abb0-3be80b773e3e?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+• [Linear](https://substack.com/redirect/4dd979c3-68ad-4ca3-9e1a-1a9004abd5fd?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) – The system for modern product development. In the episode, Armin talks about how he uses an army of “AI interns” at his startup. With Linear, you can easily do the same: Linear’s Cursor integration lets you add Cursor as an agent to your workspace. This agent then works alongside you and your team to make code changes or answer questions. You’ve got to try it out: [give Linear a spin](https://substack.com/redirect/4dd979c3-68ad-4ca3-9e1a-1a9004abd5fd?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) and see how it integrates with Cursor.
+—
+For an AI startup today, what language would be the best choice: Python, TypeScript, Go or Rust?
+[Armin Ronacher](https://substack.com/redirect/3381f9e8-0aa7-46aa-89f0-d381ba840b56?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) is the creator of the Flask framework for Python, was one of the first engineers hired at Sentry, and now the co-founder of a new startup. He has spent his career thinking deeply about how tools shape the way we build software.
+In this episode of The Pragmatic Engineer Podcast, he joins me to talk about how programming languages compare, why Rust may not be ideal for early-stage startups, and how AI tools are transforming the way engineers work. Armin shares his view on what continues to make certain languages worth learning, and how agentic coding is driving people to work more, sometimes to their own detriment.
+We also discuss:
+Why the Python 2 to 3 migration was more challenging than expected
+How Python, Go, Rust, and TypeScript stack up for different kinds of work
+How AI tools are changing the need for unified codebases
+What Armin learned about error handling from his time at Sentry
+And much more
+Jump to interesting parts:
+[06:53](https://substack.com/redirect/7e0f75d3-c1ce-411e-b2ab-e81009249f0a?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o). — How Python, Go, and Rust stack up and when to use each one[30:08](https://substack.com/redirect/03c6f0c2-f9a7-4085-98f1-916a55ab724b?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)— Why Armin has changed his mind about AI tools[50:32](https://substack.com/redirect/4ca02dd8-e5cc-4d0e-bf0f-e15dcdd69b32?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)— How important are language choices from an error-handling perspective?
+On how Armin uses AI tools ([at 28:05](https://substack.com/redirect/f45534a5-5250-431a-9060-ca7c77f4c0f9?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o))
+“Over the years, many of my projects didn’t go anywhere because the legwork needed to build this bespoke tooling to be able to pull this project off was too much.
+One of the big changes I’m noticing for myself is that I have so many better tools around now. For example, I moved from Terraform to Pulumi for one of the services just to see how that goes. I had Claude build me a perfect control system to get my logs and visualize what’s going on in production. I would never have done this before [Claude Code] just because it wouldn’t have worked.”
+Why Armin wants to hire more engineers at his startup, despite using an “army of AI interns” until now ([at 33:48](https://substack.com/redirect/316a4e6c-2442-4940-8b67-bd6eb7fed48a?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o):)
+Now there’s an argument to be made that maybe systems like Claude will help you, and maybe you can even bootstrap a startup around it. But if you fully delegate everything that you’re doing to a machine, then the person who doesn’t do that has an edge on you.
+This is one of the reasons I want to hire more people now. It’s just because Claude is not a human. There’s energy to a well-running company and to motivated people that just a computer can’t replace. So a big part that sticks with you as an engineer is understanding how to create your systems, and understanding when the code it produces is more right versus more wrong. I don’t think much of this has changed [since AI].
+Why Armin doesn’t believe strongly typed languages like TypeScript meaningfully reduce errors — based on his experience observing this at Sentry ([at 52:42](https://substack.com/redirect/48156511-3011-49f3-b7a0-94bf10186eb1?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o):)
+There was a large-scale realization in JavaScript ecosystem that type checkers could get rid of a whole class of errors, because at the very least you have to explicitly check if this thing is nullable or not.
+I never got the feeling that the adoption of TypeScript dramatically changed anything about JavaScript error rates. None of that adoption had any meaningful impact. If there was an impact, it’s immeasurable.
+I remember that the adoption of more and more complex things in the React ecosystem has just dramatically increased the types of errors. For example, hydration errors were not a thing for many years. And then all of sudden, there’s a whole class of new errors coming in because of this [because of the wider adoption of React.]
+([00:00](https://substack.com/redirect/53e37e3c-11e8-4959-8174-8e792e59818e?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) Intro
+([01:34](https://substack.com/redirect/de10d5ba-80dc-4ed2-951a-32223f07bd64?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) Why the Python 2 to 3 migration created so many challenges
+([06:53](https://substack.com/redirect/7e0f75d3-c1ce-411e-b2ab-e81009249f0a?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) How Python, Go, and Rust stack up and when to use each one
+([08:35](https://substack.com/redirect/3d498991-eb8b-438a-a873-c835157d1b0a?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) The friction points that make Rust a bad fit for startups
+([12:28](https://substack.com/redirect/9edbb9f9-c7f0-4802-a435-bc6ac6d48e90?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) How Armin thinks about choosing a language for building a startup
+([22:33](https://substack.com/redirect/cfab6aa4-05a2-401f-9bd5-5bbba735a73b?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) How AI is impacting the need for unified code bases
+([24:19](https://substack.com/redirect/b8d7dd0b-5cf5-4a0a-ba65-04c34b23f8b4?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) The use cases where AI coding tools excel
+([30:08](https://substack.com/redirect/03c6f0c2-f9a7-4085-98f1-916a55ab724b?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) Why Armin has changed his mind about AI tools
+([38:04](https://substack.com/redirect/2f8e71f2-3e12-4784-8ab1-753be1a29d3d?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) Why different programming languages still matter but may not in an AI-driven future
+([42:13](https://substack.com/redirect/b9ec19d0-55be-4e84-bcb0-dc9b50a9268a?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) Why agentic coding is driving people to work more and why that’s not always good
+([47:41](https://substack.com/redirect/9b2cb2e5-d0f8-4e37-aa61-ef8872cd05c8?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) Armin’s error-handling takeaways from working at Sentry
+([50:32](https://substack.com/redirect/4ca02dd8-e5cc-4d0e-bf0f-e15dcdd69b32?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) How important is language choice from an error-handling perspective
+([56:02](https://substack.com/redirect/470a8fd7-6eda-44b8-82e8-b646078b9399?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) Why the current SDLC still doesn’t prioritize error handling
+([1:04:18](https://substack.com/redirect/2abfdcd8-927b-4346-8dcd-8cb5e43ca88b?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) The challenges language designers face
+([1:05:40](https://substack.com/redirect/9499f9fe-9317-44db-9464-0d185ba19397?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) What Armin learned from working in startups and who thrives in that environment
+([1:11:39](https://substack.com/redirect/0ba8b1be-9b6b-4e0d-8faf-6ea570415bc2?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) Rapid fire round
+Where to find Armin Ronacher:
+• LinkedIn: [https://www.linkedin.com/in/arminronacher/](https://substack.com/redirect/3381f9e8-0aa7-46aa-89f0-d381ba840b56?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+• Website: [https://mitsuhiko.at/](https://substack.com/redirect/384817a3-c357-4bc6-82ad-0676d59f857d?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+• Blog: [https://lucumr.poco](https://substack.com/redirect/f7a68447-8c0d-4876-832b-df1d8e1dfc1f?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+Mentions during the episode:
+• Flask: [https://flask.palletsprojects.com/en/stable/](https://substack.com/redirect/f9aefc1f-3a03-4144-a407-41c39a83dc64?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+• Sentry: [https://sentry.io/](https://substack.com/redirect/b4e1f738-c608-498d-9d85-d4d696aa748c?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+• Python: The Documentary:
+• Rust: [https://www.rust-lang.org/](https://substack.com/redirect/fb2a2e3f-f1d2-4f6f-9e31-4774b06512af?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+• Go: [https://go.dev/](https://substack.com/redirect/2a2ad45b-be90-4b0d-8a4d-959c94da7bf5?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+• WebAssembly: [https://webassembly.org/](https://substack.com/redirect/9fb769f9-e6aa-4ed8-a14f-41d0bbde3c11?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+• JavaScript: [https://en.wikipedia.org/wiki/JavaScript](https://substack.com/redirect/be557f0a-e4a1-4b73-aa6b-511a0a60e935?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+• TypeScript: [https://www.typescriptlang.org/](https://substack.com/redirect/acbed86c-878d-4d67-a3ee-d256cec51e06?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+• React: [https://react.dev/](https://substack.com/redirect/903a7c9b-8001-45be-b4b3-86179fe933cf?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+• Claude Code: [https://www.claude.com/product/claude-code](https://substack.com/redirect/2ac0a0b1-93e3-4d28-a160-8dff6e530eed?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+• CodeX: [https://openai.com/codex/](https://substack.com/redirect/a386a602-a562-41cd-9e4a-e5884f07b350?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+• 996: [https://lucumr.pocoo.org/2025/9/4/996/](https://substack.com/redirect/c0775265-a40b-433a-a19d-b39fc45ec2b0?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+• Peter Steinberger on LinkedIn: [https://www.linkedin.com/in/steipete/](https://substack.com/redirect/52240c3a-2992-4237-9e72-6e5aeb9b155d?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+• Ron Pressler: [https://inside.java/u/RonPressler/](https://substack.com/redirect/cde4a08b-a440-492f-be5a-de7b12a12b6b?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+• Debian: [https://www.debian.org/](https://substack.com/redirect/8db1d081-bf89-453c-90a1-f3c0ded6ad76?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+• Red Hat: [https://www.redhat.com/](https://substack.com/redirect/c4666845-f446-4f6b-a768-d472ff5dc841?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+—
+Production and marketing by [Pen Name](https://substack.com/redirect/35614622-be35-44fe-a6e4-27f3dae18db3?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o).
+You’re on the free list for [The Pragmatic Engineer](https://substack.com/redirect/2/eyJlIjoiaHR0cHM6Ly9uZXdzbGV0dGVyLnByYWdtYXRpY2VuZ2luZWVyLmNvbT91dG1fY2FtcGFpZ249ZW1haWwtaG9tZSZyPThvNTRuIiwicCI6MTc1NDYxMjA2LCJzIjo0NTg3MDksImYiOnRydWUsInUiOjE0NTYzMzE5LCJpYXQiOjE3NTk5Mzc3NDAsImV4cCI6MjA3NTUxMzc0MCwiaXNzIjoicHViLTAiLCJzdWIiOiJsaW5rLXJlZGlyZWN0In0.Nlvg5xDEnhRQK94P6uhHHgvXTjLVJmjC1v_-8u4AvEA?). For the full experience, [become a paying subscriber](https://substack.com/redirect/2/eyJlIjoiaHR0cHM6Ly9uZXdzbGV0dGVyLnByYWdtYXRpY2VuZ2luZWVyLmNvbS9zdWJzY3JpYmU_dXRtX3NvdXJjZT1wb3N0JnV0bV9jYW1wYWlnbj1lbWFpbC1jaGVja291dCZuZXh0PWh0dHBzJTNBJTJGJTJGbmV3c2xldHRlci5wcmFnbWF0aWNlbmdpbmVlci5jb20lMkZwJTJGcHl0aG9uLWdvLXJ1c3QtdHlwZXNjcmlwdC1hbmQtYWkmcj04bzU0biZ0b2tlbj1leUoxYzJWeVgybGtJam94TkRVMk16TXhPU3dpYVdGMElqb3hOelU1T1RNM056UXdMQ0psZUhBaU9qRTNOakkxTWprM05EQXNJbWx6Y3lJNkluQjFZaTAwTlRnM01Ea2lMQ0p6ZFdJaU9pSmphR1ZqYTI5MWRDSjkuSkp5YmRwb0FYRDB3ZU03X1hmT1R0SThoNW84TVg2WmVoSFpwSE1LWV9fWSIsInAiOjE3NTQ2MTIwNiwicyI6NDU4NzA5LCJmIjp0cnVlLCJ1IjoxNDU2MzMxOSwiaWF0IjoxNzU5OTM3NzQwLCJleHAiOjIwNzU1MTM3NDAsImlzcyI6InB1Yi0wIiwic3ViIjoibGluay1yZWRpcmVjdCJ9.IEw9W8Nc77uYOXFT87a5OaDeIHZzzWcwz6tgEwFA8Uk?). Many readers expense this newsletter within their company’s training/learning/development budget. If you have such a budget, here’s[ an email you could send to your manager](https://substack.com/redirect/22a4dc92-2ae1-4fc6-a79b-ba775422e1ef?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o).
+This post is public, so feel free to share and forward it.
+If you enjoyed this post, you might enjoy my book, [The Software Engineer's Guidebook](https://substack.com/redirect/33f517db-c51f-4c67-baa6-326e33e4d54d?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o). Here is what Tanya Reilly, senior principal engineer and author of The Staff Engineer's Path said about it:
+"From performance reviews to P95 latency, from team dynamics to testing, Gergely demystifies all aspects of a software career. This book is well named: it really does feel like the missing guidebook for the whole industry."

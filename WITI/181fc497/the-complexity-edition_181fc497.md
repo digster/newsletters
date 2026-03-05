@@ -1,0 +1,23 @@
+---
+subject: "The Complexity Edition"
+from: "\"Why is this interesting?\" <whyisthisinteresting@substack.com>"
+to: ""
+date: 2022-07-14 10:33:13
+labels: ["CATEGORY_PERSONAL", "INBOX", "UNREAD", "WITI"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "UNREAD", "Label_5752899537867939131"]
+---
+Noah here. There’s a quote from Michael Lewis’ [Flash Boys](https://substack.com/redirect/f0be6a43-fd25-4a59-8459-39fd94d528bc?u=14563319) about complexity that I’ve always loved: “People think that complex is an advanced state of complicated … It’s not. A car key is simple. A car is complicated. A car in traffic is complex.” It’s the simplest explanation of complexity I’ve ever read and one I’ve repeated quite a few times over the years.
+Why is this interesting?
+Defining complexity is hard. It’s got a bit of “you know it when you see it” vibes. The [mathematician Stephen Wolfram prefers the intuitive approach](https://substack.com/redirect/881b9885-fe3a-4733-9093-e60cf5089d35?u=14563319)—“things seem complex if we don't have a simple way to describe them”—while the physicist Leonard Susskind goes with a more scientific answer, describing complexity as [a measure of “how hard it is to reverse something.”](https://substack.com/redirect/eca4416e-f684-4c11-8ca9-04f2385dc2ae?u=14563319) [Melanie Mitchell](https://substack.com/redirect/d709817f-e07d-4d4a-b0cc-bdefc4c49e65?u=14563319), a professor of complexity at the Santa Fe Institute and author of the excellent [Complexity: A Guided Tour](https://substack.com/redirect/411c92f0-1d54-4cc7-8eda-6792c2d45810?u=14563319) positions the definition within the broader field:
+Such questions are the topics of complex systems, an interdisciplinary field of research that seeks to explain how large numbers of relatively simple entities organize themselves, without the benefit of any central controller, into a collective whole that creates patterns, uses information, and, in some cases, evolves and learns. The word complex comes from the Latin root plectere: to weave, entwine. In complex systems, many simple parts are irreducibly entwined, and the field of complexity is itself an entwining of many different fields.
+Beyond the definitions, science, and patterns that emerge, the field of complexity fascinates me because of how it has captured the imagination and interest of some of the world’s smartest people. The Santa Fe Institute, which focuses on complexity science, is full of amazing thinkers like Mitchell, [David Krakauer](https://substack.com/redirect/cd96dbae-f728-4a28-a02d-a7babd5bc820?u=14563319), [Geoffrey West](https://substack.com/redirect/c5a97fb6-0b0a-45b9-a8a9-2f942d7f3ef3?u=14563319), and [Jessica Flack](https://substack.com/redirect/f26d755c-fa7b-404c-bfe4-10e0f141a84b?u=14563319) amongst others. They’re trying to find a throughline between complex systems like traffic, the stock market, and the ecology of a rainforest. “Complexity science,” [the SFI website explains](https://substack.com/redirect/dce46b28-f924-49be-bf08-c240019f9014?u=14563319), “attempts to find common mechanisms that lead to complexity in nominally distinct physical, biological, social, and technological systems.”
+There’s a magic in the way these simple rules can lead to such fascinating outcomes, and, as the science continues to develop, we likely have lots to learn about the world around us from the systems that function this way. (NRB)
+Quick Links:
+WITI x McKinsey:
+An ongoing partnership where we highlight interesting McKinsey research, writing, and data.
+Europe’s digital consumer: Digital trends show big gains and new opportunities. As consumers, businesses, and governments deal with increasing uncertainties, a strong focus on digital will help companies become more resilient, improve efficiency, and enhance decision making. McKinsey’s Digital Sentiment Survey in Europe highlights[ 9 digital trends.](https://substack.com/redirect/11ee7fb7-a294-415d-97cd-b7b0fb9f8df1?u=14563319)
+—
+Thanks for reading,
+Noah (NRB) & Colin (CJN)
+—
+[Why is this interesting?](https://substack.com/redirect/0347c462-acd6-402b-8194-fc6057ccaf49?u=14563319) is a daily email from [Noah Brier](https://substack.com/redirect/f649948c-3b0b-47e6-9beb-ec01036f8e17?u=14563319) &[ Colin Nagy](https://substack.com/redirect/4b309b41-10c3-448e-9759-2e513b875a99?u=14563319) (and friends!) about interesting things. If you’ve enjoyed this edition, please consider forwarding it to a friend. If you’re reading it for the first time, consider[ subscribing](https://substack.com/redirect/461ed19b-f83b-485e-b2e9-655d8bb14b7c?u=14563319) (it’s free!).

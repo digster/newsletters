@@ -1,0 +1,28 @@
+---
+subject: "Should we just give cash to the homeless?"
+from: "Brian Klaas <brianklaas@substack.com>"
+to: ""
+date: 2025-10-09 10:13:23
+labels: ["Brian Klaas", "CATEGORY_PERSONAL", "INBOX", "UNREAD"]
+label_ids: ["Label_1599487573263287548", "CATEGORY_PERSONAL", "INBOX", "UNREAD"]
+---
+|
+What would happen if evidence-based solutions to tackle the scourge of homelessness were separated from the moralizing condemnation of society?
+That’s a question being explored by an admirable charity, Greater Change, which may have unlocked a scalable strategy for reducing homelessness, alleviating avoidable misery, and saving money all at once. But it requires a paradigm shift—and a departure from historic attitudes.
+In 1860, Charles Dickens, unable to sleep, went for a nighttime wander through the streets of Victorian London. He trudged through sprawling human despair, endless pools of what he called “houselessness,” teeming with “Vice and Misfortune of all kinds,” walking tragedies that remained out of sight in the darkness.
+Dickens, who had written Oliver Twist in response to the callous Poor Laws of 1834, predominantly recognized damaged humanity in those encounters. They were avoidable social tragedies, not depraved semi-human cancers to be excised.
+And yet, the history of destitution, poverty, and homelessness is predominantly a moralizing history, in which what Dickens called the “houseless wanderers” are seen to deserve their plight—and must be carefully tucked away from respectable society.
+Thomas Carlyle, best known for popularizing the Great Man theory of history, wrote in praise of harsh attitudes toward the poor: “If the lazy and improvident die of hunger, it is their own doing. The workhouse is mercy enough.” This perspective, which Dickens captures in Scrooge’s infamous remark (“Are there no prisons? Are there no workhouses?”) is the dominant conception of poverty throughout much of the post-Industrial era.
+During this period, London’s poor would try to gather four pennies per day for the luxurious privilege of [spending the night inside wooden coffins](https://substack.com/redirect/be03eeae-15a4-4b2a-8b65-30735b9ffe4e?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o), densely packed in endless rows. (This was superior to being able to partly lie down, supported by a rope, for two pennies, or sitting upright on a bench for one.)
+William Nassau Senior, an architect of the Poor Laws, saw poverty as laziness: “To give relief to able-bodied persons except in return for work is to offer a bounty on idleness and vice.” Such attitudes help explain disastrous government policies, such as the Irish “famine roads,” which were forged by those on the brink of starvation during a series of famines in the mid-nineteenth century. Many of them went literally nowhere, purposeless work aimed at extracting labor in exchange for miserly quantities of food, toil without meaning as a mechanism to “earn” one’s continued survival.
+More recently, Margaret Thatcher once implied that poverty was a “[personality defect](https://substack.com/redirect/29a7c51e-49e7-49d1-a4e3-904e15b24c2d?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o).”
+Offshoots of these attitudes persist. In modern America, [three-quarters of Republicans and just under half of Democrats](https://substack.com/redirect/dbd2ce16-7c7f-45f4-86e9-29754a171cfd?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) place a substantial share of the blame on homeless people themselves, saying that their own personal choices are a major factor.¹ Far fewer Republicans—below half—think that a lack of affordable housing is a major cause; even lower numbers chalk the problem up to structural social problems or faultless victimhood, such as domestic abuse, joblessness, or poor health.
+These divides—exacerbated by partisan identification—reveal a profoundly misguided view of what politics is for. In practice, politics works like this: rival partisans argue, without much reference to evidence, about what a social problem is caused by and who the good people and bad people are in their preferred narrative. Then, they adopt policies that reflect those prior beliefs, without much reference to evidence, arguing what will and will not work.
+Consider how we make laws. It’s bizarre. Most government policies remain based on hunches, what lawmakers say will work, rather than by testing various options to verify what works best. No experiments done, no evidence required.² We then vote for one conception of reality filtered through ideology, without much reference to evidence. Whoever wins gets a shot to play with people’s lives for four or five years, and then we do it all over again.
+Greater Change, a social start-up aiming to reduce homelessness in Britain, has adopted a simpler strategy: leave the moralizing gaze of pundits and preachers to the side and simply give homeless people—or those about to become homeless—the cash they need to escape its grip.
+This is, in many ways, the opposite of the dominant public view of homelessness: that giving struggling people cash will only feed the internal beast causing all the suffering, thereby worsening their already dire situation.
+But the question that Greater Change cares about isn’t about blame or who “deserves” what; instead, they are guided by answering just one question:
+Does giving cash to homeless people work?...
+Subscribe to The Garden of Forking Paths to keep reading this post and get 7 days of free access to the full post archives.
+| Subscriber-only posts and full archive | |
+| Post comments and join the community |

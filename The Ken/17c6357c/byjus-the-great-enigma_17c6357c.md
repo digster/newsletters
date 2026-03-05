@@ -1,0 +1,149 @@
+---
+subject: "Byju’s, the great enigma"
+from: "The Nutgraf <info@the-ken.com>"
+to: ""
+date: 2021-10-09 04:37:49
+labels: ["CATEGORY_PERSONAL", "IMPORTANT", "INBOX", "The Ken", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "IMPORTANT", "INBOX", "Label_8244464457792971031", "UNREAD"]
+---
+A paid 🔒 weekly emailer that explains fundamental shifts in business, technology and finance that happened over the last seven days in India. In a way you’ll never forget. Someone sent you this? [Sign up here](https://the-ken.com/the-nutgraf/?utm_source=su_bnr&utm_medium=email&utm_campaign=nf)
+|
+Good Morning Ishan,
+What a week it has been for us at The Ken.
+Before I get to today’s story, two quick announcements.
+|
+|
+|
+1. We have SEVEN new newsletters!
+I’ll admit, it’s a little scary to launch seven brand-new, weekly newsletters overnight. I hope you got a chance to read them. If you didn’t, just head over to our newsletters page and check them out [here](https://the-ken.com/newsletters/).
+But where there is fear, there is also hope.
+Everything we know about newsletters, we learnt by writing for subscribers like you, and listening to what you told us. This is what gave us the confidence to go from The Nutgraf, to Strait Up—our Southeast Asia edition newsletter, and to Beyond The First Order, our now-discontinued post-pandemic daily newsletter.
+And now we have seven more. With still more to follow.
+So before anything else, let me simply say—thank you.
+Thank you for reading us, for the feedback, and for making us believe we could take this bold step forward. All I ask is that you give all our young newsletters the room to make mistakes and grow, your unfiltered feedback, and some patience. I’m really optimistic about them, and I know that you’ll enjoy them just as much as you enjoy reading The Nutgraf.
+|
+|
+|
+2. Renew your subscription at 25% off!
+We launched two brand-new plans last week:
+Borderless - access to all of our stories from India and Southeast Asia.
+Echelon - our most exclusive subscription, with access to all our journalism and a bonus subscription.
+Over the next year, expect numerous new features and products to find their way into these plans. That’s our promise.
+Also, for the first time, you can renew your subscription at a flat 25% discount if you are an existing or renewing subscriber all through October. Those purchasing a new subscription won’t get this. It’s exclusive to subscribers only, just like our journalism.
+To access this discount, all you need to do is hit the Renew button on the top right corner of our website while logged in.
+If you don’t see it, that’s because you’re not due for renewal for at least a few more months. That’s okay because you can lock in that 25% discount for upgrading to any of our newer plans.
+To do this, just enter your email address [in this form](https://theken.typeform.com/to/MODds21V). It will take you just a second.
+We have some more exciting announcements coming your way over the next few weeks, and I can’t wait for you to see what we’ve been building, and how we intend to make The Ken the only business subscription you need.
+Now on to today’s story.
+Let’s dive in.
+|
+|
+|
+|
+|
+A few weeks ago, a story about the edtech company Byju's caught my attention. It appeared in the international edition of Forbes, and was an interview with the founders of Byju's, Byju Raveendran and Divya Gokulnath.
+Now interviews with founders of Indian companies happen all the time, but this felt different. Not because of the interview itself—which, like most interviews with founders, was boring, predictable, and awash with PR-approved talking points.
+The reason why this was interesting was because of the context of the interview. Byju's is making a big move to expand into the United States, and this story was the company’s attempt to introduce itself to millions of Americans, and to craft a compelling narrative around itself.
+And what a narrative it is.
+Rod Berger, the interviewer, takes pains to state that the purpose of the story is to understand Raveendran and Gokulnath better, and doesn’t seem too concerned with the company’s business model, or its practices. He specifically states that no subject was off-limits, and that the discussion covered several areas.
+Then he writes, “the real story lies in the make-up of these individuals. Their combined curiosity to provide greater educational opportunities for a wide population, some of which were missing out on traditional education, led them to look for unconventional methods”.
+Berger believes that India values early education because Indians are often finalists in the Scripps National Spelling Bee in the US. He asks the founders how they seem to be in lock-step and have a shared vision, and notes that they seem committed to the United States. He gently inquires if they fear that blind spots would “overpower (their) passion as a leader”. On one occasion, he says that he senses a great sense of humility from them.
+He concludes his [interview](https://www.forbes.com/sites/rodberger/2021/09/09/from-india-with-love-unconventional-approach-spells-success-for-byjus-us-market-strategy/?sh=7082b1ba2be1) with three breathtaking paragraphs.
+|
+The education industry spins press releases with great volume and energy, depicting a thriving, global market. News of staggering financials, student users and market penetration abound, but often the reader is left wondering more about the elusive “who” than the “what.”
+Divya and Byju might just well be the next iteration of Bill and Melinda Gates or Steve and Laurene Jobs. The history books will document their evolution from former student and teacher, respectively, to the highly influential power couple that propelled the world’s most valuable education technology company.
+One thing was abundantly clear from this reporter’s experience – Divya and Byju spell education with love, through diverse approaches and cultures, as individual leaders and ultimately as a partnership with a deep desire to impact generations of learners across the globe.
+Welcome to the U.S.
+|
+|
+From India With Love: Unconventional Approach Spells Success For BYJU’S U.S. Market Strategy. Forbes
+|
+|
+|
+Byju's is India’s most valuable startup, valued at $18 billion.
+It’s also the world’s most valuable edtech company.
+But if you ask me, it’s biggest achievement is neither of these.
+Byju’s is the only major startup from India that is eponymous. The name of the founder is plastered all over the company, right from the logo to its stationary. It’s prominently placed on jerseys of the Indian cricket team—one of the most prized real-estates in the world, visible to billions all over.
+And yet, for Forbes, it's the “who” that is elusive, and not the “what”.
+The reason why the interview is remarkable is because it gives us an understanding of not how Byju's views itself, but how others view Byju's.
+Byju’s biggest achievement is not its valuation, but about how it has managed to craft a narrative around itself, and by making everyone else complicit in its creation. There are remarkably few nuances in the mainstream narrative about Byju's. Relative to its power and influence, we know so little about the company. And what little we know seems to be what everyone knows and agrees with, and can’t stop talking about—in their own way. They simply refuse to see it any other way.
+This is truly remarkable, and I can’t think of another company of Byju's size that has managed to do this.
+The Byju's narrative
+The broad narrative of Byju's is that it’s a company that wants to solve the problem of education in India. It wants to do this by using technology—through tablets and apps through which it offers compelling and novel course material to millions of students, who are poorly served by an outdated school curriculum.
+To succeed in its mission for education, Byju's has been raising funding at an astonishing rate, which it has been using to acquire companies all around it...which it has been using to increase its valuation...to raise funding...to acquire companies—you get the picture.
+The origin story is compelling—the founder Byju's Raveendran does not come from a privileged background. He is self-taught, made a name for himself by teaching CAT (Common Aptitude Test) to students, and grew by word of mouth. He says all the right, but clichèd, soundbites about entrepreneurship, leadership, and about a mission for education, but reveals little else.
+This is why, if you look at the news, there are just three types of stories about Byju's:
+Story 1: Byju's is raising money. The focus is on the valuation amount.
+Story 2: Byju's is acquiring a company. The focus is on the acquisition amount.
+Story 3: Here is a profile or an interview of Byju Raveendran, who sounds sincere and amazing, and don’t we all want him to succeed?
+If you don’t believe me, here’s a screenshot of the stories tagged Byju’s at The Economic Times, India’s largest business newspaper. Take a look at the headlines.
+Notice how remarkably consistent they are.
+|
+|
+|
+|
+|
+This isn’t about The Economic Times, or about Forbes.
+We know very little about India’s most valuable startup’s leadership team other than its founder, or its culture and how it makes decisions, or about how it thinks about products, or sales, or marketing, or engineering, or anything else. There are no stories about any of this. There are no leaders from Byju's writing Twitter threads. There’s nobody with deep LinkedIn posts. People from the company rarely show up on popular podcasts, or tech events, or even give interviews.
+Byju's is a company that wants to keep it that way.
+And gets a lot of help to do that.
+Specifically, there are three aspects of Byju's which you’ll rarely see in the mainstream narrative. All three have been covered by my colleague, Olina, but you’ll probably not see it anywhere else.
+First is [its](https://the-ken.com/story/the-loan-crisis-at-byjus/) sales tactics. Byju's is a company that aggressively sells its products, and arguably even mis-sells, to parents of students—an upwardly mobile, middle-class population, many of whom are unaware that they are signing up for unsecured loans.
+Second is how it works with cybersecurity firms and platforms like LinkedIn and YouTube to [takedown](https://the-ken.com/story/byjus-silencing-of-online-dissent/) content that’s even mildly critical of itself. This has even led to at least one user being permanently banned from LinkedIn, for “defaming” Byju's.
+Third is its acquisitions.
+As my colleague Olina wrote a few months ago, this is how the Byju's playbook [works](https://the-ken.com/story/byjus-makes-offer-cant-refuse/).
+|
+Byju’s can scoop up relatively smaller companies at even 5X their topline since it is raising money at 10X, says the founder of an edtech company. This “valuation arbitrage” allows it to shell out hundreds of millions in all-cash deals. For part-cash, part-stock, or all-stock deals, the valuation allows Byju’s to get away with diluting a small fraction of its shareholding for incoming founders. Founders don’t mind; they know that Byju’s share value will likely only go up. Byju’s also gives them a wider canvas to play with, while not having to worry about a scarcity of funding. It’s a never-before opportunity to cash out quickly, and with unprecedented benefit.
+|
+|
+How world’s largest edtech Byju’s makes rivals an offer they can’t refuse, The Ken
+|
+|
+|
+There are many other aspects, like how Byju's ambitions in the United States have run into trouble, thanks to copyright issues with Disney, whom it has [signed](https://the-ken.com/story/byjus-disney-k3-app-stumbles/) on as a partner. Or about how it’s struggling to integrate all of its acquisitions together. Or how investors in the edtech space are cognizant of Byju's might, and are playing it safe by funding their own portfolio companies.
+|
+|
+|
+But all of these stories are not a part of the mainstream narrative of Byjus. The crazy part is that hardly anybody seems to want to tell that story. The ones who’ve done so have found their stories disappearing off the internet, often because Byju's has wanted them to go away.
+And the ones who tell stories about companies all seem to tell a remarkably similar story about Byju's.
+In this aspect, Byju's reminds me of a historical figure—Alexander the Great.
+We all know the dominant narrative of Alexander the Great. He’s a young prince from Macedonia, who took a small army and conquered the mighty Persian Empire, and went all the way across Asia—until he stopped at India. For centuries after Alexander’s incredible conquests, he was revered and seen as a hero, and the myth grew, and grew.
+If you read the historical account of Alexander, you’ll be surprised to see how incredibly detailed it is. There are accounts of the size of his army, how he deployed them and the way he moved his army across Persia, the wars he fought. There are records of what he said on the battlefield, the speeches he gave to his armies and his opponents, and how others saw him. He's portrayed as a virtuous, brave personality. He's an epic Homeric hero — a bit like Achilles from the Illiad.
+It’s true that Alexander the Great did some amazing things, like conquering Persia, which at the time was a mighty empire. And he did it with a relatively small army.
+But few people know that this narrative of Alexander was written long after his time. There are no surviving contemporary accounts on Alexander, and the earliest available historical records of him come from two Roman historians born centuries later.
+And Arrian and Plutarch, drawing from four-century-old sources, saw what they wanted to see and stuck to it.
+They saw what they wanted to see, and stuck to it.
+In 2011, the year that Byju's was founded, a student named Jaxon Saunders, wrote a paper in the Western Oregon University titled “Alexander the Great: A Lesson Taught by Roman Historians”.
+I’ll end with this excerpt from [that](https://digitalcommons.wou.edu/his/100/) paper:
+|
+Moreover, “the problems of Alexander historiography are (relatively!) straightforward. Is Arrian more reliable than Plutarch?” In either case there is the image of a hero being portrayed, but how accurate is said hero?
+Our faith in these sources are what has shaped our understanding of Alexander. This is the case because the, “Greek Alexander Romance is only one of many versions of the story of Alexander to gain a wide readership in both antiquity and the Middle Ages.”
+It is important to note that, “the Alexander of Romance is scarcely to be judged next to the Alexander of history.” With this reasoning there are schools of thought that are very distinct.
+There are those that follow the historians of Alexander, and paraphrase what they read, thus giving a version of Alexander that may be not entirely accurate but is unchanging; and then there are those historians who take a closer look, not at Alexander, but the historians of Alexander.
+|
+|
+|
+|
+|
+Share this edition
+If you loved this edition, you can share it using the link below. Or use one of our share buttons.
+|
+Take care.
+Regards,
+Praveen Gopal Krishnan
+|
+https://sg-mktg.com/MTYzMzc1NDIwOXxRbG1iNlRwWW1mZzl4dW9BcGRUalBhMGZtMzZjZkZhRUthcGhtZnlvbHl6WXU4U3d3MXZZQkN3dE0zdmVEUHF3VEhiRHdrWHlWS1JDWjZCdHByWFRuUlF5bngxa0JEVVd3YUdQaDZ2a1dRbHNtUHd3SWoxem42MjJhSE9XaGxWRk53QmN6RUE0YjcwYVFFay1EXy1YcTVDWWdKb2RLWXhBWWpGTFYzWEpTbDlnR2NqSk1MYkpNRmhUUGEtVTB5OXdabUdmSE1rUlE4TEptRDRacmloLVBmb3QwR3lBWkpqVE5GNTZaVkc4R203U24yb0EwVU9pNzNSZnNUcG5HdVFUYUE9PXxFC9JoZ5aS1xBcdn68FYbrnS_Vd6lzolsNLULgxGWP_g==
+The Nutgraf is a paid weekly emailer that explains fundamental shifts in business, technology and finance that happened over the last seven days in India. In a way you’ll never forget.
+Know someone who would like The Nutgraf?
+Want to receive The Nutgraf every week?
+|
+|
+The Nutgraf is published by The Ken—a digital, subscription-driven publication focussing on technology, business, science and healthcare.
+|
+Want to unsubscribe from our weekly newsletter, The Nutgraf? Click [here](https://link.the-ken.com/asm/unsubscribe/?user_id=2349339&data=Wdmzb9sE7rDIlaUkEvvzl7PKiGxt-NHVcaN6_We_uX0sR0_i5TncIBQG1DmWmbkHyNixATQ991uH0KgqHX0WXzUap9kwuVi3fKFkWdOBhyBu6DFQjSQK5A4cAUBxMp3lXGZ0SJNvzk1iRgjcGUS0dZ3QqNfKdHsL9xpqGz_WQE6INrqM7jhtcHLc8Be72q_Anu0O7Sw_cP3VTMQTKaj91uTgeBApC4kn57lpFEJLkavfs6REcma9bxIN_X8yByax2QRqHkKHU60IKMsmSRKVhV9f7yHN12KyHD4slqpFJXNxK4Ah4I2Id0zSGjYJkXVmrFS6K5nWlvceAlS6zPiomV9Tcdwa-15AVrzIKeACGU78j4P2FqVwh4tiCY1KnbpmKBn3J23DaLucU2VQolTgNpx9yB5peefUFKLg112gCPNMdBGiExy1T4yTmP3ZhwgjaDiX--f6fm8VqsuoEOdHSUQT_qNySGVI1pcGLmFnf1jS94jmv0z7m8SjEMhEOf2EFojbx4jiTJobSD2S4UbivcwcD15Sew44Yvuvhtq1j8o=). Or set your email preferences [here](https://the-ken.com/newsletters/?utm_source=usb_ftr&utm_medium=email&utm_campaign=nf)
+© 2021 The Ken
+|
+|
+|
+|
+|

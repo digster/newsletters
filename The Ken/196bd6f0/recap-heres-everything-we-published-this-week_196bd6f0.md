@@ -1,0 +1,65 @@
+---
+subject: "Recap: Here's everything we published this week"
+from: "The Ken <info@the-ken.com>"
+to: ""
+date: 2025-05-11 03:41:32
+labels: ["CATEGORY_PERSONAL", "INBOX", "The Ken"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_8244464457792971031"]
+---
+|
+|
+Delivered to Ishan, Subscriber to The Ken.
+Sun, 11 May 2025
+|
+The Spotlight by Jonathan Ananda
+Newsletter Editor
+|
+|
+Good Morning Ishan,
+Welcome to your Sunday recap of everything The Ken published this week.
+[Zara taught Zudio how to outdo Zara](https://the-ken.com/story/zara-taught-zudio-how-to-outdo-zara/?utm_source=weekly_email&utm_medium=email&utm_campaign=weekly_recap_card)
+Trent-owned Zudio has used the Spanish fast-fashion giant’s playbook to reach such great heights that it makes Zara look quite ordinary
+Zara’s 15-year-old partnership with Tata’s retail arm Trent may be nearing its end. Zara hasn’t been able to find a firm footing in India as its peers. Its share to Trent’s overall sales has shrunk from 28% to 10% in six years. Trent, meanwhile, plans to upgrade Westside to a premium-apparel brand to compete against Zara, H&M, and the like. The company’s ability to stand on its own comes from its value offering Zudio’s success. In FY25, the brand clocked $1 billion worth sales. [[Read the full story](https://the-ken.com/story/zara-taught-zudio-how-to-outdo-zara/?utm_source=weekly_email&utm_medium=email&utm_campaign=weekly_recap_card)]
+*****
+[100M diabetics. Still no country for insulin](https://the-ken.com/newsletter/make-india-competitive-again/100-mn-diabetics-still-no-country-for-insulin/?utm_source=weekly_email&utm_medium=email&utm_campaign=weekly_recap_card)
+Biocon-Eris sees a windfall as foreign pharma giants exit the world’s largest insulin market. But this is a humbling lesson in self-reliance for India
+*****
+[Ritesh Agarwal’s hat has no rabbit](https://the-ken.com/long_and_short/ritesh-agarwals-hat-has-no-rabbit/?utm_source=weekly_email&utm_medium=email&utm_campaign=weekly_recap_card)
+A delayed IPO. Top-notch rivals. Demanding investors. It’s only going to get harder for Oyo
+*****
+[Coffee versus café? India is poised at an inflection point](https://the-ken.com/newsletters/two-by-two/coffee-versus-cafe-india-is-poised-at-an-inflection-point/?utm_source=weekly_email&utm_medium=email&utm_campaign=weekly_recap_card)—Even as the market for coffee matures, cafés still struggle to turn profitable at scale
+*****
+[Can Rapido become Ola before Ola becomes Rapido](https://the-ken.com/the-nutgraf/can-rapido-become-ola-before-ola-becomes-rapido/?utm_source=weekly_email&utm_medium=email&utm_campaign=weekly_recap_card)
+One is on the way up, and the other is on the way down
+The Ken is back with its second Beyond the First Order event, and this time, we’re tackling stock investments in a market fraught with irrationality. When the very nature of the markets has changed, and age-old investment principles no longer appear valid, where does that leave you as a retail investor?
+You can join us in Bengaluru on 19 May to see three esteemed speakers take up the subject—Nithin Kamath, co-founder and CEO, Zerodha; Deepak Shenoy, founder and CEO, Capitalmind; and Avinash Luthria, founder, Fiduciaries.
+To live up to our promise that the event will be about you, every ticket holder can pose one great question to our panelists. What is the one thing you want answered by Nithin, Deepak, and Avinash? We will bake your questions into the discussion.
+You can read more about the event and buy your tickets here: [https://the-ken.com/event/the-next-10-years-of-investing-wealth-and-markets/](https://the-ken.com/event/the-next-10-years-of-investing-wealth-and-markets/?utm_source=recap&utm_medium=email&utm_campaign=bfo_stock)
+[Family offices love to hate venture capitalists](https://the-ken.com/story/family-offices-love-to-hate-venture-capitalists/?utm_source=weekly_email&utm_medium=email&utm_campaign=weekly_recap_card)
+Tired of fees, lock-ins, and mediocre returns, family offices are cutting out middlemen and going straight to the cap table. Startups get patient capital. Families get control. VCs get nervous
+VCs, long seen as gatekeepers of private capital, are watching family offices drift away.These offices are now going direct, bypassing fund managers and building their own investment muscle. VCs are not sold on this shift, confident that they still bring sharper judgment to the table. Founders value both, but connect more deeply with fellow builders who have been in the trenches. [[Read the full story](https://the-ken.com/story/family-offices-love-to-hate-venture-capitalists/?utm_source=weekly_email&utm_medium=email&utm_campaign=weekly_recap_card)]
+*****
+[Ather is everything Ola isn’t. So why aren’t investors lapping it up?](https://the-ken.com/story/ather-is-everything-ola-isnt-so-why-arent-investors-lapping-it-up/?utm_source=weekly_email&utm_medium=email&utm_campaign=weekly_recap_card)
+The EV maker’s IPO couldn’t have come at a worse time, caught between the Blusmart scandal and Trump-induced headwinds
+Electric two-wheeler maker Ather Energy listed on the bourses on 28 April, and its IPO was subscribed just 1.4X. The dismal stock performance of Ola Electric coupled with the Blusmart debacle and global headwinds bogged down Ather’s performance. The company plans to use the IPO proceeds to set up a new manufacturing plant in Maharashtra and invest in research and development. Though Ather has a robust product, it needs to successfully scale in order to be profitable without the crutch of government subsidies. [[Read the full story](https://the-ken.com/story/ather-is-everything-ola-isnt-so-why-arent-investors-lapping-it-up/?utm_source=weekly_email&utm_medium=email&utm_campaign=weekly_recap_card)]
+*****
+With Sparkl, the former CEO of Aakash Institute bets on these schools’ inadequacies and our obsession with private tutoring
+After finding success in coaching engineering and medical aspirants, Aakash Chaudhry is now targeting students from international schools. These students are caught between schools that want to produce Ivy League-worthy alumni and teachers who aren’t trained well in the curriculum. Chaudhry’s new venture Sparkl has onboarded 55 trained tutors who provide one-on-one coaching to over 250 students. Essentially, Sparkl’s success lies where international schools fail. [[Read the full story](https://the-ken.com/story/aakash-chaudhry-made-millions-off-indias-iit-craze-his-next-target-international-schools-unhappy-parents/?utm_source=weekly_email&utm_medium=email&utm_campaign=weekly_recap_card)]
+*****
+[How the Pahalgam attack put India’s payments industry on red alert](https://the-ken.com/story/how-the-pahalgam-attack-put-indias-payments-industry-on-red-alert/?utm_source=weekly_email&utm_medium=email&utm_campaign=weekly_recap_card)
+India wants to stop terror-funded rupees, banks want to stop inadvertently laundering them, and compliance firms just want to be on every bank’s speed dial
+Following the Pahalgam attack, the entire government and its investigating agencies got into a huddle. The result: a crackdown on online merchant payments with an aim to trace money trails potentially leading to terror funding. The action: RBI instructed acquiring banks to weed out risky merchants in their database. But the procedure has resulted in one group that’s enjoying the attention and another that’s calling it unfair. [[Read the full story](https://the-ken.com/story/how-the-pahalgam-attack-put-indias-payments-industry-on-red-alert/?utm_source=weekly_email&utm_medium=email&utm_campaign=weekly_recap_card)]
+[Listen to your cognitive dissonances](https://the-ken.com/newsletter/first-principles/listen-to-your-cognitive-dissonances/?utm_source=weekly_email&utm_medium=email&utm_campaign=weekly_recap_card)—They are necessary ingredients on the journey of personal growth [[Read here](https://the-ken.com/newsletter/first-principles/listen-to-your-cognitive-dissonances/?utm_source=weekly_email&utm_medium=email&utm_campaign=weekly_recap_card)]
+[A Paytm lesson for Phonepe](https://the-ken.com/kaching/a-paytm-lesson-for-phonepe/?utm_source=weekly_email&utm_medium=email&utm_campaign=weekly_recap_card)—RBI’s punishment should have been a body blow for Paytm, but the company has managed to pull through because of one underrated strength [[Read here](https://the-ken.com/kaching/a-paytm-lesson-for-phonepe/?utm_source=weekly_email&utm_medium=email&utm_campaign=weekly_recap_card)]
+[How to outmanoeuvre stock market volatility](https://the-ken.com/the-collection/how-to-outmanoeuvre-stock-market-volatility/?utm_source=weekly_email&utm_medium=email&utm_campaign=weekly_recap_card)—Three strategies fund managers used to beat the bourses’ blues [[Read here](https://the-ken.com/the-collection/how-to-outmanoeuvre-stock-market-volatility/?utm_source=weekly_email&utm_medium=email&utm_campaign=weekly_recap_card)]
+[What did investors learn from edtech’s boom-and-bust cycle?](https://the-ken.com/edsetgo/what-did-investors-learn-from-edtechs-boom-and-bust-cycle/?utm_source=weekly_email&utm_medium=email&utm_campaign=weekly_recap_card)—The soundbytes seem dated [[Read here](https://the-ken.com/edsetgo/what-did-investors-learn-from-edtechs-boom-and-bust-cycle/?utm_source=weekly_email&utm_medium=email&utm_campaign=weekly_recap_card)]
+[Totes are bagging the fashion sweepstakes](https://the-ken.com/tradetricks/totes-are-bagging-the-fashion-sweepstakes/?utm_source=weekly_email&utm_medium=email&utm_campaign=weekly_recap_card)—From humble tools to high-fashion statements [[Read here](https://the-ken.com/tradetricks/totes-are-bagging-the-fashion-sweepstakes/?utm_source=weekly_email&utm_medium=email&utm_campaign=weekly_recap_card)]
+[India wants the spotlight at the world’s top school exam. It just won’t step on stage](https://the-ken.com/podcasts/daybreak/india-wants-the-spotlight-at-the-worlds-top-school-exam-it-just-wont-step-on-stage/?utm_source=bfo_rhl&utm_medium=tg&utm_campaign=bfo_stock)—India hasn’t touched PISA in 16 years. The last time it did, in 2009, it ranked 72nd out of 73 countries [[Listen here](https://the-ken.com/podcasts/daybreak/india-wants-the-spotlight-at-the-worlds-top-school-exam-it-just-wont-step-on-stage/?utm_source=bfo_rhl&utm_medium=tg&utm_campaign=bfo_stock)]
+[How to build companies that last when their employees don’t](https://the-ken.com/podcasts/daybreak/how-to-build-companies-that-last-when-their-employees-dont/?utm_source=weekly_email&utm_medium=email&utm_campaign=weekly_recap_card)—The most rigid companies, known for being forts of loyalists, are loosening up to accommodate the needs of younger generations [[Listen here](https://the-ken.com/podcasts/daybreak/how-to-build-companies-that-last-when-their-employees-dont/?utm_source=weekly_email&utm_medium=email&utm_campaign=weekly_recap_card)]
+[The hunger games are raging but Zomato just won’t take the bait](https://the-ken.com/podcasts/daybreak/the-hunger-games-are-raging-but-zomato-just-wont-take-the-bait/?utm_source=weekly_email&utm_medium=email&utm_campaign=weekly_recap_card)—In many ways, 2024 was the year 10-minute food delivery became the next frontier of quick commerce [[Listen here](https://the-ken.com/podcasts/daybreak/the-hunger-games-are-raging-but-zomato-just-wont-take-the-bait/?utm_source=weekly_email&utm_medium=email&utm_campaign=weekly_recap_card)]
+[‘Don’t call if markets are down’ — the PMS fund delivering returns the big city boys can’t match](https://the-ken.com/podcasts/daybreak/dont-call-if-markets-are-down-the-pms-fund-delivering-returns-the-big-city-boys-cant-match/?utm_source=weekly_email&utm_medium=email&utm_campaign=weekly_recap_card)—Counter Cyclical’s assets under management have shot up over 10X in the past three years, and its customer count has grown by leaps and bounds [[Listen here](https://the-ken.com/podcasts/daybreak/dont-call-if-markets-are-down-the-pms-fund-delivering-returns-the-big-city-boys-cant-match/?utm_source=weekly_email&utm_medium=email&utm_campaign=weekly_recap_card)]
+[How a Bangalore biotech quietly built a business breakthrough in under $10 million](https://the-ken.com/podcasts/daybreak/how-a-bangalore-biotech-quietly-built-a-blindness-breakthrough-in-under-10-million/?utm_source=bfo_rhl&utm_medium=tg&utm_campaign=bfo_stock)—Eyestem’s founders set out with a bold goal: to build a cutting-edge treatment that’s actually affordable, especially for Indian patients [[Listen here](https://the-ken.com/podcasts/daybreak/how-a-bangalore-biotech-quietly-built-a-blindness-breakthrough-in-under-10-million/?utm_source=bfo_rhl&utm_medium=tg&utm_campaign=bfo_stock)]
+That’s a wrap for this week. If you have thoughts or suggestions you’d like to share, leave a comment on our website or app, or write to our writers and podcasters. You can also write to me at jonathan@the-ken.com.
+Take care.
+Regards,
+Jonathan

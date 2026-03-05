@@ -1,0 +1,10 @@
+---
+subject: "Invisible College: Applications close on 28th April"
+from: "Works in Progress <worksinprogress@substack.com>"
+to: ""
+date: 2025-04-16 14:00:39
+labels: ["CATEGORY_PERSONAL", "INBOX", "UNREAD", "Works in Progress"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "UNREAD", "Label_1644361085112560554"]
+---
+Works in Progress was founded to share what we think are incredibly useful models of the world that help us predict and therefore change things more effectively than others. We think that our authors have unique insights about why economic, scientific, and technological progress happen, and how to get more of these things. This is why we are hosting Invisible College is our major student event, a residential seminar in a Cambridge college, hosted from 4th to 9th August. It is free to attend, including food and accommodation. To attend, you must be aged 18–22 in August. Stuart Ritchie will be explaining how science is broken by fraud, bias, and hype, how to spot them, and how to make science work again. Saloni Dattani will teach you how to avoid standard data visualization errors, and how to make beautiful charts and graphs. Laura Ryan will make the case that scientific progress is driven by scientific institutions. Marc Warner will advise you how to make your career AI proof. Phoebe Arslanagić-Little will argue that reversing today’s fertility decline is not just desirable, but possible. Samuel Hughes will tell the story of why every major country in the world downzoned the residential parts of their cities, to allow smaller buildings and lower density, and how to fix it. Anton Howes will explain how England went from being a European laggard in 1550 to by far the world’s leader 150 years later. and much more!
+The programme’s name comes from the supposed group of seventeenth century thinkers known as the Invisible College, led by the Irish chemist Robert Boyle and the English economist Sir William Petty. To apply, simply fill out this We look forward to hearing from you! Thanks for subscribing to |

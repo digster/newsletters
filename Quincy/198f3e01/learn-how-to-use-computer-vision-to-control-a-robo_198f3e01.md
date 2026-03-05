@@ -1,0 +1,32 @@
+---
+subject: "Learn how to use computer vision to control a robotic arm [Free 3-hour course on Python and Arduino]"
+from: "Quincy Larson <quincy@freecodecamp.org>"
+to: ""
+date: 2025-08-29 03:30:07
+labels: ["CATEGORY_PERSONAL", "INBOX", "Quincy"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_7697778124671848699"]
+---
+Here are this week's five freeCodeCamp resources that are worth your time:
+
+1. The freeCodeCamp community just published this Python Machine Learning course where you'll learn how to control a robotic arm using computer vision. You'll set up serial communication between Python and a cheap Arduino microcontroller board. Then you'll learn how to detect physical objects using the open source Python libraries MediaPipe and OpenCV. You'll also learn how to manipulate servo motors and LED displays. (3 hour YouTube course): https://www.freecodecamp.org/news/use-arduinos-for-computer-vision/
+
+2. freeCodeCamp also published a course that will help you prepare for the Google Professional Cloud Architect Certification exam. Andrew Brown is a CTO who has passed practically every DevOps exam under the sun, and he teaches this course. You'll learn about Infrastructure as Code, Serverless Architecture, networking, monitoring, logging, and more. (16 hour YouTube course): https://www.freecodecamp.org/news/prepare-for-the-google-professional-cloud-architect-certification-exam-and-pass/
+
+3. Three.js is a powerful 3D rendering tool that tons of artists use to build games and interactive experiences that can run right inside a browser. This new freeCodeCamp course will walk you through building 5 practical projects. You'll learn about foundational concepts before moving on to textures, dynamic particle effects, and interactive physics. (2 hour YouTube course): https://www.freecodecamp.org/news/create-3d-web-experiences-with-javascript-and-threejs/
+
+4. On this week's podcast, I interview Emmett Naughton, a software engineer who taught himself programming over several years while working as a janitor at a hospital. He talks about making ends meet while raising a family and recovering from getting laid off twice. He also shares how discovering he had sleep apnea and treating it dramatically improved his thinking. (1 hour watch or listen in your favorite podcast app): https://www.freecodecamp.org/news/from-hospital-janitor-to-developer-with-emmett-naughton-podcast-185/
+
+5. The Bag of Words algorithm is an important method that machine learning engineers have used to turn text into numbers so they can train their models. This tutorial will teach you how Bag of Words works, using Python code examples. It also describes the limitations of Bag of Words, and how scientists have gone on to create Word2Vec, GloVe, and other algorithms for mapping the relationships between words. (10 minute read): https://www.freecodecamp.org/news/how-bag-of-words-works/
+
+These are just a few of the open source learning resources the freeCodeCamp community published this week. We've got a ton more in development. I encourage you to get involved as an open source contributor or to support our charity and our mission directly: https://www.freecodecamp.org/donate
+
+Quote of the Week: 
+“I was mopping floors in an outpatient surgical recovery room listening to the Code Newbies podcast when I first heard an interview with Quincy.” — Software Engineer Emmett Naughton on this week's freeCodeCamp podcast, sharing how he discovered the freeCodeCamp community and dove deeper into programming
+
+Until next week, happy coding.
+
+-- Quincy Larson
+
+Teacher and founder of freeCodeCamp.org
+
+If these aren't worth your time, you can turn them off: https://www.freecodecamp.org/ue/eZV2T3gHC7IGcwcpYPG64

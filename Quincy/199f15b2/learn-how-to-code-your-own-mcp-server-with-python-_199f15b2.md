@@ -1,0 +1,32 @@
+---
+subject: "Learn how to code your own MCP server with Python [Free 1 hour course]"
+from: "Quincy Larson <quincy@freecodecamp.org>"
+to: ""
+date: 2025-10-17 08:48:26
+labels: ["CATEGORY_PERSONAL", "IMPORTANT", "INBOX", "Quincy"]
+label_ids: ["CATEGORY_PERSONAL", "IMPORTANT", "INBOX", "Label_7697778124671848699"]
+---
+Here are this week's five freeCodeCamp resources that are worth your time:
+
+1. freeCodeCamp just published a course on how to build your own MCP server with Python. Model Context Protocol Servers are like APIs for AI agents. Lots of developers are now building them to help agents interact with their websites' data more accurately. This course will teach you how to leverage the open source FastMCP library to build a calculator project that agents can then directly interact with. (1 hour YouTube course): https://www.freecodecamp.org/news/learn-mcp-essentials-and-how-to-create-secure-agent-interfaces-with-fastmcp
+
+2. Learn how to pass Google's new Generative AI Leader Certification Exam. Andrew Brown is a CTO who has passed practically every DevOps exam under the sun, and he teaches this course. He'll give you a business-level understanding of Google Cloud's gen AI offerings. By the end of this course, with the help of Andrew's practice materials, you'll be ready to sit for the exam. (3 hour YouTube course): https://www.freecodecamp.org/news/pass-the-google-generative-ai-leader-certification-exam/
+
+3. On this week's freeCodeCamp podcast I interview Evan You. He's the creator of the popular Vue front end development framework and the Vite JavaScript build tool that a lot of devs use as a boilerplate for their new projects. As a self-taught developer, he shares tips for getting involved in open source and ultimately leading open source projects and attracting sponsors. (1 hour watch or listen in your favorite podcast app): https://www.freecodecamp.org/news/evan-you-from-art-school-kid-to-open-source-legend-podcast-192/
+
+4. Teach your apps how to learn. This comprehensive Machine Learning fundamentals course will walk you through building systems smart enough to create their own algorithms. You'll use C++ to implement a Preceptron, which will then look at images of shapes and figure out ways to reliably label them. (interactive course): https://www.freecodecamp.org/news/machine-learning-tutorial-how-to-program-without-creating-your-own-algorithms/
+
+5. Strix is a relatively new open source tool for testing the security of your apps and identifying vulnerabilities. It's essentially an AI-powered white hat attacker that you set loose in your codebase. This tutorial will explain how it works and how you can use it to harden your apps against common exploits. (15 minute read): https://www.freecodecamp.org/news/how-to-use-strix-the-open-source-ai-agent-for-security-testing/
+
+The freeCodeCamp community has avoided getting swept up in the AI hype cycle, while still finding some cool use cases for AI tools. If you enjoy our balanced, pragmatic approach to teaching these emerging tools, consider supporting our mission. Join the 10,494 kind folks who donate to our charity each month: https://www.freecodecamp.org/donate
+
+Quote of the Week: 
+“When I build things, I often start by prototyping the end developer experience I want for myself — then I reverse engineer from that to the implementation details.” — Software Engineer Evan You on this week's freeCodeCamp podcast
+
+Until next week, happy coding.
+
+-- Quincy Larson
+
+Teacher and founder of freeCodeCamp.org
+
+If these aren't worth your time, you can turn them off: https://www.freecodecamp.org/ue/eZV2T3gHC7IGcwcpYPG64

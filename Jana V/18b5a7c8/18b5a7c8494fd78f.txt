@@ -1,0 +1,171 @@
+Post       : From Linear to Logistic &#8211; Sigmoid Curve and Log Loss
+URL        : https://janav.wordpress.com/2023/10/22/from-linear-to-logistic-sigmoid-curve-and-log-loss/
+Posted     : October 22, 2023 at 8:02 pm
+Author     : Jana Vembunarayanan
+Tags       : LLM, Machine Learning
+Categories : Computer Science, Mathematics, Statistics
+
+Can we predict the likelihood of heart disease from sleep and exercise?
+
+This is my fourth post on my journey to build a toy GPT. I'd recommend checking out my previous posts ( https://janav.wordpress.com/tag/llm/ )  before diving into this one.
+
+Let's train a model to predict heart disease using sleep and exercise data. Unlike our previous example involving height and weight, heart disease is a discrete variable with two possible outcomes: 0 indicates no heart disease, and 1 indicates the presence of heart disease. Below, you'll find a sample of 10 rows. These were selected from 100 rows of synthetic data (a fictional example) that I created.
+
+Sleep (in hours)
+Exercise (in minutes)
+Heart disease
+
+4.25
+0.94
+1
+
+7.7
+19.09
+0
+
+6.39
+9.43
+0
+
+5.59
+15.26
+0
+
+2.94
+27.23
+0
+
+2.94
+7.48
+1
+
+2.35
+12.31
+1
+
+7.2
+22.67
+0
+
+5.61
+6.86
+1
+
+6.25
+2.31
+1
+
+You should observe the following pattern: if you exercise and sleep more, the likelihood of having heart disease is low, indicated by a 0. Conversely, if you exercise and sleep less, the risk of heart disease is high, represented by a 1. Let's visualize the relationship between the dependent variable (heart disease) and the independent variables (sleep and exercise).
+
+https://janav.files.wordpress.com/2023/10/image-21.png
+
+Understanding the World Through the Lens of S-Curves
+
+In linear regression, we draw a straight line (plane in 3D, hyperplane in n-dimensions) that best matches our data. But how do we do that when our data, like in the graph above, doesn't line up neatly? We still want to benefit from linear regression. Can we use something else on top of linear regression to make the line curve? This concept is similar to how evolution works.
+
+Evolution tends to retain traits that are beneficial. When the environment shifts, it doesn't discard these useful traits. Instead, it builds upon them by introducing new mutations. For example, the human appendix was once vital for digesting plant material. As our diets evolved, the appendix became less crucial, but instead of disappearing, it now plays a role in our immune system.
+
+We require a function that accepts the output from linear regression and compresses it to a range between 0 and 1. The Sigmoid curve, also known as the S-curve, serves this purpose. One technique I consistently turn to for grasping functions is to visualize them by inputting values from extreme negatives all the way to extreme positives.
+
+https://janav.files.wordpress.com/2023/10/image-18.png
+
+Most of the values produced by the sigmoid function are near 0 or 1. There's a sharp increase from 0 to 1 when the input x is close to zero. This abrupt change is known as a 'phase transition', a phenomenon observed frequently in nature. It's super important in understanding how many things in the world work.
+
+Think of a neuron, a tiny part of your brain. It can either send a signal or not. But it's not just an on-off switch. It's more like a dimmer switch for a light. At first, when you turn it, the light might not change much. But as you keep turning, the light gets brighter quickly, and then it slows down again.
+
+This S curve isn't just in our brains. It's everywhere! It's in computers, how water turns to ice, how rumors spread, and even in how popcorn pops. At first, you hear a few pops, then a lot all at once, and then it slows down again.
+
+Why do we need a new loss function?
+
+In our height to weight prediction ( https://janav.wordpress.com/2023/10/10/how-a-machine-learns/ )  model, we utilized the mean square error (MSE) as the loss function. In MSE, we calculated the average of the squared differences between the predicted and actual weights. However, when working with sigmoid functions, we cannot use MSE as a loss function.
+
+Let's picture two doctors: A and B. Doctor A confidently declares that the patient doesn't have heart disease (indicating a '0'), yet in reality, the patient does (a '1'). On the other hand, Doctor B suggests that the patient might have heart disease (giving a '0.5' score) when the patient indeed has it (a '1').
+
+Clearly, neither Doctor A nor B provided perfect predictions. But who should face a stiffer penalty for their inaccuracy? It should be Doctor A, who was not just wrong, but confidently so. The issue here is that MSE doesn't distinguish between these two types of errors. Difference in their MSE is too small as highlighted in the table.
+
+https://janav.files.wordpress.com/2023/10/image-12.png
+
+Using MSE loss with a sigmoid function can hinder the model's ability to minimize the loss effectively.
+
+Let's assume that the actual value is 1, and our goal is to predict 1. In linear regression, the output is unbounded. This means that the predicted value can range from -∞ to +∞. There’s a clear minimum when the predicted value reaches 1 the loss reaches zero.
+
+https://janav.files.wordpress.com/2023/10/image-16.png
+
+When we use a sigmoid function, the output is constrained to lie between 0 and 1. The loss will be zero when the sigmoid function outputs 1, that’s when the predicted value equals actual value. But that never happens as the sigmoid function outputs 1 only when its input reaches infinity. So loss would never be zero.
+
+https://janav.files.wordpress.com/2023/10/image-20.png
+
+Consider the regions of the loss curve where the input value (z) to the sigmoid function is extremely low or high. What happens when you compute the derivative where the line is horizontal? The derivative is essentially zero because there's no change in the loss.
+
+When the derivative is close to zero, the weight updates during training become almost negligible. This can lead to slow progress or even a standstill in learning. Remember, derivatives are like the engines that power the machine to learn, and we can't have them be zero. To wrap it up, we need a different loss function. The log loss function is the answer, addressing the issues I've just pointed out.
+
+Log Loss function to the rescue
+
+When I first encountered the log loss function (often referred to as cross-entropy loss), I felt overwhelmed and shut the book. First impressions can be misleading, but once we break down the formula, it becomes one of the easiest things to understand.
+
+The 'log' function here represents the natural logarithm with base e, which is a mathematical constant approximately equal to 2.71828. We previously encountered e within the sigmoid function. Read my post ( https://janav.wordpress.com/2013/09/29/logarithms-in-real-life/ )  for a quick refresher on logarithms.
+
+https://janav.files.wordpress.com/2023/10/image-19.png
+
+The formula looks a lot friendlier when you input specific values into it and see what you get. I want to see what the formula spits out when we nail a prediction and when we totally miss the mark. I separated the calculations for the term before and after the plus sign.
+
+https://janav.files.wordpress.com/2023/10/image-23.png
+
+When the actual value is zero, the first term is multiplied by 0, causing it to vanish. Conversely, when the actual value is 1, the second term vanishes due to multiplication by (1 - actual_value). So, only one of the two terms remain. When the prediction is confidently incorrect, as seen in the 1st and 3rd examples, there's a significant penalty of -35.
+
+When plotting both the MSE Loss and Log Loss, with the actual value set to 1 and the predicted value varying between 0 and 1, the graph below illustrates that the Log Loss imposes a much steeper penalty for confidently incorrect predictions.
+
+https://janav.files.wordpress.com/2023/10/image-15.png
+
+As illustrated in the image below, the log loss function on the right is smooth, allowing us to take its derivative at any point. Focus on the y-axis on both the charts below. The one on the left is squeezed between 0 and 1.
+
+The one on the right has a much wider range allowing us to take a derivative. This wider range happens because the log of a small number like 0.0001 is a big negative number -9.21, and when we multiply by -1 we get a big positive number, 92,100 times bigger than the input 0.0001 to the log function.
+
+https://janav.files.wordpress.com/2023/10/image-22.png
+
+Remember the output of a sigmoid is between 0 and 1, so feeding that to a log function expands the range. Combining sigmoid with log functions is quite clever. It's like using the sigmoid to categorize things and then using the log function to fine-tune the categorization.
+
+The derivative of the log loss function is strikingly similar to that of the MSE loss function. Instead of 2* loss * input , it's loss * input. Loss is the difference between predicted value minus actual value. I highly recommend watching this video ( https://www.youtube.com/watch?v=0VMK18nphpg ) , where the presenter does a superb job explaining it.
+
+Computing the coefficient update on heart disease
+
+I initialized all three coefficients randomly. The sleep coefficient was set to -0.00138, the exercise coefficient to 0.00648, and the bias coefficient to 0.00497. In the image below, I show how the three coefficients are updated in one iteration using the first two rows of the sample.
+
+https://janav.files.wordpress.com/2023/10/image-24.png
+
+I trained the model using all 100 samples and executed 1M iterations with a learning rate of 0.001. The model minimized the loss to 0.13, achieving a sleep coefficient of -2.07, an exercise coefficient of -0.42, and a bias coefficient of 16.25.
+
+https://janav.files.wordpress.com/2023/10/image-14.png
+
+Suppose we want to test the model's prediction for someone who sleeps for 6.39 hours and exercises for 9.43 minutes. The model predicts that the person has a healthy heart condition, indicated by a zero. During classification we round the value as we need to either return 0 (healthy) or 1 (disease).
+
+https://janav.files.wordpress.com/2023/10/image-17.png
+
+Code I used to do linear regression required minor additions for sigmoid, log loss, and classification.
+
+https://janav.files.wordpress.com/2023/10/image-25.png
+
+The decision boundary indicates where the classifier determines one class stops and the other starts. In the image below, you'll see this boundary as a green dashed line. This line represents the point at which the model changes its prediction from 'No Heart Disease' to 'Heart Disease', based on sleep and exercise features. It's impressive to see how neatly the model separates the data between those with heart disease and those without.
+
+https://janav.files.wordpress.com/2023/10/image-13.png
+
+In this post, we used Logistic Regression to determine the presence or absence of heart disease. However, Logistic Regression isn't limited to binary outcomes. For instance, in handwritten digit recognition, it can produce 10 possible outcomes (0-9) – a technique once employed in post offices to automate the sorting of mail based on ZIP codes.
+
+Adapting the code for more than two outcomes requires slight tweaks, which I encourage you to explore.
+
+What’s next?
+
+Do yourself a favor by studying Programming Machine Learning: From Coding to Deep Learning ( https://www.amazon.com/Programming-Machine-Learning-Zero-Deep/dp/1680506609 ) . It covers everything we've discussed thus far, including building models to recognize handwritten digits. Practical Deep Learning ( https://course.fast.ai/ )  from fast.ai and Andrej Karpathy’s Neural Networks: Zero to Hero ( https://karpathy.ai/zero-to-hero.html )  are the two top free courses you should consider.
+
+What are Neural Networks? How are they different from linear and logistic regression? Why do we need backpropagation in a neural network? I’ll cover this in my next post.
+
+Add a comment to this post: https://janav.wordpress.com/2023/10/22/from-linear-to-logistic-sigmoid-curve-and-log-loss/#respond
+
+-- 
+
+
+Manage Subscriptions
+https://subscribe.wordpress.com/?key=3ba1653235661837fb9cfafd373444b6&email=ishan.mail%40gmail.com
+
+Unsubscribe:
+https://subscribe.wordpress.com/?key=3ba1653235661837fb9cfafd373444b6&email=ishan.mail%40gmail.com&b=tt2BT2KJKJAD3mJmwLXHZf6Gn7JcNZJytyQCnCTkukmw31nh4IdxYDXiukaodIWIE4xd7Qahnpa29emt3dKlVTvXUoJAAybcCHjUauPsV1ifvQbtN0yvgim-5T9lp7ie6-dKIf7JgPG--4bESCsSnVcQ6GuAOVw%3D

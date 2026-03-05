@@ -1,0 +1,27 @@
+---
+subject: "India crashed the global 5G standards party. 5Gi happened next."
+from: "The Ken <info@the-ken.com>"
+to: ""
+date: 2021-06-15 02:37:02
+labels: ["CATEGORY_PERSONAL", "IMPORTANT", "INBOX", "The Ken"]
+label_ids: ["CATEGORY_PERSONAL", "IMPORTANT", "INBOX", "Label_8244464457792971031"]
+---
+Good Morning Ishan,
+Though one of the world’s biggest telecom markets, India didn’t even have a proper telecom standards body of its own till 2016. Then, against all odds, it managed to come up with a new standard to increase the range of a 5G base station 4-5X. Not only would this standard, called “Low Mobility Large Cell” (LMLC), allow operators to boost the range of telecom networks in India’s vast rural and semi-urban areas, it would also increase the battery life of mobile phones.
+By 2019, India managed to gatecrash the International Telecommunications Union (ITU), the UN body overseeing the development of new 5G standards. LMLC got included in the specs and even got a moniker: 5Gi.
+So far, so good.
+Next, India tried to get its new standard accepted by the 3GPP, the global telecom standards super-body that decides the standards vendors finally implement. Sadly, India got stonewalled there.
+“5Gi is not part of 3GPP and there will not be any interoperability between 5G and 5Gi any time soon—if ever,” says Joe Barrett, president of the Global mobile Suppliers Association (GSA), in an emailed response to The Ken in today’s story.
+This means that 5Gi got stuck in the twilight zone between standards and adoption. Since LMLC isn’t part of core 5G, vendors have the option to include (or exclude) it.
+Reliance Jio supports 5Gi. Bharti Airtel doesn’t. Neither do big telecoms vendors such as Nokia and Ericsson. Qualcomm, Mediatek, and Samsung are sitting on the fence.
+Will India’s indigenisation efforts lead to a Balkanization of telecom standards? Or is this just a bogey used to shut out a scrappy and efficient newcomer? Get all the answers in Seema’s story today. It's our free story for the week, do share it widely: [https://the-ken.com/story/nokia-ericsson-airtel-and-the-big-boys-club-resisting-indias-5gi/](https://the-ken.com/story/nokia-ericsson-airtel-and-the-big-boys-club-resisting-indias-5gi/?utm_source=daily_story&utm_medium=email&utm_campaign=daily_newsletter) (12-minute read)
+Regards,
+Rohin Dharmakumar
+PS: Since the crash in Adani’s stocks yesterday—resulting in a loss of over $7 billion in net worth for Gautam Adani—we’ve received multiple requests to make one of our stories free. So, until 12 pm today, Anand’s story on the peculiar shareholding patterns behind Adani will be free to read. Share it widely with all who’ve been asking: [https://the-ken.com/story/hype-in-the-adani-total-gas-pipe/](https://the-ken.com/story/hype-in-the-adani-total-gas-pipe/)
+|
+What you just read is the personalised daily introduction to The Ken's story. Written by a different person each day. Often insightful, sometimes witty, and very rarely boring. Someone sent this to you? [Sign up for free](https://the-ken.com/sea/?modal=register&utm_source=footer&utm_medium=email&utm_campaign=sea_morning_email). Don't like these? You can [unsubscribe](https://link.the-ken.com/asm/unsubscribe/?user_id=2349339&data=13UiINrHA_UIgAEyd9TZ039fykZvv2j6SYO3jhIE6C6t7ZNuF2gBNgd5el1CXzUEwQ_bnnaRraGy_3JeS96X1-XNNl5U_k8nFNx4KjzSe4OCKfC45Lho2CQC2bvUdRtZ5mnjngGeI9sKXckXgFuG23T53UbMW4-HgMsabYF_jIZzS29evUkhqgYuB9mx_PW3D8nzaLrCPEMz2J6BaWn2g3zeAeQzQnYvUXc4wTPPxzFHwnPuYdMdkXTRN__s-AJmvWJK8eJzK1eSt-pKZRSGygE9P472XZ4J7hZLqPT8r-EFzezEocVo1FhL49ERpbHxlj_6LtJReD0KFALeZQQlsxpr_d0sj-dYDYTR85Dxed2vr7kKLnGHYDCm7C8dJ8i9gqMrXhiiAsvqpRBgJoFvaENEUNLfptaXdg5N9l8kqc5qW3PemqzFWKtG5X7yILlr908LegmkTgBoQyj0gHMuV7_qDRf4ibTfcZP1KNcNTQ61lXPIajXH85jcvv5xedff8llcyKm2IS6LZODcY0W0oE6s34LPZTqFWtTP8TaBCyw=). Want to manage your emails? Click [here](https://link.the-ken.com/asm/?user_id=2349339&data=pau2RnyvDkNY1OHP4zok1eV4U7k_TXD904sFCwYnfpMBxN1j90rogIBh2330nOk_PzJt036IldFHdeDsbVt6soQ0WXfKxb8QrLBgm6eMgVhAE1EAte-a84e6ue6bJICCPvTwPQzvw4evqkhE9MIlGQD2mdM7KKU-y5MuSCtNOi1T8DRkOANBsY9w2hExpydNsWlq65zwdQhIVwCYMA4N9yM9QBqN9onnIXzsWsJhklMQY_mOq-1OKO02jeN-F0cK23H8P_HxU-bntTOaDC7fiM2Wc_x3DoHtQXbxzAuXizAGte9XfgCVvz3Bj1TyH1ZLHNP_84woZcPBMZyRwGnsn7TMjh5hKNUWwL88ARB_OhYhE7tRBd9tbbR9KE3MXVlBYY2zyndRZFg8nqYIOlQIHp5GebIZXqK8AyZ51yJSiNpR0glcfDrQ0KZ-f-aAzgyfFmwKeY-fbqkGWxWS1jKxQZaS6c43gxy8vUPkdd8fER0DDrLVm3hOCuB7lT_si1IRbnDfHRPYogRikKFgN1UrEFO6686LeOJ4wjkK9f01r-Q=).
+|
+|
+|
+|
+|

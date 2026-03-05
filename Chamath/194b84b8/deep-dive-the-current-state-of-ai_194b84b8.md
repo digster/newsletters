@@ -1,0 +1,27 @@
+---
+subject: "Deep Dive: The Current State of AI"
+from: "Chamath Palihapitiya <chamath@substack.com>"
+to: ""
+date: 2025-01-30 17:38:06
+labels: ["CATEGORY_PERSONAL", "Chamath", "IMPORTANT", "INBOX", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "Label_4017391144830520384", "IMPORTANT", "INBOX", "UNREAD"]
+---
+|
+This week, DeepSeek made headlines by climbing to #1 on the App Store, generating widespread media coverage and heated discussions on X.
+We saw this news shift capital markets overnight, disrupting hundreds of billions of dollars in the process. Senior leadership and teams at big tech companies like Meta and Google to countless AI startups are currently recalibrating, pivoting, and reconsidering their strategies.
+It’s been only two years since ChatGPT’s release marked the moment when AI received mainstream attention. Since then, we’ve seen an unprecedented evolution of technology, including a proliferation of high-quality, multi-modal language models, the emergence of reasoning models that can solve advanced programming and math problems, and now the conversation is also shifting to agentic systems and outcompeting China in technological primacy.
+So how does this all connect? What's really going on underneath it all, and how did we get here?
+This deep dive starts with the emergence of the transformer model in 2017 and comprehensively covers the major developments in AI to the current moment with the release of DeepSeek-R1. In particular, we examine the state of the chatbot race and the rise of reasoning models. We also look at the trillion plus dollars invested in AI over the past decade and review the lessons learned from the "GenAI" hype cycle, including the challenges that “GenAI” products face today.
+Our deep dive centers on two key questions:
+What is the next killer AI app?
+Where will the over 1 trillion dollars invested in AI find returns?
+For those newer to AI, we've created a clear entry point to get you exactly to this moment in a straightforward way. We attempted to distill our understanding with less noise and hype, connecting both academic concepts and developments in startups to give you deep context for this current moment.
+For those more well-versed, this is an opportunity to pressure-test your assumptions and contemplate what's happening and where things could go. In my experience running 8090, revisiting first principles helps reveal insights that might otherwise be missed amid the daily headlines and purported breakthroughs. What's just a headline, and what's truly game-changing? How will these breakthroughs affect the ecosystem as it stands today?
+In my professional opinion, we're still only in the early stages of the game.
+Special thanks to Sina ([LinkedIn](https://substack.com/redirect/ff30bbe1-a043-4cac-b189-46d9f5639681?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) and the team at 8090 ([X](https://substack.com/redirect/dc0b622f-8e4a-4213-afd7-5ed8243dc629?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) for their contributions to this deep dive.
+Last year around this time, we posted our [first deep dive on AI](https://substack.com/redirect/a8687846-4a0b-4498-bcfe-dcdd348d663d?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o). Reading it again today, it’s interesting to see which aspects of the technology took off and which became less relevant, and even how our way of talking about AI has shifted and become obsolete at times. That being said, upon review, much of the work still holds up and could provide an additional layer of understanding to deepen your foundational understanding of the space.
+Hope this all helps. Good luck out there.
+Chamath
+Become a paying subscriber of Chamath Palihapitiya to get access to this post and other subscriber-only content.
+| Subscriber-only deep dives | |
+| Weekly reading list and quick essays |

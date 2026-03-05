@@ -1,0 +1,38 @@
+---
+subject: "Jony Ive's iPhone of AI 📱, Microsoft considered selling Bing 🔍, big tech vs startup jobs 👨‍💻"
+from: "TLDR <dan@tldrnewsletter.com>"
+to: ""
+date: 2023-09-29 10:19:21
+labels: ["CATEGORY_PERSONAL", "INBOX", "TLDR", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_795315172960844453", "UNREAD"]
+---
+[Details emerge on Jony Ive and OpenAI’s plan to build the ‘iPhone of artificial intelligence’ (2 minute read)](https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.theverge.com%2F2023%2F9%2F28%2F23893939%2Fjony-ive-openai-sam-altman-iphone-of-artificial-intelligence-device%3Futm_source=tldrnewsletter/1/0100018ae073348d-faeefa94-2018-4dbd-b844-1224887ba434-000000/KpvDfVSI8_L4GL-QWBaAD6nhzsy1zdzCFZ_u2FcmHT0=320)
+OpenAI is looking to use Apple former chief design officer Jony Ive's design firm LoveFrom to develop OpenAI's first consumer device. The project is aided by over $1 billion in funding from Softbank CEO Masayoshi Son. Ive and OpenAI CEO Sam Altman discussed the product during brainstorming sessions at Ive's San Francisco studio. The device will aim to provide a more natural and intuitive user experience for interacting with artificial intelligence. |
+[Microsoft Considered Selling Bing to Apple in 2020 (1 minute read)](https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.macrumors.com%2F2023%2F09%2F28%2Fmicrosoft-bing-acquisition-talks%2F%3Futm_source=tldrnewsletter/1/0100018ae073348d-faeefa94-2018-4dbd-b844-1224887ba434-000000/Hvd6IDUayxLHP0MwoUbApTRtVPATQYieHKMH53BbL5s=320)
+Microsoft considered selling Bing to Apple in 2020 in a deal that would have resulted in Bing replacing Google as the default search engine on Apple devices. Talks between the companies were only exploratory and did not progress. Apple did not move forward with the deal due to the money it earned from Google and because it thought that Bing would not be able to compete with Google in quality and capabilities. The Apple/Google deal is currently under scrutiny due to the antitrust trial between Google and the US Department of Justice. |
+Science & Futuristic Technology
+|
+[SpaceX Falcon Heavy May Launch NASA Psyche Mission to Metal Asteroid Next Week (2 minute read)](https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.cnet.com%2Fscience%2Fspace%2Fspacex-falcon-heavy-may-launch-nasa-psyche-mission-to-metal-asteroid-next-week%2F%23ftag=CAD590a51e%3Futm_source=tldrnewsletter/1/0100018ae073348d-faeefa94-2018-4dbd-b844-1224887ba434-000000/dqSTcpmGefvKTNlOF7gm1Y-HEmS4MO8B3_n2ncsVN-Q=320)
+A SpaceX Falcon Heavy rocket may be launching a spacecraft to explore the metal-rich asteroid Psyche as soon as October 5. The asteroid is estimated to be composed of up to 60% iron-nickel metals. It could be more valuable than the entire world economy. NASA has no plans to mine the asteroid. It will use data from the mission to get a more accurate idea of its potential value and learn more about what Earth's core might be like. |
+[Solar-powered airship will circle the world non-stop without fuel (3 minute read)](https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fnewatlas.com%2Faircraft%2Fsolar-powered-airship-one%2F%3Futm_source=tldrnewsletter/1/0100018ae073348d-faeefa94-2018-4dbd-b844-1224887ba434-000000/VOjQ20fH-qIHJoF8K7r8uMXpmNQOolo7OGrVN2QSLzs=320)
+Solar Airship One is a 151-meter-long airship that has its entire upper surface covered in solar film. The airship is able to run on solar power during the day and store enough extra power to continue during the night. Solar Airship One will have an average speed of 83 kilometers per hour. While it will run on renewable energy, the airship still uses 50,000 cubic meters of helium, a completely non-replaceable element. |
+Programming, Design & Data Science
+|
+[Wifi without internet on a Southwest flight (7 minute read)](https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fjamesbvaughan.com%2Fsouthwest-wifi%2F%3Futm_source=tldrnewsletter/1/0100018ae073348d-faeefa94-2018-4dbd-b844-1224887ba434-000000/ZWJ1Tq46fDHCcbZdYbZYIlSWduiEP0XBdzPF8bLUB4s=320)
+Unable to access the internet during a flight because of payment portal issues, this author decided to see what data was still available on the Wi-Fi network. They found a repeating successful request that contained data for the plane's altitude, estimated time of arrival, and ground speed. This article breaks down how the author analyzed the request and used the data to find out more about their flight. |
+[CSS Subgrid (6 minute read)](https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fweb.dev%2Fcss-subgrid%2F%3Futm_source=tldrnewsletter/1/0100018ae073348d-faeefa94-2018-4dbd-b844-1224887ba434-000000/QA2DcNsBzEGK2jqCycjebZeeDLfW1v82IoOr_tlukYY=320)
+CSS subgrid allows track sizing and the sharing of templates and names with nested grids. It allows for variably sized content. This article explains how CSS subgrid works. A list of resources for further reading is provided at the end of the article. |
+[AI, Hardware, and Virtual Reality (13 minute read)](https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fstratechery.com%2F2023%2Fai-hardware-and-virtual-reality%2F%3Futm_source=tldrnewsletter/1/0100018ae073348d-faeefa94-2018-4dbd-b844-1224887ba434-000000/ttYgdr1zrDzD9jf0wgfE7STV6v7pqrV4c4eR40j-qEo=320)
+This article looks at the most recent developments in technology and their implications. It covers ChatGPT's new voice and vision abilities, Meta AI, Emu, Meta Smart Glasses, the Quest 3, OpenAI's rumored device, and virtual reality. |
+[Working at a Startup vs in Big Tech (15 minute read)](https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fblog.pragmaticengineer.com%2Fworking-at-a-startup-vs-in-big-tech%2F%3Futm_source=tldrnewsletter/1/0100018ae073348d-faeefa94-2018-4dbd-b844-1224887ba434-000000/QbdjzLjreC8DUAz26CD7sGSEs3zIBD7teliPmh26H-4=320)
+Being in a startup can be good because it's very educational and you can make a lot of impact, but there is a lot of financial risk and stress involved and failure is always a possibility. Working in Big Tech feels more organized and benefits include internal transfers, financial stability, perks, and networking. However, employees may feel a lack of purpose, there is a lot of overhead and bureaucracy, and misaligned incentives around performance reviews can create pretty twisted political situations. |
+We help cutting edge companies hire world class technical talent through our job listings. If you're hiring software engineers, AI/ML engineers, product managers, designers or other tech talent, [click here to learn more](https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fshare.hsforms.com%2F1hmOFVmqOTrON_SRvaRqEbQee466%3Futm_source=tldr%26utm_medium=newsletter/2/0100018ae073348d-faeefa94-2018-4dbd-b844-1224887ba434-000000/axW0yWAqeFFDgRTMriLCnl1rfVCV_RadBQ7XIIF1Fx0=320).
+|
+If your company is interested in reaching an audience of tech executives, decision-makers and engineers, you may want to [advertise with us](https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fshare.hsforms.com%2F1OxvmrkcFS4qsxKpNXCi76wee466%3Futm_source=tldr%26utm_medium=newsletter/2/0100018ae073348d-faeefa94-2018-4dbd-b844-1224887ba434-000000/Ur0nUkdH6sk9xJsCckm32gqbpfr6tt0f0OBIGfHxb84=320).
+If you have any comments or feedback, just respond to this email!
+Thanks for reading,
+[Dan Ni](https://tracking.tldrnewsletter.com/CL0/https:%2F%2Ftwitter.com%2Ftldrdan/1/0100018ae073348d-faeefa94-2018-4dbd-b844-1224887ba434-000000/RK6fqwmPbDzgcC6KC7EVDzVI_WI4zNb7iKzAv0Ek-HI=320) and [Stephen Flanders](https://tracking.tldrnewsletter.com/CL0/https:%2F%2Ftwitter.com%2FSteveFlanders22/1/0100018ae073348d-faeefa94-2018-4dbd-b844-1224887ba434-000000/6cSeKZNuInz_ue4HaXhQtXNr2FCY5kZQ5Zq_4OBoXP0=320)
+|
+|
+|
+|

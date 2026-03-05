@@ -1,0 +1,9 @@
+---
+subject: "Adaptive Status Markers"
+from: "Robin Hanson from Overcoming Bias <overcomingbias@substack.com>"
+to: ""
+date: 2025-04-21 20:00:33
+labels: ["CATEGORY_PERSONAL", "INBOX", "Overcoming Bias", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_8616244883382228708", "UNREAD"]
+---
+As polls and asking LLMs 1 - Wasteful Signs: Consumption, Learning, Taste, Medicine - Signs of individual quality that induce great wasteful efforts to increase them. 2 - Safe Signs: Health, Looks - Signs of individual quality where its harder to waste lots in efforts to increase them. 3 - Norm Following: Honor/Loyalty, Generosity, Spiritual Purity, Honesty, Fairness - If your culture has good norms, there should be added value in rewarding adherence to them. 4 - Copy: Accomplished, Lineage: If your culture has good status markers, and good ways to evaluate accomplishments, then using these as status markers copies the good effects of other markers. 5 - Persuasion: Fame, Write/Talk Ability: Getting outsiders to adopt your cultural elements can be a big win in cultural evolution. But they have to be wiling to listen. 6 - Power: Power, Wealth, Autonomy: These directly and robustly enable your culture to win its conflicts with others, whether or not they are willing to listen. 6 - Conditional Levers: Inventive/creative , Combat Ability: In the right sort of cultural context, these greatly help your culture win its conflicts. And as they benefit the group more than the individual, they are especially good to encourage. 7 Fertility: This is just a robust direct win for your culture, if you can sustain it. These scores (1-6) correlate 0.54 with polls on status averaged over history. You're currently a free subscriber to |

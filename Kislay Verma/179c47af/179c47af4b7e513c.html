@@ -1,0 +1,353 @@
+<!DOCTYPE html>
+<html xmlns="https://www.w3.org/1999/xhtml" xmlns:o="urn:schemas-microsoft-com:office:office">
+<head>
+<title>It Depends #35: How big should a method be?</title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<!--[if !mso]><!-->
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<!--<![endif]-->
+<!--[if mso]>
+<style type="text/css">table {border-collapse:collapse;border-spacing:0;margin:0;}div, td {padding:0;}div {margin:0 !important;}</style>
+<noscript><xml><o:OfficeDocumentSettings><o:PixelsPerInch>96</o:PixelsPerInch></o:OfficeDocumentSettings></xml></noscript>
+<![endif]-->
+<style type="text/css">
+#outlook a{padding:0;} /* Force Outlook to provide a "view in browser" message */
+.ReadMsgBody{width:100%;} .ExternalClass{width:100%;} /* Force Hotmail to display emails at full width */
+.ExternalClass, .ExternalClass p, .ExternalClass span, .ExternalClass font, .ExternalClass td, .ExternalClass div {line-height: 100%;} /* Force Hotmail to display normal line spacing */
+body, table, td, a{-webkit-text-size-adjust:100%; -ms-text-size-adjust:100%;} /* Prevent WebKit and Windows mobile changing default text sizes */
+table, td{mso-table-lspace:0pt; mso-table-rspace:0pt;} /* Remove spacing between tables in Outlook 2007 and up */
+img{-ms-interpolation-mode:bicubic;} /* Allow smoother rendering of resized image in Internet Explorer */
+
+body{margin:0; padding:0; height:100% !important; margin:0; padding:0; width:100% !important;}
+img{border:0; height:auto; line-height:100%; outline:none; text-decoration:none; max-width: 100%!important}
+table{border-collapse:collapse !important;}
+img.aligncenter{display:block;margin:0 auto;}
+
+@media screen and (max-width: 525px) {
+
+ /* ALLOWS FOR FLUID TABLES */
+ table[class="wrapper"]{
+ width:100% !important;
+ }
+
+ table[class="responsive"]{
+ width:100%!important;
+ float: none;
+ display: table;
+ padding-left: 0;
+ padding-right: 0;
+ }
+
+ img[class="responsive"] {
+ max-width: 100%!important;
+ } 
+
+ .block {
+ display: block;
+ }
+
+ td[class="responsive"]{
+ width:100%!important;
+ max-width: 100%!important;
+ display: block;
+ padding-left: 0 !important;
+ padding-right: 0 !important;
+ float: none;
+ } 
+
+ td[class="section-padding"]{
+ padding: 50px 15px 50px 15px !important;
+ }
+
+ td[class="section-padding-bottom-image"]{
+ padding: 50px 15px 0 15px !important;
+ }
+
+ /* ADJUST BUTTONS ON MOBILE */
+ td[class="mobile-wrapper"]{
+ padding: 10px 5% 15px 5% !important;
+ }
+
+ td[class="responsive"]{
+ display: block;
+ width: 100% !important;
+ }
+
+ table[class="mobile-button-container"]{
+ margin:0 auto;
+ width:100% !important;
+ }
+
+ a[class="mobile-button"]{
+ width:80% !important;
+ padding: 15px !important;
+ border: 0 !important;
+ font-size: 16px !important;
+ }
+
+ .tnp-grid-column {
+ max-width: 100%!important;
+ }
+}
+
+/* Html */
+.html-td-global p {
+ font-family: Helvetica, Arial, sans-serif;
+ font-size: 16px;
+}
+
+
+/* Text */
+
+
+/* Last posts */
+@media (max-width: 525px) {
+ .posts-1-column {
+ width: 100%!important;
+ }
+ .posts-1-image {
+ width: 100%!important;
+ display: block;
+ }
+}
+
+
+</style>
+</head>
+<body style="margin: 0; padding: 0; line-height: normal; word-spacing: normal;" dir="ltr">
+
+<table cellpadding='0' cellspacing='0' border='0' width='100%'>
+<tr>
+<td bgcolor='#ffffff' valign='top'><!-- tnp --><table border="0" cellpadding="0" cellspacing="0" align="center" width="100%" style="border-collapse: collapse; width: 100%; user-select: auto;" class="tnpc-row tnpc-row-block ui-sortable-handle" data-id="heading">
+<tbody style="user-select: auto;"><tr style="user-select: auto;"><td align="center" style="padding: 0px; user-select: auto;" class="edit-block"><!--[if mso | IE]><table role="presentation" border="0" cellpadding="0" align="center" cellspacing="0" width="600"><tr><td width="600" style="vertical-align:top;width:600px;"><![endif]--><table type="options" class="tnpc-block-content" border="0" cellpadding="0" align="center" cellspacing="0" width="100%" style="width: 100% !important; max-width: 600px !important; user-select: auto;">
+<tbody style="user-select: auto;"><tr style="user-select: auto;"><td align="center" style="text-align: center; letter-spacing: normal; padding: 10px; background-color: rgb(255, 255, 255); width: 100% !important; line-height: normal !important; user-select: auto;" bgcolor="#ffffff" width="100%"><table border="0" cellspacing="0" cellpadding="0" width="100%" style="user-select: auto;">
+ <tbody style="user-select: auto;"><tr style="user-select: auto;">
+ <td align="center" valign="middle" style="padding: 0px; font-size: 30px; font-family: Verdana, Geneva, sans-serif; font-weight: normal; color: rgb(68, 68, 68); letter-spacing: normal; line-height: normal !important; user-select: auto;">
+ It Depends #35 </td>
+ </tr>
+</tbody></table></td></tr></tbody></table><!--[if mso | IE]></td></tr></table><![endif]--></td></tr></tbody></table><table border="0" cellpadding="0" cellspacing="0" align="center" width="100%" style="border-collapse: collapse; width: 100%; user-select: auto;" class="tnpc-row tnpc-row-block ui-sortable-handle" data-id="heading">
+<tbody style="user-select: auto;"><tr style="user-select: auto;"><td align="center" style="padding: 0px; user-select: auto;" class="edit-block"><!--[if mso | IE]><table role="presentation" border="0" cellpadding="0" align="center" cellspacing="0" width="600"><tr><td width="600" style="vertical-align:top;width:600px;"><![endif]--><table type="options" class="tnpc-block-content" border="0" cellpadding="0" align="center" cellspacing="0" width="100%" style="width: 100% !important; max-width: 600px !important; user-select: auto;">
+<tbody style="user-select: auto;"><tr style="user-select: auto;"><td align="center" style="text-align: center; letter-spacing: normal; padding: 10px; background-color: rgb(255, 255, 255); width: 100% !important; line-height: normal !important; user-select: auto;" bgcolor="#ffffff" width="100%"><table border="0" cellspacing="0" cellpadding="0" width="100%" style="user-select: auto;">
+ <tbody style="user-select: auto;"><tr style="user-select: auto;">
+ <td align="center" valign="middle" style="padding: 0px; font-size: 20px; font-family: Verdana, Geneva, sans-serif; font-weight: bold; color: rgb(34, 34, 34); letter-spacing: normal; line-height: normal !important; user-select: auto;">
+ How big should a method be? </td>
+ </tr>
+</tbody></table></td></tr></tbody></table><!--[if mso | IE]></td></tr></table><![endif]--></td></tr></tbody></table><table border="0" cellpadding="0" cellspacing="0" align="center" width="100%" style="border-collapse: collapse; width: 100%; user-select: auto; display: table;" class="tnpc-row tnpc-row-block ui-sortable-handle" data-id="text">
+<tbody style="user-select: auto;"><tr style="user-select: auto;"><td align="center" style="padding: 0px; user-select: auto;" class="edit-block"><!--[if mso | IE]><table role="presentation" border="0" cellpadding="0" align="center" cellspacing="0" width="600"><tr><td width="600" style="vertical-align:top;width:600px;"><![endif]--><table type="options" class="tnpc-block-content" border="0" cellpadding="0" align="center" cellspacing="0" width="100%" style="width: 100% !important; max-width: 600px !important; user-select: auto;">
+<tbody style="user-select: auto;"><tr style="user-select: auto;"><td align="center" style="text-align: center; letter-spacing: normal; padding: 10px; background-color: rgb(255, 255, 255); width: 100% !important; line-height: normal !important; user-select: auto;" bgcolor="#ffffff" width="100%"><table width="100%" style="width: 100% !important; user-select: auto;" border="0" cellpadding="0" cellspacing="0">
+ <tbody style="user-select: auto;"><tr style="user-select: auto;">
+ <td width="100%" valign="top" align="left" style="font-family: Verdana, Geneva, sans-serif; font-size: 18px; font-weight: normal; color: rgb(34, 34, 34); line-height: 1.5; user-select: auto;">
+ <p style="text-align: left; user-select: auto;"><span style="font-size: 18px; user-select: auto;">Hello Everyone!</span></p>
+<p style="user-select: auto;">Welcome to the 35th edition of It Depends. Hope you are all doing well and staying safe. My apologies for not sending out an edition last weekend - I got caught up with a few things and couldn't make time.</p>
+<p style="user-select: auto;">More than one person has reached out to me asking about how to structure code in methods. The question I hear most often is how much to break down a method. So let’s talk about how large a method should be.</p>
+<p style="user-select: auto;">Let’s say there’s a method in the codebase that does 4-5 things one after the other. The code for doing all those things is well-written, but the result is a somewhat large method. At what point should you break it up into multiple methods? There is the old adage about every method being fully visible without scrolling which I have always found weird. Let’s try to do better.</p>
+<p style="text-align: left; user-select: auto;">The good part about having all of the code inside a single method is that it is all in one place and in a sense, easy to absorb in one shot. The bad is part is that it makes the method large and if split, the reader will have to move in and out of multiple methods to understand what is going on.</p>
+<p style="text-align: left; user-select: auto;">I prefer the second approach because smaller methods are easier to understand for me. But there has to be a balance in that direction too. So while the correct answer is obviously “it depends”, I’ll try to give a little more in the way of guiding principles.</p>
+<p style="text-align: left; user-select: auto;">The key to writing or refactoring software is to reduce the cognitive load on the reader/maintainer of the code. All other considerations are subservient to that goal (of course, “it depends”). So the key to answering the question of granularity is to identify how people read and understand any piece of code. Or rather, how do we want them to read a piece of code.</p>
+<p style="text-align: left; user-select: auto;">Typically people read code from a higher level of abstraction to a lower level of abstraction. The guiding principle of each layer of code, typically represented by methods, is that it should prevent the user from wanting to dig deeper into the next layer. Not in the sense of sending them away screaming as quickly as possible, but rather by making what must be happening underneath so obvious that the reader never feels the need to read the next layer. In the context of this article, cognitive load can manifest in two forms: engagement and curiosity. We don’t want them to feel like they have to think (engagement) to understand something, and we don’t want them to want to think (curiosity) about something. This is sometimes called the “<a href="https://daijdhg.r.bh.d.sendibt3.com/tr/cl/r2gAFoD6rKrjbJn2U1Oin1jA__pOmPj-PS2UAlbXXOHt8MTefx_vcVcSahswmEWR9DFlMaTwbouekQVOn8CFmtiJkgijTCC4pbAwR_YKNTeaP51GNfao27C9jrA9epVcqn9gRaEmiKH-Lgv7-WCaVR9DbpYNRUixsF2pQVikp8mp_8oofchBJQbpfREnlnNS9op4Ig0uoa19acEvRngg2l8nrGzIHrXssBjtpm8eD1kw1Om_8BSyaWT8ApHMczPeXTHWLYCSGNFyQPcQbtAHcu8LEJnvKuCWeWa0RST5I5N3CoDpmkRAtw_8HpypA28LiMCaSSW4GLvVmacB9KDS3ya4FOSGUiDCQihuWMQA1k-_QbRCLeidOp6GhN1A0XPuvww3RwARE4rmWdqCoSUpug" target="_blank" rel="noopener" style="user-select: auto;">Principle of least astonishment</a>” and applying this can help us bound the upper and lower granularity of a method.</p>
+<p style="text-align: left; user-select: auto;">At each level, a well-written method represents a declarative (what is to be done) unit to work to its higher layers (the ones who called it) and internally contains a set of imperatively defined steps (how is this to be done). In this sense, our method in question which does 4-5 things, is in some sense a workflow. As I wrote in <a href="https://daijdhg.r.bh.d.sendibt3.com/tr/cl/WzWoyE3AmgixjoRY3u0NP_5CsnMPPKLpaUsfcMgCGjAloL6pHZ18tHGQRaM_JjgJMSZmwI0pVWWcdBuNauBoWaDLbpw4cXtCF4_XabzCGXDQzZeC2fv1sH6LMZa2E6I6QAErSNpoMdCuzFkBr-7o4Ap2n_aw4a0wEvcVhCsRkoPVdGyg1SsX39A_V4OAInwLAIb7AZZq0sImIaPYcWtd1Yy_auFwcqgufQ7v8ExC3lt2cLuQu25_XG4dub2vne10pvtWJ7WKD9nUK4jBgm47vDfQth1ZjmoOM88JezI5IBXFPg7LDL73H3M5vQgkasQ7WiE2K5gKidBQozFScvmmZ0nAuDmrRFlKdaUgdsX62M8gk1inaFhFfub1bljVxWyNNcvL6M1I0BhrRiE8swcxBNtBjBqnS1a0XfXFDgWryzmKwzf8S07M0J75B3kbvuyuGbeZ81b8G-M" target="_blank" rel="noopener" style="user-select: auto;">my previous article on workflows</a>, the place where a workflow is defined should only define what steps are to be taken, not how each of them works internally.</p>
+<p style="text-align: left; user-select: auto;">Let’s take the example of booking a doctor’s appointment at a hospital. A <span style="font-family: &quot;courier new&quot;, courier, monospace; user-select: auto;">makeAppointment(hospitalId, doctorId, patientId, startTime, endTime)</span> method can do several things:</p>
+<ol style="user-select: auto;">
+<li style="text-align: left; user-select: auto;">Check the working hours of the hospital</li>
+<li style="text-align: left; user-select: auto;">Check if the doctor has no other appointment during that time</li>
+<li style="text-align: left; user-select: auto;">Book the appointment</li>
+<li style="text-align: left; user-select: auto;">Notify the doctor of the appointment</li>
+<li style="text-align: left; user-select: auto;">Notify the patient of the appointment</li>
+</ol>
+<p style="user-select: auto;">Let implement this by putting all the code in one place (<a href="https://daijdhg.r.bh.d.sendibt3.com/tr/cl/OnIGDzRAjEc8UG8i8iVDN9GuarLa1TWE4mO2L2SdjsBuIGpR7U5j1-nCprcb9JNHibPQDeO7Ke7C4CzdBE93EOIldKMgux3HD1lxlX5HGlPzxUHQiatbVX2MOWSwHvuLwkQGibPTk1e_rfzDGs8ujjigaUhpqdhPHieTLF_BkTxBDy8_jhewcasUaBWGmLXDCOJ9cOiUuUmEZVXt4YFeGdfBzxIevwbjDnbdHYXDSscLVfpY6UQODOVLW_SGzv_TXSx0WWpkKnpREv74Y0tW7AxzxIVW-2vgBE8VduBxPKOqRis4kqpVU--27DOVERC41EWKBVA5m86wNQCXblzQZiazvdp-v_-SkyrHOxfZ3O3uTNVJ0MjG0I8pQs7kI8w72_3H8M2H_6z8ABnN1n2_RNdQ3R7G9li6O_gnj5mqyiIi009KV4k_GVr_KfA3ByFGrtrh_i35X2ZDyqQ5" target="_blank" rel="noopener" style="user-select: auto;">gist</a>).</p>
+<pre style="color: rgb(0, 0, 0); user-select: auto;"><span style="font-size: 14px; user-select: auto;"><span style="font-family: &quot;courier new&quot;, courier, monospace; user-select: auto;">public Slot makeAppointment(Doctor d, Hospital h, Patient p, Date startTime, Date endTime) throws Exception {
+ // Check if hospital is open during this time period
+ String hospitalServiceBaseUrl = ConfigReader.readConfigName("hospitalServiceBaseUrl");
+ HospitalService hospitalService = new HospitalService(hospitalServiceBaseUrl);
+ DateRange range = hospitalService.getWorkingHours();
+ if (!range.contains(startTime) || !range.contains(endTime)) {
+ throw new Exception("Hospital isn't open in this time period");
+ }
+ // Check if doctor has no other appointment in this time period
+ String scheduleServiceBaseUrl = ConfigReader.readConfigName("scheduleServiceBaseUrl");
+ ScheduleSerivce scheduleService = new ScheduleService(scheduleServiceBaseUrl);
+ Slot s = scheduleService.getAppointmentSlots(d).stream()
+ .filter(slot -&gt; !slot.isOccupied()) // Only consider free slots
+ .filter(slot -&gt; slot.contains(startTime) &amp;&amp; slot.contains(endTime)) // Only consider slots which contain this time period
+ .findFirst();
+ // Create the appointment
+ s.setIsOccupied(true);
+ Slot bookedSlot = scheduleService.bookSlot(d, p, s);
+ // Notify doctor using custom email template
+ DoctorEmailTemplate doctorEmailTemplate = new DoctorEmailTemplate(d, p, bookedSlot);
+ notificationService.notify(d, doctorEmailTemplate);
+ // Notify patient using custom email template
+ PatientEmailTemplate patientEmailTemplate = new PatientEmailTemplate(d, p, bookedSlot);
+ notificationService.notify(p, patientEmailTemplate);
+
+ return bookedSlot;
+</span>}</span></pre>
+<p style="margin: 0px 0px 1.4rem; padding: 0px; font-size: 17.6px; line-height: 1.9; color: rgb(0, 0, 0); font-family: Muli, sans-serif; text-align: left; user-select: auto;"><span style="font-family: verdana, geneva, sans-serif; font-size: 18px; user-select: auto;">This method is not so bad as some real-world code you may have seen. But the moment I reach this method, my brain has to wake up to the details of everything going on here. I wanted to understand how an appointment is booked but suddenly I’ve run into a bunch of API calls and other things. This doesn’t exactly match my&nbsp;<a href="https://daijdhg.r.bh.d.sendibt3.com/tr/cl/JSyIOc_kTcNqX7-wF97pC4ztUrFpxxLUCfs82VxzUEzk5RyD-dtqbml2rmf_tg33NW38u51cCCZuyJI5fnfbH11FGUbKcWI8wbYoWAUkjDbLRLQeiIU8nIRJsD7B3fzhrAcl7_CYPRVpZ1nw6tl91kj_2GXApnAB4kb0y3SJ4H_sF5QUvBrk9BqK3GU1sfag_oLmlsSLdJr7ko2OCgw3tz8JCzY8i8o20ky_2KtT0KGcj3_E42li2NhT6A8LARo8lyUVmoLx02SATT7kc18ErU_Y3gGSoofKzHUR_PPM8tiRTazQ0g86yQO4_HEGPd1LkhUWZd0sC9iaYOEy7uU-ddZAlL-zEli6-_1qgQeACsqepmgQAMYCxoZrLbByoJemQcbUqidBF1-b73Q9iE-WMeI7p0nBG00n" target="_blank" rel="noreferrer noopener" style="user-select: auto;">mental model</a>&nbsp;of how to book an appointment. This result is a high cognitive load. Therefore, this method should be broken down till it reaches the mental model “in English” as much as possible. Here’s a possibility (<a href="https://daijdhg.r.bh.d.sendibt3.com/tr/cl/buhLNZBjzcjSYGNPDrkudN_Bqawme485NsxUk7SOD8JHO6zmmNxnDJ8P1BPywIG04nVwfkEClg1nD0boTj5N_pnOkxjN4b-dG2aBk6ocsFDlPZhOqWXuKtsOdKqbfcbD3Wrjl2NMXDtHSTSeG5J8jZ4jxt0S2Hqy1ZfNqk7kI9Cn66GGzbfLHRc6Ff_ydHHkvw5cwx5LWS5VpgwAEGk6S2wpkuUh2QH4VqR-wSrCu8z8dPZBoUw4mo21H_vVPc-ul9agXxIluDeq-VbgadbhQfgGQ1lcH5MvkD1MhmMEBQUCoX_5tzg1EobEjgJkI7oo8aN_fP-EIxR69cuCPAugYWknpl4Wy4MIHLJQ3sDrza0npDSpkPwP_HHu5SNmpcrgLzuQYbtar8mLR8wb4WP33gOePzA" target="_blank" rel="noreferrer noopener" style="user-select: auto;">gist</a>).</span></p>
+<pre style="user-select: auto;"><span style="font-family: &quot;courier new&quot;, courier, monospace; font-size: 16px; user-select: auto;">public Slot makeAppointment(Doctor d, Hospital h, Patient p, Date startTime, Date endTime) throws Exception {
+ if (!isHospitalOpen(h, startTime, endTime)) {
+ throw new Exception("Hospital isn't open in this time period");
+ }
+ Slot s = getFreeSlotForDoctor(d, startTime, endTime);
+ if (s == null) {
+ throw new Exception("Doctor is not free in this time period");
+ }
+ Slot bookedSlot = createAppointment(s, d, p);
+ notifyDoctor(bookedSlot, d, p);
+ notifyPatient(bookedSlot, d, p);
+ return bookedSlot;
+}
+private boolean isHospitalOpen(Hospital h, Date startTime, Date endTime) {
+ String hospitalServiceBaseUrl = ConfigReader.readConfigName("hospitalServiceBaseUrl");
+ HospitalService hospitalService = new HospitalService(hospitalServiceBaseUrl);
+ DateRange range = hospitalService.getWorkingHours();
+ return range.contains(startTime) &amp;&amp; range.contains(endTime);
+}
+private boolean getFreeSlotForDoctor(Doctor d, Date startTime, Date endTime) {
+ String scheduleServiceBaseUrl = ConfigReader.readConfigName("scheduleServiceBaseUrl");
+ ScheduleSerivce scheduleService = new ScheduleService(scheduleServiceBaseUrl);
+ return scheduleService.getAppointmentSlots(d).stream().filter(slot -&gt; !slot.isOccupied) // Only consider free slots
+ .filter(slot -&gt; slot.contains(startTime) &amp;&amp; slot.contains(endTime)) // Only consider slots which contain this time period
+ .findFirst();
+}
+private Slot createAppointment(Slot s, Doctor d, Patient p) {
+ String appointmentServiceBaseUrl = ConfigReader.readConfigName("appointmentServiceBaseUrl");
+ AppointmentService appointmentService = new AppointmentService(appointmentServiceBaseUrl);
+ s.setIsOccupied(true);
+ return appointmentService.bookSlot(d, p, s);
+}
+private void notifyDoctor(Slot s, Doctor d, Patient p) {
+ DoctorEmailTemplate doctorEmailTemplate = new DoctorEmailTemplate(d, p, bookedSlot);
+ notificationService.notify(d, doctorEmailTemplate);
+}
+private void notifyPatient(Slot s, Doctor d, Patient p) {
+ PatientEmailTemplate patientEmailTemplate = new PatientEmailTemplate(d, p, bookedSlot);
+ notificationService.notify(p, patientEmailTemplate);
+}</span></pre>
+<p style="margin: 0px 0px 1.4rem; padding: 0px; font-size: 17.6px; line-height: 1.9; color: rgb(0, 0, 0); font-family: Muli, sans-serif; text-align: left; user-select: auto;"><span style="font-family: verdana, geneva, sans-serif; font-size: 18px; user-select: auto;">This looks a lot more like the workflow I was expecting. The details of each of the steps are now hidden, which means that they can change without us knowing about that. But the biggest thing is that I don’t feel like I have to go into each of the new methods to see what they do if all I want is a logical understanding of how appointments are booked. There are technical things like exceptions that still intrude upon the reading experience, but for the most part, astonishment has been eliminated by reducing the model-code gap.</span></p>
+<p style="margin: 0px 0px 1.4rem; padding: 0px; font-size: 17.6px; line-height: 1.9; color: rgb(0, 0, 0); font-family: Muli, sans-serif; text-align: left; user-select: auto;"><span style="font-family: verdana, geneva, sans-serif; font-size: 18px; user-select: auto;">Now let’s go one step deeper and further break down the methods here (<a style="background-color: transparent; line-height: inherit; color: rgb(0, 102, 204); cursor: pointer; user-select: auto;" href="https://daijdhg.r.bh.d.sendibt3.com/tr/cl/A2eOyURAN2vTc-qv1JCtAyApw_7fy-MNiF6Bf-MbKDwT534hBMGMzze3-QJPzSBLwPvchoe9Mdbo5T8TJf_eEhxwbCE9mCBn5eQC6aR_uMk8xaYnHAAuYARz_gQEnaFXQSTA4gqq9FqUJjOLBx3N7JlWg57GTp2snwtr2HxfNHaVYPINwGBwTzhfxRFdgy5SRt00843zwL3VEu-8oL7nR3eu5uHaoUBCOfn6jiTvaKmNHMVq5xg6BV0upXHy6TSC6uB4Q25quueCOB7TT2glDghnsdGoN-rc6h6A1rTf21FZizs7HgIycL7BJEyRn8ZqdKHdrt6dRTYquugBsMVkLWeEOGccbNLiYRKdxL8Tsnc1fxSQqKYxqMG11FMbKhKJwCZrKNyPwBZbZGL8St5YXp7SI2Q" target="_blank" rel="noreferrer noopener">gist</a>).</span></p>
+<p style="margin: 0px 0px 1.4rem; padding: 0px; font-size: 17.6px; line-height: 1.9; color: rgb(0, 0, 0); font-family: Muli, sans-serif; text-align: left; user-select: auto;"><span style="font-family: &quot;courier new&quot;, courier, monospace; font-size: 14px; user-select: auto;">public Slot makeAppointment(Doctor d, Hospital h, Patient p, Date startTime, Date endTime) throws Exception {</span></p>
+<pre style="color: rgb(0, 0, 0); user-select: auto;"><span style="font-family: &quot;courier new&quot;, courier, monospace; font-size: 14px; user-select: auto;"> if (!isHospitalOpen(h, startTime, endTime)) {
+ throw new Exception("Hospital isn't open in this time period");
+ }
+ Slot s = getFreeSlotForDoctor(d, startTime, endTime);
+ if (s == null) {
+ throw new Exception("Doctor is not free in this time period");
+ }
+ Slot bookedSlot = createAppointment(s, d, p);
+ notifyDoctor(bookedSlot, d, p);
+ notifyPatient(bookedSlot, d, p);
+ return bookedSlot;
+}
+private boolean isHospitalOpen(Hospital h, Date startTime, Date endTime) {
+ String hospitalServiceBaseUrl = ConfigReader.readConfigName("hospitalServiceBaseUrl");
+ HospitalService hospitalService = new HospitalService(hospitalServiceBaseUrl);
+ DateRange range = hospitalService.getWorkingHours();
+ return range.contains(startTime) &amp;&amp; range.contains(endTime);
+}
+private boolean getFreeSlotForDoctor(Doctor d, Date startTime, Date endTime) {
+ return buildScheduleService().getAppointmentSlots(d).stream().filter(slot -&gt; !slot.isOccupied) // Only consider free slots
+ .filter(slot -&gt; slot.contains(startTime) &amp;&amp; slot.contains(endTime)) // Only consider slots which contain this time period
+ .findFirst();
+}
+private ScheduleService <strong style="user-select: auto;">buildScheduleService</strong>() {
+ String scheduleServiceBaseUrl = ConfigReader.readConfigName("scheduleServiceBaseUrl");
+ return new ScheduleService(scheduleServiceBaseUrl);
+}
+private Slot createAppointment(Slot s, Doctor d, Patient p) {
+ String appointmentServiceBaseUrl = ConfigReader.readConfigName("appointmentServiceBaseUrl");
+ AppointmentService appointmentService = new AppointmentService(appointmentServiceBaseUrl);
+ s.setIsOccupied(true);
+ return appointmentService.bookSlot(d, p, s);
+}
+private void notifyDoctor(Slot s, Doctor d, Patient p) {
+ DoctorEmailTemplate doctorEmailTemplate = new DoctorEmailTemplate(d, p, bookedSlot);
+ notificationService.notify(d, doctorEmailTemplate);
+}
+private void notifyPatient(Slot s, Doctor d, Patient p) {
+ PatientEmailTemplate patientEmailTemplate = new PatientEmailTemplate(d, p, bookedSlot);
+ notificationService.notify(p, patientEmailTemplate);
+}</span></pre>
+<p style="margin: 0px 0px 1.4rem; padding: 0px; font-size: 17.6px; line-height: 1.9; color: rgb(0, 0, 0); font-family: Muli, sans-serif; text-align: left; user-select: auto;"><span style="font-family: verdana, geneva, sans-serif; font-size: 18px; user-select: auto;">Note the&nbsp;<em style="line-height: inherit; user-select: auto;">buildScheduleService</em>&nbsp;method. If I really want to understand how ScheduleService is invoked to get a doctor’s schedule, this still looks all right, although just about at this stage someone will start arguing that service creation should not be done in this class or that it can be more generically for all service. That’s fine, it can still stand alone as a method, if not in this class then elsewhere. But the question indicates the curiousity/astonishment quotient has started rising.</span></p>
+<p style="margin: 0px 0px 1.4rem; padding: 0px; font-size: 17.6px; line-height: 1.9; color: rgb(0, 0, 0); font-family: Muli, sans-serif; text-align: left; user-select: auto;"><span style="font-family: verdana, geneva, sans-serif; font-size: 18px; user-select: auto;">Let’s take it one step further (<a style="background-color: transparent; line-height: inherit; color: rgb(0, 102, 204); cursor: pointer; user-select: auto;" href="https://daijdhg.r.bh.d.sendibt3.com/tr/cl/BWCXlKWJ7ZaMaGA9Rmd_fas5x7FbpdSXtgFvpYB2vmTZTWT33622cWCdKZgtL3fzawD6z2BAkJoh1LUNv1Z3n8rTpe0tYATzLBzv0N9oZnpe2-co8uA-CiOTRWQbwpqLNTB9lMwrNQI7Pvd95N57WM_68O79y0QyacLWO1Xw9yAK3319mhleQI-MAouuGjbqnV23KGRykOZWCARYxmAdJGM0Y0shJZvKrSYWkPvay-FU8N1sqw-4TxQ2PtosUqSEwjxY1uFOYp9875rFZF_lVIFGseHkrvks5cfpU5AxzeTzwdBdCxvb6cjuWTdBff_KXyxrBiN9zU-jOFkT9ioyXfTCeOApbB4uUH-vCCmVf0xo90BtVR9OMqdI75bPLTGeNj6rsPBpL3dIVEgbiENTkYsA-7A" target="_blank" rel="noreferrer noopener">gist</a>).</span></p>
+<pre style="color: rgb(0, 0, 0); user-select: auto;"><span style="font-family: &quot;courier new&quot;, courier, monospace; font-size: 14px; user-select: auto;">public Slot makeAppointment(Doctor d, Hospital h, Patient p, Date startTime, Date endTime) throws Exception {
+ if (!isHospitalOpen(h, startTime, endTime)) {
+ throwException("Hospital isn't open in this time period");
+ }
+ Slot s = getFreeSlotForDoctor(d, startTime, endTime);
+ if (s == null) {
+ throwException("Doctor is not free in this time period");
+ }
+ Slot bookedSlot = createAppointment(s, d, p);
+ notifyDoctor(bookedSlot, d, p);
+ notifyPatient(bookedSlot, d, p);
+ return bookedSlot;
+}
+private void <strong style="user-select: auto;">throwException</strong>(String message) throws Exception{
+ throw new Exception(message);
+}
+private boolean isHospitalOpen(Hospital h, Date startTime, Date endTime) {
+ String hospitalServiceBaseUrl = ConfigReader.readConfigName("hospitalServiceBaseUrl");
+ HospitalService hospitalService = new HospitalService(hospitalServiceBaseUrl);
+ DateRange range = hospitalService.getWorkingHours();
+ return range.contains(startTime) &amp;&amp; range.contains(endTime);
+}
+private boolean getFreeSlotForDoctor(Doctor d, Date startTime, Date endTime) {
+ return buildScheduleService.getAppointmentSlots(d).stream().filter(slot -&gt; !slot.isOccupied) // Only consider free slots
+ .filter(slot -&gt; slot.contains(startTime) &amp;&amp; slot.contains(endTime)) // Only consider slots which contain this time period
+ .findFirst();
+}
+private ScheduleService buildScheduleService() {
+ String scheduleServiceBaseUrl = ConfigReader.readConfigName("scheduleServiceBaseUrl");
+ return new ScheduleService(scheduleServiceBaseUrl);
+}
+private Slot createAppointment(Slot s, Doctor d, Patient p) {
+ String appointmentServiceBaseUrl = ConfigReader.readConfigName("appointmentServiceBaseUrl");
+ AppointmentService appointmentService = new AppointmentService(appointmentServiceBaseUrl);
+ s.setIsOccupied(true);
+ return appointmentService.bookSlot(d, p, s);
+}
+private void notifyDoctor(Slot s, Doctor d, Patient p) {
+ DoctorEmailTemplate doctorEmailTemplate = new DoctorEmailTemplate(d, p, bookedSlot);
+ notificationService.notify(d, doctorEmailTemplate);
+}
+private void notifyPatient(Slot s, Doctor d, Patient p) {
+ PatientEmailTemplate patientEmailTemplate = new PatientEmailTemplate(d, p, bookedSlot);
+ notificationService.notify(p, patientEmailTemplate);
+}</span></pre>
+<p style="user-select: auto;">Any developer with any amount of experience in any codebase will get curious as to why we need a separate method just to throw an exception. They will try to go to the lower level to understand it, which is exactly what we set out to prevent. At this level of granularity, our method size is causing astonishment so we should abort this step.</p>
+<p style="user-select: auto;"><span style="font-family: verdana, geneva, sans-serif; font-size: 18px; user-select: auto;">The point at which engagement or curiousity begins to rise depends on the business and technical context of a codebase. So while this is obviously a simple example, preventing cognitive load is widely applicable as a guiding principle in software engineering. When reading a piece of code, keep in mind your engagement and curiousity levels. If either increase, there may be the possibility of refactoring.</span></p>
+<h2 style="text-align: left; user-select: auto;">From the internet this week</h2>
+<ol style="text-align: left; user-select: auto;">
+<li style="user-select: auto;"><span style="font-family: verdana, geneva, sans-serif; font-size: 16px; user-select: auto;">Ingrid writes about <a href="https://daijdhg.r.bh.d.sendibt3.com/tr/cl/vrYRdr-GNUAvAGYPJHCwFIjcLYjje5tyBrDDHFlcZnnvtzeXZ5YEmvfPEmznnG1dApCHWZaFAnrB4vdXbSioIxEGLsbwY4zrL2McCoRMyWEh7b_-Wqwisfs1uGynovKBK_MQGQHdchU4vhy9vrpK4j91lPzJ79peubITPZdyvavboZ-F_zHLfrPHdHDvUxl0hoZjZFzT7eUfyPI8gfL73qr9aXFzBbwJrPAISBg3FMDGXHHyUl2xYIQoYhYRQYT1wKtmG_XBSZypZ3DAPVWzGF1QhlpwkQSPmmoJkYc-oZOIzSYq4m-xDULIKV_nTDwhvVFt5HjZ0_Mzb82IeCFt9J1fXZF732f3ix-dWKwqTBj0Mj4nAfgM6z9c181itATB054iVLQStqt0raD-" target="_blank" rel="noopener" style="user-select: auto;">why decentralised applications don't work</a> in the real world. With crypto making news for all kinds of reasons, this is a thought-provoking take.</span></li>
+<li style="user-select: auto;"><span style="font-size: 16px; user-select: auto;">Here's an old video of <a href="https://daijdhg.r.bh.d.sendibt3.com/tr/cl/nF_LLqqYfESheuZ3qj_2qOSSBAdl3fgphOLxhY6NQxrwUpVRIy9ek0Q084FmuYckqPEVanwWLdPYh5UPwE0TCr1jxa0q0_0mfjdaxCkHaiqxA1aVHSxnF2hnSZiyUIjkqp26g9EB5yVgkfAGJWM69cDUmqsbH2tl_IAQeUj8P446o7AsY7iXTdIgi6vtgkpRP_3PcuLxkbf44XfONR3hXLDCtA-Cel7v7euHhMkkERNj6smY8q5CwozvJwhv5p8VQ1mztaH8yi86esTny6WHI56fedTI0YqC-FRsJTIvg1sV9-P1vIbUYzSAqxEMmuQuFbSzexmsXcWw92ePY9HNgIiSqpz2Qo5Np4JZ6yTT5sso0iBN" target="_blank" rel="noopener" style="user-select: auto;">Brian Kerninghan interviewing Ken Thompson</a>. The interaction between these two greats is worth listening to.</span></li>
+<li style="user-select: auto;"><span style="font-size: 16px; user-select: auto;"><a href="https://daijdhg.r.bh.d.sendibt3.com/tr/cl/NrCDBDFdX662WcOqZjq___1e-kXLuRzzupvsDhQqyCPKEfk3fBCiMNJAZKdvSGGfTLwvWumZupQXexZLY8VQOeF4T2R3jGVv5ly7nM-JyKgU1kd1Rh4N4TzOOYcQATvjnb6uJq0z0WQdtUWFEF0Bw-I0ckTw_3o1KDKOF7E5joMmN8-773x4NrcQRoxM9CAcPiZv02Qs9l_AtdOK7vfC1NjN52y6oOLMHr7SJVgfrr3c8SCWcMuIFvyWHMr2FPJRf1n0Z56ODXuQQqC8ZBYlbyWOL1sxs6e9S5RTRMBcKOdM9VnKry1m0wwB5TY6eaOfH1HgwY-oZaIPBsOm" target="_blank" rel="noopener" style="user-select: auto;">Jamie Brandon</a> discusses <a href="https://daijdhg.r.bh.d.sendibt3.com/tr/cl/-yzXL3XXCKm8iIOTBaw2FMfLRKIP3Yh_Wa16KAXo0XbJTo7glb2CjVtpRNxcrYOqMN4SNzMiGyOW_mrzKkLTRgolbzIfxW-jRDeJOj3nwQNmkjv1JAOacqxlrYySXZ9ZJqSPc64-C2KY32Pa2KoYahUg_zRFvHieA2sZYDXbMo0WhB0mqVSCCrZID2Vr8p6vTzeIK4qrd4bGbGpmltquhk17HMYrmqH9OQcbTvy6oOIh166tPE2c54OzfU_R242TEC4-IYsD-osu-078H5Gg_C7QEksnm66hKQG9GDXDuwpz5qy2z6WU-476Nwv_Wcafh-xfl-xqp66dd2PBsJkMjKhIOXXr6PTV3mWUfz3Q0k1LenGb0V8XOxcbF0_C_5R0anCZvk9uaS4Kzds_aSm_MGYTh3-UlORLJxy_ARZr5lE" target="_blank" rel="noopener" style="user-select: auto;">consistency in streaming systems</a>.&nbsp;</span></li>
+<li style="user-select: auto;"><span style="font-size: 16px; user-select: auto;">Our words shape our perspectives. <a href="https://daijdhg.r.bh.d.sendibt3.com/tr/cl/g0x6KeSjFYcZKgW_SzQXbfs_WVKVIy1LP74_bnVz5g09l-zz7x2Pyc_iORRZVDIKPaVIeXz-BvXzfYc1-Fp6G8VsUTdtdrY6Oa8lPOL21WAXfo2FxUcsMhZN-r0zq7aH6QsyAn8P2lUUywLNqf0GIydBD0g5CmftzLvL6dpANAEbem3H2MW_OwNTzdPcWboAj62gtYDHs9zc2ynkzig_X83t08TZhSUEEn1Qen7EVYBBGy5QhalCYLH84OnroS0pl5_tXRg7CKJgL13QJFGengBH3jLTf3U2a08uEW-w_fgE3J05R8Rs0s8E6yJDQ00QjCu06-yqdEzN0vaQ8Wq7GA" target="_blank" rel="noopener" style="user-select: auto;">Sarah Drasner</a> reminds us that engineering managers should think of their team as <a href="https://daijdhg.r.bh.d.sendibt3.com/tr/cl/fZTqSywyR3szPQWKiBPtvDCc0A81K3CuZ3eDoKgJGnOhnOb9CXabSYLzVjVLFK4Buhel1wVGn11QIPxcHQNocUcOurSMSK92V5PJghRcSjJoJ9oln54HHWB6xEMy5uKq2DVORjAkfzXiz6t7txWU5OD5Bs26g-tjEMVQBZsphj0OdVI16i33QakQCzc3vbbBk5xObrtba1k7jrtj76fJOjv6708iFcQp1KoMT2LYp_jFLoB9-P-MI3TVg0VGnhTfPpUYr-Rb5emndorzOHw42NGb36XHgt3aCOkS47o_slUBzwnroq0IAdfj_wEtLPzGhvlcixE7c1OuXwsQl81faihuTcClLdv0Il4fOrg42Zc" target="_blank" rel="noopener" style="user-select: auto;">"us", not "them"</a>.</span></li>
+</ol>
+<p style="text-align: left; user-select: auto;">That's it for this week folks!</p>
+<p style="text-align: left; user-select: auto;">Cheers!</p>
+<p style="text-align: left; user-select: auto;">Kislay</p> </td>
+ </tr>
+</tbody></table></td></tr></tbody></table><!--[if mso | IE]></td></tr></table><![endif]--></td></tr></tbody></table><table border="0" cellpadding="0" cellspacing="0" align="center" width="100%" style="border-collapse: collapse; width: 100%; user-select: auto; display: table;" class="tnpc-row tnpc-row-block ui-sortable-handle" data-id="footer">
+<tbody style="user-select: auto;"><tr style="user-select: auto;"><td align="center" style="padding: 0px; user-select: auto;" class="edit-block"><!--[if mso | IE]><table role="presentation" border="0" cellpadding="0" align="center" cellspacing="0" width="600"><tr><td width="600" style="vertical-align:top;width:600px;"><![endif]--><table type="options" class="tnpc-block-content" border="0" cellpadding="0" align="center" cellspacing="0" width="100%" style="width: 100% !important; max-width: 600px !important; user-select: auto;">
+<tbody style="user-select: auto;"><tr style="user-select: auto;"><td align="center" style="text-align: center; letter-spacing: normal; padding: 15px; background-color: rgb(255, 255, 255); width: 100% !important; line-height: normal !important; user-select: auto;" bgcolor="#ffffff" width="100%"><a style="font-family: Verdana, Geneva, sans-serif; font-size: 13px; font-weight: normal; color: rgb(34, 34, 34); text-decoration: none; line-height: normal; user-select: auto;" href="https://daijdhg.r.bh.d.sendibt3.com/tr/cl/P8covYyXRWhxejtvRU-6ishaMaJ36YrW6U2Gsz8ZjZ7wxM2ivPaweuWwhNlIlHlye7EEQwZ9K6R0Ds43zNZTh9r7mOVA-oLxAMUSkDnw-J0t-fYmNaBvOwnxxUv6jRYKkbHmUtpHDu8bY2nim48kGhzwhhScmRLQVJ1HuKLZthA-qe6YGF8SafXS5xJrBstye6lY-tVgRzrR9UxZXcXFmcrNFHVn-Ep2jHqOyxu307JDl7Za57D8rgBdnzP6lhe5JqHq02RNmVRVSC3ULNKdOgJjMdw4Ztm0L6QydX2HAhgFhjzzbCsjxLuYBSAkrYeXGrksZ9XuxjRfKBlS7JaiKQawlcLZKKIAT34wEzeHZUJhf74SAAVL41gbUf7XzdoTIVi_UjWe0vqi5RBeymAM2g" target="_blank">Modify your subscription</a>
+
+<span style="font-family: Verdana, Geneva, sans-serif; font-size: 13px; font-weight: normal; color: rgb(34, 34, 34); text-decoration: none; line-height: normal; user-select: auto;">&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;</span>
+
+<a style="font-family: Verdana, Geneva, sans-serif; font-size: 13px; font-weight: normal; color: rgb(34, 34, 34); text-decoration: none; line-height: normal; user-select: auto;" href="https://daijdhg.r.bh.d.sendibt3.com/tr/cl/4VSkr2GqyrxJgkRSGoCaybnhha7dGDr7tpxoaLc1wo8drA6_RmFqsNUCcKvDRIArIlvTLCdCTBIOuLSgdcnNcDEkuGG6NgWXYPaaPnHIerRvxLuQvVf7ZRspWfO_wdnGFruh7BNAW2Do4p52_r_2DGPZsYz-p1mPrSbSh2zskBhiFmgZnlIVcbF14_ACd5VD08A9IPz7Idy_TM7CihduqFdff5uhg7hVl1iH9iHlojeKbgFcY8AbF_HhJO1MltO5rjLDcwRQN5tCVDk9CEpguI7t40zjTXu9mtXtq1_xW8fZS4J-5_CtHiSO7J55U3BjnYxWmpIonjroqtJ_Vruez3jOblrgAJoP6x8K0wjeIpAPxNviSyDnUoI444vrEiPz" target="_blank">View online</a></td></tr></tbody></table><!--[if mso | IE]></td></tr></table><![endif]--></td></tr></tbody></table>
+
+
+
+
+
+
+
+
+<!-- /tnp -->
+</td>
+</tr>
+</table>
+
+<img width="1" height="1" alt="" src="https://kislayverma.com/?noti=NTk7MzgxMjs1ZWZmN2Q2MmU2NTQ2NWIwNjEwZDUwYTVlYmEzN2M0MA%3D%3D"/><img width="1" height="1" src="https://daijdhg.r.bh.d.sendibt3.com/tr/op/ahKOSvfwiIW312MLXr61oaLJshkPUuGWDrtnwoAMQvlf2bqsEdB-v8dSJcZ_p-0qC7A_OndpcGXiPnbtsyT5wnimBbfkOnWVE-IO2QRSoq-k-_yFR29UhGo20gpXmdgXzLg7u_7vlCYBeg" alt="" /></body>
+</html>
+

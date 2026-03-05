@@ -1,0 +1,36 @@
+---
+subject: "OpenAI explores AI chips 🤖, Apple discussed ditching Google 🔍, how computers tell time ⏰"
+from: "TLDR <dan@tldrnewsletter.com>"
+to: ""
+date: 2023-10-06 10:26:42
+labels: ["CATEGORY_PERSONAL", "INBOX", "TLDR"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_795315172960844453"]
+---
+[Exclusive-ChatGPT-owner OpenAI is exploring making its own AI chips (3 minute read)](https://tracking.tldrnewsletter.com/CL0/https:%2F%2Ffinance.yahoo.com%2Fnews%2Fexclusive-chatgpt-owner-openai-exploring-011259522.html%3Futm_source=tldrnewsletter/1/0100018b0486741a-dc7aa6b5-5fd8-4939-82f9-480754a46987-000000/iidVKfzROw8flm-FZfCCQUe5N1gbqH5Knw852LRsK8A=321)
+OpenAI is exploring making its own artificial intelligence chips. It has evaluated a potential acquisition target for the move. The scarcity of graphics processing units is making it difficult for OpenAI to solve its chip shortage issues. It may take several years for OpenAI to develop its own chip if it decides to go ahead with the plan. Success in developing a custom chip is not guaranteed - many companies, including Meta, have been building their own processors for years with limited results. |
+Science & Futuristic Technology
+|
+[Desalination system could produce freshwater that is cheaper than tap water (4 minute read)](https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fnews.mit.edu%2F2023%2Fdesalination-system-could-produce-freshwater-cheaper-0927%3Futm_source=tldrnewsletter/1/0100018b0486741a-dc7aa6b5-5fd8-4939-82f9-480754a46987-000000/Gl9adNjaymtxrnSxf_gIn_pa4x8cq9EK9eQMfg9OAQU=321)
+A team of engineers from MIT and China have designed a solar desalination system that passively turns seawater into drinking water. It circulates water in swirling eddies, which when combined with the sun's heat drives water to evaporate and leave salt behind. The resulting water vapor can be condensed and collected while the leftover salt circulates out of the device rather than accumulating and clogging the system. A small suitcase-sized system could produce up to 6 liters of drinking water per hour and last several years. |
+[New 3D printing approach offers hope for brain injury repair (4 minute read)](https://tracking.tldrnewsletter.com/CL0/https:%2F%2Finterestingengineering.com%2Finnovation%2Fnew-3d-printing-approach-offers-hope-for-brain-injury-repair%3Futm_source=tldrnewsletter/1/0100018b0486741a-dc7aa6b5-5fd8-4939-82f9-480754a46987-000000/d_cJ8o07vMrgOu9VOQj357ZgMGAnaF_yLB9aHdcy9E4=321)
+Scientists from the University of Oxford have created brain tissue using human stem cells through 3D printing. They were able to replicate the structure of the brain's cerebral cortex using the technique. The technology will provide researchers with new ways to explore the workings of the brain. It also offers hopes to individuals who have brain injuries as there is evidence that the printed tissue can integrate with live brains. |
+Programming, Design & Data Science
+|
+[Cloud Costs Every Programmer Should Know (10 minute read)](https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.vantage.sh%2Fblog%2Fcloud-costs-every-programmer-should-know%3Futm_source=tldrnewsletter/1/0100018b0486741a-dc7aa6b5-5fd8-4939-82f9-480754a46987-000000/ywuw654YIKQVxoIirzEtr6gNSxeni5_mdC5pEgC77FU=321)
+This article contains a list of cloud costs every programmer should know with a detailed breakdown of the costs. Knowing these numbers will help programmers make quick cost estimations for a variety of different projects. They will only need an idea of the architecture and size of the completed project to calculate a ballpark cost without needing any complex cost calculator. |
+[I’m not a programmer, and I used AI to build my first bot (5 minute read)](https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fblog.replit.com%2Fbuilding-my-first-slack-bot%3Futm_source=tldrnewsletter/1/0100018b0486741a-dc7aa6b5-5fd8-4939-82f9-480754a46987-000000/6a2nmzz2hLIq6HNo89IqWwEETtpn5YqYDTQGuFE8HB0=321)
+This tutorial guides users through how to build a Slack Bot that uses Google LLMs to provide daily channel summaries using Replit. Replit's AI is able to generate and explain code. It speeds up the process of development and can act as a tutor. The tutorial was written by someone with no programming experience other than some Python for basic data manipulation and scraping. |
+[Alameda had a $65B line of credit and ‘unlimited withdrawals’ (4 minute read)](https://tracking.tldrnewsletter.com/CL0/https:%2F%2Ftechcrunch.com%2F2023%2F10%2F05%2Fsbf-trial-gary-wang%2F%3Futm_source=tldrnewsletter/1/0100018b0486741a-dc7aa6b5-5fd8-4939-82f9-480754a46987-000000/wSu6Wu3iAVVSkXTjyUG6t6FjHwU2_VLQAvvgM0xHdBI=321)
+FTX co-founder and CTO Gary Wang took the stand recently, admitting to wire fraud, securities fraud, and commodities fraud and naming Sam Bankman-Fried, Nishad Singh, and Caroline Ellison as the individuals he committed the crimes with. Wang had pleaded guilty in December 2022 as part of a cooperation deal. This article provides a detailed look at Wang's testimony. It covers Alameda's $65 billion line of credit, how Bankman-Fried controlled the coding process, Alameda's naming process, and more. |
+[How I stay motivated as a solo-creator (4 minute read)](https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fherman.bearblog.dev%2Fhow-i-stay-motivated-as-a-solo-creator%2F%3Futm_source=tldrnewsletter/1/0100018b0486741a-dc7aa6b5-5fd8-4939-82f9-480754a46987-000000/xzT6i4tRTiDYj6h21dN6q0m0c9WVEGUEJkmWoHT1tcI=321)
+It can be challenging to stay motivated when working on your own. Things that can help include finding engaging work, building routines, being intentional with down times, staying active in communities, and writing. Working solo means there isn't anything specific you have to do. No one will notice if you decide not to work - but things will start falling apart if you continue to skip work for too many days. |
+We help cutting edge companies hire world class technical talent through our job listings. If you're hiring software engineers, AI/ML engineers, product managers, designers or other tech talent, [click here to learn more](https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fshare.hsforms.com%2F1hmOFVmqOTrON_SRvaRqEbQee466%3Futm_source=tldr%26utm_medium=newsletter/2/0100018b0486741a-dc7aa6b5-5fd8-4939-82f9-480754a46987-000000/QB2T8hJbilTWAf83sM0Bs7OwSLi7iRVLKHXrY9iiPVg=321).
+|
+If your company is interested in reaching an audience of tech executives, decision-makers and engineers, you may want to [advertise with us](https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fshare.hsforms.com%2F1OxvmrkcFS4qsxKpNXCi76wee466%3Futm_source=tldr%26utm_medium=newsletter/2/0100018b0486741a-dc7aa6b5-5fd8-4939-82f9-480754a46987-000000/JywME0eMSv9-pniXj06XcGSSpkL7T-BI6Wj3qjlH9wc=321).
+If you have any comments or feedback, just respond to this email!
+Thanks for reading,
+[Dan Ni](https://tracking.tldrnewsletter.com/CL0/https:%2F%2Ftwitter.com%2Ftldrdan/1/0100018b0486741a-dc7aa6b5-5fd8-4939-82f9-480754a46987-000000/GT2rrds5ahU3eSn7TArVieRl2gt29-W9Qaem6KXkSsk=321) and [Stephen Flanders](https://tracking.tldrnewsletter.com/CL0/https:%2F%2Ftwitter.com%2FSteveFlanders22/1/0100018b0486741a-dc7aa6b5-5fd8-4939-82f9-480754a46987-000000/TiDob5UhREINRNgqJnCI3w4J0NZngQx_T3KGwRsb7Ek=321)
+|
+|
+|
+|

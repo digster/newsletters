@@ -1,0 +1,14 @@
+---
+subject: "My podcast with Frank Fukuyama"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2026-01-26 18:30:44
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+[Shikha Dalmia](http://marginalrevolution.com?action=user_content_redirect&uuid=3ff7b6da250e7fea259f479fb244e1b3686eb9706fd676ab6919ea6e573e651b&blog_id=42693868&post_id=92317&user_id=262258391&subs_id=225460721&signature=df55687bc65f6f5e9a32db9732568908&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly94LmNvbS9zaGlraGFkYWxtaWE&email_id=819f3abfcc1692f96354b4a445749cbf) moderates, here is [the link](http://marginalrevolution.com?action=user_content_redirect&uuid=a5a7088971010736ed45fc4101a3f6d4a5b7e1d2c04226574538d615f20e4fdc&blog_id=42693868&post_id=92317&user_id=262258391&subs_id=225460721&signature=10a381b9480b1cb251526969f1a3f05a&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly93d3cudGhldW5wb3B1bGlzdC5uZXQvcC9kb2VzLWFtZXJpY2EtbmVlZC1hLWRlZXBlci1zdGF0ZT91dG1fc291cmNlPXBvZGNhc3QtZW1haWwlMkNzdWJzdGFjayZwdWJsaWNhdGlvbl9pZD00NjEyODAmcG9zdF9pZD0xODU2NjM3NDYmdXRtX2NhbXBhaWduPWVtYWlsLXBsYXktb24tc3Vic3RhY2smdXRtX21lZGl1bT1lbWFpbCZ1dG1fY29udGVudD1wbGF5X2NhcmQmcj02anFveSZ0cmllZFJlZGlyZWN0PXRydWU&email_id=819f3abfcc1692f96354b4a445749cbf). Excerpt from the summary:
+One reason for the populist revolt in America is the notion of the “deep state”—that an unaccountable bureaucracy is secretly ruling the country. Frank and Tyler come from very different intellectual traditions. Frank, a centrist, is a student of Max Weber and Tyler is a limited government libertarian. Yet they have both argued that liberal states in complex modern societies need a functional bureaucracy—a.k.a. state capacity—to deliver public goods and solve collective action problems. But they also have a ton of disagreements, especially on just how broken American governance is—and they duke it out in a spirited discussion.
+And an excerpt from me:
+Cowen: I don’t think American state capacity historically is that weak. We built this incredible empire, often unjustly. We put a man on the moon. We developed the atom bomb. We’re leaders in aviation and computers in part because of government. A lot of our state governments work really quite well. It’s a mixed bag, but I think we’d be in the world’s top 10 easily.
+[Noah Smith]had[a great blog post]on this.
+Self-recommending! And yes with tons of disagreement, the dialogue is a good overview of where my views are at in this moment, stated super clearly as usual. There is a transcript at the link, it is easy to read through the slight typos.

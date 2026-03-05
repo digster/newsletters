@@ -1,0 +1,196 @@
+---
+subject: "The Revolution That Wasn’t Televised"
+from: "Samir Varma from Samir Varma <samirvarma@substack.com>"
+to: ""
+date: 2025-12-29 15:03:18
+labels: ["CATEGORY_PERSONAL", "INBOX", "Samir Varma", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2890205615693839461", "UNREAD"]
+---
+|
+July 24, 1991. Parliament. A turbaned economist rises to deliver the Union Budget.
+The context was impossible. The Finance Minister wasn’t even an elected politician—he’d been brought in from outside, a technocrat in a room full of professional politicians. His party was in minority. The Prime Minister was a man famous for saying nothing. The country was bankrupt. Everyone expected incremental tinkering, maybe some painful adjustments, the usual political theater of pretending to fix things while changing nothing.
+Singh walked to the podium in his characteristic blue turban—Cambridge blue, as always, honoring the university that had recognized his brilliance decades ago. He carried his papers. He looked like what he was: a professor about to deliver a particularly important lecture.
+He opened with grief.
+“I miss a handsome, smiling face listening intently to the Budget Speech. Shri Rajiv Gandhi is no more.”
+The room was heavy. Rajiv had been assassinated just two months earlier. The man who was supposed to carry India into the 21st century—dead at 46. And here was his party, stumbling into power on sympathy votes, led by a septuagenarian caretaker, represented by an economist who looked like he’d rather be grading papers.
+Then Singh delivered the diagnosis:
+“The current level of foreign exchange reserves, in the range of Rs. 2500 crores, would suffice to finance imports for a mere fortnight... We have not experienced anything similar in the history of independent India.“
+Two weeks of imports. That’s what stood between India and collapse. The man was standing in Parliament telling the nation it was bankrupt—and somehow making it sound like a weather report.
+And then—the Victor Hugo bomb:
+“No power on earth can stop an idea whose time has come... Let the whole world hear it loud and clear. India is now wide awake. We shall prevail. We shall overcome.”
+The chamber stirred. This wasn’t incremental tinkering. This wasn’t the usual budget of small adjustments and political compromises. This was a declaration of revolution—delivered in the gentlest possible voice, by the least likely revolutionary in Indian history, a man who spoke so softly you had to lean in to hear him.
+He was announcing the death of forty years of socialist orthodoxy. And he was doing it by quoting a French novelist.
+It was like watching your grandfather calmly explain that he was about to rob a bank.
+The execution was surgical.
+Industrial licensing—abolished for all but 18 industries. Down from nearly everything. Overnight, companies could produce what they wanted, how much they wanted, without begging Delhi for permission.
+Public sector monopolies—eliminated from most sectors. The “commanding heights of the economy” that Nehru had reserved for government were suddenly open to competition.
+The speed was staggering. Ahluwalia’s team later claimed they changed India’s trade policy in eight hours. Eight hours to undo forty years of accumulated controls.
+How was this possible? Because the thinking was already done. The M Document had been written a year earlier. The reform packages had been prepared under previous governments, refined, debated, improved. When Rao came in, they weren’t starting from scratch—they were executing a plan that had been building for years.
+But before any of this could happen, someone had to map the nightmare.
+Rakesh Mohan—who would become one of the key implementers—had spent months compiling a complete inventory of every control. His discovery process was almost anthropological: he asked to sit in on the various licensing committees. “The economic adviser was not a member of any of them, which was good. I was curious enough that I asked.”
+He attended them all. Watched how they worked. Wrote it down.
+The result was the first comprehensive map of India’s regulatory labyrinth. You can’t dismantle what you can’t see. Mohan made the invisible visible—and then helped tear it down.
+The external liberalization was equally dramatic:
+Tariffs: Slashed from 300% to 50%. (Yes, 300%. On some goods, you paid three times the item’s value just in import duties. India had some of the highest tariffs in the world. This was considered normal. This was considered patriotic.)
+Import quotas: Removed. For decades, the government had decided not just how much you paid for imports, but whether you could import at all. Entire categories of goods were simply banned. Want a foreign car? Too bad. Foreign electronics? Get in line. That ended.
+The rupee: Devalued sharply, then made partially convertible. Market forces—those dangerous capitalist impulses—were finally allowed to influence the currency. The rupee had been artificially propped up for years, making exports uncompetitive and imports artificially cheap for the elite who could access foreign exchange. Now it would find its real value.
+Foreign investment: FDI allowed up to 51% without prior approval. Foreign companies welcomed in sectors that had been closed for 44 years. The message to the world: India is open for business. Finally.
+FERA: Dismantled. The Foreign Exchange Regulation Act had treated every foreign transaction as potentially criminal. Getting foreign exchange was like applying for parole—you had to prove you weren’t going to do something bad with it. Now it was just... business.
+A small detail captures the mindset shift. Rakesh Mohan renamed “Foreign Collaboration Clearance” to “Foreign Technology Agreements.”
+Why does this matter? Because language shapes thought. “Foreign Collaboration” implied you were collaborating with an enemy—something suspicious, requiring clearance, probably treasonous. “Foreign Technology Agreements” acknowledged reality: you were just buying technology, like any normal country does.
+The socialist vocabulary had treated the outside world as a threat to be managed. Every foreigner was a potential colonizer. Every foreign investment was a potential takeover. Every import was a drain on precious resources.
+The rename acknowledged that maybe, just maybe, foreigners weren’t all trying to recolonize us. Maybe they just wanted to do business. Maybe that was okay.
+Here’s the political problem they faced: announcing a “capitalist revolution” was suicide.
+Congress was officially socialist. The party constitution still genuflected to Nehru’s economic vision. The intelligentsia—JNU professors, newspaper editors, the people who shaped opinion—were overwhelmingly hostile to markets. The opposition was hunting for any excuse to bring down a minority government.
+Rao’s solution was elegant: never use the word “liberalization” in public.
+He presented reforms as “continuation of previous policies.” Each individual change seemed small, technical, administrative. A tweak here, an adjustment there. Nothing to see, comrades.
+Singh became the public face—and the lightning rod. Let the economists take the heat. Rao worked the back channels, managed Parliament, neutralized opposition.
+The reforms were implemented through ordinances and regulatory changes, not grand legislation. No big votes. No dramatic confrontations. Just quiet, relentless dismantling of the control apparatus.
+As writer Gurcharan Das later put it: “We were doing reforms chupke chupke“—quietly, secretly.
+Here’s how quietly: “Rao, Singh and people around them had not even convinced their own party.” The Congress rank and file didn’t understand what was happening. By the time they figured it out, it was too late. The reforms had taken root.
+Before the triumph, there was farce. This story deserves its own section because it captures everything about how India worked—and why 1991 was such a miracle.
+January 1990. One year before the crisis.
+The V.P. Singh government wanted to make a splash at the World Economic Forum in Davos. Industry Minister Ajit Singh would lead a delegation, announce liberalization measures, impress the global business elite. India was finally going to show the world it was serious about reform.
+The absurdity began immediately.
+Because ALL foreign exchange was controlled, the Indian industrialists who wanted to attend Davos had to be approved by the Ministry of Industry before they could get foreign exchange to buy airline tickets.
+Think about that. You couldn’t go to a business conference about opening India to business without government permission to leave India.
+The ministry prepared extensive briefings. A strong delegation assembled. They flew to Zurich.
+The punch line:
+When they landed, the Indian ambassador met them at the airport—without the minister. The news: “The industry minister is not coming because the prime minister decided not to send him. The civil aviation minister Arif Mohammad Khan is coming instead.”
+Civil Aviation. Had nothing to do with industry. Had no briefings. Knew nothing about the liberalization package.
+“He came and of course, then he couldn’t make any announcement because he had no idea.”
+The entire Davos trip was pointless. India had sent a delegation halfway around the world to say nothing.
+But the work wasn’t wasted.
+The reform team kept working. They prepared a comprehensive industrial policy package. Cabinet approved it. Announced in Parliament.
+Then Chandra Shekhar—who opposed industrial liberalization—rebelled against V.P. Singh, and the government fell.
+Chandra Shekhar became PM. Made himself Industry Minister. Came to the ministry and said something remarkable: “As you know, I oppose this, but I want your free and frank advice on what you think is correct.”
+The team kept working.
+When Rao came in—with A.N. Verma now as Principal Secretary—everything was ready. The 1991 reforms weren’t improvised. They were the third iteration of a plan that had survived two government collapses.
+One thing that made the speed possible: “There was a great degree of bhaichara—brotherhood—among civil servants.”
+IAS officers, secretaries across ministries, Planning Commission officials—they got along. “We got on very well and so that also helped in doing all this in one shot.”
+This matters more than it sounds. Reform requires coordination across dozens of agencies. If the Commerce Ministry hates the Finance Ministry, if the Planning Commission is at war with the RBI, nothing moves. Each agency protects its turf. Each official delays to show importance. Papers sit on desks. Approvals take months. The system grinds to a halt not through opposition but through friction.
+But in 1991, the reformers trusted each other. They’d worked together for years. They shared a diagnosis. When Singh needed something done, he didn’t have to fight through layers of bureaucratic resistance—he could call someone who’d pick up the phone and say yes. When trade policy needed to change in eight hours, it could change in eight hours because the people who needed to sign off were people who trusted each other. No posturing. No territorial games. Just: “This is what we need to do. Let’s do it.”
+Reform by stealth requires trust. You can’t coordinate a heist if the crew is fighting.
+The CPM and CPI thundered from the rooftops:
+“Surrender to IMF imperialism!”
+“Selling out to multinational corporations!”
+“Betrayal of Nehruvian socialism!”
+The standard playbook. Every reform was foreign-imposed. Every change was surrender. The rhetoric was predictable, repetitive, and—here’s the funny part—delivered by parties that were simultaneously propping up Rao’s government with their parliamentary votes.
+Let that sink in. The CPM helped sustain the minority government that was dismantling everything they claimed to believe in. They attacked the policies in public while enabling them in private. They made fiery speeches about betrayal, then voted to keep the betrayers in power.
+Why? Because bringing down the government would mean new elections, and they might lose seats. Principle, it turns out, has limits.
+(The further irony: Kerala, the CPM’s stronghold, would benefit enormously from liberalization. Gulf remittances flowed through newly opened banking channels. IT services emerged in Trivandrum and Kochi. Tourism boomed. All enabled by the opening they had opposed with such theatrical fury. But the party line never changed. Some religions don’t do reformation. The CPM is still officially opposed to the reforms that made their state prosperous.)
+“Many people think this happened only because the World Bank and IMF forced us to do it. That’s not correct.”
+Rakesh Mohan is emphatic on this point. Yes, IMF conditionalities existed. Yes, the crisis created pressure. But “those conditions were not really different from what we wanted to do anyway.”
+The M Document: May 1990—before any IMF involvement.
+The industrial policy reforms: prepared under V.P. Singh.
+The thinking: developing for a decade.
+The IMF didn’t write India’s reforms. Indians did. The IMF just provided a convenient excuse—a foreign scapegoat for politicians who didn’t want to take responsibility for doing what needed to be done.
+The myth persists because it’s useful. If the IMF forced us, then Indian leaders don’t have to defend the reforms. They can claim they had no choice. The reformers become victims rather than visionaries.
+It’s a lie, but it’s a comfortable lie. And comfortable lies have long shelf lives.
+Not everyone who opposed reform was an ideologue. Some were just protecting their money.
+Industries that benefited from monopolies didn’t want competition. License-holders who’d spent years (and bribes) acquiring permissions didn’t want those permissions to become worthless. The “briefcase economy” of rent-seekers—people whose entire business model was navigating the bureaucracy for others—faced extinction.
+Some of these people would later become reform’s biggest beneficiaries. The Ambanis, famously, had mastered the License Raj; they would master liberalization too. But in 1991, the instinct was resistance.
+Here’s the revealing detail. When the small-scale lobby was pressed about de-reserving the 836 items they’d monopolized, they didn’t argue what you’d expect. They didn’t say: “We want to grow. Let us expand. Remove the restrictions so we can become big.”
+They argued for more protectionism. Stop the imports. Keep the foreign competition out.
+“Even today that’s a problem,” Rakesh Mohan observes.
+This is the License Raj’s lasting damage to the entrepreneurial mind. Forty years of controls had taught Indian business to seek protection, not opportunity. To lobby for restrictions on others, not freedom for themselves. The muscle for competing had atrophied. The muscle for rent-seeking had hypertrophied.
+“Foreign companies will colonize us again!”
+The Swadeshi movement tried to revive. Economic sovereignty rhetoric filled the air. We’d fought the British for independence—were we now going to hand the country to Coca-Cola?
+How Rao neutralized them: he never gave them a clear target. Each change seemed administrative, not ideological. No dramatic announcements, no triumphalist rhetoric. Just quiet implementation.
+By the time nationalists realized what had happened, the reforms were producing results. Growth was accelerating. The argument shifted from “should we do this?” to “it’s already done, and it’s working.”
+When Singh showed Rao the draft budget, Rao’s response was unexpected: be bolder.
+“If this is what I wanted, why would I have selected you?”
+The politician was pushing the technocrat to be more radical. This is not how it usually works. Politicians trim. Politicians hedge. Politicians worry about the next election. Rao told his Finance Minister to go further.
+After becoming PM, Rao had spent the first week reading everything he could find about economics. Not summaries—actual analysis. He wanted to understand for himself. And having understood, he wanted transformation, not tinkering.
+The division of labor was precise:
+Rao: Political cover, parliamentary management, neutralizing opposition. The chess player who saw twelve moves ahead.
+Singh: Technical design, budget presentation, public face, international credibility. The professor who could explain why this would work.
+Ahluwalia: Implementation, cross-ministry coordination, blueprint. The guy who actually made things happen.
+A.N. Verma (Principal Secretary): Enforcement from the PM’s office. “He was a big taskmaster. We had to do everything backed by evidence.”
+Rao never publicly took credit. He used silence as strategy. Let Singh be the face. Let the opposition attack the economist. Meanwhile, Rao worked the corridors, managed the coalition, kept the government alive.
+It was, as someone later put it, like a desi Ocean’s Eleven. Rao planned it, Singh fronted it, Ahluwalia executed it, and the marks—the socialist hardliners—didn’t realize they’d been robbed until the vault was empty.
+I left India in 1984. Exit is the loudest voice.
+These three men stayed. They worked within the system. They fixed it from inside.
+I’ve written before about the choice between exit and voice—Albert Hirschman’s framework for how people respond to declining institutions. You can leave (exit), you can complain and organize and fight (voice), or you can stay silent and accept (loyalty). I chose exit. I got out while I could, escaped to America, built a life elsewhere.
+It wasn’t noble. It was survival. The India of the early 1980s—the India I wrote about in earlier posts, with its P-forms and ration queues and 97.75% tax rates—was suffocating. I couldn’t breathe there. So I left.
+Most people who stayed didn’t have my options. Family obligations. Lack of resources. No foreign university admission. No relatives abroad who could sponsor them. The exit door was closed to them. They stayed not by choice but by circumstance.
+But Rao, Singh, and Ahluwalia? They could have left.
+Singh had a Cambridge doctorate and an Oxford DPhil. Universities around the world would have been delighted to hire him. He could have had a comfortable academic career in England or America, writing papers about Indian economic policy instead of making it. Safe. Respected. Far from the chaos.
+Ahluwalia was at the World Bank. He had already exited. He was in Washington, earning good money, working with international colleagues, living the expatriate life. And he came back—returned to a country that taxed you at 97.75% and made you beg for permission to start a business. Who does that?
+Rao had options too. Senior politicians always do. He could have retired quietly, written his novels, collected languages, avoided the mess.
+They chose voice over exit. They chose to fight from within.
+Does this mean my exit was wrong? I don’t think so. Different people, different paths. The world needs both—people who leave and build elsewhere, and people who stay and fix what’s broken. Both are valid responses to dysfunction.
+What I know is this: they made exit less necessary for the next generation. The India of 2026, whatever its problems, is not a place people flee from in desperation. Young Indians today have options—stay and build, or leave and return, or leave and thrive abroad and maybe come back later. All paths are open. The choice is real now, not forced.
+That’s what 1991 gave them. That’s what these three men—the ones who chose voice—created for those who came after.
+Let me show you what happened. Not rhetoric. Numbers.
+The transformation:
+Metric19912024-25ChangeGDP$266 billion$4.3 trillion16xForex reserves$1.2 billion~$700 billion580xPoverty rate45%+<3% extreme-42 pointsMiddle class5%31%6xFDI (annual)$75 million$80+ billion1,000xPhone connections5 million1.2 billion240xCar wait time1-8 yearsDays∞Life expectancy59 years68 years+9 years
+Look at that forex reserves line. From $1.2 billion to $700 billion. That’s not a typo. India went from having two weeks of import cover—two weeks from national bankruptcy—to having one of the largest foreign exchange reserves in the world. The country that had to pawn its gold now sits on a mountain of reserves.
+GDP growth:
+- Pre-1991: 3.5% average (the “Hindu rate of growth”)
+- 1990s: 6% average
+- 2000s: 8%+ peaks
+- Sustained high growth for three decades
+The Hindu rate of growth—that bitter joke about India’s permanent underperformance—died in 1991. It took a few years for people to notice the corpse, but it was dead.
+The IT miracle was impossible without 1991. Before liberalization, India couldn’t import computers freely. Every PC required permission. Every software license needed clearance. The idea of building a global software industry in a country where importing a computer was a bureaucratic odyssey—absurd.
+The software industry that now employs millions, that made “Bangalore” synonymous with tech, that created Infosys and Wipro and TCS, that sends Indians to run Google and Microsoft and IBM—none of it could have happened under the License Raj.
+India went from a country that couldn’t manufacture televisions to a country that writes software for the world. From a country that begged for IMF loans to a country that lends to the IMF. From a country people fled to a country people return to.
+That’s the distance 1991 covered. That’s what three men—and a crisis—made possible.
+But let’s not pretend it was perfect. It wasn’t. The hagiography can wait for other writers. This is the India Paradox series, and we deal in complications.
+The 1991 reforms were brilliant, necessary, and transformative. They were also incomplete, constrained, and in some cases actively botched. The same government that liberated industry failed to liberate labor. The same reformers who opened trade kept small-scale reservations in place for two more decades. The same team that moved with lightning speed on some fronts moved not at all on others.
+Why? Because reform is politics, and politics is compromise. You can’t fight every battle. You can’t slay every dragon. You pick your fights and hope you picked the right ones.
+They picked mostly right. But not entirely.
+Labor laws: Remained colonial-era nightmares. Hiring workers above certain thresholds triggered impossible compliance burdens, so companies stayed small. This is why India never became a manufacturing powerhouse like China.
+Land acquisition: Still Byzantine. Still taking decades.
+Agricultural subsidies: Preserved. Politically untouchable. Still distorting markets today.
+Small-scale reservations: The 836 items reserved for small businesses? Not de-reserved for twenty years.
+Bankruptcy reform: The Insolvency and Bankruptcy Code came only in 2016. For 25 years, bad loans festered because there was no clean way to resolve them.
+“One big omission and failure in the ‘91 reforms was indeed that we couldn’t de-reserve or release those industries from those controls.”
+It took twenty years. And in those twenty years, something insane happened.
+India liberalized imports. Foreign goods could come in. But Indian large-scale industry still couldn’t manufacture the same goods—apparel, toys, footwear, furniture—because those were reserved for small-scale producers.
+“We allowed apparel to come in or toys to come in manufactured by large industries abroad, when we were not allowing our own large industry to produce those items.”
+Foreign companies could compete in India. Indian companies could not.
+“Which doesn’t make any sense whatsoever.”
+This one still hurts. This is the “what if” that haunts Indian economic history.
+Singh announced a “National Renewal Fund” in his first budget. The idea was elegant: provide social security for workers displaced by reforms, so labor market reform becomes politically possible. If workers know they’ll be supported during transitions, they’re less likely to resist change. If unions can tell their members “you’ll be taken care of,” they can support reforms instead of blocking them.
+It was the missing piece. Labor reform without worker support is politically impossible. Worker support without safety nets is politically impossible. The NRF was supposed to square that circle.
+Rakesh Mohan and his team designed a pilot program:
+- Take over the closed Ahmedabad textile mills (28 mills, all shut, workers unemployed)
+- Redevelop the valuable urban land
+- Use proceeds to compensate and retrain displaced workers
+- Prove the concept, then scale nationally
+They got the Textile Labor Association—the union founded by Mahatma Gandhi himself, with impeccable nationalist credentials—to sign off. In writing. Gandhi’s own union said yes.
+They calculated the program would pay for itself. The land was valuable. The workers needed help. The math worked. No net cost to government.
+Cabinet approved. The Prime Minister’s office was on board. Everything was aligned.
+They went to Washington to arrange World Bank funding for the broader program.
+The Ministry of Finance shot it down.
+“My guru, Dr. Manmohan Singh, my friend Montek—they never explained to me why this was shot down.”
+To this day, Rakesh Mohan doesn’t know why. The Finance Ministry—Singh’s own ministry—killed a program that could have transformed Indian manufacturing. And they never explained the decision. No memo. No rationale. Just... no.
+If the National Renewal Fund had worked in Ahmedabad, it could have been replicated across India. Labor market reform might have followed. Companies could have hired and fired based on need, not on laws written for a different century. India might have become a manufacturing superpower like China. Millions of factory jobs might have been created.
+Instead, we got thirty years of paralysis. Labor laws unchanged. Manufacturing stunted. The “demographic dividend” of young workers unable to find factory jobs because companies won’t hire workers they can’t fire.
+One decision. Never explained. Consequences still unfolding.
+“One major error we made: this got labeled as ‘exit policy.’ That’s a very threatening word.”
+Language matters. “Exit policy” sounded like mass firings—throwing workers on the street. The framing terrified labor unions and gave opponents an easy target.
+What it actually meant was: social security for displaced workers. Retraining programs. Safety nets. Exactly what workers should want.
+But the name killed it. The concept became politically radioactive before anyone understood what it actually proposed.
+This is a lesson in the importance of marketing. The best policy in the world fails if you call it something that sounds like a threat.
+Political capital was limited. Minority government constraints. They picked battles they could win.
+“Reform by stealth” required leaving some dragons unslain. You can’t fight on every front simultaneously. You prioritize. You choose.
+Ahluwalia later admitted: “We placed too much faith in markets and not enough in building institutions.”
+Maybe. But institutions take decades to build, and they had months. The crisis wouldn’t wait for perfect institutional design.
+They did what they could. It wasn’t everything. But it was enough to change the trajectory.
+Let me offer a metaphor.
+This was an intellectual heist.
+Three men walked into a crisis. They identified the vault: the License Raj, forty years of accumulated controls strangling the economy. They had the combination: the M Document, the years of preparation, the technocratic expertise, the understanding that had been building since Singh’s Oxford thesis criticized inward-looking trade policy. They assembled a crew: the bhaicharanetwork of trusted civil servants who would execute without leaking, implement without sabotaging. They planned the approach: reform by stealth, each piece small enough to avoid triggering alarms, presented as continuity rather than revolution.
+And they walked out with India’s future.
+The security guards—the socialist ideologues, the protected interests, the nationalist rhetoricians, the Communist parties that preached solidarity while practicing opportunism—didn’t realize what had happened until the vault was empty. By then it was too late. The reforms had worked. Growth had accelerated. Foreign investment was flowing. The IT industry was being born. A middle class was emerging.
+The genie was out of the bottle. You can’t put it back.
+You can’t re-impose the License Raj once people have tasted freedom. You can’t make entrepreneurs beg for permission once they’ve learned to just... start businesses. You can’t close the economy once it’s open. You can’t tell people they need government approval to buy an airline ticket once they’ve experienced buying tickets online. The comparison would be too obvious. The absurdity would be too clear.
+They succeeded so thoroughly that their success became invisible. The catastrophe they prevented didn’t happen—so it’s not real to anyone. The poverty they alleviated is just the baseline now. The choices they enabled are taken for granted by people who never knew a world without those choices.
+Nobody thanks the engineer for the plane that didn’t crash. Nobody builds statues to the crisis that was averted. Nobody remembers the reformers who made normal life possible.
+But we should.
+If you liked this, you will like my book, “[The Science of Free Will](https://substack.com/redirect/70a92100-b417-43ff-9b17-fdf1d7db4439?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)” where I explore all kinds of cool stuff. Do bees have emotions? Why don’t we trade with ants? What is the future of AI?
+Next: What happened to them—and why India forgot.
+The India Paradox explores how the world’s most diverse democracy somehow functions despite—or because of—its beautiful contradictions. Previous posts have covered everything from wedding negotiations to reservation politics, cricket economics to exam madness, gods in the machine to the gender paradox.
+[All previous posts at samirvarma.substack.com]
+Samir Varma is free today. But if you enjoyed this post, you can tell Samir Varma that their writing is valuable by pledging a future subscription. You won't be charged unless they enable payments.

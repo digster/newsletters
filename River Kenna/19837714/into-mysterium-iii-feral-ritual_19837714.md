@@ -1,0 +1,32 @@
+---
+subject: "Into Mysterium III: Feral Ritual"
+from: "\"River Kenna from In•Star\" <riverkenna@substack.com>"
+to: ""
+date: 2025-07-23 13:20:22
+labels: ["CATEGORY_PERSONAL", "INBOX", "River Kenna", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_3010718370428876194", "UNREAD"]
+---
+|
+From September 25 to October 9, I’ll be running Mysterium at Casa Tilo in Barcelona. I’ve described it as a “pop-up mystery school”, but I could just as easily call it a 2-week long casual ritual, a shamanic hang-out, an art space where we nudge the gods awake… more than anything it’s a space set aside for deep play with the Mystery, and with other folks who love the Mystery and want to set up a playground at the edge of it.
+You can find [more info on it here](https://substack.com/redirect/40dc7261-c680-4533-9fb0-7bb77742958b?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o), and [apply to join here](https://substack.com/redirect/1a747208-ca69-4918-be38-5f8058fa090d?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o). Below, I’ll riff on a core attitude I’m bringing to the ritual work at Mysterium.
+The word feral doesn’t just mean “wild.” It means that a domesticated animal that’s made it back into the wild.
+Those of us who are finding our way back to Life and Spirit — we’re all at least somewhat feral. We’re descended from generations of domestication; we inherited centuries of lifeless ritual, petty literalizations of truths that can barely be touched by the rational mind; most of us were given translated texts as a stand-in for direct experience and practice.
+The project so many of us are working on together, each in our own way, is a project of returning to what is natural to Spirit, what soul-stuff grows in the wild, what the divine looks like when we stop monocropping, stop deadening the soil, and start letting the forest’s wise patterns reclaim the land in our hearts, minds, and souls. When we rediscover the religion that naturally grows from direct embodied experience.
+I just spend ten days in nature with a friend, and one part of what we were doing out there was finding and carrying out the ritual work that wanted to happen. It was really damn great.
+We may write about it more at some point, but one thing I’d want to point at now is this: we had a shared mission when we agreed to spend that time together — we were hoping to heal a rupture in our friendship. When we came together, we basically just followed our intuitions on what to do next. Some of this was pretty standard (sit across from each other and share our experiences of what had gone wrong), but a lot of it was intuitive oddities, things like
+gathering moss and flowers to lay out as offerings
+sharing a glass of wine with the island
+gathering bark from threshold trees to burn
+chanting mantras to the sun and moon
+smearing ourselves in ash and washing it off in the lake
+imaginal journeying by the lakeshore
+Some of these may have felt like they came out of left field, or didn’t add up to a coherent vision, if we examined them with our rational minds. But overall, it was extremely clear what was happening: the central pillar of our friendship is a shared perception of and respect for sacred, energetic reality. By tuning into this reality, and by coming together to give it form and voice, we were touching back in with what connected us in the first place. We were rebuilding our friendship from the place where its roots actually started.
+None of this was planned; we just decided to spend some time together with a clear intention of relational repair, and what naturally happened was a lot of ritual work that effected that repair.
+That’s kind of how things work, when you allow yourself to set an intention and follow the intuitions that arise.
+That’s a lot of what feral ritual looks like to me, and it’s a lot of what will happen at Mysterium. We come in with a shared intention, and allow our instincts to flow along that gradient without over-rationalizing or over-codifying it.
+We don’t deny the domesticating effects of the many spiritual traditions we’ve inherited and absorbed by osmosis — but we also aren’t rule by them. We let energy and intuition do the heavy lifting, and we notice afterwards what felt right, what didn’t, what we might want to change, what wants to stay.
+Ritual is, at base, about taking shared action in ways that change reality. This usually operates on symbolic, unconscious, and energetic levels. When it comes to our symbols and collective unconscious and energetic patterns, all of us are steeped in domestication. But we also all have access to the Wild Natural Pattern that we arise from — and we can over and over again move back towards that pattern, finding the natural ways that our reality wants to be changed.
+We can listen to the ways that relationships want to be repaired, vocations want to be deepened, heartbreaks want to be healed, individuation wants to be quickened, inner spaciousness wants to be stabilized…
+I’ve written else where that [magic is attuned surrender](https://substack.com/redirect/50955ed4-f778-45bb-8968-da6948b3e1a1?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) — and in this frame, ritual is, maybe paradoxically, a type of action we take to surrender more deeply into what’s already happening. This type of surrendered action is deeply personal. You can’t rely on domesticated patterns to do it. You have to go a bit feral to find what’s really yours in both the action and the surrender.
+Only when your intention is free to find and follow its own gradient, its own gravitational flow, only in that space can your life force really fall into the path it wants to take.
+If you want to explore ferality and surrender with us for a couple weeks in Barcelona, you can find [more info here](https://substack.com/redirect/40dc7261-c680-4533-9fb0-7bb77742958b?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o), and [apply to join here](https://substack.com/redirect/1a747208-ca69-4918-be38-5f8058fa090d?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o).

@@ -1,0 +1,138 @@
+---
+subject: "Inside Google's Engineering Culture: Part 1"
+from: "The Pragmatic Engineer <pragmaticengineer+deepdives@substack.com>"
+to: ""
+date: 2025-09-09 15:23:13
+labels: ["CATEGORY_PERSONAL", "INBOX", "The Pragmatic Engineer"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_6413324878686416177"]
+---
+👋 Hi, this is Gergely with a subscriber-only issue of the Pragmatic Engineer Newsletter. In every issue, I cover challenges at Big Tech and startups through the lens of engineering managers and senior engineers. If you’ve been forwarded this email, you can
+|
+Today, the tech giant Google reaches more people with its products than any other business in the world across all industries, via the likes of Google Search, Android, Chrome, Gmail, and more. It also operates the world’s most-visited website, and the second most-visited one, too: YouTube. Founded in 1998, Google generated the single largest profit ($115B after all costs and taxes) of all companies globally, last year.
+Aside from its size, Google is known for its engineering-first culture, and for having a high recruitment bar for software engineers who, in return, get a lot of autonomy and enjoy good terms and conditions. Employees are known as “Googlers,” and new joiners – “Nooglers” – get fun swag when they start. An atmosphere of playful intellectual curiosity is encouraged in the workplace, referred to internally as “Googleyness” – more on which, later. This culture is a major differentiator from other Big Tech workplaces.
+But what is it really like to work at Google? What’s the culture like, how are things organized, how do teams get things done – and how different is Google from any other massive tech business, truly?
+This article is a “things I wish I’d known about Google before joining as an SWE / engineering manager”. It’s for anyone who wants to work at Google, and is also a way to learn, understand, and perhaps get inspired by approaches that work for one of the world’s leading companies.
+This mini-series of articles focusing on Google contains more information about more aspects of its engineering culture than has been published in one place before, I believe. We’ve spent close to 12 months researching it, including having conversations with 25 current and former engineering leaders and software engineers at Google; the majority of whom are at Staff (L6) level or above.
+Of course, it’s impossible to capture every detail of a place with more than 60,000 software engineers, and whose product areas (Google’s version of orgs) and teams work in different ways. Google gives a lot of freedom to engineers and teams to decide how they operate, and while we cannot cover all that variety, we aim to provide a practical, helpful overview.
+In part 1 of this mini-series, we cover:
+Overview. Google generates more revenue than Microsoft and Meta, and is the Big Tech giant that likely employs the most software engineers across 25+ engineering offices. The mission statement is to “organize the world's information and make it universally accessible and useful.”
+What makes Google special? Behind the variety of approaches to work is a universal engineering culture for tools and practices. Google has a unique, custom engineering stack, and has built systems differently from competitors since day one, making it a “tech island”. Google has historically been more open than other Big Tech companies about its inner workings. With 120+ active products, it is most similar to Microsoft in the breadth of work it does, and in the opportunities there are for software engineers to work on different things.
+Levels and roles. There’s a dual-track career ladder between levels L2 and L11, and a Tech Lead Manager (TLM) role as a “third career path”. Google’s leveling process during interviews is the strictest in the industry, and “tech lead” is a role, not a level. Other engineering roles include SRE, EngProd, Research Scientist, DevRel, and UXE. Other roles that interact with engineering include Product Managers, Program Managers,
+[TPMs](https://substack.com/redirect/0be67403-b918-458f-bd08-f7016d5a489b?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o), designers, and tech writers.Compensation. Google pays at the top of regional markets, and is known for its standout compensation which includes base pay, equity, cash bonus, and sometimes a signing-on bonus. Examples of this top-of-market pay:
+Mid-level engineer (L4) usually pays in the range of:
+$250-350K in total compensation in the US
+Other regions: £125-185K in the UK, €140-180K in Germany, CHF 210-260K in Switzerland, CA$210-280K in Canada, A$200-280K in Australia, zł380-450K in Poland, and ₹65-88 lakh in India
+Staff software engineer (L6) usually pays in the range of:
+$550-700K in total compensation in the US
+Other regions: £270-380K in the UK, €250-330K in Germany, CHF 370-500K in Switzerland, CA$420-650K in Canada, A$350-550K in Australia, zł750-850K in Poland, and ₹1.5-2.2 crore in India
+We cover entry-level (L3), senior (L5), senior staff (L7) packages, and also Google-specific bonuses like peer bonuses, spot bonuses, and award programmes.
+Google is one of few companies to offer a financially rewarding career path for engineers which doesn’t push them into management
+Hiring. Google has a notoriously difficult interview process which is copied by many other tech companies. Data structures and algorithms interviews, system design, “Googleyness”, and leadership interviews are also features of recruitment, and some teams use domain deepdives and takehomes. Final recruitment decisions are made by a Hiring Committee, but that’s still not the end of the process – successful candidates then go through “team matching”.
+This article is around twice as long as most deepdives; there are just so many details worth sharing about Google!
+For similar deepdives, see [Inside Meta’s engineering culture](https://substack.com/redirect/e0fe9280-9474-4a1d-84db-4468018d793d?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o), [Inside Amazon’s engineering culture](https://substack.com/redirect/50881997-3e14-4b2c-8413-8c497ac2f877?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o), and [other engineering culture deepdives](https://substack.com/redirect/08d04e67-5e40-4449-a628-9564501bfa9f?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) — including that of OpenAI, Stripe and Figma.
+Programming note: this week, an episode of The Pragmatic Engineer Podcast will be released tomorrow (Wednesday), and there will be no edition of The Pulse.
+The bottom of this article could be cut off in some email clients. [Read the full article uninterrupted, online.](https://substack.com/redirect/eb2db67e-f3f4-4383-98cd-7310c4c240af?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+Let’s begin with a quick rundown of the numbers that give Google the most users and customers of any business, globally:
+#1 and #2 most-visited websites: Google.com is the
+[most popular website](https://substack.com/redirect/1550fc11-4361-4195-942b-812ed386479b?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)in the world, and YouTube is #2. Google.com gets[85 billion monthly visits](https://substack.com/redirect/ab311a89-9b54-456d-8110-b7321138030a?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)– more than the next 9 most-visited websites, combinedAndroid: around
+[4.2 billion](https://substack.com/redirect/000b9c4c-1346-4dc5-b32d-b73e8611992e?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)users (circa 75% of global smartphone market share)Chrome: circa
+[3.45 billion](https://substack.com/redirect/16237af6-3c4c-4004-91de-46fd3757710d?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)users (around 65% of global browser market share)Gmail: approximately
+[1.8 billion](https://substack.com/redirect/acb1ce2d-c9ec-46b0-acc9-f8021999fdb9?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)active users
+In 2015 when Google renamed itself “Alphabet”, the motivation was to separate the core web search business that earned the lion’s share of revenue from loss-making, “moonshot” ventures like Waymo, Google DeepMind, Google Fiber, etc. In practice, almost all revenue generated by Alphabet comes from the Google organizational unit, and not much has changed since. This article uses the name “Google” when referencing Alphabet.
+In absolute terms, Google is currently the most profitable company in the world; it generated $115 billion in profit (net income) over the past 12 months on $371 billion in revenue. For comparison, here are other Big Tech companies’ net incomes during the period:
+Microsoft: $101 billion (from $281 billion in revenue)
+Apple: $99 billion ($408 billion revenue)
+Meta: $71 billion ($178 billion revenue)
+Amazon: $70 billion ( $670 billion revenue)
+At its core, Google is still an advertising company; around 75% of revenue comes from selling ads on Google Search, YouTube, and the Google Ads network. However, the business has several services that don’t rely on ads for revenue:
+Google Cloud: the #3 cloud provider behind AWS and Azure generates more than $50 billion in annual revenue (around 13% of total revenue). Google Workspace income is included in this number.
+Hardware plus subscriptions: Pixel smartphones, Nest smart home gadgets, Fitbit wearables, YouTube Premium, and Google One subscriptions. Google makes more than $40 billion per year from these (circa 10% of revenue)
+Google has several loss-making businesses that might one day turn a profit, such as:
+Gemini and AI: Google is a leader in AI with its Gemini models that are integrated in several products like web search. It is both a free and paid product, and is likely loss-making at present.
+Waymo: the leader in self-driving vehicles, now serving more than 1 million rides per month in San Francisco and Phoenix, in the US.
+Google Fiber: ultra-fast fiber-optic provider with data speeds from 1 Gbps to 8 Gbps. It operates in 25 cities across 19 US states, including Austin (Texas), Atlanta (Georgia), Chicago (Illinois), Miami (Florida), Denver (Colorado), and San Diego (California).
+Google employs 183,000 people worldwide and hit peak headcount in 2022, with 190,000 workers. In 2023, there were mass layoffs and headcount has since stopped rising:
+As mentioned above, Google employs around 60,000 software engineers, which we can deduce because in 2020 this number was 50,000, [as shared](https://substack.com/redirect/c1b9498e-6853-4d7d-b9b6-ad7adf310f08?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) in the book “Software Engineering at Google,” – around 35% of all staff. Headcount growth since that time suggests that 60K engineers work there today. This makes Google one of the largest employers of software engineers; Amazon employs nearly [35,000](https://substack.com/redirect/50881997-3e14-4b2c-8413-8c497ac2f877?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) developers, and Meta [around 32,000](https://substack.com/redirect/e0fe9280-9474-4a1d-84db-4468018d793d?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) software engineers. We’re confident Google has the highest “software engineering ratio” among the Big Tech giants.
+Google runs more than 25 engineering offices. The biggest:
+US: Mountain View (corporate headquarters) and the surrounding Bay Area, San Francisco, New York, and Seattle (Kirkland), plus several smaller ones in places like Cambridge (MA), Los Angeles (CA), San Diego (CA), Pittsburgh (PA), Raleigh and Durham (NC).
+Canada: Toronto, Montreal, Waterloo, and Kitchener
+Europe: Zurich (Switzerland), London (UK), Dublin (Ireland), Munich (Germany), and Paris (France) are the largest. Smaller offices include Hamburg (Germany), Milan (Italy), Amsterdam (Netherlands), Madrid (Spain), Stockholm (Sweden), Copenhagen and Aarhus (Denmark), Helsinki (Finland), Warsaw and Krakow (Poland), Prague (Czechia), Vilnius (Lithuania), Bucharest (Romania), and Budapest (Hungary).
+India: Bangalore and Hyderabad are the largest offices.
+South America: Mexico City (Mexico), Sāo Paulo and Belo Horizonte (Brazil)
+Asia and Australia: Tokyo (Japan), Sydney (Australia), New Taipei City (Taiwan)
+Google has [more than 70 offices](https://substack.com/redirect/8dbc49cd-615a-4dcc-a6fe-3935069fc5bf?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) across 50+ countries. The total number of offices is higher than engineering offices, because many of Google’s offices have no software engineering teams in those locations, but are for non-technical teams like Sales, Marketing, Consulting (e.g. for Google Cloud), and other functions.
+Although not typical, Google can hire engineers to work from mainly non-engineering offices as “singletons”. A current Google engineer told us:
+“Singletons are not particularly common, but rather exceptions on an individual basis. Some are left-overs from a brief period of remote hiring during the pandemic, some are specialists or very senior ICs who have a bit more leverage in negotiations and choice of where they work.”
+“Singletons” can also work in engineering offices: in that case, they would be the lone engineer working for their team in that location, everyone else on their team being in other locations. Singletons are not common at Google, but our research suggests there are many more of them than at other Big Tech companies and larger scaleups.
+As is well known by now, Google was founded by PhD students Larry Page and Sergey Brin, who devised a more efficient search engine algorithm called [PageRank](https://substack.com/redirect/54b6bed9-3104-4aea-be1d-66eadd42c6d7?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o). Using PageRank for searching the web resulted in much-improved results than the most popular rival search engines of the time, such as Yahoo!, AltaVista, Lycos, and Ask Jeeves. Some of these were portals which “featured” sites to visit (like AltaVista), and others were rudimentary search engines that gave up to 15 not-particularly-accurate results.
+The rest, as they say, is history: two years after launching, Google became the dominant search engine and also a verb (“let me Google this.”) It gave more and better search results, and had a much cleaner interface than its rivals.
+The company’s mission has changed over time:
+“Organize the world's information and make it universally accessible and useful”. This was the founding mission in 1998 and hasn’t changed.
+“Don’t be evil”. An unofficial motto which was part of Google’s code of conduct
+[from around](https://substack.com/redirect/cc217015-c310-4eff-baa0-09f077b9adf2?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)2000, to remind staff to act ethically. It remained until 2015, when Google became Alphabet.“Do the right thing”. The motto for the company
+[since 2015](https://substack.com/redirect/d681fcf0-19f7-40eb-ac20-8b974cae4a8c?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o), which replaced “don’t be evil”.
+Google also has [five core values](https://substack.com/redirect/9dc93301-86d5-431a-be50-6b6038fdc2c1?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o):
+Protecting users
+Building and deploying AI responsibly
+Expanding opportunity
+Helping solve society’s challenges
+Building for everyone
+Current Googlers report that these values are not particularly emphasized during day-to-day work, and that they feel pretty abstract and “corporate”. This light-touch approach is different from competitors like online retailer Amazon, whose [16 leadership principles](https://substack.com/redirect/c0d50886-703d-445c-b944-fcad45ea595a?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) might as well be chiselled in stone on the walls.
+“Googleyness” is something most workers at the company share. It’s a trait Google focuses on during its hiring process as something all employees should possess. The term is vague, but adds up to being smart, adaptable, and a team player who’s nice to be around. We cover Googleyness more in the “Hiring” section.
+There are plenty of publicly observable instances of “Googleyness” in Google’s own products, which show just how engineering-driven its culture is. For example, try searching “recursion” on Google:
+From talking with 25 current and former Googlers, here’s what makes it distinct from other Big Tech companies.
+Google is divided into Product Areas which operate like standalone companies. These are often called “PAs” or “orgs” internally. The main PAs:
+Knowledge and Information: includes Google Search, internal platforms, and core services
+YouTube: everything related to the video-sharing arm
+Cloud: Google Cloud Platform and Workspace
+Ads and Monetization: products like Google Ads, AdSense, and AdMob
+Platforms and Devices: software platforms like Android, Chrome, Chrome OS, and hardware like Pixel, Nest, Fitbit, Chromecast, Google TV, and Google Home devices
+Orgs have their own goals, priorities, metrics, and planning cadences. And within each org, teams have a lot of independence to decide their way of working. An engineer’s experience in one team in an org can be very different from another engineer’s in a different team in another org! Here’s how one current Google engineer explained it to us:
+“Your experience is heavily dependent on your team. If you work on a mature product, you will be met with a lot of process. If you work in a more zero-to-one project, there is more code to be written.”
+A tech lead confirmed that priorities differ by PA:
+“Priorities between PAs differ drastically. In all fairness, they are also different between subteams in the same PA. Google is very into peer-to-peer negotiation to get things done, as opposed to top-down priorities. Personally, I find the amount of negotiation to be a little inefficient and exhausting, and would not say no to more top-down direction!”
+Even though product areas and teams work independently, the engineering culture seems pretty universal, judging by the engineers we’ve talked to.
+Practices, tooling, and tech stacks are very similar. Whether someone works in YouTube, Ads and Commerce, or another product area, they use the same internal tools, the same processes for things like code review, testing, and documentation, and also the same monorepo and continuous integration processes – except for a few open source projects like Android and Chromium.
+That most of Google’s 60,000 engineers use almost identical tooling means it is little effort to move teams, which helps make internal moves easy, as it involves a lot less change to processes and tooling, meaning a lower cognitive load that makes onboarding faster, overall.
+Politics and culture vary between PAs and teams. It would be impossible for the culture to be identical in thousands of engineering teams, split across dozens of locations. Here are the big differences, according to engineers:
+Politics. How do you influence decision makers in your org to prioritize things that matter to your team? Doing so requires being good at the subtle art of influencing, knowing the most influential people, and making them your allies. This is a tricky business at any mid-sized or larger company. We previously covered
+[internal politics for software engineers and managers](https://substack.com/redirect/f277c2cc-5402-4ed7-b6e1-2a3ccf92ccb6?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o).Culture and perf. Google says there’s “one engineering culture,” but engineers told us that different orgs prioritize different things; some value quality more, others focus on innovation, and others prioritize shipping fast. Performance evaluation is known as GRAD (Google Reviews and Development) and is org-specific, meaning expectations for each level differ slightly across orgs. We will cover this topic in part two of this mini-series.
+Google’s engineering org exists in a different world from that which other tech companies operate in. This comes down to one thing: scale.
+Google had to build systems at the scale of serving hundreds of millions of users a decade before any other company in the world reached a similar scale. This meant it innovated unique systems and solutions to massive scaling challenges, and that publicly-available tools were shipped outside Google only a decade or so later.
+Whatever tools or vendors your current company uses to deal with scale, it’s likely that Google built its own versions 10 or more years earlier:
+Borg (manage containers at scale): predates container orchestration platform, Kubernetes
+Borgmon/Monarch (observability at scale): predates observability solution, Datadog
+Codesearch (code searching in massive codebases): predates code search vendor, Sourcegraph
+Piper (source control at Google scale): predates source control leader, GitHub
+Google occupies an unusual position where it makes no sense to adopt industry-standard tools like GitHub and Kubernetes because its existing stack is so well integrated. A current Google engineer explained why it rarely uses external services or tools, even if they can handle Google’s scale:
+“Google makes everything work so well. Since the entire tech stack is in-house, every system has built-in transparent integration with the in-house corporate authn/z system, and also with the ‘magical billing’ system.
+External products always have to:
+Provide auth abstractions
+Provide billing abstractions
+These two constraints make adopting new tools really friggin' hard!”
+Engineering at Google has been different from the rest of the world since it was founded. From its beginnings in 1998, the company bet big on speed and reliability being differentiators for all its products. They expected the web search tool to deal with planet-scale load, and the same for subsequent products like Gmail that launched with 1GB of free storage in 2004. This was unheard of at a time when storage was much more expensive. The assumption was that these products needed to be able to handle billions of users.
+To achieve this scale, Google simply had to build a custom tech stack from the start, as there were no commercially-available tech stacks around to handle planet-scale load. Back in the late ‘90s, the conventional wisdom was to vertically scale machines; that is, buy the biggest possible server (called a mainframe), and try to make an application run on a single server. Sun was one of the biggest mainframe vendors of the time, and most companies invested heavily in expensive, high-performance hardware.
+Google took a different route by choosing to buy cheap, commodity hardware, and to build data center clusters that made use of tens of thousands of relatively cheap machines to handle loads that not even the largest mainframes in the world could soak up.
+Here’s how Google’s search cluster worked in 2003, from t[he Google whitepaper](https://substack.com/redirect/84582098-8bfa-46cf-9d21-b5bba8b9cff5?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) describing the Google cluster architecture:
+“To provide sufficient capacity to handle query traffic, our service consists of multiple clusters distributed worldwide.
+Each cluster has around a few thousand machines, and the geographically distributed setup protects us against catastrophic data center failures (like those arising from earthquakes and large-scale power failures).
+A DNS-based load-balancing system selects a cluster by accounting for the user’s geographic proximity to each physical cluster. The load-balancing system minimizes round-trip time for the user’s request, while also considering the available capacity at the various clusters”.
+Back then, this kind of approach was revolutionary, and no other company published so much detail about its custom data center setup. Google kept publishing details on how it organized and operated clusters, such as this writeup in the “[Site Reliability Engineering at Google](https://substack.com/redirect/fd863ab7-ef61-4401-a19c-5ad852e838a2?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)” book:
+“The topology of a Google data center:
+Tens of machines are placed in a rack.
+Racks stand in a row.
+One or more rows form a cluster.
+Usually a datacenter building houses multiple clusters.
+Multiple datacenter buildings that are located close together form a campus”.
+Compared to every other Big Tech company, Google has been very open and transparent about how it works externally and internally. Note, this openness seems to have reduced since around 2020.
+Internally, basically everything used to be available to all workers: planning docs, strategies, code, documentation, et-al. This company-wide access changed to Product Area-wide access following leaks in 2020. A former Google Cloud engineer told us:
+“The ‘default open’ policy started to change around 2019-2020. This was when GCP got involved with more potentially controversial topics, and confidential documents were leaked to the press more often.
+The default share setting for internal Google Docs used to be company-wide visibility. From around 2019-2020, the default visibility is PA-level visibility, meaning you can only search documents in your PA, not from across Google.”
+Externally, Google has published [more than 10,000 papers](https://substack.com/redirect/c83f0b03-50da-44d5-b909-3fd85f4cfd06?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) with details about how the company works and how products are built. No other business has published more about its inner workings.
+Famously, in 2017 Google published a paper titled [Attention is All You Need](https://substack.com/redirect/70a1de11-5953-472f-8c29-99237147e3b8?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o), describing a novel network architecture called “transformers.” This paper was the foundation for Large Language Models (LLMs) and this idea is at the core of ChatGPT and other LLMs. By publishing this paper instead of holding on to its breakthrough, Google may have brought forward the AI boom by a few years!
+Everything about software engineering is unique at Google. New joiners can throw out their knowledge of how to use source control, how to run CI/CD, and how to manage infrastructure. Google has different, unique systems for everything related to building, deploying, and maintaining software, and all of it has to be learnt.
+The term “tech island” was coined by Urs Hölzle, Google employee #8, in an internal document nearly a decade ago. As a former Googler told us:...
+Become a paying subscriber of The Pragmatic Engineer to get access to this post and other subscriber-only content.
+| Full articles every Tuesday and Thursday | |
+| Access to resources and templates for engineering managers and engineers | |
+| Access to the complete archive, see all comments and comment on articles |

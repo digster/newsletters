@@ -1,0 +1,11 @@
+---
+subject: "Why Care About Debt-to-GDP?"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2026-01-06 07:48:51
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+Here is another piece for "contrarian Tuesday," like it or not:
+We construct an international panel data set comprising three distinct yet plausible measures of government indebtedness: the debt-to-GDP, the interest-to-GDP, and the debt-to-equity ratios. Our analysis reveals that these measures yield differing conclusions about recent trends in government indebtedness. While the debt-to-GDP ratio has reached historically high levels, the other two indicators show either no clear trend or a declining pattern over recent decades. We argue for the development of stronger theoretical foundations for the measures employed in the literature, suggesting that, without such grounding, assertions about debt (un)sustainability may be premature.
+That is from [a new NBER working paper](http://marginalrevolution.com?action=user_content_redirect&uuid=753ad8b818c1a0552a5daa73dfbb9c2cf7fa2be40dca2b9b3f0f1c658f5743c8&blog_id=42693868&post_id=92185&user_id=262258391&subs_id=225460721&signature=ef31019218a3aef944e530c88c97bb60&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly93d3cubmJlci5vcmcvcGFwZXJzL3czNDYyOQ=&email_id=c16f43cae490cfccdd3e4990bfa5c677) by , it is worth repeating this basic idea. And here is [my earlier podcast with Alex](http://marginalrevolution.com?action=user_content_redirect&uuid=90c1413d935654cdd6b93cb345340bb88bed0616eef5e43359ecd9ff99d2f43d&blog_id=42693868&post_id=92185&user_id=262258391&subs_id=225460721&signature=81c53d3b575828bcea4bb3cb40814424&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly93d3cubWVyY2F0dXMub3JnL21hcmdpbmFsLXJldm9sdXRpb24tcG9kY2FzdC9hbWVyaWNhcy1kZWJ0LWNyaXNpcy1vci1jYWxt&email_id=c16f43cae490cfccdd3e4990bfa5c677) on similar themes.

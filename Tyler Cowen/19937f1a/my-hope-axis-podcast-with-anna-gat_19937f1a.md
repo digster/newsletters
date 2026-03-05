@@ -1,0 +1,16 @@
+---
+subject: "My Hope Axis podcast with Anna Gát"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2025-09-11 08:43:26
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+Here is [the YouTube](http://marginalrevolution.com?action=user_content_redirect&uuid=ac236d79a26db4d90b9a570c1a3b6f32c2f13a742daf61b6a06f1e6ef5ce5ce2&blog_id=42693868&post_id=91468&user_id=262258391&subs_id=225460721&signature=724cf429bee2c0151540566c2066e22d&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g/dj03aGVtMHNWeWVscw=&email_id=4bb6a9340f072f8e933ec0edfc8b66ab), here is [transcript access](http://marginalrevolution.com?action=user_content_redirect&uuid=8fbcc1ade8afc331fad4dd3f6f9070c608e043217dd74484c21576f0551d91c1&blog_id=42693868&post_id=91468&user_id=262258391&subs_id=225460721&signature=30a42c47c68c00f28f50115d691c5c5d&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xOG5MQk9GY0pzXy1jTUZKclpSaTJZY1NIMDZIeGZjZFovdmlldw=&email_id=4bb6a9340f072f8e933ec0edfc8b66ab), here is [their episode summary](http://marginalrevolution.com?action=user_content_redirect&uuid=bde36f1ef2985139880abfc2f211547015ff5878a1c4c517b381f62ef9e3cc82&blog_id=42693868&post_id=91468&user_id=262258391&subs_id=225460721&signature=b70a198ddfc2e70e1fa7409e8695e78e&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly94LmNvbS90aGVob3BlYXhpcy9zdGF0dXMvMTk2NTkyNjE0NTgzMDAzOTgxOD9zPTQ2&email_id=4bb6a9340f072f8e933ec0edfc8b66ab):
+The brilliant
+[@tylercowen]joins[@TheAnnaGat]for a lively, wide-ranging conversation exploring hope from the perspective of insiders and outsiders, the obsessed and the competitive, immigrants and hard workers. They talk about talent and luck, what makes America unique, whether the dream of Internet Utopia has ended, and how Gen-Z might rebel. Along the way: Jack Nicholson, John Stuart Mill, road trips through Eastern Europe, the Enlightenment of AI, and why courage shapes the future.
+Excerpt:
+Tyler Cowen: But the top players I've met, like Anand or Magnus Carlsen or Kasparov, they truly hate losing with every bone in their body. They do not approach it philosophically. They can become very miserable as a result. And that's very far from my attitudes. It shaped my life in a significant way.
+Anna Gát: I was so surprised. I was like, what? But actually, what? In Maggie Smith-high RP—what? This never occurred to me that losing can be approached philosophically.
+Tyler Cowen: And I think always keeping my equanimity has been good for me, getting these compound returns over long periods of time. But if you're doing a thing like chess or math or sports that really favors the young, you don't have all those decades of compound returns. You've got to motivate yourself to the maximum extent right now. And then hating losing is super useful. But that's just—those are not the things I've done. The people who hate losing should do things that are youth-weighted, and the people who have equanimity should do things that are maturity and age-weighted with compounding returns.
+Excellent discussion, lots of fresh material.

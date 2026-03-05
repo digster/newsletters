@@ -1,0 +1,10 @@
+---
+subject: "Open Thread 291"
+from: "Astral Codex Ten <astralcodexten@substack.com>"
+to: ""
+date: 2023-08-28 06:21:31
+labels: ["Astral Codex", "CATEGORY_PERSONAL", "INBOX", "UNREAD"]
+label_ids: ["Label_6409723252142624155", "CATEGORY_PERSONAL", "INBOX", "UNREAD"]
+---
+This is the weekly visible open thread. Post about anything you want, ask random questions, whatever. ACX has an unofficial [subreddit](https://link.sbstck.com/redirect/5784ecd1-c6b5-40c5-9719-8f5879a11e0d?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o), [Discord](https://link.sbstck.com/redirect/11ad86a8-6bfb-4848-bbcc-6632dfe4ab61?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o), and [bulletin board](https://link.sbstck.com/redirect/c0356a4b-7542-4a80-a70c-86d9c6e71d6f?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o), and [in-person meetups around the world](https://link.sbstck.com/redirect/9c38dd5e-ca1a-4028-82b8-62bc892d7602?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o). 95% of content is free, but for the remaining 5% you can subscribe [here](https://link.sbstck.com/redirect/bcdc8a2f-9d6a-41db-84c3-c9516b84b75d?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o). Also:
+1: Since we posted [Meetups Everywhere](https://link.sbstck.com/redirect/2a1c5cdf-1336-4c7d-a1bf-93c138bcb49a?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) on Friday, we’ve added in proposed meetups for Eindhoven, Netherlands and Mérida, Mexico.

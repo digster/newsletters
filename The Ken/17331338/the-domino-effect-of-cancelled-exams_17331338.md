@@ -1,0 +1,75 @@
+---
+subject: "The domino effect of cancelled exams"
+from: "Beyond The First Order <info@the-ken.com>"
+to: ""
+date: 2020-07-09 01:31:01
+labels: ["CATEGORY_PERSONAL", "INBOX", "The Ken"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_8244464457792971031"]
+---
+|
+Edition #73. Thursday, 9 July 2020
+|
+A paid 🔒 newsletter that analyses the complex second and third order effects thrown into motion because of Covid-19. Someone sent you this? [Subscribe to BFO](https://the-ken.com/bfo/?utm_source=su_bnr&utm_medium=email&utm_campaign=btfo)
+|
+Good morning.
+The theme in today’s BFO is “what happens when _____ vanishes?” Our candidates for that blank are schools syllabus and tests in India; air ticket refunds globally; domestic workers in India; travel bubbles in Thailand, and time in general.
+We also talk about two Covid-19 models—one a look back via Google and one a look-forward with very sobering predictions.
+|
+The domino effect of cancelled exams
+Olina
+Unprecedented times call for drastic measures. This week, India’s Central Board of Secondary Education (CBSE) took a crucial decision—it chopped off 30% of the syllabus for grades nine through 12.
+This doesn’t come as a total surprise. Online classes can’t be as efficient as physical ones, and Indian schools have a unique talent for cramming as much content as possible into one semester. Those of us who attended school in the 90s are well acquainted with the dreaded “extra class”.
+It would serve us well, though, to figure out why completing the syllabus on time is such a big deal. And why the CBSE specified that the cancelled chapters won’t be part of any assessments. Because the whole Indian education system, from start to finish, is a race to the end goal—exams. It’s really not that much, or at all, about learning.
+Now, exams have a hierarchy too . In the senior grades, internal assessments by schools are far less important than the national Board Exams. Boards are gatekeepers; what marks you score decide the subjects you study, the college you get into and in some cases, the jobs you land up with. The [Gaokao](https://en.wikipedia.org/wiki/National_College_Entrance_Examination) in China is a handy parallel here.
+That’s why in the seminal “board years”— grade 10 and 12—there is no incentive to do well in internal school assessments. In a pre-Covid world, they’re just a layer of bureaucracy to get through. .But the pandemic, by cancelling board exams, has disrupted a decades-long hierarchy. And the panic is palpable.
+|
+“Rahul Gupta, a student of Mamta Modern School Vikaspuri, said, “I had fallen sick during my pre-board exams and missed some papers. I had two board papers left — Business Studies and Informatics Practices. As a student, I have been left in the lurch about my future. How will the CBSE work out a formula for those students who missed their internal assessment or pre-Boards?”
+|
+|
+|
+On the flip side, now is as good a time as any to shift the goalposts from marks to learning. Schools could re-invent their own exams, fight for a share of final “board” marks or do more continuous assessment through the year. 2020 could also be the year we realise that the value of a 90% score in board exams is a relic of the pre-Covid era.
+An ode to fallen chapters
+It’s interesting what parts of the syllabus the Ministry of Human Resource Development decided to cut. Some are random cuts, like “Ray Optics” from grade 12. Others seem more deliberate. And opportune.
+It’s a shot fired without wasting a bullet.
+|
+|
+|
+Vanishing into thin air
+Seetharaman
+The pandemic has turned 2020 into the worst year ever for airlines. Their revenues are expected to halve from last year and their losses could total [$84 billion](https://economictimes.indiatimes.com/industry/transportation/airlines-/-aviation/airlines-expected-to-lose-84-3-billion-in-2020-globally-iata/articleshow/76288063.cms?from=mdr).
+As carriers navigate this existential crisis, irate fliers are adding to their woes—and justifiably so. As of early April, airlines owed $35 billion in refunds for cancelled flights, according to the International Air Transport Association (IATA). This is what Alexandra de Juniac, director general of IATA, [wrote](https://www.iata.org/en/pressroom/ceoblog/passenger-tickets-refunds/) on its website three months ago.
+|
+Passengers have the right to get their money. They paid for a service that cannot be delivered. And in normal circumstances, repayment would not be an issue. But these are not normal circumstances. If airlines refund the $35 billion immediately, that will be the end of many airlines. And with that an enormous number of jobs will also disappear.
+|
+|
+|
+|
+He proposed issuing vouchers for future travel, called a credit shell, or a refund at a later day, as alternatives. That is something airlines, including those in India, have done. But the surge in demand for refunds has put carriers, governments, and passengers in a bind.
+|
+|
+Subscribe to BFO to read the full edition
+Get BFO delivered to your inbox every weekday and access all new and old editions.
+Choose from the following options
+|
+Monthly Subscription
+Complete access to all editions of BFO
+Rs. 99 or $2
+|
+|
+With The Nutgraf
+Complete access to BFO and The Nutgraf
+Rs. 198 or $4
+|
+|
+|
+Questions? Get answers [here](https://the-ken.com/bfo/2/#newsletter-faq-section)
+|
+Beyond The First Order is a paid, daily newsletter that analyses the complex second and third order effects thrown into motion because of Covid-19 across India and Southeast Asia. This newsletter is published by [The Ken](https://the-ken.com/?utm_source=footer&utm_medium=email&utm_campaign=btfo)—a digital, subscription-driven publication focussing on technology, business, science and healthcare
+|
+Want to unsubscribe from our paid daily newsletter, Beyond The First Order? Click [here](https://link.the-ken.com/asm/unsubscribe/?user_id=2349339&data=HuBhmHxDo_b8uhQQUw6nct_hYJtzsu2yxk61kF0F-MSCAedK9WzC8rPFMu4mNTQBc1Kq2c5TT40kv9cmmfgc-6wzaHD7ZP1z_6BnjdfvSw7koFuC14CJzrViNOwops1eJrqmXY21zMwJ4aXrEnkxEQWBskuSLHzBZZ_T1tydwrmc6vU-DdsetbZJ-Ab58MKvqHLuQvBW6_n7EHLz39CC3BSg-6EwnqVNkb5IFiH94iw624kJFx1h8ZgHXg5h7veavFW5iYov11LW2Fzk8MjP4UsdhUrA_c-fQ54J7t4t88TH3e7h5avG8FvPbbjisgksx0DzLR7uJ3KPJzOeB_MX7xDdMLN-gud2FYyuvwQHYxGR0wQsBWsE4O7TC9q25kxTQuqU7TGtbPLVT9yK3aRLqueGftLs330_dOdsZhFszALBijpJh6MAAFT0Qae_d9SvNzZRMnjsVUhLtageGcXiQbbl8juerlPEU6Xy43Z2_EQUiPpmY0O0zftDrWzz_40ZLdhw0ucOHpk5q1PAve_V-GUiBB86qA4MTEOTUVw0CKj62CV-KRnXjlEqmAskA5t4). Or set your email preferences [here](https://link.the-ken.com/asm/?user_id=2349339&data=CeDv5OgmqPIAFWf6-8P1Rw80OA17d6fhEOhCLAc9ln7m5C2KZ43SMtwKHrTdpRoVKhgz3K76-ClrvIW2cMuGqpoKRN7PmmqcjbXvNJ8r2wh_uNoPd0NOcQADE1etQEkPwp4iqsZ52kxQH9qpqwLBumNdwVGYI_TgoFobI2Uz9jQiVUWpYNjzajYaJGn84GoOMGWIzfaw7NIQ8NxHPfKfd5Jz6fx_LqSeazuab_KFBdDZJ2PUUXytjowPZr1IA6xIlVRA2rHavQXX0psaiuI8EBYQ-1SZEEaNWnLFJRS3_wt8XTyGGnPfGXRS9Rbv3Yl30gBPb7IUnEsAa2McCA1Yi8Ofhy_dxyZq9_am_yedE_d702Wjra1HTy50sIZOfFCMK90vbBpuML9gJancMfW74OK3y5_E0UYUpMYHKukzvXt6OgXXFG3fBl6LSyhoJNxKbEOfxcuJd_6lsnKUmc0ppZ_KTgMPxWh4At5xzSRLG3iHKGFerk4-tUGax2GAblZnb7n3ARmzKEB1syAuiZRq6Tr9hfbulkPsaCL2p0aqlGrzIelUmYRuySEUwgRUkacg)
+© 2020 The Ken
+|
+|
+|
+|
+|

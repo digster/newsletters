@@ -1,0 +1,10 @@
+---
+subject: "The Rising Returns to R&D: Ideas Are not Getting Harder to Find (one hypothesis)"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2025-08-11 08:06:26
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+R&D investment has grown robustly, yet aggregate productivity growth has stagnated. Is this because “ideas are getting harder to find”? This paper uses micro-data from the US Census Bureau to explore the relationship between R&D and productivity in the manufacturing sector from 1976 to 2018. We find that both the elasticity of output (TFP) with respect to R&D and the marginal returns to R&D have risen sharply. Exploring factors affecting returns, we conclude that R&D obsolescence rates must have risen. Using a novel estimation approach, we find consistent evidence of sharply rising technological rivalry and obsolescence. These findings suggest that R&D has become more effective at finding productivity-enhancing ideas, but these ideas may also render rivals’ technologies obsolete, making innovations more transient. Because of obsolescence, rising R&D does not necessarily mean rising aggregate productivity growth.
+Here is [the paper](http://marginalrevolution.com?action=user_content_redirect&uuid=1e5de6a586804d63fb0e54936157a7333e0c253e1840fe2c82f5674440f912a0&blog_id=42693868&post_id=91197&user_id=262258391&subs_id=225460721&signature=fd8edf1eef33a7aee3210d88ea1e7c68&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly9wYXBlcnMuc3Nybi5jb20vc29sMy9wYXBlcnMuY2ZtP2Fic3RyYWN0X2lkPTUyNDIxNzE&email_id=49e18bb017def1afd9888a732917b352) by Yoshiki Ando (Singapore Management University, TPRI), James Bessen (BU, TPRI), and Xiupeng Wang. Via Arjun.

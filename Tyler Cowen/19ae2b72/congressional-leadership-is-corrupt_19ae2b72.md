@@ -1,0 +1,10 @@
+---
+subject: "Congressional leadership is corrupt"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2025-12-03 05:37:26
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+Using transaction-level data on US congressional stock trades, we find that lawmakers who later ascend to leadership positions perform similarly to matched peers beforehand but outperform them by 47 percentage points annually after ascension. Leaders’ superior performance arises through two mechanisms. The political influence channel is reflected in higher returns when their party controls the chamber, sales of stocks preceding regulatory actions, and purchase of stocks whose firms receiving more government contracts and favorable party support on bills. The corporate access channel is reflected in stock trades that predict subsequent corporate news and greater returns on donor-owned or home-state firms.
+That is from [a new NBER working paper](http://marginalrevolution.com?action=user_content_redirect&uuid=e5c24b719cf92f6ea387e8a67323df858df29f771c602c484d409a6ae09eab22&blog_id=42693868&post_id=91974&user_id=262258391&subs_id=225460721&signature=d4e7728f71a651dee1872bd352b3394f&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly93d3cubmJlci5vcmcvcGFwZXJzL3czNDUyNA=&email_id=8cf98e21e08ca8e2295a8a3699dcdfbf) by Shang-Jin Wei and Yifan Zhou. Of course [Alex T. has been on this issue](http://marginalrevolution.com?action=user_content_redirect&uuid=cf120f055612e09ef78926b29d005a2ab4afad33fe7681e4644c483c5a072878&blog_id=42693868&post_id=91974&user_id=262258391&subs_id=225460721&signature=57964cfd776c3317dfe294b8b86308af&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly9tYXJnaW5hbHJldm9sdXRpb24uY29tLz9zPWluc2lkZXIrdHJhZGluZytjb25ncmVzcw=&email_id=8cf98e21e08ca8e2295a8a3699dcdfbf) for a long time now.

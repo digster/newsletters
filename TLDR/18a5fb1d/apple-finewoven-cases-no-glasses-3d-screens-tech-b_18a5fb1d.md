@@ -1,0 +1,36 @@
+---
+subject: "Apple FineWoven cases 📱, no glasses 3D screens 🖥️, tech billionaire startup city 🏙️"
+from: "TLDR <dan@tldrnewsletter.com>"
+to: ""
+date: 2023-09-04 10:16:45
+labels: ["CATEGORY_PERSONAL", "INBOX", "TLDR"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_795315172960844453"]
+---
+[Lenovo’s new 27-inch, 4K monitor offers glasses-free 3D (7 minute read)](https://tracking.tldrnewsletter.com/CL0/https:%2F%2Farstechnica.com%2Fgadgets%2F2023%2F09%2Flenovo-adds-glasses-free-3d-to-a-27-inch-monitor-for-2999%2F%3Futm_source=tldrnewsletter/1/0100018a5fb1d882-79535da8-230d-4c8b-8316-49e01611ed9e-000000/jqoZZ9JF8_rk07Ti-vkQoeaKRrZjnBDtG8To8vFr7jU=316)
+Lenovo’s new 27-inch 4K monitor can produce 3D images without requiring viewers to wear glasses. It features a lenticular lens and real-time eye-tracking. The monitor works by projecting different images to each eye. Its 3D resolution is 1920x2160, but it can be switched to a 2D mode with 3840x2160 resolution. The 3D experience is limited to one user at a time. It is viewable from a 23.6 to 39.4-inch distance. |
+Science & Futuristic Technology
+|
+[Are self-driving cars already safer than human drivers? (21 minute read)](https://tracking.tldrnewsletter.com/CL0/https:%2F%2Farstechnica.com%2Fcars%2F2023%2F09%2Fare-self-driving-cars-already-safer-than-human-drivers%2F%3Futm_source=tldrnewsletter/1/0100018a5fb1d882-79535da8-230d-4c8b-8316-49e01611ed9e-000000/nU7dL57oQVGTysTPsPk7AKE6_esDKVUzkJHcJPg5elo=316)
+Waymo and Cruise have driven a combined total of over 8 million driverless miles. The two companies have reported 102 crashes, with most of the crashes being low-speed collisions that did not pose a serious safety risk and a large majority being the fault of the other driver. It will still take hundreds of millions more driverless miles to answer the question of whether driverless cars are safer than human drivers, but the evidence is starting to pile up. |
+[Can an Artificial Kidney Finally Free Patients from Dialysis? (4 minute read)](https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.ucsf.edu%2Fnews%2F2023%2F08%2F426056%2Fcan-artificial-kidney-finally-free-patients-dialysis%3Futm_source=tldrnewsletter/1/0100018a5fb1d882-79535da8-230d-4c8b-8316-49e01611ed9e-000000/YQrvc-1eZrw4R6BpVurFYOCP7ZGpVtRiKSuGpu9PxyY=316)
+Kidney cells housed within the Kidney Project's bioreactor can survive inside the body of a pig and mimic several important kidney functions for at least one week. The Kidney Project aims to create a device that can improve on dialysis. A bioartificial kidney would make treatments for kidney disease more effective, tolerable, and comfortable. The next steps for testing will be month-long trials, first in animals and then eventually in humans. |
+Programming, Design & Data Science
+|
+[Explaining The Postgres Meme (76 minute read)](https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.avestura.dev%2Fblog%2Fexplaining-the-postgres-meme%3Futm_source=tldrnewsletter/1/0100018a5fb1d882-79535da8-230d-4c8b-8316-49e01611ed9e-000000/GqY4xzPas2NTen1a8anJ072v2cNKnJ1shiXgks78ACE=316)
+This article analyzes the SQL Iceberg meme, which shows increasingly complex or advanced SQL commands or operations. The article goes through each of the zones and explains every concept. It starts with simple commands like CREATE TABLE, JOIN, and NULL and moves into intermediate and advanced topics like connection pools, denormalization, the volcano models, and the Halloween problem. |
+[Biome (GitHub Repo)](https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fgithub.com%2Fbiomejs%2Fbiome%3Futm_source=tldrnewsletter/1/0100018a5fb1d882-79535da8-230d-4c8b-8316-49e01611ed9e-000000/ZufYZYrL1z8ksyux-wdYJNQvXjIofRHnBIFG0eeO4HU=316)
+Biome can format and lint JavaScript, TypeScript, JSON, and CSS code in a fraction of a second. It requires minimal configuration and displays detailed and contextualized diagnostics. Biome is designed to eventually replace Babel, ESLint, webpack, Prettier, Jest, and more. It has first-class IDE support and top-notch error recovery. |
+[‘California Forever’ website touts the city tech billionaires are trying to build (3 minute read)](https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.theverge.com%2F2023%2F9%2F3%2F23857664%2Fcalifornia-forever-tech-billionaire-secret-city%3Futm_source=tldrnewsletter/1/0100018a5fb1d882-79535da8-230d-4c8b-8316-49e01611ed9e-000000/-ZZrrOT3uRfODRLaD7L934VfWQZyddWDJh834zUMZ3c=316)
+California Forever, the parent company of Flannery Associates, a company that has purchased over 50,000 acres in Solano County, has revealed a website showing a planned city. The site promises a safe walkable city with solar farms and good local jobs that won't ruin the nearby agriculture. It doesn't discuss population, size, or how the city will sustain itself. The company plans to get locals to get on board with the project using surveys and a local advisory board. |
+[Mustafa Suleyman on getting Washington and Silicon Valley to tame AI (55 minute read)](https://tracking.tldrnewsletter.com/CL0/https:%2F%2F80000hours.org%2Fpodcast%2Fepisodes%2Fmustafa-suleyman-getting-washington-and-silicon-valley-to-tame-ai%2F%3Futm_source=tldrnewsletter/1/0100018a5fb1d882-79535da8-230d-4c8b-8316-49e01611ed9e-000000/Uc5d1NIyuRuOnFbpihgy_heugIHT9Hm4Lm6r18AFXbc=316)
+This page contains highlights from an hour-long podcast with Mustafa Suleyman, one of the three co-founders of DeepMind, where he discusses ways to limit the negative and unforeseen consequences of emerging technologies and many other AI-related topics. Suleyman thinks that AI and biotechnology will soon enable small groups to cause harm on previously unimaginable scales. While the technology could provide humans with many benefits, such as eliminating the need to work to live, future generations of AI may 'go rogue' and cause harm to people. This may become a legitimate concern within the next 12 years. |
+We help cutting edge companies hire world class technical talent through our job listings. If you're hiring software engineers, AI/ML engineers, product managers, designers or other tech talent, [click here to learn more](https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fshare.hsforms.com%2F1hmOFVmqOTrON_SRvaRqEbQee466%3Futm_source=tldr%26utm_medium=newsletter/2/0100018a5fb1d882-79535da8-230d-4c8b-8316-49e01611ed9e-000000/gcQtz5fiOadL9yitnuoaDy3noV_-2zjEUcvepxJdh98=316).
+|
+If your company is interested in reaching an audience of tech executives, decision-makers and engineers, you may want to [advertise with us](https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fshare.hsforms.com%2F1OxvmrkcFS4qsxKpNXCi76wee466%3Futm_source=tldr%26utm_medium=newsletter/2/0100018a5fb1d882-79535da8-230d-4c8b-8316-49e01611ed9e-000000/IneaZXn_C-BIKQf71oxjQV5eHRytK75kkY1JE6D4AwA=316).
+If you have any comments or feedback, just respond to this email!
+Thanks for reading,
+[Dan Ni](https://tracking.tldrnewsletter.com/CL0/https:%2F%2Ftwitter.com%2Ftldrdan/1/0100018a5fb1d882-79535da8-230d-4c8b-8316-49e01611ed9e-000000/t71itb5oSDWNiiF38ZkX0AUYwQZ32jcM6DnjwZMn4V8=316) and [Stephen Flanders](https://tracking.tldrnewsletter.com/CL0/https:%2F%2Ftwitter.com%2FSteveFlanders22/1/0100018a5fb1d882-79535da8-230d-4c8b-8316-49e01611ed9e-000000/DlM4YrhwXPSEE567ESyu5Q8F_VbPcUiJbulzuD0nU7M=316)
+|
+|
+|
+|

@@ -1,0 +1,21 @@
+---
+subject: "From TeamIndus to teaming up"
+from: "The Ken <info@the-ken.com>"
+to: ""
+date: 2018-01-13 03:30:36
+labels: ["CATEGORY_PERSONAL", "INBOX", "The Ken", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_8244464457792971031", "UNREAD"]
+---
+Good Morning Ishan,
+So, how many of your resolutions still have some steam left in them? Sorry, I couldn't resist. The truth is, I believe very little in new year resolutions, so I indulge in rubbing noses in the dirt this time of the year. Just a little bit. Humour me?
+Anyhow, let me get to the point. The Ken has had a pretty great week, honestly. We broke some solid stories (enough to "inspire" others), delved further into subjects we've been closely watching over the past year, and we also told you stories akin to some older ones, albeit with strikingly different protagonists.
+Our week began with [Ruhi's story](https://the-ken.com/ihip-health-data-hub/) on the Integrated Health Information Platform (IHIP)—a digital platform to annually record, store and process health data, currently across 10 Indian states—and how our Ministry of Health had picked a builder for this health data hub.
+On Tuesday, our editor [Seema broke](https://the-ken.com/teamindus-isro-call-off-glxp/) the TeamIndus story. It's free and if you STILL haven't read it, now is a good time as any. So, it's the end of the road for TeamIndus' $30-million Google Lunar XPRIZE dreams as its Isro contract fell through. Bit of a missed moonshot.
+Day 3 saw us look into the e-commerce space with [Payal and Patanjali teaming up](https://the-ken.com/vooniks-goes-offline/) yet again to tell you about Voonik's story of many many pivots. In what is its fifth pivot, Voonik wants to take online fashion offline. And what's most curious is the confidence with which its CEO Sujayath Ali and the company's investors are approaching this. Will he actually make this work? They all seem to believe so!
+On Thursday, [Sidhartha and Arundhati wrote](https://the-ken.com/indian-banks-crypto-crackdown/) about how over-the-counter cash exchanges for cryptocurrency are increasingly gaining popularity. This, they write, is because banks and the Indian government are turning the heat up on exchanges, pushing investors towards cash transactions.
+And the collaborations didn't end there, as the week closed with [Patanjali and Ashish's piece](https://the-ken.com/ramdev-billion-dollar-idea/) on 'Baba' Ramdev's new billion-dollar idea—clothes. That's right, Patanjali (not our reporter) is now looking to expand and capture the apparel market. Both Indian and western wear.
+If you've enjoyed reading us this week, well, keep doing so! And if you are, perchance, yet to subscribe...C'mon, you know what I'm saying.
+Have a great weekend!
+Best,
+Durga M Sengupta
+This email was sent by: The Ken

@@ -1,0 +1,76 @@
+---
+subject: "Weekly Dose of Optimism #160"
+from: "Not Boring <notboring@substack.com>"
+to: ""
+date: 2025-09-05 12:50:08
+labels: ["CATEGORY_PERSONAL", "INBOX", "Not Boring", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2982495070691762429", "UNREAD"]
+---
+|
+Hi friends 👋 ,
+Happy Friday and welcome back to our 160th Weekly Dose of Optimism. Packy here, filling in for Dan who is trapped under a mountain of [creatine gummy orders](https://substack.com/redirect/a616aff3-7cb2-4f8a-a6c6-920bf01f9824?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o). Your humble Dose writer vaguely [told Bloomberg this week](https://substack.com/redirect/3fe457fd-8880-44d3-bd1a-c037b41ffb05?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) that the company is going do somewhere between $40-80 million in revenue this year, so if you notice a lot more fit, healthy people walking around than usual, you know why.
+Fortunately, he left me a good week (it’s always a good week for the optimists). We have epigenetic atlases, brain pills, Stripe blockchains, fast space internet, Polymarket in the USA, and a great profile on the greatest player in the NFL.
+Let’s get to it.
+Take Control of User Roles and Permissions with [WorkOS RBAC](https://substack.com/redirect/05e456e1-84c5-446f-83fc-3ad272f631e6?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+Managing user access at scale is complex and prone to errors. [WorkOS RBAC](https://substack.com/redirect/05e456e1-84c5-446f-83fc-3ad272f631e6?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) (Rules-Based Access Control, for those wondering) delivers structured, enterprise ready access control without the overhead of building it yourself.
+Assign and manage permissions through roles instead of individual users
+Sync role assignments from IdP groups for consistent access
+Create custom roles for complex organizational needs
+Accelerate development with APIs and role-aware sessions
+Manage everything with a ready-to-use widget and centralized dashboard
+Launch secure, auditable role management in minutes with [WorkOS RBAC](https://substack.com/redirect/05e456e1-84c5-446f-83fc-3ad272f631e6?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o).
+(1) [How ageing changes our genes — huge epigenetic atlas gives clearest picture yet](https://substack.com/redirect/f8d48e40-0b6e-48b9-8785-1bd1c61d0db2?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+Chris Simms for Nature (discovered via [Vittorio](https://substack.com/redirect/09f6fc20-86d2-4531-9f60-6d447eb5ba41?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o))
+Researchers at Monash University in Melbourne, Australia published a preprint of a meta-analysis mapping how DNA methylation shifts with age across 17 human tissues (15k+ samples). The work surfaces shared and tissue-specific “aging signatures” and points to drug and reprogramming targets.
+The epigenome sits above the genes and turn them on and off without altering the underlying DNA itself, often via chemical tags (methylation). Our genes stay the same with age, but their expression settings, regulated by the epigenome, shift. Mapping those shifts, tissue by tissue, could point to ways to slow or even reverse aspects of aging.
+My eyes perked up when I saw this study after listening to Dwarkesh Patel’s conversation with aging company NewLimit CEO Jacob Kimmel a couple of weeks ago. In the conversation, which is a must-listen, Kimmel talks about the company’s bet that transcription factors can remodel the epigenome to make old cells function like new ones.
+Even with a good map, it’s going to be a while before we (read: people much, much smarter than me) figure how to reprogram the epigenome, but luckily, if it works, we got all the time in the world.
+(2) [Could a Pill Fix the Brain?](https://substack.com/redirect/55ac86ba-bf4a-4071-96a1-67a2a63d13d0?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+Rachel E. Gross for The New York Times
+The period of initial plasticity following a stroke, he realized, was being cut short by CCR5. Like a dam closing, the receptor seemed to tell the brain: Enough. Let’s lock in what we’ve learned, and call it a day. Maybe this was why stroke survivors rarely fully recovered: The brain was holding itself back.
+Stroke, according to neurologist and editor in chief of the Journal of Stroke and Cerebrovascular Diseases Fernando Testai, “was often seen as a disease of ‘diagnose and adios.’” No clear path to recovery. No medical tools or therapies. Just rehab and hope.
+In 1928, Dr. Santiago Ramón y Cajal, one of the leading neurologists of the day, said that in the adult brain, “the nerve paths are something fixed, ended and immutable. Everything may die, nothing may be regenerated.”
+Dr. S. Thomas Carmichael, the head of neurology at the Geffen School of Medicine at UCLA, though, saw just enough recovery in his patients to believe that brain regeneration was possible. So against the advice of his thesis advisers, “he set out to discover whether the brain could repair itself. What he learned would astonish the field: After injury, healthy neurons far from the site of damage [sprouted](https://substack.com/redirect/868c7719-dff4-4315-8a9b-aa3c4eac6eaa?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) new axons, the rootlike tentacles that conduct electrical signals.”
+Strokes kill a part of the brain, and they cut off the network of neurons that communicate with far-off regions. But strokes also set off “a wave of plasticity and growth throughout the brain, an event previously thought to occur only in development. Neurons come alive again, sprouting new rootlets that poke their way into gray matter and try to re-establish lost connections.”
+At some point, though, the plasticity stops. The brain ceases rewiring itself. What it, Dr. Carmichael wondered, you could extend that window?
+His attempt to answer that question spanned mouse research right at UCLA, where they found that smart mice were missing a gene for a receptor called CC5, which suppresses plasticity, to a lab at Tel Aviv University, where they studied stroke patients, including Ashkenazi Jews, who have the same mutation as the smart mice. Turns out, those with the CC5 mutation “had better language, memory and attention scores.”
+Even wilder, they had a drug that mimicked the mutation: an HIV treatment approved by the FDA in 2007 called Maraviroc. “As it turned out, the CCR5 receptor was also known as the portal that H.I.V. binds to in order to enter cells.”
+Maraviroc isn’t perfect, and the search is on for better drugs, but it shows that recovery after stroke is possible. And it gives patients like Debra McVean, left paralyzed by a 2024 stroke, hope. Currently in a double-blind trial (she doesn’t know if she actually received Maraviroc yet), McVean can now lift her arms and wiggle her fingers.
+We’re very early in understanding our own brains. I’m excited to see progress in how they recover after strokes, but also what we can do with extended plasticity windows in healthy patients. Mindblowing stuff.
+(3) [Tempo: The Blockchain Designed for Payments](https://substack.com/redirect/c37d9768-c3fc-4e29-952b-939d76f318d3?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+As such, we decided to incubate Tempo, a new blockchain, in partnership with Paradigm. We think of Tempo as the payments-oriented L1, optimized for high-scale, real-world financial services applications.
+Stripe doesn’t mess around.
+Over the past year or so, we’ve covered Stripe’s re-entry into crypto.
+Last April, John Collison [gave a presentation](https://substack.com/redirect/df1af2c3-15b6-46cd-818c-f2f69b97f9ab?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) at Stripe Sessions in which he said the future of payments was stablecoins.
+In October, it [acquired](https://substack.com/redirect/06170db2-53a5-4c1c-b289-f6927516461f?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) Not Boring Capital Portfolio company Bridge, the leading stablecoin infrastructure company, and Patrick Collison tweeted: “Stablecoins are room-temperature superconductors for financial services. Thanks to stablecoins, businesses around the world will benefit from significant speed, coverage, and cost improvements in the coming years.”
+In May, Not Boring favorite Ramp [announced](https://substack.com/redirect/d41d4e98-c109-445a-b6a2-e87eaa9ff318?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) it was working with Stripe and Bridge to launch stablecoin-backed cards.
+A couple months ago, in June, Stripe [acquired](https://substack.com/redirect/549b517e-669c-4132-877a-1aba360d958c?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) wallet infrastructure company Privy.
+And now, Stripe has teamed up with crypto fund Paradigm, run by Stripe Board Member Matt Huang, to launch [Tempo](https://substack.com/redirect/c37d9768-c3fc-4e29-952b-939d76f318d3?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o), a new L1 blockchain designed for payments, specifically stablecoin payments. Stripe being Stripe, its [bringing big partners to the chain](https://substack.com/redirect/2e3d610a-bcf9-4b25-a0ff-c8c1acc9982e?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o): “Anthropic, Coupang, Deutsche Bank, DoorDash, Lead Bank, Mercury, Nubank, OpenAI, Revolut, Shopify, Standard Chartered, Visa, and more.”
+Crypto is in a very odd spot right now. The regulatory overhang has basically disappeared (see more below), but excitement around new projects seems even lower than it was during the 2022-2023 bear market. On the other hand, it’s working. Bitcoin is doing what it’s supposed to do, prediction markets are real, and stablecoins really do seem like they’re going to be a big part of the way money moves going forward. With Stripe putting even more muscle behind them, the future of money is onchain.
+(4) [Amazon Project Kuiper Delivers Gigabit Speeds from Orbit](https://substack.com/redirect/1b82c164-fca5-4513-8e1c-09006a5ca681?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+Panos Panay at Amazon (discovered via [Christian Keil](https://substack.com/redirect/65a742d4-1422-40d4-a58f-acdf47533214?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o))
+SpaceX has the largest constellation of internet satellites, but it no longer has the fastest.
+Amazon’s Panos Panay posted a video to LinkedIn (of all places) showing Amazon’s Project Kuiper satellites delivering over 1 Gbps internet. Starlink offers up to 500 Mbps, although it’s planning to launch a faster Gigabit tier through an upgraded enterprise dish.
+As Christian Keil tweeted, “In an alternate history with no Starlink, we would all be losing our minds at how cool Amazon Kuiper is.”
+There are a few stages in any sci-fi technology. First, it’s imagined, then it’s proven possible at small scale, then it becomes widely available, then there’s competition.
+Starlink has made satellite internet widely available, which is incredible. But I think the competition phase is just as cool: it means that we’ve moved past the point of being awed by a new capability, that it’s become so routine that we begin being able to compare one service to another.
+This is how technology diffuses and price comes down and it becomes even more incredible to be a human.
+(5) [Polymarket has been given the green light to go live in the USA by the CFTC](https://substack.com/redirect/130321cc-0fbe-4e9b-b838-8165a14ef4d0?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+Shayne Coplan
+Ten months ago, the FBI raided Polymarket founder Shayne Coplan’s apartment in what it called a court-authorized search tied to a criminal probe around whether Polymarket violated a prior CFTC settlement by allowing U.S. users to bet on the platform. Polymarket called it “political retribution” after it took center stage during the 2024 Presidential Election.
+Tomato, tomato. On Wednesday, the CFTC issued a No-Action Letter on event contracts, giving Polymarket the “green light to go live in the USA.”
+I’m a big fan of prediction markets, as I’ve [written about](https://substack.com/redirect/8427af35-7410-4640-aa1f-64ead703afb6?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o). When I hear a rumor or want to understand how seriously to take something, I go to Polymarket to understand if the market is putting their money where peoples’ mouths are. More liquidity, which the American market can certainly provide, can bring markets closer to the truth.
+I also just like to see Polymarket win after its rival, Kalshi, allegedly [paid influencers](https://substack.com/redirect/6a5639b2-9424-47ad-a95a-e808ab6631be?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) to tweet negative things about Polymarket after the FBI raid. Relatedly, William LeGate, who now leads growth at Polymarket, [tweeted](https://substack.com/redirect/be44c943-cd93-4b47-8e5b-95b32ecc76c0?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o): “When I joined Kalshi a year ago today, [Kalshi CEO] Tarek made their mission clear: ‘copy everything Polymarket does… our moat is regulatory capture.’ Today, that moat no longer exists.”
+LeGate works at Polymarket now, so caveat emptor, but the result is the same: the playing field has been evened. Let the best prediction market win.
+Bonus: [Saquon Barkley is Playing for Equity](https://substack.com/redirect/10ee8039-49a9-40e7-b1f1-99634015058b?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+Polina Pompliano for The Profile
+The NFL is BACK! In celebration of its return and the Eagles’ win last night over the Cowboys, I couldn’t not share this excellent profile on my favorite player, Ramp co-investor, and last night touchdown-scorer, Saquon Barkley.
+For those who missed the awed tweets, Polina shared Saquon’s venture portfolio:
+The high-growth startups in his portfolio include Anthropic (currently valued at $183 billion), Anduril ($30.5 billion), Ramp ($22.5 billion), Cognition ($9.8 billion), Neuralink ($9 billion), Strike (~$1 billion), and Polymarket (~$1 billion). He’s also a limited partner in funds including Founders Fund, Thrive Capital, Silver Point Capital, and Multicoin Capital.
+The whole thing is worth a read.
+Saquon is destined for greatness on and off the field. Go Birds.
+Have a great weekend y’all.
+Thanks to [WorkOS](https://substack.com/redirect/05e456e1-84c5-446f-83fc-3ad272f631e6?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) for sponsoring. Go get your company a voice to welcome WorkOS to the Dose!
+We’ll be back in your inbox next Tuesday.
+Thanks for reading,
+Packy + Dan

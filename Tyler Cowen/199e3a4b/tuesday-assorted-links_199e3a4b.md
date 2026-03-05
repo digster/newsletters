@@ -1,0 +1,13 @@
+---
+subject: "Tuesday assorted links"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2025-10-14 16:54:05
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+2. [The relative environmental efficiency of data centers](http://marginalrevolution.com?action=user_content_redirect&uuid=d832612fd5c43072def8445e295d86195175c7a9531f20a89da69a05d92fccac&blog_id=42693868&post_id=91666&user_id=262258391&subs_id=225460721&signature=e49d21c1a67aaada52460fcfa5b35874&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly9hbmR5bWFzbGV5LnN1YnN0YWNrLmNvbS9wL3doYXQtYS1kYXRhLWNlbnRlci1pcz9yZWY9dGhlYnJvd3Nlci5jb20&email_id=a7675bbe47fc1a7a974e2de20694f0ac).
+3. [House of Dynamite](http://marginalrevolution.com?action=user_content_redirect&uuid=0b31bd0466618a16773144481191b5196e4a53c528bb5cf0a728deb2e57803a6&blog_id=42693868&post_id=91666&user_id=262258391&subs_id=225460721&signature=5dc30dea9ff4e78ad05f7617a04facca&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g/dj1fd3B3MlFISk5jbw=&email_id=a7675bbe47fc1a7a974e2de20694f0ac) is an excellent movie, and an excellent "DC movie" to boot.
+4. [A long argument that China cannot win from decoupling, or at all](http://marginalrevolution.com?action=user_content_redirect&uuid=55f3bb475b2d6060c0ffd0e080aeb4ea5499bb119ec32a550418335c2d206548&blog_id=42693868&post_id=91666&user_id=262258391&subs_id=225460721&signature=da9ec04b5bbe644a5f3ec02f9c69150b&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly93d3cuY2FtcGJlbGxyYW1ibGUuYWkvcC9jaGluYS1jYW50LXdpbg=&email_id=a7675bbe47fc1a7a974e2de20694f0ac).
+5. [Louise Perry on child care](http://marginalrevolution.com?action=user_content_redirect&uuid=88d455314cd21265c8b0b016ab345279ace07a225e16e3c3876186b38f1f0c77&blog_id=42693868&post_id=91666&user_id=262258391&subs_id=225460721&signature=9042f97ca33000fee32d555e0803c9ba&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly93d3cubnl0aW1lcy5jb20vMjAyNS8xMC8xNC9vcGluaW9uL2N1bHR1cmUvY29tbXVuaXR5LXBhcmVudGluZy12aWxsYWdlLmh0bWw&email_id=a7675bbe47fc1a7a974e2de20694f0ac) (NYT).
+6. [Thrive](http://marginalrevolution.com?action=user_content_redirect&uuid=2f7f873866d516da91636ffd4bed4640a5a9cf0d1330fadcbe939ef52edf3c6c&blog_id=42693868&post_id=91666&user_id=262258391&subs_id=225460721&signature=4b0bf568b6e7e07cbc4aeddf7efa9abf&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly9qb2luY29sb3NzdXMuY29tL2FydGljbGUvam9zaHVhLWt1c2huZXItdGhyaXZlLW5ldy13b3JsZC8&email_id=a7675bbe47fc1a7a974e2de20694f0ac).

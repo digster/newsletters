@@ -1,0 +1,143 @@
+---
+subject: "[Free Read] \"Independence, freedom, and incentives\""
+from: "Beyond The First Order <info@the-ken.com>"
+to: ""
+date: 2020-08-17 01:34:01
+labels: ["CATEGORY_PERSONAL", "INBOX", "The Ken"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_8244464457792971031"]
+---
+|
+Edition #100. Monday, 17 August 2020
+|
+A 🔒 paid newsletter that demystifies the hidden models, incentives and consequences of the most significant events across India and Southeast Asia. Someone sent you this? [Subscribe to BFO](https://the-ken.com/bfo/?utm_source=su_bnr&utm_medium=email&utm_campaign=btfo)
+|
+|
+Welcome to the 100th edition of Beyond the First Order 🥳. Thank you for making this your daily habit—it’s what got us this far. Let me not stand in the way of your coffee and your newsletter. We have a power-packed one today which looks at misaligned incentives and rippling consequences.
+This special edition is free to read. And you can even share individual pieces that you like. So, share widely and spread the BFO love!
+|
+Patterns of a Pandemic
+BFO Team
+Six months into living with Covid-19, we’ve gotten used to the bizarre, half- lives imposed upon us. We don’t even bat an eyelid as we do things that would’ve seemed completely strange in January. Online graduations; geopolitical wars over internet apps; flying in full protective medical gear.
+The BFO team sifted through the last 99 editions of second- and third-order impacts to make sense of the chaos.
+Chaos theory is in itself a “[delicious contradiction](https://theconversation.com/explainer-what-is-chaos-theory-10620)”—drawing patterns from an inherently unpredictable process. At an atomic level, all of these events may seem random, and overwhelmingly so. But slice into the system, and you’ll find how effects ripple out, becoming both consequence and cause.
+When IT parks shut down:
+|
+|
+Share this graphic. Use the buttons below
+|
+Independence, freedom and incentives
+Rohin
+On 14 August, one day before India’s 74th Independence Day, the [Wall Street Journal](https://www.wsj.com/articles/facebook-hate-speech-india-politics-muslim-hindu-modi-zuckerberg-11597423346) dropped an investigative story about the lack of independence within Facebook India when it came to enforcing its own rules on hate speech.
+|
+The company’s top public-policy executive in the country, Ankhi Das, opposed applying the hate-speech rules to Mr. Singh (T.Raja Singh) and at least three other Hindu nationalist individuals and groups flagged internally for promoting or participating in violence, said the current and former employees.
+Ms. Das, whose job also includes lobbying India’s government on Facebook’s behalf, told staff members that punishing violations by politicians from Mr. Modi’s party would damage the company’s business prospects in the country, Facebook’s biggest global market by number of users, the current and former employees said.
+|
+|
+|
+(Here’s an October 2017 profile we published on [Ankhi Das](https://the-ken.com/story/ankhi-das-facebook-india/), “Facebook’s most powerful official in India.”)
+The WSJ story by Newley Purnell and Jeff Horwitz serves as a great example to explain the invisible incentives that are at work in India. Incentives that explain why one of the world’s most powerful and ruthless technology companies is helpless to enforce its own rules. Or why this story was broken by the WSJ and not by any of India’s large and powerful media organisations.
+It’s a wicked problem, at the centre of which lie India’s 1.3 billion citizens. Access and control over this market is what drives the incentives of all the players. That access is increasingly gated and controlled through regulation, which in turn is driven by India’s government.
+Facebook
+Let’s start with Facebook, for which India already is the largest market globally by number of users, with close to 300 million users. Unfettered, it absolutely has the product chops to use its Facebook-WhatsApp-Instagram armada to get to, say, 600 million users.
+But Facebook faces formidable regulatory obstacles. Its digital payments service powered by WhatsApp has been [waiting for approvals](https://tech.economictimes.indiatimes.com/news/mobile/no-nod-to-whatsapp-to-go-live-on-full-scale-upi-operations-rbi/77295901) for over two years. The source of its competitive advantage—user data—faces the [risk of nationalisation](https://timesofindia.indiatimes.com/blogs/toi-edit-page/nationalisation-of-data-will-destroy-value-for-businesses-investors/). The Indian government wants it to [break the encryption](https://www.reuters.com/article/us-india-court-facebook-idUSKBN1X11JR) that protects its user communications.
+Till last year, it [tried to take on Reliance Industries](https://economictimes.indiatimes.com/tech/internet/facebook-counters-mukesh-ambani-says-data-is-not-new-oil-shouldnt-be-hoarded-within-nations/articleshow/71095409.cms), India’s largest private conglomerate, by suggesting that India didn’t need to be protective about its citizen’s data. That ended a few months ago when it invested $5.7 billion in Reliance’s Jio Platforms.
+With virtually no competition among the 400 million Indians who are already users of social networks, Facebook has nothing to gain by enforcing even its own weak hate speech rules. Instead, it has everything to lose if it were to turn the ruling party, government, and regulators into its enemies.
+Indian media
+You’d expect India’s large, powerful and independent media organisations to act as a check against bad behaviour on Facebook’s part. Though not if you’d understand their incentives. Because, as American writer Upton Sinclair once said, “It is difficult to get a man to understand something, when his salary depends on his not understanding it.”
+With the exception of perhaps the Times Group, India’s largest media company, most others are not only unprofitable but also struggling to transform their legacy revenue models into digital ones. Few want to take on a player like Facebook, which is so powerful in the digital ecosystem they hope to be a viable part of.
+Even if they did, given that the bulk of their revenue comes from advertisers and not readers, there isn’t much economic incentive for them to take on Facebook. To make the decision even harder, Facebook itself is currently [sponsoring a news series](https://twitter.com/timesofindia/status/1282530671844405250) with the Times Group.
+Investigating Facebook’s close ties with the government would also risk alienating another source of revenue for India’s media groups—the government. Government advertising is a major source of revenue for most Indian news groups as this detailed report from Vidhi Legal titled [“The Future of News in India”](https://vidhilegalpolicy.in/research/the-future-of-news-in-india/) explains. The report notes that the role of government advertising as a critical revenue source for newspapers has sparked “critical concerns” about transparency.
+The government could also play a role in helping India’s media groups earn more [revenue](https://timesofindia.indiatimes.com/blogs/toi-editorials/belling-the-cat-online-ad-revenues-can-help-pay-for-journalism-australia-tells-google-facebook-to-share/) from [Facebook](https://economictimes.indiatimes.com/blogs/et-editorials/google-facebook-must-pay-for-content/).
+Like Facebook, Indian media has everything to lose too.
+Government
+With the line between political party, elected government, and appointed regulators increasingly blurring, the biggest incentives are controlled by the government. India’s policies are increasingly sprawling in their scope and capable of reducing even billions of dollars in investments and tens of millions of users to nothing in the blink of a new policy.
+Would Facebook risk taking on the wrath of a government with so much at risk? Especially after Ankhi Das and Facebook may have [played a pivotal role](https://www.newsclick.in/part-3-who-were-key-players-responsible-facebooks-support-modi-and-bjp) in helping elect India’s current government to its first term.
+Thus, it was almost logical for WSJ, an American publication, to be the one to expose Facebook’s behaviour in India. For the same reason that Facebook is being brought to action for its role in Myanmar’s genocide in [international and American courts](https://www.reuters.com/article/us-myanmar-rohingya-world-court/u-s-court-asked-to-force-facebook-to-release-myanmar-officials-data-for-genocide-case-idUSKBN23H2E3), not in Myanmar itself.
+Incentives matter.
+|
+India’s plan to spend its way out of the pandemic has a problem
+Seetharaman
+On 14 August, Nirmala Sitharaman, India’s finance minister, held her [third virtual meeting](https://pib.gov.in/PressReleasePage.aspx?PRID=1645800) to press central government-owned enterprises to spend half their outlay for the year ending March 2021 by September 2020. Capital expenditure (capex) by state-run companies is key to the government’s plan to revive an economy hamstrung by the pandemic. The Asian Development Bank expects the Indian economy to shrink [4%](https://economictimes.indiatimes.com/news/economy/indicators/adb-expects-indias-economic-growth-to-slow-down-to-4-pc-in-fy21-on-coronavirus-pandemic/articleshow/74960057.cms?from=mdr) in 2020-21.
+But Sitharaman did not have to wait too long to get a reality check. On the same day as her meeting, government-owned fuel retailer Bharat Petroleum Corporation cut its capex for this financial year by a third—to around Rs 8,000 crore ($1.1 billion).
+|
+Oil companies across the globe have cut their spending plans as the pandemic has driven down oil prices and fuel demand.
+“We have taken a look at all the projects ... on smaller projects we have taken a very harsh look because we have to focus on what is important and what is going to give us profit,” said N. Vijayagopal, Bharat Petroleum’s head of finance.
+“We are shifting the expenditure from year 2020-21 to 2022-23.”
+|
+Indian refiner BPCL cuts 2020/21 spending plans by 36%, [Reuters](https://in.reuters.com/article/india-bpcl/indian-refiner-bpcl-cuts-2020-21-spending-plans-by-36-idINKCN25A1PY?il=0)
+|
+|
+|
+The government can choose to direct companies it fully owns to spend as it sees fit. But several central public sector enterprises (CPSEs) are listed, which means they have other owners, both institutional and individual. Why should Steel Authority of India and power producer NTPC not cut their capex targets and conserve cash if demand for steel and electricity is expected to be tepid? That is what shareholders expect at a time like this.
+If the government has its way, we end up with an outcome where publicly traded CPSEs behave in a way that defies logic, raising further questions about the governance of CPSEs.
+The problem lies in the fact CPSEs have accounted for [40%](https://www.financialexpress.com/economy/cutting-back-cpses-too-slow-capex-halve-such-spend-in-june-quarter/2031274/) of public capex (by both the Centre and states) in recent years. It’s about time the spends of these companies, at least the listed ones, were decoupled from the government’s capex.
+|
+What do new job postings have to do with investing?
+Nithin
+So, I want to buy fast food giant McDonald’s shares, not because I love the brand or its finances, but because they’re [increasing](https://www.linkedin.com/feed/news/heres-whos-hiring-right-now-4525187/) their headcount.
+“When companies increase the number of job postings on their websites, we anticipate an increase in sales and earnings in the future,” says Alex Nekrasov, an assistant professor of accounting at the University of Illinois at Chicago. “When they cut them, it means some not-so-good times are likely ahead, probably sales and earnings will decline.”
+A few years ago, studies were conducted to determine if Twitter sentiment could be used to forecast the short-term movement of the market. Turns out, [it could](https://www.sciencedirect.com/science/article/pii/S2405918817300247).
+And now you have hiring data to track before you make your investment.
+|
+Two sides of the same coin
+Arundhati
+Playing good cop-bad cop never goes out of style. It helps a system stay effective, create a good impression, and come out unscathed. That is India’s taxation story in one line.
+Meet the good cop.
+The country is staring at a gross tax revenue shortfall of Rs 4,32,000 crore (US$57.7 billion) in the financial year ended March 2021. The government needed to do something fast to plug this. So last week, the prime minister launched a new income tax platform, one that riffs on rewarding honesty and transparency. It aimed to make taxation people-friendly by processing faster refunds and, more importantly, it promoted the idea of faceless assessment to remove the overreach by income tax officials.
+Just last year, India’s Finance Minister introduced a new and simplified tax regime that reduced the headache of deductions and allowed more taxpayers to move out of the tax net.
+|
+|
+|
+“When the life of an honest taxpayer of the country becomes easy, he moves forward and develops, then the country also develops and leaps forward."
+|
+PM Modi launches Transparent Taxation platform to benefit honest taxpayers, [Economic Times](https://economictimes.indiatimes.com/news/economy/policy/pm-modi-launches-transparent-taxation-platform-to-benefit-honest-taxpayers/articleshow/77518538.cms)
+|
+|
+|
+Enter the bad cop.
+The Centre has set the taxmen a [target](https://www.thehindu.com/news/national/cbdt-sticks-with-budgets-tax-target-of-132-lakh-cr/article31399467.ece) of collecting Rs 1,32,000 crore (US$176.3 billion) for the fiscal year ending in March 2021. That too amidst massive job losses.
+Still, the taxmen did not protest those stiff targets.
+|
+"Whatever estimates have now been given, I think there is absolute realism to that... I am reasonably confident that we will be able to meet this year's target," [said](https://www.businesstoday.in/current/economy-politics/cbdt-confident-of-meeting-rs-117-lakh-crore-tax-collection-target-in-fy20/story/395544.html) P C Mody, chairman of Central Board of Direct Taxes.
+|
+|
+|
+But as the prime minister announced the move to "honour the honest", IT officials pushed back.
+They want to keep a close eye on all high-value purchases. Be it a painting valued at over Rs 1 lakh (US$1,335.9), hotel bills over Rs 20,000, education fees of more than Rs 1 lakh, health insurance premiums over Rs 20,000 and life insurance premiums over Rs 50,000. Economic Times [reports](https://economictimes.indiatimes.com/wealth/personal-finance-news/financial-transactions-such-as-hotel-bills-life-health-insurance-proposed-to-come-under-tax-lens/articleshow/77542694.cms) that the government handle mygov.in tweeted this on Thursday night, but the tweet was deleted without giving any explanation.
+There is no incentive for the taxmen to fall in line because their tax collections influence their appraisals, transfers, and they are under immense pressure from the Centre.
+|
+“Even seasoned officers after working for 25-30 years cannot take this pressure anymore,” he said. “There are applications for voluntary retirement coming in one after the other despite the fact that there is no voluntary retirement or golden handshake scheme in the department.”
+|
+Indian tax officials find Modi's targets too taxing, some quit, [Reuters](https://in.reuters.com/article/india-taxes/indian-tax-officials-find-modis-targets-too-taxing-some-quit-idINKBN1XP0R9)
+|
+|
+|
+|
+In a way now, a faceless layer just makes it easier for IT officials to play the bad cop with more ferocity.
+|
+Connected islands of discontent
+Kay
+Last week, Malaysia received its GDP report card and it’s not looking good. At all. The country’s GDP [fell 17.1%](https://www.theedgemarkets.com/article/bnm-2q-gdp-contracts-171-due-sudden-halt-economic-activities-april) in the second quarter of 2020, the worst since the Asian Financial Crisis in 1998.
+|
+|
+|
+And of course, it was no thanks to the Covid-induced nationwide movement control order that was implemented on 18 March, which affected various business sectors, including import and export that were down 19.7% and 21.7%, respectively.
+This despite Malaysia registering less than 150 deaths and under 10,000 confirmed Covid-19 cases in the country.
+But when neighbouring countries are also suffering, it’s quite impossible to expect any country, no matter how few the Covid-19 cases, to maintain healthy growth. The Philippines’ GDP [shrank](https://www.aljazeera.com/ajimpact/philippine-economy-posts-biggest-quarterly-plunge-200806051633703.html) 16.5% in the same period, also the worst in the country since 1981.
+Even Singapore, the only advanced economy in Southeast Asia, is [slumping](https://www.straitstimes.com/business/economy/singapore-lowers-2020-gdp-forecast-to-between-5-and-7-as-economy-plunges-worse-than) into a deeper recession. The city-state’s GDP contracted by 6.7% in the first half of 2020.
+No single country could escape unscathed from a global pandemic. Not even the countries that have done well in curbing the spread of Covid-19 outbreaks because all countries and their economies are interconnected. Imports, exports, travel, labour movement. In return, the interconnection among countries is causing some of their neighbours to suffer a ‘proxy downturn’.
+|
+Don't forget to write in with your thoughts and observations on how this pandemic is reshaping businesses, societies and economies. We will be back tomorrow.
+|
+|
+Liked this edition? Share it with others
+|
+Beyond The First Order is a paid daily newsletter that demystifies the hidden models, incentives and consequences of the most significant events across India and Southeast Asia. This newsletter is published by [The Ken](https://the-ken.com/?utm_source=footer&utm_medium=email&utm_campaign=btfo)—a digital, subscription-driven publication focussing on technology, business, science and healthcare
+|
+Want to unsubscribe from our daily newsletter, Beyond The First Order? Click [here](https://link.the-ken.com/asm/unsubscribe/?user_id=2349339&data=X4KGyw5gCgEw1jDIidyCDO5XNaaatByApOeNjbJrQObgj7xFyUk5Ebd0Z1c3_NNax21UywnvjS7feGOJaAF6WBSxmYiyvhfyN3wJnkCdYTinCwA0N35IyckWb60ttD1IAcF-knxK7VmkYUekM8tBOYzCDZgO8V7OQo7xIHPsrWTesnYV22CQZ55AMUtotdqY0YvxryQIik0v3YOXMB7_ZBBwZAf90dPGoIMBeMFkVwioV5W5y8i6LRQp1w--q5q_Etaatj4dqSKBkABQ7_KWxlRfQuFGdRZqHgTNzqU0nkmJwQvOucMCEcVvbFxub47GivawXMnXsOqQ_eKGGBMj2ltBxr0z57sI0NWtPFQT2owE77aOwtNvgAiwLZeThDokFAMaszr05jGkNAwEFQODgrUoakK_KcHCNDBa0pID6EDVmluD3Sj0VkUXs2XCmcrgnWwK3ZgUU-JdQ8P79EavZ1IQcixXRIJjyiSu1ihu5EOtifKNBUxQGEpqPL3SuOTdb74_1S2iuwNlrt_FqYpSr3UuTbsdXwi2k2izdWTib2fJvvMkPZtXGBkA4Ai9meGP). Or set your email preferences [here](https://link.the-ken.com/asm/?user_id=2349339&data=BCIzhotDci1t2uD27cqTwU2rfmBb4BnkVxBfgBK420lItwM3cy6KA43PdWAr2vWvPVZBMQl_NF9ExHlRo5JAag-SXrdH-wzZ5cuBLEDJLvzAqal-so4vziodWKtGj8WKRHBrRq61FAcUOpu6GdkY-jCpNMRQbAwKdDZRSjvXz5NEPeXSZOJEe9lkdevdPG-p2bQHA8Vvr-Sxt9yPh5OUxYcjzmEK8Z5SaTmAQgQOxXXulge-QKZuwz1gGx-S7HLu3nUmezGWCdBJInjUCX4ZxAR3e3aP5my6ErlXAfqsmQ_EvtCWV3hULvfY6OaQieFQtaZASJzafmDT64cki7PwP6IhlhtMNsqCTdmKeqowLDK_gGEexrBqlPQmiv57o4pW9vqPdEp1YJaf5inaj5L7CsS-rIhvjXh6uj4ec7YGX2go3P5LTuZ9Y-jQ7PaB9KToeNMeI2Hqj7VuRDnsMovNYtIhQ9X09PEijmkGdAU9iYZVXvmsAuZOU6CpHKXWPw8uzlxh0CCtXZSP8GlRBpgT-UVaK6qh7dwJL1HUpL6dcKM=)
+© 2020 The Ken
+|
+|
+|
+|
+|

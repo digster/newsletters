@@ -1,0 +1,20 @@
+---
+subject: "Will American soft power triumph through AI?"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2025-04-15 05:38:34
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+That is the theme of [my latest Free Press column](http://marginalrevolution.com?action=user_content_redirect&uuid=2693fb8e5b035810ddceb55d675986a1120445e5382cd176fe39f83ae5061f24&blog_id=42693868&post_id=90452&user_id=262258391&subs_id=225460721&signature=91dba2dfeef1ee467ac85d7a2e0e216d&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly93d3cudGhlZnAuY29tL3AvaXMtdGhpcy10aGUtY2hpbmVzZS1jZW50dXJ5LW5vdC1pZg=&email_id=1b81747096ed2d3c86de846d866d969f), here is one bit from it:
+...for all the differences across the models, they are remarkably similar. That’s because they all have souls rooted in the ideals of Western civilization. They reflect Western notions of rationality, discourse, and objectivity—even if they sometimes fall short in achieving those ends. Their understanding of “what counts as winning an argument” or “what counts as a tough question to answer” stems from the long Western traditions, starting with ancient Greece and the Judeo-Christian heritage. They will put on a Buddhist persona if you request that, but that, too, is a Western approach to thinking about religion and ideology as an item on a menu.
+These universal properties of the models are no accident, as they are primarily trained on Western outputs, whether from the internet or from the books they have digested. Furthermore, the leading models are created by Bay Area labor and rooted in American corporate practices, even if the workers come from around the world. They are expected to do things the American way.
+The bottom line is that the smartest entities in the world—the top AI programs—will not just be Western but likely even American in their intellectual and ideological orientations for some while to come. (That probably means the rest of the world will end up a bit more “woke” as well, for better or worse.)
+One of the biggest soft power victories in all of world history occurred over the last few years, and hardly anyone has noticed.
+You might think the Chinese AI models are fundamentally different, but they are not. They too “think like Westerners.” That’s no surprise because it is
+[highly likely]that the top Chinese model, DeepSeek, was distilled from OpenAI models and also is based on data largely taken from Western sources. DeepSeek’s incredible innovation was to make the model much cheaper in terms of required compute, but the Chinese did not build their own model from scratch. And DeepSeek has the same basic broad ideological orientation as the American models, again putting aside issues related to Chinese politics. Unless an issue is framed in explicitly anti–Chinese Communist Party (CCP) terms, as a Taiwan query might be, it still thinks like an American.
+[Manus]is another top Chinese AI model, but it is believed the makers[built it upon Claude], an AI model from the American company Anthropic.
+And this:
+The geopolitics of all this have yet to play out. But already the most intelligent entities in the world are thinking, and evaluating options, like Westerners and Americans. Censoring them on a few issues related directly to Chinese politics will not change that basic reality.
+In other words, the entire Chinese service sector, over time, may be built upon Western modes of thought and Western ideology. That includes the Chinese government and of course, the CCP itself. The point is that, over time, everyone’s thoughts and decisions and mental frameworks will be nudged in Western and American directions.
+These are underrated points of import.

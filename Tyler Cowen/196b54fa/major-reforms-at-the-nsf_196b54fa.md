@@ -1,0 +1,12 @@
+---
+subject: "Major reforms at the NSF"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2025-05-09 13:50:19
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+The National Science Foundation (NSF), already battered by White House directives and staff reductions, is plunging into deeper turmoil. According to sources who requested anonymity for fear of retribution, staff were told today that the agency’s 37 divisions—across all eight NSF directorates—are being abolished and the number of programs within those divisions will be drastically reduced. The current directors and deputy directors will lose their titles and might be reassigned to other positions at the agency or elsewhere in the federal government.
+The consolidation appears to be driven in part by President Donald Trump’s proposal to cut the agency’s $9 billion budget by 55% for the 2026 fiscal year that begins on 1 October. NSF’s decision to abolish its divisions could also be part of a larger restructuring of the agency’s grantmaking process that involves adding a new layer of review. NSF watchers fear that a smaller, restructured agency could be more vulnerable to pressure from the White House to fund research that suits its ideological bent.
+As soon as this evening, NSF is also expected to send layoff notices to an unspecified number of its 1700-member staff. The remaining staff and programs will be assigned to one of the eight smaller directorates. Staff will receive a memo on Friday “with details to be finalized by the end of the fiscal year,” sources tell Science. The agency is also expected to issue another round of notices tomorrow terminating grants that have already been awarded, sources say. In the past 3 weeks, the agency has pulled the plug on almost 1400 grants worth more than $1 billion.
+Here is [more information](http://marginalrevolution.com?action=user_content_redirect&uuid=fc65464090cb4c70d1ee4541a954610e07450fc35a7ce593d047f14e15b517da&blog_id=42693868&post_id=90632&user_id=262258391&subs_id=225460721&signature=38ca1f798674d5207b80f7756b0b2cbc&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly93d3cuc2NpZW5jZS5vcmcvY29udGVudC9hcnRpY2xlL2V4Y2x1c2l2ZS1uc2YtZmFjZXMtcmFkaWNhbC1zaGFrZS1vZmZpY2lhbHMtYWJvbGlzaC1pdHMtMzctZGl2aXNpb25z&email_id=afd9ba31b28d61a6a7ac57d08d2d9ed3), this story is still developing...

@@ -1,0 +1,82 @@
+---
+subject: "Antimemetics: Why Some Ideas Resist Spreading | Nadia Asparouhova (Writer and Researcher)"
+from: "The Generalist <thegeneralist@substack.com>"
+to: ""
+date: 2025-06-10 12:03:11
+labels: ["CATEGORY_PERSONAL", "INBOX", "The Generalist", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_8815311452832858585", "UNREAD"]
+---
+|
+[WorkOS](https://substack.com/redirect/80abc305-4890-4c34-972d-50a7935869d6?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o): The modern identity platform for B2B SaaS.
+[Brex](https://substack.com/redirect/3ed6a0c0-08ee-491a-ad7e-ebc28b732178?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o): The banking solution for startups.
+[Generalist+](https://substack.com/redirect/55e3a947-90af-4ee1-bfdb-e410d8cfbbf6?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o): Essential intelligence for modern investors and technologists.
+Some ideas spread like wildfire. Others vanish before they take root—too strange, too threatening, too forgettable. In this episode of The Generalist, I sit down with Nadia Asparouhova, author of Antimemetics: Why Some Ideas Resist Spreading, to explore the category of “antimemes”: ideas that actively resist being remembered or shared. Drawing from science fiction, epidemiology, and her own unusual cognitive wiring, Nadia maps the shadowy terrain of information that doesn’t want to be shared. We talk about taboos, group chat dynamics, and the hidden incentives shaping what spreads and what doesn’t.
+In our conversation, we explore:
+What antimemes are and why some ideas actively resist being remembered or shared
+How taboos, cognitive biases, and uncomfortable truths function as self-censoring ideas
+The 2x2 matrix of ideas: memes, antimemes, supermemes, and forgettable non-memes
+How group chats are changing idea evolution by acting as high-trust, high-density incubators
+How internet slang terms like “vibes” and “cringe” reflect deeper shifts in how we share information
+Why great innovation often comes from people willing to look foolish
+The critical roles of "truth tellers" and "champions" in preserving important ideas
+How memory, aphantasia, and synesthesia shaped Nadia’s sensitivity to forgotten ideas
+How local knowledge (wisdom) differs from global knowledge (facts), and why it’s harder to pass down
+How Nadia’s experience as a parent shifted her thinking from nurture to nature
+How to protect your mental space in an age of information overload
+([00:00](https://substack.com/redirect/dfb9f15f-c60b-48ed-90b0-34cfeaeb957e?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) Intro
+([04:45](https://substack.com/redirect/6bcdad88-c2dc-41c9-ac3c-ba425aa128ea?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) A brief overview of Nadia’s writing
+([06:24](https://substack.com/redirect/447b2456-0c1d-45b9-a2a0-f233d79d908c?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) Richard Dawkins’s definition of a meme
+([08:02](https://substack.com/redirect/f60b8e36-74a4-46ba-ac1d-0e43eeb25d36?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) Antimemes and a brief overview of the book There Is No Antimemetics Division
+([11:54](https://substack.com/redirect/0836d2b7-f663-475c-8793-5eb68ff04898?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) Why daylight savings time is the perfect antimeme
+([13:13](https://substack.com/redirect/76b86bca-b87c-4622-9be0-1f81a1d63c38?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) How neurodivergence shapes Nadia’s creativity
+([16:20](https://substack.com/redirect/3fb42e0e-e9d9-40b2-b079-a01ebf483228?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) Synesthesia explained
+([18:02](https://substack.com/redirect/271c9ee3-0c1e-4a5c-8bc4-8325adac9228?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) Solomon Shereshevsky, a case of extreme synesthesia
+([18:52](https://substack.com/redirect/f6a922e8-1a21-4341-9369-91756e3d7289?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) Why forgetting can be a superpower
+([22:45](https://substack.com/redirect/5229e323-dfdd-4d80-95b3-57450f676dd2?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) Why some ideas spread and others do not
+([25:11](https://substack.com/redirect/48fe2f8c-eb35-4614-8ae9-f57ebcdf45df?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) The 2x2 matrix of ideas
+([27:20](https://substack.com/redirect/d032f6af-171d-46b8-bd71-e26e429b4625?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) A warning about supermemes
+([29:43](https://substack.com/redirect/1cd2c3c5-0943-4582-9976-514857dd7029?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) Group chats and the evolution of ideas
+([34:44](https://substack.com/redirect/8f0a8638-e842-43f3-9465-ce60a4db71a5?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) Are supermemes organic or engineered?
+([40:43](https://substack.com/redirect/0b8e8b66-e09e-4c45-8249-e0d232cb7291?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) The role of truth tellers and champions
+([45:38](https://substack.com/redirect/389fb171-037d-4bf3-bebf-173e5a9f0e7e?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) What it means to have “purity of purpose”
+([46:48](https://substack.com/redirect/bf2b7d40-4126-4962-8b08-02cbc53430ef?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) Nadia’s experience with altered states of consciousness, and an example of a champion
+([51:02](https://substack.com/redirect/404eab3e-0af3-4d55-93ed-0a777cd8daa8?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) How Nadia’s fear of sharing has lessened, and a case for examining your own fears
+([52:51](https://substack.com/redirect/19f603e2-c229-4160-995d-741a03f82e6c?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) Understanding the internet slang words “vibes” and “cringe”
+([57:35](https://substack.com/redirect/96548d31-9bc8-4be3-b0bf-1a6596916466?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) Global vs. local knowledge and how it shapes Nadia’s parenting
+([1:05:01](https://substack.com/redirect/9de1401a-6cbe-423b-9074-66d90ae131ac?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) Where Nadia finds her ideas
+([1:08:40](https://substack.com/redirect/0b4483c1-f7c1-403d-9866-0f8813ce886b?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) How Nadia protects her time to allow for deep work
+([1:12:38](https://substack.com/redirect/c8c291cb-932a-44d1-9bd5-e656182e496b?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) Final meditations
+Newsletter: [https://nayafia.substack.com/](https://substack.com/redirect/7d5c3816-5cad-4211-b7de-26ebe3e23de6?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+LinkedIn: [https://www.linkedin.com/in/nadia-asparouhova/](https://substack.com/redirect/c13f184b-2635-4775-af60-93fea17ec886?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+Antimemetics: Why Some Ideas Resist Spreading:
+[https://www.amazon.com/Antimemetics-Some-Ideas-Resist-Spreading-ebook/dp/B0F8J9HHCB](https://substack.com/redirect/9b72b52d-8510-4414-93be-ba12c85d698e?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)There Is No Antimemetics Division:
+[https://www.amazon.com/There-No-Antimemetics-Division-qntm/dp/B0915M7T61](https://substack.com/redirect/8cb2d6fe-e00b-48e6-bcb9-cae59c1b1976?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)A Primer for Forgetting: Getting Past the Past:
+[https://www.amazon.com/Primer-Forgetting-Getting-Past/dp/0374237212](https://substack.com/redirect/bb5abe27-a04b-4fe7-9f5f-1e8c623964b5?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)René Girard's Mimetic Theory:
+[https://www.amazon.com/Girards-Mimetic-Studies-Violence-Mimesis/dp/1611860776](https://substack.com/redirect/7ebe888e-b590-488e-836b-b77f6c846c97?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+Richard Dawkins’s website:
+[https://www.richarddawkins.com/](https://substack.com/redirect/f5ada46d-7342-4394-a17a-d7fab6524790?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)Qntm:
+[https://qntm.org/self](https://substack.com/redirect/d40301a4-fb3f-40f6-bc51-bf13f6fbf1c0?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)Solomon Shereshevsky:
+[https://en.wikipedia.org/wiki/Solomon_Shereshevsky](https://substack.com/redirect/ff173fbd-4924-4e61-80f7-ee1b6661dfab?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)Marc Andreessen on X:
+[https://x.com/pmarca](https://substack.com/redirect/f11eb666-f22f-4198-8f6b-af76b4e6332b?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)Erik Torenberg on X:
+[https://x.com/eriktorenberg](https://substack.com/redirect/9ccc1ca4-228f-4168-b147-3a2118164194?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)Greta Thunberg on X:
+[https://x.com/gretathunberg](https://substack.com/redirect/6925a7c6-b0ad-4677-81df-660ed06aff25?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)Nick Cammarata on X:
+[https://x.com/nickcammarata](https://substack.com/redirect/dcd10e20-3ae5-45b3-822c-68ee7bfa4820?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)Leo Strauss:
+[https://en.wikipedia.org/wiki/Leo_Strauss](https://substack.com/redirect/0b4b5af6-1863-40c2-8172-ea699f8709ac?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)Graham Duncan’s blog:
+[https://grahamduncan.blog/](https://substack.com/redirect/81690565-c37e-41bc-8f6c-3974ae96a8af?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+What is Aphantasia?:
+[https://aphantasia.com/what-is-aphantasia](https://substack.com/redirect/dbf10aaf-522b-4c6d-baa6-4894fc90b59b?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)Apple test:
+[https://creativerevolution.io/aphantasia-a-blind-minds-eye/](https://substack.com/redirect/c40a2ae8-27a2-43ef-9631-00d04a40549b?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)Synesthesia:
+[https://www.psychologytoday.com/us/basics/synesthesia](https://substack.com/redirect/18d04395-5f2e-441c-84ad-03319b46016c?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)The group chats that changed America:
+[https://www.semafor.com/article/04/27/2025/the-group-chats-that-changed-america](https://substack.com/redirect/8f0f1c56-d442-4eca-9a25-ebf82c5e062e?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)The Emperor’s New Clothes:
+[https://en.wikipedia.org/wiki/The_Emperor%27s_New_Clothes](https://substack.com/redirect/2d8234e6-c886-4a48-a37e-e0e7f8da6d44?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)Memeplexes:
+[https://en.wikipedia.org/wiki/Memeplex](https://substack.com/redirect/9f21a84d-3e58-45fb-99ab-e179cfe89081?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)Nick Cammarata’s post on X about Jhana:
+[https://x.com/nickcammarata/status/1921602562274304470](https://substack.com/redirect/b811ac18-96e3-42dd-b02f-64ef470aedc3?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)Exploring altered states of consciousness:
+[https://nayafia.substack.com/p/exploring-altered-states-of-consciousness](https://substack.com/redirect/fc10b570-79db-45ae-8eff-7d67d5e7eec9?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+Vibecamp:
+[https://vibe.camp/](https://substack.com/redirect/118721fc-1697-489a-b276-b2baf3eee81a?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)The Hypnotized Society:
+[https://nayafia.substack.com/p/the-hypnotized-society](https://substack.com/redirect/f0811166-7974-4b92-a76c-e79276d7ccb0?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+Killing Eve on Netflix:
+[https://www.netflix.com/title/80177090](https://substack.com/redirect/f351fcb7-c677-41f8-82e2-c2be461461cf?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)Marie Antoinette: https://www.imdb.com/title/tt0422720/
+I’d love it if you’d subscribe and share the show. Your support makes all the difference as we try to bring more curious minds into the conversation.
+Production and marketing by [penname.co](https://substack.com/redirect/d1358b1b-9c9f-48ea-b3f2-5d3f0412a23f?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o). For inquiries about sponsoring the podcast, email jordan@penname.co.
+You're currently a free subscriber to [The Generalist](https://substack.com/redirect/22c3f2ec-50df-4075-a639-0f0eea9b69fd?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o). For the full experience, [upgrade your subscription.](https://substack.com/redirect/2/eyJlIjoiaHR0cHM6Ly93d3cuZ2VuZXJhbGlzdC5jb20vc3Vic2NyaWJlP3V0bV9zb3VyY2U9cG9zdCZ1dG1fY2FtcGFpZ249ZW1haWwtY2hlY2tvdXQmbmV4dD1odHRwcyUzQSUyRiUyRnd3dy5nZW5lcmFsaXN0LmNvbSUyRnAlMkZhbnRpbWVtZXRpY3MtbmFkaWEtYXNwYXJvdWhvdmEmcj04bzU0biZ0b2tlbj1leUoxYzJWeVgybGtJam94TkRVMk16TXhPU3dpYVdGMElqb3hOelE1TlRVM05ERTBMQ0psZUhBaU9qRTNOVEl4TkRrME1UUXNJbWx6Y3lJNkluQjFZaTB4TlRjMk5DSXNJbk4xWWlJNkltTm9aV05yYjNWMEluMC5FMG4tQ0M5R2hqNDhfVkRCWjdzZkFzTjdXQ1V3anI4Z01ubFJjOGFhT3hjIiwicCI6MTY0OTAzOTYyLCJzIjoxNTc2NCwiZiI6dHJ1ZSwidSI6MTQ1NjMzMTksImlhdCI6MTc0OTU1NzQxNCwiZXhwIjoxNzUyMTQ5NDE0LCJpc3MiOiJwdWItMCIsInN1YiI6ImxpbmstcmVkaXJlY3QifQ.R6xL4Fw06TI1i-dOV-bGpVq7BTEfcY02BTdG5nL01C4?&utm_source=substack&utm_medium=email&utm_content=postcta)

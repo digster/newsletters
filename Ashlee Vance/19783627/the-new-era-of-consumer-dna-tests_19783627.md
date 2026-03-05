@@ -1,0 +1,19 @@
+---
+subject: "The New Era of Consumer DNA Tests"
+from: "Ashlee Vance from Core Memory  <ashleevance@substack.com>"
+to: ""
+date: 2025-06-18 14:07:14
+labels: ["Ashlee Vance", "CATEGORY_PERSONAL", "INBOX", "UNREAD"]
+label_ids: ["Label_4216359091400734623", "CATEGORY_PERSONAL", "INBOX", "UNREAD"]
+---
+|
+This week’s guest is Kian Sadeghi, the founder and CEO of [Nucleus](https://substack.com/redirect/cfecb556-9c93-4454-967d-e3f1146d4aa8?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o).
+Sadeghi has everything you want in a controversialish bio-tech CEO. He’s a college dropout, a Thiel Fellow and a “wild child,” as one Nucleus investor told me. He’s also trying to uplevel the consumer DNA testing game by poring over entire human genomes with every test instead of just looking at snippets of DNA as companies like 23andMe and Ancestry have done for many years.
+Nucleus charges about $500 for its mainstream health test aimed at adults. It promises to give you insights about a wide variety of health conditions, including your likely disposition toward things like mental health issues, cancers and rare genetic diseases. You can use the information to inform your lifestyle choices and to compare your DNA traits with those of your potential baby making partner to see if you’re a good baby making fit. (You can [go here](https://substack.com/redirect/f035cf32-7c1b-46e8-ae82-a6b0df78b2f4?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) to see how Sadeghi uses this information on dates.)
+The company also has a new, far more expensive service ($5,000) aimed at parents going through the [IVF process](https://substack.com/redirect/8e3955b9-cbc3-4b42-a661-59e884d2dbb6?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) to help them select embryos with certain traits. This type of service is quickly becoming all the rage, as we noted in our [recent video on Orchid](https://substack.com/redirect/0a77034a-1302-4482-8bd1-5d8e0a507567?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o), which you should absolutely watch because it’s awesome. (Orchid contends that it does a much deeper dive on the embryo DNA than does Nucleus. I gave Sadeghi a chance to respond to some of this in the podcast.)
+Sadeghi has been controversialish because he’s made big claims about Nucleus’s ability to discern things like someone’s IQ from DNA and because he’s been an aggressive marketer in a bio-tech field that tends more toward conservatism - lest one become the next [jailed blood testing](https://substack.com/redirect/2e9fd1d1-e220-4ea3-954b-68aa10156a34?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) start-up CEO. He’s also been way more outspoken about the rather obvious direction we’re heading toward where people will be picking the desired traits of their future kids and where sex may well just become a purely recreational event as society moves toward IVF and artificial wombs for the majority of its new human production.
+What’s clear enough is that the first wave of consumer genetic testing companies arrived many years ago when DNA tests were rarer and more expensive, and we’re now seeing them be usurped by a new crop of services that really take advantage of the massive decreases in sequencing costs. In short, we can test more of your DNA more cheaply than ever before, and we have much better data and software to analyze the DNA now.
+Sadeghi and I get into all of this on the podcast.
+The show was made possible by the fine people at [E1 Ventures](https://substack.com/redirect/1f030d3e-512d-4231-a857-b516650a9faf?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o). No cap table is complete without E1, or at least that’s what I tell my kids.
+Enjoy!
+Hopefully, you enjoyed this story. If so, please share it and subscribe to Core Memory. We want to do more of this for you and need your help. Thanks!

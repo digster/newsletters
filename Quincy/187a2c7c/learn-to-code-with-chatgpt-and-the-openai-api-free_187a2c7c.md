@@ -1,0 +1,32 @@
+---
+subject: "Learn to code with ChatGPT and the OpenAI API (free 5-hour course)"
+from: "Quincy Larson <quincy@freecodecamp.org>"
+to: ""
+date: 2023-04-21 07:46:55
+labels: ["CATEGORY_PERSONAL", "IMPORTANT", "INBOX", "Quincy"]
+label_ids: ["CATEGORY_PERSONAL", "IMPORTANT", "INBOX", "Label_7697778124671848699"]
+---
+Here are this week's five links that are worth your time:
+
+1. The freeCodeCamp community just published a comprehensive project-based course on ChatGPT and the OpenAI API. This cutting-edge course will help you harness the power of Generative AI and Large Language Models. You'll learn from legendary programming teacher Ania Kubów. She'll walk you through building 5 projects that leverage OpenAI's APIs: a SQL query generator, a custom ChatGPT React app, a DALL-E image creator, and more. (5 hour YouTube course): https://www.freecodecamp.org/news/chatgpt-course-use-the-openai-api-to-create-five-projects/
+
+2. And if you want to better understand the machine learning that powers AI tools like ChatGPT, this JavaScript Machine Learning course will most definitely be your jam. This "No Black Box" ML course is taught by Dr. Radu Mariescu-Istodor, one of the most popular computer science professors in the freeCodeCamp community. He'll show you how to build AI applications, implement classifiers, and explore data visualization – all without relying on libraries. This is a great way to grok what's really running under the hood of AI systems. (4 hour YouTube course): https://www.freecodecamp.org/news/learn-machine-leaning-without-libraries-or-frameworks/
+
+3. Functional Programming is hard. But it comes up all the time in developer coding interviews. This advanced JavaScript course will teach you key FP concepts like lexical scope, time optimization, hoisting, callbacks, and closures. You'll also gain a deeper understanding of currying and its practical applications in JavaScript. (30 minute read): https://www.freecodecamp.org/news/prepare-for-your-javascript-interview/
+
+4. And if you really want to nail your coding interviews, take the advice of competitive programming world finalist Alberto Gonzalez. Instead of just memorizing the solutions to common interview questions, he recommends collaborating with your interviewer to talk through your coding assignment. He walks you through 3 mock interview questions, and gives you strategies for looking really smart while showcasing your problem-solving skills. (25 minute read): https://www.freecodecamp.org/news/collaborative-problem-solving-with-python/
+
+5. Unleash your inner game developer with this new Godot Game Engine course. This beginner-friendly tutorial will guide you through coding your own platformer game. You'll design your game's User Interface, enemies, and 2D background scenes. Along the way, you'll also learn skills like event scripting, animation, and camera movement. (25 minute read): https://www.freecodecamp.org/news/learn-godot-for-game-development/
+
+I'm so proud of all of these open courses that I get to share with you each week. And I'm proud of our team of teachers. If you're getting a lot out of these, then please support our charity and our mission. We can accomplish even more when we all pull together: https://www.freecodecamp.org/donate
+
+Quote of the Week: “Everything that civilisation has to offer is a product of human intelligence. We cannot predict what we might achieve when this intelligence is magnified by the tools that AI may provide, but the eradication of war, disease, and poverty would be high on anyone’s list. Success in creating AI would be the biggest event in human history. Unfortunately, it might also be the last.” — Stephen Hawking, Cosmologist, Theoretical Physicist, and my childhood hero
+
+Happy coding.
+
+-- Quincy Larson
+
+Teacher at freeCodeCamp.org
+I share useful things on Twitter at https://www.twitter.com/ossia
+
+If these aren't worth your time, you can turn them off: https://www.freecodecamp.org/ue/eZV2T3gHC7IGcwcpYPG64

@@ -1,0 +1,42 @@
+---
+subject: "The Nutgraf : Transformers assemble!"
+from: "The Ken <info@the-ken.com>"
+to: ""
+date: 2019-08-17 04:33:41
+labels: ["CATEGORY_PERSONAL", "INBOX", "The Ken"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_8244464457792971031"]
+---
+It’s rare to see a corporate leviathan molting and metamorphosing in plain sight, but this week we saw exactly that in India. On Monday, Reliance Industries, India’s largest private corporation, made a slew of announcements as part of its [Annual General Meeting](http://link.the-ken.com/wf/click?upn=HQSq6eeRV1xAVaGuFOahuOVOvKFcdhIpOIEhavcs-2BJNuKT3CHoiCbyY-2Bn8bocaNgkdRDHzOUEc7lQ-2B7M6pU3hGDEQAnvSrrUiSqt62swQFo-3D_S4jLOsNx-2Fv6Jev2nvow8b7P9pBCWGd8KNZfb200gkZLQNlXQHio0noZzXtsWoloZmPWeyZsh7a4QCV9ufwCUKi00jlBT0uEdvwYDMuVuqcPyRODAkVaLnHBMMg6ez4nz4JjWD6-2FU-2Ff3gn0xoqqr-2BioLpnBtE3CqHOFbMt8xWFBnpKj-2FUjT3oR5ChX9vRI2i10lUVeH7lDMRYDu725TIhOokEmIMkG2S3foq66tyOUSpdOmIavqYkPKcjQ17HfmmB8O6jJr1dDy5oq7PyF5BPn0-2BEAcI-2F6AZmDosz1Rs2sRsbQuL82exFjsyOF0um0xiko7pajYaNNwAZy6dyzOY5Q0zpKez-2B-2BdjU-2FgFk1xM7vbIIEkJJ4TU5h-2BcASp-2BhIuvKtG2L6hPI0UBmJ43xtZYm029vhKU6w-2BiXqYmwaWrhXZdLXuwpOLJoTxnXAODiycjkCvN6xDBhAju-2F3E4Rxpr-2FLA-3D-3D's%20Statement%20-%2042nd%20RIL%20AGM.pdf).
+As partners and competitors (you’re either a partner, competitor, or just haven’t come around to realising it yet) like Bharti Airtel, Amazon, Google, Walmart, Alibaba and Netflix watched quietly from the sidelines, Mukesh Ambani, Reliance’s chairman and Asia’s richest person, revealed a few more of his cards.
+A conglomerate whose primary businesses were oil exploration and refining, energy and chemicals was pivoting into a new age conglomerate. Ambani largely talked about two key pillars for his company’s transformation—13-year-old Reliance Retail and 3-year-old telecom operator, Jio. In 13 years, Reliance Retail had touched nearly $19B in revenue and become #1, but was also larger than every other major retailer put together.
+And in 3 years, Jio had crossed 340M subscribers and become the largest telco “in terms of subscribers, revenues and profits” in what was thought to be the world’s toughest and most competitive market.
+Taken together, these two pillars were contributing nearly 32% to Reliance’s EBITDA, up from 2% just 5 years ago.
+There are pivots, and then there are Reliance pivots.
+To achieve 340M subscribers in telecom, Reliance claims to have spent $50B to create the underlying digital infrastructure.
+A key enabler behind all of this has been Reliance’s legendary policy deftness and fancy footwork that has allowed it to spot and exploit gaps and trends ahead of competitors. Ambani is thus already on the right side of a shift in Indian politics and policies that seeks to, led by Prime Minister Narendra Modi, remake India into a “New India”. I quote from Ambani’s speech:
+“As India is getting transformed into New India, Reliance will also transform itself into New Reliance. Our Prime Minister Shri Narendra Modi has set the goal of making India a 5 trillion dollar economy by 2024. I fully endorse this ambitious goal. Indeed, I can clearly see India becoming a 10 trillion dollar economy by 2030, with every Indian as a beneficiary. This is achievable. This is necessary. This is inevitable.”
+Partners and competitors would do well to pay heed to the last two sentences.
+“This is necessary. This is inevitable.”
+New India, New Fibre
+Ambani also announced the launch of Jio’s wired broadband service, JioFiber, across India. And just incase anyone still didn’t get the entire “New India” message, Ambani compared his minimum promised speed of 100Mbps to the 90Mbps average fixed-line download speeds in “the most developed economy”, America.
+At its core, Reliance wants nothing but to utterly own every segment it operates in and obliterate every rival. I mean, how many businesses in these days of regulatory scrutiny will say the following in their annual shareholding meeting, like Ambani did?
+“Reliance Retail is four times larger than the 2nd largest retail player. It is larger than all the other major retailers put together.”
+Bravado aside, when it comes to broadband, Reliance has realized that there simply might not be enough customers to own to satisfy its inexorable urge for scale. It’s self-declared customer targets for homes and businesses are 20M and 15M respectively.
+Well, but who said customers have to be homes or businesses? Or even people? From Ambani’s speech:
+“There are over 300 million electricity meters which need to be connected digitally for real-time monitoring and for giving consumers full visibility and control of cost and quality. And going forward each home and business premise will have dozens of connected devices.
+Within another 2 years, it is estimated that there will be more than 2 Billion Connected IOT devices in our country. Jio aims to connect at least 1 BILLION of these on Jio's IoT platform.”
+Which means when the likes of Google and TikTok reach India’s “[Next Billion Users](http://link.the-ken.com/wf/click?upn=HQSq6eeRV1xAVaGuFOahuN1d3no5sPsofCWggceAlxvbb8caSoFgqHdk6g8YCOsHQUD2IyrKb4jPhrbHjLgmVfPfly3JykjMcE6SU2iB4ck9w1-2BtQxN-2BuZEgHWJyCmmYk34E-2FCrGKSPFaiqis77L0A-3D-3D_S4jLOsNx-2Fv6Jev2nvow8b7P9pBCWGd8KNZfb200gkZLQNlXQHio0noZzXtsWoloZmPWeyZsh7a4QCV9ufwCUKi00jlBT0uEdvwYDMuVuqcPyRODAkVaLnHBMMg6ez4nz4JjWD6-2FU-2Ff3gn0xoqqr-2BioLpnBtE3CqHOFbMt8xWFBnpKj-2FUjT3oR5ChX9vRI2i10lUVeH7lDMRYDu725TIhOokEmIMkG2S3foq66tyOUSpxPkPaK7sXyOiHBKWdF8b2stiDyTefj0pLPYWgJp-2F0weLzagI0pjQvUPzW8VPq3JTIXQ87GlV4o679VudU9WBJatBVDnKQ67CJzVq7OiIBtF7EREz1qOzdepas-2Fs3Z6-2Fx9p8ISltSRh0Cuq-2BDr3GAH5-2F7AnWKUNoA0HZ8C7l4X-2BcD2IuUggKhRWDZTvoz0rfyCqhvXhK-2FNTn5qjJ1A8c8iom81MCbO-2FIo1Bk-2FwIkvTzw-3D-3D)”, Jio wants to be the Internet-of-Things (IoT) service waiting inside their electricity meters and fridges and televisions.
+Oh, yeah. A free 4K LED television to be precise.
+Because Jio wants to offer one (along with a 4K set-top box) “ABSOLUTELY FREE” for every user who signs up for an annual broadband connection.
+What’s small and many and rhymes with enemy?
+A distinct strain running through Reliance’s disruption-by-transformation performance is a new found respect for small entrepreneurs. This strategic co-option stems from either a realisation that even its famed balance sheet can only fund so many greenfield adventures, or that allying with the millions of small businesses being disrupted by large tech giants and startups is a great thing. Or both.
+In television, Ambani bemoaned the threatened livelihoods of nearly 100,000 small-time cable operators across India, thanks to direct-to-air satellite channels. It claims to have therefore bought controlling stakes in 3 of the leading cable operator aggregators, providing it with access to over 30,000 small cable operators.
+In broadband, Ambani first declared that “micro, small and medium businesses are the bedrock of Indian economy” before announcing a partnership with Microsoft to bundle its Azure cloud platform and apps into Jio data centers and sell the connectivity+applications bundle for as low as Rs 1,500 a month (just over $20).
+In retail, Ambani professed his respect for the 30M merchants and mom-and-pop stores who make up the bulk of India’s unorganised retail market, which accounts for 90% of India's retail landscape. These highly energetic and self-motivated entrepreneurs have suffered in recent years because of their inability to invest in technology and infrastructure.
+Rivals would do well to take note. Because with a slowing economy, a severe jobs crunch and rising calls for protectionism and regulation, ignore Reliance’s alignment with small businesses, cable operators and shopkeepers at your peril.
+What Ambani did not mention in his speech is the elephant in the room among e-commerce and fintech companies in India. But he left enough clues.
+“And using Blockchain, we also have an opportunity to invent a brand new model for data privacy where Indian data, especially customer data, is owned and controlled through technology by the Indian people and not by corporates, especially global corporations. Data is wealth and Indian wealth must remain in India. Over the next 12 months, Jio will install across India one of the largest blockchain networks in the world with tens of thousands of nodes operational on day one.”
+Beautiful, isn’t it?
+“Data is wealth and Indian wealth must remain in India.”
+Of course it is.
+“This is necessary. This is inevitable.”

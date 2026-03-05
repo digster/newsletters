@@ -1,0 +1,11 @@
+---
+subject: "Cyprus and multiple state sovereignties"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2025-11-19 08:00:47
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+I am struck by how many layers of sovereignty there are in Cyprus, sometimes but not always conflicting. There is Greek Cyprus, Turkish Cyprus (the Turkish interpretation), Republic of Cyprus under Turkish occupation (the Greek interpretation), unified Cyprus (recognized by the EU and also many Cypriot citizens, though the Turkish part is exempt from EU laws and obligations, in any case not recognized by Turkey), the EU, and last but not least Britain claims and possesses, as full sovereign, three percent of Cyprus territory, an arrangement contested by no one.
+Arguably you could add "Turkey" to that list. The Turkish government does not claim sovereignty over any part of Cyprus, but they put the flag everywhere, they guarantee defense, the currency is the Turkish lira, and they have a de facto veto over major decisions. It is Turkey in everything but name, though there is a passport check when visitors fly in from Istanbul. Keep in mind that the earlier 1974 Turkish invasion deprived what is now Greek Cyprus of [its then main cargo port and main airport](http://marginalrevolution.com?action=user_content_redirect&uuid=2daae9adee69cde1e5c2293c4e83f58d0ab2f61ac5b954e4da045ee34ea7fcd8&blog_id=42693868&post_id=91882&user_id=262258391&subs_id=225460721&signature=c656af0148748b4108f4a9dce50b932d&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvRWNvbm9teV9vZl9DeXBydXM&email_id=b3d7e434799dd547e5a31bf4d9ce1380).
+While matters have been peaceful for some while now, I fear these political arrangements limit the ability of Cyprus to exploit scale. The island has only about 1.3 million people, so complications do not help their ability to attract high-productivity investment.

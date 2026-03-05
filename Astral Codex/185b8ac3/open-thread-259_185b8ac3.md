@@ -1,0 +1,10 @@
+---
+subject: "Open Thread 259"
+from: "Astral Codex Ten <astralcodexten@substack.com>"
+to: ""
+date: 2023-01-16 03:41:15
+labels: ["Astral Codex", "CATEGORY_PERSONAL", "INBOX"]
+label_ids: ["Label_6409723252142624155", "CATEGORY_PERSONAL", "INBOX"]
+---
+This is the weekly visible open thread. Post about anything you want, ask random questions, whatever. ACX has an unofficial 1: This is your last chance to 2: 3: ACX Grants updates: Dr. Alice Evans [discusses Richard Wrangham’s bioanthropological theory of patriarchy](https://substack.com/redirect/7fbeb83d-7f61-403c-bf8b-33a4107c36ad?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)The Institute for Effective Policy has helped convince the Australian government to include funding for long-term catastrophic risks in its [Disaster Ready Fund](https://substack.com/redirect/ebebcc13-5737-4561-b77e-d042a0eabd0e?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o).The attempt to get approval voting on the ballot in Seattle had a complicated outcome. It got on the ballot, for complicated political reasons the Seattle City Council responded by adding a different proposition supporting Ranked Choice Voting, and [the Ranked Choice Voting initiative won](https://substack.com/redirect/b31f90c7-beac-4401-b37c-0d8a487849b3?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o). I understand there are some bad feelings about the exact way City Council did this, and that the election nerd community is split between Approval Voting and RCV partisans. But my perspective is that either alternative beats the usual “first past the post” system, and if the Approval Voting campaign indirectly led to the RCV victory, they still did great work and should feel proud of themselves. I’m trying to get them to write me a post with the full story.
+4: Thanks to everyone who bought subscriptions in the You're currently a free subscriber to |

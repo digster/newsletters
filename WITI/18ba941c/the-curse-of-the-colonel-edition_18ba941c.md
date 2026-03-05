@@ -1,0 +1,11 @@
+---
+subject: "The Curse of the Colonel Edition"
+from: "\"Why is this interesting?\" <whyisthisinteresting@substack.com>"
+to: ""
+date: 2023-11-07 10:07:07
+labels: ["CATEGORY_PERSONAL", "INBOX", "UNREAD", "WITI"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "UNREAD", "Label_5752899537867939131"]
+---
+Colin here. Osaka exudes a distinct atmosphere compared to Tokyo. The locals bring a touch of wit and warmth that contrasts with the more reserved expressions of Tokyo's commuters. Here, you'll hear "okini" in place of "arigato," and you can't miss the fervent support for the local Hanshin Tigers baseball team. However, the team has long been shadowed by a peculiar local legend: a curse believed to have caused their prolonged championship drought, allegedly triggered by the defilement and disposal of a KFC statue in a nearby canal. You can’t make it up. The Japan Times
+Why is this interesting? Superstition adds a layer of excitement to sports, and the “Curse of the Colonel” is just one thread in a tapestry of beliefs, fears, and coincidences that enrich the experience of sports fans worldwide. A similar tale is the "Curse of the Bambino," which haunted the Boston Red Sox after they traded Babe Ruth to the New York Yankees in 1919. However, it seems even the Colonel's curse has an expiration date. After 38 years, the Hanshin Tigers finally broke free, vanquishing the Orix Buffaloes with a resounding 7-1 victory in Game 7 last Sunday night at Osaka’s Kyocera Dome to clinch their first Japan Series title in nearly four decades. (CJN) PAID AD: Miki here. I'm the founder of YoEmbryo, where we are building okCupid for embryo donation. The idea came out of our own experience trying to find families to donate our remaining embryos after IVF. YoEmbryo's purpose is to normalize embryo donation, particularly as something that creates a bond between families, rather than a simply transactional act. If you have frozen embryos or are somewhere in your fertility journey where you're starting to contemplate all the emotional and ethical complexities around infertility, donation, and genetic connection (or you're just curious), you should check us out. Want to run an ad in WITI? — Thanks for reading, Noah (NRB) & Colin (CJN) —
+You're currently a free subscriber to |

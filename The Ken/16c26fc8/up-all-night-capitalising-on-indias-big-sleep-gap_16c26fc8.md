@@ -1,0 +1,23 @@
+---
+subject: "Up all night: Capitalising on India’s big sleep gap"
+from: "The Ken <info@the-ken.com>"
+to: ""
+date: 2019-07-25 02:36:19
+labels: ["CATEGORY_PERSONAL", "INBOX", "The Ken"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_8244464457792971031"]
+---
+Good Morning Ishan,
+Actually, scratch that. Let me ask you if you had a good night's sleep? I hope you did and are not among the 20% of Indians who sleep for less than eight hours each night.
+Worse still, only the Japanese sleep less than Indians. And if you stay in Mumbai, you are most likely the country's biggest insomniac. These aren't government stats, but data from surveys by Fitbit, Godrej Interio and other commercial stakeholders in the ‘sleep economy’.
+An 'economy' that largely operates on the fulcrum of bedding and treating disorders like sleep apnea and insomnia. These seem drab compared to flashy sleep tech developed elsewhere — unless you listen to the people who harbour dreams of culturing a sleep ecosystem in the country.
+Cuddl, for example, aspires to be the Apple of pillows in India but wants to position itself as the Android of pillows. And while the pillow maker says tech, like wearables data, can't be used to claim sleep improvements, mattress maker Sunday begs to differ.
+Besides selling its marquee Belgian latex and European-certified mattresses, Sunday is also doing R&D on turning sleep data into solutions. Think recommendations based on whether you prefer sleeping on your back or your side.
+The duo is among six Indian startups targeting a $1.7-billion mattress market. And if that seems like a big opportunity, the one to treat sleep apnea is comparatively limitless. There’s just 1% market penetration for diagnostic and therapy equipment in India.
+So it’ll be a while before these startups hit snooze on their plans, Roshni writes in today's story. It's also our free story of the week, so do share widely. [https://the-ken.com/story/india-and-sleep/](http://link.the-ken.com/wf/click?upn=HQSq6eeRV1xAVaGuFOahuNCZVVXPeP-2FJpSqxhvIUDrmHz0MI3chaU3CxtR2HDtrUI3AxRyneRlFoaST5U3oCAi-2B9dfupo7GQ4y8RzZGwMPvNTv8MB30ZxUSnP7UotdOurAFTekXU8fqAyF-2BQx2A26KkzVLZcFNul9Aepj7ph5GU-3D_S4jLOsNx-2Fv6Jev2nvow8b7P9pBCWGd8KNZfb200gkZLQNlXQHio0noZzXtsWoloZmPWeyZsh7a4QCV9ufwCUKi00jlBT0uEdvwYDMuVuqcMkbNi2NN-2BBPML0ZPuF5SEq4RyBeKaHUBvaQDmHbKG6VhGJcLcdW5QSy0UC-2FmVu9YHplG2QBJZDg1jr68tUb8pGa4gQ15PXJIcPLHX48G-2B6jHUOR-2B5TenB2cWVGuL1XPr9aGmXQT4Nz6HdKZLyxyuJQBmGLIRONuoAS9LDDw7LhoRJ5iC-2FzHX3-2FOYBcr5YjRn32FsTqR7wXONtaRn6qkctBbCHxMWzKcA5vTBpCfMAk5b7cviZ8O8t5w3HHozCWuB-2BgGphpmOfe-2BIPOoA0Du73o3QkaniZDgjyNXIf1gSudkWwgwpt1XGLs7DS9XgX53AI-3D) (13-minute read)
+|
+What you just read is the personalised daily introduction to The Ken's story. Written by a different person each day. Often insightful, sometimes witty, and very rarely boring. Someone sent this to you? [Sign up for free](https://the-ken.com/?modal=register). Don't like these? You can [unsubscribe](http://link.the-ken.com/asm/unsubscribe/?user_id=2349339&data=pJM87WCt5eug-HupOAXmxU6swsLZJwM72VFjvT-KuZYw7HWBMU4iVFuFRnhGzpH7Z29n_j3BZ9ubrNOu7s4m-spysjm-Muzsa3hL8JiCu5UfVsbJd-XFJqKZXliTa4SbYFIEUxoMo7Z92_1c_XxVMKUx4o4tzFY_31z_9Var5d658D50OqDKYrVSA_Sp1g1DSh-86stLdUx_gObEMeZ_WdeNUY0frGImN2fVuau-4ujedifBicaVp5umP8y7_vssV8LDqjx7LGqU4Ks0YuyMjYCvXe0mxpyYKi4gI51Xt9LeGx-0c-sDcTerd8R5oxpDwczrOJ74PX51j-O_cQP_FILfZV-HGYxsnSFbqYlyX1TY6GykmsjD0K23LoOOkL5ttGanKdV96bRHgk9eHQp3_eIITeQ0VX5vP0HtHnvzX2mZjbMMVveSIvEmWdKB2r9X6x62TNujBMIt9v1r0aY_wKck1jzu0yaT-uHNKxq2pAi_ynxYRh7J61U-z_aS1jEwyYqSmPiaRLaFat1vW-20GofhNII7_rjQsSSeYS9rn8s=). Want to manage your emails? Click [here](http://link.the-ken.com/asm/?user_id=2349339&data=zEWxrm6B5WQx0tLQG4SdlbHgjG4HKMt-3TS0FXyABKcO7ebVaZAGqIa02If6RCH2r5S4Th9KSAK-M5uY8nCUzbW3H-iu3jOJCIcrjBOc8TFALxG6cVsE9Bj6TvRPzBFokpAMnX6ZRbfOwrDFjFMjS-QdPCgH7prFCZKyaV8QZXRQ55yjSZwdb9ebxaDzAiyhk2dsrupyGWgOmsaPr_rlJwHjPUXz6VzzcviAO7pUBQ2_Qg5YG5aHL-uKaMzrvySU9jgT0CNCtS5wgoBTd3EEL2JDqmG4unHWs50oyypyyyrKfTYzh2KcQsfxr0II0CSFRxpUUSRGPtdxymq07KcgMGQv800mC7vzLB5yovcLx2UyLzPl7tTm2lJ3Biz2GcPJdbXuIoqVcu162i5SvutN1Dxp_3M5TgBiioVUNFY0lXFMbCLUsNBplqrhIEruI8FyAeK1bmzZy5Kq4xq8xxWrd5I53on9EHFojBnIYHz0PkWVRVVKBMy1he8YYRsQkaS_BJ1B0tweXs6UZxGg25gFlA==).
+|
+|
+|
+|
+|

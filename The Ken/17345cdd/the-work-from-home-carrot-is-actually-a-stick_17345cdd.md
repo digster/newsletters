@@ -1,0 +1,78 @@
+---
+subject: "The work from home carrot is actually a stick?"
+from: "Beyond The First Order <info@the-ken.com>"
+to: ""
+date: 2020-07-13 01:32:56
+labels: ["CATEGORY_PERSONAL", "INBOX", "The Ken"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_8244464457792971031"]
+---
+|
+Edition #75. Monday, 13 July 2020
+|
+A paid 🔒 newsletter that analyses the complex second and third order effects thrown into motion because of Covid-19. Someone sent you this? [Subscribe to BFO](https://the-ken.com/bfo/?utm_source=su_bnr&utm_medium=email&utm_campaign=btfo)
+|
+Good morning,
+Welcome back. The disappointing news first. Remember when Facebook and other tech firms, sounding progressive, said they’d make remote work permanent? Well, there’s a catch. A big one.
+Today’s BFO edition–sadly–stays on theme: India might be facing an even bleaker economic outlook just as it tries to prevent the worst. Meanwhile, local content rules add yet another complication to e-commerce. Indonesia is contemplating a controversial shift to nuclear energy. College is going online–with steep costs and many unresolved questions. Some good news from Japan, where staying away from toxic workplaces has had a positive impact
+|
+The work from home carrot is actually a stick?
+Arundhati
+If your office is looking to give up its office space and has announced remote working, be wary about what could come next. Salary cuts. Facebook was among the first companies in [May](https://variety.com/2020/digital/news/facebook-permanent-work-from-home-1234613548/) that announced that its employees could work from home permanently. And if employees choose to move locations, employees will have their salary adjusted based on the cost of living standards in their location for tax and accounting reasons.
+|
+“We have always used a market-based approach to compensation, meaning that we pay in line with the common market practice in each location where we operate. This is our current practice, and has been for years. It applies to all workers, including remote workers,” a Facebook spokesperson says.
+|
+Will Facebook’s salary-by-location move set precedent for tech? [Financial Times](https://www.ft.com/content/1c52a7a2-aa65-11ea-abfc-5d8dc4dd86f9)
+|
+|
+|
+|
+The idea of beating an exit from cities is already taking shape.
+|
+Employees worldwide are re-evaluating where they live now, since proximity to work is no longer a decision-making factor and most companies are moving to remote working. In the UK, The Financial Times [says](https://www.ft.com/content/72e12347-89f1-4ccc-9b58-92a99f5dcf7f) commuter belts and coastal towns are in high demand as lockdowns lift and sales resumes. In India, too, property developers expect employees to move to less congested areas, according to [The Economic Times](https://economictimes.indiatimes.com/tech/ites/it-professionals-may-move-away-from-bengalurus-tech-suburbs/articleshow/76228476.cms).
+If companies go the Facebook way, this would mean incredible cost savings. Not only are they giving up costly office spaces, but paying based on location could further boost companies' bottom lines.
+"From a company's perspective, what Facebook is doing is absolutely correct. Employees get demand allowances for working in difficult locations (hardship allowance) and to work in expensive cities (city compensatory allowance kind of stuff). So why shouldn’t it apply on the reverse?," said a compensation consultant to The Ken.
+One would think the idea of people doing the same job but getting paid differently based on their location could kill the work-from-home momentum. But if anything, the idea is gaining traction. According to a Piplsay survey published in the Financial Times, 50% of 7,000 UK survey respondents think Facebook’s plan for locally adjusted pay is fair while 33% believe it is unfair and could discourage employees from opting to work remotely.
+But companies won't be able to apply this uniformly across all roles. It will be a function of the supply and demand of talent for those roles.
+|
+“More people working from home across various regions will create a bigger talent pool, says Sameer Hasija, associate professor of technology and operations management at Insead, the French business school. But similarly, he argues, “employees will have access to more employers, so it depends how the supply and demand market plays out”.
+|
+Will Facebook’s salary-by-location move set precedent for tech? [Financial Times](https://www.ft.com/content/1c52a7a2-aa65-11ea-abfc-5d8dc4dd86f9)
+|
+|
+|
+|
+So now tell me, where are you on the work-from-home page?
+|
+Does India have a J-shaped transmission problem?
+Rohin
+There are many famous “curves” that describe classic 2-axis graph patterns that tend to repeat themselves over and over in time, even across sectors. The “S-curve” is one, shown here representing cumulative waves of technology adoption in the US. (via [Frederic Filloux’s](https://mondaynote.com/your-next-car-will-be-electric-94857c6312fe) wonderful Monday Notes blog.)
+|
+Then there’s [the “J-curve”](https://www.investopedia.com/terms/j/j-curve-effect.asp), a graph that describes a lag effect between major actions and their desired results. For instance, a country that devalues its currency in the hope of spurring exports must deal with a higher import bill in the short term, before exports start growing. This is what it looks like.
+|
+|
+Subscribe to BFO to read the full edition
+Get BFO delivered to your inbox every weekday and access all new and old editions.
+Choose from the following options
+|
+Monthly Subscription
+Complete access to all editions of BFO
+Rs. 99 or $2
+|
+|
+With The Nutgraf
+Complete access to BFO and The Nutgraf
+Rs. 198 or $4
+|
+|
+|
+Questions? Get answers [here](https://the-ken.com/bfo/2/#newsletter-faq-section)
+|
+Beyond The First Order is a paid, daily newsletter that analyses the complex second and third order effects thrown into motion because of Covid-19 across India and Southeast Asia. This newsletter is published by [The Ken](https://the-ken.com/?utm_source=footer&utm_medium=email&utm_campaign=btfo)—a digital, subscription-driven publication focussing on technology, business, science and healthcare
+|
+Want to unsubscribe from our paid daily newsletter, Beyond The First Order? Click [here](https://link.the-ken.com/asm/unsubscribe/?user_id=2349339&data=zdwQf1fJ4fiS6-Lju2zjMqWXkXWTrSyVrCDDvibufIlyLmnGMwbBWo3eDkYZ-2W1NBuSTfyYZFQhBJUuVmDh1bTqRZL5bMc6KK97HRDj4V1UC0v6MrKkxYyICflbrp5Hv3SYBKOjOGMOinv1ifHDD-fQLTreoDuvSuOBs0uTya2LWHh5_RXox16WjRZNjHXrNLLFO-2hYyPH6EMuR-2YIKB-JG62N7sMWMLJGcyYPMaMzbJ40g-hAIok5Fl5PNCb_3_jhB_AqEAcRfaJWU7IcRrCzSyxdMsS-Vhz4wv-a5kaI4lqAr6jV7RCyenRM4ZxBSlEhC7um55T3WLYA2EZ3nea827gnh1gn3tag0daLVxAuLoyLAiPmzPhO2twi4sNxEXu6IrS4IYC21tp1dcAfNd8pLpGD_393OYXhxZpQ_WG202eR7ppO4D2zFopC4HewlXGP_mkGrRv-3LNzREHja6M37JCVKmPoZFvaVqfCe_p7Qu9h8z-yEwVTt1PrGuWAWOpGSeFwXXc5FA0KKB4s_EEJOUTTtFK3FP1SO8iWqiAzwKczUZFf8c4hz8dJ8Zy). Or set your email preferences [here](https://link.the-ken.com/asm/?user_id=2349339&data=_M51s95bsjoIjpYskI9f9D7IvwjaCcQjnPlWMtZm7H8zeoYqaHrU55gD7tsuR6r8R3S-p_OA8_eUwXGVlldtavYIHnFjEvnxdiWvL8pNLi5XRwQAUxgwVTub5PV_9-Y6beUUMGwKyp3NBLc8T-mr8Jvc35Dj7fLeOU_fyUl_-KzZBN7JhHVsrkeSw_l9wqw5JrAqzXt0xFcfPD4SMIFePGB1JXvC7RkTJNSkK7kzWSUBWXhlbvNzQsUb-O7Qp0OWXHCdX7GwBJnWdVyU_2KKXHZoXls8in_SUINIgirb_fsM6WjYJrCETom-ZPjB32P_gafEhcv53wxNacl9E49K1iSUWwFIqphqILBnK9GsYS5LqGRyvPqofj0tn5-G7zrBTxteyqiVRyhT1rxc5X5EZYsHzOZtXSqC7u074Q4uBp_ZSdoBjIpYnXFgsNtCvjFa_8_79VVyNmRtLMxm1ozz3JbGfmAuLl-8MKxrfBSzIgjogrduSsbiEVc0Dq0pQDChZhbyOE8HYQjUrBXU81RQdzJsXH1qJ55bPRAmW4h7gsWLeRd_f-wR8EQghGW8yDKM)
+© 2020 The Ken
+|
+|
+|
+|
+|

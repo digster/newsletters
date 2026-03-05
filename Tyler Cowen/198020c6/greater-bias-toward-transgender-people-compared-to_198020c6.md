@@ -1,0 +1,10 @@
+---
+subject: "Greater Bias Toward Transgender People Compared to Gay Men and Lesbian Women Is WEIRD"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2025-07-13 04:30:24
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+The greater acceptance of gay, compared with transgender, people in Western countries may be a result of a specific trajectory—where queer rights was centered by and around White, middle class, gender-conforming gay men—and may not generalize to other places. Two surveys of respondents in 23 countries (Ns∼ = 500 or 1,000 per country) showed that bias toward gay and transgender people is lower in Western (vs. non-Western) countries, but that the relative bias changes as a function of region: there is greater acceptance of gay (vs. transgender) people in most Western countries, whereas the reverse is true in most non-Western countries. Analyses of legal frameworks (N = 193) show that recognition of same-gender unions is prevalent in Western countries but virtually nonexistent elsewhere, whereas recognition of gender marker changes is prevalent throughout the world. Overall, in the most intolerant places, transgender people are relatively more accepted than gay people.
+Here is[ the recent article by Jaimi L. Napier](http://marginalrevolution.com?action=user_content_redirect&uuid=f7eac9db572cf724b10f08b26e47eaf8653d2a446833ecc1b92315357a6dce83&blog_id=42693868&post_id=91074&user_id=262258391&subs_id=225460721&signature=6341d71f170a48d2cc8bfa58df927a32&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly9qb3VybmFscy5zYWdlcHViLmNvbS9kb2kvYWJzLzEwLjExNzcvMTk0ODU1MDYyNTEzNTIyNDI&email_id=370592139b129b29ef6bdd511681d72c). Via a loyal MR reader.

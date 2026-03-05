@@ -1,0 +1,35 @@
+---
+subject: "Learn Data Visualization Skills [Free 17-hour Course on React and D3.js]"
+from: "Quincy Larson <quincy@freecodecamp.org>"
+to: ""
+date: 2021-02-26 05:06:17
+labels: ["CATEGORY_PERSONAL", "INBOX", "Quincy", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_7697778124671848699", "UNREAD"]
+---
+Here are this week's five links that are worth your time:
+
+1. freeCodeCamp just published an epic 17-hour Data Visualization course. You'll learn: D3.js, SVG graphics, React, React hooks – all while building several data visualization projects. (17 hour YouTube course): https://www.freecodecamp.org/news/learn-data-visualization-in-this-free-17-hour-course/
+
+2. We are translating freeCodeCamp's curriculum into 30 world languages, and both Spanish and Chinese versions are now live. If you are fortunate enough to be bilingual, I encourage you to help translate, and make these learning resources more accessible for people around the world. (5 minute read): https://www.freecodecamp.org/news/world-language-translation-effort/
+
+3. What is a file system? This computer architecture tutorial will teach you how operating systems handle files, partitions, and data storage. (40 minute read): https://www.freecodecamp.org/news/file-systems-architecture-explained/
+
+4. How to code Python apps right on your Android phone – no laptop required. You'll use Pydroid, a powerful integrated development environment, to build a Django project using an Android phone's touch screen. (12 minute read): https://www.freecodecamp.org/news/how-to-code-on-your-phone-python-pydroid-android-app-tutorial/
+
+5. My friend uncovered 1,600 Coursera university courses that you can still take for free. And he shows you step-by-step how to access them. (browsable list): https://www.freecodecamp.org/news/coursera-free-online-courses-6d84cdb30da/
+
+
+Quote of the Week: “By visualizing information, we turn it into a landscape that you can explore with your eyes. A sort of information map. And when you’re lost in information, an information map is kind of useful.” – David McCandless
+
+
+Also, freeCodeCamp's Data Science Curriculum Pledge Drive just crossed a milestone that is very dear to programmers' hearts: 1,024 donors, or 10 bits. Our goal is to raise $150,000, all of which will be 100% matched by educator-turned-benefactor Darrell Silver. This means that if you donate, say $50, it will translate into $100 worth of budget for us to hire experienced teachers to design these math and machine learning courses. Learn more and get involved: https://www.freecodecamp.org/news/building-a-data-science-curriculum-with-advanced-math-and-machine-learning/
+
+
+Happy coding.
+
+- Quincy Larson
+
+Teacher at https://www.freecodecamp.org
+I share useful things on Twitter at https://www.twitter.com/ossia
+
+If these emails aren't worth your time, you can turn them off: https://www.freecodecamp.org/ue/eZV2T3gHC7IGcwcpYPG64

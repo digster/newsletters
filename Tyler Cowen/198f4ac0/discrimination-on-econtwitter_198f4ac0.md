@@ -1,0 +1,10 @@
+---
+subject: "Discrimination on #EconTwitter"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2025-08-29 07:12:49
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+This paper documents discrimination in the formation of professional networks among academic economists. We created 80 bot accounts that claim to be PhD students differing in three characteristics: gender (male or female), race (Black or White), and university affiliation (top- or lower-ranked). The bots randomly followed 6,920 users in the #EconTwitter community. Follow-back rates were 12 percent higher for White students compared to Black students, 21 percent higher for students from top-ranked universities compared to those from lower-ranked institutions, and 25 percent higher for female compared to male students. Notably, the racial gap persists even among students from top-ranked institutions.
+That is from [a new AERInsights paper](http://marginalrevolution.com?action=user_content_redirect&uuid=648eab8f8462676cd914455b0f59c2a5732e3f905bcc0183bc502319e086d348&blog_id=42693868&post_id=91382&user_id=262258391&subs_id=225460721&signature=ab6661bed462b1b30d97b15062b040ba&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly93d3cuYWVhd2ViLm9yZy9hcnRpY2xlcz9pZD0xMC4xMjU3L2FlcmkuMjAyNDAyOTg&email_id=10cc271e41dec9eb67e707703dd5a2ee) by Nicolás Ajzenman, Bruno Ferman, and Pedro C. Sant'Anna. Here is [a useful picture](http://marginalrevolution.com?action=user_content_redirect&uuid=0491a06c2e1b26465b36c21d8fa6e504c621596052577dc50dd39397b7e06a37&blog_id=42693868&post_id=91382&user_id=262258391&subs_id=225460721&signature=df298285c41410ffb821d7edee28eecd&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly94LmNvbS9jYXB0Z291ZGEyNC9zdGF0dXMvMTk2MDc4MDE0MTYzNjAxODMxNg=&email_id=10cc271e41dec9eb67e707703dd5a2ee) from the paper. Being at a top school, or at least pretending to be, is what really matters?

@@ -1,0 +1,17 @@
+---
+subject: "The Molly Cantillon manifesto, A Personal Panopticon"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2026-01-07 23:07:36
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+I find this piece significant, and think it is likely to be one of the most important essays of the year:
+A few months ago, I started running my life out of Claude Code. Not out of intention to do so, it was just the place where everything met. And it just kept working. Empires are won by conquest. What keeps them standing is something much quieter. Before a king can tax, he must count. Before he can conscript, he must locate. Before he can rule, he must see. Legibility is the precondition for governance...
+The first thing Claude solved was product blindness. NOX now runs on a cron job: pulling Amplitude, cross-referencing GitHub, and pointing me to what needs building. It handles A/B testing, generates winning copy, and has turned customer support into a fully autonomous department.
+Once I saw this was possible, I chased it everywhere. Email, hitting inbox zero for the first time ever, with auto-drafted replies for everything inbound. Workouts, accommodating horrendously erratic travel schedules. Sleep, built a projector wired to my WHOOP after exactly six hours that wakes me with my favorite phrases. Subscriptions, found and returned $2000 I didn’t know I was paying. The dozen SFMTA citations I'd ignored, the action items I'd procrastinated into oblivion. People are using it to, I discovered, run vending machines, home automation systems, and keep plants alive.
+The feeling is hard to name. It is the violent gap between how blind you were and how obvious everything feels now with an observer that reads all the feeds, catches what you've unconsciously dropped, notices patterns across domains you'd kept stubbornly separate, and—crucially—tells you what to do about it.
+My personal finances are now managed in the terminal. Overnight it picks the locks of brokerages that refuse to talk to each other, pulls congressional and hedge fund disclosures, Polymarket odds, X sentiment, headlines and 10-Ks from my watchlist. Every morning, a brief gets added in ~/𝚝𝚛𝚊𝚍𝚎𝚜. Last month it flagged Rep. Fields buying NFLX shares. Three weeks later, the Warner Bros deal. I don't always trade, sometimes I argue with the thesis. But I'm never tracking fifteen tabs at 6am anymore.
+It feels borderline unfair seeing around corners, being in ten places at once, surveilling yourself with the attention span of a thousand clones.
+A panopticon still, but the tower belongs to you.
+There is [more at the link](http://marginalrevolution.com?action=user_content_redirect&uuid=3ccf6e957a994376c495f98f5316ed8b125de8200a8fa789b33a5d8653676173&blog_id=42693868&post_id=92195&user_id=262258391&subs_id=225460721&signature=38811651fb213e2b3ae2a15178189d59&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly94LmNvbS9tb2xseWNhbnRpbGxvbi9zdGF0dXMvMjAwODkxODQ3NDAwNjEyMjkzNj9zPTIw&email_id=cd067fc22ab82c2af1c01aea9b9108c2), and yes she is related to the 18th century Irish economist Richard Cantillon.

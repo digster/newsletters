@@ -1,0 +1,29 @@
+---
+subject: "Can subscriptions take health coverage to India’s uninsured masses?"
+from: "The Ken <info@the-ken.com>"
+to: ""
+date: 2022-03-02 02:37:28
+labels: ["CATEGORY_PERSONAL", "INBOX", "The Ken", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_8244464457792971031", "UNREAD"]
+---
+Good Morning Ishan,
+India has a serious issue with health insurance. Quite simply, not enough Indians have it. According to India's insurance regulator, as of March 2020, some two-thirds of the country didn't have health insurance. That's nearly 800 million people whose entire lives could unravel should they experience one illness or accident that requires hospitalisation.
+Every few years, it feels like some business claims to have the solution to this under-penetration. Aggregators believed the issue had more to do with finding and comparing insurance policies. Insurtechs felt the answer was greater digitisation. Some even felt that outpatient services coverage—like doctor consults, for instance—would open the health insurance floodgates.
+Yet, here we stand in 2022—having survived a once-in-a-lifetime health crisis—and companies are still at it. This time, the solution being touted is subscriptions.
+Startups like Vital, Kenko, and Even are all hoping that by turning an annual insurance premium into a subscription product, they can finally convince India's uninsured masses to sign up. These subscriptions go beyond just reimbursements for hospitalisations as well. They've tacked on a variety of services—cheaper medicines, free consults and diagnostics, etc., in their bid to sweeten the pot for potential subscribers.
+Still in their infancy, some of these businesses are onboarding as many as 10,000 new subscribers every month. However, these customers don't come cheap—the cost to acquire a single subscriber can range between Rs 5,000-20,000. And just acquiring a subscriber, doesn't meant they'll stay subscribed. One of the benefits, after all, is the lack of commitment. So, how does a business offer more, charge less, and stay sustainable? That's the question Maitri sets out to answer in today's story: [https://the-ken.com/story/bite-sized-health-insurance/](https://the-ken.com/story/bite-sized-health-insurance/?utm_source=daily_story&utm_medium=email&utm_campaign=daily_newsletter) (12-minute read)
+Regards,
+Ranjan Crasta
+[ranjan@the-ken.com](mailto:ranjan@the-ken.com)
+|
+|
+|
+|
+|
+|
+What you just read is the personalised daily introduction to The Ken's story. Written by a different person each day. Often insightful, sometimes witty, and very rarely boring. Someone sent this to you? [Sign up for free](https://the-ken.com/sea/?modal=register&utm_source=footer&utm_medium=email&utm_campaign=sea_morning_email). Don't like these? You can [unsubscribe](https://link.the-ken.com/asm/unsubscribe/?user_id=2349339&data=Qj8df0OpKarPb3r_hwCGR9Cj9L8P8b8mqWNf4nkso9ffpCEhdg-4FELwglABoMj3ycMFSjD0K6hkFrOjLIxseguk3ICXRcsmQeuCSZvbf-cxjqVmR3KjeTv0I3m6qpvyoP69W5aQeQJfL1cfAtCFwOYZEK3hy0Hsjw0yVCYArClVOvYyZGWpPoeT08W4Ris4XAa1XS6Kv8PBKHoRHfjr-eCUOPCpwW1KwZ3G1kwVvcbakHweus5UPMPqn3gTq739e0w34A0o96aoZzv-sTW7q7k2v5NoFgTWibgO1MPhDDoxN6Q87dXNcsLphDM0TjS7Oe7OG2kEbvXXRtCeBU9J0CF2c8TglYTl_Ob0TcpytBuyS4y6rB15QE0uRyiIPCDfuP8wDySIc-FdynTHIhXAmpz479xEl3ouyYXTckCAoqvuB_WsGjOQWK44QyiGmWYd3MTel1mQ13TG4sKP0QvYg-rmyuboYTu8Acmky1ZH6jLPQJSZlga4-el0EfUl-f6NtaWiLm35Ef-AE79i9PZtW9mkP2dpc37DXUYAmg75jEQ=). Want to manage your emails? Click [here](https://link.the-ken.com/asm/?user_id=2349339&data=mDE_cW1B8xzED_54czomU7ZpbLiLhPk8e8MyveDvc-6GEbFYlezK0P97kDnC6OulnhXf3Cq0PIhP18w0ErAGIb8LhNwnzWnNEE91PTox-qbEQ3mbN7f96XIBhNNeD2ytNPNexQBi3d7ZcSyvdBlrxcq7f6bMO7D9ZWgNuMS1fcvvYvd7nWEq7SObboZlQj2GA7d9fQVyi1pSXNoJOBc6YjL0j5U0VL2eWDViOKhzpe0720G8MWNCX14DBvsaXxEfeHnxdnbU4Wh9CbwDG1YXRF24UGy-b_AZZzE8qEDMyoAMVEMfWUVR4uSYzJBK4_Xp_AriSfeqpQdR96UUUQkB1SOBLn_LyGPvF6VfLUCK7lvhjbPtl21bG1mWsgNzWmJ2mu0fbbsYzi8BHxUieWz7Mc9SZPF2SO0hWfybTNAfegfvnIADXKm_KIX0DA_kHWKJfV_81IZ7fFmxeQeNjlvQjH_CYn8AABigUyjDopB95z85gjhSkE82xfKUHeRMybi5-zHcRissrVci-O2Ljr5Jbw==).
+|
+|
+|
+|
+|

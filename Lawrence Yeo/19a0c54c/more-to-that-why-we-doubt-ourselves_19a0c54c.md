@@ -1,0 +1,44 @@
+---
+subject: "More To That: Why we doubt ourselves 😫"
+from: "Lawrence Yeo <contact@moretothat.com>"
+to: ""
+date: 2025-10-22 14:31:12
+labels: ["CATEGORY_PERSONAL", "INBOX", "Lawrence Yeo", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_3631958563782906958", "UNREAD"]
+---
+|
+Hey friends,
+Before getting into today’s post, a quick reminder:
+For a few more days, I will be discounting the paperback edition of [The Inner Compass](https://click.convertkit-mail.com/mvuvq4672qu5hqm2e9qtmhrp960qqs3he38m8/9qhzhnhddov382hz/aHR0cHM6Ly9nZW5pLnVzL2lubmVyY29tcGFzcw==) from $14.99 to just $9.99. The book has been meticulously designed to be read in physical form, and this is your chance to get it at a lower price.
+If you’ve enjoyed the Kindle version and also want a paperback copy, this is the perfect time to get it. Or if you wanted to gift some physical copies to your friends and family, this would be a good time to put in an order. [The discounted price of $9.99](https://click.convertkit-mail.com/mvuvq4672qu5hqm2e9qtmhrp960qqs3he38m8/9qhzhnhddov382hz/aHR0cHM6Ly9nZW5pLnVzL2lubmVyY29tcGFzcw==) will only be available for a few days, and I hope that it’ll help you experience the book as it was meant to be experienced.
+Lastly, if you do get the book, make sure you send me your order receipt and I’ll send you a bonus booklet of 30 daily meditations. This booklet is titled "A Month of Reflections" and has been designed to give you a mindful start to each day.
+All right! Now onto today’s post, which I’m re-sharing because the topic seems to be timely for many people.
+Self-doubt is a universal emotion, yet we often believe that it’s localized to our own minds. That’s because there’s a lot of work required to understand doubt, and today’s piece is my attempt to distill that effort into something digestible.
+This one is a personal favorite, and has grown to be a reader favorite as well. Hope you find it helpful:
+[Why We Doubt Ourselves](https://click.convertkit-mail.com/mvuvq4672qu5hqm2e9qtmhrp960qqs3he38m8/3ohphkh33e598qtp/aHR0cHM6Ly9tb3JldG90aGF0LmNvbS9zZWxmLWRvdWJ0Lw==)
+A Book I’ve Been Enjoying
+[My Best Friend Is Gluten Free](https://click.convertkit-mail.com/mvuvq4672qu5hqm2e9qtmhrp960qqs3he38m8/48hvhehmm4dq3mcq/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9kcC8wNTI1NjEyNzg1Lw==) by Jannell Lo — I am fortunate to have a wonderful relationship with my wife’s family, as I’ve learned so much from them. One of these people is my sister-in-law, Jannell, who just published a beautiful cookbook of gluten-free recipes that doubles as a storybook as well.
+I once believed that food was simply a source of fuel to help you get on with your day. That it was just “matter” that you had to shove down your throat so you could extract the requisite energy from it.
+Well, Jannell helped to change my perspective on that. She showed me how each dish contains a story, and that these stories act as connective tissue that deepens the relationships of those who enjoy it together. And given my love for storytelling, that reframing made all the difference.
+I can confirm that the recipes in this cookbook are absolutely delicious, and on top of that, you’ll get a window into the heartening stories that drove their creation. It’s the combination of the two that make for a book that will provide warmth not just to your stomach, but to your heart as well.
+An Illustrated Insight
+When self-doubt [hijacks your mind](https://click.convertkit-mail.com/mvuvq4672qu5hqm2e9qtmhrp960qqs3he38m8/3ohphkh33e598qtp/aHR0cHM6Ly9tb3JldG90aGF0LmNvbS9zZWxmLWRvdWJ0Lw==), it makes you believe that the results you’re experiencing at the current moment will go onward in perpetuity…
+… when in reality, this is just a small subsection of a much longer time horizon that looks more like this:
+When you’re doing meaningful work, you must be able to trade short-term disappointment for long-term progress. While it may seem irrational to continue pursuing this path today, everything will only make sense when enough time has elapsed so you can see how far you’ve traveled.
+A Thought I’ve Been Pondering
+Here’s a relevant excerpt from [The Inner Compass](https://click.convertkit-mail.com/mvuvq4672qu5hqm2e9qtmhrp960qqs3he38m8/9qhzhnhddov382hz/aHR0cHM6Ly9nZW5pLnVzL2lubmVyY29tcGFzcw==):
+I’ve come to realize that worry emerges from self-doubt. That’s because at its core, self-doubt is the belief that you can’t handle uncertainty. And when that happens, you desperately seek to reduce that uncertainty by attempting to control the situation with your thoughts.
+But what if instead, you were able to reframe self-doubt as a signal that you care about this matter so much? And since you care about it so much, you’ll be able to exercise your ingenuity so that you’ll eventually figure it out?
+If you truly believe that, then the worry dissipates. In its place, there will be a deep sense of trust you have in yourself, which will further be cultivated through the passage of time.
+A Brief Parting Question
+Can you tell me a bit about who you are, where you’re located, and something you’re working on?
+I’ve been receiving many kind messages about [The Inner Compass](https://click.convertkit-mail.com/mvuvq4672qu5hqm2e9qtmhrp960qqs3he38m8/9qhzhnhddov382hz/aHR0cHM6Ly9nZW5pLnVzL2lubmVyY29tcGFzcw==) lately, and I just wanted to take a moment to get to know you better. I read every email, so I look forward to learning more about you.
+As always, hit reply to share any thoughts, to respond to the parting question, or to simply say hello. I love hearing from you.
+As a reminder, you can grab the paperback edition of The Inner Compass for [just $9.99 here](https://click.convertkit-mail.com/mvuvq4672qu5hqm2e9qtmhrp960qqs3he38m8/9qhzhnhddov382hz/aHR0cHM6Ly9nZW5pLnVzL2lubmVyY29tcGFzcw==). And don’t forget to send me your order receipt so I can send you the bonus booklet of daily meditations.
+Thanks for reading, and feel free to share this email with anyone who might enjoy it. Have a great rest of your week!
+-Lawrence Yeo
+P.S. Thanks to all the wonderful people that support the blog on Patreon! It means so much. If you’d like to support More To That and get access to book recommendations, exclusive AMAs, offline posts, and other reflections, [join as a patron today](https://click.convertkit-mail.com/mvuvq4672qu5hqm2e9qtmhrp960qqs3he38m8/8ghqhohoom6p8wul/aHR0cHM6Ly93d3cucGF0cmVvbi5jb20vbW9yZXRvdGhhdA==).
+P.P.S. If you want to learn how to write essays like the one I shared today, check out my writing course, [The Examined Writer](https://click.convertkit-mail.com/mvuvq4672qu5hqm2e9qtmhrp960qqs3he38m8/l2hehmhll8mvp2fg/aHR0cHM6Ly9leGFtaW5lZHdyaXRlci5jb20v). It’s 3 hours’ of self-paced material, all designed to elevate your writing practice.
+If you were forwarded this email, subscribe to the More To That newsletter and get the next edition in your inbox.
+|
+|

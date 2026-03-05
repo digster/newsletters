@@ -1,0 +1,28 @@
+---
+subject: "Koo wants to shake off its political image. UP elections complicate things"
+from: "The Ken <info@the-ken.com>"
+to: ""
+date: 2022-02-04 02:37:22
+labels: ["CATEGORY_PERSONAL", "INBOX", "The Ken", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_8244464457792971031", "UNREAD"]
+---
+Good Morning Ishan,
+You’ve probably heard the story of the cuckoo bird, and how it raises its babies.
+First, a cuckoo finds a nest of a bird of a different species. In Europe, this is usually a great warbler. Then, she sneaks into the warblers’ nest, lays her egg and flies away. It’s a classic bait and switch. Very soon, the warblers are raising the baby cuckoo. Over time, the cuckoo, because it’s bigger and stronger, pushes out the warbler eggs out of the nest, displacing them entirely.
+The reason we are talking about birds today is because of today’s story—it’s about an Indian microblogging company called Koo.
+Koo is an unusual but fascinating company. It’s a young company that got into the spotlight last year thanks to a public spat between the Indian government and Twitter. For various, alleged reasons the Indian government believed that Twitter was being unfair to them, and this led to ministers and senior leaders of the ruling Bharatiya Janta Party (BJP) to open accounts on Koo en-masse, hailing it as a homegrown alt Twitter. Downloads spiked. In a few months, Koo would raise $30 million in its Series B funding, pushing its valuation to $100 million.
+That’s when Koo arrived.
+The question now is what next.
+For better or worse, Koo is a “friendly face” from the perception of the Indian government and right-wing activists. But Koo’s ambitions transcend this—the company wants to be seen as an alternative to Twitter, and wants to be neutral, and go beyond politics.
+But can it? Especially when Koo’s growth over the next few months hinges on the Uttar Pradesh state elections—one of the biggest political events in India. It’s spending heavily to acquire users, to onboard them, and to do everything it can to break free.
+This story, by Soumyajit, is about Koo’s future, and how it’s tightly tied to its past. You can read it here. [https://the-ken.com/story/why-does-koo-want-to-change-its-right-wing-lean-perception/](https://the-ken.com/story/why-does-koo-want-to-change-its-right-wing-lean-perception/?utm_source=daily_story&utm_medium=email&utm_campaign=daily_newsletter) (12-minute read)
+Regards,
+Praveen Gopal Krishnan
+|
+|
+What you just read is the personalised daily introduction to The Ken's story. Written by a different person each day. Often insightful, sometimes witty, and very rarely boring. Someone sent this to you? [Sign up for free](https://the-ken.com/sea/?modal=register&utm_source=footer&utm_medium=email&utm_campaign=sea_morning_email). Don't like these? You can [unsubscribe](https://link.the-ken.com/asm/unsubscribe/?user_id=2349339&data=c6oKUmhtq4YAi0woJZqpa6DvPQKsPduSYxkIe0aZLzfEOFMdzzWacAInu6D0YI8OBhNFovYyHkeT6EhrVqHXwfiNLGGF0_6VjiSV2RgtG5v4uoz-TdElhSXNZJlcMVmUl0Ol9cdT_IsZaf1XfVAGjCNy34ncUnxteGGVPINPY61VNPUjlT0Pm60rQPnAGBDgfOeNIdz8nN8_ZFzjpdFi4KJadEG7fEnZJrveVEz4wp885sZVNN8WPvSAeIV6hkqNuryP1ujcZlQlO2VTHFFoZtqRRR7T2QCU_-yJgShWCvn-DWfrPNCXtwUYPgloR1DpwYalAsihlaoI2Dnn1u-1dB7s0T5mrm-lUaBwrymORehDjht30Hd_gzRi76cyKUuLrXbkwplGmU50rJ0yd8T2SIPok1UPYkle1asTY9mKesTHy53xGHh5XhPhOvYsxGNNvRwSBMw9NpCgjK7I7zuWlFl2jcQVB_OeTxARrKBuf1M-w3p22sf7u2ZtfdvgWVjtOSYUJlRtXNQwOa25bcDFXnkxC6OGUGALJrgg-zwWBic=). Want to manage your emails? Click [here](https://link.the-ken.com/asm/?user_id=2349339&data=SM5K6pf2hgv3_l1KR7XRuEgrwYm52Fv50G1RmAkMxb7gE0TcyxUtVWvY3Hobdnvdw3tWXv0sy8C_tmw6_WBx_CF75L69JNQizLsXt96h3M6Oj58ZYAJCB8KwquJaazyxgr9UNtAY8oAqfIhg39HvcN8TSAd2nnmW3QVYJxfsZ3ufGnSxnPSfo4AB3JmJ0GarjKzjSbqUjaPvYSMDy1mH21v8L_GlS0EfEOKdQ3JDm3YQAbntUSVfN_0CThkgkljn6OcYXHk0aWTjIwngYNPch-QeWfqFBFSQ2QXe12bS_pzSgZ-Kyvkc8A9ajiPLIFJ_zCuYV4S2TcbOilf3A-LXxZyaBbdCzLEvFIUtS4nGaHk86Dl8aHvYZzN8gI_8KXzmt2HVCc_q6VuqQVEtcECqUuCHnp9nAFG6ABc5hlibEyFo7Rei2s25f4Fiz4Z4VAxkIMnaT_MQJ67Yx2xBVrLcvvoDzRgDTecY6aqo1ye9kUwAm-0W1ZixQXS_T8ACLLI9Vu2LiVxfE62zjDchuPAIgw==).
+|
+|
+|
+|
+|

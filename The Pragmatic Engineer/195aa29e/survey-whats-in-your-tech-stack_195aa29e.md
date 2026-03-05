@@ -1,0 +1,21 @@
+---
+subject: "Survey: What’s in your tech stack?"
+from: "The Pragmatic Engineer <pragmaticengineer+deepdives@substack.com>"
+to: ""
+date: 2025-03-18 16:49:54
+labels: ["CATEGORY_PERSONAL", "INBOX", "The Pragmatic Engineer"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_6413324878686416177"]
+---
+|
+We’d like to know what tools, languages, frameworks and platforms you are using today. Which tools/frameworks/languages are popular and why? Which ones do engineers love and dislike the most at this moment in time?
+With more than 950,000 tech professionals subscribed to this newsletter, we have a unique opportunity to take the industry’s pulse by finding out which tech stacks are typical – and which ones are less common.
+So, we want to build a realistic picture of this – and share the findings in a special edition devoted to this big topic. But it’s only possible with input from you.
+We’re asking for your help to answer the question: what’s in your tech stack? To help, [please fill out this survey](https://substack.com/redirect/6c31d572-ee32-40c2-a9c2-67991bd7b9cb?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) all about it. Doing so should only take between 5-15 minutes, covering the platform(s) you work on, the tooling you use, the custom tools you have built, and related topics.
+The results will be published in a future edition of The Pragmatic Engineer. If you take part and fill out the survey, you will receive the full results early, plus some extra, exclusive analysis from myself and Elin.
+This is the first time we’re running a survey that’s so ambitious – and we very much appreciate your help. Previous research we did included a [reality check on AI tooling](https://substack.com/redirect/e250e7b1-9e21-4e8a-95b2-4ed839696a4d?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) and [what GenZ software engineers really think](https://substack.com/redirect/e8f97ee7-cd8d-469c-9eea-ad0d5a81981e?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o). This survey is even more ambitious – and the results should reveal people’s typical and atypical tooling choices, across the tech industry. You may even get inspiration for new and different tools, languages, and approaches to try out.
+We plan to publish the findings in May.
+Note: this week, the engineering deepdive article is being published on Thursday (20 March). Thank you so much if you contribute to the survey.
+You’re on the free list for [The Pragmatic Engineer](https://substack.com/redirect/2/eyJlIjoiaHR0cHM6Ly9uZXdzbGV0dGVyLnByYWdtYXRpY2VuZ2luZWVyLmNvbT91dG1fY2FtcGFpZ249ZW1haWwtaG9tZSZyPThvNTRuIiwicCI6MTU5MzQ5NzEzLCJzIjo0NTg3MDksImYiOnRydWUsInUiOjE0NTYzMzE5LCJpYXQiOjE3NDIzMTY2MjcsImV4cCI6MTc0NDkwODYyNywiaXNzIjoicHViLTAiLCJzdWIiOiJsaW5rLXJlZGlyZWN0In0.8MA8LPBB7j2qnDK13HME85_vrqWah8-I-jJDIx_ICe8?). For the full experience, [become a paying subscriber](https://substack.com/redirect/2/eyJlIjoiaHR0cHM6Ly9uZXdzbGV0dGVyLnByYWdtYXRpY2VuZ2luZWVyLmNvbS9zdWJzY3JpYmU_dXRtX3NvdXJjZT1wb3N0JnV0bV9jYW1wYWlnbj1lbWFpbC1jaGVja291dCZuZXh0PWh0dHBzJTNBJTJGJTJGbmV3c2xldHRlci5wcmFnbWF0aWNlbmdpbmVlci5jb20lMkZwJTJGc3VydmV5LXdoYXRzLWluLXlvdXItdGVjaC1zdGFjayZyPThvNTRuJnRva2VuPWV5SjFjMlZ5WDJsa0lqb3hORFUyTXpNeE9Td2lhV0YwSWpveE56UXlNekUyTmpJM0xDSmxlSEFpT2pFM05EUTVNRGcyTWpjc0ltbHpjeUk2SW5CMVlpMDBOVGczTURraUxDSnpkV0lpT2lKamFHVmphMjkxZENKOS5PLXpNbTVGdjJXRTVWb3h1R1Z0dGROM3A4QnpGbzBTNTBiRExXWGdiazFvIiwicCI6MTU5MzQ5NzEzLCJzIjo0NTg3MDksImYiOnRydWUsInUiOjE0NTYzMzE5LCJpYXQiOjE3NDIzMTY2MjcsImV4cCI6MTc0NDkwODYyNywiaXNzIjoicHViLTAiLCJzdWIiOiJsaW5rLXJlZGlyZWN0In0.pAAWA9uaXtyL1dSQF0cQ8TCIOgx4cuwozhR3MSfR7c0?). Many readers expense this newsletter within their company’s training/learning/development budget.
+This post is public, so feel free to share and forward it.
+If you enjoyed this post, you might enjoy my book, [The Software Engineer's Guidebook](https://substack.com/redirect/17e87d9e-b4fd-44e3-b9da-b4308887bfb4?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o). Here is what Tanya Reilly, senior principal engineer and author of The Staff Engineer's Path said about it:
+"From performance reviews to P95 latency, from team dynamics to testing, Gergely demystifies all aspects of a software career. This book is well named: it really does feel like the missing guidebook for the whole industry."

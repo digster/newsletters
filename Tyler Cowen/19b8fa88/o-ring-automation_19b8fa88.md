@@ -1,0 +1,10 @@
+---
+subject: "O-Ring Automation"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2026-01-05 19:35:45
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+We study automation when tasks are quality complements rather than separable. Production requires numerous tasks whose qualities multiply as in an O-ring technology. A worker allocates a fixed endowment of time across the tasks performed; machines can replace tasks with given quality, and time is allocated across the remaining manual tasks. This “focus” mechanism generates three results. First, task-by-task substitution logic is incomplete because automating one task changes the return to automating others. Second, automation decisions are discrete and can require bundled adoption even when automation quality improves smoothly. Third, labour income can rise under partial automation because automation scales the value of remaining bottleneck tasks. These results imply that widely-used exposure indices, which aggregate task-level automation risk using linear formulas, will overstate displacement when tasks are complements. The relevant object is not average task exposure but the structure of bottlenecks and how automation reshapes worker time around them.
+That is from [a new paper by Joshua S. Gans and Avi Goldfarb](http://marginalrevolution.com?action=user_content_redirect&uuid=20d41177fac1ac0981ca98f4e10136789e1263b8971c6cd3ab41a3016bc7d79d&blog_id=42693868&post_id=92181&user_id=262258391&subs_id=225460721&signature=e507c39c99ae8a4062c6890004f5e2c1&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly93d3cubmJlci5vcmcvcGFwZXJzL3czNDYzOQ=&email_id=627f9cf1042a0974935b5cc8c8bfd549). Once again people, the share of labor is unlikely to collapse...

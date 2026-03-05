@@ -1,0 +1,33 @@
+---
+subject: "Learn Back-end Development [Free 70-hour coding course]"
+from: "Quincy Larson <quincy@freecodecamp.org>"
+to: ""
+date: 2024-03-15 07:01:32
+labels: ["CATEGORY_PERSONAL", "INBOX", "Quincy"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_7697778124671848699"]
+---
+Here are this week's five freeCodeCamp resources that are worth your time:
+
+1. freeCodeCamp just published a comprehensive roadmap for learning Back-End Development. You'll start off by learning full-stack JavaScript with Node.js. Then you'll learn how to use Django to build a Python back end. After building several mini-projects, you'll dive deep into database administration with SQL. You'll then build your own APIs, write tests for them, and secure them using OWASP best practices. This roadmap will also teach you Architecture and DevOps concepts, Docker, Redis, and the mighty NGINX. (70 hour roadmap of YouTube courses): https://www.freecodecamp.org/news/back-end-developer
+
+2. Learn the algorithms that come up most frequently in employers' coding interviews. This new course will teach you how to use JavaScript to solve interview questions like Spiral Matrix, the Pyramid String Pattern, and the infamous Fizz-Buzz. (2 hour YouTube course): https://www.freecodecamp.org/news/top-10-javascript-algorithms-for-coding-challenges/
+
+3. On this week's freeCodeCamp Podcast I interview Cassidy Williams about her climb from Microsoft intern to Amazon software engineer to startup CTO. Cassidy's famous for her many developer memes and funny coding videos. In this blunt, un-edited conversation, she shares a ton of career tips – including some that will be especially helpful for women entering the field. (2 hour listen in your browser or favorite podcast app): https://www.freecodecamp.org/news/podcast-cassidy-williams-cassidoo/
+
+4. Learn how to localize your websites and apps into many world languages. Of course, anyone can just drop in a translation plugin. But if you want your users to have a good experience, you should create bespoke translations that resonate with native speakers of those languages. This course will introduce you to a powerful translation crowdsourcing tool used by many websites and apps – including freeCodeCamp. You'll learn how to combine machine translation with the intuition of native speakers to quickly craft translations that sound natural. Then you'll learn how to use the front-end libraries necessary to get those translations in front of the right users. (8 hour YouTube course): https://www.freecodecamp.org/news/localize-websites-with-crowdin/
+
+5. And speaking of localization, tell your Spanish-speaking friends: freeCodeCamp just published a comprehensive Tailwind CSS course taught by David Ruiz, a Front-End Developer and native Spanish speaker. We've been publishing tons of Spanish-language courses to help Spanish speakers around the world, and this is just the beginning. (12 hour YouTube course): https://www.freecodecamp.org/news/learn-tailwind-css-in-spanish-full-course/
+
+We've also translated freeCodeCamp's curriculum into languages like Portuguese, Japanese, Swahili, and Ukrainian. And we're just getting started. Help our charity create even more open learning resources.  And help us make these learning resources available to even more people. Join the 8,405 kind folks who support our mission each month: https://www.freecodecamp.org/donate
+
+Quote of the Week: “In the particular is contained the universal.” — James Joyce, Irish novelist and poet
+
+Until next week, happy coding.
+
+-- Quincy Larson
+
+Teacher and founder of freeCodeCamp.org
+
+
+
+If these aren't worth your time, you can turn them off: https://www.freecodecamp.org/ue/eZV2T3gHC7IGcwcpYPG64

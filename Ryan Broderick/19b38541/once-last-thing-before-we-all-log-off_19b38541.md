@@ -1,0 +1,14 @@
+---
+subject: "Once last thing before we all log off!!"
+from: "Garbage Day <hi@www.garbageday.email>"
+to: ""
+date: 2025-12-19 20:36:33
+labels: ["CATEGORY_PERSONAL", "INBOX", "Ryan Broderick", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_7525463136350272325", "UNREAD"]
+---
+| Think About Supporting Garbage Day! | We’re currently giving away a 30-day free trial of Garbage Day—tell your friends! This free trial offer expires December 25, so get it while you can. Regular support is $5 a month or $45 a year and you get Discord access, two additional weekly issues, and monthly trend reports. It’s normally a bargain, but now even more so since it’s free! Hit the button below to find out more or claim the free trial before December 25th. | |
+|
+| When we said on Wednesday that that was our last email of the year we lied lol. We’ve got one more email for you. We want to hear from you! Garbage Day went through a bunch of changes in 2025 and we want to make sure we’re moving in the right direction. | So it’s time for our annual reader survey. Your responses help us make sure we’re offering you, the reader, our boss, the most bang for your buck. You can access it by hitting the green button below. | | Thanks again for everything this year. It’s been a blast and your support makes it all possible. And if we could ask one more teeny-tiny favor: We are like 100 readers away from 100,000 readers. Which was our big goal for 2025. If you could recommend Garbage Day to a friend, that would mean the world to us. Please, we’re so close… just… just forward an issue to someone… anyone. Please god. | We actually have a referral program that’s up and running again. You can use it to share our garbage with all your friends. Just pass someone that unique referral code down below and you’ll get a free premium subscription. | Upcoming RewardsFor each referral you drive, you will unlock rewards when you hit milestones. | 10 referrals Entry-Level Garbage Fan | 25 referrals Unhinged Garbage Stan | 50 referrals Garbage Giga Chad | |
+| Your unique referral link to share: [https://www.garbageday.email/subscribe?ref=u4pUU8DZZi](https://www.garbageday.email/subscribe?ref=u4pUU8DZZi&_bhlid=bf7a73b936aab597b0df9777ef50b28c5a049d32) |
+| See you in 2026, everybody!!! | | P.S. here’s a [criminal](https://elink835.www.garbageday.email/ss/c/u001.ZE3yp4K2Y6WBUz6JXxBv25ShrNVHaSDPV93Fe7CXYloO_se4wpoAPRURIRFHWdoeXtVch2-BypBtwhrUXNnEt1aGWqDQ6621HP6zjs3cI7-lr-XxT7d9v7MrMfpZY_Jg_xo-gU4Jj6Uf8GdnS61dBd6IE_CO27xHBrOackH3OxlC_sGDV9boxAYKf6ewNZFbME0hhb6LRARcnyvImnY9HdEn291zcBoc_0XgQnMarlKFIzSSR9VWHnkmWf1_LQR2hwE1QwenMRBQ2SByBn2nFFU9OJ8Yq5dZvG0zf8hlYUckVbfqYNhq6hwlbBSXbIgdmtbjQvgYkBQbwECc71Q7_w/4mk/iOk9B5J9QLeoC2y3Am2fNA/h5/h001.WOWSL7piTMYgPIN-lR6kY62w9M_syKoJ2NeA08L4_ZQ). | ***Any typos in this email are on purpose actually*** |
+|

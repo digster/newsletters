@@ -1,0 +1,33 @@
+---
+subject: "Five Links for June 2025"
+from: "Auren Hoffman of Five Links <auren@substack.com>"
+to: ""
+date: 2025-05-29 21:02:49
+labels: ["Auren Hoffman", "CATEGORY_PERSONAL", "INBOX", "UNREAD"]
+label_ids: ["Label_4260038268466989707", "CATEGORY_PERSONAL", "INBOX", "UNREAD"]
+---
+|
+note: am [hiring a Chief of Staff](https://substack.com/redirect/be8ba11c-efa4-48e4-8731-5267dda1d2fd?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) (can be anywhere in the US). please let me know if you are interested.
+Here are five links worth reading…
+[The Defense Reformation](https://substack.com/redirect/e32ed99a-1f1a-4c54-aae0-e4b591ab00c5?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) by [Shyam Sankar](https://open.substack.com/users/9670483-shyam-sankar?utm_source=mentions)
+Palantir’s CTO walks through the history of the post-Cold War defense industry - from the Last Supper to today: a case study in decline of innovation … and now reinvigoration.
+[We Live a Hard Life in an Easy World](https://substack.com/redirect/5753376e-5de4-4784-9569-71bc25b2fa96?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) by [Alberto Romero](https://open.substack.com/users/91075008-alberto-romero?utm_source=mentions)
+A sharp essay on how the ease of modern life has made us spiritually brittle. Alberto argues that emotional fatigue stems not from overwork, but from a life stripped of meaningful struggle.
+[50 Things I’ve Learned Writing Construction Physics](https://substack.com/redirect/0d867e97-ea95-460d-b31b-d6477710a4de?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) by [Brian Potter](https://open.substack.com/users/3518108-brian-potter?utm_source=mentions)
+A dense, fascinating list of some of the most counterintuitive facts from four years of writing about construction—like why prefab homes aren’t cheaper, bricks have been the same price since the 1800s, and U.S. skyscrapers can go up as fast as China’s.
+Bonus (Listen): [US Secretary of the Army Dan Driscoll: Tariffs, Tech & Trade](https://substack.com/redirect/6bb1cf34-7a1b-4822-9c4f-35643d81a195?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) on [World of DaaS](https://substack.com/redirect/6bb1cf34-7a1b-4822-9c4f-35643d81a195?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) pod
+Dan Driscoll is a longtime friend (and avid Five Links reader) and he’s super candid about the Army’s issues (procurement challenges, overstaffing, bureaucracy) and what he plans to do about it. This is an amazing conversation with lots of exciting stories about new military tech and startups in defense.
+[A Grand Experiment in Parenthood and Friendship](https://substack.com/redirect/0c65183c-5eb8-4e83-9b26-a15920159ef1?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) by [Rhaina Cohen](https://open.substack.com/users/533737-rhaina-cohen?utm_source=mentions)
+After realizing they'd see their best friends less in the next 70 years than in their first 30, Charlotte and Raffi moved next door to them to share parenting duties– part of a growing trend where parents are choosing friends over geography to build the support networks that nuclear families often lack.
+[Book Review: Selfish Reasons to Have More Kids](https://substack.com/redirect/1de807ef-679a-40f8-b77a-690301ddd4bd?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) by Scott Alexander
+Scott reads Bryan Caplan's classic parenting book after becoming a parent himself, finding that while some arguments are solid, the "just relax" advice doesn't quite hit the same way with twin toddlers in the house.
+Bonus (sign of the times): [Water sommeliers say the simplest drink is the future of luxury](https://substack.com/redirect/afb08bb9-841f-4490-8122-327012ca5bfd?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) by the Economist
+If you thought the world could not get more absurd, you clearly thought wrong.
+Bonus (not investment advice): [why I am shorting Booz Allen](https://substack.com/redirect/dfa499f4-d116-4971-ada4-0bbdc2480038?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+my May 4 post on shorting Booz Allen [$BAH ](https://substack.com/redirect/85e8170e-973c-47a2-9d48-358892dc947c?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) (stock down ~11% since then).
+[Friday Night Lights](https://substack.com/redirect/4e26b082-ae72-464a-b9a0-099ba54577ba?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) by Buzz Bissinger
+Odessa, Texas in 1988 is a microcosm of America. And, of course, so is football. This is the book that inspired the movie which inspired the TV show. Highly recommend.
+Gladiator II: usually I don’t like sequels but this a worthy successor to the great original
+Auren Hoffman is CEO of NQB8, Chairman of SafeGraph, and GP at Flex Capital ($200M VC firm). Engage on [X: @auren](https://substack.com/redirect/c6e49948-4ebe-4e83-8289-03d65516dd16?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+and please share Five Links with your friends and allies.
+Hope you enjoy [Summation by Auren Hoffman](https://substack.com/redirect/2/eyJlIjoiaHR0cHM6Ly9hdXJlbi5zdWJzdGFjay5jb20_dXRtX2NhbXBhaWduPWVtYWlsLWhvbWUmcj04bzU0biIsInAiOjE2NDY1OTc3NywicyI6NjU1MjAsImYiOnRydWUsInUiOjE0NTYzMzE5LCJpYXQiOjE3NDg1NTI3NTEsImV4cCI6MTc1MTE0NDc1MSwiaXNzIjoicHViLTAiLCJzdWIiOiJsaW5rLXJlZGlyZWN0In0.3WCdbJyA7l2iOoE8W0l-ziOVXuFffnbRU3_3PZs5TDk?). Please also follow [@auren](https://substack.com/redirect/c6e49948-4ebe-4e83-8289-03d65516dd16?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) on X.

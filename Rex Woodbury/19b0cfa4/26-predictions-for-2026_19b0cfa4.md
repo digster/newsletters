@@ -1,0 +1,77 @@
+---
+subject: "26 Predictions for 2026"
+from: "Rex Woodbury <digitalnative@substack.com>"
+to: ""
+date: 2025-12-11 10:31:34
+labels: ["CATEGORY_PERSONAL", "INBOX", "Rex Woodbury", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_7409788299609491647", "UNREAD"]
+---
+|
+Weekly writing about how technology and people intersect. By day, I’m building [Daybreak](https://substack.com/redirect/63c62ab5-2750-4c07-95f3-26f558270c8e?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) to partner with early-stage founders. By night, I’m writing [Digital Native](https://substack.com/redirect/4cff98fd-b6c3-4a6f-a486-6afd27ed6e70?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) about market trends and startup opportunities.
+If you haven’t subscribed, join 70,000+ weekly readers by subscribing here:
+You know the drill. Last week we graded our [25 Predictions for 2025](https://substack.com/redirect/8193fcf8-55e1-4a7a-b180-9689bdaaa23b?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o). Now it’s time to make 26 predictions for 2026. Eventually we’ll have to stop adding a prediction each year, but that’s a problem for down the road.
+We’ll break our 26 predictions into two parts: 13 predictions this week, 13 predictions next week. This week covers everything from ChatGPT launching ads, to Anthropic IPO’ing, to social media feeds going synthetic.
+Let’s dive in.
+This tweet went viral last week:
+Obviously this isn’t real. But it’s good satire, and it’s not too far off the mark. Will ChatGPT shell KFC when asked for tips on healthy eating? Doubtful. Will ChatGPT run ads? Definitely.
+In the pursuit of revenue growth to justify (massive) spend, OpenAI will integrate ads into ChatGPT. ChatGPT has 800M weekly active users, and only 20M pay a subscription. How can ChatGPT monetize the other 780M? By serving ads, of course, the familiar tech playbook for monetizing tremendous scale. Bezos famously eschewed ads for years (the iconic 2009 quote is “Advertising is the price you pay for having an unremarkable product or service”), but even he caved: now Amazon does $60B in ad revenue, good for 3rd in the world behind Google and Facebook 🥉.
+Expect 2026 to be a big year for ads, period. Variety [ran a good recent piece](https://substack.com/redirect/06cbbef1-5d5f-4a37-83e6-1759c9f69832?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) on streamers leaning aggressively into ‘pause ads.’ In other words: when you hit pause on Netflix or Hulu to go grab a beer from the fridge, expect an ad to pop up on your TV. This, of course, is to go along with the ad-supported tiers that are the fastest-growing tiers for major streamers.
+All roads lead to Rome advertising.
+It seems like Stripe has no interest in being a public company. With even [SpaceX now signaling a 2026 IPO](https://substack.com/redirect/f61bf96c-217d-4d58-979f-6284ae01fd8d?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) ([$1.5T!](https://substack.com/redirect/c237d22f-522c-4895-991a-46fd4cca159f?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)), it looks like Stripe will continue being the poster child for a “stay private forever” approach. With robust private markets and the rise of secondaries vehicles, why not? This feels like the new world order:
+So Stripe won’t IPO in 2026. That’s a prediction right there.
+Stripe will, however, continue to be tremendously acquisitive. That’s prediction #2. This year, Stripe’s been on a roll, snapping up companies like Bridge ($1.1B), Privy (rumored $250M), and, just last week, Metronome (rumored $1B). Clearly, Stripe has moved beyond payments into becoming a certified fintech juggernaut. The recent acquisitions signal interests in new categories like crypto (Bridge, Privy) and billing (Metronome).
+If you look through the [Forbes Fintech 50](https://substack.com/redirect/1f60181e-36ca-41fc-8b31-3934da9fc348?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o), I bet 1-2 of those companies lives within Stripe a year from today.
+In contrast to Stripe, I do think Anthropic will IPO in 2026.
+I think Anthropic tries to beat OpenAI to the punch, and succeeds. Anthropic will go public first and will be well-received by the public markets. The public markets love revenue growth, and Anthropic’s is the envy of all:
+I also think that Anthropic, like Stripe, becomes highly acquisitive.
+Last week, the company [scooped up Bun](https://substack.com/redirect/c3659e79-824f-478e-a9c9-6e5902891dd3?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) (Javascript runtime) to supercharge Claude Code, announcing in tandem that Claude Code had hit $1B in run-rate revenue. I think Bun is just the tip of the iceberg, and I expect many more acquisitions to follow. [This tweet](https://substack.com/redirect/8e5845c2-a75b-449d-942c-8702711d7c0c?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) thinks [Linear](https://substack.com/redirect/b50c9cee-3839-457c-85a3-a025274a8e64?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) will be next, which is a solid guess.
+There are a lot of zombiecorns out there (companies that raised at unicorn prices but can’t justify those valuations); Anthropic is a soft landing place for talented teams that don’t quite have the scale to go public.
+We’ll see a “cleaning up” of venture-backed companies in the next couple years, as Anthropic (and OpenAI too) scoop up startups in an effort to (1) move into new categories or (2) bolster talent benches.
+To conclude our “Big AI” segment of predictions: both AI giants will have a good 2026. There’s a lot hand-wringing right now, particularly around OpenAI (the more consumer-facing of the two) after the launch of Gemini 3. I think both companies are going to be just fine.
+It feels like just yesterday that OpenAI was the media’s darling. It’s stunning how quickly sentiment has turned. The media loves a fall from grace, and it feels like journalists—and the public—are now rooting for OpenAI to fail. There’s almost a schadenfreude, calling OpenAI the AOL of the AI boom. This isn’t surprising: it’s the same arc we see in celebrity culture, when Taylor Swift is America’s sweetheart one moment, then overexposed and villainized the next.
+The reality is: OpenAI is going to be a big company! Probably one worth multiple trillions. Will Google be bigger? Yes, at least in my opinion. In 2030, OpenAI is maybe worth a few trillion. Google is maybe worth 3-4x more. Those are made up numbers (I’m by no means a public markets analyst), but they’re probably directionally right: Google’s advantages in AI, data, and distribution will compound, keeping it ahead of newcomers. But OpenAI will also be a mainstay in Big Tech.
+The analog I think of is the shift from the internet to social and mobile. Google lost share in digital advertising to Facebook, but its market cap swelled enormously—from $500B on the left side of this chart to $2T (!) on the right sight of this chart.
+Why did market cap rise so much, alongside declining market share? Because the pie got bigger of course!
+It’s the same story with AI. The pie will get bigger for everyone. As a reward for being early movers and innovators, OpenAI and Anthropic will get big slices of pie. But the other tech giants will probably remain larger, with their own compounding advantages of scale.
+This feels dystopian, but it’s inevitable. And I actually don’t think it’s a bad thing. Here’s my argument: AI is a really great creative tool. And there’s a distinction between two types of synthetic content:
+Type 1 is content meant to trick you. This is the video of an animal doing something silly, often shown on security camera footage. In October’s [Taylor Swift, Sora, and Slop vs. Substance](https://substack.com/redirect/b32b268a-9bac-44c1-9699-25df52880f69?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o), we wrote about the possum eating Halloween candy that I totally fell for 😬. Embarrassing. That was the moment I learned to never trust digital content again.
+The other type of content uses AI to make content better. The example I’ll give here is an Instagram Reel that my brother sent me last week. [The Reel involves Gandalf](https://substack.com/redirect/ae9de657-227b-4a6f-98fd-a6f409f853cd?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)—in his very Gandalf way of speaking—rating all the couples of Middle Earth. On Aragorn and Eowyn: “Come on Eowyn, you knew he had a girlfriend.”
+This is funny! This is great. This is AI used as a creative tool to make entertaining content that wouldn’t be possible without voice models + image models.
+Leonardo DiCaprio said last week that “AI can’t be art, because there’s no humanity to it.” Wrong. AI can amplify human creativity. Someone had a funny idea for a Lord of the Rings video, and they could finally pull it off. More of this content in my feed please!
+By the end of year, expect 1 in 4 videos you see to be AI-generated.
+Here’s how this goes down:
+A song comes out that we all love. Think: top 5 hit on Billboard Hot 100.
+It’s revealed that AI was used in making the song.
+Chaos ensues.
+There’s so much vitriol towards AI in both the entertainment industry and in the broader public. The problem is: as we just covered (Gandalf!), AI is the creative tool that’s here to stay.
+There’s a brewing tension between two camps:
+Camp 1: Anti-AI, thinks its the death knell for human creativity.
+Camp 2: Just wants to groove out to good music; doesn’t care how it gets made. “Golden” from KPop Demon Hunters spent 18 weeks at #1 on the global Billboard charts—the second-longest reign in history (after Mariah Carey’s “All I Want for Christmas Is You”). “Golden” showed that we don’t really care if songs come from faceless anime singers—we just care that the music is good.
+In 2026 we start to see more and more tension between Camps 1 and 2.
+One more music prediction! Something will break in ticketing.
+You can feel cracks starting to form, ever since the Eras Tour Ticketmaster fiasco. The UK is on the verge of banning scalpers. Bending Spoons just bought Eventbrite. StubHub IPO’d but the stock has sagged. Ticketing, as it stands today, is untenable.
+So what happens? Maybe a ban on scalpers. Maybe a “fan passport” that certifies superfans and ensures early access to affordable tickets. I’m not too proud to be a Swiftie in 2025 after Showgirl-gate, but I still ended up a top 0.7% listener in my Spotify Wrapped. Surely that means I shouldn’t have to spend $2,500 for tickets to the next concert?
+Expect something big to happen in 2026.
+A couple more quick hits in media x AI. I think we see a landmark deal struck for AI royalties. Hollywood was famously caught flat-footed by streaming:
+Last month [we wrote about Barry Diller’s famous dismissal of the internet](https://substack.com/redirect/205edefa-5b96-48b1-a14a-ce199dac21e0?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o). Arguably the only more infamous dismissal was Time Warner CEO’s Jeff Bewkes talking about Netflix in 2010: “It’s a little bit like, is the Albanian army going to take over the world? I don’t think so.”
+Yikes! Fast forward 15 years and Netflix, a $423B market cap company, is buying Warner Bros Discovery (the Frankenstein monster that Time Warner has become) for $82B. That’s a Hollywood storyline right there.
+Hollywood won’t be caught flat-footed again, and I expect some big AI talent deals this year.
+Last media prediction, and it’s a bit of a catch-all. ‘Generative Media’ is poised for a big year.
+AI models are no longer limited to text and simple images. We can now create high-quality video, synchronized audio, 3D environments. And models are improving rapidly. A while back Jensen Huang predicted that “Every pixel will be generated, not rendered.” We’re inching closer to this future, and 2026 will be the breakthrough year.
+Generative media starts with the infra layer. This week, my former colleague Sonya Huang (shoutout TPG Associate class, circa 2018!) [led the Series C](https://substack.com/redirect/20ba12fa-5b4f-46b8-a482-e849d7351b7c?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) in [Fal](https://substack.com/redirect/897a161c-0ce5-4822-85f6-042707877909?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) for Sequoia. Fal is a very cool pick-and-shovel for generative media. You can choose from 600+ production-ready image, video, audio, and 3D models, then build products using Fal’s media APIs. [As Sonya puts it](https://substack.com/redirect/20ba12fa-5b4f-46b8-a482-e849d7351b7c?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o): “Inference will be one of the largest technology markets of all time, and if video’s share of internet bandwidth/consumption is any guide (~80%), the generative media market is poised to become massive.”
+I expect we’ll soon see many more applications built in AI x media. When you start thinking of possibilities born from media models, you realize how infinite they are:
+Synthetic actors and avatars
+Personalized generative kids shows
+Learning content generated just for you
+Generative advertising
+World generation for gaming
+And so on. We’ll do a dedicated piece on generative media in the new year.
+It’s easy to forget, amongst the AI hype, that there’s a great big world of atoms out there. And most people are yearning for “human” experiences.
+Superagent Ari Emanuel has an interesting thesis he calls “The Anti-AI Bet” that involves building and investing in live, authentic, physical experiences. The thinking goes: AI will supercharge productivity, and we’ll all get more time back. Most people will opt to spend their newfound leisure time on real-world entertainment. I buy this thesis completely, and think it’s a smart play.
+Outside of startup-land, we see real innovation happening here. The Sphere in Vegas. Emanuel’s WWE in wrestling. Another example, to return to Live Nation, is the entertainment giant’s $1B commitment to build and renovate 18 major venues across the US. People are hungry for IRL experiences, and the growing anti-AI sentiment mentioned earlier will also power this boom.
+I’m interested in how this applies to startups too. What are the ways to build and invest around the real world? I’m bullish on AI, but I’m also bullish on our own version of “The Anti-AI Bet.”
+There are two main theses I like in applied AI:
+You build AI tools for workers in a particular field. For instance, you give lawyers AI superpowers to do their work faster and more effectively.
+You become the firm itself. You actually employ lawyers or paralegals, and build bespoke AI tools for them to do work faster and effectively.
+Both can be huge businesses. The first thesis is more familiar and more mature; we have plenty of unicorns there. The second thesis is newer, and I think 2026 will bring it to the forefront. Who are the people who will build AI-native wealth advisory firms, AI-native accounting firms, AI-native consulting firms? These are the Kirklands and KPMGs of the future.
+There’s a lot of talk about agents as coworkers: we’ll work with agents, delegate tasks to agents, orchestrate teams of agents. April’s [The Third Workforce](https://substack.com/redirect/47d83d35-c91f-4934-9e35-09e837152649?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) was all about this. This was a big theme of 2025 and it’ll continue through 2026.

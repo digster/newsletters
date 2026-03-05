@@ -1,0 +1,12 @@
+---
+subject: "The Shape of Stories Edition"
+from: "\"Why is this interesting?\" <whyisthisinteresting@substack.com>"
+to: ""
+date: 2022-07-20 10:05:01
+labels: ["CATEGORY_PERSONAL", "INBOX", "UNREAD", "WITI"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "UNREAD", "Label_5752899537867939131"]
+---
+Noah here. I was recently reminded of
+Why is this interesting? First and foremost, I’m a sucker for this sort of stuff. As someone who likes to write, it’s fascinating to understand the process followed by one of the best in the business. It’s not just nice-looking graphics either, McPhee is a treasure trove for this kind of insight: Such as Beyond that, though, there’s a particularly interesting thread to pull on around how you visualize stories. Kurt Vonnegut spent a good amount of time thinking about this as well, All stories, Vonnegut argues, can be plotted against a Y-axis of good and ill fortune and an X-axis of time, from beginning to end. Most stories follow a few familiar arcs: Man falls in hole, starting high in good fortune, before dipping low into ill fortune, and then climbing back up to good fortune, ending a bit above where he started. Cinderella, on the other hand, starts low in ill fortune and climbs her way up to good fortune only to fall back down until she finally escapes into a long life above the line. A The exception to this rule? Hamlet. As Vonnegut charts it, the story is a straight line that starts in ill fortune and never really goes up or down. At each major turn, we’re left to wonder whether the news is good or bad. This, in Vonnegut’s view, is why the story is a masterpiece: “We are so seldom told the truth. In Hamlet, Shakespeare tells us that we don’t know enough about life to know what the good news and bad news is and we respond to that. Thank you, Bill!” (NRB) Quick Links: This [Complexity Podcast episode with Dmitri Tymoczko on geometry and music](https://substack.com/redirect/d5439b41-824c-4a84-b127-34ffb9fa6e4d?u=14563319)is excellent. (NRB)
+WITI x McKinsey: An ongoing partnership where we highlight interesting McKinsey research, writing, and data. Saying no could advance your career. When was the last time you were asked to take on non promotable work? Handling tasks or assignments that help your organization but not your career can have a profound effect on women’s jobs and lives. In a new Author Talks interview, Lise Vesterlund explains why women so often agree to it—and — Thanks for reading, Noah (NRB) & Colin (CJN) —
+You’re a free subscriber to |

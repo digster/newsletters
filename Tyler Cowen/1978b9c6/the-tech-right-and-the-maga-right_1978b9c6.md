@@ -1,0 +1,15 @@
+---
+subject: "The tech right and the MAGA right"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2025-06-20 04:32:53
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+The contrasts there are the theme of [my latest column for The Free Press](http://marginalrevolution.com?action=user_content_redirect&uuid=8fd6d20074c0041904583cea1c62199176ea127ab08a5b42daa6dbd013ab9c72&blog_id=42693868&post_id=90926&user_id=262258391&subs_id=225460721&signature=4b0152de3ee89fe6da48f1ab94cc9f52&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly93d3cudGhlZnAuY29tL3AvdGhlLW1hZ2EtdGVjaC1wYXJ0bmVyc2hpcC1jcmFja3MtZWxvbi1tdXNrLWRvbmFsZC10cnVtcD90YWlkPTY4NTA5MDY5N2VhMGU5MDAwMTg4YmQ5YSZ1dG1fY2FtcGFpZ249dHJ1ZWFudGhlbSZ1dG1fbWVkaXVtPXNvY2lhbCZ1dG1fc291cmNlPXR3aXR0ZXI&email_id=d25d1e94e865dd070f915bae76843adc). Excerpt:
+The MAGA crowd, starting with Trump and including J.D. Vance, Stephen Miller, and Steve Bannon, has a different set of beliefs. Again, the actual views here are diverse. (After all, Trump himself can hold multiple views in the course of a single paragraph.) But if I had to summarize the doctrine, I would take the slogan “Make America Great Again” very literally—with an emphasis on again.
+Their desire is to bring back an America that was more nationalistic, had a more cohesive elite, was less infatuated with globalization, was more masculine and less feminized, and had a stronger manufacturing base, among other things. That also means fewer immigrants—especially immigrants who don’t come from Europe, which the MAGA crowd views as the font of American civilization.
+It is not my purpose to debate these views one by one, but I will note that these have not been the natural trends of our time. Due to birth control, the influence of feminization has risen, because women are taking on increasingly important roles in the workplace, politics, and education. Due to automation and foreign competition, manufacturing employment has declined. The rise of Asia has propelled globalization, and many of the most talented students at U.S. universities are no longer Americans. And because of proximity, mobility, and instability in many Latin American countries, immigration, both legal and illegal, has been rising.
+The MAGA recipe thus requires ongoing and quite serious government intervention, in both the economic realm and in culture. Otherwise MAGA is doomed to fail, as its desired ends will be swept aside by the broader currents of history, which favor the tech right. Since the America of earlier times had a much smaller government than today, MAGA advocates, if they are to implement their desired ends, have to war against libertarian tendencies, and thus MAGA is unlikely to end up evolving in libertarian directions.
+So whereas the tech right wants freedom to build, MAGA wants the government to manage the building in some very specific directions—like rekindling manufacturing as a core part of the economy, for instance—and to prevent some kinds of globalized building altogether.
+Recommended.

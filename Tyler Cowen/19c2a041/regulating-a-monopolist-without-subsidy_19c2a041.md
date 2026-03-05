@@ -1,0 +1,10 @@
+---
+subject: "Regulating a Monopolist without Subsidy"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2026-02-04 18:57:18
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+We study monopoly regulation under asymmetric information about costs when subsidies are infeasible. A monopolist with privately known marginal cost serves a single product market and sets a price. The regulator maximizes a weighted welfare function using unit taxes as sole policy instrument. We identify a sufficient and necessary condition for when laissez-faire is optimal. When intervention is desired, we provide simple sufficient conditions under which the optimal policy is a progressive price cap: prices below a benchmark face no tax, while higher prices are taxed at increasing and potentially prohibitive rates. This policy combines delegation at low prices with taxation at high prices, balancing access, affordability, and profitability. Our results clarify when taxes act as complements to subsidies and when they serve only as imperfect substitutes, illuminating how feasible policy instruments shape optimal regulatory design.
+That is from[ a new paper](http://marginalrevolution.com?action=user_content_redirect&uuid=0e81093023db45331e03458c9a69e8849f2646a044ae7f4fbd9f909ec4ce805e&blog_id=42693868&post_id=92367&user_id=262258391&subs_id=225460721&signature=4fb3faa7183136355979356ee8734692&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly9hcnhpdi5vcmcvcGRmLzI1MTIuMDY1MjU&email_id=8b81a6ffd009b10660ae11856f6c9369) by Jiaming Wei and Dihan Zou. Via the excellent [Samir Varma](http://marginalrevolution.com?action=user_content_redirect&uuid=e69ace3bf98800f458e6d626faca25d9aa7d1f53e2fe2778e5037b9d415ed6f3&blog_id=42693868&post_id=92367&user_id=262258391&subs_id=225460721&signature=4386ffd5158d1d15b2d1f131c8b8e2aa&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly94LmNvbS9zYW1pcnZhcm1h&email_id=8b81a6ffd009b10660ae11856f6c9369).

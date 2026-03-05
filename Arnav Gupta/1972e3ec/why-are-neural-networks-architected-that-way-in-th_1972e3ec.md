@@ -1,0 +1,94 @@
+---
+subject: "Why are Neural Networks architected that way in the first place?"
+from: "Arnav Gupta from system bashing <systembashing@substack.com>"
+to: ""
+date: 2025-06-02 01:25:51
+labels: ["Arnav Gupta", "CATEGORY_PERSONAL", "INBOX"]
+label_ids: ["Label_2739595779997728054", "CATEGORY_PERSONAL", "INBOX"]
+---
+|
+I am not a man from the world of machine learning, neural networks, gradient descents or transformers. I have many friends who are, who have spent many years of their lives building neurons (which, although named after actual cells found in nervous systems in animals are basically a mathematical construct in machine learning), putting them together into large matrix multiplication operations (called neural networks) and then making terrabytes of data pass through them over and over again, each time giving this network a reward or a penalty, and thus making machines learn.
+I have done none of that. I have never even written import numpy
+too many times inside a python file, if I am being honest. I am a software engineer though. I understand more deterministic forms of organising information in the world using numbers, strings, booleans, storing them into databases and files, and being able to search, sort and retrieve them based on clearly defined conditions. That is sometimes all that you need to know to be able to make apps that deliver food, build an online library of videos for education or for entertainment or let people shop for their favourite things sitting at home from an app. All things I have helped build for hundreds of millions of users.
+But that said, this is the age of Artificial Intelligence, or might I say the age of the race for Artificial General Intelligence. And naturally, many people who have not taken much interest to learn fundamental concepts of machine learning, are starting to do so, because there now exists, more than ever has, infinite possibilities in this space. Unfortunately, I have seen that when we look at most easily available educational content that teaches people basic of machine learning, it starts off with trying to explain how to create a neuron (what activation function to use etc), and then how to put them together into a neural network etc, without actually going much deep into why does this particular architecture exist in the first place?
+See, when we start to learn about some data structures like a stack or a queue it isn’t very hard to intuit why we’d like to store certain data in that form (eg: storing browser history of current session). Similar with the basic idea of storing data in tabular format - which forms the basis of databases.
+With machine learning though, what I see is that many introductory programs or advice is to do these first 3 steps
+Build a perceptron (eg: sort emails as spam it if contains the word ‘free’)
+Build a 2-layer neural network and detect something like shapes from 4x4 pixel images
+Build a basic neural network with 1 hidden layer (eg: and do a classical character recognition problem, like what
+[Yann LeCun did in 1993](https://substack.com/redirect/b034c49c-f971-40b8-8f92-2f71e173079e?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o))
+While this is absolutely the correct way to start learning (in terms of order of things to do, and the gradual ramp up of complexity of problems and the neural network used to solve it), my interactions with a lot of young software engineers going through this journey is that they aren’t entirely able to intuit why we ended up with this architecture of weights + activation function and then layering them up in this particular way. It isn’t as obvious why we do it this way, like it was when we stored browser history in a stack or bank transaction ledger in a relational database.
+I thought of taking an example of the same classical machine learning problem of OCR (Optical Character Recognition), and taking a brain that intuits the deterministic software engineering world through a journey that will show why non-deterministic problems like this are solved this way. At least I hope so.
+Let’s actually start with a more deterministic framing of the OCR problem. Instead of having to detect printed or handwritten characters, let’s try to figure out how would we detect which number is being displayed on a 16x16 LED board.
+If I had to throw my deterministic CRUD software writing brain at this problem, I know this is not hard at all. We just need to know which pixels are lit for each number, and it is just then a big IF
+clause of a bunch of boolean checks clubbed together by some AND
+operators.
+To check if 0 (zero) is displayed we need to check if these pixels are blue - [0,2], [0,3], [0,4], [1,1], [1,5], [2,1], [2,5], [3,1], [3,5], [4,1], [4,5], [5,1], [5,5], [6,2], [6,3], [6,4]
+And similarly to check for 1 (one), we need to check these pixels - [0,3], [1,2], [1,3], [2,3], [3,3], [4,3], [5,3], [6,2], [6,3], [6,4]
+This is ofcourse, a 100% accurate, and extremely fast detection, and in fact, this detection code will be the exact opposite of the code used to drive this LED board in the first place. The software behind the LED board actually takes numbers and lights up LEDs based on its configuration.
+The question we have at hand is a bit different though. What if we have to detect what number it from a printout or even worse, handwriting? To keep things simple, if it were just printouts, then too, there can be many different fonts. For example here is the number “2” written in a collection of ten of the most frequently used fonts for printing. All have originally been printed in 16x16 pixels, and then enlarged.
+Given any of the above 16x16 images we want to be able to detect that it is the number 2. Ofcourse, checking each pixel and clubbing the result together into a big IF condition isn’t going to work, because for each font the pixels are not even the same. If we were to only restrict ourselves to basic building blocks of deterministic programming - (basic data structures like arrays and linked lists, and basic boolean operations), this is not an easy problem to solve at the outset.
+But still, what if we had to intuit out way towards a solution, using the tools we have in our toolkit, without starting to build perceptrons and neurons and things we don’t even know about.
+Why not start thinking from that LED board we solved just above. What we are getting in our input is fairly simple. It is a 16×16 2D array, where each value is basically a number. Say it is 0 for black and 1 for white.
+In the case of the digital LED board, what were we basically checking?
+To check for, say ‘4’ certain LEDs which we expect to be 1, were 1, and the others, which we expect to be 0 were 0, we can determine if the given LED board is displaying ‘4’ or not
+Well, in this case as well, we have to essentially do not much different. If we want to check whether the given input is the number 4 or not, we want to match it against a reference. The reference should say which pixels are likely to be black in case of 4 and which ones are likely to be white. Why ‘likely’? Well because given that there are so many fonts involved, now, unlike the LED board situation, we cannot say for every font, the exact same pixels are used.
+Building out this ‘likelihood’ reference image is easy, actually. Let’s just take images with the digit ‘4’ in all ten fonts, and average out the pixel values?
+Is it reasonable to say this statement now -
+The blacker a pixel is, the more likely it is for any printed ‘4’ digit to have that same pixel black. The whiter the pixel is, the less likely it is that a printed ‘4’ digit will have that pixel white.
+What if we tried to represent that in the form of some code. First off, how can we represent this blended image? That’s simple. Here’s a 16×16 2D array where values range from 0.0 (black) to 1.0 (white)
+Now we have these two possible inputs (one which is 4, and one which is 8). If I pass them through the system, and ask `is this 4 ?`
+I would want the system to say yes for the first one and no for the second one.
+Let’s say that inp[i,j]
+is each pixel in my input image and ref[i,j]
+is each pixel in the blended reference. For each pixel [i,j]
+, I might say the following things
+If inp[i,j] is 0 (black) and ref[i,j] is < 0.5 (highly likely to be black), then it increases the chances of inp to be same number as ref
+If inp[i,j] is 1 (white) and ref[i,j] is < 0.5 (highly likely to be black), then it decreases the chances of inp to be same number as ref
+If inp[i,j] is 0 (black) and ref[i,j] is > 0.5 (highly likely to be white), then it decreases the chances of inp to be same number as ref
+If inp[i,j] is 1 (white) and ref[i,j] is > 0.5 (highly likely to be white), then it increases the chances of inp to be same number as ref
+You might notice a bit of XOR-iness in this logic above which is quite funny and interesting. In fact XOR is the first classification problem that is taught upon as something a single perception cannot solve. Because XOR-ing isn’t a linear classification. In a x,y graph, you cannot plot a single line that divides all the 0 points and 1 points in a plot of XOR(x,y))
+But to progress with our current problem at hand, let’s define an output 16x16 matrix where Output is defined in the following relationship to Input and Reference matrices.
+If we did this operation with the reference matrix for 4 with the two inputs above, the resultant matrix, in form of pixels will look a bit like this.
+By the way, if you’d like to play around with different digits, and see what these output 16x16 matrices look like you can visit this little tool I have made to visualise them -
+[https://championswimmer.in/ocr-try-out/]which I used to create the visualisations for this article.
+Now that we have this output, what can we infer out of this, that helps us figure out what number it is? When comparing with the reference matrix for the digit ‘4’;
+If very few dark black boxes are left, hence high overlap, it implies the input most likely IS the reference digit, i.e. 4
+If many dark black boxes are left, hence low overlap, it implies that the input most likely IS NOT the reference digit - ‘4’
+We can even combine these likelihoods to come to the final answer of is this ‘4’ ? We take the likelihood of input being 4, and subtract a fraction of the likelihood of input not being 4.
+While in the above formula, in an overly simplistic way, the penalty factor of the input looking like one of the other references is taken as -1/9,
+in reality, some numbers look more similar to each other than others. For example it is more likely for the digits 5 and 6 to get confused with each other than for 5 to be confused as 9. So we might not want to uniformly penalising an input looking like some other number by -1/9
+but by specific amounts for each of the other inputs too.
+Anyway if we just put everything we have together so far, and try to look at what sort of architecture our system so far might have. It will look a bit like this.
+Starting to look a bit like the typical neural network representation of OCR systems doesn’t it now?
+Also if it isn’t clear to you, in the first and second rows of our image what you see as just a 16x16 pixel image, is basically a layer with 256 elements (left most input layer), and 2560 elements (256 x 10 digit reference images) for the second column. The third and final (forth) layers have 10 elements each. And the final layer is basically the computed probability of the input being each of the possible 10 digits.
+If the input is the digit ‘3’ as above, we’d expect the output of the final layer to be something like (just an example) -
+[0.01, 0.003, 0.97, 0.002, 0.011 …]
+i.e. The likelihood for all digits would be close to 0, except the likelihood for ‘3’ being close to 1.
+Interestingly here, you’ll see that there are 2 things in our system which is NOT hardcoded into the logic of the system itself, and we can improve the numbers by running this system on larger volumes of data.
+The blended average pixel values of the reference matrices. If we ‘train’ our system, by taking 100 fonts instead of 10. Our blended references will have even better idea of variations across fonts.
+As discussed, the weightage we have given when summing the likelihoods - instead of a flat -1/9 for the others, if we analysed the data and saw which numbers get confused with each other more, and gave them a larger negative weight to each other, our accuracy might increase.
+This might sound similar to how in actual neural network we have this matrix full of numbers called “weights”, which are just such floating point numbers as our blended pixel values and our likelihood weightages. And you might have heard of the concept of training the model on more data to create better weights which will perform better.
+If you have read till here, I am hoping at least a few concepts you have seen in neural networks, we might have recreated in our own way of intuitively trying to use traditional programming primitives and crude skills of basic software engineering without knowing much about fundamentals of machine learning like linear regression or sigmoid functions.
+The system has multiple layers, each layer with many elements
+The output of every layer gets combined into some way to feed into the next layer
+There are pre ‘trained’ numbers/weights which we have created after parsing some amount of ‘known’ data, which is then used to evaluate the unknown data
+Instead of giving yes/no answers like the LED board detection, this system answers in terms of probabilities
+But that said, are actual neural networks really created this way? Is the architecture based on trying to find out ‘least overlapping black pixels’, the way I have done above. Actually, no! Not at all. Despite all the similarity in technically how our architecture looks to commonly used simply neural networks, there are a few reasons this isn’t exactly how and why real neural network architectures are like this.
+This way of trying to create a framework purely based on attempting to find overlapping black pixels would be extremely specific to the problem at hand, and not at all generalisable to other families of problems. In reality, a good neural network architecture would be one that is more general purpose in nature and can be trained with different types of data to perform different tasks easily without having to change the architecture of the layers itself.
+The exact formula we used for combining the data at each layer was also a bit too specific to the problem. The
+1-[inp-ref]^2
+formula we used at the first layer might be useful when trying to reduce differences between values of the 2 layers, but it isn’t useful for other types of operations. Similarly, the formula to sum the likelihoods is also just a basic summation, which doesn’t lend much value in other scenarios. In reality, more general purpose activation functions are used which are not problem-specific, and are designed to let the neural network be trained on varied types of data.
+In actual neural networks, like the ones which are used in Optical Character Recognition, the intermediate layer output is not actually how many black pixels are left after removing overlapping pixels. Instead, neural network weights of intermediate layers are often hard to understand, visualise, or reason about. If you took the output from one of the intermediate layers, and think you can just draw an image out of it (thinking each value is a pixel), you might most likely see gibberish on your screen.
+But that said, despite what we built not being actually anything similar to how neural networks are built, I, personally, find this analogy really useful to intuit why these neural networks roughly exist in this shape of multiple layers of neurons.
+As we moved from an extremely deterministic problem (detecting numbers on LED board) to a probabilistic one (detecting printed numbers), this example makes two things easy to grasp for a brain that wouldn’t land at the concept of neural networks easily otherwise.
+These families of problems need you to have a mechanism of these weights. You cannot just write an ‘algorithm’ that solves it. You have to make the system go through a number of ‘references’ or ‘solved’ examples, and store some information about it, which it then will use to solve future unknown problems. Creating those blended pixel maps was that for us. Thus unlike conventional software, ML systems consist both of code/binary/program that runs, but also the weights which have been created by training. And the outcome of the system depends just as much on what the weights are as much as it does on how the system works.
+These families of problems also require combining multiple intermediate step results with each other to reach results of the next stage. Just looking at one pixel, whether it is black or white gives little value. Combining the information of “if a pixel is different colour that it should be” across the entire 16x16 grid gives us likelihood of the input being similar to the reference. Similarly, the likelihood of the input matching the reference also depends on the likelihood of it matching some of the other references as well.
+I leave you with some references to things you can follow up on reading if you’re new to the world of machine learning (like me) and want tinker with more such basic level projects to improve your grasp.
+https://medium.com/@vijendra1125/ocr-part-2-ocr-using-cnn-f43f0cee8016
+https://sharpsight.ai/blog/python-perceptron-from-scratch/
+https://www.reddit.com/r/MLQuestions/comments/h9tf32/do_we_still_dont_understand_whats_happening/
+https://www.digitalocean.com/community/tutorials/constructing-neural-networks-from-scratch
+https://medium.com/lumenore/build-an-ocr-system-from-scratch-in-python-69c08e78de2
+https://docs.pytorch.org/tutorials/intermediate/char_rnn_classification_tutorial.html
+system bashing is free today. But if you enjoyed this post, you can tell system bashing that their writing is valuable by pledging a future subscription. You won't be charged unless they enable payments.

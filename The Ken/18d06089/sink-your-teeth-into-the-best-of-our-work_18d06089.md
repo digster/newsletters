@@ -1,0 +1,40 @@
+---
+subject: "Sink your teeth into the best of our work"
+from: "The Ken <info@the-ken.com>"
+to: ""
+date: 2024-01-14 03:34:02
+labels: ["CATEGORY_PERSONAL", "INBOX", "The Ken"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_8244464457792971031"]
+---
+Good Morning Ishan,
+Half of January has already passed. Like many of you, I, too, set certain goals and expectations for 2024. However, the first few days didn’t go as planned.
+Refocussing after a two-week break was no easy task. Even though I didn’t want to be hard on myself, it bothered me how long I was taking to reacclimatise to the rigours of investigative business reporting.
+And when I least expected, one of my colleagues reached out (fortunately). I shared these woes with her, and she said, “Haha, all you need is a good idea to sink your teeth into.” And guess what? I eventually did, and things are back to normal. But I wasn’t the only one who did that.
+In a candid conversation, Seema [spoke](https://the-ken.com/story/kedaara-capitals-manish-kejriwal-on-why-he-doesnt-want-to-win-deals-by-being-the-highest-bidder/?utm_source=recap&utm_medium=email&utm_campaign=recap_newsletter) to the founder of Kedaara Capital—one of India’s largest domestic private equity firms—Manish Kejriwal. For 11 years, Kedaara has followed a particular investment model and never done “turnarounds”. And that’s not going to change.
+Now that we are speaking of investments, the upcoming inauguration of the Ram temple on 22 January has got [investors stocking up](https://the-ken.com/story/ayodhya-stocks-rally-its-a-leap-of-faith-say-fund-managers/?utm_source=recap&utm_medium=email&utm_campaign=recap_newsletter) on shares of anything associated with the temple town. However, one fund manager told my colleague, Aakriti, that it is a “short-term trend”.
+On Wednesday, Abhirami [wrote](https://the-ken.com/story/an-indian-genai-startup-raised-41m-now-everyone-wants-to-build-llms/?utm_source=recap&utm_medium=email&utm_campaign=recap_newsletter) about large language models (LLMs) in India. All countries are racing to create cutting-edge LLMs, which requires a hefty capital investment. So, who’s building them in India?
+The next day, Shaswata [delved](https://the-ken.com/story/a-softbank-backed-fintech-an-unfulfilled-upi-dream-and-a-new-hope-with-namma-yatri/?utm_source=recap&utm_medium=email&utm_campaign=recap_newsletter) into how and why Juspay, best known for creating India’s first UPI app, BHIM, has silently made inroads in mobility.
+On Friday, Lu Zhao [reported](https://the-ken.com/story/cheap-products-fast-shipping-and-variety-temu-has-buyers-hooked-to-the-cart/?utm_source=recap&utm_medium=email&utm_campaign=recap_newsletter) on the e-commerce platform Temu. This Pinduoduo-owned company initially targeted customers in the US but has now achieved global popularity with its ultra-low prices, fast global shipping, and Amazonesque product selection.
+Finally, I sank my teeth into how Meftal Spas—Indian women’s go-to drug to treat menstrual cramps—[got caught up](https://the-ken.com/story/how-indian-womens-go-to-drug-meftal-spas-became-a-victim-of-its-own-popularity/?utm_source=recap&utm_medium=email&utm_campaign=recap_newsletter) in the aftermath of a government advisory. It’s a free read, so share it widely!
+Before I sign off, here are our newsletters and podcasts from the week gone by:
+- Ed Set Go: Cuemath has
+[done the math](https://the-ken.com/edsetgo/cuemath-has-done-the-math-on-its-us-expansion/?utm_source=recap&utm_medium=email&utm_campaign=recap_newsletter)on its US expansion - Day Zero: “Never say you want to do strategy”, and
+[other ways](https://the-ken.com/dayzero/day-zero-never-say-you-want-to-do-strategy-and-other-ways-to-land-that-dream-startup-job-as-a-fresh-mba/?utm_source=recap&utm_medium=email&utm_campaign=recap_newsletter)to land that dream startup job as a fresh MBA - Trade Tricks: For Sula Vineyards,
+[government > wine drinkers](https://the-ken.com/tradetricks/trade-tricks-for-sula-vineyards-government-wine-drinkers/?utm_source=recap&utm_medium=email&utm_campaign=recap_newsletter) - Green Margins: What if all electric vehicles end up
+[looking the same](https://the-ken.com/greenmargins/green-margins-what-if-all-electric-vehicles-end-up-looking-the-same/?utm_source=recap&utm_medium=email&utm_campaign=recap_newsletter)? - Ka-Ching!: The
+[mystery of why](https://the-ken.com/kaching/ka-ching-the-mystery-of-why-anyone-would-misuse-a-fasttag/?utm_source=recap&utm_medium=email&utm_campaign=recap_newsletter)anyone would misuse a Fastag - Strait Up:
+[Glitches](https://the-ken.com/sea/straitup/strait-up-glitches-on-the-philippine-stock-exchange-%e2%9c%8b/)on the Philippine Stock Exchange - Inciting Incident: The next move
+[isn’t](https://the-ken.com/incitingincident/inciting-incident-the-next-move-isnt-boeings/?utm_source=recap&utm_medium=email&utm_campaign=recap_newsletter)Boeing’s - The Nutgraf: The future that VCs wanted is
+[here](https://the-ken.com/the-nutgraf/the-future-vc-wanted-is-here/?utm_source=recap&utm_medium=email&utm_campaign=recap_newsletter) - First Principles: Part 2: Soumya Rajan of Waterfield Advisors on
+[entrepreneurship, liberation and legacy](https://the-ken.com/podcasts/first-principles/part-2-saumya-rajan-of-waterfield-advisors-on-entrepreneurship-liberation-and-legacy/?utm_source=recap&utm_medium=email&utm_campaign=recap_newsletter)
+Last but not least, here’s a very refreshing shot* of the Saklana Range from Uttarakhand’s Dhanaulti.
+|
+|
+Have a relaxing weekend! We’ll land in your inbox with more of our best works tomorrow.
+Regards,
+Shivani
+shivani@the-ken.com
+P.S: We are conducting a survey for Day Zero, The Ken’s subscriber newsletter focussed on B-schools’ 2023-24 placement season. If you are a student or an alumnus of a non-IIM or a recruiter who routinely, consistently, and exclusively hires from non-IIMs, [this survey](https://theken.typeform.com/nonIIMs) is for you. The survey results will be published in Day Zero’s next edition on 16 January. Participants would also get group access to insider scoop and deep insights.
+* If your default setting does not show images within emails, please consider turning it off for this email.
+What you just read is the personalised daily introduction to The Ken's story. Written by a different person each day. Often insightful, sometimes witty, and very rarely boring. Someone sent this to you? [Sign up for free](https://the-ken.com/?modal=register&utm_source=footer&utm_medium=email&utm_campaign=morning_email_ind_recap). [Dont like these? You can unsubscribe](https://link.the-ken.com/asm/unsubscribe/?user_id=2349339&data=V9IAW4MbNQmDDHCgqwlufIUjtyFBqbeAcuabrlWD-LFoMDAwdTAwMN6MAGmn7HBCohLwMd0HYfyW0v4bfZE-dR026CRJg_5wxMXkdJjVqSycCJRH01oVE2tdZ6PpcScOtB33Jw9htO6qt5OCe7W5H-BTrCbZd-tO_Xx55DLSpJVqIorJXkNr3l754Yf4ME9EySDHXf4SxirCL0AYPZ_71mGjHMUXTXIPf8_YXGM_ozqFT0FisUJmBlRh7aQSNlU8pcKhFG8whq6y7jarJ3Y3Dav6W7R9ulJBV0ZRmpFvhR-o7e48IZbkw1fQVQ66R1WmH79U7nZUIwdkOUauLjw2qNKxVvygS-ipWVWE1uvBcQp9pTmZkiwc5gWRWeIdcYrCe3I3L4DvrDzJ6Z7kSi6CHozXBMUEA1LbwCrMgaljqOM8IJQT5KVs_JIOV3R8yfkEEw5_Tf-_chXP4kxWJEOwY03wfGdZVN2ywAySqzLMLIqlbEC1_9qTgjudc_zwt6aZSNv_zxhsHujbeLmk2-IWSwhxfVYoY2hgK_F67NaoelKvOBjq4IjYPjgZCQs3JICjHQ4xd5MsQMc=) Dont want to hear from us again? [ Unsubscribe from our emails here](https://link.the-ken.com/asm/?user_id=2349339&data=CZN-9_Rhe1QzYYZtiBv0iOdGdZPIrxb7Z-KH6-eFTT5oMDAwdTAwMEXU2GbhGEtpWPEe6WCQfejj-ihP27gMXf85jQCndWyxOvqMfrRLsdU8jUxfgTGY8giO6nGb2WwaucEWnGmetvnuHjDH31yM_Qi9c1VNgZ-436AX3FaQ1j9zuDYI5HLwwkyCJHRUadozlOjiv9FURzdEzvX-Y2O7h4l6t-aMNfo2FBWLvvQ1natydWIIQzrFn7aOPzud41uGJJYOz54KCn2FO8lZSeO9HlXPF9fHzeXDfjki1DkUriimaCMrqzV6GVCySXwtKI8wTQa7Jm7Iy-C-CooWJuNNlIy4z3tjoDl-0VCu5Xp6QVzFKR9-inhEzSZeWHtOvAxZ3-zl8TtabVaOzxdK3RM3sQw1a02PIiaHk5mZzMlXI3TcVGRLK618rkJaUq7UcmldzLqvhbWxaxJXRVe09L344c2dtXXYQdFlyKKb47FXCE7RRdbMHDb0q_jRZMqnjrfTh4p7Q1MCo68NA3-MX6LugaRmusC71l127R3dEajRniRaDZ6N9LynjQ==).
+Something wrong? Tell us at [support@the-ken.com](mailto:support@the-ken.com)

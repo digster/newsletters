@@ -1,0 +1,10 @@
+---
+subject: "Firewood in the American Economy: 1700 to 2010"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2025-07-01 04:30:58
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+Despite the central role of firewood in the development of the early American economy, prices for this energy fuel are absent from official government statistics and the scholarly literature. This paper presents the most comprehensive dataset of firewood prices in the United States compiled to date, encompassing over 6,000 price quotes from 1700 to 2010. Between 1700 and 2010, real firewood prices increased by between 0.2% and 0.4%, annually, and from 1800 to the Civil War, real prices increased especially rapidly, between 0.7% and 1% per year. Rising firewood prices and falling coal prices led to the transition to coal as the primary energy fuel. Between 1860 and 1890, the income elasticity for firewood switched from 0.5 to -0.5. Beginning in the last decade of the 18th century, firewood output increased from about 18% of GDP to just under 30% of GDP in the 1830s. The value of firewood fell to less than 5% of GDP by the 1880s. Prior estimates of firewood output in the 19th century significantly underestimated its value. Finally, incorporating the new estimates of firewood output into agricultural production leads to higher estimates of agricultural productivity growth prior to 1860 than previously reported in the literature.
+That is from [a new NBER working paper by Nicholas J. Muller](http://marginalrevolution.com?action=user_content_redirect&uuid=b23dfe8b0ed863b1160a7f7cf9edecd7780687faf1b7bb2d062955150f9080d5&blog_id=42693868&post_id=91002&user_id=262258391&subs_id=225460721&signature=25e20deebcf82f3932a6a08a2866a20b&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly93d3cubmJlci5vcmcvcGFwZXJzL3czMzk3NCNmcm9tcnNz&email_id=514d831347e48cf46e929d7c1fc68a22).

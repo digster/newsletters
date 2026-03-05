@@ -1,0 +1,11 @@
+---
+subject: "Beyond Secure Attachment"
+from: "River Kenna from Inner Wilds <innerwilds@substack.com>"
+to: ""
+date: 2025-07-31 13:05:23
+labels: ["CATEGORY_PERSONAL", "INBOX", "River Kenna", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_3010718370428876194", "UNREAD"]
+---
+I’ve spent the past couple years listening to people talk about secure attachment, anxious attachment, avoidant attachment, all the attachment things. Over the past year, I’ve gotten much closer to what seems to be called “secure attachment” than I ever have before. And it’s given me suspicions. The frame that feels most resonant in my body around attachment goes something like this: Avoidant attachment and anxious attachment are involuntary reflexes in the emotional/energetic/somatic system. Avoidant attachment is an involuntary awayness reflex — either pushing people away, or backing away from them. Anxious attachment is an involuntary towardness reflex — either pulling people in, or moving closer towards them. Towardness and awayness aren’t the problems, the involuntary nature of the reflex is. Secure attachment, at least how I’ve seen it most often talked about, and how I’ve mostly felt it in myself, feels like an extinction of those reflexes. The involuntary pushing and pulling dies down quite a lot. You’re okay simply being there.
+My suspicion about this flavor of secure attachment is that it primarily appeals to avoidant types. If avoidance tends towards an impulse towards one’s own conscious, deliberate, autonomous control of a situation (not merging with other people/situations or losing yourself in them), then it makes sense that when an avoidant becomes aware of their avoidant reflex, their next reflex will be to get conscious, deliberate, autonomous control of that too. This explains why so much of the discourse around secure attachment is so academic, professional, heady, detached... Subscribe to Inner Wilds to unlock the rest.Become a paying subscriber of Inner Wilds to get access to this post and other subscriber-only content. A subscription gets you:
+|

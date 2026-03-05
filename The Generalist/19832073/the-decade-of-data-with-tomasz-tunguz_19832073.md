@@ -1,0 +1,79 @@
+---
+subject: "The Decade of Data with Tomasz Tunguz"
+from: "The Generalist <thegeneralist@substack.com>"
+to: ""
+date: 2025-07-22 12:03:12
+labels: ["CATEGORY_PERSONAL", "INBOX", "The Generalist", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_8815311452832858585", "UNREAD"]
+---
+|
+[Brex](https://substack.com/redirect/4fb6b78b-6587-40c5-97c3-cd70aeff9cdf?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o): The banking solution for startups.
+[Generalist+](https://substack.com/redirect/885812e2-53e8-4b9a-b517-b0c73819f3ae?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o): Essential intelligence for modern investors and technologists.
+Tomasz Tunguz has spent almost two decades turning data into investment insights. After an impressive run at Redpoint Ventures, where he backed Looker, Expensify, Monte Carlo, and more, Tomasz launched Theory Ventures in 2022. His debut fund, which closed at $238 million, was followed 19 months later by a $450 million second fund.
+Theory’s goal is simple but striking: to build an “investing corporation” where researchers, engineers, and operators sit alongside investors, arming the partnership with real‐time market maps, in‑house AI tooling, and domain expertise. Centered on data, AI, and crypto infrastructure, the firm operates at the very heart of many of today’s most consequential technological shifts.
+In our conversation, we explore:
+How Theory’s “investing corporation” model works
+Why crypto exchanges could create a viable path to public markets for small-cap software companies
+The looming power crunch—why data centers could consume 15% of U.S. electricity within five years
+Stablecoins’ rapid ascent as major banks route 5‑10% of U.S. dollars through them
+Why Ethereum faces an existential challenge similar to AWS losing ground to Azure in the AI era
+Why Tomasz believes today’s handful of agents will become 100+ digital co‑workers by year‑end
+Why Meta is betting billions on AR glasses to change how we interact with machines
+How Theory Ventures uses AI to accelerate market research, deal analysis, and investment decisions
+Much more
+([00:00](https://substack.com/redirect/a3996726-aee3-457a-bb2a-6538e0676034?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) Intro
+([03:37](https://substack.com/redirect/66bc7299-f6a3-46cc-a26b-1c43717ca8c1?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) Tomasz's background and journey to founding Theory Ventures
+([04:57](https://substack.com/redirect/a9e75655-21dc-4c26-aebf-76a8f6cd0144?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) Theory's data-driven approach to venture
+([09:25](https://substack.com/redirect/e5fc3cbb-0b3d-419c-9edd-c494971de6ca?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) The importance of functional experts on investment teams
+([11:45](https://substack.com/redirect/cbd72074-3156-45c2-99d5-e18f2d3289b3?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) Theory's focus on data systems and why they matter
+([15:02](https://substack.com/redirect/9807aa68-54fb-4d3e-bd6c-e216d6f9f32a?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) The decade of data
+([18:40](https://substack.com/redirect/9d3741f4-8636-46b8-bf27-83fc47cd12b4?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) The challenges of chip-level investment
+([20:11](https://substack.com/redirect/02d49010-b473-48ef-a24a-95e0ec3d1e7d?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) The state of crypto
+([23:30](https://substack.com/redirect/1418895b-1d36-42f1-bbd3-f8ad9fc6d660?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) How crypto could accelerate IPO timelines
+([28:12](https://substack.com/redirect/07edb1ef-c892-4b30-aaa4-9ef597988cf2?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) Tokenized secondaries and venture capital’s evolution
+([32:18](https://substack.com/redirect/82ed76be-a739-4a26-82e1-1eefa8ee29c7?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) Ethereum's challenges against competitors like Solana
+([37:25](https://substack.com/redirect/691f352f-e736-48c3-86d3-f4aec87d9b74?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) Hyperliquid
+([38:38](https://substack.com/redirect/bda68fc5-c33a-46ee-a0be-e0b6804afe47?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) The shift from proof of work to proof of stake to proof of authority
+([41:20](https://substack.com/redirect/4a6b9c8d-8326-4daa-9b66-1c56a7f8f4ff?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) How Tomasz uses AI for personal productivity
+([45:03](https://substack.com/redirect/5319b8a8-275f-4b7d-923e-e770a5832056?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) How Theory Ventures uses AI internally
+([49:41](https://substack.com/redirect/c406c001-0654-46a3-9629-bc725fbab8a0?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) The future of work with AI agents
+([52:42](https://substack.com/redirect/8cd100ff-df7a-47cb-90f3-60741dc2ae97?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) The current state of the AI race between Microsoft, Google, and Meta
+([58:28](https://substack.com/redirect/65c5c632-fdb7-4996-b412-465d928f6dbb?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) Final meditations
+Website: [https://tomtunguz.com/](https://substack.com/redirect/66d03a5a-8afc-4534-9bd9-bab1c553d273?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+LinkedIn: [https://www.linkedin.com/in/tomasztunguz/](https://substack.com/redirect/daf18c1b-441b-4030-acc1-bb28644b4a74?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+Narcissus and Goldmund:
+[https://www.amazon.com/Narcissus-Goldmund-Hermann-Hesse/dp/0553275860](https://substack.com/redirect/8cf190ed-ae1c-4716-a846-824350c86de8?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+Patrick O’Grady on X:
+[https://x.com/_patrickogrady](https://substack.com/redirect/6de2d00e-8bd5-4420-ad1a-752b26286b62?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+Theory Ventures:
+[https://theory.ventures/](https://substack.com/redirect/f66f6181-2395-4fc9-8e0b-ac85204ba113?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)Insight Partners:
+[https://www.insightpartners.com/](https://substack.com/redirect/c7f5df82-29a6-4cdd-b516-4d1ea03000cc?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)Palantir:
+[https://www.palantir.com/](https://substack.com/redirect/c3141fc8-4ab9-40d2-ba51-b57e62190f1f?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)Databricks:
+[https://www.databricks.com/](https://substack.com/redirect/811cf4a8-a025-43e3-b701-aad21f393e9c?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)Snowflake:
+[https://www.snowflake.com/](https://substack.com/redirect/71ac338c-258b-4baf-9cfa-964ee81eb5e2?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)Ethereum:
+[https://ethereum.org](https://substack.com/redirect/b8b4a430-4df7-46d6-9c38-4e005300049c?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)Solana:
+[https://solana.com/](https://substack.com/redirect/b6d3861a-d56a-450d-8162-1632d5d6be6c?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)Jamie Dimon blasts crypto, tells Senate he would ‘close it down’—even as JPMorgan pushes forward with blockchain payments:
+[https://fortune.com/crypto/2023/12/06/jamie-dimon-crypto-senate-hearing-jpmorgan-blockchain-payments/](https://substack.com/redirect/e1a46a72-af94-4ca4-ac9d-661b62fd04f7?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)Robinhood:
+[https://robinhood.com/](https://substack.com/redirect/0aa09560-2d93-4706-a69f-12b1440da194?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)Coinbase:
+[https://www.coinbase.com/](https://substack.com/redirect/0aa4d515-6922-47f6-b0b1-dbdfa0e58d5f?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)Uniswap:
+[https://app.uniswap.org/](https://substack.com/redirect/41c711e7-b5b0-4247-a56b-31977cffe65d?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)Sarbanes-Oxley Act:
+[https://en.wikipedia.org/wiki/Sarbanes%E2%80%93Oxley_Act](https://substack.com/redirect/0d3e95b9-355b-416e-92a1-89aa390af155?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)TSX:
+[https://www.tsx.com/](https://substack.com/redirect/795f54f5-ee19-4d52-9295-8730eb472912?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)Texas Stock Exchange:
+[https://www.txse.com/](https://substack.com/redirect/bb56443f-7c09-4b0b-acdd-3bf07bc00c8f?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)SUI:
+[https://sui.io/](https://substack.com/redirect/5f0d0f65-1c16-415f-91bc-869d0dff6c88?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)Hyperliquid:
+[https://hyperfoundation.org/](https://substack.com/redirect/3115311b-8ba1-4942-96a5-0114af737f6a?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)Phantom:
+[https://phantom.com/](https://substack.com/redirect/aba7e90d-87b6-4967-aec2-7c06664660f2?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)Claude Code:
+[https://www.anthropic.com/claude-code](https://substack.com/redirect/6c76644f-bf99-448e-b813-3158e308381e?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)Asana:
+[https://asana.com/](https://substack.com/redirect/a4785f4a-638b-4efe-9a47-d8b1fd0f0ebc?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)Introductory Theory post:
+[https://tomtunguz.com/theory/](https://substack.com/redirect/e0f5d24b-9355-4846-aa0b-63215055ef2b?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)Gemini:
+[https://gemini.google.com/](https://substack.com/redirect/20a3afa5-6329-478c-acf7-ea096e8a110e?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)Claude:
+[https://claude.ai/](https://substack.com/redirect/13bc623b-dc5e-4c91-ae16-8826cae3f837?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)OpenAI deep research:
+[https://openai.com/index/introducing-deep-research/](https://substack.com/redirect/d8f349bb-d896-4223-ba4b-1883444f1bf9?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)Cursor:
+[https://cursor.com/](https://substack.com/redirect/0827651f-5b09-430b-9670-5ad9b94fa690?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)Rabbit:
+[https://www.rabbit.tech/](https://substack.com/redirect/f6bbe623-5926-47a1-abc1-e91306eef4b2?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)Humane:
+[https://www.humane-ai.ai/](https://substack.com/redirect/2f1980e5-b533-4b48-ab15-9f620c860f24?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)Mouth-based touchpad enables people living with paralysis to interact with computers:
+[https://news.mit.edu/2024/mouth-based-touchpad-augmental-0605](https://substack.com/redirect/a55ec281-71e3-4ce8-b8d6-824491db548c?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)Orion glasses:
+[https://about.fb.com/news/2024/09/introducing-orion-our-first-true-augmented-reality-glasses/](https://substack.com/redirect/90d3fdbe-6e41-484c-859c-23732dbaf772?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+I’d love it if you’d subscribe and share the show. Your support makes all the difference as we try to bring more curious minds into the conversation.
+Production and marketing by [penname.co](https://substack.com/redirect/c26bba91-9ecd-42be-b39b-42cbde85a355?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o). For inquiries about sponsoring the podcast, email jordan@penname.co.
+You're currently a free subscriber to [The Generalist](https://substack.com/redirect/1890cd15-74da-4a02-b8df-2b7bf5fc42b5?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o). For the full experience, [upgrade your subscription.](https://substack.com/redirect/2/eyJlIjoiaHR0cHM6Ly93d3cuZ2VuZXJhbGlzdC5jb20vc3Vic2NyaWJlP3V0bV9zb3VyY2U9cG9zdCZ1dG1fY2FtcGFpZ249ZW1haWwtY2hlY2tvdXQmbmV4dD1odHRwcyUzQSUyRiUyRnd3dy5nZW5lcmFsaXN0LmNvbSUyRnAlMkZ0aGUtZGVjYWRlLW9mLWRhdGEtd2l0aC10b21hc3otdHVuZ3V6JnI9OG81NG4mdG9rZW49ZXlKMWMyVnlYMmxrSWpveE5EVTJNek14T1N3aWFXRjBJam94TnpVek1UZzFPVGt3TENKbGVIQWlPakUzTlRVM056YzVPVEFzSW1semN5STZJbkIxWWkweE5UYzJOQ0lzSW5OMVlpSTZJbU5vWldOcmIzVjBJbjAuT0l1bmtGTElzd1hjcEFJbmx4ZFBaSHQ4LTNScTRsNnVrUGtCSGFaMUV1WSIsInAiOjE2ODQ5MzI5NiwicyI6MTU3NjQsImYiOnRydWUsInUiOjE0NTYzMzE5LCJpYXQiOjE3NTMxODU5OTAsImV4cCI6MjA2ODc2MTk5MCwiaXNzIjoicHViLTAiLCJzdWIiOiJsaW5rLXJlZGlyZWN0In0.1gdEANNzlP1htuYt-1_zKbW-72futdYqG2cawESPDFI?&utm_source=substack&utm_medium=email&utm_content=postcta)

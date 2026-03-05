@@ -1,0 +1,11 @@
+---
+subject: "That was then, this is now — Liverpool heliport edition"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2025-03-30 05:13:34
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+For a brief moment in the mid-1950s, it seemed as if Liverpool's transportation system was about to be revolutionised, not by cars, trams, buses or ferries, but instead by helicopters. As strange as it may seem, Liverpool was at the forefront of a flurry of interest from planners and politicians who imagined that an age of mass helicopter transit was just around the corner. With their vertical life, small size and ability to land on the roofs of buildings, helicopters seemed ideal for short trips between and even within cities. From 1953, Liverpool's City Engineer, Henry Hough, began to draw up plans for a network of heliports that would connect seamlessly with buses and form the basis of an integrated ground and sky transit system...After flirting with the idea of using floating pontoons in the Mersey to l and helicopters, he settled on plans for a new integrated bus and helicopter station on a patch of bombed ground between Paradise Street and Canning Place.
+That is from the new Sam Wetherell book [Liverpool and the Unmaking of Britain](http://marginalrevolution.com?action=user_content_redirect&uuid=9a757f92e889ebd93da0b445b0f2d38395c7a80efedf36b5b1c1d97cc75361b8&blog_id=42693868&post_id=90345&user_id=262258391&subs_id=225460721&signature=800db96e8be96d91e649cb4be0527e57&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9MaXZlcnBvb2wtVW5tYWtpbmctQnJpdGFpbi1TYW0tV2V0aGVyZWxsLWVib29rL2RwL0IwRFZMTjFUR0Q&email_id=76931957b23916ac3e3219f2e9ce442a). All those plans ended, however, as the popularity of the car spread amongst Liverpool residents.
+More broadly, the book has quite a bit of useful and interesting content, though reading it you would never realize that Liverpool today is a far wealthier place than in times past. It seems always to be in decline. There is also too much "fashionable left-wing jargon," plus an unwillingness to stress that capital accumulation is what boosts wages. Will books like this one ever be willing to shed those features?

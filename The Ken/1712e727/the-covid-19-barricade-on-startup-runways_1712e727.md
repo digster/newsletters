@@ -1,0 +1,25 @@
+---
+subject: "The Covid-19 barricade on startup runways"
+from: "The Ken <info@the-ken.com>"
+to: ""
+date: 2020-03-31 02:36:14
+labels: ["CATEGORY_PERSONAL", "INBOX", "The Ken"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_8244464457792971031"]
+---
+Good Morning Ishan,
+Have you read Aesop's fable, The Ant and the Grasshopper? It goes like this: One summer's day, a grasshopper was hopping about, singing to its heart's content. An ant passed by, bent over double by the ear of corn he was taking to the nest. "Come chat with me instead of toiling," said the grasshopper. "I'm saving for the winter, and you should do the same," said the ant. "Why to bother about winter now; enjoy the present," said the grasshopper. But the ant went on its way and continued its toil. When the winter came, the grasshopper died of hunger, while the ant had a feast.
+The moral: "Always prepare for tough times."
+There is perhaps no fable more apt than this in the current situation, with the winter of Covid-19 upon us. But you and I know that, however well-intentioned, applying this lesson in the real world is complex, challenging, nigh impossible even. More so in the world of startups, whose grasshopper moments right now are challenges around funding and runways.
+Sumanth, the author of today's story, talks to several Indian founders and investors to understand how they are placed to weather the Covid-19 winter.
+He talks to a bootstrapped founder staring down the barrel, years of financial discipline worthless due to the want of a safety cushion. He talks to a VC gearing up to "circle the wagons", rather than hunt for the next big thing. He talks to enterprise-focused startups, now just as vulnerable as their consumer-focused brethren.
+Sumanth finds that in the real world, winters can be just as cruel to the ant as they are to the grasshopper. Or even see the grasshopper outlive the ant. His story takes you into the minds of founders and investors. It's a must-read in these times: [https://the-ken.com/story/the-covid-19-barricade-on-startup-runways/](https://link.the-ken.com/uni/ls/click?upn=sy6ExvMQ-2BqIqW2Qsf-2FVG5sc84ge4M35NkSHIl0HH-2B5ChnrQ6PCJ1VRIbBlhysEnzivFhpNxofmWv5qi8eWRVE47VSt0GXh-2BE9uE95aI159j40WMNqH8ZeemNC0TRRXFZ1Na0M8NmFk0GP9E7Zp0V-2BAljRYDbOOT4BJmZVVkqluEoolwDOCmdzD1LGPcbr2J96TL90kZhFz0PdeGadx-2B5rA-3D-3D2xKz_dmDs81p1OM5gBGYvHfsMFvgp9PcMB6iZkwowmLx-2FVhwlHXbL5m6csiptGuneRwktW27c6ZwIBsjV67BZcfkOlPppVavmb9GVjXF4V-2FTqNpVIeaE-2B5h8SoAFeAk-2F6VMJlIy8c8suUb-2B7SfczZ3w5UIlFmyR0uTNomCnWsAfmujdw4Z0CaykpQlp7QJHXxJ7m73gFapCKpMPDsqAaxPR-2BtXAc2Eorub4sBfeAV71clxdKAdpxpOzukad2-2Fh8NowrsMOWl-2BGHCcRI-2BjGOmi0BxQVsCaTorpVANgfn0ieBQsk3naWLJg3bd20AqAuQY9AGl-2FeGl25ahLZgkt8NILP4cfmLYNWrsE0PeoMVVWDrT9fFaqlNBo75loipugIJnn76hgEZBrXOJcUWAcgHbfo-2BilUx5SkglEsmVGbTHSHv-2BeZy160mzcDag7xsh9-2FYO7lDNc) (15-minute read)
+Yours, with an elbow bump,
+Savio D'Souza
+(savio@the-ken.com)
+|
+What you just read is the personalised daily introduction to The Ken's story. Written by a different person each day. Often insightful, sometimes witty, and very rarely boring. Someone sent this to you? [Sign up for free](https://link.the-ken.com/ls/click?upn=sy6ExvMQ-2BqIqW2Qsf-2FVG5m4ZRtGJDuv5a1zCHK2JYyvd7FmH2neqLdySobBIZteQtt6AiG0kT59-2BM7sDMw-2FirteTIdBthyZdirVFH8J-2FK9Ev6fz63LL88N8ZKR7JrZ9sCkD1CpUfzq1-2Fuo60AmS6iEufHC5f8B8RhXDOAQX09s4-3D3IO0_dmDs81p1OM5gBGYvHfsMFvgp9PcMB6iZkwowmLx-2FVhwlHXbL5m6csiptGuneRwktW27c6ZwIBsjV67BZcfkOlPppVavmb9GVjXF4V-2FTqNpVIeaE-2B5h8SoAFeAk-2F6VMJlIy8c8suUb-2B7SfczZ3w5UIlFmyR0uTNomCnWsAfmujdw4Z0CaykpQlp7QJHXxJ7m73gFapCKpMPDsqAaxPR-2BtXPm1M9uwIz8thJR1QFTc97II8X3xEgSCF1PLwGdrgTgP5uoU2iCsLie4JoKOQ0-2F-2FXOHoaw0iHuc0BAylRv-2BJ-2FsbQ-2Bon9Y6aL4zVhKd4hDQBDYH5kElyQNAX4dXZkhMihtY2IAhVdtVBZdz51lNV4tXzvPofMEUIZdC-2FkN7v6wL1-2FkCli3kZqj-2Bulz3tlP-2FDd4GOjT4wWcMhywBMiI1VkCS5bOHcqALxEVFlHI3Mvpdvy). Don't like these? You can [unsubscribe](https://link.the-ken.com/asm/unsubscribe/?user_id=2349339&data=y4N_keg5SX0-SvLddJrlBLPbl_i_cZrof6fGYjgUV2QJn2-0BP9by_53TcaX2ZYCXk4gQ5PClvBjfpY4NmRdycVHIbj_3Qlxltzv_eZOsCZm1QDP1XTVXiPmuwpCuAnJLcpjPYHnF1Q9k32JwDnI7Ng62OnNNY8BCKWd5qReaGmjmK4-wAaUhP3LGPViJ9oKoO3ug-QMWtJe0kMn2iYzn6mWePaKsV10qqgm7H04J7hFu0idkJEkOWXtrTYHmlwmvLeOca40T9lZ7gYX1KvK7jdp2T1S6amgn9WM8D9G82sbgJYa3MsFwV0GwiU8N4lc_LcfmuESGJJGktKXJA0goxiwmEaSNF9pgXlBT-OOoBE2LCsXRhziFWmlxIIJg52ssK4kMqJsCJ4k40OonXl2TYjJJ0SxtWIP7C3_37cvz1kNm4pcUFtNs42C6wuaKoE1YxOt3oP-n7EHN2a9065ilaAJayMF33eWARkm7X-V3iMryogpD-oJqcNddG7GwMQtbML_ajvUthoqHx6ov2Y0ieHjIw4Pic5PHcHelF1Z3_0=). Want to manage your emails? Click [here](https://link.the-ken.com/asm/?user_id=2349339&data=ySL_-1THODD75LQCfzMYnKjjjdENHfl5gob0tuCHnQuviCmyQukXTLHCfrmu6BeBxXKQa1XrAoCQjzhYpBQtOuu8056BFduJyO2OOI_aogh4jm334jZDAQHxrJW8-XKfJl4DOYd1PpLcRiS8x_elutjnwatqUJAbQ3-loMyWq684UnqAYaMM5NNdNmCSm6dV9i5_sQC9ZNr2B4eWP32C8mdALjUNqjNOMRvug0TPBa6JkH6iIF9Y1J7oyNFvO-iUAuqFvSjpIuYpomNWLcF_GlfD0wUxXvOKK20Iu-F_LpmOxZtunVYCoGnO_Le836l-zl5RZ1UbX9y9NfCNIni3FgRlVizhXkvfmJ_vBob3pwZfqSEsCe1HMEzACU_HKK_NULdjn-55jwf4ikkdCR3RqOg2L88RMFCM8Zix5lQss2s5iga1T0qlSLTiKkhVt76u9HUI3mHdoAwQz2YtVMlVhnvGb3NsU37DFI_6h7t96gRk7EIx5vciTnfaSCf2Q-cCKGCg9l8aDroxulVxrFpmtg==).
+|
+|
+|
+|
+|

@@ -1,0 +1,20 @@
+---
+subject: "Same borrowers, same lenders, same problems: but India’s two public credit platforms won’t join hands to fix them"
+from: "The Ken <info@the-ken.com>"
+to: ""
+date: 2023-11-16 02:39:20
+labels: ["CATEGORY_PERSONAL", "INBOX", "The Ken", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_8244464457792971031", "UNREAD"]
+---
+Good Morning Ishan,
+India’s penchant for creating platforms is well known. From payments to healthcare to e-commerce, there is a government-run platform on top of which different businesses operate.
+But when it comes to credit, there isn’t one but two platforms vying for the attention of borrowers and lenders. One is the iSpirt-backed Open Credit Enablement Network (OCEN), and the other is the government-backed Open Network for Digital Commerce (ONDC). Both want to facilitate credit to the 64 million micro, small, and medium businesses to begin with.
+The Bengaluru-based iSpirt helped develop mass-scale technologies for UPI and the world’s largest biometric identity programme, Aadhaar. Three-year-old OCEN has large lenders, such as ICICI Bank, Kotak Mahindra Bank, and Aditya Birla Finance, on board. Still, it has facilitated only around Rs 21 crore ($2.5 million) in loans until September.
+ONDC wants to do something similar with financial services. And it even roped in a former iSpirt member to head it.
+But the thing is, the two are more similar than they will admit. They even have similar problems. It’s like the Android versus Apple’s iOS. Except, ONDC and OCEN are public networks competing for the same lenders to be on their platforms.
+Gaurav has a sharp story on why the two lending platforms are not working together and what’s at stake if they don’t join hands. Read it here: [https://the-ken.com/story/same-borrowers-same-lenders-same-problems-but-indias-two-public-credit-platforms-wont-join-hands-to-fix-them/](https://the-ken.com/story/same-borrowers-same-lenders-same-problems-but-indias-two-public-credit-platforms-wont-join-hands-to-fix-them/?utm_source=daily_story&utm_medium=email&utm_campaign=daily_newsletter) (9-minute read)
+Regards,
+Arundhati
+[arundhati@the-ken.com](mailto:arundhati@the-ken.com)
+What you just read is the personalised daily introduction to The Ken's story. Written by a different person each day. Often insightful, sometimes witty, and very rarely boring. Someone sent this to you? [Sign up for free](https://the-ken.com/?modal=register&utm_source=footer&utm_medium=email&utm_campaign=morning_email_ind). [Dont like these? You can unsubscribe](https://link.the-ken.com/asm/unsubscribe/?user_id=2349339&data=7zo_uzzEjagTdPd9ys1X7skdmuet1UukwCmeye0LqGFoMDAwdTAwMKVgFSJfRcnZ6QL6Ygj6M6ccmUKqUxNowTSho3Y57AcZy4-j7ny2xaWU9XwqXZ8pEIJDLA9Bw7k_Aos77gZSLe_adoz9pvxDZQY6boZROduKw2ImuHBrxhGM_v643rhj0uc-YLqbOWI3A3cDVNlMj_qT-T9U89QSnx3ikXGQBIFRzcJl6yS01606oufBpkDC5vJwPnG2RbrjJUSIS2YOjNJTL2onMFTFq5fmnqsYXLTJTQQ1hQqrGDzzVZGKwd4Vkg4BHtbElzRv3PN8AqLMGEaVnrfZjxR7ojFTpu3DuPINJaBNGN11dtj9lPU5UQLK5Xia0Up7oCFGOL2766MUwUeIOdF_cA379-xDyviNyo8v_pmsLwkj55CK8FqaukoDK4X4sc2PYcUolcGBVxqegznn4Om6JHFNVE2Zx1a_3x_XTchd5deiUwE3sQ8wCEWLn5uwnLAqYovkpOlseOoUvmKUONdC9UlpkSB5qQJ9ZdRSJ_Vg-IyFUCaBq9EkwMIAaQ==) Dont want to hear from us again? [ Unsubscribe from our emails here](https://link.the-ken.com/asm/?user_id=2349339&data=bm6SN-jEMC7azMmOJjzviDunwR2ZCdv2LMwJF13ExgtoMDAwdTAwMKEE0gBqLtJbFmQZvJFy5C6sCpqw07Q4Xu6-v28FlKlpUwhrurMfltVy0d5tq8NMmpxMGjVxfoPeBdleSanl31hvreLNYkGL-SBNnSiqDL7B-VfL5kNjxLFp4ppZPokMGcBpU8oB_taojrx8ikfVnbOcCmwiDp9UDmZeoGEXRZd_iXigW-02FA_NjtoLZ2LH_0wUJmpHmcG2gJhGcp3M6gJhO-0mH1Vz80rH82o9GMyFl2o_-Z24AQe5kp8nHrxPj5iBOIuGRnKQsxxdrt7xqthol5h7EDbrQWbsFidOAne1teMy6UBUKbVq8nAUot2-cbplYXGgm2gBajVy0lMV7ZXm_oQ2kJAHqFHKotJ9MUG6UeuyyXxI_GiuhPwJ-gsdV_cSeIXk8m_bZByIhyaiYQiiIO_xCawR4kKC9_gZC2vN4dYeirFdONit2okk-njsG-wvAU9jrHSWLWH-YZq32D3SN99dAUZOyvVdLMIQtnQ2fkHMLX4Wu0vBibmUPbtrJg==).
+Something wrong? Tell us at [support@the-ken.com](mailto:support@the-ken.com)

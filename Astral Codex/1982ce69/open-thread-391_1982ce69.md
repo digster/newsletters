@@ -1,0 +1,10 @@
+---
+subject: "Open Thread 391"
+from: "Astral Codex Ten <astralcodexten@substack.com>"
+to: ""
+date: 2025-07-21 12:10:38
+labels: ["Astral Codex", "CATEGORY_PERSONAL", "INBOX", "UNREAD"]
+label_ids: ["Label_6409723252142624155", "CATEGORY_PERSONAL", "INBOX", "UNREAD"]
+---
+This is the weekly visible open thread. Post about anything you want, ask random questions, whatever. ACX has an unofficial 1: Asterisk Magazine is launching an AI blogging fellowship for people who know things about AI and want to get into blogging. August 24 - October 6, remote, compatible with holding a different full-time job on the side. You will do Zoom calls with peers, mentors, and people who will motivate you to write things; at the end you will have some articles that will get published on Asterisk's website and some assistance in getting a longer-term platform. I’m one of the mentors; others include Dean Ball (White House AI senior policy advisor), Timothy Lee (Understanding AI) and Sam Bowman (Anthropic). Read more 2: Hackers have been targeting the AI safety community the past two weeks. Methods include phishing emails (asking people to log in to deal with critical safety issues, but giving a fake link that looks like the real website), email bombs, fake Google Calendar invites, and fake AI podcast invitations. Stay safe and don’t enter your password anywhere without confirming that it’s the site you think it is. 3: From ACX grantee
+IAA is promoting a technological solution - in ovo sexing - that lets farmers identify eggs by sex and only hatch the female ones. This is already widespread in Europe, but recently got its first American champion in NestFresh, available at Whole Foods in Southern California, Arizona, and Nevada now, and elsewhere later this year. Other companies are watching their performance - so if you support this effort, consider buying NestFresh eggs with the "Humanely Hatched" label. Read more You're currently a free subscriber to |

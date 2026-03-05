@@ -1,0 +1,140 @@
+---
+subject: "Thriving as a Founding Engineer: Lessons from the Trenches"
+from: "The Pragmatic Engineer <pragmaticengineer@substack.com>"
+to: ""
+date: 2024-03-26 17:18:17
+labels: ["CATEGORY_PERSONAL", "INBOX", "The Pragmatic Engineer", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_6413324878686416177", "UNREAD"]
+---
+👋 Hi, this is Gergely with a subscriber-only issue of the Pragmatic Engineer Newsletter. In every issue, I cover challenges at Big Tech and startups through the lens of engineering managers and senior engineers. If you’ve been forwarded this email, you can
+|
+Q: “I’m a software engineer joining an early-stage startup as one of the first engineers. What’s my job, how should I build the product, and how can I help my startup succeed?”
+It’s common for early-stage startups to hire “founding engineers,” who are so called because they’re among the very first recruits. A couple of distinguishing features of the role are generous equity packages (between 0.1 and 1% of company stock), and the fact that expectations are frequently broader than typical developer roles. [Apurva Chitnis](https://substack.com/redirect/e8e4ac2c-4c0f-491c-b4b7-4dede6406763?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) is the ideal person to tell us what makes being a founding engineer unique, and to answer questions in the kind of detail that only comes from being on the ground, doing it. And Apurva certainly has done it, almost on repeat:
+An early engineering hire at
+[Improbable](https://substack.com/redirect/6eede0a0-da1b-4c77-95c8-806625ccc2db?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o), a metaverse virtual worlds startup. Among the first 50 hires; stayed for 4 years, until the company reached 650 headcount.Founded Sidetrack, assuming the founding engineer and CTO roles. Sidetrack was an early-stage company focused on reducing cloud costs.
+Joined as a founding engineer at
+[Koodos](https://substack.com/redirect/63f99477-f6ba-4609-9b2a-6b1dcba6427a?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)(and later became their CTO), building an app called[Shelf](https://substack.com/redirect/02842b93-6b86-44c1-91bf-0b6dbb4b070b?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o). Shelf connects users with the media which they and their friends love (check out Apurva’s shelf[here](https://substack.com/redirect/31ac2dd4-a20e-4198-acd8-7ca1e2475ded?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)). His team currently consists of three founding engineers, and he remains hands-on.
+In this issue, Apurva covers:
+The goal of a founding engineer. Find product-market-fit (PMF) before the money runs out. It’s a race against time.
+Approaches for success. Choose engineering approaches based on how much uncertainty exists, balance scope/quality/timeline, and more.
+Tech debt. Startups can use tech debt to achieve a PMF quicker, in ways which large companies don’t. Tech debt can be an advantage early on, so use it!
+Talking to customers and end-users. Spend some time away from the code, interacting with customers and end-users directly.
+Process problems are features at startups, not bugs! Expect plenty of things to break, and fixing them to not be a priority. This may be purposeful, and you may encounter extreme cases, like a successful startup with no version control.
+Why join an early-stage startup. Impact, learning, seeing all parts of the business, and more.
+Why avoid early-stage startups. Long hours, compensation, and uncertainty are challenges.
+Finally, in the takeaways we’ll go over how Uber was almost shut down a few months after hiring its first mobile engineer, [Jordan Bonnet](https://substack.com/redirect/1ef77dc0-899f-46e1-bf93-33bb86749fbc?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o). He and I worked together for 2 years, including during the ride-hailing app’s epic [“YOLO” rewrite](https://substack.com/redirect/87dd05f2-71a0-43bf-9edf-40221967452a?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o). Jordan happens to be available for hire, so if you're looking to build a world-class mobile experience, then [reach out to him](https://substack.com/redirect/1ef77dc0-899f-46e1-bf93-33bb86749fbc?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)!
+The bottom of this article could be cut off in some email clients. [Read the full issue uninterrupted, online.](https://substack.com/redirect/41a1eaed-3fca-404b-97dc-3d3ebed5f79c?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+Relatedly, also check out [From the trenches: working at a startup vs in a Big Tech](https://substack.com/redirect/b774f54f-3435-4416-bf89-6f9c03776cf9?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o). To keep up with Apurva’s writing, [subscribe to his newsletter](https://substack.com/redirect/33a51ed1-d90b-4a28-b744-0fc65e15c5a8?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o).
+With that, it’s over to Apurva.
+Before discussing how to work at a startup as a founding engineer, let’s first define what a startup is. So, a short story.
+During my career, I’ve attended hundreds of all-hands meetings, when the whole team comes together for important company events, like introducing new recruits, strategy changes, and to share updates and successes. Among them all, one at Improbable has stuck with me.
+The chief of staff sketched out our financials in the all-hands; plotting costs, revenue, and predicted revenue growth. He combined them to calculate how our bank balance would change over the next year. This led to a painful realization: our startup was going to run out of money and go bankrupt – unless things drastically changed.
+This was a bold call to action for us all, to focus all our energy on projects that increased product usage and therefore revenue. Everything else had to be ignored!
+All startups begin as “default dead,” meaning their starting trajectory inevitably leads to bankruptcy. According to [a 2022 research by Startup Genome](https://substack.com/redirect/643c46f5-532a-4c5e-9fd9-fb6d434e0ce0?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o), 90% of startups fail and shut down. This is a truth you need to acknowledge and lean into: that if things don’t change, the business will fail.
+However, there is a proven path to avoid this outcome:
+Build something people want to use; aka finding
+[product-market-fit](https://substack.com/redirect/4af7019d-64c6-46ff-91dd-30cb04524c48?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)(PMF)Grow user base, also called finding
+[product-channel fit](https://substack.com/redirect/90069afb-6047-4f36-ba81-fdfa6c2c3267?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)Monetize usage and create a profitable business by following the steps above
+A software engineer’s responsibilities evolve with the company; from founding, to an exit via an IPO or acquisition, hopefully.
+As an engineer, your goal is to help your team achieve its goals. As a founding engineer, your team is the company, so the first priority is to build something people want. This is the product-market fit. Without PMF, companies struggle to grow, retain users, raise funding, and become profitable. If no PMF is identified, startups end badly.
+Your goal is to find this all-important PMF, and don’t let anyone tell you otherwise. This constraint affects all aspects of a founding engineer’s work:
+Technologies used. Be pragmatic. This generally means using standard, ‘boring’ technologies you're familiar and proficient with, instead of shiny, unproven technologies.
+Managing technical risks. Do this while balancing short and long-term priorities. Using your knowledge of the product and tech to pragmatically balance risk, short term features, and longer term enablers.
+Getting user feedback. Talk to users early and often. Go deep to understand their motivations, behaviors, and what they're trying to achieve.
+Attitude towards bugs, technical debt, and product quality. That phrase again: be pragmatic. Use technical debt tactically to accelerate development, and use opportunities to pay it off as you build.
+The software development life cycle. Startups have many superpowers to use to their advantage. The ability to iterate fast is one, so use it! The development life cycle is generally much shorter and simpler than at larger companies – see more in
+[Quality Assurance Across the Tech Industry](https://substack.com/redirect/ad851997-7ac7-4810-af1b-462bb25bdfaa?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o).Collaborating with others. Working with design, user research, sales, and other teams. These are your partners; you're collectively trying to solve the problem of finding the PMF.
+Relationship with end users and customers. See this as a collaboration in jointly building a delightful product.
+Using data for product decisions. At an early-stage company with few users, qualitative user research (talking to users to gauge their needs and motivations,) is essential because it's the only way to understand them deeply enough to build what they want. Conversely, quantitative research like data and statistics about aggregate or longitudinal user behaviors, is valuable later for measuring retention and growth.
+If you’re working in a leadership role, the need to find PMF also affects how you build and organize your team:
+How you manage
+How you prioritize features and set product strategy
+How you set technical strategy
+Who you hire
+It’s necessary to think beyond writing code, building features, and solving user needs. A founding engineer’s aim is to build out a company-wide system which enables the business to find its PMF.
+Remember, you’re a founding employee. Success means achieving PMF for the company, and then taking it to the next level. Make this your focus when taking decisions!
+As a founding engineer, there are countless decisions to make which impact the product and tech stack, such as:
+How scrappy or polished is the minimum viable product (MVP)
+Whether to outsource functionality to a vendor, or build and maintain it in house
+Whether to build fast and dirty, or with scale and future requirements in mind
+So, how do you make these choices, and how do decisions change as a product evolves? A founding engineer must make them pragmatically, using knowledge of the business, product, and users, for guidance.
+Begin by taking these factors into account during design decisions:
+Users’ needs and product’s value to them. How well do you understand your users and their needs, and how confident are you that the product meets them? If your answer is “not very well” – which is likely in the early days – then it’s best to avoid technical decisions which are expensive or limit flexibility.
+Product roadmap and vision. Use your knowledge of the roadmap and the uncertainty it contains, to guide how you build enablers which support upcoming features.
+Your team’s expertise. The more knowledge and expertise your team has in a technology, the more confidently you can make bold, complex design choices using it. Stick to what you know well!
+Tech debt. Is tech debt a continuous source of bugs which limits engineering velocity? If so, building a new feature might be an opportune time to pay down tech debt (we cover this in the next section.)
+You’ll notice most of these constraints are external to engineering; they’re about the business itself!
+Prioritize flexibility during uncertainty. The younger a startup is, the more “cloudy” are the user, product, value proposition, channels, and business model. Early decisions are based on high-level vision and intuition about what should work. As you test ideas in the real world, you’ll need to iterate fast. So, as an engineer, prioritize flexibility in your decisions so the product can change rapidly and evolve.
+As you iterate and the product (hopefully) moves towards PMF – not usually a straightforward process! – you develop more understanding of its requirements, meaning you can justify investing time in building an architecture that targets users’ needs and the product’s aims.
+Your decisions must evolve with the product. The right decision on day 1 is almost certainly not the right one on day 365. This was our experience of building our app, Shelf, over the past year. As a reminder, Shelf is an app that connects users with the media they and friends love.
+Start simple. We started with a basic [data model](https://substack.com/redirect/795439af-0680-46d0-a9db-cde1403aac9e?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o). New songs a user listened to, TV shows and movies they watched, and books they read, were stored as new rows in an append-only table called activity
+:
+This spartan data model allowed us to build a highly-functional minimum viable product (MVP.) It was even flexible enough for us to implement new features, including ones we didn’t think of building our MVP, such as weekly recap, which allows users to see a summary of the media they had consumed in the past week; and history, which allows users to see other songs, books, tv shows and movies that had previously been on their Shelf.
+Notice the cracks. However, as our product became more functional and complex, cracks started to show:
+Implementing new features took ever longer, dragging down engineering velocity.
+Fetching data resulted in complex queries to the database, which were increasingly sluggish and challenging to write. Getting the top songs, artists, and so on for weekly recap often required aggregating 1000s of rows of data and performing complex joins and logic. The user experience became noticeably laggy.
+Bugs were hard or even impossible to solve, resulting in poor user experience. For example, users wanted to see how the book that they’re currently reading changed over time. Our data model simply didn’t store this data in an easy-to-retrieve way, and so we couldn’t display it to them!
+Migrate when it’s really necessary. Too many of these issues piled up for us, so we decided to migrate to a data model better suited to the product’s and the engineering team’s needs. By this point, we had a better understanding of our app, its constraints and opinions, and the abstractions we wanted to work with as engineers. Given this context, we were able to design a more effective data model.
+There were two key insights. The first was to store history
+as a first-class concept in the data model. In particular, we stored how a user’s top song, top album, recent TV show or book changed over time:
+Understanding how a user’s top artist changed became as simple as digging into two rows of data in this table. Previously, we’d had to aggregate thousands of rows in the activity
+table!
+The second key insight was to store progress, such as play counts, pages read, and current episodes, as a first-class object in our data model:
+Understanding a user’s progress through a TV show, movie, book, etc, was much easier, as we simply needed to look up the relevant row!
+Building this new data model required much greater investment in time to design and implement it, compared to data model v1. Our work paid off, though. The new data model allowed us to build new features faster and at higher quality.
+When we started building Shelf, many things were uncertain. We didn’t really know which features would resonate with users, and our vision of the app was blurry. But after a year, we had gained more certainty about the product’s direction and we were able to make more “expensive” decisions with greater confidence, such as investing in a better data model.
+Building features is one way to help a business achieve its goals, but it’s not the only thing in your toolbox. Founding engineers use tools which have nothing to do with code, at all!
+At Sidetrack – a company I cofounded to reduce cloud hosting costs – my most productive period was when I wrote very little code. This was early in the company's lifecycle, when we believed we could reduce cloud costs by shutting down virtual machines that had low utilization, thereby saving their expense. But how could we test this hypothesis?
+Building an MVP of a working product would have taken months. We were in the business-to-business (B2B) market, and our target customers were large enterprises with several dedicated infrastructure teams. These orgs would obviously not let us run a service that wasn’t properly tested and vetted. There was also the problem of sales; even if we did pull off a rock-solid MVP, we didn’t have anyone to sell it to!
+So, step one was to find companies potentially interested in working with us, as we built the real version of the product. Here’s how we went about locating them:
+Find customers. Pinpoint businesses spending too much on infrastructure.
+Get their attention. Demonstrate how much they could save with our product.
+Collaborate with them. Work alongside them as we built an MVP and a production-ready version.
+Step 2 was key for progressing to PMF. We had no problem finding customers, but we needed to get their attention. Otherwise, there was no point building anything.
+Instead of starting to build the “real” product, I wrote a scrappy Python script. This script demonstrated to users how much money they were wasting. The script only took a few hours to write and was very simple. It had two inputs: the workloads our users wanted to run, and their CPU and memory demands, and also the infrastructure they were able to run on, and their CPU and memory supply. The script calculated the minimal infrastructure needed to run these workloads, solving the [bin packing problem](https://substack.com/redirect/02f94a5c-1692-45cc-879a-b226904a5853?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) using an off-the-shelf optimisation [library](https://substack.com/redirect/e81e2037-1880-4e78-a910-c8259a1dbf49?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o).
+We then ran this script to calculate how much potential customers were wasting on unused compute. The results were surprising: we found teams were paying up to 4-5x too much, even when accounting for surge capacity! Simply having this information got people excited enough about a real version of our product to sign prospective contracts to continue working together.
+These companies were then happy to spend time talking with a young startup because they saw value in our approach. This scrappy script also validated the existence of demand for our solution, not just for securing early customers. This commitment was gold dust when it came to raising investment from VCs, who wanted to see early signs of traction and market validation.
+As a founding engineer, the job is to do what it takes to help the company reach its next milestone. This lesson was clear, even as later, we pivoted from cost optimization to something [better suited](https://substack.com/redirect/2d8a39dd-fbd0-49be-b18d-571a09e9b511?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) to our backgrounds in product management and engineering. In this example, this meant being creative to get people’s attention.
+It also involves other things, such as:
+Developing hacky scripts and prototypes, over insisting on shipping production-ready code
+Proactively working with sales and marketing, automating tedious and manual workflows, or creating powerful new ones.
+Not limiting interactions to fellow engineers.
+Talking to users to better understand their needs and to build community; not assuming founders or product folks do this task.
+Building dashboards to analyze data and provide visibility into key metrics, instead of accepting limited information.
+Improving internal processes, instead of adapting to broken ones.
+Writing documentation, FAQs, and guidelines, which help users use your product, instead of assuming they know how to use it correctly.
+Think broadly about your role and contribution as a founding engineer. Don’t limit yourself – mentally or otherwise – to working on product features!
+Often, you want to a build a product feature that is:
+Complex (broad scope)
+Bug-free (is of high quality)
+Quickly built
+My concrete experience is that you cannot do all three with limited resources, so the pragmatic approach is to choose two. But which ones? It depends on your company and the market. For startups, “quickly” and “high quality” are often the preferred solution because they force you to reduce scope.
+You should choose high quality over broad scope at a startup because an unreleased feature is a gamble. You don’t know for sure it will have the impact you expect until it’s released and users’ reactions are in. Implementing functionality takes time, obviously. Reducing scope allows you to learn from users and to iterate fast, giving you time to quickly test another hypothesis and approach if the first doesn’t work.
+Reducing scope is also a great forcing function to focus on the core of your idea, pushing you to cut everything that isn’t core. Being able to ruthlessly cut unneeded functionality is a hallmark of an effective founding team.
+When deciding the scope, a founding engineer can – and should! – provide context on what gives the best “bang for your buck.” It’s rare for a founding engineer to own the decision of what’s in or out of scope: the founder or product manager owns this decision. However, founding engineers can – and should! – provide context to the product person about which features are the most time-consuming to build, and why. The best founding engineers help their team understand feasibility and complexity, even before the feature is designed, and especially before engineers start building.
+This kind of conversation is a regular one at my current startup. Just last week, we decided to de-scope a new feature called “stories.” We cut the scope to limit the feature to current users. The “stories” feature won’t be shown to new users we onboard to the initial version.
+At Improbable, my first project was to check the correctness of the distributed game engine we were building. I did this by performing an integration test. I outlined my thinking in a design document, listing the taks:
+Run different instances of the game engine, simulating real-world users playing a game with tanks, where each player controls a tank and aims to destroy other tanks.
+To mimic the chaotic environment of a real-world game, I would add non-player character (NPC) tanks.
+Use artificial intelligence (AI) for NPC agents to interact with one another like real-world players would.
+Human players are smart, so I decided I need “smarter” AI. I used reinforcement learning to guide NPC tanks to choose targets, using the learnings from runs to continuously improve strategy. I’d spent the previous year building theoretical machine learning models like this, so figured it was the perfect experience to utilize.
+Satisfied with my thorough approach, I shared my proposal with teammates in the expectation of receiving congratulations. Instead, I got immediate pushback! Someone said building would take too long, someone else said it would be near-impossible to maintain the custom reinforcement model-based AI, and another didn’t even think I could make it work, and that it was probably unneeded, anyway.
+It turns out I didn’t actually need all this complexity; I didn’t need a complicated, reinforcement model-based AI, even though it would be fun to implement. The goal of the project was to answer the question:
+“Is our distributed game engine working or not?”
+A very simple simulation would do, wherein tanks interacted with each other using a very simple, rule-based logic (if-then-else). I built this in a fraction of the time that reinforcement model-based AI takes, and finished the project in a couple of weeks, not several months.
+It’s tempting to reuse old technologies and patterns – but avoid this temptation. Reusing what I already knew was exactly what I was doing: I had just finished my engineering degree, and spent the year prior building theoretical machine learning models – including reinforcement learning. It was instinctive to use that tool for a design challenge, and I’ve seen this so many times at early-stage startups:
+Using an approach that worked at a large or mid-sized company
+Copying an approach or using a new product from Hacker News
+Taking an approach from university or bootcamp that was taught as the ‘right way’
+I don’t recommend copying old approaches, as they often come from very different environments:
+Typically post-PMF
+In a different market or geography
+At a company with a different technical history
+A different product
+A different problem from the one you’re solving
+Don’t forget, all startups and companies are different. If you know which technologies are appropriate for your context, then great – use them! If not, carefully reflect on why technologies you used in previous experiences worked, and whether they’re actually appropriate now.
+A final note on the tech stack; as an engineer, you likely take pride in things like writing elegant code using TypeScript, and managing your infrastructure using Kubernetes. However, users and the business don’t care about this! All they care about is impact: the usefulness of the product, and whether it solves their problems.
+Become a paying subscriber of The Pragmatic Engineer to get access to this post and other subscriber-only content.
+| Full articles every Tuesday and Thursday | |
+| Access to resources and templates for engineering managers and engineers | |
+| Access to the complete archive, see all comments and comment on articles |

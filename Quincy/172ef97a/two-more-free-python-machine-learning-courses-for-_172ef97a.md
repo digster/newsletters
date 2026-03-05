@@ -1,0 +1,35 @@
+---
+subject: "Two more free Python Machine Learning courses for you: Keras + SciKit-Learn"
+from: "Quincy Larson <quincy@freecodecamp.org>"
+to: ""
+date: 2020-06-26 07:46:31
+labels: ["CATEGORY_PERSONAL", "INBOX", "Quincy"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_7697778124671848699"]
+---
+Here are this week's five links that are worth your time:
+
+1. This course will teach you how to use Keras, a popular Python library for deep learning. You'll build and train a neural network, then deploy it to the web using Flask and TensorFlow.js. (3 hour watch): https://www.freecodecamp.org/news/keras-video-course-python-deep-learning/
+
+2. And this course will teach you Scikit-Learn, another powerful Python Machine Learning library. You'll learn Linear Regression, Logistic Regression, K-Means Clustering, and more. And you'll build your own app that can recognize handwritten digits. (3 hour watch): https://www.freecodecamp.org/news/machine-learning-with-scikit-learn-full-course/
+
+3. How to pass Google's TensorFlow Developer certificate exam, explained by a developer who just passed it. (15 minute read): https://www.freecodecamp.org/news/how-i-passed-the-certified-tensorflow-developer-exam/
+
+4. How to code eight essential graph algorithms in JavaScript (20 minute read): https://www.freecodecamp.org/news/8-essential-graph-algorithms-in-javascript/
+
+5. And finally, learn some spicy SQL with these five easy recipes. “I like to think of WHERE, JOIN, COUNT, and GROUP_CONCAT as the salt, fat, acid, and heat of database cooking.” (7 minute read): https://www.freecodecamp.org/news/sql-recipes/
+
+
+Quote of the Week: “You can have data without information, but you cannot have information without data.” — Daniel Keys Moran
+
+
+If you are one of the 5,727 people who donate to our nonprofit each month, thank you for supporting our mission. If you'd like to join the ranks of these kind human beings, you can set up a tax-deductible donation here: https://www.freecodecamp.org/donate
+
+
+Happy coding.
+
+- Quincy Larson
+
+Teacher at freeCodeCamp.org
+
+
+If these emails aren't worth your time, you can turn them off: https://www.freecodecamp.org/ue/eZV2T3gHC7IGcwcpYPG64

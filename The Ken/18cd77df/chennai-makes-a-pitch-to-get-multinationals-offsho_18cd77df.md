@@ -1,0 +1,19 @@
+---
+subject: "Chennai makes a pitch to get multinationals’ offshore centres back. If only it had the talent"
+from: "The Ken <info@the-ken.com>"
+to: ""
+date: 2024-01-05 02:40:03
+labels: ["CATEGORY_PERSONAL", "INBOX", "The Ken", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_8244464457792971031", "UNREAD"]
+---
+Good Morning Ishan,
+Hot and happening—that’s how Chennai is described by Srikant Tiwari, the spook played brilliantly by Manoj Bajpayee in Amazon’s hit thriller series The Family Man.
+He might as well have been referring to the investment scene in and around the capital city of Tamil Nadu, India’s most industrialised state. From iPhone contract manufacturer Foxconn to auto major Hyundai, scores of global giants have made a beeline to the Southern metropolis and its outskirts over the years.
+The city will be hoping to double down on the momentum during the Tamil Nadu Global Investors Meet 2024, which starts on Sunday. Chennai will be playing host to investors from over 30 countries during the two-day event. Billions of investment dollars and thousands of jobs are being eyed across sectors.
+There’s a race, though, where Chennai lags peers such as Bengaluru and Hyderabad—by many a mile—and is trying hard to catch up. It’s the one involving multinationals’ offshore centres or global capability centres (GCCs) in industry jargon. Ironically, Chennai had a head-start in this many moons ago but then fell behind.
+What went wrong? Narayanan, the author of today’s story, finds that the big fly in the ointment is talent—at once, both a strength and a weakness for the city’s GCC ambitions. Is it a lost cause? Can Chennai be everything for everybody? Or should it play to its strengths and be hot and happening for a few?
+Find out the answers in today’s well-reported story: [https://the-ken.com/chennai-makes-a-pitch-to-get-multinationals-offshore-centres-back-if-only-it-had-the-talent/](https://the-ken.com/chennai-makes-a-pitch-to-get-multinationals-offshore-centres-back-if-only-it-had-the-talent/?utm_source=daily&utm_medium=email&utm_campaign=daily_newsletter) (14-minute read)
+Regards,
+Anand
+What you just read is the personalised daily introduction to The Ken's story. Written by a different person each day. Often insightful, sometimes witty, and very rarely boring. Someone sent this to you? [Sign up for free](https://the-ken.com/?modal=register&utm_source=footer&utm_medium=email&utm_campaign=morning_email_ind). [Dont like these? You can unsubscribe](https://link.the-ken.com/asm/unsubscribe/?user_id=2349339&data=YvYfqqnHoFcsjo_jXQH_CRjE0UXwufKkSiNyOs-8FQZoMDAwdTAwMC0dDilb7jfXGXgxvvppB1Wix6bj_fQsRuxOZ9TQP1iDXPzqwNIGUwtZyRybX8335UbRJ_uVYGJtvrvu_9wHW33DYRHKAManci0QMarNJPZzO2-Bzrax0sUXlOw60CP8MWELnerSZZf-2klA-j4IZQC4ARd9ADyw8grfY_ZG4ejROPiiNvC2X3uPh6QYpxjcOtZ-N8On7zhgGQrU3QYxPJWv7J4jiq-mqJc94deMVlkKSlzEIehUeM7i5EgrFhvdvW2gvtswGO8R3rWCNRdNwXaC2ZRwbyHYYlMWYK2JKWh0dTI3NaRakfStHvORskgKwt5_gKQ2aAi-cUoIS-CZX2OreUq84QeQTWmKUf6xyikwuwc95Qif4crYnb3si3kI0EE8gCsw1I5L0DJj8a6R7kZLGd_VIv0xZb8tIp2tuQCkXU03g_ZsIcHYSDyGHKQ7adCTGqfT-qefnrU5dHS4dgkaR8if8ARsEwjeEzU39NK_GI_cS4KlJ0_yC0oz561cQDy2kK7B17VL6MVuckqH9eE=) Dont want to hear from us again? [ Unsubscribe from our emails here](https://link.the-ken.com/asm/?user_id=2349339&data=AqIeOMKZ0kwkkop4psOMPKaIq_voUz-mSlTuA-mIEctoMDAwdTAwMNUFrKYFT8VqNR5XNFcMc8vf-Omdc4OOjfDWpqF766HwIdVOiIBkpwDg1kT7cEk6z12ytvFulK2zpXFLDKRhORaT-PK4YxzarHqZGzINsl0jHKM6rrZmDr8gFbLTKbiVuLUN9N9gJSWXRKMawsfXfxSguVz2URoIJoUZVTlpdmGr_9mnedZ2vrSFY691jlCFtreOnr2R-j8xmdxXLBgHDOuE-NWSP08J0zPjudQhOTb5nXhMPnPTFE4VskFCeyng9AopQzAtJiRBVVTparPF5gjCLDyD3em9iZm0hvr8bdk62IxANNls1cRRuXI0t5XHZ3QfYlNEHd4n63WehE1kiBxvSgHiPeo7amLUIohzltTMGfizzNsDW28ovnx_Z31OJBvkTf6h3b0tSLus3ilBvU3iiw74_A55RKv7KHA1IIHzg1291dCC5lmq2HL-r7Q9T-pxl37vvyDnW89sWADncPM_QQvOjjcZWniwFzEHopq252h-Bxnay0Gr_9BF4cbJOA==).
+Something wrong? Tell us at [support@the-ken.com](mailto:support@the-ken.com)

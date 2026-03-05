@@ -1,0 +1,9 @@
+---
+subject: "The Subscribe Now Edition"
+from: "\"Why is this interesting?\" <whyisthisinteresting@substack.com>"
+to: ""
+date: 2024-05-01 10:02:06
+labels: ["CATEGORY_PERSONAL", "INBOX", "UNREAD", "WITI"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "UNREAD", "Label_5752899537867939131"]
+---
+Colin and Noah here. Since the beginning of WITI, we’ve experimented with everything from classifieds to having brands sponsor to underwrite the publication. Today, we are going to start a more formalized paid subscriber push. Wednesdays will be paywalled and we will have a dedicated weekend send for subscribers. For five years (!) we've published 4-5 times per week from a wide range of voices and topics ranging from Going forward, we want to be more expansive in our thinking of what WITI can be: think live events in multiple markets, one-off interesting experiences (e.g. a listening night in a loft hosted by one of the best We will also continue improving the editorial product that you’ve come to enjoy. The first step happened earlier this year when we enlisted the expertise of editor WITI has been a generative journey for us. More subscribers means the ability to underwrite more experimentation and chase our curiosity where it leads. We would love your support. — Colin and Noah. P.S. If you’re already subscriber, thank you. Also, anyone that has written for us has a lifetime membership. Hit us on DM in the WITI Slack if you need it. And if, for any reason, you would like a comp, Invite your friends and earn rewardsIf you enjoy Why is this interesting?, share it with your friends and earn rewards when they subscribe. |

@@ -1,0 +1,17 @@
+---
+subject: "Of birth, death and cows"
+from: "The Ken <info@the-ken.com>"
+to: ""
+date: 2019-03-26 02:35:55
+labels: ["CATEGORY_PERSONAL", "INBOX", "The Ken", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_8244464457792971031", "UNREAD"]
+---
+Good Morning Ishan,
+Animal health over human health? Cattle constituency (no pun intended, the [outrage](https://www.thehindu.com/news/national/Tharoorrsquos-cattle-class-tweet-annoys-Congress/article16881830.ece) over the politician Shashi Tharoor’s reference to ‘cattle class’ is fresh in memory) over women constituency? The hare-brained decision of the Modi government to ban the private sector manufacturing of a lifesaving drug and confine it to ONE public sector company can be seen only in one light: in favour of the ‘holy cows’.
+How else would you justify this decision in a country which needs 160,000 ampoules every day for 71,232 births (26 million births every year). Every single labouring woman needs it, without exception. As many as 80 companies were producing it before the ban hit them midway through last year. The govt’s logic was that private companies were illegally diverting the drug for other uses, such as injecting cows with it to accelerate milk production.
+Three pharma companies and one patient activist group challenged the decision in the Delhi High Court and won. Today, the Supreme Court will decide if the ban was in public interest or in cattle interest. The government has surely flexed its muscles. The Solicitor General, India’s second-most senior law officer, has been pressed into action—first in the Delhi HC and then in the SC.
+But the entire chain of events, including sudden raids on some private producers, can’t survive the moral dragnet that the government has spun. The claimed production capacity and the dispatch numbers don’t match. In the midst of all this, the central government is determined to disinvest in the PSU, Karnataka Antibiotics & Pharmaceuticals Ltd.
+Legally speaking, the case outcome today could set a precedent. Generally, ban orders under the said Act leave very little room for the judiciary. But here, the Delhi HC intervened because there wasn't enough supporting evidence.
+Suraksha, today's author, says Maneka Gandhi, the Women and Child Development Minister, has attended every hearing even though she’s not party to the case. Or maybe she is. Because she wrote to the health ministry and called oxytocin the “the single main disease-giving drug in India”. Really? Read the story here: [https://the-ken.com/story/birth-death-cows-india-oxytocin/](http://link.the-ken.com/wf/click?upn=HQSq6eeRV1xAVaGuFOahuNCZVVXPeP-2FJpSqxhvIUDrmuKPqqt7ekAQaEIQ27cIUDyZPxALrwWHUWfvTVorG05lh2mxgO3LA-2BJM6-2BQ8Jp3rrxcfkqA7ojmng0ZU-2Fl624Qo1009QH-2F4bWchvNdbA9a5AdApFiRu6D76A60US1IVNyuOOEQUPbRPM7RL4g5LRmc_S4jLOsNx-2Fv6Jev2nvow8b7P9pBCWGd8KNZfb200gkZLQNlXQHio0noZzXtsWoloZmPWeyZsh7a4QCV9ufwCUKi00jlBT0uEdvwYDMuVuqcPuAl2MyKRS8Uhd9aNrnv1PsA9AdSnlhFCj-2BrsqoTsNYAnUdYCBMqpKE2T4gok4v5sukgj3Xno-2FlZTCDCM-2F8tTv7L8y3-2FPjLxSzCc4kdDv10HbuxlwEP3DRg-2BQoMqypV3QccMZDM0h50XxvuU90tJ-2F5jkt4JaUO4lzU7b8Mp8w4dMC-2BzMwpCX4PIm2-2BNNb2k5f0cT15b98M-2F3WN7br0MSHSGYDLt8uIUO0yfp30omWk4OLofFX48lMVZ7k2N3R6GMa6B3VVSQQRMpvsn-2Bba-2FzOuwFheAOavRc8waiJSi5DMntMn5UgFYjBpkTjiCVfq27dqE01yrOvOv8yDbWcMSETr)
+It’s a free story, please share it widely.
+Warm regards,

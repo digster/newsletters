@@ -1,0 +1,13 @@
+---
+subject: "The business of birding"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2025-09-07 05:37:15
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+You cannot really trust economic impact studies, but still they give a rough sense of orders of magnitude:
+Birding is a growing hobby nationwide, especially since the pandemic—and as in Ohio, U.S. birders are an impressive economic force, according to the latest federal data.
+[A November 2024 report]from the U.S. Fish and Wildlife Service (FWS) reflects staggering numbers: There are an estimated 96 million birders in the United States—more than a third of U.S. adults—who together spent more than $107 billion in 2022. In total, that’s more money than the 2022 gross domestic product of New Hampshire (and 10 other U.S. states). Those dollars purchased equipment such as binoculars, feeders, and cameras, funded hobby-related trips, and covered other costs large and small, such as plant purchases, subscriptions, field guides, and campers. They also supported 1.4 million jobs and generated billions more in local, state, and federal tax revenue....“I was expecting to see expenditures in the billions, but did not expect it to amount to more than $100 billion,” says Tobias Schwoerer, an applied economist at the University of Alaska Fairbanks. In
+[a separate study], he and his coauthor, former Audubon Alaska executive director Natalie Dawson, found that birders spent nearly $400 million a year and supported thousands of jobs in Alaska alone.
+Here is [the full piece](http://marginalrevolution.com?action=user_content_redirect&uuid=c38d52d7959176b70604651b16bcf5436590ab40eb6e8159d80078803cf24ca8&blog_id=42693868&post_id=91410&user_id=262258391&subs_id=225460721&signature=739ff91239a76d00b9b01447fe3a95ae&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly93d3cuYXVkdWJvbi5vcmcvbWFnYXppbmUvYmlyZGluZy1ib29taW5nLWhvYmJ5LWFuZC1iaWctYnVzaW5lc3M&email_id=fa08b90e7d220eb5e09a722d148f203c). Via [Holly Cowen](http://marginalrevolution.com?action=user_content_redirect&uuid=cb8a1622c366f5dc8a5857e8b84ab8125e1d2bc53e7a49ca0ba4581eb11170dc&blog_id=42693868&post_id=91410&user_id=262258391&subs_id=225460721&signature=619b805da39df3be5fe30638c7f10b1b&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly93d3cubm9ydGhqZXJzZXkuY29tL3BpY3R1cmUtZ2FsbGVyeS9uZXdzLzIwMjEvMDQvMjQvaGF3dGhvcm5lLXBob3RvZ3JhcGhlci1ob2xseS1jb3dlbi1maW5kcy1wZXJmZWN0LW5pY2hlLWJpcmRzLzczNTYxMjIwMDIv&email_id=fa08b90e7d220eb5e09a722d148f203c).

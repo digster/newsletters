@@ -1,0 +1,75 @@
+---
+subject: "Why Being a Generalist VC Is a Competitive Advantage | Aydin Senkut (Founder and Managing Partner at Felicis Ventu…"
+from: "The Generalist <thegeneralist@substack.com>"
+to: ""
+date: 2025-12-09 13:03:49
+labels: ["CATEGORY_PERSONAL", "INBOX", "The Generalist", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_8815311452832858585", "UNREAD"]
+---
+|
+“Every single good thing happened in my life on the back of some disappointment or failure. Those rejections became rocket fuel.”
+— Aydin Senkut
+Two decades ago, Aydin Senkut was a first-time fund manager with a thin track record to show prospective backers. LPs didn’t believe a solo GP, especially one without experience at a legacy firm, could build a lasting franchise.
+They were wrong. Today, Felicis is a Silicon Valley mainstay on its 10th fund, a $900M vehicle. Across its history, Felicis has backed a slew of winners, including Shopify, Canva, Crusoe, and dozens of other billion-dollar outcomes. Rather than specialize over time, Aydin has remained a true generalist, investing across markets and cycles. In this conversation, we dig into the frameworks, stories, and philosophies that shaped Felicis into what it is — and where Aydin believes the next decade of technology is heading.
+We explore:
+How growing up in Turkey with entrepreneur parents shaped Aydin’s approach to risk and investing
+Lessons from working alongside Larry Page and Sergey Brin during Google’s early days
+Why Felicis deliberately chose a generalist strategy when most VCs were specializing
+How international experience became a competitive advantage in finding global winners
+The mathematical case for portfolio diversification (50-70 companies per fund)
+Why valuation concerns are often overblown when revenue growth is exponential
+Felicis’s aggressive AI investment strategy and what other investors are missing
+The future of robotics and physical AI through companies like Skild AI
+Why learning and adapting rapidly is Felicis’s constitutional principle
+([00:00](https://substack.com/redirect/f30c7a30-a6f4-4a33-827a-c51edbf1c0c7?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) Introduction
+([03:09](https://substack.com/redirect/619c458c-6315-4946-820c-d1eb0030f046?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) How Aydin made his way to Silicon Valley
+([06:15](https://substack.com/redirect/63a874da-a3b7-4293-9e28-a7ad5825a37e?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) What he learned from his entrepreneurial parents
+([08:55](https://substack.com/redirect/2f647a96-c557-4c93-b2c5-2c73c63bec3a?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) Learnings from the early days at Google
+([15:05](https://substack.com/redirect/317c2622-e950-419d-8a37-0f7dd08d48fd?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) The childhood roots of his investing philosophy
+([16:31](https://substack.com/redirect/19787ef5-9226-4a3f-a230-e8e6d570bdd5?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) Why rejection became a catalyst for his venture career
+([19:28](https://substack.com/redirect/53033a72-d7ec-4873-bfec-6795118d7af4?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) Strategy behind Felicis’s first $41M fund
+([25:44](https://substack.com/redirect/63de8450-f616-42a6-a29f-b5623fd36072?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) How his international background became an investing edge
+([28:17](https://substack.com/redirect/36524c3f-9469-4d7a-9152-32a7febd14b2?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) How Aydin approaches diversification at scale
+([32:08](https://substack.com/redirect/c7d6ed2f-0570-4641-91b1-a4fc703f73f7?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) How he sizes investments based on conviction
+([33:15](https://substack.com/redirect/3d3b430a-e222-4f4e-b3af-32390d49691c?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) Generalist vs. specialist investing
+([38:23](https://substack.com/redirect/437f7b6a-5aa2-4632-9bb1-1c78a60aed1f?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) Why founders are the foundation
+([42:48](https://substack.com/redirect/8d591543-3e12-43c6-becc-e08693c28bc6?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) Why success may look different than expected
+([43:46](https://substack.com/redirect/6099c0c1-a236-4295-bfad-0951b7d4627d?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) The Felicis journey
+([48:18](https://substack.com/redirect/d00a116d-5dbe-4e3b-be51-ecebc95e1893?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) Why Felicis is going all in on AI
+([54:54](https://substack.com/redirect/025f54ce-0473-4fa4-b3a1-4db0bde32504?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) Why entry point matters less than potential
+([57:33](https://substack.com/redirect/7ead4c0f-cec8-44a9-9f15-c57624e861ca?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) How the AI bubble debate misses the point
+([59:47](https://substack.com/redirect/cf5d5d51-1bde-4771-b144-206851907bd8?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) What makes Skild AI a standout company
+([01:04:58](https://substack.com/redirect/14e962ad-b563-4335-b5e1-2f758613d566?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) The AI bets Felicis missed
+([01:07:55](https://substack.com/redirect/e6c43ec6-5eee-428c-8b69-29d4169444ca?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) How missing Airbnb and Uber led to backing Adyen
+([01:11:20](https://substack.com/redirect/9f8f5361-922a-418a-a024-a3af55177c6e?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) Final meditations
+LinkedIn: [https://www.linkedin.com/in/aydins](https://substack.com/redirect/eccad0cc-9311-4480-a97c-d869a34b298e?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+Antifragile: Things That Gain from Disorder:
+[https://www.amazon.com/Antifragile-Things-That-Disorder-Incerto-ebook/dp/B0083DJWGO](https://substack.com/redirect/a344bf78-7c66-4790-bd15-05ac070f409b?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)Clear Thinking: Turning Ordinary Moments into Extraordinary Results:
+[https://www.amazon.com/Clear-Thinking-Turning-Ordinary-Extraordinary/dp/0593086112](https://substack.com/redirect/eaf0c930-4e03-4378-83bc-36c65e7f0993?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+Larry Page:
+[https://en.wikipedia.org/wiki/Larry_Page](https://substack.com/redirect/7eadb6f0-1089-4238-b77c-3d2bd99f52c7?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)Sergey Brin:
+[https://en.wikipedia.org/wiki/Sergey_Brin](https://substack.com/redirect/59c9b55a-e860-432b-b70e-ffd8689e215e?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)Eric Schmidt:
+[https://en.wikipedia.org/wiki/Eric_Schmidt](https://substack.com/redirect/dcba65a5-11d3-4119-ab6e-e735b265ec25?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)Brian Chesky on X:
+[https://x.com/bchesky](https://substack.com/redirect/53342505-e1cc-4e04-be3c-a0c203ab07cd?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)Shane Parrish’s blog:
+[https://fs.blog](https://substack.com/redirect/4c30401d-9b03-432a-a81d-595bbd6c061c?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+Felicis:
+[https://www.felicis.com](https://substack.com/redirect/6213fbe9-6adf-4716-b6cd-40053a0d7d72?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)Mastering Portfolio Construction:
+[https://www.generalist.com/p/mastering-portfolio-construction](https://substack.com/redirect/e265a972-f89a-4eca-a6ae-4b79a8c66de5?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)Steve Jobs’s quote on focus:
+[https://www.goodreads.com/quotes/629613-people-think-focus-means-saying-yes-to-the-thing-you-ve](https://substack.com/redirect/ef628eec-15ee-43ee-b07a-272bb3aac9ec?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)Angry Birds:
+[https://www.angrybirds.com](https://substack.com/redirect/e98885fa-c8e8-46f9-99b4-f6a542edba45?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)Rovio:
+[https://www.rovio.com](https://substack.com/redirect/1f15cc5e-1f19-4c47-af71-1a9a77cbb07b?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)Adyen:
+[https://www.adyen.com](https://substack.com/redirect/b36f7cb8-17e6-4090-829a-00faa6999b0b?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)Canva:
+[https://www.canva.com](https://substack.com/redirect/28c9a694-a290-4987-a59f-a3830529c7e2?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)Shopify:
+[https://www.shopify.com](https://substack.com/redirect/d4dfdfff-ed1c-4d89-9c14-12a7e9dc27a8?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)Nan:
+[https://www.nan.xyz](https://substack.com/redirect/392aeac3-1dfe-4c1b-b5c9-10160833fe1d?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)Tines:
+[https://www.tines.com](https://substack.com/redirect/5e368f23-7c00-4a9d-8a78-22807cb47731?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)Crusoe:
+[ttps://www.crusoe.ai](https://substack.com/redirect/b2de91e6-08d0-4752-bd08-8d87f929e54e?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)Supabase:
+[https://supabase.com](https://substack.com/redirect/f6ac468b-dcec-41d3-a2cc-1f9de5b4920f?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)Skild:
+[https://www.skild.ai](https://substack.com/redirect/e56bbbfa-43bf-46d5-963a-4786dd972672?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)Anthropic:
+[http://anthropic.com](https://substack.com/redirect/f40eb5f6-f1e3-417a-b57a-f37f449586bf?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)OpenAI:
+[https://openai.com](https://substack.com/redirect/43f0e0b9-5480-462b-90b0-6062ef8d1370?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)Mistral:
+[https://mistral.ai](https://substack.com/redirect/f1c7f75d-cbe1-4f66-8db9-32e08dff75ec?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)Airbnb:
+[https://www.airbnb.com](https://substack.com/redirect/b88416a5-459f-4bcb-8810-dbac6f1df0f5?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+I’d love it if you’d subscribe and share the show. Your support makes all the difference as we try to bring more curious minds into the conversation.
+Production and marketing by [penname.co](https://substack.com/redirect/7f39e94d-feef-4917-b6ed-19fac9aadad7?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o). For inquiries about sponsoring the podcast, email jordan@penname.co.
+You're currently a free subscriber to [The Generalist](https://substack.com/redirect/62d9171b-b0fe-4434-ba52-166194ca3d95?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o). For the full experience, [upgrade your subscription.](https://substack.com/redirect/2/eyJlIjoiaHR0cHM6Ly93d3cuZ2VuZXJhbGlzdC5jb20vc3Vic2NyaWJlP3V0bV9zb3VyY2U9cG9zdCZ1dG1fY2FtcGFpZ249ZW1haWwtY2hlY2tvdXQmbmV4dD1odHRwcyUzQSUyRiUyRnd3dy5nZW5lcmFsaXN0LmNvbSUyRnAlMkZ3aHktYmVpbmctYS1nZW5lcmFsaXN0LXZjLWlzLWEtY29tcGV0aXRpdmUtYWR2YW50YWdlJnI9OG81NG4mdG9rZW49ZXlKMWMyVnlYMmxrSWpveE5EVTJNek14T1N3aWFXRjBJam94TnpZMU1qZzFOak0yTENKbGVIQWlPakUzTmpjNE56YzJNellzSW1semN5STZJbkIxWWkweE5UYzJOQ0lzSW5OMVlpSTZJbU5vWldOcmIzVjBJbjAuQ05ZTUU2YzdtS205TXVXdkp6TlpQQUp3Ull3WEpjaU9WMEEwbFNicG1CdyIsInAiOjE4MDI1Nzc3NiwicyI6MTU3NjQsImYiOnRydWUsInUiOjE0NTYzMzE5LCJpYXQiOjE3NjUyODU2MzYsImV4cCI6MjA4MDg2MTYzNiwiaXNzIjoicHViLTAiLCJzdWIiOiJsaW5rLXJlZGlyZWN0In0.c91wEZu7Mtvwidxitwj3I235V7DShKp-z9L0wntMLXc?&utm_source=substack&utm_medium=email&utm_content=postcta)

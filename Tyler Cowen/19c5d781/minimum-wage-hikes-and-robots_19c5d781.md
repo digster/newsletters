@@ -1,0 +1,10 @@
+---
+subject: "Minimum wage hikes and robots"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2026-02-14 18:44:35
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+This paper studies how minimum wage policy affects firms' adoption of automation technologies. Using both state-level measures of robot exposure and novel plant-level data on industrial robot imports linked to U.S. Census microdata from 1992-2021, we show that increases in minimum wages raise the likelihood of robot adoption in manufacturing. Our preferred identification exploits discontinuities at state borders, comparing otherwise similar firms exposed to different wage floors. Across specifications, a 10 percent increase in the minimum wage increases robot adoption by roughly 8 percent relative to the mean.
+That is [from Erik Brynjolfsson, et.al., including Andrew Yang](https://marginalrevolution.com?action=user_content_redirect&uuid=fc6bfc981434bf131cf3f26a21596f7633f4732ee3078b44c9c879ed17b926b9&blog_id=42693868&post_id=92408&user_id=262258391&subs_id=225460721&signature=e07750c585e3cf918c46492bc06850cb&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly9wYXBlcnMuc3Nybi5jb20vc29sMy9wYXBlcnMuY2ZtP2Fic3RyYWN0X2lkPTYxODQ3OTg&email_id=a16ecfeaa3e79830eab7b5c444df075e). Via the excellent [Kevin Lewis](https://marginalrevolution.com?action=user_content_redirect&uuid=a242a357f6865c0886dd491c86fecff8f8e29dc185d32857727d7de1daeb2be1&blog_id=42693868&post_id=92408&user_id=262258391&subs_id=225460721&signature=e4158483154f756b3226527b7fe93bbd&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly93d3cubmF0aW9uYWxhZmZhaXJzLmNvbS9ibG9nL2RldGFpbC9maW5kaW5ncy1hLWRhaWx5LXJvdW5kdXAvdG91Z2gtdGFsaw=&email_id=a16ecfeaa3e79830eab7b5c444df075e).

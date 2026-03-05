@@ -1,0 +1,10 @@
+---
+subject: "AI Futures: Blogging And AMA"
+from: "Astral Codex Ten <astralcodexten@substack.com>"
+to: ""
+date: 2025-04-24 07:18:42
+labels: ["Astral Codex", "CATEGORY_PERSONAL", "INBOX", "UNREAD"]
+label_ids: ["Label_6409723252142624155", "CATEGORY_PERSONAL", "INBOX", "UNREAD"]
+---
+AI Futures Project is the group behind [Beyond The Last Horizon](https://substack.com/redirect/6cdf66b4-4db6-4f40-97b4-74207742aaa8?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)- what’s behind that METR result showing that AI time horizons double every seven months? And is it really every seven months? Might it be faster?[AI 2027: Media, Reactions, Criticism](https://substack.com/redirect/749d0f7a-6b63-4751-8247-ee4352d70b23?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)- a look at some of the response to AI 2027, with links to some of the best objections and the team’s responses.[Why America Wins](https://substack.com/redirect/c7d36c98-1481-43c2-be85-0c16cbfc7baf?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)- why we predict that America will stay ahead of China on AI in the near future, and what could change this.
+I will probably be shifting most of my AI blogging there for a while to take advantage of access to the team’s expertise. There’s also I’m especially happy with the horizons post, because we got it out just a few days before a new result that seems to support one of our predictions: OpenAI’s newest models’ time horizons seem to be on the faster curve we predicted, rather than the slower seven-month doubling time highlighted in the METR report: And speaking of expertise, the AIFP team have kindly volunteered to do an AMA (“ask me anything”, Q&A) here on ACX, this Friday, 3:30 - 6:00 PM California time. If you have any questions on the scenario, AI forecasting, or AI safety more generally, they can give you high-quality answers. I’ll post a separate thread at the appointed time. You're currently a free subscriber to |

@@ -1,0 +1,113 @@
+---
+subject: "I Went On A Think Week—9 Learnings"
+from: "\"Sahil Bloom's Curiosity Chronicle\" <sahil@sahilbloom.com>"
+to: ""
+date: 2026-01-28 14:08:38
+labels: ["CATEGORY_PERSONAL", "INBOX", "Sahil Bloom", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_1989028747625928812", "UNREAD"]
+---
+9 Reflections From My "Think Week" Retreat
+watch on [YouTube](https://a01c829f.click.kit-mail6.com/27uo6kkm80hoh8lmlvoupfgz5m744hghmz72m/48hvhehmwwg98osx/aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g_dj1RSlQtY0tPanNFTQ==) or read and listen on [sahilbloom.com](https://a01c829f.click.kit-mail6.com/27uo6kkm80hoh8lmlvoupfgz5m744hghmz72m/wnh2hghqmmg4p9i7/aHR0cHM6Ly93d3cuc2FoaWxibG9vbS5jb20vbmV3c2xldHRlci85LXJlZmxlY3Rpb25zLWZyb20tbXktdGhpbmstd2Vlay1yZXRyZWF0)
+read time 8 minutes
+Welcome to The Curiosity Chronicle, a newsletter where I provide actionable ideas to help you build a high-performing, healthy, wealthy life.
+Forwarded this email? Join 800,000+ other readers [here](https://a01c829f.click.kit-mail6.com/27uo6kkm80hoh8lmlvoupfgz5m744hghmz72m/reh8hohmkkx7r2b2/aHR0cHM6Ly93d3cuc2FoaWxibG9vbS5jb20vbmV3c2xldHRlcg==).
+Apple CEO Tim Cook called my first book "a powerful call to action to think deeply about what lights you up." Join 400,000+ other readers and get it now on a big sale!
+|
+In Partnership with [Kit](https://a01c829f.click.kit-mail6.com/27uo6kkm80hoh8lmlvoupfgz5m744hghmz72m/m2h7h5h322e9pnhm/aHR0cHM6Ly9wYXJ0bmVycy5raXQuY29tL3NhaGlsYmxvb20tMDEyODI2)
+I added 23k subscribers in 90 days
+The best growth hack? Stop going it alone.
+[Kit Recommendations](https://a01c829f.click.kit-mail6.com/27uo6kkm80hoh8lmlvoupfgz5m744hghmz72m/m2h7h5h322e9pnhm/aHR0cHM6Ly9wYXJ0bmVycy5raXQuY29tL3NhaGlsYmxvb20tMDEyODI2) connected me with creators in my space who actually get what I'm building. We cross-promote each other's newsletters, and suddenly both our audiences are growing faster than they ever did solo.
+Here's the thing: creators who use Recommendations see 2x the list growth compared to those flying solo. You're not begging algorithms to surface your content or praying someone stumbles onto your page. You're getting quality subscribers from creators who already vouch for your work.
+It turns out the opposite of competition isn't just collaboration—it's exponential growth.
+|
+9 Reflections From My "Think Week" Retreat
+Two weeks ago, I went on a “Think Week” retreat.
+The plan for the retreat was simple:
+- 3 days
+- Limited connectivity
+- Unstructured schedule, no meetings
+- Question prompts as catalysts to zoom out
+- Focus on deep conversations, journaling, thinking, and reflecting
+To say the experience was transformative would be an understatement.
+Here were my 9 most important reflections and learnings:
+Note: If there’s interest, I’ll share a breakdown of my Think Week structure and prompts so you can conduct your own Think Week (or Think Day) in the coming months. Just reply YES to this email if you’d be interested in reading that!
+1. Your identity is rented, not owned.
+Nothing is permanent in this world. You don’t deserve it today because you had it yesterday. You have to do the thing. Chop wood, carry water. Show up and do the work. Rent is due every single day.
+I can’t call myself a writer if I don’t write. I can’t call myself a leader if I don’t lead. I can’t call myself a builder if I don’t build.
+Author Derek Sivers has [a great line](https://a01c829f.click.kit-mail6.com/27uo6kkm80hoh8lmlvoupfgz5m744hghmz72m/z2hghnhe55w7vwbp/aHR0cHM6Ly9zaXZlLnJzL2V4cGlyZQ==):
+“Keep earning your title, or it expires…Holding on to an old title gives you satisfaction without action. But success comes from doing, not declaring.”
+Who you were yesterday is not guaranteed. You have to earn it.
+2. It’s perfectly reasonable to love the chaos.
+Life has felt a lot like a crazy bull ride recently. A lot of moving parts. A lot of ideas in motion. A lot of big things in the works. I’ve felt overwhelmed far too often.
+But I also have to be honest:
+I love it. I love the chaos. And maybe that’s ok.
+I’ve learned that about myself.
+I’d rather be riding the bucking bronco than sitting in the stands wondering what it’s like to be in the arena.
+My point here is this: It's ok to lean into things that seem wrong to others if they feel right to you.
+3. You find your quest by solving puzzles.
+Everyone needs a quest. But quests don’t just appear magically before you.
+The reality is that you uncover quests through taking action. You can’t plan your way into your quest. You have to act your way into it.
+And that action often looks like working through a bunch of hard problems.
+I’ve found a simple reframe around this that I love:
+Puzzles > Problems
+Problems feel daunting.
+But puzzles are fun. They’re engaging. They’re exciting.
+Look in front of you. Identify a puzzle that seems interesting. Solve it. If you solve enough interesting puzzles, your quest will reveal itself in due time.
+4. Stop making unforced errors.
+The worst mistakes in life are the ones that are entirely self-inflicted—and the truth is that most mistakes are. They’re unforced errors.
+The forces conspiring against you are very real:
+Social media feeds convince you that you’re falling behind or living a mediocre existence compared to everyone around you. A barrage of ads convince you that you’re one purchase away from living the life you deserve. Algorithms tell you that you’re not enough.
+All of this pushes you silently, subconsciously towards the cliff…
+But it’s important to remember that no one is forcing you to do anything in life. No matter what the influences look like, you are still in control of your actions.
+You don’t have to take that financially stressful vacation. You don’t have to overextend yourself to buy that fancy thing. You don’t have to live above your means. You don’t have to take actions that are out of alignment with your values. You are at the wheel.
+If you avoid unforced errors in your finances and life, you’ll find a way to win.
+(P.S. I found that tracking my spending led to notable improvements in unforced error avoidance. My wife and I are longtime users of [Origin](https://a01c829f.click.kit-mail6.com/27uo6kkm80hoh8lmlvoupfgz5m744hghmz72m/p8heh9h4rrxd08bq/aHR0cHM6Ly9hcHAudXNlb3JpZ2luLmNvbS9zaWduLXVwL2R0Yz9wdWxzZV9jcD1zYWhpbGJsb29tJnB1bHNlX21kPW5ld3NsZXR0ZXImcHVsc2Vfc2M9aW5mbHVlbmNlciZwdWxzZV90bT1haV9hZHZpc29yJnV0bV9jYW1wYWlnbj1zYWhpbGJsb29tJnV0bV9tZWRpdW09bmV3c2xldHRlciZ1dG1fc291cmNlPWluZmx1ZW5jZXImdXRtX3Rlcm09YWlfYWR2aXNvcg==) for this. We liked it so much that we invested. I think it’s the best tool out there.)
+5. You have to change your mind.
+I’m increasingly convinced that the willingness to change your mind is the ultimate sign of intelligence.
+The most impressive people I know change their minds often in response to new information. It’s like a software update.
+The goal isn't to be right. It's to find the truth.
+And you can’t do that if you’re dogmatic about your beliefs.
+6. Whenever you feel stuck, reclaim your agency.
+The next time you feel stuck, think about one tiny action that would reassert your control over your life.
+For me, the simplest version of this is with my calendar:
+I’ll add structure to my days. I map out what I’m going to do for an entire day in 30 minute increments. It doesn’t have to be the “right” stuff. It just needs to be something. Then, I’ll stick to it for a full day.
+It immediately creates a feeling of control. It builds momentum. You’ve reclaimed your agency.
+7. Get the rocket ready before you light the fuse.
+Small issues on the ground become big issues in the air.
+Make sure your rocket is in sound working condition on the ground before you start the launch countdown.
+That means taking care of the basics in your life. Sleep 7+ hours per night. Eat whole, unprocessed foods. Move your body for 30 minutes per day. Connect with someone you love on a daily basis. Clear your mind.
+If you take care of the basics, you’ll be ready for the crazy forces that a “launch” places you under.
+8. Having fun is a legitimate competitive advantage.
+When you’re having fun, you’re more likely to give your full attention and energy to something. You’re more likely to do it for a long time. You’re more likely to be willing to do the boring basics that most people skip.
+Lean into the things that feel fun. It’s the clearest edge you can find.
+9. Compounding is the only true shortcut.
+I often say that there are no shortcuts in life. But that’s not quite true.
+Compounding is a shortcut.
+As you progress, each unit of input produces a larger unit of output, because it benefits from all of the units of input that came before it.
+It’s a shortcut in the realest sense of the word—but you have to be willing to keep showing up, because the moment you stop, the shortcut disappears.
+The Think Week
+Psychologist Viktor Frankl once said:
+“Between stimulus and response, there is a space. In that space is our power to choose our response.”
+Our power is in the space that we can create between stimulus and response.
+My “Think Week” was a transformative experience. It didn’t require any special talent or intelligence—just that I create the space for the transformation to occur.
+Because here’s the truth:
+The growth you seek is found in the space you avoid.
+P.S. If you're interested in the structure and prompts I used so you can conduct your own Think Week (or Think Day) in the coming months, just reply YES to this email and I'll share it in an upcoming piece!
+Order My First Book to Unlock Exclusive Bonuses:
+The 5 Types of Wealth is the compass for your journey to a life of wealth that goes far beyond money. It provides the actionable tools to define, measure, and design your life around the pillars that truly create lasting happiness and fulfillment.
+It will help you find your True North and build your life around it.
+Order now and you'll unlock several new, exclusive bonuses:
+- Access to my Most Powerful Life Hacks Ebook: 50 timeless insights for simplifying your world and living well.
+- Access to The 5 Types of Wealth Digital Community: Join a vibrant group of like-minded individuals committed to creating a life of comprehensive wealth. Connect, collaborate, and grow together.
+- Access to The 5 Types of Wealth Launch Workshop: Get exclusive access to the full recording of this transformative virtual workshop, where I’ll guide you through specific exercises designed to help you apply the principles of the book. Watch it anytime at your convenience!
+Sahil's Recommendation Zone
+|
+Join me by starting one healthy habit to kick off 2026: [AG1](https://a01c829f.click.kit-mail6.com/27uo6kkm80hoh8lmlvoupfgz5m744hghmz72m/qvh8h7hdeenv5mcl/aHR0cHM6Ly9kcmlua2FnMS5jb20vc2FoaWw=)!
+I started taking [AG1](https://a01c829f.click.kit-mail6.com/27uo6kkm80hoh8lmlvoupfgz5m744hghmz72m/qvh8h7hdeenv5mcl/aHR0cHM6Ly9kcmlua2FnMS5jb20vc2FoaWw=) way before it was trendy or anyone knew about it––in 2011 when I needed to up my health game while playing college baseball. I was one of their first customers and fell in love with it. I took it consistently for over 10 years before asking the CEO for a link to share with family and friends.
+The newly upgraded [AG1 Next Gen](https://a01c829f.click.kit-mail6.com/27uo6kkm80hoh8lmlvoupfgz5m744hghmz72m/qvh8h7hdeenv5mcl/aHR0cHM6Ly9kcmlua2FnMS5jb20vc2FoaWw=) is backed by four clinical trials and features five clinically studied probiotics, functional mushrooms, and whole food-sourced nutrients to support gut health, immune function, and sustained energy.
+[AG1](https://a01c829f.click.kit-mail6.com/27uo6kkm80hoh8lmlvoupfgz5m744hghmz72m/qvh8h7hdeenv5mcl/aHR0cHM6Ly9kcmlua2FnMS5jb20vc2FoaWw=) is offering my amazing Curiosity Chronicle subscribers a FREE Welcome Kit including Vitamin D3+K2 and AG1 Travel packs when you first subscribe.
+|
+Sahil Bloom
+|
+|
+|

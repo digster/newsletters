@@ -1,0 +1,18 @@
+---
+subject: "For Bajaj Finance, health is wealth"
+from: "The Ken <info@the-ken.com>"
+to: ""
+date: 2019-09-24 02:35:52
+labels: ["CATEGORY_PERSONAL", "INBOX", "The Ken"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_8244464457792971031"]
+---
+In the not-too-distant past, consumer durables lending was a pariah. At least for banks. Low ticket loans and high operational costs—especially with regards to recovery—meant the risk to reward ratio simply wasn't enticing.
+Then Bajaj Finance came along.
+Today, the Pune-based company accounts for a fifth of consumer durables lending in the country. It has grown into a veritable behemoth, with a market cap larger than Axis Bank's and fast closing in on India's largest bank, SBI. Consumer durables lending, it seems, was a goldmine just waiting for a prospector.
+But with the country sliding further into an economic slowdown and consumer demand on the wane, what does a consumer durables lending giant do?
+It focuses on something recession-proof. Healthcare. Or, in the case of Bajaj Finance, medical loans.
+It isn't just the slowing economy, of course. Bajaj estimates that the medical loans market could be larger than the consumer durables and digital products lending markets combined. Not surprising when you consider that Indian patients spend some Rs 3,20,000 crore on healthcare annually—about 65% of total health spends in the country.
+But it isn't as simple as identifying the opportunity. The healthcare space is a tricky one. Not only must Bajaj learn the nuances of navigating it, but it is also up against nimble startups with medical loans as their sole focus. All this and more in today's story by Ruhi; read it here: [https://the-ken.com/story/bajaj-upstarts-healthcare-loans/](http://link.the-ken.com/uni/wf/click?upn=HQSq6eeRV1xAVaGuFOahuNCZVVXPeP-2FJpSqxhvIUDrldOCBoNkXChjSTrugbfEk7sTh0kKxTwOAPhIhBVlc6Zczm9dLbMwrJdgX529nK-2BAjz3BQb11hfGxTZ-2Fnndnyr-2BFgBVZIORFKFJT-2Flb5kIuZ9fDt9oQW-2BpxmuY6iN6aR9Dven11LSMzFHcjN12KYgkU_S4jLOsNx-2Fv6Jev2nvow8b7P9pBCWGd8KNZfb200gkZLQNlXQHio0noZzXtsWoloZmPWeyZsh7a4QCV9ufwCUKi00jlBT0uEdvwYDMuVuqcOHXw-2FQcSIez6HhQQHl0KWzpWrLUbHdFZumt1kubLOptF6phMWObqCDW9MmtYyRpT3cYCmP8-2F5FwJVneY7mO903QCcBefXspVUfNLcyMHbLdXl7qzvNFC2FxhLt5-2FrtFQWOZtmiz6QO5rC72K-2FLz3JtwUbL-2FALv1jhkyfI2DxfJbpIJNEFm2ivIz9635rqVXuT4RxPv3EUMuGuRibCuUcep3NRC783T9n-2B8r7GaFXIPBMnsI7fg15xW7ei-2FYCz50GeU-2B6vA6ZcsFqAIRNn8nYRa79MDDqupOuriQKRoUP6pLR8wYqQ5TgABu11-2BH39o8zH-2FQUGXtqLgt4iV1L9sYwUd) (12-minute read)
+Regards,
+Ranjan Crasta
+PS: For the past few days, we've consistently made a story free for a day for a select group of people - each time, a different cohort. Today, we'll be extending this offer to the employees of Lendingkart, CapitalFloat, Bajaj Finserv, Morgan Stanley, TPG—if you work here, you can read our last story [on Five Star Finance and unsecured lending](http://link.the-ken.com/uni/wf/click?upn=HQSq6eeRV1xAVaGuFOahuNCZVVXPeP-2FJpSqxhvIUDrm1kvGEhgu1KOR6aLTW0g-2F5GhzeiWMT6zonEk7TBsxlQcTgZOBqhyMss0GISIAKGxf35OKA0EhVzr-2BSFPw4qpswsE1CKhC3oJC-2BFMxs0zNtdzDjLa-2F7vm4ZgI8-2BUF1M8Hy2tomIHqaJZnGVsitJ-2FUlypXqrX0OXkI2zwMMDMgUPjTd9QMwfDw8zThQ80vIXOUo-3D_S4jLOsNx-2Fv6Jev2nvow8b7P9pBCWGd8KNZfb200gkZLQNlXQHio0noZzXtsWoloZmPWeyZsh7a4QCV9ufwCUKi00jlBT0uEdvwYDMuVuqcOHXw-2FQcSIez6HhQQHl0KWzpWrLUbHdFZumt1kubLOptF6phMWObqCDW9MmtYyRpT3cYCmP8-2F5FwJVneY7mO903QCcBefXspVUfNLcyMHbLddPU3qakob4CW2eVke-2FPzVAo8X4FpXfd38vbW6cvObzXQfursi5UrTI0403y904PHhfT-2BvvItHn077t3sNmLGE7TdX7R12tbmfkjcDP4RUpm6NPYsVJjZgQBR7Q3CGMggah7hS4pBkq3JP1qKAC9Uf8W228z7ieiQAplorKOQz-2FrOyAhF6a-2BmxO133Nvn-2BuoM7rxqu1yRRF4TdS-2Bsu-2BsG6EH9FQNqVRqhG1k8nU-2BGT8X) for free!

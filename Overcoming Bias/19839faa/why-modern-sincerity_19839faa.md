@@ -1,0 +1,9 @@
+---
+subject: "Why Modern Sincerity"
+from: "Robin Hanson from Overcoming Bias <overcomingbias@substack.com>"
+to: ""
+date: 2025-07-24 01:09:20
+labels: ["CATEGORY_PERSONAL", "INBOX", "Overcoming Bias", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_8616244883382228708", "UNREAD"]
+---
+In May I read and The book’s big question is why the modern world has to a great degree moved from ritual-based to sincerity-based ideals. Long ago people primarily understood their ideals in terms of more specific model behaviors, described in matching stories and trained in matching rituals. But today, we tend to understand our ideals more in terms of ideal internal states of belief, motivation, and emotion. For example, we’ve described ideal internal states of love, spirituality, national allegiance, revolutionary fervor, and social activist commitment. While we’ve seen a big change on this in the last few centuries, this process was also happening slowly long ago. For example, Saint Paul talked In my prior post, I noted that faster social change pushes our our values to be specified at higher levels of abstraction if they are to generalize to new situations, and that internal states offer such higher generality. But faster change only happened in the last few centuries, while this whole process started long before then. Other explanations that I’ve considered are driven by increasing wealth, but that also only happened in the last few centuries. So I now lean toward this explantion: humans have been long been learning how to better describe and see their interior states, and this sharper view has led us to tell stories, and describe our ideals, in terms of these interior states. The rate of this learning may have sped up in last few centuries, but it started long before then. You're currently a free subscriber to |

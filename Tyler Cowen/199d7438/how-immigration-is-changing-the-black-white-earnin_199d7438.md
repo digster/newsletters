@@ -1,0 +1,10 @@
+---
+subject: "How Immigration is Changing the Black-White Earnings Gap"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2025-10-12 07:12:31
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+We provide new evidence on earnings gaps between non-Hispanic White and three generations of Black workers in the United States during 1995-2024, using nationally representative data. Results reveal remarkable earnings advances among 2nd-generation Black immigrants, opposite to the well-documented widening in overall Black-White earnings gap. Among women, 2nd-generation Black workers have earnings higher than or equal to White women; among men, they earn 10% less at the median, but the gap vanishes at the top decile. The gap for 1st-generation Black men is shrinking, halving at the top decile; for 1st-generation Black women it shows initial widening then shrinking at the median. The native Black-White gap remains stubbornly high. Educational attainment largely drives 2nd-generation success, while residential patterns play a protective role for the 1st and 2nd generations. These findings provide critical data to set the record straight on the accomplishments of the highly successful and rising demography of Black immigrants and their US-born children.
+That is from [a new NBER working paper](http://marginalrevolution.com?action=user_content_redirect&uuid=c24928ae32b33b38ab002a66570c4df85fb8d88a088dbb635d788e6baa75bb21&blog_id=42693868&post_id=91644&user_id=262258391&subs_id=225460721&signature=ae0997f335d315df0942b97781d08b57&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly93d3cubmJlci5vcmcvcGFwZXJzL3czNDMyNw=&email_id=5ceaf24182064610adf5d9e45941c2ad) by Rong Fu, Neeraj Kaushal, and Felix Muchomba.

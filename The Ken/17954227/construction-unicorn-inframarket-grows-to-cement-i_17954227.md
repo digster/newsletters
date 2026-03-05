@@ -1,0 +1,27 @@
+---
+subject: "Construction unicorn Infra.Market grows to cement its position"
+from: "The Ken <info@the-ken.com>"
+to: ""
+date: 2021-05-10 02:36:53
+labels: ["CATEGORY_PERSONAL", "INBOX", "The Ken"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_8244464457792971031"]
+---
+Good Morning Ishan,
+Concrete, steel, construction material. Traditionally not the sexiest of businesses. But one company has managed to add 'Chemical X' to this construction concoction (re: solid funding) and become a unicorn.
+Unicorn-dom has become commonplace in most other industries, but this is a first for the construction industry in India. And the company in question, Infra.Market, has seen an over 5X jump in valuation from November last year to hit that coveted $1 billion post-money valuation mark.
+The five-year-old construction materials supplier, funded by investors such as Accel and Tiger Global, has achieved this on the back of a two-pronged business approach. It's both a B2B player—connecting builders with vendors and selling them products under its own brand—and a retail chain with 180 stores, mostly in Maharashtra.
+Here's how it works. Infra.Market identifies infrastructure projects, and gives the companies building these projects a heat map of manufacturers in a 50 km radius. But instead of multiple vendors for concrete, stones, and chemicals, the contractor only has to deal with Infra.Market—which keeps its branding front and centre while handling all the legwork.
+Retail accounts for 20% of the company's revenue, which it plans to grow to 50%, with the rest coming from infrastructure projects.
+And while the company has cemented its place in the few states it operates in, it is now looking to expand. Its modus operandi is to compete with the unorganised players in every new region it enters, since the big national brands control under 50% of the market. The rest becomes Infra.Market's playground.
+“It would be stupid for me to take on Tata Steel and JSW Steel. We look at players like [the smaller] Bhagwati Steel in the west," co-founder Aaditya Sharda said to Seetharaman, the author of today's story.
+But every new market has its own playbook. This otherwise profitable company now needs steel itself to tackle some of these expansion challenges. You can read it here: [https://the-ken.com/story/infra-markets-billion-dollar-building-blocks/](https://the-ken.com/story/infra-markets-billion-dollar-building-blocks/?utm_source=daily_story&utm_medium=email&utm_campaign=daily_newsletter) (10-minute read)
+Regards,
+Durga
+[durga@the-ken.com](mailto:durga@the-ken.com)
+|
+What you just read is the personalised daily introduction to The Ken's story. Written by a different person each day. Often insightful, sometimes witty, and very rarely boring. Someone sent this to you? [Sign up for free](https://the-ken.com/sea/?modal=register&utm_source=footer&utm_medium=email&utm_campaign=sea_morning_email). Don't like these? You can [unsubscribe](https://link.the-ken.com/asm/unsubscribe/?user_id=2349339&data=9ggbZZT9on64gNm8aRS7i6w1kpC3DvDadU_vTDaWJpFrwH6eRCeOwXWecF5Wa4C0b1UtlL-rfwYot5-MquUUQCkpLXtpHNhOuYTpK-cYdMZFWZI2oRMb6Suxt_w47xG_e676jBGIk_3eeN9mTePesoT1VSwjXlSDLb7HKAnuOWQ3-31WlZ7M9uSyXC3o8Fw0CObB2huffpSZ8BF-fuUq3XyCioDMe2KNlEXSYqj_UG7cuki8dSwcCpmmVaLAwFtetkQLkWzJz3OToYpfyyGeChuvKH0jm54XA7ZCi0Q3g9QyDJNQ67bM9Zd7TSrK200jQ-4_laH15McBIVWoDe09inYnzpJN2LO2CRN1gwBO8AEMxuDB_WAEGC4dRR3-X_cUE10hU7AijHCv2bZSx2AE8p1qpnWKzEG2Vv8L_XRmTNfpGZXddGA0EA-cgdv8WeXYxI6IiMaufh2yy6fg81J7Hf8OXODao58B44dgzrptK4xZUH5YwfP2RsEa-AuCG-xNvR6gGrt8DxVcUOa1gSWVCNTec38OnK20LPdct8haoKI=). Want to manage your emails? Click [here](https://link.the-ken.com/asm/?user_id=2349339&data=8eJJDyPLoxop9TLaUgsytefTitvcgiGuPPFNupP4FSdnF1ok2SOv7FjgRNkuqL8Buz8D7FGSWEix4BCvsZBpL8O0rLQ7W2wtG-PiHBWXl3LQ7V8ekP_SqiN-7T8icJHLPH8HXyxj0D8PyM6ks3vGKG8tdi0hHYkFea-tDzMIhBVJSDlNZZnK88HnBw2pRYzBPQXy9UYS72lwqT-oVZaPoqV6UCvM3pmG-blQ9ORpi48MrZAsyl2XvFWylxSgIMg2cMJ6qWP9Et-9BLICSPI3UPxdGn5Cjfz-xv6qFOV1MHOABGbpPBgLIEnIl3QfVGAlALT80M6_pIjpeSo-kGXdozQY5PSTq39yEjvAQLVh1WMlTW4oLHrHiqFOyVmqPU0CERda5ofoh91md7T_5igSn2rOSxiAjchZz5FlI6s146m449Wu0UACafxVsjsPDQ4t0cm3Sfasfy3Q8XDR-qS-tyNL7fXIpz7mkp3Xm-66MBqrCyEh-cv6ecBs_zb4-OYv1nqlcbAL7xPSfCZKY1RTXQ==).
+|
+|
+|
+|
+|

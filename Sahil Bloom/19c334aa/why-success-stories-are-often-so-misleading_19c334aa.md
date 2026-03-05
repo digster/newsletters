@@ -1,0 +1,97 @@
+---
+subject: "Why Success Stories Are Often So Misleading"
+from: "\"Sahil Bloom's Curiosity Chronicle\" <sahil@sahilbloom.com>"
+to: ""
+date: 2026-02-06 14:10:54
+labels: ["CATEGORY_PERSONAL", "INBOX", "Sahil Bloom", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_1989028747625928812", "UNREAD"]
+---
+The Dangers of Survivorship Bias
+watch on [YouTube](https://a01c829f.click.convertkit-mail4.com/0vu3pkknlga9h9vwmqdikfv88r855snhn6pvn/kkhmh6hnzo3477cl/aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g_dj0tdHFMdHhzbUN5UQ==) or read and listen on [sahilbloom.com](https://a01c829f.click.convertkit-mail4.com/0vu3pkknlga9h9vwmqdikfv88r855snhn6pvn/58hvh7hg34z3ppi6/aHR0cHM6Ly93d3cuc2FoaWxibG9vbS5jb20vbmV3c2xldHRlci90aGUtZGFuZ2Vycy1vZi1zdXJ2aXZvcnNoaXAtYmlhcw==)
+read time 9 minutes
+Welcome to The Curiosity Chronicle, a newsletter where I provide actionable ideas to help you build a high-performing, healthy, wealthy life.
+Forwarded this email? Join 800,000+ other readers [here](https://a01c829f.click.convertkit-mail4.com/0vu3pkknlga9h9vwmqdikfv88r855snhn6pvn/25h2hoh3lqelrvu3/aHR0cHM6Ly93d3cuc2FoaWxibG9vbS5jb20vbmV3c2xldHRlcg==).
+Mel Robbins called my first book "a powerful wake-up call that will push you to rethink everything about how you’re spending your time." Join 400,000+ other readers and get it today on a big sale!
+|
+Everyone should be using this $1 financial tool: [Origin](https://a01c829f.click.convertkit-mail4.com/0vu3pkknlga9h9vwmqdikfv88r855snhn6pvn/g3hnh5hmg0kg7nbr/aHR0cHM6Ly9hcHAudXNlb3JpZ2luLmNvbS9zaWduLXVwP3B1bHNlX2NwPXNhaGlsYmxvb20mcHVsc2VfbWQ9bmV3c2xldHRlciZwdWxzZV9zYz1pbmZsdWVuY2VyJnB1bHNlX3RtPWFpX2Fkdmlzb3ImdXRtX2NhbXBhaWduPXNhaGlsYmxvb20mdXRtX21lZGl1bT1uZXdzbGV0dGVyJnV0bV9zb3VyY2U9aW5mbHVlbmNlciZ1dG1fdGVybT1haV9hZHZpc29y)
+A rule that applies to everything in life: You can't improve what you don't track. So, a few years ago, my wife and I started using [Origin](https://a01c829f.click.convertkit-mail4.com/0vu3pkknlga9h9vwmqdikfv88r855snhn6pvn/g3hnh5hmg0kg7nbr/aHR0cHM6Ly9hcHAudXNlb3JpZ2luLmNvbS9zaWduLXVwP3B1bHNlX2NwPXNhaGlsYmxvb20mcHVsc2VfbWQ9bmV3c2xldHRlciZwdWxzZV9zYz1pbmZsdWVuY2VyJnB1bHNlX3RtPWFpX2Fkdmlzb3ImdXRtX2NhbXBhaWduPXNhaGlsYmxvb20mdXRtX21lZGl1bT1uZXdzbGV0dGVyJnV0bV9zb3VyY2U9aW5mbHVlbmNlciZ1dG1fdGVybT1haV9hZHZpc29y), and it completely changed how we manage our money and wealth. In fact, I loved it so much I convinced the CEO to let me invest!
+It NAILS the basics (all your accounts in one place for tracking and insights), but also has a range of new AI tools that are incredible, like an AI advisor to ask all your money questions and an AI budget builder.
+I've literally signed up all my family and friends...and you're next.
+[Origin](https://a01c829f.click.convertkit-mail4.com/0vu3pkknlga9h9vwmqdikfv88r855snhn6pvn/g3hnh5hmg0kg7nbr/aHR0cHM6Ly9hcHAudXNlb3JpZ2luLmNvbS9zaWduLXVwP3B1bHNlX2NwPXNhaGlsYmxvb20mcHVsc2VfbWQ9bmV3c2xldHRlciZwdWxzZV9zYz1pbmZsdWVuY2VyJnB1bHNlX3RtPWFpX2Fkdmlzb3ImdXRtX2NhbXBhaWduPXNhaGlsYmxvb20mdXRtX21lZGl1bT1uZXdzbGV0dGVyJnV0bV9zb3VyY2U9aW5mbHVlbmNlciZ1dG1fdGVybT1haV9hZHZpc29y) believes in their results so much that it's just $1 for the first year. Everyone should be using this.
+|
+The Dangers of Survivorship Bias
+A young statistician saved their lives.
+In the early days of World War II, the U.S. military was losing too many of its planes in battle. To stem the tide, analysts started mapping the bullet holes on the returning planes.
+Their plan was to add armor to the specific areas of the planes identified by the exercise.
+Based on their analysis, they came to the conclusion that reinforcement to the tail, body, and wings would improve their odds of survival.
+But a young statistician named Abraham Wald raised his hand with a warning:
+They were making a tragic mistake.
+Their dataset was flawed, he argued. By only mapping the bullet holes on planes that were damaged and able to return, they were systematically omitting data on a critical, unseen subset:
+Planes that were damaged and unable to return.
+This was important in considering where to add reinforcement:
+- The seen planes had incurred damage that was survivable.
+- The unseen planes had incurred damage that was not.
+With this simple, yet profound, insight, Abraham Wald reached the contrarian conclusion that reinforcement armor should be added to the unharmed regions of the returning planes.
+The unharmed regions were the most vulnerable, he reasoned. This was where the fatal damage was incurred—where bullets caused planes to never make it home.
+Accepting his conclusion, the military reinforced the engine and other vulnerable parts of its planes, significantly improving the safety of their crews during combat and likely saving thousands of lives.
+Abraham Wald had identified a cognitive bias called Survivorship Bias.
+And his warning on its dangers extends into every area of your life...
+The Perils of Studying Survivors
+Survivorship Bias is the error that results from systematically focusing on survivors (successes) and ignoring casualties (failures).
+It distorts your understanding of the world by causing you to miss the true base rates of success—the actual probability of success.
+You can find examples of Survivorship Bias everywhere you look:
+- Books on the common traits of successful people fail to consider all of the unsuccessful people that had those same traits.
+- Studies on the cultural strategies of the most successful companies ignore the companies that followed those same strategies and fell apart.
+- Applause for the entrepreneur who takes out a second mortgage and wins big fails to consider the long list of entrepreneurs who did the same and lost everything.
+- Celebration of the "college dropout" success stories ignores the casualties of the same decision.
+When you only draw data from the most easily visible sample (the survivors), you have a biased sample that is not representative of reality.
+And if your sample is not an accurate representation of reality, you may talk yourself into a poorly informed decision that leads you into peril.
+Fortunately, there is a method to minimize the impact of Survivorship Bias...
+The Possibility Grid
+To avoid the trap of Survivorship Bias, you need to consider the unseen just as much as the seen.
+The Possibility Grid is a visual tool to help you do that.
+It's a 2x2 matrix with the action on the rows and the outcome on the columns:
+- Top-Left: Action, Win
+- Top-Right: Action, Lose
+- Bottom-Left: No Action, Win
+- Bottom-Right: No Action, Lose
+The "Action" is whatever step you're evaluating the merits of. Dropping out of college, taking on a second mortgage, mirroring a set of cultural strategies at your company, etc.
+The "Outcome" is what happened. Win or lose. Survivor or casualty.
+The Top-Left (Action, Win) is typically the easily seen data. It's what we read books about. It's what we celebrate. Staring at this quadrant and ignoring the others is how Survivorship Bias thrives.
+The goal is to fill out the other three quadrants with information and data to form a more balanced, accurate representation of reality.
+Let's look at a simple example:
+Evaluating the decision to drop out of college to start a company.
+It's very easy to only consider the seen evidence in this example. The list of famous entrepreneurs who dropped out to start their company is an impressive one, including Mark Zuckerberg, Bill Gates, Steve Jobs, and Michael Dell.
+But focusing exclusively on these survivors misses a lot of unseen evidence.
+- No Action, Win: Those who got their college degree and succeeded on an extraordinary level. This list includes Elon Musk, Tim Cook, Jeff Bezos, Sergey Brin, and Larry Page.
+- Action, Lose: Those who dropped out and failed. While hard to find specific names, there are many such cases, and the data on the earnings impact of college degrees is positive.
+- No Action, Lose: Those who got their college degree and failed. Certainly some examples out there, though the overall data shows this is less likely.
+Where the surface level analysis may lead you into an obvious decision to drop out, a more thorough analysis of the unseen evidence will force a balanced perspective.
+The Possibility Grid doesn't answer the question or weigh the merits for your specific situation, but it does ground you in a more accurate representation of reality as you make the decision for yourself.
+So, the next time you face an important decision that may be impacted by Survivorship Bias, sketch out a simple Possibility Grid and use it to form a more balanced perspective.
+But Where Are Those Painted Who Drowned?
+Over 2,000 years ago, the Roman philosopher, Cicero, told the story of Diagoras, a vocal atheist who often spoke about his non-belief in the gods.
+Those trying to convince Diagoras of the legitimacy of a higher power showed him a series of painted tablets portraying a group of sailors in a shipwreck.
+Specifically, he was told that it showed men who had prayed during a vicious storm and then survived the shipwreck.
+Diagoras looked at the paintings and replied:
+"I see those who were saved, but where are those painted who prayed and drowned?"
+The most dangerous data point is the one you never see.
+The unseen is just as important as the seen.
+Order My First Book to Unlock Exclusive Bonuses:
+The 5 Types of Wealth is the compass for your journey to a life of wealth that goes far beyond money. It provides the actionable tools to define, measure, and design your life around the pillars that truly create lasting happiness and fulfillment.
+It will help you find your True North and build your life around it.
+Order now and you'll unlock several new, exclusive bonuses:
+- Access to my Most Powerful Life Hacks Ebook: 50 timeless insights for simplifying your world and living well.
+- Access to The 5 Types of Wealth Digital Community: Join a vibrant group of like-minded individuals committed to creating a life of comprehensive wealth. Connect, collaborate, and grow together.
+- Access to The 5 Types of Wealth Launch Workshop: Get exclusive access to the full recording of this transformative virtual workshop, where I’ll guide you through specific exercises designed to help you apply the principles of the book. Watch it anytime at your convenience!
+Sahil's Recommendation Zone
+|
+My one daily health habit since 2011: [AG1](https://a01c829f.click.convertkit-mail4.com/0vu3pkknlga9h9vwmqdikfv88r855snhn6pvn/48hvhehmw7nwz0fx/aHR0cHM6Ly9kcmlua2FnMS5jb20vc2FoaWw=)!
+I started taking [AG1](https://a01c829f.click.convertkit-mail4.com/0vu3pkknlga9h9vwmqdikfv88r855snhn6pvn/48hvhehmw7nwz0fx/aHR0cHM6Ly9kcmlua2FnMS5jb20vc2FoaWw=) way before it was trendy or anyone knew about it––in 2011 when I needed to up my health game while playing college baseball. I was one of their first customers and fell in love with it. I took it consistently for over 10 years before asking the CEO for a link to share with family and friends.
+The newly upgraded [AG1 Next Gen](https://a01c829f.click.convertkit-mail4.com/0vu3pkknlga9h9vwmqdikfv88r855snhn6pvn/48hvhehmw7nwz0fx/aHR0cHM6Ly9kcmlua2FnMS5jb20vc2FoaWw=) is backed by four clinical trials and features five clinically studied probiotics, functional mushrooms, and whole food-sourced nutrients to support gut health, immune function, and sustained energy.
+[AG1](https://a01c829f.click.convertkit-mail4.com/0vu3pkknlga9h9vwmqdikfv88r855snhn6pvn/48hvhehmw7nwz0fx/aHR0cHM6Ly9kcmlua2FnMS5jb20vc2FoaWw=) is offering my amazing Curiosity Chronicle subscribers a FREE Welcome Kit including Vitamin D3+K2 and AG1 Travel packs when you first subscribe.
+|
+Sahil Bloom
+|
+|
+|

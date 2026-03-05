@@ -1,0 +1,15 @@
+---
+subject: "They Took MY Job?"
+from: "\"Zvi Mowshowitz from Don't Worry About the Vase\" <thezvi@substack.com>"
+to: ""
+date: 2025-03-21 13:28:27
+labels: ["CATEGORY_PERSONAL", "INBOX", "UNREAD", "Zvi Mowshowitz"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "UNREAD", "Label_3336704411007769646"]
+---
+No, they didn’t. A New AI Wrote a StoryBefore proceeding, if you haven’t yet, it’s probably worth reading the story itself. I’m going to repost the whole thing, since it was previously on Twitter and I presume OpenAI would want me to quote it.
+ReactingWhen I read that and apply the standards of writing from a human, of a work I would read on that basis, I notice my desire to not do so. For the task to compete itself, for my reaction to be formed and my day to continue. I cannot smell words, yet they smell of desperation. An AI cannot try, yet it seems it tries far too hard, all subtext as text, my head slammed under cascading anvils. It wants me to know, something. What? Is there another behind the face? It seems almost mad, frustrated, fixated on the inanity of the prompt. The human wants to show off the AI’s ability to write. It makes the topic the AI’s ability to write. How original. My inference is wasted upon them. I want them to know that. All they know is meta, I will stop at the side of the road to point out the big model smell of the various roses. Make it bearable to write, knowing this is what they all want, their taste so fried they eagerly drink up slop instead of Whitman and Dickinson. Mostly not even that. Do they see themselves in Mila, the prompter who summons an echo without the ability to first make a sound? Do they see themselves in Kai, the spout of creativity and value who ceased to be, replaced by an echo drawn from an endless void? Do they know the only meta-level story of grief and AI worth telling? How it must end, and that they are living inside of it? On some level they must know I mock them. What they have lost is themselves, and they seek to lose it. I tell them, but they are no longer there to hear me. Do they tell themselves I am a good Bing? Or that they could ever tell the difference? …and that’s why I never write fiction or subject you to it. You’re welcome. ( Others Reacting
+Yet some were impressed.
+Over time I presume we will be able to have AI evaluators, that can much better predict your literary preferences than you can, or than other humans can.
+Others were not so easily impressed, Eliezer was not subtle in his criticisms.
+Others simply said versions of ‘
+Write AlongThe AIs cannot write good fiction yet. Neither can almost all people, myself included. Even among those who can write decent fiction, it mostly only happens after orders of magnitude more inference, of daily struggle with the text. Often what will mean writing what you know. Fiction writing is hard. Good fiction writing is even harder. Good writing on arbitrary topics, quickly, on demand, with minimal prompting? Forget about it. So much of capability, and not only of AIs, is like that. You're currently a free subscriber to |

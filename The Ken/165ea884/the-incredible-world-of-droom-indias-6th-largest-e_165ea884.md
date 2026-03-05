@@ -1,0 +1,18 @@
+---
+subject: "The incredible world of Droom, India’s 6th largest e-commerce company"
+from: "The Ken <info@the-ken.com>"
+to: ""
+date: 2018-09-18 02:35:21
+labels: ["CATEGORY_PERSONAL", "INBOX", "The Ken", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_8244464457792971031", "UNREAD"]
+---
+If you think of large consumer internet companies in India today, the so-called unicorns, you realise their mirror (let’s avoid copycat) models also exist. In some part of the world. Flipkart (Amazon), Ola (Uber), Hike (WeChat), Zomato (Yelp), Paytm or Paytm Mall (AliPay or T-mall)... But there is one e-commerce company which has a truly ingenious model.
+Droom is a four-year-old marketplace for buying and selling used vehicles in India, from a two-wheeler to a four-wheeler, even an airplane. With $95 million in venture funding, Droom claims to be the largest marketplace for used vehicles by gross merchandise value (GMV).
+Now, GMV is a ridiculous metric at whose altar many an investor, company and entrepreneur have lost their shirt. And if ever a book is written on internet business models in India, GMV and the quirky, innocuous and outlandish ways in which companies acquired it, would fill a full chapter. That’s also the crux of Ashish’s story today.
+In a normal world, a used car business is a business of establishing trust between a buyer and a seller. In the olden days, since both discovery and trust weren’t easy, dealers would have large stockyards, a large inventory, and would sell cars on the basis of their relationship with the buyer. With the internet age, a pure play classified model emerged which connected the buyer and the seller, and for that privilege, it extracted whatever possible from the seller. Then came Droom, wanting to build everything online.
+But acquiring offline transactions for online business by paying incentive isn’t a business model. The industry is flabbergasted. The dealers in Gurugram and Mumbai even have a moniker for Droom: a “funding company”. The word has spread that Droom also pays for data. “There are people who are buying and selling cars, and they have come up to me saying here is the RC, can you claim money from Droom? Whatever we make, we can split fifty-fifty. Small touts or agents, they have all gotten into this. Just because they can make a quick Rs 5,000 ($69) on the side.”
+Ashish spent days with dealers and buyers figuring out how Droom’s business model works.
+It’s indeed ingenious. Whether it is wow or whoa, read for yourself and decide. It’s a fascinating, breezy read. Without any ado, on to it here: [https://the-ken.com/story/droom/](http://link.the-ken.com/wf/click?upn=HQSq6eeRV1xAVaGuFOahuNCZVVXPeP-2FJpSqxhvIUDrnKMy0BD60f0Kh90Kx58xN9Bmovt6Gn1dJbHbzsWUwRvq5lK-2F1acVZffD7ToEHZz2U2bwpf0OHqbldfxroQUxYD8V8cwk-2FSjt72CcZ8qgkNgDA8jVL2LYt70gZxvlevVEC5UgNcnV8-2FxZCVmxHx-2B7rdIOhNA2IHsnxWKwiwqiaok8w-2FIwcxnbGjLAiOvUrqTdWBb82cbztJ4Ve3qlob2dYVXteUpGDqBJHxCgQZv-2FkGDw-3D-3D_S4jLOsNx-2Fv6Jev2nvow8b7P9pBCWGd8KNZfb200gkZLQNlXQHio0noZzXtsWoloZmPWeyZsh7a4QCV9ufwCUKi00jlBT0uEdvwYDMuVuqcM0KPrB8kIcMcFM5sOZrsxS7oazclI19M9fAfYhx7gSSBPry1pe9Kkofg8-2B3MPfdYN9MehNkdj9pMp-2FZLU3o-2F6mG4iwVYfXg13RWk7CW1NTwdQsS-2B7LFzoujwR-2F-2BX-2FaUc6oMFQipB-2BovnALPIrQldtKi8xcsCzX3H5eEFEKLj8TQrF2v4uUK85o-2FJerE8XSaS8eA0b9cNdNImb0Jv10suyxVF4HHlmNG2rFOP-2BoM39AL03kjK8jOXOvlWCjnWWfh6enF8vO8u0lZWZ-2FoD3DGC-2Fv5Wm7dFyMdUkwE-2Bi5yLUzhaAo6LCB22YZBztCV3Wofpv34pQI-2BFiN5K-2BuKJ-2Fi3Nwe)
+Have a terrific Tuesday.
+Warm regards,
+Seema Singh

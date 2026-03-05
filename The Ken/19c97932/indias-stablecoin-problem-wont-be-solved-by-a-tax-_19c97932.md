@@ -1,0 +1,50 @@
+---
+subject: "India’s stablecoin problem won’t be solved by a tax bill"
+from: "The Ken <info@the-ken.com>"
+to: ""
+date: 2026-02-26 01:32:06
+labels: ["CATEGORY_PERSONAL", "INBOX", "The Ken", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_8244464457792971031", "UNREAD"]
+---
+|
+|
+Ka-Ching!
+Thu, 26 Feb 26
+A weekly newsletter about how finance is getting supercharged by tech in India, and how you can make money work for you.
+Good Morning Ishan,
+India’s finance ministry recently moved from the grand old North Block to the newly constructed Kartavya Bhawan in the Central Vista, also known as the Common Central Secretariat (CCS).
+Yet, the shift hasn’t addressed the old blind spots. Stablecoin regulation is certainly one of them.
+Call it money’s “Whatsapp moment.” Just as chat apps like Whatsapp collapsed the cost of international messaging from, say, 30% per text to zero, stablecoins are doing the same in financial transactions. The numbers bear this out: stablecoins moved over $12tn in value last year, after filtering out bots and other inorganic activity — volumes that are rising towards Visa’s $17tn of transactions last year but made at a fraction of the cost.
+The Whatsapp moment for money is here, [a16zcrypto](https://a16zcrypto.substack.com/p/the-whatsapp-moment-for-money-is) (14 February, 2026)
+As the world moves faster towards a stablecoin-driven future, with Meta now planning a comeback and US lawmakers paving the way, India’s crypto policy remains stuck in a tax-focused time warp.
+The impact has been obvious. On investors, most of all.
+While the ministry has been busy with packing and unpacking, the world has quietly shifted gears. McKinsey & Company dropped a report that should have jolted the Reserve Bank of India (RBI) and the finance ministry awake. The transaction volume of stablecoins (cryptocurrencies pegged to a fiat currency like the US dollar) has ballooned to a staggering $35 trillion.
+As per the report, stablecoins are fast becoming the preferred medium for cross-border payments, global payroll, and B2B transactions. They are real-time and cheap. US Treasury Secretary Scott Bessent recently speculated that the supply of stablecoins could hit $3 trillion by 2030.
+Our research found that global payroll and remittances accounted for about $90 billion in annualised stablecoin payments volumes, representing less than 1% of the more than $100 trillion in total volumes from this segment (of which about $1.2 trillion is cross-border)…We estimate that B2B stablecoin payments account for about $226 billion a year, or about 0.01% of global B2B payment volumes of roughly $1.6 quadrillion, per the global payments map.
+Stablecoins in payments: What the raw transaction numbers miss, [McKinsey & Company](https://www.mckinsey.com/industries/financial-services/our-insights/stablecoins-in-payments-what-the-raw-transaction-numbers-miss)
+The current share of stablecoins in cross-border transactions is small but is moving at a fast pace.
+Amid US Genius Act, Meta founder Mark Zuckerberg appears to see the reckoning. Having badly [burnt](https://www.medianama.com/2022/02/223-facebook-diem-cryptocurrency-shuts-down-2/) his hands earlier with blockchain-based stablecoin payment system, [Libra](https://inc42.com/buzz/facebook-mark-zuckerberg-cryptocurrency/) (later Diem), Meta is now [plotting](https://www.coindesk.com/business/2026/02/24/mark-zuckerberg-s-meta-is-planning-stablecoin-comeback-in-the-second-half-of-this-year) a re-entry. Partnering likely with financial services company Stripe, Meta is looking to embed regulated stablecoins into its sprawling empire of over 3 billion users.
+In a statement shared with us, Ignacio Aguirre, CMO of crypto exchange Bitget said, “This marks a decisive shift… Instead of issuing a proprietary token, Meta appears to be aligning with clearer US regulatory frameworks and focusing on practical, user-friendly payment rails.”
+With over 90% of stablecoins pegged to the US dollar, the US is now backing them through legislation it calls the Genius Act.
+Meanwhile, in Kartavya Bhawan, the conversation has moved exactly nowhere.
+The Indian government has tried to introduce and enact a bill on cryptocurrency multiple times and failed. The only regulation that the RBI had enforced was struck down by the Supreme Court in 2021. To understand India’s tragedy with crypto, you have to go back to 2021. On my last visit to the old North Block, a senior secretary laid out the government’s dilemma with startling clarity.
+“Even if we enact the crypto bill in parliament, we can’t really enforce it. However, that does not mean we should not impose taxes on it, as India enforces taxes on illegal activities as well.”
+There it was. The stance has not changed since then. The philosophical bedrock of India’s crypto policy: if we can’t stop it, at least we can tax it.
+Since then, the government has been relentlessly building the tax infrastructure around crypto. A flat 30% tax on gains. A 1% TDS on every transaction. Crypto entities were required to register with the Financial Intelligence Unit of the finance ministry. Some of the Web3 founders have already [moved](https://indianexpress.com/article/technology/crypto/clampdown-unclear-policy-crypto-exchange-founders-leaving-india-7994876/), or are [planning to](https://www.linkedin.com/posts/techprashantmaurya_if-you-are-a-founder-building-from-india-activity-7351162477583237120-64dC/) move abroad, to destinations like Delaware in the US, and Dubai in the UAE, despite the government [saying](https://inc42.com/features/no-law-prevents-startups-from-crypto-or-web3-innovation-rajeev-chandrasekhar/) otherwise.
+And now, in this year’s budget, finance minister Nirmala Sitharaman has added a fresh layer of penalties: Rs 200 per day for not filing statements, and Rs 50,000 for furnishing inaccurate information.
+The noose is tightening. But does it help protect investors?
+Not at all. Consider this IBM executive in Bengaluru. He poured roughly Rs 15 lakh into crypto. When the WazirX exchange collapsed, he lost a significant chunk. Yet, in one fortunate trade, he managed to book a profit of Rs 70,000. The taxman didn’t care about his Rs 15 lakh loss. Under the current rules, you cannot offset losses from one asset against gains from another. He had to pay 30% on that Rs 70,000.
+“One of my Canadian friends in a [QuadrigaCX](https://inc42.com/buzz/cryptocurrency-this-week-jack-dorsey-passes-lightning-torch-terror-group-hamas-announces-crypto-crowdfunding-and-more/) scam lost a huge chunk of investments. However, he did receive some within 2 years of the investigation. The [Gainbitcoin scam](https://inc42.com/buzz/who-is-amit-bhardwaj-the-real-story-behind-300-mn-bitcoin-ponzi-schemes/) investigation has been ongoing for the last 8 years. Not a single person has received any return,” he told me.
+Clearly, whether it is the RBI or the Indian government, no attention is being paid to the rise of increasing use cases of crypto in India, beyond tax collection.
+The risk is much higher now. Back in 2021, when I was with Inc42, I had [unearthed](https://inc42.com/features/the-crypto-scam-how-a-ponzi-scheme-on-whatsapp-led-up-to-a-ransom-rage/) the massive crypto scam being operated through social media platforms like Whatsapp and Telegram, and how people behind these moves sometimes were also [victims](https://inc42.com/features/the-myanmar-cambodia-and-laos-saga-inside-the-underworld-of-crypto-crime/) of money laundering scams and human trafficking being run by hundreds of big “dark” companies.
+There is a growing involvement of crypto in a range of illicit activities, spanning drug smuggling, human trafficking, intellectual property theft, and even violent home invasions according to a report by the crypto analysis firm [Chainalysis](https://www.chainalysis.com/blog/crypto-human-trafficking-2026/). Traditional crime groups that once relied on cash increasingly turn to crypto in an attempt to obscure proceeds, facilitate payments, and evade detection.
+Which brings us to the stablecoin question. Can an Indian startup use USDC to pay a freelancer in the US? Can an IT firm settle an invoice with a German client in real time using stablecoins?
+“It’s illegal in India,” a crypto exchange founder told me. “Crypto is ‘not illegal’ for trading or other use cases, but when it comes to payments, it’s illegal. India allows only the sovereign currency for payments. But tell me, how do you know what purpose they are being used for?”
+Meanwhile, India has been the number one country in global crypto adoption for three years running as reported in Chainalysis. Moreover, South Asia is the fastest-growing region, with stablecoins now comprising 30% of all on-chain transaction volumes according to a recent TRM Labs [report](https://www.trmlabs.com/reports-and-whitepapers/2025-crypto-adoption-and-stablecoin-usage-report#:~:text=South%20Asia%20becomes%20the%20fastest,reinforcing%20India%27s%20accelerating%20crypto%20adoption).
+| Source: TRM Labs report |
+And this poses a deeper, more structural risk. With the US now backing them through legislation, these digital dollars are poised to become the default global payment rail. They are quietly undermining the rupee as a currency for international exchange. While India, along with BRICS nations, has toyed with the idea of launching its own stablecoin to counter the dominance of USDC and USDT, it remains an idea. At least, so far.
+The NPCI, at the Global AI Impact Summit in Delhi, which concluded last week, launched “UPI One World,” a service that would allow foreigners to make payments without an Indian bank account.
+It’s a good move. But can it cover for the [failure](https://the-ken.com/kaching/trump-may-have-seriously-wounded-indias-and-the-worlds-cbdc-projects/) of CBDC-wholesale and the rise of stablecoins? Can simply taxing the crypto overcome the need for crypto regulation in India?
+That’s a wrap for now. But what do you think? Do write to [kaching@the-ken.com](mailto:kaching@the-ken.com), or leave a comment on our website or app, and let me know.
+Regards,
+Suprit

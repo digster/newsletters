@@ -1,0 +1,105 @@
+---
+subject: "Maintaining Human Intelligence in the AI Era | David Krakauer (President of the Santa Fe Institute)"
+from: "The Generalist <thegeneralist@substack.com>"
+to: ""
+date: 2025-09-23 14:03:59
+labels: ["CATEGORY_PERSONAL", "INBOX", "The Generalist", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_8815311452832858585", "UNREAD"]
+---
+|
+[Brex](https://substack.com/redirect/4b26521d-9d98-4bec-852f-0cc4e245b7f6?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o): The banking solution for startups.
+[Enterpret](https://substack.com/redirect/c3d8781e-c280-41eb-96ba-ab38b2e75741?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o): Transform feedback chaos into actionable customer intelligence
+[Persona](https://substack.com/redirect/190aaaa0-e76e-49a6-ac80-7bd65bf75253?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o): Trusted identity verification for any use case
+David Krakauer is a leading complex systems researcher and the president of the Santa Fe Institute, a unique institution dedicated to studying complex systems across disciplines. In this episode, David challenges conventional wisdom about AI, arguing that large language models pose a more immediate threat to humanity than commonly discussed existential risks—not by destroying us directly, but by eroding our cognitive capabilities through addictive, low-quality information.
+We explore:
+Why David believes LLMs aren't intelligent at all and how the AI community misunderstands emergence
+The three dimensions of intelligence: inference, representation, and strategy—and which one LLMs lack
+How AI acts as a "competitive" rather than "complementary" cognitive technology, atrophying our thinking abilities
+What makes great minds unique, from analogical reasoning to the cultivation of unconscious creativity
+How Cormac McCarthy's approach to knowledge and creativity offers lessons for the AI age
+Why David believes the greatest threat from AI isn't existential risk but cognitive atrophy
+How to protect your mind against AI's addictive pull and maintain cognitive autonomy
+([00:00](https://substack.com/redirect/fa728cd4-4d21-4b4a-b81d-3a45a0a07aa8?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) Intro
+([04:39](https://substack.com/redirect/ae158c65-8010-4414-b819-602ec5dc35b0?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) The Santa Fe Institute’s approach to complex systems
+([06:45](https://substack.com/redirect/5ce5f4bc-2e21-4d98-836c-33c364b33acc?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) Murray Gell-Mann’s ‘Odysseus vs. Apollonian’
+([10:35](https://substack.com/redirect/811e5cb1-8daa-4d53-9470-6339754a52ca?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) How SFI was shaped by the legacy of Los Alamos
+([12:45](https://substack.com/redirect/032ded3b-d0fd-4aa9-aa8b-36668f214e08?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) Traits David looks for in great minds
+([14:43](https://substack.com/redirect/35d1aa73-08e4-42da-b7aa-e5b62c084793?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) Cormac McCarthy on naivety and how thoughtful people treat knowledge
+([19:24](https://substack.com/redirect/81865600-b39b-4146-ba2e-d36e6206202a?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) A simple explanation of complexity science
+([22:50](https://substack.com/redirect/778d36fd-17fd-446d-bfff-07069ec2c064?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) Why vantage point doesn’t matter when studying systems
+([24:36](https://substack.com/redirect/eeb84030-6221-45fd-8489-3830fde826c6?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) Aesthetic preferences among complexity scientists
+([26:07](https://substack.com/redirect/61447ec8-7159-4e34-8993-a2632cb9effc?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) Films and directors with complexity science themes
+([29:57](https://substack.com/redirect/2bd8aecc-aec2-470f-a2e0-e20a837427bc?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) Why David argues LLMs are not intelligent
+([32:10](https://substack.com/redirect/152e1644-e1e2-4e4d-bae8-77f1c8555b09?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) What’s missing in the study of LLMs
+([36:40](https://substack.com/redirect/8e10684c-cdae-4077-94cf-fcd2540905ff?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) The three qualities of intelligence and how LLMs measure up
+([42:19](https://substack.com/redirect/737a8c60-21f7-43d2-bb4c-314248a5fe1c?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) Lessons from "The Glass Bead Game"
+([44:00](https://substack.com/redirect/0adeb27d-750f-4aa4-8652-883ae2944ea1?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) David’s perspective on reinforcement learning
+([45:38](https://substack.com/redirect/4f665fbc-146e-486a-98a4-8876d2f1382a?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) The greatest threat of LLMs: overreliance and the decline of thinking
+([47:40](https://substack.com/redirect/ac4a6bbe-1dfe-45b0-b65d-db54ef1277fd?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) Competitive vs. complementary cognitive artifacts
+([51:55](https://substack.com/redirect/a7cdecba-26e9-4908-acd9-243ec6bf1490?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) Why exposing yourself to quality ideas matters
+([54:00](https://substack.com/redirect/a0364754-2097-4eb6-b244-8b5bc0fa2739?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) How to derisk LLM use
+([58:32](https://substack.com/redirect/fdad494e-6d14-42d4-8536-008728b59e70?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) Cormac McCarthy’s legacy at SFI and beyond
+([1:02:40](https://substack.com/redirect/8efd47d4-09f4-41f4-a765-7986fe28d481?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) The Kekulé Problem: cultivating the unconscious
+([1:05:01](https://substack.com/redirect/4abf5867-e283-414c-b899-504ccecadd04?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) Why David and McCarthy were inspired by Wittgenstein
+([1:09:00](https://substack.com/redirect/ad075746-38b6-4cca-8e7c-9d0e05f98291?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) What Cormac McCarthy liked to talk about
+([1:12:20](https://substack.com/redirect/32c0e1f6-ba47-468e-8029-813c3aeacc2e?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) David’s questions to a higher being
+([1:14:46](https://substack.com/redirect/22a23241-0e9f-4838-9218-e79acd085f6c?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) Final meditations
+Website: [https://davidckrakauer.com/](https://substack.com/redirect/5d31a7e4-de3b-4c5f-8b85-a901d42701cf?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+“The Hedgehog and the Fox”:
+[https://www.amazon.com/Hedgehog-Fox-Tolstoys-History-Second/dp/069115600X](https://substack.com/redirect/bc0865fd-c354-4129-9dd5-c5e135be9ffb?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)The Birds and The Frogs:
+[https://www.amazon.com/Aristophanes-Frogs-Birds/dp/B000QBPUTY](https://substack.com/redirect/594f952b-843b-49ff-9097-98820c405290?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)The Glass Bead Game:
+[https://www.amazon.com/Glass-Bead-Game-Magister-Novel/dp/0312278497](https://substack.com/redirect/3cc39773-1cf3-49b9-bb34-974317df4c64?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)Frankenstein:
+[https://www.amazon.com/Frankenstein-Mary-Shelley/dp/0486282112](https://substack.com/redirect/0617a539-5746-491a-8ec7-0f6e2960a1d7?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)Blood Meridian: Or the Evening Redness in the West:
+[https://www.amazon.com/Blood-Meridian-Evening-Redness-West/dp/0679728759](https://substack.com/redirect/f0a3ea0e-2d2c-43c7-b585-ce66e3283b48?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)Stella Maris:
+[https://www.amazon.com/Stella-Maris-Cormac-McCarthy/dp/0307269000](https://substack.com/redirect/5da43c12-3c61-43b8-b0b9-48c8d61d7ef2?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)The Passenger:
+[https://www.amazon.com/Passenger-Cormac-McCarthy/dp/0307268993/](https://substack.com/redirect/11fb7dd4-51b7-4f62-b098-c07d8c69a987?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)Pale Fire:
+[https://www.amazon.com/Pale-Fire-Vladimir-Nabokov/dp/0679723420](https://substack.com/redirect/f5a2daf9-a75b-45cd-af85-015c9ddbb6db?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)Tractatus Logico-Philosophicus:
+[https://www.amazon.com/Tractatus-Logico-Philosophicus-Routledge-Classics-123/dp/0415254086](https://substack.com/redirect/aac88524-751e-44b5-8b16-38ff013a0777?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)Ludwig Wittgenstein: The Duty of Genius:
+[https://www.amazon.com/Ludwig-Wittgenstein-Genius-Ray-Monk/dp/0140159959](https://substack.com/redirect/9c13c1c3-4f92-4be8-bf30-aca038f8e46c?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)Ellmann's Joyce: The Biography of a Masterpiece and Its Maker:
+[https://www.amazon.com/Ellmanns-Joyce-Biography-Masterpiece-Maker/dp/0674248392](https://substack.com/redirect/cfd2d177-4b35-4cd5-a9bf-33074fa165ff?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)Moby Dick:
+[https://www.amazon.com/Moby-Dick-Herman-Melville/dp/1503280780](https://substack.com/redirect/e302c7b9-fb05-4bc0-a505-a249f4abeb5a?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)Hyperobjects: Philosophy and Ecology after the End of the World:
+[https://www.amazon.com/Hyperobjects-Philosophy-Ecology-after-Posthumanities/dp/0816689237](https://substack.com/redirect/e7ec788e-1dce-4118-a768-9c43474e5ca3?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)The Anatomy of Melancholy:
+[https://www.amazon.com/Anatomy-Melancholy-Review-Books-Classics/dp/0940322668](https://substack.com/redirect/89229044-f194-478b-9912-3d50e882d420?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)The Golden Bough: A Study of Magic and Religion: Volume I:
+[https://www.amazon.com/Golden-Bough-Vol-Study-Religion/dp/1480131466](https://substack.com/redirect/32212ec0-cdf5-4a34-8d6b-ad9dc8747974?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)Three Critiques:
+[https://www.amazon.com/Three-Critiques-3-Set-Practical/dp/0872206297](https://substack.com/redirect/d2d48881-69d4-4530-a6e7-86903944cf9a?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)The World as Will and Representation:
+[https://www.amazon.com/World-Will-Representation-Vol/dp/0486217612/](https://substack.com/redirect/8f3e423a-b5e7-4b7b-a00b-4e106aa0a145?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+Cormac McCarthy:
+[https://en.wikipedia.org/wiki/Cormac_McCarthy](https://substack.com/redirect/2d26185c-f2fd-4855-b40d-5975aa67aa80?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)Murray Gell-Mann:
+[https://en.wikipedia.org/wiki/Murray_Gell-Mann](https://substack.com/redirect/ee7560b8-939b-44da-ab28-6ae0a6f71f21?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)Archilochus:
+[https://en.wikipedia.org/wiki/Archilochus](https://substack.com/redirect/25d93992-da9d-41bd-a62d-380691cedbd6?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)Fyodor Dostoevsky:
+[https://en.wikipedia.org/wiki/Fyodor_Dostoevsky](https://substack.com/redirect/9250a03a-663b-4086-b84d-40b1257710ac?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)Leo Tolstoy:
+[https://en.wikipedia.org/wiki/Leo_Tolstoy](https://substack.com/redirect/c3b55a71-ee28-4468-8b4b-9d800e7eaf17?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)Aristophanes:
+[https://en.wikipedia.org/wiki/Aristophanes](https://substack.com/redirect/92823024-e7f7-43a7-b449-e04af5861754?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)Eugene Wigner:
+[https://en.wikipedia.org/wiki/Eugene_Wigner](https://substack.com/redirect/8b0e7cb5-d7d3-4d05-9d5b-6c3a4be8e5a7?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)Leo Szilard:
+[https://en.wikipedia.org/wiki/Leo_Szilard](https://substack.com/redirect/da4683be-54ef-47d5-b1a7-a96a31176e7a?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)John von Neumann:
+[https://en.wikipedia.org/wiki/John_von_Neumann](https://substack.com/redirect/40a1b002-00f8-4188-9cbd-9c3e6db226b5?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)Michel de Montaigne:
+[https://en.wikipedia.org/wiki/Michel_de_Montaigne](https://substack.com/redirect/3fbdf040-575e-4079-84d9-0ee23a08701b?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)Melanie Mitchell’s website:
+[https://melaniemitchell.me/](https://substack.com/redirect/b522a93a-ae5f-4d05-914e-4389980d51c4?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)Ingmar Bergman:
+[https://en.wikipedia.org/wiki/Ingmar_Bergman](https://substack.com/redirect/8e6210e7-2735-4955-b62c-e7efb1778b38?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)Akira Kurosawa:
+[https://en.wikipedia.org/wiki/Akira_Kurosawa#Legacy_and_cultural_impact](https://substack.com/redirect/fb6630fe-06f9-4d38-b9a7-712916578349?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)Andrei Tarkovsky:
+[https://en.wikipedia.org/wiki/Andrei_Tarkovsky](https://substack.com/redirect/7792f363-052e-48be-8b98-d525fc7c6a2b?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)John Henry Holland:
+[https://en.wikipedia.org/wiki/John_Henry_Holland](https://substack.com/redirect/ada5cab8-acf9-4881-afde-fc3ccc552619?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)Christopher Nolan:
+[https://en.wikipedia.org/wiki/Christopher_Nolan](https://substack.com/redirect/2bbe8b07-63e9-4d2c-98f8-afa002abf09a?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)Jonathan Nolan:
+[https://en.wikipedia.org/wiki/Jonathan_Nolan](https://substack.com/redirect/926275e9-833a-4796-903b-538d436fac40?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)Henry James:
+[https://en.wikipedia.org/wiki/Henry_James](https://substack.com/redirect/ff1f3e98-0f85-45b1-97c5-10d8a164210b?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)Vladimir Nabokov:
+[https://en.wikipedia.org/wiki/Vladimir_Nabokov](https://substack.com/redirect/63a05ca8-e8b8-4f57-9dee-79adc5a4d0db?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)Frank Lloyd Wright:
+[https://en.wikipedia.org/wiki/Frank_Lloyd_Wright](https://substack.com/redirect/ee013c8c-31ac-47cc-abc7-057a5585de98?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+The Santa Fe Institute:
+[https://www.santafe.edu/](https://substack.com/redirect/8729adbe-6ef2-4553-b81f-55a40650bc9f?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)The Cormac McCarthy I Know:
+[https://davidckrakauer.com/artifacts/2022-the-cormac-mccarthy-i-know](https://substack.com/redirect/57108c48-496f-4c10-92ce-4197f1bef7ae?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)Michel de Montaigne’s quote:
+[https://www.goodreads.com/quotes/6873908-we-can-be-knowledgeable-with-another-man-s-knowledge-but-we](https://substack.com/redirect/9ca64f4f-7167-4720-948f-d400d2a6ade8?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)The Seventh Seal:
+[https://www.imdb.com/title/tt0050976/](https://substack.com/redirect/4a93b133-f353-4cc4-a12a-e2962b77fa3b?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)Rashomon:
+[https://www.imdb.com/title/tt0042876/](https://substack.com/redirect/0173c917-306a-44fc-a9f8-71bc92433333?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)The Exterminating Angel:
+[https://www.imdb.com/title/tt0056732/](https://substack.com/redirect/a40dac25-44cf-4696-ba2d-8704570dc6f9?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)2001: A Space Odyssey:
+[https://www.imdb.com/title/tt0062622/](https://substack.com/redirect/730d340f-0270-4255-a77e-8683e2c9fcba?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)Large Language Models and Emergence: A Complex Systems Perspective:
+[https://ui.adsabs.harvard.edu/abs/2025arXiv250611135K/abstract](https://substack.com/redirect/22368c32-9cb8-44aa-94a5-7c46cdd1a2ca?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)Kind of Blue:
+[https://www.amazon.com/Kind-Blue-Miles-Davis/dp/B000002ADT](https://substack.com/redirect/2bf31df8-5595-41ea-9ed1-7acb42957842?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)Why neural net pioneer Geoffrey Hinton is sounding the alarm on AI:
+[https://mitsloan.mit.edu/ideas-made-to-matter/why-neural-net-pioneer-geoffrey-hinton-sounding-alarm-ai](https://substack.com/redirect/f4cdc37b-2b34-49f4-8f5f-ddab73a23235?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)Why the Real Computer Revolution Never Happened | Alan Kay & Anjan Katta:
+[https://www.generalist.com/p/why-the-real-computer-revolution-never-happened](https://substack.com/redirect/7c254770-a019-456e-89e1-712269f80f43?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)Zettelkasten:
+[https://zettelkasten.de/overview/](https://substack.com/redirect/ab4f8406-92ca-48cf-bf86-858a201567fe?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)ImageNet:
+[https://www.image-net.org/](https://substack.com/redirect/846cc832-3803-4f5f-b59a-66addf4041cd?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)The Kekulé Problem:
+[https://nautil.us/the-kekul-problem-236574/](https://substack.com/redirect/fac0b175-ad7a-408a-ac06-fe844e128142?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)Robert Frost’s quote:
+[https://www.goodreads.com/quotes/71609-writing-free-verse-is-like-playing-tennis-with-the-net](https://substack.com/redirect/26e3b683-6507-4ba4-aaaf-c8b2c571fef6?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+I’d love it if you’d subscribe and share the show. Your support makes all the difference as we try to bring more curious minds into the conversation.
+Production and marketing by [penname.co](https://substack.com/redirect/c8ea38a0-29fb-432b-8ba7-0d5ea66dc23c?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o). For inquiries about sponsoring the podcast, email jordan@penname.co.
+You're currently a free subscriber to [The Generalist](https://substack.com/redirect/c4922a84-6d9a-433a-b39d-2f64962cdc66?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o). For the full experience, [upgrade your subscription.](https://substack.com/redirect/2/eyJlIjoiaHR0cHM6Ly93d3cuZ2VuZXJhbGlzdC5jb20vc3Vic2NyaWJlP3V0bV9zb3VyY2U9cG9zdCZ1dG1fY2FtcGFpZ249ZW1haWwtY2hlY2tvdXQmbmV4dD1odHRwcyUzQSUyRiUyRnd3dy5nZW5lcmFsaXN0LmNvbSUyRnAlMkZtYWludGFpbmluZy1odW1hbi1pbnRlbGxpZ2VuY2UtaW4tdGhlLWFpLWVyYS1kYXZpZC1rcmFrYXVlciZyPThvNTRuJnRva2VuPWV5SjFjMlZ5WDJsa0lqb3hORFUyTXpNeE9Td2lhV0YwSWpveE56VTROak0yTkRjM0xDSmxlSEFpT2pFM05qRXlNamcwTnpjc0ltbHpjeUk2SW5CMVlpMHhOVGMyTkNJc0luTjFZaUk2SW1Ob1pXTnJiM1YwSW4wLk5GSVJZcHBvSWJIcmJMOXltYkZQdllGb21DcEd1Zm9LQkNxRFRfbkljeVUiLCJwIjoxNzI3MTg0NzYsInMiOjE1NzY0LCJmIjp0cnVlLCJ1IjoxNDU2MzMxOSwiaWF0IjoxNzU4NjM2NDc3LCJleHAiOjIwNzQyMTI0NzcsImlzcyI6InB1Yi0wIiwic3ViIjoibGluay1yZWRpcmVjdCJ9.U169fnAyMbe-6ZZ39Vo2zjp-gcNwX4nr0LGtQGPMIVY?&utm_source=substack&utm_medium=email&utm_content=postcta)

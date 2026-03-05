@@ -1,0 +1,44 @@
+---
+subject: "A free 10-day storytelling series 📖"
+from: "Lawrence Yeo <contact@moretothat.com>"
+to: ""
+date: 2026-02-11 16:02:55
+labels: ["CATEGORY_PERSONAL", "INBOX", "Lawrence Yeo", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_3631958563782906958", "UNREAD"]
+---
+|
+Hey friends,
+2026 just started, but so much has already happened.
+One of the biggest developments has been in AI, where tools like Claude Code and Codex are rapidly changing the landscape of knowledge work. People are seeing how the skills that were once reserved for human minds can be executed in a fraction of the time, at a fraction of the cost.
+So this begs the question... Is there a creative skill that can still act as a moat for the human mind?
+Fortunately, the answer is yes, and is nicely embodied in this tweet:
+While the post uses the word "marketing," any marketer will tell you that their job relies on one thing:
+Their ability to tell great stories.
+That's because storytelling can't be condensed into hard, rational computation. It requires an intricate balance of taste, intuition, and style that goes beyond anything a language model can produce on its behalf.
+This is why Anthropic is paying $400k for a Head of GTM Narrative role. Or why Adobe is paying $200k for an AI Evangelist position. Or why the Wall Street Journal published a piece recently about the hottest job at the moment:
+I've noticed this myself, where I've been getting more inbound messages about the art of storytelling. People are wondering how to harness this skill, given that it acts as a leverage point for their careers in an uncertain world.
+I've been publishing stories online for 7 years now (along with a book), and understand what it takes to do it well. With that said, I'm excited to share something with you that acts as a primer to the craft.
+Allow me to introduce…
+Story Study.
+Story Study is a (completely free) 10-day email series on becoming a better storyteller. It takes the core elements of my storytelling process, and distills it into a highly practical and actionable curriculum.
+The key word here is practical. Instead of showing you diagrams of the Hero’s Journey or walking you through 3-act structures, I’m going to distill the art of storytelling into something applicable. Original frameworks that can be used immediately, regardless of the stories you tell.
+To do this, I will share 8 lessons and 2 workshops for you to review over the next 10 days. The lessons will communicate the ideas, and the workshops will give you practice time. If you take 5-10 minutes each day to sit with the lessons and do the assignments, I’m confident that you’ll get a ton of value out of this curriculum.
+👉 [Click here to be automatically enrolled for free.](https://b2cc74dc.click.convertkit-mail4.com/k0uz6qnmo6i6h5rl99xalhorrer77f8hnq424/7qh3dnm6u8h9qkppenb9/aHR0cHM6Ly9tb3JldG90aGF0LmNvbS9jb25maXJtZWQtc3Rvcnktc3R1ZHkv)
+Most of the concepts I’ll cover are from my flagship 4-week course, [Thinking In Stories](https://b2cc74dc.click.convertkit-mail4.com/k0uz6qnmo6i6h5rl99xalhorrer77f8hnq424/reh7r7z3bohm42vvpos6/aHR0cHM6Ly90aGlua2luZ2luc3Rvcmllcy5jb20v). We’ll only go over a fraction of what I teach there, but it’ll be enough to shift the way you think of storytelling going forward. If you’re interested in the full experience, feel free to a look at the [course page](https://b2cc74dc.click.convertkit-mail4.com/k0uz6qnmo6i6h5rl99xalhorrer77f8hnq424/reh7r7z3bohm42vvpos6/aHR0cHM6Ly90aGlua2luZ2luc3Rvcmllcy5jb20v) to see what you can expect. Enrollment opens next Monday, February 16th, and the course kicks off on March 9th.
+In the meantime, if you’re ready to get the first lesson of Story Study in your inbox, just click the link below to get started. The whole curriculum is a 4,000+ word, 35-drawing exploration of the craft, divided into a clear and digestible 10-day series. Expect frameworks, examples, and worksheets that will help you bridge the gap between theory and practice. And if you’ve taken this email course before, I recommend you go through it again to solidify these concepts even further.
+The goal of Story Study is simple: to help you transform your best ideas into even better stories.
+👉 [Click here and get the first lesson today.](https://b2cc74dc.click.convertkit-mail4.com/k0uz6qnmo6i6h5rl99xalhorrer77f8hnq424/7qh3dnm6u8h9qkppenb9/aHR0cHM6Ly9tb3JldG90aGF0LmNvbS9jb25maXJtZWQtc3Rvcnktc3R1ZHkv)
+Finally, if you’d like to share it with a friend, you can send them to [this page](https://b2cc74dc.click.convertkit-mail4.com/k0uz6qnmo6i6h5rl99xalhorrer77f8hnq424/wnh2hghqn5vvddtl/aHR0cHM6Ly9zdHVkeS50aGlua2luZ2luc3Rvcmllcy5jb20v). Enjoy, and let me know what you think!
+A Brief Parting Question
+What kind of stories are you looking to tell in 2026?
+Do you want to learn storytelling to publish better articles, to publish a book, to get a new job, to get ahead at your current one, or something else?
+For me, almost everything in my professional career revolves around storytelling, which makes this a skill that I want to continuously refine.
+What about you?
+As always, hit reply to share any thoughts, to respond to the parting question, or to simply say hello. I love hearing from you.
+And once again, it’d be great to hear your experience with Story Study. To get the first lesson in your inbox, simply [click here](https://b2cc74dc.click.convertkit-mail4.com/k0uz6qnmo6i6h5rl99xalhorrer77f8hnq424/7qh3dnm6u8h9qkppenb9/aHR0cHM6Ly9tb3JldG90aGF0LmNvbS9jb25maXJtZWQtc3Rvcnktc3R1ZHkv) and enjoy the ride. I’m sure you’ll get a lot out of it.
+Have a great rest of your week! Happy new year!
+-Lawrence
+P.S. Speaking of AI, my friend Khe Hy recently released a course on Claude Code called [Unfair Advantage](https://b2cc74dc.click.convertkit-mail4.com/k0uz6qnmo6i6h5rl99xalhorrer77f8hnq424/08hwh9h2voww80up/aHR0cHM6Ly93d3cua2hlaHkuY29tL2NsYXVkZS1jb2RlLWNvdXJzZQ==). Whenever I have questions about AI, I go to Khe because he always has a clear (and fun) way of communicating it. His curiosity keeps him at the edge of what's happening with AI, and his ability to communicate it is what makes him such an effective teacher.
+If you were forwarded this email, subscribe to the More To That newsletter and get the next edition in your inbox.
+|
+|

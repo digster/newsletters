@@ -1,0 +1,38 @@
+---
+subject: "The definitive handbook for HTML and HTML5 - and it's free"
+from: "Quincy Larson <quincy@freecodecamp.org>"
+to: ""
+date: 2019-07-25 18:40:01
+labels: ["CATEGORY_PERSONAL", "INBOX", "Quincy"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_7697778124671848699"]
+---
+Here are this week's five links that are worth your time:
+
+1. Flavio Copes is famous for his in-depth handbooks on developer tools. And he just published his HTML handbook on freeCodeCamp this week. (45 minute read, plus a downloadable PDF): https://www.freecodecamp.org/news/the-html-handbook/
+
+2. Learn Blockchain Development with this free course on the Solidity programming language. Start writing Smart Contracts for the Ethereum Virtual Machine (90 minute watch): https://www.freecodecamp.org/news/learn-the-solidity-programming-language/
+
+3. The 3 types of Design Patterns all developers should know - with code examples of each (10 minute read): https://www.freecodecamp.org/news/the-basic-design-patterns-all-developers-need-to-know/
+
+4. Freelancing? Here are 7 places where you can sell your software development services (7 minute read): https://www.freecodecamp.org/news/selling-services/
+
+5. Princiya grew up in India, learned to code, started contributing code to Firefox, and now works as a developer in Berlin. She shares her story, and her tips for getting accepted to speak at tech conferences (1 hour listen): https://www.freecodecamp.org/news/podcast-how-taking-risks-catapulted-one-software-engineers-career-forward/
+
+
+Also: We just started shipping out our limited edition 2019 freeCodeCamp developer backpacks. We only have a few dozen left. Get yours: https://www.freecodecamp.org/news/2019-freecodecamp-backpack/
+
+
+Quote of the Week: "Any code of your own that you haven't looked at for six or more months might as well have been written by someone else." - Eagleson's Law
+
+
+freeCodeCamp will always be free. And with your tax-deductible donations, our nonprofit can create even more learning resources for you and the community. Become a supporter: https://donate.freecodecamp.org
+
+
+Happy coding!
+
+- Quincy Larson
+
+Teacher at freeCodeCamp.org
+
+
+If these emails aren't worth your time, you can turn them off: https://www.freecodecamp.org/ue/eZV2T3gHC7IGcwcpYPG64

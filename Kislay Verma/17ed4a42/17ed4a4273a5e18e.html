@@ -1,0 +1,346 @@
+<!DOCTYPE html>
+<html xmlns="https://www.w3.org/1999/xhtml" xmlns:o="urn:schemas-microsoft-com:office:office">
+<head>
+<title>It Depends #51: The Mechanics of Software Evolution</title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<!--[if !mso]><!-->
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<!--<![endif]-->
+<!--[if mso]>
+<style type="text/css">table {border-collapse:collapse;border-spacing:0;margin:0;}div, td {padding:0;}div {margin:0 !important;}</style>
+<noscript><xml><o:OfficeDocumentSettings><o:PixelsPerInch>96</o:PixelsPerInch></o:OfficeDocumentSettings></xml></noscript>
+<![endif]-->
+<style type="text/css">
+#outlook a{padding:0;}
+.ReadMsgBody{width:100%;} .ExternalClass{width:100%;}
+.ExternalClass, .ExternalClass p, .ExternalClass span, .ExternalClass font, .ExternalClass td, .ExternalClass div {line-height: 100%;}
+
+body { margin: 0; padding: 0; height: 100%!important; width: 100%!important; -webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%;}
+table,td { border-collapse: collapse !important; mso-table-lspace: 0pt; mso-table-rspace: 0pt;}
+img { border: 0; height: auto; line-height: 100%; outline: none; text-decoration: none; max-width: 100%!important; -ms-interpolation-mode: bicubic;}
+img.aligncenter { display: block; margin: 0 auto;}
+
+@media screen and (max-width: 525px) {
+ .pt-1, .padding-top-15 { padding-top: 15px!important; }
+ .pb-1, .padding-bottom-15 { padding-bottom: 15px!important; }
+ .responsive { width:100%!important; }
+ table.responsive { width:100%!important; float: none; display: table; padding-left: 0; padding-right: 0; }
+ table[class="responsive"] { width:100%!important; float: none; display: table; padding-left: 0; padding-right: 0; }
+ img { max-width: 100%!important }
+ img[class="responsive"] { max-width: 100%!important; }
+ /* "width: auto" restores the natural dimensions forced with attributes for Outlook */
+ .fluid { max-width: 100%!important; width: auto; }
+ img[class="fluid"] { max-width: 100%!important; width: auto; }
+
+ .block { display: block; }
+
+ td[class="responsive"]{width:100%!important; max-width: 100%!important; display: block; padding-left: 0 !important; padding-right: 0!important; float: none; }
+ td.responsive { width:100%!important; max-width: 100%!important; display: block; padding-left: 0 !important; padding-right: 0!important; float: none; }
+
+ td[class="section-padding-bottom-image"]{
+ padding: 50px 15px 0 15px !important;
+ }
+
+ .max-width-100 { max-width: 100%!important; }
+
+ /* Obsolete */
+ .tnp-grid-column {
+ max-width: 100%!important;
+ }
+
+}
+
+
+
+/* Contains some rules to simulate device layout on backend preview */
+
+#newsletter-builder-area-center-frame-content.tnp-view-mobile table[class="responsive"],
+#newsletter-builder-area-center-frame-content.tnp-view-mobile table.responsive
+{
+ width:100%!important;
+ float: none;
+ display: table;
+ padding-left: 0;
+ padding-right: 0;
+}
+
+#newsletter-builder-area-center-frame-content.tnp-view-mobile td[class="responsive"]{
+ width:100%!important;
+ max-width: 100%!important;
+ display: block;
+ padding-left: 0 !important;
+ padding-right: 0 !important;
+ float: none;
+}
+
+#newsletter-builder-area-center-frame-content.tnp-view-mobile img[class="responsive"],
+#newsletter-builder-area-center-frame-content.tnp-view-mobile img.responsive
+{
+ max-width: 100%!important;
+}
+
+#newsletter-builder-area-center-frame-content.tnp-view-mobile img[class="fluid"]{
+ width: 100%;
+ max-width: 100%!important;
+}
+
+#newsletter-builder-area-center-frame-content.tnp-view-mobile .pt-1 {
+ padding-top: 15px!important;
+}
+
+#newsletter-builder-area-center-frame-content.tnp-view-mobile .pb-1 {
+ padding-bottom: 15px!important;
+}
+
+#newsletter-builder-area-center-frame-content.tnp-view-mobile .tnp-grid-column {
+ max-width: 100%!important;
+}
+
+#newsletter-builder-area-center-frame-content.tnp-view-mobile td[data-responsive-image="true"] {
+ height: auto !important;
+}
+
+
+/* Html */
+.html-td-global p {
+ font-family: Helvetica, Arial, sans-serif;
+ font-size: 16px;
+}
+
+
+/* Text */
+
+
+/* Last posts */
+@media (max-width: 525px) {
+ .posts-1-column {
+ width: 100%!important;
+ }
+ .posts-1-image {
+ width: 100%!important;
+ display: block;
+ }
+}
+
+
+</style>
+</head>
+<body style="margin: 0; padding: 0; line-height: normal; word-spacing: normal;" dir="ltr">
+
+<table cellpadding='0' cellspacing='0' border='0' width='100%'>
+<tr>
+<td bgcolor='#ffffff' valign='top'><!-- tnp --><table style="border-collapse: collapse; width: 100%; user-select: auto;" class="tnpc-row tnpc-row-block ui-sortable-handle" data-id="image" width="100%" cellspacing="0" cellpadding="0" border="0" align="center">
+<tbody style="user-select: auto;"><tr style="user-select: auto;"><td style="padding: 0px; user-select: auto;" class="edit-block" align="center">
+<!--[if mso | IE]><table role="presentation" border="0" cellpadding="0" align="center" cellspacing="0" width="600"><tr><td width="600" style="vertical-align:top;width:600px;"><![endif]--><table type="options" class="tnpc-block-content" style="width: 100% !important; max-width: 600px !important; user-select: auto;" width="100%" cellspacing="0" cellpadding="0" border="0" align="center">
+<tbody style="user-select: auto;"><tr style="user-select: auto;"><td style="text-align: center; letter-spacing: normal; padding: 0px; background-color: rgb(255, 255, 255); width: 100% !important; line-height: normal !important; user-select: auto;" width="100%" bgcolor="#ffffff" align="center"><table class="responsive" style="margin: 0px; user-select: auto;" width="100%" cellspacing="0" cellpadding="0" border="0">
+ <tbody style="user-select: auto;"><tr style="user-select: auto;">
+ <td style="user-select: auto;" width="100%" valign="middle" align="center">
+ <a href="https://daijdhg.r.af.d.sendibt2.com/tr/cl/FI5-GZ-dL1Hh6NmrOj4VhBKEwp-ea0McVuSAuJMUj9zxJhTj8oY9huPJNwguwm4w78i3SNwEVYdIuiiZuh3IRTFqmG_yPuIOlOFGCd-Dx12PL98XzJn6AguAkSGhj9IM9ztXn-FnNto8PM7P3jh1HFwqWOj9v3oIbILakdg2LuqjFrdJbXQDjmtw9bwdxQvftLZhgHaHjPevZ7rGLd7aUsJgkdoLlf62xpwCugZ3y1wyxzk9q9h2GT-mx_gChWoIip523fQbP4z-OnmeTDSQruskCKomOVcPNMIafLENzP33mx89PIABVVNQL2ni9ESZaisC8hOnDq9IgSqz6eHbcDKwOH06ZbicwbmeHMDA1Xyu" target="_blank" rel="noopener nofollow" style="display: inline-block; font-size: 0px; text-decoration: none; line-height: normal !important; user-select: auto;"><img src="https://5fwei.img.af.d.sendibt2.com/im/3089376/3325ddad58594c9c9a31c2c2f4c1c5d57b0ddb76f7c3a70fdda7d9b360aae9c9.jpeg?e=DJM3IEhFvgnC_aLon6ZrxShnYC1N5uXV7rNIS9TzXa0w5r-Z5lboDHcdf8qbXrFv4dAqeJNxvhjuxGUsJsJZEHeGMrPWJcA8ZmemMYOn-GRjm7ZVOFxaEkVPE1AEySsv5QNKAOgz8iFCjL3YTVXca_uGtE4QoIEwh-ENxeYZX1AGJHOEB8ZRzNtmiE9DtBzsNztMsNoeYhmbAPu9NHwa2A1VONVclT_C1gK1SW6OYe4hl2vS1bl1y0WmEBYXT2GHvZIEvhF60WyjobdLvYVRnSf8lD5381qf9lauJqQJnr1kO6CGeUsJODSdDbk1-qCSFr6l8NkT8w" alt="" style="display: inline-block; padding: 0px; border: 0px; max-width: 100% !important; user-select: auto;" class="" width="250" height="208" border="0"></a> </td>
+ </tr>
+</tbody></table></td></tr></tbody></table><!--[if mso | IE]></td></tr></table><![endif]--></td></tr></tbody></table><table style="border-collapse: collapse; width: 100%; user-select: auto;" class="tnpc-row tnpc-row-block ui-sortable-handle" data-id="text" width="100%" cellspacing="0" cellpadding="0" border="0" align="center">
+<tbody style="user-select: auto;"><tr style="user-select: auto;"><td style="padding: 0px; user-select: auto;" class="edit-block" align="center"><!--[if mso | IE]><table role="presentation" border="0" cellpadding="0" align="center" cellspacing="0" width="600"><tr><td width="600" style="vertical-align:top;width:600px;"><![endif]--><table type="options" class="tnpc-block-content" style="width: 100%!important; max-width: 600px!important" width="100%" cellspacing="0" cellpadding="0" border="0" align="center">
+<tbody><tr><td style="text-align: center; width: 100% !important; line-height: normal !important; letter-spacing: normal; padding-top: 0px; padding-left: 10px; padding-right: 10px; padding-bottom: 0px; background-color: #ffffff;" width="100%" bgcolor="#ffffff" align="center"><table style="width: 100%!important" width="100%" cellspacing="0" cellpadding="0" border="0">
+ <tbody><tr>
+ <td style="font-family: Verdana, Geneva, sans-serif; font-size: 18px; font-weight: normal; color: #222222; line-height: 1.5;" width="100%" valign="top" align="left">
+ <p><span style="font-size: 14px">If you are already a subscriber, jump ahead to the good stuff! </span><span style="font-size: 14px">But if someone forwarded you this email, they probably love <em>It Depends</em> and think you would too!&nbsp;</span></p> </td>
+ </tr>
+</tbody></table></td></tr></tbody></table><!--[if mso | IE]></td></tr></table><![endif]--></td></tr></tbody></table><table style="border-collapse: collapse; width: 100%; user-select: auto;" class="tnpc-row tnpc-row-block ui-sortable-handle" data-id="cta" width="100%" cellspacing="0" cellpadding="0" border="0" align="center">
+<tbody style="user-select: auto;"><tr style="user-select: auto;"><td style="padding: 0px; user-select: auto;" class="edit-block" align="center"><!--[if mso | IE]><table role="presentation" border="0" cellpadding="0" align="center" cellspacing="0" width="600"><tr><td width="600" style="vertical-align:top;width:600px;"><![endif]--><table type="options" class="tnpc-block-content" style="width: 100% !important; max-width: 600px !important; user-select: auto;" width="100%" cellspacing="0" cellpadding="0" border="0" align="center">
+<tbody style="user-select: auto;"><tr style="user-select: auto;"><td style="text-align: center; letter-spacing: normal; padding: 0px; background-color: rgb(255, 255, 255); width: 100% !important; line-height: normal !important; user-select: auto;" width="100%" bgcolor="#ffffff" align="center"><table style="margin: 0px; border-collapse: collapse; user-select: auto;" width="100%" cellspacing="0" cellpadding="0" border="0">
+ <tbody style="user-select: auto;"><tr style="user-select: auto;">
+ <td style="user-select: auto;" align="center">
+ <table role="presentation" style="margin: 0px auto; user-select: auto;" width="200" cellspacing="0" cellpadding="0" border="0" align="center"><tbody style="user-select: auto;"><tr style="user-select: auto;"><td role="presentation" style="border: none; border-radius: 3px; cursor: auto; background: rgb(37, 111, 156); user-select: auto;" valign="middle" bgcolor="#256f9c" align="center"><a href="https://daijdhg.r.af.d.sendibt2.com/tr/cl/NwdKajdD5LKSFZYsAnU4yX9kShUq7f2pDy3CGctYzdX5kYllMHuKFMEcqRExYcBiuTF1T7DYtU4B8ds9f5K1e0VM9td4v1tMWDHc-oGG9_P5H9qV03e3_aJMZIr_HBzj9ufL59hjRGzE9q9FJea-1CWibN5HBMw_7r7ZNvdE2E-InGKM7MBs6206eHhIuaSXFysU9lVhvhOQgKs0uZ-QLtdUXpNY_M8-Y6WXYiUMcME89HMc4QrrZrCsiPEINm1xY2-nmBLqj8ZkEd1mVLN4xXHwCv5_KsjiItnbugbR48sWwLebTuevVHmIbi-fU2dud8CtSjPBdVvpJfEmD0NSIKQtwXGkm1ldxMx2iCykBJGYwR8tybq2vlxRftCt95KfHnH9SODKPq6g8tSjtJUOWRk" style="display: inline-block; background: rgb(37, 111, 156); color: rgb(255, 255, 255); font-family: Verdana, Geneva, sans-serif; font-size: 16px; font-weight: bold; line-height: 120%; margin: 0px; text-decoration: none; text-transform: none; padding: 10px 25px; border-radius: 3px; user-select: auto;" target="_blank">Subscribe now!</a></td></tr></tbody></table> </td>
+ </tr>
+</tbody></table>
+
+<div itemscope="" itemtype="http://schema.org/EmailMessage" style="user-select: auto;">
+ <div itemprop="potentialAction" itemscope="" itemtype="http://schema.org/ViewAction" style="user-select: auto;">
+ <meta itemprop="url" content="https://kislayverma.com/newsletter-archive/" style="user-select: auto;">
+ <meta itemprop="name" content="Subscribe now!" style="user-select: auto;">
+ </div>
+ <meta itemprop="description" content="Subscribe now!" style="user-select: auto;">
+</div></td></tr></tbody></table><!--[if mso | IE]></td></tr></table><![endif]--></td></tr></tbody></table><table style="border-collapse: collapse; width: 100%; user-select: auto;" class="tnpc-row tnpc-row-block ui-sortable-handle" data-id="separator" width="100%" cellspacing="0" cellpadding="0" border="0" align="center">
+<tbody style="user-select: auto;"><tr style="user-select: auto;"><td style="padding: 0px; user-select: auto;" class="edit-block" align="center">
+<!--[if mso | IE]><table role="presentation" border="0" cellpadding="0" align="center" cellspacing="0" width="600"><tr><td width="600" style="vertical-align:top;width:600px;"><![endif]--><table type="options" class="tnpc-block-content" style="width: 100% !important; max-width: 600px !important; user-select: auto;" width="100%" cellspacing="0" cellpadding="0" border="0" align="center">
+<tbody style="user-select: auto;"><tr style="user-select: auto;"><td style="text-align: center; letter-spacing: normal; padding: 20px; background-color: rgb(255, 255, 255); width: 100% !important; line-height: normal !important; user-select: auto;" width="100%" bgcolor="#ffffff" align="center"><table style="user-select: auto;" width="100%" cellspacing="0" cellpadding="0" border="0">
+ <tbody style="user-select: auto;"><tr style="user-select: auto;">
+ <td style="border-bottom: 1px solid rgb(221, 221, 221); user-select: auto;"></td>
+ </tr>
+</tbody></table></td></tr></tbody></table><!--[if mso | IE]></td></tr></table><![endif]--></td></tr></tbody></table><table style="border-collapse: collapse; width: 100%; user-select: auto; display: table;" class="tnpc-row tnpc-row-block ui-sortable-handle" data-id="heading" width="100%" cellspacing="0" cellpadding="0" border="0" align="center">
+<tbody style="user-select: auto;"><tr style="user-select: auto;"><td style="padding: 0px; user-select: auto;" class="edit-block" align="center"><!--[if mso | IE]><table role="presentation" border="0" cellpadding="0" align="center" cellspacing="0" width="600"><tr><td width="600" style="vertical-align:top;width:600px;"><![endif]--><table type="options" class="tnpc-block-content" style="width: 100%!important; max-width: 600px!important" width="100%" cellspacing="0" cellpadding="0" border="0" align="center">
+<tbody><tr><td style="text-align: center; width: 100% !important; line-height: normal !important; letter-spacing: normal; padding-top: 10px; padding-left: 10px; padding-right: 10px; padding-bottom: 10px; background-color: #ffffff;" width="100%" bgcolor="#ffffff" align="center"><table width="100%" cellspacing="0" cellpadding="0" border="0">
+ <tbody><tr>
+ <td style="font-size: 20px;font-family: Verdana, Geneva, sans-serif;font-weight: bold;color: #222222; padding: 0; line-height: normal !important; letter-spacing: normal;" valign="middle" align="center">
+ #51: The Mechanics of Software Evolution </td>
+ </tr>
+</tbody></table></td></tr></tbody></table><!--[if mso | IE]></td></tr></table><![endif]--></td></tr></tbody></table><table style="border-collapse: collapse; width: 100%; user-select: auto; display: table;" class="tnpc-row tnpc-row-block ui-sortable-handle" data-id="text" width="100%" cellspacing="0" cellpadding="0" border="0" align="center">
+<tbody style="user-select: auto;"><tr style="user-select: auto;"><td style="padding: 0px; user-select: auto;" class="edit-block" align="center"><!--[if mso | IE]><table role="presentation" border="0" cellpadding="0" align="center" cellspacing="0" width="600"><tr><td width="600" style="vertical-align:top;width:600px;"><![endif]--><table type="options" class="tnpc-block-content" style="width: 100%!important; max-width: 600px!important" width="100%" cellspacing="0" cellpadding="0" border="0" align="center">
+<tbody><tr><td style="text-align: center; width: 100% !important; line-height: normal !important; letter-spacing: normal; padding-top: 10px; padding-left: 10px; padding-right: 10px; padding-bottom: 10px; background-color: #ffffff;" width="100%" bgcolor="#ffffff" align="center"><table style="width: 100%!important" width="100%" cellspacing="0" cellpadding="0" border="0">
+ <tbody><tr>
+ <td style="font-family: Verdana, Geneva, sans-serif; font-size: 18px; font-weight: normal; color: #222222; line-height: 1.5;" width="100%" valign="top" align="left">
+ <p id="docs-internal-guid-bb3f263e-7fff-0145-b8a8-df8438dd6ec3" dir="ltr">Hello Everyone!</p>
+<p dir="ltr">Welcome to the 51st episode of It Depends. Hope you are all doing well.</p>
+<p dir="ltr">Last week, some of you asked about when I was going to get back to the podcast. I am trying to gather the energy for it - perhaps this Sunday will prove to be the lucky day.</p>
+<p dir="ltr">Onwards.</p>
+<h3>The mechanics of software evolution</h3>
+<p dir="ltr">You can read the <a href="https://daijdhg.r.af.d.sendibt2.com/tr/cl/z-LRtalM8Rz8XwphBQPEb4qoUsKVCnK3BnM3-WlxuAozJ6gOzlZIDpSHq0LRZDKs3IJItf-4zie7-Swi1LoNyZc6t0Yay4Mb4m_0uOoCo3r6EIYCGCOclFkQGJBQaP8-h8kyVnfTz-EbPKUVabzlojW5ngA-LfMR6dquLqr3uu9IrZbtCrJIPK2ubYhfi2-5P243u83rUNRzkBVPsrWx0vD9eXiR0B0pqTkw3beobR1GzjBJYNLVXuQoWsRD3H9gYDZ6OQLBKlbw5GPYURJmtWndTZx2h0XuG8QPuY5WGrc5VIoXq2jCdb0_3RezpTuJPCX6QpmvqBrkaRHlUFsyNZ8ZB7XjXMpuHvjOq9QLPEs6ppLS0oU2-JVWpyHeXlfQKbu1X1R9j4Ejfj7QeZ4k4aRtC9FHQeE5dzmxNx4CqZmP5zpvzccGTbcTVaNciA0oqemkooK0yl-sV2leKRATvrIfVhtk">original post</a> directly on the blog if you’d prefer.</p>
+<p dir="ltr">Have you ever heard engineers in your team complain about only building “business features” and never doing any “tech work”? There are some ways in which this complaint is legitimate, but I feel that there is an underlying unity to both these things. I’d like to explain this by applying an evolutionary lens to changes in software.</p>
+<p dir="ltr">Let’s start by identifying the kind of change requests we typically see in software.</p>
+<ol>
+<li><span style="font-size: 18px;font-family: verdana, geneva, sans-serif">Most of the time, changes come as feature requests for enhancing whatever capabilities already exist.</span></li>
+<li><span style="font-size: 18px;font-family: verdana, geneva, sans-serif">Once in a while, changing business needs aggregate into large change requests which require new things that the system has never had before.</span></li>
+</ol>
+<p dir="ltr">In the latter case, the need for ground-up thinking is obvious. New capabilities or abstractions are being explicitly requested by the external world, and we must deliver. While such large changes are tricky to deliver on, they are also the more straightforward ones (in terms of what the output is expected to be). There is an explicit directive to “evolve” the system.</p>
+<h3>Changes add up</h3>
+<p dir="ltr">However, the former case often also contains the seem need, though it is embedded a little deeper. Each small feature is innocent in isolation, but applying a<a href="https://daijdhg.r.af.d.sendibt2.com/tr/cl/eK6Afgl9oGIxWgwcuLrD-PvPEBssPO3-P5aBT9ZPUabJsv3T_rHh-oOwWD2J97KIZkk6XaSk_cPZHWTWdZU4FLHmeml0zIJo1THAA-lxfcXcr5SHxRYQS8YVE5bis8ys3A0cEjAl6Jx9a0o39h-ssGi2nZghhjt3uhaJCwCkhskcQzJdXkbMXRNVV1lDUTWLJ7zsgnZxn3W8ChMlLbyv-vha0T8We4e7rCNaRd_9mc-XqQAk1IYXyGlelTrs5rkDw7f8U0G4KIcXpd0ECPgTf9QbUs7Wd3dh-HTiA7dd6-b-gFP0B5sZOARPE3q3K2LCxpPG_A8DqQBm7DVcYIm__9-q3eTNF50ikez018FWDqoOsihc_8DBajJIQJTE-1X21we9H2SP8j6mY95aV2IJd97J7iw4pU5pIqi7jIZyoidCKe1s6BSfWSqda0XAnN0qoQ"> systemic lens</a> to it can sometimes reveal a more fundamental gap in technical capabilities. This gives us the opportunity to devise a more holistic solution that not only addresses the current requirement but also add some new fundamental capability to the system.</p>
+<p dir="ltr">This is what all the advice around<a href="https://daijdhg.r.af.d.sendibt2.com/tr/cl/j54zykqILDbsiMjE-LVxo5JJGbMh0ozChXbHtXfdgahxQXJjP-PKeebQz-ZUtVc9zuAD4a4PWp8T1VD8aeBCDpMkNloJeONs0n5asVTfKhqGRW30axfBgTSnY_5pA8U-xhS1TE3lPNFSlktGUnAoFJ17xbBDd96ZTRC2AySMPtB6E-JBWDBiUztSgEMS3JtsiMSsjJ7Im97OXQU5dqZJeReLSxNQGlMdz95_zozGSQ5lHSu99OiwHkAd4frJ-I5_0ewR2-589wnoVpBzWjCPniyo7mrj7Fl70FaH-OpFtJg_PCrAmgFoCLKNLfKmtxY1dQZe981xIuUEjoUThbraE8wiOS8D7Q2-0r-DkFAX6CHDSI6st8_SrjtZWKlnhjhO7bQoJaKeNdPSSUK2hZkPQvCz3hdS_VVdlUCy8Zi7KjtftrCuS7oyFR4juPNzSrqb4sYZ9Xw"> “understand requirements clearly”</a> is talking about. We have to understand the immediate requirements properly, but we also have to read between the lines a little bit to see where the customer need is coming from and try to take the system there directly instead of traversing a morass of many small, disjointed changes feature requests.</p>
+<p dir="ltr">Strategy is not just the arena of business. It plays an equally important role in how technology evolves. Simon Wardley has formally adapted this relationship of strategy and evolution into his<a href="https://daijdhg.r.af.d.sendibt2.com/tr/cl/TsmOFSqbUSCNpxuKn_LXbtoD5qHifJcZj_aCJkpT56FU6_vOpwCF4G4WkyBiIJsEUfGBy-LPcSvM--CszJOA6NAbiBadUkCLe3m7WyULzlxNJYR8bap4sQH31S-hc89vsVK3Jv8ADpPvNYcVX8Wy-sNXSLbxIObgDc6cYYssTwyDyYc5k9_kCCP9PAl8cUhZJkI7Kf63qggkSQ_aWIjKdrmk62ah3rqU2j-K6Gf2AHm91vO5hX_nCVBuz84fE_a6kCYIndwgmwbXrNblo3ohBz6xUZIZsATsjihAj71YJoDWUOQ0aESZeHDh7Vka2JrUQ5PXEgpYdvKKc9us4hKG5DhrVLPIqM00bcymPh_NDW_vjBRv6WJrrFq1I79q9DK_h1M0gOfqvFkrqmqY9D6nb309sK0EkgnNLyKIGvpgEhLg9k3T4w"> “Wardley Mapping Framework”</a>. As a CEO looks at market trends in aggregate and builds a strategy to evolve his company to keep up with them,<a href="https://daijdhg.r.af.d.sendibt2.com/tr/cl/7m5mp6OieJemCWY4ukDXAtVCe4vz-7b6GDvnJC6hnMN6ypS_Yz3O8qrNNNBlIWA-uZcfKzPa2xNlbIus2xEaz-hZhAe-R97VcszdKiWwngO2xn3Zla6N2lAf3AXxuBrdYiNTS-TsrC9dW5B04aotbhFFBFbdkH5AL54A13YaDdxoH6sZ6a1SKC_uOGfUJJYvrOwXIFnChcKGR-n9c82y-DoG4PiL3vVxK3KupjoqxT2YO_D3pXbPTQl44O-153iuwE3IZl3LtjLySXx9aztH6Bbr6XWADBNtBpUF0WEg5WCudBf9hWPJ32SkxaFgfe-3EfzP2F0atiR61jpPDCE3M-Cm-WERfRUy5TyIOiEp7GSypcb13_jQuNBC7zFFJ6KMGLpwlFg9DHyuapDWOSLw-laQaYqF6Wy2ZD-QKl_WLz-2K6c1KeooJDaHg8thHcw9g4beH7xKfL57"> the engineer has to look beyond the obvious requirement</a> today to see if there is an emergent theme underneath a set of feature requests when seen in aggregate.</p>
+<h3>Evolving software at the edge of chaos</h3>
+<p dir="ltr">Let’s phrase the design-for-the-future approach in evolutionary terms.</p>
+<p dir="ltr"><img class="alignnone size-medium wp-image-1405 aligncenter" src="https://5fwei.img.af.d.sendibt2.com/im/3089376/12e44a3a4b048146fa174b65f07611066b3153821ddb64c4028959c82c02daf4.jpg?e=aFbiTa3v8_Hlp6fG0SzDIsGp32Ft6ZYOKPbarFAnz2sUXWa6tKTXUPrxgSowzpa8xN_1xqtms_ColC94MU-tnFmbpGGFEUZpkpGoLODVt2Dso1tP-gMH3wIxsopkQAfnlKWf3_LeFFRvUDBJ29HOGw_3f6oUOftk3nqCnkJ4Caotq2mbE-AYQZq6td1pFEy_MFVgbIemGCJqmvVpMqmc_3Bq4AYMKpmDxeiVMlG8he5FCrRU8utXgMSiNfuH_zMc5kTiWx8LltqBgSkufhzb7PbKKHle-_rWhD68YCkU6Xa-jt2SMkuaTptSPX6eCDGU2-lIzrU" alt="" width="433" height="478"></p>
+<p id="docs-internal-guid-a1d48588-7fff-9d17-6645-ad4e94d0ad43" dir="ltr">Change requests, however small, are the environmental pressure for software evolution. Teams that can identify the driving forces behind seemingly small requests and develop coherent abstractions in their systems in time will have adapted the best to this pressure. They will live to see another day. Teams that consistently fail to do this will perish, something alongside their entire organizations.</p>
+<p dir="ltr">Before the rallying cry of YAGNI etc starts, there is obviously a fine line to walk here. An over-engineered system is just as bad as an under-engineered when it comes to being a fit for the business landscape. We have to find a balance where we allow the emergent themes to be manifested somewhat clearly before we solve for them. Too far to one side is the chaos of hacks and piecemeal changes, too far to the other is too many useless abstractions that slow down everything else. When done well, a system grows new layers of abstraction and complexity just in time to prevent small needs from becoming big problems.</p>
+<p dir="ltr">A constant evolution mindset is best put into effect when designing anything, but we also have to deal with existing code that is getting outdated due to changes to the ecosystem.<a href="https://daijdhg.r.af.d.sendibt2.com/tr/cl/_HIvcG7C1zq3NcjxoC7AH4536UV1oXeNNlO1FGQfk_0T0mEGD3sC80liQ7V-98p565-firOXguX16j9P-POsQOPN9gGLaaMvIzd3ouGehGxAw4Ct-WcaFYF23wcAo9hrl3DZRZaUONEPiu6SHhsdko9BXB0AOP6ULh6ibTLB4TAIciMBrsBSBflXDXu3nA_jv58na_UleqlxJA4cZxkOnxGIU9eWps84KDdd30PmKejqXNBe3BnjDyu81PDiDjWI4Vv7C1nXpLuhRF70ADPms3TZj9fnPx-yXSBVCHc23WKJSUATXjc5SHm9FPtPtooPAIfUVlKhnpcqdxJxyUGMjfZLPiKzVjM9oMQBBWlfh9qnIOWJTODRZ3Lj_VPhE8PCdxzhgESKy_Vfbf2N4eeLW7Qi-uOtKEiRiAnJKPA9-Fwq3BLVqeoKYMZ7fDDB6ZWC6y5NpyMUGW-aP1wW-aanON8"> Continuous refactoring</a> can be a good way to encounter this. Refactoring is a great opportunity to identify scattered yet recurring patterns in code and see if there is an opportunity to aggregate them into something more concrete. It also gives a good sense check of whether the perceived “theme” is real (something happening multiple times in code) or just wrong intuition.</p>
+<p dir="ltr">Large change requests are top-down evolution, but this is the kind of purposeful bottom-up evolution<a href="https://daijdhg.r.af.d.sendibt2.com/tr/cl/xvq_5YIIA1bYVwfgTfaawi5l7LsCvhux9UwlRi8UROM6-m9-lKWDbnx181yykgnyOrQQ7b69Nro9M2yelnyrRBK2h8gfPdFWNLDacZG6TIPY71SE-ioEpB6ILlG4B3dSCzYjKm2Viu87hjXRktzE1oPtCx_f1z0DTK0xL0U-TBUvyhmI2561Yyx2wk8n3SMmvwXMLljVwqowWILZGGZKeeC1Nz8cqUwxrAvD18rWGmLEoNX7rNSNYN6G1oZEzbxsauAlPvMe9Dgxb5feqvb-Il6_k0f7CvbaKf9aexioeGvp8Iv6NnjNhOQA2--krDBv2j7lzFXxfCnhCWI5WtMLUDFrXNZjsLhTv-c8P7hoIo97xE3Y7iiMN0TcvDt68LA5PwgFkhKZ6Aj0VtiIQVV5FwhlkopEV_gYXJZcB-EN_27fprQ8qoy3Pp0QuN1XPo_84hMYLcvR18-gH4sui61yjFU"> I have written about before</a>. If we don’t adopt this features-as-evolutionary-pressure mindset, scattered solutions to small requests will pile up and result in<a href="https://daijdhg.r.af.d.sendibt2.com/tr/cl/fsrjohCAg5Kc8VDBa1GNEjZUA5TKw06FGhBKw8KTVm39vAoBbUHFe-quvaOT2hiH6bQ_paizlHgZRqA-GFwYM14VuRpW6WgjkXc9ugYIzZz5-J7QFQQtAw_W-Z78DH5LuuCN5ojJ_0MqOKKXWeHSeqDx4ZaYEKDWwTsLnxNUvacsiwFUAGn8ys6z7MkPEb-GHFNzh6-Kv3-dcYXltRzgHAYOJBGOQnAaKB_K5POqCzgsv0zFgMFaQ6Av5eQpWcimlf4waBxkR-oULWbEeMqClFm-9_qCwwCYmbnIz8_MwlQV9LQWfZ5HIBlnXiBV0NPh_4dHfHChl88icJ27GI8ul-NADvVDN4HW5TDnGWuem8n2c2ssEwDW7tYMmvr7no-nSrX6mKy7REdZidqZICoFPTAGl-YpxZCXvnFySJ_VMTHYDtxFfUCkuu0B1BADiiLQrVVd8OE"> increasing tech debt</a> or an eventual large change request to the system. This “stop-everything-and-rearchitect” scenario is expensive and risky (since such efforts are liable to fail or underachieve).</p>
+<h3>TL;DR</h3>
+<p dir="ltr">My recommendation is to use feature requests as a breeding ground for the next generation of the system’s architecture. By continuously evaluating what we are being asked to change, we can jump the gun and get to the next level faster and often more safely.</p>
+<h3>From the internet</h3>
+<ol>
+<li style="list-style-type: decimal;font-size: 11pt;font-family: Arial;color: #000000;background-color: transparent;font-weight: 400;font-style: normal;font-variant: normal;text-decoration: none;vertical-align: baseline">
+<p dir="ltr" style="line-height: 1.38;margin-top: 12pt;margin-bottom: 0pt" role="presentation"><a style="text-decoration: none" href="https://daijdhg.r.af.d.sendibt2.com/tr/cl/irjZPWuoOG_Lx5WyBtY36VhohqGhbJw9h7CSUuu-X8GPeMt02AZwXAeP1ikRjhEeSslHfEQEyIJ73DbR9bO4R3K6CinzoXn9rxyPrDvu8slLft_nyrqBxtwe8zCCjdy3cOzNzs52ZwseMSztGAb_aHnKb8N77fECYPAMEGM9_ar3BmaEikTEgk0D9G-a0EfK93E3EaE_GzSS4r5oCxulQOF7piJn14BSNg0k3BKnai0mffhPWisueBArD9weYqhys4pAJoJ4V3Z1qzGtmGIfKBmVCT7k1Ma9q4DZ0_YAkS6-chXqBqZiKNlyzBR6nGZuL4QYRLmsmshO7VuRTt2WRxmFYZjtc9vFI7f0ga-q5SmWRjyV2R3ELXf13teBjXq7yQ"><span style="font-family: verdana, geneva, sans-serif;font-size: 18px">Jamie Brandon</span></a><span style="font-family: verdana, geneva, sans-serif;font-size: 18px"> writes <a href="https://daijdhg.r.af.d.sendibt2.com/tr/cl/43L15bqZZvRp4iDNpODu-TPukxbq3AkjzNTFWZ3PXhv63quIGCjr7jmYwCHpDMaDjF8KbxijqCVaMAh_sGMOK_uS42FK8flobgHVdnbh1UwY_l0v1cxoSy3hyHw7RkKHQnB2aTmepTVm48PS8ickK0gFBcWBNZSqiDE5uyoNSjCUmsMKL6uQmuHgw8MulZYbpT6nccd6H60F2BI_D_h0qH7Db_bcOddIlDWIFa4xTQns22dSKsQQbalATgKXPXS50Ks7jsizZnqr7iOHD2jPYkNd4qsHQ-w3iMn9Q5TaC7PcuNPxDydStqCaFlf4RMzBBM7vt8TVIyxkmMxR6TN9mOi242Mv4GFVHKqXMyXFPnnst5wfRKZV0wbASIF0ItmqjFvG-lXw1GNJadNJHSYGA3mr-Bjw91UNq_S5ugPc36gi">against SQL</a>, or rather against SQL being practically the only representation of relational model/set theory.</span></p>
+</li>
+<li>
+<p dir="ltr" role="presentation">From Ron Sobol of team Granulate, here’s a deep dive into <a href="https://daijdhg.r.af.d.sendibt2.com/tr/cl/bzcS24ahmdq3z6J5f_Jx0-L8nT9hNIAasAwlNp8CmaBsPt_MwurctOVG0kna-9YQeE6Cea9r_GaTOxoi5K6HCAJ5RMpzb_pAwvuMKXHej1ktpiQxwi1n0UvgqDCICe3or8p8_46RI_vfDiGDP7UKtNl4QnJjK-uI1UuuUS2sO8v6aejGOyVbAp8VfdQm6zQc-xsaNW_g2xg1XCrc0graiI-ecsCf9RohKAYBGtIHgHPtgVOf1v_Jl0xQ9CMcueikI39p8FFf6DZN7eESiBlEc6lj7LRxm3ngt-oqJcIg8WSJUbSo1_Wr1oDRFAfR72BDDX1USwxii55YtDUI_JmHQoOalmE3pC3hcPjW9QQYMR66ILMy3rjqglRIXQCziwcmhhRu3rLNwL6ft6kBrHPOg7S_h_hrsV1VmLv5gww">scheduling in Kubernetes</a>.</p>
+</li>
+<li>
+<p dir="ltr" role="presentation">Mahesh Balakrishnan shares some sage advice for senior engineers and managers from his <a href="https://daijdhg.r.af.d.sendibt2.com/tr/cl/zFW8XQtzNk_lRgkusGS-A-I40h3qgcUD3QEWZs_wGzOo-OTDFpgB4XpuvPh_RugtESWUArrs2ezfaKw1kOv8jJiOhBkrrwWzS8jm64uHPjSAwl606pyYj2XSF8bUtPlsOx4fgISk16Y4ZRxsN321ciwOlpYJorxPzwApMMd4EsSpZXhWAn40Jukr2AxkXMqgUPtmsTPEN84lY5B1JeugoAVW59VIcg0bkia_oFgqWjDxB7VRE3W-ZB54MdzaJRx0_89hih3be2irYr0j1jUIDtB4dHnImUQ-Sn40KgsRTaXRUwbCpOtz-YIubFlP9F0KhFrN9NWYZL_XXz4eqz33Wb0t96zL4Zpc4jefNlPkploEPEW7jfUtJmmxWpY2lcBfkMwj0nnL4qB9gdPv5ov5v7DnQ9mxQtldl6oe5itciJc7">journey of building a production database</a>.</p>
+</li>
+</ol>
+<p dir="ltr">That’s all for this week folks. Have a great weekend!</p>
+<p dir="ltr">-Kislay</p> </td>
+ </tr>
+</tbody></table></td></tr></tbody></table><!--[if mso | IE]></td></tr></table><![endif]--></td></tr></tbody></table><table style="border-collapse: collapse; width: 100%; user-select: auto;" class="tnpc-row tnpc-row-block ui-sortable-handle" data-id="text" width="100%" cellspacing="0" cellpadding="0" border="0" align="center">
+<tbody style="user-select: auto;"><tr style="user-select: auto;"><td style="padding: 0px; user-select: auto;" class="edit-block" align="center"><!--[if mso | IE]><table role="presentation" border="0" cellpadding="0" align="center" cellspacing="0" width="600"><tr><td width="600" style="vertical-align:top;width:600px;"><![endif]--><table type="options" class="tnpc-block-content" style="width: 100% !important; max-width: 600px !important; user-select: auto;" width="100%" cellspacing="0" cellpadding="0" border="0" align="center">
+<tbody style="user-select: auto;"><tr style="user-select: auto;"><td style="text-align: center; letter-spacing: normal; padding: 0px; background-color: rgb(255, 255, 255); width: 100% !important; line-height: normal !important; user-select: auto;" width="100%" bgcolor="#ffffff" align="center"><table style="width: 100% !important; user-select: auto;" width="100%" cellspacing="0" cellpadding="0" border="0">
+ <tbody style="user-select: auto;"><tr style="user-select: auto;">
+ <td style="font-family: Verdana, Geneva, sans-serif; font-size: 18px; font-weight: normal; color: rgb(34, 34, 34); line-height: 1.5; user-select: auto;" width="100%" valign="top" align="left">
+ <p style="margin: 0px; text-align: center; user-select: auto;"><span style="font-size: 14px; user-select: auto;">If you love reading <em style="user-select: auto;">It Depends</em>, consider supporting it on <a href="https://daijdhg.r.af.d.sendibt2.com/tr/cl/Mn4jP6FPuM6_qhVKZ0ReDO-4rmyaHWy89ALgdLIjc6_vERkMh9HDh-NBgwZ57bSWeBH2IuWYkK2haDVMVmytsMEqZoEn7MaPhn6TRfaq68ph2h9QpvKxtgU9-OIdwF5D4Ux2axcL9aB4895H6EpvLZVj1jeQqv_0WJXZ0JdmP4mTzJgLLE1J7vuZDt3oDy-_4k6gavfDjVou3bNMrFByQMEkO4DMKcZiFbYfC3FkRYb2QnXZAS775swEaR23WnJREkzWNzlMAUj4acHBQ_wkhNWuIlfn05IUdDdL3XPtwi_0veh1pxkRVC_NwHvtZKwXC8L8mrrEGy7QeWHYQ-qZGmdpup0C8vvfwkh9sYgzauTxDiykqOvxhlQIt-SlT9V3ZP7NOhJ8VBkILu8XaXk8DNnXv2DE" target="_blank" rel="noopener" style="user-select: auto;">Patreon</a>, <a href="https://daijdhg.r.af.d.sendibt2.com/tr/cl/XHNV1Xss8du-i58VG5fYLJ8tI1jwMgHdD_X36p6Wiqi0Tpa-nYVGc5uE5DNBB_0-74PzMEZIA9FuNbGm-YRgJCLtQX9iD_Gbb58uArLrDaGNht6erQnN8NRpJ2tjAhCOVA-jEjhdZZpfZiDPNF2-MfbdfPiNGZmE9h8t4edQEgYrDRCm-PUZvz5-tqJnXSgPG1Z6RM5b0UhX1-wTPcUbDBQV879xkTHip8x13GIzipEjckWsx7bzTAos6L7qM-JCA14Am8F5GfHOfWvwe4fFdRQWpD9ARJQGWMkCc-orEdius77QPuXkBNWcmcd0ZpX2nab2cnM61R_PXccL-RmjaybnQeK6AjUkxc_Ij0ip8wATR_dyuxU3fqCfH4yj" target="_blank" rel="noopener" style="user-select: auto;">Gumroad</a>, or <a href="https://daijdhg.r.af.d.sendibt2.com/tr/cl/LBdkFGIYyifZKsNpR-ESLoCgRymmzSAJcLlrE9e9E323_Mg_V8-MPPc5CQv4jrMOs0u20igmKnPDHKHbZzec7Sb7LCPY9JSAEcARqHYD0Ji8C43mY6qxd7oiqN4nP067eehADWb58HHlXMxZzZjt65vat8wQYNu3gdsJjeKEOu9wawb0WhH-6DM0o-t1Qe0uQ7JkWvJ9Bv5OjbZoFDd6rXe1YN4Ci6qSb-TgRUvoRyMlSdU8ahZY3Bw_8NsOCdzRT0c97sYiaZdc4VSeK0sUl02AwjnLADryrsXFVLAUiYkh9jt_Gy9NzXGLFKVfkdt3wwV817h__37tOk_4sAK85Lxtau_2D5Tn6QZEVzoI237FW-RSe-MkSY3vo27EJ3hbDQ" target="_blank" rel="noopener" style="user-select: auto;">Buymeacoffee</a></span></p> </td>
+ </tr>
+</tbody></table></td></tr></tbody></table><!--[if mso | IE]></td></tr></table><![endif]--></td></tr></tbody></table><table style="border-collapse: collapse; width: 100%; user-select: auto;" class="tnpc-row tnpc-row-block ui-sortable-handle" data-id="separator" width="100%" cellspacing="0" cellpadding="0" border="0" align="center">
+<tbody style="user-select: auto;"><tr style="user-select: auto;"><td style="padding: 0px; user-select: auto;" class="edit-block" align="center">
+<!--[if mso | IE]><table role="presentation" border="0" cellpadding="0" align="center" cellspacing="0" width="600"><tr><td width="600" style="vertical-align:top;width:600px;"><![endif]--><table type="options" class="tnpc-block-content" style="width: 100% !important; max-width: 600px !important; user-select: auto;" width="100%" cellspacing="0" cellpadding="0" border="0" align="center">
+<tbody style="user-select: auto;"><tr style="user-select: auto;"><td style="text-align: center; letter-spacing: normal; padding: 20px; background-color: rgb(255, 255, 255); width: 100% !important; line-height: normal !important; user-select: auto;" width="100%" bgcolor="#ffffff" align="center"><table style="user-select: auto;" width="100%" cellspacing="0" cellpadding="0" border="0">
+ <tbody style="user-select: auto;"><tr style="user-select: auto;">
+ <td style="border-bottom: 1px solid rgb(221, 221, 221); user-select: auto;"></td>
+ </tr>
+</tbody></table></td></tr></tbody></table><!--[if mso | IE]></td></tr></table><![endif]--></td></tr></tbody></table><table style="border-collapse: collapse; width: 100%; user-select: auto;" class="tnpc-row tnpc-row-block ui-sortable-handle" data-id="footer" width="100%" cellspacing="0" cellpadding="0" border="0" align="center">
+<tbody style="user-select: auto;"><tr style="user-select: auto;"><td style="padding: 0px; user-select: auto;" class="edit-block" align="center">
+<!--[if mso | IE]><table role="presentation" border="0" cellpadding="0" align="center" cellspacing="0" width="600"><tr><td width="600" style="vertical-align:top;width:600px;"><![endif]--><table type="options" class="tnpc-block-content" style="width: 100% !important; max-width: 600px !important; user-select: auto;" width="100%" cellspacing="0" cellpadding="0" border="0" align="center">
+<tbody style="user-select: auto;"><tr style="user-select: auto;"><td style="text-align: center; letter-spacing: normal; padding: 15px; background-color: rgb(255, 255, 255); width: 100% !important; line-height: normal !important; user-select: auto;" width="100%" bgcolor="#ffffff" align="center"><a style="font-family: Verdana, Geneva, sans-serif; font-size: 13px; font-weight: normal; color: rgb(34, 34, 34); text-decoration: none; line-height: normal; user-select: auto;" href="https://daijdhg.r.af.d.sendibt2.com/tr/cl/AZ_mZSZOE6YT4VCVghDHjsOrosTaXkf6a8cljNpHXJXUVfuTC3IojWv5OvqJmwd4i5ItszLcyKq1HPicSiuM0a3zs-SRuFZGU9jrRPnv3BnpSNwQpXC_AyUlTuRIdl4DXtfbYz9-o9y6EAyDWgRB4SFTAkulG7VU_pq5fhsqV5RuZ5REN3HhnqUdgGkCNinilIaca1kKvqaJrTpOryeoMzBCNrDO7ykJ6TLOu82p2ClLzMiqOET4rFFkemKfW1G3T5qmmHPm39GUbqN2SRqoQttUA2EvS_tzhwfyo1bTHCdkJUYEHntdF7dukMUV7_ZDjjsuC0rVj2lQB5l6VGWmE2gyH5FN34RsbwOF0olxE-OwmPygmZPNrGhmDxrrrHKlW9iDGNhWL6a8mGjGDaL7kiHD-KddssUvLLIEjm6BC31P" target="_blank">Modify your subscription</a>
+
+<span style="font-family: Verdana, Geneva, sans-serif; font-size: 13px; font-weight: normal; color: rgb(34, 34, 34); text-decoration: none; line-height: normal; user-select: auto;">&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;</span>
+
+<a style="font-family: Verdana, Geneva, sans-serif; font-size: 13px; font-weight: normal; color: rgb(34, 34, 34); text-decoration: none; line-height: normal; user-select: auto;" href="https://daijdhg.r.af.d.sendibt2.com/tr/cl/ib3q5ScCbLN53Bvk2xjLg9O-Fn3LAT9_opwYPMgJYoYICPQZW7qlLLIN5bs7jP-Et284zmmj8N-SRje015FDYBSENg0kZ4LnOaHVLUIGZ112MdNeaPbNfMA-VCukjLkFT7-gEPIdsyIeWNvyP5iaADfLmPN2_y5LqSui8P-ObCI3g-EJmPop6DPuNlRtVgmDsaIr-m9bmnQQsYuD6VTYYPTGEAqqzG1FDV1taKAUyoFzHItP-14qYsZJSe0DxExphG3B63M4rJckq_N-6vlxlvfSWNeNt0ci1FYLq_qNy0E6Gx5CM94O4bA20AuRo8aXHIZUBqE06qREjIWsbk6LW1faUfZSQ9riz3UsDTuhzZqCKSEYlluMTQDaVQ34y_ZQlsVFZ2xFg43qW46SKqFarpMLSVrT7s5tWQ" target="_blank">View online</a></td></tr></tbody></table><!--[if mso | IE]></td></tr></table><![endif]--></td></tr></tbody></table>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- /tnp -->
+</td>
+</tr>
+</table>
+
+<img width="1" height="1" alt="" src="https://5fwei.img.af.d.sendibt2.com/im/3089376/d9298015bf608c50c307494b5550a42afbdb3b39d42d682cce33bc904dc4a54e.jpg?e=6ZjqWXDjUWJxF3eW4U291e9uVcGBCgOiNhGNlxaG2a1DeC4ibiaGt7SF00K8WaFWJC7VNIuqFKPQ7QKYS7xAecf_-FIK3bF-pqafnEXw4GiCvnrRFRc_NBOOgZMhoe3OgvgPMhcm1liiSiFib8sMtHCjxTtiNLMpSvxaiLyW3UpYc6amQd6TCl7uCUvC3uT9x-VM4sTVL-wX78k-G8DbxBk8WSfjp1-pmQcsN8aWhN5nKGgt6vy8w--KdIVwKKBxNtRr5t0105h5Y_UnTSMdI8pm-Kaq88E3CoPLqsQrVHswn2U6IcaVCCLX_JokXQ"/><img width="1" height="1" src="https://daijdhg.r.af.d.sendibt2.com/tr/op/umD8QNg-PWVyY92f26ggFoc2vkfLQOtWUzt98mAdSNYQsdkz7X0XCFJIp4BP_VNKqkKUmpRnTXFXmSeA0H9Cx8prZppCpJIryol7Iavq6iOfYHGqQMlZkzniZfIh5sgb5I4ga9Dn00f2oPvXtuCZ2s81nXD_wEAFed_J_khBqG9r" alt="" /></body>
+</html>
+

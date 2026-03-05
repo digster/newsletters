@@ -1,0 +1,28 @@
+---
+subject: "A digital hammer for India’s trade finance nail"
+from: "The Ken <info@the-ken.com>"
+to: ""
+date: 2021-08-25 02:36:54
+labels: ["CATEGORY_PERSONAL", "IMPORTANT", "INBOX", "The Ken", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "IMPORTANT", "INBOX", "Label_8244464457792971031", "UNREAD"]
+---
+Good Morning Ishan,
+As an outsider peering at India’s tech stack, I’m often impressed. The Unified Payments Interface, or UPI, for instance, has made digital payments a cinch. It may not feel like it to Indians, but this isn't a given in other countries. Just ask Indonesia, for instance, which is [developing its own UPI system](https://the-ken.com/sea/story/bi-fast-indonesia-bank-payment-real-time).
+India’s latest financial services innovation to behold could be trade financing. Look, I get it, trade financing is not as sexy as payments. But it sure is crucial.
+Micro, small, and medium enterprises (MSMEs) contribute about 33% of India’s manufacturing output and financing is key to growing their businesses. But did you know how painful it is? It typically takes eight to nine days for MSMEs to receive the letters of credit needed to get their capital. And that’s only after they’ve submitted over 100 pages of documents.
+That’s beyond tedious. But a potential fix is in the works, using a distributed ledger system popularised by blockchain technology.
+The Indian Banks’ Blockchain Infrastructure Company (IBBIC)—a consortium of 18 major Indian banks—ably assisted by IT services giant Infosys, has a solution to simplify the documentation process and provide letters of credit within just 2-3 days. Fraud could be reduced, too.
+It sounds ideal but, like any chain, the weakest links will define its success—and there are many at this point:
+Plans are well and good but can IBBIC execute?
+Pricing is still to be decided and distributed ledgers aren’t cheap—who foots the bill?
+And, crucially, can MSMEs themselves digitise their businesses in order to take advantage?
+Jaspreet, in his first story for The Ken, digs into these questions and more to answer whether India can set another tech example to other countries—many of us are watching closely: [https://the-ken.com/story/building-a-digital-hammer-for-indias-trade-finance-nail/](https://the-ken.com/story/building-a-digital-hammer-for-indias-trade-finance-nail/?utm_source=daily_story&utm_medium=email&utm_campaign=daily_newsletter) (11-minute read)
+Best,
+Jon
+|
+What you just read is the personalised daily introduction to The Ken's story. Written by a different person each day. Often insightful, sometimes witty, and very rarely boring. Someone sent this to you? [Sign up for free](https://the-ken.com/sea/?modal=register&utm_source=footer&utm_medium=email&utm_campaign=sea_morning_email). Don't like these? You can [unsubscribe](https://link.the-ken.com/asm/unsubscribe/?user_id=2349339&data=ejgjFOPFd9dlQ9mZ3Xcb9vcCXk-in_HfwFv1KDMQunetmcPgIe9UX2bAp8CtF3XgikEE-cmOFekfIXOTyL3iuA7_WDYILFI-sU1v6B_OtMzy5s3e3kebsnLj4DL6Mhl3pj0Q57b50Y1lzaNJKu3eOA-QBi3XxqOLaUOjA1nNzzwZ0gfrkZFsnmedjV6475mUNetGTVcbSBwXUraq6vBsX1uDE6PQXNpT8Iaxq2jZn9ivGgpZy8MSSZ2LUepDMDxSBCUwrBHp7fRvOSPwZ_W-Q2csIER2jewdBQUzRi48uwruTrmUcwPFDEo8QnoHb7Z3cuJwKtJL96flS0RjLEJQ7FXuXFKx0NEe8Q0Zcm5BSYvbjrt1oTd3zwWMr5awegaf-pDAwyH42U3mN0vMNYLI5kcqBgmO9LCUX2OdSOp3Rru5aTag-KHaZ5TzRb2jWOVrTQnpoCR4HUcMkus8wXti_uBx0VRLA-ZbfgF3e9n4wWPW63svhEOtONILj1kZv2n2fT2UDpW6l8sJO3WTc6Tg5FbVbCxqBziBiRFZKRcRyRs=). Want to manage your emails? Click [here](https://link.the-ken.com/asm/?user_id=2349339&data=X1KerIJ8F6ZoYf0bxi5IUdaMSq-ap_8op4ZiQhxUCo4gh9w6pI_HA3jz_O3GfUZ7wITVt3sM7NYXTADbl60NYws_9P70ZmzQZ2WPhWV-NPfnwOhpfxTzjstnqhJ_M9HfaUFSwyQgWYWMYRePfs2UziNV_-5N5y0khboz19vUEJ7ederOW_T6FRc0JT2AbquSK8j5xBJz4uUWFlutL0y5pM0oSqnyr_4IBp3ldmC6XW7bVAADcwe-QS8f9CG_mly2Ag4THgON8aUoIS_PbUjO2XPq2B1Bcl5wT2FfcUrumkhzjMcvzCEN0LOFMHi1pcTsyA3BjwUX3HF3LQX0XH05cmMzFib6zA2Pnnpco0FCT_Qhzz1k4E5FldUeVHYWYXUDSIaT7vGx2MDKRVl6qlwfgCiyTh4DtHbwrWRnH1ttOS2pgP3frrvUykgzq-SK6noewsJGjkrq-yiIpfOOnjnMl_66K9mMqxWn_G2okLFNIs5dXzSYt1UdHk4tXbb7XUfYwG0zYYnVYS14gCaZQgJ7DA==).
+|
+|
+|
+|
+|

@@ -1,0 +1,10 @@
+---
+subject: "Partisan Corporate Speech"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2025-05-19 07:04:07
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+We construct a novel measure of partisan corporate speech using natural language processing techniques and use it to establish three stylized facts. First, the volume of partisan corporate speech has risen sharply between 2012 and 2022. Second, this increase has been disproportionately driven by companies adopting more Democratic-leaning language, a trend that is widespread across industries, geographies, and CEO political affiliations. Third, partisan corporate statements are followed by negative abnormal stock returns, with significant heterogeneity by shareholders’ degree of alignment with the statement. Finally, we propose a theoretical framework and provide suggestive empirical evidence that these trends are at least in part driven by a shift in investors’ nonpecuniary preferences with respect to partisan corporate speech.
+That is from [a recent paper](http://marginalrevolution.com?action=user_content_redirect&uuid=952c4b223854d9fe81a952c2cef4b701793bc94453d1185451be464092f4fa81&blog_id=42693868&post_id=90690&user_id=262258391&subs_id=225460721&signature=08d4a8de1baed67c06b6dee817eb462f&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly93d3cuaGJzLmVkdS9mYWN1bHR5L1BhZ2VzL2l0ZW0uYXNweD9udW09NjczNTk&email_id=8214b1ce5c8911686269862b4dcb153f) by William Cassidy and Elisabeth Kempf. Via the excellent [Kevin Lewis](http://marginalrevolution.com?action=user_content_redirect&uuid=4b6a373cfc9b54d31d70d1db04d408b457cbf70ab6d0095adc56b83f1374fa05&blog_id=42693868&post_id=90690&user_id=262258391&subs_id=225460721&signature=802d94f3e68fadbd8e7020c30d8d489c&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly93d3cubmF0aW9uYWxhZmZhaXJzLmNvbS9ibG9nL2RldGFpbC9maW5kaW5ncy1hLWRhaWx5LXJvdW5kdXAvdG9wLXRvLWJvdHRvbQ=&email_id=8214b1ce5c8911686269862b4dcb153f).

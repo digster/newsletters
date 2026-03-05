@@ -1,0 +1,11 @@
+---
+subject: "Is involuntary hospitalization working?"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2025-12-15 05:35:39
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+From Natalia Emanuel, Valentin Bolotnyy, and Pim Welle:
+The involuntary hospitalization of people experiencing a mental health crisis is a widespread practice, as common in the US as incarceration in state and federal prisons and 2.4 times as common as death from cancer. The intent of involuntary hospitalization is to prevent individuals from harming themselves or others through incapacitation, stabilization and medical treatment over a short period of time. Does involuntary hospitalization achieve its goals? We leverage quasi-random assignment of the evaluating physician and administrative data from Allegheny County, Pennsylvania to estimate the causal effects of involuntary hospitalization on harm to self (proxied by death by suicide or overdose) and harm to others (proxied by violent crime charges). For individuals whom some physicians would hospitalize but others would not, we find that hospitalization nearly doubles the probability of being charged with a violent crime and more than doubles the probability of dying by suicide or overdose in the three months after evaluation. We provide evidence of housing and earnings disruptions as potential mechanisms. Our results suggest that on the margin, the system we study is not achieving the intended effects of the policy.
+Here is [the abstract online at the AEA site](http://marginalrevolution.com?action=user_content_redirect&uuid=e886c37e70629697f4e5dffd6b2149ad9b4cc921a384f4c42b1d44ce76258b01&blog_id=42693868&post_id=92028&user_id=262258391&subs_id=225460721&signature=53d8d0aff86daaec2ce36aceff56359d&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly93d3cuYWVhd2ViLm9yZy9jb25mZXJlbmNlLzIwMjYvcHJlbGltaW5hcnkvMTI2OT9xPWVOcXJWaXBPTFM3T3pNOExxU3hJVmJLcWhuR1ZyQXhyYXdHbENBckk&email_id=d53e8aad06442a73b5ca0dd5c06b29d0). I am looking forward to seeing more of this work.

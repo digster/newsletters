@@ -1,0 +1,23 @@
+---
+subject: "Does 2024 look good for the job market? You gave us your take"
+from: "The Ken <info@the-ken.com>"
+to: ""
+date: 2024-01-01 02:38:08
+labels: ["CATEGORY_PERSONAL", "INBOX", "The Ken", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_8244464457792971031", "UNREAD"]
+---
+Good Morning Ishan,
+Wishing you a great New Year filled with kindness, success, laughter, love for what you do—and just the right amount of chaos to keep all of it interesting.
+Over the past few weeks, we surveyed over 1,000 employees and employers to understand what they think about the job market in 2024. The revelations either defy earlier trends with optimism or confirm the impending doom we’ve been whispering about.
+Remember when we [declared](https://the-ken.com/story/engineering-grads-havent-struggled-this-hard-for-a-job-in-a-decade/) that engineering grads hadn’t struggled this hard for a job in a decade? Well, 2024 might just give job seekers reason to cheer.
+We [said](https://the-ken.com/podcasts/cost-to-company/why-the-job-switch-salary-hike-isnt-a-wise-career-choice-anymore/) the job switch hike isn’t a wise decision anymore. This year, nearly every third employer plans to shower their staff with a double-digit pay raise. Also, six in 10 employees are sanguine about forgoing a salary bump if it means job security.
+Did we [once mention](https://the-ken.com/story/buybacks-bring-back-esop-lustre-but-all-that-glitters-isnt-gold/) how buybacks brought back the Esop lustre, but all that glitter isn’t gold? Yet, even now, more than four in five are gleefully accepting Esops as part of their salary.
+We [pondered over](https://the-ken.com/story/the-genai-paradox-why-indian-it-firms-ban-it-while-preparing-to-sell-it/) the paradox of IT firms and GenAI. Turns out, employees are as chill about it. In fact, just over one in ten are breaking a sweat over it.
+And if [our story](https://the-ken.com/story/tcs-gets-the-return-to-office-bug-can-its-it-rivals-be-immune/) on IT firms getting the return-to-office bug left you feeling queasy, you’re not alone. Employees are wrinkling their noses at the thought of going back to the workplace five days a week.
+For the full view of the job-market survey, read our New Year’s special (it’s a free read) before your coffee loses its steam and your spreadsheets beckon tomorrow. Here: [https://the-ken.com/story/2023-was-brutal-for-the-job-market-is-2024-going-to-be-any-different/](https://the-ken.com/story/2023-was-brutal-for-the-job-market-is-2024-going-to-be-any-different/?utm_source=daily&utm_medium=email&utm_campaign=daily_newsletter)
+Here’s to 2024: may you customise your hustle level.
+Cheers,
+Sumit Chakraborty
+[sumit@the-ken.com](mailto:sumit@the-ken.com)
+What you just read is the personalised daily introduction to The Ken's story. Written by a different person each day. Often insightful, sometimes witty, and very rarely boring. Someone sent this to you? [Sign up for free](https://the-ken.com/?modal=register&utm_source=footer&utm_medium=email&utm_campaign=morning_email_ind_shared). [Dont like these? You can unsubscribe](https://link.the-ken.com/asm/unsubscribe/?user_id=2349339&data=KW4te_3oDPgYDIfWRg5wFr5hfDByedtKOyMYQiFycV9oMDAwdTAwMLE0xTVJSDlyFrVd_yPkfs2TNEeqgBZxboI0CMWGfGX3mjPv9Axrz34PfXDHH7fCZQFqA6O57CZAdj08Hwkr9QCOm5DEXVZ9M2CMIyQh6M_hJaquXNpi7Qx9DOzopNC-jLgJdOnFmd_eBu6Q8epsz0D8MhK-tJR5kHGkeXtm8Qv4YdrR9xqTDIswKVRIswdQ9iPKT7C677bRy4IyaFr__ItjWwkODgHsZ66n5Rkoa2XkKlYG1eF9xdjcrefgIY9VHoZ9fNqeOc8KNAMNVbwekhw1cI65zlrHQA_EhwNfKkmB80E_OdPDKhbHmbXRObWD2EtfBeew9zzngLfa3VA1KU8Utn9G5FRrTdRzoQ7OW4-BmfPNrOJOQofYTcJiPkWEoKwpstrZZ056hdgDjsAx585tZFuSWZBlGkoN_797dvwQZVARUPUSZ1osF6IAO8N_EgLVT5MJw24H8ptgdgSiApcJopKF32GUcP_LKA4JFQz59SADe9Juh-dpOUiHrF8TfJ9EpB7M04k-XiSGP_Rgu4c=) Dont want to hear from us again? [ Unsubscribe from our emails here](https://link.the-ken.com/asm/?user_id=2349339&data=n5ple_BshOK6EHoaQfh2n886f0YrOdUSLgrU9uZ1ZvpoMDAwdTAwMKGeFvNs0Sv9nANDvTq15qEHRWgAOtF3eZKdtWPF2dQC7p5oIUDTNMVpFzA3aSoHlNCaBPd8JGq4B2Vu2PHKiF0VN0SQebya760FBlCmpcSu9xx2oTTDsD_Hzj6fyHAI3WCDLn5e4yxHJ_r1rDimuJZCfqKGeckhhbyZpjKAWmqa0tlJserIBYrzuKnfu3vYHKTV0KblzDMbjz_jQK7eAtgQac-0nhfgsCcR1udtJDwM_OuAXyZUSJMn6H1AK7flJ-f-EMMcKQ2NK4Bq0Iv5z-pjelXng6qB6jt7rPE9I0qy0MuRflSCe_O2pG1i4suJN0EezcuzAGn7-tT5OUfeKcA58FZjcu79ew_xjjfZb4TNTRJ_gdHo20e2d_QGB10Gs3zxDbuvLSKMm9phgO7ZllXWyazwwOOO0OvRR_Yi7cvOIrnNAVjbWbtFm2e30IsLXiSHvFvKmwkTcGAuP30T4XYdTxrv5wi3AMvPstvNjwekjNMDaxkuWKRKNxTJlM_XwQ==).
+Something wrong? Tell us at [support@the-ken.com](mailto:support@the-ken.com)

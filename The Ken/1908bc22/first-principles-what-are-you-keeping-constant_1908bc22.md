@@ -1,0 +1,93 @@
+---
+subject: "First Principles: What are you keeping constant?"
+from: "The Ken <info@the-ken.com>"
+to: ""
+date: 2024-07-07 05:54:36
+labels: ["CATEGORY_PERSONAL", "INBOX", "The Ken", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_8244464457792971031", "UNREAD"]
+---
+|
+|
+First Principles
+Sun, 07 Jul 24
+Your Sunday newsletter on mental models and leadership, seasoned with insights from some of India’s most disruptive thinkers.
+Good morning Ishan and welcome back to Sunday!
+We’re now officially in monsoon season across India. Which, alas, means that mango season is pretty much over for us down south. While I’d hate to be classified as a mango purist or supremacist, the fact is that the varieties that are available now (I’m not naming names!) are a poor way to end the mango season.
+I like to think of mango season as the time between the appearance and disappearance of my favourite mangoes—Imampasands, Malgoas, and occasionally, Hapus.
+For about a month now, you could see the season ebbing away as the availability and quality of mangoes started to become erratic, even as prices rose (to capture the season-end premium from mango lovers). I’d stop at a few shops every day while driving back from work, checking for Imampasands and Malgoas.
+I didn’t find any for the last 10 days. And that’s my solemn goodbye to both. I’m not substituting them—or their memory—for others that are merely available.
+In my woeful state, I did end up picking up a box of nostalgia.
+Mulberries! (But also, overpriced, gentrified mulberries.)
+Growing up in Delhi in the 1980s, I lived next to a giant mulberry tree that grew in a small, enclosed yard that sold coal (yes!). We called it “koyle ki taal” and the tree was a “shahtoot ka pedh”.
+There was something mysterious about the coal yard even though, to this day, I do not know the exact dictionary definition of “taal” (if you do, please email and tell me).
+Curt, grimy, and scary looking men seemed to come and go. Its gates were always closed, with no easy way for us kids to peek in. Naturally, rumours abounded that it was a dangerous place where men and kids disappeared, never to be seen again, probably buried under mounds of coal.
+But the mulberry tree that grew from within seemed magically and inversely correlated to the darkness that was around it. It soared into the air, rising as tall as the drab yellow three-storey apartment blocks that surrounded it and the yard. Where did it get the nourishment for its luscious canopy and magnificent leaves, we shuddered and wondered.
+Thankfully for us kids, the tree grew from one corner of the yard. Which meant we could climb its branches from the wall that separated our building from the yard.
+We’d climb it during the weekends, one at a time, while the others spread themselves around with old and outstretched bedsheets to catch the mulberries that would fall as the climber shook the branches.
+Each fruit was as large as an adult finger. And dark and juicy beyond description. Perhaps they were the “Himalayan” variety.
+| Photo credit: Craig Hepworth, Florida Fruit Geek |
+Plop! Plop! Plop! Like giant black worms, they’d fall from the branches as we shook them. Most would fall on the ground, bursting open into purple splotch patterns instantly, that’s how ripe they were.
+The ones that we managed to capture into the outstretched bedsheets fared only slightly better, leaving purple streaks as they bounced and skidded to the pile in the middle.
+The ripest ones could just be sucked clean, leaving just the central stalk. But they were also most often half-smashed and gooey and icky. But boy, were they sweet!
+It’s been a long, long time since. But if I had to guess the ratio between the time we spent preparing for and gathering the mulberries versus actually eating them, I’d reckon it was 95:5.
+It was the 95 that was most fun though. Eating the mulberries was just a side-show.
+The gentrified box of mulberries I bought were a smaller, shorter variety. They had three leaves placed on top to give us city-dwellers an idea of, I don’t know, something tree-ish?
+They were somewhat sweet, but also often sour.
+I can’t quite explain my disappointment at their taste. Was it because they always tasted like this, and I’d just forgotten? How sure was I that the shahtoot from the koyle ki taal was really so much better? Or was I merely less discerning as a kid? Or, perhaps, am I too spoilt as an adult, trained on carefully bred varieties of fruit maximised for things like texture, sweetness, and crunch?
+Childhood is so magical. My mango and mulberry memories also coincided with me reading Stephen King’s collection of novellas, Different Seasons. My favourite is[ “The Body](https://en.wikipedia.org/wiki/The_Body_(King_novella))”, a brilliant story (does King write any other kind?) of four young kids out on a trip to find a dead body. It was also made into a wonderful film, called “[Stand by Me](https://en.wikipedia.org/wiki/Stand_by_Me_(film))”. I’d heartily recommend both.
+******
+Monsoon Playlist
+Also, what’s a monsoon without a great FP Monsoon playlist, right? Tell us which one is your favourite monsoon song here!—>
+[https://theken.typeform.com/fpmonsoon](https://theken.typeform.com/fpmonsoon)
+******
+And here’s everything we have for you today:
+1. What are you keeping constant?
+2. The weird and the wonderful 📚
+3. In plain sight 📸
+[Pro tip: This email is a highly abbreviated version, since many email clients impose restrictions on the amount of material we can publish in a single email before intervention. In fact, it’s likely some email clients may even clip this truncated email.
+The best way to experience this edition is to [read it on our website](https://the-ken.com/newsletter/first-principles/what-are-you-keeping-constant-bonus-childhood-mulberries/), where all sections are featured in full and unabridged form.
+Also, if your default setting is to not show images within emails, please consider turning it off for this newsletter. Or else, you’ll miss many of the interesting images and photos we carry each Sunday.]
+As journalists, we’re trained to see what isn’t being said or what can’t be seen. Or perhaps some of us become journalists because we want to tell what isn’t being told.
+I’m taking the “scenic route” to making a point, my colleague Praveen will say. He’s right. I am a sucker for trying to address the “mirror image” of problems. I’ll explain with a few examples.
+My younger and more ambitious colleagues are always starting new and interesting projects or experiments. My first thought is, what are they keeping constant?
+Most of us want to start new things, meet new people, learn new skills, set new records, and generally shake things up.
+Which is great. But virtually impossible to do on an ongoing basis without burning or flaming out.
+Our lives—personal and professional—have a lot of experiments and projects running at all times. We can’t change or improve all of them all at once.
+Imagine you’re taking up a new job. In a new sector. While also moving houses. And cities. And entering into a new relationship.
+You get my point, right?
+Put another way, you need to be able to defocus in some areas to focus on others. To remember,[ you need to be able to forget](https://www.quantamagazine.org/to-remember-the-brain-must-actively-forget-20180724/).
+“Without forgetting, we would have no memory at all,” said[ Oliver Hardt](https://www.mcgill.ca/psychology/oliver-hardt), who studies memory and forgetting at McGill University in Montreal. If we remembered everything, he said, we would be completely inefficient because our brains would always be swamped with superfluous memories.
+We need to be able to take some things for granted, as “constants”. So that we can safely “ignore” (pay less active attention to) them for a while as we focus elsewhere. It allows us to “relax” in a few domains while we step up in others.
+The constants are our source of support. They could be friends, partners, colleagues, job responsibilities, projects, monthly expenses, or workout plans.
+For instance, I’m personally too restless to stick with a given training or workout plan beyond a month or two. Thus, over the years I’ve paid the price for changing too many variables too often, through injuries. So these days, when I’m tempted to change something (increase weights or reps; improve pace; spend more time) I am sure to ask myself, what are you keeping constant? What are you not changing?
+Startups are constantly changing their goals and ambitions, as a result of which so do the folks who work there. It’s important in the chaos to stop and ask yourself as you take on a new goal, “So, what am I no longer as focused on? What am I now relaxing about?”
+What’s the weirdest book you’ve read? What’s the most wonderful book you’ve ever read?
+Chances are that you have two different answers to these questions. But if you can think of one book that answers both questions, then there’s a chance that you’ve read what is called [ergodic](https://en.wikipedia.org/wiki/Ergodic_literature) literature.
+Welcome back to the books section for the First Principles newsletter! This is Anushka as usual.
+Truthfully, I only learnt about ergodic literature today. But already, I’ve been in the rabbit hole it’s led me down for several hours. Before that, I was going around asking colleagues if they’d read books with “unique/ridiculous/weird formats”. My only objective was to find books which make the process of reading the book as much a “character” as any other creation of the author’s. In her [top Ergodic literature book recommendations](https://fivebooks.com/best-books/best-ergodic-fiction-arianna-reiche/), writer Arianna Reiche says that “the best fiction doesn’t have to be straightforward, and some novels contain clever devices to make the reader complicit in the story itself.”
+Simply put, books that make the reader put in a certain amount of “non-trivial” effort to understand the text make it to the ergodic literature shelf. This could look like no linearity in the text or chapters, moving pages around to read the book, constantly referring to footnotes, reading a book forwards and then backwards, etc. There are no blanket rules. Instead, the material “includes the rules for its own use”. Honestly, the first and simplest example I could think of were the Goosebumps “choose your own adventure” books. But my colleagues had much more fascinating recommendations.
+In fact, three of them—Sumit, Praveen, and Gaurav—all independently recommended the same book: House of Leaves by Mark Z. Danielewski.
+It’s often described as a horror story book with a story within a story, carried by multiple perspectives and a unique format. Sumit described it best: “This book has a highly unconventional format. The text is arranged in multiple ways across the pages, including different orientations, colour-coded words, and footnotes of footnotes. It also includes multiple layers of narratives; and the chaos in structure creates a sense of disorientation—which is what the story is all about.”
+This entire line of thought took root in a chat with my colleague Hari, when he recommended a certain book to me because of its strange format.
+About Encyclopedia of an Ordinary Life, Hari says: “A memoir written like an encyclopaedia (I was sold on that alone). Sounds a bit random and indulgent but I have flipped through multiple pages since I got it this Monday and it is hilarious, sad and pieced together in the most wonderful of ways. It has pages like a reader’s agreement, an intermission block right in the middle of the book and well, the encyclopaedia format itself, so you get to see Ms. Rosenthal’s life through carefully chosen words that she uses to reflect on life. Some random, some personal, none boring (from the little I have read till now).”
+My colleague Gaurav had a very interesting recommendation, too: Ella Minnow Pea by Mark Dunn. He explains:
+“It is a novel about an island where the phrase ‘The quick brown fox jumps over the lazy dog’ has near-religious significance to its inhabitants. But one day letters start falling off from the memorial inscription—which the government takes as a sign to start banning the use of those letters in writing or speech. And at the same time, those letters become excluded from the novel itself as well. It’s a great light read—an interesting exercise in how constraints change creativity rolled into a humourous takedown of authoritarianism and dogma.”
+Sumit also came through with two other recommendations:
+1. Wonderstruck by Brian Selznick—“This book alternates between two different stories, one told in words and the other in pictures. I found it unique format as it allowed me to experience the story visually and textually, creating a dual narrative that doesn’t even need to converge at any point. Adds quite a sense of wonder to the storytelling.
+2. If on a Winter’s Night a Traveller by Italo Calvino—“This is quite well-known for its metafictional format, where you (the reader) becomes a character in the book. The story alternates between chapters of the narrative and chapters about the reader’s journey in finding the story. It’s quite inventive in its structure and keeps you constantly guessing and deeply involved—one of the best I have read in the unreliable-narrator genre.”
+Maybe you haven’t read a book that fits neatly into the ergodic literature category, but it’s only an example of the weirdly wonderful books we read. Have you read books that have stayed with you for the way they were written, and the way they made you feel, more than anything?
+Recommend them to the First Principles community [here](https://theken.typeform.com/FPBooks)!
+Hello Ishan, welcome to another edition of Silent Sunday, an entirely contributor-driven section of the First Principles newsletter. It’s Jonathan here as always. For those of you who’ve just joined the First Principles community and are wondering how to get your photos displayed here, just send them to us [using this link](https://theken.typeform.com/FPSilentSundays). Just three rules: no words; the picture must be taken by you; it should “speak” on its own.
+Speaking of pictures speaking on their own, our first pick this week is a contribution we received nearly a month ago. Back then, a particularly prolific week for contributions, I couldn’t make head or tail of it. So I just let it be. “I’ll figure out what it is and then carry it,” I told myself.
+Well, I’ll be honest, I forgot all about it until yesterday, when I pulled it up and—voila!—what I couldn’t make head or tail of four weeks ago suddenly resolved itself into a head, a tail, and an entire living thing.
+Fresh eyes and a month-long break had just revealed something that a whole five minutes of staring hadn’t. Hiding in plain sight, until somehow, it wasn’t.
+Clicked at Narasimha Gudi by Neeraj Nair, this is one of my top picks for this week (can you spot it?):
+And for our second pick, we have this absolutely brilliant click from one of our most consistent contributors, Himadri Sharma, of the Atal tunnel in Manali:
+And here’s everything else we have for you today. Please [switch over to our onsite edition](https://the-ken.com/newsletter/first-principles/what-are-you-keeping-constant-bonus-childhood-mulberries/) to see the full-size, uncropped versions of all of them.
+That’s a wrap for this week. Before you go, if you know someone who might like this newsletter, forward us to them!
+Please write to [fp@the-ken.com](mailto:fp@the-ken.com) if there’s anything you’d like to share with us. Or leave a comment on our on-site edition. See you next Sunday!
+Regards,
+Rohin Dharmakumar
+P.S—Over 450 of you took the Parenting Quest last week! Thanks. We’re working on publishing the special edition based on your responses in the next three–four weeks.
+P.P.S—If you’ve reached till here, I’d like to tell you that I accidentally managed to score over a dozen kilos of Imampasands last week from a neighbourhood fruitseller. I dropped in on a desperate lark one evening on my way back from work, and lo, there they were. I bought practically the entire stock.
+These are truly our last mangoes of this season, and we’re savouring some and freezing the others.

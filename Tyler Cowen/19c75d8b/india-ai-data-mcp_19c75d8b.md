@@ -1,0 +1,9 @@
+---
+subject: "India AI Data MCP"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2026-02-19 12:21:00
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+The Government of India's Ministry of Statistics and Program Implementation has created an impressive Model Context Protocol (MCP) to [connect AI's to Indian datasets](https://marginalrevolution.com?action=user_content_redirect&uuid=328415ed50ead6be15fb22325086c38b9681efeec2be17c58be5dd884f15cafd&blog_id=42693868&post_id=92466&user_id=262258391&subs_id=225460721&signature=2d1ba1c0c50253644e0653b22e3d9bd1&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly9kYXRhaW5ub3ZhdGlvbi5tb3NwaS5nb3YuaW4vbW9zcGktbWNw&email_id=602ffdfbc7ae10491b189c8852e46a8d). An AI connected to data via an MCP essentially knows the entire codebook and can make use of the data like an expert. Once connected one can query the data in natural language and quickly create graphs and statistical analysis. I connected Claude to the MCP and created an elegant dashboard with data from India's Annual Survey of Industries. [Check it out](https://marginalrevolution.com?action=user_content_redirect&uuid=a4d09c346f0e3d2f637ec256a63fef18dd8be8872190840cb0f00bfda7c9ba52&blog_id=42693868&post_id=92466&user_id=262258391&subs_id=225460721&signature=abb4d08d317984f948de0993c7880b46&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly9jbGF1ZGUuYWkvcHVibGljL2FydGlmYWN0cy84NzAzMTZkOS1hOGZlLTQ5YjEtYTM3Ny0yYmYwYmY3Y2U4MDk&email_id=602ffdfbc7ae10491b189c8852e46a8d).

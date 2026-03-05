@@ -1,0 +1,11 @@
+---
+subject: "Observations on browsing economics job market candidates"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2025-11-01 19:08:16
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+The number of people on the market seems much lower this year, perhaps because of the lag with Covid, as well as more general demographic trends. Even adjusting for the lower number of candidates, I found fewer interesting papers this year than usual, as research interests continue to narrow. There is too much emphasis on showing quality technique by answering a small question well, rather than addressing more important questions more imperfectly. [Harvard](http://marginalrevolution.com?action=user_content_redirect&uuid=21aa8a554d59fb82e46500f72f4e97e76850d3cbb5f3308c01c9e44078ef284a&blog_id=42693868&post_id=91777&user_id=262258391&subs_id=225460721&signature=a6dfdcd68d853726ab73a1c23a3896ae&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly93d3cuZWNvbm9taWNzLmhhcnZhcmQuZWR1L2pvYi1tYXJrZXQtY2FuZGlkYXRlcw=&email_id=e549ce4e4d79e7d44fe9dc536ca3db1e) had by far the most interesting students, as most of them were considering questions I cared about. [LSE](http://marginalrevolution.com?action=user_content_redirect&uuid=237dd5b77c914677b306bd65d58e79d427adb827e320862e22b080cdac64927c&blog_id=42693868&post_id=91777&user_id=262258391&subs_id=225460721&signature=59c79e4ecdfda85b725710e2c0ef43fc&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly93d3cubHNlLmFjLnVrL2Vjb25vbWljcy9waGQtam9iLW1hcmtldA=&email_id=e549ce4e4d79e7d44fe9dc536ca3db1e) looked pretty good too. In terms of topics, I saw a lot of papers on educational testing, urban economics and mobility, and AI. Theory seems to be permanently on the wane. The number of co-authors continues to rise.
+Overall I came away with a bad feeling from this year's perusal, noting there are some departments I have not looked at yet. In the aggregate it did not seem vital enough or exciting enough to me?
+I still will be putting up some more of the papers I found of interest.

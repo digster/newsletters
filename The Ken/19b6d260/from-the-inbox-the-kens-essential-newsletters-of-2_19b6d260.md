@@ -1,0 +1,78 @@
+---
+subject: "From the inbox: The Ken’s essential newsletters of 2025"
+from: "The Ken <info@the-ken.com>"
+to: ""
+date: 2025-12-30 02:46:05
+labels: ["CATEGORY_PERSONAL", "INBOX", "STARRED", "The Ken", "UNREAD", "YELLOW_STAR"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "STARRED", "Label_8244464457792971031", "UNREAD", "YELLOW_STAR"]
+---
+|
+|
+Delivered to Ishan, Subscriber to The Ken.
+Tue, 30 Dec 2025
+|
+The Spotlight By Tanim Mozumder
+Assistant Newsletter Editor
+|
+|
+Good Morning Ishan,
+Just two more days, and we welcome the new year!
+Year’s end always makes you want to review, introspect, and imagine. If I tried to map out everything The Ken’s newsletters covered, it would be impossible and chaotic. Our topics ranged from credit cards to sweet shops.
+Do you have a favourite newsletter? A favourite edition?
+I am sure it’s hard to narrow down. From [Make India Competitive Again](https://the-ken.com/newsletters/make-india-competitive-again/), with its insights into India’s macroeconomic health, to [Ka-Ching!](https://the-ken.com/ka-ching/stories/), diving deep into fintech, to [First Principles](https://the-ken.com/first-principles/), making your Sundays meaningful—the variety is vast.
+And we will keep expanding to ensure that you stay on top of everything in technology, business, and policy. Case in point: we launched Make India Competitive Again on 14 April this year, just days after the idea formed on 9 April. As our very first edition shows, Trump was the catalyst. But we have since moved on to graver issues, such as the shortage of insulin providers for India’s 100 million diabetics.
+We also launched [Zero Shot](https://the-ken.com/columns/zero-shot/), our very first opinion column headed by three very-opinionated people—Brady Ng, Rohin Dharmakumar, and Praveen Gopal Krishnan. Its promise was simple: to cover artificial intelligence in a holistic and consistent manner, leading to this one-of-a-kind multimedia product.
+So yes, it’s been an eventful year.
+After six successful years, we put [The Nutgraf](https://the-ken.com/the-nutgraf/stories/) to rest. But as many subscribers have noted, its flair and punch live on in the Zero Shot columns. Some of The Nutgraf’s editions, such as [‘Going out of India is easier than going out in India’](https://the-ken.com/the-nutgraf/going-out-of-india-is-easier-than-going-out-in-india/), remain evergreen, while others like [‘Bhavish Aggarwal is finally India’s Elon Musk’](https://the-ken.com/the-nutgraf/bhavish-aggarwal-is-finally-indias-elon-musk/) serve as nostalgic throwbacks.
+Also, you must read [‘A](https://the-ken.com/the-nutgraf/an-ipl-whodunit/)[n IPL whodunit’](https://the-ken.com/the-nutgraf/an-ipl-whodunit/), if you haven’t. Let me tell you, I am not interested in cricket or the IPL. But if you love a good whodunit, this is one. Before joining The Ken, I wasn’t a premium subscriber. When that edition landed in my inbox, it was such a tease. I emailed my would-be manager begging him to share the article.
+It’s hard not to wander down memory lane while reviewing this year’s newsletters. And with so much happening at The Ken, there’ll always be something new for you to read.
+So, grab a hot cup of coffee (or chocolate), sit back, and let me walk you through the newsletter (and column) highlights of 2025.
+What happens when a market leader exits and there’s a single domestic player to fill that space? Seema Singh and Sudeshna Ray elaborated in [‘100M diabetics, still no country for insulin’](https://the-ken.com/newsletter/make-india-competitive-again/100-mn-diabetics-still-no-country-for-insulin/).
+Manufacturing is no saviour for India, argues Seetharaman G. Here’s an excerpt from his Make India Competitive Again edition [‘Make in India’ is a tariff-war sticker job’](https://the-ken.com/newsletter/make-india-competitive-again/make-in-india-is-a-tariff-war-sticker-job/):
+“India’s yearning for a manufacturing renaissance is grossly misplaced. Even Germany, one of the world’s most industrialised nations, has witnessed the share of manufacturing in its economy fall since the 1990s, as economist Paul Krugman pointed out in his excellent Substack [newsletter](https://paulkrugman.substack.com/p/no-trump-cant-make-manufacturing).
+This is before Chinese automakers such as SAIC and BYD took a [wrecking ball](https://www.economist.com/business/2025/02/13/chinese-cars-are-taking-over-the-global-south) to Germany’s largest industry.”
+An exclusive interview with two founders trying to scale Indian sweets in India broke from our usual Trade Tricks format to offer readers an insightful Q&A.
+[‘“The mithai shop was India’s original QSR”: Bombay Canteen’s Sameer Seth, Yash Bhanage’](https://the-ken.com/tradetricks/the-mithai-shop-was-indias-original-qsr-bombay-canteens-sameer-seth-yash-bhanage/)
+And in [‘The bane of Barbeque Nation’](https://the-ken.com/tradetricks/the-bane-of-barbeque-nation/), we went into the failed mechanics of a popular restaurant chain. Someone clearly didn’t have a good year. An excerpt:
+“In five of the eight quarters up to June, its revenue fell from the previous year. In the other three, growth was anaemic. The company, worth almost Rs 6,400 crore ($728 million) months after its listing in 2021, now has a market value of Rs 830 crore. This year alone, the stock has tanked 50% and hit new lows last week.”
+A couple of weeks ago, Hitesh Sethia, CEO of Jio Financial Services, talked about two things most startups take years to build: brand and capital. He missed another thing, which startups take years to build as well, but was handed to Sethia on a plate.
+Read [‘The curious entry of Jio Financial Services into the Nifty 50’](https://the-ken.com/long_and_short/the-curious-entry-of-jio-financial-services-into-the-nifty-50/) to know why that is the case.
+A brand name isn’t always a golden ticket. In late September, Ventive Hospitality—a name that might not ring a bell unless you caught our piece on them—acquired a 76% stake in Hilton Goa, with plans to expand into even more leisure destinations. Operating with only 12 hotels, it is indeed [‘The pint-sized Indian Hotels rival punching above its](https://the-ken.com/long_and_short/the-pint-sized-indian-hotels-rival-punching-above-its-weight/)[ weight’](https://the-ken.com/long_and_short/the-pint-sized-indian-hotels-rival-punching-above-its-weight/).
+An excerpt:
+“For one, it makes up for its lack of size—it has over 2,000 rooms, compared with Indian Hotels’ 26,000—in squeezing more out of every room.
+Kotak Institutional Equities, a broker, estimates Ventive’s revenue per available room—the average daily room rate multiplied by the occupancy rate—in FY25 to be close to Rs 13,500, or 40% higher than that of Indian Hotels.”
+“Less is more” is the motto here.
+Anand Kalyanaraman makes sure you are up-to-date with every important insight on personal finance and that’s why this newsletter is always eye-opening.
+For instance, take the question, [‘Are SIPs always right? Nah, says a new study’](https://the-ken.com/kaching/are-sips-always-right-nah-says-a-new-study/).
+“According to the study, looking at Indian equity funds from 1999 to 2021:
+- at 3 years: SIPs showed 6%+ shortfall probability vs <5% for lump-sum investments
+- at 5 years: SIPs still had 2–3% shortfall probability; lump-sum had essentially zero
+- when losses occurred, SIP average shortfall often exceeded 10% of invested capital”
+Personal finance isn’t the only subject this newsletter covers. Fintech is another core topic. And Suprita Anupam’s argument that [‘Trump may have seriously wounded India’s—and the world’s—CBDC projects’](https://the-ken.com/kaching/trump-may-have-seriously-wounded-indias-and-the-worlds-cbdc-projects/) highlights the many challenges for the e-rupee. The same e-rupee that’s being used for direct benefit transfers by governments.
+Domestically, CBDC may find its niche customer base, but the [falling rupee](https://the-ken.com/kaching/rupee-on-a-free-fall-what-would-you-take-red-pill-or-blue-pill/) and a triggered US government have dampened its popularity for cross-border transactions.
+There’s always something here that gives you food for thought, often leaving you thinking the whole day. Take Rohin’s argument [‘about salary cuts’](https://the-ken.com/newsletter/first-principles/first-principles-about-salary-cuts/) and why they should not be the death of our confidence.
+“When it comes to innovation and entrepreneurship, most of us now believe that failure isn’t a bad thing. In fact, it is often a necessary ingredient on the road to success. Because we know that success might come after numerous attempts, many of which might fail but eventually add up to that elusive success. Yet, when it comes to our individual careers, if there is one thing we still consider taboo, it is the dreaded pay cut.”
+Clearly something to think about, right?
+Now, if you are in a reflective state of mind, here’s a mental model that will help you take a more strategic and long-term view.
+[‘](https://the-ken.com/newsletter/first-principles/a-fourier-analysis-of-our-lives-and-careers/)[A](https://the-ken.com/newsletter/first-principles/a-fourier-analysis-of-our-lives-and-careers/)[ Fourier analysis of our lives and](https://the-ken.com/newsletter/first-principles/a-fourier-analysis-of-our-lives-and-careers/)[ careers’](https://the-ken.com/newsletter/first-principles/a-fourier-analysis-of-our-lives-and-careers/)
+Then there’s our podcast companion newsletters. Here’s Uddantika’s take on the Two by Two episode on [‘The bro-ification of business and tech podcasts’](https://the-ken.com/newsletters/two-by-two/the-bro-ification-of-business-and-tech-podcasts/). Interestingly, this ignited quite a discussion on our general slack channel, with several people weighing in with perspectives and guest suggestions for the episode.
+And here’s Rahel’s newsletter accompanying the first episode of our new 90,000 Hours podcast: [‘Rewriting the rules of networking, one pickleball game at a time’](https://the-ken.com/newsletters/90000-hours/rewriting-the-rules-of-networking-one-pickleball-game-at-a-time/)
+These newsletters not only give an overview of what to expect from these podcasts, but also sprinkle additional insights on top of it. Have a read, and see if it gets you curious.
+“There’s an unusual, and somewhat collective, affliction going around in Bengaluru right now, like a flu outbreak. Indian AI founders are doing some version of this sequence of events:
+1. Quit job
+2. Launch an AI startup
+3. Raise funding
+4. Buy a one-way ticket: BLR → SFO
+5. Ask ChatGPT: “Are there any ICE agents in San Francisco airport?”
+But what led to this migration? Read the column [‘The tech pilgrimage reversal: Bengaluru heads to the Bay’](https://the-ken.com/columns/zero-shot/the-tech-pilgrimage-reversal-bengaluru-heads-to-the-bay/) to find out more.
+I wonder, though, whether these founders ever think of the small details that actually form the foundation of the pyramid they’re trying to climb. If the entry-level employee position is replaced by AI, then what would the [‘shape of the future’](https://the-ken.com/columns/zero-shot/the-shape-of-the-future/) look like?
+And then, there are other patterns that we have noticed, like the tight-knit and incestuous circle tech companies form by dealing only among themselves. It harkens back to an old Japanese concept. Read Brady’s take on how Microsoft, OpenAI, and Nvidia have rebuilt keiretsu.
+[‘The last keiretsu: Circular deals, weak links, and fair-weather friends’](https://the-ken.com/columns/zero-shot/the-last-keiretsu-circular-deals-weak-links-and-fair-weather-friends/)
+We paused [The Collection](https://the-ken.com/the-collection/) this year, but we had a good run—bringing you fresh perspectives by stitching together stories, newsletters, and podcasts. In a fragmented, inter-connected world, the newsletter helped see how various parts connect to each other, and to the whole. Some editions that stood out:
+[‘India’s IT services firms are being disrupted by their own playbook’](https://the-ken.com/the-collection/indias-it-services-firms-are-being-disrupted-by-their-own-playbook/) (And no, it isn’t because of AI)
+[‘How](https://the-ken.com/the-collection/how-housing-turned-unaffordable-in-india/)[ housing turned unaffordable in India’](https://the-ken.com/the-collection/how-housing-turned-unaffordable-in-india/) (Now, this one hurts to read, especially for a Gen Zer like me)
+[‘India’s hotel chains are offering homes now’](https://the-ken.com/the-collection/indias-hotel-chains-are-offering-homes-now/) (I guess that’s where the money is)
+We look forward to building on these newsletters and their unique promises, even as the possibility of newer newsletters remains ever open.
+See you in 2026!
+Latest on the ken
+Here are the ones—whether it’s The Nutgraf, Long and Short, or Trade Tricks—that you didn’t expect |

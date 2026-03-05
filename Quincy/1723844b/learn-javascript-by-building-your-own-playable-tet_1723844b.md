@@ -1,0 +1,32 @@
+---
+subject: "Learn JavaScript by Building Your Own Playable Tetris Game – a Free 90 Minute Course"
+from: "Quincy Larson <quincy@freecodecamp.org>"
+to: ""
+date: 2020-05-21 17:25:24
+labels: ["CATEGORY_PERSONAL", "INBOX", "Quincy"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_7697778124671848699"]
+---
+Here are this week's five links that are worth your time:
+
+1. Learn some JavaScript by building your own playable Tetris game. This free course will teach you a ton of JavaScript methods and DOM manipulation approaches, along with some basic GameDev concepts. (90 minute watch): https://www.freecodecamp.org/news/learn-javascript-by-creating-a-tetris-game/
+
+2. How to use Deliberate Practice to learn programming more efficiently (10 minute read): https://www.freecodecamp.org/news/how-to-use-deliberate-practice-to-learn-programming-fast/
+
+3. What it’s really like to cope with endless distractions while working from home. How a family of working parents with two kids stay productive in their 500-square-foot apartment. (5 minute read): https://www.freecodecamp.org/news/coding-with-distractions/
+
+4. How to get started with React — a modern project-based guide for beginners. This step-by-step tutorial also includes React Hooks. (26 minute read): https://www.freecodecamp.org/news/getting-started-with-react-a-modern-project-based-guide-for-beginners-including-hooks-2/
+
+5. How to create an optical character reader using Angular and Azure Computer Vision (13 minute read): https://www.freecodecamp.org/news/how-to-create-an-optical-character-reader-using-angular-and-azure-computer-vision/
+
+
+Quote of the Week: "Tetris came along early and had a very important role in breaking down ordinary people's inhibitions in front of computers, which were scary objects to non-professionals used to pen and paper. But the fact that something so simple and beautiful could appear on screen destroyed that barrier." – Tetris creator Alexey Pajitnov
+
+
+Happy coding.
+
+- Quincy Larson
+
+Teacher at freeCodeCamp.org
+I share useful things on Twitter at https://www.twitter.com/ossia
+
+If these emails aren't worth your time, you can turn them off: https://www.freecodecamp.org/ue/eZV2T3gHC7IGcwcpYPG64

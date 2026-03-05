@@ -1,0 +1,22 @@
+---
+subject: "The normalising of India’s niche edtechs"
+from: "The Ken <info@the-ken.com>"
+to: ""
+date: 2020-04-30 02:36:30
+labels: ["CATEGORY_PERSONAL", "INBOX", "The Ken"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_8244464457792971031"]
+---
+Good Morning Ishan,
+After over a month in lockdown, all I hear are tired voices when I pick up the phone. I imagine I sound similar. So, when one hears joy and exuberance on the other end, you can’t help but listen. Even if the caller, as it turned out, is a PR person.
+“Hi, so, you know, the pandemic has been great news!” she exclaimed. To put that in context, India was just shy of 30,000 coronavirus cases at the time, with close to a thousand deaths. Her words could only make sense if they were uttered by the novel coronavirus itself.
+But she wasn’t kidding. She meant what she said, and with good reason. Her client was an edtech firm.
+Even as other sectors have been decimated, the fortunes of edtech companies have soared. And while the usual suspects—the likes of Byju’s and Vedantu—are big winners, smaller edtechs with a narrower focus are also enjoying a surge in both relevance and popularity.
+Like Lido Learning, which looks to disrupt the largely unorganised $6 billion tuition market, or Cuemath, which positions itself as India’s answer to Japanese tutoring giant Kumon. These companies aren’t naturally given to scale the way their mass-market counterparts are. But these aren’t normal times.
+“The earlier concerns of a small target group or lack of global appeal are gone now. Education is a need-based business. You have the opportunity to tap into that need,” explains one venture capital investor in today’s piece.
+How are India’s niche edtechs realising this opportunity, and can they sustain beyond the current lockdown? That’s what Olina answers in today’s story, which is also this week’s second free read. Do share widely:
+[ https://the-ken.com/story/from-niche-to-norm-edtech/](https://link.the-ken.com/uni/ls/click?upn=sy6ExvMQ-2BqIqW2Qsf-2FVG5sc84ge4M35NkSHIl0HH-2B5B4RGCkvzYt8DZgs8cFUmNdSrbMbHgqOpMMwESzxr4CcUq6CGI8qqBApY3tlMDlcRjamaeoCMpzHYLDDNKlgbDeBzwWJIkVNXa0sTyI-2BGcCk-2FAGAGH91RtxAPq1d2bQ3pp2-2Fif15DsLL9VsaxH7nWB2Wj9S_dmDs81p1OM5gBGYvHfsMFvgp9PcMB6iZkwowmLx-2FVhwlHXbL5m6csiptGuneRwktW27c6ZwIBsjV67BZcfkOlPppVavmb9GVjXF4V-2FTqNpVMGDvpjSXED3SgWP6MspPjl4mREPmB-2FezKgw13I3qBGxIvM5EZUIdbsULGOk4USJGlfsMTEoUvT3s4NkmDhh6oQm74V5coYpmIHZhrFptZKO5KOZBgiYvjW4tj6pOMhLSty3MjpQjaignbZ8jjMOpUL6h7-2BOEyt-2BRge0qKWRm5EkBHPUBO95PmP8Cn0AhmaL4ll9QmuXzLj6W3UEXjEV9IKflpVRxZahVWWSj1yJQrGvVJRp6eEVw-2Fga9x8-2FDDFySjQsEBBveCu9ph9BufcJx4GT7fOrQAwiAvEORK1KJ5XDaKi6tpyaiYU7b9RVavyAk-3D) (10-minute read)
+Regards,
+Ranjan Crasta
+(
+[ranjan@the-ken.com](mailto:ranjan@the-ken.com))
+PS: We're launching a brand new Android app for our premium subscribers, complete with the crowd-favourite dark mode and other exciting features. [Sign up ](https://link.the-ken.com/ls/click?upn=sy6ExvMQ-2BqIqW2Qsf-2FVG5uAVYvseZ6t5Bs5Kc1eItb-2BXB9WpYv7GodKAaEDQqyeLzFydzTO95hR8WJlqbImMxJnG9CowSxqdMNsrw-2FRkVrrpFdrac0X6u7zt0iiFw8eOcAde_dmDs81p1OM5gBGYvHfsMFvgp9PcMB6iZkwowmLx-2FVhwlHXbL5m6csiptGuneRwktW27c6ZwIBsjV67BZcfkOlPppVavmb9GVjXF4V-2FTqNpVMGDvpjSXED3SgWP6MspPjl4mREPmB-2FezKgw13I3qBGxIvM5EZUIdbsULGOk4USJGlfsMTEoUvT3s4NkmDhh6oQm74V5coYpmIHZhrFptZKO5GYTVc4EN4g2w6Mdtn6yTGBswH0x0rOaJ1WV1D2ky2cw42Hn2dYi9Q2tqDtWRNNPfAEmU4HwOQSWVfM-2B6YjYPgMIl2RCNCVQDy7m-2F6d01uo8m2dXCUXESdFsQfBjekUf4ELP6olVBJn9J1IPNOuTXo4dRN5kew3TB2PUpJgLMhbVRc-2FZ6QbibZ3maE2rehUl9r24BNTWRhRYm-2BpJU85KA-3D)[here](https://link.the-ken.com/ls/click?upn=sy6ExvMQ-2BqIqW2Qsf-2FVG5uAVYvseZ6t5Bs5Kc1eItb-2BXB9WpYv7GodKAaEDQqyeLzFydzTO95hR8WJlqbImMxJnG9CowSxqdMNsrw-2FRkVrrpFdrac0X6u7zt0iiFw8eOPyZv_dmDs81p1OM5gBGYvHfsMFvgp9PcMB6iZkwowmLx-2FVhwlHXbL5m6csiptGuneRwktW27c6ZwIBsjV67BZcfkOlPppVavmb9GVjXF4V-2FTqNpVMGDvpjSXED3SgWP6MspPjl4mREPmB-2FezKgw13I3qBGxIvM5EZUIdbsULGOk4USJGlfsMTEoUvT3s4NkmDhh6oQm74V5coYpmIHZhrFptZKCEIt5A-2FUmRfQ1E7ZiEOyvydYIAiHv1PtbM92QyPRMJnE4BthcG9yhMgCasnG3oZCfRr0OmPeL1oo5s7-2BhdpQpKbr0jE6hMlC-2B58o-2FlCusrp5EFpWmQ6Qpd5wzashVEKTD4pbAAvIa3M6t3H7YQj6zm3aa14C4WbkjFVnDloXWw-2F8d4jC4CcgrWKNfjwAB9Gz6qXlX5ysRAdE0jcXo-2FlGj4-3D) to join our closed beta group for exclusive access to the redesigned app. Tell us what you like (or don't like) and help us improve our app! (iOS app coming soon).

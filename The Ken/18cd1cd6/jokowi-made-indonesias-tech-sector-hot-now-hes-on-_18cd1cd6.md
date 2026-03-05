@@ -1,0 +1,21 @@
+---
+subject: "Jokowi made Indonesia’s tech sector hot. Now he’s on his way out"
+from: "The Ken <info@the-ken.com>"
+to: ""
+date: 2024-01-04 00:09:08
+labels: ["CATEGORY_PERSONAL", "INBOX", "The Ken"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_8244464457792971031"]
+---
+Good Morning Ishan,
+Today’s story reminded me of a bet I placed with my colleagues in 2015 when Manila hosted the annual summit of Asia-Pacific Economic Cooperation members.
+Amid the high-level discussions on the region’s economy, we were particularly interested in one thing: who among the visiting heads of state would look best in a Barong Tagalog—a traditional Filipino formal wear made of white abaca or piña fibres.
+Many wagered that it would be Canada’s Prime Minister Justin Trudeau or the then US President Barack Obama. But a third person was leading the polls in the newsroom—Indonesian President Joko Widodo.
+If there’s a person who can rock the Barong, it’s a fellow Southeast Asian, Widodo’s supporters said. “We have the same build for it, we grew up in the same weather, and we use almost the same fabrics,” they explained. Unfortunately, Widodo skipped the summit at the last minute, so we didn’t see him wear the Barong.
+But it’s true. Indonesia has a lot of commonalities with the Philippines. Both are archipelagos, populous, and young. However, Indonesia’s digital economy has been far more advanced than that of the Philippines.
+And a lot has to do with what Widodo has done. He laid the foundation for its digital economy to thrive. At a time when his political opponent did not know what a unicorn was, Widodo was equipped with a plan to support programmes to cover funding, incubation, networking, and upskilling for the digital space.
+Indonesia’s digital economy is evolving fast, but Widodo is set to hand over the reins. And experts believe none of the presidential hopefuls have a vision like Widodo’s to further strengthen the country’s digital economy. What will happen next? Check Prima’s story here: [https://the-ken.com/story/jokowi-made-indonesias-tech-sector-hot-now-hes-on-his-way-out/](https://the-ken.com/story/jokowi-made-indonesias-tech-sector-hot-now-hes-on-his-way-out/?utm_source=daily_story&utm_medium=email&utm_campaign=daily_newsletter) (6-minute read)
+Regards,
+Katrina
+[katrina@the-ken.com](mailto:katrina@the-ken.com)
+What you just read is the personalised daily introduction to The Ken's story. Written by a different person each day. Often insightful, sometimes witty, and very rarely boring. Someone sent this to you? [Sign up for free](https://the-ken.com/?modal=register&utm_source=footer&utm_medium=email&utm_campaign=morning_email_ind_shared). [Dont like these? You can unsubscribe](https://link.the-ken.com/asm/unsubscribe/?user_id=2349339&data=ziJkUAiFbIqCaQ9rH8QO2fIG6DN7vLliRSjNcI0f8MdoMDAwdTAwMISJVMwxY3YsuYVhUXO2k2Mk_chkK1jsTNRIQ_NocSH4lg2Ox117xY9iFz38R7XfY50HPu9bVCwobBxiJ8D0B29My81GIvVb0_gmCzLIonXdt9JriR6IgTKYpthOdHLo8Nrro12KeM5yg09kGZtsbKuoNOlZ4BrBSzqY2VToeZl73VKeYxRj_gJXLHPWPZKHpGW5P723VlpeKX1QuzDijM_5r9DzyfLQp5t6qxX_ZRHDB3nmS1BTwOHKPp4pxXoNVNiy1xj6vRf5pbqtuSjV3Gy9PfmAOOBxdWbzScZPN1cofXx4PKg6bC7wVg1tZnRF-1SsVZZrf3E1GfE7qgQF3l24gqJkGWKVN3hImu9HzeKiqj6Z1f3EJ503usVvVjZIrTRRSn95nRImnXVJ4eBYSarlgu405LCc-S0dBlD6b14g69GlmC1WMdLVdznrZfO4P_BdPRihfr3bVvBrfGEFcp_rd-FJebdUyTAtykU-hq2zcnZpBHquY0LjJ6Qc89zCLe0jjte_nK6mzWTrNCFnfNw=) Dont want to hear from us again? [ Unsubscribe from our emails here](https://link.the-ken.com/asm/?user_id=2349339&data=DgQltxBDMPhvgdTceFlyOZOjeNwKaqm1ESIQfZrzEMtoMDAwdTAwME74oUBrNPVuDd7se7LUDHOpH3w-SzaSfiWC8jTnDAxtlLhbiPHvvPxYFiSdE03R1JGS2zftIydKDvCkVEEvNt_YUC_XkWWlL_Q8PwsJRoHwvQCI0WEQ_fjVydhIAApXbWXMR1UVbi4CSS31OnEVdLMCMN985pbpRbgU7bULFQdcsDDM91sTm7DAaAvMDd18pFoJnB8qQt8Y_41r7Eow89N921KyV4076Pt6f9116B-p8TYC8Xf8JxJKH1xMe5WLM45na90vrX3KG3W3VU-qadgRqGpZPLFD1dhwpe8WfmqmU60MJh2TfRibAMHrbeRCdcCWbScwxAzS42HktDQ94bRmuIVaf-xRkaXatYKvBPjTe2RgJ3Vhgktx6chPFzHXypiZpK5-TV8oQz2PrCurQiWccIqip5bgqg6dcAMa695yKLAgL_Y5Cb5wLNcAWnVffdcXmls2KFOsroeVDSXF9CAeQvTUlX97tS-pQhhsYTWymulvucN8yCcbviv3Rdv-qQ==).
+Something wrong? Tell us at [support@the-ken.com](mailto:support@the-ken.com)

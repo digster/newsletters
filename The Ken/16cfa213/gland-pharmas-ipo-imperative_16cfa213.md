@@ -1,0 +1,26 @@
+---
+subject: "Gland Pharma's IPO imperative"
+from: "The Ken <info@the-ken.com>"
+to: ""
+date: 2019-09-04 02:36:16
+labels: ["CATEGORY_PERSONAL", "INBOX", "The Ken"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_8244464457792971031"]
+---
+Good Morning Ishan,
+As the global trade dispute heats up, countries will find it hard to mask their sides. The US and China are ensuring that global supply chains become the modern battlefields. It’s perhaps a no-brainer for businesses to have a neutral face, a perceived non-aligned nationality, even if 95% of their revenues come from global trade.
+That’s one way to read Gland Pharma’s IPO moves, even though it may not be the best of times for pharma public listing. (The Nifty pharma index hit a 5-year low a few days ago.) Gland has hired investment bankers to raise $500 million from the Indian public markets.
+Two years ago when China’s Fosun group acquired a 74% stake in Gland for $1.1 billion, it was a big bang entry for Chinese investors in Indian healthcare. At 14X its earnings, Fosun valued Gland handsomely. The Hyderabad-based company specialises in injectables, harder to produce than generic pills, and hence has had many suitors. Some of them, like Baxter, have since scooped up other Indian injectables manufacturers.
+Now, Fosun wants to get an even larger slice of Indian pharma. For multiple reasons, as you’d read in the story. "But why are two profitable, cash-rich companies trying to raise money in the Indian market?" ask Ruhi and Pranav in today’s story. Sources tell them that Fosun wants Gland to have the public image of an Indian company rather than a Chinese one.
+After decades of globalisation and interdependent economies, this sounds like a poor joke. That apart, the ground has also shifted beneath Gland’s feet. Some Indian and MNC big pharma players which were once Gland's customers have now become its competitors. Mylan, for instance, outsourced 10 products from Gland, but that's now down to three. Others are rearranging their injectables decks too.
+More on Gland’s topsy-turvy path ahead here: [https://the-ken.com/story/fosun-owned-gland-pharmas-ipo-booster-shot/](http://link.the-ken.com/uni/wf/click?upn=HQSq6eeRV1xAVaGuFOahuNCZVVXPeP-2FJpSqxhvIUDrkkYTGagtA7cBw-2FLSj7uG0ws3zfEvEHNo33QUXwF4pL9SDv0wXwb1cvuOOBtjJbni2KpwFSqqIVsS95bQRDAk4fOeNH1M-2FKnVCWGGk6hEif1asdFNAAwX-2Bi-2FcPWp4pv6G5hM9CnjlNk5cf1-2BCTEYCzIXmlTc58cUvFdsSEBSCcsvA-3D-3D_S4jLOsNx-2Fv6Jev2nvow8b7P9pBCWGd8KNZfb200gkZLQNlXQHio0noZzXtsWoloZmPWeyZsh7a4QCV9ufwCUKi00jlBT0uEdvwYDMuVuqcPFYQ2TobsdsKLTn4CmJCisZLTxZvoAeTUk1nyDSKu-2FJQu0wjAIiGKEG1ZB7N8SIUbmqhJL-2BZrZnaz-2Beo-2F5um7Wln8AmMNxxUL3l47M4UZojtaMFLH1B5pdtx4kVWlJMYd9OVk12ZkR7DVeQb66xxXyJCQ7emDU1JvBcfoIujj-2FVziM3NbCUT7mQwD3Vd7XBbsHO6rVHMZyed8aCS-2BHMPpbASU2wlz-2BVSUXlqjUXuCXxPeoej1Bt3wiNBwX1BbjBhUmFQtTsXVxTLOrdKXI-2B7dkIP8xlPAQOc6MkdMW7taX02kPE-2FHoqbh2MH70SaER3uCpcG4oCiavXH7PJ9hDULtm)
+Have a nice day. Thankfully, pharmaceuticals are not in the US-China crosshairs. Yet.
+Warmly,
+Seema Singh
+[seema@the-ken.com](mailto:seema@the-ken.com)
+|
+What you just read is the personalised daily introduction to The Ken's story. Written by a different person each day. Often insightful, sometimes witty, and very rarely boring. Someone sent this to you? [Sign up for free](https://the-ken.com/?modal=register). Don't like these? You can [unsubscribe](http://link.the-ken.com/asm/unsubscribe/?user_id=2349339&data=umM7Yt3zHXeOuFIx4SIakNSURW2eRwNNnp43fWOcANVbvMx8A-Xl1MdAK9OQrFHnkPMeFgzVhDZwpTu_wejFwq83dsRKPtoGUbzzLQ4ZRZFBoYrLfsHYLRK2kqrsrSV98pkRSgPNc-oBnlwAKgvTAWubUww7sWq9nWxzeZWP3IHoEQ_YM_R46SfI2V-rwnJrOWubuXy73nPIiqMqwcDWZ6Do4AWpH4UM3saYkkv3ybzf2h1LK-PeFE4Mr9Wz0U6fRdjJgro52EzTa5wQNXj6SnuVYIXmNknsZeAUypvsDJtPQ5RNgt0H2-niEE4YyvuaIOG3ehJMd0GVdki56-KnD8j1TVi8S4yrsaiSIv6kVjK5-KicdKXlbaijNTEY9caimDMNNJED4cZeelsSU8rbtHiy95Ph2hubSJL-Djw-sqvXJzm2E3auitHh3KAucUMcDF0xYOB6eMC7Bss6PGy_6nh2b7_F3Zc6kJaLIyosTfbd315tFEeh9gdqex4Q3N9gOe13MjwlSi0-B1fgxzJdyiJ3p9384uZV6H96JCcRTWM=). Want to manage your emails? Click [here](http://link.the-ken.com/asm/?user_id=2349339&data=FFH7VsUJMeqPVLoeekV1QTchbATkHY8wMnTXs0eL-nKeINkFDzWMrP64o_szjWaGp9KVKNhMyKNDJzG6PnZp0EPJ7uIkmMWxTp7mzn4f2tkNRydYH9eHA6XJ1ZKX05qXJvhtn1FtP3JmjkjcL6K321CfR8xVFkGgl0Ru31_Qg0IzV8j1uHW-9upjNP58yxYX3Z9CbBGVDSM7z3Y5dfRqHtZw-Xb2Utr0EyI-sLLgiO1uL5hVA5nV_kqnNGCTOoPzGc7SNfGiiT7CCmlzFHVY5tcbRqemnmzTqLqZnjwWHpPnpuqzkZLscsdg6PCYz3Ziv9dJjcSJc6A0ifuaUo2XcGCieVf9Dsizl48qy-wBmWdjt7KxADUorbDVq7b4gPE9e7V6WmCfPR6Mdha3ojSTp1LpmJvIzjhwky356ccCNARzLrtDw6KCNRIUZB5Swdasp7uqeGwGOSdYgD4cI86ZOda6XVt7DvQBw8eDEr2SsLj-evRDiyhJPxIjCedNlk8ZRbpLCtt3IsgLHuQa61NS0w==).
+|
+|
+|
+|
+|

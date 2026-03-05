@@ -1,0 +1,9 @@
+---
+subject: "Seek What Outcomes Via Futarchy?"
+from: "Robin Hanson from Overcoming Bias <overcomingbias@substack.com>"
+to: ""
+date: 2025-04-05 20:35:21
+labels: ["CATEGORY_PERSONAL", "INBOX", "Overcoming Bias", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_8616244883382228708", "UNREAD"]
+---
+There’s an off chance that futarchy might solve cultural drift, if we could show that it works, then get some big place to adopt it, and also get them to set an outcome metric in conflict with civ collapse. But would people set such a goal? Another question about futarchy is whether people would try to encode their favored policies in the outcome metric, instead of trusting the system to pick the best policies give an outcome metric tied to what they more directly care about. To investigate these questions, I just did a set of 25 X/twitter polls on what people would pick as futarchy priorities. While these polls had unusual low response rates, I still think they give us a glimmer of what people would set as futarchy priorities today, if they were deciding that today. Re cultural drift, the first result is what explicit weight they’d put on the future, via a discount rate. The median discount rate Here are The second result re drift is how much weight they’d give to the long term goal in conflict with civ collapse that I included, the one that got the most support in Re encoding policy in the outcome function, #4,5,7,11,16,20,23 are all items that plausibly represent strategies to achieve outcomes already represented elsewhere in this list. Though it is possible that people do value these directly, and not via how they influence other items. Other surprises, at least to me, are how little weight respondents put on #26-32. I had included them in the list of options because I thought it possible that people might care substantially about them. You're currently a free subscriber to |

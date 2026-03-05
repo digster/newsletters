@@ -1,0 +1,32 @@
+---
+subject: "Learn NoSQL Databases [free 3-hour coding course]"
+from: "Quincy Larson <quincy@freecodecamp.org>"
+to: ""
+date: 2021-12-03 06:02:46
+labels: ["CATEGORY_PERSONAL", "IMPORTANT", "INBOX", "Quincy"]
+label_ids: ["CATEGORY_PERSONAL", "IMPORTANT", "INBOX", "Label_7697778124671848699"]
+---
+Here are this week's five links that are worth your time:
+
+1. This course will teach you about the 4 most popular types of NoSQL databases: key-value, tabular, document, and graph. freeCodeCamp teacher Ania Kubow will walk you through how to build these databases. You'll leverage each one's interface layer, execution layer, and storage layer. (3 hour YouTube course): https://www.freecodecamp.org/news/learn-nosql-in-3-hours/
+
+2. If you know how to use Microsoft Excel, you already have one of the most powerful data analysis tools at your disposal. This course will help you pair Excel with Python to build pivot tables, Jupyter Notebooks, and other data analysis artifacts. (4 hour YouTube course): https://www.freecodecamp.org/news/data-analysis-with-python-for-excel-users-course/
+
+3. Sim-swapping is a type of cyber attack where someone convinces a phone company employee to transfer your phone number to a new SIM card – a sim card the attacker owns. This happens way more often than you might think. In this tutorial, security researcher Megan Kaczanowski will show you several ways you can protect yourself from these attacks. (13 minute read): https://www.freecodecamp.org/news/protect-yourself-against-sim-swapping-attacks/
+
+4. The Design Thinking process can help you come up with new ways to solve your users' problems. freeCodeCamp Teacher Jessica Wilkins will show you how you can apply Design Thinking to empathize with your users and build better projects. (8 minute read): https://www.freecodecamp.org/news/the-design-thinking-process-explained/
+
+5. Rust is the most-loved programming language in the world, according to 6 back-to-back Stack Overflow surveys. After months of hard work, freeCodeCamp just published a full-length Rust course. Now you can learn Rust development interactively – right in your browser. (Full course where you build two projects): https://www.freecodecamp.org/news/rust-in-replit/
+
+2021 has been a wild year for the freeCodeCamp community. And 2022 is going to be even wilder. We're working on so many ambitious projects. And we're shipping. If you haven't read my 2021 year-in-review article, I think you'll enjoy it. Know that any year-end donations you are able to make to our nonprofit will help us in our mission to create free learning resources for everyone. (8 minute read): https://www.freecodecamp.org/news/freecodecamp-2021-review-budget-usage-statistics/
+
+Quote of the Week: “A database administrator walks into a NoSQL bar. But he turns and leaves because he couldn't find a table.” — Erlend Oftedal, security researcher and maintainer of Retire.js
+
+Happy coding.
+
+- Quincy Larson
+
+Teacher at https://www.freecodecamp.org
+I share useful things on Twitter at https://www.twitter.com/ossia
+
+If these emails aren't worth your time, you can turn them off: https://www.freecodecamp.org/ue/eZV2T3gHC7IGcwcpYPG64

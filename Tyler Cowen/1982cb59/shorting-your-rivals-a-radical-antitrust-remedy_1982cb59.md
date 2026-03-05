@@ -1,0 +1,18 @@
+---
+subject: "Shorting Your Rivals: A Radical Antitrust Remedy"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2025-07-21 11:19:12
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+Conventional antitrust enforcement tries to prevent harmful mergers by blocking them but [empirical evidence](http://marginalrevolution.com?action=user_content_redirect&uuid=dbb2e868dc263bb4d326ceaa9bc785eb02b92d8a26fe5de1ba5bb8012122b58c&blog_id=42693868&post_id=91031&user_id=262258391&subs_id=225460721&signature=d3656a9280e570c19be4a2ab7820c5ca&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly93d3cuc2NpZW5jZWRpcmVjdC5jb20vc2NpZW5jZS9hcnRpY2xlL3BpaS8wMzA0NDA1WDgzOTAwMTMy&email_id=dc54df3c65467641e8799dbdcbdc494d) shows that rival stock prices often rise when a merger is blocked—suggesting that many blocked mergers would have increased competition. In other words, we may be stopping the wrong mergers.
+In a clever proposal, [Ayres, Hemphill, and Wickelgren (2024)](http://marginalrevolution.com?action=user_content_redirect&uuid=115575e090f37cb41e96f1cc99e85ee58bc8c2c0e4480b86b9e9728a724d263b&blog_id=42693868&post_id=91031&user_id=262258391&subs_id=225460721&signature=fcb911ac0f5001d379562d091850bc3c&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly9wYXBlcnMuc3Nybi5jb20vc29sMy9wYXBlcnMuY2ZtP2Fic3RyYWN0X2lkPTUwMDkxMjM&email_id=dc54df3c65467641e8799dbdcbdc494d) argue that requiring merging firms to short the stock of a close competitor would powerfully realign incentives.
+Suppose firms A and B want to merge. Regulators allow the merger on one condition: A-B must take a sizable short position in firm C, a direct competitor. If the merger is anti-competitive and leads to higher industry prices, C’s profits and stock price rise, and A-B takes a financial hit. But if the merger is pro-competitive and drives prices down, C’s stock falls and A-B profits.
+A short creates two desirable effects:
+- Selection Effect: Only those mergers that are expected to lower prices (and hurt rivals) are financially attractive to the merging parties.
+- Incentive Effect: Post-merger, A-B has less incentive to raise prices because doing so boosts C’s stock price, triggering losses on the short.
+The short isn’t perfect. Markets might be too shallow, or the rival’s stock could rise for unrelated reasons which imposes extra risk. The authors suggest fixes: instead of a short, require the firm to write [Margrabe-style](http://marginalrevolution.com?action=user_content_redirect&uuid=c7d4eee5713ae7f4b3e17e9ac81fe3a1267a33de339a30177b32e94c055cda5c&blog_id=42693868&post_id=91031&user_id=262258391&subs_id=225460721&signature=12038cba4bf0a2fd24c9ca9d409a76a9&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvTWFyZ3JhYmUlMjdzX2Zvcm11bGE&email_id=dc54df3c65467641e8799dbdcbdc494d) call option. These options have strike prices which float relative to another asset, for example a market or industry price. In this case, A-B would be penalized not if the market as a whole rose but only if the rival outperforms the market.
+But the cleanest solution doesn’t require financial instruments at all. Just tie executive pay to relative performance—make the A-B CEO’s bonus depend on beating C’s performance. This is good for shareholders, aligns incentives even in private markets, and doesn't require making big public bets.
+Shorting your rivals sounds strange. But it's a clever way to force firms to reveal whether their merger helps consumers—or just themselves. Or as I like to say, a bet is a tax on bullshit.
+Hat tip: Kevin Lewis.

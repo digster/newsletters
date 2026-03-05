@@ -1,0 +1,20 @@
+---
+subject: "When credit cards made airport lounges too much of a good thing"
+from: "The Ken <info@the-ken.com>"
+to: ""
+date: 2023-06-09 02:33:49
+labels: ["CATEGORY_PERSONAL", "INBOX", "The Ken", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_8244464457792971031", "UNREAD"]
+---
+Good Morning Ishan,
+It’s an unmissable sight at many Indian airports these days. Long queues outside lounge reception counters, and folks trying out one card after another to get in. Inside, the lounge is packed with flyers helping themselves to grub—unlimited and on the house. Sometimes, there’s no space to sit. So what? Standing-eating-walking is good for health: old jungle saying.
+But, wait, there’s no such thing as a free lunch, right?
+Of course, not. Banks issuing the credit cards are footing the bill—between Rs 800 and Rs 1,500 per lounge access. About 8.5 million folks visited airport lounges in the country in the year ended March 2023, up from 3.5 million a year ago. Clearly, much money is changing hands. Business is booming for lounge providers, but bankers are simply not loving it.
+Therein lies a tale.
+Of the law of unintended consequences and the effects of India’s economic growth intersecting at Indian airports. You see, banks wanted more credit-card customers (with an eye on tidy interest income from their delayed payments). So, they dangled the carrot of free airport-lounge access along with credit cards of all kinds, debasing what was earlier a premium card offering. Customers lapped up these cards and used them for lounge access and little else. Meanwhile, the pandemic ended, the economy and air traffic picked up, and what have you—the long lines outside lounges, dip in service quality for premium-card holders, and a big hole in banks’ pockets.
+Somewhat wisened up now, banks seek to control the damage. So, what’s on the cards (pun unintended)? That’s Arundhati’s interesting Friday story today. Lounge back and read it here. [https://the-ken.com/story/when-credit-cards-made-airport-lounges-too-much-of-a-good-thing/](https://the-ken.com/story/when-credit-cards-made-airport-lounges-too-much-of-a-good-thing/?utm_source=daily_story&utm_medium=email&utm_campaign=daily_newsletter) (6-minute read)
+Thanks,
+Anand
+[anand@the-ken.com](mailto:anand@the-ken.com)
+What you just read is the personalised daily introduction to The Ken's story. Written by a different person each day. Often insightful, sometimes witty, and very rarely boring. Someone sent this to you? [Sign up for free](https://the-ken.com/?modal=register&utm_source=footer&utm_medium=email&utm_campaign=morning_email_ind). [Dont like these? You can unsubscribe](https://link.the-ken.com/asm/unsubscribe/?user_id=2349339&data=KVDL4sC-tHr9B6_e5MC7Om9rRAE6xIS0L6hgRWmLyVhoMDAwdTAwMEubTD7lbafM1ovEVFLd6Z8okUU4RtW4YU0Uy9Pqapxf74OCZ1mPAqUshQ1GrezIS3jq0RozLEPy3z4vCqJ8jkgTrNtMFDX0qdbWZoe3M0bYm1dVGNj8Xv_yC8BOIyeugCTRMoyoeNnI8gEcHRCBuQ4IkfYK6ui1OrM1wTSnvUy2ohCYncRsz52WJXEr2tUuogOT8iF4n-zwcsr7OvWBNtedHzAPpdZVTkL6WPlQJ_vV7bFImmpI07lbV9J_y2_EKGrvQeq_ay7lzkjp996uNot6PtAizy1fke_T87xGC7ieyIt-NAvNav77248KU7txfWf3gx8YPR8fSwSNHDwHiGOnxenWxrsrBA-1ya7fNE5UdjPJhU5-167kWi3ahaQZrTye7ZuaMkGcZqdLb8CNqH64rmh0i2lWz1bYEOJ9J7rK8aP8lTs-T-B9UwSgIdDD991J_iZ-28StQTyuxbBlI8Jf8j1ClvwzUTQ94LYruRjTM0ZaOwpLPY4fy7ulBuBAhVfNVCnd-2oa9e6uSlMW6ls=) Dont want to hear from us again? [ Unsubscribe from our emails here](https://link.the-ken.com/asm/?user_id=2349339&data=JmeuuQEbLUEKAh5bSrKf8EapB8653TFgU6MBaDbardBoMDAwdTAwMKE5ORt40ZT1mLEKiH1YUOAjKcjcxe0hKW85tsh0nVJ0bq28maNwFTLAabskPYljtt6EPd68G4PPHVltWrqr7tU_GDhWNVFUjcYwV328xGp94kN_HMXPrRs_VaM-Q9sYyxX6H6PSdvU7L48etYVS196QptuLylnb5EgjPWvDuuzbx0xCaClu4PyJ_s458VowUJ7UUspkgdjVQAElqis3JBZyUgbCHRxQu1zfovzIm9Dbm77oIC1R9bns10wX4fgi5Mgfj8HrasVV9tFHaIVKWVOlSLRw5XP1FjkNo1irhRIDk9ULxvy5aDZBuZNsVJcY6o_R07RJG4ucQcfsE0ZkdXBF5VYCjJ_RqJc4tQfrG8HHUbdyKUKYfH04Oa4hKA1t528tNHZnDHF2jqLhRRx0HFHdNniQEe9nKczIrHlPDYJCR0JiEqU7HbJfrtLIIXDnj3suEy_VfbcUi5fUOFpNik0PGJhAsyHckO6XPXQSij2xV_1qv8QTrs_Q9OxsKEwlTw==).
+Something wrong? Tell us at [support@the-ken.com](mailto:support@the-ken.com)

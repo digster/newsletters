@@ -1,0 +1,25 @@
+---
+subject: "What I Read This Week…"
+from: "Chamath Palihapitiya <chamath@substack.com>"
+to: ""
+date: 2024-09-30 04:58:44
+labels: ["CATEGORY_PERSONAL", "Chamath", "INBOX"]
+label_ids: ["CATEGORY_PERSONAL", "Label_4017391144830520384", "INBOX"]
+---
+|
+[Read our Deep Dive on Drug Development](https://substack.com/redirect/9d5ae140-6b95-47ef-9deb-c2a553dd8faf?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+Caught My Eye…
+China [has announced its biggest economic stimulus package since 2008, aimed at addressing multiple economic challenges it currently faces, including a property market downturn and weak consumer spending](https://substack.com/redirect/8e62dfff-d353-45ea-a8bf-925fc118ffb9?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o). The stimulus package includes cutting interest rates by 30 basis points, from 2.3% to 2%, and lowering banks' reserve requirements. The government also plans to issue an additional 2 trillion yuan in bonds, equivalent to about 1.5% of China's GDP. In response to the announcement, Chinese and Hong Kong stock markets rallied, with Chinese stocks posting their best week in 16 years and Hong Kong stocks surging at a pace unseen since 1998.
+Meta [unveiled a prototype of AR glasses called Orion](https://substack.com/redirect/8dc1b263-917e-4ef8-a475-b7c21d7345dd?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) and [an update to its Llama 3.2 language model](https://substack.com/redirect/4b02f5ac-cfc0-4e94-a75b-db2e1ab4c9de?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) this week. The Orion glasses demonstrate the possibility of creating an AR experience in a form factor similar to normal eyewear, with a 70-degree field of view that allows for a more seamless and less obtrusive experience compared to bulky goggles. However, the prototype is still limited by its high production cost ($10,000 per unit) and short battery life of two hours. Llama 3.2's update introduces new vision capabilities, allowing the model to understand and reason about images in addition to text. This is significant because it expands the model's potential applications and brings multimodal capabilities to an top-performing, open-source model.
+Scientists in Shanghai [have cured a 59-year-old patient with advanced type 2 diabetes using cells grown from the patient's own stem cells, marking a potential new approach to treating the disease](https://substack.com/redirect/84d0312c-8ffe-4e5d-b242-44ea31edef9a?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o). How does it work? The scientists took stem cells from the patient and carefully guided their development to become insulin-producing cells, called E-Islets. These lab-grown cells were then injected into the patient's liver. By year two, the patient’s condition improved, no longer needing insulin injections and showing normal blood sugar levels. While the results of this stem cell treatment are promising, larger trials with more patients would be needed to further establish safety and efficacy before this treatment could be considered for FDA approval.
+Other Reading…
+[California’s Gavin Newsom Vetoes Controversial AI Safety Bill](https://substack.com/redirect/f49d0000-9f82-40b5-9cd6-5161a80436ad?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) (Wall Street Journal)
+[China Urges Local Companies to Stay Away From Nvidia's Chips](https://substack.com/redirect/b82aaf46-0af9-445d-a738-bb4c6f6b801b?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) (Bloomberg)
+[Apple Is No Longer in Talks to Join OpenAI Investment Round](https://substack.com/redirect/45e2205e-0c19-4fab-aab0-e211d7b2416e?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) (Wall Street Journal)
+[The End of Moore’s Law Will Not Slow the Pace of Change](https://substack.com/redirect/c1b698f2-88c9-4e71-a874-6fb563db12e4?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) (The Economist)
+[Strategies to Beat the AI Bots](https://substack.com/redirect/61b1463d-86f7-43bb-88a9-8025c7621ad1?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) (Financial Times)
+[SpaceX Launches Crew-9 Mission to Bring NASA Starliner Astronauts Home](https://substack.com/redirect/6f2f470d-1b9a-444a-8393-f454e65336a9?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) (NYTimes)
+[Americans Are More Reliant Than Ever on Government Aid](https://substack.com/redirect/72acff2e-3d4e-48f5-aa98-a41c72df4f25?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) (Wall Street Journal)
+[America’s Young Men Are Falling Even Further Behind](https://substack.com/redirect/a7da02ed-ccb7-41a5-bb7c-595112e6d247?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) (Wall Street Journal)
+[Ask HN: What Are You Working On (September 2024)?](https://substack.com/redirect/6cdb9a1b-08ab-4591-8c7d-9119457c244d?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) (Hacker News)
+On X…

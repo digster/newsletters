@@ -1,0 +1,13 @@
+---
+subject: "What should I ask John Amaechi?"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2025-08-24 11:38:38
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+Yes, I will be doing a Conversation with him. Here is [Wikipedia on John](http://marginalrevolution.com?action=user_content_redirect&uuid=eff88a9910c72ef0a8f033bd7080edeab7c5da13bc7f3779c757702fd40ae26a&blog_id=42693868&post_id=91357&user_id=262258391&subs_id=225460721&signature=a5c0c25c46186949e3b341ea72d9bbba&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvSm9obl9BbWFlY2hp&email_id=9ab8bb747c7e7a4854be915027c3ad32):
+John Uzoma Ekwugha Amaechi
+[//][ⓘ],[OBE]([/əˈmeɪtʃi/]; born 26 November 1970) is an English[psychologist],[consultant]and former professional[basketball]player. He played[college basketball]for the[Vanderbilt Commodores]and[Penn State Nittany Lions], and professional basketball in the[National Basketball Association](NBA). Amaechi also played in France, Greece, Italy, and the United Kingdom. Since retiring from basketball, Amaechi has worked as a psychologist and consultant, establishing his company Amaechi Performance Systems.In February 2007, Amaechi became the first former NBA player to publicly
+[come out]as gay after doing so in his memoir Man in the Middle.
+John has a new book coming out, namely [It's Not Magic: The Ordinary Skills of Exceptional Leaders](http://marginalrevolution.com?action=user_content_redirect&uuid=eadd1fce7aea059981051e953085e41b2a24788843d1b1fa0addb8b0fd21abd0&blog_id=42693868&post_id=91357&user_id=262258391&subs_id=225460721&signature=08e3a48ed62e8ebe8532a8f0ea0c8e1a&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9JdHMtTm90LU1hZ2ljLU9yZGluYXJ5LUV4Y2VwdGlvbmFsL2RwLzEzOTQzMzgyNzkvcmVmPXNyXzFfMT9jcmlkPTJRS0MyQjhSV0RLRlEmZGliPWV5SjJJam9pTVNKOS5HNWNleTJ1N3dzdl9YbUVFOXc4Qm5pcnVweWRfRk5SaXFhdVI5T1BfeEJGWi1HUjdyWG9JOXd2ZkMzWGpVSmF6aUMwaVdoRW1xMS1HRzRWTmpzZnduZnpNd2VUQkk4RE55cE8xMG1wamVrSWtnbUdmcTE5aEZrWUh3TEZGcElQbnlYZTFTVkU5UUR6UjgyU3V0aDNrWGRKOWE2b3BfdkJabkR0RVRhV1VIa2kteDE5b3R5QzlKZlRoVnZmUGpHNzZSZlloXzR4WVQ1Z1hXZVNPMDFMaFRGWnFsN2hOS1BiTWd2czVrMUthcU4wLnhmcGgwWGZ0a1Q5UmprWHJlR09xdC1uQTlfYW5WamlyOW1rNEEyaF9LaDAmZGliX3RhZz1zZSZrZXl3b3Jkcz1qb2huK2FtYWVjaGkmcWlkPTE3NTYwMzUzMzYmc3ByZWZpeD1qb2huK2FtYWVjaGklMkNhcHMlMkM4NiZzcj04LTE&email_id=9ab8bb747c7e7a4854be915027c3ad32). So what should I ask him?

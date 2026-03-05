@@ -1,0 +1,16 @@
+---
+subject: "Are you an expert on workplaces or careers?"
+from: "The Ken Podcasts <info@the-ken.com>"
+to: ""
+date: 2023-01-11 06:11:28
+labels: ["CATEGORY_PERSONAL", "INBOX", "The Ken", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_8244464457792971031", "UNREAD"]
+---
+Hello Ishan,
+Maybe you've heard me, maybe you haven't. I'm Sneha Vakharia, one of two hosts of Cost to Company, The Ken's weekly podcast about work and workplaces.
+At the time of writing this, Cost to Company is only twenty-one episodes old, and it is already topping charts. We're not surprised. Over the last four months we've interviewed nearly one hundred CEOs, HR experts, CXOs, people managers, and employees of all ages and kinds, and we've built a roster of episodes that I'm personally quite proud of.
+We've asked founders why they put employees salaries out on [Twitter](https://the-ken.com/podcasts/cost-to-company/your-salary-is-not-private/). We've uncovered how and why middle management suffers most in the[ layoff season](https://the-ken.com/podcasts/cost-to-company/middle-management-is-silently-cracking/). We've learnt ingenious ways in which regular people—like you and me—have designed and executed delicious hacks to get better [appraisals,](https://the-ken.com/podcasts/cost-to-company/its-time-to-build-your-brag-document/) find better ways to think about [leaves](https://the-ken.com/podcasts/cost-to-company/the-prisoners-dilemma-of-unlimited-leaves/), make the most of a [hiring freeze](https://the-ken.com/podcasts/cost-to-company/the-hiring-freeze-is-an-opportunity/), and take a [career break.](https://the-ken.com/podcasts/cost-to-company/how-to-take-a-career-break-without-hurting-your-career/) We've discovered fascinating stories, patterns, and behaviour in the most delightful of places.
+If you take a step back, you'll see that all these episodes are what they are not because of the ingenuity of the creators. Their true value comes from the people we interview, both on and off the record—their ideas, stories, keen perceptions, and logical and intuitive thinking. CTC is a podcast delivered to you by us, but it is a podcast made up of a community of brilliant, engaged, and accomplished listeners. Many, if not most of the people we have interviewed, are from amongst you—subscribers of The Ken.
+Our plan for the next year is to double down on this. We want to get better at listening to our most interesting subscribers, and we want to hear your stories and ideas louder and clearer. And we want to start today.
+To this end, we've built a [survey](https://theken.typeform.com/cost-to-company). If you’re a person who has rigorous, deep experience in people management, hiring and building workplace culture, we want to hear from you. If you’re someone with an ear to the ground in the Indian corporate workplace, and an ability to spot a trend before everyone else does, we want to talk to you. If you’re an expert on how to build careers, or on how the best careers are being built, we want to hear from you. If you're a CEO, CXO, founder, HR expert, people manager, help us make CTC richer, more cutting edge and more thoughtful by telling us your stories. They may be useful to a lot of other people.
+It will take no more than five minutes. Thank you so much for helping!

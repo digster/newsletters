@@ -1,0 +1,17 @@
+---
+subject: "Here Comes the Sun—If We Let It: Cutting Tariffs and Red Tape for Rooftop Solar"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2025-11-06 12:19:27
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+Australia has so much rooftop solar power that some states are offering free electricity during peak hours:
+[TechCrunch]: For years, Australians have been been installing solar panels at a rapid clip. Now that investment is paying off.The Australian government announced this week that electricity customers in three states will get free electricity for up to three hours per day starting in July 2026.
+Solar power has boomed in Australia in recent years. Rooftop solar installations cost about $840 (U.S.) per kilowatt of capacity before rebates, about a third of what U.S. households pay. As a result, more than one in three Australian homes have solar panels on their roof.
+Why is rooftop solar adoption in the U.S. lagging behind Australia, Europe, and much of Asia? Australia has roughly as many rooftop installations as the entire United States, despite having less than a tenth of its population.
+First, tariffs. U.S. tariffs on imported solar panels mean American buyers pay double to triple the global market rate.
+Second, permits. The U.S. permitting process is slow, fragmented, and expensive. In Australia, [no permit is required for a standard installation](http://marginalrevolution.com?action=user_content_redirect&uuid=504a4fd8c8fce2dc995efc8c14d1c4351449d5f7bbf08cc4236448cd875d8a0d&blog_id=42693868&post_id=91802&user_id=262258391&subs_id=225460721&signature=4dd896b0608c66bb25a34298848b8295&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly93ZWIuYXJjaGl2ZS5vcmcvd2ViLzIwMjUwMzExMTQ0ODU2L2h0dHBzOi8vd3d3LmdyZWVudGVjaG1lZGlhLmNvbS9hcnRpY2xlcy9yZWFkL2hvdy10by1oYWx2ZS10aGUtY29zdC1vZi1yZXNpZGVudGlhbC1zb2xhci1pbi10aGUtdXM&email_id=af0a046656a70c34e5d0905be9ef4eb3)—you simply notify the distributor and have an accredited installer certify safety. In Australia, a rooftop solar panel is treated like an appliance; in the U.S., it’s treated like a mini power plant. Germany takes a similar approach to Australia, with national standards and an “as-of-right” presumption for rooftop solar that removes red tape.
+By contrast, the U.S. system involves multiple layers of approval—building and electrical permits, several inspections, and a Permission-to-Operate from the local utility, which may not be eager to speed things up just to lose your business. Moreover, each of thousands of jurisdictions has different requirements, creating long delays and high costs.
+High costs suppress adoption, limiting economies of scale and forcing installers to spend more on sales than installation. Yet Australia and Germany are not so different from the United States—they simply made solar easy. If the U.S. eliminated tariffs, standardized/nationalized rules, and accelerated approvals, rooftop solar would take off, costs would fall, and innovation would follow.
+The benefits extend beyond cheaper power. Distributed rooftop generation makes the grid more resilient. Streamlining solar policy would thus cut energy costs, strengthen protection against disasters and disruptions, and speed the transition to a future with more abundant and cleaner power.

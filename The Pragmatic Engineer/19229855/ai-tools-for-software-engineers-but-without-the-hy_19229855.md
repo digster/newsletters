@@ -1,0 +1,107 @@
+---
+subject: "AI tools for software engineers, but without the hype – with Simon Willison (co-creator of Django)"
+from: "The Pragmatic Engineer <pragmaticengineer@substack.com>"
+to: ""
+date: 2024-09-25 14:06:36
+labels: ["CATEGORY_PERSONAL", "INBOX", "The Pragmatic Engineer", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_6413324878686416177", "UNREAD"]
+---
+|
+The first episode of The Pragmatic Engineer Podcast is out. Expect similar episodes every other Wednesday. You can add the podcast in your favorite podcast player, and have future episodes downloaded automatically.
+Listen now on [Apple](https://substack.com/redirect/398ac9d0-1e82-467c-8b0e-8801accee3ee?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o), [Spotify](https://substack.com/redirect/f1167cff-0e5b-47c5-8e8d-dfb3b7b7de34?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o), and [YouTube](https://substack.com/redirect/2a7c2006-6014-40e5-b7a8-c067e755e5a0?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o).
+Brought to you by:
+•[Codeium](https://substack.com/redirect/4f31bbb7-9494-4b0e-9a77-319db972c66f?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o): Join the 700K+ developers using the IT-approved AI-powered code assistant.
+•[TLDR](https://substack.com/redirect/f03b481d-7df1-460d-8b71-220969d30aec?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o): Keep up with tech in 5 minutes
+—
+On the first episode of the Pragmatic Engineer Podcast, I am joined by Simon Willison.
+Simon is one of the best-known software engineers experimenting with LLMs to boost his own productivity: he’s been doing this for more than three years, blogging about it in the open.
+Simon is the creator of Datasette, an open-source tool for exploring and publishing data. He works full-time developing open-source tools for data journalism, centered on Datasette and SQLite. Previously, he was an engineering director at Eventbrite, joining through the acquisition of Lanyrd, a Y Combinator startup he co-founded in 2010. Simon is also a co-creator of the Django Web Framework. He has been blogging about web development since the early 2000s.
+In today’s conversation, we dive deep into the realm of Gen AI and talk about the following:
+Simon’s initial experiments with LLMs and coding tools
+Why fine-tuning is generally a waste of time—and when it’s not
+RAG: an overview
+Interacting with GPTs voice mode
+Simon’s day-to-day LLM stack
+Common misconceptions about LLMs and ethical gray areas
+How Simon’s productivity has increased and his generally optimistic view on these tools
+Tips, tricks, and hacks for interacting with GenAI tools
+And more!
+I hope you enjoy this epsiode.
+In this episode, we cover:
+([02:15](https://substack.com/redirect/c3cbbe20-5e1a-4260-af9b-ea136dc8968e?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) Welcome
+([05:28](https://substack.com/redirect/ebac6646-d19f-4c52-a3e3-1efe77a39094?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) Simon’s ‘scary’ experience with ChatGPT
+([10:58](https://substack.com/redirect/4d6e7725-8421-4ed6-a426-aa2c7d4dab7b?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) Simon’s initial experiments with LLMs and coding tools
+([12:21](https://substack.com/redirect/abdbb4ec-180c-451b-8784-f28545cd060f?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) The languages that LLMs excel at
+([14:50](https://substack.com/redirect/7a5545f2-74eb-4d89-9e3f-27f92e7bf294?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) To start LLMs by understanding the theory, or by playing around?
+([16:35](https://substack.com/redirect/77057e8d-931c-4a17-82ed-4d96cb5cc834?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) Fine-tuning: what it is, and why it’s mostly a waste of time
+([18:03](https://substack.com/redirect/f1660363-b5bd-41a1-812c-023fa716f2ae?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) Where fine-tuning works
+([18:31](https://substack.com/redirect/11e324b9-a29b-4e75-8373-6661305375e4?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) RAG: an explanation
+([21:34](https://substack.com/redirect/de79274f-e615-4402-a603-94c39f1c437d?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) The expense of running testing on AI
+([23:15](https://substack.com/redirect/bd459bd6-03bc-4d2f-bb9f-fe5a04b95f02?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) Simon’s current AI stack
+([29:55](https://substack.com/redirect/a7c1e473-95cc-4ae9-9573-c2bba3a21ae5?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) Common misconceptions about using LLM tools
+([30:09](https://substack.com/redirect/f2b5dc07-039a-4165-8bd6-8d8b966e3505?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) Simon’s stack – continued
+([32:51](https://substack.com/redirect/2f901f1c-8387-4aa7-a8c3-bd8b7ddefbf6?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) Learnings from running local models
+([33:56](https://substack.com/redirect/771f3ebf-b49b-471e-9c77-55bd96e7257a?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) The impact of Firebug and the introduction of open-source
+([39:42](https://substack.com/redirect/d88fd967-82ae-4c57-9db3-2e7940a395ba?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) How Simon’s productivity has increased using LLM tools
+([41:55](https://substack.com/redirect/d99fcd54-8969-444c-9d62-220a97472ca7?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) Why most people should limit themselves to 3-4 programming languages
+([45:18](https://substack.com/redirect/cf6bf577-3c29-45ae-bbd1-0c94ec4e3ee8?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) Addressing ethical issues and resistance to using generative AI
+([49:11](https://substack.com/redirect/0979ef09-78a4-4eb6-aa89-ddb08f3b544e?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) Are LLMs are plateauing? Is AGI overhyped?
+([55:45](https://substack.com/redirect/0321a3b1-06a2-4275-a72b-8d306823b35b?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) Coding vs. professional coding, looking ahead
+([57:27](https://substack.com/redirect/7b0958f4-51a0-4411-b680-e45dfa909242?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) The importance of systems thinking for software engineers
+([1:01:00](https://substack.com/redirect/8c319afb-b052-4823-ad4d-976081d3470e?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) Simon’s advice for experienced engineers
+([1:06:29](https://substack.com/redirect/4f4bf957-82c4-485c-9826-d1789a7b93f7?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) Rapid-fire questions
+Some takeaways:
+If you are not using LLMs for your software engineering workflow, you are falling behind. So use them! Simon outlined a bunch a of reasons that hold back many devs from using these tools – like ethical concerns, or energy concerns. But LLM tools are here to stay, and those who use them get more productive.
+It takes a ton of effort to learn how to use these tools efficiently. As Simon puts it: “You have to put in so much effort to learn, to explore and experiment and learn how to use it. And there's no guidance.” Also, in
+[related research we did in The Pragmatic Engineer about AI tools](https://substack.com/redirect/c21e04cc-6126-4924-aaae-637edd9935f4?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o), with about 200 software engineers responding, we saw some similar evidence. Those who have not used AI tools for 6 months, were more likely to be negative in their perception of these. In fact, a very common feedback from engineers not using these tools was “I used it a few times, but it didn’t live up to my expectations, and so I’m not using it any more”Use local models to learn more about LLMs. Running local models has two bigger benefits:
+Tou figure out how to do these! It’s less complicated than one would think, thanks to tools like HuggingFace. Go and play around with them, and try out a smaller local model.
+You learn a LOT more about how LLMs work, thanks to local models being less capable. So it feels less “magic”. As Simon said, “ I think it's really useful to have a model hallucinate at you early because it helps you get that better mental model of, of, of what it can do. And the local models hallucinate wildly.”
+Where to find Simon Willison:
+• X: [https://x.com/simonw](https://substack.com/redirect/f4f1b09c-8df0-4c7a-84ad-6b00e1facda3?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+• LinkedIn: [https://www.linkedin.com/in/simonwillison/](https://substack.com/redirect/fa692dcb-5e52-41de-a1c2-9149489b2f37?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+• Website:
+https://simonwillison.net/
+• Mastodon: [https://fedi.simonwillison.net/@simon](https://substack.com/redirect/47cf5873-1ca8-4546-afab-395f9831041d?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+Referenced:
+• Jeremy Howard’s Fast Ai: [https://www.fast.ai/](https://substack.com/redirect/f43cc518-67b7-4861-a7d1-300ccfe0e911?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+• jq programming language: [https://en.wikipedia.org/wiki/Jq_(programming_language)](https://substack.com/redirect/e6fb0d5f-a034-40d8-9881-d51a910395bd?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+• Datasette: [https://datasette.io/](https://substack.com/redirect/894f0b06-9f0e-4f56-a0d8-1da3ccf2847f?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+• GPT Code Interpreter: [https://platform.openai.com/docs/assistants/tools/code-interpreter](https://substack.com/redirect/65477ce8-9265-44f3-981d-ad580dac6b7e?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+• Open Ai Playground: [https://platform.openai.com/playground/chat](https://substack.com/redirect/3a301415-2fc8-4dcf-8f31-ee8e5e09b6aa?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+• Advent of Code: [https://adventofcode.com/](https://substack.com/redirect/33faf516-06d1-4d95-9259-ccc2fe0703ed?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+• Rust programming language: [https://www.rust-lang.org/](https://substack.com/redirect/b477f6d7-5155-46ca-98b6-e6563bcf67a0?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+• Applied AI Software Engineering: RAG: [https://newsletter.pragmaticengineer.com/p/rag](https://substack.com/redirect/c9cb0352-be84-4688-a69f-0fae9d6c5e39?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+• Claude: [https://claude.ai/](https://substack.com/redirect/0918aaee-3983-496f-bce6-7751b8e301e9?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+• Claude 3.5 sonnet: [https://www.anthropic.com/news/claude-3-5-sonnet](https://substack.com/redirect/54086f28-8453-4c11-b05d-8e3134412572?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+• ChatGPT can now see, hear, and speak: [https://openai.com/index/chatgpt-can-now-see-hear-and-speak/](https://substack.com/redirect/01ebc9bd-5480-458b-b8c3-4607a656a3e8?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+• GitHub Copilot: [https://github.com/features/copilot](https://substack.com/redirect/b5bf134f-ea7b-4350-be82-03f59155d00e?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+• What are Artifacts and how do I use them?: [https://support.anthropic.com/en/articles/9487310-what-are-artifacts-and-how-do-i-use-them](https://substack.com/redirect/481519e7-9a7c-4912-97d1-c8299d9f89ad?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+• Large Language Models on the command line: [https://simonwillison.net/2024/Jun/17/cli-language-models/](https://substack.com/redirect/2f21bfec-5e4b-4d9a-8e16-88a584aa8c0b?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+• Llama: [https://www.llama.com/](https://substack.com/redirect/b0f47a37-bcc4-4203-bf51-3f7a46fe7079?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+• MLC chat on the app store: [https://apps.apple.com/us/app/mlc-chat/id6448482937](https://substack.com/redirect/9ab73c9b-9a15-4e44-9617-0a726f0bdbc1?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+• Firebug: [https://en.wikipedia.org/wiki/Firebug_(software)#](https://substack.com/redirect/135abf10-613e-4863-874d-f1295de27f26?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+• NPM: [https://www.npmjs.com/](https://substack.com/redirect/b6e42eab-0fb0-43a0-b9be-738c05ab791c?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+• Django: [https://www.djangoproject.com/](https://substack.com/redirect/8fbf6869-85ad-4a91-9cd5-5fc91b796bc4?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+• Sourceforge: [https://sourceforge.net/](https://substack.com/redirect/22bd3531-7ae9-4cb0-991b-f0f63d48ae75?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+• CPAN: [https://www.cpan.org/](https://substack.com/redirect/9b49d19d-e5d2-4631-9046-551a67e000e6?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+• OOP: [https://en.wikipedia.org/wiki/Object-oriented_programming](https://substack.com/redirect/1dbb944a-8cf1-47cf-90be-07373247376b?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+• Prolog: [https://en.wikipedia.org/wiki/Prolog](https://substack.com/redirect/e2b49ffb-5a9a-4fc9-a3e7-5a964aac95a1?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+• SML: [https://en.wikipedia.org/wiki/Standard_ML](https://substack.com/redirect/27476cb6-892c-4f0d-aae9-ad3e7f2634c7?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+• Stabile Diffusion: [https://stability.ai/](https://substack.com/redirect/17fcd132-08df-40af-a88f-c9718fcc916c?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+• Chain of thought prompting: [https://www.promptingguide.ai/techniques/cot](https://substack.com/redirect/00a58a3d-4e27-4ce1-8de8-44098ac03635?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+• Cognition AI: [https://www.cognition.ai/](https://substack.com/redirect/adc06698-b995-4a87-8677-f5edc9d8e597?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+• In the Race to Artificial General Intelligence, Where’s the Finish Line?: [https://www.scientificamerican.com/article/what-does-artificial-general-intelligence-actually-mean/](https://substack.com/redirect/bfe90d36-39bc-4fa3-8509-d5ca4eb6143d?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+• Black swan theory: [https://en.wikipedia.org/wiki/Black_swan_theory](https://substack.com/redirect/2382c2fa-bb1d-4ccd-92af-dccce3a419f3?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+• Copilot workspace: [https://githubnext.com/projects/copilot-workspace](https://substack.com/redirect/0b75b08e-5750-411b-af6c-57dbcdf1c80f?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+• Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems: [https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321](https://substack.com/redirect/7e85fe02-9f71-40b3-a998-770fb1ed4fd7?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+• Bluesky Global: [https://www.blueskyglobal.org/](https://substack.com/redirect/88b21113-6624-416f-b29e-d5087396cad2?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+• The Atrocity Archives (Laundry Files #1): [https://www.amazon.com/Atrocity-Archives-Laundry-Files/dp/0441013651](https://substack.com/redirect/9c8b87d6-3f68-4c29-9b91-55c71775aa7a?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+• Rivers of London: [https://www.amazon.com/Rivers-London-Ben-Aaronovitch/dp/1625676158/](https://substack.com/redirect/6b9ca585-dfe9-4bfe-833a-e8b4d84450f6?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+• Vanilla JavaScript: [http://vanilla-js.com/](https://substack.com/redirect/74034e65-b2f1-4746-b599-afaae638ec02?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+• jQuery: [https://jquery.com/](https://substack.com/redirect/d12212b5-ebe0-4fd9-bd6f-7048d6b7831f?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+• Fly.io: [https://fly.io/](https://substack.com/redirect/dcf2be05-c01b-468a-957a-ba080d300d32?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+Production and marketing by [https://penname.co/](https://substack.com/redirect/ec28f3c1-849b-493b-8ae5-e93c15e3a9da?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o). For inquiries about sponsoring the podcast, email podcast@pragmaticengineer.com.
+You’re on the free list for [The Pragmatic Engineer](https://substack.com/redirect/2/eyJlIjoiaHR0cHM6Ly9uZXdzbGV0dGVyLnByYWdtYXRpY2VuZ2luZWVyLmNvbT91dG1fY2FtcGFpZ249ZW1haWwtaG9tZSZyPThvNTRuIiwicCI6MTQ5MzMxOTYyLCJzIjo0NTg3MDksImYiOnRydWUsInUiOjE0NTYzMzE5LCJpYXQiOjE3MjcyNzM0NTMsImV4cCI6MTcyOTg2NTQ1MywiaXNzIjoicHViLTAiLCJzdWIiOiJsaW5rLXJlZGlyZWN0In0.Z7eT3AF-61MigxJgvs9XF95e25275tUKAhNCNFXiTIE?). For the full experience, [become a paying subscriber](https://substack.com/redirect/2/eyJlIjoiaHR0cHM6Ly9uZXdzbGV0dGVyLnByYWdtYXRpY2VuZ2luZWVyLmNvbS9zdWJzY3JpYmU_dXRtX3NvdXJjZT1wb3N0JnV0bV9jYW1wYWlnbj1lbWFpbC1jaGVja291dCZuZXh0PWh0dHBzJTNBJTJGJTJGbmV3c2xldHRlci5wcmFnbWF0aWNlbmdpbmVlci5jb20lMkZwJTJGYWktdG9vbHMtZm9yLXNvZnR3YXJlLWVuZ2luZWVycy1zaW1vbi13aWxsaXNvbiZyPThvNTRuJnRva2VuPWV5SjFjMlZ5WDJsa0lqb3hORFUyTXpNeE9Td2lhV0YwSWpveE56STNNamN6TkRVekxDSmxlSEFpT2pFM01qazROalUwTlRNc0ltbHpjeUk2SW5CMVlpMDBOVGczTURraUxDSnpkV0lpT2lKamFHVmphMjkxZENKOS5DWjQxSk1vRXFYLWxvb0dHcUlNUnV1blFtVzVsbXVfMG0wajdvVG5vbzhnIiwicCI6MTQ5MzMxOTYyLCJzIjo0NTg3MDksImYiOnRydWUsInUiOjE0NTYzMzE5LCJpYXQiOjE3MjcyNzM0NTMsImV4cCI6MTcyOTg2NTQ1MywiaXNzIjoicHViLTAiLCJzdWIiOiJsaW5rLXJlZGlyZWN0In0.i7f6XnZ48GwMXdPs_pTqpLjZs5_m87xHg6z7BU5FfE4?). Many readers expense this newsletter within their company’s training/learning/development budget.
+This post is public, so feel free to share and forward it.
+If you enjoyed this post, you might enjoy my book, [The Software Engineer's Guidebook](https://substack.com/redirect/8dc946c8-d915-4488-bfd3-127349f159b4?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o). Here is what Tanya Reilly, senior principal engineer and author of The Staff Engineer's Path said about it:
+"From performance reviews to P95 latency, from team dynamics to testing, Gergely demystifies all aspects of a software career. This book is well named: it really does feel like the missing guidebook for the whole industry."

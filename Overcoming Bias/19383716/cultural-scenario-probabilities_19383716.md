@@ -1,0 +1,9 @@
+---
+subject: "Cultural Scenario Probabilities"
+from: "Robin Hanson from Overcoming Bias <overcomingbias@substack.com>"
+to: ""
+date: 2024-12-01 18:17:19
+labels: ["CATEGORY_PERSONAL", "INBOX", "Overcoming Bias", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_8616244883382228708", "UNREAD"]
+---
+On Oct 25 I Column 1 gives conditional chance poll questions, column 2 median (from lognormal fit) poll estimates, and column 3 my estimates. The other four columns do the same, except for derived absolute not conditional chances. Column 4 gives a label indicating the tree structure of these chances. Then column 5,6,7 give absolute chance descriptions, median poll estimates, and my estimates. Some entries are highlighted in yellow. To me, the most striking feature of median polls estimates is how they often give low estimates for each specific subtree, and thus implicitly put most of their weight on a “something else” subtree. For example, A5 gets most of the weight of A, as A1,A2,A3,A4 are so small. Similarly, A1d gets most of the weight of A1, A2d gets most of the weight of A2, and B3 and Bd get most of the weight of B. It is as by default they are skeptical of any particular possibility, relative to “something else”. Alas, I should have asked about return of strong evolution explicitly, instead of just assuming it to be the remainder of deliberate change. How else do I disagree? Assuming a return of strong cultural evolution, I see AI and high human fertility as far more likely than a return of strong selection via war, disease, or famine. And if via fertility I see the continued rise of the Amish, etc. as more likely. If via AI I see ems as more likely. Finally, I put far more weight on governments pursing a long term sacred goal inconsistent with civ collapse. These poll results are quite different from the You're currently a free subscriber to |

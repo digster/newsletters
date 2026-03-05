@@ -1,0 +1,11 @@
+---
+subject: "The Friday Link Dump Edition"
+from: "\"Why is this interesting?\" <whyisthisinteresting@substack.com>"
+to: ""
+date: 2023-08-04 20:41:44
+labels: ["CATEGORY_PERSONAL", "INBOX", "UNREAD", "WITI"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "UNREAD", "Label_5752899537867939131"]
+---
+Noah here. It’s August, I recently moved, and Colin’s been on vacation. We’ve been taking it pretty easy this week, but it’s nearly 5 pm on the east coast, and I realized we hadn’t sent an email out. So here’s a quick cop-out with some interesting links I’ve run into over the last few weeks (a few were submitted by contributors, initials in parentheses): [Esther Crawford on Twitter, Before and After Charles Foster Musk's Takeover](https://link.sbstck.com/redirect/39de12e1-d23f-411f-b971-6e783c0f6a2f?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)[Semantic drift of the week](https://link.sbstck.com/redirect/35f44248-ef82-40fa-bc26-47221dc50e94?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)(there’s a WITI in this one)[Man who spent $20K to transform himself into border collie steps out for first-ever walk in public](https://link.sbstck.com/redirect/66034003-c0be-4607-8cfd-b3273572e1a6?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)[C-section Rates Are Way Too High. We Need to Hold Doctors and Hospitals Accountable](https://link.sbstck.com/redirect/60c7aebe-6df4-4e27-8a1c-b16ddd9de94d?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)[Who Was Barbie?](https://link.sbstck.com/redirect/7f8611d4-5abf-4ea4-9964-0583b2ee2475?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)(RA)[The Best Car In The World: Building The Toyota Century](https://link.sbstck.com/redirect/b012f1ef-f9b1-491e-b604-7a0501f0ebf8?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)(RMM)
+WITI Classifieds: We are experimenting with running some weekly classifieds in WITI. If you’re interested in running an ad, Chart of the Day: Alright, that’s it for now. Have a great weekend. — Thanks for reading, Noah (NRB) & Colin (CJN) —
+You're currently a free subscriber to |

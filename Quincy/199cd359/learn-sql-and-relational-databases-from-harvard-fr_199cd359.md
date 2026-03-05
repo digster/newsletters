@@ -1,0 +1,32 @@
+---
+subject: "Learn SQL and Relational Databases from Harvard [Free 11-hour Course]"
+from: "Quincy Larson <quincy@freecodecamp.org>"
+to: ""
+date: 2025-10-10 08:21:05
+labels: ["CATEGORY_PERSONAL", "IMPORTANT", "INBOX", "Quincy"]
+label_ids: ["CATEGORY_PERSONAL", "IMPORTANT", "INBOX", "Label_7697778124671848699"]
+---
+Here are this week's five freeCodeCamp resources that are worth your time:
+
+1. freeCodeCamp just published an in-depth Harvard course that will teach you SQL and relational databases. You'll learn key concepts like CRUD operations (Create, Read, Update, Delete). You'll also learn how to normalize data, join tables, and index your databases for faster performance. You'll use real-world datasets and write your own queries in SQLite, before moving on to working with PostgreSQL and MySQL. (11 hour YouTube course): https://www.freecodecamp.org/news/learn-databases-and-sql-from-harvard-university
+
+2. This advanced Python Machine Learning course will teach you the history of computer vision architectures. You'll learn about design philosophies like LeNet, AlexNet, Xception, and Vision Transformers. You'll see side-by-side comparisons, and learn how they've progressed over the past few decades. (5 hour YouTube course): https://www.freecodecamp.org/news/the-history-of-deep-learning-vision-architectures
+
+3. On this week's freeCodeCamp podcast I interview a manufacturing worker who taught himself programming and got his first developer job at age 43. He talks about what it really feels like to work 12-hour factory shifts to provide for your kids. Thomas Gooch spent years grinding through the freeCodeCamp curriculum with faith that he'd eventually be able to break into tech. He shares tons of practical tips for building a learning routine, finding jobs worth applying to, and adapting your skills to whatever programming languages the roles may require. (1 hour watch or listen in your favorite podcast app): https://www.freecodecamp.org/news/from-manufacturing-worker-to-first-developer-job-at-age-43-with-thomas-gooch-podcast-191
+
+4. freeCodeCamp also published this handbook that will teach you all about JSON Web Tokens, which are key to modern authentication and security. You'll learn their history and how they work, through a series of helpful diagrams and code examples. (full length handbook): https://www.freecodecamp.org/news/the-json-web-token-handbook-learn-to-use-jwts-for-web-authentication/
+
+5. Learn how developers are using the Compound Components Design Pattern to clean up their messy React code. You can code along at home and refactor several components. This will help you solidify your understanding of this design pattern and tighten up the front end logic on your projects. (30 minute read): https://www.freecodecamp.org/news/compound-components-pattern-in-react/
+
+These are just some of the many open source learning resources that the freeCodeCamp community published this week. We have ridiculous momentum right now. We're teaching more and more programming topics, as well as world languages like Spanish and Chinese. If you're looking for a modern equivalent to the Library of Alexandria, well, we're building it. Start supporting our charity and our mission today: https://www.freecodecamp.org/donate
+
+Quote of the Week: 
+“I made just enough to cover my bills. I didn’t have any extra money for tuition. freeCodeCamp was fantastic in that it was not only free but was also comprehensive. And it wasn’t blocked by our company’s firewall, which was the number one important thing.” — Self-taught Software Engineer Thomas Gooch on this week's freeCodeCamp podcast
+
+Until next week, happy coding.
+
+-- Quincy Larson
+
+Teacher and founder of freeCodeCamp.org
+
+If these aren't worth your time, you can turn them off: https://www.freecodecamp.org/ue/eZV2T3gHC7IGcwcpYPG64

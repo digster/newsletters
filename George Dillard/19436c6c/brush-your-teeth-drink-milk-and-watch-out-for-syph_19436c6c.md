@@ -1,0 +1,56 @@
+---
+subject: "Brush Your Teeth, Drink Milk, and Watch Out for Syphilis"
+from: "George Dillard <worldhistory@substack.com>"
+to: ""
+date: 2025-01-05 14:01:04
+labels: ["CATEGORY_PERSONAL", "George Dillard", "INBOX", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "Label_8626544264601150563", "INBOX", "UNREAD"]
+---
+|
+Happy new year and thanks for reading! I’m hoping to bring you even more interesting historical deep dives this year, with regular Sunday posts and a couple of midweek posts per month, as well.
+To support my work, please click the button below:
+If you want to help keep this project going, you can purchase a paid subscription. Paid subscribers — it’s only about 75 cents a week! — get access to the archives and my undying gratitude (thank you, paid subscribers!).
+This is a long post, so your email provider may cut it off. Make sure to click “View Entire Message” to see the whole thing.
+In the 20s BCE, Augustus, the young ruler of Rome, decided to sponsor the arts, employing sculptors and architects all over the empire. There was only one catch: their art had to glorify him.
+Sculptors churned out copies of this statue, which showed Augustus as a beefy general (not the sickly, skinny guy he actually was). The portrait was filled with symbolism: Cupid floats near his leg to remind Romans that Augustus’ family claimed a connection with the goddess Venus, while his armor is full of symbolic images designed to remind Romans of his feats in war.
+Augustus commissioned hundreds of these statues to send a uniform message to all of his subjects, showing everyone in the empire that a great and powerful man governed them.
+This was one of the first examples of a government blanketing its citizens with propagandistic art, but it certainly wouldn’t be the last. For most of history, governments used art for a pretty simple purpose: to glorify the leader.
+But, in the early twentieth century, it often wasn’t sufficient to simply boost the image of an unelected leader. The 1930s, in particular, saw an explosion in art commissioned by states to inform, educate, and unite their populations.
+So in Mexico after the brutal revolution, the government sponsored murals like this history of Mexico by Diego Rivera:
+In the Soviet Union, socialist realism expressed hope for a future where the people enjoyed power and progress:
+And the Nazis in Germany tried to claim the classical heritage to promote their ideas about national purity:
+The United States also embraced the trend. During the 1930s, the Works Progress Administration funded all sorts of art projects, both as a way to employ thousands of artists during the Great Depression and as a way to express shared American values. Some of the art was grand. This mural from the New York City Post Office was one of hundreds that were painted around the country:
+But not all of the artists were employed to create something inspirational. The government also wanted artists to help educate the public. So in addition to making America look like a land of opportunity and promise, artists were asked to remind people to maybe take their kids (even dull John!) to the eye doctor:
+Or to eat an apple once in a while:
+Americans were instructed to drink milk when they were hot:
+And when they were cold! It seems that the U.S. government has been [advertising for the milk industry](https://substack.com/redirect/89f2550d-b655-4097-851c-2a58824bb4af?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) for a long time…
+After enjoying a tall glass of milk, Americans were reminded to brush their teeth:
+Some of the posters focused on educating young parents on how to raise their children. Parents were told to keep their kids clean:
+And to nurse their infants:
+Though most of the posters were positive, some of them had a pretty scolding tone:
+These posters demonstrate the spirit of the WPA’s poster project. They combined snappy, modern visuals with simple messages for the public. They made the simple advertising poster into a real art form, helping to pioneer the burgeoning field of graphic design.
+New Deal posters usually encouraged Americans to take better care of themselves and their communities. The messages were sometimes trivial, nudging people to eat healthier and wash their hands. But these posters also took on pretty serious topics, giving us a glimpse into the darker side of America in the 1930s.
+Syphilis is a very bad disease. It kills you slowly, as sores and fevers in the first few weeks give way to dementia, weakness, blindness, deafness, and, years or even decades later, death. Sometimes a victim’s face would rot away. One guy who caught it in the 1500s summed it up pretty well, [saying](https://substack.com/redirect/2d399fb0-00cc-48c3-ab42-d04e050402ce?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) that syphilis was “So cruel, so distressing, so appalling that until now nothing more terrible or disgusting has ever been known on this earth.”
+I’ve always associated syphilis with the early modern period — there was a huge outbreak of it in the 1500s and 1600s — but it was relatively common well into the twentieth century. After World War I, the dread disease made a resurgence as soldiers came back from the front with infections and then spread the disease further in the U.S. This meant that, during the 1930s, syphilis was seen as a major public health problem.
+So the WPA blanketed the nation with warnings and advice about syphilis. The government cautioned people that they could pass it on to their kids:
+Or let people know that the disease was still quite prevalent:
+Others cautioned people to do the right thing and tell the people they had exposed to the disease:
+Couples were encouraged to have potentially awkward conversations about sexually transmitted disease:
+There was good news. By the 1930s, scientists had discovered effective treatments for syphilis, including penicillin, but they worked best when the disease was caught early. So the government encouraged people to get tested and treated. The vibes were kind of weird on some of these posters. This one let people know that cures were available with cute dinosaur art.
+And this one tells a sort of [Goofus-and Gallant](https://substack.com/redirect/7d48325c-6a16-4953-8b50-3910c16686bb?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) story:
+WPA posters also encouraged Americans to change their attitudes about another dread disease: cancer. Like syphilis, cancer was a malady with a long history that was becoming more treatable, especially with radiation therapy.
+But cancer — along with syphilis and other diseases — often carried a stigma. People didn’t seek treatment because they worried about what others might think of them. WPA artists encouraged people not to suffer in silence:
+Patients were encouraged not to give up:
+The idea of “fighting” rather than surrendering to disease was an important theme:
+A lot of the messaging seems to have been aimed at women, who may have been shy about bringing up health issues related to their breasts or reproductive organs:
+Just as we see today, desperate cancer patients often fell for the promises of shady doctors who promised miracle cures. Posters advised people not to fall for fly-by-night operators:
+And to trust only science-backed treatments:
+The posters directed people to government agencies that could help them navigate their illness:
+Taken together, these WPA posters give us a picture of the public health environment of the 1930s. It was a time of emerging, exciting treatment for longstanding diseases, but it was also a period when social stigmas sometimes got in the way of treatment. It was a period when useful parenting advice may have been in short supply, and when people may have not had very nutritious diets.
+Oh, and it was also a time when kids played unsafely with fireworks:
+These posters were sometimes funny, sometimes stern, and sometimes encouraging. But they were almost always visually striking, marking a new era of graphic design and showing the way for the future of advertising. Though the U.S. government eventually got out of the propaganda business, the impact of these posters remained.
+This newsletter is free to all, but I count on the kindness of readers to keep it going. If you enjoyed reading this week’s edition, there are two ways to support my work:
+You can subscribe as a free or paying member:
+Or you can share the newsletter with others:
+Thanks for reading, and I’ll see you again next week!
+You're currently a free subscriber to [Looking Through the Past](https://substack.com/redirect/194093c3-1401-4cb8-b245-1bd66272625e?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o). For the full experience, [upgrade your subscription.](https://substack.com/redirect/2/eyJlIjoiaHR0cHM6Ly93b3JsZGhpc3Rvcnkuc3Vic3RhY2suY29tL3N1YnNjcmliZT91dG1fc291cmNlPXBvc3QmdXRtX2NhbXBhaWduPWVtYWlsLWNoZWNrb3V0Jm5leHQ9aHR0cHMlM0ElMkYlMkZ3b3JsZGhpc3Rvcnkuc3Vic3RhY2suY29tJTJGcCUyRmJydXNoLXlvdXItdGVldGgtZHJpbmstbWlsay1hbmQtd2F0Y2gmcj04bzU0biZ0b2tlbj1leUoxYzJWeVgybGtJam94TkRVMk16TXhPU3dpYVdGMElqb3hOek0yTURnMU56Z3pMQ0psZUhBaU9qRTNNemcyTnpjM09ETXNJbWx6Y3lJNkluQjFZaTB5T1RVM01qVWlMQ0p6ZFdJaU9pSmphR1ZqYTI5MWRDSjkudGVRVWpvUndCS3ZPWUJKaTE0Yzh0RG4wd3l2Qk1tc2pDMzVhZjA5dU1MTSIsInAiOjE1MTYyNjk2NywicyI6Mjk1NzI1LCJmIjp0cnVlLCJ1IjoxNDU2MzMxOSwiaWF0IjoxNzM2MDg1NzgzLCJleHAiOjE3Mzg2Nzc3ODMsImlzcyI6InB1Yi0wIiwic3ViIjoibGluay1yZWRpcmVjdCJ9.kCE-zm9_brRdMSIac9Ei6Fxu9qr6yALQYmDHtvXX5aA?&utm_source=substack&utm_medium=email&utm_content=postcta)

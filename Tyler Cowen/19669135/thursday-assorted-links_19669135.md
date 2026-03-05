@@ -1,0 +1,12 @@
+---
+subject: "Thursday assorted links"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2025-04-24 18:33:16
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+1. [Are these the most beautiful colleges in America? ](http://marginalrevolution.com?action=user_content_redirect&uuid=3d34ec48910048c04c90ef894895d63fc5435834c0f66c37e59fe2f94f4e5240&blog_id=42693868&post_id=90506&user_id=262258391&subs_id=225460721&signature=66311e33871350f160e1108b9b07bbc8&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly93d3cuYXJjaGl0ZWN0dXJhbGRpZ2VzdC5jb20vZ2FsbGVyeS9tb3N0LWJlYXV0aWZ1bC1jb2xsZWdlcy1pbi1hbWVyaWNh&email_id=9ffa4382897f414132cf2b8215166490) Where is the brutalism? UC Irvine has some. I feel like I have been to way, way too many of those campuses.
+2. [Facts about egg supply chains](http://marginalrevolution.com?action=user_content_redirect&uuid=30e8c738fd582db1f245f29cb3e6ab11174408775949c3c1c4e1640e90079ac4&blog_id=42693868&post_id=90506&user_id=262258391&subs_id=225460721&signature=d21c28ebe65a47b5db3b6a0dbd5c4203&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly93d3cuc2NpZW5jZWRpcmVjdC5jb20vc2NpZW5jZS9hcnRpY2xlL3BpaS9TMDMwNjkxOTIyMTAwMDI0NQ=&email_id=9ffa4382897f414132cf2b8215166490).
+3. [Good robot photos in this NYT story about China](http://marginalrevolution.com?action=user_content_redirect&uuid=30a2080169e74cb9fa475f2b79115d69b6bc5c00549bc9cca59d3a118b7a5bc5&blog_id=42693868&post_id=90506&user_id=262258391&subs_id=225460721&signature=4105b98600a1ced4ae014cdc2c70e302&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly93d3cubnl0aW1lcy5jb20vMjAyNS8wNC8yMy9idXNpbmVzcy9jaGluYS10YXJpZmZzLXJvYm90cy1hdXRvbWF0aW9uLmh0bWw&email_id=9ffa4382897f414132cf2b8215166490).
+5. [Greek primary surplus is 4.8% of gdp, remarkable](http://marginalrevolution.com?action=user_content_redirect&uuid=7e13c80c9097006f4db24596d165b1bdc780b534d007c5c296d3b9763115f472&blog_id=42693868&post_id=90506&user_id=262258391&subs_id=225460721&signature=57ca92d7a64914e63f42cd861c935740&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly94LmNvbS9oZWltYmVyZ2Vjb24vc3RhdHVzLzE5MTQ3MzExNjg4NjExOTI2OTc&email_id=9ffa4382897f414132cf2b8215166490). And Argentina forecasts are now for 5.5% growth for 2025, also wonderful.

@@ -1,0 +1,35 @@
+---
+subject: "Learn to Code JavaScript [3 free tutorials to level up your JS]"
+from: "Quincy Larson <quincy@freecodecamp.org>"
+to: ""
+date: 2023-08-18 05:27:20
+labels: ["CATEGORY_PERSONAL", "IMPORTANT", "INBOX", "Quincy"]
+label_ids: ["CATEGORY_PERSONAL", "IMPORTANT", "INBOX", "Label_7697778124671848699"]
+---
+Here are this week's five freeCodeCamp resources that are worth your time:
+
+1. The freeCodeCamp community loves JavaScript almost as much as we love Python. And we published several JavaScript tutorials for you this week. First and foremost, this tutorial by Kolade Chris will teach you some advanced JS concepts like Template Interpolation, Unary Plus, the Spread Operator, Destructuring, and Math Object methods. With tons of code examples, this tutorial should help you take your JS to the next level. (40 minute read): https://www.freecodecamp.org/news/javascript-tips-for-better-web-dev-projects/
+
+2. Next you'll want to brush up on your JavaScript Operators. These are the valves that control how data flows through your app. This tutorial by freeCodeCamp contributor Nathan Sebhastian will walk you through Logical Operators, Comparison Operators, and even Bitwise Operators for extremely granular control. You'll even learn the ultra-concise Ternary Operator. (25 minute read): https://www.freecodecamp.org/news/javascript-operators/
+
+3. And if you want to turn your JS skills all the way up to 11, you can learn JavaScript Promises. Unlike Python, JavaScript is famously an asynchronous programming language. If you're a beginner, this asynchronicity can really melt your brain. That's where Promises come in. They help you rein in your parallel-running code so you can harness its true high-performance power. (25 minute read): https://www.freecodecamp.org/news/javascript-promises-async-await-and-promise-methods/
+
+4.freeCodeCamp just published a comprehensive website optimization course, taught by prolific teacher Beau Carnes. You'll learn about caching techniques, server configuration, monitoring, Domain Name Systems, Content Delivery Networks, and more. This course is focused on WordPress, but you can apply most of these concepts to your website regardless of which tools you're using. Beau also included a book-length optimization guide. You should be able to read it and find a few low-hanging fruit ways to speed up your site. (full book + 2 hour YouTube course): https://www.freecodecamp.org/news/the-ultimate-guide-to-high-performance-wordpress/
+
+5. Terraform is a powerful Infrastructure-as-Code DevOps tool. You can write Terraform code that provisions infrastructure from multiple cloud service providers at the same time. For example Amazon Web Services, Microsoft Azure, and Google Cloud Platform. freeCodeCamp uses Terraform extensively to wrangle our 100+ servers around the world. And now you can learn to use it, too, and earn a professional certification as well. This Terraform cert prep course will help you grok the advanced concepts, modules, and workflows necessary to pass the exam. (7 hour YouTube course): https://www.freecodecamp.org/news/hashicorp-terraform-associate-certification-study-course-pass-the-exam-with-this-free-12-hour-course
+
+Finally, I created a video of my own. Over the years, one of the most common questions people ask me is: "With freeCodeCamp and other self-teaching tools, do I still need to go to university?" I answer this question and many more about technology, higher education, and the labor market. If you're considering going to university or have college-age kids, I encourage you to watch this and share it with your friends. I'd welcome any feedback you have. (1 hour watch): https://www.freecodecamp.org/news/is-college-worth-it
+
+The freeCodeCamp community is working hard to ensure that everyone everywhere on Earth has access to a world-class developer education. You can help our charity by donating to aid us in our mission. Thank you for your support: https://www.freecodecamp.org/donate
+
+Quote of the Week: “Any application that can be written in JavaScript, will eventually be written in JavaScript.” — Atwood's Law, coined by Stack Overflow co-founder Jeff Atwood. I interviewed Jeff Atwood at his home in California. And I'm publishing my interview this week on The freeCodeCamp Podcast. Search for it in your podcast player of choice. And tell your friends.
+
+Until next week, happy coding.
+
+-- Quincy Larson
+
+Teacher and founder of freeCodeCamp.org
+
+
+
+If these aren't worth your time, you can turn them off: https://www.freecodecamp.org/ue/eZV2T3gHC7IGcwcpYPG64

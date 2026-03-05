@@ -1,0 +1,11 @@
+---
+subject: "How do declining fertility and climate change interact?"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2025-06-24 06:26:53
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+There are lots of assumptions behind these results, but still it is good to see someone working through some scenarios:
+A smaller human population would emit less carbon, other things equal, but how large is the effect? Here we test the widely-shared view that an important benefit of the ongoing, global decline in fertility will be reductions in long-run temperatures. We contrast a baseline of global depopulation (the most likely future) with a counterfactual in which the world population continues to grow for two more centuries. Although the two population paths differ by billions of people in 2200, we find that the implied temperatures would differ by less than one tenth of a degree C—far too small to impact climate goals. Timing drives the result. Depopulation is coming within the 21st century, but not for decades. Fertility shifts take generations to meaningfully change population size, by which time per capita emissions are projected to have significantly declined, even under pessimistic policy assumptions. Meanwhile, a smaller population slows the non-rival innovation that powers improvements in long-run productivity and living standards, an effect we estimate to be quantitatively important. Once the possibility of large-scale net-negative emissions is accounted for, even the sign of the population-temperature link becomes ambiguous. Humans cause greenhouse gas emissions, but human depopulation, starting in a few decades, will not meet today’s climate challenges.
+That is from [a new NBER working paper](http://marginalrevolution.com?action=user_content_redirect&uuid=ef5e8a2bb5195e15a0af265334a64aa4351536696880dd2467fbc1b2b2ef0198&blog_id=42693868&post_id=90949&user_id=262258391&subs_id=225460721&signature=4e7dd57afc0f9afe654fb8d7c5fe61f9&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly93d3cubmJlci5vcmcvcGFwZXJzL3czMzkzMiNmcm9tcnNz&email_id=5d9b9e27dd6842a5d876695ec09d2a06) by

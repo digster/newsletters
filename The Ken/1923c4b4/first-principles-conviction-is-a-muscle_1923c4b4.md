@@ -1,0 +1,110 @@
+---
+subject: "First Principles: Conviction is a muscle"
+from: "The Ken <info@the-ken.com>"
+to: ""
+date: 2024-09-29 05:40:17
+labels: ["CATEGORY_PERSONAL", "INBOX", "The Ken", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_8244464457792971031", "UNREAD"]
+---
+Good morning, Ishan. When did we stop buying highlighters?
+The thought occurred to me on a Sunday morning a few months ago as I was sitting on my balcony, reading David Nicholls’ novel ‘Us’.
+Us is a terribly good novel. Perhaps one of the best fiction books I’ve read in a few years. Page after page filled with prose, situations, dialogue, and observations so good that you wonder how Nicholls managed it. It was one of those rare novels that made me want to be a better writer.
+After smiling to myself for the nth time, I wondered, should I not be highlighting the best of these sentences?
+“But with what?” I countered myself. I own numerous whiteboard markers in pristine condition, a few pens that may not work, and even an iPad “pencil”. But no highlighters.
+Sometime during the last 10–15 years, I’d stopped needing highlighters. And sometime shortly thereafter, I’d stopped realising that I’d stopped needing them.
+“Why?” I wondered back.
+Perhaps because we stopped reading books and switched to reading stuff on the Internet.
+Hmmm, that theory made sense. Why would I buy highlighters if I had nothing to highlight?
+Should I buy a few on Amazon right now, then? Let’s start highlighting again.
+But why not just underline? All it takes is a pen, and I’m sure you don’t need to order one.
+Which made me think about highlighting versus underlining. Which one was better?
+Would the highlighting ink be worse for the paper in the long run? Would its ink fade and blend with the yellow paper over the years, thus defeating the very purpose? Would it scream “left-brained” to anyone who happened to borrow the book from me?
+Underlining, in contrast, seemed more deliberate. If you came across a few underlined sentences in a book versus some neon highlights, you’d definitely think the underlining was more intentional.
+Perhaps. But then, why really was I even interested in highlighting (or underlining)? If I’d already enjoyed the prose, was that not enough? What would I gain by marking them out? Was it for me to come back and read it a few years later, and to reflect on the parts a younger me had liked? How would I judge my own choices? How would others?
+How often do we re-read our books? Almost never.
+Then why highlight? Why not just enjoy what you read and let it be? Perhaps that’s why we stopped buying highlighters.
+On that utterly random note, welcome back to First Principles and this second Sunday of autumn. We have a great edition for you today.
+Oh, and we’re looking to hire a talented designer as our [Editorial Design Lead](https://the-ken.com/careers/editorial-design-lead/). If you know someone who might be interested, please point them to this page?
+[Editorial Design Lead, The Ken](https://the-ken.com/careers/editorial-design-lead/)
+For now, here’s everything we have for you:
+1. Conviction is a muscle
+2. First drafts 📚
+3. The Angel of Chance 📸
+4. Netflix’s last growth market 🎙️
+5. Interesting reads 🔖
+[Pro tip: This email is a highly abbreviated version, since many email clients impose restrictions on the amount of material we can publish in a single email before intervention. In fact, it’s likely some email clients may even clip this truncated email.
+The best way to experience this edition is to [read it on our website](https://the-ken.com/newsletter/first-principles/conviction-is-a-muscle/), where all sections are featured in full and unabridged form.
+Also, if your default setting is to not show images within emails, please consider turning it off for this newsletter. Or else, you’ll miss many of the interesting images and photos we carry each Sunday.]
+“Nobody wants to give you feedback,” I said in [ last week’s edition](https://the-ken.com/newsletter/first-principles/attracting-feedback/).
+Remember, you are asking someone to invest their limited and valuable time and energy in you
+The way we do “feedback” transfers the burden to the recipient of the ask. Is it any surprise we don’t respond? I for one ignore almost 90–95% of requests which end with, “…can you give me some feedback?”
+When we go to others and say the words, “Can you give me some feedback?”, what most of us really mean is, “Can you give me some conviction?”
+Conviction is what we truly seek.
+“Should I change the way we’re going to launch our new product?”
+“Will moving jobs at this stage hurt my career?”
+“Is taking this risk worth the benefits?”
+Sans at least some conviction from our side, it’s unfair to expect others to develop and communicate it to us. Whether they be your managers, peers, or friends.
+My counter question when someone asks me for feedback is, “What is it that you believe?”
+If you don’t have a clear belief or conviction about something you’re asking me for feedback on, you’re really asking me to do your work for you.
+A common (and sadly, by now, also cliched and outdated) example of this at a corporate level used to be [ how Apple and Google designed their products](https://medium.com/swlh/google-apple-a-tale-of-two-product-cultures-e86c62823961).
+To put it simply, Google—given its scale and access to incredible amounts of data—prefers to let its products evolve in response to user data. When in doubt, run large-scale A/B tests that show what users prefer, and then shape the product in that direction.
+This used to work for Google for its “early” products like Search, Gmail, Youtube, and Chrome. But recent years have shown how the company has struggled to predict or foresee newer trends (OpenAI, for instance, is a company based on tech primarily developed by Google’s researchers).
+Apple, in contrast, relies on [ the talents, taste, and beliefs of its designers](https://x.com/kocienda/status/1113450945705177088) to decide what products to make. That conviction, combined with relentless iterative development, leads it to products that very few user surveys or A/B tests could ever unearth.
+In fact, the late Steve Jobs deeply valued a form of pre-conviction: intuition.
+He told me he began to appreciate the power of intuition, in contrast to what he called “Western rational thought,” when he wandered around India after dropping out of college. “The people in the Indian countryside don’t use their intellect like we do,” he said. “They use their intuition instead … Intuition is a very powerful thing, more powerful than intellect, in my opinion. That’s had a big impact on my work.”
+Mr. Jobs’s intuition was based not on conventional learning but on experiential wisdom. He also had a lot of imagination and knew how to apply it. As Einstein said, “Imagination is more important than knowledge.”
+The Genius of Jobs by Walter Isaacson, [The New York Times](https://www.nytimes.com/2011/10/30/opinion/sunday/steve-jobss-genius.html)
+Coming back to our individual lives, I see conviction and feedback as a continuous loop.
+I understand it’s hard, and even daunting, for the young to develop conviction. But nevertheless, it is a muscle you need to develop through repeated usage. Start small but do start.
+Without conviction, feedback can send us in any direction. It’s like that famous Lewis Carrol quote, “If you don’t know where you are going, any road will get you there.”
+I personally like the one apocryphally attributed to Yogi Berra.
+“If you don’t know where you are going, you’ll end up someplace else.”
+P.S. This is edition #63. It’s safe to say we’ve crossed the point where some important themes start cropping up again and again. Here are two older editions where we’ve discussed similar ideas.
+On Belief: [The Third Value](https://the-ken.com/newsletter/first-principles/the-third-value/)
+Because just like nature does not allow vacuums to exist, modern organisations do not allow lack of beliefs to exist. In the rush to get on with work, belief voids are quickly filled in with the views and beliefs of others (subordinates, peers, bosses, customers, etc.). But for projects to succeed, this void cannot be filled up by others. Especially “HIPOs” (highly paid person’s opinion), to borrow Chargebee CEO Krish Subramanian’s pointer.
+On Intuition: [Training yourself to listen to yourself](https://the-ken.com/newsletter/first-principles/edition-17-training-yourself-to-listen-to-yourself/)
+“Some convictions can be very strong and that’s when I trust my intuition.”
+Simplicity was what guided his problem solving, helping him get to the core of the problem and try to find the simplest solution. Excellence drove all decisions related to products. And finally, conscientiousness helped him “with any decisions to do with people—employees, customers, business associates, and society at large.”
+Hello, dear readers, this is Hari here. I hope you are all having a wonderful Sunday.
+Yesterday, as I sat down to write this week’s book section, I was a bit lost figuring out what I wanted to write. I’d had something in mind on Friday, but I didn’t note it down and it just faded away by the time I sat down at my desk.
+So there I was, just looking at the books I had lying about, and my eyes settled on one. Anne Lamott’s Bird by Bird.
+Ah yes. Just when you are feeling lost about what to write, your eyes latch on to a book about writing. How convenient. 🙂
+I have always written for the pleasure of writing. I’ve never pushed any structure while penning down my musings because I never intended for them to be seen or read by anyone else. I’ve gone back through multiple journal entries of mine and seen how it is when you write with that kind of freedom. The thoughts flow better, but many times, they do not seem complete.
+But then again, those are just for me, so the stakes are lower. Taking the same approach on something you want to publish, however, breeds disaster. The voices in your head asking you to mind this and that get progressively louder until you end up going through draft after draft trying to get things to make sense. At moments like these, I resort to write everything that comes to mind and then edit out things I don’t want until I’m left with something that makes at least a little bit of sense.
+Bird by Bird has an excellent chapter that explains my ordeal best: Shitty First Drafts.
+Almost all good writing begins with terrible first efforts. You need to start somewhere. Start by getting something–anything–down on paper. A friend of mine says that the first draft is the down draft–you just get it down. The second draft is the up draft–you fix it up. You try to say what you have to say more accurately. And the third draft is the dental draft, where you check every tooth, to see if it’s loose or cramped or decayed, or even, God help us, healthy.
+Maybe I should pick up Bird by Bird again and start writing my journal entries with a little more intent. At least then, when I panic, there may be something I can fall back on that isn’t entirely useless.
+For those of you who would like to learn how to write better, Bird by Bird is a great read. Do check it out sometime. And on that note, might I ask the writers here to recommend some good books that have helped you with your writing? You can send in your recommendations [using this link](https://theken.typeform.com/FPBooks).
+And now, it’s time for this week’s recommendations from our readers, including a double recommendation from long-time subscriber Lakshmi Raman.
+Please switch to [our onsite version](https://the-ken.com/newsletter/first-principles/conviction-is-a-muscle/) to see what our recommenders have to say about the books.
+1. [A Man called Ove](https://www.goodreads.com/book/show/18774964-a-man-called-ove?from_search=true&from_srp=true&qid=D69vxU8buN&rank=1) and [Britt-Marie was here](https://www.goodreads.com/book/show/27406704-britt-marie-was-here?from_search=true&from_srp=true&qid=mEQ7PuSFKr&rank=1) by Fredrik Backman, translated by Henning Koch—from Lakshmi Raman
+2. [The Gentleman from Peru](https://www.goodreads.com/book/show/55203986-the-gentleman-from-peru?from_search=true&from_srp=true&qid=CYQaZ2IrnS&rank=1) by Andrew Aciman—from Deepak Thandassery
+3. [Working Backwards](https://www.goodreads.com/book/show/53138083-working-backwards?from_search=true&from_srp=true&qid=XdTvBOX81a&rank=1) by Colin Bryar and Will Carr—from Ali Asgar Kagzi
+Check out The Ken's brand-new Narrative Communications WorkshopDesigned to transform professionals into leaders who weave compelling narratives, The Ken Learning’s newest workshop will train your teams on how to grab your stakeholders’ attention and spur them to action. |
+Hello everybody, welcome to another edition of First Principles Silent Sunday. It’s Jonathan here as always.
+The art of photography is, more than many others, reliant on serendipity. Sure, if you have a studio, a few lakhs worth of equipment, and the time and resources to get everything just right, you can take random chance out of the picture (pun unintended). But if you are a roving amateur photographer, under which category I think most of us here fall, then serendipity is your friend.
+A rare friend. A valuable one. One that can take a mundane day and create lasting beauty out of it—whether that beauty ends up hanging on the walls of a gallery or museum or home. Or gets published in your favourite weekend newsletter. As multiple award-winning American photographer Sally Mann puts it:
+I speak of serendipity today because of this photo from Vikas Singh, taken on the Golden Quadrilateral Highway near Udaipur. I’ve come across one or two skies like this before, but never had the opportunity to take a really good picture for myself. This particular Angel of Chance hasn’t yet deigned to grace me.
+I’m happy that wasn’t the case for Vikas though, because otherwise, we wouldn’t have such a lovely picture to kick things off this today.
+| Golden Quadrilateral Highway, Udaipur (Vikas Singh) |
+And here are all the other pictures the FP community has sent in this week.
+Remember to switch to [our onsite edition](https://the-ken.com/newsletter/first-principles/conviction-is-a-muscle/) to see the full-size, uncropped images, and send in your own Silent Sunday contributions [using this link](https://theken.typeform.com/FPSilentSundays).
+This week in Two by Two, my co-host Praveen Gopal Krishnan and I discuss what Netflix is doing, and needs to do, to sustain and grow steadily in its last growth market—India. Joining us for the discussion were Kunj Sanghvi, who is the content and creative head at Kuku FM, and Nishad Kenkre, who currently works as operating partner with Verlinvest. Nishad has also worked at Swiggy and Disney.
+Listen to the episode here: [Netflix’s last growth market](https://the-ken.com/podcasts/two-by-two/netflixs-last-growth-market/?utm_source=daily_story&utm_medium=email&utm_campaign=daily_newsletter)
+Should everyone earn their pay rise?—By Tim Harford ([Financial Times](https://www.ft.com/content/e690055e-4083-4c3b-ba38-d25966596915))
+The Baumol effect describes the challenge that arises when some sections of the economy are rapidly advancing while others are standing still. If you would like to listen to people play Haydn live, you will probably need to pay them a competitive wage. And in a flourishing economy, what counts as a competitive wage is always increasing. If the productivity of musicians doesn’t change, but their wages keep growing to keep pace with the rest of the economy, then paying people to perform Haydn is going to feel more and more like an expensive luxury.
+But that is not why the Baumol effect is on people’s lips today. The concern now is not the price of a night at the concert hall, but the cost of healthcare, social care and education. Instead of a cellist, think of a nurse changing a dressing on a wound, or a care worker helping a person with dementia get dressed in the morning, or a kindergarten teacher instilling some of the basics of reading and counting to a class of four-year-olds. To demand that these people become “more productive” feels like the same sort of basic error as insisting that the string quartet play louder and faster. Perhaps it cannot or should not be done.
+Research: How Anxiety Shapes Men’s and Women’s Leadership Differently—By Ivona Hideg, Tanja Hentschel, and Winny Shen ([Harvard Business Review](https://hbr.org/2024/09/research-how-anxiety-shapes-mens-and-womens-leadership-differently))
+Research has shown that anxiety and hope are the two main emotions experienced in the face of uncertainty and are often seen as two opposite responses to a volatile environment. We examined leaders’ experiences of anxiety and hope as well as their subsequent leadership behaviors during the early stages of the Covid-19 pandemic — a time of high uncertainty. Critically, anxiety and hope relate to people’s perceptions of controllability in one’s environment; those experiencing anxiety perceive very little controllability, whereas those experiencing hope are more apt to believe they still have some control over their environment.
+[…]
+By integrating research on gender roles with appraisal theories of emotions, we predicted that women may be less affected by their emotions. They instead engage in emotional labor and managing their emotions, believing they cannot afford falling prey to them due to their responsibility for others. Women’s traditional gender roles dictate that they are communal and helpful. This communal focus and the need to take care of others should then be pronounced during uncertain times, so instead of a self-focus on their emotions, their behavior will be other-focused on their reports’ needs. That is, we expected that women leaders would refrain from abusive supervision and engage in family-supportive behaviors, regardless of whether they experienced anxiety or hope, respectively.
+Spartans Were Losers—By Bret Devereaux ([Foreign Policy](https://foreignpolicy.com/2023/07/22/sparta-popular-culture-united-states-military-bad-history/))
+Sparta’s military mediocrity seems inexplicable given the city-state’s popular reputation as a highly militarized society, but modern scholarship has shown that this, too, is mostly a mirage. The agoge, Sparta’s rearing system for citizen boys, frequently represented in popular culture as akin to an intense military bootcamp, in fact included no arms training or military drills and was primarily designed to instill obedience and conformity rather than skill at arms or tactics. In order to instill that obedience, the older boys were encouraged to police the younger boys with violence, with the result that even in adulthood Spartan citizens were liable to settle disputes with their fists, a tendency that predictably made them poor diplomats.
+But while Sparta’s military performance was merely mediocre, no better or worse than its Greek neighbors, Spartan politics makes it an exceptionally bad example for citizens or soldiers in a modern free society. Modern scholars continue to debate the degree to which ancient Sparta exercised a unique tyranny of the state over the lives of individual Spartan citizens. However, the Spartan citizenry represented only a tiny minority of people in Sparta, likely never more than 15 percent, including women of citizen status (who could not vote or hold office). Instead, the vast majority of people in Sparta, between 65 and 85 percent, were enslaved helots. (The remainder of the population was confined to Sparta’s bewildering array of noncitizen underclasses.) The figure is staggering, far higher than any other ancient Mediterranean state or, for instance, the antebellum American South, rightly termed a slave society with a third of its people enslaved.
+The Childhood Exploration Edition—By [ Noah Brier](https://whyisthisinteresting.substack.com/p/the-childhood-exploration-edition)
+In short, the adults gave up early after assuming they had found the pattern, while the children kept experimenting (“high-temperature searching”) and, in turn, discovered additional answers that remained out of reach for the adults. It’s hard to say exactly why we often become less curious with time—presumably, adult responsibilities and perhaps a touch of jadedness have something to do with it—but studies like Gopnik’s have been helpful reminders that our brains weren’t always this way. It’s likely worth the effort to explore a little more than our systems may naturally incline us to do.
+That’s a wrap for this week. Before you go, if you know someone who might like this newsletter, forward us to them!
+Please write to fp@the-ken.com if there’s anything you’d like to share with us. Or leave a comment on our on-site edition. See you next Sunday!
+Regards,
+Rohin Dharmakumar
+Daybreak survey: Why do women freeze their eggs?Hello! We are Snigdha and Rahel, and we host |

@@ -1,0 +1,26 @@
+---
+subject: "Covid’s second wave exposes the million-plus hole in India’s healthcare workforce"
+from: "The Ken <info@the-ken.com>"
+to: ""
+date: 2021-06-04 02:36:59
+labels: ["CATEGORY_PERSONAL", "INBOX", "The Ken"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_8244464457792971031"]
+---
+Good Morning Ishan,
+Enter a hospital and doctors, and often nurses, will be the only people on patients’ radars. Everyone else sort of just fades into the background. The people who take your blood, replace your bedsheets, clean your bathroom, deliver your meals—they are all nameless and faceless, a blur when faced with the monumental decisions you have to make in a hospital.
+Allied healthcare professionals (AHPs), as they’re called, are a hospital’s support staff. If doctors are the face and brains of the institutions, AHPs are the heart and hands, doing jobs often considered thankless. They make up between 40-60% of all healthcare workers in India.
+They’re also pretty much indispensable, as hospitals and pathology labs found out over the last three months as India grappled with a deadly second wave of Covid-19 infections. AHPs found themselves in high demand. In 2012, it was estimated that India would need around 2.3 million AHPs by 2022. With Covid stretching the healthcare system to its limits, who knows what that number could have possibly risen to now. And actual supply? Less than a million, according to the health ministry.
+There’s a distinct lack of awareness about AHP roles. With the perception of healthcare professionals limited to just nurses and doctors, AHP training isn’t on the radar for most students completing their schooling. And even if they are interested, these skilling courses aren’t readily available in their regions.
+Now, both the private sector and the government are looking to solve this problem. Because while the unfortunate shortage of doctors and nurses isn’t fixable in the short term, the shortage of AHPs is.
+Skilling institutes are rejigging their courses. Apollo Hospitals’ Medskills, for instance, developed expedited courses as short as 90 hours. The government has also passed the National Commission for AHPs Act, defining and regulating the role of 53 specific non-clinical healthcare professions.
+This is crucial. Especially because, going forward, AHPs will be required to take up multiple roles. The next big requirement is for AHPs who can do vaccinations, emergency medical technicians (EMTs), and phlebotomists, writes Ruhi in today’s fascinating story about a part of the healthcare sector that’s largely ignored: [https://the-ken.com/story/million-hole-indias-healthcare-workforce/](https://the-ken.com/story/million-hole-indias-healthcare-workforce/?utm_source=daily_story&utm_medium=email&utm_campaign=daily_newsletter) (9-minute read)
+Best,
+Janane
+[janane@the-ken.com](mailto:janane@the-ken.com)
+|
+What you just read is the personalised daily introduction to The Ken's story. Written by a different person each day. Often insightful, sometimes witty, and very rarely boring. Someone sent this to you? [Sign up for free](https://the-ken.com/sea/?modal=register&utm_source=footer&utm_medium=email&utm_campaign=sea_morning_email). Don't like these? You can [unsubscribe](https://link.the-ken.com/asm/unsubscribe/?user_id=2349339&data=bcedisvGNfG-8Cp3AA_be9Q_f6z0arX2Hs8_KCEYhtpmwbTlZoWYb53I8sT8PKlFQagC2rZTkSOl8oM10_mafvUFeiDrzLqwD-W4xMjsZnmjXMWau6M4i86XYWc1L-tLChWYniwuGxvS5kuB9hrap7k-HGWWx4M2mXMP3w5HFLsD5wWkE54CPfWG23PlzVXOBEtBtOPNoDANOUobnvHQvk95Pk8uzBISfnvXIetLuuBmkRVRG6pmdY5J4IksByTA9Z1PCH85tKUlJE3IPWgoVhbWffxkmUtev6C9k1Yz6mscWbOnc1QAEGphpkbhGQcujMcO0Wsv9GNYF9HvBDbsUmh2-myEZZcp0KWZEsgqR3u2RpVS6wQ5TISlJjATY7TV02xkRlON_wt2ODatMZ05sfNvTbf3HFOK2PkeuS-cwSOOubBB2-6Gr76zJIrm218dOy2O4S66WoWw5BeTlpNvqVx_c6FaLmbIe6KVq8Xrj-qGyIwI7eO35Ulmi2NdcHhq_Y-VBknVA98H-hTRGAJAwVER1txt6mcYIyMwEsXCVpA=). Want to manage your emails? Click [here](https://link.the-ken.com/asm/?user_id=2349339&data=bofWwxnLQBPTa29pkL-VY-AOL8j-9gIorDjzZJUzIcugJYByakry71ShXNP6MS8h53iY7aPr6LzpZLHj9h6NKh0rYkEUtGl9ma03WmD3GPl8QRzz1apdkKFwt0L-u-brRp-QKEh7EgZ7XVGwRoXWijiiLEpKzwGN9teCYf5bMFw2jEf7S2gAK4uYyBr09bVg-6-k4aO3aVltZNcbvPQ8BhJveteDRqaagj_BdUvTGR94FmpBxC3USgqTJ57O0To0EEIBczExmHYMxj5ybMJfNVEIOzUb2Lo3dpPkwQ_COP8fB8KfucLX_ItGWTLfafjSEOoDZKimRCOu4657DHmnFCD77Pm7lj_O0pvxy_whjfDJ6NbimFC7rNt4510edALymkFPqzQkf9CXuYYWZDwxpn8xdngBJp2KizSfZHB97805uTJPfKp20i7mk2X8b-iZbljo7yXDiIepM1paAc7biIp61CCxso2pa3yXGkCrd4J3qlIYRrHcMUDAF93PjWBKKv8h6iVsoi7ei7PcpYahK_syQT9KhTXt7xKbJrNa4QU=).
+|
+|
+|
+|
+|

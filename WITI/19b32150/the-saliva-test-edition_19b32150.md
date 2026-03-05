@@ -1,0 +1,28 @@
+---
+subject: "The Saliva Test Edition"
+from: "\"Why is this interesting?\" <whyisthisinteresting@substack.com>"
+to: ""
+date: 2025-12-18 15:29:42
+labels: ["CATEGORY_PERSONAL", "INBOX", "UNREAD", "WITI"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "UNREAD", "Label_5752899537867939131"]
+---
+|
+How many hours does your team spend working around software limitations?
+Aboard builds applications that solve for how you actually operate. Custom CRMs, inventory systems, project management tools, complex data management—prototyped by AI, perfected by expert engineers. Business software that accelerates your operations, rather than complicating them.
+Emily Lombardo (EL) is a writer and digital marketing strategist based in NYC.
+Emily here. This summer, I arrived at the Coyne Medical clinic in Fulham for a first-of-its-kind medical evaluation: The Ziwig Endotest, a saliva test for diagnosing endometriosis.
+The doctor was incredibly excited; it was the very first Endotest that the clinic had received, and she shared that she herself had been diagnosed with endometriosis, so it was a particularly special moment for her to administer it.
+It had been a long journey to this moment. When I was fourteen, I started getting sick when I got my period. One day during my first semester of American high school—already self-conscious as a new student who had moved from the UK to St. Louis weeks before—the cramps and hot flashes overwhelmed me, and I ran from class, burst out of the school’s front doors, and flopped down outside in a desperate bid for fresh air.
+The next day, my art teacher asked if I was okay because, as he told me, “You looked like…” and mimed what looked like an overturned bug writhing on the floor. Another time, after another speedy exit from class to the bathroom where I threw up from the pain, one of the deans let me curl up in her office in the dark until my Dad could pick me up.
+Every month brought a day of pain that Advil never made a dent in, and honestly, it felt mortifying to discuss.
+A family friend once suggested it could be endometriosis, a chronic disease in which endometrial tissue that lines the uterus spreads and grows in other parts of the body.
+But since then, when I brought it up at doctor’s appointments, it was brushed aside. I was told to take birth control and given painkillers that ranged from extra-strength NSAIDs to Tramadol, a synthetic opioid, to manage the symptoms. No doctor wanted to look into it further, and I learned to stop bringing it up.
+After almost 20 years of waiting for an answer, I finally had one. About ten days later, the results came back: I had tested positive for endometriosis.
+Why is this interesting?
+It is currently estimated that 11% of women in the US suffer from endometriosis, a percentage roughly [comparable](https://substack.com/redirect/53352db1-8ae0-45f0-b54b-16dac85d8397?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) to the number of women expected to suffer from type 2 diabetes in their lifetime. That number is similar worldwide; the World Health Organization [estimates](https://substack.com/redirect/e15f501c-4cc2-4d65-91ca-3bb00eeeb088?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) that 10% of reproductive-age women have endometriosis.
+Despite affecting millions of women globally, endometriosis is still largely a mystery.
+Both the causes of endometriosis and a cure are unknown, and my experience wasn’t unique. Even though it’s now known to be a chronic inflammatory condition associated with a higher risk of infertility and ovarian cancer, it takes roughly nine years for women suffering to even be diagnosed correctly.
+There has been little work to correct this oversight into a serious women’s health issue. Funding for endometriosis treatment lags; total U.S. funding in 2022 was $16 million, a paltry 0.038% of the National Institutes of Health’s annual allocation for disease research.
+I sincerely hope the new Endotest (which has an accuracy of 97%, according to recent clinical studies) might be the light at the end of the tunnel for both proper and timely diagnoses and treatment.
+But we’re still in the early stages. It’s not available in the U.S. yet as it undergoes FDA approval, and the test is currently only suitable for women aged 18 to 43. But for a disease that currently typically takes almost a decade to diagnose correctly, a simple saliva test could help give women treatment options—and hopefully, relief—much more quickly. (EL)
+If you enjoy Why is this interesting?, share it with your friends and earn rewards when they subscribe.

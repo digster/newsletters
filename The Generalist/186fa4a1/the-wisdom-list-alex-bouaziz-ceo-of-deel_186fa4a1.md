@@ -1,0 +1,47 @@
+---
+subject: "The Wisdom List: Alex Bouaziz, CEO of Deel"
+from: "The Generalist <thegeneralist@substack.com>"
+to: ""
+date: 2023-03-19 14:31:57
+labels: ["CATEGORY_PERSONAL", "INBOX", "The Generalist", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_8815311452832858585", "UNREAD"]
+---
+|
+Friends,
+We’re back on our Sunday schedule with a brand new edition of The Wisdom List – a series that asks successful founders to share their tactics, strategies, secrets, and lessons learned.
+Today’s interview features Alex Bouaziz, CEO of Deel. As it happens, I actually met Alex when I first began working in VC and he had just started the remote work company. Had I been smart enough to try and invest, needless to say that my old employer would have been quite happy: Deel was most recently valued at $12 billion with $295 million in annual recurring revenue.
+As you’ll see, Alex is a founder with strong opinions and evident intensity. Jump in to learn about the culture he’s built at Deel, his smartest marketing move, and how he manages during a crisis.
+Two seconds: If you have a moment to hit the heart ❤️ button at the top of this email, it would be much appreciated. It’s a super helpful free way to support our work and contribute to our growth. Thank you!
+Where innovation meets peace of mind
+Now more than ever, startups are looking for the safest place to put their cash. Many of these startups have been led to believe that in order to safeguard their money, they have to settle for clunky, complicated banking experiences — but that’s a myth. Mercury offers secure banking* through an intuitive product experience that innovates alongside you.
+Through partner banks and their sweep networks, Mercury customers can access up to $5M in FDIC insurance — 20x the per bank limit. These sweep networks protect your deposits by spreading them across multiple banks, limiting the risk of any single point of failure.
+And with Mercury Vault, any funds above the FDIC-insured amount can be easily invested in a money market fund predominantly composed of US government-backed securities.
+Mercury offers startups of every size and stage a simple way to manage bank risk and protect every dollar. Plus, it’s simple to get started — applying takes just minutes and many customers are approved and onboarded in less than two hours.
+[Join more than 100,000 startups that trust Mercury for banking.](https://substack.com/redirect/58aa5bda-8ac5-4075-ae87-297db25fbf1e?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+*Mercury is a financial technology company, not a bank. Banking services provided by Choice Financial Group and Evolve Bank & Trust®; Members FDIC.
+If you only have a few minutes to spare, here’s what investors, operators, and founders should know about building a business, according to Deel’s CEO and co-founder, Alex Bouaziz.
+Need for speed. What does Alex Bouaziz consider his company’s most important cultural trait? Speed. From the top down, Deel is a business that aims to move fast (without breaking things). That sense of urgency contributes to an intense culture that champions hard work.
+Problems of scale. Few companies have grown as rapidly as Deel over the past four years. While that’s a problem most CEOs would love to have, it does lead to its own issues. Bouaziz has particularly grappled with the tendency for his business to “outscale” its senior executives. Careful hiring and continuous support are required to ensure leaders don’t get out of their depth.
+Customer obsession. Despite its current size, Bouaziz maintains personal relationships with customers. By his estimation, he holds “hundreds” of WhatsApp conversations with clients at a given moment. Not only does this help him keep a pulse on how Deel is doing, it’s a valuable source of new ideas.
+Fiercely competitive. Bouaziz is unabashed in his desire for Deel to out-execute its competitors. He devised one of the company’s most lucrative features after a rival beat him to a sale. Even at a $12 billion valuation, his drive to stay ahead of the competition appears undimmed.
+The Wisdom List is a series that asks successful founders to share their tactics, strategies, secrets, and lessons learned.
+Alex Bouaziz couldn’t have timed it better. In 2019, he and M.I.T. classmate Shuo Wang decided to build a human resources (HR) platform focused on the remote work movement. They named it [Deel](https://substack.com/redirect/6798b583-f49f-4e1d-bf2d-80e8a0d6b44d?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o).
+Deel was not the first to identify the opportunity in the space. Others came to market in the years prior to Bouaziz and Wang founding their business. But as [John Doerr used to note](https://substack.com/redirect/4f6c2819-b94c-4c8c-867d-0e3d81c66af7?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o), Google was the 17th search engine to market. Which is to say that first-mover advantages are not unassailable and that new founders can take an existing idea and make it their own.
+At least from one vantage, that is the story of Deel. As 2020 forced the world into lockdown, employers’ demand for remote work tooling reached ravenous levels. Thanks to its self-professedly intense culture, Deel rose to the occasion, rolling out a comprehensive suite handling global hiring, payroll, equity management, perks, immigration support, and more.
+That feature set has powered a rapid ascent for Bouaziz’s firm. At the start of 2021, Deel reportedly had [$4 million](https://substack.com/redirect/a301d820-2d1b-4240-9fa5-f707d307de94?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) in annual recurring revenue (ARR); twelve months later, it had risen to $57 million. By the end of 2022, 15,000 customers – including big names like Nike, Shopify, Reddit, Red Bull, and Klarna – drove ARR to $295 million. Notably, Deel reports 85% gross margins and EBITDA profitability as of September last year.
+Though Bouaziz has not formally shared new figures since January 2023, a little extrapolation suggests Deel’s current revenue may be considerably higher. Last week, as part of its commitment to loan [$120 million](https://substack.com/redirect/3b3dd97d-268e-438e-a8eb-9b7229bfaa47?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) off its balance sheet to assist startups affected by the Silicon Valley Bank collapse, it reported a client count of 18,000. If the average customer value has remained constant, ARR could be closer to $354 million.
+Deel’s steep growth persuaded Emerson Collective to invest $30 million in Q2 of last year at a price of $12 billion. Such a valuation would not have looked out of place in 2021; even using its end-of-2022 numbers, the round pegged Deel at approximately 41x ARR.
+That pricing suggests Deel can ill-afford to let up in the coming years. As you’ll soon read, Bouaziz is minded toward value maximization – though his sights are firmly focused on Deel’s ceiling rather than its potential floor. Even among tech’s wide-eyed optimists, few dare to suggest, as Bouaziz does, that they are building a trillion-dollar company. Recent months have seen Deel bulk up in pursuit of that mammoth figure, acquiring equity-management firm Capbase and Australian payroll provider PayGroup. The latter cost $83 million.
+Despite Deel’s ascent, Bouaziz’s role is not an easy one. Hypergrowth brings its own managerial difficulties, as does creating a culture equipped to fight and win in a hot market. So far, Deel has looked every inch up to the challenge.
+Ultimately, few entrepreneurs have had as productive a four-year operating spell as Alex Bouaziz. As such, I believe founders, operators, and investors can learn much from his hard-earned wisdom.
+On Wednesday this past week, we [published our case study on Kleiner Perkins.](https://substack.com/redirect/4f6c2819-b94c-4c8c-867d-0e3d81c66af7?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+It’s a ~10,000 word exploration of the iconic venture firm’s history, evolution, and newest incarnation. We spent weeks researching this piece, interviewing approximately a dozen different sources. If you’re a fan of VC lore, organizational transformations, and actionable playbooks, I’d recommend checking it out.
+All guesses are very welcome. Don’t forget, if you’d like a hint, just respond to this email. I suspect this may be a particularly fiendish one. Why is that? Because rather than a riddle, I’m challenging you to unscramble the words below to reveal the full name of a famous tech CEO:
+AHA HOW ROADS SHIRK
+Best of luck, my word-wrangling friends. Our last case was cracked by Upendra S, who needed no fortune to finish first. He was joined by Austin V, Rokk-Vincelli W, Dan E, Kayvon B, Saagar B, and Joshua K in answering this quandary:
+A box without hinges, key or lid. Yet golden treasure inside is hid.
+The answer? An egg. The golden treasure is, of course, the yolk. Well played to all you wily readers.
+Wishing all of you a lovely day, wherever you are in the world.
+Until next time,
+Mario
+PS – If this email happened to arrive in your “Promotions” tab, would you do me the favor of dragging it over to “Primary?” It should take about 1 second, and helps ensure The Generalist doesn’t get lost in the email dungeon.

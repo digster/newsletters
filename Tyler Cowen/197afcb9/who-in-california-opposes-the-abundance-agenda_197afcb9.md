@@ -1,0 +1,12 @@
+---
+subject: "Who in California opposes the abundance agenda?"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2025-06-27 05:10:42
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+Labor unions are one of the culprits, environmental groups are another:
+Hours of explosive state budget hearings on Wednesday revealed deepening rifts within the Legislature’s Democratic supermajority over how to ease California’s prohibitively high cost of living. Labor advocates determined to sink one of Newsom’s proposals over wage standards for construction workers filled a hearing room at the state Capitol mocking, yelling, and storming out at points while lawmakers went over the details of Newsom’s plan to address the state’s affordability crisis and sew up a $12 billion budget deficit.
+Lawmakers for months have been bracing for a fight with Newsom over his proposed cuts to safety net programs in the state budget. Instead, Democrats are throwing up heavy resistance to his last-minute stand on housing development — a proposal that has drawn outrage from labor and environmental groups in heavily-Democratic California.
+Here is [the full story](http://marginalrevolution.com?action=user_content_redirect&uuid=df3a3215e1c3513293f96189220f06b11ec72d4c0aaf95ff6cca8c24ecb0b7d8&blog_id=42693868&post_id=90974&user_id=262258391&subs_id=225460721&signature=eb022f5c8bf1c13b983aa8f5ec430c7b&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly93d3cucG9saXRpY28uY29tL25ld3MvMjAyNS8wNi8yNS9jYWxpZm9ybmlhLWRlbW9jcmF0cy1zdGFnZS1pbnRyYXBhcnR5LXdhci1vdmVyLWxhc3QtbWludXRlLXB1c2gtdG8tYnVpbGQtbW9yZS1ob3VzaW5nLTAwNDI1MTk2&email_id=fbf030fd512440f47022c68b737626d2), via [Josh Barro](http://marginalrevolution.com?action=user_content_redirect&uuid=6f0f76a8ba3dc4250484df7c541aaffbfb8d0b9fe23d9190ad707d2f641b6cbf&blog_id=42693868&post_id=90974&user_id=262258391&subs_id=225460721&signature=f9fbde65f7b00f854f6976c9657266ac&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly94LmNvbS9qYmFycm8&email_id=fbf030fd512440f47022c68b737626d2). To be clear, I am for the abundance agenda.

@@ -1,0 +1,39 @@
+---
+subject: "Protests crash Reddit 📱, Twitter CEO's first email 🐦, Chrome for Testing 👨‍💻"
+from: "TLDR <dan@tldrnewsletter.com>"
+to: ""
+date: 2023-06-13 10:41:23
+labels: ["CATEGORY_PERSONAL", "IMPORTANT", "INBOX", "TLDR"]
+label_ids: ["CATEGORY_PERSONAL", "IMPORTANT", "INBOX", "Label_795315172960844453"]
+---
+[Reddit crashed because of the growing subreddit blackout (2 minute read)](https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.theverge.com%2F2023%2F6%2F12%2F23758002%2Freddit-crashing-api-protest-subreddit-private-going-dark%3Futm_source=tldrnewsletter/1/01000188b45892ba-234be14f-53dd-4118-8504-8799f2c5eada-000000/QtQ_tN-n_2_VVlX9QczWN-yCzInJqrpXij6gycFW6zY=305)
+The large number of subreddits shifting to private to protest Reddit's new API pricing terms caused Reddit to crash. Reddit started experiencing issues on Monday morning. The outage was fully resolved by 1:28PM ET. More than 7,000 subreddits have gone private or read-only as part of the protest. Some subreddits will return to normal on June 14, but others have decided to continue the protest until changes are made. Reddit said on Sunday that it wasn't planning any changes to what's been announced. |
+[This is Twitter's new CEO's first email to employees (2 minute read)](https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.theverge.com%2F2023%2F6%2F12%2F23758258%2Ftwitter-ceo-linda-yaccarino-first-employee-memo%3Futm_source=tldrnewsletter/1/01000188b45892ba-234be14f-53dd-4118-8504-8799f2c5eada-000000/nKgNFCmLECKRlsoconbXnrLpdnox1hi-EcwoRr4mNys=305)
+Twitter's new CEO Linda Yaccarino sent her first memo to employees on Monday, marking her start at the company. Yaccarino is a long-time advertising executive and her main task will be to rebuild Twitter's ads business. Elon Musk will continue overseeing Twitter's product and engineering teams. A copy of Yaccarino's full email to Twitter employees is available in the article. |
+Science & Futuristic Technology
+|
+[Hugely ambitious self-sufficient floating city to host 40,000 people (2 minute read)](https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fnewatlas.com%2Farchitecture%2Fdogen-city-floating-self-sufficient%2F%3Futm_source=tldrnewsletter/1/01000188b45892ba-234be14f-53dd-4118-8504-8799f2c5eada-000000/fYg7H4ToaUnVwFlYRL9aIpRq5pxKRE0uK3cjVuI3diE=305)
+N-Ark's floating city project, Dogen City, will be designed to handle rising sea levels and provide power, food, and water for up to 40,000 people. The city, which will measure 4 kilometers in circumference, will host tourism, medical facilities, and space rockets. N-Ark is planning for approximately 10,000 full-time inhabitants, with up to 30,000 tourists visiting at any time. The company plans to have Dogen City in use by 2030. |
+Programming, Design & Data Science
+|
+[Chrome for Testing: reliable downloads for browser automation (4 minute read)](https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fdeveloper.chrome.com%2Fen%2Fblog%2Fchrome-for-testing%2F%3Futm_source=tldrnewsletter/1/01000188b45892ba-234be14f-53dd-4118-8504-8799f2c5eada-000000/pEicyAT0Yg9VOSUd1bXr_rVqvjKrSJv4AWlODTLladY=305)
+Chrome for Testing is a new Chrome flavor that targets web app testing and automation use cases. Setting up adequate browser testing environments is a commonly reported web developer pain point. Chrome for Testing doesn't auto-update and a versioned binary will be made available for every Chrome release. ChromeDriver releases will now align with Chrome releases. |
+[Waku (GitHub Repo)](https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fgithub.com%2Fdai-shi%2Fwaku%3Futm_source=tldrnewsletter/1/01000188b45892ba-234be14f-53dd-4118-8504-8799f2c5eada-000000/LUNr4uljWBwIOE4lqjZf8h-OD40c3o2f9mBwgZznlZ0=305)
+Waku is a minimalistic React framework. It supports exportable builds, static site generation, and more. Diagrams showing how Waku's architecture works are available. |
+[A Developer's View of Vision Pro (8 minute read)](https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.david-smith.org%2Fblog%2F2023%2F06%2F12%2Fnew-post%2F%3Futm_source=tldrnewsletter/1/01000188b45892ba-234be14f-53dd-4118-8504-8799f2c5eada-000000/AkSg_fPjw6iHjhOamlqvVCK5OhhfV2k1ykRqjgNaRAE=305)
+Apple's Vision Pro justifies its expensive price tag by delivering an incredible user experience. Apps for the device will likely go the same way as apps for iOS, meaning there will probably be a rush to the bottom with pricing and then a general user expectation that software should be free. While there might not be the same gold rush for apps on visionOS compared to on iOS, there are still many reasons for developers to be excited about the platform. |
+[Killing Community (4 minute read)](https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.marginalia.nu%2Flog%2F82_killing_community%2F%3Futm_source=tldrnewsletter/1/01000188b45892ba-234be14f-53dd-4118-8504-8799f2c5eada-000000/nXqrQxcaqyKlRhtI0THhkc581X5lRn0HLIegqussPrw=305)
+Online communities help people find a sense of belonging where they might struggle to do so in real life. When a community grows too fast, a stranger-culture emerges where people are more guarded. The sense of belonging to the community is eroded, and people feel more anonymous. Social media sites that are run like startups have to hit growth targets to impress investors. This unsustainable growth destroys communities and lowers the quality of interactions for users. |
+[Audiocraft (GitHub Repo)](https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fgithub.com%2Ffacebookresearch%2Faudiocraft%3Futm_source=tldrnewsletter/1/01000188b45892ba-234be14f-53dd-4118-8504-8799f2c5eada-000000/GInheTc1oWACY6x29s_MLVsEESASt-a7hu7EqP49sI8=305)
+Audiocraft is a library for audio processing and generation with deep learning powered by MusicGen, a state-of-the-art controllable text-to-music model. |
+[TLDR Talent](https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fdanni763618.typeform.com%2Fto%2FrSL4lOH3/2/01000188b45892ba-234be14f-53dd-4118-8504-8799f2c5eada-000000/1bjvLPz8QVIPxNsTKdRyRjMLR7VAh6eflFb6AWDqzGU=305) is our exclusive community where we help world-class tech talent and get intros to companies of their choice, along with a number of exciting startups and tech companies curated by TLDR.
+We give you full control of the process, you can specify if you’re actively searching or passively interested only if something amazing comes along. Set your preferred compensation, seniority/title/role, specific companies (or types of companies) you’d like to work for and more. [Click here to apply](https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fdanni763618.typeform.com%2Fto%2FrSL4lOH3/3/01000188b45892ba-234be14f-53dd-4118-8504-8799f2c5eada-000000/bIdcBx2FbRXUfgRtUV56bBaYSnJKPrjii_DksIllKhs=305).
+|
+If your company is interested in reaching an audience of tech executives, decision-makers and engineers, you may want to [advertise with us](https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fshare.hsforms.com%2F1OxvmrkcFS4qsxKpNXCi76wee466%3Futm_source=tldr%26utm_medium=newsletter/2/01000188b45892ba-234be14f-53dd-4118-8504-8799f2c5eada-000000/5LtBfaZU1_AOn27nWbY0jvlV3_KIGw3bCiMDjHCB_U8=305).
+If you have any comments or feedback, just respond to this email!
+Thanks for reading,
+[Dan Ni](https://tracking.tldrnewsletter.com/CL0/https:%2F%2Ftwitter.com%2Ftldrdan/1/01000188b45892ba-234be14f-53dd-4118-8504-8799f2c5eada-000000/bX8GYgR3l4Bw6Gnhrqx39_KZkb1W8AvP-_R7I3fMMiY=305) and [Stephen Flanders](https://tracking.tldrnewsletter.com/CL0/https:%2F%2Ftwitter.com%2FSteveFlanders22/1/01000188b45892ba-234be14f-53dd-4118-8504-8799f2c5eada-000000/uX5ROSEv_jMOv89eahzUK-V5NT6hU1BS-c_jJpROqDU=305)
+|
+|
+|
+|

@@ -1,0 +1,30 @@
+---
+subject: "Change is inevitable"
+from: "The Ken <info@the-ken.com>"
+to: ""
+date: 2022-05-08 03:32:13
+labels: ["CATEGORY_PERSONAL", "INBOX", "The Ken", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_8244464457792971031", "UNREAD"]
+---
+Good Morning Ishan,
+Change is a curious thing.
+It is not an option but a constant. It takes place during conversations. In the pauses between thoughts. Like the spinning of the earth, it's happening as we speak, but it's so all-encompassing that it is largely imperceptible.
+The inevitability of change, though, does not make it any easier.
+Change is rarely without pain. It is about rewiring and resetting. Junking what you're comfortable with and embracing a reality that is still just developing requires a cocktail of steadfast resolve and a dollop of faith.
+Change does not differentiate between person or business, either. Resist, and be swallowed whole; adapt, and be rewarded. And, as with everything, a third option for those that recognise it—surrender, and go with the flow. Making the right choice when faced with change can often be the difference between success and failure. This was a common theme across our stories this week.
+For instance, Seema and Pratap [covered](https://the-ken.com/story/with-jios-winds-in-its-sails-hfcl-charts-course-for-telecom-2-0/?utm_source=recap&utm_medium=email&utm_campaign=recap_newsletter) how HFCL wants to move beyond the optical fibre manufacturer role it has played for decades. Instead, it wants to also be a systems integrator and telecom gear supplier as India lurches forward toward the next generation of mobile networks. In doing so, it hopes to shed the baggage of its past.
+Seetharaman and Shuti [focussed](https://the-ken.com/story/nasdaq-listed-renew-energys-search-to-feed-the-stock-market-beast/?utm_source=recap&utm_medium=email&utm_campaign=recap_newsletter) on another listed company that has embraced change—ReNew Energy. Since it listed last year, the solar and wind power producer has announced new ventures in battery storage and hydrogen. It also exited the rooftop solar business. All this, it insists, is part of its desire to be a diversified clean energy company focussed on high returns. Investors, though, haven't quite bought into the change.
+We also got a glimpse into e-commerce giant Bukalapak, which became the first Indonesian tech unicorn to go public when—like ReNew—it listed in August last year. Bukalapak's transition from a growth-hungry, VC-funded private company to a listed entity looking to chart a path to profitability, however, has been anything but easy. With its stock price falling, the company reallocated a third of its IPO funds for new investments—money that was supposed to be working capital for its core business and existing subsidiaries. Nadine [analyses](https://the-ken.com/story/bukalapaks-paper-profits-save-the-day-but-not-the-future/?utm_source=recap&utm_medium=email&utm_campaign=recap_newsletter) what this means for Bukalapak's future.
+We also had a piece on how Indian edtech behemoth Byju's is not immune to the ravages of change. Shortly after its US$300 million acquisition of WhiteHat Jr. in 2020, Byju's tacked a mathematics division onto the coding-for-kids brand. Just a year on, however, Olina [writes](https://the-ken.com/story/byjus-whitehat-jr-math-isnt-adding-up/?utm_source=recap&utm_medium=email&utm_campaign=recap_newsletter) that Byju's is considering putting the division out of its misery or swallowing it whole. This, even as Byju's sharpens its knives to take a stab at foreign markets.
+Of course, we also have a plethora of newsletters to help you stay abreast of the latest developments from across the business and tech ecosystem. You can check them out [here](https://the-ken.com/newsletters/).
+That's all from me. I hope you had a wonderful weekend, and I can't wait for you to see what we have in store for you next week.
+Cheers,
+Ranjan Crasta
+[ranjan@the-ken.com](mailto:ranjan@the-ken.com)
+|
+What you just read is the personalised daily introduction to The Ken's story. Written by a different person each day. Often insightful, sometimes witty, and very rarely boring. Someone sent this to you? [Sign up for free](https://the-ken.com/sea/?modal=register&utm_source=footer&utm_medium=email&utm_campaign=sea_morning_email). Don't like these? You can [unsubscribe](https://link.the-ken.com/asm/unsubscribe/?user_id=2349339&data=pR6Kk2TZMcRYvs3wL_97F-tgKwdnAD_DVdDiNUiibRwkiplvEnHt4dqPVb8Ig4393elE1q8xKV5PyvvEiI7bqYLd2D2P3NiWXLN2CwUdPOKC9ZmQNnSwCU56qfJ14zRZw9kA-6mGthRoXliIYRWwq-oap6O7fR7Ws11ICVP1qY2h_RQKH_TwZkEQ1dcG7bch3TmOLvzRXbopRyUNlleaJo80Dapj75CNDyYzspZst33Nj0CzWicmew4KfFvEiiQhAndVnEhanSaujTFuTNlGWy83GupeE3aX5HkyWBkhUeGOobfOboqBDM4-uppyGFPjsfkFBy3uvTw1sRqTaUIL0AfGahlr_SeHvYwhg3KrZZJO3q5mCUwD-Kqw_QJRNuM90b0fxWiQocugXC_BSbggpOTiephXo-ABVp5cPALeVBM-W2oNvaCwZ_fnOTuJAEs-tCIYJ49vHNJqkqOwK3Xilhi4HJxvTThkPkR3J-tXr4213CdbqYLzyhIQSXTLZWsBjxj626GZUa8-JRnOWtIWzWWKNqI5dTTST9C4Pz9BYuU=). Want to manage your emails? Click [here](https://link.the-ken.com/asm/?user_id=2349339&data=ZRnsjJC9JkKwDEetC10oHUFRZbzMOGJGwVcUdplWORqNqEiE6ZfkwFYs3OTCnof-WLiGCeb1xEbIE61PggABlR-P0JecMFhaDshh3s0YHUYvNivZMhHXepczwE25SiSbJJbUjIQUYKztd9dlihbVAg7k69bZpnA2to8Um5jaKD3OCFG0cbNc6_JJ7-UsnudwIBcUR9hm1RbmRkqDXUMbUpdasZ9ku6LOTmFFRZKQrYcim3QZWcD3qLBd5WGK7qCK10eToNd1yC5qDbAL2SkknZNCSP-oeRlszKafJMfdkWhx_Qas-blwi9bsi7q8jt48mPJBVoUXwUL23J8Vdgyg-DvZxunDgrAb1dCjilMC2zRzTANrCJ77HeucMh2qwdUL8c2Ks_HnaDOQeZdRgNWrd5Hox9LoD1UsCXPce1p8Np-IGRSw0huWaYAVB95vlbD_BusVEPRr7aI01yilGF3ab_MJ_445IkKC17l17mba5NFgk18G5CAAzwdq5wwBC31fm6AcvkbLog1EYNutXOuLwA==). Something wrong? Tell us at support@the-ken.com
+|
+|
+|
+|
+|

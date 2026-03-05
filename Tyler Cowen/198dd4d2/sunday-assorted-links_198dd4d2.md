@@ -1,0 +1,12 @@
+---
+subject: "Sunday assorted links"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2025-08-24 18:17:57
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+1. [A defense of prediction markets](http://marginalrevolution.com?action=user_content_redirect&uuid=9c7bd2ed66bc6955aad53a99b7b24500e5b68e7934b7ef619b1972d82b9b338c&blog_id=42693868&post_id=91356&user_id=262258391&subs_id=225460721&signature=5030aa1f79c83937fd222cdc88a5a34d&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly9kb2NzLmdvb2dsZS5jb20vZG9jdW1lbnQvZC8xamNfNDZqazZVRWREWTdEYzNob1gwZ2tUQXlYQUUwN3NqVjkzalBiclU0MC9lZGl0P3RhYj10LjA&email_id=0f3a44dc330147d6b1c7c564f78684ea).
+2. [Ezra on GPT-5](http://marginalrevolution.com?action=user_content_redirect&uuid=6ba7bc174001c22c33c0aa828ef3ff94f6f1a2b3d37cb7b8fdef14c78034e79b&blog_id=42693868&post_id=91356&user_id=262258391&subs_id=225460721&signature=0b31ff6c036735b8e17bce3219dedc3d&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly93d3cubnl0aW1lcy5jb20vMjAyNS8wOC8yNC9vcGluaW9uL2NoYXQtZ3B0NS1vcGVuLWFpLWZ1dHVyZS5odG1sP3NtaWQ9bnl0Y29yZS1pb3Mtc2hhcmUmcmVmZXJyaW5nU291cmNlPWFydGljbGVTaGFyZQ=&email_id=0f3a44dc330147d6b1c7c564f78684ea) (NYT).
+3. [Is complex animal life much older than we had thought?](http://marginalrevolution.com?action=user_content_redirect&uuid=0b42cfffa208d28b2427a46d25af9050f780233b70d0be2a466da39473228ca3&blog_id=42693868&post_id=91356&user_id=262258391&subs_id=225460721&signature=5feca712c316a88c97270efc8e45446d&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly9zY2l0ZWNoZGFpbHkuY29tLzU0NS1taWxsaW9uLXllYXItb2xkLWZvb3RwcmludHMtcmV3cml0ZS10aGUtb3JpZ2luLXN0b3J5LW9mLWNvbXBsZXgtbGlmZS8&email_id=0f3a44dc330147d6b1c7c564f78684ea)
+4. "How much have murder rates increased since 2000 in the four European countries that get the most attention for their immigrant crime — Sweden, France, Germany and UK? Answer: They haven't increased. Murder rates have declined since 2000 in all four countries." Link [here](http://marginalrevolution.com?action=user_content_redirect&uuid=b175dd4f504b4ebb9d2cbd1619261f37988c2eb82aa65c1d110fc0855710c123&blog_id=42693868&post_id=91356&user_id=262258391&subs_id=225460721&signature=03a1596ad5a864bc47062afc15e7022b&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly94LmNvbS9hdmlkc2VyaWVzL3N0YXR1cy8xOTU5MzkyMTM5OTIzNjMyMjU4&email_id=0f3a44dc330147d6b1c7c564f78684ea).

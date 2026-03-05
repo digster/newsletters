@@ -1,0 +1,33 @@
+---
+subject: "Learn to code an entire city of self-driving cars [Free 6-hour JavaScript AI course]"
+from: "Quincy Larson <quincy@freecodecamp.org>"
+to: ""
+date: 2023-12-15 05:57:19
+labels: ["CATEGORY_PERSONAL", "IMPORTANT", "INBOX", "Quincy"]
+label_ids: ["CATEGORY_PERSONAL", "IMPORTANT", "INBOX", "Label_7697778124671848699"]
+---
+Here are this week's five freeCodeCamp resources that are worth your time:
+
+1. Learn to code your own mini Grand Theft Auto game with self-driving cars. Dr. Radu Mariescu-Istodor teaches this intermediate JavaScript course. He's already taught several freeCodeCamp courses on No Black Box AI development and self-driving cars. And now he'll teach you how to build an entire virtual world and populate it with those cars. You'll learn about spatial graphs, 3D geometry, road marking recognition, and how to incorporate real-world road data from OpenStreetMap. (6 hour YouTube course): https://www.freecodecamp.org/news/create-a-virtual-world-with-javascript/
+
+2. And if you want to learn even more hardcore AI skills, freeCodeCamp teacher Beau Carnes just published an in-depth course on Vector Embeddings, Vector Search, and Retrieval-Augmented Generation. You'll be able to augment off-the-shelf Large Language Models by using Semantic Similarity Search with your own in-house data. At freeCodeCamp we pride ourselves on teaching programming fundamentals. And yet we also teach emerging practices that only a few thousand people on earth know how to leverage. We'll help you become one of those people. (1 hour YouTube course): https://www.freecodecamp.org/news/vector-search-and-rag-tutorial-using-llms-with-your-data/
+
+3. If you're just starting your coding journey, don't let all these advanced topics intimidate you. freeCodeCamp just published a book that should be right up your alley. My friend Fatos authored “How to Start Learning to Code – a Handbook for Beginners.” It will teach you about developer careers and how you can join the ranks of more than 30 million professional developers on Earth. Learning to code is a marathon – not a sprint. And Fatos will give you lots of practical tips to help you power through the checkpoints. (full-length handbook): https://www.freecodecamp.org/news/learn-coding-for-everyone-handbook/
+
+4. And another friend, Andrew Brown, just published a complete refresh of his Microsoft Azure Fundamentals certification course. It will help you learn cloud engineering fundamentals and prepare for Microsoft's AZ-900 exam. Andrew is a former CTO who has passed every cloud certification under the sun. He is the most qualified person imaginable to help you earn these résumé-reinforcing cloud certs. (8 hour YouTube course): https://www.freecodecamp.org/news/azure-fundamentals-certification-az-900-exam-course/
+
+5. Finally, I had the privilege of touring the Computer History Museum in Mountain View, California. And while I was there I interviewed my long-time friend and fellow founder Dhawal Shah. He has run the popular Class Central website for more than a decade, and is a historian of Massive Open Online Courses. We talk about his childhood in India, how he won his first computer from a Cartoon Network sweepstakes, and how he moved to the US as an engineer and ultimately became a US citizen. (2 hour listen in your browser or favorite podcast app): https://www.freecodecamp.org/news/podcast-history-of-online-courses-dhawal-shah/
+
+Did you know freeCodeCamp is a tax-exempt charity? We have no stock, no investors, and nobody to answer to but the public. You technically own the same amount of freeCodeCamp that I do. So take ownership of this community and start supporting our mission. Join the 8,017 kind folks who already donate each month. It will help us continue to create these amazing open learning resources: https://www.freecodecamp.org/donate
+
+Quote of the Week: “Open world games are fun not because NPCs (non-player characters) have their own stories, but because the player can affect those stories in significant ways.” — Tony Li, Unity forum user back in 2015
+
+Until next week, happy coding.
+
+-- Quincy Larson
+
+Teacher and founder of freeCodeCamp.org
+
+
+
+If these aren't worth your time, you can turn them off: https://www.freecodecamp.org/ue/eZV2T3gHC7IGcwcpYPG64

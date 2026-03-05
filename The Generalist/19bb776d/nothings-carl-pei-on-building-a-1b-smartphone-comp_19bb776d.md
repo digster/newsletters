@@ -1,0 +1,86 @@
+---
+subject: "Nothing’s Carl Pei on Building a $1B Smartphone Company, Why He Left OnePlus After 10 Days of Retirement, and Why …"
+from: "The Generalist <thegeneralist@substack.com>"
+to: ""
+date: 2026-01-13 13:03:26
+labels: ["CATEGORY_PERSONAL", "INBOX", "The Generalist", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_8815311452832858585", "UNREAD"]
+---
+|
+“As humans, one of our superpowers is creativity. Both on an individual level, but also on a species level. And by creativity, I mean the ability to solve problems.”
+— Carl Pei
+Listen or watch now on[YouTube](https://substack.com/redirect/b19882fb-a2f1-41ac-a779-c8899c1145cd?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o), [Spotify](https://substack.com/redirect/f9deed0c-4002-4fbf-a70d-217e36234c2d?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o), or [Apple Podcasts](https://substack.com/redirect/b2706dd5-afbd-47b0-9e01-3ea41d1d2cc3?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+Carl Pei is the founder of Nothing, the consumer electronics company known for its distinctive transparent design language across smartphones and audio products. Before launching Nothing in 2020, Carl co-founded OnePlus, where he spent seven years helping build it into a major smartphone brand. But Carl’s instincts as a builder showed up much earlier. As a teenager, he taught himself to code by building Pokémon fan sites, all while moving between China, the U.S., and Sweden. That combination of early creation and constant change shaped a founder comfortable with uncertainty—and deeply motivated by questions bigger than products. Carl thinks often about time and mortality, is skeptical of early retirement, and believes creativity is humanity’s real advantage. In an industry obsessed with optimization, he’s focused on making technology feel meaningful again.
+In our conversation, we explore:
+The origins of Nothing’s transparent design language and how it helps differentiate the brand in a mature, competitive market
+Carl’s childhood fascination with mortality and how it continues to drive his ambition today
+Nothing’s multiple near-death experiences, from 80% defect rates on first products to fundraising struggles
+Why India has become a crucial market for Nothing’s smartphone business
+How Nothing approaches community involvement, including letting users invest alongside VCs
+The company’s approach to integrating AI features without overhyping the technology
+Carl’s admiration for Genghis Khan’s management style and talent acquisition approach
+The future of consumer electronics beyond smartphones
+([00:00](https://substack.com/redirect/f407a69d-9a2f-4b24-bd33-31751928b60d?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) Introduction to Carl Pei and Nothing
+([02:44](https://substack.com/redirect/4539fd89-f92d-4b52-b01e-941db12295c1?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) Nothing’s long-term vision
+([06:33](https://substack.com/redirect/12bf0196-7bbe-487e-a2b3-2fe5527c323b?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) How existential thinking shapes Carl’s motivation
+([10:12](https://substack.com/redirect/0987508c-8a9a-44b7-b111-e3c6d134ee74?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) Why Carl’s planned sabbatical ended after ten days
+([12:35](https://substack.com/redirect/207eedd7-4e11-4e53-9f13-b1c1dd2fccbf?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) Carl’s international upbringing
+([16:02](https://substack.com/redirect/78f9b4f6-14da-4adc-823a-4f248f594083?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) Entrepreneurial experiments in China
+([19:10](https://substack.com/redirect/e313b6db-86bf-4824-9936-d0298773564d?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) Carl’s competitive nature and attitude toward school
+([25:30](https://substack.com/redirect/b0b7b9c8-d735-4a60-a91e-d857cabf607c?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) Lessons from seven years at OnePlus
+([28:07](https://substack.com/redirect/6f054249-2d93-4d87-81b0-4b935509496e?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) Taking a break at age 31
+([30:50](https://substack.com/redirect/c7a02ace-6bcc-4822-a449-d35ea389ee96?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) Carl’s fundraising strategy
+([33:26](https://substack.com/redirect/395a77b7-1e63-45e1-95f7-22e254c86407?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) Why Carl chose London for Nothing’s HQ
+([35:12](https://substack.com/redirect/9e95a050-6239-455a-b581-10d6f19d20d9?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) Lessons from Genghis Khan
+([38:38](https://substack.com/redirect/acc636e8-40c9-40bf-a851-013dea90fd7a?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) Nothing’s first near-death moment
+([42:56](https://substack.com/redirect/3f1578dc-f680-49d1-a14c-bef58264fcaa?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) Nothing’s product evolution and breakout hits
+([45:24](https://substack.com/redirect/06a82188-7bf2-4c3a-b2a2-a147066c7762?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) Partnering with Teenage Engineering
+([49:28](https://substack.com/redirect/898c393f-305c-4f35-b9ab-b3e598570f8c?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) Design inspirations
+([51:36](https://substack.com/redirect/bed9f9ec-cd9c-4280-80f2-8f344e4d10ef?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) How Nothing recruits talent
+([53:42](https://substack.com/redirect/ff2f4729-0880-4622-a715-f68f5048ea4d?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) Nothing’s approach to marketing
+([56:51](https://substack.com/redirect/f28dd3d6-5a68-4b81-bd99-9352ea8e32a1?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) How India became a key market
+([59:48](https://substack.com/redirect/88aeeb4c-dd67-4ddb-953d-d532077c80cf?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) Why Nothing created CMF
+([1:02:12](https://substack.com/redirect/f016fe3f-efe5-4c1f-8e8d-74618094965f?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) Why Carl is bullish on India
+([1:03:32](https://substack.com/redirect/c9237262-d15e-46ff-9d39-4377135482ea?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) How Carl thinks about AI
+([1:07:05](https://substack.com/redirect/d515cb9f-87ad-4528-b545-6bf17d3f7221?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) Rethinking ads based on community feedback
+([1:09:05](https://substack.com/redirect/d2586552-b92a-4e65-9e6e-b4f89904194e?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) How Nothing leverages community
+([1:11:23](https://substack.com/redirect/1972e675-fc3c-47b0-819a-a9e425ebde96?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) Why AI hardware is struggling
+([1:13:37](https://substack.com/redirect/5766c449-b8fb-4459-8ba4-75b8e9899667?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) Carl’s thoughts on the future of consumer electronics
+([1:15:10](https://substack.com/redirect/2ada6b90-d2dc-4274-b335-9b887db775dc?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) Philosophies that shape Carl’s worldview
+([1:16:45](https://substack.com/redirect/08405c6b-c171-4b3a-9b8a-bff6fadcd481?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) Final meditations
+LinkedIn: [https://www.linkedin.com/in/getpeid](https://substack.com/redirect/0cc7ae7e-f1cb-42bd-9eee-5a53fda9c57e?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+Apple in China: The Capture of the World’s Greatest Company:
+[https://www.amazon.com/Apple-China-Capture-Greatest-Company/dp/1668053373](https://substack.com/redirect/c6fb4176-50e3-4f52-9c71-a2c7c67e2cec?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)Conqueror (5 book series):
+[https://www.amazon.com/dp/B074C4LS8D](https://substack.com/redirect/47372814-8a08-4b97-9570-685fbbe9364a?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)Zen Mind, Beginner’s Mind: Informal Talks on Zen Meditation and Practice:
+[https://www.amazon.com/Zen-Mind-Beginners-Informal-Meditation/dp/1590308492](https://substack.com/redirect/441a4d01-a996-43b7-96c9-dadaa1891118?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+Genghis Khan:
+[https://en.wikipedia.org/wiki/Genghis_Khan](https://substack.com/redirect/ff153263-ef46-4e0c-95f8-2bb89e4969c9?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)Elon Musk on X:
+[https://x.com/elonmusk](https://substack.com/redirect/6c96fd0e-31f0-456b-90f9-9cab29f26cef?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)Jesper Kouthoofd on LinkedIn:
+[https://www.linkedin.com/in/jesperkouthoofd](https://substack.com/redirect/45bd4e84-da37-44b3-9340-ae4322758e54?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)Charlie Smith on LinkedIn:
+[https://www.linkedin.com/in/charliejamessmith](https://substack.com/redirect/310d960d-5eea-4ff4-a6dd-42f4ca4b83ab?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+Nothing:
+[https://us.nothing.tech](https://substack.com/redirect/381c07f4-bf99-422c-bb2a-a5160ac6d4e0?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)Carl’s AMA thread on X:
+[https://x.com/getpeid/status/1796233634376216610](https://substack.com/redirect/3c3e19e7-5366-47af-a539-8565368db360?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)Steve Jobs’ 2005 Stanford Commencement Address:
+[https://www.youtube.com/watch?v=UF8uR6Z6KLc](https://substack.com/redirect/bb931f9d-d6ae-4ecb-80fc-090c71701636?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+League of Legends:
+[https://www.leagueoflegends.com](https://substack.com/redirect/88f5cfa8-bf24-46b4-8de5-77ca5be5b22a?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)OnePlus:
+[https://www.oneplus.com](https://substack.com/redirect/a127e1bb-aba0-48ee-bd5a-4452886eae27?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)King:
+[https://www.king.com](https://substack.com/redirect/fc0364ef-f054-42d4-8de9-a1edcc3c3216?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)Klarna:
+[https://www.klarna.com](https://substack.com/redirect/06ebcfb4-6763-4fb6-b8ee-0eead38e7878?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)Teenage Engineering:
+[https://teenage.engineering](https://substack.com/redirect/773fef77-ba67-4aab-8a9c-40a2843b87ba?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)Dior:
+[https://www.dior.com](https://substack.com/redirect/771e9782-666d-455b-b6b6-525a6f93c949?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)Gucci:
+[https://www.gucci.com](https://substack.com/redirect/d3509351-17df-4e30-a658-61e3cdd3408b?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)Ipren the Intelligent Painkiller:
+[https://adsspot.me/media/tv-commercials/ipren-the-intelligent-painkiller-7295f9e7a6fc](https://substack.com/redirect/940e366d-d8eb-4aaf-952a-cb3d2991fa32?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)Get to Know Creative Museum Tokyo ‐ Experience the Creativity of Diverse Works and Creators in an Expansive Space Presented by Sony:
+[https://www.sony.com/en/SonyInfo/blog/2025/02/19](https://substack.com/redirect/7405db8a-5263-4eca-9d62-88d11d5a7b3c?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)2001: A Space Odyssey:
+[https://en.wikipedia.org/wiki/2001:_A_Space_Odyssey](https://substack.com/redirect/a55f1058-39a0-4041-97f7-afd0f994c203?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)HAL 9000:
+[https://en.wikipedia.org/wiki/HAL_9000](https://substack.com/redirect/a86e8d10-4b1c-4444-a124-754441ab4fe2?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)Loewe:
+[https://www.loewe.com](https://substack.com/redirect/18423d49-3cb2-44dc-9e83-2b6f713c4cbf?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)4K Restoration: 1984 Super Bowl APPLE MACINTOSH Ad by Ridley Scott:
+[https://www.youtube.com/watch?v=ErwS24cBZPc](https://substack.com/redirect/8ed13e09-70dd-4084-8f04-f928bb9d09cd?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+Essential apps:
+[https://playground.nothing.tech/apps](https://substack.com/redirect/13c8197b-e2f5-4288-b3ff-a8deeab39fa7?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)Porsche:
+[https://www.porsche.com/](https://substack.com/redirect/28b1d737-e680-4d01-bf36-2a40c588debe?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)Limitless:
+[https://www.limitless.ai](https://substack.com/redirect/b3003777-c1c0-41cc-a071-9267a85c741c?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)Friend:
+[https://friend.com](https://substack.com/redirect/b3989a03-99fc-425f-99a3-a456570174e6?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+I’d love it if you’d subscribe and share the show. Your support makes all the difference as we try to bring more curious minds into the conversation.
+Production and marketing by [penname.co](https://substack.com/redirect/cd31e7d3-764c-4687-91c1-de2ab4a62f64?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o). For inquiries about sponsoring the podcast, email jordan@penname.co.
+You're currently a free subscriber to [The Generalist](https://substack.com/redirect/6822afee-7ed7-40d7-8a87-216a7f0a745c?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o). For the full experience, [upgrade your subscription.](https://substack.com/redirect/2/eyJlIjoiaHR0cHM6Ly93d3cuZ2VuZXJhbGlzdC5jb20vc3Vic2NyaWJlP3V0bV9zb3VyY2U9cG9zdCZ1dG1fY2FtcGFpZ249ZW1haWwtY2hlY2tvdXQmbmV4dD1odHRwcyUzQSUyRiUyRnd3dy5nZW5lcmFsaXN0LmNvbSUyRnAlMkZub3RoaW5ncy1jYXJsLXBlaS1vbi1idWlsZGluZy1hLTFiLXNtYXJ0cGhvbmUtY29tcGFueSZyPThvNTRuJnRva2VuPWV5SjFjMlZ5WDJsa0lqb3hORFUyTXpNeE9Td2lhV0YwSWpveE56WTRNekE1TlRjMUxDSmxlSEFpT2pFM056QTVNREUxTnpVc0ltbHpjeUk2SW5CMVlpMHhOVGMyTkNJc0luTjFZaUk2SW1Ob1pXTnJiM1YwSW4wLm1DT2RZWnlqamtZdkYtalNHSmFYcDVYYjB3cDllM2drdVBmQlU3aW1KWUkiLCJwIjoxODM4NDk2NjAsInMiOjE1NzY0LCJmIjp0cnVlLCJ1IjoxNDU2MzMxOSwiaWF0IjoxNzY4MzA5NTc1LCJleHAiOjIwODM4ODU1NzUsImlzcyI6InB1Yi0wIiwic3ViIjoibGluay1yZWRpcmVjdCJ9.Noljsdw90YFRuiOyq0RGxT8YjuNwZY6Tcyg_mIvneJQ?&utm_source=substack&utm_medium=email&utm_content=postcta)

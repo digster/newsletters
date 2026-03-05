@@ -1,0 +1,42 @@
+---
+subject: "The Monday Media Diet with Tom Morton"
+from: "\"Why is this interesting?\" <whyisthisinteresting@substack.com>"
+to: ""
+date: 2024-05-13 12:17:21
+labels: ["CATEGORY_PERSONAL", "INBOX", "UNREAD", "WITI"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "UNREAD", "Label_5752899537867939131"]
+---
+|
+Tom Morton (TM) is a longtime friend of WITI and smart strategist. He also reads interesting things, and we are happy to have him with us today. -Colin (CJN)
+Tell us about yourself.
+I’m the founder of Narratory Capital, a brand strategy consultancy that helps brand owners and creative companies to build a bigger future. I work with company leaders and founders to figure out their positioning and their story when they’re beginning a next chapter, and help them create their IP so they can turn their beliefs into working practices. We’re seeing a Cambrian Explosion of new strategy businesses in the US and Europe, and I’m excited to be part of it.
+Before that I was the global chief strategy officer at R/GA, which was like the Bell Labs for future-facing ways to build businesses and brands.
+I grew up in Britain and have lived in New York for the past 13 years. Long enough to say BA-sil and DEE-fense, and raise two American daughters.
+Describe your media diet.
+Buying more books than I read, and the catalog from every art exhibition I go to. We have 141 feet of bookshelves in our tiny apartment, and they’re starting to claim the other surfaces.
+Newsletters for work. The Sociology of Business, The Ruffian, Noahpinion, Bloomberg, Contagious.
+Kara Swisher and The Rest Is History for podcasts. Instagram for aesthetic rabbit holes.
+Print for weekend brain food. The Weekend FT, The World of Interiors, The London Review of Books, Lapham’s Quarterly.
+A lot less Twitter and a lot more LinkedIn, especially since I struck out on my own. Once you screen out the auto-generated filler posts and the startup bro tone poems, there’s a real community of experts and supporters out there.
+What’s the last great book you read?
+Bloodlands by Timothy Snyder. He makes a convincing argument that the epicenter of World War 2 is the battle of conquest and destruction fought between Nazi Germany and Soviet Russia over Ukraine and Poland. It’s a hard read, but it recenters your view of the world. I felt the same about Peter Frankopan’s The Silk Roads, which tells the history of the world through the flow of people, ideas and trade between eastern Europe and central Asia.
+What are you reading now?
+Can’t Slow Down by Michaelangelo Matos. It’s the story of pop music’s peak year in 1984, which also makes it a primer for the We Are The World documentary, The Greatest Night In Pop. Good music writing is a revelation. It captures how creative acts come to life, and turns feelings into words. And good music writing from other eras is like the magic key of history - it unlocks what people cared about and how people thought at the time.
+What’s your reading strategy when you pick up a print copy of your favorite publication?
+I’m linear. A print copy isn’t a collection of content, it’s a format. My uncontrollable tic of a reading strategy for FT Weekend and The World of Interiors is to scan the articles for the clues of inherited wealth. An aesthetic hits differently when someone creates an extraordinary life, and when someone just hangs new curtains in the castle that belonged to their grandfather, the eleventh duke.
+Who should everyone be reading that they’re not?
+Honestly? More opinion polls and graphs. Hot take media is a substitute for understanding how people are really thinking and behaving. Our opinions are usually one curve behind the trend line.
+What is the best non-famous app you love on your phone?
+Rev for recording interviews. It’s like Santa’s elves have typed your notes and prepared a summary. I had a fling with Otter, but the AI transcripts were glitchy. It identified the word “Irish” as “Garbage”, and that really doesn’t fly when you’re working on a project in Ireland.
+Plane or train?
+Plane. It’s a low-key miracle that you can be in a different climate in three hours or a different culture in six. I’m an optimist about travel. The new LaGuardia airport terminals (and Penn Station for the train stans) show that better is possible.
+What is one place everyone should visit?
+Ibiza. An entire island given to music and dancing. Forget the EDM superclubs that feel and sound like a Formula 1 paddock. The island is built on the bedrock of the hippy trail, gay folks and artists fleeing Franco and the Argentinian junta, and Europeans escaping to kick back and dance outside. The Baleric spirit is real. You’ll be in a taxi or a supermarket and they’re playing Toto or Grace Jones. Last time I was there, I drank a pina colada at the poolside where Wham filmed the video for Club Tropicana.
+Tell us the story of a rabbit hole you fell deep into.
+Earlier today I went down an absolute Rabbit Hole about The Long Good Friday. It came out in 1981, when the drab postwar era is giving way to an entrepreneurial, aggressively modernizing age, and Bob Hoskins is the gangland boss trying to strike a deal with New York mafiosi to redevelop London’s docklands, while the IRA is dismantling his organization. Guy Ritchie has since turned London gangland films into a pastiche, but The Long Good Friday feels fresh. An old world is giving way to the new, and American and Irish and upper class change the grammar of the British gangster movie. I wondered if viewers felt the significance of the movie at the time, and it turns out that Roger Ebert got it and loved it. Barrie Keefe, who wrote the screenplay, had been a journalist in the east end of London, and he once went to interview an unfortunate villain who had been nailed to the floor by gangsters. That makes it into the script. (TM)
+—
+Thanks for reading,
+Noah (NRB) & Colin (CJN) & Tom (TM)
+—
+[Why is this interesting?](https://substack.com/redirect/6a804911-1977-4c49-acba-b73a20967529?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) is a daily email from[ Noah Brier](https://substack.com/redirect/c1fce51c-47ab-4284-8ead-7c04a98004db?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) &[ Colin Nagy](https://substack.com/redirect/db1d0ea7-1b50-4d0b-a046-36e5cd018abb?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) (and friends!) with editing from [Louis Cheslaw](https://substack.com/redirect/56461603-ae35-4e7b-9272-8a1a606b1d25?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) about interesting things. If you’ve enjoyed this edition, please consider forwarding it to a friend. If you’re reading it for the first time, consider[ subscribing](https://substack.com/redirect/6ccb05e2-c966-424d-81cc-3b92897a1132?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o).
+You're currently a free subscriber to [Why is this interesting?](https://substack.com/redirect/f087233a-7f00-4d5b-a793-39eb59ffda05?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o). For the full experience, [upgrade your subscription.](https://substack.com/redirect/2/eyJlIjoiaHR0cHM6Ly93aHlpc3RoaXNpbnRlcmVzdGluZy5zdWJzdGFjay5jb20vc3Vic2NyaWJlP3V0bV9zb3VyY2U9cG9zdCZ1dG1fY2FtcGFpZ249ZW1haWwtY2hlY2tvdXQmbmV4dD1odHRwcyUzQSUyRiUyRndoeWlzdGhpc2ludGVyZXN0aW5nLnN1YnN0YWNrLmNvbSUyRnAlMkZ0aGUtbW9uZGF5LW1lZGlhLWRpZXQtd2l0aC10b20tbW9ydG9uJnI9OG81NG4mdG9rZW49ZXlKMWMyVnlYMmxrSWpveE5EVTJNek14T1N3aWFXRjBJam94TnpFMU5qQXlOall5TENKbGVIQWlPakUzTVRneE9UUTJOaklzSW1semN5STZJbkIxWWkwM01EQXdJaXdpYzNWaUlqb2lZMmhsWTJ0dmRYUWlmUS5fMERqcmIzZTZfNWZLNVNLYjZnZVpWU3ZhQkxvakhxQklaLVVia19zNENvIiwicCI6MTQ0NTgxMTU0LCJzIjo3MDAwLCJmIjp0cnVlLCJ1IjoxNDU2MzMxOSwiaWF0IjoxNzE1NjAyNjYyLCJleHAiOjE3MTgxOTQ2NjIsImlzcyI6InB1Yi0wIiwic3ViIjoibGluay1yZWRpcmVjdCJ9.qYXx8956bi0sYP3i--8HUfR4l4eizag2x2UKSYbyheo?&utm_source=substack&utm_medium=email&utm_content=postcta)

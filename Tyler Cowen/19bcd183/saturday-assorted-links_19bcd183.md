@@ -1,0 +1,12 @@
+---
+subject: "Saturday assorted links"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2026-01-17 17:54:32
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+1. [Another AI-generated hit song](http://marginalrevolution.com?action=user_content_redirect&uuid=712049ff633c3e0c58aa52f1c62c72d91096727bd87d6bec634f6642878f47c9&blog_id=42693868&post_id=92254&user_id=262258391&subs_id=225460721&signature=5b6e6e54c5003b8e48199b0546f3b7a0&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly94LmNvbS9hbmRyZXdjdXJyYW5fL3N0YXR1cy8yMDEyMjIwMTM4NDczMzA0MzQ3P3M9NDY&email_id=ad0fc807896b00999f22bc05da6864ec).
+4. [Egg prices fell about twenty percent this year, GPT will tell you that supply is elastic](http://marginalrevolution.com?action=user_content_redirect&uuid=e1d6d70c3bfbfbfaddbe7a6b00021991e341862f71e9e9d11871d4a4e2d197b8&blog_id=42693868&post_id=92254&user_id=262258391&subs_id=225460721&signature=4cfd9dfa8e2e15bfd737a037c207b898&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly9jaGF0Z3B0LmNvbS9zaGFyZS82OTZiYWY0MC1jN2E4LTgwMTAtYjAxOC00MTEwMjQ2MGRiZTk&email_id=ad0fc807896b00999f22bc05da6864ec).
+5. [How difficult is Spanish to understand in various countries?](http://marginalrevolution.com?action=user_content_redirect&uuid=a675aa9175f5c9ba19ab517df0a4dadfcc15eaf8599e48e07086d61ba62fd132&blog_id=42693868&post_id=92254&user_id=262258391&subs_id=225460721&signature=8b8f851ad2f842ebbb71ab1907df7012&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly94LmNvbS9oaXNwYW5pY25vbWFkL3N0YXR1cy8yMDEyNDk1NzUzMTIyMzYxNjk3&email_id=ad0fc807896b00999f22bc05da6864ec) (I think Chilean Spanish is not as tough as suggested here.)
+7. [The premium that USG was paying on ten-year Treasuries is mostly gone](http://marginalrevolution.com?action=user_content_redirect&uuid=608235c210ebe1867d82b625a79efe2e917a5350b4b1b8d89d5880c30ed7de71&blog_id=42693868&post_id=92254&user_id=262258391&subs_id=225460721&signature=41f6e515f07a2c0fba731b662b6ae433&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly94LmNvbS9yb2Jpbl9qX2Jyb29rcy9zdGF0dXMvMjAxMjUyNDkwMzgwNzc0NjIzMA=&email_id=ad0fc807896b00999f22bc05da6864ec).

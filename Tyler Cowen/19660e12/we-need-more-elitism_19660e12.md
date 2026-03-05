@@ -1,0 +1,15 @@
+---
+subject: "We need more elitism"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2025-04-23 04:21:30
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+Even though the elites themselves are highly imperfect. That is the theme of [my latest FP column](http://marginalrevolution.com?action=user_content_redirect&uuid=0bdfe536b7dfb70be115f4fe22504043aa84be8aa6b66dd780a9dbc3fa577308&blog_id=42693868&post_id=90497&user_id=262258391&subs_id=225460721&signature=10d4047a4b7740545da1592117ac5615&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly93d3cudGhlZnAuY29tL3AvZWxpdGVzLWRvbnQtZGVzZXJ2ZS1oYXRyZWQ/dGFpZD02ODA2YzVmNGRhODdmNDAwMDE0MGMyNTcmdXRtX2NhbXBhaWduPXRydWVhbnRoZW0mdXRtX21lZGl1bT1zb2NpYWwmdXRtX3NvdXJjZT10d2l0dGVy&email_id=b04418278e75f0d34a57144c237ce7d7). Excerpt:
+Very often when people complain about “the elites,” they are not looking in a sufficiently elitist direction.
+A prime example: It is true during the pandemic that the CDC and other parts of the government gave us the impression that the vaccines would stop or significantly halt transmission of the coronavirus. The vaccines may have limited transmission to some partial degree by decreasing viral load, but mostly this was a misrepresentation, perhaps motivated by a desire to get everyone to take the vaccines. Yet the vaccine scientists—the real elites here—were
+[far more qualified]in their research papers and they expressed a more[agnostic opinion]. The real elites were not far from the truth.You might worry, as I do, that so many scientists in the United States have
+[affiliations with the Democratic Party]. As an independent, this does induce me to take many of their policy prescriptions with a grain of salt. They might be too influenced by NPR and The New York Times, and more likely to favor government action than more decentralized or market-based solutions. Still, that does not give me reason to dismiss their more scientific conclusions. If I am going to differ from those, I need better science on my side, and I need to be able to show it.A lot of people do not want to admit it, but when it comes to the Covid-19 pandemic the elites, by and large, actually got a lot right. Most importantly, the people who got vaccinated fared
+[much better]than the people who did not. We also got a vaccine in record time, against most expectations. Operation Warp Speed was a success. Long Covid did turn out to be a real thing. Low personal mobility levels meant that often “lockdowns” were not the real issue. Most of that economic activity was going away in any case. Most states should have ended the lockdowns sooner, but they mattered less than many critics have suggested. Furthermore, in contrast to what many were predicting, those restrictions on our liberty proved entirely temporary.
+Recommended.

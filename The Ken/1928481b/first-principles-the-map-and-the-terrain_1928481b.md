@@ -1,0 +1,66 @@
+---
+subject: "First Principles: The map and the terrain"
+from: "The Ken <info@the-ken.com>"
+to: ""
+date: 2024-10-13 06:12:25
+labels: ["CATEGORY_PERSONAL", "INBOX", "The Ken"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_8244464457792971031"]
+---
+Hello Ishan, how are you this fine Sunday morning? I hope you had a joyous Dussehra and managed to get some quality time with friends and family.
+Back in Chennai, where I grew up, Durga Puja pandals weren’t that common a thing; the celebrations down there have their own little idiosyncrasies. So my first encounter with the pandals came when I moved to Delhi in 2017 and some of my Bengali friends invited my wife and I to go visit a few of them and pay our respects.
+Until I stepped inside one, the image of the typical pandal I’d built in my head was, of necessity, crafted from second- and third-hand experiences. And so as the night grew old, and we moved from pandal to pandal, each had its own little collection of revelations to offer.
+Can you believe that until that night, I had no clue that exploring cultural and artistic themes in pandals was such a huge thing? Or how much effort and resources went into conceptualising and creating them?
+This is not to fault my wonderful friends whose accounts had informed my initial assumptions. Naturally, they’d told me what they presumed I didn’t know, and left out stuff they believed was common knowledge. The result was that the map I’d sketched out in my head gave me a pretty good idea of the general lay of the land, but there were also a bunch of holes and distortions.
+I was caught by surprise that night, albeit a very pleasant one, because I’d forgotten one of the most important things about maps.
+The map is not the terrain.
+It is a useful model. But it is an abstraction, not reality.
+And forgetting that can lead to surprise when you actually set foot in the terrain.
+[Quoting from](http://esgs.free.fr/uk/art/sands-sup3.pdf) mathematician Alfred Korzybski, who first introduced the phrase:
+If we consider an actual territory, say, Paris, Dresden, Warsaw, and build up a map in which the order of these cities would be represented as Dresden, Paris, Warsaw, to travel by such a map would be misguiding, wasteful of effort…
+[…]
+An ideal map would contain the map of the map of the map of the map of the map, endlessly.
+Essentially, even if a map is correct, it is a reduction of reality (it has to be) and you can end up losing some information. And you, the reader, have to interpret the information that is present. All are stages where errors can occur.
+Here’s a more digestible example of this phenomenon, from the business sector:
+By most accounts, Ron Johnson was one the most successful and desirable retail executives by the summer of 2011. Not only was he handpicked by Steve Jobs to build the Apple Stores, a venture which had itself come under major scrutiny – one [retort](http://www.bloomberg.com/bw/stories/2001-05-20/commentary-sorry-steve-heres-why-apple-stores-wont-work) printed in Bloomberg magazine: “I give them two years before they’re turning out the lights on a very painful and expensive mistake” – but he had been credited with playing a major role in turning Target from a K-Mart look-alike into the trendy-but-cheap Tar-zhey by the late 1990s and early 2000s.
+Johnson’s success at Apple was not immediate, but it was undeniable. By 2011, Apple stores were by far the most productive in the world on a per-square-foot basis and had become the envy of the retail world.
+[…]
+With that success, in 2011, Johnson was hired by [Bill Ackman](https://fs.blog/knowledge-project-podcast/bill-ackman/), Steven Roth, and other luminaries of the financial world to turn around the dowdy old department store chain JC Penney. The situation of the department store was dour: Between 1992 and 2011, the retail market share held by department stores had declined from 57% to 31%.
+[…]
+[Johnson’s] idea was to take the best ideas from his experience at Apple: great customer service, consistent pricing with no markdowns and markups, immaculate displays, and world-class products, and apply them to the department store. Johnson planned to turn the stores into little malls-within-malls. He went as far as comparing the ever-rotating stores-within-a-store to Apple’s “apps.” Such a model would keep the store constantly fresh, and avoid the creeping staleness of retail.
+Johnson [pitched his idea](http://ir.jcpenney.com/phoenix.zhtml?c=70528&p=irol-newsArticle&ID=1652614&highlight=) to shareholders in a series of trendy New York City meetings reminiscent of Steve Jobs’ annual “But wait, there’s more!” product launches at Apple. He was persuasive: JC Penney’s stock price went from $26 in the summer of 2011 to $42 in early 2012 on the strength of the pitch.
+The idea failed almost immediately. His new pricing model (eliminating discounting) was a flop. The coupon hunters rebelled. Much of his new product was deemed too trendy. His new store model was wildly expensive for a middling department store chain – including operating losses purposefully endured, he’d spent several billion dollars trying to effect the physical transformation of the stores. JC Penney customers had no idea what was going on, and by 2013, Johnson was sacked. The stock price sank into the single digits, where it remains two years later.
+What went wrong in the quest to build [America’s Favorite Store](http://www.forbes.com/sites/onmarketing/2012/02/27/can-j-c-penney-become-americas-favorite-store/)? It turned out that Johnson was using a map of Tulsa to navigate Tuscaloosa. Apple’s products, customers, and history had far too little in common with JC Penney’s.
+The Map Is Not the Territory, [Farnam Street](https://fs.blog/map-and-territory/)
+Of course, this is a phenomenon that appears across dimensions because it’s a problem that is inseparable from maps/models. And you can make a map for any dimension.
+Take a recent road trip across the Western Ghats that I took this July. The last time I’d visited any kind of mountain range was Mussoorie in the Himalayas. It was a lovely experience, but we did have some challenges. We weren’t fit enough to hike very far, we didn’t realise that all the shops would close very early, etc., etc. My map of precautions for travelling in mountainous terrain, hence, was built from my experiences in the Himalayas.
+Well, the Western Ghats are not the Himalayas. Especially not during the monsoon. We had a great trip, and we made it back safely (bar a couple of tiny dents in our car), but there’s one more thing on my mountain-precautions map now—don’t drive down the ghats during the monsoon.
+With that, here’s everything Hari and I have for you today:
+1. Hard-to-find non-fiction 📚
+2. A Silent Sunday Special: The Mountains, framed 📸
+3. The Two by Two podcast: Do we even need Product Managers?
+[Pro tip: This email is a highly abbreviated version, since many email clients impose restrictions on the amount of material we can publish in a single email before intervention. In fact, it’s likely some email clients may even clip this truncated email.
+The best way to experience this edition is to [read it on our website](https://the-ken.com/newsletter/first-principles/the-map-and-the-terrain/), where all sections are featured in full and unabridged form.
+Also, if your default setting is to not show images within emails, please consider turning it off for this newsletter. Or else, you’ll miss many of the interesting images and photos we carry each Sunday.]
+Hello everyone, it’s Hari here. I hope you’re all enjoying this long weekend.
+Last year, I came across a movie starring Robert De Niro and my personal favourite, the late Robin Williams, which is based on a book of the same name by Oliver Sacks.
+Awakenings is a non-fiction book, an account of how Sacks tested out the drug L-Dopa (primarily used to treat people suffering from Parkinson’s Disease) on a group of patients infected with [Encephalitis Lethargica](https://en.wikipedia.org/wiki/Encephalitis_lethargica), or Sleeping Sickness—a harrowing condition in which patients are in a catatonic state, aware of the world around them but unable to participate in it.
+The film is a beautiful study of the human condition and embracing the life we’ve been given. Dr. Malcolm Sayer (played by Williams) tests L-Dopa on Leonard Lowe (De Niro), and as Leonard awakens from his close to three-decade-long slumber, we see him come to grips with what’s happened and how to make up for all the years he’d lost. Soon after, other patients suffering the same condition are also treated with L-Dopa and go through the same ordeals. L-Dopa is the eponymous “Awakening”. But it doesn’t last very long, as all of them get much worse later.
+Anyway, this is what the movie offered. But the book offers so much more. It delves deeper into the condition and gives space for heartfelt accounts from patients. It brings to light the humanity and compassion one has to show in Medicine. Sacks’ emphasis on identifying his patients as individuals rather than test subjects shows how important he considers their own identities and dignity. He even dedicates chapters to each one of them within the book.
+This is the kind of non-fiction that is very hard to come by these days, where almost every book in the genre feels like a virtual clone of the one that came before it.
+It is the kind of non-fiction I yearn for.
+That said, for today, we also have two very interesting recommendations from the community. (You can submit your recommendations for the kind of nonfiction you love using this [link](https://theken.typeform.com/FPBooks).)
+The first book, recommended by Shrey, is [Antifragile](https://www.goodreads.com/book/show/13530973-antifragile?from_search=true&from_srp=true&qid=9rjj1AKUI9&rank=1) by Nassim Nicholas Taleb.
+Shrey writes: “Robustness is a concept that doesn’t actually form an antonym for fragile. If fragile means something that can break with disruptions, robust means something that doesn’t change with disruptions. There should be a word – anti-fragile – to signify something that can benefit largely from disruptions. The author here highlights anecdotes, studies, and personal learnings in the world of finance, medicine, journalism, etc. that can benefit from antifragility. Life and lifestyle are going to change once you complete this book.”
+Next up, we have [Every Living Thing](https://www.goodreads.com/book/show/13131528-every-living-thing?from_search=true&from_srp=true&qid=6phNgbrIJd&rank=3) written by Jason Roberts, recommended to the community by Nambirajan Vanamamalai. From what I read about the book, and what Nambirajan has to say about it, it looks like a fascinating read.
+Nambirajan writes: “The book delves into the history of taxonomy and shares in detail the life of its pioneers like Carolus Linnaeus and Georges Buffon. You get to learn the life story of Carolus Linnaeus who you might have got introduced in your botany textbooks. It also covers the evolution of taxonomy after them tracing a path through French Revolution and other relevant scientific breakthroughs of the subsequent centuries.”
+As always, don’t forget to [send in your own](https://theken.typeform.com/FPBooks) book recommendations.
+I was surprised when we received over 50 pictures for the last edition of Silent Sunday Framed. But it seems those are the kind of numbers we should get used to because we have over 50 pictures for this edition too. (You can [use this link](https://theken.typeform.com/FPSilentSundays) to send in your own Silent Sunday contributions.)
+And they come from almost every continent and major range. The Himalayas? Check. The Alps? Check. The Rocky Mountains? Check. Add in some breathtaking pictures of sleeping volcanoes and rolling lush hills, and you have a full array of pictures from almost any kind of mountainous terrain you’re likely to find on our gorgeous Earth.
+But trying to publish over 50 images on email is a bit hard and does no justice to the pictures themselves, so like last time, this is a website-only issue. Without further ado, here are…
+In the latest episode of the Two by Two podcast, hosts Praveen Gopal Krishnan and Rohin Dharmakumar are joined by Shreyas Srinvasan, CPO at Paytm* and also founder of Paytm Insider, and Chandrashekhar Vattikuti, SVP at Inmobi, to find the answer to a question that many startups in India are now asking—[Do we even need Product Managers?](https://the-ken.com/podcasts/two-by-two/do-we-even-need-product-managers/?utm_source=daily_story&utm_medium=email&utm_campaign=daily_newsletter)
+The full episode is now available to Premium subscribers on The Ken [app](https://the-ken.com/podcasts/two-by-two/do-we-even-need-product-managers/?utm_source=daily_story&utm_medium=email&utm_campaign=daily_newsletter), and on [Apple Podcasts](https://podcasts.apple.com/in/podcast/two-by-two/id1757938645) via a separate standalone subscription.
+*Paytm founder Vijay Shekhar Sharma is an investor in The Ken.
+That’s a wrap for this week. Before you go, if you know someone who might like this newsletter, forward us to them!
+Please write to fp@the-ken.com if there’s anything you’d like to share with us. Or leave a comment on our on-site edition. See you next Sunday!
+Regards,
+Jonathan Ananda

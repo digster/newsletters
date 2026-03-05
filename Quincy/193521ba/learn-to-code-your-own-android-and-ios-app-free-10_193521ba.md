@@ -1,0 +1,31 @@
+---
+subject: "Learn to code your own Android and iOS app [Free 10-hour course on Flutter mobile app dev]"
+from: "Quincy Larson <quincy@freecodecamp.org>"
+to: ""
+date: 2024-11-22 04:22:43
+labels: ["CATEGORY_PERSONAL", "INBOX", "Quincy"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_7697778124671848699"]
+---
+Here are this week's five freeCodeCamp resources that are worth your time:
+
+1. freeCodeCamp just published a comprehensive course on Flutter – a popular framework for building Android and iOS apps at the same time. We think Flutter is awesome, and use it to build and maintain freeCodeCamp's own mobile apps. This beginner-level course will teach you Flutter by walking you through step-by-step as you code your own clone of the Spotify app. (10 hour YouTube course): https://www.freecodecamp.org/news/create-a-full-stack-spotify-clone-with-flutter/
+
+2. Reverse Engineering is when you want to build your own version of an app, but don't know how it was implemented – you only have the finished product to serve as your guide. This tutorial will give you a methodology for reverse engineering websites so you can get practice implementing features you see in the wild. (30 minute read): https://www.freecodecamp.org/news/how-to-reverse-engineer-a-website/
+
+3. On this week's freeCodeCamp podcast, I talk with Tim Ruscica, software engineer and host of the popular Tech with Tim YouTube channel. We talk about how Tim learned computer architecture as a kid by playing Minecraft, then managed to land a Microsoft internship when he was just 19. He also shares his insights on learning to code, and why he recommends Python as a first programming language: “It's the least overwhelming thing to get your hands dirty.” (2 hour watch or listen in your favorite podcast app): https://www.freecodecamp.org/news/tech-with-tim-freecodecamp-podcast-150/
+
+4. Learn how to manage the state of your React apps using Redux and Redux Toolkit. This freeCodeCamp JavaScript course will teach you powerful design patterns you can use to shape the experience of your users. You'll learn about middleware, hooks, async actions, immutable state updates, and more. (8 hour YouTube course): https://www.freecodecamp.org/news/learn-redux-and-redux-toolkit-for-state-management/
+
+5. Whether you're a developer or a semi-technical decision maker on a team, you'll benefit from understanding modern development frameworks and what they bring to the table. This comprehensive guide will break down the many framework categories for you, so that you can choose the right tools for the job. You'll learn about AI frameworks, UI frameworks, testing tools, infrastructure tools, and more. (30 minute read): https://www.freecodecamp.org/news/understanding-modern-development-frameworks-guide-for-devs/
+
+The freeCodeCamp community is hard at work on tons of curriculum improvements that we'll ship in time for Christmas. If you're having fun expanding your skills using our charity's open source learning resources, then you should join the 11,043 kind folks who support our mission each month: https://www.freecodecamp.org/donate
+
+Quote of the Week: “If you're 5-10 years old and your main circle isn't frequently discussing: PWA vs Native app, TypeScript vs JavaScript, Flutter vs React Native – and are instead discussing: Playdough, LEGOs, Goldfish... then it's time to elevate your circle.” — Ben Awad, software engineer and freeCodeCamp contributor. And yes, he means this as a joke.
+
+Until next week, happy coding.
+
+-- Quincy Larson
+
+Teacher and founder of freeCodeCamp.org
+
+If these aren't worth your time, you can turn them off: https://www.freecodecamp.org/ue/eZV2T3gHC7IGcwcpYPG64

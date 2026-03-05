@@ -1,0 +1,45 @@
+View this post on the web at https://threads.championswimmer.in/p/ai-the-new-third-pillar-of-global
+
+Exactly one year back I made the fateful decision to try dipping my toes in a part of the tech industry I have not remotely been close to - datacenters. Last 10 years I have built startups and led engineering teams largely around two things - edtech and consumer mobile apps.
+A wonderful thing about bigtech hiring process is that often the hiring is generic to a role, and then you get to pick among various teams that have open headcount. (no other way hiring would scale to this size).
+A wonderful thing about bigtech hiring process is that often the hiring is generic to a role, and then you get to pick among various teams that have open headcount. (no other way hiring would scale to this size). Felt like a great opportunity to explore something new.
+Every time I have jumped into something new, I love how seeing an industry from the inside leads to insights that are not exactly 'secret' (because there is enough data in papers/blogs/quarterly earnings), but still not common knowledge across the rest of the tech.
+In that regard, an interesting learning for me, exploring the world of datacenters, the economics and business of building and maintaining them, stuffing them with racks and helping grow "compute capacity" is how AI has changed some fundamental scaling laws.
+Again, what I am talking about here is no "trade secret" (and neither can I actually share any such thing), and it is open knowledge among people who are closely following it, but it was quite interesting for me to learn how datacenter economics for 'compute' and 'storage' vary.
+Before being in the space, as joked with many of my teammates when I joined, the meaning of "infra" to me was just running Kubernets on some public cloud. To be in the 'infra behind the infra' in some sense - actually planning how server racks are deployed, blew my mind.
+This space is, unlike the consumer side of tech, largely dominated by economics and scaling laws similar to the ones that dominate manufacturing and supply chains. The business tracks various real world things like weight, energy density, heat output, power & water usage.
+In that regard, the datacenter busines model, traditionally had two very different pillars of growth. "compute" and "storage". Regardless of what kind of software and usage was creating the demand, a lot of datacenter growth was about these two things 
+AI is a new third pillar.
+So when you look at the economics of datacenters, business leaders look at things like - power - heat output - water use - weight - energy density - power spikes - network type And for 'compute' and 'storage' these metrics have very different relation to user growth
+Compute: basically servers which are mainly used for CPU process (some GPU too for small-scale ML inference like feed/ad ranking) 
+Storage: servers mainly providing storage capacity for block storage (large media, images, blobs), to databases of various size and types.
+To just highlight a few key differences in compute and storage 
+1. Energy Density 
+Compute: 10-30kw per rack 
+Storage: ~5kw per rack
+Compute servers have might higher 'energy density' than storage, and thus also dissipate more heat than storage racks.
+2. Weight Density 
+Compute: 600-700kg per rack
+ Storage: ~1200 kg per rack 
+Storage has platters and disks, and creates less heat so can be stacked more densely. (we are talking of traditional racks, not AI/HPC racks in compute here)
+3. Network Interconnect As a rule of thumb, Compute requires lower latency, while Storage requires higher bandwidth. 
+There's tons of nuances and how the network fabric created depends on the interconnect between compute & storage too, but generally the network needs are this.
+The list keeps going on and on. But when you talk to very old school 'datacenter business' guys, who care about topline economic metrics of a datacenter, you'll notice they care about things like
+ "how energy will scale with user growth" 
+"how space usage will scale with user growth" 
+"how water volume will scale with user growth"
+ "how network bandwidth will... " 
+you get the gist ? And each of these graphs have different plots for storage and compute. Some scale superlinearly, some linearly, some sublinearly. But almost always they do not scale in the same way for storage and compute.
+Now datacenters, although required to provide capacity to us techbros, are basically run by very old school factory/supplychain/facilities type people. They need to make 10 year plans around land prices, power use contracts, water availability, construction materials etc.
+Most such 5-10yr plans have now become quite predictable because we know these relationships. If the hyperscalers can predict basically how many users, how many requests per second, how many petabytes of data will grow, the other tangibles like space, power, water can be planned
+AI demand is a whole new beast in this equation. It doesn't fit the mould of traditional compute or storage. The racks are as heavy as storage racks. They are even more energy dense than compute. Their network interconnect is absolutely novel (400G full mesh)
+And the 'shape' of AI demand is something no one has even figured out. Many clusters are being built for training (famously xAI's gigawatt cluster, and other similar ones by all hyperscalers). And then the idea is they can be turned into inference.
+A training cluster does not magically convert into a inference cluster btw Training jobs are long running, synchronous steps, but batched jobs. Interruptible (via checkpoints). Needs huge clusters Inference is small, streaming steps. Cannot be interrupted. Needs tiny clusters
+No one knows if a gigawatt sized cluster made for training a 1T sized model, can actually be converted to inference capacity for bunch of 10B -500B sized quantized models and at what time horizon turn a profit. And if the power/cooling that worked for training work for inference
+So yeah, the builders and maintainers of datacenters are figuring out this 3rd pillar of datacenter capacity demand - AI. It is different from traditional two pillars storage and compute - which drove all the growth so far.
+And no one truly knows the economics of this pillar
+The predictability of storage and compute also allowed 'interleaving' them much better so far. No one makes a datacenter purely for storage or purely for compute. You spread them evenly, so weight per rack, heat per rack, energy spikiness all of all evens out.
+Since the shape of AI demand (both, the shape of the peak demand, and the temporal shape of the load) is not yet well know, it is not yet well known what is the best strategy to interleave GPU/HPC racks with storage and compute racks.
+ What an interesting time to work here.
+
+Unsubscribe https://substack.com/redirect/2/eyJlIjoiaHR0cHM6Ly90aHJlYWRzLmNoYW1waW9uc3dpbW1lci5pbi9hY3Rpb24vZGlzYWJsZV9lbWFpbD90b2tlbj1leUoxYzJWeVgybGtJam94TkRVMk16TXhPU3dpY0c5emRGOXBaQ0k2TVRjME56UXdPVE13TENKcFlYUWlPakUzTlRrd05ERTVNelVzSW1WNGNDSTZNVGM1TURVM056a3pOU3dpYVhOeklqb2ljSFZpTFRNMU1qY3pNaUlzSW5OMVlpSTZJbVJwYzJGaWJHVmZaVzFoYVd3aWZRLkJwaC1lSUtJeEZrRjBzbmdSXzF6VXUzZjMzcFBYVGpGcUpzTXNtZnhwaVEiLCJwIjoxNzQ3NDA5MzAsInMiOjM1MjczMiwiZiI6dHJ1ZSwidSI6MTQ1NjMzMTksImlhdCI6MTc1OTA0MTkzNSwiZXhwIjoyMDc0NjE3OTM1LCJpc3MiOiJwdWItMCIsInN1YiI6ImxpbmstcmVkaXJlY3QifQ.83sVAFd_WOg6iVF5UCR4x7VyI-MDE9cNgYuAlCtket4?

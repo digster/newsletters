@@ -1,0 +1,35 @@
+---
+subject: "The Map Is Not the Territory (and It’s Definitely Not Progress)"
+from: "Joan Westenberg <westenberg@mail.beehiiv.com>"
+to: ""
+date: 2025-10-27 10:08:11
+labels: ["CATEGORY_PERSONAL", "INBOX", "Joan Westenberg", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_1282196755308728004", "UNREAD"]
+---
+|
+|
+There is a particular trap that catches people like us. |
+And I say "us" because if you're reading this, you probably know exactly what I mean. |
+You're the person who needs to understand the underlying mechanisms before you can act. Who reads three books on negotiation tactics before asking for a raise. Who spends weeks researching the optimal workout routine instead of just going to the gym. |
+We are the people who - far too often - mistake intellectual clarity for progress. |
+In Zen and the Art of Motorcycle Maintenance, Pirsig talks about the South Indian Monkey Trap. You drill a hole in a coconut, put rice inside, and wait. The monkey reaches in, grabs the rice, but then can't pull its fist back out through the hole. The monkey could escape by letting go of the rice, but it won't. It'll sit there, trapped by its own grip, while the hunters approach. |
+I think about that monkey a lot. Particularly when I catch myself reading a fourth article on habit formation instead of just flossing my teeth... |
+The problem: all this analysis feels productive. |
+Your brain gives you the same little dopamine hits for understanding something as it does for doing something. Maybe even bigger hits, honestly. Understanding is clean and controllable and it happens entirely in your head (where you're safe.) Action is messy. Action = other people and uncontrollable variables and the possibility of looking stupid. |
+Of course your brain would rather stay in theory mode. |
+I'm not going to sit here and tell you to stop thinking and just do things, man. That advice usually comes from people who've never experienced analysis paralysis, and it's about as helpful as telling a depressed person to cheer up. I’ve been that // there, too. It doesn’t help. |
+Our analytical approach has real value. Understanding systems and mechanisms and underlying principles actually does help us act more effectively when we eventually act. The trouble starts when the understanding becomes a substitute for the action rather than preparation for it. |
+There are aspiring writers who've read everything about story structure but haven't written a complete story. Entrepreneurs who can discourse brilliantly on business models but haven't made their first sale. People with encyclopedic knowledge of social dynamics who still can't make small talk at parties. |
+The model gets more and more refined while the territory remains unexplored. |
+I think the issue is that we treat these two things as if they exist on the same spectrum. Like you do some analysis, then some action, then more analysis, then more action, and you can slide back and forth between them smoothly. But they're actually different modes of being. Analysis happens in the realm of abstraction and infinite possibility. Action happens in the realm of the concrete and the constrained. You can't smoothly interpolate between them. |
+There's a gap you have to jump. |
+And jumping is scary. |
+Once you act, you've collapsed the wave function. You're no longer dealing with the perfect platonic ideal of what you could do; you’re stuck with the messy reality of what you actually did. Your beautiful model meets the territory and turns out to be wrong in eleven different ways you didn't anticipate. This is uncomfortable for people who pride themselves on being right. |
+Perhaps (perhaps) we don't fear action so much as we fear feedback. As long as our model stays in our head, it can be perfect. The moment we test it against reality, we have to confront our wrongness. And for highly analytical people, being wrong feels like a moral failing rather than a normal part of learning. |
+I've noticed a few things that seem to help: |
+First, you have to get comfortable with the idea that your model will always be incomplete and partially wrong. Always. You could spend your entire life refining your understanding of how to write a novel, and you'd still learn more from writing one bad novel than from all that study. The territory is infinitely richer than any map can capture. This isn't a bug, it's a feature. If the map could be as detailed as the territory, it would be the territory, and thus useless as a map. |
+Second, you need to deliberately practice the jump between analysis and action, by setting very clear boundaries on it. I'll research workout routines for two hours, then I'm going to the gym regardless of whether I feel ready. I'll think about what I want to say in this email for ten minutes, then I'm sending it whether or not it's perfect. The analytical part gets its time, but then you act anyway. You're training yourself to be okay with the gap. |
+Third, and this is harder, you have to learn to metabolize feedback differently. When reality contradicts your model, it’s not a failure signal; it’s data. Neutral, immutable data. That's the whole point of making models in the first place, to test them against the world and update them. But you can only get that data by acting. The model serves the movement, not the other way around. |
+I still build systems. I still love understanding how things work. I still spend probably too much time reading about things instead of doing them. But I'm trying to hold it all more loosely now. The map is useful precisely because it's not the territory. And I'm learning that sometimes you need to crumple up your beautiful map and just start walking. |
+You'll probably go in the wrong direction at first. You'll definitely look silly. Your model will turn out to be wrong in ways you should have anticipated and ways you couldn't have. But at least you'll be moving. At least you'll be generating the level // category of knowledge that only comes from contact with the real world. |
+The monkey can let go of the rice any time it wants. |

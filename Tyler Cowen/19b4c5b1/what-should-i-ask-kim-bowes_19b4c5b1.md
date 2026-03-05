@@ -1,0 +1,12 @@
+---
+subject: "What should I ask Kim Bowes?"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2025-12-23 17:56:36
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+Yes, I will be doing a Conversation with her. Here is [Wikipedia](http://marginalrevolution.com?action=user_content_redirect&uuid=0dd5e60cd1937ed29486249c1380f84c9dd724a5e0ae9442092d3b225300632f&blog_id=42693868&post_id=92101&user_id=262258391&subs_id=225460721&signature=f09b42030d64d59823efa14ab3d06c5a&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvS2ltYmVybHlfRC5fQm93ZXM&email_id=117b34c9523fa8438056c94adb4c68a7):
+Kimberly D. Bowes (born 1970) is an American archaeologist who is a professor of
+[Classical]Studies at the[University of Pennsylvania]. She specializes in[archeology], material culture and[economics of the Roman]and the later Roman world. She was the Director of the[American Academy in Rome]from 2014–2017.[[2]]She is the author of three monographs...While she is continuously focused on the archaeology and material culture of the Roman and later Roman worlds, her research interests have shifted from late antiquity and the archeologies of religion and elite space to historical economies with a distinct focus on poverty and the lived experience of the poor. Her forthcoming study on Roman peasants in Italy reflects a greater attention to non-elites in the studies of Roman archaeology and economic history and a shift in her methodology, integrating archaeological and scientific data, anthropological theory and historical economics become.
+I am a big fan of her new book [Surviving Rome: The Economic Lives of the Ninety Percent](http://marginalrevolution.com?action=user_content_redirect&uuid=9126926774a1294e4f974328c660135a77df8fb4ae06c4cb0e83eb13644530e1&blog_id=42693868&post_id=92101&user_id=262258391&subs_id=225460721&signature=94232ebdfd2246bbf7e9d61b6e1b7a46&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly9tYXJnaW5hbHJldm9sdXRpb24uY29tL21hcmdpbmFscmV2b2x1dGlvbi8yMDI1LzEwL3N1cnZpdmluZy1yb21lLXRoZS1lY29ub21pYy1saXZlcy1vZi10aGUtbmluZXR5LXBlcmNlbnQuaHRtbA=&email_id=117b34c9523fa8438056c94adb4c68a7). So what should I ask her?

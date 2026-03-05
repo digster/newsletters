@@ -1,0 +1,105 @@
+---
+subject: "Lighthouse Skills: How to Prepare for an Uncertain Future"
+from: "\"Sahil Bloom's Curiosity Chronicle\" <sahil@sahilbloom.com>"
+to: ""
+date: 2025-04-02 13:05:05
+labels: ["CATEGORY_PERSONAL", "INBOX", "Sahil Bloom", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_1989028747625928812", "UNREAD"]
+---
+Welcome to The Curiosity Chronicle, a weekly newsletter where I provide actionable ideas to help you build a high-performing, healthy, wealthy life.
+My book is now a 7x NYT Bestseller and has sold over 200,000+ copies worldwide. It currently has a big 30% sale, so now is a great time to get yours (or buy one as a gift).
+P.S. Reply to this email with your receipt and I'll send you the 50+ page companion workbook to go deeper.
+Today at a Glance:
+The future feels wildly uncertain (and you don't need to look far to feel it). This is my open letter to anyone struggling to prepare for an uncertain future...
+First, we need to scrap the old linear mindset (Plan, Execute) and replace it with an iterative mindset (Execute, Adapt).
+In a 2012 interview, Amazon founder Jeff Bezos highlighted the importance of identifying what will stay the same in the future and building around that. Think of these timeless truths as your Lighthouse, and the skills that remain relevant are your Lighthouse Skills. Focus on the lighthouse.
+Perfect your morning routine with my daily health partner AG1:
+When it comes to my health routine, I've been choosing AG1 since 2011.
+With science-backed ingredients and real benefits I can feel, AG1 makes it easy to support overall wellness every day. It's my daily nutritional insurance––the one constant in my morning routine since 2011. I take it with me at home and on the road (a lot these days) to feel and perform my best.
+AG1 is offering my amazing Curiosity Chronicle subscribers a FREE $76 gift when you sign up. You’ll get a Welcome Kit, a bottle of D3K2 (I take this daily!), and 5 free travel packs in your first box.
+"The only certainty is that nothing is certain." - Pliny the Elder
+The single most common question I've received recently is some variation of this email:
+"Everything I read talks about how fast AI is changing the world and jobs, and I don't want to pick the wrong thing and be in a bad position...How do I choose my focus? How do I prepare for the uncertain?"
+If I'm being completely honest, this is the number one question that I'm personally wrestling with in my own professional life.
+The future feels wildly uncertain (and you don't need to look far to feel it):
+AI is changing the nature of work at an accelerating rate
+Everyone is weighing in on how quickly the new technologies will fundamentally change the way we work and live (and very few are still debating if they will at all).
+It feels like we're entering an Era of Uncertainty...
+In today's piece, I'm going to share my model for thinking about the coming era and the specific skills I'm building to thrive in any variety of future scenarios.
+This is my open letter to anyone struggling to prepare for an uncertain future...
+The Truth About Uncertainty
+Let's begin with a simple truth:
+Uncertainty is the only certainty.
+History is littered with examples of disruption, chaos, or change that made the future feel very uncertain:
+If you were living through the Industrial Revolution, the future felt very uncertain
+If you were living through the peak of the Cold War, the future felt very uncertain
+If you were living through any of the major plagues, economic crashes, world wars, or famines, the future felt very uncertain
+There's a tendency to say "this time is different" with every major event, but while the specifics are always different, as a student of history, you cannot ignore the general similarities.
+Uncertainty has always been the norm.
+And if uncertainty is the norm, tolerance for—or, even better, an embrace of—that uncertainty is how you will thrive.
+The one who can tolerate and embrace the most uncertainty is the one who will eventually win.
+To become this one, you first need to recognize that the Old Model is broken:
+You were taught to follow this Old Model:
+Plan: Create a plan for your future (5, 10, or 15 years)
+Execute: Take the daily actions against that plan
+Outcome: Achieve the desired outcome
+But in a fast-changing world, it no longer works. The specific plan you create today is going to be outdated in a few years.
+I was recently having a conversation with a world-renowned tech executive and asked whether he was planning to write a book on his predictions for the future.
+His response:
+"The problem is the book publishing cycle takes too long (2 years) and all of it would be antiquated by the time it gets out, I fear."
+Keep in mind this is an expert, saying that two years is all it takes for his predictions (his plans) to become antiquated and obsolete...
+So, what do you do when your map no longer matches the terrain? Throw it out and create a new one.
+We need to invert the model for this fast-changing world:
+The New Model is a perpetual loop:
+Execute: Take action, move, create, build
+Adapt: Gather information from execution, think, learn, adjust
+This New Model is the foundation of a mindset to thrive in an uncertain future.
+But the mindset alone is not enough.
+How do we prepare, what skills do we build, and what do we focus on to win in this uncertain future?
+Time to dive in on my Lighthouse Strategy...
+A Tactical Approach to the Future
+A lighthouse serves one simple but profound purpose: To guide sailors safely through uncertainty.
+It warns of dangers, provides orientation, and offers a single point of focus to navigate through storms or darkness.
+The conditions may change, but the lighthouse never does.
+In 2012, Amazon founder Jeff Bezos shared this insight about building for the future:
+"I very frequently get the question: 'What’s going to change in the next 10 years?' And that is a very interesting question; it’s a very common one. I almost never get the question: 'What’s not going to change in the next 10 years?' And I submit to you that that second question is actually the more important of the two."
+The lesson: It's easy to focus on what will change, but in a world where it's unlikely you will be correct, it's more important to focus on what will stay the same.
+Focus on the lighthouse.
+Here are a few timeless human truths that will not change in the future:
+Humans will want real, personal connection
+Humans will want to consume things that make them feel good
+Humans will be seeking meaning, purpose, and clarity
+Humans will pay for things that reduce friction
+Humans will seek out status and improved social positioning
+Humans will be insecure
+These truths are the lighthouse.
+Further, there are timeless skills—those that are likely to remain valuable and relevant across a wide array of future states.
+I call these Lighthouse Skills:
+Sales: Sales is the most useful meta-skill for life. No matter what path you choose to go down, you need to learn to sell: Sell yourself, sell your story, sell your product, sell your vision, sell your ideas. My richest friends aren't the ones with the highest IQs. They just know how to sell. They aren't afraid of being told no. They keep refining the message until they get to a yes.
+Storytelling: Become exceptional at aggregating data and communicating it simply and effectively. Data in, story out. Learn to pick up on cues from listeners that signal the story is connecting (eyes lighting up, leaning in posture, etc.). Iterate accordingly.
+Clear Communication: The ability to clearly communicate (with computers and humans) is going to stand out. AI is going to amplify the output capacity of the clear communicator by 100x.
+Emotional Intelligence: Human interpersonal skills are arguably going to become the most important skills in a future where more and more of our lives are run through technology. The ability to create meaningful, real connection with other humans will stand out even more than it does today. Note: I plan to write a full piece on how to become more emotionally intelligent. Reply YES if you're interested in reading it!
+Public Speaking: Strong, confident public speaking builds authority and improves status. It's not just about presentations in front of a large audience. It applies to normal conversations and small group settings just as much as the huge conference hall.
+Taste: Good taste is hard to define, but you know it when you see it. It requires a level of forward-thinking to be in front of trends to capture value before the market squeezes out the opportunity.
+Clear Thinking: Gather data, process it thoughtfully, make a decision, iterate accordingly. Avoid the "that's just the way we do things" mentality and question underlying assumptions. As the pace of change accelerates, maintaining rational, clear thinking will be more valuable than ever before.
+The goal is to focus on developing a set of skills and attributes that are relevant and valuable in a range of potential futures.
+These Lighthouse Skills pass the test.
+Please consider this a dynamic list—part of embracing uncertainty is being willing to adjust, add, or edit without apprehension. No dogmas, just action.
+Thrive on the Raging Sea
+"Be grateful that on this raging sea you have a mind to guide you." - Marcus Aurelius
+If you feel overwhelmed, trust me, you're not alone.
+But remember this:
+The explorer doesn't set out on the voyage trusting that the seas will remain calm to stay perfectly on course.
+Rather, the explorer trusts in the preparation and the ability to adapt when the inevitable storms and chaos arrive.
+You are the explorer and life is your voyage.
+You don't need to trust in your plan or your intelligence. You need to trust in your preparation. You need to trust in your ability to adapt.
+The 5 Types of Wealth is the compass for your journey to a life of wealth that goes far beyond money. It provides the actionable tools to define, measure, and design your life around the pillars that truly create lasting happiness and fulfillment.
+It will help you find your True North and build your life around it.
+Order now and you'll unlock several new, exclusive bonuses:
+The 5 Types of Wealth Workbook: A step-by-step companion guide designed to help you work through the book’s key concepts and exercises.
+Access to The 5 Types of Wealth Digital Community: Join a vibrant group of like-minded individuals committed to creating a life of comprehensive wealth. Connect, collaborate, and grow together.
+Access to The 5 Types of Wealth Launch Workshop: Get exclusive access to the full recording of this transformative virtual workshop, where I’ll guide you through specific exercises designed to help you apply the principles of the book. Watch it anytime at your convenience!
+Everyone rushed to chase the latest social algorithm while complaining about crowded inboxes. Meanwhile, I doubled down on email with Kit and saw something surprising.
+My direct connections grew stronger. No algorithm decides who sees my message—I reach 100% of my audience, not just 2%. And the responses I get are thoughtful, not just quick likes or emoji reactions.
+Kit helped me transform standard emails into meaningful exchanges that build real relationships. My community shares stories, asks questions, and engages in ways that social platforms simply can't match.
+The platforms come and go, but email remains the most direct line to your audience. Kit just makes that connection more powerful.

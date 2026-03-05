@@ -1,0 +1,10 @@
+---
+subject: "The Luxury Ice Cube Edition"
+from: "\"Why is this interesting?\" <whyisthisinteresting@substack.com>"
+to: ""
+date: 2026-02-10 14:03:23
+labels: ["CATEGORY_PERSONAL", "INBOX", "UNREAD", "WITI"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "UNREAD", "Label_5752899537867939131"]
+---
+Steph Balzer (SB) Steph here. For the past several years, WITI writers have descended into Las Vegas to attend CES. It’s become our tradition to gather for a nightcap, and as a local, I’ve had the pleasure of arranging a place to meet. This year, we gathered at Bar Ginza, an intimate Japanese whiskey lounge on Main Street. Tucked into our booth, I asked the bartender whether they still imported their ice from Japan. Why is this interesting? Ice is typically a functional ingredient in cocktails, tasteless and unremarkable. It’s no more the star than salt is to sourdough. Everyman comedian Nate Bargatze even does a bit about how ice is always an afterthought. He won’t show up to your party if he suspects your ice situation isn’t figured out. (Whatever amount of ice you buy, he continues, it’s never the right amount: “It’s either not enough, or the most ice I’ve ever seen in my life.”) Despite being ubiquitous and cheap, ice is also precious, as in physically vulnerable. Choosing to care about where it’s sourced, or how it’s made, when that much care is resource-intensive and impractical, seems the epitome of luxury. Almost nothing can surprise the most cosmopolitan of consumers, but luxury ice still seems to.
+It’s the dedication to craft for me. I relate to investing that much energy in something rendered nearly invisible to most. That night at Bar Ginza, I briefly checked out of the conversation on remodeling a house in Venice, Los Angeles, and what it’s like to live in Detroit, to savor the moment. I stared at the flawless gem of a cube dissolving in my glass. Its edges and corners were rounded now, like a personality mellowed with age. The whiskey was long gone, but the melt still clung to its golden glow. (SB) You're currently a free subscriber to |

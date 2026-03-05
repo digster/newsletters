@@ -1,0 +1,19 @@
+---
+subject: "A consumption basket approach to measuring AI progress"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2025-07-04 04:22:37
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+Many AI evaluations go out of their way to find hard problems. That makes sense because you can track progress over time, and furthermore many of the world's important problems are hard problems, such as building out advances in the biosciences. One common approach, for instance, is to track the performance of current AI models on say International Math Olympiad problems.
+I am all for those efforts, and I do not wish to cut back on them.
+Still, they introduce biases in our estimates of progress. Many of those measures show that the AIs still are not solving most of the core problems, and sometimes they are not coming close.
+In contrast, actual human users typically deploy AIs to help them with relatively easy problems. They use AIs for (standard) legal advice, to help with the homework, to plot travel plans, to help modify a recipe, as a therapist or advisor, and so on. You could say that is the actual consumption basket for LLM use, circa 2025.
+It would be interesting to chart the rate of LLM progress, weighted by how people actually use them. The simplest form of weighting would be "time spent with the LLM," though probably a better form of weighting would be "willingness to pay for each LLM use."
+I strongly suspect we would find the following:
+1. Progress over the last few years has been staggeringly high, much higher than is measured by many of the other evaluations For everyday practical uses, current models are much better and more reliable and more versatile than what we had in late 2022, regardless of their defects in Math Olympiad problems.
+2. Future progress will be much lower than expected. A lot of the answers are so good already that they just can't get that much better, or they will do so at a slow pace. (If you do not think this is true now, it will be true very soon. But in fact it is true now for the best models.) For instance, once a correct answer has been generated, legal advice cannot improve very much, no matter how potent the LLM.
+As in standard economics, consumption baskets change over time, and that can lead to different measures of progress (or in the economics context, different estimates of advances in living standards, depending on whether the ex ante or ex post bundle weights are used). Researchers could attempt the more speculative endeavor of estimating how LLMs will be used five years from now in everyday life (which will differ from the status quo), and then track progress on that metric, using those value weights. "How rapidly are we improving these systems on their future uses?"
+This alternate consumption basket approach gives you a very different perspective on progress in AI.
+Note also that the difference between the "Math Olympiad measurements of AI progress" and the "consumption basket measurements of AI progress" may iincrease over time, especiallly if the basket of everyday uses does not change radically. The everyday uses will peak out near maximum levels of performance, but there will always be a new series of very hard problems to stump the AIs. It will become increasingly unclear exactly how much AI progress we really are making.

@@ -1,0 +1,32 @@
+---
+subject: "Longreads + Open Thread"
+from: "\"Byrne @ The Diff\" <byrne@thediff.co>"
+to: ""
+date: 2023-11-04 16:11:07
+labels: ["Byrne", "CATEGORY_UPDATES", "INBOX", "UNREAD"]
+label_ids: ["Label_9080921820904578148", "CATEGORY_UPDATES", "INBOX", "UNREAD"]
+---
+|
+|
+|
+Longreads- Otto Oehring at Undervalued Japan looks at
+[Takahashi Korekiyo, Japan’s finance minister and prime minster and the Keyne-before-Keynes](https://www.thediff.co/r/33f9ea8d?m=f90780fc-498d-4ffe-a546-8a3e61574e99). Like many other countries in the 1930s, Japan ran into an economic crisis due to a collapse in exports. Unlike many other countries, they were early to respond by depreciating their currency, cutting rates, and increasing spending. This policy didn't last long, and was reversed by the mid-1930s as Japan's economy recovered and their military spending grew. This entire narrative is a good demonstration of how pragmatists like Korekiyo can end up scooping ideologues—grand theories are often a description of something that works, rather than a plan for something new. And a given policy program is not universally applicable at all times, something the pragmatists tend to recognize faster than ideologues who explain their behavior. - Zvi Mowshowitz
+[reviews the impact of the AI executive order](https://www.thediff.co/r/771947e8?m=f90780fc-498d-4ffe-a546-8a3e61574e99), in a very measured way. The object-level highlight is that most of what the order calls for is reporting from AI companies and reports written by government agencies, not actual restrictions on behavior: "For now, in practice, the rule is ‘do whatever you want as long as you tell us what you did and did not do.’" This general outline seems prudent: it's bad to regulate too early, but hard to regulate too late. (The author of this piece[does not shy away from being visibly alarmed](https://www.thediff.co/r/14f4e7f7?m=f90780fc-498d-4ffe-a546-8a3e61574e99), so a mild response is a very strong signal.) One note is that the order calls for streamlined immigration for AI researchers. There's a finite number of them in the world at the moment, so a concentration of good ones in one country is a zero-sum proposition. Of all the ways countries can compete in AI, competing over talent seems the least likely to lead to runaway problems—and it's especially nice for the talent. - Amanda Chicago Lewis
+[meets "the people who ruined the Internet," i.e. practitioners of search engine optimization](https://www.thediff.co/r/d456b987?m=f90780fc-498d-4ffe-a546-8a3e61574e99). (In the interest of full disclosure, this was my job long ago, but I shied away from the truly obnoxious stuff. At least I think so.) When search engine algorithms were more gameable, there was a sharp divide between people who tried to deserve to rank well and people who were deliberately trying to manipulate results in order to get traffic. But there's been a slow synthesis of these; the same publication that produced this well-reported piece has also been responsible for classic works like "The best early Black Friday tech deals you can already get," and "How to set up profiles in Safari on macOS Sonoma"—getting traffic is an important part of what news sites do, and search is still a big source of traffic! The business is yet another one that's become institutionalized over time: early on, the participants were more piratical, but now tweaking content to get more search traffic is just one more part of the media business bundle. - Benjamin Breen on
+[Kikkuli, an ancient Assyrian who has become a modern meme](https://www.thediff.co/r/cacc73a8?m=f90780fc-498d-4ffe-a546-8a3e61574e99), and other ancient characters who have become popular online. The Internet tends to flatten time, by giving you access to communities that think that something is still relevant even if the rest of the world has moved on. But in these cases, the stories are actually timeliness. - Martin Gurri
+[writes about the global decline in fertility](https://www.thediff.co/r/fb4fe9f2?m=f90780fc-498d-4ffe-a546-8a3e61574e99). One thing he points out is that this is, in purely pragmatic terms, a very bad thing: a shrinking population probably means a continuous recession, and that's probably both self-reinforcing and unsustainable. There are policy answers to this, but there are also personal ones. - This week in
+[Capital Gains](https://www.thediff.co/r/84563f28?m=f90780fc-498d-4ffe-a546-8a3e61574e99), we[revisit the question of whether or not investors should pay attention to dividend yields](https://www.thediff.co/r/176e3afc?m=f90780fc-498d-4ffe-a546-8a3e61574e99). There's a naîve view that high-dividend stocks are a kind of fixed income asset, which tends to be a slow-moving grift victimizing individual investors. But it's equally naîve to dismiss the signaling value of dividends.
+You're on the free subscriber list for The Diff. This week, paying subscribers read about Diff JobsCompanies in the Diff network are actively looking for talent. A sampling of current open roles: - A company building the new pension of the 21st century and building universal basic capital is looking for a product designer. (NYC)
+- A diversified prop trading firm with a uniquely collaborative team structure is looking for experienced software engineers. (Singapore or Austin, TX preferred)
+- A startup building a new financial market within a multi-trillion dollar asset class is looking for a junior ML engineer, especially someone interested in using LLMs to make unstructured data more tractable. (US, Remote)
+- A systematic hedge fund is looking for researchers and portfolio managers who have experience using alternative data. (NYC)
+- A private credit fund denominated in Bitcoin needs a credit analyst that can negotiate derivatives pricing. Experience with low-risk crypto lending preferred (i.e. to large miners, prop-trading firms in safe jurisdictions). (Remote)
+Even if you don't see an exact match for your skills and interests right now, we're happy to talk early so we can let you know if a good opportunity comes up. If you’re at a company that's looking for talent, we should talk! Diff Jobs works with companies across fintech, hard tech, consumer software, enterprise software, and other areas—any company where finding unusually effective people is a top priority. Open Thread- Drop in any links or comments of interest to Diff readers.
+- What should we be covering that we haven't written about recently/ever?
+|
+||
+|
+|
+|
+|||
+|

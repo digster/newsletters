@@ -1,0 +1,20 @@
+---
+subject: "How the pandemic has changed the world"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2025-10-21 04:24:47
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+From [Patrick Collison on Twitter](http://marginalrevolution.com?action=user_content_redirect&uuid=20f8de34458ee55691d84f18851b82e57e335e3fad13f212ea351518283d8290&blog_id=42693868&post_id=91701&user_id=262258391&subs_id=225460721&signature=6ec77e8e7376ab55b1485c863199e23d&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly94LmNvbS9wYXRyaWNrYy9zdGF0dXMvMTk4MDI4NTI4ODg2NzA2NjE3NQ=&email_id=a4ed4da7f1fc38c09b435e62f1687199):
+Maybe a very prosaic observation, but I've been reflecting on just how much the pandemic changed the world in ways that are completely unrelated to the pandemic itself. I think I've underestimated it 'till now.
+In a recent interview, I was struck by the comment that so many of the shops that we associate with the best of France—the poissonneries and the fromageries—closed during the pandemic, to be replaced by take-out pizza shops and the like.
+College professors almost uniformly describe big changes in student behavior: lecture attendance and willingness of students to complete reading assignments are both way down.
+A UK government official recently told me that British economic statistics have become much less reliable since the pandemic: data on trade, employment, and population is suspect. (The true GDP per capita figures are probably worse than what is indicated by the published data, since the 2021 census is believed to be an undercount.)
+In the West, there are far fewer bustling workplaces than there used to be. In recent conversation with a well-traveled friend, he bemoaned how so many cities—places like Madrid, Buenos Aires, and Bali—have lost so much of their erstwhile vibrant nightlife.
+Immigration accelerated enormously across many countries, including the US, the UK, Canada, and Australia.
+In China, I hear descriptions of how fear, caution, and conservatism have persisted since the COVID lockdowns. (And Western travel to China remains massively depressed.)
+Lots of the changes are neutral, or even good. Retail participation in the US stock market almost doubled overnight, say, and has persisted at that elevated rate. Firm creation in the US increased by around 50%, which is probably a very good thing.
+Overall, the number of time series (either literal or figurative) that jumped discontinuously during COVID and then didn’t return to baseline is just very striking.
+Which are the best historical analogs? Are there any apart from major wars?
+I want to read this book!

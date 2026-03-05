@@ -1,0 +1,10 @@
+---
+subject: "Personalism and the returns to democracy"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2025-08-08 08:13:25
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+Studies of income and regime type typically contrast democracies and autocracies, ignoring heterogeneity in the character of authoritarian regimes. We focus on the consequences of personalist rule, where power is concentrated in an individual or small elite. Extending the dynamic panel strategy of Acemoglu, Naidu, Restrepo, and Robinson (2019), we estimate the differential growth performance of democracies, institutionalized autocracies, and personalist autocracies. Across eight GDP series, eight autocracy codings, and six measures of personalism, we observe a consistent pattern: Whenever an "autocratic penalty" emerges, it is concentrated in personalist regimes. The growth performance of institutionalized dictatorships, in contrast, is statistically indistinguishable from that of democracies. We document evidence that the "personalist penalty" is driven by some combination of low private investment, poor public-goods provision, and conflict. These findings emphasize the analytic payoff of unpacking autocracy and highlight the different incentives facing leaders with narrow and broad bases of power.
+That is from [a new NBER working paper](http://marginalrevolution.com?action=user_content_redirect&uuid=08e0640764c9721ae90a7722083eb56affcc488131f6cc9c9b75acc63a903884&blog_id=42693868&post_id=91248&user_id=262258391&subs_id=225460721&signature=ba22fd29d3d751a2516f67499ca46304&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly93d3cubmJlci5vcmcvcGFwZXJzL3czNDA5MyNmcm9tcnNz&email_id=ab9fa61637bcf5060493017a4701f781) by Christopher Blattman, Scott Gehlbach, and Zeyang Yu.

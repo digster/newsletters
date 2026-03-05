@@ -1,0 +1,15 @@
+---
+subject: "Why even ‘perfect’ AI therapy may be structurally doomed"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2026-02-27 05:49:54
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+Here’s the crux of it: the main problem with AI therapy is that it’s too available. Too cheap to meter.
+Let me put this in clearer terms: psychotherapy, in all its well-known guises, is something you engage in within a limited, time-bound frame. In today’s paradigm, whatever your therapist’s orientation, that tends to mean one 45- or 50-minute session a week; for the infinitesimally small minority of therapy patients in classical psychoanalysis, this can amount to 3, even 5, hours a week. And then at a much smaller scale population-wide, people in intensive outpatient and residential treatment programs may spend one or two dozen hours a week in therapy—albeit, mostly of the group variety.
+I can think of other exotic cases, like some DBT therapists’ willingness to offer on-demand coaching calls during crisis situations—with the crucial exception that in these situations, therapists are holding the frame zealously, jealous of their own time and mindful of the risks of letting patients get too reliant.
+So even under the most ideal of conditions, in which an LLM-based chatbot outmatches the best human therapists—attunes beautifully, offers the sense of being witnessed by a human with embodied experience, avoids sycophancy, and draws clear boundaries between therapeutic and non-therapeutic activities—there’s still a glaring, fundamental difference: that it’s functionally unlimited and unbounded...
+But all else equal: does infinite, on-demand therapy—even assuming the highest quality per unit of therapeutic interaction—sound like a good idea to you? I can tell you, to me it does not. First of all, despite detractors’ claims to the contrary, the basic idea of therapy is not to make you dependent for life—but rather, to equip you to live more skillfully and with greater self-awareness. As integration specialists famously say of psychedelics, you can only incorporate so much insight, and practice skills so effectively, without the chance to digest what you’ve learned over time.
+In other words, even in good old talk therapy, drinking from the hose without breaks for practice and introspection in a more organic context risks drowning out the chance for real change and practical insight. To my mind, this rhythm is the basic structural genius of psychotherapy as we know it—no matter the modality, no matter the diagnosis.
+Here is [more from Josh Lipton](https://marginalrevolution.com?action=user_content_redirect&uuid=b14000f772a626503c99dc70cf548cf0695d0f1e50c04fad43d144fee422f690&blog_id=42693868&post_id=92512&user_id=262258391&subs_id=225460721&signature=849fa5b6ff472f1ebfbd67dfd269a2b9&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly93aGl0bWFuaWMuc3Vic3RhY2suY29tL3AvdGhlLWhhcmQtcHJvYmxlbS1vZi1haS10aGVyYXB5&email_id=2c64e019fc789677ae99a1ca86d3e975).

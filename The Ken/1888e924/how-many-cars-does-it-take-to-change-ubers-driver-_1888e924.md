@@ -1,0 +1,19 @@
+---
+subject: "How many cars does it take to change Uber’s driver model? 10,000"
+from: "The Ken <info@the-ken.com>"
+to: ""
+date: 2023-06-06 02:38:51
+labels: ["CATEGORY_PERSONAL", "INBOX", "The Ken", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_8244464457792971031", "UNREAD"]
+---
+Good Morning Ishan,
+After the pandemic weakened ride-hailing, Uber is using the crutch of fleet-management companies, such as Everest, to come back into action in India.
+Today, Everest is the largest fleet manager with over 10,000 cabs. But it wasn’t even in this business until seven years ago; it used to make essential oils.
+Sensing an opportunity in ride-hailing, it decided to take the plunge in 2016. Its fleet has grown from 720 cabs in March 2020 to 10,450 cabs till date. Of this, 90%, or around 9,000 cabs, are exclusive to Uber in seven of India’s metropolitan cities—Mumbai, Delhi, Bengaluru, Pune, Hyderabad, Chennai, and Kolkata.
+Uber and Everest have found the relationship to be mutually beneficial. Everest gets to run its assets on a demand-heavy platform. Thanks to this, its revenues grew over 150X between 2019 and now. As for the cab aggregator, management of its cars has become much easier, and costs are under control. Uber is, in fact, deepening its ties with Everest as it looks to adopt electric vehicles.
+But in going down this path, the fundamentals of the ride-hailing business is set to change for Uber. The company risks ceding more control with respect to pricing to the fleet operator. Shaswata unpacks all this and more in today’s interesting read. [https://the-ken.com/how-many-cars-does-it-take-to-change-ubers-driver-model-10000/](https://the-ken.com/how-many-cars-does-it-take-to-change-ubers-driver-model-10000/?utm_source=daily_story&utm_medium=email&utm_campaign=daily_newsletter) (9-minute read)
+Regards,
+Arundhati
+[arundhati@the-ken.com](mailto:arundhati@the-ken.com)
+What you just read is the personalised daily introduction to The Kens story. Written by a different person each day. Often insightful, sometimes witty, and very rarely boring. Someone sent this to you? [Sign up for free](https://the-ken.com/?modal=register&utm_source=footer&utm_medium=email&utm_campaign=morning_email_ind). [Dont like these? You can unsubscribe](https://link.the-ken.com/asm/unsubscribe/?user_id=2349339&data=Xy0WL98ai1seHs4kpenv5TSfni3M_r1gcBOjHSu7aXZoMDAwdTAwMOAY05KSSMo-bR8HAHZiLp3Hint_g1iE-_EbkBeTvMXS6DyoslUwBLDBhj3UaDdgoe9jsBbIa-C2Aflq5wbYeOyE4-GHc6IqAFWCYfJ_DPIxIXp1ZL2OPhdd_c-AlqCBFJ9fVfXnHalyzo46UjlL5GNBxO-nIbffJZf1lw3i5bAjUL0CB-FEr5bQ56kOav5ZfJT669D5LYZzdNcry-XPQ2ykxzUacAb1SYxULISzpZoPusF-7JMf0xLjBGlVo4G3_A2nfRopuhuPhfVyvK-JI_ldq45qj70CwlevcsOZFapSOwMB0k2RxOK5_VkzYqV-Z3v-sE-Ngp3XVuqRlXyS-ObdGvKNU3OlNuNVsUtx9AjbbWxYuQWmUkrqxySDcl6O8W1qffpgtT8vVS07bqnJK454HEYNNLSPVlFDYorU5hy_ruAi2Vdv70-t02shtE4wOCDWVkNh1rBRXOrrFqZhGwqLokLn5jFyPbAPphVfz5nOrIhWu2e0ohUN1smsXNDCMOxozmoR4SvIz4FSxTqzADY=) Dont want to hear from us again? [ Unsubscribe from our emails here](https://link.the-ken.com/asm/?user_id=2349339&data=QUNgxdW9ldrMJhvTeWZjeXzlGfqSoY1-fI2yZuBxPDloMDAwdTAwME7YFiKmfxV9btCHXmRYdU_EFw2i-mJTJI_5UuizHLA2HrdZnd3RUatTrreh3xCgTId9vz6UMjEF-YUQD7uHcQaCecB-L_BKXGRp5Rf3PIJv9xgvBstf6rpCp_rcE4fX2-CW61qgKF95dwl0uVeo2KzGMXK8EfYnNbAtjAWHJ9qEeV_B2GVfhkf8Q02zJ88eY6jDB1jS-w_VrbcneeXloYiKpr0DRnbbhXcn6e0taz_XDVqS0IJMvTe1RwbCmYy55889H4eOrxnBwnLy7tNqmUARNcfFx3pL0b49S1uMwNZjzVogSqD_-Y_lvrAV0L2CyK1xCzCQ4j3X7XJso3lVwMj27EsXnuQdKe05e9IUnxOfD68A991YK7r7UCRKS3e04dCnucwh_6yl36xTDb4A7LXvdEi97CUTKDYKnZNKu1uA35xOHHaxfDOodHElm25VV274qyIl77KGukDnfX-aeXn3pfB-OXxBzPFJX93QAlayzPMO0yeMuHAkQFqzvS453g==).
+Something wrong? Tell us at [support@the-ken.com](mailto:support@the-ken.com)

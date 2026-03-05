@@ -1,0 +1,47 @@
+View this post on the web at https://threads.championswimmer.in/p/optimising-costs-to-enhancing-ux
+
+Imagine you build a hyperlocal delivery app (like Swiggy/Delivery Hero/Uber Eats etc). 
+The top level API response for a user typically is all stores around them, typically paginated (infinite scroll etc) with info like name, rating, a thumbnail, estimated ETA etc 
+At the top level response the information you show is a aggregated/derived from many deeper levels. For example - 
+Rating: this is avg cumulative rating, that is affected as more ratings come in 
+ETA: this might depend on time of day / traffic conditions and user's location
+Typically many of these large hyperlocal companies would have 10M daily active users. Each of whom open the app an average of 2~3 times a day, but 90% of it will be during peak time of day, hence you'll end up with say an API hit rate in the order of 1k to 10k rps
+Just running these services ….
+a ratings service, from which aggregated ratings for each store is picked
+an ETA estimation service, that has some simple deterministic models that factor in ToD and traffic levels
+a search service from where store listings can be queried
+…. can easily run you into cloud costs that are anywhere in the order of $1M to $10M a month.
+Now you realise that the road to profitability lies in reducing these costs by at least 75-90% (regardless of other things like removing discounts, stopping marketing etc)
+Thanks for reading system bashing! Subscribe for free to receive new posts and support my work.
+There's a lot of things you can look at, at this point.  
+Let's take an easy example. 
+If a store has 1000 reviews already, 1 new review will not change the avg rating (but it will for a store w/ 5 reviews) 
+So we can save the avg rating on the store object itself and update it only after a threshold (eg 10%) of new ratings for that store have been updated since last update. Or more simply - run a cron every day at low load time to update this info for all stores. 
+Want to reduce even more costs? Run the cron once every week instead.
+ETA calculation for listings is trickier. It is based on the distance of the store from *you*, the user. Hence the response is different for each user based on the lat/long in query parameter. 
+Also it changes based on traffic conditions in that area.
+What if instead of factoring in the whole lat/long to last digit of accuracy (of these 2 points which are both within Cubbon Park)
+12.9719304, 77.5916280
+12.9777639, 77.5972214
+You only read upto certain digits only
+12.97, 77.59
+That makes the responses a lot more cacheable 
+If someone from 1km radius around you made the API call few seconds back, you get to hit the cache. 
+Then to address the traffic conditions - of course for every 0.01 degree of lat/long grid - you can save a "traffic factor" for each square. 
+Update it every 1min
+So whatever we have been discussing so far - sounds a lot like typical "High Level Design" round discussions with a bunch of "engineering optimisation" discussions. 
+But in practice - this isn't just some technical decisions that leads us to design systems like this
+The answer to the question - do we use lat/long grids of 0.01° or 0.001° has a lot of implications.  
+It determines how accurate the ETAs for your user (and what is an acceptable approximation for your user experience)
+It also determines your cache offload and thus cloud costs
+You'll have to balance the user experience and the cloud costs and come up with an appropriate solution. 
+A CFO saying "idk anything, I won't allow more than 5000 cores for search service" is oblivious to the fact that horrible ETA calculations lead to low orders.
+A product manager saying "you cannot group ETA estimates for more than 50m radius" is oblivious to the fact that their job won't exist if the company doesn't turn a profit by next quarter
+And they probably don't have data about how much % ETA deviation causes what % order loss
+In my book it is all engineering. 
+Understanding the acceptable constraints of the user experience (eg. ETA deviation limit is 10%) is also much the responsibility of engineering as it is to understand the cost of running the system.
+In my book it is all engineering. 
+Understanding the acceptable constraints of the user experience (eg. ETA deviation limit is 10%) is also much the responsibility of engineering as it is to understand the cost of running the system.
+Thank you for reading system bashing. This post is public so feel free to share it.
+
+Unsubscribe https://substack.com/redirect/2/eyJlIjoiaHR0cHM6Ly90aHJlYWRzLmNoYW1waW9uc3dpbW1lci5pbi9hY3Rpb24vZGlzYWJsZV9lbWFpbD90b2tlbj1leUoxYzJWeVgybGtJam94TkRVMk16TXhPU3dpY0c5emRGOXBaQ0k2TVRNMU1UazRNelF3TENKcFlYUWlPakUyT0RrMk9ERTROVGdzSW1WNGNDSTZNVFk1TWpJM016ZzFPQ3dpYVhOeklqb2ljSFZpTFRNMU1qY3pNaUlzSW5OMVlpSTZJbVJwYzJGaWJHVmZaVzFoYVd3aWZRLm8wbVB0RmZWSEZubWpXYTdkc1lhNzJ2QzBHek5qQzhzdlBJeFBJX2FkMTgmZXhwaXJlcz0zNjVkIiwicCI6MTM1MTk4MzQwLCJzIjozNTI3MzIsImYiOnRydWUsInUiOjE0NTYzMzE5LCJpYXQiOjE2ODk2ODE4NTgsImV4cCI6MTY5MjI3Mzg1OCwiaXNzIjoicHViLTAiLCJzdWIiOiJsaW5rLXJlZGlyZWN0In0.L3gjqLxR--W8qyNYxXxGLzBYhBf-QqcG9dei_yFknk8?

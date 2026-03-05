@@ -1,0 +1,12 @@
+---
+subject: "Wednesday assorted links"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2025-03-26 15:16:41
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+1. [Inaccurate beliefs about skill decay](http://marginalrevolution.com?action=user_content_redirect&uuid=7cc8730091d26905dea9b73e3c62aa670647fc4b34e9f921b537253347508c9b&blog_id=42693868&post_id=90316&user_id=262258391&subs_id=225460721&signature=16fa8b9441e9150a1156d10d58b343b6&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly9wYXBlcnMuc3Nybi5jb20vc29sMy9wYXBlcnMuY2ZtP2Fic3RyYWN0X2lkPTQ5MTY0MTI&email_id=ef20e8eb5ebbbafb36980cf854c420bd). George Loewenstein papers have been quite good historically...
+2. [New Dwarkesh book with Stripe Press, an oral history of AI](http://marginalrevolution.com?action=user_content_redirect&uuid=bc96f53753c425cec1fcdffb68c32e99d6221e2c37c1f130af6f5118bdcfa794&blog_id=42693868&post_id=90316&user_id=262258391&subs_id=225460721&signature=7311bd3ccc053faa06a8f60e81dc893d&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly94LmNvbS9kd2Fya2VzaF9zcC9zdGF0dXMvMTkwNDU1MTQxMDIxOTUyNDIxOA=&email_id=ef20e8eb5ebbbafb36980cf854c420bd).
+3. [New Alice Evans paper on the global Islamic revival](http://marginalrevolution.com?action=user_content_redirect&uuid=741f34cfac753f01ad2a84d4ab6d1deb8770d34bbd2da5d288944fcf1073118d&blog_id=42693868&post_id=90316&user_id=262258391&subs_id=225460721&signature=4f5a00b393605c5b18e62fe1c5ed213c&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xbG5sS2NlTjRlOWtQdlBfTmlEazI2XzlDQUVsYy1SUVkvdmlldw=&email_id=ef20e8eb5ebbbafb36980cf854c420bd).
+5. [2025 color stats](http://marginalrevolution.com?action=user_content_redirect&uuid=333956915e1dbdac064f6861be688fb55e19250ebc6f39a557a8d12d529d8af4&blog_id=42693868&post_id=90316&user_id=262258391&subs_id=225460721&signature=0427227b54197d356fd0cd232a87ab2a&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly9zYXJhaGNvbnN0YW50aW4uc3Vic3RhY2suY29tL3AvZncyNS1jb2xvci1zdGF0cw=&email_id=ef20e8eb5ebbbafb36980cf854c420bd).

@@ -1,0 +1,33 @@
+---
+subject: "Learn to code React [free 12-hour JavaScript course]"
+from: "Quincy Larson <quincy@freecodecamp.org>"
+to: ""
+date: 2022-01-14 19:45:10
+labels: ["CATEGORY_PERSONAL", "INBOX", "Quincy"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_7697778124671848699"]
+---
+Here are this week's five links that are worth your time:
+
+1. React is a popular JavaScript front end development library. This course will teach you React for beginners. Learn about props, state, async functions, JSX, and more. Along the way, you'll build 8 real-world projects, and solve more than 140 interactive coding challenges. (12 hour YouTube course): https://www.freecodecamp.org/news/free-react-course-2022/
+
+2. Learn to solve 10 of the most common coding job interview problems. You'll learn classics like Valid Anagram, Minimum Window Substring, Kth permutation, and Largest Rectangle in Histogram. (2 hour YouTube course): https://www.freecodecamp.org/news/10-common-coding-interview-problems-solved/
+
+3. Code your own Instagram clone full-stack Android app. You'll learn how to use Flutter for coding the native app and user interface. You'll also learn how to use Firebase for your database and authentication. You can sit back and watch or code along at home using the codebase repository on GitHub. (7 hour YouTube course): https://www.freecodecamp.org/news/code-a-full-stack-instagram-clone-with-flutter-and-firebase/
+
+4. If you want to expand your Machine Learning skills in 2022, Manoel has you covered. He dug through tons of course data to find 10 publicly accessible university courses that will teach you key topics from the ground up. (25 minute read): https://www.freecodecamp.org/news/best-machine-learning-courses/
+
+5. How do file systems work? This in-depth article will give you a solid understanding. You'll learn about partitioning schemes, system firmware, booting, and the computer science concepts that underpin them. (45 minute read): https://www.freecodecamp.org/news/file-systems-architecture-explained/
+
+2022 is just getting started. If you want to hit the ground running, you should take my Become-a-Developer New Year's Resolution Challenge. So far more than 1,000 people have committed to the challenge, which will involve about 30 minutes of learning each day for the next 3 months. No pressure 🙂 https://www.freecodecamp.org/news/2022-become-a-dev-new-years-resolution-challenge/
+
+
+Quote of the Week: “There is no such thing as 'zero-config' software. It's just someone else's hard-coded settings.” — Jordan Walke, creator of React
+
+Happy coding.
+
+- Quincy Larson
+
+Teacher at https://www.freecodecamp.org
+I share useful things on Twitter at https://www.twitter.com/ossia
+
+If these emails aren't worth your time, you can turn them off: https://www.freecodecamp.org/ue/eZV2T3gHC7IGcwcpYPG64

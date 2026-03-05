@@ -1,0 +1,23 @@
+---
+subject: "Paytm wants to know: where are the merchants without QR codes?"
+from: "The Ken <info@the-ken.com>"
+to: ""
+date: 2023-12-22 02:35:04
+labels: ["CATEGORY_PERSONAL", "INBOX", "The Ken"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_8244464457792971031"]
+---
+Good Morning Ishan,
+When the story of India’s runaway success with the Unified Payment Interface (UPI) is written, the foot soldiers of this digital-payment revolution might remain unsung. After all, who really remembers cogs in wheels? That would be a sad omission.
+For without this nearly 70,000-strong army of field agents, the flywheels of fintech giants like Paytm, Phonepe, and Bharatpe, and by extension, that of the UPI could not have taken off.
+Thanks to these agents pounding the pavement across the length and breadth of India, the country already has over 300 million QR codes slapped across millions of businesses—from big stores to small street vendors.
+But these crucial last-mile connectors, including those of market leader Paytm, are now feeling the heat. The intensely competitive market for QR codes is almost saturated. Most merchants sport several of these. So, agents—tasked with ensuring that merchants choose their fintech’s platform—have been hustling and taking the battle to new grounds. Payment soundboxes and merchant loans.
+It’s tough in these trenches, though. Unlike QR codes, the new products cost merchants money, and they don’t like this too much. That’s taking a toll: agent attrition is shooting up. A complex remuneration design—low pay, stiff targets, and strict docking rules—doesn’t help either.
+But does the fintech field force have a choice? What stops them from leaving for greener pastures?
+Gaurav Noronha finely chronicles the contributions, challenges, and constraints of these little-spoken-about soldiers of Indian fintech in today’s story. Find out here: [https://the-ken.com/story/paytm-wants-to-know-where-are-the-merchants-without-qr-codes/](https://the-ken.com/story/paytm-wants-to-know-where-are-the-merchants-without-qr-codes/?utm_source=daily&utm_medium=email&utm_campaign=daily_newsletter) (8-minute read)
+Thanks,
+Anand
+[anand@the-ken.com](mailto:anand@the-ken.com)
+(*Paytm founder Vijay Shekhar Sharma is an investor in The Ken)
+P.S.: The Ken is conducting a [survey](https://theken.typeform.com/editorial2023) on what employees and employers want from each other in the new year. 2023 has been hard for both, and this survey’s intent is to gauge the top issues on employees’ and employers’ minds. The findings, we hope, can serve as a guide for both as we head into 2024. This survey is anonymous, so please do spare a few minutes to [take it](https://theken.typeform.com/editorial2023). We’ll publish the results on 1 January, 2024. Stay tuned!
+What you just read is the personalised daily introduction to The Ken's story. Written by a different person each day. Often insightful, sometimes witty, and very rarely boring. Someone sent this to you? [Sign up for free](https://the-ken.com/?modal=register&utm_source=footer&utm_medium=email&utm_campaign=morning_email_ind). [Dont like these? You can unsubscribe](https://link.the-ken.com/asm/unsubscribe/?user_id=2349339&data=hvWk2GUfxyCYB0JvIN_hdrv4zo5ZJwOueY_1b8J3sR9oMDAwdTAwMI0eaWd8FD43LbBAv5uij0-yIHyPxjzRvW4vTApTrhfDgU0MqwmwYvrAkjd4mmDAn8oXynmWMveKBR7oCL4SmJSjEr_GSmuyGrCQ9W4-Ir3vWw2oT3ov-xM6oTqfEriVI_N5S7QGOiY8p8SaxZGxpBeBxc73ZrY4dAhMQRLUpZGB56qFdCh_enMDy7b3gtNPf5ZoBT-uMO5TMGmBoLm3g0wtyK_trLK9YsooJP53cLC72J_X5Z46mYXyKxO1Pnr3P7uB1G0q-YmKSa1oDYSTZa7fCqbsVcwJ818WkSn5UV5s4lt4jdeMXyvTJq_WN25UoedABA8BsfnwrQ_is2iBlU4p31ptM6nXBr9l_9I5-v6gJsf9rqQ_ynnIFNXoTabQf05A0cor8nKynMItSHEBR_8bpUalFu5Z4ySEOH7AwK59fgwzY91FKuVAjulNdYkDkFa7DPlgd99zCgzEqT39AL8mUQk5Bi5OIxNZ9JnMsD7IjLZkkrALq6YCbRCZ6gyrrCdPuI9_EWIea2yY_Od6NPo=) Dont want to hear from us again? [ Unsubscribe from our emails here](https://link.the-ken.com/asm/?user_id=2349339&data=cB-NQw83dBJDwAcvuv40st271JCjH9jrOkjic7yeJQdoMDAwdTAwMG524Vg4Z10oLGXxNvF4P5zW3a3XJXlg1aPae2FdASsaYCigBvKkg-IUPdSYC-c2DlaCzgCsL1BErvT5c391BBu11xqjVRfStfsI9e7UBxtF178HTSUDZgeJg-DFedN2lDCrv_5HbwKGyzxPwadA0PLPAY4UMWTlhoMwNUVS7HWCBaltxe_Kr29U0M9Lf2jidgCADGb_XrbydIW4Bz6lnwtxvFJjhzCPPbBZRWyE9DPcwNhNFkJfYzl2G-EYtRtgMtA4QHFEnUbUwpBNMg40QpiPXYsbuEUJeNRF896PmPb_qib0rtR1mn2xI0530U3lmfpFbIU1Zwoiu3Cn21cWprYRToae5T8L-aQFagGBfPPbTEhD4gTHaE8T_oCmVuGmHulLunDtDHQuShsXTyCVkP7kle9kNHXHTJB0dTHGgcbgsqXnZ0QDsRshmYhODLDJrGhC-2KPpLC3KzXr52BA-i-a9DzhlDtiyD2czKZmCgaSk78eaedIrt7CjA0uqPzSBg==).
+Something wrong? Tell us at [support@the-ken.com](mailto:support@the-ken.com)

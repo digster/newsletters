@@ -1,0 +1,10 @@
+---
+subject: "What should I ask Gaurav Kapadia?"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2025-09-30 19:27:40
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+Yes, I will be doing a Conversation with him. He is a tried and true New Yorker like few others, a very successful investor, an art collector, and he is on the board of the Whitney Museum. And more. Here is [Google on Gaurav Kapadia](http://marginalrevolution.com?action=user_content_redirect&uuid=f9a62cdd5b02d9b4ccc15dd5881f1ba3e52eb773ce259292c86e3cb4e68a4559&blog_id=42693868&post_id=91580&user_id=262258391&subs_id=225460721&signature=7986ad5b2a6fa18b82dca4f01156df90&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS9zZWFyY2g/cT1nYXVyYXYra2FwYWRpYSZzY2FfZXN2PWYzODI2YTMwMTdmNWM4MDEmc291cmNlPWhwJmVpPXhTM2NhT2FxR3JDZjVOb1A0Skwxa0FnJmlmbHNpZz1BT3c4czRJQUFBQUFhTnc3MVhZeG9VenBOTlA1eUpPVE8xaDFOSHVnUENuNiZ2ZWQ9MGFoVUtFd2ltb2FmTG1vR1FBeFd3RDFrRkhXQkpIWUlRNGRVRENCbyZ1YWN0PTUmb3E9Z2F1cmF2K2thcGFkaWEmZ3NfbHA9RWdkbmQzTXRkMmw2SWc1bllYVnlZWFlnYTJGd1lXUnBZVElGRUFBWWdBUXlCUkFBR0lBRU1nVVFBQmlBQkRJRkVBQVlnQVF5QlJBQUdJQUVNZ1VRQUJpQUJESUZFQUFZZ0FReUJSQUFHSUFFTWdVUUFCaUFCRElGRUFBWWdBUklfaFJRQUZqcUVIQUFlQUNRQVFDWUFVMmdBZU1HcWdFQ01UUzRBUVBJQVFENEFRR1lBZzZnQXFzSHdnSU9FQUFZZ0FRWXNRTVlnd0VZaWdYQ0Fnc1FBQmlBQkJpeEF4aURBY0lDRVJBdUdJQUVHTEVER05FREdJTUJHTWNCd2dJT0VDNFlnQVFZc1FNWTBRTVl4d0hDQWdzUUxoaUFCQml4QXhpREFjSUNDQkF1R0lBRUdMRUR3Z0lJRUFBWWdBUVlzUVBDQWcwUUxoaUFCQml4QXhpREFSZ0t3Z0lGRUM0WWdBVENBZzBRTGhpQUJCaXhBeGpVQWhnS3dnSUhFQUFZZ0FRWUNzSUNFQkF1R0lBRUdMRURHTkVER01jQkdBckNBZ29RQUJpQUJCaXhBeGdLd2dJT0VDNFlnQVFZeHdFWWpnVVlyd0dZQXdDU0J3SXhOS0FIaVpJQnNnY0NNVFM0QjZzSHdnY0lNQzR4TUM0ekxqSElCek0mc2NsaWVudD1nd3Mtd2l6&email_id=151c16227957af5d7c2a7128f844c44b).
+So what should I ask him?

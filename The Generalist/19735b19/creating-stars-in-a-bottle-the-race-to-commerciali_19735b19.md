@@ -1,0 +1,62 @@
+---
+subject: "Creating Stars in a Bottle: The Race to Commercialize Fusion Energy | Vinod Khosla & Bob Mumgaard"
+from: "The Generalist <thegeneralist@substack.com>"
+to: ""
+date: 2025-06-03 12:03:09
+labels: ["CATEGORY_PERSONAL", "INBOX", "The Generalist", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_8815311452832858585", "UNREAD"]
+---
+|
+[Brex](https://substack.com/redirect/e05cc579-72a0-430e-b6e0-48948f2e9cc5?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o): The banking solution for startups.
+[Generalist+](https://substack.com/redirect/13e56278-a0d3-420d-aab7-5ab65fc4e796?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o): Essential intelligence for modern investors and technologists.
+While the world fights over chips, one company is building the power supply to run them all. In this episode of The Generalist, I'm joined by Bob Mumgaard, CEO and co-founder of Commonwealth Fusion Systems (CFS), and Vinod Khosla, legendary venture capitalist and founder of Khosla Ventures. With over 800 employees and $2 billion in funding, CFS has accelerated the timeline for commercial fusion from being perpetually "30 years away" to potentially just a few years out. If CFS succeeds, it will unlock limitless clean energy for humanity, powering everything from AI to water desalination.
+In our conversation, we explore:
+How fusion could transform everything from AI to water desalination and agriculture
+The fundamental science behind fusion energy and how it differs from traditional nuclear fission
+The breakthrough in magnet technology that changed the timeline for fusion
+The strategic approach of partnering with existing power plant operators to rapidly scale fusion deployment
+Why fusion is essential for powering AI and other energy-intensive innovations
+CFS’s method for creating fusion using magnetic fields
+The final hurdles to completing SPARC, the company’s demonstration reactor
+The six-stage roadmap for fusion development, where CFS currently stands, and when they expect to begin delivering power to the grid
+What clean energy could make possible for future technologies and industries
+The geopolitical implications of a world with abundant clean energy
+Much more
+([00:00](https://substack.com/redirect/7e661706-0c4f-4430-a634-55677714c334?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) Intro
+([04:13](https://substack.com/redirect/5881e62c-51f3-476d-9087-e5c1e8c7d8aa?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) An overview of fusion energy, and why it’s so important
+([08:23](https://substack.com/redirect/dd379e2e-7708-40e7-bede-a08e3a7471b0?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) The connection between AI and fusion energy
+([10:20](https://substack.com/redirect/bbce129d-a510-41b2-9858-6c5d836d03c2?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) How Bob became interested in fusion
+([13:06](https://substack.com/redirect/3a32b144-8bed-4a6a-a3a8-b2b50e57b723?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) The importance of entrepreneurs in bringing crazy ideas to life
+([14:55](https://substack.com/redirect/16dc5be2-b1e3-4657-8586-64c90e5958c8?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) The advancement in magnets that caused the leap in fusion technology
+([17:33](https://substack.com/redirect/477fab03-c23e-4b36-a8d0-09d5428437e9?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) The extreme conditions required for fusion
+([19:46](https://substack.com/redirect/3a88075d-5725-444b-8c2a-3449cd87f11d?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) What made Vinod interested in funding CFS
+([21:30](https://substack.com/redirect/d5fb592b-3308-4ab9-adfb-b99ffe8d4dd7?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) The alternatives that CFS looked at if the magnet hadn’t worked
+([25:18](https://substack.com/redirect/6f30d7de-3d0a-4901-8454-803dbe311ab4?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) Different methods for creating fusion
+([27:43](https://substack.com/redirect/5a4ad8cb-8f72-4eee-a9aa-0c50d2a3fcfa?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) Bob’s entrepreneurial lens for fusion at scale
+([31:52](https://substack.com/redirect/7e712805-d4e1-4e15-96e6-d438c87df91e?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) CFS’s strategy of partnering with existing power infrastructure
+([35:32](https://substack.com/redirect/618b2bee-78d7-47bc-8f7f-8197cb91e1b3?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) An overview of ARC and SPARC
+([40:03](https://substack.com/redirect/33c1799a-2483-4a35-91eb-6b0c581d8814?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) Final hurdles to complete SPARC
+([42:29](https://substack.com/redirect/0a4da96c-1e68-4e6f-b5fd-6812955be49f?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) The six-stage roadmap for fusion development
+([46:11](https://substack.com/redirect/4803c35b-d56e-4ca5-a0d7-870f0adebe46?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) What clean energy unlocks
+([48:06](https://substack.com/redirect/91ed3a23-4633-4211-8b30-42f586c5716e?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) Entrepreneurial opportunities for supporting fusion power
+([50:43](https://substack.com/redirect/a2b64386-81e3-4af9-a096-3c86d03b235c?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) Final meditations
+LinkedIn: [https://www.linkedin.com/in/vinod-khosla-65387416/](https://substack.com/redirect/6f933192-093c-4bfc-94c6-2f4b037d3e85?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+LinkedIn: [https://www.linkedin.com/in/mumgaard/](https://substack.com/redirect/467b7f12-0d70-4ddb-bb12-1e263cd7dbb1?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+Unweaving The Rainbow: Science, Delusion and the Appetite for Wonder:
+[https://www.amazon.com/Unweaving-Rainbow-Science-Delusion-Appetite/dp/0618056734](https://substack.com/redirect/b08528b0-8bfb-4cb8-97ba-b086774c58b7?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)The Intel Trinity: How Robert Noyce, Gordon Moore, and Andy Grove Built the World's Most Important Company:
+[https://www.amazon.com/Intel-Trinity-Robert-Important-Company/dp/0062226762](https://substack.com/redirect/24e5583d-5f34-4669-a926-3b5e5a0d6cce?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+Elon Musk on X:
+[https://x.com/elonmusk](https://substack.com/redirect/55148411-d1e2-4227-8216-71a77d2bfc17?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+Commonwealth Fusion Systems:
+[https://cfs.energy/](https://substack.com/redirect/5d482749-ab05-4c5b-963c-371ec76751e7?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)Sun Microsystems:
+[https://en.wikipedia.org/wiki/Sun_Microsystems](https://substack.com/redirect/6c51f9ff-31ec-4811-ae87-d45510d7abde?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)OpenAI:
+[https://openai.com/](https://substack.com/redirect/66082399-e7b6-4560-ba1b-6b6a21cb22db?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)Moore’s Law:
+[https://en.wikipedia.org/wiki/Moore%27s_law](https://substack.com/redirect/56f8cd6f-05b5-4ae7-9b21-30c6d59a76c3?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)The Hunt for Red October:
+[https://www.imdb.com/title/tt0099810/](https://substack.com/redirect/cd1b11be-d596-4f6c-b9c1-2de389335057?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)Magnetohydrodynamic drive:
+[https://en.wikipedia.org/wiki/Magnetohydrodynamic_drive](https://substack.com/redirect/ec077208-81b2-46fb-9fe6-f8604e54da5e?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)ITER:
+[https://www.iter.org/](https://substack.com/redirect/83de95d6-2431-448b-84de-d5777d4ed9e5?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)ARC: Putting fusion energy on the grid:
+[https://cfs.energy/technology/arc](https://substack.com/redirect/9a20fb2d-3ec5-417a-b529-5915e1ab2cc9?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)SPARC: Proving commercial fusion energy is possible:
+[https://cfs.energy/technology/sparc](https://substack.com/redirect/3a57bfde-9ad9-497a-a1b4-c6b37e6ad9d5?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+I’d love it if you’d subscribe and share the show. Your support makes all the difference as we try to bring more curious minds into the conversation.
+Production and marketing by [penname.co](https://substack.com/redirect/b12514d7-3834-4b7d-b6c1-6092b5152623?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o). For inquiries about sponsoring the podcast, email jordan@penname.co.
+You're currently a free subscriber to [The Generalist](https://substack.com/redirect/35d7440d-cda3-4121-8aae-e0fa4e95d853?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o). For the full experience, [upgrade your subscription.](https://substack.com/redirect/2/eyJlIjoiaHR0cHM6Ly93d3cuZ2VuZXJhbGlzdC5jb20vc3Vic2NyaWJlP3V0bV9zb3VyY2U9cG9zdCZ1dG1fY2FtcGFpZ249ZW1haWwtY2hlY2tvdXQmbmV4dD1odHRwcyUzQSUyRiUyRnd3dy5nZW5lcmFsaXN0LmNvbSUyRnAlMkZjcmVhdGluZy1zdGFycy1pbi1hLWJvdHRsZSZyPThvNTRuJnRva2VuPWV5SjFjMlZ5WDJsa0lqb3hORFUyTXpNeE9Td2lhV0YwSWpveE56UTRPVFV5TlRFMExDSmxlSEFpT2pFM05URTFORFExTVRRc0ltbHpjeUk2SW5CMVlpMHhOVGMyTkNJc0luTjFZaUk2SW1Ob1pXTnJiM1YwSW4wLkx5ZFl3ZGludFFsUzVJclYwcTltUHVzRmhCa3UzdFRMbnlxN3c3R1c5cGsiLCJwIjoxNjQ2NjI1OTEsInMiOjE1NzY0LCJmIjp0cnVlLCJ1IjoxNDU2MzMxOSwiaWF0IjoxNzQ4OTUyNTE0LCJleHAiOjE3NTE1NDQ1MTQsImlzcyI6InB1Yi0wIiwic3ViIjoibGluay1yZWRpcmVjdCJ9.X9fJf9daUuSgx-MiouLkJmVR1pNP2bcbcmaEq1ff_bc?&utm_source=substack&utm_medium=email&utm_content=postcta)

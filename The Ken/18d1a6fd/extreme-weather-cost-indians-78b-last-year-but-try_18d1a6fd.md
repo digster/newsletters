@@ -1,0 +1,21 @@
+---
+subject: "Extreme weather cost Indians $7.8B last year. But try buying insurance for that"
+from: "The Ken <info@the-ken.com>"
+to: ""
+date: 2024-01-18 02:39:13
+labels: ["CATEGORY_PERSONAL", "INBOX", "The Ken", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_8244464457792971031", "UNREAD"]
+---
+Good Morning Ishan,
+Natural disasters like earthquakes, floods, heatwaves, and landslides occur more frequently than we might realise. From January to September 2023, India faced extreme weather events for 235 out of 273 days, resulting in a significant loss of lives and homes.
+Adding to the concern, the Earth’s temperature is rising, increasing the likelihood of more disasters. With the previous year being the hottest on record, 2024 is expected to be even warmer.
+This situation is causing financial stress for insurers in India. Projected insurance losses from extreme weather events in 2023 alone are estimated to be over Rs 20,000 crore ($2.4 billion).
+To address this challenge, some experts are considering parametric insurance, writes Nathan in today’s feature. It’s a niche product that, unlike traditional insurance policies, comes with predefined payouts based on trigger events like climate-related calamities.
+However, this approach has many obstacles: lack of required data, hefty upfront costs, and expensive premiums. And it is leaving corporate and government clients in a real quandary.
+Can Indian insurers adapt to this changing landscape, or will they struggle in the face of rising temperatures? Find out in this fascinating read: [https://the-ken.com/story/extreme-weather-cost-indians-7-8b-last-year-but-try-buying-insurance-for-that/](https://the-ken.com/story/extreme-weather-cost-indians-7-8b-last-year-but-try-buying-insurance-for-that/?utm_source=daily_story&utm_medium=email&utm_campaign=daily_newsletter) [7-minute read]
+Regards,
+Shravanth
+[shravanth@the-ken.com](mailto:shravanth@the-ken.com)
+P.S: If you are a recruiter experienced in B-school campus hiring, we want to hear from you. What recruiters want is a question on almost every student’s mind, but one they know very little about. The findings of this survey will be published on January 23rd in the eighth edition of Day Zero, The Ken’s weekly newsletter about this year’s high-stakes B-school placement season . Take the survey [here](https://theken.typeform.com/MBArecruiters).
+What you just read is the personalised daily introduction to The Ken's story. Written by a different person each day. Often insightful, sometimes witty, and very rarely boring. Someone sent this to you? [Sign up for free](https://the-ken.com/?modal=register&utm_source=footer&utm_medium=email&utm_campaign=morning_email_ind). [Dont like these? You can unsubscribe](https://link.the-ken.com/asm/unsubscribe/?user_id=2349339&data=40kJIQUFxmVcDfvRH_Nf690ZSJsUYjXg09XNj8Il_LxoMDAwdTAwMHmYTuQFtoZwQpe0sTe01wgdC2mfJhDWvfSDgSqnxju45ZuK0q0u4CC4ErRhK0AQvAg0YdTQWLXO6mZOAm6UyQXiIE7lDW6N15bH4FBdRQXRo82ZRYwDxEZeeoPviWCJf-u4PNMHud15CddJfCGmQxcWjP5bXxoJDgnmDvP8g8Glxk76LLw2c52rc1A3puOezUXxiCMsmwrozONcvXd56-4okyXZdA0TCAiveIOjjEgnCZByQAlI5beCUebdFB0ow4oiYuH5vNDmv08CRtEFrHUt05NSlYncnHsMytrK4G-8vOIFIM-KVgqzn_whmnZveRrLPPsZYV294H3V1bwbvLk_1CdXk_p1WliwY-iurmd9x6JFxDJdXqnNb00EOFNhoCTAetSBjHS3WqmrzSRKdI05i-yKHRbQg3YBfDJPtvSTDRJWr29NpQmhse5UKdKvB7g-DRDSr1lTVPaGdh1gXj4DEYr_RMuAPElCZ7ZZApEVPS_qiKKO0FT2_SBuUdIf7BbRBcaKnTUX07o-_DAn0GY=) Dont want to hear from us again? [ Unsubscribe from our emails here](https://link.the-ken.com/asm/?user_id=2349339&data=z-HFqYd8wfA9sSVaUEfvh5XhbtbZnpvk5QivUFiDmSJoMDAwdTAwMLO2IJir3GSUs2cC_PIPE_hw3y978J2Kn0_ZoBel-J5sxvFh9a0oi43CbUt5eHhdJYJ-6Jf9eqVEbZp5w9UFXDNPSSZwrTNT28A9cqUfhAytkOkdrfQEC3ge6UQYxAXFL5s_1RFnRxMB7RJE6bYZSiTCPD1L6EjBvjWpSQorQKOhhscyS5ZDVajPFBJxUdYJdtV16LLYYUZiFDmsy9L3m4cXTTir6vXu7yJ6OKAB9TQcQCqZ3SxymaY_TqnYZsi5Uehab7pK-F0eIkfC2sjn7pwmiii2AiGZcp-2vLaa0SPz5aEdAYpHtuP_dbPXbcQB7UyOu3n567WcRlah2hl9AgbluLTEtBl9YPDYq2PSK1deV_PrLkMgZIy-nLi34wTuInX8UqSRpXS0w0gPe7h4byCGOS8OICRoyIGFLb90O3k8FZBREbW1pAC5iUKfSanLvHe0bCDeIBZGUIGKzZE2hf29Wxtv7IcpT1Rfx7-c2OoF3vBAgYJ64XlgiqDvVJrDdw==).
+Something wrong? Tell us at [support@the-ken.com](mailto:support@the-ken.com)

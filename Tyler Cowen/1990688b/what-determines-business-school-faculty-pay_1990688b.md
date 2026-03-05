@@ -1,0 +1,10 @@
+---
+subject: "What determines business school faculty pay?"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2025-09-01 18:27:26
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+We examine the determinants of business school faculty pay, using detailed data on compensation, research, teaching, and administrative service. We estimate that a top-tier journal publication is worth $116,000, with significant variation across disciplines. Second-tier publications are worth one-third as much, and other publications have no impact. Further analysis of salaries and cross-discipline publication records suggests that researchers are compensated based on the journals they publish in rather than the departments they belong to. Conference presentations and teaching evaluations have significant but smaller effects than top-tier publications. Faculty administrators earn a premium, with department chairs receiving 11-35% and deans 58-94%. Post-Covid-19, real faculty pay has fallen more than in comparable fields and the sensitivity of pay to research performance has weakened.
+That is from [a new paper](http://marginalrevolution.com?action=user_content_redirect&uuid=4d6161f71a44ff9b15a1714e2c40edef9c6fe8fdb315847589ffb0fd43fabdb7&blog_id=42693868&post_id=91367&user_id=262258391&subs_id=225460721&signature=8aa1b2a4c42aa72c692d874985f9d32a&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly9wYXBlcnMuc3Nybi5jb20vc29sMy9wYXBlcnMuY2ZtP2Fic3RyYWN0X2lkPTUzODQ3MDY&email_id=6b936a4d0effd4c73ba62c3b55eaf0da) by Michelle Lowry, Daniel Bradley, April M. Knill, and Jared Williams. Via [Arpit Gupta](http://marginalrevolution.com?action=user_content_redirect&uuid=2e126ed90942fd451093b684958766f3cc73c5196ac76eaf49ea5f4f5a60ec12&blog_id=42693868&post_id=91367&user_id=262258391&subs_id=225460721&signature=7144238438d93f2e1b35e1d6d93fb084&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly94LmNvbS9hcnBpdHJhZ2U&email_id=6b936a4d0effd4c73ba62c3b55eaf0da).

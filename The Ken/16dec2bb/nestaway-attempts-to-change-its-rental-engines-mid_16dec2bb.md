@@ -1,0 +1,15 @@
+---
+subject: "Nestaway attempts to change its rental engines mid-flight"
+from: "The Ken <info@the-ken.com>"
+to: ""
+date: 2019-10-21 02:35:48
+labels: ["CATEGORY_PERSONAL", "INBOX", "The Ken"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_8244464457792971031"]
+---
+As long as human beings need a house to live in, rentals will always be a massive market opportunity in any country. A 2017 estimate placed the residential rental market in India at roughly $17 billion annually, projected to rise to $41 billion by 2023.
+Nestaway, headquartered in Bangalore and established in 2015, was one of the first companies to go after this market in a structured way. Aided by over $100 million in venture capital cumulatively, it offered a simple but potentially disruptive offering - a “no-hassle” rental platform where homeowners put up their properties on one side, and individual customers rent it out from the other. In a country where tenants pay 8-10 months worth their monthly rental as an interest-free "security deposit”, Nestaway asked for just 2 months. And took on the responsibility for maintenance and repairs, too.
+Sadly, that model isn’t working. Nestaway’s business model required the economies of scale provided by dense and clustered apartments, but that didn’t materialise. It required an occupancy rate of 90%, but current estimates peg that around 65%. Even its disruptive 2-month security deposit is at risk of becoming the national norm, as a proposed new tenancy act caps deposits at 2 months.
+So, Nestaway is subtly pivoting towards the current rental flavour-of-the-month among investors: co-living. In 4 months, it has aggregated over 10,000 rooms under its new brand, The Hello World (THW). But other competitors are already entrenching themselves. Both Softbank-funded OYO and Zolostays claim to have over 30,000 rooms.
+Vandana does a great job of balancing Nestaway’s past (4 years in the life of a fast-growing VC-funded startup is often like 10-15 years for others), its present and its possible futures. Do read her story: [https://the-ken.com/story/nestaway-testing-times/](http://link.the-ken.com/uni/wf/click?upn=HQSq6eeRV1xAVaGuFOahuNCZVVXPeP-2FJpSqxhvIUDrlLx5ub-2BpeiYZ9T5i-2B2JzmGvomJeT4e61hcjZ7cshaPAujAWh3Xw9pVYJ-2Bop0DqJuJBX5z8HOtbuwPl3tj-2FihYfPTNUNh2AAarkH-2BCkUqpfb-2BHEhM80q45I4jbZTDFzJjU-3D_S4jLOsNx-2Fv6Jev2nvow8b7P9pBCWGd8KNZfb200gkZLQNlXQHio0noZzXtsWoloZmPWeyZsh7a4QCV9ufwCUKi00jlBT0uEdvwYDMuVuqcMcg0VXA7gQxQ0t3cRYI-2Bta9zhgjvdsc92CZMqelBy12LZpszBUc2iUG3YxOvTtoXjF3bShI1H6zSpmAOQa-2BFlHwS1sBr-2BADuAw9BAYYWzNpXEfmu-2Fb3B3jh8I7tVBmg3gL-2Bpi-2FduowF-2FtEhiFTswBSaLdimFO-2BwFRQsdIrx2AkBTMwhZ2P-2FBWxhWDH6wt00vXX4CFFYoNPIYbBPY96wyQnRfm7FHnicFYJ1CKYMj-2FtQe4lqRzhgJbTlcCdjKvGeUtKW24iX78tkeNfl2MmLKZWCsNPiuCDEseiBk2Q7CfZ-2BRff-2Brx13llmF77DZSROkII-3D)
+Sincerely,
+Rohin Dharmakumar

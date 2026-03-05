@@ -1,0 +1,10 @@
+---
+subject: "The Rimowa Edition"
+from: "\"Why is this interesting?\" <whyisthisinteresting@substack.com>"
+to: ""
+date: 2023-05-23 10:01:34
+labels: ["CATEGORY_PERSONAL", "INBOX", "UNREAD", "WITI"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "UNREAD", "Label_5752899537867939131"]
+---
+Colin here. I was scrolling through a newsletter on the weekend, and a Rimowa ad caught my eye. Instead of the idealized, luxury product photography we would expect from an LVMH-owned brand, this one showed a Rimowa case complete with dents and imperfections. Scrolling through the microsite, they hammer home the value proposition: “guaranteed for a lifetime of memories” and assert that “Every dent, scratch, and sticker tells a story.” Why is this interesting? The highly strategic piece of communication does two things at the same time. It reinforces the fact that you can have your cases repaired and that the brand has the infrastructure to maintain its brand pledge. But on the other hand, it softly conveys that it is cooler to have a case with scratches, dings, and scuffed stickers from long-lost locales. As with many things, the patina is part of the story. Many long-time consumers of Rimowa get this fact, but it is interesting to see the consumer education they have to be doing as the brand seeks to recruit a new wave of consumers, many of whom want everything to be in perfect shape. Their mini manifesto calls every Rimowa “a story, a blank page, awaiting the next adventure.” They are leaning into the emotional side of travel, the memories, and the relationship you build with gear over time. It’s a masterclass in thoughtful marketing that reinforces the core of the brand, and also gently educates a new generation of consumers on what to expect—essentially training them to not get irritated when the case has a ding, but rather wear it as a badge of pride. (CJN) — Thanks for reading, Noah (NRB) & Colin (CJN) —
+|

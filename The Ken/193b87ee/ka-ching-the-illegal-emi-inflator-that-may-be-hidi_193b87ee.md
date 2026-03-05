@@ -1,0 +1,53 @@
+---
+subject: "Ka-Ching!: The illegal EMI inflator that may be hiding in your home loans"
+from: "The Ken <info@the-ken.com>"
+to: ""
+date: 2024-12-12 01:32:25
+labels: ["CATEGORY_PERSONAL", "INBOX", "The Ken"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_8244464457792971031"]
+---
+|
+|
+Ka-Ching!
+Thu, 12 Dec 24
+A weekly newsletter about how finance is getting supercharged by tech in India, and how you can make money work for you..
+Good Morning Ishan,
+Have you heard the mind-boggling real-estate news from Gurugram? A penthouse in DLF Camellias, according to media[ reports](https://timesofindia.indiatimes.com/city/delhi/gurgaons-dlf-camellias-penthouse-sells-for-rs-190-crore-sets-record-for-ncrs-most-expensive-apartment/articleshow/116096242.cms), was apparently sold for Rs 190 crore (US$22.4 million). But that’s not the most surprising part. What shook the internet was the per-square-foot price—Rs 180,000.
+That’s… steep.
+When I first came across it, I immediately forwarded the news article to some of my friends who are planning to buy flats. Just to give them a taste of the madness out there.
+But they pulled off a UNO reverse.
+Because they told me something else about India’s real-estate space that was even more intriguing. An increasingly common dark pattern in home loans that I’ve since confirmed with two bankers and two insurance industry executives.
+Let me explain how this plays out in practice through the experience of one of my friends, Debayan. He requested that I withhold his last name to protect his identity.
+Debayan is a lawyer-turned-journalist who has been looking to buy a flat in Noida for the past few months. He finally zeroed in on a house in November. Small rooms. Smaller balconies. Located in a housing society that boasts a lavish clubhouse and a swimming pool that he’ll probably never use. A typical buy for most Noida residents.
+The flat’s final price was negotiated down to around Rs 1.2 crore. Debayan had sold off some old property and had some savings, and the remaining was to be financed via a home loan. The total loan amount came to approximately Rs 32 lakh, which he wanted to pay back over a 30-year tenure.
+Debayan initially went to HDFC Bank for a home loan, but after comparing interest rates, he settled for Bank of Baroda (BoB), which offered him an interest rate of 8.35%.
+The trouble, and the thing we are interested in, reared its head when he initiated a conversation with the bank’s agent about his monthly instalments.
+According to Debayan’s calculations, and one corroborated by multiple online EMI calculators, he should have been paying about Rs 24,000 each month. But his agent said his monthly payable would be a whole 30% more expensive—Rs 31,000.
+When Debayan told me his story, I felt like I’d heard it before. And I had. From Sneha (last name withheld), with whom I had a conversation recently. Sneha is from Guwahati and she had a similar complaint with a loan she’d taken from State Bank of India (SBI). In fact, in her case, she hadn’t double-checked the EMI she had to pay and had opted for the auto-debit option. It wasn’t until a couple of EMI payments had been debited did she realise that the payments were a little higher than she had calculated. By about Rs 4,000 a month.
+Debayan’s and Sneha’s accounts were enough to prod me into calling a few bankers and executives. And two former employees of ICICI Bank and HDFC Bank pointed me towards [online forums](https://www.reddit.com/r/personalfinanceindia/comments/1crounh/is_it_necessary_to_get_home_loan_insurance_given/) where even more aggrieved borrowers were[ narrating](https://www.technofino.in/community/threads/sbi-home-loan-fraud-by-branch.30144/) similar ordeals.
+This story, it’s clear, has become a common one.
+And the blame lies with an old culprit.
+My sources tell me such instances happen because bank loan agents, succumbing to the pressure to meet sales targets, bundle what bankers loosely refer to as home loan insurance with loans without the consent of the borrower.
+Such insurance policies work as a risk-hedging instrument for the lender, and they come in two types.
+First, there are life covers, which pay a certain amount to the lender in the event of a borrower’s death during the tenure of the loan. In this case, the loan amount is the sum assured and the bank is the eventual beneficiary. The insurance payout is to be used to settle the outstanding dues.
+The outstanding loan amount is the sum insured in these cases, and so the premium goes down every year as the outstanding amount is whittled down by regular EMI payments.
+The second type is property insurance, which covers any physical damage to the house itself. The insurance premium is based on the cost of potential repairs to the house and not on the loan amount.
+Both insurance covers serve two purposes:
+i. they reduce risk for the bank
+ii. they give borrowers and their families a safety net in case there are unforeseen adverse circumstances
+And there’s no harm in doing either of those things. It’s the lack of consent that’s the problem, especially when the premiums can be as high as Rs 84,000 in the first year.
+According to the former HDFC Bank executive:
+“In such cases, banks act as agents for insurance companies. They bundle policies from only one or two insurance companies and quietly add the premium to the principal amount. Only a few customers notice this and ask for an explanation. It is only then that banks divulge the breakup.”
+In return for selling these insurance policies, banks get some relaxation from insurance companies on, say, group health policies and the like. But many borrowers end up footing the bill without ever knowing why. Until, like Debayan or Sneha, they ask.
+And even if a borrower wants such insurance, it’s only right that they have liberty to choose a policy from an insurer of their choice, and not get one foisted on them just because of their bank’s tie-up.
+“In terms of financial loss, a borrower would have to pay interest on the insurance premium amount as well, if it gets added to their loan amount.”
+Former ICICI Bank executive
+A senior executive from insurance firm HDFC Ergo told me that purchasing home-loan protection plans is not mandatory at all. Neither the banking regulator nor the insurance regulator prescribe such covers. So lenders are under no regulatory obligation to push such insurance down the throats of borrowers.
+While there is no central repository of data to back the widespread use of such coercive methods, I spoke with a retired SBI executive who used to be a senior officer in the bank’s consumer grievance wing. Here’s what he had to say:
+“Say ten years back, these used to be one-off instances. Presently, hundreds of such complaints come daily. And banking executives can tell you with confidence that this illegal ploy is prevalent across banks, be it private or public. And the main culprit is sales pressure and on top of that incentives for selling policies through this method… Yes, it is illegal.”
+So, like Debayan, if you too are planning to opt for a home loan, make sure you ask your agent or bank for a detailed breakup of the EMI calculations.
+And push back if you think you don’t need the insurance.
+That’s a wrap for this week. Let me know what you think by writing to kaching@the-ken.com. We’ll see you again next Thursday!
+Best,
+Rounak Kumar Gunjan
+Got a tip? If you have a lead for a great story that The Ken can pursue, please send it to tips@the-ken.com or share it through [this form](https://theken.typeform.com/got-a-tip). To find out more about how to do this securely, read our [blog post](https://the-ken.com/blog/help-the-ken-tell-the-next-big-story/) about sharing tips with The Ken.

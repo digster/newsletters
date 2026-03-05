@@ -1,0 +1,10 @@
+---
+subject: "Long-Run Effects of Trade Wars"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2025-04-21 18:23:32
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+This short note shows that accounting for capital adjustment is critical when analyzing the long-run effects of trade wars on real wages and consumption. The reason is that trade wars increase the relative price between investment goods and labor by taxing imported investment goods and their inputs. This price shift depresses capital demand, shrinks the long-run capital stock, and pushes down consumption and real wages compared to scenarios when capital is fixed. We illustrate this mechanism by studying recent US tariffs using a dynamic quantitative trade model. When the capital stock is allowed to adjust, long-run consumption and wage responses are both larger and more negative. With capital adjustment, U.S. consumption can fall by 2.6%, compared to 0.6% when capital is held fixed, as in a static model. That is, capital stock adjustment emerges as a dominant driver of long-run outcomes, more important than the standard mechanisms from static trade models — terms-of-trade effects and misallocation of production across countries.
+That is from [a new NBER working paper](http://marginalrevolution.com?action=user_content_redirect&uuid=d2a0cffd3126f664ee646ac29c1e33fda3334646261048539a8ce9639c0b472a&blog_id=42693868&post_id=90493&user_id=262258391&subs_id=225460721&signature=b0b57e7c848ac3221f82f95b4480d677&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly93d3cubmJlci5vcmcvcGFwZXJzL3czMzcwMiNmcm9tcnNz&email_id=f720e0b312664b6eb884b34233eacc01) by David Baqaee and Hannes Malmberg. Bravo to the authors for producing this result so quickly. And...as a side note...other forms of taxing capital can be bad too! Really. A number of people have spent the last twenty years tying themselves into knots on this question.

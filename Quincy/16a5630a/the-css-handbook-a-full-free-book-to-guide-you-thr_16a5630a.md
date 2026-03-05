@@ -1,0 +1,34 @@
+---
+subject: "The CSS Handbook - a full free book to guide you through CSS"
+from: "Quincy Larson <quincy@freecodecamp.org>"
+to: ""
+date: 2019-04-25 20:29:49
+labels: ["CATEGORY_PERSONAL", "INBOX", "Quincy"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_7697778124671848699"]
+---
+Here are this week's five links that are worth your time:
+
+1. The CSS Handbook - a full free book to guide you through CSS (85 minute read): https://medium.freecodecamp.org/b56695917d11
+
+2. If you work with big documents or datasets, you may be able to save hours by using Regular Expressions. This free course will give you a firm understanding of the basics (45 minute watch): https://www.freecodecamp.org/news/regular-expressions-crash-course
+
+3. Learn about famous programmers from throughout history - all while you play classic card games like Poker, Blackjack, and Solitaire. Programmer Playing Cards are here (3 minute read): https://www.freecodecamp.org/news/programmer-playing-cards
+
+4. Docker Simplified: a hands-on guide for absolute beginners (15 minute read): https://medium.freecodecamp.org/96639a35ff36
+
+5. Rachel was a special education teacher when she won 2nd place at the DEF CON hacking conference. Here's the wild story of how she got into infosec (1 hour listen): https://www.freecodecamp.org/news/podcast-rachel-tobac
+
+Quote of the Week: "Security in IT is like locking your house or car – it doesn't stop the bad guys,  but if it's good enough they may move on to an easier target." - Paul Herbka
+
+
+freeCodeCamp is a donor-supported nonprofit. Help the community reach our goal of 10,000 monthly supporters. (We're already 47% of the way there!) Become a supporter at: https://donate.freecodecamp.org
+
+
+Happy coding!
+
+- Quincy Larson
+
+Teacher at freeCodeCamp.org
+
+
+If these emails aren't worth your time, you can turn them off: https://www.freecodecamp.org/ue/eZV2T3gHC7IGcwcpYPG64

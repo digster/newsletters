@@ -1,0 +1,28 @@
+---
+subject: "The charge of India's unicorn brigade"
+from: "The Ken <info@the-ken.com>"
+to: ""
+date: 2019-12-31 02:35:53
+labels: ["CATEGORY_PERSONAL", "INBOX", "The Ken"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_8244464457792971031"]
+---
+Good Morning Ishan,
+Have you ever read Terry Pratchett's Discworld series? If you haven't, I recommend starting with Small Gods, a satirical take on religion. It's a zany tale, like most (if not all) of Pratchett's work, but at its heart is a simple concept—the power of a god (or religion) is directly proportional to the strength of her believers', well, belief.
+At the turn of this decade, India's startup ecosystem lacked the belief from investors to produce unicorns—the virtual gods of the startup scene, valued at north of $1 billion.
+That changed in 2011, when mobile advertising company InMobi became the country's first unicorn. E-commerce major Flipkart followed suit a year later; and data analytics specialist Mu Sigma came the year after that.
+Seeing is believing, and faith was no longer in short supply. In 2014, India birthed three unicorns, as many as it had produced in the three years prior. Even so, these were still small gods, relatively speaking.
+Over the years, India's unicorn count has spiked to 28—third only to the US and China. And these are no longer small gods. The average value of India's unicorns, circa October 2019, was $3.2 billion, and count amongst them the world's most valuable edtech firm (Byju's) and the third largest hotel chain (OYO).
+Today's unicorns are even producing unicorns. Take payments company PhonePe, which is being hived off from parent Flipkart, or Mission:Electric, cab aggregator Ola's EV subsidiary.
+Belief in India's startup ecosystem has hit critical mass. In today's piece, Savio takes a look at the charge of India's unicorn brigade, from a smattering of small gods to a pantheon of heavyweights with an ever-growing global footprint. You can read it here: [https://the-ken.com/story/charge-of-indias-unicorn-brigade/](https://link.the-ken.com/uni/wf/click?upn=HQSq6eeRV1xAVaGuFOahuNCZVVXPeP-2FJpSqxhvIUDrmembrjXJkXXGspi8rMDDhtlQfmGm1P5TePZE089qeurQKWUtzfkaj7NQ-2B9gs-2FDQ0x40s-2BTxtVhmXL7mGCCKJKIThvXNLYTykVTWC9xpnXRcu-2B8qa9dJX9AwEchwUE4Gcz2Er590Au8Ddph1cVJXXri_S4jLOsNx-2Fv6Jev2nvow8b7P9pBCWGd8KNZfb200gkZLQNlXQHio0noZzXtsWoloZmPWeyZsh7a4QCV9ufwCUKi00jlBT0uEdvwYDMuVuqcOM0qNUtKF7ZNm50QiaSauxmbWhwamy3bxhzfTbhHK4sjgZ2T9zjnzNd5z9saGh3-2B6KTjXTC-2FVd98z7NW3hkW2tVZrkDFhfGJIIdILs7SUuhErDNoUJGdx9DGZ-2FvGva4a7uigGf6cYODLTP7Yf2MS5h7TFXSm5-2F7p-2FM-2FcCf81hKmUXvCYHgA6WW-2F8vj9D6-2Bb3iKoXNsJ4i8KKeHqBqc2oCJkjDhGiP58WCxjH6aEfnW76-2FzdXp91ZS6QYm3TlKyccau005Zy8QH2ahh5V7LRJEwmxAZwfSErOZJaUgzXp7Qm-2Bpx-2FvC-2FxcyvosPFFnEYnh4-3D) (14-minute read)
+It's a free read, so do share widely.
+Regards,
+Ranjan Crasta
+[ranjan@the-ken.com](mailto:ranjan@the-ken.com)
+PS: If you're looking for the right gift for the holidays, we've sorted out your gifting woes. You now have three different gift subscriptions to choose from. Check them out [here](https://link.the-ken.com/wf/click?upn=HQSq6eeRV1xAVaGuFOahuKcZjYfsHJ5xIqEI9OxStoeDKkFrCq8fqhWlgE1TLo-2F1_S4jLOsNx-2Fv6Jev2nvow8b7P9pBCWGd8KNZfb200gkZLQNlXQHio0noZzXtsWoloZmPWeyZsh7a4QCV9ufwCUKi00jlBT0uEdvwYDMuVuqcOM0qNUtKF7ZNm50QiaSauxmbWhwamy3bxhzfTbhHK4sjgZ2T9zjnzNd5z9saGh3-2B6KTjXTC-2FVd98z7NW3hkW2tVZrkDFhfGJIIdILs7SUuhI6nj1h80h6Qf0BCD6rwjdZ5PdmuAZnoEVEMEbkU-2Furwo2a5wBfNxzVP2gr9MElc4cV2rUjkkFmToNW5IexY3hz-2FW71UgUJVV9LxNHPZ-2BicWRuAjW1HyTFj2vZBxUaPT-2BuJ3SGIa6P2AnCUJg-2BVybGOxBvK8jrjvs8h1EnSMoFv4b4bKSjZO3Xuew9NPn0QrwKK5CeAUz-2F7-2F1Pio-2BqfoAUU-3D).
+|
+What you just read is the personalised daily introduction to The Ken's story. Written by a different person each day. Often insightful, sometimes witty, and very rarely boring. Someone sent this to you? [Sign up for free](https://the-ken.com/?modal=register). Don't like these? You can [unsubscribe](https://link.the-ken.com/asm/unsubscribe/?user_id=2349339&data=0fI9GrXNA3gFrsX3e4iLQhX8jgtmZWDpTmLJfKgSKLoh8R_AnzEPVfzwRdQJ3CnJxmKTCDiCWvigjcWoqEjusyhr4ykqQl_d3J41z4e1x2uwlt56iofiFaVGSVXnI0c7kL0F4Lzktl9ONcAK1Rj9mUH1zxck1V4lwFwy1ES70yLxGh7DWT_UIEcRz3UUs2imzbP5bQtfW1G89em_yoANw1yev7Kwg5lk4FkSIjE_cBm5RKVFDuTsHkrkwZwWcCX2c8cL5LX8BXSae5_aYb4ChooMDIAs0M_8gHdy2g2kifhYAI3auN7nudaTEzQjOR2-jtvtu-AB9wmznT0HggxooTHwf7pozCWM8k84I8patvcmLpIZWGKGznrexd5iQbch9BZxeBKfh7lnwvkX4OEFd7NgaxBOuJkwIgbWIriIwE1EAB8V6YAkIf9TySDgiW8OZEQCZv-uASDEWIxNPt7mhXgVaeDix0kCK5Tw5Zu9LZt1ZBycAwysePJapXUefxqtjIKGkXnlZM3jbs-O2efap8rCyXXyfJZ9R-i9K2nr5-Q=). Want to manage your emails? Click [here](https://link.the-ken.com/asm/?user_id=2349339&data=ZRJ85QClsuReoz3d78QOohipxK8r8f0HTHgUTCQdkhFGSQk5j0cfVmFUri4zpWoCnRv-vNUVaeENLObhsFmIDN7Cu-GBDaqauhPqOj_CWWER-M35QGv_mI9jBSNrc5vUB2KMdzMLwSnxWEh3ullPLUGkcPZzOsWHfrh84rSYUby_gdhDf2vJWcoweSklUx6O6khOaV0OZvlLlrkgtInoifU5DHf8I04L9AtRqRo07JDtrgXK2MuX9VbbygOu84otNGDF4VkfrQheHcIxBa4MO2ICiCQoybQVc5YwlWKyJuA53pG1uXVct4UgoCLrRb6M6o3x3SlTjUS6nWTLCm2bgN0-Xzhvph55bhQr-GrKAK-vD7Cv790gQ3-6X3LHlcKj7A_JpP5Q248r73VoWE5DC8p3aTwjoE0PdsBbp6z3gCEJa7a0rb3fCI8Fpn4bV2UGP5_QTaKJsQxa_Ahj60tAWlltoTXTKKbsWW42XLLwVgZr_0Mv88sYTfde76XjMiTFkcGHNFF1FbXdDG-3Hhx5Aw==).
+|
+|
+|
+|
+|

@@ -1,0 +1,11 @@
+---
+subject: "Early evidence on human + Ai in accounting"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2025-05-15 06:59:57
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+Here is part of the abstract:
+Using a multi-method approach, we first identify heterogeneous adoption patterns, perceived benefits, and key concerns through panel survey data from 277 accountants. We then formalize these survey-based insights using a stylized theoretical model to generate corroborating predictions. Finally, partnering with a technology firm that provides AI-based accounting software, we analyze unique field data from 79 small-and mid-sized firms, covering hundreds of thousands of transactions. We document significant productivity gains among AI adopters, including a 55% increase in weekly client support and a reallocation of approximately 8.5% of accountant time from routine data entry toward high-value tasks such as business communication and quality assurance. AI usage further corresponds to improved financial reporting quality, evidenced by a 12% increase in general ledger granularity and a 7.5-day reduction in monthly close time.
+[By Jung Ho Choi and Chloe Xie](http://marginalrevolution.com?action=user_content_redirect&uuid=2bf3b9f71bed15ea40d05ceec8f8b4fbbdd807b02da5d70625334cb4d6c1f256&blog_id=42693868&post_id=90636&user_id=262258391&subs_id=225460721&signature=6f0ea949f5d8c90924b787cf8e2e30e4&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly9wYXBlcnMuc3Nybi5jb20vc29sMy9wYXBlcnMuY2ZtP2Fic3RyYWN0X2lkPTUyNDA5MjQ&email_id=7da57a74472348472507569524ed017e), via the excellent [Kevin Lewis](http://marginalrevolution.com?action=user_content_redirect&uuid=46e7983bf10ba78d0d1136180cfdfa62a05a5e9327945d661096d581c81d9c92&blog_id=42693868&post_id=90636&user_id=262258391&subs_id=225460721&signature=de9ca5269ff0a5b1eea02a922138c046&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly93d3cubmF0aW9uYWxhZmZhaXJzLmNvbS9ibG9nL2RldGFpbC9maW5kaW5ncy1hLWRhaWx5LXJvdW5kdXAvY29uZGl0aW9uYWwtd29yaw=&email_id=7da57a74472348472507569524ed017e).

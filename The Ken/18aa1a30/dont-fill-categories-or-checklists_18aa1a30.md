@@ -1,0 +1,86 @@
+---
+subject: "Don’t fill categories (or checklists)"
+from: "First Principles by The Ken <info@the-ken.com>"
+to: ""
+date: 2023-09-17 05:35:32
+labels: ["CATEGORY_PERSONAL", "INBOX", "The Ken", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_8244464457792971031", "UNREAD"]
+---
+|
+Sunday, 17 September 2023
+|
+Good Morning Ishan,
+Last week, I was in Mumbai to meet with and interview Radhika Gupta, the CEO of mutual-fund company Edelweiss Asset Management.
+I met Radhika at the 10th floor offices of Edelweiss in Kalina, Mumbai. On a rainy morning filled with grey skies, the view towards the southeast side was filled with piles of concrete girders and colourful gantry cranes, mobile cranes, piling rigs, and excavators. Work on a section of the Mumbai Metro and the high-speed bullet train corridor were going on right next to each other. Behind all of the construction were rows of gleaming corporate buildings, all part of the Bandra Kurla Complex. I felt like I was observing a cross-section of a transforming city.
+I’m fascinated by how entrepreneurs and business leaders “see” the world. Because inevitably, each one sees the markets, competitors, rules, and opportunities around them uniquely. Some see disruptive opportunities where their rivals see overcompetition. Others see undefined consumer needs that even consumers haven’t been able to verbalise. So I asked Radhika, what did she “see” first when looking at a business landscape. Did she first see the rules and the constraints? Or did she see the opportunities that exist? Which ones did her eyes naturally settle on? And which ones did she instinctively focus on before deciding what to do?
+“This is an interesting question to ask someone in a highly-regulated industry (like mutual funds). I respect regulations a ton. I am the daughter of a bureaucrat, so I think I have a slightly different point of view on government than most people do. Because I believe it is an enabler. So I try to see opportunities and solutions, and then work with policy to make it work. And I've had enough examples in my career, where I believe that if you can put a compelling argument in front of someone, you can get policy changed to make it work, Bharat Bonds being the best example. So I always like to start with the free world, apply constraints, but also know that constraints can be changed and rationalised,” she replied.
+Radhika then went on to explain constraints-first thinking using the example of the mutual fund industry.
+“But I must tell you, especially in the early years, it would drive me crazy when I would hear people say, ‘industry mein toh aise hi hota hain na, rule aise hain’ (in our industry that’s how it’s done, because the rules are like that).”
+What does that mean?
+“So, when you launch new products in mutual funds, there are certain categories that Sebi (the markets regulator) allows you to launch in. And one of the ways to think about new products is, ‘let's fill categories’,” she answered.
+Meaning, look at the list of categories that a regulator (or rules maker) has listed out, and then build products to fulfil those.
+What does Radhika do instead?
+“My point is, let's build good products. We'll find a category, or we'll create a category. And I think that is the difference between scarcity and abundance. One starts from a free space where you're focused on the consumer first, and one starts from a constrained space. And then, when you start with constraints, you build much less than the constraints.”
+I use a different version of this mental model myself, copied from various quotes attributed to people over the decades.
+|
+“Every English poet should master the rules of grammar before he attempts to bend or break them.” — Robert Graves
+“Learn the rules like a pro, so you can break them like an artist.” — Pablo Picasso
+“Learn the rules so you know how to break them properly.” — Dalai Lama
+|
+|
+|
+Take writing, for instance. Grammar exists as rules or constraints to aid us in writing. But if we were to reduce writing to merely satisfying grammatical rules, what a waste it would be. Can you imagine much creativity arising from that?
+I also asked Radhika about a personal inner scorecard she maintained for herself. Something she said was her guide and motivation at work and in life regularly.
+“It took me so long to understand this concept. Because, I think in India, we live so much of our life by someone else's outer scorecard. There are so many outer scorecards, that at some point, you sit in your life and you're like, I've made all these people happy, but have I made myself happy?”
+And when did she develop her inner scorecard?
+“I think I figured this out about three, four years ago,” said Radhika. “I write things down in an Excel sheet. I have personal, professional, and growth priorities and write them down. That's the only way.”
+Personal and professional spaces, I understood, but what was growth? And how was it distinct?
+“I think most of us lead our life in two dimensions. Personal, which is family, and professional, which is kaam (work). What about growth? What about doing things for yourself? Writing a book, learning public speaking? It’s not personal or professional, but something you do for yourself to grow. And I think most of us need to move from a 2D life to a 3D life. So, for me, personal growth is very important. You know, you had earlier asked the question of how can you be a CEO and calm? Perhaps in those phases, my personal growth energises me. I almost feel I need a major, major personal growth project every 12 to 18 months. Otherwise, I'll go nuts.”
+You can listen to the full conversation I had with Radhika in episode 26 of the First Principles podcast here.
+Radhika Gupta of Edelweiss on the joy of creating impact | [Episode 26, 14 September, 2023](https://the-ken.com/podcasts/first-principles/radhika-gupta-edelweiss/)
+The MD and CEO of Edelweiss AMC on why she doesn't believe in work-life balance, separating constructive criticism from targeted bias, keeping an inner scorecard for evaluation and much more
+|
+|
+Before I sign off for this edition, I wanted to share some of the books I’ve been reading lately. Why? Because I hope it can spur more interesting conversations between us on books and knowledge. A First Principles community would be incomplete without books!
+On a more selfish note, I’ve started to become more mindful and disciplined about reading books, including fiction. For years, I’ve excused myself by pleading work, only to find my attention span and knowledge either plateauing or dwindling. If we can talk about books more often in our Sunday emails, perhaps we can all benefit? 😇
+My first recommendation is Radhika’s own book, Limitless (hey Radhika, I’m already reading it!)
+|
+|
+“I have had many conversations with friends from the corporate world looking to take their big plunge into entrepreneurship, and their common worry, beyond disrupting a well-settled lifestyle, is the weight of reputation. They all seem to worry whether in their new, unpredictable venture they will be able to live up to the name they have created for themselves through their exemplary education, stellar career and the weighty title on their business card.
+Mihir A. Desai, economist and professor of finance at Harvard Business School, addressed this well in an essay he wrote for the Harvard Crimson, the daily student newspaper of the university. He says new graduates have the tendency to ‘collect options’, the proverbial move ‘from being a Yale undergraduate, to going to work for McKinsey for two years, then going to Harvard Business School, then graduating and going to Goldman Sachs, and then several years later working for Blackstone.’
+This tendency, along with the comfort of a high-paying job, becomes so addictive that it kills the ability to take meaningful risks. A Yale, a McKinsey or a Goldman Sachs admits you for your extraordinary potential but, in the end, without seizing unique opportunities and taking those chances beyond the formulaic, that potential never gets realized, and the dreams that the ‘options’ could have enabled recede into the background.
+This is not just true for new graduates; the effect compounds as we collect more labels and brands to add to our résumés. By all means, be grateful for the education you have received and the companies you have worked for. Strong educational backgrounds and work experience do give you a valuable foundation and a market reputation, and we should all aspire for the best we can access and afford. But, in aspiring for and collecting pedigree, do not let yourself become imprisoned by it.”
+|
+|
+|
+|
+|
+|
+I bought Kevin Kelly’s latest book filled with his observations, aphorisms, and recommendations for life because I absolutely loved his [“68 bits of unsolicited advice”](https://kk.org/thetechnium/68-bits-of-unsolicited-advice/), which he wrote for his adult children when he turned 68. The book is the expanded and bound version of the same.
+A few of my favourite ones:
+|
+“Being enthusiastic is worth 25 IQ points”
+“You don’t have to attend every argument you’re invited to”
+“Habit is far more dependable than inspiration. Make progress by making habits. Don’t focus on getting into shape. Focus on becoming the kind of person who never misses a workout.”
+“If you ask for someone’s feedback, you’ll get a critic. But if instead you ask for advice, you’ll get a partner.”
+“Tend to the small things. More people are defeated by blisters than by mountains.”
+|
+Excellent Advice for Living: Wisdom I Wish I'd Known Earlier
+[by Kevin Kelly](https://www.goodreads.com/book/show/62313346-excellent-advice-for-living)
+|
+|
+|
+Finally, from the fiction category I have the absolutely ridiculously fun Reacher series. I inevitably end up buying a Reacher novel every time I take a flight. If you want to get back to fiction after years of either no reading or reading non-fiction, I couldn’t offer a better recommendation (that is, if you don’t mind pulpy crime-revenge thrillers). Bonus: there’s a wonderful Amazon Prime Reacher series too.
+I’m proud to report I read two Reacher novels last week.
+[A Wanted Man, Lee Child](https://www.goodreads.com/book/show/13359067-a-wanted-man)
+|
+If you have book recommendations for the First Principles subscriber community, please do email them to me. Do add in a few paragraphs on why you found the book interesting and why others might appreciate it. And, oh, a few lines about yourself too?
+That’s all for this Sunday. Enjoy the rest of it!
+Regards,
+Rohin Dharmakumar
+fp@the-ken.com
+|
+|
+|
+|
+|

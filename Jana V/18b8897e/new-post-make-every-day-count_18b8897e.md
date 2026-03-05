@@ -1,0 +1,28 @@
+---
+subject: "[New post] Make Every Day Count"
+from: "Seeking Wisdom <comment-reply@wordpress.com>"
+to: ""
+date: 2023-11-01 01:55:36
+labels: ["CATEGORY_PERSONAL", "INBOX", "Jana V", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_8135152689830330561", "UNREAD"]
+---
+It was a 2012 evening, and I was driving home from the office. I was worried about finishing a big project at work on time. I'd made the journey from the office to my home so many times, my car almost seemed to know the way by itself. My hands were on the wheel, but my brain was busy with my concerns.
+As I was leaving the freeway, suddenly there was a loud "Thud!" My car had been hit from behind by another car. Thankfully, neither I nor the other driver was hurt, although my car was damaged.
+Right when that car hit mine, it was like a switch flipped inside my brain. All my stress about the work deadline just melted away. I was just thankful to God that I wasn't hurt. For the next whole day, I never thought about the deadline.
+That experience stuck with me, showing me how a bigger problem can make our current worries seem less important. It brought to mind an old Tamil movie, "[Iru Kodugal](https://www.imdb.com/title/tt0154651/)," which featured a puzzle: how to make a line shorter without altering it. The solution presented was to draw a longer line alongside the original, making the first line seem shorter by comparison.
+The moral from the puzzle is that life often presents us with challenges. If I find myself overly concerned about a current problem, it helps to remember how fortunate I’m to not face something even larger. This thought enables me to deal with present challenges more calmly.
+I recently read a wonderful book titled "[Ikigai](https://www.amazon.com/Ikigai-Japanese-Secret-Long-Happy/dp/0143130722)" (your reason for being), which explains the concept of being in a flow state, using the example of a skier.
+Imagine you are skiing down one of your favorite slopes. Powdery snow flies up on both sides of you like white sand. Conditions are perfect.
+You are entirely focused on skiing as well as you can. You know exactly how to move at each moment. There is no future, no past. There is only the present. You feel the snow, your skis, your body, and your consciousness united as a single entity. You are completely immersed in the experience, not thinking about or distracted by anything else. Your ego dissolves, and you become part of what you are doing.
+This is the kind of experience Bruce Lee described with his famous "Be water, my friend.
+I reach a state of flow when writing a blog, playing cricket, or debugging code. I feel completely blissful in this state. There’s no future, no past. There is only the present. So, the best way to counteract worry is to concentrate on the task at hand and spend more of each day in that flow state.
+I found this t-shirt on Amazon that vividly depicts what it's like to be in a flow state.
+Sometimes, our current problems can be so overwhelming that they prevent us from entering a flow state. What should we do in those situations? Time is the antidote to all problems. Given enough time, most issues are either resolved or we adapt to and thrive despite them.
+In his masterpiece, "[Thinking Fast And Slow](https://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman/dp/0374533555)," Daniel Kahneman posed the following question: What proportion of the day do paraplegics spend in a bad mood?
+During the early days, paraplegics will undergo a lot of suffering. But over time, they get used to their condition and are able to focus on newer things. Kahneman explains that most long-term circumstances of life, including paraplegia, are part-time states that one inhabits only when one attends to them.
+I encountered a thought-provoking question in Andrew Ng's "[How to Build Your Career in AI](https://info.deeplearning.ai/how-to-build-a-career-in-ai-book)." It was insightful of him to print the number of days he expects to live in large font and paste it on his office, reminding him to concentrate on tasks that are truly worthwhile.
+To summarize:
+- Regardless of the current situation, be thankful that it isn't worse.
+- Concentrate on the task at hand. Forget about the future and the past; only the present matters.
+- Time heals all wounds. With enough time, most problems either resolve themselves, or we learn to adapt and flourish in spite of them.
+- Consider whether the task or problem at hand is worth worrying about, given that it consumes approximately 1/30,000 of our lifetime.

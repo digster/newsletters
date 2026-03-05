@@ -1,0 +1,10 @@
+---
+subject: "When writing, look at what you are trying to describe more than at your words"
+from: "Henrik Karlsson <escapingflatland@substack.com>"
+to: ""
+date: 2025-05-22 08:45:12
+labels: ["CATEGORY_PERSONAL", "Henrik Karlsson", "INBOX", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "Label_928547876862665886", "INBOX", "UNREAD"]
+---
+“The Key to Dreams”, René Magritte, 19301.When drawing from real life, the trick is to spend more time looking at the thing you are trying to capture than at your drawing. This is true for writing, too. 2.When I was in my early twenties, I tried to write poems like Tomas Tranströmer. I did close readings of all his collections and reverse-engineered what he was doing. But no matter how hard I tried, every poem I wrote was dead on the page. I couldn’t figure out what was wrong. At some point during this time, I saw an interview with Tranströmer from the early 1980s where the reporter asked how he came up with his poem, “ I remember thinking that this was a funny way to avoid talking about what his poem meant and where it came from, which he disliked doing. But now I think what Tranströmer said was a genuine attempt to explain where his poetry came from. Good writing isn’t about studying how great essays or poems look and then figuring out how to reverse engineer that (though that’s part of it). Rather, it’s about learning how to pay close attention to your thoughts and feelings and the concrete materiality of the world, and mastering the craft so you can translate what you see onto the page. My poems failed because I was looking at the paper, not at the thing I was trying to capture. 3...Subscribe to Escaping Flatland to unlock the rest.Become a paying subscriber of Escaping Flatland to get access to this post and other subscriber-only content. A subscription gets you:
+|

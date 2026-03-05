@@ -1,0 +1,13 @@
+---
+subject: "Are the kids reading less? And does that matter?"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2025-05-28 06:38:42
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+[This Substack piece](http://marginalrevolution.com?action=user_content_redirect&uuid=659457ec1b0fe2b012bf6196b84a2bd0dd5de0dcc3e1132e447061331af1863e&blog_id=42693868&post_id=90752&user_id=262258391&subs_id=225460721&signature=55469af3a00a1ef74ffb092126e09730&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly9raXR0ZW5iZWxvdmVkLnN1YnN0YWNrLmNvbS9wL3JlYWN0aW9ucy1hbmQtZm9sbG93LXVwLXRvLWNvbGxlZ2U/cj0xZzR1YyZ1dG1fbWVkaXVtPWlvcyZ0cmllZFJlZGlyZWN0PXRydWU&email_id=4e0191a75ccc1a00c0786ee8f4c201cc) surveys the debate. Rather than weigh in on the evidence, I think the more important debates are slightly different, and harder to stake out a coherent position on. It is easy enough to say "reading is declining, and I think this is quite bad." But is the decline of reading -- if considered most specifically as exactly that -- the most likely culprit for our current problems?
+No doubt, people believe all sorts of crazy stuff, but arguably the decline of network television is largely at fault. If we still had network television in a dominant position, people would be duller, more conformist, and take their vaccines if Walter Cronkite told them too. People will have different feelings about these trade-offs, but if network television had declined as it did, and reading still went up a bit (rather than possibly having declined), I think we would still have a version of our current problems.
+Obviously, it is less noble to mourn the salience of network television.
+Another way of putting the nuttiness problem is to note that the importance of oral culture has risen. YouTube and TikTok for instance are extremely influential communications media. I am by no means a "video opponent," yet I realize the rise of video may have created some of the problems that are periodically attributed to "the decline of reading." Again, we might have most of those problems whether or not reading has gone done by some amount, or if it instead might have risen.
+Maybe the decline of reading -- whether or not the phenomena is real -- just doesn't matter that much. And of course only some reading has declined. The reading of texts presumably continues to rise.

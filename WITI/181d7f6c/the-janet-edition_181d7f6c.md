@@ -1,0 +1,12 @@
+---
+subject: "The JANET Edition"
+from: "\"Why is this interesting?\" <whyisthisinteresting@substack.com>"
+to: ""
+date: 2022-07-07 09:19:45
+labels: ["CATEGORY_PERSONAL", "INBOX", "UNREAD", "WITI"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "UNREAD", "Label_5752899537867939131"]
+---
+Colin here. I was taxiing out of Las Vegas recently when I saw a series of unmarked white jets on the tarmac, all with a bold red line. I’d seen them from hotel windows on the strip in years past, and had vaguely heard about their role: ferrying workers into highly compartmentalized sites in the desert. It was fun to dig back in and understand a bit of the intrigue around what these planes are and what they do. According to
+The airline has operated since the 1970s out of a hangar at McCarran Airport, adjacent to the private flight terminals. It is estimated to ferry around 1,500 passengers per day to testing sites run by the department of energy. And while there is rampant speculation as to what happens at Area 51 and other secret sites, one could surmise experimental aircraft (and munitions) are being tested. Storied aircraft like the U-2 spy plane, the SR-71 Blackbird (which could read a number off of a golfball from 40,000 feet), as well as the F-117 and many others can all trace lineage back to the remote air strip. Why is this interesting? Setting aside the intrigue of where the plane actually flies, the day-to-day operations of this mysterious private airline is fascinating. Mainly, how do you get up to 1,500 staff to work at Groom Lake and Area 51 (and elsewhere) every day in a secure way? These are sensitive weapons experts, engineers, and the brains behind some of the most sophisticated R&D work. So, as one might assume, the security has to be tight. In fact, even the flight attendants have to hold a top secret clearance due to things they could overhear and the people they meet. Sofrep
+It is interesting to observe that, moments from the hedonism and excess of the strip, commuters step in and out of some of the most sensitive and storied areas in the world. (CJN) — WITI x McKinsey: An ongoing partnership where we highlight interesting McKinsey research, writing, and data. State of fashion. Fashion suppliers and brands, like other companies, are facing significant economic and geopolitical challenges. How are the top-performing fashion suppliers and brands responding to these disruptions, and what can the rest of the industry learn from them? — Thanks for reading, Noah (NRB) & Colin (CJN) —
+You’re a free subscriber to |

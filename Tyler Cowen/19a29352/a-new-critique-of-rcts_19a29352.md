@@ -1,0 +1,10 @@
+---
+subject: "A new critique of RCTs"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2025-10-28 05:05:38
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+Randomized Controlled Trials (RCTs) are the gold standard for evaluating the effects of interventions because they rely on simple assumptions. Their validity also depends on an implicit assumption: that the research process itself—including how participants are assigned—does not affect outcomes. In this paper, I challenge this assumption by showing that outcomes can depend on the subject's knowledge of the study, their treatment status, and the assignment mechanism. I design a field experiment in India around a soil testing program that exogenously varies how participants are informed of their assignment. Villages are randomized into two main arms: one where treatment status is determined by a public lottery, and another by a private computerized process. My design temporally separates assignment from treatment delivery, allowing me to isolate the causal effect of the assignment process itself. I find that estimated treatment effects differ across assignment methods and that these effects emerge even before the treatment is delivered. The effects are not uniform: the control group responds more strongly to the assignment method than the treated group. These findings suggest that the choice of assignment procedure is consequential and that failing to account for it can threaten the interpretation and generalizability of standard RCT treatment effect estimates.
+That is [the job market paper of Florencia Hnilo](http://marginalrevolution.com?action=user_content_redirect&uuid=d41127700300072cbee07258f68c6e46a72d57d153b8faa6c07a7d9a7a129e72&blog_id=42693868&post_id=91742&user_id=262258391&subs_id=225460721&signature=b842c3da4123def177f42ac5382cf023&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly93d3cuZmxvcmVuY2lhaG5pbG8uY29tLw=&email_id=37b5e019bfabc883f71c89c7e4f5fb58), who also does economic history,

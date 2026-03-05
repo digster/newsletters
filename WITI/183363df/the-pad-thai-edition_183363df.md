@@ -1,0 +1,28 @@
+---
+subject: "The Pad Thai Edition"
+from: "\"Why is this interesting?\" <whyisthisinteresting@substack.com>"
+to: ""
+date: 2022-09-13 09:45:17
+labels: ["CATEGORY_PERSONAL", "IMPORTANT", "INBOX", "UNREAD", "WITI"]
+label_ids: ["CATEGORY_PERSONAL", "IMPORTANT", "INBOX", "UNREAD", "Label_5752899537867939131"]
+---
+Colin here. I was in Bangkok a few weeks ago, and it was nice to be back in the thrum of one of my favorite cities. I made the rounds to some old haunts and explored the newly re-energized creativity along the Chao Phraya river. The center of gravity of Bangkok shifted slightly in the last decade—more toward the intersection of the BTS trains near Lumphini Park. It was interesting to see the surge of new hospitality, bars, and gallery spaces popping up along the river.
+As part of my food exploring I did a delightfully touristy thing: checking out the Pad Thai at [Thipsamai](https://substack.com/redirect/abaecec1-690e-4596-b811-255ec513be00?r=8o54n), which [was awarded a Michelin star](https://substack.com/redirect/36ce0f42-1e67-47c3-9f91-f392ad834004?r=8o54n) (it’s located next to a [Bangkok deep cut, Jay Fai](https://substack.com/redirect/01f1b8b9-ef25-4e2a-9c20-8ba2d9afe074?r=8o54n)). I couldn’t help myself. I wanted to understand the taste and nuance that went into winning an award for a dish that is very commonly ordered elsewhere and is the “[Freebird](https://substack.com/redirect/211a3b4b-95e4-4b36-a021-ae6c2b4f43b3?r=8o54n)” of Thai cuisine. Though there’s a lot of inherent debate among Bangkok foodies over where the actual best dish can be had, I was pleasantly surprised. The noodles that you can get through Uber Eats in pretty much every city in the US (and elsewhere!) tasted like it was served up to me in high definition.
+This also made me think about how a specific dish gained global acclaim. I faintly remembered an initiative from the early 2000s focused on spreading the country’s cuisine (and why you can get Thai in so many places in the US). It turns out it was a part of a Thai government strategy called Gastrodiplomacy.
+Why is this interesting?
+According to the Economist [back in 2002:](https://substack.com/redirect/dce71c3d-0635-4b50-a1f0-075ecbb2a42b?r=8o54n)
+THE Thai government has discovered that foreigners quite like Thai food. There are about 5,500 Thai restaurants around the world. In a plan ambitiously called Global Thai, the government aims to boost the number to 8,000 by 2003. This, it is argued, will not only introduce deliciously spicy Thai food to thousands of new tummies and persuade more people to visit Thailand, but it could subtly help to deepen relations with other countries.
+In the United States at least, where the number of Thai restaurants has grown from 500 in 1990 to more than 2,000 now, such ambitions may not come as a surprise. Diplomats in Washington point out that restaurants are often the only contact that most Americans have with foreign cultures. Patrons of the Helmand restaurant in Baltimore, which is run by a brother of Hamid Karzai, the leader of Afghanistan's interim government, are likely to take at least a passing interest in the country as they tuck into Afghan food. North Korea's Workers' Party has also opened several restaurants abroad, intent perhaps to show that at least its cuisine is not evil (no dog dishes, please).
+The Thai population in the US pales in comparison to other nationalities (a 2018 figure I saw called it 1 percent of the Mexican American population), but the number of Thai restaurants stands at over 5,000.
+The subject matter expert [Mary Jo Pham](https://substack.com/redirect/c245ceaa-fd86-430c-b83d-b2e996dc509f?r=8o54n) [defines](https://substack.com/redirect/05b92c8c-dc2d-46a2-a075-0302959989db?r=8o54n) gastrodiplomacy as a “government’s practice of exporting its national culinary heritage as part of a public diplomacy effort to raise national brand awareness, encourage economic investment and trade, and engage on a cultural and personal level with everyday diners.”
+It’s a very interesting strategy—raising the profile and love of a country not through huge media spending and ad campaigns, but via people’s palettes (and by proxy, emotions). And it isn’t just in the US, the number of Thai restaurants globally has surged. The country[ trains chefs and sends them abroad](https://substack.com/redirect/8e9e42e8-1c35-4d80-a626-62be4f09b168?r=8o54n) to work in restaurants all around the world.
+The entire [Yale white paper](https://substack.com/redirect/05b92c8c-dc2d-46a2-a075-0302959989db?r=8o54n) is worth checking out. And it is fun to think about the hidden geopolitical machinations and strategies that are lurking within your delicious Thai dish. (CJN)
+—
+WITI x McKinsey:
+An ongoing partnership where we highlight interesting McKinsey research, writing, and data.
+2022 summer reading guide. Whether you’re in the mood for nonfiction, fiction, poetry, politics, psychology—or all of the above—we’ve got you covered. McKinsey’s annual summer reading guide features more than 100 picks from CEOs, Nobel Prize winners, editors-in-chief, economists, and other leaders. [Check it out.](https://substack.com/redirect/a9df6a6c-157e-46e7-a64d-6a80b3cc075c?r=8o54n)
+—
+Thanks for reading,
+Noah (NRB) & Colin (CJN)
+—
+Why is this interesting? is a daily email from Noah Brier & Colin Nagy (and friends!) about interesting things. If you’ve enjoyed this edition, please consider forwarding it to a friend. If you’re reading it for the first time, consider subscribing (it’s free!).

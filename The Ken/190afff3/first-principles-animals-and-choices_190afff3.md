@@ -1,0 +1,178 @@
+---
+subject: "First Principles: Animals and choices"
+from: "The Ken <info@the-ken.com>"
+to: ""
+date: 2024-07-14 06:47:37
+labels: ["CATEGORY_PERSONAL", "INBOX", "The Ken", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_8244464457792971031", "UNREAD"]
+---
+|
+|
+First Principles
+Sun, 14 Jul 24
+Your Sunday newsletter on mental models and leadership, seasoned with insights from some of India’s most disruptive thinkers.
+Good morning Ishan, I’m thrilled to be back in your inbox after a week. The Saturday afternoons I spend writing so you can read me on Sunday are something I look forward to now.
+You’ve changed me in the process.
+Things that I was merely personally curious about or fascinated by must now pass another test: are they worthy of our time? It’s not an easy test, I tell you. Because I must try and balance what will interest as many of you as possible (between 100,000–150,000 each week) without making it formulaic.
+So, I take notes and photos. They go into different sections of my Obsidian notes like “introductions”, “ledes”, “links”, and of course, “Quests”. Sometimes I’ll even start writing an edition, only to realize that it doesn’t feel ready yet, so I’ll save it with a future Sunday’s date as the filename.
+That is how today’s edition started. I opened the file named “FP July 14th.docx” that I had on my desktop for a few weeks now.
+And its first line was, “Watching school kids from government schools recharges you.”
+I take Gabru for a walk each morning down a path that leads to a nearby government-run primary school whose gates you must cross if you need to visit the lake it abuts.
+Each morning, I watch dozens of kids of various ages walk and cycle and run to the school. Most are probably walking from their homes which are nearby, unaccompanied by their parents.
+They are the original[ “free range kids](https://www.theguardian.com/lifeandstyle/2021/aug/16/let-them-be-kids-is-free-range-parenting-the-key-to-healthier-happier-children)”, before we folks rediscovered the concept.
+Some are munching snacks, others cracking jokes, and yet others are racing each other with the sort of wild abandon only kids possess.
+Occasionally a particularly excited bunch will summon the courage to approach Gabru, me, and almost always, our poop scooper.
+“Uncle, what is his name?”
+Gabru.
+“Uncle, does he bite?”
+No.
+“Uncle, can we pet him?”
+Sure.
+Gabru doesn’t mind kids at all. He stands calmly, but watchfully, as the kids gather around him. Some are petting his head, some his back, and a few, his tail.
+One little girl, perhaps no more than five or six, touches his head with both her hands and then folds her hands and touches her own ears.
+“Bahut sundar!” she tells me in Hindi, guessing I probably don’t understand Kannada (but I do now).
+“He’s so beautiful,” she’s telling me. Her gesture, which many of us Indians recognise, is the one where (usually) elderly women use the gesture to draw away any ill-omens or bad luck from someone they admire.
+Kids’ love for animals is innate and pure.
+As we walk back home, Gabru and I cross paths with kids from better-off homes and studying in better-off schools waiting silently next to their parents. Few are laughing or joking. None are interested in playing with other people’s dogs. They’re too well-behaved for that.
+Here’s what we have for you today:
+1. The hypocrisy of pescatarians
+2. The First Principles Monsoon Playlist 🌧️ 🎶
+3. The FP Frequency 📚
+4. Mumbai, framed 📸
+[Pro tip: This email is a highly abbreviated version, since many email clients impose restrictions on the amount of material we can publish in a single email before intervention. In fact, it’s likely some email clients may even clip this truncated email.
+The best way to experience this edition is to [read it on our website](https://the-ken.com/newsletter/first-principles/animals-and-choices/), where all sections are featured in full and unabridged form.
+Also, if your default setting is to not show images within emails, please consider turning it off for this newsletter. Or else, you’ll miss many of the interesting images and photos we carry each Sunday.]
+I’m a Malayali, meaning I come from the state of Kerala. Of the many stereotypes associated with us, two of the most common ones are that (a) we’re incorrigible drunkards, which is why the per capita consumption of alcohol is highest in Kerala, and (b) we’re hardcore meat and fish lovers, willing and able to eat anything that moves.
+I must admit that I came to know only two days ago that “Malayalis are incorrigible drunkards”[ is a myth](https://www.thehindu.com/news/national/kerala/keralas-increasing-love-for-alcohol-is-a-myth-reveal-excise-figures/article67299766.ece).
+And while I will admit I did conform to the second stereotype for most of my life, it became harder for me to ignore the inherent cruelty. Less of the actual killing, and more of the rearing.
+Last July, I got stuck in a traffic jam enroute to the office in the morning (par for the course in Bengaluru). For the next 20 minutes, I had this van transporting chickens to their death in front of me.
+Stay with me. I haven’t (yet) turned vegetarian. Or (gulps) vegan.
+Human beings have killed animals for food for thousands of years. But we haven’t always raised them like this.
+The next day, I decided to quit eating meat as an experiment. I wanted to see if I could reconcile my discomfort at seeing chickens cooped in cages, unable to even stand on their two feet, with my love for their meat.
+I stayed that way for nearly six months before “lapsing” for a few months. I restarted in April again.
+Here’s where it gets interesting. I decided to become a pescatarian. I’d eat fish and seafood, alongside milk and dairy products. But no meat.
+Suddenly, everyone who previously took my “non-vegetarianism” (an invented Indian word, imho) for granted, took issue with my pescetarianism.
+“Why did you stop eating meat?” they’d ask me.
+“Because I couldn’t reconcile the cruelty of how we raise animals for slaughter anymore.”
+“You think fish aren’t farmed?”
+“They are, but not in as cruel circumstances.”
+“But you’re okay with killing them? What’s crueler than that?”
+“So, if we have to ultimately kill them, we should not try to be less cruel to them when they’re alive?”
+“Why don’t you give up fish and go full vegetarian?”
+Most such conversations would go back and forth till people delivered what they felt was the coup de grâce (I see the irony, yes).
+“You’re such a hypocrite!”
+It took me a few months to understand why people were okay with others eating all sorts of meat, but not some sorts based on their own subjective logic.
+It’s because eating certain types of meat is seen as a personal choice while not eating certain types is usually a collective or community decision.
+For instance, we see no hypocrisy in people who don’t eat certain types of meat or fish or even vegetables, provided that decision was made in some book written thousands of years ago or dictated by someone they revere.
+Of course. Your religion or guru or family demands you not eat <insert meat or food>. Or that you are okay eating meat, but not on <insert special day>. End of matter.
+But when people start exercising their own logic to decide what they will and will not eat, we are quick to attack their positions.
+My theory is that it disturbs people because it subconsciously forces them to confront the absence of their own conscious choices or evaluated decisions on such an emotive topic.
+For instance, most of us are okay with eating pigs but not dogs. Even though pigs are much more intelligent and social than dogs.
+We need to start seeing these choices are inherently personal. Only then can we present and discuss alternative points of view.
+I realize this has been off the typical track of a First Principles edition. But I also see it as a way to formulate our views on something as significant as animal farming or raising from first principles.
+For instance, if there were a scale of cruelty that ranges from 0 to 100, what is an acceptable position on that for you? It doesn’t matter what your number is. It matters that you’re conscious about it.
+“Because we see things through a human lens, we tend to associate consciousness with language and intelligence. Just because they go together in us, it doesn’t mean they go together in general.”
+Some are very critical of some uses of the word consciousness.
+“The field is replete with weasel words and unfortunately one of those is consciousness,” says Prof Stevan Harnad of Quebec University.
+“It is a word that is confidently used by a lot of people, but they all mean something different, and so it is not clear at all what it means.”
+He says that a better, less weasley, word is “sentience”, which is more tightly defined as the capacity to feel. “To feel everything, a pinch, to see the colour red, to feel tired and hungry, those are all things you feel,” says Prof Harnad.
+[Are animals conscious? How new research is changing minds, BBC](https://www.bbc.com/news/articles/cv223z15mpmo)
+On that note, we’re going to introduce a new and occasional section where we’ll introduce you to organisations and people who are doing something on that scale. Perhaps they’re 1/100 or perhaps they’re 99/100. It doesn’t matter. It only matters that they are doing something. Something worth knowing.
+An important disclaimer: Neither I nor my colleagues at The Ken verify or endorse any of the claims made by organisations we may occasionally highlight. Please do your own research and come to your own decisions. Also, we do not take or make money through these links in any form.
+1. Indian Animal Fund
+First Principles subscriber Parag Agarwal wrote to me a few weeks ago. Here’s how his email began.
+“Hi Rohin
+I work as the CFO with Dr Reddy’s Labs, one of the largest pharma companies in India.
+[…]
+Today what caught my attention was the photo of “Gabru” 😊; it appears to me that you are an animal lover. So am I.”
+Parag is founder of Indian Animal Fund.
+“In agriculture or on farms, in the streets, in science, or in the kitchen, animals are subject to unimaginable exploitation. Animals are sentient beings — they feel joy and suffering, among a host of other emotions. They deserve the right to live without fear, hunger, or confinement, leading a life of dignity.
+To address this, India Animal Fund (IAF) is working as a backbone organisation that matches funders with credible and capable implementation partners and helps deliver impact at scale for the most pressing animal welfare issues.”
+2. CUPA Second Chance Adoption Centre
+Parag replied to me after seeing a picture of Gabru in a First Principles edition. We adopted Gabru as a rescued three-month old puppy from the wonderful “Second Chance” adoption centre run by CUPA.
+If you’re considering getting a dog, please consider adopting instead. Visit Second Chance and spend a few hours with all the wonderful dogs and puppies there. I guarantee that you will find the one that will look into your eyes and say, “Hello human. You’re finally here. What took you so long?”
+3. Earthy Origins
+A good friend recently pointed me to Earthy Origins, a farm that raises animals for their eggs and meat yes, but one that does it[ as humanely as possible](https://earthyorigins.in/pages/animal-welfare).
+You can buy free-range and organic eggs and meat from them.
+“After this prompt came out, I was talking to Hari and Rajiv and we came to the conclusion that great rain songs can only come from cultures that experience rain as a regular part of life. 🙂 I love how there’s so many films in so many different Indian languages that are about rain either directly or indirectly,” said Abhirami, one of my colleagues at The Ken.
+Thousands of kilometres away, a subscriber took the explanation further. “When I lived in the UK, it was strange to me that people wouldn’t share my joy when there was a good rain. I had to explain what rain meant for us in India, for centuries it meant that we won’t go hungry this year, our crops would bloom, rain meant prosperity, contentment, relief (both from drought and heat). It’s such a cultural thing that it’s almost impossible to pick out a favourite monsoon song. We have so many renditions of malhaar, megh, and miyan ki malhar that I enjoy.”
+We have quite the Monsoon playlist for you today. I tried to arrange the 68 songs on it into some sort of a narrative flow. But I failed, because that’s how diverse they were!
+They’re lush, melancholy, wistful, contemplative, and nostalgic.
+They take us back to parties and friends.
+They remind us of getting soaked at concerts, drizzles that don’t end, the pitter-patter of droplets falling on roofs. The OG binaural beats to sleep.
+They’re about self-love, home, warmth, coffee, and tea.
+They feature soaring, calming, and mellow vocals. There’s a lot of acoustic strings.
+They remind us of our connection with nature.
+Listen on Shuffle. You never know what you enjoy.
+Apple Music: [Listen here](https://music.apple.com/in/playlist/first-principles-monsoon/pl.u-11zB93as8xmqA4E)
+Spotify: [Listen here](https://open.spotify.com/playlist/12PfP6zkG9UDojL3NQjkvj?si=a5a25579b9f54d44)
+Here are a few of the many descriptions subscribers and colleagues wrote in with. Grab a warm cup of tea or coffee, switch on the playlist, and enjoy the monsoon. 🙂
+“Reminds of the rain in Bombay. Monsoon hits the streets and keeps at it for hours. Then in the silent night drops from the trees fall into puddles on the street. This song playing in the distance is what I imagine. Faint, soft, and complimenting the soft pitter patter.” (Song: Rimjhim Gire Sawan)
+*****
+“I used to listen to this song on my Dad’s walkman when I was a little kid, sitting by the side of my bed staring out in the sky and watching the rain fill our front porch. Listening to this song every time brings back that exact memory.” (Song: Rimjhim Gire Sawan)
+*****
+“Unlike usual monsoon songs that give you a feeling of cosy, romantic nostalgia, this song makes one feel a mix joy, excitement and yearning while the monsoon arrives.” (Song: Garaj Baras)
+*****
+“A lowered heartbeat instantly taking you to memories of longing for someone you have lost in the journey of life.” (Song: Indian Rain)
+*****
+“This song brings back the memories of the once empty streets of Mumbai in monsoons. The emptiness feels synonymous with the story of longingness expressed in the words and the video. This song makes me feel like I can even be happy while thinking of someone I miss terribly.” (Song: Nahin Saamne Tu)
+*****
+“The whole song has rain somewhere or the other or water element that the cinematographer PC Sreeram beautifully uses to show this couple who are getting comfortable with each other, their mundane routine and lives. It reminds me of calm love and safe places where you be yourself, feel childish and feel love.” (Song: Aye Sinamika)
+*****
+“Reminds me of my hometown Dharamshala, Himachal Pradesh. Reminds me of the pitter-patter of raindrops that fall of from the pine trees while the mist slowly engulfs everything in sight.” (Song: Beyond the Pines)
+*****
+“While the original recording of this song has a warm, nostalgic feel, this acoustic version dials up the warmth a few more degrees. The tiny imperfections, rawness and sincerity make it a perfect song to have on while driving in the rain. Or while sipping on a coffee/whiskey while looking out a nice big window on a dull, rainy day :-)” (Song: When I come around-4-track demo)
+“The song is about two friends taking a walk during the rains under an umbrella. It reminds me a lot about my native place in Kerala and my childhood where I used to enjoy the rains and playing out in the monsoon.” (Song: Mazhathulikal)
+*****
+“Calm – it resonates with the uncertainity we all have for the future, and that resonance brings calm.” (Song: Iktara)
+*****
+“The music in the song goes through the ebb and flows that kind of synchronises with the moods of the monsoon.” (Song: Moon Child)
+*****
+“The progression of the song is very surprising; just like monsoon rains often are.” (Song: Chinna Chinna Mazhai Thuligal)
+*****
+“Rihanna’s Umbrella reminds me of all the parties I attended when I said goodbye to college life, friends and Delhi when it was a rage in 2007. (Song: Umbrella(Orange Version))
+*****
+“Barbara Streisand always helps me feel powerful when I feel down. This song is like an anthem for everything optimistic, positive and ‘take no shit’ vibe.” (Song: Don’t rain on my Parade)
+*****
+“And I love Adele for these lyrics. Imagining the juxtaposition of two elements – water and fire – that don’t really go together makes it one of my favourite songs.” (Song: Set Fire to the Rain)
+*****
+“The beat of this song – and as with all his music, the endearing softness of Sufjan’s voice – is what makes it a rain song for me. It goes perfectly along with a medium drizzle. Mirrors the calmness and the rhythm of the drizzle.” (Song: Death with Dignity)
+*****
+“Perfect perfect perfect rain song for me – in large part because, of course, in the movie, the entire song takes place in the rain. The sequence is entirely imagined, and the lyrics and overall vibe of this song has that dreamy imagin-y fully longing emotion that Aditya (the protagonist) is feeling – the same things that rain can sometimes make you feel.” (Song: Tum se hi)
+*****
+“This song is about a breakup between two guys. but i’m taking a literal route: i remember hearing it the first time and taking a walk to smell blooming jasmine after a fresh rain.” (Song: Shim El Yasmine)
+*****
+“Got rained on after seeing this performed live, probably more than a decade ago.” (Song: Beirut)
+*****
+“Monsoon, for me, is a phase in which I happen to relive and reflect on my past experiences.” (Song: Nenjukulle)
+*****
+“It’s one my favourite songs to sing on the guitar.” (Song: A waltz for a night by Julie Delpy)
+Dear readers, welcome to this week’s Books section on First Principles! This is Anushka. This last week, I was at a bookstore—The Bookworm, Bengaluru—with a friend, and he happened to notice that I was doing a strange thing. We were scanning the shelves, spotting familiar books, picking interesting ones out. And every few minutes, I would point to a book and tell him “that’s an FP book!”, “This was submitted just last week!”, etc.
+(Spot an FP book here if you can!)
+I guess I’ve created a mental First Principles books catalogue in my head. Or, as the kids say, this section has changed my “brain chemistry.” But, as I argued with him, it’s probably just the Baader-Meinhof phenomenon (also called the Frequency Illusion)—one of my favourite cognitive biases. Essentially, it’s where you notice a specific thing a lot more after becoming aware of it. After I saw the first FP book, they were all I could see. And now, by the laws of this very phenomenon, you might also spot FP books wherever you go. Let us know if you end up picking them up!
+With that, let’s move to this week’s list—three recommendations from the community that fit into the ergodic literature theme from last week. If you happened to miss it, ergodic literature is the (fairly recent) term for books with a format that is non-linear—ones that need a certain amount of effort from you, the reader, to understand the book. Basically, books with funky formats.
+Don’t forget to send along your own recommendations—funky or not—of books that you think the First Principles community would enjoy [here](https://theken.typeform.com/FPBooks)! And switch over to [our onsite edition](https://the-ken.com/newsletter/first-principles/animals-and-choices/) to see what our recommenders have to say about them.
+1. The Alexandria Quartet by Lawrence Durrell—from Lakshmi Raman
+2. Number9Dream by David Mitchell—from Parth Shah
+3. Room by Emma Donoghue—from Divya Mishra
+Hello Ishan, welcome to another issue of First Principles Silent Sunday. It’s Jonathan here as always. How are you this fine Sunday morning?
+Today’s edition features our usual fare of breathtaking new community contributions, yes, but also something extra.
+I’ve been mulling it over for a couple of weeks, but the seed for this was laid just over a month ago, when Lakshmi Raman, one of our regular readers, wrote in about this section:
+“I just love the map of the world that accompanies each set of photos you put on each week’s issue of the Ken. Because I get an idea of the sweep of locations where they have been taken. It gives me a sense of having travelled to these places.”
+Yes! Lakshmi had struck an instant chord. First, because this was exactly why we had started adding maps to our photo collages in the first place. But more importantly, she’d just articulated exactly what I’ve felt curating the hundreds of pictures contributed by the First Principles community.
+I’ve never been to Croatia, nor do I think there’s a fair chance I might in the future, but thanks to some First Principles readers, I’ve been treated to many gorgeous views of the country. Kenya? It’s on my bucket list, but I’m now more resolved than ever on wanting to witness some of those blood-red savannah sunsets in person. Washington DC? Check. Washington State? Check. The Alps, yes. The Himalayas, yes. The Andes… well, not that I can recall. But I’m sure they’ll join the chorus too, soon.
+Our contributors have made this section a kaleidoscope of the world, and for someone who can never afford to visit even a quarter of the places featured in this section, it has been a welcome oasis to slake my wanderlust in.
+And not always, but sometimes, I’ve felt perhaps I’d like to have spent a little more time on these vistas. A few more glimpses, less fleeting that the one or two shots we’re treated to each week. After Lakshmi wrote in, I knew I was not alone.
+So starting today, and every few weeks going forward, this section will include an… album. Of a continent, maybe. A country. Maybe mountains. Seas. Beaches or rivers. All culled from our store of community contributions.
+It took a while to decide what I should kick this off with, but eventually, I decided on a city. One close to home. And one that we got two amazing pictures of just this week.
+This is Mumbai, framed.
+From Rohit Tiwari…
+| Mumbai (Rohit Tiwari) |
+From Kshitij Kumar Pandey…
+| Mahalaxmi, near Famous Studios, Mumbai (Kshitij Kumar Pandey) |
+To see the rest of the FP Mumbai album and all of this week’s other contributions in their full-size glory, please [switch over to our onsite edition](https://the-ken.com/newsletter/first-principles/animals-and-choices/). And as always, you can send in your own Silent Sunday contributions [using this link](https://theken.typeform.com/FPSilentSundays).
+Our other Silent Sunday contributions…
+That’s a wrap for this week. Before you go, if you know someone who might like this newsletter, forward us to them!
+Please write to [fp@the-ken.com](mailto:fp@the-ken.com) if there’s anything you’d like to share with us. Or leave a comment on our on-site edition. See you next Sunday!
+Regards,
+Rohin Dharmakumar

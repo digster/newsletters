@@ -1,0 +1,15 @@
+---
+subject: "What I Read This Week..."
+from: "Chamath Palihapitiya <chamath@substack.com>"
+to: ""
+date: 2024-03-10 16:34:18
+labels: ["CATEGORY_PERSONAL", "Chamath", "INBOX", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "Label_4017391144830520384", "INBOX", "UNREAD"]
+---
+|
+[Listen to our Spaces with Color CEO Othman Laraki](https://substack.com/redirect/f039e03c-3351-4e80-aded-b071ee1131f9?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+The state of Oregon will sign new legislation to
+[recriminalize possession of small amounts of drugs such as fentanyl and heroin](https://substack.com/redirect/977d3039-897a-457a-a8e4-545143bda22f?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o), three years after the state became the first in the U.S. to decriminalize the possession and personal use of all drugs. Opioid deaths in Oregon have tripled between 2019 and 2022, with many of the deaths attributed to the rise in fentanyl. However, under the new law, drug offenders could face up to six months in jail or elect to undergo drug treatment.February’s jobs report
+[shows a healthy but cooling labor market](https://substack.com/redirect/b03de4f1-34cc-41ef-a5dd-8aee11b4b4ee?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o). The economy added 275,000 jobs in February, but the government said January's figures were not nearly as high as previously indicated, revising January's job gains down by 124,000 to 229,000. While the job gains are good news, the unemployment rate crept up by 0.2% to 3.9%, the highest it has been since early 2022.The House Energy and Commerce Committee
+[passed a bipartisan bill on Thursday](https://substack.com/redirect/869974a4-fe0f-405e-8b49-f6606508748d?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)that could force ByteDance, the parent company of TikTok, to sell the video-sharing platform or face a ban in the U.S. If passed, the bill would make it possible for the President to identify and designate social media platforms under the control of adversarial countries as national security threats and subsequently ban them from app stores and web hosting services.
+[Inside Y Combinator’s ‘Boom Loop’: The Startup Factory Goes Brasher, Leaner And Meaner](https://substack.com/redirect/f1b1f23b-ea23-4964-857c-4c9b508f7da0?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)(Forbes)[AI is Taking Water From the Desert](https://substack.com/redirect/7e731e41-6d07-4622-807a-28ceefa58c59?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)(The Atlantic)[Techstars’ $80 Million Partnership with J.P. Morgan is on the Rocks, Employees Say](https://substack.com/redirect/8359e416-4d35-4d54-bdb5-bf1691400e91?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)(TechCrunch)[Waymo Approved by Regulator to Expand Robotaxi Service in Los Angeles, San Francisco Peninsula](https://substack.com/redirect/14d83ff3-b381-4ffc-90bb-f49d7bbe0b4f?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)(CNBC)

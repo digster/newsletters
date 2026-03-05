@@ -1,0 +1,9 @@
+---
+subject: "Welcome to the Garden of Forking Paths!"
+from: "Brian Klaas <brianklaas@substack.com>"
+to: ""
+date: 2024-04-23 18:42:27
+labels: ["Brian Klaas", "CATEGORY_PERSONAL", "INBOX"]
+label_ids: ["Label_1599487573263287548", "CATEGORY_PERSONAL", "INBOX"]
+---
+Thank you for subscribing — I love writing for you. The Garden of Forking Paths is a 1941 short story by Borges, capturing the idea that every moment of our lives is an infinitely forking path, with unlimited possible futures. This newsletter explores our complex, ever-changing world: it will cover a lot of ground for the intellectually curious. I’ll post 1-2x per week. About half the posts will be free. If you enjoy my writing, please consider Here are a few of my most popular posts: Now, let me tell you a bit more about myself. I grew up in Minnesota, co-managed a winning campaign for governor, then decided to get a PhD, so I went across the pond to the University of Oxford. I’ve been in England ever since—12 years and counting—and I’m now an associate professor of global politics at University College London. I’ve written five books (the newest, I live in Hampshire, a bit outside of London, with my dog, Zorro, who is a rambunctious 3 year-old Border Collie (requisite dog photo below—every sentence you read from me is laced with hidden frisbee throws, or I wouldn’t be able to type). I’m a history nerd, so I volunteer as a tour guide at a local history site. I love traveling, and have been lucky to live for extended stints in different countries as part of my work (Madagascar, Togo, Thailand, Côte d’Ivoire, Tunisia, Zambia, Belarus, and so on). And, like you, I love to read ideas that make me see the world a bit differently. Time is our most precious commodity. Thanks for sharing some of yours with me. I’ll be sending you your first edition of the newsletter soon. Brian |

@@ -1,0 +1,38 @@
+---
+subject: "Five Links for May 2025"
+from: "Auren Hoffman of Five Links <auren@substack.com>"
+to: ""
+date: 2025-05-11 16:06:35
+labels: ["Auren Hoffman", "CATEGORY_PERSONAL", "INBOX", "UNREAD"]
+label_ids: ["Label_4260038268466989707", "CATEGORY_PERSONAL", "INBOX", "UNREAD"]
+---
+|
+Here are five links worth reading…
+[Who Wins Nobel Prizes?](https://substack.com/redirect/4bfad2c7-cdbc-45bb-9b2c-3f59963e8b0f?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) by [Brian Potter](https://open.substack.com/users/3518108-brian-potter?utm_source=mentions)
+Data analysis of nearly 900 publications by 545 Nobel Prize winners reveals some striking patterns. One highlight: US dominance of Nobel prizes peaked in the 1980s-90s.
+[The Force That Drives Korea](https://substack.com/redirect/270eb878-1cb9-4b83-9909-b8babfd8816f?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) by [Tomas Pueyo](https://open.substack.com/users/5362415-tomas-pueyo?utm_source=mentions)
+The modern division between North and South Korea follows the same geographic patterns that have shaped the region for thousands of years.
+['](https://substack.com/redirect/90435ddc-d8e9-42f2-9514-2f1d34c1e3eb?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)[I am not who you think I am': how a deep-cover KGB spy recruited his own son](https://substack.com/redirect/90435ddc-d8e9-42f2-9514-2f1d34c1e3eb?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) by Shaun Walker
+The extraordinary true story of how "Peter Herrmann" learned at 16 that his father was actually a Czech KGB illegal named Dalibor Valoušek, who then recruited him as a second-generation spy codenamed "the Inheritor.”
+[ultimate employee: the one that is truly proactive](https://substack.com/redirect/726031fc-437c-47db-8932-a1e353710a1f?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+only 1% of employees are truly proactive. be one of those.
+Bonus (Listen): [Founders Fund’s Trae Stephens - Hard Tech & Modern Defense Strategy](https://substack.com/redirect/88f4157a-a34e-4506-a1fc-ebb7dd642c70?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) (World of DaaS)
+An amazing conversation with Trae Stephens on founding Anduril, building defense tech in the 21st century, and challenging the biggest defense companies in the world.
+[How I Used AI to Save My Life in 77 Prompts: A Debrief](https://substack.com/redirect/82b7ce42-eb08-45ba-a6bb-57d86433d1d0?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) by Bethany Crystal
+A primer on how to use AI for in-depth, iterative problem solving– in this case, parsing medical information to determine if a (lifesaving) ER trip was necessary.
+[How to Get Hired](https://substack.com/redirect/eb99d7d3-92e7-4990-ae30-767689f81ec8?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) by Derek Sivers
+A zero conventional wisdom guide to getting a job you want.
+Bonus (Deep Dive): [Forsaking Industrialism: The Most Expensive Thing You Didn't Buy](https://substack.com/redirect/3882d6ce-73fd-46b4-937a-09a2e5d42d87?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) by [Conrad Bastable](https://open.substack.com/users/2444206-conrad-bastable?utm_source=mentions)
+A deeply researched contrarian argument that tariffs don’t go nearly far enough towards what’s needed to revive American industry.
+Bonus (Suspicious): [Surprise Will of Late Zappos CEO Adds New Twist for His Fortune](https://substack.com/redirect/acaa9dbe-b995-4c6f-addf-2e139ad80eb8?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) by Angel Au-Yeung and Katherine Sayre
+After years of legal battles, someone finally found a will for Tony Hsieh’s estate…in the possession of a dead guy with Alzheimer’s.
+More reading links at [https://twitter.com/AurenReads](https://substack.com/redirect/121a1f87-c755-4b9c-922e-a6ae1b04cc30?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+[Unreasonable Hospitality](https://substack.com/redirect/fe234589-da44-45f5-a337-dd300b8ec936?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) by Will Guidara
+HT: Russ Roberts
+[The Bear](https://substack.com/redirect/c0096fe6-c1d4-4e61-8286-daad0d99a539?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) (yes, finally watched it. and great show to pair with Unreasonable Hospitality book above)
+HT: Russ Roberts, Anne Milgram
+[Graph of the Month:](https://substack.com/redirect/2d693660-7d85-4127-b377-0c6d92ba0dd6?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+need to move society from "low-conviction, strongly-held" to "high-conviction, loosely-held"
+Auren Hoffman is CEO of NQB8, Chairman of SafeGraph (geospatial data on physical places), and GP at Flex Capital ($200M VC firm). Engage on [X: @auren](https://substack.com/redirect/2302263c-5b78-4a3f-b9ee-839a3d1a0781?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+and please share Five Links with your friends and allies.
+Hope you enjoy [Summation by Auren Hoffman](https://substack.com/redirect/2/eyJlIjoiaHR0cHM6Ly9hdXJlbi5zdWJzdGFjay5jb20_dXRtX2NhbXBhaWduPWVtYWlsLWhvbWUmcj04bzU0biIsInAiOjE2MjQ4Njc0OCwicyI6NjU1MjAsImYiOnRydWUsInUiOjE0NTYzMzE5LCJpYXQiOjE3NDY5Nzk2MjEsImV4cCI6MTc0OTU3MTYyMSwiaXNzIjoicHViLTAiLCJzdWIiOiJsaW5rLXJlZGlyZWN0In0.FuEd9sT8sfaTdNhcpARwQj8cGEgOFHm1vZWHtPor0Sg?). Please also follow [@auren](https://substack.com/redirect/2302263c-5b78-4a3f-b9ee-839a3d1a0781?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) on X.

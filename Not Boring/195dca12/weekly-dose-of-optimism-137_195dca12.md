@@ -1,0 +1,68 @@
+---
+subject: "Weekly Dose of Optimism #137"
+from: "Not Boring <notboring@substack.com>"
+to: ""
+date: 2025-03-28 12:00:17
+labels: ["CATEGORY_PERSONAL", "INBOX", "Not Boring", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2982495070691762429", "UNREAD"]
+---
+|
+Hi friends 👋,
+Happy Friday and welcome back to our 137th Weekly Dose of Optimism. Packy kicked off this week with one of my favorite essays in a while, [Hyperlegibility](https://substack.com/redirect/524c67c9-c161-46df-87f3-5baba94e3dba?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o), which discusses our self-imposed drive to make our ideas extremely easy to understand in order to gain attention. So let me make this really clear for you: below I am going to share at least five stories with you that make me feel optimistic about our world.
+Let’s get to it.
+Running your own client-based business can be awesome. Your schedule. Your terms. No boss.
+But it also means no support. You have to manage contracts, send invoices, collect payments, and schedule meetings all by yourself. That’s not what you’re best at, and not why you went independent. So for the past 12 years, [HoneyBook](https://substack.com/redirect/8f7bb71a-150a-45b0-913c-80c367f92045?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) has given independent entrepreneurs the tools they need to make all of the less fun parts easier.
+Now, [HoneyBook](https://substack.com/redirect/545030d1-0589-4436-bafd-cc4682de1fe1?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) is starting to just handle all of that for you. By sprinkling AI onto a product that already understands your workflows, HoneyBook can automate more and more of the stuff that you don’t want to do so you can focus on the things that make you great.
+This is literally the promise of AI. Freeing humans from drudgery to focus on creative pursuits.
+Free yourself. Check out HoneyBook’s [AI-powered platform](https://substack.com/redirect/0409de23-d35a-4af5-a036-a2e324a39041?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) today.
+(1) [First map of human brain mitochondria is ‘groundbreaking’ achievement](https://substack.com/redirect/6ebce70f-d625-497a-bad0-f5c629af4b62?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+Nora Bradford for Nature
+Scientists have created the first map of the crucial structures called mitochondria throughout the entire brain ― a feat that could help to unravel age-related brain disorders.
+Researchers have created the first comprehensive map of mitochondria across the human brain. Mitochondria is — say it with me now — the powerhouse of the cell! They are tiny structures in cells that turn food into energy, making them essential for everything your body and brain does.
+The research team used spatial transcriptomics (study of RNA) and proteomics (study of protein) to analyze 703 brain samples, measuring both gene activity and protein levels related to mitochondria. They combined this with microscopy to count actual mitochondria and assessed the expression of over 1,000 mitochondrial genes. By layering this data onto a 3D model of the brain, they created a detailed energy map (see above) showing how mitochondrial density and function vary by region and cell type.
+The study found that newer, more complex parts of the brain—like those involved in thinking and planning—have more mitochondria and more efficient energy use than older brain regions. Mitochondrial activity also varied by cell type, with neurons generally showing higher energy needs than support cells. The findings show that energy production is closely tied to brain function and evolution.
+While this is generally useful to map out and know, it’s particularly helpful in understanding why certain parts of the brain are more prone to aging and neurodegenerative diseases. Understanding how energy maps through the brain could aid the development of treatments for things like Parkinson’s and Alzheimers.
+(2) [Introducing 4o Image Generation](https://substack.com/redirect/15c511c0-61d5-40d6-ae4d-d62563acb2b9?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+From OpenAI
+At OpenAI, we have long believed image generation should be a primary capability of our language models. That’s why we’ve built our most advanced image generator yet into GPT‑4o. The result—image generation that is not only beautiful, but useful.
+Unless your wifi’s been offline for the past 48 hours, you’ve probably noticed the flood of AI-generated images—many in Studio Ghibli style—taking over the internet. That’s because OpenAI added advanced image generation functionality to its 4o model.
+OpenAI’s new image generation now allows users to edit images directly with text prompts (the inability to do this previously was a huge pain) and generate images within chat, making the whole process generally more flexible and enjoyable. And importantly, the image generation is just better: more accurate, detailed, and reflective of the actual prompt.
+Tough to say exactly how this will change the world or media or whatever, but as a very real first use case, marketers have taken to vibe marketing. No more spending thousands of dollars on designers to sketch up static image Meta ads. Just upload a template, some pictures of your product/brand, and prompt the model to generate new ads for you. Who knows if that type of creative will ultimately be rewarded by Meta, but it is an example of a decades old workflow being potentially disrupted by an OpenAI model upgrade.
+In the meantime, while we watch that play out, enjoy the [Ghiblification happening on X](https://substack.com/redirect/076142e6-449b-4172-92c8-501a82ac853f?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o).
+Brian Potter for Construction Physics
+Looking at the backgrounds of Nobel Prize winners can tell us about where some of the best scientific work is being done, and the sort of people and institutions that are doing it.
+Brian Potter, the writer of one of our favorite Substacks, [Construction Physics](https://substack.com/redirect/272a1414-256b-46c8-b5b3-aece9c3bb3c2?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o), did an in-depth analysis of Nobel Prizes to better understand how and where scientific breakthroughs occur. The whole piece is worth a read but here were the main takeaways:
+Scientific output is concentrated: A small number of universities (Cambridge, Harvard, Columbia) produce a large share of Nobel-winning research.
+Geographic dominance: The US leads in Nobel-winning work post-WWII; UK and Germany out-punch their weight.
+Labs are getting more important: Most prizes stem from academia, though government and private labs are growing in influence.
+Recognition lags: Time between discovery and Nobel award has doubled (from ~10 to ~25 years), even though breakthrough work still occurs around age 40.
+Progress may be slowing: Fewer transformative discoveries—or delayed recognition—could signal a scientific slowdown in Nobel fields.
+Potter doesn’t necessarily offer any solutions for increasing the rate of scientific breakthroughs based on his analysis. However, it certainly seems to me that the consolidation of knowledge and resources under powerful institutions — whether it’s nations, universities, or government/private labs — has historically led to more scientific breakthroughs. It makes me wonder how the erosion of trust in these types of institutions could impact scientific breakthroughs in the future.
+The past is certainly not predictive of the future — distributed scientific work is certainly more possible today than it was in the 1950s — but these historical trends do call into question what the proper balance of institutionalized and distributed opportunity is for scientific innovation.
+(4) [One Man’s Crypto Windfall Is Funding a $1 Billion Space Station Dream](https://substack.com/redirect/a101f860-cb9d-422d-ac19-bb45c0aca326?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+Kiel Porter and Loren Grush for Bloomberg
+The billionaire who was behind the infamous Mt. Gox Bitcoin exchange and the cryptocurrency XRP is the sole financial backer of a wildly ambitious effort to build the world’s first commercial space station and send it into orbit.
+I know there’s that whole line of scoffing around “those billionaires and their rockets…what are they compensating for lol?!”
+Yeah, no eye-rolls from me. I fricken love when tech billionaires plunge their vast wealth into moonshot rocket companies. It might be my favorite behavior of theirs actually. Even better when that wealth isn’t just tech wealth, but crypto wealth. Made billions on magic internet money? What better way to thank the gambling lords than to invest a large portion of the winnings into pushing civilization into the stars. Which is why I love this story about Jed McCaleb and his new space startup, [Vast](https://substack.com/redirect/2ac0dbfc-fb40-4e4f-87ea-9a06cd03f5ce?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o).
+Jed is a crypto billionaire — he founded Mt. Gox and co-founded Ripple (XRP) and the Stellar payment network. His current net worth is about $3.3B. He’s very crypto rich. And he’s investing about 1/3rd of that money into building Vast.
+Vast is aiming to build the first commercial space station, called Haven-1. The goal is to eventually replace the aging ISS and the plan is generally in-line with NASA push to privatize low-Earth orbit infrastructure. The company is growing very quickly: it now has over 700 employees, is closely partnered with SpaceX, and is planning to launch its first station in 2026.
+Turning XRPs into ISSs — that’s a winning trade for society.
+(5) [Common Sense 324 – What’s Good for the Goose](https://substack.com/redirect/455c39b9-5818-496c-9a8b-8901090f83d0?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+Dan Carlin on Common Sense
+Show 324 - What's Good for the Goose Dan Carlin |
+You’ve likely heard of [Hardcore History](https://substack.com/redirect/00d0cf66-f4f0-4790-8589-6b2461837b4a?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o), the absolutely epic history podcast series from Dan Carlin. You’re probably less familiar with Dan’s other podcast, [Common Sense](https://substack.com/redirect/4718b26e-882f-4c06-a1c7-15e594e77df4?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o), where he analyzes current events through an independent, historical lens. The podcast began in 2005 and put out 318 episodes until 2018. Since 2018, he’s only released 6 episodes — the 2020 election, January 6th, exit from Afghanistan, the invasion of Ukraine, and now episode 324 on the current political environment in the U.S.. Which is to say, Dan really picks his spots these days.
+I greatly respect Dan' Carlin’s political perspectives: he’s read just about as much history as anyone, he’s extremely non-partisan, and fiercely independent. He’s also not overly reactive — he looks at things on decades or century long timelines.
+This episode is not necessarily going to leave you feeling optimistic about the future. The whole episode is Carlin ringing the alarm on U.S.’ current political environment. But it is a reminder of the values that made/make the U.S. special and why those values are worth standing up for.
+Bonus: [AI Helping Lifeguards Guard Lives](https://substack.com/redirect/269a1e4d-61ee-4bea-8e93-e2cd22f65e0f?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+From Abundance Institute
+Packy here. It’s no big deal really, but I was a beach lifeguard in high school. Saved a guy’s life once. I didn’t think there was anything that could make a guy feel cooler than being a beach lifeguard, but there is: being a beach lifeguard with access to shark-spotting drones.
+Our friends at the Abundance Institute put out a short video on X about California lifeguards using drones and an AI model trained to recognize Great White Sharks to predict where they’re likely to show up next. Surf’s up.
+BONUS x2: Hyperlegible 001, Tina He, Jevons Paradox: A personal perspective
+Packy again. This week, I launched a new podcast called [Hyperlegible on not boring radio](https://substack.com/redirect/5bfbe688-e859-44ae-a454-9a7d763eec63?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o). Every week, and hopefully multiple times a week, I’m going to interview the people who wrote my favorite essays of the week about that one specific essay.
+The first one was with Tina He about her excellent [Jevons Paradox: A personal perspective](https://substack.com/redirect/ca61aca6-f9a4-4138-89a3-acf7b4312bb1?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o). It’s about how we decide what to do in a world in which we can do more than ever.
+I just recorded the second, which should be coming out in the next few days.
+There’s so much good writing happening on the internet, and with the podcast, I hope to curate some of the best and hear the how, what, and why from the writers behind them. So if you see an essay you love, send it my way.
+Have a great weekend y’all.
+Thanks to [HoneyBook](https://substack.com/redirect/8f7bb71a-150a-45b0-913c-80c367f92045?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) for sponsoring. We’ll be back in your inbox next week.
+Thanks for reading,
+Packy + Dan

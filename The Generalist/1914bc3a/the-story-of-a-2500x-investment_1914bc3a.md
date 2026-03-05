@@ -1,0 +1,66 @@
+---
+subject: "The Story of a 2,500x Investment"
+from: "The Generalist <thegeneralist@substack.com>"
+to: ""
+date: 2024-08-13 12:42:29
+labels: ["CATEGORY_PERSONAL", "INBOX", "STARRED", "The Generalist", "YELLOW_STAR"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "STARRED", "Label_8815311452832858585", "YELLOW_STAR"]
+---
+|
+🌟 Hey there! This is a subscriber-only edition of our premium newsletter designed to make you a better founder, investor, and technologist. Members get access to the strategies, tactics, and wisdom of exceptional investors and founders.
+Friends,
+“Most people overestimate what they can do in one year and underestimate what they can do in ten years,” Bill Gates once said.
+When Vinod Khosla joined Kleiner Perkins in 1986, he was a novice investor. Fast-forward a little over a decade, and he had become one of Silicon Valley’s most notable rainmakers, with the returns to show for it (and more on the way).
+During a 10+ year spell, Vinod made what may be the best-performing venture capital investment of all time, turning a few million of invested capital into $7 billion in returns. That grand slam was sandwiched between three other huge winners, bringing in several billion more. There’s a reason why Vinod’s friend and former colleague John Doerr said he had delivered “$10 billion in profits” for Kleiner Perkins.
+For scholars of the asset class, Vinod’s hot streak is worth studying with a close eye. In today’s edition of “Letters to a Young Investor,” we ask Vinod to walk us through this period of his life, outlining the thinking and theses that drove his decision-making. As you’ll read, Vinod discusses how he came to make these investments, often against better judgment. He also shares a few of his investing “misses,” identifying their sources of failure. Finally, he reflects on his near-40 year investing career, Khosla Ventures’ 20-year anniversary, and what it takes to build a great firm.
+If you want to hear a master of the craft talk through one of their most fertile periods, join as a premium member today.
+Don’t fear the bully. One of Vinod’s best returns came from a “bad investment.” NexGen wanted to go head-to-head with Intel, computing’s “big bully” at the time. Rather than retreat, Vinod invested and delivered an impressive return. No matter how imperturbable a market incumbent looks, there may still be room for a scrappy startup to thrive.
+Find a supertrend. Three of Vinod’s most productive investments during his hot streak were inspired by seeing a single supertrend before the rest of the market. Look for exponential technologies, and when you begin to see the “knee of the curve,” prepare to pounce.
+The “smart people thesis.” In a previous letter, Vinod referred to his Sun Microsystems co-founder Andy Bechtolsheim as “the goose that laid the golden egg.” As it turned out, Andy would keep producing, introducing Vinod to both Juniper Systems and Google. This is a testament to Vinod’s “smart people thesis” – hang around with brilliant people, and good things happen.
+Search for passion. Vinod founded Khosla Ventures in 2004. Twenty years later, his shop has become a Valley mainstay, backing many of the most important companies of the past few generations, including Stripe, DoorDash, Faire, OpenAI, and Affirm. The hardest part? Building a team of truly passionate practitioners.
+Subject: The KP grand slams
+From: Mario Gabriele
+To: Vinod Khosla
+Date: Sunday, July 28 2024 at 4:41 PM BST
+Hi Vinod,
+I’m glad to be back in touch. It’s been a busy summer, as I’m sure it has for you as well. I hope you’ve had some downtime to dip into your stack of research papers.
+Now, onto today’s topic: your remarkable series of grand slam investments between 1986 and 1998.
+First, a little chronology for readers.
+In 1986, you joined Kleiner Perkins as a general partner. In doing so, you helped form perhaps the greatest team in venture capital history, joining John Doerr, Brook Byers, Kevin Compton, Tom Perkins, and Frank Caufield. Though there are many great investors that have worked at other firms, I cannot think of a more densely talented team in the asset class.
+The results speak for themselves. During your near-20 year spell with Kleiner, that team backed a string of legendary companies – Netscape, Amazon, and Google among them – and delivered scorching returns. This was a team that seemed to see the future first, and understand how to invest against it.
+Some readers may know that you were directly responsible for several of the biggest winners from this epoch: NextGen, Juniper Networks, Cerent Corporation, and Siara Systems.
+Though the names of these companies may not spark the same recognition, all were essential in building the modern tech sector we know today. All four were also extraordinary investments, grand slams of the highest order. An introduction for those unfamiliar with this part of venture history (dates are when Kleiner invested):
+NexGen, 1988. A fabless chip designer, NexGen built microprocessors that competed directly with Intel. The company went public in 1995 and was acquired by AMD for $850 million in 1996 ($1.8 billion today).
+Juniper, 1996. Your investment in Juniper, a networking startup focused on data routing, is one of the greatest of all time. Kleiner’s initial investment was reportedly worth $7 billion at the time of exit, a 2,500x return.
+Cerent, 1997. Cisco acquired Cerent for $6.9 billion in 1999, giving it a way into the high-speed fiber optic networks market. Kleiner’s $8 million investment resulted in a $2 billion return ($3.8 billion today).
+Siara, 1998. Like Cerent, Siara also operated in the optical networks space. Just two years after the investment, it was purchased by Redback for $4.3 billion ($7.5 billion today).
+The 10-year stretch between investing in NexGen and Cerent is one of the hottest streaks of all time, producing billions in returns for limited partners. Your colleague John Doerr has [previously](https://substack.com/redirect/4ce1e7b6-8494-4fc4-afc4-50048be16797?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) said you “made Kleiner $10 billion in profits” during your time there.
+Researching this period of your life raises many questions. Above all, I would love to hear your recollections of these investments, and this insanely generative period. What did you understand about the world that others were missing? What were the teams behind these organizations like? What motivated your decision to back them? And what lessons did you glean from this period that have served you in the decades since?
+Given the quality of your peers, I’m also keen to understand what you picked up from those around you. When you started at Kleiner in 1986, as far as I can tell, you had no prior investing experience. Though you are clearly someone who prefers to build your opinion from the ground up, I imagine you still learned a great deal from the likes of John, Brook, and Kevin.
+The nature of venture capital means that you will have many more unsuccessful investments than winning ones. There’s one in particular that I’d love to revisit with you: Go Corp.
+Readers may wonder: why this startup in particular? From the outside, Go seems like a farsighted idea, arriving at the right time, with a $75 million venture warchest and a strong team. I was surprised to learn that Bill Campbell, the future Intuit CEO and legendary coach to Steve Jobs, Jeff Bezos, and Sergey Brin, was the startup’s CEO. Other members of leadership went on to high-profile positions at Verisign, Google, LucasArts, and Netscape.
+Go built the precursor to tablets (and arguably large smartphones) – a “pen-operated computer.” It released its first device, the PenPoint, in 1991, beating Apple Newton, PalmPilot, and Blackberry to market by years. You’ll probably remember the company’s [release video](https://substack.com/redirect/bf17e1da-6a42-4f25-8ace-785263ddd6c7?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o), which looks even more impressive with the benefit of knowing how computing progressed in the three decades since.
+Just three years later, Go closed its doors, selling to AT&T. Of course, every startup can fail, but given how many good ingredients Go seemed to have, I’d be interested in your reflections on its journey. Why do you think it failed to establish itself? What did it misunderstand about consumers or its market? Did that experience give you a better-prepared mind for subsequent consumer hardware investments like Rabbit’s handheld AI assistant?
+While there’s a wealth of wisdom to glean from your wins, I think there’s also plenty to learn from investments that didn’t pan out as one might have hoped.
+You eventually left Kleiner in 2004 to found Khosla Ventures, which means the firm is now 20 years old. As the New York Times [pointed](https://substack.com/redirect/ec5f49a7-48e6-4e09-a3e3-3f40f57dffd6?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) out earlier this year, though many of your peers have retired or stepped back from venture, you remain active, continuing to find and fund startups. What keeps you in the game after four decades of investing? What have been the hardest parts of building a firm of your own?
+Thank you so much for taking the time to share your knowledge with me, and The Generalist’s readers.
+Gratefully,
+Mario
+Subject: The KP grand slams
+From: Vinod Khosla
+To: Mario Gabriele
+Date: Monday, August 5 2024 at 1:42 PM PST
+Mario,
+Great to hear from you. So far, summer has been super busy and I have yet to get into my quiet time or reading.
+I’m glad to revisit my time at Kleiner. It was an incredible couple of decades. You asked me what I learned from colleagues like John Doerr. One of my regrets is that I never had a mentor in my life. I grew up in India, and arrived in America without knowing anybody. I had to learn by myself, with little guidance.
+Of course, I still learned from the people I worked with. Kleiner had a lot of very diverse people and I learned from all of them.
+From John, I learned an incredible amount about how to ask good questions. Whether he knows an area well or not, John asks great, penetrating questions. That’s a real talent. If I ask a junior investor for their key questions on a company, they’ll often come back with twelve or more. I’ll tell them, “Come back to me when you’ve found the two or three questions that capture the essence of what’s happening, and that have the potential to change our investment decision.” The same is true for founders – there are only a few questions that really impact success or failure.
+Another trait of John’s is his optimism. He always imagines everything is possible. By contrast, Doug Mackenzie, who was another Kleiner partner at the time, focused on why you shouldn’t invest in a business. I took pieces from both of them.
+You mentioned Kevin Compton. He was probably the ultimate paragon of Kleiner’s values. He was a good role model to emulate. There was a lot of learning over 20 years, but it was up to me to learn from them.
+NexGen is an interesting story. It was a bad idea to invest in. But I hate monopolies, I hate bullies. And at the time, Intel and Andy Grove were the big bully. So I took them on naively, not understanding what couldn’t be done. It can be a great benefit to not know your limitations.
+If I do say so myself, we had a brilliant strategy. We faced Intel head-on and didn’t let them bully us. We actually reverse-engineered their chips in a clean room, which was legal. It wasn’t the kind of thing that happened much in the 1990s, though.
+We then used that knowledge to predict what Intel’s next generation of chips would look like, and filed patents to block their progress. So, when Intel sued us for something, we could effectively block their progress. We were this tiny ant, taking on an elephant. ...
+Become a paying subscriber of The Generalist to get access to this post and other subscriber-only content.
+| Premium subscriber-only posts | |
+| Learn from legendary investors and founders | |
+| Post comments and join the conversation |

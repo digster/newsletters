@@ -1,0 +1,21 @@
+---
+subject: "A $1.4B payments bank wants to be a lender that doesn’t lend"
+from: "The Ken <info@the-ken.com>"
+to: ""
+date: 2023-08-08 02:39:03
+labels: ["CATEGORY_PERSONAL", "INBOX", "The Ken", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_8244464457792971031", "UNREAD"]
+---
+Good Morning Ishan,
+In all my years of tracking fintech, never before have I come across a company—big or small—that didn’t want to go all in on lending.
+But there is an exception after all: Fino Payments Bank. “We don’t want to be part of the rat race to build a lending book,” Rishi Gupta, Fino’s chief executive, who has been a banker for 27 years, told The Ken.
+As a payments bank, it’s understandable to have an anti-lending view; after all, the regulator forbids such banks from extending loans directly. But now that Fino has got its board’s approval to apply for a small finance bank licence, which comes with the privilege of lending, it still doesn’t want to lean on loans.
+Being a payments bank taught Fino the hard way to make money—charging its 8.2 million customers a subscription fee for having a current or savings account. In fact, nearly 20% of its revenue comes from such fees. Overall, its revenue rose 22% to Rs 1,230 crore for the financial year ended in March 2023.
+While other banks derive most of their revenue from interest income, Fino, as an SFB (provided it secures a licence from the Reserve Bank of India to operate as one), will get the largest chunk of its revenue through fee income on payment services, current and savings accounts, cash-management services, and remittances, among others.
+So why should the bank even become an SFB if it doesn’t want to lend? And what about simply meeting the credit needs of its customers?
+Both of these questions are legitimate. As for the answers and more, you should read Rounak’s story on Fino’s counterintuitive decision: [https://the-ken.com/story/a-1-4b-payments-bank-wants-to-be-a-lender-that-doesnt-lend/](https://the-ken.com/story/a-1-4b-payments-bank-wants-to-be-a-lender-that-doesnt-lend/?utm_source=daily_story&utm_medium=email&utm_campaign=daily_newsletter) [8-minute read]
+Regards,
+Arundhati
+[arundhati@the-ken.com](mailto:arundhati@the-ken.com)
+What you just read is the personalised daily introduction to The Ken's story. Written by a different person each day. Often insightful, sometimes witty, and very rarely boring. Someone sent this to you? [Sign up for free](https://the-ken.com/?modal=register&utm_source=footer&utm_medium=email&utm_campaign=morning_email_ind_shared). [Dont like these? You can unsubscribe](https://link.the-ken.com/asm/unsubscribe/?user_id=2349339&data=DTE_AKlEd8EntStsnq64IZrSQxnXIUSfd5qWXanGC9JoMDAwdTAwMOAAiPUA_NTVRUV7yV-wtXt7vXNZRIWlJp2sxtFpfV6MFGJOwlH2PUyLGc49OVSj_YOnnLVciA5Q85HDVFQzv2Nv7LoPb3uhX7uWj6gPfxguCH_wt8B6jbe6MOCdPFszii2iZSNiQc4783jHQ43RzbiYF7dhJkHgZvjIegY_1RfCRU2dXzkfsPUApCWDz-LuzMY5A_lP_nPNqUTExBodXxgszt43wWdBaTSbgpaClM75u_-MvnoA2Y0RuVmPcsLoZ4H4l_Ys0LSaS-OVWd4GWhXxunuxTBsFXpLmgE9IIu4cLtvTnY9nmYz_-gv8MlS5cB9ZQNAt4NXPc_mQm2CvGZxXYHe2b1je2TrX2IdAyatsLcQuw_0oSgvrB0O2EIRbEvgn0TYTf2CDZ54Rvrgb8QWRucCJpfI_-qYBQQuFpHRE0WDueJJHHD2ujcGZFtsljJdr3OhXG_E217fpto5V7_cUfznAf1Tael-HjM1ahfBSKjlC4zBVBJtIwQHsUYxH8rs_c0jbxWpTo5db3yU20Us=) Dont want to hear from us again? [ Unsubscribe from our emails here](https://link.the-ken.com/asm/?user_id=2349339&data=Eu1PTXMaSSMU8xE8-324elbz6JKlZd_kGnIVHzAMW5doMDAwdTAwMBmK9z_B5LcbGagOd3wvx-sisGmVLtxcfXbjAJkaLr6_0KCPw9YC7FJw0wqLJshcVAoHcbKEtWIlREuXDbTch0ycko_gsW8q2jVrkJ8emksEH-szTbxmazoIPiHByo6oA51Eew7S-Dr91dv9cpKePnJt8vZofiIyMiTCmnbn2t9TjkiihUu0GdDvtJKf1AI9lV0cIiDOFFwysclAXaSbG2O0ylgOOUKhNfUMM9kmeQKm6QMBi1yUxC3Bl9WEO-6V1bzwOdKBErdozvHeCu0UurfCnZHwXl4H9blcLBtnbxWBK4ty4EvSosqSbWLbK6Zekz6fABe39ZxjfhZGaDSzFjxdn1jy9JG10CXKu9MpHarbLO4c6iPjl77yugaIuJuNG1lNcRkM2lNRHhjiQbDjMCtoqTBqfHt7ayRRIVuGzTKd-VmpRgliQ_THmuzX2E2wFQuj2Jsz5kOVf1bxbsJDkpZuPXI5ZnP_hPXUp0OCQuyI58Maz1ZO4CTr57GACX6aag==).
+Something wrong? Tell us at [support@the-ken.com](mailto:support@the-ken.com)

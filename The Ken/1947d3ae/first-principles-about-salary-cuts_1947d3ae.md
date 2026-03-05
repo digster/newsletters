@@ -1,0 +1,103 @@
+---
+subject: "First Principles: About salary cuts"
+from: "The Ken <info@the-ken.com>"
+to: ""
+date: 2025-01-19 06:23:17
+labels: ["CATEGORY_PERSONAL", "INBOX", "The Ken", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_8244464457792971031", "UNREAD"]
+---
+|
+|
+First Principles
+Sun, 19 Jan 25
+A community-powered Sunday newsletter on mental models, self-reflection, learning, growth, photos, books, and more..
+Dear Ishan, good morning and welcome to another Sunday.
+“…and one of the questions we asked was, ‘Would you be willing to take a pay cut for this?’” said Professor Varun Nagaraj.
+Prof. Nagaraj is the Dean of Mumbai-based business school SP Jain Institute of Management Research (SPJIMR). Earlier this week, my co-host Praveen and I were recording the latest edition of The Ken’s Two by Two podcast. The topic: should students really be responsible for running the intense and high-stakes process of finding and matching employers with graduates?
+I’ve linked to the episode later in the newsletter, if you want to listen to a wonderful (if I may say so myself) conversation on how the entire concept of “placements” needs to be rethought.
+But back to the conversation. Prof. Nagaraj was telling Praveen and me about an interesting survey SPJIMR is running around sustainability. Willingness to take salary cuts was one of the questions asked.
+I immediately latched on to it. Because I love survey questions that make us stop, think, and choose hard options. And what better example of that than the “salary cut”, something we need to be more comfortable talking about, normalising, and even accepting a few times in our careers. It is also the topic of today’s edition.
+Meanwhile we’re also in the final gasps of Bengaluru’s short winter season. The days are getting warmer even as the nights and mornings stubbornly seem to get chillier. The numerous types of trees that line the city’s roads have started reflecting the changing seasons too. My favourite these last few weeks have been the Silk Cotton trees around the Domlur flyover. Their red kidney shaped fruits are so incongruous and hard to miss.
+Here’s everything we have for you today.
+1. Pay cuts
+2. If B-schools were invented today, would students run placements? 🎙️
+3. Observed reality 📚
+4. All our furry friends Vol. 2 📸
+[Pro tip: This email is a highly abbreviated version, since many email clients impose restrictions on the amount of material we can publish in a single email before intervention. In fact, it’s likely some email clients may even clip this truncated email.
+The best way to experience this edition is to [read it on our website or app](https://the-ken.com/newsletter/first-principles/first-principles-about-salary-cuts/), where all sections are featured in full and unabridged form.
+Also, if your default setting is to not show images within emails, please consider turning it off for this newsletter. Or else, you’ll miss many of the interesting images and photos we carry each Sunday.]
+When it comes to innovation and entrepreneurship, most of us now believe that failure isn’t a bad thing. In fact, it is often a necessary ingredient on the road to success. Because we know that success might come after numerous attempts, many of which might fail but eventually add up to that elusive success.
+Yet, when it comes to our individual careers, if there is one thing we still consider taboo, it is the dreaded pay cut.
+A pay cut is still considered as a mark of personal failure. We instinctively baulk from career options, no matter how interesting they might be, the moment we realize that we must accept a salary cut.
+“Salary cuts are one of the most destabilising and demoralising of workplace interventions. Founders and HR leaders know that. Because most employees believe their real worth was their earlier salary. When you hire people at a pay cut, they’ll take it with a pinch of salt. You are always at war with the employee. You don’t want that kind of an employee. They’ll be out the first chance they get,” Das said.
+[The Ken](https://the-ken.com/story/indias-startup-workplaces-confront-the-rise-of-the-unhireables/): India’s startup workplaces confront the rise of the ‘unhireables’—by Arundhati Ramanathan
+Conversely, many smart professionals optimise their careers for salary hikes too much, eventually reaching a self-fulfilling stage where they find their future options locked in by the willingness of employers to keep paying the salaries they expect.
+(A) Are you a thirty-something in a mid- or senior-level position?
+(B) Do you work in a product and tech role in a series-B or above company?
+(C) Saw a salary hike of 30% or more for each of the past three years?
+(D) Do you earn more than Rs 50 lakh (~US$60,000) per annum?
+If you’ve answered ‘yes’ to most of these questions, you may have a problem on your hands. You could find yourself among a cohort of professionals whose salaries are out of sync with the dramatically different startup environment. Put simply, as an asset, you might be overvalued in the same way your startup once was.
+In the absence of a “valuation correction”, you might even be an “unhireable”.
+But ask yourself, if we think it’s okay for entrepreneurs to accept failing many times before (and hopefully) they get to success, why shouldn’t it be okay for professionals to accept a few salary cuts if they ensure their long-term careers turn out to be more successful?
+In an earlier edition, we talked about “[creating and embracing dilemmas](https://the-ken.com/newsletter/first-principles/creating-and-embracing-dilemmas/)”.
+Most of us hate conflict and would rather avoid it. And when it comes to decisions, we subconsciously choose the path of least resistance.
+While this is perfectly okay for the hundreds of minor decisions we make each day, it fails us when we need to make big decisions whose consequences (good or bad) play out over years, or even decades.
+Because those decisions have tradeoffs, risks, consequences, and conflicts. And by avoiding dealing with them consciously, we make suboptimal decisions.
+“If you take the best text in economics by Mankiw, he says intelligent people make decisions based on opportunity costs—in other words, it’s your alternatives that matter. That’s how we make all of our decisions.”
+That’s from Poor Charlie’s Almanack. It’s a tome of a book on the late Charlie Munger, Warren Buffet’s partner and equal in Berkshire Hathaway. There’s a review of the book later in this edition.
+I used Munger’s quote here to illustrate how decision making is always about alternatives. Do you switch jobs or stay on? Do you start up or aim for that promotion? Do you buy a house or continue to rent?
+When faced with a salary cut, what are your alternatives? Is it “don’t accept a salary cut”?
+Or is it, “stick with the current job”? For how long?
+Or, “buy yourself another year”?
+Or, “postpone professional growth”?
+When a salary cut comes bundled with a role that might reshape you as a professional, or make you much happier, what are your choices?
+I am not a fan of salary cuts. At The Ken, we try our best to avoid having to hire someone at a salary cut, if we can. So, I am not advocating for salary cuts if you’re satisfied with your career arc.
+But I’ve taken numerous salary cuts in my career. The first one was when I decided to become a business journalist for the first time. I knew journalism wouldn’t pay what I wanted, but it would let me do what I loved—writing about business. It was the fourth job of my career, and the one I spent the most years at and have the fondest memories of (as an employee).
+We’re in an epochal era when it comes to careers. Last Sunday, I offered you a [survey](https://the-ken.com/newsletter/first-principles/the-end-of-40-year-careers/?utm_source=ro_hdr&utm_medium=email&utm_campaign=fp_newsletter) on “The End of 40-year Careers”. As I write this six days later on a Saturday evening, 556 of you have told me what you think (I will always be grateful that so many of you trust me and The Ken to participate in our incredibly self-reflective surveys!). Here’s what you think are the number of years of a reliable career that 20-somethings entering the workforce today can expect.
+Even if we disregard the alarming number of you who felt the answer is in single digits as (understandable) catastrophizing, you can see that we have to think more seriously and non-linearly about our careers. Because, even as reliable careers are getting shortened, we’re expected to work longer, because we now live longer.
+“I know I’m going to have a career over a very long stretch and it won’t be just one thing,” Ms. Japp says. “Plus there’ll be more fluidity between periods of work, school, and family.”
+Millennials like Ms. Japp, as well as the generations behind them, are starting to think about their careers in a totally different way from their elders. They have no choice: because they are likely to live healthily into their 90s or longer, they must learn to navigate 60-year careers instead of the traditional 40-year span.
+But such a change will require a new mindset when it comes to planning a career. Instead of advancing vertically up a single path, for instance, people will need to move sideways—and even down at times—as they traverse different jobs and multiple careers. They will have to make sure they have adequate income to sustain themselves over lengthy lives. They will need to figure out where they derive the most job satisfaction so they don’t burn out after decades of working. They will have to keep acquiring new skills to avoid becoming obsolete. And, if they can afford to, they may want to take occasional career breaks to balance their personal and professional lives.
+[The Wall Street Journal](https://www.wsj.com/articles/career-length-retirement-living-longer-11675878313): Here Comes the 60-Year Career—by Carol Hymowitz
+The old autopilot career model of tenure, experience, and salaries moving in lock step over the decades is breaking. We used to think of careers as ladders that only take us upwards, hence the stigma towards falling down a rung or two with a salary cut. But careers are really like lattices.
+Now, we could either counter that on our own by taking charge of our career paths or we could wait for it to happen to us.
+I get that salary cuts are a hard thing. I also get that not all of us have the financial security to voluntarily seek one in pursuit of a better long-term career. But life, too, has a way of handing us shocks and surprises regardless of whether we were in a position to receive it.
+Prof. Varun Nagaraj: I will describe a very funny situation to you about the secrecy part, right? So, you obviously know when placements are going on because your students are slightly better dressed than they normally are. They’re out in suits all nicely…
+[…]
+I asked one of these nicely dressed folks, two years ago, I said, “Hey, interview today?” and they go, “Yes, sir”. And again, I try and insist people don’t call me “sir”, but that’s a custom, I guess.
+I said, “So who are you interviewing with?” And suddenly, there’s an uncomfortable silence and the student says, “I can’t tell you”. And this is when I realized there’s something weird going on in my campus, which I understand happens everywhere.
+And I said, “No, no, I mean, who are you interviewing for? Who are the companies in today and what’s your interview?”
+“I can’t tell you,” they say.
+And I said, “Why can’t you tell me? I’m your Dean. 'Placecom rules.'"
+Placecom rules of secrecy imply you can’t talk to anybody else, including your Dean, about who you might be interviewing for that day. I had never heard of anything this ridiculous. So, I went over to the grownups in the placement office and I said, “Okay, explain to me, what is this?”
+And then they talk about day zero, day one, company A shouldn’t know company B is coming in and therefore nobody needs to know. And I said, “So if I wanted to help that particular student saying, ‘hey, listen, if this is a company, if it’s Intuit that’s coming in, think about this one, this is really their hot button.’… so I can’t even help them, can I?”
+No, you can’t, because placement secrecy rules apply. And so, at least now, I’ve lifted it. I’ve told Placecom, “I don’t care what your rules are. You create a new rule. If the Dean asks the student, the student answers.”
+Rohin Dharmakumar: The Dean Exception!
+Prof. Varun Nagaraj: The Dean Exception. I mean, how ridiculous is this? But this is what we’ve got.
+Two by Two Podcast:[ If B-schools were invented today, would students run placements?](https://the-ken.com/podcasts/two-by-two/if-b-schools-were-invented-today-would-students-run-placements/)
+And while we’re still on the topic of MBA hiring, here’s two recent articles that I read on the topic. MBA jobs are getting scarcer.
+From The Wall Street Journal:[ Even Harvard M.B.A.s Are Struggling to Land Jobs](https://www.wsj.com/lifestyle/careers/harvard-mba-employment-rate-job-hunt-difficulty-addfc3ec)—by Lindsay Ellis:
+Twenty-three percent of job-seeking Harvard M.B.A.s who graduated last spring were still looking for work three months after leaving campus. That share is up from 20% the prior year, during a cooling white-collar labor market; the figure was 10% in 2022, according to the school.
+“We’re not immune to the difficulties of the job market,” said Kristen Fitzpatrick, who oversees career development and alumni relations for HBS. “Going to Harvard is not going to be a differentiator. You have to have the skills.”
+Harvard isn’t the only elite business school where recent grads seem to be stumbling on their way into the job market. More than a dozen top-tier M.B.A. programs, including those at the University of Pennsylvania’s Wharton School, Stanford’s Graduate School of Business and New York University’s Stern School of Business, had worse job-placement outcomes last year than any other in recent memory.
+The Economist:[ Why elite MBA graduates are struggling to find jobs](https://www.economist.com/business/2025/01/14/why-elite-mba-graduates-are-struggling-to-find-jobs)
+Some declines are jaw-dropping. The Massachusetts Institute of Technology (MIT) has a decent claim to be the world’s top university. But at its business school, named after Alfred Sloan, a giant of the car industry during the 20th century, the wheels are coming off. During the decade to 2022, on average 82% of its students searching for a job had accepted one at graduation, and 93% had done so three months later. In 2024 those figures were 62% and 77%, respectively. At some elite schools the reality may be even worse than it looks. One professor worries that some students who are counted as entrepreneurs are in fact unemployed. American business may be booming. But those who imagine themselves as its future leaders are suffering a recession.
+Here’s wishing this year’s MBA graduates all the luck!
+Hello Ishan, it’s Hari here with your weekly dose of books.
+[Last week](https://the-ken.com/newsletter/first-principles/the-end-of-40-year-careers/), when I asked for recommendations that would get everyone out of their reading ruts, I was expecting a lot of fiction. And I was right about that; we did receive many novels, a few of which I absolutely want to get around to reading this year. But I was looking forward to the non-fiction recommendations even more, because it is a lot harder to convince someone that a book based on observations from boring, everyday reality is a page-turner (unless it’s True Crime, of course).
+So when I was going through the recommendations this week, all the non-fiction books really stuck out to me. From the life story of one of our country’s most treasured writers, as told by him, to an exploration of the building blocks of life, we have a set of four books this edition that I think would intrigue a lot of our inquisitive readers.
+Of course, I don’t intend to overlook the great novels that many of you have shared, and we’ll be back with that list next week. In the meantime, please tell us which books are keeping you busy these days using [this link here](https://theken.typeform.com/FPBooks).
+[Do switch to our [website edition](https://the-ken.com/newsletter/first-principles/first-principles-about-salary-cuts/) to see what our recommenders have to say about them.]
+1. [Lone Fox Dancing](https://www.goodreads.com/book/show/35157938-lone-fox-dancing) by Ruskin Bond–from Rajesh K Sharma
+2. [What happened To you?](https://www.goodreads.com/book/show/53238858-what-happened-to-you) by Bruce D. Perry and Oprah Winfrey–from Kavitha Murali
+3.[ The Book You Wish Your Parents Had Read [and Your Children Will Be Glad That You Did]](https://www.goodreads.com/book/show/42348818-the-book-you-wish-your-parents-had-read-and-your-children-will-be-glad) by Philippa Perry–from Kshitij Chopra
+4. [The Song of the Cell](https://www.goodreads.com/book/show/60321392-the-song-of-the-cell) by Siddhartha Mukherjee–from Pramanshu Rajput
+Hello and welcome to another issue of First Principles Silent Sunday. It’s Jonathan here, how are you this fine morning?
+A few weeks ago, we asked all of you to send in pictures of your favourite indies (cat or dog, pets or streeties) and we received a ton of pictures. We made our first set of introductions in early December (please go make your virtual hellos if you haven’t already), and I think it’s way past time for the next one.
+So here we are.
+Please switch over to [our website or app](https://the-ken.com/newsletter/first-principles/first-principles-about-salary-cuts/) edition to read the wonderful introductions that have been sent in. It’s the kind of Sunday morning soul supplement that you don’t want to skip. If you would like to send in pictures of your own favourite indies, please [use this link](https://theken.typeform.com/fpindies) and we’ll introduce them to the community in future volumes!
+[As always, you can send in pictures from around the world for our regular Silent Sunday section [here](https://theken.typeform.com/FPSilentSundays).]
+That’s a wrap for this week. Before you go, if you know someone who might like this newsletter, forward us to them!
+Please write to fp@the-ken.com if there’s anything you’d like to share with us. Or leave a comment on our on-site edition. See you next Sunday!
+Regards,
+Rohin Dharmakumar

@@ -1,0 +1,11 @@
+---
+subject: "The Sacred Architecture Edition"
+from: "\"Why is this interesting?\" <whyisthisinteresting@substack.com>"
+to: ""
+date: 2023-11-01 10:47:26
+labels: ["CATEGORY_PERSONAL", "INBOX", "UNREAD", "WITI"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "UNREAD", "Label_5752899537867939131"]
+---
+Colin here. Last year I visited the island of Sumba for the first time. It’s about an hour flight from Bali and is a very interesting place, specifically for its unique architecture. Just as Bali has its own aesthetic codes and ways of designing, the Sumbanese have a distinctive style of house: Why is this interesting? Despite different cultural and linguistic groups, the architecture unites the Sumbanese under their religion, Marapu. The belief channels spirits of the dead, sacred places, heirloom objects, and instruments used to communicate with the spirit world. According to
+The space is divided into a few distinctive areas, and the narrow, high central point is where sacred heirlooms are stored. Offerings and other sacred rituals are held in this space, as offerings to ancestors. The homes make use of cross ventilation and natural cooling through small holes in the walls, similar to the PAID AD: Miki here. I'm the founder of YoEmbryo, where we are building okCupid for embryo donation. The idea came out of our own experience trying to find families to donate our remaining embryos after IVF. YoEmbryo's purpose is to normalize embryo donation, particularly as something that creates a bond between families, rather than a simply transactional act. If you have frozen embryos or are somewhere in your fertility journey where you're starting to contemplate all the emotional and ethical complexities around infertility, donation, and genetic connection (or you're just curious), you should check us out. — Thanks for reading, Noah (NRB) & Colin (CJN) —
+Invite your friends and earn rewardsIf you enjoy Why is this interesting?, share it with your friends and earn rewards when they subscribe. |

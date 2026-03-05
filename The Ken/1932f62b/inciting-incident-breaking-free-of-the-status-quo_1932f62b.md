@@ -1,0 +1,36 @@
+---
+subject: "Inciting Incident: Breaking free of the status quo"
+from: "The Ken <info@the-ken.com>"
+to: ""
+date: 2024-11-15 10:33:38
+labels: ["CATEGORY_PERSONAL", "INBOX", "The Ken", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_8244464457792971031", "UNREAD"]
+---
+|
+|
+Inciting Incident
+Fri, 15 Nov 24
+Inciting Incident is our weekly newsletter about the most powerful tool of our age—stories. Stories told by businesses, leaders, governments..
+Good Evening Ishan,
+On Wednesday, Delhi-based environmental research organisation Centre for Science and Environment (CSE) hosted a [panel discussion](https://www.youtube.com/watch?v=8Spz0pTXXIU&t=3s) on plastic pollution financing. The event comes just ahead of a key meeting in Busan, South Korea, where the world’s nations will try to thrash out a crucial treaty [to reduce](https://www.thehindu.com/opinion/editorial/plastic-solution-beyond-the-global-plastics-treaty/article68149652.ece) global plastic production and pollution.
+The Global Plastics Treaty, an ambitious initiative involving at least 175 United Nations member nations to eliminate the use of plastics, concluded its fourth round of negotiations recently. The goal is to finalise a legal document by the end of 2024 with timelines by when countries must agree to curb plastic production, eliminate its uses that create wastage, ban certain chemicals used in its production and set targets for recycling. Unfortunately, an agreement is not in sight. There is yet another round of negotiations scheduled in Busan, South Korea this November. The primary hurdles are economic.
+The panel discussion saw speakers dwell a fair bit on the current system for mitigating plastic pollution—called Extended Producer Responsibility (EPR)—which requires the producer to own the responsibility for environmentally sound management of the plastic they produce until the end of its life.
+This, the panellists were categorical, just isn’t working—neither in terms of driving any real improvements in local waste management nor waste prevention. Every speaker referred to [four reports](https://www.breakfreefromplastic.org/epr-in-asia/) that have highlighted this failure over the last few years. And this is a problem that requires an urgent solution—plastic waste generation is expected to triple by 2060, with interventions for system change and single-use plastic reduction estimated to cost a massive US$1.64 trillion. Developing countries, meanwhile, face a financing gap of up to US$500 billion.
+One of the speakers, Siddharth Singh of CSE, noted that the Indian government has set some targets for collecting, recycling, and then using the recycled plastic. The [recycling target](https://pib.gov.in/PressReleasePage.aspx?PRID=1881760) for the year 2023–24 was 30%-50% across all four categories.
+However, he also said that the government and recyclers haven’t really developed the capacity to achieve these targets.
+And the situation, he said, is far worse on the ground than the figures suggest. There is a lack of transparency on the part of plastic producers, malpractices across states, and negligible capacity to recycle or manage certain categories of plastics.
+This isn’t an India-specific issue either, it’s a global one.
+A [report](https://www.breakfreefromplastic.org/smoke-and-mirrors/) published by SourceMaterial and Bloomberg says there are serious flaws in the systems supposed to ensure that plastic producers and users take responsibility for the pollution their products cause. This includes things such as plastic offsets, credits, and plastic neutrality, but these measures don’t do much to promote recycling. In fact, only 14% of the Plastic Credit Exchange’s credit-generating projects are recycling.
+Here’s an excerpt from the report:
+Plastic credits are encouraging the burning of plastic — a practice that releases harmful toxic chemicals and greenhouse gases, with no environmental benefits. 86% of projects on the PCX database generate credits from burning, and 22% of projects on the Verra database will. PCX charges less for projects that send plastic waste to cement kilns than for projects that recycle.
+With that in mind, let’s put India’s status as the world’s biggest plastic polluter and the Indian government’s side of the story [into perspective](https://www.downtoearth.org.in/waste/india-tops-plastic-pollution-rankings-emitting-a-fifth-of-global-plastic-waste).
+India has secured the top spot as biggest plastic polluter in the world, releasing 9.3 million tonnes (Mt) annually, according to a new study. This amounts to roughly one-fifth of global plastic emissions. The country’s official waste generation rate, approximately 0.12 kilogrammes per capita per day, is likely underestimated, the study published in the journal Nature highlighted. Additionally, waste collection is likely overestimated. This could be because official statistics do not include rural areas, the open burning of uncollected waste, or waste recycled by the informal sector, the paper said. Taking the second and third spots were Nigeria, with 3.5 Mt of emissions and Indonesia, with 3.4 Mt.
+India’s government, despite all the targets it has announced for plastic collection and recycling, has chosen to support the [status quo](https://thewire.in/environment/is-india-resisting-global-regulations-on-plastic/?mid_related_new) in the Plastics Treaty negotiations, keeping company with countries such as Saudi Arabia, Kuwait, Iran, and China. It is why the Indian delegation has repeatedly emphasised that if the government tried to phase out plastics, it would adversely affect the country's economy.
+But as the research reports and analysis from the ground suggests, plastics are [seriously impacting](https://thewire.in/environment/is-india-resisting-global-regulations-on-plastic/?mid_related_new) human health and the environment both, even when the waste has been treated.
+Plastic production increased nearly 230-fold from about two million tonnes in the 1950s to 460 million tonnes in 2019. It is expected to grow to 34 billion tonnes by 2050. Increasingly, the world has realised the need to curtail plastic not just because of its adverse effects on human health and the environment, but due to its link to the oil and gas industry – over 99% of chemicals used for producing plastics are derived from fossil fuels. When burnt for energy generation, plastic releases as many greenhouse gases as its source material. On the other hand, globally, only 9% of plastic gets recycled. Interestingly, these are the two solutions offered by many countries, including India, to offset the indiscriminate use of plastics.
+[…]
+Plastic accounts for more than 60% of total petrochemicals produced in India. The petrochemical industry in India is booming and is expected to contribute to 9% of the country’s GDP. The government even offers subsidies to encourage increased investment, production and export in the plastics sector due to its contribution to the economy.
+It seems clear that the government has chosen the narrative it wants to stick to. But it’s not really one that leads to a cleaner, healthier future for all.
+Please write to [inciting-incident@the-ken.com](mailto:inciting-incident@the-ken.com) with your thoughts, and I will be back in your inbox next Friday with another edition.
+Yours,
+Ruhi

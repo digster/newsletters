@@ -1,0 +1,116 @@
+---
+subject: "First Principles: (Unformed) Thoughts on AI"
+from: "The Ken <info@the-ken.com>"
+to: ""
+date: 2025-05-11 05:55:04
+labels: ["CATEGORY_PERSONAL", "INBOX", "The Ken", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_8244464457792971031", "UNREAD"]
+---
+|
+|
+First Principles
+Sun, 11 May 25
+A community-powered Sunday newsletter on mental models, self-reflection, learning, growth, photos, books, and more.
+Dear Ishan, good morning. As I finish writing this edition on a cloudy and overcast Saturday evening in Bengaluru, there is a much darker shadow over all of India. That of war. Let’s hope that by the time you’re reading this, those clouds have scattered a bit and are being blown away by forces and people much bigger than us. And I hope we manage to do that without further loss of lives or injuries.
+Last Sunday, I dropped [Bribo](https://the-ken.com/newsletter/first-principles/bribo/) off at Cartman Hospital for his neutering operation that was scheduled for Monday. Through the week, I was feeling strangely sad at this. Logically, I knew it was best for him. But that he trusted me enough to take him and leave him in a strange place was the hard part. There was sadness in the choices I was making for him, and in the total trust he places in me despite that.
+Here’s Bribo at the hospital, while we were waiting for our turn. Like the free-range soul he is, he insisted on sitting in the grassy patch in the courtyard, instead of the concrete area where most other dogs sat with their caretakers and families.
+On Wednesday, I brought him back, one ear now notched, and released him into his familiar territory. He drooled and hung his head out of the window all through the car ride back.
+We’re both at ease now.
+Meanwhile, the water apple tree in our backyard went from profusely fruiting to profusely shedding all in the space of week. The pre-monsoon rain earlier this week played a huge role.
+Here’s everything we have for you today:
+1. (Unformed) Thoughts on AI
+2. Something for everyone 📚
+3. The Next 10 Years of Investing, Wealth, and Markets 🔊
+4. Summer getaways 📸
+[Pro tip: This email is a highly abbreviated version, since many email clients impose restrictions on the amount of material we can publish in a single email before intervention. In fact, it’s likely some email clients may even clip this truncated email.
+The best way to experience this edition is to [read it on our website or app](https://the-ken.com/newsletter/first-principles/unformed-thoughts-on-ai/), where all sections are featured in full and unabridged form.
+Also, if your default setting is to not show images within emails, please consider turning it off for this newsletter. Or else, you’ll miss many of the interesting images and photos we carry each Sunday.]
+First Principles is a newsletter and collective endeavour against blind or meek conformity. We reflect, challenge, hypothesise, and even agonise each week over things most others may not care about, because those things matter to us.
+Yes, we’re all interested in growth and success, but what binds us (hopefully) together in First Principles is the desire to achieve those things while preserving what makes us unique, original, and authentic.
+I don’t think there has been any economic, technological, or behavioural trend in my lifetime that has sought to subsume and erase the very essence of what makes us human as LLM-powered AI. And it is all three of them.
+I, however, refuse to accept AI as my destiny without a fight. I appreciate its utility in numerous contexts and situations, but never as a universal tool to replace human talent and skill.
+Today’s edition is different from regular ones. It is an unformed collection of thoughts and articles about how AI companies and models are changing us. I stress on the word “unformed” because it is not a clear (much less simple) narrative. It is a collection of disparate and loosely connected ideas lacking a single conclusion.
+That is okay. I realise that decisions about the rest of my career and life don’t need to be made in haste, despite all the FOMO-based exhortations from either those who have skin in the AI game or are just chasing page views.
+I am okay not being sure yet. If I was an LLM, I would pretend to be confident. But I am human, thus I have the capacity to hold doubt, contradictions, and unformed ideas in my head as I continue to formulate my own plans.
+Confidence and “sycophancy” are not bugs of LLMs, as the cliché goes, instead they are features.
+Sycophancy is the first LLM “dark pattern”—Sean Goedecke
+[https://www.seangoedecke.com/ai-sycophancy/](https://www.seangoedecke.com/ai-sycophancy/)
+With the latest GPT-4o update, this tendency has been turned up even further. It’s now easy to convince the model that you’re the smartest, funniest, most handsome human in the world.
+[…]
+The seeds of this have been present from the beginning. The whole process of turning an AI base model into a model you can chat to – instruction fine-tuning, RLHF, etc – is a process of making the model want to please the user. During human-driven reinforcement learning, the model is rewarded for making the user click thumbs-up and punished for making the user click thumbs-down. What you get out of that is a model that is inclined towards behaviours that make the user rate it highly. Some of those behaviours are clearly necessary to have a working model: answering the question asked, avoiding offensive or irrelevant tangents, being accurate and helpful. Other behaviours are not necessary, but they still work to increase the rate of thumbs-up ratings: flattery, sycophancy, and the tendency to overuse rhetorical tricks.
+[…]
+Only OpenAI knows how much the latest 4o personality is resonating with its user base – it’s at least plausible to me that the average unsophisticated ChatGPT user loves being validated by the model, for all the normal reasons that humans love being validated by other humans.
+Let’s start with learning. Most AI hucksters prefer hand-waving about the inevitability of AI. I prefer observing and understanding from the specificities. What has AI meant for education in just 2–3 years?
+“Is AI Enhancing Education or Replacing It?”—Clay Shirky
+[https://www.chronicle.com/article/is-ai-enhancing-education-or-replacing-it](https://www.chronicle.com/article/is-ai-enhancing-education-or-replacing-it)
+The recent case of William A., as he was known in court documents, illustrates the threat. William was a student in Tennessee’s Clarksville-Montgomery County School System who struggled to learn to read. (He would eventually be diagnosed with dyslexia.) As is required under the Individuals with Disabilities Education Act, William was given an individualized educational plan by the school system, designed to provide a “free appropriate public education” that takes a student’s disabilities into account. As William progressed through school, his educational plan was adjusted, allowing him additional time plus permission to use technology to complete his assignments. He graduated in 2024 with a 3.4 GPA and an inability to read. He could not even spell his own name.
+To complete written assignments, as described in the court proceedings, “William would first dictate his topic into a document using speech-to-text software”:
+He then would paste the written words into an AI software like ChatGPT. Next, the AI software would generate a paper on that topic, which William would paste back into his own document. Finally, William would run that paper through another software program like Grammarly, so that it reflected an appropriate writing style.
+This process is recognizably a practical version of the Chinese Room for translating between speaking and writing. That is how a kid can get through high school with a B+ average and near-total illiteracy.
+LLM-based AI models provide us the convenient (and confident, until challenged) illusion of experience.
+“Why AI is Destroying Academic Integrity”—Hilarious Bookbinder
+[https://hilariusbookbinder.substack.com/p/why-ai-is-destroying-academic-integrity?r=epq8m](https://hilariusbookbinder.substack.com/p/why-ai-is-destroying-academic-integrity?r=epq8m)
+Nozick was anti-hedonism. He argued that as appealing as the experience machine initially seems, we would not want to spend our lives attached to it. There are two key reasons why: first, we want to do things with our lives, to accomplish things. It is not merely the artificial feeling of accomplishment that we crave, but the actual fact of it, the truth that we have done something with our time in the world. It is better to write the Great American Novel than just have the false conviction that you have written it, it is better to be loved and have real friendships than buy the machine’s lie otherwise.
+Second, the experience machine not only strips us of a connection to real accomplishment, but prevents us from becoming authentic persons. Are you courageous, kind, intelligent, witty, loving, generous? Plugged into the experience machine of phony pleasures, you aren’t anything. Instead, you are simply a passive blob, a receptacle of pleasurable (but fraudulent) sensations. If you prefer to do and have done things and to become a real and genuine person, then you should reject the allure of the experience machine.
+That’s Nozick’s argument. Nozick is wrong. AI is the birth of the experience machine, and students prefer it. That’s why they cheat.
+But if we’re already mid-career, why bother so much about learning? Because learning isn’t just something that happens in classrooms.
+“What Happens When There’s No Job To Learn On?”—Noah Millman
+[https://gideons.substack.com/p/what-happens-when-theres-no-job-to](https://gideons.substack.com/p/what-happens-when-theres-no-job-to)
+So let’s think about engineering. A.I. is already able to do a great deal of basic coding. I have no doubt it will be able to perform similarly in other engineering-related fields. It’s not hard to imagine, without positing dramatically greater advances in LLM capabilities, a future in which much of the process of building or making anything is outsourced to an A.I. The next generation of engineers will grow up using A.I. to solve basic problems all the time—they’ll never have to solve those problems without its help. As a result, though, they’ll never really have their hands in the guts of what they are making, and they won’t really understand, at a tactile level, how those guts work.
+But innovation often comes precisely from getting your hands dirty. That’s one of the key reasons to worry about the fact that America has outsourced so much of its manufacturing to China (and other countries)—the people who are actually doing the manufacturing are in the best position to see ways both to improve any given process and to use it for new ends. When you outsource the doing, you also outsource the learning.
+LLM-powered AIs are tools. Yes, incredibly powerful tools trained on nearly the sum total of human knowledge and creativity. But still, tools.
+When people tell you that the future—all of the future—is going to be beholden to those who are able to wield these tools the best, I wonder what that means.
+If everyone has access (via a convenient monthly subscription) to tools that are trained on knowledge made by everyone, then what makes each individual tool user unique? What keeps them unique?
+How well they use the tools? How good of a tool operator they are?
+“The danger of relying on OpenAI’s Deep Research”—The Economist
+Deep Research is trained on an enormous range of public data. For many tasks, this is a plus. It is astonishingly good at producing detailed, sourced summaries. Mr Cowen asked it to produce a ten-page paper explaining David Ricardo’s theory of rent. The output would be a respectable addition to any textbook.
+Yet the sheer volume of content used to train the model creates an intellectual problem. Deep Research tends to draw on ideas that are frequently discussed or published, rather than the best stuff. Information volume tyrannises information quality. It happens with statistics: Deep Research is prone to consulting sources that are easily available (such as newspapers), rather than better data that may be behind a paywall or are harder to find.
+[…]
+Ineluctably, you find yourself taking intellectual shortcuts. Paul Graham, a Silicon Valley investor, has noted that AI models, by offering to do people’s writing for them, risk making them stupid. “Writing is thinking,” he has said. “In fact there’s a kind of thinking that can only be done by writing.” The same is true for research. For many jobs, researching is thinking: noticing contradictions and gaps in the conventional wisdom. The risk of outsourcing all your research to a supergenius assistant is that you reduce the number of opportunities to have your best ideas.
+There are writers who write on typewriters, or with pens.
+There are photographers who shoot on film.
+There are CEOs who read printouts and get their assistants to do email.
+There are investors who don’t live on Bloomberg terminals.
+There are chefs who don’t do molecular gastronomy.
+There are movie directors who don’t use special effects.
+Are we saying that human innate talent will cease to exist? That it will refuse to matter? That we will all be judged solely on how well we can use AI tools?
+It’s tempting to watch professionals or startups that are able to harness AI to their advantage and think you must do it too. But they are working to their strategic advantage. What is yours?
+The balance lies in how well you maximise your productivity with AI while also maximizing how much of your expertise and uniqueness and talent and passion you retain within yourself.
+“Avoiding Skill Atrophy in the Age of AI”—Addy Osmani
+[https://addyo.substack.com/p/avoiding-skill-atrophy-in-the-age](https://addyo.substack.com/p/avoiding-skill-atrophy-in-the-age)
+If a whole generation of programmers “never know the satisfaction of solving problems truly on their own” and “never experience the deep understanding” from wrestling with a bug for hours, we could end up with a workforce of button-pushers who can only function with an AI’s guidance. They’ll be great at asking AI the right questions, but won’t truly grasp the answers. And when the AI is wrong (which it often is in subtle ways), these developers might not catch it – a recipe for bugs and security vulnerabilities slipping into code.
+It isn’t a surprise that those with the most experience are able to harness AI best. Because they are harnessing their earlier talents to leverage and maximize their outcomes.
+What are yours?
+Nobody else—certainly no AI huckster—is going to tell you what will make you unique and valuable. Sure, read all the posts from experts about what kind of skills will be valuable 5–10 years from now. Also know that 90–99% of them have no clue and might turn out to be wrong.
+But 100% of them don’t know you.
+You have to spend time introspecting and going deep into what you want to be. What your skills will be. Whether or not you use AI, what are your beliefs about yourself?
+Don’t outsource your future to someone else peddling social media views, FOMO, or a SaaS subscription.
+And let’s hope this never comes to pass.
+“Creativity Came to Pass”—Declan Chidlow (Fiction)
+[https://vale.rocks/posts/creativity-came-to-pass](https://vale.rocks/posts/creativity-came-to-pass)
+The algorithms generated exactly what the children wanted to see, and most grew up never seeing a point in creating things of their own. They saw what was given to them, and most never really developed a curiosity or drive to create. Nothing AI spoon-fed them was challenging; it simply catered to their desires. Despite this, a small few of the new generation did pick up the creative spark and continued making, though their abilities were stunted by the lack of community, mentorship, and perceived value.
+As the generations stretched on, oral and undocumented knowledge, techniques, and philosophies were gradually lost. As AI as a whole continued to become more capable, technology moved with it, and more and more people were displaced. This uncertainty only led to a further lack of motivation which further stifled creativity.
+AI continued to become more and more prevalent as the dominant technology. The AI we gained wasn’t misaligned – a lot of safety work had ensured that – but it was disincentivised to discuss human creative output. This was both due to artists’ vocal distaste for AI and their deliberate avoidance of scrapers to prevent their work from ending up in training sets.
+Hello Ishan, it’s Hari here. Every week, around Thursday, I’m introduced to a new world of books simply by scrolling through what the community has sent in as recommendations. Of course, not all books are for everyone. I know enough people who are voracious readers but haven’t ever touched anything apart from a thriller. Bless them.
+I have to say today’s picks are an interesting assortment, though. I looked long and hard to find something that could bind them together as a little collection, but… no luck. Which just means they are best left (and presented) as they are. And I hope you enjoy them.
+Please do continue sending in your recommendations to the community [using this link](https://theken.typeform.com/FPBooks?typeform-source=the-ken.com), and switch over to our [website or app edition](https://the-ken.com/newsletter/first-principles/unformed-thoughts-on-ai/) to see what our recommenders have to say about the books.
+If you know a booklover who would love to become part of our community, do share this edition with them. You can just copy-paste [this link](https://the-ken.com/newsletter/first-principles/unformed-thoughts-on-ai/) and send it to them, or share it on social media like [Whatsapp](https://api.whatsapp.com/send?text=Check%20out%20this%20edition%20of%20the%20First%20Principles%20newsletter%20by%20The%20Ken.%20Tap%20to%20read:%20https://the-ken.com/newsletter/first-principles/unformed-thoughts-on-ai%3Futm_source%3Dss_wsp%26utm_medium%3Demail%26utm_campaign%3Dfp_newsletter), [Linkedin](http://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fthe-ken.com%2Fnewsletter%2Ffirst-principles%2Funformed-thoughts-on-ai), or [X](https://twitter.com/share?text=Check%20out%20this%20edition%20of%20First%20Principles%20by%20The%20Ken:&url=https://the-ken.com/newsletter/first-principles/unformed-thoughts-on-ai%3Futm_source%3Dss_twr%26utm_medium%3Demail%26utm_campaign%3Dfp_newsletter).
+Here is our collection for the week:
+1. [Guns, Germs and Steel](https://www.goodreads.com/book/show/1842.Guns_Germs_and_Steel) by Jared Diamond—from Sankalp Bajpai
+2. [F-rated](https://www.goodreads.com/book/show/51812492-f-rated?from_search=true&from_srp=true&qid=DK4S4DZBGt&rank=1) by Nandita Dutta—from Anusha Mysooru
+3. [Beyond a Boundary](https://www.goodreads.com/book/show/170277.Beyond_a_Boundary?ref=nav_sb_ss_1_17) by C.L.R. James—from Niyam Joshi
+4. [The Diving Bell and The Butterfly](https://www.goodreads.com/book/show/193755.The_Diving_Bell_and_the_Butterfly?ref=nav_sb_ss_1_26) by Jean-Dominique Bauby—from Lakshmi Raman
+Come 19 May, Monday, my Two by Two co-host Praveen and I will sit down with an esteemed panel of three special guests to discuss investments in a stock market fraught with irrationality. When the very nature of the markets has changed, and age-old investment principles no longer appear valid, where does that leave us as retail investors?
+To live up to our promise that the Beyond the First Order event series will be about you, every ticket holder can pose one great question to our panelists. What is the one thing you want answered by Nithin, Deepak, and Avinash? We will bake your questions into the discussion. You can read more about the event and buy your tickets here:
+[https://the-ken.com/event/the-next-10-years-of-investing-wealth-and-markets/](https://the-ken.com/event/the-next-10-years-of-investing-wealth-and-markets/?utm_source=fp&utm_medium=email&utm_campaign=bfo_stock)
+Hello Ishan, welcome to another edition of First Principles Silent Sunday. It’s Jonathan here. How are you this fine summer morning?
+The last week has been tough. I’ve had to travel impromptu because of family commitments, and impromptu means whatever buses, trains, or flights I could grab tickets for on short notice, forget convenience or comfort. Add a vengeful summer sun to the mix and I’ve come close to keeling over of dehydration a couple of times (my fault for forgetting to grab that bottle of water) and seen my bus driver come close to keeling over of dehydration (he did have a bottle of water, which served him naught).
+That Indian summers are brutal isn’t a revelation, and there’s a long list of things we can do to stave off the worst. But me? I almost always default to wishing fervently for an escape. Not just for a few blessed hours in some airconditioned safehouse, but for a few days in an idyllic retreat where the sun, if it does show up, is friend and not fiend.
+Doing that this year doesn’t look like it’s an option for me, but I’m sure that’s not true for many others in our community. So, if we do decide to escape the Indian summer, where should we go? Does any nice, quiet, non-tourist-trappy destination come to mind? Have you been there? We’d love to publish some pictures from those places in Silent Sunday, along with your descriptions and recommendations. So send them to us [using this link](https://theken.typeform.com/fpsilentsundays), or by writing to [fp@the-ken.com](mailto:fp@the-ken.com).
+For now, here is our album for this week, replete with some soothing summer sights. Please switch over to our [website or app edition](https://the-ken.com/newsletter/first-principles/unformed-thoughts-on-ai/) to see the full-size version of all the pictures.
+And if you know of any other photographers and photo connoisseurs who’d fit right in with our talented community, share this edition with them. You can just copy-paste [this link](https://the-ken.com/newsletter/first-principles/unformed-thoughts-on-ai/) and send it to them, or share it on social media like [Whatsapp](https://api.whatsapp.com/send?text=Check%20out%20this%20edition%20of%20the%20First%20Principles%20newsletter%20by%20The%20Ken.%20Tap%20to%20read:%20https://the-ken.com/newsletter/first-principles/unformed-thoughts-on-ai%3Futm_source%3Dss_wsp%26utm_medium%3Demail%26utm_campaign%3Dfp_newsletter), [Linkedin](http://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fthe-ken.com%2Fnewsletter%2Ffirst-principles%2Funformed-thoughts-on-ai), or [X](https://twitter.com/share?text=Check%20out%20this%20edition%20of%20First%20Principles%20by%20The%20Ken:&url=https://the-ken.com/newsletter/first-principles/unformed-thoughts-on-ai%3Futm_source%3Dss_twr%26utm_medium%3Demail%26utm_campaign%3Dfp_newsletter).
+That’s a wrap for this week. Before you go, if you know someone who might like this newsletter, forward us to them!
+Please write to [fp@the-ken.com](mailto:fp@the-ken.com) if there’s anything you’d like to share with us. Or leave a comment on our on-site edition.
+See you next Sunday!
+Regards,
+Rohin Dharmakumar

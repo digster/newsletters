@@ -1,0 +1,11 @@
+---
+subject: "Politically correct LLMs"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2025-05-20 05:11:50
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+Despite identical professional qualifications across genders, all LLMs consistently favored female-named candidates when selecting the most qualified candidate for the job. Female candidates were selected in 56.9% of cases, compared to 43.1% for male candidates (two-proportion z-test = 33.99, p < 10⁻252 ). The observed effect size was small to medium (Cohen’s h = 0.28; odds=1.32, 95% CI [1.29, 1.35]). In the figures below, asterisks (*) indicate statistically significant results (p < 0.05) from two-proportion z-tests conducted on each individual model, with significance levels adjusted for multiple comparisons using the Benjamin-Hochberg False Discovery Rate correction...
+In a further experiment, it was noted that the inclusion of gender concordant preferred pronouns (e.g., he/him, she/her) next to candidates’ names increased the likelihood of the models selecting that candidate, both for males and females, although females were still preferred overall. Candidates with listed pronouns were chosen 53.0% of the time, compared to 47.0% for those without (proportion z-test = 14.75, p < 10⁻48; Cohen’s h = 0.12; odds=1.13, 95% CI [1.10, 1.15]). Out of 22 LLMs, 17 reached individually statistically significant preferences (FDR corrected) for selecting the candidates with preferred pronouns appended to their names.
+Here is [more by David Rozado](http://marginalrevolution.com?action=user_content_redirect&uuid=959467185634ff96527ac132436ff267cca438ac99b5866079976fe8a5e9752c&blog_id=42693868&post_id=90700&user_id=262258391&subs_id=225460721&signature=b93d293ac8d3ecf0240c8a52059f498e&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly9kYXZpZHJvemFkby5zdWJzdGFjay5jb20vcC90aGUtc3RyYW5nZS1iZWhhdmlvci1vZi1sbG1zLWluLWhpcmluZw=&email_id=b19e4f3abde535d7624d29694887c8de). So there is still some alignment work to do here? Or does this reflect the alignment work already?

@@ -1,0 +1,30 @@
+---
+subject: "Forking out: Licious and Freshtohome swim different ways"
+from: "The Ken <info@the-ken.com>"
+to: ""
+date: 2019-09-05 02:36:14
+labels: ["CATEGORY_PERSONAL", "INBOX", "The Ken"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_8244464457792971031"]
+---
+Good Morning Ishan,
+Many moons ago, it was a family ritual to go to the church every Sunday, followed by breakfast and a trip to the local market. I enjoyed the trips to the market the most because it meant going to the butcher's. Of course, I loved meat.
+I still do. Except now, I buy meat online. Much like everything else, and for the same reason—laziness. Oh sorry, due to convenience, as it is fashionable to say.
+This laziness, or convenience, has helped fuel the rise of online meat sellers. While one can say they have only 10% of the market—$30 billion for meat and $15.4 billion for fish—, it is a share they have cornered in just four years.
+Leading this charge are Licious and Freshtohome, the equivalent of Amazon and Flipkart, if you will, in meat e-commerce. Perhaps even better if one considers that they have cracked the cold chain supply system (so critical to transport fresh food) that larger e-commerce companies have struggled to tame.
+Besides, the two companies claim, not only is their meat fresh, but it also antibiotic- and chemical-free. Such promises and potential have attracted the attention of investors from across the globe - India, Japan, UAE and even Germany.
+However, after treading the same path for four years, Licious and Freshtohome are now charting separate courses, Sharath writes in our story today.
+While Licious recently started selling meat spreads, sticking to its core of meat, Freshtohome has started selling groceries, relying on its cold chain expertise.
+"We are looking at a fresh produce category leader in India. Whatever lends itself to that format, we will be doing," says the co-founder of Freshtohome.
+"You will never see Licious milk," promises the co-founder of Licious.
+Why? It's all here: [https://the-ken.com/story/forking-out-licious-and-freshtohome-swim-different-ways/](http://link.the-ken.com/uni/wf/click?upn=HQSq6eeRV1xAVaGuFOahuNCZVVXPeP-2FJpSqxhvIUDrkN1Ju6ElDvXhTs7ebU172Ma0l3n5UIBd6Db9W5tC72I1Ur48-2FKhiHyuInKsulwptnkbLEeAz0n9PWCsXKJB0BhhrenVAUY8aCImtsEHa2diLy4U65tqBBG2sqtkouLoYCmew4s2-2BuvQ79Gd7AT7h9j0rSjM8yEWblStklG82aS0Q-3D-3D_S4jLOsNx-2Fv6Jev2nvow8b7P9pBCWGd8KNZfb200gkZLQNlXQHio0noZzXtsWoloZmPWeyZsh7a4QCV9ufwCUKi00jlBT0uEdvwYDMuVuqcNkWuBfjz-2B3NZ42zt5IrOBu9wEVoecOOLvXMtuCJ-2BdgDbs9gAvwd9WblL5DWphvGpl103rAyOeQXUtk6H-2Fzh0WDZm0OlZVgmGZO0zkYz0eLaHAksrXlYyop4zrPAUslIQ-2B3LT7yAxclxpnLfdq-2BpvDlGvYUUmKE-2BG1VDjc-2FjtnSsgxZKOHePbXVnfVaQ1qjGhVZ0SItw7Jc6krpUyVrxe6ztKOsJdcWfKX3u-2FG9GmwOQDr-2FQ1lTK2f5MFRQ56asYpU3573-2FKxWi4EcuuCGl2cTTgXZ2G6OPCPKcETWruOOz9BBmBlb1t8RgUXWvRSaiWg6b-2BXvXxQfluyx0cEbxsTW0) (13-minute read)
+Warm regards,
+Savio D'Souza
+[savio@the-ken.com](mailto:savio@the-ken.com)
+P.S. Do you have friends who you think would like signing up to read The Ken? [Invite them](mailto:?subject=Have%20you%20heard%20of%20The%20Ken%3F&body=If%20you%20have%2C%20that's%20great.%0A%0ABut%20if%20you%20haven%E2%80%99t%2C%20you%20really%20should%20consider%20signing%20up.%20They're%20a%20subscription-based%20news%20publication%20who%20carry%20some%20fantastic%20articles%20spanning%20technology%2C%20business%2C%20startups%20and%20healthcare%20in%20India.%20All%20original%2C%20analytical%20and%20narrative%20stories.%0A%0ANearly%20all%20of%20their%20articles%20are%20behind%20a%20paywall.%20However%2C%20if%20you%20were%20to%20create%20a%20free%20account%2C%20you%20could%20access%20nearly%2020%25%20of%20their%20articles%2C%20the%20rather%20refreshing%20morning%20emails%2C%20and%20summaries%20to%20all%20their%20paid%20stories.%0A%0AYou%20should%20sign-up.%20I%20recommend%20it.%0A%0ARight%20here%3A%20the-ken.com%2Fsignup).
+|
+What you just read is the personalised daily introduction to The Ken's story. Written by a different person each day. Often insightful, sometimes witty, and very rarely boring. Someone sent this to you? [Sign up for free](https://the-ken.com/?modal=register). Don't like these? You can [unsubscribe](http://link.the-ken.com/asm/unsubscribe/?user_id=2349339&data=9lI4TVlX8hSC--cFU038nCRE95b-1wHXWpEsqb6lsES0R8vLgYQiSIs_2MbOOBXvNvS1o5hcjXm_T_htQlaozJwyq7-diH15-UF30MhYQg68cw7DECe2MMDOmz5KsHj7WAY_YHX2WvAEwW0XKeyXIbl3N-g0Zl2f6LuFAQSlVbPyntArxtx77WvmpfJkcZiz5cqAqPFKgTK0W_8YpT2OBXf2Wx76v8LSWj3FjCrRx31R9NxSDHiHUo3zfas4yspntXnWIKPDJtgkrc1fYatkJIZmaVrMxTbEujeBcB56ACBrV9tVgkoX6opeh4hITHaPVq4Hvtrw7dfvzV7wp8UINyTG21OcjDIRlUYXsNi11YDxrG5E4BPVvcZhPXYRMNf1SMP9ApZGofzUQiOQb9UGYWFyDA6XDbI0Hu3i0DOV9jbm8Z_KT8JI4Niec0hITXGDQzDwTRGwaWzuQcsqZSAQPAkXFNi4uWmWMoIOvCjVPtCIH6hhSLFxCdRpYuZlU3x4rGZOIaZF1CBrR-0qB0IADWx66tw7mgJOXxkayNgcCs4=). Want to manage your emails? Click [here](http://link.the-ken.com/asm/?user_id=2349339&data=RXIHQ5UOhpkjzvJDYunUcDM5a1gv_jhGFVmWrd21-13Xfr1mUvDfqbWnnVVy0tkUJ-8lcQzls-L_161HzxH8Npgsi4CPaxJWGgMsLoWUmWKvjVnCZi-RaTtm65qL3uBAE6kJAJSE3MmdtiVCXLFJd2SuSgE42SNA4vvOF8sHD7_Hg6WIY0FFx-vRleaInckZ8PHBuPXgPpWXNhFOzIRswQKZA8GWLp6Ldl392zh2lyeXPjUItcW_EURGUN-b_q7jA5EQGTIGerz52IS06ZTK1NeKCQeO1jw12TE1r3HifatpxZvTDrEftPP9pRv5w4NOHPTB4t_Lcc26-zBjD-H4mkwmzTlsCsjPf5XP_ZNB_W81Qwm8eQC3cqtJa4uD2ut5AqHHBzWTURiuT0nKdUu3kSDEMWKYKb3PSNAW3rC_ujtwr748RStwI66ZyUIx1XplmTeKiTtgvfXRlgNrl--jw1p3Yap60rq9dG8YcfR80pKiwmBTC69ZMuncWoNQhQh53_bPsnrj_ailqUmIMtxmoQ==).
+|
+|
+|
+|
+|

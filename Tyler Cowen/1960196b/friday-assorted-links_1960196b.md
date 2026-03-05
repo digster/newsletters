@@ -1,0 +1,13 @@
+---
+subject: "Friday assorted links"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2025-04-04 16:16:14
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+1. [When did horse welfare peak? Recently?](http://marginalrevolution.com?action=user_content_redirect&uuid=ad29f06d21718feb5f41b8a1a1d69685668212f842dd8860b85ba1f95cf41bd5&blog_id=42693868&post_id=90362&user_id=262258391&subs_id=225460721&signature=ef3bc204349f54cc86153ac5d59f34e9&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly9tb2RlbC10aGlua2luZy5jb20vcC9ub3QtdGhlLW5pZ2h0bWFyZS1zY2VuYXJpbw=&email_id=bd07c18f085341d20ccd4109b510d9ba)
+2. [One Rhodes Scholar discusses how she judges applications](http://marginalrevolution.com?action=user_content_redirect&uuid=e054e961f776a51623b756ab4c6175fa3ecb8d8157e15a2814db4355ba6624d3&blog_id=42693868&post_id=90362&user_id=262258391&subs_id=225460721&signature=08f1a7b04743b65491bd8d88b0098694&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly94LmNvbS9Nb25pY2FMTWFya3Mvc3RhdHVzLzE5MDcxODgxNDY4MDg0NzU3NTM&email_id=bd07c18f085341d20ccd4109b510d9ba). The lessons there are not what she thinks.
+3. [Do smoking bans lead to more drinking?](http://marginalrevolution.com?action=user_content_redirect&uuid=7c3e5a4327cbd2f6c05d78a6e70713f562372f77bea030481ad48155adb866e6&blog_id=42693868&post_id=90362&user_id=262258391&subs_id=225460721&signature=1da32ace0c343a7d3544cc3b33d603e7&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly93d3cuam91cm5hbHMudWNoaWNhZ28uZWR1L2RvaS9hYnMvMTAuMTA4Ni83MzE2OTg&email_id=bd07c18f085341d20ccd4109b510d9ba)
+4. [Do colluding firms innovate more?](http://marginalrevolution.com?action=user_content_redirect&uuid=a6f5d96957606ee9860924e7972cf84c5a95dcaa40fd153a6a62d5113442360e&blog_id=42693868&post_id=90362&user_id=262258391&subs_id=225460721&signature=683c7eedf152a2f8e39f8ccd46e48304&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly9wdWJzb25saW5lLmluZm9ybXMub3JnL2RvaS9mdWxsLzEwLjEyODcvbW5zYy4yMDIwLjAxODM4&email_id=bd07c18f085341d20ccd4109b510d9ba)
+5. [Does beauty promote risk-taking?](http://marginalrevolution.com?action=user_content_redirect&uuid=4e4121b4a505e4d5201dc79d8265768e86bd06dd0e4f45dfffbb7ecbb329fb3e&blog_id=42693868&post_id=90362&user_id=262258391&subs_id=225460721&signature=722d946c15ec9c9d58d77fe7f4471ecf&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly9qb3VybmFscy5zYWdlcHViLmNvbS9kb2kvZnVsbC8xMC4xMTc3LzAxNDYxNjcyMjUxMzI3NjA1&email_id=bd07c18f085341d20ccd4109b510d9ba) (speculative)

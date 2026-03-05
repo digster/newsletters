@@ -1,0 +1,31 @@
+---
+subject: "Hold the line"
+from: "The Ken <info@the-ken.com>"
+to: ""
+date: 2021-01-31 03:31:48
+labels: ["CATEGORY_PERSONAL", "INBOX", "The Ken", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_8244464457792971031", "UNREAD"]
+---
+Good Morning Ishan,
+No, I'm not going to talk about GameStop, meme stocks, or the much-maligned trading app RobinHood. I'm sure that over the past week, most of us have learnt more than we ever cared to know about shorts, short squeezes, hedge funds, and WallStreetBets.
+For those of you who've somehow found yourselves out of the blast radius of these developments, I'm sorry for bringing this fiasco to your attention. I can safely say that the rest of your day will be lost down a weird, often amusing, sometimes depressing rabbit hole. Before you embark on this journey, please inform your loved ones that you are safe and will get back to them in 24 hours. Tell Elon and Chamath I said hi. Happy stonking.
+What I do want to let you in on today is a concept that's core to the way we tell stories at The Ken—the line.
+Every story we tell begins with a pitch—a writer cautiously attempting to convince the newsroom that the story they want to tell is actually worth telling at this point in time. It's a daunting process, and one that makes even the most intense police interrogations seem like casual coffee shop conversation.
+For a pitch to truly turn into a story, though, it needs a line. One line that effectively communicates the angle of a piece. Seems simple enough, right? But think about it. Our stories often run into thousands of words. Imagine crunching all of that into one all-encompassing line. It's enough to keep a writer up at night, and I'm sure it often does.
+Does the process work? I'd say our stories over the past week stand testament to it. With Republic Day a non-publishing day for us, we had four stellar reads for you this week:
+We began the week with a problem that most of us have faced. Banks' tech systems keep failing. Why? Arundhati's story lifts the lid on that. In it, she explains in graphic detail how their [tech failings have been years in the making](https://the-ken.com/story/sorry-for-the-inconvenience-why-your-banks-systems-keep-failing/). For context, ICICI Bank, State Bank of India, and HDFC Bank had a combined 85 outages in 2020.
+On Wednesday, Anand—the newest addition to our team—made his debut. He ran the rule over Reliance Industries' latest results, explaining why the company—which had a stellar year for most of 2020—[isn't getting much love](https://the-ken.com/story/reliances-dont-show-dont-tell-takes-a-toll/) from investors.
+We followed that up with [a fascinating piece](https://the-ken.com/story/exotel-unusual-startup-funding-story/) on a seemingly unspectacular fundraising round. Exotel, an Indian cloud telephony startup, raised ~$5.4 million. Why is that worth a story in a time when funding rounds worth hundreds of millions are common? Because Exotel last raised funding the year after it started out. In 2012. A piddly $500,000. And it parlayed that into a thriving, profitable business. So why raise money now? And why raise so little? That's what Sumanth explains.
+We ended the work week with a [fantastic read](https://the-ken.com/story/glenmark-cipla-or-zydus-the-winners-and-losers-of-covid-stocks-aside/) on the winners and losers of India's pharma goldrush of 2020. Given that we survived a pandemic, you'd imagine most pharma companies probably made a windfall. The truth, however, is not quite so simple, as Maitri, Prajakta, and Sharath found out. The three of them parsed reams of data to bring forth some interesting insights into which pharma majors had a great year, and which ones had a year to forget.
+Of course, no week is complete without [The Nutgraf](https://the-ken.com/the-nutgraf/reliance-future-amazon-and-india-proposes-rest-of-world-disposes/), our Saturday newsletter. In this week's edition, Praveen delves into the battle between India's richest man and the world's richest man for control of India's second largest retail chain. It's riveting stuff.
+That's all for this week. Have an idea for a story you'd like us to tell? Write in and let me know. Make the most of what's left of your weekend, you'll miss it when it's gone. Oh, and if you haven't already, bite the bullet and subscribe, you'll be smarter for it.
+Cheers,
+Ranjan Crasta
+[ranjan@the-ken.com](mailto:ranjan@the-ken.com)
+|
+What you just read is The Ken's weekly recap of its stories. Written by a different person each week. Often insightful, sometimes witty, and very rarely boring. Someone sent this to you? [Sign up for free](https://the-ken.com/?modal=register&utm_source=footer&utm_medium=email&utm_campaign=in_recap_email). Don't like these? You can [unsubscribe](https://link.the-ken.com/asm/unsubscribe/?user_id=2349339&data=n3XTqq89SFwnSba7Pqb3skHzn6U5-UjVGhmRFkPoXeRp2_62e-E6z72_ezgp4ABO9w1BY01RnP7XOxyI384BhvEBcqbuEDK8-efqhC0wZZCGkW4uzElYyZWTG2A6vX6Lf-O7WWQiniKN1i_5DbQ8lSRZNL1kMB_2kjKFC0F7Ft8s5OZmqxJdy74PGAG47k8UWSbKfWbsZCYLK0jmaxnSvTi6HvM_iXzSihJR5ODWuU5fw6FJj64WTsUw60cr06VwUsVEkYTxHiHGPj9fFHxzrBmJiMR5S9QGPDYYkZH_BA9Q_GuQIZUzIEDhFDvpJN_SyQsf2mTaZd-5LPe1Tlb40VvYba0Z85NtFpaS6F-Eq7XLNZkUvyIXvjppFyAzXFfM_e-9EF_tvfSlOO9sv0K27ad5jmu18DaSsEWVSXvtM_iyEZ9UsMT7HV0x3WglhsVrrDEEORsGeiPkMtnutzPtiWrcHTn1WQ0Rajk5lAygJlDJljp2rniIjxYJ8wCEDadPnD18-4v-Y2aLxrRoRJMUMkh_E_HYIGODsJsYvFuLGAI_XAapQzuXUg3MU8qxlNPI). Want to manage your emails? Click [here](https://link.the-ken.com/asm/?user_id=2349339&data=bfYDteDxVae4TjWuJuEFCjKWaR0t0tP7CHamDDrH6WgcgGec7ECP9pjzQSkCvCfUohmhE5taOsXOPeVNBmisHXTOHicaCOIsXvZaVONi9PXCh35qknqnd2IBBqRPg7Z-btE2XGehqXEK5saw-E4-butTH_c0648-lxRyPwFycVgQIwZva-yImxX5ME-vDYSDv1-0vs-E6uto02WEGGvl07wEkHIUN8lu2hhfbnyUueZHQY_ImPcHq77HNcnk4dyDbda5dKgLa8SenRwS7QaFW9L1TFpAu5wb9LMqCIpadsm2BsISmLBQivkLcMMfhH6aL9u4zxz93mNommrNhpWxkElWMFT1wryNpTc23T68pIb0q34iT4qEw-9nlVhphqzk2pPRxTySRbp8QKo7Cuqma52CF1qVjCLC_Jkky2tjXGOZois39rhj6L60_2AuqrKKXzReCSAotFhRbXvWowInGVxz7exEKtr27OPHkvYx7keDWUhZ2hddrlQnOjv3nD1LuzD4o2jxtTgPNmtPlko8T5UWNWjj5IVdNWaSVfgL-SE=).
+|
+|
+|
+|
+|

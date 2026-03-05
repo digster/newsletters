@@ -1,0 +1,16 @@
+---
+subject: "The Prophet’s Paradox"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2025-04-24 11:21:24
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+The political problem of disaster preparedness is especially acute for the most useful form, disaster avoidance. The problem with avoiding a disaster is that success often renders itself invisible. The captain of the Titanic is blamed for hitting the iceberg, but how much credit would he have received for avoiding it?
+Consider a pandemic. When early actions—such as testing and quarantine, ring vaccination, and local lockdowns—prevent a pandemic, those inconvenienced may question whether the threat was ever real. Indeed, one critic of this paper pointed to warnings about ozone depletion and skin cancer in the 1980s as an example of exaggeration and a predicted disaster that did not happen. Of course, one of the reasons the disaster didn’t happen was the creation of the Montreal Protocol to reduce ozone-depleting substances (Jovanović et al. 2019; Tabarrok and Canal 2023). The Montreal Protocol is often called the world’s most successful international agreement, but it is not surprising that we don’t credit it for skin cancers that didn’t happen. I call this the prophet’s paradox: the more the prophet is believed beforehand, the less they are credited afterward.
+The prophet’s paradox can undermine public support for proactive measures. The very effectiveness of these interventions creates a perception that they were unnecessary, as the dire outcomes they prevented are never realized. Consequently, policymakers face a challenging dilemma: the better they manage a potential crisis, the more likely it is that the public will perceive their actions as overreactions. Success can paradoxically erode trust and make it more difficult to implement necessary measures in future emergencies. Hence, politicians are paid to deal with emergencies not to avoid them (Healy and Malhotra 2009).
+Since politicians are incentivized to deal with rather than avoid emergencies it is perhaps not surprising to find that this attitude was built into the planning process. Thus, the UK COVID Inquiry (2024, 3.17) found that:
+Planning was focused on dealing with the impact of the disease rather than preventing its spread.
+Even more pointedly Matt Hancock testified (UK COVID Inquiry 2024, 4.18):
+Instead of a strategy for preventing a pandemic having a disastrous effect, it [was] a strategy for dealing with the disastrous effect of a pandemic.
+From my paper, [Pandemic preparation without romance](http://marginalrevolution.com?action=user_content_redirect&uuid=359a49a84272c4b68649fd1fe33c85be1a8c67052f90080f35f6d431ffae1c85&blog_id=42693868&post_id=90503&user_id=262258391&subs_id=225460721&signature=2eda086b59e41ef5f2b55b954d512a04&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly9saW5rLnNwcmluZ2VyLmNvbS9hcnRpY2xlLzEwLjEwMDcvczExMTI3LTAyNS0wMTI3Ny0y&email_id=69f0fd486d5e0db0c2ea729cbaee79b6).

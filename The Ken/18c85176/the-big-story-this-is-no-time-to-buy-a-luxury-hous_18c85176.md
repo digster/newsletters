@@ -1,0 +1,21 @@
+---
+subject: "The Big Story: This is no time to buy a luxury house, but homebuyers don't care"
+from: "The Ken <info@the-ken.com>"
+to: ""
+date: 2023-12-20 02:39:11
+labels: ["CATEGORY_PERSONAL", "INBOX", "The Ken", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_8244464457792971031", "UNREAD"]
+---
+Good Morning Ishan,
+I could sit you down and talk to you for hours about why it makes a lot more sense to rent than to buy a house in the city you’re living in.
+But I know most of you would ignore me. Well, much as I’d like to claim otherwise, I’d ignore me too. So strong is our yearning for a home of our own.
+A survey published in September by loan-data provider Bankbazaar ranked home-buying among the top three desires of salaried Indians, along with mental health and children’s education.
+But what is surprising is how keen Indians have been to buy houses even as interest rates have shot up sharply since last year. Especially houses that cost over Rs 1 crore ($120,000). Between July and September 2023, nearly 40% more such houses were sold in seven large cities than in April-June 2022, which is when home-loan rates started to climb.
+On the other hand, sales of homes that cost less than half as much fell 24%.
+What exactly is going on in the minds of homebuyers that are at the centre of this unusual trend? Anand has the answers in a story that offers both an insightful analysis and a useful guide: [https://the-ken.com/story/this-is-no-time-to-buy-a-luxury-house-but-homebuyers-dont-care/](https://the-ken.com/story/this-is-no-time-to-buy-a-luxury-house-but-homebuyers-dont-care/?utm_source=daily_story&utm_medium=email&utm_campaign=daily_newsletter) (9-min read)
+Sincerely,
+Seetharaman G
+[seetharaman@the-ken.com](mailto:seetharaman@the-ken.com)
+P.S.: The Ken is conducting a [survey](https://theken.typeform.com/editorial2023) on what employees and employers want from each other in the new year. 2023 has been hard for both, and this survey’s intent is to gauge the top issues on employees’ and employers’ minds. The findings, we hope, can serve as a guide for both as we head into 2024. This survey is anonymous, so please do spare a few minutes to [take it](https://theken.typeform.com/editorial2023). We’ll publish the results on 1 January, 2024. Stay tuned!
+What you just read is the personalised daily introduction to The Ken's story. Written by a different person each day. Often insightful, sometimes witty, and very rarely boring. Someone sent this to you? [Sign up for free](https://the-ken.com/?modal=register&utm_source=footer&utm_medium=email&utm_campaign=morning_email_ind). [Dont like these? You can unsubscribe](https://link.the-ken.com/asm/unsubscribe/?user_id=2349339&data=emqURorVg1-Rviw4xng-cTLsiwSgy2ptPDtDXB1ZlvxoMDAwdTAwMA9clcIDIuoM-4Xln8-rpjgzy85ClEsYGJTly3ExEiZmB1YaVpoGrd_Em6PGFDlx-fZcmL8XRxP3oh-Q3xsyen8XD8ua6PwBkK4jSkaK8Ebw73plstxoNfHOe9dRkjl0JBnGLHSLl_01G9BAvJ5t2ZioZo9b3Wddv6XwHgG3lj7PalZrUZYnd0pXbla6iRXwGGjD1VEQ6xcAACiduiZhEwsYUWN5Rg1nuEmRL1Y73ouIvD3lEs4XDMSUBSD9-M9A_Jzt1ADWFUdK55TaErT-hByHxKvwcX5d5ZCNWvS8Y0dCK4Ld3QGLY8H5u6JYbIDCBpebUpgXosV35R1vwF1dqN0qZTo49xfDa4IZ0Zv7bC5NlQm2RK9oS2uauOBuxu9YScTs6JBZiIb3dKmqvwAxElO15RWkKq2xVQPs6VWD_Tr75CofVERbyFz9VAcbgp55PvHsSSqrNmd8C7yv94dKtby2e8KcZ7EBwCrzF73JXIMOVzf8YOG0jpOIWpdxamZMUCj_tztrKfj3snTxef4YQ08=) Dont want to hear from us again? [ Unsubscribe from our emails here](https://link.the-ken.com/asm/?user_id=2349339&data=iNKNCCNDhY_NYEKVYIp2sw-AlW2LRXrfXPPgjW2DZmloMDAwdTAwMIOtctTvEHtU9ONTivAfZrEaTeHltGPS_u2cKXA_1sphn7PkLgTaG7a35aBoN25NFbdpTyinPhJZCWZV2A_oDb_aHNzHs7TbkRpZCfSkaiv-y9vhFbAkWNsVfUtmSB-MUwopR7eZT-V9fI6hzoWkupHaIMoikChdbzsX6d1KMBJ_XNm13SDeaIUMhR7KgBxRijr0969YL4K7f163H8PxWYyzsUlNZZqnA9EyxPI-UgM9tNG-deI4X4VBbrg08_wUDY0dWI98w26BC6qU2UVOZu9BEPJCS_qDG2QaBqXRE7-j5tPXXSjZxtYZJCiIjt33PiEAFeLB5PXr_ves4HauSXPF5JnoNO0dnV-slR4j-ecmK5FDQIQ93srdguGOhd0ohlhM2Be3mj1esG0Ygb50ghRXDNPbug5yGqHYmNnX35NIQUp-Rofc0tPpxLNkldZpgvsAhrKs2gtqKlw-CGIdbgLFk05rOycGxaVBCYat8d9vZtaqEssDNEaJuy0GJQQMJQ==).
+Something wrong? Tell us at [support@the-ken.com](mailto:support@the-ken.com)

@@ -1,0 +1,23 @@
+---
+subject: "How Fox \"News\" Mimics Russian Propaganda Tactics"
+from: "Brian Klaas <brianklaas@substack.com>"
+to: ""
+date: 2024-05-14 12:21:29
+labels: ["Brian Klaas", "CATEGORY_PERSONAL", "INBOX"]
+label_ids: ["Label_1599487573263287548", "CATEGORY_PERSONAL", "INBOX"]
+---
+|
+Thank you for reading The Garden of Forking Paths. Most of this edition is for paid subscribers only, so please consider upgrading to support my work. It’s just $4/month on an annual basis and your support makes my writing and research sustainable. As always, you can also support my work by buying my new book—[FLUKE](https://substack.com/redirect/fa5c3679-9c4d-40ba-86cf-07d1627a0cc1?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o).
+On a recent visit to the United States, I was treated to a blaring television switched, alas, to Fox News.
+On screen was one of the former president’s unfortunate offspring, Eric, a man often portrayed as a talentless lackey doomed to toil, in vain, for his father’s affection. Yes, it is true that Eric allegedly [diverted charity funds](https://substack.com/redirect/ebce5757-01c1-463b-bcbb-08e3e0fd29f0?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) intended for kids with cancer and [funneled it to the Trump organization](https://substack.com/redirect/f2a57e93-1df7-4993-8f8d-63d23a2a7c3a?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o). Sure, he [kills elephants and leopards](https://substack.com/redirect/65893d16-fa9b-419e-add1-e933d3c1da7e?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) for sport. But what his critics might not realize is this: Eric also once received the moniker of “Rising Star of the Year” award from Wine Enthusiast Magazine.
+It was therefore no surprise that Fox News had picked him as the legal expert to analyze the merits of the criminal case against his own father. Who better? Eric [dissected the merits of the case](https://substack.com/redirect/f90cd19f-b21a-4712-88e2-b3ef8400d04a?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) with—I’m paraphrasing here—two razor-sharp, devastatingly astute observations that showcased an unsung juridical mind:
+Haven’t you seen that there are other crimes in New York City? Some of those crimes are worse than a mere $130,000 payment to a porn star.
+It is now completely impossible to buy skin lotion in New York City because it’s all behind security glass to keep it from marauding, thieving gangs.
+The latter point was, of course, a shocking, newsworthy revelation. (MS-13 members might risk it all and die in a shootout with a rival gang, but nobody is foolish enough to take their chances with a dry, cracked epidermis).
+Now, while I can unfortunately imagine Eric saying “It puts the lotion on its skin, or else it gets the Biden again,” any actual journalist might have asked a follow-up question to probe the accuracy or logic of these statements.
+“Do you think that some crimes shouldn’t be prosecuted so long as other more serious crimes exist?” is one such question that meanders into my brain, for instance. Sadly, some brains don’t get much exercise in critical thought, and one such brain was floating a few feet above the interviewer’s chair, belonging to Maria Bartiromo, so no such follow-up emerged.
+For international visitors to the United States, flicking through cable TV news in a hotel room is a jarring experience. It’s astonishingly insular; there’s almost no mention of the rest of the world, and when global news is mentioned, it’s usually through the prism of US politics. It’s often shouty, with as many as eight disembodied heads in a ridiculous octobox nodding or shaking their heads. But above all, the primetime slots are hyper-partisan, a far cry from the more sober broadcasting that exists in countries—such as Britain with the BBC—where the airwaves are more strictly regulated. These critiques apply across the spectrum in the United States cable ecosystem, from MSNBC and CNN to Fox.
+Fox News, however, isn’t just partisan. It’s propaganda. And, according to one expert who previously worked in Russian media production, Fox News in the Trump era is produced in a way that borrows heavily from the playbook of Russian propaganda outlets with specific tactics that mimic those perfected by the Kremlin. In the process, Fox produces disinformation with far greater effect in warping American politics than any foreign influence operation. And to counteract it, we must first understand how it works—and why it’s so effective...
+Subscribe to The Garden of Forking Paths to keep reading this post and get 7 days of free access to the full post archives.
+| Subscriber-only posts and full archive | |
+| Post comments and join the community |

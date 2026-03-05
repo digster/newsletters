@@ -1,0 +1,35 @@
+---
+subject: "A Free 90-Minute Crash Course on Deep Learning"
+from: "Quincy Larson <quincy@freecodecamp.org>"
+to: ""
+date: 2020-07-31 06:01:02
+labels: ["CATEGORY_PERSONAL", "INBOX", "Quincy"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_7697778124671848699"]
+---
+Here are this week's five links that are worth your time:
+
+1. This Deep Learning Crash Course will teach you all about Neural Networks, Activation Functions, Supervised Learning, Reinforcement Learning, and other key concepts and terms. (90 minute video course): https://www.freecodecamp.org/news/deep-learning-crash-course-learn-the-key-concepts-and-terms/
+
+2. How to build your own online store in just one day using AWS, React, and Stripe. You'll design the architecture, add the plugins, and even create some serverless functions. (1 hour video course): https://www.freecodecamp.org/news/how-to-make-a-store-in-one-day-aws-react-stripe/
+
+3. How to convert your simple HTML websites into a blazing fast Node.js web apps. This step-by-step guide will help you design a web server and deploy it to the cloud. (16 minute read): https://www.freecodecamp.org/news/develop-deploy-first-fullstack-web-app/
+
+4. Concise code isn't always clean code. Here's how to avoid common code readability pitfalls. (7 minute read): https://www.freecodecamp.org/news/concise-code-isnt-always-clean-code/
+
+5. If you want to automate parts of your day-to-day work, one tool is Natural Language Processing. This primer will show you how to use NLP through Google's popular BERT library. (11 minute read): https://www.freecodecamp.org/news/google-bert-nlp-machine-learning-tutorial/
+
+
+Quote of the Week: “To achieve great things, two things are needed: a plan, and not quite enough time.” - Leonard Bernstein
+
+
+Thank you to the 6,146 people who support our nonprofit each month. That's right – we just crossed the 6,000-supporter milestone this week. You can join the donor hype train here: https://www.freecodecamp.org/donate
+
+
+Happy coding.
+
+- Quincy Larson
+
+Teacher at https://www.freecodecamp.org
+I share useful things on Twitter at https://www.twitter.com/ossia
+
+If these emails aren't worth your time, you can turn them off: https://www.freecodecamp.org/ue/eZV2T3gHC7IGcwcpYPG64

@@ -1,0 +1,109 @@
+---
+subject: "The Victim Mentality: A Silent Killer of Growth"
+from: "\"Sahil Bloom's Curiosity Chronicle\" <sahil@sahilbloom.com>"
+to: ""
+date: 2025-09-03 09:04:20
+labels: ["CATEGORY_PERSONAL", "INBOX", "Sahil Bloom", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_1989028747625928812", "UNREAD"]
+---
+The Victim Mentality: A Silent Killer of Growth
+read and listen on [sahilbloom.com](https://click.convertkit-mail4.com/d0ud699357c0ho0lqdnamhzn73444hlhk62xk/kkhmh6hn8qqn8lil/aHR0cHM6Ly93d3cuc2FoaWxibG9vbS5jb20vbmV3c2xldHRlci90aGUtdmljdGltLW1lbnRhbGl0eS1hLXNpbGVudC1raWxsZXItb2YtZ3Jvd3Ro)
+read time 9 minutes
+Welcome to The Curiosity Chronicle, a newsletter where I provide actionable ideas to help you build a high-performing, healthy, wealthy life.
+Forwarded this email? Join 800,000+ other readers [here](https://click.convertkit-mail4.com/d0ud699357c0ho0lqdnamhzn73444hlhk62xk/58hvh7hg588g5gf6/aHR0cHM6Ly93d3cuc2FoaWxibG9vbS5jb20vbmV3c2xldHRlcg==).
+Mel Robbins called my first book "a powerful wake-up call that will push you to rethink everything about how you’re spending your time." Join 300,000+ other readers and get it today on a big sale!
+|
+Be the smartest person in the room by reading [1440](https://click.convertkit-mail4.com/d0ud699357c0ho0lqdnamhzn73444hlhk62xk/qvh8h7hd855d8nbl/aHR0cHM6Ly9sLmpvaW4xNDQwLmNvbS9ubC1hZD91dG1fY2FtcGFpZ249Y29udmVyc2lvbnN1dG1fY29udGVudCUzRG1heSZ1dG1fbWVkaXVtPW5sLWFkJnV0bV9zb3VyY2U9c2FoaWw=)!
+I start every single morning by reading [1440](https://click.convertkit-mail4.com/d0ud699357c0ho0lqdnamhzn73444hlhk62xk/qvh8h7hd855d8nbl/aHR0cHM6Ly9sLmpvaW4xNDQwLmNvbS9ubC1hZD91dG1fY2FtcGFpZ249Y29udmVyc2lvbnN1dG1fY29udGVudCUzRG1heSZ1dG1fbWVkaXVtPW5sLWFkJnV0bV9zb3VyY2U9c2FoaWw=)—it’s the only daily news email I genuinely trust. Over 4 million people read it daily because it cuts through the noise and delivers a clear, fact-based roundup of the world’s most important stories.
+They scan over 100 sources across politics, global affairs, business, science, and culture to deliver one concise, [5-minute email](https://click.convertkit-mail4.com/d0ud699357c0ho0lqdnamhzn73444hlhk62xk/qvh8h7hd855d8nbl/aHR0cHM6Ly9sLmpvaW4xNDQwLmNvbS9ubC1hZD91dG1fY2FtcGFpZ249Y29udmVyc2lvbnN1dG1fY29udGVudCUzRG1heSZ1dG1fbWVkaXVtPW5sLWFkJnV0bV9zb3VyY2U9c2FoaWw=) that keeps you informed without the bias, fluff, or political spin. It’s the kind of briefing that respects your time and your intelligence.
+It’s a staple in my routine—and if you’re someone who values being informed, I highly recommend making it part of yours.
+|
+The Victim Mentality: A Silent Killer of Growth
+In 1980, a Dartmouth psychologist named Dr. Robert Kleck conducted [an interesting experiment](https://click.convertkit-mail4.com/d0ud699357c0ho0lqdnamhzn73444hlhk62xk/g3hnh5hme55mexir/aHR0cHM6Ly9wc3ljbmV0LmFwYS5vcmcvcmVjb3JkLzE5ODEtMjgwMTQtMDAx) with a group of undergraduate students.
+Everyone would go through a series of professional interviews, but before they began, half the participants were told they would have a large scar painted prominently on their face by a makeup artist.
+The scar they were shown in the mirror was removed prior to the interviews, but half the participants engaged in the interviews believing that they had a large scar in full view of the interviewer.
+In the fascinating results, the participants who believed they had the scar noted that the interviewers had treated them differently. They cited feelings of judgment, helplessness, and powerlessness in the situation.
+The participants who believed they had appeared normal did not express any such feelings.
+Simply believing they had a scar caused the participants to interact with the world differently and perceive slights that did not exist.
+The Dartmouth Scar Experiment is an interesting case study on the impact of the so-called Victim Mentality on our lives.
+In today’s piece, I’d like to talk about Victim Mentality—and share three simple strategies to eliminate it forever.
+Why We Feel Like Victims
+Let’s start with a basic definition:
+I think of Victim Mentality as a mindset in which a person consistently views themselves as the target of external forces, believing that their challenges and failures are primarily a byproduct of circumstances outside their control.
+Victim Mentality is different from being a victim. We’re all victims of unfortunate events at some point in our lives. As the phrase goes, sometimes sh*t happens.
+Victim Mentality is about adopting victimhood as part of your identity.
+This individual has an External Locus of Control. I recently [wrote](https://click.convertkit-mail4.com/d0ud699357c0ho0lqdnamhzn73444hlhk62xk/9qhzhnhdgmmdg4u9/aHR0cHM6Ly93d3cuc2FoaWxibG9vbS5jb20vbmV3c2xldHRlci90aGUtaGlkZGVuLW1pbmRzZXQtdGhhdC1zaGFwZXMteW91ci1lbnRpcmUtbGlmZQ==):
+Locus of Control is a psychological concept first introduced by Julian Rotter in 1954 that describes how people perceive the causes of events in their lives.
+Those with an External Locus of Control believe that their outcomes are determined by forces outside their control.
+The Victim Mentality is anti-agency. It’s a belief that you are not in control. You are a passenger in your own journey.
+It’s a belief that life happens to you.
+In the late 1960s, psychologist Martin Seligman ran a series of experiments with dogs that revealed something fascinating about the origin of those beliefs.
+The dogs were placed in harnesses and subjected to a series of small electric shocks. Some dogs could stop the shocks by pressing a lever, while others had no control over them.
+Later, all the dogs were placed in a box where they could easily escape the shocks by jumping over a small barrier.
+The dogs that had previously been in control of the lever quickly escaped. But the dogs that had no control over the shocks didn’t even try.
+They could have escaped, but they sat still and accepted the shocks, even though freedom was right in front of them.
+Leaving aside the questionable ethics of the experiment itself, this is an interesting finding.
+Seligman called the phenomenon Learned Helplessness: When we become patterned to believe that nothing we do can change our situation, we stop taking action to change our situation.
+Victim Mentality is a natural manifestation of this psychological phenomenon that Seligman had observed.
+A few experiences of powerlessness—those moments where nothing you did seemed to matter—can quickly condition you into believing that nothing you do will ever matter.
+And once that belief takes root, it bleeds into everything:
+- You stop trying in your career, because the system is rigged against me.
+- You stop working on your relationships, because people always let me down.
+- You stop chasing your goals, because life is unfair.
+This is why victim mentality is so damaging: It converts what may have been an isolated setback into a permanent identity.
+It convinces you that you’re powerless in a world where, in reality, you’re not.
+The good news? If helplessness can be learned, so can power…
+Three Steps to Free Yourself
+Here’s my three-step guide to eliminating Victim Mentality for good…
+1. Stop Feeding It
+In the 2001 movie A Beautiful Mind, which dramatizes the life of Nobel Prize winning economist John Nash, he has a unique moment of clarity about his struggles with schizophrenia:
+“I've gotten used to ignoring them and I think, as a result, they've kind of given up on me. I think that's what it's like with all our dreams and our nightmares, Martin. We've got to keep feeding them for them to stay alive.”
+This is a profound truth in life: What you feed will grow.
+If you feed your Victim Mentality—by replaying the moments of helplessness, clinging to the slights, obsessing over the blame—it will grow.
+But if you stop feeding it, you may find, like John Nash did, that it will give up on you.
+2. Shift the Locus of Control
+If an External Locus of Control is believing that your outcomes are dictated by forces outside your control, an Internal Locus of Control is believing that your outcomes are shaped by your own actions and choices.
+Escaping Victim Mentality starts with this mental shift from External to Internal.
+An Internal Locus of Control has been linked to greater resilience, improved mental health, lower stress levels, higher achievement, and proactive problem-solving.
+Ask these questions to reclaim your Internal Locus:
+- What part of this situation is within my control?
+- What's one tiny action I can take right now?
+- If my best friend were facing this, what advice would I give them?
+- How would my ideal self show up in this moment?
+- How can I create space to separate myself from this situation?
+Everything else flows from this one subtle, but meaningful, shift.
+3. Create Micro-Evidence
+In 1976, psychologists Ellen Langer and Judith Rodin ran an experiment in a nursing home to test the impact of control on well-being.
+Residents were split into two groups:
+- One group was given small choices and responsibilities. Things like picking which movie night to attend or caring for a plant in their room.
+- The other group had those choices made for them by the staff.
+The results were staggering: After 18 months, the group with more control was happier, more active, and significantly healthier. In fact, they had lower mortality rates than the group without control.
+Tiny actions create evidence to support your shift to an Internal Locus of Control. That simple shift has profound ripple effects into every area of life.
+You don’t need to solve everything at once. Start by creating micro evidence of your control over your world:
+Small, daily actions that remind you that you are at the wheel. You are capable. You can act. You can choose. You can reinvent. You can change.
+A Victim No More…
+When we attribute our own misses, failures, and challenges to factors outside our control, we give up our power.
+Alternatively, when we embrace accountability—when we take ownership of our situation and the actions and beliefs that are within our control—we take back that power.
+Life definitely isn't fair. It's a troubling reality.
+But instead of wasting energy on every obstacle in your way, focus on what you can control and how you can break through.
+Stop looking out. Look in. Be accountable. Take back that power.
+And remember:
+You are in control. Of everything. It’s all on you. Nobody is coming to save you. But you are entirely capable of figuring it out. Of squeezing everything you want out of this life. You are at the wheel. Never let go.
+Order My First Book to Unlock Exclusive Bonuses:
+The 5 Types of Wealth is the compass for your journey to a life of wealth that goes far beyond money. It provides the actionable tools to define, measure, and design your life around the pillars that truly create lasting happiness and fulfillment.
+It will help you find your True North and build your life around it.
+Order now and you'll unlock several new, exclusive bonuses:
+- Access to my Most Powerful Life Hacks Ebook: 50 timeless insights for simplifying your world and living well.
+- Access to The 5 Types of Wealth Digital Community: Join a vibrant group of like-minded individuals committed to creating a life of comprehensive wealth. Connect, collaborate, and grow together.
+- Access to The 5 Types of Wealth Launch Workshop: Get exclusive access to the full recording of this transformative virtual workshop, where I’ll guide you through specific exercises designed to help you apply the principles of the book. Watch it anytime at your convenience!
+Sahil's Recommendation Zone
+|
+The one staple of my morning routine since 2011: [AG1](https://click.convertkit-mail4.com/d0ud699357c0ho0lqdnamhzn73444hlhk62xk/wnh2hghqrppqrpb7/aHR0cHM6Ly9kcmlua2FnMS5jb20vc2FoaWw=)!
+I never recommend a product I don't use myself. I've been using [AG1](https://click.convertkit-mail4.com/d0ud699357c0ho0lqdnamhzn73444hlhk62xk/wnh2hghqrppqrpb7/aHR0cHM6Ly9kcmlua2FnMS5jb20vc2FoaWw=) since 2011––and it just got its biggest upgrade yet. The new [AG1 Next Gen](https://click.convertkit-mail4.com/d0ud699357c0ho0lqdnamhzn73444hlhk62xk/wnh2hghqrppqrpb7/aHR0cHM6Ly9kcmlua2FnMS5jb20vc2FoaWw=) is backed by four clinical trials and features five clinically studied probiotics, functional mushrooms, and whole food-sourced nutrients to support gut health, immune function, and sustained energy.
+And now it comes in 3 new flavors: Tropical, Citrus, and Berry. All from plant-based sources, with no added sugar or artificial sweeteners.
+[AG1](https://click.convertkit-mail4.com/d0ud699357c0ho0lqdnamhzn73444hlhk62xk/wnh2hghqrppqrpb7/aHR0cHM6Ly9kcmlua2FnMS5jb20vc2FoaWw=) is offering my amazing Curiosity Chronicle subscribers a FREE $76 gift when you sign up. You’ll get a Welcome Kit, a bottle of D3K2 (I take this daily!), and 5 free travel packs in your first box.
+|
+Sahil Bloom
+|
+|
+|

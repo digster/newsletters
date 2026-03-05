@@ -1,0 +1,11 @@
+---
+subject: "The spatial construction of Incan monies?"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2025-11-15 08:18:14
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+Money can be many things, but this to me is a new one. Or is it?
+Stretching for 1.5km and consisting of approximately 5200 precisely aligned holes, Monte Sierpe in southern Peru is a remarkable construction that likely dates to at least the Late Intermediate Period (AD 1000–1400) and saw continued use by the Inca (AD 1400–1532). Yet its function remains uncertain. Here, the authors report on new analyses of drone imagery and sediment samples that reveal numerical patterns in layout, potential parallels with Inca knotted-string records and the presence of crops and wild plants. All this, the authors argue, suggests that Monte Sierpe functioned as a local, Indigenous system of accounting and exchange.
+That is [newly published research](http://marginalrevolution.com?action=user_content_redirect&uuid=536388c46f30cdc49b038430d45de9eddc808b60499f2b81f3842106002d1635&blog_id=42693868&post_id=91861&user_id=262258391&subs_id=225460721&signature=441ae0c727933fca10867fa25f94021c&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly93d3cuY2FtYnJpZGdlLm9yZy9jb3JlL2pvdXJuYWxzL2FudGlxdWl0eS9hcnRpY2xlL2luZGlnZW5vdXMtYWNjb3VudGluZy1hbmQtZXhjaGFuZ2UtYXQtbW9udGUtc2llcnBlLWJhbmQtb2YtaG9sZXMtaW4tdGhlLXBpc2NvLXZhbGxleS1wZXJ1LzQxRDgzMzg5RDIzMEQ5OUNGRjE4MTk0Q0YyNzRBOUEz&email_id=79214886598dd494a6f0d46869d65a2e) from Jacob L. Bongers, et.al. Via the excellent[ Kevin Lewis](http://marginalrevolution.com?action=user_content_redirect&uuid=bc10d9c01372427f66c1e84990234c9d328d907503d1fbb94e1ff87fa56d8d6e&blog_id=42693868&post_id=91861&user_id=262258391&subs_id=225460721&signature=ee73fbfda7f2a2d900ad7c1d66050eda&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly93d3cubmF0aW9uYWxhZmZhaXJzLmNvbS9ibG9nL2RldGFpbC9maW5kaW5ncy1hLWRhaWx5LXJvdW5kdXAvcHVibGljLWRvbGxhcnM&email_id=79214886598dd494a6f0d46869d65a2e).

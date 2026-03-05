@@ -1,0 +1,23 @@
+---
+subject: "Forget Taiwan’s Foxconn and Pegatron. India’s Dixon is the world’s hottest electronics maker"
+from: "The Ken <info@the-ken.com>"
+to: ""
+date: 2023-10-16 02:39:39
+labels: ["CATEGORY_PERSONAL", "INBOX", "The Ken"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_8244464457792971031"]
+---
+Good Morning Ishan,
+How does an entrepreneur groom oneself to not get influenced by the stock price movements?
+This is one question I’ve often asked CEOs and founders of public companies. And I’ve almost always gotten politically correct answers. Maybe there’s a way to train for it—like how athletes train for heart rate variability*.
+When Seetharaman asked Sunil Vachani of Dixon Technologies a similar question, he brushed it aside with, “I don’t think any businessman or entrepreneur watches the stock price on a daily basis and gets perturbed by the downs and ups.”
+But it isn’t just about the 80% rise in Dixon’s share price in the past six months; it’s how the company has become the priciest electronics manufacturing services (EMS) stock in the world, pipping global giants like Foxconn, Pegatron, and Wistron to the post.
+As the executive chairman of Dixon, which counts notable brands such as Samsung, Xiaomi, Voltas, Crompton Greaves, and Haier among its customers, Vachani exudes equanimity that comes from the fact India today offers the best alternative to China as a manufacturing destination. It’s a small window, though.
+The valuation is stretched but investors can’t get enough of Dixon. It’s a similar story for four out of eight EMS peers. Six EMS companies have gone public since August 2022.
+Arguably, it’s the future potential that everyone is basing their math on. Valued at over $2 trillion, electronics is the largest manufactured and traded category globally. Even as China supplies over 50% of this, product companies are scouting for alt manufacturing locations.
+When The Ken first wrote about Dixon, in November 2020, we said it was the company’s chance to be India’s Foxconn. How much closer has it inched to that goal?
+For that, we must get to Seetharaman’s sharp story: [https://the-ken.com/story/forget-taiwans-foxconn-and-pegatron-indias-dixon-is-the-worlds-hottest-electronics-maker/](https://the-ken.com/story/forget-taiwans-foxconn-and-pegatron-indias-dixon-is-the-worlds-hottest-electronics-maker/?utm_source=daily_story&utm_medium=email&utm_campaign=daily_newsletter) (8-minute read)
+Warmly,
+Seema
+*Health and performance psychologist Dr Leah Lagos says athletes’ heart rate variability can go from 40 to 100+ to 40 in one breathing cycle, but CEOs generally fare badly: ~80-90-80.
+What you just read is the personalised daily introduction to The Ken's story. Written by a different person each day. Often insightful, sometimes witty, and very rarely boring. Someone sent this to you? [Sign up for free](https://the-ken.com/?modal=register&utm_source=footer&utm_medium=email&utm_campaign=morning_email_ind_shared). [Dont like these? You can unsubscribe](https://link.the-ken.com/asm/unsubscribe/?user_id=2349339&data=Tsncth3oP9plXfRFu7oJZ24iTuLH2MNK2qy0aUBX2itoMDAwdTAwMBDlL_nITXU18ZYJeTis9ICnt_KmOR4aIwNeQenhmMUSCj7KJlpMKly0GkZiY20mwkVE9j6NitUi-p-cfkv5y6FhMesKK2EJspcD0enfUOhMsN2cqBaF_dnvHyPshmsB5Y11OgrzzpI-n1QYVYkdakGpHDg2xryxzsGoJ3Q6FXYQKSWg5VsT91sGHBDNyP32BZdVITUoUDhnmzzpjaSaNjJu6btDUs8iQx4tEgM5aTrsD5lnpKo76odk4jO6517FicpR-qiFGqwXScYYZ6tLAm7RgtCRbYs78NT6p2Im9zgaXZ5d-gHdNo9O_V_ap2TVkEhr2OODVF4d4WAB3OKNBDcY3icGoHbeOU-a6XmZGntVm0WW1Pd4vns9BsQFGTdFA-Ud-At-lPQr3oiyqaFWxX6kgu2zVtHwYTtOl2ObXG-gmL5W-V2cxwzdUNHep0sZpn9FIij1U9CdEdel0uwislTvLcqbzSn_ioMZUFAL-2NfdCvMzt0U5HmnKV25ZYZ4Zp5yl_Asr_PbP8Ga-LW-6Ts=) Dont want to hear from us again? [ Unsubscribe from our emails here](https://link.the-ken.com/asm/?user_id=2349339&data=pl69QQnAt0ha6mcKzhGvsO8gSUQqjOS7iF4cOgPOJzdoMDAwdTAwMECqaQPtcxisyvrUJb3SDnu0z9G8c262fqjZExeFJycA5ObA0QwWl69p61bd3hcbovFRmUNWxFLUWmOGb9874ir4tcJNAWQn-aSe6CuI2n-dWlkLMS5gB_OZzZOvMFIQDIPjbxN-BxDBugF3uJSybqzqh8kFplOKPMUUHzYq9iU80N6TtXx8N01jcH6Lv7S48FCgEzI9p34a_tok_toQE7myRzi9shrvmooGtAHbOF7gON_x1y0zGbjPTLqDPz6XyWjowm2Qwt7sDMJY2NrzJ4QFE49iEn5zQA-u0HcKpOpM-rBT9wEf_oI2juQn1oaWxFh5T2KOK9qYbbPe_Hs__j925NRGpezY-pvGbyAgz2S8UjO_-UbDAvFeD83N8fjb8xXRpQIuB17wpZkX11f66Bc16flraiF6KGDCZ2ddlX7QsSbxmNXRyYEXsIZckgzkYaHRK4_j0EZvQ8HUSkEmI4lTKVMoXs2ev80PhDRv0oygaOcoIl0TOLh-wcRiuCpTKw==).
+Something wrong? Tell us at [support@the-ken.com](mailto:support@the-ken.com)

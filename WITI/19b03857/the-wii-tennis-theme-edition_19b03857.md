@@ -1,0 +1,9 @@
+---
+subject: "The Wii Tennis Theme Edition"
+from: "\"Why is this interesting?\" <whyisthisinteresting@substack.com>"
+to: ""
+date: 2025-12-09 14:30:23
+labels: ["CATEGORY_PERSONAL", "INBOX", "UNREAD", "WITI"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "UNREAD", "Label_5752899537867939131"]
+---
+Colin here. I was scrolling through Instagram this week when someone’s photo carousel started playing the Wii Sports theme. The time travel began instantly. Memories of the game flooded back—how genuinely fun it was, how the connection between the hand controller and the screen felt like magic at the time. Looking back now, with AR and VR finally arriving in earnest, the Wii was absurdly ahead of the curve. And the game transcended gaming entirely, becoming a genuine pop culture moment. Part of that was the utterly infectious song. Why is this interesting? Stripped of the emotional context, Totaka is Nintendo’s most quietly influential composer. He’s been with the company since 1990, provides the voice for Yoshi, and has hidden a 19-note personal melody called “ But the Wii Sports theme is actually pretty damn deep. Also interesting: the scale of its reach is staggering, approaching Nokia theme song levels (but not quite). The Wii sold over 100 million consoles. There’s a case to be made that Totaka’s theme may be among the most-heard compositions of its generation. Eighty-three million copies in living rooms from Tokyo to Toledo, playing on startup for families, seniors, and people who had never touched a video game controller. It needed to feel welcoming without being cloying, sophisticated without being intimidating, memorable without demanding attention. That’s harder than it sounds. (CJN) You're currently a free subscriber to |

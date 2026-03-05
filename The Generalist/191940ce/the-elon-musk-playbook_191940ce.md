@@ -1,0 +1,53 @@
+---
+subject: "The Elon Musk Playbook"
+from: "The Generalist <thegeneralist@substack.com>"
+to: ""
+date: 2024-08-27 13:35:02
+labels: ["CATEGORY_PERSONAL", "INBOX", "The Generalist"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_8815311452832858585"]
+---
+|
+🌟 Hey there! This is a subscriber-only edition of our premium newsletter designed to make you a better founder, investor, and technologist. Members get access to the strategies, tactics, and wisdom of exceptional investors and founders.
+Friends,
+Sometime in the mid-1960s, Robert Caro sat in the back of a Harvard classroom. He had yet to write his seminal biographies of New York fixer Robert Moses and President Lyndon Johnson, a thirty-year-old journalist with a few years of reporting behind him. He’d moved to Cambridge to accept a position as a Niemen fellow and to sit in the back of classrooms like this one, a lecture on urban planning.
+Caro listened as the lecturer explained how highway sites were chosen – the complicated mathematics, demographic studies, and traffic flows that decided such matters. Instinctively, viscerally, Caro recoiled. “I said to myself: ‘This is completely wrong. This isn’t why highways get built. Highways get built because Robert Moses wants them built there.’”
+If America has returned to space, it is because Elon Musk wanted us to. If we drive electric cars down the sprawling, confused highways that Moses demanded, it is because Musk demanded it, too. Though we cannot entirely ignore the elegance of Moore’s Law or advancements in lithium-ion batteries, our present and future are the result of a single man’s blistering ambition, implacable desires, and accumulated power to an improbable degree.
+For any person to have such power is uncomfortable for many, and Elon Musk tests the limits of our amenity more than most. He is a polarizing, controversial figure hated and loved, admired and reviled, considered both a genius and a fool.
+Like a barricade of heavy weather, these appraisals – though they have their place – obscure a more fundamental reality. Elon Musk has played a founding role in companies valued around a combined $1 trillion. More significantly, he has revolutionized two vital industries, brute-forcing the automobile market into the electric era and galvanizing a new commercial space race. Along the way, he’s had a hand in mainstreaming digital payments, sparking the generative AI renaissance, and producing viable brain-computer interfaces. He is the most productive person of his generation and one of the most powerful people that has ever lived.
+For any student of innovation, understanding how Elon Musk has achieved such things deserves a dedicated examination. It is especially so given how heretical his executive style is to conventional management wisdom. For almost every one of Musk’s operating principles, you can find a thoughtful, well-meaning Harvard Business Review article advocating the opposite. However, if we are to produce more legendary companies and world-changing innovations, we must understand the true methodology of revolutionary entrepreneurship, what it really looks like, as opposed to how we might hope it would manifest.
+Over the coming months, The Generalist will analyze the “playbooks” of the world’s most consequential entrepreneurs. In doing so, we hope to give founders—and the investors who back them—an understanding of how outlier businesses are truly made and how those that build operate.
+Elon Musk is the natural place to start.
+I have spent the past two months studying Elon Musk’s management style, operating principles, and strategies to create our first “playbook.” The core tenets outlined below are mostly based on his actions rather than his own words and have been synthesized from multiple sources. Walter Isaacson’s [Elon Musk](https://substack.com/redirect/f3f64722-02c0-4291-9594-53510531f655?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o), Ashlee Vance’s [Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future](https://substack.com/redirect/8fac37af-28d1-4af7-abc5-3f2328973b90?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o), and the BBC’s documentary series [The Elon Musk Show](https://substack.com/redirect/72cc0e04-2cbd-462e-a28a-0b3e890dd169?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) were particularly valuable in this process. Unless otherwise mentioned, information comes from these sources. I’d recommend all three for those looking for further resources.
+Here is the Elon Musk Playbook:
+Start with the mission.
+Impose autocratic rule.
+Inspire through hardship.
+Amplify risk.
+Rely on unorthodox inspiration.
+Collapse fiefdoms.
+Cast a long shadow.
+Question everything.
+In each section, we’ll unpack the strategies behind these principles and outline their benefits and tradeoffs.
+A 12,000+ word playbook of an extraordinary entrepreneur
+8 core principles of Elon Musk’s management
+22+ strategies that Musk relies on to deliver results
+4 reasons Musk’s “reality-distortion field” is so powerful
+A timeline of Musk’s hits and misses
+A side-by-side comparison of traditional management advice and Musk’s divergent approach
+Examples of where Musk looks for inspiration
+The methods Musk uses to maintain a “hardcore” culture
+…and much more. To unlock the full playbook and learn the techniques of the most productive founder of our era, join our premium newsletter today.
+All of Musk’s most significant businesses have started with a mission, not a business. Rather than finding a gap in the market to exploit or a tempting arbitrage opportunity, the process begins with him discovering what he considers a species-scale problem.
+Musk created SpaceX after realizing that at some point in the future, Earth would die, and humanity would perish with it if it had not populated other planets. His solution was to found a commercial rocket company capable of delivering humans to Mars.
+The impact of climate change sparked Musk’s interest in Tesla. He [recognized](https://substack.com/redirect/f3f64722-02c0-4291-9594-53510531f655?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) the need for humanity to shift from a “mine-and-burn hydrocarbon economy to an electric [one.]” His solution was to build a desirable, high-performance electric vehicle (EV) that showcased the technology’s capabilities and potential.
+A 2012 conversation with DeepMind co-founder Demis Hassabis introduced Musk to the threat of artificial general intelligence. Talking to Larry Page about the subject a few weeks later, Musk was reportedly concerned that the Google co-founder saw no problem with machine consciousness usurping our human order. When Google purchased DeepMind in 2014, worried by the future of AI being in Larry Page’s hands, Musk founded OpenAI as a non-profit designed to develop safe AI – a structure Sam Altman would later change. The recent launch of X.AI is another attempt to address this problem and an illustration of Musk’s belief that the technology is still not in safe hands.
+Neuralink represented a different approach to AI existential risk. To keep up with machine intelligence and ensure true alignment, humans would have to become androids. In Musk’s view, a brain-computer interface represented the purest way to achieve this, allowing us to “download” knowledge and upskill at the speed of software and silicon.
+A mix of impulsiveness and genuine concern over the state of public discourse motivated Musk’s purchase of Twitter. Though many case studies will be written on his approach to transforming the business, Musk appears to sincerely believe that the lack of a trustworthy global “town square” operates as a rate-limiter on civilization, reducing our abilities to identify and address our biggest problems.
+Not all of Musk’s businesses fit this framework quite so neatly, of course. Earlier ventures like Zip2 (a city directory with mapping functionality) and X.com (the precursor to PayPal) arose from more traditional sources of inspiration like sectoral interest and the recognition of an opportunity. The Boring Company, a tunneling company, arose from the [realization](https://substack.com/redirect/f3f64722-02c0-4291-9594-53510531f655?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) that “cities are built in 3-D, but the roads are only built in 2-D,” as well as a dislike for traffic.
+However, all of Musk’s most consequential businesses are motivated by a colossal problem and one foundational mission: preserving humanity. Whether the threat comes from our misuse of the planet, Earth’s natural expiration date, overpowered AI, or our inability to converse, the goal is the same.
+Despite his approach, Musk has rarely struggled to find a market for his interventions. In part, that’s because he chooses such large-scale problems. As Vinod Khosla [wrote](https://substack.com/redirect/0d370c85-f3ac-4680-b757-27b17d304869?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) in our recent correspondence, “Every large problem is a large opportunity.” If you succeed in sending a man to Mars, presumably, there’s a way to monetize it.
+Though true, that’s only part of the answer. Though Musk often doesn’t start with a clear business application, he finds it quickly and is crafty in devising ways to generate short-to-medium-term revenue that can fund long-term bets. ...
+Become a paying subscriber of The Generalist to get access to this post and other subscriber-only content.
+| Premium subscriber-only posts | |
+| Learn from legendary investors and founders | |
+| Post comments and join the conversation |

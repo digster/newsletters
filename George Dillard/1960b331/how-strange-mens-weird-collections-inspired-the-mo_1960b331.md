@@ -1,0 +1,78 @@
+---
+subject: "How Strange Men's Weird Collections Inspired the Modern Museum"
+from: "George Dillard <worldhistory@substack.com>"
+to: ""
+date: 2025-04-06 13:01:40
+labels: ["CATEGORY_PERSONAL", "George Dillard", "INBOX", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "Label_8626544264601150563", "INBOX", "UNREAD"]
+---
+|
+Welcome to Looking Through the Past! At its heart, this is a project in which I find a bunch of cool stuff every week and share it with you. It takes hours of research and writing to produce. If you’re new here, you can click the button below to subscribe. If you’re already a free subscriber who appreciates getting a bunch of cool stuff in your inbox every week, please consider a paid subscription to support my work — it’s less than $1 a week!
+If you’re interested in supporting the project in other ways, please scroll down to the bottom of the post.
+We’ll get to the origins of the modern museum in a bit, but first I’ve got to tell you about a sort of early modern rap beef.
+Thomas Shadwell was an English author who served as Poet Laureate of England in the early 1690s. He adopted one of Shakespeare’s minor plays, Timon of Athens by retitling it The History of Timon of Athens the Man-hater and putting Timon in a love triangle. As the new title of the play suggests, Shadwell was probably not the Bard’s equal. Hey, we can’t all be legends.
+Though Shadwell’s output (mostly bawdy comedies) was pretty popular, some of his fellow poets thought he was a hack. John Dryden (who had also served as Poet Laureate) viewed Shadwell with great disdain.
+Dryden, though he had at one point been friends with Shadwell, found a number of reasons to hate his former pal. They disagreed on religion — Dryden was Catholic and Shadwell was Protestant — at a time when those differences mattered. Dryden thought that Shadwell made too much of Ben Jonson, while also asserting that it was awfully presumptuous of Shadwell to present himself as Jonson’s literary heir. Most importantly, though, he thought Shadwell was not very good — his comedies weren’t original or clever and relied too much on crude jokes.
+Dryden found Shadwell’s hackery so offensive that he repeatedly eviscerated Shadwell in verse. In his usual style — wickedly satirical and drenched in literary allusion — Dryden composed a poem called “Mac Flecknoe” that reads like an epic poem about a hero, extolling his great virtue, but the joke is that Shadwell’s most salient virtue is his dullness.
+It [starts](https://substack.com/redirect/58ca0b11-a6a5-4ffb-a075-a56a213bb7c9?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) with a dull old king looking for someone to take over for him. The ruler decides that only one man can be his true heir. Only Shadwell can match the king’s ability to be incredibly boring and make no sense:
+Shadwell alone my perfect image bears,
+Mature in dullness from his tender years.
+Shadwell alone, of all my sons, is he
+Who stands confirm'd in full stupidity.
+The rest to some faint meaning make pretence,
+But Shadwell never deviates into sense.
+Brutal! Shadwell tried to respond in verse, but Dryden took him apart again in [Absalom and Achitophel](https://substack.com/redirect/a1ea3326-a4ee-434d-869a-ef50e3c0bbff?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o), advising Shadwell to do anything — even poison himself — as long as he didn’t write another word:
+The midwife laid her hand on his thick skull,
+With this prophetic blessing-- Be thou dull ;
+Drink, swear and roar, forbear no lewd delight
+Fit for thy bulk, do anything but write:
+Thou art of lasting make, like thoughtless men,
+A strong nativity--but for the pen;
+Eat opium, mingle arsenic in thy drink,
+Still thou mayst live avoiding pen and ink.
+Though withering criticism like this might cause you or me to crawl into a hole and never write again, Shadwell kept plugging along with his goofy comedies. One of his more famous ones — it was performed for over 30 years — was [The Virtuoso](https://substack.com/redirect/ac822ce3-8605-4c36-938c-635e7b13d469?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o). It centers on a guy named Nicholas Gimcrack who finds himself tangled up in a series of wacky misunderstandings with his mistress (Mrs. Flirt), his uncle (Snarl), and a pompous intellectual named Sir Formal Trifle. There are lots of sexual entanglements and bawdy jokes.
+By now, you may be starting to suspect that John Dryden was right about Shadwell’s talent. It’s not a very good play. But, though it lacks sophistication, its underlying subject matter is very interesting indeed.
+Nicholas Gimcrack, the play’s protagonist, is a scientist who is meant to represent the great men of the Royal Society. Much of the play’s “humor” comes from Gimcrack’s weird experiments, which range from learning to swim on land with a frog in his mouth to the dissection of the "Chichester Cock-Lobster," to transfusing sheep’s blood into a madman (“a Northamptonshire Sheep's Tail did soon emerge or arise from his Anus”).
+In the character of Nicholas Gimcrack, Shadwell was mocking the so-called “[virtuoso](https://substack.com/redirect/83007100-572a-4bac-881f-2f63a6fa787e?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)” — the pompous man of science who obsessively [collected](https://substack.com/redirect/2bfbb975-3837-4bfc-a3aa-cee4902b2efe?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) ancient artifacts or “natural curiosities” in pursuit of knowledge.
+Gimcrack was a popular enough character to inspire other authors. Decades later, the publisher Joseph Addison published the “will” of Nicholas Gimcrack, making light of his collection. Gimcrack [leaves](https://substack.com/redirect/0168eb84-ad00-4d3d-9e57-897b23067bc6?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) his loved ones a bunch of odd items:
+...Item, To my little daughter Fanny,
+Three crocodile's eggs.
+And upon the birth of her first child, if she marries with her mother's consent,
+The nest of an humming-bird…
+Item, To my learned and worthy friend Dr. Johannes Elscrickius, professor in anatomy, and my associate in the studies of nature, as an eternal monument of my affection and friendship for him, I bequeath
+My rat's testicles, and
+Whale's pizzle,
+To him and his issue male; and in default of such is∣sue in the said Dr. Elscrickius, then to return to my ex∣ecutor and his heirs for ever.
+Having fully provided for my nephew Isaac, by mak∣ing over to him some years since
+A horned Scarabaeus
+The skin of a rattle-snake, and
+The mummy of an Egyptian king,
+Gimcrack’s fictional collection was indeed strange, but all that strange, because the late 1600s and early 1700s were the golden age of the cabinet of curiosities. And it turns out that there were a lot of real-life Nicholas Gimcracks — scientists, intellectuals, and rich wannabes who filled their homes with all sorts of strange things. Their collections would become the foundation of the modern museum.
+The wealthy people of the 16th and 17th centuries didn’t invent collecting — some kings and popes had acquired stashes of interesting art and artifacts — but they took it to new heights.
+During this period, trade networks expanded, Europeans explored unknown (to them) parts of the world, and new scientific and artistic ideas flourished. Many wealthy and bourgeois Europeans decided that they wanted to have amazing artifacts from around the world close at hand. Some of them wanted these objects for serious study, others wanted them as a display of wealth or mastery, and some probably just wanted to have a room full of cool stuff to show company when they came over.
+Over time, these collections became known as cabinets of curiosities (or, in German, Wunderkammern). Some were well-rounded, while others focused on naturalia (objects like seashells or coral), artificialia (manmade things like gadgets or artwork), or mirabilis (“monsters” or religious relics). The Duke of Buckingham simply [instructed](https://substack.com/redirect/1308de4b-be62-4a6b-96e0-00c5ba68a9c2?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) his buyer to get him "Any thing that Is Strang."
+Some of the collections were pretty small, as portrayed in this still life by Frans Francken. It’s a modest assortment of art, coins, and shells picked up over a lifetime of travel:
+They weren’t cabinets, by the way — these collections took up entire rooms. Some rooms were packed to the gills, like this example packed with naturalia:
+Or the Musei Wormiani, a well-organized little room packed with natural artifacts by the delightfully named Ole Worm:
+Some were tidy, like this prince’s collection of coins and busts:
+Some were secret (who wouldn’t want a private museum behind a hidden door in your library?):
+While others, like this cabinet full of jarred animals in formaldehyde, were quite large:
+And some, like the Grand Duke of Tuscany’s combined library and cabinet, were breathtaking and meant to awe large groups of people:
+Many of these cabinets wasted no space — collections like those of Italian clergyman Manfredo Settala covered every available surface:
+As these were private collections, there was no real effort to interpret or explain all the stuff inside — just an overwhelming riot of stuffed animals, fossils, art, archaeological artifacts, and more:
+As the scientific ethos of the Enlightenment took hold in the 1700s, many wealthy collectors [tried to make](https://substack.com/redirect/be0db3b7-7d70-42cb-9ef1-2227beb69583?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) their cabinets of curiosities into more than private collections. They de-emphasized mirabilis like “mermaids” and saints’ relics to focus on displaying a carefully categorized set of natural objects.
+Some were carefully catalogued in published books, like this one about the cabinet of a Mme. Dubois-Jourdain:
+Or this one showing the collection of a Monsieur Dezalier d'Argenville, member of the Royal Society of London:
+Over time, the largest of the cabinets became famous attractions, visited by large numbers of people. Though not always open to the public, their owners welcomed people of a certain class, as you can see in this illustration of Levinus Vincent’s cabinet:
+Some of the cabinets became the first public museums. The Amerbach family sold its collection of books, paintings, and coins to the city of Basel; their collection became the backbone of the Basel Kunstmuseum, the oldest public art museum in the world.
+When Elias Ashmole died in 1692, he left his cabinet of natural curiosities to Oxford University. Other collectors (like John Tradescant, whose collection included the body of the last dodo) later did the same, and their collections became the Ashmolean Museum. Many of the world’s most famous museums, including the British Museum, sprouted from cabinets of curiosities.
+Other collectors went in a different direction, advertising their collections of oddities to the public and charging a fee to the public (this Dutch flyer promises that viewers will get to see a two-headed child):
+Some even traveled around, as we can see in this advertisement for an exhibition at Neptune’s Coffee-House in England:
+Out of the hoarding instincts of a bunch of rich people in the 1600s came something great. Over time, their weird little rooms full of stuffed animals and cool rocks became scholarly institutions devoted to furthering knowledge and educating the public. By the early 19th century, it was possible for ordinary people to pay a small fee and see the wonders of the world:
+So next time you head to a museum, thank the Nicholas Gimcracks of the world, whose collections evolved into something glorious.
+This newsletter is free to all, but I count on the kindness of readers to keep it going. If you enjoyed reading this week’s edition, there are three ways to support my work:
+You can subscribe as a free or paying member:
+You can share the newsletter with others:
+You can “buy me a coffee” by sending me a one-time or recurring payment:
+Thanks for reading, and I’ll see you again next week!
+You're currently a free subscriber to [Looking Through the Past](https://substack.com/redirect/3f73ed0c-e92a-484c-9a7f-a83bf3707c34?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o). For the full experience, [upgrade your subscription.](https://substack.com/redirect/2/eyJlIjoiaHR0cHM6Ly93b3JsZGhpc3Rvcnkuc3Vic3RhY2suY29tL3N1YnNjcmliZT91dG1fc291cmNlPXBvc3QmdXRtX2NhbXBhaWduPWVtYWlsLWNoZWNrb3V0Jm5leHQ9aHR0cHMlM0ElMkYlMkZ3b3JsZGhpc3Rvcnkuc3Vic3RhY2suY29tJTJGcCUyRmhvdy1zdHJhbmdlLW1lbnMtd2VpcmQtY29sbGVjdGlvbnMmcj04bzU0biZ0b2tlbj1leUoxYzJWeVgybGtJam94TkRVMk16TXhPU3dpYVdGMElqb3hOelF6T1RRME5qRTVMQ0psZUhBaU9qRTNORFkxTXpZMk1Ua3NJbWx6Y3lJNkluQjFZaTB5T1RVM01qVWlMQ0p6ZFdJaU9pSmphR1ZqYTI5MWRDSjkuakNIOFJBYmdXd3B5bmQ2YzJwcDN4MFdyMllyTFo3cTh5MXBNWGFiM1RzQSIsInAiOjE1NTY1MDg0NywicyI6Mjk1NzI1LCJmIjp0cnVlLCJ1IjoxNDU2MzMxOSwiaWF0IjoxNzQzOTQ0NjE5LCJleHAiOjE3NDY1MzY2MTksImlzcyI6InB1Yi0wIiwic3ViIjoibGluay1yZWRpcmVjdCJ9.myBIJC4I9jFP5KHAXwdhAnSpgHdCE4VCIz7RtslXBUs?&utm_source=substack&utm_medium=email&utm_content=postcta)

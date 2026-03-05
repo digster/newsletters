@@ -1,0 +1,32 @@
+---
+subject: "E is for Eclectic"
+from: "The Ken <info@the-ken.com>"
+to: ""
+date: 2021-09-12 03:31:31
+labels: ["CATEGORY_PERSONAL", "IMPORTANT", "INBOX", "The Ken"]
+label_ids: ["CATEGORY_PERSONAL", "IMPORTANT", "INBOX", "Label_8244464457792971031"]
+---
+I have quite an eclectic book collection, as many of you do, I’m sure. Not as vast as I’d like it to be, but still eclectic. There’s plenty of pulp-fiction, perfect for movie adaptations, one about corporate activism at UK-based supermarket chain Iceland, and another that revolves around 500 years of palace intrigue in Kerala’s royal house of Travancore.
+The good thing about having such a mix is the choice of genre it affords you for a long weekend. A choice that probably depends on the trials of the week that went by and what alternative reality you’d like to escape to.
+Well, I devoted my weekend to a genre I had never explored before—philosophy (I don’t ask what that says about the week that I just had). But before you groan at my choice, here’s the book title: How To Teach Philosophy To Your Dog, with chapters like “Good Dog, Bad Dog”.
+Philosophy doesn’t seem that bad now, does it?
+As I was making my decision to pick up the book, I scrolled through Goodreads, the online book catalogue, and a question someone posed about the book made me chuckle: “Is this book also relevant if you have a cat?”
+And just like the eclecticness of a library and that question on whether cat-people would enjoy the book, the stories we wrote in this truncated week had something for everyone too. Whether you’re a social media influencer or someone closely tracking the telecom war in space, we had you covered.
+Seema kicked-off the week with a story about how Reliance Jio is falling behind the Bhartis and the Tatas in the
+[broadband space race](https://the-ken.com/story/bharti-tata-take-shortcut-to-space-as-reliance-jio-looks-on/?utm_source=recap_story&utm_medium=email&utm_campaign=recap_newsletter). Sunil Bharti Mittal, the promoter of telco Bharti Airtel, seems to be on a mission to create a “telecoms network in space” through OneWeb. The Tata Group has Nelco and its group airline Vistara as a potential client. But Jio? Well, for now, it’s sitting on the sidelines.
+Anand wrote about a company from the Tata stable.
+[Tata Elxsi](https://the-ken.com/story/the-hedged-house-that-tata-elxsi-built/?utm_source=recap_story&utm_medium=email&utm_campaign=recap_newsletter) has had its share price soar in the past year, but still often slips under the radar when Tata Group companies are being discussed. The software company’s move to diversify its top clients away from transportation (Jaguar Landrover) to media (Comcast) helped it sail through the pandemic. And while many Tata Group companies have been under the lens of mergers, Tata Elxsi may survive a merger with its big brother TCS as long as it keeps its growth ticking. But that’s always easier said than done, no?
+While
+[Adani Wilmar](https://the-ken.com/story/adani-wilmar-fmcg-oil/?utm_source=recap_story&utm_medium=email&utm_campaign=recap_newsletter) might have ambitions to position itself as a fast-moving consumer goods (FMCG) company, Seetharaman says that it’s still just a commodity company dealing in edible oils. That’s where 80% of its sales have come from. But the problem is, none of the household brands from Adani, barring Fortune, have a great household recall. And despite its efforts, the share of foods and FMCG to sales has fallen from 6.5% in March 2019 to 5.1% in March 2021. As it readies itself for an IPO that could value it at over US$5 billion, can it follow the diversification playbook of tobacco major turned FMCG player ITC?
+Ka Kay and Jon collaborated to write what was my favourite story of the week—on Nuseir Yassin. You might recognise him as the
+[man behind Nas Daily](https://the-ken.com/story/influencer-101-inside-nas-dailys-digital-harvard-promise/?utm_source=recap_story&utm_medium=email&utm_campaign=recap_newsletter), the super-popular one-minute video series documenting his travels across the world. But it’s not just about Nas Daily anymore. In 2019, Yassin realised that it was time to start productising his knowledge of being a creator and sharing it in a digestible way. He now has ‘Nas Academy’, meant to be the ‘digital Harvard’ for creators and influencers. But there are roadblocks. And one of them could be working with local languages.
+In our daily newsletter,
+Beyond the First Order, Pratap reported that India’s Department of Telecommunications (DoT) could be readying only the third amendment in 24 years to the
+[Telecom Regulatory Authority of India (Trai) Act](https://the-ken.com/bfo/india-preparing-draft-amendment-to-trai-act-but-proposed-changes-are-nothing-extraordinary/?utm_source=recap_story&utm_medium=email&utm_campaign=recap_newsletter); Olina pointed out that despite all the incentives being thrown at electric vehicles,
+[charging an EV](https://the-ken.com/bfo/a-post-honeymoon-problem/?utm_source=recap_story&utm_medium=email&utm_campaign=recap_newsletter) still remains an individual’s problem; and I explained that as companies in Asia begin to fear inflation, they might resort to another practice called
+[‘shrinkflation’](https://the-ken.com/bfo/when-inflation-leads-to-unwanted-innovation/?utm_source=recap_story&utm_medium=email&utm_campaign=recap_newsletter) to keep sales ticking.
+And on Saturday, in
+The Nutgraf, Praveen wrote about how India’s new financial innovation,
+[Account Aggregators](https://the-ken.com/the-nutgraf/banks-are-okay-getting-disrupted/?utm_source=recap_story&utm_medium=email&utm_campaign=recap_newsletter), is ready to disrupt the banking incumbents. But to understand this, he says that we need to understand steel manufacturing and mini-mills. What does steel have to do with banking? You’ll have to read to find out.
+I hope your Sunday is as eclectic as you’d like it to be, and if you read any interesting books this weekend or have any on your must-buy list, I’d love to get your recommendations.
+PS: To answer the question posed on Goodreads, yes, How To Teach Philosophy To Your Dog is also relevant if you have a cat. In fact, you may even argue that cats are more likely to reflect on the mysteries of life.

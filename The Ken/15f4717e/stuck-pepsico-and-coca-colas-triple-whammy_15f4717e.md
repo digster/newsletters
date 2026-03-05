@@ -1,0 +1,23 @@
+---
+subject: "Stuck: PepsiCo and Coca-Cola’s triple whammy"
+from: "The Ken <info@the-ken.com>"
+to: ""
+date: 2017-10-23 02:37:50
+labels: ["CATEGORY_PERSONAL", "INBOX", "The Ken"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_8244464457792971031"]
+---
+|
+Good morning Ishan,
+Welcome back after a long, festive weekend (if you are in India). Maybe it’s detox time.
+How about coconut water? Which reminds me, virtually all leading beverage brands, including Big Soda, now sell packaged coconut water in India.
+For years, colas and other sweetened aerated drinks have been flagged for ‘empty calories’ and lifestyle illnesses they bring with them. But this year is unmistakably the one where India is paying heed to it.
+With a 40% Goods and Services Tax kicking in July, colas not only have this heavy ‘sin’ tax to deal with but the growing small soda and local beverages as well. Each quarter in the year has brought a blow. As we enter the fourth quarter, we learn that Big Soda, after having failed to convince the government for lower GST, is desperately trying to adapt to the local needs and taste buds. Even going for regional language labelling. Because some nimble entrepreneurs have been filling the grocery stores with a fairly good variety.
+Still, if Coca-Cola and PepsiCo want, they can change the rules of the new game. The question is how much they want to. At least in the US they first tried to fight new policies.
+In today’s story, Ruhi asks, can the cola giants understand, package and sell flavourful health to Indians? She says the local brands are happy to have the giants enter this market. You can read her story here: [https://the-ken.com/stuck-pepsico-coca-cola-triple-whammy/](http://link.the-ken.com/wf/click?upn=HQSq6eeRV1xAVaGuFOahuCQh-2BkQVJZo9jdBahLe0slpqctBm05kYExb7QhNicwujNviJe77-2FjhjbkKem3EdmoQevgHzC-2BK8QuDsfiyPj8gbIIyOs7ywmKqhZySTSdvRbhqCWZfJY25TgeUm6yw7ZbdC2QEP7ZKDtX9qf1HSHaBk-3D_S4jLOsNx-2Fv6Jev2nvow8b7P9pBCWGd8KNZfb200gkZLQNlXQHio0noZzXtsWoloZmPWeyZsh7a4QCV9ufwCUKi00jlBT0uEdvwYDMuVuqcN6ziou89KdhfC45O4GS25bAI5XA3QHhHYQlF8nTdkUhkHFMxdNCkJoz1xabsSJTshp58sNQc72x-2BqupmZv8Oh43nE18pv2mB7oljaL1UT9STUDqSngWEtKsUf-2BM-2BVZsX6wRnqhMCc2Fm89dRiPK1kExcLpUM70mGL8sC7RDJxLHcvVfeVWHokkCEGqwrUWWaBTAAeQXZ-2BkXMj-2FKqpKxylnK-2BBRcd8P4wdaKnXLBmMCB7yPQnfRXzaMUWGruRUAXljLfaXB68RStKFU568mkkfcbuyPHwjxJc3kLW4tTQ7KyCBJlnFbo8qvsDuTvtPRmUc-3D)
+Warm regards,
+Seema Singh
+[seema@the-ken.com](mailto:seema@the-ken.com)
+This email was sent by: The Ken
+[Unsubscribe](http://link.the-ken.com/wf/click?upn=HQSq6eeRV1xAVaGuFOahuClHSn3iYgY7A1T3hib6-2B62qcPmp1Irvn95n2tX-2B9J-2FvmVgg4TjQeI2NZhHM6kTD95fttc6Co1OxoAv0XhVjz0gdVlWE5UjYJh33kVBhdsQC9DpsUf-2FmFyDe0-2Fp3ciQGmY3D6Lqov-2Fqs4mcIGQa0GoZOvDd5LJH0mjeS5vAMtmh2aAWSRbku3XAfCEvZh1DfjAxac9XeT9lZqVy0aTuYPKY-3D_S4jLOsNx-2Fv6Jev2nvow8b7P9pBCWGd8KNZfb200gkZLQNlXQHio0noZzXtsWoloZmPWeyZsh7a4QCV9ufwCUKi00jlBT0uEdvwYDMuVuqcN6ziou89KdhfC45O4GS25bAI5XA3QHhHYQlF8nTdkUhkHFMxdNCkJoz1xabsSJTshp58sNQc72x-2BqupmZv8Oh43nE18pv2mB7oljaL1UT9SddtLjZRqxq3xW9vsrxCIp-2BjUBpkwi2OCwz8TBHUEU5MrgrY76gkkTEvqxWusjA0S615ZKF5rzi03PUvWPUbRadAakiDtadJqZP-2Bsjn8jB5nvQMp-2Fnn1NGoreKGXBmmfCyFiKVOgKOeRPlMCNpvBKTsD3Z4qeoWuCT4xYxuahg3TjUx7a2JFF-2Bn8P1V93DLVyHHgiBlU4G4gEyf4bpurFgo-3D>) | [Unsubscribe_Preferences](http://link.the-ken.com/wf/click?upn=HQSq6eeRV1xAVaGuFOahuClHSn3iYgY7A1T3hib6-2B62qcPmp1Irvn95n2tX-2B9J-2FvmVgg4TjQeI2NZhHM6kTD97Fm0AeuQmmy8abCt1Cc8ZEIjZxtMnTj-2Fq9OYIcXzWcz9CnoWGUTh5BJa2EP8hOJyEOalBnBj6ExgIO7XpIMNeUcZdTGUOS-2FqcJaSWX-2FBdJbqjDnka-2BfUsnPYrptnj5kjw-3D-3D_S4jLOsNx-2Fv6Jev2nvow8b7P9pBCWGd8KNZfb200gkZLQNlXQHio0noZzXtsWoloZmPWeyZsh7a4QCV9ufwCUKi00jlBT0uEdvwYDMuVuqcN6ziou89KdhfC45O4GS25bAI5XA3QHhHYQlF8nTdkUhkHFMxdNCkJoz1xabsSJTshp58sNQc72x-2BqupmZv8Oh43nE18pv2mB7oljaL1UT9SU1Ittd8KbKY-2BPunLgnPKfJx-2Fzf-2FNg79I1SxG6mq94hrILl0PmhNUbCl3F7ChVTnim-2BETzNIa0EojwwdyYZHiGyQxbOo1eCQkDO288DbuRn2V7Oe8673ai-2FdXSGjCm7tnzbA34Cz8cARpSjAZaPWLApwF3ca3iVrxCHvaEQ90PbNSufQE9eDKJTmNrkxJ5LUmTYcg-2BXqP-2F9bcUtPK56VxAk-3D>)
+http://link.the-ken.com/asm/unsubscribe/?user_id=2349339&data=3wIDUyxtIv2ph3etS3AqybJP1ShukoHTLBI9z2t6H4PtAihnRl1pxdh0tY1Al4IjYmBbMzXJQCs1A-KvgRfd_2ottIpfBx-5g8N6xXkT22st03P99eFTFxNNTLd32_ZrBXiH7kUbJWPMWn4-ADfSEDXmaQWn2fOEtXYL8aXrmjThnRulMib9F5wbm4ZTD4vGHo1Bpz8pjBJfz2LRCZ60dk8_bqB879M0s79OwZ_xlJdrHtmB3Qk-4NlVxXpyTZvC3u8r0jDx4Q_V_XoIaGl0uD4B3-Tg-JkHiHpcV_mg0npB7tSdvvyq4r2QxTQLhHk31UKVhSBHUIdAF-DkA-s02MPMO_wq1f_3uyTM7bQ2ut1ACtmiz9xOyHqaWQ2YiABf6YWy5ZYLWhj9F5nsj-qeYCG59KmaYuv1AXZ64HdedlDYb1y9Bf-z18OyuZEFE0OrVHD2UxhbJMn0Nh0rQBa0eCpj-XLXFtCxUhdRvz1M4LBysAXcYxa8NzbHSZbTZMO0D_VGSGSIP-CxtLptUvbaFyZDcfFYZe7jkFCeiPt51mo=[Unsub
+|

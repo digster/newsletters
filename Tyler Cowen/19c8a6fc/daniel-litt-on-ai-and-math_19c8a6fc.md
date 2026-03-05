@@ -1,0 +1,14 @@
+---
+subject: "Daniel Litt on AI and Math"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2026-02-23 12:18:26
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+Daniel Litt is a professor of mathematics at the University of Toronto. He has been active in evaluating AI models for many years and is generally seen as a skeptic pushing back at hype. He has a very interesting statement [updating his thoughts](https://marginalrevolution.com?action=user_content_redirect&uuid=9d9fd6cee9f1370ab5d334a10e89c02285d38eab0a79fa43c0e9ebb7f4721e4c&blog_id=42693868&post_id=92488&user_id=262258391&subs_id=225460721&signature=1237cc68842186a7e5503e32976a8e74&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly93d3cuZGFuaWVsbGl0dC5jb20vYmxvZy8yMDI2LzIvMjAvbWF0aGVtYXRpY3MtaW4tdGhlLWxpYnJhcnktb2YtYmFiZWw&email_id=79ebd9111e2d75f56aa3f06aa29a60c0):
+In March 2025 I
+[made a bet with Tamay Besiroglu], cofounder of RL environment company Mechanize, that AI tools would not be able to autonomously produce papers I judge to be at a level comparable to that of the best few papers published in 2025, at comparable cost to human experts, by 2030. I gave him 3:1 odds at the time; I now expect to lose this bet.Much of what I'll say here is not factually very different from what I've written before. I've slowly updated my timelines over the past year, but if one wants to speculate about the long-term future of math research, a difference of a few years is not so important. My trigger for writing this post is that, despite all of the above, I think I was not correctly calibrated as to the capabilities of existing models, let alone near-future models. This was more apparent in the mood of my comments than their content, which was largely cautious.
+To be sure, the models are not yet as original or creative as the very best human mathematicians (who is?) but:
+Can an LLM invent the notion of a scheme, or of a perfectoid space, or whatever your favorite mathematical object is? (
+[Could I? Could you?]Obviously this is a high bar, and not necessary for usefulness.) Can it come up with a new technique? Execute an argument that isn't "routine for the right expert"? Make an interesting new definition? Ask the right question?...I am skeptical that there is any mystical aspect of mathematics research intrinsically inaccessible to models, but it is true that human mathematics research relies on discovering analogies and philosophies, and performing other non-rigorous tasks where model performance is as yet unclear.

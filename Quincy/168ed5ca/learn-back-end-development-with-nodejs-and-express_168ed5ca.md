@@ -1,0 +1,34 @@
+---
+subject: "Learn back-end development with Node.js and Express with this free in-depth course"
+from: "Quincy Larson <quincy@freecodecamp.org>"
+to: ""
+date: 2019-02-14 18:54:58
+labels: ["CATEGORY_PERSONAL", "INBOX", "Quincy", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_7697778124671848699", "UNREAD"]
+---
+Here are this week's five links that are worth your time:
+
+1. Learn back end development with Node.js and Express using this free in-depth course (2.5 hour watch): https://www.freecodecamp.org/news/learn-express-js-in-this-complete-course
+
+2. Kevin got his first job as a web developer when he was 49 years old. He shares his advice for how you can learn to code and get a developer job, too (41 minute read): https://www.freecodecamp.org/forum/t/258707
+
+3. From ES5 to ESNext - here’s every feature added to JavaScript since 2015 (40 minute read): https://medium.freecodecamp.org/d0c255e13c6e
+
+4. How to build your own Pokémon game - the latest in freeCodeCamp's series of Harvard University GameDev lectures (2 hour watch): https://www.freecodecamp.org/news/code-your-own-pokemon-game
+
+5. An introduction to Test-Driven Development - written by a developer who spent 5 years avoiding TDD but finally embraced it (22 minute read): https://medium.freecodecamp.org/c4de6dce5c
+
+Quote of the Week: "The function of good software is to make the complex appear to be simple." - Grady Booch
+
+
+freeCodeCamp is a donor-supported nonprofit. Help the community reach our goal of 10,000 monthly supporters. (We're already 44% of the way there!) Become a supporter at: https://donate.freecodecamp.org
+
+
+Happy coding!
+
+- Quincy Larson
+
+Teacher at freeCodeCamp.org
+
+
+If these emails aren't worth your time, you can turn them off: https://www.freecodecamp.org/ue/eZV2T3gHC7IGcwcpYPG64

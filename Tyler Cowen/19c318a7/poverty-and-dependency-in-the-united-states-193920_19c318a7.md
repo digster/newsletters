@@ -1,0 +1,10 @@
+---
+subject: "Poverty and Dependency in the United States, 1939–2023"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2026-02-06 06:01:24
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+We compare trends in absolute poverty before (1939–1963) and after (1963–2023) the War on Poverty was declared. Our primary methodological contribution is to create a post-tax post-transfer income measure using the 1940, 1950 and 1960 Decennial Censuses through imputations of taxes and transfers as well as certain forms of market income including perquisites (Collins and Wanamaker 2022), consistent with the full income measures developed by Burkhauser et al. (2024) for subsequent years. From 1939–1963, poverty fell by 29 percentage points, with even larger declines for Black people and all children. While absolute poverty continued to fall following the War on Poverty’s declaration, the pace was no faster, even when evaluating the trends relative to a consistent initial poverty rate. Furthermore, the pre-1964 decline in poverty among working age adults and children was achieved almost completely through increases in market income, during which time only 2–3 percent of working age adults were dependent on the government for at least half of their income, compared to dependency rates of 7–15 percent from 1972–2023. In contrast to progress on absolute poverty, reductions in relative poverty were more modest from 1939–1963 and even less so since then.
+That is from [a new NBER working paper](http://marginalrevolution.com?action=user_content_redirect&uuid=d2d34d97cdf9c17de5aaff655fd1b1ad4be110fa7040d664738aad3f3c8573e6&blog_id=42693868&post_id=92372&user_id=262258391&subs_id=225460721&signature=407aa5d60bca844c7c0091322e18f1c4&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly93d3cubmJlci5vcmcvcGFwZXJzL3czNDc1OQ=&email_id=b1682d72c9182c899dbff39a288d124f) by Richard K. Burkhauser and Kevin Corinth.

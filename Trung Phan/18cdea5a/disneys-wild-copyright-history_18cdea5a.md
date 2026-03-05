@@ -1,0 +1,29 @@
+---
+subject: "Disney's Wild Copyright History"
+from: "Trung Phan <trungphan@workweek.com>"
+to: ""
+date: 2024-01-06 07:00:49
+labels: ["CATEGORY_PERSONAL", "INBOX", "Trung Phan", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_7971156048460647958", "UNREAD"]
+---
+This list doesn’t even count [other snatched classics](https://link.workweek.com/click/33911956.40573/aHR0cHM6Ly9zY3JlZW5jcmFmdC5vcmcvYmxvZy81MC1kaXNuZXktbW92aWVzLWluc3BpcmVkLWJ5LXRoZS1wdWJsaWMtZG9tYWluLz9oYXNoZWRfdXNlcj0wZWJlZjEyYzQyOTExODQ1NjJkYWMwOTk2NWJjZTgwOA/6520d6df2061f24a7d071f97Bd9383691) like Frozen, Hercules, Pinocchio, Tangled, Tarzan and The Hunchback of Notre Dame among others.
+Imagine Hans Christian Andersen in Copenhagen in the 1850s banging out some classic fairy tales. “I hope one day there will be moving images to pair up with these rhyming words,” Hans probably thought while getting buzzed on Danish Snaps he made in his bath tub.
+Let me tell you Hans, the moving picture did come. And the corporation that owns moving pictures based on your IP have made $1B+ in ticket sales from these venues called “movie theatres”, where people buy bags of corn that is popped for $50.
+These weren’t strip rip-offs, though. The studio obviously sanitized the source material — which are [pretty crude](https://link.workweek.com/click/33911956.40573/aHR0cHM6Ly93d3cucGFubWFjbWlsbGFuLmNvbS9ibG9ncy9nZW5lcmFsL29yaWdpbmFsLWRpc25leS1zdG9yaWVzLWZpbG1zP2hhc2hlZF91c2VyPTBlYmVmMTJjNDI5MTE4NDU2MmRhYzA5OTY1YmNlODA4/6520d6df2061f24a7d071f97Bb324cfe1) in the original readings — for a young mid-20th century audience.
+But even then, there is room for literary and creative criticism as famously proffered by J.R.R. Tolkien. The legendary Lord of the Rings creator saw Snow White in 1937 and disliked how Walt infantilized the characters, taking away moral complexity from the stories (contrast the goofy 7 dwarves with the seriousness of Tolkien’s The Hobbit, also released in 1937).
+Tolkien worshipped the fairy tale art form and — along with his buddy C.S.Lewis — loved to trash talk Disney’s oversimplified narratives (another take: Tolkien and Lewis were snobby English literary elites looking down on an American artist creating for the masses).
+Later in his life, Tolkien refused to let Disney Studio touch his IP.
+Here’s a wild passage from [Open Culture](https://link.workweek.com/click/33911956.40573/aHR0cHM6Ly93d3cub3BlbmN1bHR1cmUuY29tLzIwMTgvMDUvai1yLXItdG9sa2llbi1leHByZXNzZWQtYS1oZWFydGZlbHQtbG9hdGhpbmctZm9yLXdhbHQtZGlzbmV5Lmh0bWw_aGFzaGVkX3VzZXI9MGViZWYxMmM0MjkxMTg0NTYyZGFjMDk5NjViY2U4MDg/6520d6df2061f24a7d071f97B12242a0d):
+Tolkien described Disney’s work on the whole as “vulgar” and the man himself, in a 1964 letter, as “simply a cheat,” who is “hopelessly corrupted” by profit-seeking (though he admits he is “not innocent of the profit-motive” himself).
+[He said], “I recognize his talent, but it has always seemed to me hopelessly corrupted. Though in most of the ‘pictures’ proceeding from his studios there are admirable or charming passages, the effect of all of them is to me disgusting. Some have given me nausea…”
+Geez, tell us how you really feel John Ronald Reuel.
+In sum: Disney has been sucking on the teet of Public Domain for decades while it is also a…
+2. Massive supporter of copyright extension
+In a great 2016 article for Priceonomics, Zach Crockett — my former colleague at The Hustle — breaks down [Disney’s long history with copyright](https://link.workweek.com/click/33911956.40573/aHR0cHM6Ly9wcmljZW9ub21pY3MuY29tL2hvdy1taWNrZXktbW91c2UtZXZhZGVzLXRoZS1wdWJsaWMtZG9tYWluLz9oYXNoZWRfdXNlcj0wZWJlZjEyYzQyOTExODQ1NjJkYWMwOTk2NWJjZTgwOA/6520d6df2061f24a7d071f97B4ec7c1d2).
+The TLDR: In 1927, Walt and his chief animator created a popular cartoon character named Oswald the Lucky Rabbit. The character blew up and then the chief animator took his team to Universal and basically jacked Oswald. In response, Walt created “Steamboat Willie” and was determined to never let someone else control the fate of his animations ventures.
+This commitment to protecting IP has manifested in US copyright laws conveniently being extended every single time Disney's works are about to enter the public domain:
+"Copyright law in America long predated Mickey Mouse.
+The first of these laws, the Copyright Act of 1790, stipulated that creative works were entitled to up to 28 years of protection (14 years, plus an additional “renewal” period of 14 years, supposing the original hadn’t died). This was followed by an 1831 act, which extended the copyright period to a max of 42 years, and a 1909 act, which elongated that period again, to 56 years. As the Art Law Journal clarifies, “very few works actually maintained [these] copyright durations”: only a fraction of those who secured copyrights protected them, or opted to renew them.
+Mickey Mouse was brought into the world in 1928, under the 1909 Copyright Act, entitling him to 56 years of protection under the law — no more. In accordance with the law, his copyright was set to expire in 1984.
+Disney’s efforts, and those of other multinational corporations with soon-expiring intellectual property, seem to have paid off. In 1976 — just 8 years prior to Mickey’s expiration — Congress completely overhauled U.S. copyright law to conform with European standards. This new law expanded already-published corporate copyrights from 56 years to a maximum of 75 years. All works published prior to 1922 immediately entered the public domain; all works published after 1922 (including Mickey Mouse) were entitled to the full 75 years of protection. Just like that, Mickey Mouse extended his copyright death 19 years — from 1984 to 2003."
+Here’s a visualization from Zach on how copyright terms increase (copyright duration on y-axis) every time Mickey Mouse's protection is about to expire (year term begins on x-axis):

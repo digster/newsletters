@@ -1,0 +1,39 @@
+---
+subject: "A free 10-part course on Bootstrap 4.0 to help you learn responsive web design"
+from: "Quincy Larson <quincy@freecodecamp.org>"
+to: ""
+date: 2018-03-29 17:17:25
+labels: ["CATEGORY_PERSONAL", "INBOX", "Quincy", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_7697778124671848699", "UNREAD"]
+---
+Here are this week's three links that are worth your time:
+
+1. Here's a free 10-part course on Bootstrap 4.0 to help you learn responsive web design (5 minute read): https://fcc.im/2I3p2J1
+
+2. A major open source project called DevDocs just donated itself - and all of its code - to the freeCodeCamp.org community (5 minute read): https://fcc.im/2umK6In
+
+3. Did you know that Google has its own JavaScript style guide? It lays out best practices for writing clean, understandable code. Here are some of the highlights (7 minute read): https://fcc.im/2GtBwN3
+
+Bonus: Remi is a musician in Berlin, and yesterday he got his first developer job. In this forum post, he talks about his transition: "I can say that Freecodecamp works. I went from basic programming knowledge to landing a job in a specialized framework in a matter of months, without paying anything, going to university, or getting any "official" certificate." (2 minute read): https://fcc.im/2E3EZwm
+
+
+
+
+
+As you may know, freeCodeCamp.org is a 100% donor-supported nonprofit. Each week our community publishes dozens of free videos, articles, and interactive coding challenges. And we're just getting started. Help us create even more coding resources to help you succeed. Join the 3,734 awesome people who donate to freeCodeCamp.org each month. Set up a tax-deductible donation you can afford at https://donate.freecodecamp.org
+
+
+
+
+Happy coding!
+
+- Quincy Larson
+
+Teacher at freeCodeCamp.org
+
+
+
+
+
+
+If these emails aren't worth your time, no worries. You can one-click unsubscribe: https://www.freecodecamp.org/unsubscribe/ishan.mail@gmail.com

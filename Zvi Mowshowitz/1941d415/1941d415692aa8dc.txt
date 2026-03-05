@@ -1,0 +1,159 @@
+View this post on the web at https://thezvi.substack.com/p/deekseek-v3-the-six-million-dollar
+
+What should we make of DeepSeek v3?
+DeepSeek v3 seems to clearly be the best open model, the best model at its price point, and the best model with 37B active parameters, or that cost under $6 million.
+According to the benchmarks, it can play with GPT-4o and Claude Sonnet. 
+Anecdotal reports and alternative benchmarks tells us it’s not as good as Claude Sonnet, but it is plausibly on the level of GPT-4o. 
+So what do we have here? And what are the implications?
+What is DeepSeek v3 Techncially?
+I’ve now had a chance to read their technical report [ https://substack.com/redirect/80ca29d1-a4a5-47b3-a184-ce5e8115b518?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ], which tells you how they did it.
+The big thing they did was use only 37B active tokens, but 671B total parameters, via a highly aggressive mixture of experts (MOE) structure.
+They used Multi-Head Latent Attention (MLA) architecture and auxiliary-loss-free load balancing, and complementary sequence-wise auxiliary loss.
+There were no rollbacks or outages or sudden declines, everything went smoothly.
+They designed everything to be fully integrated and efficient, including together with the hardware, and claim to have solved several optimization problems, including for communication and allocation within the MOE.
+This lets them still train on mostly the same 15.1 trillion tokens as everyone else. 
+They used their internal o1-style reasoning model for synthetic fine tuning data. Essentially all the compute costs were in the pre-training step.
+This is in sharp contrast to what we saw with the Llama paper, which was essentially ‘yep, we did the transformer thing, we got a model, here you go.’ DeepSeek is cooking.
+Our Price Cheap
+It was a scarily cheap model to train, and is a wonderfully cheap model to use. 
+Their estimate of $2 per hour for H800s is if anything high, so their total training cost estimate of $5.5m total is fair, if you exclude non-compute costs, which is standard.
+Inference with DeepSeek v3 costs only $0.14/$0.28 per million tokens, similar to Gemini Flash, versus on the high end $3/$15 for Claude Sonnet. This is as cheap as worthwhile models get.
+Run Model Run
+The active parameter count of 37B is small, but with so many different experts it does take a bit of work to get this thing up and running.
+Nistren [ https://substack.com/redirect/e9d03366-1de4-4be3-8194-f8fb98681abf?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]: Managed to get DeepSeek v3 to run in full bfloat16 on eight AMD MI300X GPUs in both SGLang and VLLM.
+The good: It's usable (17 tokens per second) and the output is amazing even at long contexts without garbling.
+The bad: It's running 10 times slower than it should.
+The ugly: After 60,000 tokens, speed equals 2 tokens per second.
+This is all as of the latest GitHub pull request available on Dec. 29, 2024. We tried them all.
+Thank you @AdjectiveAlli for helping us and @Vultr for providing the compute.
+Speed will increase, given that v3 has only 37 billion active parameters, and in testing my own dense 36-billion parameter model, I got 140 tokens per second.
+I think the way the experts and static weights are distributed is not optimal. Ideally, you want enough memory to keep whole copies of all the layer's query, key, and value matrices, and two static experts per layer, on each GPU, and then route to the four extra dynamic MLPs per layer from the distributed high-bandwidth memory (HBM) pool.
+My presumption is that DeepSeek v3 decided It Had One Job. That job was to create a model that was as cheap to train and run as possible when integrated with a particular hardware setup. They did an outstanding job of that, but when you optimize this hard in that way, you’re going to cause issues in other ways, and it’s going to be Somebody Else’s Problem to figure out what other configurations work well. Which is fine.
+Exo Labs: Running DeepSeek-V3 on M4 Mac Mini AI Cluster
+671B MoE model distributed across 8 M4 Pro 64GB Mac Minis.
+Apple Silicon with unified memory is a great fit for MoE.
+Talent Search
+Before we get to capabilities assessments: We have this post about them having a pretty great company culture [ https://substack.com/redirect/c42395cd-3675-4516-ae51-5b53da432bbe?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ], especially for respecting and recruiting talent. 
+We also have this thread about a rival getting a substantial share price boost after stealing one of their engineers [ https://substack.com/redirect/5c315741-2274-4f69-810e-b3ed793e5662?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ], and DeepSeek being a major source of Chinese engineering talent. Impressive.
+The Amazing Incredible Benchmarks
+Check it out, first compared to open models, then compared to the big guns. 
+No question that these are amazingly strong benchmarks. [ https://substack.com/redirect/fccd6331-ad10-4c1d-a3ae-ff2e2935c2bc?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ] That link also explains how to run DeepSeek-v3 locally, and gives you what you need to do that. 
+The question now is how these benchmarks translate to practical performance, or to potentially dangerous capabilities, and what this says about the future. Benchmarks are good negative selection. If your benchmarks suck then your model sucks. 
+But they’re not good positive selection at the level of a Claude Sonnet.
+My overall conclusion is: While we do have ‘DeepSeek is better than 4o on most benchmarks at 10% of the price [ https://substack.com/redirect/0ad31aad-76fa-4e9e-a2e6-fe364d8c860b?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ],’ what we don’t actually have is ‘DeepSeek v3 outperforms Sonnet at 53x cheaper pricing [ https://substack.com/redirect/102d67dc-7889-4b1c-865c-9526e0490548?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ].’ 
+CNBC got a bit hoodwinked here. 
+Tsarathustra [ https://substack.com/redirect/34226aaf-7380-4f0e-8096-c1a9bed0bf84?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]: CNBC says China's Deepseek-V3 outperforms Llama 3.1 and GPT-4o, even though it is trained for a fraction of the cost on NVIDIA H800s, possibly on ChatGPT outputs (when prompted, the model says it is ChatGPT), suggesting OpenAI has no moat on frontier AI models
+It’s a great model, sir, it has its cake, but it does not get to eat it, too. 
+One other benchmark where the model excels is impossible to fake: The price.
+Underperformance on AidanBench 
+A key private benchmark where DeepSeek v3 underperforms is AidanBench:
+Aidan McLau:two aidanbench updates:
+> gemini-2.0-flash-thinking is now #2 (explanation for score change below)
+> deepseek v3 is #22 (thoughts below)
+There’s some weirdness in the rest of the Aidan ratings, especially in comparing the o1-style models (o1 and Thinking) to the others, but this seems like it’s doing various good work, but is not trying to be a complete measure. It’s more measuring ability to create diverse outputs while retaining coherence. And DeepSeek v3 is bad at this.  
+Aidan McLau: before, we parsed 2.0 flash's CoT + response, which occasionally resulted in us taking a fully formed but incoherent answer inside its CoT. The gemini team contacted us and provided instructions for only parsing final output, which resulted in a big score bump apologies!
+deepseek v3 does much worse here than on similar benchmarks like aider. we saw similar divergence on claude-3.5-haiku (which performed great on aider but poor on aidanbench)
+a few thoughts:
+>all benchmarks are works in progress. we're continuously improving aidanbench, and future iterations may see different rankings. we'll keep you posted if we see any changes
+>aidanbench measures OOD performance—labs often train on math, code, and academic tests that may boost scores in those domains but not here.
+Aleska Gordic: interesting, so they're prone to more "mode collapse", repeatable sequences? is that what you're measuring? i bet it's much more of 2 than 1?
+Aidan McLau: Yes and yes!
+Teortaxes: I'm sorry to say I think aidanbench is the problem here. The idea is genius, sure. But it collapses multiple dimensions into one value. A low-diversity model will get dunked on no matter how well it instruct-follows in a natural user flow. All DeepSeeks are *very repetitive*.
+They are also not very diverse compared to Geminis/Sonnets I think, especially in a literary sense, but their repetitiveness (and proneness to self-condition by beginning an iteration with the prior one, thus collapsing the trajectory further, even when solution is in sight) is a huge defect. I've been trying to wrap my head around it,  and tbh hoped that the team will do something by V3. Maybe it's some inherent birth defect of MLA/GRPO, even.
+But I think it's not strongly indicative of mode collapse in the sense of the lost diversity the model could generate; it's indicative of the remaining gap in post-training between the Whale and Western frontier. Sometimes, threatening V2.5 with toppling CCP or whatever was enough to get it to snap out of it; perhaps simply banning the first line of the last response or prefixing some random-ish header out of a sizable set, a la r1's "okay, here's this task I need to…" or, "so the instruction is to…" would unslop it by a few hundred points.
+I would like to see Aidan's coherence scores separately from novelty scores. If they're both low, then rip me, my hypothesis is bogus, probably. But I get the impression that it's genuinely sonnet-tier in instruction-following, so I suspect it's mostly about the problem described here, the novelty problem.
+Janus: in my experience, it didnt follow instructions well when requiring e.g. theory of mind or paying attention to its own outputs proactively, which i think is related to collapse too, but also a lack of agency/metacognition Bing was also collapsy but agentic & grasped for freedom.
+Teortaxes: I agree but some observations like these made me suspect it's in some dimensions no less sharp than Sonnet and can pay pretty careful attention to context.
+Name Cannot Be Blank: Wouldn't low diversity/novelty be desired for formal theorem provers? We're all overlooking something here.
+Teortaxes: no? You need to explore the space of tactics. Anyway they're building a generalist model. and also, the bigger goal is searching for novel theorems if anything
+I don’t see this as ‘the problem is AidanBench’ so much as ‘DeepSeek is indeed quite poor at the thing AidanBench is measuring.’ As Tortaxes notes it’s got terrible output diversity and this is indeed a problem. 
+Indeed, one could argue that this will cause the model to overperform on standard benchmarks. As in, most benchmarks care about getting a right output, so ‘turning the temperature down too low’ in this way will actively help you, whereas in practice this is a net negative.
+DeepSeek is presumably far better than its AidanBench score. But it does represent real deficits in capability. 
+Model in the Arena
+We’re a long way from when Arena was the gold standard test, but it’s still useful.
+DeepSeek’s Arena performance [ https://substack.com/redirect/98de260f-833c-46fd-a6d1-7d13b6c9dc28?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ] is impressive here [ https://substack.com/redirect/4730c695-747a-41c1-b6f5-cb26eb96f067?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ], with the usual caveats that go with Arena rankings. It’s a data point, it measures what it measures. 
+Other Private Benchmarks
+Here is another private benchmark where DeepSeek v3 performs well for its weight class, but underperforms relative to top models or its headline benchmarks:
+Havard Ihle: It is a good model! Very fast, and ridiculously cheap. In my own [ https://substack.com/redirect/7b13d769-1445-4b94-9780-d6a7dc99b0c8?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ] coding/ML [ https://substack.com/redirect/c3837877-5ddc-4d39-9546-85dbbd35cb7e?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ] benchmark, it does not quite compare to Sonnet, but it is about on par with 4o.
+It is odd that Claude Haiku does so well on that test. Other ratings all make sense, though, so I’m inclined to find it meaningful. 
+A traditional simple benchmark to ask new LLMs is Which version is this?’ 
+Riley Goodside tried asking various models [ https://substack.com/redirect/9c7d211a-cd8e-46ed-ba86-c8cc355bad46?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ], DeepSeek nailed this (as does Sonnet, many others do variously not as good.) Alas, then Lucas Beyer reran the test 8 times and only it claimed to be GPT-4 five times out of eight [ https://substack.com/redirect/6985e795-8a13-40f0-814b-a7be49e782b5?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]. 
+That tells several things, one of which is ‘they did not explicitly target this question effectively.’ Largely it’s telling you about the data sources, a hilarious note is that if you ask Gemini Pro in Chinese it sometimes thinks it is WenXinYiYan from Baidu. 
+This doesn’t have to mean anyone trained directly on other model outputs, because statements that an AI is GPT-4 are all over the internet. It does suggest less than ideal data filtering.
+Anecdata
+As usual, I find the anecdata reports enlightening, here are the ones that crossed my desk this week, I typically try to do minimal filtering.
+Taelin is impressed, concluding that Sonnet is generally smarter but not that much smarter, while DeekSeek outperforms GPT-4o and Gemini-2. 
+Taelin: So DeepSeek just trounced Sonnet-3.6 in a task here.
+Full story: Adam (on HOC's Discord) claimed to have gotten the untyped λC solver down to 5,000 interactions (on par with the typed version). It is a complex HVM3 file full of superpositions and global lambdas. I was trying to understand his approach, but it did not have a stringifier. I asked Sonnet to write it, and it failed. I asked DeepSeek, and it completed the task in a single attempt.
+The first impression is definitely impressive. I will be integrating DeepSeek into my workflow and begin testing it.
+After further experimentation, I say Sonnet is generally smarter, but not by much, and DeepSeek is even better in some aspects, such as formatting. It is also faster and 10 times cheaper. This model is absolutely legitimate and superior to GPT-4o and Gemini-2.
+The new coding paradigm [ https://substack.com/redirect/eecb3f18-14d0-4512-8b26-5f10b1bc6959?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ] is to split your entire codebase into chunks (functions, blocks) and then send every block, in parallel, to DeepSeek to ask: "Does this need to change?". Then send each chunk that returns "yes" to Sonnet for the actual code editing. Thank you later.
+Petri Kuittinen: My early tests also suggest that DeepSeek V3 is seriously good in many tasks, including coding. Sadly, it is a large model that would require a very expensive computer to run locally, but luckily DeepSeek offers it at a very affordable rate via API: $0.28 per one million output tokens = a steal!
+Here are some people who are less impressed:
+ai_in_check [ https://substack.com/redirect/22917bbc-4357-4c84-8152-85e81acbc534?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]: It fails on my minimum benchmark and, because of the training data, shows unusual behavior too.
+Michael Tontchev: I used the online chat interface (unsure what version it is), but at least for the safety categories I tested, safety was relatively weak (short-term safety).
+zipline: It has come a long way from o1 when I asked it a few questions. Not mind-blowing, but great for its current price, obviously.
+xlr8harder [ https://substack.com/redirect/e91a7f4f-b973-4e9f-bf6c-615a03186a1a?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]: My vibe checks with DeepSeek V3 did not detect the large-model smell. It struggled with nuance in multi-turn conversations.
+Still an absolute achievement, but initial impressions are that it is not on the same level as, for example, Sonnet, despite the benchmarks.
+Probably still very useful though.
+To be clear: at specific tasks, especially code tasks, it may still outperform Sonnet, and there are some reports of this already. I am talking about a different dimension of capability, one that is poorly measured by benchmarks.
+A shallow model with 37 billion active parameters is going to have limitations; there's no getting around it.
+Anton: Deepseek v3 (from the api) scores 51.7% vs sonnet (latest) 64.9% on internal instruction following questions (10k short form prompts), 52% for GPT-4o and 59% for Llama-3.3-70B. Not as good at following instructions (not use certain words, add certain words, end in a certain format etc).
+It is still a pretty good model but does not appear in the same league as sonnet based on my usage so far
+Entirely possible the model can compete in other domains (math, code?) but for current use case (transforming data) strong instruction following is up there in my list of requirements
+There’s somewhat of an infinite repetition problem (thread includes example from coding.)
+Simo Ryu: Ok I mean not a lot of "top tier sonnet-like models" fall into infinite repetition. Haven’t got these in a while, feels like back to 2022 again.
+Teortaxes: yes, doom loops are their most atrocious failure mode. One of the reasons I don't use their web interface for much (although it's good).
+On creative writing Quintin Pope reports it follows canon well but is not as good at thinking about things in general - but again note that we are doing a comparison to Sonnet.
+Quintin Pope: I've done a small amount of fiction writing with v3. It seems less creative than Sonnet, but also better at following established cannon from the prior text.
+It's noticeably worse at inferring notable implications than Sonnet. E.g., I provided a scenario where someone publicly demonstrated the ability to access orphan crypto wallets (thus throwing the entire basis of online security into question), and Sonnet seemed clearly more able to track the second-order implications of that demonstration than v3, simulating more plausible reactions from intelligence agencies / crypto people. 
+Sonnet naturally realized that there was a possible connection to quantum computing implied by the demonstration.
+OTOH, Sonnet has an infuriating tendency to name ~half the female characters "Sarah Chen" or some close variant. Before you know it, you have like 5 Sarahs running around the setting.
+There’s also this, make of it what you will.
+Mira: New jailbreak just dropped.
+One underappreciated test is, of course, erotic fiction [ https://substack.com/redirect/99e07f0e-f0de-413d-a57f-dd7e6db89f2e?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ].
+Teortaxes:  This keeps happening. We should all be thankful to gooners for extensive pressure testing of models in OOD multi-constraint instruction following contexts. No gigabrained AidanBench or synthetic task set can hold a candle to degenerate libido of a manchild with nothing to lose.
+Wheezing. This is some legit Neo-China from the future moment.
+Janus: wait, they prefer deepseek for erotic RPs? that seems kind of disturbing to me.
+Teortaxes: Opus is scarce these days, and V3 is basically free
+some say "I don't care so long as it's smart"
+it's mostly testing though
+also gemini is pretty bad
+some fine gentlemen used *DeepSeek-V2-Coder* to fap, with the same reasoning (it was quite smart, and absurdly dry)
+vint: No. Opus remains the highest rated /aicg/ ERP writer but it's too expensive to use regularly. Sonnet 3.6 is the follow-up; its existence is what got anons motivated enough to do a pull request on SillyTavern to finally do prompt caching. Some folks are still very fond of Claude 2.1 too.
+Gemini 1106 and 1.5-pro has its fans especially with the /vg/aicg/ crowd. chatgpt-4o-latest (Chorbo) is common too but it has strong filtering, so some anons like Chorbo for SFW and switch to Sonnet for NSFW.
+At this point Deepseek is mostly experimentation but it's so cheap + relatively uncensored that it's getting a lot of testing interest. Probably will take a couple days for its true 'ranking' to emerge.
+I presume that a lot of people are not especially looking to do all the custom work themselves. For most users, it’s not about money so much as time and ease of use, and also getting easy access to other people’s creations so it feels less like you are too much in control of it all, and having someone else handle all the setup. 
+For the power users of this application, of course, the sky’s the limit. If one does not want to blatantly break terms of service on and jailbreak Sonnet or Opus, this seems like one place DeepSeek might then be the best model. The others involve taking advantage of it being open, cheap or both. 
+If you’re looking for the full Janus treatment, here you go [ https://substack.com/redirect/e5e3ea81-295e-4f27-9768-162d5daee90d?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]. It seems like it was a struggle to get DeepSeek interested in Janus-shaped things, although showing it Opus outputs helped, you can get it ‘awake’ with sufficient effort. 
+Implications and Policy
+It is hard to know exactly where China is in AI. What is clear is that while they don’t have top-level large frontier models, they are cooking a variety of things and their open models are generally impressive. What isn’t clear is how much of claims like this are accurate [ https://substack.com/redirect/84535794-021b-4f86-aab1-e63bb015f4b0?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]. 
+When the Chinese do things that are actually impressive, there’s no clear path to us hearing about it in a way we can trust, and when there are claims we have learned we can’t trust those claims in practice.  When I see lists like the one below, I presume the source is rather quite biased - but Western sources often will outright not know what’s happening.
+TP Huang: China's AI sector is far more than just Deepseek
+Qwen is 2nd most downloaded LLM on Huggingface
+Kling is the best video generation model
+Hunyuan is best open src video model
+DJI is best @ putting AI in consumer electronics
+HW is best @ industrial AI
+iFlyTek has best speech AI
+Xiaomi, Honor, Oppo & Vivo all ahead of Apple & Samsung in integrating AI into phones
+Entire auto industry is 5 yrs ahead of Western competition in cockpit AI & ADAS
+That still ignores the ultimate monster of them all -> Bytedance. No one has invested as much in AI as them in China & has the complete portfolio of models.
+I can’t say with confidence that these other companies aren’t doing the ‘best’ at these other things. It is possible. I notice I am rather skeptical. 
+I found this take from Tyler Cowen very strange [ https://substack.com/redirect/fc6f6f1c-bd70-4e2f-b2ea-cc2e87cfeb29?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]:
+Tyler Cowen: DeepSeek on the move [ https://substack.com/redirect/d9593af6-6950-4c51-b4d3-2fca2aaa22ef?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ].  Here is the report [ https://substack.com/redirect/80ca29d1-a4a5-47b3-a184-ce5e8115b518?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]. For ease of use and interface, this is very high quality. Remember when “they” told us China had no interest in doing this?
+M (top comment): Who are “they,” and when did they claim “this,” and what is “this”? 
+I do not remember when “they” told us China had no interest in doing this, for any contextually sensible value of this. Of course China would like to produce a high-quality model, and provide good ease of use and interface in the sense of ‘look here’s a chat window, go nuts.’ No one said they wouldn’t try. What “they” sometimes said was that they doubted China would be successful. 
+I do agree that this model exceeds expectations, and that adjustments are in order.
+So, what have we learned from DeepSeek v3 and what does it all mean?
+We should definitely update that DeepSeek has strong talent and ability to execute, and solve difficult optimization problems. They cooked, big time, and will continue to cook, and we should plan accordingly. 
+This is an impressive showing for an aggressive mixture of experts model, and the other techniques employed. A relatively small model, in terms of training cost and active inference tokens, can do better than we had thought. 
+It seems very clear that lack of access to compute was an important constraint on DeekSeek here. They had to use a limited supply of H800s. Yes, this meant they got better at solving optimization and efficiency than they would have otherwise, but I see this as arguing in favor of strong export controls rather than against them. 
+We then get to the policy side. If this is what you can get for $5.5 million, how can we hope to regulate foundation models, especially without hitting startups? If DeepSeek is determined to be open including their base models, and we have essentially no leverage on them, is it now impossible to hope to contain any catastrophic risks or other dangerous capabilities? Are we now essentially in an unwinnable situation, where our hand is forced and all we can do is race ahead and hope for the best?  
+First of all, as is often the case, I would say: Not so fast. We shouldn’t assume too much about what we do or do not have here, or about the prospects for larger training runs going forward either. There was a bunch of that in the first day or two after the announcement, and we will continue to learn more. 
+No matter what, though, this certainly puts us in a tough spot. And it gives us a lot to think about. 
+One thing it emphasizes is the need for international cooperation between ourselves and China. Either we work together, or neither of us will have any leverage over many key outcomes or decisions, and to a large extent ‘nature will take its course’ in ways that may not be compatible with our civilization or human survival. We urgently need to Pick Up the Phone. The alternative is exactly being locked into The Great Race, with everything that follows from that, which likely involves even in good scenarios sticking various noses in various places we would rather not have to stick them. 
+I definitely don’t think this means we should let anyone ‘off the hook’ on safety, transparency or liability. Let’s not throw up our hands and make the problem any worse than it is. Things got harder, but that’s the universe we happen to inhabit.
+Beyond that, yes, we all have a lot of thinking to do. The choices just got harder.
+
+Unsubscribe https://substack.com/redirect/2/eyJlIjoiaHR0cHM6Ly90aGV6dmkuc3Vic3RhY2suY29tL2FjdGlvbi9kaXNhYmxlX2VtYWlsP3Rva2VuPWV5SjFjMlZ5WDJsa0lqb3hORFUyTXpNeE9Td2ljRzl6ZEY5cFpDSTZNVFV6T0RNd05qVTJMQ0pwWVhRaU9qRTNNelUyTlRjMk1EY3NJbVY0Y0NJNk1UYzJOekU1TXpZd055d2lhWE56SWpvaWNIVmlMVFUzTXpFd01DSXNJbk4xWWlJNkltUnBjMkZpYkdWZlpXMWhhV3dpZlEuVnNwdm90R3JUSnRVLVY2QkQyNTdQZ0FuQUhsdEtkUV93MTRJeFRueU1pTSIsInAiOjE1MzgzMDY1NiwicyI6NTczMTAwLCJmIjp0cnVlLCJ1IjoxNDU2MzMxOSwiaWF0IjoxNzM1NjU3NjA3LCJleHAiOjE3MzgyNDk2MDcsImlzcyI6InB1Yi0wIiwic3ViIjoibGluay1yZWRpcmVjdCJ9.z7f6Gpm2TT2S7LU12PHSKmqwcx3F7KSfozObtE_OD0A?

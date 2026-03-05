@@ -1,0 +1,74 @@
+View this post on the web at https://thezvi.substack.com/p/give-me-a-reasoning-model
+
+Are we doing this again? It looks like we are doing this again. 
+This time it involves giving LLMs several ‘new’ tasks including effectively a Tower of Hanoi problem, asking them to specify the answer via individual steps rather than an algorithm then calling a failure to properly execute all the steps this way (whether or not they even had enough tokens to do it!) an inability to reason. 
+The actual work in the paper seems by all accounts to be fine as far as it goes if presented accurately, but the way it is being presented and discussed is not fine.
+Not Thinking Clearly
+Ruben Hassid [ https://substack.com/redirect/0a8241a3-2929-416c-b5dd-af25bb7d5314?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ] (12 million views, not how any of this works):  BREAKING: Apple just proved [ https://substack.com/redirect/0877e88b-2917-4844-8865-f60422038ed2?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ] AI "reasoning" models like Claude, DeepSeek-R1, and o3-mini don't actually reason at all.
+They just memorize patterns really well.
+Here's what Apple discovered:
+(hint: we're not as close to AGI as the hype suggests)
+Instead of using the same old math tests that AI companies love to brag about, Apple created fresh puzzle games. They tested Claude Thinking, DeepSeek-R1, and o3-mini on problems these models had never seen before.
+All "reasoning" models hit a complexity wall where they completely collapse to 0% accuracy. No matter how much computing power you give them, they can't solve harder problems. As problems got harder, these "thinking" models actually started thinking less. They used fewer tokens and gave up faster, despite having unlimited budget.
+[And so on.]
+Thinking Again
+Ryan Greenblatt [ https://substack.com/redirect/ae462e9f-349a-4cf7-953f-11819e0d9320?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]: This paper doesn't show fundamental limitations of LLMs:
+- The "higher complexity" problems require more reasoning than fits in the context length (humans would also take too long).
+- Humans would also make errors in the cases where the problem is doable in the context length.
+- I bet models they don't test (in particular o3 or o4-mini) would perform better and probably get close to solving most of the problems which are solvable in the allowed context length
+It's somewhat wild that the paper doesn't realize that solving many of the problems they give the model would clearly require >>50k tokens of reasoning which the model can't do. Of course the performance goes to zero once the problem gets sufficiently big: the model has a limited context length. (A human with a few hours would also fail!)
+Rohit [ https://substack.com/redirect/5f25109a-a812-431e-bb32-ba662a75cbd7?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]: I asked o3 to analyse and critique Apple's new "LLMs can't reason" paper. Despite its inability to reason I think it did a pretty decent job, don't you?
+Don't get me wrong it's an interesting paper for sure, like the variations in when catastrophic failure happens for instance, just a bit overstated wrt its positioning.
+Kevin Bryan [ https://substack.com/redirect/9dea51d6-1886-4cd0-b595-eff8f952a7b1?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]: The "reasoning doesn't exist" Apple paper drives me crazy. Take logic puzzle like Tower of Hanoi w/ 10s to 1000000s of moves to solve correctly. Check first step where an LLM makes mistake. Long problems aren't solved. Fewer thought tokens/early mistakes on longer problems.
+…
+But if you tell me to solve a problem that would take me an hour of pen and paper, but give me five minutes, I'll probably give you an approximate solution or a heuristic. THIS IS EXACTLY WHAT FOUNDATION MODELS WITH THINKING ARE RL'D TO DO.
+…
+We know from things like Code with Claude and internal benchmarks that performance strictly increases as we increase in tokens used for inference, on ~every problem domain tried. But LLM companies can do this: *you* can't b/c model you have access to tries not to "overthink".
+The team on this paper are good (incl. Yoshua Bengio's brother!), but interpretation media folks give it is just wrong. It 100% does not, and can not, show "reasoning is just pattern matching" (beyond trivial fact that all LLMs do nothing more than RL'd token prediction...)
+The team might be good, but in this case you don’t blame the reaction on the media. The abstract very clearly is laying out the same misleading narrative picked up by the media. You can wish for a media that doesn’t get fooled by that, but that’s not the world we live in, and the blame is squarely on the way the paper presents itself. 
+Lisan al Galib: [ https://substack.com/redirect/66504c2d-2dff-4f33-8fa2-7bee848fad52?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ] A few more observations after replicating the Tower of Hanoi game with their exact prompts:
+- You need AT LEAST 2^N - 1 moves and the output format requires 10 tokens per move + some constant stuff.
+- Furthermore the output limit for Sonnet 3.7 is 128k, DeepSeek R1 64K, and o3-mini 100k tokens. This includes the reasoning tokens they use before outputting their final answer!
+- all models will have 0 accuracy with more than 13 disks simply because they can not output that much!
+…
+- At least for Sonnet it doesn't try to reason through the problem once it's above ~7 disks. It will state what the problem and the algorithm to solve it and then output its solution without even thinking about individual steps.
+- it's also interesting to look at the models as having a X% chance of picking the correct token at each move
+- even with a 99.99% probability the models will eventually make an error simply because of the exponentially growing problem size
+…
+But I also observed this peak in token usage across the models I tested at around 9-11 disks. That's simply the threshold where the models say: "Fuck off I'm not writing down 2^n_disks - 1 steps"
+[And so on.]
+Tony Ginart: Humans aren’t solving a 10 disk tower of Hanoi by hand either.
+One Draw Nick: If that’s true then this paper from Apple makes no sense.
+Lisan al Galib: It doesn’t, hope that helps.
+Gallabytes [ https://substack.com/redirect/55d428d5-3b2e-484c-a965-ade9be5a0378?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]: if I asked you to solve towers of Hanoi entirely in your head without writing anything down how tall could the tower get before you'd tell me to fuck off?
+My answer to ‘how many before I tell you off’ is three. Not that I couldn’t do more than three, but I would choose not to.
+Inability to Think
+Colin Fraser I think gives us a great and clean version [ https://substack.com/redirect/a6339b6a-1894-42ab-964b-6553248b3986?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ] of the bear case here?
+Colin Fraser: if you can reliably carry out a sequence of logical steps then you can solve the Tower of Hanoi problem. If you can’t solve the Tower of Hanoi problem then you can’t carry out a sequence of logical steps. It’s really quite simple and not mysterious.
+They give it the instructions. They tell it to do the steps. It doesn’t do the steps. So-called “reasoning” doesn’t help it do the steps. What else are you supposed to make of this? It can’t do the steps.
+It seems important that this doesn’t follow? 
+Not doing [X] in a given situation doesn’t mean you can’t do [X] in general.
+Not doing [X] in a particular test especially doesn’t mean a model can’t do [X].
+Not doing [X] can be a simple ‘you did not provide enough tokens to [X]’ issue.
+The more adversarial the example, the less evidence this provided.
+Failure to do any given task requiring [X] does not mean you can’t [X] in general.
+Or more generally, ‘won’t’ or ‘doesn’t’ [X] does not show ‘can’t’ [X]. It is of course often evidence, since doing [X] does prove you can [X]. How much evidence it provides depends on the circumstances.
+In Brief
+To summarize, this is tough but remarkably fair [ https://substack.com/redirect/18c74a12-b77e-4037-a284-5bf7b5d0680d?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]:
+Charles Goddard: 🤯 MIND-BLOWN! A new paper just SHATTERED everything we thought we knew about AI reasoning!
+This is paradigm-shifting. A MUST-READ. Full breakdown below 👇
+🧵 1/23
+Linch: Any chance you're looking for a coauthor in future work? I want to write a survey paper explaining why while jobs extremely similar to mine will be easily automatable, my own skillset is unique and special and require a human touch.
+What’s In a Name
+Also the periodic reminder that asking ‘is it really reasoning’ is a wrong question [ https://substack.com/redirect/927fb0e5-26b9-46a3-a28c-db0c116b8661?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ].
+Yuchen Jin: Ilya Sutskever, in his speech at UToronto 2 days ago:
+"The day will come when AI will do all the things we can do."
+"The reason is the brain is a biological computer, so why can't the digital computer do the same things?"
+It's funny that we are debating if AI can "truly think" or give "the illusion of thinking", as if our biological brain is superior or fundamentally different from a digital brain.
+Ilya's advice to the greatest challenge of humanity ever:
+"By simply looking at what AI can do, not ignoring it, that will generate the energy that's required to overcome the huge challenge."
+If a different name for what is happening would dissolve the dispute, then who cares?
+Colin Fraser [ https://substack.com/redirect/c9e4c131-4029-47e9-a95f-9b92b04efa05?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]: The labs are the ones who gave test time compute scaling these grandiose names like “thinking” and “reasoning”. They could have just not called it that.
+I don’t see those names as grandiose. I see them as the best practical descriptions in terms of helping people understand what is going on. It seems much more helpful and practical than always saying ‘test time compute scaling.’ Colin suggested ‘long output mode’ and I agree that would set expectations lower but I don’t think that describes the central thing going on here at all, instead it makes it sounds like it’s being more verbose.
+
+Unsubscribe https://substack.com/redirect/2/eyJlIjoiaHR0cHM6Ly90aGV6dmkuc3Vic3RhY2suY29tL2FjdGlvbi9kaXNhYmxlX2VtYWlsP3Rva2VuPWV5SjFjMlZ5WDJsa0lqb3hORFUyTXpNeE9Td2ljRzl6ZEY5cFpDSTZNVFkxTmpNek5EYzRMQ0pwWVhRaU9qRTNORGsxTmpjM056a3NJbVY0Y0NJNk1UYzRNVEV3TXpjM09Td2lhWE56SWpvaWNIVmlMVFUzTXpFd01DSXNJbk4xWWlJNkltUnBjMkZpYkdWZlpXMWhhV3dpZlEuMGF6YVdiUkhiY2RveFBYUUV5Zk1pN0pJb2VNd2dWRDcwemc5MUhyRFp6WSIsInAiOjE2NTYzMzQ3OCwicyI6NTczMTAwLCJmIjp0cnVlLCJ1IjoxNDU2MzMxOSwiaWF0IjoxNzQ5NTY3Nzc5LCJleHAiOjE3NTIxNTk3NzksImlzcyI6InB1Yi0wIiwic3ViIjoibGluay1yZWRpcmVjdCJ9.LaGqy2i_RuvblbrBl_rGINqvuzD01t15XFFzuQZhO8o?

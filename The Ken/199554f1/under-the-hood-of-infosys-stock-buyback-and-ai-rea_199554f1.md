@@ -1,0 +1,38 @@
+---
+subject: "Under the hood of Infosys’ stock buyback and AI readiness"
+from: "The Ken <info@the-ken.com>"
+to: ""
+date: 2025-09-17 01:34:27
+labels: ["CATEGORY_PERSONAL", "INBOX", "The Ken", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_8244464457792971031", "UNREAD"]
+---
+|
+|
+Long and Short
+Wed, 17 Sep 25
+The story behind the numbers and motivations driving India's stock market.
+Good Morning Ishan,
+It’s human nature to feel a bit uncertain if you are undervalued. And if you are Infosys Technologies, once the most admired IT services company in India, then you’re certainly feeling it—having gone from a $100 billion market cap three years ago to just $77 billion now.
+Partly to correct that investor sentiment, Infosys [announced](https://www.moneycontrol.com/news/business/markets/infosys-mega-rs-18-000-crore-share-buyback-what-works-and-what-doesn-t-here-s-what-analysts-say-13546852.html) a Rs 18,000 crore share buyback last week, its fourth since 2019. Data shows the last two out of three buybacks have been disappointing, with the stock performing way below the Nifty50’s compound annual growth rate during those periods.
+Will this time be different? Maybe, maybe not.
+While the buyback itself is a strong signal of confidence, it doesn’t really assuage investors’ concern. After all, across geographies, investors in tech-services businesses [are jittery](https://economictimes.indiatimes.com/markets/stocks/news/fpis-continue-to-sell-in-august-financial-it-stocks-take-biggest-hit/articleshow/123513277.cms?from=mdr) about AI-led disruption. Infosys could have invested this money for targeted acquisitions or building out an AI-era services stack, but instead, it seems to have decided that the best investment is in its own shares.
+Infosys is putting up a strong front because, of the $3.8 billion in large deals it won in the June quarter, 55% were “net new” wins. This indicates it is gaining new business rather than just renewing existing contracts. Overall, the deals are focused on enterprise AI, client consolidation, and cost-efficiency initiatives.
+Since most communication about AI from IT companies lacks specifics, I looked for proxies, one of which is the corpus of original case studies or content that these companies produce. Parsing through its [blogs](https://blogs.infosys.com/all-blogs), articles, and whitepapers between January 2024 and early September, it became apparent that Infosys, at least, is talking about AI a lot more than other things.
+Drilling down further into its AI-related content shows the enterprise AI category isn’t really occupying all the space on its sites. It comprises nearly 32% of all its writings and publications, compared to ~37% for non-AI content, 27.5% for generic AI, and 3.6% for AI efficiency.
+Within the enterprise AI space itself, the two most prolific domains—financial services and banking, which contributed nearly 28% and 16% to Infosys’ revenue in the latest quarter—aren’t surprising. But that healthcare, cybersecurity, and governance also dominate its AI positioning is interesting. Unsurprisingly, manufacturing and utilities recorded the highest growth this quarter, much more than financial services and retail.
+Now, if Infosys is pushing hard internally to secure big AI deals, is it also hiring AI developers or experts? I looked at its [job postings](https://digitalcareers.infosys.com/infosys/global-careers) from the last six months, and the results are disappointing.
+On one level, this is in sync with the trend in IT talent demand across India. A 12 September [report](https://www2.everestgrp.com/report/egr-2025-0-r-7526/) from consulting and research firm Everest Group shows that overall monthly IT services talent demand in the country is at its nadir since June 2024.
+Sure, some IT companies have laid off staff, but it could also mean they are retraining existing employees and fully digesting the productivity shock from the introduction of large language models into their toolkits. But, as insiders say, for the most part, this training is inadequate to make a material change to the business.
+“IT services companies have never really invested in technology, R&D, and their people. I have one training lined up for tomorrow, but I know it’s just a routine check-the-box exercise,” said a senior executive who leads the European business of a rival IT company.
+Meanwhile, Tata Consultancy Services (TCS) has made a [song and dance](https://nvidianews.nvidia.com/news/tata-partners-with-nvidia-to-build-large-scale-ai-infrastructure) about upskilling its workforce for a while, but it still executed [lay offs](https://timesofindia.indiatimes.com/technology/tech-news/tcs-layoffs-it-employees-union-holds-protests-company-issues-statement-calling-it-/articleshow/123438954.cms), which sources tell me were far greater in number than officially announced. And last month, TCS said it was creating a new “AI and services transformation” unit.
+Most tech [analysts](https://www.business-standard.com/industry/news/indian-it-firms-urged-to-follow-accenture-s-ai-playbook-to-stay-relevant-125091400519_1.html) tracking Indian IT believe the country’s services giants are not doing enough. Because even if AI is [hyped](https://finance.yahoo.com/news/apollo-chief-economist-warns-ai-154650813.html)—and it is, because Oracle’s 36% stock jump in one day was largely due to a $300 billion deal with one private company, OpenAI, which is yet to raise the money to pay for this contract—it is still the major driver of a generational shift.
+As Peter Bendor-Samuel, founder and ex-chairman of Everest Group, [says](https://www.forbes.com/sites/peterbendorsamuel/2025/08/13/from-labor-arbitrage-to-ai-the-next-big-disruption-in-tech-services/):
+It’s an operating model shift. It brings with it a set of capabilities and consequences that mirror, in many ways, what labor arbitrage did in the 1990s: a massive potential to reduce the unit cost of service delivery, drive productivity gains, and realign value creation.
+This cost reduction is expected to stimulate new demand and recharge the market. But will today’s IT services sector be able to ride that wave? What brought them here will not take them there. IT companies perhaps know this well, except, they are prisoners of their past success and addicted to their margins.
+For instance, Infosys’ stated policy is to return capital to shareholders, and it prominently declares this every year—after its FY25 filings, the company said it has “returned Rs 95,000 crore over the last five years”. Can it not educate its shareholders on why investing more in the future is important for long-term benefits?
+An example that comes to mind is Bharti Airtel. While fighting for survival and investing in capex after Jio unleashed a price war, Airtel’s dividend payout was miniscule: Rs 1–4 per share between 2017 and 2023. This year, though, it gave a bumper payout of Rs 16 per share. Today, Airtel is the third-most valued company in India, relegating TCS to the fourth spot. (Incidentally, TCS had been pushed out of the second spot—which it had held for a long time—after the HDFC-HDFC Bank merger in 2023.)
+Indian IT needs to be far more gutsy to reinvent its own model.
+What do you think? Write to [longandshort@the-ken.com](mailto:longandshort@the-ken.com) with your thoughts, or leave a comment on our web edition. We’d love to hear from you.
+See you next Wednesday!
+Regards,
+Seema Singh

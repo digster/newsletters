@@ -1,0 +1,11 @@
+---
+subject: "Stage 2 Of Prediction Contest"
+from: "Astral Codex Ten <astralcodexten@substack.com>"
+to: ""
+date: 2023-01-10 03:23:34
+labels: ["Astral Codex", "CATEGORY_PERSONAL", "INBOX", "UNREAD"]
+label_ids: ["Label_6409723252142624155", "CATEGORY_PERSONAL", "INBOX", "UNREAD"]
+---
+Thanks to the 3295 of you who participated in Stage 1 of the 2023 Prediction Contest (“Blind Mode”). This is now closed. You can keep submitting Blind Mode answers if you want, but they won’t count and you can’t win. Stage 2 (“Full Mode”) is now upon us! Your job is now to use any resources you choose, to get predictions as accurate as you can. There’s no such thing as cheating, short of time travel or murdering competitors! Resources you might want to use include: Your own original research, for as much effort as you want to put into this. I’m only offering $500 prizes this year, so don’t spend too much time. But you can if you want.
+Prediction markets and forecasting tournaments on these questions. It’s not worth copying these verbatim - their management will be submitting their own entries, and if they win I’ll credit it to them and not you - but you can use them as resources or a place to start. The 3295 blind mode answers. You can download them as [a .xlsx file](https://substack.com/redirect/9aee3bc5-6263-4c8d-8873-0dbf460e5794?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)or a[.csv file](https://substack.com/redirect/9aee3bc5-6263-4c8d-8873-0dbf460e5794?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o). Feel free to take the average or otherwise run fancy aggregation algorithms on them. When respondents gave permission, I included their ACX Survey answers. If you want to double-weight people with PhDs, or exclude all Australians, or test whether forecasting accuracy is correlated with how vividly people dream, now you have the data you need.
+The form will ask you for a short description of what strategy you used - if you win, I’ll probably contact you later asking for more details. You can enter your Full Mode predictions on the same form, You're currently a free subscriber to |

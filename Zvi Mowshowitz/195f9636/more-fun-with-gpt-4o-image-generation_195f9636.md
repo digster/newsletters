@@ -1,0 +1,26 @@
+---
+subject: "More Fun With GPT-4o Image Generation"
+from: "\"Zvi Mowshowitz from Don't Worry About the Vase\" <thezvi@substack.com>"
+to: ""
+date: 2025-04-03 02:01:35
+labels: ["CATEGORY_PERSONAL", "INBOX", "UNREAD", "Zvi Mowshowitz"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "UNREAD", "Label_3336704411007769646"]
+---
+Greetings from Costa Rica! The image fun continues. We Are Going to Need A Bigger Compute BudgetFun is being had by all, now that
+Slow down.
+Defund the Fun Police
+It’s all cool. But I do think humans making all this would have been even cooler.
+The comments in response to Ally Louks are remarkably pro-AI compared to what I would have predicted two weeks ago, harsher than Roon. The people demand Ghibli. Whereas I see no conflict between Roon and Louks here. Louks is saying [Y] > [X] > [null], and noticing she is conflicted about that. Hence the upside-down emoji. Roon is saying [X] > [null]. Roon is not conflicted here, because obviously no one was going to take the time to create this without AI, but mostly we agree. I’m happy this photo exists. But if you’re not even a little conflicted about the whole phenomenon, that feels to me like a missing mood. After I wrote that, I saw Nebeel making similar points:
+Fun the ArtistsPerhaps the most telling development in image generation is the rise of the anti-anti-AI-art faction, that is actively attacking those who criticize AI artwork. I’ve seen a lot more people taking essentially this position than I expected.
+If people will fold on AI Art the moment it gives them Studio Ghibli memes, that implies they will fold on essentially everything, the moment AI is sufficiently useful or convenient. It does not bode well for keeping humans in various loops.
+The good news is that all is not lost.
+Actually, in this particular case, I bet that person’s week was fantastic for business. It certainly is, at least for now, for Studio Ghibli itself. Publicity rocks.
+Here is Indeed, consider that without AI, ‘hire a human artist to commission new all-human art for your post’ is completely impossible. The timeline makes no sense. But now there are suddenly options available. Suppose you actually do want to hire a real human artist to commission new all-human art. One does not simply Commission Human Art. You have to really want it. And that’s about a lot more than the cost, or the required time. You have to find the right artist, then you have to negotiate with them and explain what you want, and then they have to actually deliver. It’s an intricate process.
+I say this as someone who made a game, Emergents. Everyone was great and I think we got some really good work in the end, but it was a lot more than writing a check and waiting. Even as a card developer I was doing things like scour conventions and ArtStation for artists who were doing things I loved, and then I handed it off to the art director whose job it was to turn a lot of time and effort and money into getting the artists to deliver the art we wanted. If I had to do it without the professional art director, I’m going to be totally lost. That’s why I, and I believe many others, so rarely commissioned human artwork back before the AI art era. And mostly it’s why I’m not doing it now! If I could pay a few hundred bucks to an artist I love, wait two weeks and get art that reliably matches what I had in mind, I’d totally be excited to do that sometimes, AI alternatives notwithstanding. For the rest of us:
+Similarly, if you had a prediction market on ‘will Zvi Mowshowitz attempt to paint something?’ that market should be trading higher, not lower, based on all this. I notice the idea of being bad and doing it anyway sounds more appealing. The No Fun ZoneWe also are developing the technology to know exactly how much fun we are having. In response to the White House’s epic failure to understand how to meme,
+Here’s another method:
+The parasocial relationship, he reports, has indeed become more important to tailors. A key difference is that there is, at least from the perspective of most people, a Platonic ‘correct’ From of the Suit, all you can do is approach it. Art isn’t like that, and various forms of that give hope, as does the extra price elasticity. Most AI art is not substituting for counterfactual human art, and won’t until it gets a lot better. I would still hire an artists in most of the places I would have previously hired one. And having seen the power of cool art, there are ways in which demand for commissioning human art will go up rather than down. So Many Other Things to DoImage generation is also about a lot more than art. Self PortraitThe biggest trend was to do shifting styles. The second biggest trend was to have AIs draw various self-portraits and otherwise use art to tell its own stories. For example, here It also makes sense this would be the one to choose an abstract representation rather than something humanoid. You can use this to analyze personality:
+We can also use this to see how context changes things.
+But after a conversation, things can change:
+Is the AI on the right? Because that’s the AI’s Type of Guy on the right.
+So perhaps now we know why all of history’s greatest artists had to suffer so much? You're currently a free subscriber to |

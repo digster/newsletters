@@ -1,0 +1,32 @@
+---
+subject: "Web development in 2020: which coding tools to learn for the new year"
+from: "Quincy Larson <quincy@freecodecamp.org>"
+to: ""
+date: 2019-12-12 19:39:35
+labels: ["CATEGORY_PERSONAL", "INBOX", "Quincy"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_7697778124671848699"]
+---
+Here are this week's five links that are worth your time:
+
+1. Web development in 2020: My friend Brad Traversy made a 70-minute video about the state of web development, and which tools he recommends learning. I agree with pretty much everything he says here. And I've summarized his suggestions for you here. (10 minute read): https://www.freecodecamp.org/news/web-development-2020/
+
+2. Learn how to build your own video games using the newest version of the Unreal Engine. In this free video course, you'll build 3 games and learn a lot of fundamentals. (5 hour course): https://www.freecodecamp.org/news/learn-unreal-engine-by-creating-three-games/
+
+3. How to choose the best JavaScript code editor for doing web development (5 minute read): https://www.freecodecamp.org/news/how-to-choose-a-javascript-code-editor/
+
+4. How to Create your own Santa Claus tracker app using Gatsby and React Leaflet (10 minute read): https://www.freecodecamp.org/news/create-your-own-santa-tracker-with-gatsby-and-react-leaflet/
+
+5. An introduction to Unified Architecture - a simpler way to build full-stack apps (11 minute read): https://www.freecodecamp.org/news/full-stack-unified-architecture/
+
+
+Quote of the Week: "Any fool can write code that a computer can understand. Good programmers write code that humans can understand." - Martin Fowler
+
+
+Happy coding.
+
+- Quincy Larson
+
+The teacher who founded freeCodeCamp.org
+
+
+If these emails aren't worth your time, you can turn them off: https://www.freecodecamp.org/ue/eZV2T3gHC7IGcwcpYPG64

@@ -1,0 +1,11 @@
+---
+subject: "Social media and well-being"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2025-03-30 04:15:41
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+Here is [a new set of results](http://marginalrevolution.com?action=user_content_redirect&uuid=d1184f6268caac9e10450ee1aace04f493345a0b0540bbcc30fc14083a51f164&blog_id=42693868&post_id=90342&user_id=262258391&subs_id=225460721&signature=548e6413b761dab42fec297571f88b02&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly93d3cubmF0dXJlLmNvbS9hcnRpY2xlcy9zNDE1OTgtMDI1LTkwOTg0LTM&email_id=2dbbe2a667ffd516879939f993a8fe1b), by Laura Lemahieu, et.al.:
+Abstaining from social media has become a popular digital disconnection strategy of individuals to enhance their well-being. To date, it is unclear whether social media abstinences are truly effective in improving well-being, however, as studies produce inconsistent outcomes. This preregistered systematic review and meta-analysis therefore aims to provide a more precise answer regarding the impact of social media abstinence on well-being. The databases of PubMed, Scopus, Web of Science, Communication Source, Cochrane Library, and Google Scholar were searched for studies examining the effect of social media abstinence on three outcomes, namely positive affect, negative affect, and/or life satisfaction. In total, ten studies (N = 4674) were included, allowing an examination of 38 effect sizes across these three outcomes. The analyses revealed no significant effects of social media abstinence interventions on positive affect, negative affect, or life satisfaction. Relationships between social media abstinence duration and the three outcomes were also non-significant. The findings thus suggest that temporarily stepping away from social media may not be the most optimal approach to enhance individual well-being, emphasizing the need for further research on alternative disconnection strategies. Nevertheless, important methodological differences between studies should be considered when interpreting these results.
+I thank M. for the pointer.

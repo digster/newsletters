@@ -1,0 +1,12 @@
+---
+subject: "*The Age of Disclosure*"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2025-11-23 19:03:01
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+I have now watched [the whole movie](http://marginalrevolution.com?action=user_content_redirect&uuid=c33b8236cdc92ef6ebc40a442e18ec2f0b579e0c9e71891eeeaf0963c46d5e0f&blog_id=42693868&post_id=91926&user_id=262258391&subs_id=225460721&signature=1ad7e7bc539efb3a464600a5de2a734b&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g/dj1Ea1U3WnFiQURScw=&email_id=ff72fd7a851c4d2e02c286d47ce96c03). The first twenty-eight minutes are truly excellent, the best statement of the case for taking UAPs seriously. It is impressive how they lined up dozens of serious figures, from the military and intelligence services, willing to insist that UAPs are a real phenomenon, supported by multiple sources of evidence. Not sensor errors, not flocks of birds, and not mistakes in interpreting images. This part of the debate now should be considered closed. It is also amazing that Marco Rubio has such a large presence in the film, as of course he is now America's Secretary of State.
+You will note this earlier part of the movie does not insist that UAPs are aliens.
+After that point, the film runs a lot of risks. About one-third of what is left is responsible, along the lines of the first twenty-eight minutes. But the other two-thirds or so consists of quite unsupported claims about alien beings, bodies discovered, reverse engineering, quantum bubbles, and so on. You will not find dozens of respected, credentialed, obviously non-crazy sources confirming any of those propositions. The presentation also becomes too conspiratorial. Still, part of the latter part of the movie remains good and responsible.
+Overall I can recommend this as an informative and sometimes revelatory compendium of information. It does not have anything fundamentally new, but brings together the evidence in the aggregate better than any other source I know,and it assembles the best and most credible set of testifiers. And then there are the irresponsible bits, which you can either ignore (though still think about), or use as a reason to dismiss the entire film. I will do the former.

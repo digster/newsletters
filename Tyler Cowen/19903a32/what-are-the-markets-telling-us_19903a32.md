@@ -1,0 +1,20 @@
+---
+subject: "What are the markets telling us?"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2025-09-01 04:57:29
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+That is the topic of [my latest piece for The Free Press](http://marginalrevolution.com?action=user_content_redirect&uuid=c22da8a643ac66c7a2076482010b2ffc84b703d47355a97edabc91c0dcf204de&blog_id=42693868&post_id=91414&user_id=262258391&subs_id=225460721&signature=d1e5402a6085a1c30fc1707909483292&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly93d3cudGhlZnAuY29tL3AvbWFya2V0cy1zYXktcmVsYXgtdHJ1bXAtY3JpdGljcy1zYXk/dGFpZD02OGI0ZWNjZmM0OGQ2NDAwMDFlOTg0M2EmdXRtX2NhbXBhaWduPXRydWVhbnRoZW0mdXRtX21lZGl1bT1zb2NpYWwmdXRtX3NvdXJjZT10d2l0dGVy&email_id=e3a0bbff2f19e6c92a6858bd30bb3d00), as after all stock valuations are high. Excerpt:
+First, the
+[One Big Beautiful Bill Act], passed[earlier this year], slashed corporate taxes. Before Trump’s first term, the corporate tax rate was 35 percent; in his first term Trump[cut it]to 21 percent, and this year he and the Republican Congress[extended aspects]of that first-term tax bill. Factors such as[100 percent bonus depreciation]and[expanded interest deductions]give many companies[the ability to lower their tax bill further], though not in a way that can be expressed readily by any single number.With these lower tax burdens, companies should be worth much more. At the same time, the American taxpayer
+[now owes]more than $37 trillion in debt. So someone has to pay higher taxes over time, to satisfy those obligations. That someone probably is you, so you might want to take that into account in your overall assessment. But you should feel good about the companies, and somewhat less good about yourself and your children, given the tax hikes in the offing, sooner or later. You are paying for some of those higher stock market values.
+Plus the ten or so percent decline in the value of the dollar can be seen as a loss of confidence in the United States, for a bunch of the obvious reasons. But will the country fall apart? Probably not:
+That said, some of the worries are exaggerated. I’ve seen lots of
+[posts on]X lately saying that Trump is destroying the independence of the Federal Reserve system, and that this change will bring much higher rates of price inflation. Maybe. But that is not what the markets are saying. There are[different measures of expected inflation], and most stand between 2 and 3 percent, with some of the more important market measures clustered near 2.5 percent. You might think that is higher than it should be, but it is hardly a sign of pending hyperinflation. It’s also not different from how things were toward the close of Joe Biden’s term.
+And this:
+Finally, are you worried about fascism coming to America? The collapse of democracy? Did you
+[read about]the Trump critics Jason Stanley, Timothy Snyder, and Marci Shore[moving from America to Canada]?Well, head on over to the prediction markets—for instance, Kalshi.
+[Currently]the Democrats are favored at 53 percent to win the next presidential election. In other words, it costs 53 cents to buy a security that pays off a dollar if the Democrats win. In turn, that means the market thinks the Democrats have a very slight advantage in 2028. Does that sound like the collapse of democracy to you?I return here to the same logic: If you think the market is being naive and foolish, why aren’t you placing your bets in the opposite direction? At the very least you could be wealthier under the forthcoming fascism you predict, and you might even be able to donate your winnings to antifascist causes.
+Comments that fail to understand the distinction between optimal ex ante prediction and ex post outcomes should be shamed!

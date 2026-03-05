@@ -1,0 +1,20 @@
+---
+subject: "100K MBBS seats, 2.1M aspirants, and India's puzzling solution"
+from: "The Ken <info@the-ken.com>"
+to: ""
+date: 2023-11-15 02:37:21
+labels: ["CATEGORY_PERSONAL", "INBOX", "The Ken", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_8244464457792971031", "UNREAD"]
+---
+Good Morning Ishan,
+In Tamil Nadu, medical education is an emotive issue like it’s in no other state. Since 2017, the state in southern India has opposed a national entrance test for medical-college admissions, saying it disadvantages its own students.
+It even passed a bill recently to exempt them from the test.
+Before the dust could settle on this, Tamil Nadu had yet another reason to feel wronged. Last month, the National Medical Commission (NMC), which regulates medical education, said no state could have more than 100 seats per million people. Tamil Nadu is among the few states that are already well past that threshold.
+The NMC wants to fix the unequal distribution of seats across the country. But, as Alifiya asks in her story, is that even a problem that needs fixing?
+Especially, when 2.1 million aspirants competed for 100,000 seats this year: [https://the-ken.com/story/100k-mbbs-seats-for-2-1m-aspirants-yet-indias-fix-is-the-opposite-of-what-youd-expect/](https://the-ken.com/story/100k-mbbs-seats-for-2-1m-aspirants-yet-indias-fix-is-the-opposite-of-what-youd-expect/?utm_source=daily_story&utm_medium=email&utm_campaign=daily_newsletter) (8-min read)
+Sincerely,
+Seetharaman G
+[seetharaman@the-ken.com](mailto:seetharaman@the-ken.com)
+P.S: Before you go, The Ken turned seven this October, and all through this journey, we’ve put you, the subscriber, at the centre of everything we do. Which is why we’re coming to you now with a [subscriber survey](https://theken.typeform.com/2023SubSurvey) focused on our stories. You may be a free subscriber, a paid subscriber, or a former subscriber—we want to hear from every one of you. It’ll take less than 10 minutes to [take the survey](https://theken.typeform.com/2023SubSurvey), but it’ll be very valuable to us.
+What you just read is the personalised daily introduction to The Ken's story. Written by a different person each day. Often insightful, sometimes witty, and very rarely boring. Someone sent this to you? [Sign up for free](https://the-ken.com/?modal=register&utm_source=footer&utm_medium=email&utm_campaign=morning_email_ind_shared). [Dont like these? You can unsubscribe](https://link.the-ken.com/asm/unsubscribe/?user_id=2349339&data=2oMjQxEHoxxwVhVA3Uck1AeoNJdDm9QV7CqAI7JY91JoMDAwdTAwMIcXdMeePTTgJEEu2c8C4fETonZfAG-KPCkU2a-_16M-FAU2WI3qkcrRXvV8ntVHsdgKiGpmyNq0MYQlj9Cec58ymf9y4_5A2pfPRZBatklNecYv65NJtbCQjOip1eyEVu9vyV_2xd652cY5mo1h6g6kLeeui0226XPHR2eBiwZIENjmbOycbPNPJVm9vPWlhd8T1yYFkguvhdv3zmHCajGvg_T1hn0Ik9ua8wwJop9ITvPNPiSoACn40Ue5OLiS3n5kngSx8jEPYR14eL1gXydBSoPRSy5y9mIVgffH7i0-HUG0_cg9fU2gj9jW0RIPfy4rrHumOVt4JWzuhgJ12q6ehBWYDN-7PM2CWi7E8poBDWvc_v4CFxyby4Yu3wLuMYoAUyQABJ11e0UfS4kn2cTBTdetMy9uy-Q2qzR3U4AEFeuspTi9BvsJv99m2Rpgn8w59ed2swmFb1U1yYUt0hZfbm901hDKOtXBeiX4TFyBz6ZX5YVgxKfkPQbrt1bl1NQpdON_Tz1v4LYsb7Fj8Pg=) Dont want to hear from us again? [ Unsubscribe from our emails here](https://link.the-ken.com/asm/?user_id=2349339&data=zMb_TT8qR4Nn_12xxZgWt4z3U7CVr4wULOYspBj-WAFoMDAwdTAwMF9dM27AHdhWll_43M7UguQz5RBN1jsHH8wx3a_C7n6bSFYGKBJdjYj7eoeODF6RyfCye7XxZJ33MAYs6lg2g6M8qZUYPbH0pXll3BXmM-6Afuvm5H4Zvnia9jmHapaisRijXkRxY7f5ICyaKtCSCeBM-Kxqzbd3fK4iDQxGG3xOm9CKYYTiPDRPPg8X-qIGw91jsvF3QL2ddlJmDYC1LOZYHOSGHiH-LmbWSMaLn7ry1EJ8WCJP1sudYFwN8dL5W-PjSpXJqxqm_Fn2tGEuB_xmFZyuwtVEef-VdiDBxmeQEmsKW37XaibVpYe6WhAdMxBJ0mHLnViA35sAiSQxVYhKflSoCsEg6PLmFTNjL484JElvH41fJI3VXZDzabt5X8zrr5EPnw8jQBEKmxMYYT4GeCKwiX8xyzUerh7hw21tM7ZA_wOrD2A1C77XYiBvyMs_wDB6uJluzjpcC7yLGTw8O88q4_JJh9oIzghS_8f6C0dQj4ACcCIblroqghhMdQ==).
+Something wrong? Tell us at [support@the-ken.com](mailto:support@the-ken.com)

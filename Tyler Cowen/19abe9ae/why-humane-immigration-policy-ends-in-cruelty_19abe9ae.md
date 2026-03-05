@@ -1,0 +1,20 @@
+---
+subject: "“Why ‘Humane’ Immigration Policy Ends in Cruelty”"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2025-11-26 05:20:14
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+That is the title of [my latest Free Press column](http://marginalrevolution.com?action=user_content_redirect&uuid=bf68f01c41ce3164bad73c9b4af4029712866afb20928c662a501496dcb4cb34&blog_id=42693868&post_id=91930&user_id=262258391&subs_id=225460721&signature=67c883a8f021640b76b9ce3ffa44ae1b&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly93d3cudGhlZnAuY29tL3AvdHlsZXItY293ZW4td2h5LWh1bWFuZS1pbW1pZ3JhdGlvbi1wb2xpY3ktZW5kcy1pbi1jcnVlbHR5P3V0bV9jYW1wYWlnbj0yNjAzNDcmdXRtX3NvdXJjZT1jcm9zcy1wb3N0JnI9MThmMCZ1dG1fbWVkaXVtPWVtYWls&email_id=795c616468584e584556d45279700d56), which is interesting throughout. Here is one bit from it:
+Behind any immigration debate is an uncomfortable truth: In rich, successful democracies, every workable immigration policy, over enough time, offends liberal instincts or public opinion—often both. We oscillate between compassion and coercive control, and the more we do of one, the more we seem to need some of the other.
+The dilemma: Due to the ever-rising numbers of migration to the United States, the enforcement of immigration restrictions has to become more oppressive and more unpleasant as time passes. The alternative course, which is equally unpleasant, is that immigration increases to levels that voters find unacceptable, and we fall under the rule of anti-immigrant parties—which are illiberal on many other issues as well.
+The news gets worse. The more pro-immigration you are and the more you allow some foreigners to enter this country, the more others on the outside will wish to come too. Unless you are going to open the border entirely (not a good idea), you will end up having to impose increasingly harsh measures on illegal arrivals, and tougher and tougher restrictions on potentially legal applicants. The liberals in essence become the illiberals.
+So I mourn our ongoing and intensifying moral dilemma. At the margin, there are so many people who want to come here (a sign of American success, of course) that there is no kind and gentle way to limit their numbers to a level the public finds acceptable.
+And this:
+A third alternative is to slow the intake. Keep it fast enough for America to remain “a nation of migrants,” but slow enough to avoid major backlash or to asymptotically approach open borders.
+That sounds pretty good, right? But here is the illiberal catch: Given the growing attractiveness of migration to America, penalties and enforcement have to get tougher each year. There are no ways to send large numbers of people back that are not cruel and coercive. There are also few ways to keep people out that do not involve the extensive presence of coercive police, border arrests, imprisonment, and other unpleasant measures.
+We might decide to let in more migrants, but still we will end up being cruel to the would-be migrants at the margin. And as demand to migrate continues to rise, we have to be increasingly coercive over time.
+That does not have to mean masked ICE men grabbing people randomly off the streets (which leads to violating the constitutional rights of
+[mistakenly identified citizens]), but one way or another it is going to involve threats of violence against actual human bodies. That can mean turning away boats full of desperate people, flying people back home, putting them in interim jails, and in general treating them in ways I find deeply unpleasant and disturbing. It is no accident that the Biden administration[could not completely avoid]the Trumpian policy of separating illegal migrants from the children that accompany them.
+Definitely recommended, one of my more interesting pieces this year.

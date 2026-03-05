@@ -1,0 +1,10 @@
+---
+subject: "Open Thread 370"
+from: "Astral Codex Ten <astralcodexten@substack.com>"
+to: ""
+date: 2025-02-24 06:18:44
+labels: ["Astral Codex", "CATEGORY_PERSONAL", "INBOX"]
+label_ids: ["Label_6409723252142624155", "CATEGORY_PERSONAL", "INBOX"]
+---
+This is the weekly visible open thread. Post about anything you want, ask random questions, whatever. ACX has an unofficial 1: This year’s 2: I mentioned last week that Google/DeepMind AI safety team was hiring and linked an Alignment Forum post, but it was the wrong one! The right one is 3: Brown University (Rhode Island) is hosting a intercollegiate forecasting tournament on March 15, prize pool of $2000 plus the chance to “interview with a top hedge fund”. See 4: Some straggler Metaculus/ACX forecasting winners who I didn’t get to mention last week: Katifish is a computational/systems neuroscientist. She writes: "I've been predicting on and off for 6ish years, and find prediction competitions a useful tool to notice biases in my thinking and pay attention to details I might not otherwise notice. Happy to meet other forecasters and generally curious people in the Providence/Boston area, and open to hearing about job opportunities that would let me expand my skill set and integrate data across different domains. Feel free to reach out at katipredicts@gmail.com." Sparepot is a privacy analyst at Meta, where he runs a low frequency prediction market for his team. He occasionally comments on ACX as Ace Is Low. He writes: "For the contest, I prioritized winning over platonic accuracy and shifted my real predictions to be more extreme. I don't know whether this is a lesson in self-confidence, support for the 'nothing ever happens' hypothesis, or a knock against the scoring algorithm. " Also, last week I incorrectly listed J's email. The correct email is j@thedissonance.net. If you emailed him last week, please try again at the correct address.
+You're currently a free subscriber to |

@@ -1,0 +1,17 @@
+---
+subject: "A more intelligent comment than most of the emotional reactions we are seeing"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2026-01-25 19:00:51
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+What portion of Republicans think the Trump admin/ICE killing a few hundred people, roughing up a few thousand more, and violating all kinds of civil liberties is an acceptable price to pay for making net migration go deeply negative?
+The answer to that tells you when/how this ends.
+If it's a small minority (unlikely), there's going to be internal pushback that brings the worst excesses under control.
+If it's around half (that's my guess), you'll get paralysis but not a doubling down. There will be a lot of what-about-isms and excuse-making and reflexive defending of co-partisans and blaming Democrats/protestors, but it's basically more of this.
+But if it's a large majority (and it might be), this only gets worse from here. Because it means they don't actually see what's going on as unacceptable and in fact find it preferable to not achieving those deeply net-negative immigration goals.
+That is [from Democrat Gary Winslett](http://marginalrevolution.com?action=user_content_redirect&uuid=1f5fc58f754cbb471145c02f02921026b10d4780043da850d0daa68032bea0f4&blog_id=42693868&post_id=92310&user_id=262258391&subs_id=225460721&signature=d09f010615ad198ac06795a74e7fbdc9&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly94LmNvbS9HYXJ5V2luc2xldHQvc3RhdHVzLzIwMTUxODM0NDIxMDc5MzY5MDI&email_id=31aaacb6c0646655e02680fa07a1e403). And I agree with his guess for the middle scenario.
+More generally, do not let your emotions make you into a counterproductive political force. My personal belief is that recent levels of illegal immigration have become a political problem for the United States (i.e., most voters do not want it, and thus we must do something to stop democracy from being ruined), but it is not a very large practical problem, apart from some number of border and near-border towns. It still yields net gains. So I very much dislike recent ICE activities. But you need to think through the political equilibrium. Making the issue more salient through your emotions and self-righteousness might be turning you into a tool of the forces you dislike. Are you so sure that having people discuss "immigration" more will turn in your favor, when polls indicate that people prefer Republican to Democratic approaches on the issue? "Visceral" discussions about emotionally charged shootings might be worse yet. While Americans do not like recent ICE activities, they still favor rigorous border enforcement and many of them will vote accordingly.
+Overall, I want immigration discussions to be less emotional, not more emotional, and perhaps that is the relevant choice variable here.
+So often the MAGA strategy is to make an issue more salient, thus winning over time, by provoking opponents into public displays of emotion. Or the strategy is simply to make Trump himself more salient? Are you smart enough to avoid that, and also to keep your own analytical faculties intact? Obviously similar remarks apply to many issues of foreign policy as well, Canada and Denmark are you listening?

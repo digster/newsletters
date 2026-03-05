@@ -1,0 +1,22 @@
+---
+subject: "Brain-breaking businesses"
+from: "The Ken <info@the-ken.com>"
+to: ""
+date: 2022-04-24 03:32:19
+labels: ["CATEGORY_PERSONAL", "INBOX", "The Ken", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_8244464457792971031", "UNREAD"]
+---
+Happy Sunday to you. What did you get upto this weekend? I was tucked away in the coolest corner of my house (because, duh, Delhi), trying to have a conversation on Playground, the open-source GPT-3 chatbot hacked together for free public consumption (well, so far).
+I got instant terminator-meets-matrix vibes. Even as my partner was asking it to churn code for his calculations, I was busy trying to muddy its data pool with dumb questions like "Hey, who's my best friend?".
+Thankfully GPT-3 doesn't know that. Yet.
+The advanced software terrified me, but it also got me thinking. It takes one great idea, one great leap of faith, or AI, to completely transform businesses.
+For instance, even through my superficial interaction with the AI on Playground, I could see how this might work better than a Google search, upending the whole way we look for things on the internet. Imagine if you never had to click a second follow-on link. What price would you put on keywords?
+Ideas are alchemic. But executing that idea needs a steady state. And nothing can describe this chemistry better than the five businesses I want to talk to you about today.
+On Friday, Arpit wrote about [Hasura's climb](https://the-ken.com/story/hasura-open-source-strength-commercial-weakness/?utm_source=recap_story&utm_medium=email&utm_campaign=recap_newsletter) to being India's first open-source unicorn. The tech firm made its core proprietary offering free to use for a growing community of over 400 developers who regularly contribute to the software, fix bugs, and make it better. The open source community is a great cheerleader, but are they also equally good buyers? Hasura's greatest strength may not make for the best business model.
+Let's stay with software for a second. Srikanth Velamakanni isn't your typical startup founder. For one, the company he co-founded, [Fractal.ai](https://the-ken.com/story/21-years-to-unicorndom-fractal/?utm_source=recap_story&utm_medium=email&utm_campaign=recap_newsletter), is a newly-minted unicorn, about 20 years in the making. In a deep-dive interview with Seema on Tuesday, Velamakanni traces the growth of Fractal from its earliest use by banks to detect good loan customers, and how he thinks this is just the "teenage years" of a 100-year-old legacy.
+Twenty years is a long horizon for eight-year-old [Cashify](https://the-ken.com/story/cashify-ditches-profitability-as-it-turns-on-the-growth-afterburners/?utm_source=recap_story&utm_medium=email&utm_campaign=recap_newsletter), which is bang in the middle of a cardinal startup problem: choose growth or profitability? Cashify doesn't have an idea problem: upselling refurbished smartphones is great in a country where 50% of smartphones were bought online in 2021. Cashify's problem is the steady supply of good quality phones to beef up its reselling business. As Ayush reports in his Wednesday read, Cashify needs to solve an image problem by shelling out some marketing dollars.
+Monday's read was vintage The Ken—Arundhati took a scalpel to consulting and market research firm [Redseer](https://the-ken.com/story/market-research-to-consultancy-redseer-bounces-around-to-gain-respect/?utm_source=recap_story&utm_medium=email&utm_campaign=recap_newsletter). Redseer is a consultant to consultants, a market research whiz with ambitions to be a full-blown consultancy. Its ex-Mckinsey founder says all its research methodologies are above board, but people on the ground who've seen Redseer at work tell a different story.
+For our Thursday read, Anand and Seetharaman teamed up for the next chapter in the saga called [Adani stocks](https://the-ken.com/story/the-confounding-rise-and-rise-of-adani-stocks/?utm_source=recap_story&utm_medium=email&utm_campaign=recap_newsletter). Three companies in the sprawling empire are now part of India’s 20 most valuable listed companies. Their shareholding pattern, though, is fancy financial jugglery. The uncertain stake of FPIs in these companies is just one example.
+That’s all from me today. I know GPT-3 can write entire emails now. But I do hope you prefer the heart I've put into mine.
+Have a wonderful start to the week!
+Olina

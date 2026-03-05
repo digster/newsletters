@@ -1,0 +1,29 @@
+---
+subject: "India’s marketplace unicorns are the new incumbents"
+from: "The Ken <info@the-ken.com>"
+to: ""
+date: 2019-09-03 02:36:09
+labels: ["CATEGORY_PERSONAL", "INBOX", "The Ken"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_8244464457792971031"]
+---
+Good Morning Ishan,
+The unsaid rule in the venture capital ecosystem when it comes to pouring billions of dollars into perpetually loss-making but exponentially growing unicorns is this: one day when the fires settle and most competitors are dead, our investee will be the one left standing. And then we will reduce spends, control discounts and raise prices.
+No one really expected that day to also become the day of reckoning.
+In sector after sector in India, the largest companies left standing are today in positions that most people would describe as duopolies, some would describe as oligopolies, and lawyers would describe as scrappy startups barely touching 1% of the potential market. In the food delivery space there is Zomato and Swiggy. In the online travel and hospitality space we have MakeMyTrip and OYO. And in retail e-commerce they are Flipkart and Amazon.
+But because all of them are marketplace-based platforms, the typical signs of market share concentration and oligopolistic behaviour have been absent from the consumer side. Consumers have been blessed with increasing choice, round-the-year deep discounts and rapid deliveries, often at a fraction of the true cost.
+But peer to the other side of these platforms and there has been a supplier revolt that has been building for years now.
+That revolt is now in the open. Realising the futility of fighting the mega platforms one-to-one, hotels, restaurants and small retailers are coalescing around their respective trade organisations. In June, hospitality platform OYO dodged a bullet when it resorted to legal threats and a court order to prevent a boycott by hotel bodies. But last month, food and restaurants platforms bore the brunt of one.
+What’s behind this blowback? A litany of woes including deep discounts, rising commissions, opaque algorithms and the rise of platforms pushing their own competing wares too.
+A slowing economy means the government and regulators cannot afford to ignore widespread distress among the small businesses that make up the bulk of India’s economic engines. One specific regulator is the one under whose ambit most of the complaints fall under: The Competition Commission of India, or CCI. Hitherto one of India’s more easy-going regulators, the apex competition regulator is showing signs of changing intent and behaviour.
+In today’s story, three of our writers—Pratap, Olina and Vandana—report from an event organised by the CCI in Delhi last week. An event that was attended by dozens of industry stakeholders, digital platforms, trade bodies, media organisations and individuals. An event that thrust into the public spotlight the simmering tensions between powerful platforms and one side of their business model—suppliers.
+Yesterday’s disruptors better prepare to defend themselves as today’s incumbents, say Pratap, Olina and Vandana. Because a perfect storm is coming. It's our free story for the week, do read and share: [https://the-ken.com/story/digital-platforms-perfect-storm/](http://link.the-ken.com/uni/wf/click?upn=HQSq6eeRV1xAVaGuFOahuNCZVVXPeP-2FJpSqxhvIUDrmqgVYRkmQcWGKxezt-2FLR6JXAHODZYYiMx-2BUKs9abvfRclcQWLxYf5hh7Q6Y3C-2FuywkI4n0NDUmUA3zcbn2Rd1WlGJU2UwaFSmpQ9jNwQkqaddD-2FR6ttCdpNShLS1AAODJTuBc2hVseEdPmeYjyFrz1_S4jLOsNx-2Fv6Jev2nvow8b7P9pBCWGd8KNZfb200gkZLQNlXQHio0noZzXtsWoloZmPWeyZsh7a4QCV9ufwCUKi00jlBT0uEdvwYDMuVuqcPH-2Fy21IroxhoqaDucE7wEUyLTw6azH0mB1y39kqDsKrxu-2FiWyd3ZeBPaymK0MpLRZ0A1sUVadgRmThtDe6Kvfi4x9Z-2BFRUJXU-2Fg42daToK4A-2F62s16Mt8qbC1xQHXk7WWitkZ0ZbGIPYpvjLjKMgJM6alrrQ93aazxdjyabDARqxK0HK6zl8r90MRs0NyHRrGotfVdwurnUtoA4iHUKhHTB0sGL5-2FnU0lYuXAX-2BM0-2F7mpSnGfaY-2FLwqPIJ7XEQ8oYYPTx4Bomy-2FZ57p8ypkpmhEThxRLUqtxJ54qD9bYi-2F7EL-2BEyMkqfBAaJvJGxDIvctPlEvwQ5MahVFdyXoxzp0d) (14-minute read)
+Sincerely,
+Rohin Dharmakumar
+[rohin@the-ken.com](mailto:rohin@the-ken.com)
+|
+What you just read is the personalised daily introduction to The Ken's story. Written by a different person each day. Often insightful, sometimes witty, and very rarely boring. Someone sent this to you? [Sign up for free](https://the-ken.com/?modal=register). Don't like these? You can [unsubscribe](http://link.the-ken.com/asm/unsubscribe/?user_id=2349339&data=3yMg2-TPvEjAAJLiDsLjiBZUklJllJ5XKxHrY-tW4evDw7saAipYV2Kol4rnN8AkpkkR8Ib_3j_ymnzp7lnLzipHRG33qx8Q1muHn4jrt17bGDkfCkgzbHS_7mTe_xIk32PuPYDmeh7ih3SDzxsearl_azl-V6dUEGI9kageVRe5YJYstt6G5vI_WxA-3fTTJNWDlUvEzgNZeZqMTNK59rAwyBAhztV_lO8Znxr-Vn9JOJUjGUNMlbYDta8nhHrJUbSuSwC_Hi4sxxZi2ZOgQGKiueVq4NiVpArVTfysZU_wpCy1TGzVrMd6rHQDEoM_4JyJKnRCGSR_3fAHywAOSnQOUhBfhatb7hByW7A-yLEbSLhzpuyQawcfuQR-R1wQ-QeLbeGajB2tKaWSyIVWQx3eFNwsWWbXtX8QfgYo163k5lKSPGGTwrXoWc7EGf83A7ub5YJJodT7EM5SkiUDgfNcdy_T_3cYyw2YenNyh2oMCd6Z_h6SZQ_oWUkOPLGzUi49qUPDAvd9UzZep5v0KIGFaFqpI5IBlmobM6T8Mbk=). Want to manage your emails? Click [here](http://link.the-ken.com/asm/?user_id=2349339&data=leSLeCrq6KT0nSdalbS8U-8uEChIgqQ_nZk3qck6WQoLFylUjVw6dzn6C2OVYFDh6cKkOAN3WEa5ZHh4FvzJv6Hm_GZXSRzJ_rpzBPqx9kF9Zw0AOSWWZ9WpyBvjp2qLEuErBv4cyGZK1QcmlEqKNrUj0MpmvLG6d1alLyF68TRy6bDvl7eguQTAPPdv-n0w3i6RKJEGQCffNjXFYsSRa9F0_AM7iD2t9Nq-0ugX9SXadF4zgNT9zDxccAy7PfJsdUtxuxcJf8ynIVobJsjqH7lsi32vVdoSrjV8tx3YSOn7g0wvRgUp_yzA2jBmb-bgQ8aBggFOfWg3BibgMOWuuqmZbhUAzq6FkTKhghzhMQZMV5H7Su7GP3ZYzjfkvbo9l3toqMlFqx-iLwmBcKHBMz-ZMzBl2wNxiWkHQShdCObPRsVJHL6_y--za6OOUWgTfEyum45bZ9WEPFUC8eDZzvmhRC2dF9RX7kOJufkjvpq9lvoBZa5IsLs9LuIr9Vpr61YXJa6-GlgXYKpQMy5X2g==).
+|
+|
+|
+|
+|

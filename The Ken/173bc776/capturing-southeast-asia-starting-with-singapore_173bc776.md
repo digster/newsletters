@@ -1,0 +1,22 @@
+---
+subject: "Capturing Southeast Asia, starting with Singapore"
+from: "Beyond The First Order <info@the-ken.com>"
+to: ""
+date: 2020-08-05 02:33:24
+labels: ["CATEGORY_PERSONAL", "INBOX", "The Ken"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_8244464457792971031"]
+---
+Capturing Southeast Asia, starting with Singapore
+Ben
+Singapore is no stranger to introducing competition in industries to encourage innovation and improve customer service. In banking, for example, it has introduced a number of policies to attract foreign players.
+It just [enhanced](https://www.mas.gov.sg/news/media-releases/2020/mas-enhances-its-significantly-rooted-foreign-bank-framework#1) the Significantly Rooted Foreign Bank (SRFB) framework for banks with deep presence in the city-state.
+Standard Chartered Bank, the first named SRFB, has been awarded new privileges. Previously, Standard Chartered was a Qualifying Full Bank (QFB) license holder and could operate up to 25 locations for its branches and ATMs. Now, it can operate up to 35 branches out of the 50 places of business it is allowed to have in Singapore, with the rest being ATMs.
+An SFRB license could be a stepping stone to further riches.
+If an SFRB substantially exceeds the criteria for “significant rootedness”, it might be considered for a full bank license, giving it the flexibility of local banks. The criteria include complete subsidiarisation of business operations in Singapore, having a significant proportion of global management and business heads being based in Singapore, and being a top bank by headcount. As a full bank, a foreign bank will be able to do things it couldn’t before, such as establish subsidiaries that can operate new business models like a digital-only bank.
+Until 1999, Singapore banking was quite protected by the Monetary Authority of Singapore (MAS). That year, MAS liberalised the industry, giving foreign banks access to Singapore customers through the QFB license. The regulator would later mandate in 2012 that QFB license holders serving retail customers must [incorporate](https://www.mas.gov.sg/news/media-releases/2012/mas-announces-changes-to-the-qualifying-full-bank-programme) in Singapore in an effort to ring-fence local retail customers’ monies.
+In contrast, under the enhanced SRFB scheme, an SRFB is required to be headquartered in countries where Singapore has a free trade agreement. Not too difficult since Singapore has 25 agreements signed as a single trading partner or as part of the ASEAN bloc.
+What this brings to the banking industry is more competition for the dominant local banks, DBS, UOB, and OCBC. (Foreign banks that [attempted](https://www.businesstimes.com.sg/banking-finance/private-banks-lacking-scale-exit-singapore) to crack the local market in the early 2000s would later exit, such as ANZ Bank, which [sold](https://www.ft.com/content/718ee592-9f00-11e6-891e-abe238dee8e2) its Singapore unit to DBS in 2017.)
+Banks in Singapore sat on deposits of about S$664.8 billion (US$483.4 billion) as of December 2019, a lode that foreign banks would be eager to tap. This number has grown 290% since 2000, when total deposits were only S$170.2 billion (US$123.7 billion). Similarly, loans and advances have reached a sizable tally, at S$692.3 billion (US$503.5 billion) in 2019.
+Singapore is well-served by banks, with 6.7 million credit and charge card holders in Singapore out of a population of 5.8 million. The local banks corner the market on [mortgages](https://www.mortgagewise.sg/local-banks-mortgage-books-2019-1h/), taking an 85% share.
+Beyond just tapping the lode in Singapore, the ability to launch new business models such as an all-digital bank would be useful for foreign banks in Singapore. The [major difference](https://the-ken.com/sea/story/singapore-digital-banking-license-rush/) from the digital license being issued by the end of the year is that the bank would be able to offer full banking services right away rather than gradually within a five-year period. This would allow them to essentially slice the pie twice, attracting customers to both their physical and digital banks.
+This is perhaps what Standard Chartered is looking to do after deciding against applying for a digital bank license earlier this year. Other foreign banks will also be eyeing this prize, as the region opens up, and will use Singapore as their [beachhead](https://the-ken.com/sea/story/into-amtds-singapore-spiderverse/) into the rest of Southeast Asia.

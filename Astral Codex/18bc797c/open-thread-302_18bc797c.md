@@ -1,0 +1,10 @@
+---
+subject: "Open Thread 302"
+from: "Astral Codex Ten <astralcodexten@substack.com>"
+to: ""
+date: 2023-11-13 07:30:12
+labels: ["Astral Codex", "CATEGORY_PERSONAL", "INBOX", "UNREAD"]
+label_ids: ["Label_6409723252142624155", "CATEGORY_PERSONAL", "INBOX", "UNREAD"]
+---
+This is the weekly visible open thread. Post about anything you want, ask random questions, whatever. ACX has an unofficial [subreddit](https://substack.com/redirect/d1355237-ff66-4547-b6dc-0631823861f2?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o), [Discord](https://substack.com/redirect/c417d7ce-88d3-4a53-bb63-ffc85576f1b9?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o), and [bulletin board](https://substack.com/redirect/66d00e51-ef34-4986-8a01-66ca3cd00e1c?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o), and [in-person meetups around the world](https://substack.com/redirect/389e2ec6-d52f-4471-a8df-d9331991c2dc?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o). 95% of content is free, but for the remaining 5% you can subscribe [here](https://substack.com/redirect/bc3f28a8-4e92-46b7-8ed8-892bf518d174?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o). Also:
+1: Comment of the week is Seth Schoen’s description of [a Wikipedia fight over the book ](https://substack.com/redirect/cb2e51a6-0290-4c88-9117-b5d426b59c8e?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)[A Void](https://substack.com/redirect/cb2e51a6-0290-4c88-9117-b5d426b59c8e?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) - the book is famous for not using the letter “e”, and the Wikipedians argued about whether it was appropriate for its article to operate under the same constraint. See also [Melvin’s response](https://substack.com/redirect/211aaeeb-6a79-4c89-9a63-e68ecce5778a?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o).

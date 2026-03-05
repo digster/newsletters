@@ -1,0 +1,13 @@
+---
+subject: "*Steven Weinberg: A Life in Physics*"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2025-02-19 05:24:51
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+A fun book, I enjoyed the read. Here is one bit:
+There is another contribution to my productivity. While sitting at my desk at home doing physics or preparing classes, or doing some science writing, I picked up the habit of watching classic movies or the History Channel on television. My TV is always turned on in its corner of my desk. Doing the two things at once doubles the value of my time. And the movie keeps ne gnawing at a problem in physics when I might otherwise have knocked back my chair and decamped in frustration.
+And:
+At this time, Louise [his wife] literally saved my life. Through my friendship with Bernie Feld, I found myself welcome at, and attending, international meetings of various experts on the problems of the international order. Louise understood the situation better than I did. She advised me to have nothing further to do with Bernie's world, if I wanted to get anything done in physics. She made me see that this was a world of disheartened older men giving themselves something important-looking to do, but that I was an optimistic young man with real work to do. I do not exaggerate when I confess that she saved my life.
+You can order it [here](http://marginalrevolution.com?action=user_content_redirect&uuid=c0232ae68b9a485ccf84e0362701062afdd3f4336275b67782aafc3574bea9ca&blog_id=42693868&post_id=90082&user_id=262258391&subs_id=225460721&signature=454ec459fa604bd643ded87e90135480&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9TdGV2ZW4tV2VpbmJlcmctTGlmZS1QaHlzaWNzL2RwLzEwMDk1MTM0NzgvcmVmPXNyXzFfMT9jcmlkPTJKVVJRSUo3MTlEOUImZGliPWV5SjJJam9pTVNKOS5TNGhFQlZHWUZkRllOWE1zUV9nT3RncndIalA2OWswTGRNWFN0U29HeDRkSFFrbWxZVlhYU3dQbUVSRkt5YlpvQ3BSNWpKX1JiVlhDLW1mdFI4ZC0yeVpvTU5Ha3pVR3JKNHVOY3VEYlRrOFctY0RBMkVEUFNrYThTaXBRMXlVZ29SUTN1ZEFXT3VPMVh2VGdDeEotdXBIWTZTQ1k1cldLWVdzYUVSN0k4YUp6ZDNSemszY1h5U2EtLXE2M0tPWWYtZi1xNDZROG80X2ZncjNKMHU3S3p2SGtiSzQxeWd2Y2JqeU1rNDgweUVnLjNGMnRWSEZoM0VZQXBWTWltai1wN3N6TFpiNEtfdXJ4dlpzRVVQcUhHMGcmZGliX3RhZz1zZSZrZXl3b3Jkcz1zdGV2ZW4rd2VpbmJlcmcrYStsaWZlK2luK3BoeXNpY3MmcWlkPTE3Mzk2NDk1OTYmc3ByZWZpeD1zdGV2ZW4rd2VpbmJlJTJDYXBzJTJDODgmc3I9OC0x).

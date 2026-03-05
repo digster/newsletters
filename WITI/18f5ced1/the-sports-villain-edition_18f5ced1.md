@@ -1,0 +1,10 @@
+---
+subject: "The Sports Villain Edition"
+from: "\"Why is this interesting?\" <whyisthisinteresting@substack.com>"
+to: ""
+date: 2024-05-09 10:35:45
+labels: ["CATEGORY_PERSONAL", "INBOX", "UNREAD", "WITI"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "UNREAD", "Label_5752899537867939131"]
+---
+Surjan here. A few weeks ago in Dallas, 18,000 men, women, and children relentlessly booed a man, all because of his timely recovery from a lacerated spleen. Why is this interesting? In each NHL playoff season, a player emerges that everyone loves to hate. Usually, the catalyst is a dangerous hit or a breach of unwritten rules, like Mark Stone squints to better hear a question amidst In an attempt to maintain competitive balance between its teams, the NHL uses a salary cap, limiting the amount of money a team can spend on its players. By lacerating his spleen, Mark Stone was eligible to be signed as a long term injured reserve (LTIR), a category that allows a team to exceed the salary cap. Normally, this makes sense. If $5M of hockey player is injured and unable to play, a team gets to add $5M more of hockey player to stay competitive. But of course, as with any rule in a sporting context, someone found a loophole. The loophole relies on the fact that there’s no salary cap in the playoffs (because of complications like the removal of roster limits and players This loophole has been used before – the 2015 Chicago Blackhawks and 2021 Tampa Bay Lightning are two Stanley Cup-winning examples – but Mark Stone’s recent history speaks for itself. From Do I think the injuries are faked? No. Do I think the recovery timelines were massaged? It just makes too much sense. But every playoff needs a good heel, and I enjoyed booing the Golden Knights from my couch – especially because they made me care about accounting. (SS) — Thanks for reading, Noah (NRB) & Colin (CJN) & Surjan (SS) —
+You're currently a free subscriber to |

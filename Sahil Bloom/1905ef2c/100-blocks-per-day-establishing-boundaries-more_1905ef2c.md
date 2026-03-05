@@ -1,0 +1,81 @@
+---
+subject: "100 Blocks Per Day, Establishing Boundaries, & More"
+from: "\"Sahil Bloom's Curiosity Chronicle\" <sahil@sahilbloom.com>"
+to: ""
+date: 2024-06-28 13:04:46
+labels: ["CATEGORY_PERSONAL", "INBOX", "Sahil Bloom", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_1989028747625928812", "UNREAD"]
+---
+The Einstellung Effect, Your Life Story, & More
+read and listen on [sahilbloom.com](https://click.convertkit-mail4.com/zluq9ee70xsnh4qkkqxt4f298nn00u6/g3hnh5h39ok2nlir/aHR0cHM6Ly93d3cuc2FoaWxibG9vbS5jb20vbmV3c2xldHRlci90aGUtZWluc3RlbGx1bmctZWZmZWN0LXlvdXItbGlmZS1zdG9yeS1tb3Jl)
+read time 4 minutes
+Here are 5 interesting ideas to spark your curiosity heading into the weekend.
+Today at a Glance:
+- Question: Writing your life story.
+- Quote: Importance of boundaries.
+- Framework: Einstellung Effect
+- Poem: Leisure is essential.
+- Essay: 100 blocks per day.
+|
+Today's Newsletter is Brought to You by [ConvertKit](https://click.convertkit-mail4.com/zluq9ee70xsnh4qkkqxt4f298nn00u6/9qhzhnhpw3l8xxc9/aHR0cHM6Ly9jcmVhdG9ybmV0d29yay5jb252ZXJ0a2l0LmNvbS9tYXRjaD91dG1fY2FtcGFpZ249Y2stY24tcmV0YXJnZXRpbmcmdXRtX2NvbnRlbnQ9MS0xNy1DSyZ1dG1fbWVkaXVtPW5ld3NsZXR0ZXImdXRtX3NvdXJjZT1ja2Fkcw==)
+Grow your email list passively
+Add a new, passive list growth channel to your 2024 strategy with ConvertKit Recommendations. Set up your profile in the Creator Network and increase the chances of your content getting noticed and your subscriber list growing from recommendations of other creators— even when you’re out playing with your kids, grocery shopping, or setting up your next big launch. Just set up and let it go.
+|
+Question on writing your life story:
+If you were writing the story of your life, what would the current chapter be called?
+One of my core mantras for life: When in doubt, zoom out.
+The bird's-eye view perspective on your situation provides a unique vantage point—an ability to see the landscape around you and the bigger picture.
+This question helps you do just that:
+Imagine your life as a novel. What would the current chapter be called?
+- Would it be a chapter of growth and change?
+- A chapter of joy and fulfillment?
+- A chapter of destruction?
+- A chapter of rebirth?
+- A chapter of fear and paralysis?
+More importantly, do you like what it's called, or do you want to change it?
+If the latter, what actions would you have to take today to begin to change the name?
+If you were to look back on this chapter after reading the entire book, what actions would have made this chapter a key inflection point in your journey?
+Spend a few minutes thinking about these questions. I'm willing to bet they'll spark new growth on the other side.
+Quote on the need for boundaries:
+"Daring to set boundaries is about having the courage to love ourselves, even when we risk disappointing others." - Brene Brown
+If you say YES to everyone else, you're saying NO to yourself.
+Learn to embrace the power of NO.
+([Share this on Twitter!](https://click.convertkit-mail4.com/zluq9ee70xsnh4qkkqxt4f298nn00u6/3ohphkh7m9n8r9sr/aHR0cHM6Ly90d2l0dGVyLmNvbS9pbnRlbnQvdHdlZXQ_dGV4dD0lMjJEYXJpbmclMjB0byUyMHNldCUyMGJvdW5kYXJpZXMlMjBpcyUyMGFib3V0JTIwaGF2aW5nJTIwdGhlJTIwY291cmFnZSUyMHRvJTIwbG92ZSUyMG91cnNlbHZlcyUyQyUyMGV2ZW4lMjB3aGVuJTIwd2UlMjByaXNrJTIwZGlzYXBwb2ludGluZyUyMG90aGVycy4lMjIlMjAtJTIwQnJlbmUlMjBCcm93biUwQSUwQUlmJTIweW91JTIwc2F5JTIwWUVTJTIwdG8lMjBldmVyeW9uZSUyMGVsc2UlMkMlMjB5b3UlMjdyZSUyMHNheWluZyUyME5PJTIwdG8lMjB5b3Vyc2VsZi4lMEElMEFMZWFybiUyMHRvJTIwZW1icmFjZSUyMHRoZSUyMHBvd2VyJTIwb2YlMjBOTy4lMEElMEEtJTIwJTQwU2FoaWxCbG9vbQ==))
+Dangerous cognitive bias to avoid:
+The Einstellung Effect
+In 1942, a researcher named Abraham Luchins ran an experiment to see how expertise impacts problem solving.
+Luchins asked participants to solve a series of problems where they had to get to a desired quantity of water using three different sized water jugs.
+The solution to the first 5 problems was the same: Fill B, use B to fill C twice, then use the remaining water in B to fill A once.
+In problems 6 and 7, that formula still worked, but there was a much simpler solution: Fill A, use A to fill C once.
+The participants became conditioned to the solution of 1-5, used the same formula, and completely missed the simpler, more efficient path that was possible in 6 and 7. What's more, they were stumped by 8, which required a different solution altogether.
+Interestingly, participants who started on problem 6 had no problem solving 6-10 with the most efficient solution.
+The learning here is an important one:
+Experience and expertise can cloud our problem solving capability.
+This is called the Einstellung Effect.
+It suggests that experience and expertise can actually be a negative in certain circumstances, as they may cause us to default into inefficient problem solving grounded in a "that's the way I've always done it" mentality.
+This effect is particularly damning in large, established companies and governments, where "institutional knowledge" is often prized and rewarded.
+If you encounter a problem where creative solutions may drive asymmetric outcomes, slow down and consider whether the default solution is really the right one.
+As [I wrote last year](https://click.convertkit-mail4.com/zluq9ee70xsnh4qkkqxt4f298nn00u6/48hvhehrlqn392sx/aHR0cHM6Ly93d3cuc2FoaWxibG9vbS5jb20vbmV3c2xldHRlci90aGUtcG93ZXItb2YtdGhpbmtpbmctZGlmZmVyZW50bHk=) on an experiment at Stanford Business School:
+There will always be an "obvious" solution that is simple, clear, and entirely wrong.
+Avoid the trap of expertise: Pause, slow down, and consider whether "the way I've always done it" is really the best way.
+Poem with an important message:
+I love this poem. The older I get, the more I've come to believe that slowing down is the key to a happy, fulfilled life. Make sure you take the time to slow down and observe the beauty in the world.
+Make the time to stand and stare.
+Essay to consider your days:
+[100 Blocks a Day](https://click.convertkit-mail4.com/zluq9ee70xsnh4qkkqxt4f298nn00u6/wnh2hghw7v3d4rh7/aHR0cHM6Ly93YWl0YnV0d2h5LmNvbS8yMDE2LzEwLzEwMC1ibG9ja3MtZGF5Lmh0bWw=)
+I am a huge fan of Tim Urban (and fortunate to call him a friend). This is one of his old pieces that I come back to often.
+In it, he offers that your awake time each day can be split into 100 10-minute blocks.
+You get 100 blocks today. How do you want to spend them?
+In Case You Missed It:
+In [Wednesday's issue](https://click.convertkit-mail4.com/zluq9ee70xsnh4qkkqxt4f298nn00u6/reh8hoh0dvep70c2/aHR0cHM6Ly93d3cuc2FoaWxibG9vbS5jb20vbmV3c2xldHRlci90aGUtbW9zdC1pbXBvcnRhbnQtY2hvaWNlLW9mLXlvdXItbGlmZQ==), I wrote about the most important choice of your life:
+You get to choose your own worth. You can choose to place yourself in environments where people will see you for your highest potential. You can choose how you treat yourself. You can choose your value. This is the most important choice of your life. Choose wisely.
+P.S. I'm doubling down on video content and just onboarded 2 new editors onto my team. I've used my business, [Landed](https://click.convertkit-mail4.com/zluq9ee70xsnh4qkkqxt4f298nn00u6/08hwh9hdewk4x2al/aHR0cHM6Ly9jbGljay5jb252ZXJ0a2l0LW1haWw0LmNvbS9rMHVkeDRubzM5YzZoZDA4MG8zY2xoODRwZDc3N2k4LzdxaDdoOGhvcTByZ2U4ZnovYUhSMGNITTZMeTlvZFdKekxteDVMMUV3TW5OTGJFZ3dNQT09), for all my creative hiring needs for over a year. If your business wants to level up its creative output, [book a call today](https://click.convertkit-mail4.com/zluq9ee70xsnh4qkkqxt4f298nn00u6/08hwh9hdewk4x2al/aHR0cHM6Ly9jbGljay5jb252ZXJ0a2l0LW1haWw0LmNvbS9rMHVkeDRubzM5YzZoZDA4MG8zY2xoODRwZDc3N2k4LzdxaDdoOGhvcTByZ2U4ZnovYUhSMGNITTZMeTlvZFdKekxteDVMMUV3TW5OTGJFZ3dNQT09).If your marketing team is
+Sahil's Recommendation Zone
+Perfect your morning routine with my partner[ Athletic Greens](https://click.convertkit-mail4.com/zluq9ee70xsnh4qkkqxt4f298nn00u6/8ghqhohldpx83qak/aHR0cDovL2RyaW5rYWcxLmNvbS9zYWhpbA==):
+I get asked about my morning routine all the time. It changes from time to time, but [AG1](https://click.convertkit-mail4.com/zluq9ee70xsnh4qkkqxt4f298nn00u6/8ghqhohldpx83qak/aHR0cDovL2RyaW5rYWcxLmNvbS9zYWhpbA==) has been the one constant since 2011. I drink it with a big glass of water every single morning to start my day on a positive tone.
+It replaced an entire cabinet of supplements for me in one daily scoop—seriously, its latest iteration covers a multivitamin, multi-mineral, prebiotics, probiotics, adaptogens, greens, and more. It keeps me feeling healthy and strong throughout the year, even when I'm traveling (thanks to the travel packs).
+Athletic Greens is offering Curiosity Chronicle subscribers an exclusive deal: [a free 1-year supply of liquid vitamin D plus 5 travel packs with your subscription purchase](https://click.convertkit-mail4.com/zluq9ee70xsnh4qkkqxt4f298nn00u6/8ghqhohldpx83qak/aHR0cDovL2RyaW5rYWcxLmNvbS9zYWhpbA==). Take advantage of it!
+Sahil Bloom
+|
+|
+|

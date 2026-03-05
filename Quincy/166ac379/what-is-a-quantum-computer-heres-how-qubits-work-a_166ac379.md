@@ -1,0 +1,30 @@
+---
+subject: "What is a quantum computer? Here's how \"qubits\" work and why they're so useful"
+from: "Quincy Larson <quincy@freecodecamp.org>"
+to: ""
+date: 2018-10-25 17:13:36
+labels: ["CATEGORY_PERSONAL", "INBOX", "Quincy", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_7697778124671848699", "UNREAD"]
+---
+Here are this week's five links that are worth your time:
+
+1. What is a quantum computer? Here's how quantum bits called "qubits" work, and why they're so useful (8 minute read): https://medium.freecodecamp.org/b8f602035365
+
+2. How a teacher got his first developer job at age 40 after 10 months of coding in his free time (11 minute read): https://medium.freecodecamp.org/b8895e855a8b
+
+3. How to build your first website - a full video course on basic HTML and CSS (2 hour watch): https://www.freecodecamp.org/n/sleibh3W
+
+4. Anissa shows you how to use Kanban Board tools like Trello and GitHub Projects to plan out your coding projects (12 minute watch): https://www.freecodecamp.org/n/k4NbAnb04
+
+5. These tools will help you write clean code: a look at Prettier, ESLint, Husky, Lint-Staged and EditorConfig (13 minute read): https://medium.freecodecamp.org/da4b5401f68e
+
+
+
+Happy coding!
+
+- Quincy Larson
+
+Teacher at freeCodeCamp.org
+
+
+If these emails aren't worth your time, you can turn them off: https://www.freecodecamp.org/ue/eZV2T3gHC7IGcwcpYPG64

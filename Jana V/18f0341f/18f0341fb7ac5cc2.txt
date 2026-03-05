@@ -1,0 +1,117 @@
+Post       : Modeling Life: Oscillation
+URL        : https://janav.wordpress.com/2024/04/21/modeling-life-oscillation/
+Posted     : April 21, 2024 at 5:43 pm
+Author     : Jana Vembunarayanan
+Tags       : Biology, Mathematics, Mental Models
+Categories : Biology, Mathematics
+
+This is my 3rd post summarizing the key takeaways I got from reading the book Modeling Life ( https://modelinginbiology.github.io/ ) .
+
+I recommend reading my earlier posts ( https://janav.wordpress.com/2024/04/13/modeling-life-equilibrium/ )  first to get a good grounding on the foundations covered in the book.
+
+A system can exhibit three different types of behavior: equilibrium, oscillation, and chaos. The E. coli bacteria we encountered in the previous post is an example of equilibrium behavior. This post will cover oscillatory behavior that occurs within our bodies.
+
+Humans dance to the tune of their hormones
+
+Our bodies have specialized organs called gonads that are responsible for producing hormones. In females, the gonads are the ovaries, which release hormones such as estradiol and progesterone, while in males, the gonads are the testes, which secrete testosterone as the primary hormone. Let’s refer to the hormones collectively produced by the gonads as G.
+
+What makes gonads secrete their hormones? Gonads follow the instructions of the hormones produced by the pituitary gland. The pituitary gland is present inside our head. Let's refer to the hormones collectively produced by the pituitary gland as P.
+
+What makes the pituitary gland secrete their hormones? The hypothalamus, a part of the brain located a millimeter away from the pituitary, releases substances that signal the pituitary to secrete its hormones. Let's refer to the hormones produced by the hypothalamus as H.
+
+https://janav.files.wordpress.com/2024/04/image-20.png
+
+The state variables we’re interested in tracking are the hormones G, P, and H. The next step is to write the differential equations for these three state variables.
+
+Let's start with the gonadal hormone G. We know that G increases in response to the pituitary hormone P, and let's assume a proportionality constant of 1. Additionally, hormones degrade over time. We will use a simple linear function kG to model the degradation of G. So, change in G equals P - k*G.
+
+Next, let's write the differential equation for the pituitary hormone P. We know that P increases in response to the hypothalamus hormone H, and let's assume a proportionality constant of 1. Additionally, P degrades over time, which we will model using a simple linear function, kP. So, the change in P equals H - K*P.
+
+Finally, let's write the differential equation for the hypothalamus hormone H. The gonads and hypothalamus are part of a negative feedback loop. This means that when gonadal hormones (G) increase, hypothalamus hormones (H) must decrease.
+
+However, hormones that have already been secreted cannot be reabsorbed by the organs that secreted them. So how does the hypothalamus create negative feedback when G increases? The solution lies in using a sigmoid function.
+
+The sigmoid function we previously used to model the E. coli ( https://janav.wordpress.com/2024/04/13/modeling-life-equilibrium/ )  bacteria was an increasing sigmoid. However, to model the negative feedback loop in the hypothalamus, we need to utilize a decreasing sigmoid function.
+
+https://janav.files.wordpress.com/2024/04/image-23.png
+
+The term “negative feedback” actually encompasses two somewhat different types of behavior. In the more straightforward case, an increase in some quantity leads to an actual decrease in that quantity. The examples we have seen so far fall into this class. The second kind of negative feedback is a bit more subtle. It occurs when the feedback loop cannot actually take away from the quantity in question but can decrease its growth rate. An example of this is seeing your bank account balance get low and curtailing your spending in response. Even if you reduced spending all the way to zero, this could not actually increase the amount of money in your account. Spending reductions do, however, slow down the decline of your bank balance. Here, we see a biological example of this kind of negative feedback. It is a biological fact that the hypothalamus can secrete only H. It can’t suck H back up! So the form of the negative feedback has to be the second kind; it has to be modeled by a function that is declining but never negative. — Modeling Life ( https://www.amazon.com/Modeling-Life-Mathematics-Biological-Systems/dp/3319597302 )
+
+Therefore, the differential equation for the hypothalamus hormone H is a decreasing sigmoid function of the gonadal hormone G, minus the degradation of H over time. The degradation can be modeled as a simple linear function, kH. Take a look at the three differential equations given below.
+
+https://janav.files.wordpress.com/2024/04/image-16.png
+
+In my explanation, I have assumed k1, k2, and k3 are equal to k for simplicity. By running the model with the parameter k set to 0.2 and the parameter n set to 9, I was able to achieve a nice oscillation pattern for all three hormones.
+
+https://janav.files.wordpress.com/2024/04/image-19.png
+
+Oscillatory behavior in a system is caused by two factors: time delays and steep negative feedback. These are the two main drivers that lead to oscillations. Time delays occur when there are one or more intermediaries involved.
+
+In the HPG hormones model, the hypothalamus senses the gonadal hormone indirectly through the pituitary gland, introducing a time delay. Oscillations would not occur if the hypothalamus directly activated the gonadal hormone without going through the pituitary gland. This is clearly seen in the image below when I ran the model again without the pituitary gland.
+
+https://janav.files.wordpress.com/2024/04/image-18.png
+
+Hormones constantly increasing without any control could harm our bodies. This could be the reason why evolution introduced the pituitary gland as a mediator. The concept of time delays reminded me of the recent trend in Big Tech companies to trim unnecessary middle management, allowing signals to travel faster and thereby reducing inefficiencies.
+
+The steepness of the negative feedback curve is determined by the value of n. The middle portion of the curve becomes much steeper as n increases, indicating that the hypothalamus response is more sensitive to changes in G as n increases. The sigmoid curve shown in red is the steepest, as it has the highest value of n at 9.
+
+https://janav.files.wordpress.com/2024/04/image-25.png
+
+I ran the model with values of n = 2 and n = 9. From the image below, it can be clearly observed that the system shows oscillatory behavior when the value of n is 9, compared to when n is 2.
+
+https://lh7-us.googleusercontent.com/S5xbgUksfQumK9FTsiru_iQMiwrtxtOWbNTAtUhzqny4bbbLpuJ0eSBoAIP665DeJV1sI9NGXBzlnIrDGql_fbCBRmrh-4zniOcIxdX_07SNTq0iAqFAobrMPKWUoJbG1zlSzcT5sJ4HfZPMCDGjvJY
+
+Alan does an excellent job of explaining oscillations caused by steep negative feedback and time delays using a simple analogy: a car driven by a young driver who receives instructions from both a hyper aggressive parent (steep negative feedback) and an inattentive parent (time delays).
+
+Imagine a parent teaching a teenager to drive. The teen is trying to keep the car in the center of the lane, and the parent tells them to correct right or correct left, as appropriate. This is an example of a negative feedback loop. If the parent’s sensitivity to the car’s position is reasonable, the car will travel in a fairly straight line down the center of the lane. But what happens if the parent yells, “go right” when the car drifts a little bit to the left? The startled teenager will overcorrect, taking the car too far to the right. The parent will then start yelling, “go left,” the teen will overcorrect again, and the car will oscillate back and forth… Imagine another parent teaching a child to drive, only now the parent is inattentive; maybe the parent is texting. There is therefore a short delay before the parent responds to the car’s drift. Now, the car will also oscillate, because the driver will have drifted well to the left by the time the parent’s corrective is issued. — Modeling Life ( https://www.amazon.com/Modeling-Life-Mathematics-Biological-Systems/dp/3319597302 )
+
+https://janav.files.wordpress.com/2024/04/image-15.png
+
+The Oscillating Breath
+
+One crucial function of breathing is to control the concentration of carbon dioxide in the blood. Our body's metabolism produces carbon dioxide. For example, when our body burns food for energy, it produces carbon dioxide. That carbon dioxide gets shoveled out of our body through breathing. Let X represent the state variable for the concentration of carbon dioxide in the blood.
+
+Body metabolism increases X. Chemoreceptors in our brain sense the carbon dioxide concentration in the blood they receive. They then increase our breathing rate (also known as the ventilation rate) to reduce the carbon dioxide concentration. So, change in X = body metabolism − ventilation. Let's assume that the body's rate of producing carbon dioxide through metabolism is a constant, denoted as L.
+
+How do we model ventilation? The primary function of the lungs is to remove carbon dioxide from the body. The volume of carbon dioxide expelled with each breath is determined by the current concentration of carbon dioxide in the blood (X) within the lungs. Therefore, the rate of carbon dioxide expelled per minute can be expressed mathematically as:
+
+(carbon dioxide expelled per breath) x (number of breaths per minute)
+
+https://janav.files.wordpress.com/2024/04/image-24.png
+
+The number of breaths we take per minute is dynamic and our brain controls it depending on the concentration of carbon dioxide in our blood. When the concentration of carbon dioxide is low, we take fewer breaths per minute (a low ventilation rate). Conversely, when the concentration is high, we take more breaths per minute (a high ventilation rate). An increasing sigmoidal function models this behavior.
+
+https://janav.files.wordpress.com/2024/04/image-22.png
+
+The increasing sigmoid function returns a positive number with a maximum value of 1. We can control the breathing rate per minute by scaling the sigmoid function by multiplying it with a maximum ventilation rate (Vmax) that our body can handle.
+
+The sigmoid function returns a value closer to one when the carbon dioxide concentration is high. Multiplying this value with a Vmax of 15 increases the ventilation rate closer to 15 breaths per minute. When the carbon dioxide concentration is low, the sigmoid function returns a value much less than one. Multiplying this low value with a Vmax of 15 decreases the ventilation rate per minute.
+
+The HPG model had multiple state variables, and they were dependent on each other, which created an oscillation. Whereas in this model, we have a single state variable X. Why does an oscillation occur when there is no dependency between variables?
+
+There is a delay between when breathing occurs in the lungs and when carbon dioxide monitoring neurons in the brain detect it. Simply put, it takes time for the blood to travel from the lungs to the brain. As a result, the brain responds to the carbon dioxide concentration from a little while ago, not the current level. This delay is about 0.2 minutes.
+
+https://janav.files.wordpress.com/2024/04/image-17.png
+
+The differential equations that explicitly model time delays are called delayed differential equations. The value of the delay is commonly represented by τ (the Greek letter tau). Therefore, the concentration of carbon dioxide that the chemoreceptors in the brain sense is not X(t), but X(t - τ), where t is the current time and τ is the delay.
+
+I was able to see the ventilation rate oscillating when the model runs with Vmax = 16, n = 9, and tau = 0.2. Oscillation happens when n is higher (we saw this in the HPG model) or when there's a big time delay for the blood to travel from the lungs to the chemoreceptors in the brain.
+
+https://janav.files.wordpress.com/2024/04/image-21.png
+
+A great example similar to the oscillations in ventilation rate is how we adjust the water temperature in a shower. You turn the knob to increase the heat but there's a delay before the water temperature actually changes. If the delay (tau) is significant and you're not patient enough to wait, you might turn the knob too much. When the hot water finally arrives it's too hot, so you quickly adjust it back towards cold. This over-correction coupled with the delay leads to oscillations in water temperature until it stabilizes at your desired setting.
+
+I've only scratched the surface of what it means for a system to oscillate. The book covers multiple examples on oscillating systems including one on how insulin and glucose dance to the tunes of each other. I am in awe seeing the crucial role sigmoid function plays in all living organisms. Sigmoid functions are ubiquitous, including in neural networks.
+
+In my next post, I will discuss how linear algebra is utilized in dynamic modeling, followed by a final post on chaotic behavior.
+
+Add a comment to this post: https://janav.wordpress.com/2024/04/21/modeling-life-oscillation/#respond
+
+-- 
+
+
+Manage Subscriptions
+https://subscribe.wordpress.com/?key=3ba1653235661837fb9cfafd373444b6&email=ishan.mail%40gmail.com
+
+Unsubscribe:
+https://subscribe.wordpress.com/?key=3ba1653235661837fb9cfafd373444b6&email=ishan.mail%40gmail.com&b=l91k-BROFWmRze2ecpFwofeMVgnkkCfCAWQhYL2OCujiw_d1zXjQB8mb4-28H7ATMr_rnfQOUajRyldRIhXz9WEk29gW6WicjPFZenbtd90f86KIRSLiFhtQPde5LtJbzOIBKY3r6doBp2RaIrlGrvmCYkvoq_Q%3D&oneclickunsubscribe=true

@@ -1,0 +1,33 @@
+---
+subject: "The political economy of Manus AI"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2025-03-09 06:02:36
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+Early reports are [pretty consistent](http://marginalrevolution.com?action=user_content_redirect&uuid=ee3f23445602865e91ce084dc614670b64e1d8629942d0268767da83091c3edc&blog_id=42693868&post_id=90215&user_id=262258391&subs_id=225460721&signature=bb12ff75421466884672396a4005a287&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly9tYXJnaW5hbHJldm9sdXRpb24uY29tL21hcmdpbmFscmV2b2x1dGlvbi8yMDI1LzAzL21hbnVzLWFzc29ydGVkLWxpbmtzLmh0bWw&email_id=fe4dc5ea39573adc0fafa53c6b3b42db), and they indicate that Manus agentic AI is for real, and ahead of its American counterparts. I also hear it is still glitchy Still, it is easy to imagine Chinese agentic AI "getting there" before the American product does. If so, what does that world look like?
+The cruder way of putting the question is: "are we going to let Chinese agentic bots crawl all over American computers?"
+The next step question is: "do we in fact have a plausible way to stop this from happening?"
+Many Chinese use VPNs to get around their own Great Firewall and access OpenAI products. China could toughen its firewall and shut down VPNs, but that is very costly for them. America doesn't have a Great Firewall at all, and the First Amendment would seem to prevent very tough restrictions on accessing the outside world. Plus there can always be a version of the new models not directly connected to China.
+We did (sort of) pass a TikTok ban, but even that applied only to the app. Had the ban gone through, you still could have accessed TikTok through its website. And so, one way or another, Americans will be able to access Manus.
+Manus will crawl your computer and do all sorts of useful tasks for you. If not right now, probably within a year or not much more. An American alternative might leapfrog them, but again maybe not.
+It is easy to imagine government banning Manus from its computers, just as the state of Virginia banned DeepSeek from its computers. I'm just not sure that matters much. Plenty of people will use it on their private computers, and it could become an integral part of many systems, including systems that interact with the U.S. public sector.
+It is not obvious that the CCP will be able to pull strings to manipulate every aspect of Manus operations. I am not worried that you might order a cheeseburger on-line, and end up getting Kung Pao chicken. Still, the data collected by the parent company will in principle be CCP- accessible. Remember that advanced AI can be used to search through that information with relative ease. And over time, though probably not initially, you can imagine a Manus-like entity designed to monitor your computer for information relevant to China and the CCP. Even if it is not easy for a Manus-like entity to manipulate your computer in a "body snatchers-like" way, you can see the points of concern here.
+Financial firms might be vulnerable to information capture attacks. Will relatives of U.S. military personnel be forbidden from having agentic Chinese AI on their computers? That does not seem enforceable.
+Maybe you're all worried now!
+But should you be?
+Whatever problems American computer owners might face, Chinese computer owners will face too. And the most important Chinese computer owner is the CCP and its affiliates, including the military.
+More likely, Manus will roam CCP computers too. No, I don't think that puts "the aliens" in charge, but who exactly is in charge? Is it Butterfly Effect, the company behind Manus, and its few dozen employees? In the short run, yes, more or less. But they too over time are using more and more agentic AIs, perhaps different brands from other companies too.
+Think of some new system of checks and balances as being created, much as an economy is itself a spontaneous order. And in this new spontaneous order, a lot of the cognitive capital is coming outside the CCP.
+In this new system, is the CCP still the smartest or most powerful entity in China? Or does the spontaneous order of various AI models more or less "rule it"? To what extent do the decisions of the CCP become a derivative product of Manus (and other systems) advice, interpretation, and data gathering?
+What exactly is the CCP any more?
+Does the importance of Central Committee membership decline radically?
+I am not talking doomsday scenarios here. Alignment will ensure that the AI entities (for instance) continue to supply China with clean water, rather than poisoning the water supply. But those AI entities have been trained on information sets that have very different weights than what the CCP implements through its Marxism-swayed, autocracy-swayed decisions. Chinese AI systems look aligned with the CCP, given that they have some crude, ex post censorship and loyalty training. But are the AI systems truly aligned in terms of having the same limited, selective set of information weights that the CCP does? I doubt it. If they did, probably they would not be the leading product.
+(There is plenty of discussion of alignment problems with AI. A neglected issue is whether the alignment solution resulting from the competitive process is biased on net toward "universal knowledge" entities, or some other such description, rather than "dogmatic entities." Probably it is, and probably that is a good thing? ...But is it always a good thing?)
+Does the CCP see this erosion of its authority and essence coming? If so, will they do anything to try to preempt it? Or maybe a few of them, in Straussian fashion, allow it or even accelerate it?
+Let's say China can indeed "beat" America at AI, but at the cost of giving up control over China, at least as that notion is currently understood. How does that change the world?
+Solve for the equilibrium!
+Who exactly should be most afraid of Manus and related advances to come?
+Who loses the most status in the new, resulting checks and balances equilibrium?
+Who gains?

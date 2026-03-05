@@ -1,0 +1,17 @@
+---
+subject: "To tip or not to tip"
+from: "The Ken <info@the-ken.com>"
+to: ""
+date: 2018-10-28 03:35:22
+labels: ["CATEGORY_PERSONAL", "INBOX", "The Ken"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_8244464457792971031"]
+---
+Bear with me for a minute, I’m going to reminisce. About food in college (engineering in small-town Tamil Nadu, the works). The hostel mess wasn’t too bad—breakfast was usually decent, yoghurt at lunch was great, and the two days a week they served meat was something to look forward to. But Saturday nights, for some reason, were just about unbearable (you'd end up with stuff like “vegetable curry” which was just a sludge).
+Without fail, we’d traipse off to one of the many small eateries that lined the highway outside campus. There was this one place called China Valley. Tables and chairs made of cheap plastic, the usual Chindian suspects on the menu (“hot and sour soup”, “hakka noodles”, “chop suey”) and water served in little plastic packets. Easy on the pocket, hard on the stomach. Needless to say, we didn’t use to tip. Uncomplicated times.
+Tipping is one of those social activities that seems to be designed to make you uncomfortable. It doesn’t help that how we tip varies so widely from one setting to another. Eating at a McDonalds? Just pick up your burger and fries and walk away. A fancy place (pasta entries in Italian, probably has “bistro” in the name)? Don’t look, just tip. Rajma chawal at a hole in the wall? Nope, nope, nope. Something in the middle (i.e. air-conditioned but no foreign tongues)? Eh, maybe…?
+And as practice, tipping is inherently classist. And there’s a ton of debate all over the world on whether it’s a fair way of rewarding a job well done or just an opportunity for restaurant owners and hotels to short-change their employees.
+Which brings us to today’s piece, in which Olina goes deep into the rabbit hole. The foundation of a tipping culture in India, she writes, is based on familiarity and loyalty. Back from when there were few “restaurants”, and fewer patrons. On top of that, we Indians also hate feeling like the fool who parted with their money for no good reason, so we’re picky about who we tip.
+All in all, it’s an intensely physical experience that is only now beginning to play out online as food delivery services like Zomato and Uber Eats get in on the game. Olina talked to waiters, delivery riders, psychologists, a food historian and a whole lot of other people, all in a bid to decode how, why and when we tip. Read on here: [https://the-ken.com/story/tell-me-why-you-tip/](http://link.the-ken.com/wf/click?upn=HQSq6eeRV1xAVaGuFOahuNCZVVXPeP-2FJpSqxhvIUDrnkv1IN2B0Eq7tqpF8EqH5s4aMVJa-2Ba4OYnM4tEDxmw7eneqh9aKgNC-2BDT5M8LzguBv8CgFeMd3zgRn-2F6YOiQskSBlncDVHo4LEYV167DFnM7O8Aigjgugz52MgpFOvbAw-3D_S4jLOsNx-2Fv6Jev2nvow8b7P9pBCWGd8KNZfb200gkZLQNlXQHio0noZzXtsWoloZmPWeyZsh7a4QCV9ufwCUKi00jlBT0uEdvwYDMuVuqcOYJ-2FGEFk7kMZ5bmiT97ROj-2FScWCqOnh3Q1nxjOPbmALiX0O0lDhp1TurAgd1kkE0SSkQrwbx5Zm1jBn9IGswHJ9A9UFoo9CU4TUoVQ7AuokrLb7k0xVxuStl6EuRYR6tJzbEEEvr86X3PXoXPL3VknG3Z9yYk9Ww6Fes8-2BszBwRxC6qcxYdX62dF6MQNdMky7L2B84WHHBrtkHjvjpM-2FglOOAcmwbaP-2FN-2Bm9Dr5sQvvCniRQ7Wm8OsZGKRqb53u1oC9uwzsWSKPYe1GFJCHOfUseksc9LGl03My7l93ftpfe77rp39s4763TplD4WZ-2FqA-3D)
+Have a good Sunday.
+Cheers,
+Pranav Srivilasan

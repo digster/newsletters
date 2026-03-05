@@ -1,0 +1,35 @@
+---
+subject: "Learn to code with React [Free 12-hour JavaScript course]"
+from: "Quincy Larson <quincy@freecodecamp.org>"
+to: ""
+date: 2024-01-05 05:01:52
+labels: ["CATEGORY_PERSONAL", "IMPORTANT", "INBOX", "Quincy"]
+label_ids: ["CATEGORY_PERSONAL", "IMPORTANT", "INBOX", "Label_7697778124671848699"]
+---
+Here are this week's five freeCodeCamp resources that are worth your time:
+
+1. Learn modern Front-End Development with the powerful React JavaScript library. This in-depth course is taught by software engineer and prolific freeCodeCamp contributor, Hitesh Choudhary. He'll teach you the fundamental structure of React apps, including Hooks, Virtual DOM, React Router, Redux Toolkit, the Context API, and more. You'll also apply these tools by building several projects along the way. (12 hour YouTube course): https://www.freecodecamp.org/news/comprehensive-full-stack-react-with-appwrite-tutorial/
+
+2. And if you want to go beyond React and learn full-stack JavaScript, freeCodeCamp contributor Chris Blakely has created an entire roadmap for skills you should learn. This roadmap focuses on the MERN Stack: MongoDB, Express.js, React, and Node.js, which many popular web apps use – including freeCodeCamp itself. If you're new to web dev, this will give you a broad overview of what you'll want to prioritize learning. (40 minute read): https://www.freecodecamp.org/news/mern-stack-roadmap-what-you-need-to-know-to-build-full-stack-apps/
+
+3. Software Development as a field is always changing. I like to say that the key skill developers possess is not coding itself, but rather the ability to learn quickly. This book will help you think like a developer, so you can pick up new tools, solve new problems, and keep blazing forward as a dev. (full-length book): https://www.freecodecamp.org/news/creators-guide-to-innovation-book/
+
+4. Developer job interviews are not just about coding. There's a significant portion dedicated to the “behavioral interview.” This course will show you what to expect and how to prepare for it – through example questions and case studies. It's a time-efficient way to gear up for a successful run of interviews. (2 hour YouTube course): https://www.freecodecamp.org/news/mastering-behavioral-interviews-for-software-developers/
+
+5. The #100DaysOfCode challenge is an ideal New Year's Resolution for anyone wanting to expand their developer skills. Each year, thousands of ambitious people commit to this simple challenge: code at least 1 hour each day for 100 days in a row, and support other people who are doing the same. I've written this guide to how you can get started and make some serious gains in 2024. (5 minute read): https://www.freecodecamp.org/news/100daysofcode-challenge-2024-discord/
+
+Finally, my friends Jess and Ramón are starting a new cohort of their freely available bootcamp on Monday, January 8. You can join them and work through both freeCodeCamp's Responsive Web Design certification and our new project-oriented JavaScript Algorithms and Data Structures certification. This is a great way to expand your skills alongside a kind, supportive community. (5 minute read): https://www.freecodecamp.org/news/free-webdev-and-js-bootcamps/
+
+2024 is off to a strong start for the freeCodeCamp community. We built so many open learning resources last year, and now we're building on that momentum. We're finishing development of Version 7.0 of our core curriculum. And we're making steady progress toward our full-blown computer science degree program. If you are not yet supporting our charity and our mission, please do so. Every little bit helps us with this ambitious undertaking: https://www.freecodecamp.org/donate
+
+Quote of the Week: “A year ago I had no idea how to write code, and now I'm building my own stuff and learning how to do things I never thought I'd be capable of. If your new year's resolution is to become a developer, start now! You will never regret it.” — Jack Forge, software developer
+
+Until next week, happy coding.
+
+-- Quincy Larson
+
+Teacher and founder of freeCodeCamp.org
+
+
+
+If these aren't worth your time, you can turn them off: https://www.freecodecamp.org/ue/eZV2T3gHC7IGcwcpYPG64

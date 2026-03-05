@@ -1,0 +1,10 @@
+---
+subject: "Public Finance in the Age of AI: A Primer"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2026-02-25 07:49:23
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+Transformative artificial intelligence (TAI) - machines capable of performing virtually all economically valuable work - may gradually erode the two main tax bases that underpin modern tax systems: labor income and human consumption. We examine optimal taxation across two stages of artificial intelligence (AI)-driven transformation. First, if AI displaces human labor, we find that consumption taxation may serve as a primary revenue instrument, with differential commodity taxation gaining renewed relevance as labor distortions lose their constraining role. In the second stage, as autonomous artificial general intelligence (AGI) systems both produce most economic value and absorb a growing share of resources, taxing human consumption may become an inadequate means of raising revenue. We show that the taxation of autonomous AGI systems can be framed as an optimal harvesting problem and find that the resulting tax rate on AGI depends on the rate at which humans discount the future. Our analysis provides a theoretically grounded approach to balancing efficiency and equity in the Age of AI. We also apply our insights to evaluate specific proposals such as taxes on robots, compute, and tokens, as well as sovereign wealth funds and windfall clauses.
+That is [from Anton Korinek and Lee Lockwood](https://marginalrevolution.com?action=user_content_redirect&uuid=c8a390326b21d2e16e711a2aef3b81d0c880333d96bdc42186985aeb67ff2abe&blog_id=42693868&post_id=92503&user_id=262258391&subs_id=225460721&signature=956a90fcdb3712bb0e2de45326bd7059&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly93d3cubmJlci5vcmcvcGFwZXJzL3czNDg3Mw=&email_id=c2a8fd48fe2283475cadea614b131c54).

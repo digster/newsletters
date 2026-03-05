@@ -1,0 +1,12 @@
+---
+subject: "Solve for the electoral energy equilibrium"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2025-05-09 06:35:26
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+I know many Democrats have been heartened by recent electoral wins by the Labor Party in Australia and the Liberal Party in Canada, both boosted by anti-Trump sentiment.
+But Labor prime minister Anthony Albanese views Australia as an energy-producing country, and while they have taken measures to boost renewables deployment and electric cars, they’re not seeking to curb coal mining or exports. Similarly, Mark Carney
+[went to Alberta to proclaim his desire to make Canada an “energy superpower”]that would “recognize that we are home to an abundance of conventional — that means oil and gas — conventional and clean energy resources.” I think that part where he went off script and clarified that by conventional he meant oil and gas is important. The prepared text was sort of[doing dog whistle moderation], but he wanted people to hear his message clearly: that, while his strongest interest is in facilitating clean energy deployment, he intends to keep selling the world oil and gas as long as oil and gas are useful.Everybody knows you’re not winning in Colorado, New Mexico, Pennsylvania, Ohio, Texas, or Alaska on a message of shutting down fossil fuels. But if you’re not winning those states, you don’t have a majority. Instead of the national party adopting a message that’s toxic in those states and then recruiting candidates who try to distance themselves from it, the solution is for the national party to adopt the same kind of messages that work for the center-left in Canada and Australia and Norway.
+That is [from (partially gated) Matt Yglesias](http://marginalrevolution.com?action=user_content_redirect&uuid=34f6d959f36a2750110e6f9d8eeadbd02338d71bc6cb1e5b0b7b92cfb794b6c2&blog_id=42693868&post_id=90620&user_id=262258391&subs_id=225460721&signature=90a630448c4d2728e35de79366bf65c2&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly93d3cuc2xvd2JvcmluZy5jb20vcC9kb3VibGluZy1kb3duLW9uLWNsaW1hdGUtd29udC13aW4/dXRtX3NvdXJjZT1wb3N0LWVtYWlsLXRpdGxlJnB1YmxpY2F0aW9uX2lkPTE1OTE4NSZwb3N0X2lkPTE2Mjg4Nzg1NSZ1dG1fY2FtcGFpZ249ZW1haWwtcG9zdC10aXRsZSZpc0ZyZWVtYWlsPWZhbHNlJnI9M285JnRyaWVkUmVkaXJlY3Q9dHJ1ZSZ1dG1fbWVkaXVtPWVtYWls&email_id=fd39db86b01ef4349306e9d460143fc6).

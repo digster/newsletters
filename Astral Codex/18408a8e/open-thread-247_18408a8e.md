@@ -1,0 +1,13 @@
+---
+subject: "Open Thread 247"
+from: "Astral Codex Ten <astralcodexten@substack.com>"
+to: ""
+date: 2022-10-24 06:21:56
+labels: ["Astral Codex", "CATEGORY_PERSONAL", "INBOX", "UNREAD"]
+label_ids: ["Label_6409723252142624155", "CATEGORY_PERSONAL", "INBOX", "UNREAD"]
+---
+This is the weekly visible open thread. Post about anything you want, ask random questions, whatever. ACX has an unofficial [subreddit](https://substack.com/redirect/0166053c-1063-4182-895b-2e2fcd74ff29?r=8o54n), [Discord](https://substack.com/redirect/5164a3bd-b4ed-48ea-ac18-92bea8df7880?r=8o54n), and [bulletin board](https://substack.com/redirect/c38b0759-0f15-427a-9226-8126327be42d?r=8o54n), and [in-person meetups around the world](https://substack.com/redirect/192ac2aa-8afc-403d-8aa2-9942b1e1a133?r=8o54n). 95% of content is free, but for the remaining 5% you can subscribe [here](https://substack.com/redirect/ede74528-abe2-47b2-9398-a93cc7257d56?r=8o54n). In other news:
+1: I’m wondering if the open threads would be more manageable if they happened more often, so for the next week or two I might test making the mid-week open thread available to everyone, not just subscribers. If I keep this, then I’ll figure out some other way to make it up to subscribers.
+2: A message from a team working on an impact market implementation:
+The [impactmarkets.io](https://substack.com/redirect/53b50ced-755a-424f-b79e-350dbb568e03?r=8o54n) team is developing version 2.0 of their platform. They are funded by the FTX Future Fund Regranting program, and have a limited budget to pay contractors. They are looking for developers that have experience with TypeScript and React (and ideally Next.js, Prisma, or tRPC) to contribute. It would be well-suited for devs that want to have a large EA-aligned impact in their free time. Pay is $0-50/hour, based on skill and volunteer interest. [Book a call](https://substack.com/redirect/8d8a78d8-70bd-4c0c-af7f-93878a22e537?r=8o54n) with them or join their [Discord](https://substack.com/redirect/873c541a-ec53-4bf7-8f37-ebd58848d8c8?r=8o54n) to learn more or apply.
+3: Comment of the week is KillerBee [explaining why he supports the California bill that restricts use of rap lyrics as criminal evidence](https://substack.com/redirect/0be3b93e-f3aa-4dbb-9a5b-34a2a6113850?r=8o54n). Also, Unsigned Integer gives [the best explanation I’ve ever heard](https://substack.com/redirect/08dabca8-f27f-4908-8029-04c990d2ab72?r=8o54n) for why increases in the minimum wage might not decrease employment (it’s nominal wage rigidity).

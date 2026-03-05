@@ -1,0 +1,13 @@
+---
+subject: "IVF’s inflection point in India"
+from: "The Ken <info@the-ken.com>"
+to: ""
+date: 2019-04-26 02:35:46
+labels: ["CATEGORY_PERSONAL", "INBOX", "The Ken"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_8244464457792971031"]
+---
+India is a populous country. Which means it is usually a large market for most products and services. Like infertility treatment services, for instance.
+An E&Y study a few years ago found nearly 28 million Indian couples were infertile (yes, I know, it’s a terrible medical term). Of those, just 1% were seeking treatment. Commercial surrogacy, another solution for infertile couples, was estimated by the Indian govt. to be a $2 billion market in 2017. There are over 1,500 fertility clinics across the country.
+But two key regulatory actions are reshaping things.
+First, there’s a law to ban commercial surrogacy that has been passed by one house of Parliament already. Secondly, there’s the Assisted Reproduction Technology (ART) bill that seeks to regulate and supervise IVF clinics and sperm banks to prevent misuse of this technology. The impact of both of these will be to shape the sector towards large, well-funded chains like Indira IVF (60 centres, funded by TA Associates) and Nova Pulse (20 centres, in talks with TPG Growth). And away from surrogacy, but towards fertility treatments.
+In today’s story, Ruhi reports extensively on a sector that rarely gets analysed or talked about. She posits that the sector would consolidate over the next five years with regulation clearing out the air and investors putting their weight behind 3-4 large organised chains. Chains that could post EBIDTA levels of 25%. You can read it here: [https://the-ken.com/surrogacys-fertile-ivf-chains/](http://link.the-ken.com/wf/click?upn=HQSq6eeRV1xAVaGuFOahuNPrTYzDnCqwyoeQpYwZVNuMdN9slCmtp53zSgTlRfCUMcARgKMzEij-2BsDi-2FuS0k6pJsMHFGQ9KqhqpQkLGzoOUd8jSI9R1720lFIujwyjpi9mKZai-2FilP4PgEY4s4r-2BrhJXmBNIKuiZ73QkX-2FowjF8-3D_S4jLOsNx-2Fv6Jev2nvow8b7P9pBCWGd8KNZfb200gkZLQNlXQHio0noZzXtsWoloZmPWeyZsh7a4QCV9ufwCUKi00jlBT0uEdvwYDMuVuqcP35gjzW5Moxsu8HzZL-2BLFLbDzFALAzli8fDXKT-2F7YFpVaIYk1GCGiZU3VTBSMS5bFj087M2SWcYSgj3HqOaA9F59KM0zfwXqsM-2FAj-2Fi0fL5YzJykHeJbM01OabVtJo3CpsXsPWtSr9WfH0lL08ojigcLr5dVRCASEXsFI1oA0nCqH5oNBOzSbcmgYJ74dMohAkc5v7-2BaAJsRjwhhUfh-2BBF1d-2FN6JAIYKNFlErl6reu-2FFU-2BKhUXkUufO0X9Typ-2B6PVGv24LgWj2TUZtmtnCYQ85nKn-2BRAdQ8CS-2By0Pn1S3TSPehXf-2Fi2PW62zfztoJid0Q-3D) (15-minute read)

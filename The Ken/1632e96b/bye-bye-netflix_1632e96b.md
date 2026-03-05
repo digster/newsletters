@@ -1,0 +1,28 @@
+---
+subject: "Bye bye, Netflix"
+from: "The Ken <info@the-ken.com>"
+to: ""
+date: 2018-05-05 04:36:59
+labels: ["CATEGORY_PERSONAL", "INBOX", "The Ken", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_8244464457792971031", "UNREAD"]
+---
+|
+Good Morning Ishan,
+Hi, we haven’t met yet. My colleague Ruhi had introduced me a few weeks ago. I am the one who wears sweatshirts in the summers and sketches to de-stress. Well, that isn’t happening anymore. Our office was kind enough to fix the AC, and as it turns out, I am not that stressed when working in rooms with moderate temperatures.
+It’s Saturday and it is a big day for me. Today, I give up Netflix. It was a tough decision but I have finally convinced myself that it’s time to pick up a book again. There is a huge pile on my shelf that has been untouched since... well, that’s just embarrassing.
+And while I experience what a Netflix-free weekend feels like, why don’t you catch up on our stories?
+We kicked-off the week with a story from [Seema and me](https://the-ken.com/story/gsat-11-delayed-will-isro-allow-private-satellite-broadband-now/) on India’s premier space agency Isro and its “Not Invented Here” syndrome around satellite broadband. Having delayed its heaviest satellite till date, GSAT-11, what is Isro up to? Read; it’s free.
+On Tuesday, [Sidhartha](http://link.the-ken.com/wf/click?upn=HQSq6eeRV1xAVaGuFOahuNCZVVXPeP-2FJpSqxhvIUDrleQEcpBusOC8I46-2FYjao-2B-2FBIex2VAao9Md0Wcde2k5N3ktTfzwFCCAiN9TA3PLuu4McxZAePmeujVPgZ9B1MCa4faWp8GpMCPNz7LAzIkPkadgN8n-2Fgmyv8qNLuO3cj-2Fg-3D_S4jLOsNx-2Fv6Jev2nvow8b7P9pBCWGd8KNZfb200gkZLQNlXQHio0noZzXtsWoloZmPWeyZsh7a4QCV9ufwCUKi00jlBT0uEdvwYDMuVuqcPcOZj-2BdfVVY8CxiAnThwmS7bmkTFFs5TPfUoLCcxFMXkkJkmd-2BfPr9gt-2Fc93f3H3IXbrSsnIgQozbONCOwciuvMOfh6veLoBihf3uZDCiwSRPum1e5EyjfaeIe9jM3oD5ID6ONiilGaCtN4og-2BPTVbKlDdSr1nDzpFqirMVMyrj2H57psbB7KBZQRFDVYc0Cb27ILFxcOWbUYdUwltj5swLqxJh19YpTLoJE7W50oaIk8Pca2Q6aDcalrM-2BZDufCqiR1B2vdwQmxNItz8SVvowrwZ83N4DAl-2ByWcFaoy4suFPqRXxNPyXBOgrmBBRMuvU-3D) told us that micro, small and medium enterprises (MSMEs) have found a way to escape the liquidity crunch caused by India’s banking sector’s non-performing assets. This saving grace is the Trade Receivables Discounting System (TReDs). Read to know how.
+Day 3 was [Venkat’](https://the-ken.com/story/election-commission-data/)s story on the Election Commission’s quandary. With Karnataka elections here and 2019 around the corner, the body may have the right intent but lacks the necessary urgency needed to tackle the problem of voter manipulation through social media. Read about why the EC needs to act soon.
+On Thursday, [Ruhi](https://the-ken.com/story/ayushman-bharat-an-alphabet-soup-short-on-ingredients/) helped us understand how the central government’s ambitious, bold and grand scheme “Modicare” with its $1.54 billion budget will be implemented and who is going to help with the execution. We know health tech startup Practo may have a big role to play.
+[Venkat](https://the-ken.com/story/facebook-whatsapp/), who somehow survived the week on coffee, returned on Friday to tell us what Facebook is up to. Soon after WhatsApp co-founder Jan Koum left the company, Facebook announced that it would further open its second-biggest product, to advertisers and businesses. This opens up a new can of worms, one which begs the privacy question.
+That’s all for the week. Have a fun weekend and hit ‘subscribe’.
+Regards,
+Harveen Ahluwalia
+|
+What you just read is the personalised daily introduction to The Ken's story. Written by a different person each day. Often insightful, sometimes witty, and very rarely boring. Someone sent this to you? [Sign up for free](https://the-ken.com/?modal=register). Don't like these? You can [unsubscribe](http://link.the-ken.com/asm/unsubscribe/?user_id=2349339&data=ySVRv_8knLkACtBGYXVYKixDQxB-bjObbsoh8iLBxHal2zWxa3idw8MahiYExeqe5vH8FQuk5gnCTqttwLpXIzLz9Vd2eFajnKJBnBNGAD1yz5JtkIP8-EvkKkdIS8b8FzvIuC5NabANsvLeX5-58IY1t5590fRXkdLjE_7GIEZcskaTrzfMTDWL_F9d_JMmMsI8Yiic-h8QhoZaYgyIcwm4PgiTaOSsvGgKNCmBo4JQ7OfkhaGVzd1w_PyzTuTf8pTbBbxVl3yYoeCbw1e_NVoadnihpGEp3FeNqxmEMJt1DJeBm-WiLCtoR516aMQEW6speq7wXUnNBoV7XltSJbRut0hWI_H75PhVRxkHD8V96u1D_Q8nXnkZKk5_jfA3nsbBHf_ePppYKut_aXBLaUADE77q0TSWw9ur6ggdLyK3bWGQC39Twmu84r7-yHPHe2JmaCpOhA9_OzXFSrwAyebNQuaKmC9EuGjr0-dVxvh9Oug1oo5sYqwxT4Z0J6Or98RkTVe7VHnbO5dmvFA2vjAC0oFPZZJTcRMDjwpSzUQ=). Want to manage your emails? Click [here](http://link.the-ken.com/asm/?user_id=2349339&data=ONDITeegvbq3Qr-G-d43k9s8rpah-u_OM9oJrqQZfd-K4i5zVy-aH947OXxub_qY1YBZOIICMyBk7c87OFX-_AJU5TtS5O0-jkNnbEvXBJI9qV6iq75JqlI6nCsRqwi2exCh04eIa7AHB5nXsz6D89yjCYJ-u_Zq15Wu9W97M2SAlkrSlkQDBj45Sa1ZIdF_C7ZWBTbmJrdrQ_7SKTwQW5MSGohL3WwBXQ6LVZ-fc8tFen3CnKF3TH-iQGG51NnatctS15uKWQxMbBbKA8407zb8973BZSnniUD3tZV3dlz6bSlJDwiKvBqUzTFYxsGXYtrZMQ0YcRPLYPg-GpzOefXcIObJ5b518S4ioD3EkF37vjRx0vafHXKI16fG7_zobfz1K5Vlbqh15GdG-LieyFGhWOcbIPDGOgZMvrq2DPAQ_qcw8sGnjikhGRysEvBjM0b4lhAXqvvyc1Tla0alQPsgBo4tI8SNnsvu4STy7mGsCSy0_o-2ZS6fK-wVuuHRfU6j7h1xJG7WbO835MV7-w==).
+|
+|
+|
+|
+|

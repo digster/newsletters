@@ -1,0 +1,13 @@
+---
+subject: "Open Thread 324"
+from: "Astral Codex Ten <astralcodexten@substack.com>"
+to: ""
+date: 2024-04-08 03:41:32
+labels: ["Astral Codex", "CATEGORY_PERSONAL", "INBOX", "UNREAD"]
+label_ids: ["Label_6409723252142624155", "CATEGORY_PERSONAL", "INBOX", "UNREAD"]
+---
+This is the weekly visible open thread. Post about anything you want, ask random questions, whatever. ACX has an unofficial [subreddit](https://substack.com/redirect/f9738d25-0307-4dae-afc0-d597d17a5573?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o), [Discord](https://substack.com/redirect/df605d9d-d150-4924-b269-dddc024f1d46?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o), and [bulletin board](https://substack.com/redirect/3de296d8-fb47-41a5-8a63-dbc62be27c86?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o), and [in-person meetups around the world](https://substack.com/redirect/d298cfc3-6f75-4705-9202-ee465185aae5?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o). 95% of content is free, but for the remaining 5% you can subscribe [here](https://substack.com/redirect/3ae355b4-15f2-4782-a544-f5bccc34f163?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o). Also:
+1: This is your last chance to take [the 2024 ACX Survey](https://substack.com/redirect/48363536-8ff6-4c55-9dce-447810febe87?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o). I will close submissions Wednesday.
+2: ACX meetups this coming week in Haifa, St. Petersburg, LA, Toronto, Vancouver, Mexico City, San Jose, Milwaukee, Hong Kong, Tallinn, Cambridge MA, Mumbai, Singapore, and many more. [See the Meetups List for details](https://substack.com/redirect/8d376aff-5c39-49de-a978-eef354308ba4?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o).
+3: The Less Wrong team is hosting a conference/festival for the rationalist and rationalist-adjacent blogosphere, [Less Online](https://substack.com/redirect/d898b89a-137f-444d-a435-82015955cc67?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o), the weekend before Manifest. Berkeley CA, 5/31 - 6/2, $400 per ticket, some housing and childcare available. I’ll be there.
+4: The hedge fund Bridgewater [is running a forecasting contest on Metaculus](https://substack.com/redirect/e39b25ea-1756-4175-88be-d1af523308a2?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o). US residents only, extra prizes for undergraduates. Prizes include $25,000 and potentially getting recruited by Bridgewater (in which case read the “Corporate Culture” section on their wiki page before accepting).

@@ -1,0 +1,102 @@
+---
+subject: "First Principles: Dreams of retirement"
+from: "The Ken <info@the-ken.com>"
+to: ""
+date: 2025-09-28 05:48:22
+labels: ["CATEGORY_PERSONAL", "INBOX", "The Ken", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_8244464457792971031", "UNREAD"]
+---
+|
+|
+First Principles
+Sun, 28 Sep 25
+A community-powered Sunday newsletter on mental models, self-reflection, learning, growth, photos, books, and more.
+Dear Ishan, good morning! Sometimes you’re in a “good morning” mood, and sometimes you’re in a “good morning!” mood. Clearly, I’m feeling the latter this week.
+That’s because I’m all wired and charged up after a very productive week. A week in which I joined my colleagues Praveen Gopal Krishnan (aka PGK) and Brady Ng to co-host a [brand-new podcast](https://the-ken.com/podcasts/zero-shot/a-zebra-striped-dinosaur-ai-giants-colonising-the-world-and-tiktoks-deal-in-the-us/) and write an [(overly) ambitious edition](https://the-ken.com/columns/zero-shot/china-and-the-ai-puck/) of a new column. They’re both called [Zero Shot](https://the-ken.com/zero-shot/). We cover the world of AI!
+I’m now part of three podcasts ([First Principles](https://the-ken.com/podcasts/first-principles/), [Two by Two](https://the-ken.com/podcasts/two-by-two/) and [Zero Shot](https://the-ken.com/podcasts/zero-shot/)) at The Ken, a newsletter (you’re reading it!), and a column (Zero Shot). And I’ve (over) eagerly signed up for even more.
+I should be feeling overwhelmed and tired and burnt out. Instead, I’m feeling energised and ambitious.
+Balancing all of these journalistic endeavours together with my day job on the business side is what I thrive on. The more, the better!
+Last month, I met one of our subscribers at The Ken’s office. We spoke about her career first, and then The Ken’s evolution and principles. There was no specific objective to the meeting other than to just exchange ideas and thoughts in person.
+Towards the end, she surprised me by asking, “How do you write? I’m very curious.”
+Her question was about my method. Did I have a process? How did I decide what topic to write a particular edition of First Principles on? When did I actually write? How long did it take? Where did I get ideas from?
+All of us evolve our methods and rhythms over time. I’m fairly certain my writing process started in the early 2000s with the earliest days of blogging. Then, it got crystallised in 2008 when I shifted professions to become a full-time business journalist with (the as-yet unlaunched) Forbes India magazine.
+The habit of opening Microsoft Word and hitting “Ctrl + N” for a new, blank document every time I wanted to write a new story draft has stuck with me.
+Today, I have files titled “First Principles ledes” and “First Principles intros” on my desktop that contain potential lead (calling it “lede” is a mild journalistic tell) story ideas and more informal introductions. Every time I think of something interesting that could work as a FP intro or lede, I open the respective file and write it down.
+That saves me the frustration of opening my laptop on a Saturday and wondering, “Hmmm, what do I write about this week?” I always have options to pick from.
+Beyond this, each edition gets its own file too. For instance, this one is called “FP 28th Sept”. I also have ones titled “FP 5th Oct” and “FP 12th Oct”. That way, I can also plan ahead for specific editions (for instance, if there’s going to be a survey).
+A similar set of files exist around Zero Shot and most of my other journalistic side-gigs at The Ken. They allow me to seamlessly channel my daily reading, ideas, and connections into buckets for later use.
+And Microsoft Word files are my notebooks. I need to open one in order to start writing. They’re both containers of specific streams of thought for me, as well as canvases for me to express myself. A Google Doc never quite feels the same, even though I do use it frequently too.
+Files, filenames, folder structures, and even filesystems are a relic of an earlier era. Like handwriting, they will eventually fade away.
+But not with me.
+Here’s everything we have for you in First Principles this week:
+1. The 2025 Gifting Survey is here! 🎁
+2. Dreams of retirement
+3. Spotlight on Trilegal’s Rahul Matthan🎙️
+4. A great weekend read 📚
+5. Your weekly Sunday photo album 📸
+[Pro tip: This email is a highly abbreviated version, since many email clients impose restrictions on the amount of material we can publish in a single email before intervention. In fact, it’s likely some email clients may even clip this truncated email.
+The best way to experience this edition is to read it on our [website](https://the-ken.com/newsletter/first-principles/dreams-of-retirement/) or [app](https://the-ken.com/newsletter/first-principles/dreams-of-retirement/), where all sections are featured in full and unabridged form.
+Also, if your default setting is to not show images within emails, please consider turning it off for this newsletter. Or else, you’ll miss many of the interesting images and photos we carry each Sunday.]
+|
+Retirement is a hard topic to understand. When you’re young, you dream of it (the entire [FIRE](https://en.wikipedia.org/wiki/FIRE_movement) movement is just that). As you get older, you begin to dread it.
+Most of the time, our “post-retirement” dreams are [not quite what we think they are](https://www.experimental-history.com/p/face-it-youre-a-crazy-person).
+“I meet a lot of people who don’t like their jobs, and when I ask them what they’d rather do instead, about 75% say something like, “Oh, I dunno, I’d really love to run a little coffee shop.” If I’m feeling mischievous that day, I ask them one question: “Where would you get the coffee beans?”
+If that’s a stumper, here are some followups:
+- Which kind of coffee mug is best?
+- How much does a La Marzocco espresso machine cost?
+- Would you bake your blueberry muffins in-house or would you buy them from a third party?
+- What software do you want to use for your point-of-sale system? What about for scheduling shifts?
+- What do you do when your assistant manager calls you at 6am and says they can’t come into work because they have diarrhea?
+The point of the Coffee Beans Procedure is this: if you can’t answer those questions, if you don’t even find them interesting, then you should not open a coffee shop, because this is how you will spend your days as a cafe owner. You will not be sitting droopy-lidded in an easy chair, sipping a latte and greeting your regulars as you page through Anna Karenina. You will be running a small business that sells hot bean water.”
+[Face it: you’re a crazy person](https://www.experimental-history.com/p/face-it-youre-a-crazy-person) (Adam Mastroianni)
+On a recent episode of the First Principles podcast, I’d spoken about this with Anand Jain, the co-founder of Clevertap.
+Rohin Dharmakumar: Have you ever thought about retiring?
+Anand Jain: Never, no.
+Rohin: I’m sure your friends or family members have at some point said, “you’ve built so much, you’ve achieved so much, now take it easy. Why don’t you step back, pull back, or retire?” What goes through your mind when they say this?
+Anand: I don’t know, to me, retirement is stasis. It’s like you’re done, like you have nothing more to learn, and nothing more to contribute to society.
+Rohin: Have you ever thought of when you might end up eventually stopping to work professionally?
+Anand: No, I have not. No. I think that lamp continues to live within me. If it is not Clevertap, it’s something else. But it will, and this is not for making money. Thankfully, I have enough for my needs.
+So that box is checked. But now it’s purely out of seeing some other extremely inspiring leaders continue to show up at work every day. These are people who are far richer than me, far more famous than me.
+Why do they show up at work? What makes them put themselves super passionately into their line of thinking. I mean, Elon Musk is a great example of that.
+Rohin: Warren Buffett?
+Anand: Warren Buffett is a great example of that. Like, at the age of 97 or 98 (ed: Buffet is 95), he shows up. I’m reading Poor Charlie’s Almanac. Phenomenal book, right? So, if they think that there is more to life than just retiring or calling it quits. You’ve got to continue to do it for as long. It also keeps you functional and the brain working.
+It’s like a trek, man. It’s like a trek for which there is no summit. You just continue to walk and you enjoy the scenery along the way and you inspire others.
+Rohin: What are your thoughts about this entire FIRE movement? The underlying dynamic there is to build financial independence and retire early so that you don’t have to work for money. But I also feel that implied in that dynamic is no clarity on what you will do once you achieve that, right?
+Anand: If Warren Buffett will not retire at 97 or 98, why will you? And it’s not about money. It’s about passion. We recently had one of our senior persons come and tell us, “Hey, I have achieved financial independence and I’m going to retire.”
+And I said, “What are you going to do?” He’s like, “Nothing.” I said, “That doesn’t sound very exciting to me.”
+You know, maybe a week or two weeks’ worth of break is fine. But what after that? How do you do nothing?
+So FIRE implies that you’re doing work for money. What if you’re not doing it for money? What if money was a byproduct of you being absolutely passionate?
+This is also the career thing you asked me earlier. If you’re absolutely super passionate about what you’re doing, if you want to be the best, to the best of your capabilities, like there’s nothing better than this. Then you don’t have to work a day in your life. Unless there is a misalignment, unless you want to be a musician and you are in the accounts team. But I think then get out of accounts, you know, become the musician you want to be.
+Why wait until some FIRE or some artificial milestone? Why suffer until then? Life is too short to suffer from not having fun.”
+First Principles:[ Anand Jain of Clevertap on starting with nothing and learning, building and leading as you go along](https://the-ken.com/podcasts/first-principles/anand-jain-of-clevertap-on-starting-with-nothing-and-learning-building-and-leading-as-you-go-along/) (11th August 2025)
+I’m sure many of you have come across the parable of the[ Mexican fisherman and the Harvard MBA](https://aliabdaal.com/newsletter/the-parable-of-the-mexican-fisherman/)? It’s just FIRE approached from a different angle.
+Rahul was much too self-effacing and reticent about the long and arduous path to building a powerhouse of a law firm that not only does not bear the names of its founders but has also built a complex system of culture and values to continue evolving. If you’re interested in understanding the business of law (even though Rahul kept insisting lawyers are not entrepreneurs), this is a must-listen.
+First Principles:[ Trilegal’s Rahul Matthan on the firm, the partnership, and the principles](https://the-ken.com/podcasts/first-principles/trilegals-rahul-matthan-on-the-firm-the-partnership-and-the-principles/) (15th Sept 2025)
+Hello Ishan, this is Inderpal, one of The Ken’s trainee writers in the Journalism Leadership Programme, taking over from Tanim for this week’s books section. Before we dive in, if you would like to write this section one of these weeks, please reach out to [fp@the-ken.com](mailto:fp@the-ken.com). Or recommend your [last favourite read here](https://theken.typeform.com/FPBooks?typeform-source=the-ken.com).
+The best books are the ones that leave you with either a crisis or a solution—[Piranesi](https://www.goodreads.com/book/show/50202953-piranesi) falls into the former category. I developed a love-hate relationship with this book because of how it gave me both moments of peace and innocent comfort, and moments of extreme discomfort. The sense of suffocation I felt while reading it was something I had last experienced when reading George Orwell’s 1984.
+Imagine living in a world which is infinite, yet simple and reducible to a few systems. And then suddenly, reality shatters, the status quo breaks, and you learn about what lies beneath the immediately visible. We have all, at some point in life, fallen in love with the monster who harms us.
+Well, Piranesi, a character who you will immediately fall in love with, likes to call himself the “Beloved child of the House”. The “House” is a majestic place with endless corridors and marble halls, full of statues. A periodic flood and sounds of water are the only signs of an ocean out there somewhere. He spends his days in solitude, writing diaries, except for the sporadic company of “The Other”—who is like that mysterious friend you meet just once a year before he disappears.
+But in Piranesi’s world, there are thirteen other people—his friends. Except they are all skeletons. Piranesi has names for them and pays them regular visits.
+Things change when he learns about the existence of “The 16” in this place. From that point on, the book becomes a psychological thriller; one chase leads to another, and finally to a truth that is sure to send chills down your spine.
+Piranesi will make for a great weekend read when you are one crisis short in your life, and it will give you ideas to chew on for a long while.
+Hello Ishan, it’s Jonathan with your weekly dose of Silent Sunday pictures.
+Please do send in your own photo contributions to be featured in this section [here](https://theken.typeform.com/fpsilentsundays). We love to see the world through your eyes.
+Here’s this week’s fare.
+From Somesh Kumar in Gurugram:
+“The colours of childhood it represents and the world of darkness it hides of the people selling them.”
+| Gurugram (Somesh Kumar) |
+From Shilpa John of the Shyok River, Ladakh:
+| Shyok River, Ladakh (Shilpa John) |
+From Anmol Baid of Central Park, Manhattan, New York:
+“Sunny day and green sway.”
+| Central-Park ,Manhattan, New York—"Sunny day and green sway"—(Anmol Baid) |
+Saloni Dhir says she’s just started her MBA at ISB, Hyderabad, and wants to share a picture of the institute symbolising her new beginning. (Apologies for missing this earlier, Saloni!)
+| Indian School of Business, Hyderabad—"Starting my MBA at ISB, New beginnings"—(Saloni Dhir) |
+And finally, from Aditya Vayunandan in Bandipur, Karnataka:
+“Amidst the monsoon rains, an adolescent leopard was trying to hunt a female chital. It was a magical evening.”
+| Bandipur, Karnataka (Aditya Vayunandan) |
+That’s a wrap for this week. Before you go, if you know someone who might like this newsletter, forward us to them!
+Please write to [fp@the-ken.com](mailto:fp@the-ken.com) if there’s anything you’d like to share with us. Or leave a comment on our on-site edition.
+See you next Sunday!
+Regards,
+Rohin Dharmakumar

@@ -1,0 +1,10 @@
+---
+subject: "Claims about education and convergence"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2025-10-10 05:15:30
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+This paper studies how human capital shapes the economic geography of development. We develop a model in which the cost of acquiring human capital varies across space, and regions with higher human capital innovate more. Locations are spatially connected through migration and trade. There are localized agglomeration economies, and human-capital-augmenting technology diffuses across space. Using high-resolution data on income and schooling, we quantify and simulate the model at the 1° x 1° resolution for the entire globe. Over the span of two centuries, the model predicts strong persistence in the spatial distribution of development — unlike spatial dynamic models without human capital, which predict convergence. Proportionally lowering the cost of education in sub-Saharan Africa or Central and South Asia raises local outcomes but reduces global welfare, whereas the same policy in Latin America improves global outcomes. An alternative policy equalizing educational costs across sub-Saharan Africa generates relatively worse outcomes, as population reallocates within the region toward less productive areas. Central to these results is the estimated negative correlation between the education costs and local fundamentals, as well as inefficiencies in the spatial allocation due to externalities.
+That is I think a genuinely new idea? Here is [the NBER working paper](http://marginalrevolution.com?action=user_content_redirect&uuid=2529dfe4d2dc37102fc744e07c2262d7c506a0a427f3a857c24a063bae9b90bc&blog_id=42693868&post_id=91630&user_id=262258391&subs_id=225460721&signature=39b440cb56093544a6954bd4efa388ff&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly93d3cubmJlci5vcmcvcGFwZXJzL3czNDMxMA=&email_id=0cd482ab44e2780942efe4ce11fab3d6) from

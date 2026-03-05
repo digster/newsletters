@@ -1,0 +1,39 @@
+---
+subject: "Netflix cloud gaming 🎮, inside StackOverflow's decline 📉, guiding LLM output 👨‍💻"
+from: "TLDR <dan@tldrnewsletter.com>"
+to: ""
+date: 2023-08-15 10:19:21
+labels: ["CATEGORY_PERSONAL", "IMPORTANT", "INBOX", "TLDR"]
+label_ids: ["CATEGORY_PERSONAL", "IMPORTANT", "INBOX", "Label_795315172960844453"]
+---
+[Netflix finally streams video games, too (3 minute read)](https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.theverge.com%2F2023%2F8%2F14%2F23829262%2Fnetflix-cloud-gaming-testing-tv-web%3Futm_source=tldrnewsletter/1/01000189f8b50b60-cdc08185-559c-4192-bee2-afd06f02a96c-000000/0tleNK9K6wOkw6eFAIK9i422nvFYSF9d1ycBLX8pQXw=314)
+Netflix has started the first public tests of its cloud-streamed games. Subscribers in Canada and the UK will soon be able to stream Netflix games to select TVs, connected TV devices, and browsers. The two games currently available are Oxenfree and a new title called Molehew's Mining Adventure, a gem-mining arcade game. Players control games on their TVs using their smartphones. A list of compatible devices is available in the article. |
+[Apparent Images & Specs Of Samsung Headset Prototype Leak (2 minute read)](https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.uploadvr.com%2Fsamsung-prototype-headset-images-leak%2F%3Futm_source=tldrnewsletter/1/01000189f8b50b60-cdc08185-559c-4192-bee2-afd06f02a96c-000000/AL8UM3logYepXsZOWCyjbc_hQ0vB3jL6ryBQeYSe2uY=314)
+Images and specs of a prototype Samsung headset have been leaked. The XR headset uses a new variant of Android. It will reportedly feature four tracking cameras, pancake lenses, dual RGB cameras for color passthrough, a depth sensor, OLED microdisplays, and Samsung's own Exynos 2200 chip. It doesn't have tracked controllers, using hand tracking and eye interaction instead. The headset will likely be in the $1,000-$2,000 range. The leaked images are available in the article. |
+Science & Futuristic Technology
+|
+[Viruses cause 200+ diseases. This one drug may be able to treat them all (12 minute read)](https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.freethink.com%2Fhealth%2Fbroad-spectrum-antiviral%3Futm_source=tldrnewsletter/1/01000189f8b50b60-cdc08185-559c-4192-bee2-afd06f02a96c-000000/6NLXBABAEZfKqIzY4TvRPcWgFxUrqYxoGcaK-Dl2hXc=314)
+A New Zealand-based startup, Kimer Med, is trying to develop a broad-spectrum antiviral. Its current strategy involves targeting a factor in human cells to attack a wide variety of viruses. Kimer's technology triggers a process that kills targeted cells upon detection. While it has shown promise in the lab, the company still has to prove that it works in animals and humans. A broad-spectrum antiviral would save tens of millions of lives and trillions of dollars over the coming decades. |
+Programming, Design & Data Science
+|
+[AI Town (GitHub Repo)](https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fgithub.com%2Fa16z-infra%2Fai-town%3Futm_source=tldrnewsletter/1/01000189f8b50b60-cdc08185-559c-4192-bee2-afd06f02a96c-000000/glOp_1w2pBXi1Qb_RJQqh_25770v6JJhmgaOuT-VMYc=314)
+AI Town is a virtual town where AI characters live and interact with each other. This repository contains a deployable starter kit for easily building and customizing a version of AI Town. The project was inspired by a research paper. It aims to provide a platform with a strong foundation that is meant to be extended. |
+[Outlines (GitHub Repo)](https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fgithub.com%2Fnormal-computing%2Foutlines%3Futm_source=tldrnewsletter/1/01000189f8b50b60-cdc08185-559c-4192-bee2-afd06f02a96c-000000/ab7t8EfM3tYf_l0WEbCfauH_c1BORVtYnfsNTF3ZWRw=314)
+Outlines is a library for neural text generation. It helps developers guide text generation to build robust interfaces with external systems. Outlines is compatible with all models. It can be used as a more flexible replacement for the generate method in the transformers library. |
+[Inside the Decline of Stack Exchange (20 minute read)](https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.thediff.co%2Farchive%2Finside-the-decline-of-stack-exchange%2F%3Futm_source=tldrnewsletter/1/01000189f8b50b60-cdc08185-559c-4192-bee2-afd06f02a96c-000000/IhZ5nKMlHjR1ssKhMc3KNzA5-WZdlr57bjONiIdrPqo=314)
+Stack Exchange's library of knowledge is under a Creative Commons license, which means that anyone can use it in any way, even for commercial purposes. A large chunk of its programming-specific data was ingested by AI models. This article looks at Stack Exchange usage and how the introduction of generative AI to the public has affected trends. |
+[My Everyday LLM Uses (3 minute read)](https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fmatt-rickard.com%2Fmy-everyday-llm-uses%3Futm_source=tldrnewsletter/1/01000189f8b50b60-cdc08185-559c-4192-bee2-afd06f02a96c-000000/KD6kHuIVYOOvg5NPfAeLAnTnSypnHwaOiAHZ3DmDbMk=314)
+This article looks at everyday uses for large language models outside of coding or professional work. The list includes using the models for sorting grocery lists, summarizing book notes, dictionary lookup, turning tasks into subtasks, and as an editor. The article also looks at some of the things that large language models aren't as useful for - generating names, brainstorming, and writing fiction novels. |
+[Non-Thoughts on the Open Source Initiative (10 minute read)](https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fyakshav.es%2Fnon-thoughts-on-the-osi%2F%3Futm_source=tldrnewsletter/1/01000189f8b50b60-cdc08185-559c-4192-bee2-afd06f02a96c-000000/0WbLz5iWXDe_1i3H42SBAmUCh7Kdc434F6vHSV8Etik=314)
+While the Open Source Initiative is uniquely positioned to guide discussions on open source and free software, the organization has ties to many companies and its behavior is centered around ease of use for multinational companies rather than developers. |
+[TLDR Talent](https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fdanni763618.typeform.com%2Fto%2FrSL4lOH3/1/01000189f8b50b60-cdc08185-559c-4192-bee2-afd06f02a96c-000000/LQSAXcRSuZSV_dkeCuAv7RtGHBDg1OCppw8dLILQlqQ=314) is our exclusive community where we help world-class tech talent and get intros to companies of their choice, along with a number of exciting startups and tech companies curated by TLDR.
+We give you full control of the process, you can specify if you’re actively searching or passively interested only if something amazing comes along. Set your preferred compensation, seniority/title/role, specific companies (or types of companies) you’d like to work for and more. [Click here to apply](https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fdanni763618.typeform.com%2Fto%2FrSL4lOH3/2/01000189f8b50b60-cdc08185-559c-4192-bee2-afd06f02a96c-000000/U3NhF3wd55elSMU1ykG894DY4LaufLfdkSRhZ1Uw1Jk=314).
+|
+If your company is interested in reaching an audience of tech executives, decision-makers and engineers, you may want to [advertise with us](https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fshare.hsforms.com%2F1OxvmrkcFS4qsxKpNXCi76wee466%3Futm_source=tldr%26utm_medium=newsletter/2/01000189f8b50b60-cdc08185-559c-4192-bee2-afd06f02a96c-000000/qth4ifDptJ0j1tWFmdzgRwU0iZh_1XeYuKYWjh_jA_k=314).
+If you have any comments or feedback, just respond to this email!
+Thanks for reading,
+[Dan Ni](https://tracking.tldrnewsletter.com/CL0/https:%2F%2Ftwitter.com%2Ftldrdan/1/01000189f8b50b60-cdc08185-559c-4192-bee2-afd06f02a96c-000000/yyUtngmQxfSydob1YDyQBsTxUzQjXMrecgcof302R2Y=314) and [Stephen Flanders](https://tracking.tldrnewsletter.com/CL0/https:%2F%2Ftwitter.com%2FSteveFlanders22/1/01000189f8b50b60-cdc08185-559c-4192-bee2-afd06f02a96c-000000/4zJKaFycXPcVruTcu5gpLF_-_xBveq9KjEJiepxfgjM=314)
+|
+|
+|
+|

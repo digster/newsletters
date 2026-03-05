@@ -1,0 +1,31 @@
+---
+subject: "Wide-Awakes, Presidential Debates, and Radical Centrists"
+from: "James Taylor Foreman from The Metaphor <taylorforeman@substack.com>"
+to: ""
+date: 2024-09-13 12:01:38
+labels: ["CATEGORY_PERSONAL", "INBOX", "James T Foreman", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_4836997891601433526", "UNREAD"]
+---
+|
+So, there was a big debate this week. My disinterest could fill an above-ground swimming pool.
+All that sound and fury, in theory, should contribute to protecting us from the chaos of nature and the social parasites among us—not so we can watch even more pro-wrestling politics—but so we can get on with our lives.
+Ultimately, if politics doesn't foster me cooking a cozy dinner with my girlfriend and occasional camping in Yosemite, then all its laws, legalism, and litigation are pointless. Rip it down. You couldn’t pay me to watch that ugly-theater.
+That’s just my temperament, I guess. It’s also the creed of the Radical Centrists, who are equally hated by “both sides.” Why?
+In 1860, some elder political elites gathered in a sleepy Manhattan bar. They ordered ale and discussed political strategies to defect Lincoln. As the night wore on, they got pleasantly drunk in their cozy booths.
+At midnight, there was suddenly a marching band and the rhythmic sound of boots. Sobered, the politicos shot outside. Young men were marching, wearing shimmering black capes and army caps.
+“Who are these damn Wide-Awakes?”
+They were marching to stop the spread of slavery to the northern states: friends of the future 16th president. They ended up the biggest and most successful grassroots political movement in history, to this day. Lincoln was elected, slavery was ended, and the rest is history.
+If everyone was apathetic about politics, you could say, politicians would settle into their warm booths, lazy and psychopathic, and get drunk on our indifference. Let them suck the blood of collective trust for long enough, the system begins to fail. Then, we get to see why we constructed the state to begin with. Everyone thinks they are against the political state until the state of nature comes roaring back.
+As unfashionable as it is for me to say, we are ungrateful for how well our systems function. As a matter of pure thermodynamics, there are exponentially more ways for systems to fall apart than ways for them to work. That our system works at all is a miracle. Corruption is not confusing or surprising at all. Corruption is entropy. Corruption is base-line.
+BUT is engaging with the political system the right way to fight that ever-powerful threat of decay? The opposite, I would guess. It seems to be perfectly designed to make liars out of all of us. Politicians must adopt, without question, the beliefs of an unnaturally gerrymandered half of the populace. Over time, sacrificing what they originally believed to appease their Frankenstein's cohort.
+It happens to anybody who spends too much time gazing into that abyss, not just the figureheads. First, you get your politics from your parents, rebelling from your parents, or just your temperament. Whatever the case, you started out by leaning slightly one way. Then, political pundits, whose job it is to inflame your outrage, entrench you further and further into adopting that gerrymandered set of beliefs. Finally, you lie to others (then, to yourself) about your opponent's beliefs, on the “just” basis that if they win, some terrible thing will happen. Over time, your adopted politics become as dear to you as a limb. Anyone who disagrees with you, it seems, is trying to cut off your arm.
+I’ve gotten used to this song and dance: people probe me for my political allegiances. Then, they distrust me when they decide that I'm conservative or a liberal because I don't say the exact combination of words required of people who ascribe to the One True Party.
+Hate to sound like a crank, but politics kills our ability to think.
+Depending on your political alliance, you will interpret the story above about Wide-Awakes in two different ways. If you lean left, you will see them as early progressives – marching toward equality. If you’re on the right, you’ll see them as Republican, Christian young men who were inspired to do the right thing not based on trendy identity politics, but on deep transcendent values. The Wide-Awakes weren’t listening to political pundits. They were reading old books and fighting wars.
+The deeper problem, as far as I can see, is that political marketing has captured our mind-share before we even start looking at the outside world. We can’t even read history anymore without seeing it through the lens of TikTok or Fox politics. No matter what story we hear, we are anxiously trying to fit it into the gerrymandered story of our tribe. Not so much because we care about Truth, but because we are afraid to be cast out for WrongThink.
+I’ll never make it as a political pundit because I don’t see the other side as irredeemable predators.
+If you’re really so concerned about the snakes, though, get involved with your community or local government. As the scale grows, the ratio of theater to public service increases exponentially. At the national level, it’s 99% theater and therefore a foregone conclusion. At your city council meeting, it’s the opposite. It’s boring, but helpful.
+Then, every four years, vote based on your gut. Don't tell anybody who doesn’t love you who you voted for. The need to stay “informed” is a lie to get you to watch more commercials. They’ll tell you that if you don't vote a certain way, something terrible will happen—and, worse, you’ll be an accomplice. Well, I just don't believe that. This country was here long before I was born and it will likely chug along until its demise sometime in the future. Besides, the highest leverage I have to actually do something is to lift up the people nearest to me.
+People who spend all their time watching politics are not becoming good neighbors, no matter how much they convince themselves that they’re on the side of the Messiah.
+I’m not saying it’s easy. It’s forever tempting for me to enter this arena. I could spark the tribalism of one side or the other by writing a certain way. I would probably see a massive spike in readership.
+I’ll keep my soul instead.

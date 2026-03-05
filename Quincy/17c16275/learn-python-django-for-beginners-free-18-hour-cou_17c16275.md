@@ -1,0 +1,32 @@
+---
+subject: "Learn Python Django for Beginners [free 18-hour course]"
+from: "Quincy Larson <quincy@freecodecamp.org>"
+to: ""
+date: 2021-09-24 04:54:11
+labels: ["CATEGORY_PERSONAL", "INBOX", "Quincy"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_7697778124671848699"]
+---
+Here are this week's five links that are worth your time:
+
+1. 18 years ago, two developers in a Kansas newspaper office coded the first version of the Python Django web development framework. They named it after jazz guitarist Django Reinhardt. Today, thousands of major websites run on Django. This beginner's course by University of Michigan professor Dr. Chuck Severance will teach you how to use Python and Django to build modern web apps. (18 hour YouTube course): https://www.freecodecamp.org/news/django-for-everybody-learn-the-popular-python-framework-from-dr-chuck/
+
+2. And if you want to learn even more Python, this course will show you how to use a wide range of Python libraries to automate tasks. You'll build an image converter, a résumé parser, a news summarizer, and more. (3 hour YouTube course): https://www.freecodecamp.org/news/how-to-automate-things-using-python/
+
+3. How to start freelancing in 2021. Tips from a successful Shopify and WordPress developer who works with multiple clients. (14 minute read): https://www.freecodecamp.org/news/how-to-start-freelancing/
+
+4. As a developer, I've probably spent more time building web forms than anything else. This can be particularly tricky with JavaScript. But these best practices will save you a lot of time and headache. (14 minute read): https://www.freecodecamp.org/news/learn-javascript-form-validation-by-making-a-form/
+
+5. Hundreds of universities around the world have made programming and computer science courses openly available on the web. My friend Dhawal has compiled 700 of these courses that you can explore. If you want, you can strap these together to build your own school year. (browsable list): https://www.freecodecamp.org/news/free-online-programming-cs-courses/
+
+freeCodeCamp is possible thanks to the 7,324 kind people who support our nonprofit each month by donating. If you're getting a lot out of the developer community and want to give back, here's how you can support our mission: https://www.freecodecamp.org/news/how-to-donate-to-free-code-camp/
+
+Quote of the Week: “An individual block of code takes moments to write, minutes to debug, and can last forever without being touched again. It’s only when you visit code written yesterday that having code written in a clear, consistent style becomes extremely useful. Understandable code frees up your mental bandwidth from having to puzzle out inconsistencies, making it easier to maintain and enhance projects of all sizes.” — Daniel Roy Greenfeld, Python Django developer and author
+
+Happy coding.
+
+- Quincy Larson
+
+Teacher at https://www.freecodecamp.org
+I share useful things on Twitter at https://www.twitter.com/ossia
+
+If these emails aren't worth your time, you can turn them off: https://www.freecodecamp.org/ue/eZV2T3gHC7IGcwcpYPG64

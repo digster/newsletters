@@ -1,0 +1,13 @@
+---
+subject: "The Monday Media Diet with Andrea Hernández"
+from: "\"Why is this interesting?\" <whyisthisinteresting@substack.com>"
+to: ""
+date: 2023-06-05 10:20:52
+labels: ["CATEGORY_PERSONAL", "INBOX", "UNREAD", "WITI"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "UNREAD", "Label_5752899537867939131"]
+---
+Tell us about yourself. This feels like a very existential question? My name is Andrea Hernandez, I currently lead a cult that worships sexy pantry items and sultry snax called Snaxshot, I'm pretty sure I was an iguana in a past life as I do not tolerate cold weather and need copious amounts of sunshine. My favorite food is anything savory, I love making my own ceviche, am a huge fan of martinis and castelvetrano olives which I can snack on at all times during the day, a friend to all dogs, and am also an Aries, which I'm sure will have everyone responding immediately with -- that makes sense. Describe your media diet. Podcast-- Otherworld (real people telling paranormal stories) Dieline (fun weekly commentary on design news) Really love the roundups of memes via Taylor Lorenz Really nerdy journalistic papers I come across through research Arena, Instagram, and Pinterest for curating imagery
+What’s the last great book you read? Just re-read Before that, the last one I consumed in one day was Cultish. What are you reading now? Currently not reading anything in particular at the moment and don't feel guilty or obligated to pretend I am, let's normalize not having to post about the 100 books we read a year, and be able to live our lives presently. What’s your reading strategy when you pick up a print copy of your favorite publication? Enjoy, lol? People have reading strategies? It feels very much like Americana culture, as a Latin American, I think of reading as a pleasure and indulgence, no need to strategize. Who should everyone be reading that they’re not?
+What is the best non-famous app you love on your phone?
+Plane or train? Trains, even though we don't have trains in my country/city but I love to take trains in the Northeast, flying is a scientific marvel but every little turbulence sends me into an anxiety spiral What is one place everyone should visit? Wadi Rum, the vast desert felt like everything and nothingness in one, plus you'll never see the sky as beautiful as in the pitch darkness there, the sunsets are filled with colors you've probably never experienced either. Tell us the story of a rabbit hole you fell deep into. I love a good rabbit hole-- Most recently too, going down magic and the — Thanks for reading, Noah (NRB) & Colin (CJN) & Andrea —
+|

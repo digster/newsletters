@@ -1,0 +1,54 @@
+---
+subject: "The Unbearable Lightness of Cringe"
+from: "Joan Westenberg <westenberg@mail.beehiiv.com>"
+to: ""
+date: 2025-07-01 08:37:32
+labels: ["CATEGORY_PERSONAL", "INBOX", "Joan Westenberg", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_1282196755308728004", "UNREAD"]
+---
+There’s a specific genre of embarrassment that afflicts the internet-native. You know it if you’ve ever hovered over the tweet button and then deleted everything because it sounded “tryhard.” You know it if you’ve killed a draft blog post because you worried someone smarter would roll their eyes. You know it if you’ve ever decided against recording a podcast, making a video, or publishing a newsletter because you imagined what your worst, most cynical mutual would say. |
+It’s a vicious, small minded, creeping fear. |
+And its name is cringe. |
+We inherit it, mostly unconsciously. The modern self exists in a constant hall of mirrors. Every social platform is a performative layer. Every status update is a stage cue. And because we’ve spent the last decade learning how to curate, cultivate, and broadcast a persona, we’ve absorbed the idea that any deviation from optimized performance is dangerous. We have trained ourselves to be allergic to earnestness. |
+But before we go further, a detour through Paris. |
+Baudelaire in the Feed |
+In 1863, Charles Baudelaire wrote an essay titled The Painter of Modern Life. In it, he described the figure of what would later be known as the flaneur: a detached urban observer who drifts through the city, both participant and spectator, drinking in its chaos and performing a kind of aestheticized detachment. The flaneur was ironic. He was knowing. He saw, and he judged. |
+Online culture today rewards the flaneur, and punishes the romantic. You may wander the digital avenues, but only as long as you maintain the correct posture. Too sincere? Cringe. Too ambitious? Cringe. Too emotionally involved in your own creation? Cringe. |
+There is a definite cruelty embedded in this. The fear of cringe is really the fear of visibility. It is the fear of being caught wanting something. And that fear, if you let it metastasize, turns corrosive. You begin to live in ironic distance from your own life. |
+Cringe as a Social Control Mechanism |
+“Cringe” has become a way to police expression. The term itself is rarely used to describe harm or even failure. |
+It’s used to enforce norms, usually by the smug against the sincere. |
+You write a LinkedIn post with a little too much emotion. Cringe. You launch a product and celebrate like you just landed on the moon. Cringe. You make a YouTube video explaining something you just learned. Cringe. |
+But who benefits from this enforcement? The professional class of internet lurkers. The cynical middle class of the commentariat. The people who don’t build anything themselves, but ensure you feel the maximum possible self-doubt when you try. |
+There is something almost religious in the structure of this judgment. It recalls Calvinist anxieties. You are being watched. You are always being watched. And your salvation lies in being chill enough to seem unaffected. |
+| Cancel Culture & The Death of Good Faith |
+|
+|
+The Problem With Cool |
+Being cool is an avoidance strategy. It’s a hedge against vulnerability. It’s a performance of detachment. |
+But cool doesn’t create. Cool reacts. Cool curates. Cool stays one step removed. |
+This is why so many promising thinkers and builders stall out in the ideation phase. The part of them that wants to experiment collides with the part that wants to look good while doing it. And if the cringe police live rent-free in your head, then you never give your real self a chance to emerge. |
+Consider the early blog posts of Paul Graham. Or the clunky, overlong essays of David Foster Wallace. Or the meandering riffs of early Reddit. All of them are, by the standards of a modern TikTok-trained Gen Z audience, unbearably cringe. Too long. Too indulgent. Too earnest. Too weird. |
+But they worked. Because they were real. |
+The Permission Slip You’ve Been Waiting For |
+A truth (widely known) that most people won’t say out loud: your worst tweet is still better than your best internal monologue. Your rough draft is more useful than your perfect idea. Your awkward podcast episode reaches more people than the one you never record. |
+Once you understand that, you stop filtering yourself through the imagined judgments of people who don’t matter. |
+This is not an argument for being sloppy, lazy, or performatively vulnerable. It is a call to embrace the full stack of your interests, your obsessions, your failures, your corny jokes, your outdated references, and your messy attempts to say something true. The only alternative is silence. And silence, in a culture of performance, is often mistaken for irrelevance. |
+Cringe Is the Price of Admission |
+Every great subculture, creative movement, or intellectual revolution begins with a moment of cringe. The Impressionists were mocked. The Surrealists were ridiculed. The punk kids in the 70s looked absurd. The first YouTubers = cringe factories. And yet, all of them made something that outlived their embarrassment. |
+Why? Because they didn’t flinch. |
+Cringe, then, is not a signal to stop. It’s a signal that you are alive. That you are no longer playing the consensus game. That you are touching the edge of the real. |
+Every person who has ever done something worthwhile has paid the cringe tax. They got up on stage before they were ready. They posted before they had an audience. They tried. |
+Anti-Cringe as a Spiritual Discipline |
+There’s a monastic purity in letting go of cringe. It means becoming legible to yourself again. It means posting what you want, even when it’s unoptimized. It means refusing to posture for the ghost of a sixth-form mean girl that lives in the back of your mind. |
+It doesn’t mean becoming an egomaniac. It doesn’t mean refusing to edit or improve. It means choosing creation over critique as your default posture. |
+There’s a test you can run: Would you still say it if no one liked it? Would you still make it if it went ignored? Would you still be proud of it if it never “worked” in any algorithmic sense? |
+If yes, then you’ve probably found something real. |
+To the founders launching ugly first versions, to the writers publishing awkward essays, to the weird kids on TikTok with 8 followers and too much eyeliner, to the developers releasing v0.1 of something that might one day matter: ignore the cringe cops. |
+They don’t build. |
+They don’t launch. |
+They don’t believe. |
+And you don’t owe them a single frame of your attention. |
+Let go. Let it be cringe. Let it be real. |
+Because the worst thing you can be isn’t cringe. |
+It’s silent. |

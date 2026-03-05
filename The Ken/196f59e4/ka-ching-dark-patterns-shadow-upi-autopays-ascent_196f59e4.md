@@ -1,0 +1,50 @@
+---
+subject: "Ka-Ching!: Dark patterns shadow UPI Autopay’s ascent"
+from: "The Ken <info@the-ken.com>"
+to: ""
+date: 2025-05-22 01:31:53
+labels: ["CATEGORY_PERSONAL", "INBOX", "The Ken", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_8244464457792971031", "UNREAD"]
+---
+|
+|
+Ka-Ching!
+Thu, 22 May 25
+A weekly newsletter about how finance is getting supercharged by tech in India, and how you can make money work for you..
+Good Morning Ishan,
+Last week, Rohan, a 35-year-old software engineer (who did not want to publicly reveal his last name), noticed a debit notification from his bank. Rs 199 had been deducted from his account by a learning app, Seekho, which he had downloaded three months ago and started a “Rs 1 free trial” on.
+Except, he had also cancelled it within a few weeks. So why was he being charged now?
+Frustrated, he checked his bank statement, only to discover that this wasn’t the first such deduction. Similar amounts had been charged to his account for a couple of months, and he had overlooked the SMS notifications sent by his bank for all of them.
+Rohan’s experience isn’t unique. Across India, numerous others are discovering (or will discover) that they are still being charged for subscriptions they thought they had cancelled.
+All activated through the new darling of subscription businesses—UPI Autopay.
+If you go through the reviews section of many popular apps on Google’s Play Store, you will find scores of complaints that mirror Rohan’s.
+Much of this, if you ask civil groups and researchers in the space, is due to dark patterns that remain rampant in India’s internet economy. Specifically, something called a “subscription trap”.
+This is how the Central Consumer Protection Authority (CCPA), established in 2020 by the Indian government to regulate matters related to consumer rights violations and unfair trade practices, defines a subscription trap:
+– making cancellation of a paid subscription impossible or a complex and lengthy process; or
+– hiding the cancellation option for a subscription; or
+– forcing a user to provide payment details or authorization for auto debits for availing a free subscription; or
+– making the instructions related to cancellation of subscription ambiguous, latent, confusing and cumbersome.
+UPI Autopay options seem particularly prone to such dark patterns. After 2021, when the Reserve Bank of India introduced new rules making recurring card payments more difficult, UPI Autopay has offered the simplest process for activating recurring payments for subscriptions—just a phone number and an OTP, and you’re set up. In fact, many services like Amazon Prime and Google One are eliminating one-time payment options entirely and offering only automatic renewals. On many apps, UPI Autopay is the only payment mode that shows up.
+But this ease isn’t very apparent when customers initiate cancellations. Among the apps attracting complaints from users for such practices (see screenshots above) are pretty popular ones like Kuku FM, Goodscore, Stage, and Seekho, all of which boast users in the millions.
+According to the founder of Seekho, Rohit Choudhary, 100% of their subscribers use UPI Autopay, which the app has adopted as its only payment mode for subscriptions. And 95% of Kuku FM users have set up UPI Autopay, says co-founder Lal Chand Bisu, who adds that it’s the primary payment option because of “a conscious decision based on how digital payments and recurring billing have evolved in India”.
+The process to start a trial with UPI Autopay is very simple. Download the app, enter your phone number, verify by OTP, and start a trial by paying Rs 1 or 2. Even at this stage, some say that they don’t realise that they are setting up recurring payments.
+But even if we believe such aggrieved users should have paid proper attention, things aren’t so easy to shrug off when it comes to cancellations.
+In many cases, users trying to cancel Autopay find the process way more complicated than when they signed up, or worse, entirely ineffective, as my colleagues and I found out recently.
+Take the Kuku FM app, which has a nice big button with red font saying ‘Cancel Subscription’. When we clicked that button, we were redirected to a page that makes it apparent the subscription has been cancelled. But when we checked on the UPI app, we found that the Autopay subscription was still active. Asking the customer care chatbot only resulted in another five-step process, which, after it failed, resulted in a direction to call customer care on the phone.
+Screenshots with timestamps here:
+This was true for the other three apps mentioned above, too.
+According to a software engineer working in the sector who did not want to be named, this happens because when a user cancels a subscription through an app, the app is supposed to notify payment gateways (like Razorpay) to stop the automatic deductions. Some platforms, they said, simply don’t follow through on this crucial step. Or make the process to get there difficult for users.
+When asked why some users have charges deducted even after cancelling their subscription, Kuku FM’s Lal Chand Bisu said they were “aware of this problem and actively listen to our customers when they share this feedback with us. This forms a very small pool of our overall customer base.”
+Seekho’s Choudhary, for his part, said: “Users who cancel their subscription through the app or support are never charged again, as we do not trigger any further payment requests. However, in rare instances, users may have re-initiated a subscription unknowingly. Our support team actively monitors such situations and resolves them promptly, including issuing refunds when necessary.”
+Choudhary also said that they are “fundamentally against dark patterns and that users can cancel effortlessly.”
+Goodscore and Stage did not respond to The Ken’s queries.
+In 2023, the Department of Consumer Affairs released guidelines aimed at regulating dark patterns. But Pranav Bidare, a researcher at the Centre for Internet and Society, says that regulation is still catching up.
+Until then, though, the most effective solution for users is vigilance and proactive management. Regularly check your UPI apps for active autopay mandates, even for services you believe you’ve cancelled. Consider using only one app for Autopay to better track subscriptions. Maybe even maintain two bank accounts—one for serious investments and savings, and another for expenses. Bidare says one should never use their primary bank account for digital payments.
+Perhaps most importantly, pay attention to SMS notifications from your bank, which is supposed to send you alerts for upcoming deductions.
+Companies also claim to send such SMS notifications 24 hours before the transaction. “Users receive alerts one day before payment deduction per NPCI guidelines, and the UPI Autopay mandate screen clearly indicates it’s a recurring transaction,” says Choudhary. “For complete transparency, we send reminders before subscription expiry and clearly display subscription start and end dates in the app.”
+But none of that, of course, really helps with actually cancelling subscriptions on many apps right now. That remains, if you believe one Reddit review: “like finding an exit in a maze where they keep moving the walls.”
+Have you come across dark patterns too? Write to [kaching@the-ken.com](mailto:kaching@the-ken.com) and let me know, or leave a comment on our website or app.
+We’ll see you again next Thursday.
+Regards,
+Pranathi
+Survey: How do employees use AI at work?Unlike other technologies, employees across all roles and levels are exploring the use of AI. As companies urge their workforces to be AI-literate, how are employees taking to it? What kind of a workplace does this result in? Take the survey and let us know. It’s fully anonymous, and your responses will help us with a story we’re working on. |

@@ -1,0 +1,10 @@
+---
+subject: "How Much Tax Do US Billionaires Pay?"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2025-08-26 05:10:53
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+We estimate income and taxes for the wealthiest group of US households by matching Forbes 400 data to the individual, business, estate, and gift tax returns of the corresponding group in 2010–2020. In our benchmark estimate, the total effective tax rate—all taxes paid relative to economic income—of the top 0.0002% (approximately the “top 400”) averaged 24% in 2018–2020 compared with 30% for the full population and 45% for top labor income earners. This lower total effective tax rate on the wealthiest is substantially driven by low taxable individual income relative to economic income. First, the C-corporations owned by the wealthiest distributed relatively little in dividends, limiting their individual income tax unless they sell their stocks. Second, top-owned passthrough businesses reported negative taxable income on average in spite of positive book income, further limiting their individual income tax. The top-400 effective tax rate fell from 30% in 2010–2017 to 24% in 2018–2020, explained both by a smaller share of business income being taxed and by that income being subject to lower tax rates. Estate and gift taxes contributed relatively little to their effective tax rate. Top-400 decedents paid 0.8% of their wealth in estate tax when married and 7% when single. Annual charitable contributions equalled 0.6% of wealth and 11% of economic income in 2018–20.
+That is from [a new NBER working paper](http://marginalrevolution.com?action=user_content_redirect&uuid=2673194abd618d345d24975a1196d035b15b5806d79d921442d73173dbcd578b&blog_id=42693868&post_id=91364&user_id=262258391&subs_id=225460721&signature=0ec40caf8b0ea2b3fa7c66eb0f05972f&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly93d3cubmJlci5vcmcvcGFwZXJzL3czNDE3MA=&email_id=6614d77da9295cdbfaec3d798ce802c5) by

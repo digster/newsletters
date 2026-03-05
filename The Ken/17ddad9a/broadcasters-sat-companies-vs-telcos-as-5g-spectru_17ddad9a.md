@@ -1,0 +1,25 @@
+---
+subject: "Broadcasters, sat companies vs telcos, as 5G spectrum allocation hits new snag"
+from: "The Ken <info@the-ken.com>"
+to: ""
+date: 2021-12-21 02:37:17
+labels: ["CATEGORY_PERSONAL", "INBOX", "The Ken", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_8244464457792971031", "UNREAD"]
+---
+Good Morning Ishan,
+For a technology whose USP is greater speed, it is ironic that India's transition to 5G telecom networks has been a slow crawl, with delays at every turn.
+The country's 5G trials, which were meant to end in November, were extended by a further six months.
+The government has also repeatedly pushed back its deadline to conduct 5G spectrum auctions. Its latest estimate is that the auctions could be held by July. Lending credence to this is the fact that Trai, India's telecom regulator, has finally released its consultation paper for stakeholder inputs. Questions about spectrum pricing will, at least, be put to rest once Trai submits its recommendations to the Department of Telecom, which will take a final call on the matter.
+But before India can allocate spectrum to telcos, it has another problem to solve. Various blocks of spectrum that are under consideration for 5G use are currently in use for defence applications, disaster communications, satellite services, and broadcasting. The various entities occupying this spectrum must be moved to different frequencies.
+Migrating up or down the spectrum chain, however, is not cheap or straightforward. In the case of defence agencies, procurement of new tech could take up to a year. For broadcasters and satellite operators, the migration could cost as much as $10 million. And even as they find themselves footing a hefty bill, they also believe that this migration is, at least in part, due to the telecom lobby's desire to hoard spectrum.
+It's a nebulous problem, and as Pratap writes in today's story, it would be a miracle if the auctions happen in 2022. Read the full story here: [https://the-ken.com/story/satellite-operators-and-broadcasters-vs-telcos-as-indias-5g-spectrum-saga-hits-new-snag/](https://the-ken.com/story/satellite-operators-and-broadcasters-vs-telcos-as-indias-5g-spectrum-saga-hits-new-snag/?utm_source=daily_story&utm_medium=email&utm_campaign=daily_newsletter) (8-minute read)
+Regards,
+Ranjan Crasta
+[ranjan@the-ken.com](mailto:ranjan@the-ken.com)
+|
+What you just read is the personalised daily introduction to The Ken's story. Written by a different person each day. Often insightful, sometimes witty, and very rarely boring. Someone sent this to you? [Sign up for free](https://the-ken.com/sea/?modal=register&utm_source=footer&utm_medium=email&utm_campaign=sea_morning_email). Don't like these? You can [unsubscribe](https://link.the-ken.com/asm/unsubscribe/?user_id=2349339&data=dphAJkWFLVLofF0OEEuc0hKmLaYx7s-9h8LAeznVAhdWx6-pECMdygwKI506_7xCZHKHlPA0Hsm7JN-N-LyXDZDl5jXu_MCi4aKl9I1OkdpaReGQ3t04UjpYIozU9nHcX5xIqZqDFVQ_ctYmD9-m7tirfIDsw2GzmuVX6fDvJpg0hKU_orB9bbiAj9qTf6cyLuzlNChDlGiSRECX1g8f7kmpCOp9HGWqacQmslPSg1IfiNf1IQyGVuuuMX8PIkeUgTjrQuGr8BQqXB8l4JLIXr_7Du-VK2Ipslv7ffzT-XKUZ7B0cDEnk6my4R3dO-YLlm_-pDWnNk3pRh5nR-qR0rLcpijKvXao6v0zMXS8wf25sjcSODmWx_CLZfNNsva8GxRixCjXbOp3jcSAV0dSqEBtM6w6OWIZvYJlDXwgMqIhJ7bg8gEBQO_hXK8AmBCFDigm1uv57J5EjCccR_AlhA5nf7aTj5dHRdCxkwYwiYQOFTtgkIxMJv2mZNOlKKwTF53LQRqSte_b5CfTgc1uVWhddfBfMK8bRLX0KIHTEo8=). Want to manage your emails? Click [here](https://link.the-ken.com/asm/?user_id=2349339&data=_yLXh9TiZjFwsHdxq2ZJmZpy55Ukztl_M6QGZ61v4V7Rh6jZ7SoeMPEEGFrW4ir2_T097zfr1aVgFKGIOc8QFnAMRV6ywK-9Pg8Hn0ZLXiQMwHFb9IiL7OLkdQu3EYmpKAS6ssRDI3wT-J44DFfvHspcO6CE_XT02jxaCyI2XLsqg7QUGzHYBHjYD19L29UlYzkAAP2pdvU4OC319aKlhjOhAhk_tzeUKkWTij0kb_CS9SNaGR3e_0Y6z3Mlk6Nb7p04payX4fkJrMUNQ4RZjZi421HIfZkQpSAPofzsl9phGLLfeZ9YZsCy2j6F4FCnSWCwcMbyj0LMeyxa2rXAT5OGwWSvym1pm3SZV0uXb-7JuB5xEM1SwjrEO76xKjIfBB3gHVaSdxslB8ALF_o-UkI32AIwf7kLScD8b0r8EsrGvn2ga0inSADKL8fXbyPRJ0H9mihIXW1CfKgOuB3dJSZSnvKw7INrFeSv1IOVdk5aSMiZ61jmtA009tg0i6d_gKBpGm8zpPzWfpK5J93Hjw==).
+|
+|
+|
+|
+|

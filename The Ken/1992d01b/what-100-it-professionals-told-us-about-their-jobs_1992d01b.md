@@ -1,0 +1,49 @@
+---
+subject: "What 100+ IT professionals told us about their jobs, KPIs, and uncertainty"
+from: "The Ken <info@the-ken.com>"
+to: ""
+date: 2025-09-09 05:45:08
+labels: ["CATEGORY_PERSONAL", "INBOX", "The Ken"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_8244464457792971031"]
+---
+|
+|
+90,000 Hours
+Tue, 09 Sep 25
+Stories about the future of work and how we stay relevant through it all.
+Good Morning Ishan,
+A couple of weeks ago, I was speaking to Rituparna Chakraborty, partner at True Search India and co-founder of recruitment firm Teamlease. We were recording a short segment for an earlier episode of The Ken’s 90,000 Hours podcast, which by the way is four episodes in and officially two months old!
+Once we wrapped up our 30-minute interview, I hit pause on the platform we record on, and promptly did what most reporters do: I used the last few moments of a conversation to see if there was a germ of an idea for another story.
+“So, Rituparna, the TCS [layoffs](https://www.hindustantimes.com/business/tcs-lay-off-over-12-000-employees-in-major-2-workforce-cut-101753614826005.html),” I said, admittedly with zero chill. “Cutting 12,000 jobs seems like a pretty drastic step. What’s going on there?”
+She told me India’s $280 billion IT services industry is at an inflection point, and that there was a bigger story unfolding. Between artificial intelligence, geopolitical shifts, and client budgets being redirected, the sector is caught in what Nitish Mittal, a partner at global research firm Everest Group, described to me separately as a “perfect storm”.
+Rituparna said that the layoffs were an early indicator of a massive reset for the industry. Then, she added a comment that stuck with me:
+That line sent me down a rabbit hole. Rituparna’s comment was about the industry’s decades-old pyramid model, where IT companies would hire many, many, many software engineers. As you moved up in the organisation, each layer had fewer people; eventually, some of those employees became managers, and they continued to work their way up the corporate ladder.
+India’s IT sector was once the country’s most reliable employer, one that people aspired to join and where they built their careers over decades. But that last part is becoming less true.
+I wanted to understand how those changes were being felt on the ground, so I released a survey. More than 100 of you—across roles, functions, and levels of experience—sent in answers, providing a gamut of perspectives. Over 44% of those who wrote in had more than 11 years of experience in the industry, and around 40% had less than five. Aside from software engineers, I also heard from business analysts, consultants, project managers, and a handful of CXOs.
+They told me about shifting KPIs, looming redundancies, and the unease of watching old models of work fade away.
+The survey gave me the opportunity to speak to founders, industry veterans, analysts, and leaders who know how companies and employees will have to reskill. You can hear snippets of those conversations in the [latest episode](https://podcasts.apple.com/in/podcast/90-000-hours/id1826777519?i=1000724407593) of 90,000 Hours.
+But today, I want to zero in on the experience of the IT sector’s employees.
+When TCS announced its cuts, CEO K Krithivasan described the decision as a tough but strategic part of a larger plan for the company to become “future-ready.” But rather than parse corporate memos, I wanted to know how those decisions landed with people actually in the sector. Why did they think their companies were letting people go?
+Apart from automation making some roles redundant, or even the occasional finger pointed at over-hiring, quite a few of the survey’s respondents highlighted a quieter shift: bench policies.
+For the uninitiated, the “bench” in IT services refers to employees who aren’t currently assigned to a project but are still on the payroll. Conventionally, benches have acted as a buffer, giving companies the flexibility to execute quickly when new projects come in. But as budgets tighten and client demands start to shift, being on the bench now feels riskier than ever.
+Some of the most telling responses I received were personal accounts of layoffs. A product manager with 15+ years of experience, laid off from an IT services firm last year, told me: “Regardless of tech-driven change, one thing remains unchanged—hard skills help you land the job, but soft skills help you keep it and grow.”
+A software engineer with 11+ years of experience, who watched less than 5% of his colleagues get laid off, put it differently: “It depended on an individual’s current salary versus their impact as a contributor to the team. For example, some directors and senior managers were laid off, as well as individuals in manual QA (quality assurance) roles.”
+I asked Krishnakumar Natarajan, co-founder and former CEO of IT services firm Mindtree, what the recent spate of layoffs and restructuring in IT really indicates. He pointed me to the “small print”—it wasn’t random attrition. It was middle and senior managers who were being cut. For years, these managers existed to monitor transactions, track project progress, and step in when something went wrong. But as Krishnakumar put it, much of that is now being taken over by AI-powered tools.
+Increasingly, Krishnakumar told me, IT firms need people who can consult with customers—helping them understand their data, select and train AI models, and ensure outputs are business-focused and reliable. The silver lining in all of this, as Krishnakumar sees it, is that this evolution won’t shrink the sector’s opportunity, it could actually expand the addressable market for Indian IT.
+That also explains why the money is still rolling in for many firms. TCS, for instance, has signed several major deals for AI implementation in recent months. Infosys and Wipro have each landed multi-billion-dollar projects too.
+But look beyond the headlines, and the picture isn’t as rosy. Industry-wide growth has been stuck in the low single digits for the past two years. AI might be the convenient culprit, but other forces are at work too: economic uncertainty, budget freezes, and intensifying competition from global capability centres.
+For employees, the ripple effects are already visible. Most of the professionals who took our survey said their KPIs had shifted in the last 12 months. There’s no surprise what’s driving it: AI. Whether you’re an engineer, UX designer, consultant, or analyst, using AI in your work is now non-negotiable. The new mandate is clear—deliver faster, make fewer mistakes, and above all, move at speed. Time has become the ultimate KPI.
+One senior programme manager with over 15 years of experience told me that productivity has been the name of the game this year. His KPIs were reset at the start of 2025: 75% fewer bugs in new feature releases, and 25% more features shipped from the roadmap.
+So far, his team has reached 60% coverage, cut bugs by nearly half, and exceeded roadmap delivery by 5%. All this, he emphasised, came without new hiring or added pressure. The gains were driven purely by productivity improvements.
+Meanwhile, a mid-career software development lead at a US-based firm said the changes haven’t been quite as straightforward. Like the senior programme manager, he was expected to deliver faster and with fewer bugs. But on top of that, he was also asked to pick up AI/ML skills. The KPIs themselves felt achievable, he said, but only if he worked “beyond normal office hours”.
+Many respondents told me that they are keeping up with these changes by taking matters into their own hands. Nearly 80% said their choice was to opt for formal training programmes to upskill, tinker with new tools, and build competencies that will be useful in the future.
+Interestingly, there was an even split on whether employers were providing structured training. Support included access to online platforms such as Udemy, Coursera, edX, and O’Reilly; cloud and AI certifications on AWS, Azure, and Databricks; and short courses on generative AI, leadership, and basic MBA-style training.
+But has that made a difference for employees?
+Krishnakumar believes that many find such training underwhelming or irrelevant.
+That perspective was echoed by a mid-career software engineer who took the survey. “Upskilling and training programmes have been around forever. But personally, I have found them kind of useless,” he told me. “You can find much higher-quality content on Youtube.”
+Reskilling today, Krishnakumar said, can’t just be teaching thousands of people the basics of the next hot programming language. It has to be contextual, hands-on, and deeply experiential.
+That feels like the crux of this moment for Indian IT. The sector isn’t disappearing, but it is reorganising around new skills, new structures, and new expectations. And for the millions who make up its workforce, the challenge now is less about survival and more about speed: how quickly you can adapt to a future that looks very different from the past.
+I dig deeper into these shifts in the latest episode of 90,000 Hours. You’ll hear directly from actual stakeholders in India’s IT sector. You can listen to it [here](https://the-ken.com/podcasts/90000-hours/indian-it-faces-its-ultimate-reckoning-heres-how-founders-and-veterans-are-rethinking-the-playbook/).
+Until next week,
+Rahel
+P.S. If there’s a quirky, surprising, or puzzling situation you’ve noticed at your workplace—say, why everyone seems to be drinking the same brand of coffee, or what exactly an executive coach does (and whether you really need one)—I’d love to dig into it and find out more. Reach out to me at [rahel@the-ken.com](mailto:rahel@the-ken.com).

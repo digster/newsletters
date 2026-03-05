@@ -1,0 +1,13 @@
+---
+subject: "Foodtech’s sweet December"
+from: "The Ken <info@the-ken.com>"
+to: ""
+date: 2018-02-08 02:35:37
+labels: ["CATEGORY_PERSONAL", "INBOX", "The Ken", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_8244464457792971031", "UNREAD"]
+---
+Good Morning Ishan,
+I’ve been meaning to talk about this. How is your reading coming along? And I don’t mean books. I mean stories, news, keeping yourself abreast of what’s happening in our world. Me? I am seriously trying hard. My day of reading, whenever a story I’ve written goes out, that routine kind of got lost and I’m trying to get back to it. Man, there’s some incredible amount of good journalism going around right now; it is great to be around that. Well, of course, we are also trying at The Ken.
+Okay, on to today’s piece. I know it's called Sweet December, and that month went by a while back but I guess we need to stop and look back again. Here’s what happened in December. Zomato turned into a unicorn, with Alibaba’s $200 million finally landing. Foodpanda was bought by Ola in December for about $32 million. Ola’s CEO Bhavish Aggarwal pledged to invest $200 million into one of the oldest restaurant aggregators. Swiggy acqui-hired a cloud kitchen, 48East, strengthening its supply. Hot, up-and-coming cloud kitchen startup, Freshmenu, opened a restaurant at Bengaluru airport and flexed its muscles. It’s almost like all of the action in food tech was sandwiched in the last 15 days of 2017.
+Not new this bit, but Patanjali and I were like, wow, action! What’s at the bottom of it? Has foodtech become awesome again? What has really changed on the ground? If not then, is it just the millions talking, and is December just coincidental? So, you know, you go through all these strands, and we were like yeah, let’s look at this. It is a quick read because this will help you take stock of this sector, so go ahead. Here: [https://the-ken.com/sweet-](http://link.the-ken.com/wf/click?upn=HQSq6eeRV1xAVaGuFOahuH8m5-2FNxb7qW7b7449HzrNzYnxB2FJ-2FuVi5VE2CUgxH3ky4qVXqMjL-2F48doSd2kmuPGSF7rtzhL5fy5Il1sJbkv36h9JKxy1uCignqDOlLcmuupSmsy8ziFw-2BtumscO4pLNnRlNuhUJIEXKcIB1e3t-2BDiSFqJBZYMoG4tTlrya0VREeeYUMeDOJozonFHfcrbX-2B09aGMzHQsV-2B-2B5bU08twZAGBP-2FnBAKI16K9impXglF_S4jLOsNx-2Fv6Jev2nvow8b7P9pBCWGd8KNZfb200gkZLQNlXQHio0noZzXtsWoloZmPWeyZsh7a4QCV9ufwCUKi00jlBT0uEdvwYDMuVuqcNo0mPmilJvw5CI8AlyM9jphJOuUSOd2mmdXJ5VOH7TsAq4w22UNmuUB8vVorlP7E9mKwgCvZUPOGN-2FXY1v60gfERzdBFcjceNKeW11C3DfhGhNyajdANu8-2BJuTYUrReCVfkMJOkWOXFfwSr6UIp63rBDBVUT9MuZ76OrUgQrHwoULeYV1eA5TBhoG7v2ut1wXwdtT954FMZfGjMSbckJKOsZNfAri0sHFsJqYVyzeZrYWWflc7iEr9vbIuCKIH4geTbnyHd7R-2Bp4rZlljplsaj-2FUptm13sTCjIBVK4OO26LYiVRQOsu4K-2BJOC-2BgxwbScQ-3D) december-foodtech/
+This email was sent by: The Ken

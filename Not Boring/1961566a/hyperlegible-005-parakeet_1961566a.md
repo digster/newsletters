@@ -1,0 +1,38 @@
+---
+subject: "Hyperlegible 005: Parakeet"
+from: "Not Boring <notboring@substack.com>"
+to: ""
+date: 2025-04-08 12:33:04
+labels: ["CATEGORY_PERSONAL", "INBOX", "Not Boring", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2982495070691762429", "UNREAD"]
+---
+Hi friends 👋,
+Happy Tuesday! I have been excited to send this episode to you since the pseudonymous writer, Parakeet, responded to the message I sent her immediately after reading her weird and wonderful essay, [Skittle Factory Dementia Monkey Titty Monetization](https://substack.com/redirect/55b53be8-6bf9-4654-949b-408874c6d0c8?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o).
+I’m implementing a new method for improving my productivity and it’s ruining my life, my sleep, my peace of mind, everything…
+12 days ago · 232 likes · 44 comments · Parakeet
+I first heard about Parakeet a couple weeks ago when I saw half of my Twitter feed and half of my Substack Notes feed sharing her essay, including a bunch of people I wouldn't expect to share an essay with "Monkey Titty" in the title. [Graham Duncan](https://substack.com/redirect/cf3a83d3-5dbb-4409-b0ef-cc14dd530a96?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) via [Nabeel Qureshi](https://substack.com/redirect/622815c4-9d8a-430e-ae89-06e431ed4679?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) is about as well-recommended as something can come in my book.
+I read it immediately, and understood why. Parakeet describes universally applicable ideas with the color turned up to 11.
+I’m biased, but I think our conversation was even more fun than the essay. Here’s one tidbit that I think captures the vibe well:
+Good writing comes to life when I think like you just describe the truth as simply and as clearly as possible. And I think like the truth is always beautiful, the truth is always like the most alive thing that you can put in like an artistic work. Okay, the Monkey Titties guy.
+This Parakeet contains multitudes.
+Because Parakeet is pseudonymous, we animated her portion of the video with an illustrated version of the [Hellenistic Mosaic of the Alexandrine Parakeet from Pergamon](https://substack.com/redirect/f08d40ac-3833-42db-8145-0d4df87c8e89?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) using GPT images and Hedra. HUGE thanks to our editor, Jim Portela, for making it happen.
+In our DMs, Parakeet explained why she asked for this particular bird:
+I love the Alexandrine Parakeet because Alexander the Great saw it on a campaign in India and was fascinated by its ability to mimic speech, so he brought it to Greece as a beautiful exotic pet. It is one of the earliest known instances of bringing an exotic Asian species to Europe so it kind of an emblem of cross cultural exchange.
+As for the conversation itself, well… we went wide.
+We explore the "dementia personality" - how our core thought loops shape who we are and might one day define us, whether we choose for them to or not. She shares what she learned working at a dementia facility and explains her Skittle Factory metaphor for personality (and researching Skittle Factories). From the essay:
+A person is like a skittle factory. Your personality is the Rube Goldberg machine clicking and whirring on the assembly floor. The core loop is the fuel powering the factory— your dementia personality. The gas nobody sees but everyone smells. Everyday, reality delivers raw ingredients to your loading dock— conversations, meetings, weather, weird eye contact with strangers— and your factory processes this arbitrary shit into something predictable: your particular flavor of reality. Your skittles.
+We talk about her writing process, gifs, why more people should read George Orwell's [Politics and the English Language](https://substack.com/redirect/c6696393-a569-4283-9e23-f6d30ed383f0?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o), and what she learned from her once-half-paralyzed dance teacher. You’ll hear the bizarre true story behind the "Monkey Titty" portion of the essay title and why Parakeet believes everyone should re-read Atlas Shrugged as an adult.
+Plus, Parakeet reveals her one-simple-trick to publish more often.
+The whole thing was the right mix of thought-provoking, weird, and fun.
+As always, you can find her essay and all of the essays we cover on Hyperlegible at [readwise.io/hyperlegible](https://substack.com/redirect/99bc26e4-6bfc-455e-b73b-6fb9ef4a2692?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o). Thanks to Readwise for supporting the pod.
+If you like watching and listening somewhere other than Substack, you can find the conversation wherever you watch and listen:
+YouTube
+Spotify
+| Skittle Factory Dementia Monkey Titty Monetization with Parakeet (Hyperlegible Packy McCormick Episode |
+Apple Podcasts
+| Skittle Factory Dementia Monkey Titty Monetization with Parakeet (Hyperlegible Not Boring Radio 59:35 |
+If you could spare 15 seconds, like and subscribe while you’re there. The show is starting to grow, and keeping the momentum going is a huge help.
+I hope you enjoy our conversation as much as I did. When you’re done listening, go [subscribe to Parakeet here](https://substack.com/redirect/d918c535-39f0-4933-92b5-026db6ac952f?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o).
+That’s all for today. We’ll be back in your inbox later this week.
+Thanks for listening,
+Packy

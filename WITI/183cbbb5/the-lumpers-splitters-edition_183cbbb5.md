@@ -1,0 +1,19 @@
+---
+subject: "The Lumpers & Splitters Edition"
+from: "\"Why is this interesting?\" <whyisthisinteresting@substack.com>"
+to: ""
+date: 2022-10-12 10:25:54
+labels: ["CATEGORY_PERSONAL", "INBOX", "UNREAD", "WITI"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "UNREAD", "Label_5752899537867939131"]
+---
+|
+|
+Hey everyone, just a reminder that we’ve moved Wednesday’s edition to be subscriber-only. We have some fun ideas for things to do with WITI, but part of that will be about building up our base of subscribers. As part of being a paid subscriber, you now have access to WITI Subscriber’s Discord, [which you should sign up for if you haven’t](https://substack.com/redirect/cd321076-01ea-4e84-9c49-faab3a52acee?r=8o54n) (you’ll need to verify your sub to get access to the channels). Thanks for reading and subscribing! - Noah & Colin
+Noah here. Until recently, the concept of lumpers and splitters—which describes the two most popular approaches to building taxonomies—had somehow eluded me. Lumpers take the tack of trying to categorize by building fewer, larger chunks. Generational categories like Baby Boomers or Millennials and historical periods like the “romantic” are lumpy: they’re big, unwieldy, and imperfect—but they are also simple enough that everyone can understand and work with them.
+The Dewey Decimal system or the [North American Industry Classification System](https://substack.com/redirect/3e201943-88e9-4834-9517-146d5744ced9?r=8o54n) (NAICS) codes are clearly the work of splitters: attempts to build exhaustive taxonomies that adequately represent the place of every possible permutation. (If you want evidence, [download the 958-page NAICS manual from the Census](https://substack.com/redirect/8ecdd27a-11b3-4699-b87d-444baf835291?r=8o54n).) Lumpers think splitters are neurotics, and splitters think lumpers are careless. It’s about as close as you can get to a religious war in the world of taxonomical science.
+Personally, I would describe myself as a reluctant lumper. My natural inclination is towards lumps—likely a function of my time as a strategist and the ways coding and software architecture has rewired my brain—but I also once tried to diagram a marketing strategy in more than three dimensions using a cube of cubes. (It worked exactly as well as it sounds.)
+Why is this interesting?...
+Subscribe to Why is this interesting? to keep reading this post and get 7 days of free access to the full post archives.
+| Subscriber-only posts | |
+| Access to WITI Subscriber Discord | |
+| Knowledge that you're supporting interestingness |

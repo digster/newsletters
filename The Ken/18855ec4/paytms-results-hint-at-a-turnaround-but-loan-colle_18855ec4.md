@@ -1,0 +1,20 @@
+---
+subject: "Paytm’s results hint at a turnaround. But loan-collection hacks drive it"
+from: "The Ken <info@the-ken.com>"
+to: ""
+date: 2023-05-26 02:38:48
+labels: ["CATEGORY_PERSONAL", "INBOX", "The Ken", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_8244464457792971031", "UNREAD"]
+---
+Good Morning Ishan,
+Paytm’s founder, Vijay Shekhar Sharma (often referred to as VSS), is known in the fintech industry to be a man with a near-prophetic, long-term vision.
+In 2017, something must have crossed Sharma’s mind that made him invest in a loan-collection platform despite Paytm not being in the loan-distribution business. Less than a year after demonetisation and Paytm issuing those now famous full-page newspaper ads thanking the Indian Prime Minister for the move, Paytm invested in a loan-collection platform called Creditmate. This is despite the fact that it did not have the regulatory approvals to lend money.
+Paytm acquired Creditmate in 2021. And now, this collection arm is buoying its burgeoning lending business. And the lending business is propping its bottom line and steering the company towards operational profitability.
+Sharma’s fledgling business is doing wonders for Paytm, whose traditional businesses are yet to witness any good news on the financial front. Paytm’s loan distribution has jumped over 2X in 2023 compared to the previous year.
+How did Paytm manage to grow its loan business? What role is its collection business playing in this prolific growth? How is Paytm harnessing its large user base to hard-sell loans to them? What are its plans to tap its lucrative merchant base to push higher-value loans? Has the success of the lending business finally put the company on the path to profitability from now on?
+In today’s story, Gaurav and Arundhati answer all these questions and dig deep to unravel numerous other aspects of the turnaround that seems to have begun at Paytm. Read it here: [https://the-ken.com/story/paytms-results-hint-at-a-turnaround-but-loan-collection-hacks-drive-it/](https://the-ken.com/story/paytms-results-hint-at-a-turnaround-but-loan-collection-hacks-drive-it/?utm_source=daily_story&utm_medium=email&utm_campaign=daily_newsletter) (9-minute read)
+Regards
+Sai Manish
+[saimanish@the-ken.com](mailto:saimanish@the-ken.com)
+What you just read is the personalised daily introduction to The Kens story. Written by a different person each day. Often insightful, sometimes witty, and very rarely boring. Someone sent this to you? [Sign up for free](https://the-ken.com/?modal=register&utm_source=footer&utm_medium=email&utm_campaign=morning_email_ind). [Dont like these? You can unsubscribe](https://link.the-ken.com/asm/unsubscribe/?user_id=2349339&data=jPSXuzbfg4JEmk-jRYIipWLgY0AVgLQ37n4vNyHrA2RoMDAwdTAwMCJzAzfank4jcvRXgmudc66r2rAvZwvihUp6qiVZQxgRmlsZqHbo88sZ_XbXW-U7SvA84DVU6lYQIWvJ2R2OPuFaT0pD2qiOH7eq5b-hJabhnD-gGo4vTzIxOuuOg1Rt9AF8cXlEdh-J_3GJKhxXOhRVi_FEKnwbzyTpma3gCE6GjJcLnCdhtllaKPFZkA4pVNq4LZ3nE2p2h_ZFJkIglj4A50VrdneD0zflXKKXy5YX1tiVDqf1pePadv-ds26G_KMuBvwabvy51X81DA1pI5joxuv49CFDukYt0gyQxs6i2qTIrEiAFzaVo7AKosQFhyLgshWiE4Uw-pfLPO2DE6tZdUwciJKvlmUePNG6P3D_unjV8DGe_noVtG7PJra6kJO-Cz3LUOsvhsPHrFumdK0DFfzodNNkqx5-NysDBa36vVLhZ1C3Xh_efjcaELTF--rHbN6DeGvfRaXr2d25aa2MnyCBV-Vx3NBfR8jgWHQpE3E1Arr2OV3Gdn2SWZYyO2d80NucaSVdStmPrDqL3G0=) Dont want to hear from us again? [ Unsubscribe from our emails here](https://link.the-ken.com/asm/?user_id=2349339&data=jRvZsPsd4iOBlx6fd7I4YdeyjVVHpRJW21tWIdt9OwVoMDAwdTAwMJhttnmqeQ5ePJaP6aTmybnl3w7AKhpdPeYUG6Z4v-w6lPJlg1FpRSk1gk515ncneywcHnm8-_ZSZ_zR7OpypY0zBbNVoaCM6P-nfbrPyC45XL0PKwpbzclEx6v2ZkKdtllq-PQRNkppqvd751k107MGPMiAhtPp7OR24lHkhprwj66lmsm1LY0OVVKIYQ7j1LZl6GKQSlpnJoa2dcK3gel3RnnhWUAS9nRu8KinXNelsK2gLaUzq70MRzC4KSCFXj0AOPsI7OWfUh-2ONp362zZr8pBwd0L45l9fzMsJAqI7h_0VkZhJmBUSY2jFywzUaDU-qnU3VUqj1D3wr6Co_ZVwQPzOUiFlZgjDPNc7VSBOV_78iSJ4NaKrHWM_IsGUjlzWGeNfzB_cB-vba9E16COJ-ShTIy-MPdCoXtFFXM_njugHhp5GYlliTm1wQgYjMR0FAZyU5yxyymQn6mNVk1n6aLPPaKCpjadbM798JX0SNEk8ObUQ-TKepx7LWb42Q==).
+Something wrong? Tell us at [support@the-ken.com](mailto:support@the-ken.com)

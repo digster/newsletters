@@ -1,0 +1,53 @@
+---
+subject: "3 Mind-Expanding Ideas: The Week in Review"
+from: "\"Sahil Bloom's Curiosity Chronicle\" <sahil@sahilbloom.com>"
+to: ""
+date: 2025-08-02 09:02:57
+labels: ["CATEGORY_PERSONAL", "INBOX", "Sahil Bloom", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_1989028747625928812", "UNREAD"]
+---
+3 Ideas You Might Have Missed
+read time 2 minutes
+Welcome to the Curiosity Chronicle Week in Review—a quick roundup of this week's ideas to help you build a high-performing, healthy, and wealthy life.
+Forwarded this email? Join 800,000+ readers [here](https://click.convertkit-mail4.com/5qux9883lpf7hn586p2a6h9kl7l44cnhxk7dx/p8heh9h474xqrobq/aHR0cHM6Ly93d3cuc2FoaWxibG9vbS5jb20vbmV3c2xldHRlcg==).
+Speaking Announcement: I'm finalizing my speaking schedule for the second half of 2025 and early 2026. If your organization would like to have me come speak at an event, please reply to this email with additional information or fill out the form [here](https://click.convertkit-mail4.com/5qux9883lpf7hn586p2a6h9kl7l44cnhxk7dx/x0hph6he7e3qk6b5/aHR0cHM6Ly93d3cuc2FoaWxibG9vbS5jb20vaW5xdWlyaWVz)!
+P.S. My NYT bestselling book is currently on a 50% sale. Order it [here](https://click.convertkit-mail4.com/5qux9883lpf7hn586p2a6h9kl7l44cnhxk7dx/dpheh0he7e5pd9hm/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9ncC9wcm9kdWN0LzA1OTM3MjMxOFg_dGFnPXJhbmRvaG91c2VpbmM3OTg2LTIw)!
+This Week at a Glance:
+- Monday: The Cheshire Cat Principle: How to Create Clarity
+- Wednesday: Sahil’s Monthly Idea Drop: July 2025
+- Friday: The Law of Reversed Effort: Slow Down to Speed Up
+Wisdom Worth Sharing:
+Cheat code for attracting the right people: Be unapologetically yourself. When you edit your personality, you attract relationships that need constant maintenance. Stop filtering who you are to be liked. The right ones will stick. The wrong ones will walk. And that’s a blessing.
+([share to x/twitter!](https://click.convertkit-mail4.com/5qux9883lpf7hn586p2a6h9kl7l44cnhxk7dx/e0hph7h7n74rm8c8/aHR0cHM6Ly90d2l0dGVyLmNvbS9pbnRlbnQvdHdlZXQ_dGV4dD1CZSUyMHVuYXBvbG9nZXRpY2FsbHklMjB5b3Vyc2VsZi4lMjBXaGVuJTIweW91JTIwZWRpdCUyMHlvdXIlMjBwZXJzb25hbGl0eSUyQyUyMHlvdSUyMGF0dHJhY3QlMjByZWxhdGlvbnNoaXBzJTIwdGhhdCUyMG5lZWQlMjBjb25zdGFudCUyMG1haW50ZW5hbmNlLiUyMFN0b3AlMjBmaWx0ZXJpbmclMjB3aG8lMjB5b3UlMjBhcmUlMjB0byUyMGJlJTIwbGlrZWQuJTIwVGhlJTIwcmlnaHQlMjBvbmVzJTIwd2lsbCUyMHN0aWNrLiUyMFRoZSUyMHdyb25nJTIwb25lcyUyMHdpbGwlMjB3YWxrLiUyMEFuZCUyMHRoYXQlRTIlODAlOTlzJTIwYSUyMGJsZXNzaW5nLiUwQSUwQS0lMjAlNDBzYWhpbGJsb29t))
+Monday: The Cheshire Cat Principle: How to Create Clarity
+In Alice’s Adventures in Wonderland, there’s a scene in which Alice reaches a fork in the road and has a simple exchange with the Cheshire Cat:
+“Would you tell me, please, which way I ought to go from here?”
+“That depends a good deal on where you want to get to,” said the Cat.
+“I don’t much care where—” said Alice.
+“Then it doesn’t matter which way you go,” said the Cat.
+It’s a clever exchange, but holds a deep truth:
+If you aren’t clear on where you want to go, any road will take you there.
+([read the full piece here](https://click.convertkit-mail4.com/5qux9883lpf7hn586p2a6h9kl7l44cnhxk7dx/7qh7h8h949zndnbz/aHR0cHM6Ly93d3cuc2FoaWxibG9vbS5jb20vbmV3c2xldHRlci90aGUtY2hlc2hpcmUtY2F0LXByaW5jaXBsZS1ob3ctdG8tY3JlYXRlLWNsYXJpdHk=))
+Wednesday: Sahil’s Monthly Idea Drop: July 2025
+If you read this newsletter, you know that I’m obsessed with interesting ideas. I decided to compile five of the best into a single piece for July. If people enjoy it, this may become a regular monthly drop.
+Here are the five ideas I explored this month:
+- The ability to go dark is a life cheat code
+- Always identify the point of highest leverage
+- AI is driving a rise of Chauffeur Knowledge
+- 90% of success is just avoiding unforced errors
+- It’s probably still early
+What was your favorite?
+([read the full piece here](https://click.convertkit-mail4.com/5qux9883lpf7hn586p2a6h9kl7l44cnhxk7dx/owhkhqhw8woqx0tv/aHR0cHM6Ly93d3cuc2FoaWxibG9vbS5jb20vbmV3c2xldHRlci9zYWhpbHMtbW9udGhseS1pZGVhLWRyb3AtanVseS0yMDI1))
+Friday: The Law of Reversed Effort: Slow Down to Speed Up
+The worst mistakes in life are made when you try to do fast what’s meant to be done slow. Real, durable things take a long time to build.
+Slow is smooth, smooth is fast.
+([read the full piece here](https://click.convertkit-mail4.com/5qux9883lpf7hn586p2a6h9kl7l44cnhxk7dx/z2hghnhedewl5ztp/aHR0cHM6Ly93d3cuc2FoaWxibG9vbS5jb20vbmV3c2xldHRlci90aGUtbGF3LW9mLXJldmVyc2VkLWVmZm9ydC1zbG93LWRvd24tdG8tc3BlZWQtdXA=))
+|
+Match my morning routine with [AG1 Next Gen](https://click.convertkit-mail4.com/5qux9883lpf7hn586p2a6h9kl7l44cnhxk7dx/p8heh9h474xqrvsq/aHR0cHM6Ly9kcmlua2FnMS5jb20vc2FoaWw=)!
+I never recommend a product I don't use myself. I've been using [AG1](https://click.convertkit-mail4.com/5qux9883lpf7hn586p2a6h9kl7l44cnhxk7dx/p8heh9h474xqrvsq/aHR0cHM6Ly9kcmlua2FnMS5jb20vc2FoaWw=) since 2011––and it just got its biggest upgrade yet. The new [AG1 Next Gen](https://click.convertkit-mail4.com/5qux9883lpf7hn586p2a6h9kl7l44cnhxk7dx/p8heh9h474xqrvsq/aHR0cHM6Ly9kcmlua2FnMS5jb20vc2FoaWw=) is backed by four clinical trials and features five clinically studied probiotics, functional mushrooms, and whole food-sourced nutrients to support gut health, immune function, and sustained energy.
+[AG1](https://click.convertkit-mail4.com/5qux9883lpf7hn586p2a6h9kl7l44cnhxk7dx/p8heh9h474xqrvsq/aHR0cHM6Ly9kcmlua2FnMS5jb20vc2FoaWw=) is offering my amazing Curiosity Chronicle subscribers a FREE $76 gift when you sign up. You’ll get a Welcome Kit, a bottle of D3K2 (I take this daily!), and 5 free travel packs in your first box.
+|
+Sahil Bloom
+|
+|
+|

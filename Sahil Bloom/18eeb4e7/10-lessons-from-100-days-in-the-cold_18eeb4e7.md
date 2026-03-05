@@ -1,0 +1,180 @@
+---
+subject: "10 Lessons from 100 Days in the Cold"
+from: "\"Sahil Bloom's Curiosity Chronicle\" <sahil@sahilbloom.com>"
+to: ""
+date: 2024-04-17 09:06:10
+labels: ["CATEGORY_PERSONAL", "INBOX", "Sahil Bloom", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_1989028747625928812", "UNREAD"]
+---
+10 Lessons from 100 Days in the Cold
+read and listen on [sahilbloom.com](https://click.convertkit-mail4.com/xmunommqvkf6hr6zz58sgu03owzll/l2hehmh3w8qlprb6/aHR0cHM6Ly93d3cuc2FoaWxibG9vbS5jb20vbmV3c2xldHRlci8xMC1sZXNzb25zLWZyb20tMTAwLWRheXMtaW4tdGhlLWNvbGQ=)
+read time 9 minutes
+Welcome to The Curiosity Chronicle, a weekly newsletter where I provide actionable ideas to help you build a high-performing, healthy, wealthy life.
+Today at a Glance:
+- I just completed 100 straight days of doing a cold plunge every morning.
+- I pride myself on my consistency and discipline, but this 100 day streak pushed me to a new level. The journey included several frozen rivers, awkward interactions with hotel housekeeping departments, and one hotel requiring a lifeguard to monitor me during the plunge.
+- I learned a lot of important lessons on the journey that have nothing to do with cold plunging (and everything to do with life). This piece shares 10 lessons from 100 days in the cold.
+|
+Register for Craft + Commerce
+ConvertKit’s [Craft + Commerce](https://click.convertkit-mail4.com/xmunommqvkf6hr6zz58sgu03owzll/m2h7h5h8wd23xwum/aHR0cHM6Ly9jb25mZXJlbmNlLmNvbnZlcnRraXQuY29t) conference is happening June 5-8 in Boise, ID – and tickets are going fast
+Join us at this one-of-a-kind creator conference and get ready for three days of keynote talks, workshops, and connection, plus an extra creator-led day of meetups.
+We can’t wait for you to hear from speakers including Ali Abdaal, Codie Sanchez, Bonnie Christine, Jon Youshaei, XayLi Barclay, and so many more. Craft + Commerce is the perfect opportunity to gain valuable insights for your business, connect with people who get what it means to be a creator, and have a blast doing it.
+|
+10 Lessons from 100 Days in the Cold
+On Saturday, I completed 100 straight days of doing a cold plunge every morning.
+I've been a fan of the practice of cold exposure since before it was the health craze that it is today—in 2012, a crazy friend and I waded through icy rivers in Boston as a way to build our mental toughness—but it only became a part of my regular routine in the last few years.
+This specific 100 day streak was different: I started it on my birthday—January 5—with a plan to record a daily long-form video from the cold that I would upload to [YouTube](https://click.convertkit-mail4.com/xmunommqvkf6hr6zz58sgu03owzll/dpheh0h0rldexdam/aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g_dj15NVA2TWhUa1VTOA==).
+The idea was to try to build a new positive habit/skill (video) by attaching it to an existing one (cold plunging).
+If you know me, you know I pride myself on my consistency and discipline. Well, I've been consistent with things in the past, but this 100 day streak pushed me to a new level.
+I got into frozen rivers and lakes, I ordered 10 bags of ice on Uber Eats to a hotel in Miami Beach, I convinced hotel housekeeping in London and India to deliver 30 pounds of ice to my room's bathtub, and I endured one hotel's request that I have a "lifeguard" watch me during the cold plunge for liability reasons.
+I learned a lot of important lessons on this journey that have nothing to do with cold plunging (and everything to do with life).
+Here are 10 lessons from 100 days in the cold...
+Lesson 1: Discipline is about what you do on the days when you feel like crap.
+I have a rule of thumb that you'll feel great on 10% of days, ok on 80% of days, and terrible on 10% of days.
+It's easy to be disciplined and consistent on the 10% when you feel great—and even on the 80% when you feel ok—but it's hard on the 10% when you feel like crap.
+Those are the days when you need to take pride in punching the clock. Those are the days when you need to bring the after into the before. Those are the days when you build an unshakable confidence in yourself.
+Those are the days when you remind yourself that you are a winner.
+Lesson 2: Adaptability is essential (and it's a skill you can build).
+"It is not the strongest of the species that survives, nor the most intelligent. It is the one most adaptable to change." - Charles Darwin
+In Greek mythology, the Hydra is a creature that has multiple heads. When one is cut off, two grow back in its place.
+The best are never broken by the chaos—they train themselves to be prepared for it, to benefit from it.
+Life is chaotic. The only constant is change. If you can embrace that discomfort, you'll win.
+As Mike Tyson famously quipped, "Everyone has a plan until they get punched in the mouth."
+You'll only go as far as your ability to absorb life's punches and pivot on the fly. Place yourself into more uncomfortable situations. Adapt and win.
+Lesson 3: Stop overthinking, just start.
+I had avoided long-form video for years. I rationalized this delay by telling myself that I needed the perfect plan and strategy, that I should wait until I could develop that.
+I was just overthinking it. I was just hiding behind planning to avoid my fear of getting started.
+There's a famous saying: "No plan survives first contact with the enemy."
+Too many get their dopamine from the planning. Too few get their dopamine from the doing.
+Plan a bit, then make first contact with "your enemy" and start improving fast.
+Note: I'm working on a full piece on my strategies to beat overthinking. Coming soon!
+Lesson 4: You're remembered for your actions, not your words.
+I could sit here and write about the merits of discipline and consistency until kingdom come. I could tell you about the importance of adaptability. I could preach the merits of doing hard things.
+But those words would be meaningless without the actions to back them up. Those words would be nothing without the 100 proof points—the receipts.
+The world is filled with "gurus" who will talk the talk, but never walk the walk.
+Beware anyone who tries to sell you some food that they aren't eating themselves.
+Be the person whose actions are always louder than their words.
+Lesson 5: If you want to get better at anything, do it every day.
+There are plenty of ways to get better at something, but the best way is simple:
+Just do the damn thing every single day.
+My [30-for-30 approach](https://click.convertkit-mail4.com/xmunommqvkf6hr6zz58sgu03owzll/e0hph7h058m7z6b8/aHR0cHM6Ly93d3cuc2FoaWxibG9vbS5jb20vbmV3c2xldHRlci9ob3ctdG8tY2hhbmdlLXlvdXItbGlmZS1pbi0zMC1kYXlz):
+- 30 minutes per day
+- 30 straight days
+It's hard to comprehend just how much you will improve by doing something every day. Once you see it, you'll understand.
+Lesson 6: Don't do it the "right" way, do it your way.
+When you start something new, everyone will want to give you advice on the "right" way to do it.
+They will give you their maps for the terrain. Take their maps, but don't rely on them.
+Instead, use them to create your own.
+The right way for you may look very different than the right way for others. Carve your own path into the Earth. You'll find more fulfillment in the journey.
+Lesson 7: We're all in the fight together.
+In each recording, I asked viewers to send me their questions. I would answer one audience question in each recording.
+One powerful realization:
+No matter our differences, the questions we have are universal.
+We may come into this fight with different advantages and disadvantages, different backgrounds and perspectives, different likes and dislikes, but we're all in this together.
+Every single person you encounter is fighting a battle—and it's probably a battle that you understand.
+Live with more empathy and happiness will follow.
+Lesson 8: The second arrow is always within your control.
+There's a Buddhist parable that I love:
+The Buddha once asked his student, "If a person is struck by an arrow, is it painful?"
+The student nodded, yes.
+The Buddha then asked, "If a person is struck by a second arrow, is that even more painful?"
+The student again nodded, yes.
+The Buddha then explained, "In life, we cannot always control the first arrow. However, the second arrow is our reaction to the first. The second arrow is optional."
+The first arrow is the negative event that hits our lives. This is the uncontrollable chaos that we may find ourselves thrown into from time to time.
+The first arrow is impossible to avoid. It hits and it hurts.
+The second arrow is governed by our response to the first—and as the parable teaches us, being struck by the second arrow is entirely within our control.
+No matter what "hard" hits your world, you always have the power to choose your response.
+Lesson 9: Focus on the days and you'll lose sight of the years.
+It's easy to get caught up in the ups and downs of the days and lose sight of the bigger picture.
+Being perpetually zoomed in creates two challenges:
+- Struggle feels bigger than it really is.
+- Growth feels smaller than it really is.
+The 10,000 foot view provides perspective—on the manageable nature of your struggles and the impressive nature of your growth.
+Two effective ways to zoom out:
+- Vertically: Zoom out via "altitude" and see the bigger picture context of the moment.
+- Horizontally: Zoom out via “mental time travel” to the past or the future and observe the present through that new lens. Go back 10 years and think about how your past self would be in awe of where you are today. Go forward 50 years and think about how your future self would give anything to be back doing the things you get to do today.
+Both can work wonders.
+Always remember: When in doubt, zoom out.
+Lesson 10: Do hard things.
+Life is hard.
+When we embrace voluntary struggle, we’re better equipped for the involuntary struggle that inevitably comes.
+So do hard things:
+- Wake up early
+- Get cold
+- Move fast
+- Lift heavy
+- Focus
+- Be present
+- Have difficult conversations
+Follow this simple playbook to live well.
+You Are More
+After 100 days in the cold, I had one simple conclusion:
+You are capable of so much more than you realize.
+The only way to find out is to put yourself out there—way out there, way beyond your current comfort zone.
+That is what I want for all of you. To push far beyond your self-limiting beliefs. To experience the fact that they were all an illusion of the mind.
+Because you are more.
+Sahil's Recommendation Zone
+Perfect your morning routine with my partner[ Athletic Greens](https://click.convertkit-mail4.com/xmunommqvkf6hr6zz58sgu03owzll/x0hph6hwx5kem5h5/aHR0cDovL2RyaW5rYWcxLmNvbS9zYWhpbA==):
+I get asked about my morning routine all the time. It changes from time to time, but [AG1](https://click.convertkit-mail4.com/xmunommqvkf6hr6zz58sgu03owzll/x0hph6hwx5kem5h5/aHR0cDovL2RyaW5rYWcxLmNvbS9zYWhpbA==) has been the one constant since 2011. I drink it with a big glass of water every single morning to start my day on a positive tone.
+It replaced an entire cabinet of supplements for me in one daily scoop—seriously, its latest iteration covers a multivitamin, multi-mineral, prebiotics, probiotics, adaptogens, greens, and more. It keeps me feeling healthy and strong throughout the year, even when I'm traveling (thanks to the travel packs).
+Athletic Greens is offering Curiosity Chronicle subscribers an exclusive deal: [a free 1-year supply of liquid vitamin D plus 5 travel packs with your subscription purchase](https://click.convertkit-mail4.com/xmunommqvkf6hr6zz58sgu03owzll/x0hph6hwx5kem5h5/aHR0cDovL2RyaW5rYWcxLmNvbS9zYWhpbA==). Take advantage of it!
+Sahil Bloom
+|
+|
+Refer Friends, Earn Rewards!
+|
+|
+You're just 1 referral away from unlocking The Most Powerful Decision-Making Razors ebook
+|
+|
+|
+|
+|
+You're just 3 referrals away from unlocking My Favorite Books & Lessons Learned ebook
+|
+|
+|
+|
+|
+You're just 5 referrals away from unlocking 25+ High Impact Ideas on Investing, Growth, and Life ebook
+|
+|
+|
+|
+|
+You're just 10 referrals away from unlocking My Morning & Evening Routines ebook
+|
+|
+|
+|
+|
+You're just 15 referrals away from unlocking the Fortune Favors The Curious T-Shirt
+|
+|
+|
+|
+|
+You're just 25 referrals away from unlocking the Intellectually Curious Hat
+|
+|
+|
+|
+|
+You're just 50 referrals away from unlocking the Fortune Favors The Curious Hoodie
+|
+|
+|
+|
+|
+You're just 250 referrals away from unlocking a 15-Minute One-on-One Call with Sahil
+|
+|
+|
+|
+Share Curiosity Chronicle:
+|
+|
+Your shareable link: https://sparklp.co/36a2a9fb/
+|
+|
+|

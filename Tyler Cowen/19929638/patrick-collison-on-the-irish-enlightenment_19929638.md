@@ -1,0 +1,12 @@
+---
+subject: "Patrick Collison on the Irish Enlightenment"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2025-09-08 12:53:32
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+Most of all, the Irish Enlightenment seems to me an instance of small group theory. I’m fond of the thought that between great man and structuralist theories of history there lies an intermediate position: the small group, a colocated cauldron for iconoclastic thinking, can as a collective pioneer a novel direction. The romantics in Jena, the founders of Silicon Valley, the musicians behind punk. Unsurprisingly, the early Irish thinkers are closely connected. Swift and Berkeley attended the same school and were good friends. Hutcheson and Berkeley debated publicly, while Burke’s work is clearly downstream of Hutcheson’s.
+And this:
+How should we view the movement as a whole? Well, the timing is important: Cantillon published his Essai in 1755, Swift Drapier’s Letters in 1724, and Berkeley The Querist in 1735. It seems to me that, before 1750, the Irish thinkers have a strong claim to leading the world in the field of economics and to having collectively sketched out much of the core of the field in broadly correct terms. In Petty you have economic statistics; in Cantillon you have risk, market pricing, and much else; in Berkeley, you have a theory of national banking plus development economics; in Swift you have proto-monetarism. The claim is not that they figured everything out or were right on all points, but which other school or group could you rank ahead of them? Smith published Wealth of Nations in 1776 and The French physiocrats, who were very important, came later: Quesnay’s first piece wasn’t published until 1756.
+Do read [the whole short essay](http://marginalrevolution.com?action=user_content_redirect&uuid=3d7ee1ecbe5a401224b632e9791ee07621b9e814019c58de089c58a334ee1d50&blog_id=42693868&post_id=91451&user_id=262258391&subs_id=225460721&signature=f3904690b7e5f82f82da0839072a3bb5&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly94LmNvbS9wYXRyaWNrYy9zdGF0dXMvMTk2NTAzMDAyMzg1OTI1MzI1Nw=&email_id=d548542dd6e43f0934a5455d824944cf).

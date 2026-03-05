@@ -1,0 +1,13 @@
+---
+subject: "Why are groceries so expensive in NYC?"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2026-01-16 07:17:26
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+The lowest-hanging fruit is to simply legalize selling groceries in more of the city. The most egregious planning barrier is that grocery stores over 10,000 square feet are
+[not generally allowed as-of-right]in so-called “M” districts, which are the easiest places to find sites large enough to accommodate the large stores that national grocers are used to. Many of these districts are mapped in places that are not what people have in mind when they think “industrial” — mixed-use neighborhoods with lots of housing like stretches of Williamsburg’s Bedford Avenue and almost all of Gowanus, even post-rezoning, are in fact mapped as industrial districts.To open a full-sized grocery store in these areas, a developer must seek a “special permit,” which requires the full City Council to get together and vote for an exception to the rules. This is a long, uncertain process, and has in the past even been an invitation to corruption.
+Most famously, the City Council uses this power to
+[keep out Walmart]at the behest of unions and community groups. Thwarted in its plans to open a store in East New York — a low-income Brooklyn neighborhood that could desperately use more grocery options — the nation’s largest grocer instead serves New Yorkers with a store just beyond the Queens/Nassau line in Valley Stream,[rumored to be]the busiest Walmart in the country. New Yorkers with a car and the willingness to schlep beyond city limits — or pay the Instacart premium — get access to cheaper groceries; the rest get locked out.When politicians are willing to approve a grocery store, the price can be high.
+That is [by Stephen Smith](http://marginalrevolution.com?action=user_content_redirect&uuid=7c2fa8056fbea6c54869538e77ad667d68f514eb3cfc9e64202eae92dd4b406a&blog_id=42693868&post_id=92250&user_id=262258391&subs_id=225460721&signature=7f95a0105c76676cabb21f1abeecec53&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly93d3cudml0YWxjaXR5bnljLm9yZy9hcnRpY2xlcy9ueWMtZ3JvY2VyeS1jb3N0LWV4cGxhaW5lZA=&email_id=b34068f199934ba637c2796ba77e6372), via [Josh Barro](http://marginalrevolution.com?action=user_content_redirect&uuid=058ac8ef47f07d15412fb6dd74f3fe3a24fc85421eae856802bb1fd961662e4f&blog_id=42693868&post_id=92250&user_id=262258391&subs_id=225460721&signature=a916f3b9d3dfd784db09c90e739b56e8&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly94LmNvbS9qYmFycm8&email_id=b34068f199934ba637c2796ba77e6372).

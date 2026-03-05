@@ -1,0 +1,71 @@
+Post       : How a Machine Learns &#8211; Part 2
+URL        : https://janav.wordpress.com/2023/10/15/how-a-machine-learns-part-2/
+Posted     : October 15, 2023 at 6:39 pm
+Author     : Jana Vembunarayanan
+Tags       : LLM, Machine Learning
+Categories : Computer Science, Mathematics, Statistics
+
+I'm truly impressed by how accurately LLMs grasp natural language and consistently provide spot-on answers. Through these posts, I’ll build a toy GPT from scratch using Python and unpack everything that goes inside the LLMs, including the math it uses. This is my third post on my journey to craft a toy GPT. Make sure to read the previous posts ( https://janav.wordpress.com/tag/llm/ )  before this one.
+
+We used height to predict weight. However, weight is influenced by multiple factors, including sex. Although our model incorporates factors like height and sex as independent variables, there might still be unknown variables affecting a person's weight. The model's inability to account for these unobserved factors is captured through a bias term.
+
+I’ve created a simple weight function that accepts height in meters and gender as input and calculates the weight using the formula 45.0 * heights_m + -10.0 * gender + 5.0. The value of -10 for gender indicates that, on average, females weigh 10 kgs less than males of the same height. I've also added a bias term set at a value of 5.0.
+
+I generated weights for 1,000 random heights ranging between 1.5 and 1.9 meters. Of these, 50% are females (represented by '1') and 50% are males (represented by '0'). To introduce variability, I’ve added a random noise of up to 3% to the weight. The scatterplot below illustrates this data.
+
+https://janav.files.wordpress.com/2023/10/image-6.png
+
+Here's what the first 10 rows out of 1,000 look like.
+
+https://janav.files.wordpress.com/2023/10/image-7.png
+
+The objective of the model is to adjust the height_coefficient, sex_coefficient, and the bias_coefficient so that the value for the loss function is close to zero. When does the loss value get close to zero? It happens when the model prediction gets closer to actual value.
+
+https://janav.files.wordpress.com/2023/10/image-8.png
+
+We've learned that by taking the derivative of the loss function with respect to the height_coefficient, we can determine how to adjust the height_coefficient to minimize the loss. However, instead of deriving with respect to just the height_coefficient, we need to take derivatives with respect to all three variables: height_coefficient, sex_coefficient, and bias_coefficient.
+
+This is achieved using partial derivatives; while the term may sound intimidating, the mathematics is quite similar to what we employed for a single derivative. The image below shows how to take a partial derivative on sex_coefficient with respect to the loss function. As an exercise, try deriving it for both the height_coefficient and bias_coefficient.
+
+https://janav.files.wordpress.com/2023/10/image-11.png
+
+The derivatives for height_coefficient and sex_coefficient are remarkably similar. For the height_coefficient, the derivative is 2* loss * height, while for the sex_coefficient, it's 2* loss * sex. The difference lies in their respective input terms: height for the former and sex for the latter.
+
+The derivative for the bias_coefficient is simply 2* loss, which stands out because it lacks the input term found in the other two. To address this, we can assign a value of 1 to the bias and adjust the derivative to2* loss * bias.
+
+Mathematicians appreciate patterns because they can use tools like matrices. With matrices, they can organize and process lots of numbers at once, much like a factory assembly line for math. Check out these links [1 ( https://www.mathsisfun.com/algebra/matrix-introduction.html )  and 2 ( https://www.mathsisfun.com/algebra/matrix-multiplying.html ) ] to grasp matrix basics. Also, this tool ( http://matrixmultiplication.xyz/ )  lets you visually explore matrix multiplication.
+
+I initialized all three coefficients randomly. The height coefficient was set to -0.14, the sex coefficient to 0.65, and the bias coefficient to 0.50. In the image below, I show how the three coefficients are updated in one iteration using the first two rows of the sample.
+
+https://janav.files.wordpress.com/2023/10/image-5.png
+
+With just two lines of Python code, I accomplished the above computation. This underscores the importance of developing the mental models needed to work with n-dimensional data ( https://wesmckinney.com/book/ ) . It also highlights why abstractions such as matrices are incredibly powerful.
+
+I trained the model using all 1,000 samples and executed 100,000 iterations with a learning rate of 0.0001. The model minimized the loss to 6.1, achieving a height coefficient of 36.15, a sex coefficient of -10.07, and a bias coefficient of 20.15.
+
+https://janav.files.wordpress.com/2023/10/image-10.png
+
+It's noteworthy that all three coefficients initially moved in the positive direction. However, the sex coefficient eventually changed direction, resulting in a negative value of -10.07. For a male measuring 1.65 meters in height, the model predicts a weight of 79.79 kgs. For a female of the same height, it predicts a weight of 69.72 kgs, a difference attributed to the sex coefficient.
+
+While the model's coefficients didn't exactly align with those hardcoded into the synthetic function, they were optimized to minimize the loss function. The introduction of noise did create variation. However, I'm uncertain to what extent this noise influenced the discrepancy in coefficient values between the model's estimates and the synthetic function.
+
+Apart from slight modifications for matrix multiplication and transposition, the Python code remains the same as in the previous post.
+
+https://janav.files.wordpress.com/2023/10/image-9.png
+
+Weight is a continuous variable, which means there can be countless values between any two specific weights. For instance, between 69 and 70 kgs, we can have values like 69.1, 69.11, 69.111, and so forth. In contrast, many real-world problems require predictions of specific outcomes.
+
+For example, determining if an email is spam or not has only 2 possible outcomes, making it a discrete variable. The method used to predict such discrete outcomes is called Logistic Regression. A key distinction between linear and logistic regression lies in the selection of the loss function and using the sigmoid function to restrict the output value within a certain range. I'll elaborate on this in my next post.
+
+You don't learn the game of cricket just by memorizing its rules. You begin by playing and learn the rules as you go. It's similar with machine learning. Instead of starting with a heavy math book, you can dive into hands-on projects and pick up the math you need along the way. I’ll end this post with a link to an article that summarizes David Perkin’s Seven Principles of Teaching ( https://www.gse.harvard.edu/ideas/usable-knowledge/09/01/education-bat-seven-principles-educators#:~:text=Perkins%20says%20that%20in%20baseball,%2C%E2%80%9D%20Perkins%20details%20practical%20principles. ) .
+
+Add a comment to this post: https://janav.wordpress.com/2023/10/15/how-a-machine-learns-part-2/#respond
+
+-- 
+
+
+Manage Subscriptions
+https://subscribe.wordpress.com/?key=3ba1653235661837fb9cfafd373444b6&email=ishan.mail%40gmail.com
+
+Unsubscribe:
+https://subscribe.wordpress.com/?key=3ba1653235661837fb9cfafd373444b6&email=ishan.mail%40gmail.com&b=dnsHWG3VFvQfykX50jkr0bZQqFXLaMa6ALJRyku26kcDk34CERceG5dEH1LWycJdhDoY3DWFBi55E0heY_kyv1rB9ZuyHxcoJCL4bHkDZeGNgEc8f5BNKtm5XAmMxMY7-_ihSIfTSv6TphnH9YmPy99KEcrsNFw%3D

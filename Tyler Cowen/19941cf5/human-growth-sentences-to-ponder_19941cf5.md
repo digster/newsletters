@@ -1,0 +1,10 @@
+---
+subject: "Human growth sentences to ponder"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2025-09-13 06:42:09
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+The most striking finding is that males born in the 1960s appear to have had a later or smaller adolescent growth spurt than those born a decade earlier. Combining the NHANES surveys and their precursors, I show that males born in the 1960s were the same height in childhood as those born a decade earlier, but then fell behind and were around half an inch shorter in adolescence. By adulthood, the heights of the two cohorts were nearly identical. These patterns are consistent with the 1960s cohort experiencing a slower growth tempo in adolescence through either a later or smaller adolescent growth spurt, followed by catch-up growth by growing longer into early adulthood (later ”age at final height”). Similar patterns are not evident in the height of females; however, females born in the 1960s experienced menarche (first menstrual period) later than those born a decade earlier.
+That is from [a new paper by Nicholas Reynolds](http://marginalrevolution.com?action=user_content_redirect&uuid=11e8056cecd535aa6ca3e9a6892be502a005d3062f3a244b1255ce1d16491f17&blog_id=42693868&post_id=91449&user_id=262258391&subs_id=225460721&signature=f33d9eaa427c224750303f351c557357&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly9kb2NzLml6YS5vcmcvZHAxODA0Ni5wZGY&email_id=e8dae0a2076df0f27076413ce147d40f). Via the excellent [Samir Varma](http://marginalrevolution.com?action=user_content_redirect&uuid=67ae13b05715a171d4a83a286caa4bf44958bfa60a4dfabdff6f6d21c545697a&blog_id=42693868&post_id=91449&user_id=262258391&subs_id=225460721&signature=38f7e0821b7a0d53c34d401ed0b3ca9d&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly94LmNvbS9zYW1pcnZhcm1h&email_id=e8dae0a2076df0f27076413ce147d40f).

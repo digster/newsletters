@@ -1,0 +1,20 @@
+---
+subject: "A new challenger to VFS’ visa monopoly has big backers and clever hacks"
+from: "The Ken <info@the-ken.com>"
+to: ""
+date: 2024-01-04 02:37:06
+labels: ["CATEGORY_PERSONAL", "INBOX", "The Ken", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_8244464457792971031", "UNREAD"]
+---
+Good Morning Ishan,
+Picking the right problem to solve is half the job done. And on that count, Peak XV-backed startup Atlys has picked itself a whale of a problem to solve—one called VFS Global, the visa-outsourcing giant.
+If you’ve traveled abroad, you’ll know what I’m talking about—customers even call VFS “very frustrating services”. Rs 150 (~$2) for a photocopy, Rs 800 for a courier (~$10), Rs 2,200 (~$26) for form assistance, Rs 350 (~$4) for SMS services, and a long waiting time. So, even as VFS global, in an emailed response to The Ken, insists that it’s “not a monopoly” and that it got here through competitive tenders, it’s got all the signs of being one.
+Atlys, on the other hand, allows travellers to visit its portal and submit applicant photos, passports, and country-specific documents for a clearly mapped-out fee.
+Moreover, Atlys’ timing couldn’t have been better. The Ministry of External Affairs handed out a record 12.5 million passports between January and November 2023.
+VFS, though, is a very hard company to disrupt. It works with 70 governments and handles thousands of visa applications in a day. So it’s admirable that the upstart believes its digital visa processing and visa-arrival prediction is the wedge it needs.
+While the startup has certainly picked a worthy problem to solve, is it a worthy rival? Nuha and Rounak have a juicy story today on how Atlys’ promise stacks up: [https://the-ken.com/story/a-new-challenger-to-vfs-visa-monopoly-has-big-backers-and-clever-hacks/](https://the-ken.com/story/a-new-challenger-to-vfs-visa-monopoly-has-big-backers-and-clever-hacks/?utm_source=daily_story&utm_medium=email&utm_campaign=daily_newsletter) (8-minute read)
+Regards,
+Arundhati
+[arundhati@the-ken.com](mailto:arundhati@the-ken.com)
+What you just read is the personalised daily introduction to The Ken's story. Written by a different person each day. Often insightful, sometimes witty, and very rarely boring. Someone sent this to you? [Sign up for free](https://the-ken.com/?modal=register&utm_source=footer&utm_medium=email&utm_campaign=morning_email_ind). [Dont like these? You can unsubscribe](https://link.the-ken.com/asm/unsubscribe/?user_id=2349339&data=pLSX8yGHjq00riwi8xU_cdWGywWnBkgzyQ3EY_CK69poMDAwdTAwMB-G-7b4rYV3f725moyqMuOFRCXQI9-xaa_PTMScIo3QOhfU_JG37mXtnAxCU8mmGeduwJH2tPgEO7MffRSqzbh2f6uyPriq5YHnbVpa4-LdKBjGbck6U84KruzcJEsd4XpyoMv2RUVyDreKQr0EVAXcOTwq2Ohp1q83Em95r2mFB7FSZa03ljj2T2_9CxgeoqTmMK2N0fhVczbDHASxOFOGAnxMvXU1007mkmkkq7ncXyHRg-ruy-Pl0xcgQs4gDZEl6Jd-KcQQ1zgBKSskILHuB0mB3c2MGoARqG3VF9Pl0g7BtFXft5nfkKtix7m-Ln-mv7WRYLlDZ881eg1P7LxhiDBofZaHN_kX_gFUnQMsKGYyf3cLUOE6jJ9_ZCe8mLk_g4qcOddgdkj3ZFVBNMbj32Un6twcpkE2Om4AuFOMuDGk8qOmb-qLkGKKnqSBJsfhTmTHN2kRH03tMxOJCCE3igJQmM-jLg_XbLZ8Yo62_QXtw0yNmF5ev4WzeP8S29NB8vcqyXYdfSTTKnGus18=) Dont want to hear from us again? [ Unsubscribe from our emails here](https://link.the-ken.com/asm/?user_id=2349339&data=L5V7FG-9wKVwXnshBgyIQYEJsSa5Xa2bYTAcMhkDbiVoMDAwdTAwMFdhjdyAqWBlMw62SBccixnROW4xd5FIhhLpZBH37ovQOYHEpG-rKmEQNluxcRaod1NIL966D9Yv3bFna8HWXjvIeoG9j736rZae2vdDrnJkzGcruc-jIv84RGrbLJeEqtf2TkrBxYE96IaAZMmazFg-uS0ZRHOn2G-UFG0OKFWy6duVywfT0gdL5iyH8RrK4VybqvsXdwCJulGwyQuiVCHPLEY_y9Eqq2p-TWJL7XxhXg3_rIxIUsEJl6uyPN_Nz_6hbtfbyWdvrsyXeMWgaoSbwjizDvqL7BrmPdISdIGou-pXo4yTKhCwsLI3M6kZMraHPXpYOkJCEAPoH1EoJV959DMimyk2Lz_en8njvJosXk_k_hlJRJ7phxeQAa29muJ0C3btqvhcdnBOvTi021tTa2b2ssBZzaX8RxATH-vD7QrXsQ46P_96tTmEQih7Mq_j62YzQwMymsTcSdstjw4-YgYYYpYt6fxQUwWCSo60dMPDh6OT9Vop2u4_JF48Rg==).
+Something wrong? Tell us at [support@the-ken.com](mailto:support@the-ken.com)

@@ -1,0 +1,28 @@
+---
+subject: "Tariff hikes a game of snakes and ladders for India’s telcos"
+from: "The Ken <info@the-ken.com>"
+to: ""
+date: 2020-09-18 02:37:06
+labels: ["CATEGORY_PERSONAL", "INBOX", "The Ken"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_8244464457792971031"]
+---
+Good Morning Ishan,
+In 19th century America, saloons offered free lunches with drinks; alcohol sales subsidised food. Over time, freeloaders grew so large that restaurants found the deal unviable.
+Economists have documented how Chicago became the place where both “free lunches” and “there ain’t no such thing as a free lunch”, or TANSTAAFL, movements started.
+Telecom occupies that place in India. Four years ago, Reliance Jio offered a feast to millions of people—free voice and nearly-free data services. Other telcos followed suit. Mobile data package prices were slashed by 94%, data consumption grew 9X, and India became the poster country for the “timepass economy”, where pursuit of leisure drove internet usage.
+Operators’ earnings from selling data shrank in the same period—1GB of data, which netted them Rs 184.32, now only earns Rs 6.96.
+Today, the three arch rivals in telecom are in consensus about steep tariff hikes. Last year, they trekked to the regulator asking for floor pricing. After three years of free fall, the first raise came in December, and a steeper rise is round the corner.
+In his story today, Pratap reports that at Bharti Airtel and Vodafone Idea, a price hike of 20-25% is imminent. At present, the cheapest 1GB/day plan costs about Rs 198 for 24 days. This may be increased to Rs 250.
+Still, that’s not enough to heal cannon wounds telcos have suffered to offer free lunches and remain competitive. Telcos are contemplating a hike for 2G users, too. Even a puny Rs 20 hike would give Vodafone India (now Vi), with 138 million 2G users, an annual revenue bump of over Rs 3,300 crore.
+Alas, even this is not enough and telcos expect the regulator to intervene. But a government-backed price hike in the current economic environment will be a political self-goal. And an admission that the regulator bungled up two years ago.
+Yet, says Pratap, telco executives are “confident” that floor pricing is on the anvil. On to the story here: [https://the-ken.com/story/tariff-hikes-a-game-of-snakes-and-ladders-for-indias-telcos/](https://the-ken.com/story/tariff-hikes-a-game-of-snakes-and-ladders-for-indias-telcos/?utm_source=dail_story&utm_medium=email&utm_campaign=daily_newsletter) (14-minute read)
+Warmly,
+Seema Singh
+[seema@the-ken.com](mailto:seema@the-ken.com)
+|
+What you just read is the personalised daily introduction to The Ken's story. Written by a different person each day. Often insightful, sometimes witty, and very rarely boring. Someone sent this to you? [Sign up for free](https://the-ken.com/?modal=register&utm_source=footer&utm_medium=email&utm_campaign=in_morning_email). Don't like these? You can [unsubscribe](https://link.the-ken.com/asm/unsubscribe/?user_id=2349339&data=6Yj0PJCsCFHvT5cn9B2ICVzmy13lwnl9DyyDWB2OfbOym2Jh8AoM3nUEtA5cS4bTqPfomIeP7ZkdfBbhe0rT5TCdMd738_i6zwTF7KV4zT_eyVKvUhUG6m_keOEMy9YH_BzOmGWc-o19pinqKQvoTvh53W_-pM05q2c03l-sgtfynb8wXo0951yNYQeT1FSANaXmwr2Bij9o1G-F5QBJX9yjcQm6FKccol-crtL89S6Ny-OujVadvSOHPZV0t1rHFXDH99fYFhPwmwyC5mWLAjXw4R47kEb8F9GTXoUTuveuxHgRbloEjiMnLVjgbLmXUi76Ty-k9iHgm8ke4Bfz2zU34enGBS78y0ej6SyKv7bW76QeAZdh1D5fHBBVAqjT5FdnpkAARHly_0bJn_ogf2xswkE5DXx2-FLuwytkSBYZzuw_TlQUlJD-sORWdEBSgC4_NeYeFf_uMFrf1DuQj0PcrQ3hM_EK2yQnAKqAWx2-a5Z9QZ4TTeigcQcP9rgc6QsepMsfUMje9rrEyijvk45V5sLMbCLRfrAG1LfKm04=). Want to manage your emails? Click [here](https://link.the-ken.com/asm/?user_id=2349339&data=5GwkWcWIV0kxbyrsNt9Ci-rvSNkinGUkloc1xJQkrWaXG5W5-l5J7sbJKs4e62y3O9lELYOiBz5hO61QH0EIoEW8pWRunqF0YP2SsPeIDe9go1Zd_2MibCdc6PmjieJp6WGz55ldWlx3oZDja-_v-nzjUSVkYwjYiBdGGsUa09p10H_m_O8_XS2-avzppHWdTdygfTr-sHiWIrlbh4xon3F8tl8VQdSAf1d2VpDlaaeSSd_sb-7Owff1aSnEnkPlV_m50hKcx3goV1YAjagz56Y7J4kf6MnZzHyhnxqpS7KWy34kzblZQ_VquzdI628Oo3-O4czmJ5cWIW-ahOmUioQWL47rVQ4VTLU6R42fUoaqSpQS7LhvAgJH7GPF4k4jy9nVW9f6Q_f23ng3h7PdyKR46ZAt-TmaGVFjHNCOqI20eGID5jEQ65CAr7m3uFkNMuCRkMVK3gStYJ0Br2mDfAjIBp1ilGbKnrlVvU2qr36JN6nBQFIMLxBQKEn-79WX6KOHSuCp72JosL5GSvyquQ==).
+|
+|
+|
+|
+|

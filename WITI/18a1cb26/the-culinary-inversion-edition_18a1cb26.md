@@ -1,0 +1,11 @@
+---
+subject: "The Culinary Inversion Edition"
+from: "\"Why is this interesting?\" <whyisthisinteresting@substack.com>"
+to: ""
+date: 2023-08-22 10:00:57
+labels: ["CATEGORY_PERSONAL", "INBOX", "UNREAD", "WITI"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "UNREAD", "Label_5752899537867939131"]
+---
+Guan Yang (GY) is a data scientist based in New York. He wrote the epic Guan here. These are two breakfasts I had at KFC in China last year: Why is this interesting? Globally successful fast food chains often supplement their core offerings with localized menu items. There are croissants and baguettes at For dinner, KFC in China adds various rice and noodle dishes, and Macanese egg tarts, to the usual fried chicken and sandwiches. For lunch and dinner, eaters are more adventurous and Chinese are just as likely to crave a juicy burger or chicken thigh as an American is to dig into Sichuanese hot pot. For breakfast, though, we crave the foods we are used to. Unless you are from England, the “full English” is a fun weekend brunch experience, but it is not what you instinctively seek out to start a big day. Chinese consumers are That’s why KFC takes their Chinese breakfast menu to another level, with rice balls, soup dumplings (xiaolongbao), multiple types of congee, I don’t know what it takes to prepare soup dumplings in a fast food kitchen, and they may well be frozen or semi-prepared, but they tasted quite reasonable to me. All this helps explain why KFC is US-based multinational companies like to do a WITI Classifieds: We are experimenting with running some weekly classifieds in WITI. If you’re interested in running an ad, Interpreting the internet for the tasteful reader. Join 23,000+ subscribers who rely on Dirt for their cultural alpha. Quick Links: [Cultural boon or abomination? American-Chinese food arrives in Beijing](https://link.sbstck.com/redirect/237f5eee-9d89-40cc-b909-67cfc77a8d0e?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)[How China’s hottest social media app turned Düsseldorf into a foodie destination](https://link.sbstck.com/redirect/cb2b8a12-b758-4230-964a-309135367e4b?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+— Thanks for reading, Noah (NRB) & Colin (CJN) & Guan (GY) —
+You're currently a free subscriber to |

@@ -1,0 +1,25 @@
+---
+subject: "Exclusive: Palmer Luckey and Meta Make Peace to Make War Together"
+from: "Ashlee Vance from Core Memory  <ashleevance@substack.com>"
+to: ""
+date: 2025-05-29 16:23:03
+labels: ["Ashlee Vance", "CATEGORY_PERSONAL", "INBOX", "UNREAD"]
+label_ids: ["Label_4216359091400734623", "CATEGORY_PERSONAL", "INBOX", "UNREAD"]
+---
+|
+Palmer Luckey has come on the Core Memory podcast today to deliver some full-on shocking news. (And top tips on raising children as well.)
+As you’ll hear on the show, Luckey’s company Anduril has partnered with Meta to create a product for the U.S. military dubbed “Eagle Eye.” At its core, this product is meant to become the sci-fi style military helmet that you see depicted in movies but that does not actually exist in real life. It will have displays that place all kinds of information in front of soldiers’ faces by tapping into virtual and augmented reality technology and data feeds that will be pumped into the device.
+Microsoft once owned the contract to make this type of product for the U.S. Army but had been struggling terribly to deliver anything useful. Anduril took over the $22 billion project [earlier this year](https://substack.com/redirect/c084d3b4-1549-4187-a2ff-3eb5e687086f?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) and will now pair its defense and tech expertise with Meta’s headset and VR/AR expertise to try and give the Army what it desires and modernize the U.S. military in the process. We go into “Eagle Eye,” the technology behind it and how and where it will be made in gory detail on the podcast.
+This is all shocking for a bunch of reasons, but the lead shocker is that Luckey has agreed to work with Meta and Zuck at all.
+Some context.
+In 2014, Facebook acquired Luckey’s Oculus VR for $2 billion. In 2016, Facebook then fired Luckey more or less for being a Republican in public.
+In the runup to the 2016 election, Luckey gave $9,000 to a group that put up a billboard depicting Hillary Clinton’s face – with an extra-large forehead – and the words “Too Big To Jail” underneath the face. This was during the Clinton e-mail controversy and came at a time when much of Silicon Valley had gone apoplectic about the idea of Donald Trump possibly becoming president.
+Once the mainstream press figured out that Luckey had paid for the billboard, it went full hysteria mode and portrayed Luckey as some kind of hate-filled, fascist meme lord set on destroying the moral fabric of, er, politics and possibly the American Way of Life. Facebook decided it could not stomach the PR hit and pushed Luckey out of the company. Lawsuits and much vitriol between the two parties followed.
+For Luckey, the whole incident was well beyond personal. Oculus and VR tech had been his life. Facebook stripped him of his true love, and the press and others turned Luckey into a pariah. The saga is captured wonderfully in Blake Masters’s [The History of the Future](https://substack.com/redirect/d81fce5f-ec26-4262-a137-42ebda0d8431?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) where hindsight allows us to see how something relatively trivial – the billboard – morphed into an absurdist drama acted out by reporters and Facebook executives.
+Luckey also made his feelings on the incident very clear in this [historic performance](https://substack.com/redirect/1d7119c8-2a72-4d65-8ad1-0f82b532ffc7?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) in which he eviscerated professional remora Jason Calacanis.
+But, you know, times change. Zuck and others in Silicon Valley have discovered their inner patriots and want to work on defense tech now. Luckey being buddies with Trump and Republicans is so okay that he can appear in a Meta [press release](https://substack.com/redirect/f14ab63b-9d88-4951-b1f0-91d71d72d11f?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o). Public apologies have [been made](https://substack.com/redirect/8c6b51e7-6f15-4f94-a626-92e86d1ad8a9?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o). And now, perhaps, soldiers can have their fancy helmets.
+We spent two hours chatting with Luckey, and the Anduril/Meta deal is only a fraction of the discussion that also gets into Anduril’s manufacturing expansion, China (of course), AI and a host of other topics.
+For more Core Memory pods, [head here](https://substack.com/redirect/d55b72d9-cbef-42fd-8000-12d1854758eb?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o).
+The episode was made possible by support from [E1 Ventures](https://substack.com/redirect/24959eeb-53c0-4464-9245-01613d8a0438?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o).
+Enjoy!
+Hopefully, you enjoyed this story. If so, please share it and subscribe to Core Memory. We want to do more of this for you and need your help. Thanks!

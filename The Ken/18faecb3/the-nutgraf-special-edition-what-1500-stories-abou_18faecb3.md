@@ -1,0 +1,27 @@
+---
+subject: "The Nutgraf Special Edition: What 1,500 stories about Blinkit, Swiggy, Zepto, and Bigbasket tell us about 10-minute deliveries"
+from: "The Ken <info@the-ken.com>"
+to: ""
+date: 2024-05-25 08:08:21
+labels: ["CATEGORY_PERSONAL", "INBOX", "The Ken", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_8244464457792971031", "UNREAD"]
+---
+Today’s edition of The Nutgraf is a special one.
+Blinkit, Swiggy Instamart, Zepto, and Bigbasket are all locked in a high-stakes, brutal war to take control of India’s fastest growing sector—10-minute deliveries.
+Today, we have a definitive picture of who is winning, and why. We understand how India uses 10-minute delivery apps. We understand why they pick one app over another. We learn why they commit to them, or why they cheat on them, and why they break-up with them.
+And for the first time, we get this answer not from the companies, but from its users.
+Three weeks ago, I ran an experiment with subscribers of The Nutgraf. I assembled a survey with detailed questions about their shopping behaviour on 10-minute delivery apps.
+Over 1,500 subscribers from 35 cities told me why and how they use apps like Blinkit, Swiggy Instamart, Zepto, Bigbasket, Dunzo, and others. They didn’t just click and select options on the survey—they took the time and effort to introspect and write vivid stories. Some of these were quite detailed. A lot of it was personal.
+This understanding is critical because for the first time, we have a picture of why quick-commerce is not just resilient, but thriving in India, while it’s collapsing in other markets. Until now, everyone has tried to solve this mystery from the perspective of the companies themselves—how dark stores work, cost of customer acquisition, category expansion, same store profitability… stuff like that.
+What’s missing is what users of these apps are doing and why they are doing it.
+As longtime readers of this newsletter know by now, I’m practically obsessed with 10-minute deliveries. In fact, for most of 2024, I’ve been writing about the implications of this for companies like Blinkit, Zomato, Swiggy, Zepto, Flipkart, Amazon, and others. And that’s because its rise isn’t just unexpected… it’s been astonishing. Everyone has been taken by surprise by its resilience and it’s started to fundamentally alter our cities, our urban economy, and even our society. Some analysts predict that India will graduate directly from a kirana store country to a quick-commerce one, skipping past the modern retail phase.
+In today’s edition, I write about the strange and complicated relationship that India’s best and savvy consumers have with Blinkit, Swiggy Instamart, Zepto, Bigbasket, and others—as told to us directly by subscribers of The Ken.
+There were several things we found out about the apps themselves. To use a relationship analogy, all the major 10-minute delivery apps resemble partners we’ve met, heard of, or perhaps even experienced first-hand.
+We found out that Swiggy Instamart is good at everything but great at nothing. This is why it’s excellent at maintaining a long-term but low-key relationships with its existing users, but poor at attracting disaffected users from others. On the other hand, Blinkit’s selection makes it irresistible to everyone, who often wade in and out for a quick dalliance, but refuse to commit.
+Then there’s Zepto, which seduces a certain kind of user who is looking for a fling, and then it does a great job of convincing them to become exclusive. Also, Bigbasket is surprisingly dynamic—despite coming in late, it’s positioned itself in a way that plays to its strengths. However, it also has one massive limitation, which it absolutely must overcome.
+Some of what we learnt surprised us.
+We discovered that subscriptions make users more dependent on 10-minute delivery apps, but don’t necessarily make them more loyal. And that exclusivity has an inverse relationship with spending—the users who are faithful to a single app are also the ones who use 10-minute delivery apps less often. And when users decide to stray, they aren’t satisfied with just one more—they are much more likely to use three, or even four options.
+There was fun stuff too.
+We read stories about all the weird, wonderful and bizarre things people use 10-minute grocery delivery apps for—from buying cricket jerseys to attend a watch party, to impressing prospective in-laws by buying earphones for them at short notice. One student from an engineering college wrote in with the most engineering college story—he switched to Zepto from Swiggy because Zepto’s delivery partners deliver all the way to his room and aren’t stopped by security guards at the hostel gate since they don’t wear a company t-shirt.
+There were stories of retreat—like those who’ve moved away from 10-minute delivery apps and gone back to kirana stores.There were stories of surrender—several users explained in detail why they got sucked in, and how they stopped becoming exclusive and started affairs with other apps and why. Also, there were stories of resistance—of subscribers telling us why they’d never use 10-minute delivery apps for certain products.
+Today’s narrative is created using the stories of 1,500 subscribers. It spans nearly ~4000 words and I tell it visually—using over a dozen charts and infographics. Most of these charts are interactive and dynamic, and that’s why I cannot reproduce it all here on email, so you’ll need to read today’s edition on The Ken’s website or on our brand-new mobile apps.

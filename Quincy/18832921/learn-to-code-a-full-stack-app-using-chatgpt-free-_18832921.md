@@ -1,0 +1,34 @@
+---
+subject: "Learn to code a full-stack app using ChatGPT (Free 2-hour course)"
+from: "Quincy Larson <quincy@freecodecamp.org>"
+to: ""
+date: 2023-05-19 05:53:33
+labels: ["CATEGORY_PERSONAL", "INBOX", "Quincy"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_7697778124671848699"]
+---
+Here are this week's five freeCodeCamp resources that are worth your time:
+
+1. Learn how to speed up your software development by making use of ChatGPT. In this freeCodeCamp course, you'll watch an experienced software developer as she builds a full-stack app in just 2 hours, with the help of ChatGPT. Along the way, she'll explain a bit about how Large Language Models like GPT-4 work, so you can better judge the quality of their output. These AI tools are improving quickly. And to harness their full power, you'll want to put in the time to really learn your math, programming, and computer science concepts. (2 hour YouTube course): https://www.freecodecamp.org/news/build-a-full-stack-application-using-chatgpt/
+
+2. Learn to code an iPhone app, Android app, and native desktop app – all with the same codebase. This course will teach you cross-platform development using the powerful Ionic and Capacitor JavaScript libraries. You'll learn about Responsive UI, the Gesture API, Data storage, and more. (3 hour YouTube course): https://www.freecodecamp.org/news/create-native-apps-with-ionic-and-capacitor/
+
+3. You may have heard of "Clean Code" before. It's a collection of coding best practices. You can read this handbook, then bookmark it so you can refer to it when you need to understand key Clean Code concepts. You'll learn about Modularization, The Single Responsibility Principle, Naming Conventions, and more. (Full-length handbook): https://www.freecodecamp.org/news/how-to-write-clean-code/
+
+4. Can you spot the bug? This JavaScript course will teach you about common JavaScript security vulnerabilities and how to fix them. You'll look at code samples from JS, MongoDB, and Docker. Be sure to write me back and let me know how many of these you managed to get right. (30 minute YouTube course): https://www.freecodecamp.org/news/can-you-find-the-bug-javascript-security-vulnerabilities-course/
+
+5. Learn GameDev with... Google Sheets? This tutorial will walk you through coding your own Tic Tac Toe game using Apps Script – right in a spreadsheet. (12 minute read): https://www.freecodecamp.org/news/learn-google-apps-script-basics-by-building-tic-tac-toe/
+
+Each week, the freeCodeCamp community works hard to create these open learning resources. We're proud to be able to share them and help people around the world learn about math, programming, and technology. You can help us continue to do this important work. Become a supporter of our mission: https://www.freecodecamp.org/donate
+
+Quote of the Week: “Debugging is like being the detective in a crime movie where you are also the murderer.” — Filipe Fortes, Software Engineer
+
+Happy coding.
+
+-- Quincy Larson
+
+Teacher at freeCodeCamp.org
+I share useful things on Twitter at https://www.twitter.com/ossia
+
+
+
+If these aren't worth your time, you can turn them off: https://www.freecodecamp.org/ue/eZV2T3gHC7IGcwcpYPG64

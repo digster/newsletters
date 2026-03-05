@@ -1,0 +1,9 @@
+---
+subject: "The Venice Pontoon Bridge Edition"
+from: "\"Why is this interesting?\" <whyisthisinteresting@substack.com>"
+to: ""
+date: 2024-10-03 11:24:57
+labels: ["CATEGORY_PERSONAL", "INBOX", "UNREAD", "WITI"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "UNREAD", "Label_5752899537867939131"]
+---
+The Venice Pontoon Bridge Edition Mark Slavonia (MJS) is an investor, a pilot, and an Mark here. If you’ve visited Venice, you probably learned that the Grand Canal is crossed by four bridges. There’s the modern Calatrava Bridge, the Scalzi Bridge near the train station, the famous Rialto Bridge, and the wooden Accademia. But if you cruise down the Grand Canal on November 21st, you may be surprised to count a fifth bridge. It has appeared almost every year on that date for almost 400 years. Then, after a day or two, it will disappear. Why is this interesting? Things hadn’t changed much by 1900. The modern bridge seems a bit sturdier, erected by the Italian firm The Ponte della Salute isn’t the only temporary bridge erected annually in Venice. The Redentore Bridge is floated in late July to cross to Guidecca, south of the city, allowing for a procession that celebrates the end of a different plague, that of 1575-1577. The Redentore is a longer, lower span that does not cross the Grand Canal. A more recent tradition is the Venice Marathon, held every October since 1986. For the race, a pontoon bridge is assembled across the Grand Canal near the path of the Salute Bridge. This year’s edition of the Wizz Air Venice Marathon will take place on October 27, 2021 and, as of this writing, Invite your friends and earn rewardsIf you enjoy Why is this interesting?, share it with your friends and earn rewards when they subscribe. |

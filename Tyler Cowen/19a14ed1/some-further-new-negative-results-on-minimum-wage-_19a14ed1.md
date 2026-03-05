@@ -1,0 +1,10 @@
+---
+subject: "Some further new negative results on minimum wage hikes"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2025-10-24 06:34:32
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+We study how exposure to scientific research in university laboratories influences students’ pursuit of careers in science. Using administrative data from thousands of research labs linked to student career outcomes and a difference-in-differences design, we show that state minimum wage increases reduce employment of undergraduate research assistants in labs by 7.4%. Undergraduates exposed to these minimum wage increases graduate with 18.1% fewer quarters of lab experience. Using minimum wage changes as an instrumental variable, we estimate that one fewer quarter working in a lab, particularly early in college, reduces the probability of working in the life sciences industry by 2 percentage points and of pursuing doctoral education by 7 percentage points. These effects are attenuated for students supported by the Federal Work-Study program. Our findings highlight how labor market policies can shape the career paths of future scientists and the importance of budget flexibility for principal investigators providing undergraduates with research experience.
+That is from [a new working paper](http://marginalrevolution.com?action=user_content_redirect&uuid=4ab726e42977830b78156c739986994b3b6f342d928ebd52082d62712e1b551d&blog_id=42693868&post_id=91709&user_id=262258391&subs_id=225460721&signature=51a318e3c48f5e204d7b8a73dc1d3197&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly9wYXBlcnMuc3Nybi5jb20vc29sMy9wYXBlcnMuY2ZtP2Fic3RyYWN0X2lkPTU2Mjk0MTA&email_id=240547f902aa0f64624684193c223b38) by Ina Ganguli and Raviv Murciano-Goroff.

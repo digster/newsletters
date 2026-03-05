@@ -1,0 +1,110 @@
+---
+subject: "Inside Stripe’s Engineering Culture - Part 1"
+from: "The Pragmatic Engineer <pragmaticengineer@substack.com>"
+to: ""
+date: 2023-12-12 17:02:09
+labels: ["CATEGORY_PERSONAL", "INBOX", "The Pragmatic Engineer"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_6413324878686416177"]
+---
+👋 Hi, this is Gergely with a 🔒 subscriber-only issue 🔒 of the Pragmatic Engineer Newsletter. In every issue, I cover challenges at Big Tech and startups through the lens of engineering managers and senior engineers.
+|
+Founded in 2009, Stripe is a true startup success story. Since its founding, Stripe has raised $8.7B in funding, was valued at around $50B in March this year, and employs around 7,000 people, including thousands of software engineers.
+In 2022, Stripe processed $817B worth of payments, and more than 100 companies handled $1B or more of payments on the platform. This newsletter uses Stripe for payments, as well as features [like Stripe Climate](https://substack.com/redirect/ba6d8b3c-f71c-46e7-a713-8aec6de635ee?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) – contributing 1% of newsletter revenue to carbon removal.
+Stripe is also famous for its unique culture, and engineering culture. It’s a Silicon Valley company – with a headquarters in San Francisco – but it’s not California-centric; there’s a dual headquarters in Dublin, Ireland. Cofounder Patrick Collison is known for thoughtful writing and essays such as [‘Fast](https://substack.com/redirect/98dac546-f8d0-45d8-91e5-33da3c01c7ab?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o).’ The company was early to embrace Ruby as a programming language, and today it builds and maintains the world’s (probably) largest Ruby codebase – with thoughtful tooling rarely seen elsewhere. In general, Stripe seems to have a successful, considered, and intentional culture.
+But what is the engineering culture like on the inside? To answer this question, I’ve spent the past few months talking with CTO [David Singleton](https://substack.com/redirect/0d2e6ed6-357a-4ae9-8786-da30a83c478d?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) and the Stripe team, meeting David twice – once in-person at Stripe’s Amsterdam office, and when I was in the US, via video.
+In today’s issue, we reveal lots of details about Stripe’s engineering culture that haven’t been shared before. There’s also some helpful takeaways for any startup trying to build a thoughtful engineering culture.
+We cover:
+What is Stripe? Today, it’s more than just a payments processor, even though this is still core to the business.
+Engineering at a glance. Engineering locations, the concept of the ‘remote hub,’ why most engineers are fullstack, and a high-level view of engineering’s structure
+The culture. The importance of Stripe’s operating principles, its dual-track career ladder, internal mobility, and how Stripe does planning.
+Product architects and engineers spending time with customers. Product and customer-centric thinking is not limited to product folks; engineers are also encouraged to put on their “product hat” and talk directly with customers.
+The tech stack. Stripe operates almost certainly the world’s largest Ruby codebase with more than 20M lines of code. The company is investing heavily in Java and Go on the backend, as well as in Machine Learning (ML) and Artificial Intelligence (AI) tools. But there’s no requirement for new joiners to know these languages; engineers can pick them up as they go.
+Engineering processes. Automation is at the core of everything at Stripe. Also: how projects get done, a close look on how code is rolled out gradually to reduce risky changes going wrong, and approaches to oncall.
+This is Part 1 of a two-part series on this topic. In the past we’ve done engineering culture deep dives on [Meta](https://substack.com/redirect/26cb4572-cf4a-4bdb-995c-b55b25f16770?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o), [Amazon](https://substack.com/redirect/8ade2be1-1038-42c1-9bf7-a4e1f276a257?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o), [Linear](https://substack.com/redirect/8d39cd3d-18fe-42be-a6b6-e3fad2ab2655?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o), [Figma](https://substack.com/redirect/0628bc1a-7b4d-4ddd-9aa0-64501bed6a99?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o), [Sourcegraph](https://substack.com/redirect/6de24b4f-218a-4b70-8ba6-61bda733cad3?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) and [Agoda](https://substack.com/redirect/d75b8fe2-28fb-4ffb-964a-1c4cd06d2303?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o), amongst others. [See all deep dives here](https://substack.com/redirect/9a1e7aa9-9230-4b31-ba2d-16bdbba75968?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o).
+The end of this article could be cut off in email clients. [Read the article uninterrupted, online.](https://substack.com/redirect/4683d64e-d29d-425e-9f65-90b748f2bdfe?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+Many people see Stripe as a payments company. However, Stripe sees itself as far more than just that, even though payments are at the core of the business. Stripe defines itself as the “financial infrastructure of the internet” and is a company with four distinct product groups:
+Payments is the core identity of Stripe. Since 2009, Stripe has enabled people and businesses to pay, get paid, and to manage all related issues. For example, invoices, taxes, fraud, terminal readers, and identity verification.
+Connect is a platform that expanded Stripe from being just a payments processor. It allows businesses to integrate payments and financial services into their software and marketplaces. It’s integrated into platforms like Shopify, and also powers GitHub Sponsors. Today, Connect is one of Stripe’s biggest growth areas.
+Stripe’s financial stack includes Stripe [Capital](https://substack.com/redirect/52a36feb-7d69-467b-a5d5-aaad9d3700a3?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) (loans for small businesses and startups,) [Issuing](https://substack.com/redirect/ecc4ca89-68ec-4ad8-bd87-60efdbda3921?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) (virtual and physical credit cards,) and [Treasury](https://substack.com/redirect/9bb4b254-c8ab-495b-9e9a-35ed695d1a29?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) (banking as a service) – which is another expansion away from payment processing. It paves the way for Stripe to take on roles traditionally performed only by banks.
+Revenue and finance automation products (back office) support the running of businesses on top of Stripe. These products include [Reporting](https://substack.com/redirect/83ce674d-5a00-499e-b9e3-7e0f26ff2f38?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) for administering payments, [Billing](https://substack.com/redirect/14771497-ef05-4db0-a8f8-effde246ecac?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) for recurring billing and subscription management, and [Revenue Recognition](https://substack.com/redirect/57485acc-29a9-435b-ba81-c8716e526776?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) for simplifying accounting.
+These four pillars work together, and contribute to business expansion. For example, Stripe Terminal is designed to work alongside other Stripe products, not as a standalone. Platforms like Shopify or Lightspeed use Terminal alongside Connect and Payments to distribute payments hardware to customers. This way, customers can accept payments in-person and online, without stitching together different providers. Most Stripe Terminal hardware is distributed via companies using Connect.
+Stripe employs several thousand software engineers. About 70% work in a hybrid setup with an office, and the remaining 30% work fully remote. Software engineering hub locations are:
+San Francisco (dual HQ)
+Dublin (dual HQ)
+Seattle
+Bangalore
+Singapore
+Smaller engineering offices in major cities like Chicago, London, Berlin and Tokyo.
+[See a full list of offices](https://substack.com/redirect/3ff97317-0c5e-42f9-9b06-f5b7ed79bcf9?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o).Romania. Stripe’s newest office opened in October 2023 in Bucharest.
+The ‘Remote Hub’ is an engineering group of engineers who work fully remotely. It’s a standalone engineering hub, established in 2019 when Stripe had four engineering hubs – San Francisco, Dublin, Seattle and Singapore. The Remote Hub was the fifth such hub, as the company [explained](https://substack.com/redirect/cba74e1c-52b3-436f-af28-b87e575e3050?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) at the time:
+“We are formalizing our Remote engineering hub. It is coequal with our physical hubs, and will benefit from some of our experience in scaling engineering organizations. For example, there will be dedicated engineering teams in the Remote hub that exist in no other hub. (Some individuals report to a team located in a different hub, and we expect this will remain common, but the bulk of high-bandwidth coworker relationships are within-hub.) We also have a remote engineering lead, analogous to the site leads we have for our physical hubs.”
+Full stack engineering is the most common job family. Most Stripe engineers are full stack, building and maintaining:
+Product business logic. This sits on top of the core infrastructure, most commonly on top of the Treasury Network infrastructure, which is the engine for moving money within Stripe
+APIs. Almost everything is exposed as an API
+UI. Often using Sail as a framework.
+It’s easy to understand the preference for fullstack:
+Most engineers build across the backend, on top of opinionated infrastructure
+… and on the frontend, too, also on top of opinionated infrastructure
+… this kind of backend-and-frontend work is commonly called “full stack”.
+Backend or frontend engineering are stated in job listings, to give candidates a steer on where in the full stack a role belongs. However, it’s rare that an engineer does only backend, frontend, or data. It’s much more common for new joiners to take on the work their team needs.
+Specialized engineering roles are aplenty, as at any larger tech company. These involve specialized domain expertise, such as:
+ML engineering: Stripe built a state-of-the-art ML infrastructure team, which builds products like Stripe Radar
+Security: As a FinTech company, security is paramount to Stripe. It has invested heavily in building a world-class security function
+Native mobile: iOS and Android engineers
+… and more: highly specialized disciplines that don’t fit into full stack/backend/frontend buckets
+Stripe operates with a high number of teams, totalling in the hundreds. Larger groups within engineering are:
+Product development. Teams built around major products like Billing, Terminal, Fraud, and others. Large products usually have several engineering teams
+Infrastructure and operations. Building out internal infrastructure and operations tools to enable engineering – and other functions – to be highly productive
+As an example, an engineering infrastructure team builds a system called Global Payments and Treasury Network, which brings money into Stripe, moves it around, and sends it back out. Many product teams build on top of this critical piece of product infrastructure. This setup is pretty similar to how [Uber structures its ‘program’ and ‘platform’ teams](https://substack.com/redirect/fed109eb-a1a5-411a-b909-28822a4dbfa1?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o).
+Stripe’s culture is defined by [operating principles](https://substack.com/redirect/746d547a-62ca-4711-a398-a48c38cd0b80?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o). These are three groups of 5-6 principles that define:
+“How we work”
+“Who we are”
+“And leaders”
+Here are two principles from each group:
+“How we work
+Users first. There’s a weighty obligation to businesses built on Stripe and the customers they serve. Because we’re so critical to our users’ success, we must keep their needs front and center in everything we do.Move with urgency and focus. A bias for action speeds up our learning and delights users. Focus on what matters most, make fast initial progress, and iterate toward the best outcome.
+Who we are
+Curious. We lead with a genuine interest in people, ideas, and the unknown. We work hard to understand other points of view, and prefer investigating to being right.
+Humble. Stripes are humble, not arrogant or complacent, and create an inclusive environment for all. We aren’t wedded to how we currently do things – lots about our current practices will turn out to be wrong.
+And leaders
+Elevate ambitions. Know where your team is headed next year/in 4 years/ 10 years, and develop a compelling vision for that future. Guide your team to redefine what’s possible by expanding what’s reasonable.
+Set the pace and energy. Stripe is intense – we have broad ambitions and serious obligations to our users. Sign your team up for bold goals, articulate a plan to achieve them faster than expected, and focus on making this energizing, rewarding, and fulfilling for your teams.”
+The [operating principles document](https://substack.com/redirect/746d547a-62ca-4711-a398-a48c38cd0b80?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) describes the culture Stripe encourages.
+Does engineering have a slightly different, tweaked set of principles? No; I’m told the principles are universal, and no function has different principles.
+The purpose of the operating principles is to set the culture, and determine ways of working. Stripe has been unusually purposeful about its principles since its early days; which is what I mean when I call Stripe’s culture “thoughtful.”
+As the company has grown, efficient ways of working change. Stripe has iterated its operating principles to drive behavioral change company-wide.
+Product development at Stripe is a team sport encompassing many disciplines, not just engineering. This is another reason why it’s important the operating principles are not just for a couple of functions, but that the whole company lives by them. The principles are intentionally concrete and distilled from the most effective behaviors of successful employees.
+I asked David to summarize these principles. He came up with this:
+Be user-first
+Have a curious mindset
+Be humble and macro-optimistic
+Leaders are expected to be role models, e.g. obsess over talent and elevating ambitions
+David says:
+“The most important operating principle is ‘users first’. This is very true for engineers. In general, I’d say this is the most important principle for everyone at Stripe.
+We need to deeply understand our users and work backwards from their needs. What are they really trying to do? How can we design whatever change we’re working on to build a solution that will be surprisingly great? Someone on the team needs to have talked to (lots of) users and clearly understood their needs, and those needs should be well documented and should be the principles that frame any design we’re working on.”
+The importance of helping others succeed is heavily emphasized company-wide. David explains:
+“When folks don’t feel or act like they have a stake in each other’s success, this can lead to a culture where folks are incentivized to just get requests quickly off their plate without resolution; or to ignore them. We do not want to become like that at Stripe.
+It is a big part of our engineering culture to help unblock a fellow engineer when they reach out for help. This includes helping engineers from another part of Stripe. For example, we encode this directly in code review expectations. And it applies everywhere.
+When this kind of unblocking works well, it creates an energizing feeling; a feeling that we are all working in service of our users with a resolute singularity of purpose.”
+The company has been a long-time champion of remote engineering. The Remote Engineering Hub was established before the pandemic made remote working necessary, not optional. Hiring full-remote engineers also gives Stripe access to a global talent pool.
+The writing-heavy culture of the company is deliberately emphasized. It was a conscious decision to support remote working styles. Serendipitously, Stripe invested early in remote, and its writing-heavy culture worked well during the pandemic.
+The business is experimenting with hybrid models, to make the best use of its offices. Remote staff are a very big part of the culture, with almost a third of employees being remote. Stripe tries to foster a vibrant, collaborative culture between offices and among remote employees.
+Stripe engineering levels start at L1 for an entry-level engineer and go to L7, the equivalent of distinguished engineer at similar workplaces. L3 is the equivalent of senior engineer at most of Big Tech, and L4 tracks to staff engineer.
+Stripe has a dual career-track for software engineers and engineering managers. This means that from L3 level, people have the option to transfer laterally into management – or transfer back to individual contributor (IC) by staying at the same level. Stripe also has a “tech staff” descriptor for higher-level ICs. They and EMs are evaluated by the breadth and depth of their impact, and the definition of impact varies by role and level.
+There have been plenty of examples of people switching career tracks. David tells me many of the most tenured, senior leaders switched between the IC and EM track. We cover more on engineering career paths and the dual track in [Engineering career paths at Big Tech and scaleups](https://substack.com/redirect/73f117c5-089e-44d1-bcfb-1875d7f77601?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o).
+“Engineer-ication” is heavily recommended for engineering managers. This refers to managers spending time writing software with their team. Stripe empowers ICs to make decisions, propose projects, and help set strategy. Rigid hierarchy is avoided, where possible.
+While Stripe tends to hire externally for specialized roles like backend engineer, the company supports engineers moving between roles. Plenty of engineers began as “generic” fullstack engineers, and later worked closely with specialized colleagues, like security engineers, ML engineers, or native mobile engineers.
+Some engineers transfer to more specialized positions; for example, fullstack engineers have moved to ML-heavy teams and taken on the “MLE” title. Indeed, some ML leads were initially hired as software engineers. The fullstack-to-backend transition is perhaps the most common path. And, of course, others transferred from specialized to more “generic” roles, like fullstack.
+David emphasizes the importance of colleagues learning from each other. Teams are usually multi-disciplinary, meaning there’s always opportunity to observe and learn from engineers on different stacks.
+“Deliver something meaningful first, before changing roles.” While internal mobility is supported, Stripe does expect engineers to deliver meaningful work on their own team, first. Then there’s no limit to movement between roles.
+Planning is a continuous process. Teams update their plans over time as they learn. Updates also occur when something comes up needing immediate attention.
+At the company level, there’s a strategy that sets out the top priorities and ensures everyone – leadership, managers, individual engineers, other functions – is on the same page. This helps maintain clarity and consistency, while leaving room for individual teams and subject experts to make detailed plans.
+“Heavyweight” planning is usually biannual. At the start of the year, the overall strategy is drafted. Midyear, lighter-weight planning takes place to update the strategy. It’s worth highlighting this planning cadence was developed as Stripe scaled, and will continue to be tweaked.
+Planning used to be a pain point. David was candid in sharing the frustration it caused:
+“We haven’t always been good at this. Planning had a pretty low net promoter score. Also, we’ve had to change our planning approach quite often because the process that works well with 100 people, isn’t necessarily the same one that works well at 1,000, 3,000, or 6,000 folks.”
+We cover more on how planning works at Amazon and most large tech companies in [Preparing for Annual or Biannual Planning.](https://substack.com/redirect/1db005e9-c21a-4377-b3af-9acad2e09f1a?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+Within Stripe, “product architect” describes certain engineers, but isn’t a formal role or job title. It’s the company’s take on an informal role that collaborates with tech leads. Product architects are usually:...
+Become a paying subscriber of The Pragmatic Engineer to get access to this post and other subscriber-only content.
+| Full articles every Tuesday and Thursday | |
+| Access to resources and templates for engineering managers and engineers | |
+| Access to the complete archive, see all comments and comment on articles |

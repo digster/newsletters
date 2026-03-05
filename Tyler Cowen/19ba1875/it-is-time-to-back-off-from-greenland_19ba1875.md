@@ -1,0 +1,15 @@
+---
+subject: "It is time to back off from Greenland"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2026-01-09 06:52:39
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+I do hope it falls eventually into U.S. hands, as I explain in [my latest Free Press piece](http://marginalrevolution.com?action=user_content_redirect&uuid=31b71be4a3ee62d20063829b7c0a9ac45fafc017e6730ec26974ddeedcd46885&blog_id=42693868&post_id=92201&user_id=262258391&subs_id=225460721&signature=ffa1b63890462db81aa339c97ad35564&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly93d3cudGhlZnAuY29tL3AvdHlsZXItY293ZW4tYnV5aW5nLWdyZWVubGFuZC1pcy1ub3Q/dGFpZD02OTVlZmQxMTNlNDc2ODAwMDE4MzEzZTgmdXRtX2NhbXBhaWduPXRydWVhbnRoZW0mdXRtX21lZGl1bT1zb2NpYWwmdXRtX3NvdXJjZT10d2l0dGVy&email_id=84d9dfba246322a1a51971ae6c56aa53). But now is not the time and furthermore that should happen voluntarily, not coercively. Here is an excerpt:
+The better approach is to let the Greenlanders choose independence on their own. They may be ready to do so.
+[In a survey]last year, 56 percent of Greenlanders favored independence from Denmark, with just 28 percent opposed. This should not be a tremendous surprise. The Danes have not always treated Greenland well; the legacy of Denmark taking away the children of Greenlanders[75 years ago]still remains—and similar issues[crop up to this day].If and when Greenlanders do choose independence, the U.S. should, when conditions feel right, make a generous offer to Greenland. If they do not take the offer, we might try again later on, but we should not intimidate or coerce them. We should respect their right of independence throughout the process. That would increase the likelihood that the future partnership will be a cooperative and fruitful one.
+The courtship could take 20 or 30 years, but I am pretty sure that eventually Greenlanders will see the benefits of a stronger U.S. affiliation.
+I do not think that simply trying to “buy” Greenland is going to work. I am reminded of
+[my own fieldwork], roughly 20 years ago, in a small Mexican village in the state of Guerrero. General Motors wanted to buy most of the land in and around the village, for the purpose of building a racetrack to test GM cars. It had a lot of money to offer, and at the time a family of seven in the village might have earned no more than $1,500 a year. But the negotiations never got very far. The villagers felt they were not being respected, they did not trust the terms of any deal, and they feared their ways of life would change irrevocably. The promise of better roads, schools, and doctors—in addition to whatever payments they might have negotiated—simply fell flat.
+These are very important issues, so we need to get them right.

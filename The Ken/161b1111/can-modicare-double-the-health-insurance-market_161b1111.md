@@ -1,0 +1,16 @@
+---
+subject: "Can Modicare double the health insurance market?"
+from: "The Ken <info@the-ken.com>"
+to: ""
+date: 2018-02-20 02:35:42
+labels: ["CATEGORY_PERSONAL", "INBOX", "The Ken", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_8244464457792971031", "UNREAD"]
+---
+Good Morning Ishan,
+Do you grind your teeth in sleep these days? I do. Quite a bit. And I know why. Since I don’t outrage on social media (some of my colleagues here don’t hold themselves back though), I end up processing the rage in my head.
+Many years ago, in a small group seminar at MIT with Noam Chomsky, the noted linguist, cognitive scientist and social activist, I learnt that we have a lot of conversations with ourselves and when that crosses a certain threshold, we grind our teeth in sleep. (Okay, that’s an oversimplification but please grant me that—it was many years ago and I was awestruck sitting next to Chomsky and discussing something which was until then only in my head.)
+But why am I talking about this? Because the subject of today’s story is what many of us have been ruminating (and outraging) over—insurance-led financing of healthcare just doesn’t work. And yet we are sleepwalking into the US-style healthcare system which will promise neither health nor care in the long term.
+Modicare, as announced in 2018 budget, will technically double the health insurance market in India, overnight. Health insurers underwrote Rs 30,392 cr ($4.7 billion) in premiums in 2016-17, and if Modicare delivers, it’d add policies worth another $4.7 billion. But why is it not enthusing the insurers? India’s first standalone health insurance company Star Health’s experience in dealing with government-funded insurance is an eye-opener. As are others’.
+Ruhi’s story talks about what state-funded health insurance has done to the market and if Modicare isn’t designed with learnings from the various state programmes, which looks unlikely from the initial conversations, then what is in store for India. With this, Ruhi also kicks off a quarterly theme of business opportunities in public health.
+It's our free story of the week. So, let’s dive right in: [https://the-ken.com/story/](http://link.the-ken.com/wf/click?upn=HQSq6eeRV1xAVaGuFOahuNCZVVXPeP-2FJpSqxhvIUDrm6YyGNF5qaXionhihtNnX48sbYWZ1RE9jd9y9vzian1E6WFvI4sYNTVQ95ao3223FixLt7-2FKhEMg4t3c0jxDmh5wdhBau6nXN6wNXVip9jXkuoMrKRHE4vDZlCNYGYPVgAy8cY5rUO3Bd1bIYp8z5HXmi7uGHiLesXyIH2-2F-2BkMsAOtXUVk8hfFkc9tVYaKZub2WbjnjxlfttTHMXLUtqcDY3Q6Eogcz79KPfzaNkUaELE-2F0LM8aO7PqxecxW5E9NI-3D_S4jLOsNx-2Fv6Jev2nvow8b7P9pBCWGd8KNZfb200gkZLQNlXQHio0noZzXtsWoloZmPWeyZsh7a4QCV9ufwCUKi00jlBT0uEdvwYDMuVuqcOxRHMbnPRwmu9T6f0cxRnW5dClegvizK8WM3KKesr7cml0I4Lsq-2F6rJ4CmBpeB-2F9Hq9Qpyy93Euxhf48NE6oHtV67bKgx0g82nbVIQKQuoH5PYt81kEwRPbr9rsjRlk7w3PACSfXqstcged0KdV-2B5jiH9vIO6VtvcOw6JnfVBgUTYuI686PIE5bqo9nbsEVGVSimaNQQSilR7uQK1NQA8flsK5-2FVe3ewadPw6-2BGBAFu0bbWI4g2MXz6vhmfWPWiqxeKamt3x2k5StUMuJ2p-2FvstONmvungCA4y51ev4f26X4AHb4UiE-2BlV86KHeI6Lph0-3D) can-modicare-double-health- insurance-market/
+This email was sent by: The Ken

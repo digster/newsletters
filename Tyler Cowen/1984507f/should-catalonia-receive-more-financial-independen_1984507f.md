@@ -1,0 +1,13 @@
+---
+subject: "Should Catalonia receive more financial independence?"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2025-07-26 04:40:04
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+Jesús details how Spain already operates one of the most decentralized fiscal systems in the world, “more latitude than most U.S. states,” he notes, yet Catalonia now seeks the bespoke privileges long enjoyed by the Basque Country and Navarra. The
+[Regional Authority Index]rates how much self‑rule and shared rule each country’s sub‑national governments actually wield. In its last update the index places Spain as the most decentralized unitary state in the sample and fourth overall among 96 countries.Those northern provinces collect every euro on their own soil and forward a modest remittance to the central treasury, a setup that Fernández‑Villaverde brands “a Confederate relic.” Extending it to Catalonia, he argues, would hollow out Spain’s common‑pool finances, deepen inter‑regional resentment and erode the principle of equal citizenship, while turning the national revenue service into little more than a mailbox for provincial checks.
+That is from the episode summary of [a podcast of Rasheed Griffith with Jesús Fernandez-Villaverde](http://marginalrevolution.com?action=user_content_redirect&uuid=b46fff2b78009182c53d150de929429aaca80cd73946403403614ab4bf9b5018&blog_id=42693868&post_id=91158&user_id=262258391&subs_id=225460721&signature=bae91848f20fbee93748fb7e97560347&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly9jcHNpLm1lZGlhL3AvdGhlLWNvc3Qtb2YtY2F0YWxhbi1wcml2aWxlZ2U/cj0ydTRvMG8mdXRtX2NhbXBhaWduPXBvc3QmdXRtX21lZGl1bT13ZWImdHJpZWRSZWRpcmVjdD10cnVl&email_id=6764432bcfc190644eaf83809242ff32). On the Catalan language, matters look grim in any case:
+Right now around only 55% of births in Catalonia are born from a mother that was born, actually not even Catalan, that was born in Spain. That basically tells you that only 40, 45%, perhaps even a little bit less of mothers that were born in Spain speak Catalan at home. At this moment, I will say that less than 30, 28% of kids born in Cataluña, perhaps even less, will speak Catalan at home.
+It amazes me how many people ignore the reality that a host of leading economists led or endorsed a constitution-violating movement to separate Catalonia from the rest of Spain and not long ago. The podcast will tell you more. It is also interesting throughout, including on Spanish history since the 19th century.

@@ -1,0 +1,14 @@
+---
+subject: "AI and the Detection of Gravity Waves"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2025-08-21 11:20:02
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+Researchers at the [Laser Interferometer Gravitational-Wave Observatory](http://marginalrevolution.com?action=user_content_redirect&uuid=5546d4a51761d4c908f585279388358fdb587fcf2db4eadbe7ab4ada3d197e7a&blog_id=42693868&post_id=91335&user_id=262258391&subs_id=225460721&signature=6714f56692bbead218401ca04224ade4&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvTElHTw=&email_id=cdcccb921f43751cea574463c8f4dd1f), the giant two-observatory machine to detect gravitational waves, developed an AI to improve the sensitivity of the design:
+[Wired]: Initially, the AI’s designs seemed outlandish. “The outputs that the thing was giving us were really not comprehensible by people,” Adhikari said. “They were too complicated, and they looked like alien things or AI things. Just nothing that a human being would make, because it had no sense of symmetry, beauty, anything. It was just a mess.”The researchers figured out how to clean up the AI’s outputs to produce interpretable ideas. Even so, the researchers were befuddled by the AI’s design. “If my students had tried to give me this thing, I would have said, ‘No, no, that’s ridiculous,’” Adhikari said. But the design was clearly effective.
+It took months of effort to understand what the AI was doing. It turned out that the machine had used a counterintuitive trick to achieve its goals. It added an additional three-kilometer-long ring between the main interferometer and the detector to circulate the light before it exited the interferometer’s arms. Adhikari’s team realized that the AI was probably using some esoteric theoretical principles that Russian physicists had identified decades ago to reduce quantum mechanical noise. No one had ever pursued those ideas experimentally. “It takes a lot to think this far outside of the accepted solution,” Adhikari said. “We really needed the AI.”
+...If the AI’s insights had been available when LIGO was being built, “we would have had something like 10 or 15 percent better LIGO sensitivity all along,” he said. In a world of sub-proton precision, 10 to 15 percent is enormous.
+As with AlphaGO and Move 37 the AI developed entirely novel approaches:
+“LIGO is this huge thing that thousands of people have been thinking about deeply for 40 years,” said Aephraim Steinberg, an expert on quantum optics at the University of Toronto. “They’ve thought of everything they could have, and anything new [the AI] comes up with is a demonstration that it’s something thousands of people failed to do.”

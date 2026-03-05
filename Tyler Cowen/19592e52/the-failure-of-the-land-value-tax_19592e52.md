@@ -1,0 +1,13 @@
+---
+subject: "The failure of the land value tax"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2025-03-14 04:24:06
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+[From Samuel Watling](http://marginalrevolution.com?action=user_content_redirect&uuid=6b255bb087f3e94e6d40a200d9e3d0172b84631ee7fcbeacb6a1b971d3604645&blog_id=42693868&post_id=90248&user_id=262258391&subs_id=225460721&signature=8492cb560324c48eb29a51a2652d0d43&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly93b3Jrc2lucHJvZ3Jlc3MuY28vaXNzdWUvdGhlLWZhaWx1cmUtb2YtdGhlLWxhbmQtdmFsdWUtdGF4Lw=&email_id=8234b3ccc7cac92b640fb7c4ed144f6b), in the new Works in Progress:
+By the early 1900s, Progress and Poverty was more popular than Shakespeare among Labour MPs. In 1910, the Liberal government of Henry Asquith implemented a tax on increases in land value and undeveloped land with a view to reforming Britain’s system of property taxes.
+Asquith’s gambit failed spectacularly. Britain in the early 1900s became a case study in how administrative complexity can derail land value taxation. The tax cost more to administer than it collected, and it was so poorly worded that it ended up becoming a tax on builders’ profits, leading to a crash in the building industry. As a result, David Lloyd George, the man who introduced the taxes as chancellor in 1910, repealed them as prime minister in 1922. The UK has never fully reestablished a working property tax system.
+This history serves as a cautionary tale for modern Georgist sympathizers who believe a
+[land value tax will solve][the world’s housing shortages]. While Georgists argue that land markets suffer from inefficient speculation and hoarding, Britain’s experience reveals more fundamental challenges with both land value taxes and the Georgist worldview. The definition of land value was impossible to ascertain properly and became bogged down in court cases. When it could be collected, it proved so difficult to implement that administration costs were four times greater than the actual tax income. Instead of increasing the efficiency of land use, it became a punitive tax on housebuilders, cratering housing production.Worst of all, it not only failed to solve the fundamental problem with British local government – that it had responsibilities that it could not afford to cover with its narrow base – but actually contributed to the long-term crumbling of the property tax systems Britain did have.

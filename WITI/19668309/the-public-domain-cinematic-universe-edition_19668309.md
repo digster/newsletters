@@ -1,0 +1,80 @@
+---
+subject: "The Public Domain Cinematic Universe Edition"
+from: "\"Why is this interesting?\" <whyisthisinteresting@substack.com>"
+to: ""
+date: 2025-04-24 14:25:20
+labels: ["CATEGORY_PERSONAL", "INBOX", "UNREAD", "WITI"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "UNREAD", "Label_5752899537867939131"]
+---
+|
+[Rex Sorgatz](https://substack.com/redirect/75fff540-5006-4725-9a86-a09918c8804b?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) (RS) wrote the very popular [Key Art Edition](https://substack.com/redirect/3b3a3dbf-4d98-48f9-9310-dca260f4904b?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o). We are happy to have him back.
+Rex here. The year was 1998, and people on the internet were mad at Disney. But it wasn’t wokeism or bloated cinematic universes or theme park prices that had them riled up. It was antitrust activists who were furious with the House of the Mouse.
+If you weren’t active in online discourse in the 1990s, the [Copyright Term Extension Act](https://substack.com/redirect/f450e03f-e72e-40b8-8883-fe8399d4cd4b?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) won’t trigger any nostalgic remembrances. So, a quick refresher....
+In the mid-90s, Disney began intensely lobbying Congress to postpone the expiration date on copyright protection, safeguarding their stable of animated characters including Mickey Mouse and Donald Duck. A progressive resistance formed, primarily around new public intellectuals Cory Doctorow and Lawrence Lessig (long story), who canvassed against the extension in publications like Wired and BoingBoing (longer story). With the help of Sonny Bono (really long story), the Mickey Mouse Protection Act, as it was derisively dubbed by activists, passed in 1998. The law prevented all characters from entering the public domain for 20 additional years.
+So what? Well now, because of this law, if you wanted to, say, remix the likeness of Mickey Mouse into a horror movie, you would have to wait until the year 2024. And back then, 2024 seemed like an impossibly long way away! Netizens were furious. (“Netizens”? Nevermind, you really had to be there.)
+Why is this interesting?
+Because those 20 years have now passed! Let’s check in on how it’s going....
+On January 1 of last year, Mickey Mouse, who first appeared in the 1928 film [Steamboat Willie](https://substack.com/redirect/bf08a907-4649-4cdd-98ef-1d2054f535f8?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o), officially entered the public domain. Two years prior, Winnie-the-Pooh did the same. And this year, Popeye joined them. Over the next decade, a veritable justice league of characters will join their ranks: Betty Boop, Pluto, Dick Tracy, Goofy, King Kong, Donald Duck, Mary Poppins, The Hobbit, Superman, Batman, and The Wizard of Oz.
+The motley-est of motley crews! Perhaps some ambitious filmmaker out there should adapt all these characters into a new Avengers. I’ve got the name ready — The Public Domain Cinematic Universe. Catchy, I know.
+The universe is already expanding. Below is our evidence for the benevolent forces of the public domain — eight recent and upcoming masterworks based upon characters whose copyright has recently expired.
+Winnie-the-Pooh: Blood and Honey
+Release: March 2023 | [Trailer](https://substack.com/redirect/603ab91b-e3ba-4fd5-b3a7-821f1bbe5f89?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+Description: Christopher Robin returns from college to find Pooh and Piglet turned into feral maniacs. The film was shot in 10 days on a budget of $100,000. You can tell. It won Raspberry awards for Worst Picture, Worst Director, Worst Screenplay, Worst Screen Couple, and Worst Remake. It has a Rotten Tomatoes score of 3%. A [sequel](https://substack.com/redirect/82cb81ac-24d6-4a12-8a54-a64a9d97ce5b?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) was released in March.
+Legal Nuance: Disney has owned the creatures inhabiting Hundred Acre Wood since 1966, but made many character updates along the way. Therefore, despite the book entering public domain in January 2022, the horror film had to omit newer creative elements, such Pooh's iconic red shirt (he was originally nude). We will have to wait until 2028 for that specific detail to enter the public domain.
+The Mouse Trap
+Release: August 2024 | [Trailer](https://substack.com/redirect/a76f87fc-6227-4920-8137-4233acc5895a?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+Description: Mickey takes form as a masked serial killer who terrorizes teens in an amusement arcade. As seen in the trailer, the film incorporates actual footage from Steamboat Willie into the plot.
+Legal Nuance: The film was announced on January 1, 2024, the same day Steamboat Willie (where Mickey and Minnie first appeared) went into the public domain. It was the first official unofficial movie appearance of Mickey Mouse as a non-copyrighted character.
+Peter Pan's Neverland Nightmare
+Release: January 2025 | [Trailer](https://substack.com/redirect/f43b7428-6f0e-43de-99c7-db9eaf0b671b?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+Description: What if Peter Pan were a mix of The Joker and Freddy Krueger? What if Tinker Bell were an obese drug addict?
+Legal Nuance: Peter Pan — in the form of the 1904 play The Boy Who Wouldn't Grow Up — entered the public domain in January 2024.
+The Dark Domain: Mickey vs Winnie
+Release: 2025 | [Trailer](https://substack.com/redirect/600f889b-76df-44e6-a347-3a48646c2816?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+Description: Thrill-seeking zoomers at a remote Airbnb encounter the adorable characters from their childhood — except now, you guessed it, Mickey and Pooh are monstrous mutants.
+Legal Nuance: Someone noticed that Winnie-the-Pooh became copyright-free in 2022 and Mickey Mouse in 2024. Inspiration struck.
+Screamboat
+Release: April 2025 | [Trailer](https://substack.com/redirect/2b2318c4-0a54-439d-b3ee-f2506d35fbed?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+Description: On a late-night Staten Island Ferry, a mouse stalks New Yorkers, unleashing murderous mayhem on commuters.
+Legal Nuance: Like the other Mickey knockoffs in this roundup, the film never directly says “Mickey Mouse,” as Disney still retains trademark rights on that name.
+Popeye: The Slayer Man
+Release: March 2025 | [Trailer](https://substack.com/redirect/3cfbff5f-747a-43c3-8ea2-27bfee795503?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+Description: Wannabe filmmakers sneak into an abandoned cannery to film a documentary about the legend of the “Sailor Man” — the iconic spinach-scarfing mariner reimagined as a sadistic serial killer.
+Legal Nuance: Popeye entered public domain in January 2025. Another Popeye horror film, [Shiver Me Timbers](https://substack.com/redirect/23832159-d67d-4d2b-ab3a-c4c9de6e6047?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o), was released this month.
+Bambi: The Reckoning
+Release: July 2025 | [Trailer](https://substack.com/redirect/cd6ad4e4-a6a9-491b-a7ff-166b988acfce?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+Description: Do you remember crying at the end of Bambi when the mother doe dies? Well, just imagine if the surviving, grief-stricken fawn grows up into a vengeful 18-point killer buck.
+Legal Nuance: Bambi is an interesting case where Disney tried to benefit from public domain protections. Their 1942 movie was based upon a 1923 novel (Bambi, a Life in the Woods) which they claimed had an expired copyright. Courts did not agree and they had to pay licensing fees. The copyright of the book officially expired in January 2022.
+Mickey's Slayhouse
+Release: 2025 | [Trailer](https://substack.com/redirect/30fe5092-000b-431e-9f1d-431798be94a7?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+Description: In the fourth Mickey sendup, teens wander into an abandoned amusement park and... blah, blah, blah. You know how this goes.
+Legal Nuance: When copyright on Mickey expired in 2024, only the original Steamboat Willie mouse entered public domain. In that version, Mickey had human-like hands. But the year after Steamboat Willie, a more modern version of Mickey appeared — the one with the large white gloves we know today. Therefore, as of January 1 of this year, white gloves will start appearing in the reboots, including the trailer to this movie.
+Feast! Feast upon the creative wealth borne from the labors of our activist forefathers who fought so valiantly to protect the public domain!
+But seriously, this kinda sucks, right? First of all, why are they all horror movies? Fair question. One reason is, they are cheap to make. Another is, you are more likely to win a trademark claim if the film is a clear parody. Horror is the most unassailable genre.
+Nonetheless, this list must feel like a disappointment to those activists who spent the ‘90s fighting for the right to remix. When you consider all the great adaptations in movie history, this collection feels a little heartbreaking. Just think of what MGM did with The Wizard of Oz after the copyright on L. Frank Baum’s novel expired. Think of how far Mary Shelley’s Frankenstein or Bram Stoker’s Dracula have come since the 19th century. Consider what Walt Disney himself did with Brothers Grimm (Snow White and Cinderella) and Hans Christian Andersen (The Little Mermaid and Frozen). Recall the countless iterations of Shakespeare and Jane Austen.
+Where is our Clueless? Heck, where is our 10 Things I Hate About You?
+The good news is, more free IP is on the way. Plenty of old works will lose their copyright in the near future. Here’s a timeline of original characters entering the public domain:
+2026: Betty Boop, Pluto
+2027: Dick Tracy
+2028: Goofy, Conan the Barbarian
+2029: King Kong
+2030: Donald Duck, Mary Poppins
+2031: Porky Pig
+2033: The Hobbit, Daffy Duck
+2034: Superman
+2035: Batman, The Wizard of Oz
+2036: Bugs Bunny, Joker, Captain America, Dumbo, Tom & Jerry
+2037: Wonder Woman
+2043: Scrooge McDuck
+2049: James Bond
+2055: Supergirl
+2058: Incredible Hulk, Spider-Man
+So, let’s get to work. Someone get Soderberg or Tarantino or Gerwig on the line, pronto. We need to conscript our best and brightest in this war. The state of the Public Domain Cinematic Universe depends upon us! (RS)
+A few footnotes:
+It’s worth mentioning that 3 of the 8 films discussed above are already part of a cinematic universe known as The Poohniverse, aka
+[The Twisted Childhood Universe](https://substack.com/redirect/5345108f-f338-4cca-82e5-0ab485d7e00a?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o). In the coming years, the Poohniverse plans to expand with horror lampoons of Snow White, Sleeping Beauty, Pinocchio, Mary Poppins, and even an Avengers parody with character crossovers called Poohniverse: Monsters Assemble.Just because a copyright expires does not mean you can get away with doing anything to a character. Trademark law often still applies. The Duke Law School has
+[a thorough explainer](https://substack.com/redirect/edd824ad-616e-4fff-aa42-bd3809a47a77?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)on the distinction, but the essence is that you cannot trick the public into believing your Mickey is Disney’s Mickey.Acolytes of the ‘90s IP wars know Disney execs were goddamn hypocrites about copyright. Walt Disney profited immensely off works in the public domain. Characters as varied as Snow White, Pinocchio, Dumbo, Bambi, Cinderella, Robin Hood, Sleeping Beauty, Aladdin, Mulan, Peter Pan, and the Little Mermaid were all based upon prior intellectual property made available via public domain.
+A movie you often hear mentioned in public domain conversations is It’s A Wonderful Life. It’s a classic — because of public domain. Due to a clerical error, the 1946 film fell out of copyright from 1974 to 1994, during which time it started to appear in regular rotation on television at Christmastime. If it were not for public domain, it would likely be a trifle lost to history. It will officially re-enter public domain in January 2042.
+Anti-copyright activism of the 90s/00s not only embraced public domain, but was part of a broader zeitgeist smitten with remixing. Fueled by Napster (1999), sampling and mashups were the art forms of the day. Meanwhile, Wikipedia (2001) pioneered collaborative iteration, Linux (1991) popularized crowd-sourced forking, 4chan (2003) championed memes, and Creative Commons (2001) provided a legal framework. All of these inventions contributed to an anti-copyright disposition. (Kirby Ferguson’s
+[Everything is a Remix](https://substack.com/redirect/85dc8703-b7fa-48eb-89d1-e36b8dc2baad?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)(2010) is an impressive historical account.) But today, the attitude among young people towards copyright seems completely flipped. In the era of AI crawlers and Instagram influencers, young people now are often activists FOR copyright protection. As a[friend](https://substack.com/redirect/9984aff3-fbe3-4126-967b-18766bf754e7?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)recently put it, “You can only have Barstool steal your video for ad dollars so many times before you become a pro-copyright agitator.”
+You're currently a free subscriber to [Why is this interesting?](https://substack.com/redirect/b5396f05-5455-4f58-8089-3380e9a65271?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o). For the full experience, [upgrade your subscription.](https://substack.com/redirect/2/eyJlIjoiaHR0cHM6Ly93aHlpc3RoaXNpbnRlcmVzdGluZy5zdWJzdGFjay5jb20vc3Vic2NyaWJlP3V0bV9zb3VyY2U9cG9zdCZ1dG1fY2FtcGFpZ249ZW1haWwtY2hlY2tvdXQmbmV4dD1odHRwcyUzQSUyRiUyRndoeWlzdGhpc2ludGVyZXN0aW5nLnN1YnN0YWNrLmNvbSUyRnAlMkZ0aGUtcHVibGljLWRvbWFpbi1jaW5lbWF0aWMtdW5pdmVyc2Umcj04bzU0biZ0b2tlbj1leUoxYzJWeVgybGtJam94TkRVMk16TXhPU3dpYVdGMElqb3hOelExTlRBME56TXpMQ0psZUhBaU9qRTNORGd3T1RZM016TXNJbWx6Y3lJNkluQjFZaTAzTURBd0lpd2ljM1ZpSWpvaVkyaGxZMnR2ZFhRaWZRLlhlU3pvM2p5YU5xZEpCLXlLLXpIaW5JTGQzRE4xYkNSOHhyMlNjZ1hDZmciLCJwIjoxNjIwNDA4MTgsInMiOjcwMDAsImYiOnRydWUsInUiOjE0NTYzMzE5LCJpYXQiOjE3NDU1MDQ3MzMsImV4cCI6MTc0ODA5NjczMywiaXNzIjoicHViLTAiLCJzdWIiOiJsaW5rLXJlZGlyZWN0In0.k2X5-zZPOxep8SEsU9ZwnWPuemW2NWEXLEK77MRXwa4?&utm_source=substack&utm_medium=email&utm_content=postcta)

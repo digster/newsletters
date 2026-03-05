@@ -1,0 +1,79 @@
+---
+subject: "Why Are YouTubers Quitting?"
+from: "Trung Phan <trungphan@workweek.com>"
+to: ""
+date: 2024-02-24 06:44:09
+labels: ["CATEGORY_PERSONAL", "INBOX", "Trung Phan", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_7971156048460647958", "UNREAD"]
+---
+I asked you readers for some AMA questions a few weeks ago.
+There were so many good ones and it didn’t make sense to put them all into one mailbag (translation: I was too lazy to answer all of them in one sitting).
+I will start knocking them off in future e-mail sends starting with this one:
+“Not sure if you have been following the YouTube universe but a number of major creators have quit or paused their channels (e.g. Tom Scott, MatPat, PewDiePie Meek Canyon, Captain Sparklez). They all put out ‘I’m quitting YouTube videos’.
+I know this isn't super current news but was wondering if you had any thoughts on what this says about creating on the internet and the future of media.”
+— Aaron N.
+The “I’m quitting YouTube” video is a whole genre and I have watched a lot of them.
+There is no real mystery here because the YouTubers lay out their rationales very clearly. The common theme is that the creators have been posting consistently for about a decade and want to move on to new things.
+A related reason is burnout.
+While the YouTubers are grateful for their jobs, there is a psychological cost for dealing with a large audience, constantly adapting to the algorithm, chasing metrics, getting ripped off and always thinking about “content”. I’m not remotely on the scale of these creators but have [felt the psychic costs](https://link.workweek.com/click/34460325.38675/aHR0cHM6Ly93d3cucmVhZHRydW5nLmNvbS9wL2Jld2FyZS12YWx1ZS1jYXB0dXJlP2hhc2hlZF91c2VyPTBlYmVmMTJjNDI5MTE4NDU2MmRhYzA5OTY1YmNlODA4/6520d6df2061f24a7d071f97B07525290) of spending way too many hours on the toilet cranking out memes for internet consumption (yes, I realize that I just put the words “toilet” and “consumption” in the same sentence).
+While watching these videos, the person I kept thinking about was Václav Havel. Havel was a legendary Czech playwright turned imprisoned anti-Communist dissident turned President of Czechoslovakia (he served as the country's last President from 1989 to 1992 and then became the first President of the Czech Republic after its split with Slovakia in 1993).
+When people say the “pen is mightier than the sword”, Havel is a great example. His writing played a significant part in puncturing the image of the Soviet Union. My dad kept a lot of his writing in our house growing up and I encourage everyone to read [“The Power of the Powerless”](https://link.workweek.com/click/34460325.38675/aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvVGhlX1Bvd2VyX29mX3RoZV9Qb3dlcmxlc3M_aGFzaGVkX3VzZXI9MGViZWYxMmM0MjkxMTg0NTYyZGFjMDk5NjViY2U4MDg/6520d6df2061f24a7d071f97B1fdfcc81).
+I give you that pre-amble because Havel has a beautiful musing on the life of an artist. In his essay “Second Wind” — found in a compilation of his writings called [Open Letters: Selected Writings, 1965-1990](https://link.workweek.com/click/34460325.38675/aHR0cHM6Ly93d3cuYW1hem9uLmNhL09wZW4tTGV0dGVycy1TZWxlY3RlZC1Xcml0aW5ncy0xOTY1LTE5OTAvZHAvMDY3OTczODExOD9oYXNoZWRfdXNlcj0wZWJlZjEyYzQyOTExODQ1NjJkYWMwOTk2NWJjZTgwOA/6520d6df2061f24a7d071f97Bc1a5b31b) — Havel contemplates the three choices an artist faces after achieving success:
+“Sooner or later, however, a writer (or at least a writer of my type) finds himself at a crossroads: he has exhausted his initial experience of the world and the ways of expressing it and he must decide how to proceed from there.
+He can, of course, seek ever more brilliant ways of saying the things he has already said; that is, he can essentially repeat himself.
+Or he can rest in the position he achieved in his first burst of creativity, subordinate everything he learned to the interests of consolidating that position, and thus assure himself a place on Parnassus.
+But he has a third option: he can abandon everything proven, step beyond his initial experience of the world, with which he is by now all too familiar, liberate himself from what binds him to his own tradition, to public expectation and to his own established position, and try for a new and more mature self-definition, one that corresponds to his present and authentic experience of the world.
+In short, he can find his "second wind." Anyone who chooses this route—the only one (if one wishes to go on writing) that genuinely makes sense—will not, as a rule, have an easy time of it. At this stage in his life, a writer is no longer a blank sheet of paper, and some things are hard to part with. His original elan, self-confidence, and spontaneous openness have gone, but genuine maturity is not yet in sight; he must, in fact, start over again, but in essentially more difficult conditions.”
+To summarize the options: 1) repeat the exact same thing as past successes; 2) build on top of past successes but remain in the same creative lane; or 3) find a “second wind” by trying something completely new.
+In a way, I think all of these super-successful YouTubers are trying to find their “second winds”.
+Let me walk through three of the “quitting” videos and highlight key excerpts:
+1. Tom Scott (6.4m Subs)
+Tom began posting on the internet in 1999. He found middling success for a decade and launched a YouTube channel in 2006. However, it wasn’t until 2014 that he set a clear goal: “post something interesting every Monday at 4pm”.
+Tom did that for a decade straight. He built a massive audience, dropped some bangers and then [called it quits](https://link.workweek.com/click/34460325.38675/aHR0cHM6Ly93d3cueW91dHViZS5jb20vQFRvbVNjb3R0R28_aGFzaGVkX3VzZXI9MGViZWYxMmM0MjkxMTg0NTYyZGFjMDk5NjViY2U4MDg/6520d6df2061f24a7d071f97Bcd266119) in January:
+"So, now it’s time to take a breather. I can’t keep this up. This is my dream job, and I have a lot of fun doing it. I know I’m incredibly lucky. But a dream job is still a job. And it’s a job that keeps getting bigger and more complicated and I am so tired!
+There’s nothing in my life right now except work. I did get close to burning out. But, fortunately, I always knew when to step back from the brink. And it’s not like I can drop the quality back down? That’s not how YouTube works these days.
+Over the last year or so, I have talked to some folks who are more successful than me…who were in this position a few years back.
+And it’s clear that I now have two possible choices.
+I could keep making bigger and better. Keep climbing the ladder, build a business, hire full-time employees…and end up as a manager.
+And that would be great for someone who isn’t me. But I know I’m bad at that, and I’d hate every second of it. So, option 2… I could not do that, I could do less, and be happier.
+So I’m taking a break for… for some time. I don’t know when or if I come back, but when I do, it won’t be weekly. At least, not in this format, not here. […]
+This project has worked, and it’s time to move on."
+Tom is focusing on podcasting and exploring "experimental projects" as his main work now.
+2. MatPat / Game Theory (19m subs)
+Matthew Robert Patrick (aka MatPat) started a channel that dissects video game lore. His channel began in 2006 but the first “Game Theory” video wasn’t released until 2009. In the following years, he and his wife Stephanie launched three very popular spin-offs (Film Theory, Food Theory, and Style Theory) before selling it all to a media startup in 2022.
+Here’s MatPat [on retiring](https://link.workweek.com/click/34460325.38675/aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g_dj04UjFfVHFVNjh5byZ0PTEzNnMmaGFzaGVkX3VzZXI9MGViZWYxMmM0MjkxMTg0NTYyZGFjMDk5NjViY2U4MDg/6520d6df2061f24a7d071f97B1a4fa34d):
+"We knew it was going to happen eventually.
+That's why over the last couple years, we've been staffing up so much. That's why we partnered with a larger company to help run the channels. That's why we've been spending so much time…training up the team to make the best videos that they can because we knew that we couldn't do this forever. We knew that, honestly, we didn't want to do this forever.
+For as much as I love you and I love overthinking things and I love theorizing…I don't love late nights. I don't love the fact that Steph and I have been work first for over a decade, where I'm sitting down at dinner with my best friend and we're talking about business or logistics or we're talking about animatronics. I miss the days where I could just sit down on the couch with [Steph] and play video games and it's not for 'content'. Or I'm playing a game and I'm not thinking about what theories are going to come."
+MatPat and Steph will focus on other future projects (and that parenting life).
+3. Seth Everman (4.2m subs)
+Seth is a Swedish musician who has been making hilarious videos since 2015. He actually announced his retirement at the beginning of 2023, but recently released a video explaining his reasons for [leaving YouTube](https://link.workweek.com/click/34460325.38675/aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g_dj1vTDVYTkdoZWxHSSZoYXNoZWRfdXNlcj0wZWJlZjEyYzQyOTExODQ1NjJkYWMwOTk2NWJjZTgwOA/6520d6df2061f24a7d071f97C5d9624db):
+"The truth is I’ve been doing this for a while now and it’s time for me to do different things.
+In the last three years, I haven’t felt the spark.
+I was in a constant state of stress. [Whenever I watched or listened to something, I though about how it could be content] and I can’t turn that off. The ratio of enjoyment to pain starting tipping away from enjoyment. The internet also changed with short-form videos and it’s an entire science trying to maximize retention and view.
+[All content] is converging to the boring bland gray middle…and the same end product. It is beyond saturated.”
+***
+One thing that stood out to me about these quitting videos is the timing.
+Everyone called it quits after around ten years.
+This next statement is pure vibes — and can probably be falsified with countless examples — but a “decade” seems like enough time to achieve a certain level of mastery of the craft and grow a loyal audience. It’s also a nice round number to start considering a “next chapter”.
+YouTube was founded in 2005 and has really gone parabolic over the past decade, so it makes sense that the first wave of mega-YouTubers is retiring or pulling back.
+Now, let's talk about two other major YouTubers: Marques Brownlee aka MKBHD (top tech review channel) and Rick Beato (top music review channel). While they didn't make "quit" videos, they did make "reaction to quit" videos and offer some hard-earned advice.
+First is MKBDH, who started his channel in 2008 and has 18m subscribers. He begins [his video](https://link.workweek.com/click/34460325.38675/aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g_dj1HUUF2Y2UzTUE0NCZoYXNoZWRfdXNlcj0wZWJlZjEyYzQyOTExODQ1NjJkYWMwOTk2NWJjZTgwOA/6520d6df2061f24a7d071f97D0bb1c312) by saying that YouTube is his dream job and highlights the high percentage of young people who aspire to be YouTubers. Then, he discusses the trade-offs that most of these young people do not anticipate.
+-
+Creative Jobs Scale Differently vs. Regular Jobs: MKBHD says that “When you first start, you are just being creative. That's the whole job. You are making stuff and that's fun, so you get to have all kinds of crazy creative ideas and you're getting better at making [the content]…At a certain point, you get your first opportunity to do some larger new thing and it's super cool that the door has been opened because of all the creative work you're putting in…so you need to sort of scale up a little bit to be able to address said new opportunities and…it's an advancement…but now you're spending time on scaling up and less time on being creative.”
+-
+A Creator is Like an Octopus: A YouTuber has 5-10 jobs. These jobs include writer, cinematographer, on-screen talent, scheduling, invoicing, PR, accounting, and graphic design. He analogizes it to an octopus, which has 8 arms and 3 hearts. To last long in the YouTube game, a creator has to find out what handful of things they are most passionate about — aka the three hearts (for example: the person might love filming, editing and PR but hate everything else) — and “cut off some of the octopus arms” by outsourcing the work. MKHBD says, “since there is no playbook, I'm just putting this out there…learn what the three hearts are as early you can and hopefully you can run on the treadmill with other people who control the other arms”.
+MKBHD also mentions that he enjoys the business aspect of the job (in contrast with Tom Scott, who said he didn't want to scale up and manage people). This dovetails with the fact that MKBHD is a leading product reviewer and he must get the wildest opportunities. He has already collaborated on shoes with Atomic and recently became the Chief Creative Partner at accessory-maker Ridge.
+These entrepreneurial ventures are “second winds”. They fit snugly into his existing content, which reduces the likelihood of burnout.
+Similarly, MrBeast — the world’s top individual YouTuber (who uploaded his first video in 2012 at the age of 13) — is still pushing on the platform. But he has also found an entrepreneurial outlet (Feastables chocolate bars) and is in negotiations to expand into streaming (a $100m deal to host a game show on Amazon Prime Video).
+The last YouTuber we’ll cover is Rick Beato.
+All of the aforementioned creators are 40 years or younger. Rick is 61 years old and started posting seriously on the video platform 7 years ago in his mid-50s (Beato’s channel now has ~4m subscribers).
+Unlike the majority of top YouTubers, Rick came to the platform as someone who had lived multiple previous different lives. His primary objective was to share his knowledge earned from decades as a musician and professional in the music industry.
+In his reaction video, he talks about how he finds the job of being a YouTuber stress free. Why? Because [YouTube will be his ](https://link.workweek.com/click/34460325.38675/aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g_dj1COVBib1RZbXVRUSZoYXNoZWRfdXNlcj0wZWJlZjEyYzQyOTExODQ1NjJkYWMwOTk2NWJjZTgwOA/6520d6df2061f24a7d071f97E77c320fc)[last job](https://link.workweek.com/click/34460325.38675/aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g_dj1COVBib1RZbXVRUSZoYXNoZWRfdXNlcj0wZWJlZjEyYzQyOTExODQ1NjJkYWMwOTk2NWJjZTgwOA/6520d6df2061f24a7d071f97F77c320fc) when he decides to quit:
+"It's really interesting to hear people describe the process of what it's like and the stress that's involved with making YouTube videos.
+Now, I don't feel the stress because I make videos on things I'm interested in. I don't care about the views. I could make a video right now on a topic that I know will get millions of views and I'm making this video instead because this is the video I want to make today. […]
+I talked about how this will be my last job. Being a YouTuber here on this channel. I had a job as a college professor in my 20s. Until I was 30, I tried to make it in a band. In my 30s up until I was 37, I got dropped and became a music producer. I did that until 2016, when I started this channel.
+But this will be my last job. I will [one day] retire from being a YouTuber for better or worse… I know nothing lasts forever."
+Rick is doing the career of a popular YouTubers in reverse. He came from a different era and joined the platform as his "second wind" (or his "fifth wind" if we include the prior professions).
+Where will the "second wind" lead the other YouTubers?
+Whatever their next adventures, Beato's parting words from his video are very apt: "There are certain things — as your life goes on — that pass you by, and that is OK."

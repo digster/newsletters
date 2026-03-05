@@ -1,0 +1,102 @@
+---
+subject: "Building Empires on Other People’s Balance Sheets"
+from: "\"Neel Chhabra from Neel’s Newsletter\" <neelchhabra@substack.com>"
+to: ""
+date: 2026-02-12 10:10:13
+labels: ["CATEGORY_PERSONAL", "INBOX", "Neel Chhabra", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_1703214449706674033", "UNREAD"]
+---
+|
+There’s a beautiful paradox hiding in plain sight in financial services. The businesses that handle the most capital require the least capital. The firms that touch trillions deploy billions. And the platforms that intermediate wealth creation capture more value than the companies actually creating the wealth.
+This is the aesthetic contradiction at the heart of wealth management, and it’s exactly the kind of structural asymmetry that makes my pattern-recognition neurons light up.
+Let’s start with first principles. In the physical world, if you want to move mass, you need energy proportional to that mass. If you want to store inventory, you need warehouses proportional to that inventory. If you want to manufacture widgets, you need capex roughly scaled to widget output.
+But in the world of financial intermediation, the physics are inverted. Moving ₹10,000 crores costs roughly the same as moving ₹100 crores… which is to say, almost nothing. The marginal cost curve is not just favorable; it’s essentially flat after you’ve built the initial platform.
+Most businesses require linear capital deployment: double your factory, double your capacity. Double your lending book, double your risk. The marginal unit of growth demands a marginal unit of capital.
+Wealth management violates this entirely. It’s a business where your “product” is other people’s capital, your “inventory” is their trust, and your returns scale logarithmically with your inputs while your revenue scales linearly with theirs.
+This is why wealth management represents one of the purest expressions of what I call “leverage without liability”—you’re orchestrating the deployment of other people’s capital while capturing a toll on every transaction, every rebalancing, every allocation decision.
+A relationship manager handling 30-35 UHNI families managing ₹650-700 crores generates ₹3-4 crores in revenue with perhaps ₹1 crore in costs. That’s not just healthy unit economics… that’s physics-defying unit economics. You’re capturing value from assets you never owned, never warehoused, never insured, and never had to liquidate.
+Start with the fundamental physics. Traditional banking is constrained by capital adequacy ratios. Deploy ₹100 in loans, you need ₹10-15 in equity capital. Your ROE ceiling is determined by spreads (3-4%), leverage (10x), and credit quality. Pristine execution gets you to 15-20% ROE. That’s your thermodynamic limit… you can’t exceed it without increasing risk to unacceptable levels.
+Asset management is better: fees on AUM, no balance sheet risk. But you’re still deploying intellectual capital (fund managers, analysts, research). Your margin structure is capped by talent costs. And mutual funds face structural margin compression from passive products… the “Innovator’s Dilemma” of financial services, where low-cost competitors attack from below.
+Wealth management breaks the game entirely.
+You’re orchestrating capital allocation without deploying capital. You’re earning fees on ₹1,00,000 crore while holding ₹2,000 crore in equity. At 50 bps net yield after all costs, that’s ₹5,000 crore revenue. At 40% EBITDA margins (conservative for scale), you’re generating ₹2,000 crore in operating profit on ₹2,000 crore in book value.
+That’s not 100% ROE. That’s theoretically infinite ROE because you’re not deploying capital in the conventional sense. Your “capital” is reputation, relationships, and regulatory permission. None of these depreciate. All of them compound.
+This is the business model equivalent of arbitrage: you’re exploiting the gap between the value of coordination (massive) and the cost of coordination (tiny).
+Here’s where it gets interesting. Any competent relationship manager can theoretically quit Goldman or 360 One tomorrow, take their Rolodex, and hang up a shingle. The barriers to entry are laughably low… you need a laptop, a license, and a persuasive pitch.
+But here’s what they’ll quickly discover: being a solo practitioner is categorically different from being a platform. The platform provides:
+Product manufacturing capability - You can’t create proprietary AIFs or PMSs from your apartment. You need scale, compliance infrastructure, and track record to manufacture differentiated products.
+Deal flow access - The most lucrative opportunities in wealth management aren’t the public markets everyone can access. They’re the pre-IPO rounds, the secondary sales, the structured products that only come to platforms with scale and reputation.
+Operational leverage - Every client needs compliance, reporting, custody, tax optimization. Solo practitioners either do this themselves (killing their time arbitrage) or outsource it (killing their margin).
+Brand insurance - UHNIs aren’t gambling with their wealth. They want the confidence that comes from institutional backing. They want to know you’ll still be around in 2045.
+This is the beauty of the model: talent mobility creates the illusion of competition while platform effects create the reality of oligopoly. The game isn’t preventing defection… it’s making sure defectors have nowhere better to go than your 4-5 peer platforms.
+Now overlay this on a secular trend that’s been accelerating for decades: wealth concentration. In the US, the top 10% now control 62% of wealth versus 55% in 1989. In India, the trajectory is even more dramatic… we’re early in a multi-decade concentration cycle.
+This isn’t just inequality, it’s market structure evolution. As individual balance sheets grow, the addressable market for high-touch wealth management grows geometrically, not linearly. Someone with ₹2 crores uses a mutual fund. Someone with ₹20 crores uses a wealth manager. Someone with ₹200 crores becomes a profit center unto themselves.
+The TAM isn’t growing, it’s convexifying. Your existing customers automatically become more valuable over time through:
+Market appreciation of their holdings (8-10% annually)
+Additional wealth accumulation (savings flows)
+Inheritance transfers (the largest wealth transfer in history is happening now)
+Liquidity events (promoter OFSs, startup secondaries, ESOP cashouts)
+This creates a fascinating dynamic: you can grow 18-20% annually just by serving your existing clients better. You don’t need new customer acquisition at that point, you just need to deepen wallet share as their wallets expand.
+Here’s where the smartest players separate from the pack. 360 One was first to market with pre-IPO funds in 2017. Edelweiss pioneered credit funds. These weren’t just product innovations, they were manufacturing integrations that fundamentally changed the economics.
+When you’re pure distribution, you capture 50% of fees (maybe). When you manufacture, you capture 100% of fees. But more importantly, you capture the optionality to create differentiated products that drive acquisition and retention.
+This is the Amazon private label playbook applied to financial services: use your distribution platform to understand what products sell, then manufacture your own versions that you control completely. Except unlike Amazon, where margin compression is inevitable as you scale, wealth management margins expand because:
+Your clients get wealthier over time (increasing AUM per client)
+You capture more wallet share (advisory + distribution + manufacturing)
+Your cost structure scales sublinearly (fixed costs amortized over growing AUM)
+The result? Companies that can sustain 25%+ ROE while growing 20%+ annually while paying out 80% of earnings. This is vanishingly rare in capitalism.
+Now take everything above and multiply it by “India in 2025.” The setup is almost too perfect:
+Wealth creation acceleration: India is projected to add more billionaires in the next decade than any country except China. We already have 284 billionaires despite an economy 1/5th the size of the US or China. The derivative of wealth creation is accelerating.
+Financialization wave: Only 10% of households have demat accounts. Financial assets are 15% of household savings versus 30-40% in developed markets. We’re in the second inning of a nine-inning game of portfolio reallocation from real estate/gold to financial assets.
+Formalization inflection: The combination of digital infrastructure (UPI, Aadhaar, Account Aggregator), regulatory clarity (SEBI’s evolution), and generational change (millennials who grew up with equity investing) is driving formalization of wealth management at unprecedented rates.
+Liquidity unlock: With ₹15-20 billion in annual promoter OFSs and secondary sales (5-6x increase in recent years) plus unicorn ESOP cashouts, we’re seeing the transition from paper wealth to liquid wealth. This is gasoline on the financialization fire.
+If you’re growing 20% in a market growing 25%, you’re either incompetent or leaving money on the table. The tailwind is that strong.
+Every skeptic’s first objection: “But isn’t this cyclical? Won’t a bear market destroy these businesses?”
+The data says otherwise. Wealth managers exhibited the least cyclicality of any capital markets segment from 2006-2023… a period that included the Global Financial Crisis, COVID crash, and multiple corrections.
+Why? Several reasons:
+Fee structures are sticky: Unlike transaction-based businesses, wealth management generates recurring revenue on balances. A 30% market drawdown reduces AUM by 30%, but the client relationship remains. You don’t lose the customer, you temporarily lose some of the asset base.
+Behavioral asymmetry: During bull markets, clients are complacent and need less hand-holding. During bear markets, they’re anxious and increase engagement with advisors. Flight to quality strengthens incumbent platforms.
+New flow dynamics: Market corrections accelerate the shift from real estate/gold into financial assets as relative valuations shift. They also create opportunities (distressed credit, secondary buyouts) that sophisticated wealth managers can access.
+Luxury goods effect: Your customers are largely insulated from macro shocks. The UHNI segment doesn’t stop consuming wealth management services during recessions, they might even increase consumption as complexity rises.
+The historical evidence supports this: during 2008-2009 and 2020, wealth manager profits remained relatively stable while exchanges and mutual funds saw significant compression.
+Here’s where it gets strange. Indian wealth managers trade at 25-30x P/E while delivering:
+20-25% revenue growth
+25%+ ROE
+80% earnings payout ratios
+Low cyclicality
+Multiple secular tailwinds
+For context:
+Indian mutual fund AMCs: 35-45x for 15-18% growth
+Indian exchanges: 25-50x with higher regulatory risk
+US wealth managers: 15-20x for 12-15% growth
+The Indian wealth management multiple looks expensive vs. US peers but reasonable vs. Indian financial services peers. The multiple may actually be cheap relative to the opportunity.
+Why? Because the market is still anchoring on “financial services cyclicality” when it should be thinking “luxury brand recurring revenue.” Hermès doesn’t trade like Citigroup, even though both serve the wealthy. One is selling discretionary consumption; the other is facilitating wealth compounding.
+Wealth management at scale is more like the former than the latter.
+Of course, none of this matters if you can’t execute. And execution in wealth management is brutally difficult because:
+Talent is everything: Your business is only as good as your RMs, and good RMs are scarce. You need to attract, retain, and continuously upskill elite talent in a market with no formal training infrastructure.
+Product innovation matters: You need to stay ahead of client needs and market trends. The firms that win are those that launch the right products at the right time—pre-IPO funds in 2017, credit funds in the NBFC crisis, real estate funds post-RERA.
+Culture scales poorly: Most firms that try to scale from boutique to platform lose the culture that made them successful in the first place. Service quality dilutes, compliance issues emerge, politics proliferate.
+Cost discipline is critical: The temptation to overpay for talent or overspend on growth is enormous. The firms that win manage to grow aggressively while maintaining 35-40% EBITDA margins.
+This is why there will only be 3-4 winners in the UHNI segment. The barriers to scale filter out everyone who can’t simultaneously optimize across talent, product, culture, and costs. The firms that can do this will compound value for decades.
+One of my favorite frameworks is viewing businesses through the lens of optionality… how many different ways can this business succeed? How many paths lead to good outcomes?
+Wealth managers score exceptionally well here:
+Product optionality: Can expand into new asset classes (real estate, PE, venture), new structures (AIFs, PMSs, SPVs), new geographies.
+Client optionality: Can move upmarket (family offices) or downmarket (affluent segment via technology), can add adjacent services (tax, estate planning, philanthropy).
+Distribution optionality: Can go direct, can partner with fintechs, can acquire boutiques, can launch white-label platforms.
+Monetization optionality: Can charge advisory fees, can charge distribution commissions, can charge performance fees, can earn spreads on structured products.
+This is the opposite of a business with one path to success. Wealth managers have multiple independent shots on goal, each with positive expected value.
+Step back and consider the confluence:
+India growing faster than any major economy
+Wealth concentrating faster than in developed markets
+Financialization accelerating from low base
+Liquidity events creating new pools of capital
+Platform effects creating oligopolistic market structure
+Unit economics that improve with scale
+Sustainable 20%+ growth while returning 80% of earnings
+This isn’t a bet on a management team or a product cycle. It’s a bet on structural inevitability.
+The wealth managers that survive the execution filter will build compounding machines that turn other people’s wealth accumulation into their own. They’ll grow for two decades while paying out most profits. They’ll exhibit low cyclicality despite being in a cyclical sector. They’ll trade at reasonable multiples despite having extraordinary economics.
+And the whole time, skeptics will point out that “it’s just a people business” or “it’s cyclical” or “the valuation seems high.” These are the same objections that people had about asset-light platform businesses for the past two decades… right before they created trillions in shareholder value.
+The aesthetic contradiction persists: the businesses that require no capital end up commanding all the capital. The platforms with the lowest barriers to entry build the highest barriers to scale. The most cyclical sector produces the least cyclical returns.
+This is what makes capitalism beautiful… when structure trumps skepticism, when physics enables compounding, when other people’s wealth becomes your wealth without you ever owning it.
+That’s not a business model. That’s financial jujitsu.
+And we’re still in the early innings…
+Thank you for reading, see you soon!
+Neel’s Newsletter is free today. But if you enjoyed this post, you can tell Neel’s Newsletter that their writing is valuable by pledging a future subscription. You won't be charged unless they enable payments.

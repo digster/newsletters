@@ -1,0 +1,10 @@
+---
+subject: "Harvey Mansfield on Rousseau and the dilemma of our age"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2025-12-22 08:31:05
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+Thus, it would seem that Rousseau compels us to choose either science or morality. If we choose morality ,we must enforce ignorance by maintaining political control over the sciences and the arts. We must believe in something like creationism because it says that nature was created for our good, and not believe in technology that exploits nature by exposing its disadvantages and hardships, such as cloning human beings to avoid the troubles of natural birth. But if we choose science, we run the risk of an explosion as human morals worsen as human power grows...There is hardly any issue today more fateful than the questison of whether modern science is the friend of politics and morality, as Hume says, or the enemy, as Rousseau says.
+That is from Mansfield's forthcoming book [The Rise and Fall of Rational Control](http://marginalrevolution.com?action=user_content_redirect&uuid=d03c445554fe0bd6d23475acb0502bb045b075886df6e16bf5f1d02e7ab39cb9&blog_id=42693868&post_id=92091&user_id=262258391&subs_id=225460721&signature=a2e57780726de0eb9106da5373b45522&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9SaXNlLUZhbGwtUmF0aW9uYWwtQ29udHJvbC1QaGlsb3NvcGh5L2RwLzA2NzQyOTg4NTMvcmVmPXNyXzFfMT9jcmlkPTJYQTFFQk5RRkFBUTQmZGliPWV5SjJJam9pTVNKOS5xUkNmd3dqVDZaYVJvVkdEd3RYeVdRLjMxbDBtODNqY0VoMWJIZ1BiUkNfV29IeWdiZlNZVDRzTEo2TjFiYjZqZEUmZGliX3RhZz1zZSZrZXl3b3Jkcz1yaXNlK2FuZCtmYWxsK29mK3JhdGlvbmFsK2NvbnRyb2wmcWlkPTE3NjYzNjMyMjgmc3ByZWZpeD1yaXNlK2FuZCtmYWxsK29mK3JhdGlvbiUyQ2FwcyUyQzEwNCZzcj04LTE&email_id=c95fae7de4b1589ead628ffb591c39af).

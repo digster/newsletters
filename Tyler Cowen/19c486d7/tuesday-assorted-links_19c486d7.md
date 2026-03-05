@@ -1,0 +1,13 @@
+---
+subject: "Tuesday assorted links"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2026-02-10 16:41:00
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+1. [Becca Rothfeld and Jordan Salama joining The New Yorker](https://marginalrevolution.com?action=user_content_redirect&uuid=c0f48852a6a25ed18d46001a85746107ac1d9d8f4445c51d0510a3137a78dcbc&blog_id=42693868&post_id=92409&user_id=262258391&subs_id=225460721&signature=db3ae35d7959605248115b3abcbb6aad&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly94LmNvbS9taWNoYWVsbHVvL3N0YXR1cy8yMDIwOTA0MDAxNTQ2NDMyNTE5&email_id=941113c819fd3da95997fb18339da069).
+2. [Discord will be requiring a face scan or ID for full access](https://marginalrevolution.com?action=user_content_redirect&uuid=1b1648abd6fb6a9512ac63fab6d3d1c24c62301ef0d3565e7e48678db457a0c1&blog_id=42693868&post_id=92409&user_id=262258391&subs_id=225460721&signature=655ed4cf0b30c14a3a820a4d5bc3537e&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly94LmNvbS92ZXJnZS9zdGF0dXMvMjAyMDg2MTU3MjU3OTc5NTQzOQ=&email_id=941113c819fd3da95997fb18339da069). I wonder what induced that change?
+3. [Meta-study showing that the returns to education are not so high](https://marginalrevolution.com?action=user_content_redirect&uuid=b93be0c57c918ba5928e5d85829f198a16507106c872938f3a30286ea4c6018e&blog_id=42693868&post_id=92409&user_id=262258391&subs_id=225460721&signature=bb659f3f3683ad71efdfef263fa85304&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly9vbmxpbmVsaWJyYXJ5LndpbGV5LmNvbS9kb2kvMTAuMTExMS9reWtsLjcwMDQx&email_id=941113c819fd3da95997fb18339da069).
+4. [Is she the most important philosopher in the world?](https://marginalrevolution.com?action=user_content_redirect&uuid=ca8dc3b53b8c50032b65f897a49eb12b22d16113ec56b14da064b793f07ee537&blog_id=42693868&post_id=92409&user_id=262258391&subs_id=225460721&signature=3e9035cb530107f61c48806beeef3dcd&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly93d3cud3NqLmNvbS90ZWNoL2FpL2FudGhyb3BpYy1hbWFuZGEtYXNrZWxsLXBoaWxvc29waGVyLWFpLTNjMDMxODgzP21vZD1lMnR3&email_id=941113c819fd3da95997fb18339da069) (WSJ)
+5. [Do not exercise options unless you have to!](https://marginalrevolution.com?action=user_content_redirect&uuid=62d191afefd4840be719ba8f9abf937291f86414d88a45cb751536b9079b0f42&blog_id=42693868&post_id=92409&user_id=262258391&subs_id=225460721&signature=7e73d860504852e60e1c568f222df207&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly94LmNvbS9zY2llbmNlZ2lybC9zdGF0dXMvMjAyMTExMDUwNzE2MDEzMzc2Mg=&email_id=941113c819fd3da95997fb18339da069)

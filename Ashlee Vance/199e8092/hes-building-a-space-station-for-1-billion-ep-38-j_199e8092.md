@@ -1,0 +1,9 @@
+---
+subject: "He's Building A Space Station For $1 Billion - EP 38 Jed McCaleb"
+from: "Ashlee Vance from Core Memory  <ashleevance@substack.com>"
+to: ""
+date: 2025-10-15 13:21:58
+labels: ["Ashlee Vance", "CATEGORY_PERSONAL", "INBOX", "UNREAD"]
+label_ids: ["Label_4216359091400734623", "CATEGORY_PERSONAL", "INBOX", "UNREAD"]
+---
+Jed McCaleb grew up in Arkansas where he lived in a cabin in the woods that had no electricity or running water. Now, he’s a billionaire building a space station and funding some of the world’s most adventurous science. America remains a thing, I guess. McCaleb, 50, has been at the center of several major technology movements. Back in the peer-to-peer glory days, he released the eDonkey application for music and file-swapping and had the pleasure of being sued by the major record labels. Then, in 2010, he launched the Mt. Gox bitcoin exchange, which dominated the crypto world until it turned into a story of A couple of years later, McCaleb developed the Ripple protocol before moving on to build yet more crypto innovations. This work made McCaleb fabulously well-to-do. (He’s worth $3 billion . . . if you believe Forbes.) McCaleb has used his fortune to back a number of start-ups and philanthropic endeavors. When Elon Musk pulled out of supporting OpenAI, McCaleb helped backfill the financial vacuum. He’s also been a major investor in Max Hodak’s Science Corp., which is McCaleb’s real blockbuster investment is Vast Space. The start-up is building a commercial space station My conversation with McCaleb travels across these various tech eras. He comes off, at least to me, as an oddly down-to-Earth guy for someone who invests in such a variety of wild ideas. Enjoy! The Core Memory podcast is sponsored by The podcast is also made possible by Hopefully, you enjoyed this story. If so, please share it and subscribe to Core Memory. We want to do more of this for you and need your help. Thanks! |
