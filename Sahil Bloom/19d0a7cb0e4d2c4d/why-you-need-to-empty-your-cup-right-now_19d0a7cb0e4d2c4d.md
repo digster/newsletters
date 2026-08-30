@@ -1,0 +1,78 @@
+---
+id: "19d0a7cb0e4d2c4d"
+subject: "Why You Need To Empty Your Cup (Right Now)"
+from: "\"Sahil Bloom's Curiosity Chronicle\" <sahil@sahilbloom.com>"
+to: ""
+date: 2026-03-20 09:03:54
+labels: ["CATEGORY_PERSONAL", "INBOX", "Sahil Bloom", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_1989028747625928812", "UNREAD"]
+---
+The Empty Cup Mindset
+watch on [YouTube](https://a01c829f.click.convertkit-mail4.com/68u6288pwkb8h5rx430hohp0o8zq2b9hlk6ql/25h2hoh39e3zdkt3/aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g_dj10V18wTjRaZ2lIcw==) or read and listen on [sahilbloom.com](https://a01c829f.click.convertkit-mail4.com/68u6288pwkb8h5rx430hohp0o8zq2b9hlk6ql/g3hnh5hm9km5p0ir/aHR0cHM6Ly93d3cuc2FoaWxibG9vbS5jb20vbmV3c2xldHRlci90aGUtZW1wdHktY3VwLW1pbmRzZXQ=)
+read time 6 minutes
+Welcome to The Curiosity Chronicle, a newsletter where I provide actionable ideas to help you build a high-performing, healthy, wealthy life.
+Forwarded this email? Join 800,000+ other readers [here](https://a01c829f.click.convertkit-mail4.com/68u6288pwkb8h5rx430hohp0o8zq2b9hlk6ql/3ohphkh3mn3lzwbr/aHR0cHM6Ly93d3cuc2FoaWxibG9vbS5jb20vbmV3c2xldHRlcg==).
+Announcement: My friend Arthur Brooks just wrote a book called [The Meaning of Your Life: Finding Purpose in an Age of Emptiness](https://a01c829f.click.convertkit-mail4.com/68u6288pwkb8h5rx430hohp0o8zq2b9hlk6ql/48hvhehmlnmek5sx/aHR0cDovL3RoZW1lYW5pbmdvZnlvdXJsaWZlLmNvbQ==). If you’ve found yourself reflecting on legacy, relationships, contribution, faith, family, or how you want to spend your time going forward, you’re not alone. [Preorder](https://a01c829f.click.convertkit-mail4.com/68u6288pwkb8h5rx430hohp0o8zq2b9hlk6ql/reh8hohmdemrn7b2/aHR0cHM6Ly93d3cuYXJ0aHVyYnJvb2tzLmNvbS90aGUtbWVhbmluZy1vZi15b3VyLWxpZmUjcHJlLW9yZGVy) your copy today.
+|
+This [free AI tool](https://a01c829f.click.convertkit-mail4.com/68u6288pwkb8h5rx430hohp0o8zq2b9hlk6ql/8ghqhohodxovkxbk/aHR0cHM6Ly9oZXlsZW1vbi5haS8_dXRtX3NvdXJjZT1zYmxvb20=) is saving me hours per day!
+Honestly, most AI tools don’t move the needle for me. But this one completely changed my workflows and productivity in a matter of days.
+It's called [Lemon](https://a01c829f.click.convertkit-mail4.com/68u6288pwkb8h5rx430hohp0o8zq2b9hlk6ql/8ghqhohodxovkxbk/aHR0cHM6Ly9oZXlsZW1vbi5haS8_dXRtX3NvdXJjZT1zYmxvb20=)—and you should be using it (it’s free).
+With Lemon, you just press a button, speak, and watch as it magically executes whatever you said on your computer.
+I've been using it for quickly triaging emails and messages, outlining meeting docs for my team, and much more. It's much more capable than the dictation-only tools out there, because it can actually execute all variety of work as an agent on your desktop.
+[Lemon](https://a01c829f.click.convertkit-mail4.com/68u6288pwkb8h5rx430hohp0o8zq2b9hlk6ql/8ghqhohodxovkxbk/aHR0cHM6Ly9oZXlsZW1vbi5haS8_dXRtX3NvdXJjZT1zYmxvb20=) is saving me hours every single day. It's today's partner and I even invested in the company because they're building something special. I highly recommend checking it out.
+|
+The Empty Cup Mindset
+“It ain‘t what you don’t know that gets you into trouble. It’s what you know for sure that just ain’t so.” - Mark Twain
+In the mid-19th century, a physician named Dr. Ignaz Semmelweis was working as an assistant in Vienna General Hospital when he noticed something curious.
+The hospital had two maternity clinics right next to each other, one staffed by doctors and medical students, the other by midwives.
+Childbed fever—a bacterial infection impacting postpartum mothers—was rampant in hospitals of the era, but the two maternity clinics had dramatically different experiences with it.
+The mortality rate of mothers at the clinic staffed by doctors and medical students was a shocking (even for the era) 18%, while it was just 2% at the clinic staffed by midwives.
+As awareness of the difference spread, expectant mothers were literally begging to deliver at the midwife clinic.
+Dr. Semmelweis scrutinized the differences in how the two clinics handled the births, but came up empty.
+Then, a tragedy sparked an insight…
+After a close friend in the hospital died of a similar infection following an accidental cut while performing an autopsy, it occurred to Semmelweis that the doctors and medical students were often moving straight from working on cadavers to delivering babies.
+Without washing their hands in between.
+He mandated handwashing with chlorinated lime prior to entering the maternity clinic.
+And it worked: The mortality rate of the clinic staffed by the doctors and medical students immediately dropped from 18% to below 2%.
+Unfortunately for Dr. Semmelweis, rather than being regarded as a hero, he was broadly ridiculed by the medical community.
+Germ theory was non-existent at the time and many doctors resented the notion that their hands were the source of the clinic’s mortality problems.
+Growing increasingly frustrated by the refusal of his peers to accept this new evidence, he was dismissed from the hospital. He spent years agitating for change, to no avail, and was eventually committed to an insane asylum, where he was beaten by guards and died of septic shock at just 47 years old.
+The evidence had been overwhelming. The results had been undeniable.
+And yet, none of that mattered.
+The Semmelweis Reflex is the aptly-named human tendency to reject new evidence or knowledge because it contradicts one’s established beliefs or norms.
+Why does this happen? Why do smart, accomplished people reject the very evidence that could help them?
+There’s an old Zen parable that offers an answer:
+A professor came to visit an old Zen master to seek advice. "I have come to ask you to teach me about Zen," the professor said. As the master began to teach, the professor repeatedly interrupted him to share his own opinions, knowledge, and stories. The master suggested that the two should take a break to have tea. The master poured the professor a cup. Once it was filled, he kept pouring, until the cup was overflowing hot tea all over the table, onto the floor, and onto the professor's robes. "Stop!" cried the professor, "Can't you see the cup is already full?" "Precisely," the Zen master replied, "You are like this cup, so full of ideas that nothing more will fit in. Come back to me with an empty cup."
+The doctors who ridiculed Semmelweis weren't stupid. They were accomplished. They were experts. That was precisely their problem. Accepting his evidence didn't just mean changing a procedure, it meant admitting the flaws in their deeply-entrenched beliefs.
+There was no room in their cup for that.
+The more you know, the fuller your cup becomes. All of your accumulated experience, recognition, and success cements a set of beliefs on the way the world works.
+The full cup can’t accept anything new. There’s no room for new ideas. No ability to adapt. No space for uncertainty.
+The antidote is what I call the Empty Cup Mindset:
+An openness to new ideas, new information, and new perspectives—even when they challenge what you already know. Especially when they challenge what you already know. It’s a willingness to hold strong opinions loosely. To change your mind when the evidence demands it. To treat certainty as a warning sign, not a strength.
+I’m increasingly convinced that the willingness to change your mind is the ultimate sign of intelligence. The most impressive people I know change their minds often in response to new information. It’s like a software update.
+Author George Saunders put it beautifully:
+“In a world full of people who seem to know everything, passionately, based on little (often slanted) information, where certainty is often mistaken for power, what a relief it is to be in the company of someone confident enough to stay unsure.”
+To embrace an Empty Cup Mindset, you should regularly audit the flexibility of your beliefs and understanding of the world. Ask yourself this question:
+What new evidence would cause me to change my mind on this topic?
+If the answer is nothing (or close to it), your cup is too full.
+The Empty Cup Mindset is a reminder that some of what you know today may be challenged by what you learn tomorrow.
+And remember, that’s a good thing.
+Because the goal isn't to be right—it’s to find the truth.
+Order My First Book to Unlock Exclusive Bonuses:
+The 5 Types of Wealth is the compass for your journey to a life of wealth that goes far beyond money. It provides the actionable tools to define, measure, and design your life around the pillars that truly create lasting happiness and fulfillment.
+It will help you find your True North and build your life around it.
+Order now and you'll unlock several new, exclusive bonuses:
+- Access to my Most Powerful Life Hacks Ebook: 50 timeless insights for simplifying your world and living well.
+- Access to The 5 Types of Wealth Digital Community: Join a vibrant group of like-minded individuals committed to creating a life of comprehensive wealth. Connect, collaborate, and grow together.
+- Access to The 5 Types of Wealth Launch Workshop: Get exclusive access to the full recording of this transformative virtual workshop, where I’ll guide you through specific exercises designed to help you apply the principles of the book. Watch it anytime at your convenience!
+Sahil's Recommendation Zone
+|
+My one daily health habit since 2011: [AG1](https://a01c829f.click.convertkit-mail4.com/68u6288pwkb8h5rx430hohp0o8zq2b9hlk6ql/p8heh9h46l408mtq/aHR0cHM6Ly9kcmlua2FnMS5jb20vc2FoaWw=)!
+I started taking [AG1](https://a01c829f.click.convertkit-mail4.com/68u6288pwkb8h5rx430hohp0o8zq2b9hlk6ql/p8heh9h46l408mtq/aHR0cHM6Ly9kcmlua2FnMS5jb20vc2FoaWw=) way before it was trendy or anyone knew about it––in 2011 when I needed to up my health game while playing college baseball. I was one of their first customers and fell in love with it. I took it consistently for over 10 years before asking the CEO for a link to share with family and friends.
+The newly upgraded [AG1 Next Gen](https://a01c829f.click.convertkit-mail4.com/68u6288pwkb8h5rx430hohp0o8zq2b9hlk6ql/p8heh9h46l408mtq/aHR0cHM6Ly9kcmlua2FnMS5jb20vc2FoaWw=) is backed by four clinical trials and features five clinically studied probiotics, functional mushrooms, and whole food-sourced nutrients to support gut health, immune function, and sustained energy.
+[AG1](https://a01c829f.click.convertkit-mail4.com/68u6288pwkb8h5rx430hohp0o8zq2b9hlk6ql/p8heh9h46l408mtq/aHR0cHM6Ly9kcmlua2FnMS5jb20vc2FoaWw=) is offering my amazing Curiosity Chronicle subscribers a FREE Welcome Kit including Vitamin D3+K2 and AG1 Travel packs when you first subscribe.
+|
+Sahil Bloom
+|
+|
+|

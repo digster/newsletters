@@ -1,0 +1,13 @@
+---
+id: "19d3dda43802345d"
+subject: "Open Thread 427"
+from: "Astral Codex Ten <astralcodexten@substack.com>"
+to: ""
+date: 2026-03-30 08:26:10
+labels: ["Astral Codex", "CATEGORY_PERSONAL", "INBOX", "UNREAD"]
+label_ids: ["Label_6409723252142624155", "CATEGORY_PERSONAL", "INBOX", "UNREAD"]
+---
+This is the weekly visible open thread. Post about anything you want, ask random questions, whatever. ACX has an unofficial 1: ACX Grantee 1DaySooner is looking for a Policy Lead for their Clinical Trial Abundance work. Work will be remote but DC location a plus, $100K - $145K salary, 2: Newspeak House, one of the London centres of our conspiracy, is accepting applications for their 2026 fellowship program, “Introduction to Political Technology”. They describe it as:
+3: Several people complained about last week’s post Some people thought I was strawmanning, in the sense of denying that there could be good objections to pausing AI. I tried to explicitly say in the post that such objections existed and were worthy of debate. I was complaining that, instead of discussing such objections, the real-world debate has mostly failed to progress beyond people falsely claiming that a pause has to be unilateral. Other people complained that, even if I thought this was mostly true, it was wrong of me to describe this as “Every” debate on pausing AI. I thought this was within the joke meaning of “Every” used in titles like [Every Bay Area House Party](https://substack.com/redirect/002053bc-7d2c-4df1-9a59-0c54f171785b?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o), ie “humorously capturing the Platonic form of the thing”, but it sounds like it didn’t come across this way, so I’ll be careful around that in the future.Still other people asked good questions about what details of an AI pause would look like. The most fleshed-out plan that’s currently public is [this one](https://substack.com/redirect/01add6aa-5672-4ee4-98f7-5002ab3a8636?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o), which I haven’t read in enough detail to have strong opinions on. But another one that I’m excited about will come out soon, and I’ll cover it (and this topic) in more detail then.
+4: New subscriber only post -
+5: I’ll be away the next few weeks on an Important Journalistic Fact-Finding Mission. I’ll post some old essays from the queue, but they might not be very timely, and I’ll respond to comments and emails less than usual. This also means I’ll miss the first half of Inkhaven - sorry to anyone who I told I would be there - but I’ll still be around for the second half. You're currently a free subscriber to |

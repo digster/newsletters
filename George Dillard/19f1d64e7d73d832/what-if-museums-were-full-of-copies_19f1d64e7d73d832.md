@@ -1,0 +1,11 @@
+---
+id: "19f1d64e7d73d832"
+subject: "What If Museums Were Full of Copies?"
+from: "George Dillard <worldhistory@substack.com>"
+to: ""
+date: 2026-07-01 11:13:07
+labels: ["CATEGORY_PERSONAL", "George Dillard", "INBOX", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "Label_8626544264601150563", "INBOX", "UNREAD"]
+---
+In 1867, Napoleon III welcomed 15,000,000 people to the Exposition Universelle, a World’s Fair in Paris. As was common at these events, there was a lot to see. Visitors could check out the latest technology, scientific specimens, cultural displays, athletic competitions, and theatrical performances. And art — lots of art. Though the official jury rejected artwork from cutting-edge painters of the time like Manet, Courbet, Pissarro, and Cezanne (some of them opened up rival galleries nearby), the Exposition displayed cultural treasures from dozens of countries. The art in the Japanese Pavilion especially caused a stir, as Japan had only recently opened up to the rest of the world. Having so much of the world’s art collected in the same place got the kings and princes who visited the exhibition thinking. What if people around the world could see all of this great stuff more often? Noblemen from 11 European countries sat down and signed a treaty about it: the This agreement declares that “Throughout the world every country possesses fine Historical Monuments of Art of its own, which can easily be reproduced…” and that “The knowledge of such monuments is necessary to the progress of Art, and the reproductions of them would be of a high value to all Museums for public instruction.” Therefore, these countries set out to copy the contents of each other’s museums to enlighten the public. Perhaps every city could have a collection of the world’s great works of art. Luckily, a new technology had just emerged to make this possible. ... Keep reading with a 7-day free trialSubscribe to Looking Through the Past to keep reading this post and get 7 days of free access to the full post archives. A subscription gets you:
+|

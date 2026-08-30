@@ -1,0 +1,10 @@
+---
+id: "19d96aad7694c826"
+subject: "The $50,000 Underwater Drone - EP 66 Ulysses"
+from: "Core Memory  <ashleevance@substack.com>"
+to: ""
+date: 2026-04-16 14:19:05
+labels: ["Ashlee Vance", "CATEGORY_PERSONAL", "INBOX", "UNREAD"]
+label_ids: ["Label_4216359091400734623", "CATEGORY_PERSONAL", "INBOX", "UNREAD"]
+---
+Guinness. Sharks. American manufacturing. These are a few of the interests I share with the founders of Ulysses, a San Francisco startup building autonomous underwater drones. The idea for Ulysses started when one of the four co-founders was on a surf trip and learned how much of humanity depends on a single marine plant: The robots are called Mako. They’re two meters long, weigh about 400 pounds, and can dive 5,000 feet for up to 72 hours at a time. They’re also modular — payloads swap in and out like Legos, so the same vehicle that plants seagrass in Australia one week can inspect a submarine cable in the Baltic the next. A base Mako costs $50,000. Most legacy underwater drones built by big defense contractors can run between $1 million and $20 million each. On this episode of the Core Memory podcast, we’re joined by Will O’Brien and Akhil Voorakkara, co-founders of Ulysses. They build these drones out of an office in San Francisco — for conservation, for academia, for national defense. They just raised a $38 million Series A led by Andreessen Horowitz through its American Dynamism fund. We discuss what it actually takes to make robots for the most hostile environment on Earth, why the ocean is about to have its SpaceX moment, and the surprisingly thin line between planting seagrass and defending NATO. The Core Memory podcast is on all major platforms and on our YouTube channel This podcast is sponsored by Brex, the intelligent finance platform built to help companies spend smarter and move faster. We run on Brex and so should you. Learn more about Hopefully, you enjoyed this story. If so, please share it and subscribe to Core Memory. We want to do more of this for you and need your help. Thanks! |

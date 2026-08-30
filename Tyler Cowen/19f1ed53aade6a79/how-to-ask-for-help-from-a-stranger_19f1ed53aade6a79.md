@@ -1,0 +1,12 @@
+---
+id: "19f1ed53aade6a79"
+subject: "How to ask for help from a stranger"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2026-07-01 17:58:38
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699"]
+---
+The next heuristic is to make your request easy to accept. Making something easy to accept largely is about reducing the cost of acceptance. One clear kind of cost is the magnitude. Do ask someone for twenty minutes of their time, but don’t ask them to read your five-hundred-page manuscript in a week. Another is to make it specific: asking for a resource to start with is better than “can I pick your brain?”. When you’ve made your request, make it low friction for them. If you’re asking for an introduction, write a blurb about yourself which they can forward. If you have a question, ask it in writing rather than over a call. And last on cost, make your ask bounded. Don’t ask for recurring obligations like being your mentor for your whole life, but do keep it limited to asking them to read a blog post. If that instance goes well, they’ll gladly read more.
+My last heuristic is stranger: make it easy to say no. You might think that the worst outcome is a no, but the worst outcome is a pressured, begrudging yes. Your coercion will have poisoned your relationship with this person while you feel the false glow of a hard-won victory. A person who helps you with gritted teeth is one who will never help you again. And even then, the help will be a half-hearted effort to get rid of the obligation you manufactured. By contrast, help freely given is effortless, the way you’d hold the door open for someone. Help willingly given keeps your conscience clear, free from the burden of having pressured someone. And help, when given from the heart, is the foundation of a relationship where both of you contribute to what you’re building.
+Here is [more from Pradyumna Prasad](https://marginalrevolution.com?action=user_content_redirect&uuid=63b5c1433233eb10c775f3b81ff930268e51422a175a98bc1214057daa469d51&blog_id=42693868&post_id=93311&user_id=262258391&subs_id=225460721&signature=34f4e9cabf4ef9326413ae913255cff4&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly9wcmFkeXVwcmFzYWQuY29tL3dyaXRpbmdzL2hvdy10by1hc2stZm9yLWhlbHAv&email_id=c85a03fb8237cf3f0ce89c5059612cce).

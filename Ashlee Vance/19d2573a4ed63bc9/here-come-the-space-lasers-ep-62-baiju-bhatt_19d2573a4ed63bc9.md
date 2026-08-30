@@ -1,0 +1,10 @@
+---
+id: "19d2573a4ed63bc9"
+subject: "Here Come The Space Lasers - EP 62 Baiju Bhatt"
+from: "Core Memory  <ashleevance@substack.com>"
+to: ""
+date: 2026-03-25 14:43:03
+labels: ["Ashlee Vance", "CATEGORY_PERSONAL", "INBOX", "UNREAD"]
+label_ids: ["Label_4216359091400734623", "CATEGORY_PERSONAL", "INBOX", "UNREAD"]
+---
+Baiju Bhatt is trying to pull an Elon Musk. About 25 years ago, Musk sold his finance tech company PayPal and left dot-com life to get into rockets with the founding of SpaceX. Hardly anyone considered this a rational choice on Musk’s part. Space, after all, was where rich people went to blow their fortunes and fail. For his part, Bhatt co-founded the investing service Robinhood in 2013 and has now decided to get into the space business as well via a start-up called The lasers would feed antennas and ground stations on Earth with energy. In theory, you could then direct power just about anywhere without needing to build a ton of infrastructure on the ground. Army convoys, data centers, etc. could just have electricity sent to them in remote areas. Bhatt explains all of this in the episode and gets deep into his personal story. He also recounts starting and running Robinhood through its ups and downs, including being both beloved and despised. Will the space lasers work? I dunno. It’s a lot. But we are fully in the era of trying new, bold ideas in Low Earth Orbit, and, well, I wrote a book The Core Memory podcast is on all major platforms and on our YouTube channel This podcast is sponsored by Brex, the intelligent finance platform built to help companies spend smarter and move faster. We run on Brex and so should you. Learn more about The podcast is also made possible by Hopefully, you enjoyed this story. If so, please share it and subscribe to Core Memory. We want to do more of this for you and need your help. Thanks! |

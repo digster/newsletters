@@ -1,0 +1,45 @@
+---
+id: "19e5adb0fe269a14"
+subject: "Retatrutide hits 28% weight loss in Phase 3"
+from: "Chamath Palihapitiya <chamath@substack.com>"
+to: ""
+date: 2026-05-24 16:38:20
+labels: ["CATEGORY_PERSONAL", "Chamath", "INBOX", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "Label_4017391144830520384", "INBOX", "UNREAD"]
+---
+|
+What I Read This Week: a summary of the content that I consumed this past week…
+1) Retatrutide hits 28% weight loss in Phase 3
+On May 21, Eli Lilly released[ Phase 3 results](https://substack.com/redirect/4b9cb8c9-cef5-4bf4-a1a4-650004a5b1b1?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) for retatrutide from the 2,339-patient TRIUMPH-1 obesity trial. On average, with a 12mg dose, participants lost 28.3% of body weight (70.3 lbs) over 80 weeks against 2.2% on placebo (5.5 lbs).
+65.3% dropped below the obesity cutoff of a 30 BMI, and 45.3% of the cohort hit at least 30% weight loss. This is comparable to bariatric surgery, which removes part of the stomach to help patients eat less and lose weight.
+Retatrutide is the first “triple agonist,” a single molecule designed to activate three metabolic receptors simultaneously:
+GLP-1: Activates appetite suppression and insulin regulation.
+GIP: Synergizes with GLP-1 to further reduce appetite, improve fat metabolism, and mitigate side effects.
+Glucagon: Increases resting energy expenditure and accelerates fat oxidation.
+There were concerns about side effects, but Lilly said it did not observe any cardiac or liver issues. The other trials, [TRIUMPH-2](https://substack.com/redirect/08630439-9dbf-4fe1-aed2-e5d0d0cb1202?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) (type 2 diabetes) and [TRIUMPH-3](https://substack.com/redirect/1093daa2-47a1-42e6-b671-dd85d8a02f12?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) (cardiovascular disease), will be out later this year.
+The broader backdrop is population-level obesity data.
+[ Epic Research’s Cosmos dataset](https://substack.com/redirect/169785d0-ab49-4cd5-9290-4a62630fbe2f?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) of more than 300 million US patient records shows adult obesity peaked in 2021 and has trended down, which is the first sustained decline in modern records. During the same window,[ GLP-1 prescription use roughly doubled](https://substack.com/redirect/6a2c7031-6dcd-47c1-9239-d3f7e2c57641?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) from 5.8% of US adults in early 2024 to 12.4% by 2025. Correlation does not mean causation, but is an important health and consumer behavior trends to watch.
+2) The $67B Energy Merger of the AI Era
+[On May 18, NextEra Energy agreed to buy Dominion Energy](https://substack.com/redirect/5fc7c0b1-bdc3-40d2-9db4-29dacce9c4ae?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) for $67 billion in an all-stock deal. This is one of the biggest purchases of a power company in U.S. history. The combined company would be worth roughly $249 billion in the stock market, with an enterprise value of about $420 billion after including the debt used to finance its power plants, transmission lines, and other infrastructure.
+This makes it the third-largest energy company in the country, right behind oil giants Exxon and Chevron. The pipeline includes 130 GW of large-load opportunities.
+NextEra Energy is the largest electric utility holding company in the U.S. It owns Florida Power & Light, but is best known globally as the world’s largest producer of wind and solar energy. Dominion Energy is a massive power company based in Virginia. This location is crucial because Northern Virginia is the “data center capital of the world,” handling a significant share of global internet traffic.
+The four largest hyperscalers committed roughly $725 billion in 2026 capex, nearly double 2025 levels. The Electric Power Research Institute projects that data centers will consume 17% of US electricity by 2030. To keep up, energy providers and grid operators plan to spend more than $1.1 trillion over the next five years to build new power plants and power lines. Even NextEra, which was already the biggest green energy builder in the country, realized its existing scale was insufficient to handle this massive wave of demand.
+3) The Largest IPO in History
+On May 20,[ SpaceX publicly filed its S-1](https://substack.com/redirect/88e46dbf-3e96-4fff-a71b-4595096fa527?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o), targeting a $1.75 trillion valuation and a $75 billion raise, on pace to be the largest IPO ever. The filing rolls up multiple core businesses into a single public entity:
+Connectivity: Primarily Starlink, the satellite internet division.
+Space: Launch systems Falcon 9, Falcon Heavy, Dragon, and Starship.
+xAI: The artificial intelligence arm, which includes the Grok AI and the social media platform X (both absorbed when SpaceX bought xAI for $250 billion in February 2026).
+Consolidated 2025 revenue was $18.7 billion against a $4.94 billion net loss. Q1 2026 alone produced $4.69 billion in revenue and a $4.27 billion loss.
+Starlink generates $11.4 billion in revenue, $4.4 billion in operating income, and has 10.3 million subscribers across 164 countries.
+The launch business sits at $4.1 billion in revenue and a $657 million operating loss.
+AI generated $3.2 billion in revenue, incurred a $6.4 billion loss, and spent $12.7 billion on capex. xAI separately committed the full capacity of Colossus 1 to Anthropic at[ $1.25 billion a month through May 2029](https://substack.com/redirect/26791e82-ad1e-456d-9011-d1fdcec67379?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o), terminable on 90 days’ notice.
+Class B shares carry 10 votes each, leaving Musk with 85.1% of the total voting power. The roadshow to pitch investors starts in the first week of June.
+We are currently working on a SpaceX Deep Dive that will be released next month.
+[The Inference Shift](https://substack.com/redirect/12c99746-832b-4f99-a496-ee6642f315de?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)(Stratechery)[Using Goals in Codex](https://substack.com/redirect/f0e948e9-1593-44a6-b09a-4680bb58c0ad?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)(OpenAI)[Coming Up Short: Robert Reich Doesn’t Know What an Effective Tax Rate Is](https://substack.com/redirect/0bcb7a5e-47fa-48e4-98cd-bdfa7b0da352?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)(@amuse)
+|
+|
+|
+|
+|
+|
+|

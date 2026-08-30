@@ -1,0 +1,11 @@
+---
+id: "19fef18da48fb48b"
+subject: "Who enters Congress?"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2026-08-11 04:33:30
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+We trace the family origins of Members of Congress (MC) born between 1830 and 1950, linking each MC, their parents, and their brothers to the complete-count censuses. Future MCs have always been economic outliers. By 1940, close to 60 percent of MCs aged 18--40 held a college degree, against under 5 percent of comparable young men outside Congress. In the 19th-century censuses, MCs as adults held roughly three times the wealth of demographically matched controls. They also come from economically elite families: their fathers earn more, attain more education, and hold more wealth. The brothers of future MCs sit between the population and the MCs themselves. Across the socioeconomic measures we compare, we calculate that roughly half of an MC's adult premium is shared with his brother and the other half is his own. Even as the American economy and political system have changed, the family background gap has widened over the last century and a half. Wealth, household servants, and four separate occupation-based scores all show the gap holding or growing across cohorts. We study four Progressive-Era reforms in a triple-difference design---women's suffrage, the secret ballot, direct primaries, and the direct election of senators---and none produce detectable shifts in who reaches Congress. Our results document a Congress drawn from the most fortunate families in American society in every cohort we observe.
+That is from [a new NBER working paper](https://marginalrevolution.com?action=user_content_redirect&uuid=c56cc1c858c6a0a9cf7ee97310e807505bf908d2363d5f538ce273726b1a151e&blog_id=42693868&post_id=93570&user_id=262258391&subs_id=225460721&signature=88ffec4c2611faa8dfacfe1cd59b861a&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly93d3cubmJlci5vcmcvcGFwZXJzL3czNTU2OSNmcm9tcnNz&email_id=a0a8664dc8e5fa9074c96d1f1e07fe2e) by

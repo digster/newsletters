@@ -1,0 +1,14 @@
+---
+id: "19f8fcafffc49057"
+subject: "Thursday assorted links"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2026-07-23 16:24:32
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+1. [Puffin spotted on the Dorset coast](https://marginalrevolution.com?action=user_content_redirect&uuid=07e24bc7aae5c69e32d0f372bf5aa6ab9442ce4bf3b80cacbfb04e0ea18b4543&blog_id=42693868&post_id=93454&user_id=262258391&subs_id=225460721&signature=5729b89b1a98c5ee70906db3c37f5e53&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly93d3cuYmJjLmNvbS9uZXdzL2FydGljbGVzL2N4MnJ2MDJka3kybw=&email_id=400f6ba528410a788f9a515306a00350).
+2. [Anthropic chief economist on AI and unemployment](https://marginalrevolution.com?action=user_content_redirect&uuid=1592b4c187d6bbe0c5386cb12addbf930a028b1cf279891f534f86799ef2e7e2&blog_id=42693868&post_id=93454&user_id=262258391&subs_id=225460721&signature=4a294537ade130cdf0e9a834b3377c2b&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly94LmNvbS9QZXRlck1jQ3Jvcnkvc3RhdHVzLzIwNzk5NzkzMjE2MDc3NDU5MDU/cz00Ng=&email_id=400f6ba528410a788f9a515306a00350).
+3. [Whales use different vowels when ships are around](https://marginalrevolution.com?action=user_content_redirect&uuid=a871475ccdcabe3ce22059c58bbe4141ce71126d73085f6891e3aabd1ea9f48a&blog_id=42693868&post_id=93454&user_id=262258391&subs_id=225460721&signature=a988fd20b7046a0bc683d5479a4fccb5&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly94LmNvbS9iZWd1c2dhc3Blci9zdGF0dXMvMjA3OTkxNTIzNzI1NjM1NjAwNj9zPTYx&email_id=400f6ba528410a788f9a515306a00350).
+5. [Large language models can predict the results of social science experiments](https://marginalrevolution.com?action=user_content_redirect&uuid=add068870e1dda19cfcdd1c695f50c2d585bf8536693a282fa62668e77d250f3&blog_id=42693868&post_id=93454&user_id=262258391&subs_id=225460721&signature=c006feb9f84a37a74a660c3070ec0b87&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly93d3cubmF0dXJlLmNvbS9hcnRpY2xlcy9zNDE1ODYtMDI2LTEwNzQyLXg&email_id=400f6ba528410a788f9a515306a00350).
+6. [Alexander Salter Substack on space economics](https://marginalrevolution.com?action=user_content_redirect&uuid=7877d2107fb18752e85e4c7a5c7ebd628fcc49d2f14e7cfb0de97505fb44d92d&blog_id=42693868&post_id=93454&user_id=262258391&subs_id=225460721&signature=01937758da36943311e8a17816196aa2&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly9maW5hbGZyb250aWVyZWNvbi5zdWJzdGFjay5jb20v&email_id=400f6ba528410a788f9a515306a00350).

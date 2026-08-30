@@ -1,0 +1,11 @@
+---
+id: "19e4bd823588998a"
+subject: "Fertility and financial risk-taking"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2026-05-21 18:41:56
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+We examine how fertility expectations influence financial risk-taking using nationally representative data from three countries. Our results indicate that childless adults who do not expect children are 21-36% more likely to invest in stocks than those who expect children, controlling for personal characteristics. This effect persists also when medical infertility instruments expectations. We find no similar effects for other savings categories, nor differences in self-reported risk tolerance. Households expecting children report shorter financial planning horizons, which may explain their lower risk-taking. These results suggest declining fertility can increase young adults' stock market participation through childbearing expectations.
+That is from [a recent paper](https://marginalrevolution.com?action=user_content_redirect&uuid=86f3a4e7e5bdfb05c92b3e338343f3bdf5985944db859bacad21fe11ec84c04c&blog_id=42693868&post_id=93048&user_id=262258391&subs_id=225460721&signature=52fd72848bd06cb4096801b0112d08c1&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly9wYXBlcnMuc3Nybi5jb20vc29sMy9wYXBlcnMuY2ZtP2Fic3RyYWN0X2lkPTY1NTk3ODE&email_id=2cb0ab1a61ac72c9ac4e2a0e1a170e1e) by Judith Bohnenkamp, Ville Rantala, and Melina Murren Vosse. Via [the excellent Kevin Lewis](https://marginalrevolution.com?action=user_content_redirect&uuid=f16321ab5c05d2d94881bcd79300f058e073e3e1de6455982e1f213edd443e75&blog_id=42693868&post_id=93048&user_id=262258391&subs_id=225460721&signature=5f763442c2b9af27f7e424843d9607e6&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly93d3cubmF0aW9uYWxhZmZhaXJzLmNvbS9ibG9nL2RldGFpbC9maW5kaW5ncy1hLWRhaWx5LXJvdW5kdXAvY29uZmxpY3RpbmctYWNjb3VudHM&email_id=2cb0ab1a61ac72c9ac4e2a0e1a170e1e).

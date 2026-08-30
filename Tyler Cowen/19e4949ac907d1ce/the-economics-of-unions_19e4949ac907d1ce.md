@@ -1,0 +1,12 @@
+---
+id: "19e4949ac907d1ce"
+subject: "The economics of unions"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2026-05-21 06:47:05
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+My best read of the evidence is that a union raises wages by around 7% for currently unionized employees. The wage gains from a redistribution of rents evenly across workers. Wage compression exists, but redistribution from worker to worker is only a small part. These are the current effects – unionizing more of the economy will have declining marginal returns, and will likely turn negative quickly.
+I do not believe that unionization is efficient. While precise figures are lacking, it is unlikely to be a better method of supporting the poor or working class, both because union workers are not disproportionately poor, and also because their methods of extracting surplus are not restricted to just wages. I will note that the best paper on the effects of unions of productivity finds a positive partial equilibrium effect, but that is only for some markets, does not benefit the consumer, and the aggregate effects are likely negative.
+Here is [much more from Nicholas Decker](https://marginalrevolution.com?action=user_content_redirect&uuid=8d9e2f0f97f713fd6257460fcb2c2531f9460d1e0e9475bc727dede5c00c278e&blog_id=42693868&post_id=93043&user_id=262258391&subs_id=225460721&signature=75c9c9cbb62cff16e747edce803b9cff&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly9uaWNob2xhc2RlY2tlci5zdWJzdGFjay5jb20vcC93aGF0LWRvLXVuaW9ucy1kbz91dG1fc291cmNlPXBvc3QtZW1haWwtdGl0bGUmcHVibGljYXRpb25faWQ9NzQ3NjE2JnBvc3RfaWQ9MTk4NTAyOTQ1JnV0bV9jYW1wYWlnbj1lbWFpbC1wb3N0LXRpdGxlJmlzRnJlZW1haWw9ZmFsc2Umcj0zbzkmdHJpZWRSZWRpcmVjdD10cnVlJnV0bV9tZWRpdW09ZW1haWw&email_id=23a20b23935fd656f2666ea16ae6a19d). It would be a much simpler -- and better -- world if everyone understood this. This issue, above many others, is a good test for whether someone is willing to think more analytically and confront the issue of economics vs. mood affiliation. Because pro-trade union sentiment has literally centuries of mood affiliation behind it.

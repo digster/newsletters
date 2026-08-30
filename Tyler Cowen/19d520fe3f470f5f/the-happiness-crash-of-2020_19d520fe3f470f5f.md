@@ -1,0 +1,12 @@
+---
+id: "19d520fe3f470f5f"
+subject: "The Happiness Crash of 2020"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2026-04-03 06:37:45
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+From the still-active Sam Petzman:
+I document a sudden, sharp and historically unprecedented decline in self-reported happiness in the US population. It occurred during 2020, the year of the Covid pandemic, and mainly persists through 2024. This happiness crash spread across nearly all typical demographics and geographies. The happiest groups pre-Covid (e.g., whites, high income, well-educated and politically/ideologically right-leaning) tend to show the largest happiness reductions. The glaring exception is marital status, which has consistently been an important marker for happiness. The already wide happiness premium for marriage has, if anything, become slightly wider. With both married and unmarried reporting large declines in happiness the country has become segregated: slightly over half-the married adults-remain happy on balance; the unmarried, nearly half, are now distinctly unhappy. I also show that across a number of aspects of personal and social capital post-Covid deterioration is the norm, including a collapse of belief in the fairness of others and of trust in the US Supreme Court.
+Here is [the paper](https://marginalrevolution.com?action=user_content_redirect&uuid=4674615bfc9fc9f97d52d55f8d393b5aad9b8e013617975e721a3a0222df3337&blog_id=42693868&post_id=92732&user_id=262258391&subs_id=225460721&signature=9c160a92e0cff74790aa6d38d5d6a9cb&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly9wYXBlcnMuc3Nybi5jb20vc29sMy9wYXBlcnMuY2ZtP2Fic3RyYWN0X2lkPTY0NjU0NjA&email_id=c58564334f2bde4dd85270ec1c4e5561), via the excellent [Kevin Lewis](https://marginalrevolution.com?action=user_content_redirect&uuid=e9f697f46a4c1c5cab95994da4a1725201aec45ca4cc6fff71fc72a64f7901c4&blog_id=42693868&post_id=92732&user_id=262258391&subs_id=225460721&signature=9dccd18d15b72f5a8672f40d5dc43f32&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly93d3cubmF0aW9uYWxhZmZhaXJzLmNvbS9ibG9nL2RldGFpbC9maW5kaW5ncy1hLWRhaWx5LXJvdW5kdXAvbW9kZXJuLWVjb25vbWljcw=&email_id=c58564334f2bde4dd85270ec1c4e5561).

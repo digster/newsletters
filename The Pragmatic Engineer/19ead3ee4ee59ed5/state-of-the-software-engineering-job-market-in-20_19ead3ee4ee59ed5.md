@@ -1,0 +1,101 @@
+---
+id: "19ead3ee4ee59ed5"
+subject: "State of the software engineering job market in 2026, part 2"
+from: "The Pragmatic Engineer <pragmaticengineer+deepdives@substack.com>"
+to: ""
+date: 2026-06-09 16:35:53
+labels: ["CATEGORY_PERSONAL", "SPAM", "The Pragmatic Engineer", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "SPAM", "Label_6413324878686416177", "UNREAD"]
+---
+👋 Hi, this is Gergely with a subscriber-only issue of the Pragmatic Engineer Newsletter. In every issue, I cover challenges at Big Tech and startups through the lens of engineering managers and senior engineers. If you’ve been forwarded this email, you can
+|
+What’s going on in today’s job market? We try to answer that big question in this second part of our deepdive into the tech employment market, following [Part 1](https://substack.com/redirect/352838b6-f7d8-4f01-b730-b2fc2e92c9d6?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o), published two weeks ago.
+First of all, a big thank you to partner teams for sharing exclusive details for this deepdive:
+[Interviewing.io](https://substack.com/redirect/48d1bd0a-4045-4af2-a12b-227a807c053a?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o): anonymous mock interviews with engineers from top companies. Thanks to founder and CEO, Aline Lerner.[Workforce.ai](https://substack.com/redirect/319f9163-370c-4085-889f-ff25945159bc?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o), built by Live Data Technologies, which monitors 1M+ job changes and 300M+ employment validations monthly, across companies, roles, levels, functions, industries, and locations. Special thanks to Alex Hamilton for his input.[SignalFire](https://substack.com/redirect/7c43bd24-015d-4066-b610-4a0809ca6172?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o): a VC firm with a standout data analysis team. Ordinarily, their data is used to give their portfolio companies a major commercial advantage, but they made an exception to share some for this article. Special thanks to Asher Bantock.[TrueUp](https://substack.com/redirect/087e8059-6e02-4d0d-8389-bef89f6fa0c5?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o): a platform that scans every open job in Big Tech, top startups, and scaleups, typically paying in the top two tiers of the trimodal software engineering compensation model. Thanks, Amit Taylor.
+Today, we cover:
+Top AI labs are now more attractive than Big Tech. Anthropic is most in demand among job candidates for interview preparation services. Along with OpenAI, it’s almost certainly the place with the most competition for jobs in tech.
+Harder for new grads & interns to get hired. Data shows that intern intakes have fallen, even as software engineering recruitment recovers. Large tech companies take on half as many interns as before, and candidates’ work and educational backgrounds matter more than ever.
+Mobile and frontend demand drops, AI & FDE surges. Frontend engineer titles are disappearing fastest across the industry, followed by native iOS and Android ones.
+AI engineering comp > software engineering comp. AI engineers are more in demand than software engineers, and get higher compensation offers, especially with equity. At the 80th percentile in the US, $300K+ base salaries are the norm now for senior engineers.
+Management’s “great flattening” continues. There are fewer engineering managers for each engineer across the industry, and fewer VP of engineering and director of engineering posts at Big Tech.
+Big Tech seniority & tenure keep rising. Since the end of zero interest rates in 2023, it’s as if there’s fewer ways to tempt Big Tech workers to switch jobs, so they remain in situ.
+Interview preparation signups: what do they indicate? Companies doing mass layoffs tend to see the biggest surge in devs signing up to practice interviews. A list of the top 20 companies from where engineers are preparing to interview elsewhere.
+Where engineers go after Big Tech. From Amazon, they go pretty much everywhere. From Google, Apple & Meta, it’s mostly to AI labs. Microsoft is where the most ex-workers become their own bosses by working for themselves next.
+As a reminder, [in Part 1,](https://substack.com/redirect/352838b6-f7d8-4f01-b730-b2fc2e92c9d6?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) we covered:
+Software engineering recruitment: trending up, mostly
+Big Tech and publicly-traded companies
+Who’s hiring the most software engineers?
+AI engineering: explosive demand
+Who’s hiring the most AI engineers?
+Is AI engineering replacing software engineering hiring?
+The bottom of this article could be cut off in some email clients. [Read the full article uninterrupted, online.](https://substack.com/redirect/1cd7b835-a24c-4441-a24f-fc9f2bebb7c0?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+Let’s get into the latest data:
+In Part 1 of this mini-series, we cover the [exploding](https://substack.com/redirect/f0a1d370-1c84-4b44-8125-4ca8a2e14615?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) demand for AI engineering:
+AI engineering job openings have increased 60% in the past year at top companies, while software engineering openings grew by 7% in the same places. We also found that Big Tech is significantly growing AI engineering headcount:
+New data suggests that the two biggest AI labs are attracting the most candidates to apply for their AI engineering roles, which is pretty predictable.
+[Interviewing.io](https://substack.com/redirect/48d1bd0a-4045-4af2-a12b-227a807c053a?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) is a job interview preparation service which offers coaching for clients who are getting ready for interviews at specific companies. Based on the number of mentions by clients, Anthropic is the one most candidates are preparing for with paid coaching, and it’s not even close:
+It’s also notable that OpenAI (16% of candidates) gets around the same share as Google (17%) and other large tech companies (17%). Combined, Anthropic and OpenAI account for 51% of all interviewing.io coaching requests. For context, interviewing.io only added coaching for frontier labs this year!
+There are a few potential causes of the surge of interest in Anthropic:
+OpenAI replaces Anthropic as AI supplier for the US’s novel ‘Department of War’. In early March, the US Government controversially declared Anthropic a “supply chain risk”, and appointed OpenAI as its
+[AI supplier](https://substack.com/redirect/03ed30f4-8989-4290-83c8-ce2d9f6f1e2d?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o), after Anthropic raised concerns about the future use of AI in mass surveillance and fully autonomous weapons. This raised suspicions that OpenAI agreed to cross ‘red lines’.Anthropic’s market dominance continues. Claude Code is the most popular developer tool, as found by our AI tooling survey
+[in February](https://substack.com/redirect/28c27b20-bbcc-421c-9cca-967b14783608?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o). It seems little has changed.Anthropic’s value exceeds OpenAI’s. In March, Anthropic
+[raised](https://substack.com/redirect/287c5995-ebcd-4ca0-9c7a-385cb1174fd2?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)a $65B funding round at a $965B valuation, making it more valuable than OpenAI for the first time.Anthropic files to go public first. Last week, Anthropic
+[filed](https://substack.com/redirect/65b5bbe1-f032-435a-bd95-2ce62b8526f4?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)to go public, beating OpenAI which[has done so a week later.](https://substack.com/redirect/c962d4a0-41d0-4bc7-b9b9-2d8e4e85e189?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+Anthropic also recruited the most in-demand AI researcher, Andrej Karpathy, [in May](https://substack.com/redirect/c479de25-7866-49e2-915e-77d63cafeb8c?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o). My sense is that between the two labs, Anthropic has more momentum for the time being, and has perhaps acquired a ‘halo effect’ with its seemingly principled stance. It’s not surprising that it’s attracting more candidates.
+We looked into the sources of recruits to the three most in-demand AI labs: Anthropic, OpenAI, and Google DeepMind. Here’s what we found:
+Where Anthropic hires from, in order of popularity:
+Google (often Google DeepMind)
+Meta
+Stripe
+Microsoft
+Amazon (AWS)
+Databricks
+OpenAI:
+Google
+Meta
+Apple
+Stripe
+Statsig (after OpenAI acquired Statsig)
+Microsoft
+Amazon (mostly AWS)
+Databricks
+Airbnb
+NVIDIA
+Google DeepMind:
+Internal transfer
+Meta
+Microsoft
+Amazon
+Windsurf
+Anthropic has the highest retention rate of all AI labs. Data from SignalFire found the 2-year retention rate (percentage of employees who stay 2 years) is:
+OpenAI: 67%. This is consistent with the rest of Big Tech
+Google DeepMind: 78%. Well above the rest of Big Tech
+Anthropic: 80%. Standout, industry-wide!
+Consistent with SignalFire’s 2025 finding, OpenAI 2-year retention was 67% (FAANG-level) versus Anthropic (80%), and DeepMind (78%).
+It’s well known that it’s getting harder to be hired as an early-career engineer, and new data underlines this.
+Live Data Technologies looked at software engineer vs engineering intern hiring trends at 30-80 US-based tech companies, pinned to 2019 hiring numbers (100% being that year’s total number of hires). The spread is wide because Live Data Technologies selects the top few dozen companies that meet their criteria for a “large public tech company” in their database.
+The findings:
+Zooming into intern hiring, here’s a visualization of it as a percentage of all appointments:
+Alex Hamilton, analyst at Live Data Technologies, says:
+“We’ve seen overall software engineering hiring start to come back since the 2023 tough market. However, intern intake just kept falling alongside it, which isn’t what you’d normally expect.
+Historically, intern programmes have tended to bounce back pretty quickly once companies start hiring again. That hasn’t happened this time, and 2024 and 2025 are the first years in the series where the two lines are moving in opposite directions.
+Where you do see companies holding intern intake steady or growing it, it’s almost always a reflection of where they are as a business, be that earlier-stage or faster-growing companies, rather than any kind of broader market recovery”.
+Anecdotally, we hear new grads continue to have a hard time finding a position. Our new recruitment data on major US tech companies confirms it:
+“New grads” in this data are software engineers who graduated less than a year before getting a job as a software engineer. In 2025, just one in 10 engineering hires at larger companies were recent grads, down from nearly three in 10 in 2023.
+We looked closely at the places from where new graduate software engineers are joining US-based tech companies, and found the share of successful candidates from “elite” universities is growing:
+By “elite” universities, we mean one of the top 20 US colleges for computer science, such as MIT, Stanford, Carnegie Mellon, UC Berkeley, Harvard, Caltech, Georgia Tech, and Cornell.
+Obviously, the influence of these places’ reputations is not a new thing, it’s what makes them “elite” universities, after all. But with new grad hiring down across tech, even graduates from these universities can expect fewer opportunities than before.
+Even so, the pedigree that comes from graduating from a well-known university, or doing an internship at a well-known company, becomes ever more significant as the job market tightens.
+Here’s interesting data showing the shifting prevalence of job titles on sites like LinkedIn over time:
+Some takeaways:
+AI engineering’s on fire. This is not surprising and is evident throughout our study.
+Forward Deployed Engineers (FDE) are growing rapidly. We covered the sudden demand for FDEs
+[in 2025](https://substack.com/redirect/dabd135b-8fbc-48c3-836b-369b3217ec45?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o), and this year we’re seeing the FDE role heat up again.Modest increase in sales engineers: Sales engineers help close large, B2B-type, deals, and are typical at companies selling to enterprises. The rise in prevalence of this position suggests more companies are targeting enterprise-scale clients. Also, my sense is that FDEs can operate like sales engineers.
+There are fewer native mobile engineers. In 2022, I observed
+[a drop in demand](https://substack.com/redirect/ff3e8485-0fd0-4869-89eb-db716302c7ad?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)for native iOS and Android engineers. Cross-platform frameworks being more capable today may contribute to fewer places investing in native applications, and a fall in demand for this discipline overall. Is the “golden age” of native mobile development over, with its standalone native iOS, native Android, and web teams for a single product?Frontend-only engineers are disappearing. This is one of the most interesting trends in the data. I’ve observed full-stack engineers become the norm at many places, who can do both frontend and backend development. Especially with AI, there is no reason a proficient frontend engineer should not work on backend as well, so, I expect “pure” frontend engineers will be employed only in larger companies, where demand exists for things like building a design system. We cover more on this topic in the deepdive,
+[Design systems for software engineers](https://substack.com/redirect/c34cadaa-885c-4ee8-9d94-7032f71f425b?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o).
+One poorly-kept secret in tech is that although software engineering compensation is very good at Big Tech and top startups, it’s superior for AI engineering jobs at the same places – and even better at leading AI labs:...
+Become a paying subscriber of The Pragmatic Engineer to get access to this post and other subscriber-only content.
+| Full articles every Tuesday and Thursday | |
+| Access to resources and templates for engineering managers and engineers | |
+| Access to the complete archive, see all comments and comment on articles |

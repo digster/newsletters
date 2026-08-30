@@ -1,0 +1,28 @@
+---
+id: "19d8270008adb9c0"
+subject: "Intel joins Tesla and SpaceXAI on $25B Orbittal AI Bet"
+from: "Chamath Palihapitiya <chamath@substack.com>"
+to: ""
+date: 2026-04-12 16:01:10
+labels: ["CATEGORY_PERSONAL", "Chamath", "INBOX", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "Label_4017391144830520384", "INBOX", "UNREAD"]
+---
+|
+What I Read This Week: a summary of the content that I consumed this past week…
+1) Terafab: Intel Joins Musk’s $25B Bet on Orbital AI
+[Elon Musk announced Terafab on March 21](https://substack.com/redirect/7f3611e3-02ae-4bad-9085-3900f88c1c97?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o), a $25 billion chip fabrication joint venture between Tesla, SpaceX, and xAI in Austin. [On April 7, Intel joined as a partner](https://substack.com/redirect/47b84ce9-23aa-4508-a7d1-2ff8084d3cd8?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o), contributing its [18A process node](https://substack.com/redirect/b29c73ff-0707-4170-8bc1-92149baac840?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o), a 1.8-nanometer-class technology, and the most advanced semiconductor manufacturing process within the United States.
+[80% of Terafab’s projected compute](https://substack.com/redirect/4e2fbab6-7651-4e1c-91b8-4304e26e6f52?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) output is earmarked for a single chip called D3, a radiation-hardened processor built for orbital AI data centers. [SpaceX has already filed an FCC application](https://substack.com/redirect/ac20f087-bab8-4c88-81ec-d6ff0e49ae54?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) to launch one million data center satellites into low Earth orbit.
+[Musk reasons that AI workloads will be cheaper to run in orbit than on the ground within three years](https://substack.com/redirect/eda394f3-6119-4873-be0e-c1dbf7887689?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o). Terafab’s structure reflects this split. One facility is dedicated to edge AI chips for Tesla Robotaxis and Optimus robots. The other focuses entirely on the D3 for orbital deployment.
+2) Muse Spark: Meta Closes the Gap and Goes Proprietary
+[On April 8, Meta debuted Muse Spark, the first model from their Superintelligence Labs](https://substack.com/redirect/73cfcf51-1fc7-4108-9bd5-2e8ec3be4753?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o). It was built over nine months by a team led by Alexandr Wang, Meta’s Chief AI Officer. The new model is closed-source, signaling a shift in Meta’s frontier AI strategy. This is a notable break from the Llama playbook that helped make Meta the standard-bearer for open-weight AI.
+Muse Spark performs competitively in multimodal perception, reasoning, health, and agentic tasks. For healthcare, Meta collaborated with 1,000 physicians to build Muse Spark’s clinical capabilities.
+Meta says the model reaches Llama 4 Maverick-equivalent capability at [10x lower compute cost](https://substack.com/redirect/b20202d9-47d5-4cc5-9988-488139f41778?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o). The model now powers the Meta AI app and website, with rollouts to WhatsApp, Instagram, Facebook, Messenger, and Meta’s AI glasses planned in the coming weeks. Meta claims their models are scaling predictably and that Muse Spark is an early data point on the trajectory, with larger models in development.
+3) OpenAI At $852B: Testing a New IPO Playbook
+[On March 31, OpenAI closed a $122 billion](https://substack.com/redirect/306d9681-705f-4a97-984a-2048f5ad088e?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) funding round at a post-money valuation of $852 billion, the largest private fundraising event in history. OpenAI was the fastest technology platform to reach 100 million users, and soon the fastest to 1 billion weekly active users ([currently around 900M](https://substack.com/redirect/2694be9c-cae1-4c90-af8b-a02b0c697933?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)).
+[CFO Sarah Friar confirmed on April 8](https://substack.com/redirect/8b76f2dd-ef6a-462c-9b34-496dac0c9789?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) that OpenAI will reserve a portion of IPO shares for retail investors.
+“It has to be that everyone partakes, that it isn’t just that a very small group, and everyone else gets left behind.” - Sarah Friar CFO at OpenAI
+In its pre-IPO private placement via JPMorgan, Morgan Stanley, and Goldman Sachs, OpenAI targeted $1 billion from individual investors and received $3 billion, described by those banks as the largest private retail placement they have ever executed.
+[OpenAI is heading toward a possible public filing](https://substack.com/redirect/be7ddf87-c4a3-42e4-b5e2-d542068625ec?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) in the second half of 2026 with a valuation nearing $1T. They project $280 billion in revenue by 2030, against [$20+ billion annualized today](https://substack.com/redirect/9643216d-c85c-42c6-a321-17472d49861e?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o).
+[Project Glasswing](https://substack.com/redirect/76d8eb88-d518-4749-a420-17bcb2be73a4?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)(Anthropic)[Half of Planned US Data Center Builds Have Been Delayed or Canceled…](https://substack.com/redirect/d4eb78de-e917-449b-8393-7fe6aecf215d?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)(Tom’s Hardware)
+|
+|

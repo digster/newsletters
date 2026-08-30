@@ -1,0 +1,22 @@
+---
+id: "19ec185faf871246"
+subject: "The race to own AI"
+from: "a16z crypto <a16zcrypto@substack.com>"
+to: ""
+date: 2026-06-13 15:04:24
+labels: ["CATEGORY_PERSONAL", "INBOX", "UNREAD", "a16zcrypto"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "UNREAD", "Label_2535365729249697677"]
+---
+|
+One of the more interesting side effects of the AI boom is the scramble to own pieces of it.
+People crave ownership. Over the last few years, investors have poured money into SPVs that promise exposure to private companies. Secondary markets for startup shares have exploded. More recently, crypto traders have even experimented with pre-IPO perpetual futures tied to companies that don’t yet trade publicly.
+The market keeps inventing new instruments and routing around barriers because demand is insatiable. People want in… even when ownership itself is synthetic or uncertain.
+To make sense of this phenomenon, I keep returning to Chris Dixon’s [framework](https://substack.com/redirect/0eb71208-7011-4420-9872-dbc18290647a?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) for the evolution of the internet. (I edited his book on the subject.) In his model, the first era was “read,” the second was “write,” and the third — now clawing itself into existence, notably through the recent proliferation of equity-approximating workaround attempts — is “own.”
+In plainer English: The internet democratized access to information (read), then democratized the ability to create and publish it (write). The next step is to democratize ownership: giving users direct economic rights in the networks and services they use. Crypto networks are one of the clearest and longest-standing expressions of the “own” era.
+Today, the framework illuminates what’s happening in AI.
+The “read” era made information accessible. The “write” era made creation accessible. AI supercharges the core capabilities of the read/write web and extends them to machines. Large language models read and write text. Diffusion models read and write images. Agents read the world and write actions back into it.
+In this way, AI is not a break from the internet’s trajectory. It is the logical conclusion of the read/write era: thirty years of relentlessly driving down the cost of reading, writing, and manipulating information, consummated at last in software. This view helps explain the current financial frenzy, especially as a wave of AI mega-listings approaches. The rush into SPVs, secondaries, and synthetic derivatives reflects pent-up demand for ownership boiling over.
+People don’t just want to use new technologies. They want to own them.
+Many describe artificial intelligence as the next phase of the internet. Another view is that it represents the height of the previous one, the fullest expression of the read/write era. The scramble to own it is among the clearest signals that the own era is breaking loose and smashing its way through.
+You’re receiving this newsletter because you signed up for it on our websites, at an event, or elsewhere (you can opt out anytime using the ‘unsubscribe’ link below). This newsletter is provided for informational purposes only, and should NOT be relied upon as legal, business, investment, or tax advice. This newsletter may link to other websites or other information obtained from third-party sources — a16z has not independently verified nor makes any representations about the current or enduring accuracy of such information. Furthermore, the content is not directed at nor intended for use by any investors or prospective investors in any a16z funds. Please see a16z.com/disclosures for additional important details, including link to list of investments.
+follow us on [X](https://substack.com/redirect/9eec94ff-d0b7-4a3c-b89d-a1c5afdd9ece?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o), [LinkedIn](https://substack.com/redirect/a32eabcb-7943-4f1d-a23e-d5b2aaa62d94?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o), and [YouTube](https://substack.com/redirect/68d09fba-3b3f-452e-b153-1162cf196e18?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) | catch up on the [newsletter archives](https://substack.com/redirect/cec70f5f-08d4-481e-a1a8-1d4788e68bba?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) | visit [a16zcrypto.com](https://substack.com/redirect/129683d2-4ab5-4d05-b96a-5457207a9741?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)

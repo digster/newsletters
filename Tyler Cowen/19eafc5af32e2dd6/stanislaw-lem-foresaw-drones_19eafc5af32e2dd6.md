@@ -1,0 +1,16 @@
+---
+id: "19eafc5af32e2dd6"
+subject: "Stanislaw Lem foresaw drones"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2026-06-10 04:23:48
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+This was published in English (and Polish) in 1986 under the title [One Human Minute](https://marginalrevolution.com?action=user_content_redirect&uuid=3f74a748cc34c92c648eb91ce6241c1485addd0390f4466f84c0138df5979d04&blog_id=42693868&post_id=93161&user_id=262258391&subs_id=225460721&signature=9e2c5faba5bdc507f0921fc33b343c86&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9PbmUtSHVtYW4tTWludXRlLVN0YW5pc2xhdy1MZW0vZHAvMDE1NjY4Nzk1WC9yZWY9c3JfMV8xP2NyaWQ9MkkzUDdYMklLRFJZUSZkaWI9ZXlKMklqb2lNU0o5LlhURzhoVnRITkx4eFVUNlZZTGMtckJ2eGRUNkdYX1hvWXkyemZKUUsxcTFtUWw2QjNzejhjTGpzSW1RVkpGZnZGS1NOOG9oMGN6UENDUGpFMmhYWlYyU0lkb2d6Q3ltZkpqb0RZNjhCQ3BBbmZuT1Qwa3d3eE9Tdm1uY1hkaTBJVjMzOU1ybkFETmwzcm5SWm1ZTXpBRndia1pPSy1mbTZsN1pDVV95Y09fRlR3dTFJWTFfd3h5R05SSEdNWDhSeFRQS0ExUDN2Yy02MVpZR1dQS1NGX0djUldlOWk2RnZUQWEzdVkwd0VDRjAuMjRSQ2lHRkpPYmFKRW1VNkhkZWNxQW8zTVVrTkdFeEZib0dWeW02eFlmayZkaWJfdGFnPXNlJmtleXdvcmRzPW9uZStodW1hbittaW51dGUrYm9vayZxaWQ9MTc4MDc5NjI1MyZzcHJlZml4PW9uZStodW1hbittaW51dGUlMkNhcHMlMkMyODcmc3I9OC0x&email_id=b76cc3972326c4317346545c9043969f):
+So it was not humanoid automata that former the new armies but synthetic insects (synsects) -- ceramic microcrustacea, titanium annelids, and flying pseudo-hymenoptera with nerve centers made of arsenic compounds and with stingers of heavy, fissionable elements...The flying synsect combined plane, pilot, and missile in one miniature whole. but the operating unit was the microarmy, which possessed superior combat effectiveness only as a whole (just as a colony of bees was an independent, surviving unit while a single bee was nothing).
+...The nonliving, synthetic "locust" was incomparably more lethal, since it was made that way by its designers. It possessed a preprogrammed autonomy, so that communication with a command center was unnecessary.
+...the microarmy was one giant flowing or flying aggregate of self-assembling elements. It started out dispersed, approaching its objective from many different directions, as strategy or tactics demanded, in order to concentrate into a preprogrammed whole on the battlefield. For this fighting material did not leave the factory in final shape, read for use, like tanks or guns loaded on a railroad flatcar; the mechanisms were microproductive blocks designed to fuse together into a war machine at the designated place. For this reason, such armies were called "self-bonding."
+...Amid a swarm of self-guided, programmed microarms, a man in uniform was as helpless as a Roman legionary with sword and shield against a hail of bullets. In the face of special types of biotropic microarms capable of destroying everything that lived, human beings had no choice but to abandone the battlefield, for they would be killed in seconds...
+A microarmy could easily penetrate all systems of defense and go deep into enemy territory. It had no more trouble accomplishing this than did rain or snow. Meanwhile, high-powered nuclear weapons were proving more and more useless on the battlefield.
+Lem is always worth reading.

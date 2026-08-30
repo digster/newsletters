@@ -1,0 +1,15 @@
+---
+id: "19e91046cf58fb98"
+subject: "Law professors prefer AI over peer answers"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2026-06-04 05:04:05
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+Large language models (LLMs) are increasingly promoted as educational tutors, yet most evaluations focus on domains with a single ground truth. Many disciplines, however, hinge on judgment: reasoning, weighing ambiguity, and reaching defensible conclusions. Law provides a sharp test. We conducted a blinded evaluation of short-answer tutoring in contracts courses with sixteen U.S. law professors. Participants created 40 representative questions, wrote answers, and judged 2,918 anonymized comparisons between human and LLM responses. Professors rated LLMs far higher than their peers (average win rate = 75.33%), with models performing similarly to the best instructor. LLM responses were also rarely flagged as harmful (3.53%, vs 12.06% for professors). Preferences for LLM answers were consistent across evaluators and reflected shared professional standards. Our evaluation can be reliably extended to additional models by employing a separate LLM as a judge, rendering expert agreements an effective, scalable method to evaluate AI tutors in judgment-rich domains.
+"far". That is from [a new paper](https://marginalrevolution.com?action=user_content_redirect&uuid=f11ef4467c9ef50ab373e95fedd1cb50d3f0309b7d43813903a29f7963148878&blog_id=42693868&post_id=93130&user_id=262258391&subs_id=225460721&signature=674e90419ed2b2413b7d06c9b7b4c1cf&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly9sYXcuc3RhbmZvcmQuZWR1L3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDI2LzA2L3NhbGluYXNfZXRfYWwucGRm&email_id=d02e6bab59222034dccc8674a8717212) by Alejandro Salinas, et.al. Via [Andrew Curran](https://marginalrevolution.com?action=user_content_redirect&uuid=50d30b8823e790fe82eb344e84a33f8f51ac181c4fa1c0746565266d9e497052&blog_id=42693868&post_id=93130&user_id=262258391&subs_id=225460721&signature=302589294a7e9845db0644f19ee95592&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly94LmNvbS9hbmRyZXdjdXJyYW5fL3N0YXR1cy8yMDYxODcxMTUwODQ2ODgxOTI2P3M9NjE&email_id=d02e6bab59222034dccc8674a8717212). And via John Chamberlain:
+Artificial intelligence (AI) and large language models (LLMs) tools are capable of mass-producing academic finance papers that are nearly indistinguishable from human-authored research, according to a new study published in the
+[Journal of Economic Literature].
+C'mon people, get ready. I know it is difficult to admit when your human capital has been devalued, but that time is upon us. In particular, being prolific is no longer such a comparative advantage in academia. You might run to the "but I know what questions to ask" cope, but I implore you to solve for the equilibrium. What is the equilibtium wage for merely asking questions?
+Of course academic life and projects will continue, but the real rewards will go to people doing new, innovative, and hitherto impossible projects with AI.

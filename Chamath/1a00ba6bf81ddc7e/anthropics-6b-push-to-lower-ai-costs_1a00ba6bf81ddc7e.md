@@ -1,0 +1,34 @@
+---
+id: "1a00ba6bf81ddc7e"
+subject: "Anthropic’s $6B Push to Lower AI Costs"
+from: "Chamath Palihapitiya <chamath@substack.com>"
+to: ""
+date: 2026-08-16 15:31:07
+labels: ["CATEGORY_PERSONAL", "Chamath", "INBOX"]
+label_ids: ["CATEGORY_PERSONAL", "Label_4017391144830520384", "INBOX"]
+---
+|
+1) Nvidia and Wall Street Build a $500B AI Financing Platform
+On August 10, Nvidia signed[ memorandums of understanding (MOUs) with Apollo, BlackRock, Blackstone, Brookfield, Goldman Sachs and KKR](https://substack.com/redirect/c4669371-af58-4b5a-93d3-6e21352a4fd3?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o). Each firm plans to establish a separate financing platform for Nvidia-based data centers. Together, the six platforms aim to mobilize more than $500 billion from outside investors. At this stage, the signed documents are MOUs, which record an intention to do a deal in good faith. Capital commitments and revenue contracts would come later.
+The ambition is to make computing equipment financeable in the same way as aircraft or power plants. A lender can estimate how many flights a plane has left. A GPU is harder because Nvidia releases a faster generation about once a year. Jensen Huang’s case is that Nvidia systems can move between customers and workloads, allowing a lender to recover value by leasing the same machine to someone else. KKR’s Waldemar Szlezak noted that A100s still earn at high utilization six or seven years in, which lets the cash flow be securitized and distributed across different classes of investors. Pensions, insurers and sovereign funds could then own securities backed by the lease payments.
+[Fink likened this to the birth](https://substack.com/redirect/6ce8faa4-ab9e-417d-8f26-e6cff27ec606?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) of the mortgage-backed securities market in the 1970s, calling it “a next future for financial engineering.” He pointed to roughly $9 trillion sitting in U.S. money market funds, alongside pension and sovereign wealth capital around the world. The group also emphasized the labor required to build this infrastructure. Fink noted that a 100 MW data center can require as many as 3 million hours of labor.
+2) Anthropic’s $6B Push to Lower AI Costs
+[Anthropic is in talks to buy Decart for about $6 billion](https://substack.com/redirect/0c7ae88f-28bf-41a9-b857-e4b60235e927?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o), a 50% premium to the startup’s nearly $4 billion valuation in May. Decart has two complementary businesses: real-time world models and software that improves chip performance, reducing the cost of training and running AI models. That capability could unlock more compute for Anthropic as demand grows. If the deal closes, Decart would join Anthropic and focus on inference and performance optimization.
+If completed, the deal would be Anthropic’s fourth acquisition of 2026 and its largest to date:
+Bun (December 2025) – JavaScript runtime tool
+Vercept (February 2026) – AI computer-use technology
+Coefficient Bio (April 2026) – Biotech and life sciences AI startup
+Stainless (Mid-2026) – API infrastructure and SDK tooling
+The[ Decart Optimization Stack](https://substack.com/redirect/287d11a2-83f1-45a0-8734-d32b0e93057f?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) tunes models across Nvidia GPUs, Google TPUs, Amazon Trainium, and AMD chips. Anthropic spends billions renting compute, and with a widely anticipated IPO that is now aiming for a [$2T valuation](https://substack.com/redirect/00beca97-1171-45c2-8a1f-19226062b030?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o), a hardware-agnostic performance layer could lower the cost of serving Claude across the board.
+In addition, Decart’s visual models give Anthropic a path from language into video, robotics, and other systems that must predict what happens next.[ Oasis already demonstrated 20-frame-per-second generation](https://substack.com/redirect/5074b342-2e5c-4573-8033-4275d546c2bf?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) using Decart’s inference engine back in 2024.
+3) The App Layer for AI Continues to Expand
+Capital this week concentrates on AI‑powered developer tooling and software automation.
+[On August 11, River AI](https://substack.com/redirect/58f558c7-44be-46c9-8374-206e97b2b414?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o), founded by xAI co-founder Igor Babuschkin, raised $1.1 billion in a round led by General Catalyst and AMP PBC, with investments from Nvidia and AMD Ventures. River helps companies customize open-weight AI models through fine-tuning and reinforcement learning, giving them greater control over their models instead of relying on closed ones.
+The next day, Lovable, which builds web applications from plain-language instructions,[ raised $400 million at a $13.3 billion valuation](https://substack.com/redirect/1283ead3-c19e-47e9-b4bf-53a16e31bd18?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o). Cognition, the company behind the Devin coding agent, is reportedly discussing [another round at a $40 billion valuation](https://substack.com/redirect/166026e2-dd97-4155-93b7-ad01285ca3f3?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o). Its last financing came in May, when it raised more than $1 billion at a $26 billion post-money valuation.
+Blacksmith, a platform for code builds, validation, and integration as AI-generated code explodes, also just raised a [Series B, valuing it at $550 million](https://substack.com/redirect/d70904da-696f-44a5-b543-fcc382b1d547?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o), up almost 10x from the $60 million valuation it was assigned less than a year ago.
+[All-In: Anthropic’s $2T IPO, Zuck’s AI Manifesto, Nvidia’s $500B AI Bet, Grok’s Comeback](https://substack.com/redirect/716a2288-24c0-4de4-ae34-b4ff02825b3e?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+[Everyone Is Still Undersizing the AI Market](https://substack.com/redirect/c1765930-097a-43f2-ac12-bdb29f40eafd?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)(Invest Like The Best)[Learning More About Claude’s Mathematical Capabilities](https://substack.com/redirect/2daae47e-e70a-4a40-b6ae-b5300cb68eac?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)(Anthropic)[Why Nvidia Is Trying To Develop The World’s Best Open-Source AI Models](https://substack.com/redirect/0230583d-b9ad-4ed5-a5d6-b7c272977486?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)(The Information)
+|
+|
+|
+|

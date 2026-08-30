@@ -1,0 +1,13 @@
+---
+id: "19cd36b6db1cac57"
+subject: "Monday assorted links"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2026-03-09 16:25:57
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+1. [What people get wrong about women's rights](https://marginalrevolution.com?action=user_content_redirect&uuid=3eb0c84da94d7c7af69236745254fa4de8457f0cde9d91a66d975f5c3272a232&blog_id=42693868&post_id=92581&user_id=262258391&subs_id=225460721&signature=508d0a7a3668d850f54fdb459dcc3271&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly93d3cuZWNvbm9taXN0LmNvbS9ieS1pbnZpdGF0aW9uLzIwMjYvMDMvMDYvd2hhdC1wZW9wbGUtZ2V0LXdyb25nLWFib3V0LXdvbWVucy1yaWdodHM&email_id=6b9fa9a39437319f0f335b5bcaf2b695) (Alice Evans, The Economist).
+2. [The case against liberal interventionism](https://marginalrevolution.com?action=user_content_redirect&uuid=b1eb82dc60d71d8fe51ef0e07a833058ba3b56127667426122765c287e7e16c8&blog_id=42693868&post_id=92581&user_id=262258391&subs_id=225460721&signature=b07b616dd8ca203277fb26287e51864f&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly90aGVwdXJzdWl0b2ZsaWJlcmFsaXNtLnN1YnN0YWNrLmNvbS9wL3doeS1pbS1ub3QtYS1saWJlcmFsLWludGVydmVudGlvbmlzdA=&email_id=6b9fa9a39437319f0f335b5bcaf2b695).
+3. [More government by GPT](https://marginalrevolution.com?action=user_content_redirect&uuid=16ffe20525b8672c5ec01bfe6009c1d2564d4f20b5dd9182d45ccea46b5afeff&blog_id=42693868&post_id=92581&user_id=262258391&subs_id=225460721&signature=64d69d2b060921686a78aeab53d61954&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly93d3cubnl0aW1lcy5jb20vMjAyNi8wMy8wNy9hcnRzL2h1bWFuaXRpZXMtZW5kb3dtZW50LWRvZ2UtdHJ1bXAuaHRtbA=&email_id=6b9fa9a39437319f0f335b5bcaf2b695) (NYT).
+4. "In 2013, museum management considered introducing a scheme to suction dust off tourists as they walked down the corridor leading to the Sistine Chapel while blasting them with cold air to reduce their body temperature and perspiration. The plan was aborted, presumably for logistical reasons." ([FT](https://marginalrevolution.com?action=user_content_redirect&uuid=d8274b27316427ee0c6c9fbfe340d9a94915f33e7f50fd27bd690339fdc05523&blog_id=42693868&post_id=92581&user_id=262258391&subs_id=225460721&signature=54d70b2a0285820ebe1d55f9f6cd33ba&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly93d3cuZnQuY29tL2NvbnRlbnQvN2UzNzU3NGQtMWM5NS00ZmE1LThmMzItYjVlN2QzNGI5YmU4&email_id=6b9fa9a39437319f0f335b5bcaf2b695))

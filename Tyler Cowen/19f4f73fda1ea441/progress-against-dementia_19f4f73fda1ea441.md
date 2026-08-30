@@ -1,0 +1,13 @@
+---
+id: "19f4f73fda1ea441"
+subject: "Progress against dementia"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2026-07-11 04:33:48
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+Mr Stallard has been working for a decade to corroborate this revelation. His findings have, if anything, become even more striking. Last year he and some colleagues published research in the Journal of the American Medical Association showing that, whereas 40 years ago three in every ten Americans aged 85-89 had dementia, by 2024 just one in ten had it (see chart 1). What is more, America is not the only beneficiary of this trend. Between 1988 and 2015 the share of older people being diagnosed with dementia fell by 13% a decade across six countries in North America and Europe, according to a study of almost 50,000 people by Frank Wolters of the Erasmus Medical Centre in Rotterdam, and colleagues.
+Some smaller studies have also found big declines. Data from the Framingham Heart Study, which has tracked three generations in an American town, show an average drop in new dementia cases of 20% per decade over almost 40 years between the late 1970s and early 2010s. Those who were entering their dotage when Daft Punk’s “Get Lucky” was topping the charts (2013) were 44% less likely to have dementia than those who were doing so when Sting was urging Roxanne to switch off her red light (1978).
+Whereas most earlier studies had simply pooled elderly people and then applied a statistical adjustment for age, Mr Stallard looked at narrow bands of ages to compare different cohorts of people over 50 years. By examining the changes between each successive cohort, he calculates that dementia rates have been declining by 2.5-3% for each calendar-year cohort.
+Here is [more from Jonathan Rosenthal at The Economist](https://marginalrevolution.com?action=user_content_redirect&uuid=6e4702a16aa5631eed0fa5d57cf8d74b709b9910b8cdee05692dbfec13f4a77d&blog_id=42693868&post_id=93370&user_id=262258391&subs_id=225460721&signature=a0074f11d243218d2ac76e8c0bab1272&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly93d3cuZWNvbm9taXN0LmNvbS9icmllZmluZy8yMDI2LzA3LzA5L3RoZS13b3JsZC1pcy1tYWtpbmctaGVhZHktcHJvZ3Jlc3MtaW4tdGhlLWZpZ2h0LWFnYWluc3QtZGVtZW50aWE&email_id=8e55ac114a98ab1a7ef9ac758bf1d9e7). You can think of this as the new instantiation of the Flynn Effect...

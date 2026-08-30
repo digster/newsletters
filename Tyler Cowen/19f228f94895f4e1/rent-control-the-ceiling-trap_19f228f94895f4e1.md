@@ -1,0 +1,14 @@
+---
+id: "19f228f94895f4e1"
+subject: "Rent Control: The Ceiling Trap"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2026-07-02 11:21:02
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699"]
+---
+Rent control is in the new again. Check out my new website, [Rent Control: The Ceiling Trap](https://marginalrevolution.com?action=user_content_redirect&uuid=4c8e4bf60d1a5d0e2d8ec163b6ada2e1e01fc522c3f2c043920777fc8d8d1e04&blog_id=42693868&post_id=93319&user_id=262258391&subs_id=225460721&signature=4a199fac969827a8a3169530321c19c5&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly9tYXNvbi5nbXUuZWR1L35hdGFiYXJyby9SZW50Q29udHJvbC8&email_id=feb192d2271ef183433f90855daf9644). Here is just one bit:
+Norway abolished its rent control in 1982, and the economist Are Oust realized the newspapers had been quietly recording the whole experiment. He collected housing classifieds from Oslo’s Aftenposten from 1970 to 2008 and watched the market turn inside out.
+Under rent control, Oslo’s listings pages looked nothing like a housing market. It was tenants who advertised, pleading their qualities to landlords — “housing wanted” ads outnumbered “housing for rent.” Ten to fifteen percent of those ads were placed by the tenant’s employer, vouching for them the way a bank vouches for a borrower. Tenants offered babysitting, gardening, snow-shoveling, and janitorial work on the side to sweeten the deal. Landlords, for their part, could demand a tenant of a particular gender, age, occupation, region of origin — some ads specified “strong Christian beliefs.” Deposits commonly ran to 50 or 60 months’ rent, occasionally 100 or more: tenants effectively lent the landlord the equity of the flat, interest free. And only about 20 percent of “for rent” ads dared print the rent, much of which would have been illegal.
+Then the ceiling lifted. Within a few years the page flipped: landlords advertised to tenants, roughly 80 percent of listings printed an asking rent, the mega-deposits vanished, and the demands for snow-shoveling Christians of specified gender dwindled to nothing. The price went back to doing the rationing — so nothing else had to.
+Check out the [whole thing](https://marginalrevolution.com?action=user_content_redirect&uuid=4c8e4bf60d1a5d0e2d8ec163b6ada2e1e01fc522c3f2c043920777fc8d8d1e04&blog_id=42693868&post_id=93319&user_id=262258391&subs_id=225460721&signature=4a199fac969827a8a3169530321c19c5&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly9tYXNvbi5nbXUuZWR1L35hdGFiYXJyby9SZW50Q29udHJvbC8&email_id=feb192d2271ef183433f90855daf9644)--it's fabulous.

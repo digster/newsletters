@@ -1,0 +1,94 @@
+---
+id: "1a03e2c12ddc9d05"
+subject: "I Think Convenience is a Hidden Debt"
+from: "\"Sahil Bloom's Curiosity Chronicle\" <sahil@sahilbloom.com>"
+to: ""
+date: 2026-08-26 13:04:30
+labels: ["CATEGORY_PERSONAL", "INBOX", "Sahil Bloom", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_1989028747625928812", "UNREAD"]
+---
+The Hidden Debt of Convenience
+watch on [YouTube](https://a01c829f.click.convertkit-mail4.com/5qux9883lpf7hn473ent6h9r30m74fnhxk7dx/qvh8h7hdk67782ilhk/aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g_dj0wQkVnTmc5Ml9EQQ==) or read and listen on [sahilbloom.com](https://a01c829f.click.convertkit-mail4.com/5qux9883lpf7hn473ent6h9r30m74fnhxk7dx/g3hnh5hmqzddektrh9/aHR0cHM6Ly93d3cuc2FoaWxibG9vbS5jb20vbmV3c2xldHRlci90aGUtaGlkZGVuLWRlYnQtb2YtY29udmVuaWVuY2U=)
+read time 9 minutes
+Welcome to The Curiosity Chronicle, a newsletter where I provide actionable ideas to help you build a high-performing, healthy, wealthy life.
+Forwarded this email? Join 800,000+ other readers [here](https://a01c829f.click.convertkit-mail4.com/5qux9883lpf7hn473ent6h9r30m74fnhxk7dx/9qhzhnhd52qqg2t9h3/aHR0cHM6Ly93d3cuc2FoaWxibG9vbS5jb20vbmV3c2xldHRlcg==).
+|
+This [natural product](https://a01c829f.click.convertkit-mail4.com/5qux9883lpf7hn473ent6h9r30m74fnhxk7dx/n2hohvhv7o88n3u6hg/aHR0cHM6Ly9zaG9wLmlubmVyYm9keS5jb20vcGFnZXMvc2FoaWw=) has me feeling 20 again!
+I felt the dip when I hit 30. Less energy. Slower recovery from workouts. Lack of focus. I never do anything unnatural, so I started researching natural ingredients to support testosterone.
+[Innerbody Labs Testosterone Support](https://a01c829f.click.convertkit-mail4.com/5qux9883lpf7hn473ent6h9r30m74fnhxk7dx/n2hohvhv7o88n3u6hg/aHR0cHM6Ly9zaG9wLmlubmVyYm9keS5jb20vcGFnZXMvc2FoaWw=) was the best I found. It became a staple in my routine. An all-natural formulation backed by peer-reviewed science with clinically-informed dosages of 9 simple ingredients. I was so impressed that I asked the CEO to let me invest.
+[Innerbody](https://a01c829f.click.convertkit-mail4.com/5qux9883lpf7hn473ent6h9r30m74fnhxk7dx/n2hohvhv7o88n3u6hg/aHR0cHM6Ly9zaG9wLmlubmVyYm9keS5jb20vcGFnZXMvc2FoaWw=) already offers subscription discounts of up to 40%, and for a limited time, you can get an extra 10% off with today's partner with code SAHIL10.
+|
+The Hidden Debt of Convenience
+A few weeks ago, I came across a podcast clip of Conan O'Brien that stopped my scroll.
+The comedian, who has a reported net worth of $200 million, was talking about why he doesn't pay to fly private:
+"My rule is I'll fly on a private jet if someone else is paying for it...It's going to sound crazy, but I really like to go through and chat up the people at TSA. I don't mind taking the belt off. I like being in the world with other people that are traveling."
+One of the replies to the clip shared a quote from Abigail Disney, the granddaughter of Disney co-founder Roy Disney (Walt's brother), who offered a similar sentiment:
+"[Private jets] enable you to get around a certain reality. You don't have to go through an airport terminal, you don't have to interact, you don't have to be patient, you don't have to be uncomfortable. These are the things that remind us we're human."
+This piece isn't about private jets. I promise. But it is about a much more relatable and broadly-applicable idea that they represent.
+This is a piece about the obsessive pursuit of convenience and the hidden debt it creates in your life.
+Somewhere in your first years in the real world, you start to learn what money can do.
+Money is very good at solving a certain set of problems:
+- It eliminates the anxiety associated with basic everyday needs
+- It reduces the stress associated with unexpected bills
+- It lowers the time you have to spend on basic household tasks
+- It gives you an ability to say no, to work, to clients, or to rooms you don't want to be in
+In other words, you start to understand that money has the ability to reduce the simple stresses, burdens, and inconveniences of adult life.
+All of those things are very real. To pretend otherwise would be naive. Using money to solve those money-solved problems creates real, tangible improvements in life satisfaction.
+In these contexts, money buys happiness by reducing unhappiness.
+The problem isn't that any of that logic is wrong. It's that we don't know when to stop.
+My friend Dr. Arthur Brooks, a leading happiness researcher and bestselling author, [once wrote](https://a01c829f.click.convertkit-mail4.com/5qux9883lpf7hn473ent6h9r30m74fnhxk7dx/wnh2hghq0o55rxc7hx/aHR0cHM6Ly93d3cudGhlYXRsYW50aWMuY29tL2ZhbWlseS9hcmNoaXZlLzIwMjEvMDQvbW9uZXktaW5jb21lLWJ1eS1oYXBwaW5lc3MvNjE4NjAxLw==) that these early-in-life patterns cement a relationship that's tough to crack:
+"When it comes to money and happiness, there is a glitch in our psychological code...Over the rest of our lives, like Pavlov’s dogs, we figuratively salivate in anticipation of good feelings when the bell of money rings."
+But the scale and relative importance of problems being solved with money starts to change as your means expand.
+You're no longer eliminating anxiety about prices at the grocery store. Or reducing stresses about the cost of the broken car transmission. Or lowering the time you spend at the local laundromat.
+You're eliminating anxiety about your lawn not being appropriately well-manicured. Or reducing stresses about the hotel not having the type of bed linens you prefer. Or even lowering the time you spend in TSA lines by flying private.
+You assume that the pattern—more money leads to less inconvenience which creates higher happiness—is going to hold in perpetuity.
+It doesn't. And even worse, it inverts.
+Because here's the truth nobody tells you:
+There's a certain level of inconvenience that's an important part of the human experience.
+Inconvenience is a tax on exposure to reality. You can use money to reduce inconvenience to zero, but along the way, your connection to reality goes to zero with it.
+It's like taking antibiotics for every sniffle. You'll wipe out the infection, but also the thing that was keeping you healthy in the first place.
+Experiencing friction is part of being human.
+And if you obsessively use money to optimize the friction out of your days, you make yourself extremely fragile to the inevitable chaos of the years.
+The adaptability muscle atrophies if you never use it, so much so that the smallest unexpected twist has the power to completely derail you.
+I know so many people who have obsessively removed friction from their life and now seem utterly thrown by the tiniest thing. They've got private planes, private drivers, and private chefs. People managing and staffing their various houses. All the trappings of an inconvenience-free life. But then get absolutely derailed by the smallest unexpected bump in the road.
+It's the person in first class who loses their mind over a weather diversion. It's the person with a home staff who can't believe that they have to cook and clean because someone called out sick. It's the person who feels a flash of genuine anger when the delivery driver takes a slightly longer route.
+None of that is bad in any moral or judgmental sense. It's a matter of degrees. I think we've all been on that spectrum at some level or form. Myself included. I don't think any of these people started out that way. Nobody decides to become that person. It's just the accumulated effect of a thousand tiny disconnections from the friction of reality.
+It's why I've come to think of modern convenience as a debt.
+When you seek convenience, you're taking on a small debt. You get a benefit now (in the form of ease) but it creates a corresponding liability (in the form of reality separation).
+There are two ways to pay down that debt:
+- The Involuntary Way: You pay it by feeling the unexpected pain of your separation from reality. When a small amount of chaos throws you wildly off course. When you become fragile rather than adaptable.
+- The Voluntary Way: You pay it by embracing friction in specific ways. By exposing yourself to the interesting unexpected. By doing hard things, with intention.
+The involuntary way is expensive. It accrues interest and typically slams into your life at the worst possible moment.
+The voluntary way happens on a schedule, in a form of your choosing.
+Just because you can afford to remove some inconvenience from your life, doesn't mean you have to. You can always choose to do certain things the hard way.
+You can sign up for a physical side quest. It could be a race, competition, or event. Maybe a marathon, long hike, or a weekend rafting trip. Something that scares you just a little bit.
+You can stand in line without staring down at your phone. You can take the stairs instead of the escalator. Write a letter instead of sending a text. Make dinner or do the dishes instead of paying someone else to do it.
+You can stage some tiny act of convenience rebellion. You can take your belt off and talk to the TSA agent.
+You can always choose to remain connected with reality.
+Yes, so that you remain resilient and adaptable, but also so that you remain alive.
+Because the smooth, textureless life is the forgotten life.
+Some of your most memorable life experiences are so memorable precisely because they had friction. Precisely because they were inconvenient.
+It's why you still laugh about the trip when your bags got lost by the airline. When your flights got cancelled. When your hotel lost your reservation. When all your plans went awry and you had to wing it.
+It's why I still smile at the disastrous family picnic that got ruined by a downpour and left us eating soggy food in the car.
+It's why the chaos of any given Tuesday with a toddler has more lasting meaning than the pristine routines of your early 20s.
+Because somewhere along the line, you come to realize:
+Friction is what makes your life feel real.
+(or share to [LinkedIn](https://a01c829f.click.convertkit-mail4.com/5qux9883lpf7hn473ent6h9r30m74fnhxk7dx/8ghqhohor500gwtkh9/aHR0cHM6Ly93d3cubGlua2VkaW4uY29tL3NoYXJlQXJ0aWNsZT9taW5pPXRydWUmdXJsPWh0dHBzJTNBJTJGJTJGd3d3LnNhaGlsYmxvb20uY29tJTJGbmV3c2xldHRlciUyRnRoZS1oaWRkZW4tZGVidC1vZi1jb252ZW5pZW5jZQ==) or [Facebook](https://a01c829f.click.convertkit-mail4.com/5qux9883lpf7hn473ent6h9r30m74fnhxk7dx/l2hehmhlxk00o2s6h0/aHR0cHM6Ly93d3cuZmFjZWJvb2suY29tL3NoYXJlci9zaGFyZXIucGhwP3U9aHR0cHMlM0ElMkYlMkZ3d3cuc2FoaWxibG9vbS5jb20lMkZuZXdzbGV0dGVyJTJGdGhlLWhpZGRlbi1kZWJ0LW9mLWNvbnZlbmllbmNl))
+Order My First Book to Unlock Exclusive Bonuses:
+The 5 Types of Wealth is the compass for your journey to a life of wealth that goes far beyond money. It provides the actionable tools to define, measure, and design your life around the pillars that truly create lasting happiness and fulfillment.
+It will help you find your True North and build your life around it.
+Order now and you'll unlock several new, exclusive bonuses:
+- Access to my Most Powerful Life Hacks Ebook: 50 timeless insights for simplifying your world and living well.
+- Access to The 5 Types of Wealth Digital Community: Join a vibrant group of like-minded individuals committed to creating a life of comprehensive wealth. Connect, collaborate, and grow together.
+- Access to The 5 Types of Wealth Launch Workshop: Get exclusive access to the full recording of this transformative virtual workshop, where I’ll guide you through specific exercises designed to help you apply the principles of the book. Watch it anytime at your convenience!
+Sahil's Recommendation Zone
+|
+My daily nutritional insurance policy since 2011: [AG1](https://a01c829f.click.convertkit-mail4.com/5qux9883lpf7hn473ent6h9r30m74fnhxk7dx/p8heh9h4q7339etqh3/aHR0cHM6Ly9kcmlua2FnMS5jb20vc2FoaWw=)!
+I started taking [AG1](https://a01c829f.click.convertkit-mail4.com/5qux9883lpf7hn473ent6h9r30m74fnhxk7dx/p8heh9h4q7339etqh3/aHR0cHM6Ly9kcmlua2FnMS5jb20vc2FoaWw=) way before it was trendy or anyone knew about it in 2011. I was one of their first customers as a college athlete and fell in love with it. I took it consistently for over 10 years before asking the CEO for a link to share with family and friends.
+The newly upgraded [AG1 Next Gen](https://a01c829f.click.convertkit-mail4.com/5qux9883lpf7hn473ent6h9r30m74fnhxk7dx/p8heh9h4q7339etqh3/aHR0cHM6Ly9kcmlua2FnMS5jb20vc2FoaWw=) is backed by four clinical trials and features five clinically studied probiotics, functional mushrooms, and whole food-sourced nutrients to support gut health, immune function, and sustained energy.
+[AG1](https://a01c829f.click.convertkit-mail4.com/5qux9883lpf7hn473ent6h9r30m74fnhxk7dx/p8heh9h4q7339etqh3/aHR0cHM6Ly9kcmlua2FnMS5jb20vc2FoaWw=) is offering my amazing Curiosity Chronicle subscribers a FREE Welcome Kit including Vitamin D3+K2 and AG1 Travel packs when you first subscribe.
+|
+Sahil Bloom
+|
+|
+|

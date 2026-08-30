@@ -1,0 +1,15 @@
+---
+id: "19fb8f01424dd267"
+subject: "Friday assorted links"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2026-07-31 16:09:29
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+1. [Tokenizing the value from compute?](https://marginalrevolution.com?action=user_content_redirect&uuid=3a44d9f5ab08f21f182972955485ded7a6d0a293bbcfa0663d60070c5b6da149&blog_id=42693868&post_id=93501&user_id=262258391&subs_id=225460721&signature=b6c0e77205255dbf39cd282edd3aae3e&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly9ib2JnZWxmb25kLnN1YnN0YWNrLmNvbS9wL2luY3JlYXNpbmctdmFsdWUtZnJvbS1jb21wdXRl&email_id=06d2a731b123cc52f120c98cd58d7f6d)
+2. [Will they ruin the look of Dulles airport?](https://marginalrevolution.com?action=user_content_redirect&uuid=d3ddfb55e651122da46cd0c4ca9eb99712fb9590bef85aca5eb7c945db90e7d5&blog_id=42693868&post_id=93501&user_id=262258391&subs_id=225460721&signature=bb693c416fe0f66e9e41fad02a9358c5&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly94LmNvbS9XaGl0ZUhvdXNlL3N0YXR1cy8yMDgyNTQ2MDMwMjA2MTQ4NjQy&email_id=06d2a731b123cc52f120c98cd58d7f6d)
+3. [Pathways into homelessness](https://marginalrevolution.com?action=user_content_redirect&uuid=5e697d7cc5cfa79233208cadb417a30a07d2737d3fc734ba40b0be1044c211b9&blog_id=42693868&post_id=93501&user_id=262258391&subs_id=225460721&signature=27b1252d4d66ae62a9f795a6c5760344&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly94LmNvbS9wYXVsbm92b3NhZC9zdGF0dXMvMjA4MjgwNTcxMTg0Nzc1MTg4MA=&email_id=06d2a731b123cc52f120c98cd58d7f6d).
+4. [Defensible valuations for AI companies](https://marginalrevolution.com?action=user_content_redirect&uuid=4f390473453a93d7aa687d2ca770bb1661108334d1ea029cdfc187ead6a1395e&blog_id=42693868&post_id=93501&user_id=262258391&subs_id=225460721&signature=df5eebb86b85aa4abbbca0b6842fd9e6&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly94LmNvbS80N2Z1Y2I0cjhjNjkzMjMvc3RhdHVzLzIwODI4MDI0MTA2MTYyMTc3OTg&email_id=06d2a731b123cc52f120c98cd58d7f6d).
+5. [Further reasons why very rapid economic growth is very difficult to achieve](https://marginalrevolution.com?action=user_content_redirect&uuid=af5c4b81f096058747b6a459a0e63b72757f65f39bebe2502b1c079f41f07f8e&blog_id=42693868&post_id=93501&user_id=262258391&subs_id=225460721&signature=0739298c02b80a67725f75ae0a60f67f&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly9tYXR0c2NsYW5jeS5naXRodWIuaW8vMjAyNi8wNy8yNy9pbmR1c3RyaWFsLXJldm9sdXRpb24tZ3Jvd3RoLmh0bWw&email_id=06d2a731b123cc52f120c98cd58d7f6d).
+6. [Over 20,000 precolonial earthworks in the Southwest Amazonia](https://marginalrevolution.com?action=user_content_redirect&uuid=c56558c286629ef5f76102ef3a1c14981ac63f09ab150e35d47bf7552cb31b55&blog_id=42693868&post_id=93501&user_id=262258391&subs_id=225460721&signature=8291ec1c8defe3b7d1cbdae9a35913c7&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly93d3cubmF0dXJlLmNvbS9hcnRpY2xlcy9zNDE1ODYtMDI2LTEwODM1LTc&email_id=06d2a731b123cc52f120c98cd58d7f6d).

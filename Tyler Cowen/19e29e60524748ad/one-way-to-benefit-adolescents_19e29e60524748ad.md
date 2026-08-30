@@ -1,0 +1,12 @@
+---
+id: "19e29e60524748ad"
+subject: "One way to benefit adolescents"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2026-05-15 04:30:00
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+Have school start later:
+We examine the impact of California’s Senate Bill 328 (SB 328), the first statewide mandate requiring later school start times for middle and high schools, on adolescent sleep, mental health, and academic outcomes. Using difference-in-differences and eventstudy designs across five data sources, we find that SB 328 increased the share of students sleeping at least 8 hours per night by 13%, meeting the CDC-recommended minimum for this age group. Average mental health effects are imprecisely estimated, but boys show significant reductions in sadness, hopelessness, and suicidal ideation, and Hispanic students, who experienced the largest sleep-timing shifts, show parallel reductions in difficulty concentrating; together these patterns are consistent with a dose-response relationship between sleep improvement and mental well-being. Math and English scores in grade 8 improved by approximately 0.08–0.10 standard deviations, with the largest gains among Hispanic and economically disadvantaged students. A within-state analysis using teachers’ commute arrival times as a proxy for pre-policy school start times corroborates these findings, and shows academic gains accumulating over 2023–2025 alongside a suggestive decline in high school dropout rates. The absence of effects on chronic absenteeism rules out an attendance-driven mechanism, pointing instead to the direct cognitive benefits of aligning school schedules with adolescents’ biological rhythms.
+That is from[ a new NBER working paper](https://marginalrevolution.com?action=user_content_redirect&uuid=853579f7cab1d2e49c701125c03c6dbcb4234cc99dfc4cd0adbe7382bd33210f&blog_id=42693868&post_id=93005&user_id=262258391&subs_id=225460721&signature=9cb6cb2c23e07456238ecc1d2eb546bb&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly93d3cubmJlci5vcmcvcGFwZXJzL3czNTE4NCNmcm9tcnNz&email_id=fa498f337a3dcb7d6907a6828395b3b4) by

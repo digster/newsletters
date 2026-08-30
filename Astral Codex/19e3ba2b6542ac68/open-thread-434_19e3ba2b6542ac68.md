@@ -1,0 +1,16 @@
+---
+id: "19e3ba2b6542ac68"
+subject: "Open Thread 434"
+from: "Astral Codex Ten <astralcodexten@substack.com>"
+to: ""
+date: 2026-05-18 15:03:49
+labels: ["Astral Codex", "CATEGORY_PERSONAL", "INBOX", "UNREAD"]
+label_ids: ["Label_6409723252142624155", "CATEGORY_PERSONAL", "INBOX", "UNREAD"]
+---
+This is the weekly visible open thread. Post about anything you want, ask random questions, whatever. ACX has an unofficial [subreddit](https://substack.com/redirect/17ac492d-2e99-4f9b-a19c-43c3a1b41fd8?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o), [Discord](https://substack.com/redirect/a78a36f3-f39b-401a-9152-aa197d280174?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o), and [bulletin board](https://substack.com/redirect/28187327-176b-4591-815f-a1f956c22a04?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o), and [in-person meetups around the world](https://substack.com/redirect/a4b6da3f-bd57-4caf-9aff-4ef2f4a2db15?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o). Most content is free, some is subscriber only; you can subscribe [here](https://substack.com/redirect/bf3647ae-a5c5-4502-b5b4-9143d0e9db60?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o). Also:
+1: Primary elections are coming up in many US locales. If your ACX meetup group wants to create a voter guide (samples from last election [here](https://substack.com/redirect/95b65a31-697e-4d1e-a481-604fe5757f7c?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)), I’m happy to signal boost it here if your city is big enough and has enough likely ACX readers. Email me if interested.
+2: New subscribers-only post, [Every Magazine Piece On The SF AI Scene](https://substack.com/redirect/0332a5ac-aa73-48c5-b8e9-3adc52a2f12f?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o):
+On a chilly San Francisco day, I found myself in a “group house”, a house where multiple people live in the same house. My host, a bespectacled man named Theodore Wong, grabbed a Dasani water bottle and half-eaten burrito from the refrigerator (a device used to keep food cold - according to Wong’s health-conscious bio-hacker roommate, it “prevents spoiling”). Then he started to speak.
+“There is a serious risk that artificial intelligence is going to kill everyone in the world. You really need to explain this to your readers. We are desperate to get this information out. I’m begging you, please don’t make this a human interest story like all the others. We need for people to know the exact arguments,” he intoned nerdily, and proceeded to give me a twenty minute lecture including lots of words like “compute”, “exponential”, and “slaughterbot”.
+This was my introduction to the wacky world of the San Francisco tech scene, where people drink Dasani water and say things about AI - a technology which, they tell me, “no really your readers need to know this, stop looking at my water bottle and listen to what I’m saying, I beg you.”
+3: [An Inkhaven-like writing/blogging residency](https://substack.com/redirect/a0fc9dfb-ef91-491d-9703-192ce822d1a9?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) in Barcelona, late Aug - early Sep.

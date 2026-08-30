@@ -1,0 +1,12 @@
+---
+id: "19e0b01e67d66563"
+subject: "The social media ban in Australia, how is it going?"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2026-05-09 04:32:14
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+In December 2025, Australia became the first country to ban youth under 16 years old from holding accounts on major social media platforms, a policy now under consideration in more than a dozen countries and in numerous states. Because social media use is inherently social, the effectiveness of a ban that is easy to circumvent may depend on whether compliance reaches a tipping point: a share of compliant peers high enough to make it optimal for individuals to comply themselves. We surveyed 835 Australian teenagers four months after the ban took effect and find that only about one in four 14–15-year-olds comply. The social environment around use has barely moved: most banned teens believe that their peers are still using banned platforms and cite social reasons for continuing use. Sustaining high compliance requires two ingredients: the share of compliers must be high enough and those who comply must find it preferable to continue complying. The current ban achieves neither. Teenagers report that they require roughly two-thirds of peers to stop using social media to stop themselves, far above the share currently complying. They also perceive compliers as less popular than non-compliers, so the more influential teens disproportionately stay on the platforms. Together, these patterns suggest that compliance is more likely to diminish than to rise. Sustaining higher compliance will likely require pairing the ban with instruments that act on social norms and individual incentives directly.
+That is from a new NBER working paper by
+A few days ago I was talking with a very smart fifteen year old in Australia (really). He was of the opinion that it was quite ineffective, though he noted he could no longer access LinkedIn. I would note there are more stringent measures, requiring more governmental monitoring and control of the internet, that perhaps could have a greater effect.

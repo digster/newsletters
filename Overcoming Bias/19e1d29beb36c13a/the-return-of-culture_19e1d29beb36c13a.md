@@ -1,0 +1,10 @@
+---
+id: "19e1d29beb36c13a"
+subject: "The Return Of Culture"
+from: "Robin Hanson from Overcoming Bias <overcomingbias@substack.com>"
+to: ""
+date: 2026-05-12 17:07:04
+labels: ["CATEGORY_PERSONAL", "INBOX", "Overcoming Bias", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_8616244883382228708", "UNREAD"]
+---
+Capital, culture, and states are three key powers in the world. Which ones influences the others more, and how has that changed over time? I asked ChatGPT ( I’ve marked in green the more reliable entries, where the range across the 3 LLM estimates is 2 or less, and in red less the reliable, where that range is 4 or more. Note that estimates seem less reliable in more recent periods. Below the main table I show the median estimates over all times. Oddly, these values are consistently 6 or 7. Maybe all the time-specific LLM estimates given are normed to be relative to this time-independent reference point? In which case, these numbers are mostly about changes over the periods, not constant over time effects. To the right of the main table I show the net (sum out minus in) influence for each power at each period. The story told here is that before industry culture dominated, states were much weaker, and capital was much weaker still. Then in the early Modern period all three had about equal influence, though capital might have had a bit more. In the middle Modern period states dominated, with capital much weaker, and culture much weaker still. But then in the most recent Modern period, culture has returned to now dominate, with capital and states much weaker. The part of this I feel most confident in is that the influence of capital, culture, and state on each other did change over this period, and it is worth trying to figure out how. I’m also pretty confident that the 1900-1970 period was the peak of state influence, and that culture had its peak influence both long ago and recently. You're currently a free subscriber to |

@@ -1,0 +1,26 @@
+---
+id: "19d7ca8acf5921a9"
+subject: "The Saturday Selection, Vol. 100 (!)"
+from: "\"Why is this interesting?\" <whyisthisinteresting@substack.com>"
+to: ""
+date: 2026-04-11 13:03:05
+labels: ["CATEGORY_PERSONAL", "INBOX", "UNREAD", "WITI"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "UNREAD", "Label_5752899537867939131"]
+---
+|
+Every day, WITI’s group chats buzz with fresh links. As part of our Saturday send for paid readers, we round up 11 of the best.
+Today also marks this column’s 100th appearance—thank you for your support.
+As always, it’s WITI, on the weekend.
+Why are these interesting?
+[Publishers are Updating Older Fiction Books with Modern References](https://substack.com/redirect/20495e3d-96ed-44b4-bdfb-86363a92e658?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) (Jason Pargin)
+Out goes a references to Fear Factor, in comes one to TikTok.
+[How To Photograph an Active Volcano, Without Getting Vaporised](https://substack.com/redirect/0dbf59ce-8ff9-4aec-8ad0-13f05f8b7b7c?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) (A Time of Gifts)
+A chat with photographer (and Deadhead) Peter Fisher about climbing Guatemala’s Volcán de Fuego for National Geographic. (“You feel it in your chest—a deep rumble, then an explosion that makes your ears ring.”)
+[Not Even Noise-Cancelling Headphones Can Block This Bicycle Bell](https://substack.com/redirect/bd7b167e-233f-4d78-a06d-c1d1b2a3cfa7?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) (Car Scoops)
+Skoda has designed a new bike bell that slips through active noise cancellation, using a specific frequency gap most headphones cannot suppress.
+[A 1.9 Billion-Year-Old Bedrock Will Soon House the World’s First Permanent Nuclear Waste Site](https://substack.com/redirect/f1578d69-2b11-45e7-8e7b-be90772657a5?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) (Associated Press)
+A follow-on from Katie’s [great WITI](https://substack.com/redirect/d2e1df70-5389-495a-839d-bdf948322dc9?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) from Tuesday, this time with more images...
+Subscribe to Why is this interesting? to keep reading this post and get 7 days of free access to the full post archives.
+| Wednesday paid posts | |
+| Weekend reading edition | |
+| Invite to special virtual and physical WITI events |

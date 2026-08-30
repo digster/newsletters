@@ -1,0 +1,12 @@
+---
+id: "19d2f05ff5818b62"
+subject: "Marginal Garfield"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2026-03-27 11:20:14
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+[Marginal Garfield](https://marginalrevolution.com?action=user_content_redirect&uuid=443d3ac156f257ba0806a9bc013ae4ca2426dbf503c6e4a8f5a4d80722f8fc94&blog_id=42693868&post_id=92705&user_id=262258391&subs_id=225460721&signature=26c6585fa46785183714fd34d3efd708&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly9tYXJnaW5hbGdhcmZpZWxkLmNvbS8&email_id=51b47376e4f366958319ec0ce301c932) generates an original Garfield cartoon every day based on posts from Marginal Revolution! Here is the first strip. You can guess [the post](https://marginalrevolution.com?action=user_content_redirect&uuid=667c80577c9d3cacd87ff6538d148046378233b178b1768c8143058de3ed2b93&blog_id=42693868&post_id=92705&user_id=262258391&subs_id=225460721&signature=b01dc49a6f60c8385b3b790b693f2d19&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly9tYXJnaW5hbHJldm9sdXRpb24uY29tL21hcmdpbmFscmV2b2x1dGlvbi8yMDI2LzAzL3BoeXNpY2lhbi1pbmNvbWVzLWFuZC10aGUtZXh0cmVtZS1zaG9ydGFnZS1vZi1oaWdoLWlxLXdvcmtlcnMuaHRtbA=&email_id=51b47376e4f366958319ec0ce301c932). Is there now any reason to come to MR? What a world.
+You can also check out [Rationalist Garfield](https://marginalrevolution.com?action=user_content_redirect&uuid=a01a5c657b82c433d18d4e8ade99509d1499eb8bdb4db0d860353f4c8daf678b&blog_id=42693868&post_id=92705&user_id=262258391&subs_id=225460721&signature=8007d852907e6662d6455e95c891d86e&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly9yYXRpb25hbGlzdGdhcmZpZWxkLmNvbS8&email_id=51b47376e4f366958319ec0ce301c932) which pulls from Less Wrong.
+We thank [Tim Hwang](https://marginalrevolution.com?action=user_content_redirect&uuid=d40bc190292572510406d357ed37c33d65771f56287bc63e910b488b743d9b08&blog_id=42693868&post_id=92705&user_id=262258391&subs_id=225460721&signature=330194ce428056ec062d8810066bd4ff&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly94LmNvbS90aW1od2FuZw=&email_id=51b47376e4f366958319ec0ce301c932).

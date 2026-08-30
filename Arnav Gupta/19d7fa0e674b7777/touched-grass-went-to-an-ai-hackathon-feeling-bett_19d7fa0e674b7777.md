@@ -1,0 +1,94 @@
+---
+id: "19d7fa0e674b7777"
+subject: "Touched grass. Went to an AI Hackathon. Feeling better."
+from: "Arnav Gupta from system bashing <systembashing@substack.com>"
+to: ""
+date: 2026-04-12 02:58:58
+labels: ["Arnav Gupta", "CATEGORY_PERSONAL", "INBOX", "UNREAD"]
+label_ids: ["Label_2739595779997728054", "CATEGORY_PERSONAL", "INBOX", "UNREAD"]
+---
+|
+That’s me at the Glenfinnan Viaduct. Made famous by Harry Potter movies, with the steam train passing over it. Over the long Easter Weekend we went to the West Highland town of Fort William (also called the outdoor capital of UK) and went for a bunch of hikes around the area. Basically touched a lot of grass. Literally. Touched some snow too.
+Didn’t open my laptop. Didn’t think about tokens or code. Was very much needed. Had been in a bit of a doom loop lately. (More on that later).
+Came back hoping to attend AI Engineer Europe, especially to catch Mario Zechner’s talk on how he built Pi. Missed that because SEVs, meetings and workshops at work.
+Instead went to this other hackathon by Tech:Europe. This was me going to a hackathon as a participant after maybe 5-6 years.
+Anyway, so here I am writing this article, which…. in a long long time, has no AI involed in writing it. Not that I use AI to write articles (I do that sometimes), but of late almost everything I have written has had AI involved in some of the research. This one is me purely rawdogging thoughts on the keyboard.
+Ok here go thoughts….
+You know what it is all about. If you are hyper online like me and follow the zeitgeist. People have just not been feeling great. The fundamental feeling underlying all this is a crisis of identity. Writing code gave meaning, purpose, and jobs to many people. AI can do a that (jury out on how well, how long, etc, but it can.) Information workers are basically just scared that if AI is doing large parts of what they were spending hours at work till few years back, and with the pace of AI’s progress, what exactly does life look like in coming days?
+There is war. There is genocide. Rents are high. Eating out is costly. Even people on fairly high paying tech jobs do not know if the job will last long enough. And every week there are layoffs of thousands of people.
+The one thing almost everyone of my friends not working inside a Big Lab talks about is whether they are falling behind or not. The hype train on the internet doesn’t help. Am I using 1 agent, when others are using 10? Are my agents only doing 5 min jobs when others are running them overnight? What can I do more? How are people using up all of their $200 tokens?
+(Like I said, not using AI to research, so not going and finding too many links for citations too). But there are already studies coming out externally, and if you’re in a big company which tracks these things internally, you’ll already see that the stats look a little like this
+PRs merged, lines of code etc going up by 5-10x
+hours people working going up by 2x
+things being actually struck off from roadmap going up by only 30-40%
+actual perceived improvement in products being 10% or even negligible
+In many BigTech companies a pattern emerging
+leaderboards of ‘tokenmaxxing’
+loss of psychological safety (layoffs)
+fomo of not being ai-native
+The way I think of ‘AI arriving to work’ is that imagine the SWE headcount just magically doubled. For example if your company had 1000 software engineers in Dec 2025, today it has 2000. (Is AI really 1:1 same as a SWE? Forget that question for a second, and indulge me)
+What would really happen if this were the case.
+many companies (most?) just simply do not have the ability to absorb 2x-ing of SWE headcount. everyone says they need more devs to do more. but if you magically actually doubled their headcount, the org would just devolve into more chaos. most orgs which double in headcount in less than a year become a very chaotic place to work at.
+if leadership cannot figure out where to direct the new found productivity towards, cutting opex is a great way to increase stock price short term, and make space for capex (and everyone needs capex to buy GPUs and RAM today, directly, or buy tokens indirectly)
+The 2022 to 2024 years were a bit of a gloom in tech. No doubt. Nobody was even pragmatic (forget being optimistic) about any domain. The wider economy was stagnant, and within that, the tech sector was even more.
+Last two years, lots of startups have been funded. AI has made truly incredible progress. We have had apps that go to 100M users and $100M ARRs in record breaking time.
+But this is also a never before seen market, where anything apart from AI is still extremely pessimistic. AI, and only AI is where all the attention is. And within AI there are few things startups cannot do.
+startups cannot build 10s of gigawatts of datacenters
+startups cannot build new chips or memory, at scale
+startups cannot train new models from scratch that are SoTA
+(some startups do, but you get what I mean)
+That has made this one very narrow little space where the entire VC capital and talent pool of the world jam themselves into.
+“AI wrappers” and “AI infra”.
+It is an unprecedentedly saturated space. There are the same 15 agentic products launching every day. Relentlessly. They are launching entire new ways of wrapping AI every week, at a rate at which no one can learn using the new one before yet another newer one lands.
+Since there is neither any growth outside of AI, and no one is feeling hot about it, not one is getting funded outside AI, every bit of creativity and investment is going into AI tools. Tools to run under the AI, tools to run around the AI and tools to run on top of the AI.
+But the problem is that tool → to make tool → to make tool → to make tool → to make….. at some point it needs to make something that is not a tool. There isn’t infinite demand for an infinitely long chain of tools.
+Also building a new AI tool is much easier than doing one of the following things
+making the average order value of DoorDash orders go up by 10%
+making the avg revenue per ad on YouTube go up by 10%
+making the avg time spent listening to songs on Spotify go up by 10%
+making the avg wait time of Uber to reach you reduce by 10%
+And no, giving any of those one line objectives above to Claude Mythos, will also not magically land you any results.
+Anyway fuck all that. Let me tell you why I am so happy after going to a hackathon.
+By the way I didn’t even finish my own hack. Yes even with LLMs writing code, I am quite rusty after many years of not doing this. Also didn’t team up. And no, a 2-3 person team is still way more effective than just “teaming up with Claude”.
+Anyway I did finish my little hack by the the end (just not in time for submission). Go and try it out if you’d like to - https://cityguide.arnav.tech/
+Some of the best demos I saw at the hackathon were very quirky ideas, and most importantly built by people who are not very adept at coding.
+There were non-tech/non-engineer CEOs (with backgrounds as diverse, as a former orchestra conductor), to a 50 year old very sweet lady who has worked on writing stories and making comic books, to 19 year old design and theatre students building hacks.
+It is so refreshing to see people who had all these weird, whacky, absolutely crazy ideas in their mind - where they can visualise what they want in their heads, but could never turn that imagination into reality, because they didn’t know how to use the tools to do it. And no AI frees them to do it. Not just code, but also,
+today someone who didn’t know how to do graphic design can also create images
+someone who can’t use Blender can render 3D visual effects
+people who have never opened a video editor can prompt AI to generate videos
+and finally prompt Claude or Lovable to wire all these things up together
+Someone made an app that turns boring documents like legal contracts, negotiations into graphic novels and zines. They like comics. They hate paperwork. They vibe coded their ‘desire’ into reality in 4 hours.
+Will this be a ‘product’ ? Will anyone pay money to convert contracts to comics ? Who cares! At least something like this doesn’t need to remain just a brainfart - it can actually be made. And out of 20-30 such brainfarts, suddenly one such idea might end up just flying?
+I mean 20 years back people used to ‘Poke’ each other on Facebook. Not everything needs to make sense for it to become popular or fun.
+My favourite hack (I left early, but I hope they won!) was called Explodify, if I got the name right. So you might have seen products like Dyson or even smartphones advertise these videos where they explode the product to show the components inside?
+Well these guys made an tool with which
+you upload the CAD design of a product
+pick the angle, rotation, explosion speed
+some vibe-coded script does the 3d rendered explosion of the grey untextured CAD
+you prompt what colors, textures, backgrounds you want
+pass it through Kling
+you get a polished video of the exploded view
+First, imagine the possibilities. Making videos like this is costly. Why should a small manufacturer, not billion dollar one like Dyson, not be able to do the same?
+Second - you can even make this video with a texture/color that your product doesn’t even have. And test the reception for it, before deciding to invest in that material.
+Two incredible facts
+this entire product (3d rendering script, exploding video, AI video to re-texture it) was made in 5 years by that team
+they didn’t know how their code worked.
+it would work with <50 component CADs but not larger ones - they had no idea how to fix that
+Most of the other ideas at the hackathon felt quirky and fun to me, but not something that can actually turn into a product that will see production usage. This one felt the most close to something that can actually be turned into a product/service someone will pay serious money for.
+But for that to happen, someone will need to understand the 3D rendering code, and make it configurable, scalable to much larger CAD components.
+Someone will also have to fine-tune video models on ‘retexturing’ such videos, because they were experiencing clear gaps in Kling’s ability to make certain shine/gloss appear correctly on some angles.
+I am gonna hope that
+more AI hackathons take place
+more people not from coding/tech backgrounds go there.
+more ‘idea’ people should go and just vibe code their ideas to life
+some ideas are considered ‘crazy’ or ‘pointless’ or ‘impossible’ by people who can write code, whereas those who can’t just vibe it into existence - more of that happening is great
+some very real use cases (which is no yet more AI tooling) will come out of it
+I thought this article will not have a single link. (Discounting that YouTube video)
+But here is a link anyway.
+One of my favourite articles by Jeff Atwood (the guy who made Stackoverflow)
+https://blog.codinghorror.com/please-dont-learn-to-code/
+I loved the framing there that not everyone needs to learn to code. There’s a lot of other things to do in the world.
+And I think the same argument can be made about AI tools. Especially AI agents.
+Not everyone needs to make one. Forget outside the world of software engineering (which Atwoood wrote about), even within the domain of software engineering - there’s a lot more to do, and might I hope, a even more in future to do outside of making AI tools.
+system bashing is free today. But if you enjoyed this post, you can tell system bashing that their writing is valuable by pledging a future subscription. You won't be charged unless they enable payments.

@@ -1,0 +1,12 @@
+---
+id: "19d70923a02096be"
+subject: "Financial Regulation and AI: A Faustian Bargain?"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2026-04-09 04:48:44
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+Important work is just flowing these days, and much of it (of course) concerns AI:
+We study whether AI methods applied to large-scale portfolio holdings data can improve financial regulation. We build a state-of-the-art, graph-based deep learning model tailored to security-level data on the holdings of financial intermediaries. The architecture incorporates economic priors and learns latent representations of both assets and investors from the network structure of portfolio positions. Applied to the universe of non-bank financial intermediaries, covering nearly $40 trillion in wealth, the model substantially outperforms existing approaches in out-of-sample forecasts of intermediary trading behavior, including in crisis episodes. The model has more than ten times the explanatory power for the cross-sectional variation in asset returns during stress events compared to traditional approaches, and it outperforms existing systemic risk metrics at the institution level. Its learned representations show that the holdings network encodes rich, economically interpretable information about firesale vulnerability. The architecture is fully inductive, producing informative estimates even when entire asset classes or investors are withheld from training. We embed our empirical approach into a macroprudential optimal policy framework to formalize why these objects matter for policy and welfare. We show that even in an equilibrium environment subject to the Lucas critique, the predictive information from the model improves welfare by sharpening the cross-sectional targeting of policy interventions, and we demonstrate a complementarity between prediction and structural knowledge.
+That is [a new paper](https://marginalrevolution.com?action=user_content_redirect&uuid=8203609a809e730638ec026a6395630505c07bf6f84be7f00e438b335365b2ed&blog_id=42693868&post_id=92804&user_id=262258391&subs_id=225460721&signature=5a04e5388cdde9720725a7df72ce6bb4&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly9jbGF5dG9uLWNvcHBvbGEuczMudXMtZWFzdC0xLmFtYXpvbmF3cy5jb20vRmlyZVNhbGVzX0FJLnBkZg=&email_id=81948a6a814549178bd1b4480f20dc5b) by Christopher Clayton and Antonio Coppola, of Yale and Stanford respectively.

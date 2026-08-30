@@ -1,0 +1,11 @@
+---
+id: "19ed4680f4f22999"
+subject: "Facts about American men and women"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2026-06-17 07:07:28
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+Much of what looks like changing marriage preferences over the twentieth century is actually demographics. Exploiting plausibly exogenous variation in sex ratios across U.S. birth cohorts (1870, 1930, 1950), we jointly identify preferences, match quality dynamics, and the costs of marriage and divorce. Demographics alone explain two-thirds of cross-cohort differences. Women’s premium for older husbands collapsed across cohorts; men’s preferences barely changed. Love that survives its early years becomes permanent, but the odds of surviving fell from 97% to 44%. Divorce costs fell six-fold and depend on life stage. A horse race across behavioral channels shows that the match quality process—not mate-age preferences—is the primary dimension of generational change. Declining divorce costs and fragile match quality are substitutes: either alone fits the data, but together they reveal two independent dimensions of social change. The model validates out of sample on the 1910 and 1970 cohorts.
+That is from [a recent paper](https://marginalrevolution.com?action=user_content_redirect&uuid=8b1bb147ab3270df8cc54208d1075d040ea4ed1853489210271d9f4fd8c5e820&blog_id=42693868&post_id=93223&user_id=262258391&subs_id=225460721&signature=418b7a47765d77229a9ef2f3385f4dce&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly9lY29ub21pY3Muc2FzLnVwZW5uLmVkdS9zeXN0ZW0vZmlsZXMvd29ya2luZy1wYXBlcnMvMjYtMDA4JTIwUElFUiUyMFBhcGVyJTIwU3VibWlzc2lvbi5wZGY&email_id=4eeb1c084090875a723771ff30cb7e4c) by Jose-Victor Rıos-Rull, Shannon Seitz, and Satoshi Tanaka. Via the excellent [Samir Varma](https://marginalrevolution.com?action=user_content_redirect&uuid=39207321edc5c140dc8ac35d40e3ede63f05f84cab09528561d65c0a61af4b16&blog_id=42693868&post_id=93223&user_id=262258391&subs_id=225460721&signature=5bf74ee5aa391de1a1e989b253253798&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly94LmNvbS9zYW1pcnZhcm1h&email_id=4eeb1c084090875a723771ff30cb7e4c).

@@ -1,0 +1,12 @@
+---
+id: "1a00bed43e5ac204"
+subject: "Things you cannot buy in America?"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2026-08-16 18:54:52
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+3. Exterior roller shutters (Rollladen)
+In much of Europe, homes feature heavy shutters integrated into the exterior of the window, enabling total blackout and better insulation. Sleeping in true, complete darkness—not “blackout curtain” darkness, but can’t-see-your-hand darkness—is an experience most Americans will never have. These shutters are nearly impossible to get in the USA because these shutters are built directly into the home during its construction. They are fundamentally incompatible with standard American wood-frame, siding, and drywall construction, meaning there is no domestic supply chain to support them, even if you built a house to fit them.
+From Daniel Frank, here is [the full piece](https://marginalrevolution.com?action=user_content_redirect&uuid=f65de9c1b76d4600e0bfb185a20c6c97d4a431018fb3330deef1c3c4bb609c11&blog_id=42693868&post_id=93607&user_id=262258391&subs_id=225460721&signature=ec85d4e7a6eeb61edf1a6492b242308d&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly9ub3Rub3R0YWxtdWQuc3Vic3RhY2suY29tL3AvdGhpbmdzLXlvdS1jYW50LWJ1eS1pbi10aGUtdXNhLWFuZD9yPTJ3dHAyJnV0bV9tZWRpdW09aW9z&email_id=cc4779277a1fec8fbeb9be3c82048e66), noting I am [not convinced](https://marginalrevolution.com?action=user_content_redirect&uuid=2b231e76f3ee59cb25193f75628f6820f11ec85c14cf20fc53bb64734bb64216&blog_id=42693868&post_id=93607&user_id=262258391&subs_id=225460721&signature=ef051f4e39163de8496d6b2474b77ad6&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly9jaGF0Z3B0LmNvbS9zaGFyZS82YTgxNTAwYi0zMmFjLTgzZWEtOTIyOC1lNTAxN2EzZTRiOTg&email_id=cc4779277a1fec8fbeb9be3c82048e66) you cannot get a "grass roof," among other items mentioned. In any case an interesting list, file under "possibly thwarted markets in everything." Via [Anecdotal](https://marginalrevolution.com?action=user_content_redirect&uuid=dfb3bd17dd8c40df5e20b783ffdde74750ea849ad7277aa46fd873792c28be35&blog_id=42693868&post_id=93607&user_id=262258391&subs_id=225460721&signature=4a56f5f2cf2c5fc4e99d482319dc5e7b&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly94LmNvbS9hbmVjZG90YWw&email_id=cc4779277a1fec8fbeb9be3c82048e66).

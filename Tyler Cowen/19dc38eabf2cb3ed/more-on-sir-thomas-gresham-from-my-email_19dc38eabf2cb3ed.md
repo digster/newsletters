@@ -1,0 +1,13 @@
+---
+id: "19dc38eabf2cb3ed"
+subject: "More on Sir Thomas Gresham (from my email)"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2026-04-25 07:33:19
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+...Double-entry book-keeping - John and I believe, with some evidence, that he may well have been the person to bring double-entry book-keeping to the UK from the Low Countries. In turn an Italian invention of the 13th century...
+Business exchanges rather than markets - Gresham certainly brought the idea of an exchange or bourse from Antwerp (in turn from Ghent) to England. It really was a radical idea. No phone directory, no advertising, no internet – we used to block of Cornhill with chains so merchants could meet at regular times in the mud and rain to establish ventures, principally voyages, and fund them. The Exchange became more and more populated as the Low Countries fought with Spain. People don’t bring money to a war zone (or a cybersecurity hazard). Thus, it was the vessel into which poured the extensive wealth of the Low Countries and turned London from an outback sheep town of 30,000 at the beginning of the 1500’s to a city of over 200,000 by 1600. Markets for cattle, sheep, produce, chickens, all existed – but a market for intangible things?
+1st English Shopping Mall? - Gresham also brought the idea of a shopping mall to England. We have many examples of similar complexes and galleria from ancient times, but not in England. At the time it was the upper floor of his Exchange. The concept of shops not adhering to a physical locality – Bread Street, Milk Street, Boot street, etc. – was more radical than it sounds to modern ears. Amusing then to have England referred to in later centuries as “a nation of shop keepers”.
+From Michael Mainelli, here is [my original post on Gresham](https://marginalrevolution.com?action=user_content_redirect&uuid=b5e4578e7bf566890b59ebef00493203011d201313fed1bfcd607d4ebc157b28&blog_id=42693868&post_id=92894&user_id=262258391&subs_id=225460721&signature=4d642ab795e242b3252be375701e4e7f&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly9tYXJnaW5hbHJldm9sdXRpb24uY29tL21hcmdpbmFscmV2b2x1dGlvbi8yMDI2LzA0L3Rob21hcy1ncmVzaGFtLWlzLXVuZGVycmF0ZWQuaHRtbA=&email_id=93ce455ed2ccf40915a7ffc4440553a7).

@@ -1,0 +1,11 @@
+---
+id: "19f7e01dea345716"
+subject: "Democrats are more politically segregated than are Republicans"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2026-07-20 05:31:19
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+We estimate the extent of workplace political segregation in the United States by merging data covering over 45 million workers. We present four main findings. First, partisans are segregated by workplace. The average Democrat’s coworkers are 11.7 percentage points (pp; 95% confidence interval (CI) [10.6, 12.8]) more Democratic than the average Republican’s. After controlling for geography, industry and occupation, segregation is 2.9 pp [2.7, 3.1], comparable to analogously estimated gender segregation (2.8 pp [2.6, 3.0]). Second, segregation is largest among the politically active (political donors: 14.8 pp [13.2, 16.4] versus non-donors: 11.6 pp [10.5, 12.7]) and those with more market power (senior executives: 14.7 pp [13.4, 16.1]). Third, Republicans experience higher exposure to Democrats than vice versa: the average Republican’s coworkers are 50% Democratic versus 32% Republican for the average Democrat. Fourth, political segregation has changed little over time (2012: 11.1 pp [10.0, 12.2] versus 2024: 11.0 pp [10.0, 12.0]).
+That is from [a recent paper](https://marginalrevolution.com?action=user_content_redirect&uuid=f991b6b5005b5bcdce25eb06d9ead21e91a82b405fe662fcc36b1294d79876f5&blog_id=42693868&post_id=93424&user_id=262258391&subs_id=225460721&signature=29368aff0fe8de41e9027560f015c462&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly93d3cubmF0dXJlLmNvbS9hcnRpY2xlcy9zNDE1NjItMDI2LTAyNTAxLTk&email_id=d9fa571d0f006964d1abce16f48ac1fe) by Justin Frake, Reuben Hurst, and Max Kagan. Via the excellent [Kevin Lewis](https://marginalrevolution.com?action=user_content_redirect&uuid=545c79c3d4bc7c84031f306b78b8847c0416025dfa118aba970312e326fd8806&blog_id=42693868&post_id=93424&user_id=262258391&subs_id=225460721&signature=b433cd20eed4364e4f6aa6f4c69610a8&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly93d3cubmF0aW9uYWxhZmZhaXJzLmNvbS9ibG9nL2RldGFpbC9maW5kaW5ncy1hLWRhaWx5LXJvdW5kdXAvb3V0LWZvci1qb2Jz&email_id=d9fa571d0f006964d1abce16f48ac1fe).

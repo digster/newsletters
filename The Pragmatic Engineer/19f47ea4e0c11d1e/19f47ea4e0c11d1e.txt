@@ -1,0 +1,41 @@
+View this post on the web at https://newsletter.pragmaticengineer.com/p/the-pulse-interesting-ai-coding-stats
+
+Hi, this is Gergely with a bonus, free issue of the Pragmatic Engineer Newsletter. In every issue, I cover Big Tech and startups through the lens of senior engineers and engineering leaders. Today, we cover one out of four topics from a past The Pulse issue [ https://substack.com/redirect/b41c89dd-3260-4b6d-ac6b-fc5020144e88?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]. Full subscribers received the article below five weeks ago. If you’ve been forwarded this email, you can subscribe here [ https://substack.com/redirect/6a8d6aab-16ba-42ab-afb8-ee73d5e48253?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ].
+Cursor has released a new report based on two years of its aggregated usage data, and there are some interesting findings:
+Power users generate 10x as many lines of code vs the median
+The median dev using Cursor (the p50) generates about 700 lines of code per week with it, while for the 90th percentile, it’s closer to 9,000 lines.
+Top 1% of users create incredible volume of code
+The p99 data is pretty stunning:
+The top 1% of users generate around 30-40K lines of code per week! That’s the equivalent of what ~45 “median” devs generate in the same period.
+It’s worth asking how these top 1% of users are different. Are they writing a lot more greenfield code, do they have a bias for not using libraries, are they tokenmaxxing to get to the top of leaderboards? Do they generate 45x as many bugs, and importantly: are they adding a lot of business value with the software they ship?
+Cursor consumes 10x more input tokens than it generates in output tokens
+This is surprising: 90% of Cursor’s token usage is input tokens! This means that most of the tokens used are for reading the existing codebase and documentation. Outputting of code is a minority usage:
+In some ways, this usage makes sense: as devs, we always spent far more time on reading the code, compared to lines of code we typed out. The “10:1 read-to-write” ratio is a classic. Here’s Robert. C. Martin (aka “uncle Bob”) sharing this observation in 2008, in his book, Clean Code:
+“Indeed, the ratio of time spent reading versus writing is well over 10 to 1. We are constantly reading old code as part of the effort to write new code… [Therefore] making it easy to read, makes it easier to write.”
+I find it amusing that we’re now seeing this 10:1 read / write ratio for token usage with AI agents!
+Input tokens become the main AI token cost
+Input tokens are priced at a fraction of output tokens: for example, Opus 4.7 charges 5x more for output tokens than for input tokens ($5 per 1 million input tokens and $25 per 1 million output tokens). Still, thanks to input tokens dominating token usage, Cursor is seeing input tokens account for closer to 70% of the cost of AI coding agents:
+Without caching context, token cost would be 10x higher
+Cursor does smart caching of context, to avoid re-generating old context with more new input tokens. When taking cache usage into account, Cursor only spends 0.6% of tokens on output tokens. The remaining 99% is split between cache read (90%), cache write (2.5%), and input tokens (7%):
+I wonder if context reuse and caching will be a key AI efficiency component in the future? AI tokens are expensive to generate, so any form of reuse will make a lot of sense, especially in workflows like coding where a lot of existing context is reused.
+Of course, Cursor sharing this detail also makes sense, as they remind everyone that building an efficient AI agent harness is far from trivial. Indeed, if you roll your own agent harness, you also need to put an efficient caching layer in place to match the efficiency of tools like Cursor.
+Opus 4.7 is the most expensive model & could hurt Anthropic
+Opus 4.7 is still considered the most capable coding model. However, it’s also very expensive, and Cursor’s own data shows it’s close to 10x more expensive than its own Composer 2.5 model:
+It’s significant that Cursor compares the cost of a single agent request; it’s not a direct token-to-token comparison. And it’s worth noting this benchmark is being shared by Cursor, which has an incentive for its Composer model to appear the lowest-cost.
+Still, assuming you can get similar-enough results with a 10x cheaper model, it is a saving that’s hard to ignore, especially for mid-sized and above companies. I would not be surprised if more tech companies find ways for devs to use less capable – but cheaper – models for less critical work.
+More expensive models result in higher acceptance rates
+An interesting metric Cursor shares is cost-per-line-added, per model:
+This metric is a more realistic cost because it correlates to output: “smart” models that are expensive, but which produce code that is frequently accepted, are penalized by the cost-per-agent-request metric, but they’re not here.
+Indeed, Opus 4.7 has the same cost-per-line-accepted as GPT 5.5 at half the cost per agent request. In this comparison, Cursor’s Composer model is “only” 5x as efficient.
+Missing from both lists are Google’s Gemini models, a strange omission by Cursor. I reached out to Cursor and they told me that Gemini was left out simply because they see very little usage of this model on their platform, similar to the sparsely used Grok model.
+Almost half of AI changes accepted without manual review by devs
+I’ve left the most interesting part of this report to last: in just a month, among devs using Cursor, it has gone from 10% who let AI agents create commits without a manual step, to around 40% of devs who no longer personally check the code:
+The jump correlates with Opus 4.7 and GPT-5.5 being released, and around the time when many devs seem to have concluded that writing code by hand is dying [ https://substack.com/redirect/5ef6494c-9255-4c4e-8756-23599af5e736?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ] after experiencing this generation of models’ capability at generating code.
+Check out the full report from Cursor [ https://substack.com/redirect/25b0aa0d-479c-4ad6-a4bb-0cf5fe3cf848?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ] for more details. Thanks to the team for releasing this data!
+Read the full issue of The Pulse this excerpt is from [ https://substack.com/redirect/b41c89dd-3260-4b6d-ac6b-fc5020144e88?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ], or check out the latest The Pulse [ https://substack.com/redirect/b00200e3-e8c9-4c2b-9783-7a299a14f175?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ] from today. Today’s issue covers:
+Bun’s Rust rewrite with Fable: what can we learn?
+Anthropic’s Fable, OpenAI’s GPT-5.6 Sol, Cursor’s Grok 4.5, Meta’s Muse
+North Korean hackers keep trying to infiltrate full-remote companies
+Industry Pulse: Meta’s key logging exposed sensitive data, massive cuts at Xbox, Meta could not buy enough AI capacity from Google, Qualcomm acquires Modular, and memory price hikes hit Apple products.
+
+Unsubscribe https://substack.com/redirect/2/eyJlIjoiaHR0cHM6Ly9uZXdzbGV0dGVyLnByYWdtYXRpY2VuZ2luZWVyLmNvbS9hY3Rpb24vZGlzYWJsZV9lbWFpbD90b2tlbj1leUoxYzJWeVgybGtJam94TkRVMk16TXhPU3dpY0c5emRGOXBaQ0k2TWpBMk16STNORGN5TENKcFlYUWlPakUzT0RNMk1UYzVOalFzSW1WNGNDSTZNVGd4TlRFMU16azJOQ3dpYVhOeklqb2ljSFZpTFRRMU9EY3dPU0lzSW5OMVlpSTZJbVJwYzJGaWJHVmZaVzFoYVd3aWZRLnVhZkNCdUt3eXFSbWxEOS1aeFRDdThHbDhZYU9vU1VWQUFOczd1M01tRmMiLCJwIjoyMDYzMjc0NzIsInMiOjQ1ODcwOSwiZiI6dHJ1ZSwidSI6MTQ1NjMzMTksImlhdCI6MTc4MzYxNzk2NCwiZXhwIjoyMDk5MTkzOTY0LCJpc3MiOiJwdWItMCIsInN1YiI6ImxpbmstcmVkaXJlY3QifQ.B_8yWHn0Tpq1_CqI3_tomnCUImsiL6jIO220JbBxflA?

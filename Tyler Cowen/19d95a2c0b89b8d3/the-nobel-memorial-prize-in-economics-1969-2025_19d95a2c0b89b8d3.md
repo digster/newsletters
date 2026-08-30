@@ -1,0 +1,11 @@
+---
+id: "19d95a2c0b89b8d3"
+subject: "The Nobel Memorial Prize in Economics, 1969-2025"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2026-04-16 09:32:44
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+The Nobel Memorial Prize in Economics has been awarded annually since 1969. Who wins the prize is a topic of much interest and tracks the whole course of the academic discipline over the last 57 years. Explaining who wins the prize in any given year is a complex process, which involves the subtle endogeneity of the choice of the field and the individual(s) who should be honoured. Citations, track records, networks of past winners, institutional factors along with field rotation and Economic Prize Committee composition may all play a role. A dynamic sample involving a changing stock of would-be candidates along with a moving flow—both into and out of the sample—add complexities to the modelling. We find robust evidence that the Nobel Prize rotates in a semi-regular way between the fields of economics. Earlier awards were for a single paper, later ones for a body of work. Networks do not matter, but having a Nobel student or co-author does. There is some evidence that the personal preferences of Committee members had an effect on either field or individual winner. The Committee’s decisions changed after Lindbeck retired.
+That is from [a new paper](https://marginalrevolution.com?action=user_content_redirect&uuid=1cf2da2b6e8b017c748b1e82b78007b10a5fc0c5237fdc1c1fb50355647b8a4c&blog_id=42693868&post_id=92843&user_id=262258391&subs_id=225460721&signature=021be33fbd0fd60b3390d04afa3545b6&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly9hcnhpdi5vcmcvaHRtbC8yNjAzLjIwNzY3&email_id=d8af342b5e3dac128003141b613e73cc) by Peter J. Dolton and Richard S.J. Tol. Via [Niclas Berggren](https://marginalrevolution.com?action=user_content_redirect&uuid=61d1a484cf51876bd3dc98eef07afe459928535efe2b8c00dd8f961cf0c226ff&blog_id=42693868&post_id=92843&user_id=262258391&subs_id=225460721&signature=4ffad69d6d02f1f235f09ac048025efb&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly94LmNvbS9ub25pY29jL3N0YXR1cy8yMDQ0MzkyMTkyMTA2NTEyMzg4P3M9NjE&email_id=d8af342b5e3dac128003141b613e73cc).

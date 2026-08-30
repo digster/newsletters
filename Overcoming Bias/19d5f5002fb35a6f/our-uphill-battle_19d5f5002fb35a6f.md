@@ -1,0 +1,10 @@
+---
+id: "19d5f5002fb35a6f"
+subject: "Our Uphill Battle"
+from: "Robin Hanson from Overcoming Bias <overcomingbias@substack.com>"
+to: ""
+date: 2026-04-05 20:22:23
+labels: ["CATEGORY_PERSONAL", "INBOX", "Overcoming Bias", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_8616244883382228708", "UNREAD"]
+---
+I recently But watching a For example, youths are generally more risk-taking, emotionally expressive, eager to impress potential mates, less invested in prior arrangements, and better able to bond together into groups. Which attracts youths to the chance to skip the usual dues to rise fast in status as leaders of new tightly-bonded emotional youth movements. Helping further, we legitimized fashions, seeing those who first adopt new popular changes as more virtuous than others. And we put kids together in high school and college, where they have more free time for activism, bond into their own distinct youth cultures, and are taught to see the world more abstractly and thus morality more simply and universally. Also, better communication tech has let them coordinate faster across wider distances. Finally, the modern world has widely adopted the views (a) that morality is a whole separate realm where the usual adult knowledge and experience are less relevant, (b) that moral opinions should from come authentically from within us, and (c) that youthful opinions on morals tend to be less corrupted by habit and self-interest. All of this has created a perfect storm for young adults to repeatedly make and join new internal-feelings-driven moral crusades, movements maximally suspicious of opposing older adults with ties of interest and habits to the existing order. Could we apply industry to more strongly to manage this process? For example, by We should do our best to try, but damn does this look hard. You're currently a free subscriber to |

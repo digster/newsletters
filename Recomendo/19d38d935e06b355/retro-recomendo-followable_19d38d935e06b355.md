@@ -1,0 +1,13 @@
+---
+id: "19d38d935e06b355"
+subject: "Retro Recomendo: Followable"
+from: "Recomendo <recomendo@substack.com>"
+to: ""
+date: 2026-03-29 09:03:32
+labels: ["CATEGORY_PERSONAL", "INBOX", "Recomendo", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_8455078693589186571", "UNREAD"]
+---
+Our subscriber base has grown so much since we first started nine years ago, that most of you have missed all our earliest recommendations. The best of these are still valid and useful, so we’re trying out something new — Retro Recomendo. Once every 6 weeks, we’ll send out a throwback issue of evergreen recommendations focused on one theme from the past 9 years. Home DIY videos
+Culinary curiosities from around the world
+Laugh out loud caricaturesWatch these Quick research explainers
+Strange imagesThe Instagram account Joyful social mediaI’ve intentionally cut down on my social media time, but there’s one account I never scroll past because it always makes me smile: THIS ISSUE IS SPONSORED BY INCOGNIThe BBC exposed scam call center workers laughing as they tricked victims on hidden camera. One bragged about making $250k. The reason they find targets so easily? Your personal data is sold by brokers online. Incogni removes it automatically, monitors new exposures, and keeps deleting it. Protect yourself today and get UNCLASSIFIED ADSYou’re probably paying for subscriptions you forgot about. The average American spends over $200/month on subscriptions but only uses about half of them. Here’s how to find every recurring charge and cancel the ones you don’t need. Your Amazon Prime membership comes with more benefits than you might realize. Are you using all 9 hidden perks? Maximize your membership! Whether you’re already a Prime member or considering signing up, Omix creates adaptive music that responds to your focus in real time — ideal for deep work, coding, writing, or study. Mac app with a small footprint and customizable soundscapes. Recomendo Ads work! Recomendo is an authentic, hand-crafted, human-written weekly newsletter that is free, but not cheap. Consider supporting our work with a paid option, now at the low price of $45 per year. Paid subs enable us to keep making it free for others. Recomendo is published by Cool Tools Lab, a small company of three people. We also run the Recomendo is copyrighted by Cool Tools Lab, LLC. Commissions may be earned from the links above. |

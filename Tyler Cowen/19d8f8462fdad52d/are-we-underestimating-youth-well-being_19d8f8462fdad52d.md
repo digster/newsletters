@@ -1,0 +1,11 @@
+---
+id: "19d8f8462fdad52d"
+subject: "Are we underestimating youth well-being?"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2026-04-15 05:01:50
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+Although there is growing evidence that the subjective wellbeing among the young declined in recent years, the evidence is not consistent across surveys. We examine the relationship between age and various measures of wellbeing and illbeing across three major surveys – the Gallup World Poll (GWP, Global Minds (GM) and the Global Flourishing Survey (GFS). The GWP is conducted via face-to-face and telephone surveys; GM surveys are web-based; and GFS uses both telephone and web-based surveys. We focus on 23 countries appearing in all three surveys. The clearest evidence that wellbeing rises with age and illbeing declines with age comes from the web-based surveys in both GM and GFS. The age profiles look very different when surveys are conducted by telephone: the higher rates of illbeing among the young are far less apparent in these surveys. Because survey mode is not randomly assigned, we cannot be sure differences in age profiles of wellbeing and illbeing are causally affected by survey mode. Selection into survey mode, both across and within country, plus differential non-response by survey across the age range, may be playing a role. However, the evidence indicates very different age patterns in wellbeing and illbeing emerge across different survey modes.
+That is from [a new NBER working paper](https://marginalrevolution.com?action=user_content_redirect&uuid=98bccf9f4962a275df8b94740c36dd1d9fa6b938d3eec30c2cdd5451d21f3415&blog_id=42693868&post_id=92828&user_id=262258391&subs_id=225460721&signature=0021a6461d9f06067aff18ee5c40b120&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly93d3cubmJlci5vcmcvcGFwZXJzL3czNTA1OA=&email_id=bd033a768b9978f2cb63c427c4bc6bbe) by David G. Blanchflower and Alex Bryson.

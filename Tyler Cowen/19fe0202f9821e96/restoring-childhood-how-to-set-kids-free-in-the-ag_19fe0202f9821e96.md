@@ -1,0 +1,13 @@
+---
+id: "19fe0202f9821e96"
+subject: "*Restoring Childhood: How to Set Kids Free in the Age of Anxiety*"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2026-08-08 06:47:13
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+That is [the new book by Peter Gray](https://marginalrevolution.com?action=user_content_redirect&uuid=51da066aef5760c59844feed31eb27266985d67d844ddaf15bc732b2790a97cf&blog_id=42693868&post_id=93538&user_id=262258391&subs_id=225460721&signature=4c3779356bd3b6df6d331d718dca0bc1&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9SZXN0b3JpbmctQ2hpbGRob29kLUtpZHMtRnJlZS1BbnhpZXR5L2RwL0IwR0Q1RzJGWVYvcmVmPXNyXzFfMT9jcmlkPUhXWTQ1MEczN1A2NiZkaWI9ZXlKMklqb2lNU0o5Lkl0NDJjWV9yNTNKRXNOOF9kbVR5anpPRDgyeGFxc0tPYjdZLWc0THRhcUZHdnRKSVRVTVNLQUJONXpvdjZVOXBRcWFHVDluN2RTYVhFeG4yTlZsTjR0ODlVLTRWa19EYjAzMnNqb0wwYnJhc0tfMXZtVFFOaURWY1Ntb2RFUzRaQlVQOXVoZVN4OFlNZFYxV2NRaHFTd2hockFOMUxLM1NiUmgtaXAxRkh5d3BleHBwVUdTcXVwQ2lnTGYwUkk1SkFXZDVXTk8tSGs5dmlaVk9xb0dvLXMzVmJsN2lvS2RpQS1KeWc3aFBzdncuUTVGdmJuZmN5dXFtaHBTV3Qxamd1Nm4zTDU2REJBX0Z5dGh2ZHRNc0RGUSZkaWJfdGFnPXNlJmtleXdvcmRzPXBldGVyK2dyYXkmcWlkPTE3ODU4NTYyNTgmc3ByZWZpeD1wZXRlcitncmF5JTJDYXBzJTJDMjY1JnNyPTgtMQ=&email_id=6aea8ad1bbb9935bf44f4af9ba1ba1a1), and it is very much a whole philosophy of child-rearing and also antidote to the current panic over social media. Excerpt:
+In preparation for this chapter, I spent weeks poring over the research literature pretaining to smartphones, social media, and teen mental health. It is clear to me that there is something close to a consensus among scientists most immersed in this research, which includes the following three conclusions: (1) Extensive research refutes the theory that effects of smartphones and social media account for a meaningful portion of the decline in teen mental health in the years following 2010. (2) Smartphones and social media can have both beneficial and harmful effects on teens' mental health, which tend to cancel out when averaging. (3) Future research should focus on understanding better the ways teens use these tools and how to help them maximize the benefits and minimize the harm.
+Note that teen suffering also hit a peak around 1990 by many measures, yet that cannot have been caused by phones or social media. And European teen suicide rates were falling just as those in the United States were rising. This evidence is considered in further detail of course.
+Recommended, it is both easy to read and substantive.

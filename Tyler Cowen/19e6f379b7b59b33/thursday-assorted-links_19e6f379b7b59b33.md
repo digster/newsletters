@@ -1,0 +1,13 @@
+---
+id: "19e6f379b7b59b33"
+subject: "Thursday assorted links"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2026-05-28 15:32:54
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+1. "[Robinhood launched agentic trading and an agentic credit card today that will allow AI agents to trade equities and make credit card purchases on customers' behalf.](https://marginalrevolution.com?action=user_content_redirect&uuid=1255daa247c02153f1f15a878f1848b3ceb221302bfc5e835c3893903196e33d&blog_id=42693868&post_id=93085&user_id=262258391&subs_id=225460721&signature=e63f2260fdcca0175394d6ccfa5f08a8&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly93d3cuYW1lcmljYW5iYW5rZXIuY29tL3BheW1lbnRzL25ld3Mvcm9iaW5ob29kLWxhdW5jaGVzLWFnZW50aWMtdHJhZGluZy1hbmQtYW4tYWdlbnRpYy1jcmVkaXQtY2FyZA=&email_id=1b17951b9cd0b3e5ee115a7d5f1b7d0c)" With cash back, of course.
+3. [Why has Napoleon so rarely been captured well on screen?](https://marginalrevolution.com?action=user_content_redirect&uuid=245ab1d2f88ec33123208ae702c98d589c32e2828e15557d2cf354b088830699&blog_id=42693868&post_id=93085&user_id=262258391&subs_id=225460721&signature=4659ccdac282b68f4a022a5b050394c8&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly9oaXN0b2ZsaWNrLmNvbS8yMDI2LzA1LzI2L3Rvby1iaWctZm9yLXRoZS1zY3JlZW4td2h5LWNpbmVtYS1jb250aW51ZXMtdG8tZmFpbC1uYXBvbGVvbi8&email_id=1b17951b9cd0b3e5ee115a7d5f1b7d0c)
+4. [Guatemala agrees to joint strikes, with the U.S., against drug gangs](https://marginalrevolution.com?action=user_content_redirect&uuid=a334dc42b58ac92cb41f2eaf3010135750d6da3db51353925d247281fea2d9ce&blog_id=42693868&post_id=93085&user_id=262258391&subs_id=225460721&signature=cf1d34af2ed0c97045b599c6df23bfc5&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly93d3cubnl0aW1lcy5jb20vMjAyNi8wNS8yOC93b3JsZC9hbWVyaWNhcy9ndWF0ZW1hbGEtdXMtam9pbnQtc3RyaWtlcy5odG1s&email_id=1b17951b9cd0b3e5ee115a7d5f1b7d0c) (NYT).
+6. [Emmanuel Roman on the need for deeper and thicker European capital markets](https://marginalrevolution.com?action=user_content_redirect&uuid=ae8bda3484833231b53266544b5b91707807d450bb35c15e8e98cbf3e5642a4d&blog_id=42693868&post_id=93085&user_id=262258391&subs_id=225460721&signature=e5d9d45e9cd673f4fc6cdbe3b3a1c9a5&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly93d3cuZnQuY29tL2NvbnRlbnQvZjBlN2M5ZjgtMmU5OC00MmQ3LWI0ZjctZGFlOTQ0Mjk0Mzlm&email_id=1b17951b9cd0b3e5ee115a7d5f1b7d0c) (FT).

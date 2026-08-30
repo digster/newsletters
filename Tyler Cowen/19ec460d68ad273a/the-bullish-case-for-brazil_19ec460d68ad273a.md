@@ -1,0 +1,15 @@
+---
+id: "19ec460d68ad273a"
+subject: "The bullish case for Brazil"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2026-06-14 04:25:40
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+Start with the most important number in economics, even though no one on Wall Street talks about it: calories per acre. Human civilization runs on food. Ten billion people will inhabit this planet by 2050. The amount of arable land is not growing. It is shrinking, every year, to urbanization, desertification, salinization, and topsoil erosion. The countries that can grow food at scale will be the most strategically valuable territories on earth. The countries with the best apps and the most PhDs will depend on the countries with the best dirt.
+Brazil has more unused arable land than any country on earth. That sentence alone should stop every allocator in their tracks. It means that Brazil can approximately double its total cultivated area, without touching a single hectare of the Amazon, simply by converting degraded pasturelands in the Cerrado and other biomes into productive cropland using technology that already exists.
+No other agricultural superpower has this headroom. The United States is fully utilized. China is losing farmland to urbanization at a rate that should terrify its central planners. India's agricultural productivity gains are hitting diminishing returns against water stress and soil degradation. Europe is hemmed in by geography and regulation. Sub-Saharan Africa has theoretical potential, but lacks the roads, the ports, the legal frameworks, and the capital to exploit it within a generation.
+Brazil is already the world's largest net food exporter. It leads the world in soybeans, coffee, sugar, orange juice, beef, and poultry. It is the second-largest exporter of corn, pork, and ethanol, and recently surpassed the United States as the largest cotton exporter. Agribusiness generates approximately 25% of GDP and more than 40% of export revenue. And the agricultural sector has been growing productivity at 3-4% per year for two decades straight, driven by Embrapa's tropical soil science, satellite-guided precision agriculture, and the industrialization of protein supply chains that stretch from feedlots in Mato Grosso to dinner tables in Shanghai.
+A single farm in Mato Grosso can be more than twice the size of the state of Rhode Island. A literal fact. The Bom Futuro Group cultivates more than 700,000 hectares (roughly 2,700 square miles) of soybeans, corn, and cotton across 35 production units. This is farming at a scale that American and European investors cannot easily conceptualize, operating with GPS-guided machinery, drone monitoring, and soil analytics that rival anything in Iowa, but across an area that dwarfs it.
+The post is interesting throughout and offers further points of interest.

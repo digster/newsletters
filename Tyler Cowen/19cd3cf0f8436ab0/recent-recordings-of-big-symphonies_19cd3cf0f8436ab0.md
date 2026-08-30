@@ -1,0 +1,13 @@
+---
+id: "19cd3cf0f8436ab0"
+subject: "Recent recordings of “big symphonies”"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2026-03-09 18:14:47
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+The [Marek Janowski box of Bruckner symphonies](https://marginalrevolution.com?action=user_content_redirect&uuid=169ce5598caa2186cdde3e224c959976e8030c04bbee91c5c5577c5170dde6f9&blog_id=42693868&post_id=92534&user_id=262258391&subs_id=225460721&signature=99785307be83d491ca76c60229a32d8d&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9Db21wbGV0ZS1TeW1waG9uaWVzLU9yY2hlc3RyZS1TdWlzc2UtUm9tYW5kZS9kcC9CMENNREozMktT&email_id=f6c9627be52584839883e69b68ccddcf) I find to be the best Bruckner overall. And yes I do know many other versions, even Hermann Abendroth, though I cannot hold a candle to one MR reader I met recently who may know seventy or more versions of Bruckner's 8th.
+Vladimir Jurowski has recorded Maher 1, 2, 4, 8, and [with 9 on the way](https://marginalrevolution.com?action=user_content_redirect&uuid=7eccf6489e183bc0aadefac1dad6c811a0b7035b3cfb5c4611ffbbf28d086ad3&blog_id=42693868&post_id=92534&user_id=262258391&subs_id=225460721&signature=cb9a79483ccbb7849e2d68aab47e27b0&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9WbGFkaW1pci1KdXJvd3NraS1Db25kdWN0cy1NYWhsZXItU3ltcGhvbnkvZHAvQjBGWFNDWThTNy9yZWY9c3JfMV8xP2NyaWQ9M0RSMktLWjBRSlJCQyZkaWI9ZXlKMklqb2lNU0o5LjRXVmFpekxzWU1id1ZRb1RpV0UtMjZvdjdFdC0yMG1sd2dxRjhrcENsLXZIb3gxaFlxUWRvN3dMRzNjdURTUHd2TzJ4YkE1T3BqcDhDaUlnZl9fVm5wNG9YMGdkUnJiUkNnMmdPcXhISEctR0tZR0oxbEdYTFRhTFZVakVPcUtadm9ZeGtYSThQZzFGbnk1eFBXZ09haUJtbHJZZC1aR1JWenE2M2xaTjViYmlpcktrZjlkUlVtNXB5Ty0yUkhqbWhmT0hXeVVadmZBVk5uNTVvMmVJUGNEd1ZsdDRNeUJyVjJCTWJvN2tmSm8uOVNxMkhWN1BsX29ReW1zZzU4cDg1Ylo3N3p4MWVnd1diWFpPZE04YlpxZyZkaWJfdGFnPXNlJmtleXdvcmRzPWp1cm93c2tpK21haGxlciZxaWQ9MTc3MjMwNzM1MyZzPW11c2ljJnNwcmVmaXg9anVyb3dza2krbWFobGVyJTJDcG9wdWxhciUyQzEwMyZzcj0xLTE&email_id=f6c9627be52584839883e69b68ccddcf) and I read somewhere he will be doing the entire cycle. I expect these will end up as my set of choice.
+Both are worthy of your notice, and they put to rest the myth that all the best conductors and orchestras operated in the now somewhat distant past.
+On a related note, I flew to Pittsburgh recently to hear Honeck conduct Bruckner's 8th (it is there I met the MR reader). I was amazed how good the overall performance was, and arguably Pittsburgh is now one of the two or three best orchestras in this country, at least for their favored repertoire. Go hear them if you can, Bruckner being their specialty.

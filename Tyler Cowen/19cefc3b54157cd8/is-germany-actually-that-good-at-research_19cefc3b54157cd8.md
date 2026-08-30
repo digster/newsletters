@@ -1,0 +1,16 @@
+---
+id: "19cefc3b54157cd8"
+subject: "Is Germany actually that good at research?"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2026-03-15 04:31:45
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+Jannik Reigl writes:
+Germany’s remaining research strengths are disproportionately concentrated in fields with limited commercial value. Consider climate science. German institutions co-lead with the United States. The Max Planck Institute in Hamburg, the UK Met Office Hadley Centre, ECMWF in Reading: these are world-class operations. Klaus Hasselmann won the 2021 Nobel Prize in Physics for climate modeling. Genuine excellence. But climate research doesn’t directly generate economic returns. The value lies in technology. And yes, while some of the most important assets of the near future are subsumed under “climate technologies”, they are essentially the product of other research fields. Batteries, solar cells, carbon capture, and grid technology are all technologies stemming from engineering and materials science. These require strength in chemistry, materials science, and engineering. The fields where Germany is losing ground.
+The Max Planck Society is Germany’s highest-performing research body in the Nature Index. Its ranking fell from 4th place globally in 2021 to 11th in 2025, an “unusually large” decline according to Nature. Chemistry tells the starkest tale: Max Planck consistently ranked in the top 5 from 2015 to 2021, then dropped to 10th in 2022, and sits at 14th in 2025. Physical sciences show a similar pattern: Max Planck held 2nd place from 2015 to 2022 before falling to 4th, where it has remained.
+German patents were cited 14 percent less than comparable US patents in the 1980s, and that this gap widened to
+[41 percent by the 2000s]. This represented a steeper decline than that observed for both the United Kingdom and Japan. More recent studies do not use the same dataset or methodology, but they point in a similar direction.One reason might be that the top research institutes disincentivise high-risk high-reward R&D by denying young talent scientific independence. In the United States, the system is built on the ‘flat’ Principal Investigator (PI) model. A talented scientist in their early 30s can secure a tenure-track Assistant Professorship, win their own NIH or NSF grants, and run a fully independent lab. They succeed or fail on their own scientific agenda.
+Germany, by contrast, operates on a hierarchical ‘fiefdom’ model.
+Here is [the full essay](https://marginalrevolution.com?action=user_content_redirect&uuid=6e13a04d823567ee86fb99544c69a3ed6e07d1a9d1892c02729a57e6e5179455&blog_id=42693868&post_id=92602&user_id=262258391&subs_id=225460721&signature=f6a56014729e7f59c20aa98503810cc3&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly9yZWFsaW1hZ2luZWRwcm9ncmVzcy5zdWJzdGFjay5jb20vcC93aGF0LWlmLWdlcm1hbnktaXNudC12ZXJ5LWdvb2QtYXQ&email_id=ffbda146272a8479b546a194cb012718), via Emma.

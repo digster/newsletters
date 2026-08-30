@@ -1,0 +1,11 @@
+---
+id: "19ff44a7d1c0c3d9"
+subject: "Immigrant Earnings Assimilation, 1981–2021"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2026-08-12 04:45:49
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+In this paper, we characterize trends in the earnings assimilation of immigrant workers from 1981 to 2021. We use administrative longitudinal data that contain the earnings of workers beginning in their first year of residence in the United States and in each year thereafter, allowing us to identify immigrants who eventually leave the United States (referred to here as return migrants). We use those data to produce the first examination of trends in earnings assimilation over a 41-year period and to estimate earnings assimilation separately for return migrants versus those who stay in the United States. We document several new facts about immigrants who arrived between 1981 to 2010. First, roughly one-fifth to one-third of immigrants return migrate from the United States within 10 years after arrival. Second, return migrants have entry earnings similar to those of permanent migrants but experience slower rates of earnings growth. Third, earnings assimilation occurs relatively quickly for cohorts arriving since the mid-1990s: The earnings of permanent immigrants converge, or come close to converging, with those of native-born people within 10 years after arrival. Migrants from earlier arrival cohorts experience significant earnings growth but generally do not converge to that of the native born. We discuss how changes in the labor market quality of immigrant cohorts (measured by their relative earnings upon entry) and selective return migration play an important role in determining whether repeated cross-sectional data over- or underestimate earnings assimilation.
+That is from [a new NBER working paper](https://marginalrevolution.com?action=user_content_redirect&uuid=eb94a168623f0d18e446739c58868552ed4553d06122b0658f37718f4ebff33d&blog_id=42693868&post_id=93579&user_id=262258391&subs_id=225460721&signature=ecf037d1ecdf86efafb0429c2dd72a64&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly93d3cubmJlci5vcmcvcGFwZXJzL3czNTU4MiNmcm9tcnNz&email_id=c6ef082eb3b4ba87618d8031d6c34b95) by

@@ -1,0 +1,17 @@
+---
+id: "1a003ce3ee78260e"
+subject: "That was then, this is now"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2026-08-15 05:04:02
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+I very much like the new Michael Khodarkovsky book [The Steppe and its Empires: The Russian Empire & its Eurasian Counterparts](https://marginalrevolution.com?action=user_content_redirect&uuid=8422b1745456429f12a2ee5f110975810173840038299f221bff51f3a593032b&blog_id=42693868&post_id=93594&user_id=262258391&subs_id=225460721&signature=88c6b4a2bfcde378f955f7e424e80934&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9TdGVwcGUtSXRzLUVtcGlyZXMtRXVyYXNpYW4tQ291bnRlcnBhcnRzL2RwLzAzMDAyODQzODEvcmVmPXNyXzFfMj9jcmlkPTNMMk9KOThFN0ZSVEomZGliPWV5SjJJam9pTVNKOS40OFlCMk5kQ3FqTE92MTdvTDJ2Z2FhLV9EOEIwVEFWTjFOMnNYX09EVmljOFY1cnVnd2xTWXdxUFZaT3pKTzk3TndjWkpfaXIzdkRGeDJBQk9lZUMwZXdhY0Y5RnJSc2NzcEE1c2JEMldwdExtOUlVZ0k2c2dhNVFnazVKVURQODBBazBvODZvVDF3SHY4RXg5a0pfMHBkeFRfenlMS2NCZFo5d0hvN01KRXRmdUVGc1ZiSzBBT2N2cUVDMVhWTkM3ek82R2JxM3VEdWt3V09CT2lVUzJRLjhQbEFLalVPTjZHNmV1Ym9Id3l1RlRERHF1YXZ2eGI1WFlhaVBkSzBMN0EmZGliX3RhZz1zZSZrZXl3b3Jkcz1taWNoYWVsK2tob2RhcmtvdnNreStib29rcyZxaWQ9MTc4NjYxMTY2NyZzcHJlZml4PU1pY2hhZWwrS2hvZGFya292c2t5JTJDYXBzJTJDMjg2JnNyPTgtMg=&email_id=87646a3b1453372fa90702eb0b1c6d6e). Excerpt:
+Russia presented the most remarkable contrast to both Eurasian and Western empires. The oower of Moscovite tsars and Russian emperors seemed to be completely unconstrained by moral or ethical boundaries. Whereas religious authorities in Europe, the Islamic world, and Cjhina kept some distance from the state and had a degree of independence from the rulers, in Russia the Orthodox Church was fully behind the autocratic powers of the tsars. Ivan III was the first to adopt the title samoderzhets (a calque of a title of Byzantine emperors, literally "autocrat" in Greek), which he used in the sense of a "sovereign" ruler. It took another half century before his grandson, Ivan IV, began to use the title to signal his exceptional, universal, and unrestrained power.
+And:
+To begin with, each Eurasian ruler conceived of himself as the sovereign of a universal, not natinoal, empire. Such a ruler was non plus ultra; confident in his superiority over other religious or political bodies, he was destined to rule the world, if not politically, at least rhetorically, an autocrat whose subjects' servile condition was a natural state.
+Seen through the prism of a universal monarchy, the Eurasian imperial vision blurred the separation between metropolis and periphery, between the peoples within and outside the empire's boundaries, between servitude and slavery. Whether they were elites or commoners, all were considered to be in personal servitude to an emperor and often referred to by a term interchangeable with slave.
+Consequently, Eurasian societies did not develop either the notions or the institutions that could enshrine the idea of freedom...
+The concept of universal monarchy allowed for little differentiation between internal and external territories.
+Recommended.

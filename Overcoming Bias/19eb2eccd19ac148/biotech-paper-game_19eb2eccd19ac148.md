@@ -1,0 +1,10 @@
+---
+id: "19eb2eccd19ac148"
+subject: "Biotech Paper Game"
+from: "Robin Hanson from Overcoming Bias <overcomingbias@substack.com>"
+to: ""
+date: 2026-06-10 19:01:26
+labels: ["CATEGORY_PERSONAL", "INBOX", "Overcoming Bias", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_8616244883382228708", "UNREAD"]
+---
+Imagine a biotech firm that funds projects to develop new products, and typically bases their projects on one or more academic papers. This firm wants to learn which papers are promising as bases for new projects. But they want any info they induce to be available only to them, and not to rivals. Here’s a simple way to do this. Pick a pool of people who seem able to judge promising papers, and give them each N tokens. (Some may get more than others, and tokens might be given at some steady rate until N is reached.) Tell them a rough idea of what sorts of projects and papers the firm seeks, and then let participants at any time privately put tokens on particular papers, or move tokens from old papers to new. When the firm is willing to publicly declare that it is picking or considering a particular project j, then it declares a set of supporting papers, with paper weights w_ij, such that Sum_i w_ij = 1. Anyone who put a token on project j then is locked in to get a payment proportional to w_ij * F_j, where F_j is the funding level of project j. Though that actual funding decision might happen later. (Alternatively, they get a % stake in the project, and are only paid later when project success is determined.) Now only the company can see how many tokens are on each paper, and who those tokens came from, and can use this info advantage to decide which projects to fund. Obviously it is a problem if participants can get info on which projects are being seriously considered before the official announcement. You're currently a free subscriber to |

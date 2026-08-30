@@ -1,0 +1,13 @@
+---
+id: "19df7e1ae91008a4"
+subject: "Rose Farts and the Invisible Hand"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2026-05-05 11:24:15
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+In [Modern Principles](https://marginalrevolution.com?action=user_content_redirect&uuid=67438c9145197874855e21915a06ccd240e75d1128bfc0ae5f806961f60795e9&blog_id=42693868&post_id=92940&user_id=262258391&subs_id=225460721&signature=e6247dca3f34632c85ef521123891eb7&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly9tYXJnaW5hbHJldm9sdXRpb24uY29tL291ci10ZXh0Ym9vaw=&email_id=9aff4becae684c8a147065ef6024e7c8), Tyler and I show the invisible hand by telling the story of how the increase in oil prices in the 1970s encouraged millions of adjustments in how goods were produced and allocated, everything from an increased use of brick for driveways to a movement of the flower market from the US, which relied on heating greenhouses, to warmer climes like Columbia and Kenya. See the [I, Rose](https://marginalrevolution.com?action=user_content_redirect&uuid=24abb63a10f0facc7350150f7aa5b2126dfe1f8a680979a4b3aeaeed846a94ac&blog_id=42693868&post_id=92940&user_id=262258391&subs_id=225460721&signature=fe93f8147dce0555f286a9f5ab558c29&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g/dj10M1FNQ19UZVAtUQ=&email_id=9aff4becae684c8a147065ef6024e7c8) video!
+The FT has an [amusing update](https://marginalrevolution.com?action=user_content_redirect&uuid=271afece76dc64e3a715be117d2724e542e512e7ccaeca4584965d01a9f385c8&blog_id=42693868&post_id=92940&user_id=262258391&subs_id=225460721&signature=84f43d93b0f4440cec5781d33d0fba5a&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly93d3cuZnQuY29tL2NvbnRlbnQvM2IwNDM4ZGMtN2Q4YS00NTY0LTljZTYtOWQ2NmI3MzVlYWFlP3N5bi0yNWE2YjFhNj0x&email_id=9aff4becae684c8a147065ef6024e7c8):
+“When my sheep break wind, it smells of roses,” he said, recounting one of the more bizarre and far-flung consequences of the decision by US President Donald Trump and Israel’s Prime Minister Benjamin Netanyahu to bomb Iran in February.
+Since Tehran hit back by firing drones and missiles at US allies in the Gulf — grounding cargo flights and closing off the Strait of Hormuz through which booming east African trade with the region used to flow — Mahihu has been forced to jettison millions of rose stems.

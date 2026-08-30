@@ -1,0 +1,14 @@
+---
+id: "19e36a9b11d3346a"
+subject: "Sunday assorted links"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2026-05-17 15:59:10
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+1. [University of Vermont enrollments expected to fall fifteen percent this year](https://marginalrevolution.com?action=user_content_redirect&uuid=1dc79b00ac4b777964042307e4359f6b6232ecf3ee06e9fe1699126f5c542c70&blog_id=42693868&post_id=93014&user_id=262258391&subs_id=225460721&signature=040124bf1590fe9b798682c190d297e4&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly94LmNvbS9tYXJjcG9ydGVybWFnZWUvc3RhdHVzLzIwNTQ5ODUzNzIxMTU4NDk2OTM/cz00NiZ0PVFqZlZfWkhOdlAydWx6Si1qOEpGY2c&email_id=14fd2ed7746e14a4f6b1bba4454227fb).
+2, [New NSF initiative, which seems set to bypass universities?](https://marginalrevolution.com?action=user_content_redirect&uuid=31f0211f736bc556ecbec237683d11c92dbc709d49f79adb642c2b3ffb40a66e&blog_id=42693868&post_id=93014&user_id=262258391&subs_id=225460721&signature=f625c870c686c38907b681f1a3c25a33&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly94LmNvbS9OU0Yvc3RhdHVzLzIwNTQ5NzExMTU5NTM0MjY2NDQ&email_id=14fd2ed7746e14a4f6b1bba4454227fb)
+3. [Are firms migrating from the US to Europe, or vice versa?](https://marginalrevolution.com?action=user_content_redirect&uuid=3e53e47d705027235bcbfe89d162aa0256c25335a91b815036f956a815f8ab98&blog_id=42693868&post_id=93014&user_id=262258391&subs_id=225460721&signature=62d966baa8d2dc158e061166926b8ce4&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly94LmNvbS9SMlJzcXVhcmVkL3N0YXR1cy8yMDU1MzM2MDMzMzkxMTEyNTk0&email_id=14fd2ed7746e14a4f6b1bba4454227fb)
+4. [Soft tissue star injuries in the NBA are getting worse](https://marginalrevolution.com?action=user_content_redirect&uuid=ae0dc803e2aa718d089c2e28761257a9df2cd8d47e92077e066b125c4e7b14ee&blog_id=42693868&post_id=93014&user_id=262258391&subs_id=225460721&signature=439d8c46da4d58fce7fde0347677d550&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly93d3cudGhlcmluZ2VyLmNvbS8yMDI2LzA1LzE0L25iYS9uYmEtaW5qdXJpZXMtbGVnLWNhbGYtaGFtc3RyaW5nLWFjaGlsbGVzLWRhdGE&email_id=14fd2ed7746e14a4f6b1bba4454227fb).
+5. [NY high school has 21 valedictorians all with A+ averages](https://marginalrevolution.com?action=user_content_redirect&uuid=82c34916b7478c4315078cea8cf301fb184405e7df08d2553bb54342a00fbff7&blog_id=42693868&post_id=93014&user_id=262258391&subs_id=225460721&signature=72c81845e11f143c4b24862f9e901417&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly9wZW9wbGUuY29tLzIxLWNsYXNzLXZhbGVkaWN0b3JpYW5zLWdyYWR1YXRpbmctZnJvbS1zYW1lLWhpZ2gtc2Nob29sLTExOTc1MDU0&email_id=14fd2ed7746e14a4f6b1bba4454227fb).

@@ -1,0 +1,16 @@
+---
+id: "19fdd4f8b65f1671"
+subject: "The Queen song ’39"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2026-08-07 17:40:05
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+I only recently learned what it is really about, namely very rapid travel into space and time dilation mattering for the return voyage.
+I had never before listened carefully to the lyrics. I heard the "'39" reference at the beginning, the mention of volunteeers sailing away, and the general nostalgic British music hall mood to the piece, and assumed it concerned the Second World War. But no, the volunteers sailing away are going to the stars, and their eventual return to the Earth will be for them a sad and tragic event, as everything they had known will be gone. You can listen to the song [here](https://marginalrevolution.com?action=user_content_redirect&uuid=7dc0f856803801aa586cf2be7b1f64e6f9e9aeedbabcd38b979556859a26963a&blog_id=42693868&post_id=93552&user_id=262258391&subs_id=225460721&signature=f80cce6258755c1a4454d0f5f3019b12&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g/dj1rRThrR01mWGFGVSZsaXN0PVJEa0U4a0dNZlhhRlUmc3RhcnRfcmFkaW89MQ=&email_id=18e6b455a91f0924c1405923a7b8599e).
+Here is one of the most direct excerpts:
+In the year of '39 came a ship in from the blue
+The volunteers came home that day And they bring good news of a world so newly born Though their hearts so heavily weigh For the Earth is old and grey, little darling, we'll away But my love, this cannot be Oh, so many years have gone though I'm older but a year Your mother's eyes, from your eyes, cry to me
+Here are [the full lyrics](https://marginalrevolution.com?action=user_content_redirect&uuid=626874bcab3f8b157116937fcad7aa0eae468c26555c1f0611e79092b7dd8bc1&blog_id=42693868&post_id=93552&user_id=262258391&subs_id=225460721&signature=a1cc888e7d2fa403852a2e5c282c75ca&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS9zZWFyY2g/cT1xdWVlbislMjczOStseXJpY3Mmc2NhX2Vzdj1hODQ2MGE5NzA0ZDIxMTBiJnN4c3JmPUFQcGVRbnVhdkZVN1FDQ05FMkJhcGtEa0hkbkZKTkpDOWclM0ExNzg1OTI3MzU4NTUzJnNvdXJjZT1ocCZlaT12aFp6YXRpZEg2Nk05dThQemFYaHdROCZpZmxzaWc9QUJJTHhlOEFBQUFBYW5Na3ptOU1HUUlsZm9LRjN0d0prMW9oUDJ3TzBYWkcmdmVkPTBhaFVLRXdqWTlMSHVxWW1XQXhVdWh2MEhIYzFTT1BnUTRkVURDQ2MmdWFjdD01Jm9xPXF1ZWVuKyUyNzM5K2x5cmljcyZnc19scD1FZ2RuZDNNdGQybDZJaEJ4ZFdWbGJpQW5NemtnYkhseWFXTnpNZ1VRQUJpQUJESUdFQUFZRmhnZU1nWVFBQmdXR0I0eUJoQUFHQllZSGpJR0VBQVlGaGdlTWdZUUFCZ1dHQjR5QmhBQUdCWVlIaklHRUFBWUZoZ2VNZ3NRQUJpQUJCaUtCUmlHQXpJTEVBQVlnQVFZaWdVWWhnTkk2eVpRQUZqVUpIQUFlQUNRQVFHWUFhTURvQUhtRnFvQkNqQXVNVEV1TVM0ekxqRzRBUVBJQVFENEFRR1lBZy1nQXBZV3dnSUxFQzRZZ0FRWXh3RVkwUVBDQWdVUUxoaUFCTUlDRGhBdUdJQUVHTWNCR0s4QkdKZ0Z3Z0lIRUM0WWdBUVlDc0lDQnhBQUdJQUVHQXJDQWdnUUFCZ1dHQjRZQ3BnREFKSUhDakF1TVRFdU1TNHlMakdnQjhpcUFiSUhDakF1TVRFdU1TNHlMakc0QjVZV3dnY0dNeTB4TkM0eHlBZkpBWUFJQVEmc2NsaWVudD1nd3Mtd2l6&email_id=18e6b455a91f0924c1405923a7b8599e). Brian May, who wrote the song, is not only a wonderful guitarist but he has a PhD in astrophysics.
+p.s. no synthesizers!

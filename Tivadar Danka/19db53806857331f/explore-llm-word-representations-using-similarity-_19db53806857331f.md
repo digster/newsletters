@@ -1,0 +1,86 @@
+---
+id: "19db53806857331f"
+subject: "Explore LLM word representations using similarity analysis (part 1)"
+from: "The Palindrome <thepalindrome@substack.com>"
+to: ""
+date: 2026-04-22 12:43:43
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tivadar Danka", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_3571324877567057163", "UNREAD"]
+---
+Struggling to learn math and machine learning on your own? The Palindrome makes complex ideas click—with visual explainers, step-by-step guides, and clear learning paths. Join the premium tier to master the core ideas behind machine learning! (Supporting this work doesn’t have to come out of your pocket. If you read The Palindrome as part of your professional development, you can use
+|
+Hey! It’s Tivadar.
+[Mike X Cohen, PhD](https://open.substack.com/users/382604135-mike-x-cohen-phd?utm_source=mentions) returns to The Palindrome! You know I’m a big fan of his work, and if you are into machine learning, you should be too. His posts always strike the perfect balance between educational, practical, and entertaining.
+He recently published the book [50 ML Projects to Understand LLMs](https://substack.com/redirect/64f9d1a9-567b-4925-9812-0a86ea34fe15?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o), and his upcoming two-part series on exploring word representations is taken directly from the book. If you want to understand how Large Language Models work under the hood, don’t miss the post below.
+Enjoy!
+Cheers,
+Tivadar
+The primary goal of this post series is to teach you the Representational Similarity Analysis (RSA), which is a machine-learning analysis that compares distributed representations in different systems. It was originally developed as a neuroscience tool to compare how image categories are represented in different parts of the brain, and was then adapted to compare across different brain-imaging methods, different species, and between brains and computer vision models. Here in this post, I’ll teach you how to use RSA to explore whether different language models encode words in similar ways.
+The secondary goal of this post series is to use RSA to learn about LLM architecture and representations. You’ll use RSA as a tool to peer into the internal calculations and representations inside LLMs, including embeddings vectors and the famous “attention” algorithm in the transformer blocks.
+This post roughly corresponds to Project 12 in my recent book on [using machine-learning projects to understand how LLMs work](https://substack.com/redirect/64f9d1a9-567b-4925-9812-0a86ea34fe15?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o). Don’t worry, you don’t need the book to follow this post.
+The main prerequisite for these posts is understanding correlation and cosine similarity. If you don’t know those two analyses — or if you want a refresher — [check out this post](https://substack.com/redirect/936ff4d7-e3b0-4b96-9f10-eec085d486a1?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o). If you want to follow the code that accompanies this post, you’ll also need some Python coding skills.
+Here’s the most important learning tip: Don’t just read the post; follow along with the code! The accompanying code will reproduce all the figures in this post — but you can do so much more by thinking of the code as a starting-point for your continued explorations. Try changing parameters, adding new words or categories, using different similarity/distance metrics, different models, etc.
+[The code is available here on my GitHub.](https://substack.com/redirect/1090344b-1c9f-4085-a9fb-3f5110204fd9?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) In the video below, I show how to get and run the code using Google Colab. You can also download the notebook file and run it locally, but I recommend using Colab because you won’t need to worry about local installations or library versions.
+📌 The Palindrome breaks down advanced math and machine learning with visuals that make everything click.
+Join now while it’s 33% off (until the end of April) and lock in your discount for life. Unlock exclusive posts and 150+ deep dives into the heart of machine learning.
+Language models do not process text; they process numbers. When you write a prompt to a chatbot, that text is converted into a sequence of high-dimensional vectors called embeddings vectors. You can think of an embeddings vector as a coordinate, just like how the two numbers [1,-3]
+can be represented as a coordinate in a 2D space. So, each word is encoded as a coordinate, like the following illustration:
+But here’s the thing: That diagram is really oversimplified. In practice, the dimensionality of word embeddings in language models isn’t two; it’s several thousand. Even GPT2-small — one of the smallest LLMs — has an embeddings dimensionality of 768. The models we’ll use in this post have an embeddings dimensionality of 1024. Even a 3-dimensional graph can be confusing and difficult to interpret.
+And even more confusing is this: the dimensions are not human-crafted, nor do they correspond to human-interpretable traits like size and friendliness. In fact, we cannot interpret the axes at all. And when I write “we” I’m not referring to you and me; humans cannot understand what the axes mean, because the axes don’t mean anything in the sense of corresponding to physical characteristics of nature.
+Still, those embeddings vectors are key to unlocking how LLMs represent and calculate information, and understanding those embeddings is key to technical AI safety and efficient fine-tuning of large models, in addition to research into complex systems and emergence.
+All LLMs have an embeddings layer, but not all embeddings layers are the same. Different training sets, embeddings dimensionalities, and model training goals produce different embeddings vectors in different models. And because the embeddings matrix is initialized with random numbers, even the exact same LLM architecture with the exact same training data will have different embeddings vectors.
+So how can we compare the embeddings vectors from different models? The answer is we cannot directly compare them.
+However, it is possible to compare different embeddings by examining whether they have similar internal statistical structures. And that’s what you’re going to learn in this post.
+RSA stands for representational similarity analysis and is a technique to compare representations across multiple encodings. The idea is this: Instead of correlating embeddings vectors directly between models, calculate similarities within models across embeddings, and then determine whether the patterns of across-embeddings similarities are similar.
+In other words, the embeddings vector of “banana” might be very different between BERT and GPT-2, but the way that “banana” and “apple” relate to each other within each model might be similar.
+We’ll work with the BERT-large model and the GPT-2-medium model. I’ll explain why I chose those two models in a moment, and then at the end of this post, I’ll explore a different pair of models.
+The code below imports the BERT model and its tokenizer (a tokenizer is an algorithm that converts text into a sequence of integers that it is used to pick out the corresponding embeddings vectors).
+I used “B” at the end of the variable names to disambiguate from the GPT-2 variables that end with “G”. The code for importing GPT-2-medium looks very similar and is in the online code file.
+Let’s check the sizes of the embeddings matrices:
+BERT embeddings shape: [30522, 1024]
+GPT2 embeddings shape: [50257, 1024]
+The size of the matrices corresponds to the number of items in the vocab (how many tokens each model has learned; that’s around 30k for BERT and 50k for GPT-2), and the dimensionality of the embeddings vectors (1024).
+The two models have a different vocab size (briefly: BERT has mostly whole words while GPT-2 has subwords for non-Latin languages and code), but — germane to our application — the embeddings dimension (1024) is exactly the same for both models. That means we can directly compare the embeddings vectors between the two models.
+Spoiler alert: Directly comparing their embeddings will not be insightful. But that will lead us to discover something amazing when we apply RSA.
+For the rest of this project, we will use 34 words in three semantic categories. The idea is to compare — both directly and via RSA — whether BERT and GPT2 encode these words or their semantic categories in similar ways. Here are the categories and words:
+Space: galaxy, asteroid, comet, cosmos, space, sun, planet, moon, star, orbit
+Furniture: ceiling, sofa, couch, carpet, door, window, lamp, chair, table, rug, bed, floor, wall
+Fruit: pear, grape, banana, cherry, peach, apple, seed, jelly, orange, lime, fruit
+These words are all encoded as single tokens (when including a preceding space for GPT-2, which is a result of the byte-pair encoding algorithm).
+Those tokens are row indices into the embeddings matrices, which we use to extract a submatrix of the embeddings from each model:
+The two submatrices have the same size: 18 by 1024, corresponding to the 18 words and 1024 embeddings dimensions.
+Now for the question at hand: do BERT and GPT-2 embed those words in the same way? We can answer that question with a correlation analysis. The idea is simple: If the two models use the same embeddings dimensions, then their embeddings vectors for the word “galaxy” should be identical — or at least very strongly correlated.
+Let’s see what the data show:
+The answer is a clear and resounding NOPE! The embeddings are completely different, with basically zero-valued correlations with small non-zero values attributable to noise in finite samples.
+Let’s take a step back. Does it even make sense to compare embeddings directly? Doing so relies on the assumption that the embeddings dimensions are identical, and thus the embeddings values can be lined up and quantitatively compared.
+But embeddings don’t work that way. In fact, embeddings matrices start off as random numbers and then are trained based on large datasets (the Internet text). Because of the random initialization, even training the same model on the exact same training set will create different embeddings matrices.
+Segue to RSA.
+Embeddings vectors cannot be directly compared across models. But, the relations across vectors within models can be compared, and then those within-model relations can be compared across models.
+In practice, you calculate the RSA score in two steps:
+Step 1: Calculate the cosine similarity between all pairs of embeddings vectors within each model.
+Step 2: Correlate the two sets of cosine similarity values.
+Let’s walk through the analysis, and then I’ll provide more discussion about how to interpret the RSA score, why Step 1 used cosine similarity while Step 2 used correlation, and other similarity metrics to calculate RSA.
+The figure below shows the two within-model cosine similarity matrices as heatmaps.
+There are several results visible in Figure 3, including that the three semantic categories are visible as the block-diagonal structure in the similarity matrices, and that the cosine similarities appear overall stronger in GPT-2 compared to BERT (note the color levels with equal color map limits).
+The more interesting result, however, is the RSA scatter plot.
+Here’s the interpretation: The token pairs that have higher similarity in GPT-2’s embeddings also have higher similarity in BERT’s embeddings. This indicates that although the embeddings spaces are different, there are statistical patterns inside the embeddings spaces that are similar across these two models.
+Here’s a helpful analogy: Imagine representing the number “7” as an image. Then make a copy of that image and rotate it. The information content of the two images is the same, and yet their direct pixel-wise correlation is nearly zero:
+To complete the RSA analogy, you’d need to create images of many more numbers, calculate cosine similarity across the number-images within each embeddings, then correlate those similarity values between embeddings “A” and “B”.
+That’s just a helpful way to think about the motivation of RSA; don’t push the analogy too far.
+In fact, here is an important note: The embeddings spaces of different models — especially models trained for different purposes (GPT-2 for text generation, BERT for text classification) — are not simply rotated versions of each other. They really are distinct embeddings spaces, but they do share some internal semantic structure that can be measured with an RSA.
+As for why the RSA score is a correlation although the within-model relations were calculated using similarity: Within each model, the mean offsets of different vectors are relevant and meaningful. Across models, however, cosine similarities might be overall stronger or weaker; the question we ask with RSA is whether the relationships across token pairs are similar in different models. For that analysis, we do not want mean offsets to bias the score. Indeed, the distribution of similarity values is different between GPT-2 and BERT (see x- and y-axes in Figure 4). If you’re unsure of why a mean offset impacts cosine similarity and not correlation, you can check out [my post on the topic](https://substack.com/redirect/cc4ebd6d-5341-458c-9e0f-6b734db0e346?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o).
+Regarding the similarity metric: Cosine similarity is appropriate for embeddings vectors, but the analysis works the same way for any similarity or distance metric, such as correlation or Euclidean distance. In fact, if you use a distance metric, the analysis is termed “representational dissimilarity analysis.”
+By the way, you may have noticed that I didn’t incorporate the three categories into the analysis. Great observation! I’ll use those categories in Part 2 of this 2-part post series. What I’d like you to do now is think about what analyses you might do with those categories.
+A key advantage of RSA is that it is robust to the dimensionality within each model. For example, how can you compare the embeddings between BERT-large (embeddings dimensionality of 1024) and GPT-2-XL (embeddings dimensionality of 1600)?
+You can explore that in the code simply by importing gpt2-xl instead of gpt2-medium.
+Well, when you try the direct correlation analysis (Figure 2), you get errors and cannot run the analysis or generate the plots. Both a correlation coefficient and a scatter plot are defined only for two vectors of the same dimensionality.
+But don’t be concerned! I already discussed why the direct correlation analysis is invalid for comparing embeddings.
+The RSA analyses, on the other hand, look great.
+RSA is a powerful analysis for comparing how different systems — brains or machines — represent information, when those representations are in different spaces with different dimensionalities. RSA was originally developed in neuroscience, then applied in many other machine-learning applications.
+RSA is also easy to understand, easy to code, easy to interpret, and easy to visualize — all ideal properties of a machine-learning analysis.
+In this post, you learned about how the analysis works and saw an application using token embeddings in language models. The goal of Part 2 in this series will be to apply this analysis to explore how the embeddings change inside the LLMs, as those embeddings vectors traverse the transformer stack. You’ll also learn how to explore category selectivity.
+When you're ready to go deeper, here’s how I can help:
+Get instant access to step-by-step learning tracks on graph theory, foundational mathematics, and building neural networks from scratch—with visuals and explanations designed to make it all finally click.
+📘 [Grab ](https://substack.com/redirect/931fbee7-6cc1-4646-b92d-a26be179a781?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)[The Mathematics of Machine Learning ](https://substack.com/redirect/931fbee7-6cc1-4646-b92d-a26be179a781?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)[book](https://substack.com/redirect/931fbee7-6cc1-4646-b92d-a26be179a781?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)[ ](https://substack.com/redirect/931fbee7-6cc1-4646-b92d-a26be179a781?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+Master the math that powers modern ML—linear algebra, calculus, and probability—with Python examples and crystal-clear explanations.
+Bridge the gap between textbook theory and real-world implementation.

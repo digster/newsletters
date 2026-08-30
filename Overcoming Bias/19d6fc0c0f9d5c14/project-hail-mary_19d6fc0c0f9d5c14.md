@@ -1,0 +1,10 @@
+---
+id: "19d6fc0c0f9d5c14"
+subject: "Project Hail Mary"
+from: "Robin Hanson from Overcoming Bias <overcomingbias@substack.com>"
+to: ""
+date: 2026-04-09 00:59:31
+labels: ["CATEGORY_PERSONAL", "INBOX", "Overcoming Bias", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_8616244883382228708", "UNREAD"]
+---
+Unrealistic science fiction can be great, but folks should sometimes point out the the unrealism of particular stories, especially stories that are very popular, and widely said to be realistic, including by their authors. Other have pointed to implausible physics and politics, but after reading two dozen critical reviews, I do not find anyone else mentioning my three comments on Project Hail Mary: Rare Event: In the story, a big dimming of our Sun and a dozen nearby stars happens over decades. This must be a very rare sort of event, or we’d have noticed this scenario before out there among the stars. It also can’t last that long or spread that far each time, before reverting to the usual star appearance. Close Alien: Our hero meets an alien from a star roughly 20 lightyears from Earth, who is at a very similar level of tech development to us. For example, they haven’t yet discovered radiation or relativity. Say no more than a century different. In a 14Gyr old universe that level of time correlation seems crazy unlikely. Also, to have aliens that close be typical, our universe must be chock full of civilizations. Which then must quite reliably die fast to produce our empty looking universe. Similar Alien: They have different bodies and sensors, but once they manage to talk, our hero and alien get along better than would two random humans from human history. The alien’s culture is much like our hero’s culture, which is quite different from most other human cultures in history. This is worse than most historical fiction, which puts modern hero characters in old worlds. You're currently a free subscriber to |

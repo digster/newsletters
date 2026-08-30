@@ -1,0 +1,11 @@
+---
+id: "19f665ea2b71b38b"
+subject: "An Implant That Tracks And Treats Cancer Tumors - EP 82 Ben Woodington"
+from: "Core Memory  <ashleevance@substack.com>"
+to: ""
+date: 2026-07-15 15:20:01
+labels: ["Ashlee Vance", "CATEGORY_PERSONAL", "INBOX", "UNREAD"]
+label_ids: ["Label_4216359091400734623", "CATEGORY_PERSONAL", "INBOX", "UNREAD"]
+---
+Treating cancer remains a crude practice. We cut, burn and poison tumors, and we do all this with relatively little precision around both the initial treatment and our ongoing monitoring of how effective the treatment is. You show up for scans now and again and hope that whatever you’ve been doing has been working. Ben Woodington - who is an absolute unit - and the team In this episode, Ben explains how this technology works and, more broadly, he walks us through the emerging field of neuro-oncology or cancer neuroscience. We have a look at Coherence’s device, which is reminiscent of Neuralink’s implant, and rival technology. Since we recorded this episode, Coherence has begun a study in Australia where its device is being used to record and stimulate brain activity in patients having brain tumors removed. The company has also put out a This episode was a treat for me because I had no idea this type of technology even existed, and because Coherence seems to have made a remarkable amount of progress on its hardware in a short time. If you can spare a minute, please do us a favor by filling out this ever so OUR SPONSORS SendCutSend You know who else makes stuff for America? That would be SendCutSend. If you want to celebrate our great nation by building a metal part, then head on over to Brex The Core Memory podcast is also sponsored Did we go to Texas, find a telescope ranch and then obtain an entire nebula in Brex’s honor? We run on Brex and so should you. Learn more about Timestamps (they link out to YouTube)
+Hopefully, you enjoyed this story. If so, please share it and subscribe to Core Memory. We want to do more of this for you and need your help. Thanks! |

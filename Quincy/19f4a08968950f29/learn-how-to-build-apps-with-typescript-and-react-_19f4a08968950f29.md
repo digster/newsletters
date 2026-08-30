@@ -1,0 +1,33 @@
+---
+id: "19f4a08968950f29"
+subject: "Learn how to build apps with TypeScript and React [Free 1-hour course]"
+from: "Quincy Larson <quincy@freecodecamp.org>"
+to: ""
+date: 2026-07-10 03:18:24
+labels: ["CATEGORY_PERSONAL", "IMPORTANT", "INBOX", "Quincy"]
+label_ids: ["CATEGORY_PERSONAL", "IMPORTANT", "INBOX", "Label_7697778124671848699"]
+---
+Here are this week's five freeCodeCamp resources that are worth your time:
+
+1. The freeCodeCamp community just published a new intermediate TypeScript and React course. You can code along at home as we take a JavaScript project and refactor it to be fully type-safe. You'll also get some reps with useState, custom prop types, and passing function props between components. (1 hour YouTube course): https://www.freecodecamp.org/news/level-up-your-react-skills-with-typescript/
+
+2. We also answer the question of why so much of the internet breaks when Amazon's US-East-1 region goes down. freeCodeCamp instructor Beau Carnes traces the history of 6 AWS outages and their causes. A network upgrade typo, a single missing DNS record, and other seemingly no-big-deal's that suddenly go catastrophic. (16 minute YouTube video): https://www.freecodecamp.org/news/why-does-the-internet-keep-breaking-a-deep-dive-into-aws-us-east-1/
+
+3. freeCodeCamp just dropped a beginner-friendly crash course on agent workflows. You'll learn about structured JSON outputs, guardrails, human approval loops, and secure sandboxing. This course also includes a case study in using OpenClaw as a personal assistant. After all, who doesn't want to live dangerously? (3 hour YouTube course): https://www.freecodecamp.org/news/ai-agents-for-beginners/
+
+4. I've professed my love for Flutter many times. We use this open source framework to build all of freeCodeCamp's mobile apps. So I'm hyped about this new tutorial that shows you how to profile Flutter codebases with DevTools and find all the janky bits. You'll catch expensive paint operations, unnecessary widget rebuilds, and synchronous work on the main isolate. You'll also learn how to read the DevTools frame timeline, use the CPU profiler, inspect rebuilds, catch memory issues, and verify that your fixes actually worked. (20 minute read): https://www.freecodecamp.org/news/how-to-fix-app-jank-profiling-flutter-apps-with-devtools/
+
+5. This new tutorial will show you all the hidden engineering work that goes into making AI projects that don't fall over at the first puff of a stiff breeze. You'll learn about auth, retrieval, prompt versioning, guardrails, evaluation, logging, cost controls, fallbacks, deployment discipline, and more. (30 minute read): https://www.freecodecamp.org/news/the-hidden-engineering-behind-ai-products-what-devs-should-know/
+
+Phew. That's a lot of learning. Take some time to jam all that into your brain. You'll be a more powerful wizard for it. And while you're at it, do freeCodeCamp a solid and join the 9,993 chill people who support our charity and our mission each month: https://www.freecodecamp.org/donate
+
+Quote of the Week: 
+“AI disincentivizes you from learning about the pieces. Feeling dumb hurts. When you're trying a thing and it doesn't make sense, you feel pain. When you try a thing and it just goes as expected, you feel good. AI has made it easier to avoid that pain and feel that reward. And what used to be an up-front cost you would pay to learn the pieces so you could get the reward of solving the puzzle – now that's a slot machine. And your choices are go learn the pieces so that you can actually solve the puzzle correctly or keep pulling the slot machine until hopefully the correct answer comes out. I'll be real. I kind of miss feeling dumb.” — Theo Browne, software engineer
+
+Until next week, happy coding.
+
+-- Quincy Larson
+
+Teacher and founder of freeCodeCamp.org
+
+If these aren't worth your time, you can turn them off: https://www.freecodecamp.org/ue/eZV2T3gHC7IGcwcpYPG64

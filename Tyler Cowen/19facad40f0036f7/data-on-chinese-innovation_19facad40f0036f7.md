@@ -1,0 +1,11 @@
+---
+id: "19facad40f0036f7"
+subject: "Data on Chinese innovation"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2026-07-29 07:01:02
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699"]
+---
+China's technological progress in recent decades has been viewed with admiration, alarm, and (in some cases) doubt. To better understand the Chinese innovation ecosystem, we compile a dataset of almost 14 million domestic Chinese patent publications. We focus on the subset of critical technologies identified by the U.S. Department of Defense. Several surprising patterns emerge from the data: Chinese patenting is strongly associated with other measures of innovative progress; patents are not concentrated in corporate giants such as Huawei; universities have played a key role in innovation, much greater than state-owned enterprises or government-owned facilities; and fewer than one in ten Chinese critical technology patents involves an inventor with U.S. experience or training. Finally, using four text-based measures of patent quality, we show that the rise of Chinese patenting in critical technologies has not been associated with a decline in quality relative to the U.S. awards.
+That is from [a recent paper](https://marginalrevolution.com?action=user_content_redirect&uuid=63cd62de3f5ba42460e470f2098f21fac5849517929be6565b4776f628b95382&blog_id=42693868&post_id=93493&user_id=262258391&subs_id=225460721&signature=4eb0aa04b915880aa1f731c2ad3f3a16&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly9wYXBlcnMuc3Nybi5jb20vc29sMy9wYXBlcnMuY2ZtP2Fic3RyYWN0X2lkPTcxMTQ4MTg&email_id=a7c7309da569b3a6311c0be9ea9d83b7) by Josh Lerner, Namrate Narain, Dimitris Papanikolaou, Amit Seru, and Zunda Winston Xu. Via the excellent [Kevin Lewis](https://marginalrevolution.com?action=user_content_redirect&uuid=21eb69da8bf58c8e948f8ebe29370b2ff0eb87566c1dbc0818bedc7bd8dda353&blog_id=42693868&post_id=93493&user_id=262258391&subs_id=225460721&signature=2453f8b6c979709aa60e0a31bad771da&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly93d3cubmF0aW9uYWxhZmZhaXJzLmNvbS9ibG9nL2RldGFpbC9maW5kaW5ncy1hLWRhaWx5LXJvdW5kdXAvdGVzdGVkLWJ5LXNjaG9vbA=&email_id=a7c7309da569b3a6311c0be9ea9d83b7).

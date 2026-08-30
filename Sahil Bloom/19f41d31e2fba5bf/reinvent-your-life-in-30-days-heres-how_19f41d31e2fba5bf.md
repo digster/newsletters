@@ -1,0 +1,123 @@
+---
+id: "19f41d31e2fba5bf"
+subject: "Reinvent Your Life in 30 Days (Here’s How)"
+from: "\"Sahil Bloom's Curiosity Chronicle\" <sahil@sahilbloom.com>"
+to: ""
+date: 2026-07-08 13:03:01
+labels: ["CATEGORY_PERSONAL", "INBOX", "Sahil Bloom", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_1989028747625928812", "UNREAD"]
+---
+How to Reinvent Your Life in 30 Days
+watch on [YouTube](https://a01c829f.click.convertkit-mail4.com/k0uv7dd8rna6h5kw37kalhop4ew0gf8hno0ln/g3hnh5hm8w70o9srh9/aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g_dj14dXFGcTJJYzNraw==) or read and listen on [sahilbloom.com](https://a01c829f.click.convertkit-mail4.com/k0uv7dd8rna6h5kw37kalhop4ew0gf8hno0ln/9qhzhnhdvrke3ru9h3/aHR0cHM6Ly93d3cuc2FoaWxibG9vbS5jb20vbmV3c2xldHRlci9ob3ctdG8tcmVpbnZlbnQteW91ci1saWZlLWluLTMwLWRheXM=)
+read time 14 minutes
+Welcome to The Curiosity Chronicle, a newsletter where I provide actionable ideas to help you build a high-performing, healthy, wealthy life.
+Forwarded this email? Join 800,000+ other readers [here](https://a01c829f.click.convertkit-mail4.com/k0uv7dd8rna6h5kw37kalhop4ew0gf8hno0ln/3ohphkh35g6k9lcrhn/aHR0cHM6Ly93d3cuc2FoaWxibG9vbS5jb20vbmV3c2xldHRlcg==).
+|
+This science-backed natural product [reinvented my sleep](https://a01c829f.click.convertkit-mail4.com/k0uv7dd8rna6h5kw37kalhop4ew0gf8hno0ln/n2hohvhv90wl59c6hg/aHR0cHM6Ly9pbm5lcmJvZHlsYWJzLnNqdi5pby9EV1ZqeWo=)!
+I work, train, and family HARD. But I always struggled to get restful sleep. And because I know I'm not alone, I tried every single sleep product I could find (20+ in total) to find the best one.
+This is it: [Innerbody Labs Sleep Support](https://a01c829f.click.convertkit-mail4.com/k0uv7dd8rna6h5kw37kalhop4ew0gf8hno0ln/n2hohvhv90wl59c6hg/aHR0cHM6Ly9pbm5lcmJvZHlsYWJzLnNqdi5pby9EV1ZqeWo=). An all-natural formula connected to specific research for sustainable, restorative rest and muscular recovery (without melatonin and its morning fog). I was so impressed that I asked the CEO to let me invest.
+[Innerbody Labs Sleep Support](https://a01c829f.click.convertkit-mail4.com/k0uv7dd8rna6h5kw37kalhop4ew0gf8hno0ln/n2hohvhv90wl59c6hg/aHR0cHM6Ly9pbm5lcmJvZHlsYWJzLnNqdi5pby9EV1ZqeWo=) is today's partner and you can save up to 35% off your first order with code SAHIL10.
+|
+How to Reinvent Your Life in 30 Days
+Last week, I got an email from a reader that I can’t stop thinking about:
+Hi Sahil,
+I’d like your advice.
+Me: 32-years-old. Working in law. Married. No kids (yet).
+Something gnawing at me. Parents are lawyers, so it was all I knew. I basically chose the path as a freshman. Majored in the right things, LSATs, law school, clerking, big law. Followed the track. Parents pleased, I make solid money.
+I should be happy, but I’m not. Can’t help but feel that I’m living someone else’s life. I want to change, but it feels too late. So much invested in this path. Don’t want to fall behind on a new one.
+What would you do if you were in my shoes?
+Every single week, I invariably get a handful of emails from readers around the world with a similar general message.
+Stuck on a path. Living a life they didn’t really choose. Scared it’s too late to make a change.
+I started to type a reply, but decided it warranted a deeper, more tactical guide.
+Here’s exactly how I would approach reinvention (at any age or life stage):
+1. Reframe the problem.
+I'll cut straight to it. Too late is a myth. Timelines are arbitrary. You can reinvent yourself whenever you want. You can wake up and choose to live differently.
+Ultimately, what you're experiencing is a sunk cost problem. By the time you're feeling this way, you've probably invested years into a given path. You've gone to school. Studied for exams. Taken a job in the field. Built skills, a network, and an experience set. All of it around a version of a life that no longer aligns with your vision for your future.
+When you say it's "too late" to make a change, what you really mean is:
+"I've invested too much in this path to make a change."
+That's classic sunk cost thinking. The tendency to continue with an endeavor simply because of the money, time, or energy already invested in it.
+The first step is to reframe that problem:
+Would you buy this path today if you didn't already own it?
+In other words, would you choose this version of your life if it wasn't already yours? If you hadn't spent the preceding years building it?
+Don't ask this question on a bad day. It's not about jumping ship because something got hard. Ask it on a good day. If the answer is no, then you're ready to take action.
+2. Identify the two core asymmetries.
+Ok, so now let's assume you're ready to reinvent yourself. Your life, your job, your relationships, your health, your habits, whatever.
+But that reinvention is scary.
+I remember when I had reached this point in 2020. I knew I needed a change. I was committed to that change. But I was paralyzed by fear.
+It felt like I was standing at the edge of a canyon. Looking out at the life I wanted on the other side. But in between where I stood and where I wanted to stand was an unfathomable drop into nothingness.
+It was something like this:
+Being the analytical, logical, right-brain thinker that I was, I decided to deconstruct that fear. To try to understand why that leap of faith felt so scary. Why the reinvention I wanted was so daunting.
+What I came to understand is that it's the result of two asymmetries:
+- Information Asymmetry: You have perfect information about what your life looks like on your side of the canyon, but almost no information on what your life could look like on the other side.
+- Evidence Asymmetry: You have clear, robust evidence supporting your ability to live your life on your side of the canyon (pay your bills, etc.), but almost no evidence of your ability to do so on the other side.
+Those asymmetries are the root cause of your reinvention fear. They are the primary impediment to clear, decisive action.
+The asymmetries are the problem to be solved.
+Here's an exercise that helped me:
+Using a blank sheet or document, split a page into four quadrants. The top half of the page is current life, the bottom half is future life. The left side is information and the right side is evidence.
+It should look like this:
+Fill in the top half of the 2x2 matrix with the information and evidence on your current life. What you do. What your days look like. How you make money. How you pay your bills. The basics.
+Now see what information and evidence you're able to populate into the bottom half. Presumably, not much, hence the fear.
+On a second sheet, write down the specific actions you could take that would allow you to fill in that bottom half.
+Things like:
+- Have 10 casual learning conversations with people who are doing the thing I'm interested in. Or 10 casual learning conversations with people to figure out what I’m potentially interested in.
+- Go to an industry event (digital or physical) for the space I'm excited about.
+- Reach out to 10 potential clients for new business idea.
+- Build landing page for my advisory services offering.
+- Identify a perfect potential customer and do upfront work to solve a problem for them that will deliver value in a cold outreach.
+All of those are actions, entirely within your control, that will expand your information or evidence set.
+They will close the two core asymmetries that block reinvention.
+3. Lower the reinvention activation energy.
+Reinvention is a verb-created phenomenon. You don't experience a reinvention. You reinvent. You don't think your way into a new life. You don't manifest it into reality. You don't dream it. You act it into reality.
+The prior step sketched out the controllable actions to close the asymmetries. But you'll never do anything about it if you set the bar for action too high.
+Lower the reinvention activation energy to a ridiculously achievable level.
+My guidance: Use my 30-for-30 approach to get started.
+30 minutes per day for 30 straight days.
+Every single day for the next 30 days, block 30 minutes on your calendar when you'll sit down, get focused, and work on one of the actions from the prior step.
+30 minutes per day for 30 straight days is 900 minutes of accumulated focused effort. You will be blown away by what you can achieve in that amount of time.
+No single day will feel remotely heroic. And that's precisely the point.
+Because heroic plans are just premeditated failures.
+Make it easy and make it obvious. If you do, by the end of the 30 days, you'll feel reinvented without ever having to take that dramatic, terrifying leap.
+4. Cut the line on the boats you’re dragging.
+By this point, you're close. The change is underway. You're living it. But there's one final roadblock that gets in the way.
+It's best introduced with an old story:
+A man on a long journey comes upon a river that blocks his path. There's no bridge in sight, so, he gets to work. Chops down a tree, strips the bark, and shapes the wood. After several days of effort, he has a small, sturdy boat.
+Confident in his craftsmanship, he pushes out into the river and reaches the other side safely. As he prepares to continue his journey, a thought creeps in:
+What if I face more rivers like this ahead?
+The boat might be useful again. Instead of leaving it on the riverbank, he ties a rope around it, wraps the other end around his waist, and begins walking, the boat dragging behind him through the dirt and mud.
+A few hours later, he's exhausted. The boat is heavy. The terrain uneven. Every step feels harder than it should. He looks back, the river is no longer in sight, and realizes that holding onto the boat beyond the river was a mistake.
+This is, of course, a metaphor. I call it the Boat-Dragging Problem: When you hold on too long, something that helped you can begin to harm you.
+When it comes to reinvention, there are a variety of “boats” that most of us are dragging without realizing it. They may have helped us once, but now they harm our ability to change. To become who we want to be.
+The most common boats I see others dragging (or have dragged myself):
+- People who were conditionally supportive. They were in your corner when it benefitted them. When the way you were living was valuable to their self-interests. But as your path shifts and reshapes, their support dwindles. They tell you to be realistic. They laugh at your ambitions. They subtly belittle your aspirations.
+- Self-limiting stories about your capabilities. They may have helped keep you focused on the track in the past. They created a sense of paranoia of losing it all that paradoxically fueled your success. But they create a paralyzing fear when change is the clear desire. You aren’t an entrepreneur. You aren’t good with technology or sales. You aren’t capable of all that.
+- External locus of control. The belief that your outcomes are determined by forces outside your control is the ultimate self-protection mechanism. Failures can be explained away without accountability. The successes of those around you who took the leap can be attributed to luck. But that self-protection quickly becomes self-rejection.
+To reinvent yourself, you have to cut the line on the boats you’re dragging. You may do so with a clean break, or with a slow reduction in the energy and attention you give to them.
+So, what boats are you dragging behind you?
+- What are the mindsets, beliefs, or habits that served you in your prior season that threaten to hold you back from your new one?
+- Who are the people that cheered you when it benefitted them but have gone silent when it no longer does?
+Identify them. Write them down. Then make a conscious decision to methodically cut the line.
+The Reinvention Guide
+The graveyard is full of people who wished they had taken action on that thing they wanted to do. “It’s too late” has killed more dreams than a lack of talent or intelligence ever will.
+It’s never too late.
+The older I get, the more I realize you can reinvent yourself as many times as you need. New career. New standards. New habits. New mindsets. New people. It's never too late. You're never stuck. There are no fixed timelines for reinvention. No age restrictions. No maximum limit. You can change. Today, tomorrow, and as many times as it takes to create the life you want.
+Too late is an internal fantasy, not an external reality.
+Every time you think it’s too late, it’s probably still early.
+(or share to [Facebook](https://a01c829f.click.convertkit-mail4.com/k0uv7dd8rna6h5kw37kalhop4ew0gf8hno0ln/wnh2hghq269lv0f7hx/aHR0cHM6Ly93d3cuZmFjZWJvb2suY29tL3NoYXJlci9zaGFyZXIucGhwP3U9aHR0cHMlM0ElMkYlMkZ3d3cuc2FoaWxibG9vbS5jb20lMkZuZXdzbGV0dGVyJTJGaG93LXRvLXJlaW52ZW50LXlvdXItbGlmZS1pbi0zMC1kYXlz))
+Order My First Book to Unlock Exclusive Bonuses:
+The 5 Types of Wealth is the compass for your journey to a life of wealth that goes far beyond money. It provides the actionable tools to define, measure, and design your life around the pillars that truly create lasting happiness and fulfillment.
+It will help you find your True North and build your life around it.
+Order now and you'll unlock several new, exclusive bonuses:
+- Access to my Most Powerful Life Hacks Ebook: 50 timeless insights for simplifying your world and living well.
+- Access to The 5 Types of Wealth Digital Community: Join a vibrant group of like-minded individuals committed to creating a life of comprehensive wealth. Connect, collaborate, and grow together.
+- Access to The 5 Types of Wealth Launch Workshop: Get exclusive access to the full recording of this transformative virtual workshop, where I’ll guide you through specific exercises designed to help you apply the principles of the book. Watch it anytime at your convenience!
+Sahil's Recommendation Zone
+|
+My daily nutritional insurance policy since 2011: [AG1](https://a01c829f.click.convertkit-mail4.com/k0uv7dd8rna6h5kw37kalhop4ew0gf8hno0ln/08hwh9h26r0pw4flh5/aHR0cHM6Ly9kcmlua2FnMS5jb20vc2FoaWw=)!
+I started taking [AG1](https://a01c829f.click.convertkit-mail4.com/k0uv7dd8rna6h5kw37kalhop4ew0gf8hno0ln/08hwh9h26r0pw4flh5/aHR0cHM6Ly9kcmlua2FnMS5jb20vc2FoaWw=) way before it was trendy or anyone knew about it in 2011. I was one of their first customers as a college athlete and fell in love with it. I took it consistently for over 10 years before asking the CEO for a link to share with family and friends.
+The newly upgraded [AG1 Next Gen](https://a01c829f.click.convertkit-mail4.com/k0uv7dd8rna6h5kw37kalhop4ew0gf8hno0ln/08hwh9h26r0pw4flh5/aHR0cHM6Ly9kcmlua2FnMS5jb20vc2FoaWw=) is backed by four clinical trials and features five clinically studied probiotics, functional mushrooms, and whole food-sourced nutrients to support gut health, immune function, and sustained energy.
+[AG1](https://a01c829f.click.convertkit-mail4.com/k0uv7dd8rna6h5kw37kalhop4ew0gf8hno0ln/08hwh9h26r0pw4flh5/aHR0cHM6Ly9kcmlua2FnMS5jb20vc2FoaWw=) is offering my amazing Curiosity Chronicle subscribers a FREE Welcome Kit including Vitamin D3+K2 and AG1 Travel packs when you first subscribe.
+|
+Sahil Bloom
+|
+|
+|

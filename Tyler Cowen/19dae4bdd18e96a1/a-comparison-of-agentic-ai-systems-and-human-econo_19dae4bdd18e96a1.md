@@ -1,0 +1,13 @@
+---
+id: "19dae4bdd18e96a1"
+subject: "A Comparison of Agentic AI Systems and Human Economists"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2026-04-21 04:28:20
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+This paper compares agentic AI systems and human economists performing the same causal inference tasks. AI systems and humans generally obtain similar median causal effect estimates. While there is substantial dispersion of estimates across model instances, the human distributions of estimates have wider tails. Using AI models as reviewers to compare and rank “submissions,” the following ranking emerges regardless of reviewer model: (1) Codex GPT-5.4, (2) Codex GPT-5.3-Codex, (3) Claude Code Opus 4.6, and (4) Human Researchers. These findings suggest that agentic AI systems will allow us to scale empirical research in economics.
+I enjoy the name of the author, namely Serafin Grundl. Here is [the paper](https://marginalrevolution.com?action=user_content_redirect&uuid=d012ba9b58204f12297a26180aa55efa9eeff093b06097bab14b8abae97b958b&blog_id=42693868&post_id=92874&user_id=262258391&subs_id=225460721&signature=5e9800c5427826626a1511512e38a8be&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly9jbGF1ZGUtY29kZS1lY29ub21pc3QuY29tL2RhdGEvcGFwZXIucGRm&email_id=b23e26b66fb16ec05473aad0ad8f5f89), via [Ethan Mollick](https://marginalrevolution.com?action=user_content_redirect&uuid=ebc1dc8bf25dc2c6da064005f8df49ebe5a170189e69785b241897f9158d82ed&blog_id=42693868&post_id=92874&user_id=262258391&subs_id=225460721&signature=95b0c37de58b3058f265b9a8795adc3e&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly94LmNvbS9lbW9sbGljay9zdGF0dXMvMjA0NjM2MjA0NDc4NjQ1ODY0OA=&email_id=b23e26b66fb16ec05473aad0ad8f5f89). You could interpret these results as showing the AIs have fewer hallucinations. And just to reiterate a key point from the paper:
+The second part of this paper is an AI review tournament in which “submissions” (codes and write-ups) from humans and the AI models are compared and ranked against each other. The reviewers are the following AI models: Gemini 3.1 Pro Preview, Opus 4.6 and GPT-5.4. For each review the reviewer is asked to write a report comparing four submissions (human, Opus 4.6, GPT-5.3-Codex, GPT-5.4). Each reviewer model writes comparison reports for the same 300 comparison groups. The average rankings are strikingly similar across reviewer models: (1) Codex GPT-5.4, (2) Codex GPT-5.3-Codex, (3) Claude Code Opus 4.6, and 2(4) Human Researchers.
+Who comes in last? Hi people!

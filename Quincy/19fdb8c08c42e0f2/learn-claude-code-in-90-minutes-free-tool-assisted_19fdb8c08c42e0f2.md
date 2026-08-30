@@ -1,0 +1,33 @@
+---
+id: "19fdb8c08c42e0f2"
+subject: "Learn Claude Code in 90 minutes [Free tool-assisted development course]"
+from: "Quincy Larson <quincy@freecodecamp.org>"
+to: ""
+date: 2026-08-07 09:26:54
+labels: ["CATEGORY_PERSONAL", "IMPORTANT", "INBOX", "Quincy"]
+label_ids: ["CATEGORY_PERSONAL", "IMPORTANT", "INBOX", "Label_7697778124671848699"]
+---
+Here are this week's five freeCodeCamp resources that are worth your time:
+
+1. freeCodeCamp just published a new course on Claude Code. These agent harnesses change so fast, and we want to keep you up-to-date. You'll learn how to set it up and give it context into your codebase. Then you'll dive into workflows for keeping your agent cranking through tasks. If you feel left behind right now, don't sweat it. This will bring you right back up to speed. (90 minute YouTube course): https://www.freecodecamp.org/news/claude-code-full-course/
+
+2. And if you want to go way deeper into agent-assisted development, here's a massive course on LangChain and LangGraph. You'll use Python to build agents that can call tools, retain state, and coordinate multi-step workflows. You'll also learn about human-in-the-loop systems, multi-agent architectures, and workflow automation. Don't attempt this in one sitting lol. (24 hour YouTube course): https://www.freecodecamp.org/news/agentic-ai-using-langgraph-build-ai-agents-automate-workflows/
+
+3. For you DevOps heads out there, boom. New handbook. Learn how to leverage Kubernetes Operators to define custom resources and write controllers. You'll also use reconciliation loops to keep your cluster in its desired state. Let's automate as much ops as we safely can. (full length handbook): https://www.freecodecamp.org/news/how-to-build-kubernetes-operators-a-handbook-for-devs/
+
+4. Learn about quantum circuits and coherence. Yes I did watch that trippy 2013 horror movie. This new handbook will teach you concepts like noise, qubit connectivity, gate fidelity, measurement errors, and how circuit depth affects your results. Obligatory no quantum computer required. It's OK I don't have one either.  (full length handbook): https://www.freecodecamp.org/news/why-your-quantum-circuit-works-in-a-simulator-but-fails-on-real-hardware-full-handbook/
+
+5. Node.js has a Dual Write Problem. When your app needs to update its database and publish an event, one of those operations can succeed while the other fails. This tutorial will teach you how the Transactional Outbox Design Pattern keeps these operations consistent by storing both updates in the same database transaction. If you're building distributed systems, this can save you a lot of grief. (25 minute read): https://www.freecodecamp.org/news/how-to-fix-the-dual-write-problem-in-node-js-with-the-outbox-pattern/
+
+These are just some of the open source learning resources the freeCodeCamp community created this week. We have a TON of even more esoteric software engineering tutorials if you want to go even harder. This is a sustained 12-year effort led by thoughtful human beings. You should totally support our charity and our mission: https://www.freecodecamp.org/donate
+
+Quote of the Week:
+“Time is like a river made up of the events which happen, and a violent stream; for as soon as a thing has been seen, it is carried away, and another comes in its place, and this will be carried away too.” — Marcus Aurelius way back in 170 AD
+
+Until next week, happy coding.
+
+-- Quincy Larson
+
+Teacher and founder of freeCodeCamp.org
+
+If these aren't worth your time, you can turn them off: https://www.freecodecamp.org/ue/eZV2T3gHC7IGcwcpYPG64

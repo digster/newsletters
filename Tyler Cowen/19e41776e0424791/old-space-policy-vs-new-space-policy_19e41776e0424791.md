@@ -1,0 +1,11 @@
+---
+id: "19e41776e0424791"
+subject: "Old space policy vs. new space policy"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2026-05-19 18:20:06
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+The emergence of firms like SpaceX and Blue Origin has made space a leading example of how private enterprise drives innovation, marking what many see as a sharp break between Old Space and New Space. Yet little systematic evidence documents when the transition to this new phase of space innovation occurred and which firms drove it. We use patent data to provide this measurement and find that the largest surge in space innovation occurred in the 1990s, coinciding with demand-side market creation, and preceding the entry of high-profile startups after 2005. Throughout this period and since, incumbent aerospace firms account for most of the space-related patenting, with entrants contributing a growing but minority share. The same geographic regions that dominated space innovation during the post-Apollo era remain dominant today. These patterns are consistent with directed technical change: incumbents direct R&D toward policy-created markets accessible from existing capabilities, while entrants bring science-based insights into domains requiring new paradigms. Our findings suggest that New Space is more closely connected to Old Space than prevailing narratives imply, and that government's most consequential role in space innovation may lie in constructing appropriable markets. We make patent data on space-related technologies available for future research.
+That is from [a recent NBER working paper](https://marginalrevolution.com?action=user_content_redirect&uuid=cf50ec9990b88e1fec497e2f6554c8b4603f5d9cd42c4ec8cb14c2c269b7fdf9&blog_id=42693868&post_id=93033&user_id=262258391&subs_id=225460721&signature=df1f01d15891a190019bb60b32baaebf&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly93d3cubmJlci5vcmcvcGFwZXJzL3czNTIxMiNmcm9tcnNz&email_id=e95c1511b4cbee15df20e4921bca251b) by

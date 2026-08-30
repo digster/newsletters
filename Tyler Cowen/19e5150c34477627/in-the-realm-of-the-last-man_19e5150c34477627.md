@@ -1,0 +1,11 @@
+---
+id: "19e5150c34477627"
+subject: "*In the Realm of the Last Man*"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2026-05-22 20:11:47
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+As Mark Lilla, a recovering Straussian, once remarked, they [the Straussians] were like craftsmen building a house brick by brick on a foundation that Leo Strauss had laid. But they would never become architects of that house, or decide that the house was too small for them to comfortably live in. Moreoever, Strauss disparaged social science and what he considered naive forms of positivism prevalent in American universities. This led some of his followers to disdain merely empirical accounts of current events. If you are more of a Hegelian, you need to pay attention to actual history if you are to give an account of how ideas play out in the real world.
+That is from [Frank Fukuyama's forthcoming memoir](https://marginalrevolution.com?action=user_content_redirect&uuid=c682fbb5185576980f094cc4e7d06882fbe960e1a9e22c6ed8657fd290e780f7&blog_id=42693868&post_id=93054&user_id=262258391&subs_id=225460721&signature=a610c0c109b79d4126fe45ba8561451e&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9SZWFsbS1MYXN0LU1hbi1NZW1vaXIvZHAvMDM3NDYyMDQzMS9yZWY9c3JfMV8xP2NyaWQ9M1RVQzZZQlhVUlZLNiZkaWI9ZXlKMklqb2lNU0o5LjdZaDdNRkN2OWx3R2EwYW16OGxraVJwczBITWxDZHlGVTF2NGRUS1ZuOE5LRTkxOWQ1Rl84bWtldEJGejJ3Qmt2NmxnalFtYm9ONGlUQkQtYlBqQnlMR191dXhXYUdfTGgxSi1iUVpBNzRfaEdTRm5CZWhmazlfNDdBZnZuQk43WE9pQXBnVkN6WlZzaVAyUzlBSGFjNEhrUDNOOXh0a2plV3FLMXJzcmNIRU5iVEpBY19vZFBlTndnZ3VDZkFyV0tjOVhndGl0Nl9vQmI2VGpKNEF4NjRnWUZ2Q09ZOENwZ01UakJRMjRiYm1yUUtLMURpYlFIaHNueW00eVA4RUxLUk8xNWprWWdDT2Rta01zSlJtcXBnT0pXcmw3VHJXOVR5Q1NKV3hoMTFzLktpblBESE0wdWc3M3J6MHo1T0pVUm9BRnZ0QTBIdW9zTmxuVDJrWFlTXzAmZGliX3RhZz1zZSZrZXl3b3Jkcz1mcmFuY2lzK2Z1a3V5YW1hJnFpZD0xNzc5NDgwNTM5JnNwcmVmaXg9ZnJhbmNpcytmJTJDYXBzJTJDMzIxJnNyPTgtMQ=&email_id=872373afffff4717bcc9b6eee651130d), recommended of course.

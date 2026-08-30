@@ -1,0 +1,15 @@
+---
+id: "19ee8983a9117b76"
+subject: "Music markets remain deglobalized"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2026-06-21 05:12:30
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+It might seem surprising, in a world of global stars, that the 6m Danes, many of whom are fluent in English, listen mainly to homegrown music. And until fairly recently they did not. In 2019 only five songs in Denmark’s top 20 were in Danish. By last year the figure was 18.
+A similar trend is under way in other countries—and in other forms of entertainment. From Asia to the Americas, music charts are increasingly dominated by local sounds. Hollywood television-streaming companies are commissioning more local productions in foreign markets, causing consumption of American shows to fall. Social networks are connecting the whole world, but so far people are mainly using them to consume local content. And as video gaming expands, it too is becoming increasingly tailored to local cultures...
+In 2023 Will Page and Chris Dalla Riva noted in a London School of Economics paper that a number of European countries including France, Germany, Italy and Poland had seen rising domestic shares of their top tens in the preceding decade. Since then the phenomenon seems to have spread. Mr Page, formerly chief economist at Spotify, finds that 55% of streams of songs in Sweden’s top 20 last year were in Swedish, up from 29% in 2019. Norway’s figure rose from 13% to 38% in the same period.
+That is [from The Economist](https://marginalrevolution.com?action=user_content_redirect&uuid=091c261b386f164fd16763ff439de8cc93f14fc45b1bd26142e2795d5d8d5713&blog_id=42693868&post_id=93244&user_id=262258391&subs_id=225460721&signature=eea314d9df073b0a3060afddb30609cf&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly93d3cuZWNvbm9taXN0LmNvbS9icmllZmluZy8yMDI2LzA2LzExL2ZvcmdldC10aGUtd29ybGQtY3VwLWN1bHR1cmUtaXMtYmVjb21pbmctbW9yZS1mcmFnbWVudGVk&email_id=a9f68ca4423ca739c303143c9df992c8), and of course it echoes themes from my earlier Creative Destruction: How Globalization is Changing the World's Cultures. And Brazil most of all?
+Latin America has gone the same way (see chart 1), Brazil astonishingly so: in the first week of June 96 of the top 100 artists on YouTube Music in the country were Brazilian (foreigners included Justin Bieber and Michael Jackson). Last year Thailand had a solidly local top ten, while Indonesia and the Philippines each had eight local tracks in their respective charts; Nigeria’s top ten were all local, as were nine of South Africa’s, according to the IFPI, which represents the recorded-music industry.
+The same trends are happening for television as well, albeit less radically.

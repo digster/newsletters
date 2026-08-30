@@ -1,0 +1,30 @@
+---
+id: "19e9c5beb2458977"
+subject: "Blumhouse & The Hollywood Horror Hit Machine"
+from: "Trung Phan <trungphan@workweek.com>"
+to: ""
+date: 2026-06-06 05:55:04
+labels: ["CATEGORY_PERSONAL", "INBOX", "Trung Phan", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_7971156048460647958", "UNREAD"]
+---
+For reference, Buffett put $36B into Apple before clearing over $160B on that investment since 2016.
+Berkshire has come full circle with Google. In 2019, Buffett and Charlie Munger explained why [Google’s 2004 IPO was one of the only tech investments they actually regret passing on](https://link.workweek.com/click/46039721.50535/aHR0cHM6Ly94LmNvbS9UcnVuZ1RQaGFuL3N0YXR1cy8yMDA3MjA0NzM3MTY3NjM4ODkzP2hhc2hlZF91c2VyPTBlYmVmMTJjNDI5MTE4NDU2MmRhYzA5OTY1YmNlODA4/6520d6df2061f24a7d071f97B606bf7f0):
+Munger: We screwed up.
+Buffett: We did have some insights into that because we were using them at GEICO Insurance, and we were seeing the results produced. We saw that we were paying $10 a click — or whatever it might’ve been — for something that had a marginal cost to them of exactly zero. And we saw it was working for us.
+Munger: We could see in our own operations how well that Google advertising was working. We just sat there sucking our thumbs. So, we’re ashamed. We’re trying to atone. Maybe Apple was atonement.
+Abel has probably found his Apple. He probably won’t get a 5x on Google but the investment makes sense for two major reasons.
+First, there are only a handful of companies in the world that can move the needle on Berkshire’s cash pile and the Big Goog-A-Doogs is clearly one of them.
+Second, Berkshire’s $10 billion private placement is part of a [larger $85B equity raise](https://link.workweek.com/click/46039721.50535/aHR0cHM6Ly93d3cuYmxvb21iZXJnLmNvbS9uZXdzL2FydGljbGVzLzIwMjYtMDYtMDMvYWxwaGFiZXQtdXBzaXplcy1lcXVpdHktb2ZmZXJpbmctdG8tODUtYmlsbGlvbi1mb3ItYWktc3BlbmRpbmc_aGFzaGVkX3VzZXI9MGViZWYxMmM0MjkxMTg0NTYyZGFjMDk5NjViY2U4MDg/6520d6df2061f24a7d071f97B3c04a228) by Google to fund its AI data centre buildout (and also help offset some employee tax bills tied to equity rewards).
+Abel comes from the infrastructure and energy world. About 25% of Berkshire’s $1 trillion market cap is tied to energy including oil production and utilities. Berkshire also owns one of the largest freight railroad networks in North America and spends a ton of maintenance CapEx. The compute trade is building massive data centres to turn electrons into intelligence.
+This is right in Abel’s wheelhouse. In fact, Berkshire Hathaway Energy already powers a ton of data centres in America. Abel says that [15% of all America’s natural gas runs through its pipes](https://link.workweek.com/click/46039721.50535/aHR0cHM6Ly95b3V0dS5iZS9tR2JWTk1jaHJtUT9zaT1WbWd3Q1NDckwtVHYxNDdVJnQ9MzA2MSZoYXNoZWRfdXNlcj0wZWJlZjEyYzQyOTExODQ1NjJkYWMwOTk2NWJjZTgwOA/6520d6df2061f24a7d071f97Bd4d6a84b) and a number of end customers are the hyper-scalers.
+Berkshire investing in Google is form of vendor financing. Abel cuts Sundar a fat check so Sundar can build data centres that will use Berkshire’s energy assets…while Berkshire gets some upside from the equity.
+The initial reaction was negative for Google with its shares falling 4% the next day. Investors didn’t like the dilution and signalled that Google was hedging on its own data centre buildout by sharing the risk with Berkshire (Google’s CapEx spend will be [~$190B in 2026 and similar for 2027](https://link.workweek.com/click/46039721.50535/aHR0cHM6Ly93d3cucmV1dGVycy5jb20vbGVnYWwvdHJhbnNhY3Rpb25hbC9hbHBoYWJldC1yYWlzZS04MC1iaWxsaW9uLWVxdWl0eS1jYXBpdGFsLWFpLXNwZW5kaW5nLTIwMjYtMDYtMDEvP2hhc2hlZF91c2VyPTBlYmVmMTJjNDI5MTE4NDU2MmRhYzA5OTY1YmNlODA4/6520d6df2061f24a7d071f97B8109ae2d)).
+While Google does have $126 billion cash against $81 billion — meaning it could still raise debt without impairing its balance sheet (although it already has raised $37B in debt this year) — getting the Berkshire seal of approval was probably worth it for Sundar…even if Buffett’s retired.
+Analyst [Rihard Jarc](https://link.workweek.com/click/46039721.50535/aHR0cHM6Ly94LmNvbS9SaWhhcmRKYXJjL3N0YXR1cy8yMDYxNzYwMzk5MTM4MDYyNzM5P3M9MjAmaGFzaGVkX3VzZXI9MGViZWYxMmM0MjkxMTg0NTYyZGFjMDk5NjViY2U4MDg/6520d6df2061f24a7d071f97B10c21bb1) has an interesting take:
+There are a few possible options why Google went this path:
+Option 1: They see another big step up in accelerating demand for [Google Cloud Platform] and their Gemini models and need to increase CapEx substantially more than they already did.
+Option 2: They want to front-run OpenAI, SpaceX, and Anthropic IPOs and drive some liquidity out of the market — and with the cash — lock up more of the semi supply chain for them to not be locked out by OAI or Anthropic.
+Option 3: They have reached an internal breakout in their model development or some other front, and they see they are going to need a lot more compute to serve this and want to get ahead of it while the market is still sentiment positive on it.
+Google could also be doing the massive equity raise so its next massive debt raise doesn’t throw its balance sheet out of…errr…balance. The company isn't just looking at a 1-year outlook. It's considering the 5-year and 10-year timelines. Its equity multiple may not be as juicy a few years out. Meanwhile, the business could turn and the debt looks more onerous.
+By the end of the week, GOOGL's shares had clawed back most of those initial losses. Now, Meta may be trying its luck. On Friday, news leaked that Meta was looking to raise “tens of billions of dollars” in an equity offering. The stock [sold off over 5%](https://link.workweek.com/click/46039721.50535/aHR0cHM6Ly9maW5hbmNlLnlhaG9vLmNvbS9uZXdzL21ldGEtc3RvY2stc2lua3MtNi1vbi1yZXBvcnQtb2Ytc3RvY2stc2FsZS0xOTE2NDg0MTIuaHRtbD9oYXNoZWRfdXNlcj0wZWJlZjEyYzQyOTExODQ1NjJkYWMwOTk2NWJjZTgwOA/6520d6df2061f24a7d071f97B5f6d2818).
+Anyway, Abel closed a second big deal during the week by acquiring a homebuilder (Taylor Morrison Home) for $6.8 billion. He’s putting his stamp on the company.

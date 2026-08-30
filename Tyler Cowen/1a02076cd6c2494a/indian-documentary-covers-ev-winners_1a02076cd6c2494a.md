@@ -1,0 +1,15 @@
+---
+id: "1a02076cd6c2494a"
+subject: "Indian documentary covers EV winners"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2026-08-20 18:37:31
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+A new short documentary (22 mins) film called The 22nd Century Indian by Shaurya Sinha offers an optimistic take on India, and also covers five (!) Emergent Ventures winners. Congratulations to them, and to Shruti too.
+EV India winners featured: Naman Pushp [https://x.com/therealnamzoo?s=11](https://marginalrevolution.com?action=user_content_redirect&uuid=ce99f8899bda3f45bcc762045b61e23dcc21ef127a959158555c229be967eb44&blog_id=42693868&post_id=93610&user_id=262258391&subs_id=225460721&signature=e738085c24d4ef4a92ccfb595afe33a1&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly94LmNvbS90aGVyZWFsbmFtem9vP3M9MTE&email_id=752701b60bb7858dda60e4412b560e24)
+Khushi Mittal: [https://khushimittal.com](https://marginalrevolution.com?action=user_content_redirect&uuid=9975806231bdd4108fa1a866e51936264b2768e9ae009c3d908852ff6f2050a7&blog_id=42693868&post_id=93610&user_id=262258391&subs_id=225460721&signature=c8b125d8282f3b54f724ec324a9f5f97&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly9raHVzaGltaXR0YWwuY29t&email_id=752701b60bb7858dda60e4412b560e24)
+Shreeporna Rao: [https://x.com/shreepoorna365?s=11](https://marginalrevolution.com?action=user_content_redirect&uuid=8945af9e93eb6401d0c5525d707e0e6c732014ff0f5e2731a7c406afea10b672&blog_id=42693868&post_id=93610&user_id=262258391&subs_id=225460721&signature=35bdc16876014e1d9a33aa54df01edb4&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly94LmNvbS9zaHJlZXBvb3JuYTM2NT9zPTEx&email_id=752701b60bb7858dda60e4412b560e24)
+Samay Sanghvi: [https://www.thealmanac.ai/article/samaysanghvii](https://marginalrevolution.com?action=user_content_redirect&uuid=10d6c63618fdca40c8e76282b2f6060b5c665ac5d83be96e94e1dc87a80707a7&blog_id=42693868&post_id=93610&user_id=262258391&subs_id=225460721&signature=b834f3c6305c8dddf7b76001f68be2f4&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly93d3cudGhlYWxtYW5hYy5haS9hcnRpY2xlL3NhbWF5c2FuZ2h2aWk&email_id=752701b60bb7858dda60e4412b560e24)
+Angad Daryani: [https://www.linkedin.com/in/angaddaryani?utm_source=share_via&utm_content=profile&utm_medium=member_ios](https://marginalrevolution.com?action=user_content_redirect&uuid=018e1bb9f121c71d8b9cec382743e305a44fe778802e3dea07f66ced1e2ea7ba&blog_id=42693868&post_id=93610&user_id=262258391&subs_id=225460721&signature=75bbc5a3ff5c6a8ed088ade9013fae7c&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly93d3cubGlua2VkaW4uY29tL2luL2FuZ2FkZGFyeWFuaT91dG1fc291cmNlPXNoYXJlX3ZpYSZ1dG1fY29udGVudD1wcm9maWxlJnV0bV9tZWRpdW09bWVtYmVyX2lvcw=&email_id=752701b60bb7858dda60e4412b560e24)

@@ -1,0 +1,14 @@
+---
+id: "19eefdcbe55fdb52"
+subject: "Open Thread 439"
+from: "Astral Codex Ten <astralcodexten@substack.com>"
+to: ""
+date: 2026-06-22 15:01:34
+labels: ["Astral Codex", "CATEGORY_PERSONAL", "INBOX", "UNREAD"]
+label_ids: ["Label_6409723252142624155", "CATEGORY_PERSONAL", "INBOX", "UNREAD"]
+---
+This is the weekly visible open thread. Post about anything you want, ask random questions, whatever. ACX has an unofficial [subreddit](https://substack.com/redirect/3564a0a4-cbf6-4a69-a92a-cbfb092b7138?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o), [Discord](https://substack.com/redirect/fa471792-9217-4bf4-af40-22b6c298a159?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o), and [bulletin board](https://substack.com/redirect/2e8fd7f2-7612-4458-84ed-8bdccac156c9?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o), and [in-person meetups around the world](https://substack.com/redirect/e9d159ec-5b51-4c5c-ae04-249c982e325d?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o). Most content is free, some is subscriber only; you can subscribe [here](https://substack.com/redirect/3773214b-04f1-4657-87ac-62bd7c8925ed?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o). Also:
+1: The Future of Life Foundation, which unconvincingly denies being part of our conspiracy, asks me to signal-boost their [Epistemic Case Study Competition](https://substack.com/redirect/820eb6c5-a873-40c1-b959-0d20bfd4af17?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o). Prizes up to $50K for finding “the best workflows and methodologies for using AI to produce reliable, trustworthy knowledge bases, grounded in real-world cases”. If you have a difficult controversial question (”is eating eggs healthy?”) what set of AI tools, prompts, pipelines, human interventions, etc can you combine to be most likely to get a correct answer? Deadline July 19, [learn more here](https://substack.com/redirect/820eb6c5-a873-40c1-b959-0d20bfd4af17?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o).
+2: More ACX grantee results: Eli Elster describes [his research on psilocybin use in Lesotho](https://substack.com/redirect/12f95d38-934f-47df-b93e-30bbbb7ae0b2?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o).
+3: New York primary election is this Tuesday. The South Manhattan congressional primary has somehow [turned into a proxy war](https://substack.com/redirect/b1a525de-1c9a-467e-99ab-26c57a8fd8dd?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) between different Silicon Valley AI factions. ACX supports the pro-safety faction, and so continues to urge readers to vote for Alex Bores.
+4: Thanks to everyone who voted for Book Review finalists. I’ll try to have results by next Open Thread.

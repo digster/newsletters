@@ -1,0 +1,13 @@
+---
+id: "19f0a3b3d3f766b0"
+subject: "Blackpool fact of the day, observations on northern England"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2026-06-27 17:58:01
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+Blackpool Central was the world's busiest station in 1911. It was the station with the most platforms to close in UK in the Beeching cuts of 1964.
+That is from the recent fun book [Lancashire: Exploring the Historic County that Made the Modern World](https://marginalrevolution.com?action=user_content_redirect&uuid=e93f19b723370ea6e88e4605ce899e598c74bf81b92d6b4076ecefffb3000a59&blog_id=42693868&post_id=93270&user_id=262258391&subs_id=225460721&signature=5e2139a618c1ecb7baa3d561f5c44235&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9MYW5jYXNoaXJlLUF1dGhvci9kcC8xOTEzMDgzMTk1L3JlZj1zcl8xXzE/Y3JpZD0xTTAzMlFEWTk2ODlTJmRpYj1leUoySWpvaU1TSjkuUUN2bVdKLXQ2U2ZaSlFYWkthbmdacTRISkROaXhjWkVabW9mMFFEYUlrZTBLQUZsbTZUU0pDUmpBV2hjeGlkeDVrZ0czMVlhQUJGbEZXZmYwdlM1NmE1UVFUMDMxS01kSGV0SGhLbG00WTF2eUdCU204emQ2YndJcnJ2TEhhRnAtYm5oQ1NPSUJoWUt4R1NZVlRtVTRhalRUU3A5T0wwYVFSYjlyb0pBZ2s1UUdGZlBsMVdyTjNsRXVXYURhbkxwV2hRRzlfenR4eEZzZnU5bTREbV9UanA2N2Z6RFhvc0hvX3FBTGdMNlgzUS4wZEU1bk1iVUtKeVNaVDRJOWwwZC1zS0tKN1NEWW1LNWsyZ285M3RmQVhBJmRpYl90YWc9c2Uma2V5d29yZHM9TGFuY2FzaGlyZSUzQStFeHBsb3JpbmcrdGhlK0hpc3RvcmljK0NvdW50eSt0aGF0K01hZGUrdGhlK01vZGVybitXb3JsZCZuc2RPcHRPdXRQYXJhbT10cnVlJnFpZD0xNzgyMjQwMzMzJnNwcmVmaXg9bGFuY2FzaGlyZStleHBsb3JpbmcrdGhlK2hpc3RvcmljK2NvdW50eSt0aGF0K21hZGUrdGhlK21vZGVybit3b3JsZCUyQ2FwcyUyQzIwNyZzcj04LTE&email_id=0777de97187ab1c2a7f50fd87f80627e), by Chris Moss. And I enjoyed this paragraph:
+I've never felt or fully understood the alleged tension between Lancashire and Yorkshire. The latter's residents have good reason to boast, as they do with gusto, even if the 'God's own count(r)y' schtick is wearisome nonsense. Yorkshire is the UK's largest county. It has three national parks, two national landscapes (the new name for AONBs) and some of the most dramatic stretches of thePennine range. Like Lancashire, it reaches from the hills to the coast. There are fundamental differences. Lancashire is Irish and Atlantic. East Yorkshire is European and North Sea-facing. Yorkshire is Anglican and past tense. Lancashire is Catholic and forward-looking. Lancastrians go in sideways; Yorkshire men, at least, barge in frontally.
+I consider this book to be properly subjective.

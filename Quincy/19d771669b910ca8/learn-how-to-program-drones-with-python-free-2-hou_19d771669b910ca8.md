@@ -1,0 +1,33 @@
+---
+id: "19d771669b910ca8"
+subject: "Learn how to program drones with Python [Free 2-hour course]"
+from: "Quincy Larson <quincy@freecodecamp.org>"
+to: ""
+date: 2026-04-10 11:10:50
+labels: ["CATEGORY_PERSONAL", "IMPORTANT", "INBOX", "Quincy", "STARRED", "YELLOW_STAR"]
+label_ids: ["CATEGORY_PERSONAL", "IMPORTANT", "INBOX", "Label_7697778124671848699", "STARRED", "YELLOW_STAR"]
+---
+Here are this week's five freeCodeCamp resources that are worth your time:
+
+1. freeCodeCamp just published a new Python course that will teach you how to program your own aerial drone. You don't need to own a drone. You'll use the PySimverse simulator to practice autonomous flight. First you'll learn the basics of drone components, 3D movement, and common computer vision tasks. Then you'll learn about navigation, image capture, hand gesture control, autonomous following, and more. (2 hour YouTube course): https://www.freecodecamp.org/news/master-ai-drone-programming/
+
+2. freeCodeCamp also published a massive course that will teach you how to program NVIDIA's H100 GPUs using CUDA. You'll learn about CUTLASS optimizations, multi-GPU scaling, and the primitives developers use to train large models. (24 hour YouTube course): https://www.freecodecamp.org/news/cuda-programming-for-nvidia-h100s
+
+3. On this week's freeCodeCamp podcast I interview Chris Griffing, a software engineer who has spent 15,031 hours coding live on Twitch. After high school he spent 10 years doing odd jobs at ski resorts so he could focus on snowboarding. He taught himself programming at age 28 by building websites for his friends. We talk about how learning Go made him a better Rust developer, why he thinks it's good to become a polyglot, and how he uses LLM tools while still building most codebases manually. (1 hour watch or listen in your favorite podcast app): https://www.freecodecamp.org/news/lessons-from-15-031-hours-of-coding-live-on-twitch-with-chris-griffing-podcast-214/
+
+4. If you've ever wanted to build a video editor or live streaming tool that runs entirely in a browser, this handbook is worth bookmarking. You'll see how the WebCodecs API can give you low-level, hardware-accelerated control over video processing. You'll learn key concepts like video frames, codecs, containers, and muxing. (full length handbook): https://www.freecodecamp.org/news/the-webcodecs-handbook-native-video-processing-in-the-browser/
+
+5. Kubernetes doesn't have a built-in user database. Instead it relies on a chain of authenticators. This course will teach you how x509 client certificates work, why they're not ideal for human users in production, and how to instead deploy your own self-hosted browser-based OpenID Connect login. (29 minute read): https://www.freecodecamp.org/news/how-to-authenticate-users-in-kubernetes-x509-certificates-oidc-and-cloud-identity/
+
+It's a wild time to be a developer. The freeCodeCamp community will keep working hard to teach you the latest tools while also helping you strengthen your math and computer science fundamentals. Help us help you by becoming a supporter of our charity: https://www.freecodecamp.org/donate
+
+Quote of the Week: 
+“There will be room for experts, despite AI tool improvements. The way that we get things done may change. But that was always going to happen.” — Software Engineer Chris Griffing on this week's freeCodeCamp podcast
+
+Until next week, happy coding.
+
+-- Quincy Larson
+
+Teacher and founder of freeCodeCamp.org
+
+If these aren't worth your time, you can turn them off: https://www.freecodecamp.org/ue/eZV2T3gHC7IGcwcpYPG64

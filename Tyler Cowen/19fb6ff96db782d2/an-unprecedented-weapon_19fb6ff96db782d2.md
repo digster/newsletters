@@ -1,0 +1,12 @@
+---
+id: "19fb6ff96db782d2"
+subject: "An unprecedented weapon?"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2026-07-31 07:07:11
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699"]
+---
+I wonder if England had a "pause" movement back then:
+Trebuchets reached the peak of their development in medieval times, probably the most famous example being Edward I's massive machine, Warwolf. This terrifying device was over sixty feet (18 meters) high and was capable of throwing a three-hundred-pound (140-kilogram) rock several hundred years, projecting some five hundred kilojoules of energy, a thousand times the power of Roman ballistas and five thousand times as powerful as a single person. Edward used it just once, in 1304 during his wars of conquest against the Scots, to attack Stirling Castle, the last stronghold of the Scottish armies. The defenders were so petrified by the prospect of the attack that they sued for peace before Warwolf could be used, but Edward refused to let them surrender until he had tested the machine; in four days it totally destroyed one of the castle's curtain walls.
+That is from the new and interesting [The Powerful Primate: How Controlling Energy Enabled us to Build Civilization](https://marginalrevolution.com?action=user_content_redirect&uuid=6cff14cb462766238e94fba24c919981c0c7b12149ec3c8f042e470f6228a600&blog_id=42693868&post_id=93509&user_id=262258391&subs_id=225460721&signature=d66f15f0c97ac98a9b43615a646ffb84&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9Qb3dlcmZ1bC1QcmltYXRlLUNvbnRyb2xsaW5nLUVuYWJsZWQtQ2l2aWxpemF0aW9uL2RwLzE2NjgwNjI3OTgvcmVmPXNyXzFfMT9jcmlkPTM3NUROV1MzRkhSRkomZGliPWV5SjJJam9pTVNKOS5JWGtwclZzSjFxUURVdlFvWk1JOWhRLnBOOHhzY3dMVkhBdXNpM3BHa0FVOVF6bTc0Y1A2UG12RlEyNzh4bTc0c3MmZGliX3RhZz1zZSZrZXl3b3Jkcz1UaGUrUG93ZXJmdWwrUHJpbWF0ZSUzQStIb3crQ29udHJvbGxpbmcrRW5lcmd5K0VuYWJsZWQrdXMrdG8rQnVpbGQrQ2l2aWxpemF0aW9uJm5zZE9wdE91dFBhcmFtPXRydWUmcWlkPTE3ODUzNzMzMTkmc3ByZWZpeD10aGUrcG93ZXJmdWwrcHJpbWF0ZStob3crY29udHJvbGxpbmcrZW5lcmd5K2VuYWJsZWQrdXMrdG8rYnVpbGQrY2l2aWxpemF0aW9uJTJDYXBzJTJDMTg4JnNyPTgtMQ=&email_id=bd7b5292d5191adbfaa3536e7cbee9e8), by Roland Ennos.

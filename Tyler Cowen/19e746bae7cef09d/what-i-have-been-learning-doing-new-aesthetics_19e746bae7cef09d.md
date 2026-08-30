@@ -1,0 +1,14 @@
+---
+id: "19e746bae7cef09d"
+subject: "What I have been learning doing New Aesthetics"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2026-05-29 15:47:54
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+Patrick offered his observations [here](https://marginalrevolution.com?action=user_content_redirect&uuid=62d4eb967d97e2dfd77cc9deb07b3d91d97808b27e1ad18f40bd6ce581ffd616&blog_id=42693868&post_id=93092&user_id=262258391&subs_id=225460721&signature=b5134f5be9629c798a72592a82b5fc1c&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly9tYXJnaW5hbHJldm9sdXRpb24uY29tL21hcmdpbmFscmV2b2x1dGlvbi8yMDI2LzA1L25ldy1hZXN0aGV0aWNzLWF3YXJkcy5odG1s&email_id=8b1a675128f18ef86a461aa89a0fb0ea), I will add a few points of my own.
+I very often think in terms of regions and geographic places. Currently, artistic movements (of most sorts, not just "New Aesthetics") seem to lack a centrality of place. New York City is no longer the center of the art world, high rents being one reason for that but not the only one. It is simply no longer the city's essence. The rebellious spirit is largely gone. Los Angeles has good galleries and plenty of creativity, but never quite stepped up as a number one city for the visual arts. The Bay Area, in spite of all of its money, remains quite behind. Berlin in some ways feels like it could be an art center, but it is not one. Germany is too complacent. Central Europe more generally has the heritage and still the potential, but I do not see "the engine of growth" there. Paris and London are for certain high-end artistic activities, but they too are not centers of creative ferment at the ground level. The visual arts scene in China has declined precipitously with restrictions on freedom of speech and creation.
+Overall, looking through the applications my opinions of Spain and Mexico went up. My opinion of parts of Africa, including South Africa, is relatively high, though that was not reflected in the applications I read. Rather it is from my travel. But I fear that none of those locales have the global oomph to lead the way more generally.
+So currently I am still looking for a regional center or centers for the next set of artistic revolutions. I see the contemporary world as failing at that.
+I also would say that "Asian women" -- from all over -- put in a pretty impressive showing. I take that to be a marked reason for optimism. Perhaps future artistic revolutions will be less geographically centered than the past ones?

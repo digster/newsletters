@@ -1,0 +1,14 @@
+---
+id: "19fc3364c3c3c918"
+subject: "Sunday assorted links"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2026-08-02 16:02:22
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+1. [The inverseminar, someone else presents your paper](https://marginalrevolution.com?action=user_content_redirect&uuid=399d076d98a6e5dd1269c497afd7bb22770fb318c56a484761db06ecab89ebd7&blog_id=42693868&post_id=93518&user_id=262258391&subs_id=225460721&signature=70a5b2d8d1fdeeb8df19588643cea60b&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly93d3cuZXVyZWthbGVydC5vcmcvbmV3cy1yZWxlYXNlcy8xMTM4MTM2&email_id=0d653cc196b3e9c6b85a4b922d1ea978).
+2. [The rise of million-dollar companies with just one employee](https://marginalrevolution.com?action=user_content_redirect&uuid=8b81bdc753160d8e4cfd09fd1d69e33949adae2f3995b2e95e7f905cd6109a62&blog_id=42693868&post_id=93518&user_id=262258391&subs_id=225460721&signature=c98e7698e342ff75f24ff1687c4727f2&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly93d3cud3NqLmNvbS90ZWNoL2FpL3RoZS1yaXNlLW9mLW1pbGxpb24tZG9sbGFyLWNvbXBhbmllcy13aXRoLWp1c3Qtb25lLWVtcGxveWVlLWYzNmE3N2MxP21vZD1XVFJOX3Bvczc&email_id=0d653cc196b3e9c6b85a4b922d1ea978) (WSJ).
+3. [The political party itself is a big driver of polarization](https://marginalrevolution.com?action=user_content_redirect&uuid=c319e58f26486ebcc91c25c7b8397feff26bf0dc252449d98b6fddb8e6152d56&blog_id=42693868&post_id=93518&user_id=262258391&subs_id=225460721&signature=5b5422c67da8f5c302ff41b364e35f92&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly93d3cuam91cm5hbHMudWNoaWNhZ28uZWR1L2RvaS9hYnMvMTAuMTA4Ni83NDMzMzM&email_id=0d653cc196b3e9c6b85a4b922d1ea978).
+4. [Gita Gopinath is making sense](https://marginalrevolution.com?action=user_content_redirect&uuid=a41ed7ac7ccff15ef38437d087ed13929a72c4837186d9340dd7718ad1fe9b58&blog_id=42693868&post_id=93518&user_id=262258391&subs_id=225460721&signature=fced6ff47de1895fa80689148f8afcd2&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly94LmNvbS9HaXRhR29waW5hdGgvc3RhdHVzLzIwODM1NzIyNzg5MTA5OTY5NjQ&email_id=0d653cc196b3e9c6b85a4b922d1ea978).
+5. [GPT Pro (not Astra) on what "Astra" means](https://marginalrevolution.com?action=user_content_redirect&uuid=3860a15495837589a4c88f656f32824fdb73557b433f5dc936a04fe8db921ddb&blog_id=42693868&post_id=93518&user_id=262258391&subs_id=225460721&signature=3fa88eae12fc10294147b8203d1b08fd&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly9jaGF0Z3B0LmNvbS9zaGFyZS82YTZlMTdlZC01MzAwLTgzZWEtYjY4My0zODU3OGMwZDhlMDk&email_id=0d653cc196b3e9c6b85a4b922d1ea978).

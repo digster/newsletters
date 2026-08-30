@@ -1,0 +1,13 @@
+---
+id: "1a0135181b18946f"
+subject: "Morocco facts of the day, Morocco is not hopeless"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2026-08-18 05:21:43
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+For decades, South Africa was the great success story of African industrialization. Last year, Morocco took the lead, emerging as the African Development Bank’s top-ranked industrial economy in Africa. In the Bank’s analysis, published in the
+[latest edition]of its industrialization index, Morocco’s growth has been “driven by sustained industrial upgrading, export diversification, and strong industrial policy.” Since the mid-2000s, it has leveraged its location and dominant phosphate reserves to get free trade agreements with the US, the EU, and fifty other countries: the Kingdom would like Morocco to be to France what Eastern Europe is to Germany, or what Mexico is to the US: an export-base “workbench.”Having positioned itself to profit from the shift to clean energy supply, Morocco is nimbly
+[pivoting]its auto manufacturing sector to build EVs, working with incumbents like Renault and Stellantis, and is host to Africa’s first battery gigafactory. That single 70 gigawatt-hour battery factory in Casablanca is[expected]to supply a third of Europe’s current market. Last year, the government approved construction for a new[green hydrogen]industrial park, aiming to produce ammonia, steel, and industrial fuel worth a total of $32.5 billion. It has also been strategic in focusing its industrial strategy on aerospace manufacturing, with[Airbus]becoming a strategic partner, along with investments from Boeing, Thales, and Safran. Its aerospace exports more than tripled in the decade to 2024, to reach almost $3 billion.
+Here is the full piece by [Kate Mackenzie](https://marginalrevolution.com?action=user_content_redirect&uuid=e1ff8c388052d864cf095521ce9cfc185503be7269c4d6c0bc6528e80ab69ec1&blog_id=42693868&post_id=93605&user_id=262258391&subs_id=225460721&signature=dcfdd37b7d314c43faead2a7dac48a5a&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly9waGVub21lbmFsd29ybGQub3JnL2F1dGhvci9rYXRlLW1hY2tlbnppZS8&email_id=25eaabb039fb352f6320f62d78d5876c) and [Tim Sahay](https://marginalrevolution.com?action=user_content_redirect&uuid=3c3f116b78815e8b5ceac089de808649005cf88ee1487af65b3bdfcfb27953c0&blog_id=42693868&post_id=93605&user_id=262258391&subs_id=225460721&signature=882905d8146ee4c6b9eda7ff6eed1729&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly9waGVub21lbmFsd29ybGQub3JnL2F1dGhvci90aW0tc2FoYXkv&email_id=25eaabb039fb352f6320f62d78d5876c).

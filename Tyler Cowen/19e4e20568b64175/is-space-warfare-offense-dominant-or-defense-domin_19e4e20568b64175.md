@@ -1,0 +1,12 @@
+---
+id: "19e4e20568b64175"
+subject: "Is space warfare offense-dominant or defense-dominant?"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2026-05-22 05:20:01
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+The third type of weapons are invasion ships – this is the classic science fiction trope, however actual invasion ships have one fundamental weakness – they need to slow down at the destination galaxy. This has two effects. Firstly, energetically getting invasion ships to the opponents galaxy is substantially less efficient than sending RKVs there. This is because of the tyranny of the rocket equation. While the invasion ships can be accelerated to relativistic velocities at origin galaxy, to slow down, it cannot be assumed there is an equivalent infrastructure at the destination. Instead, the invasion ships must carry their own braking fuel with them, which must then also be accelerated and so on.
+The second fundamental problem is lack of stealth. When accelerating your exhaust points away from your target, when decellerating your exhaust points towards it. Essentially your are deliberately dissipating all your kinetic energy as a gigantic beacon screaming ‘I am here come kill me’. The decelleration burns of large-scale invasion fleet would both likely last thousands of years and also be immensely noticeable to any reasonable civilization in the target galaxy let alone a paranoid K3. Even if you don’t try to decellerate by rockets but instead by e.g. drag on magnetic sails, this drag causes friction which then radiates uniformly in all directions, again serving as a beacon.
+That is from [a very interesting and much longer 2025 piece by Beren's Blog](https://marginalrevolution.com?action=user_content_redirect&uuid=9ea4684b37a882dd18f17a19badf76df2e75c93d63b3c8e617b712758e6af9d6&blog_id=42693868&post_id=93046&user_id=262258391&subs_id=225460721&signature=a56aac3778e349c3ed21bbe1e1d96d66&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly93d3cuYmVyZW4uaW8vMjAyNS0xMS0yMi1TcGFjZS1XYXJmYXJlLVNlZW1zLU1vc3RseS1EZWZlbnNlLURvbWluYW50Lw=&email_id=26328e1338ba9bc86f9f9e2a70e1c77f). Via S.

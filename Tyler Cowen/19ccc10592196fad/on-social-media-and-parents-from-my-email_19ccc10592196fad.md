@@ -1,0 +1,16 @@
+---
+id: "19ccc10592196fad"
+subject: "On social media and parents (from my email)"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2026-03-08 06:09:08
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+Fron anonymous:
+I personally think social media is pretty bad for people (kids and adults). I got off Facebook around 2009. I never got on Twitter. I had Instagram for a while but only followed my wife to see her posts of our family. This worked great until Instagram started feeding me content beyond the people I was following (really just my wife), so I quit using it. The only social media I currently use is Substack (not sure if that counts?). But the same dynamic may be playing out there as well (the algorithm feeding me stuff I don't want, and me getting locked into wasting time doom scrolling).
+HOWEVER, I completely agree with your point about parents. Our 14-year-old son has an iPhone, but we have locked it down pretty tight. It took some work on our part, to be honest. And we have to be pretty vigilant about enforcing the no-phone-in-your-room rule (which is a source of conflict sometimes). Our son has no social media accounts. He can text and he has access to a few messaging apps that they use at his school. Beyond that, we've basically shut down his ability to access the internet on the phone. His Chromebook works perfectly well for any legitimate internet needs.
+In principle, any parent can do what we've done. So why don't they? Why are they begging the government to do something they could just do themselves, albeit with a little work? Well, I've been struck by how badly many parents desperately need their children's approval. They find themselves incapable of disappointing or upsetting their children on even the smallest of things. They know they should tell their kids not to use TikTok (or whatever), but they don't want to make their kids mad. That's why they want someone else to do it for them.
+I don't get it. Perhaps I'm overly cranky, but I honestly don't mind it if (when) my kids get mad when I do something I believe is in their best interest. I simply don't believe my children's emotional reaction is a very good guide to parenting. Because they're children. And they don't know very much. And they especially don't know what they don't know and that's why I'm here. If I won't tell my kids no when they need to hear it but don't want to hear it, then what good am I? My wife feels the same way. But we see lots of families that clearly feel differently.
+Okay rant over.
+See also [Arnold Kling on related ideas](https://marginalrevolution.com?action=user_content_redirect&uuid=efbda0815a89e69e7103c5aa452988ca1fbbb7ed1ff00918312aad41a12e2d73&blog_id=42693868&post_id=92537&user_id=262258391&subs_id=225460721&signature=aae0bf34cb440c3177b01330af92530c&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly9hcm5vbGRrbGluZy5zdWJzdGFjay5jb20vcC90aGUtZm9vbC1iZWhpbmQtY2VsbC1waG9uZS1iYW5zLWZvcj91dG1fc291cmNlPXBvc3QtZW1haWwtdGl0bGUmcHVibGljYXRpb25faWQ9MzM4NjczJnBvc3RfaWQ9MTg5NTAyMjI4JnV0bV9jYW1wYWlnbj1lbWFpbC1wb3N0LXRpdGxlJmlzRnJlZW1haWw9dHJ1ZSZyPTNvOSZ0cmllZFJlZGlyZWN0PXRydWUmdXRtX21lZGl1bT1lbWFpbA=&email_id=4736de27c0a1cd67fecdc7cb454ffc00).

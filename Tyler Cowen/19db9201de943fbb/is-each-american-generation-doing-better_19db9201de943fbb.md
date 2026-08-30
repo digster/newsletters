@@ -1,0 +1,11 @@
+---
+id: "19db9201de943fbb"
+subject: "Is each American generation doing better?"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2026-04-23 06:56:21
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+We construct a posttax, posttransfer income measure from 1963 to 2023 based on the Current Population Survey Annual Social and Economic Supplement that allows us to consistently compare the economic well-being of five generations of Americans at ages 36–40. We find that Millennials had a real median household income that was 20% higher than that of the previous generation, a slowdown from the growth rate of the Silent Generation (36%) and Baby Boomers (26%), but similar to that of Generation X (16%). The slowdown for younger generations largely resulted from stalled growth in work hours among women. Progress for Millennials younger than 30 has also remained robust, though largely due to greater reliance on their parents. Additionally, lifetime income gains for younger generations far outweigh their higher educational costs.
+That is [from Kevin Corrinth and Jeff Larrimore](https://marginalrevolution.com?action=user_content_redirect&uuid=de436350fac6ad7405c793bc192122ffc69c5a1852ad71109c89693fa87d0b67&blog_id=42693868&post_id=92880&user_id=262258391&subs_id=225460721&signature=9c8753f057cd017edb2114302b8d27c5&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly9yZWFkLmR1a2V1cHJlc3MuZWR1L2RlbW9ncmFwaHkvYXJ0aWNsZS9kb2kvMTAuMTIxNS8wMDcwMzM3MC0xMjU1NTA1MC80MDk0NDYvSGFzLUdlbmVyYXRpb25hbC1Qcm9ncmVzcy1TdGFsbGVkLUluY29tZS1Hcm93dGg&email_id=09939df8558aa7054538f9b9f7359bec) in Demography. Via the excellent [Kevin Lewis](https://marginalrevolution.com?action=user_content_redirect&uuid=c6455af064ac577ec0e93bdc76800d41602c40c4286445fd66766c7a40aa31f7&blog_id=42693868&post_id=92880&user_id=262258391&subs_id=225460721&signature=b88524993bee76c023d74e4600d4c0f0&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly93d3cubmF0aW9uYWxhZmZhaXJzLmNvbS9ibG9nL2RldGFpbC9maW5kaW5ncy1hLWRhaWx5LXJvdW5kdXAvdGFsa2luZy10cmFkaXRpb24&email_id=09939df8558aa7054538f9b9f7359bec).

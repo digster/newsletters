@@ -1,0 +1,12 @@
+---
+id: "19fa99123ed91e09"
+subject: "Tuesday assorted links"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2026-07-28 16:31:28
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+1. [The economics of personal holding companies, including in the Nordics](https://marginalrevolution.com?action=user_content_redirect&uuid=8e156a70ebd332d20951d04d1d5ab2777f5d374ad53fab3bcec27c68c960568b&blog_id=42693868&post_id=93489&user_id=262258391&subs_id=225460721&signature=325e50e23762f85c33a57ae061a91981&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly93d3cubmJlci5vcmcvcGFwZXJzL3czNTUzNCNmcm9tcnNz&email_id=7dfa5ea592e5fd9c26535358b957eb8b).
+2. [Jongkuch Mach is a good name for a very tall basketball player](https://marginalrevolution.com?action=user_content_redirect&uuid=860e88d3a6bace24707e9b00461a8e647426615cee665b81a42b740e1f085ae0&blog_id=42693868&post_id=93489&user_id=262258391&subs_id=225460721&signature=cf5dcc280f99ce4714ebc376ab4da120&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly94LmNvbS9tcnd0ZmZhY3RzL3N0YXR1cy8yMDgxNjkxMTY0ODY5MDI5ODk2&email_id=7dfa5ea592e5fd9c26535358b957eb8b).
+3. [Can AI predict who will be the most important philosopher in 2046?](https://marginalrevolution.com?action=user_content_redirect&uuid=086d65def5923eaa487be2f13d8df48ab051665332cc396cc8354ad84d2071c3&blog_id=42693868&post_id=93489&user_id=262258391&subs_id=225460721&signature=3b515d7ce21e405e0bfc78fd72607edb&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly94LmNvbS9yb2JzaWNhL3N0YXR1cy8yMDgxNzk0Mjc1MzYxMjkyNTEy&email_id=7dfa5ea592e5fd9c26535358b957eb8b) For economics, [the top pick of GPT Pro is Ludwig Straub](https://marginalrevolution.com?action=user_content_redirect&uuid=44d6b74e94074dee3d712fe3d2dfef732ee0a7ac1ba07c89e55382fbfe9be06a&blog_id=42693868&post_id=93489&user_id=262258391&subs_id=225460721&signature=d97850666b7cbc0576483d7b218db9e8&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly9jaGF0Z3B0LmNvbS9zaGFyZS82YTY3YzNjNC0yMmY0LTgzZWEtYmIxNi0wMDc5ZGMyMzc2OTM&email_id=7dfa5ea592e5fd9c26535358b957eb8b), second choice is Stefanie Stantcheva. I like those selections, but perhaps they are more 2036 than 2046?

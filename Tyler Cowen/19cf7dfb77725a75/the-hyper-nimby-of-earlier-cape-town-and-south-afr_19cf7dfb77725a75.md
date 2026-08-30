@@ -1,0 +1,11 @@
+---
+id: "19cf7dfb77725a75"
+subject: "The hyper-NIMBY of earlier Cape Town and South Africa"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2026-03-16 18:19:19
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+The most controversial of the forced removals occurred in the second half of the 1960s, with the expulsion of 65,000 coloureds from District Six, a vibrant inner-city ward of Cape Town, where whites, many of the slumlords, owned 56% of the property. Against their will, District Six residents were moved out to the sandy townships of the Cape Flats. In Johannesburg, the inner-city suburb of Sophiatown, where blacks could own freehold property, was another notorious site of forced removals. Often long-established community institutions such as churches and schools had to be abandoned.
+That is from the very good book by Hermann Giliomee [The Afrikaners: A Concise History](https://marginalrevolution.com?action=user_content_redirect&uuid=ad6a2ec548dc40355855ade544934fbee22e9bac0510bb601c432dfb450e9df3&blog_id=42693868&post_id=92626&user_id=262258391&subs_id=225460721&signature=56914b59035d7fb7e72fa7360dcce4b2&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9BZnJpa2FuZXJzLUNvbmNpc2UtSGlzdG9yeS1IZXJtYW5uLUdpbGlvbWVlLWVib29rL2RwL0IwOE5WNU5USEYvcmVmPXNyXzFfMT9jcmlkPTExMElOWjQ5S1BGWTkmZGliPWV5SjJJam9pTVNKOS5hV09Ea2hycU5KdkttVG53aGRfQlZNRkszTTdtTjl4NEp1YTlLWmZ4d3ZWd1NKSERoMXhheVc4OEdkSUlMblh6Tk9YUGFITzBYdTJGcmRJMko0amo1eHBaSGFicjNUcXpsRnRla2Mwczg1N3ppd0ZrSzczczhJLXZRR1RCUEp6Nk0xa21SNnFIYjIyMjVUYWRmVlF0V0hjVnFRWENHcndDTWZDclh2bGFCTEJ3LUgtNnBlVnNqZDdCM0dqcjJYTDNFaE9vNHhiTDNIZWh3dC1tOHZwWXZiazU1U0VWTS1SdFdsS01helZaSTRNLjVCeDZ5QkhDRlM4S2pRVnhYYm5RSUhuajhPeXNNSldBQkVwZHM5SGQ3bkEmZGliX3RhZz1zZSZrZXl3b3Jkcz1UaGUrQWZyaWthbmVycyUzQStBK0NvbmNpc2UrSGlzdG9yeSZxaWQ9MTc3MzUxOTU2MSZzcHJlZml4PSUyQ2FwcyUyQzEyMTcmc3I9OC0x&email_id=a0e3186d73f5fa50b94de93d2bfa7b5a).

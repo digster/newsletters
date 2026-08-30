@@ -1,0 +1,10 @@
+---
+id: "19d3dd93226fea52"
+subject: "Explore Machine Learning as a Knowledge Graph"
+from: "The Palindrome <thepalindrome@substack.com>"
+to: ""
+date: 2026-03-30 08:25:07
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tivadar Danka", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_3571324877567057163", "UNREAD"]
+---
+Struggling to learn math and machine learning on your own? The Palindrome makes complex ideas click—with visual explainers, step-by-step guides, and clear learning paths. Join the premium tier to master the core ideas behind machine learning! (Supporting this work doesn’t have to come out of your pocket. If you read The Palindrome as part of your professional development, you can use TL;DR: Now you can play around with the Hey! I spent my last week building the knowledge graph of machine learning, mapping out every concept and its relations. With this, you can visualize subfields, the roots of machine learning (surprise: mathematics), the central concepts, and a bunch of other cool stuff, like tracing the prerequisites (yellow edges) and dependents (blue edges) of gradient descent. Now you can explore them yourself with a little app If this work is valuable to you, consider becoming a paid subscriber. Your support lets me keep building and sharing high-quality content like this. You’ll get full access to all paid posts, monthly workshops, and a growing archive of 150+ deep dives into mathematics and machine learning. Enjoy the graph explorer! Cheers, When you're ready to go deeper, here’s how I can help: Get instant access to step-by-step learning tracks on graph theory, foundational mathematics, and building neural networks from scratch—with visuals and explanations designed to make it all finally click. 📘 Master the math that powers modern ML—linear algebra, calculus, and probability—with Python examples and crystal-clear explanations. Bridge the gap between textbook theory and real-world implementation. |

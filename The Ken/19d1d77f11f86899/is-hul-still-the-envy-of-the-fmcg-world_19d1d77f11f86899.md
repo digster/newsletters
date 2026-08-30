@@ -1,0 +1,44 @@
+---
+id: "19d1d77f11f86899"
+subject: "Is HUL still the envy of the FMCG world?"
+from: "The Ken <info@the-ken.com>"
+to: ""
+date: 2026-03-24 01:31:31
+labels: ["CATEGORY_PERSONAL", "INBOX", "The Ken", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_8244464457792971031", "UNREAD"]
+---
+|
+|
+Trade Tricks
+Tue, 24 Mar 26
+A weekly newsletter about the biggest changes in commerce—focusing on shifts that matter to you.
+Good Morning Ishan,
+Yesterday, The Ken launched one of its most ambitious products to date. Intermission is a long-form video podcast in which Rohin and I tell the origin stories of some of India’s greatest companies. We look at the leaders, rivalries, and contrarian strategies that shaped them in order to understand where these firms are headed.
+The first company in the series is Asian Paints. A market leader for six decades that turned a boring commodity into a much-loved brand. A firm founded by Gujarati traders that embraced professional management decades before the idea gained acceptance. An innovator that rewrote the rules of mass-market distribution and pricing.
+The deeper we went into Asian Paints, the more we realised that it is indeed one of a kind. Even if it is up against the kind of challenger it hasn’t seen in years.
+You can watch the episode on [Youtube](https://youtu.be/o64I_q5c7Fk) or listen to it on [Spotify](https://open.spotify.com/episode/12SJKSqomnEwxEftI5Vc0E?si=b0sfqqUASwG86gZwckO4HQ), [Apple Podcasts](https://podcasts.apple.com/us/podcast/intermission-e01-asian-paints-part-1/id1881998715?i=1000756623314), or wherever you get your podcasts.
+You should also check out our absolutely immersive companion [website](https://the-ken.com/intermission/the-business-of-colour-asian-paints/) to the podcast. It’s the kind of team effort we pride ourselves on, and I was blown away by the results.
+Now, let’s get on with the edition.
+An edition of this newsletter I [wrote](https://the-ken.com/tradetricks/hindustan-unilevers-detergent-powered-decade/) in November 2022 began like this:
+As India’s largest FMCG company, Hindustan Unilever Ltd (HUL) is a good proxy for India’s consumption habits. Which is why its numbers usually make for interesting reading.
+Take, for instance, the company’s presentations at its recent analyst meet—the first physical one in three years. I say presentations because there were five. One each by its chief executive and chief financial officer, and one each on its three verticals: personal care, home care, and foods.
+The idea was to show off HUL’s journey over the past decade or so, and it’s undoubtedly been quite an impressive journey.
+In hindsight, “impressive” was an inadequate adjective. In a decade, HUL had more than doubled its annual sales to Rs 50,000 crore and quadrupled its Ebitda, a measure of operating performance, to over Rs 12,000 crore. A company that was already gargantuan became even bigger.
+In the 2010s, HUL’s market value surged more than 7X. Against all odds, a company founded in 1933 is still the gold standard in its business. Or, was the gold standard.
+Such has been the fall for HUL shares from their all-time high in September 2024 that it has wiped out all the post-pandemic gains. The stock is now down 14% in five years. The Nifty FMCG index is up over 30% in the same period.
+For a company used to consistently leaving its rivals in the dust, this is humbling. And the stock performance, which isn’t always an accurate reflection of a company’s health, isn’t the only signal here.
+On Sunday, a journalist [shared](https://x.com/refsrc/status/2035625330921427227) an interesting chart from a report by brokerage HSBC on X.
+I’m not surprised that laundry detergent Surf Excel’s contribution to HUL’s revenue hasn’t changed much. With sales of Rs 10,000 crore, the highest for any HUL brand, Surf Excel is as big as a midsize FMCG company. Even beverages such as Bru coffee and Lipton tea are now a bigger part of the HUL portfolio than a decade ago.
+But personal care has lately been a slog for the company.
+Soap brands Lifebuoy and Lux and skin-lightening cream Glow & Lovely (formerly Fair & Lovely) all matter much less in the larger scheme of things. Little wonder, then, that HUL paid Rs 3,000 crore for [Minimalist](https://the-ken.com/story/four-year-old-minimalist-does-for-skincare-what-loreal-couldnt/), a skincare startup whose products are named after their active ingredients, a year ago. The price tag was almost as much as HUL paid for GSK Consumer Healthcare, including brands such as Horlicks and Boost, in 2020.
+To be fair, HUL has paid the price for a [slowdown](https://the-ken.com/story/godrej-consumers-sudhir-sitapati-on-selling-to-the-top-20-of-india-during-a-consumption-slump/) in discretionary spends. Its annual volume growth hasn’t crossed 5% in the past six years. But then, this is the kind of company that has a long history of bucking such industry trends. It has an equally long history of stable leadership, which was thrown into question last July.
+Hindustan Unilever’s chief executives almost never step down before their term ends. In fact, past leaders like Nitin Paranjpe, Harish Manwani, and Manvinder Singh Banga were bumped up to global roles at Unilever.
+On the other hand, Sanjiv Mehta, who steered Hindustan Unilever, or HUL, for a decade, retired in 2023. So when his successor, Rohit Jawa, called it quits this month to “pursue the next chapter in his personal and professional journey”, less than halfway into his five-year tenure, investors should have panicked.
+But the exact opposite happened.
+The stock rose almost 5%. Analysts were almost dizzy with excitement that there was a new sheriff in town at India’s tenth-largest listed company by market value. And not without reason.
+Reliance FMCG at a moment of FMCG crisis, [The Ken](https://the-ken.com/long_and_short/reliance-fmcg-at-a-moment-of-fmcg-crisis/)
+The last time HUL’s quarterly sales grew in double digits was three years ago. In two of the last three quarters, revenue was flat. HUL chiefs are used to adulatory investors and analysts. But Priya Nair, who succeeded Jawa, will have to first reassure them that HUL still has gas in the tank.
+And that’s it for this week. Let me know what you thought about this edition by writing to tradetricks@the-ken.com.
+Take care, and I’ll see you next week!
+Regards,
+Seetharaman

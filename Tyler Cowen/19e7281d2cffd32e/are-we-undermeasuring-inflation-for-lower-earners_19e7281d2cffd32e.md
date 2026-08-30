@@ -1,0 +1,11 @@
+---
+id: "19e7281d2cffd32e"
+subject: "Are we undermeasuring inflation for lower earners?"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2026-05-29 06:52:50
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+We document a new source of fluctuations in inflation inequality. When the cost of upstream inputs rises, varieties within a product category tend to have similar absolute price increases. However, the same absolute price increase constitutes a larger percentage change for low-price products, resulting in excess inflation at the low end (“cheapflation”). Since low-income households tend to buy lower-priced varieties, the inflation rates they face are disproportionately sensitive to upstream costs. Using data on food-at-home purchases, we show that this mechanism generates cycles in inflation inequality and excessive volatility in inflation for low-income households relative to high-income households. This channel parsimoniously accounts for observed fluctuations in inflation inequality over time, including surges in cheapflation and inflation inequality during both the Great Recession and the 2021–2023 post-pandemic inflation. Official statistics mask these within-category differences in inflation and thus understate the differences in inflation experienced by low- and high-income households by 70–90 percent. We provide evidence that this mechanism applies to a range of consumption categories beyond food at home. The same mechanism also leads to systematic differences in inflation across cities and import price inflation across countries in response to nationwide and global cost shocks.
+That is from [a new NBER working paper](https://marginalrevolution.com?action=user_content_redirect&uuid=5d7d36f57151e948975684057b916ab8a3e8cd02ce14bb6eebcb87fe582a118f&blog_id=42693868&post_id=93089&user_id=262258391&subs_id=225460721&signature=adb80905e78541b1e72d52c98ac49b39&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly93d3cubmJlci5vcmcvcGFwZXJzL3czNTIzNSNmcm9tcnNz&email_id=04c768c2b26762fcb8b6edcbd7e66abd) by Kunal Sangani.

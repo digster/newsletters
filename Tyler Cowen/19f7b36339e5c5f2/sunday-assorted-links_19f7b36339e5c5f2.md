@@ -1,0 +1,13 @@
+---
+id: "19f7b36339e5c5f2"
+subject: "Sunday assorted links"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2026-07-19 16:29:37
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+1. [Female promotions and the academic pipeline](https://marginalrevolution.com?action=user_content_redirect&uuid=9621808feaa0e7822efc3029a40abd06516682764d43c0e83a6b407e807e6573&blog_id=42693868&post_id=93423&user_id=262258391&subs_id=225460721&signature=b416f660b41277eb2ebb452d8ed04fb4&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly9jZXByLm9yZy9wdWJsaWNhdGlvbnMvZHAyMTMyNQ=&email_id=806eefa0949eb46b3506cecd8cb52beb).
+2. [NEW MONKEYS](https://marginalrevolution.com?action=user_content_redirect&uuid=4fa67ac24534f243c72bc8074535aa685a6d4809823d5a19f039b5de717a007e&blog_id=42693868&post_id=93423&user_id=262258391&subs_id=225460721&signature=bfd6efbf0d29a6d8f89cd872b2b50af1&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly9jaGF0Z3B0LmNvbS9zaGFyZS82YTViZTFmYy1iODBjLTgzZWEtYmEzOS0zNzUyMTVhMjA2NjI&email_id=806eefa0949eb46b3506cecd8cb52beb).
+3. [Those new service sector jobs -- "](https://marginalrevolution.com?action=user_content_redirect&uuid=2f2f7267cd1743eb83588ad5811ed428a46ce1234045ab53df62976713d8d05c&blog_id=42693868&post_id=93423&user_id=262258391&subs_id=225460721&signature=3abbe5f21d83b3ded887ea83aff33846&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly93d3cud3NqLmNvbS9saWZlc3R5bGUvcmVsYXRpb25zaGlwcy9jZW8tcGFyZW50LW5hbm55LWFzc2lzdGFudC10ZWFtcy1oaXJpbmctMjBkM2E5YzA/bW9kPWhwX2xlYWRfcG9zMTE&email_id=806eefa0949eb46b3506cecd8cb52beb)One nanny isn’t cutting it anymore. Some parents are spending upward of $250,000 on teams for their children. Luxury services offer potty-training, baby chefs and bike-riding lessons." (WSJ).
+4. [There some English people with the name "Ralph" who simply have decided to pronounce it like "Rafe."](https://marginalrevolution.com?action=user_content_redirect&uuid=a676a054ce5ee4b2142b71b5620d52442e61548e6164147c2780565e6cd10ca4&blog_id=42693868&post_id=93423&user_id=262258391&subs_id=225460721&signature=a164c96ada7fe54b5444d5ff815d5a49&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly9jaGF0Z3B0LmNvbS9zaGFyZS82YTVjYmQzYS05N2FjLTgzZWEtYWM5Zi01NTljZTc1ZTVkZTE&email_id=806eefa0949eb46b3506cecd8cb52beb)

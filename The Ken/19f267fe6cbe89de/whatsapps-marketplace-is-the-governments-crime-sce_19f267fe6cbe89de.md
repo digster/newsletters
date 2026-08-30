@@ -1,0 +1,70 @@
+---
+id: "19f267fe6cbe89de"
+subject: "Whatsapp’s marketplace is the government’s crime scene"
+from: "The Ken <info@the-ken.com>"
+to: ""
+date: 2026-07-03 05:42:23
+labels: ["CATEGORY_PERSONAL", "INBOX", "The Ken"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_8244464457792971031"]
+---
+|
+|
+The Collection
+Fri, 03 Jul 26
+Multiple stories, multiple perspectives, one theme worth your time—every week.
+Good Morning Ishan,
+Whatsapp has spent the better part of a decade, directly or otherwise, convincing the Indian government that it is absolutely not Telegram.
+It’s an amusing argument if you think about it. Both are encrypted messaging apps with hundreds of millions of users. They are platforms where Indians spend an alarming amount of their waking lives. Describe either app to someone from 2005, and you would probably end up using the same sentence.
+Regulators, however, don’t see [messaging apps](https://the-ken.com/story/upi-social-network/?utm_source=email&utm_medium=newsletter&utm_campaign=collection) the way users do.
+Last month, when Telegram briefly landed in trouble over its alleged role in exam-paper leaks and organised fraud, one technical distinction suddenly became very important. A Whatsapp account begins with a phone number, whereas a Telegram account doesn’t necessarily have to.
+That choice offers enormous regulatory comfort.
+A phone number, especially one that begins with +91, indicates a SIM. The SIM points to a subscriber. The subscriber, at least in theory, has completed KYC. If something goes wrong, investigators know where to begin pulling the thread.
+Telegram’s usernames float much more freely. They are convenient for perfectly legitimate reasons. They are also convenient for people who would rather not leave many threads to pull. For years, that worked squarely in Whatsapp’s favour. Phone numbers were one of Whatsapp’s strongest regulatory arguments.
+But Meta has had a busy week.
+It appointed Kunal Shah to run Whatsapp globally, making him the first Indian entrepreneur hired from outside the company to lead one of Meta’s flagship products. It had already invested roughly $900 million in [Shah’s Cred](https://the-ken.com/story/creds-first-profitable-quarter-comes-with-a-trade-off-no-not-kunal-shah/?utm_source=email&utm_medium=newsletter&utm_campaign=collection). And it announced that Whatsapp would begin [rolling out](https://x.com/kunalb11/status/2071624878713971176) usernames.
+Amusing, yet again.
+The government’s response was fairly predictable.
+Even as Whatsapp began a phased rollout of usernames in India, it asked Meta to explain the feature and halt any wider rollout until consultations were complete.
+That concern also appears broader than Whatsapp. On Thursday, Meity sent similar [notices](https://indianexpress.com/article/business/it-ministry-notice-telegram-signal-whatsapp-username-feature-fraud-scams-10768746/) to Telegram and Signal, asking how their existing username systems guard against impersonation and fraud. The issue, it seems, is the username abstraction itself.
+It is a sensible question. But it is the second-most interesting question, because it also assumes Whatsapp is replacing phone numbers. Not really, though!
+Your phone number still exists and Meta knows it. Law-enforcement agencies can still get it through the usual legal process. The only people who stop seeing it by default are everyone else, including the stranger who scraped your number from a Whatsapp group before calling to sell you an investment scheme.
+In that sense, usernames resemble Aadhaar’s Virtual ID more than Telegram’s handles. The underlying identity exists but isn’t handed out every time someone wants to interact with you. (Wink?!) The irony, at first glance, is not lost. The government, which spent years building exactly this privacy-by-proxy logic into Aadhaar, is now alarmed to see a private platform apply the same principle.
+Which makes the obvious explanation feel incomplete. Besides, usernames solve another problem entirely.
+It is easier to tell someone to message, say, @ammaaskitchen than to save a phone number, wait for contacts to sync, and later wonder why there is someone called “Kitchen New 2” in the address book. A neighbourhood grocer, a doctor, a freelancer, or a local bakery becomes discoverable without asking customers to first exchange phone numbers.
+Seen that way, usernames look more like commerce infrastructure. And that fits neatly into Meta’s broader ambitions. It wants businesses to be discovered inside Whatsapp, conversations to become transactions, and increasingly, AI agents to sit between the two.
+Shah wasn’t hired simply because India is an important payments market. (Whatsapp Pay [lost](https://the-ken.com/story/whatsapp-it-to-me-facebooks-push-to-use-chat-for-commerce/?utm_source=email&utm_medium=newsletter&utm_campaign=collection) India’s payments race because it spent six years operating under NPCI user caps while rivals built habits, merchant networks, and distribution. Product could only do so much when regulation determined scale.) He was probably hired because he understands something Meta has learnt the hard way over the past few years: in India, product strategy and regulatory strategy eventually become the same conversation.
+There is, however, a complication.
+While India has become exceptionally good at building digital infrastructure, it has also become exceptionally good at discovering that every successful piece of infrastructure eventually develops unintended users.
+Phone numbers made communication easier. Aadhaar made identity portable. UPI made payments frictionless. QR codes became the merchant interface. Every one of these conveniences eventually developed an entire parallel economy built around fraud.
+So, as I said, the more interesting question is whether Meta has built the next layer of digital commerce or simply handed scammers another surface to innovate on. If there’s one lesson running through this week’s edition, it is that every new layer of infrastructure creates new opportunities and new trade-offs. (One of them is already playing out in a story you’ll read on Monday.)
+Let’s imagine you want to deposit Rs 2,000 into an online betting platform. You would expect to pay the betting company, right? Instead, the app asks you to send Rs 500 each to four complete strangers over UPI. A few minutes later, your betting wallet is credited. And then somewhere else in the country, someone has successfully withdrawn their winnings.
+The betting platform never actually receives your money. It simply updates its balance sheet. That’s an elegant piece of system design that doubles up as a nightmare for regulators.
+As Mrunmayee’s [IPL betting now runs on UPI](https://the-ken.com/newsletter/make-india-competitive-again/betting-has-moved-past-mule-accounts-now-it-runs-on-upi/?utm_source=email&utm_medium=newsletter&utm_campaign=collection) showed, betting platforms have abandoned the payment architecture regulators spent years learning to detect. Earlier, investigators looked for thousands of deposits flowing into a relatively small pool of mule accounts before disappearing into crypto wallets. The money trail had a recognisable shape. Banks built systems to find it.
+The newer platforms leave behind no such pattern.
+They don’t hold customer funds or operate payment accounts. Just match people who want to deposit money with people trying to withdraw it. As far as the banking system can tell, one individual has transferred money to another over India’s most successful payments network.
+The same thing happened with mule accounts.
+There was a time when fraud syndicates had to recruit thousands of people willing to rent out their bank accounts. It was slow and expensive. Eventually, someone realised that recruiting account holders could itself become a business.
+Rounak’s [A Rs 2,500 crore scam powered by mule accounts](https://the-ken.com/story/a-rs-2500-cr-scam-powered-by-mule-accounts-an-illustrated-guide/?utm_source=email&utm_medium=newsletter&utm_campaign=collection) documented the emergence of what one investigator memorably described as “mule-as-a-service”. Instead of building their own networks, fraud operators rented somebody else’s. An industry appeared to recruit account holders, complete paperwork, and supply verified identities almost on demand.
+India wants to stop terror-funded rupees, banks want to stop inadvertently laundering them, and compliance firms just want to be on every bank’s speed dial
+Like most good business stories, it was really a story about markets. Create enough demand, and someone eventually builds the supply chain.
+Identity followed the same path.
+Banks spent years training customers to take KYC messages seriously. Update your documents. Verify your account. Respond before your banking services are suspended. Those messages were as genuine as their urgency. Fraudsters borrowed both.
+As [KYC was meant to protect you. Now it’s used to con you](https://the-ken.com/story/customer-account-suspended-kyc/?utm_source=email&utm_medium=newsletter&utm_campaign=collection) argued, the scam works precisely because the original system worked first. KYC accumulated trust over the years, and fraud learnt to spend it.
+The fastest-growing scams in India rarely begin with a hacked bank account anymore. It’s always something much smaller: a convincing identity. A verified phone number or a KYC record or a familiar app. Just enough information to sound authentic for 30 secs.
+Take BNPL.
+When customers of products such as Olamoney Postpaid and Mobikwik ZIP discovered loans taken in their names or transactions they insisted they had never authorised, many stumbled upon a regulatory reality. Their dispute was suddenly with a fintech product occupying a grey area between payments and lending.
+As [BNPL users are asked to pay for transactions they never made](https://the-ken.com/story/bnpl-users-are-asked-to-pay-for-transactions-they-never-made/?utm_source=email&utm_medium=newsletter&utm_campaign=collection) showed, customers inherited the liability long before they inherited comparable consumer protections. The credit became digital much faster than the safeguards surrounding it.
+The pattern keeps appearing.
+Most of us think of apps like Swiggy, Zepto, or even Cred as food-delivery, shopping, or rewards apps. They are also sophisticated data businesses.
+Our reporting found that many popular Android apps routinely inspect hundreds of other applications installed on a user’s phone. The stated reasons vary from risk models to fraud detection and personalisation to advertising, but the outcome is similar. Platforms gradually accumulate a detailed picture of who we are and how we behave.
+[Using Swiggy, Zepto, or CRED? They have access to at least 150 apps on your phone](https://the-ken.com/story/using-swiggy-zepto-or-cred-they-have-access-to-at-least-150-apps-on-your-phone/?utm_source=email&utm_medium=newsletter&utm_campaign=collection) was ultimately about information asymmetry. Companies know far more about their users than most users realise. Fraudsters don’t need access to all of that information. A fraction is enough.
+Which explains why scams increasingly feel personal. The caller already knows your bank, the payment app you use, and sometimes they know the last service you signed up for or the credit card sitting in your wallet.
+Every digital interaction leaves behind another clue. Most of those clues are collected for perfectly legitimate commercial reasons. That brings us back to Meta.
+Google and Meta have spent years building perhaps the world’s most effective advertising infrastructure. It has helped millions of businesses find customers with precision. It has, inevitably, become available to businesses that were never businesses in the first place.
+As [On Google and Facebook’s watch, cybercrime syndicates flourish](https://the-ken.com/story/google-facebook-wrestle-with-crime-syndicates-unending-love/?utm_source=email&utm_medium=newsletter&utm_campaign=collection) documented, investigators have repeatedly found fraud operations buying advertisements, promoting fake investment schemes, and directing victims to fraudulent websites using exactly the same self-serve tools that legitimate advertisers depend on every day.
+The private sector has been playing this game for a while. Fraud rarely waits for regulators to catch up, so companies start building their own defences. [Truecaller beat TRAI to the punch with its spam-call fix](https://the-ken.com/story/truecaller-beat-trai-to-the-punch-with-spam-call-fix/?utm_source=email&utm_medium=newsletter&utm_campaign=collection) chronicled how a Swedish caller-ID app became indispensable to hundreds of millions of Indians because the regulator’s own framework kept getting delayed. Then came [Airtel finds the gap between Truecaller and TRAI](https://the-ken.com/the-nutgraf/airtel-finds-the-gap-between-truecaller-and-trai/?utm_source=email&utm_medium=newsletter&utm_campaign=collection). Instead of waiting for industry-wide standards, Airtel embedded AI-powered spam detection directly into its network, solving a problem regulators were still trying to standardise.
+That doesn’t make Meta, Google, or any of them complicit in fraud. But it does make it clear that when platforms optimise for growth and regulators optimise for accountability, fraudsters optimise for whatever falls between the two.
+Blurb: Last November, DoT quietly classified Whatsapp, Telegram, Signal and Snapchat as quasi-telcos that must remain tied to active SIM-based identities
+That’s why Meity’s reaction to Whatsapp usernames makes more sense. Every abstraction layer India has introduced has eventually become something fraudsters have learnt to imitate, rent, spoof, or build businesses around.
+Usernames could be a gift to neighbourhood businesses and organised fraud in equal measure.
+What do you think? Drop your thoughts or feedback in the comments section below or write to me at [sumit@the-ken.com](mailto:sumit@the-ken.com).

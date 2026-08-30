@@ -1,0 +1,11 @@
+---
+id: "1a0294ece6f3b42a"
+subject: "The End of Friday Nights with Friends"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2026-08-22 11:50:25
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+This study examines how Americans’ time with friends has changed over the week, focusing not on how much social interaction has declined but on when it has. Using American Time Use Survey data from 2003 to 2024 (N = 243,095), I map hourly patterns of “friend time” across the days of the week. In the early 2000s, social life followed a clear weekly rhythm: Modest weekday interaction built toward pronounced peaks on Friday and Saturday nights. Since the mid-2010s, that rhythm has collapsed. Friday night, once a central site of social activity, now looks like a typical weeknight. Saturday remains elevated but less so than before. Overall, time with friends has fallen by more than half. The mix of social activities, however, has remained stable. Americans have not replaced one form of interaction with another; they have reduced social interaction across the board. These findings point to a temporal reorganization of social life marked by the disappearance of the “night out.”
+That is [by Neal Caren](https://marginalrevolution.com?action=user_content_redirect&uuid=3a8ba953e2d2ac2923f54be817ae136fc9968508d466bfe60496d70249876107&blog_id=42693868&post_id=93642&user_id=262258391&subs_id=225460721&signature=8993e651ac12ec5aa84decb2dc64d4de&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly9qb3VybmFscy5zYWdlcHViLmNvbS9kb2kvZnVsbC8xMC4xMTc3LzIzNzgwMjMxMjYxNDc4MjE1&email_id=fbe49cbaa85c61474d6519dd5ff3501b), via the excellent [Kevin Lewis](https://marginalrevolution.com?action=user_content_redirect&uuid=0fbd82dd4409cd2b05b3a46e2de24337d64c56c67179fb921c481b0ea4bbf407&blog_id=42693868&post_id=93642&user_id=262258391&subs_id=225460721&signature=a392612820b18adaee773483eb82dc2b&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly93d3cubmF0aW9uYWxhZmZhaXJzLmNvbS9ibG9nL2RldGFpbC9maW5kaW5ncy1hLWRhaWx5LXJvdW5kdXAvaG93LWJhZA=&email_id=fbe49cbaa85c61474d6519dd5ff3501b). So what did you go last evening?

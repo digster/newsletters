@@ -1,0 +1,15 @@
+---
+id: "19d9b40fad3db45d"
+subject: "The Marcel Duchamp show at MOMA"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2026-04-17 11:43:40
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+I know I cannot "talk most of you into Duchamp," but I will say this is one of the best museum shows I have seen, ever. Putting aside your view of Duchamp as an artist, it is remarkably well-curated and instructive. It shows a large number of works I had not seen before and places them in proper context. They are knockouts, and probably you have not seen them. You might even be too focused on the urinal, and yes that is in the show too, though with proper context.
+I also learned a good deal about the history of modern art from the exhibit, and now I appreciate Man Ray, Picabia, and others more as well. I also now better understand the connection of Duchamp's work to his early representational paintings, how exactly he evolved toward bicycle wheels, how central the "nude descending a staircase" image was to him, his obsessions with boxes, his artistic connections to chess, his connections to pornography, what he did to end his career, and much more.
+So if you are at all tempted, you absolutely should go to this exhibit. Supplement it with a visit to the Philadelphia Museum of Art, because a few of his most important works cannot be moved from that site.
+Here is [a very good NYT review](https://marginalrevolution.com?action=user_content_redirect&uuid=aa8f5a581296e57e5f734adc232efb832503848131d83495df2a5b225815befa&blog_id=42693868&post_id=92852&user_id=262258391&subs_id=225460721&signature=38e735cf3dee34d04e797dd39f10fabf&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly93d3cubnl0aW1lcy5jb20vMjAyNi8wNC8wOS9hcnRzL2Rlc2lnbi9tYXJjZWwtZHVjaGFtcC1tb21hLXJldmlldy5odG1s&email_id=5ed5220826162604db2bdb81c255abb3). And here is [a more negative review of the show](https://marginalrevolution.com?action=user_content_redirect&uuid=fbcce0020da1199e69bba30e6a1a2d8a76bada248ac419708c63161b75ba63c8&blog_id=42693868&post_id=92852&user_id=262258391&subs_id=225460721&signature=8754f69b94a621d16184a8d37d2579b4&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly93d3cuZnJpZXplLmNvbS9hcnRpY2xlL21hcmNlbC1kdWNoYW1wLTIwMjYtcmV2aWV3&email_id=5ed5220826162604db2bdb81c255abb3), though perhaps not for the reasons you might be expecting.
+[Context is that which is scarce!](https://marginalrevolution.com?action=user_content_redirect&uuid=bcd997a91671f9d3c5abeccfa29ab00d02cdc1035f71431feba323bf0744f338&blog_id=42693868&post_id=92852&user_id=262258391&subs_id=225460721&signature=efe353e49a4ca2db1ca50830bfd0371b&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly9tYXJnaW5hbHJldm9sdXRpb24uY29tL21hcmdpbmFscmV2b2x1dGlvbi8yMDIyLzAyL2NvbnRleHQtaXMtdGhhdC13aGljaC1pcy1zY2FyY2UtMi5odG1s&email_id=5ed5220826162604db2bdb81c255abb3)
+And here is some context for you.

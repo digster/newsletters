@@ -1,0 +1,12 @@
+---
+id: "19d69153d8b31c31"
+subject: "Ludwig Straub wins the Clark medal"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2026-04-07 17:54:51
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+Here is [his home page:](https://marginalrevolution.com?action=user_content_redirect&uuid=ddbda1f1eec8c126f3c666d951b050795206002183421bf15070e771f2c82d37&blog_id=42693868&post_id=92790&user_id=262258391&subs_id=225460721&signature=24634ff779e28e2f166e7cc805be3345&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly9zdHJhdWIuc2Nob2xhcnMuaGFydmFyZC5lZHUv&email_id=a6ca65b922193acb401b1acf1236e39b)
+Ludwig Straub is a professor of economics at Harvard University. His research areas are macroeconomics and international economics. Among his topics of interest are the recent decline in the natural rate of interest, rising levels of private and public debt, and the transmission of monetary and fiscal policy. Ludwig also has an active research agenda solving and analyzing heterogeneous-agent models. Among his most recent papers is a 2025 paper studying the short-run effects of tariff shocks.
+Here is [his Google Scholar page](https://marginalrevolution.com?action=user_content_redirect&uuid=36637c1565a68acb4f22f19d5f643e38be57a158766d39dfbe66894e42825bc9&blog_id=42693868&post_id=92790&user_id=262258391&subs_id=225460721&signature=dac25753236bf51bb18e462561b00948&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly9zY2hvbGFyLmdvb2dsZS5jb20vY2l0YXRpb25zP3VzZXI9ZXZUaTFHZ0FBQUFKJmhsPWVu&email_id=a6ca65b922193acb401b1acf1236e39b). The Medal citation gives [an overview of his work](https://marginalrevolution.com?action=user_content_redirect&uuid=3d133c97c290f2b87010c3945531b0e5aa7f47dbfa418c96a4c2fd073155e448&blog_id=42693868&post_id=92790&user_id=262258391&subs_id=225460721&signature=a5688477f26cc3364175083bf54109b3&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly93d3cuYWVhd2ViLm9yZy9hYm91dC1hZWEvaG9ub3JzLWF3YXJkcy9iYXRlcy1jbGFyay9sdWR3aWctc3RyYXVi&email_id=a6ca65b922193acb401b1acf1236e39b). Congratulations!

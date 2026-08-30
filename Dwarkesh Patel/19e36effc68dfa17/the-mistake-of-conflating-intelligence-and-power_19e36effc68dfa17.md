@@ -1,0 +1,22 @@
+---
+id: "19e36effc68dfa17"
+subject: "The mistake of conflating intelligence and power"
+from: "Dwarkesh Patel <dwarkesh+blog@substack.com>"
+to: ""
+date: 2026-05-17 17:15:41
+labels: ["CATEGORY_PERSONAL", "Dwarkesh Patel", "INBOX", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "Label_1252705944156122219", "INBOX", "UNREAD"]
+---
+|
+I had an interesting discussion recently. Someone asked me, what is intelligence? I said, the ability to achieve your goals across a wide range of domains. Okay, he says, then by that definition isn’t Donald Trump the intelligent person in the world, followed in quick succession by Xi Jinping and Vladimir Putin?
+To be clear, these people are obviously very competent and clever. But when you think of ASI, you don’t think of Trump, but more so.
+The person who kept pressing this question was correctly pointing out that I basically defined intelligence as power. And by this definition, Stalin was the most intelligent person who ever lived.
+Now, of course, you could change the definition of intelligence to something more like, manipulate abstract concepts and rotate shapes.
+But notice that the most powerful people in the world do not max out this quantity. The correlation between extreme power and this kind of intelligence might be even weaker than the correlation between extreme power and height. The physicists are not running the world.
+We tend to conflate power-seeking AI and superintelligent (in science and tech) AI. I’m not denying that AI can be power-seeking. Whatever skills and drives Donald Trump has could be embodied in a digital mind. I’m simply pointing out that the way AI systems are currently becoming smarter (by getting trained to be to be really good at specific economically valuable tasks like coding) is not that strongly correlated with power.
+We often talk about power in this way that misunderstands how it is actually derived in our world. Our intuitions are primed by games like Diplomacy or Go, which are designed to isolate and reward a g loaded kind of strategic reasoning.
+But in the real world, power is more the product of having the authority and trust to get lots of people to collaborate with you, rather than some galaxy brain scheming capability. Trump is not powerful because his brain, considered in isolation, is the most effective optimization engine on Earth. He is powerful because the government which hundreds of millions of people consider legitimate gives him a lot of authority.
+A group versus individual level analysis is useful here. As [Garett Jones has written](https://substack.com/redirect/26d5ffb1-aa9e-4ebb-affa-8e877c798cd7?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) a lot about, individual IQ is only modestly correlated with individual income, but national IQ is strongly correlated with national outcomes. This is because intelligence has a lot of spillover effects - smarter societies cooperate more, save more, and can coordinate to build things like space shuttles and semiconductors.
+Richard Trevithick, who invented the high-pressure steam engine, died in poverty, buried in an unmarked pauper’s grave. But the fact that 18th and 19th century Britain had lots and lots of people like Trevithick contributed to Britain being able to set up a global empire and outcompete lots of backwards principalities around the world.
+It seems to me that the right mental model is that automated firms will outcompete everyone else in normal capitalist ways, rather than a single AI outthinking everyone else.
+You're currently a free subscriber to [Dwarkesh Podcast](https://substack.com/redirect/5685f7cd-b31d-484e-ab60-8779cc5ea5eb?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o). For the full experience, [upgrade your subscription.](https://substack.com/redirect/2/eyJlIjoiaHR0cHM6Ly93d3cuZHdhcmtlc2guY29tL3N1YnNjcmliZT91dG1fc291cmNlPXBvc3QmdXRtX2NhbXBhaWduPWVtYWlsLWNoZWNrb3V0Jm5leHQ9aHR0cHMlM0ElMkYlMkZ3d3cuZHdhcmtlc2guY29tJTJGcCUyRnRoZS1taXN0YWtlLW9mLWNvbmZsYXRpbmctaW50ZWxsaWdlbmNlJnI9OG81NG4mdG9rZW49ZXlKMWMyVnlYMmxrSWpveE5EVTJNek14T1N3aWFXRjBJam94TnpjNU1ETTRNVFUxTENKbGVIQWlPakUzT0RFMk16QXhOVFVzSW1semN5STZJbkIxWWkwMk9UTTBOU0lzSW5OMVlpSTZJbU5vWldOcmIzVjBJbjAuVFREUmdwdE9EVVdCdkk0dVdXd3FIRnowNXFiQVVQUDZEUzE3UVBNRGZSbyIsInAiOjE5ODAzNjg1MSwicyI6NjkzNDUsImYiOnRydWUsInUiOjE0NTYzMzE5LCJpYXQiOjE3NzkwMzgxNTUsImV4cCI6MjA5NDYxNDE1NSwiaXNzIjoicHViLTAiLCJzdWIiOiJsaW5rLXJlZGlyZWN0In0.iQ-Eg1zI5IiplBv2TijXqjF9pG-s4Ns1qViQmiVhLSg?&utm_source=substack&utm_medium=email&utm_content=postcta)

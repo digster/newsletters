@@ -1,0 +1,26 @@
+---
+id: "19ec0a736b038f6b"
+subject: "Sometimes it is hard to solve for the equilibrium"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2026-06-13 11:04:04
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+Probably you all know about [this](https://marginalrevolution.com?action=user_content_redirect&uuid=0fa003f63bf54d2455489351186b0dd3b89e1f4e86e082e1b3e74ffda12b68e3&blog_id=42693868&post_id=93199&user_id=262258391&subs_id=225460721&signature=e96db6c7418d61ae6e861ccf9945e2de&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly93d3cuYW50aHJvcGljLmNvbS9uZXdzL2ZhYmxlLW15dGhvcy1hY2Nlc3M&email_id=e494c712876a3e5b2dcba2b632ca47a2):
+The US government, citing national security authorities, has issued an export control directive to suspend all access to Fable 5 and Mythos 5 by any foreign national, whether inside or outside the United States, including foreign national Anthropic employees. The net effect of this order is that we must abruptly disable Fable 5 and Mythos 5 for all our customers to ensure compliance.
+According to [not yet confirmed but likely true reports](https://marginalrevolution.com?action=user_content_redirect&uuid=d6cd3e7a50d29bfc61fb58eea25e4c16de56463b5a83ca9d1271a6d497a79fd6&blog_id=42693868&post_id=93199&user_id=262258391&subs_id=225460721&signature=55dc4f477480597fbf1029eb715116c2&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly94LmNvbS9kZXJlZGxlcml0dDNyL3N0YXR1cy8yMDY1NjUxMDcyODM2Nzc2MjU2&email_id=e494c712876a3e5b2dcba2b632ca47a2), it was shown that model could be jailbroken. The released Mythos already restricted bio and "AI improvement" queries, rather strictly in fact, so now we are back to the model not being available.
+Here are a few of the constraints on the U.S. government, not the only ones I might add:
+1. It needs for the main companies to stay in business. On top of that, it wants their IPOs to go reasonably well. And it is now much harder for the top companies to recruit foreigners, which is a significant share of their highest quality workforce (Demis, Ilya, Andrej for a start!). It is also much harder for the main companies to drum up foreign business in a credible and sustainble manner.
+1b. How are American multinationals operating abroad supposed to use top systems, moving forwad?
+2. It wants to use model access as a tool of both hard and soft power, so model access has to be possible at some level. But it is very hard to control what foreign agents will do with their partial model access, when they get it in the ffuture.
+3. The U.S. needs to stay ahead of China in the AI race.
+4. The U.S. needs to issue restrictions that are actually enforceable, and "U.S. citizens only" does not fit that bill. Furthermore (markets in everything!) it is easy enough to hire a traitorous American to access tools of wrongdoing, or for matter it is not difficult to fake citizenship in various ways.
+5. USG cannot nationalize these companies and then proceed to run them effectively.
+6. Chinese and other open source models do in fact improve at some reasonable pace, even if they are right now considerably behind the best proprietary models.
+Is the most likely scenario that the government hardens some of its own systems and takes some further precautions, and then allows Mythos to be rereleased? Perhaps with some additional safeguards?
+Is there such a thing as a model that cannot be jailbroken at all? I doubt that.
+So basically we will be replaying this scenario periodically over time, but with each time the companies and also the government in a weaker and more precarious position.
+I am willing to reject the philosophy of "safetyism" and bite various associated bullets. As it stands, these actions will not succeed in making us safer, including for the reasons mentioned above.
+In any case these events do not surprise me (they do surprise me in their immediate suddenness however), as this kind of approach is what governments have been about for a long time now, USG included or perhaps USG especially.
+Rising in status: [Leopold](https://marginalrevolution.com?action=user_content_redirect&uuid=db2316fdef55fa805e9ac6c6fc8aeb28b05fea0e0c67d012493a57d47ecee9df&blog_id=42693868&post_id=93199&user_id=262258391&subs_id=225460721&signature=2fc4ba4b7a5a5284fc9b36c904b61e67&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly94LmNvbS9jb2ZmZWVkZXYvc3RhdHVzLzIwNjU2MTUzNTgwNzM5NzkyNTY&email_id=e494c712876a3e5b2dcba2b632ca47a2), [Aesop](https://marginalrevolution.com?action=user_content_redirect&uuid=07cdb4b43b2a4ed11f13a63ae430567076f51477906abfc244456f3e8830bd83&blog_id=42693868&post_id=93199&user_id=262258391&subs_id=225460721&signature=110fb5fb4235fc2312bffc9a3a5c7435&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly94LmNvbS9qYWNrYnV0Y2hlci9zdGF0dXMvMjA2NTYxMDgyNzMwNzExOTA2Mw=&email_id=e494c712876a3e5b2dcba2b632ca47a2), and also Mistral. AI nationalism. Proponents of slow take-off. As for China, will they rush into this opportunity, or are they at least as scared as we are?

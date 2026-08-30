@@ -1,0 +1,83 @@
+---
+id: "19d9062bc9b35e48"
+subject: "Are You Willing to Pay The Real Price of Success?"
+from: "\"Sahil Bloom's Curiosity Chronicle\" <sahil@sahilbloom.com>"
+to: ""
+date: 2026-04-15 09:04:42
+labels: ["CATEGORY_PERSONAL", "INBOX", "Sahil Bloom", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_1989028747625928812", "UNREAD"]
+---
+Welcome to The Curiosity Chronicle, a newsletter where I provide actionable ideas to help you build a high-performing, healthy, wealthy life.
+Forwarded this email? Join 800,000+ other readers here.
+Everyone needs this critical privacy tool in the AI Era!
+The scariest things about the AI revolution is the widespread use and sale of your personal data for training and targeting the models. And the uncomfortable truth is that cleaning this up manually is nearly impossible.
+DeleteMe was the first solution I found that treated my family’s data privacy like a system. Continuous monitoring and management. Continuous peace of mind. I really believe everyone should be using this service. And I believe in it so much that I convinced the CEO to let me invest.
+Curiosity Chronicle readers can try today's partner, DeleteMe, with 20% off using my code SAHILBLOOM.
+My entire life changed when I realized that I would never want to trade lives with the people I read books about.
+Allow me to explain with a story about the richest man who ever lived...
+In the early 1500s, an enterprising German financier named Jakob Fugger rose to prominence on the European continent.
+From humble beginnings as the tenth of eleven children, he had risen through the ranks of his family's burgeoning trading firm, leveraging a rare combination of a healthy risk appetite and a keen eye for an attractive deal to accumulate immense influence and power.
+His dealings went far beyond the boardroom. He financed emperors, bankrolled wars, held a near-monopoly on European copper, and owned silver mines all across the continent. He personally funded the election of the Holy Roman Emperor and was the financial backer behind Ferdinand Magellan's circumnavigation of the globe.
+His loan to Pope Leo X to finance the building of St. Peter’s Basilica unknowingly sparked a ground-shaking chain of events when its repayment required a massive sale of indulgences (a kind of sin-forgiveness ticket) that drew the ire of a man named Martin Luther who would lead the Protestant Reformation.
+Jakob Fugger’s money—and, by extension, his influence—dramatically influenced the course of world history.
+By the time of his death, he had an estimated fortune equal to $400 billion in today's money.
+His success was extraordinary, and by any objective financial measure, Jakob Fugger won the game, but there's more to this story than meets the eye.
+In his comprehensive book on Fugger, appropriately titled The Richest Man Who Ever Lived, author Greg Steinmetz wrote:
+"He had few friends, only business associates. His only child was illegitimate. His nephews, to whom he relinquished his empire, disappointed him. While on his deathbed, with no one at his side other than paid assistants, his wife was with her lover. But he succeeded on his own terms. His objective was neither comfort nor happiness. It was to stack up money until the end."
+His thirst for financial success was absolute. The relentless pursuit enabled him to achieve unprecedented things in that domain.
+But whenever I read these stories, I'm always left to wonder:
+What was the real price of that success?
+List Price vs. Real Price
+Our lives are shaped by two factors:
+The things we want.
+The price we have to pay to get those things.
+But the truth is that most of us spend all of our time on the former and very little on the latter.
+We think about all the things we want, but very rarely consider the price to get those things.
+In truth, life is a little bit like a superstore.
+You walk in and there's an infinite variety of things in front of you. And just like in a store, every single item has a price tag.
+There's a price to pay for anything you want to achieve in life.
+The key difference between life and the superstore is that in life, the price tag can lie.
+There's the List Price you see and the Real Price you don't:
+The List Price is the surface level price you pay for the thing you want. It's the obvious. The effort, hard work, discipline, and energy required to buy or earn that thing.
+The Real Price is beneath the surface. It's hidden. Indirect. Often paid in the form of tradeoffs, opportunity cost, and regrets. It's all the things you said no to by saying yes to this one thing.
+If there's one thing I've come to understand, it's this:
+A lot of things in life look like a great deal on the List Price, but feel like a ripoff on the Real Price.
+A Few Questions To Ask Yourself
+So, what do we do with this information?
+Well, I can tell you what I'm doing, which is asking better questions about the things I want before I take them on.
+The questions are focused on helping me deeply consider the Real Price before I've had to pay it.
+Here are the questions I'm focusing on (which you can steal):
+1. What am I saying no to by saying yes to this?
+Every yes carries an invisible no.
+That promotion you're chasing means less time for your health or hobbies. That new business venture means less time for your family or sleep.
+It's easy to name the thing you get; it's harder to name the thing you're implicitly giving up.
+I was recently offered an interesting opportunity with a meaningful financial reward. It seemed compelling on the surface. But it would have meant saying no to a lot of spring and summer evenings with my son while I was on the road chasing the new opportunity.
+The Real Price was more expensive than what I was willing to pay.
+2. Are the most painful tradeoffs seasonal or permanent?
+Sometimes you may face a painfully high Real Price, but one that's seasonal, rather than permanent.
+In other words, it has an expiration date. You know you'll have to make a lot of painful tradeoffs, but for a defined window of time.
+These seasonal tradeoffs are common in your early career years as you build your professional and financial compounding engine.
+It may make sense to take on that challenging new role that'll necessitate a lot of late nights and travel if there's a clear end date and a significant benefit to your family and stability.
+But beware the trap of seasonal tradeoffs that become permanent when the action itself becomes a part of your identity. Too many people dive into the late nights thinking it'll be a season, but then find themselves enmeshed in the identity of a person who always works late.
+3. Would I trade lives with the person who has the thing I want?
+This is the question that brings it all together for me (and comes full circle to the opening line of this piece).
+It's not do I want what they have? It's would I want their whole life to get it?
+Jakob Fugger had $400 billion, was the richest man in the world, but died alone.
+That's the problem with comparison. It's easy to compare on a single plane but lose sight of the full, three-dimensional picture.
+If you wouldn't want the 3D version, you shouldn't chase their path towards the 2D one.
+The Price You're Willing to Pay
+I spent the first 30 years of my life thinking that I had to build something enormous, be extraordinarily rich or famous, or have some large buildings named after me.
+But while the world certainly needs some people to continue thinking like that, as I've gotten older, I've realized that the Real Price of those things is not one that I'm willing to pay (at least not in this season of my life).
+Because I feel the richest when I'm able to take my son to the carousel at 1pm on a Tuesday.
+And that's just not something I'm willing to give up.
+P.S. If you enjoyed this, I wrote a NYT bestselling book that goes deeper on these topics to help you build a life you love. you can order it here!
+Order My First Book to Redefine Success:
+The 5 Types of Wealth is the compass for your journey to a life of wealth that goes far beyond money. It provides the actionable tools to define, measure, and design your life around the pillars that truly create lasting happiness and fulfillment.
+It will help you find your True North and build your life around it.
+Order now and you'll unlock several new, exclusive bonuses:
+Access to my Most Powerful Life Hacks Ebook: 50 timeless insights for simplifying your world and living well.
+Access to The 5 Types of Wealth Digital Community: Join a vibrant group of like-minded individuals committed to creating a life of comprehensive wealth. Connect, collaborate, and grow together.
+Access to The 5 Types of Wealth Launch Workshop: Get exclusive access to the full recording of this transformative virtual workshop, where I’ll guide you through specific exercises designed to help you apply the principles of the book. Watch it anytime at your convenience!
+I started taking AG1 way before it was trendy or anyone knew about it––in 2011 when I needed to up my health game while playing college baseball. I was one of their first customers and fell in love with it. I took it consistently for over 10 years before asking the CEO for a link to share with family and friends.
+The newly upgraded AG1 Next Gen is backed by four clinical trials and features five clinically studied probiotics, functional mushrooms, and whole food-sourced nutrients to support gut health, immune function, and sustained energy.
+AG1 is offering my amazing Curiosity Chronicle subscribers a FREE Welcome Kit including Vitamin D3+K2 and AG1 Travel packs when you first subscribe.

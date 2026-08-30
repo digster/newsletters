@@ -1,0 +1,11 @@
+---
+id: "19cd27fead34ca31"
+subject: "Why ML feels like a black box"
+from: "The Palindrome <thepalindrome@substack.com>"
+to: ""
+date: 2026-03-09 12:05:08
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tivadar Danka", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_3571324877567057163", "UNREAD"]
+---
+Hi there! It’s Tivadar from The Palindrome. Most people approach Machine Learning as a collection of libraries. If you know the basics of PyTorch and HuggingFace, you can build a working model. But there is a ceiling to how far user-level knowledge can take you. When the model doesn’t perform, or the loss function behaves erratically, or you need to read a paper to implement a new architecture, high-level libraries are not enough. You need the underlying language. You need the math. Throughout my decade-long career as a researcher, engineer, and educator, I constantly saw that the math is the “missing piece” that turns a mere user into an expert. That’s why I’m hosting a live Mathematics of Machine Learning workshop on March 21th, 15:00 CET (which is 6:00 PT and 9:00 EST). This isn’t your typical university lecture. We are going to look at the “first principles” that make modern machine learning work. We’ll be covering: what vectors and matrices are, how to work with them in Python, and why they are essential, how to build linear regression from scratch, with hand-written gradient descent in pure NumPy (this is absolutely essential to understand for every machine learning engineer), and if time allows, we’ll see how probability theory enables making decisions under uncertainty.
+How to attend: This workshop is a dedicated deep dive for the paid members of The Palindrome, and it will be streamed live on Substack for paid subscribers. If you are already a premium subscriber, you’ll receive the link automatically. If you’ve been waiting for the right time to join our premium community, this is it. I’ll see you there! Cheers, |

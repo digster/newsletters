@@ -1,0 +1,24 @@
+---
+id: "19e424d95dafd868"
+subject: "Childhood And Education #19: Letting Kids Be Kids #2"
+from: "\"Zvi Mowshowitz from Don't Worry About the Vase\" <thezvi@substack.com>"
+to: ""
+date: 2026-05-19 22:11:00
+labels: ["CATEGORY_PERSONAL", "IMPORTANT", "INBOX", "UNREAD", "Zvi Mowshowitz"]
+label_ids: ["CATEGORY_PERSONAL", "IMPORTANT", "INBOX", "UNREAD", "Label_3336704411007769646"]
+---
+I cannot emphasize enough the need to let kids be kids. In I’ll go over a refresher of that, some related new anecdotes, and then some other related questions. People Don’t Let Kids Do ThingsAs a refresher, here are some quotes and statistics from last time, because I really do think exposure to this type of thing needs to involve spaced repetition to sink in:
+45% have not walked in a different aisle than their parents at a store 56% have not talked with a neighbor without their parents 61% have not made plans with friends without adults helping them 62% have not walked/biked somewhere (a store, park, school) without an adult 63% have not built a structure outside (for example, a fort or treehouse) 67% have not done work that they’ve been paid for (e.g., mowing lawns, shoveling snow, babysitting) 71% have not used a sharp knife
+Half The People Are Worse Than AverageAs crazy as the statistics are, the anecdotes show how much worse it can get. The original context here was: A mother was saying she wouldn’t let her 13 year old go to a friend’s house, because they wouldn’t let that mother stay to watch.
+Let Your Children PlayYes, it is actively good for children to learn to entertain themselves, at the earliest age possible. As a bonus, it is also excellent for you the parent, but it’s great for them too. We used to know this. Now we need to be reminded.
+The problem, of course, is not any threat other than CPS. Don’t Fear The CPSAnd yet, somehow, even with direct observation many people think you shouldn’t be able to go two doors down. And by shouldn’t, some of them say (I hope she means only if they actually do it, not because they simply think it was okay in theory, but I’m not sure):
+This behavior is obviously fine except insofar as someone might call CPS, but even if it wasn’t fine, it’s crazy to think about what that call implies.
+DaycareThere is wide variance in the substance and quality of daycare, and also daycare is often not like preschool. There are some good ones, a lot that don’t care very much, and some that are outright abusive.
+Those quote tweets? Here are four of the first five.
+And then there’s this one:
+There are some pro daycare takes too, but the majority responding have trauma here, often involving actual abuse. Obvious selection is involved in who responded but that seems like it is an important thing to know about daycare. Daycare CostsDaycare costs are, as we all know, completely out of control, with the price of child care now
+LyingI am fully with Mason here, either you should be a Trustworthy Oracle who never lies (I choose this route) or a Trickster Mentor who lies constantly. I’ve chosen Trustworthy Oracle, even though Trickster Mentor is more fun. For my kids in particular it’s clear Oracle is the only way. I’m not going around telling kids Santa is a lie but seriously what are you doing.
+Iterated GamesA puzzle for you.
+Different Kids Are Different
+Yep. I have three children and very much can report three very different experiences. That’s all the more reason that society enforcing supervisory norms so aggressively is terrible. There are nonzero children for which those norms make some sense, but no one can tell the difference. PunishmentsYou cannot raise a child without punishment. You can only choose the form of the destructor, and pretend it has a different name.
+But a punishment is any negative consequence of an action. In terms of ‘are you doing punishments?’ we need to focus on outcomes not rationalized intent, because that is what will be experienced and updated upon and anticipated. Actions have consequences. Actions need to have consequences. If you don’t sculpt the incentives provided to children, then they will respond to incentives you did not sculpt rather than those that you do. There will always be things you don’t allow, if only for short term physical safety, and there will need to be ways to enforce this. We are all, each of us, talking price. The problem is that modern parenting philosophy rules out all sorts of punishments, especially those framed as punishments, as somehow damaging, ineffective or both. Often I am told that consequences have to be immediate and local, but also that they can’t be things that actually matter. We give our kids dessert every evening, and the true primary reason we do that is that it then creates something we can take away, since every time I say ‘send them to bed without their supper’ suddenly I’m the You're currently a free subscriber to |

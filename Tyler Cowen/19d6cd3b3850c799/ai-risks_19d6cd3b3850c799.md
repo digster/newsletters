@@ -1,0 +1,14 @@
+---
+id: "19d6cd3b3850c799"
+subject: "AI Risks"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2026-04-08 11:21:45
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+Two new papers/initiatives indicate severe risks from AI, interestingly in opposite directions. The first is that the most advanced frontier models are now capable of finding and exploiting software in ways that could be used to crash or control pretty much all the world's major systems.
+[Anthropic]: We formed Project Glasswing because of capabilities we’ve observed in a new frontier model trained by Anthropic that we believe could reshape cybersecurity. Claude Mythos2 Preview is a general-purpose, unreleased frontier model that reveals a stark fact: AI models have reached a level of coding capability where they can surpass all but the most skilled humans at finding and exploiting software vulnerabilities.Mythos Preview has already found thousands of high-severity vulnerabilities, including some in every major operating system and web browser. Given the rate of AI progress, it will not be long before such capabilities proliferate, potentially beyond actors who are committed to deploying them safely. The fallout—for economies, public safety, and national security—could be severe. Project Glasswing is an urgent attempt to put these capabilities to work for defensive purposes.
+That's from Anthropic. The irony is that the company that has developed a frontier model capable of infiltrating and undermining more or less any computer system in the world is the one that has been forbidden from working with the US government. It's as if a private firm developed nuclear weapons and the American government refused to work with them because they were too woke. Okey dokey.
+The second paper on AI risks is [AI Agent Traps](https://marginalrevolution.com?action=user_content_redirect&uuid=526e74349cf4de5fb743558678d1d6230c030a93bf17211521c58b0d6d5d7fdf&blog_id=42693868&post_id=92792&user_id=262258391&subs_id=225460721&signature=afc677aa910e692d2f193e49b8113c2a&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly9wYXBlcnMuc3Nybi5jb20vc29sMy9wYXBlcnMuY2ZtP2Fic3RyYWN0X2lkPTYzNzI0Mzg&email_id=b1e833f23db1a5fcf9cd93b4cd239211) from Google DeepMind. They point out that AI agents on the web are vulnerable to all kinds of attacks from things like text in html never read by humans, hidden commands in pdfs, commands encoded in the pixels of images using steganography and so forth.
+Putting this together we have the worrying combination that very powerful AI's are very vulnerable. Will AI solve the problems of AI? Eventually the software will be made secure but weird things happen in arms races and its going to be a bump ride.

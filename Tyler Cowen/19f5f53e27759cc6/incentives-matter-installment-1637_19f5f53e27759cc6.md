@@ -1,0 +1,12 @@
+---
+id: "19f5f53e27759cc6"
+subject: "Incentives matter, installment #1637"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2026-07-14 06:32:40
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+I had long wondered about this:
+Performance metrics can misalign individual and organizational incentives. We study a clean case: an NBA player holding the ball as a quarter expires must choose between a low-probability "heave" that can only help his team and protecting his shooting statistics. We model this decision as a metric-driven principal-agent problem and test it using play-by-play data from 2015-16 through 2025-26, exploiting the 2025-26 Heave Rule, which removed the individual statistical penalty for end-of-quarter heaves. Before the reform, players heaved on 58 percent of opportunities; reluctance was concentrated among efficient shooters and players in contract years, as the model predicts. After the reform, the heave rate jumped to 94 percent, the efficiency gradient collapsed, and difference-indifferences estimates using the untreated fourth quarter confirm the effect is sharp, immediate, and smallest among the players with the least efficiency to protect. Removing a metric distortion realigned individual behavior with team objectives almost completely.
+That is from [a recent paper](https://marginalrevolution.com?action=user_content_redirect&uuid=b06b45262eb6d47603bcdc4891aec820081d018069eae0e145b4d34b5129b548&blog_id=42693868&post_id=93396&user_id=262258391&subs_id=225460721&signature=a7c8904f691ceb4783b0b1d78990eb45&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly9wYXBlcnMuc3Nybi5jb20vc29sMy9wYXBlcnMuY2ZtP2Fic3RyYWN0X2lkPTcwNzMwMTg&email_id=c4725869c4aae5e78e20fcee686b9c62) by James W. Kemper and Noah Liptack,titled "Overcoming Misaligned Incentives: Evidence from the NBA Heave Rule." Via the excellent [Kevin Lewis](https://marginalrevolution.com?action=user_content_redirect&uuid=070a8c5c0f6f1e285a3c331e64d111907c14aca7ec5c89c64b93141a21b0bae7&blog_id=42693868&post_id=93396&user_id=262258391&subs_id=225460721&signature=7ab740eb4f2549a458985da71642611a&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly93d3cubmF0aW9uYWxhZmZhaXJzLmNvbS9ibG9nL2RldGFpbC9maW5kaW5ncy1hLWRhaWx5LXJvdW5kdXAvcHJvamVjdGluZy1jYXJl&email_id=c4725869c4aae5e78e20fcee686b9c62).

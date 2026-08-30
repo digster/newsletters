@@ -1,0 +1,11 @@
+---
+id: "19d1e0e554515fc9"
+subject: "The rise of China as a global innovator in pharma (incentives matter)"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2026-03-24 04:15:48
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+This paper examines China’s transition from pharmaceutical “free rider” to global innovator over the last decade. In 2010, China accounted for less than 8% of global clinical trials; by 2020, it had surpassed the US in annual registered clinical trial volume. To study this transformation, we compile a comprehensive, synchronized database spanning the pharmaceutical drug development supply chain, covering scientific publications, clinical trials, drug development milestones for China, the U.S., and Europe, alongside drug sales and government policies over the same period. We provide strong evidence that China’s rise was primarily driven by the National Reimbursement Drug List (NRDL) reform, which dramatically expanded the effective market size for innovative drugs. We document a sharp rise in both the quantity (86% increase) and novelty of drug trials post reform, with growth concentrated in reform-exposed disease categories, first- or best-in-class drugs, and among domestic firms. A decomposition exercise reveals that the NRDL reform accounts for 43% of the growth in oncology trial activity, nearly doubling the combined contribution of upstream knowledge accumulation and talent flows (24%), while other government policies play a minor role. Finally, dynamic gains from induced innovation exceed the reform’s static gains in consumer access to innovative drugs by threefold, underscoring the importance of accounting for the reform’s long-run effects on innovation incentives in addition to near-term improvements in drug affordability.
+That is from [a new NBER working paper](https://marginalrevolution.com?action=user_content_redirect&uuid=407e0b8c1fd5883c5343e9f5cf59c1019f205cbff8c68dd852f3f4b79b9861d4&blog_id=42693868&post_id=92676&user_id=262258391&subs_id=225460721&signature=43722732bc76813733cc86ae6aaadc83&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly93d3cubmJlci5vcmcvcGFwZXJzL3czNDk3Nw=&email_id=7bbde8be3738406911ddac8a96c1de77) by

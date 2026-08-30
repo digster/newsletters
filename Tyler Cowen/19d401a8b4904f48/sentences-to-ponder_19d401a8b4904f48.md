@@ -1,0 +1,12 @@
+---
+id: "19d401a8b4904f48"
+subject: "Sentences to ponder"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2026-03-30 18:56:14
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+This matters for the AI question, and the book leaves it unfinished. If the breakthroughs of the past required social conditions, not just cognitive capacity, then what does it mean when the next breakthroughs are produced by systems that have no social conditions at all? A neural net does not need a university chair or financial independence from the church. It does not need to reorganize its commitments. It does not, in any recognizable sense, have commitments. The machine that replaces the marginalist is not a better marginalist. It is a different kind of thing entirely.
+That is from [Jônadas Techio](https://marginalrevolution.com?action=user_content_redirect&uuid=6260b642a928d5b28cc34173fed99e36e85feffc6fe3ff5611630a50026cbbcf&blog_id=42693868&post_id=92719&user_id=262258391&subs_id=225460721&signature=c71e9696102e677f831a2f58670587ca&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly93d3cuam9uYWRhcy5jb20v&email_id=5e385adc3448e8b8287ca0f03251cffc), presumably with LLMs, this[ review](https://marginalrevolution.com?action=user_content_redirect&uuid=1ab96f357b3e0e8f592a47885fd67a742d5c468dc447da42b78a433e1cad4e4b&blog_id=42693868&post_id=92719&user_id=262258391&subs_id=225460721&signature=e5310478d12143f470220ab23513e0af&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly93d3cuam9uYWRhcy5jb20vd3JpdGluZy9lc3NheXMvamV2b25zLW90aGVyLW1hY2hpbmU&email_id=5e385adc3448e8b8287ca0f03251cffc) of [The Marginal Revolution](https://marginalrevolution.com?action=user_content_redirect&uuid=d1f902a50d04b41be897df9a6eeb3f18e445493d06db6d5913542cd2d379978e&blog_id=42693868&post_id=92719&user_id=262258391&subs_id=225460721&signature=da8b6af2d0b2771a815f9bd9b61a3f59&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly90eWxlcmNvd2VuLmNvbS9tYXJnaW5hbC1yZXZvbHV0aW9uLWdlbmVyYXRpdmUtYm9vay8&email_id=5e385adc3448e8b8287ca0f03251cffc) is interesting throughout. And this:
+Maybe the book demonstrates only that Cowen personally remains good at something the field no longer needs.

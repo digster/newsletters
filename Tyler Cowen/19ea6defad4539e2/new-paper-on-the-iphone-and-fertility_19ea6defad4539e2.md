@@ -1,0 +1,11 @@
+---
+id: "19ea6defad4539e2"
+subject: "New paper on the iPhone and fertility"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2026-06-08 10:54:51
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+The U.S. general fertility rate has fallen by 22% since 2007, a sustained decline not readily explained by economic conditions, contraceptive use, housing or childcare costs, or other commonly cited factors. We assess the potential role of a different shock: the diffusion of the smartphone. The U.S. rollout of the iPhone, the first modern smartphone, provides a natural experiment: from June 2007 through February 2011, the device was sold only on AT&T, allowing us to identify its effect from variation in AT&T’s mobile broadband coverage. Entropy-balanced Poisson and synthetic difference-in-differences event studies imply that access to the iPhone reduced births by 4.5–8.0% at ages 15–19 and 3.2–6.6% at ages 20–24, with statistically significant but smaller declines among older cohorts. Placebo analyses applied to Verizon and Sprint’s pre-2011 coverage footprint are null. Taken together, these cohort effects imply that the diffusion of the iPhone deepened the decline in births among women under 30 while suppressing the rise in births among older women. Overall, the diffusion of the iPhone explains 33–52% of the decline in the general fertility rate among women aged 15–44. National-survey evidence on time use and sexual behavior is consistent with the iPhone reducing in-person interactions, increasing pornography use, and reducing sexual frequency.
+[That](https://marginalrevolution.com?action=user_content_redirect&uuid=b1dc4b41d3fd90574827fb7597978c9f7b558aa9d5d69fcb570ad669dd47e3b6&blog_id=42693868&post_id=93171&user_id=262258391&subs_id=225460721&signature=b9b04f1f068e94fa1c7bfee91a032d1f&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly93d3cubmJlci5vcmcvcGFwZXJzL3czNTMxMD91dG1fY2FtcGFpZ249bnR3aCZ1dG1fbWVkaXVtPWVtYWlsJnV0bV9zb3VyY2U9bnR3ZzE0&email_id=4fb3f098bc1b050b6f83168fb756178d) is from

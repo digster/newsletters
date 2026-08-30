@@ -1,0 +1,11 @@
+---
+id: "19f5cf93e67dcf3a"
+subject: "Persistent Inequality in Publishing in Economics"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2026-07-13 19:34:25
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+This paper documents new facts about concentration in publishing in economics. First, the profession grows downward . The number of economists grew almost sixfold since 1990, but new entrants publish in lower-tier journals while incumbents hold the top. Second, there is high and persistent concentration at the top. Along with the downward growth, the top-1% authors accounted for 38.4% of top-5 publication credit in 1990 and for 78.3% in 2025. Third, the persistence is widespread within cohorts, within subfields, and within gender. Fourth, new journals only slightly dilute concentration. Fifth, elite authors diversify on topics faster than the rest of the profession. We interpret the findings with a screening model of attention under information overload. The evidence is consistent with the model: as the field grows, citations concentrate on established work and the conditional citation premium of top-author papers narrows.
+[By Ricardo Dahis](https://marginalrevolution.com?action=user_content_redirect&uuid=5d62d5a87b6833b8e80e42e88d4a6d25c5163393870f5b26e8e1b6d37a91b62d&blog_id=42693868&post_id=93389&user_id=262258391&subs_id=225460721&signature=9eaaa693c7edec5bdb809dbf86caf6d3&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly9wYXBlcnRvb2wtdjItc3RvcmFnZS5zMy51cy1lYXN0LTEuYW1hem9uYXdzLmNvbS9SZVBFYy9tb3MvbW9zd3BzL3BhcGVyXzE3ODE4MzE2MDI5MjhfMzE5LnBkZg=&email_id=00043a300bcedf32876946ac3a510f8e), via the excellent [Samir Varma](https://marginalrevolution.com?action=user_content_redirect&uuid=b7ca1c7a8c004d2ca2e22837a2045da5a3ae4f9a0f7c293d2c17212380e689dc&blog_id=42693868&post_id=93389&user_id=262258391&subs_id=225460721&signature=edd736a4c4f58d5233384d449e369866&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly94LmNvbS9zYW1pcnZhcm1h&email_id=00043a300bcedf32876946ac3a510f8e).

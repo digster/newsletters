@@ -1,0 +1,12 @@
+---
+id: "19faf2dac015cbe0"
+subject: "What should I ask Jared Diamond?"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2026-07-29 18:40:33
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+Yes, I will be doing a Conversation with [him](https://marginalrevolution.com?action=user_content_redirect&uuid=c4040f1877d219fa336556dd0b67ba113cd70430c82826bbcac372934d1bf789&blog_id=42693868&post_id=93499&user_id=262258391&subs_id=225460721&signature=0ee04da4ccbb3913a9d884ea81928066&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvSmFyZWRfRGlhbW9uZA=&email_id=d4cf6ee6870df9112b887b8e2b981729). His whole career is fair game, though many of my questions will cover his forthcoming book [Profits, Prophets, Coaches, and Kings (When) Do Leaders Matter?](https://marginalrevolution.com?action=user_content_redirect&uuid=3d22647143e050f1cf9352461f24c17c3ff07dcdfedebe4be2933afc08f72d2a&blog_id=42693868&post_id=93499&user_id=262258391&subs_id=225460721&signature=8092b0ea51e1a6510a836d2871c50079&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9Qcm9maXRzLVByb3BoZXRzLUNvYWNoZXMtS2luZ3MtTGVhZGVycy9kcC8wMDYzNTE3NjYzL3JlZj1zcl8xXzE/Y3JpZD0yREY5TlFQNThWUldKJmRpYj1leUoySWpvaU1TSjkuMjdMRGRTeWlSU1QxcmJNUTdtNVhvMVh1RGxjTGtUa2w5ekY3djQ5d0tZM0dqSGowNzFRTjIwTHVjR0JKSUVwcy4zRGk3UmNwb1Q3aXZJSHhNYkV3bVVqWXdwMmJJc3ltM0xER0dVaDI2aUpnJmRpYl90YWc9c2Uma2V5d29yZHM9UHJvZml0cyUyQytQcm9waGV0cyUyQytDb2FjaGVzJTJDK2FuZCtLaW5ncyslMjhXaGVuJTI5K0RvK0xlYWRlcnMrTWF0dGVyJm5zZE9wdE91dFBhcmFtPXRydWUmcWlkPTE3ODUyODU0MjQmc3ByZWZpeD1wcm9maXRzJTJDK3Byb3BoZXRzJTJDK2NvYWNoZXMlMkMrYW5kK2tpbmdzK3doZW4rZG8rbGVhZGVycyttYXR0ZXIlMkNhcHMlMkMxNjUmc3I9OC0x&email_id=d4cf6ee6870df9112b887b8e2b981729)
+From the Amazon summary: "Now, in Profits, Prophets, Coaches and Kings, he studies leaders throughout time to answer the question: do the actions of individuals truly influence history? Or is humanity subject to larger historical, technological, cultural, geographical forces, far beyond the influence of individuals, no matter how powerful they may seem?"
+So what should I ask him?

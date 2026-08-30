@@ -1,0 +1,11 @@
+---
+id: "19e01352fbeb8696"
+subject: "AGI Could Lower Interest Rates"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2026-05-07 06:52:02
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+Standard models predict that expectations of artificial general intelligence (AGI) should elevate long-term interest rates. I show that this prediction need not hold. I develop a heterogeneous-agent asset pricing model in which AGI, or more broadly, transformative AI (TAI) capable of automating most human labor, can lower interest rates even as it dramatically accelerates growth. Under baseline calibrations, the risk-free rate falls to near zero despite growth rising from 2% to 11%, and the equity premium expands from 6% to over 20%. The effect on yields is negative and muted for all maturities, even under aggressive assumptions about the speed of AI adoption. These results advise caution when interpreting long-term bond yields as a signal of market expectations of transformative AI.
+That is from [a new paper](https://marginalrevolution.com?action=user_content_redirect&uuid=bf0f1799956e634ff295fa8f0ba972a964c380c1d99a9b4a64c9b858d6d56ffa&blog_id=42693868&post_id=92956&user_id=262258391&subs_id=225460721&signature=f0ca15b03f2643c7ffe7b0b67edb72f6&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly9wYXBlcnMuc3Nybi5jb20vc29sMy9wYXBlcnMuY2ZtP2Fic3RyYWN0X2lkPTY1MTQ3ODE&email_id=4af6741bbed847de8696bb61ea6e24a8) by Caleb Maresca of NYU. Via the excellent [Kevin Lewis](https://marginalrevolution.com?action=user_content_redirect&uuid=84774bdb98eacbde381107ebb22e0b124f68f4be0a9513cd0f8b9e1eb762b0e6&blog_id=42693868&post_id=92956&user_id=262258391&subs_id=225460721&signature=2f83ab56ab904a6d60e5fcbc3984b3cb&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly93d3cubmF0aW9uYWxhZmZhaXJzLmNvbS9ibG9nL2RldGFpbC9maW5kaW5ncy1hLWRhaWx5LXJvdW5kdXAvbW9uZXktc3VwcGxpZXM&email_id=4af6741bbed847de8696bb61ea6e24a8).

@@ -1,0 +1,34 @@
+---
+id: "19e02279f87159e3"
+subject: "How AI Could Help Cure Pancreatic Cancer"
+from: "Derek Thompson <derekthompson@substack.com>"
+to: ""
+date: 2026-05-07 10:07:48
+labels: ["CATEGORY_PERSONAL", "Derek Thompson", "INBOX", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "Label_8084010501914573198", "INBOX", "UNREAD"]
+---
+|
+Pancreatic cancer kills nearly more than 50,000 Americans each year. By the end of the decade, it may be the single most lethal cancer in the country. Millions of people around the world have, like me, lost family and friends to the disease.
+There are three reasons why pancreatic cancer has evaded modern science.
+The first reason is genetic. Most pancreatic cancers are driven by a mutation in a gene called KRAS, and for forty years KRAS has been considered “undruggable” — a smooth, slippery target that no doctor’s molecule could grab onto.
+The second reason is our immune system. Pancreatic cancers carry relatively few mutations, which means they don’t wave many red flags for our T cells to go out and kill. They grow quietly, in the dark, for years.
+The third reason is that the signs of pancreatic cancer are so subtle that they’re practically invisible on normal scans. Even best radiologists literally cannot see it until it has metastasized, at which point it is often untreatable.
+But in just the last few weeks, we’ve gotten remarkable news on all three front fronts.
+In April, a company called Revolution Medicines reported
+[“unprecedented” results](https://substack.com/redirect/f66b4202-4b4c-419e-bf96-56afb13d0276?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)from a small trial of a new drug that target genetic mutations directly. In patients with late-stage pancreatic cancer, the drug shrank tumors in nearly half of those treated. Last week, the FDA gave Revolution Medicines a green light to expand access to the medicine.A team at Memorial Sloan Kettering and the German company BioNTech reported follow-up data on something even stranger and potentially more remarkable: a personalized mRNA vaccine, built using the same technology behind the COVID shots, that teaches the immune system to recognize a patient’s own cancer. These so-called “secondary vaccines” could be administered to patients after a surgery to prevent regrowth.
+Last week, a team at the Mayo Clinic, led by Ajit Goenka, published a new paper in the journal Gut, proving that a new AI system called REDMOD could read and identify subtle signs of pancreatic cancer in years-old screenings that even the best radiologists had missed.
+In the Mayo study, scientists went back through the records of roughly 5,000 patients who had already been diagnosed with pancreatic cancer and pulled up old CT scans taken years before anyone knew their cancer was coming. To test the AI system, they added a control group of patients who never developed cancer, matched by age, sex, and scan date, at a ratio of about 6-to-1, to simulate the conditions of real-world screening.
+The results were remarkable: On an independent test set of 493 scans, REDMOD detected the invisible signature of future pancreatic cancer with significant accuracy at a median lead time of 475 days before diagnosis. In other words, this AI program could detect cancer 40 months before the best doctors. Most importantly, REDMOD didn’t cheat. The team prevented the AI from cheating in several ways by making it impossible for the AI to use electronic records to identify scans where a mass was determined to be “present but overlooked.”
+Put it all together: (1) A drug that targets the gene driving most pancreatic cancer; (2) a vaccine that teaches the immune system to recognize the disease after surgery; (3) an AI system that can find cancer in scans years before any human radiologist would catch it; and (4) add to that a new concept we discuss later in this interview called “preclinical interception” … and, for the first time, the deadliest cancer in America looks like it is on the way to becoming a treatable condition that is detected early, intercepted, managed, and even cured.
+Dr. Ajit Goenka is a radiologist at the Mayo Clinic who studies AI imaging and was the lead author of the new AI radiology study. We talk about his research, why AI seems so good at finding cancer, whether this news is (as some AI stories turn out to be) too good to be true, and what medicine might look like in a world where artificial intelligence can read our bodies better than human doctors can. [This interview](https://substack.com/redirect/c91b0c61-449c-45fd-86d1-ef6dae25cc78?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) has been edited for clarity and brevity with additional annotations.
+Derek Thompson: Your remarkable new study of AI, radiology, and pancreatic cancer was [published in the journal ](https://substack.com/redirect/52d7f3f4-822a-4d64-a2fe-3e85cf2f0744?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)[Gut](https://substack.com/redirect/52d7f3f4-822a-4d64-a2fe-3e85cf2f0744?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o). Give me the headline.
+Ajit Goenka: More than 80 percent of patients who develop pancreatic cancer hear the words “you have cancer” at a stage where it is too late for them to do anything about it. What we are trying to do is flip that equation. We are trying to find mathematical signals in images that can tell us well before a visible tumor appears whether or not we can cure a particular patient. AI is just a tool we are utilizing to solve that problem. Our goal is early detection. And what this study shows is that it is eminently possible.
+Thompson: Why is it so hard for even expert human radiologists to see pancreatic cancer on a screening?
+Goenka: A lot of people believe is that maybe those radiologists are not competent or not paying enough attention. I can tell you through data-driven evidence that both of those assumptions are wrong. The real answer is that pancreatic cancer at its earliest stages is too subtle to be detected by the human eye alone, when it matters most.
+Thompson: What makes AI so good at seeing what expert radiologists cannot see on their own?
+Goenka: You can think of a CT scan image as a mathematical signal. Every pixel has a number. What the AI does is detect patterns in those numbers that reveal cancer developing in tissue that looks completely normal to an experienced radiologist.
+To see how Goenka’s lab used AI to catch pancreatic cancer more than two years early—and I mean, literally, to see it—this is the money shot from their paper:...
+Subscribe to Derek Thompson to keep reading this post and get 7 days of free access to the full post archives.
+| Frequent subscriber-only essays | |
+| Talk to me! Subscribers can leave comments and ask me questions | |
+| Read exclusive Q&As with readers about what I'm thinking |

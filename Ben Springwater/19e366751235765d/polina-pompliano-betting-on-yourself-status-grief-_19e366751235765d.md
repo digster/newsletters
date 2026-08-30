@@ -1,0 +1,31 @@
+---
+id: "19e366751235765d"
+subject: "Polina Pompliano: Betting on Yourself, Status, Grief, Memory, Travel, Hidden Genius"
+from: "Ben Springwater <matterreader@substack.com>"
+to: ""
+date: 2026-05-17 14:45:55
+labels: ["Ben Springwater", "CATEGORY_PERSONAL", "INBOX", "UNREAD"]
+label_ids: ["Label_656938182101901423", "CATEGORY_PERSONAL", "INBOX", "UNREAD"]
+---
+Welcome to a new issue of Words That Matter! Each week, we invite a guest curator to share the reading that matters most to them.
+Polina Pompliano ([@polinapompliano](https://substack.com/redirect/beae7eee-74d8-44a7-b721-832371132bce?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) is the founder of [The Profile](https://substack.com/redirect/6e7ea004-15c7-43b8-9cc1-b3b85732c0d5?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o), an independent media company known for longform profiles of influential founders, investors, athletes, executives, and cultural figures. Before launching The Profile in 2017, she spent five years at Fortune, where she wrote Term Sheet, the publication’s daily newsletter on venture capital and private equity. She is also the author of [Hidden Genius: The Secret Ways of Thinking That Power the World’s Most Successful People](https://substack.com/redirect/475773d7-07ae-4327-a281-230571ca32bc?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o), a book about how exceptional people reason through problems, use creativity, and perform under pressure.
+Please enjoy these works and words that have mattered to Polina!
+Anna Quindlen | 1999
+This powerful speech is what gave me the courage to leave my full-time job at FORTUNE Magazine to pursue The Profile full-time. Her words have encouraged me to bet on myself time and time again.
+Quindlen argues that success has to be measured internally, not just by how it looks to the world.
+Taffy Brodesser-Akner | 2018
+This is one of my favorite profiles because it achieves the impossible: it turns a celebrity profile into a case study on ambition, motherhood, and status. What I love most about Taffy Brodesser-Akner (the writer of the piece) is that her profiles are almost never just about the subject. She explores the culture orbiting around the subject and, in the process, reveals something uncomfortable and true about all of us. Her writing is psychologically precise, funny, and skeptical. This profile is a work of art.
+Wright Thompson | 2016
+This incredible profile is about Tiger Woods, but it’s not really about Tiger Woods. It’s about anyone who has ever experienced profound loss, grief, and inexplicable loneliness. Wright Thompson — the writer of the piece — said: “Profiles are about figuring out what is a central complication of somebody’s life and how, on a daily basis, they go about solving it.”
+Colson Whitehead | 2001
+Every Sept. 11, I share Colson Whitehead’s Lost and Found essay, which was published two months after the Twin Tower attacks. The article is a moving tribute to New York City and the Twin Towers, but it’s also about how our identities are shaped by our own, personalized memories of the places we live.
+Whitehead writes that “our streets are calendars,” and that our old places become proof of who we were and where we have been.
+Lawrence Yeo | 2019
+Lawrence Yeo explores different facets of the human condition — from death and fear to anxiety and self-doubt — through thoughtful essays paired with playful illustrations. This particular piece argues that travel, contrary to popular belief, isn’t necessarily the key to happiness.
+Edith Eger | 2017
+In her memoir, Edith Eger recounts her journey from Auschwitz survivor to renowned psychologist. She describes the unimaginable experiences she endured, including being forced to dance for the infamous “Angel of Death,” Josef Mengele. Eger reflects on how surviving the horrors of the Holocaust ultimately taught her how to live again with unshakable resilience and hope. This is one of the best books I’ve ever read.
+[The Profile](https://substack.com/redirect/6e7ea004-15c7-43b8-9cc1-b3b85732c0d5?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) - Polina’s original profiles, columns, dossiers, interviews, learning guides, and newsletter editions from the last nine years live here. Recent profiles include pieces on Saquon Barkley, Ryan Serhant, Anthony Scaramucci, Kathryn Wylde, and Jake and Logan Paul.
+[Hidden Genius](https://substack.com/redirect/475773d7-07ae-4327-a281-230571ca32bc?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) - Polina’s book studies how high performers reason through problems, unleash their creativity, navigate relationships, and perform under pressure.
+Today’s issue is brought to you by [Matter](https://substack.com/redirect/193d0239-2903-4a73-b80b-4a85ebfebe60?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o).
+[Matter](https://substack.com/redirect/193d0239-2903-4a73-b80b-4a85ebfebe60?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) is the modern read-later app for serious readers. Since Pocket shut down last fall, tens of thousands of readers have made Matter their new home.
+Designed for Apple, Matter has earned multiple App of the Day honors and won [MacStories’ 2025 Feature of the Year](https://substack.com/redirect/730c9008-72f0-4a22-a2b4-17c0af26ee82?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) for its ultra-realistic text to speech. It’s been recommended by Tim Ferriss, Patrick Collison, the Acquired Podcast, and The Wall Street Journal, among others.

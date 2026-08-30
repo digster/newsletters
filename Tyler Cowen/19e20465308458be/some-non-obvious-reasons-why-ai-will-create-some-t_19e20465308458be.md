@@ -1,0 +1,15 @@
+---
+id: "19e20465308458be"
+subject: "Some non-obvious reasons why AI will create some transitional problems in employment"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2026-05-13 07:39:00
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+I do not find the mass unemployment hypothesis persuasive, and I have covered this extensively in the past. But here are three other problems which may end up being noticeable in the short run, though likely absent longer term:
+1. Many of the new jobs to be created may come in highly regulated sectors, and that will slow their creation. Energy and health care -- especially biomedical trials -- are two examples I have in mind here. Let's say we opt for more nuclear power to ease constraints of compute -- how long will it take for most of those jobs to come on line?
+2. At least initially, job search and matching might be less efficient. We have lots of practice judging which workers are best for which jobs in a pre-AI world. But say most jobs involve working with AI in some manner? How well can actual HR departments judge who is good at that? Are the HR departments themselves even decent at that?
+So expect slower matches, though at some point AI itself might give us better and faster labor market matches.
+3. Government fiscal policy might be less effective at putting people to work in an efficient manner, given that the government is likely, at least for some while, to be a poor judge of who is good at working with AI. That may slow hiring, or lead to quicker dismissals and quits, or simply result is less output from the fiscal policy investments, thus making them less effective.
+These features of the problem all could use a bit more consideration, and likely there are others I have not thought of.

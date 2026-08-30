@@ -1,0 +1,16 @@
+---
+id: "19efe84f91473bd1"
+subject: "New Business Formation is Surging–Again."
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2026-06-25 11:23:07
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+New business formation is surging--again.
+Business formation first jumped in 2020 as the pandemic reorganized work, shopping and logistics. After the pandemic ended, business formation leveled off, but it did not return to its old path. It remained historically high. Moreover, in the past 18 months or so business formation has surged again. Registered Agents Inc tracks new Articles of Organization or Incorporation filed in the 50 states and [they report](https://marginalrevolution.com?action=user_content_redirect&uuid=25664e139f2cd358845b59e512a37288c6f5f1e42239703393724052edd2244e&blog_id=42693868&post_id=93274&user_id=262258391&subs_id=225460721&signature=c090b33c7b8123030a7592a5a20cdbe5&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly93d3cucmVnaXN0ZXJlZGFnZW50c2luYy5jb20vYnVzaW5lc3MtZm9ybWF0aW9uLXJlcG9ydC8&email_id=dd81397aae9b782292782f325726deba):
+Every month in 2026 has set a new formation record, including March, which stands as the highest single-month total in the history of the Business Formation Report. Through May, 2.9 million new businesses have been formed nationwide, the strongest five-month start on record.
+Stripe Economics agrees and calls this [the age of the solopreneur](https://marginalrevolution.com?action=user_content_redirect&uuid=ef1b79671ce9a8df99cb4a174de569a0cd9351755bb2c477fe39004a45f0d5ab&blog_id=42693868&post_id=93274&user_id=262258391&subs_id=225460721&signature=c27c0a164fc78cc31d594c03b57ec140&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly93d3cuc3RyaXBlZWNvbm9taWNzLmNvbS9wL3RoZS1hZ2Utb2YtdGhlLXNvbG9wcmVuZXVy&email_id=dd81397aae9b782292782f325726deba). Among businesses using Stripe, recent cohorts are reaching serious transaction volumes faster than earlier cohorts.
+The share of businesses (not just solopreneurs) reaching $1 million in cumulative revenue within a year after going live on Stripe was roughly 30% higher for the 2025 cohort as it was for the 2023 cohort, and it was roughly 3x higher for the 2025 cohort than the 2019 cohort.
+Furthermore, the trend is not just in the United States. France, where, as the story goes, they have no word for entrepreneur, has also seen business creation reach record levels, driven heavily by micro-entrepreneurs.
+The most likely explanation is the devolution of power. A single person armed with Stripe, Shopify, cloud software, automated bookkeeping, and now AI can do what once required a small staff. Dynamism had been on a long secular decline, but we may now be seeing the early stages of an experimental economy—one in which far more people can test ideas, reach customers, and launch firms, some of which will grow very large, very fast.

@@ -1,0 +1,11 @@
+---
+id: "19fd088973283c65"
+subject: "Victor Niederhoffer, RIP"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2026-08-05 06:07:19
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+In addition to his well-known public roles, he worked very hard to help and befriend me when I was younger. Here are [the Google searches for Victor](https://marginalrevolution.com?action=user_content_redirect&uuid=9ea90d9e99567a366db16a1f9ca95c14513735e225ab55b1f8ab90c277dbd67c&blog_id=42693868&post_id=93543&user_id=262258391&subs_id=225460721&signature=208ce3d74542606fd4c8528df6ce60b9&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS9zZWFyY2g/cT12aWN0b3IrbmllZGVyaG9mZmVyJnNjYV9lc3Y9ZDBiNDE5ZDFkYTZmMzE5MCZzeHNyZj1BUHBlUW50elJKclRvemx4ZlFDQl9VaFVCT2VCVm1sb1JRJTNBMTc4NTkwOTc3NjUxMiZzb3VyY2U9aHAmZWk9RU5KeWF0T1FITnExaS1nUF9jRFZ5UWcmaWZsc2lnPUFCSUx4ZThBQUFBQWFuTGdJUG1ERjJVdWIzUmFlX01ER1FQWmJKVVNnVkRZJmdzX3NzcD1lSnpqNHRUUDFUY3dLeWczTURWZzlCSXV5MHd1eVM5U3lNdE1UVWt0eXNoUFMwc3RBZ0NnYWdySCZvcT12aWN0b3IrbmlkJmdzX2xwPUVnZG5kM010ZDJsNklncDJhV04wYjNJZ2JtbGtLZ0lJQURJSkVDNFlDaGdMR0lBRU1na1FBQmlBQkJnS0dBc3lDUkFBR0lBRUdBb1lDeklKRUFBWWdBUVlDaGdMTWdrUUFCaUFCQmdLR0FzeUNSQUFHSUFFR0FvWUN6SUpFQUFZZ0FRWUNoZ0xNZ2tRQUJpQUJCZ0tHQXN5Q1JBQUdJQUVHQW9ZQ3pJSkVDNFlnQVFZQ2hnTFNPa2NVQUJZX1F0d0FIZ0FrQUVCbUFHTUFxQUJ1d3lxQVFVeExqY3VNcmdCQWNnQkFQZ0JBWmdDQ2FBQ3ZndkNBZ1VRQUJpQUJNSUNDeEF1R0lBRUdNY0JHTkVEd2dJTEVDNFlnQVFZeHdFWXJ3SENBZ1VRTGhpQUJKZ0RBSklIQlRFdU55NHhvQWVFb1FHeUJ3VXhMamN1TWJnSHZndkNCd1V5TFRVdU5NZ0hRb0FJQVEmc2NsaWVudD1nd3Mtd2l6&email_id=d0d19287f3ba50a2c2afd0886e040e46). Less well known about Victor is that he had one of the world's best collections of private letters. He also once gave me a very nice small painting by Jack Savitzky.
+|

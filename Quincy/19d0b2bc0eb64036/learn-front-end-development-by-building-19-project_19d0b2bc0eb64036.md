@@ -1,0 +1,33 @@
+---
+id: "19d0b2bc0eb64036"
+subject: "Learn Front-end Development by building 19 projects [Free 12-hour course on HTML, CSS, JavaScript]"
+from: "Quincy Larson <quincy@freecodecamp.org>"
+to: ""
+date: 2026-03-20 12:15:09
+labels: ["CATEGORY_PERSONAL", "IMPORTANT", "INBOX", "Quincy"]
+label_ids: ["CATEGORY_PERSONAL", "IMPORTANT", "INBOX", "Label_7697778124671848699"]
+---
+Here are this week's five freeCodeCamp resources that are worth your time:
+
+1. freeCodeCamp just published a new YouTube course that will teach you beginner Front-end Development skills like HTML, CSS, and JavaScript. You can code along at home and build a variety of projects: your own interactive quiz game, a currency converter app, and even a Trello-style kanban board. Along the way you'll learn how to use APIs and local storage to extend the functionality of these bite-sized apps. (12 hour YouTube course): https://www.freecodecamp.org/news/build-19-web-dev-projects-using-html-css-javascript/
+
+2. Learn how to properly test your software and ensure it doesn't break when you add new features. Prolific freeCodeCamp instructor Beau Carnes teaches this course. He'll introduce you to the Testing Pyramid and show you how to balance fast unit tests against complex end-to-end user journeys. You'll also learn how to automate some of this testing using an open source library called Playwright and an LLM testing tool. (1 hour YouTube course): https://www.freecodecamp.org/news/software-testing-with-playwright/
+
+3. On this week's podcast I interview Luke Ciciliano, a software engineer who has hundreds of freelance clients. He shares tips for building your own software consultancy in your city and winning clients. He's confident that AI tools are actually creating MORE potential small business customers, not fewer. He walks through how he engages clients and closes deals, and why he thinks building long-term relationships is the key. (1 hour watch or listen in your favorite podcast app): https://www.freecodecamp.org/news/how-to-land-freelance-clients-with-small-business-whisperer-luke-ciciliano-developer-interview-podcast-211/
+
+4. More and more apps are relying on probabilistic LLM output alongside deterministic API calls. This makes life harder for devs who now need to ensure that hallucinations don't escape to end users. freeCodeCamp just published this advanced observability tutorial that will teach you emerging best practices and architectural patterns for dealing with this. (40 minute read): https://www.freecodecamp.org/news/build-end-to-end-llm-observability-in-fastapi-with-opentelemetry/
+
+5. Learn how to containerize your MLOps pipelines. This tutorial is the result of hard-won deployment wisdom. The author spent three weeks debugging a Python library error due to dependency conflicts. His eventual answer: containerize entire project with Docker. This tutorial will show you how to structure your containers with multi-stage builds. You'll also learn how to set up experiment tracking with MLflow, versioning with DVC, GPU passthrough, and other advanced techniques. (40 minute read): https://www.freecodecamp.org/news/containerize-mlops-pipeline-from-training-to-serving/
+
+I hope you enjoy this range of both beginner and advanced tutorials. The freeCodeCamp community is working hard to teach you fundamental skills as well as emerging tools. If you're getting value out of these, then consider helping our charity do even more of this work. Donate and support open source education for all: https://www.freecodecamp.org/donate
+
+Quote of the Week: 
+“We don’t always appreciate how technologically illiterate a lot of society still is. No matter how low-code, no-code, or simple these tools become, there’s always going to be a large group of people who either can’t do it themselves or just won’t. They may be intimidated by it, or they may not want to risk doing it badly. I’ve come to appreciate that no matter how simple the tools get, there’s always going to be work there for somebody to do.” — Software Engineer and prolific freelance dev Luke Ciciliano on this week's freeCodeCamp podcast
+
+Until next week, happy coding.
+
+-- Quincy Larson
+
+Teacher and founder of freeCodeCamp.org
+
+If these aren't worth your time, you can turn them off: https://www.freecodecamp.org/ue/eZV2T3gHC7IGcwcpYPG64

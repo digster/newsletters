@@ -1,0 +1,12 @@
+---
+id: "19d9cb480dec73f7"
+subject: "That was then, this is now"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2026-04-17 18:29:27
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+From 1857:
+The Persians were great sticklers for ceremony, it turned out, and now that the treaty was ratified, they expected an exchange of gifts to mark the important occasion. At Spence's [a leading diplomat of the time] insistence, the United States spent $10,000 (close to $1 million in today's money) on diamond-studded snuffboxes and weapons for the shah. The State Department protested bitterly, as it was not in the habit of spending such outrageous sums, but Spence put his foot down, knowing that these gifts paled in comparison with what Persia had received from Napoleon and others. Spence's brother Charles was dispatched to Tehran to deliver the gifts in person -- a gesture the shah appreciated so much that he decorates the young man with the Order of the Lion and the Sun, the country's highest honor.
+That is from John Ghazvinian [America and Iran: A History, 1720 to the Present](https://marginalrevolution.com?action=user_content_redirect&uuid=1ab5f6a9714cf3fd6a122a4daa17800fe6baee57f12adff6ed826da9ec7f2fc9&blog_id=42693868&post_id=92847&user_id=262258391&subs_id=225460721&signature=5fb7888f7f2fee898c149e5217268b32&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9BbWVyaWNhLUlyYW4tSGlzdG9yeS0xNzIwLVByZXNlbnQvZHAvMDMwNzI3MTgxMS9yZWY9c3JfMV8xP2NyaWQ9MlVSR0ZMMFFIMFhWVCZkaWI9ZXlKMklqb2lNU0o5LmFUeGxQREVsUU1Vb1gzZk5ZOWIxcHFRS29DZmxHYS1XVUxaRGZVa29ZdVlRZzRMeWUxZEhaT1FFM2x5MXNNQ1NTXzBveFZRaFkxQlVjV3RZelR5RnhlWlNSMTRwQzU1SDVNRjBNbGZGeGFRNENldlRkamxfS25zQXBhd3FWMlJHRXVqMk01ME5uYVNENUo5dWZISGNfZjNZNW9CMXNCSFVvbXl2SnBUaEh4ZFRORzhBTjhWZjBVdG95Y2gzWUhvQ3pMSUJoNWx6X0w5d3ViTS1ITFRKaUp3aGFMeHFrdzJXRV9nS3ZHQ3o4bE0uSjJyRERHMXppbmRmRkZhMXN0SmUxUGFrVUItbm1WTEdCdFdxN1FPOUdXdyZkaWJfdGFnPXNlJmtleXdvcmRzPUFtZXJpY2ErYW5kK0lyYW4lM0ErQStIaXN0b3J5JTJDKzE3MjArdG8rdGhlK1ByZXNlbnQmbnNkT3B0T3V0UGFyYW09dHJ1ZSZxaWQ9MTc3NjM0MjA4MyZzcHJlZml4PWFtZXJpY2ErYW5kK2lyYW4rYStoaXN0b3J5JTJDKzE3MjArdG8rdGhlK3ByZXNlbnQlMkNhcHMlMkMxMTImc3I9OC0x&email_id=aae54f8938a9adbcc93f3e54d2980864), a very good book.

@@ -1,0 +1,11 @@
+---
+id: "19fbc18715b0c39d"
+subject: "Immigration and Macroeconomic Outcomes in OECD Countries"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2026-08-01 06:52:25
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+OECD countries experienced declining native population growth and rising net immigration over 1990-2024. We compile a new dataset of net immigration rates to OECD countries from all origins and show that most of the increase came from non-OECD countries and was predominantly high-skilled. Push factors, network effects, and policy indices explain little of the large cross-country heterogeneity in immigration dynamics; unexpected shocks and surges were common. Using local projections and several sources of identifying variation, we then estimate the relationship between immigration and growth in GDP per capita, labor productivity, capital investment, and total factor productivity (TFP). Immigration from non-OECD countries was a significant predictor of GDP per worker growth, primarily through higher investment. High-skilled immigration, in particular, was associated with stronger human capital accumulation, faster TFP growth, and greater capital deepening. Native population growth, by contrast, had no or weakly negative effects on GDP per capita and productivity. These results are consistent with a large literature documenting the positive productivity and growth effects of immigration, especially high-skilled immigration.
+That is from [a new NBER working paper](https://marginalrevolution.com?action=user_content_redirect&uuid=83f6b64b734e7e16128d812faca6dc0f3a45b2f5e87b31acdd08db88ded3f304&blog_id=42693868&post_id=93490&user_id=262258391&subs_id=225460721&signature=a95d3f528db787f64baeb1beebd213dd&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly93d3cubmJlci5vcmcvcGFwZXJzL3czNTUyMyNmcm9tcnNz&email_id=1846a6e3d9e4373c61161dc0f1187861) from

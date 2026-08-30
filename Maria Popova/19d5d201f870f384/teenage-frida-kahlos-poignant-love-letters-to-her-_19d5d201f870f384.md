@@ -1,0 +1,88 @@
+---
+id: "19d5d201f870f384"
+subject: "Teenage Frida Kahlo's poignant love letters to her first love, how flamingos got their pink, and a poem"
+from: "The Marginalian by Maria Popova <newsletter@themarginalian.org>"
+to: ""
+date: 2026-04-05 10:02:14
+labels: ["CATEGORY_PERSONAL", "INBOX", "Maria Popova", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_464868432690921211", "UNREAD"]
+---
+One of the 35 girls among the 2,000 students at Mexico’s National Preparatory School, Frida Kahlo (July 6, 1907–July 13, 1954) was fifteen when she met Alejandro Gómez Arias. Both were passionate and erudite, both were members of the anarchist student group known as Los Cachuchas for the pointed cloth caps they wore in defiance of the era’s restrictive dress code, both became each other’s first love. Alejandro was on the bus with Frida that fateful late-summer day shortly after her eighteenth birthday when a tram collision killed several other passengers and left her so severely injured — her pelvis fractured, her stomach and uterus punctured by a rail, her spine broken in three places and her leg in eleven — that the doctors at the Red Cross Hospital did not think she could be saved. It was Alejandro’s unrelenting insistence that made them try. Against all odds, Frida lived — but her life was irrevocably changed. How she coped with what she had to live through in turn changed the history of art.
+Her letters to Alejandro, collected in the altogether stirring volume [Frida Kahlo: Love Letters](https://themarginalian.us2.list-manage.com/track/click?u=13eb080d8a315477042e0d5b1&id=031ad4b666&e=a81b7681f8) ([public library](https://themarginalian.us2.list-manage.com/track/click?u=13eb080d8a315477042e0d5b1&id=661203e0da&e=a81b7681f8)) edited by Suzanne Barbezat, offer a rare glimpse of her becoming — as an artist, as a lover, as a person who lived with extraordinary vulnerability, extraordinary courage, and the precocious awareness that the conversation between the two is the measure of a life.
+From the outset, her letters command and caress at the same time. “Write to me often and long, the longer the better,” she urges him in one. “On Saturday I’ll bring your sweater, your books and a lot of violets,” she tells him in another. She takes love as seriously as it ought to be taken but also knows it dies without play: “Sorry about constantly repeating the word ‘love’ five times in a row, but it’s just that I’m very silly.” She signs herself “your pretty girl (monkey face),” “your girl, buddy, woman or whatever you like,” “your sister (girlfriend, buddy, wife).” (It starts so early, that trembling gamble of the heart by which a person tries to discern what they mean to another.) Over and over, she offers glimpses into her uncommon inner world. In a letter penned the summer she turned seventeen, after some arrangements for how they can see each other — Frida’s parents disapproved of the relationship — she writes:
+Now I’m going to read Salambo until half past 10, it’s 8 o’clock now, and then the Bible in three volumes and, finally, think for a while about huge scientific problems and then go to bed, and sleep until half past 7 in the morning, eh? Until tomorrow, may we have a good night and may we both think that great friends must love each other very, very much, much, much, much, much, mucho . . . with “m” for music or for “mundo.”
+A month later, she offers that lovely unasked assurance that makes a fragile young love feel safe and solid:
+My Alex, since I won’t see you for two days and I miss you so much, I’m writing you this so that you will start to believe something that you don’t believe, but which is very true.
+And then, beneath a drawing, she adds:
+Please forgive me for not writing any more but I started to draw the doll at 9 and it took me an astronomical three quarters of an hour to draw and another half hour to write, so it’s about 10 now and you know that makes me sleepy like the hens, but I’ll keep writing this letter in my dreams and you know that I would write enough to fill at least a thousand pages.
+I love you very much.
+Your pretty girl (monkey face)
+On Christmas Day, she tells him:
+My Alex: I loved you since I first saw you. What do you say to that? Since we probably won’t see each other for several days, I’m going to beg you not to forget your little woman, eh?
+[…]
+You must like easy things… I would like to be even easier, a tiny little thing that you could just carry in your pocket always, always… Alex, write to me often and even if it’s not true, tell me that you care for me a lot and that you can’t live without me…
+Your girl, buddy, woman or whatever you like
+Frieda
+Punctuating the teenage ardor is the stuff of life — she tells him about taking classes in shorthand and typing so as not to waste money on paying the telegraph operator, tells him about applying for a job at the Education Library for four pesos an hour, tells him about her material and domestic struggles, but always places him above all else. When he gets sick, she writes to him:
+Right now the only thing I want is for you to get better and all the rest is in 5th and 6th place, because in 1st to 4th place is that you get better and that you love me… Get better very, very soon and think about me a little bit, that’s what your sister (girlfriend, buddy, wife) wants.
+She couldn’t have known, in comforting him through his minor ailment, that only a few months later her own embodiment would be pushed to the brink of mortality. Twenty-five days after the accident, bedridden at the hospital where her mother had only visited her twice and her father once, she writes in a letter adorned with a drawing of skull and bones:
+Alex of my life: You know better than anyone how sad I have been in this filthy hospital… Everyone tells me not to despair; but they don’t know what it is for me to be bedridden for three months, which is what I need to be, after having been a first-class stray cat all my life, but what’s there to do, since la pelona didn’t carry me away. Don’t you think?… The day I see you Alex, I’m going to kiss you, there’s no help for it; now I see more than ever how I love you with all my soul and I won’t trade you for anyone; you see how suffering something is always worthwhile.
+On the eve of her discharge, she writes:
+Here or there, I’ll be waiting for you. I’m counting the hours as I wait for you wherever, here or at home, because seeing you, the months in bed will pass much faster… Life begins tomorrow…! — I adore you —
+But rather than revival, she entered a long convalescence, confined to bed and savaged by pain in every region of her body as both of her parents fell seriously ill. Six weeks into her confinement, just after her mother had a seizure, she writes to Alejandro:
+I want you to come see me because I’m in over my head and I can’t help but hold on, because it would be worse if I despaired, don’t you think? I want you to come and talk to me like before, to forget everything and to come see me for the love of your holy mother and to tell me that you love me even if it’s not true, ok? (The pen doesn’t write very well with so many tears.)
+Alejandro remained by her side for more than a year into her convalescence, then left for Europe in the early spring of 1927. In her passionate dispatches, she never minimized her pain, but she never let it dominate her stubborn will for life.
+Self Portrait with Velvet Dress, 1926.
+Four months into their separation, having just completed one of her tenderest self-portraits, she writes:
+My Alex: I still can’t tell you I’m doing better, but nevertheless I feel much happier than before, I have so much hope of getting better by the time you return that you shouldn’t be sad on my account for a single moment. I almost never lose hope now… There is no reason for you to suffer for me, everything I tell you in my letters is because I’m such a “cry-baby” and at the end just a young girl, but it is not that much, it is fine to suffer a little, don’t you think, my Alex?… You are coming back, what more could I ask for? You can’t imagine how marvelous it is to wait for you with the same serenity as the portrait… Write to me a little bit more, your letters really heal me.
+Two weeks later, amidst worries about having enough money for another X-ray, she writes:
+You can’t imagine with what pleasure I would give all my life just to kiss you. I think this time I have really suffered, so I must deserve it.
+[…]
+Your Frieda
+(I adore you)
+Seven months into Alejandro’s absence, she names the terror of abandonment trembling in every lover’s heart even in the closest proximity, for between two people there is always an ocean in which to meet or drown:
+Life is ahead of us… In Coyoacán the nights are amazing… and the sea, a symbol in my portrait, synthesizes life, my life.
+You haven’t forgotten me?
+It would almost be unfair, don’t you think?
+She had first voiced this fear a season earlier, writing to him at the peak of summer:
+Alex: I’m going to confess one thing: there are moments that I think you’re forgetting me, but you aren’t, right? You couldn’t fall in love with the Mona Lisa.
+But he did. Alejandro broke off the relationship shortly after returning to Mexico that autumn. Frida may have intuited it, but she was not prepared, the way we never really are even for the blows we feel coming. Barely twenty, her body shattered and her heart broken, she found herself reeling with that most difficult, most eternal question: [Where does love go when it goes?](https://themarginalian.us2.list-manage.com/track/click?u=13eb080d8a315477042e0d5b1&id=8041120593&e=a81b7681f8)
+It went where it always goes — into the totality of her person. We make everything we make with everything we are, everything we have touched that has touched us back in that tender and terrifying contact with life we call experience.
+Portrait of Alejandro Gómez Arias, 1928.
+Several months later, Frida completed a portrait of Alejandro looking plaintive, almost fragile, and inscribed it at the top:
+Alex, with affection I painted your portrait, that he is one of my comrades forever, Frida Kahlo, 30 years later.
+Frida did not live another thirty years. But this young love that had shaped her life, possibly saved it, pulsates beneath every painting she ever painted to tell the centuries what it is like to be alive, with all the pain and passion of it — an inextinguishable reminder that every love we have ever loved, every loss we have ever suffered, becomes part of us, part of what we have to give; for, in the end, [how we love, how we give, and how we suffer is just about the sum of who we are](https://themarginalian.us2.list-manage.com/track/click?u=13eb080d8a315477042e0d5b1&id=b480b5f3ba&e=a81b7681f8).
+Against the morphological backdrop of the rest of nature, a giant pink bird on stilts sounds like something out of Lewis Carroll’s imagination. And yet flamingos came out of evolution’s laboratory, surprising and inevitable as the neocortex, so extravagant in their improbability that [a group of them is called a flamboyance](https://themarginalian.us2.list-manage.com/track/click?u=13eb080d8a315477042e0d5b1&id=ef1a4aaae8&e=a81b7681f8).
+But the flamboyance of flamingos does not come from within — it is acquired the way experience and life-history color a person. The story of how pink traveled from volcanos to wings is the story of life on Earth, the beauty of it and the bewilderment of it, forever defying and dismantling the categories in which we try to contain it.
+Art by Marije Tolman from [The Treehouse](https://themarginalian.us2.list-manage.com/track/click?u=13eb080d8a315477042e0d5b1&id=0a75a40238&e=a81b7681f8)
+When Carl Linnaeus laid the foundation of biological nomenclature in 1735, he divided the living world into two categories: Regnum Animale (the “animal kingdom”) and Regnum Vegetabile (the “vegetable kingdom”). Although microscopes had existed for more than a century, he excluded single-celled organisms, unsure where to place them. (It is the nature of the human animal to dismiss and negate what it cannot classify.) More than a century later, the year he [coined the word ecology](https://themarginalian.us2.list-manage.com/track/click?u=13eb080d8a315477042e0d5b1&id=4d8553e356&e=a81b7681f8), the German marine biologist Ernst Haeckel proposed a third category for microscopic organisms, which he called Protista — “the kingdom of primitive forms.” (Haeckel was so bewildered by the multifariousness and complexity of fungi, which [defy our basic intuitions about life](https://themarginalian.us2.list-manage.com/track/click?u=13eb080d8a315477042e0d5b1&id=a5447b1242&e=a81b7681f8), that he kept moving them between Plantae and Protista, finally settling them in the latter; it would be another century until they were given their very own kingdom or, in the more representative term of mycologist Giuliana Furci, [“kindom.”](https://themarginalian.us2.list-manage.com/track/click?u=13eb080d8a315477042e0d5b1&id=fe4aadf30f&e=a81b7681f8))
+Ernst Haeckel’s kingdoms of life, 1866.
+Pulsating beneath all these distinctions was the fundamental assumption that all organisms are either eukaryotes, ranging from the unicellular paramecium to the immense blue whale, or prokaryotes — bacteria and all remaining microscopic life-forms.
+But then, in 1977, as the Voyager sailed into space carrying the [Golden Record](https://themarginalian.us2.list-manage.com/track/click?u=13eb080d8a315477042e0d5b1&id=1a59ba6276&e=a81b7681f8) meant to represent life on our Pale Blue Dot, the microbiologist and biophysicist Carl Woese made a startling discovery — the tiny organisms found in volcanic hot springs, whose ribosomal DNA sequences he was investigating, turned out to be a wholly different microbial life-form sharing as little with bacteria as it did with eukaryotes. He called it Archaea. Suddenly, the tree of life had a third branch.
+Aerial image of Yellowstone’s Grand Prismatic Spring.
+Born with grey plumage, flamingos spend the first years of their life feasting almost exclusively on brine shrimp — aquatic crustaceans that in turn feast almost exclusively on organisms containing the same carotenoid pigments that [remain in autumn leaves when chlorophyll falls away](https://themarginalian.us2.list-manage.com/track/click?u=13eb080d8a315477042e0d5b1&id=0dfe12bf1d&e=a81b7681f8). Haloarchaea — extremophile Archaea that thrive in hypersaline environments — are a chief [source](https://themarginalian.us2.list-manage.com/track/click?u=13eb080d8a315477042e0d5b1&id=3d82b2c77a&e=a81b7681f8) of these carotenoids in shrimp. (They are also why Himalayan salt is pink.) Unperturbed by the unremitting sun exposure of open water, these tiny titans of survival protect their DNA from UV radiation by synthesizing a red carotenoid that makes its way across the metabolic Rube Goldberg machine into the feathers of flamingos.
+It is not simply that flamingos metabolize archaea, digesting them to turn their pigments into plumage coloration — modern [molecular analysis](https://themarginalian.us2.list-manage.com/track/click?u=13eb080d8a315477042e0d5b1&id=0ee31361bf&e=a81b7681f8) reveals that archaea still live intact in the feathers of flamingos, perhaps the way our own past moves through us, lives in us, colors our present with the hue of something deeper than memory, something shimmering with the mystery of what makes life alive.
+Card from [An Almanac of Birds: 100 Divinations for Uncertain Days](https://themarginalian.us2.list-manage.com/track/click?u=13eb080d8a315477042e0d5b1&id=f9dbeee4fd&e=a81b7681f8), also available as a [stand-alone print](https://themarginalian.us2.list-manage.com/track/click?u=13eb080d8a315477042e0d5b1&id=aac593d1fb&e=a81b7681f8) and as [stationery cards](https://themarginalian.us2.list-manage.com/track/click?u=13eb080d8a315477042e0d5b1&id=82a8e42268&e=a81b7681f8).
+We spend our lives searching for portals to the possible. They are rarely gates swung open for us by some great hand. Often, they are where we least expect them — in the chance encounter, in the small unconscious choice, at an inconvenient moment, in a quiet corner of the quotidian. Oftener still, they are the cracks where we have broken — broken the story, broken the ego, broken the pattern. If we are attentive enough and present enough, the shy light of curiosity is enough to begin widening these openings enough to glimpse the other side, to believe there is an other side. Courage is a species of curiosity, bravery a species of belief. The hand through the crevice. The foot across the threshold. And suddenly, where there was nothing, there is something — that first opening into the possibility of everything.
+That, at least, is what I think of as I read this splendid poem by [Hannah Fries](https://themarginalian.us2.list-manage.com/track/click?u=13eb080d8a315477042e0d5b1&id=df4cf0c7f2&e=a81b7681f8):
+WHEREVER YOU THINK THERE IS NOTHING
+by Hannah Fries
+In the hollowed-out heartwood of an old tree.
+In a jagged eggshell’s translucent blue.
+Between bars,
+between bombs,
+between blows.
+In the blossom’s chamber where the squash bee sleeps.
+In the spiral cupped by the calcium shell.
+Between sirens,
+between slaughters,
+between famine’s last grains.
+In the great choral breath before Händel’s amen.
+In the time-machine swirl of stone.
+Beyond our blindness, the fabric
+that holds sun and
+sun and sun.
+The pupil’s black hole.
+Garden scent of the fresh-dug grave.
+The hand’s open palm.
+Not in the flesh, but the wound.

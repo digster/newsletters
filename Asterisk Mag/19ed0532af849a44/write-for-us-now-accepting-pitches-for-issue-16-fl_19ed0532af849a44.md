@@ -1,0 +1,11 @@
+---
+id: "19ed0532af849a44"
+subject: "Write for us! Now accepting pitches for Issue 16: Flourishing"
+from: "Asterisk Magazine  <asteriskmag@substack.com>"
+to: ""
+date: 2026-06-16 12:02:37
+labels: ["Asterisk Mag", "CATEGORY_PERSONAL", "INBOX", "UNREAD"]
+label_ids: ["Label_7989277967799964345", "CATEGORY_PERSONAL", "INBOX", "UNREAD"]
+---
+Usually, we like to back up our claims with numbers, but right now, we’re in a more reflective mood. After all, the hot beige microsite of the summer is a papal encyclical, and it doesn’t have even one chart. Right now, all eyes are on the Bay Area. The charts keep going up. The money is about to pour in. Yet there’s a pervasive sense that tech now lacks vision and moral character. We agree. Let’s see if we can change that in 120 pages. To that end, Asterisk’s Fall 2026 issue is the theme of Flourishing. We are now soliciting pitches for articles, essays, and interviews related to any aspect of flourishing — think broadly. We are also particularly interested in the following themes: Morality and virtue: How can we be good? Why should we be good? Are we out of the horrible vice-signalling spiral yet? What even happened there? Are there any arguments about EA we haven’t had yet? Relationships: How should we think about family, children, and parenting — conventional and unconventional? What kinds of communities and friendships should we build? (Radical anti-community takes also welcome.) Is there good dating advice for the singularity? Man’s search for meaning, and coping with human inferiority: Is anyone happy? What happens if AI becomes better than us at every single thing? How will our institutions change? Aesthetics and beauty: Is everything ugly? If so, how should we fix it? Bonus points if you’re willing to defend modern architecture. AI consciousness: How would we know if our AI models are thriving? How much should we care? Technology’s relationship to the world: What is Silicon Valley for? What legacy does it hope to leave behind? Scene reporting: How are these questions playing out around you?
+Our magazine pieces tend to be long (3000 to 5000 words on average), evergreen, and deeply researched. We welcome pitches and drafts from everyone, not just academics or professional writers. Email us at To the good life, Clara, Angela, and Nadia |

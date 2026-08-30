@@ -1,0 +1,26 @@
+---
+id: "19d8690c386b3080"
+subject: "Prediction Market Details"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2026-04-13 11:18:46
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+The Guardian has an [interesting article](https://marginalrevolution.com?action=user_content_redirect&uuid=7c2fe83caeb38a7c49657b01bc77f8ae6fa7bdaafc59d45a65f37f8371098f54&blog_id=42693868&post_id=92818&user_id=262258391&subs_id=225460721&signature=50bcd814d27d2f21ae7c638e86b92872&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly93d3cudGhlZ3VhcmRpYW4uY29tL2J1c2luZXNzLzIwMjYvYXByLzExL3BvbHltYXJrZXQtZ2FtYmxlcnMtYmV0dGluZy1pcmFuLXdhci11a3JhaW5lLW5ld3MtdHJ1dGg&email_id=b46017241ce3dafff64206081a62f90b) on prediction markets. There are the usual worries about betting on death, as if insurance markets don't already exist and about insider trading, which public markets have long dealt with. But there is also interesting material on who decides what happened when resolving bets about events made in language (as opposed to more objectively verified numbers).
+On Monday, anonymous user “Harshad” asked in a Discord channel if there was “any chance” that he could still win his bet about whether US forces would enter Iran by the end of April. His money was on “no”.
+But Polymarket appeared to be resolving the market to “yes”, after the US conducted an operation to rescue a crew member shot down on a mission over Isfahan over the weekend.
+...At the moment, when there is a dispute, markets on Polymarket are settled by an anonymous group of people who hold a crypto token called UMA.
+It’s an unusual way to decide what has happened. Some longtime users suggest it opens the platform to corruption. Different individuals hold different amounts of UMA, and therefore have different voting power.
+It isn’t known who the largest UMA holders are, or what might affect how they vote. It is entirely possible that the people who finally settle a bet on UMA have large amounts of money staked on it.
+There was also this bit about [Prediction Hunt](https://marginalrevolution.com?action=user_content_redirect&uuid=ccee242f7efe85975d66d55b7d73242a09acbf2e3a6742e2d1a5fa6d307887e1&blog_id=42693868&post_id=92818&user_id=262258391&subs_id=225460721&signature=4865e1d69e814ba5ffc4bb3c93e1c76f&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly93d3cucHJlZGljdGlvbmh1bnQuY29tLw=&email_id=b46017241ce3dafff64206081a62f90b) (I am an advisor) which is focused on cross-market arbitrage opportunities:
+“I love to gamble,” said Joseph Francia.
+Now in his early 30s, Francia counted cards in casinos while studying economics at Berkeley, and spent weekends in Reno, Nevada, playing blackjack. He’s not a thrill-seeking “Yolo” (you only live once) gambler, he said: he likes to bet when he has an edge on the house.
+At university, he and a friend decided to collect data from a number of offshore sportsbooks, and start placing arbitrage bets: playing on the discrepancies in odds given by different betting sites.
+“If the odds on the Lakers are really good on one site, and the odds on the Pacers are really good on another site, you could bet on basically both teams on different sportsbooks and make guaranteed profit,” he said.
+That project was a student lark in 2017. But in 2025, he remembered it when he was suddenly laid off from his full-time job, just as prediction markets were taking off.
+“I’m a spiritual, religious person,” he said. “The more secular people would say, this opportunity is coincidence. But in my head, I was like, this is a sign of something to some extent. Let me lean into this.”
+So Francia started Prediction Hunt, a Discord channel and online community where thousands of people gather to trade tips and ideas for how to make money – and bet smart – on Polymarket. The Guardian spent roughly three weeks in this Discord channel.
+There are alerts to track “fade” bets, where you try to follow the smart money: profitable wallets were betting “yes” on the Iranian regime falling by 30 April, for example, while unprofitable wallets were betting “no”.
+There are alerts to track potential insiders, so you can copy their bets: one of these appears to have an inside line on interest rate decisions by the US Federal Reserve.
+Getting these details right will be important but overall I am pleased that the news now regularly reports prediction market data when reporting stories--this is disciplining news from noise, something I predicted long ago in [Entrepreneurial Economics](https://marginalrevolution.com?action=user_content_redirect&uuid=97cff30c135a1b173fad4d49a3291d9a3c6e4f2e94a202871d6d9dd2347405a5&blog_id=42693868&post_id=92818&user_id=262258391&subs_id=225460721&signature=384a830ad739f9593507c3a48979e9c1&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9ncC9wcm9kdWN0LzAxOTUxNDUwMzg/aWU9VVRGOCZ0YWc9bWFyZ2luYWxyZXZvbC0yMA=&email_id=b46017241ce3dafff64206081a62f90b).

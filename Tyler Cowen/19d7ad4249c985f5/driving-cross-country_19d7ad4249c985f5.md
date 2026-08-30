@@ -1,0 +1,25 @@
+---
+id: "19d7ad4249c985f5"
+subject: "Driving cross-country"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2026-04-11 04:36:56
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+I have driven cross-country four times, at least if you count a 3/4 trip as valid. I also have driving experience in virtually all states, including Hawaii and Alaska, neither of which would be part of typical cross-country travel.
+I recommend this mode of transport highly, especially for the United States. Here are a few observations:
+No matter which route you take, so often Mexican food is your best option.
+I most prefer the southern route, involving Memphis, Texas, and southern Utah/north rim of the Grand Canyon. Do I have to tell you no major highways?
+The extreme northern route is better than the middle route. Visit Duluth.
+The music you bring is essential. While this will depend on your taste, in general try to have some regional music to match your route. Dylan and also folk music sound good in most parts of the country. CDs can be a better medium than online music for these trips. Do not listen to music when you start your day's drive, however, as you will end up burnt out. Save it for after a few hours of driving. Nor should you listen to too much high energy music. Woody Guthrie is better than Led Zeppelin in this setting.
+How much you should roll down car windows, vs. relying on air conditioning, is a critical decision. The correct answer will depend on the route and time of year, but please do not screw this one up. Usually I like windows down, but with raised windows you can hear the music better.
+Salads in the Midwest can be good.
+In Texas and Oklahoma you may see some amazing storms. Texas is the best state for random food stops.
+Use paper maps, GPS may bring you along too efficient a route.
+Issues of children aside, optimal group size is two, no larger. To avoid least common denominator effects.
+You can do these trips at any pace you want, even an hour in a place can teach you a good deal.
+You could do a trip simply by stopping in every interesting place in New Jersey, one of the smallest states.
+I prefer Vermont to New Hampshire, at least for driving purposes. I also prefer Montana to Wyoming, the latter for me being beautiful but somehow quite a boring state outside of Yellowstone? You cannot spend too much time in Utah.
+Oregon is one state where I never have been driving. Is that a great loss? I know only Portland there.
+Driving cross country, or only parts of it, is the very best way to see America.

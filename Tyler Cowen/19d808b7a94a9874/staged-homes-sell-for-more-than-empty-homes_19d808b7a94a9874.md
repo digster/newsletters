@@ -1,0 +1,11 @@
+---
+id: "19d808b7a94a9874"
+subject: "Staged homes sell for more than empty homes"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2026-04-12 07:15:17
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+We examine the economic impact of non-consumable visual cues through home staging on high-stakes housing transactions. Using hand-collected listing photos for 15,777 transactions and a machine-learning algorithm to detect furniture, we provide the first large-scale evidence that staged homes sell for roughly 10% more and one week faster than comparable homes without furniture. Our pre-registered online experiment establishes causality and uncovers mechanisms. We find that furniture clarifies spatial use, while decor enhances emotional attachment, jointly driving the higher willingness-to-pay. These findings demonstrate how visual cues impact high-stakes decisions and systematically shape valuations in the largest asset market for households.
+That is [from Puja Bhattacharya, et.al](https://marginalrevolution.com?action=user_content_redirect&uuid=a06d98f837c2e5e056e3b2954e395ca8e2916cf4db5550b34b90152c6ccbe851&blog_id=42693868&post_id=92809&user_id=262258391&subs_id=225460721&signature=69a5ca3b74b73c0ab341b8a554c72cf3&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly9wYXBlcnMuc3Nybi5jb20vc29sMy9wYXBlcnMuY2ZtP2Fic3RyYWN0X2lkPTU4ODAwNjI&email_id=4047a4aa648bde53f09d1775b71da9fc)., via the excellent [Kevin Lewis](https://marginalrevolution.com?action=user_content_redirect&uuid=9b43bd1617e298fde7b40794760ae89d07e8c870f16d7a9410866af561f501a6&blog_id=42693868&post_id=92809&user_id=262258391&subs_id=225460721&signature=d4790fe90bd0941a1ce6f940ebe80789&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly93d3cubmF0aW9uYWxhZmZhaXJzLmNvbS9ibG9nL2RldGFpbC9maW5kaW5ncy1hLWRhaWx5LXJvdW5kdXAvZW5nYWdlbWVudA=&email_id=4047a4aa648bde53f09d1775b71da9fc).

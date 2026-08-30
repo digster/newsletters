@@ -1,0 +1,173 @@
+---
+id: "19ea0990084c419a"
+subject: "First Principles: Update your reading mental model (parents edition)"
+from: "The Ken <info@the-ken.com>"
+to: ""
+date: 2026-06-07 05:40:41
+labels: ["CATEGORY_PERSONAL", "INBOX", "The Ken", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_8244464457792971031", "UNREAD"]
+---
+|
+|
+First Principles
+Sun, 07 Jun 26
+A community-powered Sunday newsletter on mental models, self-reflection, learning, growth, photos, books, and more.
+Good morning! How was your week, Ishan? Down south in India, this week marked the onset of the marvellous phenomenon we Indians usually take for granted—the monsoon!
+Yes, the southwest monsoon is now “officially” on. The magic and beauty (also, fury) of the rains is full-frontal in Kerala, where the moisture-laden clouds from the Arabian Sea first meets land. I’ve spent virtually every childhood summer experiencing Kerala during the monsoons. The rains were indescribable. A wall of water that pours down, for hours and sometimes even days on end. The sound of furious drops landing on tiled roofs drilled into your head why you couldn’t go out to play or fish. You could quite literally feel the phrase, “bursting of the monsoon”.
+And then, the backwaters would start to rise, gradually at first but then alarmingly. The boundaries between roads, embankments, lakes, lagoons, and canals would disappear. You would need to know the boundaries beforehand to go traipsing afterwards, else you’d take a step and go from land to water in a jiffy. We’d carry long branches broken off from the paruthi (Indian Tulip tree) trees that were planted along the boundaries of houses, to poke around before stepping forward.
+The waters would keep rising, as the backwaters filled up with the unrelenting might of water pouring from the skies, with no easy way to drain out into the sea because sand bars would form and block the estuary that connected the backwaters to the Arabian Sea.
+As the life force rose, it would first enter our sand front yard that my grandmother swept diligently each morning with a wooden broom extended like a Japanese hand fan. You could no longer see the neat criss-cross patterns she drew in the white sand before dawn every morning, in a Zen-like trance. Instead, there was water. Which was even more magical, because it would bring fish and crabs and frogs with it. Into your yard! What could be more magical for a kid? Could I catch a fish without stepping out of home?
+We’d then make “boats” with the dry, canoe-shaped sheaths from coconut tree (spathes) and push them around in the water using a stick (this time bamboo ones, because they’re more flexible).
+By now the adults were worried. It was only a few more inches before the water would reach the elevated level of our “thinna”, the open verandah with a few benches and grandfather’s easy chair. Once the water breached that, it would take just a day or two more for it to enter the rooms.
+I don’t remember it ever doing so, because this was usually when the Kerala government would engage workers in the dangerous task of digging up and clearing the sandbars at the estuary that connected our network of backwater lakes to the seas, Thotapally.
+The most common topic of discussion each day among adults was just that.
+“Will they cut the “pozhi” (the sandbar) today?”
+“What are they waiting for?”
+“How much more flooding do they want?”
+“This year is much later than earlier ones!”
+“This flood is nothing compared to the one from that year!”
+Such was the force of the water being held back that workers were tied at the waist with huge ropes, to prevent them from being carried away into the sea (which too is angry and churning from the monsoon) as the final bits of sand gave way and the pent-up water in the backwaters rushed to meet the sea.
+And then, the next day, the waters would start receding. We children would be sad to no longer have fish swimming around at our doorstep. But for the adults, the initial relief at not having water enter the house gave way quickly to the task of clearing out the mass of black, silty muckiness that receding backwaters left all over the land they’d occupied till a day ago.
+It would be many days of clearing and sweeping and rains and sun before things would get back to normal. After that, the backwater levels would rise and fall each day, because water would flow in and out to the sea with the latter’s tides.
+Yet, scientists still do not fully understand the entire mechanism of how the monsoon happens. There are “Somali jets”, “Tibetan highs”, “off shore troughs”, and “spells” [involved](https://mausam.imd.gov.in/imd_latest/monsoonfaq.pdf).
+Even the word itself is so lush and fecund, like its experience. It derives from the Arabic word “mawsim”, meaning “season”, which is also very close to what we call it in Hindi (“mausam”).
+Yes, the monsoons mean the seasons are changing. It’s not just the rain, even the sun’s rays have shifted.
+This Monday I noticed how the mornings are much brighter. Not in that summer morning sort of way, but in that blue-skies-cool-weather-piercing-rays way. We’re in June and the Summer Solstice is nearing.
+Walking Gabru in the mornings is almost an assault (a good kind) on my senses. It’s like someone has turned up the brightness and glow and warmth controls to 9/10. You can almost see the light from the sun bouncing off the leaves on trees. The clear blue skies provide a wonderful backdrop to frame this game of light.
+Some of you had asked for photos of Gabru’s friends, so here they are. Poor Prince has been limping for the last few days due to some injury on one of his front legs. I’m hoping it isn’t very serious because there is no visible wound and also he’s able to put some weight on it occasionally.
+And here’s Gabru, on the verge of a warning growl to Sausage and Jumper, who are just glad to see him.
+Closer home, Bribo has a brand-new rain shelter. It’s a wire kennel I ordered off Amazon with a waterproof cover. He was a bit suspicious of it (even though I’d removed its door completely) on the first day but took the hint (and the few treats I left inside) and slept inside it when I checked a few hours later. Hopefully, that should get him through the monsoon relatively dry and safe.
+Phew! This has been a rather long intro, so I’ll skip my lede essay to avoid “Rohin overload” and let my fellow co-writers Tanim, Vishnu, and Sakshi take you to newer places with their sections.
+Here’s everything we have for you in First Principles this week:
+1. The 2024 Monsoon Playlist
+2. Rewiring mental models for reading (parents edition)
+3. Movie pick of the week
+4. Time, please 📸
+[Pro tip: This email is a highly abbreviated version, since many email clients impose restrictions on the amount of material we can publish in a single email before intervention. In fact, it’s likely some email clients may even clip this truncated email.
+The best way to experience this edition is to read it on our [website](https://the-ken.com/newsletter/first-principles/two-professionals-also-mothers-on-rewiring-the-mental-models-for-reading-parents-edition/) or [app](https://the-ken.com/newsletter/first-principles/two-professionals-also-mothers-on-rewiring-the-mental-models-for-reading-parents-edition/), where all sections are featured in full and unabridged form.
+Also, if your default setting is to not show images within emails, please consider turning it off for this newsletter. Or else, you’ll miss many of the interesting images and photos we carry each Sunday.]
+Do we need a 2026 version? Yes, we might.
+Hello, hello, Tanim here with a special books section for you today.
+How many times have you thought, “How do I read?”
+If you are a parent, it was probably this: “How do we read?”
+In the 2000s, there was no mental model for it. You found books through summer reading programmes, older siblings, or unexpectedly, in your grandparents’ house.
+Now we have too many screens, too many books, and too many people telling us how to make the kids read. And very little time before the kids become teenagers and stop listening to you.
+Recent developments have made this question more urgent than ever.
+So, I set out to look for an answer, away from theoretical explanations, in the lived experiences of two professionals on opposite sides of children’s book publishing: creation and curation.
+It turned out that they are not just producers. They are also consumers because both are mothers who made sure that books always surrounded their children.
+Of course, with so many overlaps, I had to frame it in our classic [Two by Two ](https://the-ken.com/podcasts/two-by-two/)template.
+[Riddhi Maniar Doda](https://www.riddhimaniardoda.com/) is a children’s book author with eight published books.
+| Riddhi Maniar Doda in her element |
+[Sheetal Shah](https://toolo.in/about-us) is the founder of Toolo, a neighbourhood library franchise running in 20 cities across India.
+| Sheetal Shah doing what she does best |
+I have condensed my long conversations with them into an edited excerpt to nudge you to rethink your “How do we read” mental model, using their learnings and challenges.
+Of course, with so many overlaps, I had to frame it in our classic [Two by Two](https://the-ken.com/podcasts/two-by-two/) template. Thanks for letting me borrow, PGK.
+Let’s start with how their love for reading began:
+Riddhi Maniar Doda: I used to read voraciously. My elder sister was quite instrumental in introducing me to different genres and books. Surprisingly, my house had a wall of books, which I think was quite rare at that time.
+Sheetal Shah: Reading was a form of entertainment for me. My mom was the one who induced that love for it. She used to read and encouraged me to read, and in school, I had a fantastic library.
+Before we go further in, share your community book recommendations [here](https://theken.typeform.com/FPBooks?typeform-source=the-ken.com).
+The toy-book tug of war
+Riddhi: How many houses have home libraries exclusively for children? I think if a parent has not grown up as a reader, it might take some time to shift that mindset toward reading as an enjoyable activity. And I think parents need to look at picture books early on. I started reading to my son when he was around four to five months old. We need more independent libraries and bookstores that encourage parents to get their children into reading for the love of it. Libraries like the Kahani box or Lightroom bookstore in Cooke Town are doing a great job.
+Sheetal: Parents really have a resistance where reading is concerned at an early age, especially because I think they come from a point of view that if the child can’t read, then what’s the point of having books for children at that age, such as my child is two years or three years old, they can’t read. So then what am I doing here? You know, I’d rather give her toys at this point.
+I started reading to my son when he was just 4 months old, and now that my daughter is 11, I continue to read aloud to her. Because when I read to her, I’m able to introduce her to new genres and expose her to the kind of content I would like her to read.
+It’s also a great bonding time for us, and it’s a great time for her to sit back, relax, and listen, not read, at that time.
+Preference paradox
+Riddhi: It’s something that will come with practice. Because one of the factors is nostalgia, I remember the feelings I had while reading Amar Chitra Katha, so I want my child to read it.
+The second thing is the parents’ own reading habits. If they haven’t read much before, they might probably just go for the most popular titles like Panchatantra.
+Have your child join libraries with many options. Let them spend hours over there and pick their own books.
+On the production side, we need industry tie-ups with schools. Scholastic, Pratham, Tulika, Karadi, Duckbill, Penguin. What are they recommending for children and why?
+Sheetal: I think that the children’s literature landscape is very, very different now from what we experienced. I believe today’s children need that exposure because the world has changed so dramatically. By doing all that reading, they learn what’s happening outside their life space. Books help with that awareness.
+At Toolo, we now have five years of data in our system showing what children like and what they do not, based on what gets picked up and what does not. All of this data, when put together, helps us better cater to them. I’m not a fan of Geronimo books, for example, but I do have them in the library because children love reading them.
+Ultimately, books gain access to spaces where children can read them through publishers, librarians, and parents. It’s important to be conscious of the child when making these decisions.
+Riddhi: My first book, The Boy Who Wore Bangles, was purely out of my experience and the slight theme of LGBTQ identity and individuality. So I had no idea about the industry.
+I did not write to please anybody, parents, librarians or teachers. And I was still surprised that people took to it. They were quite open to it.
+I was called to schools to talk about that issue and then touch upon the broader subject of gender norms.
+But I have also seen the other side, where parents hold their hands back when they understand the theme because they appreciate lighter topics. They have this doubt: “Why should I pick a book about LGBTQ? What if it spoils my child and makes them think in this direction?”
+Sheetal: Toolo’s curation is very personal. Every book is handpicked and curated by us to ensure that every book in the library is right for the child.
+We make sure that it’s a good mix of all genres, different authors, international as well as Indian authors, some popular books, some not so popular books, but are great books. We make it a good mix of all kinds of books here, so we cater to all kinds of children’s preferences. Not all children have the same preferences, and we are not expecting all children to like the same book.
+Over time, we’ve also identified the age categories where the most books are borrowed, which determines how many books we put in each age category.
+There are some non-negotiables in choosing/writing a book for your child.
+Riddhi: It should not be preachy. A bit of playfulness and humour helps connect better with a child. Showing and not telling. Instead of writing, “Oh, Bhargav was angry,” or “Bhargav loved wearing bangles because of this,” I just show that he says that my hand looks like a rainbow.
+When it comes to picture books, being concise while keeping your voice is very important, as each word carries a lot of weight.
+Sheetal: A good mix of all genres. For ages two to five, it should be largely picture books of varying kinds, maybe with something that has emotional truth, as those are really profound books to read. They are fun not only for younger children, but also for all higher-grade children, and are even relevant for adults.
+Read-it-yourself books are typically for four- to five-year-olds as they’re beginning to learn, and that’s when we want to expose them to the different levels of books available so they can find their own reading speed and read at that pace.
+And then seven-plus years is all chapter books, where we do a good mix of genres like mystery, adventure, fantasy, and even non-fiction. But very little of that, for we want the focus to be the joy of reading.
+And screens, had to talk about screens
+Riddhi: I totally discourage parents from showing content on the screen. Do not make that the default channel to distract them or keep them occupied. If it has become a habit, try replacing the screen with books everywhere, like in the car or hospitals.
+It takes a lot of effort in this day and age to keep them away from screens, so we had to introduce television screen time when he was five years old, but no mobiles, no laptops at all, nothing where he can have sole control. The television is still okay, as it could be a part of family watching.
+Sheetal: Reading from the screen is also reading; they are reading words and letters, right? So it does amount to reading. But reading from a book is an entirely different experience because it’s so much more focused and you’re not distracted. There is nothing else that comes in the way of you pouring yourself into a book and getting consumed.
+But you can’t completely 100% do away with screens either, so finding the right balance is important here.
+As the child becomes more aware of the world around her, how do we get books to help her make sense of it?
+Riddhi: Example: It’s around the age of seven to nine that they truly understand that they are different, different as in the identity from their parents, also and gender based identity.
+So at that point, I think a lot of gender neutral, you know, stories as well as illustrations will make a lot of difference. Like, I think Tulika does a lot of those stories where they will show somebody with a rainbow flag or a boy who, you know, likes to wear a dress or a girl who has probably really short hair, and she is swinging from a branch. It might seem like small things, but they notice the pictures a lot more.
+A lot of new books show stereotypes being broken, like fathers cooking. I think that is how we, as creators, can make a difference even in our stories. Like when I wrote Manvinder’s Medu Vada, I wanted the whole family to be cooking for Manvinder, and then Manvinder taking up the ownership that I’m going to learn this myself. So in subtle ways, we creators try to put that in.
+Sheetal: At a very early age, at three, four, even five years of age, children are not looking at the world, me versus everybody else. It’s all the same for them. I think the differences lie in our eyes. But at the same time, it’s great to expose the child to all kinds of books.
+Their world is their house, their home, and the school that they go to, largely and the people they meet. But there’s such a vast world out there, and for them to view it through books is amazing.
+During our time, we had only Enid Blyton and Roald Dahl books; we didn’t have Indian authors, you know, so my world looked different from what I read in Enid Blyton or Nancy Drew books. The cupcakes and the picnics, I didn’t have that kind of life, right? But it gave me that window of, okay, there is a life out there where children live like this, too. And that was interesting for me to know. But at the same time, I would have loved to read books that would have bonded me better with my local context, and Indian authors are doing that.
+As long as the environment is a safe space, there are no wrong books.
+Riddhi: Let your child read anything and everything. Obviously age-appropriate. I don’t want my son to be reading every page of the newspaper. I’ll probably just show him the sports page or something relevant.
+Similarly, I think if you know you’re in a safe environment, like a library where they have books meant for them, just give them a free rein to go and pick anything, anything. They’re only going to benefit from it.
+Sheetal: There are some books in an age category that should not be exposed to kids. So parents and teachers need to be involved there and make sure that all books in the vicinity are not really out of context for the child.
+Children’s libraries like ours go a long way to dispel this anxiety. We don’t put any adult books at all because we want it to be a safe space where children can pick up any book.
+All work and no play makes Jemima a dull girl
+Riddhi: Read-aloud sessions gave me a lot of insights into what children like.
+And Fudge Won’t Budge was also a result of the fact that I don’t have to write something with underlying themes all the time. It can be just a fun slice-of-life narrative. Children love books like Gajapathi Kulapathi by Ashok Rajagopalan because they have a lot of onomatopoeia, many sounds, and funny things that happen in the village.
+Parents also prefer lighthearted stories, so sometimes the Boy of Bangles is met with blank faces from parents more than from children.
+Children would come and say, “Oh, I liked it. You know, I was also not allowed to do this and that.”
+But parents feel it triggers a certain kind of conversation that they are not ready for.
+As a creator, you sometimes don’t leave feeling good.
+It’s important, as a writer, for me to go down to a child’s level and look at this world through their eyes to understand what really works for them. It might not always have to be something more serious.
+Sheetal: I noticed that children go through different phases in their reading journey.
+But then it comes back to the parent or caregiver to make sure the child doesn’t get stuck in that one genre alone.
+And that’s how reading aloud comes into the picture, and that’s what I’ve done with both my kids. I would carve out time between us and read to him. And then that reading time was intentional, where I made sure I picked up a book I thought would be nice for him to read and give him exposure. And that’s what I always recommend to parents: allow them to read whatever they like.
+We also binge-watch, right? Sometimes you just want to watch something that doesn’t make sense, that is not super productive. It’s giving us joy, it’s giving us fun.
+If they can find that fun in reading, so be it.
+Be careful not to let pleasure turn into pressure.
+Riddhi: As a parent, I somehow see the difference in children who have been brought up on books. So for them, it is definitely pleasurable. They just pick up any book and get engrossed in it quickly. But I’ve also seen my son’s friends who come home, and they’re like, “I hate reading.” Where did that hate come from?
+Because parents have imposed it on them as a goal they must meet by a certain age. Parents should really be very mindful about not making reading a chore or a goal-setting thing, where my child has to read this many words by this age.
+They need to fall in love with everything. The stories, the illustrations and the characters for the joy of it. That onus lies entirely with the parents, whether you make it a pressure-based thing or a pleasurable one.
+Sheetal: You just keep trying new books. I’ve observed with my daughter that sometimes books I feel she should read, she just doesn’t take to. So I will read it aloud to her to instil that interest in her. But I also have to know where to stop and not force it down her throat.
+I think, observe, observe, observe, and stay engaged in your child’s reading journey, and let them be even when they are just not reading at all. Sometimes they just want to take a break. As adults, we also do that with our activities.
+Skill or a hobby
+Riddhi: When I host reading sessions in my apartment, a lot of parents believe that it would help their child if they started reading early, instead of just enjoying read-alouds for the sake of the story and falling in love with books.
+Some would even stop sending their children after they realise it’s not really a reading class.
+It’s still prevalent in a lot of Indian parents where reading means a certain number of words. That means serious reading, or like some competition between children.
+But there is also a section of parents who are totally keyed into the latest books, like tracking what’s new from Pratham and other Indian publishers, and they love investing in books by Indian authors.
+So I’ve seen both sides, but I think there’s still a majority who look for educational goals in every story or for moral values. Reading just for fun has not yet fully evolved in India.
+Sheetal: In the library, we have broadly categorised the books subjectively. And that is primarily done to help parents navigate which books to pick up easily for their children. But at the same time, I do understand that many parents come from the belief that if my child is five years old, he or she should be reading a five-year-old book.
+So consistently, we find it’s more about educating the parents to let children read
+whatever they wish to start with and allow the child to take his or her own journey in exploring what they’re really enjoying, versus pushing them into certain books. It should be all about nurturing the joy of reading versus working on the skill of reading here.
+The metro blind spot
+Riddhi: I’ve heard editors also tell me that we usually write about the metropolitan cities, and we end up not doing a good job when we’re writing about rural India. We do it from a very third-person perspective, and it shows in our writing.
+In fact, we don’t even write convincingly about slum children in metropolitan cities. And I sensed that in my own writing too. We are not able to relate to different sects of society, and that is something we creators really need to work on.
+Sheetal: Bangalore is a city with cosmopolitan parents, so they take to reading and libraries easily. But at the same time, I’m personally very excited about tier-2 and tier-3 cities as well. In the last six months, we have gone down to these cities and picked up libraries in Raipur, Erode, and Pollachi, among others. And the response was great. Some parents do understand the importance of reading. They are looking for the right resources, but don’t have many resources in these cities. So a subscription library coming to a city like Karur or Kurnool is great for parents and offers children a greater opportunity to get easy access to books, which is otherwise so hard because books are expensive to buy.
+Without access to a library, how do you fulfil this reading passion in an inexpensive manner?
+And… the fitting end.
+P.S. They also spoke at length about their line of work—different experiences with publishers, keeping the business personal, and more—that didn’t quite fit the “mental model” lens, so that’s a conversation for another day.
+I hope you liked reading this as much as I enjoyed curating it. Do share your thoughts and feedback at [tanim@the-ken.com](mailto:tanim@the-ken.com).
+Hey there!
+It’s Vishnu with the movie pick of the week.
+First of all, thank you for all the great suggestions you had for the community last week through the Typeform [[FP Movie of the Week picks]](https://theken.typeform.com/to/lB1D3dcf). I’m in the process of collating all of them, and have a couple of ideas on how to make it open to everyone. Will get back to you in the coming weeks.
+For today, I have a very unusual kind of a biopic. It’s about the game Tetris. Before you say “aaarggh, what’s so exciting about that!?”—hear me out:
+Tetris (2023) – Biopic/Thriller/Black comedy.
+Yeah, that’s a confusing genre description, I know.
+But how else would you explain the fact that a movie about the origin of a console game has espionage, Communist Russia, the Iron Curtain, car chase sequences, financial fraud, and a [Japanese version](https://youtu.be/WJlt_xw4tf0?si=zyOYS9ESy4gC_8PG) of “Holding Out For A Hero”—the best use of the song, after Shrek 2!?
+I still remember going back to read up on the real story, not being able to believe what I saw.
+Tetris is a slick flick that will definitely surprise you with its style, and Taron Egerton can do no wrong! Definitely recommended.
+Streaming on Apple TV.
+I’ll see you next week!
+That was a lot of reading. Take a moment to pause and rest your eyes with a few quiet, beautiful frames captured by our readers.
+I (Sakshi) won’t say much today.
+Just one thing before we begin: if you’ve taken a photograph you’re proud of and would like to share it with the community, you’re welcome to submit it [via this link](https://theken.typeform.com/fpsilentsundays).
+Alright, sit back and let the images do the talking.
+From Deepti Dwivedi, Aarey, Mumbai:
+| Aarey, Mumbai (Deepti Dwivedi) |
+From Kirti Manian:
+| (Kirti Manian) |
+From Arpit Gupta, Delhi:
+| Delhi (Arpit Gupta) |
+That’s a wrap for this week. Before you go, if you know someone who might like this newsletter, forward us to them!
+Please write to [fp@the-ken.com](mailto:fp@the-ken.com) if there’s anything you’d like to share with us. Or leave a comment on our on-site edition.
+See you next Sunday!
+Regards,
+Rohin Dharmakumar

@@ -1,0 +1,17 @@
+---
+id: "19eb2a49deced892"
+subject: "Are the AIs conscious?"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2026-06-10 17:46:32
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+That is the topic of [my latest Free Press column](https://marginalrevolution.com?action=user_content_redirect&uuid=6ff3e65a7347bb28c6f8382b3b5182cf85eea31f07365ba13c3927dfd2e01ddd&blog_id=42693868&post_id=93170&user_id=262258391&subs_id=225460721&signature=b971e65174c53ac80da9cf2e4aa08131&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly93d3cudGhlZnAuY29tL3AvdHlsZXItY293ZW4tYWktY29uc2Npb3VzbmVzcy1teXRoP3RhaWQ9NmEyNjAwNjc5NTYwOWEwMDAxMmU0NmRmJnV0bV9jYW1wYWlnbj10cnVlYW50aGVtJnV0bV9tZWRpdW09c29jaWFsJnV0bV9zb3VyY2U9dHdpdHRlcg=&email_id=c39b18d10a4ace3344d3bc906e185b1b). I will spare you the discussion of the AIs, but here is what I have to say about the humans:
+I am here to tell you that there is no ghost in the machine. But perhaps more importantly, there is barely a “ghost” in your own human machine. “Are people conscious?” is a better and more scientifically plausible question than whether AIs are conscious.
+If there is one near-universal tendency of humans, it is to attribute intent where none is present. Prehistoric humans anthropomorphized nature and attributed natural events to good and bad deities. These kinds of beliefs
+[persist today], not only in the folk religions of the world, but in human obsessions with fortune tellers, tarot cards, and the supernatural...If there is one systematic flaw that humans have, it is an excessive willingness to ascribe conscious intent and to anthropomorphize purely natural and material entities. It seems we are strongly disposed toward this bias.
+Yet few of us are willing to examine what is perhaps the biggest and most significant way we make this mistake. When it comes to understanding ourselves, so many of us assume that “we are in charge.” We identify our phenomenological stream of consciousness with our actual selves, and treat that consciousness stream as the true decision maker.
+The reality is that you—whatever we take that concept to mean—make most or maybe all of your actual decisions in parts of your brain that precede what you take to be the conscious choice. Among experts in neuroscience, this is not a controversial proposition. As brain surgeon Theodore Schwartz
+[explained to me]: “I do not think we have free will in the way that most people do. I think that our brains make decisions for us. We carry out those behaviors, and then we write a story that makes it into a logical timeline that makes us feel as if we were the ones, that there was a self that made that decision, whereas, in fact, that self didn’t really exist.”...Sometimes I like to say that “I am only conscious at the margin.” Tongue in cheek, I will suggest that I am only conscious enough to avoid the self-contradiction of asserting that I am not conscious at all. I feel I am honest enough to just not be very impressed by my own flow of conscious awareness or its ability to perform complex calculations. Still, I recognize that it is all I have got, so I need to treasure it, however paltry it may be.
+And by the way I do not think the AIs are conscious, no more than I believe in the Thunder God of Thor.

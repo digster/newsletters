@@ -1,0 +1,12 @@
+---
+id: "19d304c1a15d21d8"
+subject: "This Week at The Palindrome (2025, Week 13)"
+from: "The Palindrome <thepalindrome@substack.com>"
+to: ""
+date: 2026-03-27 17:16:11
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tivadar Danka", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_3571324877567057163", "UNREAD"]
+---
+Unlock The Palindrome Free for 7-DaysTry a paid subscription of The Palindrome to get access to this post and other subscriber-only content. A subscription gets you: Immediate access to 100+ in-depth articles ($1000+ value) Immediate access to 5 exclusive learning tracks ($500+ value) Invitations to cohort-based courses on building neural networks from scratch ($300+ value)
+Hey! It’s Tivadar from The Palindrome. Let’s try something new. In recent months, I started to feel that the weekly publishing schedule takes its toll on the quality of my posts. I want to take more time per post to give you some high-quality technical content. I’m inspired by amazing writers such as Sebastian Raschka ( On the other hand, I miss you. A monthly schedule feels too long, and I have a lot to share with you. Ever since I got my ChatGPT Max subscription with access to Codex, my creativity is out of bounds. So, here’s a new format. Each week, I’m sending you my unfiltered stream of consciousness, all the projects that I’m currently working on. Think of it as joining me for a coffee, where we talk about all the exciting/revolutionary/insane ideas we have in our minds. This week, there are two things on my mind: knowledge graphs and Minecraft. Let’s start with knowledge graphs. The Complete Map of Machine LearningIf you are a regular reader, you know that one of the most common questions I get is “which part of mathematics do I need to study machine learning?” My default answer, based on my decade of experience, is: a ton of linear algebra, a decent amount of calculus, and a snippet of probability theory. To be honest, I’m not completely satisfied with my reply. So, I dug deep with my newly found agentic AI-fueled superpower to find what is scientifically backed. Without further ado: here’s the full knowledge graph of mathematics and machine learning. 2081 nodes, 5149 edges. (The images are screenshots from the interactive graph explorer I’m building, which will be open source and publicly available.) Let’s unravel this... Keep reading with a 7-day free trialSubscribe to The Palindrome to keep reading this post and get 7 days of free access to the full post archives. A subscription gets you:
+|

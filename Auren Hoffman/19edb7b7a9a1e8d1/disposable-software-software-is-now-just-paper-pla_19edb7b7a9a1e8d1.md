@@ -1,0 +1,48 @@
+---
+id: "19edb7b7a9a1e8d1"
+subject: "disposable software: software is now just paper plates"
+from: "Auren Hoffman of Summation <auren@substack.com>"
+to: ""
+date: 2026-06-18 16:02:09
+labels: ["Auren Hoffman", "CATEGORY_PERSONAL", "INBOX", "UNREAD"]
+label_ids: ["Label_4260038268466989707", "CATEGORY_PERSONAL", "INBOX", "UNREAD"]
+---
+|
+the engineers building it know it. the founders shipping it know it. the customers buying it know it. no one is pretending otherwise.
+we are building software the way i wrote code in my college computer science classes. to last the project, not to last forever. just long enough to get the grade and then deleted.
+this is the new default and it massively changes what software actually is.
+and this is a good thing.
+a year ago the best AI coding tools could finish a function. today it can read an entire codebase, plan a change, edit dozens of files at once, run the tests, fix what breaks, and ship a working version of whatever was asked for. that did not exist twelve months ago.
+the engineer typing the code used to be the bottleneck. that is gone. describe what you want in plain english and a working app shows up. one human plus one model ships on a saturday what used to take a team a quarter.
+anything that takes a week to ship today will take a day to ship by december.
+so what is the point of building it to last?
+in 1907, a guy in Boston named Lawrence Luellen invented a one-piece pleated paper cup. he was worried about germs spreading from the shared tin cups chained to public water fountains and on passenger trains. he originally called it the “health kup.” it got renamed dixie in 1919 after a doll company that happened to share his building.
+dixie did not displace fine crystal. no one was drinking out of crystal goblets at the train station. dixie displaced the shared tin cup -- communal infrastructure that everyone hated using but nobody wanted to pay to replace.
+paper cups did not win because they were cheap. they won because the maintenance cost of the alternative -- washing, sanitizing, tracking down a cup that walked off -- went from “annoying” to literally spreading disease.
+software is in the same moment. legacy code was never loved. it was tolerated because the alternative was expensive. now the alternative is a prompt.
+the disease is not germs. the disease is engineering hours spent maintaining stuff a model can rewrite for free.
+before AI coding, the average software program had a lifespan of 6-8 years. and a lot of the core code the internet runs on is 30 years old. enterprise systems above a million lines of code lasted 12-14 years, partly because they were too painful to replace.
+now the lifespan looks more like 9 months. the model gets better. the workflow gets easier. abstractions move up the stack. whatever shipped last quarter is suddenly the legacy version.
+rewriting used to be terrifying because the real value of an old codebase was the corner cases of every weird customer condition, every undocumented patch, every workaround that turned out to matter. that hard-won wisdom was the asset and starting over meant rediscovering all of it the hard way.
+that risk is gone. AI can read the old code, surface every corner case, and reproduce them in a clean rewrite in days. the wisdom is portable for the first time.
+this is the part that took a while to internalize.
+in college nobody refactored their problem set. nobody wrote test coverage for it. nobody documented it. you built it to compile, you turned it in, you got the grade, you never opened the file again.
+of course, security still matters. of course stability still matters. but a LOT of the legacy code was neither really secure or really stable. disposable software, written responsibly, can be very secure.
+every working engineer in 2026 is back in problem-set mode. build the thing, ship it, model gets better, build it again. the artifact has the same lifecycle as a college assignment.
+this is not bad engineering. this is RATIONAL engineering. the cost of doing it the “right” way -- writing for maintainability, documenting decisions, keeping a clean architecture -- is now higher than the cost of just regenerating the whole thing in 6 months. when the input price changes, the optimal behavior changes.
+if a week of work today becomes a day of work by december, everything shipped in june is already 80% obsolete by the time it deploys.
+there is no point streamlining something about to be torn down. no point writing style guides for code nobody will ever read. no point pretending you are building a cathedral when what you are actually building is the third draft of a sandcastle on a schedule with the tide. code no longer needs comments that will be read by humans.
+the software industry spent thirty years optimizing for the wrong constant. the constant was never “code is expensive to write.” it was “code is expensive to write and expensive to throw away.” we just solved one of those and the other fell with it.
+here is what disposability actually unlocks and it is not what most people are predicting.
+when paper plates are cheap, you do not replace fancy silverware. you throw a bigger party. you invite people you would not have bothered hosting before. you do dinner on a tuesday. the whole shape of social life shifts because the cost of one decision dropped.
+when software is paper plates, every problem gets its own app. the per-employee tool. the per-customer dashboard. the per-meeting note-taker. the one-shot agent that handles one workflow for one person and disappears. the personal CRM built on a wednesday and deleted by friday.
+this used to be unthinkable. building software for one person for one use case was an absurd misallocation of engineer hours. now it is the default mode.
+Andrej Karpathy coined “vibe coding” for exactly this -- describe the project, accept the code, ship it, move on. the original framing was that this approach was for “throwaway weekend projects.” the joke is that throwaway weekend projects are now most of the software being made.
+if you came up in the era when code was an asset, this all reads as a tragedy. all that craft, all those abstractions, all those clever architectures -- they were investments. the investments are about to be marked down to zero.
+if you came up in the era when code was a constraint, it reads the opposite. the thing that used to take a quarter and a team now takes a saturday and a model. the friction is gone. you can actually build the weird, specific, single-use tool that never had a business case before.
+we are not building cathedrals anymore. we are building sandcastles, on purpose, knowing the tide comes in.
+it is insanely freeing.
+note: [Flex Capital](https://substack.com/redirect/984853c3-85ed-4b16-9966-00bdabf81230?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) invests in 50+ seed-stage start-ups per year (1+ per week). typical first check is $500k. please reach out if you know amazing founders that want to change the world.
+if you like this article, please do three things:
+(if you hate this, please share with all your enemies)
+Hope you enjoy [Summation by Auren Hoffman](https://substack.com/redirect/2/eyJlIjoiaHR0cHM6Ly9hdXJlbi5zdWJzdGFjay5jb20_dXRtX2NhbXBhaWduPWVtYWlsLWhvbWUmcj04bzU0biIsInAiOjIwMjE5MzY4OSwicyI6NjU1MjAsImYiOnRydWUsInUiOjE0NTYzMzE5LCJpYXQiOjE3ODE3OTg3NjIsImV4cCI6MjA5NzM3NDc2MiwiaXNzIjoicHViLTAiLCJzdWIiOiJsaW5rLXJlZGlyZWN0In0.OnLv8aKVtgtOqtid0uyhmq1YDBXPpZZSTfARLwkRnqM?). Please also follow [@auren](https://substack.com/redirect/a85f87cc-c447-478c-9453-ceb13fdf3cd3?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) on X.

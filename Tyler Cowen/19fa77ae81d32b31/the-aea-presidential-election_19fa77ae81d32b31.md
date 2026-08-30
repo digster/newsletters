@@ -1,0 +1,13 @@
+---
+id: "19fa77ae81d32b31"
+subject: "The AEA presidential election"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2026-07-28 06:47:57
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+AEA is the American Economics Association, and a new president is needed, here is the candidate and likely winner:
+PINELOPI (PENNY) KOUJIANOU GOLDBERG, William Nordhaus Professor of Economics and Global Affairs, Yale University.
+Statement of Purpose: I am honored to stand for President of the American Economic Association. Economics has long contributed powerful tools to understand human behavior, markets, institutions, and public policy, but the environment in which we conduct research, teach, and engage with society is evolving rapidly. New technologies, especially artificial intelligence, are reshaping research methods, classroom instruction, and the evaluation and dissemination of scholarship. These changes create exciting opportunities, but they also raise difficult questions about the future of peer review in our journals, transparency, incentives, and research and teaching standards more generally. The profession also faces broader challenges: maintaining rigorous, credible, and independent research, supporting young scholars in an increasingly uncertain academic environment, and ensuring that economics remains open to diverse perspectives, methods, and global talent. If elected, I hope to use my research, teaching, policy, and editorial experience to help address these challenges, while promoting the core values of our discipline.
+Here is [the link](https://marginalrevolution.com?action=user_content_redirect&uuid=ee46694e3ca268867fd8110de5494070c3de5cd6f8842c29411f511065b316f4&blog_id=42693868&post_id=93487&user_id=262258391&subs_id=225460721&signature=046104cf2c28743ad4a50f3227a0450d&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly93d3cuYWVhd2ViLm9yZy9hYm91dC1hZWEvbGVhZGVyc2hpcC9lbGVjdGlvbi1jYW5kaWRhdGVz&email_id=31a742841e7519620d754fbdd90dbfba). Hilarious as always that there is only one candidate allowed (which model predicts this as optimal?), but for the first time I have seen a meaningful statement of purpose that I also like. That said, I would like to see her endorse my core proposal, namely turning over all submissions, referee reports, and revisions (anonymized is fine) to the major AI companies for use as training data. After all, such an act would further the mission of the AEA, right?

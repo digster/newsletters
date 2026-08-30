@@ -1,0 +1,11 @@
+---
+id: "19d23bc1f3f217bb"
+subject: "An economic framework for space immigration"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2026-03-25 06:43:43
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+Large-scale, voluntary space settlement must be economically rational to be viable. Here, we deploy the Roy model, an economic model used to understand immigration, to illuminate the economic factors important for space settlement and develop qualitative understanding of robust features of space settlement that do not depend on the details of the space economy. We find that getting the cost of living in space down by approximately 2 orders of magnitude is necessary to generate a space population on the order of 1 million people and the typical net utility of immigrating will be on the order of this cost. In addition, if the space economy is driven by productive activities of space settlers and there is some correlation between Earth and space skills and income, space settlers are likely to be drawn from the upper tail of Earth income distribution. An ideal way to incentivize immigration by these high-skill, high-income individuals is to declare the space economy free of redistributive taxes. Alternatively, if space settlement is driven by an insurance policy on civilization involving monetary transfers from Earth to space settlers, the space settlers are likely to be drawn from the lower tail of Earth income distribution, and only minimal marginal income beyond the cost of living in space will be necessary to create positive net utility of immigrating for them. The usefulness of the Roy model is demonstrated by its flexibility in providing qualitative insight in these disparate situations.
+That is from [a new paper](https://marginalrevolution.com?action=user_content_redirect&uuid=674174b5233a3018b53d44874daaa162ba65c98e2e8bc4dc5e956dcad0b30fb9&blog_id=42693868&post_id=92682&user_id=262258391&subs_id=225460721&signature=2f4c22dd7049369260f3875fc4480b68&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly9zcGouc2NpZW5jZS5vcmcvZG9pLzEwLjM0MTMzL3NwYWNlLjA0Nzk&email_id=18a310ac63924c788f0a26fa3bc46bcc) by Dorian S. Abbot and Anup Malani.

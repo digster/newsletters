@@ -1,0 +1,11 @@
+---
+id: "19da1fa0572f61da"
+subject: "That was then, this is not now?"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2026-04-18 19:03:29
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+The 1941 Anglo-Soviet invasion destroyed Reza Shah -- but not the Pahlavi state. The two Allies -- joined by the United States in December 1941 -- realized that the Iranian state could be useful in achieving the two goals for which they had invaded the country: physical control over oil -- the British nightmare in World War II, even more so than in World War I, was loss of these vital supplies: and a land "corridor" to the Soviet Union...To facilitate the flow of both oil to Britain and supplies to the Soviet Union, the Allies found it expedient to remove Reza Shah but to preserve his state...the Allies kept his state but engineered his removal in part to curry much-needed favor among Iranians. "The Persians," he wrote, "expect that we should at least save them from the Shah's tyranny as compensation for invading their country."
+That is from Ervand Abrahamian's [A History of Modern Iran](https://marginalrevolution.com?action=user_content_redirect&uuid=4b939d364d7ba649089e041f7963ff08c4de9ef24fc5debd92848c2b153dbad3&blog_id=42693868&post_id=92854&user_id=262258391&subs_id=225460721&signature=0665bc253d0dc2348c372f76a54d24e2&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9IaXN0b3J5LU1vZGVybi1JcmFuLUVydmFuZC1BYnJhaGFtaWFuL2RwLzEzMTY2NDgxNDEvcmVmPXNyXzFfMT9jcmlkPVY5TDZHUlA1V1FJNCZkaWI9ZXlKMklqb2lNU0o5LnBzY3VBSU14Nk5ZaEtKUW82NnpsYlJWZHpxYTlReGxSSVZDb2VmRmRYcW5faEZVX0xkOHpwWmtQNi1RYVFqMTBkREVyeVBkYU1rX1NBeWxVMXR3TDFoQmRLclRXR1Y1YWVkNnNKZlVIOHNzd3dFWGdXTFp0ZUJOYk5NZW9seDZYQ2tnZ3QtYlo5aDI4RjRlN3BrVjFOb2NwbHF0dFgtMU9GRkZvWDZBdTA1dWMzNGg1YjZiQTJfZ1hhRjBOMXRUVU5Ca1NSd3liZnl3bjM1RllRaVJlLW04dm1Nc1N1cUpDZGRoaFA2ODE3cmcuVkpGVEp2cnFaY0ZsZjZRZlZndmVhdUs1b3FvczJnTXFxdXlTX0cyOTNqWSZkaWJfdGFnPXNlJmtleXdvcmRzPUVydmFuZCtBYnJhaGFtaWFuK0ErSGlzdG9yeStvZitNb2Rlcm4rSXJhbiZxaWQ9MTc3NjUxNzQxMiZzcHJlZml4PWVydmFuZCthYnJhaGFtaWFuK2EraGlzdG9yeStvZittb2Rlcm4raXJhbiUyQ2FwcyUyQzE0MyZzcj04LTE&email_id=a85870450c7c62535cecbdd8aa83a4cd).

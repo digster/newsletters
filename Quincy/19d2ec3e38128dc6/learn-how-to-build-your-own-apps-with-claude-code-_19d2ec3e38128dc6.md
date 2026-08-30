@@ -1,0 +1,33 @@
+---
+id: "19d2ec3e38128dc6"
+subject: "Learn how to build your own apps with Claude Code [Free 12-hour course]"
+from: "Quincy Larson <quincy@freecodecamp.org>"
+to: ""
+date: 2026-03-27 10:08:02
+labels: ["CATEGORY_PERSONAL", "IMPORTANT", "INBOX", "Quincy"]
+label_ids: ["CATEGORY_PERSONAL", "IMPORTANT", "INBOX", "Label_7697778124671848699"]
+---
+Here are this week's five freeCodeCamp resources that are worth your time:
+
+1. freeCodeCamp just published a comprehensive course that will walk you through using the popular AI-assisted development tool Claude Code. You'll learn about Code Harnesses, Agentic Loops, Sandboxing, and other key concepts. By the end of the course you'll be able to spin up an entire fleet of agents to help you fix bugs and build out new features. (12 hour YouTube course): https://www.freecodecamp.org/news/claude-code-essentials-exampro/
+
+2. We also published a course on the Hugging Face tool ecosystem. You'll learn how to connect your models, datasets, and deployment tools into a single unified build pipeline. (7 hour YouTube course): https://www.freecodecamp.org/news/deploying-ai-models-with-hugging-face/
+
+3. On this week's podcast I interview Chris Coyier. He's a front-end dev who built CodePen and the influential CSS Tricks blog. He shares his thoughts on front-end development tools and how he thinks they're 90% of the way to where he ideally wants them. He also explains why highly skilled devs who are working on novel problems don't need to worry about AI disrupting their careers. (1 hour watch or listen in your favorite podcast app): https://www.freecodecamp.org/news/the-world-still-needs-people-who-care-codepen-founder-chris-coyier-interview-podcast-212/
+
+4. Learn how to secure your Kubernetes Cluster. This in-depth tutorial starts by exploring real-world security breaches at big companies like Tesla, Shopify, and Capital One. Then it walks you through how to prevent each of these types of attacks by hardening your setup. (1 hour read): https://www.freecodecamp.org/news/how-to-secure-a-kubernetes-cluster-handbook/
+
+5. Tell your Spanish-speaking friends: freeCodeCamp just published a new Spanish-language course on SQL and relational databases. It covers tables, foreign keys, queries, data manipulation, and more. (4 hour YouTube course): https://www.freecodecamp.org/news/learn-sql-course-for-beginners-in-spanish/
+
+We're a community of teachers and developers with a big shared mission: to create open source learning resources for everybody. Join the 10,113 kind folks who support our charity: https://www.freecodecamp.org/donate
+
+Quote of the Week: 
+“I’ll probably be explaining CSS border-radius tricks into the dirt with a stick after the apocalypse.” — Software Engineer and prolific teacher Chris Coyier on this week's freeCodeCamp podcast
+
+Until next week, happy coding.
+
+-- Quincy Larson
+
+Teacher and founder of freeCodeCamp.org
+
+If these aren't worth your time, you can turn them off: https://www.freecodecamp.org/ue/eZV2T3gHC7IGcwcpYPG64

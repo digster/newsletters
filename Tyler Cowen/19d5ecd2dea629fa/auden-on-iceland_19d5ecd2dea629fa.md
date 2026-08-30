@@ -1,0 +1,11 @@
+---
+id: "19d5ecd2dea629fa"
+subject: "Auden on Iceland"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2026-04-05 17:59:57
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699"]
+---
+If you have no particular intellectual interests or ambitions and are content with the company of your family and friends, then life on Iceland must be very pleasant, because the inhabitants are friendly, tolerant, and sane. They are genuinely proud of their country and its history, but without the least trace of hysterical nationalism. I always found that they welcome criticism. But I had the feeling, also, that for myself it was already too late. We are all too deeply involved Europe to be able, or even to wish to escape. Though I am sure you would enjoy a visit as much as I did, I think that, in the long run, the Scandinavian sanity would be too much for you, as it is for me. The truth is, we are both only really happy living among lunatics.
+That is from W.H. Auden and Louis MacNeice, [Letters from Iceland](https://marginalrevolution.com?action=user_content_redirect&uuid=8c0098eb9f7a7de4fb307bc0095fa7471f74ea52c200f6a2f65b17c17a9920c6&blog_id=42693868&post_id=92773&user_id=262258391&subs_id=225460721&signature=ea6ba6edd3db38dba1ebf5b6b9b5859c&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9MZXR0ZXJzLUljZWxhbmQtTWFjTmVpY2UtTG91aXMtQXVkZW4vZHAvMDU3MTI4MzUyNy9yZWY9c3JfMV8xP2NyaWQ9M0UyWk0xUVUwNUc2SSZkaWI9ZXlKMklqb2lNU0o5LkdlY3dweHE0YlU1WW9OUWR5ejB4VWU4emI2bVAtLUU2NnhhYzJ5RVVKbEVUYWRDRl9McFBqS0R0THV4TmQzNnNpa3l3SjNZOTJyWEtsc25manhjalU2SXgtcTZYTk1ILVFTQ1g2NmY0ajB3bjQ3UEhmR2ZVcEdqWlo2SmNiQXh5RTdUc1dvMkJ0LUVXRHJjbHhEWjZNWk02RmZvRFVrQ1RXdlRIcWV0aDFTZHNvMkNMdVRYWHBqVVhUUjQwUW93SWlJSzhqcjFMRzdpOXlnUVVmdE1GZmhWMG4yUVp5SzRZNC12OGJoRzBOajAuenV2dWVZYVFVRzMzdTBVM2dBNE5IVXRvbEdXSlhzZmU3MGdIZEU3S1Y5TSZkaWJfdGFnPXNlJmtleXdvcmRzPWxldHRlcnMrZnJvbStpY2VsYW5kJnFpZD0xNzc1NDExODMwJnNwcmVmaXg9bGV0dGVycytmcm9tK2ljZWxhbmQlMkNhcHMlMkMxODImc3I9OC0x&email_id=ed492da63f349ce435203f7ff7287911), from 1937, which is one of the better travel books, if indeed that is what it is.

@@ -1,0 +1,13 @@
+---
+id: "19e5feb1bfae7b62"
+subject: "Monday assorted links"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2026-05-25 16:15:03
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+1. [Sampling DNA from animal skin parchments](https://marginalrevolution.com?action=user_content_redirect&uuid=3602c12b975b92032bda50fe18cc4a6b431c15ef1ceb4358333ccd1c579788de&blog_id=42693868&post_id=93064&user_id=262258391&subs_id=225460721&signature=67724ff90309041a400c24f8b5e12bd6&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly9hcmNoYWVvbG9neW1hZy5jb20vMjAyNi8wNS9ub25kZXN0cnVjdGl2ZS1kbmEtc2FtcGxpbmctb2YtYW5jaWVudC1wYXJjaG1lbnRzLw=&email_id=f23480d3f56496b0051059e0a9c9a1f8).
+2. [The making of Indian statistics](https://marginalrevolution.com?action=user_content_redirect&uuid=0ebd08e8a8ffbb0a2acaeff88f5fdc3dc6601701419fe47d90e9fdfec303f789&blog_id=42693868&post_id=93064&user_id=262258391&subs_id=225460721&signature=cda608fe845c5271056a339db6c5e2a7&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly9hbHRlcm1hZy5jb20vYXJ0aWNsZXMvdGhlLW1ha2luZy1vZi1pbmRpYW4tc3RhdGlzdGljcw=&email_id=f23480d3f56496b0051059e0a9c9a1f8).
+3. [What happens if your iPhone is stolen in London?](https://marginalrevolution.com?action=user_content_redirect&uuid=9ad0e0d558d74e04e45960d0ffaec0719329f3e3d1b7a6e6ee79737c1fc90018&blog_id=42693868&post_id=93064&user_id=262258391&subs_id=225460721&signature=1cbc9b7f4658bd72fa7bed2255d912f6&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly93d3cubnl0aW1lcy5jb20vMjAyNi8wNS8yMy93b3JsZC9ldXJvcGUvcGhvbmUtdGhlZnQtdGhyZWF0cy1sb25kb24uaHRtbD9zbWlkPW55dGNvcmUtaW9zLXNoYXJl&email_id=f23480d3f56496b0051059e0a9c9a1f8) (NYT)
+4. [Brazil school phone bans](https://marginalrevolution.com?action=user_content_redirect&uuid=2d20ff171c64eb5f8d88009be5ed318db00c9c5bfbbcad439acca7253a61b4ce&blog_id=42693868&post_id=93064&user_id=262258391&subs_id=225460721&signature=3db69bf740c95df2eb0db2be4208e2f6&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly93d3cubmJlci5vcmcvcGFwZXJzL3czNTIzMyNmcm9tcnNz&email_id=f23480d3f56496b0051059e0a9c9a1f8): "We then show that test scores, which were trending similarly in the two groups prior to the ban, improved by 0.06 s.d. in treatment schools relative to control."

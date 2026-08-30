@@ -1,0 +1,10 @@
+---
+id: "19d492ade55fb911"
+subject: "He Hacked Finance And Is Now Building An AI CEO - EP 63 Pedro Franceschi"
+from: "Core Memory  <ashleevance@substack.com>"
+to: ""
+date: 2026-04-01 13:05:03
+labels: ["Ashlee Vance", "CATEGORY_PERSONAL", "INBOX", "UNREAD"]
+label_ids: ["Label_4216359091400734623", "CATEGORY_PERSONAL", "INBOX", "UNREAD"]
+---
+Pedro Franceschi taught himself to code when he was eight years old. At 12, he began receiving legal notices from Apple, asking him to stop hacking iPhones. By 14, he was making hundreds of thousands of dollars a year selling software and had his mom accompanying him on job interviews in his home city of Rio de Janeiro. Even among coding and hacking prodigies, Franceschi stands out. Today, Franceschi is the co-founder and CEO of Brex, a financial technology company that was just acquired by Capital One for $5.15 billion. Franceschi is all of 29 years old now, so he’s done alright. Brex led a new wave of companies that brought more modern financial tools first to start-ups and then to businesses of all sizes. Over the years, it’s had some ups and downs, and Franceschi has been remarkably open about Brex’s stumbles, his mental health struggles and about the areas where he thinks Brex got things very right. Franceschi remains a hacker at heart and has been experimenting away with AI agents. He, in fact, says he’s running Brex – and his life – with a team of AI agents that read his e-mails and Slack messages, perform job recruiting tasks and schedule his day-to-day activities. We get into all of this on the episode, charting Franceschi’s rise from hacking phenom to running a multi-billion-dollar company and discussing where he thinks AI and money are heading. Do we have journalistic conflicts with this episode? Yes, we do. Brex has been the top sponsor of our podcast and The podcast is also made possible by Hopefully, you enjoyed this story. If so, please share it and subscribe to Core Memory. We want to do more of this for you and need your help. Thanks! |

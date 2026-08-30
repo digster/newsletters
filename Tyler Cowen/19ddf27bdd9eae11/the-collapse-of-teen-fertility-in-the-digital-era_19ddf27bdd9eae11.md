@@ -1,0 +1,11 @@
+---
+id: "19ddf27bdd9eae11"
+subject: "The collapse of teen fertility in the digital era"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2026-04-30 16:10:16
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+Teen fertility collapsed globally starting around 2007. This affected countries across the income and policy spectrum. This paper argues that smartphones changed how teens spend time with each other, and that this change in turn drove the collapse in teen fertility. Once enough teens are on the phone, being on the phone is where the peer network is; in-person time falls sharply, and with it the unstructured contact in which most unintended teen conceptions occur. A coordination model formalizes this tipping: as the smartphone price falls, the in-person equilibrium ceases to exist and the economy moves to a phone-mediated one. Within the United States, terrainruggedness variation in broadband and 4G coverage identifies a causal effect on teen fertility, and time-use diaries show in-person socializing among teens roughly halving while digital leisure roughly tripled. A parallel design for England and Wales recovers the same acceleration and the same effect of mobile coverage on teen conceptions, ruling out country-specific contraceptive-access and welfare-reform stories. The model predicts that the shift towards the phone-mediated equilibrium affects multiple aspects of teen behavior. The same instrument that produces a collapse in teen fertility produces a surge in teen suicides.
+That is from [a recent paper](https://marginalrevolution.com?action=user_content_redirect&uuid=8b4b80d296100e1fbc682f31bed3bb36bd9bdb209dbe7a94d9c16100d2806f62&blog_id=42693868&post_id=92926&user_id=262258391&subs_id=225460721&signature=1726e81191e16d20593bdd18057dac6b&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly9ob21lcGFnZXMudWMuZWR1L35tb3Njb3Nobi9QZXJzb25hbF93ZWJwYWdlL3BhcGVycy9TbWFydHBob25lX3dlYi5wZGY&email_id=1c44ed9c75a3317593e193961147268a) by Nathan Hudson and Hernan Moscoso Boedo.

@@ -1,0 +1,38 @@
+---
+id: "19e894c0a97bda72"
+subject: "Can You Reverse Decades of Drinking Damage? Perhaps. - EP 75 Jacob Kimmel Is Back"
+from: "Core Memory  <ashleevance@substack.com>"
+to: ""
+date: 2026-06-02 17:01:35
+labels: ["Ashlee Vance", "CATEGORY_PERSONAL", "INBOX", "UNREAD"]
+label_ids: ["Label_4216359091400734623", "CATEGORY_PERSONAL", "INBOX", "UNREAD"]
+---
+|
+Jacob Kimmel returns to the show. And he might have cured the hangover and liver disease. NBD.
+Kimmel is the co-founder and president of NewLimit and one of the deepest thinkers in the longevity field. His company has been working to reverse the aging process in the body and has seen some stunning results with a new therapy that undoes liver damage in mice. We’re talking old mice that shrug off the effects of too much booze as if they were teenagers and that exhibit recoveries from long-term alcohol abuse.
+The results have been good enough to help NewLimit raise another $435 million from the likes of Founders Fund and Thrive Capital. They’re also good enough to have NewLimit kick off a human trial of the therapy next year. And I’ll drink to that.
+We discuss all of this on the podcast and then go much deeper on the longevity field, bio-tech and the collision of AI and biology.
+The Core Memory podcast is on all major platforms and on our YouTube channel [over here](https://substack.com/redirect/f67b68ed-c17b-4377-8736-f8355fd93291?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o). If you like the show, please leave a review and tell your friends.
+OUR SPONSORS
+SendCutSend
+Do you make stuff? Do you need metal parts fast and believe in truth and justice? Then head on over to [SendCutSend](https://substack.com/redirect/ecd2c503-33be-40d0-a0c3-9fdd52d73376?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) where you’ll get a [15 percent discount](https://substack.com/redirect/ecd2c503-33be-40d0-a0c3-9fdd52d73376?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) thanks to Core Memory on whatever you’re trying to build. We believe in you.
+Brex
+The Core Memory podcast is also sponsored [by Brex](https://substack.com/redirect/1bc5b1c2-c3b8-486b-b55c-e81de8bf6c69?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o), the intelligent finance platform built to help companies spend smarter and move faster.
+Did we go to Texas, find a telescope ranch and then obtain an entire nebula in Brex’s honor? [Oh yes, we did.](https://substack.com/redirect/34816f06-e338-4acf-8dde-8c5a555cd7de?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+We run on Brex and so should you. Learn more about [Brex right here](https://substack.com/redirect/bec9f002-b4ad-4044-8b76-459e08bd0862?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o).
+Timestamps
+0:0) Intro
+3:50 What Is Epigenetic Reprogramming?
+7:16 Growing a Whole Animal From One Old Cell
+13:06 Meet Ambrosia, the AI Hunting for Youth
+22:44 $435 Million and the Race to Human Trials
+29:26 The Drunk Mice That Skip the Hangover
+36:48 Inside the First Human Trial
+43:14 Will There Ever Be a Hangover Pen?
+49:39 Beyond the Liver: The Delivery Problem
+1:03:27 Answering the Skeptics
+1:12:42 Will OpenAI Become a Drug Company?
+1:23:53 The Health Story Bigger Than AI?
+1:35:00 How Far Behind Is the US vs China?
+1:53:10 Can We Build Computers From Neurons?
+Hopefully, you enjoyed this story. If so, please share it and subscribe to Core Memory. We want to do more of this for you and need your help. Thanks!

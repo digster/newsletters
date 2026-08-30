@@ -1,0 +1,10 @@
+---
+id: "19efebbff8e499b8"
+subject: "Sacred Identify"
+from: "Robin Hanson from Overcoming Bias <overcomingbias@substack.com>"
+to: ""
+date: 2026-06-25 12:22:31
+labels: ["CATEGORY_PERSONAL", "INBOX", "Overcoming Bias", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_8616244883382228708", "UNREAD"]
+---
+What is the sacred? It What is ideal identity? Let me suggest that it is similar. We each aspire to be the instrument by which others can connect deeply with something they value. And the more that others are compelled and entranced by this connection, the more that we feel we have achieved our ideal of identity. For example, an actor helps you see a character, a singer helps you see a song, an athlete helps you see a game, a teacher helps you see a lesson, an essayist helps you see a point, and a visionary helps you see a vision. If being French is an identity of mine, then when you interact with me, I want you to see the French way of being in me. To see it clearly, as a coherent thing, and come naturally and effortlessly to me. If my sexual identity is (cis) male, then I want (cis) women in my presence to feel compelled to engage the maleness in me, and to feel sexually attracted if open to that. In which case they should ideally not just abstractly note that I am male, but feel compelled to focus on it; they can’t look away, or think about other things. Thus I’m suggesting that ideal identity is much like ideal group bonding. We don’t bond directly to each other, but instead bond via seeing something special together. A group bonds by sharing the sight of a special thing, while a great individual identity makes for a great conduit by which others can see special things. This helps to explain why we don’t want others to think we seek to get others to attend directly to us. We don’t want to claim to be smart, or beautiful, or rich. We instead want to happen to be their focus of attention as they try to see something special, where we are their best way to do that. You're currently a free subscriber to |

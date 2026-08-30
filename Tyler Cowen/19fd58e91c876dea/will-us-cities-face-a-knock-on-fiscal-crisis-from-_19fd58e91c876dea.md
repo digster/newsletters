@@ -1,0 +1,14 @@
+---
+id: "19fd58e91c876dea"
+subject: "Will U.S. cities face a knock-on fiscal crisis from the feds?"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2026-08-06 05:31:57
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+Federal money flows to cities in three flavors: direct transfers, indirect transfers, and what we call fiscal dark matter. Direct transfers are exactly what they sound like — money sent directly from the federal government to various localities. These include funds disbursed through programs like the Community Development Block Grant (CDBG), which supports things like public infrastructure and neighborhood services.
+[3]In 2022, direct transfers like the CDBG[totaled $146.3 billion].[4]That’s significant, but actually the smallest of the three categories.Less visible are the indirect transfers. These monies are initially awarded to state governments, which then allocate funds to municipal-level programs and services in accordance with state prerogatives. The cleanest example is probably K-12 education, which receives federal Title I dollars to pay for teachers and programs, but federal highway dollars work essentially the same way. All told, in 2022, the federal government
+[handed down $1.1 trillion to state governments]. That amounted to 36% of overall state revenue for that year and, depending on the individual state, ranged from roughly 22% to 50% of state revenue. How much of that ultimately flowed down to cities is hard to say, which is itself a problem: it’s difficult to even establish how exposed local governments are to a pullback in federal support of state budgets.The third category – our fiscal dark matter – is all the federal money spent into local communities that never shows up in a local budget. This includes housing subsidies like the Low-Income Housing Tax Credit (LIHTC) and Section 8. It also includes food support programs like SNAP and even some direct funding for local food banks.
+Rightfully or not, when the flow of federal money in this category starts to dry up, the resulting problems will fall squarely on the mayor’s desk. After all, the median voter is never going to see increasing numbers of homeless encampments and think to blame the head of HUD.
+Here is [the full piece by Jeff Fong](https://marginalrevolution.com?action=user_content_redirect&uuid=4d6894f09eef761198c5a875dbd25658d185b211dcb431adb0b4a3805d80c380&blog_id=42693868&post_id=93537&user_id=262258391&subs_id=225460721&signature=9fe36b189dbe84e29c50eff618c86262&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly93d3cudXJiYW5wcm94aW1hLmNvbS9wL3RoZS1maXNjYWwtY3Jpc2lzLWZhY2luZy1hbWVyaWNhbj9oaWRlX2ludHJvX3BvcHVwPXRydWU&email_id=83387ead727d9794a606ed546a361e3a).

@@ -1,0 +1,115 @@
+View this post on the web at https://newsletter.pragmaticengineer.com/p/context-engineering-with-dex-horthy
+
+Stream the latest episode
+Listen and watch now on YouTube [ https://substack.com/redirect/2647d48f-90dd-4f1e-87b4-f2b135aeba0a?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ], Spotify [ https://substack.com/redirect/a2f92672-2045-4fe9-84e5-72562337db1d?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ], and Apple [ https://substack.com/redirect/8d155526-1c6d-4873-b5db-b7a3697e9fdb?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]. See the episode transcript at the top of this page, and timestamps for the episode at the bottom.
+Brought to You by
+• Antithesis [ https://substack.com/redirect/0b57da60-be00-47f0-8a52-09f1771cae13?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ] — with Antithesis, you can use AI agents to work on critical systems without worrying about correctness. Going far beyond code review, you can run your complete system in a hostile environment, analyze its behavior, and reproduce every issue perfectly. Teams like Jane Street, Fly.io [ https://substack.com/redirect/7bc2f45f-a050-48b3-bf16-b82e7c33f0d9?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ], and the etcd community use Antithesis to ship better code, faster. Learn more. [ https://substack.com/redirect/0b57da60-be00-47f0-8a52-09f1771cae13?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]
+• Buildkite [ https://substack.com/redirect/d3a9b96b-6116-4352-8d42-be986542e3c6?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ] — the CI platform trusted by OpenAI, Anthropic, Cursor, Meta, Uber, Ramp, Nvidia, Airbnb and many more. Buildkite was stress-tested at the largest scale inside companies solving some of the hardest engineering problems. It’s built to reliably manage whatever your coding agents throw at the build queue, today, next year and beyond. Learn more. [ https://substack.com/redirect/d3a9b96b-6116-4352-8d42-be986542e3c6?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]
+• Sentry [ https://substack.com/redirect/062e086e-9724-4541-88ef-aa30366b5bd3?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ] – application monitoring software built by developers, for developers. Sentry’s Seer AI agent [ https://substack.com/redirect/92b77f34-c50f-4d9a-a2f7-39acb3ea1af7?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ] is one of their new, neat tools, as a way to debug errors faster. Same with Sentry’s MCP server. Check out Sentry [ https://substack.com/redirect/062e086e-9724-4541-88ef-aa30366b5bd3?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ].
+In this episode
+Knowing how LLM contexts work and how to work around context limitations – aka “context engineering” – is becoming more important for software engineers working with LLMs. Let’s look into what works and what doesn’t, today.
+In this episode of The Pragmatic Engineer podcast, I sit down with the CEO and cofounder of HumanLayer, Dex Horthy, who coined the term “context engineering”. We discuss the ideas behind this context engineering, harness engineering, loop engineering, software factories, why his approach to AI-assisted software development has evolved, and how HumanLayer [ https://substack.com/redirect/83c3d247-5452-4956-a349-cf4fea0d4376?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ] is helping engineering teams automate more of the software development lifecycle without sacrificing code quality.
+Key observations from Dex
+Here are 12 useful points Dex made in our conversation:
+1. Dex talked with ~100 “real” AI Engineers and wrote the popular ‘12-Factor Agents - Principles for building reliable LLM applications [ https://substack.com/redirect/1a3be646-1d47-4ed7-9056-d9b985e9d930?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]’ based on what he learned. Around August 2024, he started to build AI agents when the common approach was to use frameworks like LangChain and CrewAI, and also talked with around 100 AI engineers doing tangible work such as taking on $100K+ contracts to ship AI solutions within enterprises. They tried those frameworks and discarded them in favor of building their own pipelines. Dex shared the learnings from the conversations in his hit book, 12-Factor Agents [ https://substack.com/redirect/1a3be646-1d47-4ed7-9056-d9b985e9d930?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]. It’s a great read!
+2. Lesson learned: Shipping unread code spells disaster within months. Dex experimented with having the model write the code and humans not reviewing anything in July 2025. Four months later, they shut things down and threw the whole system out. Production broke, and no matter how much the team prompted Opus 4.1, the model could not find the root cause.
+It took days of wading through spaghetti code to discover the primary key wrongly routed through the complete codebase. Once fixed, it took three weeks to re-onboard to a codebase no human had ever read. Today, Dex thinks this problem wouldn’t even take four months to develop, now that newer models produce code a lot faster than a year ago.
+3. Today’s coding models are most likely trained in a way that makes codebases worse over time. Dex believes that the reason we see LLMs “degrade” existing codebases is because they are optimized to do well on SWE-bench-style benchmarks. These benchmarks reward reproducing a known fix in codebases like Django, but cannot measure poor architecture decisions. This is because the cost function of bad architecture and bad program design cannot be evaluated by running a unit test. It’s a tricky problem to solve: Dex’s best guess is an eval of a model building 20 features in a row in a codebase without knowing what’s coming next.
+4. Context engineering 101: figure out where the “dumb zone” begins. As a rule of thumb, the less of the context window that is used, the better the outcomes are. This is because the attention mechanism is quadratic [ https://substack.com/redirect/c753e0b0-1559-4dcf-bd1e-abc25c5c9644?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]: the more that goes into the context window, the more compute is required to process it all. We cover more about self-attention scalability challenges in our ChatGPT deepdive [ https://substack.com/redirect/c753e0b0-1559-4dcf-bd1e-abc25c5c9644?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ].
+For a model with a 1M context window, Dex pushes it to around 300-400K when it feels right. For smaller models, he stops at around 100K. You hit the “dumb zone” when its performance starts to degrade because the context window fills up beyond this heuristic limit, and the model begins doing increasingly stupid things like deleting your .env file, for example.
+5. A larger context window does not mean a smarter model. Models’ intelligence is behind the ability to use the tokens in the context window, by deciding which parts of the context are relevant for the next decision. You have to get a feel for how much context usage makes sense, and experiment when you hit the “dumb zone.”
+6. Frequent, intentional compaction is a technique Dex uses for more complex projects. He will take a long and noisy context, compress it into a Markdown document, then start a new session fresh, pointing the model to this “compressed context” that is in the Markdown.
+A workflow he uses:
+One session reads a ton of code (filling up its context window while in the “smart zone”), then emits a research document
+The next session takes tickets describing the work to be done and turns it into a design document
+The following session takes both documents to create a plan
+The human is in the loop where it really matters: in this case, reviewing the design document and architecture because Dex finds models to be weak on this
+7. Don’t bother optimizing LLM usage until business is booming, there’s massive scale, or high costs. Dex suggests to always start building software with the smartest available model to solve the problem, since engineering time is almost always the bottleneck. Begin to optimize LLM usage and context usage only when at real scale and costs are high enough. That’s when it can be worth using GPT-OSS-120B (1/1,000th the cost of Opus) for the simpler steps in your process.
+8. “You’re completely right!” or “you’re right to push back on that” are phrases that mean it’s time to start a new session. These responses mean the LLM session is trajectory-poisoned, and you’re wasting time and tokens to continue. Models are autoregressive [ https://substack.com/redirect/e8811a7a-578e-4e12-8577-097c84f8a2e1?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ], so if you get into this loop of:
+Model makes a mistake
+→ user “yells”
+→ model keeps making mistakes
+→ user “yells”
+… the model calculates that the next most probable message is to make another mistake!
+9. Only four things matter in the context window:
+Size: the bigger it is, the more space you should have before hitting the “dumb zone”
+Information quality. Once something is in the context window, every subsequent turn treats it as fact. This is why errors can compound.
+Missing information: if there’s information missing that the agent would need, the outcome will be worse, as the agent fills in the gap with guesses.
+Trajectory. Models are autoregressive, so they predict the next message in the conversation based on previous ones in a kind of thread of reasoning. “Trajectory poisoning” is when the agent gets into a pattern of doing things you don’t want. In this case, it’s time to start over.
+10. Slow loops are Dex’s favorite way to do ‘loop engineering.’ The HumanLayer team started with a nightly automation setup that kicks off an agent to fix one thing in the codebase, and open a pull request. In the mornings, they woke up to a PR waiting to be merged. They tweaked it over time and now have four agents open a total of four PRs by the morning, with the focus on code quality improvements. A person still reads all of them before merging.
+11. “Token harder” vs. “token smarter”: Dex is in a group chat named ‘Hyper Engineering’, where members share advice on how to max out their Claude subscriptions. This approach, he calls “token harder”. On the other side is “token smarter”: aiming to get maximum value from AI while keeping control. Smarter is harder to pull off.
+12. Three ways to run a “software factory.” Here’s options Dex sees as viable:
+“Turn the lights off:” go all-in on agentic coding, do not review the code, and pray that AI doesn’t create too much slop. Dex tried this and failed.
+Read and review all AI-generated code. This slows things down to human speed. Dex says that this way, you should expect a 30-50% lift in productivity from AI, compared to pre-AI engineering.
+Find leverage, but keep people in the loop. Find out where an hour spent in planning could save four hours’ worth of implementation, in terms of fewer bugs. Invest more time in areas with leverage: design, architecture, and key decisions. Then, let the agent generate code and don’t insist on reviewing all of it. In this way, Dex believes you can move 2-3x faster than when devs wrote all code by hand.
+The Pragmatic Engineer deepdives relevant for this episode
+• How Uber uses AI for development: inside look [ https://substack.com/redirect/a059b111-3289-49c8-9c4c-defd67e5db25?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]
+• Are AI agents actually slowing us down? [ https://substack.com/redirect/92b9f47c-6510-4f47-bc4c-e91ec38bffc5?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]
+• AI Tooling for Software Engineers in 2026 [ https://substack.com/redirect/c6e50597-8af7-4b93-95a4-4fc39266214d?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]
+• Vibe Coding as a software engineer [ https://substack.com/redirect/c737ac56-4551-4002-a018-fa80a7720047?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]
+• How Claude Code is built [ https://substack.com/redirect/9da747f4-3168-4c7a-9f8a-abae841b24e0?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]
+• AI Engineering in the real world [ https://substack.com/redirect/42cd3466-86a5-4329-be43-b95ca422f68d?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]
+• The AI Engineering Stack [ https://substack.com/redirect/a9743828-e90f-4822-812a-fdce4dcb0592?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]
+• How AI-assisted coding will change software engineering: hard truths [ https://substack.com/redirect/ccc2d53a-974d-4bec-b76f-3e006bd225e4?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]
+• The creator of OpenClaw: “I ship code I don’t read” [ https://substack.com/redirect/2c3dc104-5b3d-4565-a042-4cfe3b06371d?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]
+Timestamps
+00:00 [ https://substack.com/redirect/d9dd0a7f-08ce-4529-a1cd-107875b39a77?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ] Intro
+01:33 [ https://substack.com/redirect/3ebce34e-9635-4f52-93c9-7f2d121c68aa?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ] Dex’s path into tech
+03:34 [ https://substack.com/redirect/49fa8488-9e46-49f6-88a0-d7509ef5475e?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ] Early work in platform engineering
+05:28 [ https://substack.com/redirect/5da99e46-a2ba-410f-89d9-3ed97f3e5320?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ] Replicated
+11:24 [ https://substack.com/redirect/e20dae8a-d637-4f7d-91f9-3fd0e87d6dae?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ] Metalytics
+12:36 [ https://substack.com/redirect/40c224ab-2cc1-416a-bd4e-933946be60fc?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ] 12-factor agents
+18:27 [ https://substack.com/redirect/4e0f360a-9925-4f32-bead-21a19f5a0a83?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ] Context engineering
+23:38 [ https://substack.com/redirect/e8cc288b-c0f7-46d8-aae9-d5c37a02172f?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ] Harness engineering
+26:11 [ https://substack.com/redirect/4a6b56cd-180e-4b3d-b1ab-679654806724?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ] Context overload
+30:45 [ https://substack.com/redirect/d0ca147c-996d-4ee1-b4e3-9a615ddb935c?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ] Loop engineering
+44:34 [ https://substack.com/redirect/d2f50172-45b5-4679-8f56-c7313a6aaa7f?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ] Software factories before and after AI
+50:33 [ https://substack.com/redirect/82aefb7b-a234-4cb0-9eeb-98ced607c636?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ] Automation limits
+55:18 [ https://substack.com/redirect/d81bb0b4-21ed-461e-89a0-480462c5c011?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ] Three options for automating
+59:00 [ https://substack.com/redirect/aac42c57-a5f5-46de-8c00-6adfce592339?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ] RPI framework
+1:04:16 [ https://substack.com/redirect/33e48313-968b-4de9-b43e-1ccb3fdce97b?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ] Intentional compaction
+1:11:48 [ https://substack.com/redirect/1e777298-977b-4845-9192-f5ed54ce450f?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ] Token harder vs. token smarter
+1:16:44 [ https://substack.com/redirect/436969eb-d0d5-4485-8c81-8fd5e990df81?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ] AI slop
+1:19:15 [ https://substack.com/redirect/9ee248dc-66a4-4a44-b602-7411c23a41d5?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ] HumanLayer
+1:29:09 [ https://substack.com/redirect/f931d4c2-96f2-4350-96e5-072a4d0cad04?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ] Book recommendation
+References
+Where to find Dex Horthy:
+• X: https://x.com/dexhorthy [ https://substack.com/redirect/01ac0e1f-6099-40bc-871b-b27fa2dc71ee?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]
+• LinkedIn: linkedin.com/in/dexterihorthy [ https://substack.com/redirect/dd79bf6c-d3c3-4d11-b5e1-3100dd1c6a62?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]
+• Website: https://www.humanlayer.dev [ https://substack.com/redirect/0ff0249c-66ea-4dca-9a98-5435c7454e2e?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]
+Mentions during the episode:
+• HumanLayer: https://www.humanlayer.dev [ https://substack.com/redirect/0ff0249c-66ea-4dca-9a98-5435c7454e2e?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]
+• Jet Propulsion Laboratory (JPL): https://www.jpl.nasa.gov [ https://substack.com/redirect/bc5a661c-0ed4-4119-bf21-9548d612c5a7?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]
+• Dykstra’s projection algorithm: https://en.wikipedia.org/wiki/Dykstra’s_projection_algorithm [ https://substack.com/redirect/ecc66d2d-b0c8-4269-8bb8-d9260e8b30c3?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]
+• Replicated: https://www.replicated.com [ https://substack.com/redirect/d3bf7730-bcc2-468e-ac59-1e551929151d?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]
+• Docker: https://www.docker.com [ https://substack.com/redirect/6d1c9ad4-8605-4b39-8008-db7f97437823?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]
+• HashiCorp: https://www.hashicorp.com [ https://substack.com/redirect/2e0a9415-d326-4471-948b-63688865fa92?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]
+• DataStax: https://www.ibm.com/products/datastax [ https://substack.com/redirect/63ecc708-9930-4945-a863-953268277839?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]
+• Puppet: https://www.puppet.com [ https://substack.com/redirect/4cc4c939-acc0-40e4-86f6-ca202149eefd?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]
+• Travis CI: https://www.travis-ci.com [ https://substack.com/redirect/253e41bf-1e85-430e-941f-ed10ead98c2b?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]
+• Circle CI: https://circleci.com [ https://substack.com/redirect/c5095aad-6274-4a02-8dfd-d8cd4095488f?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]
+• Randy Newman’s website: https://www.randynewman.com [ https://substack.com/redirect/a13da9f6-b69e-4c61-b8e6-0cea7c5ca50f?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]
+• 12-Factor Agents - Principles for building reliable LLM applications: https://github.com/humanlayer/12-factor-agents [ https://substack.com/redirect/1a3be646-1d47-4ed7-9056-d9b985e9d930?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]
+• The creator of Clawd: “I ship code I don’t read”: https://newsletter.pragmaticengineer.com/p/the-creator-of-clawd-i-ship-code [ https://substack.com/redirect/2c3dc104-5b3d-4565-a042-4cfe3b06371d?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]
+• Vaibhav Gupta on LinkedIn: https://www.linkedin.com/in/vaigup [ https://substack.com/redirect/d6710d38-b1b6-4e66-93ba-6c45fb46a4ca?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]
+• Tobi Lutke’s post on X about context engineering: 
+• Andrej Karpathy’s post on X about context engineering: 
+• Improving Deep Agents with harness engineering: https://www.langchain.com/blog/improving-deep-agents-with-harness-engineering [ https://substack.com/redirect/4321d368-e38d-4aba-ba26-1ed5417957de?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]
+• # Skill Issue: Harness Engineering for Coding Agents: https://www.humanlayer.dev/blog/skill-issue-harness-engineering-for-coding-agents [ https://substack.com/redirect/49874cfb-5ff5-48d9-a49f-ce9a03ff3dc9?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]
+• Harness engineering for coding agent users: https://martinfowler.com/articles/harness-engineering.html [ https://substack.com/redirect/82123c80-0b16-4c2d-9092-752fcc8509a2?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]
+• How AI will change software engineering – with Martin Fowler: https://newsletter.pragmaticengineer.com/p/martin-fowler [ https://substack.com/redirect/341e42cd-e9c0-420e-9565-a32871ca9af9?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]
+• Dex’s post on X about context reality check: 
+• Laurie Voss on LinkedIn: https://www.linkedin.com/in/seldo [ https://substack.com/redirect/486d9eab-bcc5-4d73-8fea-7d5b719cf39b?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]
+• Everything is a ralph loop: https://ghuntley.com/loop [ https://substack.com/redirect/95dea52c-009f-4810-962f-5f1bbac84aac?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]
+• Dex’s post on X about feedback loops: 
+• Dex’s post on X about token harder vs. token smarter: 
+• Dex’s post on X about AI slop: 
+• GitHub: https://github.com [ https://substack.com/redirect/57774a0b-3a0c-4b6d-9877-3e4371726293?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]
+• Paul Graham, Live from Stockholm: https://www.ycombinator.com/library/Q7-paul-graham-live-from-stockholm [ https://substack.com/redirect/c2fe736f-118b-4529-b77a-edae78aac391?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]
+• Refactoring: Improving the Design of Existing Code: https://www.amazon.com/dp/0134757599 [ https://substack.com/redirect/71809946-82da-447a-9ffd-79d36d23cb3e?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]
+• Clean Code: A Handbook of Agile Software Craftsmanship: https://www.amazon.com/dp/0132350882 [ https://substack.com/redirect/f029a6e8-8bdd-4ac3-9247-56d58ef1f8bf?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]
+• The Pragmatic Programmer: From Journeyman to Master: https://www.amazon.com/dp/020161622X [ https://substack.com/redirect/aaddde76-ad53-45bf-b367-58c877c6d547?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]
+—
+Production and marketing by Pen Name [ https://substack.com/redirect/51b1cbd5-5b6c-445e-a3d1-c821c482ce4a?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ].
+
+Unsubscribe https://substack.com/redirect/2/eyJlIjoiaHR0cHM6Ly9uZXdzbGV0dGVyLnByYWdtYXRpY2VuZ2luZWVyLmNvbS9hY3Rpb24vZGlzYWJsZV9lbWFpbD90b2tlbj1leUoxYzJWeVgybGtJam94TkRVMk16TXhPU3dpY0c5emRGOXBaQ0k2TWpBM01EQXlOekkwTENKcFlYUWlPakUzT0RReE16SXdNRFVzSW1WNGNDSTZNVGd4TlRZMk9EQXdOU3dpYVhOeklqb2ljSFZpTFRRMU9EY3dPU0lzSW5OMVlpSTZJbVJwYzJGaWJHVmZaVzFoYVd3aWZRLk9RcU9uMlQ4NnRjMExMRHNJaGFuVVJnSmszdVhDNDZsS2Z4RnUzWllJRXMiLCJwIjoyMDcwMDI3MjQsInMiOjQ1ODcwOSwiZiI6dHJ1ZSwidSI6MTQ1NjMzMTksImlhdCI6MTc4NDEzMjAwNSwiZXhwIjoyMDk5NzA4MDA1LCJpc3MiOiJwdWItMCIsInN1YiI6ImxpbmstcmVkaXJlY3QifQ.pLUmqXPMGc4hiqneH9VmJZb6n3u9OZUP5fxfL58eAgc?

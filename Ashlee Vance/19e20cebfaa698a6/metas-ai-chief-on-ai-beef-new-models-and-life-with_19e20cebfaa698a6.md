@@ -1,0 +1,10 @@
+---
+id: "19e20cebfaa698a6"
+subject: "Meta's AI Chief On AI Beef, New Models And Life With Zuck - EP 71 Alex Wang"
+from: "Core Memory  <ashleevance@substack.com>"
+to: ""
+date: 2026-05-13 10:03:07
+labels: ["Ashlee Vance", "CATEGORY_PERSONAL", "INBOX", "UNREAD"]
+label_ids: ["Label_4216359091400734623", "CATEGORY_PERSONAL", "INBOX", "UNREAD"]
+---
+Last June, Meta pried Alex Wang away from Scale AI, the company he co-founded and ran, in a deal valued at $14 billion. Zuck could feel Meta fading in the AI race and decided that Wang was the rescue plan. He would work full-time at Meta, assemble a super team and hopefully make the company more competitive against the likes of OpenAI, Anthropic and Alphabet. Wang has basically been in hiding ever since. He moved from San Francisco to the South Bay to be closer to Meta’s headquarters and has been working non-stop. Last month, the world saw the first fruits of the revitalized AI effort in the form of Meta’s new Muse Spark model. And now Wang is speaking for the first time about the model, Meta’s grand AI ambitions and all the happenings over the last year in an exclusive interview here on the Core Memory podcast. Wang arrived at our studio sporting a mullet and a powerful whitetail deer camouflage shirt. He was in good spirits and tried his best to convince us that Meta can catch up to its rivals. We hit on his personal beef with Sam Altman, Zuck delivering soup to AI recruits, the incredible pay packages Meta has been handing out, the vast amount of work Meta still has to do and the Meta AI hierarchy that includes all-stars like Nat Friedman, Daniel Gross and Shengjia Zhao, who seems to have blocked me on X for reasons I know nothing about. Enjoy! Do you make stuff? Do you need metal parts fast and believe in truth and justice? Then head on over to The Core Memory podcast is also sponsored Did we go to Texas, find a telescope ranch and then obtain an entire nebula in Brex’s honor? We run on Brex and so should you. Learn more about Hopefully, you enjoyed this story. If so, please share it and subscribe to Core Memory. We want to do more of this for you and need your help. Thanks! |

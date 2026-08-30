@@ -1,0 +1,95 @@
+---
+id: "19f30cd2cfe44efc"
+subject: "First Principles: Power in sharing"
+from: "The Ken <info@the-ken.com>"
+to: ""
+date: 2026-07-05 05:42:59
+labels: ["CATEGORY_PERSONAL", "INBOX", "The Ken", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_8244464457792971031", "UNREAD"]
+---
+|
+|
+First Principles
+Sun, 05 Jul 26
+A community-powered Sunday newsletter on mental models, self-reflection, learning, growth, photos, books, and more.
+Hello Ishan, how are you feeling today?
+Right now, I am probably sitting in BIC attending a session by Natashi Joshi, the director of The Deodar Prize. For context, it’s an award for the best unpublished short fiction (2,500 words).
+One of the primary hurdles of judging unpublished fiction is of course AI, so the session aptly is on “Literature in the Age of Artificial Intelligence.” I will fill you in on all of it next week.
+I am going in with a few thoughts of my own, especially after a colleague shared a Noema article that made me contemplate.
+Which disclosed AI usage. Fair. But refining an idea you have with AI is not always a good move, because it will most likely agree with you, even when you have misinterpreted an age-old concept.
+Sure, the concept was coined by an old white man, and there are dozens of interpretations, so I can give the writer the benefit of the doubt.
+Still, it made me think that we are always negotiating what can or cannot be done by AI. We can never be sure that if the world decides to say no to AI someday, we will be able to hold on our own.
+If AI is used as idea-topping, meaning you have the germ of an idea but use AI to flesh it out, especially when building an argument, you inevitably end up with a double-bias, yours and AI’s.
+If you want to [rubber duck](https://the-ken.com/newsletter/first-principles/rubber-ducking/), why not connect with a real person?
+A colleague once told me to use AI for the work I’d give an assistant. But would you ask your assistant to refine your ideas? Or are you afraid they would come up with a better idea and demand recognition?
+Are you more confident now to put your ideas across a machine that is probably collecting so much of your data only because it won’t demand to be a co-author?
+The author of the Noema piece said that she used AI because English is not her first language. But language evolved precisely because not everyone speaks the same way. So what happens to it then?
+“Machine-generated text reads as smooth and polished, but it loses the meanders, interruptions and leaps of logic that communicate emotion,” The Guardian [wrote](https://www.theguardian.com/commentisfree/2026/apr/14/ai-language-human-speech), echoing exactly what I mourn in polished writing.
+If you do not want to involve a person, then be your own idea-topper. Just open a blank page and [start writing](https://the-ken.com/newsletter/first-principles/is-writing-thinking/).
+Tell me what you think in the comments section.
+This week, First Principles is truly powered by community. You are the highlight in all our sections.
+Scroll on to see what other members have shared.
+1. From the bookshelf 📚
+2. Movie pick(s) from the FP movie club🍿
+3. Green scenes 📸
+[Pro tip: This email is a highly abbreviated version, since many email clients impose restrictions on the amount of material we can publish in a single email before intervention. In fact, it’s likely some email clients may even clip this truncated email.
+The best way to experience this edition is to read it on our [website](https://the-ken.com/newsletter/first-principles/power-in-sharing/) or [app](https://the-ken.com/newsletter/first-principles/power-in-sharing/), where all sections are featured in full and unabridged form.
+Also, if your default setting is to not show images within emails, please consider turning it off for this newsletter. Or else, you’ll miss many of the interesting images and photos we carry each Sunday.]
+What are you reading this weekend? Why did you choose to read this book out of so many hundreds and thousands? Tell us [here](https://theken.typeform.com/FPBooks?typeform-source=the-ken.com).
+Harika Maganti by Small things like these by Claire Keegan
+“It is a powerful and deeply moving story that explores compassion, courage, and the cost of staying silent in the face of injustice. Set against the backdrop of Ireland’s Magdalene Laundries, it reminds us that even the smallest acts of kindness can challenge an entire system. If you’d rather watch than read, it’s also available as a film on Amazon Prime Video.”
+Prabhat Kumar – How will you measure your life? By Clayton Christensen
+“Strategy almost always emerges from a combination of deliberate and unanticipated opportunities. What’s important is to get out there and try stuff until you learn where your talents, interests, and priorities begin to pay off. When you find out what really works for you, then it’s time to flip from an emergent strategy to a deliberate one.”
+Ramya Kancharla – Exit Interview: The Life and Death of My Ambitious Career by Kristi Coulter
+“This is a candid and surprisingly funny memoir about what it means to be an ambitious woman working in Amazon. The scale of the work, individual ambition, and the cut-throat work culture all make for fascinating reading.”
+Vijay Subramaniam: The Click Moment: Seizing Opportunity in an Unpredictable World by Frans Johansson
+“Firstly, it was a revelation to see that an idea, from its inception, seldom goes on a symmetrical path to its fruition. Instead, the path is almost always circuitous, messy and often confusing. The other reason why I found the book deeply interesting was the way it explains the afterthought that I often have, which is, timing is everything.”
+Uday Khankhoje – 12 rules of life by Jordan Peterson
+“The title of the book feels like a cheesy self-help book, but dive in to find out what a gem of a book it is. I’d say it’s among the most beautiful and profound of books I’ve read. Jordan brings a vast scholarship of Western philosophy, combined with a scholarship and practice in psychology, to deliver a nuanced and thoughtful “antidote to chaos”, as he puts it. My only regret (something Jordan also admits) is that he hasn’t intersected with ancient Indian philosophy, e.g. Vedanta. Now that would have been an absolute corker of a book!”
+Kaushal Sampat – Savarkar by Vaibhav Purandare
+“The biography separates the facts and myths about Savarkar. It provides us not only with the facts about the man but also deconstructs the environment that led him to pioneer the Hindutva movement and the Hindu Mahasabha. It helps us get a better understanding not only of pre-Independence and post-Independence history, but also of the current political landscape of the country.”
+Kavitha Murali – Empire of Pain, London Falling, Say Nothing by Patrick Keefe
+“Patrick Keefe specialises in investigative journalism. Say Nothing is about the disappearance of a mother and how it connects to the “Troubles” in Ireland. Empire of Pain is about the Sackler dynasty and how they mainstreamed opioid addiction in the US. London Falling is about a young guy who gets embroiled with the underworld in London, eventually meeting his death in the Thames. All three books are great examples of investigative journalism done right and deep, and well written enough to pass off as a great story.”
+Digvijay Sinha – No more tears: The dark secrets of Johnson and Johnson by Gardiner Harris
+“When we associate faith with any brand by virtue of being used by our mothers, we tend to think highly of this brand and assume quality from all its products. This is the myth that is systematically broken down in this book, and the truth is revealed about the malpractices that have crept into Johnson’s way of working. A must-read if one wants to know the extent of Johnson’s reach is and how they have impacted millions of lives.”
+Hey there!
+This is Vishnu, with the movie picks for the week.
+For the last month or so, we’ve been asking the FP community for their [Movie of the Week picks](https://theken.typeform.com/to/lB1D3dcf), and we’ve been getting so many great picks!
+So, for a change—in theme with Tanim’s community-curated books section—here are 3 movies recommended by the First Principles movie club (yes, I am calling it that), along with the note from the member:
+Navaneeth from Bengaluru recommends Ponman (Malayalam, 2025 – Drama)
+“The movie is a mirror of today’s society on how it treats women. Also, it matches the theme of this First Principles newsletter – where the protagonist, after failing a lot of times, succeeds against all the odds in the end.
+One of the highlights is Basil Joseph giving his best monologue that he has ever delivered so far in his career!”
+[Ponman is streaming on Hotstar]
+Sidharth from Delhi recommends Monster (Japanese, 2023 – Psychological Thriller)
+“The film starts with the story of a widowed mother whose adolescent son is acting out at school: A conversation with her son reveals that he feels he’s getting targeted by a teacher, who even hit him. Enraged, the mother goes straight to the principal demanding answers, who explains that her son has been bullying another kid.
+What we get in the movie then is a ‘Rashomon’ style telling of the same story from three perspectives: first from the single mother worried about her son and his well-being; then from the teacher who’s worried about his students; and finally, from the perspective of the two boys at the centre of the story.
+A heartbreaking movie about school, adolescence and peer pressure keeping us from being happy.”
+[Monster is streaming on Mubi (and on AppleTV, in select locations)]
+Maya from Pune recommends Listen to Me Marlon (2015 – Documentary)
+“[This is] a 2015 British documentary film written, directed and edited by Stevan Riley about the movie star and iconic actor Marlon Brando.
+Its use of voice notes is raw (and from an era before it became ubiquitous) and offers a window to what intimacy in the first person sounds like when it’s unselfconscious.
+Given that the main focus is on an actor, this is a challenging feat!”
+[Streaming on Prime Video]
+And yes, I will also include documentary suggestions from next week on – given the support you’ve shown for them in your picks
+As always, if you have any titles you want to recommend to the FP community, please do drop them here: [[FP Movie of the Week picks]](https://theken.typeform.com/to/lB1D3dcf)
+I’ll see you next week. Hope you have a cosy weekend.
+The rainy season is upon us, after all!
+Hello, and welcome back to Silent Sundays, the little corner of First Principles where we pause to appreciate photographs shared by our readers and discover the stories they quietly tell.
+I’m Sakshi, your host, and each week I have the pleasure of connecting the threads between your submissions. If you’ve captured a photograph you’d like to share with the community, we’d love to see it. You can submit it [via this link](https://theken.typeform.com/fpsilentsundays).
+This week’s collection celebrates the landscape after a generous spell of monsoon rain. Trees have regained their rich shades of green, bushes are lush once again. It’s a gentle reminder of how quickly nature can transform after a little nourishment.
+Let’s take a walk through this week’s collection.
+From Harika Maganti, Coorg:
+| Coorg (Harika Maganti) |
+From Akshata J, Bangalore:
+| Bangalore (Akshata J) |
+From Mohankrishna Reddy, Hyderabad:
+| Hyderabad (Mohankrishna Reddy) |
+From Ashok Trivedi, Assam:
+| Assam (Ashok Trivedi) |
+From Saloni Dhir, Delhi:
+| Assam (Ashok Trivedi) |
+That’s a wrap for this week. Before you go, if you know someone who might like this newsletter, forward us to them!
+Please write to [fp@the-ken.com](mailto:fp@the-ken.com) if there’s anything you’d like to share with us. Or leave a comment on our on-site edition.
+See you next Sunday!
+Regards,
+Tanim

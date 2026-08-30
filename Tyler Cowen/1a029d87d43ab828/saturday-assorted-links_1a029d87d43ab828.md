@@ -1,0 +1,13 @@
+---
+id: "1a029d87d43ab828"
+subject: "Saturday assorted links"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2026-08-22 14:20:48
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+1. [New publication analyzing AI constitutions](https://marginalrevolution.com?action=user_content_redirect&uuid=9aaa68f30bb7d0ea1b06da65ed65b741fe376aac7dd74a62aefa98471c511227&blog_id=42693868&post_id=93641&user_id=262258391&subs_id=225460721&signature=48dd385af81ff444aea864fc9ab0e745&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly9tb2RlbGNvbnN0aXR1dGlvbi5jb20vcC93ZWxjb21lLXRvLW1vZGVsLWNvbnN0aXR1dGlvbj90cmllZFJlZGlyZWN0PXRydWU&email_id=ba2d007a2b0fdebdbf51481d74fc916b).
+2. [Niall Ferguson vs. Iain Banks, and against some other stufff too](https://marginalrevolution.com?action=user_content_redirect&uuid=205d43dd219f347cfbef473b7377e1a3a088e449a0e65f2fabcfadf98603c681&blog_id=42693868&post_id=93641&user_id=262258391&subs_id=225460721&signature=4baa1752915bfdaf570f9f39861651ab&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly93d3cudGhlZnAuY29tL3AvbmlhbGwtZmVyZ3Vzb24tZnV0dXJlLWFpLXRlY2gtZWNvbm9taWNzLXNwYWNlP3V0bV9jYW1wYWlnbj10cnVlYW50aGVtJnV0bV9tZWRpdW09b3JnYW5pYy1zb2NpYWwmdXRtX3NvdXJjZT10d2l0dGVy&email_id=ba2d007a2b0fdebdbf51481d74fc916b) (TFP).
+3. [NYT obituary for Victor Niederhoffer](https://marginalrevolution.com?action=user_content_redirect&uuid=5dfe00c20c18f19f2b42468fd9476b519bc90799efc002826a148ff74e77cd9a&blog_id=42693868&post_id=93641&user_id=262258391&subs_id=225460721&signature=b5d305d5b475715df0a72a0245bc25a5&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly93d3cubnl0aW1lcy5jb20vMjAyNi8wOC8yMS9idXNpbmVzcy92aWN0b3ItbmllZGVyaG9mZmVyLWRlYWQuaHRtbD91bmxvY2tlZF9hcnRpY2xlX2NvZGU9MS43RkEucExCNy5mbWg2bU5xeUNzSmkmc21pZD1ueXRjb3JlLWlvcy1zaGFyZQ=&email_id=ba2d007a2b0fdebdbf51481d74fc916b).
+5. [Flypaper effect for AI safety work?](https://marginalrevolution.com?action=user_content_redirect&uuid=4c730ffad842588a50810daf213971e6a6f5c8b00632552348de97f54af2f15f&blog_id=42693868&post_id=93641&user_id=262258391&subs_id=225460721&signature=2071bd8ba1bebc3ce5531baf9419e180&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly94LmNvbS9BSVNhZmV0eU1lbWVzL3N0YXR1cy8yMDkxMDE5NDk1MDc0ODUzMzU3&email_id=ba2d007a2b0fdebdbf51481d74fc916b) A bit unfair, but not altogether wrong either. Always ponder the possible secondary consequences!

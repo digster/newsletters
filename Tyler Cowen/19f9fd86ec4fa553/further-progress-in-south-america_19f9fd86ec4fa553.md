@@ -1,0 +1,13 @@
+---
+id: "19f9fd86ec4fa553"
+subject: "Further progress in South America"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2026-07-26 19:13:08
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+The share of people who are hungry has been decreasing faster in South America than anywhere else in the world. It is down by one-third since 2020, according to a report published on July 21st by the UN’s Food and Agriculture Organisation (FAO). Just 3.5% of people in the region consume insufficient calories, the lowest level recorded. Eliminating hunger by 2030 is one of the UN
+’s “sustainable development” goals. “If there is a region in the world that can potentially achieve that, it’s South America,” says Máximo Torero, the FAO’s chief economist.Lula, as the president is commonly known, made food security a priority when he returned to office in 2023. By 2025 Brazil had made it off the UN’s Hunger Map, which tracks countries where more than 2.5% of the population suffers from chronic hunger. Chile and oil-rich Guyana were also removed. Argentina is almost there at under 3%. Colombia and Paraguay are approaching at 4%, while Peru and crisis-battered Venezuela are making inroads near 5%. Even Ecuador and Bolivia have improved a tad, to 11% and 20% respectively. Only Suriname is moving in the wrong direction.
+This decline rests on sturdier foundations. The first is macroeconomic stability. South America’s central banks are far more independent and adept at managing inflation than they were two decades ago.
+Here is [more from The Economist](https://marginalrevolution.com?action=user_content_redirect&uuid=6f09bd30294d5d9984fd341fbe7e951fe77959facdd43e2fc51e2904c0fd5c68&blog_id=42693868&post_id=93477&user_id=262258391&subs_id=225460721&signature=07c24e30930f2128e79730a2fee3f7c3&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly93d3cuZWNvbm9taXN0LmNvbS90aGUtYW1lcmljYXMvMjAyNi8wNy8yMS9zb3V0aC1hbWVyaWNhLWlzLWVyYWRpY2F0aW5nLWh1bmdlcg=&email_id=a71f1be106932d64c55cf3824be18fc6). If you are interested in further economic development, South America (plus Mexico and Panama and the DR) is really the place to look. What is your other choice? (Vietnam?) Most of these countries will continue to grow, albeit at a modest pace. Sooner or later they will get there.

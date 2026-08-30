@@ -1,0 +1,11 @@
+---
+id: "19e1564e08176db6"
+subject: "The interstate trade effects of autonomous trucks"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2026-05-11 04:56:32
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+Recent advances in autonomous and semi-autonomous vehicle technologies promise substantial cost savings for goods shipped by truck. In this study, we quantify the impacts of these transport cost reductions on the US interstate trade using a structural gravity model of domestic trade. Based on projected cost savings from the widespread adoption of self-driving technologies, we estimate significant increases in total interstate trade value. State-level impacts vary from 40.3% of GDP in Mississippi to 5.9% in Florida, while the largest impacts in dollar value are observed in Texas and New York. The sectoral analysis highlights motorized vehicles, mixed freight, and electronics as the industries experiencing the largest trade value growth. Additionally, goods with low value-to-weight ratios—where shipping costs represent a large share of the delivered value—are expected to benefit most in relative terms. These findings underscore the transformative potential of autonomous vehicle technologies in reshaping US trade patterns and sectoral dynamics.
+That is from [a recent paper](https://marginalrevolution.com?action=user_content_redirect&uuid=1800608c2fd6243a75f2b501f876eb9d8f2336c2a1897861e23fcb1bddf8e442&blog_id=42693868&post_id=92980&user_id=262258391&subs_id=225460721&signature=e3ebbf233fb82f154bce552b34d744ed&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly9vbmxpbmVsaWJyYXJ5LndpbGV5LmNvbS9kb2kvZnVsbC8xMC4xMTExL2pvcnMuNzAwNjc&email_id=d2686bfb3e9110447000ac8d675a1ff0) by Taejun Mo, et.al., via the excellent [Kevin Lewis](https://marginalrevolution.com?action=user_content_redirect&uuid=289256d581e00b639eb12f0f645fc59afe8fb1da62f595200e94bc3dc1dab837&blog_id=42693868&post_id=92980&user_id=262258391&subs_id=225460721&signature=9c179fd4aaba72cebb714ee9fe1766b8&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly93d3cubmF0aW9uYWxhZmZhaXJzLmNvbS9ibG9nL2RldGFpbC9maW5kaW5ncy1hLWRhaWx5LXJvdW5kdXAvYW5jaWVudC1zZWNyZXRz&email_id=d2686bfb3e9110447000ac8d675a1ff0).

@@ -1,0 +1,11 @@
+---
+id: "19fd0cf08b0a6c50"
+subject: "Is this why China finds it so hard to inflate producer prices?"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2026-08-05 07:24:16
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699"]
+---
+This paper investigates why China’s recurrent credit expansions have coincided with persistently weak inflation. We argue that this pattern reflects the country’s production-oriented monetary regime. At the aggregate level, faster monetary-financial expansion temporarily raises PPI inflation but depresses it over longer horizons. At the sectoral level, liability growth among listed industrial firms is followed by weaker producer prices, lower profitability, higher leverage, rising inventories, and reduced capacity utilization. We also find asymmetric supply-chain transmission: downstream liability growth raises upstream PPI inflation, while upstream liability growth does not generate a corresponding downstream price response. These findings indicate that credit expansion in China tends to sustain production and balance sheets rather than stimulate final demand. As a result, monetary policy operates less as a conventional tool for demand management and durable reflation, and more as a mechanism for preserving production capacity and supporting growth.
+That is from [a new paper](https://marginalrevolution.com?action=user_content_redirect&uuid=0d3a42cc0687b662e72559a483cf8539a5ae6f218a15b2338e695007ce885add&blog_id=42693868&post_id=93533&user_id=262258391&subs_id=225460721&signature=8b34da2616554952c3cb05e51672df70&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly93d3cubmJlci5vcmcvcGFwZXJzL3czNTU2MiNmcm9tcnNz&email_id=9e6f432f091a50b161ccff0cf22d4c3d) by . I have to say I understand the result but not exactly the mechanism. I am reminded of Milton Friedman's dictum not to focus too much on the first-order effects of an increase in money supply.

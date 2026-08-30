@@ -1,0 +1,20 @@
+---
+id: "19dae800af3787ea"
+subject: "Announcing Monitoring The Situation"
+from: "Erik Torenberg <eriktorenberg@substack.com>"
+to: ""
+date: 2026-04-21 05:25:05
+labels: ["CATEGORY_PERSONAL", "Erik Torenberg", "INBOX", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "Label_1477501339932324054", "INBOX", "UNREAD"]
+---
+Thrilled to announce our investment in [MTS](https://substack.com/redirect/16dc1241-3bc0-46cd-a763-eef9bcbf9400?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o).
+Beginning today, MTS will be monitoring the situation across technology, business, politics, and culture, interviewing the main characters of the moment all day long on X.
+We’re seeding it alongside other angel investors such as Dan Romero, Packy McCormick, Soona Amhaz, Julia DeWahl, Austin Rief, Ryan Delk, Jonathan Swanson and more.
+The founding team includes [@ChrisJBakke](https://substack.com/redirect/2d37d9a5-dfc4-40ef-99dc-dbbb0da75c79?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) [@theojaffee](https://substack.com/redirect/1f6f93eb-9c5c-4302-9c60-fb98534c9aa0?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) [@gbrl_dick](https://substack.com/redirect/ab05a181-617d-4a93-bc83-30d71c6692e4?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) , [@netcapgirl](https://substack.com/redirect/8dc7af28-d121-447f-9a85-feeb45b933eb?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o), among others.
+MTS’s initial hosts include the above as well as [Mark Halperin](https://substack.com/redirect/ada3c625-8667-482c-aa34-be72428608a3?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o), [Jayden Clark](https://substack.com/redirect/9d8c18d1-e403-4fa4-824a-f9d5708cdd2b?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o), [Jack Farley](https://substack.com/redirect/4430376c-d4bf-4b81-986a-64918fcf6f50?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o), [Amit Kukreja](https://substack.com/redirect/a45e8fe8-7e74-4abc-b7db-78eea4977a3f?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o), [Steven Sinofsky](https://substack.com/redirect/baf313e8-bb3b-4168-8415-b30b42d12159?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o), [Jesse Genet](https://substack.com/redirect/70d5ce26-57c2-4e2f-9797-ab0e97bf815a?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o), Nathan Labenz and more experts across tech, finance, politics, and culture. The guests will be the main characters of the moment.
+MTS aims to be the best place in the world to make sense of what’s happening, *right now*, and it’ll be on X.
+This was the original vision for CNN by the way. They called it “Randemonium”. The idea was, whatever the Current Thing happening in the world, put it on CNN full time, cover it from every possible angle, and keep it running until a more important Current Thing comes along.
+The CNN model has to wait for something to happen IRL. But something is always happening on X. And of course, X is — and has always been, the real world. Or at the very least, it’s the place where the people who run the real world make sense of what’s happening.
+Essentially, what the hell is happening and why? The world’s an incredibly complex and erratic place and trying to figure that out is a lifetime occupation.
+Figuring that out is the occupation of MTS. To Monitor the Situation is to watch history in the making.
+P.S. MTS is looking for hosts, guests, sponsors, teammates, and other monitors to help make sense of what’s happening. Reach out if this is you, and feel free to join the [MTS discord](https://substack.com/redirect/72860697-af6e-4238-a38c-33824a8ab12c?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o).

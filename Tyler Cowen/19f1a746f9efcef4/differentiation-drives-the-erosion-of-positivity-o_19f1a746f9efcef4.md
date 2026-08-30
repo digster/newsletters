@@ -1,0 +1,11 @@
+---
+id: "19f1a746f9efcef4"
+subject: "Differentiation drives the erosion of positivity on social media"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2026-06-30 21:34:25
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+We live in a digital age, where billions of people engage in dialogue within topic-bound communities and threads. In an archival analysis of over 2 billion Reddit comments and an experiment, we show that this dialogue becomes more negative over time. Further analyses suggest that negativity rises over time because social media users seek to make unique comments on the same topic, and it is easier to differentiate oneself through negative comments than through positive comments. As threads and communities evolve, and it becomes more difficult to make unique observations, users turn to negativity. Our studies show how basic human motives interact with the structure of social media platforms, posing an acute challenge for sustaining healthy online dialogue.
+Here is [the article by Hongkai Mao, et.al.](https://marginalrevolution.com?action=user_content_redirect&uuid=af0e2ff6edd73c8ea977d08d40a164a7913ddcb10a297b76f45dad21b55bc3c6&blog_id=42693868&post_id=93308&user_id=262258391&subs_id=225460721&signature=35f024bd76151ce728b91352eb58132b&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly93d3cucG5hcy5vcmcvZG9pLzEwLjEwNzMvcG5hcy4yNTI3MzE2MTIz&email_id=6dc274edac12521cfb302ea16aa7e745) Via the excellent [Kevin Lewis](https://marginalrevolution.com?action=user_content_redirect&uuid=81699d8c361e32b10312d354caa57842dc173dcd7980e1f3dd53a160ec61d20a&blog_id=42693868&post_id=93308&user_id=262258391&subs_id=225460721&signature=ce845c73569159bdca651627c08c5b3c&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly93d3cubmF0aW9uYWxhZmZhaXJzLmNvbS9ibG9nL2RldGFpbC9maW5kaW5ncy1hLWRhaWx5LXJvdW5kdXAvdGhpbmtpbmctbWFjaGluZXM&email_id=6dc274edac12521cfb302ea16aa7e745). For some of you commenters, how does it feel to be a puppet in the unfolding of this game?

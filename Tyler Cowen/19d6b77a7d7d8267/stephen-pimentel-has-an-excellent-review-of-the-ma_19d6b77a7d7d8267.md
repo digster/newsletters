@@ -1,0 +1,14 @@
+---
+id: "19d6b77a7d7d8267"
+subject: "Stephen Pimentel has an excellent review of *The Marginal Revolution*"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2026-04-08 05:01:36
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+Here is one very good paragraph of many:
+Cowen is excellent on the question of why the marginalist insight had to wait so long, and why it eventually came in a simultaneous eruption across countries and three intellectual temperaments. The answer involves the slow assembly of preconditions: advances in calculus, the rise of statistical thought, the professionalization of economics as a discipline, and certain changes in the philosophy of science associated with the Victorian debate between inductive and deductive methods. Progress in science, Cowen suggests, is rarely a matter of the lone genius, but rather of the alignment of previously dispersed elements. The genius arrives when the ground has been prepared to receive the insight.
+And another:
+There is a discomforting codicil to all of this. Perhaps, Cowen suggests near the book’s end, the intuitions of 20th-century microeconomics were always a kind of compensation for a deeper ignorance. Perhaps we elevated intuitive reasoning, with its clean parables of marginal utility, and elegant supply-and-demand diagrams, because they were what we had, and we mistook their availability for adequacy. Machine learning models that find hundreds of thousands of factors in financial data are not exactly refuting marginalism. They are revealing the scale of what marginalism was never equipped to see. Our intuitions were always a small corner of understanding, swimming in a larger froth of epistemic chaos. The illusion has been stripped bare.
+Here is [the full review](https://marginalrevolution.com?action=user_content_redirect&uuid=3eed2db8383b11a8576e5f89bceb74ee256d40d69c1656341c2835be21a0b9b8&blog_id=42693868&post_id=92791&user_id=262258391&subs_id=225460721&signature=aefe068c74b4e90c546246ec2f32aa06&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly90aGVmZWRlcmFsaXN0LmNvbS8yMDI2LzA0LzA3L2FpLWlzLWV4cG9zaW5nLXRoZS1saW1pdHMtb2YtZWNvbm9taWNzLz91dG1fc291cmNlPXJzcyZ1dG1fbWVkaXVtPXJzcyZ1dG1fY2FtcGFpZ249YWktaXMtZXhwb3NpbmctdGhlLWxpbWl0cy1vZi1lY29ub21pY3MmdXRtX3Rlcm09MjAyNi0wNC0wNw=&email_id=c24ab41f5bcd7d26f12ce3c88dc8e837). Here is [the book itself](https://marginalrevolution.com?action=user_content_redirect&uuid=f5b6de1e94991b874667b48f8c3c019e4a195e3c218ccdaec2d7e748d256b3de&blog_id=42693868&post_id=92791&user_id=262258391&subs_id=225460721&signature=45298da2f3cdcec14eedc076105a0341&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly90eWxlcmNvd2VuLmNvbS9tYXJnaW5hbC1yZXZvbHV0aW9uLWdlbmVyYXRpdmUtYm9vay8&email_id=c24ab41f5bcd7d26f12ce3c88dc8e837). Via Mike Doherty.

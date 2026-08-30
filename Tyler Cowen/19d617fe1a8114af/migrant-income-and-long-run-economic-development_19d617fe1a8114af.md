@@ -1,0 +1,11 @@
+---
+id: "19d617fe1a8114af"
+subject: "Migrant Income and Long-Run Economic Development"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2026-04-06 06:34:23
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+We study how international migrant income prospects affect long-run development in origin areas. We leverage the 1997 Asian Financial Crisis exchange rate shocks in a shift-share identification strategy across Philippine provinces. Initial migrant income shocks are magnified six-fold over time, increasing domestic income, education levels, migrant skills, and high-skilled migration. Remarkably, 74.9 percent of long-run income gains come from domestic rather than migrant income. Trade driven impacts of exchange rate shocks are orthogonal to effects via migrant income. A structural model reveals that 19.7 percent of long-run income gains stem from educational investments. International migration fosters broad economic development in origin communities.
+That is from [a recent AER piece](https://marginalrevolution.com?action=user_content_redirect&uuid=e584e69dbd8167a869cbdf89cc7ce945eaec6d10db757cb4a86a5c5f54bc9345&blog_id=42693868&post_id=92776&user_id=262258391&subs_id=225460721&signature=aa9b82fce8b65163fc20c9e26dd2da8c&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly93d3cuYWVhd2ViLm9yZy9hcnRpY2xlcz9pZD0xMC4xMjU3L2Flci4yMDI0MTQ2NQ=&email_id=048b2c3fc238c793183a5dc192c57ed3) by Gaurav Khanna, Emir Murathanoglu, Caroline Theoharides, and Dean Yang. Here is [a good thread on the piece](https://marginalrevolution.com?action=user_content_redirect&uuid=ddc1640160c4ecc6b664eb2a07b80f351dc662c08ab0b393fd45e938cd89a41d&blog_id=42693868&post_id=92776&user_id=262258391&subs_id=225460721&signature=c00876b6be57ff0001cd171387159a3a&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly94LmNvbS9kZWFueWFuZy9zdGF0dXMvMjAzOTA4MzY2NDg2OTI5NDI1Ng=&email_id=048b2c3fc238c793183a5dc192c57ed3).

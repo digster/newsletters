@@ -1,0 +1,12 @@
+---
+id: "19f70b9ce534b723"
+subject: "Cataloging Growth: A Re-Evaluation of 1900–1990"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2026-07-17 15:37:32
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+[From Verónica Bäcker-Peral and Benjamin Wittenbrink](https://marginalrevolution.com?action=user_content_redirect&uuid=3f57e2987d7f5bbb67b568a3b725da8982c065942506dd74e3b8ba983753d0f6&blog_id=42693868&post_id=93413&user_id=262258391&subs_id=225460721&signature=0dad64f4e524dfa6d6f8d5b763ca5dcb&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly92ZXJvbmljYWJwLmdpdGh1Yi5pby93ZWJzaXRlL1ZCUF9CSFdfQ29zdE9mTGl2aW5nLnBkZg=&email_id=7dde2ab4f21acaf98bebc83d9b67526a) of MIT:
+Measuring real GDP growth requires distinguishing changes in prices from changes in product quality and composition, yet systematic quality adjustment of price indexes is unavailable for much of the twentieth century. We construct a new quality-adjusted price index for U.S. consumer goods using 5.1 million product listings from Sears catalogs, 1900–1990. We use large language models to extract product information and estimate hedonic price schedules from high-dimensional text embeddings, allowing us to infer annual changes in the cost of living. The resulting cost-of-living index implies substantially lower goods inflation than conventional deflators, and consequently implies much faster real economic growth: between 1900 and 1990, real goods consumption grew by a factor of 39 using our index, compared with a factor of 10.3 using standard goods deflators. The gap between our index and canonical ones is largest before World War II, reversing the conventional view that goods consumption growth was slower before 1945 than in the post-war decades.
+Here is [a useful tweet storm on the paper](https://marginalrevolution.com?action=user_content_redirect&uuid=fe5d62cd2df41ad942f09a7c8d0fe80304056a379476d31cc81d7e74ae48f9d4&blog_id=42693868&post_id=93413&user_id=262258391&subs_id=225460721&signature=70b21118b038e7e1fa93f7d8a1a2c2bf&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly94LmNvbS92YnBlcmFsL3N0YXR1cy8yMDc3ODAzNTgzNzgxNjc5NTA1P3M9NjE&email_id=7dde2ab4f21acaf98bebc83d9b67526a), important work.

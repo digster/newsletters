@@ -1,0 +1,11 @@
+---
+id: "19f311c0ef4e0f5d"
+subject: "What should I ask Michael Moritz?"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2026-07-05 07:09:09
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+Yes I will be doing a Conversation with him, based around his new book [Ausländer: One Family's Story of Escape and Exile](https://marginalrevolution.com?action=user_content_redirect&uuid=9c300164d94ffb8753036c6b37f70e22bec6ce666397818204be3c199862d06b&blog_id=42693868&post_id=93332&user_id=262258391&subs_id=225460721&signature=2c2e8d23e8e49535037a26a961438bec&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9BdXNsJUMzJUE0bmRlci1GYW1pbHlzLVN0b3J5LUVzY2FwZS1FeGlsZS9kcC9CMEdIWkQySExRL3JlZj1zcl8xXzE/ZGliPWV5SjJJam9pTVNKOS56U0NWMm54Q1VGZjhqX2Nzbm9ISWx2Wk1XVXJicmY4TWVDUDlxNWRJdEFYMHZmcmVaRzZlS0FXWnlNdFhKQTNseDByNGtlU3RMb2VPVmc4eWw4NEdxZmlaeENFNmNBZ1M5NVRyNnJQeTdMSXZiQ2VRV3Q5ckRGVWxSUDlOMW1lZlZCT1ljM2k3MjRwaUFGY04xMHJvdWZ5d3lCZWV3eGpSOVFxOXZpX2NHLTNWSDFxejAwcmxtUGJIQ0RzUTdLUHNvVzZHM3ZQenY1Z1RYTV9LbTc2TTFfYXlpR29sbDN2ZHdGOFBNSFhGOVUwLjhYandRQnNhMkhSamxGVzN2bTlhNE9EUWMwTGhwb2lFeU1TcVplaFYyZzAmZGliX3RhZz1zZSZrZXl3b3Jkcz1taWNoYWVsK21vcml0eiZxaWQ9MTc4MzE0ODIwNCZzcj04LTE&email_id=ff834f94d4a982e4dbc5cf770bee1f68). Mike of course was a pioneering venture capitalist through Sequoia, and before that had a distinguished career as a journalist, which included books on Chrysler, Apple (the first such book I believe?), and soccer coach Alex Ferguson of Manchester United. Here is [his Wikipedia page](https://marginalrevolution.com?action=user_content_redirect&uuid=0d62c86efa4ed0b17694b59e1c0af728abccd3b200b6e433d14cbe9d8685522a&blog_id=42693868&post_id=93332&user_id=262258391&subs_id=225460721&signature=b0f9b4237b9321834590133d72baebe6&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvTWljaGFlbF9Nb3JpdHo&email_id=ff834f94d4a982e4dbc5cf770bee1f68).
+So what should I ask him?

@@ -1,0 +1,33 @@
+---
+id: "19ce61c28300cb11"
+subject: "Learn how to code your own CI/CD pipeline [Free 17-hour DevOps course]"
+from: "Quincy Larson <quincy@freecodecamp.org>"
+to: ""
+date: 2026-03-13 07:32:10
+labels: ["CATEGORY_PERSONAL", "IMPORTANT", "INBOX", "Quincy"]
+label_ids: ["CATEGORY_PERSONAL", "IMPORTANT", "INBOX", "Label_7697778124671848699"]
+---
+Here are this week's five freeCodeCamp resources that are worth your time:
+
+1. freeCodeCamp just published a comprehensive DevOps course that will teach you how to deploy your apps to production safely. You'll build your own CI/CD (Continuous Integration / Continuous Delivery) pipeline. Along the way you'll learn about branching strategies, Jenkins Freestyle Jobs, GitFlow, Maven, and more. This is a perfect way to build your skills over spring break. (17 hour YouTube course): https://www.freecodecamp.org/news/ci-cd-in-production-with-jenkins/
+
+2. Learn how to fine-tune an LLM to incorporate your own proprietary data. This is super useful if you need off-the-shelf LLMs to do novel tasks that they weren't originally optimized for. This course will teach you all about Parameter-Efficient Fine-Tuning, and how to use techniques like LoRA and QLoRA to train models on consumer-grade hardware. No data center needed. (12 hour YouTube course): https://www.freecodecamp.org/news/learn-how-to-fine-tune-llms-in-12-hours/
+
+3. On this week's podcast I interview software engineer Justin Searls who ran his own software development agency for 15 years. At age 38, he retired and moved to Japan. He has some controversial takes on AI-assisted development. He talks about how he thinks software development is ceasing to be a team sport and his vision of a future where individual devs just work directly for the clients who are paying them to build projects. Justin also shares tips for how folks entering the field can use emerging tools to get an edge over more experienced devs. (1 hour watch or listen in your favorite podcast app): https://www.freecodecamp.org/news/there-are-2-kinds-of-devs-one-of-them-is-screwed-justin-searls-interview-podcast-210/
+
+4. Learn how to protect your sensitive data by running your LLMs locally. This quick tutorial will show you how to get up and running with Ollama, Python, LangChain, and LangGraph. It will also walk you through the various trade-offs you face when you avoid sharing your data with big tech companies. (15 minute read): https://www.freecodecamp.org/news/protect-sensitive-data-with-local-llms/
+
+5. Learn how agents are changing the field of software development. This in-depth tutorial will get you hands-on experience with building your own Flutter mobile app using Antigravity and Stitch. You don't even need to know Flutter. You just need to understand the core concepts and make the architectural decisions. You'll quickly see how sophisticated these tools have gotten over the past few months. (40 minute read): https://www.freecodecamp.org/news/learn-how-ai-agents-are-changing-development-by-building-a-flutter-app/
+
+freeCodeCamp is a small charity with a big mission: to create open source learning resources for everyone. Join the 10,113 kind folks who support this massive undertaking: https://www.freecodecamp.org/donate
+
+Quote of the Week: 
+“If you're out there learning programming right now, build your new project, build it to be valuable, and see it through to completion.” — Software Engineer Justin Searls on this week's freeCodeCamp podcast
+
+Until next week, happy coding.
+
+-- Quincy Larson
+
+Teacher and founder of freeCodeCamp.org
+
+If these aren't worth your time, you can turn them off: https://www.freecodecamp.org/ue/eZV2T3gHC7IGcwcpYPG64

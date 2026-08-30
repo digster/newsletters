@@ -1,0 +1,17 @@
+---
+id: "19e82e990acb552e"
+subject: "Europe Demands Family Dynasties"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2026-06-01 11:20:05
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+In the US, someone with wealth is free to give it away more or less as they see fit (spousal claims excepted, which partly reflect marital co-ownership). In much of Europe, however, there is forced heirship--a large fraction of wealth must be handed down to children which makes it harder to direct large portions of wealth to charities, foundations, or non-family causes compared to the US. (Louisiana, with its French-Spanish civil law roots, is the one state with forced heirship and even it mostly gutted it in 1995.)
+Here is an [excellent post](https://marginalrevolution.com?action=user_content_redirect&uuid=3e86cdfbb8cf118ff829958a2ca04ec7b31aded94f5fbdf4b70e330ed1a745e3&blog_id=42693868&post_id=93112&user_id=262258391&subs_id=225460721&signature=be05a9c7d1e3ebd17d15b853cd397be4&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly94LmNvbS9qb2huYXJub2xkL3N0YXR1cy8yMDYxMDkwMzY4NTU3NjM4MDI2P3M9MjA&email_id=0a2d42c83cd9b10641e7460962bdeb54) by John Arnold who, if he were European, would be required to give 75% of his wealth to his three children instead of spending it on philanthropy as he and his spouse are now doing.
+America's cultural ideal has been the self-made entrepreneur while Europe's was rooted in aristocracy, with status inherited rather than earned. Europe's inheritance laws show this divide.
+Many European countries have "forced heirship" laws that require people to leave 50-75% of their estates to their children. Want to leave the majority of your wealth to charity? not allowed. Your kids are estranged from you, struggling with addiction, or irresponsible? still required to give them the money. Want your kids to avoid a life of entitlement? tough.
+Incredibly, these laws look back at transfers made during your lifetime. If you have 3 children in France, you're required to bequeath them a minimum of 75% of your estate. Because French law calculates this based on your assets at death plus all lifetime gifts, giving away more than 25% of your wealth while alive means your heirs can legally sue to force charities or foundations to return the funds. This has limited the development of the nonprofit sector on the continent.
+The cultural gap between an entrepreneurial society and one shaped by dynastic wealth is enormous. If you make it yourself, you tend to want your kids to do the same. If you inherit it, the primary goal is protecting the estate for the next gen.
+Countries like Spain, France, and Italy legally entrench family dynasties, while America has historically sought to limit them through estate taxes. The result is not only a weaker culture of philanthropy and civil society in Europe, but also less economic dynamism.
+It's interesting that in Capital Piketty discusses required equal division to children as an egalitarian legacy of the revolution but, as far as I recall, never reflects on the fact that forced heirship prevents a French entrepreneur from giving his fortune away to charity. A case for laissez-faire, no?

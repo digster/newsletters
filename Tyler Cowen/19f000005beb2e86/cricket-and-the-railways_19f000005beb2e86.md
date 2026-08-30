@@ -1,0 +1,11 @@
+---
+id: "19f000005beb2e86"
+subject: "Cricket and the railways"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2026-06-25 18:17:07
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+Railways are a golden thread in the history of cricket, making national competition possible in every current Test-playing nation (with the exceptino of the West Indies and Afghanistan). In later years, we will see railway workers as exporters of cricket to Scotland and Wales and beyond to Britain's formal and informal commercial empires. We will see enduring railway-based teams, including in Pakistan the winners of cricket's most comprehensive first-class victory.
+That is from Richard Heller and Peter Oborne, [Full Circle: A History of Cricket](https://marginalrevolution.com?action=user_content_redirect&uuid=86f4c0c892a6de9fc696ab8e1fcfb5c84ff39858e1ea8f9a5c960217af696dae&blog_id=42693868&post_id=93268&user_id=262258391&subs_id=225460721&signature=0097739cc5776396d5802230eed0142d&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly93d3cuYW1hem9uLmNvLnVrL0Z1bGwtQ2lyY2xlLUhpc3RvcnktUGV0ZXItT2Jvcm5lL2RwLzE3ODM5Njk0NFgvcmVmPXNyXzFfMT9jcmlkPTZONTM2MUpNSEswQyZkaWI9ZXlKMklqb2lNU0o5LkZOQnVTd1RlYjVQemFPbThuMU9FdTdiQzF5U0dlLXpDNW1wNlhJNEFrSEFsU05qa0paQ1RZbkFhQWtvYkZTTVZReE90bm5KTDkySUdXeEY3VGJlajhlNzVKTUI5b1BWQUxDMlFlcWNfTnI0LXlMRjJ4dzQzbGJuclB0VXVZSkRaNDh6M2dWRlB3dHhJMGhDek1leG9mdFJFb2JBMEFub1QzWkM1c2xVTWJ1SVlSdU5TSzljWFE4WFJ1UVNLeHd4S3liRVNIbUZHV0hrbDE0cGI2TjV4SXEwbUhYdDBKVGtOZVEzY3o0SFZUSkUudmR0WG81aENmekhJR3BHMER3YXlVVUh5R1MzRThDN1htLTdVbnNVVzU5YyZkaWJfdGFnPXNlJmtleXdvcmRzPWZ1bGwrY2lyY2xlK2EraGlzdG9yeStvZitjcmlja2V0JnFpZD0xNzgyMjEzMzY5JnNwcmVmaXg9ZnVsbCtjaXJjbGUlMkNhcHMlMkMxMjEmc3I9OC0x&email_id=f84a233b5fa21f5ac10343580cb4e574). And I had not realized this: "As recently as 1945, 98 percent of Australians had their family origins in Great Britain or Ireland."

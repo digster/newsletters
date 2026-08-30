@@ -1,0 +1,13 @@
+---
+id: "19d7300d0a92d7c2"
+subject: "Thursday assorted links"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2026-04-09 16:08:46
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+1. [The "estrangement" from philosophy of economics](https://marginalrevolution.com?action=user_content_redirect&uuid=3b1e3f506ab3adb7c68ed9e8413eb86511a34d480de382e5145de74fbd35fc11&blog_id=42693868&post_id=92777&user_id=262258391&subs_id=225460721&signature=6eee480e4262855a5b2d14a13c5dc1d8&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly9jbnJzLmhhbC5zY2llbmNlL2hhbC0wNTU0MzA4NnYxL2RvY3VtZW50&email_id=f39be3dcf43e6c33e8cd9a9a95e95dd9).
+2. [Investing in scientific instruments](https://marginalrevolution.com?action=user_content_redirect&uuid=3e6ff8bad32dc0d00fa349e6e6a6421aa76f067f40e6acbe8eafd65589478b2a&blog_id=42693868&post_id=92777&user_id=262258391&subs_id=225460721&signature=f716cbfa51c2daf246341c867ab9f782&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly9yZXB1YmxpY29mc2NpZW5jZS5zdWJzdGFjay5jb20vcC93YXJyZW4td2VhdmVyLWFuZC1uZXctc2NpZW5jZS1pbnN0cnVtZW50cw=&email_id=f39be3dcf43e6c33e8cd9a9a95e95dd9).
+3. [New book coming on Carlsen vs. Niemann](https://marginalrevolution.com?action=user_content_redirect&uuid=48dcb102fec52ffdf019d843172e230a02a73400c18b5da05683762898d818ef&blog_id=42693868&post_id=92777&user_id=262258391&subs_id=225460721&signature=32b3d24d4d0bd4797b57d12dfcfc9094&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9DaGVja21hdGUtR2VuaXVzLUFtYml0aW9uLUJpZ2dlc3QtU2NhbmRhbC9kcC8xNTM4NzczMDMxL3JlZj1zcl8xXzI/Y3JpZD0xUTJHSUs0MUJWM0VFJmRpYj1leUoySWpvaU1TSjkuaWR2aDctVHlDdUJfSHVPYzBvSFZzZy5ZcWQzTmtWdG8wTFNpclcwbEhCa2ZhaUJOdVVqRmFzWlg4V3k4RU1PRERvJmRpYl90YWc9c2Uma2V5d29yZHM9YmVuK21lenJpY2grY2hlY2ttYXRlJnFpZD0xNzc1NDg1MzMxJnNwcmVmaXg9YmVuK21lenJpY2glMkNhcHMlMkMxMDkmc3I9OC0y&email_id=f39be3dcf43e6c33e8cd9a9a95e95dd9).
+4. [Houston economy growing at more than ten percent](https://marginalrevolution.com?action=user_content_redirect&uuid=c856f14bc6c8676cf8d086f5472028a4f2ac6b2a42ade31d72539d0b25e3c83b&blog_id=42693868&post_id=92777&user_id=262258391&subs_id=225460721&signature=87fcf10f061ece9068f4030b0d6a4f0b&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly94LmNvbS90YXN0eWJpdHMvc3RhdHVzLzIwNDA0Mjg1MzMwNTExNjY5NDY&email_id=f39be3dcf43e6c33e8cd9a9a95e95dd9) (and that is even without moving forward on bike paths).

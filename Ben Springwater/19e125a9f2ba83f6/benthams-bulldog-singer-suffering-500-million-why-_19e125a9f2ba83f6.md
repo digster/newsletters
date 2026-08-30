@@ -1,0 +1,38 @@
+---
+id: "19e125a9f2ba83f6"
+subject: "Bentham's Bulldog: Singer, Suffering, 500 Million, Why God Exists, Dilbert, Unweaving"
+from: "Ben Springwater <matterreader@substack.com>"
+to: ""
+date: 2026-05-10 14:45:51
+labels: ["Ben Springwater", "CATEGORY_PERSONAL", "INBOX", "UNREAD"]
+label_ids: ["Label_656938182101901423", "CATEGORY_PERSONAL", "INBOX", "UNREAD"]
+---
+Welcome to a new issue of Words That Matter! Each week, we invite a guest curator to share the reading that matters most to them.
+[Bentham’s Bulldog](https://substack.com/redirect/82a20e1b-7037-4d61-8969-a54d0628d863?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) is a visiting scholar at Forethought, starting a Ph.D. in philosophy at Princeton next year. He blogs about effective altruism, the existence of God, animal welfare, utilitarianism, and other topics in philosophy and politics.
+Please enjoy these works and words that have mattered to Bentham’s Bulldog!
+Peter Singer, 1972
+Famine, Affluence, and Morality is one of the most influential works of philosophy ever written. It makes the case clearly that we have a duty to donate a lot more than we typically do. Uncontroversially one would be obligated to pull a nearby child out of a pond, but there are children dying all the time who we can save at comparatively minor cost. We should, to a far greater extent than we tend to.
+Brian Tomasik, April 9, 2015
+Nearly all sentient beings who will ever live are wild animals. Plausibly nearly all the joy and misery in the world is experienced by wild animals, but we normally ignore their interests. This piece convinced me that we should take wild animal suffering seriously, and that the interests of wild animals matter. Every second trillions of conscious beings are crying out in agony and terror. That matters, if anything does.
+[Jai](https://open.substack.com/users/12441958-jai?utm_source=mentions) Dec 9, 2014
+This inspiring piece describes the eradication of smallpox. It’s a nice reminder of the amazing things humanity can accomplish when we set our mind to some task. As the piece says, “This one evil, the horror from beyond memory, the monster that took 500 million people from this world - was destroyed,”
+Dustin Crummett July 11, 2018
+For most of my life, I was an atheist. A big part of that changing was thinking through the arguments in this piece. While I wasn’t immediately convinced when I first read it, I eventually was brought around by these arguments after thinking through them carefully ([plus](https://substack.com/redirect/d7e67c38-a717-4d51-86bc-e624e611b0da?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) a[ few](https://substack.com/redirect/c80f954b-0d99-4d8b-9648-2a796f446066?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)[ others](https://substack.com/redirect/41be1711-6335-4eeb-ae38-e31ee4fedaf6?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)).
+[Scott Alexander](https://open.substack.com/users/12009663-scott-alexander?utm_source=mentions) Jan 16, 2026
+In Orson Scott Card’s Speaker for the Dead, speakers are called after someone dies. They provide an honest portrayal of the person’s life, aiming to truly capture what the person was like. As part of this process, you come to understand the person, and you feel some kind of deep empathy for them—the sort that comes from really knowing a person. Scott Alexander’s piece on Scott Adams is this kind of speaking for the dead. Even if you didn’t like Adams in life, it is hard to come away from the piece not feeling a kind of deep caring for him.
+Elizabeth Barrett Browning
+My favorite poem. It nicely captures true love—a deep caring for the other person, from which pleasant feelings flow, rather than merely the presence of pleasant feelings.
+[Scott Alexander](https://open.substack.com/users/12009663-scott-alexander?utm_source=mentions) Mar 19, 2026
+This one is a bit hard to describe until you’ve read it, but it’s one of the most amazing things I’ve ever read. Really mindboggling work of genius.
+This book by the philosopher Michael Huemer provides a fairly broad introduction to philosophy, covering most of the big topics. It discusses epistemology, ethics, free will, and more. Most of all, it shows how philosophy ought to be done—how philosophical argument works, and how we might be moved, by abstract argument, to change what we once believed.
+Michael Huemer Dec 26 2021
+Breathtakingly beautiful piece about life and death.
+[Will MacAskill](https://open.substack.com/users/8428998-will-macaskill?utm_source=mentions) and [Fin Moorhouse](https://open.substack.com/users/19893031-fin-moorhouse?utm_source=mentions) 11th March 2025
+AI is already a big deal. But this piece makes the case that it will have truly earth-shattering effects, prompting rapid economic growth and introducing a range of global challenges. A whole century’s worth of economic growth may be compressed into just a single decade, or even less. That we might experience a hundred years of growth in ten sounds outrageous—it’s the kind of claim that is important to know if it is true. PREPIE powerfully argues that it is.
+[If You’re To Die](https://substack.com/redirect/6cf804c1-848e-4889-8288-cd3c99dccba3?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) - Andrew Sullivan did his best work thinking he’d die young of HIV. Bulldog uses that as a prompt to ask what legacy he’d want if he had a year left, and lands on fighting factory farming, helping wild animals, and getting more people to give effectively.
+[The Best Thing You Can Do](https://substack.com/redirect/1d55a82c-f73c-42f3-b529-b83d693be55e?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) - Pitch for the Giving What We Can pledge. Give 10% of your income to effective charities and you save roughly a kid a year from malaria.
+[The Fine-Tuning Argument Simply Works](https://substack.com/redirect/bce3b861-a98f-43e3-9d05-23a77193ecf7?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) - A grand tour through every standard objection to fine-tuning (anthropic principle, multiverse, deeper laws, etc.) arguing none of them are satisfying.
+[The Bluesky Way of Arguing](https://substack.com/redirect/6ab938ac-7205-4eef-8218-98d1a064db4c?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) - Defense of being a “debate bro”: if you’re going to call someone an idiot in public, have the spine to debate them.
+[What To Do If You Love Meat But Hate Factory Farms?](https://substack.com/redirect/71cbb0be-599b-46b7-bc63-fe3f71b2a312?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) - Per FarmKind’s calculator, about $23 a month to top animal charities is enough to make your net impact on every kind of animal positive, even if you keep eating them.
+[Matter](https://substack.com/redirect/fcd85b78-06e9-41a0-a8b0-cffc20e8cc4b?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) is the modern read-later app for serious readers. Since Pocket shut down last fall, tens of thousands of readers have made Matter their new home.
+Designed for Apple, Matter has earned multiple App of the Day honors and won [MacStories’ 2025 Feature of the Year](https://substack.com/redirect/db80641c-a040-45d2-9e40-6b1f6387e115?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) for its ultra-realistic text to speech. It’s been recommended by Tim Ferriss, Patrick Collison, the Acquired Podcast, and The Wall Street Journal, among others.

@@ -1,0 +1,10 @@
+---
+id: "19f83c0eab412edb"
+subject: "AI is challenging what words mean"
+from: "Inverted Passion Community <invertedpassion@substack.com>"
+to: ""
+date: 2026-07-21 08:14:25
+labels: ["CATEGORY_PERSONAL", "INBOX", "Paras Chopra", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_6668903435596043419", "UNREAD"]
+---
+I feel AI is breaking our usual, shared understandings of what words mean. For the first time ever, we have a new kind of cognitive labor that isn’t humans, and that’s breaking norms for what we’ve forever implicitly assumed to be universally true. All our assumptions about how a domain comprising mainly of human activity is due for sudden shattering. e.g. With Jacob’s conjecture shown to be false using an AI, my twitter timeline is full of both sentiments: “mathematics is done”, and “maths is just getting started”. Given mathematicians are smart people, how can they have dramatically opposite viewpoints? The answer here depends on what we mean by “math”, “done” “knowledge”, “results”, etc. Is math done for outcomes or is it for understanding? Is progress human-aligned, or can knowledge be abstracted away from humans. Most discourse about AI hides behind metaphysical assumptions, and with different people carrying different notions of what’s true in their heads, they’re guaranteed to task past each other. The way to get out of these confusions is to deconstruct what all things do we mean, when we say “math”. Is it formalization? Is it intuition-driven theory-building? Is it for finding applications? Defining broad human-activities under one term was always problematic, but with AIs entering into our workforce, this problem is going to get even more dramatic. (I’ve written about this at length in my paper, see below 👇) PS: On the topic of math, I’ve found David’s views to be refreshingly grounded. |

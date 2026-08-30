@@ -1,0 +1,11 @@
+---
+id: "19ef2eed3429aa11"
+subject: "Elderly Health and Longevity in the US"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2026-06-23 05:23:17
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+Rising elderly life expectancy is a well-known source of fiscal pressure on Social Security and Medicare – but how have declining mortality and morbidity affected the two programs’ relative finances? Using nearly three decades of Medicare Current Beneficiary Survey data (1992-2019), we estimate that these demographic changes raised expected lifetime Social Security spending by over twice as much as expected lifetime Medicare spending: 14% compared to 6%. The slower growth of elderly lifetime health care spending than annuity spending reflects two features of how longevity has increased: the additional 2.4 years of remaining life expectancy were entirely healthy – free of physical or cognitive limitations – while the expected amount of time spent with severe health limitations fell by about 30%, reducing expected lifetime nursing-home and home-health use. We then write down a stylized life-cycle model of a risk-averse retiree facing stochastic mortality and health to illuminate the key forces that affect the optimal allocation of a fixed amount of public funds across Medicare and Social Security.
+That is from [a new NBER working paper](https://marginalrevolution.com?action=user_content_redirect&uuid=dd03c3b0a77f7b083c95f298061a727e0b740fe9afc3dce2ce8e7d3cb22b01d3&blog_id=42693868&post_id=93254&user_id=262258391&subs_id=225460721&signature=1a354f020950c00975f629f56197bae9&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly93d3cubmJlci5vcmcvcGFwZXJzL3czNTM0NiNmcm9tcnNz&email_id=640f38bab5bad3525a8beb4efc1875ca) by Liran Einav and Amy Finkelstein. In general I wish to switch resources from Medicare to Social Security, or at least give individuals the option to do so. You can use dollars to buy health care, but it is not always so easy to make the transformation in the opposite direction.

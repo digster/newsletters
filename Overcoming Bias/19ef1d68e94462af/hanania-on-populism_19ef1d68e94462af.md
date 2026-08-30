@@ -1,0 +1,13 @@
+---
+id: "19ef1d68e94462af"
+subject: "Hanania On Populism"
+from: "Robin Hanson from Overcoming Bias <overcomingbias@substack.com>"
+to: ""
+date: 2026-06-23 00:16:47
+labels: ["CATEGORY_PERSONAL", "INBOX", "Overcoming Bias", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_8616244883382228708", "UNREAD"]
+---
+I liked Richard Hanania’s I accept Hanania’s core claim, which is that, all else equal, political factions whose supporters are less elite tend to govern less well. Robustly, elites tend to be smarter, better informed, better organized, and to more follow local norms and laws. Yes, there are exceptions, and Hanania tries hard to list many of them. Even so, beware populists. All of which I would have easily accepted based on a few pages of argument and data. Not that I would have then agreed with all his political stances. We can generate many other plausible “all else equal” political presumptions, like prefer smarter more honest more experienced candidates, and prefer bigger parties, those of your associates, and those with clearer track records. We can also identify many particular cases where elites seem to induce worse outcomes. So what then is the point of a whole book on this one claim? Maybe Hanania wants to recruit readers to share his particular political stance. Except he doesn’t offer a party, a wing of a party, or even particular candidates, for them to support. So I guess a more plausible theory is that he wants to justify his stance, which he sees as unusual and thus vulnerable to criticism:
+In which case, fine, I’ll count him has having justified his unusual political stance to the world, at least as much as most such stances are ever justified. But as much as I like Hanania, and found his other books insightful, I am just not that interested in which particular political candidates and parties I should have supported in each particular time and place. I guess I’m not that political. More interesting to me is the key question of his Chapter 3:
+Hanania largely rejects as explanations objective elite failure and increasing salience of immigration. He’s more sympathetic to tech change stories. He mentions Gurri’s theory that new tech let people see more elite details, which looked worse than they had expected. But he prefers the idea that tech let people explore and develop ideas that elites had blocked. Hanania is most sympathetic to:
+But this just predicts correlated changes, not a recent trend toward populism per se. Re predicting that trend, I still put substantial weight on a You're currently a free subscriber to |

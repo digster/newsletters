@@ -1,0 +1,29 @@
+---
+id: "19de9284277f82b9"
+subject: "Ashlee Vance: Belief, Lynch, Eden, Bobby Fingers, Gambler, Bliss of Excess"
+from: "Ben Springwater <matterreader@substack.com>"
+to: ""
+date: 2026-05-02 14:45:20
+labels: ["Ben Springwater", "CATEGORY_PERSONAL", "INBOX", "UNREAD"]
+label_ids: ["Label_656938182101901423", "CATEGORY_PERSONAL", "INBOX", "UNREAD"]
+---
+Welcome to a new issue of Words That Matter! Each week, we invite a guest curator to share the reading that matters most to them.
+Ashlee Vance ([@ashleevance](https://substack.com/redirect/446e101c-1822-4e91-b4cb-ce5c33b6078d?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)) is the founder of [Core Memory](https://substack.com/redirect/946520c7-b327-4a23-a99d-8ef644c66f25?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o), a science and technology media company spanning a Substack, podcast, YouTube show, and documentary films. Before going independent in early 2025, Ashlee spent 14 years at Bloomberg Businessweek, where he hosted the Emmy-nominated Hello World video series. Earlier in his career, he covered tech for The New York Times. He is the author of the #1 bestselling [Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future](https://substack.com/redirect/ef8eb593-bbe3-40e9-b9e0-af695678254f?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) and [When the Heavens Went on Sale](https://substack.com/redirect/4f66a00a-5ebc-494c-91ec-2ea5761d40da?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o), which inspired the HBO documentary Wild Wild Space. His next book, on OpenAI, is already optioned for film.
+Please enjoy these works and words that have mattered to Ashlee!
+I’ve been in love with Emma Goldman since my days in high school. She was an anarchist who became a celebrity intellectual in the early 1900s in the U.S. Her words and story always remind me of what real passion looks like. I’m not sure I believe in anything as much as Goldman believed in her world view. I would like to believe in things.
+The author Terry McDermott embeds himself inside the lab of the eccentric and brilliant neuroscientist Gary Lynch. McDermott spends enough time with Lynch that the lab and its rhythms and soul come alive for the reader. It’s the sort of thing that I love. You hang out and hang out until you begin to see actual truths. I’ve been chasing the chance to do something like this for years and aspire to find my Lynch.
+Jean Stein’s oral history of California changed me. It forced me to love and hate California more. Stein’s mastery of the oral history format filled me with jealousy. Stein makes this look easy, but she must have put in an incredible amount of work to pull this off. It’s the kind of book that leaves you feeling inadequate and aspirational at the same time.
+For me, Bobby Fingers is the most creative person alive. His YouTube channel is somehow ignored by most of the public, and, yet, he’s hilarious and an artistic polymath with no equal. YouTube and the public reward the Mr. Beasts. We’d be a better civilization with Bobby Fingers at the helm.
+It’s not very easy to find this book, which is the autobiography of the gambler David Walsh. Walsh tends to make everything in his life exotic and indulgent, and his book is no different. I have begged to interview this man for years with no luck. His extraordinary life story only makes me want him more.
+Sometimes I fear that we’re becoming very boring as people. Fitter, happier, more productive and all that. This is a good reminder of the bliss of excess and how to write about it.
+Humdog – aka Carmen Hermosillo – wrote this in 1994. I read it about once a year to remind myself of what the early days of the internet and being online felt like to those who were obsessed with the arrival of this technology from day one. “i have seen many people spill their guts on-line, and i did so myself until, at last, i began to see that i had commodified myself” arriving before most people had ever heard of the internet will/should haunt you.
+Hardly anyone watched this movie when it came out. Fewer have watched it since. Johnny Depp is polarizing, I suppose, and people might struggle to take him seriously in this. But, dang, when I really want to wallow and go slow, this is the movie for me. Neil Young. Jim Jarmusch. A William Blake fever dream. What else do you want?
+[Welcome to ProtoTown: How this Texan Startup Ranch Plans to Save America](https://substack.com/redirect/ceb8252a-9f97-418b-9c8e-fdec3e71e022?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+[They’ve Revived Dead Brains. And Now We Might Finally Get Some Cures](https://substack.com/redirect/83644710-6d06-450f-994b-3cbfd3230faf?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+The courier arrived with the human brain early in the morning…
+a month ago · 18 likes · Ashlee Vance
+[When the Heavens Went on Sale](https://substack.com/redirect/09bf9eb7-e4b8-4b59-947f-54d05b7c6714?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+[Don’t Die](https://substack.com/redirect/050287fb-50d4-410d-94f5-c8ccc3b648e9?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+Words That Matter is brought to you by [Matter](https://substack.com/redirect/0fcdc879-79f0-4d5c-b42e-da56e56c5203?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o).
+[Matter](https://substack.com/redirect/0fcdc879-79f0-4d5c-b42e-da56e56c5203?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) is the modern read-later app for serious readers. Since Pocket shut down last fall, tens of thousands of readers have made it their new home.
+Designed for Apple, Matter has earned multiple App of the Day honors – in fact, Matter was App of the Day last week!

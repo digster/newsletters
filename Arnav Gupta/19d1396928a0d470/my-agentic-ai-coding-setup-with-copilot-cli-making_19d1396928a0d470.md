@@ -1,0 +1,43 @@
+---
+id: "19d1396928a0d470"
+subject: "My Agentic AI Coding Setup with Copilot CLI - Making a Kotlin Multiplatform App for 13 Platforms"
+from: "Arnav Gupta from system bashing <systembashing@substack.com>"
+to: ""
+date: 2026-03-22 02:28:44
+labels: ["Arnav Gupta", "CATEGORY_PERSONAL", "INBOX", "UNREAD"]
+label_ids: ["Label_2739595779997728054", "CATEGORY_PERSONAL", "INBOX", "UNREAD"]
+---
+Hey everyone, Arnav here! It’s been a while, but I’m incredibly excited to finally share a massive update on my latest side project: 2FAC.
+2FAC is an open-source, "bring-your-own-cloud" two-factor authentication app. I wanted a solid alternative to Authy and Google Authenticator that doesn't rely on a centralized server and actually syncs seamlessly across all my devices—including wearables and the terminal.
+✨ Features & Where it Runs:
+📱 Everywhere you need it: Android, iOS, WearOS, watchOS, Windows, Mac, Linux (Ubuntu), Web (PWA), and browser extensions (Chrome/Firefox).
+💻 GUI & CLI: Full graphical apps built with Compose/Kotlin Multiplatform, plus super lightweight (2MB) native CLI apps with animations.
+☁️ Bring Your Own Cloud: Back up your secrets locally or directly to your own Google Drive/iCloud (supports both encrypted and plain text backups).
+🔒 Secure: Biometric unlock support (Face ID/Touch ID) across devices.
+🤖 The "Vibe Coding" Process:
+The craziest part? I built almost this entire 100k+ line codebase without typing in an IDE. In the second half of the video, I break down my AI agent workflow (using Copilot, Claude, etc.), how I use custom skills, structured planning, and automated UI testing with Maestro to keep the AI on track.
+⚠️ Disclaimer: We are super close to a 1.0 release, but please do not migrate your real, production 2FA secrets to this app just yet!
+Want to try it out or contribute?
+The code is fully open-source and I would love some help squashing bugs and adding features before the official app store launch.
+GitHub Repo: https://github.com/championswimmer/TwoFac
+Check the releases tab for unsigned APKs, EXEs, DMGs, and CLI binaries to test out!
+Let me know what you think in the comments, or hit me up on Twitter/GitHub. Thanks for watching!
+[00:00:00] Project Overview & Motivation - Why build a new 2FA app (replacing Authy) and project goals.
+[00:03:31] Android App Demo - Core features, account management, and biometric unlock on Android.
+[00:04:19] iOS & watchOS App Demo - Testing the app on Apple devices and Apple Watch.
+[00:05:32] Desktop App Demo - Running the Compose multi-platform app natively on desktop.
+[00:06:05] System Tray Integration - Using the app directly from the system notification tray.
+[00:07:05] Command Line Interface (CLI) Demo - Managing 2FA codes directly from the terminal.
+[00:08:44] Browser Extension Demo - Running 2fac as a Firefox developer extension.
+[00:10:00] Web App (PWA) Demo - Accessing the fully local web application front-end.
+[00:11:40] Secure Unlock & Passkeys - Simulating fingerprint and Face ID authentication across platforms.
+[00:16:30] GitHub Repository & 1.0 Release Plans - Current state of the open-source code and upcoming release.
+[00:17:30] CI/CD Pipeline Setup - How artifacts (extensions, EXEs, DMGs, APKs) are built and distributed.
+[00:19:00] AI Agentic Coding Workflow - Explaining the `agents.md` setup and how AI built the app without an IDE.
+[00:23:50] Production Usage Warning - Why you shouldn't use it for production accounts until a stable release.
+[00:26:00] Custom AI Agent Skills - Deep dive into the `.agents/skills` folder and how Copilot/Claude consume them.
+[00:28:30] Automated Planning & Roadmaps - Prompting the AI to generate phase-wise development plans.
+[00:31:14] UI Testing with Maestro - Setting up an AI skill to run automated UI tests and verify app functionality.
+[00:35:12] Creating Custom AI Agents - Configuring specific models and instructions for tasks like Git operations.
+[00:38:34] Codebase Test Coverage - Reviewing tests for the shared KMP library, backups, and crypto modules.
+[00:41:30] AI-Driven Test-Driven Development (TDD) - How AI changes the development loop by focusing on test harnesses.

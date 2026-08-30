@@ -1,0 +1,40 @@
+---
+id: "19f48337da1c277b"
+subject: "The New Private Asset"
+from: "Chamath Palihapitiya <chamath@substack.com>"
+to: ""
+date: 2026-07-09 16:42:03
+labels: ["CATEGORY_PERSONAL", "Chamath", "INBOX", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "Label_4017391144830520384", "INBOX", "UNREAD"]
+---
+|
+Over the past year, while every category of crypto token lost value, privacy tokens climbed 127.3%, ending 2025 as the best-performing sector in crypto. To understand why privacy coins are surging, we need to explore a core monetary feature that’s missing from the largest monetary network in crypto: Bitcoin.
+Every transaction on the Bitcoin network is public. Instead of a bank or other trusted intermediary privately verifying payments, thousands of independent computers verify every transaction by checking the same public ledger.
+That design decentralized verification, but it also made every coin and every wallet traceable. At the coin level, that visibility breaks one of the most important features of money: fungibility.
+Something is fungible when its individual units are identical, indistinguishable, and interchangeable. It ensures that the exact origin, specific unit, or history of an item does not affect its value or utility.
+Bitcoin’s public ledger lets anyone trace a coin’s history, including whether it has ever been linked to illicit activity. Exchanges often reject tainted coins or only accept them at a significant discount. Because a coin’s history affects its value, one bitcoin doesn’t necessarily have the same market value as another.
+At the wallet level, Bitcoin’s transparency can expose individuals. A Bitcoin address is more like a pen name than a bank account. It remains pseudonymous only until someone links it to a real identity. One exchange signup, public payment, or leaked database can make that link. Once a wallet is linked to a real identity, every transaction ever sent from that address becomes readable, retroactively and forever.
+To address this privacy issue, developers went back to a discovery made decades ago. In the 1980s, MIT researchers asked whether you could prove a statement is true while revealing anything else about it. Their answer: the zero-knowledge proof.
+A simple analogy to help grasp how they work:
+Suppose I claim two balls are different colors, one red and one green. You are colorblind, so they look identical to you.
+You put both balls behind your back, secretly decide whether to swap them, then show them again. If the balls really are different colors, I can tell whether they changed hands. If they are identical and I am bluffing, I can only guess.
+But after enough random rounds, repeated correct answers become nearly impossible unless the balls really are different colors. I prove I know whether the balls changed hands, but you never learn the hidden information: the balls’ colors.
+The same logic applies to private digital money.
+In a private transaction, the hidden information is the payment itself: who sent it, who received it, which coins moved, and how much was sent. A zero-knowledge proof turns that hidden information into a public receipt the network can check. If the sender owns the coins, has not already spent them, and has followed the rules, the receipt passes. If any of those facts are false, it fails.
+The network verifies the payment without seeing the payment.
+Governments remain deeply divided over what private digital money should look like. As rules evolved, 73 exchanges delisted privacy tokens in 2025, yet they became the best-performing sector in crypto.
+My research team at Social Capital traced financial privacy from first principles, exploring the monetary history of Mesopotamian clay tokens to the advanced mathematical proofs live on-chain today. Inside the deep dive, you will find:
+The four fundamental properties of money explain why gold and cash can pass the fungibility test, whereas Bitcoin fails.
+The cryptography that lets a transaction prove itself while revealing nothing.
+A landscape of privacy tokens: Monero’s mandatory privacy, Zcash’s opposite bet, and the first private digital dollars.
+The compliance split that divides the sector, and who has built a way through it.
+The three paths this could resolve over the next few years.
+Which privacy token designs actually work, and which pose the biggest risks?
+The strategies governments are deploying to push or rein in privacy tokens.
+Money that reveals nothing and money that reveals everything are being built at the same time. Read it and share your perspective in the group chat.
+Chamath
+Deep Dive PDF below ↓...
+Become a paying subscriber of Chamath Palihapitiya to get access to this post and other subscriber-only content.
+| Subscriber-only deep dives | |
+| Group chat with me | |
+| Weekly reading list and quick essays |

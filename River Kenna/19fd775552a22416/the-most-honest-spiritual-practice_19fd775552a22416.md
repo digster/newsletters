@@ -1,0 +1,64 @@
+---
+id: "19fd775552a22416"
+subject: "The Most Honest Spiritual Practice"
+from: "River Kenna from Inner Wilds <innerwilds@substack.com>"
+to: ""
+date: 2026-08-06 14:21:28
+labels: ["CATEGORY_PERSONAL", "INBOX", "River Kenna", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_3010718370428876194", "UNREAD"]
+---
+|
+[I published the [full piece here](https://substack.com/redirect/591035d3-fe35-494a-a09e-0236fdc3443f?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) — it’s long and winding, due to a belief I’m moving through that editing in-process insight is counterproductive to living processes. I’ll publish parts of it below that feel worth giving a taste of.
+I just realized the parts I copy-pasted here don’t actually include my reasoning on the most honest spiritual practice, so if you’re looking for that, probably best to click through to the full piece.]
+I think that laughing meditation is the most honest practice, and I’ll tell you why eventually.
+For now, I’m going to tell you about an experience I had with mindful eating.
+I’ve tried mindful eating a few times over the years; it feels like a natural fit for me, given that most of my meditation practice is lived meditation. By hour count, the time I’ve logged in walking meditation, sensory meditation, moving meditation, and so on dwarf my hours seated on a cushion. So why not add another activity to the meditative roster?
+But eating never quite clicked. Probably for a number of reasons, many of which don’t bear getting into. I’d read or listen to some instructions, get a feel for the practice, and try to do it when the opportunity came up — pay close attention to the feel, the smell, the taste of each bite; to my body’s experience as it took in the food; to the movements I made to bring food to my mouth, chew it, etc.
+When I tried, it usually felt like my attention was trying to do too many things at once. So I’d focus on one — and it would feel rote and dull. I’d zoom out and try to hold all of them without over-focusing on any, and I’d just get drifty. Over the years, the impulse came back here and there and I’d give it a go, but it just never took.
+Last winter, I was living in India, avoiding mold and preparing for Ayurvedic treatment and generally not having much to do with my days. I took my medicines, meditated, looked at the trees, listened to the birds, went on a bit of a Murakami binge. Not a whole lot else to do out in rural Gujarat.
+After a couple weeks of this, an experience I’d only really had a few times before — and usually only for a few hours or so — started to take over. It’s hard to describe, but basically I’d say that there was nothing more interesting than whatever was happening at the given moment.
+I stopped reading books, I didn’t watch tv, I didn’t get bored or play games or reach out to call people. I could sit in a chair on the terrace for 3, 4, 5 hours at a time, listening to the birds and the wind in the leaves. Not because I was trying to make myself be still and pay attention to the moment, or because I’d made some decision to be still for awhile — but because [naturally](https://substack.com/redirect/dad26fe6-3654-4914-8c2b-2e825e4bf8ef?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o), effortlessly, there was nothing else that could compete with the experience of what was already going on.
+I’d lie awake at night fascinated by the sensations in my legs and torso. I took a 6 hour car ride around the Gulf of Kutch and spent the whole time alert, relaxed, fascinated by everything happening in and around me. The scenery, the joy, the grief, the pollution, the discomfort — I wasn’t pushing myself to Be Here Now™, there was just nothing else that could compete. What was already here was as [interesting, luminous, appetizing](https://substack.com/redirect/5069cc31-c868-4103-b348-24c4428c16a2?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) as anything could be. Why trade that for a book, or music, or collapsing in the backseat?
+And during this period, surprise surprise, the descriptions I’d heard of mindful eating became my experience of just… eating. “Pay attention to the scents and flavors.” Of course, obviously, what else could I even do? “Notice your eating motions, in your hands, your jaw, your throat.” That’s like telling me to pay attention to my orgasm, what else do you think I’d be paying attention to while that’s going on? “Feel how your body responds as it takes in the food.” THERE’S AN AURORA BOREALIS FIREWORKS SHOW PERFUSING THROUGH MY ORGANS, OF COURSE I’M FEELING THAT.
+There was zero trying, zero effort, zero idea that there was something here I should be doing, or any instructions to stick to. An experience was simply happening, and I’d notice every once in awhile that it lined up with experiences I’d tried to guide myself into before, with mixed success.
+[…]
+[…]
+I imagine a long set of conversations that basically boil down to
+Jim: Hey Sarah, the way you’re eating is really slow and careful and you’re always grinning. What’s up with that?
+Sarah: Oh, I’ve just been going through something for awhile. It’s like, every moment is heaven, like some dial turned all the resistance down and let me experience the underlying heavens all the time.
+Jim: Sounds great!! How are you doing that with the food right now?
+Sarah: Odd question, but hmmmm. It’s like… the way the light bounces off the food is so beautiful. And when I feel my hand grip the spoon and lift it to my mouth, it’s like this set of tiny miracles all co-occurring inside me. And when I taste the food, I can feel how every cell in my body is grinning, preparing itself to take in the nourishment, which is both physical nourishment and cosmic soul nourishment. I don’t know, I’m not describing this very well.
+Jim: No no, that’s great, thank you.
+[The next day, Jim has gathered everyone together for lunch.]
+Jim [to crowd]: Hello everyone! From today onward, we will eat following the instruction of Sarah-ji, as follows: Look at your food, and experience the beauty of the light bouncing off of it. Grip your spoon, experiencing the miracle of your hand. Lift your spoon to your mouth, experiencing the miracle of movement. As you taste the food, experience your body as grinning from its cells. Experience this grin as the anticipation not only of physical, but of cosmic nourishment. Follow these teachings, and we shall all be as enlightened as Sarah-ji.
+Sarah: I, uh, I think I’m gonna go live in a cave and stop talking to you.
+Jim: So wise, so holy, yes, you know best, oh illuminated master of the 12 tastes.
+Sarah: The twelve wh— Right, uh. How do you feel about taking a vow of silence. For like… a long time?
+Jim: If it be thy will, wise one.
+Sarah: Cool, let’s start that now.
+It strikes me as similar to someone thinking they’ll catch a cold if they sneeze and cough hard enough. There’s a backwards causation there. It’s taking something effortless (catching a cold and true ‘mindful eating’ both require certain conditions to occur, obviously, but if those conditions are in place, the thing itself comes without effort, if it’s going to come; like sleep; it’s not something you could ‘try’ to make happen if you wanted; 'trying' can only lead to a thin, tinny knockoff) — it’s taking something effortless and turning it into a state you should attempt to grip and pull yourself into.
+[…]
+For me -- and I may be a minority in this, no use in either of us mistaking me for an authority here -- the big openings, the big shifts that actually changed my experience of reality, they all happened without me trying to get to them.
+Which isn’t to say I wasn’t doing anything. I certainly wasn’t just lying around doing nothing and hoping enlightenment would hit me out of nowhere on a park bench or something. But the things I was doing were, pretty much across the board, fairly unrelated to the opening that occurred.
+In my head, it reminds me of things like referred pain in the body. Sometimes, to fix the pain in your shoulder, the work you need to do is in the opposite ankle, or the deep interior of the belly or somewhere else seemingly unrelated.
+In my own example/analogy, my inner process largely consisted of something like listening to my body, feeling like it wanted me to be doing ankle circles and deep belly breathing or whatever, and then, over weeks, without me hardly noticing, my shoulder simply... stops hurting. And I can’t be consciously sure of what exactly the process was there -- but it seems like some intelligence inside me knows where the leverage points are.
+If I had tried to work directly on the shoulder, I might have been able to alleviate some symptoms, but they’d keep coming back.
+If after fixing it, I’d tried to tell someone else that the key to fixing their shoulder was to do ankle circles and belly breathing, I’d most likely be wrong. (If I told them that ankle circles and belly breathing were the key to fixing pain in general, I’d definitely be wrong.)
+If I simply described to them what my healthy shoulder felt like, and prescribed to them as a practice that they emulate that feeling -- they’d probably get somewhere with it (I’m actually curious to try this with literal physical examples now), but it wouldn’t be The Real Thing.
+[…]
+[…]
+But you have to let go of what you wanted [your artistic projects] to be, what you expected them to be. You have to -- excuse me for talking like this, but it’s real -- you have to attune to their soul and let that be the creative force, rather than your own plans and agendas. You have to come in with the attitude of nurturing a baby bunny — not of trying to nudge the bunny into becoming a cat, because you had an idea that you’d like it to be a cat.
+If you can do that, you might not end up with the thing you wanted, but you will end up with something real and living.
+Here’s the part that’s hard for me to actually accept and live by: this is exactly the same for each of us, in our relationships to ourselves.
+I don’t get to be the person I planned to be. (If I were more honest or more brave, I’d write that in the present tense.) All the agendas I have for myself, all the ways that I think I should be, the ways I ought to behave, the ways I have to experience reality -- for as long as I try to effort myself towards those agendas, I’m ignoring and neutering the life force of what actually wants to happen. I’m precluding the possibility of The Real Thing showing up.
+Oh, right, there’s a Carl Jung quote for this, of course:
+“We should grow like a tree that likewise does not know its law. We tie ourselves up with intentions, not mindful of the fact that intention is the limitation, yes, the exclusion of life.”
+-- Carl Jung
+That’s basically it.
+When I decide in advance, “I should be an equanimous person, I should be a joyful person, I should be deep and loving and securely attached“…
+When I decide that “I should have a wife and be highly paid and get big on social media and live in a big city and be a guy who knows wines“…
+When I decide that “I need to keep my head down, I should not bother anyone with my needs, I have to keep quiet, go unnoticed, not make a fuss“...
+These are all the same thing, the limitation, yes, the exclusion of life.
+When I decide what I should feel, what experiences I ought to train myself for, which practices I need to follow to do things correctly -- I’m pinning down a cocoon, and what’s in the cocoon is me.
+To read the missing parts, go to [the full article](https://substack.com/redirect/591035d3-fe35-494a-a09e-0236fdc3443f?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) on Inner Wilds Garden.
+You're currently a free subscriber to [Inner Wilds](https://substack.com/redirect/547a0add-87f4-4b4a-a657-5a6182f30909?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o). For the full experience, [upgrade your subscription.](https://substack.com/redirect/2/eyJlIjoiaHR0cHM6Ly93d3cuaW5uZXJ3aWxkcy5ibG9nL3N1YnNjcmliZT91dG1fc291cmNlPXBvc3QmdXRtX2NhbXBhaWduPWVtYWlsLWNoZWNrb3V0Jm5leHQ9aHR0cHMlM0ElMkYlMkZ3d3cuaW5uZXJ3aWxkcy5ibG9nJTJGcCUyRnRoZS1tb3N0LWhvbmVzdC1zcGlyaXR1YWwtcHJhY3RpY2Umcj04bzU0biZ0b2tlbj1leUoxYzJWeVgybGtJam94TkRVMk16TXhPU3dpYVdGMElqb3hOemcyTURJMk1qRTJMQ0psZUhBaU9qRTNPRGcyTVRneU1UWXNJbWx6Y3lJNkluQjFZaTAzTlRrNU9USWlMQ0p6ZFdJaU9pSmphR1ZqYTI5MWRDSjkuZEVIc3Rha0ZMS2lqZVh4czNlRWlLQzA5TlVUUGpnX0FqUE0yRmp5YUZBYyIsInAiOjIwOTUxNjk2MiwicyI6NzU5OTkyLCJmIjp0cnVlLCJ1IjoxNDU2MzMxOSwiaWF0IjoxNzg2MDI2MjE2LCJleHAiOjIxMDE2MDIyMTYsImlzcyI6InB1Yi0wIiwic3ViIjoibGluay1yZWRpcmVjdCJ9._i39SlkJvkWpgrPTqVYq5KlZu0iBwaArue9xJU2LvDY?&utm_source=substack&utm_medium=email&utm_content=postcta)

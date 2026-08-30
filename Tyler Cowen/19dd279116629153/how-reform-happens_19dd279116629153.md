@@ -1,0 +1,11 @@
+---
+id: "19dd279116629153"
+subject: "How Reform Happens"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2026-04-28 05:04:02
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+What determines whether and how regulations are reformed? We use a newly constructed data set of 3,590 successful and failed regulatory reforms in 189 countries, between 2005 and 2022, to address this question. We document that regulations have become more business friendly in some regulatory domains but not others. We also show that regulations are more business friendly in richer than in poorer countries, and that holding initial regulatory levels constant, richer countries also reform more. We present a model in which the successful passage of reforms is shaped by the number of veto points in the approval process, the social returns to reform, and the cost of compensating losers from reform, and then test it using our new data set. We find that richer countries have both higher reform attempt and success rates, but less impact of individual reforms on regulation than poorer countries. These findings are consistent with the model if richer countries are better at reform, perhaps because they can compensate losers more efficiently. Across the world, reform attempt rates are strongly correlated with reform success rates but not with reform impact levels. Within countries, a higher share of technological reform attempts is successful, compared to administrative or legal reforms, consistent with the importance of veto points.
+That is from [a new NBER working paper](https://marginalrevolution.com?action=user_content_redirect&uuid=c83fb560c36421fa433bf9c797829123a7902d70649d26ca73b85ea3fb613295&blog_id=42693868&post_id=92910&user_id=262258391&subs_id=225460721&signature=89e149ebbf6706b63907469a70e32004&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly93d3cubmJlci5vcmcvcGFwZXJzL3czNTExOSNmcm9tcnNz&email_id=ce2a8f4e4c87f9c6d19d97288ecf4c0a) by

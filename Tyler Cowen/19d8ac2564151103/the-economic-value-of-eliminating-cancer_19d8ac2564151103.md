@@ -1,0 +1,11 @@
+---
+id: "19d8ac2564151103"
+subject: "The economic value of eliminating cancer"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2026-04-14 06:51:24
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+This paper estimates the economic value to the United States of eliminating cancer mortality over a 35-year horizon beginning in 2030, which would eliminate 30.7 million cancer deaths with a total mortality burden of 380 million life-years. We quantify the economic value of this substantial reduction in cancer mortality by incorporating the monetized value of increased longevity. To value the longevity gains in monetary terms, we utilize the valuations used by the U.S. federal government in its cost-benefit evaluations of regulations. Eliminating cancer mortality generates $197 trillion in economic benefits over 35 years, corresponding to approximately $16,282 per American per year, or $41,684 per American household per year. If cancer elimination is viewed as an R&D investment, it yields an enormous internal rate of return, ranging from 570% to 1,024%, based on benchmarked R&D costs. In addition, we perform a sensitivity analysis by varying the elimination durations and the degree of success, using the benchmark case scenario in which cancer mortality is reduced by 80 percent over a 20-year transition. This achieves about 70 percent of the total economic value of full elimination above, corresponding to aggregate benefits of about $134 trillion, or approximately $11,112 per person per year.
+That is from [a new NBER working paper](https://marginalrevolution.com?action=user_content_redirect&uuid=651a008487db0087486bd93f62ccf0ee7f20e5576a6d8711c5b41402650a8ece&blog_id=42693868&post_id=92827&user_id=262258391&subs_id=225460721&signature=edd424f77e38f57c535515642189c8e5&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly93d3cubmJlci5vcmcvcGFwZXJzL3czNTA1Mg=&email_id=ccd1c3e3e422e66d5c6e8f1028dbee63) by
