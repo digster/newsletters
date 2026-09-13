@@ -1,0 +1,19 @@
+---
+id: "1a084806326a3c4f"
+subject: "Reasons to go to college"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2026-09-09 04:50:01
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+That is the topic of [my latest Free Press column](https://marginalrevolution.com?action=user_content_redirect&uuid=95dd1a1dcbb4a162b538305921ec2fa6308b0519f41b3396fb6055e6fdfbf36a&blog_id=42693868&post_id=93743&user_id=262258391&subs_id=225460721&signature=bbb07260fef9086030c071d39540a56a&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly93d3cudGhlZnAuY29tL3AvdHlsZXItY293ZW4tY29sbGVnZS1zdGlsbC13b3J0aC1mcmllbmRzaGlwLWxvbmVsaW5lc3MtZmFtaWx5LWhhcHBpbmVzcz91dG1fY2FtcGFpZ249MjYwMzQ3JnV0bV9zb3VyY2U9Y3Jvc3MtcG9zdCZyPTNvOSZ1dG1fbWVkaXVtPWVtYWls&email_id=13965e720cff9d13328265d4edc0f057), here is one excerpt:
+...college is a great place to make friends, date, and possibly meet a spouse. Those features are ever more important as America suffers a crisis of loneliness. Furthermore, if you think that artificial intelligence may displace a lot of jobs, or just reduce work hours, marrying well will become more important. The title of the new essay by Clara Collier says it all: “
+[After Work, We’ll Have Each Other].” You are also going to live longer, so think hard about who you wish to spend that time with.The data show that college-educated people are more likely to marry, and to stay married. More generally, college-educated folks have superior social indicators of all kinds, including resistance to alcohol, drug, and gambling addiction. (Charles Murray wrote a whole book on this theme, called
+[Coming Apart: The State of White America, 1960-2010].)If you have a bachelor’s degree and are over 25 years of age,
+[your chance of being married]is 64 percent. If you have only a high school degree, your odds of being married are an even 50 percent.For divorce,
+[the results]are more dramatic yet. The chance of a woman remaining married for at least 20 years is 78 percent if she went to college, but 41 percent if she is only a high school graduate. For men, the gradient is less sharp though still significant—namely, 65 percent versus 47 percent.People who finished college also have more extensive networks of friends. For instance they are
+[twice as likely]to have six or more close friends, and less than half as likely to have no close friends at all.There are some private sector jobs where you can spend four years alongside the same group of people and then have social networks to stay in touch over the following years. But all too often people come and go in their jobs and lose touch with former colleagues rapidly, or maybe never share much of a common experience in the first place. College seems to do an especially good job of keeping people connected.
+We do not know the extent to which these relationships are causal ones. That’s to say, does going to college induce better outcomes, or are the people who will have better outcomes in any case more likely to attend college in the first place? Probably some of both. In any case, it is better to have this force on your side, even if you are not sure how important it is.
+So, in sum, while the money premium from college is falling, the friends and marriage premium from college is going up and probably will rise further still.
+Of course those are not the only reasons. That said, I do think going to college makes less sense, at the margin, than it did say seven or eight years ago, as I outline in the piece.

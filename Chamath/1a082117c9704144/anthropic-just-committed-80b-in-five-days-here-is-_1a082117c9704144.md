@@ -1,0 +1,38 @@
+---
+id: "1a082117c9704144"
+subject: "Anthropic Just Committed $80B in Five Days. Here Is Who It Is Renting From."
+from: "Chamath Palihapitiya <chamath@substack.com>"
+to: ""
+date: 2026-09-08 15:28:38
+labels: ["CATEGORY_PERSONAL", "Chamath", "INBOX", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "Label_4017391144830520384", "INBOX", "UNREAD"]
+---
+|
+Recently, two little-known cloud companies reportedly received $80 billion in compute contracts from Anthropic: a six-year, $45 billion agreement with Nscale and a $35 billion agreement with Lambda.
+Frontier AI labs are reaching beyond Amazon, Microsoft, and Google to secure the compute they need. This class of company barely existed 3 years ago, but is now forecast to approach $400B in revenue by 2031.
+They are called neoclouds and have become a growing share of the compute that frontier labs run on by owning GPU capacity and renting access to it, either by the hour or under a long-term contract.
+To understand the difference between the traditional cloud business model and the new upstarts, let’s begin by defining what a cloud is.
+The cloud is a massive network of computers stored around the world and rented over the internet. Servers are made of chips in racks in data centers and are often accessed through an API.
+Instead of buying and operating the underlying infrastructure themselves, customers can rent compute from shared infrastructure, an approach known as “pooling.” For more than 15 years, the hyperscalers dominated this business model through AWS, Azure, and Google Cloud. Most non-AI workloads still work this way today.
+But AI workloads require a different approach. Traditional clouds were built heavily on CPUs, but training AI models requires a different type of chip. The most common, industry-standard option is the Graphics Processing Unit (GPU).
+A traditional cloud keeps its hardware busy by spreading thousands of smaller jobs across a shared pool. In contrast, AI training runs occupy thousands of GPUs in lockstep for weeks, leaving far less capacity to share.
+Packing those GPUs together also raises rack power from roughly 10 to 15 kilowatts to 40 to 250 kilowatts, which requires new networking, electrical systems, and often liquid cooling. AI workloads changed both the chips and the building foundation around it.
+Neoclouds solves this by bringing together power, data center infrastructure, and GPUs, and removing unnecessary software layers to maximize raw performance. This grants them two structural advantages.
+First, by being built specifically for AI, neoclouds can offer on-demand GPU hours 50-70% below hyperscaler list prices. Second, neoclouds get earlier access to scarce Nvidia GPUs. While the hyperscalers split their GPU purchases with the development of their own chips, Nvidia has a strategic incentive to support neoclouds. By allocating chips and even capital to neoclouds, Nvidia expands its market access and reduces concentration risk.
+In 2026, Nvidia invested $2B each in CoreWeave and Nebius, two of the largest public neoclouds. These stakes support customers that buy Nvidia chips at scale and sell them into markets beyond the hyperscalers. CoreWeave’s contracted backlog reached $104.2B by the end of Q2, showing how large that distribution channel has become.
+The category is already producing hybrids. xAI initially built Colossus 1 to train its own models, but after SpaceX acquired xAI, the company also began selling compute to other frontier labs. Anthropic contracted for all of Colossus 1, gaining access to more than 300 megawatts and over 220,000 Nvidia GPUs. The broader Colossus roadmap targets one million GPUs, making SpaceX both an AI developer and a neocloud at enormous scale.
+The contracts make the demand story easy to see, but a big question to answer is whether the economics survive the massive, continuous buildout. The counterargument is that neoclouds borrow billions at a premium to buy depreciating hardware, then rent it to customers that are also building their own capacity and custom chips.
+Our 88-page Deep Dive examines that gap between contracted growth and economic durability. How durable is the neocloud business model? We broke down the economics of a GPU cluster, where operators make and lose money, how power and financing shape returns, and what to watch as this industry scales.
+Here is a bit of what you will learn:
+Why inference is overtaking training as the durable workload, and how selling tokens changes who carries the risk
+The four numbers behind a GPU cluster’s economics, from a $400,000 node to the borrowing costs that can consume its operating profit
+Why power is the binding constraint, and how neoclouds are circumventing the bottleneck
+The different strategies each neocloud operator is deploying and the expanding long tail of demand
+The stress tests already running against the model, and the public signals that track each one
+Learn with me below and let me know what you think.
+Chamath
+Deep Dive PDF below ↓...
+Become a paying subscriber of Chamath Palihapitiya to get access to this post and other subscriber-only content.
+| Subscriber-only deep dives | |
+| Group chat with me | |
+| Weekly reading list and quick essays |

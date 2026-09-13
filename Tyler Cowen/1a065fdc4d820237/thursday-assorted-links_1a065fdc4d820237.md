@@ -1,0 +1,13 @@
+---
+id: "1a065fdc4d820237"
+subject: "Thursday assorted links"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2026-09-03 06:38:44
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699"]
+---
+1. "Some crazy stats from this new JEL paper: - IV est. average 3–10x OLS (meta analysis) - Sign. results 30x more likely to be published in experimental econ (Andrews & Kasy) - <2% of empirical polisci report null-only findings in abstracts (Briggs et al.)" -- [Jon Fiva](https://marginalrevolution.com?action=user_content_redirect&uuid=6d54bf8a571cbe5f6ed6befd8fcc2b981464cba9e0b39d33b77f2f82ba2cf76a&blog_id=42693868&post_id=93729&user_id=262258391&subs_id=225460721&signature=64f275fb5afecde2cf1cc661ef89412c&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly94LmNvbS9KRml2YS9zdGF0dXMvMjA5NTA3MDY3Njg4MTE5NTIzOQ=&email_id=c7a0055b64826b0376bf79f0e3e656dc)
+2. "[The UCLA athletic dept lost $52 mil last year and $83 mil in 2024 when including campus subsidy.](https://marginalrevolution.com?action=user_content_redirect&uuid=c9f6e0ffbbf8ec1e51617d2f3a4aa87c086d589fc0c53aaf6af5bde868f32972&blog_id=42693868&post_id=93729&user_id=262258391&subs_id=225460721&signature=ea335f1ad599d0b26f4903546d395407&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly94LmNvbS9qb2huYXJub2xkL3N0YXR1cy8yMDk0ODc2NDY0ODEwMjQyMTM0&email_id=c7a0055b64826b0376bf79f0e3e656dc)"
+3. [Papua New Guinea fact of the day](https://marginalrevolution.com?action=user_content_redirect&uuid=464f41875d7e15bd242452e5e92b96709593d35a0e66ba20540920cc8a382267&blog_id=42693868&post_id=93729&user_id=262258391&subs_id=225460721&signature=9887589691d84795ba3b91ef3a374bf1&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly94LmNvbS96YWdyZWJiaS9zdGF0dXMvMjA5NTEzNjkyMzM3MTEzMTE5NQ=&email_id=c7a0055b64826b0376bf79f0e3e656dc).
+4. "[Most laid-off SF tech workers aren't qualified for this $50 dishwasher job.](https://marginalrevolution.com?action=user_content_redirect&uuid=ea2a08ff1023d4ea8d5fa2c1f57a2d4d6485f3de48b3a26fa3211ce3919227f4&blog_id=42693868&post_id=93729&user_id=262258391&subs_id=225460721&signature=c0bb951eaa6a8398dcefa965d9ff93ac&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly93d3cuc2ZnYXRlLmNvbS9mb29kL2FydGljbGUvcGhvLW5ndXllbi1kaXNod2FzaGVyLXNmLTIyNDExODQxLnBocD9zaWQ9Njk3MWYzZjE1MmE0YzVjNGM3MGIzZDk5JnV0bV9zb3VyY2U9bmV3c2xldHRlciZ1dG1fbWVkaXVtPWVtYWlsJnV0bV90ZXJtPWJyaWVmaW5nJnV0bV9jYW1wYWlnbj1zZmd0JTIwJTdDJTIwdGhlJTIwbmlnaHRseSZzdG49bmY&email_id=c7a0055b64826b0376bf79f0e3e656dc)"

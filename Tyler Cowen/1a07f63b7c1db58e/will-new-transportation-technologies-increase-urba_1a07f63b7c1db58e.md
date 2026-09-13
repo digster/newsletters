@@ -1,0 +1,11 @@
+---
+id: "1a07f63b7c1db58e"
+subject: "Will new transportation technologies increase urban density?"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2026-09-08 05:00:35
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+Will 21st century transportation innovations work against urban density, as the car did in the 20th century, or promote urban centralization, as the railroad did in the 19th century? Reducing the cost of commuting always reduces urban centralization in the classic Alonso-Muth-Mills model but that result reverses if the number of trips is endogenous and the elasticity of trips with respect to their costs is greater than one. That elasticity may have increased over time, as an increasing share of daily trips seems to be discretionary and city centers increasingly provide entertainment. This paper asks discusses the urbanizing effects of four trends in transportation technology: shared mobility (such as Uber), autonomy (such as Waymo), vertical travel and green mobility, as provided by bike lane. As people spend more time travelling in denser, large areas, innovations that reduce the time cost of travel, such as autonomous cars, seem likely to complement urban living, as long as they don’t excessively increase traffic. Sharing is also easier in big cities, so technologies that involve sharing are also centripetal. The other trends seem less likely to have major effects. Moreover, the forces of inertia, which include both regulation and legacy infrastructure, are likely to limit the impact of any new technologies in Europe and the U.S., so that the biggest changes in urban form are likely to appear in east Asia and the developing world.
+That is from [a new NBER working paper](https://marginalrevolution.com?action=user_content_redirect&uuid=7abe805164da5cfc5a7c78aa24593459ac21ee16f9937c802314423fe92dea0f&blog_id=42693868&post_id=93759&user_id=262258391&subs_id=225460721&signature=31ed313ca6adcb0d333bbb570d0a5871&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly93d3cubmJlci5vcmcvcGFwZXJzL3czNTcxOCNmcm9tcnNz&email_id=bd4beb461cf0ba623627ffad7fa71c44) by Ed Glaeser.

@@ -1,0 +1,19 @@
+---
+id: "1a0578fb47b10ad5"
+subject: "AI and Employment: So Far, So Good"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2026-08-31 11:23:50
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+In September 2023, the Census Bureau added questions about AI to its [Business Trends and Outlook Survey](https://marginalrevolution.com?action=user_content_redirect&uuid=1eabb3d1bff9be0e482e04b1723307e633b9ac1ca07c9b7dc545bb58a46a3bf4&blog_id=42693868&post_id=93701&user_id=262258391&subs_id=225460721&signature=1b0cc269aeca8546785b6be8c1ab131e&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly93d3cuY2Vuc3VzLmdvdi9oZnAvYnRvcy9kYXRh&email_id=0929857c815e215268738cab43f9be79). Census asked hundreds of thousands of businesses whether they had used AI in the previous two weeks to produce goods and services. At that time, 3.7% said yes; by late 2025 the figure had reached about 10%. (In November 2025 Census broadened the question to ask about AI use in any business function, producing a jump in measured adoption to about 18%.)
+Twice the Bureau has asked a key question:
+In the last six months, how did the use of Artificial Intelligence affect this business's total employment?
+In Dec. 2023 to Feb 24, when ~5% of firms were using AI the answers were 2.8% increased, 2.6% decreased and 94.6% reported no change. Two years later, in the Nov 2025--Feb 2026 supplement, the answers were: 2.3% increased, 2.0% decreased, and 95.7% reported no change. The answers were similar by firm size.
+Some sectors reported more action. Information is the one sector where fewer than 92% report no change. But overall, almost all firms report no change and of those reporting change it's about evenly divided between increasing and decreasing employment.
+The supplement also asked about tasks. Among firms using AI, 44% say it supplemented or enhanced work an employee already does. Ten percent say it performed a task an employee used to do. Eleven percent say it introduced a task no one had been doing.
+Among those using generative AI, 85% of firms cited writing or editing documents and email as the biggest uses, half cite searching for information, 45% summarizing documents, and 13% coding. Sixty-four percent of adopters say they changed nothing about the business in order to use AI, 15% trained existing staff, another 15% built new workflows, and just over one percent hired anyone with AI skills.
+Among firms where AI has taken over some employee tasks, the degree of substitution is growing. The share reporting that AI took over “a large number” of tasks rose from 2.4% to 7.1%, while the share reporting “a moderate number” rose from 13% to 22%. But this group is still small: only about a tenth of AI adopters, who themselves make up about a fifth of firms.
+I have reported firm-weighted estimates but employment-weighting gives essentially the same result. Thus, we have unusually direct evidence from a very large sample, and it says that the overwhelming majority of firms using AI do not yet report any effect on total employment. Very consistent with what Tyler and I said in [our talk to OpenAI](https://marginalrevolution.com?action=user_content_redirect&uuid=9673b6771c173390823d3dea299b8ba4a4cd13e515ccbfc550b017d650ecbb13&blog_id=42693868&post_id=93701&user_id=262258391&subs_id=225460721&signature=d7888e255e8308ee58d658ee80fb66f9&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g/dj1lQXExR0JVem1saw=&email_id=0929857c815e215268738cab43f9be79).
+I used Fable and ChatGPT Sol in producing this post.

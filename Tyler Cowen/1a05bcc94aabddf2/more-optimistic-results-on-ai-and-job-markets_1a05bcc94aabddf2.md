@@ -1,0 +1,11 @@
+---
+id: "1a05bcc94aabddf2"
+subject: "More optimistic results on AI and job markets"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2026-09-01 07:08:48
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+Here is [a good Jon Hartley thread](https://marginalrevolution.com?action=user_content_redirect&uuid=16e4f983832d57809fba8d47e3a05470f0234c59685451a345a451184ed25d2f&blog_id=42693868&post_id=93718&user_id=262258391&subs_id=225460721&signature=0ab868ed5aad1b11fa323ba4d38d41f9&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly94LmNvbS9Kb25fSGFydGxleV8vc3RhdHVzLzIwOTQ1NTMzODczMTY0NTM0NTg/cz0yMA=&email_id=628c0e70076e2d3984d08c568ebbec61). Here is[ the paper](https://marginalrevolution.com?action=user_content_redirect&uuid=fe9d1ee60d1b69c23f5f824530fdc08a7ee57c4b646ded36901655a4b7185975&blog_id=42693868&post_id=93718&user_id=262258391&subs_id=225460721&signature=8b4b165691549c7f372e649e806b5f5a&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly9wYXBlcnMuc3Nybi5jb20vc29sMy9wYXBlcnMuY2ZtP2Fic3RyYWN0X2lkPTUxMzY4NzcmX19jZl9jaGxfdGs9MldKYW10ZnRxZGZESVI5eUZmWUlyRUJ1OVR1Z1RybUlSSTBaaWs1c1VQcy0xNzg4MjI4MzY4LTEuMC4xLjEtdjhzemRrRUdIbl9mYWJ2aVMuN05EYUd4ZVZjN3RJRTFpZXZDYzhfMXR4OA=&email_id=628c0e70076e2d3984d08c568ebbec61), with Jolevski, Melo, and Moore. From Jon's thread: "Generative AI adoption is widespread, but substantial aggregate labor-market disruption is not yet visible. Workers nevertheless perceive substantial displacement risk, especially when firsthand use reveals that AI can perform key tasks for their job." And again here is [Alex''s post from yesterday](https://marginalrevolution.com?action=user_content_redirect&uuid=41409a7a3843d9815e50cb9d0da3aa6c6cdcd47759ec2633fc90eae094f6e320&blog_id=42693868&post_id=93718&user_id=262258391&subs_id=225460721&signature=a691c2f8f556fab339fcd71d7137f829&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly9tYXJnaW5hbHJldm9sdXRpb24uY29tL21hcmdpbmFscmV2b2x1dGlvbi8yMDI2LzA4L2FpLWFuZC1lbXBsb3ltZW50LXdoYXQtdGhlLWZpcm1zLXNheS5odG1s&email_id=628c0e70076e2d3984d08c568ebbec61).
+|

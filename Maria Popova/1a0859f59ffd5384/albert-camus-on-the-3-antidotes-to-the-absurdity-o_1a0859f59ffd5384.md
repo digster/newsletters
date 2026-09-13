@@ -1,0 +1,32 @@
+---
+id: "1a0859f59ffd5384"
+subject: "Albert Camus on the 3 antidotes to the absurdity of life"
+from: "\"The Marginalian by Maria Popova (Midweek Edition)\" <newsletter@themarginalian.org>"
+to: ""
+date: 2026-09-09 10:02:38
+labels: ["CATEGORY_PERSONAL", "INBOX", "Maria Popova", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_464868432690921211", "UNREAD"]
+---
+What an astrophysicist might have the perspective to eulogize as [“the incredibly improbable trip that we’re on”](https://us.list-manage.com/11OZWan36xw?e=a81b7681f8&c2id=b097a3b5f4f719c132a376ce3850001f) the rest of us might, and often do, experience as simply and maddeningly absurd — so uncontrollable and incomprehensible as to barely make sense. What are we to make of, and do with, the absurdity of life that swarms us daily? Oliver Sacks believed that [“the most we can do is to write — intelligently, creatively, evocatively — about what it is like living in the world at this time.”](https://us.list-manage.com/lrEBUsL1rgF?e=a81b7681f8&c2id=b097a3b5f4f719c132a376ce3850001f) And yet parsing the what-it-is-like can itself drive us to despair. Still, parse we must.
+More than a decade before Albert Camus (November 7, 1913–January 4, 1960) became the second-youngest laureate of the Nobel Prize in Literature, [awarded](https://us.list-manage.com/17CgUS2cAK2?e=a81b7681f8&c2id=b097a3b5f4f719c132a376ce3850001f) him for work that “with clear-sighted earnestness illuminates the problems of the human conscience in our times,” he contemplated the relationship between absurdity and redemption in a 1945 interview by the French journalist Jeanine Delpech, included at the end of his [Lyrical and Critical Essays](https://us.list-manage.com/huIsuz4tBNZ?e=a81b7681f8&c2id=b097a3b5f4f719c132a376ce3850001f) ([public library](https://us.list-manage.com/QNSCsniy5J5?e=a81b7681f8&c2id=b097a3b5f4f719c132a376ce3850001f)) — the superb posthumous collection that gave us Camus on [how to strengthen our character in difficult times](https://us.list-manage.com/1CsmcZSMWiP?e=a81b7681f8&c2id=b097a3b5f4f719c132a376ce3850001f) and [happiness, despair, and the love of life](https://us.list-manage.com/ErM6jRNb2F8?e=a81b7681f8&c2id=b097a3b5f4f719c132a376ce3850001f).
+Albert Camus
+Three years before the interview, twenty-eight-year-old Camus had stunned the world with his revolutionary philosophical essay The Myth of Sisyphus, which begins with [one of the most powerful opening sentences in all of literature](https://us.list-manage.com/v0vXkCaCqHA?e=a81b7681f8&c2id=b097a3b5f4f719c132a376ce3850001f) and explores the paradox of the absurd in life. “I draw from the absurd three consequences, which are my revolt, my freedom, and my passion,” he [writes](https://us.list-manage.com/J4cYev7zwNK?e=a81b7681f8&c2id=b097a3b5f4f719c132a376ce3850001f) — something that prompted his interviewer to ask whether a philosophy predicated on absurdity might incline people to despair.
+Camus — who years earlier had asserted that [“there is no love of life without despair of life”](https://us.list-manage.com/7q5JtZ_N7N7?e=a81b7681f8&c2id=b097a3b5f4f719c132a376ce3850001f) — answers:
+All I can do is reply on my own behalf, realizing that what I say is relative. Accepting the absurdity of everything around us is one step, a necessary experience: it should not become a dead end. It arouses a revolt that can become fruitful. An analysis of the idea of revolt could help us to discover ideas capable of restoring a relative meaning to existence, although a meaning that would always be in danger.
+Speaking at the close of the meaningless brutality of World War II, six years before he formulated his ideas on [solidarity and what it really means to be a rebel](https://us.list-manage.com/5pR_yL31AMF?e=a81b7681f8&c2id=b097a3b5f4f719c132a376ce3850001f), Camus considers the only act of courage and rebellion worth undertaking:
+In a world whose absurdity appears to be so impenetrable, we simply must reach a greater degree of understanding among men, a greater sincerity. We must achieve this or perish. To do so, certain conditions must be fulfilled: men must be frank (falsehood confuses things), free (communication is impossible with slaves). Finally, they must feel a certain justice around them.
+I have often wondered whether Camus had read W.H. Auden’s poem [“September 1, 1939,”](https://us.list-manage.com/V6yk4CKppwF?e=a81b7681f8&c2id=b097a3b5f4f719c132a376ce3850001f) written in 1940, which includes this searing stanza so kindred to Camus’s sentiment:
+All I have is a voice
+To undo the folded lie,
+The romantic lie in the brain
+Of the sensual man-in-the-street
+And the lie of Authority
+Whose buildings grope the sky:
+There is no such thing as the State
+And no one exists alone;
+Hunger allows no choice
+To the citizen or the police;
+We must love one another or die.
+Complement this particular fragment of Camus’s endlessly rewarding [Lyrical and Critical Essays](https://us.list-manage.com/NXaNsgfw632?e=a81b7681f8&c2id=b097a3b5f4f719c132a376ce3850001f) with Albert Einstein on [our mightiest counterforce against injustice](https://us.list-manage.com/6gRxJZ_ZF6_?e=a81b7681f8&c2id=b097a3b5f4f719c132a376ce3850001f) and Naomi Shihab Nye on [choosing kindness over fear](https://us.list-manage.com/15DaqbFsebw?e=a81b7681f8&c2id=b097a3b5f4f719c132a376ce3850001f), then revisit Camus’s abiding ideas on [happiness, unhappiness, and our self-imposed prisons](https://us.list-manage.com/zj9yLn991Dl?e=a81b7681f8&c2id=b097a3b5f4f719c132a376ce3850001f), [the most important question of existence](https://us.list-manage.com/FqyiCjT1Fxs?e=a81b7681f8&c2id=b097a3b5f4f719c132a376ce3850001f), [the lacuna between truth and meaning](https://us.list-manage.com/JQIBflxlxKS?e=a81b7681f8&c2id=b097a3b5f4f719c132a376ce3850001f), and the [touching letter of gratitude](https://us.list-manage.com/tG38Kh3fssc?e=a81b7681f8&c2id=b097a3b5f4f719c132a376ce3850001f) he sent to his boyhood teacher shortly after receiving the Nobel Prize.
+Details and tickets [here](https://us.list-manage.com/rpTa0A2JXVP?e=a81b7681f8&c2id=b097a3b5f4f719c132a376ce3850001f).
+Available as a [print and more](https://us.list-manage.com/oQ50po9DGQE?e=a81b7681f8&c2id=b097a3b5f4f719c132a376ce3850001f). Find the full set of 100 bird divinations [here](https://us.list-manage.com/Vfm602Pr70v?e=a81b7681f8&c2id=b097a3b5f4f719c132a376ce3850001f).

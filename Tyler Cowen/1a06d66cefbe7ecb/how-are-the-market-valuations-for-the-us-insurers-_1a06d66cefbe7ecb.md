@@ -1,0 +1,14 @@
+---
+id: "1a06d66cefbe7ecb"
+subject: "How are the market valuations for the U.S: insurers doing?"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2026-09-04 17:10:48
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+U.S. insurance stocks have been doing quite well since the beginning of May 2026, and they have materially outperformed the overall market. I’m using the May 1 close through the September 3 close so that we compare complete trading days; these are price changes, excluding dividends.
+The cleanest broad measure is the iShares U.S. Insurance ETF (IAK), which covers U.S. life, property and casualty insurers. It rose from $132.01 on May 1 to $147.87 on September 3: +12.0%. An alternative, more equal-weighted measure, the SPDR S&P Insurance ETF (KIE), rose from $56.79 to $64.80: +14.1%.
+For comparison, the S&P 500 ETF (SPY) went from $720.65 to $773.17 over the same period, +7.3%. So insurers have beaten the market by roughly 5–7 percentage points in four months.
+That is [from GPT Pro](https://marginalrevolution.com?action=user_content_redirect&uuid=0e4b73a439bd01ffa4b9e7c49246b4bfa09080ed89511cdd9a610252ba1a67a2&blog_id=42693868&post_id=93746&user_id=262258391&subs_id=225460721&signature=ab51ed943c24fe0271d7e8458524c61f&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly9jaGF0Z3B0LmNvbS9zaGFyZS82YTlhZDBhYS04OTY0LTgzZWEtYjg3Mi0yMGEyMGEzMGUzYzg&email_id=749671e1f521e6766960544a2c3dada9). Here is [my earlier post on numbers and market valuations](https://marginalrevolution.com?action=user_content_redirect&uuid=20e5a505293c6283e6d3af5d3e47e1ce6bfaf1315b354053ea24adb225e82e20&blog_id=42693868&post_id=93746&user_id=262258391&subs_id=225460721&signature=b564baee53831609c89ffd6999cf87fe&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly9tYXJnaW5hbHJldm9sdXRpb24uY29tL21hcmdpbmFscmV2b2x1dGlvbi8yMDI2LzA5L21vcmUtbnVtYmVycy1mb3ItdGhlLWh1Z2dpbmctZmFjZS1pbmNpZGVudC5odG1s&email_id=749671e1f521e6766960544a2c3dada9). Do any market prices reflect a realistic chance of very bad outcomes from advanced AI?
+Here is [advice on how to short those shares](https://marginalrevolution.com?action=user_content_redirect&uuid=46ddecb60d35b9c07b3b0d9ac9507f539c264be6a7eb21b2a72efe244f290091&blog_id=42693868&post_id=93746&user_id=262258391&subs_id=225460721&signature=cccfa50ec88c3f3a41a0b1e11c9e671b&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly9jaGF0Z3B0LmNvbS9zaGFyZS82YTlhZGM0Yy0zNGZjLTgzZWEtODk4ZC0xMTg4NGNiNDNiNWI&email_id=749671e1f521e6766960544a2c3dada9).

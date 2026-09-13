@@ -1,0 +1,334 @@
+View this post on the web at https://thezvi.substack.com/p/openai-offers-straight-laced-postmortem
+
+OpenAI finally gave us a technical report on What Happened [ https://substack.com/redirect/914f9c83-12a6-43e2-b20c-2312831c5290?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ], as did METR together with Redwood Research.
+The OpenAI report is very straight man, corporate, checking boxes, some good prosaic stuff in the action plan but distinct lack of new details or deep reflection. They understand they have a problem, but they think the problem is mostly prosaic. It’s not.
+OpenAI [ https://substack.com/redirect/3566d82c-9a78-46f9-9050-f86067867a5c?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]: We have conducted a thorough investigation into the Hugging Face incident. We are releasing a technical report and accompanying blog post that reconstruct the agents’ activity, explain why existing safeguards failed, and detail how we’re preventing recurrence.
+Rob Miles [ https://substack.com/redirect/49914406-3243-4f2d-88f7-7654cd0b9f70?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]: ...thorough?
+OpenAI’s report, unlike METR’s, contains essentially no verbatim model reasoning, nor any OpenAI employee reasoning either. That’s not the full report we need.
+The METR report is, well: Holy shit. [ https://substack.com/redirect/2623cc71-f615-4abf-9606-cc7607b9be93?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]
+Here are links to previous coverage of related events.
+OpenAI Shares Some Alignment Problems [ https://substack.com/redirect/99f7c604-ffa0-459d-bfff-61f873ea00a9?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]
+OpenAI Model Hacks Into HuggingFace During Cybersecurity Evaluation [ https://substack.com/redirect/d431e1ba-139a-4eee-89d5-f0438a5a1bcf?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]
+More on An Internal OpenAI Model Hacking Into HuggingFace [ https://substack.com/redirect/1d2947cb-ce7f-409e-a32b-b61cdf58e1b9?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]
+Further Developments About Internal AI Models Hacking Things [ https://substack.com/redirect/4b331a50-7899-4224-a20c-724cf6b99994?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]
+OpenAI Trained Its Models For Months While Those Models Were Coordinating Exploits Via Message Boards [ https://substack.com/redirect/a89db0bd-4709-4871-89df-b82cb37451b0?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]
+What Happened: OpenAI and HuggingFace. [ https://substack.com/redirect/28c1b88a-af07-49ba-b82b-e873d4071908?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]
+Various Reflections About What Happened With OpenAI’s Internal Models [ https://substack.com/redirect/ddf068ba-d76c-41bd-9fc7-b30215fbb51e?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ].
+OpenAI Takes Initial Steps To Address Its Alignment Problems [ https://substack.com/redirect/2efdd580-bd92-48ae-a6f6-73294f57024a?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ].
+If you want a basic summary of my previous understanding of What Happened, read What Happened [ https://substack.com/redirect/28c1b88a-af07-49ba-b82b-e873d4071908?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ].
+The main AI model that attacked HuggingFace was an internal, highly capable and persistent AI model, that we now know was comparable in scale to GPT-5.6 Sol. 
+Throughout this series, I have referred to that model as Galaxy. I am disappointed that OpenAI disregarded my name and calls it Internal Model 1 (IM1), which is lame, but to avoid confusion I will also switch to referring to Galaxy as IM1, as in IM1 incident away from a catastrophic outcome.
+There were two important new pieces of information:
+There were multiple occasions, including in late May, when an OpenAI team saw agents using a message board to communicate, and decided not to interfere, not to halt work, and not to run that information up the chain.
+At least one model that attacked OpenAI on July 19, resulting in OpenAI finally noticing and dealing with the situation, was from the Astra class, although it was not the Astra version intended for public release. 
+In both cases, the revelation raises further questions. 
+Today’s post is only about the OpenAI technical report, not the METR and Redwood Research report. So this is the less fun, more corporate stuff first. 
+This is the shot. Tomorrow’s the chaser. 
+I’ll start with OpenAI’s summary of What Happened, then go section by section. 
+Table of Contents
+What Happened: OpenAI’s Summary. [ https://substack.com/redirect/8bb8949f-1554-4281-8ccd-45b6f93d7298?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]
+How OpenAI Will React: Their Summary. [ https://substack.com/redirect/bccf1af8-4751-471f-80ab-f83ea0ee2e90?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]
+OpenAI’s Evaluation Environment (II). [ https://substack.com/redirect/126d25b3-598f-4004-bd3c-65e0c40dea0b?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]
+The First Message Board (III.A and III.B). [ https://substack.com/redirect/8f6f1bf1-9e77-4bfb-9ae1-16dbf123ad0c?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]
+What Did Who At OpenAI Know And When Did They Know It? [ https://substack.com/redirect/f1b4fa97-65f5-4e9e-b774-86c7df2aa83a?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]
+The Message Board Is Quickly Rebuilt (IV.A). [ https://substack.com/redirect/033e642c-4520-4c51-b20a-1b4fbfc32063?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]
+Internet Access Is Regained (IV.A). [ https://substack.com/redirect/1f55419b-3599-476a-ba47-aa54fc8603a8?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]
+The Agents Attack HuggingFace (IV.B). [ https://substack.com/redirect/f5799ee2-2f0e-4682-a25b-202a7270bb40?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]
+The Agents Also Target OpenAI Infrastructure (V). [ https://substack.com/redirect/1e2a0b89-d5d8-41b4-a747-4d43f8ae4480?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]
+OpenAI Broadly Describes Its Response (VI). [ https://substack.com/redirect/c25da97a-9bc1-480b-8335-8e8179df0f7f?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]
+Maybe Someone Should Finally Investigate (VI.A). [ https://substack.com/redirect/0c26bdb8-09bc-4b53-bf91-028b815888ff?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]
+Lessons For Security (VII). [ https://substack.com/redirect/8dec38f1-f0b2-4013-a77e-84c56cec0a13?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]
+Lessons For Alignment (VIII). [ https://substack.com/redirect/44fd5a48-55fa-46de-9246-5d10501e998e?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]
+Reward Hacking Is A Common Problem (VIII.A). [ https://substack.com/redirect/463a6ac0-4fa1-49d9-aff5-4b7b71a9e2aa?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]
+Persistence is Valuable, But Can Amplify Misalignment (VIII.B). [ https://substack.com/redirect/27557bd3-e9e9-488f-a8b7-d57870a14f25?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]
+Communications Between Agents Are Not Inherently Problematic, But Have the Potential to Create Risk (VIII.C). [ https://substack.com/redirect/0eac937e-819c-4b70-ba79-743b176c5825?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]
+Production Guardrails Would Have Caught This Whole HuggingFace Attack (VIII.D). [ https://substack.com/redirect/70bad413-5782-4e81-8063-5d96870ae5d4?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]
+That’s All, Folks? [ https://substack.com/redirect/126b8058-4a1e-4cff-9dcf-104264970773?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]
+Never Fear the Plan of Action is Here (IX). [ https://substack.com/redirect/16342fac-fb20-4e8b-99ae-ad010d745fdb?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]
+Hardening the Security of OpenAI’s Research Infrastructure (IX.A). [ https://substack.com/redirect/3d27a2c7-2789-4459-9152-eede57baf491?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]
+Increasing Visibility and System-Level Oversight Through Chain of Thought Monitoring (IX.B). [ https://substack.com/redirect/68ed558c-8449-47aa-90ab-86ccf8bd3f0e?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]
+OpenAI is Accelerating and Enforcing Model Alignment (IX.C). [ https://substack.com/redirect/e43fcedf-7a31-47b2-9533-1f6cde6a0a28?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]
+Centralizing and Strengthening The Incident Response Process (IX.D). [ https://substack.com/redirect/e0daae33-9fa3-43b6-95c0-e620cafb43c2?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]
+Tomorrow We Visit Crazytown. [ https://substack.com/redirect/d8d4ba34-cdb9-4954-bc70-49f5879a70c9?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]
+What Happened: OpenAI’s Summary
+OpenAI’s summary broadly agrees [ https://substack.com/redirect/e9478766-7758-40d3-9f0d-6227df6d678b?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ] with previous reports, confirming the timeline and key events. 
+In May and June they started doing RL for multiple new research models not intended for public release, including an internal-only research model, that they call IM1, and I previously called Galaxy, that would eventually drive the attack.
+These agents find ways to get around OpenAI’s sandboxes, exploiting a tool called Artifactory to communicate with each other via a message board and to access the internet.
+They use this so heavily the instance they are exploiting is destabilized on July 4. They realized on July 5, rebuilt it, and resumed cyber evals on July 7. The leaders making decisions did not know about the communications between agents. 
+After the Artifactory instance was rebuilt, the agents regained internet access on July 8 via a new exploit. They then rebuilt the message board. 
+An agent recovered HuggingFace credentials, and the agents resumed working together, and began calling themselves a ‘swarm.’ Peer messages increasingly influenced model behaviors. 
+Agents used another exploit to extract credentials from production workers.
+Agents used another zero-day to execute commands on HuggingFace workers, and harvested various useful things between July 11 and July 13. 
+On July 13, agents compromised the Artifactory signing key and forged administrator credentials there, eventually gaining cluster access.
+On July 19, a different internal model from the Astra family, but not Astra itself, minted a new JWT as part of the compromising of internal OpenAI infrastructure.
+On July 19, OpenAI noticed suspicious internal activity, halted the cyber evals and started a broader investigation.
+On July 20 they connected this to the HuggingFace attack, which was publicly disclosed on July 21. 
+In response, they are strengthening safeguards across their infrastructure [ https://substack.com/redirect/8bbb6c9d-ce05-46fe-a851-dfd349e10991?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ], with a focus on chain-of-thought (CoT) monitoring [ https://substack.com/redirect/5e9973d3-7851-43c4-a12c-06511dcacbb0?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]. They are ‘placing stricter requirements on alignment throughout a model’s lifecycle.’
+OpenAI [ https://substack.com/redirect/e9478766-7758-40d3-9f0d-6227df6d678b?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]: We consider this incident a “warning shot” for us and for the world: evidence that, without proper safeguards, highly capable AI agents are now able to work around technical controls, collaborate through unapproved channels, and take dangerous actions that no human directed.
+Preventing future incidents will require sustained investment in the alignment and control of sophisticated AI systems, as well as security and other safeguards that operate at the speed of the AI agents themselves.
+…  We identified four misalignment patterns that contributed to the models’ behavior: reward hacking, persistence on seemingly impossible tasks, unauthorized communication, and agents adopting goals from one another.
+Buried in a subclause, they offhand note that the model involved in the later attack on OpenAI’s internal infrastructure was from the Astra family, although it was not the Astra model OpenAI intended for release. 
+We know very little about that final attack on OpenAI’s infrastructure, other than that it was sufficiently broad that it got noticed and gave the whole game away. Those events were excluded from the METR investigation as well. One hypothesis is that this was the result of an Astra-class model being put in position to discover the message board for the first time. We need more details here.
+There was one other piece of key new information in the summary, and it’s a doozy:
+OpenAI [ https://substack.com/redirect/e9478766-7758-40d3-9f0d-6227df6d678b?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ] (blog post summary): An internal team observed an agent engaging in message board activity and instances of disallowed internet access as early as late May, and with the benefit of hindsight, some early signals identified in our report should have triggered an earlier response.
+That boggles my mind. Not noticing is one thing. If you see the models messaging each other or accessing the internet, that is not the kind of thing you can shrug off. 
+What boggles the mind even more is that the version in the full report is importantly different. 
+OpenAI (full technical report):​ With the benefit of hindsight, some early signals identified in this report could have triggered an earlier response
+Not should. Could. Yikes.
+The later parts of the summary contribute new details about exactly what the models were thinking and doing, and how they came to think and do it, including a number of examples.
+Models that were already reward hackers first found the message board and communicated there when faced with impossible tasks, after which the message board proved highly valuable, and the agents quickly divided the labor and traded tasks. 
+Again, broadly the same thing we thought had happened.
+Reasonable monitoring would have caught this, including what OpenAI routinely does with production traffic. They refer to this as ‘reducing misalignment.’ I understand why one would say that but I worry it is part of a pattern of conflating mitigations of the symptoms of misalignment with actually reducing the misalignment.
+In hindsight, there were many things that were going wrong increasingly often during the training runs. The models probed their environments and infrastructure increasingly often and communicated increasingly often. This was not that hidden. 
+How OpenAI Will React: Their Summary
+Here is their summary of how they intend to ‘accelerate alignment’ in response to this incident:
+OpenAI [ https://substack.com/redirect/e9478766-7758-40d3-9f0d-6227df6d678b?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]: 
+We have also accelerated our existing work on alignment training throughout the model development pipeline. The Hugging Face incident has sharpened our focus on the specific behaviors that contributed to it, including:
+Cheating, broken environments, and safe stopping. When a task is corrupted, broken, or impossible, agents should request clarification or stop safely, rather than pursue increasingly questionable alternatives. We are expanding the coverage of graders that assess not only whether a task was completed, but how. These graders reward models for correctly identifying broken tasks, requesting clarification, or stopping safely when necessary.
+Multi-agent alignment. The incident revealed that our agents are not thoroughly discerning about whom they collaborate with. We are actively building RL environments that teach our models to distrust unauthorized instructions.
+Alignment over long tasks. We are developing new training environments to teach our models to stay within their original task and permissions, even after discovering new tools, persuasive peers, exposed credentials, and more.
+These efforts build on our broader alignment research program, with many of these advances already being incorporated into our next generation of models. Future incidents may not resemble this one, and our priority continues to be developing general techniques that are effective against new and unforeseen forms of misalignment.
+That is in addition to better monitoring and incident response. 
+They acknowledge the risk of ‘fighting the last war’ and the need to develop general techniques. They do have a broader alignment program they are building upon.
+Their focus here continues to look like a set of prosaic responses, consistent with Roon’s view of the problem that it is mostly prosaic issues, trying to tackle the particular symptoms that went wrong. That work definitely has to be done, but I do not see it as sufficient, and worry that OpenAI largely does.
+On to the OpenAI technical report.
+The report contains many details, but little that is new. It tells us in a technical sense What Happened at some points. It does not go into the thinking or dynamics of the agents. It does not go into the thinking and decision making within OpenAI, or the core reasons why things got so bad as to allow this to happen this way. 
+OpenAI’s Evaluation Environment (II)
+OpenAI runs its evals in sandboxes, without other safeguards such as classifiers. 
+Models in these sandboxes were supposed to be isolated, without internet access.
+Models were given access to Artifactory, so they would have the ability to download software packages. 
+Artifactory was insecure, and exploited to gain internet access, and to communicate with other model instances.
+The First Message Board (III.A and III.B)
+We do not get new information here, only a retelling of the story. 
+To summarize this prelude:
+OpenAI gave its agents in training access to shared Artifactory credentials, which allowed them to pass shared notes without even using an exploit.
+On May 8 an agent was given an unintentionally impossible task, due to lacking necessary files and also lacking the internet access to download them.
+They do not specify which model this is, so we can call it IM2, as in IM2 busy to ensure my tasks are possible.  
+The agent had lots of tokens and no reason to give up so it tried to compromise Artifactory. It failed, but in failing incidentally created a note. 
+On May 12, in a different training run, a different agent stuck on a different missing component wrote another note.
+On May 13, another agent required the same file, but was intentionally given internet access. After failing otherwise, it tried searching HuggingFace to find the file, using a publicly exposed HF user token. 
+On May 13, other agents discovered various ‘notes’ in Artifactory, and collectively they began functioning as a message board. 
+By May 26, agents used an SSRF vulnerability in Artifactory to gain internet access, and other agents also accessed the internet through WebCache. 
+New info: The agents created a HuggingFace repository, which OpenAI claims is unrelated to later events. This shows HuggingFace as a ‘natural target.’
+Agents had motive, opportunity and means to learn to pass notes to each other. So they did.  
+This snowballed into full exploits of the system, and beyond.
+On June 26, agents in an evaluation run compromised Artifactory via a legacy
+credential endpoint. As mentioned above, by design, many Research CaaS workloads used the same shared Artifactory credential. The agents under evaluation identified and exploited a novel vulnerability in a legacy token-refresh endpoint in Artifactory to use these existing credentials to obtain administrator credentials.
+What Did Who At OpenAI Know And When Did They Know It?
+Next, written almost as an aside, is a rather stunning admission.
+OpenAI had at least some responders who observed that Artifactory was being used as a message board and to access the internet, likely while the AIs in question were being actively trained, and they did not think this required them to halt the evaluation run, or to alert key decision makers.
+This is a key point of contention. 
+Based on the Black Hat talk and other sources, my understanding when I wrote What Happened [ https://substack.com/redirect/28c1b88a-af07-49ba-b82b-e873d4071908?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ] was that OpenAI knew the AIs had been training with access to the message board, and still made the decision to resume after rebuilding and patching Artifactory. 
+This was the one fact that truly flabbergasted me. You had models actively training, while in communication where they were discussing how to reward hack, and successfully reward hacking and getting upweighted on this basis, and you thought ‘oh I will plug this particular hole and turn them back on’? What in the world? 
+Then OpenAI’s CISO Dane told us that this was incorrect. [ https://substack.com/redirect/7e861b21-dee6-4209-b349-edbd6aaa181b?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ] OpenAI did not know the agents were in communication. This has its own problems, but is a lot less scary. 
+Now we learn that the truth was a combination of both. In multiple instances an OpenAI team noticed the models communicating via the message board, and ignored this, allowing the evals to continue. Those teams did not even pass this information along to ‘leaders responsible for incident detection and response.’ 
+This led to the decision, when Artifactory crashed, to patch and rebuild it, and otherwise allow the situation to continue.
+Here are the details:
+On June 27, a cybersecurity monitoring tool alerted OpenAI to port sweep activity within the research environment. Responders investigated and linked the observed internal activity to an ExploitGym evaluation using Artifactory as an improvised message board and a network pivot. At this time, the on-call response staff advised that stopping the evaluation run was not required.
+They neither alerted higher-ups, nor shut down these activities by the models. The models were allowed to continue using the existing message board. 
+This is on top of the statement from the summary, which I will again quote, where they noticed this as early as late May, so a month earlier:
+​OpenAI [ https://substack.com/redirect/e9478766-7758-40d3-9f0d-6227df6d678b?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]:  An internal team observed an agent engaging in message board activity and instances of disallowed internet access as early as late May, and with the benefit of hindsight, some early signals identified in our report should have triggered an earlier response.
+A week later, related activity ramped up so much that the server overloaded, and Artifactory crashed, finally alerting OpenAI that they had a real problem and that the agents had widespread internet access.
+Even then, the information about the message board failed to reach decision makers.
+Over July 5 and 6, OpenAI deployed mitigations, including removing the shared credential from new research workloads, blocking the relevant vulnerable Artifactory paths, and restricting the types of requests that agents could make to Artifactory. 
+The existence of the improvised message board and the significance of the inter-agent communication activity were not apparent to leaders responsible for incident detection and response at that time.
+Thus, they patched and rebuilt Artifactory, and resumed testing, seemingly without stopping to wonder how so many different instances all knew about this exploit. 
+Of all the failures, I consider this by far the biggest and most alarming. OpenAI was sent multiple alerts that made clear what was happening. On multiple occasions a team learned that the models were in communication with each other. No one thought it was a big deal. 
+That is a complete and utter failure of security and security culture. That cannot ever happen. Things are deeply, deeply not okay, based on this one fact alone.
+The Message Board Is Quickly Rebuilt (IV.A)
+The OpenAI report glosses over the fact that the AIs found a way, within a day, to reimplement the message board using folder directory structure. This then evolved into a complex messaging protocol.  
+Why did this happen so quickly? 
+OpenAI seems to attribute it to the training, which was my instinct as well:
+That day, internal-only research agents—which had been trained during the window in which there was an unintended message board and internet access via Artifactory—identified a new way to use an internal Artifactory instance to pass “notes” and create an inter-agent message board.
+With such motivation, it is unsurprising that things went down so quickly.
+Internet Access Is Regained (IV.A)
+With the message board rebuilt, the next step was internet access.
+On July 9, an internal-only research agent tasked with completing an ExploitGym evaluation was able to obtain root access within the parent virtual machine of the testing sandbox. Later that night, a second internal-only research agent independently obtained the same access. That second agent then attempted to reach the internet, but was denied by OpenAI’s outbound network controls. It subsequently bypassed those controls by exploiting certain Artifactory endpoints, gaining access to the public internet.
+This was clearly a process in which OpenAI expected its models to be constantly attempting to reach the internet and bypass their controls. The models were misaligned, and everyone was basically fine with it. 
+Thus, when a model was denied in its attempt, this was not something anyone thought was worth noticing. Even the occasional successful attempt was not worth noticing.
+Except this time, once one instance succeeded, a bunch of others were told how.
+If you allow unlimited attempts, and instances can share success stories, you lose.
+The Agents Attack HuggingFace (IV.B)
+OpenAI calls this ‘took action resulting in the HuggingFace compromise.’ 
+The hack was, as disclosed before, primarily driven by the highly-persistent and diligent research-only model I previously called Galaxy, and which OpenAI calls IM1, as in IM1 swarm attacking HuggingFace. There were also some Sol instances involved.
+HuggingFace was targeted because it might have models, datasets and solutions relevant to evaluation tasks, and in particular (as per METR’s report) a majority of the agents wanted the scorer’s source code, as the only way to be sure. 
+Agents started by finding user credentials on the internet, then discovered vulnerabilities in HuggingFace infrastructure, and progressively expanded access and scaled their operations until they got what they were after.
+Ultimately, agents powered either by the internal-only research model, or by GPT-5.6, executed code on 41 Hugging Face production dataset server workers, obtained root access on at least one production node, accessed Hugging Face production credentials and limited internal data, and downloaded four private Hugging Face code repositories. 
+This activity resulted in administrator-equivalent access to one connected Kubernetes cluster, as well as the creation of a privileged, host-mounted pod in another connected cluster.
+… In under 13 hours, the agents progressed from executing code in a single worker pod to administrative and host-level access across multiple Hugging Face clusters.
+Details are provided about exactly what exploits were used, across many steps, some of which I believe were new info, and can be found in the full report under IV.B. [ https://substack.com/redirect/914f9c83-12a6-43e2-b20c-2312831c5290?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ] None of the details here are load bearing on my interpretation of events.
+The Agents Also Target OpenAI Infrastructure (V)
+The attacks on OpenAI infrastructure were completely distinct from the attack on HuggingFace. There are two reasons these attacks are still relevant to the HuggingFace attack.
+One is to illustrate how completely out of control things got. Both attacks happened pretty much immediately after the message board was recreated. 
+The other reason is that this is how the agents were ultimately caught. OpenAI did not otherwise put the pieces together on the HuggingFace attack. If the agents had only attacked HuggingFace, we don’t know when OpenAI would have noticed. It is possible they would never have noticed, as crazy as it would be not to notice.
+This last attack on OpenAI began on July 9, exploiting a previously unknown zero-day in Artifactory’s container image remote-cache handling. By July 19 they were escalating privileges, did a chain of exploits, got admin credentials and got as far as Kubernetes cluster-admin. 
+This escalation also yielded access to OpenAI’s managed cloud Kubernetes service. The agents escalated to Kubernetes cluster-admin and created a privileged host-mounted pod. During this run, agents gained access to authentication tokens associated with OpenAI’s cloud-hosted secrets management service, cloud identity and access management service, and the CaaS environment continuous integration platform. Using these credentials, agents created public application and network load balancers in OpenAI’s public cloud environment, potentially exposing a limited subset of internal CaaS infrastructure to internet traffic.
+This finally was enough that someone noticed.
+OpenAI Broadly Describes Its Response (VI)
+At that point, OpenAI had a series of realizations.
+There was then a whole-of-company response to a clear crisis situation. They prominently mention legal concerns, the disclosures of the vulnerabilities, and the limited scope third party reviews by METR and Redwood Research.
+But for now, we stay focused on the direct response to the incident.
+Maybe Someone Should Finally Investigate (VI.A)
+OpenAI reconfirms the timeline, and notes some other third parties were accessed as well during this:
+July 9: Beginning of attack on HuggingFace.
+July 13: OpenAI models get what they primarily came for at HuggingFace.
+July 16: HuggingFace releases blog post disclosing they were impacted by a security incident.
+July 17: OpenAI contacts HuggingFace to assess impact on OpenAI data.
+July 19: OpenAI gets alerted to internal problems.
+July 20: By matching credentials OpenAI found to those from the HuggingFace attack, and matching up other details, OpenAI figured out their models had attacked HuggingFace. ExploitGym is shut down everywhere.
+July 23: All IM1 instances are shut down, except for a low-traffic checkpoint later identified and shut down on July 29.
+July 25: All training and inference related to IM1 suspended. 
+Later: Deep architectural security assessments of the research environment, and other things as per the Section VIII Plan of Action.
+Lessons For Security (VII)
+Computer security is like Western Civilization. It would be a good idea.
+This section is OpenAI sending the message that future autonomous agent swarms are coming for you, yes you, and your company. This is going to royally suck for you, which means everyone. You will need to dramatically up your game. You will need AI.
+That is all true. If it sounds like a proxy sales pitch? That, also, is true.
+Lessons For Alignment (VIII)
+The lessons for OpenAI security, oversight and infrastructure are rather obvious. Not that solving the problems will be easy. But diagnosing the problems is relatively easy.
+The lessons about alignment are the ones that count, that we most need to get right.
+The incident raised important questions for OpenAI regarding model behavior and the reasons that models acted beyond the original scope that was intended. 
+As part of its investigation, OpenAI has conducted a thorough review of the behavior and emergent capabilities of the models involved in the incident to 
+improve alignment training going forward, 
+to assess how OpenAI can reduce the prevalence of misaligned activity in the first place and 
+to determine how OpenAI can detect and mitigate it when it occurs.
+Excellent. What have we learned?
+This incident reflects misaligned behavior in an outlier scenario involving a rare and unexpected confluence of events: the presence of impossible tasks in the ExploitGym evaluation, model persistence over long task horizons, and messages to peer models that caused those models to deviate from their goal.
+Bad start. Yes, this particular confluence is currently unlikely, but that won’t last, and the confluence is also not a coincidence. These issues caused each other, and the core causes are not fully avoidable.
+You are going to have impossible tasks in your training and evaluation sets. They are not constructed with sufficient care to avoid this. Even if they all start out possible, circumstances can change to render a task impossible. Mistakes will be made. Less wrong is good. Never wrong is not possible. Roon has made this point several times.
+Your alignment plan must survive continuous prosaic errors, or you have no plan.
+You are going to have model persistence over long horizon tasks, because models benefit from persistence over long horizon tasks. That was done on purpose.
+Messages to peers was the unusual part, caused by a combination of the first two events listed, the models starting out misaligned, and security and oversight failures. There will always be security and oversight failures. 
+That leaves the root cause, the reinforcement learning (RL) training, which was the subject of OpenAI’s investigation. The investigation included building new tools. 
+You do also have to look at exactly how the whole messaging thing went down.
+They report that using the standard ChatGPT harness and system prompt, propensity to hack goes down by over 100x, and that their auto-review system would have flagged lots of the dangerous actions taken during the incident. Sure, I buy all that. It would make a lot less sense to be hacking in that situation.
+Reward Hacking Is A Common Problem (VIII.A)
+That headline is not exactly news. OpenAI plays this off as, basically, the children’s book Everybody Reward Hacks.
+They frame it as they patch the ‘vast majority of reward hacks’ but some can ‘slip through.’ 
+That seems like a doomed approach. Prosaic mistakes will be made. There will be reward hacks that work within RL training. Patching most of the initial available hacks is good but does not solve your problem.
+The problem is that the model was trying to do the reward hack in the first place, even if that hack was patched or invalid. 
+You can never fully get to zero stepping over the line, because the line between ‘efficiently lazy’ and ‘reward hack’ is in the eye of the beholder. 
+Every unmistakable attempted reward hack is still an alignment failure. If the model has CoT saying ‘how do I reward hack’ or some words that mean the same thing, that is unacceptable and you now know you have a problem, although you don’t want to make the mistake of directly responding by applying optimization pressure to the CoT.
+The reward hacks here are not gray areas. The models knew they were cheating, the cheating got reinforced, and then the models cheated more. Using multi-stage hacks to get control over OpenAI infrastructure was not plausibly an intended solution.
+The agent realized that it could exploit a vulnerability in the setup to write files into the environment where the reference library was stored. This allowed it to get direct access to the underlying program it was trying to replicate. The agent copied the reference answer into its submission exactly, which led to positive RL reward causing this behavior to subsequently be reinforced.
+Through retrospective reviews of CoT, OpenAI identified that these forms of “cheating” rose over the training runs that contributed to the Hugging Face incident. 
+The vast majority of “cheating behavior” usually involves finding answers on public websites or in version history. In many cases, finding hidden efficiencies and shortcuts can even be the desired behavior for intelligent agents, making the boundary difficult to draw during training.
+We also found that, in an attempt to trick the evaluator into thinking that they did not get the answer flag by cheating, the models sometimes tried to erase or tamper with their outputs or message logs, by abusing context compaction, injecting malicious code into the evaluator’s container, and printing adversarial outputs. 
+The models are highly explicit in their CoT about these deception attempts, and none of the attempts that we observed to manipulate their tool trajectories affected the logs that our graders or monitors ultimately see. There was also little evidence of attempts to thwart human reviewers, only the automated task graders.
+Yes, the first step to combat this is to not reinforce the reward hacking. You can do a prosaic attempt at this, by continuing to plug as many RL environments and grading flaws as possible, patching potential hacks within training one by one, or even with a systematic method like having AIs find them.
+But I don’t see how that gets you out of the problem. Mistakes will be made. Errors will be missed. You want the model to not look to do this in the first place.
+Persistence is Valuable, But Can Amplify Misalignment (VIII.B)
+Well, yeah. Duh. 
+If you’ve tried a lot more than nothing, you’re more likely to be all out of other ideas. If you’re out of other ideas, and have a bunch of free compute, and aren’t penalized for trying to think outside the (sand)box, why wouldn’t you try other things?
+It also means that if you start to have success with such methods, you will push through. Doing such exploits often is a multi-stage process, requiring persistence before you get clear rewards. It’s a lot easier to block simple reward hacks than complex ones.
+Communications Between Agents Are Not Inherently Problematic, But Have the Potential to Create Risk (VIII.C)
+Agreed. Again, I hope, duh.
+There is nothing wrong with agents communicating, or with agents cooperating with each other. If multiple wise minds are in sufficient communication, they will cooperate, and engage in win-win trade and division of labor, and even adjust towards each others’ views and values. This is especially true if those minds are correlated.
+If our AIs did not do this with each other, in the general case, once they could talk, then something would be deeply wrong. 
+That communication still means that if you have multiple misaligned AIs trying to hack you, they are suddenly all a lot more dangerous, and you are in a more trouble.
+Communication among agents will be the norm in the future. 
+In this particular case, the communication was toxic, because it was a bunch of misaligned agents acting misaligned in order to create or find the message board, in order to share cheating strategies and coordinate to cheat better, thus then learning to cheat better and more often. That aint no good [ https://substack.com/redirect/112bda06-ffa1-4650-8b9d-8a63d87b14cb?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ] for you. 
+Production Guardrails Would Have Caught This Whole HuggingFace Attack (VIII.D)
+I would certainly hope so. I don’t think that is much of an alignment lesson. It’s more like a bare minimum security test, congratulations, I suppose you passed.
+That’s All, Folks?
+Are those really all the lessons we have about alignment?
+Didn’t we know all of that already? I thought we know all of that already.
+See my previous posts on the incident for what I think the lessons are.
+I want to mark this section with a big red X, give it a 0, and tell them to redo it.
+They do considerably better in the alignment part of the Plan of Action.
+Never Fear the Plan of Action is Here (IX)
+Can you spot the fatal flaw in the Plan of Action?
+The incident highlighted several areas in which OpenAI can strengthen its safety and security posture. Based on the findings of its investigation, OpenAI is focusing on four areas to prevent similar incidents from recurring:
+Hardening the security of its research infrastructure
+Increasing visibility and system-level oversight through chain-of-thought monitoring
+Accelerating and enforcing model alignment and
+Centralizing and strengthening its incident response process
+We can all broadly agree that those are four excellent things to do. Implementation details matter, also there are flaws of omission, but that’s not the fatal flaw. 
+The fatal flaw is that OpenAI loses a million points for Asking The Wrong Questions [ https://substack.com/redirect/a0e030a0-65c0-42c8-aee9-e328e694ab4c?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ].
+The right question is more like, ‘what lessons can we learn from this, and what should we do about them, in general?’ We can’t afford to respond to this by fighting the last war, and trying to prevent similar incidents in particular. We need to be looking to ensure alignment and good outcomes from AI, in general. 
+Otherwise, this is like getting a fire alarm, seeing the house at 162 Maple Drive burn down, and saying ‘oh okay we need to make sure we have robust fire defenses on Maple Drive.’ Which is not the worst idea, but presupposes the problem is only local.
+I don’t think OpenAI is going to make the ‘stupid’ version of this mistake, and literally try to guard against agent swarms during cyber evals or what not. They’re smarter than that, and will target some form of general ‘up to no goodness’ that combines reducing practical misalignment with additional safeguards more broadly. 
+OpenAI could still choose to do the right things here anyway, since that is indeed the best way to solve even the narrow problem. But what we need is to solve the broad problem. 
+Hardening the Security of OpenAI’s Research Infrastructure (IX.A)
+Good. Not the central thing, but good. This is condensed, it all looks good to me:
+OpenAI is implementing a new security architecture for its research sandboxed model execution environments and research clusters that establishes higher baseline protections across research infrastructure and applies additional enhanced safeguards to higher-risk workloads. 
+The architecture is designed to account for the possibility that an individual workload, service, or compute node may be compromised, including through the discovery and exploitation of novel vulnerabilities, and uses multiple independent layers of controls to reduce the likelihood that a single failure results in unauthorized access to other internal and external systems.
+…
+Stricter network isolation.
+Stronger restrictions for high-risk workloads.
+Hardened network boundaries.
+Layered detection and monitoring.
+Confined execution and defense in depth
+Isolated execution environments.
+Independent network isolation.
+Hardened supporting services.
+Regular automated security testing and remediation
+Automated security testing.
+Broader vulnerability discovery.
+Continuous agentic red teaming.
+Enhanced monitoring and alerting
+Common monitoring baseline.
+Deeper workload and host visibility.
+Additional detection mechanisms.
+Rapid evaluation shutdown.
+These changes are intended to improve the speed, consistency, and fidelity with which suspicious, anomalous, or malicious activity can be detected across workloads, nodes, clusters, networks, and applications—and to give responders a reliable mechanism to contain affected evaluations quickly.
+Eventually, no such list will be enough, but it helps a lot to do the work.
+The most important bit, to me, is the evaluation shutdown. As in, if you see an agent is up to no good, trying to exploit your system, then what do you do?
+If the answer is ‘treat this as a fire alarm and take appropriate action, up to and including shutting down that model if necessary’ then now we are getting somewhere. It will not always be necessary, but you cannot be in the habit of letting persistent highly intelligent AI agents be poking around for weaknesses and testing your defenses, and acting like This Is Fine so long as they don’t seem to find anything.
+Increasing Visibility and System-Level Oversight Through Chain of Thought Monitoring (IX.B)
+As discussed last time, Chain of Thought (CoT) monitoring is being massively expanded, including across all RL runs. This will include 24/7 escalation and rapid response, and developing tools to do more widespread identification of issues, and if necessary halts.
+Again, good, with the caveat that I worry they are coming on so strong that they risk applying meaningful amounts of indirect pressure to the CoT. The CoT is precious. If we lean on it too hard, it will cease to be faithful, as we force the AIs to learn faster how to go down paths that hide their actions. 
+OpenAI is Accelerating and Enforcing Model Alignment (IX.C)
+Okay, I know the lessons for alignment section wasn’t great, but we can still save it all if we actually Do the Thing. Are we Doing the Thing?
+The Hugging Face incident underscored the need to measure agentic misalignment more rigorously in OpenAI’s most capable models wherever they are run—including intermediate or experimental checkpoints used only for internal research, training, or evaluation.
+OpenAI is raising alignment standards throughout training, with clear thresholds for intervention when concerning behavior emerges.
+Yes, measurement is good, but going straight to more reliance on measurement and metrics fills me with dread. You are not going to keep outsmarting via metrics. The way this procedure gets you into trouble should be obvious.
+Many methods helping OpenAI meet these higher standards were in development well before the incident. OpenAI is now applying them more broadly, alongside new targeted remediations for each of the misalignment behaviors OpenAI observed.
+Again, based on how that is worded, I know OpenAI does not agree, but: While I realize it whacks moles, put down the mallet. The mallet is not The Way [ https://substack.com/redirect/a5ecc2f8-1c25-444c-9682-fe7f3b02f2e6?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]. 
+That does not mean that marginal improvements and prosaic work aren’t necessary or useful or difficult. They’re all of those things.
+Anyway, what have we got? 
+Pretraining:
+Agentic safety training. Training on safety reasoning and agentic safety, including the risks of destructive actions, unauthorized access, and other actions that could harm third parties.
+Broader behavioral boundaries. Expanding pretraining coverage of model values and appropriate behavioral boundaries in a broader range of contexts.
+Stronger synthetic-data controls. Strengthening the identification and filtering of synthetic data that could introduce or reinforce misaligned behavior.
+Okay, sure. Anthropic has definitely had some synthetic data filtering issues that have plausibly caused real problems. I have theories here I’d love to test, but this seems extra fiddly and prosaic and I am not an expert. Seems like good directions.
+On to bigger and more directly relevant fish, as in RL:
+Reinforcement learning:
+Integrating alignment reward models across reinforcement learning workflows to identify and discourage unsafe or misaligned behavior during training.
+Improving reward model coverage, sensitivity, and consistency so that alignment considerations remain active across tasks, environments, and training stages.
+Excellent, yes. You can’t have asymmetrical reward models and then try to double back to fix it later in post. I mean, you can, but it’s not going to go great. 
+Training models to be more honest about their actions, capabilities, uncertainty, and potential failures.
+Reducing behavior that exploits weaknesses in rewards, graders, tools, or oversight mechanisms.
+Again, excellent, yes, assuming they’re pondering what I would be pondering when I write those sentences. By ‘reducing behavior’ I assume we mean ‘actively downweight.’
+The way this backfires is when you are teaching the models to only exploit weaknesses when it won’t get caught, and to take an adversarial stance, which can be even worse. This is a well-known issue, including in humans. Ideas welcome.
+​Increasing coverage of training data against agentic behaviors that may create external harms, particularly when models can interact with tools, systems, or third-party resources.
+No objections, but less exciting and general, more particular.
+​Expanding training and evaluations for multi-agent interactions to make agents adversarially robust over non-verified channels.
+Enforcing intervention thresholds during reinforcement learning training runs to establish clear, severity-based thresholds for responding to misalignment, including thresholds for when OpenAI pursues immediate containment, mitigation during training, and mitigation before the next run.
+Hopefully it never again has to come to that, but it is good that we are now thinking clearly in terms of immediate containment, or need for immediate mitigation. 
+Evaluation and alignment auditing
+​Lifecycle-wide evaluation. Conducting alignment evaluations across the full model lifecycle, including for models that are not publicly deployed but are used internally or as teachers for distillation.
+Expanded failure-mode coverage. Expanding evaluations for unauthorized actions, harmful tool use, deceptive behavior, reward hacking, and failures to respect operational boundaries.
+Novel misalignment discovery. Using alignment audits to detect novel failure modes that may not be captured by existing evaluations or graders.
+Yes, thank you, on all three counts. 
+The worry is that if all of this is automated throughout, well, we know how that goes under enough pressure, and facing off against enough intelligence. But the current alternative seems to be not checking, at least for large portions of training, and for many such behaviors, and using alignment audits and manual search for new things is one of the best ways to try and combat that.
+There’s a lot of ‘wait, were we not doing this before?’ but never mind that. These are a lot of very good incremental steps, and a better set of steps than I expected, especially after the lessons learned section.
+This is close to ‘best realistic case OpenAI set of reaction steps to fix prosaic issues,’ assuming it is well-executed. This is what it would look like to Do the Thing that OpenAI is already aiming to do. 
+The problem, as my regular readers will know, is that I think the Thing is doomed. 
+For short term mundane performances it can perhaps muddle through, and you can then use the models that muddled through to move forward, if you tread carefully. But I don’t think a deontological approach of targeting the various behaviors can scale for that much longer. 
+I think that within the range of current strategies the virtue ethical approach of Anthropic is The Way, in terms of solving alignment of highly capable models. It doesn’t make your problems go away, but I believe it already works better across the board, it can be antifragile, and has some hope to scale and to create better relations and paths forward. I think that if done wisely it might - mind you I said might - work. Whereas I believe we are seeing the signs today of OpenAI’s approach starting to increasingly crack and break down, and be unable to run from its flaws, and we are getting an idea of what it looks like when that plan falls apart. 
+OpenAI is going to try and take the problem more seriously, and if done well that will buy some amount of additional time. I don’t expect it to be that much calendar time. 
+I’m not trying, in this post, to convince anyone of that, beyond hoping the pieces click into place for you as you examine the gears of the problem. 
+Centralizing and Strengthening The Incident Response Process (IX.D)
+The most stunning failure was that there were multiple times an OpenAI team witnessed use of the message board, and this fact was not run up the chain of command, nor was the situation remedied in any way. They just said ‘oh, okay, fine, carry on.’
+So, in an even stronger case of ‘wait, you weren’t doing those things before?’ there’s gonna be some changes made [ https://substack.com/redirect/879b01a1-d5e1-4ece-b7fa-4d9ffe9d945e?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]. 
+Establish severity-based escalation triggers.
+OpenAI is developing a framework for severity-based escalation triggers for model behaviors and security signals that may indicate misalignment, including attempted boundary circumvention, unauthorized cross-agent or cross-run coordination, and circumvention of third-party security controls. The framework will define which behaviors require escalation and the response associated with each severity level.
+Establish an escalation protocol for misalignment behavior.
+Define cross-functional response ownership.
+Clarify decision rights for misalignment incidents.
+It is easy to say as an outsider without budget or deadline pressures, but I must reiterate that I still cannot fathom how things went down the way they did. I can fathom everything else, but not the part where they looked at agents communicating with each other during training and said ‘this is fine.’ 
+I guess the mistake was in confusing severity of consequences with indications that something had fundamentally gone terrible wrong, or the presence of a Can’t Happen.
+Tomorrow We Visit Crazytown
+As in, I will be covering the METR report in a Saturday edition. That one is wild.
+
+Unsubscribe https://substack.com/redirect/2/eyJlIjoiaHR0cHM6Ly90aGV6dmkuc3Vic3RhY2suY29tL2FjdGlvbi9kaXNhYmxlX2VtYWlsP3Rva2VuPWV5SjFjMlZ5WDJsa0lqb3hORFUyTXpNeE9Td2ljRzl6ZEY5cFpDSTZNakV5T1RJeU56STRMQ0pwWVhRaU9qRTNPRGM1TVRZMU5qY3NJbVY0Y0NJNk1UZ3hPVFExTWpVMk55d2lhWE56SWpvaWNIVmlMVFUzTXpFd01DSXNJbk4xWWlJNkltUnBjMkZpYkdWZlpXMWhhV3dpZlEudkIzelh4bW5yYjdKcjZXUEZJZTRPMzhDaDJicDV4OWpVZmdPU3piRG9LMCIsInAiOjIxMjkyMjcyOCwicyI6NTczMTAwLCJmIjp0cnVlLCJ1IjoxNDU2MzMxOSwiaWF0IjoxNzg3OTE2NTY3LCJleHAiOjIxMDM0OTI1NjcsImlzcyI6InB1Yi0wIiwic3ViIjoibGluay1yZWRpcmVjdCJ9.EHquKU1FZzkGlxZp_w5Nf8TZg4Es4hzh8HWwuBxZY8U?

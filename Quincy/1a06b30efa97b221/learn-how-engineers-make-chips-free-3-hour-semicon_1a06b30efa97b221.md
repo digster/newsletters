@@ -1,0 +1,32 @@
+---
+id: "1a06b30efa97b221"
+subject: "Learn how engineers make chips [Free 3-hour semiconductor course]"
+from: "Quincy Larson <quincy@freecodecamp.org>"
+to: ""
+date: 2026-09-04 06:52:43
+labels: ["CATEGORY_PERSONAL", "IMPORTANT", "INBOX", "Quincy"]
+label_ids: ["CATEGORY_PERSONAL", "IMPORTANT", "INBOX", "Label_7697778124671848699"]
+---
+Here are this week's five freeCodeCamp resources that are worth your time:
+
+1. freeCodeCamp just published a deep dive into how engineers make chips. This course follows Nvidia's GB300 Blackwell Ultra GPU from raw silicon wafer through design, fabrication, and deployment in a data center. You'll learn about transistor architectures, electronic design automation, cleanrooms, EUV lithography, and High Bandwidth Memory. The course also explores data center power, networking, export restrictions, and other constraints on the global semiconductor supply chain. (3 hour YouTube course): https://www.freecodecamp.org/news/how-ai-chips-are-made/
+
+2. Learn Excel formulas and functions to get things done faster. This course will teach you how to leverage cell references, error handling, conditional logic, and aggregation. You'll also get practice with modern lookup functions like XLOOKUP, INDEX, and XMATCH. (2 hour YouTube course): https://www.freecodecamp.org/news/learn-excel-formulas-and-functions/
+
+3. I've been sharing a lot of quantum computer-related tutorials, and this is another one. And no you don't need a million dollar quantum computer for this. You'll learn how quantum compilers map and route operations, and why they sometimes need to insert expensive SWAP gates. You'll also learn about how connectivity affects circuit depth and accumulated errors. (30 minute read): https://www.freecodecamp.org/news/how-quantum-connectivity-shapes-what-your-quantum-computer-can-actually-compute/
+
+4. This Flutter mobile app dev tutorial will teach you the Builder design pattern. You'll use it for UI carousels, HTTP requests, and more. You'll also compare it with the constructor and factory patterns, and learn which you should use when. (25 minute read): https://www.freecodecamp.org/news/the-builder-design-pattern-a-better-approach-to-complex-object-construction/
+
+5. OpenTelemetry is a powerful open source library for understanding what's happening inside a distributed application. This guide will teach you how traces, logs, spans, and context propagation work together to boost observability. (20 minute read): https://www.freecodecamp.org/news/how-opentelemetry-works/
+
+The freeCodeCamp community is building tons of interactive courses on math, programming, computer science, world languages, and more. All these are open source and available to everyone. Please join the 9,113 kind folks who support our charity's mission here: https://www.freecodecamp.org/donate
+
+Quote of the Week: “The spread of semiconductors was enabled as much by clever manufacturing techniques as it was academic physics.” — Chris Miller, in the excellent book Chip War about the semiconductor industry
+
+Until next week, happy coding.
+
+-- Quincy Larson
+
+Teacher and founder of freeCodeCamp.org
+
+If these aren't worth your time, you can turn them off: https://www.freecodecamp.org/ue/eZV2T3gHC7IGcwcpYPG64

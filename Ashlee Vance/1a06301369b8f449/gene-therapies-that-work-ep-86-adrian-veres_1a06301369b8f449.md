@@ -1,0 +1,11 @@
+---
+id: "1a06301369b8f449"
+subject: "Gene Therapies That Work? - EP 86 Adrian Veres"
+from: "Core Memory  <ashleevance@substack.com>"
+to: ""
+date: 2026-09-02 16:42:52
+labels: ["Ashlee Vance", "CATEGORY_PERSONAL", "INBOX", "UNREAD"]
+label_ids: ["Label_4216359091400734623", "CATEGORY_PERSONAL", "INBOX", "UNREAD"]
+---
+We have been promised glorious gene therapies for decades. This is supposed to be the stuff of reprogramming the body to blunt or cure diseases with something approaching a permanent fix. While gene therapy progress has been made, treatments remain rare and expensive, and it’s very tough to get the therapies to go into the desired parts of the body. Our guest this week is here to help. He’s Adrian Veres, the chief scientific officer and co-founder of Dyno was well ahead of the AI meets biotech curve, using AI models to design new viral shells that let genetic instructions get into the right places of the body. For the moment, Dyno has focused on creating delivery mechanisms for companies working on therapies aimed at the brain, eye and muscles. In this episode, we talk with Veres about the promise and perils of gene therapy technology, some of the most recent cases where gene therapies worked and how Dyno’s technology came to be and functions. And we get Veres’s take on whether or not we’re entering a golden age of biotech on the back of AI. Due to some poor camera work on my part, Veres, who is a tall man, looks particularly giant. Fear not, he did not harm me and was actually quite nice. OUR SPONSORS BREX The Core Memory podcast is sponsored We run on Brex and so should you. Learn more about SENDCUTSEND You know who else makes stuff for America? That would be SendCutSend. If you want to celebrate our great nation by building a metal part, then head on over to IN THIS EPISODE Dyno Therapeutics: The FDA framework for individualized ultra-rare disease therapies: Core Memory on Baby KJ and the new gene therapy playbook: Core Memory’s gene-editing conversation with Eryney Marrogi: Core Memory’s podcast with Jennifer Doudna: TIMESTAMPS (they link out to YouTube)
+Hopefully, you enjoyed this story. If so, please share it and subscribe to Core Memory. We want to do more of this for you and need your help. Thanks! |

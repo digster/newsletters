@@ -1,0 +1,251 @@
+View this post on the web at https://contraptions.venkateshrao.com/p/the-curiously-playable-universe
+
+In 2024, Google DeepMind’s AlphaProof [ https://substack.com/redirect/0df1c805-7862-43c4-8b3b-cfec25a0863a?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ] solved three of the five non-geometry problems at the International Mathematical Olympiad. Unlike a chatbot producing a plausible-looking derivation in prose, AlphaProof worked in Lean, a formal mathematical language in which proofs can be mechanically checked. It trained by proving or disproving millions of mathematical problems, receiving an unusually clean signal each time: either the proof checked out or it didn’t.
+Starting with this essay, I will no longer be explicitly declaring AI use, or segregating my AI-assisted writing in a separate experimental section. You should assume by default that I’m using AI. See my revised About [ https://substack.com/redirect/9cb8f199-435c-46fd-ac3d-559627b56e71?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ] page for a detailed update on my AI use philosophy.
+This looked like another frontier falling to artificial intelligence. Chess had fallen, then Go, then protein folding, then programming, and now serious mathematics appeared to be giving way too. Mathematics is among the activities we most strongly associate with the mysterious upper reaches of human intelligence, so perhaps the obvious conclusion was that AI was climbing toward those reaches.
+But there is another way to look at what happened.
+AlphaProof did not encounter mathematics in the wild. It encountered a landscape that humans had spent more than a century converting into something increasingly like a game.
+In Lean [ https://substack.com/redirect/6db89fac-f14e-4f90-be8c-30074692d861?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ], a mathematical proposition is represented as a type and a proof as a term of that type. A proof assistant helps construct the term and a small kernel verifies it. Around this core has grown Mathlib, a vast library of definitions, structures, lemmas and proofs. AI theorem-proving systems can be presented with a proof state, retrieve potentially useful premises, propose a move, and learn from whether Lean accepts it. LeanDojo [ https://substack.com/redirect/a42a19cd-675e-46d3-b8f2-69100116ca15?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ] makes this structure explicit enough that a language model can take a proof state as input and generate tactics, with premise selection treated as a retrieval problem.
+This is an extraordinarily congenial environment for machine learning. There are states. There are moves. There is accumulated knowledge about good moves. There is a terminal condition. Above all, there is a verifier.
+Mathematics did not begin this way.
+For centuries it was practiced as something closer to a wilderness craft. There were proofs, of course, and sometimes extraordinary rigor. But mathematical activity also involved diagrams, geometric intuition, physical analogy, tricks of notation, special cases, inspired constructions and forms of tacit judgment that were not cleanly separated from one another.
+Probability is an obvious example. People did sophisticated probability for centuries before Kolmogorov supplied its modern measure-theoretic foundations. You do not need sigma algebras to reason correctly about dice. But once probability is represented in terms of measures, measurable spaces and random variables, enormous families of apparently different problems become inhabitants of the same mathematical architecture.
+What happened over the twentieth century was not simply that mathematics became more rigorous. It became increasingly playable.
+And that may tell us something important not merely about mathematics, or artificial intelligence, but about the world.
+The Wilderness Before the Game
+The foundational disputes of the early twentieth century are usually remembered as philosophical arguments about what mathematics really is.
+David Hilbert represented one pole. Mathematics could be rendered explicit through axioms and formal rules. The dream, in its strongest form, was that mathematical reasoning might be made sufficiently precise that proofs could be treated as formal objects and mathematics could establish the reliability of its own methods.
+L. E. J. Brouwer went almost exactly the other way [ https://substack.com/redirect/0190abda-5a2a-41e2-bc63-cb6bf4d375b7?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]. For Brouwer, mathematics was fundamentally an activity of construction in the mind. Mathematical activity preceded language. Formal language described mathematics after the fact; it did not constitute mathematics. Logic itself was downstream of mathematical activity rather than its foundation.
+Brouwer was hardly arguing for looseness. Intuitionism is in some respects more conservative than classical mathematics. An existence claim should correspond to an actual construction. One could not freely use the law of excluded middle to assert that one of two possibilities must hold without establishing which. The strange combination was radical freedom on the creative side and severe discipline on the assertion side: mathematics begins wild and ends conservative.
+Brouwer lost, at least institutionally. Mainstream mathematics did not abandon classical logic or nonconstructive proof. The mathematical world that followed was much more recognizably descended from Hilbert’s side of the argument.
+But something unexpected also happened to axiomatics. Axioms escaped from the constitutional court of mathematics and entered the workshop.
+Groups, fields, topological spaces, measure spaces and other abstract structures increasingly became ordinary working tools. Bourbaki turned structural organization into something like a program for mathematics. Category theory made mappings among structures into mathematical objects in their own right.
+And then Grothendieck demonstrated, through his “mansions” approach [ https://substack.com/redirect/3f070a5c-363e-4d34-891e-04834753c00f?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ], just how far this could go.
+Grothendieck’s characteristic approach to a difficult problem was famously contrasted with attacking a hard nut using a hammer and chisel. His preferred metaphor was a rising sea [ https://substack.com/redirect/0ce82752-8514-4f86-8ecf-7371a4da7c06?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]. Rather than concentrating force on the theorem, one develops a sufficiently broad theory around it that eventually the water rises and the problem disappears beneath the surface.
+This represents an extraordinary migration of mathematical creativity. The heroic mathematical act need no longer be finding the ingenious sequence of moves that cracks one difficult theorem. It can be inventing the mathematical world in which an entire family of difficult theorems becomes ordinary.
+The axiom has changed roles. It is no longer merely a declaration about the foundations of legitimate mathematics. It increasingly resembles an interface. Once an object satisfies the interface, general machinery becomes available.
+Yesterday’s mathematical creativity becomes today’s mathematical infrastructure.
+This is one reason Lean is possible in its current form. The foundations matter, but foundations alone would not give an AI a tractable mathematical world to play in. A machine forced to reduce ordinary mathematics continually to primitive logical operations would face a terrible search problem.
+Instead it inherits the accumulated architecture of twentieth-century mathematics.
+A proof state might amount, conceptually, to something like:
+G : Group
+H : Subgroup G
+x y : G
+x ∈ H
+y ∈ H
+----------------
+x · y ∈ H
+
+The words Group and Subgroup are doing enormous amounts of compressed work. They locate the problem in a structured mathematical world. Relevant operations exist. Relevant general theorems exist. Other facts can be inferred from the structures involved.
+A theorem prover does not search the space of all possible sequences of logical symbols. It plays inside a world humans have painstakingly designed.
+This makes recent achievements in AI mathematics look slightly different.
+Perhaps we have been too quick to interpret them as evidence that AI has acquired access to the wild source of mathematical intuition. A significant part of the achievement may instead be that humans spent a century converting increasingly large regions of mathematical wilderness into exceptionally good game boards: semi-closed environments in which the relevant state can be represented, legitimate moves can be made, accumulated technique can be reused, and success can be verified.
+Three Roads to the Same City
+Something remarkably similar happened in programming.
+The history is not a neat progression from procedural programming to object-oriented programming to functional programming. These traditions overlap, recur and borrow from one another. But there has nevertheless been a long upward migration in where programming ingenuity is invested.
+At the lowest level, the programmer specifies machine behavior. Memory locations, instructions and control flow are immediately visible. Higher-level languages make those details somebody else’s problem. Structured programming, abstract data types, modules, objects, functional composition, type systems and declarative languages each move some portion of the creative burden away from specifying execution and toward designing representations.
+The most revealing programming maxim might be:
+Find the representation in which the algorithm becomes stupid.
+A database query is an obvious everyday case. Instead of telling a computer how to traverse records, you specify the result you want and let a query planner decide how to produce it.
+Type systems perform a related trick. A sufficiently powerful type system does not merely describe data. It defines a world of legitimate transformations. Illegal programs become unrepresentable, or at least harder to represent.
+Creativity migrates from individual instructions toward algorithms, from algorithms toward representations, and from representations toward architectures and specifications.
+Physics followed another road to much the same place.
+Newtonian mechanics invites you to identify forces and calculate their effects. Lagrangian mechanics replaces much of this local bookkeeping with generalized coordinates and a variational principle. Hamiltonian mechanics lifts the problem again into phase space, where dynamics become trajectories generated by a Hamiltonian.
+These transformations do not make Newton wrong. They find representations in which large families of Newtonian calculations become easier to generate and relate.
+At the engineering end of the story, specialized formalisms such as Kane’s equations allow complicated multibody systems to be represented in ways suited to computational generation of equations of motion. Modern CAD and simulation software can automate work that once demanded formidable manual calculation.
+And the paths are now converging literally. Physlib [ https://substack.com/redirect/09061e7c-e2cf-4365-8136-84b282c1f217?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ] is an active project to formalize physics in Lean, including definitions, theorems and calculations, with the explicit ambition of making physics more accessible to formal verification and AI reasoning.
+Across mathematics, programming and physics, the same pattern keeps appearing. First there is clever performance. Then somebody finds a representation that captures what the clever performers are doing. Then general machinery accumulates around the representation. Then the machinery becomes architecture. Eventually much of the play becomes mechanical.
+The creativity has not disappeared. It has moved.
+The Price of a Game Board
+There is an obvious objection to this story.
+Perhaps what I am describing as progress is merely legibility.
+James C. Scott famously described [ https://substack.com/redirect/fdc5ae20-d6e6-4297-b300-0871b156e998?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ] the tendency of modern states to simplify complicated social and natural realities into representations that administrators can see and manipulate: cadastral maps, standardized names, scientific forests, censuses, planned cities.
+The representation is useful precisely because it throws things away. A forest seen by a forester interested in timber yield is not the forest experienced by the people, animals, fungi and plants living in it. The administrative forest has become extraordinarily legible along a narrow set of dimensions by becoming blind along others.
+Every game performs a similar operation. Before you can play, you must decide what the pieces are. You must decide what constitutes the state of the game, what counts as a move, what consequences follow from moves, and what counts as winning. Everything else becomes environment.
+A rigid body in a mechanical simulation is not actually rigid. A point mass is not a point. A frictionless surface does not exist. A program described by its types still runs on processors with caches and memory hierarchies. A theorem encoded in Lean does not contain the diagram that gave somebody the idea for it.
+Formalization is compression.
+In physics this is explicit. Reality becomes a model, the model becomes mathematics, and the mathematics becomes a numerical representation. Information is discarded at every step.
+The miracle is not that nothing is lost. The miracle is how often we can throw almost everything away and still retain what matters.
+Pure mathematics is an unusually favorable case because mathematical objects can, to a large extent, be constituted by their definitions. There is no hidden physical essence of groupness that escapes the group axioms.
+Programming sits somewhere in the middle. Software is built from formal artifacts, but it runs on physical machines and encounters users and environments that continually leak through its abstractions.
+Physics is less forgiving. Nature exists independently of the model. Every physical theory has a regime in which its simplifications fail.
+Social systems are worse still because the things being represented can notice the representation and change their behavior in response.
+So playability is not free. It is purchased by closure.
+But closure need not be total, and the useful question is not whether a representation is lossy. Almost every interesting representation is lossy. The question is whether it preserves the invariants required for the game we want to play.
+Good science is disciplined lossy compression. High modernism begins when we forget the compression happened.
+Brouwer’s Wilderness
+This makes Brouwer look unexpectedly contemporary.
+If mathematics were exhausted by formal derivation, then the ultimate mathematical machine would simply be a sufficiently powerful engine for producing verified proofs. But human mathematics plainly has another side.
+A mathematical idea might begin with a diagram, a mechanical analogy, a linguistic metaphor, a visual pattern, a joke, or perhaps even a poem. Somebody notices that one kind of thing somehow behaves like another kind of thing. At this stage the analogy can be wrong.
+Indeed, mathematical creativity often seems to begin with a productive type error: This algebra is behaving like a geometry. This transformation looks like a flow. This symmetry feels like a conservation law.
+The job of subsequent mathematics is partly to determine whether there is a precise statement hiding inside the illicit comparison.
+This suggests an important asymmetry. A productive mathematical ecology wants porous epistemic boundaries and impermeable verification boundaries. On the way in, metaphor, hallucination and category mistakes can be useful. On the way out, they are forbidden.
+A poem can inspire the theorem. The poem cannot prove it.
+What Makes a World Playable?
+We can now say more precisely what has been happening.
+A domain becomes playable when enough of its phenomenological complexity can be compressed into something like a state; when there is some reasonably stable repertoire of actions; when interactions can be repeated; when outcomes provide feedback about better and worse play; and when the environment is stationary enough that lessons learned yesterday remain useful tomorrow.
+None of these conditions needs to be perfect. Poker contains hidden information. Markets change their own rules. Hunting happens in an uncontrolled environment. Conversation does not have an explicit score.
+Playability is a matter of degree.
+Nor is playability the same as formalizability.
+Children learn social games without writing axioms. Hunters learn landscapes. Merchants learn markets. Political operators learn institutions. Formalization is merely one unusually powerful technology for increasing playability.
+So are money, measurement, domestication, standardization, simulation, bureaucracy and digitization. They do related things. They compress states. They stabilize interactions. They make outcomes comparable. They create memory. They allow experience to accumulate.
+This suggests a hypothesis:
+Far more of reality than we might reasonably have expected can be carved into semi-closed environments in which experience accumulates, performance improves through repeated play, and success eventually becomes sufficiently legible to automate.
+Call this the Curiously Playable Universe hypothesis.
+It is not logically necessary that the world should be like this. We might have inhabited a universe in which useful phenomena depended so sensitively on context, hidden variables, history and holistic entanglement that abstraction reliably destroyed the very thing we hoped to understand.
+Instead we repeatedly discover that crude state representations preserve astonishing amounts of useful causal structure.
+Physics is perhaps the deepest evidence. Nature keeps admitting conserved quantities, symmetries, equations of motion, state spaces, effective theories and transformations between representations.
+We keep finding game boards.
+Wild, Domesticated, Automatic
+Once a playable regime exists, a characteristic evolutionary sequence seems to follow.
+There is first a wilderness: rich, incompletely represented, difficult to repeat, dependent on tacit skill. Parts of the wilderness become legible. Legibility allows domestication. States become more stable. Moves become repeatable. Techniques accumulate. Specialists emerge. Performance becomes measurable.
+A mature game appears.
+The mature game attracts optimization. Techniques become methods. Methods become procedures. Procedures become machinery.
+Eventually some sufficiently stable portion of the game becomes automatic.
+But automation does not end play. It moves the frontier.
+The resulting arc looks something like:
+wilderness → legibilization → domestication → optimization → automation → meta-game.
+The last transition is the important one.
+Once arithmetic is automatic, mathematicians play with higher mathematics. Once compilers automate machine instruction, programmers play with larger software architectures. Once CAD systems automate large amounts of mechanical calculation, engineers play with more complicated machines.
+If Lean and AI make formal proof dramatically cheaper, mathematicians can spend proportionately more effort deciding what should be defined and which mathematical worlds are worth constructing.
+The old game becomes a piece in a new game.
+This is a different picture of technological progress from the usual story of ever-increasing intelligence.
+Intelligence is usually imagined as a rising flood. As it rises, it reaches chess, then programming, then mathematics, then science, until eventually there is nowhere human cognition can stand above the waterline.
+But perhaps the important process is happening to the terrain.
+We are getting better at building game boards.
+Go Lives
+In July 2026, something happened in Go that nicely exposes the difference.
+Shin Jin-seo, the world’s strongest human Go player, played a three-game match against KataGo [ https://substack.com/redirect/98ecc17e-7f6d-4b89-ad08-c60722b54d8d?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ], a superhuman open-source Go engine. Shin received a two-stone handicap. He lost the first game and won the next two. 
+This did not mean humanity had caught up with Go AI. Two stones represent a substantial advantage, and KataGo was running under particular time and hardware constraints.
+What was interesting was how Shin played.
+He was not simply trying to calculate better than KataGo. In the winning games he used his advantage to simplify. He chose familiar sequences, avoided unnecessary complexity, and spent points in exchange for making the future game easier to control. In Frank Lantz’s account of the match, Go teacher Nate Morse describes a particularly interesting asymmetry: Shin could know that he was playing KataGo and reason about KataGo’s characteristic behavior, while KataGo’s representation of the situation did not comparably include “I am playing Shin Jin-seo, a human who has spent years studying these patterns and studying AI.” (franklantz.substack.com [ https://substack.com/redirect/98ecc17e-7f6d-4b89-ad08-c60722b54d8d?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ])
+Shin was playing Go. But he was also playing KataGo-playing-Go.
+The distinction matters because Go is one of the cleanest closed games humans have invented. Yet even here the surrounding ecology remained open enough to generate a new level of strategy.
+There is a wonderful complication.
+Researchers have also discovered bizarre adversarial strategies [ https://substack.com/redirect/d4e4cacc-31ad-4f97-b75d-c10593ea76b2?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ] that exploit KataGo’s weaknesses, including a cyclic-group strategy that could defeat versions of superhuman KataGo at extremely high rates. But that exploit was not discovered by a poetically open human intelligence. It was discovered by another specialized Go-playing system.
+Closure, therefore, does not imply sterility. Go contains its own wilderness. A sufficiently exploratory closed system can find strange territory that humans never visited.
+But Shin had access to something else: the ability to treat the supposedly complete game as an object inside a larger game.
+The Protein That Doesn’t Read Poetry
+AlphaFold gives us the opposite lesson: AlphaFold does not need to read poetry.
+The original AlphaFold2 system [ https://substack.com/redirect/a7f26124-4429-482d-95b3-a01d369c096a?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ] takes protein sequence information, evolutionary information from related sequences, and where available structural templates, and predicts three-dimensional protein structure.
+This is an extremely specialized world. And specialization is precisely what makes it powerful.
+Protein space is not impoverished merely because it excludes Shakespeare. Evolution has already filled it with an enormous internal wilderness of structures, motifs, interactions and constraints.
+A closed domain can contain more than enough variation to support profound discovery. So the lesson cannot simply be that open systems are creative and closed systems are sterile.
+Closure enables deep exploitation. Openness supplies another source of mutation.
+A mathematics-only AI might discover extraordinary structures latent within existing mathematics. A multimodal AI exposed to physics, images, code, music and language might occasionally import a bizarre analogy that would never arise from endogenous mathematical search.
+The useful architecture may therefore have different regimes:
+open generator → semi-closed game → closed verifier.
+We should not expect the same cognitive style to be optimal at every stage. The verifier should not behave like a poet. The poet should not behave like a verifier.
+We Were Doing This Before AI
+If playability were merely a property of AI-friendly digital environments, none of this would be particularly interesting.
+But the pattern is ancient. Consider agriculture.
+Hunting and gathering takes place in a relatively wild learning environment. Animals move. Weather changes. Useful plants appear where they appear. The training distribution is supplied by nature.
+Agriculture does something profound to the learning problem: It changes the environment.
+Fields stabilize locations. Planting stabilizes cycles. Domestication alters organisms. Irrigation alters water availability. Storage alters time. Property regimes and markets stabilize incentives.
+Humans did not merely become better at learning nature. They made nature easier to learn.
+The wild game becomes domesticated.
+Eventually industrial agriculture pushes large portions of the process toward automaticity: standardized breeds, standardized feed, controlled environments, mechanized planting and harvesting, precisely measured yields.
+Then the game moves upward.
+Instead of merely optimizing how an organism is cultivated, we begin optimizing the organism itself. Selective breeding becomes genetics becomes genomic selection and genetic engineering.
+The old player becomes a game piece.
+It is tempting to map this progression onto contemporary machine-learning terminology. Hunting looks vaguely like reinforcement learning in a difficult environment. Agriculture introduces something like shaped rewards and a controlled training distribution. Factory farming begins to resemble a regime of relentless verification against measurable outputs.
+The analogy should not be pushed too literally. Human cultures have always involved teaching, imitation, norms and complicated reward systems.
+But structurally the direction is unmistakable: increasing control over the state representation, action space, feedback signal and training distribution.
+Commerce underwent another version of the transformation.
+Exchange begins embedded in relationships, obligations, reputation, kinship and local knowledge. Credit can be intensely personal. Value is contextual.
+Money performs an astonishing act of compression.
+Heterogeneous goods and obligations become comparable through a common medium. Markets then stabilize arenas in which repeated exchange produces prices. Accounting makes states more legible. Contracts formalize future obligations.
+Eventually finance builds games on top of the game.
+A derivative can be a claim on the future value of another asset. Options put prices on possible future prices. Markets become arenas for expectations about expectations.
+Play moves upward.
+None of this required artificial intelligence. Humans have been turning wildernesses into games for thousands of years.
+The Falling Price of Game Construction
+What AI changes is the cost of achieving playability in a domain.
+Historically, making a domain playable was expensive. Somebody had to invent the categories. Somebody had to measure the variables. Somebody had to standardize the procedures. Somebody had to construct the institutions that made interactions repeatable.
+And the resulting representation had to be relatively explicit because ordinary software was brittle.
+Machine learning relaxes that requirement.
+A neural network can learn useful state representations that nobody has completely specified. A language model can operate in linguistic environments whose rules cannot be written down. Multimodal models can consume images, sound and video. Reward models can approximate judgments for which no crisp objective function exists.
+At the other extreme, reinforcement learning with verifiable rewards can exploit domains where correctness is exceptionally crisp.
+AlphaProof makes the convergence almost comically literal. DeepMind took an AlphaZero-style reinforcement-learning approach descended from game-playing systems and put it inside Lean. The formal mathematical environment supplies mechanically verifiable outcomes; the system learns through repeated attempts.
+The important consequence may be that AI lowers the minimum playability threshold at which industrialized learning becomes worthwhile.
+Yesterday a domain had to be carefully formalized before machines could operate effectively inside it. Today it merely has to be learnably regular.
+That greatly enlarges the territory susceptible to game construction.
+New Game Boards Everywhere
+Coding is perhaps the clearest domain currently passing through the transition.
+Programming was unusually playable before generative AI arrived.
+Compilers already supplied verifiers. Type systems constrained legal moves. Unit tests supplied rewards. Version control recorded trajectories. Continuous integration repeatedly evaluated outcomes. Package ecosystems created enormous libraries of reusable moves.
+Generative coding systems arrived in a landscape generations of programmers had inadvertently prepared for them.
+As implementation becomes cheaper, the game moves upward toward specifications, architectures, product decisions and the increasingly important question of what software should exist in the first place.
+Robotics is a more difficult frontier.
+The physical world is phenomenologically unruly. Objects deform. Friction varies. Things break. Lighting changes. People walk into rooms. Drawers stick.
+Simulation, cheap sensors, multimodal models and increasingly capable world models are gradually making physical environments more playable, but reality continually leaks through the representation.
+This is why robotics may be one of the most important tests of the Curiously Playable Universe hypothesis.
+Can enough of ordinary physical reality be compressed into stable learned representations to permit the same cycle of domestication and automation?
+Science will probably fragment according to playability rather than according to our traditional rankings of intellectual difficulty.
+Protein structure turned out to be unusually playable.
+Drug discovery is less so because chemical promise must survive biology, organisms, clinical trials and human heterogeneity. Materials discovery may become increasingly playable through the combination of simulation and automated laboratories. Ecology may remain stubbornly wild because every useful abstraction excludes interactions operating at another scale.
+Medicine contains both extremes. Image interpretation and molecular design can be made relatively game-like. Caring for an elderly person with five interacting conditions, family constraints and changing preferences is another matter.
+Governance may become a particularly strange frontier.
+States have spent centuries making populations legible through names, addresses, laws, property records, taxes, censuses, bureaucratic categories and standardized procedures. In that sense the modern administrative state is already a vast game-making machine.
+AI will make more of its internal operations automatic.
+But political systems contain an unusual source of wilderness: the pieces know they are pieces.
+People respond strategically to measurements, categories and incentives. A rule changes the behavior it was intended to regulate. A metric becomes a target and stops being a good metric (Goodhart’s Law). Political actors learn to play the machinery designed to make them legible.
+This may push governance upward toward new games involving states themselves: transnational protocols, financial systems, supply chains, standards regimes, platform governance and other structures that do not fit comfortably inside the old nation-state game board.
+Some domains may resist for much longer.
+Child-rearing is difficult to make playable because the objective changes as the child changes. Friendship has no stable score. Diplomacy involves adversaries whose models include models of your model of them. Entrepreneurship often consists precisely of discovering a game nobody realized existed.
+Frontier science operates where we do not yet know which measurements matter. Cultural creation is evaluated by audiences who change partly because of the works being evaluated. Political legitimacy is altered by attempts to measure and optimize it.
+These are not necessarily domains AI cannot enter. They are domains in which the wilderness fights back.
+A Million Theorems Falling in a Forest
+Suppose an AI generates a million previously unknown Lean theorems. Each theorem is correct. Each proof passes the kernel.
+Has a million theorems’ worth of mathematics happened?
+Something certainly has.
+But imagine that nobody—human or machine—finds the results interesting. They are vaguely related but conceptually unorganized. No new definitions emerge. No general theorem compresses them. No representation makes their relationship intelligible. They simply accumulate in a database.
+Now imagine another AI notices that 800,000 of those results are manifestations of a single structure nobody has previously named.
+It defines the structure, and proves three general theorems. The million proofs become mostly unnecessary.
+The second AI has produced less formal information. Yet almost everyone would say it has done more mathematics.
+This points toward a useful distinction between theorem production and mathematical understanding.
+Understanding compresses truths into generative structure. A good abstraction does not merely summarize a collection of facts. It explains why they travel together. It turns many proofs into instances of one architecture.
+That architecture need not even be human-readable.
+An AI might discover a mathematical representation that humans find grotesque but that reduces its own proof-search requirements by six orders of magnitude. That would still seem like genuine mathematical structure. It has made its mathematical world more playable.
+So the scarce mathematical capability in a world of abundant proof may not be theorem -roving; it may be theorem-space architecture.
+The future Grothendieck function—whether performed by humans, machines or some coupled system—will be to decide which distinctions are accidental, which structures deserve names, which results should be unified, and which enormous suburbs of deductive sprawl should be demolished and replaced by one good abstraction.
+When proof becomes cheap, urban planning becomes valuable.
+The Ascent of Playability
+There is a tempting way to tell the story of artificial intelligence.
+Human beings possess something called intelligence. For most of history this mysterious faculty separated us from machines. Then machines began acquiring it. First they acquired enough to play simple games. Then enough to play chess. Then Go. Then enough to recognize images, translate languages, write programs, fold proteins and prove mathematical theorems.
+As intelligence increases, more domains fall.
+But consider another way to tell the story.
+Chess did not fall merely because machines became intelligent. Chess is an almost perfectly playable universe. Go is larger and stranger, but it is still extraordinarily playable.
+Programming has spent seventy years constructing machine-readable states, legal operations, abstraction hierarchies and automated feedback.
+Modern mathematics has spent more than a century building formal structures upon formal structures, and proof assistants have turned increasingly large parts of that architecture into an executable environment.
+Protein biology contains enough regularity that sequence and evolutionary information can be transformed into extraordinarily powerful predictions about structure.
+Agriculture became playable thousands of years before computers by transforming the environment itself.
+Markets became playable by inventing money, prices, accounting and standardized exchange.
+Again and again, parts of the world that initially look like phenomenological wilderness turned out to admit a powerful game board.
+We discover states that preserve what matters. We discover moves whose consequences can be learned. We discover feedback that allows skill to accumulate. We domesticate the territory. We become experts at the resulting game. We build machinery that plays it better than we can. And then we move outward and construct another game around the first.
+Artificial intelligence accelerates this ancient process because it drastically lowers the price of exploiting partially legible worlds. The representation no longer has to be perfect. The rules no longer have to be entirely explicit. The reward no longer has to be available in closed form.
+Enough regularity will do.
+This may be why the current moment feels simultaneously astonishing and oddly familiar.
+The machines are doing remarkably alien things, but the terrain is doing oddly familiar things.
+We keep asking what it means that machines can now play chess, write programs, fold proteins, prove theorems, steer robots and discover molecules. The question presumes that the remarkable new object is the machine—that some mysterious substance called intelligence has finally become “general” enough to flow from one human province into another.
+But perhaps the stranger discovery concerns the provinces: Wildernesses can be reliably turned into game boards. We domesticate the territory, become skilled at its game, build machinery that plays it better than we can, and move outward to construct another game around the first, domesticating a larger scope.
+This happened to fields and livestock long before it happened to chess. It happened to trade before it happened to programming. It happened to mechanics before it happened to mathematical proof.
+Artificial intelligence did not invent this strange property of reality. It is merely making it difficult not to notice.
+The deepest surprise of the AI era may turn out not to be that intelligence was easier to manufacture than we thought. It may be that the universe is far more playable than we imagined.
+Coda: The Playability of Writing
+There is one domain conspicuously implicated by the argument of this essay: writing itself.
+Writing sits somewhere awkwardly in the middle of the playability spectrum. It is obviously more playable than friendship or political legitimacy. There are stable artifacts, accumulated techniques, recognizable genres, repeatable operations and abundant feedback. Sentences can be revised. Arguments can be tested for consistency. Stories can be checked for continuity. Editors can compare two versions and usually say something useful about why one works better.
+But writing lacks the feature that makes Lean such an extraordinarily good game board: a verifier. There is no kernel that accepts Middlemarch and rejects a bad novel. The relevant state is incompletely represented, the available moves are effectively unlimited, and the reward function wanders around outside the text in readers, institutions, historical circumstances and cultures that change partly in response to what gets written. Recent attempts to extend verifiable-reward techniques to writing therefore have to manufacture approximate evaluators out of principles and pairwise judgments rather than simply checking an answer. Writing is playable, but imperfectly and unevenly so.
+The unevenness is becoming easier to see because AI is revealing which kinds of writing were already more game-like than we realized. A corporate memo, SEO article, product description, technical explanation or conventional news report has relatively strong constraints: purpose, audience, format, facts, length, house style, perhaps measurable outcomes. Formulaic genre fiction has a looser but still recognizable game board of beats, tropes, pacing, character functions and reader expectations. Even fiction once assumed to depend heavily on irreducible human voice is proving surprisingly susceptible to systematic generation and variation. Writing is not one game but a family of wilderness activities at very different stages of domestication.
+At the other end lies writing whose purpose is partly to alter the terms by which it will be judged. As Walter Benjamin observed, “all great works of literature establish a genre or dissolve one.”
+A genuinely new literary form, a strange essay, a foundational work of philosophy, or a piece of criticism that gives its readers a concept they did not previously possess cannot simply optimize against an existing reward function. Its success may consist in creating a new one. This is writing at its most wilderness-like, and perhaps why arguments about AI writing become confused when “writing” is treated as a single capability. Producing competent prose, satisfying a genre contract, developing an argument and inventing a form are different games with different degrees of playability.
+This essay offers a small example, though not quite in the obvious way. I had the idea of a “curiously playable universe” before beginning the conversation that eventually produced it. I deliberately withheld the hypothesis at first. Instead I began with Lean and the history of mathematical formalization, then worked backward into Hilbert, Brouwer and Grothendieck and sideways into programming and physics. My prompts were not innocent: the hypothesis was guiding which trails I chose to follow. But it was not yet part of the shared context of the conversation, and so it could not organize the AI’s answers in advance.
+This created a useful asymmetry. I knew roughly what I was looking for; the AI did not. I could ask whether axiomatization had made mathematics newly amenable to machine proof, whether programming and physics had undergone analogous migrations toward powerful representations, whether those representations were lossy in the Scottian sense, and whether Brouwer’s insistence on a preformal mathematical wilderness complicated the picture. Each question exposed another piece of the terrain without instructing the model to make everything fit the eventual thesis. The conversation therefore functioned partly as a probe. I was testing whether the idea of playability would emerge naturally from domains examined without naming it as the organizing concept.
+Only after that groundwork did I put the hypothesis explicitly on the table. At that point the character of the work changed. What had previously been a sequence of locally motivated explorations could be gathered into a common representation: wilderness, legibility, domestication, closure, verification, automation and meta-games. Mathematics, programming, physics, Go, protein folding, agriculture and markets could now be compared as instances of the same proposed process. The game board had existed privately and provisionally before the conversation began; what the conversation did was test it against the terrain, modify it, and eventually make it explicit enough to become a shared game board.
+Once that happened, a language model could do a great deal of downstream work extremely quickly. The argument could be outlined, cases arranged, objections incorporated, transitions constructed and prose generated. Even the decision to begin the finished essay with mathematics and delay the master hypothesis until the second act reproduced, in miniature, the exploratory structure of the conversation that preceded it.
+This suggests a somewhat different account of the playability of AI-assisted writing. The crucial human contribution need not be either writing the sentences or supplying a complete specification from which the sentences follow. It can consist in maintaining a partially private model of the game that is not yet sufficiently articulated to automate: choosing probes, noticing which responses are interesting, withholding a premature frame that might collapse exploration into confirmation, and deciding when enough structure has emerged to expose the game board explicitly.
+The meta-game emerging above writing may therefore involve constructing—and strategically revealing—the game boards on which execution takes place. If competent prose becomes cheap, more resources can be directed toward finding the question, assembling unlikely source domains, inventing the useful distinction, designing sequences of inquiry, recognizing when an analogy is productive, deciding what belongs together, and establishing the criteria by which a finished object ought to succeed. The writer becomes somewhat less like a person manufacturing sentences and somewhat more like an architect and player of generative constraints.
+That does not mean prose becomes irrelevant. A game board badly realized is still a bad essay, just as a brilliant architectural plan does not eliminate the need for a building. Nor does it mean the higher-level activity is permanently reserved for humans. AI systems may themselves become increasingly capable of inventing representations, designing probes, discovering genres and constructing new games. The point is only that automaticity at one level does not end the activity. It displaces its frontier.
+Writing may therefore be undergoing the same transition described throughout this essay, only messier and in public. Some of its old games are becoming startlingly playable. Some are approaching automaticity. New games are forming above them. And beyond those remains the poorly mapped territory from which the next game board might emerge.
+
+Unsubscribe https://substack.com/redirect/2/eyJlIjoiaHR0cHM6Ly9jb250cmFwdGlvbnMudmVua2F0ZXNocmFvLmNvbS9hY3Rpb24vZGlzYWJsZV9lbWFpbD90b2tlbj1leUoxYzJWeVgybGtJam94TkRVMk16TXhPU3dpY0c5emRGOXBaQ0k2TWpFME16STNNelE1TENKcFlYUWlPakUzT0RnMk5EUTFPREFzSW1WNGNDSTZNVGd5TURFNE1EVTRNQ3dpYVhOeklqb2ljSFZpTFRrNU56TWlMQ0p6ZFdJaU9pSmthWE5oWW14bFgyVnRZV2xzSW4wLk9IbEo2YWlXMkFkRnZFNngwNU1VQkxodWpjQl9DaVlsbVhRcmxfQVhrMFkiLCJwIjoyMTQzMjczNDksInMiOjk5NzMsImYiOnRydWUsInUiOjE0NTYzMzE5LCJpYXQiOjE3ODg2NDQ1ODAsImV4cCI6MjEwNDIyMDU4MCwiaXNzIjoicHViLTAiLCJzdWIiOiJsaW5rLXJlZGlyZWN0In0.OskJ5jm8cIsaxi7ocWZGCu0MX8A_NiNax2fukbD90DY?

@@ -1,0 +1,11 @@
+---
+id: "1a05cb2ddd4b8143"
+subject: "The “J Crew Crew” Edition"
+from: "\"Why is this interesting?\" <whyisthisinteresting@substack.com>"
+to: ""
+date: 2026-09-01 11:09:27
+labels: ["CATEGORY_PERSONAL", "INBOX", "UNREAD", "WITI"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "UNREAD", "Label_5752899537867939131"]
+---
+<WITI Sponsor> An interesting concept from WITI reader Daniel: Most bucket lists die in a notes app. This one leaves its mark. I built BucketListerChallenge — a memory-making platform where you name a personal challenge, log each Moment as you live it, and end up with printed Moment Cards for your wall or shelf. Not a goal tracker. A story arc. Live now → </WITI Sponsor> Colin here. There’s been a kerfuffle about some of the recent J.Crew advertising. The recent campaign with Emma Chamberlain leveraged a weird aesthetic to market a “tiny rollneck sweater.” Per
+This was a campaign for a product, so it’s not like they were taking the entire brand that direction. But it did feel a little thirsty, and not super aligned with the other elements of what they have going on. Why is this interesting? The one redeeming factor from this otherwise forgettable campaign was that it reminded me of a user-generated campaign from long ago: J.Crew Crew! In short: it was a series of lo-fi comedic skits that used the J.Crew catalog to narrate a mystery based on the characters within. And it was a brilliant concept. The models in the catalogs solved murders while trying to sell you cable-knit sweaters. It got passed around avidly on the Buzzfeed-era internet. A dive through Vimeo leads me to Meghan O’Neill’s archive, and I firmly believe The year they were released, 2014, coincided with an impeccable run for the brand. Mickey Drexler and company were putting out stuff that was firmly in the zeitgeist; they had the sainted Obviously the skits were incongruous with how tight the brand felt, but they also just made me smile at a more raw, fun time on the internet, where a Vimeo account, some slapdash editing, and an actual concept were enough. And I’m sure the videos made the rounds in their 770 Broadway offices, even if the brand stewards never engaged! You're currently a free subscriber to |

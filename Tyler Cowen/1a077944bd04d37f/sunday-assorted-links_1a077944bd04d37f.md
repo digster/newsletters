@@ -1,0 +1,13 @@
+---
+id: "1a077944bd04d37f"
+subject: "Sunday assorted links"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2026-09-06 16:36:41
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699"]
+---
+1. [Vishy now thinks Pragg is number one in the chess world](https://marginalrevolution.com?action=user_content_redirect&uuid=5c0cd76862eb6c15045a72d31370914a065a26da0b710f00a8877ee1f6548e69&blog_id=42693868&post_id=93714&user_id=262258391&subs_id=225460721&signature=4e2e3a14114c6a4c6f451accac269cf2&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly94LmNvbS9FbmRnYW1lYWlDaGVzcy9zdGF0dXMvMjA5NDQwMDg4MTg1MjY2NTg4Ng=&email_id=10ce936f8a1ce2d41490a60268d85284).
+2. [Do children grow continuously, or grow in fits and starts?](https://marginalrevolution.com?action=user_content_redirect&uuid=24867b371ba0fd05a4f628d4be79a804fab080b77e5c046f8c2e1ec12519e207&blog_id=42693868&post_id=93714&user_id=262258391&subs_id=225460721&signature=642ade670faded00244974b96fda0b96&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly9zdGF0bW9kZWxpbmcuc3RhdC5jb2x1bWJpYS5lZHUvMjAyNi8wOC8zMS9maXRzLWFuZC1zdGFydHMv&email_id=10ce936f8a1ce2d41490a60268d85284)
+3.[ It remains my view that Ferrante is the husband and wife team](https://marginalrevolution.com?action=user_content_redirect&uuid=1f17ae53e2e28617f6182df17a1a38fd97696fb2a95ceb07d5f676f452c19a67&blog_id=42693868&post_id=93714&user_id=262258391&subs_id=225460721&signature=455af4dc0373b16f46355bf1f840f43c&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly9vcGVuLnN1YnN0YWNrLmNvbS9wdWIvc3RyYW5nZWNsYXJpdHkvcC9lbGVuYS1mZXJyYW50ZS1hbmQtdGhlLXBlb3BsZS13aG8/cj0xZzR1YyZ1dG1fbWVkaXVtPWlvcw=&email_id=10ce936f8a1ce2d41490a60268d85284).
+5. "US annual interest expense is up to a record 18.5% of federal government revenue. This is officially above the previous record of 18.4% set in 1991. This percentage has more than QUADRUPLED over the last 4 years as interest expenditures on public debt skyrocketed." [Link](https://marginalrevolution.com?action=user_content_redirect&uuid=326ea43ed3db2efcc178f133eaef6bca47023e7bd8da52f3bdf5196c67943cf2&blog_id=42693868&post_id=93714&user_id=262258391&subs_id=225460721&signature=e24d3adedb4692401e77026554448792&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly94LmNvbS9Lb2JlaXNzaUxldHRlci9zdGF0dXMvMjA5NDIzNTczMTc1NzUxMDgzNA=&email_id=10ce936f8a1ce2d41490a60268d85284).
