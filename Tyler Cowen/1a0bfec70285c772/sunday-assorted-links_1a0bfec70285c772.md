@@ -1,0 +1,13 @@
+---
+id: "1a0bfec70285c772"
+subject: "Sunday assorted links"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2026-09-20 17:45:38
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699"]
+---
+3. [Dead brains and the piano??](https://marginalrevolution.com?action=user_content_redirect&uuid=ff0e8cc40ef0a4c43e7298c297cd36799c33cc7d7cf22fe7ebe4c52ce143d97a&blog_id=42693868&post_id=93839&user_id=262258391&subs_id=225460721&signature=c14a56c40b8bc7d327f69cb27144dc78&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly94LmNvbS90aGVzdXBlcm1hbm54L3N0YXR1cy8yMTAxMjQ2OTIyNzk1MzkzMzkyP3M9NjE&email_id=bbd94693a70bc87be4e2de26baefdd1a)
+4. "[A real contribution of AI is showing the critical weaknesses of humans and human structures.](https://marginalrevolution.com?action=user_content_redirect&uuid=27e07b72149368058bca1aa1e2e9ac6a2b3739ce8acf388a684a0665198ad7c8&blog_id=42693868&post_id=93839&user_id=262258391&subs_id=225460721&signature=039e51fe08ab926edf717f7e45178029&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly94LmNvbS9hbmVjZG90YWwvc3RhdHVzLzIxMDE2NDEzMzY0MzY5NjE3MzA&email_id=bbd94693a70bc87be4e2de26baefdd1a)" But can we take it?
+5. [When did the Chinese reach New Zealand?](https://marginalrevolution.com?action=user_content_redirect&uuid=0c86b465eb4eeec63fec65700a76bced68c5685e255f5f4a8d93ba933a5c8918&blog_id=42693868&post_id=93839&user_id=262258391&subs_id=225460721&signature=31dca9615516c0fe83babed61c626126&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly93d3cuc2NtcC5jb20vbmV3cy9jaGluYS9zY2llbmNlL2FydGljbGUvMzM2Nzk2OC9jb3VsZC1jaGluZXNlLWV4cGxvcmVycy1oYXZlLXNldHRsZWQtbmV3LXplYWxhbmQtbWFvcmk&email_id=bbd94693a70bc87be4e2de26baefdd1a) (speculative)
+7. "[you have no idea how fast the world will accelerate AI progress if a world war began](https://marginalrevolution.com?action=user_content_redirect&uuid=3fb8f49ad8ecd6c6177300395f31ef11950018415476581389f7ee43f823813e&blog_id=42693868&post_id=93839&user_id=262258391&subs_id=225460721&signature=705787a62801f1b194206d2054758fae&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly94LmNvbS93aWxsZGVwdWUvc3RhdHVzLzIxMDE2Njk2MjE4NTQwNzcwNDU&email_id=bbd94693a70bc87be4e2de26baefdd1a)" -- no major war (in addition to the status quo) would be one excellent move in the direction of AI (and other) safety.

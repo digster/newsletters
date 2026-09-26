@@ -1,0 +1,19 @@
+---
+id: "1a0b965a43334f21"
+subject: "The Age of Wonders and Terrors"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2026-09-19 11:20:41
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+Scott Aaranson, theoretical computer scientist [writes](https://marginalrevolution.com?action=user_content_redirect&uuid=01e882eb0d88fd7b73e986ee3ba436b45b0292088d90089bc26805a2a4c0872d&blog_id=42693868&post_id=93825&user_id=262258391&subs_id=225460721&signature=539655bdfb4ff2e58bb17717b696376b&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly9zY290dGFhcm9uc29uLmJsb2cvP3A9MTAwNjI&email_id=8fce2c4d3d1ce1f3e674f0e11902dfee):
+My position on AI is merely the conservative, skeptical position of 2006, updated with intellectual honesty for the reality of late 2026. And that position, if you need me to spell it out, is as follows:
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIt seems to me that the Singularity has already started; it’s just wildly unevenly distributed. Yes, I still unload the dishwasher and clip my toenails. On the other hand, in whatever years I have left, I don’t expect that I’ll ever again prove a theorem because I’m actually needed to prove it. If I do, it will only be for my or others’ enjoyment or edification.
+The test is this: if we took the news of these past few weeks and sent it back in time twenty years, would I agree that it looked like the beginning of an AI Singularity? The intellectually honest answer is: yes, absolutely. But then that’s all we need. No backsies.
+I feel like it would be healthy for everyone to stop grinding their ideological axes, their sentiments about Dario Amodei or Sam Altman, for long enough simply to acknowledge that the wonders and terrors are here. They couldn’t be here more clearly if the sky had turned reddish-orange like in the Matrix movies.
+It’s here clearly enough that, when I put my kids to sleep at night, I now feel it in the pit of my stomach: what sort of future can they possibly have? What could they learn today that could possibly be relevant to that future? (Yesterday, my 13-year-old daughter joked unprompted that, if she wants to become a mathematician, it now looks like she has maybe two more weeks.) Certainly when my grad students want to discuss what sort of careers might await them on graduation, I no longer have any clue what to tell them.
+...For anyone who says AI doom sounds like an apocalyptic religion, that the rationalists/Singulatarians seem like a Bay Area cult, that Eliezer Yudkowsky gives off the vibes of a messianic prophet: yes, yes, and yes. But crucially, today you’re no longer being asked to believe in arguments and extrapolations, but only in the front-page news. Accepting the reality of the coming machine god after it’s solved Navier-Stokes and dozens of other longstanding open math problems (while dramatically ramping up in capability every month), is sort of like accepting Jesus after he’s returned to earth on the gleaming cloud. It’s the epistemic bare minimum.
+Yes, there’s still enormous uncertainty about what the rest of our lives will look like, but as far as I can tell, there’s no longer any real uncertainty that it’ll all mostly revolve around AI, and the extent to which we succeed or fail at directing its power toward human flourishing.
+By any accounting that doesn’t stack the deck, Eliezer Yudkowsky was right about what the greatest challenge facing civilization in our lifetimes was going to be, and you and I were wrong about it. Why I was wrong is a question I’ll ask myself every day in whatever time remains. But, you know, at least I updated once the prophesied wonders and terrors actually started arriving! If you haven’t done likewise, why haven’t you?

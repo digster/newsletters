@@ -1,0 +1,34 @@
+---
+id: "web-6db228d8ee46e77e"
+subject: "QC: Implications of life in the fast lane"
+from: "Ba from The India Notes <theindianotes@substack.com>"
+to: ""
+date: 2024-11-02 05:54:17
+labels: ["Dharmesh Ba"]
+label_ids: ["Label_6503034974112952532"]
+source_url: "https://newsletter.theindianotes.com/p/qc-implications-of-life-in-the-fast"
+origin: "backfill"
+---
+I was at a party earlier this year when a very senior executive from Google told me that the house help(s) in the society prefer working at homes that regularly order groceries via quick commerce. Working at quick commerce homes makes their lives a little easier - less planning, less waiting, and more freedom.
+I recently moved to a new home in Bangalore, and one of the first things my wife and I figured out was whether our new location was Zepto-friendly or BlinkIt-friendly (i.e., we tried to determine which dark store was nearby). For people visiting a metro city like Bangalore or Delhi from smaller towns, quick commerce feels like magic - a feature from the future.
+To be honest, quick commerce can be addictive. While many analysts and VCs on Twitter will show you macro trends about why quick commerce will or won't work, let me take you through an alternate societal lens.
+Imagine its Valentine's Day, and you're expected to gift your partner something unique. You have two choices:
+Put in effort, scout for the best gift possible by understanding her preferences, and discover something special to buy for her.
+Tap on Blinkit, where there are pre-curated roses that get delivered to your home in 8 minutes.
+Which of these options would earn you more brownie points in a relationship? The correct answer is (1). If you think it's (2), then good luck finding a partner or saving the one you have. Many times, it's not the action but the intent behind it that forms a stronger identity in a relationship.
+Now extend this concept to millions of homemaker women in India whose identity is solely based on how well they take care of the family. It's their effort to curate and purchase the best quality items at the most affordable price that forms their identity in these relationships. Habits don't change; they get replaced. If you have to convince these homemakers to use quick commerce, their identity will need to shift from being a homemaker to a breadwinner in the family. Unless that happens, it's going to be a struggle, but I'm wishing it happens faster than ever.
+It's documented in multiple instances that when a woman in the family braves all the odds to contribute financially to the household, the family members chip in to be flexible and change their preferences.
+I recently asked my aunt, who is a homemaker in the heart of Bangalore, if she uses quick commerce. She laughingly replied, "If everything comes to my doorstep, then what is my excuse to step out?"
+One of my romantic pet peeves is spending time in a supermarket with my partner. I have always loved visiting different supermarkets with my wife. There is something romantic about walking through the aisles, moving from one section to another, envisioning our life unfolding in the web of consumerism.
+It's not just my pet peeve; Indian families, in general, love spending family time in grocery stores. Going monthly shopping to a supermarket solves both grocery and family entertainment problems in one shot. In his book "It Happens Only in India," Kishore Biyani highlights the behavior of families hanging out at grocery stores as a reason why he chose to have wider aisles compared to narrow ones like in Costco or Walmart.
+Now, if we move towards a quick commerce world where everything comes to your doorstep in 10 minutes or so, what do you do with the rest of your time? Consume content? Laze around? Be lonely? Have you ever thought about the fact that the same crowd who are elated with 8-minute grocery delivery are the ones standing in mile-long queues at an IKEA counter, waiting hours to book a table at Naru Noodle Bar, or waiting in a digital queue for Coldplay tickets? I'm not saying quick commerce leads to loneliness, but when we solve for grocery at our fingertips, we only solve the utilitarian aspect but miss the psychological one.
+That is why people long for unique experiences that define them. When life becomes extremely efficient, it leaves us with more time on our hands, and an empty person with more time starts questioning their identity and longs for experiences and relationships that define them. Going to a Coldplay concert or eating at Naru Noodle Bar are not just experiences; they become part of your identity. They help you define your tribe.
+I hope to see our offline experiences getting a sharper upgrade in terms of experience, aesthetics, and customer service. As the bar is set higher in terms of expectations, premium becomes basic, and luxury becomes the aspiration.
+Will Kirana stores die? Unfortunately, the answer is yes. It's not solely because of quick commerce; there's more to it than meets the eye. One of the biggest moats a grocery store has is its location and the business owner's ability to understand the pulse of the neighborhood. You make more money in the business if you can achieve a higher turnover of products on the shelf.
+In most cases, once you open a store, FMCG distributors come looking for you, requesting that you stock their products. It's an aggregation game. A kirana store is nothing but a glorified warehouse with a storefront. When you ask a small to medium kirana store owner why they started the business, you typically find one of these answers:
+"I don't want to work under anyone, so I started on my own."
+"I found an attractive place with nice visibility up for rent, and I grabbed it."
+For digital natives who start businesses with business model canvases and MVPs, this decision-making process might sound unrelatable. Since most kiranas are run by individual proprietors, their personal goals and business goals are usually intertwined. Once they achieve their personal goals of buying a home, getting children educated and married, they continue to run the shop without much change in their way of doing business, as it has become part of their identity. In short, they are resistant to change.
+You can gauge the moat of a business by identifying how keen one generation is to pass it on to the next. Running a kirana store is a low-margin, low-moat business. For the second geenration taking over a small kirana store is the last option. Kiranas that are resistant to change will fade away, irrespective of quick commerce or not.
+"For a business to be truly customer-focused, it needs to ignore what people say. Instead it needs to concentrate on what people feel." - Rory Sutherland, Alchemy
+Quick commerce makes people feel powerful. Undoubtedly, it's a good business. However, its societal impact would be interesting to revisit in the next decade.

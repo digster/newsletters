@@ -1,0 +1,12 @@
+---
+id: "1a09e22b5d554c9a"
+subject: "Does AI assistance enhance or erode expertise?"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2026-09-14 04:17:49
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+From [a new NBER working paper](https://marginalrevolution.com?action=user_content_redirect&uuid=9f1f8d603c9816443f7c2e27a8226e3b5216595bc20e3f1649e73d0f46fa5553&blog_id=42693868&post_id=93761&user_id=262258391&subs_id=225460721&signature=db1835f929b3c148bd621d5d7645c2c5&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly93d3cubmJlci5vcmcvcGFwZXJzL3czNTcyMCNmcm9tcnNz&email_id=e328d643fdd9b74f8893dc9e9e345fda):
+Whether AI assistance builds or erodes professional expertise is unsettled. In a pre-registered three-month randomized controlled trial, we gave 133 practicing patent lawyers at eleven U.S. intellectual property law firms access to a custom AI drafting assistant and measured both their performance while using AI and their professional judgment afterward without it. All work was scored by blinded expert patent attorneys. Paralleling findings from other white-collar domains, AI access raised the quality of work delivered on benchmark patent drafting tasks at 10 days (0.34 SD, p = 0.03) and 90 days (0.38 SD, p = 0.01), with larger gains among junior lawyers. After three months, all subjects redlined an existing patent application without AI, a core task of patent practice requiring expert judgment. Treated lawyers outperformed controls by 0.32 SD (p = 0.04), but this advantage was concentrated entirely among senior lawyers (0.45 SD, p = 0.02). Junior lawyers showed no average gain; their scores instead bifurcated, with sharply fewer mediocre scores offset by more poor and more good ones. The largest gains from AI thus accrued to the lawyers who retained the least. Foundational expertise may be a prerequisite for extracting durable skill from AI-assisted practice.
+That is by David Autor, et.al. Do note that over time the allocation of humans to tasks will evolve so that more of the humans become more productive, not less. RCTs somehow have the odd disadvantage of requiring too many things to be held constant, and so they can miss the benefits of longer-term adjustments.

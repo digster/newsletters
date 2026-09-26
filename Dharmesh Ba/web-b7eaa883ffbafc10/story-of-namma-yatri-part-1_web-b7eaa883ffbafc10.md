@@ -1,0 +1,55 @@
+---
+id: "web-b7eaa883ffbafc10"
+subject: "Story of Namma Yatri - Part 1"
+from: "Ba from The India Notes <theindianotes@substack.com>"
+to: ""
+date: 2023-11-29 01:56:49
+labels: ["Dharmesh Ba"]
+label_ids: ["Label_6503034974112952532"]
+source_url: "https://newsletter.theindianotes.com/p/story-of-namma-yatri-part-1"
+origin: "backfill"
+---
+Hey there👋,
+It's Dharmesh Ba! Thanks for your love towards The India Notes newsletter. I run [1990 Research Labs](https://www.1990labs.com), a boutique user research consultancy based in Bangalore. We're on the lookout for new projects to start in January 2024. If you'd like to collaborate or know someone who might, [drop us a ping](https://collaborate.1990labs.com/). We've worked with top startups like CRED, Plum Insurance, Udaan, Allen Digital, and Jar. Now, let's continue with the story.
+Do you know Bangalore's favourite game? No, not cricket and not the IPL (sorry, RCB). It's the game of finding cabs and autos every morning before going to the office. It's a multiplayer game that a Bangalore techie plays in the morning hours. How do you play it? It's simple. You open UBER, OLA, Rapido on your phone, pray to your favourite god, and hope someone accepts the ride. Then you call the driver and converse with him in all the languages you know to ask if he is coming. Start with "Bhaiyya, aap aayenge?" (Hindi), then move on to "Guru, barthera?" (Kannada), and maybe end with "Anna, vareengala?" (Tamil). This week, I'm going also to try "¿Vienes a recogerme?" (Spanish). I mean, why not?
+The customer blames the driver, the driver blames the app, and the app blames the founder, who is busy building electric vehicles. What's the solution? In my decade of experience, everyone has spoken only about the customer-centric way of solving problems. Maybe there is merit in an alternate approach: to build a marketplace based on drivers. And that's what Namma Yatri sets out to do.
+Auto drivers and unions
+Be your boss under me
+Commission on the apps
+Building an open mobility app
+Birth of Namma Yatri
+How is Namma Yatri different?
+Who is Namma Yatri targeting?
+Highlights of Namma Yatri app
+In India, auto-rickshaws, fondly called tuk-tuks, provide last-mile connectivity. They bridge the gap between overcrowded public transport and personal vehicle ownership, offering livelihoods to millions by being more affordable than taxis. Over the years, they have become a cultural symbol in India, often featured in cinema, media and tourism.
+A large chunk of auto drivers in India operate independently. Each individuals much like small fish in a big pond, band together to form unions. It's simple: there's strength in numbers. Alone, each driver is just another voice lost in the chaos of bustling streets and ever-changing rules. But together, they're a chorus that can't be ignored and hence driver unions are formed. They share the same ups and downs - the jolting fuel prices, the tussle with traffic laws, and the wrestle for fair fares.
+Lately, auto driver associations have grappled with modern challenges stemming from ride-hailing apps like increased commissions, variable pricing, account suspensions, and concerns over driver welfare. The Indian Federation of App-based Transport Workers (IFAT) represents a group advocating for those in the app-based transport sector.
+Initially, ride-hailing services enticed auto drivers with attractive perks such as bonuses, financing deals, and the prospect of consistent earnings. However, as time passed, these drivers were at the mercy of ever-shifting algorithms and unpredictable company policies, leading to diminished income and shattered aspirations. A widespread feeling of discontent now pervades among the drivers riding for these app-based aggregators, which has led to protests and strikes in cities like Bengaluru, Chennai, and Kochi.
+Ride-hailing apps typically charge a commission of 15-25% on the total ride fare. However, the Karnataka government recently intervened and capped the commissions at a maximum of 10%. In response, an Uber spokesperson in India has stated to the media that any commission charged below 15% is not viable for the organization. They have also hinted at the possibility of limiting auto services in Bangalore due to this change.
+In 2021, the Kerala Cab Drivers Union sought assistance from Beckn, creators of the ONDC open commerce protocol, to develop a platform centred around drivers as a response to existing ride-hailing applications. Beckn suggested they collaborate with Juspay, a payment aggregator, to create this driver-oriented application. At first glance, the partnership between a payment aggregator and a mobility service for auto drivers might seem unusual. However, the underlying rationale becomes clear when we consider the technology for societal good philosophy espoused by Vimal Kumar, the founder of [Juspay](https://juspay.in/).
+In addition to their core service of facilitating payment transactions for major technology companies such as Myntra and Swiggy, the group is deeply committed to addressing social issues through technological innovation. They gained prominence for their work on the BHIM UPI application, which is supported by the government, and for creating the widely recognized UPI Pin interface used across various UPI applications, in partnership with the National Payments Corporation of India (NPCI).
+Juspay responded to the Kerala cab union's proposal by creating Yatri, a driver-centric mobility aggregator platform tailored to their needs. The app's inception marked a collaboration where Juspay developed the technology while the Kerala Cab Driver Union managed operations. Yatri was designed with an exclusive onboarding process, where drivers underwent a manual vetting by the union prior to gaining access. Although this approach limited the app's rapid spread, it was well-received by the drivers.
+As word about the Yatri app spread, the Bangalore auto driver unions approached Juspay to build a similar app for them in Bangalore, and the infrastructure was cloned to create Namma Yatri. The difference here is that Juspay operates Namma Yatri entirely along with marketing with inputs from the auto drivers themselves as opposed to Kochi’s Yatri app, where they were mere tech partners.
+In August, they collaborated with the Bangalore Auto Union to onboard 100 auto drivers and execute a pilot program in Bangalore. In October 2022, Uber and Ola were banned in Bangalore for one day as the courts attempted to regulate their pricing policies. During this time, they were developing Namma Yatri and the team leveraged this as an excellent opportunity to launch Namma Yatri.
+On November 1st, 2022, Namma Yatri was launched to the public, offering open onboarding for all auto drivers. At a time when there was an ongoing debate about these platforms and a search for an alternative, Namma Yatri emerged as a potential solution.
+Namma Yatri leverages a “participatory design” approach as they seek to solve the drivers' problems, engaging with them directly instead of making wild guesses. The team at Juspay recognized that people are at the heart of technological developments like these. Hence, the goal was not to put technology first, but be driver first as a platform. The drivers are periodically invited to the Juspay office to have long conversations to discuss the app's features and challenges. One such interaction gave rise to a feature called pickup fee, which is the fee that the drivers wanted to levy on customers to cover the distance travelled to pick up the customer for a trip.
+Having drivers as the centre of product development gives them the sense that Namma Yatri is their app, and they are proud to talk about it and share it with others.
+There are three kinds of auto drivers:
+Drivers who do not use an app to find riders.
+Drivers who use multiple apps and juggle between them.
+Drivers who exclusively use one app.
+Namma Yatri is currently emerging as a strong contender as a ride-hailing app option for drivers, alongside OLA, Uber, and Rapido. The goal for the Namma Yatri team is to showcase their value to the auto drivers and to emerge as the sole, reliable, and trustworthy app for them.
+Trip fares are based on government-stipulated prices. However, drivers can add an amount within a specific range to account for high traffic or bad weather. This approach gives drivers more control and prevents them from operating at low prices or losing customers to surge pricing. The additional fee that drivers can opt for is capped based on the trip's distance.
+By default, the app assigns a driver but also gives customers the option to select from multiple drivers. Customers can then choose the most suitable option based on the lowest quoted price or ratings. Currently, ride requests are relayed to drivers within a 1.5 km vicinity.
+In the spirit of complete transparency and a commitment to regaining the trust of drivers, Juspay, a payment gateway, has decided not to be involved in ride payments. The settlement of ride fares on Namma Yatri is done directly with the drivers through cash or UPI.
+Customers also have the option to provide additional tips to the drivers to entice them to accept rides faster.
+Namma Yatri, initially a zero-commission platform, now offers a subscription model for drivers. They can choose to pay ₹25 per day for unlimited rides or ₹3.5 per ride for up to 10 rides a day, with the rest being free (totalling ₹35 per day). This subscription fee covers platform maintenance, server costs, and operational expenses. Despite the fee, drivers are still satisfied as it is significantly lower than other platforms charge. Juspay plans to reduce this cost for drivers further as they expand their operations.
+Given Namma Yatri's low commissions, it's natural to wonder about their long-term business model and how they plan to make money. Additionally, passengers may be curious about how Namma Yatri ensures their safety and are interested in their current performance and future plans. We'll address these topics in the second part of our Namma Yatri series next week, so stay tuned.
+What is your opinion on Namma Yatri? Share your comments below.
+(Fin)
+Thanks to Mags (product head) and Ankit (ex-marketing head) at Namma Yatri for adding valuable insights to the story.
+Here are some interesting links to dive deeper into Namma Yatri:
+[1. Namma Yatri reception in Bangalore ](https://bangaloremirror.indiatimes.com/bangalore/others/new-auto-ride-app-in-town-is-picking-up-pace/articleshow/104113734.cms)
+[2. The open mobility protocol by Beckn](https://becknprotocol.io/kochi-gets-the-worlds-first-open-mobility-network/)
+[3. Karnataka’s struggle with ride-hailing apps](https://www.business-standard.com/article/companies/uber-ola-reduce-auto-rickshaw-service-fare-after-karnataka-govt-ban-122100701084_1.html)
+If you’re new to The India Notes, here are some of our most read articles:

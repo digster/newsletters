@@ -1,0 +1,126 @@
+---
+id: "1a0cd814a2e9e448"
+subject: "I Think I Need To Talk About Success (7 Lessons)"
+from: "\"Sahil Bloom's Curiosity Chronicle\" <sahil@sahilbloom.com>"
+to: ""
+date: 2026-09-23 09:01:15
+labels: ["CATEGORY_PERSONAL", "INBOX", "Sahil Bloom", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_1989028747625928812", "UNREAD"]
+---
+It's like having an assistant working alongside you, so that you can focus on more of what matters. I love using the writing assistant for quickly going through my email inbox. I just hold a key and talk. It puts your exact words on the page, five times faster than typing, and cleans up the ums, pauses, and stumbles. Or it can even draft simple things in your voice, with perfect formatting.
+They just got a major refresh too. With a cleaner, calmer interface that’s easier to navigate, and dozens of improvements that make every interaction feel more intuitive –– and Lemon is now availble for Windows users, not just Mac!
+Lemon is saving me hours every week. I got so much value from it that I decided to invest in the company. I highly recommend checking it out.
+7 Lessons From My 2:48 Marathon (That Have Nothing To Do With Running)
+This is one of my most strongly held beliefs:
+You can never bet against the person who just keeps showing up.
+Last week, I sent out a newsletter about my marathon failure. My raw thoughts on the experience. My surprise at falling short. What I learned through it.
+I also closed with a note:
+I’m going to run another marathon this fall to go get that 2:49:59. Not because I need it, but because I want to feel my feet in the arena again soon.
+Well, I did. Just a bit sooner than I expected.
+On Saturday morning, six days after my failure, I drove back to the marathon course at 5am and started running by myself in the cool, brisk pre-dawn darkness.
+And...I got it done:
+Final Distance: 26.25 miles
+Final Time: 2:48:47
+Average Pace: 6:26 per mile
+When I shared my newsletter on the previous failure, I admitted that I'd had an issue all planned that I'd been forced to scrap:
+Lessons From My 2:49 Marathon (That Have Nothing To Do With Running)
+So, today, I'm proud to share that piece...albeit one week later than I originally intended.
+No matter what goals you're going after, these lessons will improve your journey and outcomes.
+1. Progressive overload is the key to progress in any arena.
+Milo of Croton was a six-time wrestling champion of the ancient Olympic Games in Greece. He was known for his incredible strength.
+The legend of how that strength was built is one we can learn from:
+One day, a young Milo saw a small, newborn calf near his home. He picked up the calf and placed it on his shoulders to carry around.
+It was a challenging feat, as Milo was still young, but the next day, he returned and did it again. Then the next day. And the next. And the day after that.
+Each day, the calf grew, but so did Milo.
+After some time, Milo was no longer carrying a small calf, but a young bull. And Milo was no longer a young boy, but a grown man with legendary strength.
+In modern terms, this is called progressive overload. It's the principle of slowly increasing the "load" on a given system to force adaptations and growth.
+The idea applies to anything you want to improve at in life.
+If you want to get stronger, slowly increase the load over an extended period of time.
+If you want to focus better, slowly increase the length of your focus blocks over an extended period of time.
+If you want to get more resilient, slowly extend the duration of mentally challenging activities over an extended period of time.
+My running chart from the last 6 months is an example from my life:
+Nothing heroic in any given week. Just slow, steady adaptation to an increasing load.
+Remember: Progress is returns to the power of time. Time is the exponent. What matters isn't the growth in any given week. But the amount of time you stack it for.
+2. Visualize the work, not the outcome.
+I used to swear by the idea of visualizing my success. All throughout the preparation phase, I'd imagine myself crossing the finish line on the big day. Hitting the target. Achieving the goal.
+But the problem is that the science says this can do more harm than good.
+Visualizing the end outcome before you've done the work to earn it can actually trick your brain into feeling a premature sense of accomplishment. It may even drain your drive to do the hard work required to achieve it.
+The better way is simple:
+Visualize yourself doing the work.
+See yourself getting out of bed early. Hitting those miles in the dark. Writing when nobody's reading. Building when nobody's cheering.
+It'll connect your reward pathways to the actions necessary to achieve your goals and build the neural pathways that make those actions feel familiar and manageable.
+3. Just lay one brick today.
+In 2002, Charlie Rose interviewed Will Smith on his television show.
+During the interview, Smith told a story from his childhood about his father asking him and his brother to rebuild a brick wall on the front of his shop.
+The task was understandably daunting for the two young boys, but a year and a half of daily work later, they completed the wall.
+Reflecting on the experience, Will Smith offered a piece of timeless wisdom (emphasis mine):
+"You don't try to build a wall...You don’t start by saying, I’m going to build the biggest, baddest wall that’s ever been built. You say, I’m going to lay this brick as perfectly as a brick can be laid...you do that every single day, and soon you have a wall."
+Whenever I find myself struggling or lacking motivation, I come back to that line:
+Just lay one brick today.
+It doesn't have to be impressive. In fact, most days, it won't look or feel impressive. But if you keep showing up and laying one brick with focus, you'll eventually build that wall.
+Albert Einstein famously called compound interest the eighth wonder of the world.
+And honestly, he was right.
+Every single time I underestimate the power of compound interest, I get surprised by it.
+I started running in 2023 and couldn't crack 7 minutes for a single mile. A few years later, I'm running a marathon at a 6:26 average pace. That's nothing more than compounding at work.
+It's just laying one brick every single day and watching your wall get built.
+4. You can't win a race in the early miles (but you can definitely lose it).
+This is an old adage of marathon running that I've found true across everything I do.
+Every meaningful "race" in life is a long game. Your career. Your health. Your relationships. They're each quite literally the equivalent of a marathon.
+At the start of the race, it's tempting to take off at a sprint. You have so much energy and enthusiasm at the start. Other people are blowing past you. You feel the pressure. So you start chasing them. The adrenaline coursing through your veins.
+But you can't win any of these races of life in those early miles.
+And you can most definitely lose them by burning yourself out before the real race begins.
+Always run your race. Patient. Conservative early. There's no better feeling than getting stronger and faster as the race wears on (especially as you start to see others fade).
+5. You can't improve what you don't track.
+Reflecting on my last decade of life, there's one major difference between the goals I've achieved and the goals I've missed:
+How deliberately I track my inputs and progress.
+You can't improve what you don't track.
+This applies to every area of life.
+If you want to improve your finances, start tracking what you spend, invest, and save (p.s. I use Origin for this and recommend it to everyone, it's so good).
+If you want to improve your nutrition, start tracking what you eat.
+If you want to improve your strength, start tracking your lifts.
+If you want to improve your happiness, start tracking what makes you happy.
+It's not about doing it forever, but about building an understanding of what works and holding yourself to a standard.
+6. Try to pair a want with a should.
+In every growth journey, there are a few actions that you struggle to find motivation to complete.
+For a marathon prep, the weekly "long run" is that thing for me. It's a 2-3 hour endeavor, generally on a weekend for time reasons, that either eats into my sleep or my family time.
+As a result, it's something I used to dread (and often skip or cut short).
+But this year, I found a science-backed approach that hacked my motivation for it:
+It's called temptation bundling.
+Researcher Katy Milkman coined the phrase in a 2014 study to refer to a behavioral strategy that involves pairing an instant-gratification activity you want to do with a beneficial task you should do (but usually avoid). Her example was listening to The Hunger Games audiobook while at the gym.
+My example was very similar:
+I love listening to "junk food" audiobooks (science fiction, psychological thrillers, etc.), but I never do it because it feels like a guilty pleasure.
+So I started allowing myself that guilty pleasure during my weekly long run.
+Suddenly, I found myself looking forward to the long run because it fulfilled a want. It was a few hours of time immersed in a fun story. I got faster and enjoyed myself while I did it.
+If you can find a way to attach a want to a should, you'll hack your motivation and unlock new growth.
+7. Never bet against the person who just keeps showing up.
+The older I get, the more I realize that showing up is the key to life.
+It sounds so simple, but it's surprisingly rare. Because it's easy to do when you're getting patted on the back for it. It's easy when the rewards feel certain. It's easy when the progress is clear.
+But most people stop when it's none of those things. Few have the courage to keep showing up through the valley.
+So, if you want to win, just show up.
+Show up when it’s hard. Show up when no one’s watching. Show up when you don't feel like it. Show up when the rewards are uncertain.
+Show up.
+You can never bet against the person who just keeps showing up.
+When I posted about this successful second attempt, I got a lot of questions about why I decided to do it.
+Running a marathon by yourself is a uniquely miserable experience.
+I don't have a great answer for that other than this:
+When I say I’m going to do something, I do it. Full stop.
+No, it doesn't "count" in any official race sense, but when you do things for yourself, you are the only judge of what counts and what doesn't.
+I'm counting it. And I feel damn good about making it happen.
+P.S. For the running nerds out there. My most interesting running-specific learning was that the impact of temperature and humidity on performance is dramatic. I ran the same course with the same fitness one week apart. 70 degrees and 90% humidity last weekend vs 50 degrees and low humidity this weekend.
+Here was the heart rate data from the two:
+Mile 21 tells the story:
+Warm, Humid Race: 6:42 pace at HR 182
+Cool, Dry Race: 6:14 pace at HR 170
+Crazy!
+Order My First Book to Unlock Exclusive Bonuses:
+The 5 Types of Wealth is the compass for your journey to a life of wealth that goes far beyond money. It provides the actionable tools to define, measure, and design your life around the pillars that truly create lasting happiness and fulfillment.
+It will help you find your True North and build your life around it.
+Order now and you'll unlock several new, exclusive bonuses:
+Access to my Most Powerful Life Hacks Ebook: 50 timeless insights for simplifying your world and living well.
+Access to The 5 Types of Wealth Digital Community: Join a vibrant group of like-minded individuals committed to creating a life of comprehensive wealth. Connect, collaborate, and grow together.
+Access to The 5 Types of Wealth Launch Workshop: Get exclusive access to the full recording of this transformative virtual workshop, where I’ll guide you through specific exercises designed to help you apply the principles of the book. Watch it anytime at your convenience!
+My all-in-one morning insurance policy since 2011: AG1 Pro!
+I started taking the original AG1 religiously way before anyone knew about it. I was one of their first customers as a college athlete in 2011. I took it consistently for over 10 years before asking the CEO for a link to share with family and friends.
+The brand new AG1 Pro is built on the clinically backed AG1 Next Gen formula and adds 5g of Creavitalis creatine monohydrate, Ca-HMB, and zinc carnosine, targeted support for muscle strength and recovery, metabolic resilience, and advanced gut health.
+Now I don’t need to combine five different supplements to get my full morning stack. It’s all in one scoop.
+If you’ve been thinking about elevating your health routine, now is the time. For a limited time only, head to my link, drinkag1.com/sahil, and use code BACK2ROUTINE to get an extra 20% off your first subscription of AG1 Next Gen OR AG1 Pro

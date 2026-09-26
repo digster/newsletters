@@ -1,0 +1,14 @@
+---
+id: "1a09a7f9e9b723e8"
+subject: "Diversity Is Our Strength?"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2026-09-13 11:20:49
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+Diversity is our strength is a common motto. Indeed it is one of GMU's [core values](https://marginalrevolution.com?action=user_content_redirect&uuid=0e93a880647b4693ed5a2351035e24be4164c378083e2127ab0d7f23ec1bb474&blog_id=42693868&post_id=93794&user_id=262258391&subs_id=225460721&signature=64de1facf75186c8a4bd6c32c2972ab6&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly9icmFuZC5nbXUuZWR1L291ci1ndWlkaW5nLXByaW5jaXBsZXM&email_id=ed5ce7b9d8fa5c62f10ab7b9e3b1a987) but what is the scientific evidence for this thesis? A new [scoping review](https://marginalrevolution.com?action=user_content_redirect&uuid=9310b725925c530f516bfacf7ca7e2065607ab9719f316bfbead74e72387214b&blog_id=42693868&post_id=93794&user_id=262258391&subs_id=225460721&signature=7ea68f8d55b788a23cb6fa053a1b3247&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly9saW5rLnNwcmluZ2VyLmNvbS9hcnRpY2xlLzEwLjEwMDcvczExMTg2LTAyNi0wOTcxNC14I1RhYjU&email_id=ed5ce7b9d8fa5c62f10ab7b9e3b1a987):
+Recent years have witnessed many strong claims that ‘diversity’ leads to more original and impactful science, which is a science-focused form of what we call “The Diversity Hypothesis.” However, what evidence supports the claim that diversity enhances scientific output or impact? This pre-registered rapid scoping review seeks to collate and evaluate the scientific evidence for the Diversity Hypothesis...
+...Based on over 100 scientific articles, we find that only between 15% and 28% of results reported in the literature are consistent with the hypothesis, with the balance of the results not being consistent with it.
+...Overall, the results of the analysis section indicate that there is little empirical evidence that diversity improves scientific output and/or impact. In fact, with the possible exception of disciplinary diversity—a type of informational or viewpoint diversity operationalized at the team level—the majority of the evidence seems to point in the other direction. These findings are robust regardless of how the data is parsed and analyzed. The same conclusions can be drawn looking at the full data set, only the population-adjusted results, or only the results of high quality based on the MMAT analysis.
+Hat tip: [Colin Wright](https://marginalrevolution.com?action=user_content_redirect&uuid=60e06430cbc002c91d66bcb11266c8a3b5ad2f0b41a2b0f91713a6d2fcac9f0e&blog_id=42693868&post_id=93794&user_id=262258391&subs_id=225460721&signature=e93bf06e12eccf2d672098a10b8073cb&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly94LmNvbS9Td2lwZVdyaWdodA=&email_id=ed5ce7b9d8fa5c62f10ab7b9e3b1a987).

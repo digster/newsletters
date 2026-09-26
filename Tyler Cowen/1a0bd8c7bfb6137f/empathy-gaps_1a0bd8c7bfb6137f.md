@@ -1,0 +1,12 @@
+---
+id: "1a0bd8c7bfb6137f"
+subject: "Empathy gaps"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2026-09-20 06:41:34
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+I observed, for example, that when I got an invitation to travel to give a talk in a different time zone, it mattered what time zone I was in when I got the invitation. if well rested, in my home time zone, I would think, No big deal, about making a long trip and would likely accept. However, if I was jet-lagged in a different time zone when the invitation came in, and in reach with the misery of travel, I would be far more likely to decline.
+...Perhaps you've noticed when taking a long-haul flight that waiting for a connecting flight feels much worse if your layover is close to your final destination.
+That is from the new and very stimulating [The Opposite of Happiness: How Bad Feelings Make and Break Us](https://marginalrevolution.com?action=user_content_redirect&uuid=f7e0605c3ad9240fb1763e159542c7217f3df6e3c07896929dd7c8c7e2c5b0f8&blog_id=42693868&post_id=93836&user_id=262258391&subs_id=225460721&signature=db075c3e0b44978fd37301c86c3167eb&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9PcHBvc2l0ZS1IYXBwaW5lc3MtRmVlbGluZ3MtTWFrZS1CcmVhay9kcC8wMDYzNDI3MDYwL3JlZj1zcl8xXzE/Y3JpZD0xUzNKQzZHNzU2VlhTJmRpYj1leUoySWpvaU1TSjkuRUF6Ti1CTDZUb2I4UXpDUG1SWUdFMlBGY0Z6ZVIzODltaXVIa2JhMkJlWFNrOTBWd2dxQ0NmZUhVQTJleW9hZ205SGRNMVRDUXJUTkctMjhZY3p1UTlZQzFxaHpLbFk5WTlPN2kxQmZtOFloYnRmY0RXTzI0MVplaFNweXlSRTJWMEhrMEg5UDhxTlRWUGhoWmQ4NG9TREZGYUFpUTNQSGM1N05QMUFOTTc2ZDlGa3kwSW82eUJHdkhsSjlYOUhvTW14MGdjMFJUcjJMaDVSeFYtQzFkbDRTN3Y4SVBHVGF3NlZObzVsWXUxcy5jclpST0k3TTFfdS1hZnpoZDBpNkZpWHdjdGpMUVdJRXBfS0FwNElMQnJzJmRpYl90YWc9c2Uma2V5d29yZHM9Z2VvcmdlK2xvZXdlbnN0ZWluJnFpZD0xNzg5ODE0MzUyJnNwcmVmaXg9Z2VvcmdlK2xvZXdlbnN0ZWluJTJDYXBzJTJDMTMzJnNyPTgtMQ=&email_id=196963ec2e9b660d2a23b60ad09d4f27), by George Loewenstein. A very Smithian book I might add. Reading this book, one also wonders if the researchers who do behavioral economics are more depressed than average? ("I've met many depressive characters in my life, but one of the most reliably miserable people I've ever known is my friend and collaborator Matthew Rabin.")

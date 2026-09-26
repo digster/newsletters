@@ -1,0 +1,34 @@
+---
+id: "web-7025adcc616fed50"
+subject: "How do online betting apps gain the trust of users?"
+from: "Ba from The India Notes <theindianotes@substack.com>"
+to: ""
+date: 2022-11-22 04:08:01
+labels: ["Dharmesh Ba"]
+label_ids: ["Label_6503034974112952532"]
+source_url: "https://newsletter.theindianotes.com/p/how-do-online-betting-apps-gain-the"
+origin: "backfill"
+---
+Hello 👋 to the new 275 TIN (The India Notes) members who have joined us since the last edition. If you haven’t subscribed, join 1400+ founders, VCs, product managers, designers and startup operators to deconstruct Indian consumer behaviour
+“What was the inflow of money?”
+“It should be around Rs. 20 Crs in the last two months.”
+“In addition to your panel, how many panels do you think are across the country?”
+“It should be around 400.”
+The above was a conversation between Durg [S.P. Abhishek Pallav and Mahadev betting app employee](https://youtu.be/dBqEp-L86uM), after police raided their office in Chandigarh in Oct 2022. Gambling is prohibited under the Public Gambling Act of 1867, but the law is ineffective regarding online betting. Building a product that promises to make people rich quickly is not new. Get-rich-quick schemes have been around for centuries, with new variations constantly popping up. The basic idea is always the same: to find a way to make money without working.
+The internet has enabled online betting to reach a large audience. Apps like Dream 11 and MPL position themselves as fantasy gaming apps where the users create fictional teams to bet money against them. But Mahadev book allows you to bet on live cricket matches. One can bet on the result of a ball, an over, a toss, the match and so on. Mahadev book app isn't available on Play Store or App Store. In fact, Mahadev book does not even have a web app. It just has a landing page and a WhatsApp number.
+Betting promises quick money, and human desire falls prey to it. I'm not a journalist; hence I’m less interested in tracing the racquet, but as a researcher, I'm curious to understand how these betting apps gain trust from Indians to convince them to bet their hard-earned savings on it. I went into a rabbit hole to decode their marketing tactics, which was a sneak peek into two important human behaviours: Desire and trust.
+In this post, I shall reference two online betting apps, Mahadev book and Reddy Anna. Before I dive into their marketing tactics, here is how you get access to online betting apps like Mahadev book / Reddy Anna.
+I initiated a chat with the Reddy Anna betting app’s WhatsApp number to experience the flow first-hand. Below are few screenshots from the conversation.
+The betting apps use the following channels and tactics to gather trust from the users
+Regional influencers in India have a huge fan following. They grab millions of eyeballs every day. But these influencers hardly make money through their content, especially the ones who create content in the entertainment category. A recent report by Kalari Capital states that most make only about Rs.16000 per month. Good brands target only influencers who have captured the English-speaking crowd or those with high disposable income—regional influencers, despite having massive followers struggle to monetise their following. The betting apps prey on regional influencers to promote their website, and their followers, in turn, fall prey to the marketing. The narratives for these advertisements are usually around getting rich quickly or elevating their lifestyle.
+Each of them have anywhere between 500K to 1M followers.
+Reddy Anna, one of the online betting apps, has a thriving Instagram with updates about upcoming live matches. What caught my eye was not the Insta grid but their story highlights. One of the story highlights reads 'Bollywood', and I tapped to view them. The highlight was a collection of videos from Bollywood celebrities like Vivek Oberoi, Kajal Agarwal, Urvashi Rautela, Suneil Shetty and many more endorsing the website.
+Interestingly, these videos were not high-quality ads but an impromptu recordings of themselves talking about the brand. The videos clearly show that the actors are reading the script out loud without much preparation. In some cases, it's just them holding their selfie camera and talking.
+How do you showcase customer love if you are building a SAAS product? Testimonials rite? But the Reddy Anna app uses WhatsApp screenshots to gain trust and authenticity. The Instagram story highlights are filled with WhatsApp screenshots of customers who withdrew the winning amount. We have trained our brains to believe that WhatsApp screenshots are authentic as they are from the closest source of truth compared to displaying selected quotes as testimonials on websites.
+The landing page of the Reddy Anna app showcases the logo Paytm, Google Pay, PhonePe and UPI to indicate that the betting money can be transferred through any of these modes. But the message is not explicit and could be perceived as a brand association with the app, which isn't true.
+Reddy Anna app has two Telegram Channels. The primary channel discusses the bets, which have around 36K+ members. But the group is closed, and only select individuals can reply. The feed is filled only with positive messages praising the app from a select group of people. The channel appears to be a coordinated performance of employees to gain the trust of newbies starting their betting journey. The second group is a Reddy Anna screenshot group, where the screenshots of the winnings and withdrawals are shared. This group has 76K+ members.
+Once I joined the Telegram channel, I was flooded with DMs from various betting apps asking me if I wanted an I.D
+The messages in the primary channel were typed out in different regional languages to have a native connection and all of them were in praise of Reddy Anna. I did some Google translating to gather more context.
+As product builders, we optimise reducing steps in the onboarding for the user. Sometimes we are so ingrained in the problem that we only miss the more significant issue of the user's intention to use the app. The above example is an interesting case study to showcase that when there is high intent to use the app, the users are willing to go to great lengths to access it. I do not promote online betting, but this is an attempt to understand the psychology behind trust. These apps have taken the quote, 'Do things that don't scale,' to the next level.
+Which of the above tactics used by these apps did surprise you? Let me know in the comments. I was truly surprised by the WhatsApp screenshots used as testimonials.
+[Follow me on Twitter for more insights into Indian consumer behaviour ](https://twitter.com/dharmeshba)

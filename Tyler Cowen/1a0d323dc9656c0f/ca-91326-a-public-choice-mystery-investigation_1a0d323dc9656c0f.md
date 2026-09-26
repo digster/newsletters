@@ -1,0 +1,48 @@
+---
+id: "1a0d323dc9656c0f"
+subject: "CA 91326: A Public Choice Mystery Investigation"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2026-09-24 11:18:57
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+Carl Danner writes to me with a political economy mystery. On Sept 9, 2026, The California Public Utilities Commission [announced](https://marginalrevolution.com?action=user_content_redirect&uuid=f0f4b7e712c88c774e3e8ae872fcdc80b9a27d0773cc92d0f5c173e6d40174da&blog_id=42693868&post_id=93848&user_id=262258391&subs_id=225460721&signature=0af4555395e7557b7aa4bb76451de9fa&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly9kb2NzLmNwdWMuY2EuZ292L1B1Ymxpc2hlZERvY3MvUHVibGlzaGVkL0cwMDAvTTYxOC9LNTY2LzYxODU2NjA3Ny5QREY&email_id=d5d5ef3cf57f7e8f1775253dedf60586) a set of clean energy grants but only "for eligible organizations headquartered in ZIP Code 91326."
+I decided to investigate with ChatGPT. The first thing we discovered is that:
+The ZIP-code restriction is about the Aliso Canyon gas leak. More specifically, this is money ultimately intended to benefit residents of Porter Ranch and nearby communities affected by the 2015–16 Aliso Canyon disaster, not a generic clean-energy grant that happens to be located there.
+The Aliso Canyon gas leak was a big deal with thousands of families evacuated for months so it's not surprising that money is allocated to that problem but note that the grants are not for organization serving the people or region affected by the gas leak (which is much larger than zip 91326) but for an organization headquartered in ZIP Code 91326. I smelled a payoff. So I pushed ChatGPT to investigate:
+It may be [a payoff], but the evidence supports a narrower claim: the Round 3 rules look unusually tailored to make Save Porter Ranch a likely recipient.
+The strongest facts are:
+- The legislature appropriated $2 million from the Aliso Canyon Recovery Account for CBO outreach in Los Angeles County, prioritizing a broad “Aliso Canyon Disaster Area” containing 11 communities—not Porter Ranch alone.
+- CPUC’s first round distributed roughly $1.3 million through a normal competitive process across multiple organizations.
+- For Round 3, CPUC suddenly restricts eligibility to organizations headquartered in the single ZIP code 91326, with a maximum award of $75,000 and exclusion of previous recipients.
+- Save Porter Ranch is headquartered at 19360 Rinaldi Street, Porter Ranch, CA 91326 and has been an active participant in CPUC proceedings concerning Aliso Canyon for years.
+That is suggestive because the legislative authorization itself does not appear to require this hyper-local 91326 restriction. It defines the relevant disaster area much more broadly. CPUC therefore seems to have exercised administrative discretion to create a tiny eligibility pool.
+I would distinguish three possibilities:
+- Benign geographic set-aside: CPUC noticed that none of the first-round money had gone to an organization actually based in Porter Ranch and reserved the final $75,000 for a local group.
+- De facto earmark: CPUC knew that Save Porter Ranch was one of very few qualifying CBOs in 91326 and wrote the eligibility rule sufficiently narrowly that it was highly likely to win.
+- Quid pro quo/payoff: the money was deliberately directed to Save Porter Ranch in exchange for support, silence, settlement behavior, etc.
+We have substantial circumstantial evidence for #2, but I have seen no evidence yet for #3. Calling it a “payoff” requires some evidence about why CPUC created the ZIP restriction or about communications with Save Porter Ranch.
+I wasn't satisfied so I pushed the investigation deeper and ChatGPT investigated the legislative history. It found that
+The 91326 restriction did not originate with CPUC staff. The Legislature itself inserted it into the 2026 budget cleanup bill, and it is unusually specific....The evidence [for a payoff] is considerably stronger than I thought.
+...If I were writing this up now, the sharp factual formulation would be: “In an August 2026 budget bill, the California Legislature quietly directed the CPUC to hold an otherwise-unplanned third grant round restricted to nonprofits headquartered in a single Porter Ranch ZIP code. One conspicuous beneficiary of that restriction is Save Porter Ranch, the local Aliso Canyon advocacy organization, which had previously helped lobby state officials over how Aliso Canyon penalty funds should be spent.”
+I then asked ChatGPT to "look for overlap in Save Porter Ranch and CA legislatures, e.g. spouses, children, business partners." It replied:
+The strongest link is Richard Mathews. Save Porter Ranch’s IRS filings list Mathews as a director alongside Matt Pakucko and Kyoko Hibino. Mathews is also the longtime president of the North Valley Democratic Club. He previously served as a regional vice chair of the Los Angeles County Democratic Party and on the California Democratic Party executive board and its Legislation Committee.
+That puts a Save Porter Ranch director directly inside the local/state Democratic Party apparatus, not merely in occasional contact with elected officials.
+...the Mathews connection is stronger than I expected. This isn't just an advocacy organization obtaining support from politicians. One of Save Porter Ranch’s three disclosed directors was simultaneously a fairly senior Democratic Party insider whose political club includes and supports legislators involved in the relevant legislative machinery.
+...The missing piece remains the most important one: who requested the sentence “headquartered within ZIP Code 91326”?
+I enjoyed the fact that ChatGPT seems excited by the new discoveries! Digging deeper:
+That gives us a much tighter network than we had initially:
+Save Porter Ranch
+→ director Richard Mathews
+→ president, North Valley Democratic Club
+→ Schiavo and Gabriel are identified as club members / repeatedly endorsed by it
+→ Schiavo sits on Budget + Utilities & Energy and represents the affected area
+→ Gabriel chairs Assembly Budget
+→ August 28 Assembly budget amendments insert a bespoke ZIP-code restriction
+→ restriction makes Save Porter Ranch an unusually obvious potential recipient.There is another revealing feature. The amendment was handled as part of a budget-bill junior rather than through ordinary policy legislation. The public legislative history is extraordinarily thin: amendment August 28, withdrawn from committee August 30, passed August 31. Neither Gabriel's Assembly presentation nor Laird's Senate presentation told legislators that the “third round” was actually limited to one ZIP code. Gabriel merely said CPUC must offer “a third round of unspent funds”; Laird similarly described a third round “as specified.” The Assembly passed it 72–0.
+That doesn't demonstrate corruption, but it is exactly how a highly localized legislative earmark can pass with effectively zero scrutiny.
+Alas, "the remaining decisive evidence probably isn't indexed on the web." Still, you get the idea.
+Of course, this is small potatoes by the standards of California political/regulatory friends and families but it's a nice case study in political economy. How do we want government to work? Is this ethical? What if the sums were much larger? What if the funds went to an equally well-connected group but for a less justifiable cause?
+It's always surprised me that most public choice is not done in this micro-history way. My early paper on the [Separation of Commercial and Investment Banking: The Morgans vs. The Rockefellers](https://marginalrevolution.com?action=user_content_redirect&uuid=5bcfd449339dd618afc8d5e14291acf8b99042230c974eae3491b84e5302c4ff&blog_id=42693868&post_id=93848&user_id=262258391&subs_id=225460721&signature=4c9bb482d54eb9caa335723eee2107f4&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly9taXNlcy5vcmcvcXVhcnRlcmx5LWpvdXJuYWwtYXVzdHJpYW4tZWNvbm9taWNzL3NlcGFyYXRpb24tY29tbWVyY2lhbC1hbmQtaW52ZXN0bWVudC1iYW5raW5nLW1vcmdhbnMtdnMtcm9ja2VmZWxsZXJz&email_id=d5d5ef3cf57f7e8f1775253dedf60586) (which was inspired by Burch's magnificent [Elites in American History ](https://marginalrevolution.com?action=user_content_redirect&uuid=f60394af9b3782bb53a75dd95f44027cad5302a69b9612b3b283d5dc9b8379ba&blog_id=42693868&post_id=93848&user_id=262258391&subs_id=225460721&signature=75a5ca4cd18ffffd1348e9c1d75be8c2&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly93d3cuY2FtYnJpZGdlLm9yZy9jb3JlL2pvdXJuYWxzL2pvdXJuYWwtb2YtYW1lcmljYW4tc3R1ZGllcy9hcnRpY2xlL2Ficy9lbGl0ZS1hbmQtZXN0YWJsaXNobWVudC82RjlDMTExREExMDM2NDQ5REFFN0I4QjY2MTA3NjMzMA=&email_id=d5d5ef3cf57f7e8f1775253dedf60586)which hardly any public choice scholars know) is one of the few examples. I could have done many more papers along those lines but archival history didn't appeal to me although I did learn a lot digging through Carter Glass's papers at UVA. I suppose economists like models and consider this sort of thing journalism or history at best.
+If you want more details on CA 91326 you can read my [whole conversation with ChatGPT](https://marginalrevolution.com?action=user_content_redirect&uuid=5b284519bf2258a00c5fd081313df4044c71f43009a68392a2e5063e1a7608b4&blog_id=42693868&post_id=93848&user_id=262258391&subs_id=225460721&signature=60b7ee25591d27b9166d256ef4b79947&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly9jaGF0Z3B0LmNvbS9zaGFyZS82YWFmZWU4Yi05OTM0LTgzZWEtODU5Yy1kMmQ0MDAzMDhhMDA&email_id=d5d5ef3cf57f7e8f1775253dedf60586).

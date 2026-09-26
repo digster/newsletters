@@ -1,0 +1,48 @@
+---
+id: "web-19478b15359343ae"
+subject: "#10 | Vallari - I prefer having my dinner on the bed than on a dining table"
+from: "Ba from The India Notes <theindianotes@substack.com>"
+to: ""
+date: 2023-02-02 05:30:58
+labels: ["Dharmesh Ba"]
+label_ids: ["Label_6503034974112952532"]
+source_url: "https://newsletter.theindianotes.com/p/10-vallari-we-have-dinners-on-the"
+origin: "backfill"
+---
+As far back as I can recall, food has always been paired with television. Growing up, my parents and I would always eat while watching TV, a way to escape a conversation and immerse ourselves in mindless entertainment. Over the years, the presence of television during meals has only grown stronger, and with the advent of laptops and smartphones, it continues to evolve in modern households.
+Let's delve into Vallari's world, where this trend plays out in her daily life.
+About the research: 'What's Cooking?' is a user research series aimed at understanding how urban millennial households consume food. All the names and personally identifiable information are masked to honour the participants' privacy. I publish one story from this series every Thursday.
+Vallari, a marketing manager, resides in a rented independent house in Bangalore with her spouse. Her husband operates a photography studio on the ground floor, while the couple inhabits the upper level. The house transforms into a communal lunch space for her husband's employees, with a kitchen on the ground floor, managed by a faithful cook of eight years.
+Vallari and her husband consume non-vegetarian food regularly. Their fridge is always stocked with meat, so they can cook it on alternate days. Their cook comes once a day to prepare their lunch. Vallari and her husband don’t prefer having breakfast; their first meal is usually a well-cooked, heavy lunch. Vallari has a few cups of coffee before lunch and occasionally eats fruits or nuts.
+Vallari and her husband eat the leftovers from lunch for their dinner. If not, they cook their own meal from the items available in their kitchen, such as noodles, pasta etc.
+We always include one protein component in our meals. We rarely have vegetarian meals; we believe in having a balanced diet. We don't skimp on vegetables and only have meat; my freezer is usually stocked with some type of meat.
+Vallari's cook has been a part of the household for eight years, cultivating a close relationship with the family. He accommodates Vallari's needs, continuing the bond even after the family relocated.
+Once a day, he arrives to prepare their lunch, always ready to accommodate larger parties or make additional trips if needed.
+The family's well-stocked fridge allows the cook to take the initiative and suggest daily menu options, starting the preparation with Vallari's approval.
+Over the years, the cook has learned their preferences, creating a harmonious and autonomous cooking routine with familiar dishes rotating week after week.
+The decision to cook is primarily driven by what is available in the house. I'm not explicitly telling him what to cook, I tell him to take out the vegetables and say .. ki kya hai (what is there) .., you figure out what is there. And then, I have to give him a go-ahead. Like in the sense he might come up with the menu and he'll be like, I can make this, this, this. And I have to say, okay, fine. So, he doesn't start making it unless we give him, go ahead.
+For Vallari and her husband, Saturdays are just another working day, but the evening brings guests to the studio for a celebratory alcoholic gathering.
+The group indulges in delivery food, whether it's pizza, chicken wings, or biryani, ordered through the convenience of Swiggy or Zomato. During the week, Vallari is mindful of her health, but she views weekends as a time to indulge and treat herself.
+Sundays are the epitome of a leisurely weekend, with the couple lounging in bed, ordering food through apps, or embracing their culinary skills and cooking lunch.
+We consider Saturday as any other weekday. Sunday, there are 2 types of Sunday. So one Sunday is a hangover Sunday. That means, we are just going to stay in bed and we order food for lunch. Then either eat leftovers for dinner or make some soup for dinner. And then there is another Sunday, Active Sunday. Where you have decided we want to cook. Especially I wake up very fresh on Sunday, then I'll go to Frosties, I'll get my meat or fish or something nice. Then I'll actually cook nice meat. Dinner again, if we are in the mood, we’ll cook something nice. If we have cooked for lunch, we will not cook for dinner.
+Vallari and her husband work together to keep the kitchen well-stocked with groceries, keeping an eye on what they need and replenishing their supplies as needed.
+There's no set schedule for shopping, and purchases are driven by the need to restock specific items. Fresh vegetables and fruits are a regular staple, bought as needed.
+Vallari's shopping habits are a mix of online and offline stores, always mindful of where she can find the best quality items with the freshest produce.
+When Vallari's parents visit, she ensures the kitchen is fully stocked and prepared to provide a welcoming atmosphere.
+Vallari's kitchen practice combines home efficiency, strategization, and intuition. With a cook, carefully chosen groceries, and a delivery app or two, Vallari and her family can host a meal or enjoy a lazy day in with convenient options.
+In the last few years, Vallari has developed the habit of eating her meals in bed rather than at the dining table.
+When she visits her parents' home, she is expected to adhere to the ritual of eating at the dining table.
+She often watches content on Netflix on her laptop while eating dinner, and uses one hand to scoop the rice from the bowl with a spoon.
+I find it so difficult to sit in on a dining table and eating, it's like my mind needs other stimulation. I'm watching something, and I'm eating also with one hand. When you eat on a table, you use spoon and fork, both your hands are thing. I noticed that I just don't like using two hands when I eat. I just want to eat so that I take a bowl and then I can just eat with the spoon or something like that.
+Vallari and her spouse prefer to stay in and dine, finding eating out too costly and impersonal.
+I've also become a very private eater. Like I like to eat alone in peace. In the last 3-4 years, when I'm at home, we don't even eat at the dining table. We eat in bed. Versus when I go to my parent's house, they have a rule that you've to sit and all. I find it so difficult to sit at a dining table and eat, it's like my mind needs other stimulation. So because of all this, dining out behaviour is mostly limited to an experience, it's something where you don't just eat.
+Rarely do they indulge in dining experiences that offer more than just food, like gatherings with a large group of friends or savour dishes that cannot be prepared at home or rare delicacies.
+For these occasions, Vallari is willing to splurge up to 1000 Rupees for a meal, or 2500 Rupees if alcohol is included.
+I'm very anti Dine Out. I have become, before I used to really like eating out. Multiple reasons for that. Number one, I don't see value for money in most places. I find the experience of Dining Out extravagantly expensive and they trade off, like maybe once in a while I go to a place like Harima. So if I'm going Dining Out, I want to spend money and I want have a good experience. So I'll go to Harima. High end restaurant and for me is for the kind of food that I will not get at home. You will not catch me eating Punjabi food in any place or Chinese food. It'll be something which I can't cook or I don't have access to at home.
+Vallari tries to have only healthy food during the weekdays but it becomes difficult to control her urges to order unhealthy food from Swiggy.
+When the cook comes late on a few weekday days, she has to order lunch from Swiggy. When she opens the app, she finds it very hard to choose a healthy option as she is usually bombarded with multiple food options on Swiggy.
+Decision-making on Swiggy is very difficult. If let's say I want to eat a healthy salad. I'll open the app and, the salad that I'll pick will be 450-500 Rupees, which is very expensive. Or it is going to take 45 minutes or one hour to deliver. There are multiple factors, that change your decision. That is when I have a real problem with ordering. That's also when I make bad orders and feel ‘oh god, I shouldn't have ordered this’.
+As Vallari’s husband is a food photographer, they always have snacks and food lying in their house that are sent to them for free. This also becomes a problem when Vallari is trying to avoid junk food.
+Even when their employees order snacks in the evening from Swiggy on weekdays, Vallari tries not to go to the studio to avoid eating junk food.
+Vallari’s story illustrates how households evolve their habits around food over a period of time through multiple rounds of experimentation. I also find Vallari’s shift in food behaviour when the parents are around. As a collective society, the influence of parents on their kid’s life is significant even if they don’t live in the same home. Do drop a comment about your views on the story.
+Follow me on [Twitter (@dharmeshba)](https://twitter.com/dharmeshba) for updates on Indian consumer behaviour. Thanks to [Rajesh Raghavan](https://twitter.com/rajeshraghavan_) for co-writing this piece.

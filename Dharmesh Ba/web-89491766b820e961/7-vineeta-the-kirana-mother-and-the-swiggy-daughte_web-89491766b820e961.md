@@ -1,0 +1,42 @@
+---
+id: "web-89491766b820e961"
+subject: "#7 | Vineeta - The Kirana mother and the Swiggy daughter"
+from: "Ba from The India Notes <theindianotes@substack.com>"
+to: ""
+date: 2022-12-29 03:30:51
+labels: ["Dharmesh Ba"]
+label_ids: ["Label_6503034974112952532"]
+source_url: "https://newsletter.theindianotes.com/p/7-vineeta-the-kirana-mother-and-the"
+origin: "backfill"
+---
+"In every home, there is a CTO – the kid with a mobile phone and internet access."
+I read this quote on Twitter sometime back and have been thinking about it. In today’s story, our protagonist is the CFO - Chief Food Orderer who caters to the cravings of her teenage siblings and the mother. Lets dive in.
+About the research: 'What's Cooking?' is a user research series aimed at understanding how urban millennial households consume food. All the names and personally identifiable information are masked to honour the participants' privacy. I publish one story from this series every Thursday.
+Vineeta, who has twin sisters, lives in Delhi with her parents. She recently graduated from college and works at a startup based in Bangalore. She has a hybrid work arrangement, which requires her to travel to Bangalore every three months. Vineeta has lived in the same home with her family for the past 16 years. Her mother manages the kitchen and occasionally hires a cook for additional assistance.
+Vineeta and her family are vegetarians and don't eat eggs or meat. Their meals mainly consist of dishes from North Indian cuisine and a few from other parts of the country. Vineeta's mom loves cooking and is always trying out new recipes. Their breakfast tends to be more snack-like than a traditional breakfast. Vineeta and her sisters especially enjoy uttapam, which their mom often makes for breakfast.
+Here’s a snapshot of their meal preferences during the week:
+Vineeta's mom is a government school teacher. She starts her day by cooking breakfast and lunch before heading to work. She returns home early in the evening and prepares a fresh dinner for the family.
+The family hires a cook from time to time when guests stay for weeks to ensure the food is prepared fresh and served hot. During winter, her mom returns only by 5:00 PM, and having a cook would ensure the dinner gets ready in time.
+But the family seems to struggle with having a cook around for a long as the children aren’t fond of the cook’s preparations. They tend to skip meals. Hence, the family does not support hiring a long-term cook, as they value quality over convenience.
+Every cook has their own style of cooking and I'm not sure if we are tuned to or habituated to what our mother cooked. But whenever a new cook comes, some of their dishes are delicious. But others don’t feel great to our tastes. My sisters used to hate it and my mom notices this. So, my mom just hires a cook when it's an absolute necessity, otherwise, she will cook on her own.
+Vineeta's mom is responsible for most of the family's grocery shopping and occasionally gets help from Vineeta's father. They prefer to select their vegetables and fruits from local stores carefully.
+For other long-term grocery items, Vineeta's mom orders from a Kirana store and has them delivered for free. She also orders Namkeens and other snack items from the same Kirana store.
+However, Vineeta prefers to order snacks and chocolates from Instamart for her convenience. Vineeta and her mom understand and respect each other's preferences and stick to what works best.
+It's like both of us are okay with own mediums (offline & online). If I order snacks from Instamart and she eats them too. I think a good way to put this would be that there are two main medium that run in our house and we are just okay with it.
+Vineeta gives in to her cravings instantly by ordering food online. Her sisters usually reach out to her to order for them too. They typically spend around Rs. 500-800 per order.
+Vineeta and her sisters usually order snacks online rather than full meals because they dislike heavy dinners. Additionally, Vineeta's father does not enjoy having food from outside, so even if they do order, Vineeta’s mom has to make dinner for him at home.
+Her food ordering also increases whenever she visits Bangalore for her office work.
+Vineeta orders once or twice a week from Swiggy, apart from Instamart orders. And this is how they typically decide which food to order from Swiggy:
+We wanted to order Chinese cuisine, so we were trying out a restaurant named Chinese Corner in Noida. Just by looking at the rating, we felt this is a good restaurant. And then we were thinking, what should we order? Finally, we made a decision basis on “best sellers”. There were a couple of best-seller items from which we picked Momos & Spring Roll because we love them.
+The entire family never dines out as their father is not fond of eating restaurant food. Dining out has also reduced because of the convenience of ordering online.
+The girls and their mom prefer exploring popular restaurants in the city. They pick places with pleasing aesthetics and ambience. Vineeta loves cafes with good graffiti where she could take pictures for her Instagram.
+Instagram Reels help Vineeta discover new places and the sisters share exciting places with each other to visit later. They try out different cuisines and introduce each other to the world of food!
+Instagram is the primary source for finding places. My Reels Algorithm is crazy. It's so much tuned to travel and food. I explore a lot of things there. I recently discovered a Greece-like café in Delhi which is very popular and I’m planning to visit the cafe. So, I keep seeing this place on my Reel very often. This is how I actually discover places on Instagram. Or I also search directly on Google such as a good café near the station or something like that. But majorly is done through Instagram.
+Vineeta used to be on a keto diet with the help of a personal dietician a few months back but she finds it difficult to stay at it on a sustained basis.
+I know items which are healthy and not healthy because I had a specific diet prepared by my dietician a while back. I lost some weight as well as a result of that. Now I am actually relaxing and I'll probably pick this up later. But I'm not sure. I've been wanting to go back to the same diet but it's very hard. It's like very hard to put a schedule. Sometimes I just feel I should again go into that mode for the next two months.
+These days Vineeta tries to choose healthier options on Swiggy compared to bad ones. She has replaced unhealthy snacks with healthier alternatives as well.
+I focus a lot more on ordering these things. Like if I were to order something in cuisine, I'll go for Paneer. Similarly, if I have to order, I sometimes order from Eat Fit specifically because they have multigrain these things. And it's not like multigrain is not unhealthy, but it's still better than something, right. With respect to snacks, it's not to say that I don't have unhealthy options like Pizza and everything is obviously unhealthy, I have it. But I try to whenever I feel, I try to replace it with healthy alternatives. Similarly with snacks, instead of chips we have shifted to Right Bite, a brand with is healthy alternative. With respect to taste they're quite good, you will not feel a lot of difference between that and at the same time you are having something healthy. And now that's how to select, when I see the ingredient lists, these things are unhealthy only, but not that unhealthy. So that's the trade of that we make.
+She even replaced her Roti with a Keto-friendly roti made with different atta. Sabji remains the same, but roti is prepared from the keto atta.
+She hasn’t even renewed her Swiggy one subscription as she is trying to cut down on eating out.
+Vineeta and her family have adapted to the online ordering culture but practice balance and moderation when it comes to ordering meals. I love the coexistence of different schools of thought in the same households, which usually has to do with the generation gap. It would be exciting to track this evolution around food dynamics in the coming years. I hope the food ordering culture isn’t bound to just cravings but will extend to mindful and conscious decisions.
+I hope you enjoyed learning about their unique approach to mealtime. If you did, don't forget to share the newsletter! Have a great year ahead. Happy new year 🥳

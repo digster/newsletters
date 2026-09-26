@@ -1,0 +1,29 @@
+---
+id: "web-12457e4a543606f4"
+subject: "Top themes for Indian startups in the coming decade!"
+from: "Ba from The India Notes <theindianotes@substack.com>"
+to: ""
+date: 2022-10-11 05:30:53
+labels: ["Dharmesh Ba"]
+label_ids: ["Label_6503034974112952532"]
+source_url: "https://newsletter.theindianotes.com/p/top-themes-for-indian-startups-in"
+origin: "backfill"
+---
+[Ruchir Sharma](https://ruchirsharma.com/) has some of the sharpest insights on the macroeconomy trends in emerging markets, especially India. Ruchir and his team have travelled across India during the elections to understand the pulse of the citizens. They typically travel 1000 miles weekly to interview local voters and national leaders. These journeys were published in 2019 called, '[Democracy on the Road: a 25-year Journey Through India](https://www.amazon.in/Democracy-Road-Journey-through-India/dp/0670092207)'.
+I turn to Ruchir's insights to understand India through a new lens. This post summarises the conversation between Ruchir and Pranoy Roi on NDTV on the eve of 75th Independence day.
+Here are some of the critical themes that caught my attention in the talk:
+Per capita income measures the average income of a person and is an essential factor for a country's success. India's per capita income was around $60 in the 1950s, but today it is around $2200. There has been significant improvement in the poverty levels, but that change has happened globally. India still ranks 150 out of the 205 countries in the bottom 25%.
+Until the 1990's China's per capita income was similar to that of India but skyrocketed post-1990s, China changed its orientation towards export and manufacturing. They followed what is called socialism with Chinese characteristics. For example, China fired around 70Mn people from its inefficient state-oriented sector. It led the private sector to hire and absorb them.
+Such drastic measures are challenging to be implemented in India. Today China has Twice the number of cities with more than a million people as India has. Migration in India is very low. Only 10% of the population in rural areas are from another district. Pretty much most of the people are native to the land. Without any drastic measures, it would take India 18 years to double its per capita income to $4400.
+The population replacement rate (i.e.) the rate at which the newborns replace the older generation has become negative in many developed countries like Japan, China, and Italy.
+Even in countries like India, the population growth is shrinking. By 2050 it is expected that India might go into negative population growth. This shrinking is due to an increase in life expectancy and women's decision to have fewer or no kids. For example, Japan has the highest number of people over 100 years old. There was a population boom around the world after the second war, which impacted economic growth and increased productivity.
+Currently, India has the highest working-age population in the world. In the coming decades, I would bet that India might be exporting young labour migrants who would be required worldwide to take care of the elderly and in non-desk jobs. But there is a catch to it which brings us to the next theme.
+In the last few decades, the world enjoyed the perils of globalisation. Countries outsourced jobs to other countries to optimise costs and stuck to what they were good at. This led to a societal reaction worldwide where the citizens of the developing countries felt that their jobs were being taken away from them. The West believes that globalisation benefits developing countries like India and China more. These beliefs have led to populist regimes in the US and UK, which led to the victory of leaders like Trump and Borris Jhonson.
+The fear of losing jobs to immigrants and exports has made countries like the US more protectionist. We see a similar trend in India too. In his election speech, Trump made a statement, 'Our country is full,' to indicate that they would tighten the process to include more immigrants. But data shows otherwise. Allowing more immigrants have always been beneficial to the economy.
+Nearly 40% of America's scientists, one-third of the surgeons and doctors, half of silicon valley founders and more than two-thirds of tech employees are foreign-born. Mainly from China and India.
+I guess that when the population replacement levels hit critical negative rates, countries might start opening up their borders to invite more immigrants, or the ones who take advantage of it would see faster growth.
+The female labour participation rate in India is low. It stands at around 21%. At the same time, it is about 45% in other countries with similar income levels. Even Bangladesh has a higher female participation rate, around 38% (pre-pandemic). Some believe that female labour participation is not captured appropriately in India. For example, a woman working in farm fields or handling cattle for a rural family might not be considered labour as she does not earn a salary. But what comes as a shocker is that the same data has shown a decline in the participation rate over a period of time. Even considering this as a proxy for accurate data, the trend is worrisome.
+Getting more women to participate in labour could be critical for India's faster growth. It could help restore economic productivity in the case of a declining population growth rate.
+These are some of the pointers that captured my attention. If you consider building a startup for India, addressing these themes with your product or service could see the immense potential on the higher side.
+The chat covers more interesting pointers around the stock market, freedom of speech, the rupee fall, and the economy's growth rate in the coming years. I highly recommend you watch the video on [Youtube](https://youtu.be/p4B3h9iPXEY).
+Subscribe to 'The India Note' for weekly discussions on consumer behaviour in India.

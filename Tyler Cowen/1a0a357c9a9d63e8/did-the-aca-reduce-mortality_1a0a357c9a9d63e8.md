@@ -1,0 +1,12 @@
+---
+id: "1a0a357c9a9d63e8"
+subject: "Did the ACA reduce mortality?"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2026-09-15 04:33:54
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+Many of us brought up related points at the time, but basically we were booed off the reservation:
+While recent research has provided evidence that the Medicaid expansions of the Affordable Care Act (ACA) reduced mortality, there is no evidence on the effect of the Affordable Care Act (ACA) net of the Medicaid expansions on mortality. This is an important gap in knowledge because the ACA significantly increased health insurance coverage in non-expansion states. In this article, we exploit the large increase in health insurance coverage brought forth by the ACA to examine the effect of the ACA and Medicaid expansions on mortality. Unlike prior studies that relied solely on geographic variation in Medicaid expansions to estimate the net effect of the expansion, we use a novel empirical approach that allows us to investigate the effect of the ACA net of Medicaid expansion on mortality, the incremental effect of the Medicaid expansion, and the overall effect of the ACA including Medicaid expansion. We use longitudinal data from the NHIS Linked Mortality Files (LMF) and a nationally representative sample of 40 to 58-year-olds combined with a difference-in-differences and a difference-in-differences-in-differences research design to obtain estimates of the effect of the ACA on mortality. We find no evidence that the Medicaid expansions had a beneficial effect on mortality but do find that the ACA net of Medicaid expansion reduced mortality.
+That is from [a new NBER working paper](https://marginalrevolution.com?action=user_content_redirect&uuid=8a1a32eeec69b831f12fed775b94661538d6c804d3b5db64b4dc9d6822772cfa&blog_id=42693868&post_id=93807&user_id=262258391&subs_id=225460721&signature=e9f217a9f6147ff46444a40130c8320b&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly93d3cubmJlci5vcmcvcGFwZXJzL3czNTc1MQ=&email_id=005a24291e4d63f9baf7cd0e80996ae2) by

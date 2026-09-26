@@ -1,0 +1,27 @@
+---
+id: "web-7b5804b8ced5680e"
+subject: "Indian MSMEs might start buying softwares now!"
+from: "Ba from The India Notes <theindianotes@substack.com>"
+to: ""
+date: 2025-02-25 08:08:59
+labels: ["Dharmesh Ba"]
+label_ids: ["Label_6503034974112952532"]
+source_url: "https://newsletter.theindianotes.com/p/indian-msmes-might-start-buying-softwares"
+origin: "backfill"
+---
+The surge in software adoption by Indian MSMEs isn't primarily driven by better technology—it's happening because the decision-makers themselves are changing.
+Mr. P is a 5th generation saree store owner and a close friend of my dad who hails from Erode, a tier 2 town in Tamil Nadu. He has become a sensation among businessmen in the circle as he had started posting reels on Instagram about the sarees in his store and has recently crossed 100K followers. Despite being in his late 50's, his perseverance to transform the business digitally has given hope to others that they could do the same.
+When I asked about his motivation, he first gave me a generic answer about adapting with changing times and decreasing foot traffic. But the real reason emerged minutes later: he wanted the business to be attractive enough for his daughter to take over. "The younger generation is happy to sell even namkeen on Instagram," he told me, "but they aren't excited to take over a legacy business."
+"Generational preferences change, shifting demand in ways that's hard to anticipate because it's not always linked to a product's usefulness." - Morgan Housel
+You don't set out to merely maintain what your predecessors built—you expand upon their foundation. While previous generations established businesses on community trust (the neighborhood kirana store, the community jeweler), today's inheritors face a different reality: their customers' children shop based on brand trust, not relationships.
+This transition demands evolution. The digitization journey often begins modestly—QR payments, digital billing, security cameras, marketplace listings—but represents a profound shift from "maintaining the family legacy" to "transforming it for a new generation of consumers who trust differently."
+COVID's impact went beyond job losses; it ignited a wave of micro-entrepreneurs. Regional business YouTube channels exploded, democratizing previously exclusive knowledge. Suddenly, relatable people were sharing tips and tricks for starting businesses on a shoestring budget. This surge in accessible information is fueling a new generation of entrepreneurs. More choices for consumers mean the old "open the shop and they will come" mentality is dead. Businesses now must offer something unique to stand out.
+These younger entrepreneurs aren't just bringing technical skills to family businesses—they're bringing transformed expectations. Having grown up as consumers of seamless digital experiences from ecommerce platforms, D2C brands, food delivery apps, and OTT services, they expect the same quality in their business tools. When they take charge of family enterprises, they naturally want to provide similar experiences to their own customers. This creates a powerful feedback loop: their personal experiences as digital consumers directly shape the experiences they want to deliver as business owners.
+Beyond individual motivations, macro forces are at play. Government digitization initiatives like e-invoicing, GST, and account aggregators, coupled with evolving customer expectations (online browsing, Google reviews, Instagram presence, digital payments), are pushing businesses to embrace digital tools—or risk becoming obsolete.
+MSME software adoption comes with some real struggle:
+Customization Conundrum: MSMEs operate with unique workflows that reflect decades of business wisdom. "One-size-fits-all" software rarely works for MSMEs with unique processes. They lack the resources for in-house customization, making online purchases risky.
+Support Shortfall: In today’s world, employees don’t stay forever—they come and go. Picture this: your store manager, who knows the software inside out, grabs their Diwali bonus and disappears. Poof! All that knowledge goes with them. There’s no formal handover or “Knowledge Transfer” (KT) to save the day. So, MSMEs have to find someone new and train them from scratch—over and over again. It’s a cycle that slows everything down.
+Guidance Gap: With so many options out there, MSMEs can feel lost. They don’t always know what they need, and there’s rarely anyone to guide them through the maze. Software providers who invest in education and community-building are establishing themselves as go-to resources rather than mere vendors.
+Trust Deficit: MSMEs are wary of big tech, fearing exploitation like marketplace undercutting, commission hikes, or data misuse. They worry about eventually being replaced by the very companies promising to help.
+Limited Options: For many MSMEs, software choices are limited. They often turn to local vendors who build and customize solutions, which sounds great—until you realize it’s like buying mutual funds through a middleman. It’s convenient, but you might not get the best deal or the latest tech. With fewer options to choose from, they end up settling for what’s available rather than what’s ideal.
+A new generation of decision-makers are steering these businesses into the digital age. The question isn’t whether MSMEs will adopt software—it’s how we, as builders, will rise to meet their needs.

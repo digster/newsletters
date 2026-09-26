@@ -1,0 +1,14 @@
+---
+id: "1a0cef7185b1f9ce"
+subject: "Wednesday assorted links"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2026-09-23 15:51:34
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699"]
+---
+2. [Guatemala update](https://marginalrevolution.com?action=user_content_redirect&uuid=41c34eaf47ac95e3053b404eb34430a6c2bbd4034b894f3c1f34e9837fcc31a9&blog_id=42693868&post_id=93866&user_id=262258391&subs_id=225460721&signature=c1175bdba8e0e70eec3246e61e266463&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly93d3cudGhlYXRsYW50aWMuY29tL2ludGVybmF0aW9uYWwvMjAyNi8wOS9ndWF0ZW1hbGEtZGVtb2NyYWN5LWFyZXZhbG8vNjg4NjUxLw=&email_id=49593ec348e14edbc515485d337a3400).
+3. [Tech-utopian project coming in Uruguay?](https://marginalrevolution.com?action=user_content_redirect&uuid=29cae6c9bd3d631544b276489ff1d9f286fc96dac3562536155d9ed5859d5643&blog_id=42693868&post_id=93866&user_id=262258391&subs_id=225460721&signature=3ca0f6b6a1ebcd2fbbb49845f2859fd9&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly94LmNvbS9wcmF4aXNuYXRpb24vc3RhdHVzLzIxMDI0MTI2MDQ0ODg0NTgyOTk/cz0yMA=&email_id=49593ec348e14edbc515485d337a3400)
+5. [Do stock buybacks bring harm?](https://marginalrevolution.com?action=user_content_redirect&uuid=b1a0dfe51d393beb1b2c2d6f69f8849c14c2cf9c3ee947f422b6d6907f94f7ae&blog_id=42693868&post_id=93866&user_id=262258391&subs_id=225460721&signature=92dbb85f8b85571243138dcbd98af81a&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly9wYXBlcnMuc3Nybi5jb20vc29sMy9wYXBlcnMuY2ZtP2Fic3RyYWN0X2lkPTYzNzYzNTg&email_id=49593ec348e14edbc515485d337a3400)
+6. [How AI competition works in China](https://marginalrevolution.com?action=user_content_redirect&uuid=25693d28d6543ca1905c3f75bdbd8a40f45de2e428aa4e7b5dab11c3b01d91c1&blog_id=42693868&post_id=93866&user_id=262258391&subs_id=225460721&signature=189d66b75c50a28e7679ab078da45d3d&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly94LmNvbS9zdWRvcmFvaGFja2VyL3N0YXR1cy8yMTAyNTEzODM5MTExODE1NjU3P3M9NjE&email_id=49593ec348e14edbc515485d337a3400).
+7. [Economist column on AI risk and shorting the market](https://marginalrevolution.com?action=user_content_redirect&uuid=4181fb0cb684b4ccd0ce82e023527af5fc169450a549b68ab2d51927613ab812&blog_id=42693868&post_id=93866&user_id=262258391&subs_id=225460721&signature=048d22dec7ce81411d1b968ccc5823e4&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly93d3cuZWNvbm9taXN0LmNvbS9maW5hbmNlLWFuZC1lY29ub21pY3MvMjAyNi8wOS8yMi95b3UtY2FudC10cmFkZS15b3VyLXdheS10aHJvdWdoLXRoZS1haS1hcG9jYWx5cHNl&email_id=49593ec348e14edbc515485d337a3400) (hint: ask the AGI what to do! And of course asset prices fall along the way).

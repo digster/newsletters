@@ -1,0 +1,11 @@
+---
+id: "1a0cf72c4e24bbaa"
+subject: "Optimal liability for offensive and defensive AI"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2026-09-23 18:06:39
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699"]
+---
+How much liability should AI providers bear when their services enable both attack and defence? Liability can improve welfare while increasing harm. Providers sell a common input to productive users, attackers and defenders. Within a defended contest, a higher common price reduces effort without changing attack success or attacker profits, saving resources and improving the target's security payoff. Compensation weakens defence and raises attacker profits. Optimal liability balances these effects against productive exclusion. Greater competition can lower optimal liability; every such decline must end at an outcome retaining defence. With cybersecurity access fixed, monopoly can warrant partial liability but never full liability when provision is worthwhile. When guardrails preserving productive uses are available, strong competition favours universal guarding socially but encourages unilateral removal at insufficient liability. At a fixed provider count, sufficiently many productive users ensure a pure equilibrium with universal guarding under high liability. A universal-guarding requirement makes liability redundant. Under monopoly, adoption follows a unique liability threshold, while zero liability remains uniquely optimal for a range of parameters with sufficiently many productive users.
+That is from [a new paper by Joshua Gans](https://marginalrevolution.com?action=user_content_redirect&uuid=b650d937c71e1cb119059c95ec7d8c6d31d976b6f82d9d83787b44d7b43fb2cc&blog_id=42693868&post_id=93867&user_id=262258391&subs_id=225460721&signature=1fc1fcacd65f2cbc50a5a2fa473fa15a&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly9wYXBlcnMuc3Nybi5jb20vc29sMy9wYXBlcnMuY2ZtP2Fic3RyYWN0X2lkPTc1MDQ5OTg&email_id=1b6e54c4b5240890f2741c341a4af0c1).

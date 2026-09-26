@@ -1,0 +1,26 @@
+---
+id: "web-42c6be6e776f6f00"
+subject: "Fair men don’t lie"
+from: "Ba from The India Notes <theindianotes@substack.com>"
+to: ""
+date: 2023-02-28 05:00:54
+labels: ["Dharmesh Ba"]
+label_ids: ["Label_6503034974112952532"]
+source_url: "https://newsletter.theindianotes.com/p/fair-men-dont-lie"
+origin: "backfill"
+---
+👋 What's up, peeps? [Dharmesh Ba](https://twitter.com/dharmeshba) here. Welcome to another edition of The India Notes, your go-to newsletter to decode Indian consumer psychology. Every week I publish a long-form piece decoding Indian behaviour from a digital lens.
+If you are new here, check out my best pieces here:
+Subscribe to get future updates in your inbox.
+In Tamil, "Vellaiya irukkaravan poi solla maataan" translates to "Men who are fair don't lie". This statement, which I first heard in a Tamil movie, reflects our preconceived notions about life, society, and its people. These notions can take many forms, such as the belief that women are soft-hearted, that children always tell the truth, or that elders deserve respect simply due to their age. While these biases can sometimes lead us unaware, they can also be helpful mental shortcuts that help us make quick judgments or decisions.
+In the business context, biases are often viewed negatively, as they can lead to poor decision-making and missed opportunities. However, biases can help us make decisions more efficiently in our daily lives. Let's look at confirmation bias, a phenomenon that affects us all.
+Confirmation bias is the tendency to seek information that supports our beliefs and disregard information that contradicts them. In other words, we often pay more attention to things that confirm our beliefs and ignore things that challenge those beliefs.
+For example, a mother who prioritizes education for her children because she has seen educated people doing well around her is exhibiting confirmation bias. On the other hand, when my uncle forwards a WhatsApp message claiming that India's national anthem is the best in the world, he is also displaying confirmation bias, but in a potentially harmful way. It's essential to recognize that confirmation bias can be both beneficial and detrimental depending on the context.
+By the way, did you happen to notice how I carefully chose the examples of a "mother" and an "uncle" to illustrate my point on confirmation bias? The truth is, I'm no exception to this rule, and neither are you. I've often been asked how we can eliminate biases from our product development process. The answer, unfortunately, is that we can't. Biases are inherent in our thinking, but we can become more aware of them and try to mitigate their impact.
+Over the past few years, I've interacted with hundreds of Indians from all walks of life through my work. Two particular instances stood out to me, highlighting how confirmation bias could affect people’s perception of life.
+During a conversation with an immigrant security guard at a tech startup in Bangalore, he told me he could never walk into a store inside a mall. He explained that he had had bad experiences where store managers suspected him of stealing and had even instructed employees to follow him around. This has made him uncomfortable, and he has stopped entering these "rich" looking stores. He also avoids specific open spaces like bars, pubs, and luxury stores based on their appearance and the people already present. He had this decision matrix inside his head to determine whether he could enter a space or not.
+When designing digital products, we often overlook the social factors that can impact product adoption. From a technology standpoint, every user account is treated equally, but from a social perspective, individuals face different challenges and biases.
+As competitors in the travel industry, Make My Trip and Cleartrip had their strengths. Cleartrip's minimalist interface and superior user experience was unique selling point. However, Make My Trip operates independently a decade later while Cleartrip was sold to Flipkart for $40M. It took me some time to realize that Cleartrip's distress sale wasn't due to their user experience but how people perceived the app. The minimalistic interface works well for people who already know what they want. In a country like India, where a "clean and elegant" design is associated with expensive products, selling the minimalist value proposition to a larger population becomes challenging. Without a travel and leisure culture, the agent (MMT and Cleartrip) must educate users while providing services. Maintaining the minimalist philosophy is challenging when the app is set to do more than one task.
+Like our security guard friend evaluates a store's inclusion level, we all do the same when exploring apps. After all, apps are a digital extension of ourselves. When building a digital interface, ask yourself what signal your app's design sends to users and how it might affect their perception and adoption of the app.
+What are some of the confirmation biases that you have observed in your life? Drop a comment below.
+Follow me on [Twitter (@dharmeshba)](https://twitter.com/dharmeshba) for updates on Indian consumer behaviour.

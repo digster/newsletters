@@ -1,0 +1,25 @@
+---
+id: "1a0c993f20ee96df"
+subject: "Introducing Horowitz Andreessen Academy"
+from: "Erik Torenberg <eriktorenberg@substack.com>"
+to: ""
+date: 2026-09-22 14:42:25
+labels: ["CATEGORY_PERSONAL", "Erik Torenberg", "INBOX", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "Label_1477501339932324054", "INBOX", "UNREAD"]
+---
+Thrilled to announce our latest incubation: Horowitz Andreessen Academy (see our hype reel [here](https://substack.com/redirect/1060e831-6f33-4d8f-b991-f0d062a8cb4c?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)).
+Horowitz Andreessen Academy will be a two-year residential program in San Francisco for 16 to 22 year olds.
+My biggest regret from my college experience is how divorced it was from the real world (both practically but also intellectually).
+HAA is the opposite. Students will learn from real-world practitioners and intellectuals; including founders (Sam Altman, Brian Armstrong, Jensen Huang), investors (Elad Gil, Daniel Gross), and professors (Agnes Callard, Tyler Cowen), among hundreds of others. The Academy is the educational experience I wish I had.
+In 1984, the educational psychologist Benjamin Bloom published a paper about how the average student who received one-on-one tutoring focused on mastery techniques performed better than 98% of the control group. For generations, this was viewed as unrealistic to implement even if it produced the best outcomes.
+At the Academy, we will be able to locate any tutor on any topic that a student desires.
+Take an aspiring filmmaker or producer. The standard path offers them film theory courses, peer workshops, and the occasional visiting filmmaker; everything past that takes meticulous networking and luck. The very entrepreneurial type will find ways to invite prominent speakers to speak and meticulous networking to reach the right people. At the Academy, they will learn the business from the people who run it and their next creative project will have notes from award-winning filmmakers.
+Take a young founder. Yes, there is endless content online; you can watch a video on any skill. But content is not coaching. The Academy will provide dedicated, experienced coaches and mentors who know your company and psychology. Students can workshop issues with prominent leaders in technology who host sessions on campus. Every generation of entrepreneurs has had mentors in their corner. Ours will too.
+Take the technical student focused on research. At the Academy, academics are focused on the frontier. Students will be taught and mentored by AI researchers at frontier labs. They’ll be conducting research and sharing progress, and presenting their work at ICML and ICLR.
+The goal of the Academy is to identify the right mentors, the correct bottlenecks, and the right introductions, adjusted continuously around one person and their pursuits.
+The education philosophy focuses on co-ops, courses, and pursuits.
+Co-ops are the opportunity to work during the year (not just over the summer). It's the chance to work across countless different roles and companies, including getting connected to our 10 founding partners: Anduril, Anthropic, Coinbase, Google, Meta, NVIDIA, OpenAI, Palantir, Replit, and Stripe.
+Courses are taught by legendary people: people who have founded unicorns, invested in those unicorn companies, or are on the intellectual frontier.
+And most importantly, it's about Pursuits. It's about personal projects, quests, startup ideas, rabbit holes that define the student experience. The Academy will provide dedicated, experienced coaches and mentors who know your work and psychology.
+At HAA, the individual education of each student is the whole design. We want to meet you. Applications for the founding class are open.
+[http://theacademysf.com](https://substack.com/redirect/04658ddc-191e-4263-baa2-8b205c75e31c?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
