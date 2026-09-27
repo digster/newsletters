@@ -63,3 +63,6 @@ Links
 If you enjoyed this story, share it with your friends and colleagues! ❤️
 and follow me on Twitter
 If you are new to The India Notes, here are a few of my super hit editions
+Embedded post: [God is a necessary evil](https://newsletter.theindianotes.com/p/god-is-a-necessary-evil) — Dharmesh Ba · July 18, 2023
+Embedded post: [How did Flipkart convince Indians to buy online?](https://newsletter.theindianotes.com/p/how-did-flipkart-convince-indians) — Adyasha Padhy and Dharmesh Ba · June 20, 2023
+Embedded post: [Insta Millionaire - The million dollar series](https://newsletter.theindianotes.com/p/insta-millionaire) — Dharmesh Ba · June 6, 2023

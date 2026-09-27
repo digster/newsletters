@@ -20,3 +20,6 @@ While technology can measure tangible aspects of finance, it's these social aspe
 Comment your views on the topic…
 Connect with me on X (twitter)
 If you like this article, here are a few more that you might like:
+Embedded post: [Story of Namma Yatri - Part 1](https://newsletter.theindianotes.com/p/story-of-namma-yatri-part-1) — Dharmesh Ba and Sidhant Bhutani · November 29, 2023
+Embedded post: [Building trust in digital payments](https://newsletter.theindianotes.com/p/building-trust-in-digital-payments) — Dharmesh Ba · October 31, 2023
+Embedded post: [Building an online tuition for rural India](https://newsletter.theindianotes.com/p/building-an-online-tuition-for-rural) — Dharmesh Ba · July 25, 2023

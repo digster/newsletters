@@ -83,3 +83,6 @@ I aspire to elevate CandidMen to the status of a respected brand comparable to r
 (Fin)
 and Follow me on twitter
 If you’re new to The India Notes, here are some very interesting articles worth reading
+Embedded post: [How did Flipkart convince Indians to buy online?](https://newsletter.theindianotes.com/p/how-did-flipkart-convince-indians) — Adyasha Padhy and Dharmesh Ba · June 20, 2023
+Embedded post: [Sri Mandir UX Audit](https://newsletter.theindianotes.com/p/sri-mandir-ux-audit) — Dharmesh Ba · May 16, 2023
+Embedded post: [God is a necessary evil](https://newsletter.theindianotes.com/p/god-is-a-necessary-evil) — Dharmesh Ba · July 18, 2023

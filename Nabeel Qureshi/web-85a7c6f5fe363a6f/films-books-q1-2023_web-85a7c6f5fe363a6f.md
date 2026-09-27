@@ -1,0 +1,40 @@
+---
+id: "web-85a7c6f5fe363a6f"
+subject: "Films + Books, Q1 2023"
+from: "Nabeel Qureshi <nabeelqu@substack.com>"
+to: ""
+date: 2023-05-06 18:00:05
+labels: ["Nabeel Qureshi"]
+label_ids: ["Label_2768118641859383776"]
+source_url: "https://nabeelqu.substack.com/p/films-books-q1-2023"
+origin: "backfill"
+---
+All ratings out of 5. Format inspired by [Scott Sumner’s posts](https://www.themoneyillusion.com/films-of-2023q1/), where I often get ideas for new things to watch.
+Films
+Paris, Texas (5) - Wim Wenders, 1984. An instant favorite. So many unforgettable shots, you could frame any random screen-grab from this movie. A nice example of how some of the best, and most loving, work about America can come from foreigners (Wenders is German; de Tocqueville is another example).
+L'Argent (4.5) - Robert Bresson, 1983. Visually and aurally arresting, especially the final part in the rural house. I feel like he is not exceeding the Russian novelists in depth, but a pleasure to watch for his technique and brilliance.
+The Green Ray (4.5) - Eric Rohmer, 1986. Really good. Mike Leigh-esque character study of a woman who pushes people away, a depressive introvert.
+Tropical Malady (4.4) - Apichatpong Weerasethakul, 2004. Benedict Anderson makes the nice point that this movie made perfect sense to rural Thai but less so to urbanites: the second section is a very literal account of being in a jungle at night. Dreamy Apichatpong, very similar to Boonmee, love as a tiger and as a dreamlike state of abandon, his most romantic movie.
+Breaking the Waves (4.4) - Lars von Trier, 1996. The first two hours I hated it; it made me tense and uncomfortable, the way von Trier films tend to do. Then the ending changed my mind. Belongs with 'Ordet', 'The Sacrifice', 'Stalker'. But maybe just short of them, too. Art reflects the maker, and there’s some shortcoming in this I can’t articulate, some perversity or sadism in the director himself.
+Rashomon (4.2) - Akira Kurosawa, 1950. Respected this more than I loved it, but it's very accomplished; it messes with the viewer in all kinds of ways and is a beautiful education in the craft of film. More than a little Shakespearean, too, with the framing narrative. There’s a nice essay about this on [A Sharper Focus](https://www.asharperfocus.com/).
+Wings of Desire (4.2) - Wim Wenders, 1987. Mid-80s Berlin, the last 30 mins or so are delightful and will give you great joy in the everyday. The "Homer" parts were clunky for me, although I understood what he was trying to do. Very intellectual, Walter Benjamin among others hangs over it. Worth watching if only to see Berlin in its pre-1989 state.
+Return to Seoul (4) - Davy Chou, 2023. The main actress in this one is very charismatic and conveys volumes of pain with her face. Realist human drama, reminded me of Farhadi in style. One or two false notes in the writing (why does she become an arms dealer?). Excellent, likely this year’s best?
+Gates of Heaven (4) - Errol Morris, 1978. Little gem documentary about a pet cemetery. Between this and Paris, Texas, you could do worse in movies about America.
+Pickpocket (4) - Robert Bresson, 1959. Bresson's technique is impeccable. His movies contain a surprising amount of concrete, specific detail, in this case about the process of picking pockets. His later movies become more explicitly religious, but this one is French existentialism and nihilism without even a hint of religion, and therefore arid. (What does this add that you can’t find in “Crime and Punishment”?) I preferred A Man Escaped.
+Claire's Knee (3.8) - Eric Rohmer, 1970. Light, fun human drama; the directness of youth vs. the “meta”, layered way we experience everything in age. Set in Annecy. French and flighty, I prefer Bergman's heaviness. Rather creepy, too.
+Tár (3.8) - Todd Field, 2022. A pretty good movie about a conductor's gradual descent into disgrace. What a joy to watch an actual high-brow movie in an American cinema and have the audience laughing and gasping. I enjoyed the first half more; the second descended into classic psychological melodrama.
+Beau Travail (3.5) - Claire Denis, 1999. I didn't enjoy this at the time, felt it unnecessarily artificial in how it was filmed and a little choreographed, but images from it have stuck with me, as has its overall rhythm and dreamlike vibe.
+The Banshees of Inisherin (3.5) - Martin McDonagh, 2022. Blackly comic little tale. Opposes the christlike simplicity of the idiot with the Nietzschean dark/despair of art; the world forces us all into 'eye for an eye'; veiled commentary on Ireland itself. Good acting all round, both leads and also the sister. Maybe too simple a movie to be really great. Still - movies are not dead!
+Lost in Translation (3) - Sofia Coppola, 2003. Iconic but also aged poorly. Should be seen at age 18. I found the characters annoying and self-absorbed this time round.
+Turn Every Page: The Adventures of Robert Caro and Robert Gottlieb (2.5) - Lizzie Gottlieb, 2022. Documentary on Robert Caro and his relationship to his editor, Robert Gottlieb. Tight fusion of writer/editor. Nicely shows Caro's industriousness. Too long for the slim amount of material she actually had, though.
+Fallen Angels (2) - Wong Kar-Wai, 1995. I’m a huge fan of the director but I hated this one, which showcased his worst tendencies. All aesthetics, no real emotion!
+Books
+A Mathematician's Apology (5) - GH Hardy, 1940. Celebrates ambition and the value of creating permanent, enduring, lasting work! Written in aphorisms, very engaging. I wish more books in this genre existed: an accomplished scientist reviewing his career and drawing principles from it.
+The Iliad (5) - Homer, Lattimore translation. What to say about this? Maybe my favorite book? I don't know why it "hit" me so electrically this time round, but it did. I came upon the Lattimore translation by chance, but after looking at every other translation I concluded it was the best one.
+Autobiography of Charles Darwin (4) - Charles Darwin, 1887. Darwin is a lucid writer. Most fascinating passages are where he analyzes himself and his strengths and weaknesses. In his early life, he goes to extreme lengths to collect and classify beetles, and isn’t really interested in anything else; this extreme interest in, and patience for, very specific facts about the world seems characteristic of the best scientists I’ve met.
+Inadvertent (4) - Karl Ove Knausgaard, 2018. A nice lecture about writing and what makes him write, with some notes about his influences (Ponge, Proust, Tolstoy of War and Peace, Turgenev). Talks about the value of art and the contrast between what is infinite in us vs the materiality of our existence. Many false starts as a writer before he did 'My Struggle'.
+The Greeks (4) - RDF Kitto, 1951. Accessible introduction to the Greeks, especially the chapter on Homer, which is a nice chapter-level summation of what makes him so good. Greece in 5 B.C. is one of those baffling wonders human history occasionally produces: Socrates, Plato, Sophocles, Aeschylus, Euripides, Herodotus, Hippocrates, Pericles, Thucydides, Xenophon, and more, all wandering around Athens at the same time!
+Babel (3.5) - Rebecca Kuang, 2022. Fun read, best were the passages on language and translation, preachy and didactic and heavy-handed in parts, some of the characterization felt weak (Letty). Clearly a huge talent, excited to see what she does next.
+An Angel Walks Through the Stage and Other Essays (3.5) - Jon Fosse, 2018. Some stimulating reflections on the most inward, intuitive parts of being a writer. I didn’t know he was so into Derrida and critical theory, I could not have told you that from reading his masterpiece “Septology”.
+Economy of the Unlost (3.5) - Anne Carson, 1999. Study comparing Simonedes with Celan. Oblique and hard to summarize, but stimulating and beautiful as is all her prose.
+Tomorrow, and Tomorrow, and Tomorrow (3) - Gabriella Zevin, 2022. A fun but light read, ending felt forced. I didn't resonate with her descriptions of games, it's not how I experience them. Very ‘young adult’, will appeal to people who like that kind of thing.

@@ -40,3 +40,6 @@ While the app has largely succeeded in bringing the farmer-retailer relationship
 That’s all I have for today. Do suggest some interesting apps for our future UX audit series!
 and follow me on Twitter
 If you are new to The India Notes, here are a few of my other super-hit UX audits
+Embedded post: [Sri Mandir UX Audit](https://newsletter.theindianotes.com/p/sri-mandir-ux-audit) — Dharmesh Ba · May 16, 2023
+Embedded post: [UX Audit: Paytm vs Google Pay vs PhonePe](https://newsletter.theindianotes.com/p/ux-audit-paytm-vs-google-pay-vs-phonepe) — Dharmesh Ba · March 7, 2023
+Embedded post: [🕵️♀️ UX audit: How is Dealshare different from Amazon.](https://newsletter.theindianotes.com/p/ux-audit-how-does-dealshare-different) — Dharmesh Ba · March 28, 2023

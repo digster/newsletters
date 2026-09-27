@@ -57,3 +57,6 @@ What do you think of these guidelines? Let us know in the comments
 [European Union data protection guidelines](https://gdpr.eu/what-is-gdpr/)
 (Fin)
 If you’re new to The India Notes, check out these latest reads,
+Embedded post: [Building trust in digital payments](https://newsletter.theindianotes.com/p/building-trust-in-digital-payments) — Dharmesh Ba · October 31, 2023
+Embedded post: [Astrotalk - UX Audit](https://newsletter.theindianotes.com/p/astrotalk-ux-audit) — Dharmesh Ba and Sidhant Bhutani · October 24, 2023
+Embedded post: [Why do men rent clothes for special occasions?](https://newsletter.theindianotes.com/p/why-do-men-rent-clothes-for-special) — Dharmesh Ba · October 17, 2023

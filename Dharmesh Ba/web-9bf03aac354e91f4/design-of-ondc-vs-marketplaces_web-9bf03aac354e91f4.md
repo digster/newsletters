@@ -49,3 +49,7 @@ Concrete dispute resolution mechanisms must be established to ensure smoother de
 This article is co-written by [Sidhant Bhutani](https://open.substack.com/users/175192609-sidhant-bhutani?utm_source=mentions)
 Leave a comment below to let us know what you think…
 If you’re new to The India Notes, here are some of our articles you’ll love:
+Embedded post: [Story of Namma Yatri - Part 1](https://newsletter.theindianotes.com/p/story-of-namma-yatri-part-1) — Dharmesh Ba and Sidhant Bhutani · November 29, 2023
+Embedded post: [Story of Namma Yatri - Part 2](https://newsletter.theindianotes.com/p/story-of-namma-yatri-part-2) — Dharmesh Ba and Sidhant Bhutani · December 5, 2023
+Embedded post: [Are loans from family truly interest free?](https://newsletter.theindianotes.com/p/are-loans-from-family-truly-interest) — Dharmesh Ba · December 12, 2023
+Embedded post: [India's focus on Dark Patterns](https://newsletter.theindianotes.com/p/indias-focus-on-dark-patterns) — Dharmesh Ba and Sidhant Bhutani · November 14, 2023

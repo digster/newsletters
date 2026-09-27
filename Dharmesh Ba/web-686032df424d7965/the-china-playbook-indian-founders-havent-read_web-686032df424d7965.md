@@ -119,5 +119,6 @@ Alysha: India is waking up to the fact that we can be a manufacturing powerhouse
 This is a great time for startups in robots, drones, and old-school manufacturing. We have a great layer of System Integrators in India that is ignored. In the US and Europe, System Integrators are crucial; China does it themselves. We should leverage our System Integrators.
 I’m very bullish. My personal angel investments are in Indian robotics companies. I’m happy to chat with startups, large corporates, or anyone wanting to get into hardware. If you’re non-technical but want to work in robotics—sales, operations—we need you. If you’re afraid to leap from SaaS to “HaaS” (Hardware as a Service), you won’t regret it. My DMs are open on LinkedIn and Twitter.
 Alysha Lobo runs a fantastic newsletter on robotics, hardware and Indian manufacturing which I highly recommend.
+Embedded publication: [TechnicAly’s Substack](https://technicalyspeaking.substack.com) — My personal Substack · by TechnicAly Speaking
 You can ping Alysha on [X (Twitter)](https://x.com/alysha_lobo) and [LinkedIn](https://www.linkedin.com/in/alysha-lobo-060685/).
 If you liked this essay, consider sharing with a friend or a colleague that may enjoy it too. (If you share on socials, tag me. I’m on [Twitter (X)](https://x.com/dharmeshba) and [LinkedIn](https://www.linkedin.com/in/dharmeshba/))

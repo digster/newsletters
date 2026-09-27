@@ -48,3 +48,6 @@ Remaining true to its mission, Namma Yatri will continue to scale and create val
 Thanks to Mags (product head) and Ankit (ex-marketing head) at Namma Yatri for adding valuable insights to the story.
 Like this post? Comment below to share what you think.
 If you’re new to The India Notes, here are some of our most read articles:
+Embedded post: [Story of Namma Yatri - Part 1](https://newsletter.theindianotes.com/p/story-of-namma-yatri-part-1) — Dharmesh Ba and Sidhant Bhutani · November 29, 2023
+Embedded post: [India's focus on Dark Patterns](https://newsletter.theindianotes.com/p/indias-focus-on-dark-patterns) — Dharmesh Ba and Sidhant Bhutani · November 14, 2023
+Embedded post: [Building trust in digital payments](https://newsletter.theindianotes.com/p/building-trust-in-digital-payments) — Dharmesh Ba · October 31, 2023

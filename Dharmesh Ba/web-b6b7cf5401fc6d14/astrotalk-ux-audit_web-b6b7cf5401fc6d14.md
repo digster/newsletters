@@ -41,3 +41,6 @@ A decade ago, women consulting my mom were anxious to know if their husbands wou
 “I don't believe in astrology; I'm a Sagittarius and we're skeptical.”
 - Arthur C. Clarke
 If you’re new to The India Notes, check out these hits,
+Embedded post: [Sri Mandir UX Audit](https://newsletter.theindianotes.com/p/sri-mandir-ux-audit) — Dharmesh Ba · May 16, 2023
+Embedded post: [Why are Indians obsessed with gold?](https://newsletter.theindianotes.com/p/why-are-indians-obsessed-with-gold) — Dharmesh Ba · May 23, 2023
+Embedded post: [Insta Millionaire - The million dollar series](https://newsletter.theindianotes.com/p/insta-millionaire) — Dharmesh Ba · June 6, 2023

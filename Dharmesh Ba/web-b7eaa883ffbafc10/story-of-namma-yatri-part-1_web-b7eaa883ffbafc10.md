@@ -53,3 +53,6 @@ Here are some interesting links to dive deeper into Namma Yatri:
 [2. The open mobility protocol by Beckn](https://becknprotocol.io/kochi-gets-the-worlds-first-open-mobility-network/)
 [3. Karnataka’s struggle with ride-hailing apps](https://www.business-standard.com/article/companies/uber-ola-reduce-auto-rickshaw-service-fare-after-karnataka-govt-ban-122100701084_1.html)
 If you’re new to The India Notes, here are some of our most read articles:
+Embedded post: [India's focus on Dark Patterns](https://newsletter.theindianotes.com/p/indias-focus-on-dark-patterns) — Dharmesh Ba and Sidhant Bhutani · November 14, 2023
+Embedded post: [Building trust in digital payments](https://newsletter.theindianotes.com/p/building-trust-in-digital-payments) — Dharmesh Ba · October 31, 2023
+Embedded post: [Insta Millionaire - The million dollar series](https://newsletter.theindianotes.com/p/insta-millionaire) — Dharmesh Ba · June 6, 2023

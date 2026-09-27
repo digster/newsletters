@@ -56,3 +56,6 @@ Conclusion
 A few weeks ago, I shared a post on Twitter discussing how instant grocery delivery is a significant benefit for double-income households, as it removes the need for extensive grocery planning and adds convenience to life. However, my post received considerable backlash. I acknowledge that part of the blame lies with my less-than-clear articulation. Upon reflection, I realized that there must be a balance between customer demands, platform requirements, and the needs of delivery executives to find the sweet spot that benefits everyone.
 I began to question whether my desire to receive a hot paratha within 30 minutes is worth risking someone's life just because an app promises such quick service. It's essential for all of us to learn and reflect, and hearing Dhiraj's story has prompted me to contemplate even more deeply.
 If you are new to The India Notes, here are a few of my super hit editions
+Embedded post: [#1 | Anurag - From a contractor to a delivery executive](https://newsletter.theindianotes.com/p/anurag-gig-economy) — Dharmesh Ba · May 30, 2023
+Embedded post: [#2 | Yugank - Living life by the grace of God.](https://newsletter.theindianotes.com/p/gig-economy-stories-2) — Dharmesh Ba · June 27, 2023
+Embedded post: [God is a necessary evil](https://newsletter.theindianotes.com/p/god-is-a-necessary-evil) — Dharmesh Ba · July 18, 2023

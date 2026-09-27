@@ -116,4 +116,5 @@ That is what you can see through the pipe. Not two companies. A working model of
 The world is the curriculum. This particular exam has not been graded yet.
 Thank you for reading, see you soon!
 [Neel Chhabra](https://twitter.com/NeelChhabra), [Resight Ventures](https://x.com/ResightVentures)
+Embedded media: [Watch on YouTube](https://www.youtube.com/watch?v=O_dONpkY7-U)
 Neel Chhabra · Resight. Resight is an independent investment research and publishing platform. All content — essays, analyses, and notes — is for informational purposes only and does not constitute investment advice or a solicitation to buy or sell any security. The author is not registered under SEBI (Research Analysts) Regulations, 2014. Views expressed are personal, may change without notice, and the author may hold positions in securities discussed. Figures are drawn from the Jio Platforms DRHP (FY26), Bharti Airtel disclosures, TRAI, Analysys Mason, and Indian financial press as of July 2026; verify against primary sources before acting. Do your own research. Invest at your own risk.

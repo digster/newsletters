@@ -81,6 +81,8 @@ We will see a rise of business models that don’t just sell information, but se
 “Be my daddy” could mean something else in 2026 👇
 Source: [harshitchajjed](https://www.instagram.com/harshitchajjed/reels/) on Instagram
 I have consciously kept these themes simple, drawn from what I have observed on the ground. For a more sophisticated macro perspective, I highly recommend reading Tigerfeather’s predictions for 2026.
+Embedded post: [Vision 20/26: Charting India](https://www.tigerfeathers.in/p/vision-2026-charting-india) — Rahul Sanghi and Aaryaman.Vir · Tigerfeathers
+Hey folks👋
 I don’t know exactly where all of this leads.
 I do know what I want to spend my time on. Writing more. Doing deeper work on Indian consumers. I have a lot planned for 2026: launching a YouTube channel to explore these themes visually, starting a course called “The Field School” to teach founders and product managers the art of observation, and scaling my consumer insights firm, [1990 Research Labs](https://www.1990labs.com/).
 My goal is simple: to dig deeper into the Indian consumer story than anyone else.

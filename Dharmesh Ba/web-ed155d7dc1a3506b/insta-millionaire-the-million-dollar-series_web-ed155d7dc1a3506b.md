@@ -40,6 +40,9 @@ Fin.
 Thanks to [Ashu Behl](https://www.linkedin.com/in/ashubehl/) and [Rahul Nag](https://twitter.com/rahulnag) from Pocket FM team in helping us understand the behind the scenes for Insta Millionnaire series.
 and follow me on Twitter
 If you are new to The India Notes, here are a few of my super hit editions
+Embedded post: [#1 | Anurag - From a contractor to a delivery executive](https://newsletter.theindianotes.com/p/anurag-gig-economy) — Dharmesh Ba · May 30, 2023
+Embedded post: [Fair men don’t lie](https://newsletter.theindianotes.com/p/fair-men-dont-lie) — Dharmesh Ba · February 28, 2023
+Embedded post: [UX Audit: Paytm vs Google Pay vs PhonePe](https://newsletter.theindianotes.com/p/ux-audit-paytm-vs-google-pay-vs-phonepe) — Dharmesh Ba · March 7, 2023
 Credits:
 Visualisation by
 [Adhyasha Padhy](https://twitter.com/AdyashaPadhy)and[Dharmesh Ba](https://twitter.com/dharmeshba)

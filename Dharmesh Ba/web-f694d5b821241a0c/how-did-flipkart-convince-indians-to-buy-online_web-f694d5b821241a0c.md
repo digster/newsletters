@@ -42,3 +42,6 @@ The third trend, which I believe will gain prominence, especially with the advan
 (Fin)
 and follow me on Twitter
 If you are new to The India Notes, here are a few of my super hit editions
+Embedded post: [Why are Indians obsessed with gold?](https://newsletter.theindianotes.com/p/why-are-indians-obsessed-with-gold) — Dharmesh Ba · May 23, 2023
+Embedded post: [#1 | Anurag - From a contractor to a delivery executive](https://newsletter.theindianotes.com/p/anurag-gig-economy) — Dharmesh Ba · May 30, 2023
+Embedded post: [Insta Millionaire - The million dollar series](https://newsletter.theindianotes.com/p/insta-millionaire) — Dharmesh Ba · June 6, 2023

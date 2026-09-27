@@ -67,6 +67,9 @@ This job is meant for those who have nothing else. I have witnessed several acci
 You can never predict when death will come. Suppose I go out in the morning; I don't know if I would come back alive, I might suddenly pass away. My family would just receive the message that I died. Anything can happen.
 and follow me on Twitter
 If you are new to The India Notes, here are a few of my super hit editions
+Embedded post: [#2 | Smrithi - I love chicken curry, but it has to be secretly sneaked into my home.](https://newsletter.theindianotes.com/p/2-smrithi-i-love-chicken-curry-but) — Dharmesh Ba · November 24, 2022
+Embedded post: [#1 | Anurag - From a contractor to a delivery executive](https://newsletter.theindianotes.com/p/anurag-gig-economy) — Dharmesh Ba · May 30, 2023
+Embedded post: [How did Flipkart convince Indians to buy online?](https://newsletter.theindianotes.com/p/how-did-flipkart-convince-indians) — Adyasha Padhy and Dharmesh Ba · June 20, 2023
 Credits:
 Interview conducted by
 [Pragya Verma](https://www.linkedin.com/in/pragyaverma2021/)Visualisation by

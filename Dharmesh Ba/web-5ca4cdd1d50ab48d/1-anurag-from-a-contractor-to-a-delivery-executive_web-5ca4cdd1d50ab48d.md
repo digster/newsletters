@@ -68,6 +68,9 @@ What kind of changes would you like to see in your work environment?
 The facilities here are satisfactory. However, there are areas of improvement. I have proposed the introduction of flexible duty timings that would focus on the total number of orders completed rather than start and end times. Removal of the latter condition would bring greater flexibility to the workplace. Working during summer afternoons can be challenging. To maximize earnings, working in the morning and evening is beneficial. In case of emergency, such as needing to leave, or if orders are sparse, only the earnings for half the day will be obtained. Working from 12 PM to 11 PM for 12 hours and delivering 13 orders brings in 650 rupees, and 19 orders earn 975 rupees. If 10 orders are delivered before leaving, then only 200 rupees will be earned.
 and follow me on Twitter
 If you are new to The India Notes, here are a few of my super hit editions
+Embedded post: [Sri Mandir UX Audit](https://newsletter.theindianotes.com/p/sri-mandir-ux-audit) — Dharmesh Ba · May 16, 2023
+Embedded post: [Why are Indians obsessed with gold?](https://newsletter.theindianotes.com/p/why-are-indians-obsessed-with-gold) — Dharmesh Ba · May 23, 2023
+Embedded post: [UX Audit: Paytm vs Google Pay vs PhonePe](https://newsletter.theindianotes.com/p/ux-audit-paytm-vs-google-pay-vs-phonepe) — Dharmesh Ba · March 7, 2023
 Credits:
 Interview conducted by
 [Pragya Verma](https://www.linkedin.com/in/pragyaverma2021/)Visualisation by

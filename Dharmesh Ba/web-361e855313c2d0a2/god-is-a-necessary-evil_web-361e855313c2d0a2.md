@@ -26,3 +26,6 @@ This makes me question - have we, as digital product creators, ever considered i
 When someone nowadays inquires whether I believe in God, I find myself replying, "I believe in those who have faith in God." Being a researcher, privileged to hear diverse tales from all walks of life, is a humbling experience that continually shapes my perspectives.
 and follow me on Twitter
 If you are new to The India Notes, here are a few of my popular editions:
+Embedded post: [#2 | Yugank - Living life by the grace of God.](https://newsletter.theindianotes.com/p/gig-economy-stories-2) — Dharmesh Ba · June 27, 2023
+Embedded post: [How did Flipkart convince Indians to buy online?](https://newsletter.theindianotes.com/p/how-did-flipkart-convince-indians) — Adyasha Padhy and Dharmesh Ba · June 20, 2023
+Embedded post: [Sri Mandir UX Audit](https://newsletter.theindianotes.com/p/sri-mandir-ux-audit) — Dharmesh Ba · May 16, 2023
