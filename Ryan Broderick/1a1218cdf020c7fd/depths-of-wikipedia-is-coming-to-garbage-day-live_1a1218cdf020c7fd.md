@@ -1,0 +1,11 @@
+---
+id: "1a1218cdf020c7fd"
+subject: "Depths of Wikipedia is coming to Garbage Day Live!!"
+from: "Garbage Day <hi@www.garbageday.email>"
+to: ""
+date: 2026-10-09 16:44:02
+labels: ["CATEGORY_PERSONAL", "INBOX", "Ryan Broderick", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_7525463136350272325", "UNREAD"]
+---
+| This spring we hosted three live shows at Baby’s All Right in Brooklyn, and they were all standing room only. Given popular demand, we’re doing one more show on October 27, with a very special guest: [Depths of Wikipedia](https://elink835.www.garbageday.email/ss/c/u001.Qr6Ovh5taOidqUa5P-dRpQYE8RIusqUvBbezVOx50XqaAhOKDJ9Ep1OdALxamaJPBsfccTEmnUher3tUWL0znvxPqJmyJN3PuYSxyAYcteGSaTpsBV1QOGNEsCo3eW0wRVbHm3i3JxiN6kViyubpcOFwtIldUqHKb2hYJxVFa0uxv_uKNXbmtkY1RqpjLnHAEYXZnDLDqOWG-ncW3fdOWVySO8Xpm73911ioSTlYoKPeY7w9vh9yBZlaeGyNpe1qLL093rfNkMaBtdZ9mFU8iwkGzYVSHjCIvVMOJqgfc7g/4uq/Nl4slbaBRRqcKNxxO2ju_Q/h3/h001.aIJw_4Errrp0epBtawwfLbDUkUlW_4h0QfhrTPpN9O4)! | Back in the halcyon days of 2010’s NYC Silicon Alley start-up world, there was an annual meme-based costume party and contest called Hallowmeme. It was always a blast, and while this Garbage Day Live show isn’t Hallowmeme, we’re channeling its energy and throwing our own costume contest during the show! So showing up in costume as, like, a Roblox character or a Sea World romantasy slider guy or whatever is highly encouraged. | Tickets are going fast, so snag one here before they sell out: | | | P.S. [here’s 8000+ memes and images](https://elink835.www.garbageday.email/ss/c/u001.GfCfFYCjlFsIxuyno160pKr4wFdwkWynfyB2Y7kDhwLJpzB5o3wrWkveQwgekbjOuMQ28jZ09IPGong3cx77Kg5aZGbC1XAh0_7uwnkxw0Wk_lVwxYYAY-VZqQb_c1bwj7yHKaqcH3-kk2PGsvmiSA5FHT5ohG_yRsFdp5HXfjhSJvcXOZb1FBO2KrxObPTKiHtuNVBoYFWjaXwEyckPJQljtIFnJ-nJUrKEKOskH5eZwg46ahJtX9YB5n28SEqebMMdKWW7UlOMxO00pWlR7Nbw0DyP0WdlImmKPC0TFboF-qjcSzA67FiHL6F3zrvJzHuq5SQa2ey4woFBVxkLBQ/4uq/Nl4slbaBRRqcKNxxO2ju_Q/h5/h001.steAxBADw5zXDmPeBsXMxj_j9_EqhoRgGBHFXfABHko) from the 2010s, archived by Garbage Day Discord member mcknighterson. | ***Any typos in this email are on purpose actually*** |
+|

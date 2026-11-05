@@ -1,0 +1,14 @@
+---
+id: "1a15f3b8b0054824"
+subject: "Wednesday assorted links"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2026-10-21 16:11:39
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699"]
+---
+2. [Apartments that expand at the touch of a button](https://marginalrevolution.com?action=user_content_redirect&uuid=ed86fc2c568b3f67021bc0f7a54b58401a9e8ed9119e1df90ab3ec75355681cf&blog_id=42693868&post_id=94034&user_id=262258391&subs_id=225460721&signature=b42d717038c88197764f4bdc5825018e&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly93d3cub3JpbGl2aW5nLmNvbS8&email_id=3245d867e58eb1168327ff79165aba37).
+3. [Has this guy composed more songs than anybody else?](https://marginalrevolution.com?action=user_content_redirect&uuid=24c674203df744d687b84ae1302752684e63f720c59d957917ff86b5994441fa&blog_id=42693868&post_id=94034&user_id=262258391&subs_id=225460721&signature=1e25083c31e193451b602ecb6691932c&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly9zZmFsZXhhbmRyaWEuY29tL3Bvc3RzL21hdHRzLWdlbml1cy8&email_id=3245d867e58eb1168327ff79165aba37)
+4. [Psychoanalyzing Elizabeth Holmes](https://marginalrevolution.com?action=user_content_redirect&uuid=bf7f9c506c62a13d41523f1c99a5372016f56a3cf3d7d283bea2c5be6789d6db&blog_id=42693868&post_id=94034&user_id=262258391&subs_id=225460721&signature=7eea17c0342cf230a1a161c0869c1a72&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly93d3cudW5wb3B1bGFyZnJvbnQubmV3cy9wL3lvdS1jYW50LWtub3ctZXZlcnl0aGluZw=&email_id=3245d867e58eb1168327ff79165aba37).
+5. [AI wrote some of the Dallas Michelin reviews](https://marginalrevolution.com?action=user_content_redirect&uuid=c63f49b3686fa17e0267aedef3be75f8c7824128e68b15457de1217a3a61240b&blog_id=42693868&post_id=94034&user_id=262258391&subs_id=225460721&signature=86b2e1803757afad74a48d2ebc3db9c0&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly93d3cuZG1hZ2F6aW5lLmNvbS9mb29kLWRyaW5rLzIwMjYvMTAvbWljaGVsaW4tZ3VpZGUtZGFsbGFzLWFpLXJldmlld3Mv&email_id=3245d867e58eb1168327ff79165aba37).
+6. [New Yorker profile of James Daunt](https://marginalrevolution.com?action=user_content_redirect&uuid=324d9e4ec3046efe8f1a85e7bf8ec1eac2c67f6a2c636f9bf5fd5740f24f1c0f&blog_id=42693868&post_id=94034&user_id=262258391&subs_id=225460721&signature=668e72d0874dac42dec99f485bd62182&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly93d3cubmV3eW9ya2VyLmNvbS9tYWdhemluZS8yMDI2LzEwLzI2L2phbWVzLWRhdW50LXByb2ZpbGU&email_id=3245d867e58eb1168327ff79165aba37). The last event I was at I saw three Daunt bags, one of them mine (not in the UK).

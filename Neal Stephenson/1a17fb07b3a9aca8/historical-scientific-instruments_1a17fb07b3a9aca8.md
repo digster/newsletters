@@ -1,0 +1,10 @@
+---
+id: "1a17fb07b3a9aca8"
+subject: "Historical Scientific Instruments"
+from: "\"Graphomane (Neal Stephenson's Substack)\" <nealstephenson@substack.com>"
+to: ""
+date: 2026-10-27 23:26:39
+labels: ["CATEGORY_PERSONAL", "INBOX", "Neal Stephenson", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_3437328080567268575", "UNREAD"]
+---
+Thanks to Dr. Joshua Gorman, Executive Director of the The Uranium CubeAs recently reported in It is black, rather than metallic, because the outer layer is oxidized. This is unenriched uranium—it has the same ratio of U238 to U235 found in all natural samples of the metal. I don’t know what else to say about it except that, as one would expect, it is extraordinarily dense. The German reactor project worked on the same general principle as The Koenig AnalyzerIn one of my KdK posts I made passing reference to the Between the A-shaped frame on the left, and the wooden box on the right, you can see a vertical row of 8 little nozzles. This is a manifold for distributing flammable gas to the 8 brass spheres (two of which are missing) on the left. The spheres are acoustic resonators, each tuned to a specific frequency. When all of them were exposed to the same sound, some of them would resonate more strongly than others. Since they were full of burning gas, the degree of resonance would be made visible by the size of the flames. The hand-cranked box on the right was originally covered by mirrors. It is a device known as a Wheatstone mirror. To be honest, I am unclear as to the principle of its operation in this case, but apparently, by looking into the mirror as it spun around, the observer was able to obtain information about the relative size of the flames that wouldn’t have been evident simply by looking at them directly. It’s been known for a while that all sounds—all periodic signals, really—are composed of different frequencies superimposed to make a more complex waveform. The Koenig Analyzer is a tool for making that visually obvious. As such it would have been well known to Abbé Zéphirin Carrière, the acoustics genius who was the subject of You're currently a free subscriber to |

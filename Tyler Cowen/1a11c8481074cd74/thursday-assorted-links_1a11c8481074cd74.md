@@ -1,0 +1,14 @@
+---
+id: "1a11c8481074cd74"
+subject: "Thursday assorted links"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2026-10-08 17:16:47
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+2. [How the math breakthroughs might matter](https://marginalrevolution.com?action=user_content_redirect&uuid=537349c1da5d53ce45bca4943c19eacadba324325285993b936db6a1504ca6d4&blog_id=42693868&post_id=93947&user_id=262258391&subs_id=225460721&signature=ad0f2b8e93470836498b9d043e5b96fa&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly94LmNvbS9pdHNvbGVsZWhtYW5uL3N0YXR1cy8yMTA3ODMwMDE0MzIyMzgwOTk3P3M9NDYmdD1mU3lwRnh0ODRiQkhJZC1kbzlyNUFn&email_id=2376194788df327b7e1f1530d38fab71).
+3. [Short proof of quasi-Riemann](https://marginalrevolution.com?action=user_content_redirect&uuid=244eb11b59dff11b71b2ec314191715b666fe9b107ed21d9888bda08e23e6010&blog_id=42693868&post_id=93947&user_id=262258391&subs_id=225460721&signature=6f817cf50e7bdce8630682f42d305236&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly94LmNvbS9zaGl2YWtpbnRhbGkvc3RhdHVzLzIxMDc5ODUzNzc5NzM5MjAxMjE/cz02MQ=&email_id=2376194788df327b7e1f1530d38fab71).
+4. [App for finding art exhibitions](https://marginalrevolution.com?action=user_content_redirect&uuid=7a590117d347873b22515d615f237ed55bf83c14eb9a19767390e34efad73841&blog_id=42693868&post_id=93947&user_id=262258391&subs_id=225460721&signature=321af6a9dd87e6b88e8786cfc1923504&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly9hcnQtZXhoaWJpdGlvbnMtc2VhcmNoLnZlcmNlbC5hcHAv&email_id=2376194788df327b7e1f1530d38fab71).
+5. [Podcast on African economic growth](https://marginalrevolution.com?action=user_content_redirect&uuid=e2da207b654e34e6455b844df71bd7c27aa592f467d17e95369394a35c34327f&blog_id=42693868&post_id=93947&user_id=262258391&subs_id=225460721&signature=9ebdf37bbf6de480ac2182c12a1bfbbd&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly94LmNvbS9rdXJ0aXNsb2NraGFydC9zdGF0dXMvMjEwNzk0ODEyMTk0MjkwNTI5Mz9zPTQ2&email_id=2376194788df327b7e1f1530d38fab71).
+6. New and very good book: [The Madrid Model: How Freedom and Openness Created an Economic Powerhouse](https://marginalrevolution.com?action=user_content_redirect&uuid=3fac24bee1370494babcbc85fef8fd48307a9f3d15199197cd3031f235b828d2&blog_id=42693868&post_id=93947&user_id=262258391&subs_id=225460721&signature=673fd68d8af38c93d462458cbfdc0b28&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly93d3cuY2F0by5vcmcvYm9va3MvbWFkcmlkLW1vZGVs&email_id=2376194788df327b7e1f1530d38fab71), by Diego Sánchez de la Cruz.

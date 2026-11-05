@@ -1,0 +1,11 @@
+---
+id: "1a164e851231f1eb"
+subject: "How Long Do Wealth Shocks Persist? Less Than Three Generations in England, 1700–2026"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2026-10-22 18:38:28
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+What happens across generations to wealth shocks? Do they endure and even magnify, or do they dissipate? By implication, how much modern wealth is attributable to events before 1900? This paper uses random shocks to family size in England before 1880 that created wealth shocks for the children to measure the persistence of wealth shocks. Fertility in England before 1880 was a biological lottery. For richer families, family size strongly influenced child wealth. This paper finds that such biology-induced wealth shocks had no impact on descendant wealth by three generations later. Since wealth itself persisted across more than five generations this implies that, in the long run, wealth mainly derives from sources other than inherited wealth. The observed link between nineteenth century and modern wealth does not lie in wealth transfers alone. Wealth persisted because of the familial inheritance of behaviors associated with wealth accumulation and retention.
+That is from [a recent paper](https://marginalrevolution.com?action=user_content_redirect&uuid=f5853490b71f84e362106b5b153e31d6b92ca9d820afb7675363fd6be7b87197&blog_id=42693868&post_id=94042&user_id=262258391&subs_id=225460721&signature=99d15238bdb3905f830bef81b968a42d&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly9vbmxpbmVsaWJyYXJ5LndpbGV5LmNvbS9kb2kvZnVsbC8xMC4xMTExL3JvaXcuNzAwOTY&email_id=6297cc299d5268e59d00719ea93508a8) by Gregory Clark and Neil Cummins. Via the excellent [Kevin Lewis](https://marginalrevolution.com?action=user_content_redirect&uuid=8dbf3cd542486c52c3261e45212b53ddb6c914aeaa2020506d9e9786dec45b16&blog_id=42693868&post_id=94042&user_id=262258391&subs_id=225460721&signature=70d3e85fddd3ee428ecd361645806635&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly93d3cubmF0aW9uYWxhZmZhaXJzLmNvbS9ibG9nL2RldGFpbC9maW5kaW5ncy1hLWRhaWx5LXJvdW5kdXAvaG93LW1vcmFs&email_id=6297cc299d5268e59d00719ea93508a8).

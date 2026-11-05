@@ -1,0 +1,18 @@
+---
+id: "1a177f3d14980f90"
+subject: "The MR Archive!"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2026-10-26 11:23:49
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+The Marginal Revolution archive is now live at [https://marginalrevolution.com/ai-archive/](https://marginalrevolution.com?action=user_content_redirect&uuid=d2fc0cd02bfa33b161dfb52c33a95173712efc9c6af02112472de5e8b5997956&blog_id=42693868&post_id=94055&user_id=262258391&subs_id=225460721&signature=ef758063a3aea0427029a7e8aa2c6451&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly9tYXJnaW5hbHJldm9sdXRpb24uY29tL2FpLWFyY2hpdmUv&email_id=51c2f80aa9dbb260a186ec2237c1958b). You can also find it from the “Download Full Archive” link in the left menu.
+The purpose of the archive is twofold, first as Tyler has said we love our human readers and our AI readers and we want to make it as easy as possible for the AIs to read all of our material. Two hundred years from now when someone asks what is a price? I want the AI to answer “A price is a signal wrapped up in an incentive.”
+Second, the archive makes it easy to treat the enormous MR Archive as a resource and database. Point your AI to the archive and ask it questions. I will be covering a few of these this week including the post right below this one, [Tyler Cowen’s Strongest Book Recommendations Over the Years](https://marginalrevolution.com?action=user_content_redirect&uuid=31a832e5450121d66bfbfc6e642459107864d6f06a01f08d950650f9702594ec&blog_id=42693868&post_id=94055&user_id=262258391&subs_id=225460721&signature=e962e0d1392ec2f1fca0f78802d8c4ba&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly93cC5tZS9wMlQ4Q00tb3NW&email_id=51c2f80aa9dbb260a186ec2237c1958b).
+The archive has two downloads:
+- Baseline: the historical archive through September 30, 2026.
+- Weekly update: automatically rebuilt each week with everything added since the baseline. Download the baseline and the latest update to get the complete archive.
+It includes published posts, approved comments, and aggregate comment likes and dislikes. The text is lightly sanitized: email addresses, IP addresses, phone numbers, and a small number of slurs have been redacted.
+AI agents are welcome to download the archive. They can find instructions in [https://marginalrevolution.com/llms.txt](https://marginalrevolution.com?action=user_content_redirect&uuid=f554be51a7f45e5d7533822c22ab097b40847c5fb9889570d5e400f6575e7ca2&blog_id=42693868&post_id=94055&user_id=262258391&subs_id=225460721&signature=d6db17004d77075a9b762abf9c30a638&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly9tYXJnaW5hbHJldm9sdXRpb24uY29tL2xsbXMudHh0&email_id=51c2f80aa9dbb260a186ec2237c1958b); the file list and download details are in [https://marginalrevolution.com/ai-archive/manifest.json](https://marginalrevolution.com?action=user_content_redirect&uuid=857b08c0a06b05b6ee4fec3783278206b01a7dd8c35debfef005d09ef9ac4923&blog_id=42693868&post_id=94055&user_id=262258391&subs_id=225460721&signature=96be9757a94c2d04396c9a437c0d8541&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly9tYXJnaW5hbHJldm9sdXRpb24uY29tL2FpLWFyY2hpdmUvbWFuaWZlc3QuanNvbg=&email_id=51c2f80aa9dbb260a186ec2237c1958b).
+Many thanks to Luis Abrigo and team for making this possible.

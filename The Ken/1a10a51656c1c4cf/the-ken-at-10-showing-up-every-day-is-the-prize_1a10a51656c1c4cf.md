@@ -1,0 +1,49 @@
+---
+id: "1a10a51656c1c4cf"
+subject: "The Ken at 10: Showing up every day is the prize"
+from: "The Ken <info@the-ken.com>"
+to: ""
+date: 2026-10-05 04:27:47
+labels: ["CATEGORY_PERSONAL", "INBOX", "The Ken", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_8244464457792971031", "UNREAD"]
+---
+|
+|
+Delivered to Ishan, Subscriber to The Ken.
+Mon, 05 Oct 2026
+|
+The Spotlight By Seema Singh
+CO-FOUNDER AND EDITOR
+|
+|
+Good Morning Ishan,
+Own or Be Owned. It’s the title of a new book which argues that owning your own business is the path to freedom. I’m transposing these four words to October 2016, when we officially launched The Ken as a subscription-driven business publication.
+The dust hadn’t settled on the corporate-ownership transactions that had swallowed independent media in the preceding months. Anyone who spoke their mind or probed an influential company had to check the ground beneath their feet. It was hard for a bunch of newbie media founders like us to see through that dusty landscape and figure out how a subscription product would even take off, let alone survive. After all, nobody in India paid to read stuff on the internet.
+All I remember is that in the first week, hundreds of readers bought annual subscriptions to read what was mostly a promise. We spoke about our early days when we turned [one](https://the-ken.com/blog/the-ken-at-one/), [two](https://the-ken.com/blog/no-one-pays-news-india/), [three](https://the-ken.com/blog/wehave-turned-three/), [four](https://the-ken.com/blog/the-ken-turns-4/), and [nine](https://the-ken.com/blog/the-ken-turns-9/). Over these years, I’ve repeatedly asked myself, “When will it get easier?” If I can answer this for myself, it’s “never”. As we turn 10, I’m more convinced than ever that in this business, the journey is the reward.
+But that can’t be true for investors.
+Journalism was never a venture-capital-friendly business; even more so at The Ken, which was always going to be a high-touch, curated product where throwing money at it wouldn’t bring scale. So, I wonder what our angel investors, all successful entrepreneurs in 2016, thought as they parted with their money.
+The credit for raising our angel funding goes to my co-founders Rohin and Sumanth because, to date, I’ve never met any of those investors. The separation between church and state wasn’t required, yet it existed thanks to Rohin, and it helped me keep my eyes firmly on our journalism. People those days would write to me for introductions to our investors, and my standard response was: “I don’t know them personally, and I don’t do business introductions.”
+It turned out that, as die-hard chroniclers of the new economy, we ended up writing critically about many of those angel investors. The unvarnished truth is that not one of them ever called me to complain that my colleagues were digging around or that their list of questions was long and uncomfortable, and none had ever requested that we drop the story. In fact, one of our investors, Girish Mathrubootham, co-founder of Freshworks, said something on Twitter, now X, which embodies our work:
+On our 10th anniversary, I wrote to more than a dozen leaders at companies we’ve written about extensively, asking for their views on The Ken. Some ignored me—and I respect their reasons—while others were gracious enough to respond. Shobana Kamineni, promoter director at Apollo Hospitals, echoed Girish’s sentiments when she said she loves reading us “as long as it is about others”.
+We’ve been unsparing in our coverage of Vijay Shekhar Sharma, one of our investors, especially before Paytm became a publicly traded company. We include a disclosure every time we mention Paytm. So, in my first-ever and brief interaction with him last week, I asked him why he backed us. His response: “I don’t even remember what I thought when I invested in The Ken. But you carry this disclosure so frequently that others ask me about it.”
+The National Payments Corporation of India—the parent body of UPI—is another entity we’ve doggedly tracked. A few years ago, when I met its chief executive, Dilip Asbe, in Bengaluru, we were still writing about his organisation with intense regularity. What he said about The Ken has stayed with me: one may not agree with what our reporters write, but nobody can take our work lightly.
+We didn’t take it lightly when we called out Byju’s business model in 2017. And we kept calling it out until the end in June 2022; when faced with an [audit reckoning](https://the-ken.com/story/an-audit-reckoning-the-22b-byjus-juggernaut-is-yet-to-get-deloittes-approval/), it chose to send its corporate filings to select media houses for coverage and excluded us. We kept digging in our heels. Inverting Marcus Aurelius’ words, what was not good for the bee was not good for the hive. One (queen) bee took down the entire hive!
+I feel no flash of schadenfreude in recounting this unfortunate story, which exposed unprecedented founder-investor greed, except to make a case for free press, a vital ingredient for democratic self-governance. As misinformation surges and the business model funding original reporting remains under pressure, we are very clear at The Ken about what we are responsible for, what our reporting framework is, and where our loyalty lies. It’s always with our subscribers, readers, and listeners.
+No two years have been the same, whether in business or editorial priority, but the winds of change today are getting stormier. Many peers in digital media have folded or been acquired by legacy outlets, including global brands like Buzzfeed, Quartz, and Business Insider. Between technological disintermediation and eroding trust in media—partly their own doing—business journalism faces the same test we apply to companies, founders, and executives in our work. Is our work relevant? Why should someone care about what we produce? Have we been fair and rigorous in our process? Does it bring value to our subscribers?
+It’s this internal quality compass that is our moat when everyone is a “writer” in the age of AI.
+Recently, at one of our events in Bengaluru, an executive from Swiss engineering company ABB walked up to me, complimented me, and then rubbed salt in my wound: “Perplexity is killing you.”
+Why just Perplexity? It’s all of them. But I also believe that if AI doesn’t wipe us out, as Anthropic founder Dario Amodei fears, we’ll be standing somewhere in a bylane, letting the AI tornado pass, and continuing to build a resilient journalism organisation.
+As a co-founder, I find this the most challenging time for our business model. Still, as a journalist, I think there has never been a more exciting time to report and ship high-quality stories and podcasts to a discerning subscriber base.
+I say this to our young writers and editors all the time, even as I instill the fear of AI in them.
+In February 2023, we [said](https://the-ken.com/blog/chatgpt-and-others-can-write-many-things-but-they-will-not-write-at-the-ken/) AI would not write stories at The Ken. In August 2025, as AI tools swept over the writing world, we updated our stance: AI will not write stories at The Ken—not whole stories, not parts of stories, not even headlines.
+During the past decade, we’ve gone from one story a day to adding many thematic newsletters, one every day through the week. We tested the waters with our first podcast, Unofficial Sources; then launched a daily podcast, Daybreak; followed by a weekly one, Two by Two; then a monthly one, First Principles; and this year, our first video podcast, Intermission. We’ll keep experimenting and add more offerings. But they will be human-created.
+On that note, I’d like to thank the many humans who’ve made this product possible:
+- Our angel and
+[institutional](https://the-ken.com/blog/the-ken-raises-1-5m-in-its-series-a-round/)[investors](https://the-ken.com/blog/the-ken-closes-2m-series-b-funding/). The[list](https://the-ken.com/blog/ken-announces-angel-funding/)is long and on our site. We truly appreciate the financial support and freedom you gave us to live by our beliefs. - Our subscribers. Each of you has funded us, which has let us operate freely. We live to deliver value.
+- Our colleagues, past and present. Many from the early years have moved on; a whole bunch discovered their true talent here, some remain our brand ambassadors, some have heaved a sigh of relief (one of them told me while leaving: “Your standards are too high; it’s not good for me in the long run”), but many continue to believe that the journey is the reward.
+- I am extremely proud of the editorial team led by Seetharaman, Anand, Brady, and Sumit; and the product-and-engineering teams led by Praveen and Iqbal. As for the rest of the team not named here, a big thank you and a high-five! The next 10 years are yours to shape. Maybe it’s 25 years, if Sankaran Naren of ICICI Prudential AMC has his wish granted.
+We seldom talk about ourselves, so thank you for allowing me this indulgence! If you feel like it, tell me what you think of The Ken turning 10, or what you would like The Ken to be in the next 10.
+You can read and watch reflections from our other subscribers [here](https://the-ken.com/ten-years/throwback/).
+Sincerely,
+Seema Singh
+Editor & Co-founder, The Ken

@@ -1,0 +1,12 @@
+---
+id: "1a15cd6fe81aed6a"
+subject: "The Causal Effect of Foreign Ideas on U.S. Innovation"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2026-10-21 05:02:36
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+Globalization is once again better than many people realize:
+We study the role of foreign ideas in U.S. innovation by constructing a directed “genealogy” of technologies from the full text of 13 million patents filed between 1887 and 2024. By tracing which earlier technologies appear in the founding patents of new ones, we recover a large-scale input–output network of technological recombination that identifies the foreign technologies that serve as inputs into innovation in the United States. We report four main findings. First, foreign ideas are pervasive: 54% of U.S. technologies build on at least one foreign input, and the most fertile U.S. technologies rely on foreign inputs most heavily. Second, foreign ideas have large causal effects on U.S. innovation. Using the historical settlement of migrants as a source of exogenous variation in local ancestry, we show that U.S. counties more exposed to knowledge from a given foreign country absorb substantially more technologies from that country and, in turn, invent significantly more U.S. technologies building on them. Third, foreign ideas shape not only the level but also the direction of technical change: U.S. counties are far more likely to pioneer the specific technologies whose foreign inputs are already in their local idea stock, and the changing origins of foreign ideas accompany the shift of American innovation from its historical heartland toward the coasts. Fourth, these effects leave a lasting imprint on local labor markets: decades later, counties that absorbed more of an origin’s ideas host more jobs working with those ideas, and even more work with the U.S. technologies descended from them.
+Here is [the full paper](https://marginalrevolution.com?action=user_content_redirect&uuid=0830e216204f4cca79a18bd417862d42535203ec154ae14bb44c637deba4b794&blog_id=42693868&post_id=94038&user_id=262258391&subs_id=225460721&signature=4690df2d2c1f6167bb27996f0b398ecf&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly93d3cubmJlci5vcmcvcGFwZXJzL3czNTkwMCNmcm9tcnNz&email_id=ad1605b0a931d748b06c365ec44f5e44) by

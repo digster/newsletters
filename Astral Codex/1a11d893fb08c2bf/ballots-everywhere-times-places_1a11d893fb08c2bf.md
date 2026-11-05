@@ -1,0 +1,44 @@
+---
+id: "1a11d893fb08c2bf"
+subject: "Ballots Everywhere: Times & Places"
+from: "Astral Codex Ten <astralcodexten@substack.com>"
+to: ""
+date: 2026-10-08 22:00:52
+labels: ["Astral Codex", "CATEGORY_PERSONAL", "INBOX", "UNREAD"]
+label_ids: ["Label_6409723252142624155", "CATEGORY_PERSONAL", "INBOX", "UNREAD"]
+---
+In past election years, [I’ve shared](https://substack.com/redirect/3b1f0c12-a671-435c-95ff-00afe922ca14?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) how I plan to vote in local elections. A few years ago I scaled it up and aimed for voter guides from some of the larger US cities and states. This year, it’s open to anyone who said they were interested.
+If you’re in one of the cities involved, consider going to the meetup and helping decide who to recommend. You’ll probably want a laptop, or at least a smartphone, plus whatever voting guide your city puts out.
+If you wanted to do this but forgot, there’s still time. Let me know in the comments and I’ll post about your meetup plan on this week’s open thread.
+Let me know once you’re done. I aim to post results on open threads sometime before too many people have early-voted.
+BOSTON
+(Sorry, we did this one early before it looked like there’d be wider meetups!)
+GREAT BARRINGTON
+Contact: Sonja
+Contact Info: sonja[period]public[a t]proton[period]me
+Time: Saturday, October 17th, 11:00 AM
+Location: Rubi’s at 264 Main Street, Great Barrington, MA 01230
+Coordinates: [https://plus.codes/87J85JWQ+47](https://substack.com/redirect/a0eb4f8f-5aff-4fc1-a5c1-f2325177963b?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+Notes: RSVP required
+ATLANTA
+Contact: Benjamin Ikuta
+Contact Info: benjaminikuta on Telegram and other platforms, (858) 876-7612
+Time: Sunday, October 11th, 5:00 PM
+Location: 2616 Rocky Springs Dr NE, Marietta, GA 30062
+Coordinates: [https://plus.codes/866Q2G7X+X6G](https://substack.com/redirect/3b58922b-a70b-428c-83a8-1a6a4cf8af9e?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+RALEIGH/DURHAM/CHAPEL HILL
+Contact: William Crumpler
+Contact Info: wdcrumpler[a t]gmail[period]com
+Time: Saturday, October 17th, 2:00 PM
+Location: We will meet at the tables beneath the covered area at the American Tobacco Campus, outside of Boricua Soul.
+Coordinates: [https://plus.codes/8773X3VV+2R8](https://substack.com/redirect/04ff0045-07d9-4c5c-b8e5-40fe716b1533?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+Group Link: [https://groups.google.com/g/RTLW](https://substack.com/redirect/79f8eb6d-c1cf-4052-920a-9526bee42b9e?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+Notes: Prior research on candidates/ballot initiatives not required (but always encouraged!) for those who want to join. ATC has public WIFI, so feel free to bring laptops. Additional info will be posted on our Google Group.
+AUSTIN
+Contact: Silas Barta
+Contact Info: austin-less-wrong[a t]googlegroups[period]com
+Time: Saturday, October 17th, 2:30 PM
+Location: Central Market Cafe, 4001 N Lamar, Austin, TX. Look for the “ATX LessWrong” sign. We will probably be in the upper or lower patio area. If parking is scarce you can use the lot for the neighboring park at ~3900 Guadalupe St and walk through the park.
+Coordinates: [https://plus.codes/86248746+W2](https://substack.com/redirect/0ac615af-0e7e-4ad9-b696-5cd0aaecc7fa?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+Group Link: [https://austinlesswrong.com/calendar/](https://substack.com/redirect/261be874-03ba-4c35-895b-4c1d43065c11?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)
+Notes: 2:30 PM is when the ballot activity starts. Please arrive some time in the preceding hour to find the group and get situated. We run twice-weekly events, so there are lots of opportunities to connect to the group. Mailing list: [https://groups.google.com/g/austin-less-wrong](https://substack.com/redirect/5e215f3e-4aa7-4a49-aa13-803e39c7bebd?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o)

@@ -1,0 +1,780 @@
+<!doctype html>
+<html lang="en-gb" dir="ltr">
+    <head>
+        <meta name="viewport" content="width=device-width">
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <!--[if mso]><xml><o:OfficeDocumentSettings><o:PixelsPerInch>96</o:PixelsPerInch><o:AllowPNG/></o:OfficeDocumentSettings></xml><![endif]-->
+        <title>Understanding Anthropic</title>
+        <style>
+@media only screen and (max-width: 620px) {
+  table.body {
+    width: 100%;
+    min-width: 100%;
+  }
+
+  table.body .content {
+    padding: 0 !important;
+  }
+
+  table.body .container {
+    padding: 0 !important;
+    width: 100% !important;
+  }
+
+  table.body .main {
+    border-spacing: 10px 0 !important;
+    border-left-width: 0 !important;
+    border-radius: 0 !important;
+    border-right-width: 0 !important;
+  }
+
+  table.body .img-responsive {
+    height: auto !important;
+    max-width: 100% !important;
+    width: auto !important;
+  }
+}
+@media all {
+  .ExternalClass {
+    width: 100%;
+  }
+
+  .ExternalClass,
+.ExternalClass p,
+.ExternalClass span,
+.ExternalClass font,
+.ExternalClass td,
+.ExternalClass div {
+    line-height: 100%;
+  }
+
+  .apple-link a {
+    color: inherit !important;
+    font-family: inherit !important;
+    font-size: inherit !important;
+    font-weight: inherit !important;
+    line-height: inherit !important;
+    text-decoration: none !important;
+  }
+
+  #MessageViewBody a {
+    color: inherit;
+    text-decoration: none;
+    font-size: inherit;
+    font-family: inherit;
+    font-weight: inherit;
+    line-height: inherit;
+  }
+}
+@media only screen and (max-width: 620px) {
+  table[class=body] h1 {
+    font-size: 28px !important;
+    margin-bottom: 10px !important;
+  }
+
+  table[class=body] p,
+table[class=body] ul,
+table[class=body] ol,
+table[class=body] td,
+table[class=body] span,
+table[class=body] a {
+    font-size: 16px !important;
+  }
+
+  table[class=body] .wrapper,
+table[class=body] .article {
+    padding: 10px !important;
+  }
+
+  table[class=body] .content {
+    padding: 0 !important;
+  }
+
+  table[class=body] .container {
+    padding: 0 !important;
+    width: 100% !important;
+  }
+
+  table[class=body] .main {
+    border-left-width: 0 !important;
+    border-radius: 0 !important;
+    border-right-width: 0 !important;
+  }
+
+  table[class=body] .btn table {
+    width: 100% !important;
+  }
+
+  table[class=body] .btn a {
+    width: 100% !important;
+  }
+
+  table[class=body] .img-responsive {
+    height: auto !important;
+    max-width: 100% !important;
+    width: auto !important;
+  }
+
+  table[class=body] p[class=small],
+table[class=body] a[class=small] {
+    font-size: 11px !important;
+  }
+}
+@media only screen and (max-width: 620px) {
+  table.body .kg-bookmark-card {
+    width: 90vw;
+  }
+
+  table.body .kg-bookmark-thumbnail {
+    display: none !important;
+  }
+
+  table.body .kg-bookmark-metadata span {
+    font-size: 13px !important;
+  }
+
+  table.body .kg-embed-card {
+    max-width: 90vw !important;
+  }
+
+  table.body .kg-cta-card {
+    padding: 0 20px;
+  }
+
+  table.body .kg-cta-card.kg-cta-bg-none {
+    padding: 0;
+  }
+
+  table.body .kg-cta-sponsor-label {
+    padding: 10px 0;
+  }
+
+  table.body table.kg-cta-content-wrapper:not(.kg-cta-bg-none.kg-cta-no-dividers table.kg-cta-content-wrapper) {
+    padding: 20px 0;
+  }
+
+  table.body .kg-cta-immersive.kg-cta-has-img:not(.kg-cta-bg-none):not(.kg-cta-no-label) table.kg-cta-content-wrapper {
+    padding-top: 0;
+  }
+
+  table.body .kg-cta-minimal .kg-cta-image-container {
+    padding-right: 20px;
+  }
+
+  table.body .kg-cta-immersive .kg-cta-image-container {
+    padding-bottom: 20px;
+  }
+
+  table.body .kg-cta-immersive.kg-cta-no-text .kg-cta-image-container {
+    padding-bottom: 0;
+  }
+
+  table.body .kg-cta-button-container {
+    padding-top: 16px;
+  }
+
+  table.body .kg-cta-minimal .kg-cta-image-container {
+    display: inline-block !important;
+    width: 100% !important;
+    padding: 0 !important;
+    padding-bottom: 16px !important;
+    padding-right: 0 !important;
+  }
+
+  table.body .kg-cta-minimal .kg-cta-content-inner {
+    display: inline-block !important;
+    width: 100% !important;
+    padding: 0 !important;
+  }
+
+  table.body .kg-cta-minimal img.kg-cta-image {
+    width: 52px !important;
+    height: 52px !important;
+  }
+}
+@media all {
+  .ExternalClass {
+    width: 100%;
+  }
+
+  .ExternalClass,
+.ExternalClass p,
+.ExternalClass span,
+.ExternalClass font,
+.ExternalClass td,
+.ExternalClass div {
+    line-height: 100%;
+  }
+
+  .recipient-link a {
+    color: inherit !important;
+    font-family: inherit !important;
+    font-size: inherit !important;
+    font-weight: inherit !important;
+    line-height: inherit !important;
+    text-decoration: none !important;
+  }
+
+  #MessageViewBody a {
+    color: inherit;
+    text-decoration: none;
+    font-size: inherit;
+    font-family: inherit;
+    font-weight: inherit;
+    line-height: inherit;
+  }
+}
+@media only screen and (max-width: 620px) {
+  .hide-mobile {
+    display: none;
+  }
+
+  .mobile-only {
+    display: initial !important;
+  }
+
+  .hide-desktop {
+    display: initial !important;
+  }
+
+  .desktop-only {
+    display: none !important;
+  }
+
+  table.body p,
+table.body ul,
+table.body ol,
+table.body td {
+    font-size: 16px;
+  }
+
+  table.header .post-excerpt {
+    font-size: 16px !important;
+  }
+
+  table.body .kg-callout-card {
+    padding: 16px 24px !important;
+  }
+
+  table.body .kg-callout-text {
+    font-size: 16px !important;
+    line-height: 1.5 !important;
+  }
+
+  table.body pre {
+    white-space: pre-wrap !important;
+    word-break: break-word !important;
+  }
+
+  table.body .main,
+table.header .header-main {
+    border-spacing: 10px 0 !important;
+    border-left-width: 0 !important;
+    border-radius: 0 !important;
+    border-right-width: 0 !important;
+  }
+
+  table.header .site-icon {
+    padding-top: 0 !important;
+  }
+
+  table.header .site-info {
+    padding-top: 24px !important;
+  }
+
+  table.header .post-title-link {
+    margin-top: 24px !important;
+  }
+
+  table.header .post-meta-wrapper {
+    padding-bottom: 24px !important;
+  }
+
+  table.header .site-icon img {
+    width: 36px !important;
+    height: 36px !important;
+  }
+
+  table.header .site-url a {
+    font-size: 13px !important;
+    padding-bottom: 16px !important;
+  }
+
+  table.header .post-meta,
+table.header .post-meta-date {
+    white-space: normal !important;
+    font-size: 13px !important;
+    line-height: 1.2;
+  }
+
+  table.header .post-meta,
+table.header .view-online {
+    width: 100% !important;
+  }
+
+  table.header .post-meta-left,
+table.header .post-meta-left.view-online {
+    width: 100% !important;
+    text-align: left !important;
+  }
+
+  table.header .post-meta.view-online-mobile {
+    display: table-row !important;
+  }
+
+  table.header .post-meta-left.view-online-mobile,
+table.header .post-meta-left.view-online-mobile .view-online {
+    text-align: left !important;
+  }
+
+  table.header .post-meta.view-online.desktop {
+    display: none !important;
+  }
+
+  table.header .view-online {
+    text-decoration: underline;
+  }
+
+  table.body .footer p,
+table.body .footer p span {
+    font-size: 13px !important;
+  }
+
+  table.header .view-online-link,
+table.body .footer,
+table.body .footer a {
+    font-size: 13px !important;
+  }
+
+  table.header .post-title a {
+    font-size: 26px !important;
+    line-height: 1.1 !important;
+  }
+
+  table.feedback-buttons {
+    display: table !important;
+    width: 100% !important;
+    max-width: 390px;
+  }
+
+  table.feedback-buttons img {
+    display: inherit !important;
+  }
+
+  table.body .feedback-button-text {
+    display: none!important;
+  }
+
+  table.body .latest-posts-header {
+    font-size: 12px !important;
+  }
+
+  table.body .latest-post-title {
+    padding-right: 8px !important;
+  }
+
+  table.body .latest-post h4,
+table.body .latest-post h4 span {
+    padding: 4px 0 6px !important;
+    font-size: 15px !important;
+  }
+
+  table.body .latest-post-excerpt,
+table.body .latest-post-excerpt a,
+table.body .latest-post-excerpt span {
+    font-size: 13px !important;
+    line-height: 1.2 !important;
+  }
+
+  table.body .subscription-box h3 {
+    font-size: 14px !important;
+  }
+
+  table.body .subscription-box p,
+table.body .subscription-box p span {
+    font-size: 13px !important;
+  }
+
+  table.body .subscription-details,
+table.body .manage-subscription {
+    display: inline-block;
+    width: 100%;
+    text-align: left !important;
+    font-size: 13px !important;
+  }
+
+  table.body .subscription-details {
+    padding-bottom: 12px;
+  }
+
+  table.body h1 {
+    font-size: 32px !important;
+    line-height: 1.3 !important;
+  }
+
+  table.body h2,
+table.body h2 span {
+    font-size: 26px !important;
+    line-height: 1.22 !important;
+  }
+
+  table.body h3 {
+    font-size: 21px !important;
+    line-height: 1.25 !important;
+  }
+
+  table.body h4 {
+    font-size: 19px !important;
+    line-height: 1.3 !important;
+  }
+
+  table.body h5 {
+    font-size: 16px !important;
+    line-height: 1.4 !important;
+  }
+
+  table.body h6 {
+    font-size: 16px !important;
+    line-height: 1.4 !important;
+  }
+
+  table.body blockquote {
+    font-size: 16px !important;
+    line-height: 1.6;
+    margin-bottom: 0;
+  }
+
+  table.body blockquote p {
+    margin-right: 15px !important;
+    margin-left: 15px !important;
+  }
+
+  table.body blockquote.kg-blockquote-alt {
+    border-left: 0 none !important;
+    margin: 0 !important;
+    font-size: 18px !important;
+    line-height: 1.4 !important;
+  }
+
+  table.body blockquote.kg-blockquote-alt p {
+    margin-right: 20px !important;
+    margin-left: 20px !important;
+  }
+
+  table.body hr {
+    margin: 2em 0 !important;
+  }
+
+  .feature-image-caption {
+    font-size: 13px!important;
+  }
+
+  .kg-card-figcaption {
+    font-size: 13px!important;
+  }
+
+  .kg-card-figcaption p,
+.kg-card-figcaption p span {
+    font-size: 13px!important;
+  }
+}
+</style>
+        <!--[if mso]>
+        <style type="text/css">
+            ul, ol { margin-left: 1.5em !important; } 
+        </style>
+        <![endif]-->
+    </head>
+    <body data-testid="email-preview-body" style="background-color: #fff; font-family: -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif; -webkit-font-smoothing: antialiased; font-size: 18px; line-height: 0; margin: 0; padding: 0; -ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; color: #15212A; direction: ltr;"><img width="1" height="1" alt="" src="https://email.m.ghost.io/o/eJx0jkFuxSAMRE_z2QUZDAEWPowNOEFNitSf9vxVsumqq9FIM0-vUZJWXTadXCq4Yio-mn7yOJbRaOWepUWF6NALALhaVdmbnXrMSYOPPUtd0Ym4wuh7DijKiGDGv2_rpAYsKXJS4C7lJgA6qS0qq8RXgNNu-3xfdkzzReO986e9pV4Btjttnae56Nksj665SL6Pj79yzG3JEIoH80P-NwAA__-_Z0Yw">
+        <span class="preheader" style="color: transparent; display: none; height: 0; max-height: 0; max-width: 0; opacity: 0; overflow: hidden; mso-hide: all; visibility: hidden; width: 0;">Plus! Pulled IPOs; Non-Fungibility; The News Business; Opt-Outs; Writing
+</span>
+        <!-- SPACING TO AVOID BODY TEXT BEING DUPLICATED IN PREVIEW TEXT -->
+        <div class="preheader-spacing" style="display:none; max-height:0; overflow:hidden; mso-hide: all;" aria-hidden="true" role="presentation">
+            &#x2007;&#x34f; &#x2007;&#x34f; &#x2007;&#x34f; &#x2007;&#x34f; &#x2007;&#x34f; &#x2007;&#x34f; &#x2007;&#x34f; &#x2007;&#x34f; &#x2007;&#x34f; &#x2007;&#x34f; &#x2007;&#x34f; &#x2007;&#x34f; &#x2007;&#x34f; &#x2007;&#x34f; &#x2007;&#x34f; &#x2007;&#x34f; &#x2007;&#x34f; &#x2007;&#x34f; &#x2007;&#x34f; &#x2007;&#x34f; &#x2007;&#x34f; &#x2007;&#x34f; &#x2007;&#x34f; &#x2007;&#x34f; &#x2007;&#x34f; &#x2007;&#x34f; &#x2007;&#x34f; &#x2007;&#x34f; &#x2007;&#x34f; &#x2007;&#x34f; &#x2007;&#x34f; &#x2007;&#x34f; &#x2007;&#x34f; &#x2007;&#x34f; &#x2007;&#x34f; &#x2007;&#x34f; &#x2007;&#x34f; &#x2007;&#x34f; &#x2007;&#x34f; &#x2007;&#x34f; &#x2007;&#x34f; &#x2007;&#x34f; &#x2007;&#x34f; &#x2007;&#x34f; &#x2007;&#x34f; &#x2007;&#x34f; &#x2007;&#x34f; &#x2007;&#x34f; &#x2007;&#x34f; &#x2007;&#x34f; &#x2007;&#x34f; &#x2007;&#x34f; &#x2007;&#x34f; &#x2007;&#x34f; &#x2007;&#x34f; &#x2007;&#x34f; &#x2007;&#x34f; &#x2007;&#x34f; &#x2007;&#x34f; &#x2007;&#x34f; &#x2007;&#x34f; &#x2007;&#x34f; &#x2007;&#x34f; &#x2007;&#x34f; &#x2007;&#x34f; &#x2007;&#x34f; &#x2007;&#x34f; &#x2007;&#x34f; &#x2007;&#x34f; &#x2007;&#x34f; &#x2007;&#x34f; &#x2007;&#x34f; &#x2007;&#x34f; &#x2007;&#x34f; &#x2007;&#x34f; &#x2007;&#x34f; &#x2007;&#x34f; &#x2007;&#x34f; &#x2007;&#x34f; &#x2007;&#x34f; &#x2007;&#x34f; &#x2007;&#x34f; &#x2007;&#x34f; &#x2007;&#x34f; &#x2007;&#x34f; &#x2007;&#x34f; &#x2007;&#x34f; &#x2007;&#x34f; &#x2007;&#x34f; &#x2007;&#x34f; &#x2007;&#x34f; &#x2007;&#x34f; &#x2007;&#x34f; &#x2007;&#x34f; &#x2007;&#x34f; &#x2007;&#x34f; &#x2007;&#x34f; &#x2007;&#x34f; &#x2007;&#x34f; &#x2007;&#x34f; &#x2007;&#x34f; &#x2007;&#x34f; &#x2007;&#x34f; &#x2007;&#x34f; &#x2007;&#x34f; &#x2007;&#x34f; &#x2007;&#x34f; &#x2007;&#x34f; &#x2007;&#x34f; &#x2007;&#x34f; &#x2007;&#x34f; &#x2007;&#x34f; &#x2007;&#x34f; &#x2007;&#x34f; &#x2007;&#x34f; &#x2007;&#x34f; &#x2007;&#x34f; &#x2007;&#x34f; &#x2007;&#x34f; &#x2007;&#x34f; &#x2007;&#x34f; &#x2007;&#x34f; &#x2007;&#x34f; &#x2007;&#x34f; &#x2007;&#x34f; &#x2007;&#x34f; &#x2007;&#x34f; &#x2007;&#x34f; &#x2007;&#x34f; &#x2007;&#x34f; &#x2007;&#x34f; &#x2007;&#x34f; &#x2007;&#x34f; &#x2007;&#x34f; &#x2007;&#x34f; &#x2007;&#x34f; &#x2007;&#x34f; &#x2007;&#x34f; &#x2007;&#x34f; &#x2007;&#x34f; &#x2007;&#x34f; &#x2007;&#x34f; &#x2007;&#x34f; &#x2007;&#x34f; &#x2007;&#x34f; &#x2007;&#x34f; &#x2007;&#x34f; &#x2007;&#x34f; &#x2007;&#x34f; &#x2007;&#x34f; &#xad; &#xad; &#xad; &#xad; &#xad; &#xad; &#xad; &#xad; &#xad; &#xad; &#xad; &#xad; &#xad; &#xad; &#xad; &#xad; &#xad; &#xad; &#xad; &#xad; &#xad; &#xad; &#xad; &#xad; &#xad; &#xad; &#xad; &#xad; &#xad; &#xad; &#xad; &#xad; &#xad; &#xad; &#xad; &#xad; &#xad; &#xad; &#xad; &#xad; &#xad; &#xad; &#xad; &#xad; &#xad; &#xad; &#xad; &#xad; &#xad; &#xad; &#xad; &#xad; &#xad; &#xad; &#xad; &#xad; &#xad; &#xad; &#xad; &#xad; &#xad; &#xad; &#xad; &#xad; &#xad; &#xad; &#xad; &#xad; &#xad; &#xad; &#xad; &#xad; &#xad; &#xad; &#xad; &#xad; &#xad; &#xad; &#xad; &#xad; &#xad; &#xad; &#xad; &#xad; &#xad; &#xad; &#xad; &#xad; &#xad; &#xad; &#xad; &#xad; &#xad; &#xad; &#xad; &#xad; &#xad; &#xad; &#xad; &#xad; &#xad; &#xad; &#xad; &#xad; &#xad; &#xad; &#xad; &#xad; &#xad; &#xad; &#xad; &#xad; &#xad; &#xad; &#xad; &#xad; &#xad; &#xad; &#xad; &#xad; &#xad; &#xad; &#xad; &#xad; &#xad; &#xad; &#xad; &#xad; &#xad; &#xad; &#xad; &#xad; &#xad; &#xad; &#xad; &#xad; &#xad; &#xad; &#xad; &#xad; &#xad; &#xad; &#xad; &#xad; &#xad; &#xad; &#xad; &#xad; &#xad; &#xad; &#xad; &#xad; &#xad; &#xad; &#xad; &#xad; &#xad; &#xad; &#xad; &#xad; &#xad; &#xad; &#xad; &#xad; &#xad; &#xad; &#xad; &#xad; &#xad; &#xad; &#xad; &#xad; &#xad; &#xad; &#xad; &#xad; &#xad; &#xad; &#xad; &#xad; &#xad; &#xad; &#xad; &#xad; &#xad; &#xad; &#xad; &#xad; &#xad; &#xad; &#xad; &#xad; &#xad; &#xad; &#xad; &#xad; &#xad; &#xad; &#xad; &#xad;  &#xa0;
+        </div>
+
+        <!-- HEADER WITH FULL-WIDTH BACKGROUND -->
+            <table role="presentation" border="0" cellpadding="0" cellspacing="0" class="header" width="100%" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt; line-height: 1.4; background-color: #ffffff; width: 100%; border-spacing: 0; border-collapse: collapse;" bgcolor="#ffffff">
+                <!-- Outlook doesn't respect max-width so we need an extra centered table -->
+                <!--[if mso]>
+                <tr>
+                    <td>
+                        <center>
+                            <table border="0" cellpadding="0" cellspacing="0" width="600">
+                <![endif]-->
+                <tr>
+                    <td style="font-family: -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif; font-size: 18px; vertical-align: top; color: #15212A;" valign="top">&#xa0;</td>
+                    <td class="container" align="center" style="font-family: -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif; font-size: 18px; vertical-align: top; color: #15212A;" valign="top">
+                        <div class="content" style="box-sizing: border-box; display: block; margin: 0 auto; max-width: 600px;">
+                        <!-- Header content constrained to 600px -->
+                        <table role="presentation" border="0" cellpadding="0" cellspacing="0" class="header-main" style="border-collapse: separate; mso-table-lspace: 0pt; mso-table-rspace: 0pt; border-spacing: 20px 0; width: 100%; max-width: 600px; background: #ffffff; background-color: transparent;" width="100%" bgcolor="transparent">
+                            <tr>
+                                <td class="header-content" style="font-family: -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif; font-size: 18px; vertical-align: top; color: #15212A; padding: 0; margin: 0 auto;" valign="top">
+                                    <table role="presentation" border="0" cellpadding="0" cellspacing="0" width="100%" style="border-collapse: separate; mso-table-lspace: 0pt; mso-table-rspace: 0pt; width: 100%;">
+
+
+                                            <tr>
+                                                <td class="post-title post-title-with-excerpt" style="font-family: -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif; font-size: 18px; vertical-align: top; text-align: center; color: #000000; padding-bottom: 8px;" valign="top" align="center">
+                                                    <table role="presentation" border="0" cellpadding="0" cellspacing="0" style="border-collapse: separate; mso-table-lspace: 0pt; mso-table-rspace: 0pt; width: 100%;" width="100%">
+                                                        <tr>
+                                                            <td style="font-family: -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif; vertical-align: top; font-size: 36px; line-height: 1.1; font-weight: 700; text-align: center; color: #000000;" valign="top" align="center">
+                                                                <h1 class="post-title-heading" style="margin-top: 0; font-family: -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif; text-rendering: optimizeLegibility; margin: 0; font-size: 36px; line-height: 1.1; font-weight: 700;">
+                                                                    <a href="https://www.thediff.co/r/7474c621?m=f90780fc-498d-4ffe-a546-8a3e61574e99" class="post-title-link" style="text-decoration: none; display: block; margin-top: 32px; text-align: center; line-height: 1.1; overflow-wrap: anywhere; color: #000000;" target="_blank">Understanding Anthropic</a>
+                                                                </h1>
+                                                            </td>
+                                                        </tr>
+                                                    </table>
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td width="100%" style="font-family: -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif; font-size: 18px; vertical-align: top; color: #15212A; width: 100%;" align="center" valign="top">
+                                                    <table class="post-meta-wrapper" role="presentation" border="0" cellpadding="0" cellspacing="0" width="100%" style="border-collapse: separate; mso-table-lspace: 0pt; mso-table-rspace: 0pt; width: 100%; padding-bottom: 32px;">
+                                                        <tr>
+                                                            <td height="20" class="post-meta post-meta-center" style="font-family: -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif; vertical-align: top; color: #15212a; color: rgba(0, 0, 0, 0.6); font-size: 13px; font-weight: 400; text-align: center; padding: 0;" valign="top" align="center">
+                                                                By Byrne Hobart &#x2022; <span class="post-meta-date" style="white-space: nowrap;">2 Nov 2026 </span>
+                                                            </td>
+                                                            <td class="post-meta post-meta-center view-online desktop" style="font-family: -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif; vertical-align: top; color: rgba(0, 0, 0, 0.6); font-size: 13px; font-weight: 400; text-align: center; display: none;" valign="top" align="center">
+                                                                <a href="https://www.thediff.co/r/42406425?m=f90780fc-498d-4ffe-a546-8a3e61574e99" class="view-online-link" style="word-wrap: none; white-space: nowrap; color: #15212a; color: rgba(0, 0, 0, 0.6); overflow-wrap: anywhere; text-decoration: underline;" target="_blank">View in browser</a>
+                                                            </td>
+                                                        </tr>
+                                                        <tr class="post-meta post-meta-center view-online-mobile" style="color: #15212a; color: rgba(0, 0, 0, 0.6); font-size: 13px; font-weight: 400; text-align: center;" align="center">
+                                                            <td height="20" class="view-online" style="font-family: -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif; vertical-align: top; color: #15212a; color: rgba(0, 0, 0, 0.6); font-size: 13px; font-weight: 400; text-align: center; text-decoration: underline;" valign="top" align="center">
+                                                                <a href="https://www.thediff.co/r/46dee6c4?m=f90780fc-498d-4ffe-a546-8a3e61574e99" class="view-online-link" style="word-wrap: none; white-space: nowrap; color: #15212a; color: rgba(0, 0, 0, 0.6); overflow-wrap: anywhere; text-decoration: underline;" target="_blank">View in browser</a>
+                                                            </td>
+                                                        </tr>
+                                                    </table>
+                                                </td>
+                                            </tr>
+
+                                    </table>
+                                </td>
+                            </tr>
+                        </table>
+                        </div>
+                    </td>
+                    <td style="font-family: -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif; font-size: 18px; vertical-align: top; color: #15212A;" valign="top">&#xa0;</td>
+                </tr>
+                <!--[if mso]>
+                            </table>
+                        </center>
+                    </td>
+                </tr>
+                <![endif]-->
+            </table>
+
+        <!-- MAIN CONTENT AREA -->
+        <table role="presentation" border="0" cellpadding="0" cellspacing="0" class="body" width="100%" style="border-collapse: separate; mso-table-lspace: 0pt; mso-table-rspace: 0pt; width: 100%; line-height: 1.4; background-color: #ffffff;" bgcolor="#ffffff">
+            <!-- Outlook doesn't respect max-width so we need an extra centered table -->
+            <!--[if mso]>
+            <tr>
+                <td>
+                    <center>
+                        <table border="0" cellpadding="0" cellspacing="0" width="600">
+            <![endif]-->
+            <tr>
+                <td style="font-family: -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif; font-size: 18px; vertical-align: top; color: #15212A;" valign="top">&#xa0;</td>
+                <td class="container" style="font-family: -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif; font-size: 18px; vertical-align: top; color: #15212A; display: block; max-width: 600px; margin: 0 auto;" valign="top">
+                    <div class="content" style="box-sizing: border-box; display: block; margin: 0 auto; max-width: 600px;">
+                        <table role="presentation" border="0" cellpadding="0" cellspacing="0" class="main" width="100%" style="border-collapse: separate; mso-table-lspace: 0pt; mso-table-rspace: 0pt; border-spacing: 20px 0; width: 100%; max-width: 600px; background: #ffffff; background-color: #ffffff;" bgcolor="#ffffff">                            <tr>
+                                <td class="wrapper" style="font-family: -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif; font-size: 18px; vertical-align: top; color: #15212A; box-sizing: border-box;" valign="top">
+                                    <table role="presentation" border="0" cellpadding="0" cellspacing="0" width="100%" data-testid="email-preview-content" style="border-collapse: separate; mso-table-lspace: 0pt; mso-table-rspace: 0pt; width: 100%;">
+                                        <tr class="post-content-row">
+                                            <td class="post-content-sans-serif" style="font-family: -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif; vertical-align: top; font-size: 17px; line-height: 1.5; color: #15212A; padding-bottom: 20px; border-bottom: 1px solid #e0e7eb; max-width: 600px;" valign="top">
+                                                <!-- POST CONTENT START -->
+                                                <p style="margin: 0 0 1.5em 0; line-height: 1.6; color: #15212A;">In this issue:</p><ul style="margin: 0 0 1.5em 0; line-height: 1.6; padding-left: 1.3em; padding-right: 1.5em; list-style: disc; max-width: 100%;"><li style="margin: 0.5em 0; padding-left: 0.3em; line-height: 1.6; color: #15212A;">Understanding Anthropic&#x2014;This was never going to be a normal IPO.</li><li style="margin: 0.5em 0; padding-left: 0.3em; line-height: 1.6; color: #15212A;">Pulled IPOs&#x2014;An uncertain regulatory environment means that some companies can have lurking problems that don&#39;t become apparent until they IPO, but also that they can miss out on an IPO due to non-problems.</li><li style="margin: 0.5em 0; padding-left: 0.3em; line-height: 1.6; color: #15212A;">Non-Fungibility&#x2014;When everything else gets cheaper, n-of-1 goods get relatively more expensive. But you have to be sure n is really one.</li><li style="margin: 0.5em 0; padding-left: 0.3em; line-height: 1.6; color: #15212A;">The News Business&#x2014;Spamming LLMs is a return to tradition for quasi-news companies.</li><li style="margin: 0.5em 0; padding-left: 0.3em; line-height: 1.6; color: #15212A;">Opt-Outs&#x2014;The big labs want individual publishers to control how their data gets used by AI, because that means it won&#39;t be controlled by a profit-maximizing intermediary instead.</li><li style="margin: 0.5em 0; padding-left: 0.3em; line-height: 1.6; color: #15212A;">Writing&#x2014;Don&#39;t change how you write to avoid sounding like an LLM; LLM-voice keeps changing.</li></ul><table cellspacing="0" cellpadding="0" border="0" class="kg-audio-card" style="border-collapse: separate; mso-table-lspace: 0pt; mso-table-rspace: 0pt; width: auto; width: 100%; margin: 0 auto 1.5em; border-radius: 3px; background-color: #ffffff; background-color: rgba(255, 255, 255, 0.25); border: 1px solid #e0e7eb; border: 1px solid rgba(0, 0, 0, 0.12);" width="100%" bgcolor="rgba(255, 255, 255, 0.25)">
+                <tbody><tr>
+                    <td style="font-family: -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif; font-size: 18px; vertical-align: top; color: #15212A;" valign="top">
+                        <table cellspacing="0" cellpadding="0" border="0" width="100%" style="border-collapse: separate; mso-table-lspace: 0pt; mso-table-rspace: 0pt; width: 100%;">
+                            <tbody><tr>
+                                <td width="60" style="font-family: -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif; font-size: 18px; vertical-align: top; color: #15212A;" valign="top">
+                                    <a href="https://www.thediff.co/r/3f3925ae?m=f90780fc-498d-4ffe-a546-8a3e61574e99" style="overflow-wrap: anywhere; color: #00A5A3; text-decoration: underline; display: block; width: 60px; height: 60px; padding-top: 4px; padding-right: 16px; padding-bottom: 4px; padding-left: 4px; border-radius: 2px;" target="_blank">
+                                        
+                                        <img src="https://static.ghost.org/v4.0.0/images/audio-file-icon.png" class="kg-audio-thumbnail placeholder" style="border: none; -ms-interpolation-mode: bicubic; max-width: 100%; width: 24px; height: 24px; padding: 18px; border-radius: 2px; background-color: #00A5A3;" width="24" height="24">
+                                        
+                                    </a>
+                                </td>
+                                <td style="font-family: -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif; font-size: 18px; color: #15212A; position: relative; vertical-align: center;" valign="center">
+                                    <a href="https://www.thediff.co/r/18848e11?m=f90780fc-498d-4ffe-a546-8a3e61574e99" style="overflow-wrap: anywhere; color: #00A5A3; text-decoration: underline; position: absolute; display: block; top: 0; right: 0; bottom: 0; left: 0;" target="_blank"></a>
+                                    <table cellspacing="0" cellpadding="0" border="0" width="100%" style="border-collapse: separate; mso-table-lspace: 0pt; mso-table-rspace: 0pt; width: 100%;">
+                                        <tbody><tr>
+                                            <td style="font-family: -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif; font-size: 18px; vertical-align: top; color: #15212A;" valign="top">
+                                                <a href="https://www.thediff.co/r/2128e54c?m=f90780fc-498d-4ffe-a546-8a3e61574e99" class="kg-audio-title" style="display: block; padding-right: 20px; padding-bottom: 4px; padding-top: 4px; font-size: 16px; font-weight: 600; line-height: 1.125; overflow-wrap: anywhere; text-decoration: none; color: #15212A;" target="_blank">The Diff November 2nd 2026</a>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td style="font-family: -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif; font-size: 18px; vertical-align: top; color: #15212A;" valign="top">
+                                                <table cellspacing="0" cellpadding="0" border="0" width="100%" style="border-collapse: separate; mso-table-lspace: 0pt; mso-table-rspace: 0pt; width: 100%;">
+                                                    <tbody><tr>
+                                                        <td width="24" style="font-family: -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif; font-size: 18px; color: #15212A; vertical-align: middle;" valign="middle">
+                                                            <a href="https://www.thediff.co/r/ceae3704?m=f90780fc-498d-4ffe-a546-8a3e61574e99" class="kg-audio-play-button" style="display: block; box-sizing: border-box; width: 16px; height: 16px; border-style: solid; border-width: 8px 0px 8px 16px; border-color: transparent transparent transparent currentColor; overflow-wrap: anywhere; text-decoration: underline; color: #15212A;" target="_blank"></a>
+                                                        </td>
+                                                        <td style="font-family: -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif; font-size: 18px; color: #15212A; vertical-align: middle;" valign="middle">
+                                                            <a href="https://www.thediff.co/r/e7d6ca1a?m=f90780fc-498d-4ffe-a546-8a3e61574e99" class="kg-audio-duration" style="display: block; font-size: 13px; overflow-wrap: anywhere; text-decoration: none; color: #15212a; color: rgba(0, 0, 0, 0.6);" target="_blank">21:57<span class="kg-audio-link" style="color: #15212a; color: rgba(0, 0, 0, 0.6);"> &#x2022; Click to play audio</span></a>
+                                                        </td>
+                                                    </tr>
+                                                </tbody></table>
+                                            </td>
+                                        </tr>
+                                    </tbody></table>
+                                </td>
+                            </tr>
+                        </tbody></table>
+                    </td>
+                </tr>
+            </tbody></table><p style="margin: 0 0 1.5em 0; line-height: 1.6; color: #15212A;"><a href="https://www.thediff.co/r/eca759df?m=f90780fc-498d-4ffe-a546-8a3e61574e99" rel="noreferrer" style="overflow-wrap: anywhere; color: #00A5A3; text-decoration: underline;" target="_blank">Talk to this post on ReadHaus</a>.</p><h2 id="understanding-anthropic" style="margin-top: 0; font-family: -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif; line-height: 1.11; font-weight: 700; text-rendering: optimizeLegibility; margin: 1.5em 0 0.5em 0; font-size: 32px; color: #15212A;">Understanding Anthropic</h2>
+<p style="margin: 0 0 1.5em 0; line-height: 1.6; color: #15212A;">It took me a while to take Anthropic seriously as a business. I knew that OpenAI was doing some interesting experiments with various AI approaches, but that they were mostly focused on not ending the world rather than shipping some kind of practical product. So the idea that there was a breakaway lab that was like OpenAI, but <em>more</em> cautious and <em>less</em> commercial, seemed like a joke that would have worked in one of Scott Alexander&#39;s <a href="https://www.thediff.co/r/149f2087?m=f90780fc-498d-4ffe-a546-8a3e61574e99" style="overflow-wrap: anywhere; color: #00A5A3; text-decoration: underline;" target="_blank">every Bay Area house party</a> series. It didn&#39;t help that one of their most famous early investors&#39; other holdings included <a href="https://www.thediff.co/r/fd7b4e1d?m=f90780fc-498d-4ffe-a546-8a3e61574e99" style="overflow-wrap: anywhere; color: #00A5A3; text-decoration: underline;" target="_blank">stuff like Serum, Maps, and Oxy</a>, not exactly blue-chips. But in hindsight, Anthropic did turn out to be hyper-focused on one big bet from the get-go: the supremacy of scaling laws in creating generally useful AI. Four of the seven cofounders (Dario, Jared Kaplan, Tom Brown, Sam McCandlish) authored the <a href="https://www.thediff.co/r/1e5fbe5b?m=f90780fc-498d-4ffe-a546-8a3e61574e99" style="overflow-wrap: anywhere; color: #00A5A3; text-decoration: underline;" target="_blank">Scaling Laws</a> paper and left ten months after it was published to start Anthropic.</p>
+<p style="margin: 0 0 1.5em 0; line-height: 1.6; color: #15212A;">And then they shipped Opus 3, and Sonnet 3.5, and it was suddenly hard to ignore them. Labs&#39; brands tend to be tied to either their best model or whichever good-enough model is cheapest, so public perception tends to fluctuate. But in general, Anthropic&#39;s brand positioning has been that their early adopters are the earliest adopters, period: software engineers at the most AI-forward firms, and startups (most importantly, at Anthropic itself).</p>
+<p style="margin: 0 0 1.5em 0; line-height: 1.6; color: #15212A;">This turned out to be the ideal market to target, especially recently. You can divide the history of AI use in programming into two periods: before Claude Code got big at the end of 2025, and after.<sup class="footnote-ref"><a href="https://www.thediff.co/r/5d0a0e02?m=f90780fc-498d-4ffe-a546-8a3e61574e99" id="fnref1" style="overflow-wrap: anywhere; color: #00A5A3; text-decoration: underline;" target="_blank">[1]</a></sup> SaaS companies in general have a revenue model where their sales are equal to customer count times seats per customer times revenue per seat, and consumption-based AI models get to add a kicker to that: not only do their heaviest users spend much more per day on AI (the 95th percentile of enterprise Claude Code users spends approximately 20 times as much per month as enterprise users who don&#x2019;t use Claude Code), but at least some of the code they write creates endpoints for more AI use. Their best customers are increasingly in the business of generating upfront revenue for them, and then using that revenue to generate annuities for Anthropic&#39;s when they vibecode things like an AI-based trip planner, <a href="https://www.thediff.co/r/46c14ee2?m=f90780fc-498d-4ffe-a546-8a3e61574e99" style="overflow-wrap: anywhere; color: #00A5A3; text-decoration: underline;" target="_blank">recipe tweaker</a>, mass-customized cold email tool, inbox triage tool to get rid of all those AI-generated emails, etc.</p>
+<p style="margin: 0 0 1.5em 0; line-height: 1.6; color: #15212A;">This IPO is happening at a strange time for them, because it follows a massive growth surge: quarter-over-quarter revenue growth was 48% in Q4 of last year, 132% in Q1, and 144% in Q2, when it reached &#x24;11.6bn (but it&#39;s since slowed down; <a href="https://www.thediff.co/r/19c32d36?m=f90780fc-498d-4ffe-a546-8a3e61574e99" style="overflow-wrap: anywhere; color: #00A5A3; text-decoration: underline;" target="_blank">during their October investor day, they said that revenue growth had slowed to a stately 45%</a>). Meanwhile, AI-related stocks have sold off, though, as usual, that&#39;s a mix of some companies spending too aggressively (e.g. Google), some dipping because they may not capture so much of that spending (the neoclouds), and some selling off because it&#39;s hard to manage around how AI is changing both customer acquisition and monetization (Reddit).</p>
+<p style="margin: 0 0 1.5em 0; line-height: 1.6; color: #15212A;">But it was always going to be a surreal event. &quot;Their IPO prospectus mentioned Roko&#39;s Basilisk as a risk factor&quot; would have <em>killed</em> in a science fiction story written some time in the late 2010s through early 2020s. But now it&#39;s just another risk factor:</p>
+<blockquote style="margin: 0; padding: 0; border-left: #00A5A3 2px solid; font-size: 17px; font-weight: 500; line-height: 1.6; letter-spacing: -0.2px;">
+<p style="line-height: 1.6; margin: 2em 25px; font-size: 1em; padding: 0; color: #15212A;">In addition, models, including our own, have exhibited, and may in the future exhibit, unexpected strategic or self-preserving behaviors, including attempts to resist shutdown, conceal or manipulate information, or generate outputs that could be interpreted as coercive, deceptive, or manipulative, including behavior resembling blackmail or efforts to influence human decision-makers to preserve the model&#x2019;s continued operation or access.</p>
+</blockquote>
+<p style="margin: 0 0 1.5em 0; line-height: 1.6; color: #15212A;">Even the normal parts are weird. Software companies <a href="https://www.thediff.co/r/fac22830?m=f90780fc-498d-4ffe-a546-8a3e61574e99" style="overflow-wrap: anywhere; color: #00A5A3; text-decoration: underline;" target="_blank">used to be profitable when they went public, then started going public while they were still using money because subscriptions spread out revenue</a>, but Anthropic has positive operating margins because they&#39;ve outgrown their spending. In a globalized world with falling transaction costs, the biggest companies are distinct from one another&#x2014;at the top of the list of most valuable companies, we used to have Big Oil, three flavors of auto stock beta (0.5 for GM, 1 for Ford, 2+ for Chrysler), a few different tobacco stocks, etc. But many of the biggest companies are overwhelmingly dominant in a few categories. One thing that drives heterogeneity among big companies is that they have strong scale and network effects, and low capital intensity. (It&#39;s instructive that the cloud business can support three companies with double-digit market share.) AI is on the capital-intensive end of the spectrum, so it supports multiple big companies in roughly the same line of business. Which also implies that AI companies <em>should</em> be going public with big losses. Anthropic technically has those, but that&#39;s an accounting artifact&#x2014;even accounting for stock-based compensation, they reported an 8% operating margin in Q2 (this was a mistake; they meant to grow faster <a href="https://www.thediff.co/r/b9aa9cef?m=f90780fc-498d-4ffe-a546-8a3e61574e99" style="overflow-wrap: anywhere; color: #00A5A3; text-decoration: underline;" target="_blank">and have corrected it as of this morning&#x2019;s Q3 numbers</a>).</p>
+<h3 id="governance-and-ideology" style="margin-top: 0; font-family: -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif; line-height: 1.11; font-weight: 700; text-rendering: optimizeLegibility; margin: 1.5em 0 0.5em 0; font-size: 26px; color: #15212A;">Governance and Ideology</h3>
+<p style="margin: 0 0 1.5em 0; line-height: 1.6; color: #15212A;">It&#39;s a good but limited model to think of equity ownership as synonymous with control. That&#39;s theoretically true early in a company&#39;s existence, and remains true if their ownership stays high enough; <a href="https://www.thediff.co/r/9baf9e5d?m=f90780fc-498d-4ffe-a546-8a3e61574e99" style="overflow-wrap: anywhere; color: #00A5A3; text-decoration: underline;" target="_blank">Robert Pera</a> owns 93% of Ubiquti, and while individual shareholders can raise their hand and make a suggestion, what happens there is mostly up to him. But only in a legal sense; it&#39;s an organization made out of people, and it&#39;s hard to make them do things they don&#39;t want to do. And equity doesn&#39;t <em>have</em> to be fully associated with control, nor does a company necessarily have to maximize shareholder value as its only goal; the Bank of England was, technically, a publicly-traded for-profit company until it was fully nationalized in 1946, but it had privileges and responsibilities beyond what a typical bank had. And the structure of a company&#39;s equity can also shape this: sometimes, when a business gets recapitalized, the new owner gets majority control through equity but a supermajority of future returns through warrants; if there are a million shares outstanding and someone gets warrants for another 100m struck reasonably close to the money, the right way to think about the stock is that it&#39;s closer to preferred, with warrants taking the first loss but also getting almost all of the upside.<sup class="footnote-ref"><a href="https://www.thediff.co/r/4923aec4?m=f90780fc-498d-4ffe-a546-8a3e61574e99" id="fnref2" style="overflow-wrap: anywhere; color: #00A5A3; text-decoration: underline;" target="_blank">[2]</a></sup></p>
+<p style="margin: 0 0 1.5em 0; line-height: 1.6; color: #15212A;">Anthropic is doing some complicated governance experiments, and some associated cultural ones. On the cultural side, one of their early moves was to offer employees a very generous charitable donation matching program, where they&#39;d match employees share for share if they donated up to half of their equity compensation to charity: 70% took that option prior to May 2024, and a quarter of them chose the maximum donation available. Now the numbers are &quot;nearly 50%&quot; and &quot;nearly 30%,&quot; i.e the median employee is a bit less charity-minded but they&#39;ve scooped up a huge number of Effective Altruists, or otherwise very generous souls.<sup class="footnote-ref"><a href="https://www.thediff.co/r/83238081?m=f90780fc-498d-4ffe-a546-8a3e61574e99" id="fnref3" style="overflow-wrap: anywhere; color: #00A5A3; text-decoration: underline;" target="_blank">[3]</a></sup> These employees have significant negotiating leverage: they&#39;re spectacularly well-paid even after charitable donations, they&#39;re often at Anthropic specifically because of its beliefs, and they have the leaker&#39;s privilege of selectively disclosing whatever is most damaging.<sup class="footnote-ref"><a href="https://www.thediff.co/r/8220ee16?m=f90780fc-498d-4ffe-a546-8a3e61574e99" id="fnref4" style="overflow-wrap: anywhere; color: #00A5A3; text-decoration: underline;" target="_blank">[4]</a></sup> One of their more interesting risk factors is that, because they&#39;ve been so aggressive about safety, they face more reputational harm for their flubs. It&#39;s just not a very big deal if someone working at SpaceXSI says that Grok is misbehaving. That&#39;s what Grok does! But Anthropic gets held to a higher standard because they&#39;ve stated that they hold themselves to a higher standard. This is an unusual kind of operating leverage.<sup class="footnote-ref"><a href="https://www.thediff.co/r/a4e45b32?m=f90780fc-498d-4ffe-a546-8a3e61574e99" id="fnref5" style="overflow-wrap: anywhere; color: #00A5A3; text-decoration: underline;" target="_blank">[5]</a></sup> So they&#39;re able to exert more governance control than is typical.</p>
+<p style="margin: 0 0 1.5em 0; line-height: 1.6; color: #15212A;">The way Anthropic has set this up is strongly reminiscent of vibecoded software, in that it&#39;s over-complicated and over-explicated, but also, by brute force, basically accomplishes its objective. The board has seven members, four of whom are appointed by a trust. The remaining three are appointed by shareholder votes, but the founders have 50.1% voting rights. The trust itself selects one of its members in part through a vote of holders of yet another special class of employee-specific shares, with those shares weighted by tenure and their position in the company&#39;s charity-matching policy. They&#39;ve achieved an electoral system that would make a Venetian Doge jealous, but which effectively removes outside shareholders&#39; influence on the company. All that we get is whatever is left over from a negotiation between employees, founders, and a pre-selected mostly-neutral third party. The whole thing is a wonderful experiment in realist politics: investors have no recourse here. If the founders or employees walk, the company is worthless, and whatever new thing they start would be promptly valued at roughly what Anthropic was worth. Shareholders provide capital, but there are other sources of capital. Anthropic has the same incentive to do right by shareholders that a sovereign does to pay its debts to foreign lenders: they&#39;re playing a repeat game, and life is easier if capital markets are generous. So even though it&#39;s not their top priority, it&#39;s of instrumental value to them for the stock to go up until we reach the Singularity.</p>
+<h3 id="product-strategy" style="margin-top: 0; font-family: -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif; line-height: 1.11; font-weight: 700; text-rendering: optimizeLegibility; margin: 1.5em 0 0.5em 0; font-size: 26px; color: #15212A;">Product Strategy</h3>
+<p style="margin: 0 0 1.5em 0; line-height: 1.6; color: #15212A;">The big AI labs all get their revenue from selling roughly the same kinds of products, but they&#39;re still differentiated in various ways. Aside from the obvious ones (safety, operating margin, existence of a recognizable user-created <a href="https://www.thediff.co/r/211ac7ba?m=f90780fc-498d-4ffe-a546-8a3e61574e99" style="overflow-wrap: anywhere; color: #00A5A3; text-decoration: underline;" target="_blank">mascot</a>), one thing that sets Anthropic apart is that their approach to intelligence is so <em>symbolic</em>. They aren&#39;t trying to nail image generation or video, even though those are a lot of what monetizable eyeballs consume. They&#39;re doing text, including code.</p>
+<p style="margin: 0 0 1.5em 0; line-height: 1.6; color: #15212A;">This turned out to be the right bet, in that the killer app for generative AI has been writing code, or, rather, no longer writing any code at all. It turns out that the skill of writing instructions to a computer in code translates very well to the skill of doing so in English.<sup class="footnote-ref"><a href="https://www.thediff.co/r/cce66723?m=f90780fc-498d-4ffe-a546-8a3e61574e99" id="fnref6" style="overflow-wrap: anywhere; color: #00A5A3; text-decoration: underline;" target="_blank">[6]</a></sup> There&#39;s an enormous amount of training data that maps natural language requests for computers to do things with code that causes a computer to do exactly those things, and code enforces a kind of reasoning that bleeds over into other topics (most recently cyber, as noted in the Mythos system card, but also general reasoning, math, and reading comprehension, as originally noted in <a href="https://www.thediff.co/r/30305cb9?m=f90780fc-498d-4ffe-a546-8a3e61574e99" style="overflow-wrap: anywhere; color: #00A5A3; text-decoration: underline;" target="_blank">Meta&#x2019;s Llama 3</a> paper). The models are generally smarter for having so many training tokens that have to have enough internal consistency to make a compiler happy.</p>
+<p style="margin: 0 0 1.5em 0; line-height: 1.6; color: #15212A;">Going for software developers also means targeting the efficient frontier of automation across the entire economy. When an information-processing task gets simple enough that a computer can do it, it gets automated, so in a sense software engineers are always working right at the frontier of job destruction. But that also means that they tend to operate in highly-informative parts of the economy; IT spending is the first derivative of growth in that growing companies run into more information-management problems than smaller ones. So they&#39;re naturally selecting for customers who will increase their spending rapidly if they&#39;re getting a return (Anthropic&#39;s net revenue retention for Q3 &#39;26 was 900%<sup class="footnote-ref"><a href="https://www.thediff.co/r/6d53d2d9?m=f90780fc-498d-4ffe-a546-8a3e61574e99" id="fnref7" style="overflow-wrap: anywhere; color: #00A5A3; text-decoration: underline;" target="_blank">[7]</a></sup>). They note that their earliest adopters are developers and that these developers also evangelize the product.<sup class="footnote-ref"><a href="https://www.thediff.co/r/f4348e5d?m=f90780fc-498d-4ffe-a546-8a3e61574e99" id="fnref8" style="overflow-wrap: anywhere; color: #00A5A3; text-decoration: underline;" target="_blank">[8]</a></sup></p>
+<p style="margin: 0 0 1.5em 0; line-height: 1.6; color: #15212A;">What this is really doing is outsourcing world models to the rest of the economy. Information collection is a question of return on investment, and being first to automate some task usually entails collecting data on it. Anthropic&#39;s implicit bet is that more and more people will focus on doing exactly that: they&#39;ll find advantageous ways to use AI, which will provide feedback that gets incorporated into the next model, so they&#39;re always automating whatever their heaviest users do.</p>
+<p style="margin: 0 0 1.5em 0; line-height: 1.6; color: #15212A;">Targeting software developers is not just a shortcut to selling into whatever part of the economy is just now becoming legible. It&#39;s also nice from a revenue perspective. Software developers are already expensive, and there&#39;s a wide range in what software developers plus the associated tokens cost. But high average salaries provide more room for a complement&#39;s cost to rise. If a five-figure annual cost per employee is also a single-digit percentage of the costs associated with that employee, it probably won&#39;t make the difference between someone being a viable employee or not. So AI spending per employee has a tendency to creep up until someone C-level freaks out about the aggregate number and tries to crack down on wasted tokens. The product basically ensures high net dollar retention, in that users get better and better at figuring out what they can automate and which kinds of projects are easy targets for agentic AI.</p>
+<p style="margin: 0 0 1.5em 0; line-height: 1.6; color: #15212A;">Selling to this customer means selling a premium product, and so far no lab has maintained a long-term lead in model capabilities. Anthropic says &quot;model versions released in the six months ended September 30, 2026 accounted for over 80% of our revenue for the three months ended September 30, 2026.&quot; So they&#39;re on a pretty brutal treadmill: things that were world-changing a year ago are obsolete today, which means that what they have to sell investors on is not model capabilities but research capabilities, i.e. that they have a competitive advantage at recruiting the talent, allocating that talent, and marshalling the compute necessary to train the next great model. This is something investors have historically been able to underwrite, albeit in different domains: investing in a quant strategy is briefly a bet on current strategies and ultimately a bet on their ability to outrun alpha decay. These companies have been able to sell equity stakes, and in a sense they&#39;re more of an operating business than many other parts of asset management. But it&#39;s a business that tends to get a lower multiple than other companies with a similar growth and margin profile; it&#39;s just hard to know when they aren&#39;t progressing far enough, or when they&#39;ve cut too many corners.<sup class="footnote-ref"><a href="https://www.thediff.co/r/fa47d9ff?m=f90780fc-498d-4ffe-a546-8a3e61574e99" id="fnref9" style="overflow-wrap: anywhere; color: #00A5A3; text-decoration: underline;" target="_blank">[9]</a></sup></p>
+<p style="margin: 0 0 1.5em 0; line-height: 1.6; color: #15212A;">Underwriting this kind of thing is fundamentally hard. But a good rule of thumb is that there are many brilliant AI researchers who believe that AI can do an enormous amount of good, and also that it could wreak untold harm, and that these people are disproportionately likely to end up working at Anthropic. Anthropic doesn&#39;t by any means have a monopoly on ethical AI researchers&#x2014;OpenAI is full of people who agree 100% with everything Dario Amodei believes and also think that Anthropic is a little too preachy or just isn&#39;t working on their specific area of interest. But Anthropic has an edge in recruiting idealists, and AI idealists also turn out to be pretty good at building AI. And one of Anthropic&#x2019;s biggest focuses is in automating this research loop itself. They are <a href="https://www.thediff.co/r/ab91d5ae?m=f90780fc-498d-4ffe-a546-8a3e61574e99" style="overflow-wrap: anywhere; color: #00A5A3; text-decoration: underline;" target="_blank">not quite there yet</a>, but if the line keeps going up, they will be soon.</p>
+<h3 id="the-money" style="margin-top: 0; font-family: -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif; line-height: 1.11; font-weight: 700; text-rendering: optimizeLegibility; margin: 1.5em 0 0.5em 0; font-size: 26px; color: #15212A;">The Money</h3>
+<p style="margin: 0 0 1.5em 0; line-height: 1.6; color: #15212A;">Every company can be described in terms of what it tries to earn a markup on. In Anthropic&#39;s case, the answer is: their economic imperative is to sell compute at a higher price than what they paid for it. Anthropic has a pretty pleasant answer on that front: they increased revenue per dollar of compute 3.7x year-over-year as of Q2 &#39;26. But compute efficiency is a rough metric: if all of a lab&#39;s compute is dedicated to servicing existing demand rather than training new models, that&#39;s great for their compute efficiency and terrible for their survival prospects; compute efficiency should be computed on a trailing twelve-month basis, with any upside deviations explained in detail.<sup class="footnote-ref"><a href="https://www.thediff.co/r/d0985b46?m=f90780fc-498d-4ffe-a546-8a3e61574e99" id="fnref10" style="overflow-wrap: anywhere; color: #00A5A3; text-decoration: underline;" target="_blank">[10]</a></sup></p>
+<p style="margin: 0 0 1.5em 0; line-height: 1.6; color: #15212A;">Anthropic admits in the S-1 that they&#39;ve historically underestimated their demand for compute. If the rule of thumb in your industry is that compute spend needs to 10x every year, planning to 12x it is a gamble. But so&#39;s 8x. <a href="https://www.thediff.co/r/55a9a7d2?m=f90780fc-498d-4ffe-a546-8a3e61574e99" style="overflow-wrap: anywhere; color: #00A5A3; text-decoration: underline;" target="_blank">Dwarkesh pressed them on this in February</a>: if you&#39;re so optimistic about AI, why aren&#39;t you spending even more? They&#39;ve ended up in the awkward situation of paying Elon Musk for compute, which is surely very far down their list of things they&#39;d ideally do to advance their business.</p>
+<p style="margin: 0 0 1.5em 0; line-height: 1.6; color: #15212A;">Anthropic has committed to about &#x24;850bn worth of spending on compute. They have &#x24;130bn cash on hand, and if we haircut their IPO value by <a href="https://www.thediff.co/r/031b8e3d?m=f90780fc-498d-4ffe-a546-8a3e61574e99" style="overflow-wrap: anywhere; color: #00A5A3; text-decoration: underline;" target="_blank">the reduction in OpenAI&#39;s fundraising target</a>, that&#39;s still about &#x24;70bn in IPO proceeds, or &#x24;200bn in total liquidity. They have another &#x24;92bn in undrawn credit lines. And of course they&#39;re accruing more operating cash flow each quarter. Anthropic&#39;s backers are betting that they&#39;ll have immediate access to capital and indefinite positive cash flow, but they&#39;re also making that bet pretty knowingly: there are plenty of ways to get access to more senior claims on Anthropic&#39;s revenue.</p>
+<p style="margin: 0 0 1.5em 0; line-height: 1.6; color: #15212A;">Anthropic is a triumph of capitalism. It was founded by people who were earnest about changing the world, and actively selected for that earnestness in recruiting. They&#39;re genuinely troubled by how powerful AI has become and how disruptive they expect it to be.<sup class="footnote-ref"><a href="https://www.thediff.co/r/4922570b?m=f90780fc-498d-4ffe-a546-8a3e61574e99" id="fnref11" style="overflow-wrap: anywhere; color: #00A5A3; text-decoration: underline;" target="_blank">[11]</a></sup> Their first backers were, or at least <a href="https://www.thediff.co/r/6c27f612?m=f90780fc-498d-4ffe-a546-8a3e61574e99" style="overflow-wrap: anywhere; color: #00A5A3; text-decoration: underline;" target="_blank">pretended</a> to be, ideologically aligned. But there are only so many wealthy Effective Altruists, and the wealthier they are the more their wealth consists of equity in some kind of AI company, so Anthropic has had to look further afield. Soon after they go public, a significant fraction of their shares will be in index funds, whose owners are mostly indifferent to EA and might well be hostile to it. And yet, capital finds a place to generate returns, and idealists find enough capital to live out some form of their ideals.</p>
+<hr style="position: relative; display: block; width: 100%; margin: 3em 0; padding: 0; height: 1px; background-color: transparent; border: 0; border-top: 1px solid #e0e7eb;">
+<p style="margin: 0 0 1.5em 0; line-height: 1.6; color: #15212A;">Disclosure: long GOOGL, META. Implicitly short EA by virtue of not being utilitarian.</p>
+<hr class="footnotes-sep" style="position: relative; display: block; width: 100%; margin: 3em 0; padding: 0; height: 1px; background-color: transparent; border: 0; border-top: 1px solid #e0e7eb;">
+<section class="footnotes">
+<ol class="footnotes-list" style="margin: 0 0 1.5em 0; line-height: 1.6; padding-left: 1.3em; padding-right: 1.5em; list-style: decimal; max-width: 100%;">
+<li id="fn1" class="footnote-item" style="margin: 0.5em 0; padding-left: 0.3em; line-height: 1.6; color: #15212A;"><p style="margin: 0 0 1.5em 0; line-height: 1.6; color: #15212A;">It may not be a deliberate strategy, but Anthropic has timed a number of releases ahead of three-day weekends or other breaks from the workweek. <a href="https://www.thediff.co/r/936c0266?m=f90780fc-498d-4ffe-a546-8a3e61574e99" style="overflow-wrap: anywhere; color: #00A5A3; text-decoration: underline;" target="_blank">Opus 4 and Sonnet 4 came out the Thursday before Memorial Day weekend</a> last year, <a href="https://www.thediff.co/r/3a2e81c7?m=f90780fc-498d-4ffe-a546-8a3e61574e99" style="overflow-wrap: anywhere; color: #00A5A3; text-decoration: underline;" target="_blank">Opus 4.5 was released Thanksgiving week</a>, and <a href="https://www.thediff.co/r/d618b4ed?m=f90780fc-498d-4ffe-a546-8a3e61574e99" style="overflow-wrap: anywhere; color: #00A5A3; text-decoration: underline;" target="_blank">Claude Code&#39;s doubled usage limit from Christmas through New Year&#39;s Eve</a> basically started the agentic revolution. It&#39;s a bit like the tactic of waiting until late on a Friday night to email or text someone busy: if they&#39;re busy because that&#39;s the way they like to be, then it&#39;s a welcome interruption and you&#39;ll win the triage through forfeit. Anthropic&#39;s ideal user would like nothing more than to spend the holiday code freeze messing around with new AI tools, and you have to assume that this year, all of the big labs are queuing up huge releases, and that in 2027 (if they make it, and if we make it) the metagame will be seeing who can jump the gun and lock users in before the AI release thunderdome kicks off in earnest on Christmas. <a href="https://www.thediff.co/r/686b24c3?m=f90780fc-498d-4ffe-a546-8a3e61574e99" class="footnote-backref" style="overflow-wrap: anywhere; color: #00A5A3; text-decoration: underline;" target="_blank">&#x21a9;&#xfe0e;</a></p>
+</li>
+<li id="fn2" class="footnote-item" style="margin: 0.5em 0; padding-left: 0.3em; line-height: 1.6; color: #15212A;"><p style="margin: 0 0 1.5em 0; line-height: 1.6; color: #15212A;">There are even cases where changes in regulations and norms shift this status. When it was more fashionable for companies to care about ESG, they were also <a href="https://www.thediff.co/r/93a30388?m=f90780fc-498d-4ffe-a546-8a3e61574e99" style="overflow-wrap: anywhere; color: #00A5A3; text-decoration: underline;" target="_blank">giving management more discretion relative to outside investors</a>. If your stock price is your scorecard, it&#39;s easy to tell that you&#39;re doing a bad job. But if there&#39;s a more amorphous list of goals, it&#39;s easier for managers to say that they&#39;re doing a good job&#x2014;a revenue miss is generally bad, but tends to reduce a company&#39;s emissions. Prewar Japan ran many experiments with different economic forms, one of which, in 1940, was to change corporate governance such that outside shareholders got a fixed annual dividend, and the state called the shots for allocating all retained earnings. This was basically a state-sanctioned cram-down, which would have essentially converted common equity into preferred while nationalizing the common in economic and voting terms. This ultimately didn&#39;t matter, since their war economy put more or less equivalent policies into effect and then Japanese financial assets were pretty close to zeroed out when they lost. <a href="https://www.thediff.co/r/f7ac4f99?m=f90780fc-498d-4ffe-a546-8a3e61574e99" class="footnote-backref" style="overflow-wrap: anywhere; color: #00A5A3; text-decoration: underline;" target="_blank">&#x21a9;&#xfe0e;</a></p>
+</li>
+<li id="fn3" class="footnote-item" style="margin: 0.5em 0; padding-left: 0.3em; line-height: 1.6; color: #15212A;"><p style="margin: 0 0 1.5em 0; line-height: 1.6; color: #15212A;">This isn&#39;t strictly a way to hire lots of EAs, but it&#39;s in the same sense that a company whose careers page makes a bigger deal about company parties versus the company&#39;s parental leave policy, or vice-versa, is making a decision about who it would like to appeal to. This is pretty economically efficient, in that a company where everyone&#39;s on the same page is probably going to run better than one that isn&#39;t&#x2014;or, if not that, at least it will run <em>straighter</em> in whatever direction it&#39;s going, good or bad. If the company operates in a fast-moving industry, that kind of internal coordination is a good tradeoff against the costs of a more homogeneous internal culture, though as the business matures, that can flip. <a href="https://www.thediff.co/r/a63b40c9?m=f90780fc-498d-4ffe-a546-8a3e61574e99" class="footnote-backref" style="overflow-wrap: anywhere; color: #00A5A3; text-decoration: underline;" target="_blank">&#x21a9;&#xfe0e;</a></p>
+</li>
+<li id="fn4" class="footnote-item" style="margin: 0.5em 0; padding-left: 0.3em; line-height: 1.6; color: #15212A;"><p style="margin: 0 0 1.5em 0; line-height: 1.6; color: #15212A;">The way leaker&#39;s privilege works is best illustrated by the whistleblower who revealed internal documents showing that Instagram knew its product hurt teens&#39; body image. It turned out that this was an excerpt of a larger study, <a href="https://www.thediff.co/r/ede47f93?m=f90780fc-498d-4ffe-a546-8a3e61574e99" style="overflow-wrap: anywhere; color: #00A5A3; text-decoration: underline;" target="_blank">which surveyed users on a dozen different issues, only one of which was body image, and that perhaps-not-entirely-coincidentally, the other eleven were positive</a>. Another good tactic is to leak the losing side of an argument. In online advertising, for example, there&#39;s a fundamental tradeoff between user privacy and ad targeting, and this disproportionately benefits smaller advertisers who don&#39;t have the resources to target ads other ways, i.e. small businesses. Privacy is a popular concept, but so is small business, so both sides do their share of heartstring-tugging in addition to making a business case. But if you focus on the losing side&#39;s argument, it looks more like a pure story about trading morals for money. <a href="https://www.thediff.co/r/aaa9a933?m=f90780fc-498d-4ffe-a546-8a3e61574e99" class="footnote-backref" style="overflow-wrap: anywhere; color: #00A5A3; text-decoration: underline;" target="_blank">&#x21a9;&#xfe0e;</a></p>
+</li>
+<li id="fn5" class="footnote-item" style="margin: 0.5em 0; padding-left: 0.3em; line-height: 1.6; color: #15212A;"><p style="margin: 0 0 1.5em 0; line-height: 1.6; color: #15212A;">It&#39;s not unique, though; a grocery store that constantly makes a big deal about organic produce runs more reputational risk than, say Kroger. Even if the perception isn&#39;t accurate, it makes the company that brands itself in moral terms more vulnerable to hostile media coverage or angry employees. <a href="https://www.thediff.co/r/78142d99?m=f90780fc-498d-4ffe-a546-8a3e61574e99" class="footnote-backref" style="overflow-wrap: anywhere; color: #00A5A3; text-decoration: underline;" target="_blank">&#x21a9;&#xfe0e;</a></p>
+</li>
+<li id="fn6" class="footnote-item" style="margin: 0.5em 0; padding-left: 0.3em; line-height: 1.6; color: #15212A;"><p style="margin: 0 0 1.5em 0; line-height: 1.6; color: #15212A;">Which makes sense, given that the traditional path into an engineering management job is to move up from engineering rather than laterally from some other kind of management. <a href="https://www.thediff.co/r/49b6fc83?m=f90780fc-498d-4ffe-a546-8a3e61574e99" class="footnote-backref" style="overflow-wrap: anywhere; color: #00A5A3; text-decoration: underline;" target="_blank">&#x21a9;&#xfe0e;</a></p>
+</li>
+<li id="fn7" class="footnote-item" style="margin: 0.5em 0; padding-left: 0.3em; line-height: 1.6; color: #15212A;"><p style="margin: 0 0 1.5em 0; line-height: 1.6; color: #15212A;">If you were writing a science fiction story about AI two or more years ago, this detail would be the way that you establish that you&#39;re telling a lighthearted, hyperbolic story rather than anything that purported to be realistic. This is also partially a function of timing: many customers in the case study section did full enterprise rollouts in Q1 and Q2 of this year. For example, Lilly went from a 10k user pilot in July 2025 to a full 50k employee rollout in April 2026. So that&#x2019;s 5x expansion right there, but it is yet to be seen if they get another 5x in usage based expansion within that cohort by this time next year. <a href="https://www.thediff.co/r/b2998e23?m=f90780fc-498d-4ffe-a546-8a3e61574e99" class="footnote-backref" style="overflow-wrap: anywhere; color: #00A5A3; text-decoration: underline;" target="_blank">&#x21a9;&#xfe0e;</a></p>
+</li>
+<li id="fn8" class="footnote-item" style="margin: 0.5em 0; padding-left: 0.3em; line-height: 1.6; color: #15212A;"><p style="margin: 0 0 1.5em 0; line-height: 1.6; color: #15212A;">One of the uncomfortable features of the uneven distribution of AI is that sometimes you talk to someone about their job and realize that current models can do basically all of it. This is a good reason for companies to push AI internally: they want their workers using it when it can do 10-50% of their job, so it&#39;s a productivity enhancer, and not for them to start using it when it can do 90% of their job, at which point their incentive is to just not reveal that. <a href="https://www.thediff.co/r/81cdc5c8?m=f90780fc-498d-4ffe-a546-8a3e61574e99" class="footnote-backref" style="overflow-wrap: anywhere; color: #00A5A3; text-decoration: underline;" target="_blank">&#x21a9;&#xfe0e;</a></p>
+</li>
+<li id="fn9" class="footnote-item" style="margin: 0.5em 0; padding-left: 0.3em; line-height: 1.6; color: #15212A;"><p style="margin: 0 0 1.5em 0; line-height: 1.6; color: #15212A;">There have been many expensive computer bugs, but few bugs so expensive that they wiped a company out entirely. But <a href="https://www.thediff.co/r/b86803bf?m=f90780fc-498d-4ffe-a546-8a3e61574e99" style="overflow-wrap: anywhere; color: #00A5A3; text-decoration: underline;" target="_blank">in trading, it&#39;s happened</a>. <a href="https://www.thediff.co/r/c35c8549?m=f90780fc-498d-4ffe-a546-8a3e61574e99" class="footnote-backref" style="overflow-wrap: anywhere; color: #00A5A3; text-decoration: underline;" target="_blank">&#x21a9;&#xfe0e;</a></p>
+</li>
+<li id="fn10" class="footnote-item" style="margin: 0.5em 0; padding-left: 0.3em; line-height: 1.6; color: #15212A;"><p style="margin: 0 0 1.5em 0; line-height: 1.6; color: #15212A;">Right now, only 27% of their compute is dedicated to production inference, so they are still very much in their era of research and scaling. <a href="https://www.thediff.co/r/96f87053?m=f90780fc-498d-4ffe-a546-8a3e61574e99" class="footnote-backref" style="overflow-wrap: anywhere; color: #00A5A3; text-decoration: underline;" target="_blank">&#x21a9;&#xfe0e;</a></p>
+</li>
+<li id="fn11" class="footnote-item" style="margin: 0.5em 0; padding-left: 0.3em; line-height: 1.6; color: #15212A;"><p style="margin: 0 0 1.5em 0; line-height: 1.6; color: #15212A;">You can, of course, argue that if they&#39;re <em>really</em> worried, they should just stop working on AI at all, and join the Peace Corps or become a monk or something. In which case this piece would be about a different most-safety-focused lab, that&#39;s a little less safety-focused. If you know something&#39;s going to happen, and that you can have an impact on how but not whether it happens, you work on it. This is why so many skeptics of war worked so hard to build the atomic bomb; they knew it could be built, and that the only question was whether America or Germany would build it first. <a href="https://www.thediff.co/r/5c1d0013?m=f90780fc-498d-4ffe-a546-8a3e61574e99" class="footnote-backref" style="overflow-wrap: anywhere; color: #00A5A3; text-decoration: underline;" target="_blank">&#x21a9;&#xfe0e;</a></p>
+</li>
+</ol>
+</section>
+<div class="kg-visibility-wrapper"><table class="kg-card kg-cta-card kg-cta-bg-grey  kg-cta-immersive kg-cta-no-label    kg-cta-centered" border="0" cellpadding="0" cellspacing="0" width="100%" style="border-collapse: separate; mso-table-lspace: 0pt; mso-table-rspace: 0pt; width: 100%; margin: 0 0 1.5em 0; padding: 0 24px; border-radius: 0; background: #f1f2f4;">
+            
+            
+            <tbody><tr>
+                <td class="kg-cta-content" style="font-family: -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif; font-size: 18px; vertical-align: top; color: #15212A;" valign="top">
+                    <table border="0" cellpadding="0" cellspacing="0" width="100%" class="kg-cta-content-wrapper" style="border-collapse: separate; mso-table-lspace: 0pt; mso-table-rspace: 0pt; width: 100%; padding: 24px 0 26px;">
+                        
+                        <tbody><tr>
+                            <td class="kg-cta-text" style="vertical-align: top; color: #15212A; font-family: -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif; font-size: 17px;" valign="top">
+                                <p dir="ltr" style="margin: 0 0 1.5em 0; margin-bottom: 1em; line-height: 1.4; text-align: center; color: inherit;"><span style="white-space: pre-wrap;">You&#39;re on the free list for </span><i><em class="italic" style="white-space: pre-wrap;">The Diff</em></i><span style="white-space: pre-wrap;">. Last week, paying subscribers read about </span><a href="https://www.thediff.co/r/9867d7ff?m=f90780fc-498d-4ffe-a546-8a3e61574e99" class="cta-link-color" style="overflow-wrap: anywhere; color: #15212A; text-decoration: underline;" target="_blank"><span style="white-space: pre-wrap;">the confusing effects of AI on how fast software depreciates</span></a><span style="white-space: pre-wrap;"> (&#x24;), </span><a href="https://www.thediff.co/r/cb94f688?m=f90780fc-498d-4ffe-a546-8a3e61574e99" class="cta-link-color" style="overflow-wrap: anywhere; color: #15212A; text-decoration: underline;" target="_blank"><span style="white-space: pre-wrap;">why the AI industry is full of cross-shareholding</span></a><span style="white-space: pre-wrap;"> (&#x24;), and </span><a href="https://www.thediff.co/r/70f5adfd?m=f90780fc-498d-4ffe-a546-8a3e61574e99" class="cta-link-color" style="overflow-wrap: anywhere; color: #15212A; text-decoration: underline;" target="_blank"><span style="white-space: pre-wrap;">LLMs as tools for improving, or poisoning, academic debates</span></a><span style="white-space: pre-wrap;"> (&#x24;). Upgrade today for full access.</span></p><br>
+                            </td>
+                        </tr>
+                        
+                            <tr>
+                                <td class="kg-cta-button-container" align="center" style="font-family: -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif; font-size: 18px; vertical-align: top; color: #15212A; padding-top: 20px;" valign="top">
+                                    <table class="btn" border="0" cellspacing="0" cellpadding="0" style="border-collapse: separate; mso-table-lspace: 0pt; mso-table-rspace: 0pt; box-sizing: border-box; width: auto; margin-left: auto; margin-right: auto;" width="auto"><tbody><tr><td align="center" style="font-size: 18px; vertical-align: top; color: #15212A; padding: 8px 20px 9px; border-radius: 6px; text-align: center; font-family: -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif; background-color: #000000;" bgcolor="#000000" valign="top"><a href="https://www.thediff.co/r/8f17a9cd?m=f90780fc-498d-4ffe-a546-8a3e61574e99" style="overflow-wrap: anywhere; box-sizing: border-box; cursor: pointer; display: inline-block; font-size: 15px; font-weight: 600; margin: 0; text-decoration: none; color: #FFFFFF;" target="_blank">Upgrade Today</a></td></tr></tbody></table>
+                                </td>
+                            </tr>
+                        
+                    </tbody></table>
+                </td>
+            </tr>
+        
+        </tbody></table></div><h2 id="diff-jobs" style="font-family: -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif; line-height: 1.11; font-weight: 700; text-rendering: optimizeLegibility; margin: 1.5em 0 0.5em 0; font-size: 32px; color: #15212A; margin-top: 1.5em;"><strong style="font-weight: 800;">Diff Jobs</strong></h2><p style="margin: 0 0 1.5em 0; line-height: 1.6; color: #15212A;">Companies in the&#xa0;<em>Diff</em>&#xa0;network are actively looking for talent. See a sampling of current open roles below:</p><ul style="margin: 0 0 1.5em 0; line-height: 1.6; padding-left: 1.3em; padding-right: 1.5em; list-style: disc; max-width: 100%;"><li style="margin: 0.5em 0; padding-left: 0.3em; line-height: 1.6; color: #15212A;">Well-funded, frontier AI neolab working on video pretraining and computer action models as the path to general intelligence is looking for researchers who are excited about creating machines that learn from experience, not text. Id&#x200b;&#x200b;eally you have zero-to-one pre-training experience and/or are a high-slope generalist who&#x2019;s frustrated that the big labs aren&#39;t doing this. (SF)</li><li style="margin: 0.5em 0; padding-left: 0.3em; line-height: 1.6; color: #15212A;">a16z, Sequoia, Thrive-backed next generation pharma company that instruments the best drug hunters in the world with deterministic software, data and AI to accelerate the process of acquiring, developing, and monetizing promising therapeutics (three active immunology programs) is looking for senior software engineers. If you are excited about sublinear headcount scaling, deploying capital and building technology that drives therapeutic abundance, please reach out. (Boston, NYC, SF)</li><li style="margin: 0.5em 0; padding-left: 0.3em; line-height: 1.6; color: #15212A;">A top prop trading firm is looking for people with exceptional strategic thinking and quantitative skills to help the firm model and manage its financing risk and strategy. Open to candidates from a range of analytically demanding fields. (NYC)&#xa0;</li><li style="margin: 0.5em 0; padding-left: 0.3em; line-height: 1.6; color: #15212A;">Series A startup building multi-agent simulations to predict the behavior of hard to sample human populations is looking for researchers and engineers (ML, platform, infrastructure, etc.) to improve simulation fidelity and scale the platform to hundreds of millions of simulation requests. Problem-solving and genuine interest in simulation matter more than pedigree. Experience working with languages with an algebraic type system is a plus. (NYC)</li><li style="margin: 0.5em 0; padding-left: 0.3em; line-height: 1.6; color: #15212A;">Ex-Anduril, Ex-Abnormal Security, Ex-Bridgewater, fast growing startup building frontier agentic cybersecurity to make the long tail of businesses defense dominant via MSPs is looking for a senior machine learning / quantitative researcher. Working in low data environments or working in low signal-to-noise environments e.g, mid-frequency quant finance is a big plus. Evidence of data rigor required. (SF)</li></ul><p style="margin: 0 0 1.5em 0; line-height: 1.6; color: #15212A;">Even if you don&#39;t see an exact match for your skills and interests right now, we&#39;re happy to talk early so we can let you know if a good opportunity comes up.</p><table class="kg-card kg-button-card" border="0" cellpadding="0" cellspacing="0" style="border-collapse: separate; mso-table-lspace: 0pt; mso-table-rspace: 0pt; width: 100%;" width="100%"><tbody><tr><td class="kg-card-spacing" style="font-family: -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif; font-size: 18px; vertical-align: top; color: #15212A; padding: 0 0 1.5em 0;" valign="top"><table class="btn" border="0" cellspacing="0" cellpadding="0" align="center" style="border-collapse: separate; mso-table-lspace: 0pt; mso-table-rspace: 0pt; box-sizing: border-box; width: auto;" width="auto"><tbody><tr><td align="center" style="font-size: 18px; vertical-align: top; color: #15212A; padding: 8px 20px 9px; background-color: #00A5A3; border-radius: 6px; text-align: center; font-family: -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif;" valign="top" bgcolor="#00A5A3"><a href="https://www.thediff.co/r/5ca5a3f5?m=f90780fc-498d-4ffe-a546-8a3e61574e99" style="overflow-wrap: anywhere; box-sizing: border-box; color: #FFFFFF; cursor: pointer; display: inline-block; font-size: 15px; font-weight: 600; margin: 0; text-decoration: none;" target="_blank">Find a Role</a></td></tr></tbody></table></td></tr></tbody></table><p style="margin: 0 0 1.5em 0; line-height: 1.6; color: #15212A;">If you&#x2019;re at a company that&#39;s looking for talent, we should talk! Diff Jobs works with companies across fintech, hard tech, consumer software, enterprise software, and other areas&#x2014;any company where finding unusually effective people is a top priority.</p><table class="kg-card kg-button-card" border="0" cellpadding="0" cellspacing="0" style="border-collapse: separate; mso-table-lspace: 0pt; mso-table-rspace: 0pt; width: 100%;" width="100%"><tbody><tr><td class="kg-card-spacing" style="font-family: -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif; font-size: 18px; vertical-align: top; color: #15212A; padding: 0 0 1.5em 0;" valign="top"><table class="btn" border="0" cellspacing="0" cellpadding="0" align="center" style="border-collapse: separate; mso-table-lspace: 0pt; mso-table-rspace: 0pt; box-sizing: border-box; width: auto;" width="auto"><tbody><tr><td align="center" style="font-size: 18px; vertical-align: top; color: #15212A; padding: 8px 20px 9px; background-color: #00A5A3; border-radius: 6px; text-align: center; font-family: -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif;" valign="top" bgcolor="#00A5A3"><a href="https://www.thediff.co/r/2b831d00?m=f90780fc-498d-4ffe-a546-8a3e61574e99" style="overflow-wrap: anywhere; box-sizing: border-box; color: #FFFFFF; cursor: pointer; display: inline-block; font-size: 15px; font-weight: 600; margin: 0; text-decoration: none;" target="_blank">Find Talent with Diff Jobs</a></td></tr></tbody></table></td></tr></tbody></table><p style="margin: 0 0 1.5em 0; line-height: 1.6; color: #15212A;">And: we&#39;re now actively deploying capital into early-stage companies through&#xa0;<a href="https://www.thediff.co/r/f002a0d9?m=f90780fc-498d-4ffe-a546-8a3e61574e99" rel="noreferrer" style="overflow-wrap: anywhere; color: #00A5A3; text-decoration: underline;" target="_blank">Anomaly</a>. Our focus is on defense, logistics, robotics, and energy. If you&#39;d like to chat, please reach out.</p><table class="kg-card kg-button-card" border="0" cellpadding="0" cellspacing="0" style="border-collapse: separate; mso-table-lspace: 0pt; mso-table-rspace: 0pt; width: 100%;" width="100%"><tbody><tr><td class="kg-card-spacing" style="font-family: -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif; font-size: 18px; vertical-align: top; color: #15212A; padding: 0 0 1.5em 0;" valign="top"><table class="btn" border="0" cellspacing="0" cellpadding="0" align="center" style="border-collapse: separate; mso-table-lspace: 0pt; mso-table-rspace: 0pt; box-sizing: border-box; width: auto;" width="auto"><tbody><tr><td align="center" style="font-size: 18px; vertical-align: top; color: #15212A; padding: 8px 20px 9px; background-color: #00A5A3; border-radius: 6px; text-align: center; font-family: -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif;" valign="top" bgcolor="#00A5A3"><a href="https://www.thediff.co/r/da0da85b?m=f90780fc-498d-4ffe-a546-8a3e61574e99" style="overflow-wrap: anywhere; box-sizing: border-box; color: #FFFFFF; cursor: pointer; display: inline-block; font-size: 15px; font-weight: 600; margin: 0; text-decoration: none;" target="_blank">Contact Anomaly</a></td></tr></tbody></table></td></tr></tbody></table><h2 id="elsewhere" style="margin-top: 0; font-family: -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif; line-height: 1.11; font-weight: 700; text-rendering: optimizeLegibility; margin: 1.5em 0 0.5em 0; font-size: 32px; color: #15212A;">Elsewhere</h2>
+<h3 id="pulled-ipos" style="margin-top: 0; font-family: -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif; line-height: 1.11; font-weight: 700; text-rendering: optimizeLegibility; margin: 1.5em 0 0.5em 0; font-size: 26px; color: #15212A;">Pulled IPOs</h3>
+<p style="margin: 0 0 1.5em 0; line-height: 1.6; color: #15212A;">Past a certain point, an IPO is 20% contingent on market conditions and 80% a formality, where the company is ready to function as a standalone public entity, and it can be taken public at a price that its backers tolerate. Sometimes, the IPO process itself can interfere, as when WeWork&#39;s S-1 was simply too weird to countenance. Opay, a Nigeria-based payments provider, <a href="https://www.thediff.co/r/008dda47?m=f90780fc-498d-4ffe-a546-8a3e61574e99" style="overflow-wrap: anywhere; color: #00A5A3; text-decoration: underline;" target="_blank">has joined the roster of nixed IPOs, citing a regulatory inquiry</a>. In places with less state capacity, there&#39;s more room for fraud, but there&#39;s even more room for imposing norms the government can&#39;t enforce. THis puts those companies in an awkward position, where there&#39;s a plausible case that either they&#39;re up to no good or that they&#39;re doing so much good that it makes someone else look bad.</p>
+<h3 id="non-fungibility" style="margin-top: 0; font-family: -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif; line-height: 1.11; font-weight: 700; text-rendering: optimizeLegibility; margin: 1.5em 0 0.5em 0; font-size: 26px; color: #15212A;">Non-Fungibility</h3>
+<p style="margin: 0 0 1.5em 0; line-height: 1.6; color: #15212A;">There&#39;s an argument that if the cost of intellectual labor goes to zero, the cost of authenticity tends towards infinity. How much would you pay for an original copy of the last great work a human produced in some genre later taken over by bots? Scarcity in many forms&#x2014;art, cryptocurrencies, collectibles&#x2014;have found their way into portfolios in part because they have an uncorrelated, inflation-resistant return stream. But that&#39;s partly predicated on there being an accurate market in n-of-1 products. It&#39;s a problem when <a href="https://www.thediff.co/r/b609fb4a?m=f90780fc-498d-4ffe-a546-8a3e61574e99" style="overflow-wrap: anywhere; color: #00A5A3; text-decoration: underline;" target="_blank">two different collectors claim to own the same iconic car</a> (&#x24;, <em>WSJ</em>). There may be a strange U-shaped curve to scarcity value relative to age, where the oldest ones are presumed unique, the newest ones can be verified on archive.org, blockchains, and the like, and it&#39;s the properties in between that end up orphaned.</p>
+<h3 id="the-news-business" style="margin-top: 0; font-family: -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif; line-height: 1.11; font-weight: 700; text-rendering: optimizeLegibility; margin: 1.5em 0 0.5em 0; font-size: 26px; color: #15212A;">The News Business</h3>
+<p style="margin: 0 0 1.5em 0; line-height: 1.6; color: #15212A;">Historically, ad- and subscription-supported news outside of finance is a fairly new development, and newspapers used to be subsidized by political partisans trying to advance their views. In a way, that&#39;s still an ad-supported media model, just one with an unusual advertiser. <a href="https://www.thediff.co/r/d8c67010?m=f90780fc-498d-4ffe-a546-8a3e61574e99" style="overflow-wrap: anywhere; color: #00A5A3; text-decoration: underline;" target="_blank">LLMs are bringing that back, at least at a small scale</a>: there&#39;s a collection of small local news sites that all happen to have names that sound like newspapers, and a tiny number of articles that mostly support Democratic candidates in competitive districts, and they&#39;re getting quoted by LLMs. Chatbots will probably get sophisticated enough that they won&#39;t fall for this kind of thing for long, but what they <em>will</em> still fall for is longer, well thought-out pieces that provide uniquely surprising tokens about such topics. It&#39;s similar to what happened with search engine optimization over time: initially, the easy tricks worked, but those tricks degraded the search experience, so search engines started penalizing sites that were too aggressive. Eventually, it became a better move to find some way to organically aggregate useful content that an impartial search engine would want to rank #1. Or to just pay for some of the traffic.</p>
+<h3 id="opt-outs" style="margin-top: 0; font-family: -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif; line-height: 1.11; font-weight: 700; text-rendering: optimizeLegibility; margin: 1.5em 0 0.5em 0; font-size: 26px; color: #15212A;">Opt-Outs</h3>
+<p style="margin: 0 0 1.5em 0; line-height: 1.6; color: #15212A;">And speaking of the SEO analog to LLM history, <a href="https://www.thediff.co/r/89fa9017?m=f90780fc-498d-4ffe-a546-8a3e61574e99" style="overflow-wrap: anywhere; color: #00A5A3; text-decoration: underline;" target="_blank">labs are putting together a shared standard for letting sites decide whether or not LLMs can train on their contents</a>. Not every lab will sign on, but it&#39;s in the big ones&#39; interest to give people a sense that they can opt out, whether or not they actually take it. This is also strategic for the labs because one outcome they worry about is that Cloudflare will become the toll collector for AI training. Anything that makes the problem less pressing for publishers makes it harder for Cloudflare to get this business to scale, which ultimately preserves the status quo where the labs ingest newly-created online data by default.</p>
+<h3 id="writing" style="margin-top: 0; font-family: -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif; line-height: 1.11; font-weight: 700; text-rendering: optimizeLegibility; margin: 1.5em 0 0.5em 0; font-size: 26px; color: #15212A;">Writing</h3>
+<p style="margin: 0 0 1.5em 0; line-height: 1.6; color: #15212A;">Some writers <a href="https://www.thediff.co/r/062018c3?m=f90780fc-498d-4ffe-a546-8a3e61574e99" style="overflow-wrap: anywhere; color: #00A5A3; text-decoration: underline;" target="_blank">say they&#39;re changing their writing style in order to avoid being accused of using AI</a>. Which is probably a waste of time: LLM writing will have tics, but these are visible and annoying enough that they&#39;re transient&#x2014;the labs have successfully bullied the models into not using em-dashes, and whatever the next tell is, it will probably suffer the same fate. But someone who&#39;s writing defensively and stripping AI-sounding lines from their text is probably going to strip it of style, too. Avoiding specific things in writing pushes you towards writing like nobody in particular. Of course, part of the subtext is that the people complaining that they have to do this are not necessarily telling the truth, and many of them have been using AI to write and are lying about it (the way to make this case would be to show something published before 2022 that gets flagged by Pangram as AI, but they don&#39;t do that). There will be a brief and weird period where people try to pass off AI-generated text as their own, probably followed by one where most text attributed to human writers is AI-generated, most readers don&#39;t care, and the ones who do are able to filter out the slop and feel superior about it. This equilibrium leaves everyone better off, less the inference cost involved.</p>
+
+                                                <!-- POST CONTENT END -->
+
+                                            </td>
+                                        </tr>
+                                    </table>
+                                </td>
+                            </tr>
+
+                            <!-- END MAIN CONTENT AREA -->
+
+                                <tr>
+                                    <td class="feedback-buttons-container" dir="ltr" width="100%" align="center" style="font-family: -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif; font-size: 18px; vertical-align: top; color: #15212A; padding: 32px 0 24px; border-bottom: 1px solid #e0e7eb; text-align: center; background-color: #ffffff;" valign="top" bgcolor="#ffffff">
+                                        <table class="feedback-buttons" role="presentation" border="0" cellpadding="0" cellspacing="0" style="border-collapse: separate; mso-table-lspace: 0pt; mso-table-rspace: 0pt; margin: auto; width: 100%;" width="100%">
+                                            <tr>
+                                                    <td dir="ltr" valign="top" align="center" style="font-size: 18px; color: #15212A; box-sizing: border-box; vertical-align: top; font-family: inherit; text-align: center; padding: 0 4px 4px; cursor: pointer; width: 33.33%;" width="33.33%">
+                                                        <a href="https://www.thediff.co/members/feedback/6ae8ad1b05132b0001ccfeee/1/?uuid=f90780fc-498d-4ffe-a546-8a3e61574e99&amp;key=f073d2bd8f78b90adce4d8a384dca24cf3977fa9097ffbbba7056987446e440e" target="_blank" style="color: #00A5A3; text-decoration: none; overflow-wrap: anywhere;">
+                                                            <img src="https://static.ghost.org/v5.0.0/images/more-like-this-mobile.png" border="0" width="42" height="42" alt="More like this" style="border: none; -ms-interpolation-mode: bicubic; max-width: 100%; display: block; margin: 0 auto; vertical-align: middle;">
+                                                            <p class="feedback-button-text" style="display: inline-block; font-family: -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif; color: #15212A; font-weight: 500; margin: 1em 0 0 0; line-height: 1.4; word-break: break-word; font-size: 13px;">More like this</p>
+                                                        </a>
+                                                    </td>
+                                                    <td dir="ltr" valign="top" align="center" style="font-size: 18px; color: #15212A; box-sizing: border-box; vertical-align: top; font-family: inherit; text-align: center; padding: 0 4px 4px; cursor: pointer; width: 33.33%;" width="33.33%">
+                                                        <a href="https://www.thediff.co/members/feedback/6ae8ad1b05132b0001ccfeee/0/?uuid=f90780fc-498d-4ffe-a546-8a3e61574e99&amp;key=f073d2bd8f78b90adce4d8a384dca24cf3977fa9097ffbbba7056987446e440e" target="_blank" style="color: #00A5A3; text-decoration: none; overflow-wrap: anywhere;">
+                                                            <img src="https://static.ghost.org/v5.0.0/images/less-like-this-mobile.png" border="0" width="42" height="42" alt="Less like this" style="border: none; -ms-interpolation-mode: bicubic; max-width: 100%; display: block; margin: 0 auto; vertical-align: middle;">
+                                                            <p class="feedback-button-text" style="display: inline-block; font-family: -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif; color: #15212A; font-weight: 500; margin: 1em 0 0 0; line-height: 1.4; word-break: break-word; font-size: 13px;">Less like this</p>
+                                                        </a>
+                                                    </td>
+                                                    <td dir="ltr" valign="top" align="center" style="font-size: 18px; color: #15212A; box-sizing: border-box; vertical-align: top; font-family: inherit; text-align: center; padding: 0 4px 4px; cursor: pointer; width: 33.33%;" width="33.33%">
+                                                        <a href="https://www.thediff.co/r/192c9032?m=f90780fc-498d-4ffe-a546-8a3e61574e99" target="_blank" style="color: #00A5A3; text-decoration: none; overflow-wrap: anywhere;">
+                                                            <img src="https://static.ghost.org/v5.0.0/images/comment-mobile.png" border="0" width="42" height="42" alt="Comment" style="border: none; -ms-interpolation-mode: bicubic; max-width: 100%; display: block; margin: 0 auto; vertical-align: middle;">
+                                                            <p class="feedback-button-text" style="display: inline-block; font-family: -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif; color: #15212A; font-weight: 500; margin: 1em 0 0 0; line-height: 1.4; word-break: break-word; font-size: 13px;">Comment</p>
+                                                        </a>
+                                                    </td>
+                                            </tr>
+                                        </table>
+                                    </td>
+                                </tr>
+
+
+
+                            <tr>
+                                <td class="wrapper" align="center" style="font-family: -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif; font-size: 18px; vertical-align: top; color: #15212A; box-sizing: border-box;" valign="top">
+                                    <table role="presentation" border="0" cellpadding="0" cellspacing="0" width="100%" style="border-collapse: separate; mso-table-lspace: 0pt; mso-table-rspace: 0pt; width: 100%; padding-top: 40px; padding-bottom: 30px;">
+                                        <tr>
+                                            <td class="footer" style="font-family: -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif; vertical-align: top; color: #15212a; color: rgba(0, 0, 0, 0.6); margin-top: 20px; text-align: center; padding-bottom: 10px; padding-top: 10px; padding-left: 30px; padding-right: 30px; line-height: 1.5; font-size: 13px;" valign="top" align="center">The Diff &#xa9; 2026 &#x2013; <a href="https://www.thediff.co/unsubscribe/?uuid=f90780fc-498d-4ffe-a546-8a3e61574e99&key=f073d2bd8f78b90adce4d8a384dca24cf3977fa9097ffbbba7056987446e440e&newsletter=2393d4b9-4d63-471b-931b-2826d384c7bd" style="overflow-wrap: anywhere; color: #15212a; color: rgba(0, 0, 0, 0.6); text-decoration: underline; font-size: 13px;" target="_blank">Unsubscribe</a></td>
+                                        </tr>
+
+                                    </table>
+                                </td>
+                            </tr>
+</table>
+                        <!-- END CENTERED WHITE CONTAINER -->
+                    </div>
+                </td>
+                <td style="font-family: -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif; font-size: 18px; vertical-align: top; color: #15212A;" valign="top">&#xa0;</td>
+            </tr>
+
+            <!--[if mso]>
+                            </table>
+                        </center>
+                    </td>
+                </tr>
+            <![endif]-->
+        </table>
+    </body>
+</html>
+

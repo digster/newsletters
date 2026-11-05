@@ -1,0 +1,10 @@
+---
+id: "1a11d768017f756f"
+subject: "Moralized Trends Are Often Extended"
+from: "Robin Hanson from Overcoming Bias <overcomingbias@substack.com>"
+to: ""
+date: 2026-10-08 21:40:52
+labels: ["CATEGORY_PERSONAL", "INBOX", "Overcoming Bias", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_8616244883382228708", "UNREAD"]
+---
+Compared to the ancients, we moderns less moralize our personal lives, but more moralize the bigger world around us. Wars and politics, for example, are more moralized to us. In particular, we tend to be eager to interpret big-scale trends in moral terms, and often do so if enough trend context factors can support such an interpretation. These moral interpretations often change how we respond to big tends, which often enhances these trends. For example, when gas prices rise, many are tempted to explain this as due to a rise in the selfishness of oil executives. Which can make them push for price controls and regulations that over time tend to cause higher gas prices. Similarly, rising costs of housing are often attributed to greedy landlords and developers, resulting in price controls and regulations that make it less attractive to build or rent housing, and so higher housing prices. On the other side, for trends like rises in school and medical spending, more attention to kids, less corporal punishment of kids, and delayed marriages, it is possible to frame them as due to increasing clarity, resolve, or knowledge re virtues and moral truths. Even if initially caused by other contextual factors, such moral interpretations can induce people to more admire those who do such things, and to do more of them themselves. Which extends those trends. This process add a multiplier effect to the efforts of cultural activists seeking to induce moral changes. Once they can cause any visible trend, using most any available means, the world many respond to that trend via an interpretation of changed morals, when then adds force to the change trend. (This post is an attempt to simplify and generalize my You're currently a free subscriber to |

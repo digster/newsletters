@@ -1,0 +1,37 @@
+---
+id: "1a0ff6bead6f722e"
+subject: "Apple’s new phones fold. Apple Pay still won’t"
+from: "The Ken <info@the-ken.com>"
+to: ""
+date: 2026-10-03 01:40:56
+labels: ["CATEGORY_PERSONAL", "INBOX", "The Ken"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_8244464457792971031"]
+---
+|
+|
+The Collection
+Sat, 03 Oct 26
+Multiple stories, multiple perspectives, one theme worth your time—every week.
+Good Morning Ishan,
+I surprised myself last week when I switched on a news channel on TV. It was muted, as you do, and there was the usual September coverage. Reporters were standing outside an Apple Store, panning across a queue of people who had slept on the footpath to pay the price of an expensive motorcycle for some variant of iPhone 18. Why does this segment run every single year with the exact same energy? Beats me.
+Flipped the channel, and there was a panel arguing about UPI’s new 0.4% merchant fee. Was it a toll or a tax or, per one very annoyed guest, a betrayal of everything UPI was supposed to stand for. Unremarked on by either was a promise Tim Cook made almost a decade ago to ICICI Bank’s then-CEO Chanda Kochhar, that he wanted to bring Apple Pay to India, had finally come true.
+There is an old story of ours about that trip: Cook in Mumbai, Apple even filling out an RBI questionnaire about how the thing might actually work, back when it didn’t seem like it was the opening move in a decade-long negotiation.
+The absence of a coherent NFC-enabled payment ecosystem could force Apple to look elsewhere: maybe, mobile wallets
+And this week’s announcement is so small it almost explains why nobody mentioned it on either channel. One lender partner—Axis Bank— and credit cards only, Visa and Mastercard, nothing else. HDFC, ICICI, and SBI Card are all still apparently arguing with Apple about terms.
+Which, fine, except for the thing that keeps nagging at me. Apple clearly knows how to want India when the thing on offer is a phone, badly enough that Counterpoint’s now saying it will cross 10% of the smartphone market by year-end, double digits for the first time ever, up from 4% just four years back. So it’s not that Apple doesn’t understand urgency. It understands it fine when the transaction flows toward Cupertino.
+My best guess, and I keep going back and forth on this, is that there are really two things going on here. First, there is the principle thing: UPI wants transaction data to stay on servers inside India, and Apple has spent years, including again this week, saying it keeps no transaction data tied to a user at all, anywhere. So something there had to give. But then there is the less noble reason, the one about money. UPI stopped being free. That 0.4% fee the panel was yelling about is already being challenged in the Supreme Court, and even once it lands, it’s nothing next to what a plain credit-card swipe earns everyone in that chain.
+Pine Labs’ own CEO basically said this out loud on an earnings call months before any of this launched, predicting Apple’s arrival would push spending back toward cards. Apple’s own version of events is gentler, obviously, its payments chief telling Moneycontrol it was really about NFC terminals finally being everywhere and a new RBI rule on biometric-card authentication. I don’t think either explanation cancels out the other.
+What I keep circling back to, though, is how picky NPCI actually is about who gets let in, because it’s not a blanket no. Around the same stretch Apple was negotiating its way into a bank’s card network, we had written about Razorpay building Agentic Payments, in partnership with NPCI, designed to let AI agents complete UPI transactions directly inside Claude. So one company gets NPCI as a willing partner on something new and experimental. Another spends a decade negotiating for a single bank’s Visa cards.
+Bringing you this and more at our first Zero Shot event
+And being outside the system has a real cost because it has happened before, with a company that had 13 million physical stickers on shop counters across the country. Paytm’s QR codes were everywhere but mostly only took payments from Paytm’s own wallet, barely a million of them properly wired into UPI, and Bharatpe just offered merchants one code that worked with whatever app the customer happened to have, and the advantage was gone practically overnight.
+One-year-old payments company focused on merchants has seen a swift rise standing atop the shoulders of the consumer-focused payments apps. But payments supremacy isn’t the destination for BharatPe, merely the vehicle
+Apple Pay’s is a version of that same experiment right now, except it doesn’t even have 13 million stickers to fall back on. It has one bank.
+And look, this is not actually new for Apple in India, which is maybe the most Apple detail in this whole thing. Its services arm- iCloud, the App Store, Apple Music, spent four straight years going nowhere here, mostly because the company kept running a playbook built for other markets against a tax structure and a set of habits that didn’t match it at all, while its own India leadership kept walking out the door behind it.
+In 2017, Apple India decided to put its back into building up its services business—iCloud, App Store, Apple Music. But a blanket global strategy, attrition among leadership, and a focus on revenue over volume has hobbled its plans for a grand hardware-software-service ecosystem in India
+Before that, even the hardware itself had lost ground, with Chinese and Korean rivals matching the specs for a fraction of the price. By 2019, Apple’s own share of India’s premium phone segment, the exact buyer Apple Pay is chasing right now, had dropped from 47% to 21%, even while that whole segment kept growing underneath it. It is the same story every time, actually, now that I am writing it out. There is total confidence on the outside, but a painfully slow clock ticks on the inside. And the gap costs a measurable amount, over and over. As if Apple keeps relearning the same lesson in a different department.
+The world’s most profitable smartphone manufacturer is in crisis in India. A new country head is incoming, but the task ahead of him is massive
+Except for OnePlus though, few others are prepared for it. Apple is still too expensive. Samsung and Xiaomi too mass-market. Oppo and Vivo are testing the waters
+A newer variant of that same gap is forming right now, and honestly it might end up mattering. We had written, in something imagining Indian e-commerce a few years out, about Google already having built a whole protocol stack for this, a Universal Commerce Protocol and an Agent Payments Protocol together, more than 60 partners signed on, for a future where AI agents do the browsing and the paying without anyone touching a screen at all. Apple’s name wasn’t anywhere on that list.
+On 12 April, at our first Zero Shot live event, we’ll visualise and debate how things might look like a couple of years from now
+So if the last 10 years were about Apple being slow to show up for the payment rail India already built, I keep wondering if the next 10 are going to be about Apple being slow to show up for whatever replaces it.
+What do you think? Write to sumit@the-ken.com with your thoughts and feedback.

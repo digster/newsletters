@@ -1,0 +1,14 @@
+---
+id: "1a13b2c87a881af7"
+subject: "Wednesday assorted links"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2026-10-14 16:08:55
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699"]
+---
+1. [Planets more habitable than Earth?](https://marginalrevolution.com?action=user_content_redirect&uuid=fd2a8443eb9248060ae30e1f8b551cff28a3ae46cc464bf89907a93d1f512200&blog_id=42693868&post_id=93989&user_id=262258391&subs_id=225460721&signature=be71baf9e14e9c91180af904c756f48a&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly93d3cubnl0aW1lcy5jb20vMjAyNi8xMC8xMy9zY2llbmNlL2luaGFiaXRhYmxlLXBsYW5ldHMtc29sYXItc3lzdGVtLmh0bWw&email_id=22d003865302a950319208a5047ffaf4) (NYT)
+2. [Those new service sector jobs](https://marginalrevolution.com?action=user_content_redirect&uuid=7e55c4e43553615d82e83ced840abd40f86da9f24fdd177d4ea6d66556ab72c4&blog_id=42693868&post_id=93989&user_id=262258391&subs_id=225460721&signature=d20e60b10b04a59c6e63545af28929a2&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly93d3cudGVsZWNpbmNvLmVzL25vdGljaWFzL2VzdGlsby1kZS12aWRhLzIwMjYxMDEyL2NhbWJpYXItZGUtdmlkYS1jb21vLWlydGUtY29udGFyLXBpbmd1aW5vcy1hbnRhcnRpZGEtdXBwM3JzXzE4XzAyMDM1MDU3MS5odG1s&email_id=22d003865302a950319208a5047ffaf4): "Cambiar de vida: cómo irte a contar pingüinos en la Antártida por hasta 2500 euros al mes."
+3. [AI song about the China Shock debate](https://marginalrevolution.com?action=user_content_redirect&uuid=76d9ed7da4ed822a432046be2669201a16b67b8bc70ef779fb3ceec0864959e3&blog_id=42693868&post_id=93989&user_id=262258391&subs_id=225460721&signature=aa5c97628906fe51487bcbedff1d364b&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly94LmNvbS9qb2VmcmFuY2lzNTA1L3N0YXR1cy8yMTA5NzA3NzAxMzg3NDMyMTk3&email_id=22d003865302a950319208a5047ffaf4).
+5. "[Fewer then 5 innovations could return 1920s era growth.](https://marginalrevolution.com?action=user_content_redirect&uuid=62e1ddf91616be377e07d9eaefb594941c48d3a621c30925ba06a3af930cbe9f&blog_id=42693868&post_id=93989&user_id=262258391&subs_id=225460721&signature=38cb176b751155ea39d82a51c9cf529b&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly9jb2R5Zmlua2Uuc3Vic3RhY2suY29tL3AvZmV3ZXItdGhlbi01LWlubm92YXRpb25zLWNvdWxkLXJldHVybj9yPTJ0N2dhbQ=&email_id=22d003865302a950319208a5047ffaf4)"
+6. [Anthropic is hiring economists and political scientists, to teach their models those topics](https://marginalrevolution.com?action=user_content_redirect&uuid=627c2bc7ad3cce6abbd20cd8924705de445cb8ea2f4b8d9ac96530ce775b480e&blog_id=42693868&post_id=93989&user_id=262258391&subs_id=225460721&signature=6059b10b189055e46d8367852586d562&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly9qb2ItYm9hcmRzLmdyZWVuaG91c2UuaW8vYW50aHJvcGljL2pvYnMvNTQ0NzA4MDAwOA=&email_id=22d003865302a950319208a5047ffaf4).

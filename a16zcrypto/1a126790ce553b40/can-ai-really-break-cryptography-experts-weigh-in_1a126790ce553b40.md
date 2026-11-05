@@ -1,0 +1,18 @@
+---
+id: "1a126790ce553b40"
+subject: "Can AI really break cryptography? Experts weigh in"
+from: "a16z crypto <a16zcrypto@substack.com>"
+to: ""
+date: 2026-10-10 15:39:40
+labels: ["CATEGORY_PERSONAL", "INBOX", "UNREAD", "a16zcrypto"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "UNREAD", "Label_2535365729249697677"]
+---
+AI is getting better at solving hard math problems — so what does that mean for the cryptography protecting everything from private messages to healthcare to banking and crypto wallets? After OpenAI’s math results sparked some warnings from industry folks that AI could break the cryptography we all rely on, we asked cryptographers from Stanford and a16z crypto what’s fact and what’s assumption, what causes worry and what doesn’t. Experts: Dan Boneh — professor at Stanford University who heads the applied cryptography group and co-directs the computer security lab; also special research advisor at a16z crypto Eddy Lazzarin — general partner at a16z crypto Justin Thaler — research partner at a16z crypto and associate professor of computer science at Georgetown University Liz Harkavy — investment partner at a16z crypto Sonal Chokshi — editor in chief at a16z crypto
+Highlights: Plus, six takeaways: 1. AI’s math progress leaves the central cryptography question openRecently published results showed impressive progress across mathematics and computer science, but they didn’t contain cryptography results.
+2. Even a smarter AI can’t find an algorithm that doesn’t existMuch of modern cryptography rests on the assumption that certain mathematical problems have no efficient solution. This may also be true for increasingly capable AI.
+3. AI could compress years of cryptographic scrutinyTrying to break cryptography is part of how researchers build confidence in it. A design that survives sustained, serious attacks earns trust. AI could change how quickly that scrutiny happens.
+4. Quantum prep offers a head start on some AI risksWhile these recent concerns are about AI, some of the same systems are already the subject of migration efforts because of quantum computing. That overlap has limits.
+5. Cryptographic agility gives systems a way to adapt when weaknesses emergeCryptographic agility refers to a system’s ability to change its cryptographic methods when evidence or requirements change. It gives engineers a way to respond to discoveries they can’t predict in advance.
+Dan points to internet connections that already combine different cryptographic methods:
+6. The immediate opportunity: finding more flaws before software shipsFor builders, one of the clearest opportunities is bringing more security testing into development. Discussing complex cryptographic systems, Justin notes:
+Quotations have been lightly edited for clarity. Ellipses indicate omitted passages. follow us on You’re receiving this newsletter because you signed up for it on our websites, at an event, or elsewhere (you can opt out anytime using the ‘unsubscribe’ link below). This newsletter is provided for informational purposes only, and should NOT be relied upon as legal, business, investment, or tax advice. This newsletter may link to other websites or other information obtained from third-party sources — a16z has not independently verified nor makes any representations about the current or enduring accuracy of such information. Furthermore, the content is not directed at nor intended for use by any investors or prospective investors in any a16z funds. Please see a16z.com/disclosures for additional important details, including link to list of investments. |

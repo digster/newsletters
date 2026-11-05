@@ -1,0 +1,24 @@
+---
+id: "1a1686a0cc815142"
+subject: "The AI Story Wall Street Doesn’t Want to Hear"
+from: "Derek Thompson <derekthompson@substack.com>"
+to: ""
+date: 2026-10-23 10:56:29
+labels: ["CATEGORY_PERSONAL", "Derek Thompson", "INBOX", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "Label_8084010501914573198", "INBOX", "UNREAD"]
+---
+|
+If you had to pick one number to measure the health of the AI buildout—or, conversely, the probability of an AI bubble—what number would you choose?
+For AI boosters, the trendy pick might be “GPU rental prices.” Despite all the investment in new AI chips, it costs a quarter more to rent older GPUs than it did a year ago. This tells us that demand for AI computing power is growing faster than supply.
+For now, the AI buildout is completely different from previous bubbles, which were marked by clear signs of supply outracing demand. In 2001, after the dot-com boom, less than 3 percent of the fiber-optic cable laid across America was actually in use. But today, practically every AI chip in the country is running, the price of renting them is rising, and just about everyone agrees we need more compute to meet current demand.
+But as tech stocks [wobble](https://substack.com/redirect/af488da1-9a73-44e5-81c0-b986617b2733?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o), some AI skeptics are scrutinizing another number that is frustratingly hard to pin down: How much external revenue is the AI ecosystem actually generating?
+This is a surprisingly hard question to answer. The supply side of the AI economy is fairly legible. Nvidia reports its revenue every quarter. Microsoft, Amazon, Meta, and Alphabet report their capital spending. But the demand side is more opaque—a dark archipelago of private AI model makers, such as OpenAI and Anthropic, that don’t yet report quarterly revenue figures. AI usage is often bundled into products like Microsoft 365 and Salesforce, which means even public-company earnings do not cleanly indicate how much of their revenue came from AI.
+The murkiness of AI revenue is starting to worry analysts. “All I care about is, are the revenues coming into the system greater than the costs of building the whole value chain,” the tech and media analyst Craig Moffett [told](https://substack.com/redirect/ba318b0f-5e55-414a-a6b7-8b20e8050a2b?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) Ben Thompson. When chipmakers sell to clouds, who sell to labs, who buy chips, who sell to clouds, that’s just money changing hands between layers of the value chain, he said. What matters more is the money coming in from the outside—from individuals, businesses, and governments. “The market is panicking right now,” Moffett said, “because the market is saying, ‘We don’t know.’ It’s not obvious.”
+Investment firms are doing their best to provide some clarity. The Substack and AI research firm Exponential View estimates that the AI economy [reached](https://substack.com/redirect/ac823f2b-e057-4d82-95dc-1b9daf61b518?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) $229 billion in annualized revenue by the end of August.
+If no official number is available, the next best thing might be a large survey of companies. Ramp is a corporate-card and expense-software company that oversees the spending of about 85,000 American businesses, including more than $10 billion a year in AI purchases. Ara Kharazian, the firm’s lead economist, has spent the past few months publishing a series called [“Cracks in the AI Thesis”](https://substack.com/redirect/06e6c140-cc84-4103-a636-c5c8a8085795?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) based on weaknesses he’s seeing in their proprietary data. While Ramp’s sample skews toward tech companies, and cannot account for the whole economy, it shows things that other estimates cannot: who’s actually using AI and what they’re paying.
+The first thing that Kharazian’s data shows is that AI demand is real. In September, more than 55 percent of businesses on Ramp’s platform paid for at least one AI model. Unlike the metaverse, whose enthusiasm lived mostly among suppliers and investors, this technology has real customers paying real money.
+But when Kharazian digs deeper into the composition of AI spending, he sees three potential breaking points—a concentration problem; a spending-slowdown problem; and a falling prices problem...
+Subscribe to Derek Thompson to keep reading this post and get 7 days of free access to the full post archives.
+| Frequent subscriber-only essays | |
+| Talk to me! Subscribers can leave comments and ask me questions | |
+| Read exclusive Q&As with readers about what I'm thinking |

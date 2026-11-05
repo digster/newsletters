@@ -1,0 +1,11 @@
+---
+id: "1a15570d3b5c107b"
+subject: "The California billionaire tax is very likely a net revenue loser"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2026-10-19 18:33:39
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+This paper examines the revenue and migration impact of the 2026 California Billionaire Tax Act, a one-time 5 percent tax on the worldwide net worth of individuals exceeding $1 billion. Using data from the Forbes Billionaire List, news reports detailing the residential real estate holdings of California billionaires, and public announcements of billionaire departures from the state, we estimate the behavioral response and associated revenue loss to this new tax using several different methodologies. Even before accounting for reductions in other tax bases such as the income tax, we estimate that the Act will collect approximately $30 billion (range $28 to 36 billion), less than a third of the $100 billion projected by Galle et al. (2025). This range accounts for the publicly confirmed taxpayer migration that has already eliminated nearly 30 percent of the Act's wealth tax base, applies a litigation-survival discount to the remaining base, and is validated by the wealth tax base elasticity literature. We estimate that California's billionaires contribute $3.3–5.8 billion annually in state income taxes. The present value of permanently lost income tax collections from departures more than offsets the one-time wealth tax revenue, yielding a net present value of negative $38.9 billion. Across 100,000 simulated revenue and discount rate combinations, 85 percent of plausible outcomes produce a negative net present value of state revenues.
+That is from [a new NBER working paper](https://marginalrevolution.com?action=user_content_redirect&uuid=4f278c432876f18aca91b1202e47f2ae3899a629942a644c2a6f87a6d5118f95&blog_id=42693868&post_id=94021&user_id=262258391&subs_id=225460721&signature=3b9698e321f08358a1c6d08eda8babb6&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly93d3cubmJlci5vcmcvcGFwZXJzL3czNTg5OSNmcm9tcnNz&email_id=7e62fea17ff14473cf738d7ad60d6746) by Benjamin Jaros and Joshua Rauh. Overall this issue is a good litmus test for who still thinks like an economist.

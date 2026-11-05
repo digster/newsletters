@@ -1,0 +1,12 @@
+---
+id: "1a1768e83e133809"
+subject: "Frances Lee on American elections"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2026-10-26 04:53:33
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+More likely than interference with the election is that unsuccessful office-seekers will refuse to concede, claiming their opponents cheated. Nothing is more basic to democratic legitimacy than the loser’s consent. Many feared that Mr Trump’s refusal to concede in 2020 would spread across the political system. It has not. Bright Line Watch, a research group, examined all 884 congressional races in 2020 and 2022. The overwhelming majority of losing candidates publicly acknowledged defeat. Explicit refusals were concentrated among first-time candidates who had lost by wide margins. And there were fewer such refusals in 2022 than in 2020. Candidates with political careers to protect still concede. When they do, complaints of election “rigging” lose their force...
+Nevertheless, the record of American elections since 2020 has been encouraging. Election administration has improved. Although many career administrators resigned amid increased harassment after 2020, the voters’ experience actually got better. In both 2022 and 2024 the share of people waiting more than 30 minutes to cast their ballot was lower than in 2020, and the long-documented racial gap narrowed: by 2024 black, white, Hispanic and Asian voters reported comparable waiting times.
+She is from Princeton, and here is [more from The Economist](https://marginalrevolution.com?action=user_content_redirect&uuid=cd6451cd509068d671c41cfb66a537ad2fd8536ce531087f7c2989fb0a8cc6f6&blog_id=42693868&post_id=94081&user_id=262258391&subs_id=225460721&signature=71bfc5dbe56f8a0326cae03b8af79e37&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly93d3cuZWNvbm9taXN0LmNvbS9ieS1pbnZpdGF0aW9uLzIwMjYvMTAvMTkvaWdub3JlLXRoZS1kb29tc2F5ZXJzLWFtZXJpY2FuLWRlbW9jcmFjeS1pcy1pbi1nb29kLXNoYXBl&email_id=81f8e2c23cc2f241b86bc75469c429a6). I do agree there is too much gerrymandering. Those with more dramatic complaints and predictions, however, are encouraged to try them out in the prediction markets.

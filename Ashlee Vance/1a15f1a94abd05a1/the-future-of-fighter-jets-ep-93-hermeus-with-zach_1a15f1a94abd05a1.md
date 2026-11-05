@@ -1,0 +1,23 @@
+---
+id: "1a15f1a94abd05a1"
+subject: "The Future Of Fighter Jets - EP 93 Hermeus With Zach Shore And A.J. Piplica"
+from: "Core Memory  <ashleevance@substack.com>"
+to: ""
+date: 2026-10-21 15:35:25
+labels: ["Ashlee Vance", "CATEGORY_PERSONAL", "INBOX"]
+label_ids: ["Label_4216359091400734623", "CATEGORY_PERSONAL", "INBOX"]
+---
+|
+We’re heading into fighter jet territory this week with Zach Shore (CEO) and A.J. Piplica (Co-Founder and Executive Chairman) of Hermeus.
+Founded in 2018, Hermeus has set out to make supersonic and even hypersonic jets that can fly themselves. They’re part of this new wave of defense startups trying to prove that the U.S. can still produce technological marvels in a timely and not criminally expensive fashion. Hermeus’s planes would be a new breed of fighter jets that can use their speed and autonomy to carry out missions without putting pilots at risk.
+We conducted this interview with Shore and Piplica a couple of months back at Spaceport America just ahead of a test flight of Hermeus’s Quarterhorse Mk 2.1 plane. I’m pleased to tell you that the plane did indeed go supersonic, and it was awesome to behold. We’ll have a video on the experience soon on our YouTube [channel](https://substack.com/redirect/0a2eb636-19fb-4700-b46d-08d1b738edcc?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o).
+This interview covers Hermeus’s journey, the state of the U.S. defense industry, plane design and how the U.S. hopes to keep pace with China in areas like hypersonic flight.
+Hermeus’s planes are remotely piloted for now, but it has [partnered](https://substack.com/redirect/98f21a82-cd46-4c65-a7b9-5cdc493c9fce?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) with Anduril to give its aircraft autonomous mission capabilities. For hypersonic flight, it’s developing a fascinating hybrid engine design intended to switch from a turbine to a ramjet midair.
+Hermeus achieved supersonic flight on Mk 2.1’s third test flight and is betting it can keep building and testing new prototypes much faster than traditional defense contractors. You can see its planes and timelines [here](https://substack.com/redirect/c1c198f4-62cc-4453-8b9a-f21016bcea51?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o).
+SPONSOR
+Some of you will be wondering, “Is this episode sponsored?”. Yeah, it is. By the wonderful people at Brex.
+I’ve worked at large companies like The New York Times and Bloomberg, and their expense systems were terrible. Brex’s expense management systems, by contrast, are fantastic. AI agents run around taking care of tons of stuff for you and give you back your time.
+Your company should switch to Brex to make life better for everyone. [Find out more here](https://substack.com/redirect/8f16a0bc-fb33-4b57-a247-45aab55cf094?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o).
+TIMESTAMPS
+[0:00](https://substack.com/redirect/789c96f8-faea-4751-957d-c1c6e15c730c?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) Intro[3:39](https://substack.com/redirect/ce2b9d71-1113-433b-83dd-3c7f4a5d355c?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) Supersonic With Nobody Aboard[6:21](https://substack.com/redirect/9ac642e4-f34b-489b-85f5-18f23de324cd?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) Building an Aircraft Company[17:02](https://substack.com/redirect/646ab2e5-3017-4cda-8ead-8e06b79882f3?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) From Turbines to Ramjets[22:18](https://substack.com/redirect/37922645-7b65-4b50-aa99-8f952cc6c9bc?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) The Unmanned Bomb Truck[30:25](https://substack.com/redirect/e372004d-68ed-476c-9e16-27d77cb1b24b?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) Will Passengers Fly Hypersonic?[31:56](https://substack.com/redirect/09793c4c-54c7-4dfc-9e80-fe0686546b19?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) America's Flight Testing Bottleneck[40:08](https://substack.com/redirect/28ca237d-c3ba-4c2e-a46c-ee221d46f387?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) Who Actually Flies It?[45:12](https://substack.com/redirect/2cf4c741-2096-4a5b-a1ac-91feb38ac070?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) Rebuilding the Skunk Works[47:06](https://substack.com/redirect/c87a3178-4740-4fff-a501-c41b2c48d2f2?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) China and America's Aerospace Bet
+Hopefully, you enjoyed this story. If so, please share it and subscribe to Core Memory. We want to do more of this for you and need your help. Thanks!

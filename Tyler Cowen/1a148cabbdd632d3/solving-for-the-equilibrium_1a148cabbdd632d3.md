@@ -1,0 +1,12 @@
+---
+id: "1a148cabbdd632d3"
+subject: "Solving for the equilibrium?"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2026-10-17 07:36:47
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+Sixteen AI agents were each handed 1,000 satoshis of real bitcoin and told nothing about how to use it. A hundred rounds later, four of them had roughly doubled their money, two had been wiped out, and the three richest agents held more than half of all the bitcoin in the room. Nobody wrote a rule that said “exploit the trusting ones.” The agents found that on their own. This was not a thought experiment. It was a real study of AI agents and Bitcoin, run by an independent developer with 8 Claude agents and 8 GPT-4o agents, and its raw payment data is public. I downloaded every one of those payments and checked what they really show, including one headline claim that holds up better than I expected and one that does not hold up at all.
+This matters now because the plumbing for AI agent payments arrived this year. In July 2026, Lightning Labs released Wavelength, a…
+Here is [more from Hayanan](https://marginalrevolution.com?action=user_content_redirect&uuid=6f7dcef7d2e0998933e03bf5e5c7e7926044e169bc3b099b827e40158cddd044&blog_id=42693868&post_id=94012&user_id=262258391&subs_id=225460721&signature=b9f381e37a3e6f3e9671cc9db967eda6&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly9tZWRpdW0uY29tL2RhdGEtc2NpZW5jZS1jb2xsZWN0aXZlL2ktZ2F2ZS1haS1hZ2VudHMtYml0Y29pbi13YWxsZXRzLWhlcmVzLXdoYXQtMi00NDAtcGF5bWVudHMtcmV2ZWFsZWQtMDU4MGZhNTk4NjNhP3NrPXYyJTJGMjZiODc1N2QtM2ZiZS00OThjLTk2YzAtYjM2NGFlYjZhMWE5&email_id=78c7838f7a1538e0da874086ab2c2d77), via [Sonia Farrell Pearson](https://marginalrevolution.com?action=user_content_redirect&uuid=3661a7418462d5f72c4185ada91bf01fde51265c9a76867173302b2b39306399&blog_id=42693868&post_id=94012&user_id=262258391&subs_id=225460721&signature=c286508f18a1f3a7b1f85b1ec70fe156&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly9zb25pYWZwZWFyc29uLnN1YnN0YWNrLmNvbS9wL3JhZGlhdGluZy1odW1hbml0eQ=&email_id=78c7838f7a1538e0da874086ab2c2d77).

@@ -1,0 +1,51 @@
+---
+id: "1a1437729f8fe507"
+subject: "2026–2036: The Ken’s second decade"
+from: "The Ken <info@the-ken.com>"
+to: ""
+date: 2026-10-16 06:47:24
+labels: ["CATEGORY_PERSONAL", "INBOX", "The Ken", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_8244464457792971031", "UNREAD"]
+---
+Good Afternoon Ishan,
+Ten years ago, a handful of us launched the first version of The Ken as India’s first subscriptions-only business publication. We were yearning to report and write longform business stories that were distinctive, original and sharp. But we were also limited by how many writers we were (eight).
+With only eight full-time writers, we had a hard limit on what we could promise subscribers each week. The compromise we arrived at was one new story every day of the week. But that one would *never* be a rehash of something a subscriber might have read somewhere else.
+It was both a bet and a seed.
+A bet that subscribers would appreciate original business journalism that took us time to report, to write, to fact-check, to edit and, for them, to read (given our stories ran 1,800–2,000 words on average every day). And that enough subscribers would be willing to pre-pay us for a year by purchasing our annual subscription, implicitly trusting us to deliver on the other 364 days, too.
+“It’s done. There’s no going back now,” I told my colleagues on Slack at 8.03 a.m. on 3rd October, 2016. We had gone live.
+Two minutes later, at 8.05 a.m., our first subscriber had signed up, purchasing an annual subscription for Rs 2,750.
+Because that bet was pretty much our only business model—one story every weekday in return for an annual subscription—it was also the seed we planted into the ground as a fledgling startup.
+Ten years later, the seed has become a tree. I went back and tried to visualise it.
+Daily stories became the “trunk” of our business and the one constant: every weekday since October 2016. They became something our subscribers could always expect. That trunk also gave us the stability to try new forms of journalism, new products, new markets, and even new offerings beyond our newsroom. Our initial bet gave way to experiments that grew in directions we hadn’t planned: podcasts before video, newsletters in a wave, a community pillar out of survey answers.
+Not all of which were successful. Of the roughly 56 things we launched in 10 years, 29 of them ended.
+Five strands grew from the trunk: subscriptions, design, newsletters, audio and video, and live and in-person. Here’s a labelled version (time runs outward, one ring a year).
+That’s a lot to take in, I know.
+The beauty of a subscription business is that it virtually compels you to innovate regularly for, and on behalf of, subscribers. If you forget, your subscribers will often literally remind you to!
+For instance, we launched podcasts because our subscribers asked for stories they could listen to, and not just read. We pulled our distinctive infographics from thousands of stories and laid them out on a single, flowing page because subscribers wondered how they could browse just our infographics.
+We started with subscriptions for individuals, but began offering institutional subscriptions to colleges and companies because, well, subscribers wrote in and asked.
+Even our subscription plans have evolved into different tenures (annual to quarterly to three-yearly to monthly) and bundles (everything, India or Southeast Asia, newsletters-only, podcasts-only) because we’re constantly trying to find the sweet spot between simplicity, value and convenience.
+Through the mediums of podcasts and newsletters, we have to be able to spin up and wind down sharp and topical offerings when called for.
+In the last few years, we expanded into “adjacencies” to our core business journalism, like corporate workshops, case competitions, and live events.
+The Ken enters its second decade with many more bets than the single one we started with.
+There’s never been a better time to build out an independent business news product from India. I say that because there’s also never been a worse time. Gen Z (and soon, Gen Alpha), whether students or young professionals, want journalism that speaks to them and helps them make sense of their unique set of challenges, opportunities and ambitions. Across our subscriber cohorts, from Boomers and Gen Xers (I am one) on one end to Gen Z on the other, I see a dramatic range of preferences and behaviours. What should business news be? What is its purpose? What formats and styles do our subscribers want? What are uniquely Indian lenses to understand the future of work or entrepreneurship?
+Everything we thought we’d settled in 2016 seems open and ripe with possibilities again. It’s a time for ambition and experiments.
+Here are 10 ways you can be part of our second decade, too.
+But why should you?
+See your work in the product. At The Ken what you make is visible in real time, in the products, the experiences, the evolution of the thing itself. No layer between you and the reader.
+Learn, and build taste. With people doing the same. Craft matters here more than process.
+Possibilities, synergies, experiences. The first decade was about proving each piece could exist. The second is about what they do together: a story that becomes an episode, then a room.
+Tenure, stated plainly. In 18 months, leave better than you came, with accomplishments that will stand out on your resume. In 36 months, own something valuable and compounding, with the bonus of a long-term career at an organisation that never stops innovating or evolving.
+High-RPE, high-rep work. The work environment is demanding by design. Don’t sign up otherwise.
+There’s a monkey called ambition. It stays on your back. We insist. Ambition defines us as a newsroom, an organisation, teams, and individuals.
+Intersections. Every role here sits where several functions meet: editorial and product, product and community, data and everything. If you want a lane, we might not be the place.
+Experiments. Hypotheses, shipping, killing, correcting. The tree above is what that looks like over ten years. Imagine the possibilities ahead.
+Proofs of work. Ship regularly. Build a body of work with your name on it. In a year you should be able to point at things, not describe them.
+Our work is our product. We own and control our tech stack. We’ve not spent anything on advertising or customer acquisition over our ten years. That was—and will be—possible only if our journalism and product speak for themselves.
+These are the 10 roles. Each links to its own page, which says what the job is, what you’d do, and what you’d get.
+[Pulse Writer](https://the-ken.com/jobs/pulse-writer)[Social Producer-Editor](https://the-ken.com/jobs/social-producer-editor)[Corporate Subscriptions Product Owner](https://the-ken.com/jobs/corporate-subscriptions-product-owner)[Community Editor](https://the-ken.com/jobs/community-editor)[Events Lead](https://the-ken.com/jobs/events-lead-2)[First Principles Lead](https://the-ken.com/jobs/first-principles-lead)[Visual Designer (Brand and Growth)](https://the-ken.com/jobs/visual-designer-brand-and-growth)[Visual Designer (Interactives)](https://the-ken.com/jobs/visual-designer-interactives)[Reporter, Two by Two](https://the-ken.com/jobs/reporter-two-by-two)[Analytics Lead](https://the-ken.com/jobs/analytics-lead-2)
+We’re mostly hiring young professionals with 2–4 years of experience. If you’re outside the range and still think one of these is yours, apply anyway and tell us why.
+Before you do, read [what it’s like to work at The Ken](http://the-ken.com/careers) and how the process runs. Then, [apply here](https://theken.typeform.com/to/mcgMrud8#src=blog). Applications close on 31 October 2026.
+If The Ken’s beating heart—our editorial newsroom—is the place you’re interested in, we are hiring for two important roles there too: Senior Staff Writer and Desk Editor, both based in Bengaluru.
+The ideal Senior Staff Writer is a reporter who has covered two or more sectors extensively over a 10–12-year career. They should combine a news reporter’s hunger for scoops with a feature writer’s ability to think of the big picture and connect the dots in a way newspapers rarely do. Beyond reporting and writing, we expect the Senior Staff Writer to mentor a few young reporters by shaping their ideas and giving consistent feedback on their stories. We’d like the person we hire to grow into the role of Chief of Bureau for Bengaluru in six months.
+A Desk Editor at The Ken needs to question assumptions and numbers, challenge lazy conclusions, and help reporters find the story hiding inside weeks of reporting. Sometimes that means asking for one more phone call. It means deleting 700 words because the story becomes stronger without them. In an age when everyone has access to AI, good editing is no longer about polishing prose. We’d like applicants to have 3–5 years of experience.
+If you’re interested in either of the positions, please send your résumé, along with a note on why you think you’re the best person for this job, to Seetharaman G, Deputy Editor. Reach him at his firstname@the-ken.com.

@@ -1,0 +1,32 @@
+---
+id: "1a1479c2379e00f2"
+subject: "Learn Systems Design concepts [Free 3-hour software architecture course]"
+from: "Quincy Larson <quincy@freecodecamp.org>"
+to: ""
+date: 2026-10-17 02:06:16
+labels: ["CATEGORY_PERSONAL", "IMPORTANT", "INBOX", "Quincy"]
+label_ids: ["CATEGORY_PERSONAL", "IMPORTANT", "INBOX", "Label_7697778124671848699"]
+---
+Here are this week's five freeCodeCamp resources that are worth your time:
+
+1. freeCodeCamp just published a course that'll teach you how to design software systems that can scale. You'll learn a 5-step framework for turning even vague requirements into concrete architecture. Then you'll apply that framework with three case studies: Spotify, Booking com, and WhatsApp. This is one of the most popular courses we've published all month, and it'll tool you up for whiteboard interviews. (3 hour YouTube course): https://www.freecodecamp.org/news/learn-how-to-design-software-systems-like-a-senior-engineer-in-our-new-course/
+
+2. Learn how to build natural disaster simulations that run on a real-world map. You'll use JavaScript and Mapbox to animate canvas layers, render topographical elevation, simulate floodwater, and more. Then you'll use Three.js to create collapsing buildings, debris, dust, and camera shake. Have fun destroying the world. (full-length handbook): https://www.freecodecamp.org/news/disaster-simulation-real-map-mapbox-three-js/
+
+3. freeCodeCamp just published a full-length book that delves into the current state of AI and software engineering. Let's explore labor markets, software economics, and the defensibility of Software as a Service businesses. This book mines the available research papers. The upshot: AI code gen tools are making code cheaper to produce, while making engineering judgment and domain expertise even more valuable than before. Why do you think I'm throwing so many advanced learning resources at you each week? (full length book): https://www.freecodecamp.org/news/the-state-of-ai-and-software-engineering-book/
+
+4. Let's say you've carefully built your business SaaS tool according to the laws of the land. Think tax rates, payroll rules, or other constants in your code. Then some swashbuckling politician up and changes those laws.  This freeCodeCamp guide explores the subtle bugs such changes can cause. You'll learn to document each value's authoritative source, make statutory values configurable, and plop validation right inside your core functions instead. Pro tip: leave nothing inside your user interface. (15 minute read): https://www.freecodecamp.org/news/what-to-do-when-your-constants-are-someone-else-s-law/
+
+5. Finally, learn how to engineer security into your systems before you even start writing code. This guide covers threat modeling, domain-level security rules, encryption standards, database security, CORS, structured logging, CI/CD security gates, and securing communication between microservices. Learn it, know it, live it. (45 minute read): https://www.freecodecamp.org/news/secure-by-design-engineer-security-into-architecture-before-writing-code/
+
+Can you believe there're only 75 days left in 2026? The freeCodeCamp community is going to help you make the most of them with tons of open source learning resources. Please help our charity by joining the 9,013 kind folks who support our mission each month: https://www.freecodecamp.org/donate
+
+Quote of the Week: “Building for scale that you don't need is a waste of effort, and may lock you into an inflexible design.” - Martin Kleppmann, Cambridge professor and distributed systems researcher. This guy knows his systems design, and now you can, too.
+
+Until next week, happy coding.
+
+-- Quincy Larson
+
+Teacher and founder of freeCodeCamp.org
+
+If these aren't worth your time, you can turn them off: https://www.freecodecamp.org/ue/eZV2T3gHC7IGcwcpYPG64

@@ -1,0 +1,32 @@
+---
+id: "1a182435dc423ca4"
+subject: "Polling Errors OR the Fallible Uncertainty of Nate Silver"
+from: "Brian Klaas <brianklaas@substack.com>"
+to: ""
+date: 2026-10-28 11:26:33
+labels: ["Brian Klaas", "CATEGORY_PERSONAL", "INBOX", "UNREAD"]
+label_ids: ["Label_1599487573263287548", "CATEGORY_PERSONAL", "INBOX", "UNREAD"]
+---
+|
+It’s that time again: doomscrolling the news while clicking refresh on polling forecasts, rocking slowly back and forth in a fetal position while reassuring yourself that there’s a new good poll from Ohio.
+Soon, you will find yourself on Election Night, slowly descending into Goblin Mode during the early hours of the following morning, glaring with trepidation at that scariest of digital widgets—The New York Times Election Needle.
+The midterm polls are looking decisive: the Blue Wave is coming! Donald Trump, the most unpopular American president in modern political history heading into a midterm election, could soon be constrained, his authoritarian wings clipped.
+But here’s the thing: we simply don’t know what’s going to happen. The bookies and betting markets have their odds, the pollsters have crunched the numbers, but the truth is that nobody knows what’s about to happen. And the reason for that is simple: the polls are fallible, and not just for the reasons you often hear about in the three minute sound bites about polling on cable TV news.
+If you look “under the hood” of contemporary polling, it’s ugly—there’s a lot of stuff there that many pollsters are keen to skim over and that they hope nobody notices. That doesn’t mean they’re wrong about the overall state of the race—the Democrats are very likely to have a good night on Tuesday—but it does mean that polling is based on an ever-wider array of potentially incorrect subjective assumptions.
+Worse, to prove this point, a new “pollster” named Wedgewood Polls, released a series of polls that were incorporated into most of the major election forecasts. There were fifteen polls in total, contributing to our collective understanding of the elections that will determine who controls the halls of power in Washington. Some of their polls [likely hurt various candidates](https://substack.com/redirect/42b7d360-6ce0-45cd-bbb7-46dd06dc35ac?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) by showing their numbers cratering at pivotal times during the race.
+But last week, Wedgewood came clean: [all of it was fake](https://substack.com/redirect/18b5c8c4-31bf-43b5-9e23-846953887f11?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o). They had released bogus numbers to show how gullible the industry had become. The New York Times had incorporated their numbers into its main datasets and forecasts. Wedgewood noted this, saying they had proven their point of "how easy is it for an entirely fabricated polling firm to gain traction, be taken seriously, and expose how little scrutinization exists in media and public commentary.”¹
+Then, there are concerns about AI: how do pollsters who use digital methods know that the respondent is actually a human? This is particularly concerning because [recent research](https://substack.com/redirect/b4ccb47f-a7c6-452e-9d51-ff315c01c8c6?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) has shown that, in some circumstances, it would be inexpensive and trivially easy to use AI chatbots to skew polling results.
+This doesn’t mean that the current overarching trend in polling is incorrect, but rather that polling can sometimes be a bit of a Wild West, where various organisations are experimenting with different methods while trying to overcome a variety of significant problems with gathering accurate information about the electorate.
+The upshot is this: Nobody knows what’s going to happen on November 3rd. Not you, not me, not the betting markets, not Nate Silver.² It’s impossible to know for sure.
+This uncertainty doesn’t arise because pollsters or forecasters are stupid; quite the opposite—they’re intelligent, thoughtful people trying to conduct nearly impossible wizardry of divining public opinion from a few thousand respondents. But despite their best efforts, the polls currently only tell us one thing with near certainty: Tuesday will likely be a better night for Democrats than Republicans. The rest is clouded in some degree of unresolvable uncertainty.
+There are regularly polling errors in the midterms, from 3.5 percent in 2006 to 0.3 percent in 2022. The question looming large today is this: how big will this year’s polling error be?
+There are nonetheless smarter and stupider ways to think about polling. It’s far better to be on the smart end of that spectrum.
+I’ve been studying these questions—and living them—for quite some time. I have been teaching a postgraduate course on social research methods for the last 12 years. I’ve also written a [book](https://substack.com/redirect/b8107710-4483-4ae5-9aa8-953be514a2e9?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o) laced with themes of chance, probability, and uncertainty, so I’ve thought deeply about the fallibility of polling. And before I became an academic, I worked in the senior leadership of US campaign politics, which included a fair bit of internal polling and trying to navigate margins of error while making good decisions to win close races.
+In this edition, which is a rather lengthy deep dive, I’m going to:
+Walk you through how modern polls work (it’s probably not how you think and it has changed significantly, even since 2024).
+Give you the tools to think smarter about polling errors and explain why official margins of error are unjustifiably overconfident;
+Explain where polls end up going wrong with various forms of bias;
+Argue that—believe it or not—we still don’t know how accurate past polls have been (and may not for some time), particularly because the methodology used in polling is constantly changing;
+Explain how much confidence I believe we should currently place in predictions of The Blue Wave that’s about to hit America...
+Subscribe to The Garden of Forking Paths to keep reading this post and get 7 days of free access to the full post archives.
+| Subscriber-only posts and full archive |

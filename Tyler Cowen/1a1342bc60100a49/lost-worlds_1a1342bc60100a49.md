@@ -1,0 +1,12 @@
+---
+id: "1a1342bc60100a49"
+subject: "*Lost Worlds*"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2026-10-13 07:30:46
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+The author is Patrick Wyman, and the subtitle is [How Humans Tried, Failed, Succeeded, and Built Our World](https://marginalrevolution.com?action=user_content_redirect&uuid=17a6080f9f9d2f7a5be02b57c78a214e9b21f94e3bab2e9c0e913125adaaee3d&blog_id=42693868&post_id=93986&user_id=262258391&subs_id=225460721&signature=4e267675971464b5d22088602f7455c5&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9Mb3N0LVdvcmxkcy1QYXRyaWNrLVd5bWFuL2RwLzAwNjMyNTY0ODcvcmVmPXNyXzFfMT9kaWI9ZXlKMklqb2lNU0o5LnVhcjZxQXF3d25INUY1QlRld2FfbmJvX3poZzZRX3RGeGRma1M1ejQ4WFBwSWRWelRoWDJiaUhEbTF3TzFzbWNpMTF6STQ3X2lzcXNhLWpnOThpZlcydG1QQ2Fhcmp0YlcxRWtEVklHSXJNcHZRQmphWWtHcEFCeE1QUWxFTHVtX0MtN1N5YUd5R3EtZU1ZaVVMUjJQdWZnNEh3ZXp1TU1yZ3FNWVhCYVFIeEU3MU43SlZmcHdIbE9TMVY0bnh6VnAtWHIxSlJtb3JBaWdDM2djcmdUcXp6NThiX2JDUnF3dmdhWFg0ZGlPWHcuaUkyRkFJOGxIay1EZFVhYlNVOG52YWczYklIMHVENnpfVDNlWjkwRENuTSZkaWJfdGFnPXNlJmtleXdvcmRzPXBhdHJpY2srd3ltYW4mcWlkPTE3OTE4NTEzMTAmc3I9OC0x&email_id=03d9c4e2818e4f931e695e3719fa4b38). An excellent book, it is a survey of (mostly) pre-Sumerian times, what we know about them, and how we have learned a lot lately. It is easy to read, yet the author properly stresses the complexity of the topic, for instance we often find agricultural and non-agricultural societies intermingling with each other and in close contact, in those cases the lines cannot be so easily drawn. Excerpt:
+This was not the case for the copper axe Ötzi carried, a rare and precious object in an era when metalworking was still a new technology. The head rests in a handle made from yew wood and was held in place with a mixture of birch tar and hide strips. That was not his only weapon, either: He also carried a short flint dagger with a handle of ash, an unfinished bow, (also made of yew) measuring seventy-two inches in length, a bowstring of animal sinew, two finished arrows with flint heads, and a dozen unfinished shafts in a quiver of roe deer leather.
+Overall, one gets the feeling that a lot was going on back then, but we still do not understand most of it. The author is aware of this, but avoids undue speculation. Recommended, will make my best of the year non-fiction list.

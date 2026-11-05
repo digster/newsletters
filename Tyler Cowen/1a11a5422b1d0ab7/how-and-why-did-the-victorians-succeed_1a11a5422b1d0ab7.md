@@ -1,0 +1,15 @@
+---
+id: "1a11a5422b1d0ab7"
+subject: "How and why did the Victorians succeed?"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2026-10-08 07:04:43
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699"]
+---
+[From Samuel Hughes](https://marginalrevolution.com?action=user_content_redirect&uuid=76894ebd53d6d81b77e438d83c000273ca650c5103931f252a61482e6d41831f&blog_id=42693868&post_id=93948&user_id=262258391&subs_id=225460721&signature=f85a21d3bd2086c147fe27305a3c5ade&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly93b3Jrc2lucHJvZ3Jlc3MuY28vaXNzdWUvdGhlLXNldmVuLXZpY2VzLW9mLWhpZ2hseS1lZmZlY3RpdmUtdmljdG9yaWFucy8/djI&email_id=48cbbb9ae05405e69e15dbf58ff5fa1a), in Works in Progress:
+The elites of Victorian Britain operated differently. Their schools and universities were not terribly academic and had very little STEM. As adults, they got up late, drank a lot, and spent a remarkable share of their waking hours partying. They loved feasting, sports, holidays, dancing, and dressing up. Contrary to their stodgy reputation, they were probably a lot of fun.
+Here is some further detail:
+Most socially elite Victorian boys began formal education at the age of seven or eight, spending about five years in a ‘preparatory school’ before passing on to a ‘public school’ (which, to the enduring confusion of international observers, is a kind of elite private school). There was a hierarchy of public schools, with the nine ‘Clarendon schools’ at the top, and just one, Eton College, clearly at the apex. About
+[30 percent of nineteenth-century cabinet ministers]and 40 percent of prime ministers were Old Etonians.Most students at both preparatory and public schools were boarders, meaning that elite Victorians were generally sent away from home by the age of eight and spent their childhoods more with peers than with family. In this respect they were distinctive even in their own time: elite families in continental Europe and the United States were far more likely to keep their children at home and educate them at small local private schools. It is plausible that this contributed to the lack of subnational loyalties in the British elite, in contrast to the distinct elites of, for example, the Southern United States, Catalonia in Spain, or Hungary in the Austrian Empire.
+Nor did the Victorians wake up early in the morning. Recommended, there is much more [at the link](https://marginalrevolution.com?action=user_content_redirect&uuid=76894ebd53d6d81b77e438d83c000273ca650c5103931f252a61482e6d41831f&blog_id=42693868&post_id=93948&user_id=262258391&subs_id=225460721&signature=f85a21d3bd2086c147fe27305a3c5ade&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly93b3Jrc2lucHJvZ3Jlc3MuY28vaXNzdWUvdGhlLXNldmVuLXZpY2VzLW9mLWhpZ2hseS1lZmZlY3RpdmUtdmljdG9yaWFucy8/djI&email_id=48cbbb9ae05405e69e15dbf58ff5fa1a), though the answer to the question remains somewhat of a mystery to me.

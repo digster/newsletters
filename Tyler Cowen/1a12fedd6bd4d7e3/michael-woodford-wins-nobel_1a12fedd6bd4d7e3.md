@@ -1,0 +1,13 @@
+---
+id: "1a12fedd6bd4d7e3"
+subject: "Michael Woodford Wins Nobel"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2026-10-12 11:44:38
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+No one since Milton Friedman has done more to shape how central bankers think about their jobs than Michael Woodford. Woodford’s Interest and Prices (2003) has been called the central bankers’ bible. If you have read a speech by a Fed governor in the last twenty years you have read Woodford, even if his name wasn’t on it.
+Woodford building on Calvo, Rotemberg, Taylor, Galí, Gertler, and others integrated everything into a coherent, microfounded theory of monetary policy and developed its welfare implications. Households choose how much to consume using Hall’s Euler equation, firms with some market power get to change their prices only now and then, and the central bank sets the short-term interest rate. Out of these pieces comes a model in which monetary policy moves real output in the short run, and in which the main cost of inflation is that prices get out of line with one another because firms adjust at different times.
+You can see the revolution since Friedman because one fun feature of Woodford's model is that there is no money in the model. Woodford showed you could do monetary economics in a cashless economy. That’s closer to how central banks operate today, since the Fed sets an interest rate and pays little attention to M2. Woodford’s book title is a deliberate homage. Interest and Prices is the English title of Knut Wicksell’s 1898 book, which argued that inflation depends on whether the central bank holds its interest rate above or below the natural rate. Woodford rebuilt Wicksell with modern tools. If Friedman taught central banks to watch the money supply, Woodford taught them to watch the gap between their policy rate and the natural rate, and to manage expectations about both.
+Woodford also worked out when an interest rate rule pins down inflation. If the central bank raises nominal rates more than one-for-one with inflation, the equilibrium is determinate. If it doesn’t, expectations can become self-fulfilling. In a less remembered twist, he was also an early developer of the fiscal theory of the price level, which says that under some policy regimes the government’s budget determines the price level. It’s an unexpected stance for the leading New Keynesian.

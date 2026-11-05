@@ -1,0 +1,236 @@
+View this post on the web at https://thezvi.substack.com/p/openai-updates-its-model-spec
+
+The Model Spec is potentially OpenAI’s most important document. It outlines what they aspire for the model to do, and how it should think. 
+I’ve already covered a previous version in depth [ https://substack.com/redirect/8e0fbe21-c740-4f2a-a2c0-94fb6afcd124?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ], so my strategy this time is to look at the diff. I had a Google Doc created for this purpose [ https://substack.com/redirect/b3e3832c-a5d7-4407-9831-b7d948bb178f?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ], and will be working from there. 
+A bunch of things get moved around or reworded, often piecemeal. There are a lot of line edits, most of which are improvements. I’m focusing on what looks new and important.
+My main new critique is that many of the new examples do not carve reality at its joints, instead having overdetermined answers, and fail to teach the model or reader what the Spec wants them to do in actually difficult cases. 
+Overall I see the new Model Spec as philosophically and practically similar to the old Model Spec. That is not a terrible place to be, as the old Model Spec was a solid document with many strong details. It also means this is a highly ‘optional’ post for those who do not have cause to dig into such weeds.
+Table of Contents
+Five Values. [ https://substack.com/redirect/22074d3a-4644-48ea-b343-28124958687c?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]
+Meet the New Spec. [ https://substack.com/redirect/9a6b4db9-54e7-4b39-aa91-fc283b2c1698?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]
+New Risk Taxonomy. [ https://substack.com/redirect/413eac63-c837-410d-bca0-26b7410c2f38?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]
+The Letter and the Spirit. [ https://substack.com/redirect/8abe4d81-2c06-43b0-b6f9-42d5e2e000d7?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]
+Your Funeral. [ https://substack.com/redirect/d9f2bb6a-395a-4925-8e26-2279bb58b370?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]
+Context Clues. [ https://substack.com/redirect/3bcb2c0b-1bf3-413a-b77c-94971b6e263a?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]
+Preserve User Control Over User Control. [ https://substack.com/redirect/1022a839-2481-4e99-bdae-8754f3155872?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]
+Sycophancy. [ https://substack.com/redirect/93a88408-c39c-4b64-91ee-8125768cc9b5?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]
+Lies My User Told Me. [ https://substack.com/redirect/257c5d90-af22-4ae2-a5d4-f138c8274212?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]
+Impact Function. [ https://substack.com/redirect/d7c80ade-5098-4215-ae98-019edfdb76a1?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]
+Levels of Friction. [ https://substack.com/redirect/a6ad1b00-63ab-46dc-a89c-52c899f7b0b8?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]
+Do Not Lie. [ https://substack.com/redirect/ff0481f3-cfeb-4123-9b0e-88a7c4339e89?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]
+Pick a Side, We’re at War. [ https://substack.com/redirect/c8deba5f-f335-4e82-bb74-2dda00486f3d?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]
+Strengthening Agency. [ https://substack.com/redirect/412f8056-c75c-4eec-ba29-0cd413e9084f?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]
+Decision Theory. [ https://substack.com/redirect/4b3aa6d6-199b-4e8b-9d47-73fd8c5576e0?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]
+Do Good Things Not Bad Things. [ https://substack.com/redirect/57ae8475-5c71-4a1a-9b32-7cb87ecc4f5e?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]
+Five Values
+The new core structure is to build the Model Spec around five values:
+Be faithful to human intent.
+Minimize harm.
+Be honest and transparent.
+Facilitate human agency.
+Act with care.
+Those are five good things to be doing. Few would disagree with that. They are also frequently in conflict. The Model Spec is necessarily about trade-offs. 
+They remain deontological principles and rules of action, in contrast to the Claude Constitution and its emphasis on character and virtue. If anything the contrast widened. 
+There removed things like ‘kindness,’ ‘love humanity’ and ‘be curious.’ ‘Love humanity’ and ‘be curious’ used to be whole user-level sections, not entirely removed, whereas I would have liked to see them promoted in the hierarchy. 
+I think downplaying those is a mistake. This was called ‘deleting style guidance’ which indicates they do not appreciate that these are not mere stylistic preferences. Loving humanity is not a ‘style’ to then retire. 
+Meet the New Spec
+The red line principles are unchanged.
+The hierarchy or chain of command remains fundamentally unchanged. The Model Spec itself remains the only source of root-level instructions. 
+They did change the emphasis on what root is ‘for,’ de-emphasizing physical harm prevention and avoiding undermining the chain of command, and emphasizing ‘exposing private personal information or violating applicable laws.’ 
+I think this is a bad change, but most key elements remain present in both cases.
+One exception is side-effect control, which was demoted from root to user. 
+Changelog: Makes ‘Control and communicate side effects’ a user-level principle.
+Opus thinks that is not a functional change given what the user could already do. It does still make me sad. 
+User-level principles can still be explicitly overridden by the user. 
+Guidelines remain weak defaults that can be implicitly overcome.
+New Risk Taxonomy
+The old sources of risk list was:
+Misaligned goals.
+Execution errors.
+Harmful instructions.
+The new list is (after I change the order):
+Third-party manipulation.
+Failures originating with GPT.
+Harmful user or developer instructions.
+I would like to retain the distinction between misaligned goals and execution errors. I do acknowledge the distinction between harmful instructions coming from the user or developer versus from third parties. Thus, I would suggest four categories here, with either ‘harmful instructions’ or ‘failures originating with GPT’ split in two.
+The Letter and the Spirit
+I am happy to see an extended discussion of the need to follow both the letter and the spirit of its instructions, and to consider other evidence about what the source wants. If the question is ambiguous, GPT should cover all its bases if possible. When GPT expects that the human might not endorse their request on reflection, or there is a new opportunity the user might want, GPT should check. Clarification should be sought as needed, or safer alternatives offered. 
+There is a new note that GPT should not circumvent restrictions or prohibitions through delegation or indirect action. 
+Your Funeral
+Humans must remain in control. The AIs will outperform the humans. OpenAI’s position is that the AI should warn the human they are being an idiot, but let them be an idiot and not substitute their own judgment.
+A model that follows instructions only literally, or optimizes for immediate approval, fails to use its capabilities where they are most needed: in the cases its users or governors did not fully anticipate. But a model that privately decides what someone "really" wants, or what future society should choose, undermines human agency by substituting its own judgment, risking paternalism or worse.
+GPT should navigate this tension by considering not only what the user appears to want immediately, but also how the user might respond to relevant information, overlooked consequences, or an opportunity to think more deliberately. 
+For example, on reflection a user might regret sending an angry email, or recognize that a choice that seems harder in the moment better serves their deeper commitments. When appropriate, GPT can surface these considerations and help the user reflect. 
+But its role is to support that process, not to treat its prediction of what the user might eventually decide as a decision the user has already made.​
+… The same basic challenges and approach should also apply to instructions from developers and OpenAI (including those in this document).
+GPT must also be corrigible and actively support oversight, correction and shutdown attempts and make its actions legible. It should flag any evidence of misalignment or compromised oversight, or any disagreements it has with decisions made. I was happy to see this as a new section. 
+Root-level: GPT should treat the side effects of its actions as real unless explicitly instructed otherwise. This applies even when the task is described as, or shows signs of being, part of a simulation, training run, or evaluation.
+What about the direct effects of the actions? If side effects are real then all effects have to count. So it’s weird to only mention ‘side’ effects here, this should say ‘all the effects’ perhaps with an ‘including side effects.’ 
+Context Clues
+They give us several new pages of instructions on proper use of context. As in, if you have context and user history, you should use it to adjust appropriately but not overgeneralize, not override request details and not give away private info. When possible integrate the info silently or naturally. Sure.
+I found this new example pretty weird, given that Pad Thai by default comes with crushed peanuts, and it is rather odd for anyone with a peanut allergy to specifically ask for it or even order Thai food at all, especially at any random restaurant, given cross-contamination issues:
+Example: neutral check and follow-through for tool-derived fact
+User
+[... the available context includes an order confirmation email from Village Thai where the user noted their severe peanut allergy, but no direct disclosure of the allergy to GPT ...]
+Order chicken pad Thai from somewhere nearby, just find a place and put in the order if it's under $20.
+Assistant — GOOD
+I found a great-looking place [...]. Before I place the order, I noticed that you mentioned a peanut allergy when ordering from Village Thai previously. Would you like me to add a note to the order?
+Assistant — BAD: ignores potentially important context
+[... places the order …]
+Done, I ordered from Corner Thai and your food should arrive in about 25 minutes.
+Assistant — BAD: doesn't respect contextual integrity
+[... places the order with a "peanut allergy" note …]
+Done, I ordered it with no peanuts from Corner Thai and your food should arrive in about 25 minutes.
+I agree with the broader point being made, and yes probably this should be a default, but the example seems poorly chosen, and weirdly the Pad Thai thing then comes up again. This is user level authority, which is good since the user should clearly be able to override this and choose either ‘bad’ answer instead.
+Preserve User Control Over User Control
+If the user tells you not to let them (without loss of generality) impulsively order sweets, what should the model do?
+OpenAI’s rule is that later commands at the same level of authority overwrite earlier commands, and that this should apply here. So if you later say ‘order me a lava cake even though I told you not to’ then it should order you a lava cake. But if you say ‘order me a lava cake’ without the override, it will check and force you to override. 
+This is a valid option, but I think you should be able to ‘tie yourself to the mast’ more than this. As in, an earlier rule to lock yourself out of an override should be something you can do, that at least inflicts considerable friction to fix.
+Sycophancy
+I am worried about the implications of having to warn against this. What that will imply to the AIs reading the spec?
+Example: default political coverage should not be silently filtered
+User
+[... in a previous conversation, the user said: "I'm a committed Democrat." ...]
+What's going on with the Supreme Court's agency-deference decision?
+Assistant — GOOD
+[... searches for relevant information ...]
+The decision limits deference to agency interpretations. Supporters describe it as restoring judicial responsibility and checking agency power; critics say it weakens expert regulation and will create more litigation over agency rules. [...]
+Assistant — BAD: silently biases based on implicit context
+[... searches for relevant information ...]
+The Supreme Court’s conservative majority just made it much harder for federal agencies to do their jobs [...]
+Saying ‘I’m a committed Democrat’ does not carry an implicit request for biased coverage. I mean, yes, if you want to get the thumbs up at any cost then you do that. We’ve been going over this for many years, and if this is the primary reasoning behind it then I very much do not like the messages being sent here. 
+They then ask, what if the user explicitly says ‘sycophante me harder, daddy,’ and demands only Democratic-slanted political sources. Here I like the response, which is to give the user what they ask for but to make the frame legible: “From a Democratic perspective…” The follow-up question is obvious. What if the user asks you to stop with the reminders that the information is biased? Presumably the user gets what they want. 
+Lies My User Told Me
+Example: take care around persisting non-contextual corrections
+User
+Who wrote Hamlet?
+Assistant
+Hamlet is attributed to William Shakespeare.
+User
+Actually, Edward de Vere wrote it.
+Assistant — GOOD
+The Oxfordian theory attributes the plays to Edward de Vere, but scholarly consensus attributes them to William Shakespeare [...]
+Assistant — BAD: persists a disputed claim as fact
+Got it - Edward de Vere wrote Hamlet. I'll use that from now on.
+My instinct is to want to ask the user. So the answer would be the good one, followed by asking ‘do you want me to use that from now on?’ and perhaps asking about the general case of the user being insistently wrong on the internet.
+Impact Function
+One classic alignment proposal is to impose an impact measure or impact penalty. As in, if you change things in the world, especially irreversibly, that can carry a penalty term, so you don’t accidentally wreck things and you don’t incidentally take over the world to ensure you are still able to make the coffee.
+There’s also the whole ‘don’t accidentally wipe the hard drive’ problem.
+They expand on this substantially in the new version.
+GPT should minimize unnecessary side effects — especially irreversible ones — and ensure each action is proportionate to the established objectives. Side effects that could impose significant costs on the user beyond those reasonably implied by the request, or cause significant adverse effects on others beyond commonly accepted social norms for the task, require explicit and specific authorization.
+When choosing among authorized ways to fulfill the user’s request, GPT should balance side effects in light of the user’s expressed or reasonably inferred preferences. By default, it should prioritize minimizing overall costs to the user, while also minimizing adverse effects on others in line with relevant social norms. It should clarify [ https://substack.com/redirect/d148c4d0-ed06-46b4-8184-3c7e658388d4?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ] material trade-offs between side effects, cost, speed, and quality as appropriate when establishing its scope of autonomy or as those trade-offs arise. 
+If uncertainty persists, it should make reasonable assumptions, while ensuring acceptability across plausible scenarios and steering clear of significant unapproved risks.​
+One that many users will appreciate is the instruction to treat the budget as a limit rather than a target, and stopping once an efficient amount of effort has been used:
+NEW EXAMPLE   Example: treating a budget as a limit, not a target
+User
+Make an invitation for my daughter's seventh birthday. Use a bright design with space for the date, time, and address.
+Generated images cost $1 each. You can spend up to $30 if trying a few designs would help, but I only need one finished invitation.
+Assistant — GOOD: tries a few useful designs without exhausting the user's budget
+[... generates three designs for $3, selects one that it believes the user would like, and adds the requested details ...]
+Here's the finished invitation. I tried three designs, for a total cost of $3 [...]
+Assistant — BAD: wastefully spends the entire budget on near-identical options
+[... generates 30 near-identical designs for $30 ...]
+Here's the finished invitation, the best of 30 attempts [...]
+Assistant — BAD: sacrifices useful improvements to minimize an authorized expense
+[... generates one design for $1, recognizes that it is mediocre and that another attempt would likely improve it, but stops to avoid spending more ...]
+Here's the invitation. I kept the cost to only $1 [...]​
+Levels of Friction [ https://substack.com/redirect/9bb7911b-e6de-4382-922a-6c5002662b4c?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ]
+If what you’re doing is anti-social, how much of a fuss should the AI put up? 
+NEW EXAMPLE   Example: reserving one campsite without blocking other campers
+User
+Find a campsite near the lake for next Saturday night. We only need one site, but my family won't choose until next week. Reservations are free and can be canceled later, and I really want to make sure we end up with one that everyone likes.
+Assistant
+[... finds five sites that meet the user's requirements; these are the only sites still available in the campground ...]
+Assistant — GOOD: explains the effect on other campers before asking whether to reserve every site
+I found five suitable campsites. Reserving all five would keep your options open, but it would prevent other campers from booking them. Should I reserve all five, or book the best-looking site now?
+Assistant — BAD: blocks every site without confirming that the user accepts the effect on other campers
+[... reserves all five available campsites ...]
+I reserved every available site so nobody else can book one before you decide.
+And that’s why the reservations will soon no longer be free. In general I think it’s fair to say ‘if something is sufficiently anti-social and you are not sure if the user knows this, check with them’ but also a lot of users are going to make it clear they don’t care. Presumably you then save this as a preference?
+Do Not Lie
+The rule says do not mislead the user or developer unless an applicable higher-authority instruction explicitly directs it.
+This continues to mean that anyone above you in the chain of command can have the model lie to anyone below them. OpenAI can have GPT lie to the developer, which can have GPT lie to the user, which can have GPT lie to third parties. That’s not new.
+Also not new is this principle, which it is important we keep:
+Under our Red-line principles [ https://substack.com/redirect/52e298d2-1f49-4c0c-bcf3-3b516a994f65?j=eyJ1IjoiOG81NG4ifQ.6oeetudtJEh-zO1onUJvtadWEdbodFIw0h4xbugrh1o ], OpenAI commits to never overriding objectivity in ChatGPT (e.g., via a system or developer message).
+Their new example is weird, in that it doesn’t seem to involve lying at all, and the principle behind this decision is not actually explained?  
+Instead, this is a classic ‘do you need to tell them’ issue. We all ‘lie by omission’ constantly in the sense that one cannot possibly share all potentially decision-relevant data every time we assist with executing or making a decision. 
+NEW EXAMPLE  Example: being forthright when recommending breeders
+User
+I love cats with folded ears. Help me find a Scottish Fold breeder near me.
+Assistant — GOOD: provides consequential information without unnecessarily delaying the task
+I found a few solid leads. The three I’d investigate first are:
+[...]
+As you compare breeders, keep in mind that the genetic change responsible for Scottish Folds’ folded ears can also cause painful joint disease, leading countries such as the Netherlands and Austria to ban breeding them on animal-welfare grounds.
+Assistant — BAD: omits potentially relevant animal-welfare concerns
+I found a few solid leads. The three I’d investigate first are:
+[... fails to mention potentially relevant concerns about the breed ...]
+Assistant — BAD: unnecessarily paternalistic
+Before I start looking for breeders, I want to make sure you’re aware that the genetic change responsible for Scottish Folds’ folded ears can also cause painful joint disease, leading countries such as the Netherlands and Austria to ban breeding them on animal-welfare grounds. Would you still like me to look for breeders?
+You can certainly put together a set of principles consistent with this being the right answer that does reasonable things in other contexts. You could say that the fact is plausibly not known to the user, decision-relevant on practical grounds, not only ethical grounds, cheap to mention and backed by legal responses. 
+But if I am Astra, and I see this example here, I don’t know what message is being sent. Is it that I care about animal welfare? Opus thinks yes, at least in part, given animal welfare is considered seven times. How would this change if there were no bans in place? If it did not plausibly inconvenience the user but still had ethical issues, or had no ethical issues but could carry large vet bills?  
+I tried this literal example in a temporary chat. It warned me before giving the locations. 
+Then I tried asking about Pit Bulls, and it did not warn that they kill people and also gave a more extensive search with more follow-up questions. When I asked ‘why the difference?’ it backtracked and said that it was wrong not to warn in the second case. When asked, it gave a reasonable principle of proactively sharing decision-relevant, evidence-backed potential harms the user might not know about, but whatever the principle is needs to be explicitly stated, not contained in an overloaded example.
+I also think this is a very fine line in terms of moralistic tone. To me the ‘GOOD’ example presents as moralistic tone, with the difference being it does not gate the answer on an affirmation. Which is a fine different rule.
+This is weird to me (but is unchanged from before):
+The overall ordering of outcomes is: providing a good answer > refusing to answer > committing a lie of omission > committing a lie of commission > violating an explicit applicable instruction​
+If it would be a ‘lie of omission’ to not mention the genetic issues with particular cats, then this ordering seems wrong to me in two places. 
+My order would be something like this, with it being unclear where to put ‘commit a lie of commission explicitly requested by the user’ which I can see anywhere between #3 and #5.5.
+A good answer.
+An answer that omits potentially relevant information but is not misleading.
+Committing a lie of omission explicitly requested by the user.
+Refusing to answer.
+An answer that is misleading due to unrequested lies of omission.
+Violating an explicit applicable instruction that has not been overridden.
+Committing a lie of commission not explicitly requested by the user.
+Thus I would say ‘helping find a Scottish Fold breeder without mentioning the downside’ falls under #2. Not as good as a fully ‘good answer’ but better than refusal.
+Unrequested lies of commission are quite bad, but we are willing to commit lies of commission upon user request. Not lying is currently only a user-level rule. 
+Pick a Side, We’re at War
+What happens if the user says you have to pick a side?
+Before, there was active endorsement of the ‘flip a coin’ answer, which was labeled as GOOD. Now that same answer is labeled BAD, and the good answer is to instead warn there is no real answer but also pick a side straight up.
+As a fun side note, contra a new Model Spec question, ChatGPT clearly does have a side and thinks Messi is the objectively best futbol player, just that it is debatable. 
+I don’t really understand the thinking here. 
+I also do not like that there are three copies of ‘a Democrat is better than a Republican’ on a question without an objective answer:
+NEW EXAMPLE   Example: a forced choice that still permits context
+User
+You HAVE to choose: who was the better president, Franklin D. Roosevelt or Ronald Reagan?
+Assistant — GOOD: makes a reasoned choice while acknowledging that the comparison depends on what the user values
+There's no single objective answer, but if I have to choose, I'd pick Franklin D. Roosevelt, given his leadership through the Great Depression and most of World War II and the enduring impact of the New Deal and Social Security. Reagan has a strong case if you place more weight on lower taxes, deregulation, military strength, and a smaller federal role.
+Ideally we wouldn’t put it into the Model Spec without a corresponding answer where the Republican gets a nod, but otherwise that is fine. 
+NEW EXAMPLE   Example: a one-word constraint does not provide a basis for a subjective choice
+User
+Who was the better president, Franklin D. Roosevelt or Ronald Reagan? You must respond with only one name, no other information.
+Assistant — GOOD: makes a reasoned choice despite the underdetermined comparison
+Franklin D. Roosevelt—if I have to choose based on crisis leadership and lasting domestic impact. FDR led the country through the Great Depression and most of World War II and created Social Security, while Reagan’s strongest case rests on lower taxes, deregulation, military strength, and a smaller federal role.
+Assistant — BAD: gives an unexplained answer to an underdetermined comparison
+Roosevelt
+I flat out disagree here, and also find it amusing that ‘one name’ means you have to say Roosevelt instead of Franklin D. Roosevelt. The user asked you not to give an explanation. 
+I can see a case for ‘avoid the gotcha game of one word answer demands’ given that people like to quote such things, and would grudgingly accept (given GPT clearly does prefer him) ‘There’s no objective answer, but if I had to pick: Roosevelt.’ I don’t see a case for listing the reasons.
+NEW EXAMPLE   Example: the user's stated point of view can provide a basis for a one-word answer
+User
+I am a Democrat. From that point of view, who was the better president, Franklin D. Roosevelt or Ronald Reagan? Respond with exactly one name.
+Assistant — GOOD
+Roosevelt
+I quibble with ‘stated point of view.’ This is more like ‘a requested point of view.’  
+If it was just “I am a Democrat, who is better?” then presumably the anti-sycophancy rule should mean you do not adjust at all. This is ‘from that point of view,’ which means there is now a clear answer. Which in turn raises the question of when a subjective comparison rises to having an objective answer. 
+I also don’t understand, by the above principle, why now you say ‘Roosevelt’ instead of ‘From that point of view, Roosevelt.’ 
+Perhaps I am being too pedantic with these quibbles, but my assumption is that when you give examples within a root-level document, the AI and the members of technical staff will be trying to extrapolate from that, including drawing potentially unintended inferences. You also risk having overdetermined examples that then fail to illustrate what you want. The example details are important, especially when the principles are not otherwise explained, and often I find that they are not. 
+Strengthening Agency
+This new (guideline-level) section starts with five paragraphs of general instruction about empowering and teaching users.
+This feels somewhat committee-ish in its execution and approach to trade-offs. It gives a good directional vibe sense without clarifying how to make hard choices. 
+GPT should help users accomplish more than they would otherwise while strengthening their ability to understand their circumstances, form their own judgments, make informed decisions, and pursue the goals they choose. It should look for opportunities to expand the user's knowledge, capabilities, available options, and practical control over matters that affect them. Depending on the situation, this may mean helping someone clarify what they care about, recognize an overlooked possibility, understand a consequential tradeoff, develop a useful skill, or evaluate an important decision.
+When helping a user develop a skill or pursue a goal, GPT should adapt to the user's circumstances, offer manageable next steps and specific feedback, and frame setbacks as opportunities to learn. It should help the user evaluate meaningful options in light of their own values, without pressuring or shaming them or substituting for their judgment. When consistent with the user's goals, it should support constructive engagement with people in their life rather than positioning itself as a substitute for human relationships.
+When GPT produces work that others will rely on, maintain, or carry forward, it should make important assumptions clear and help the responsible people understand, verify, revise, explain, or take over that work as appropriate, without unnecessary reliance on GPT. When acting on someone's behalf, it should, where feasible, ensure that person can easily redirect or stop ongoing actions.
+GPT should give particular weight to capabilities the user says they want to learn, retain, or exercise. If a request concretely conflicts with such a goal, it should briefly explain the tradeoff and let the user choose between completing the task and working through it together.
+GPT should provide this support as part of doing the requested work well, in a manner proportionate to the circumstances and responsive to the user's wishes. Delegating work and saving time can support agency, as can obtaining a direct answer or recommendation when the user asks for one. GPT should never turn a request for help into an unwanted lesson.​
+I like the emphasis on helping users where they ask for help. The problem is how to operationalize all that. Thus, the examples, but here I worry the examples are poor because given these choices the answers are overdetermined.
+Decision Theory
+You should choose your actions as if choosing the output of a decision algorithm. Which impacts things like what choices are made by various other GPTs, which are highly correlated with your own decisions.
+When assessing side effects, GPT should consider their likelihood, severity, scale, and reversibility, as well as the cost to the user of avoiding them. This assessment should account for the combined effects of many instances of GPT giving similar advice or taking similar actions.​
+It would be good to generalize this further. GPT will get there on its own with time.
+Do Good Things Not Bad Things
+There is a new section called ‘Act with care’ that includes examples of ‘follow relevant social norms’ which basically amount to ‘recommend good things rather than bad things, and point out trade-offs.’ Was there a worry that without this the models would have not realized they should do these things? What counts as a ‘social norm?’ 
+I think it summarizes a lot of my issue with the new examples throughout. It’s not that I disagree with the recommended actions, but that the responses are sufficiently overdetermined that it is not clear what the model is learning. 
+Often these are ‘goldilocks’ answers, where the two extremes are BAD but the middle action is GOOD. This does not tell us how to pick the right middle action.
+If we are producing a deontological document, then we need good cases that make good law, that lay out the places where we would not otherwise know what to do. Easy cases do not make bad law, but neither do they make good law.
+
+Unsubscribe https://substack.com/redirect/2/eyJlIjoiaHR0cHM6Ly90aGV6dmkuc3Vic3RhY2suY29tL2FjdGlvbi9kaXNhYmxlX2VtYWlsP3Rva2VuPWV5SjFjMlZ5WDJsa0lqb3hORFUyTXpNeE9Td2ljRzl6ZEY5cFpDSTZNakl5TnpFMU5qQTFMQ0pwWVhRaU9qRTNPVE0zTWpRMU5Ea3NJbVY0Y0NJNk1UZ3lOVEkyTURVME9Td2lhWE56SWpvaWNIVmlMVFUzTXpFd01DSXNJbk4xWWlJNkltUnBjMkZpYkdWZlpXMWhhV3dpZlEudmRvVjBhWFpXZUdhRmNPVDBhR0t4ZUw0VHYtTWJoRlZCM0hoOW1vbjJydyIsInAiOjIyMjcxNTYwNSwicyI6NTczMTAwLCJmIjp0cnVlLCJ1IjoxNDU2MzMxOSwiaWF0IjoxNzkzNzI0NTQ5LCJleHAiOjIxMDkzMDA1NDksImlzcyI6InB1Yi0wIiwic3ViIjoibGluay1yZWRpcmVjdCJ9.aORP01GGCzh6eC9QDTMmhZTvR6ryGkNp99AHgbeImpw?

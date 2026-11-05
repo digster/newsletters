@@ -1,0 +1,111 @@
+---
+id: "1a0f192afdff9814"
+subject: "The Middle Path to Happiness"
+from: "\"Sahil Bloom's Curiosity Chronicle\" <sahil@sahilbloom.com>"
+to: ""
+date: 2026-09-30 09:06:04
+labels: ["CATEGORY_PERSONAL", "IMPORTANT", "INBOX", "Sahil Bloom", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "IMPORTANT", "INBOX", "Label_1989028747625928812", "UNREAD"]
+---
+The Middle Path to Happiness
+watch on [YouTube](https://a01c829f.click.convertkit-mail4.com/92u2qnnow6hnh68e4rzt9hz0gw2g5hwhgvoxg/e0hph7h7d4p25zu8h2/aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g_dj1UVUxaNG5Edl9GMA==) or read and listen on [sahilbloom.com](https://a01c829f.click.convertkit-mail4.com/92u2qnnow6hnh68e4rzt9hz0gw2g5hwhgvoxg/x0hph6he43rlkza5hl/aHR0cHM6Ly93d3cuc2FoaWxibG9vbS5jb20vbmV3c2xldHRlci90aGUtbWlkZGxlLXBhdGgtdG8taGFwcGluZXNz)
+read time 8 minutes
+Welcome to The Curiosity Chronicle, a newsletter where I provide actionable ideas to help you build a high-performing, healthy, wealthy life.
+Forwarded this email? Join 800,000+ other readers [here](https://a01c829f.click.convertkit-mail4.com/92u2qnnow6hnh68e4rzt9hz0gw2g5hwhgvoxg/3ohphkh3kzonxzbrhn/aHR0cHM6Ly93d3cuc2FoaWxibG9vbS5jb20vbmV3c2xldHRlcg==).
+|
+This [all-natural product](https://a01c829f.click.convertkit-mail4.com/92u2qnnow6hnh68e4rzt9hz0gw2g5hwhgvoxg/wnh2hghqlg53mnf7hx/aHR0cHM6Ly9zaG9wLmlubmVyYm9keS5jb20vcGFnZXMvc2FoaWw=) has me feeling 20 again!
+I'm not afraid to admit that I felt a dip when I hit 30. Less energy. Slower recovery from workouts. Lack of focus. I refuse to do anything unnatural, so I started researching natural ingredients to support testosterone.
+[Innerbody Labs Testosterone Support](https://a01c829f.click.convertkit-mail4.com/92u2qnnow6hnh68e4rzt9hz0gw2g5hwhgvoxg/wnh2hghqlg53mnf7hx/aHR0cHM6Ly9zaG9wLmlubmVyYm9keS5jb20vcGFnZXMvc2FoaWw=) was the best product I found. It's now a 2+ year staple in my routine. An all-natural formulation backed by peer-reviewed science with clinically-informed dosages of nine simple ingredients. I've been so impressed that I asked the CEO to let me invest.
+[Innerbody](https://a01c829f.click.convertkit-mail4.com/92u2qnnow6hnh68e4rzt9hz0gw2g5hwhgvoxg/wnh2hghqlg53mnf7hx/aHR0cHM6Ly9zaG9wLmlubmVyYm9keS5jb20vcGFnZXMvc2FoaWw=) already offers subscription discounts of up to 40%, and for a limited time, you can get an extra 10% off with today's partner with code SAHIL10.
+|
+The Middle Path to Happiness
+In the 3rd century BCE, a ruler named King Pyrrhus rose to power in Epirus, a mountainous region in the northwest part of modern-day Greece.
+King Pyrrhus was one of the most feared military commanders of the era, having led a variety of successful campaigns across the region.
+As he prepared for an aggressive military campaign in Italy, a trusted advisor named Cineas asked him a simple question that led to a historically memorable exchange:
+“Having conquered Italy, what will we do next?” Cineas asked.
+“After Italy, then we will conquer Sicily," Pyrrhus replied.
+“And then what?” asked Cineas.
+“Then Libya and Carthage are within reach," said the king.
+“And then what?” Cineas pressed.
+Smiling, King Pyrrhus replied, “Then we will live a life of ease. Drink all day and have pleasant conversation with our friends."
+Cineas paused and spoke:
+“But what's stopping us from doing that today?”
+The story, captured by Plutarch in his [Life of Pyrrhus](https://a01c829f.click.convertkit-mail4.com/92u2qnnow6hnh68e4rzt9hz0gw2g5hwhgvoxg/dpheh0he254md2amh4/aHR0cHM6Ly9jbGFzc2ljcy5taXQuZWR1L1BsdXRhcmNoL3B5cnJodXMuaHRtbA==), is one of the oldest documented cases of a common psychological phenomenon:
+The Arrival Fallacy.
+The term was first coined by Harvard lecturer Dr. Tal Ben-Shahar in 2006 in his groundbreaking course on positive psychology.
+In [The 5 Types of Wealth](https://a01c829f.click.convertkit-mail4.com/92u2qnnow6hnh68e4rzt9hz0gw2g5hwhgvoxg/e0hph7h7d4p2mza8h2/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9UeXBlcy1XZWFsdGgtVHJhbnNmb3JtYXRpdmUtR3VpZGUtRGVzaWduL2RwLzA1OTM3MjMxOFg=), I built upon the idea in what has become one of the most highlighted passages in the book:
+"The arrival fallacy is the false assumption that reaching some achievement or goal will create durable feelings of satisfaction and contentment in our lives. We incorrectly assume that we will finally experience the sensation of having arrived when we reach whatever we have propped up as our destination."
+King Pyrrhus presents a chain of conquering campaigns as the means to his eventual arrival.
+They would conquer Italy. Then Sicily. Then Libya and Carthage.
+Then, and only then, could they reach the idyllic end. To live at ease, drink all day, and engage in pleasant conversation.
+But Cineas shatters this illusion.
+There was nothing stopping them from living that way today.
+How often do we fall victim to this same illusion in our own lives?
+From the earliest days of adulthood, we're indoctrinated into a belief that the blissful life we seek is on the other side of some thing. Some achievement. Some conquest. Some title. Some figure.
+The specific items are individual, but the logic never varies:
+When I get [X], then I'll be happy. Then I'll be fulfilled. Then I'll enjoy myself. Then I'll be content.
+- When I get that promotion...
+- When I find the perfect partner...
+- When I make my first million...
+- When I sell my company...
+We slowly accept the premise that our happiness and fulfillment are conditional on these things.
+That there's some magical recipe to achieve that end state and we're just missing the final ingredients to get there. That if we simply add those missing components, we'll have what we want.
+And let's be honest, we've all done it. Myself included. I think and write about these things for a living and still find myself falling into the trap.
+It's very real and very human. The goal isn't to never fall into it, but to notice it when you do.
+Just as with King Pyrrhus, you create a chain of conquests from where you are to where you want to end up.
+I just need to make partner. And then what? Then I'll make a ton of money. And then what? Then I'll get the bigger house. And then what? Then I'll slow down and spend more time with my family and friends.
+But instead of blindly accepting the logic, when you notice it at work, play the role of Cineas in your own internal dialogue:
+What's stopping you from doing that today?
+What if the ingredients of your own happiness and fulfillment are already present, waiting to be noticed and seized upon? What if they were never really missing?
+It's a beautiful notion. One that resonates deeply. But here's what I struggle with:
+Life is rarely so black and white.
+It's true that most of what you need is right in front of you.
+Sometimes the only thing stopping you from living the fulfilled life you envision is the illusion you've created that you don't deserve it yet.
+Cineas wasn't wrong about this.
+But at the same time, the answer can't just be to stop everything. To halt your ambitions. To shut off your pursuits. To be perfectly content where you are, with what you have in front of you.
+Sometimes conquering Carthage is...good.
+Your Carthage could be that financial milestone that unlocks lower levels of stress or new experiences with people you love.
+Your Carthage could be the growth and mastery that brings joy as you get better at the games you're choosing to play.
+Your Carthage could be the focused sprint that teaches your kids a critical lesson that working hard on things you care about is a key principle for life.
+My point here, I suppose, is that the common interpretation of the story about King Pyrrhus and Cineas, or any similar story, is flawed.
+The common interpretation says Pyrrhus wrong, Cineas right.
+But I think it's more nuanced than that...
+Maybe they're both right, and wrong, in their own way.
+Ambition isn't the mortal enemy. And presence isn't the perfect hero.
+The two can coexist in the beautiful, imperfect dance that is your life. Sometimes skewing one way, sometimes the other, but both always there. Always close.
+So, this is how I've come to wrestle with it in my own life:
+I choose the middle path. I reject the black and white. I reject the or and embrace the and. Presence and ambition. Ambition and presence. The chase, the pursuit, the growth. And the pause, the space, the joy.
+Maybe the two aren't in tension. At least not really.
+Maybe they're just two parts of your life harmony. Different individually, seemingly at extreme odds, but coming together to create something beautiful.
+You can conquer your Carthage if you want to. Just don't make the wine wait for it.
+On May 9, 1998, author Kurt Vonnegut delivered the commencement speech at Rice University.
+There's one excerpt in that speech that I'll never forget. An ode to his Uncle Alex:
+A Harvard graduate, Alex Vonnegut was locally useful in Indianapolis as an honest insurance agent. He was also well-read and wise. One thing which Uncle Alex found objectionable about human beings was that they seldom took time out to notice when they were happy.
+He himself did his best to acknowledge it when times were sweet. We could be drinking lemonade in the shade of an apple tree in the summertime, and he would interrupt the conversation to say:
+"If this isn't nice, what is?"
+It's perfectly ok to go after the things you care about. To chase your grand vision for the future. To create and build. To stretch beyond your current competencies. To live your life at full power.
+But never let the quest for more distract you from the beauty of now.
+The good life isn't waiting at the finish line. At the arrival. Because it was never there anyway.
+It's here. Right in front of you. In this moment.
+So, chase your Carthage. And along the way, when you find yourself in the shade of the apple tree, take a moment to notice. To say it out loud.
+If this isn't nice, what is?
+(or share to [LinkedIn](https://a01c829f.click.convertkit-mail4.com/92u2qnnow6hnh68e4rzt9hz0gw2g5hwhgvoxg/9qhzhnhde9ql0zt9h3/aHR0cHM6Ly93d3cubGlua2VkaW4uY29tL3NoYXJlQXJ0aWNsZT9taW5pPXRydWUmdXJsPWh0dHBzJTNBJTJGJTJGd3d3LnNhaGlsYmxvb20uY29tJTJGbmV3c2xldHRlciUyRnRoZS1taWRkbGUtcGF0aC10by1oYXBwaW5lc3M=) or [Facebook](https://a01c829f.click.convertkit-mail4.com/92u2qnnow6hnh68e4rzt9hz0gw2g5hwhgvoxg/n2hohvhvlr8kmet6hg/aHR0cHM6Ly93d3cuZmFjZWJvb2suY29tL3NoYXJlci9zaGFyZXIucGhwP3U9aHR0cHMlM0ElMkYlMkZ3d3cuc2FoaWxibG9vbS5jb20lMkZuZXdzbGV0dGVyJTJGdGhlLW1pZGRsZS1wYXRoLXRvLWhhcHBpbmVzcw==))
+Order My First Book to Unlock Exclusive Bonuses:
+The 5 Types of Wealth is the compass for your journey to a life of wealth that goes far beyond money. It provides the actionable tools to define, measure, and design your life around the pillars that truly create lasting happiness and fulfillment.
+It will help you find your True North and build your life around it.
+Order now and you'll unlock several new, exclusive bonuses:
+- Access to my Most Powerful Life Hacks Ebook: 50 timeless insights for simplifying your world and living well.
+- Access to The 5 Types of Wealth Digital Community: Join a vibrant group of like-minded individuals committed to creating a life of comprehensive wealth. Connect, collaborate, and grow together.
+- Access to The 5 Types of Wealth Launch Workshop: Get exclusive access to the full recording of this transformative virtual workshop, where I’ll guide you through specific exercises designed to help you apply the principles of the book. Watch it anytime at your convenience!
+Sahil's Recommendation Zone
+|
+My all-in-one morning insurance policy since 2011: [AG1 Pro](https://a01c829f.click.convertkit-mail4.com/92u2qnnow6hnh68e4rzt9hz0gw2g5hwhgvoxg/dpheh0he254mv2tmh4/aHR0cHM6Ly9kcmlua2FnMS5jb20vc2FoaWw=)!
+I started taking the original [AG1](https://a01c829f.click.convertkit-mail4.com/92u2qnnow6hnh68e4rzt9hz0gw2g5hwhgvoxg/dpheh0he254mv2tmh4/aHR0cHM6Ly9kcmlua2FnMS5jb20vc2FoaWw=) religiously way before anyone knew about it. I was one of their first customers as a college athlete in 2011. I took it consistently for over 10 years before asking the CEO for a link to share with family and friends.
+The brand new [AG1 Pro](https://a01c829f.click.convertkit-mail4.com/92u2qnnow6hnh68e4rzt9hz0gw2g5hwhgvoxg/z2hghnhemw4864bph0/aHR0cDovL2RyaW5rYWcxLmNvbS9zYWhpbA==) is built on the clinically backed AG1 Next Gen formula and adds 5g of Creavitalis creatine monohydrate, Ca-HMB, and zinc carnosine, targeted support for muscle strength and recovery, metabolic resilience, and advanced gut health.
+Now I don’t need to combine five different supplements to get my full morning stack. It’s all in one scoop.
+If you’ve been thinking about elevating your health routine, now is the time. For a limited time only, head to my link, [drinkag1.com/sahil](https://a01c829f.click.convertkit-mail4.com/92u2qnnow6hnh68e4rzt9hz0gw2g5hwhgvoxg/z2hghnhemw4864bph0/aHR0cDovL2RyaW5rYWcxLmNvbS9zYWhpbA==), and get a FREE Immune Support Bundle including Omega-3 Fish Oil and Vitamin D3+K2, with your first subscription of AG1 Next Gen or AG1 Pro
+|
+Sahil Bloom
+|
+|
+|

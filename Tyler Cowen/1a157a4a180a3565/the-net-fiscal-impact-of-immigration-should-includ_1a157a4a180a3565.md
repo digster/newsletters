@@ -1,0 +1,12 @@
+---
+id: "1a157a4a180a3565"
+subject: "The net fiscal impact of immigration should include gains from trade"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2026-10-20 04:49:28
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+Immigration affects natives through both labor markets and public budgets, yet these channels are usually studied separately. We combine them in a general-equilibrium model with search-and-matching frictions, skill-specific progressive labor taxes, capital taxation and public goods, calibrated to 17 OECD countries over 2015-2019. The welfare effect on natives of a one-percentage-point increase in immigrant inflows varies in sign and size across countries, hinging on immigrants' skill mix, immigrant-native wage gaps, resident unemployment, and tax progressivity. For inflows matching the skill composition of 2019-2024 arrivals, native welfare rises in 14 of 17 economies, and in most cases both skill groups gain, through different channels. Lower-skilled natives gain mainly from higher pre-tax earnings, driven by job creation and complementarity with skilled immigrants; higher-skilled natives gain mainly from lower labor-tax burdens. Evaluating immigration policy thus requires modeling labor-market and fiscal channels jointly: either channel alone gives an incomplete picture of who gains and why.
+That is from [a new NBER working paper](https://marginalrevolution.com?action=user_content_redirect&uuid=3d1f93f78688b2318c0a723b2b72bc6051496301302f755a366987e5423aabe2&blog_id=42693868&post_id=94022&user_id=262258391&subs_id=225460721&signature=36d0b273da447c57dc99db6a520c6ac5&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly93d3cubmJlci5vcmcvcGFwZXJzL3czNTkwMSNmcm9tcnNz&email_id=88be5d4d8f8d010b3d27a57e1e108f00) by
+As a side note, I do not accept the authors' claim that the immigrants are equally productive yet underpaid, and thus the native economy benefits from capturing that surplus. The better mechanism is simply that immigrants boost market size, and (especially for the United States) that brings some gains from increasing returns to scale, more innovation, making the country a talent magnet, and so on. The point holds that the gains from trade effect can be small, and it still will overwhelm what otherwise appear to be net fiscal costs.

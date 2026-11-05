@@ -1,0 +1,110 @@
+---
+id: "1a1a6df73165509d"
+subject: "5 Words That Changed My Life"
+from: "\"Sahil Bloom's Curiosity Chronicle\" <sahil@sahilbloom.com>"
+to: ""
+date: 2026-11-04 14:03:43
+labels: ["CATEGORY_PERSONAL", "INBOX", "Sahil Bloom", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_1989028747625928812", "UNREAD"]
+---
+When In Doubt, Zoom Out
+watch on [YouTube](https://a01c829f.click.convertkit-mail4.com/k0uv7dd8rna6heg68neulhoorewwkc8hno0ln/7qh7h8h9e75qezizh6/aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g_dj1DM25SOTRraW0xOA==) or read and listen on [sahilbloom.com](https://a01c829f.click.convertkit-mail4.com/k0uv7dd8rna6heg68neulhoorewwkc8hno0ln/owhkhqhwevdpe5avhr/aHR0cHM6Ly93d3cuc2FoaWxibG9vbS5jb20vbmV3c2xldHRlci93aGVuLWluLWRvdWJ0LXpvb20tb3V0)
+read time 9 minutes
+Welcome to The Curiosity Chronicle, a newsletter where I provide actionable ideas to help you build a high-performing, healthy, wealthy life.
+Forwarded this email? Join 800,000+ other readers [here](https://a01c829f.click.convertkit-mail4.com/k0uv7dd8rna6heg68neulhoorewwkc8hno0ln/z2hghnhezvxnz5fph0/aHR0cHM6Ly93d3cuc2FoaWxibG9vbS5jb20vbmV3c2xldHRlcg==).
+|
+Everyone needs this [privacy protection tool](https://a01c829f.click.convertkit-mail4.com/k0uv7dd8rna6heg68neulhoorewwkc8hno0ln/p8heh9h4e0omemaqh3/aHR0cHM6Ly9qb2luZGVsZXRlbWUuY29tL1NhaGlsYmxvb20=) in the AI era:
+The scariest thing about the AI era is knowing your personal data is being sold for training and targeting every single day. Cleaning it up manually is basically impossible. It’s whack-a-mole. You can’t keep up.
+[DeleteMe](https://a01c829f.click.convertkit-mail4.com/k0uv7dd8rna6heg68neulhoorewwkc8hno0ln/p8heh9h4e0omemaqh3/aHR0cHM6Ly9qb2luZGVsZXRlbWUuY29tL1NhaGlsYmxvb20=) was the only solution that treated my family’s privacy like a structured system. I tell everyone I know to sign up because everyone should be using this service.
+And I believe in it so much that I convinced the CEO to let me invest. Curiosity Chronicle readers can try today's partner, DeleteMe, with 20% off using my code SAHILBLOOM.
+|
+When In Doubt, Zoom Out
+A few days ago, I made a terrible mistake.
+I did something I almost never do. On a typical morning, I do three hours of focused writing before I touch my phone. But that day, I woke up, grabbed my phone, and started scrolling X while I was making my coffee.
+In the span of about two minutes, my brain got hit with the following:
+- Doomsday preparation lists for the “inevitable” electrical grid failures and cyberattacks.
+- Predictions of a coming nuclear war with Iran.
+- Video and audio from a horrific private plane crash.
+- Warnings that drones will end safe commercial air travel forever.
+- Forecasts that AI will destroy all white collar work in 18 months.
+I felt my jaw clench. My chest tightened. Before I had even taken my first sip of coffee or sat down at my desk, I was in fight-or-flight mode.
+And I don’t think I’m alone in that right now. It’s easy to feel that we’re living in the most uncertain time in history.
+But that feeling isn’t new. Not really.
+Almost 2,000 years ago, the ancient Roman writer Pliny the Elder famously wrote, “The only certainty is that nothing is certain.”
+Every generation has felt this.
+The uncertainty itself is ancient. But its grip on our lives is new.
+Because the way that uncertainty reaches us today is fundamentally different from how it reached Pliny and his peers.
+If a war broke out on the edge of the empire, an average citizen might have heard about it a few weeks later (if at all).
+You hear about every crisis on earth, whether you like it or not, before your first sip of morning coffee.
+You are plugged into a 24/7 uncertainty machine. An IV drip straight into your veins. Social media algorithms, news, commentary. All of it designed to keep you in its clutches. In a perpetual state of fear, paranoia, and stress.
+It’s not out of some sense of malice or negative intent, either. It’s just the business model.
+Negativity “sells” in every sense of the word. A [2023 study](https://a01c829f.click.convertkit-mail4.com/k0uv7dd8rna6heg68neulhoorewwkc8hno0ln/x0hph6hem60om2c5hl/aHR0cHM6Ly9wdWJtZWQubmNiaS5ubG0ubmloLmdvdi8zNjkyODc4MC8=) found that each additional negative word in a headline increased click-through rate (a key monetization metric) by 2.3%.
+The late investor Charlie Munger once said, “Show me the incentive and I will show you the outcome.”
+In that vein, it’s not surprising that the world feels more uncertain than ever before. You can follow the money straight into your brainwaves.
+The truth is you can’t stop the machine. You can turn it down. You can do things to reduce its negative effects on your life (like choosing not to grab your phone and scroll social media first thing in the morning!), but you can’t make the world feel certain.
+So the goal isn’t to avoid or eliminate uncertainty, as much as to outlast it.
+I believe that 99% of success is just the ability to outlast the uncertainty. The one who can tolerate the most uncertainty will eventually win.
+But how?
+For me, it’s a single mantra that I keep coming back to:
+When in doubt, zoom out.
+Everything about the way you live your life is zoomed in. You’re Player 1 in your own life video game. You’re on the ground, in the weeds, living every moment. You feel everything. Fully and completely.
+The problem is that this zoomed in frame isn’t always supportive of what you’re trying to achieve.
+To outlast, to stay in the game, you have to be able to see the bigger picture.
+How many moments of extreme stress have felt laughable with the benefit of hindsight? The challenge that felt huge in the days becomes small in the weeks, months, or years. Chaos that seems interminable melts away.
+When in doubt, zoom out.
+Yes, the world is a pretty crazy place. New technologies threaten to disrupt the status quo. AI replacing jobs and creating new ones. Geopolitical tension rising as poles of power shift. Systems and structures that created stability fracturing in real time.
+And yet, by most observable metrics, there has never been a better time to be alive.
+My friend George Mack recently [wrote about this](https://a01c829f.click.convertkit-mail4.com/k0uv7dd8rna6heg68neulhoorewwkc8hno0ln/6qheh8hl4gez4etohk/aHR0cHM6Ly9lc3NheXMuaGlnaGFnZW5jeS5jb20vcC90aGUtbW9zdC1wb3dlcmZ1bC1pZGVhLWl2ZS1mb3VuZA==):
+”The most powerful man in the world and ruler of Rome, Emperor Augustus, slept on a sack of straw…Genghis Khan and Julius Caesar never experienced a hot shower….In 1881, as President Garfield lay dying, engineers had to gather over half a million pounds of ice and blow air over the ice in an attempt to keep the president’s room cool.”
+200 years ago, over 4 in 10 children died before their 5th birthday.
+Just 100 years ago, if you were injured in World War I, a simple infection might have killed you. Often the only options were amputation or cutting away the infected tissue.
+Because Penicillin didn’t exist yet.
+The access to (and abundance of) general life-improving things, such as medicine, travel, air conditioning, and hot water is something we take for granted today that our ancestors would have been blown away by.
+So for all of our complaints about the challenges of the present, of which there are no doubt many, we are still living in the best time to be alive.
+As George puts it, we are “dancing on the graves of dead problems that dead people thought could never die.”
+When in doubt, zoom out.
+Last Friday, the stock market took a tumble. Everything was in the red. Financial news was filled with doom about an AI bubble. My X feed was a steady stream of market fear.
+And, to be fair, the day did look pretty bad…
+Then I clicked YTD. Then 5Y. Then 10Y.
+The “market collapse” barely registered as a blip. The chaotic notes of the days fade away in the sweet harmony of the years.
+When in doubt, zoom out.
+And those same distortions that skew the way you see the world will try to skew the way you see yourself.
+On your journey, it’s easy to get caught up in the days. The fluctuations. The non-linearity of progress. The valley of stagnation. The darkness of lonely periods where nothing seems to work.
+You’re doing everything you’re supposed to. You’re showing up with a good attitude. You’re putting energy into the work. You’re doing the thing.
+But nothing is working. No progress. None you can see or feel. You’re not getting that raise. You’re not being given the new opportunities. Nobody seems to notice the inputs. You can’t feel yourself getting smarter or better.
+That new business you’re working on. It’s going nowhere. You got a bunch of rejections from potential clients. You aren‘t feeling the rewards. You’re pushing, but nothing is happening. It’s a failure.
+Or so you think…
+What if you looked back 12 months? What skills did you have then? How did you view the world? How clear was your vision? What have you endured since?
+Sometimes, the growth is quiet. Sometimes impossible to see.
+But when you cringe at your prior self, you realize: you have changed. You have grown. It was all happening. You were just too close to it to see it.
+It’s like those markings on a door that measure your height as a kid. You don’t notice the changes in the days, but you look at the markings and can’t believe how much you’ve grown.
+When in doubt, zoom out.
+Everything in life benefits from perspective.
+The struggle feels smaller. That hard conversation in your relationship. That injury setback. That business miss. That mistake.
+The growth feels bigger. That progress toward your goals. That skill that’s building. That internal change that’s happening. That transformation. That reinvention.
+The uncertainty of the days is real. Everything around you wants to draw you into it. Every algorithm, every feed, every moment. They pull at your energy.
+It’s the Siren’s Song of the modern world we live in.
+Odysseus couldn't silence the Sirens on his journey home. So he had his crew physically tie him to the mast.
+You can't silence the noise either. But you can anchor yourself to something.
+Hold that mantra close, and you'll outlast the uncertainty and find a way to win.
+Because the days are noisy, but the months, years, and decades are not.
+When in doubt, zoom out.
+(or share to [LinkedIn](https://a01c829f.click.convertkit-mail4.com/k0uv7dd8rna6heg68neulhoorewwkc8hno0ln/25h2hoh3xzw6xka3h4/aHR0cHM6Ly93d3cubGlua2VkaW4uY29tL3NoYXJlQXJ0aWNsZT9taW5pPXRydWUmdXJsPWh0dHBzJTNBJTJGJTJGd3d3LnNhaGlsYmxvb20uY29tJTJGbmV3c2xldHRlciUyRndoZW4taW4tZG91YnQtem9vbS1vdXQ=) or [Facebook](https://a01c829f.click.convertkit-mail4.com/k0uv7dd8rna6heg68neulhoorewwkc8hno0ln/qvh8h7hd35pz3kilhk/aHR0cHM6Ly93d3cuZmFjZWJvb2suY29tL3NoYXJlci9zaGFyZXIucGhwP3U9aHR0cHMlM0ElMkYlMkZ3d3cuc2FoaWxibG9vbS5jb20lMkZuZXdzbGV0dGVyJTJGd2hlbi1pbi1kb3VidC16b29tLW91dA==))
+Order My First Book to Unlock Exclusive Bonuses:
+The 5 Types of Wealth is the compass for your journey to a life of wealth that goes far beyond money. It provides the actionable tools to define, measure, and design your life around the pillars that truly create lasting happiness and fulfillment.
+It will help you find your True North and build your life around it.
+Order now and you'll unlock the following exclusive bonuses:
+- Access to my Most Powerful Life Hacks Ebook: 50 timeless insights for simplifying your world and living well.
+- Access to The 5 Types of Wealth Launch Workshop: Get exclusive access to the full recording of this transformative virtual workshop, where I’ll guide you through specific exercises designed to help you apply the principles of the book. Watch it anytime at your convenience!
+Sahil's Recommendation Zone
+|
+My all-in-one morning insurance policy since 2011: [AG1 Pro](https://a01c829f.click.convertkit-mail4.com/k0uv7dd8rna6heg68neulhoorewwkc8hno0ln/3ohphkh38lg08wirhn/aHR0cHM6Ly9kcmlua2FnMS5jb20vc2FoaWw=)
+I started taking the original [AG1](https://a01c829f.click.convertkit-mail4.com/k0uv7dd8rna6heg68neulhoorewwkc8hno0ln/3ohphkh38lg08wirhn/aHR0cHM6Ly9kcmlua2FnMS5jb20vc2FoaWw=) religiously way before anyone knew about it. I was one of their first customers as a college athlete in 2011. I took it consistently for over 10 years before asking the CEO for a link to share with family and friends.
+The brand new [AG1 Pro](https://a01c829f.click.convertkit-mail4.com/k0uv7dd8rna6heg68neulhoorewwkc8hno0ln/n2hohvhv4p0mdwi6hg/aHR0cDovL2RyaW5rYWcxLmNvbS9zYWhpbA==) is built on the clinically backed AG1 Next Gen formula and adds 5g of Creavitalis creatine monohydrate, Ca-HMB, and zinc carnosine, targeted support for muscle strength and recovery, metabolic resilience, and advanced gut health.
+Now I don’t need to combine five different supplements to get my full morning stack. It’s all in one scoop.
+If you’ve been thinking about elevating your health routine, now is the time. For a limited time only, head to my link, [drinkag1.com/sahil](https://a01c829f.click.convertkit-mail4.com/k0uv7dd8rna6heg68neulhoorewwkc8hno0ln/n2hohvhv4p0mdwi6hg/aHR0cDovL2RyaW5rYWcxLmNvbS9zYWhpbA==), and get a FREE Immune Support Bundle including Omega-3 Fish Oil and Vitamin D3+K2, with your first subscription of AG1 Next Gen or AG1 Pro
+|
+Sahil Bloom
+|
+|
+|

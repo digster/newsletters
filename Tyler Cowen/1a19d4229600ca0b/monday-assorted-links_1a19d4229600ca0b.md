@@ -1,0 +1,14 @@
+---
+id: "1a19d4229600ca0b"
+subject: "Monday assorted links"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2026-11-02 17:15:19
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699"]
+---
+1. [Why is it now so common to be asked about your food allergies?](https://marginalrevolution.com?action=user_content_redirect&uuid=214b98a84de80dbdc2702954d8325d19db5f5965e3c44406d417fe8b562c63fe&blog_id=42693868&post_id=94104&user_id=262258391&subs_id=225460721&signature=63a33b3029d89c69a49439e8ab094810&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly9jaGF0Z3B0LmNvbS9zaGFyZS82YWUyOTI2MC0wN2VjLTgzZWEtYWY2My05MThlMTM5YTBiYzc&email_id=76333803d7d9b4edde809a3859e2afe5) (GPT Pro answer)
+2. [Training for alignment, applies principal-agent theory](https://marginalrevolution.com?action=user_content_redirect&uuid=e2cd251ee80096eddf41207ca9e75a7f8684c9e8646f689e92842d9f16254c6e&blog_id=42693868&post_id=94104&user_id=262258391&subs_id=225460721&signature=0f3546bd32a67c5aafde59987cc71714&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly9lY29ub21pY3MubWl0LmVkdS9zaXRlcy9kZWZhdWx0L2ZpbGVzL2lubGluZS1maWxlcy9BbGlnbm1lbnQlMjBPY3RvYmVyJTIwMjAyNi5wZGY&email_id=76333803d7d9b4edde809a3859e2afe5).
+3. [Do people offload empathy when they think AI can give it instead?](https://marginalrevolution.com?action=user_content_redirect&uuid=a2e0c06bc3f51a465252ccb5c04d8a0535a9bb8a1837e8b6341d3de43e4fb684&blog_id=42693868&post_id=94104&user_id=262258391&subs_id=225460721&signature=80a41179f99d6eeba0951c4b667bdce8&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly93d3cuc2NpZW5jZWRpcmVjdC5jb20vc2NpZW5jZS9hcnRpY2xlL3BpaS9TMDc0NzU2MzIyNjAwMzM3Nw=&email_id=76333803d7d9b4edde809a3859e2afe5)
+4. [The Wallace line](https://marginalrevolution.com?action=user_content_redirect&uuid=585023de3dfaa48a3b7d922360ae8181402dcbc2f7202f3bc9cb8ff774a59ca8&blog_id=42693868&post_id=94104&user_id=262258391&subs_id=225460721&signature=e9182e94ac2d5500331170b8bb47d14b&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly94LmNvbS90aGVpYWluY2FtZXJvbi9zdGF0dXMvMjExNTY5OTY1NTU2ODk2NTk4MA=&email_id=76333803d7d9b4edde809a3859e2afe5).
+5. [AI can draw blueprints now](https://marginalrevolution.com?action=user_content_redirect&uuid=2c4ee42a140319e1bf65569d371dfebc9b2bdeb74f1ab6ed9e2c6dd87f411eef&blog_id=42693868&post_id=94104&user_id=262258391&subs_id=225460721&signature=47669559d270165adcdd6555a7acb886&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly9zdGVwaGVuamdhbGxhZ2hlci5zdWJzdGFjay5jb20vcC9haS1jYW4tZHJhdy1ibHVlcHJpbnRzLW5vdw=&email_id=76333803d7d9b4edde809a3859e2afe5).

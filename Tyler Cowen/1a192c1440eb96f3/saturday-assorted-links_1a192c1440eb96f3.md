@@ -1,0 +1,12 @@
+---
+id: "1a192c1440eb96f3"
+subject: "Saturday assorted links"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2026-10-31 16:18:21
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699"]
+---
+2. [World Bank African urbanization report](https://marginalrevolution.com?action=user_content_redirect&uuid=c6049d7e6abe0fa636e64b723055c3f1ce0bbe5baa77de6d060498def105092b&blog_id=42693868&post_id=94110&user_id=262258391&subs_id=225460721&signature=f19fb5772a24c0efbe0c8645ec0666b2&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly94LmNvbS9rdXJ0aXNsb2NraGFydC9zdGF0dXMvMjExNjE4MDI3OTUzNDc2MDM3MD9zPTIw&email_id=30b6fabf8158b5ea3fd3a686a0dcca4d). Building out African cities in a decent way could end up being the task of our coming era.
+3. [Summary of The Commanding Heights](https://marginalrevolution.com?action=user_content_redirect&uuid=ca3a82d38ce4f130fd469b7b9a9dc775b835944acfdd13261f8438bb0259767c&blog_id=42693868&post_id=94110&user_id=262258391&subs_id=225460721&signature=f35e61c038b9040b68f964016f1ca2bc&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly94LmNvbS9zeXRheWxvci9zdGF0dXMvMjExNjE1NTM2ODY2OTY5NjQ4NQ=&email_id=30b6fabf8158b5ea3fd3a686a0dcca4d).
+6. [One account of what is going on in Poland](https://marginalrevolution.com?action=user_content_redirect&uuid=67c10015ee478f8e47a0850a017c48454bdf42a486c5d201b910afe9e73201b6&blog_id=42693868&post_id=94110&user_id=262258391&subs_id=225460721&signature=c29ffdd98761a94a851f0dae015ff749&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly94LmNvbS9TYWxhZGluQWxEcm9ubmkvc3RhdHVzLzIxMTYyODc2MzQ4MjU2OTU3MDg&email_id=30b6fabf8158b5ea3fd3a686a0dcca4d). I am not endorsing that (or any other) interpretation, but if nothing else it shows you how interpretation of these events can make your head spin. [Grok has a simpler answer](https://marginalrevolution.com?action=user_content_redirect&uuid=37b95e8020720cf105e7f435cd04b70e2a149cfb9401fb183a89e3d4e7c263e2&blog_id=42693868&post_id=94110&user_id=262258391&subs_id=225460721&signature=10dd5352e52b7aa3877e8417de024c59&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly94LmNvbS9NaWNoYWVsQUFyb3VldC9zdGF0dXMvMjExNjI4OTIxMTEyNTE2NjQxMg=&email_id=30b6fabf8158b5ea3fd3a686a0dcca4d), again not endorsing.

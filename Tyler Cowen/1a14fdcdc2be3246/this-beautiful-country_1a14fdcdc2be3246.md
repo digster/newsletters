@@ -1,0 +1,12 @@
+---
+id: "1a14fdcdc2be3246"
+subject: "*This Beautiful Country*"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2026-10-18 16:33:56
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699"]
+---
+The author is Edward Cutler and the subtitle is [How Italy's Nature Shaped its Culture and Civilisation](https://marginalrevolution.com?action=user_content_redirect&uuid=c70e42d0790e36e61802d166fffbc262aa0b388159892bafd33cc8b3cfb2e53f&blog_id=42693868&post_id=94018&user_id=262258391&subs_id=225460721&signature=42a680e0623de2e5630a6f9c2bbef45c&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9UaGlzLUJlYXV0aWZ1bC1Db3VudHJ5LUN1bHR1cmUtQ2l2aWxpc2F0aW9uL2RwLzE5MTUyOTQ3NjIvcmVmPXNyXzFfMT9jcmlkPTNHT0tXTjg4SjYwM0kmZGliPWV5SjJJam9pTVNKOS5nMGhYdUFhaFltS1VSMjJyQXd2OS0zOEswanhoNjhiQlc5M1BoeFFMNnR3LjgxVzZyVTg4Sl9tUGtiZklZM0NnRDhQLVNyMEN3Y0tjT0pEUjlGMFpnTVkmZGliX3RhZz1zZSZrZXl3b3Jkcz1Ib3crSXRhbHklMjdzK05hdHVyZStTaGFwZWQraXRzK0N1bHR1cmUrYW5kK0NpdmlsaXNhdGlvbiZuc2RPcHRPdXRQYXJhbT10cnVlJnFpZD0xNzkyMjg3MTk0JnNwcmVmaXg9aG93K2l0YWx5JTI3cytuYXR1cmUrc2hhcGVkK2l0cytjdWx0dXJlK2FuZCtjaXZpbGlzYXRpb24lMkNhcHMlMkMxMzAmc3I9OC0x&email_id=202e23568edca87a6e934a002bb14ee5). This is an excellent book on how "the Italy you know" has been shaped by its natural environment, such as its mountains, rivers, geology, and so on. Ever wondered why Sardinia is different? The book is good at sticking to specifics. Excerpt:
+This extraordinary overlap has made Italy the continent's botanical crossroads and one of its greatest arboreal sanctuaries. Within Europe, few countries host such a variety of native trees: at least 140 species, more than almost anywhere west of the Balkans. Some, like the Sicilian fir, Lobel's maple and the Etna birch, are totally unique. The structure of Italy's forests is equally diverse -- dense, high-altitude canopies, open oak pastures, cork scrub and coastal maquis, each shaped by centuries of disturbance and renewal. This is the legacy of a land that sreved first as Europe's refuge during the Ice Ages and later as its great corridor of return, where northern, eastern and African floras met and mingled in perpetual exchange.
+Recommended to all those with an interest in Italy.

@@ -1,0 +1,10 @@
+---
+id: "1a11ffd0d7e4fb9a"
+subject: "Vibe Astronomy: discovering exoplanets!"
+from: "Inverted Passion Community <invertedpassion@substack.com>"
+to: ""
+date: 2026-10-09 09:27:14
+labels: ["CATEGORY_PERSONAL", "IMPORTANT", "INBOX", "Paras Chopra", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "IMPORTANT", "INBOX", "Label_6668903435596043419", "UNREAD"]
+---
+I may have found two new Earth-sized planets in our galaxy this morning! Inspired by yesterday’s reddit thread on how someone used Claude Code to find a new planet, I spent this morning searching NASA TESS data on nearby stars that TESS scanned less thoroughly (at low cadence). To my surprise the pipeline discovered two previously undocumented exoplanet candidates: • TIC 370612437 (Cygnus constellation, 158 light-years): dims by 0.02% every 3.56 days → ~1.0× Earth’s size. • HIP 114417 (Andromeda constellation, 134 ly): 0.03% every 4.93 days → ~1.1× Earth. The method to find them is to search for periodic dims in light coming from a star when a planet passes in front of it. For both the candidate exoplanets, the dip repeats 55 and 21 times respectively across 4 separate observing years (2019-2024). These are obviously tentative and unconfirmed, but several signals point to them being credible candidates: • same dip in NASA’s and MIT’s separate processing of the images • hide one year’s dip and predict its times from rest of the dips (matched in 3 of 4 years) • flip light curves to create fake signals and validate observed dips against it The method and results were reviewed by independent agents: Codex and fresh Claude. Important caveat: a faint neighbouring pair of eclipsing stars could fake the dip, so these exoplanets remain candidates pending further verification. What’s next: report to NASA’s ExoFOP as Community TESS Objects of Interest, so astronomers can verify. The next scan of these stars via TESS will happen in Aug 2027 - Apr 2028, if the preregistered dip predictions hold up, these are indeed strong candidates. Nicknames for these exoplanets: Aakanksha (Sanskrit: aspiration) and Orbit (well, Orbit) |

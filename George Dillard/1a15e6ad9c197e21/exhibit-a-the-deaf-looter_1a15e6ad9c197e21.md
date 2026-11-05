@@ -1,0 +1,11 @@
+---
+id: "1a15e6ad9c197e21"
+subject: "Exhibit A: The “Deaf Looter”"
+from: "George Dillard <worldhistory@substack.com>"
+to: ""
+date: 2026-10-21 12:11:12
+labels: ["CATEGORY_PERSONAL", "George Dillard", "INBOX"]
+label_ids: ["CATEGORY_PERSONAL", "Label_8626544264601150563", "INBOX"]
+---
+Since I spend a lot of time in the late 1800s and early 1900s for this blog, I run across a lot of stereographs. The stereoscope was based on an idea that a British scientist named Charles Wheatstone had in 1838. He realized that if you put two pictures of the same thing in front of each eye, and each of those pictures had a slightly different perspective, the human brain would create a kind of 3-D effect. Later inventors took this idea and developed handheld devices through which people could look at stereo photographs and experience something a little closer to real life. The stereoscope made it into my childhood as the Viewmaster, through which I spent hours looking at images of space shuttle launches and the adventures of the Muppets. It was, essentially, an early form of virtual reality. People loved stereoscopes around the turn of the century, and many companies sprung up to meet the demand. Companies sold images of natural wonders, faraway locations, and cultural celebrations. It’s easy to understand why people would have enjoyed looking at the Egyptian pyramids or the Eiffel Tower through a stereoscope. But they also seemed to really enjoy looking at horrible things. Some of the earliest stereographs are of Civil War battlefields, and the Library of Congress has a full collection of stereo views of the aftermath of the Galveston hurricane. Why would M. H. Zahner, Publisher, produce a set of stereographs of the terrible suffering that followed the hurricane’s landfall in 1900? Presumably because there was an audience for photos of a city’s devastation. But that’s not the weirdest part of these images. What’s strange is that they seemed to make a joke out of the hurricane... Keep reading with a 7-day free trialSubscribe to Looking Through the Past to keep reading this post and get 7 days of free access to the full post archives. A subscription gets you:
+|

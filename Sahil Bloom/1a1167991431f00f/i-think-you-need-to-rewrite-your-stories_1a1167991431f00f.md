@@ -1,0 +1,101 @@
+---
+id: "1a1167991431f00f"
+subject: "I Think You Need to Rewrite Your Stories"
+from: "\"Sahil Bloom's Curiosity Chronicle\" <sahil@sahilbloom.com>"
+to: ""
+date: 2026-10-07 13:05:49
+labels: ["CATEGORY_PERSONAL", "INBOX", "Sahil Bloom", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_1989028747625928812", "UNREAD"]
+---
+The Stories You Tell Yourself
+watch on [YouTube](https://a01c829f.click.convertkit-mail4.com/75u2k88mw6h8h6gpg6dazhwqkqmp7unh09z20/9qhzhnhdem2nn4u9h3/aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g_dj15NGJybExrSTRiQQ==) or read and listen on [sahilbloom.com](https://a01c829f.click.convertkit-mail4.com/75u2k88mw6h8h6gpg6dazhwqkqmp7unh09z20/3ohphkh3kldvv0crhn/aHR0cHM6Ly93d3cuc2FoaWxibG9vbS5jb20vbmV3c2xldHRlci90aGUtc3Rvcmllcy15b3UtdGVsbC15b3Vyc2VsZg==)
+read time 7 minutes
+Welcome to The Curiosity Chronicle, a newsletter where I provide actionable ideas to help you build a high-performing, healthy, wealthy life.
+Forwarded this email? Join 800,000+ other readers [here](https://a01c829f.click.convertkit-mail4.com/75u2k88mw6h8h6gpg6dazhwqkqmp7unh09z20/48hvhehm7e2kk8hxh7/aHR0cHM6Ly93d3cuc2FoaWxibG9vbS5jb20vbmV3c2xldHRlcg==).
+|
+Protect Your [Personal Data](https://a01c829f.click.convertkit-mail4.com/75u2k88mw6h8h6gpg6dazhwqkqmp7unh09z20/wnh2hghqlpo88pb7hx/aHR0cHM6Ly9qb2luZGVsZXRlbWUuY29tL1NhaGlsYmxvb20=) From AI & Algorithms:
+The scariest thing about the AI era is that your most personal data is being sold for training and targeting every single day. And cleaning this up manually is basically impossible (without spending six figures per year on a full time security team).
+[DeleteMe](https://a01c829f.click.convertkit-mail4.com/75u2k88mw6h8h6gpg6dazhwqkqmp7unh09z20/wnh2hghqlpo88pb7hx/aHR0cHM6Ly9qb2luZGVsZXRlbWUuY29tL1NhaGlsYmxvb20=) was the only solution that treated privacy like a 24/7 system. I got my whole family to sign up because everyone should be using this service. And I believe in it so much that I convinced the CEO to let me invest.
+Curiosity Chronicle readers can try today's partner, DeleteMe, with 20% off using my code SAHILBLOOM.
+|
+The Stories You Tell Yourself
+When I was 13 years old, a single story changed the course of my life.
+But to understand it, I need to take you back in time to a strange experiment from decades ago…
+A neuroscientist named Michael Gazzaniga was studying patients who had their corpus callosum (the nerve fiber bundle connecting the two brain hemispheres) surgically severed to treat severe epilepsy.
+The brain’s two hemispheres have distinct functions:
+- The left hemisphere controls the right side of the body. It also controls language and speech.
+- The right hemisphere controls the left side of the body. It specializes in visual recognition, but it can’t talk.
+In one famous experiment, a patient was shown two different images at the same time:
+- A chicken claw was flashed to the right visual field (which is processed by the left hemisphere).
+- A snowy scene was flashed to the left visual field (which is processed by the right hemisphere).
+The patient was then asked to point to the matching pictures on the table.
+- The right hand (controlled by the left hemisphere) pointed to the chicken.
+- The left hand (controlled by the right hemisphere) pointed to a snow shovel.
+When Gazzaniga then asked the patient why he had pointed to the snow shovel, he should have been stumped. The left hemisphere, the one doing the talking, had never actually seen the snowy scene; only the right hemisphere had.
+Instead, the patient answered without hesitation. “Oh the chicken claw goes with the chicken and you need a shovel to clean out the chicken shed.”
+He wasn’t lying. He really believed it.
+Gazzaniga hypothesized that the left hemisphere has a specialized system he called The Interpreter, whose responsibility is to find clear cause and effect.
+This Interpreter isn’t exclusive to those with surgically severed brain hemispheres. You have one, too.
+Its job is simple:
+To make sense of things. To take scattered, seemingly random data and facts about the world in front of you and stitch them into a coherent story that feels true.
+In his bestselling book, The Black Swan, author Nassim Taleb gave this a name:
+The Narrative Fallacy.
+It describes our tendency to seek out patterns and stories in what we experience, even when the events are random or unconnected.
+We’d rather have a story that’s wrong than no story at all.
+Which brings us back to my 13-year-old self and the story that changed the course of my life.
+I grew up in a household with an Indian mother and a Harvard professor father. So you can probably imagine, academic pressure was hitting me from both sides of that equation.
+I had an older sister who was extremely high-achieving academically. She was always doing the things that my family considered the markers of success.
+From my naive perspective, they came easily to her. It looked effortless.
+Every year, on the first day of school, I’d walk into my classes and hear an excited “Oh, you’re Sonali’s brother?!” from the teachers, only to leave them disappointed by the second week when my focus seemed more tuned to the playground and friends than the books.
+The Interpreter within me began telling a story:
+I wasn’t very smart.
+My sister was the smart one. I had to be something else. Maybe the athletic one. The social one. But definitely not the smart one.
+And then, confirmation bias kicked in. The story determined what “counted” as evidence. Every average grade was proof. Every good result was a fluke.
+But the most damning part of it began when my story started to create its own evidence. I avoided taking the more challenging classes. I stopped studying for fear of trying my best and still missing the mark.
+The story itself constrained my world.
+My parents, for their part, did their best to convince me otherwise. I’m sure they saw the same intellectual gifts in me as in my sister, but the story had a powerful hold.
+So unfortunately, their efforts fell mostly flat. It would take until I was almost 30, when I found my flow with my writing, to confront my intellectual insecurities, appreciate my own unique capabilities, and truly come into my own.
+I’m 35 now, and the more people I meet, the more I realize just how universal this experience really is.
+Everyone is carrying a story like this. A story that made perfect sense and was never true. A snow shovel for cleaning out the chicken shed.
+So, what are the stories you’ve been telling yourself?
+The stories about who you are. Your identity. What you’re capable of. And what you’re not. That you’re not an entrepreneur. That you’re more of a follower than a leader. That you don’t deserve good things.
+The stories about what happened. The causes of the events. The reasons they occurred. That short email reply from your boss. The friend who left you on read. The opportunity that fell through the cracks.
+Consider what these stories have been taking away from your life.
+If you tell yourself you aren’t capable, you’ll never try. If you tell yourself you aren’t worthy, you won’t push. If you tell yourself they’re out to get you, you’ll feed your own frustration.
+You never start the new thing. You don’t talk to the person. You’re thrown by a minor inconvenience. You turn away from the open door.
+What if those stories were never even true? What if they were a perfectly logical illusion of the Interpreter running in your brain?
+And here’s the empowering truth:
+You wrote the stories. Which means you can rewrite them.
+This is the set of questions that helped me do just that:
+- What is the story I’m telling myself?
+- Why do I believe the story to be true? What tangible evidence exists in support of the story?
+- If I were told the story was false, what evidence would exist in support of that?
+- Have I been giving appropriate weight to this counter-evidence?
+- How would I live and behave differently if the opposite story were true?
+If you sit with those five questions, you’ll slowly start to rewrite more accurate versions of the stories that govern your life.
+I think about all of this constantly now as a father.
+My son is 4. His Interpreter is just getting started. It’s taking the scattered facts he observes from the world around him and slowly stitching together a narrative that makes sense. It’s forming a first draft of who he thinks he is and what he thinks he’s capable of.
+I can’t write the story for him. I know that.
+But I can be deliberate in how I help him see and evaluate the material in front of him.
+And I can show him, through my own life, that a story can be questioned and rewritten whenever you decide.
+The most important story in life is the one you tell yourself. Make sure it’s true.
+(or share to [LinkedIn](https://a01c829f.click.convertkit-mail4.com/75u2k88mw6h8h6gpg6dazhwqkqmp7unh09z20/08hwh9h2p57qq3slh5/aHR0cHM6Ly93d3cubGlua2VkaW4uY29tL3NoYXJlQXJ0aWNsZT9taW5pPXRydWUmdXJsPWh0dHBzJTNBJTJGJTJGd3d3LnNhaGlsYmxvb20uY29tJTJGbmV3c2xldHRlciUyRnRoZS1zdG9yaWVzLXlvdS10ZWxsLXlvdXJzZWxm) or [Facebook](https://a01c829f.click.convertkit-mail4.com/75u2k88mw6h8h6gpg6dazhwqkqmp7unh09z20/8ghqhoho7v5kkrikh9/aHR0cHM6Ly93d3cuZmFjZWJvb2suY29tL3NoYXJlci9zaGFyZXIucGhwP3U9aHR0cHMlM0ElMkYlMkZ3d3cuc2FoaWxibG9vbS5jb20lMkZuZXdzbGV0dGVyJTJGdGhlLXN0b3JpZXMteW91LXRlbGwteW91cnNlbGY=))
+Order My First Book to Unlock Exclusive Bonuses:
+The 5 Types of Wealth is the compass for your journey to a life of wealth that goes far beyond money. It provides the actionable tools to define, measure, and design your life around the pillars that truly create lasting happiness and fulfillment.
+It will help you find your True North and build your life around it.
+Order now and you'll unlock several new, exclusive bonuses:
+- Access to my Most Powerful Life Hacks Ebook: 50 timeless insights for simplifying your world and living well.
+- Access to The 5 Types of Wealth Digital Community: Join a vibrant group of like-minded individuals committed to creating a life of comprehensive wealth. Connect, collaborate, and grow together.
+- Access to The 5 Types of Wealth Launch Workshop: Get exclusive access to the full recording of this transformative virtual workshop, where I’ll guide you through specific exercises designed to help you apply the principles of the book. Watch it anytime at your convenience!
+Sahil's Recommendation Zone
+|
+My all-in-one morning insurance policy since 2011: [AG1 Pro](https://a01c829f.click.convertkit-mail4.com/75u2k88mw6h8h6gpg6dazhwqkqmp7unh09z20/m2h7h5h3lpnwwrcmhq/aHR0cHM6Ly9kcmlua2FnMS5jb20vc2FoaWw=)
+I started taking the original [AG1](https://a01c829f.click.convertkit-mail4.com/75u2k88mw6h8h6gpg6dazhwqkqmp7unh09z20/m2h7h5h3lpnwwrcmhq/aHR0cHM6Ly9kcmlua2FnMS5jb20vc2FoaWw=) religiously way before anyone knew about it. I was one of their first customers as a college athlete in 2011. I took it consistently for over 10 years before asking the CEO for a link to share with family and friends.
+The brand new [AG1 Pro](https://a01c829f.click.convertkit-mail4.com/75u2k88mw6h8h6gpg6dazhwqkqmp7unh09z20/dpheh0he2g7rdzhmh4/aHR0cDovL2RyaW5rYWcxLmNvbS9zYWhpbA==) is built on the clinically backed AG1 Next Gen formula and adds 5g of Creavitalis creatine monohydrate, Ca-HMB, and zinc carnosine, targeted support for muscle strength and recovery, metabolic resilience, and advanced gut health.
+Now I don’t need to combine five different supplements to get my full morning stack. It’s all in one scoop.
+If you’ve been thinking about elevating your health routine, now is the time. For a limited time only, head to my link, [drinkag1.com/sahil](https://a01c829f.click.convertkit-mail4.com/75u2k88mw6h8h6gpg6dazhwqkqmp7unh09z20/dpheh0he2g7rdzhmh4/aHR0cDovL2RyaW5rYWcxLmNvbS9zYWhpbA==), and get a FREE Immune Support Bundle including Omega-3 Fish Oil and Vitamin D3+K2, with your first subscription of AG1 Next Gen or AG1 Pro
+|
+Sahil Bloom
+|
+|
+|

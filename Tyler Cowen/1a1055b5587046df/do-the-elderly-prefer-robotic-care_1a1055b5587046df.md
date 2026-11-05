@@ -1,0 +1,12 @@
+---
+id: "1a1055b5587046df"
+subject: "Do the elderly prefer robotic care?"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2026-10-04 05:20:33
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+The Japanese elderly, to be clear:
+Population aging and shortages of long-term care workers have increased interest in care-giving robots and information and communication technology (ICT). This paper provides novel large-scale evidence on older individuals’ perceptions of such technologies, drawing on a custom-designed internet survey of 4,314 Japanese individuals aged 55 to 75. Respondents choose between two otherwise identical nursing homes: one in which all care is provided by human caregivers, and one in which robots and ICT are used to provide a substantial share of care in one randomly assigned domain (communication, monitoring, or mobility assistance), while other care remains human-provided. A majority of respondents (65 percent) prefer nursing homes where robots and ICT are used. Acceptance differs substantially across care domains: It is highest for mobility assistance, intermediate for monitoring, and lowest for communication. The average willingness to pay (WTP) for a nursing home where robots and ICT provide a substantial share of care is sizable, at 8 percent above the typical nursing home fee. Prior awareness of caregiving robots is positively associated with both acceptance and WTP, pointing to the potential role of information in shaping older individuals’ preferences. Acceptance and WTP are also strongly associated with sentiments toward robots and ICT expressed in attitude questions, providing support for the internal consistency of survey responses. A back-of-the-envelope calculation offers suggestive evidence that the benefits of introducing robots and ICT can be much larger than the costs, in particular for mobility-aid robots.
+From [a recent paper](https://marginalrevolution.com?action=user_content_redirect&uuid=652b57efc65134552ca722d3db5626cc1684b726abad6ac7d6fddad0f81eea49&blog_id=42693868&post_id=93916&user_id=262258391&subs_id=225460721&signature=62da47872c841c84c9bdd1a79e187976&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xWFRZeWtJUUNoS3h6NWNFbENvZUtKT2phTnlsZ05PTWIvdmlldw=&email_id=2433f13507d09fefa6cd968b02b3395e) by Bertrand Achou, et.al.

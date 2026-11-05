@@ -1,0 +1,11 @@
+---
+id: "1a100a0e1e63bf2c"
+subject: "Words to live by?"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2026-10-03 07:18:25
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699"]
+---
+In the past year American markets have digested the largest-ever initial public offering (SpaceX), equity raise by a public company (Google) or a foreign firm (SK Hynix), private-funding round (OpenAI) and private-debt deal (Broadcom), as well as most of the biggest bond issue in history (Amazon). There was the first $1trn exchange-traded fund, or ETF (Vanguard), a record-breaking cash pile (Berkshire Hathaway) and stock-buyback programme (Nvidia), and the consummation of the largest-ever leveraged buyout (Electronic Arts). Then there are the enormous mergers in railways (Union Pacific and Norfolk Southern), utilities (NextEra and Dominion Energy) and media (Paramount and Warner Bros Discovery)—the last of which led, this week, to the largest ever junk-bond offering, beating a record set only last week (SoftBank). New markets have been created out of thin air (for compute) or become much bigger (for predictions). Worries about massive corporate scandals (First Brands) and hedge-fund blow-ups (Situational Awareness), which would have once occupied investors’ attention for months, are steamrollered by the relentless, totalising and extraordinarily flexible machine that is American finance."
+An excellent passage, [from The Economist](https://marginalrevolution.com?action=user_content_redirect&uuid=eba196d814ea006e7955c359d42a95a4064dd236d812aefedf8b44804856a98d&blog_id=42693868&post_id=93921&user_id=262258391&subs_id=225460721&signature=a7e61eded40887d21e5d3c98604c72e0&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly93d3cuZWNvbm9taXN0LmNvbS9idXNpbmVzcy8yMDI2LzA5LzMwL3RoZS1lcmEtb2Ytc3BlZWRiYWxsLWNhcGl0YWxpc20taGFzLWRhd25lZD91dG1fc291cmNlPWNoYXRncHQuY29t&email_id=4dc294fcb299e2cc09df371348ea8b52).

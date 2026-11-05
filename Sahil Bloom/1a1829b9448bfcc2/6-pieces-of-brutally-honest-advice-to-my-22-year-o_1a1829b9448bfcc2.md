@@ -1,0 +1,124 @@
+---
+id: "1a1829b9448bfcc2"
+subject: "6 Pieces of Brutally Honest Advice to My 22-Year-Old Self"
+from: "\"Sahil Bloom's Curiosity Chronicle\" <sahil@sahilbloom.com>"
+to: ""
+date: 2026-10-28 13:03:16
+labels: ["CATEGORY_PERSONAL", "INBOX", "Sahil Bloom", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_1989028747625928812", "UNREAD"]
+---
+Brutally Honest Advice to My 22-Year-Old Self
+watch on [YouTube](https://a01c829f.click.convertkit-mail4.com/v8u79rre84hrh42vogqtghvv2dre4b9hq963q/m2h7h5h3xemlqmtmhq/aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g_dj1OU3pGWXcyazVfMA==) or read and listen on [sahilbloom.com](https://a01c829f.click.convertkit-mail4.com/v8u79rre84hrh42vogqtghvv2dre4b9hq963q/dpheh0hex582o5cmh4/aHR0cHM6Ly93d3cuc2FoaWxibG9vbS5jb20vbmV3c2xldHRlci9icnV0YWxseS1ob25lc3QtYWR2aWNlLXRvLW15LTIyLXllYXItb2xkLXNlbGY=)
+read time 12 minutes
+Welcome to The Curiosity Chronicle, a newsletter where I provide actionable ideas to help you build a high-performing, healthy, wealthy life.
+Forwarded this email? Join 800,000+ other readers [here](https://a01c829f.click.convertkit-mail4.com/v8u79rre84hrh42vogqtghvv2dre4b9hq963q/e0hph7h7z4qdl5u8h2/aHR0cHM6Ly93d3cuc2FoaWxibG9vbS5jb20vbmV3c2xldHRlcg==).
+|
+This [science-backed natural product](https://a01c829f.click.convertkit-mail4.com/v8u79rre84hrh42vogqtghvv2dre4b9hq963q/7qh7h8h9ezwx6dazh6/aHR0cHM6Ly93d3cuaW5uZXJib2R5bGFicy5jb20vcHJvZHVjdHMvdGVzdG9zdGVyb25lLXN1cHBvcnQ_dXRtX3NvdXJjZT1TYWhpbA==) has me feeling 20 again!
+I'm not afraid to admit that I felt a dip when I hit 30. Less energy. Slower recovery from workouts. Lack of focus. I refuse to do anything unnatural, so I started researching natural ingredients to support testosterone.
+[Innerbody Labs Testosterone Support](https://a01c829f.click.convertkit-mail4.com/v8u79rre84hrh42vogqtghvv2dre4b9hq963q/7qh7h8h9ezwx6dazh6/aHR0cHM6Ly93d3cuaW5uZXJib2R5bGFicy5jb20vcHJvZHVjdHMvdGVzdG9zdGVyb25lLXN1cHBvcnQ_dXRtX3NvdXJjZT1TYWhpbA==) was the best product I found. It's now a 2+ year staple in my routine. An all-natural formulation backed by peer-reviewed science with clinically-informed dosages of nine simple ingredients. I've been so impressed that I asked the CEO to let me invest.
+[Innerbody](https://a01c829f.click.convertkit-mail4.com/v8u79rre84hrh42vogqtghvv2dre4b9hq963q/7qh7h8h9ezwx6dazh6/aHR0cHM6Ly93d3cuaW5uZXJib2R5bGFicy5jb20vcHJvZHVjdHMvdGVzdG9zdGVyb25lLXN1cHBvcnQ_dXRtX3NvdXJjZT1TYWhpbA==) already offers subscription discounts of up to 40%, and for a limited time, you can get an extra 10% off with today's partner with code SAHIL10.
+|
+Brutally Honest Advice to My 22-Year-Old Self
+I'm often asked for advice from people just starting out in life.
+When I respond, I imagine I'm speaking to my 22-year-old self. Young. Energetic. Highly ambitious. But with little direction. Feeling lost.
+There are a handful of things I find myself consistently repeating in these responses, so I thought it would be worthwhile to collect them into a single document.
+But to be clear, in writing (and re-reading it), it's obvious to me that this advice applies to all of us. At any age. On any life path.
+So, strap in and buckle up.
+Here's my brutally honest advice to my 22-year-old self...
+1. Nobody cares about your potential.
+When you're young, you get indoctrinated into a foundational belief that your potential is important.
+Because, up until now, it really was.
+A lot of people cared about your potential. College admissions cared about your potential. If you were an athlete, coaches cared about your potential. Your first hiring manager cared about your potential. Your first investors cared about your potential.
+Well, I'm sorry to be the bearer of bad news, but nobody cares anymore.
+At least not nearly as much as they once did.
+At some point, the world inverts what it wants from you. It realizes that potential is nothing without execution. Potential can't solve problems for your customers, bosses, or colleagues. Potential can't pay the bills for your family. Potential can't put food on the table for those you love.
+At some point, nobody cares about your potential. Just your execution against it.
+So, stop obsessing over your potential. Nobody cares. Just do the thing.
+2. Optimize your life for collisions.
+You're going to be faced with a lot of choices. Where to live. What to study. Where to work. What to work on. Who to work with.
+I spent years trying to develop a unifying approach or framework to answer those questions.
+This is where I've landed:
+Optimize for the quantity and quality of collisions.
+Collisions are the sparks of life. The chance meetings and encounters. The people you run into. The rooms you find yourself in. The meetings you get pulled into. The doors that crack open.
+When you look back on your life, it's always some collision that created the life-changing outcome. It's the person you got into a conversation with at an event that becomes your future business partner. It's the idea that gets planted in your mind from hearing two people speak in the coffee shop. It's the opportunity you get pulled into because you happened to be in the room when it happened.
+Collisions are pro-luck.
+You don't plan for collisions. They just happen. They're a byproduct of the environment you place yourself in. The people you place yourself around. And the output you put out into the world.
+So, really, you're trying to answer one question:
+How can I create the highest collision density in my life?
+If you answer that, the rest will fall into place.
+Note: This is a core theme in my second book on the art and science of luck. Reply YES to this email and I'll add you to the list for the earliest special access tier. I can't wait to share more about it soon!
+3. Everything matters.
+Every now and then, I come across a video or tweet from some online guru that says a version of the following:
+Be strategically incompetent. Don't waste time on tasks you don't want to be good at. Be intentionally bad at them and watch them get reassigned to someone else.
+I think this is the worst early career advice I've come across. It's dangerously bad. Frankly, I think it's bad advice at almost any stage of life.
+Why?
+Because everything matters. Especially early in your professional life.
+You don't get to pick and choose when to show up. The world is going to ignore your best and judge you for your worst. A lot of your good work will go unnoticed. And your bad will get highlighted.
+That's just part of being young. It sucks. It's unfair. But it's real. Everyone deals with it.
+Small things become big things. When you show that you take the small things seriously, that you apply yourself with energy and enthusiasm to the small, you earn people's trust to take on the big.
+A person who seems to give disproportionate effort toward the seemingly unimportant is the one who gets a shot at what truly matters.
+The one who brings energy and enthusiasm every single day will eventually win. Because everything matters.
+4. Do things that wire your brain for agency.
+Understanding neuroplasticity changed my life.
+In simple terms, it's the brain's ability to physically change in structure and function in response to experience and behavior.
+Basically, your brain can physically rewire itself. Adapt, change, develop, and grow. But only in response to action.
+You can quite literally change who you are by acting as the person you want to become.
+The power in that is hard to capture in words. Particularly for a young person (or old person) who's feeling lost or directionless.
+You don't need to plan the perfect path. You just need to start acting like the person you ultimately want to become.
+What does that person do?
+Well, in one word, they operate with real agency.
+The person you want to become has a core, fundamental understanding that they are capable of taking action and creating a desired outcome.
+That's what agency really is: An understanding that life doesn't happen to you. You happen to life.
+So, take action that proves your agency.
+And if you don't know where to start, for the next 30 days, wake up early and work out.
+I regret to inform you that a lot of problems in life are solved by waking up early and working out.
+It's proof that you are capable. It's one simple, challenging action that starts the process of rewiring your brain. It gets the neuroplasticity in motion. It's proof of agency.
+Start there. Watch your brain completely rewire itself accordingly.
+5. Focus on the people, not the plan.
+We spend so much time focusing on the plan. What should I work on? What should I do? What should I be thinking about or learning?
+When the truth is that the people matter more than any plan you'll ever create.
+There is clear scientific evidence that the people you surround yourself with determine your outcomes.
+The Pygmalion Effect is the name of the psychological phenomenon where we rise (or fall) to the level of expectations that people have for us.
+So, if you surround yourself with people who believe you are capable of more. Who encourage you to think bigger. Who tell you to dream. Who push you to lean in. To take the leap. You will rise to the level of those expectations.
+But similarly, if you surround yourself with people who belittle your ambitions. Who make those subtle, snide, underhanded remarks. Who laugh at your dreams. Who tell you to be realistic. You will fall to the level of those expectations.
+What better reason do we need to choose wisely when it comes to your people? They quite literally create your entire future.
+You can underestimate the impact of the people around you. But you'll do so at your own peril.
+Big, positive, optimistic thinking is contagious. Energy is contagious. Enthusiasm is contagious.
+Get in rooms filled with exactly what you want to catch. The plan won't matter anymore.
+6. Do the old fashioned things extremely well.
+Show up on time. Better yet, show up five minutes early. It's a simple sign of respect to people around you. It shows you care.
+Have good manners. Hold the door for people. Look them in the eye. Have a confident handshake. Smile. Say thank you. It sounds silly, but good manners never go out of style. It doesn't matter where you are, people always appreciate them.
+Do what you said you'd do. Reliability is much more important than brilliance. Earn a reputation for being reliable. Say what you're going to do. Show up. Do it. Repeat.
+Stick to something. Stop jumping around from thing to thing. The best things in life come from the magic of compounding. But you have to let it work.
+Bring solutions, not problems. Anyone can call out a problem. Few will show the ability to take the next step to formulate a set of solutions. Even better, get started on one of them and show progress against it.
+Never create drama. That doesn't mean ignoring malicious actions or intentional toxicity that deserves attention. It does mean doing your best to focus on the things you can control.
+Be responsive. Get back to people on things quickly, but thoughtfully. Take a bit of extra time to check your response. Make sure it addresses the question and problem. Quality beats speed. But fast quality beats slow quality.
+Be emotionally consistent and kind. Don't take the people around you on a rollercoaster. Reduce the amplitude of your wave. Be the type of person they can count on.
+And last, but certainly not least, be the type of person who can just figure it out. You're going to be given hundreds of tasks that you have no idea how to complete. There's nothing more valuable than someone who can just figure it out. Do some work. Ask the key questions. Get it done.
+If you do these things, people will quite literally fight over you.
+It just comes down to being easy to work with. Everybody wants to support someone who just makes their life easier.
+My favorite quote is from the ancient poet Rumi:
+"As you start to walk on the way, the way appears."
+No matter where you are on your life path, I'm confident those six pieces of very honest advice will help.
+They aren't fancy, but they just plain work. As long as you work them.
+As long as you start walking the way.
+If you do, I guarantee, the way will appear.
+(or share to [LinkedIn](https://a01c829f.click.convertkit-mail4.com/v8u79rre84hrh42vogqtghvv2dre4b9hq963q/z2hghnhezwpmk6hph0/aHR0cHM6Ly93d3cubGlua2VkaW4uY29tL3NoYXJlQXJ0aWNsZT9taW5pPXRydWUmdXJsPWh0dHBzJTNBJTJGJTJGd3d3LnNhaGlsYmxvb20uY29tJTJGbmV3c2xldHRlciUyRmJydXRhbGx5LWhvbmVzdC1hZHZpY2UtdG8tbXktMjIteWVhci1vbGQtc2VsZg==) or [Facebook](https://a01c829f.click.convertkit-mail4.com/v8u79rre84hrh42vogqtghvv2dre4b9hq963q/p8heh9h4exgp2ocqh3/aHR0cHM6Ly93d3cuZmFjZWJvb2suY29tL3NoYXJlci9zaGFyZXIucGhwP3U9aHR0cHMlM0ElMkYlMkZ3d3cuc2FoaWxibG9vbS5jb20lMkZuZXdzbGV0dGVyJTJGYnJ1dGFsbHktaG9uZXN0LWFkdmljZS10by1teS0yMi15ZWFyLW9sZC1zZWxm))
+Order My First Book to Unlock Exclusive Bonuses:
+The 5 Types of Wealth is the compass for your journey to a life of wealth that goes far beyond money. It provides the actionable tools to define, measure, and design your life around the pillars that truly create lasting happiness and fulfillment.
+It will help you find your True North and build your life around it.
+Order now and you'll unlock the following exclusive bonuses:
+- Access to my Most Powerful Life Hacks Ebook: 50 timeless insights for simplifying your world and living well.
+- Access to The 5 Types of Wealth Launch Workshop: Get exclusive access to the full recording of this transformative virtual workshop, where I’ll guide you through specific exercises designed to help you apply the principles of the book. Watch it anytime at your convenience!
+Sahil's Recommendation Zone
+|
+My all-in-one morning insurance policy since 2011: [AG1 Pro](https://a01c829f.click.convertkit-mail4.com/v8u79rre84hrh42vogqtghvv2dre4b9hq963q/kkhmh6hnpm6o5kulh7/aHR0cHM6Ly9kcmlua2FnMS5jb20vc2FoaWw=)
+I started taking the original [AG1](https://a01c829f.click.convertkit-mail4.com/v8u79rre84hrh42vogqtghvv2dre4b9hq963q/kkhmh6hnpm6o5kulh7/aHR0cHM6Ly9kcmlua2FnMS5jb20vc2FoaWw=) religiously way before anyone knew about it. I was one of their first customers as a college athlete in 2011. I took it consistently for over 10 years before asking the CEO for a link to share with family and friends.
+The brand new [AG1 Pro](https://a01c829f.click.convertkit-mail4.com/v8u79rre84hrh42vogqtghvv2dre4b9hq963q/58hvh7hgw7k4n6u6h4/aHR0cDovL2RyaW5rYWcxLmNvbS9zYWhpbA==) is built on the clinically backed AG1 Next Gen formula and adds 5g of Creavitalis creatine monohydrate, Ca-HMB, and zinc carnosine, targeted support for muscle strength and recovery, metabolic resilience, and advanced gut health.
+Now I don’t need to combine five different supplements to get my full morning stack. It’s all in one scoop.
+If you’ve been thinking about elevating your health routine, now is the time. For a limited time only, head to my link, [drinkag1.com/sahil](https://a01c829f.click.convertkit-mail4.com/v8u79rre84hrh42vogqtghvv2dre4b9hq963q/58hvh7hgw7k4n6u6h4/aHR0cDovL2RyaW5rYWcxLmNvbS9zYWhpbA==), and get a FREE Immune Support Bundle including Omega-3 Fish Oil and Vitamin D3+K2, with your first subscription of AG1 Next Gen or AG1 Pro
+|
+Sahil Bloom
+|
+|
+|

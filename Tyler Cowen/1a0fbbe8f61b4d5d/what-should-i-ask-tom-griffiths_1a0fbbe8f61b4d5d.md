@@ -1,0 +1,15 @@
+---
+id: "1a0fbbe8f61b4d5d"
+subject: "What should I ask Tom Griffiths?"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2026-10-02 08:32:44
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+Yes I will be doing a Conversation with him. Looking at [Wikipedia](https://marginalrevolution.com?action=user_content_redirect&uuid=3b5e7dfbcbd88b1d1da7b56fe63bacbc61f3ef0c3371e16d295834b52ee12056&blog_id=42693868&post_id=93855&user_id=262258391&subs_id=225460721&signature=14f84f8ccd520892a28d919586494759&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvVG9tX0dyaWZmaXRoc18oY29nbml0aXZlX3NjaWVudGlzdCk&email_id=53341951d9f26b09f5f3de5fd0178162):
+Thomas L. Griffiths (born c. 1978) is an Australian academic who is the Henry R. Luce Professor of Information Technology, Consciousness, and Culture at
+[Princeton University]. He studies human decision-making and its connection to problem-solving methods in computation. His book with[Brian Christian],[Algorithms to Live By: The Computer Science of Human Decisions], was named one of the "Best Books of 2016" by[MIT Technology Review]...Griffiths released The Laws of Thought: The Quest for a Mathematical Theory of the Mind in 2026. Siobhan Roberts describes it as "a rigorous and captivating account of how cognition can be modeled via three mathematical frameworks:
+[logic],[artificial neural networks](“mathematical systems that emulate the operation of the brain”) and[probability theory]."
+Here is [his research page](https://marginalrevolution.com?action=user_content_redirect&uuid=90c79bc1a4e9066949f3444f8e72e70d7222b3112b99e423339deae11e396d48&blog_id=42693868&post_id=93855&user_id=262258391&subs_id=225460721&signature=2ec02b27b7b0d4f98dfd70eb4d214ca0&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly9jb2Nvc2NpLnByaW5jZXRvbi5lZHUvdG9tL2luZGV4LnBocA=&email_id=53341951d9f26b09f5f3de5fd0178162), here is [his new book on Amazon](https://marginalrevolution.com?action=user_content_redirect&uuid=49425f1eede7df4c11e892d4998ae09d7b39064db7381541545f0462924b0fe9&blog_id=42693868&post_id=93855&user_id=262258391&subs_id=225460721&signature=acbe0145adae4affe342c5ad5758065b&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9MYXdzLVRob3VnaHQtUXVlc3QtTWF0aGVtYXRpY2FsLVRoZW9yeS9kcC8xMjUwMzU4MzUzL3JlZj1zcl8xXzE/Y3JpZD1INFhXVjRaR0QzVjgmZGliPWV5SjJJam9pTVNKOS5YRHlKT3o5eXZKazVWWWVzdTZZU19FZE94cTFaZXNjcmtIMHAyV1p0aG1LVV83X0VvUkVveHJzMC1rQzVEcXZwQ21NSmxUMV9UUGVFWnRhQ3ltaThGdy53Wkt4RGVDaG1MMGozYnJtYXgxNWVHZ3pzYlNTckh5SWVDc0gwUWV6ZFg0JmRpYl90YWc9c2Uma2V5d29yZHM9dG9tK2dyaWZmaXRocytsYXdzK29mK3Rob3VnaHQmcWlkPTE3OTA4MTg1Nzgmc3ByZWZpeD10b20rZ3JpZmZpdGhzJTJDYXBzJTJDNjE1JnNyPTgtMQ=&email_id=53341951d9f26b09f5f3de5fd0178162), I thought the book was excellent.
+So what should I ask him?

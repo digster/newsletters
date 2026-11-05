@@ -1,0 +1,10 @@
+---
+id: "1a0f2c427414ea9b"
+subject: "He’s Here To End Death - EP 90 Dr. Emil Kendziorra"
+from: "Core Memory  <ashleevance@substack.com>"
+to: ""
+date: 2026-09-30 14:39:57
+labels: ["Ashlee Vance", "CATEGORY_PERSONAL", "INBOX", "UNREAD"]
+label_ids: ["Label_4216359091400734623", "CATEGORY_PERSONAL", "INBOX", "UNREAD"]
+---
+A few years ago, some people put me in a van and drove me to the edge of Moscow. And by “the edge of Moscow,” I mean where things started to get a bit rural. We turned off a road and went toward what looked like a modest farmhouse with a shed. After exiting the van, we entered said shed and found two large metal containers that were full of human bodies and heads along with the bodies of many animals, including dogs, cats, and a hummingbird. Have These bodies were being cryopreserved with liquid nitrogen in the hope that they could be reanimated at some point in the future when science has advanced and more illnesses can be cured. Cryopreservation/reanimation is not a new idea. It’s been contemplated in literature for hundreds of years. Alcor, perhaps the most well-known cryopreservation company, was founded way back in 1972. The field, though, has suffered from questionable science and been seen as a scientific backwater. Our guest this week wants to add scientific, intellectual, and pragmatic rigor to the cryopreservation field. He’s Dr. Emil Kendziorra, the founder and CEO of Tomorrow Bio has a team that will show up at the end of life and prepare someone’s body for cryopreservation and then store their body in a Swiss vault. In this episode, we get into the mechanics behind Tomorrow Bio and the pros and cons of cryopreservation. Kendziorra is a sober, deep thinker on this topic and a great listen. OUR SPONSOR BREX The Core Memory podcast is sponsored We run on Brex and so should you. Learn more about TIMESTAMPS (they link out to YouTube) CHAPTERS Hopefully, you enjoyed this story. If so, please share it and subscribe to Core Memory. We want to do more of this for you and need your help. Thanks! |

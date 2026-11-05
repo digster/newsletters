@@ -1,0 +1,74 @@
+---
+id: "1a0f8382fb6f6bbd"
+subject: "AI is an extension of your creative self 🧭"
+from: "Lawrence Yeo <contact@moretothat.com>"
+to: ""
+date: 2026-10-01 15:02:03
+labels: ["CATEGORY_PERSONAL", "INBOX", "Lawrence Yeo", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_3631958563782906958", "UNREAD"]
+---
+|
+Hey friends,
+I recently announced my new 3-week course, [More To Build](https://b2cc74dc.click.convertkit-mail4.com/p9ux3k4eg3c9h2evl56tqhpmog84ztrhg9zwz/9qhzhnhdenlnmxszu3/aHR0cHM6Ly9tb3JldG9idWlsZC5jb20v), where you'll set up an AI Studio that understands your priorities, knows your voice, and protects your time. The response has been strong: 400 people have joined the waitlist, and many of you have personally reached out indicating interest.
+The dates for the beta cohort have been set for 3 weeks in November (see the schedule [here](https://b2cc74dc.click.convertkit-mail4.com/p9ux3k4eg3c9h2evl56tqhpmog84ztrhg9zwz/reh8hohmonenr0a6u6/aHR0cHM6Ly9tb3JldG9idWlsZC5jb20vI3NjaGVkdWxl)), and the pricing will be the same as my storytelling course (see the enrollment tiers [here](https://b2cc74dc.click.convertkit-mail4.com/p9ux3k4eg3c9h2evl56tqhpmog84ztrhg9zwz/vqh3hrhoq8d87gbwul/aHR0cHM6Ly9tb3JldG9idWlsZC5jb20vI3ByaWNpbmc=)).
+Enrollment opens up next Tuesday, October 6th to those on the waitlist. As a bonus for joining this beta cohort, everyone who enrolls will get free access to the next cohort of More To Build. I plan to iterate on this a lot, so this is my small way of thanking those who joined at the start =).
+Seats for the beta will be limited, and spots will be first-come, first-served. My live cohorts tend to sell out, and based on the response to [More To Build](https://b2cc74dc.click.convertkit-mail4.com/p9ux3k4eg3c9h2evl56tqhpmog84ztrhg9zwz/9qhzhnhdenlnmxszu3/aHR0cHM6Ly9tb3JldG9idWlsZC5jb20v), there's a strong chance this will too.
+In the meantime, I have a new essay I want to share with you, which addresses the following question:
+"How do I use AI without losing myself?"
+It's a great question, and one that I've thought through a lot. So in an attempt to provide a thoughtful answer, I've created the essay below.
+When you're ready, let's dive right in.
+[AI Is an Extension of Your Creative Self](https://b2cc74dc.click.convertkit-mail4.com/p9ux3k4eg3c9h2evl56tqhpmog84ztrhg9zwz/x0hph6he4xlx6qfgul/aHR0cHM6Ly9tb3JldG90aGF0LmNvbS9haS1pcy1hbi1leHRlbnNpb24tb2YteW91ci1jcmVhdGl2ZS1zZWxmLw==)
+*Note: You can read this post on the site [here](https://b2cc74dc.click.convertkit-mail4.com/p9ux3k4eg3c9h2evl56tqhpmog84ztrhg9zwz/x0hph6he4xlx6qfgul/aHR0cHM6Ly9tb3JldG90aGF0LmNvbS9haS1pcy1hbi1leHRlbnNpb24tb2YteW91ci1jcmVhdGl2ZS1zZWxmLw==).
+The psychiatrist Iain McGilchrist is known for his views on the lateralization of the brain. Namely, he argued that the popular way of viewing the left and right hemispheres was fundamentally misguided.
+In school, we’re taught that the left hemisphere is responsible for logic and reason, while the right hemisphere is responsible for creativity and emotion. This makes it seem like the brain is divided according to function, and that specific hemispheres are responsible for certain tasks.
+Instead, McGilchrist argued that the brain is divided more so by perception. Simply put, the left hemisphere perceives the world through a precise, zoomed-in lens, while the right hemisphere perceives the world through a holistic, zoomed-out one.
+When people say that the left hemisphere is the “logical” brain, what they’re really saying is that it’s the part of the brain that tries to make sense of the world. It’s narrow by default and dissects reality so it could be made comprehensible.
+The right hemisphere, on the other hand, takes a much broader view of the world. It sees the sum of the individual parts and understands the contextual nature of everything. This ability to see the relationships between ideas and concepts is why it’s often viewed as the “creative” side of the brain.
+McGilchrist then designates the right hemisphere as the “master,” and the left hemisphere as its “emissary” (or servant). The master is the surveyor who can take in the overall landscape, while the emissary is the specialist who parses it and makes it sensible.
+But the problem is that we forget who is supposed to serve whom.
+McGilchrist argues that the modern world has put the emissary in charge, and put the master in the backseat. In a world driven by practicality, bureaucracy, and productivity, we value each other based on the narrowness of things like metrics, positions, and wealth. We neglect to consider the interconnectedness of it all, and instead only focus on the things that are measurable and trackable.
+And with AI, this is becoming even more of an issue.
+I recently spoke with a friend that worked in big tech. At one of his previous jobs, every person on his team had a token quota they needed to hit to ensure that they were using AI as much as possible.
+He then said that most people had no idea how they were going to use all those tokens, so they would just set up pointless tasks and routines for the AI to do. This would reliably burn all those tokens that were required of them, which would then satisfy the number that signified how “AI-native” they were.
+This is the modern example of an emissary serving no master. It’s when people use AI because they think they’re supposed to, rather than knowing what they’re even using it for.
+This isn’t just limited to the corporate world either. Earlier this year, I was in this position too.
+I first started using Claude Code in January after spending too much time on X over the holiday break. I saw people posting their set-ups, some of which included a chief-of-staff that triages their inbox and an agent that helps people make $10,000 a month. Seeing all these posts made me feel intense FOMO, so I made a concerted effort to use AI so I wouldn’t get left behind.
+Needless to say, that didn’t lead to great outcomes for me.
+AI is incredibly powerful, but that power has no weight if you don’t direct it toward meaningful problems you want to solve. In reality, I didn’t need a chief-of-staff that could surface the most important emails and auto-draft responses to them. My inbox is quite manageable and I like writing my own emails, so why in the world was I building this tool that doesn’t apply to me?
+The same could be said about building an agent whose sole existence is to make $10k a month. That might light up someone else’s curiosity, but it sounds quite dull and colorless to me. So why was I spending my attention learning this from someone whose values are different from mine?
+I’ve always believed in the power of introspection, but in the age of AI, I feel that it’s more important than ever. Ultimately, AI is an emissary that is an extension of you, the master. So if you aren’t clear about your values and your priorities, then AI will do a bunch of sparkly things that’ll prove to be mere distractions.
+The way I see it, the master and the emissary framework could be mapped this way:
+The outer rings are the “emissary” layer, or the narrowly-defined tasks that you want your AI to do. But in order for these to be meaningful, you need it to first understand who you are, what you prioritize, and what you need help with. This is the central part of the diagram, where you define what it means to be the “master.”
+The key insight is this:
+You have to first address the inner core before moving to the outer rings.
+Once I understood this, I took a fundamentally different approach with AI.
+Instead of looking outward to see what everyone else is doing, I took careful inventory of what I needed and what I wanted to protect. What are the activities I engage in that make me feel most human? What are the things that I don’t want AI to touch? What are the problems where I want AI to actively help me solve?
+Notice that the answers you give here will be entirely unique to you. Within these responses reside your values, your priorities, and your struggles. And to have a fruitful relationship with AI, it’s important to begin here.
+In my live 3-week program, [More To Build](https://b2cc74dc.click.convertkit-mail4.com/p9ux3k4eg3c9h2evl56tqhpmog84ztrhg9zwz/9qhzhnhdenlnmxszu3/aHR0cHM6Ly9tb3JldG9idWlsZC5jb20v) (enrollment opens on Tuesday), the instrument we’ll use to represent your core is called your AI’s compass. We’ll start by building it out in the form of a memory file that knows these 3 things about you:
+(1) A bit about who you are (however much you’re comfortable with sharing),
+(2) What makes you feel alive, and
+(3) What you need help with.
+It sounds so simple, but this compass will have a big impact on the way you work with AI. As the metaphor suggests, this compass is what gives your AI its sense of direction, which is crucial to produce the outcomes that best suit your personal preferences.
+As an introspective person myself (to a fault at times), I was thrilled to know that my musings on my values and priorities had an immediate, practical use. They were no longer just reflections on the art of living; they would also construct the compass that my AI would reference when building out all the ideas that I wanted to see in the world.
+It is here where we’ll then progress toward the outer rings.
+The outer rings represent all the specialized tasks that your AI will carry out on your behalf. In McGilchrist’s framing, they are the emissary that serves you, the master. And now that they have a clear direction (through your compass), they will be indicative of what exactly you’re trying to accomplish with AI in the first place.
+The initial outer ring we’ll explore is the construction of your Idea Playground. This is where you’ll use AI as a brilliant thought partner that can assist with any project of your choosing.
+We’re not going to get into details here, but a great Idea Playground thrives on great context. You have to look beyond the scope of a single task and instead take a more holistic approach to get the best results.
+For example, instead of simply uploading a draft of a blog post into Claude and asking it for feedback, you want Claude to first understand how you create blog posts in the first place.
+You can do this by giving it samples of your writing, asking it to analyze your published work online, or giving it an overview of your creative process. By doing this, it has a much better understanding of your style, which will allow it to then provide more tailored feedback to any subsequent post you provide.
+This ability to see the greater picture is what AI requires from you, the human. It will do any task you ask of, but the efficacy of that task will depend on how you steer and guide it.
+And the same could be said of the last outer ring we’ll go over in [More To Build](https://b2cc74dc.click.convertkit-mail4.com/p9ux3k4eg3c9h2evl56tqhpmog84ztrhg9zwz/9qhzhnhdenlnmxszu3/aHR0cHM6Ly9tb3JldG9idWlsZC5jb20v), which is the construction of your Toolkit.
+Once again, we’re not going to get into it too much here, but this is where you’ll build the tools that will solve the problems you described in your compass. What are the tools you wish existed that can best serve your craft or business?
+In my case, these are just a few of the tools that I’ve built with AI ([click here](https://b2cc74dc.click.convertkit-mail4.com/p9ux3k4eg3c9h2evl56tqhpmog84ztrhg9zwz/kkhmh6hno434qptku7/aHR0cHM6Ly9tb3JldG9idWlsZC5jb20vI3Rvb2xz) to play with the toolkit):
+Through the process of making these tools, I’ve realized that the bottleneck isn’t technical, as you can have zero coding knowledge and still build whatever you want. The bottleneck is in identifying what problems you want to solve, and the confidence in directing AI to build the solution.
+As you can see, the true skill set is to think holistically and to make connections from that zoomed-out perspective. It turns out that this isn’t as straight-forward as it seems, which is why I started [More To Build](https://b2cc74dc.click.convertkit-mail4.com/p9ux3k4eg3c9h2evl56tqhpmog84ztrhg9zwz/9qhzhnhdenlnmxszu3/aHR0cHM6Ly9tb3JldG9idWlsZC5jb20v) in the first place. In just 3 weeks, you’ll progress from the inner core to the outer rings, and you’ll have a fully operating AI studio by the end of it.
+Enrollment opens up on Tuesday, and seats for this beta cohort will be limited. There are 400 people on the waitlist, so I suggest you [join the list by clicking here](https://b2cc74dc.click.convertkit-mail4.com/p9ux3k4eg3c9h2evl56tqhpmog84ztrhg9zwz/9qh4m2rpbnhdenlnmwhzu3/aHR0cHM6Ly9tb3JldG9idWlsZC5jb20vd2FpdGxpc3Qtc3VjY2Vzcw==) and grab a seat when the doors open that morning.
+If there’s one thing you take away from this essay, it’s that AI is ultimately an extension of your creative self. It’s not a replacement for it because it requires your ingenuity and curiosity to guide it. And as the human being at the helm, your values and your priorities will act as the very guidance your AI needs.
+In the same way that an emissary requires a master, AI is a specialist that requires a director. The key is to be intentional about giving it that direction so it can be the best specialist it can be.
+That's it for today's essay. Was there anything that resonated? Anything that didn't? Feel free to hit reply and let me know; I read every email.
+I'm excited to share [More To Build](https://b2cc74dc.click.convertkit-mail4.com/p9ux3k4eg3c9h2evl56tqhpmog84ztrhg9zwz/9qhzhnhdenlnmxszu3/aHR0cHM6Ly9tb3JldG9idWlsZC5jb20v) with you next Tuesday morning PST. As long as you're on the waitlist, you'll be notified when enrollment opens up.
+Hope to see you there!
+-Lawrence Yeo
+If you were forwarded this email, subscribe to the More To That newsletter and get the next edition in your inbox.
+|
+|

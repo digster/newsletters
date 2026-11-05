@@ -1,0 +1,58 @@
+---
+id: "1a11c0b249a3ea28"
+subject: "More To That: On the spirit of teaching 🎓"
+from: "Lawrence Yeo <contact@moretothat.com>"
+to: ""
+date: 2026-10-08 15:03:25
+labels: ["CATEGORY_PERSONAL", "INBOX", "Lawrence Yeo", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_3631958563782906958", "UNREAD"]
+---
+|
+Hey friends,
+Today’s my birthday, and I turn 41. In some ways, I’ve seen a lot, but at the same time, I haven’t seen much at all. The truth tends to live in paradox, which is why I feel like I’m right where I’m supposed to be.
+I want to share a reflection today on the art of teaching, but first, an exciting announcement.
+I recently opened up enrollment for my new live course, [More To Build](https://b2cc74dc.click.convertkit-mail4.com/r8u4qoe8mqboh385ee0i2hdx983r3t7h49k0k/n2hohvhvl9o0d3c0ug/aHR0cHM6Ly9tb3JldG9idWlsZC5jb20v). It’s a 3-week program where you’ll build a fully operating AI Studio by the end of it. You’ll have:
+- An Idea Playground that understands how you think
+- A Toolkit you’ve built to solve your problems
+- The ability to go from Idea -> Build -> Publish in a single sitting
+My goal with [More To Build](https://b2cc74dc.click.convertkit-mail4.com/r8u4qoe8mqboh385ee0i2hdx983r3t7h49k0k/n2hohvhvl9o0d3c0ug/aHR0cHM6Ly9tb3JldG9idWlsZC5jb20v) is to reveal how AI can be an amplifier of your craft, and never a replacement for it. By putting you - the amazing human - at the center of the Studio, you’ll see how AI can lead to creative breakthroughs that are directly relevant to the priorities and values you have.
+I just opened up enrollment 2 days ago, and the cohort is already vibrant. So far we have financial advisors, physicians, prominent YouTubers, speaking coaches, marketers, non-profit consultants, and more. There’s already a wonderful and eclectic mix of humans, and the more eclectic, the better =).
+If you’ve been wanting to deepen your understanding of AI while also doing it with a group of thoughtful people, then I’d love to have you here.
+As a bonus for joining this first cohort, you’ll get free access to the next cohort as well. It’s just my way of saying thanks for joining this initial run.
+All right! Now onto today’s reflection.
+Ever since I was little, I’ve always wanted to be a teacher. I’ve now taken on this role in different capacities, and have realized something rather counterintuitive:
+You're a teacher by simply doing what you're doing.
+The goal of today’s reflection is to break that down a bit. So when you’re ready, let’s dive right in.
+[On the Spirit of Teaching](https://b2cc74dc.click.convertkit-mail4.com/r8u4qoe8mqboh385ee0i2hdx983r3t7h49k0k/48hvhehm7d28ombqu7/aHR0cHM6Ly9tb3JldG90aGF0LmNvbS9vbi10aGUtc3Bpcml0LW9mLXRlYWNoaW5nLw==)
+What differentiates a great teacher from a bad one? Is it a combination of their intellect and their charisma? Or is it far too variable to standardize a reply to this question?
+The author Parker Palmer attempted a response in his book, The Courage to Teach. And the moment I read it, I was struck by its lucidity.
+Simply put, he said that the inner landscape of a teacher is defined by the intersection of three domains:
+Now I’ll quote him because paraphrasing it would be an injustice. Here it is:
+“To chart that landscape fully, three important paths must be taken—intellectual, emotional, and spiritual—and none can be ignored.
+Reduce teaching to intellect, and it becomes a cold abstraction; reduce it to emotions, and it becomes narcissistic; reduce it to the spiritual, and it loses its anchor to the world. Intellect, emotion, and spirit depend on one another for wholeness.”
+I love that so much.
+All too often, we believe that the intellect is what makes a great teacher. That the stuff they have stored in their heads is the gateway to an educator's path.
+But we all know that incredibly intelligent teacher who embodies the collective inspiration of a 2” x 4”. He knows so much stuff, yet as Palmer says, sees his knowledge as nothing but a mere abstraction.
+Then there’s the teacher that always has to make a show out of everything. The one who believes that charisma is what captures attention and makes them effective.
+But as Palmer says, this is just narcissism disguised as education. It makes the teacher the center of it all, instead of the very students that the teacher is serving.
+The domain I find most interesting in Palmer’s description is that of the spiritual. In the context of education, we tend to associate this word with mystical gurus or religious preachers, but Palmer describes it this way:
+“By spiritual I mean the diverse ways we answer the heart’s longing to be connected with the largeness of life—a longing that animates love and work, especially the work called teaching.”
+When framed this way, it makes me realize that the spiritual is what holds the foundation of education together.
+The best teachers I’ve had are those that “answer the heart’s longing to be connected with the largeness of life.” And interestingly, the way they pursue it isn’t by going big and zooming out, but by zooming in on the individual right in front of them.
+It’s the teachers that understand that by tapping into the heart of one student, they’re able to tap into the hearts of many. Each life is woven into the vast tapestry of the human condition, which is why the impact on one ripples through it all.
+Ultimately, the best teachers understand that their actions and words extend beyond the domain of the self. Your intellect and your emotions can take you so far, but eventually you’ll fall into the abyss of self-absorption. There has to be a genuine love for the human spirit that not only restores your commitment as a teacher, but also happens to make you an effective one.
+As a personal example, the reason why I decided to teach AI is because I found this space to be dominated by just two of the three domains: the intellectual and the emotional. People teach AI through the lens of its computational power and the ways it can make you feel more capable. While this is undoubtedly powerful, you start to lose your anchor to what makes you most human.
+What makes us most human is the capacity to connect with something larger than ourselves, and one of the most reliable ways to do that is through creativity. There’s a reason why we refer to it as your “creative spirit” and no one bats an eye. We all inherently know that creativity transcends the material and connects us in a way that logic can’t quite explain.
+As it turns out, you can use AI to amplify that creativity, which in turn animates the human spirit even more. That realization is what connected the three paths together for me, which made it crystal clear that [I had to teach it](https://b2cc74dc.click.convertkit-mail4.com/r8u4qoe8mqboh385ee0i2hdx983r3t7h49k0k/n2hohvhvl9o0d3c0ug/aHR0cHM6Ly9tb3JldG9idWlsZC5jb20v).
+The same could be said for storytelling, philosophy, or anything else that I’ve taught during my time here. The subject can change, but the underlying sentiment is the same:
+If what I teach has the opportunity to connect people, then it is worthwhile.
+The beautiful thing is that every action we take is an effort to connect with another. We go to work because we want to provide value to a community. We share our writing so we can see who might resonate with our thoughts. And so on.
+So in essence, just doing what you’re doing means that you are teaching. In the same way that kids learn from observing their parents, the world is learning from the way you’re navigating it. The gift of teaching isn't locked behind a wall of credentials, as the sheer act of living is how the world receives it.
+That’s it for today’s reflection. Anything that resonated? Anything that didn’t? Feel free to hit reply to let me know.
+Once again, if you want to join me in my next teaching adventure, you can join the first cohort of [More To Build](https://b2cc74dc.click.convertkit-mail4.com/r8u4qoe8mqboh385ee0i2hdx983r3t7h49k0k/n2hohvhvl9o0d3c0ug/aHR0cHM6Ly9tb3JldG9idWlsZC5jb20v). My live cohorts tend to sell out, and based on the trajectory so far, this likely will too.
+And finally, thanks for taking a moment to be with me on my birthday. I’ve celebrated a good amount of these now, but it still doesn’t get old =). Part of that is because I can now share it with you too, and for that, I’m so grateful.
+-Lawrence Yeo
+*Note: Thanks to my good friend Nick Goode for introducing me to Parker Palmer’s work through his book, [Let Your Life Speak](https://b2cc74dc.click.convertkit-mail4.com/r8u4qoe8mqboh385ee0i2hdx983r3t7h49k0k/wnh2hghql2o6zxslux/aHR0cHM6Ly9hbXpuLnRvLzRoT3hpemU=). Not only is that book such a rich source of timeless wisdom, but it’s also a reminder of our friendship. Thank you.
+If you were forwarded this email, subscribe to the More To That newsletter and get the next edition in your inbox.
+|
+|

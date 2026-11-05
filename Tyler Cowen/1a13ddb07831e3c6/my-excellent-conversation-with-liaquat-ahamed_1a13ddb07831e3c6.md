@@ -1,0 +1,24 @@
+---
+id: "1a13ddb07831e3c6"
+subject: "My excellent Conversation with Liaquat Ahamed"
+from: "Marginal REVOLUTION <donotreply@wordpress.com>"
+to: ""
+date: 2026-10-15 04:38:45
+labels: ["CATEGORY_PERSONAL", "INBOX", "Tyler Cowen", "UNREAD"]
+label_ids: ["CATEGORY_PERSONAL", "INBOX", "Label_2466199532210586699", "UNREAD"]
+---
+Here is the [audio, video, and transcript](https://marginalrevolution.com?action=user_content_redirect&uuid=a6934814e7d4ce4495b7142152205b00a2ad0aa4c61a187a11b133356d87947c&blog_id=42693868&post_id=93995&user_id=262258391&subs_id=225460721&signature=c1a32154d7932c87f969d81dac36bedc&email_name=new-post&user_email=ishan.mail@gmail.com&encoded_url=aHR0cHM6Ly9jb252ZXJzYXRpb25zd2l0aHR5bGVyLmNvbS9lcGlzb2Rlcy9saWFxdWF0LWFoYW1lZC8&email_id=0dab3c15d8a1a5e94ddf085de0fbe56a). Here is part of the episode summary:
+They start with that puzzle before moving through Gladstone’s startlingly self-interested bet on Egyptian bonds, Bismarck’s role in destroying bimetallism and deflating the world economy for two decades, whether a global silver or symmetallic standard could have worked, Britain’s fateful decision to re-peg the pound to gold in 1926, Hjalmar Schacht’s transformation from the economist who stabilized Weimar’s currency to opportunist collaborator with the Nazi regime, Montagu Norman’s spiritualist beliefs, why the 1920s produced such a creative cultural moment, lessons from the IMF on Ireland’s housing bubble and Pakistan’s two dozen bailouts, what went wrong in the eurozone crisis, Britain’s baffling modern stagnation, and finally to his own restless career — from the World Bank to a failed Iraq film to Ismaili Islam’s uniquely progress-oriented leadership structure, and what he wants to write next.
+We open thus:
+COWEN: I have a general question about how your work fits together. Your book Lords of Finance, it convinced me that financial crises really matter, and your new book, 1873, almost convinced me that financial crises don’t really matter, because the world just keeps on growing. What makes the difference for when, historically speaking, crises will really matter?
+AHAMED: I think the first book, Lords of Finance, was about the financial crisis that really plunged the world into a Great Depression. The second, 1873, is about a crisis that didn’t actually plunge the world into a terrible great depression, but what it did was cause a sequence of effects throughout the world which damaged the political economy of the world for the next 20 years. A better title would have been The First Great Deflation.
+COWEN: We’re supposed to believe that deflation is bad, nominal wages are sticky. This was a pretty slow deflation, but by one measure, the major world economies are growing 2.5 percent over the next 20 years from 1873 onwards. How did we adjust so well to this?
+AHAMED: Because prices were flexible. Nominal wages went down. I think the distributional consequences and the political impact of those distributional consequences were much more damaging than the pure economic consequences.
+COWEN: In the 1920s, and a bit afterwards, of course, you could say politics goes crazy in many countries, most of all in Europe. After 1873, would you say politics went crazy, or it just continued along its 19th-century path?
+AHAMED: No, I don’t think it went crazy, but it wasn’t a happy time politically—it’s populism in the United States, the resurgence of protectionism in Europe, the retreat from liberal ideas, the revival of imperialism by Britain when it invaded Egypt. Those were not happy things that happened.
+And this:
+COWEN: Now, I know you’re listed as non-practicing, but I’m quite curious about Ismaili Muslims and why they seem to be so much more pro-progress, on average, than other parts of the Muslim world. Do you have a view on this?
+AHAMED: Yes, very much so, because of our leadership. We Ismailis believe in the leadership of a man, the Aga Khan. We believe he’s the direct descendant of the Prophet Muhammad, and he sets the agenda for the whole community. Many, in the old days, people believed he was divine or he had divine spirit. I don’t think many people believe that anymore, but he’s invested with so much moral authority that if he says, move to Africa, big chunks of the community will do that. He has charted an incredibly enlightened direction for the community. It’s not very large. There are maybe two or three million Ismailis in the world.
+COWEN: You think it’s that the Imam is nonhidden that’s useful because he’s a source of ongoing change?
+AHAMED: Yes. That was the whole rationale for Shiism.
+Interesting and substantive throughout, recommended.
